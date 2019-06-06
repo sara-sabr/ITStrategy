@@ -2,7 +2,7 @@
 
 ## Mandate 
 
-Provide IITB and ESDC with the knowledge and tools to lead the creation of the Canadian Experience -- a world-class set of government enabled services which seamlessly integrate into the lives of Canadians throughout their life to support them in helping them live productive and rewarding lives and to improve their quality of life.
+Create the knowledge, tools, and processes required for IITB, and therefore ESDC, to create the Canadian Experience -- a world-class set of government enabled services which seamlessly integrate into the lives of Canadians throughout their life to support them in helping them live productive and rewarding lives and to improve their quality of life.
 
 ## Vision 
 
@@ -16,9 +16,41 @@ We envision a service standard that reads
 
 > … for Employment Insurance (EI) ESDC will make funds available 15 days after a second consecutive paycheque is missed. 
 
-## Context 
+## Concept 
 
+A good strategy takes into accounts the strengths and weaknesses of an organization, and maximizes and minimizes them, respectively. 
 
+### SWOT 
+
+#### Strengths
+
+- Wealth of human resources 
+- Large impact on Canadians 
+
+#### Weaknesses 
+
+- Not keeping up with rate of change
+- Large amount of legacy infrastructure 
+
+#### Opportunities
+
+- Transform the lives of Canadians 
+- Trans
+
+#### Threats 
+
+- All resources spent maintaining existing technical debt 
+- Does not keep pace with the rate of change 
+
+### SWOT Analysis 
+
+#### Strengh + Opportunities 
+
+- If ESDC is able to leverage our resources towards delivering services to Canadians, we have the opportunity to deiver real impact 
+
+#### Weaknesses + Threats 
+
+- If ESDC allows technical debt to pile up, resources will be spent maintaining the status quo rather than improving services for Canadians 
 
 ## How
 
