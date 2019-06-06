@@ -1,0 +1,34 @@
+{
+  "name": "itstrategy",
+  "version": "0.0.1",
+  "description": "A repo to maintain our documentation around IT Strategy",
+  "main": "index.js",
+  "scripts": {
+    "link-check": "node link-check.js",
+    "lint": "markdownlint -i node_modules \"**/*.md\"",
+    "spellcheck": "cspell *.md",
+    "test": "npm run lint && npm run spellcheck && npm run link-check"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sara-sabr/ITStrategy.git"
+  },
+  "keywords": [
+    "strategy",
+    "documentation",
+    "collaboration"
+  ],
+  "author": "Guillaume Charest",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sara-sabr/ITStrategy/issues"
+  },
+  "homepage": "https://github.com/sara-sabr/ITStrategy#readme",
+  "devDependencies": {
+    "chalk": "^2.4.2",
+    "cspell": "^3.2.8",
+    "glob": "^7.1.2",
+    "markdown-link-check": "^3.7.2",
+    "markdownlint-cli": "^0.15.0"
+  }
+}
