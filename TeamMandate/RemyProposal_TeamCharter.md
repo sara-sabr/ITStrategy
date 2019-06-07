@@ -30,7 +30,7 @@ technologies in order to move towards this target state vision.
 
 ## Objectives and metrics
 ### Objectives and Value Proposition
-The agreed-on value of the IT Strategy practice for the next year will be in assisting IITB in delivering the following in support of the business outcomes: 
+The agreed-on value of the IT Strategy practice for the nextn year will be in assisting IITB in delivering the following in support of the business outcomes: 
 
 - An established team mandate that is approved by the CIO
 - An ESDC IT Strategy
