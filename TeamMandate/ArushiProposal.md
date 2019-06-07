@@ -1,18 +1,20 @@
-## Department: Employment and Social Development Canada
+# Department: Employment and Social Development Canada
+
 ## Branch: Innovation, Information and Technology Branch - Strategy, Architecture and Business Relations
-> •Strategy Development
-> •Architecture
->     ◦Enterprise Architecture
->     ◦Technical Architecture
->     ◦Solutions Architecture
-> •Supplier Management (future)
-> •Accommodations
-> •Application Portfolio Management
-> •Technology, market, and vendor research
-> •IT Products and Service Management
-> •Business Relationship Management
-> •Branch Project Management Office
-> •Transformation Programme Support
+
+* Strategy Development
+* Architecture
+  * Enterprise Architecture
+  * Technical Architecture
+  * Solutions Architecture
+* Supplier Management (future)
+* Accommodations
+* Application Portfolio Management
+* Technology, market, and vendor research
+* IT Products and Service Management
+* Business Relationship Management
+* Branch Project Management Office
+* Transformation Programme Support
 
 Theme for the branch - Innovation and Experimentation 
 >_The Strategic Framework identifies five themes that cut across the initiatives: Indigenous Reconciliation, Gender Impact and Equality, Vulnerable Groups, Policy-Service Integration, and Innovation and Experimentation._
@@ -38,9 +40,9 @@ Canada has a unique and well-developed social welfare system. However, with the 
 
 **_Experimental initiatives and redefining services_**  
 With no proven path yet and countries around the globe grappling to give sense to the advancement in technology, Canada needs to put in efforts to   
-  -	keep a watch on global trends,   
-  -	evolve new services based on changing economic and social structure   
-  -	understand overall implications and devise risk mitigation strategies   
+* keep a watch on global trends,   
+* evolve new services based on changing economic and social structure   
+* understand overall implications and devise risk mitigation strategies   
 Toiling with ideas may need to develop quick-evolving initiatives to experiment and learn.     
 
 **_Regulatory sandbox and data to function together_**  
@@ -69,57 +71,57 @@ Our mandate is to architect and support implementation of a secure foundation of
 ~~Our mandate is to envision the role of ESDC in the fast changing landscape of social behaviour and needs, and drive human-centric service delivery through transformational technology and innovation~~
 
 ## Priorities of the branch
--	(GIVING VISION & STRATEGY) Envisioning and architecting a secure and central system to lay the foundation for digital transformation
--	(STRATEGY, PRIORITY & INVESTMENT) Providing foresight and prioritising investment on transformational service delivery programs 
--	(POLICY, NEW COOPERATION MODELS) Forge social partnerships with private sector for utilizing their business expertise and information to meet service delivery goals 
--	(STRATEGY & PRIORITY) Direct research strategy and developmental efforts for innovation teams such as DevOps
--	(POLICY) Initiate dialogues to continuously evolve on using next-generation technologies 
--	(POLICY) Recommend governing guidelines for the use of data and technologies 
--	(INTEROPERABILITY & RESOURCE ALLOCATION) Mobilize resources to support quick turn around time to deploy innovation practices, and act as a synchronizer for efficient running of existing practices alongside the new practices
--	(RISK AND COMPLIANCE) Develop guidelines for secure use of information and data during the implementation of transformational programs 
+* (GIVING VISION & STRATEGY) Envisioning and architecting a secure and central system to lay the foundation for digital transformation
+* (STRATEGY, PRIORITY & INVESTMENT) Providing foresight and prioritising investment on transformational service delivery programs 
+* (POLICY, NEW COOPERATION MODELS) Forge social partnerships with private sector for utilizing their business expertise and information to meet service delivery goals 
+* (STRATEGY & PRIORITY) Direct research strategy and developmental efforts for innovation teams such as DevOps
+* (POLICY) Initiate dialogues to continuously evolve on using next-generation technologies 
+* (POLICY) Recommend governing guidelines for the use of data and technologies 
+* (INTEROPERABILITY & RESOURCE ALLOCATION) Mobilize resources to support quick turn around time to deploy innovation practices, and act as a synchronizer for efficient running of existing practices alongside the new practices
+* (RISK AND COMPLIANCE) Develop guidelines for secure use of information and data during the implementation of transformational programs 
 
 ~~Governance focus include:
-o	Design principles for IT governance (_could introduce a new bimodal governance structure here_)
-o	Investment and priorities (_will help create a new category of exploratory projects_)
-o	Architecture (_prepare for the future, HDLC?_)
-o	Infrastructure use (_manage resources, coordinate between departments_)
-o	Client needs (_transform service delivery through adoption of advanced technologies_)
-o	Client engagement (_collect feedback and develop trust among citizen for use of data_)~~    
+o Design principles for IT governance (_could introduce a new bimodal governance structure here_)
+o Investment and priorities (_will help create a new category of exploratory projects_)
+o Architecture (_prepare for the future, HDLC?_)
+o Infrastructure use (_manage resources, coordinate between departments_)
+o Client needs (_transform service delivery through adoption of advanced technologies_)
+o Client engagement (_collect feedback and develop trust among citizen for use of data_)~~    
 
 ## Activities
 **_Policy and strategy development_**
--	Initiate new exploratory programs/projects and secure required funding/resources (_Who makes the submissions? Does each branch make their own submission? Does all submission go through CIO for approval first? Does IITB play a central role in project submissions? Within IITB is it Denis’s group that would do that?_)
--	Recommend policies and program guidelines for digital products/services (_Who approves or make decisions on policies?_)
--	Recommend suitable governance guidelines for exploratory programs/projects
--	Create 3-year plan for research and development strategy for DevOps (_How would DevOps be governed? Are they independent?_)
--	Ensure that ESDC’s technology programs/initiatives aligns with the themes of the strategic framework and priorities of the department
--	Develop adoption strategy for modern/futuristic technology, including architecture design (enterprise, technical and solutions)  
+* Initiate new exploratory programs/projects and secure required funding/resources (_Who makes the submissions? Does each branch make their own submission? Does all submission go through CIO for approval first? Does IITB play a central role in project submissions? Within IITB is it Denis’s group that would do that?_)
+* Recommend policies and program guidelines for digital products/services (_Who approves or make decisions on policies?_)
+* Recommend suitable governance guidelines for exploratory programs/projects
+* Create 3-year plan for research and development strategy for DevOps (_How would DevOps be governed? Are they independent?_)
+* Ensure that ESDC’s technology programs/initiatives aligns with the themes of the strategic framework and priorities of the department
+* Develop adoption strategy for modern/futuristic technology, including architecture design (enterprise, technical and solutions)  
 **_Program(s) Management_**
--	Continuously monitor technology trends to keep pace with technological development
--	Perform risk identification and risk management (modern and secure technology)
--	Network architecture design  
+* Continuously monitor technology trends to keep pace with technological development
+* Perform risk identification and risk management (modern and secure technology)
+* Network architecture design  
 **_Resource Allocation_**
--	Allocate resources between various projects/initiatives 
--	Improve the sharing of information and resources between programs and across departments (How would bimodal work?)  
+* Allocate resources between various projects/initiatives 
+* Improve the sharing of information and resources between programs and across departments (How would bimodal work?)  
 **_Organization Engagement_**
--	Coordinate with other departments to centralize use and allocation of IT resources 
--	Create/lead a working group (_invites members from across organizations_) for gathering information on prevailing IT challenges
--	Stimulate dialogues on the use of technology to improve services  
+* Coordinate with other departments to centralize use and allocation of IT resources 
+* Create/lead a working group (_invites members from across organizations_) for gathering information on prevailing IT challenges
+* Stimulate dialogues on the use of technology to improve services  
 
 ## Redesigning governance style
 To keep pace with the digital habits of the citizens, ESDC needs to adopt technology at a much faster pace for service delivery. The IM and IT policies laid out by Treasury Board focuses on efficiency, stability and accuracy. Existing IM/IT governance style work well with projects associated with proven methodologies and technologies.   
 However, it inherits some barriers for implementing exploratory projects. Exploratory projects are associated with innovating or experimenting to deliver a sudden transformation of business outcome. Redefining governance policies may be needed to promote:
--	Adoption of lean culture and continuous/agile delivery practices for churning out new products and services 
--	Initiate exploratory programs without sacrificing risk aversion governing nature 
--	Tight alignment of programs with the branch priorities 
--	Improves time-to-market and product evolution (Principle: "Fail fast")
--	Make innovation a sustainable process
+* Adoption of lean culture and continuous/agile delivery practices for churning out new products and services 
+* Initiate exploratory programs without sacrificing risk aversion governing nature 
+* Tight alignment of programs with the branch priorities 
+* Improves time-to-market and product evolution (Principle: "Fail fast")
+* Make innovation a sustainable process
 
 ## Redefining the services 
 Examples of new/emergent services:
--	Skills accreditation:  To compete with the global workforce, giving standard accreditation to Canadian skills may ease the workforce recognition at a global stage. It also helps in creating a Canadian brand in different industries
--	Social and corporate influence: It is nearly impossible to foresee social and corporate influence on Canadians lives in the coming future. Emergence of digital value chain, commoditisation of many skills/services and pervasiveness of data-centric applications are influencing human choices and needs. Sharing of data among government, businesses and individuals may seem natural and need of the hour. Government role in such a place may give rise to new services to individuals and businesses. 
--	Future anticipation: With perceived wide scale adoption of AI and other technologies, there would a general displacement in the nature of work. This may require the citizens to retrain or learn new skills. ESDC can play a huge role in allaying the fears of citizens by anticipating their training and well-being needs through data-centric applications.
--	portability of benefits, worker classification, and wage variability.
+* Skills accreditation:  To compete with the global workforce, giving standard accreditation to Canadian skills may ease the workforce recognition at a global stage. It also helps in creating a Canadian brand in different industries
+* Social and corporate influence: It is nearly impossible to foresee social and corporate influence on Canadians lives in the coming future. Emergence of digital value chain, commoditisation of many skills/services and pervasiveness of data-centric applications are influencing human choices and needs. Sharing of data among government, businesses and individuals may seem natural and need of the hour. Government role in such a place may give rise to new services to individuals and businesses. 
+* Future anticipation: With perceived wide scale adoption of AI and other technologies, there would a general displacement in the nature of work. This may require the citizens to retrain or learn new skills. ESDC can play a huge role in allaying the fears of citizens by anticipating their training and well-being needs through data-centric applications.
+* portability of benefits, worker classification, and wage variability.
 
 
