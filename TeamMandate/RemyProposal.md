@@ -15,5 +15,5 @@ ESDC is a world class government digital service provider that continually impro
 - Engage with ESDC stakeholders (internal and external to ESDC) to address impediments to change and guide the enterprise response to disruptions brought from the IT strategies, and
 - Use ESDC's influence at the federal level to collaborate and lead other federal government departments towards the Government of Canada's digital vision of being a fully digitally enabled government
 
-# Team Charter
+## Team Charter
 The Team charter provides clarity on the purpose and scope of the IT Strategy team for all stakeholders. To keep things simpler, the [proposed charter is drafted here](RemyProposal_TeamCharter.md).
