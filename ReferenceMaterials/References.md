@@ -14,7 +14,7 @@ Some of that content may only be available on GC/ESDC network
 
 ## General
 - [DARPA](https://www.darpa.mil/about-us/about-darpa): Mission is "to make pivotal investments in breakthrough technologies for national security"
-- [Policy Horizons Canada](https://horizons.gc.ca/en/about-us/): Federal government organization that conducts foresight. Mandate is to help the GC develop future-oriented policy and programs that are more robust and resilient in the face of disruptive change on the horizon. (specific content available on [Sharepoint](http://dialogue/grp/BU6810070/Shared%20Documents/Forms/AllItems.aspx?RootFolder=%2Fgrp%2FBU6810070%2FShared%20Documents%2FReference%20Materials&FolderCTID=0x012000750E51FFC3799647B0714B66227C003A&View={DA914447-F5A7-44BD-89E1-9ECB3B44185A}&InitialTabId=Ribbon%2EDocument&VisibilityContext=WSSTabPersistence)))
+- [Policy Horizons Canada](https://horizons.gc.ca/en/about-us/): Federal government organization that conducts foresight. Mandate is to help the GC develop future-oriented policy and programs that are more robust and resilient in the face of disruptive change on the horizon. (specific content available on [SharePoint](http://dialogue/grp/BU6810070/Shared%20Documents/Forms/AllItems.aspx?RootFolder=%2Fgrp%2FBU6810070%2FShared%20Documents%2FReference%20Materials&FolderCTID=0x012000750E51FFC3799647B0714B66227C003A&View={DA914447-F5A7-44BD-89E1-9ECB3B44185A}&InitialTabId=Ribbon%2EDocument&VisibilityContext=WSSTabPersistence)))
 
 ## Other Countries
 - [Digital Taiwan (DIGI Taiwan)](https://digi.taiwan.gov.tw/): To accelerate industrial innovation, to create smart Taiwan
