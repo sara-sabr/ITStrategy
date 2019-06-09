@@ -6,7 +6,7 @@
   "scripts": {
     "link-check": "node link-check.js",
     "lint": "markdownlint -i node_modules \"**/*.md\"",
-    "spellcheck": "cspell *.md",
+    "spellcheck": "cspell \"**/*.md\"",
     "test": "npm run lint && npm run spellcheck && npm run link-check"
   },
   "repository": {

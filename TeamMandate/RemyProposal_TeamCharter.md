@@ -30,7 +30,7 @@ technologies in order to move towards this target state vision.
 
 ## Objectives and metrics
 ### Objectives and Value Proposition
-The agreed-on value of the IT Strategy practice for the nextn year will be in assisting IITB in delivering the following in support of the business outcomes: 
+The agreed-on value of the IT Strategy practice for the next year will be in assisting IITB in delivering the following in support of the business outcomes: 
 
 - An established team mandate that is approved by the CIO
 - An ESDC IT Strategy
@@ -46,7 +46,7 @@ The agreed-on value of the IT Strategy practice for the nextn year will be in as
 |IT Strategy Capability|ConOps and Strategy Playbook|Nov 1, 2019|
 |ESDC Horizon Diagnostic|Report on the government of canada's digital horizon landscape and how it will disrupt ESDC's service offering|Jan 1, 2020|
 |IT Strategy||TBD|
-|Architectural and Governance models for innvation|Architectural support for bimodal approach agreed on at the ARB. PMO governance agreeing to bimodal approach|TBD|
+|Architectural and Governance models for innovation|Architectural support for bimodal approach agreed on at the ARB. PMO governance agreeing to bimodal approach|TBD|
 |Technology innovation model|Number of IT Standards changes to reflecting modern DevOps practices|TBD|
 |Team Dynamics|Number of releases going to production per months|TBD|
 |Service Oriented|Number of foundational elements produced by IITB, supported by ARB and used by the Solution Architecture team|TBD|

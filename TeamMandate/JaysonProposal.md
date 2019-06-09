@@ -6,15 +6,15 @@ Create the knowledge, tools, and processes required for IITB, and therefore ESDC
 
 ## Vision 
 
-ESDC provides a unique set of services to Canadians, and should focus their efforts on maximizing the ease with which Canadians access our services.  While the private sector is becoming increasingly efficient at building collaborative networks, ESDC should leverage the existing ecosystem rather than compete with it. ESDC should allow private sector companies to use expertise to facilitate the manner in which ESDC interacts with its citizens to create a seamless service delivery process rather than an arduous expensive manual one. Through this method, the IT Strategy team aims to create the Canadian Experience, where Canadians experience the government as a nonintrusive beneficial force in their lives. When traveling, Canadians should feel the difference when contrasting how easy life in Canada is with that of other developed countries. 
+ESDC provides a unique set of services to Canadians, and should focus their efforts on maximizing the ease with which Canadians access our services.  While the private sector is becoming increasingly efficient at building collaborative networks, ESDC should leverage the existing ecosystem rather than compete with it. ESDC should allow private sector companies to use expertise to facilitate the manner in which ESDC interacts with its citizens to create a seamless service delivery process rather than an arduous expensive manual one. Through this method, the IT Strategy team aims to create the Canadian Experience, where Canadians experience the government as a non-intrusive beneficial force in their lives. When traveling, Canadians should feel the difference when contrasting how easy life in Canada is with that of other developed countries. 
 
-Presently, our service standard reads … 
+Presently, our service standard reads ... 
 
-> … for Employment Insurance (EI) is for EI benefit payments or non-benefit notifications to be issued within 28 calendar days of filing. 
+> ... for Employment Insurance (EI) is for EI benefit payments or non-benefit notifications to be issued within 28 calendar days of filing. 
 
 We envision a service standard that reads
 
-> … for Employment Insurance (EI) ESDC will make funds available 15 days after a second consecutive paycheque is missed. 
+> ... for Employment Insurance (EI) ESDC will make funds available 15 days after a second consecutive paycheque is missed. 
 
 ## Concept 
 
@@ -44,9 +44,9 @@ A good strategy takes into accounts the strengths and weaknesses of an organizat
 
 ### SWOT Analysis 
 
-#### Strengh + Opportunities 
+#### Strength + Opportunities 
 
-- If ESDC is able to leverage our resources towards delivering services to Canadians, we have the opportunity to deiver real impact 
+- If ESDC is able to leverage our resources towards delivering services to Canadians, we have the opportunity to deliver real impact 
 
 #### Weaknesses + Threats 
 
@@ -60,7 +60,7 @@ Through initiatives such as the promotion of the GC DevOps League, the IT Strate
 ### IT Transformative Foresight 
 If you are in a position of leadership, take the time to imagine what Canada would look like if you started over. If you were to recreate government services today, what would they look like? If you did not have legacy technology, a legacy economy, legacy immigration policies, legacy economic development policies, how would you design the world?
 
-The IT Strategy Team`s responsibility, as outlined in the mandate, is to ensure ESDCs leading role within the global government community. Doing so will take aggressive strategies to evolve how citizens interact with their government. We will do this by redefining how government can best serve its citizens and creating roadmaps to successful implementation. 
+The IT Strategy Team`s responsibility, as outlined in the mandate, is to ensure ESDC's leading role within the global government community. Doing so will take aggressive strategies to evolve how citizens interact with their government. We will do this by redefining how government can best serve its citizens and creating roadmaps to successful implementation. 
 
 In 2014, the OECD found a 46% satisfaction and confidence rate across public services. While this does put us above the OECD average, 42%, there remains clear room for improvement. ESDC has a disproportional opportunity to increase Canada`s lead on the global average. Further, the satisfaction with the national government lags far behind the satisfaction with health care, education, and judicial. 
 
