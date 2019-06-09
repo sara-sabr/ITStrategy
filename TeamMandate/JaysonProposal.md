@@ -8,13 +8,13 @@ Create the knowledge, tools, and processes required for IITB, and therefore ESDC
 
 ESDC provides a unique set of services to Canadians, and should focus their efforts on maximizing the ease with which Canadians access our services.  While the private sector is becoming increasingly efficient at building collaborative networks, ESDC should leverage the existing ecosystem rather than compete with it. ESDC should allow private sector companies to use expertise to facilitate the manner in which ESDC interacts with its citizens to create a seamless service delivery process rather than an arduous expensive manual one. Through this method, the IT Strategy team aims to create the Canadian Experience, where Canadians experience the government as a non-intrusive beneficial force in their lives. When traveling, Canadians should feel the difference when contrasting how easy life in Canada is with that of other developed countries. 
 
-Presently, our service standard reads � 
+Presently, our service standard reads ... 
 
-> � for Employment Insurance (EI) is for EI benefit payments or non-benefit notifications to be issued within 28 calendar days of filing. 
+> ... for Employment Insurance (EI) is for EI benefit payments or non-benefit notifications to be issued within 28 calendar days of filing. 
 
 We envision a service standard that reads
 
-> � for Employment Insurance (EI) ESDC will make funds available 15 days after a second consecutive paycheque is missed. 
+> ... for Employment Insurance (EI) ESDC will make funds available 15 days after a second consecutive paycheque is missed. 
 
 ## Concept 
 
