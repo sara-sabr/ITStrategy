@@ -6,7 +6,7 @@ The following is a proposed approach on producing the IT Strategy. It takes as p
 
 ## The approach
 
-![Approach to Strategy making](img/StrategyMakingApproach.pnd)
+![Approach to Strategy making](img/StrategyMakingApproach.png)
 
 ### 1. Establish the Vision
 
