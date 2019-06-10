@@ -39,9 +39,9 @@ Canada has a unique and well-developed social welfare system. However, with the 
 _Experimental initiatives and redefining services_  
 With no proven path yet and countries around the globe are grappling to give sense to the advancement in technology, Canada needs to put its own efforts to make informed decisions, leverage the opportunities and minimize long-term risks. 
 Going forward, the service delivery architecture that supports new service discovery, and is modular for easy implementation of technology and policies. 
--	keep a watch on global trends,   
--	evolve new services based on changing economic and social structure   
--	understand overall implications and devise risk mitigation strategies   
+* keep a watch on global trends,   
+* evolve new services based on changing economic and social structure   
+* understand overall implications and devise risk mitigation strategies   
 Toiling with ideas may need to develop quick-evolving initiatives to experiment and learn.    
 
 _Regulatory sandbox and data to function together_  
@@ -67,15 +67,15 @@ Our mandate is to architect and support implementation of a secure foundation of
 ~~Our mandate is to envision the role of ESDC in the fast changing landscape of social behaviour and needs, and drive human-centric service delivery through transformational technology and innovation~~  
 
 ## Priorities of the branch
--	(GIVING VISION & STRATEGY) Envisioning and architecting a secure and central system to lay the foundation for digital transformation for service delivery
--	(STRATEGY, PRIORITY & INVESTMENT) Providing foresight and prioritising investment on transformational service delivery programs 
--	(POLICY, NEW COOPERATION MODELS) Forge social partnerships with private sector for utilizing their business expertise and information/data to meet service delivery goals 
--	(STRATEGY & PRIORITY) Direct research strategy and developmental efforts for innovation teams such as DevOps
--	(POLICY) Initiate dialogues to discuss existing planning/implementation challenges and recommend solutions/guidelines
--	(STRATEGY & DEPARTMENTAL COORDINATION) Initiate dialogues to continuously evolve on using next-generation technologies 
--	(POLICY) Recommend governing guidelines for the use of data and technologies 
--	(INTEROPERABILITY & RESOURCE ALLOCATION) Mobilize resources to support quick turn around time to deploy innovation practices, and act as a synchronizer for efficient running of existing practices alongside the new practices
--	(RISK AND COMPLIANCE) Develop guidelines for secure use of information and data during the implementation of transformational programs   
+* (GIVING VISION & STRATEGY) Envisioning and architecting a secure and central system to lay the foundation for digital transformation for service delivery
+* (STRATEGY, PRIORITY & INVESTMENT) Providing foresight and prioritising investment on transformational service delivery programs 
+* (POLICY, NEW COOPERATION MODELS) Forge social partnerships with private sector for utilizing their business expertise and information/data to meet service delivery goals 
+* (STRATEGY & PRIORITY) Direct research strategy and developmental efforts for innovation teams such as DevOps
+* (POLICY) Initiate dialogues to discuss existing planning/implementation challenges and recommend solutions/guidelines
+* (STRATEGY & DEPARTMENTAL COORDINATION) Initiate dialogues to continuously evolve on using next-generation technologies 
+* (POLICY) Recommend governing guidelines for the use of data and technologies 
+* (INTEROPERABILITY & RESOURCE ALLOCATION) Mobilize resources to support quick turn around time to deploy innovation practices, and act as a synchronizer for efficient running of existing practices alongside the new practices
+* (RISK AND COMPLIANCE) Develop guidelines for secure use of information and data during the implementation of transformational programs   
 
 ## Activities
 **_Policy and strategy development_**
