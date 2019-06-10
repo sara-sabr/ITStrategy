@@ -2,19 +2,19 @@
 
 ## Branch: Innovation, Information and Technology Branch - Strategy, Architecture and Business Relations
 
-* Strategy Development
-* Architecture
-  * Enterprise Architecture
-  * Technical Architecture
-  * Solutions Architecture
-* Supplier Management (future)
-* Accommodations
-* Application Portfolio Management
-* Technology, market, and vendor research
-* IT Products and Service Management
-* Business Relationship Management
-* Branch Project Management Office
-* Transformation Programme Support
+>* Strategy Development
+>* Architecture
+ > * Enterprise Architecture
+  >* Technical Architecture
+  >* Solutions Architecture
+>* Supplier Management (future)
+>* Accommodations
+>* Application Portfolio Management
+>* Technology, market, and vendor research
+>* IT Products and Service Management
+>* Business Relationship Management
+>* Branch Project Management Office
+>* Transformation Programme Support
 
 Theme for the branch - Innovation and Experimentation 
 >_The Strategic Framework identifies five themes that cut across the initiatives: Indigenous Reconciliation, Gender Impact and Equality, Vulnerable Groups, Policy-Service Integration, and Innovation and Experimentation._
@@ -32,17 +32,22 @@ The emergence of new job roles, occupations and industries, and corporations wit
 In pursuit of improving quality of life for Canadians, ESDC needs to manage these changes in society and provide a support structure to prepare Canadians towards unprecedented risks and disruption from global participants. 
 
 ## Vision 
-Emerging technologies such as Artificial Intelligence, blockchain and high speed network provides tremendous opportunities to renew the ESDC service delivery and augment the experience for Canadians. With informed choices, Canada can further the impact of its social safety net and make a more inclusive society.   
+Emerging technologies such as Artificial Intelligence, blockchain and high speed network provides tremendous opportunities to renew the ESDC service delivery and augment the experience for Canadians. With greater planning and informed choices, ESDC’s technology-enabled service transformation can further the impact of its social safety net and make a more inclusive society.   
 
-Canada has a unique and well-developed social welfare system. However, with the changing economic and social climate, this may quickly become outdated – impacting our economic growth and employment rate. Social inclusion and quality of life may be determined by availability and accessibility to different services such as special skills training avenues, …   
+Canada has a unique and well-developed social welfare system. However, with the changing economic and social climate, this may quickly become outdated - impacting our economic growth and employment rate. Social inclusion and quality of life in future may be determined by disposition of different services and resources.    
+
+Keeping in mind the digital vision of Canada's service delivery, business plan should be geared towards more realistic and achievable forecasts.  
 
 _Experimental initiatives and redefining services_  
 With no proven path yet and countries around the globe are grappling to give sense to the advancement in technology, Canada needs to put its own efforts to make informed decisions, leverage the opportunities and minimize long-term risks. 
-Going forward, the service delivery architecture that supports new service discovery, and is modular for easy implementation of technology and policies. 
-* keep a watch on global trends,   
-* evolve new services based on changing economic and social structure   
-* understand overall implications and devise risk mitigation strategies   
-Toiling with ideas may need to develop quick-evolving initiatives to experiment and learn.    
+
+Canada’s service delivery architecture should support new service discovery, and be modular for easy implementation of technology and policies. New solutions should be designed for rapid growth and scalability.  
+
+Orchestrating the use of Canada's underlying innovation ecosystem and resources may be critical in the success digital transformation. Understanding the different nature of innovation such as incremental or evolutionary from disruptive and revolutionary and acknowledging the different need in funding and resource disposition would be crucial.  
+
+Giving lead to innovation projects tend to that can be available at faster pace to these projects … funding, innovation design center, transformational resources (barriers to be successful is sometimes knowing the right people – as VCs/investors this knowledge becomes available)
+> Knowing your customers and market ?? in gov sense ??   
+> similar to the model of strategic innovation fund or super clusters organized by ISED …
 
 _Regulatory sandbox and data to function together_  
 ~~In this picture of digital transformation, there are two main actors - regulations and data.~~   
