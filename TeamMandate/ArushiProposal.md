@@ -67,6 +67,16 @@ Social cohesion and digital inclusion should be part of the policy framework to 
 Also, since citizen engagement is seen as an imperative to keep pace with the technological advancement, pedagogical initiatives may be launched to support and train the citizens with the right skill-set. 
 > Centres of applied sciences, or libraries assist in digital literacy/inclusion    
 
+_Adaptability and Resilience_
+While we are thinking to disrupt the existing IT infrastructure and architecture, we should be mindful of technology-oriented strategies adopted by other nations.  
+
+Innovation can be revolutionary and disruptive, however, with that it brings in greater risk. ESDC’s IT strategy such that it enables and acknowledges the risk associated with innovation. Funding and resources should be   
+
+Resilience – capacity to maintain flexibility in case of future unknowns, … learn to fail … 
+ 
+> European nations have regional strategies. Canadian government should think about the support structure it needs to create for Canadians to participate and harvest maximum benefits from global opportunities in workforce.
+
+
 ## Mandate
 Our mandate is to architect and support implementation of a secure foundation of transformational technology to fulfil ESDC’s envision of human-centric service delivery in renewed social fabric, (and forge a trust relationship among Canadians) and create a cohesive environment for participation of citizens and corporations towards mutual societal (welfare) development goals   
 ~~Our mandate is to envision the role of ESDC in the fast changing landscape of social behaviour and needs, and drive human-centric service delivery through transformational technology and innovation~~  
