@@ -1,5 +1,5 @@
 ## Books
 
-|Title|Author|Publishing Year|Publisher|
-|:-------|:-------|:------:|:-----|
-|Crossing the Chasm|Geoffrey A. Moore|2014|HarperCollins Canada| 
+|Title|Author|Publishing Year|Publisher|Description|
+|:-------|:-------|:------:|:-----|:------|
+|Crossing the Chasm|Geoffrey A. Moore|2014|HarperCollins Canada|Scaling up and technology adoption for startups| 
