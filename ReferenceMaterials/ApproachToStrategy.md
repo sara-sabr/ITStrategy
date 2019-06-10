@@ -41,9 +41,9 @@ E.g.:
 * Standards governance
 * Assessment-based 
 
-### 4. Indentify initiatives to change OM
+### 4. Identify initiatives to change OM
 
-With the Opertating Model evaluated at the Target State, this fourth step will identify individual initiatives that IITB must commit to in order to change the current opertaing model to the target one.
+With the Operating Model evaluated at the Target State, this fourth step will identify individual initiatives that IITB must commit to in order to change the current operating model to the target one.
 
 E.g.:
 * Implement Bi-Modal Governance
