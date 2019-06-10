@@ -23,7 +23,7 @@ For the IT Strategy, the operating model will be IITB's.
 
 We will need to evaluate the operating model in terms of Target State.
 
-** Operating Model vs Capability Model ** (what is the difference? and what is the relationship with Enterprise Architecture?)
+**Operating Model vs Capability Model** (what is the difference? and what is the relationship with Enterprise Architecture?)
 
 ### 4. Indentify initiatives to change OM
 
