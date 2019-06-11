@@ -18,14 +18,14 @@ If we can bring ourselves 10 years in the future, how will ESDC Services be prov
 What KPIs is required by IITB to provide services needed to support the vision?
 
 E.g.:
-* Number of services ESDC provides that are consumed via APIs by the public/industry
-* Number of services ESDC provides that are hosted on the GC API Store
-* Number of projects IITB can take on per year
-* Number of services IITB provides that are digital in nature 
-* Number of API Product Owners
-* Turnaround time of system changes
-* Reliability uptime of core systems
-* other?
+- Number of services ESDC provides that are consumed via APIs by the public/industry
+- Number of services ESDC provides that are hosted on the GC API Store
+- Number of projects IITB can take on per year
+- Number of services IITB provides that are digital in nature 
+- Number of API Product Owners
+- Turnaround time of system changes
+- Reliability uptime of core systems
+- other?
 
 
 ### 3. Evaluate the Operating Model (OM)
@@ -39,9 +39,9 @@ We will need to evaluate the operating model in terms of Target State. This eval
 3. **Coherent-actions**: dictates how the guiding policy will be carried out. The actions should be coherent, meaning the use of resources, policies, and maneuvers that are undertaken should be coordinated and support each other (not fight each other, or be independent from one another).
 
 E.g.:
-* Diagnosis on project governance. Guiding policy on moving towards product management. Coherent actions on organization design, team constitution, release management, financial management. 
-* Diagnosis on Software Development LifeCycle. Guiding policy on moving towards DevOps. Coherent actions on automation of testing, building, deployment, relationship with business owners, moving from IT Security assessments to IT Security coaching
-* Diagnosis on Standards governance taking too long to adopt new standards. Guiding policy on standards enabling technology XYZ. Coherent actions on standard recognition processes, stewardship, participation by the community
+- Diagnosis on project governance. Guiding policy on moving towards product management. Coherent actions on organization design, team constitution, release management, financial management. 
+- Diagnosis on Software Development LifeCycle. Guiding policy on moving towards DevOps. Coherent actions on automation of testing, building, deployment, relationship with business owners, moving from IT Security assessments to IT Security coaching
+- Diagnosis on Standards governance taking too long to adopt new standards. Guiding policy on standards enabling technology XYZ. Coherent actions on standard recognition processes, stewardship, participation by the community
 
 ## What consistitutes the Strategy
 
@@ -49,9 +49,9 @@ The above evaluation of the operating model will constitute the Strategy. The St
 
 Going back to the definition of a strategy:
 
-* A **good** strategy is a set of coherent actions (initiatives IITB must commit to)
-	* backed up by an argument (the diagnosis), 
-		* an effective mixture of thought and action (the guiding policy)
+- A **good** strategy is a set of coherent actions (initiatives IITB must commit to)
+    - backed up by an argument (the diagnosis), 
+        - an effective mixture of thought and action (the guiding policy)
 
 
 E.g.:
