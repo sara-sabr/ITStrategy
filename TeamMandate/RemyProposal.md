@@ -20,10 +20,10 @@ Strategies are set of initiatives and actions that the organization will commit 
 
 For strategies to be effective the [following approach](../ReferenceMaterials/ApproachToStrategy.md) is being recommended. This approach will go over a diagnostic of the organization to identify changes to its operating model in order to position it for achieving its vision. The result may include:
 
-* Identifying technologies to invest in
-* Identifying technologies to STOP investing in
-* Changing its governance model (i.e. its decision making process, which also includes areas NOT to govern)
-* Establashing new partner relationships
+- Identifying technologies to invest in
+- Identifying technologies to STOP investing in
+- Changing its governance model (i.e. its decision making process, which also includes areas NOT to govern)
+- Establashing new partner relationships
  
 ## Team Charter
 The Team charter provides clarity on the purpose and scope of the IT Strategy team for all stakeholders. To keep things simpler, the [proposed charter is drafted here](RemyProposal_TeamCharter.md).
