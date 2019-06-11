@@ -26,16 +26,19 @@ A good strategy takes into accounts the strengths and weaknesses of an organizat
 
 - Wealth of human resources 
 - Large impact on Canadians 
+- Not boud by profit motive 
+- Stable workforce 
 
 #### Weaknesses 
 
 - Not keeping up with rate of change
 - Large amount of legacy infrastructure 
+- Inflexible workforce 
 
 #### Opportunities
 
 - Transform the lives of Canadians 
-- Trans
+- Ability to make long-term decisions 
 
 #### Threats 
 
@@ -46,28 +49,45 @@ A good strategy takes into accounts the strengths and weaknesses of an organizat
 
 #### Strength + Opportunities 
 
-- If ESDC is able to leverage our resources towards delivering services to Canadians, we have the opportunity to deliver real impact 
+- ESDC is not reliant upon quarterly profit reports, allowing us to make long term investments to better the quality of lives for Canadians 
 
 #### Weaknesses + Threats 
 
 - If ESDC allows technical debt to pile up, resources will be spent maintaining the status quo rather than improving services for Canadians 
 
-## How
 
-### Spearhead Interdepartmental Collaborative Efforts 
-Through initiatives such as the promotion of the GC DevOps League, the IT Strategy Team has already played a role in contributing to Treasury Board Secretariat's OneTeamGov initiative.  Driving this collaborative method of working will allow ESDC to ensure that it is playing a leading role within the Government of Canada. For example, the IT Strategy Team is actively engaged with Shared Services Canada (SSC) and Public Services and Procurement Canada (PSPC) in creating a proposal for ESDC to champion officially supporting GCCode. Doing so would adhere with industry best practices, which advises tool standardization, and ensure maximum benefit from consolidated tools and analysis of code bases from throughout the Government of Canada. Further, centralizing and outsourcing source control management would save departments throughout government, including ESDC, the costs associated with maintaining numerous instances of local source control solutions. 
+## Strategy 
 
-### IT Transformative Foresight 
+- Create an agile digital direction for ESDC by making long term decisions to positively impact the greatest number of Canadians 
+
+### How 
+
+#### Spearheading Interdepartmental Collaborative Efforts 
+
+[Government of Canada Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html): Collaborate widely
+
+##### Example:
+
+Through initiatives such as the promotion of the GC DevOps League, the IT Strategy Team has already played a role in contributing to Treasury Board Secretariat's OneTeamGov initiative.  Driving this collaborative method of working will allow ESDC to ensure that it is playing a leading role within the Government of Canada. For example, the IT Strategy Team is actively engaged with several departments to create [a proposal](https://github.com/gcdevops/strategie-devops-strategy/blob/WorkInProgress/Content/OfficalGCCodeSupport.md) for ESDC to champion officially supporting GCCode.
+
+#### IT Transformative Foresight 
+
+```
 If you are in a position of leadership, take the time to imagine what Canada would look like if you started over. If you were to recreate government services today, what would they look like? If you did not have legacy technology, a legacy economy, legacy immigration policies, legacy economic development policies, how would you design the world?
+	- Alex Benay, Canadian Governance Models are Ripe for Digital Disruption
+```
 
-The IT Strategy Team`s responsibility, as outlined in the mandate, is to ensure ESDC's leading role within the global government community. Doing so will take aggressive strategies to evolve how citizens interact with their government. We will do this by redefining how government can best serve its citizens and creating roadmaps to successful implementation. 
+The IT Strategy Team`s responsibility is to ensure ESDC's leading role within the global government community. Doing so will take aggressive strategies to evolve how citizens interact with their government. We will do this by building the Canadian Experience and redefining how government can best serve its citizens and guiding it's successful implementation. 
 
-In 2014, the OECD found a 46% satisfaction and confidence rate across public services. While this does put us above the OECD average, 42%, there remains clear room for improvement. ESDC has a disproportional opportunity to increase Canada`s lead on the global average. Further, the satisfaction with the national government lags far behind the satisfaction with health care, education, and judicial. 
+In 2014 the OECD found a 46% satisfaction and confidence rate across public services. While this does put us above the OECD average, 42%, there remains clear room for improvement. ESDC has a disproportional opportunity to increase Canada`s lead on the global average. Further, the satisfaction with the national government lags far behind the satisfaction with health care, education, and judicial. 
 
-#### Human Development Life Cycle (HDLC) 
+##### Example 1: Human Development Life Cycle (HDLC) 
+
 The ESDC has a unique opportunity to play a powerful role in the life of every Canadian as we provide services to Canadians when they are experiencing life milestones or hardship. By leveraging public and existing information, and the private sector IT expertise, ESDC would be able to predict when citizens would require assistance and be able to provide it without the need for manual processes. 
+
+##### Example 2: Strictly enforce 
 
 ## Sources 
 
-- ESDC service performance reporting for fiscal year 2017 to 2018
+- [ESDC service performance reporting for fiscal year 2017 to 2018](https://www.canada.ca/en/employment-social-development/corporate/transparency/service-standards-2017-2018.html)
 - Government at a Glance 2015
