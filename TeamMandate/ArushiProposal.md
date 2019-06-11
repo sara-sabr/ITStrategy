@@ -86,16 +86,16 @@ Our mandate is to architect and support implementation of a secure foundation of
 ~~Our mandate is to envision the role of ESDC in the fast changing landscape of social behaviour and needs, and drive human-centric service delivery through transformational technology and innovation~~  
 
 ## Priorities of the branch
--	(GIVING VISION & STRATEGY) Envision and architect a secure and central system to lay the foundation for digital transformation for service delivery
--	(STRATEGY, PRIORITY & INVESTMENT) Provide foresight and prioritise investment on transformational service delivery programs - playing a central role in technology-enabled innovation    
--	(POLICY, NEW COOPERATION MODELS) Forge social partnerships with private sector for utilizing their business expertise and information/data to meet service delivery goals 
--	(STRATEGY & PRIORITY) Direct inter-departmental research strategy and developmental efforts for innovation teams  
--	(POLICY) Initiate inter-departmental dialogues to discuss existing planning/implementation challenges and recommend solutions/guidelines
--	(ADVOCATE & INTER-DEPARTMENTAL COORDINATION) Initiate dialogues to continuously evolve on using next-generation technologies 
--	(COMMUNICATING CHANGE) Create/Join internal forums to release IT strategy’s vision and planning??
--	(POLICY & ADVOCATE) Recommend department’s governing guidelines (or participate in TBS dialogues) for the use of data and technologies (_Is there a branch who already does that? For new technologies/initiatives as well?_)
--	(INNOVATION’S INITIATIVES INTEROPERABILITY & RESOURCE ALLOCATION) Mobilize resources to support quick turn around time to deploy innovation practices, and act as a synchronizer for efficient running of existing practices alongside the new practices
--	(RISK AND COMPLIANCE) Develop guidelines for secure use of information and data during the implementation of transformational programs  
+* (GIVING VISION & STRATEGY) Envision and architect a secure and central system to lay the foundation for digital transformation for service delivery
+* (STRATEGY, PRIORITY & INVESTMENT) Provide foresight and prioritise investment on transformational service delivery programs - playing a central role in technology-enabled innovation    
+* (POLICY, NEW COOPERATION MODELS) Forge social partnerships with private sector for utilizing their business expertise and information/data to meet service delivery goals 
+* (STRATEGY & PRIORITY) Direct inter-departmental research strategy and developmental efforts for innovation teams  
+* (POLICY) Initiate inter-departmental dialogues to discuss existing planning/implementation challenges and recommend solutions/guidelines
+* (ADVOCATE & INTER-DEPARTMENTAL COORDINATION) Initiate dialogues to continuously evolve on using next-generation technologies 
+* (COMMUNICATING CHANGE) Create/Join internal forums to release IT strategy’s vision and planning??
+* (POLICY & ADVOCATE) Recommend department’s governing guidelines (or participate in TBS dialogues) for the use of data and technologies (_Is there a branch who already does that? For new technologies/initiatives as well?_)
+* (INNOVATION’S INITIATIVES INTEROPERABILITY & RESOURCE ALLOCATION) Mobilize resources to support quick turn around time to deploy innovation practices, and act as a synchronizer for efficient running of existing practices alongside the new practices
+* (RISK AND COMPLIANCE) Develop guidelines for secure use of information and data during the implementation of transformational programs  
 
 ## Activities
 **_Policy and strategy development_**
