@@ -1,4 +1,4 @@
-# Team Vision and Mandate
+﻿# Team Vision and Mandate
 Rémy's point of view for the ESDC IT Strategy team's mission, vision, and mandate
 
 ## Mission Statement (reason for existence)
@@ -14,6 +14,14 @@ ESDC is a world class government digital service provider that continually impro
 - Leverage Government of Canada and ESDC programs to evaluate new technologies, their applicability to ESDC's mandate, and the changes required to adopt them (including policy and legal changes),
 - Engage with ESDC stakeholders (internal and external to ESDC) to address impediments to change and guide the enterprise response to disruptions brought from the IT strategies, and
 - Use ESDC's influence at the federal level to collaborate and lead other federal government departments towards the Government of Canada's digital vision of being a fully digitally enabled government
+
+### Effects of strategies
+Strategies are set of initiatives and actions that the organization will commit to. Strategies frame decision making and therefore guide choices the organization will be making for the next three to five years. 
+
+Committing to strategies will require organizations to say "yes" to certain investements and "no" to others. 
+
+For strategies to be effective the [following approach](../ReferenceMaterials/ApproachToStrategy.md) to producing one is being recommended.
+ 
 
 ## Team Charter
 The Team charter provides clarity on the purpose and scope of the IT Strategy team for all stakeholders. To keep things simpler, the [proposed charter is drafted here](RemyProposal_TeamCharter.md).
