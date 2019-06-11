@@ -55,6 +55,6 @@ Going back to the definition of a strategy:
 
 
 E.g.:
-* Implement Bi-Modal Governance, because IITB manages risks the same way for all initiatives which impedes innovation, which will require IITB to set guardrails on mode 1 and mode 2 governance, as well as ...
-* Move from Project Management to Product Management, because project does not provide funding for ongoing sustainability (maintenance and evolution), which will require IITB to implement financial model XYZ, change organization structure to build right teams
-* Adopt DevOps, because IITB's pace of change is too slow to keep up with demand, which will require IITB to reorganize ites team constitution, automate all of its software processes, and build relationships with business owners
+- Implement Bi-Modal Governance, because IITB manages risks the same way for all initiatives which impedes innovation, which will require IITB to set guardrails on mode 1 and mode 2 governance, as well as ...
+- Move from Project Management to Product Management, because project does not provide funding for ongoing sustainability (maintenance and evolution), which will require IITB to implement financial model XYZ, change organization structure to build right teams
+- Adopt DevOps, because IITB's pace of change is too slow to keep up with demand, which will require IITB to reorganize ites team constitution, automate all of its software processes, and build relationships with business owners
