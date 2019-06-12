@@ -1,4 +1,4 @@
-## Mandate
+## Mission
 
 ### ESDC
 
@@ -6,7 +6,7 @@ The mission of ESDC, including the Labour Program and Service Canada, is to buil
 
 ### IITB IT Strategy
 
-The mission for IITB IT Strategy, is to support, nurture, share, explain and grow use of Open Source Software (OSS) and open standards, working in the open and Agile/DevOps methodologies at ESDC to help establish and execute on their digital strategies in clear terms, giving their leaders, developers, marketers, and other staff the tools they need to make OSS and DevOps a success within their operations and broader mandate.
+The mission for IITB IT Strategy, is to support, nurture, share, explain and grow use of Open Source Software (OSS) and open standards, working in the open and Agile/DevOps methodologies (cloud, what about cloud!) at ESDC to help establish and execute on their digital strategies in clear terms, giving their leaders, developers, marketers, and other staff the tools they need to make the digital strategy a success within their operations and broader mandate.
 
 ## Role of IITB IT Strategy
 
@@ -28,11 +28,22 @@ Finally, it encourages standard coding and organizational practices, processes, 
 - Advise on community matters
 
 ### OSS Legal Compliance
-- Manage and support open source compliance process
-- Advise on open source compliance
+
+- Manage and support OSS compliance process
+- Advise on OSS compliance
 - Help resolve compliance inquiries
 - Provide guidelines and checklists
-- Track emerging open source legal concerns
+- Track emerging OSS legal concerns
+
+## Core Values (From GCTools team)
+
+1. Initiate action, lead by example, and be proud of your work.
+1. Create fun, simple and inclusive experiences.
+1. Work in the open.
+1. Empower communities; enable and co-create solutions.
+1. Serve our users and their needs, not ourselves.
+1. Explore new ideas and technology; actively experiment.
+1. Always be learning; don't assume. 
 
 ## Source
 
