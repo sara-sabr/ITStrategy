@@ -67,7 +67,7 @@ Giving meaning to data by bringing it together for public interest remains a cha
 
 > Example of Taiwan and Finland regulatory sandbox, India National AI Marketplace
 
-**_New cooperation models and data sharing agreements_**
+**_New cooperation models and data sharing agreements_**  
 To fully exploit the potential of technologies, government needs to adopt new cooperation models to interact with private sector and citizens. The distribution of power and resources may have to be revisited and adjusted to generate greater responsiveness in public services from private sector.
 
 New data sharing agreements for the benefit of societal development should be thought through to capitalize on the data accumulated by the private sector and vise-versa.
