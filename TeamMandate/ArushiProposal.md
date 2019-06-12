@@ -48,7 +48,7 @@ Guided by the digital vision for Canada’s service delivery, business plan shou
 Plausible guidelines for ESDC’s new technology architecture and strategy:  
 
 **_Readiness for innovation and cooperation_**  
-With no proven path yet and countries around the globe are grappling to give sense to the advancement in technology, Canada needs to put its own efforts to make informed decisions, leverage the opportunities and minimize long-term risks. ESDC IT governance model and technology architecture should be such that it enables incorporation of new services using advance technologies or improves efficacy of existing services – making innovation a sustainable process. Canada’s service delivery architecture should support new service discovery, and be modular for easy implementation of technology and policies.
+With no proven path yet and countries around the globe grappling to give sense to the advancement in technology, Canada needs to put its own efforts to make informed decisions, leverage the opportunities and minimize long-term risks. ESDC IT governance model and technology architecture should be such that it enables incorporation of new services using advance technologies or improves efficacy of existing services – making innovation a sustainable process. Canada’s service delivery architecture should support new service discovery, and be modular for easy implementation of technology and policies.
 
 ESDC’s research efforts should be directed towards experimenting and innovating using advance technologies for service delivery. The application of these technologies should be mindful of human rights and democratic values. New solutions should be designed for rapid growth and scalability.  
 
