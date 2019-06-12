@@ -1,40 +1,44 @@
-# Context
+# Gabriel's Team Mandate Proposal
+
+## Context
 
 ESDC's IT Strategy team has been formed to enable the continuous modernization of strategic planning and enterprise practices in support of departmental priorities.
 
 Maintaining the status quo limits ESDC IITB’s ability to enable the cultural change required to improve strategic planning for the branch and the department.
 
-# Mission
+## Mission
 
-In collaboration with stakeholders, our mission is to lay the path for the evolution and transformation of ESDC's external and internal IT services and processes.
+In collaboration with stakeholders, our mission is to lay the path for the evolution and transformation of ESDC's IT services and processes.
 
-# Objectives
+## Objectives
 
-* Identify, create, pilot and maintain a wide variety of strategies that will support ESDC’s and IITB’s service delivery mandate; and
-* Contribute to the medium term departmental program planning cycle.
+* Identify, create, pilot and maintain a wide variety of strategies in support of ESDC’s and IITB’s service delivery mandate;
+* Contribute to the medium term departmental program planning cycle; and
+* Maintain relationships with the network of IT-related stakeholders.
  
-
-# Deliverables
+## Deliverables
 
 Whitepapers, presentations, case studies, blog posts, tweets, etc.
 
-# Stakeholders
+## Stakeholders
 
-ESDC, other government jurisdictions, other countries, academia, private sector and citizen
+Internal teams, other government jurisdictions, other countries, academia, private sector and citizen
 
-# Principles
+## Principles
 
+* Learning is a priority (not having an answer to everything is normal);
+* Team flexibility is important (e.g. telework, direction/mandate, tools);
 * Design with users;
-* Iterate and improve frequently;
+* Iterate and improve frequently (Be agile and nimble);
 * Work in the open by default;
 * Collaborate widely;
-* Reuse (always look outside first);
+* Reuse (always look outside first to not reinvent the wheel);
 * Think outside the box;
-* Be agile and nimble;
+* Fail early, fail often (mistakes are ok);
 * Always keep a fresh independent view (like it's your first day - don't get influenced by "we've always done this thing like this"); and
 * When possible, pilot strategies with an internal team keen to try it.
 
-# Bonus - 11 Tips for Pitching Innovation in government
+## Bonus - 11 Tips for Pitching Innovation in government
 (Reference: [Blog Post from GC Entrepreneur](https://medium.com/gc-entrepreneur/11-tips-for-pitching-innovation-in-government-9fceac5a3c9))
 
 **1. Seed Doubt: Show the risks of the current approach**
