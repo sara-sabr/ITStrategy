@@ -98,7 +98,7 @@ IITB should be prepared to learn to fail. Disposition of its funding and resourc
 Our mandate is to architect and support implementation of a secure foundation of transformational technology to fulfil ESDC’s envision of human-centric service delivery in renewed social fabric, (and forge a trust relationship among Canadians) and create a cohesive environment for participation of citizens and corporations towards mutual societal (welfare) development goals   
 
 ## Priorities of the branch
-*	(GIVING VISION & STRATEGY) Envision and architect a secure and central system to lay the foundation for digital transformation for service delivery
+*	(GIVING VISION & STRATEGY) Envision and architect a secure and central system to lay the foundation for digital transformation for service delivery, making innovation a sustainable process
 *	(STRATEGY, PRIORITY & INVESTMENT) Provide foresight and prioritize investment on transformational service delivery programs - playing a central role in technology-enablement of innovation programs
 *	(POLICY, NEW COOPERATION MODELS) Forge social partnerships with private sector for utilizing their business expertise and information/data to meet service delivery goals
 *	(STRATEGY & PRIORITY) Direct intra-departmental research strategy and developmental efforts for innovation teams
