@@ -81,7 +81,7 @@ Reminding your audience of their organization’s history of experimentation and
 
 Show your audience progress by demonstrating that your work in a new area or with a new approach is  resulting in knowledge or insight your organization didn’t have before.
 
-**11. Show, not tell: Create opportunities for people to experience, then experiement, then engage.**
+**11. Show, not tell: Create opportunities for people to experience, then experiment, then engage.**
 
 To help your audience become invested in your project idea – consider giving them a chance to experience the problem first hand, and then to experiment with possible solutions.
 

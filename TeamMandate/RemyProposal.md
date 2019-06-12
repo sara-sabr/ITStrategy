@@ -16,14 +16,14 @@ ESDC is a world class government digital service provider that continually impro
 - Use ESDC's influence at the federal level to collaborate and lead other federal government departments towards the Government of Canada's digital vision of being a fully digitally enabled government
 
 ### Effects of strategies
-Strategies are set of initiatives and actions that the organization will commit to. Strategies frame decision making and therefore guide choices the organization will be making for the next three to five years. Committing to strategies will require organizations to say "yes" to certain investements and "no" to others. 
+Strategies are set of initiatives and actions that the organization will commit to. Strategies frame decision making and therefore guide choices the organization will be making for the next three to five years. Committing to strategies will require organizations to say "yes" to certain investments and "no" to others. 
 
 For strategies to be effective the [following approach](../ReferenceMaterials/ApproachToStrategy.md) is being recommended. This approach will go over a diagnostic of the organization to identify changes to its operating model in order to position it for achieving its vision. The result may include:
 
 - Identifying technologies to invest in
 - Identifying technologies to STOP investing in
 - Changing its governance model (i.e. its decision making process, which also includes areas NOT to govern)
-- Establashing new partner relationships
+- Establishing new partner relationships
  
 ## Team Charter
 The Team charter provides clarity on the purpose and scope of the IT Strategy team for all stakeholders. To keep things simpler, the [proposed charter is drafted here](RemyProposal_TeamCharter.md).

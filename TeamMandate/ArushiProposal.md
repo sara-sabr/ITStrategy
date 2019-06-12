@@ -55,7 +55,6 @@ ESDC’s research efforts should be directed towards experimenting and innovatin
 Orchestrating the roles of different players in the innovation ecosystem and disposition of resources may be critical in the success digital transformation. Innovation and adoption of newer technologies may push IITB through a paradigm shift in the business models rather than just repurposing the older models. 
 
 > 1. Understanding the different nature of innovation (such as incremental or evolutionary from disruptive and revolutionary) and acknowledging the different financial and resource disposition would be key in planning and implementing such initiatives.
-
 > 2. Leading innovation projects on a faster track to scale up by acting as a synchronizer - the gated process, technology innovation design center, transformational resources 
 
 **_Regulatory sandbox and data to function together_**  
@@ -98,23 +97,23 @@ IITB should be prepared to learn to fail. Disposition of its funding and resourc
 Our mandate is to architect and support implementation of a secure foundation of transformational technology to fulfil ESDC’s envision of human-centric service delivery in renewed social fabric, (and forge a trust relationship among Canadians) and create a cohesive environment for participation of citizens and corporations towards mutual societal (welfare) development goals   
 
 ## Priorities of the branch
-*	(GIVING VISION & STRATEGY) Envision and architect a secure and central system to lay the foundation for digital transformation for service delivery, making innovation a sustainable process
-*	(STRATEGY, PRIORITY & INVESTMENT) Provide foresight and prioritize investment on transformational service delivery programs - playing a central role in technology-enablement of innovation programs
-*	(POLICY, NEW COOPERATION MODELS) Forge social partnerships with private sector for utilizing their business expertise and information/data to meet service delivery goals
-*	(STRATEGY & PRIORITY) Direct intra-departmental research strategy and developmental efforts for innovation teams
-*	(POLICY) Initiate intra-departmental dialogues to discuss existing planning/implementation challenges and recommend solutions/guidelines
-*	(ADVOCATE & INTRA-DEPARTMENTAL COORDINATION) Initiate dialogues to continuously evolve on using next-generation technologies
-*	(COMMUNICATING CHANGE) Create/Join internal forums to release IT strategy’s vision and planning
-*	(POLICY & ADVOCATE) Recommend department’s governing guidelines (or participate in TBS dialogues) for the use of data and technologies (_Is there a branch who already does that? For new technologies/initiatives as well?_)
-*	(INNOVATION’S INITIATIVES INTEROPERABILITY & RESOURCE ALLOCATION) Mobilize resources to support quick turn-around time to deploy innovation practices, and act as a synchronizer for efficient running of existing practices alongside the new practices
-*	(RISK AND COMPLIANCE) Develop guidelines for secure use of information and data during the implementation of transformational programs 
+* (GIVING VISION & STRATEGY) Envision and architect a secure and central system to lay the foundation for digital transformation for service delivery, making innovation a sustainable process
+* (STRATEGY, PRIORITY & INVESTMENT) Provide foresight and prioritize investment on transformational service delivery programs - playing a central role in technology-enablement of innovation programs
+* (POLICY, NEW COOPERATION MODELS) Forge social partnerships with private sector for utilizing their business expertise and information/data to meet service delivery goals
+* (STRATEGY & PRIORITY) Direct intra-departmental research strategy and developmental efforts for innovation teams
+* (POLICY) Initiate intra-departmental dialogues to discuss existing planning/implementation challenges and recommend solutions/guidelines
+* (ADVOCATE & INTRA-DEPARTMENTAL COORDINATION) Initiate dialogues to continuously evolve on using next-generation technologies
+* (COMMUNICATING CHANGE) Create/Join internal forums to release IT strategy’s vision and planning
+* (POLICY & ADVOCATE) Recommend department’s governing guidelines (or participate in TBS dialogues) for the use of data and technologies (_Is there a branch who already does that? For new technologies/initiatives as well?_)
+* (INNOVATION’S INITIATIVES INTEROPERABILITY & RESOURCE ALLOCATION) Mobilize resources to support quick turn-around time to deploy innovation practices, and act as a synchronizer for efficient running of existing practices alongside the new practices
+* (RISK AND COMPLIANCE) Develop guidelines for secure use of information and data during the implementation of transformational programs 
 
 ## Key Activities
 ### Enabling Innovation 
 (Architecture + Business practices)
 
 **_Policy and strategy development_**
-*	Propose an architecture which supports innovation or new service discovery
+* Propose an architecture which supports innovation or new service discovery
 * Initiate new exploratory programs/projects and secure required funding/resources (_Who makes the submissions? Does each branch make their own submission? Does all submission go through CIO for approval first? Does IITB play a central role in project submissions? Within IITB is it Denis’s group that would do that?_)
 * Recommend policies and program guidelines for digital products/services (_Who approves or make decisions on policies?_)
 * Recommend suitable governance guidelines for exploratory programs/projects
@@ -125,8 +124,8 @@ Our mandate is to architect and support implementation of a secure foundation of
 ### Orchestrating the Ecosystem 
 
 **_Stakeholder management_**
-*	Manage relationships with key stakeholders
-*	Identify key sources of resources and funds
+* Manage relationships with key stakeholders
+* Identify key sources of resources and funds
 
 **_Resource Disposition_**
 * Allocate resources between various projects/initiatives 
@@ -140,8 +139,8 @@ Our mandate is to architect and support implementation of a secure foundation of
 ### Prioritizing and Investment 
 
 **_Scale Innovation_** 
-*	Create a fast-track gated process to take an idea from concept to operations (innovation as a sustainable process -- incubate>prototype>scale>operationalize)
-*	Set-up committees to help prioritize between different innovation projects
+* Create a fast-track gated process to take an idea from concept to operations (innovation as a sustainable process -- incubate>prototype>scale>operationalize)
+* Set-up committees to help prioritize between different innovation projects
 
 **_Program(s) Management_**
 * Continuously monitor technology/policy trends to keep pace with technological development (such as OECD AI Policy Observatory)
