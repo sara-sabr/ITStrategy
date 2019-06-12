@@ -6,7 +6,7 @@ As a group, IT Strategy will help drive IITB into a modern and dynamic partner f
 
 ## Vision
 
-IT Strategy will empower ITTB in continuously improving its methodologies and approaches in order to become a strategic partner for the entire organization in offering user-centered services.
+IT Strategy will empower IITB in continuously improving its methodologies and approaches in order to become a strategic partner for the entire organization in offering user-centered services.
 
 ## Mandate
 
