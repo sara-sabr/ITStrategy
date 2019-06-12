@@ -68,18 +68,18 @@ Giving meaning to data by bringing it together for public interest remains a cha
 > Example of Taiwan and Finland regulatory sandbox, India National AI Marketplace
 
 **_New cooperation models and data sharing agreements_**  
-To fully exploit the potential of technologies, government needs to adopt new cooperation models to interact with private sector and citizens. The distribution of power and resources may have to be revisited and adjusted to generate greater responsiveness in public services from private sector.
+To fully exploit the potential of technologies, government needs to adopt new cooperation models to interact with private sector and citizens. The distribution of power and resources may have to be revisited and adjusted to generate greater response in public services from private sector.
 
 New data sharing agreements for the benefit of societal development should be thought through to capitalize on the data accumulated by the private sector and vise-versa.
 
-> Australia’s project Capita, New Zealand’s Social Investment Analytical Layer Code, Australia’s data sharing agreement with LinkedIn
+> Australia’s project Capita, New Zealand’s Social Investment Analytical Layer Code, Australia’s data sharing agreement with LinkedIn, Google pay for India train ticketing service IRCTC
 
 > Inter-government data sharing - a new look?
 
 > Inter-government resource sharing – North American or countries in the same pool developing services on the same platform
 
 **_Social cohesion_**  
-Digitization of services is growing exponentially in every sector and general population is embracing it in their lives. Yet we need to be mindful of the different population groups to understand any digital divide due to digital literacy, income, age, and other factors. Social cohesion and digital inclusion should be part of the policy framework to make all communities ready for the use of technologies. Enough placeholders should be placed to engage citizens to transition to the digital era.
+Digitization of services is growing exponentially in every sector and general population is embracing it in their lives. Yet we need to be mindful of the different population groups to understand any digital divide due to digital literacy, income, age, and other factors. Social cohesion and digital inclusion should be part of the policy framework to make all communities ready for the use of technologies. Enough placeholders should be placed to engage citizens to transition to the digital services.
 
 Also, since citizen engagement is seen as an imperative to keep pace with the technological advancement, pedagogical initiatives may be launched to support and train the citizens with the right skill-set. 
 
@@ -128,7 +128,7 @@ Our mandate is to architect and support implementation of a secure foundation of
 *	Manage relationships with key stakeholders
 *	Identify key sources of resources and funds
 
-**_Resource Allocation_**
+**_Resource Disposition_**
 * Allocate resources between various projects/initiatives 
 * Improve the sharing of information and resources between programs and across departments (How would bimodal work?)  
 
@@ -140,7 +140,7 @@ Our mandate is to architect and support implementation of a secure foundation of
 ### Prioritizing and Investment 
 
 **_Scale Innovation_** 
-*	Create a fast-track gated process guideline to take an idea from concept to operations (innovation as a sustainable process -- incubate>prototype>scale>operationalize)
+*	Create a fast-track gated process to take an idea from concept to operations (innovation as a sustainable process -- incubate>prototype>scale>operationalize)
 *	Set-up committees to help prioritize between different innovation projects
 
 **_Program(s) Management_**
