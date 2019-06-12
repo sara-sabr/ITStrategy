@@ -33,7 +33,7 @@ An organization is a complex system for delivering value. An [operating model](h
 
 For the IT Strategy, the operating model will be IITB's.
 
-We will need to evaluate the operating model in terms of Target State. This evaluation is performed using the following three setps: 
+We will need to evaluate the operating model in terms of Target State. This evaluation is performed using the following three steps: 
 1. **Diagnosis**: defines and explains the nature of the challenge. What is preventing IITB from achieving its vision?
 2. **Guiding-policy**: outlines an overall approach for overcoming the obstacles highlighted by the diagnosis. It channels action in certain directions without defining exactly what shall be done
 3. **Coherent-actions**: dictates how the guiding policy will be carried out. The actions should be coherent, meaning the use of resources, policies, and maneuvers that are undertaken should be coordinated and support each other (not fight each other, or be independent from one another).
@@ -43,18 +43,18 @@ E.g.:
 - Diagnosis on Software Development LifeCycle. Guiding policy on moving towards DevOps. Coherent actions on automation of testing, building, deployment, relationship with business owners, moving from IT Security assessments to IT Security coaching
 - Diagnosis on Standards governance taking too long to adopt new standards. Guiding policy on standards enabling technology XYZ. Coherent actions on standard recognition processes, stewardship, participation by the community
 
-## What consistitutes the Strategy
+## What constitutes the Strategy
 
 The above evaluation of the operating model will constitute the Strategy. The Strategy is the combination of the diagnosis, the guiding policy, and the set of coherent actions.
 
 Going back to the definition of a strategy:
 
 - A **good** strategy is a set of coherent actions (initiatives IITB must commit to)
-    - backed up by an argument (the diagnosis), 
-        - an effective mixture of thought and action (the guiding policy)
+  - backed up by an argument (the diagnosis), 
+    - an effective mixture of thought and action (the guiding policy)
 
 
 E.g.:
 - Implement Bi-Modal Governance, because IITB manages risks the same way for all initiatives which impedes innovation, which will require IITB to set guardrails on mode 1 and mode 2 governance, as well as ...
 - Move from Project Management to Product Management, because project does not provide funding for ongoing sustainability (maintenance and evolution), which will require IITB to implement financial model XYZ, change organization structure to build right teams
-- Adopt DevOps, because IITB's pace of change is too slow to keep up with demand, which will require IITB to reorganize ites team constitution, automate all of its software processes, and build relationships with business owners
+- Adopt DevOps, because IITB's pace of change is too slow to keep up with demand, which will require IITB to reorganize its team constitution, automate all of its software processes, and build relationships with business owners
