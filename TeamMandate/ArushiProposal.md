@@ -105,13 +105,14 @@ Our mandate is to architect and support implementation of a secure foundation of
 *	(POLICY) Initiate intra-departmental dialogues to discuss existing planning/implementation challenges and recommend solutions/guidelines
 *	(ADVOCATE & INTRA-DEPARTMENTAL COORDINATION) Initiate dialogues to continuously evolve on using next-generation technologies
 *	(COMMUNICATING CHANGE) Create/Join internal forums to release IT strategy’s vision and planning
-*	(POLICY & ADVOCATE) Recommend department’s governing guidelines (or participate in TBS dialogues) for the use of data and technologies (Is there a branch who already does that? For new technologies/initiatives as well?)
+*	(POLICY & ADVOCATE) Recommend department’s governing guidelines (or participate in TBS dialogues) for the use of data and technologies (_Is there a branch who already does that? For new technologies/initiatives as well?_)
 *	(INNOVATION’S INITIATIVES INTEROPERABILITY & RESOURCE ALLOCATION) Mobilize resources to support quick turn-around time to deploy innovation practices, and act as a synchronizer for efficient running of existing practices alongside the new practices
 *	(RISK AND COMPLIANCE) Develop guidelines for secure use of information and data during the implementation of transformational programs 
 
 ## Key Activities
 ### Enabling Innovation 
 (Architecture + Business practices)
+
 **_Policy and strategy development_**
 *	Propose an architecture which supports innovation or new service discovery
 * Initiate new exploratory programs/projects and secure required funding/resources (_Who makes the submissions? Does each branch make their own submission? Does all submission go through CIO for approval first? Does IITB play a central role in project submissions? Within IITB is it Denis’s group that would do that?_)
@@ -120,21 +121,24 @@ Our mandate is to architect and support implementation of a secure foundation of
 * Create 3-year plan for research and development strategy for DevOps (_How would DevOps be governed? Are they independent?_)
 * Ensure that ESDC’s technology programs/initiatives aligns with the themes of the strategic framework and priorities of the department
 * Develop adoption strategy for modern/futuristic technology, including architecture design (enterprise, technical and solutions)  
-  
 
 ## Orchestrating the Ecosystem 
+
 **_Stakeholder management_**
 *	Manage relationships with key stakeholders
 *	Identify key sources of resources and funds
+
 **_Resource Allocation_**
 * Allocate resources between various projects/initiatives 
 * Improve the sharing of information and resources between programs and across departments (How would bimodal work?)  
+
 **_Organization Engagement_**
 * Coordinate with other departments to centralize use and allocation of IT resources 
 * Create/lead a working group (_invites members from across organizations_) for gathering information on prevailing IT challenges
 * Stimulate dialogues on the use of technology to improve services  
 
 ## Prioritizing and Investment 
+
 **_Scale Innovation_** 
 *	Create a fast-track gated process guideline to take an idea from concept to operations (innovation as a sustainable process -- incubate>prototype>scale>operationalize)
 *	Set-up committees to help prioritize between different innovation projects
