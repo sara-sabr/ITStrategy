@@ -122,7 +122,7 @@ Our mandate is to architect and support implementation of a secure foundation of
 * Ensure that ESDC’s technology programs/initiatives aligns with the themes of the strategic framework and priorities of the department
 * Develop adoption strategy for modern/futuristic technology, including architecture design (enterprise, technical and solutions)  
 
-## Orchestrating the Ecosystem 
+### Orchestrating the Ecosystem 
 
 **_Stakeholder management_**
 *	Manage relationships with key stakeholders
@@ -137,7 +137,7 @@ Our mandate is to architect and support implementation of a secure foundation of
 * Create/lead a working group (_invites members from across organizations_) for gathering information on prevailing IT challenges
 * Stimulate dialogues on the use of technology to improve services  
 
-## Prioritizing and Investment 
+### Prioritizing and Investment 
 
 **_Scale Innovation_** 
 *	Create a fast-track gated process guideline to take an idea from concept to operations (innovation as a sustainable process -- incubate>prototype>scale>operationalize)
