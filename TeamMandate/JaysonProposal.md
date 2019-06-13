@@ -76,7 +76,7 @@ Through initiatives such as the promotion of the GC DevOps League, the IT Strate
 
 ```
 If you are in a position of leadership, take the time to imagine what Canada would look like if you started over. If you were to recreate government services today, what would they look like? If you did not have legacy technology, a legacy economy, legacy immigration policies, legacy economic development policies, how would you design the world?
-	- Alex Benay, Canadian Governance Models are Ripe for Digital Disruption
+- Alex Benay, Canadian Governance Models are Ripe for Digital Disruption
 ```
 
 The IT Strategy Team`s responsibility is to ensure ESDC's leading role within the global government community. Doing so will take aggressive strategies to evolve how citizens interact with their government. We will do this by building the Canadian Experience and redefining how government can best serve its citizens and guiding it's successful implementation. 
