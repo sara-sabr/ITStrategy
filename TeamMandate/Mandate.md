@@ -1,20 +1,28 @@
 # IT Strategy 
 
-## Vision  
+## Vision (image of the future) 
 
-Create the Canadian Experience by leveraging modern technologies where government interacts seemlessly with Canadians through existing digital infrastructure 
+The Canadian Experience is real where the federal government leverages modern technologies to interact seemlessly with Canadians through existing digital infrastructure.
 
-## Mission 
+## Mission (team's reason for existence)
 
-Be the initiator of change within IITB to lay the path for the evolution of ESDCs digital services through an open collaborative approach to further ESDCs mandate in the digital era by alinging IITB with TBS Digital Standards 
+Be the initiator of change within IITB to lay the path for the evolution of ESDCs digital services.
 
-## Mandate 
+This will be done through an open collaborative approach that will further ESDCs mandate in the digital era by alinging IITB with the Government of Canada's Digital Standards and Trasury Board's policy on service and digital.
 
-- Provide guidance to senior management on how IT can be leveraged to allow ESDC to deliver on its mandate 
-- Conduct both inward facing and external reaserch in order to provide evidence based aforementioned guidance 
+## Mandate (team's authority within IITB)
+
+- Provide recommendations to senior management on how IT can be leveraged to improve ESDC's mandate delivery 
+- Conduct both inward facing and external reaserch in order to provide evidence based aforementioned recommendations 
 - Permeate and enforce modern IT practices and processes 
+- Provide strategic direction to IITB's initiatives in order to maximize their impacts and transition IITB into a holistic service-oriented organization
+- Produce IT strategies that includes diagnosis, guiding policies, and sets of coherent actions, for IITB to continually improve its responsiveness to business change
+- Recommend policies and program guidelines for digital products and services
+- Continuously monitor technology and policy trends to keep pace with technological development (such as OECD AI Policy Observatory)
+- Prioritize IT investments
+- Forge partnerships with key IM/IT partners and suppliers, including across jurisdictions and private and public institutions, for utilizing their expertise and knowledge to meet service delivery goals
 
-## Guiding Principles 
+## Team's Guiding Principles 
 
 - **Add Value**
 
@@ -35,19 +43,30 @@ Be the initiator of change within IITB to lay the path for the evolution of ESDC
 
 ## Deliverables
 
-Demonstrating value of cutting edge approaches/methods **through action** with the aim of improving GC standards
-- GCCode official standard 
+Demonstrations **through action** of cutting edge approaches and methods. For example:
+- Value added of GCCode as an official version control standard for the GC
 
-Strategies 
+IT Strategies. For example:
 - Creation and implementation of Innovation Hubs
 - Increase rate of Solution Delivery 
-- Vendor Lock-in Mitigation
-- How to Scale Innovation
-- Use Cases of AI within ESDC 
+- Vendor Lock-in mitigation
+- Scale innovation
+- Implement business use cases of AI within ESDC
 
- RoadMaps 
-- Map actions onto Taking 11 Tips for Pitching Innovation in Government
-- ESDC DevOps Implementation 
-- 3 year plan
-- 5 year plan 
+ IT RoadMaps. For example:
+- Maximizing innovation efforts by taking [the 11 Tips for Pitching Innovation in Government](https://medium.com/gc-entrepreneur/11-tips-for-pitching-innovation-in-government-9fceac5a3c9)
+- DevOps Implementation 
+- 3 year IITB service modernization plan
+- 5 year IITB service modernization plan
+- Implement bi-modal governance
+- Implement product management
+
+Reports. For example:
 - Viability Analysis of Trending Tech
+
+Guidance, advices, and awareness via:
+- whitepapers
+- presentations
+- case studies
+- blog posts
+- tweets
