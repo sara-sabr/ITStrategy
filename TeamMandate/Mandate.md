@@ -2,18 +2,18 @@
 
 ## Vision (image of the future) 
 
-The Canadian Experience is real where the federal government leverages modern technologies to interact seemlessly with Canadians through existing digital infrastructure.
+The Canadian Experience is real where the federal government leverages modern technologies to interact seamlessly with Canadians through existing digital infrastructure.
 
 ## Mission (team's reason for existence)
 
-Be the initiator of change within IITB to lay the path for the evolution of ESDCs digital services.
+Be the initiator of change within IITB to lay the path for the evolution of ESDC's digital services.
 
-This will be done through an open collaborative approach that will further ESDCs mandate in the digital era by alinging IITB with the Government of Canada's Digital Standards and Trasury Board's policy on service and digital.
+This will be done through an open collaborative approach that will further ESDC's mandate in the digital era by aligning IITB with the Government of Canada's Digital Standards and Treasury Board's policy on service and digital.
 
 ## Mandate (team's authority within IITB)
 
 - Provide recommendations to senior management on how IT can be leveraged to improve ESDC's mandate delivery 
-- Conduct both inward facing and external reaserch in order to provide evidence based aforementioned recommendations 
+- Conduct both inward facing and external research in order to provide evidence based aforementioned recommendations 
 - Permeate and enforce modern IT practices and processes 
 - Provide strategic direction to IITB's initiatives in order to maximize their impacts and transition IITB into a holistic service-oriented organization
 - Produce IT strategies that includes diagnosis, guiding policies, and sets of coherent actions, for IITB to continually improve its responsiveness to business change
@@ -39,7 +39,7 @@ This will be done through an open collaborative approach that will further ESDCs
 
 - **Lead by Example**
 
-⋅⋅⋅By using the approaches and technologies we champion, we will be able to better respond to, and anticipate, the challanges that will be faced. 
+⋅⋅⋅By using the approaches and technologies we champion, we will be able to better respond to, and anticipate, the challenges that will be faced. 
 
 ## Deliverables
 
