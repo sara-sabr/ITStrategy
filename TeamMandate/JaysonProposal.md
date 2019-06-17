@@ -26,7 +26,7 @@ A good strategy takes into accounts the strengths and weaknesses of an organizat
 
 - Wealth of human resources 
 - Large impact on Canadians 
-- Not boud by profit motive 
+- Not bound by profit motive 
 - Stable workforce 
 
 #### Weaknesses 
@@ -66,7 +66,7 @@ A good strategy takes into accounts the strengths and weaknesses of an organizat
 
 [Government of Canada Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html): Collaborate widely
 
-Due to the size of ESDC by leading key governmental initiatives we will greatly benefit ourselves. This will align us well with the collaborative goals promted by TBS, as well as assisting us in delivering world class services to Canadians by effeciently using government resources. 
+Due to the size of ESDC by leading key governmental initiatives we will greatly benefit ourselves. This will align us well with the collaborative goals prompted by TBS, as well as assisting us in delivering world class services to Canadians by efficiently using government resources. 
 
 ##### Example:
 
@@ -74,10 +74,8 @@ Through initiatives such as the promotion of the GC DevOps League, the IT Strate
 
 #### IT Transformative Foresight 
 
-```
-If you are in a position of leadership, take the time to imagine what Canada would look like if you started over. If you were to recreate government services today, what would they look like? If you did not have legacy technology, a legacy economy, legacy immigration policies, legacy economic development policies, how would you design the world?
-- Alex Benay, Canadian Governance Models are Ripe for Digital Disruption
-```
+>If you are in a position of leadership, take the time to imagine what Canada would look like if you started over. If you were to recreate government services today, what would they look like? If you did not have legacy technology, a legacy economy, legacy immigration policies, legacy economic development policies, how would you design the world?
+>- Alex Benay, Canadian Governance Models are Ripe for Digital Disruption
 
 The IT Strategy Team`s responsibility is to ensure ESDC's leading role within the global government community. Doing so will take aggressive strategies to evolve how citizens interact with their government. We will do this by building the Canadian Experience and redefining how government can best serve its citizens and guiding it's successful implementation. 
 
@@ -85,7 +83,7 @@ In 2014 the OECD found a 46% satisfaction and confidence rate across public serv
 
 **Example of Transformative Initiatives: Human Development Life Cycle (HDLC)**
 
-The ESDC has a unique opportunity to play a powerful role in the life of every Canadian as we provide services to Canadians when they are experiencing life milestones or hardship. By leveraging public and existing information, and the private sector IT expertise, ESDC would be able to predict when citizens would require assistance and be able to provide it without the need for manual processes. Doing so would require combining our strengths with those of the private sector to create a seemless process by which the government is able to automatically assist Canadians when they require it. Doing so would require a fundamental shift with respect to how we design and deliver services, and would require modern technologies and software development processes, such as those elaborated on below under 'Guiding Principles' 
+The ESDC has a unique opportunity to play a powerful role in the life of every Canadian as we provide services to Canadians when they are experiencing life milestones or hardship. By leveraging public and existing information, and the private sector IT expertise, ESDC would be able to predict when citizens would require assistance and be able to provide it without the need for manual processes. Doing so would require combining our strengths with those of the private sector to create a seamless process by which the government is able to automatically assist Canadians when they require it. Doing so would require a fundamental shift with respect to how we design and deliver services, and would require modern technologies and software development processes, such as those elaborated on below under 'Guiding Principles' 
 
 ### Guiding principles 
 
@@ -95,15 +93,15 @@ In many government activities, governments are the sole actors and leaders in th
 
 Example: DevOps has become ubiquitous in the high performing IT organizations in the world. In order to deliver the best possible services to Canadians in a digital age, it is paramount that the Canadian government learn from, and implement, world leaders in delivering digital services to Canadians. 
 
-##### Enable grassroot innovation 
+##### Enable grass root innovation 
 
-In order to enable grassroute innovation, such as has been popularized at industry leaders such as Google, ESDC must enable its inhouse talent to innovate with minimal overhead. Through collaborative efforts within ESDC and the GoC at large, The IT Strategy will create, and assist with the implementations of, implementing these innovation zones, and collaborating with existing ones. 
+In order to enable grass root innovation, such as has been popularized at industry leaders such as Google, ESDC must enable its in-house talent to innovate with minimal overhead. Through collaborative efforts within ESDC and the GoC at large, The IT Strategy will create, and assist with the implementations of, implementing these innovation zones, and collaborating with existing ones. 
 
 Example: Create an IITB innovation hub with minimal overhead, allowing our talented employees to create and explore value technologies in order to create modern innovative services and promote continuous learning within the organization 
 
 #### Focus on what government does best 
 
-Government should not be competing with the private sector for the attention of Canadians. Building a jobs website when an existing platform such as LinkedIn has already gone through the effort of garnering the attention of 16 million users. Our job is not to compete with LinkedIn, our job is to ensure Canadians are able to find employment. The government should use its resources and time to integrate with the existing IT infrastructure and focus on what only ESDC can do, which is send resources to Canadians during their times of need to improve their quality of life. The government of Canada should create the systems in place for private sector to deliver and create value by promoting the effecient use of the unique services we offer. 
+Government should not be competing with the private sector for the attention of Canadians. Building a jobs website when an existing platform such as LinkedIn has already gone through the effort of garnering the attention of 16 million users. Our job is not to compete with LinkedIn, our job is to ensure Canadians are able to find employment. The government should use its resources and time to integrate with the existing IT infrastructure and focus on what only ESDC can do, which is send resources to Canadians during their times of need to improve their quality of life. The government of Canada should create the systems in place for private sector to deliver and create value by promoting the efficient use of the unique services we offer. 
 
 Example: Create end points allowing banks to request EI for a client, removing any need for manual processes 
 
