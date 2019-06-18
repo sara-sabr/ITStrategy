@@ -19,3 +19,7 @@
   * ESDC [Jobs Search Mobile app](https://www.guichetemplois.gc.ca/applicationmobile)
   * [Talent Cloud](https://talent.canada.ca/en)
   * [PSC Government Jobs](https://www.canada.ca/en/services/jobs/opportunities/government.html)
+
+## Modern tools and services
+
+* Discontinue Internet Explorer
