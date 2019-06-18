@@ -14,7 +14,7 @@
 
 * Saving "web app" as a PDF (i.e.: "interactive" PDF with links to pages within the PDF instead of an actual web app.)
   * [Canada Pension Plan disability benefit toolkit](https://www.canada.ca/en/employment-social-development/programs/pension-plan-disability-benefits/reports/toolkit.html)
-  * Usability can be problemeatic, hard to walk through, slow and lagging in some instances. 
+  * Usability can be problematic, hard to walk through, slow and lagging in some instances. 
   * Need to test for accessibility.
   * Could be a result of limited support from an IT perspective to the Business units.
 * Duplication of services through web and mobile apps: abstraction of the service, reuse of front-end and application of rule set per job type.
