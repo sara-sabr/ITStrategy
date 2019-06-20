@@ -21,7 +21,7 @@ This will be done through an open collaborative approach that will further ESDC'
 - Continuously monitor technology and policy trends to keep pace with technological development (such as OECD AI Policy Observatory)
 - Prioritize IT investments
 - Forge partnerships with key IM/IT partners and suppliers, including across jurisdictions and private and public institutions, for utilizing their expertise and knowledge to meet service delivery goals
-- Orchestrate the IT ecosystem by faclitating the execution of strategies, oversighting their executions, lead the changes identified in the strategies
+- Orchestrate the IT ecosystem to bring strategies to completion
 
 ## Team's Guiding Principles 
 
