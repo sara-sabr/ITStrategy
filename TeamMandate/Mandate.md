@@ -12,6 +12,8 @@ This will be done through an open collaborative approach that will further ESDC'
 
 ## Mandate (team's authority within IITB)
 
+- Manage IT Strategic Evolution Fund 
+- Full ownership and governance of projects operating against the IT Strategic Evolution fund
 - Provide recommendations to senior management on how IT can be leveraged to improve ESDC's mandate delivery 
 - Conduct both inward facing and external research in order to provide evidence based aforementioned recommendations 
 - Permeate and enforce modern IT practices and processes 
@@ -19,7 +21,6 @@ This will be done through an open collaborative approach that will further ESDC'
 - Produce IT strategies that includes diagnosis, guiding policies, and sets of coherent actions, for IITB to continually improve its responsiveness to business change
 - Channel senior level support to reprioritize tasks to align ESDC to the approved vision
 - Continuously monitor technology and policy trends to keep pace with technological development (such as OECD AI Policy Observatory)
-- Prioritize IT investments
 - Forge partnerships with key IM/IT partners and suppliers, including across jurisdictions and private and public institutions, for utilizing their expertise and knowledge to meet service delivery goals
 - Orchestrate the IT ecosystem to bring strategies to completion
 
