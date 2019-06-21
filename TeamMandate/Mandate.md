@@ -17,7 +17,7 @@ This will be done through an open collaborative approach that will further ESDC'
 - Permeate and enforce modern IT practices and processes 
 - Provide strategic direction to IITB's initiatives in order to maximize their impacts and transition IITB into a holistic service-oriented organization
 - Produce IT strategies that includes diagnosis, guiding policies, and sets of coherent actions, for IITB to continually improve its responsiveness to business change
-- Recommend policies and program guidelines for digital products and services
+- Channel senior level support to reprioritize tasks to align ESDC to the approved vision
 - Continuously monitor technology and policy trends to keep pace with technological development (such as OECD AI Policy Observatory)
 - Prioritize IT investments
 - Forge partnerships with key IM/IT partners and suppliers, including across jurisdictions and private and public institutions, for utilizing their expertise and knowledge to meet service delivery goals
