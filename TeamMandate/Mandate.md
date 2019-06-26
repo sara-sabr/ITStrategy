@@ -53,7 +53,6 @@ Creation and trial of new processes and procedures. For example:
 - Cloud administration methodologies (technical and financial)
 - Implementation of Automated decision making tools 
 
-
 IT Strategies. For example:
 - Creation and implementation of Innovation Hubs
 - Increase rate of Solution Delivery 
