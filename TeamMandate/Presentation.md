@@ -13,31 +13,25 @@ As a student who isn't taking any courses this summer, I decided to look for wor
 ## The How
 
 - Do not compete with private sector 
-	- Integration over development 
-	- Create jobs, not software 
+  - Integration over development 
+  - Create jobs, not software 
 
-```
-delivering programs that help Canadians move through life’s transitions, from school to work, from one job to another, *from unemployment to employment* and from the workforce to retirement; 
-```
+>delivering programs that help Canadians move through life’s transitions, from school to work, from one job to another, *from unemployment to employment* and from the workforce to retirement; 
 
 - Avoid rework 
-	- Work in the open 
+  - Work in the open 
 
-```
-Values and Ethics Code for the Public Sector: 
+>Values and Ethics Code for the Public Sector: 
 Federal public servants are entrusted to use and care for public resources responsibly, for both the short term and long term.
-```
 
 - Modern tools 
-	- Fully separated client and back ends 
-	- All communications through service interfaces
-	- Communications between teams must be through these interfaces
+  - Fully separated client and back ends 
+  - All communications through service interfaces
+  - Communications between teams must be through these interfaces
 
-```
-Digital Operations Strategic Plan: 2018-2022
+>Digital Operations Strategic Plan: 2018-2022
 - public servants are more effective at delivering services, programs and policies when they have modern tools that help their work and a modern workplace
 - public servants need professional development that keeps up with changing times and changing technology
-```
 
 ## Actions 
 
@@ -96,13 +90,11 @@ Projects must adhere to the following requirements to be funded to the Umberalla
 
 ### The Why
 - Increase investment in development of APIs 
-	- Publish all APIs on the Open API Store 
+  - Publish all APIs on the Open API Store 
 - Cycles available for innovative projects 
 - Promote creation of Canadian businesses 
 
-```
-ESDC Mandate: delivering programs that help Canadians move through life’s transitions, from school to work, from one job to another, from unemployment to employment and from the workforce to retirement; 
-```
+>ESDC Mandate: delivering programs that help Canadians move through life’s transitions, from school to work, from one job to another, from unemployment to employment and from the workforce to retirement; 
 
 ___
 
@@ -112,10 +104,8 @@ ___
 ### The Why
 - Reduced rework 
 
-```
-Values and Ethics Code for the Public Sector:
+>Values and Ethics Code for the Public Sector:
 Federal public servants are entrusted to use and care for public resources responsibly, for both the short term and long term.
-```
 
 ___
 
@@ -125,9 +115,7 @@ ___
 ### The Why
 - As the number of services increases, there must be a robust search and discovery mechanism available to developers 
 
-```
-Government of Canada Standards on APIs: 10. Publish and document the API
-```
+>Government of Canada Standards on APIs: 10. Publish and document the API
 
 ## Project Analysis 
 
