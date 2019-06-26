@@ -1,4 +1,5 @@
 # An Approach to strategy making
+
 The following is a proposed approach on producing the IT Strategy. It takes as premise that strategy making is exploratory in nature at first, but can be made using a structured method to get clarity in the end.
 
 ![Strategy for a strategy](img/StrategyForStrategy.png)
@@ -16,9 +17,11 @@ If we can bring ourselves 10 years in the future, how will ESDC Services be prov
 The [HDLC](../Ideation/HDLC.md), the Canadian Experience, and the [vision section of this proposal](../TeamMandate/ArushiProposal.md#Vision) provide us with the landscape with which we can imagine the future to be.
 
 ### 2. Identify target Key Performance Indicators (KPIs)
+
 How would IITB's (or even ESDC's) performance be measured in order to sustain ESDC's services in the vision landscape mentioned above??
 
 E.g.:
+
 - Number of services ESDC provides that are consumed via APIs by the public/industry
 - Number of services ESDC provides that are hosted on the GC API Store
 - Number of projects IITB can take on per year
@@ -28,6 +31,7 @@ E.g.:
 - other?
 
 ### 3. Evaluate the Operating Model (OM)
+
 An organization is a complex system for delivering value. An [operating model](https://en.wikipedia.org/wiki/Operating_model) breaks this system into components, showing how it works. It can help different participants understand the whole. It can help leaders identify problems that are causing under performance.
 
 For the IT Strategy, the operating model will be IITB's. IITB's operating model is a subset of [IITB's Business Model](http://edsc.prv/en/iitb/corporate/doc/IITBBusinessModel.pdf). An operating model focuses on the delivery element of the business model and is essentially a capability map of the organization, showing the 'value-chain' and how each oare linked together or needed to be kept separate.
