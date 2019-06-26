@@ -34,7 +34,7 @@ E.g.:
 
 An organization is a complex system for delivering value. An [operating model](https://en.wikipedia.org/wiki/Operating_model) breaks this system into components, showing how it works. It can help different participants understand the whole. It can help leaders identify problems that are causing under performance.
 
-For the IT Strategy, the operating model will be IITB's. IITB's operating model is a subset of [IITB's Business Model](http://edsc.prv/en/iitb/corporate/doc/IITBBusinessModel.pdf). An operating model focuses on the delivery element of the business model and is essentially a capability map of the organization, showing the 'value-chain' and how each oare linked together or needed to be kept separate.
+For the IT Strategy, the operating model will be IITB's. IITB's operating model is a subset of [IITB's Business Model](http://edsc.prv/en/iitb/corporate/doc/IITBBusinessModel.pdf). An operating model focuses on the delivery element of the business model and is essentially a capability map of the organization, showing the 'value-chain' and how each are linked together or needed to be kept separate.
 
 A capability is a combination of:
 
