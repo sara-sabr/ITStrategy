@@ -35,7 +35,7 @@ Federal public servants are entrusted to use and care for public resources respo
 
 ## Actions 
 
-### Creation of Umberella Fund 
+### Creation of Umbrella Fund 
 
 #### Vision
 
@@ -55,7 +55,7 @@ Engage Innovation Hub about possible funding avenues
 
 *Option 2*
 
-Engage busines lines about available funding how highly desired, or high priority, functions 
+Engage business lines about available funding how highly desired, or high priority, functions 
 
 *Option 3*
 
@@ -67,7 +67,7 @@ Submit a TB Sub for funds
 
 ##### Development
 
-ESDCs R&D team (and other opt-in ESDC development teams) will turn the business request into PoCs on fully open cloud instances, funded by the Umberalla Fund 
+ESDC's R&D team (and other opt-in ESDC development teams) will turn the business request into PoCs on fully open cloud instances, funded by the Umbrella Fund 
 
 ##### Approval 
 
@@ -81,7 +81,7 @@ ___
 
 #### Methodology 
 
-Projects must adhere to the following requirements to be funded to the Umberalla Fund 
+Projects must adhere to the following requirements to be funded to the Umbrella Fund 
 
 ### The What
 - Prioritize projects building service interfaces 
@@ -119,4 +119,4 @@ ___
 
 ## Project Analysis 
 
--- TO-DO List of current projects, and scheduled projects, and what should be done (cancelled, repriortized, modified)
+-- TO-DO List of current projects, and scheduled projects, and what should be done (cancelled, re-prioritized, modified)
