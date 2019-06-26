@@ -63,7 +63,7 @@ The above evaluation of the operating model will constitute the Strategy. The St
 Going back to the definition of a strategy:
 
 - A **good** strategy is a set of coherent actions (initiatives IITB must commit to)
-  - backed up by an argument (the diagnosis), 
+  - backed up by an argument (the Target PKIs that the current diagnosis prevents from happening),
     - an effective mixture of thought and action (the guiding policy)
 
 E.g.:
