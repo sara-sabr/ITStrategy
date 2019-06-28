@@ -55,7 +55,7 @@ Moving IITB into a service-oriented organization will require IITB to manage the
 
 IITB's project intake capacity will be measured by how much it improves, fostering a continuous improvement measurement over a hard target. The measurement will be on the rate at which intake capacity increases. The PMO's [Active Project List](http://dialogue/grp/ippst/Approved%20Projects%20Lists%20%28APL%29/Forms/AllItems.aspx?RootFolder=%2Fgrp%2Fippst%2FApproved%20Projects%20Lists%20%28APL%29%2FFY%202019%2D2020&FolderCTID=0x012000D8E2E348AB0A034886495AE4BED12E07&View=%7b2C779E42-EB28-444B-AACD-39CC61DDBCE2%7d), for Major/Minor/Small ESDC projects, as well as the PMO's [IITB Lite projects](http://dialogue/grp/ITPM-GPTI/Lists/IITBPMP%20Small%20Projects/AllItems.aspx) will be used as reference points to monitor intake increase.
 
-`rate of intake = (Projects Year_n - Projects Year_n-1) / Projects Yn-1`
+`rate of intake = (Projects Year_n - Projects Year_n-1) / Projects Year_n-1`
 
 ## 7. **Reduction in Cyber-incidents**
 
