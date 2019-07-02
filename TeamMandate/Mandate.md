@@ -16,8 +16,8 @@ This will be done through an open collaborative approach that will further ESDC'
 - Report to senior management on digital strategic objectives of ESDC
 - Report to senior management on compliance with TBS directives 
 - Authority to merge working groups, or committees, within IITB
-- Report to senior management on our adherence to technoligical and policy trends (such as OECD AI Policy Observatory)
-- Conduct inwards facing analysis of ESDCs IT processes
+- Report to senior management on our adherence to technological and policy trends (such as OECD AI Policy Observatory)
+- Conduct inwards facing analysis of ESDC's IT processes
 - Required approval for new project onboarding 
 
 ## Team's Guiding Principles 

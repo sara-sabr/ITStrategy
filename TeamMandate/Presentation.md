@@ -18,11 +18,11 @@ Work in the open
 
 #### Repercussions
 
-- All teams (Ex: devs, security and testing) must use git
+- All teams (Ex: developers, security and testing) must use git
 
 #### Opportunities
 
-- Visiblity will allow teams to understand an always up to date verison of the processes of other teams 
+- Visibility will allow teams to understand an always up to date version of the processes of other teams 
 - Reduce rework from sharing and building on the work of others 
   - Example: CDS implements a secure document uploading project. CSE 
 
@@ -44,11 +44,11 @@ Federal public servants are entrusted to use and care for public resources respo
 
 #### Opportunities
 
-- Requiring rigorus review and approval of tools enforces the use of dated tools which 
+- Requiring rigorous review and approval of tools enforces the use of dated tools which 
   - Reduce the ability for the workforce to complete their work 
   - Introduce security concerns by not keeping tooling up to date 
 
-For exampe, node in the self service is 5 years out of date. As a result, there are missing security patches and are unable to use modern tools for validating the quality of work due to out of date functionality
+For example, node in the self service is 5 years out of date. As a result, there are missing security patches and are unable to use modern tools for validating the quality of work due to out of date functionality
 
 ### Integration over creation
 
