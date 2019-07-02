@@ -24,7 +24,7 @@ Work in the open
 
 - Visiblity will allow teams to understand an always up to date verison of the processes of other teams 
 - Reduce rework from sharing and building on the work of others 
-	* Example: CDS implements a secure document uploading project. CSE 
+  - Example: CDS implements a secure document uploading project. CSE 
 
 >Values and Ethics Code for the Public Sector: 
 Federal public servants are entrusted to use and care for public resources responsibly, for both the short term and long term.
@@ -40,13 +40,13 @@ Federal public servants are entrusted to use and care for public resources respo
 #### Repercussions
 
 - Blanket approve all future versions of widely supported and popular tools from trusted organizations 
-	* Ex: Google Chrome, Google Docs, Google Hangouts, YouTube, Facebook, Twitter, Firefox, Slack, node, npm
+  - Ex: Google Chrome, Google Docs, Google Hangouts, YouTube, Facebook, Twitter, Firefox, Slack, node, npm
 
 #### Opportunities
 
 - Requiring rigorus review and approval of tools enforces the use of dated tools which 
-	* Reduce the ability for the workforce to complete their work 
-	* Introduce security concerns by not keeping tooling up to date 
+  - Reduce the ability for the workforce to complete their work 
+  - Introduce security concerns by not keeping tooling up to date 
 
 For exampe, node in the self service is 5 years out of date. As a result, there are missing security patches and are unable to use modern tools for validating the quality of work due to out of date functionality
 
@@ -61,9 +61,9 @@ Do not compete with the private sector. Teams must prioritize integrating ESDC s
 #### Opportunities
 
 - Assign resources to creating new ways of communicating with Canadians to better deliver services 
-	* Allow Canadians to interact with Job Bank data through Alexa, Google Home, or any other home automation product 
-	* Interact with Canadians about job opportunities through automated notifications through LinkedIn
-	* Dedicate more resources focused exclusively on developing service interfaces 
+  - Allow Canadians to interact with Job Bank data through Alexa, Google Home, or any other home automation product 
+  - Interact with Canadians about job opportunities through automated notifications through LinkedIn
+  - Dedicate more resources focused exclusively on developing service interfaces 
 
 ``` delivering programs that help Canadians move through life’s transitions, from school to work, from one job to another, *from unemployment to employment* and from the workforce to retirement ```
 ... 
@@ -75,12 +75,12 @@ Toil is the kind of work tied to running a production service that tends to be m
 #### Repercussions
 
 - Re-define success 
-	* https://twitter.com/STP_PTS/status/1144268119025885186
+  - https://twitter.com/STP_PTS/status/1144268119025885186
 
 #### Opportunities
 
 - Invest in automation 
-	* 1 month per year (Ex: August) dedicated entirely to automation and process improvement
+  - 1 month per year (Ex: August) dedicated entirely to automation and process improvement
 
 ...
 
