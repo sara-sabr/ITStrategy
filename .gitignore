@@ -1,3 +1,5 @@
 node_modules/
 .vscode/
 *.db
+package-lock.json
+npm-debug.log
