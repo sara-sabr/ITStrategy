@@ -65,7 +65,8 @@ Do not compete with the private sector. Teams must prioritize integrating ESDC s
   - Interact with Canadians about job opportunities through automated notifications through LinkedIn
   - Dedicate more resources focused exclusively on developing service interfaces 
 
-``` delivering programs that help Canadians move through life’s transitions, from school to work, from one job to another, *from unemployment to employment* and from the workforce to retirement ```
+>delivering programs that help Canadians move through life’s transitions, from school to work, from one job to another, *from unemployment to employment* and from the workforce to retirement
+
 ... 
 
 ### Avoid Toil
