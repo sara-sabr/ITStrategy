@@ -12,17 +12,12 @@ This will be done through an open collaborative approach that will further ESDC'
 
 ## Mandate (team's authority within IITB)
 
-- Manage IT Strategic Evolution Fund 
-- Full ownership and governance of projects operating against the IT Strategic Evolution fund
-- Provide recommendations to senior management on how IT can be leveraged to improve ESDC's mandate delivery 
-- Conduct both inward facing and external research in order to provide evidence based aforementioned recommendations 
-- Permeate and enforce modern IT practices and processes 
-- Provide strategic direction to IITB's initiatives in order to maximize their impacts and transition IITB into a holistic service-oriented organization
-- Produce IT strategies that includes diagnosis, guiding policies, and sets of coherent actions, for IITB to continually improve its responsiveness to business change
-- Channel senior level support to reprioritize tasks to align ESDC to the approved vision
-- Continuously monitor technology and policy trends to keep pace with technological development (such as OECD AI Policy Observatory)
-- Forge partnerships with key IM/IT partners and suppliers, including across jurisdictions and private and public institutions, for utilizing their expertise and knowledge to meet service delivery goals
-- Orchestrate the IT ecosystem to bring strategies to completion
+- Authority on Open Source documentation 
+- Report to senior management on digital strategic objectives of ESDC
+- Report to senior management on compliance with TBS directives 
+- Authority to merge working groups, or committees, within IITB
+- Report to senior management on our adherence to technoligical and policy trends (such as OECD AI Policy Observatory)
+- Conduct inwards facing analysis of ESDCs IT processes
 
 ## Team's Guiding Principles 
 
@@ -55,9 +50,10 @@ Creation and trial of new processes and procedures. For example:
 
 IT Strategies. For example:
 - Creation and implementation of Innovation Hubs
-- Increase rate of Solution Delivery 
+- Increase rate of Solution delivery 
+- Increase rate of Software onboarding 
 - Vendor Lock-in mitigation
-- Scale innovation
+- Scaling innovation
 - Implement business use cases of AI within ESDC
 
  IT RoadMaps. For example:
@@ -70,6 +66,7 @@ IT Strategies. For example:
 
 Reports. For example:
 - Viability Analysis of Trending Tech
+- Maturity Assessments
 
 Guidance, advices, and awareness via:
 - Whitepapers
