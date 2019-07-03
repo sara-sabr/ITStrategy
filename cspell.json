@@ -1,4 +1,4 @@
-{
+﻿{
     "version": "0.1",
     "language": "en",
     "words": [
@@ -45,7 +45,9 @@
         "paycheque",
         "PSPC",
         "Transformative",
-        "roadmaps"
+        "roadmaps",
+	"PKIs",
+	"Arushi"
     ],
     "flagWords": [],
     "dictionaries": [
