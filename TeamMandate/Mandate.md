@@ -12,13 +12,13 @@ This will be done through an open collaborative approach that will further ESDC'
 
 ## Mandate (team's authority within IITB)
 
-- Authority on Open Source documentation 
-- Report to senior management on digital strategic objectives of ESDC
-- Report to senior management on compliance with TBS directives 
+- Briefing senior management on key organisational problems and recommended steps to address them
+- Orchestrate the IT ecosystem to bring strategies to completion
+- Permeate and enforce modern IT practices and processes 
 - Authority to merge working groups, or committees, within IITB
-- Report to senior management on our adherence to technological and policy trends (such as OECD AI Policy Observatory)
 - Conduct inwards facing analysis of ESDC's IT processes
 - Required approval for new project onboarding 
+- Provide recommendations on resource IT resource allocation 
 
 ## Team's Guiding Principles 
 
@@ -68,6 +68,7 @@ IT Strategies. For example:
 Reports. For example:
 - Viability Analysis of Trending Tech
 - Maturity Assessments
+- Adherence to technological and policy trends (such as OECD AI Policy Observatory)
 
 Guidance, advices, and awareness via:
 - Whitepapers

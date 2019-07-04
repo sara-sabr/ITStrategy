@@ -2,7 +2,11 @@
 
 #### Vision
 
-Allow the creation of new agile procedures for approval, software, and hardware onboarding which self manages all resource sand funding with the intent of trialing new ways of working for the benefit of the organization. 
+New processes created through a lean approach to product management through this fund will be leveraged to drastically increase the efficiency of ESDC's IT services  
+
+#### Mission
+
+The umbrella fund is to provide self managed funding for the IT Strategy team with the intent of trialing new ways of working for approving more rapidly software and hardware onboarding. These trials will work with the right stakeholders to identify unnecessary processes and to automate as much as possible the ones that are necessary.
 
 #### Implementation 
 
@@ -18,11 +22,12 @@ Engage Innovation Hub about possible funding avenues
 
 *Option 2*
 
-Engage business lines about available funding how highly desired, or high priority, functions 
+1. Engage business lines about available funding how highly desired, or high priority, functions 
+2. Engage business lines to provide $X/year in a determined cost centre that will act as the umbrella fund pot
 
 *Option 3*
 
-Leverage existing ESDC available funds
+Leverage existing IITB available funds
 
 *Option 4*
 
@@ -30,11 +35,11 @@ Submit a TB Sub for funds
 
 ##### Development
 
-ESDC's R&D team (and other opt-in ESDC development teams) will turn the business request into PoCs on fully open cloud instances, funded by the Umbrella Fund 
+ESDC's R&D team (and other opt-in ESDC development teams) will turn the business request into PoCs on fully PoCs on self-managed cloud instances, with the source code published under an open source licence, funded by the Umbrella Fund 
 
 ##### Approval 
 
-The business through the Innovation Hub will approve and sponsor the project. 
+The business through the Innovation Lab will approve and sponsor the project. 
 
 ##### Transition 
 
@@ -52,6 +57,7 @@ Projects must adhere to the following requirements to be funded to the Umbrella 
 - Develop legal framework mandating free option for consumed interfaces 
 
 ### The Why
+
 - Increase investment in development of APIs 
   - Publish all APIs on the Open API Store 
 - Cycles available for innovative projects 
@@ -62,20 +68,12 @@ Projects must adhere to the following requirements to be funded to the Umbrella 
 ___
 
 ### The What
+
 - All projects (baring those with exceptions) developed in the open, using git 
 
 ### The Why
+
 - Reduced rework 
 
 >Values and Ethics Code for the Public Sector:
 Federal public servants are entrusted to use and care for public resources responsibly, for both the short term and long term.
-
-___
-
-### The What
-- Creation of an Internal Tools Team
-
-### The Why
-- As the number of services increases, there must be a robust search and discovery mechanism available to developers 
-
->Government of Canada Standards on APIs: 10. Publish and document the API
