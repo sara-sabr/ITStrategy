@@ -30,19 +30,19 @@ Below you will find a set of guides to help get started.
 
 If this is your first time setting up the repo as a local folder, you'll need to do the following:
 
-* Clone the project on your local drive in the folder name of your choice
+- Clone the project on your local drive in the folder name of your choice
 
 ```bash
 git clone https://github.com/sara-sabr/ITStrategy.git <your_folder_name>
 ```
 
-* Move to the folder you just created
+- Move to the folder you just created
 
 ```bash
 cd <your_folder_name>
 ```
 
-* Install the dependencies
+- Install the dependencies
 
 ```bash
 npm install
