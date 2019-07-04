@@ -36,7 +36,15 @@ Learning must be a core part of daily activities to ensure up to date, modern, a
 
 ### Lead by Example
 
-By using the approaches and technologies we champion, we will be able to better respond to, and anticipate, the challenges that will be faced. 
+By using the approaches and technologies we champion, we will be able to better respond to, and anticipate, the challenges that will be faced. We will also be experimenting with modern ways of working in order to demonstrate their value and effectiveness. This includes, for example ... 
+
+- No PowerPoint decks. The document is the presentation.
+- No document will be more than 5 pages.
+- Nothing will be printed -- everything electronic
+- No meetings longer than 1h & 30 minutes
+- Conduct (bi-)daily meetings
+- Conduct monthly retrospectives and planning meetings
+- Keep track of all costs of meetings
 
 ## Deliverables
 
