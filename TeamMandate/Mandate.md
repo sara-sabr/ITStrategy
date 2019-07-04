@@ -12,17 +12,13 @@ This will be done through an open collaborative approach that will further ESDC'
 
 ## Mandate (team's authority within IITB)
 
-- Manage IT Strategic Evolution Fund 
-- Full ownership and governance of projects operating against the IT Strategic Evolution fund
-- Provide recommendations to senior management on how IT can be leveraged to improve ESDC's mandate delivery 
-- Conduct both inward facing and external research in order to provide evidence based aforementioned recommendations 
-- Permeate and enforce modern IT practices and processes 
-- Provide strategic direction to IITB's initiatives in order to maximize their impacts and transition IITB into a holistic service-oriented organization
-- Produce IT strategies that includes diagnosis, guiding policies, and sets of coherent actions, for IITB to continually improve its responsiveness to business change
-- Channel senior level support to reprioritize tasks to align ESDC to the approved vision
-- Continuously monitor technology and policy trends to keep pace with technological development (such as OECD AI Policy Observatory)
-- Forge partnerships with key IM/IT partners and suppliers, including across jurisdictions and private and public institutions, for utilizing their expertise and knowledge to meet service delivery goals
+- Briefing senior management on key organisational problems and recommended steps to address them
 - Orchestrate the IT ecosystem to bring strategies to completion
+- Permeate and enforce modern IT practices and processes 
+- Authority to merge working groups, or committees, within IITB
+- Conduct inwards facing analysis of ESDC's IT processes
+- Required approval for new project onboarding 
+- Provide recommendations on resource IT resource allocation 
 
 ## Team's Guiding Principles 
 
@@ -40,7 +36,15 @@ Learning must be a core part of daily activities to ensure up to date, modern, a
 
 ### Lead by Example
 
-By using the approaches and technologies we champion, we will be able to better respond to, and anticipate, the challenges that will be faced. 
+By using the approaches and technologies we champion, we will be able to better respond to, and anticipate, the challenges that will be faced. We will also be experimenting with modern ways of working in order to demonstrate their value and effectiveness. This includes, for example ... 
+
+- No PowerPoint decks. The document is the presentation.
+- No document will be more than 5 pages.
+- Nothing will be printed -- everything electronic
+- No meetings longer than 1h & 30 minutes
+- Conduct (bi-)daily meetings
+- Conduct monthly retrospectives and planning meetings
+- Keep track of all costs of meetings
 
 ## Deliverables
 
@@ -55,9 +59,10 @@ Creation and trial of new processes and procedures. For example:
 
 IT Strategies. For example:
 - Creation and implementation of Innovation Hubs
-- Increase rate of Solution Delivery 
+- Increase rate of Solution delivery 
+- Increase rate of Software onboarding 
 - Vendor Lock-in mitigation
-- Scale innovation
+- Scaling innovation
 - Implement business use cases of AI within ESDC
 
  IT RoadMaps. For example:
@@ -70,6 +75,8 @@ IT Strategies. For example:
 
 Reports. For example:
 - Viability Analysis of Trending Tech
+- Maturity Assessments
+- Adherence to technological and policy trends (such as OECD AI Policy Observatory)
 
 Guidance, advices, and awareness via:
 - Whitepapers
