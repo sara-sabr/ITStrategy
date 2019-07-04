@@ -1,6 +1,6 @@
 # Human Development Life Cycle (HDLC)
 
-The vision of HDLC is when the government of canada can follow a citizens from cradle to grave, seamlessly providing services through modern technologies and interacting seamlessly with them through digital infrastructure.
+The vision of HDLC is when the government of canada can follow a citizens from cradle to grave, providing services through modern technologies and interacting seamlessly with them through digital infrastructure.
 
 ## What can prevent implementation of HDLC
 
