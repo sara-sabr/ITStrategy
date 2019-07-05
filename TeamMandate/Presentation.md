@@ -10,112 +10,80 @@ As a student who isn't taking any courses this summer, I decided to look for wor
 
 ... 
 
-## The How
+## Proposed IITB Mandated Priorities
 
-- Do not compete with private sector 
-  - Integration over development 
-  - Create jobs, not software 
+### Avoid Rework 
 
->delivering programs that help Canadians move through life’s transitions, from school to work, from one job to another, *from unemployment to employment* and from the workforce to retirement; 
+Work in the open
 
-- Avoid rework 
-  - Work in the open 
+#### Repercussions
+
+- All teams (Ex: developers, security and testing) must use git
+
+#### Opportunities
+
+- Visibility will allow teams to understand an always up to date version of the processes of other teams 
+- Reduce rework from sharing and building on the work of others 
+  - Example: CDS implements a secure document uploading project. CSE 
 
 >Values and Ethics Code for the Public Sector: 
 Federal public servants are entrusted to use and care for public resources responsibly, for both the short term and long term.
 
-- Modern tools 
-  - Fully separated client and back ends 
-  - All communications through service interfaces
-  - Communications between teams must be through these interfaces
+... 
+
+### Modern tools 
 
 >Digital Operations Strategic Plan: 2018-2022
 - public servants are more effective at delivering services, programs and policies when they have modern tools that help their work and a modern workplace
 - public servants need professional development that keeps up with changing times and changing technology
 
-## Actions 
+#### Repercussions
 
-### Creation of Umbrella Fund 
+- Blanket approve all future versions of widely supported and popular tools from trusted organizations 
+  - Ex: Google Chrome, Google Docs, Google Hangouts, YouTube, Facebook, Twitter, Firefox, Slack, node, npm
 
-#### Vision
+#### Opportunities
 
-Allow the creation of new agile procedures for approval, software, and hardware onboarding which self manages all resource sand funding with the intent of trialing new ways of working for the benefit of the organization. 
+- Requiring rigorous review and approval of tools enforces the use of dated tools which 
+  - Reduce the ability for the workforce to complete their work 
+  - Introduce security concerns by not keeping tooling up to date 
 
-#### Implementation 
+For example, node in the self service is 5 years out of date. As a result, there are missing security patches and are unable to use modern tools for validating the quality of work due to out of date functionality
 
-##### Onboarding 
+### Integration over creation
 
-Through collaboration with the existing Innovation Hub, onboard new projects and ideas from the business lines 
+Do not compete with the private sector. Teams must prioritize integrating ESDC services into the existing IT ecosystem over developing, or improving existing, client facing applications competing for Canadians' attention. Create jobs, not software. 
 
-##### Funding 
+#### Repercussions
 
-*Option 1*
+- Cancel any UI updates or modernizations for Job Bank 
 
-Engage Innovation Hub about possible funding avenues 
+#### Opportunities
 
-*Option 2*
+- Assign resources to creating new ways of communicating with Canadians to better deliver services 
+  - Allow Canadians to interact with Job Bank data through Alexa, Google Home, or any other home automation product 
+  - Interact with Canadians about job opportunities through automated notifications through LinkedIn
+  - Dedicate more resources focused exclusively on developing service interfaces 
 
-Engage business lines about available funding how highly desired, or high priority, functions 
+>delivering programs that help Canadians move through life’s transitions, from school to work, from one job to another, *from unemployment to employment* and from the workforce to retirement
 
-*Option 3*
+... 
 
-Leverage existing ESDC available funds
+### Avoid Toil
 
-*Option 4*
+Toil is the kind of work tied to running a production service that tends to be manual, repetitive, automatable, tactical, devoid of enduring value, and that scales linearly as a service grows. 
 
-Submit a TB Sub for funds 
+#### Repercussions
 
-##### Development
+- Re-define success 
+  - https://twitter.com/STP_PTS/status/1144268119025885186
 
-ESDC's R&D team (and other opt-in ESDC development teams) will turn the business request into PoCs on fully open cloud instances, funded by the Umbrella Fund 
+#### Opportunities
 
-##### Approval 
+- Invest in automation 
+  - 1 month per year (Ex: August) dedicated entirely to automation and process improvement
 
-The business through the Innovation Hub will approve and sponsor the project. 
-
-##### Transition 
-
-The project will be proposed to IITB for development. If IITB is unable or unwilling, through possibly leveraging (more information needed here) available ISED programs, give the open source project to small to medium size businesses to bring the product to fruition 
-
-___
-
-#### Methodology 
-
-Projects must adhere to the following requirements to be funded to the Umbrella Fund 
-
-### The What
-- Prioritize projects building service interfaces 
-- Cancel development of UI facing client applications
-- Develop legal framework mandating free option for consumed interfaces 
-
-### The Why
-- Increase investment in development of APIs 
-  - Publish all APIs on the Open API Store 
-- Cycles available for innovative projects 
-- Promote creation of Canadian businesses 
-
->ESDC Mandate: delivering programs that help Canadians move through life’s transitions, from school to work, from one job to another, from unemployment to employment and from the workforce to retirement; 
-
-___
-
-### The What
-- All projects (baring those with exceptions) developed in the open, using git 
-
-### The Why
-- Reduced rework 
-
->Values and Ethics Code for the Public Sector:
-Federal public servants are entrusted to use and care for public resources responsibly, for both the short term and long term.
-
-___
-
-### The What
-- Creation of an Internal Tools Team
-
-### The Why
-- As the number of services increases, there must be a robust search and discovery mechanism available to developers 
-
->Government of Canada Standards on APIs: 10. Publish and document the API
+...
 
 ## Project Analysis 
 
