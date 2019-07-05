@@ -6,7 +6,7 @@ The [Canadian Experience](../Strategies/HumanDevelopmentLifeCycle.md) is when Ca
 
 ## Mission (team's reason for existence)
 
-Be the initiator of change within IITB to lay the path for the evolution of ESDC's digital services.
+Be the catalysts of change within IITB to lay the path for the evolution of ESDC's digital services.
 
 This will be done through an open collaborative approach that will further ESDC's mandate in the digital era by aligning IITB with the Government of Canada's Digital Standards and Treasury Board's Policy on Service and Digital.
 
@@ -14,20 +14,20 @@ This will be done through an open collaborative approach that will further ESDC'
 
 - Define the vision of IT within ESDC
 - Briefing senior management on key organisational problems and recommended steps to address them
-- Orchestrate the IT ecosystem to bring strategies to completion
-- Support teams to introduce modern IT practices and processes
-- Set key guiding digital investments principles and rules for project onboarding
-- Provide recommendations on resource IT resource allocation
+- Present recommended course of action to any ESDC governance body
+- Challenge current thinking and approaches
 
 ## Team's Guiding Principles
 
 ### Add Value
 
-All efforts must deliver measurable impacts. Implement strategies -- do not be a document factory 
+All efforts must deliver measurable impacts.
+Implement strategies -- do not be a document factory 
 
 ### Work collaboratively
 
-Collaborate with anyone and everyone who can _add value_. This includes, but is not limited to, all Canadians, all levels of government, all departments, all private sector organizations, and all governments. 
+Collaborate with anyone and everyone who can _add value_.
+This includes, but is not limited to, all Canadians, all levels of government, all departments, all private sector organizations, and all governments.
 
 ### Continuous learning
 
