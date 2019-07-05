@@ -1,28 +1,48 @@
 [![Build Status](https://travis-ci.com/sara-sabr/ITStrategy.svg?branch=master)](https://travis-ci.com/sara-sabr/ITStrategy)
 
-# ITStrategy
+# IT Strategy
 
 Workspace to develop an IT Strategy - espace de travail pour développer une stratégie TI
 
+## Content
+
+In this repository, you will find our work in progress, list of reference material and our presentations.
+
+We've also set up a few CI tests in order to keep our content clean but also to showcase how powerful these open collaboration tools can be to maintain a project, whether it is simple text files or source code.
+
+### Team Mandate
+
+Our team mandate can be found in [here](./TeamMandate/Mandate.md).
+
+### Strategies
+
+Our draft strategies:
+
+- [Human Development Life Cycle](./Strategies/Human%20Development%20Life%20Cycle.md)
+- [Fully Mobile Employee Profile](./Strategies/ITStrategyFullMobileProfile.md)
+
 ## How to use the CI tests
+
+When you clone this project, you can use the tests that are available. 
+Below you will find a set of guides to help get started.
 
 ### Local Setup
 
 If this is your first time setting up the repo as a local folder, you'll need to do the following:
 
-* Clone the project on your local drive in the folder name of your choice
+- Clone the project on your local drive in the folder name of your choice
 
 ```bash
 git clone https://github.com/sara-sabr/ITStrategy.git <your_folder_name>
 ```
 
-* Move to the folder you just created
+- Move to the folder you just created
 
 ```bash
 cd <your_folder_name>
 ```
 
-* Install the dependencies
+- Install the dependencies
 
 ```bash
 npm install
