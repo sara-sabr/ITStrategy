@@ -1,5 +1,6 @@
 # IITB Key Performance Indicators (PKIs)
 
+<!--markdownlint-disable MD029-->
 IT Strategies are meant to move IITB (and ESDC) towards the end state [Vision of the Canadian Experience](../TeamMandate/Mandate.md). The following KPIs will be used to measure those IT Strategies successes. Monitoring those KPIs will be used to adjust strategies as needed to ensure efforts are well invested and remain aligned with [IITB's high level priorities](http://esdc.prv/en/iitb/corporate/Who_We_Are/Plans_and_Priorities/index.shtml) that are to:
 
 - Focus on the Core Business (of ESDC)
@@ -72,3 +73,5 @@ This indicator will use the following measurement to qualify client satisfaction
 1. Overall satisfaction of IITB's services
 2. Quality of IITB's products (systems)
 3. Responsiveness of IITB's services
+
+<!--markdownlint-enable MD029-->
