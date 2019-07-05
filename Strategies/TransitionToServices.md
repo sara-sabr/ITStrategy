@@ -12,7 +12,7 @@ This goal will be achieved through the establishment and execution of the follow
 4. Implement DevOps
 5. Shift to Product Management
 6. Adopt a Bi-Modal Governance and Delivery
-7. Truly work in the open
+7. Transition to Working in the Open by Default
 
 ## 1. Create an Enterprise Information Modeling
 
@@ -37,10 +37,12 @@ Priority will be given to SaaS and PaaS service models in a Public Cloud provide
 Accelerating cloud adoption at ESDC will require the following:
 
 1. Any new software development must be developed *AND* deployed to the public cloud. This includes up to Protected B data classification.
-2. Development teams (dev, ops, testing) must be allocated a public cloud sandbox environment, one per team, with the following characteristics:
+2. Development teams (dev, ops, testing) must have access to a public cloud sandbox environment, with the following characteristics:
     - dedicated and predictable funding,
     - self-managed by the team with financial monitoring performed so that teams do not exceed their funding cap
-    - for experiments and continuous improvement purposes only. No work in a sandbox environment is meant to reach production. No sensitive data is to be stored or used in this sandbox.
+    - for experiments and continuous improvement purposes only. 
+      - No work in a sandbox environment is meant to reach production. 
+      - No sensitive data is to be stored or used in this sandbox.
 3. Ability to reach the cloud environment over the Internet, outside of the GCNet; enabling development to happen without government resources and freeing network bandwidth.
 4. Start using the cloud before all the governance pieces have been established. Using the cloud will provide empirical evidence that are necessary to define cloud governance.
 
@@ -115,14 +117,14 @@ To implement bimodal-aware governance, IITB will take these three steps:
 3. Rescope the IT standards for Mode 1 technologies only (e.g. development tools should be left to the developer community to manage)
 4. Educate and build support for this single set of bimodal-aware IT governance principles and roles though existing IITB governance committees
 
-## 7. Truly work in the open
+## 7. Transition to Working in the Open by Default
 
 IITB will lead by example by truly working in the open, fostering a collaborative approach not only within IITB and ESDC but across government jurisdictions. Working in the open means enabling access to your work for others to see, making it easier to share your work and seek contributions, and exposing your efforts for the benefits of others.
 
 The benefit for IITB will be to:
 
 1. harvest the communities' input and efforts. Whether they be feedbacks, more direct connection with clients, or actual bug fixes
-2. break down the silos between communities of excellent and practices
+2. break down the silos between communities of excellence and practices
 3. enable horizontal lines of communications instead of the traditional, rigid, hierarchical approach
 4. dramatic collaboration improvements
 5. greater empathy of users needs (whether they be colleagues, clients, or citizens)
@@ -132,5 +134,6 @@ Working in the open means:
 1. Actively and aggressively releasing datasets to the open.canada.ca portal as per the [Directive on Open Government](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=28108)
 2. Release software source code under an open source licence
 3. Publishing software source code on an internet accessible repository (e.g. GitHub, GitLab, BitBucket)
-4. Moving away from Sharepoint for storing information and collaborating
-5. Maintaining a strong cyber-security awareness, knowing what not to put in the open and knowing what to do when sensitive information has been inadvertently released
+4. Contributing back to 3rd party open source projects
+5. Moving away from Sharepoint for storing information and collaborating
+6. Maintaining a strong cyber-security awareness, knowing what not to put in the open and knowing what to do when sensitive information has been inadvertently released
