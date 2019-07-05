@@ -6,13 +6,13 @@ The primary strategic goal of this transformation is to enable more rapid delive
 
 This goal will be achieved through the establishment and execution of the following **7 key strategic initiatives**:
 
-1. Create an Enterprise Information Model
-2. Accelerate Cloud Adoption
-3. Invest in an Integration Layer (API-first approach)
-4. Implement DevOps
-5. Shift to Product Management
-6. Adopt a Bi-Modal Governance and Delivery
-7. Transition to Working in the Open by Default
+- [1. Create an Enterprise Information Modeling](#1-Create-an-Enterprise-Information-Modeling)
+- [2. Accelerate Cloud Adoption](#2-Accelerate-Cloud-Adoption)
+- [3. Invest in an Integration Layer (API-first approach)](#3-Invest-in-an-Integration-Layer-API-first-approach)
+- [4. Implement DevOps](#4-Implement-DevOps)
+- [5. Shift to Product Management](#5-Shift-to-Product-Management)
+- [6. Adopt a Bi-Modal Governance and Delivery](#6-Adopt-a-Bi-Modal-Governance-and-Delivery)
+- [7. Transition to Working in the Open by Default](#7-Transition-to-Working-in-the-Open-by-Default)
 
 ## 1. Create an Enterprise Information Modeling
 
@@ -28,15 +28,15 @@ Any privacy concerns will be treated separately, outside of the Enterprise Infor
 
 The Enterprise Information Model is part of a broader undertaking by IITB's Information Architecture directorate that seeks to mature ESDC's overall Information Architecture capability.
 
+This also aligns with key Governement of Canada initiatives such as the Data Strategy, the Digital Exchange Platform and the API Store.
+
 ## 2. Accelerate Cloud Adoption
 
 IITB will aggressively seek opportunities to adopt cloud computing and reap the benefits of rapid elasticity and increased agility.
 
-Priority will be given to SaaS and PaaS service models in a Public Cloud provider.
-
 Accelerating cloud adoption at ESDC will require the following:
 
-1. Any new software development must be developed *AND* deployed to the public cloud. This includes up to Protected B data classification.
+1. Any new software development must be developed as a cloud native application *AND* deployed to the public cloud. This includes up to Protected B data classification.
 2. Development teams (dev, ops, testing) must have access to a public cloud sandbox environment, with the following characteristics:
     - dedicated and predictable funding,
     - self-managed by the team with financial monitoring performed so that teams do not exceed their funding cap
@@ -52,12 +52,14 @@ It should be noted that SaaS procurement does not require involvement with SSC. 
 
 IITB will introduce and expand an Integration Layer that exposes enterprise information and functionality as a set of Web APIs that include custom developed, COTS-provided, third-party and hybrid APIs.
 
-To take maximum advantage of the Integration Layer, the Presentation Layer “apps” (e.g. websites and portals) will communicate with components in the Application Layer exclusively via the Integration Layer. Because of this, the Integration Layer will give preference to APIs which communicate using a RESTful interface and JSON-formatted data.
+To take maximum advantage of the Integration Layer, the Presentation Layer “apps” (e.g. websites and portals) will communicate with components in the Application Layer exclusively via the Integration Layer.
+Because of this, the Integration Layer will give preference to APIs which communicate using a RESTful interface and JSON-formatted data.
 
 The following rules apply:
 
 1. Any new development work must prioritize API development over User Interfaces
-2. Any communications between teams must be done through an Interface. The choice of protocol for that interface is up to the development and operation teams
+2. Any communications between teams must be done through an Interface.
+The choice of protocol for that interface is up to the development and operation teams
 3. APIs must be build with the Developer Experience (DX) in mind and follow [Appendix D - Mandatory Procedures for Application Programming Interfaces of the Directive on Management of IT](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249)
 4. APIs to be hosted on the API store must be vetted by the IITB Interoperability team for quality assurance
 5. COTS selection must provide integration capabilities through one or more SOA compatible components. COTS that make use of Open Standards must be considered first to avoid vendor lock-in
@@ -69,7 +71,8 @@ IITB will establish and mature a continuous deployment capability through DevOps
 
 Implementing DevOps means the following:
 
-- *Foster and emphasize collaboration between team members*. IITB must be deliberate to foster and emphasize the collaboration and communication of both software developers and IT professionals (testers, security analysts, architects, and testers) while automating the process of software delivery and infrastructure changes.
+- *Foster and emphasize collaboration between team members*.
+IITB must be deliberate to foster and emphasize the collaboration and communication of both software developers and IT professionals (testers, security analysts, architects, and testers) while automating the process of software delivery and infrastructure changes.
 - *Adopt Test-Driven Development (TDD)*. TDD is the practice of writing tests *before* development begins, and running the software code through those tests as development progresses.
 - *Automate everything*. This means build automation, test automation, continuous integration, release automation, infrastructure changes, security compliance, architecture compliance &#042;
 
