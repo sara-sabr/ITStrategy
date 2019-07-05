@@ -30,7 +30,7 @@ Any privacy concerns will be treated separately, outside of the Enterprise Infor
 
 The Enterprise Information Model is part of a broader undertaking by IITB's Information Architecture directorate that seeks to mature ESDC's overall Information Architecture capability.
 
-This also aligns with key Governement of Canada initiatives such as the Data Strategy, the Digital Exchange Platform and the API Store.
+This also aligns with key Government of Canada initiatives such as the Data Strategy, the Digital Exchange Platform and the API Store.
 
 ## 2. Accelerate Cloud Adoption
 
