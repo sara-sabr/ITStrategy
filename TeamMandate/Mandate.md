@@ -2,7 +2,7 @@
 
 ## Vision (image of the future) 
 
-The Canadian Experience is real when the federal government leverages modern technologies to interact seamlessly with Canadians through digital infrastructure.
+The [Canadian Experience](../Strategies/HumanDevelopmentLifeCycle.md) is when Canadians are benefiting seamlessly of the federal government services through modern technologies.
 
 ## Mission (team's reason for existence)
 
