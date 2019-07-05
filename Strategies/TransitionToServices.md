@@ -16,9 +16,11 @@ This goal will be achieved through the establishment and execution of the follow
 
 ## 1. Create an Enterprise Information Modeling
 
-The creation of a stable, and highly re-usable set of APIs that expose relevant data and functionality is dependent upon the creation and continuous evolution of an Enterprise Information Model at ESDC. Such model will also enable ESDC to move towards a "tell us once" goal.
+The creation of a stable, and highly re-usable set of APIs that expose relevant data and functionality is dependent upon the creation and continuous evolution of an Enterprise Information Model at ESDC.
+Such model will also enable ESDC to move towards a "tell us once" goal.
 
-The Enterprise Information Model is *not* a database schema, a particular system's logical data model, or a client profile. It's a reference, with business terms, that development teams will use to quickly identify:
+The Enterprise Information Model is *not* a database schema, a particular system's logical data model, or a client profile.
+It's a reference, with business terms, that development teams will use to quickly identify:
 
 - data entities being created and managed at ESDC
 - the inter-relationships between those entities
@@ -36,7 +38,8 @@ IITB will aggressively seek opportunities to adopt cloud computing and reap the 
 
 Accelerating cloud adoption at ESDC will require the following:
 
-1. Any new software development must be developed as a cloud native application *AND* deployed to the public cloud. This includes up to Protected B data classification.
+1. Any new software development must be developed as a cloud native application *AND* deployed to the public cloud.
+This includes up to Protected B data classification.
 2. Development teams (dev, ops, testing) must have access to a public cloud sandbox environment, with the following characteristics:
     - dedicated and predictable funding,
     - self-managed by the team with financial monitoring performed so that teams do not exceed their funding cap
@@ -44,9 +47,12 @@ Accelerating cloud adoption at ESDC will require the following:
       - No work in a sandbox environment is meant to reach production. 
       - No sensitive data is to be stored or used in this sandbox.
 3. Ability to reach the cloud environment over the Internet, outside of the GCNet; enabling development to happen without government resources and freeing network bandwidth.
-4. Start using the cloud before all the governance pieces have been established. Using the cloud will provide empirical evidence that are necessary to define cloud governance.
+4. Start using the cloud before all the governance pieces have been established.
+Using the cloud will provide empirical evidence that are necessary to define cloud governance.
 
-It should be noted that SaaS procurement does not require involvement with SSC. As of Budget 2017, ministers have the authority to grant federal departments and agencies the right to work directly with vendors even in areas that overlap with SSC’s mandate. Departments can use their delegated procurement authority to determine the right course of action in procuring SaaS (e.g. sole sourcing, advanced contract award notice, RFP).
+It should be noted that SaaS procurement does not require involvement with SSC.
+As of Budget 2017, ministers have the authority to grant federal departments and agencies the right to work directly with vendors even in areas that overlap with SSC’s mandate.
+Departments can use their delegated procurement authority to determine the right course of action in procuring SaaS (e.g. sole sourcing, advanced contract award notice, RFP).
 
 ## 3. Invest in an Integration Layer (API-first approach)
 
@@ -73,8 +79,10 @@ Implementing DevOps means the following:
 
 - *Foster and emphasize collaboration between team members*.
 IITB must be deliberate to foster and emphasize the collaboration and communication of both software developers and IT professionals (testers, security analysts, architects, and testers) while automating the process of software delivery and infrastructure changes.
-- *Adopt Test-Driven Development (TDD)*. TDD is the practice of writing tests *before* development begins, and running the software code through those tests as development progresses.
-- *Automate everything*. This means build automation, test automation, continuous integration, release automation, infrastructure changes, security compliance, architecture compliance &#042;
+- *Adopt Test-Driven Development (TDD)*.
+TDD is the practice of writing tests *before* development begins, and running the software code through those tests as development progresses.
+- *Automate everything*.
+This means build automation, test automation, continuous integration, release automation, infrastructure changes, security compliance, architecture compliance &#042;
 
 &#042; Architecture compliance automation needs to be further evaluated.
 
@@ -88,29 +96,40 @@ This requires introducing greater continuity between the initial release, growth
 
 Shifting to Product Management will require the following:
 
-1. *The use of dedicated product managers*. Responsible for orchestrating the various activities associated with ensuring that a product delivered meets users' needs. Product managers also evaluates trends and strategic direction to determine features to build.
-2. *A new financial model*. Product Management requires stable and predictable funding, without foresight as to what features are to be implemented in the next year.
-3. *A dedicated team*. Product Management requires dedicated teams that understands and knows the product so that it can continuously improve, manage technical debt, and add new features to the product. Teams cannot be moved around and assigned to different projects as the winds of change occurs, they must remain attached to products.
+1. *The use of dedicated product managers*.
+   Responsible for orchestrating the various activities associated with ensuring that a product delivered meets users' needs.
+   Product managers also evaluates trends and strategic direction to determine features to build.
+2. *A new financial model*.
+   Product Management requires stable and predictable funding, without foresight as to what features are to be implemented in the next year.
+3. *A dedicated team*.
+   Product Management requires dedicated teams that understands and knows the product so that it can continuously improve, manage technical debt, and add new features to the product.
+   Teams cannot be moved around and assigned to different projects as the winds of change occurs, they must remain attached to products.
 
 ## 6. Adopt a Bi-Modal Governance and Delivery
 
 Bimodal is the practice of managing two separate but coherent styles of work: one focused on predictability; the other on exploration.
 
-- **Mode 1** is optimized for areas that are more certain and well-understood. It focuses on exploiting what is known, while renovating the legacy environment into a state that is fit for a digital world.
-- **Mode 2** is exploratory, experimenting to solve new problems, optimized for areas of uncertainty. These initiatives often begin with a hypothesis that is tested and adapted during a process involving short iterations.
+- **Mode 1** is optimized for areas that are more certain and well-understood.
+  It focuses on exploiting what is known, while renovating the legacy environment into a state that is fit for a digital world.
+- **Mode 2** is exploratory, experimenting to solve new problems, optimized for areas of uncertainty.
+  These initiatives often begin with a hypothesis that is tested and adapted during a process involving short iterations.
 
-The two different modes are there to offer two separate risk management techniques. Where **risk = probability &#042; impact**, choosing to use one mode over the other depends on the risk level (what is the probability that an incident occurs, and what is that incident's impact to the organization).
+The two different modes are there to offer two separate risk management techniques.
+Where **risk = probability &#042; impact**, choosing to use one mode over the other depends on the risk level (what is the probability that an incident occurs, and what is that incident's impact to the organization).
 
-Legacy/Core/Mission-Critical systems benefit from Mode 1 governance that offers rigour and predictability. Whereas Innovation and Experimental work benefit from Mode 2 governance where the solution is not yet known and a more iterative, discovery approach is to be used.
+Legacy/Core/Mission-Critical systems benefit from Mode 1 governance that offers rigour and predictability.
+Whereas Innovation and Experimental work benefit from Mode 2 governance where the solution is not yet known and a more iterative, discovery approach is to be used.
 
-In general, if the change sought is close to the core of an organization where its impact can ripple across the organization, Mode 1 is used. Whereas if a change sought is on the external boundary of an organization with little impact to the rest of the organization, Mode 2 is used.
+In general, if the change sought is close to the core of an organization where its impact can ripple across the organization, Mode 1 is used.
+Whereas if a change sought is on the external boundary of an organization with little impact to the rest of the organization, Mode 2 is used.
 
 ![bi-modal governance and pace layering model](../ReferenceMaterials/img/priorities_bimodal.png)
 
 To implement bimodal-aware governance, IITB will take these three steps:
 
 1. Evolve existing IT governance arrangements to become bimodal-aware by establishing a single set of IT governance principles and roles that aligns priorities between both modes
-2. Establish clear criteria for when Mode 2 needs to be involved over Mode 1. These criteria involve:
+2. Establish clear criteria for when Mode 2 needs to be involved over Mode 1.
+   These criteria involve:
     - Financial control and reporting
     - Project Management
     - Software and Cloud procurement
@@ -122,11 +141,13 @@ To implement bimodal-aware governance, IITB will take these three steps:
 
 ## 7. Transition to Working in the Open by Default
 
-IITB will lead by example by truly working in the open, fostering a collaborative approach not only within IITB and ESDC but across government jurisdictions. Working in the open means enabling access to your work for others to see, making it easier to share your work and seek contributions, and exposing your efforts for the benefits of others.
+IITB will lead by example by truly working in the open, fostering a collaborative approach not only within IITB and ESDC but across government jurisdictions.
+Working in the open means enabling access to your work for others to see, making it easier to share your work and seek contributions, and exposing your efforts for the benefits of others.
 
 The benefit for IITB will be to:
 
-1. harvest the communities' input and efforts. Whether they be feedbacks, more direct connection with clients, or actual bug fixes
+1. harvest the communities' input and efforts.
+   Whether they be feedbacks, more direct connection with clients, or actual bug fixes
 2. break down the silos between communities of excellence and practices
 3. enable horizontal lines of communications instead of the traditional, rigid, hierarchical approach
 4. dramatic collaboration improvements
