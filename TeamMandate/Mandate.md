@@ -12,15 +12,14 @@ This will be done through an open collaborative approach that will further ESDC'
 
 ## Mandate (team's authority within IITB)
 
+- Define the vision of IT within ESDC
 - Briefing senior management on key organisational problems and recommended steps to address them
 - Orchestrate the IT ecosystem to bring strategies to completion
-- Permeate and enforce modern IT practices and processes 
-- Authority to merge working groups, or committees, within IITB
-- Conduct inwards facing analysis of ESDC's IT processes
-- Required approval for new project onboarding 
-- Provide recommendations on resource IT resource allocation 
+- Support teams to introduce modern IT practices and processes
+- Set key guiding digital investments principles and rules for project onboarding
+- Provide recommendations on resource IT resource allocation
 
-## Team's Guiding Principles 
+## Team's Guiding Principles
 
 ### Add Value
 
