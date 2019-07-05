@@ -14,7 +14,7 @@ This will be done through an open collaborative approach that will further ESDC'
 
 - Briefing senior management on key organisational problems and recommended steps to address them
 - Orchestrate the IT ecosystem to bring strategies to completion
-- Permeate teams to introduce modern IT practices and processes
+- Support teams to introduce modern IT practices and processes
 - Recommend key guiding digital investments principles and rules for project onboarding
 - Provide recommendations on resource IT resource allocation
 
