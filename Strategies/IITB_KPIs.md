@@ -68,9 +68,9 @@ This indicator will monitor the number of cyber-incidents across ESDC and measur
 
 ## 7. **Increase cyber resilience**
 
-Cyber resilience looks at preventive measure to counteract human error and insecure software. Being cyber resilient is the capability to detect and counter a sequence of events before the threat can impact the organization. Cyber resilience will be measured by a decrease rate of intrusion, based on the [Mitre Att&amp;ck Matrix](https://attack.mitre.org/) as followed:
+Cyber resilience is the ability to quickly mitigate and remediate a breach, whether it be from human error or insecure software resulting in operational disruption, data theft or public trust degradation. Cyber resilience will be measured by a decrease rate of intrusion, which is a complex measurement using security frameworks like the [Mitre Att&amp;ck Matrix](https://attack.mitre.org/).
 
-`rate = ???`
+`rate = TBD`
 
 ## 8. **Client Satisfaction of IITB Services**
 
