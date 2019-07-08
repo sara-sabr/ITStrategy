@@ -1,4 +1,4 @@
-# A Strategy to transition IITB to a services oriented organization
+# A Strategy to transition IITB to an ESDC partner
 
 This document articulates a strategy and roadmap for moving IITB into a service provider by transforming IITB's Solution Delivery capability.
 
