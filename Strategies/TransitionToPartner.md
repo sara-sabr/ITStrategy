@@ -16,7 +16,7 @@ This goal will be achieved through the establishment and execution of the follow
 
 ## 1. Create an Enterprise Information Modeling
 
-The creation of a stable, and highly re-usable set of Application Programming Interfaces  (APIs) that expose relevant data and functionality is dependent upon the creation and continuous evolution of an Enterprise Information Model at ESDC.
+The creation of a stable, and highly re-usable set of Application Programming Interfaces (APIs) that expose relevant data and functionality is dependent upon the creation and continuous evolution of an Enterprise Information Model at ESDC.
 Such model will also enable ESDC to move towards a "tell us once" goal.
 
 The Enterprise Information Model is *not* a database schema, a particular system's logical data model, or a client profile.
@@ -40,8 +40,8 @@ Moving ESDC to a Cloud Native organization will require the following:
 
 1. Any new software development must be developed as a cloud native software *AND* deployed to the public cloud.
 This includes up to Protected B data classification.
-2. If building on premise, software must be built to natively support Cloud even if they are not ready to do so.
-3. Each Development teams (dev, ops, testing) must have a public cloud sandbox made available to them with no restrictions or connectivity to existing ESDC infrastructure, intended solely for learning, innovation, and experimentation.
+2. If deployed on premise, software must be built to natively support Cloud even if they are not ready to do so (e.g. having an ability to be portable to other providers using containers).
+3. Each Development teams (dev, ops, testing) must have a public cloud sandbox made available to them, self managed and with predictable funding caps, with no connectivity to existing ESDC infrastructure intended solely for learning, innovation, and experimentation.
 4. Ability to reach the cloud environment over the Internet, outside of the GCNet; enabling development to happen without government resources and freeing network bandwidth.
 5. Start using the cloud before all the governance pieces have been established.
 Using the cloud will provide empirical evidence that are necessary to define cloud governance.
