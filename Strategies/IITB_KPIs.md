@@ -26,7 +26,7 @@ The indicator will be measured by using [ESDC's Service Catalogue](https://www.c
 
 ## 3. **Reduction in toil of IITB and ESDC Services**
 
-Toil is the kind of work tied to running a production service that tends to be manual, repetitive, automatable, tactical devoid of enduring value, and that scales linearly as a service grows. Processing time of ESDC services may decrease by increasing manual labour but that would defeat the purpose of digital and jeopordize the service's sustainability.
+Toil is the kind of work tied to running a production service that tends to be manual, repetitive, automatable, tactical devoid of enduring value, and that scales linearly as a service grows. Processing time of ESDC services may decrease by increasing manual labour but that would defeat the purpose of digital and jeopardize the service's sustainability.
 
 The indicator will be measured two ways:
 
@@ -48,15 +48,15 @@ Moving IITB into a service-oriented organization will require IITB to manage the
 
 ## 5. **Increase rate of delivery by IITB**
 
-Rate of delivery is the measurement of IITB's ability to deliver projects and software releases. As IITB transitions from project management to product management, it will seek to deliver project faster and then shift to deliver product releaseses faster.
+Rate of delivery is the measurement of IITB's ability to deliver projects and software releases. As IITB transitions from project management to product management, it will seek to deliver project faster and then shift to deliver product releases faster.
 
 IITB's rate of delivery will be measured by how much it improves, fostering a continuous improvement measurement over a hard target. The measurement will be two folds:
 
-1.  the rate at which intake capacity increases. The PMO's [Active Project List](http://dialogue/grp/ippst/Approved%20Projects%20Lists%20%28APL%29/Forms/AllItems.aspx?RootFolder=%2Fgrp%2Fippst%2FApproved%20Projects%20Lists%20%28APL%29%2FFY%202019%2D2020&FolderCTID=0x012000D8E2E348AB0A034886495AE4BED12E07&View=%7b2C779E42-EB28-444B-AACD-39CC61DDBCE2%7d), for Major/Minor/Small ESDC projects, as well as the PMO's [IITB Lite projects](http://dialogue/grp/ITPM-GPTI/Lists/IITBPMP%20Small%20Projects/AllItems.aspx) will be used as reference points to monitor intake increase. the project's complexity will be considered in the measurement.
+1. the rate at which intake capacity increases. The PMO's [Active Project List](http://dialogue/grp/ippst/Approved%20Projects%20Lists%20%28APL%29/Forms/AllItems.aspx?RootFolder=%2Fgrp%2Fippst%2FApproved%20Projects%20Lists%20%28APL%29%2FFY%202019%2D2020&FolderCTID=0x012000D8E2E348AB0A034886495AE4BED12E07&View=%7b2C779E42-EB28-444B-AACD-39CC61DDBCE2%7d), for Major/Minor/Small ESDC projects, as well as the PMO's [IITB Lite projects](http://dialogue/grp/ITPM-GPTI/Lists/IITBPMP%20Small%20Projects/AllItems.aspx) will be used as reference points to monitor intake increase. the project's complexity will be considered in the measurement.
 
 `rate of project delivery = (Projects Year_n - Projects Year_n-1) / Projects Year_n-1`
 
-2. the rate at which product releases increases. Thel list of products and their release schedule is found **&lt;insert location here&gt;**
+2. the rate at which product releases increases. The list of products and their release schedule is found **&lt;insert location here&gt;**
 
 `rate of product delivery = (Product releases Year_n - Product releases Year_n-1) / Product releases Year_n-1`
 
