@@ -26,25 +26,19 @@ The indicator will be measured by using [ESDC's Service Catalogue](https://www.c
 
 ## 3. **Reduction in toil of IITB and ESDC Services**
 
-Toil is the kind of work tied to running a production service that tends to be manual, repetitive, automatable, tactical devoid of enduring value, and that scales linearly as a service grows. Processing  time of ESDC services may decrease by increasing manual labour but that would defeat the purpose of digital.
+Toil is the kind of work tied to running a production service that tends to be manual, repetitive, automatable, tactical devoid of enduring value, and that scales linearly as a service grows. Processing time of ESDC services may decrease by increasing manual labour but that would defeat the purpose of digital and jeopardize the service's sustainability.
 
 The indicator will be measured two ways:
 
-1. For toil in IITB Services, using ??? and measure the ratio of X over Y. 
+1. For toil in IITB Services, using ??? and measure the ratio of X over Y.
 
 `ratio = X / Y`
 
-2. For toil in ESDC Services, using the [ESDC's Service Catalogue](https://www.canada.ca/en/employment-social-development/corporate/portfolio/service-canada/programs.html) and measure the ratio of service requests to amount of personnel. 
+2. For toil in ESDC Services, using the [ESDC's Service Catalogue](https://www.canada.ca/en/employment-social-development/corporate/portfolio/service-canada/programs.html) and measure the ratio of service requests to amount of personnel.
 
 `ratio = service requests / service personnel`
 
-## 4. **Percentage of IITB services made available as SaaS**
-
-IITB services currently offered, as catalogued in the ITSM Repository, will be offered as SaaS for IITB consumers. This transformation to SaaS provisioning and maintenance will be measured by the rate at which those services are changed to self-served ones. The measurement will look at [IITB's Service Catalogue](http://iservice.prv/eng/service_catalogues/imit_services.shtml), which is being modernized for 2020, as reference point and monitor their transformation to SaaS.
-
-`percentage = SaaS / total ITSM services`
-
-## 5. **Availability uptime of ESDC core systems**
+## 4. **Availability uptime of ESDC core systems**
 
 Moving IITB into a service-oriented organization will require IITB to manage the complexity and growth of its services pro-actively. The measurement of availability is driven by time loss whereas the measurement of reliability is driven by the frequency and impact of failures. This indicator focuses on availability as it's what clients of the service are concerned with. The ***service's*** maximum allowable downtime, as agreed by the BCP Business Impact Analysis exercise, will be used to assess IITB's service availability. The Core systems will be the ones flagged as *high business value* within [ESDC's Application Portfolio Management (APM) program](http://dialogue/grp/PR6303013/APM_Program/default.aspx).
 
@@ -52,17 +46,31 @@ Moving IITB into a service-oriented organization will require IITB to manage the
 
 *Note:* Services are never expected to be up 100% of the time. [See here](http://www.gcpedia.gc.ca/wiki/OCIO_Application_Portfolio_Management/Application_Portfolio_Management_User_Guide#Application_Mission_Criticality_and_Critical_Services) for more details.  
 
-## 6. **Increase rate of project intake by IITB**
+## 5. **Increase rate of delivery by IITB**
 
-IITB's project intake capacity will be measured by how much it improves, fostering a continuous improvement measurement over a hard target. The measurement will be on the rate at which intake capacity increases. The PMO's [Active Project List](http://dialogue/grp/ippst/Approved%20Projects%20Lists%20%28APL%29/Forms/AllItems.aspx?RootFolder=%2Fgrp%2Fippst%2FApproved%20Projects%20Lists%20%28APL%29%2FFY%202019%2D2020&FolderCTID=0x012000D8E2E348AB0A034886495AE4BED12E07&View=%7b2C779E42-EB28-444B-AACD-39CC61DDBCE2%7d), for Major/Minor/Small ESDC projects, as well as the PMO's [IITB Lite projects](http://dialogue/grp/ITPM-GPTI/Lists/IITBPMP%20Small%20Projects/AllItems.aspx) will be used as reference points to monitor intake increase.
+Rate of delivery is the measurement of IITB's ability to deliver projects and software releases. As IITB transitions from project management to product management, it will seek to deliver project faster and then shift to deliver product releases faster.
 
-`rate of intake = (Projects Year_n - Projects Year_n-1) / Projects Year_n-1`
+IITB's rate of delivery will be measured by how much it improves, fostering a continuous improvement measurement over a hard target. The measurement will be two folds:
 
-## 7. **Reduction in Cyber-incidents**
+1. the rate at which intake capacity increases. The PMO's [Active Project List](http://dialogue/grp/ippst/Approved%20Projects%20Lists%20%28APL%29/Forms/AllItems.aspx?RootFolder=%2Fgrp%2Fippst%2FApproved%20Projects%20Lists%20%28APL%29%2FFY%202019%2D2020&FolderCTID=0x012000D8E2E348AB0A034886495AE4BED12E07&View=%7b2C779E42-EB28-444B-AACD-39CC61DDBCE2%7d), for Major/Minor/Small ESDC projects, as well as the PMO's [IITB Lite projects](http://dialogue/grp/ITPM-GPTI/Lists/IITBPMP%20Small%20Projects/AllItems.aspx) will be used as reference points to monitor intake increase. the project's complexity will be considered in the measurement.
+
+`rate of project delivery = (Projects Year_n - Projects Year_n-1) / Projects Year_n-1`
+
+2. the rate at which product releases increases. The list of products and their release schedule is found **&lt;insert location here&gt;**
+
+`rate of product delivery = (Product releases Year_n - Product releases Year_n-1) / Product releases Year_n-1`
+
+## 6. **Reduction in Cyber-incidents**
 
 This indicator will monitor the number of cyber-incidents across ESDC and measure the rate at which they decrease.
 
 `rate = (Incidents Year_n - Incidents Year_n-1) / Incidents Year_n-1`
+
+## 7. **Increase cyber resilience**
+
+Cyber resilience is the ability to quickly mitigate and remediate a breach, whether it be from human error or insecure software resulting in operational disruption, data theft or public trust degradation. Cyber resilience will be measured by a decrease rate of intrusion, which is a complex measurement using security frameworks like the [Mitre Att&amp;ck Matrix](https://attack.mitre.org/).
+
+`rate = TBD`
 
 ## 8. **Client Satisfaction of IITB Services**
 
