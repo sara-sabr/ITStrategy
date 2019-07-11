@@ -18,7 +18,17 @@ Sites that are classified as instant messaging, video conferencing, cloud storag
 
 ### Considerations
 
-Opening access to these categories of sites would enable all ESDC employees to engage and collaborate with other departments and agencies as well as other organizations and citizens. In addition to implementing the changes required by the PIN, it will also align the department with the [GC Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html) by working in the open by default, empowering staff to deliver better services and collaborating widely.
+More open access to the Internet will assist ESDC employees to conduct the business of the department more efficiently and effectively.
+It will support the digital transformation of how public servants work and serve Canadians by enhancing collaboration, augmenting professional development opportunities, encouraging sharing of knowledge to support innovation and helping to create a more open culture.
+
+IITB must adapt to meet the demands and expectations of its clients, stakeholders, partners and employees.
+In addition to implementing the changes required by the PIN, it will also align the department with the [GC Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html) by empowering staff to deliver better services and collaborate widely while also enabling them to work in the open.
+When access to collaboration tools and sites is restricted, instead of increasing protection, the opposite occurs.
+Users will find a way around the blocks if it makes their life easier.
+Security is more than just locking things down; user experience must also be considered.
+
+Instead of banning access to certain tools and sites, making access open by default and encouraging the secure use will result in risks being better controlled.
+Informing users of expected behaviours when using the Internet will help them to protect against potential confidentiality or privacy breaches and to comply with existing ESDC and GC codes of conduct and policies.
 
 ## Next Steps
 
