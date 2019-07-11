@@ -46,6 +46,15 @@
         "PSPC",
         "Transformative",
         "roadmaps",
+        "Websockets",
+	"ITSM",
+	"PMO",
+	"PMO's",
+        "SSC",
+        "SSC’s",
+        "lifecycle",
+        "rescope",
+        "Sharepoint",
         "automatable",
         "Alexa",
   	    "PKIs",
@@ -63,7 +72,9 @@
         "skillset",
         "rebranding",
         "Lifecycle",
-        "endfor"
+        "endfor",
+        "SSPB",
+        "Sspb's"
     ],
     "flagWords": [],
     "dictionaries": [
