@@ -6,13 +6,13 @@ The primary strategic goal of this transformation is to enable more rapid delive
 
 This goal will be achieved through the establishment and execution of the following **7 key strategic initiatives**:
 
-- [1. Create an Enterprise Information Modeling](#1-Create-an-Enterprise-Information-Modeling)
-- [2. Move towards a Cloud Native organization](#2-Move-towards-a-cloud-native-organization)
-- [3. Invest in an Integration Layer (API-first approach)](#3-Invest-in-an-Integration-Layer-API-first-approach)
-- [4. Implement DevOps](#4-Implement-DevOps)
-- [5. Shift to Product Management](#5-Shift-to-Product-Management)
-- [6. Adopt a Bi-Modal Governance and Delivery](#6-Adopt-a-Bi-Modal-Governance-and-Delivery)
-- [7. Transition to Working in the Open by Default](#7-Transition-to-Working-in-the-Open-by-Default)
+1. [1. Create an Enterprise Information Modeling](#1-Create-an-Enterprise-Information-Modeling)
+2. [2. Move towards a Cloud Native organization](#2-Move-towards-a-Cloud-Native-organization)
+3. [3. Invest in an Integration Layer (API-first approach)](#3-Invest-in-an-Integration-Layer-API-first-approach)
+4. [4. Implement DevOps](#4-Implement-DevOps)
+5. [5. Shift to Agile Project Management](#5-Shift-to-Agile-Project-Management)
+6. [6. Adopt a Bi-Modal Governance and Delivery](#6-Adopt-a-Bi-Modal-Governance-and-Delivery)
+7. [7. Transition to Working in the Open by Default](#7-Transition-to-Working-in-the-Open-by-Default)
 
 ## 1. Create an Enterprise Information Modeling
 
@@ -98,7 +98,7 @@ Shifting to Agile Project Management will require the following:
 2. **Agile financial model**
    All projects must be built in an iterative fashion. Every product must be deliverable at the end of each quarter, where a functioning application that solves a business need is delivered, enabling attention to be focused as needed. 
 3. **A dedicated team**
-    One crossfunctional team is assigned responsibility for the product from inception to the expiration of the business need for said product. 
+    One cross-functional team is assigned responsibility for the product from inception to the expiration of the business need for said product. 
     Teams are created with all expertise required to deliver the product. This includes, though is not limited to, business expertise, security expertise, development expertise, operations expertise, and testing expertise.
 4. **There is no maintenance, only development**
    There is no differentiation between maintenance and development. In both cases, resources are assigned to an application to increase business value and deliver on a business need. 
