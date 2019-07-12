@@ -9,9 +9,9 @@ Such state will continuously evolve when new information and knowledge is captur
 
 The IT Vision complements the [HDLC](HumanDevelopmentLifeCycle.md) story which is taken from the point of view of the citizen, and the [KPIs](IITB_KPIs.md) which define the performance metrics needed to sustain the HDLC, by providing the point of view of the organization's IT capabilities.
 
-The IT Vision leverages the work done in the [IITB Way Forward](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx), ensures alignment with [IITB's high level priorities](http://esdc.prv/en/iitb/corporate/Who_We_Are/Plans_and_Priorities/index.shtml), and brings the [GC's Strategic Plan for IM/IT 2017-2021](https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html) into ESDC's operational context.
+The IT Vision leverages the work done in the [IITB Way Forward](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx), ensures alignment with [IITB's high level priorities](http://esdc.prv/en/iitb/corporate/Who_We_Are/Plans_and_Priorities/index.shtml), and brings the [GC's Digital Operations Strategic Plan 2018-2022](https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html) into ESDC's operational context.
 
-The ESDC IT Vision is explained using the [GC's Strategic Plan for IM/IT 2017-2021](https://www.canada.ca/en/treasury-board-secretariat/services/information-technology/strategic-plan-2017-2021.html#toc4) six vision pillars:
+The ESDC IT Vision is explained using the [GC's Digital Operations Strategic Plan 2018-2022](https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html) six chapters:
 
 1. Digital Services
 2. Open and accessible
@@ -22,14 +22,15 @@ The ESDC IT Vision is explained using the [GC's Strategic Plan for IM/IT 2017-20
 
 ## 1. Digital Services
 
-All of [ESDC's services](https://www.canada.ca/en/employment-social-development/corporate/portfolio/service-canada/programs.html) are delivered through technology with a large majority running on the public cloud to seek benefits of rapid elasticity, broad internet access, and up to date security patching.
+All of [ESDC's services](https://www.canada.ca/en/employment-social-development/corporate/portfolio/service-canada/programs.html) are delivered through technology with a large majority running on the public cloud to seek benefits of [rapid elasticity, broad internet access, and up to date security patching](https://doi.org/10.6028/NIST.SP.800-145).
 
 Artificial Intelligence is being used to drastically [reduce toil](https://landing.google.com/sre/sre-book/chapters/eliminating-toil/), enable auto-enrolment by design, provide insights for service innovation, while ensuring ethical use of [automated decision-making](https://tbs-sct.gc.ca/pol/doc-eng.aspx?id=32592). Artificial Intelligence is a shared expertise between the Chief Information Officer (CIO, responsible for the technology), and the Chief Data Officer (CDO, responsible for data scientists and management).
 
-User Experiences (websites, web applications, and mobile applications) is **rarely** provided by ESDC.
+Human Interfaces that citizens interact with (e.g. websites, web applications, and mobile applications) are **rarely** provided by ESDC.
 Instead, ESDC does not compete with the private sector and seeks to leverage it to drastically improve its connectivity with citizens and [promote Canadian innovation and skills](https://www.theglobeandmail.com/business/commentary/article-the-essentials-for-canadas-digital-economy/).
 ESDC makes use of the public and private industries such as job promoting websites, banks, and employers, to offer its services via APIs (see [2. Open and accessible](#2-Open-and-accessible)).
 ESDC establishing terms of service and conditions with private industries to assure its services are always accessible and do not have barriers for users with disabilities.
+ESDC contributes to the [OneGC vision](https://gccollab.ca/groups/profile/154708/enonegc-ungcfrungc) by leveraging Government of Canada's user interfaces instead of creating its own.
 
 IT is seen as a critical partner in service design and delivery, having a seat at the table as much as the Chief Data Office (CDO) and the Service's strategic direction.
 IT's credibility to deliver has been achieved by automating much of its internal development processes when it adopted DevOps.
@@ -38,10 +39,10 @@ All of ESDC's services are connected and interoperable to enable the "tell us on
 All of ESDC's services use a single account, tied to a single identity, in order to avoid multiple separate logins and use [modern identity verification](https://gcn.com/articles/2019/03/25/mobile-verification.aspx) to drastically reduce identity theft risks.
 IT Solutions can only "talk" to each other via APIs.
 
-IM/IT solutions are flexible enough to give the choice of sharing personal data to the end-user, bringing any privacy concerns in the hands of the end-user.
+IM/IT solutions provide the flexibility needed to empower end-users with the choice of sharing personal data, bringing any privacy concerns in the hands of the end-user as opposed to ESDC making decisions for them.
 
-Technology choices adopt open standards with preference to Open Source solutions in order to avoid vendor lock-in, enable interoperability, and collaboration.
-Technology choices does not take a simple look as "COTS *or* Custom", rather choices look at fit for purpose which means "COTS *and* Custom": COTS for commodities and Custom for specialization.
+Technology choices adopt open standards with preference for Open Source solutions in order to avoid vendor lock-in, enable interoperability, and collaboration.
+Technology choices does not take a simple look as "COTS *or* Custom", rather choices look at fit for purpose which means "COTS *and* Custom": COTS for commodities and Custom for specialization. COTS is defined as per [US DoD FAQ](https://dodcio.defense.gov/Open-Source-Software-FAQ/#Q:_Is_open_source_software_commercial_software.3F_Is_it_COTS.3F).
 
 ESDC's legacy core systems are modernized into a set of micro services as opposed to monolithic systems, each working together as an aggregate to bring Pension, Employment Insurance, and Old Age Security delivery to citizens.
 The number of services (or number of systems) is not a concern, the concern is rather the ability to effectively manage technical debt and keep up with demands by making timely, small iterative changes.
@@ -84,7 +85,7 @@ ESDC is using product management to ensure its services and associated IT soluti
 
 ESDC is using project management to coordinate large changes across the enterprise where investments are aligned strategically with the direction of the GC-wide enterprise architecture.
 
-Enterprise Architecture and peer reviews (e.g. Enterprise Architecture Review Boards) are done by specialists in their fields, that can provide advise on technology choices, data management, and cyber security investments decisions.
+Enterprise Architecture and peer reviews (e.g. Enterprise Architecture Review Boards) are done by specialists in their fields, that can provide advice on technology choices, data management, and cyber security investments decisions.
 
 ESDC enables and promotes innovation in order to keep up with the fast pace of technology changes.
 This is achieved by:
