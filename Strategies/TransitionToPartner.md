@@ -6,29 +6,29 @@ The primary strategic goal of this transformation is to enable more rapid delive
 
 This goal will be achieved through the establishment and execution of the following **7 key strategic initiatives**:
 
-- [1. Create an Enterprise Information Modeling](#1-Create-an-Enterprise-Information-Modeling)
-- [2. Move towards a Cloud Native organization](#2-Move-towards-a-cloud-native-organization)
-- [3. Invest in an Integration Layer (API-first approach)](#3-Invest-in-an-Integration-Layer-API-first-approach)
-- [4. Implement DevOps](#4-Implement-DevOps)
-- [5. Shift to Product Management](#5-Shift-to-Product-Management)
-- [6. Adopt a Bi-Modal Governance and Delivery](#6-Adopt-a-Bi-Modal-Governance-and-Delivery)
-- [7. Transition to Working in the Open by Default](#7-Transition-to-Working-in-the-Open-by-Default)
+1. [1. Create an Enterprise Information Modeling](#1-Create-an-Enterprise-Information-Modeling)
+2. [2. Move towards a Cloud Native organization](#2-Move-towards-a-Cloud-Native-organization)
+3. [3. Invest in an Integration Layer (API-first approach)](#3-Invest-in-an-Integration-Layer-API-first-approach)
+4. [4. Implement DevOps](#4-Implement-DevOps)
+5. [5. Shift to Agile Project Management](#5-Shift-to-Agile-Project-Management)
+6. [6. Adopt a Bi-Modal Governance and Delivery](#6-Adopt-a-Bi-Modal-Governance-and-Delivery)
+7. [7. Transition to Working in the Open by Default](#7-Transition-to-Working-in-the-Open-by-Default)
 
 ## 1. Create an Enterprise Information Modeling
 
 The creation of a stable, and highly re-usable set of Application Programming Interfaces (APIs) that expose relevant data and functionality is dependent upon the creation and continuous evolution of an Enterprise Information Model at ESDC.
-Such model will also enable ESDC to move towards a "tell us once" goal.
+Such model will also enable ESDC to move towards a ["tell us once"](https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html) goal.
 
 The Enterprise Information Model is *not* a database schema, a particular system's logical data model, or a client profile.
 It's a reference, with business terms, that development teams will use to quickly identify:
 
-- data entities being created and managed at ESDC
-- the inter-relationships between those entities
-- their source of truth (system of record, data owner(s), data stewards, and API endpoints)
+- Data entities being created and managed at ESDC
+- The inter-relationships between those entities
+- Their source of truth (system of record, data owner(s), data stewards, and API endpoints)
 
 Any privacy concerns will be treated separately, outside of the Enterprise Information Model.
 
-This aligns with key Government of Canada initiatives such as the Data Strategy, the Digital Exchange Platform, and the API Store.
+This aligns with key Government of Canada initiatives such as the Data Strategy, the [Digital Exchange Platform](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwjMo6T5gavjAhXkUN8KHchmBCkQFjAAegQIARAC&url=https%3A%2F%2Fciostrategycouncil.com%2Fwp-content%2Fuploads%2F2019%2F02%2FCanadas-Digital-Backbone-EN-Teresa.pdf&usg=AOvVaw0zdHuX2nso41PyGuBT-n6q), and the [API Store](https://api.canada.ca/en/homepage).
 
 The Enterprise Information Model is part of a broader undertaking by either IITB's Information Architecture directorate, or the SSPB's Chief Data Office (CDO).
 
@@ -82,7 +82,7 @@ This means build automation, test automation, continuous integration, release au
 
 &#042; Architecture compliance automation needs to be further evaluated.
 
-## 5. Shift to Product Management
+## 5. Shift to Agile Project Management
 
 IITB will adopt a product management mindset wherein each Solution is viewed as a product and managed throughout its entire lifespan.
 
@@ -90,18 +90,18 @@ Solutions will no longer be delivered as projects that culminate with a release,
 
 This requires introducing greater continuity between the initial release, growth, maturation, maintenance, and eventual retirement phases of a solution’s lifecycle.
 
-Shifting to Product Management will require the following:
+Shifting to Agile Project Management will require the following:
 
-1. **The use of dedicated product managers**.
+1. **The use of dedicated product managers**
    Responsible for orchestrating the various activities associated with ensuring that a product delivered meets users' needs.
    Product managers also evaluates trends and strategic direction to determine features to build.
-2. **A new financial model**.
-   Product Management requires stable and predictable funding, without foresight as to what features are to be implemented in the next year.
-3. **A dedicated team**.
-   Product Management requires dedicated teams that understands and knows the product so that it can continuously improve, manage technical debt, and add new features to the product.
-   Teams cannot be moved around and assigned to different projects as the winds of change occurs, they must remain attached to products.
-4. **Address technical debt as continuous improvement**
-   Dedicated teams will address technical debt not as change requests or small projects, but rather as continuous improvement measures built within the team itself in collaboration with the product owner and manager.
+2. **Agile financial model**
+   All projects must be built in an iterative fashion. Every product must be deliverable at the end of each quarter, where a functioning application that solves a business need is delivered, enabling attention to be focused as needed. 
+3. **A dedicated team**
+    One cross-functional team is assigned responsibility for the product from inception to the expiration of the business need for said product. 
+    Teams are created with all expertise required to deliver the product. This includes, though is not limited to, business expertise, security expertise, development expertise, operations expertise, and testing expertise.
+4. **There is no maintenance, only development**
+   There is no differentiation between maintenance and development. In both cases, resources are assigned to an application to increase business value and deliver on a business need. 
 
 ## 6. Adopt a Bi-Modal Governance and Delivery
 
