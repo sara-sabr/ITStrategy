@@ -26,7 +26,7 @@ about:
 about_link:
   en: about.html
   fr: apropos.html
-baseurl: ""
+baseurl: "/ITStrategy"
 url: "https://sara-sabr.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 author: SARA-SABR Team
 # twitter_username: 
