@@ -8,6 +8,14 @@
 title: IT Strategy - Stratégie TI
 description: >-
     Workspace to develop an IT Strategy - Espace de travail pour développer une stratégie TI
+baseurl: "/ITStrategy"
+url: "https://sara-sabr.github.io/"
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-slate
+
+# I18n
 index:
   en:
   fr: index.html
@@ -17,38 +25,3 @@ language:
 home:
   en: Home
   fr: Accueil
-home_link:
-  en:
-  fr: index
-about:
-  en: About
-  fr: À propos
-about_link:
-  en: about.html
-  fr: apropos.html
-baseurl: "/ITStrategy"
-url: "https://sara-sabr.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-author: SARA-SABR Team
-# twitter_username: 
-# github_username:  
-# google_analytics: 
-
-# Build settings
-markdown: kramdown
-theme: jekyll-theme-slate
-plugins:
-  - jekyll-feed
-
-# header_pages:
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
