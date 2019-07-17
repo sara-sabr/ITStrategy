@@ -18,11 +18,11 @@ The indicator will be measured by using [ESDC's Service Catalogue](https://www.c
 
 ## 2. **Rate of decrease in processing time of ESDC Services**
 
-The processing time of ESDC services that are provided to the public or to other departments will be an indication of improvement. The measurement will be the reduction in time, not the time itself, focusing on continuous improvement rather than a hard target.
+The processing time of ESDC services that are provided to the public, to other departments, or to other groups within ESDC, will be an indication of improvement. The measurement will be the reduction in time, not the time itself, focusing on continuous improvement rather than a hard target.
 
 The indicator will be measured by using [ESDC's Service Catalogue](https://www.canada.ca/en/employment-social-development/corporate/portfolio/service-canada/programs.html) and monitor their total processing time from beginning to end. This amount, over time, will be monitored to indicate reduction in processing time.
 
-`rate of service = (New Processing Time - Old Processing Time) / Old Processing Time`
+`rate of service improvement = (New Processing Time - Old Processing Time) / Old Processing Time`
 
 ## 3. **Reduction in toil of IITB and ESDC Services**
 
