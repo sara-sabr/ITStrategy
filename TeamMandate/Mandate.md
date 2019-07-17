@@ -8,13 +8,10 @@ The [Canadian Experience](../Strategies/HumanDevelopmentLifeCycle.md) is when Ca
 
 Be the catalysts of change within IITB to lay the path for the evolution of ESDC's digital services.
 
-This will be done through an open collaborative approach that will further ESDC's mandate in the digital era by aligning IITB with the Government of Canada's Digital Standards and Treasury Board's Policy on Service and Digital.
-
 ## Mandate (team's authority within IITB)
 
-- Define the vision of IT within ESDC
-- Briefing senior management on key organisational problems and recommended steps to address them
-- Present recommended course of action to any ESDC governance body
+- Diagnose key organisational problems
+- Identify recommended course of action to any ESDC governance body
 - Challenge current thinking and approaches
 
 ## Team's Guiding Principles
