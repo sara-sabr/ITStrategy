@@ -16,11 +16,6 @@ Be the catalysts of change within IITB to lay the path for the evolution of ESDC
 
 ## Team's Guiding Principles
 
-### Add Value
-
-All efforts must deliver measurable impacts.
-Implement strategies -- do not be a document factory
-
 ### Work collaboratively
 
 Collaborate with anyone and everyone who can _add value_.
@@ -34,13 +29,3 @@ Learning must be a core part of daily activities to ensure up to date, modern, a
 
 By using the approaches and technologies we champion, we will be able to better respond to, and anticipate, the challenges that will be faced.
 We will also be experimenting with modern ways of working in order to demonstrate their value and effectiveness.
-This includes, for example:
-
-- No PowerPoint decks.
-  The document is the presentation.
-- No document will be more than 5 pages.
-- Nothing will be printed -- everything electronic
-- No meetings longer than 1h & 30 minutes
-- Conduct (bi-)daily meetings
-- Conduct monthly retrospectives and planning meetings
-- Keep track of all costs of meetings
