@@ -30,13 +30,26 @@ Toil is the kind of work tied to running a production service that tends to be m
 
 The indicator will be measured two ways:
 
-1. For toil in IITB Services, using ??? and measure the ratio of X over Y.
+1\. Toil in IITB Services
 
-`ratio = X / Y`
+We can measure both the service and development sides:
 
-2. For toil in ESDC Services, using the [ESDC's Service Catalogue](https://www.canada.ca/en/employment-social-development/corporate/portfolio/service-canada/programs.html) and measure the ratio of service requests to amount of personnel.
+For service requests (e.g. Helpdesk):
 
-`ratio = service requests / service personnel`
+`service ratio = service requests / service personnel`
+
+For the development side, there would be multiple metrics, some of them being influences by the evolution toward DevOps, e.g.:
+
+- `report ratio = reports generated / development personnel`
+- `release ratio = versions deployed / development personnel`
+- `test ratio = tests done / development personnel`
+- `*Other?*`
+
+2\. Toil in ESDC Services
+
+We can use [ESDC's Service Catalogue](https://www.canada.ca/en/employment-social-development/corporate/portfolio/service-canada/programs.html) and measure the ratio of service requests to amount of personnel.
+
+`service ratio = service requests / service personnel`
 
 ## 4. **Availability uptime of ESDC core systems**
 
@@ -52,11 +65,13 @@ Rate of delivery is the measurement of IITB's ability to deliver projects and so
 
 IITB's rate of delivery will be measured by how much it improves, fostering a continuous improvement measurement over a hard target. The measurement will be two folds:
 
-1. the rate at which intake capacity increases. The PMO's [Active Project List](http://dialogue/grp/ippst/Approved%20Projects%20Lists%20%28APL%29/Forms/AllItems.aspx?RootFolder=%2Fgrp%2Fippst%2FApproved%20Projects%20Lists%20%28APL%29%2FFY%202019%2D2020&FolderCTID=0x012000D8E2E348AB0A034886495AE4BED12E07&View=%7b2C779E42-EB28-444B-AACD-39CC61DDBCE2%7d), for Major/Minor/Small ESDC projects, as well as the PMO's [IITB Lite projects](http://dialogue/grp/ITPM-GPTI/Lists/IITBPMP%20Small%20Projects/AllItems.aspx) will be used as reference points to monitor intake increase. the project's complexity will be considered in the measurement.
+1\. the rate at which intake capacity increases. The PMO's [Active Project List](http://dialogue/grp/ippst/Approved%20Projects%20Lists%20%28APL%29/Forms/AllItems.aspx?RootFolder=%2Fgrp%2Fippst%2FApproved%20Projects%20Lists%20%28APL%29%2FFY%202019%2D2020&FolderCTID=0x012000D8E2E348AB0A034886495AE4BED12E07&View=%7b2C779E42-EB28-444B-AACD-39CC61DDBCE2%7d), for Major/Minor/Small ESDC projects, as well as the PMO's [IITB Lite projects](http://dialogue/grp/ITPM-GPTI/Lists/IITBPMP%20Small%20Projects/AllItems.aspx) will be used as reference points to monitor intake increase. The project's complexity will be considered in the measurement.
+
+For each 4 complexity and risk levels ([PCRA](https://www.canada.ca/en/treasury-board-secretariat/services/information-technology-project-management/project-management/project-complexity-risk-assessment-tool.html)):
 
 `rate of project delivery = (Projects Year_n - Projects Year_n-1) / Projects Year_n-1`
 
-2. the rate at which product releases increases. The list of products and their release schedule is found **&lt;insert location here&gt;**
+2\. the rate at which product releases increases. The list of products and their release schedule is found **&lt;insert location here&gt;**
 
 `rate of product delivery = (Product releases Year_n - Product releases Year_n-1) / Product releases Year_n-1`
 
