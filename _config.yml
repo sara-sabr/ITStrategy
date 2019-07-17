@@ -17,8 +17,8 @@ theme: jekyll-theme-slate
 
 # I18n
 index:
-  en:
-  fr: index.html
+  en: index.html
+  fr: accueil.html
 language:
   en: English
   fr: Français
