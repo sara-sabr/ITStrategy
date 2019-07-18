@@ -19,7 +19,7 @@ home:
   en: Home
   fr: Accueil
 index:
-  en: index.html
+  en: home.html
   fr: accueil.html
 language:
   en: English

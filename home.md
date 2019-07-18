@@ -2,7 +2,7 @@
 layout: default
 ref: home
 lang: en
-permalink: /index.html
+permalink: /home.html
 ---
 
 ## Content
