@@ -38,7 +38,7 @@ For service requests (e.g. Helpdesk):
 
 `service ratio = service requests / service personnel`
 
-For the development side, there would be multiple metrics, some of them being influences by the evolution toward DevOps, e.g.:
+For the development side, there would be multiple metrics, some of them being influenced by the evolution toward DevOps, e.g.:
 
 - `report ratio = reports generated / development personnel`
 - `release ratio = versions deployed / development personnel`
