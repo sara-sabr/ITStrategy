@@ -59,7 +59,7 @@ Exceptions for privacy, confidentiality, and security.
 
 **All source code must be released under an appropriate open source software license.**
 
-** Share code publicly when appropriate, and when not, share within the GC.**
+**Share code publicly when appropriate, and when not, share within the GC.**
 
 ---
 
