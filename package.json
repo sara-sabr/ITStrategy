@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "link-check": "node link-check.js",
-    "lint": "markdownlint -i node_modules \"**/*.md\"",
-    "spellcheck": "cspell \"**/*.md\"",
+    "lint": "markdownlint -i node_modules -i _site \"**/*.md\"",
+    "spellcheck": "cspell \"_pages/en/*.md\" \"Ideation/*.md\" \"ReferenceMaterials/*.md\" \"Roadmaps/*.md\" \"Strategies/*.md\" \"TeamMandate/*.md\"",
     "test": "npm run lint && npm run spellcheck && npm run link-check"
   },
   "repository": {
