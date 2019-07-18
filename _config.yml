@@ -5,50 +5,33 @@
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: IT Strategy - Stratégie TI
-description: >-
-    Workspace to develop an IT Strategy - Espace de travail pour développer une stratégie TI
-index:
-  en:
-  fr: index.html
-language:
-  en: English
-  fr: Français
-home:
-  en: Home
-  fr: Accueil
-home_link:
-  en:
-  fr: index
-about:
-  en: About
-  fr: À propos
-about_link:
-  en: about.html
-  fr: apropos.html
-baseurl: ""
-url: "https://sara-sabr.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-author: SARA-SABR Team
-# twitter_username: 
-# github_username:  
-# google_analytics: 
+baseurl: "/ITStrategy"
+url: "https://sara-sabr.github.io/"
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-slate
-plugins:
-  - jekyll-feed
+include: ["_pages"]
+exclude: ["Ideation", "ReferenceMaterials", "Roadmaps", "Strategies", "TeamMandate", "CONTRIBUTING.MD", "cspell.json", "LICENSE", "link-check.js", "package.json", "package-lock.json", "README.md"]
 
-# header_pages:
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+# I18n
+description:
+  en: Working in the open! Our work in progress, list of reference material and presentations.
+  fr: Travailler ouvertement! Nos travaux en cours, liste de documents de références et présentations.
+home:
+  en: Home
+  fr: Accueil
+index:
+  en: home.html
+  fr: accueil.html
+language:
+  en: English
+  fr: Français
+subtitle:
+  en: Be the catalysts of change within IITB to lay the path for the evolution of ESDC's digital services.
+  fr: Être les catalyseurs du changement au sein de la DGIIT pour préparer la voie à l'évolution des services numériques de EDSC.
+title:
+  en: IT Strategy
+  fr: Stratégie TI
+viewOnGithub:
+  en: View on GitHub
+  fr: Voir sur GitHub

@@ -1,0 +1,16 @@
+<head>
+  {%- if page.lang -%}
+  <title>{{ site.title[page.lang] }}</title>
+  {%- endif -%}
+  {%- if page.ref == "splash" -%}
+  <title>{{ site.title.en }} - {{ site.title.fr }}</title>
+  {%- endif -%}
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description[page.lang] }}{% endif %}">
+
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <link rel="stylesheet" href="/ITStrategy/assets/js/sticky-footer-navbar.css">
+  <link rel="icon" type="image/ico" href="/ITStrategy/assets/images/favicon.ico">
+</head>
