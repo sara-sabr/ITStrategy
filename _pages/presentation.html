@@ -26,6 +26,6 @@ function getUrlParam(parameter, defaultvalue){
   return urlparameter;
 }
 
-var markdown = getUrlParam('markdown','.md');
+var markdown = getUrlParam('markdown','.md').replace(/\.\./g, "0");;
 document.getElementById("markdown-slides").setAttribute("data-markdown", "./presentations/" + markdown); 
 </script>
