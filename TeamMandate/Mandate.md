@@ -10,8 +10,9 @@ Be the catalysts of change within IITB to lay the path for the evolution of ESDC
 
 ## Mandate (team's authority within IITB)
 
-- Diagnose key organisational problems
+- Diagnose key ESDC organisational problems
 - Identify recommended course of action to any ESDC governance body
+- Measure progress of strategies implementation against approved key performance
 - Challenge current thinking and approaches
 
 ## Team's Guiding Principles
