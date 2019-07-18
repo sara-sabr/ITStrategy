@@ -13,6 +13,7 @@ Be the catalysts of change within IITB to lay the path for the evolution of ESDC
 - Diagnose key ESDC organisational problems
 - Identify recommended course of action to any ESDC governance body
 - Measure progress of strategies implementation against approved key performance
+- Access and review any ESDC information and documentation as they pertain to process efficiency
 - Challenge current thinking and approaches
 
 ## Team's Guiding Principles
