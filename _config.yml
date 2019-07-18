@@ -10,6 +10,7 @@ url: "https://sara-sabr.github.io/"
 
 # Build settings
 markdown: kramdown
+include: ["_pages"]
 
 # I18n
 description:
