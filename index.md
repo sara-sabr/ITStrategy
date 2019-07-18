@@ -5,8 +5,6 @@ lang: en
 permalink: /index.html
 ---
 
-[{{ site.language.fr }}]({{ site.index.fr }})
-
 ## Content
 
 In this repository, you will find our work in progress, list of reference material and our presentations.

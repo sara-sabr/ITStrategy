@@ -5,8 +5,6 @@ lang: fr
 permalink: /accueil.html
 ---
 
-[{{ site.language.en }}]({{ site.index.en }})
-
 ## Contenu
 
 Dans ce dépôt, vous trouverez nos travaux en cours, la liste des documents de référence et nos présentations.
