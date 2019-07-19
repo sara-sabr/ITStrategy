@@ -7,4 +7,6 @@ status: posted
 permalink: /strategy-summary.html
 ---
 
+## {{ page.title }}
+
 {% include strategy-summary-drawio.html %}
