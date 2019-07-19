@@ -1,4 +1,4 @@
-{%- assign aPage = site.pages | where:"status","posted" -%}
+{%- assign aPage = site.pages | where:"status","posted" | where:"lang", page.lang -%}
 {%- if aPage.size > 0 -%}
 ### Pages
 
