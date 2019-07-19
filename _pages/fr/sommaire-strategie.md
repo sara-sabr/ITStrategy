@@ -13,4 +13,6 @@ Voici notre ébauche de carte de stratégies construite à l'aide de draw.io, un
 
 Les liens dans le dessin ci-dessous mènent à nos documents sur GitHub mais mèneront bientôt directement aux pages web, facilement consommables sur n'importe quel appareil y compris mobile.
 
+Note: une version française sera disponible sous peu.
+
 {% include strategy-summary-drawio.html %}
