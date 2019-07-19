@@ -11,7 +11,7 @@ permalink: /mandate.html
 
 ## Vision (image of the future)
 
-The [Canadian Experience](../Strategies/HumanDevelopmentLifeCycle.md) is when Canadians are benefiting seamlessly of the federal government services through modern technologies.
+The [Canadian Experience]([../Strategies/HumanDevelopmentLifeCycle.md](https://github.com/sara-sabr/ITStrategy/blob/master/Strategies/HumanDevelopmentLifeCycle.md)) is when Canadians are benefiting seamlessly of the federal government services through modern technologies.
 
 ## Mission (team's reason for existence)
 
