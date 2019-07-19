@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mandate (Draft)
+title: Mandat (Ébauche)
 ref: mandate
 lang: fr
 status: posted
@@ -11,32 +11,32 @@ permalink: /mandat.html
 
 ## Vision (image du futur)
 
-The [Canadian Experience](../Strategies/HumanDevelopmentLifeCycle.md) is when Canadians are benefiting seamlessly of the federal government services through modern technologies.
+L'[Expérience Canadienne]([../Strategies/HumanDevelopmentLifeCycle.md](https://github.com/sara-sabr/ITStrategy/blob/master/Strategies/HumanDevelopmentLifeCycle.md)), c'est lorsque les Canadiens profitent de façon transparente des services du gouvernement fédéral grâce aux technologies modernes.
 
 ## Mission (raison d'être de l'équipe)
 
-Be the catalysts of change within IITB to lay the path for the evolution of ESDC's digital services.
+Être les catalyseurs du changement au sein de la DGIIT pour ouvrir la voie à l'évolution des services numériques de EDSC.
 
 ## Mandat (l'autorité de l'équipe au sein de la DGTII)
 
-- Diagnose key ESDC organisational problems
-- Identify recommended course of action to any ESDC governance body
-- Measure progress of strategies implementation against approved key performance
-- Access and review any ESDC information and documentation as they pertain to process efficiency
-- Challenge current thinking and approaches
+- Diagnostiquer les principaux problèmes organisationnels du CESD
+- Déterminer le plan d'action recommandé à tout organisme de gouvernance du EDSC.
+- Mesurer les progrès de la mise en œuvre des stratégies par rapport au rendement clé approuvé
+- Accéder à toute l'information et à toute la documentation de EDSC sur l'efficacité des processus et les examiner
+- Remettre en question la pensée et les approches actuelles
 
-## Team's Guiding Principles
+## Principes directeurs de l'équipe
 
-### Work collaboratively
+### Travailler en collaboration
 
-Collaborate with anyone and everyone who can _add value_.
-This includes, but is not limited to, all Canadians, all levels of government, all departments, all private sector organizations, and all governments.
+Collaborez avec tous ceux qui peuvent _ajouter de la valeur_.
+Cela comprend, sans toutefois s'y limiter, tous les Canadiens, tous les paliers de gouvernement, tous les ministères, toutes les organisations du secteur privé et tous les gouvernements.
 
-### Continuous learning
+### L'apprentissage continu
 
-Learning must be a core part of daily activities to ensure up to date, modern, and well researched direction and strategy is provided to guide our actions.
+L'apprentissage doit être au cœur de nos activités quotidiennes afin de nous assurer que nous disposons d'une orientation et d'une stratégie à jour, moderne et bien documentée pour guider nos actions.
 
-### Lead by Example
+### Montrer l'exemple
 
-By using the approaches and technologies we champion, we will be able to better respond to, and anticipate, the challenges that will be faced.
-We will also be experimenting with modern ways of working in order to demonstrate their value and effectiveness.
+En utilisant les approches et les technologies que nous défendons, nous serons en mesure de mieux répondre aux défis auxquels nous serons confrontés et de mieux les anticiper.
+Nous expérimenterons également des méthodes de travail modernes afin de démontrer leur valeur et leur efficacité.
