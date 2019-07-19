@@ -1,0 +1,31 @@
+---
+layout: revealjs
+permalink: /presentation.html
+---
+
+<section id="markdown-slides" data-markdown="" 
+		 data-separator="^\n---\n$" 
+		 data-separator-vertical="^\n--\n$"
+		 data-separator-notes="^Note:">
+</section>
+
+<script>
+function getUrlVars() {
+    var vars = {};
+    var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m,key,value) {
+        vars[key] = value;
+    });
+    return vars;
+}
+
+function getUrlParam(parameter, defaultvalue){
+  var urlparameter = defaultvalue;
+  if(window.location.href.indexOf(parameter) > -1){
+    urlparameter = getUrlVars()[parameter];
+    }
+  return urlparameter;
+}
+
+var markdown = getUrlParam('markdown','.md').replace(/\.\./g, "0");;
+document.getElementById("markdown-slides").setAttribute("data-markdown", "./presentations/" + markdown); 
+</script>
