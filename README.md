@@ -41,7 +41,7 @@ To test your changes locally, use `jekyll serve`. For example using Docker:
 
 > docker run -p 4000:4000 -v $(pwd):/srv/jekyll -it --rm jekyll/jekyll jekyll serve
 
-Site will be available at: http://localhost:4000/ore-ero/
+Site will be available at: http://localhost:4000/ITStrategy/
 
 #### Presentations
 
