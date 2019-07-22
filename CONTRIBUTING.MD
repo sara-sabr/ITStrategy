@@ -13,6 +13,7 @@ And if you find you can contribute by providing new ideas or known solutions, pl
 4. [Jekyll Pages](#jekyll-pages)
 5. [Permalink](#permalink)
 6. [Jekyll Blog Posts](#jekyll-blog-posts)
+7. [Reveal.js Presentations](#revealjs-presentations)
 
 ## Cloning the project locally
 
@@ -215,5 +216,9 @@ The front matter tag `permalink` is used to specify what should be the URL gener
 For example, if the permalink is `/example.html`, the associated URL would be `https://sara-sabr.github.io/ITStrategy/example.html`
 
 ## Jekyll Blog Posts
+
+To be continued.
+
+## Reveal.js Presentations
 
 To be continued.
