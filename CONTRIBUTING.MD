@@ -11,7 +11,8 @@ And if you find you can contribute by providing new ideas or known solutions, pl
 2. [Continuous Integration Testing](#continuous-integration-testing)
 3. [Local Website](#local-website)
 4. [Jekyll Pages](#jekyll-pages)
-5. [Jekyll Blog Posts](#jekyll-blog-posts)
+5. [Permalink](#permalink)
+6. [Jekyll Blog Posts](#jekyll-blog-posts)
 
 ## Cloning the project locally
 
@@ -138,9 +139,9 @@ You can save your bilingual documents in their respective sub-folders in the `_p
 
 ![Folders structure](assets/images/folders-fichiers.png)
 
-Once your content is ready, you will need to add `Front Matter`, special tags at the top of the document so that Jekyll knows it has to generate a web page with it.
+Once your content is ready, you will need to add `Front Matter`, special tags, at the top of the document so that Jekyll knows it has to generate a web page with it.
 
-```Markdown
+```yaml
 ---
 layout: default
 title: Mandat (Ébauche)
@@ -156,7 +157,7 @@ permalink: "/mandat.html"
 The front matter tag `layout` is used to define how the page will render.
 Or if you will, what kind of page this Markdown file should be rendered as.
 
-The current layouts available are as such:
+The current layouts available are the following ones:
 
 * `default`: a default layout for pages that uses Bootstrap 4 default theme.
 This will render a page with a default header, head, body and footer.
@@ -171,8 +172,44 @@ Additional layouts may be built later on as we enhance the look and feel of the 
 
 The front matter tag `title` is used to define the page's title.
 
-The title of the page will be displayed at the top of the generated webpage so you don't have to add a first level header (it will )
+The title of the page will be displayed at the top of the generated web page so instead of adding a first level header, you can use the following [Liquid tag](https://help.shopify.com/en/themes/liquid/tags) instead:
 
-Linking bilingual pages together
+```markdown
+## {{ page.title }}
+```
+
+>Note: Liquid tags are a programming logic developed by Shopify that tells templates what to do.
+It allows us to easily reuse content across a website and can be used in layouts, includes, etc.
+
+### Ref
+
+The front matter tag `ref` is used to link bilingual pages together.
+When you create a new page in French and in English, assign it a unique `ref` value.
+
+For example, the `mandate.md` and `mandat.md` both share the `ref` tag:
+
+```yaml
+ref: mandate
+```
+
+When generating the website, this will link both pages together so that a user clicking on the `Français` or `English` button will display the related page.
+
+### Lang
+
+The front matter tag `lang` is used to identify the language of the page.
+This tag is very important as it is leveraged throughout the templates to automatically generate related content.
+
+### Status
+
+The front matter tag `status` is a custom tag that we introduced for confirming that pages should be considered "published".
+It doesn't mean its content is perfect, approved or implemented, it simply means that it is rendered as a web page on the website.
+
+>Note: Jekyll by default considers blog posts in the `_posts` folder as being published and ignores the posts in the `_drafts` folder.
+But since this is about web pages, not blog posts, we used this variant tag to list only pages we wanted to render on the website.
+For blog posts, see the next section on [Jekyll Blog Posts](#jekyll-blog-posts).
+
+## Permalink
+
+The front matter tag `permalink` is used to specify what should be the URL generated for the web page associated to this Markdown document.
 
 ## Jekyll Blog Posts
