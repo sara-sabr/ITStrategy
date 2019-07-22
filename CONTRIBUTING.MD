@@ -7,6 +7,8 @@ The core content of the repository is text and as such will most likely pertain 
 However, if strategies developed here suit your needs, you are welcome to reuse them.
 And if you find you can contribute by providing new ideas or known solutions, please feel free to help us provide better services to Canadians!
 
+In this document you will find the following sections:
+
 1. [Cloning the project locally](#cloning-the-project-locally)
 2. [Continuous Integration Testing](#continuous-integration-testing)
 3. [Local Website](#local-website)
