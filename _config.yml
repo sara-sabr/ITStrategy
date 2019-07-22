@@ -11,7 +11,7 @@ url: "https://sara-sabr.github.io/"
 # Build settings
 markdown: kramdown
 include: ["_pages"]
-exclude: ["Ideation", "ReferenceMaterials", "Roadmaps", "Strategies", "TeamMandate", "CONTRIBUTING.MD", "cspell.json", "LICENSE", "link-check.js", "package.json", "package-lock.json", "README.md"]
+exclude: ["wip-tec", "CONTRIBUTING.MD", "cspell.json", "LICENSE", "link-check.js", "package.json", "package-lock.json", "README.md"]
 
 # I18n
 description:
