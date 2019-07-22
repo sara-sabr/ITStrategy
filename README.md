@@ -28,20 +28,7 @@ For more information, see [Federal identity requirements](https://www.canada.ca/
 
 ### Development
 
-#### Continious Integration Testing
-
-Automated tests will be run for all pull requests.
-To run the tests locally, use `npm install` and `npm test`. For example using Docker:
-
-> docker run -v $(pwd):/usr/node/app -w /usr/node/app -it --rm node npm test
-
-#### Website (Github Pages)
-
-To test your changes locally, use `jekyll serve`. For example using Docker:
-
-> docker run -p 4000:4000 -v $(pwd):/srv/jekyll -it --rm jekyll/jekyll jekyll serve
-
-Site will be available at: http://localhost:4000/ITStrategy/
+See [Contributing](./CONTRIBUTING.MD) for all the instructions required to 
 
 #### Presentations
 
