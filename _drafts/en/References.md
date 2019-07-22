@@ -21,9 +21,28 @@ Some of that content may only be available on GC/ESDC network
 
 ## Artificial Intelligence
 - [AI Adoption Strategies](AIAdoptionStrategies.md) 
-- [An overview of National AI Strategies](https://medium.com/politics-ai/an-overview-of-national-ai-strategies-2a70ec6edfd): summary of 26 countries' AI strategies. Canada amongst that list
+- [Medium Article - An overview of National AI Strategies](https://medium.com/politics-ai/an-overview-of-national-ai-strategies-2a70ec6edfd): summary of 26 countries' AI strategies. Canada amongst that list
+- [Medium Article - Open sourcing policy models - Australian data sharing agreement with LinkedIn](https://medium.com/fwd50/open-sourcing-policy-models-our-conversation-with-dr-audrey-lobo-pulo-e56afcdc59e9)
 - [Finland AI Strategy](http://dialogue/grp/BU6810070/Shared%20Documents/Reference%20Materials/Finland%20AI%20Strategy.pdf)
 
 ## FWD50
 - [2018 list of presentations](https://2018.fwd50.com/) 
 - [2018 Digital Social Innovation presentation from Digital Minister of Taiwan](https://www.slideshare.net/FWD50/fwd50-2018-digital-social-innovation)
+
+## Books
+
+|Title|Author|Publishing Year|Publisher|Description|
+|:-------|:-------|:------:|:-----|:------|
+|[Crossing the Chasm](https://en.wikipedia.org/wiki/Crossing_the_Chasm)|Geoffrey A. Moore|2014|HarperCollins Canada|Scaling up and technology adoption for startups| 
+|[Good Strategy Bad Strategy](http://goodbadstrategy.com/)|Richard Rumelt|2011||[Available in free audio book format](https://www.wiaudiobooks.com/product/good-strategy-bad-strategy-audiobook/) Clarifies the muddled thinking underlying too many strategies and provides a clear way to create and implement a powerful action-oriented strategy. A good summary of the book can be [found here](https://jlzych.com/2018/06/27/notes-from-good-strategy-bad-strategy/)|
+|[Accelerate](https://itrevolution.com/book/accelerate/)|Nicole Forsgren, Jez Humble, Gene Kim|2018||The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations|
+|[Project Retrospectives](https://www.goodreads.com/en/book/show/1523368.Project_Retrospectives)|Norm Kerth|2001|||
+|[An empirical analysis of the levers of control framework](https://econpapers.repec.org/article/eeeaosoci/v_3a32_3ay_3a2007_3ai_3a7-8_3ap_3a757-788.htm)|Sally K. Widener|2007|||
+|[Implementing performance measurement innovations: evidence from government](https://econpapers.repec.org/article/eeeaosoci/v_3a29_3ay_3a2004_3ai_3a3-4_3ap_3a243-267.htm)|Ken S. Cavalluzzo and  Christopher D. Ittner|2004|||
+|[Quality Software Management: Systems Thinking](https://www.goodreads.com/en/book/show/714348.Quality_Software_Management)|Gerald M. Weinberg|1992|Dorset House|Tackles the first requirement for developing quality software: learning to think correctly -- about problems, solutions, and quality itself.|
+|[The Phoenix Project](https://itrevolution.com/book/the-phoenix-project/)|Kevin Behr, George Spafford, Gene Kim|2103||A Novel about IT, DevOps, and Helping Your Business Win |
+|[The DevOps Handbook](https://itrevolution.com/book/the-devops-handbook/)|Gene Kim, Jez Humble, John Willis, Patrick Debois|2016||How to Create World-Class Agility, Reliability, and Security in Technology Organizations |
+|[The Unicorn Project](https://itrevolution.com/book/the-unicorn-project/)|Gene Kim|2016||This is a story about rebel developers and business leaders working together and racing against time to innovate, survive, and thrive in a time of unprecedented uncertainty...and opportunity.|
+|[War and Peace and IT](https://itrevolution.com/book/war-and-peace-and-it/)|Mark Schwartz|2019||It is time to change not only the enterprise’s relationship with technology, but its relationship with technologists. To accelerate, enterprises must bring technology to the heart of their work, for just as technology is causing this disruption, it is technology that provides the solution.|
+|[The Open Organization](https://www.redhat.com/en/explore/the-open-organization-book)|Jim Whitehurst, CEO RedHat|2015||Successful organizations need open leadership. The world has changed. Companies that want to grow (and succeed) can't operate in the past. The Open Organization is for leaders who want to create business environments that can respond quickly in today's fast-paced world. It's for those who want to encourage the best ideas, hear honest advice, and attract (and retain) the brightest talent.|
+|[Chess and the art of enterprise architecture](https://ea.rna.nl/the-book/)|Gerben Wierda|2015|R&A|Enterprise Architecture is the discipline of managing the complexities of the Business-IT landscape. It has been around since the 1980's, when for the first time computers were connected in networks, and the already serious (and unsolved) problem of the complexity of computer programs for relatively simple business needs turned into the huge problem of large networks of them in complex business landscapes. In spite of many 'best practices' and 'frameworks' that have been introduced, Enterprise Architecture is not a great success. After thirty years, we still have the same problems. Chaos is still everywhere. Projects still fail far too often. In this book, (hidden) assumptions behind the existing approaches to enterprise architecture are challenged, and a more realistic perspective that helps us battle the complexities and unpredictabilities of today's Business-IT landscapes is described.|
