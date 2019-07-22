@@ -212,4 +212,8 @@ For blog posts, see the next section on [Jekyll Blog Posts](#jekyll-blog-posts).
 
 The front matter tag `permalink` is used to specify what should be the URL generated for the web page associated to this Markdown document.
 
+For example, if the permalink is `/example.html`, the associated URL would be `https://sara-sabr.github.io/ITStrategy/example.html`
+
 ## Jekyll Blog Posts
+
+To be continued.
