@@ -14,6 +14,7 @@ And if you find you can contribute by providing new ideas or known solutions, pl
 5. [Permalink](#permalink)
 6. [Jekyll Blog Posts](#jekyll-blog-posts)
 7. [Reveal.js Presentations](#revealjs-presentations)
+8. [Hacker Slides](#hacker-slides)
 
 ## Cloning the project locally
 
@@ -221,4 +222,18 @@ To be continued - Not yet implemented.
 
 ## Reveal.js Presentations
 
-To be continued.
+As part of our desire to work in the open, we are leveraging [Reveal.js](https://revealjs.com/#/), an open source framework project to generate web based presentations.
+
+To take a markdown file and generate a presentation on the website, you can use the following structure
+
+## Hacker Slides
+
+TODO - A local web editor for Reveal.js presentations
+
+Some presentations are available from the Website using Reveal.js.
+The presentations are stored in the [presentations](presentations) folder in markdown format.
+The markdown can be edited directly or using HackerSlides. For example using Docker (current directory must be where markdown files are located):
+
+> docker run -p 8080:8080 -v $(pwd):/app/slides -it --rm msoedov/hacker-slides
+
+You can pick a presentation to edit at: [http://localhost:8080/stash](http://localhost:8080/stash)

@@ -30,16 +30,6 @@ For more information, see [Federal identity requirements](https://www.canada.ca/
 
 See [Contributing](./CONTRIBUTING.MD) for all the instructions required to 
 
-#### Presentations
-
-Some presentations are available from the Website using Reveal.js.
-The presentations are stored in the [presentations](presentations) folder in markdown format.
-The markdown can be edited directly or using HackerSlides. For example using Docker (current directory must be where markdown files are located):
-
-> docker run -p 8080:8080 -v $(pwd):/app/slides -it --rm msoedov/hacker-slides
-
-You can pick a presentation to edit at: http://localhost:8080/stash
-
 ______________________
 
 ## Stratégie TI
