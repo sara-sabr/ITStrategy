@@ -6,13 +6,13 @@ The primary strategic goal of this transformation is to enable more rapid delive
 
 This goal will be achieved through the establishment and execution of the following **7 key strategic initiatives**:
 
-1. [1. Create an Enterprise Information Modeling](#1-Create-an-Enterprise-Information-Modeling)
-2. [2. Move towards a Cloud Native organization](#2-Move-towards-a-Cloud-Native-organization)
-3. [3. Invest in an Integration Layer (API-first approach)](#3-Invest-in-an-Integration-Layer-API-first-approach)
-4. [4. Implement DevOps](#4-Implement-DevOps)
-5. [5. Shift to Agile Project Management](#5-Shift-to-Agile-Project-Management)
-6. [6. Adopt a Bi-Modal Governance and Delivery](#6-Adopt-a-Bi-Modal-Governance-and-Delivery)
-7. [7. Transition to Working in the Open by Default](#7-Transition-to-Working-in-the-Open-by-Default)
+1. [1. Create an Enterprise Information Modeling](#1-create-an-enterprise-information-modeling)
+2. [2. Move towards a Cloud Native organization](#2-move-towards-a-cloud-native-organization)
+3. [3. Invest in an Integration Layer (API-first approach)](#3-invest-in-an-integration-layer-api-first-approach)
+4. [4. Implement DevOps](#4-implement-devops)
+5. [5. Shift to Agile Project Management](#5-shift-to-agile-project-management)
+6. [6. Adopt a Bi-Modal Governance and Delivery](#6-adopt-a-bi-modal-governance-and-delivery)
+7. [7. Transition to Working in the Open by Default](#7-transition-to-working-in-the-open-by-default)
 
 ## 1. Create an Enterprise Information Modeling
 
@@ -121,7 +121,7 @@ Whereas Innovation and Experimental work benefit from Mode 2 governance where th
 In general, if the change sought is close to the core of an organization where its impact can ripple across the organization, Mode 1 is used.
 Whereas if a change sought is on the external boundary of an organization with little impact to the rest of the organization, Mode 2 is used.
 
-![bi-modal governance and pace layering model](../ReferenceMaterials/img/priorities_bimodal.png)
+![bi-modal governance and pace layering model](../../assets/images/priorities_bimodal.png)
 
 To implement bimodal-aware governance, IITB will take these three steps:
 

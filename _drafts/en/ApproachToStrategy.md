@@ -2,13 +2,13 @@
 
 The following is a proposed approach on producing the IT Strategy. It takes as premise that strategy making is exploratory in nature at first, but can be made using a structured method to get clarity in the end.
 
-![Strategy for a strategy](img/StrategyForStrategy.png)
+![Strategy for a strategy](../../assets/images/StrategyForStrategy.png)
 
 ## The approach
 
 The approach here in is based on the book [Good Strategy, Bad Strategy](http://goodbadstrategy.com/about-the-book/). In the book, a good strategy has a basic underlying logic: coherent action backed up by an argument, an effective mixture of thought and action.
 
-![Approach to Strategy making](img/StrategyMakingApproach.png)
+![Approach to Strategy making](../../assets/images/StrategyMakingApproach.png)
 
 ### 1. Establish the Vision
 
