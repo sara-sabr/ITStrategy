@@ -217,7 +217,7 @@ For example, if the permalink is `/example.html`, the associated URL would be `h
 
 ## Jekyll Blog Posts
 
-To be continued.
+To be continued - Not yet implemented.
 
 ## Reveal.js Presentations
 
