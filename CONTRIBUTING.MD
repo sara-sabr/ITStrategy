@@ -9,14 +9,22 @@ And if you find you can contribute by providing new ideas or known solutions, pl
 
 In this document you will find the following sections:
 
-1. [Cloning the project locally](#cloning-the-project-locally)
-2. [Continuous Integration Testing](#continuous-integration-testing)
-3. [Local Website](#local-website)
-4. [Jekyll Pages](#jekyll-pages)
-5. [Permalink](#permalink)
-6. [Jekyll Blog Posts](#jekyll-blog-posts)
-7. [Reveal.js Presentations](#revealjs-presentations)
-8. [Hacker Slides](#hacker-slides)
+1. [Cloning the project locally](#Cloning-the-project-locally)
+2. [Continuous Integration Testing](#Continuous-Integration-Testing)
+   1. [CI Tests Using Docker](#CI-Tests-Using-Docker)
+   2. [CI Tests Using NPM](#CI-Tests-Using-NPM)
+   3. [Types Of Tests](#Types-Of-Tests)
+3. [Local Website](#Local-Website)
+4. [Jekyll Pages](#Jekyll-Pages)
+   1. [Layout](#Layout)
+   2. [Title](#Title)
+   3. [Ref](#Ref)
+   4. [Lang](#Lang)
+   5. [Status](#Status)
+   6. [Permalink](#Permalink)
+5. [Jekyll Blog Posts](#Jekyll-Blog-Posts)
+6. [Reveal.js Presentations](#Revealjs-Presentations)
+7. [Hacker Slides](#Hacker-Slides)
 
 ## Cloning the project locally
 
@@ -212,7 +220,7 @@ It doesn't mean its content is perfect, approved or implemented, it simply means
 But since this is about web pages, not blog posts, we used this variant tag to list only pages we wanted to render on the website.
 For blog posts, see the next section on [Jekyll Blog Posts](#jekyll-blog-posts).
 
-## Permalink
+### Permalink
 
 The front matter tag `permalink` is used to specify what should be the URL generated for the web page associated to this Markdown document.
 
