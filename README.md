@@ -28,7 +28,7 @@ For more information, see [Federal identity requirements](https://www.canada.ca/
 
 ### Development
 
-See [Contributing](./CONTRIBUTING.MD) for all the instructions required to 
+See [Contributing](./CONTRIBUTING.MD) for all the instructions required to on using the project.
 
 ______________________
 
@@ -38,11 +38,15 @@ Espace de travail pour développer une stratégie TI
 
 ### Contenu
 
-besoin de traduction..
+Dans ce répertoire, vous trouverez nos travaux en cours, la liste des documents de référence et nos présentations.
+
+Si vous voulez avoir une interface plus conviviale, vous pouvez naviguer vers le lien en haut pour voir le "contenu publié", matériel qui est encore à l'état d'ébauche mais sur lequel nous avons passé un peu plus de temps à affiner.
+
+Nous avons également mis en place quelques tests CI sur le projet afin de garder notre contenu propre, mais aussi de démontrer la puissance de ces outils de collaboration ouverte pour maintenir un projet, qu'il s'agisse de simples fichiers texte ou de code source.
 
 ### Comment contribuer
 
-Voir [CONTRIBUTING.md](CONTRIBUTING.md)
+Voir [CONTRIBUTING.md](CONTRIBUTING.MD)
 
 ### Licence
 
@@ -54,4 +58,4 @@ Pour obtenir davantage de renseignements à ce sujet, veuillez consulter les [Ex
 
 ### Développement
 
-besoin de traduction..
+Pour toutes les instructions reliées à l'utilisation de ce projet, voir la document [CONTRIBUTING.md](CONTRIBUTING.md)
