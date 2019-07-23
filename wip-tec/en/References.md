@@ -9,6 +9,14 @@ Some of that content may only be available on GC/ESDC network
 - [ESDC Service transformation Strategy](http://esdc.prv/en/department/service-strategy/index.shtml)
 - [Recent changes to the ESDC's mandate](http://esdc.prv/en/department/changes_desda.shtml)
 - [ESDC's departmental plans](https://www.canada.ca/en/employment-social-development/corporate/reports/departmental-plan.html)
+- [ESDC Network Use Directive](http://iservice.prv/eng/is/security/tools_and_resources/toolkit/network_use_directive.shtml)
+- [ESDC Information Classification Tool](http://iservice.prv/eng/is/security/classification/classification_tool.shtml)
+- [ESDC Social Media Guidelines for Employees](http://esdc.prv/en/stay_connected/social_media.shtml)
+- [ESDC Handbook for the Personal and Official Use of the Internet](http://esdc.prv/en/stay_connected/handbook.shtml)
+- [ESDC IT Security Exception Requests](http://dialogue/grp/ITSecurity-SecuriteTI/Site/Exceptions.aspx)
+- [TB Direction on Enabling Access to Web Services: Policy Implementation Notice](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32588)
+- [TB Policy on Acceptable Network and Device Use](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=27122)
+- [TB Directive on Management of Information Technology](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249)
 - [TB Policy on service and digital](http://dialogue/grp/BU6810070/Shared%20Documents/Reference%20Materials/Policy%20on%20service%20and%20digital.docx) ([GCCollab group](https://gccollab.ca/groups/profile/588431/endigital-numu00e9riquefrdigital-numu00e9rique))
 - [TB Directive on service and digital](http://dialogue/grp/BU6810070/Shared%20Documents/Reference%20Materials/Directive%20on%20service%20and%20digital.docx) ([GCCollab group](https://gccollab.ca/groups/profile/588431/endigital-numu00e9riquefrdigital-numu00e9rique))
 
@@ -18,6 +26,9 @@ Some of that content may only be available on GC/ESDC network
 
 ## Other Countries
 - [Digital Taiwan (DIGI Taiwan)](https://digi.taiwan.gov.tw/): To accelerate industrial innovation, to create smart Taiwan
+- [Italy Guidelines on the acquisition and reuse of software for public administrations](https://docs.italia.it/italia/developers-italia/gl-acquisition-and-reuse-software-for-pa-docs/en/master/)
+- [Australia Digital Transformation Strategy](https://www.dta.gov.au/digital-transformation-strategy)
+- [US Digital Services Playbook](https://playbook.cio.gov/)
 
 ## Artificial Intelligence
 - [AI Adoption Strategies](AIAdoptionStrategies.md) 
