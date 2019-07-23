@@ -37,6 +37,7 @@ In this document you will find the following sections:
 7. [Jekyll Draft Blog Posts](#jekyll-draft-blog-posts)
 8. [Reveal.js Presentations](#revealjs-presentations)
 9. [Hacker Slides](#hacker-slides)
+10. [Useful Docker Commands](#useful-docker-commands)
 
 ## Cloning The Project Locally
 
@@ -384,3 +385,38 @@ docker run -p 8080:8080 -v $(pwd):/app/slides -it --rm msoedov/hacker-slides
 ```
 
 You can pick a presentation to edit at: [http://localhost:8080/stash](http://localhost:8080/stash)
+
+## Useful Docker Commands
+
+So, you want to generate the website locally with Docker but you receive the following error message:
+
+```bash
+docker: Error response from daemon: driver failed programming external connectivity on endpoint elated_vaughan (...): Bind for 0.0.0.0:4000 failed: port is already allocated.
+```
+
+The reason is that you probably already have the container running so you have two options:
+
+* Head out to `0.0.0.0:4000/ITStrategy` to view the website
+* Check if the container is the one you want and kill it if necessary
+
+To confirm which container is running, you can use this command:
+
+```bash
+docker container ls
+```
+
+It will list all containers currently running.
+
+![List of containers](assets/images/docker-container-ls.png)
+
+If you want to kill the container image listed above, use the following command where `Container ID` matches the serial in the first line:
+
+```bash
+docker container kill <Container ID>
+```
+
+In the example above, that would be:
+
+```bash
+docker container kill 78b83dae966f
+```
