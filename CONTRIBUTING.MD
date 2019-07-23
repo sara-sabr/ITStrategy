@@ -407,7 +407,10 @@ docker container ls
 
 It will list all containers currently running.
 
-![List of containers](assets/images/docker-container-ls.png)
+```bash
+CONTAINER ID        IMAGE               COMMAND                  CREATED             STATUS              PORTS                               NAMES
+1c7651744d2b        jekyll/jekyll       "/usr/jekyll/bin/ent…"   6 minutes ago       Up 6 minutes        0.0.0.0:4000->4000/tcp, 35729/tcp   elated_blackwell
+```
 
 If you want to kill the container image listed above, use the following command where `Container ID` matches the serial in the first line:
 
