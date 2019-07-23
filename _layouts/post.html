@@ -3,4 +3,12 @@ layout: default
 ---
 <p>{{ page.date | date: "%Y-%m-%d" }} - Written by {{ page.author }}</p>
 
+{% if page.data != page.last_modified %}
+    {%if page.lang == "en"%}
+        <p class="font-italic">Last modified: {{ page.last_modified | date: "%Y-%m-%d"}}</p>
+    {% else %}
+        <p class="font-italic">Dernière modification: {{ page.last_modified | date: "%Y-%m-%d"}}</p>
+    {% endif %}
+{% endif %}
+
 {{ content }}
