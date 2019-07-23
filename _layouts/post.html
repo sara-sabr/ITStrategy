@@ -1,7 +1,11 @@
 ---
 layout: default
 ---
-<p>{{ page.date | date: "%Y-%m-%d" }} - Written by {{ page.author }}</p>
+{%if page.lang == "en"%}
+    <p>{{ page.date | date: "%Y-%m-%d" }} - Written by {{ page.author }}</p>
+{% else %}
+    <p>{{ page.date | date: "%Y-%m-%d" }} - Écrit par {{ page.author }}</p>
+{% endif %}
 
 {% if page.data != page.last_modified %}
     {%if page.lang == "en"%}
