@@ -1,11 +1,7 @@
 {%- assign aPost = site.posts | where:"lang", page.lang -%}
 {% if aPost.size > 0%}
-  {% if page.lang == "fr" %}
-### Billets
-  {% else %}
-### Posts
-  {% endif %}
 
+### {{ site.blogPosts[page.lang] }}
 
   <ul class="post-list">
     {% for post in aPost %}
