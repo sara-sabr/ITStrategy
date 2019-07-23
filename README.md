@@ -28,30 +28,7 @@ For more information, see [Federal identity requirements](https://www.canada.ca/
 
 ### Development
 
-#### Continious Integration Testing
-
-Automated tests will be run for all pull requests.
-To run the tests locally, use `npm install` and `npm test`. For example using Docker:
-
-> docker run -v $(pwd):/usr/node/app -w /usr/node/app -it --rm node npm test
-
-#### Website (Github Pages)
-
-To test your changes locally, use `jekyll serve`. For example using Docker:
-
-> docker run -p 4000:4000 -v $(pwd):/srv/jekyll -it --rm jekyll/jekyll jekyll serve
-
-Site will be available at: http://localhost:4000/ITStrategy/
-
-#### Presentations
-
-Some presentations are available from the Website using Reveal.js.
-The presentations are stored in the [presentations](presentations) folder in markdown format.
-The markdown can be edited directly or using HackerSlides. For example using Docker (current directory must be where markdown files are located):
-
-> docker run -p 8080:8080 -v $(pwd):/app/slides -it --rm msoedov/hacker-slides
-
-You can pick a presentation to edit at: http://localhost:8080/stash
+See [Contributing](./CONTRIBUTING.MD) for all the instructions required to 
 
 ______________________
 
