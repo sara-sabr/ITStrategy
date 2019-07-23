@@ -421,5 +421,5 @@ docker container kill <Container ID>
 In the example above, that would be:
 
 ```bash
-docker container kill 78b83dae966f
+docker container kill 1c7651744d2b
 ```
