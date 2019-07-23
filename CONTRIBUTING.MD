@@ -9,7 +9,7 @@ And if you find you can contribute by providing new ideas or known solutions, pl
 
 In this document you will find the following sections:
 
-1. [Cloning the project locally](#Cloning-the-project-locally)
+1. [Cloning The Project Locally](#Cloning-The-Project-Locally)
 2. [Continuous Integration Testing](#Continuous-Integration-Testing)
    1. [CI Tests Using Docker](#CI-Tests-Using-Docker)
    2. [CI Tests Using NPM](#CI-Tests-Using-NPM)
@@ -26,7 +26,7 @@ In this document you will find the following sections:
 6. [Reveal.js Presentations](#Revealjs-Presentations)
 7. [Hacker Slides](#Hacker-Slides)
 
-## Cloning the project locally
+## Cloning The Project Locally
 
 If this is your first time setting up the repo as a local folder, you'll need to do the following:
 
@@ -63,9 +63,7 @@ docker run -v $(pwd):/usr/node/app -w /usr/node/app -it --rm node npm test
 
 ### CI Tests Using NPM
 
-To use NPM, followrun these instructions:
-
-* Install the dependencies
+To use NPM, start by installing the dependencies
 
 ```bash
 npm install
@@ -244,6 +242,8 @@ Some presentations are available from the Website using Reveal.js.
 The presentations are stored in the [presentations](presentations) folder in markdown format.
 The markdown can be edited directly or using HackerSlides. For example using Docker (current directory must be where markdown files are located):
 
-> docker run -p 8080:8080 -v $(pwd):/app/slides -it --rm msoedov/hacker-slides
+```bash
+docker run -p 8080:8080 -v $(pwd):/app/slides -it --rm msoedov/hacker-slides
+```
 
 You can pick a presentation to edit at: [http://localhost:8080/stash](http://localhost:8080/stash)
