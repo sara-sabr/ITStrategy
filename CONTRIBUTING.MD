@@ -149,7 +149,9 @@ You can save your bilingual documents in their respective sub-folders in the `_p
 
 ![Folders structure](assets/images/folders-fichiers.png)
 
-Once your content is ready, you will need to add `Front Matter`, special tags, at the top of the document so that Jekyll knows it has to generate a web page with it.
+French versions of your pages should be in `_pages/fr` while English versions of your pages should be in `_pages/en`.
+
+Once your content is ready, you will need to add `Front Matter`, special tags, at the top of the document so that Jekyll can generate a web page with it.
 
 ```yaml
 ---
@@ -167,6 +169,10 @@ permalink: "/mandat.html"
 The front matter tag `layout` is used to define how the page will render.
 Or if you will, what kind of page this Markdown file should be rendered as.
 
+```yaml
+layout: default
+```
+
 The current layouts available are the following ones:
 
 * `default`: a default layout for pages that uses Bootstrap 4 default theme.
@@ -181,6 +187,10 @@ Additional layouts may be built later on as we enhance the look and feel of the 
 ### Title
 
 The front matter tag `title` is used to define the page's title.
+
+```yaml
+title: Your Page Title
+```
 
 The title of the page will be displayed at the top of the generated web page so instead of adding a first level header, you can use the following [Liquid tag](https://help.shopify.com/en/themes/liquid/tags) instead:
 
@@ -208,6 +218,18 @@ When generating the website, this will link both pages together so that a user c
 
 The front matter tag `lang` is used to identify the language of the page.
 This tag is very important as it is leveraged throughout the templates to automatically generate related content.
+
+If a page is in English, use the following tag and value:
+
+```yaml
+lang: en
+```
+
+If a page is in French, use the following tag and value:
+
+```yaml
+lang: fr
+```
 
 ### Status
 
