@@ -353,6 +353,18 @@ By using this tag, it triggers the post to render a quick not at the top of the 
 
 ## Jekyll Draft Blog Posts
 
+Jekyll offers a nice feature to test how your drafts blog posts will render on the final website.
+
+To create drafts, follow the same instructions as per the [Jekyll Blog Posts section](#jekyll-blog-posts) above but save them in the _drafts folder instead.
+
+Once you have your drafts ready and saved in both the `en` and `fr` subfolders, you can generate the website locally and include your drafts by running this docker command:
+
+```bash
+docker run -p 4000:4000 -v $(pwd):/srv/jekyll -it --rm jekyll/jekyll jekyll serve --drafts
+```
+
+Notice that we're using the same command as when we run the website locally but we add the `--drafts` switch at the end.
+
 ## Reveal.js Presentations
 
 As part of our desire to work in the open, we are leveraging [Reveal.js](https://revealjs.com/#/), an open source framework project to generate web based presentations.
