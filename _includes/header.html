@@ -16,7 +16,7 @@
         {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
         {% for my_post in posts %}
           {% if my_post.lang != page.lang %}
-            <li class="nav-item"><a class="nav-link" lang="{{ my_post.lang }}" hreflang="{{ my_post.lang }}" href="{{ my_post.url | prepend: post.baseurl }}">{{ site.language[my_post.lang] }}</a></li>
+            <li class="nav-item"><a class="nav-link" lang="{{ my_post.lang }}" hreflang="{{ my_post.lang }}" href="{{ my_post.url | prepend: site.baseurl }}">{{ site.language[my_post.lang] }}</a></li>
           {% endif %}
         {% endfor %}  
 
