@@ -30,8 +30,12 @@ In this document you will find the following sections:
    5. [Status](#status)
    6. [Permalink](#permalink)
 6. [Jekyll Blog Posts](#jekyll-blog-posts)
-7. [Reveal.js Presentations](#revealjs-presentations)
-8. [Hacker Slides](#hacker-slides)
+   1. [Post Layout](#post-layout)
+   2. [Author](#author)
+   3. [Date](#date)
+7. [Jekyll Draft Blog Posts](#jekyll-draft-blog-posts)
+8. [Reveal.js Presentations](#revealjs-presentations)
+9. [Hacker Slides](#hacker-slides)
 
 ## Cloning The Project Locally
 
@@ -255,7 +259,89 @@ For example, if the permalink is `/example.html`, the associated URL would be `h
 
 ## Jekyll Blog Posts
 
-To be continued - Not yet implemented.
+Jekyll blog posts are very useful as they provide a way to share content in a more convivial manner.
+The process to create blog posts is similar to the one required to [create pages](#jekyll-pages) described above.
+
+The first step is to create a Markdown document.
+The filename should include the full date and the title:
+
+`2019-07-23-blog-title.md`
+
+If you are working on a draft, you can save it in the in the corresponding subfolder `en` or `fr` in the `_drafts` folder.
+Jekyll provides some neat features to render drafts on the locally generated website (see the [Drafts section](#drafts) for more details).
+
+Otherwise, you can save it directly in the corresponding subfolder `en` or `fr` in the `_posts` folder.
+It is recommended to have your blog posts translated and put in their respective folders.
+
+Just like for pages, you will need to add front matter to the blog posts.
+The front matter here is a bit different as you won't need the `status` or the `permalink` tags.
+That's because Jekyll pulls posts in the `_posts` folder automatically and the permalink is generated based on the date and title of the document.
+
+On the other end, you will need the `author` tag since we want to know who wrote the post!
+
+The other difference is that the `layout` tag value will now be set as `post` instead of `default`.
+
+Example of front matter:
+
+```yaml
+---
+layout: post
+title:  "Welcome to Jekyll!"
+author: "Guillaume Charest"
+date: 2019-07-21
+last_modified: 2019-07-23
+ref: first-post
+lang: en
+---
+```
+
+In the example above, a few new tags and values are introduced.
+
+### Post Layout
+
+As mentioned before, a new layout is introduced in order to render how the blog posts will be displayed on the website.
+
+When writing your post, you'll need to use the `layout` value `post`.
+
+It will display who wrote the post, when it was written and, if applicable, when was the last modification done to the post.
+
+![Example of post layout](assets/images/post-layout.png)
+
+### Author
+
+The front matter tag `author` is a tag that identifies the author of the post.
+
+It can be called in a layout or a post by using the following liquid tags:
+
+```liquid
+{{ page.author }}
+```
+
+### Date
+
+The front matter tag `date` is an optional tag you can use to overide the default Jekyll behaviour of using the filename as the source for setting the date and permalink.
+
+For example, let's say you create a blog post with the following filename: `2019-07-23-blog-post-test.md`
+
+The default values would be:
+
+```yaml
+date: "2019-07-23"
+permalink: /2019/07/23/blog-post-test.html
+```
+
+However, if you were to set the tag `date` value to `2019-07-21` instead, it would override the values above to:
+
+```yaml
+date: "2019-07-21"
+permalink: /2019/07/21/blog-post-test.html
+```
+
+>Attention: if you change the default behaviour, make sure you do so on both the French and English blog post or it will provide and inconsistent experience to the end user.
+
+
+
+## Jekyll Draft Blog Posts
 
 ## Reveal.js Presentations
 
