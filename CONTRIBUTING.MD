@@ -33,6 +33,7 @@ In this document you will find the following sections:
    1. [Post Layout](#post-layout)
    2. [Author](#author)
    3. [Date](#date)
+   4. [Last Modified](#last-modified)
 7. [Jekyll Draft Blog Posts](#jekyll-draft-blog-posts)
 8. [Reveal.js Presentations](#revealjs-presentations)
 9. [Hacker Slides](#hacker-slides)
@@ -274,24 +275,24 @@ Otherwise, you can save it directly in the corresponding subfolder `en` or `fr` 
 It is recommended to have your blog posts translated and put in their respective folders.
 
 Just like for pages, you will need to add front matter to the blog posts.
-The front matter here is a bit different as you won't need the `status` or the `permalink` tags.
+The front matter here is a bit different as you will need to use the value `post`for the `layout` tag.
+
+You still need the `title`, `lang` and `ref` values properly set up but won't require the `status` and the `permalink` tags.
 That's because Jekyll pulls posts in the `_posts` folder automatically and the permalink is generated based on the date and title of the document.
 
-On the other end, you will need the `author` tag since we want to know who wrote the post!
+And, of course, you will now need the `author` tag since we want to know who wrote the post!
 
-The other difference is that the `layout` tag value will now be set as `post` instead of `default`.
-
-Example of front matter:
+Example of front matter for blog posts:
 
 ```yaml
 ---
 layout: post
 title:  "Welcome to Jekyll!"
-author: "Guillaume Charest"
-date: 2019-07-21
-last_modified: 2019-07-23
 ref: first-post
 lang: en
+author: "Guillaume Charest"
+date: "2019-07-21"
+last_modified: "2019-07-23"
 ---
 ```
 
@@ -339,7 +340,16 @@ permalink: /2019/07/21/blog-post-test.html
 
 >Attention: if you change the default behaviour, make sure you do so on both the French and English blog post or it will provide and inconsistent experience to the end user.
 
+### Last Modified
 
+The front matter tag `last_modified` is a custom tag that we introduced to let the author of a post show the date of the last modifications to a post.
+
+For example, you may have written and published a post on 2017-07-21 but have revisited it on 2017-07-23 to add further details or correct some facts.
+
+There isn't an easy way for a reader to know that you made those changes unless they visit the GitHub repo.
+By using this tag, it triggers the post to render a quick not at the top of the post stating that a change was made at the specified `last_modified` date.
+
+>Note: We recommend that you also identify the content you have modified in the post for greater transparency.
 
 ## Jekyll Draft Blog Posts
 
