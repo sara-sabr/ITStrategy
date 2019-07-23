@@ -18,3 +18,5 @@ Vous pouvez créer des enjeux, participer aux discussions et même contribuer !
 Nous avons également mis en place quelques tests d'intégrations continues (CI) afin de garder notre contenu propre, mais aussi de démontrer la puissance de ces outils de collaboration ouverte pour maintenir un projet, qu'il s'agisse de simples fichiers textes ou de code source.
 
 {% include listPages.md %}
+
+{% include listPosts.md %}
