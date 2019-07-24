@@ -2,7 +2,7 @@
 
 ### Purpose
 
-To seek approval and endorsement for IITB to enable open by default access to the Internet for all ESDC employees, including instant messaging, video conferencing, cloud storage and other collaboration tools available online.
+To seek approval and endorsement for IITB to enable open by default access to the Internet for some ESDC employees, including instant messaging, email, cloud storage and other collaboration tools and content available online.
 
 ### Background
 
@@ -12,9 +12,23 @@ The recent [Direction on Enabling Access to Web Services: Policy Implementation 
 
 > Departments are to reconfigure their web filtering rules to be open by default to the Internet, except for websites that support non-acceptable activities or behaviours. See [Categories to be blocked](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32588#appA). All other categories, including social media and web-based collaboration or chat tools, are to be open by default.
 
-### Issue
+### Issues
 
-Sites that are classified as instant messaging, video conferencing, cloud storage and other online collaboration tools are blocked for ESDC employees on the network. This blacklist can never be complete and in some case seem to prefer certain solutions over others. See list of [Sites that are blocked and not blocked](#sites-that-are-blocked-and-not-blocked).
+Sites that are classified as instant messaging, email, cloud storage and other online collaboration tools are blocked for ESDC employees on the network.
+
+These categories are usually blocked for the following reasons:
+
+#### Network Performance
+
+Bandwidth use is already high and can slow down the network during peaks. Open access to more Websites and services could risk making the network slower since it will require more bandwidth.
+
+#### Lower Productivity
+
+There is a perception that open access to online services and tools will lower productivity.
+
+#### Large Number of Employees
+
+ESDC is a large department, with over 27000 employees, and some categories of employees might not require the same access to online services as IT, policy and other groups.
 
 ### Considerations
 
@@ -27,8 +41,26 @@ When access to collaboration tools and sites is restricted, instead of increasin
 Users will find a way around the blocks if it makes their life easier.
 Security is more than just locking things down; user experience must also be considered.
 
+#### Bandwidth
+
+The R&D team has been piloting a to route traffic to site that use a lot of bandwidth directly to the Internet.
+This type of solution could mitigate the risk of making network performance worse and could even reduce the stress on the corporate network.
+It would also eliminate the need to block sites that are flagged for using too much bandwidth.
+
+#### Digital Worker Profiles
+
+If not all groups currently require or want more open access to the Internet, we can expect that more and more of them will in the future.
+Current branches that would benefit:
+
+- IITB
+- ...
+
+#### Awareness
+
 Instead of banning access to certain tools and sites, making access open by default and encouraging the secure use will result in risks being better controlled.
 Informing users of expected behaviours when using the Internet will help them to protect against potential confidentiality or privacy breaches and to comply with existing ESDC and GC codes of conduct and policies.
+
+This information is already available on the Intranet and routinely communicated to users through, popups, emails and mandatory trainings.
 
 ## Next Steps
 
@@ -56,8 +88,7 @@ Should you approve, the Strategy team will work with Security and others at IITB
 - https://onedrive.live.com/
 - https://owncloud.org/ (not SaaS)
 - https://www.pcloud.com/
-- https://labs.play-with-docker.com/ (Websockets blocked)
-- https://riot.im
+- https://riot.im/app/
 - https://open.rocket.chat/
 - https://www.seafile.com/ (not SaaS)
 - https://www.sync.com/
@@ -69,7 +100,9 @@ Should you approve, the Strategy team will work with Security and others at IITB
 - https://www.facebook.com/
 - https://framadrive.org/
 - https://framapad.org/
-- https://slack.com/
+- https://github.com/  (Websockets and SSH blocked)
+- https://labs.play-with-docker.com/ (Websockets blocked)
+- https://slack.com/ (Websockets blocked)
 - https://www.sli.do/
 - https://taiga.io/
 - https://trello.com/
