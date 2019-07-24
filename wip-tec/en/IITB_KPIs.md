@@ -43,28 +43,11 @@ For the development side, there would be multiple metrics, most of them being in
 **Throughput**
 - `release ratio = code deployments / dev personnel`
 - `lead time for changes ratio =  time from code commit to running in production / dev personnel`
-- `test ratio = tests done / development personnel`
-- `*other?*`
+- `test ratio = tests done / dev personnel`
 
 **Stability**
 - `time to restore ratio = time to restore service when incident occurs / dev personnel`
 - `change fail rate ratio = % of changes resulting in degraded service or remediation required / dev personnel`
-- `*other?*`
-
-**Efficiency**
-- `manual work ratio`  
-  *Categories:*
-  - *Configuration Management*
-  - *Testing*
-  - *Deployments*
-  - *Change Approvals*
-- `time spent ratio`  
-  *Categories:*
-  - *New work*
-  - *Unplanned work and rework*
-  - *Remediating security issues*
-  - *Working on defects identified by end users*
-  - *Customer support work*
 
 *Metrics inspired from [DORA Accelerate: State of DevOps 2018](http://cloudplatformonline.com/rs/248-TPC-286/images/DORA-State%20of%20DevOps.pdf)*
 
@@ -88,21 +71,19 @@ Moving IITB into a service-oriented organization will require IITB to manage the
 
 *Note:* Services are never expected to be up 100% of the time. [See here](http://www.gcpedia.gc.ca/wiki/OCIO_Application_Portfolio_Management/Application_Portfolio_Management_User_Guide#Application_Mission_Criticality_and_Critical_Services) for more details.  
 
-## 5. **Increase rate of delivery by IITB**
+## 5. **Quality Work**
 
-Rate of delivery is the measurement of IITB's ability to deliver projects and software releases. As IITB transitions from project management to product management, it will seek to deliver project faster and then shift to deliver product releases faster.
+This indicator monitors how time is spent in order to measure the quality of work.
 
-IITB's rate of delivery will be measured by how much it improves, fostering a continuous improvement measurement over a hard target. The measurement will be two folds:
+To do so, the global % of time spent by IITB personnel in these categories is determined:
+- Business Projects
+- IT Projects (internal I&O)
+- Changes (bug fixes and security issues)
+- Unplanned Work
 
-1\. the rate at which intake capacity increases. The PMO's [Active Project List](http://dialogue/grp/ippst/Approved%20Projects%20Lists%20%28APL%29/Forms/AllItems.aspx?RootFolder=%2Fgrp%2Fippst%2FApproved%20Projects%20Lists%20%28APL%29%2FFY%202019%2D2020&FolderCTID=0x012000D8E2E348AB0A034886495AE4BED12E07&View=%7b2C779E42-EB28-444B-AACD-39CC61DDBCE2%7d), for Major/Minor/Small ESDC projects, as well as the PMO's [IITB Lite projects](http://dialogue/grp/ITPM-GPTI/Lists/IITBPMP%20Small%20Projects/AllItems.aspx) will be used as reference points to monitor intake increase. The project's complexity will be considered in the measurement.
+And the improvement comes from more time being spent on Projects rather than Changes or Unplanned Work (while taking into account the amount of personnel).
 
-For each 4 complexity and risk levels ([PCRA](https://www.canada.ca/en/treasury-board-secretariat/services/information-technology-project-management/project-management/project-complexity-risk-assessment-tool.html)):
-
-`rate of project delivery = (projects year_n - projects year_n-1) / projects year_n-1`
-
-2\. the rate at which product releases increases. The list of products and their release schedule is found **&lt;insert location here&gt;**
-
-`rate of product delivery = (product releases year_n - product releases year_n-1) / product releases year_n-1`
+`quality of work ratio = (projects work / changes or unplanned work) / dev personnel`
 
 ## 6. **Reduction in cyber incidents**
 
