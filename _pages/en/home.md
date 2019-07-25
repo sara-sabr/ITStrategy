@@ -24,3 +24,5 @@ Please feel free to jump in the [Issues](https://github.com/sara-sabr/ITStrategy
 {% include listPages.md %}
 
 {% include listPosts.md %}
+
+{% include listPresentations.md %}
