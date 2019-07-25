@@ -26,6 +26,12 @@ index:
 language:
   en: English
   fr: Français
+mandate:
+  en: Mandate
+  fr: Mandat
+presentations:
+  en: Presentations
+  fr: Présentations
 subtitle:
   en: Be the catalysts of change within IITB to lay the path for the evolution of ESDC's digital services.
   fr: Être les catalyseurs du changement au sein de la DGIIT pour préparer la voie à l'évolution des services numériques de EDSC.
