@@ -18,6 +18,12 @@ Sites that are classified as instant messaging, email, cloud storage and other o
 
 These categories are usually blocked for the following reasons:
 
+#### Risk of exposure of classified information
+
+- **Inadvertent sharing** - lack of policy awareness, a specific form of human error
+- **Accidental sharing** - also human error (usually being unaware that they shared – for example, saving a file to cloud without realizing it, or saving something to cloud they thought was unclassified but was not)
+- **Deliberate sharing** - knowing the policy and doing it anyways (either they decide to manage the risk, or they don’t care)
+
 #### Network Performance
 
 Bandwidth use is already high and can slow down the network during peaks. Open access to more Websites and services could risk making the network slower since it will require more bandwidth.
@@ -26,9 +32,9 @@ Bandwidth use is already high and can slow down the network during peaks. Open a
 
 There is a perception that open access to online services and tools will lower productivity.
 
-#### Large Number of Employees
+#### Large Workforce With Various Work Profiles
 
-ESDC is a large department, with over 27000 employees, and some categories of employees might not require the same access to online services as IT, policy and other groups.
+ESDC is a large department, with over 27000 employees, and some categories of employees, based on their work profile, may not require the same access to online services as IT, policy and other groups.
 
 ### Considerations
 
