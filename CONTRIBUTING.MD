@@ -30,8 +30,14 @@ In this document you will find the following sections:
    5. [Status](#status)
    6. [Permalink](#permalink)
 6. [Jekyll Blog Posts](#jekyll-blog-posts)
-7. [Reveal.js Presentations](#revealjs-presentations)
-8. [Hacker Slides](#hacker-slides)
+   1. [Post Layout](#post-layout)
+   2. [Author](#author)
+   3. [Date](#date)
+   4. [Last Modified](#last-modified)
+7. [Jekyll Draft Blog Posts](#jekyll-draft-blog-posts)
+8. [Reveal.js Presentations](#revealjs-presentations)
+9. [Hacker Slides](#hacker-slides)
+10. [Useful Docker Commands](#useful-docker-commands)
 
 ## Cloning The Project Locally
 
@@ -255,13 +261,126 @@ For example, if the permalink is `/example.html`, the associated URL would be `h
 
 ## Jekyll Blog Posts
 
-To be continued - Not yet implemented.
+Jekyll blog posts are very useful as they provide a way to share content in a more convivial manner.
+The process to create blog posts is similar to the one required to [create pages](#jekyll-pages) described above.
+
+The first step is to create a Markdown document.
+The filename should include the full date and the title:
+
+`2019-07-23-blog-title.md`
+
+If you are working on a draft, you can save it in the in the corresponding subfolder `en` or `fr` in the `_drafts` folder.
+Jekyll provides some neat features to render drafts on the locally generated website (see the [Drafts section](#drafts) for more details).
+
+Otherwise, you can save it directly in the corresponding subfolder `en` or `fr` in the `_posts` folder.
+It is recommended to have your blog posts translated and put in their respective folders.
+
+Just like for pages, you will need to add front matter to the blog posts.
+The front matter here is a bit different as you will need to use the value `post`for the `layout` tag.
+
+You still need the `title`, `lang` and `ref` values properly set up but won't require the `status` and the `permalink` tags.
+That's because Jekyll pulls posts in the `_posts` folder automatically and the permalink is generated based on the date and title of the document.
+
+And, of course, you will now need the `author` tag since we want to know who wrote the post!
+
+Example of front matter for blog posts:
+
+```yaml
+---
+layout: post
+title:  "Welcome to Jekyll!"
+ref: first-post
+lang: en
+author: "Guillaume Charest"
+date: "2019-07-21"
+last_modified: "2019-07-23"
+---
+```
+
+In the example above, a few new tags and values are introduced.
+
+### Post Layout
+
+As mentioned before, a new layout is introduced in order to render how the blog posts will be displayed on the website.
+
+When writing your post, you'll need to use the `layout` value `post`.
+
+It will display who wrote the post, when it was written and, if applicable, when was the last modification done to the post.
+
+![Example of post layout](assets/images/post-layout.png)
+
+### Author
+
+The front matter tag `author` is a tag that identifies the author of the post.
+
+It can be called in a layout or a post by using the following liquid tags:
+
+```liquid
+{{ page.author }}
+```
+
+### Date
+
+The front matter tag `date` is an optional tag you can use to overide the default Jekyll behaviour of using the filename as the source for setting the date and permalink.
+
+For example, let's say you create a blog post with the following filename: `2019-07-23-blog-post-test.md`
+
+The default values would be:
+
+```yaml
+date: "2019-07-23"
+permalink: /2019/07/23/blog-post-test.html
+```
+
+However, if you were to set the tag `date` value to `2019-07-21` instead, it would override the values above to:
+
+```yaml
+date: "2019-07-21"
+permalink: /2019/07/21/blog-post-test.html
+```
+
+>Attention: if you change the default behaviour, make sure you do so on both the French and English blog post or it will provide and inconsistent experience to the end user.
+
+### Last Modified
+
+The front matter tag `last_modified` is a custom tag that we introduced to let the author of a post show the date of the last modifications to a post.
+
+For example, you may have written and published a post on 2017-07-21 but have revisited it on 2017-07-23 to add further details or correct some facts.
+
+There isn't an easy way for a reader to know that you made those changes unless they visit the GitHub repo.
+By using this tag, it triggers the post to render a quick not at the top of the post stating that a change was made at the specified `last_modified` date.
+
+>Note: We recommend that you also identify the content you have modified in the post for greater transparency.
+
+## Jekyll Draft Blog Posts
+
+Jekyll offers a nice feature to test how your drafts blog posts will render on the final website.
+
+To create drafts, follow the same instructions as per the [Jekyll Blog Posts section](#jekyll-blog-posts) above but save them in the _drafts folder instead.
+
+Once you have your drafts ready and saved in both the `en` and `fr` subfolders, you can generate the website locally and include your drafts by running this docker command:
+
+```bash
+docker run -p 4000:4000 -v $(pwd):/srv/jekyll -it --rm jekyll/jekyll jekyll serve --drafts
+```
+
+Notice that we're using the same command as when we run the website locally but we add the `--drafts` switch at the end.
 
 ## Reveal.js Presentations
 
 As part of our desire to work in the open, we are leveraging [Reveal.js](https://revealjs.com/#/), an open source framework project to generate web based presentations.
 
-To take a markdown file and generate a presentation on the website, you can use the following structure
+To take a markdown file and generate a presentation on the website, you need to put your presentation in the `presentations` folder and the appropriate language subfolder:
+
+![Presentations folders](assets/images/presentations-layout.png)
+
+You can then create a link and use the following URL structure:
+
+```html
+https://sara-sabr.github.io/ITStrategy/presentation.html?markdown=/<lang>/<filename>.md
+```
+
+Where `lang` is the folder `en` or `fr` and `filename` is the presentation's file name.
 
 ## Hacker Slides
 
@@ -276,3 +395,41 @@ docker run -p 8080:8080 -v $(pwd):/app/slides -it --rm msoedov/hacker-slides
 ```
 
 You can pick a presentation to edit at: [http://localhost:8080/stash](http://localhost:8080/stash)
+
+## Useful Docker Commands
+
+So, you want to generate the website locally with Docker but you receive the following error message:
+
+```bash
+docker: Error response from daemon: driver failed programming external connectivity on endpoint elated_vaughan (...): Bind for 0.0.0.0:4000 failed: port is already allocated.
+```
+
+The reason is that you probably already have the container running so you have two options:
+
+* Head out to `0.0.0.0:4000/ITStrategy` to view the website
+* Check if the container is the one you want and kill it if necessary
+
+To confirm which container is running, you can use this command:
+
+```bash
+docker container ls
+```
+
+It will list all containers currently running.
+
+```bash
+CONTAINER ID        IMAGE               COMMAND                  CREATED             STATUS              PORTS                               NAMES
+1c7651744d2b        jekyll/jekyll       "/usr/jekyll/bin/ent…"   6 minutes ago       Up 6 minutes        0.0.0.0:4000->4000/tcp, 35729/tcp   elated_blackwell
+```
+
+If you want to kill the container image listed above, use the following command where `Container ID` matches the serial in the first line:
+
+```bash
+docker container kill <Container ID>
+```
+
+In the example above, that would be:
+
+```bash
+docker container kill 1c7651744d2b
+```

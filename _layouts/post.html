@@ -1,0 +1,14 @@
+---
+layout: default
+---
+<h2>{{ page.title }}</h2>
+<p>{{ page.date | date: "%Y-%m-%d" }} - {{ site.writtenBy[page.lang] }} {{ page.author }}</p>
+
+{% assign pageDate = page.date | date: "%Y-%m-%d" %}
+{% assign modifiedDate = page.last_modified | date: "%Y-%m-%d" %}
+
+{% if pageDate != modifiedDate %}
+    <p class="font-italic">{{ site.lastModified[page.lang] }}: {{ modifiedDate }}</p>
+{% endif %}
+
+{{ content }}

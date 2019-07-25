@@ -14,7 +14,7 @@ ESDC services provided to the public or to other departments will need to be del
 
 The indicator will be measured by using [ESDC's Service Catalogue](https://www.canada.ca/en/employment-social-development/corporate/portfolio/service-canada/programs.html) as reference point and monitor the rate at which they are transformed to digital
 
-`percentage = digital services / total services`
+`service API percentage = digital services / total services`  
 
 ## 2. **Rate of decrease in processing time of ESDC Services**
 
@@ -22,38 +22,99 @@ The processing time of ESDC services that are provided to the public, to other d
 
 The indicator will be measured by using [ESDC's Service Catalogue](https://www.canada.ca/en/employment-social-development/corporate/portfolio/service-canada/programs.html) and monitor their total processing time from beginning to end. This amount, over time, will be monitored to indicate reduction in processing time.
 
-`rate of service improvement = (New Processing Time - Old Processing Time) / Old Processing Time`
+`rate of service improvement = (processing time year_n - processing time year_n-1) / processing time year_n-1`
 
+<<<<<<< HEAD
 ## 3. **Availability uptime of ESDC core systems**
+=======
+## 3. **Reduction in toil of IITB and ESDC Services**
+
+Toil is the kind of work tied to running a production service that tends to be manual, repetitive, automatable, tactical devoid of enduring value, and that scales linearly as a service grows. Processing time of ESDC services may decrease by increasing manual labour but that would defeat the purpose of digital and jeopardize the service's sustainability.
+
+The indicator will be measured two ways:
+
+1\. Toil in IITB Services
+
+We can measure both the service and development sides:
+
+For service requests (e.g. Helpdesk):
+
+`service ratio = service requests / service personnel`  
+
+For the development side, there would be multiple metrics, most of them being influenced by the evolution toward DevOps:
+
+**Throughput**
+- `release ratio = code deployments / dev personnel`
+- `lead time for changes ratio =  time from code commit to running in production / dev personnel`
+- `test ratio = tests done / dev personnel`
+
+**Stability**
+- `time to restore ratio = time to restore service when incident occurs / dev personnel`
+- `change fail rate ratio = % of changes resulting in degraded service or remediation required / dev personnel`
+
+*Metrics inspired from [DORA Accelerate: State of DevOps 2018](http://cloudplatformonline.com/rs/248-TPC-286/images/DORA-State%20of%20DevOps.pdf)*
+
+2\. Toil in ESDC Services
+
+We can use [ESDC's Service Catalogue](https://www.canada.ca/en/employment-social-development/corporate/portfolio/service-canada/programs.html) and measure the ratio of service requests to amount of personnel.
+
+`service ratio = service requests / service personnel`
+
+And finally, for each of these ratios, we measure the rate at which they increase/decrease over time:
+
+`rate of X = (ratio x year_n - ratio x year_n-1) / ratio x year_n-1`
+
+## 4. **Availability uptime of ESDC core systems**
+>>>>>>> 36cf68c5bb61f5eb2b26d04e0da927f8d66757a0
 
 Moving IITB into a service-oriented organization will require IITB to manage the complexity and growth of its services pro-actively. The measurement of availability is driven by time loss whereas the measurement of reliability is driven by the frequency and impact of failures. This indicator focuses on availability as it's what clients of the service are concerned with. The ***service's*** maximum allowable downtime, as agreed by the BCP Business Impact Analysis exercise, will be used to assess IITB's service availability. The Core systems will be the ones flagged as *high business value* within [ESDC's Application Portfolio Management (APM) program](http://dialogue/grp/PR6303013/APM_Program/default.aspx).
 
-`service availability = (total elapsed time - sum of downtime) / total elapsed time`
+`service availability ratio = (total elapsed time - sum of downtime) / total elapsed time`
 
+<<<<<<< HEAD
 *Note:* Services are never expected to be up 100% of the time. [See here](http://www.gcpedia.gc.ca/wiki/OCIO_Application_Portfolio_Management/Application_Portfolio_Management_User_Guide#Application_Mission_Criticality_and_Critical_Services) for more details.  
 
 ## 4. **Increase rate of delivery by IITB**
+=======
+`service availability target ratio = actual % availability / target % availability`
+>>>>>>> 36cf68c5bb61f5eb2b26d04e0da927f8d66757a0
 
-Rate of delivery is the measurement of IITB's ability to deliver projects and software releases. As IITB transitions from project management to product management, it will seek to deliver project faster and then shift to deliver product releases faster.
+*Note:* Services are never expected to be up 100% of the time. [See here](http://www.gcpedia.gc.ca/wiki/OCIO_Application_Portfolio_Management/Application_Portfolio_Management_User_Guide#Application_Mission_Criticality_and_Critical_Services) for more details.  
 
-IITB's rate of delivery will be measured by how much it improves, fostering a continuous improvement measurement over a hard target. The measurement will be two folds:
+## 5. **Quality Work**
 
-1. the rate at which intake capacity increases. The PMO's [Active Project List](http://dialogue/grp/ippst/Approved%20Projects%20Lists%20%28APL%29/Forms/AllItems.aspx?RootFolder=%2Fgrp%2Fippst%2FApproved%20Projects%20Lists%20%28APL%29%2FFY%202019%2D2020&FolderCTID=0x012000D8E2E348AB0A034886495AE4BED12E07&View=%7b2C779E42-EB28-444B-AACD-39CC61DDBCE2%7d), for Major/Minor/Small ESDC projects, as well as the PMO's [IITB Lite projects](http://dialogue/grp/ITPM-GPTI/Lists/IITBPMP%20Small%20Projects/AllItems.aspx) will be used as reference points to monitor intake increase. the project's complexity will be considered in the measurement.
+This indicator monitors how time is spent in order to measure the quality of work.
 
-`rate of project delivery = (Projects Year_n - Projects Year_n-1) / Projects Year_n-1`
+To do so, the global % of time spent by IITB personnel in these categories is determined:
+- Business Projects
+- IT Projects (internal I&O)
+- Changes (bug fixes and security issues)
+- Unplanned Work
 
-2. the rate at which product releases increases. The list of products and their release schedule is found **&lt;insert location here&gt;**
+And the improvement comes from more time being spent on Projects rather than Changes or Unplanned Work (while taking into account the amount of personnel).
 
-`rate of product delivery = (Product releases Year_n - Product releases Year_n-1) / Product releases Year_n-1`
+`quality of work ratio = (projects work / changes or unplanned work) / dev personnel`
 
+<<<<<<< HEAD
 ## 5. **Reduction in Cyber-incidents**
+=======
+## 6. **Reduction in cyber incidents**
+>>>>>>> 36cf68c5bb61f5eb2b26d04e0da927f8d66757a0
 
 This indicator will monitor the number of cyber-incidents across ESDC and measure the rate at which they decrease.
 
-`rate = (Incidents Year_n - Incidents Year_n-1) / Incidents Year_n-1`
+`rate of cyber incidents = (incidents year_n - incidents year_n-1) / incidents year_n-1`
 
 
+<<<<<<< HEAD
 ## 6. **Client Satisfaction of IITB Services**
+=======
+Cyber resilience is the ability to quickly mitigate and remediate a breach, whether it be from human error or insecure software resulting in operational disruption, data theft or public trust degradation. Cyber resilience will be measured by a decrease rate of intrusion, which is a complex measurement using security frameworks like the [Mitre Att&amp;ck Matrix](https://attack.mitre.org/).
+
+`rate of cyber resilience = TBD`
+
+## 8. **Client Satisfaction of IITB Services**
+>>>>>>> 36cf68c5bb61f5eb2b26d04e0da927f8d66757a0
 
 This indicator will use a yearly client survey to capture client satisfaction. Clients are lines of businesses across ESDC. This indicator will be qualitative in nature as client opinions are subjective, and will be used to assessed the perceptions of IITB across ESDC. Note that this survey is different than IITB's APM Program. While the APM program assesses specific applications performance, this Client Satisfaction survey is to assess IITB's overall perception.
 
