@@ -39,10 +39,9 @@ It will support the digital transformation of how public servants work and serve
 
 IITB must adapt to meet the demands and expectations of its clients, stakeholders, partners and employees.
 In addition to implementing the changes required by the PIN, it will also align the department with the [GC Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html) by empowering staff to deliver better services and collaborate widely while also enabling them to work in the open.
-
 The biggest risk is the potential exposure of sensitive information; either inadvertently, accidentally, or deliberately.
-
-The following solutions could be used to address the risks:
+Cyber Security should looks at residual risks and methods to mitigate them while balancing user experience and ability for employees to perform their work.
+Below are the mitigation recommended:
 
 #### Data Leak Prevention
 
