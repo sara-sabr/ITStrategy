@@ -49,9 +49,9 @@ A solution that forces classification of documents and emails as well as basic r
 
 #### Second Open Network
 
-The R&D team has been piloting a to route traffic to site that use a lot of bandwidth directly to the Internet.
-This type of solution could mitigate the risk of making network performance worse and could even reduce the stress on the corporate network.
-It would also eliminate the need to block sites that are flagged for using too much bandwidth.
+The R&D team is working on a proof of concept to route internet traffic away from the internal corporate network.
+This type of solution would reduce the use of strain on the network.
+It would also give access to sites that are blocked purely for using too much bandwidth.
 
 #### Digital Worker Profiles
 
