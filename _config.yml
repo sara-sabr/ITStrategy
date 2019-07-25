@@ -13,7 +13,7 @@ markdown: kramdown
 include: ["_pages"]
 exclude: ["wip-tec", "CONTRIBUTING.MD", "cspell.json", "LICENSE", "link-check.js", "package.json", "package-lock.json", "README.md"]
 
-# I18n
+# i18n
 description:
   en: Working in the open! Our work in progress, list of reference material and presentations.
   fr: Travailler ouvertement! Nos travaux en cours, liste de documents de références et présentations.
@@ -44,3 +44,6 @@ lastModified:
 blogPosts:
   en: Our Blog Posts
   fr: Nos Billets
+notice:
+  en: All work found on this site are ideas and proposals from the IT Strategy team within ESDC. Content here does not represent the official stand of ESDC nor the Government of Canada at large.
+  fr: Tous les travaux présentés sur ce site sont des idées et des propositions de l'équipe de la stratégie informatique de EDSC. Le contenu présenté ici ne représente pas la position officielle de EDSC ni celle du gouvernement du Canada en général.

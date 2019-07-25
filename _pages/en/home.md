@@ -20,5 +20,3 @@ We've also set up a few CI tests in order to keep our content clean but also to 
 {% include listPages.md %}
 
 {% include listPosts.md %}
-
-
