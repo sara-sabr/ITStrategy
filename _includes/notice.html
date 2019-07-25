@@ -1,12 +1,5 @@
-<p>
-    <a class="btn btn-primary" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false"
-        aria-controls="collapseExample">
-        Note
-    </a>
-</p>
-<div class="collapse" id="collapseExample">
-    <div class="card card-body alert alert-warning">
-        {{ site.notice[page.lang]}}
-    </div>
+<div class="container">
+  <div class="alert alert-warning" role="alert">
+    {{ site.notice[page.lang]}}
+  </div>
 </div>
-<script src="//cdn.jsdelivr.net/npm/details-polyfill@1/index.min.js" async></script>
