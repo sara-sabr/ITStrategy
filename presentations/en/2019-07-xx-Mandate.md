@@ -1,6 +1,6 @@
 # Mandate
 
-## IT Strategy
+## IT Strategy - IITB
 
 2019-07-xx
 
@@ -24,7 +24,7 @@ As a student who isn't taking any courses this summer, I decided to look for wor
 
 ## Mission
 
-### Team's reason for existence
+###  Reason for existence
 
 Be the catalysts of change within IITB to lay the path for the evolution of ESDC's digital services.
 
@@ -32,7 +32,7 @@ Be the catalysts of change within IITB to lay the path for the evolution of ESDC
 
 ## Mandate
 
-### Team's authority within IITB
+### Authority
 
 - Diagnose key ESDC organisational problems
 - Identify recommended course of action to any ESDC governance body
@@ -42,7 +42,7 @@ Be the catalysts of change within IITB to lay the path for the evolution of ESDC
 
 ---
 
-## Team's Guiding Principles
+## Guiding Principles
 
 - Work collaboratively
 - Continuous learning
