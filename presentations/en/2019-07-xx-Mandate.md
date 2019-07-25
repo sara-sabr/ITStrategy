@@ -24,7 +24,7 @@ As a student who isn't taking any courses this summer, I decided to look for wor
 
 ## Mission
 
-###  Reason for existence
+### Reason for existence
 
 Be the catalysts of change within IITB to lay the path for the evolution of ESDC's digital services.
 
