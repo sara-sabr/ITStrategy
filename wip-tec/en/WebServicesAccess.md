@@ -43,11 +43,16 @@ It will support the digital transformation of how public servants work and serve
 
 IITB must adapt to meet the demands and expectations of its clients, stakeholders, partners and employees.
 In addition to implementing the changes required by the PIN, it will also align the department with the [GC Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html) by empowering staff to deliver better services and collaborate widely while also enabling them to work in the open.
-When access to collaboration tools and sites is restricted, instead of increasing protection, the opposite occurs.
-Users will find a way around the blocks if it makes their life easier.
-Security is more than just locking things down; user experience must also be considered.
 
-#### Bandwidth
+The biggest risk is the potential exposure of sensitive information; either inadvertently, accidentally, or deliberately.
+
+The following solutions could be used to address the risks:
+
+#### Data Leak Prevention
+
+A solution that forces classification of documents and emails as well as basic rules around the sharing of information through the network would allow our firewall to detect and prevent that information from getting out of the network.
+
+#### Second Open Network
 
 The R&D team has been piloting a to route traffic to site that use a lot of bandwidth directly to the Internet.
 This type of solution could mitigate the risk of making network performance worse and could even reduce the stress on the corporate network.
