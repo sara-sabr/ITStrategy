@@ -370,7 +370,17 @@ Notice that we're using the same command as when we run the website locally but 
 
 As part of our desire to work in the open, we are leveraging [Reveal.js](https://revealjs.com/#/), an open source framework project to generate web based presentations.
 
-To take a markdown file and generate a presentation on the website, you can use the following structure
+To take a markdown file and generate a presentation on the website, you need to put your presentation in the `presentations` folder and the appropriate language subfolder:
+
+![Presentations folders](assets/images/presentations-layout.png)
+
+You can then create a link and use the following URL structure:
+
+```html
+https://sara-sabr.github.io/ITStrategy/presentation.html?markdown=/<lang>/<filename>.md
+```
+
+Where `lang` is the folder `en` or `fr` and `filename` is the presentation's file name.
 
 ## Hacker Slides
 
