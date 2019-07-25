@@ -32,10 +32,6 @@ Bandwidth use is already high and can slow down the network during peaks. Open a
 
 There is a perception that open access to online services and tools will lower productivity.
 
-#### Large Workforce With Various Work Profiles
-
-ESDC is a large department, with over 27000 employees, and some categories of employees, based on their work profile, may not require the same access to online services as IT, policy and other groups.
-
 ### Considerations
 
 More open access to the Internet will assist ESDC employees to conduct the business of the department more efficiently and effectively.
@@ -60,7 +56,8 @@ It would also eliminate the need to block sites that are flagged for using too m
 
 #### Digital Worker Profiles
 
-If not all groups currently require or want more open access to the Internet, we can expect that more and more of them will in the future.
+ESDC is a large department with over 27000 employees, and some categories of employees, based on their work profile, may not require the same access to online services as IT, policy and other groups.
+
 Current branches that would benefit:
 
 - IITB
