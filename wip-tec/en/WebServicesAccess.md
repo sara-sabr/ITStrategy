@@ -14,9 +14,7 @@ The recent [Direction on Enabling Access to Web Services: Policy Implementation 
 
 ### Issues
 
-Sites that are classified as instant messaging, email, cloud storage and other online collaboration tools are blocked for ESDC employees on the network.
-
-These categories are usually blocked for the following reasons:
+Sites that are classified as instant messaging, email, cloud storage and other online collaboration tools are blocked for ESDC employees on the network. These categories are usually blocked for the following reasons:
 
 #### Risk of exposure of classified information
 
@@ -43,7 +41,10 @@ The biggest risk is the potential exposure of sensitive information; either inad
 Cyber Security should looks at residual risks and methods to mitigate them while balancing user experience and ability for employees to perform their work.
 Below are the mitigation recommended:
 
-#### Data Leak Prevention
+#### Perimeter Protection
+
+A tool that forces all electronic content to be categorized by classification and can clearly alerts the end user of such classification.
+Such tool is to augment the DLP program by providing it with metadata description of the electronic content where, should the content being uploaded not match the security of the site, it flags infractions for later investigation or just blocks them entirely.
 
 A solution that forces classification of documents and emails as well as basic rules around the sharing of information through the network would allow our firewall to detect and prevent that information from getting out of the network.
 
@@ -55,11 +56,18 @@ It would also give access to sites that are blocked purely for using too much ba
 
 #### Digital Worker Profiles
 
-ESDC is a large department with over 27000 employees, and some categories of employees, based on their work profile, may not require the same access to online services as IT, policy and other groups.
+ESDC has a large amount of employees with a broad range of work profiles.
+Although currently not all types of employees require open access to the Internet, expect more and more of them will require access in the future due to ESDC becoming a more open organisation and adopting more public cloud SaaS.
 
-Current branches that would benefit:
+Digital work profile needs to be created to effectively manage this adoption to online services.
+Employees will be tied to a particular work profile, based on their role, and this work profile will be allowed or not access to online services.
 
-- IITB
+The list of current work profile, with the recommended settings for online access is as follows:
+
+Current work profiles that would benefit:
+
+- IT
+- Policy
 - ...
 
 #### Awareness
@@ -71,7 +79,12 @@ This information is already available on the Intranet and routinely communicated
 
 ## Next Steps
 
-Should you approve, the Strategy team will work with Security and others at IITB to make access to the Internet open by default at ESDC and to ensure training opportunities are available regarding the classification of information and the acceptable use of external cloud services and tools.
+Should you approve, the IT Strategy team will:
+
+1. Work with the Operations team to start grouping ESDC employees into work profiles
+2. Work with IT Security and DSO to open up access to online services based on work profiles, starting with the lowest risks first
+3. Work with IT Security and DSO to identify the strategic objectives and priority actions from the Departmental Security Plan that needs to be addressed in order to open up access to online services
+4. Research, evaluate, and recommend Open Source solutions that would satisfy the risk mitigation needs outline above
 
 ### Appendix
 
@@ -104,7 +117,7 @@ Should you approve, the Strategy team will work with Security and others at IITB
 ##### Not Blocked
 
 - https://hub.docker.com/
-- https://www.facebook.com/
+- https://www.facebook.com/ (Websockets blocked)
 - https://framadrive.org/
 - https://framapad.org/
 - https://github.com/  (Websockets and SSH blocked)
