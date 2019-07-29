@@ -5,15 +5,13 @@
 Activities which align to this include, though are not limited to 
 
 - Ensuring learning materials are available to staff 
-- Staff is guarenteed at least 1h minutes per day to be spent learning or improving how they work 
-- Improving how they worked is defined as any acitivity to increase the efficiency of their work or a process 
+- Staff is guaranteed at least 1h minutes per day to be spent learning or improving how they work 
+- Improving how they worked is defined as any activity to increase the efficiency of their work or a process 
 
 This approach aligns with section [18.04, part a, item 3, of the Computer Systems Agreement Between the Treasury Board and the Professional Institute of the
 Public Service of Canada](https://www.tbs-sct.gc.ca/agreements-conventions/view-visualiser-eng.aspx?id=1#toc12212212224) which reads, 
 
-```
-carry out research in the employee’s field of specialization not specifically related to his assigned work projects when, in the opinion of the Employer, such research is needed to enable the employee to fill his present role more adequately;
-```
+> carry out research in the employee’s field of specialization not specifically related to his assigned work projects when, in the opinion of the Employer, such research is needed to enable the employee to fill his present role more adequately;
 
 _____
 
@@ -26,7 +24,7 @@ i. a course given by the Employer;
 ii. a course offered by a recognized academic institution;
 iii. a seminar, convention or study session in a specialized field directly related to the employee’s work.
 
-To asssit the department in promoting a modern environment which enables a culture of learning to flourish within Employment Services and Development Canada and the Government of Canada at large the following assumption (Option 1) should be explicitly validated or Option 2 should be added as an item under section a under 18.03 Attendance at conferences, conventions and courses
+To assist the department in promoting a modern environment which enables a culture of learning to flourish within Employment Services and Development Canada and the Government of Canada at large the following assumption (Option 1) should be explicitly validated or Option 2 should be added as an item under section a under 18.03 Attendance at conferences, conventions and courses
 
 #### Option 1 
 
