@@ -2,8 +2,6 @@
 
 ## IT Strategy - IITB
 
-2019-07-xx
-
 ---
 
 ## Vision
@@ -152,20 +150,13 @@ Do not compete with the private sector. Teams must prioritize integrating ESDC s
   - Interact with Canadians about job opportunities through automated notifications through LinkedIn
   - Dedicate more resources focused exclusively on developing service interfaces
 
-Delivering programs that help Canadians move through life’s transitions, from school to work, from one job to another, *from unemployment to employment* and from the workforce to retirement
+Delivering programs that help Canadians move through life's transitions, from school to work, from one job to another, *from unemployment to employment* and from the workforce to retirement
 
 ---
 
 ### Avoid Toil
 
 Toil is the kind of work tied to running a production service that tends to be manual, repetitive, automatable, tactical, devoid of enduring value, and that scales linearly as a service grows.
-
---
-
-#### Repercussions
-
-- Re-define success
-  - https://twitter.com/STP_PTS/status/1144268119025885186
 
 --
 
