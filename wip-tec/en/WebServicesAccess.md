@@ -19,8 +19,8 @@ Sites that are classified as instant messaging, email, cloud storage and other o
 #### Risk of exposure of classified information
 
 - **Inadvertent sharing** - lack of policy awareness, a specific form of human error
-- **Accidental sharing** - also human error (usually being unaware that they shared – for example, saving a file to cloud without realizing it, or saving something to cloud they thought was unclassified but was not)
-- **Deliberate sharing** - knowing the policy and doing it anyways (either they decide to manage the risk, or they don’t care)
+- **Accidental sharing** - also human error (usually being unaware that they shared or posting something they thought was unclassified but was not)
+- **Deliberate sharing** - knowing the policy and doing it anyways (either they decide to manage the risk, or they don't care)
 
 #### Network Performance
 
@@ -44,7 +44,7 @@ Below are the mitigation recommended:
 #### Perimeter Protection
 
 A tool that forces all electronic content to be categorized by classification and can clearly alerts the end user of such classification.
-Such tool is to augment the DLP program by providing it with metadata description of the electronic content where, should the content being uploaded not match the security of the site, it flags infractions for later investigation or just blocks them entirely.
+This will augment the DLP program by providing it with metadata description of the electronic content where, should the content being uploaded not match the security of the site, it flags infractions for later investigation or just blocks them entirely.
 
 A solution that forces classification of documents and emails as well as basic rules around the sharing of information through the network would allow our firewall to detect and prevent that information from getting out of the network.
 
@@ -64,10 +64,10 @@ Employees will be tied to a particular work profile, based on their role, and th
 
 The list of current work profile, with the recommended settings for online access is as follows:
 
-Current work profiles that would benefit:
+Current work profiles that would benefit and where open access is recommended:
 
-- IT
-- Policy
+- Management - Manager level and above
+- Power users - Developer, QA tester, Systems/Databases administrator, ..
 - ...
 
 #### Awareness
