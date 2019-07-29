@@ -6,7 +6,7 @@ Activities which align to this include, though are not limited to
 
 - Ensuring learning materials are available to staff 
 - Staff is guarenteed at least 1h minutes per day to be spent learning or improving how they work 
-    - Improving how they worked is defined as any acitivity to increase the efficiency of their work or a process 
+- Improving how they worked is defined as any acitivity to increase the efficiency of their work or a process 
 
 This approach aligns with section [18.04, part a, item 3, of the Computer Systems Agreement Between the Treasury Board and the Professional Institute of the
 Public Service of Canada](https://www.tbs-sct.gc.ca/agreements-conventions/view-visualiser-eng.aspx?id=1#toc12212212224) which reads, 
