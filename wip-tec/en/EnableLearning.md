@@ -32,6 +32,6 @@ Interpret *study session* to include self directed study
 
 #### Option 2 
 
-Propose a 4th line entry explicity outlining that career development includes time given by the employer for the employee to dedicate a specific amount of time to continuous learning and continuous improvement within their domain.
+Propose a 4th line entry explicitly outlining that career development includes time given by the employer for the employee to dedicate a specific amount of time to continuous learning and continuous improvement within their domain.
 
 _____
