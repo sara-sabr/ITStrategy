@@ -5,8 +5,11 @@
 Activities which align to this include, though are not limited to 
 
 - Ensuring learning materials are available to staff 
-- Staff is guaranteed at least 1h minutes per day to be spent learning or improving how they work 
-- Improving how they worked is defined as any activity to increase the efficiency of their work or a process 
+- Staff is guaranteed at least 1h per day to be spent learning or improving how they work 
+&nbsp;&nbsp;- Improving how they worked is defined as any activity to increase the efficiency of their work or a process 
+- Conduct [blameless postmortems](https://landing.google.com/sre/sre-book/chapters/postmortem-culture/) following incidents 
+- Learning includes learning from and about others from within your organisation. Encourage collaboration between groups, especially those adjacent in the [value stream](https://dzone.com/articles/value-stream-mapping-and-devops)
+&nbsp;&nbsp;- For example, setup biweekly meetings with other groups within your department (including other branches and non-techical groups)
 
 This approach aligns with section [18.04, part a, item 3, of the Computer Systems Agreement Between the Treasury Board and the Professional Institute of the
 Public Service of Canada](https://www.tbs-sct.gc.ca/agreements-conventions/view-visualiser-eng.aspx?id=1#toc12212212224) which reads, 
