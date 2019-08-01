@@ -15,7 +15,7 @@ Part of ESDC Programs and Services funding include an IT-dedicated fund in order
 ## The How
 
 The relationship between IT risks and business outcomes needs to be established.
-Each ESDC programs and services has been mapped out from the citizen's point of view, to the IT systems's operations at each step of the service delivery.
+Each ESDC programs and services has been mapped out from the citizen's point of view, to the IT systems' operations at each step of the service delivery.
 
 The relationship between IT and Lines of Business is one.
 Product Management and DevOps enables the constant feedback loop between the value chain components.
