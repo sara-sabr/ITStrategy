@@ -11,7 +11,7 @@ permalink: /mandat.html
 
 ## Vision (image du futur)
 
-L'[Expérience Canadienne](https://github.com/sara-sabr/ITStrategy/blob/master/Strategies/HumanDevelopmentLifeCycle.md), c'est lorsque les Canadiens profitent de façon transparente des services du gouvernement fédéral grâce aux technologies modernes.
+L'[Expérience Canadienne](https://github.com/sara-sabr/ITStrategy/blob/master/wip-tec/en/human-development-life-cycle.md), c'est lorsque les Canadiens profitent de façon transparente des services du gouvernement fédéral grâce aux technologies modernes.
 
 ## Mission (raison d'être de l'équipe)
 
