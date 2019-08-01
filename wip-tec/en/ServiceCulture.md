@@ -19,8 +19,3 @@ If there exists a group that does not add to the [Value Stream](https://itrevolu
 ### Role of Automation 
 
 ## Scaling the Client Model 
-
-1. 
-2. 
-3.
-4.
