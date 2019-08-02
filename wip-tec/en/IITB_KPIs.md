@@ -24,9 +24,6 @@ The indicator will be measured by using [ESDC's Service Catalogue](https://www.c
 
 `rate of service improvement = (processing time year_n - processing time year_n-1) / processing time year_n-1`
 
-<<<<<<< HEAD
-## 3. **Availability uptime of ESDC core systems**
-=======
 ## 3. **Reduction in toil of IITB and ESDC Services**
 
 Toil is the kind of work tied to running a production service that tends to be manual, repetitive, automatable, tactical devoid of enduring value, and that scales linearly as a service grows. Processing time of ESDC services may decrease by increasing manual labour but that would defeat the purpose of digital and jeopardize the service's sustainability.
@@ -65,19 +62,12 @@ And finally, for each of these ratios, we measure the rate at which they increas
 `rate of X = (ratio x year_n - ratio x year_n-1) / ratio x year_n-1`
 
 ## 4. **Availability uptime of ESDC core systems**
->>>>>>> 36cf68c5bb61f5eb2b26d04e0da927f8d66757a0
 
 Moving IITB into a service-oriented organization will require IITB to manage the complexity and growth of its services pro-actively. The measurement of availability is driven by time loss whereas the measurement of reliability is driven by the frequency and impact of failures. This indicator focuses on availability as it's what clients of the service are concerned with. The ***service's*** maximum allowable downtime, as agreed by the BCP Business Impact Analysis exercise, will be used to assess IITB's service availability. The Core systems will be the ones flagged as *high business value* within [ESDC's Application Portfolio Management (APM) program](http://dialogue/grp/PR6303013/APM_Program/default.aspx).
 
 `service availability ratio = (total elapsed time - sum of downtime) / total elapsed time`
 
-<<<<<<< HEAD
-*Note:* Services are never expected to be up 100% of the time. [See here](http://www.gcpedia.gc.ca/wiki/OCIO_Application_Portfolio_Management/Application_Portfolio_Management_User_Guide#Application_Mission_Criticality_and_Critical_Services) for more details.  
-
-## 4. **Increase rate of delivery by IITB**
-=======
 `service availability target ratio = actual % availability / target % availability`
->>>>>>> 36cf68c5bb61f5eb2b26d04e0da927f8d66757a0
 
 *Note:* Services are never expected to be up 100% of the time. [See here](http://www.gcpedia.gc.ca/wiki/OCIO_Application_Portfolio_Management/Application_Portfolio_Management_User_Guide#Application_Mission_Criticality_and_Critical_Services) for more details.  
 
@@ -95,26 +85,18 @@ And the improvement comes from more time being spent on Projects rather than Cha
 
 `quality of work ratio = (projects work / changes or unplanned work) / dev personnel`
 
-<<<<<<< HEAD
-## 5. **Reduction in Cyber-incidents**
-=======
 ## 6. **Reduction in cyber incidents**
->>>>>>> 36cf68c5bb61f5eb2b26d04e0da927f8d66757a0
 
 This indicator will monitor the number of cyber-incidents across ESDC and measure the rate at which they decrease.
 
 `rate of cyber incidents = (incidents year_n - incidents year_n-1) / incidents year_n-1`
 
 
-<<<<<<< HEAD
-## 6. **Client Satisfaction of IITB Services**
-=======
 Cyber resilience is the ability to quickly mitigate and remediate a breach, whether it be from human error or insecure software resulting in operational disruption, data theft or public trust degradation. Cyber resilience will be measured by a decrease rate of intrusion, which is a complex measurement using security frameworks like the [Mitre Att&amp;ck Matrix](https://attack.mitre.org/).
 
 `rate of cyber resilience = TBD`
 
 ## 8. **Client Satisfaction of IITB Services**
->>>>>>> 36cf68c5bb61f5eb2b26d04e0da927f8d66757a0
 
 This indicator will use a yearly client survey to capture client satisfaction. Clients are lines of businesses across ESDC. This indicator will be qualitative in nature as client opinions are subjective, and will be used to assessed the perceptions of IITB across ESDC. Note that this survey is different than IITB's APM Program. While the APM program assesses specific applications performance, this Client Satisfaction survey is to assess IITB's overall perception.
 
@@ -123,12 +105,5 @@ This indicator will use the following measurement to qualify client satisfaction
 1. Overall satisfaction of IITB's services
 2. Quality of IITB's products (systems)
 3. Responsiveness of IITB's services
-
-## 7. **Project Complexity and Risk Assessment**
-
-
-
-## 8 
-
 
 <!--markdownlint-enable MD029-->
