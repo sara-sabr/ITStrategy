@@ -91,7 +91,6 @@ This indicator will monitor the number of cyber-incidents across ESDC and measur
 
 `rate of cyber incidents = (incidents year_n - incidents year_n-1) / incidents year_n-1`
 
-## 7. **Increase cyber resilience**
 
 Cyber resilience is the ability to quickly mitigate and remediate a breach, whether it be from human error or insecure software resulting in operational disruption, data theft or public trust degradation. Cyber resilience will be measured by a decrease rate of intrusion, which is a complex measurement using security frameworks like the [Mitre Att&amp;ck Matrix](https://attack.mitre.org/).
 
