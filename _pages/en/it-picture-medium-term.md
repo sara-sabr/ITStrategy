@@ -25,7 +25,7 @@ In the following sections, we're trying to take the same end state and create "v
 
 - IITB is now involved in business discussions and decisions
 - 75% of employees are equipped with mobile devices allowing them to work from anywhere
-- Remote employees can always join a meeting or dicussion - Digital First
+- Remote employees can always join a meeting or discussion - Digital First
 - Employees are regularly completing online courses and attending conferences related to technology and business
 - Employees are sharing their experiences and best practices (Tech Talks)
 - All new code is developed in the open by default
