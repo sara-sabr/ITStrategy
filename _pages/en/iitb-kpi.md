@@ -7,7 +7,7 @@ status: posted
 permalink: /iitb-kpi.html
 ---
 
-## IITB Key Performance Indicators (PKIs)
+## IITB Key Performance Indicators (KPIs)
 
 <!--markdownlint-disable MD029-->
 IT Strategies are meant to move the Innovation and Information Technology Branch (IITB) and ESDC towards the end state [Vision of the Canadian Experience](./mandate.html). The following key performance indicators (KPI) will be used to measure those IT Strategies successes. Monitoring those KPIs will be used to adjust strategies as needed to ensure efforts are well invested and remain aligned with [IITB's high level priorities](http://esdc.prv/en/iitb/corporate/Who_We_Are/Plans_and_Priorities/index.shtml) that are to:
