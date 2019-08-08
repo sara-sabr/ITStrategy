@@ -6,20 +6,15 @@ In the following sections, we're trying to take the same end state and create "v
 
 ## Citizen
 
-- Mix of old and new..
-- Current portals and accounts
-- OneGC
-- API Store
-- Pan-Canadian Trust Framework
-- Some benefits integrated with 3rd parties
+- Number of services that require users to submit, or print, PDFs should be reduced by half 
+- Centralized login for all ESDC services 
+- Application processes should be simple and guided. Pages will scrollable instructions outlining details of the application process are a relic of the past. 
+- Pan-Canadian Trust Framework (TODO: How does this impact the citizen?)
+- Some services (TODO: which?) are accessible using services I am already familiar with (Ex: My Bank)
 
-## Businesses
+## Private Sector
 
-- Able to find and integrate with 50% of ESDC services
-
-## Non-profits
-
-- Able to find and integrate with 50% of ESDC services
+- Small businesses should start to innovate using ESDC data sets published through the Open API Store 
 
 ## IITB-ESDC
 
