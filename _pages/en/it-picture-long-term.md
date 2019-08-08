@@ -4,20 +4,41 @@ This is a working document to help create a picture of what will IITB look in th
 
 In the following sections, we're trying to take the same end state and create "views" where different audiences would be looking at ESDC and see different things.
 
-## Citizen
+- [Citizens](#citizens)
+- [Private Sector](#private-sector)
+- [IITB-ESDC](#iitb-esdc)
+- [Government Partners](#government-partners)
 
-- Services are automated and self-service by default
-- 95% use digital services mapped to Canadian profiles
-- Benefits are automatically given based on major life events
-- Service centres educate or use digital services on behalf of clients (for 5%)
-- In-person service through kiosk to address 5% of clients who are not online or want a more personalized service
-- Departments have common kiosks to offer services (integrate with IRCC PassPort service)
-- Electronic kiosks (or robots) in public areas like shopping malls (win-win for government and businesses + generate economic growth)
-- Service centres staff are deployed in outreach programs to raise awareness in low uptake areas
-- GC (OneGC) portal provides access to all services (not just ESDC) in Ask Once fashion
-- Benefits are integrated into third party platforms and services
+## Citizens
 
-### Government IoT Integration 
+- [Automatic Enrollment and Delivery](#automatic-enrollment-and-delivery)
+- [Self-Service](#self-service)
+- [Service Centers](#service-centers)
+- [IoT Integration](#iot-integration)
+
+### Automatic Enrollment and Delivery
+
+Enrollment and delivery of services is automated by default and wherever possible.
+GC Services are integrated with widely used third party platforms and services (Banks, CRA, Social media, Job boards, Internet of things, ..).
+90% of citizens (33 300 000 people) have a trusted Canadian profile used to verify/validate identity.
+These citizens receive their benefits seamlessly throughout their lives as major life events trigger the delivery of benefits.
+
+### Self-Service
+
+The GC (OneGC) Portal provides access to services and benefits (not just ESDC) in tell us once fashion.
+Registering to the Portal will create or use the trusted Canadian profile and enable automatic enrollment and delivery in the future.
+Help for using the Portal is available directly on the Portal using instant messaging (text, voice or video) as well as by phone.
+
+### Service Centers
+
+For the 10% not enrolled automatically and unable to use the GC Portal (3 700 000 people), small service centres are available, especially in remote regions.
+Their role is to help citizens register and use digital services.
+They can also use the digital services on behalf of clients.
+
+GC departments have common kiosks to offer services, such as passports, taxes, grants as well as benefits from ESDC.
+Outreach programs are deployed to raise awareness in low uptake areas.
+
+### IoT Integration
 
 ESDC does not develop products or services that compete with the private sector.
 IoT devices will begin to permeate all aspects of life and ESDC should integrate itself into the ecosystem. 
@@ -36,12 +57,21 @@ For more details on its implementation, please refer to the [Business section](#
 
 ## Private Sector
 
-- Able to find and integrate with all ESDC services
+Any platform or device can be integrated with GC and ESDC services.
+This is possible because ESDC services are available as APIs that can be used by third party platforms and services (Banks, CRA, Social media, Job boards, Internet of things, ..).
+
 - Create ecosystem of services by leveraging private sector expertise where opportunities exist (win-win public-private partnerships)
   - E.g., banks detecting missed paycheck, job websites targeting people who are job hunting
   - Enhanced security through integration in private sector service (e.g., banks detecting fraudulent transactions)
 
 ## IITB-ESDC
+
+### Modern Open Organization
+
+IITB is a modern open organization with a very open culture.
+Wherever possible code and projects are developed in the open and use of open source software is the norm.
+
+### Strong culture of learning
 
 TODO: Split in two (IITB and Partners/Clients)
 
