@@ -23,17 +23,20 @@ In the following sections, we're trying to take the same end state and create "v
 
 ## IITB-ESDC
 
-- IITB is now involved in business discussions and decisions
-- 75% of employees are equipped with mobile devices allowing them to work from anywhere
-- Remote employees can always join a meeting or discussion - Digital First
-- Employees are regularly completing online courses and attending conferences related to technology and business
+- IITB controls 20% of it's funding for Internal IT Projects 
+- IITB is involved in business discussions and decisions (TODO: Are we now? What body should we be apart of, and who should be a part of it?)
+- 75% of employees are equipped with mobile devices allowing them to work from anywhere (TODO: Map trend and profiles on to metric )
+- Flexible work arragnements where employees may work remotely, insofar as it does not impact their ability to perform in their role 
+- Employees are empowered to continuously learn through self directed learning. Management must allow at least 1 hour per day per employee to be spent learning new, or developing existing, skills 
 - Employees are sharing their experiences and best practices (Tech Talks)
-- All new code is developed in the open by default
-- All new projects are API first
-- All new projects use cloud infrastructure
-- Enterprise Architecture (EA) actively considers open source software and open standards first
-- Teams work using Agile and DevOps methodologies
-- Continuous Integration (CI), Continuous Delivery (CD) and automation are the norm
+- Open by Default Development Policy 
+  - Justification required as to why a project is not being developed in the open
+- All newly architected solutuions must communicate through APIs 
+- Cloud First
+  - Projects by default must use the cloud. Justification required if the project is not intending to use the cloud 
+- (TODO: What does EAs role look like in 5 years? Sources and references [CDS or 18f, for example])
+- All new projects must deliver a functional product at the end of each quarter, at the absolute latest.
+- Developement teams have access to modern development tools needed to keep pace with industry best practices. 
 
 ## ESDC Programs
 
