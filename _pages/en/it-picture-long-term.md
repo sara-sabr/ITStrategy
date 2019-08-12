@@ -1,19 +1,20 @@
 # IT Vision Picture - Long Term
 
-This is a working document to help create a picture of what will IITB look in the medium term for ESDC.
+This is a working document to help create a picture of what will IITB (Innovation Information and Technology Branch) look in the medium term for ESDC (Employment and Social Development Canada).
 
 In the following sections, we're trying to take the same end state and create "views" where different audiences would be looking at ESDC and see different things.
 
-- [Citizens](#citizens)
-- [Private Sector](#private-sector)
-- [IITB-ESDC](#iitb-esdc)
-- [Government Partners](#government-partners)
+- [IT Vision Picture - Long Term](#IT-Vision-Picture---Long-Term)
+  - [Citizens](#Citizens)
+    - [Automatic Enrollment and Delivery](#Automatic-Enrollment-and-Delivery)
+    - [Self-Service](#Self-Service)
+    - [Service Centers and Outreach](#Service-Centers-and-Outreach)
+  - [Private Sector](#Private-Sector)
+  - [IITB-ESDC](#IITB-ESDC)
+    - [Modern Open Organization](#Modern-Open-Organization)
+    - [Strong culture of learning](#Strong-culture-of-learning)
 
 ## Citizens
-
-- [Automatic Enrollment and Delivery](#automatic-enrollment-and-delivery)
-- [Self-Service](#self-service)
-- [Service Centers and Outreach](#service-centers-and-outreach)
 
 ### Automatic Enrollment and Delivery
 
@@ -29,6 +30,8 @@ Registering to the Portal will create or use the trusted Canadian profile and en
 Help for using the Portal is available directly on the Portal using instant messaging (text, voice or video) as well as by phone.
 This assistance will be delivered by AI or services center staff.
 
+TODO: Add an architecture view mapping our GC partners (e.g. TBS DXP to integrate with OneGC Portal, SSC for public cloud).
+
 ### Service Centers and Outreach
 
 For the 10% not enrolled automatically and unable to use the GC Portal (3 700 000 people), small service centres are available, especially in remote regions.
@@ -40,12 +43,12 @@ Outreach programs are deployed to raise awareness in low uptake areas.
 
 ## Private Sector
 
-Any platform or device can be integrated with GC and ESDC services.
+Any platform or device can be integrated with GC and ESDC services and development is often done in partnership with the private sector.
 This is possible because ESDC services are available as APIs that can be used by third party platforms and services (Banks, CRA, Social media, Job boards, Internet of things, ..).
 
-- Create ecosystem of services by leveraging private sector expertise where opportunities exist (win-win public-private partnerships)
-  - E.g., banks detecting missed paycheck, job websites targeting people who are job hunting
-  - Enhanced security through integration in private sector service (e.g., banks detecting fraudulent transactions)
+Ecosystem of services are created by leveraging private sector expertise where opportunities exist (win-win public-private partnerships), e.g.:
+- Banks detecting missed paycheck, job websites targeting people who are job hunting...
+- Enhanced security through integration in private sector service (e.g., banks detecting fraudulent transactions)
 
 ## IITB-ESDC
 
@@ -61,17 +64,6 @@ IITB is the digital, IM and IT advisor and enabler for ESDC and part of major bu
 
 ### Strong culture of learning
 
-IITB is a modern open organization with a very open culture that values learning (TODO: find a tangible example)
+IITB has a very open culture that values learning (TODO: find a tangible example)
 
-## Government Partners
-
-For:
-- Digital Exchange (APIs, Messaging)
-- Cloud Brokering
-- HR Services
-
-## Terms 
-
-ESDC: Employment and Social Development Canada
-IoT: [Internet of Things](https://en.wikipedia.org/wiki/Internet_of_things)
-IRCC: Immigration, Refugees and Citizenship Canada
+TODO: Add recruitment best practices, including for domains other than IT.
