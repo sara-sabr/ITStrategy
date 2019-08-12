@@ -53,17 +53,15 @@ This is possible because ESDC services are available as APIs that can be used by
 
 IITB is a modern open organization with a very open culture.
 Wherever possible code and projects are developed in the open and use of open source software is the norm.
+IITB is the digital, IM and IT advisor and enabler for ESDC and part of major business decisions.
+
+- 90% of employees are able to work from anywhere (TODO: validate measure with trends)
+- All internal and external services are available through APIs
+- 98% of services are running on public cloud infrastructure (TODO: find cloud adoption rates)
 
 ### Strong culture of learning
 
-TODO: Split in two (IITB and Partners/Clients)
-
-- IITB is the digital, IM and IT advisor and enabler for ESDC
-- IITB is part of major business decisions
-- 90% of employees are able to work from anywhere (TODO: validate measure with trends)
-- IITB is a modern open organization with a very open culture that values learning (TODO: find a tangible example)
-- All internal and external services are available through APIs
-- 98% of services are running on public cloud infrastructure (TODO: find cloud adoption rates)
+IITB is a modern open organization with a very open culture that values learning (TODO: find a tangible example)
 
 ## Government Partners
 
