@@ -13,8 +13,7 @@ In the following sections, we're trying to take the same end state and create "v
 
 - [Automatic Enrollment and Delivery](#automatic-enrollment-and-delivery)
 - [Self-Service](#self-service)
-- [Service Centers](#service-centers)
-- [IoT Integration](#iot-integration)
+- [Service Centers and Outreach](#service-centers-and-outreach)
 
 ### Automatic Enrollment and Delivery
 
@@ -28,8 +27,9 @@ These citizens receive their benefits seamlessly throughout their lives as major
 The GC (OneGC) Portal provides access to services and benefits (not just ESDC) in tell us once fashion.
 Registering to the Portal will create or use the trusted Canadian profile and enable automatic enrollment and delivery in the future.
 Help for using the Portal is available directly on the Portal using instant messaging (text, voice or video) as well as by phone.
+This asistance will be delivered by AI or services center staff.
 
-### Service Centers
+### Service Centers and Outreach
 
 For the 10% not enrolled automatically and unable to use the GC Portal (3 700 000 people), small service centres are available, especially in remote regions.
 Their role is to help citizens register and use digital services.
@@ -37,23 +37,6 @@ They can also use the digital services on behalf of clients.
 
 GC departments have common kiosks to offer services, such as passports, taxes, grants as well as benefits from ESDC.
 Outreach programs are deployed to raise awareness in low uptake areas.
-
-### IoT Integration
-
-ESDC does not develop products or services that compete with the private sector.
-IoT devices will begin to permeate all aspects of life and ESDC should integrate itself into the ecosystem. 
-
-An example of the repercussions of such an implementation can be found [here](https://github.com/sara-sabr/ITStrategy/blob/master/wip-tec/en/human-development-life-cycle.md).
-
-In a service-based environment, success is not measured by the number of users your service attracts, but rather the number of users amassed by the services that leverage your service. 
-- TODO: Add source (Microsoft)
-
-User privacy must still be preserved and modern digital identity recognition technologies are leveraged (e.g. facial, biometrics).
-
-For more details on its implementation, please refer to the [Business section](##Businesses)
-
-> “Automatic enrollment reduces the burden on many seniors by enabling them to receive their Old Age Security pension and Guaranteed Income Supplement at age 65 without ever having to apply for them. We continue our efforts to modernize the Old Age Security and Guaranteed Income Supplement services to meet the needs of Canadians.”
-> > ––The Honourable Jean-Yves Duclos, Minister of Families, Children and Social Development
 
 ## Private Sector
 
