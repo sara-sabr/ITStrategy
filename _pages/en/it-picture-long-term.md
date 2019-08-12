@@ -4,15 +4,14 @@ This is a working document to help create a picture of what will IITB (Innovatio
 
 In the following sections, we're trying to take the same end state and create "views" where different audiences would be looking at ESDC and see different things.
 
-- [IT Vision Picture - Long Term](#IT-Vision-Picture---Long-Term)
-  - [Citizens](#Citizens)
-    - [Automatic Enrollment and Delivery](#Automatic-Enrollment-and-Delivery)
-    - [Self-Service](#Self-Service)
-    - [Service Centers and Outreach](#Service-Centers-and-Outreach)
-  - [Private Sector](#Private-Sector)
-  - [IITB-ESDC](#IITB-ESDC)
-    - [Modern Open Organization](#Modern-Open-Organization)
-    - [Strong culture of learning](#Strong-culture-of-learning)
+- [Citizens](#Citizens)
+  - [Automatic Enrollment and Delivery](#Automatic-Enrollment-and-Delivery)
+  - [Self-Service](#Self-Service)
+  - [Service Centers and Outreach](#Service-Centers-and-Outreach)
+- [Private Sector](#Private-Sector)
+- [IITB-ESDC](#IITB-ESDC)
+  - [Modern Open Organization](#Modern-Open-Organization)
+  - [Strong Culture of Learning](#Strong-culture-of-learning)
 
 ## Citizens
 
@@ -62,7 +61,7 @@ IITB is the digital, IM and IT advisor and enabler for ESDC and part of major bu
 - All internal and external services are available through APIs
 - 98% of services are running on public cloud infrastructure (TODO: find cloud adoption rates)
 
-### Strong culture of learning
+### Strong Culture of Learning
 
 IITB has a very open culture that values learning (TODO: find a tangible example)
 
