@@ -27,7 +27,7 @@ These citizens receive their benefits seamlessly throughout their lives as major
 The GC (OneGC) Portal provides access to services and benefits (not just ESDC) in tell us once fashion.
 Registering to the Portal will create or use the trusted Canadian profile and enable automatic enrollment and delivery in the future.
 Help for using the Portal is available directly on the Portal using instant messaging (text, voice or video) as well as by phone.
-This asistance will be delivered by AI or services center staff.
+This assistance will be delivered by AI or services center staff.
 
 ### Service Centers and Outreach
 
