@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Service Culture
-ref: serviceCulture
+ref: service-culture
 lang: en
 status: posted
 permalink: /service-culture.html
