@@ -54,7 +54,7 @@ In the following sections, we're trying to take the same end state and create "v
 - Open by Default Development Policy
   - Justification required as to why a project is not being developed in the open
 - All newly architected solutions must communicate through APIs
-- Cloud First
+- Public Cloud First
   - Projects by default must use the cloud. Justification required if the project is not intending to use the cloud
 - (TODO: What does EAs role look like in 5 years? Sources and references [CDS or 18f, for example])
 <<<<<<< HEAD
