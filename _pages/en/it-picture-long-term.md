@@ -21,7 +21,7 @@ In the following sections, we're trying to take the same end state and create "v
 ### Automatic Enrollment and Delivery
 
 Enrollment and delivery of services is automated by default and wherever possible.
-Canadians are benefiting seamlessly from the federal government services through modern technologies.
+These Canadians are benefiting seamlessly from GC services.
 GC Services are integrated with widely used third party platforms and services (Banks, CRA, Social media, Job boards, Internet of things, ..).
 Services are accessible anywhere, anytime, from any device, and from any trusted partner.
 90% of citizens (33 300 000 people) have a trusted Canadian profile used to verify/validate identity.
@@ -32,7 +32,7 @@ These citizens receive their benefits seamlessly throughout their lives as major
 The GC (OneGC) Portal provides access to services and benefits (not just ESDC) in tell us once fashion.
 Registering to the Portal will create or use the trusted Canadian profile and enable automatic enrollment and delivery in the future.
 Help for using the Portal is available directly on the Portal using instant messaging (text, voice or video) as well as by phone.
-This assistance will be delivered by AI or services center staff.
+Results in easier access to services through delivering services to the client through hands-off automated processes or supplemented by staff if required.
 
 TODO: Add an architecture view mapping our GC partners (e.g. TBS DXP to integrate with OneGC Portal, SSC for public cloud).
 
@@ -69,6 +69,8 @@ Ecosystem of services are created by leveraging private sector expertise where o
 IITB is a modern open organization with a very open culture.
 Wherever possible code and projects are developed in the open and use of open source software is the norm.
 IITB is the digital, IM and IT advisor and enabler for ESDC and part of major business decisions.
+IITB is responsible for providing the automated services required to run a secure and agile business.
+This includes, automated software onboarding approval, key data exchange systems with which business may interact with, and an environment by which business may securely deploy their own solutions.
 
 - 90% of employees are able to work from anywhere (TODO: validate measure with trends)
 - All internal and external services are available through APIs
