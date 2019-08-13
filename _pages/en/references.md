@@ -1,6 +1,15 @@
-# Reference Materials
+---
+layout: default
+title: References
+ref: references
+lang: en
+status: posted
+permalink: /references.html
+---
 
-The following are reference materials for the IT Strategy team to use.
+# Reference Materials
+The following are reference materials for the IT Strategy team to use. 
+
 These materials are meant to be sources of inspiration, guidance, or policies that we need to consider when crafting our strategies.
 
 Some of that content may only be available on GC/ESDC network
@@ -22,6 +31,7 @@ Some of that content may only be available on GC/ESDC network
 - [TB Policy on service and digital](http://dialogue/grp/BU6810070/Shared%20Documents/Reference%20Materials/Policy%20on%20service%20and%20digital.docx) ([GCCollab group](https://gccollab.ca/groups/profile/588431/endigital-numu00e9riquefrdigital-numu00e9rique))
 - [TB Directive on service and digital](http://dialogue/grp/BU6810070/Shared%20Documents/Reference%20Materials/Directive%20on%20service%20and%20digital.docx) ([GCCollab group](https://gccollab.ca/groups/profile/588431/endigital-numu00e9riquefrdigital-numu00e9rique))
 
+<<<<<<< HEAD
 ## General
 
 - [DARPA](https://www.darpa.mil/about-us/about-darpa): Mission is "to make pivotal investments in breakthrough technologies for national security"
@@ -46,7 +56,7 @@ Some of that content may only be available on GC/ESDC network
 - [2018 list of presentations](https://2018.fwd50.com/)
 - [2018 Digital Social Innovation presentation from Digital Minister of Taiwan](https://www.slideshare.net/FWD50/fwd50-2018-digital-social-innovation)
 
-## Books
+### Books
 
 |Title|Author|Publishing Year|Publisher|Description|
 |:-------|:-------|:------:|:-----|:------|

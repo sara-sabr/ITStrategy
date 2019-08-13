@@ -1,10 +1,19 @@
-# IT Vision Picture - Medium Term
+---
+layout: default
+title: IT Vision Picture - Medium Term
+ref: it-picture-medium-term
+lang: en
+status: posted
+permalink: /it-picture-medium-term.html
+---
+
+## IT Vision Picture - Medium Term
 
 This is a working document to help create a picture of what will IITB look in the medium term for ESDC.
 
 In the following sections, we're trying to take the same end state and create "views" where different audiences would be looking at ESDC and see different things.
 
-## Citizen
+### Citizen
 
 - Number of services that require users to submit, or print, PDFs should be reduced by half
 - Centralized login for all ESDC services
@@ -12,11 +21,11 @@ In the following sections, we're trying to take the same end state and create "v
 - Pan-Canadian Trust Framework (TODO: How does this impact the citizen?)
 - Some services (TODO: which?) are accessible using services I am already familiar with (Ex: My Bank)
 
-## Private Sector
+### Private Sector
 
 - Small businesses should start to innovate using ESDC data sets published through the Open API Store
 
-## IITB-ESDC
+### IITB-ESDC
 
 - IITB controls 20% of it's funding for Internal IT Projects
 - IITB is involved in business discussions and decisions (TODO: Are we now? What body should we be apart of, and who should be a part of it?)
@@ -33,6 +42,6 @@ In the following sections, we're trying to take the same end state and create "v
 - All new projects must deliver a functional product at the end of each quarter, at the absolute latest.
 - Development teams have access to modern development tools needed to keep pace with industry best practices.
 
-## ESDC Programs
+### ESDC Programs
 
-## Government Partners
+### Government Partners

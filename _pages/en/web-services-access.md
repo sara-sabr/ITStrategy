@@ -1,4 +1,13 @@
-## Enabling Access to Web Services and Tool at ESDC
+---
+layout: default
+title: Enabling Access to Web Services and Tools at ESDC
+ref: web-services-access
+lang: en
+status: posted
+permalink: /web-services-access.html
+---
+
+## Enabling Access to Web Services and Tools at ESDC
 
 ### Purpose
 

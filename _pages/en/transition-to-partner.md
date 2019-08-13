@@ -1,4 +1,13 @@
-# A Strategy to transition IITB to an ESDC partner
+---
+layout: default
+title: A Strategy to transition IITB to an ESDC partner
+ref: transition-to-partner
+lang: en
+status: posted
+permalink: /transition-to-partner.html
+---
+
+## A Strategy to transition IITB to an ESDC partner
 
 This document articulates a strategy and roadmap for moving IITB into a partner role for ESDC's service delivery capability.
 
@@ -6,15 +15,16 @@ The primary strategic goal of this transformation is to enable more rapid delive
 
 This goal will be achieved through the establishment and execution of the following **7 key strategic initiatives**:
 
-1. [1. Create an Enterprise Information Modeling](#1-create-an-enterprise-information-modeling)
-2. [2. Move towards a Cloud Native organization](#2-move-towards-a-cloud-native-organization)
-3. [3. Invest in an Integration Layer (API-first approach)](#3-invest-in-an-integration-layer-api-first-approach)
-4. [4. Implement DevOps](#4-implement-devops)
-5. [5. Shift to Agile Project Management](#5-shift-to-agile-project-management)
-6. [6. Adopt a Bi-Modal Governance and Delivery](#6-adopt-a-bi-modal-governance-and-delivery)
-7. [7. Transition to Working in the Open by Default](#7-transition-to-working-in-the-open-by-default)
+- [A Strategy to transition IITB to an ESDC partner](#A-Strategy-to-transition-IITB-to-an-ESDC-partner)
+  - [1. Create an Enterprise Information Modeling](#1-Create-an-Enterprise-Information-Modeling)
+  - [2. Move towards a Cloud Native organization](#2-Move-towards-a-Cloud-Native-organization)
+  - [3. Invest in an Integration Layer (API-first approach)](#3-Invest-in-an-Integration-Layer-API-first-approach)
+  - [4. Implement DevOps](#4-Implement-DevOps)
+  - [5. Shift to Agile Project Management](#5-Shift-to-Agile-Project-Management)
+  - [6. Adopt a Bi-Modal Governance and Delivery](#6-Adopt-a-Bi-Modal-Governance-and-Delivery)
+  - [7. Transition to Working in the Open by Default](#7-Transition-to-Working-in-the-Open-by-Default)
 
-## 1. Create an Enterprise Information Modeling
+### 1. Create an Enterprise Information Modeling
 
 The creation of a stable, and highly re-usable set of Application Programming Interfaces (APIs) that expose relevant data and functionality is dependent upon the creation and continuous evolution of an Enterprise Information Model at ESDC.
 Such model will also enable ESDC to move towards a ["tell us once"](https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html) goal.
@@ -32,7 +42,7 @@ This aligns with key Government of Canada initiatives such as the Data Strategy,
 
 The Enterprise Information Model is part of a broader undertaking by either IITB's Information Architecture directorate, or the SSPB's Chief Data Office (CDO).
 
-## 2. Move towards a Cloud Native organization
+### 2. Move towards a Cloud Native organization
 
 ESDC will aggressively seek opportunities to adopt cloud computing and reap the benefits of rapid elasticity, increased agility, and self-serving abilities.
 
@@ -50,7 +60,7 @@ It should be noted that SaaS procurement does not require involvement with SSC.
 As of Budget 2017, ministers have the authority to grant federal departments and agencies the right to work directly with vendors even in areas that overlap with SSC’s mandate.
 Departments can use their delegated procurement authority to determine the right course of action in procuring SaaS (e.g. sole sourcing, advanced contract award notice, RFP).
 
-## 3. Invest in an Integration Layer (API-first approach)
+### 3. Invest in an Integration Layer (API-first approach)
 
 ESDC Services will be exposed to be consumed by systems not managed by ESDC. Whether these systems are from other federal departments, other jurisdictions, or from the private and public sector.
 To enable system to system communication, IITB will expand its Integration Layer to expose enterprise information and functionalities as a set of Web APIs that include custom developed, COTS-provided, third-party and hybrid APIs.
@@ -67,7 +77,7 @@ The choice of protocol for that interface is up to the development and operation
 5. COTS selection must provide integration capabilities through one or more SOA compatible components. COTS that make use of Open Standards must be considered first to avoid vendor lock-in
 6. Legacy application's integration must be establish through legacy wrapper APIs. This [includes mainframes](https://www.ibm.com/blogs/cloud-computing/2018/09/19/microservices-apis-mainframe-applications/)
 
-## 4. Implement DevOps
+### 4. Implement DevOps
 
 IITB will establish and mature a continuous deployment capability through DevOps so that it can be more responsive and adaptable to changing business needs.
 
@@ -82,7 +92,7 @@ This means build automation, test automation, continuous integration, release au
 
 &#042; Architecture compliance automation needs to be further evaluated.
 
-## 5. Shift to Agile Project Management
+### 5. Shift to Agile Project Management
 
 IITB will adopt a product management mindset wherein each Solution is viewed as a product and managed throughout its entire lifespan.
 
@@ -103,7 +113,7 @@ Shifting to Agile Project Management will require the following:
 4. **There is no maintenance, only development**
    There is no differentiation between maintenance and development. In both cases, resources are assigned to an application to increase business value and deliver on a business need.
 
-## 6. Adopt a Bi-Modal Governance and Delivery
+### 6. Adopt a Bi-Modal Governance and Delivery
 
 Bimodal is the practice of managing two separate but coherent styles of work: one focused on predictability; the other on exploration.
 
@@ -137,7 +147,7 @@ To implement bimodal-aware governance, IITB will take these three steps:
 3. Rescope the IT standards for Mode 1 technologies only (e.g. development tools should be left to the developer community to choose and manage whereas)
 4. Educate and build support for this single set of bimodal-aware IT governance principles and roles though existing IITB governance committees
 
-## 7. Transition to Working in the Open by Default
+### 7. Transition to Working in the Open by Default
 
 IITB will lead by example by truly working in the open, fostering a collaborative approach not only within IITB and ESDC but across government jurisdictions.
 Working in the open means enabling access to your work for others to see, making it easier to share your work and seek contributions, and exposing your efforts for the benefits of others.
