@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Strategy Map (Draft)
+title: Strategy Map
 ref: summary
 lang: en
 status: posted

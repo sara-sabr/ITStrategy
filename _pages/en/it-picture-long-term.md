@@ -1,4 +1,13 @@
-# IT Vision Picture - Long Term
+---
+layout: default
+title: IT Vision Picture - Long Term
+ref: it-picture-long-term
+lang: en
+status: posted
+permalink: /it-picture-long-term.html
+---
+
+## IT Vision Picture - Long Term
 
 This is a working document to help create a picture of what will IITB (Innovation Information and Technology Branch) look in the long term for ESDC (Employment and Social Development Canada).
 
@@ -13,12 +22,12 @@ In the following sections, we're trying to take the same end state and create "v
   - [Modern Open Organization](#Modern-Open-Organization)
   - [Strong Culture of Learning](#Strong-culture-of-learning)
 
-## Citizens
+### Citizens
 
 - Cyber security and privacy - citizens have a choice to share their personal data for convenience
 - Generational change: Citizens are used to deal with technologies, they do not face technical illiteracy like 2019.
 
-### Automatic Enrollment and Delivery
+#### Automatic Enrollment and Delivery
 
 Enrollment and delivery of services is automated by default and wherever possible.
 These Canadians are benefiting seamlessly from GC services.
@@ -27,7 +36,7 @@ Services are accessible anywhere, anytime, from any device, and from any partner
 90% of citizens (33 300 000 people) have a trusted Canadian profile used to verify/validate identity.
 These citizens receive their benefits seamlessly throughout their lives as major life events trigger the delivery of benefits.
 
-### Self-Service
+#### Self-Service
 
 The GC (OneGC) Portal provides access to services and benefits (not just ESDC) in tell us once fashion.
 See the [GC Digital Operations Strategic Plan: 2018-2022](https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html).
@@ -38,7 +47,7 @@ Results in easier access to services through delivering services to the client t
 
 TODO: Add an architecture view mapping our GC partners (e.g. TBS DXP to integrate with OneGC Portal, SSC for public cloud).
 
-### Service Centers and Outreach
+#### Service Centers and Outreach
 
 For the 10% not enrolled automatically and unable to use the GC Portal (3 700 000 people), small service centres are available, especially in remote regions.
 Their role is to help citizens register and use digital services.
@@ -47,9 +56,9 @@ They can also use the digital services on behalf of clients.
 GC departments have common kiosks to offer services, such as passports, taxes, grants as well as benefits from ESDC.
 Outreach programs are deployed to raise awareness in low uptake areas.
 
-## Private Sector
+### Private Sector
 
-### Any platform, any device, 3rd party integration
+#### Any platform, any device, 3rd party integration
 
 Any platform or device can be integrated with GC and ESDC services and development is often done in partnership with the private sector.
 This is possible because ESDC services are available as APIs that can be used by third party platforms and services (Banks, CRA, Social media, Job boards, Internet of things, ..).
@@ -59,14 +68,14 @@ Ecosystem of services are created by leveraging private sector expertise where o
 - Banks detecting missed paycheck, job websites targeting people who are job hunting...
 - Enhanced security through integration in private sector service (e.g., banks detecting fraudulent transactions)
 
-### Open Collaboration
+#### Open Collaboration
 
 - ESDC custom built software are published as open source, allowing Academia and learning institutions to use them, helping grow technological skill sets in the country, fostering economic growth, improving transparency and trust in government, and increasing the breadth of talent for ESDC to use by welcoming contributions back
 - ESDC data (performance and automated decision making statistics) published as open datasets
 
-## IITB-ESDC
+### IITB-ESDC
 
-### Modern Open Organization
+#### Modern Open Organization
 
 IITB is a modern open organization with a very open culture.
 Wherever possible code and projects are developed in the open and use of open source software is the norm.
@@ -88,7 +97,7 @@ This includes, automated software onboarding approval, key data exchange systems
 - Automation of internal services
 - Leveraging IT services (from IITB) in a self-serving method
 
-### Strong Culture of Learning
+#### Strong Culture of Learning
 
 IITB has a very open culture that values learning (TODO: find a tangible example)
 
