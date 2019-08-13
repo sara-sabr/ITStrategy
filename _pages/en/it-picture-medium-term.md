@@ -76,7 +76,7 @@ Of respondents
 - 37% were Medium Performers
 - 15% were Low Performers 
 
-Given that low performers are able to deploy between once per week and once per month, within 5 years IITB will must be able to deploy into production within 4 months within 5 years for all new projects (including those replacing legacy systems). 
+Given that low performers are able to deploy between once per week and once per month, within 5 years IITB will must be able to deploy into production within 4 months for all new projects
 
 Further, not only does ensuring quarterly production deployment align us with industry best practices, and enable us to more quickly respond to business needs, large scale projects with sizeable budgets and timelines run at a high risk of failure. For example, [18F reports](https://github.com/18F/technology-budgeting/blob/master/handbook.md) that "Only 13% of large government software projects are successful" where *large project* is defined as 'Projects valued at $6M or greater, in Europe and the United States, that were completed satisfactorily, on time, and within budget.'
 
