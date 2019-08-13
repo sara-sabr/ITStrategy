@@ -2,7 +2,7 @@
 
 #### Vision
 
-New processes created through a lean approach to product management through this fund will be leveraged to drastically increase the efficiency of ESDC's IT services  
+New processes created through a lean approach to product management through this fund will be leveraged to drastically increase the efficiency of ESDC's IT services
 
 #### Mission
 
@@ -16,22 +16,15 @@ Through collaboration with the existing Innovation Hub, onboard new projects and
 
 ##### Funding
 
-*Option 1*
-
-Engage Innovation Hub about possible funding avenues
-
-*Option 2*
-
-1. Engage business lines about available funding how highly desired, or high priority, functions
-2. Engage business lines to provide $X/year in a determined cost centre that will act as the umbrella fund pot
-
-*Option 3*
-
-Leverage existing IITB available funds
-
-*Option 4*
-
-Submit a TB Sub for funds
+- Option 1
+  - Engage Innovation Hub about possible funding avenues
+- Option 2
+  1. Engage business lines about available funding how highly desired, or high priority, functions
+  2. Engage business lines to provide $X/year in a determined cost centre that will act as the umbrella fund pot
+- Option 3
+  - Leverage existing IITB available funds
+- Option 4
+  - Submit a TB Sub for funds
 
 ##### Development
 
@@ -45,13 +38,12 @@ The business through the Innovation Lab will approve and sponsor the project.
 
 The project will be proposed to IITB for development. If IITB is unable or unwilling, through possibly leveraging (more information needed here) available ISED programs, give the open source project to small to medium size businesses to bring the product to fruition
 
-___
-
 #### Methodology
 
 Projects must adhere to the following requirements to be funded to the Umbrella Fund
 
 ### The What
+
 - Prioritize projects building service interfaces
 - Cancel development of UI facing client applications
 - Develop legal framework mandating free option for consumed interfaces
@@ -64,8 +56,6 @@ Projects must adhere to the following requirements to be funded to the Umbrella 
 - Promote creation of Canadian businesses
 
 >ESDC Mandate: delivering programs that help Canadians move through life’s transitions, from school to work, from one job to another, from unemployment to employment and from the workforce to retirement;
-
-___
 
 ### The What
 

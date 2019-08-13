@@ -1,4 +1,13 @@
-## Enabling Access to Web Services and Tool at ESDC
+---
+layout: default
+title: Enabling Access to Web Services and Tools at ESDC
+ref: web-services-access
+lang: en
+status: posted
+permalink: /web-services-access.html
+---
+
+## Enabling Access to Web Services and Tools at ESDC
 
 ### Purpose
 
@@ -9,7 +18,6 @@ To seek approval and endorsement for IITB to enable open by default access to th
 The recent [Direction on Enabling Access to Web Services: Policy Implementation Notice (PIN)](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32588) provides direction to departments on enabling access to web services, in accordance with the [Policy on Acceptable Network and Device Use (PANDU)](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=27122). The scope of this direction applies to GC electronic networks for unclassified information.
 
 > Departments are to enable open access to the Internet for GC electronic networks and devices, including GC and external Web 2.0 tools and services that enhance productivity, communication and collaboration, in accordance with the [Policy on Government Security](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=16578), to individuals working with the GC, including employees of the federal government as well as casuals, contractors, students and other persons who have been authorized by the deputy head to access Government of Canada electronic networks and devices.
-
 > Departments are to reconfigure their web filtering rules to be open by default to the Internet, except for websites that support non-acceptable activities or behaviours. See [Categories to be blocked](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32588#appA). All other categories, including social media and web-based collaboration or chat tools, are to be open by default.
 
 ### Issues

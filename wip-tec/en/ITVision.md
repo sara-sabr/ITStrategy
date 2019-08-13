@@ -97,7 +97,7 @@ This is achieved by:
 - providing stable funding to manage support and infrastructure for innovators
 - having well defined processes to provide support in scaling successful experiments into production
 - supporting innovation in the organization, using metrics focusing on business objectives, improved pace, and success rates
-- inspiring a culture of innovation to its employees 
+- inspiring a culture of innovation to its employees
 
 ESDC is narrowing its technology standards focus on ERP, corporate products allowing economies of scale, and production technology stacks for custom built applications only.
 Only on exceptional cases are other technology standardized (e.g.: source code version control).
