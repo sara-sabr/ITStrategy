@@ -23,7 +23,7 @@ In the following sections, we're trying to take the same end state and create "v
 Enrollment and delivery of services is automated by default and wherever possible.
 These Canadians are benefiting seamlessly from GC services.
 GC Services are integrated with widely used third party platforms and services (Banks, CRA, Social media, Job boards, Internet of things, ..).
-Services are accessible anywhere, anytime, from any device, and from any trusted partner.
+Services are accessible anywhere, anytime, from any device, and from any partner.
 90% of citizens (33 300 000 people) have a trusted Canadian profile used to verify/validate identity.
 These citizens receive their benefits seamlessly throughout their lives as major life events trigger the delivery of benefits.
 
@@ -59,7 +59,7 @@ Ecosystem of services are created by leveraging private sector expertise where o
 
 ### Open Collaboration
 
-- All of ESDC's custom built software are published as open source, allowing Academia and learning institutions to use them, helping grow technological skill sets in the country, fostering economic growth, improving transparency and trust in government, and increasing the breadth of talent for ESDC to use by welcoming contributions back
+- ESDC custom built software are published as open source, allowing Academia and learning institutions to use them, helping grow technological skill sets in the country, fostering economic growth, improving transparency and trust in government, and increasing the breadth of talent for ESDC to use by welcoming contributions back
 - ESDC data (performance and automated decision making statistics) published as open datasets
 
 ## IITB-ESDC
@@ -73,9 +73,9 @@ IITB is responsible for providing the automated services required to run a secur
 This includes, automated software onboarding approval, key data exchange systems with which business may interact with, and an environment by which business may securely deploy their own solutions.
 
 - 90% of employees are able to work from anywhere (TODO: validate measure with trends)
-- All internal and external services are available through APIs
+- Internal and external services are available through APIs
 - 98% of services are running on public cloud infrastructure (TODO: find cloud adoption rates)
-- All workloads that are classified Protected B and below are hosted on the public cloud.
+- Workloads that are classified Protected B and below are hosted on the public cloud.
   - Classified workloads (secret information) on SSC data centres
 - IITB serves as a stewart of IT in ESDC and has embedded IT expertise in program areas (since it has moved to DevOps and Product Management).
   - As a stewart, IITB provides ESDC Programs and their employees with the following services:
