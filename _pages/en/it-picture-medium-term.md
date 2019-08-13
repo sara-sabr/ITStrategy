@@ -1,3 +1,12 @@
+---
+layout: default
+title: IT Vision Picture - Medium Term
+ref: it-picture-medium-term
+lang: en
+status: posted
+permalink: /it-picture-medium-term.html
+---
+
 # IT Vision Picture - Medium Term
 
 This is a working document to help create a picture of what will IITB look in the medium term for ESDC.

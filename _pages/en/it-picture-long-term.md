@@ -1,3 +1,12 @@
+---
+layout: default
+title: IT Vision Picture - Long Term
+ref: it-picture-long-term
+lang: en
+status: posted
+permalink: /it-picture-long-term.html
+---
+
 # IT Vision Picture - Long Term
 
 This is a working document to help create a picture of what will IITB look in the medium term for ESDC.

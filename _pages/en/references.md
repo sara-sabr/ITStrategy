@@ -1,3 +1,12 @@
+---
+layout: default
+title: References
+ref: references
+lang: en
+status: posted
+permalink: /references.html
+---
+
 # Reference Materials
 The following are reference materials for the IT Strategy team to use. 
 These materials are meant to be sources of inspiration, guidance, or policies that we need to consider when crafting our strategies.

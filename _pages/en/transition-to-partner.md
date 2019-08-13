@@ -1,3 +1,12 @@
+---
+layout: default
+title: A Strategy to transition IITB to an ESDC partner
+ref: transition-to-partner
+lang: en
+status: posted
+permalink: /transition-to-partner.html
+---
+
 # A Strategy to transition IITB to an ESDC partner
 
 This document articulates a strategy and roadmap for moving IITB into a partner role for ESDC's service delivery capability.
@@ -6,13 +15,14 @@ The primary strategic goal of this transformation is to enable more rapid delive
 
 This goal will be achieved through the establishment and execution of the following **7 key strategic initiatives**:
 
-1. [1. Create an Enterprise Information Modeling](#1-create-an-enterprise-information-modeling)
-2. [2. Move towards a Cloud Native organization](#2-move-towards-a-cloud-native-organization)
-3. [3. Invest in an Integration Layer (API-first approach)](#3-invest-in-an-integration-layer-api-first-approach)
-4. [4. Implement DevOps](#4-implement-devops)
-5. [5. Shift to Agile Project Management](#5-shift-to-agile-project-management)
-6. [6. Adopt a Bi-Modal Governance and Delivery](#6-adopt-a-bi-modal-governance-and-delivery)
-7. [7. Transition to Working in the Open by Default](#7-transition-to-working-in-the-open-by-default)
+- [A Strategy to transition IITB to an ESDC partner](#A-Strategy-to-transition-IITB-to-an-ESDC-partner)
+  - [1. Create an Enterprise Information Modeling](#1-Create-an-Enterprise-Information-Modeling)
+  - [2. Move towards a Cloud Native organization](#2-Move-towards-a-Cloud-Native-organization)
+  - [3. Invest in an Integration Layer (API-first approach)](#3-Invest-in-an-Integration-Layer-API-first-approach)
+  - [4. Implement DevOps](#4-Implement-DevOps)
+  - [5. Shift to Agile Project Management](#5-Shift-to-Agile-Project-Management)
+  - [6. Adopt a Bi-Modal Governance and Delivery](#6-Adopt-a-Bi-Modal-Governance-and-Delivery)
+  - [7. Transition to Working in the Open by Default](#7-Transition-to-Working-in-the-Open-by-Default)
 
 ## 1. Create an Enterprise Information Modeling
 
