@@ -30,6 +30,8 @@ These citizens receive their benefits seamlessly throughout their lives as major
 ### Self-Service
 
 The GC (OneGC) Portal provides access to services and benefits (not just ESDC) in tell us once fashion.
+See the [GC Digital Operations Strategic Plan: 2018-2022](https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html).
+
 Registering to the Portal will create or use the trusted Canadian profile and enable automatic enrollment and delivery in the future.
 Help for using the Portal is available directly on the Portal using instant messaging (text, voice or video) as well as by phone.
 Results in easier access to services through delivering services to the client through hands-off automated processes or supplemented by staff if required.
