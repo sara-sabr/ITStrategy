@@ -1,4 +1,13 @@
-# Service Culture 
+---
+layout: default
+title: Service Culture
+ref: serviceCulture
+lang: en
+status: posted
+permalink: /service-culture.html
+---
+
+# Service Culture
 
 ## Everyone is a Client 
 

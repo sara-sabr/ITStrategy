@@ -1,3 +1,12 @@
+---
+layout: default
+title: Human Development Life Cycle
+ref: hdlc
+lang: en
+status: posted
+permalink: /human-development-life-cycle.html
+---
+
 # Human Development Life Cycle (HDLC)
 
 The vision of HDLC is when the government of canada can follow a citizens from cradle to grave, providing services through modern technologies and interacting seamlessly with them through digital infrastructure.
