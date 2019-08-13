@@ -41,12 +41,11 @@ Outreach programs are deployed to raise awareness in low uptake areas.
 ### IoT Integration
 
 ESDC does not develop products or services that compete with the private sector.
-IoT devices will begin to permeate all aspects of life and ESDC should integrate itself into the ecosystem. 
+IoT devices will begin to permeate all aspects of life and ESDC should integrate itself into the ecosystem.
 
 An example of the repercussions of such an implementation can be found [here](https://github.com/sara-sabr/ITStrategy/blob/master/wip-tec/en/human-development-life-cycle.md).
 
-In a service-based environment, success is not measured by the number of users your service attracts, but rather the number of users amassed by the services that leverage your service. 
-- TODO: Add source (Microsoft)
+In a service-based environment, success is not measured by the number of users your service attracts, but rather the number of users amassed by the services that leverage your service. Add source (Microsoft)
 
 User privacy must still be preserved and modern digital identity recognition technologies are leveraged (e.g. facial, biometrics).
 
@@ -84,12 +83,11 @@ TODO: Split in two (IITB and Partners/Clients)
 
 ## Government Partners
 
-For:
 - Digital Exchange (APIs, Messaging)
 - Cloud Brokering
 - HR Services
 
-## Terms 
+## Terms
 
 ESDC: Employment and Social Development Canada
 IoT: [Internet of Things](https://en.wikipedia.org/wiki/Internet_of_things)

@@ -49,12 +49,14 @@ For service requests (e.g. Helpdesk):
 
 For the development side, there would be multiple metrics, most of them being influenced by the evolution toward DevOps:
 
-**Throughput**
+#### Throughput
+
 - `release ratio = code deployments / dev personnel`
 - `lead time for changes ratio =  time from code commit to running in production / dev personnel`
 - `test ratio = tests done / dev personnel`
 
-**Stability**
+#### Stability
+
 - `time to restore ratio = time to restore service when incident occurs / dev personnel`
 - `change fail rate ratio = % of changes resulting in degraded service or remediation required / dev personnel`
 
@@ -78,13 +80,14 @@ Moving IITB into a service-oriented organization will require IITB to manage the
 
 `service availability target ratio = actual % availability / target % availability`
 
-*Note:* Services are never expected to be up 100% of the time. [See here](http://www.gcpedia.gc.ca/wiki/OCIO_Application_Portfolio_Management/Application_Portfolio_Management_User_Guide#Application_Mission_Criticality_and_Critical_Services) for more details.  
+*Note:* Services are never expected to be up 100% of the time. [See here](http://www.gcpedia.gc.ca/wiki/OCIO_Application_Portfolio_Management/Application_Portfolio_Management_User_Guide#Application_Mission_Criticality_and_Critical_Services) for more details.
 
 ### 5. **Quality Work**
 
 This indicator monitors how time is spent in order to measure the quality of work.
 
 To do so, the global % of time spent by IITB personnel in these categories is determined:
+
 - Business Projects
 - IT Projects (internal I&O)
 - Changes (bug fixes and security issues)

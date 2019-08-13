@@ -107,7 +107,6 @@ We will also be experimenting with modern ways of working in order to demonstrat
 ### Modern tools
 
 > Public servants are more effective at delivering services, programs and policies when they have modern tools that help their work and a modern workplace.
-
 > Public servants need professional development that keeps up with changing times and changing technology
 
 [Digital Operations Strategic Plan: 2018-2022](https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html)
