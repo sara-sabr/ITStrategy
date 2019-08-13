@@ -59,7 +59,7 @@ In the following sections, we're trying to take the same end state and create "v
 - (TODO: What does EAs role look like in 5 years? Sources and references [CDS or 18f, for example])
 <<<<<<< HEAD
 
-#### Greenfield Project Quarterly Delivery
+#### Project Quarterly Delivery
 
 All new projects must deliver a functional product at the end of each quarter, at the absolute latest.
 
