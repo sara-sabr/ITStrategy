@@ -56,7 +56,16 @@ They can also use the digital services on behalf of clients.
 GC departments have common kiosks to offer services, such as passports, taxes, grants as well as benefits from ESDC.
 Outreach programs are deployed to raise awareness in low uptake areas.
 
-### Private Sector
+#### IoT Integration
+
+ESDC does not develop products or services that compete with the private sector.
+IoT devices will begin to permeate all aspects of life and ESDC should integrate itself into the ecosystem.
+
+An example of the repercussions of such an implementation can be found [here](https://github.com/sara-sabr/ITStrategy/blob/master/wip-tec/en/human-development-life-cycle.md).
+
+In a service-based environment, success is not measured by the number of users your service attracts, but rather the number of users amassed by the services that leverage your service. Add source (Microsoft)
+
+User privacy must still be preserved and modern digital identity recognition technologies are leveraged (e.g. facial, biometrics).
 
 #### Any platform, any device, 3rd party integration
 
@@ -65,6 +74,7 @@ This is possible because ESDC services are available as APIs that can be used by
 Employers, Banks, and Credit Unions are the new front lines of ESDC as they are now provided with technological means to interact with ESDC services.
 
 Ecosystem of services are created by leveraging private sector expertise where opportunities exist (win-win public-private partnerships), e.g.:
+
 - Banks detecting missed paycheck, job websites targeting people who are job hunting...
 - Enhanced security through integration in private sector service (e.g., banks detecting fraudulent transactions)
 
@@ -99,8 +109,13 @@ This includes, automated software onboarding approval, key data exchange systems
 
 TODO: Add an architecture view mapping our GC partners (e.g. TBS DXP to integrate with OneGC Portal, SSC for public cloud).
 
+- Digital Exchange (APIs, Messaging)
+- Cloud Brokering
+- HR Services
+
 #### Strong Culture of Learning
 
 IITB has a very open culture that values learning (TODO: find a tangible example)
-
 TODO: Add recruitment best practices, including for domains other than IT.
+
+### Terms

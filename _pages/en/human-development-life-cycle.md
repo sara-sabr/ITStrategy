@@ -29,8 +29,8 @@ The vision of HDLC is when the government of canada can follow a citizens from c
 
 ### Disadvantages of decentralizing data outside of government
 
-- Frequent and constant interoperability endpoint updates required 
-- Higher complexity for data correlation due to lack of unified interoperability standards  
+- Frequent and constant interoperability endpoint updates required
+- Higher complexity for data correlation due to lack of unified interoperability standards
 - Possible legal complications with respect to obtaining consent from individuals
 - Data duplication which complicates data management (four primary addresses for one person)
 - Higher complexity of Identity Management (possible AI application - facial recognition on profile pictures)
