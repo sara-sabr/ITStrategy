@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mandate (Draft)
+title: Mandate
 ref: mandate
 lang: en
 status: posted

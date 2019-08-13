@@ -1,4 +1,13 @@
-# Enable Learning 
+---
+layout: default
+title: Enable Learning
+ref: learning
+lang: en
+status: posted
+permalink: /enable-learning.html
+---
+
+# Enable Learning
 
 ## Management must enable daily learning within their teams 
 
