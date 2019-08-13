@@ -96,7 +96,7 @@ TODO: Split in two (IITB and Partners/Clients)
 - Cloud Brokering
 - HR Services
 
-### Terms 
+### Terms
 
 ESDC: Employment and Social Development Canada
 IoT: [Internet of Things](https://en.wikipedia.org/wiki/Internet_of_things)
