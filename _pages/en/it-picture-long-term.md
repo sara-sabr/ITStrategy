@@ -18,6 +18,8 @@ In the following sections, we're trying to take the same end state and create "v
   - [Self-Service](#Self-Service)
   - [Service Centers and Outreach](#Service-Centers-and-Outreach)
 - [Private Sector](#Private-Sector)
+  - [Any platform, any device, 3rd party integration](#any-platform-any-device-3rd-party-integration)
+  - [Open Collaboration](#open-collaboration)
 - [IITB-ESDC](#IITB-ESDC)
   - [Modern Open Organization](#Modern-Open-Organization)
   - [Strong Culture of Learning](#Strong-culture-of-learning)
@@ -33,7 +35,7 @@ Enrollment and delivery of services is automated by default and wherever possibl
 These Canadians are benefiting seamlessly from GC services.
 GC Services are integrated with widely used third party platforms and services (Banks, CRA, Social media, Job boards, Internet of things, ..).
 Services are accessible anywhere, anytime, from any device, and from any partner.
-90% of citizens (33 300 000 people) have a trusted Canadian profile used to verify/validate identity.
+90% of citizens (33 300 000 people) have a trusted Canadian profile used to verify/validate identity via the [Pan-Canadian Trust Framework](https://diacc.ca/pan-canadian-trust-framework/).
 These citizens receive their benefits seamlessly throughout their lives as major life events trigger the delivery of benefits.
 
 #### Self-Service
@@ -45,9 +47,7 @@ Registering to the Portal will create or use the trusted Canadian profile and en
 Help for using the Portal is available directly on the Portal using instant messaging (text, voice or video) as well as by phone.
 Results in easier access to services through delivering services to the client through hands-off automated processes or supplemented by staff if required.
 
-TODO: Add an architecture view mapping our GC partners (e.g. TBS DXP to integrate with OneGC Portal, SSC for public cloud).
-
-#### Service Centers and Outreach
+#### Service Centres and Outreach
 
 For the 10% not enrolled automatically and unable to use the GC Portal (3 700 000 people), small service centres are available, especially in remote regions.
 Their role is to help citizens register and use digital services.
@@ -96,6 +96,8 @@ This includes, automated software onboarding approval, key data exchange systems
     - Development teams
 - Automation of internal services
 - Leveraging IT services (from IITB) in a self-serving method
+
+TODO: Add an architecture view mapping our GC partners (e.g. TBS DXP to integrate with OneGC Portal, SSC for public cloud).
 
 #### Strong Culture of Learning
 
