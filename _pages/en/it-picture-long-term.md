@@ -74,6 +74,7 @@ This is possible because ESDC services are available as APIs that can be used by
 Employers, Banks, and Credit Unions are the new front lines of ESDC as they are now provided with technological means to interact with ESDC services.
 
 Ecosystem of services are created by leveraging private sector expertise where opportunities exist (win-win public-private partnerships), e.g.:
+
 - Banks detecting missed paycheck, job websites targeting people who are job hunting...
 - Enhanced security through integration in private sector service (e.g., banks detecting fraudulent transactions)
 
