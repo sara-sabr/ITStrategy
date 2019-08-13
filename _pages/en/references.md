@@ -31,7 +31,6 @@ Some of that content may only be available on GC/ESDC network
 - [TB Policy on service and digital](http://dialogue/grp/BU6810070/Shared%20Documents/Reference%20Materials/Policy%20on%20service%20and%20digital.docx) ([GCCollab group](https://gccollab.ca/groups/profile/588431/endigital-numu00e9riquefrdigital-numu00e9rique))
 - [TB Directive on service and digital](http://dialogue/grp/BU6810070/Shared%20Documents/Reference%20Materials/Directive%20on%20service%20and%20digital.docx) ([GCCollab group](https://gccollab.ca/groups/profile/588431/endigital-numu00e9riquefrdigital-numu00e9rique))
 
-<<<<<<< HEAD
 ## General
 
 - [DARPA](https://www.darpa.mil/about-us/about-darpa): Mission is "to make pivotal investments in breakthrough technologies for national security"
