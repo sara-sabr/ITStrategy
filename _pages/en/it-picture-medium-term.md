@@ -15,17 +15,35 @@ In the following sections, we're trying to take the same end state and create "v
 
 ### Citizen
 
+#### Automatic Enrollment and Delivery
+
 - Number of services that require users to submit, or print, PDFs should be reduced by half
+
+#### Self-Service
+
 - Centralized login for all ESDC services
 - Application processes should be simple and guided. Pages will scrollable instructions outlining details of the application process are a relic of the past.
+
+#### Service Centers and Outreach
+
+- Humans should focus on interacting with other humans through outreach. Repetitive processes should be handled through computation. 
+
 - Pan-Canadian Trust Framework (TODO: How does this impact the citizen?)
 - Some services (TODO: which?) are accessible using services I am already familiar with (Ex: My Bank)
 
 ### Private Sector
 
+#### Any platform, any device, 3rd party integration
+
+- Small businesses should start to innovate using ESDC data sets published through the Open API Store
+
+#### Open Collaboration
+
 - Small businesses should start to innovate using ESDC data sets published through the Open API Store
 
 ### IITB-ESDC
+
+#### Modern Open Organization
 
 - IITB strictly controls 20% of it's funding for Internal IT Projects 
 - IITB is involved in business discussions and decisions (TODO: Are we now? What body should we be apart of, and who should be a part of it?)
@@ -41,7 +59,7 @@ In the following sections, we're trying to take the same end state and create "v
 - (TODO: What does EAs role look like in 5 years? Sources and references [CDS or 18f, for example])
 <<<<<<< HEAD
 
-### Greenfield Project Quarterly Delivery 
+#### Greenfield Project Quarterly Delivery 
 
 All new projects must deliver a functional product at the end of each quarter, at the absolute latest. 
 
@@ -66,9 +84,11 @@ Ensuring regular deliveries also allows IITB to be more responsive to business n
 
 A world of opportunities awaits IITB in our long term plan if we are able to realize the benefits of treading the path that has already been laid before us by the high performers and world leaders from the IT community. Without it, in the world of running 10 year projects our 5 year trajectory is easily predictable -- the organization will look identical to the organization that exists today.
 
-### Modern Development Tools
+#### Modern Development Tools
 
 - Development teams have access to modern development tools needed to keep pace with industry best practices.
+
+#### Strong Culture of Learning
 
 ### ESDC Programs
 
