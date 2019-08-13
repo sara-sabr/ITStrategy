@@ -15,10 +15,15 @@ In the following sections, we're trying to take the same end state and create "v
 
 ## Citizens
 
+- Cyber security and privacy - citizens have a choice to share their personal data for convenience
+- Generational change: Citizens are used to deal with technologies, they do not face technical illiteracy like 2019.
+
 ### Automatic Enrollment and Delivery
 
 Enrollment and delivery of services is automated by default and wherever possible.
+Canadians are benefiting seamlessly from the federal government services through modern technologies.
 GC Services are integrated with widely used third party platforms and services (Banks, CRA, Social media, Job boards, Internet of things, ..).
+Services are accessible anywhere, anytime, from any device, and from any trusted partner.
 90% of citizens (33 300 000 people) have a trusted Canadian profile used to verify/validate identity.
 These citizens receive their benefits seamlessly throughout their lives as major life events trigger the delivery of benefits.
 
@@ -42,12 +47,20 @@ Outreach programs are deployed to raise awareness in low uptake areas.
 
 ## Private Sector
 
+### Any platform, any device, 3rd party integration
+
 Any platform or device can be integrated with GC and ESDC services and development is often done in partnership with the private sector.
 This is possible because ESDC services are available as APIs that can be used by third party platforms and services (Banks, CRA, Social media, Job boards, Internet of things, ..).
+Employers, Banks, and Credit Unions are the new front lines of ESDC as they are now provided with technological means to interact with ESDC services.
 
 Ecosystem of services are created by leveraging private sector expertise where opportunities exist (win-win public-private partnerships), e.g.:
 - Banks detecting missed paycheck, job websites targeting people who are job hunting...
 - Enhanced security through integration in private sector service (e.g., banks detecting fraudulent transactions)
+
+### Open Collaboration
+
+- All of ESDC's custom built software are published as open source, allowing Academia and learning institutions to use them, helping grow technological skill sets in the country, fostering economic growth, improving transparency and trust in government, and increasing the breadth of talent for ESDC to use by welcoming contributions back
+- ESDC data (performance and automated decision making statistics) published as open datasets
 
 ## IITB-ESDC
 
@@ -60,6 +73,16 @@ IITB is the digital, IM and IT advisor and enabler for ESDC and part of major bu
 - 90% of employees are able to work from anywhere (TODO: validate measure with trends)
 - All internal and external services are available through APIs
 - 98% of services are running on public cloud infrastructure (TODO: find cloud adoption rates)
+- All workloads that are classified Protected B and below are hosted on the public cloud.
+  - Classified workloads (secret information) on SSC data centres
+- IITB serves as a stewart of IT in ESDC and has embedded IT expertise in program areas (since it has moved to DevOps and Product Management).
+  - As a stewart, IITB provides ESDC Programs and their employees with the following services:
+    - Corporate services (hardware and software support)
+    - Cyber security
+    - Technology architecture
+    - Development teams
+- Automation of internal services
+- Leveraging IT services (from IITB) in a self-serving method
 
 ### Strong Culture of Learning
 
