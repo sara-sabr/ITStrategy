@@ -28,7 +28,7 @@ In the following sections, we're trying to take the same end state and create "v
 
 #### Automatic Enrollment and Delivery
 
-- Number of services that require users to submit, or print, PDFs should be reduced by half
+It must be a priority to move towards the long term vision of a fully automated enrollment process for citizens who opt to use the service. As a stepping stone, it must be a priority to allow for a policy similar to ['Once-Only' from the European Union](https://ec.europa.eu/digital-single-market/en/news/eu-wide-digital-once-only-principle-citizens-and-businesses-policy-options-and-their-impacts) to be implemented. This means that IITB must ensure information can be securely and digitally exchanged throughout the information technology infrastructure. In order to enable such initiatives, which would enable IITB and citizens alike to avoid constant rework, IITB must be permitted and promoted to allocate significantly more resources to continuous process and technology improvements. We explore this requirement in more detail below in the [Modern Open Organization](#Modern Open Organization) section.
 
 #### Self-Service
 
@@ -75,7 +75,7 @@ In the following sections, we're trying to take the same end state and create "v
 All new projects must deliver a functional product at the end of each quarter, at the absolute latest.
 
 In modern IT literature organizations should be aiming to deliver software into production within minutes. In [*War And Peace And IT*](https://itrevolution.com/book/war-and-peace-and-it/) by [Mark Schwartz](https://itrevolution.com/faculty/mark-schwartz/), ex-CIO of US Citizenship and Immigration Services and currently a Strategist for Amazon Web Services, he writes that business or mission needs should be met in hours or days.
-It is in this spirit that IITB within 5 years needs to be able to deploy solutions to production quarterly, at the very least, by 2025.
+It is in this spirit that IITB make it a top priority to deploy solutions to production quarterly, at the very least, as soon as possible, permitting us to achieve the long term aims.
 
 In the [DORA State of DevOps](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=2ahUKEwiGzKvWsoDkAhVOTt8KHVTvDBoQFjACegQIAhAC&url=http%3A%2F%2Fcloudplatformonline.com%2Frs%2F248-TPC-286%2Fimages%2FDORA-State%2520of%2520DevOps.pdf&usg=AOvVaw3Igoh1u4hGjIr7p9jV1_Ae) report on page 14 they define categories of performance as follows
 
@@ -110,3 +110,9 @@ Without it, in the world of running 10 year projects our 5 year trajectory is ea
 ### ESDC Programs
 
 ### Government Partners
+
+## References
+
+[Digital Operations Strategic Plan: 2018-2022](https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html)
+[Policy on Service](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603)
+['Once-Only' from the European Union](https://ec.europa.eu/digital-single-market/en/news/eu-wide-digital-once-only-principle-citizens-and-businesses-policy-options-and-their-impacts)
