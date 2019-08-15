@@ -111,7 +111,7 @@ Without it, in the world of running 10 year projects our 5 year trajectory is ea
 
 ### Government Partners
 
-## References 
+## References
 
 [Digital Operations Strategic Plan: 2018-2022](https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html)
 [Policy on Service](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603)
