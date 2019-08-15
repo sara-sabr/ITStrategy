@@ -13,6 +13,17 @@ This is a working document to help create a picture of what will IITB look in th
 
 In the following sections, we're trying to take the same end state and create "views" where different audiences would be looking at ESDC and see different things.
 
+- [Citizens](#citizens)
+  - [Automatic Enrollment and Delivery](#automatic-enrollment-and-delivery)
+  - [Self-Service](#self-service)
+  - [Service Centres and Outreach](#service-centres-and-outreach)
+- [Private Sector](#private-sector)
+  - [Any platform, any device, 3rd party integration](#any-platform-any-device-3rd-party-integration)
+  - [Open Collaboration](#open-collaboration)
+- [IITB-ESDC](#iitb-esdc)
+  - [Modern Open Organization](#modern-open-organization)
+  - [Strong Culture of Learning](#strong-culture-of-learning)
+
 ### Citizen
 
 #### Automatic Enrollment and Delivery
@@ -58,7 +69,6 @@ In the following sections, we're trying to take the same end state and create "v
 - Public Cloud First
   - Projects by default must use the cloud. Justification required if the project is not intending to use the cloud
 - (TODO: What does EAs role look like in 5 years? Sources and references [CDS or 18f, for example])
-<<<<<<< HEAD
 
 #### Project Quarterly Delivery
 
