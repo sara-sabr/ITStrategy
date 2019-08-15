@@ -13,17 +13,16 @@ This is a working document to help create a picture of what will IITB (Innovatio
 
 In the following sections, we're trying to take the same end state and create "views" where different audiences would be looking at ESDC and see different things.
 
-- [IT Vision Picture - Long Term](#it-vision-picture---long-term)
-  - [Citizens](#citizens)
-    - [Automatic Enrollment and Delivery](#automatic-enrollment-and-delivery)
-    - [Self-Service](#self-service)
-    - [Service Centres and Outreach](#service-centres-and-outreach)
-  - [Private Sector](#private-sector)
-    - [Any platform, any device, 3rd party integration](#any-platform-any-device-3rd-party-integration)
-    - [Open Collaboration](#open-collaboration)
-  - [IITB-ESDC](#iitb-esdc)
-    - [Modern Open Organization](#modern-open-organization)
-    - [Strong Culture of Learning](#strong-culture-of-learning)
+- [Citizens](#citizens)
+  - [Automatic Enrollment and Delivery](#automatic-enrollment-and-delivery)
+  - [Self-Service](#self-service)
+  - [Service Centres and Outreach](#service-centres-and-outreach)
+- [Private Sector](#private-sector)
+  - [Any platform, any device, 3rd party integration](#any-platform-any-device-3rd-party-integration)
+  - [Open Collaboration](#open-collaboration)
+- [IITB-ESDC](#iitb-esdc)
+  - [Modern Open Organization](#modern-open-organization)
+  - [Strong Culture of Learning](#strong-culture-of-learning)
 
 ### Citizens
 
