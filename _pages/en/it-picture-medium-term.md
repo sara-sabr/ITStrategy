@@ -28,26 +28,6 @@ In the following sections, we're trying to take the same end state and create "v
 
 #### Automatic Enrollment and Delivery
 
-Looking forward, the information required to enroll a Canadian into programs often exists via trusted organizations or other government departments, allowing for the benefits the programs to be made available without the need for a manual process on the behalf of citizens (more details can be found in the [long term plan](https://sara-sabr.github.io/ITStrategy/it-picture-long-term.html)). In order to move in this direction, IITB must move away from manual processes and towards automation and information systems allowing for the secure exchange of information. This aligns well with both the OneGC initiative and the [Policy on Service](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=27916) which reads
-
-> 6.1 Deputy heads are responsible for applying the following principles to achieve better and more efficient design and delivery of Government of Canada services:
->
-> 6.1.1 Client-centric service: Services are designed and delivered considering client needs and feedback, and are progressively e-enabled.
->
-___
->
-> Deputy heads are responsible for ensuring that:
->
-> 7.6 A user engagement approach to promote awareness and uptake of e-services is developed.
-> 7.9 The proportion of external and internal enterprise e-services is increased annually, according to a department's service management strategy.
-> 7.10 Priority authenticated external services are e-enabled, with real-time application status available to clients.
-
-In the [Digital Operations Strategic Plan: 2018-2022](https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html#ToC7_1) it states that 'The Government of Canada Service Strategy outlined 3 objectives:'
-
-- to design and deliver client-centric services across all channels
-- to provide an online experience so easy that users would choose the digital channel
-- to offer a tell-us-once experience to services
-
 It must be a priority to move towards the long term vision of a fully automated enrollment process for citizens who opt to use the service. As a stepping stone, it must be a priority to allow for a policy similar to ['Once-Only' from the European Union](https://ec.europa.eu/digital-single-market/en/news/eu-wide-digital-once-only-principle-citizens-and-businesses-policy-options-and-their-impacts) to be implemented. This means that IITB must ensure information can be securely and digitally exchanged throughout the information technology infrastructure. In order to enable such initiatives, which would enable IITB and citizens alike to avoid constant rework, IITB must be permitted and promoted to allocate significantly more resources to continuous process and technology improvements. We explore this requirement in more detail below in the [Modern Open Organization](#Modern Open Organization) section.
 
 #### Self-Service
@@ -130,3 +110,9 @@ Without it, in the world of running 10 year projects our 5 year trajectory is ea
 ### ESDC Programs
 
 ### Government Partners
+
+## References 
+
+[Digital Operations Strategic Plan: 2018-2022](https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html)
+[Policy on Service](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603)
+['Once-Only' from the European Union](https://ec.europa.eu/digital-single-market/en/news/eu-wide-digital-once-only-principle-citizens-and-businesses-policy-options-and-their-impacts)
