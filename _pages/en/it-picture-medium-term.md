@@ -66,8 +66,9 @@ It must be a priority to move towards the long term vision of a fully automated 
 - Open by Default Development Policy
   - Justification required as to why a project is not being developed in the open
 - All newly architected solutions must communicate through APIs
-- Public Cloud First
+- [Cloud Smart](https://cloud.cio.gov/strategy/)
   - Projects by default must use the cloud. Justification required if the project is not intending to use the cloud
+  - (TODO: Validate) Modern trends are retracting from full public cloud offerings and solutions are beginning to expand in the 'on-prem cloud' space. IITB needs to take a smart cloud approach, rather than simplify a public cloud first approach. 
 - (TODO: What does EAs role look like in 5 years? Sources and references [CDS or 18f, for example])
 
 #### Project Quarterly Delivery
