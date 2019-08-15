@@ -75,7 +75,7 @@ It must be a priority to move towards the long term vision of a fully automated 
 All new projects must deliver a functional product at the end of each quarter, at the absolute latest.
 
 In modern IT literature organizations should be aiming to deliver software into production within minutes. In [*War And Peace And IT*](https://itrevolution.com/book/war-and-peace-and-it/) by [Mark Schwartz](https://itrevolution.com/faculty/mark-schwartz/), ex-CIO of US Citizenship and Immigration Services and currently a Strategist for Amazon Web Services, he writes that business or mission needs should be met in hours or days.
-It is in this spirit that IITB within 5 years needs to be able to deploy solutions to production quarterly, at the very least, by 2025.
+It is in this spirit that IITB make it a top priority to deploy solutions to production quarterly, at the very least, as soon as possible, permitting us to achieve the long term aims.
 
 In the [DORA State of DevOps](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=2ahUKEwiGzKvWsoDkAhVOTt8KHVTvDBoQFjACegQIAhAC&url=http%3A%2F%2Fcloudplatformonline.com%2Frs%2F248-TPC-286%2Fimages%2FDORA-State%2520of%2520DevOps.pdf&usg=AOvVaw3Igoh1u4hGjIr7p9jV1_Ae) report on page 14 they define categories of performance as follows
 
