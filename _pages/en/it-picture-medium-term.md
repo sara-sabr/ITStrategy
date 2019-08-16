@@ -13,7 +13,7 @@ This is a working document to help create a picture of what will IITB look in th
 
 In the following sections, we're trying to take the same end state and create "views" where different audiences would be looking at ESDC and see different things.
 
-- [Citizens](#citizens)
+- [Citizen](#citizen)
   - [Automatic Enrollment and Delivery](#automatic-enrollment-and-delivery)
   - [Self-Service](#self-service)
   - [Service Centres and Outreach](#service-centres-and-outreach)
@@ -22,13 +22,18 @@ In the following sections, we're trying to take the same end state and create "v
   - [Open Collaboration](#open-collaboration)
 - [IITB-ESDC](#iitb-esdc)
   - [Modern Open Organization](#modern-open-organization)
+  - [Project Quarterly Delivery](#project-quarterly-delivery)
+  - [Modern Development Tools](#modern-development-tools)
   - [Strong Culture of Learning](#strong-culture-of-learning)
+- [ESDC Programs](#esdc-programs)
+- [Government Partners](#government-partners)
+- [References](#references)
 
 ### Citizen
 
 #### Automatic Enrollment and Delivery
 
-It must be a priority to move towards the long term vision of a fully automated enrollment process for citizens who opt to use the service. As a stepping stone, it must be a priority to allow for a policy similar to ['Once-Only' from the European Union](https://ec.europa.eu/digital-single-market/en/news/eu-wide-digital-once-only-principle-citizens-and-businesses-policy-options-and-their-impacts) to be implemented. This means that IITB must ensure information can be securely and digitally exchanged throughout the information technology infrastructure. In order to enable such initiatives, which would enable IITB and citizens alike to avoid constant rework, IITB must be permitted and promoted to allocate significantly more resources to continuous process and technology improvements. We explore this requirement in more detail below in the [Modern Open Organization](#Modern Open Organization) section.
+It must be a priority to move towards the long-term vision of a fully automated enrollment process for citizens who opt to use the service. As a stepping stone, it must be a priority to allow for a policy similar to ['Once-Only' from the European Union](https://ec.europa.eu/digital-single-market/en/news/eu-wide-digital-once-only-principle-citizens-and-businesses-policy-options-and-their-impacts) to be implemented. This means that IITB must ensure information can be securely and digitally exchanged throughout the information technology infrastructure. In order to enable such initiatives, which would enable IITB and citizens alike to avoid constant rework, IITB must be permitted and promoted to allocate significantly more resources to continuous process and technology improvements. We explore this requirement in more detail below in the [Modern Open Organization](#Modern Open Organization) section.
 
 #### Self-Service
 
@@ -36,7 +41,7 @@ It must be a priority to move towards the long term vision of a fully automated 
 - Application processes should be simple and guided.
   - Pages with scrollable instructions outlining details of the application process are a relic of the past.
 
-#### Service Centers and Outreach
+#### Service Centres and Outreach
 
 - Humans should focus on interacting with other humans through outreach. Repetitive processes should be handled through computation.
 
@@ -59,7 +64,7 @@ It must be a priority to move towards the long term vision of a fully automated 
 
 - IITB strictly controls 20% of it's funding for Internal IT Projects
 - IITB is involved in business discussions and decisions (TODO: Are we now? What body should we be apart of, and who should be a part of it?)
-- 75% of employees are equipped with mobile devices allowing them to work from anywhere (TODO: Map trend and profiles on to metric )
+- 75% of employees are equipped with mobile devices allowing them to work from anywhere (TODO: Map trends and profiles on to metric )
 - Flexible work arrangements where employees may work remotely, insofar as it does not impact their ability to perform in their role
 - Employees are empowered to continuously learn through self directed learning. Management must allow at least 1 hour per day per employee to be spent learning new, or developing existing, skills
 - Employees are sharing their experiences and best practices (Tech Talks)
@@ -68,7 +73,7 @@ It must be a priority to move towards the long term vision of a fully automated 
 - All newly architected solutions must communicate through APIs
 - [Cloud Smart](https://cloud.cio.gov/strategy/)
   - Projects by default must use the cloud. Justification required if the project is not intending to use the cloud
-  - (TODO: Validate) Modern trends are retracting from full public cloud offerings and solutions are beginning to expand in the 'on-prem cloud' space. IITB needs to take a smart cloud approach, rather than simplify a public cloud first approach. 
+  - (TODO: Validate) Modern trends are retracting from full public cloud offerings and solutions are beginning to expand in the 'on-prem cloud' space. IITB needs to take a smart cloud approach, rather than simplify a public cloud first approach.
 - (TODO: What does EAs role look like in 5 years? Sources and references [CDS or 18f, for example])
 
 #### Project Quarterly Delivery
@@ -76,7 +81,7 @@ It must be a priority to move towards the long term vision of a fully automated 
 All new projects must deliver a functional product at the end of each quarter, at the absolute latest.
 
 In modern IT literature organizations should be aiming to deliver software into production within minutes. In [*War And Peace And IT*](https://itrevolution.com/book/war-and-peace-and-it/) by [Mark Schwartz](https://itrevolution.com/faculty/mark-schwartz/), ex-CIO of US Citizenship and Immigration Services and currently a Strategist for Amazon Web Services, he writes that business or mission needs should be met in hours or days.
-It is in this spirit that IITB make it a top priority to deploy solutions to production quarterly, at the very least, as soon as possible, permitting us to achieve the long term aims.
+It is in this spirit that IITB make it a top priority to deploy solutions to production quarterly, at the very least, as soon as possible, permitting us to achieve the long-term aims.
 
 In the [DORA State of DevOps](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=2ahUKEwiGzKvWsoDkAhVOTt8KHVTvDBoQFjACegQIAhAC&url=http%3A%2F%2Fcloudplatformonline.com%2Frs%2F248-TPC-286%2Fimages%2FDORA-State%2520of%2520DevOps.pdf&usg=AOvVaw3Igoh1u4hGjIr7p9jV1_Ae) report on page 14 they define categories of performance as follows
 
@@ -89,9 +94,9 @@ Of respondents
 - 37% were Medium Performers
 - 15% were Low Performers
 
-Given that low performers are able to deploy between once per week and once per month, within 5 years IITB will must be able to deploy into production within 4 months for all new projects.
+Given that low performers are able to deploy between once per week and once per month, within 5 years IITB must be able to deploy into production within 4 months for all new projects.
 
-Further, not only does ensuring quarterly production deployment align us with industry best practices, and enable us to more quickly respond to business needs, large scale projects with sizeable budgets and timelines run at a high risk of failure.
+Further, not only does ensuring quarterly production deployment align us with industry best practices, and enable us to more quickly respond to business needs, large-scale projects with sizeable budgets and timelines run at a high risk of failure.
 For example, [18F reports](https://github.com/18F/technology-budgeting/blob/master/handbook.md) that "Only 13% of large government software projects are successful" where *large project* is defined as 'Projects valued at $6M or greater, in Europe and the United States, that were completed satisfactorily, on time, and within budget.'
 
 Ensuring regular deliveries also allows IITB to be more responsive to business needs by being able to address the highest value items from many different clients through iterating quickly over many projects throughout the year, rather than focusing on individual projects which lock up significant portions of IITBs capacity.
@@ -99,7 +104,7 @@ In [*War And Peace And IT*](https://itrevolution.com/book/war-and-peace-and-it/)
 Ensuring one prioritizes their priorities properly, ensures that the most value is delivered early on in the project.
 This allows for an alternate model of project management, on where we 'always cancel successful projects, not failing ones'.
 
-A world of opportunities awaits IITB in our [long term plan](./it-picture-long-term.md) if we are able to realize the benefits of treading the path that has already been laid before us by the high performers and world leaders from the IT community.
+A world of opportunities awaits IITB in our [long-term plan](./it-picture-long-term.md) if we are able to realize the benefits of treading the path that has already been laid before us by the high performers and world leaders from the IT community.
 Without it, in the world of running 10 year projects our 5 year trajectory is easily predictable -- the organization will look identical to the organization that exists today.
 
 #### Modern Development Tools
@@ -108,12 +113,34 @@ Without it, in the world of running 10 year projects our 5 year trajectory is ea
 
 #### Strong Culture of Learning
 
+Becoming a Modern Open Organization implies a strong culture of learning. Here's the 2 main categories of employee learning:
+
+- Formal Training (e.g. classroom)
+- Informal Learning
+
+Formal training being a mature and well-recognized practice, ESDC will need to focus on understanding and encouraging informal learning among employees. Especially as [recent estimates suggest](https://www.groupoe.com/images/Accelerating_On-the-Job-Learning_-_White_Paper.pdf) that between 70% to 80% of all job-related knowledge isn't learned in formal training but rather **informally** on-the-job. We observe that formal training hasn't been designed to provide employees with the "on demand" learning they need to maintain current knowledge and proficiency.
+
+> **Informal learning** is any learning that is not formal learning or non-formal learning, such as self-directed learning or learning from experience. [...] it has no set objective in terms of learning outcomes and is never intentional from the learner's standpoint. [...] this includes heuristic language building, socialization, enculturation, and play.  
+> Source: [Wikipedia](https://en.wikipedia.org/wiki/Informal_learning)
+
+One important characteristic of informal learning is that it does not follow a specified curriculum and is not often professionally organized. It rather originates **accidentally**, **sporadically**, in association with **certain occasions**, from changing practical requirements. Also, it has been associated with increased individual, organizational, and market performance.
+
+Some examples of informal learning:
+
+- Self-selected books or Self-study programs;
+- Incidental skills practise;
+- Having a coach or mentor;
+- Seeking advice from peers; and
+- Participation in communities of practice.
+
+This culture change will require many adjustments at all levels of the organization and a strong support from senior management. Along with internal HR-related improvements, it will also extend to modernizing external hiring practices.
+
 ### ESDC Programs
 
 ### Government Partners
 
 ## References
 
-[Digital Operations Strategic Plan: 2018-2022](https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html)
-[Policy on Service](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603)
-['Once-Only' from the European Union](https://ec.europa.eu/digital-single-market/en/news/eu-wide-digital-once-only-principle-citizens-and-businesses-policy-options-and-their-impacts)
+- [Digital Operations Strategic Plan: 2018-2022](https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html)
+- [Policy on Service](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603)
+- ['Once-Only' from the European Union](https://ec.europa.eu/digital-single-market/en/news/eu-wide-digital-once-only-principle-citizens-and-businesses-policy-options-and-their-impacts)
