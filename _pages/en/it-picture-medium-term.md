@@ -78,9 +78,9 @@ It must be a priority to move towards the long term vision of a fully automated 
 
 ### ESDC Departmental Clients
 
-#### IITB Responsiveness 
+#### IITB Responsiveness
 
-IITB will be able to more quickly address multiple projects throughout the year by implementing a quarterly production release (at the very latest), for all projects. By adhering to an agile deployment methodology and a product management approach, the highest business value should be delivered early on in the project and made available to clients after each quarter. As the circumstances change, this problem may then either be worked on for another iteration (one quarter) or, if the relationship between time committed and business value gained would decline compared to other projects competing for resources, then another project made be onboarded for the proceeding quarter. For further details regarding the case for quarertly deployments, please refer to our [documentation](./quarterly-delivery.md).
+IITB will be able to more quickly address multiple projects throughout the year by implementing a quarterly production release (at the very latest), for all projects. By adhering to an agile deployment methodology and a product management approach, the highest business value should be delivered early on in the project and made available to clients after each quarter. As the circumstances change, this problem may then either be worked on for another iteration (one quarter) or, if the relationship between time committed and business value gained would decline compared to other projects competing for resources, then another project made be onboarded for the proceeding quarter. For further details regarding the case for quarterly deployments, please refer to our [documentation](./quarterly-delivery.md).
 
 ### Government Partners
 
