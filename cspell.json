@@ -91,7 +91,10 @@
     "PDFs",
     "Westrum",
     "IITBs",
-    "onboarded"
+    "onboarded",
+    "infosec",
+    "preapproved",
+    "toolchains"
   ],
   "flagWords": [],
   "dictionaries": [
