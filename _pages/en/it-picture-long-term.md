@@ -91,7 +91,7 @@ Ecosystem of services are created by leveraging private sector expertise where o
 
 Enterprise Architecture (EA) committees and review boards at IITB-ESDC have aligned with TBS mandatory procedures for EA (users, open standards, open source software and cloud first).
 Wherever possible code and projects are developed in the open and use of open source software is the norm.
-EA teams provide a loosely coupled architecture that empowers development and operations teams to meet business needs.
+EA teams provide a loosely coupled architecture (reusable infrastructure artifacts and components) that empowers development and operations teams to meet business needs.
 
 Where possible, services are hosted on cloud infrastructure using containers. (TODO: find cloud adoption rates)
 
