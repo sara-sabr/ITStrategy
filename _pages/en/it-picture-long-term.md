@@ -18,6 +18,7 @@ In the following sections, we're trying to take the same end state and create "v
   - [Self-Service](#self-service)
   - [Service Centres and Outreach](#service-centres-and-outreach)
 - [Private Sector](#private-sector)
+  - [IoT Integration](#IoT-Integration)
   - [Any platform, any device, 3rd party integration](#any-platform-any-device-3rd-party-integration)
   - [Open Collaboration](#open-collaboration)
 - [IITB-ESDC](#iitb-esdc)
@@ -26,38 +27,51 @@ In the following sections, we're trying to take the same end state and create "v
 
 ### Citizens
 
-- Cyber security and privacy - citizens have a choice to share their personal data for convenience
+- Cyber security and privacy: citizens have a choice to share their personal data for convenience
 - Generational change: Citizens are used to deal with technologies, they do not face technical illiteracy like 2019.
+- One GC: Citizens do not interact with individual departments, they interact with federal government's services without having to understand the way those are administered.
 
 #### Automatic Enrollment and Delivery
 
 Enrollment and delivery of services is automated by default and wherever possible.
 These Canadians are benefiting seamlessly from GC services.
-GC Services are integrated with widely used third party platforms and services (Banks, CRA, Social media, Job boards, Internet of things, ..).
+GC Services are integrated with widely used third party platforms and services (e.g. Banks, CRA, Social media, Job boards, Internet of things).
 Services are accessible anywhere, anytime, from any device, and from any partner.
 90% of citizens (33 300 000 people) have a trusted Canadian profile used to verify/validate identity via the [Pan-Canadian Trust Framework](https://diacc.ca/pan-canadian-trust-framework/).
 These citizens receive their benefits seamlessly throughout their lives as major life events trigger the delivery of benefits.
 
 #### Self-Service
 
-The GC (OneGC) Portal provides access to services and benefits (not just ESDC) in tell us once fashion.
-See the [GC Digital Operations Strategic Plan: 2018-2022](https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html).
+The GC (OneGC) Portal provides access to services and benefits (not just ESDC) in a tell us once fashion [\[1\]](#References).
 
-Registering to the Portal will create or use the trusted Canadian profile and enable automatic enrollment and delivery in the future.
+Registering to the Portal will create or use the trusted Canadian profile and enable automatic enrollment and delivery of eligible benefits.
 Help for using the Portal is available directly on the Portal using instant messaging (text, voice or video) as well as by phone.
 Results in easier access to services through delivering services to the client through hands-off automated processes or supplemented by staff if required.
 
 #### Service Centres and Outreach
 
+<<<<<<< HEAD
 For the 10% not enrolled automatically and unable to use the GC Portal (3 700 000 people), small service centres are available, especially in remote regions. Further, the costs saved through reduced real estate could be invested in sending representatives to areas where service uptake is lagging. In this way, through a reduced reliance on physical real estate, ESDC is better able to service regions in need.
 
 Said service representatives would be able to...
 
 - Help citizens register and use digital services
 - Use the digital services on behalf of clients (there should be no separate 'admin service functions', these should all be automated)
+=======
+For the 10% not enrolled automatically and unable to use the GC Portal (3 700 000 people), small service centres are available, especially in remote regions.
+Service Canada employees are mobile and have the ability to meet clients at their homes as opposed to requiring them to physically go to a service centre location.
+Their role is to help citizens register and use digital services.
+They can also use the digital services on behalf of clients.
+>>>>>>> - edited table of content
 
 GC departments have common kiosks to offer services, such as passports, taxes, grants as well as benefits from ESDC.
 Outreach programs are deployed to raise awareness in low uptake areas.
+
+### Private Sector
+
+- Private sector includes for profit companies, not for profit organizations, academia, and private citizens
+- ESDC leverages the private sectors to expand its service outreach, better its service experience, and connect more directly with citizens
+- Private sector actively participates in both service design and service delivery
 
 #### IoT Integration
 
@@ -69,6 +83,7 @@ An example of the repercussions of such an implementation can be found [here](ht
 In a service-based environment, success is not measured by the number of users your service attracts, but rather the number of users amassed by the services that leverage your service. Add source (Microsoft)
 
 User privacy must still be preserved and modern digital identity recognition technologies are leveraged (e.g. facial, biometrics).
+Clients control their private data and have the ability to decide, for each services, whether to share it or not to influence their user experience.
 
 #### Any platform, any device, 3rd party integration
 
@@ -83,10 +98,15 @@ Ecosystem of services are created by leveraging private sector expertise where o
 
 #### Open Collaboration
 
-- ESDC custom built software are published as open source, allowing Academia and learning institutions to use them, helping grow technological skill sets in the country, fostering economic growth, improving transparency and trust in government, and increasing the breadth of talent for ESDC to use by welcoming contributions back
+- ESDC custom built software are published as open source, allowing Academia and learning institutions to use them, helping grow technological skill sets in the country, fostering economic growth, improving transparency and trust in government, and increasing the breadth of talent for ESDC to use by welcoming contributions back ( e.g. The Canadian version of [code.gov](https://code.gov/))
 - ESDC data (performance and automated decision making statistics) published as open datasets
 
 ### IITB-ESDC
+
+- Technology is used in all of ESDC's service delivery
+- IT services are able to response in a timely manner to the ever growing pace of business change
+- The relationship between ESDC Service lines and IITB is harmonized where business understands the risk of IT and the success of IT is measured via business success
+- IT Policy compliance does not hinder service performance objectives
 
 #### Modern Open Organization
 
@@ -112,6 +132,7 @@ User Interfaces (UI) are completely decoupled from the service interfaces, allow
 TODO: Add an architecture view mapping our GC partners (e.g. TBS DXP to integrate with OneGC Portal, SSC for public cloud).
 
 - Digital Exchange (APIs, Messaging)
+- Digital Identity
 - Cloud Brokering
 - HR Services
 
