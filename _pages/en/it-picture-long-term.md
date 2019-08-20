@@ -134,12 +134,17 @@ ESDC employees are able to work from anywhere (TODO: validate measure with trend
 
 #### Strong Culture of Learning
 
-- Support a generative culture (as outlined by Westrum)
+Guided by principles such as [Moore's Law](https://en.m.wikipedia.org/wiki/Moore%27s_law), [the increased demand for high-skilled computer and information systems professionals in Canada](https://www150.statcan.gc.ca/n1/daily-quotidien/171129/dq171129b-eng.htm), and [the rapidly increasing impact of automation](https://www.pwc.com/gx/en/issues/data-and-analytics/publications/artificial-intelligence-study.html) creating a strong culture of learning is imperative if the ESDC is to be able to deliver services that match the expectations of citizens. 
+
+Looking forward, ESDC at large and especially the tech focused IITB will need to 
 - Encourage and support learning
+- Support a generative culture ([as outlined by Westrum](https://qualitysafety.bmj.com/content/13/suppl_2/ii22.short))
 - Forster and enable team experimentation
 - Support and facilitate collaboration among teams
 - Provide resources and tools that make work meaningful
 - Support or embody transformational leadership
+
+For more information regarding how IITB should go about promoting the development of said culture, please visit [here](https://sara-sabr.github.io/ITStrategy/enable-learning.html).
 
 IITB has a very open culture that values learning (TODO: find a tangible example)
 TODO: Add recruitment best practices, including for domains other than IT.
