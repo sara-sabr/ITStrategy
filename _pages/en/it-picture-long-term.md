@@ -49,9 +49,9 @@ Results in easier access to services through delivering services to the client t
 
 #### Service Centres and Outreach
 
-For the 10% not enrolled automatically and unable to use the GC Portal (3 700 000 people), small service centres are available, especially in remote regions. Further, the costs saved through reduced real estate could be invested in sending representatives to areas where service uptake is lagging. In this way, through a reduced reliance on physical real estate, ESDC is better able to service regions in need. 
+For the 10% not enrolled automatically and unable to use the GC Portal (3 700 000 people), small service centres are available, especially in remote regions. Further, the costs saved through reduced real estate could be invested in sending representatives to areas where service uptake is lagging. In this way, through a reduced reliance on physical real estate, ESDC is better able to service regions in need.
 
-Said service representatives would be able to... 
+Said service representatives would be able to...
 
 - Help citizens register and use digital services
 - Use the digital services on behalf of clients (there should be no separate 'admin service functions', these should all be automated)
@@ -98,10 +98,10 @@ EA teams provide a loosely coupled architecture (reusable infrastructure artifac
 
 EA is held accountable to:
 
-- Provide an artifact repository which, when used by other teams, puts them into compliance 
-- Other teams may freely opt out of their services, and they will be measured against the uptake rate from their clients 
+- Provide an artifact repository which, when used by other teams, puts them into compliance
+- Other teams may freely opt out of their services, and they will be measured against the uptake rate from their clients
 
-For more information regarding a [Service Culture please refer here](https://sara-sabr.github.io/ITStrategy/service-culture.html). 
+For more information regarding a [Service Culture please refer here](https://sara-sabr.github.io/ITStrategy/service-culture.html).
 
 Where possible, services are hosted on cloud infrastructure using containers. (TODO: find cloud adoption rates)
 
