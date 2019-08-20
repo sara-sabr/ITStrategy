@@ -33,7 +33,21 @@ Ideally, each context switch in the value stream should be as automated as possi
 
 ##### Shift Quality Left
 
-When automation is leveraged and new processes are created there need be a focus on shifting quality left and reducing context switching.
+When automation is leveraged and new processes are created there need be a focus on reducing [Context Switches](https://itrevolution.com/context-switches-in-software-engineering/) and shifting quality left. Often when one talks abut [shifting quality left](https://dzone.com/articles/how-shift-left-testing-works) one speaks of testing. Thus, below we have opted to include a reference that discusses infosec shifting left.
+
+In [Accelerate](https://itrevolution.com/book/accelerate/), written by [
+Nicole Forsgren](https://itrevolution.com/faculty/nicole-forsgren/), [Jez Humble](https://itrevolution.com/faculty/jaz-humble/), and [Gene Kim](https://itrevolution.com/faculty/gene-kim/), on page 70 it reads
+
+> "information security should be integrated into the entire software delivery lifecycle from development through operations. This means infosec experts should contribute to the process of designing applications, attend and provide feedback on demonstrations of the software, and ensure that security features are tested as part of the automated test suite. "
+
+...
+
+> "This can be achieved by ensuring that there are easy-to-consume, preapproved libraries, packages, toolchains, and processes available for developers and IT operations."
+> "In many organizations, security and compliance is a significant bottleneck for taking systems from 'dev complete' to live. Involving infosec professionals throughout the development process also has the effect of improving communication and information flow -- a win-win and a core goal of DevOps."
+
+Automation will change the way we work. He must adjust structures and processes to best leverage the opportunities that lay before us regarding automation. Teams must offer an opt-in set of services which should best meet their clients needs. If this is not the case, clients should look elsewhere to better meet their teams needs.
+
+It should be the case that internal teams are better able to address the needs of their internal clients, given that they are able to focus exclusively on their unique problems. If another solution better addresses the needs of internal clients then this service-based approach should provide feedback to the internal team providing the service, indicating to them that their services are not enabling efficient use of time and resources, thus permitting them to refocus their efforts where they are most needed by their clients within the organization. This method aligns well with the [Systems Thinking](https://itrevolution.com/the-three-ways-principles-underpinning-devops/) approach, one of the three core tenants of DevOps.
 
 ### Scaling the Client Model
 
