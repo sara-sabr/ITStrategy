@@ -97,7 +97,7 @@ Where possible, services are hosted on cloud infrastructure using containers. (T
 
 Internal and external services are developed and supported as APIs first.
 APIs for services to Canadians are made available through the API store.
-All user interfaces (UI) developed use existing APIs.
+User Interfaces (UI) are completely decoupled from the service interfaces, allowing for different UIs to be built and interact with the services according to the channel of choice of the end-user.
 
 TODO: Add an architecture view mapping our GC partners (e.g. TBS DXP to integrate with OneGC Portal, SSC for public cloud).
 
