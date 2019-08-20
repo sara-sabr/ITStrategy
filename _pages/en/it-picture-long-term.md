@@ -94,13 +94,13 @@ Ecosystem of services are created by leveraging private sector expertise where o
 
 Enterprise Architecture (EA) committees and review boards at IITB-ESDC have aligned with TBS mandatory procedures for EA (users, open standards, open source software and cloud first).
 Wherever possible code and projects are developed in the open and use of open source software is the norm.
-EA teams enforce a loosely coupled architecture that empowers development and operations teams to meet business needs.
+EA teams provide a loosely coupled architecture (reusable infrastructure artifacts and components) that empowers development and operations teams to meet business needs.
 
 Where possible, services are hosted on cloud infrastructure using containers. (TODO: find cloud adoption rates)
 
 Internal and external services are developed and supported as APIs first.
 APIs for services to Canadians are made available through the API store.
-All user interfaces (UI) developed use existing APIs and don't interact with the database directly.
+User Interfaces (UI) are completely decoupled from the service interfaces, allowing for different UIs to be built and interact with the services according to the channel of choice of the end-user.
 
 TODO: Add an architecture view mapping our GC partners (e.g. TBS DXP to integrate with OneGC Portal, SSC for public cloud).
 
@@ -139,7 +139,7 @@ ESDC employees are able to work from anywhere (TODO: validate measure with trend
 
 Guided by principles such as [Moore's Law](https://en.m.wikipedia.org/wiki/Moore%27s_law), [the increased demand for high-skilled computer and information systems professionals in Canada](https://www150.statcan.gc.ca/n1/daily-quotidien/171129/dq171129b-eng.htm), and [the rapidly increasing impact of automation](https://www.pwc.com/gx/en/issues/data-and-analytics/publications/artificial-intelligence-study.html) creating a strong culture of learning is imperative if the ESDC is to be able to deliver services that match the expectations of citizens.
 
-Looking forward, ESDC at large and especially the tech focused IITB will need to...
+Looking forward, ESDC at large and especially the tech focused IITB will need to:
 
 - Encourage and support learning
 - Support a generative culture ([as outlined by Westrum](https://qualitysafety.bmj.com/content/13/suppl_2/ii22.short))
