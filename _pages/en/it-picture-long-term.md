@@ -92,9 +92,16 @@ Ecosystem of services are created by leveraging private sector expertise where o
 
 ##### Enterprise Architecture
 
-Enterprise Architecture (EA) committees and review boards at IITB-ESDC have aligned with TBS mandatory procedures for EA (users, open standards, open source software and cloud first).
+Enterprise Architecture (EA) committees and review boards at IITB-ESDC have aligned with TBS mandatory procedures for EA (users, open standards, open source software and [smart cloud](https://cloud.cio.gov/)).
 Wherever possible code and projects are developed in the open and use of open source software is the norm.
 EA teams provide a loosely coupled architecture (reusable infrastructure artifacts and components) that empowers development and operations teams to meet business needs.
+
+EA is held accountable to:
+
+- Provide an artifact repository which, when used by other teams, puts them into compliance 
+- Other teams may freely opt out of their services, and they will be measured against the uptake rate from their clients 
+
+For more information regarding a [Service Culture please refer here](https://sara-sabr.github.io/ITStrategy/service-culture.html). 
 
 Where possible, services are hosted on cloud infrastructure using containers. (TODO: find cloud adoption rates)
 
