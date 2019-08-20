@@ -87,25 +87,17 @@ Ecosystem of services are created by leveraging private sector expertise where o
 
 #### Modern Open Organization
 
-IITB is a modern open organization with a very open culture.
-Wherever possible code and projects are developed in the open and use of open source software is the norm.
-IITB is the digital, IM and IT advisor and enabler for ESDC and part of major business decisions.
-IITB is responsible for providing the automated services required to run a secure and agile business.
-This includes, automated software onboarding approval, key data exchange systems with which business may interact with, and an environment by which business may securely deploy their own solutions.
+##### Enterprise Architecture
 
-- 90% of employees are able to work from anywhere (TODO: validate measure with trends)
-- Internal and external services are available through APIs
-- 98% of services are running on public cloud infrastructure (TODO: find cloud adoption rates)
-- Workloads that are classified Protected B and below are hosted on the public cloud.
-  - Classified workloads (secret information) on SSC data centres
-- IITB serves as a stewart of IT in ESDC and has embedded IT expertise in program areas (since it has moved to DevOps and Product Management).
-  - As a stewart, IITB provides ESDC Programs and their employees with the following services:
-    - Corporate services (hardware and software support)
-    - Cyber security
-    - Technology architecture
-    - Development teams
-- Automation of internal services
-- Leveraging IT services (from IITB) in a self-serving method
+Enterprise Architecture (EA) comittees and review boards at IITB-ESDC have aligned with TBS mandatory procedures for EA (users, open standards, open source software and cloud first).
+Wherever possible code and projects are developed in the open and use of open source software is the norm.
+EA teams enforce a loosely coupled architecture that empowers development and operations teams to meet business needs.
+
+Where possible, services are hosted on cloud infrastructure using containers. (TODO: find cloud adoption rates)
+
+Internal and external services are developped and supported as APIs first.
+APIs for services to Canadians are made available through the API store.
+All user interfaces (UI) developped use existing APIs and don't interact with the database directly.
 
 TODO: Add an architecture view mapping our GC partners (e.g. TBS DXP to integrate with OneGC Portal, SSC for public cloud).
 
@@ -113,9 +105,41 @@ TODO: Add an architecture view mapping our GC partners (e.g. TBS DXP to integrat
 - Cloud Brokering
 - HR Services
 
+##### Continuous Delivery
+
+Production artifacts (code, configuration, documentation, ..) are kept using version control, in the open where possible.
+Changes trigger continuous integration (CI) tests (static, unit, sanity, security) that are run before changes can be accepted during code review.
+Continuous delivery (CD) pipelines are defined with a clear path to deploy to Production following tests, code review and a lightweight change approval process.
+Small changes are frequently deployed to production.
+IITB monitors services, applications and infrastructure to check system health proactively as well as inform business decisions.
+
+Teams work using the agile methodology to gather and implement customer feedback, working in small batches (iteration or sprint).
+Where possible work is being done in the open make the work visible to all teams and interested parties.
+
+##### Internal IT services
+
+IITB is the digital, IM and IT advisor and enabler for ESDC and part of major business decisions.
+IITB is responsible for providing the automated services required to run a secure and agile business.
+This includes, automated software onboarding approval, key data exchange systems with which business may interact with, and an environment by which business may securely deploy their own solutions.
+
+IITB serves as a stewart of IT in ESDC and has embedded IT expertise in program areas (since it has moved to DevOps and Product Management).
+As a stewart, IITB provides ESDC Programs and their employees with the following services:
+
+- Corporate services (hardware and software support)
+- Cyber security
+- Technology architecture
+- Development teams
+
+ESDC employees are able to work from anywhere (TODO: validate measure with trends)
+
 #### Strong Culture of Learning
+
+- Support a generative culture (as outlined by Westrum)
+- Encourage and support learning
+- Forster and enable team experimentation
+- Support and facilitate collaboration among teams
+- Provide resources and tools that make work meaningful
+- Support or embody transformational leadership
 
 IITB has a very open culture that values learning (TODO: find a tangible example)
 TODO: Add recruitment best practices, including for domains other than IT.
-
-### Terms
