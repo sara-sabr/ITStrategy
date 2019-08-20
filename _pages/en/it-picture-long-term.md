@@ -50,10 +50,12 @@ Results in easier access to services through delivering services to the client t
 
 #### Service Centres and Outreach
 
-For the 10% not enrolled automatically and unable to use the GC Portal (3 700 000 people), small service centres are available, especially in remote regions.
-Service Canada employees are mobile and have the ability to meet clients at their homes as opposed to requiring them to physically go to a service centre location.
-Their role is to help citizens register and use digital services.
-They can also use the digital services on behalf of clients.
+For the 10% not enrolled automatically and unable to use the GC Portal (3 700 000 people), small service centres are available, especially in remote regions. Further, the costs saved through reduced real estate could be invested in sending representatives to areas where service uptake is lagging. In this way, through a reduced reliance on physical real estate, ESDC is better able to service regions in need.
+
+Said service representatives would be able to...
+
+- Help citizens register and use digital services
+- Use the digital services on behalf of clients (there should be no separate 'admin service functions', these should all be automated)
 
 GC departments have common kiosks to offer services, such as passports, taxes, grants as well as benefits from ESDC.
 Outreach programs are deployed to raise awareness in low uptake areas.
@@ -101,25 +103,31 @@ Ecosystem of services are created by leveraging private sector expertise where o
 
 #### Modern Open Organization
 
-IITB is a modern open organization with a very open culture.
-Wherever possible code and projects are developed in the open and use of open source software is the norm.
-IITB is the digital, IM and IT advisor and enabler for ESDC and part of major business decisions.
-IITB is responsible for providing the automated services required to run a secure and agile business.
-This includes, automated software onboarding approval, key data exchange systems with which business may interact with, and an environment by which business may securely deploy their own solutions.
+##### Enterprise Architecture
 
-- 90% of employees are able to work from anywhere (TODO: validate measure with trends)
-- Internal and external services are available through APIs
-- 98% of services are leveraging cloud technology (TODO: find cloud adoption rates, how many use the public cloud vs private cloud)
-- The government is moving away from the business of data centers, relying on industry expertise to keep up to date with IT infrastructure (TO DO: public cloud industry providing services for on premise data centres - what does  that mean with ESDC's relationship?)
-- IITB serves as a stewart of IT in ESDC and has embedded IT expertise in program areas (since it has moved to DevOps and Product Management).
-  - As a stewart, IITB provides ESDC Programs and their employees with the following services:
-    - Corporate services (hardware and software support)
-    - Cyber security
-    - Technology architecture
-    - Development teams
-    - IT Policy compliance assurance and risk mitigation
-- Automation of internal services, including compliance assurance
-- Leveraging IT services (from IITB) in a self-serving method
+Enterprise Architecture (EA) committees and review boards at IITB-ESDC have aligned with TBS mandatory procedures for EA (users, open standards, open source software and [smart cloud](https://cloud.cio.gov/)).
+Wherever possible code and projects are developed in the open and use of open source software is the norm.
+EA teams provide a loosely coupled architecture (reusable infrastructure artifacts and components) that empowers development and operations teams to meet business needs.
+
+EA is held accountable to:
+
+- Provide an artifact repository which, when used by other teams, puts them into compliance
+- Produce reference architectures for solution teams to use and align their designs to
+- Recommend investment decision bodies on areas IT needs to invest in
+
+Teams may freely opt out of EA services but will be held accountable for assuring compliance.
+EA will be measured against the uptake rate from their clients
+
+For more information regarding a [Service Culture please refer here](https://sara-sabr.github.io/ITStrategy/service-culture.html).
+
+The government is moving away from the business of data centers, relying on industry expertise to keep up to date with IT infrastructure.
+This has made possible federal government to adopt cloud technologies either in the public cloud, or on premise.
+98% of services are leverage cloud technology.
+(TODO: find cloud adoption rates)
+
+Internal and external services are developed and supported as APIs first.
+APIs for services to Canadians are made available through the API store.
+User Interfaces (UI) are completely decoupled from the service interfaces, allowing for different UIs to be built and interact with the services according to the channel of choice of the end-user.
 
 TODO: Add an architecture view mapping our GC partners (e.g. TBS DXP to integrate with OneGC Portal, SSC for public cloud).
 
@@ -128,20 +136,52 @@ TODO: Add an architecture view mapping our GC partners (e.g. TBS DXP to integrat
 - Cloud Brokering
 - HR Services
 
+##### Continuous Delivery
+
+Production artifacts (code, configuration, documentation, ..) are kept using version control, in the open where possible.
+Changes trigger continuous integration (CI) tests (static, unit, sanity, security) that are run before changes can be accepted during code review.
+Continuous delivery (CD) pipelines are defined with a clear path to deploy to Production following tests, code review and a lightweight change approval process.
+Small changes are frequently deployed to production.
+IITB monitors services, applications and infrastructure to check system health proactively as well as inform business decisions.
+
+Teams work using the agile methodology to gather and implement customer feedback, working in small batches (iteration or sprint).
+Where possible work is being done in the open make the work visible to all teams and interested parties.
+
+##### Internal IT services
+
+IITB is the digital, IM and IT advisor and enabler for ESDC and part of major business decisions.
+IITB is responsible for providing the automated services required to run a secure and agile business.
+This includes, automated software onboarding approval, key data exchange systems with which business may interact with, and an environment by which business may securely deploy their own solutions.
+
+IITB serves as a stewart of IT in ESDC and has embedded IT expertise in program areas (since it has moved to DevOps and Product Management).
+As a stewart, IITB provides ESDC Programs and their employees with the following services:
+
+- Corporate services (hardware and software support)
+- Cyber security
+- Technology architecture
+- Development teams
+
+ESDC employees are able to work from anywhere (TODO: validate measure with trends)
+
 #### Strong Culture of Learning
 
-- IITB has a very open culture that values learning (TODO: find a tangible example)
-- All of IITB's services have performance metrics that are used to continuously improve. These include committee performance.
+Guided by principles such as [Moore's Law](https://en.m.wikipedia.org/wiki/Moore%27s_law), [the increased demand for high-skilled computer and information systems professionals in Canada](https://www150.statcan.gc.ca/n1/daily-quotidien/171129/dq171129b-eng.htm), and [the rapidly increasing impact of automation](https://www.pwc.com/gx/en/issues/data-and-analytics/publications/artificial-intelligence-study.html) creating a strong culture of learning is imperative if the ESDC is to be able to deliver services that match the expectations of citizens.
+
+Looking forward, ESDC at large and especially the tech focused IITB will need to:
+
+- Encourage and support learning
+- Support a generative culture ([as outlined by Westrum](https://qualitysafety.bmj.com/content/13/suppl_2/ii22.short))
+- Forster and enable team experimentation
+- Support and facilitate collaboration among teams
+- Provide resources and tools that make work meaningful
+- Support or embody transformational leadership
+
+For more information regarding how IITB should go about promoting the development of said culture, please visit [here](https://sara-sabr.github.io/ITStrategy/enable-learning.html).
+
+IITB has a very open culture that values learning (TODO: find a tangible example)
 TODO: Add recruitment best practices, including for domains other than IT.
-
-#### Lean Governance and automated compliance
-
-- IT uses DevOps and the Cloud as a means to better manage risk and capital investments [\[2\]](#References)
-- Compliance to IT Policies and Enterprise Architectures are automated as much as possible (e.g. automated testing, automated security assessments, automated patching, automated legal compliance)
-- Enterprise Architectures has moved to non-prescriptive reference architectures with consistent evolution from feedbacks, as well as a decision making ability for financial investment decisions (TODO: sources)
-- IT Standards take source from IT Policies (e.g. GC standards) as opposed to software packages and corporate tools that change too rapidly and require to be patched regularly
-- Automation of compliance and lean governance has reduced the number of committees and decision making steps, reducing the gap between end-users of IT developers
-- IT deployments to production, for each ESDC services, occur daily
+All of IITB's services have performance metrics that are used to continuously improve. These include most committees as well.
+TODO: Add recruitment best practices, including for domains other than IT.
 
 ## References
 

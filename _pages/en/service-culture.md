@@ -27,7 +27,13 @@ If there exists a group that does not add to the [Value Stream](https://itrevolu
 
 #### Role of Automation
 
+##### Toil
+
 Ideally, each context switch in the value stream should be as automated as possible. Each group should interact with one another through a list of *services*. This aim is to ensure that when value is added, it is added in a scalable manner. This requires that [Toil](https://landing.google.com/sre/sre-book/chapters/eliminating-toil/) be reduced when looking to solve organizational problems.
+
+##### Shift Quality Left
+
+When automation is leveraged and new processes are created there need be a focus on shifting quality left and reducing context switching.
 
 ### Scaling the Client Model
 
@@ -36,4 +42,4 @@ Ideally, each context switch in the value stream should be as automated as possi
 3. Once IITB has generated the internal knowledge permitting an efficient internal service culture, begin interacting with its clients in a similar fashion. All of IITB's services to our clients should be automated. Clients should be able to interact with our services in an automated fashion, opting into the services due to their value added.
 4. Continue scaling this approach to evolve the manner in which Canadians and private enterprise interacts with ESDC and other governmental bodies. Initiatives in this direction are already taking place, such as the recent addition of ESDC services to the Government of Canada's [Api Store](https://api.canada.ca/en/homepage).
 
-For further details as to the organizational, cultural, and procedural, changes that muts be made in order to achieve the evolution to an efficient Service Culture, please refer to our [Strategic Roadmap](https://sara-sabr.github.io/ITStrategy/strategy-summary.html).
+For further details as to the organizational, cultural, and procedural, changes that must be made in order to achieve the evolution to an efficient Service Culture, please refer to our [Strategic Roadmap](https://sara-sabr.github.io/ITStrategy/strategy-summary.html).
