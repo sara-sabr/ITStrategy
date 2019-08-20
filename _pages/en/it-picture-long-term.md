@@ -49,9 +49,12 @@ Results in easier access to services through delivering services to the client t
 
 #### Service Centres and Outreach
 
-For the 10% not enrolled automatically and unable to use the GC Portal (3 700 000 people), small service centres are available, especially in remote regions.
-Their role is to help citizens register and use digital services.
-They can also use the digital services on behalf of clients.
+For the 10% not enrolled automatically and unable to use the GC Portal (3 700 000 people), small service centres are available, especially in remote regions. Further, the costs saved through reduced real estate could be invested in sending representatives to areas where service uptake is lagging. In this way, through a reduced reliance on physical real estate, ESDC is better able to service regions in need. 
+
+Said service representatives would be able to... 
+
+- Help citizens register and use digital services
+- Use the digital services on behalf of clients (there should be no separate 'admin service functions', these should all be automated)
 
 GC departments have common kiosks to offer services, such as passports, taxes, grants as well as benefits from ESDC.
 Outreach programs are deployed to raise awareness in low uptake areas.
@@ -134,9 +137,10 @@ ESDC employees are able to work from anywhere (TODO: validate measure with trend
 
 #### Strong Culture of Learning
 
-Guided by principles such as [Moore's Law](https://en.m.wikipedia.org/wiki/Moore%27s_law), [the increased demand for high-skilled computer and information systems professionals in Canada](https://www150.statcan.gc.ca/n1/daily-quotidien/171129/dq171129b-eng.htm), and [the rapidly increasing impact of automation](https://www.pwc.com/gx/en/issues/data-and-analytics/publications/artificial-intelligence-study.html) creating a strong culture of learning is imperative if the ESDC is to be able to deliver services that match the expectations of citizens. 
+Guided by principles such as [Moore's Law](https://en.m.wikipedia.org/wiki/Moore%27s_law), [the increased demand for high-skilled computer and information systems professionals in Canada](https://www150.statcan.gc.ca/n1/daily-quotidien/171129/dq171129b-eng.htm), and [the rapidly increasing impact of automation](https://www.pwc.com/gx/en/issues/data-and-analytics/publications/artificial-intelligence-study.html) creating a strong culture of learning is imperative if the ESDC is to be able to deliver services that match the expectations of citizens.
 
-Looking forward, ESDC at large and especially the tech focused IITB will need to 
+Looking forward, ESDC at large and especially the tech focused IITB will need to...
+
 - Encourage and support learning
 - Support a generative culture ([as outlined by Westrum](https://qualitysafety.bmj.com/content/13/suppl_2/ii22.short))
 - Forster and enable team experimentation
