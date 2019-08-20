@@ -63,8 +63,8 @@ Outreach programs are deployed to raise awareness in low uptake areas.
 ### Private Sector
 
 - Private sector includes for profit companies, not for profit organizations, academia, and private citizens
-- ESDC leverages the private sectors to expand its service outreach, better its service experience, and connect more directly with citizens
-- Private sector actively participates in both service design and service delivery
+- Through leveraging the governments endpoints the private sector is able to offer the opt-in delivery and integration of government services into their offerings (taking into account this is complimented by the government provided alternate methods of service delivery)
+- Through working in the open, private sector is able to comment on, request, and offer improvements of, government services.
 
 #### IoT Integration
 
@@ -96,8 +96,8 @@ Ecosystem of services are created by leveraging private sector expertise where o
 
 ### IITB-ESDC
 
-- Technology is used in all of ESDC's service delivery
-- IT services are able to response in a timely manner to the ever growing pace of business change
+- Groups within IITB should interact with each other through automated processes
+- All committees and processes must collect metrics for their performance to be tracked and analyzed
 - The relationship between ESDC Service lines and IITB is harmonized where business understands the risk of IT and the success of IT is measured via business success
 - IT Policy compliance does not hinder service performance objectives
 
