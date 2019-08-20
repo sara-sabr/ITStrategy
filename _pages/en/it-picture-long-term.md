@@ -89,15 +89,15 @@ Ecosystem of services are created by leveraging private sector expertise where o
 
 ##### Enterprise Architecture
 
-Enterprise Architecture (EA) comittees and review boards at IITB-ESDC have aligned with TBS mandatory procedures for EA (users, open standards, open source software and cloud first).
+Enterprise Architecture (EA) committees and review boards at IITB-ESDC have aligned with TBS mandatory procedures for EA (users, open standards, open source software and cloud first).
 Wherever possible code and projects are developed in the open and use of open source software is the norm.
 EA teams enforce a loosely coupled architecture that empowers development and operations teams to meet business needs.
 
 Where possible, services are hosted on cloud infrastructure using containers. (TODO: find cloud adoption rates)
 
-Internal and external services are developped and supported as APIs first.
+Internal and external services are developed and supported as APIs first.
 APIs for services to Canadians are made available through the API store.
-All user interfaces (UI) developped use existing APIs and don't interact with the database directly.
+All user interfaces (UI) developed use existing APIs and don't interact with the database directly.
 
 TODO: Add an architecture view mapping our GC partners (e.g. TBS DXP to integrate with OneGC Portal, SSC for public cloud).
 
