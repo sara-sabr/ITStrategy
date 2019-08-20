@@ -27,11 +27,11 @@ If there exists a group that does not add to the [Value Stream](https://itrevolu
 
 #### Role of Automation
 
-##### Toil 
+##### Toil
 
 Ideally, each context switch in the value stream should be as automated as possible. Each group should interact with one another through a list of *services*. This aim is to ensure that when value is added, it is added in a scalable manner. This requires that [Toil](https://landing.google.com/sre/sre-book/chapters/eliminating-toil/) be reduced when looking to solve organizational problems.
 
-##### Shift Quality Left 
+##### Shift Quality Left
 
 When automation is leveraged and new processes are created there need be a focus on shifting quality left and reducing context switching.
 
