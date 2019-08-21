@@ -94,7 +94,9 @@
     "onboarded",
     "infosec",
     "preapproved",
-    "toolchains"
+    "toolchains",
+    "hrsdc",
+    "rhdcc"
   ],
   "flagWords": [],
   "dictionaries": [
