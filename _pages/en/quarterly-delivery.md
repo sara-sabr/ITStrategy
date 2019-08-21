@@ -1,3 +1,12 @@
+---
+layout: default
+title: Quarterly Delivery
+ref: quarterly-delivery
+lang: en
+status: posted
+permalink: /quarterly-delivery.html
+---
+
 ## Project Quarterly Delivery
 
 All new projects must deliver a functional product at the end of each quarter, at the absolute latest.
