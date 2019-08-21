@@ -1,20 +1,22 @@
 ---
 layout: default
-title: Reference Materials
+title: Matériel de référence
 ref: references
-lang: en
+lang: fr
 status: posted
-permalink: /references.html
+permalink: /références.html
 ---
 <!-- markdownlint-disable MD025-->
 # {{ page.title }}
 <!-- markdownlint-enable MD025 -->
 
-The following are reference materials for the IT Strategy team to use.
+Le matériel de référence présent sur cette page est utilisé par l'équipe de Stratégie TI pour son travail ou nous a été recommandé.
 
-These materials are meant to be sources of inspiration, guidance, or policies that we need to consider when crafting our strategies.
+Ces références ont comme objectif de servir d'inspiration, de guide ou sont même des politiques qui doivent être considérées lors de la création de nos stratégies.
 
 Some of that content may only be available on GC/ESDC network so if the link doesn't work externally, we apologize for the inconvenience!
+
+Si vous voulez nous proposer des livres, des articles, des vidéos ou même des politiques à ajouter à ces listes, n'hésitez pas à nous contacter!
 
 ## ESDC and GoC Specifics
 
