@@ -29,7 +29,7 @@ In the following sections, we're trying to take the same end state and create "v
 
 - Cyber security and privacy: citizens have a choice to share their personal data for convenience
 - Generational change: Citizens are used to deal with technologies, they do not face technical illiteracy like 2019.
-- One GC: Citizens do not interact with individual departments, they interact with federal government's services without having to understand the way those are administered.
+- One GC: Citizens interact with federal government services, without having to understand how those are administered by multiple departments. That interaction is either via a central GC Portal or via 3rd party providers like banks, employers, provincial services.
 
 #### Automatic Enrollment and Delivery
 
@@ -50,26 +50,19 @@ Results in easier access to services through delivering services to the client t
 
 #### Service Centres and Outreach
 
-<<<<<<< HEAD
 For the 10% not enrolled automatically and unable to use the GC Portal (3 700 000 people), small service centres are available, especially in remote regions. Further, the costs saved through reduced real estate could be invested in sending representatives to areas where service uptake is lagging. In this way, through a reduced reliance on physical real estate, ESDC is better able to service regions in need.
 
 Said service representatives would be able to...
 
 - Help citizens register and use digital services
 - Use the digital services on behalf of clients (there should be no separate 'admin service functions', these should all be automated)
-=======
-For the 10% not enrolled automatically and unable to use the GC Portal (3 700 000 people), small service centres are available, especially in remote regions.
-Service Canada employees are mobile and have the ability to meet clients at their homes as opposed to requiring them to physically go to a service centre location.
-Their role is to help citizens register and use digital services.
-They can also use the digital services on behalf of clients.
->>>>>>> - edited table of content
 
 GC departments have common kiosks to offer services, such as passports, taxes, grants as well as benefits from ESDC.
 Outreach programs are deployed to raise awareness in low uptake areas.
 
 ### Private Sector
 
-- Private sector includes for profit companies, not for profit organizations, academia, and private citizens
+- By Private sector we mean for profit companies, not for profit organizations, academia, and private citizens
 - Through leveraging the governments endpoints the private sector is able to offer the opt-in delivery and integration of government services into their offerings (taking into account this is complimented by the government provided alternate methods of service delivery)
 - Through working in the open, private sector is able to comment on, request, and offer improvements of, government services.
 
@@ -103,9 +96,9 @@ Ecosystem of services are created by leveraging private sector expertise where o
 
 ### IITB-ESDC
 
+- Technology is used in all of ESDC services, requiring the relationship between ESDC Service lines and IITB to be harmonized where business understands the risk of IT and the success of IT is measured via business success  [\[3\]](#References).
 - Groups within IITB should interact with each other through automated processes
 - All committees and processes must collect metrics for their performance to be tracked and analyzed
-- The relationship between ESDC Service lines and IITB is harmonized where business understands the risk of IT and the success of IT is measured via business success
 - IT Policy compliance does not hinder service performance objectives
 
 #### Modern Open Organization
@@ -119,7 +112,11 @@ EA teams provide a loosely coupled architecture (reusable infrastructure artifac
 EA is held accountable to:
 
 - Provide an artifact repository which, when used by other teams, puts them into compliance
-- Other teams may freely opt out of their services, and they will be measured against the uptake rate from their clients
+- Produce reference architectures for DevOps teams to use and align their designs towards a common vision
+- Provide recommendations to change IM, IT, and Security policies and directives that are conflicting each other
+
+Teams may freely opt out of EA services but will be held accountable for assuring compliance.
+EA will be measured against the uptake rate from their clients
 
 For more information regarding a [Service Culture please refer here](https://sara-sabr.github.io/ITStrategy/service-culture.html).
 
@@ -180,3 +177,11 @@ For more information regarding how IITB should go about promoting the developmen
 
 IITB has a very open culture that values learning (TODO: find a tangible example)
 TODO: Add recruitment best practices, including for domains other than IT.
+All of IITB's services have performance metrics that are used to continuously improve. These include most committees as well.
+TODO: Add recruitment best practices, including for domains other than IT.
+
+## References
+
+\[1\] [GC Digital Operations Strategic Plan: 2018-2022](https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html).
+\[2\] [Mark Schwarts, Enterprise Strategist, ex-CIO of US Citizenship and Immigration Services, author of War and Peace and IT](https://youtu.be/2BM0xYfcexY?t=936).
+\[3\] "The business must accept the risk and uncertainty that comes with technology, while IT must accept the risk and uncertainty that comes with business" - Mark Schwartz, [War &amp; Peace &amp; IT](https://itrevolution.com/book/war-and-peace-and-it/)
