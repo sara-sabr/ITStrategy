@@ -27,18 +27,24 @@ In the following sections, we're trying to take the same end state and create "v
 
 ### Citizens
 
-- Cyber security and privacy: citizens have a choice to share their personal data for convenience
+- Citizens may receive their services through automated processes through their preferred services
 - Generational change: Citizens are used to deal with technologies, they do not face technical illiteracy like 2019.
 - One GC: Citizens interact with federal government services, without having to understand how those are administered by multiple departments. That interaction is either via a central GC Portal or via 3rd party providers like banks, employers, provincial services.
 
 #### Automatic Enrollment and Delivery
 
-Enrollment and delivery of services is automated by default and wherever possible.
-These Canadians are benefiting seamlessly from GC services.
-GC Services are integrated with widely used third party platforms and services (e.g. Banks, CRA, Social media, Job boards, Internet of things).
-Services are accessible anywhere, anytime, from any device, and from any partner.
+Enrollment and delivery of services is automated by default and wherever possible, with an opt-out option.
+
+Canadians who do not opt out benefit seamlessly from GC services through the set of services they opt in to. For example their ...
+
+- Bank(s)
+- Preferred job hunting web site
+- Preferred social media platform(s)
+- IoT devices
+
 90% of citizens (33 300 000 people) have a trusted Canadian profile used to verify/validate identity via the [Pan-Canadian Trust Framework](https://diacc.ca/pan-canadian-trust-framework/).
-These citizens receive their benefits seamlessly throughout their lives as major life events trigger the delivery of benefits.
+
+Citizens can receive their benefits seamlessly throughout their lives as major life events trigger the delivery of benefits (for more details please refer to [our example of the Human Development Lifecycle a.k.a HDLC](/human-development-life-cycle.html)).
 
 #### Self-Service
 
@@ -118,7 +124,7 @@ EA is held accountable to:
 Teams may freely opt out of EA services but will be held accountable for assuring compliance.
 EA will be measured against the uptake rate from their clients
 
-For more information regarding a [Service Culture please refer here](https://sara-sabr.github.io/ITStrategy/service-culture.html).
+For more information regarding a [Service Culture please refer here](/service-culture.html).
 
 Where possible, services are hosted on cloud infrastructure using containers. (TODO: find cloud adoption rates)
 
