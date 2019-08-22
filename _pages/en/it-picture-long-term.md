@@ -27,18 +27,24 @@ In the following sections, we're trying to take the same end state and create "v
 
 ### Citizens
 
-- Cyber security and privacy: citizens have a choice to share their personal data for convenience
+- Citizens may receive their services through automated processes through their preferred services
 - Generational change: Citizens are used to deal with technologies, they do not face technical illiteracy like 2019.
 - One GC: Citizens interact with federal government services, without having to understand how those are administered by multiple departments. That interaction is either via a central GC Portal or via 3rd party providers like banks, employers, provincial services.
 
 #### Automatic Enrollment and Delivery
 
-Enrollment and delivery of services is automated by default and wherever possible.
-These Canadians are benefiting seamlessly from GC services.
-GC Services are integrated with widely used third party platforms and services (e.g. Banks, CRA, Social media, Job boards, Internet of things).
-Services are accessible anywhere, anytime, from any device, and from any partner.
+Enrollment and delivery of services is automated by default and wherever possible, with an opt-out option.
+
+Canadians who do not opt out benefit seamlessly from GC services through the set of services they opt in to. For example their ...
+
+- Bank(s)
+- Preferred job hunting web site
+- Preferred social media platform(s)
+- IoT devices
+
 90% of citizens (33 300 000 people) have a trusted Canadian profile used to verify/validate identity via the [Pan-Canadian Trust Framework](https://diacc.ca/pan-canadian-trust-framework/).
-These citizens receive their benefits seamlessly throughout their lives as major life events trigger the delivery of benefits.
+
+Citizens can receive their benefits seamlessly throughout their lives as major life events trigger the delivery of benefits (for more details please refer to [our example of the Human Development Lifecycle a.k.a HDLC](/human-development-life-cycle.html)).
 
 #### Self-Service
 
@@ -50,15 +56,13 @@ Results in easier access to services through delivering services to the client t
 
 #### Service Centres and Outreach
 
-For the 10% not enrolled automatically and unable to use the GC Portal (3 700 000 people), small service centres are available, especially in remote regions. Further, the costs saved through reduced real estate could be invested in sending representatives to areas where service uptake is lagging. In this way, through a reduced reliance on physical real estate, ESDC is better able to service regions in need.
+For the 10% (TODO: where did this 10% come from? Needs to be validated/sourced) not enrolled automatically and unable to use the GC Portal (3 700 000 people) other options are provided. Costs saved through reduced real estate could be invested in sending representatives to areas where service uptake is lagging, or digital accessibility is lagging. In this way, through a reduced reliance on physical real estate, ESDC is better able to service regions in need.
 
-Said service representatives would be able to...
+1. Government of Canada Kiosks will be made available at community hubs (For example, malls or banks)
+2. Service representatives are available to
 
-- Help citizens register and use digital services
-- Use the digital services on behalf of clients (there should be no separate 'admin service functions', these should all be automated)
-
-GC departments have common kiosks to offer services, such as passports, taxes, grants as well as benefits from ESDC.
-Outreach programs are deployed to raise awareness in low uptake areas.
+    - Help citizens register and use digital services
+    - Use the digital services on behalf of clients (there should be no separate 'admin service functions', these should all be automated)
 
 ### Private Sector
 
@@ -118,7 +122,7 @@ EA is held accountable to:
 Teams may freely opt out of EA services but will be held accountable for assuring compliance.
 EA will be measured against the uptake rate from their clients
 
-For more information regarding a [Service Culture please refer here](https://sara-sabr.github.io/ITStrategy/service-culture.html).
+For more information regarding a [Service Culture please refer here](/service-culture.html).
 
 The government is moving away from the business of data centers, relying on industry expertise to keep up to date with IT infrastructure.
 This has made possible federal government to adopt cloud technologies either in the public cloud, or on premise.
