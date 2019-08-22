@@ -56,15 +56,13 @@ Results in easier access to services through delivering services to the client t
 
 #### Service Centres and Outreach
 
-For the 10% not enrolled automatically and unable to use the GC Portal (3 700 000 people), small service centres are available, especially in remote regions. Further, the costs saved through reduced real estate could be invested in sending representatives to areas where service uptake is lagging. In this way, through a reduced reliance on physical real estate, ESDC is better able to service regions in need.
+For the 10% (TODO: where did this 10% come from? Needs to be validated/sourced) not enrolled automatically and unable to use the GC Portal (3 700 000 people) other options are provided. Costs saved through reduced real estate could be invested in sending representatives to areas where service uptake is lagging, or digital accessibility is lagging. In this way, through a reduced reliance on physical real estate, ESDC is better able to service regions in need.
 
-Said service representatives would be able to...
+1. Government of Canada Kiosks will be made available at community hubs (For example, malls or banks)
+2. Service representatives are available to
 
-- Help citizens register and use digital services
-- Use the digital services on behalf of clients (there should be no separate 'admin service functions', these should all be automated)
-
-GC departments have common kiosks to offer services, such as passports, taxes, grants as well as benefits from ESDC.
-Outreach programs are deployed to raise awareness in low uptake areas.
+    - Help citizens register and use digital services
+    - Use the digital services on behalf of clients (there should be no separate 'admin service functions', these should all be automated)
 
 ### Private Sector
 
