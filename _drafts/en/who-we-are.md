@@ -1,3 +1,12 @@
+---
+layout: post
+title:  "Who we are"
+ref: who-we-are
+lang: en
+author: "IT Strategy Team"
+date: "2019-08-20"
+last_modified: "2019-08-20"
+---
 This year has been an exciting time for Stratégie, architecture et relation d’affaires (SARA)/ Strategy, Architecture and Business Relationships (SABR) within Innovation, Information and Technology Branch (IITB) from Employment and Social Development Canada (ESDC).
 
 Denis Skinner came to ESDC in June of 2018, who is presently a Director General of Innovation, Information and Technology Branch, and created two new teams -- IT Strategy (yours truly) and the IT Research team.
