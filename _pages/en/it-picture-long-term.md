@@ -124,7 +124,10 @@ EA will be measured against the uptake rate from their clients
 
 For more information regarding a [Service Culture please refer here](/service-culture.html).
 
-Where possible, services are hosted on cloud infrastructure using containers. (TODO: find cloud adoption rates)
+The government is moving away from the business of data centers, relying on industry expertise to keep up to date with IT infrastructure.
+This has made possible federal government to adopt cloud technologies either in the public cloud, or on premise.
+98% of services are leverage cloud technology.
+(TODO: find cloud adoption rates)
 
 Internal and external services are developed and supported as APIs first.
 APIs for services to Canadians are made available through the API store.
