@@ -1,19 +1,20 @@
 ---
 layout: default
-title: References
+title: Reference Materials
 ref: references
 lang: en
 status: posted
 permalink: /references.html
 ---
-
-## Reference Materials
+<!-- markdownlint-disable MD025-->
+# {{ page.title }}
+<!-- markdownlint-enable MD025 -->
 
 The following are reference materials for the IT Strategy team to use.
 
 These materials are meant to be sources of inspiration, guidance, or policies that we need to consider when crafting our strategies.
 
-Some of that content may only be available on GC/ESDC network
+Some of that content may only be available on GC/ESDC network so if the link doesn't work externally, we apologize for the inconvenience!
 
 ## ESDC and GoC Specifics
 
@@ -46,7 +47,6 @@ Some of that content may only be available on GC/ESDC network
 
 ## Artificial Intelligence
 
-- [AI Adoption Strategies](AIAdoptionStrategies.md)
 - [Medium Article - An overview of National AI Strategies](https://medium.com/politics-ai/an-overview-of-national-ai-strategies-2a70ec6edfd): summary of 26 countries' AI strategies. Canada amongst that list
 - [Medium Article - Open sourcing policy models - Australian data sharing agreement with LinkedIn](https://medium.com/fwd50/open-sourcing-policy-models-our-conversation-with-dr-audrey-lobo-pulo-e56afcdc59e9)
 - [Finland AI Strategy](http://dialogue/grp/BU6810070/Shared%20Documents/Reference%20Materials/Finland%20AI%20Strategy.pdf)
