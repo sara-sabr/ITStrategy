@@ -18,7 +18,6 @@ In the following sections, we're trying to take the same end state and create "v
   - [Self-Service](#self-service)
   - [Service Centres and Outreach](#service-centres-and-outreach)
 - [Private Sector](#private-sector)
-  - [IoT Integration](#IoT-Integration)
   - [Any platform, any device, 3rd party integration](#any-platform-any-device-3rd-party-integration)
   - [Open Collaboration](#open-collaboration)
 - [IITB-ESDC](#iitb-esdc)
@@ -70,18 +69,6 @@ For the 10% (TODO: where did this 10% come from? Needs to be validated/sourced) 
 - Through leveraging the governments endpoints the private sector is able to offer the opt-in delivery and integration of government services into their offerings (taking into account this is complimented by the government provided alternate methods of service delivery)
 - Through working in the open, private sector is able to comment on, request, and offer improvements of, government services.
 
-#### IoT Integration
-
-ESDC does not develop products or services that compete with the private sector.
-IoT devices will begin to permeate all aspects of life and ESDC should integrate itself into the ecosystem.
-
-An example of the repercussions of such an implementation can be found [here](https://github.com/sara-sabr/ITStrategy/blob/master/wip-tec/en/human-development-life-cycle.md).
-
-In a service-based environment, success is not measured by the number of users your service attracts, but rather the number of users amassed by the services that leverage your service. Add source (Microsoft)
-
-User privacy must still be preserved and modern digital identity recognition technologies are leveraged (e.g. facial, biometrics).
-Clients control their private data and have the ability to decide, for each services, whether to share it or not to influence their user experience.
-
 #### Any platform, any device, 3rd party integration
 
 Any platform or device can be integrated with GC and ESDC services and development is often done in partnership with the private sector.
@@ -92,6 +79,9 @@ Ecosystem of services are created by leveraging private sector expertise where o
 
 - Banks detecting missed paycheck, job websites targeting people who are job hunting...
 - Enhanced security through integration in private sector service (e.g., banks detecting fraudulent transactions)
+
+User privacy must still be preserved and modern digital identity recognition technologies are leveraged (e.g. facial, biometrics).
+Clients control their private data and have the ability to decide, for each services, whether to share it or not to influence their user experience.
 
 #### Open Collaboration
 
