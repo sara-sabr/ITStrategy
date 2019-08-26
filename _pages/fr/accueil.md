@@ -10,7 +10,7 @@ Bienvenue dans notre espace de travail! En fait, il s'agit plutôt du site Web g
 
 Selon l'avis qui peut être trouvé un peu partout dans notre site, tout ce que vous trouverez ici doit être considéré comme du travail en cours: il n'y a aucune garantie que les idées, les propositions et même les présentations que nous développons de façon ouverte seront un jour adoptées.
 
-D'un autre côté, nous serions heureux de recevoir vos idées et commentaires afin d'améliorer continuellement notre travail et, d'une certaine façon, la façon dont EDSC offre ses services aux Canadiennes et aux Canadiens!
+D'un autre côté, nous serions heureux de recevoir vos idées et commentaires afin d'améliorer continuellement notre travail et, d'une certaine façon, la façon dont EDSC offre ses services aux Canadiennes et aux Canadiens! [Voir ici](feedback-speaking-notes.html) pour mieux comprendre comment vous pouvez contribuer vos idées.
 
 Nous avons également mis en place quelques tests d'intégrations continues (CI) afin de garder notre contenu propre, mais aussi de démontrer la puissance de ces outils de collaboration ouverte pour maintenir un projet, qu'il s'agisse de simples fichiers textes ou de code source.
 Vous pouvez visiter notre [documentation](https://github.com/sara-sabr/ITStrategy/blob/master/CONTRIBUTING.md#instructions) pour comprendre comment le tout fonctionne!
