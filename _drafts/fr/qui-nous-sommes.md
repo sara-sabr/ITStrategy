@@ -7,31 +7,29 @@ author: "L'équipe des Stratégies TI"
 date: "2019-08-20"
 last_modified: "2019-08-20"
 ---
-This year has been an exciting time for Stratégie, architecture et relation d’affaires (SARA)/ Strategy, Architecture and Business Relationships (SABR) within Innovation, Information and Technology Branch (IITB) from Employment and Social Development Canada (ESDC).
+Cette année a été une période passionnante pour Stratégie, architecture et relation d'affaires (SARA)/ Strategy, Architecture and Business Relationships (SABR) au sein de la Direction générale de l'innovation, de l'information et de la technologie (DGIIT) d'Emploi et Développement social Canada (EDSC).
 
-Denis Skinner came to ESDC in June of 2018, who is presently a Director General of Innovation, Information and Technology Branch, and created two new teams -- IT Strategy (yours truly) and the IT Research team.
-The challenge issued to these newly created teams was to take a large impactful organization and help to modernize it in the age of the notorious, and perhaps inappropriately named, 'Digital Transformations'.
-Armed with knowledge from eight other Government of Canada (GoC) departments the team set out to bring about positive radical change as quickly as possible.
-It has only been a few months now though, as you can see from the website you are now visiting, it's been an intense couple of months, wasting no time to begin pushing for better services for Canadians.
+Denis Skinner est arrivé à EDSC en juin 2018, et est actuellement directeur général de l'Innovation, Direction générale de l'information et de la technologie. Il a créé deux nouvelles équipes : la Stratégie de la TI (vos humbles serviteurs) et l'équipe de recherche en TI.
+Le défi lancé à ces équipes nouvellement créées consistait à prendre une organisation de grande envergure et à l'aider à la moderniser à l'ère des " transformations numériques ", bien connues et peut-être mal appelées.
+Forte des connaissances de huit autres ministères du gouvernement du Canada (GC), l'équipe a entrepris d'apporter des changements radicaux positifs le plus rapidement possible.
+Cela ne fait que quelques mois maintenant, cependant, comme vous pouvez le constater sur le site Web que vous visitez maintenant, cela a été deux mois intenses, ne perdant pas de temps pour commencer à réclamer de meilleurs services pour les Canadiens.
 
-The Strategy Team [dreams big](https://sara-sabr.github.io/ITStrategy/human-development-life-cycle.html) and tirelessly works to bring our dreams to fruition through practicing what we preach, which is why we included *Lead by Example* into our [team's mandate](https://sara-sabr.github.io/ITStrategy/mandate.html).
-We're passionate about the power of collaboration, which is why the IT Strategy team plays leading roles in both the [Agora OSS](https://gcconnex.gc.ca/groups/profile/23631661/agora-open-source-software-focus-group-groupe-discussion-logiciels-libres-agora) and the [GC DevOps League](https://twitter.com/GCDevOpsLeague1) communities and [works in the open](https://github.com/sara-sabr/ITStrategy).
-We cannot insist enough to all of our friends throughout the GoC, there are hundreds of thousands of us.
-We assure you, whatever problems, hurdles, and obstacles, you are facing (technical or not), there are others who are working through, or have worked through, the same things.
-Reach out.
-Contact them, and if you don't know where to start, please contact us!
+L'équipe de la stratégie[rêve grand] (https://sara-sabr.github.io/ITStrategy/human-development-life-cycle.html) et travaille sans relâche pour réaliser nos rêves en pratiquant ce que nous prêchons, c'est pourquoi nous avons inclus *Lead by Example* dans le mandat de notre[équipe] (https://sara-sabr.github.io/ITStrategy/mandate.html).
+Nous sommes passionnés par la puissance de la collaboration, c'est pourquoi l'équipe de la stratégie de TI joue un rôle de premier plan dans les communautés[Agora OSS] (https://gcconnex.gc.ca/groups/profile/23631661/agora-open-source-software-focus-group-groupe-discussion-logiciels-libres-agora) et[GC DevOps League] (https://twitter.com/GCDevOpsLeague1) et[Works in the Open] (https://github.com/sara-sabr/ITStrategy).
+Nous n'insisterons jamais assez auprès de tous nos amis du gouvernement du Canada, nous sommes des centaines de milliers.
+Nous vous assurons que, quels que soient les problèmes, les obstacles et les obstacles que vous rencontrez (techniques ou non), il y en a d'autres qui travaillent ou ont travaillé sur les mêmes choses.
+Tendez la main.
+Contactez-les, et si vous ne savez pas par où commencer, n'hésitez pas à nous contacter !
 
-The IT Strategy team is passionate about the Government of Canada delivering the best possible services to the its Canadians citizens.
-This does not allow us to accept the adage "you can't do that in government", or "this is the public sector".
-We consider the commonly heard and flippant remark of "you should work in the private sector, then" as a compliment and testament that we are pushing people outside of their comfort zone -- a healthy thing to take place on a regular basis.
-We believe in a [culture of learning](https://sara-sabr.github.io/ITStrategy/enable-learning.html) and the relentless improvement of our services, the GoC at large, and ourselves. Which is why we all have copies of our favourite books strewn across our desks, many such resources can be found [here](https://sara-sabr.github.io/ITStrategy/references.html).
+L'équipe de la Stratégie de TI est passionnée par le fait que le gouvernement du Canada offre les meilleurs services possibles à ses citoyens canadiens.
+Cela ne nous permet pas d'accepter l'adage "on ne peut pas faire cela au gouvernement", ou "c'est le secteur public".
+Nous considérons la remarque communément entendue et désinvolte de "vous devriez donc travailler dans le secteur privé" comme un compliment et un témoignage que nous poussons les gens hors de leur zone de confort - une chose saine qui doit avoir lieu sur une base régulière.
+Nous croyons en une[culture de l'apprentissage](https://sara-sabr.github.io/ITStrategy/enable-learning.html) et en l'amélioration constante de nos services, du gouvernement du Canada dans son ensemble et de nous-mêmes. C'est pourquoi nous avons tous des copies de nos livres préférés éparpillés sur nos bureaux, plusieurs de ces ressources peuvent être trouvées[ici] (https://sara-sabr.github.io/ITStrategy/references.html).
 
-The public sector today did not look as it did 25 years ago, and this change did not come about easily.
-Change never does.
-Our advice to all our fellow travellers from throughout the GoC is to ensure you are continually learning, educate yourself nonstop, entertain the idea of change outside of your comfort zone, and move forward -- always forward. Do not accept that things must always be as they are -- because we know this is not true, especially as the rate of change continually increases in our digital world.
+Le secteur public d'aujourd'hui n'était plus ce qu'il était il y a 25 ans, et ce changement ne s'est pas produit facilement.
+Le changement ne change jamais.
+Nous conseillons à tous nos compagnons de voyage de l'ensemble du gouvernement du Canada de s'assurer que vous apprenez continuellement, que vous vous instruisez sans cesse, que vous entretenez l'idée du changement hors de votre zone de confort et que vous allez toujours de l'avant. N'acceptez pas que les choses doivent toujours être telles qu'elles sont - parce que nous savons que ce n'est pas vrai, d'autant plus que le rythme du changement augmente continuellement dans notre monde numérique.
 
-> "The rate of change today is the slowest you will ever experience."
+> "Le taux de changement d'aujourd'hui est le plus lent que vous n'aurez jamais connu."
 
 - [Jonathan MacDonald](https://newmr.org/blog/the-rate-of-change-today-is-the-slowest-you-will-ever-experience/)
-
-https://www.luon.com/blog/top-5-quotes-from-the-next-web-conference-2012/
