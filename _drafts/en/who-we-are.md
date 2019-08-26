@@ -4,8 +4,8 @@ title:  "Who we are"
 ref: who-we-are
 lang: en
 author: "IT Strategy Team"
-date: "2019-08-20"
-last_modified: "2019-08-20"
+date: "2019-08-26"
+last_modified: "2019-08-26"
 ---
 This year has been an exciting time for Stratégie, architecture et relation d’affaires (SARA)/ Strategy, Architecture and Business Relationships (SABR) within Innovation, Information and Technology Branch (IITB) from Employment and Social Development Canada (ESDC).
 
