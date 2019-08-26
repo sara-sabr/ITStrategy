@@ -104,6 +104,8 @@ Some examples of informal learning:
 
 This culture change will require many adjustments at all levels of the organization and a strong support from senior management. Along with internal HR-related improvements, it will also extend to modernizing external hiring practices.
 
+For futher details regarding the development of a cultural of learning, please visit [the following document](/enable-learning.html). 
+
 ### ESDC Departmental Clients
 
 #### IITB Responsiveness
