@@ -47,7 +47,6 @@ Some of that content may only be available on GC/ESDC network so if the link doe
 
 ## Artificial Intelligence
 
-- [AI Adoption Strategies](AIAdoptionStrategies.md)
 - [Medium Article - An overview of National AI Strategies](https://medium.com/politics-ai/an-overview-of-national-ai-strategies-2a70ec6edfd): summary of 26 countries' AI strategies. Canada amongst that list
 - [Medium Article - Open sourcing policy models - Australian data sharing agreement with LinkedIn](https://medium.com/fwd50/open-sourcing-policy-models-our-conversation-with-dr-audrey-lobo-pulo-e56afcdc59e9)
 - [Finland AI Strategy](http://dialogue/grp/BU6810070/Shared%20Documents/Reference%20Materials/Finland%20AI%20Strategy.pdf)
