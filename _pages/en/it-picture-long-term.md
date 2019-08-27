@@ -67,7 +67,7 @@ For the 10% (TODO: where did this 10% come from? Needs to be validated/sourced) 
 
 - By Private sector we mean for profit companies, not for profit organizations, academia, and private citizens
 - Through leveraging the governments endpoints the private sector is able to offer the opt-in delivery and integration of government services into their offerings (taking into account this is complimented by the government provided alternate methods of service delivery)
-- Because GC departments and agencies are working in the open, private sector is able to comment on, request, and offer improvements of, GC software and services.
+- As GC departments and agencies are working in the open, private sector is able to comment on, request, and offer improvements of, GC software and services.
 
 #### Any platform, any device, 3rd party integration
 
@@ -86,7 +86,7 @@ Clients control their private data and have the ability to decide, for each serv
 
 #### Open Collaboration
 
-- ESDC custom built software are published as open source code, allowing the private sector to use them and study them, helping grow technological skill sets and collaboration in the country, fostering economic growth, improving transparency and trust in government, and increasing the breadth of talent for ESDC to use by welcoming contributions back.
+- ESDC custom built software is published as open source code by allowing the private sector to use them and study them, which helps grow technological skill sets and increases collaboration throughout the country, fostering economic growth, improving transparency and trust in government, and increasing the breadth of talent for ESDC to use by welcoming contributions back.
   - These are listed on the [Open Resource Exchange](https://canada-ca.github.io/ore-ero/en/index.html) that lists open source software used and published by Canadian public administrations.
 - ESDC data (performance and automated decision making statistics) published as open datasets on the [Open Government Portal](https://open.canada.ca/en/).
 
