@@ -61,7 +61,7 @@ For the 10% (TODO: where did this 10% come from? Needs to be validated/sourced) 
 1. Government of Canada Kiosks will be made available at community hubs (For example, malls or banks)
 2. Service representatives are available to
    - Help citizens register and use digital services
-   - Use the digital services on behalf of clients (there should be no separate 'admin service functions')
+   - Use the digital services on behalf of clients (there should be no separate 'admin service functions' required for registration)
 
 ### Private Sector
 
