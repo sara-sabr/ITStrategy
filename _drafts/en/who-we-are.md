@@ -16,7 +16,7 @@ The challenge issued to these newly created teams was to take a large impactful 
 Armed with knowledge from eight other Government of Canada (GC) departments the team set out to bring about positive radical change as quickly as possible.
 It has only been a few months now though, as you can see from the website you are now visiting, it's been an intense couple of months, wasting no time to begin pushing for better services for Canadians.
 
-The IT Strategy team  dreams big, see the [Human Development Life Cycle](../../../human-development-life-cycle.html).
+The IT Strategy team dreams big, see the [Human Development Life Cycle](../../../human-development-life-cycle.html).
 We tirelessly works to bring our dreams to fruition through practicing what we preach, which is why we included *Lead by Example* into our [Mandate](../../../mandate.html).
 We're passionate about the power of collaboration, which is why the IT Strategy team plays leading roles in both the [Agora - Open Source Software](https://gcconnex.gc.ca/groups/profile/23631661/agora-open-source-software-focus-group-groupe-discussion-logiciels-libres-agora) and the [GC DevOps League](https://twitter.com/hashtag/gcdevopsleague) communities.
 We also [Work in the open](https://github.com/sara-sabr/ITStrategy).
