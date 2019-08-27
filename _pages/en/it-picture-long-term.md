@@ -43,11 +43,12 @@ Canadians who do not opt out benefit seamlessly from GC services through the set
 
 90% of citizens (33 300 000 people) have a trusted Canadian profile used to verify/validate identity via the [Pan-Canadian Trust Framework](https://diacc.ca/pan-canadian-trust-framework/).
 
-Citizens can receive their benefits seamlessly throughout their lives as major life events trigger the delivery of benefits (for more details please refer to [our example of the Human Development Lifecycle a.k.a HDLC](/human-development-life-cycle.html)).
+Citizens can receive their benefits seamlessly throughout their lives as major life events trigger the delivery of benefits.
+See the [Human Development Lifecycle (HDLC)](/human-development-life-cycle.html)).
 
 #### Self-Service
 
-The GC (OneGC) Portal provides access to services and benefits (not just ESDC) in a tell us once fashion [\[1\]](#References).
+The GC (OneGC) Portal provides access to services and benefits (not just ESDC) in a tell us once fashion, as presented in the [GC Digital Operations Strategic Plan: 2018-2022](https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html).
 
 Registering to the Portal will create or use the trusted Canadian profile and enable automatic enrollment and delivery of eligible benefits.
 Help for using the Portal is available directly on the Portal using instant messaging (text, voice or video) as well as by phone.
@@ -59,19 +60,19 @@ For the 10% (TODO: where did this 10% come from? Needs to be validated/sourced) 
 
 1. Government of Canada Kiosks will be made available at community hubs (For example, malls or banks)
 2. Service representatives are available to
-
-    - Help citizens register and use digital services
-    - Use the digital services on behalf of clients (there should be no separate 'admin service functions', these should all be automated)
+   - Help citizens register and use digital services
+   - Use the digital services on behalf of clients (there should be no separate 'admin service functions')
 
 ### Private Sector
 
 - By Private sector we mean for profit companies, not for profit organizations, academia, and private citizens
 - Through leveraging the governments endpoints the private sector is able to offer the opt-in delivery and integration of government services into their offerings (taking into account this is complimented by the government provided alternate methods of service delivery)
-- Through working in the open, private sector is able to comment on, request, and offer improvements of, government services.
+- Because GC departments and agencies are working in the open, private sector is able to comment on, request, and offer improvements of, GC software and services.
 
 #### Any platform, any device, 3rd party integration
 
-Any platform or device can be integrated with GC and ESDC services and development is often done in partnership with the private sector.
+Any platform or device can be integrated with GC and ESDC services.
+Development is often done in partnership with the private sector (working in the open).
 This is possible because ESDC services are available as APIs that can be used by third party platforms and services (Banks, CRA, Social media, Job boards, Internet of things, ..).
 Employers, Banks, and Credit Unions are the new front lines of ESDC as they are now provided with technological means to interact with ESDC services.
 
@@ -85,50 +86,26 @@ Clients control their private data and have the ability to decide, for each serv
 
 #### Open Collaboration
 
-- ESDC custom built software are published as open source, allowing Academia and learning institutions to use them, helping grow technological skill sets in the country, fostering economic growth, improving transparency and trust in government, and increasing the breadth of talent for ESDC to use by welcoming contributions back ( e.g. The Canadian version of [code.gov](https://code.gov/))
+- ESDC custom built software are published as open source code, allowing the private sector to use them and study them, helping grow technological skill sets and collaboration in the country, fostering economic growth, improving transparency and trust in government, and increasing the breadth of talent for ESDC to use by welcoming contributions back ( e.g. The Canadian version of [code.gov](https://code.gov/))
 - ESDC data (performance and automated decision making statistics) published as open datasets
 
 ### IITB-ESDC
 
-- Technology is used in all of ESDC services, requiring the relationship between ESDC Service lines and IITB to be harmonized where business understands the risk of IT and the success of IT is measured via business success  [\[3\]](#References).
-- Groups within IITB should interact with each other through automated processes
-- All committees and processes must collect metrics for their performance to be tracked and analyzed
+- Groups within IITB interact with each other through automated processes
+- Committees and processes collect metrics for their performance to be tracked and analyzed
 - IT Policy compliance does not hinder service performance objectives
+
+> "The business must accept the risk and uncertainty that comes with technology, while IT must accept the risk and uncertainty that comes with business"
+
+- Mark Schwartz, [War &amp; Peace &amp; IT](https://itrevolution.com/book/war-and-peace-and-it/)
 
 #### Modern Open Organization
 
 ##### Enterprise Architecture
 
-Enterprise Architecture (EA) committees and review boards at IITB-ESDC have aligned with TBS mandatory procedures for EA (users, open standards, open source software and [smart cloud](https://cloud.cio.gov/)).
-Wherever possible code and projects are developed in the open and use of open source software is the norm.
+Enterprise Architecture (EA) committees and review boards at ESDC-IITB have aligned with the Policy and [Directive on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601) that enables transparency by working in the open and provides the [Mandatory Procedures for EA Assessment](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602) that put users, open standards, open source software and cloud first as well as the [Mandatory Procedures on Application Programming Interfaces (API)](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604).
+Wherever possible code and projects are developed in the open and use of open standards and open source software is the norm.
 EA teams provide a loosely coupled architecture (reusable infrastructure artifacts and components) that empowers development and operations teams to meet business needs.
-
-EA is held accountable to:
-
-- Provide an artifact repository which, when used by other teams, puts them into compliance
-- Produce reference architectures for DevOps teams to use and align their designs towards a common vision
-- Provide recommendations to change IM, IT, and Security policies and directives that are conflicting each other
-
-Teams may freely opt out of EA services but will be held accountable for assuring compliance.
-EA will be measured against the uptake rate from their clients
-
-For more information regarding a [Service Culture please refer here](/service-culture.html).
-
-The government is moving away from the business of data centers, relying on industry expertise to keep up to date with IT infrastructure.
-This has made possible federal government to adopt cloud technologies either in the public cloud, or on premise.
-98% of services are leverage cloud technology.
-(TODO: find cloud adoption rates)
-
-Internal and external services are developed and supported as APIs first.
-APIs for services to Canadians are made available through the API store.
-User Interfaces (UI) are completely decoupled from the service interfaces, allowing for different UIs to be built and interact with the services according to the channel of choice of the end-user.
-
-TODO: Add an architecture view mapping our GC partners (e.g. TBS DXP to integrate with OneGC Portal, SSC for public cloud).
-
-- Digital Exchange (APIs, Messaging)
-- Digital Identity
-- Cloud Brokering
-- HR Services
 
 ##### Continuous Delivery
 
@@ -139,7 +116,7 @@ Small changes are frequently deployed to production.
 IITB monitors services, applications and infrastructure to check system health proactively as well as inform business decisions.
 
 Teams work using the agile methodology to gather and implement customer feedback, working in small batches (iteration or sprint).
-Where possible work is being done in the open make the work visible to all teams and interested parties.
+Where possible work is being done in the open make the code, data and information available to other teams and interested parties.
 
 ##### Internal IT services
 
@@ -147,38 +124,9 @@ IITB is the digital, IM and IT advisor and enabler for ESDC and part of major bu
 IITB is responsible for providing the automated services required to run a secure and agile business.
 This includes, automated software onboarding approval, key data exchange systems with which business may interact with, and an environment by which business may securely deploy their own solutions.
 
-IITB serves as a stewart of IT in ESDC and has embedded IT expertise in program areas (since it has moved to DevOps and Product Management).
-As a stewart, IITB provides ESDC Programs and their employees with the following services:
-
-- Corporate services (hardware and software support)
-- Cyber security
-- Technology architecture
-- Development teams
-
-ESDC employees are able to work from anywhere (TODO: validate measure with trends)
-
 #### Strong Culture of Learning
-
-Guided by principles such as [Moore's Law](https://en.m.wikipedia.org/wiki/Moore%27s_law), [the increased demand for high-skilled computer and information systems professionals in Canada](https://www150.statcan.gc.ca/n1/daily-quotidien/171129/dq171129b-eng.htm), and [the rapidly increasing impact of automation](https://www.pwc.com/gx/en/issues/data-and-analytics/publications/artificial-intelligence-study.html) creating a strong culture of learning is imperative if the ESDC is to be able to deliver services that match the expectations of citizens.
-
-Looking forward, ESDC at large and especially the tech focused IITB will need to:
-
-- Encourage and support learning
-- Support a generative culture ([as outlined by Westrum](https://qualitysafety.bmj.com/content/13/suppl_2/ii22.short))
-- Forster and enable team experimentation
-- Support and facilitate collaboration among teams
-- Provide resources and tools that make work meaningful
-- Support or embody transformational leadership
-
-For more information regarding how IITB should go about promoting the development of said culture, please visit [here](https://sara-sabr.github.io/ITStrategy/enable-learning.html).
 
 IITB has a very open culture that values learning (TODO: find a tangible example)
 TODO: Add recruitment best practices, including for domains other than IT.
-All of IITB's services have performance metrics that are used to continuously improve. These include most committees as well.
+ESDC-IITB services have performance metrics that are used to continuously improve. These include most committees as well.
 TODO: Add recruitment best practices, including for domains other than IT.
-
-## References
-
-\[1\] [GC Digital Operations Strategic Plan: 2018-2022](https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html).
-\[2\] [Mark Schwarts, Enterprise Strategist, ex-CIO of US Citizenship and Immigration Services, author of War and Peace and IT](https://youtu.be/2BM0xYfcexY?t=936).
-\[3\] "The business must accept the risk and uncertainty that comes with technology, while IT must accept the risk and uncertainty that comes with business" - Mark Schwartz, [War &amp; Peace &amp; IT](https://itrevolution.com/book/war-and-peace-and-it/)
