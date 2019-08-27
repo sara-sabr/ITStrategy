@@ -118,6 +118,7 @@ As a stewart, IITB provides ESDC Programs and their employees with the following
 - Cyber security
 - Technology architecture
 - Development teams
+- Technology Infrastructure Management 
 
 ESDC employees are able to work from anywhere (TODO: validate measure with trends)
 
