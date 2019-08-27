@@ -78,6 +78,7 @@ EA is held accountable to:
 - Provide an artifact repository which, when used by other teams, puts them into compliance
 - Produce reference architectures for DevOps teams to use and align their designs towards a common vision
 - Provide recommendations to change IM, IT, and Security policies and directives that are conflicting each other
+- Does capability based planning base investment is approved
 
 Teams may freely opt out of EA services but will be held accountable creating a service which attracts and incentivizes compliance
 EA will be measured against the uptake rate from their clients
