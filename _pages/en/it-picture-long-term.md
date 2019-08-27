@@ -86,7 +86,8 @@ Clients control their private data and have the ability to decide, for each serv
 
 #### Open Collaboration
 
-- ESDC custom built software is published as open source code by allowing the private sector to use them and study them, which helps grow technological skill sets and increases collaboration throughout the country, fostering economic growth, improving transparency and trust in government, and increasing the breadth of talent for ESDC to use by welcoming contributions back. Further, ESDC is able to use open source contributions to its projects as a hiring tool, given that candidates would have already demonstrated technical ability, and familiarity with the code base, reducing training costs.
+- ESDC custom built software is published as open source code by allowing the private sector to use them and study them, which helps grow technological skill sets and increases collaboration throughout the country, fostering economic growth, improving transparency and trust in government, and increasing the breadth of talent for ESDC to use by welcoming contributions back.
+- ESDC is able to use open source contributions to its projects as a hiring tool, given that candidates would have already demonstrated technical ability, and familiarity with the code base, reducing training costs.
   - These are listed on the [Open Resource Exchange](https://canada-ca.github.io/ore-ero/en/index.html) that lists open source software used and published by Canadian public administrations.
 - ESDC data (performance and automated decision making statistics) published as open datasets on the [Open Government Portal](https://open.canada.ca/en/).
 
