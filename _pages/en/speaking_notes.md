@@ -51,7 +51,7 @@ The following three methods can be used to send feedbacks to the IT Strategy tea
 
 ##### Via Email
 
-Send your feedbacks via email at remy.bernard@hrsdc-rhdcc.gc.ca
+Send your feedbacks via email at <EDSC.DGIIT.StrategieTI-ITStrategy.IITB.ESDC@hrsdc-rhdcc.gc.ca>
 
 ##### Via submitting an issue on our GitHub repository
 
