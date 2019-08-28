@@ -11,7 +11,11 @@ permalink: /it-picture-long-term.html
 
 This is a working document to help create a picture of what will IITB (Innovation Information and Technology Branch) look in the long term for ESDC (Employment and Social Development Canada).
 
-In the following sections, we're trying to take the same end state and create "views" where different audiences would be looking at ESDC and see different things.
+In the following sections, we're trying to take the same end state and create "views" where different audiences would be looking at ESDC and see different things. There are three views:
+
+1. **The Citizen**: their experience with ESDC due to adoption of technology in ESDC service delivery
+2. **Private Sector**: their relationship with ESDC in partnering with ESDC to improve service delivery
+3. **IITB-ESDC**: the relationship between IITB and ESDC's branches and programs
 
 - [Citizens](#citizens)
   - [Automatic Enrollment and Delivery](#automatic-enrollment-and-delivery)
