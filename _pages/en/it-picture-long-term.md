@@ -129,11 +129,17 @@ EA serves three key functions for IT at ESDC:
 2. Identifies opportunities for re-using IT investments in supporting ESDC with the sound management of public funds
 3. Reduces risks of non-compliance with IM, IT, and Security policies
 
-EA performs capability-based planning and so is at the forefront of IT investment decisions, before funding is allocated to projects, as it provides critical intelligence to ESDC on where investments are needed to enable the desired business outcomes. The intelligence EA provides ESDC takes forms as health indicators of capabilities (process, people, information, IT, and security). EA is a key partner for service programs to help them identify the areas that need investments to fulfill their service's performance objectives.
+EA performs capability-based planning and so is at the forefront of IT investment decisions, before funding is allocated to projects, as it provides critical intelligence to ESDC on where investments are needed to enable the desired business outcomes.
+The intelligence EA provides ESDC takes forms as health indicators of capabilities (process, people, information, IT, and security).
+EA is a key partner for service programs to help them identify the areas that need investments to fulfill their service's performance objectives.
 
-EA, through their capability mapping expertise, is able to quickly identify opportunities for re-using previous investments; mitigating the risk of the proliferation of systems that perform similar functions and supporting ESDC in the sound management of public funds. The scope of such opportunities are production systems, not technology stacks used to produce those systems as technology stacks change too quickly. In addition, EA performs ongoing analysis of Open Source Solutions options that can be automatically updated from trusted sources. Such options enable faster decision making during capability improvement evaluation as those options have no licencing costs, have little operational maintenance costs, and avoid vendor lock-in; furthering ESDC's public fund management responsibility.
+EA, through their capability mapping expertise, is able to quickly identify opportunities for re-using previous investments; mitigating the risk of the proliferation of systems that perform similar functions and supporting ESDC in the sound management of public funds.
+The scope of such opportunities are production systems, not technology stacks used to produce those systems as technology stacks change too quickly.
+In addition, EA performs ongoing analysis of Open Source Solutions options that can be automatically updated from trusted sources.
+Such options enable faster decision making during capability improvement evaluation as those options have no licencing costs, have little operational maintenance costs, and avoid vendor lock-in; furthering ESDC's public fund management responsibility.
 
-EA reduces risks of non-compliance with IM, IT, and Security policies by providing expert advice to IT product teams. EA receives frequent feedback from IT product teams to ensure EA's advice keeps current with IT challenges.
+EA reduces risks of non-compliance with IM, IT, and Security policies by providing expert advice to IT product teams.
+EA receives frequent feedback from IT product teams to ensure EA's advice keeps current with IT challenges.
 
 EA committees and review boards at ESDC have aligned with the Policy and [Directive on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601) that enables transparency by working in the open and provides the [Mandatory Procedures for EA Assessment](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602) that put users, open standards, open source software and cloud first as well as the [Mandatory Procedures on Application Programming Interfaces (API)](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604).
 Wherever possible code and projects are developed in the open and use of open standards and open source software is the norm.
