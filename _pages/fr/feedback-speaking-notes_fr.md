@@ -47,7 +47,7 @@ Les trois méthodes suivantes peuvent être utilisées pour envoyer des feedback
 
 #### Par courriel
 
-Envoyez vos commentaires par courriel à remy.bernard@hrsdc-rhdcc.gc.ca
+Envoyez vos commentaires par courriel à <EDSC.DGIIT.StrategieTI-ITStrategy.IITB.ESDC@hrsdc-rhdcc.gc.ca>
 
 #### En soumettant un enjeu (issue) sur notre dépôt GitHub
 
