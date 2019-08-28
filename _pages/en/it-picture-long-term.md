@@ -110,9 +110,32 @@ Clients control their private data and have the ability to decide, for each serv
 
 #### Modern Open Organization
 
-##### Enterprise Architecture
+##### Lean IT Governance
 
-Enterprise Architecture (EA) committees and review boards at ESDC-IITB have aligned with the Policy and [Directive on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601) that enables transparency by working in the open and provides the [Mandatory Procedures for EA Assessment](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602) that put users, open standards, open source software and cloud first as well as the [Mandatory Procedures on Application Programming Interfaces (API)](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604).
+IT Governance manages risks, capital investments, and compliance in such a way that allows for fast turnaround time so that IT can more rapidely respond to business changes while maintaining ESDC's service integrity. The use of DevOps and Cloud technologies are enablers of this outcome.
+
+As a result:
+
+- The number of committees overseeing changes is reduced
+- IT changes are small and iterative, with clear ownership and accountability from IT product owners
+- Funding is proactively given to IT to continually improve its technology stack and continually manage its technical debt
+- Compliance to IT standards is automated where possible or, if not, uses guardrail monitoring
+
+##### Enterprise Architecture (EA)
+
+EA serves three key functions for IT at ESDC:
+
+1. Performs capability-based planning
+2. Identifies opportunities for re-using IT investments in supporting ESDC with the sound management of public funds
+3. Reduces risks of non-compliance with IM, IT, and Security policies
+
+EA performs capability-based planning and so is at the forefront of IT investment decisions, before funding is allocated to projects, as it provides critical intelligence to ESDC on where investments are needed to enable the desired business outcomes. The intelligence EA provides ESDC takes forms as health indicators of capabilities (process, people, information, IT, and security). EA is a key partner for service programs to help them identify the areas that need investments to fulfill their service's performance objectives.
+
+EA, through their capability mapping expertise, is able to quickly identify opportunities for re-using previous investments; mitigating the risk of the proliferation of systems that perform similar functions and supporting ESDC in the sound management of public funds.  The scope of such opportunities are production systems, not technology stacks used to produce those systems as technology stacks change too quickly.
+
+EA reduces risks of non-compliance with IM, IT, and Security policies by providing expert advice to IT product teams. EA receives frequent feedback from IT product teams to ensure EA's advice keeps current with IT challenges.
+
+EA committees and review boards at ESDC have aligned with the Policy and [Directive on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601) that enables transparency by working in the open and provides the [Mandatory Procedures for EA Assessment](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602) that put users, open standards, open source software and cloud first as well as the [Mandatory Procedures on Application Programming Interfaces (API)](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604).
 Wherever possible code and projects are developed in the open and use of open standards and open source software is the norm.
 EA teams provide a loosely coupled architecture (reusable infrastructure artifacts and components) that empowers development and operations teams to meet business needs.
 
