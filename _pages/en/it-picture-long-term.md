@@ -112,7 +112,7 @@ Clients control their private data and have the ability to decide, for each serv
 
 ##### Lean IT Governance
 
-IT Governance manages risks, capital investments, and compliance in such a way that allows for fast turnaround time so that IT can more rapidely respond to business changes while maintaining ESDC's service integrity. The use of DevOps and Cloud technologies are enablers of this outcome.
+IT Governance manages risks, capital investments, and compliance in such a way that allows for fast turnaround time so that IT can more rapidly respond to business changes while maintaining ESDC's service integrity. The use of DevOps and Cloud technologies are enablers of this outcome.
 
 As a result:
 
