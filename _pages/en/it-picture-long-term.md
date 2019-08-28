@@ -100,6 +100,9 @@ Clients control their private data and have the ability to decide, for each serv
 - Groups within IITB interact with each other through automated processes
 - Committees and processes collect metrics for their performance to be tracked and analyzed
 - IT Policy compliance does not hinder service performance objectives
+- IT is a common knowledge across ESDC, just like finance and human resources
+- IT Governance (including its financial aspect) is lean in order to seek the benefits of devops and cloud technologies when managing risks and investments [\[1\]](#References)
+- IT and ESDC Programs are fully aware of the impact that technology has in the fulfillment of ESDC's mandate, IT's success is measured by business success
 
 > "The business must accept the risk and uncertainty that comes with technology, while IT must accept the risk and uncertainty that comes with business"
 
@@ -136,3 +139,7 @@ IITB has a very open culture that values learning (TODO: find a tangible example
 TODO: Add recruitment best practices, including for domains other than IT.
 ESDC-IITB services have performance metrics that are used to continuously improve. These include most committees as well.
 TODO: Add recruitment best practices, including for domains other than IT.
+
+### References
+
+\[1\] [Mark Schwarts, Enterprise Strategist, ex-CIO of US Citizenship and Immigration Services, author of War and Peace and IT](https://youtu.be/2BM0xYfcexY?t=936)
