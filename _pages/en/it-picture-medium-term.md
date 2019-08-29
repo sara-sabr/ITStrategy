@@ -22,6 +22,9 @@ In the following sections, we're trying to take the same end state and create "v
   - [Open Collaboration](#open-collaboration)
 - [IITB-ESDC](#iitb-esdc)
   - [Modern Open Organization](#modern-open-organization)
+  - [Enterprise Architecture](#enterprise-architecture)
+  - [Continuous Delivery](#continuous-delivery)
+  - [Internal IM/IT services](#internal-imit-services)
   - [Strong Culture of Learning](#strong-culture-of-learning)
 
 ### Citizen
@@ -32,16 +35,13 @@ It must be a priority to move towards the long-term vision of a fully automated 
 
 #### Self-Service
 
-- Centralized login for all ESDC services
+- Centralized login for all ESDC services, leveraging existing citizen identities from provincial, territorial, federal and private sector organizations following the [Pan-Canadian Trust Framework](https://github.com/canada-ca/PCTF-CCP/blob/master/overview/pctf-overview.md).
 - Application processes should be simple and guided.
   - Pages with scrollable instructions outlining details of the application process are a relic of the past.
 
 #### Service Centres and Outreach
 
 - Humans should focus on interacting with other humans through outreach. Repetitive processes should be handled through computation.
-
-- Pan-Canadian Trust Framework (TODO: How does this impact the citizen?)
-- Some services (TODO: which?) are accessible using services I am already familiar with (Ex: My Bank)
 
 ### Private Sector
 
@@ -59,7 +59,7 @@ It must be a priority to move towards the long-term vision of a fully automated 
 
 - IITB strictly controls 20% of it's funding for Internal IT Projects
 - IITB is involved in business discussions and decisions (TODO: Are we now? What body should we be apart of, and who should be a part of it?)
-- 75% of employees are equipped with mobile devices allowing them to work from anywhere (TODO: Map trends and profiles on to metric )
+- 75% of employees are equipped with mobile devices allowing them to work from anywhere On(TODO: Map trends and profiles on to metric )
 - Flexible work arrangements where employees may work remotely, insofar as it does not impact their ability to perform in their role
 - Employees are empowered to continuously learn through self directed learning. Management must allow at least 1 hour per day per employee to be spent learning new, or developing existing, skills
 - Employees are sharing their experiences and best practices (Tech Talks)
@@ -71,7 +71,7 @@ It must be a priority to move towards the long-term vision of a fully automated 
   - (TODO: Validate) Modern trends are retracting from full public cloud offerings and solutions are beginning to expand in the 'on-prem cloud' space. IITB needs to take a smart cloud approach, rather than simplify a public cloud first approach.
 - (TODO: What does EAs role look like in 5 years? Sources and references [CDS or 18f, for example])
 
-##### Enterprise Architecture
+#### Enterprise Architecture
 
 EA is held accountable to:
 
@@ -101,7 +101,7 @@ TODO: Add an architecture view mapping our GC partners (e.g. TBS DXP to integrat
 - Cloud Brokering
 - HR Services
 
-##### Continuous Delivery
+#### Continuous Delivery
 
 IITB will be able to more quickly address multiple projects throughout the year by implementing a quarterly production release, at the very latest.
 By adhering to an agile deployment methodology and a product management approach, the highest business value should be delivered early on in the project and made available to clients after each quarter.
@@ -110,18 +110,22 @@ See [Quarterly Delivery](./quarterly-delivery.md).
 
 - Development teams have access to modern development tools needed to keep pace with industry best practices.
 
-##### Internal IT services
+#### Internal IM/IT services
 
-IITB serves as a stewart of IT in ESDC and has embedded IT expertise in program areas (since it has moved to DevOps and Product Management).
-As a stewart, IITB provides ESDC Programs and their employees with the following services:
+IITB serves as a steward of IM/IT in ESDC and has embedded expertise in program areas (since it has moved to DevOps and Product Management).
+As a steward, IITB provides ESDC Programs and their employees with the following services:
 
-- Corporate services (hardware and software support)
-- Cyber security
-- Technology architecture
-- Development teams
+- Corporate Services (hardware and software support)
+- Cyber Security
+- Technology Architecture
+- Development Teams
 - Technology Infrastructure Management
 
-ESDC employees are able to work from anywhere (TODO: validate measure with trends)
+Corporate Services includes the establishment and promotion of a sound Information Management (IM) structure and culture. Information is seen/viewed/treated as a corporate asset and managed through a centralized Records Management System where information is easily searchable, secure and not duplicated.
+
+Modern up-to-date IT equipment is provisioned to employees in a quick and timely manner, and evergreening is following a 4-year refresh timeline at most.
+
+ESDC employees are able to work from anywhere (TODO: validate measure with trends). Collaboration platforms are easily accessible and linked between each other to provide a Digital Workspace experience.
 
 #### Strong Culture of Learning
 
@@ -131,14 +135,12 @@ Looking forward, ESDC at large and especially the tech focused IITB will need to
 
 - Encourage and support learning
 - Support a generative culture ([as outlined by Westrum](https://qualitysafety.bmj.com/content/13/suppl_2/ii22.short))
-- Forster and enable team experimentation
+- Foster and enable team experimentation
 - Support and facilitate collaboration among teams
 - Provide resources and tools that make work meaningful
 - Support or embody transformational leadership
 
-For more information regarding how IITB should go about promoting the development of said culture, please visit [here](https://sara-sabr.github.io/ITStrategy/enable-learning.html).
-
-Becoming a Modern Open Organization implies a strong culture of learning. Here's the 2 main categories of employee learning:
+There's 2 main categories of employee learning:
 
 - Formal Training (e.g. classroom)
 - Informal Learning
@@ -165,4 +167,4 @@ Some examples of informal learning:
 This culture change will require many adjustments at all levels of the organization and a strong support from senior management.
 Along with internal HR-related improvements, it will also extend to modernizing external hiring practices.
 
-For further details regarding the development of a cultural of learning, see [Enable Learning](/enable-learning.html).
+For further details regarding the development of a culture of learning, see [Enable Learning](/enable-learning.html).

@@ -129,6 +129,5 @@ This includes, automated software onboarding approval, key data exchange systems
 #### Strong Culture of Learning
 
 IITB has a very open culture that values learning (TODO: find a tangible example)
-TODO: Add recruitment best practices, including for domains other than IT.
 ESDC-IITB services have performance metrics that are used to continuously improve. These include most committees as well.
 TODO: Add recruitment best practices, including for domains other than IT.
