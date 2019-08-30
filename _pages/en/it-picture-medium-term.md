@@ -1,6 +1,6 @@
 ---
 layout: default
-title: IT Vision Picture - Medium Term
+title: IT Picture - Medium Term
 ref: it-picture-medium-term
 lang: en
 status: posted

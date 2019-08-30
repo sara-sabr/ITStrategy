@@ -1,6 +1,6 @@
 ---
 layout: default
-title: IT Vision Picture - Long Term
+title: IT Picture - Long Term
 ref: it-picture-long-term
 lang: en
 status: posted
