@@ -11,7 +11,7 @@ permalink: /it-picture-long-term.html
 
 This is a working document to help the IT Strategy team create a picture of what IT will look in the **long term** for ESDC in line with the organization's [Vision](https://www.canada.ca/en/employment-social-development/news/2018/01/backgrounder_oldagesecurityoasautomaticenrolment.html).
 
-In the following sections, we're trying to take the same end state and create "views" where different audiences would be looking at ESDC and see different things. There are three views:
+In the following sections, we're trying to take the perspectives of different audiences and look at what our strategies will have done to the way ESDC offers its services and operates.
 
 1. **The Citizen**: their experience with ESDC due to adoption of technology in ESDC service delivery
 2. **Private Sector**: their relationship with ESDC in partnering with ESDC to improve service delivery

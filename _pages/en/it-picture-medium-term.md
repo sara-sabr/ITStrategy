@@ -13,6 +13,10 @@ This is a working document to help the IT Strategy team create a picture of what
 
 In the following sections, we're trying to take the perspectives of different audiences and look at what our strategies will have done to the way ESDC offers its services and operates.
 
+1. **The Citizen**: their experience with ESDC due to adoption of technology in ESDC service delivery
+2. **Private Sector**: their relationship with ESDC in partnering with ESDC to improve service delivery
+3. **IT in ESDC**: the relationship between IT and ESDC's branches and programs
+
 - [Citizen](#citizen)
   - [Service performance improvements](#service-performance-improvements)
   - [Service Experience Improvements](#service-experience-improvements)
