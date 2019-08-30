@@ -55,7 +55,7 @@ For example from their:
 90% of citizens (33 300 000 people) (TO-DO: Validate this number) have a trusted Canadian profile used to verify/validate identity via the [Pan-Canadian Trust Framework](https://diacc.ca/pan-canadian-trust-framework/).
 
 Citizens can receive their benefits seamlessly throughout their lives as major life events trigger the delivery of benefits.
-See the [Human Development Lifecycle (HDLC)](/human-development-life-cycle.html)).
+See the [Human Development Lifecycle (HDLC)](/human-development-life-cycle.html).
 
 #### Self-Service
 
