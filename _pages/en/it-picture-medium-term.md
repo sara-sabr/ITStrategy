@@ -218,7 +218,7 @@ TODO: Automation, multiple trusted sources to assure tools are kept up to date
 
 IITB has provided ESDC with Microsoft Azure's Office 365 in a way that follows Information Management policy requirements
 
-IT Policies have been refreshed to align with the Policy on Service and Digital, framing employee behaviors for a modern and open organization.
+IT Policies have been refreshed to align with the Policy on Service and Digital, framing employee behaviors for a modern and open organization, aligned with the rest of the GC.
 
 #### Strong Culture of Learning
 
