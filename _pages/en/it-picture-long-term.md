@@ -65,7 +65,7 @@ Results in easier access to services through delivering services to the client t
 
 #### Service Centres and Outreach
 
-For the 10% not enrolled automatically and unable to use the GC Portal (3 700 000 people) other options are provided. Costs saved through reduced real estate could be invested in sending representatives to areas where service uptake is lagging, or digital accessibility is lagging. In this way, through a reduced reliance on physical real estate, ESDC is better able to service regions in need.
+For the 10% not enrolled automatically and unable to use the GC Portal (3 700 000 people) other options are provided. Costs saved through reduced real estate and increased automation have helped ESDC to offer greater, more accessible and personalized services for citizens that are isolated and can't benefit directly from the digital services. In this way, through a reduced reliance on physical real estate, ESDC is better able to service regions in need.
 
 TODO: 10% needs to be validated/sourced
 
