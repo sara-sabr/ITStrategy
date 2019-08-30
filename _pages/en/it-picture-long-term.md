@@ -37,13 +37,15 @@ In the following sections, we're trying to take the perspectives of different au
 
 - Citizens receive their services through automated processes through their preferred services.
 - Generational change: Citizens are used to deal with technologies, they do not face technical illiteracy like 2019.
-- OneGC: Citizens interact with federal government services, without having to understand how those are administered by multiple departments. That interaction is either via a central GC Portal or via 3rd-party providers like banks, employers, provincial services.
+- OneGC: Citizens interact with federal government services, without having to understand how those are administered by multiple departments.
+That interaction is either via a central GC Portal or via 3rd-party providers like banks, employers, provincial services.
 
 #### Automatic Enrollment and Delivery
 
 Enrollment and delivery of services is automated by default and wherever possible, with an opt-out option.
 
-Canadians who do not opt out benefit seamlessly from GC services. For example from their:
+Canadians who do not opt out benefit seamlessly from GC services.
+For example from their:
 
 - Bank(s)
 - Preferred job hunting website
@@ -65,7 +67,9 @@ Results in easier access to services through delivering services to the client t
 
 #### Service Centres and Outreach
 
-For the 10% not enrolled automatically and unable to use the GC Portal (3 700 000 people) other options are provided. Costs saved through reduced real estate and increased automation have helped ESDC to offer greater, more accessible and personalized services for citizens that are isolated and can't benefit directly from the digital services. In this way, through a reduced reliance on physical real estate, ESDC is better able to service regions in need.
+For the 10% not enrolled automatically and unable to use the GC Portal (3 700 000 people) other options are provided.
+Costs saved through reduced real estate and increased automation have helped ESDC to offer greater, more accessible and personalized services for citizens that are isolated and can't benefit directly from the digital services.
+In this way, through a reduced reliance on physical real estate, ESDC is better able to service regions in need.
 
 TODO: 10% needs to be validated/sourced
 
@@ -120,7 +124,8 @@ Clients control their private data and have the ability to decide, for each serv
 
 ##### Lean IT Governance
 
-IT Governance manages risks, capital investments, and compliance in such a way that allows for fast turnaround time so that IT can more rapidly respond to business changes while maintaining ESDC's service integrity. The use of DevOps and Cloud technologies are enablers of this outcome.
+IT Governance manages risks, capital investments, and compliance in such a way that allows for fast turnaround time so that IT can more rapidly respond to business changes while maintaining ESDC's service integrity.
+The use of DevOps and Cloud technologies are enablers of this outcome.
 
 As a result:
 
@@ -174,7 +179,8 @@ This includes, automated software onboarding approval, key data exchange systems
 
 - ESDC has a very open culture that values learning
   - TODO: find a tangible example
-- ESDC IT services have performance metrics that are used to continuously improve. These include most committees as well.
+- ESDC IT services have performance metrics that are used to continuously improve.
+These include most committees as well.
   - TODO: Add recruitment best practices, including for domains other than IT.
 
 ### References
