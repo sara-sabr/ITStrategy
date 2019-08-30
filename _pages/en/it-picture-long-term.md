@@ -7,9 +7,9 @@ status: posted
 permalink: /it-picture-long-term.html
 ---
 
-## IT Vision Picture - Long Term
+## IT Picture - Long Term
 
-This is a working document to help create a picture of what will IT look in the long term for ESDC (Employment and Social Development Canada).
+This is a working document to help the IT Strategy team create a picture of what IT will look in the **long term** for ESDC in line with the organization's [Vision](https://www.canada.ca/en/employment-social-development/news/2018/01/backgrounder_oldagesecurityoasautomaticenrolment.html).
 
 In the following sections, we're trying to take the same end state and create "views" where different audiences would be looking at ESDC and see different things. There are three views:
 
@@ -29,7 +29,7 @@ In the following sections, we're trying to take the same end state and create "v
     - [Lean IT Governance](#lean-it-governance)
     - [Enterprise Architecture (EA)](#enterprise-architecture-ea)
     - [Continuous Delivery](#continuous-delivery)
-    - [Internal IT services](#internal-it-services)
+    - [Internal IM/IT services by IITB](#internal-imit-services-by-iitb)
   - [Strong Culture of Learning](#strong-culture-of-learning)
 - [References](#references)
 
@@ -46,7 +46,7 @@ Enrollment and delivery of services is automated by default and wherever possibl
 Canadians who do not opt out benefit seamlessly from GC services. For example from their:
 
 - Bank(s)
-- Preferred job hunting web site
+- Preferred job hunting website
 - Preferred social media platform(s)
 - IoT devices
 
@@ -70,9 +70,10 @@ For the 10% not enrolled automatically and unable to use the GC Portal (3 700 00
 TODO: 10% needs to be validated/sourced
 
 1. Government of Canada Kiosks will be made available at community hubs (For example, malls or banks)
-2. Service representatives are available to
-   - Help citizens register and use digital services
-   - Use digital services on behalf of clients (there are no separate 'admin service functions' required for registration)
+2. Service representatives are available to:
+
+- Help citizens register and use digital services
+- Use digital services on behalf of clients (there are no separate 'admin service functions' required for registration)
 
 ### External Partners
 
@@ -156,17 +157,17 @@ EA teams provide a loosely coupled architecture (reusable infrastructure artifac
 
 Production artifacts (code, configuration, documentation, ..) are kept using version control, in the open where possible.
 Changes trigger continuous integration (CI) tests (static, unit, sanity, security) that are run before changes can be accepted during code review.
-Continuous delivery (CD) pipelines are defined with a clear path to deploy to Production following tests, code reviews and a lightweight change approval process.
+Continuous delivery (CD) pipelines are defined with a clear path to deploy to production following tests, code reviews and a lightweight change approval process.
 Small changes are frequently deployed to production.
 IT monitors services, applications and infrastructure to check system health proactively as well as inform business decisions.
 
 Teams work using the agile methodology to gather and implement customer feedback, working in small batches (iteration or sprint).
 Where possible work is being done in the open make the code, data and information available to other teams and interested parties.
 
-##### Internal IT services
+##### Internal IM/IT services by IITB
 
-IT is the digital, IM and IT advisor and enabler for ESDC and part of major business decisions.
-IT is responsible for providing the automated services required to run a secure and agile business.
+IITB is the digital, IM and IT advisor and enabler for ESDC and part of major business decisions.
+It is responsible for providing the automated services required to run a secure and agile business.
 This includes, automated software onboarding approval, key data exchange systems with which business may interact with, and an environment in which business may securely deploy their own solutions.
 
 #### Strong Culture of Learning
