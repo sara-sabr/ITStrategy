@@ -171,7 +171,7 @@ This includes, automated software onboarding approval, key data exchange systems
 
 #### Strong Culture of Learning
 
-- IT has a very open culture that values learning
+- ESDC has a very open culture that values learning
   - TODO: find a tangible example
 - ESDC IT services have performance metrics that are used to continuously improve. These include most committees as well.
   - TODO: Add recruitment best practices, including for domains other than IT.
