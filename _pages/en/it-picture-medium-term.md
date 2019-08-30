@@ -56,7 +56,8 @@ Technology is being used to improve service experience for the citizen.
 Through technology, citizens are offered improved user experiences as identified in ESDC's [Service Transformation Agenda](http://esdc.prv/en/department/service-strategy/corner/transformation-agenda/index.shtml).
 Such experiences resulting from increased use of technology include:
 
-- Options to use different channels to obtain services or assistance. These channels may be ESDC's website, the beginning of the GC services portal, Service Canada centres, video chat kiosks, or 3rd party trusted providers acting as intermediaries (e.g. job searching on other platforms than JobBank, mobile applications developed by the industry)
+- Options to use different channels to obtain services or assistance.
+These channels may be ESDC's website, the beginning of the GC services portal, Service Canada centres, video chat kiosks, or 3rd party trusted providers acting as intermediaries (e.g. job searching on other platforms than JobBank, mobile applications developed by the industry)
 - Not being asked twice for the same information ("Tell us once") is achieved while complying with the Privacy Act as technology enables citizens to keep ownership and choose when to share their personal information
 - Have access to most services wherever they are, anytime of day
 - Being automatically enrolled to receive benefits without having to apply
@@ -84,18 +85,22 @@ TODO: use the list of major projects as input to describe the business outcomes 
 - External partners are strongly encouraged to innovate using ESDC APIs published on the GC Open [API Store](https://api.canada.ca/) and ESDC's datasets published on the [Open Government Portal](open.canada.ca)
 - They are able to view some of the source code that is being used to run their automated services, as ESDC started publishing their source code under open source licences and working in the open
 - ESDC provides the ability, for some services, for citizens to be able to see who, when, and why, organizations viewed their information
-- Transparency, accountability, and monitoring is built into all automated processes. External partners are respecting citizens' privacy when they use ESDC's services (i.e. no data mining or selling).
+- Transparency, accountability, and monitoring is built into all automated processes.
+External partners are respecting citizens' privacy when they use ESDC's services (i.e. no data mining or selling).
 
 #### Open Collaboration
 
-ESDC's culture is embracing openness and transparency, understanding that ESDC acts as the steward of the data, not the owner. The citizen is the owner of the data. As such ESDC:
+ESDC's culture is embracing openness and transparency, understanding that ESDC acts as the steward of the data, not the owner.
+The citizen is the owner of the data.
+As such ESDC:
 
 - has established a mature Data Strategy that assures sound governance, privacy by design, trusted source of truths, and transparency in the way ESDC manages citizen data
 - actively promotes and enables across all branches the publishing of open datasets, seeking feedback from External Partners on the usefulness of datasets, its quality, and the ones that should have higher priority for publication
 - actively works to desensitize datasets that may contain sensitive information (such as aggregate information)
 - actively encourages small businesses and other jurisdiction partners to innovate using ESDC's APIs published on the GC API Store
 
-Because ESDC publishes all new custom software code under an open source licence, it leverages External Partners contribution to more rapidly get feedback, apply corrections, and contribute back to the open source community. The [Open Resource Exchange](https://canada-ca.github.io/ore-ero/en/index.html) is being used.
+Because ESDC publishes all new custom software code under an open source licence, it leverages External Partners contribution to more rapidly get feedback, apply corrections, and contribute back to the open source community.
+The [Open Resource Exchange](https://canada-ca.github.io/ore-ero/en/index.html) is being used.
 
 ### IT in ESDC
 
@@ -112,9 +117,12 @@ TODO: Seem to be mixing ESDC as a whole and IT in some places
 
 In alignment with the vision of [IITB Way Forward](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx):
 
-- The IT value chain is mapped out, and each IT team in the chain is able to clearly understand their impact on the ability of IT to deliver. This has led to each IT Team to establish performance metrics, in support of adopting a continuous improvement mindset and service culture.
-- ESDC understands that technology is not an IITB-dedicated expertise, as coding expertise is more and more a common discipline, especially among data scientists ([example at JPMorgan](https://www.finextra.com/newsarticle/32753/jpmorgan-introduces-mandatory-coding-courses)). This clarifies IITB's role as a service provider but not the sole owner of IT expertise within ESDC.
-- IT uses [bi-modal governance](https://sara-sabr.github.io/ITStrategy/transition-to-partner.html#6-adopt-a-bi-modal-governance-and-delivery) to manage risks differently based on the formula that risk = probability * impact. Bi-Modal is applied in project management, security assessments, quality assurance, and architecture
+- The IT value chain is mapped out, and each IT team in the chain is able to clearly understand their impact on the ability of IT to deliver.
+This has led to each IT Team to establish performance metrics, in support of adopting a continuous improvement mindset and service culture.
+- ESDC understands that technology is not an IITB-dedicated expertise, as coding expertise is more and more a common discipline, especially among data scientists ([example at JPMorgan](https://www.finextra.com/newsarticle/32753/jpmorgan-introduces-mandatory-coding-courses)).
+This clarifies IITB's role as a service provider but not the sole owner of IT expertise within ESDC.
+- IT uses [bi-modal governance](https://sara-sabr.github.io/ITStrategy/transition-to-partner.html#6-adopt-a-bi-modal-governance-and-delivery) to manage risks differently based on the formula that risk = probability * impact.
+Bi-Modal is applied in project management, security assessments, quality assurance, and architecture
 - IT strictly controls 20% of its funding for Internal IT Projects
   - IT Project is a set of activities aimed at improving one of the metrics outlined in the [DORA State of DevOps reports](https://devops-research.com/research.html)
     - Code deployment frequency
@@ -128,13 +136,15 @@ In alignment with the vision of [IITB Way Forward](http://dialogue/grp/IITB-DGII
   - TODO: Map employee mobility trends and profiles on to metric
 - Flexible work arrangements where employees can work remotely are strongly supported, if it does not impact their work performance
   - Employee personas are understood and well defined (in collaboration with Real Property, IT, HR, Programs)
-- IT projects (incl. code and documentation) are developed in the open by default. Drafts and collaboration is done in easily accessible, discoverable and shareable means so that any IT (and ESDC) employees may provide their professional opinions and contribute.
+- IT projects (incl. code and documentation) are developed in the open by default.
+Drafts and collaboration is done in easily accessible, discoverable and shareable means so that any IT (and ESDC) employees may provide their professional opinions and contribute.
   - Justification is required if a project is not being developed in the open
 - All newly architected solutions use APIs
 - Projects use cloud technology by default, but are still assessing the most cost/time effective and security/privacy compliant deployment options available, like cloud (public/private/on premise) and traditional.
   - Most workloads are using the public cloud until private clouds are available.
   - TODO: Validate the following trend:
-    - Modern trends are retracting from full public cloud offerings and solutions are beginning to expand in the 'on-prem cloud' space. IT is taking a smart cloud approach, rather than simplify a public cloud first approach (from cloud first to cloud smart: https://cloud.cio.gov/strategy/)
+    - Modern trends are retracting from full public cloud offerings and solutions are beginning to expand in the 'on-prem cloud' space.
+    IT is taking a smart cloud approach, rather than simplify a public cloud first approach (from cloud first to cloud smart: https://cloud.cio.gov/strategy/)
   - TODO: Add link to article about Europe leaving us-based cloud providers - NextCloud?
 
 ##### Enterprise Architecture
@@ -155,7 +165,8 @@ EA is held accountable to:
 Teams may freely opt out of EA services but will be held accountable creating a service which attracts and incentivizes compliance
 EA will be measured against the uptake rate from their clients.
 
-TODO: Suggest rewording that EA will have clearly defined metrics. Metrics TBD
+TODO: Suggest rewording that EA will have clearly defined metrics.
+Metrics TBD
 
 For more information regarding a Service Culture, please refer [here](/service-culture.html).
 
@@ -189,7 +200,8 @@ TODO: Section is very IT oriented, feel like we need to move to internal IT serv
 
 IT within ESDC (not just IITB) is able to more quickly address multiple projects throughout the year by implementing a quarterly production release, at the very latest (least?).
 By adhering to an agile deployment methodology and a product management approach, the highest business value is delivered early on in the project and made available to clients after each quarter.
-As the circumstances change, this problem is then either worked on for another iteration (one quarter) or, if the relationship between time committed and business value gained declines compared to other projects competing for resources, then another project is onboarded for the proceeding quarter. See [Quarterly Delivery](./quarterly-delivery.md).
+As the circumstances change, this problem is then either worked on for another iteration (one quarter) or, if the relationship between time committed and business value gained declines compared to other projects competing for resources, then another project is onboarded for the proceeding quarter.
+See [Quarterly Delivery](./quarterly-delivery.md).
 
 TODO: This describes a process, I would stay on outcome, linking instead to the quarterly-delivery document for more details.
 
@@ -204,11 +216,17 @@ As a steward, IITB provides ESDC Programs and their employees with the following
 - Development teams
 - Technology Infrastructure Management
 
-[IITB`s Way Forward](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx) enabled IITB to provide ESDC with modern Corporate Services which includes the establishment and promotion of sound Information Management (IM) structure and culture. Information is seen/viewed/treated as a corporate asset and managed through a Records Management ecosystem where information is easily searchable, secure and not duplicated. IITB fully supports the release of open datasets. Also, collaboration platforms are easily accessible and linked between each other to provide a Digital Workspace experience.
+[IITB`s Way Forward](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx) enabled IITB to provide ESDC with modern Corporate Services which includes the establishment and promotion of sound Information Management (IM) structure and culture.
+Information is seen/viewed/treated as a corporate asset and managed through a Records Management ecosystem where information is easily searchable, secure and not duplicated.
+IITB fully supports the release of open datasets.
+Also, collaboration platforms are easily accessible and linked between each other to provide a Digital Workspace experience.
 
-Modern up-to-date IT equipment is provisioned to employees in a quick and timely manner, and evergreening is following a 4-year refresh timeline at most. Employee profiles are established to more adequately manage risks based on the employee's work description. Employees building solution for Service Canada are able to access online web services, development tools, and cloud services, while Service Canada agents are provided with up-to-date corporate solutions that have been fully vetted for security risks.
+Modern up-to-date IT equipment is provisioned to employees in a quick and timely manner, and evergreening is following a 4-year refresh timeline at most.
+Employee profiles are established to more adequately manage risks based on the employee's work description.
+Employees building solution for Service Canada are able to access online web services, development tools, and cloud services, while Service Canada agents are provided with up-to-date corporate solutions that have been fully vetted for security risks.
 
-Employees have access to an high-performance and resilient corporate network and Internet, enabling them to leverage and interact with online services and communities productively. Risks to the corporate network are managed differently than that of access to the Internet.
+Employees have access to an high-performance and resilient corporate network and Internet, enabling them to leverage and interact with online services and communities productively.
+Risks to the corporate network are managed differently than that of access to the Internet.
 
 A vast and up-to-date software catalogue is available to employees so that they can install additional tools they need in the most frictionless way possible (enabled by automation).
 Time spent on software certification has reduced over the years due to collaboration with other departments.
@@ -235,7 +253,8 @@ ESDC at large and especially the tech-focused IT:
 - Support or embody transformational leadership
 - Offer opportunities to employees to share their experiences and best practices openly (e.g. Tech Talks)
 
-This culture change required many adjustments at all levels of the organization and a strong support from senior management. Starting with performance agreements, time management, and governance
+This culture change required many adjustments at all levels of the organization and a strong support from senior management.
+Starting with performance agreements, time management, and governance
 along with internal HR-related improvements, it also extended to modernizing external hiring practices.
 
 For further details regarding the development of a culture of learning, see [Enable Learning](/enable-learning.html).
