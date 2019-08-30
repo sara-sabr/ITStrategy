@@ -7,6 +7,14 @@ status: posted
 permalink: /enable-learning.html
 ---
 
+- [Management must enable daily learning within their teams](#management-must-enable-daily-learning-within-their-teams)
+- [Informal Learning](#informal-learning)
+- [Compliance with Collective Agreement](#compliance-with-collective-agreement)
+  - [18.03 Attendance at conferences, conventions and courses](#1803-attendance-at-conferences-conventions-and-courses)
+    - [Option 1](#option-1)
+    - [Option 2](#option-2)
+- [What Kind of Learning](#what-kind-of-learning)
+
 ## Enable Learning
 
 ### Management must enable daily learning within their teams
@@ -15,16 +23,40 @@ Activities which align to this include, though are not limited to
 
 - Ensuring learning materials are available to staff
 - Staff is guaranteed at least 1h per day to be spent learning or improving how they work
-&nbsp;&nbsp;
   - Improving how they worked is defined as any activity to increase the efficiency of their work or existing processes
 - Conduct [blameless postmortems](https://landing.google.com/sre/sre-book/chapters/postmortem-culture/) following incidents
 - Learning includes learning from and about others from within your organisation. Encourage collaboration between groups, especially those adjacent in the [value stream](https://dzone.com/articles/value-stream-mapping-and-devops)
-&nbsp;&nbsp;
   - For example, setup biweekly meetings with other groups within your department (including other branches and non-technical groups)
 
 This approach aligns with section [18.04, part a, item 3, of the Computer Systems Agreement Between the Treasury Board and the Professional Institute of the Public Service of Canada](https://www.tbs-sct.gc.ca/agreements-conventions/view-visualiser-eng.aspx?id=1#toc12212212224) which reads,
 
 > carry out research in the employee’s field of specialization not specifically related to his assigned work projects when, in the opinion of the Employer, such research is needed to enable the employee to fill his present role more adequately;
+
+### Informal Learning
+
+There's 2 main categories of employee learning:
+
+- Formal Training (e.g. classroom)
+- Informal Learning
+
+Formal training being a mature and well-recognized practice, ESDC will need to focus on understanding and encouraging informal learning among employees.
+Especially as [recent estimates suggest](https://www.groupoe.com/images/Accelerating_On-the-Job-Learning_-_White_Paper.pdf) that between 70% to 80% of job-related knowledge isn't learned in formal training but rather **informally** on-the-job.
+We observe that formal training hasn't been designed to provide employees with the "on demand" learning they need to maintain current knowledge and proficiency.
+
+> **Informal learning** is any learning that is not formal learning or non-formal learning, such as self-directed learning or learning from experience. [...] it has no set objective in terms of learning outcomes and is never intentional from the learner's standpoint. [...] this includes heuristic language building, socialization, enculturation, and play.
+> Source: [Wikipedia](https://en.wikipedia.org/wiki/Informal_learning)
+
+One important characteristic of informal learning is that it does not follow a specified curriculum and is not often professionally organized.
+It rather originates **accidentally**, **sporadically**, in association with **certain occasions**, from changing practical requirements.
+Also, it has been associated with increased individual, organizational, and market performance.
+
+Some examples of informal learning:
+
+- Self-selected books or Self-study programs;
+- Incidental skills practise;
+- Having a coach or mentor;
+- Seeking advice from peers; and
+- Participation in communities of practice.
 
 ### Compliance with Collective Agreement
 
