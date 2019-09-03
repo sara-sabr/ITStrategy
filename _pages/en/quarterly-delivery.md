@@ -4,6 +4,7 @@ title: Quarterly Delivery
 ref: quarterly-delivery
 lang: en
 status: posted
+categories: WIP
 permalink: /quarterly-delivery.html
 ---
 

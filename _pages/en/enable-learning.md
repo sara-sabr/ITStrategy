@@ -4,16 +4,15 @@ title: Enable Learning
 ref: learning
 lang: en
 status: posted
+categories: WIP
 permalink: /enable-learning.html
 ---
 
-- [Management must enable daily learning within their teams](#management-must-enable-daily-learning-within-their-teams)
-- [Informal Learning](#informal-learning)
-- [Compliance with Collective Agreement](#compliance-with-collective-agreement)
-  - [18.03 Attendance at conferences, conventions and courses](#1803-attendance-at-conferences-conventions-and-courses)
-    - [Option 1](#option-1)
-    - [Option 2](#option-2)
-- [What Kind of Learning](#what-kind-of-learning)
+1. [Enable Learning](#enable-learning)
+   1. [Management must enable daily learning within their teams](#management-must-enable-daily-learning-within-their-teams)
+   2. [Informal Learning](#informal-learning)
+   3. [Compliance with Collective Agreement](#compliance-with-collective-agreement)
+   4. [What Kind of Learning](#what-kind-of-learning)
 
 ## Enable Learning
 

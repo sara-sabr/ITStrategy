@@ -4,6 +4,7 @@ title: Speaking Notes for IT Strategy feedback
 ref: feedback-speaking-notes
 lang: en
 status: posted
+categories: About
 permalink: /feedback-speaking-notes.html
 ---
 

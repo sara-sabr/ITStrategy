@@ -4,6 +4,7 @@ title: IT Picture - Long Term
 ref: it-picture-long-term
 lang: en
 status: posted
+categories: WIP
 permalink: /it-picture-long-term.html
 ---
 

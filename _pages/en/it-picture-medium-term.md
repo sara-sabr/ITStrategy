@@ -4,6 +4,7 @@ title: IT Picture - Medium Term
 ref: it-picture-medium-term
 lang: en
 status: posted
+categories: WIP
 permalink: /it-picture-medium-term.html
 ---
 

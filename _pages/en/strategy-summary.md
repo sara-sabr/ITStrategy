@@ -4,6 +4,7 @@ title: Strategy Map
 ref: summary
 lang: en
 status: posted
+categories: About
 permalink: /strategy-summary.html
 ---
 
