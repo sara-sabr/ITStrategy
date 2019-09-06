@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Our Documents
+title: Documents And Presentations
 lang: en
 ref: documents
 status: posted
-permalink: /our-documents.html
+permalink: /documents-and-presentations.html
 ---
 
-## {{ page.title }}
-
 {% include listPages.md %}
+
+{%- include listPresentations.md -%}
