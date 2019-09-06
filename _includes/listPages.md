@@ -7,8 +7,6 @@
 {%- assign pagesOther = aPage | where:"categories", "Other" -%}
 <!--markdownlint-disable MD033-->
 
-<p></p>
-
 {%- if pagesAbout.size > 0 -%}
 
 #### {{ site.pagesAbout[page.lang] }}
