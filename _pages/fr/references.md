@@ -4,6 +4,7 @@ title: Matériel de référence
 ref: references
 lang: fr
 status: posted
+categories: Travaux en cours
 permalink: /références.html
 ---
 <!-- markdownlint-disable MD025-->
