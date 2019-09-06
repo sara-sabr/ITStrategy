@@ -4,7 +4,7 @@ title: Our Documents
 lang: en
 ref: categories
 status: posted
-permalink: /documents.html
+permalink: /our-documents.html
 ---
 
 ## {{ page.title }}
