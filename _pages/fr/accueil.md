@@ -22,7 +22,3 @@ Dans le cadre de notre travail, nous rédigerons également des [billets]({{ sit
 S'il vous plaît, n'hésitez pas à explorer nos [Enjeux (Issues)](https://github.com/sara-sabr/ITStrategy/issues) et à commencer à échanger avec nous!
 
 ~ L'équipe Stratégie TI
-
-{% include listPages.md %}
-
-{% include listPosts.md %}

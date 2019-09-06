@@ -22,9 +22,3 @@ As part of our work, we will also write [blog posts]({{ site.baseurl }}/blog-pos
 Please feel free to jump in the [Issues](https://github.com/sara-sabr/ITStrategy/issues) and start exchanging with us!
 
 ~ The IT Strategy team
-
-{% include listPages.md %}
-
-{% include listPosts.md %}
-
-{% include listPresentations.md %}
