@@ -4,6 +4,7 @@ title: Mandat (Ébauche)
 ref: mandate
 lang: fr
 status: posted
+categories: "À propos de nous"
 permalink: /mandat.html
 ---
 
