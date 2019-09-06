@@ -2,7 +2,7 @@
 layout: default
 title: Our Documents
 lang: en
-ref: categories
+ref: documents
 status: posted
 permalink: /our-documents.html
 ---
