@@ -4,7 +4,7 @@ title: Enable Learning
 ref: learning
 lang: en
 status: posted
-categories: WIP
+categories: Work In Progress
 permalink: /enable-learning.html
 ---
 

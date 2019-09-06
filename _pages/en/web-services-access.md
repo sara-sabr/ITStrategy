@@ -4,7 +4,7 @@ title: Enabling Access to Web Services and Tools at ESDC
 ref: web-services-access
 lang: en
 status: posted
-categories: WIP
+categories: Work In Progress
 permalink: /web-services-access.html
 ---
 

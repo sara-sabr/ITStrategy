@@ -4,7 +4,7 @@ title: A Strategy to transition IITB to an ESDC partner
 ref: transition-to-partner
 lang: en
 status: posted
-categories: WIP
+categories: Work In Progress
 permalink: /transition-to-partner.html
 ---
 
