@@ -1,11 +1,15 @@
 {%- assign aPage = site.pages | where:"status","posted" | where:"lang", page.lang -%}
-{%- if aPage.size > 0 | where:"categories", "Review" -%}
+{%- if aPage.size > 0 -%}
 {%- assign pagesAbout = aPage | where:"categories", site.pagesAbout[page.lang] -%}
 {%- assign pagesWIP = aPage | where:"categories", site.pagesWIP[page.lang] -%}
 {%- assign pagesReview = aPage | where:"categories", site.pagesReview[page.lang] -%}
 {%- assign pagesArchive = aPage | where:"categories", site.pagesArchive[page.lang] -%}
 {%- assign pagesOther = aPage | where:"categories", site.pagesOther[page.lang] -%}
 <!--markdownlint-disable MD033-->
+
+### {{ site.docsTitle[page.lang] }}
+
+<p></p>
 
 {%- if pagesAbout.size > 0 -%}
 

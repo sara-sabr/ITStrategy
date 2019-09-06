@@ -2,10 +2,10 @@
 
 <ul class="post-list">
   <li>
-      <h3>
+      <h4>
         <a target="_blank" href="presentation.html?markdown={{ page.lang }}/Mandate.md">
           {{ site.mandate[page.lang] }}
         </a>
-      </h3>
+      </h4>
     </li>
 </ul>
