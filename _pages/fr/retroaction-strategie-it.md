@@ -1,9 +1,10 @@
 ---
 layout: default
-title: Notes d'allocution pour la rétroaction sur la stratégie de TI
+title: Rétroaction sur les stratégie de TI
 ref: feedback-speaking-notes
 lang: fr
 status: posted
+categories: À propos de nous
 permalink: /notes-allocution-rétroaction.html
 ---
 

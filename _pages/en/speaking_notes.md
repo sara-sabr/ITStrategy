@@ -1,15 +1,16 @@
 ---
 layout: default
-title: Speaking Notes for IT Strategy feedback
+title: IT Strategy feedback
 ref: feedback-speaking-notes
 lang: en
 status: posted
+categories: About us
 permalink: /feedback-speaking-notes.html
 ---
 
 ## {{ page.title }}
 
-The following are speaking notes the IT Strategy and BRM teams can use when feedback is sought while working in the open.
+The following are some notes tho  when feedback is sought while working in the open.
 
 ### Purpose
 

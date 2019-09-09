@@ -17,6 +17,9 @@ exclude: ["wip-tec", "CONTRIBUTING.md", "cspell.json", "LICENSE", "link-check.js
 description:
   en: Working in the open! Our work in progress, list of reference material and presentations.
   fr: Travailler ouvertement! Nos travaux en cours, liste de documents de références et présentations.
+docsTitle:
+  en: Documents
+  fr: Documents
 home:
   en: Home
   fr: Accueil
@@ -32,6 +35,21 @@ mandate:
 presentations:
   en: Presentations
   fr: Présentations
+pagesAbout:
+  en: About us
+  fr: À propos de nous
+pagesWIP:
+  en: Work In Progress
+  fr: Travaux en cours
+pagesReview:
+  en: Under Review
+  fr: En révision
+pagesArchive:
+  en: Archives
+  fr: Archives
+pagesOther:
+  en: Other
+  fr: Autre
 subtitle:
   en: Be the catalysts of change within IITB to lay the path for the evolution of ESDC's digital services.
   fr: Être les catalyseurs du changement au sein de la DGIIT pour préparer la voie à l'évolution des services numériques de EDSC.

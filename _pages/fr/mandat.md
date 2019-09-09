@@ -1,9 +1,10 @@
 ---
 layout: default
-title: Mandat (Ébauche)
+title: Mandat
 ref: mandate
 lang: fr
 status: posted
+categories: "À propos de nous"
 permalink: /mandat.html
 ---
 

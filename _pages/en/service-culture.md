@@ -4,6 +4,7 @@ title: Service Culture
 ref: service-culture
 lang: en
 status: posted
+categories: Work In Progress
 permalink: /service-culture.html
 ---
 
