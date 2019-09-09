@@ -9,8 +9,6 @@
 
 ### {{ site.docsTitle[page.lang] }}
 
-<p></p>
-
 {%- if pagesAbout.size > 0 -%}
 
 #### {{ site.pagesAbout[page.lang] }}
