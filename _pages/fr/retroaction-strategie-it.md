@@ -5,7 +5,7 @@ ref: feedback-speaking-notes
 lang: fr
 status: posted
 categories: À propos de nous
-permalink: /notes-allocution-rétroaction.html
+permalink: /notes-allocution-retroaction.html
 ---
 
 ## {{ page.title }}
