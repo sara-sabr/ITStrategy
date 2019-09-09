@@ -9,7 +9,7 @@
 
 ### {{ site.docsTitle[page.lang] }}
 
-{%- if pagesAbout.size > 0 -%}
+{% if pagesAbout.size > 0 %}
 
 #### {{ site.pagesAbout[page.lang] }}
 
@@ -24,7 +24,7 @@
     </li>
   {%- endfor -%}
 </ul>
-{%- endif -%}
+{% endif %}
 
 {%- if pagesWIP.size > 0 -%}
 
