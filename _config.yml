@@ -71,3 +71,6 @@ blogPosts:
 notice:
   en: All work found on this site are ideas and proposals from the IT Strategy team within ESDC. Content here does not represent the official stance of ESDC nor the Government of Canada at large.
   fr: Tous les travaux présentés sur ce site sont des idées et des propositions de l'équipe de la stratégie informatique de EDSC. Le contenu présenté ici ne représente pas la position officielle de EDSC ni celle du gouvernement du Canada en général.
+feedback:
+  en: We encourage you to contribute to our documents in <a href=https://github.com/sara-sabr/ITStrategy>GitHub</a> or send us feedback via a <a href=https://github.com/sara-sabr/ITStrategy/issues>GitHub Issue</a> or an <a href=mailto:EDSC.DGIIT.StrategieTI-ITStrategy.IITB.ESDC@hrsdc-rhdcc.gc.ca>Email</a>.
+  fr: Nous vous encourageons à contribuer à nos documents dans <a href=https://github.com/sara-sabr/ITStrategy>GitHub</a> ou à nous envoyer vos commentaires par un <a href=https://github.com/sara-sabr/ITStrategy/issues>enjeu (issue) GitHub</a> ou un <a href=mailto:EDSC.DGIIT.StrategieTI-ITStrategy.IITB.ESDC@hrsdc-rhdcc.gc.ca>courriel</a>.
