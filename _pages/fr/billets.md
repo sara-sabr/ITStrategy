@@ -7,6 +7,4 @@ status: posted
 permalink: /nos-billets.html
 ---
 
-{% include listPages.md %}
-
-{%- include listPresentations.md -%}
+{% include listPosts.md %}
