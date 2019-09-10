@@ -12,7 +12,7 @@ As per the notice that can be found throughout our site, the content you will fi
 
 You can have a look at our working documents [here]({{site.baseurl}}/documents-and-presentations.html).
 
-On the other end, we would gladly welcome your ideas and comments in order to continuously improve our work and, in a way, how ESDC offers its services to Canadians! Please [see here](feedback-speaking-notes.html) to find out how you can contribute your ideas.
+On the other end, we would gladly welcome your ideas and comments in order to continuously improve our work and, in a way, how ESDC offers its services to Canadians! Please [see here](how-to-contribute.html) to find out how you can contribute your ideas.
 
 We have set up a few continuous integration (CI) tests in order to keep our content clean but also to showcase how powerful these open collaboration tools can be to maintain a project, whether it is simple text files or source code.
 You can have a look at our [documentation](https://github.com/sara-sabr/ITStrategy/blob/master/CONTRIBUTING.md#instructions) to see how it works!
