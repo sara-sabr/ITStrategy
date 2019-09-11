@@ -12,109 +12,23 @@ permalink: /it-picture-medium-term.html
 
 This is a working document to help the IT Strategy team create a picture of what IT will look in the **medium term** for ESDC in line with the organization's [Vision](https://www.canada.ca/en/employment-social-development/news/2018/01/backgrounder_oldagesecurityoasautomaticenrolment.html).
 
-In the following sections, we're trying to take the perspectives of different audiences and look at what our strategies will have done to the way ESDC offers its services and operates.
-
-1. **The Citizen**: their experience with ESDC due to adoption of technology in ESDC service delivery
-2. **Private Sector**: their relationship with ESDC in partnering with ESDC to improve service delivery
-3. **IT in ESDC**: the relationship between IT and ESDC's branches and programs
-
-- [Citizen](#citizen)
-  - [Service performance improvements](#service-performance-improvements)
-  - [Service Experience Improvements](#service-experience-improvements)
-  - [Service Centres and Outreach](#service-centres-and-outreach)
-- [External Partners](#external-partners)
-  - [Any platform, any device, 3rd party integration](#any-platform-any-device-3rd-party-integration)
-  - [Open Collaboration](#open-collaboration)
-- [IT in ESDC](#it-in-esdc)
-  - [Modern Open Organization](#modern-open-organization)
-    - [IT Governance and the IT Value Chain](#it-governance-and-the-it-value-chain)
-    - [Enterprise Architecture](#enterprise-architecture)
-    - [Continuous Delivery](#continuous-delivery)
-    - [Internal IM/IT services by IITB](#internal-imit-services-by-iitb)
-  - [Strong Culture of Learning](#strong-culture-of-learning)
-
-### Citizen
-
-TODO: Some risks are identified towards services to citizens [here](https://www.canada.ca/en/employment-social-development/corporate/reports/departmental-plan/2018-2019/mandate-role-operating-context-risks.html#h2.3)
-
-#### Service performance improvements
-
-In line with ESDC's Vision to modernize its services to Canadians (e.g.: Service Transformation Plan, Workforce Transformation Plan and Benefit Delivery Modernization activities), the technological changes made to ESDC will offer Citizens services performance improvements:
-
-- Reduction in 1-800 O-Canada calls due to an increase of online inquires (via well-managed information that is easy discoverable, multiple digital channels to consume the information, and different means to interact with ESDC such as chatbots)
-- Significant reduction of in-person applications and in-person information requests due to improved accessibility and experience of online services
-- Increased in web visit traffic due to citizens being more comfortable with technology and preferring using the web to seek information than phone or in-person visits
-- Increased online applications for employer benefits
-- Massively reduced amount of postal mail applications (except passport issuance) as old age pension, pension-related payments and earnings, and grants and loans are delivered digitally through registered banking institutions; at the preference of the citizen
-- Near zero fax applications
-- Beginning of online confirmation/validation of Government of Canada mandated credentials (e.g. SIN) as opposed to in-person or mail, due to the launch and adoption of trusted digital identities with Sign-in Canada.
-
-Technology in services is seeing constant improvements in terms of stability, with fewer service outages and shorter wait times, as ESDC's IT infrastructure is being modernized, the Benefits Delivery Modernization (BDM) agile project has made significant iterations over 5 years, and ESDC's Transformation agenda is well underway.
-
-#### Service Experience Improvements
-
-Technology is being used to improve service experience for the citizen.
-Through technology, citizens are offered improved user experiences as identified in ESDC's [Service Transformation Agenda](http://esdc.prv/en/department/service-strategy/corner/transformation-agenda/index.shtml).
-Such experiences resulting from increased use of technology include:
-
-- Options to use different channels to obtain services or assistance.
-These channels may be ESDC's website, the beginning of the GC services portal, Service Canada centres, video chat kiosks, or 3rd party trusted providers acting as intermediaries (e.g. job searching on other platforms than JobBank, mobile applications developed by the industry)
-- Not being asked twice for the same information ("Tell us once") is achieved while complying with the Privacy Act as technology enables citizens to keep ownership and choose when to share their personal information
-- Have access to most services wherever they are, anytime of day
-- Being automatically enrolled to receive benefits without having to apply
-- Automated administrative services like pre-filled applications and program auto-enrollment to save the time it takes to fill out forms and research programs
-- Centralized login for main ESDC services, leveraging existing citizen identities from provincial, territorial, federal and private sector organizations following the [Pan-Canadian Trust Framework](https://github.com/canada-ca/PCTF-CCP/blob/master/overview/pctf-overview.md).
-- Stronger integration of ESDC and CRA services and the launch of the GC Services Portal.
-- Pages with scrollable instructions outlining details of the application process are a relic of the past.
-
-This is inline the OneGC vision, that includes "Tell us once", "Sign-in Canada" and the services portal, presented in the [GC Digital Operation Strategic Plan 2018-2022](https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html#ToC15).
-
-#### Service Centres and Outreach
-
-- Service Canada agents focus on interacting through outreach by default, leading to more personalized service, closer to the needs of clients and increased support and identification of eligible citizens that are isolated or can't access digital services on their own.
-- Repetitive processes are handled through automation
-- Citizens have the ability to give consent in sharing personal information, allowing personal data to be shared across program services (even if such programs fall outside of ESDC's mandate)
-
-TODO: use the list of major projects as input to describe the business outcomes for citizens (e.g. central login, service improvement)
-
-### External Partners
-
-- By External Partners, we mean for profit companies, not for profit organizations, academia, private citizens and other jurisdictions such as provinces, cities, schools, etc.
-
-#### Any platform, any device, 3rd party integration
-
-- External partners are strongly encouraged to innovate using ESDC APIs published on the GC Open [API Store](https://api.canada.ca/) and ESDC's datasets published on the [Open Government Portal](open.canada.ca)
-- They are able to view some of the source code that is being used to run their automated services, as ESDC started publishing their source code under open source licences and working in the open
-- ESDC provides the ability, for some services, for citizens to be able to see who, when, and why, organizations viewed their information
-- Transparency, accountability, and monitoring is built into all automated processes.
-External partners are respecting citizens' privacy when they use ESDC's services (i.e. no data mining or selling).
-
-#### Open Collaboration
-
-ESDC's culture is embracing openness and transparency, understanding that ESDC acts as the steward of the data, not the owner.
-The citizen is the owner of the data.
-As such ESDC:
-
-- has established a mature Data Strategy that assures sound governance, privacy by design, trusted source of truths, and transparency in the way ESDC manages citizen data
-- actively promotes and enables across all branches the publishing of open datasets, seeking feedback from External Partners on the usefulness of datasets, its quality, and the ones that should have higher priority for publication
-- actively works to desensitize datasets that may contain sensitive information (such as aggregate information)
-- actively encourages small businesses and other jurisdiction partners to innovate using ESDC's APIs published on the GC API Store
-
-Because ESDC publishes all new custom software code under an open source licence, it leverages External Partners contribution to more rapidly get feedback, apply corrections, and contribute back to the open source community.
-The [Open Resource Exchange](https://canada-ca.github.io/ore-ero/en/index.html) is being used.
-
-### IT in ESDC
+- [Modern Open Organization](#modern-open-organization)
+  - [IT Governance and the IT Value Chain](#it-governance-and-the-it-value-chain)
+  - [Enterprise Architecture](#enterprise-architecture)
+  - [Continuous Delivery](#continuous-delivery)
+  - [Internal IM/IT services by IITB](#internal-imit-services-by-iitb)
+- [Strong Culture of Learning](#strong-culture-of-learning)
 
 TODO: Need to analyze how adoption of new tooling and processes will affect IT teams and structure within ESDC
 
 TODO: What are these "profiles" we talk about? Personas? Call centre vs policy analysts vs CS in IT vs AS in IT?
 Do we have a section explaining that security is embedded in every process rather than being it's own thing? -> IT value chain and governance?
 
-#### Modern Open Organization
+### Modern Open Organization
 
 TODO: Seem to be mixing ESDC as a whole and IT in some places
 
-##### IT Governance and the IT Value Chain
+#### IT Governance and the IT Value Chain
 
 In alignment with the vision of [IITB Way Forward](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx):
 
@@ -148,7 +62,7 @@ Drafts and collaboration is done in easily accessible, discoverable and shareabl
     IT is taking a smart cloud approach, rather than simplify a public cloud first approach (from cloud first to cloud smart: https://cloud.cio.gov/strategy/)
   - TODO: Add link to article about Europe leaving us-based cloud providers - NextCloud?
 
-##### Enterprise Architecture
+#### Enterprise Architecture
 
 EA's role is shifting to be more strategic and a key partner for business lines of services in:
 
@@ -188,7 +102,7 @@ TODO: Find cloud adoption rates | Duplicate from previous section?
   - HR and Financial.
 - Clear framework is in place to use, contribute and publish open source software and it is now well understood and communicated throughout the organization
 
-##### Continuous Delivery
+#### Continuous Delivery
 
 TODO: Section is very IT oriented, feel like we need to move to internal IT services?
 
@@ -206,7 +120,7 @@ See [Quarterly Delivery](./quarterly-delivery.md).
 
 TODO: This describes a process, I would stay on outcome, linking instead to the quarterly-delivery document for more details.
 
-##### Internal IM/IT services by IITB
+#### Internal IM/IT services by IITB
 
 IITB serves as a steward of IM/IT in ESDC and has embedded IT expertise in program areas (since it has moved to DevOps and Product Management).
 As a steward, IITB provides ESDC Programs and their employees with the following services:
@@ -239,7 +153,7 @@ IITB has provided ESDC with Microsoft Azure's Office 365 in a way that follows I
 
 IT Policies have been refreshed to align with the Policy on Service and Digital, framing employee behaviors for a modern and open organization, aligned with the rest of the GC.
 
-#### Strong Culture of Learning
+### Strong Culture of Learning
 
 Guided by principles such as [Moore's Law](https://en.m.wikipedia.org/wiki/Moore%27s_law), [the increased demand for high-skilled computer and information systems professionals in Canada](https://www150.statcan.gc.ca/n1/daily-quotidien/171129/dq171129b-eng.htm), and [the rapidly increasing impact of automation](https://www.pwc.com/gx/en/issues/data-and-analytics/publications/artificial-intelligence-study.html), a strong culture of learning is present at ESDC, in order to deliver services that match the expectations of citizens.
 
