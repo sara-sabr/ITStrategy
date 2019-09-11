@@ -3,7 +3,7 @@ layout: default
 title: IT Strategy feedback
 ref: feedback-speaking-notes
 lang: en
-status: posted
+status: archived
 categories: About us
 permalink: /feedback-speaking-notes.html
 ---
