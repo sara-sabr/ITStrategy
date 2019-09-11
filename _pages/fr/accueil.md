@@ -10,7 +10,7 @@ Bienvenue dans notre espace de travail! En fait, il s'agit plutôt du site Web g
 
 Selon l'avis qui peut être trouvé un peu partout dans notre site, tout ce que vous trouverez ici doit être considéré comme du travail en cours: il n'y a aucune garantie que les idées, les propositions et même les présentations que nous développons de façon ouverte seront un jour adoptées.
 
-Vous pouvez consulter nos document [ici]({{ site.baseurl }}/documents-et-presentations.html).
+Vous pouvez consulter nos document [ici]({{ site.baseurl }}/comment-contribuer.html).
 
 D'un autre côté, nous serions heureux de recevoir vos idées et commentaires afin d'améliorer continuellement notre travail et, d'une certaine façon, la façon dont EDSC offre ses services aux Canadiennes et aux Canadiens! [Voir ici](notes-allocution-rétroaction.html) pour mieux comprendre comment vous pouvez contribuer vos idées.
 
