@@ -38,7 +38,7 @@ Besoins futurs
 - Réduire la charge de travail
   - Expliquer comment le lien entre la productivité et les ressources humaines doit être brisé.
 - Création de nouveaux rôles
-  - Les conseillers en éthique peuvent devenir plus importants parce que la capacité de produire est plus facile (<-- mauvaise phrase).
+  - Les conseillers en éthique peuvent devenir plus importants parce que la capacité de produire est plus facile (<-- syntaxe à réviser).
 - Les organisations ont besoin d'enseignants à temps plein (écoles internes du GC)
   - Les employés peuvent s'approcher pour poser des questions
   - Offrir constamment des cours au personnel

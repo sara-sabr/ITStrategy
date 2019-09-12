@@ -40,7 +40,7 @@ Future Needs
 - Reduce toil
   - Explain how the link between produtivity and human resources need be broken
 - Creation of new roles
-  - Ethics Advisors may become more important as ability to produce is easier (<-- bad sentence)
+  - Ethics Advisors may become more important as ability to produce is easier (<-- review syntax)
 - Organizations need full time teachers (internal GC Schools)
   - Employees can approach to ask questions
   - Constantly offer courses to staff
