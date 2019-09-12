@@ -1,5 +1,23 @@
-/* Sticky footer styles - https://getbootstrap.com/docs/4.0/examples/sticky-footer-navbar/
--------------------------------------------------- */
+/* Header */
+
+.jumbotron {
+  padding: .5rem;
+  margin-bottom: 1rem;
+}
+
+.jumbotron h2 {
+  margin-bottom: .5rem;
+}
+
+/* Title */
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    margin-bottom: 1rem;
+}
+
+/* Footer */
+/* Sticky footer styles - https://getbootstrap.com/docs/4.0/examples/sticky-footer-navbar/ */
+
 html {
   position: relative;
   min-height: 100%;
