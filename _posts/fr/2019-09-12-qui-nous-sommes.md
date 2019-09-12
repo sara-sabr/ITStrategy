@@ -4,8 +4,8 @@ title:  "Qui nous sommes"
 ref: who-we-are
 lang: fr
 author: "L'équipe Stratégie TI"
-date: "2019-08-26"
-last_modified: "2019-08-26"
+date: "2019-09-12"
+last_modified: "2019-09-12"
 ---
 
 Cette année a été une période passionnante pour Stratégie, architecture et relation d'affaires (SARA) au sein de la Direction générale de l'innovation, de l'information et de la technologie (DGIIT) d'Emploi et Développement social Canada (EDSC).

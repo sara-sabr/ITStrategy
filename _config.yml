@@ -18,8 +18,8 @@ description:
   en: Working in the open! Our work in progress, list of reference material and presentations.
   fr: Travailler ouvertement! Nos travaux en cours, liste de documents de références et présentations.
 docsTitle:
-  en: Documents
-  fr: Documents
+  en: Our Documents
+  fr: Nos documents
 home:
   en: Home
   fr: Accueil
@@ -33,8 +33,8 @@ mandate:
   en: Mandate
   fr: Mandat
 presentations:
-  en: Presentations
-  fr: Présentations
+  en: Our Presentations
+  fr: Nos présentations
 pagesAbout:
   en: About us
   fr: À propos de nous
@@ -53,12 +53,15 @@ pagesOther:
 subtitle:
   en: Be the catalysts of change within IITB to lay the path for the evolution of ESDC's digital services.
   fr: Être les catalyseurs du changement au sein de la DGIIT pour préparer la voie à l'évolution des services numériques de EDSC.
+thisPageHasMoved:
+  en: "This page has been modified and can now be found at the following link:"
+  fr: "Cette page a été modifiée et peut maintenant être trouvée au lien suivant:"
 title:
   en: IT Strategy
   fr: Stratégie TI
 viewOnGithub:
   en: View on GitHub
-  fr: Voir sur GitHub
+  fr: Voir dans GitHub
 writtenBy:
   en: Written by
   fr: Écrit par
@@ -67,7 +70,10 @@ lastModified:
   fr: Dernière modification
 blogPosts:
   en: Our Blog Posts
-  fr: Nos Billets
+  fr: Nos billets
 notice:
   en: All work found on this site are ideas and proposals from the IT Strategy team within ESDC. Content here does not represent the official stance of ESDC nor the Government of Canada at large.
   fr: Tous les travaux présentés sur ce site sont des idées et des propositions de l'équipe de la stratégie informatique de EDSC. Le contenu présenté ici ne représente pas la position officielle de EDSC ni celle du gouvernement du Canada en général.
+feedback:
+  en: We encourage you to send us feedback on <a href=https://github.com/sara-sabr/ITStrategy>GitHub</a> through Issues or Pull Requests, or simply by <a href=mailto:EDSC.DGIIT.StrategieTI-ITStrategy.IITB.ESDC@hrsdc-rhdcc.gc.ca>email</a>. Look here on <a href="how-to-contribute.html">how to contribute</a>.
+  fr: Nous vous encourageons à nous envoyer de la rétroaction dans <a href=https://github.com/sara-sabr/ITStrategy>GitHub</a> par le biais d'Enjeux (Issues) ou de "Pull Requests", ou bien simplement par <a href=mailto:EDSC.DGIIT.StrategieTI-ITStrategy.IITB.ESDC@hrsdc-rhdcc.gc.ca>courriel</a>. Regardez ici pour savoir <a href="comment-contribuer.html">comment contribuer</a>.

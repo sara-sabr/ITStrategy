@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Reference Materials
+title: References
 ref: references
 lang: en
 status: posted
 categories: About us
-permalink: /references.html
+permalink: /references-en.html
 ---
 <!-- markdownlint-disable MD025-->
 # {{ page.title }}

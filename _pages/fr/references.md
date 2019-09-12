@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Matériel de référence
+title: Références
 ref: references
 lang: fr
 status: posted
-categories: Travaux en cours
-permalink: /références.html
+categories: "À propos de nous"
+permalink: /references-fr.html
 ---
 <!-- markdownlint-disable MD025-->
 # {{ page.title }}
