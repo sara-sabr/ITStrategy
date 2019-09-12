@@ -21,7 +21,7 @@ permalink: /trends.html
 - Digital Identity
   - Way of the future or a trend
 - IT as a normalized expertise (~finance & HR)
-  - As automation and therefore coding permeates all fields (security, ea, auditing, middleware, networking, etc..) infrastructure automation and automated compliance will remain with IT as a responsibility. However, application developement specifically will become more common knowledge outside of IT specailist discplines.
+  - As automation and therefore coding permeates all fields (security, ea, auditing, middleware, networking, etc..) infrastructure automation and automated compliance will remain with IT as a responsibility. However, application development specifically will become more common knowledge outside of IT specialist disciplines.
     - coding is not sole ownership of IITB. But IITB needs to provide the ecosystem to remain compliant and sustainable
 
 IT Trends
@@ -38,7 +38,7 @@ Future Needs
 - Reduction of DBAs
 - Increase of engineering, reduction in analysts
 - Reduce toil
-  - Explain how the link between produtivity and human resources need be broken
+  - Explain how the link between productivity and human resources need be broken
 - Creation of new roles
   - Ethics Advisors may become more important as ability to produce is easier (<-- review syntax)
 - Organizations need full time teachers (internal GC Schools)
