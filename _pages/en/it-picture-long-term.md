@@ -22,6 +22,10 @@ The IT Picture describes the state of IT at ESDC in **long term** to enable its 
 
 ### Context - IT in the delivery of ESDC services to citizens
 
+TODO: Include "Ability to respond faster and faster to business change"
+
+TODO: Include perspectives of Citizen/Service Delivery (link to Citizen doc), Private Sector and ESDC Employees
+
 Technology is being used to deliver all of ESDC services to citizens, as per the ESDC Service Vision (TODO: link to ESDC Service Vision from SSPB). Citizen expectations and the pace of change is growing exponentially, requiring ESDC to continuously improve its services to citizens (TODO: study on the pace of change being the slowest it's ever been, only increasing from now on)
 
 As such, the relationship between "business" and "IT" has moved from a contacting one, to a partnership one (TODO: link to IT Revolution book - war & peace & IT, or a seat at the table). IT is no longer seen as a separate "contracting" organization within a same organization. IT is needed by ESDC to fulfil its mandate. This means IT shares the accountability with ESDC service lines on their ability to:
@@ -117,3 +121,25 @@ These include most committees as well.
 
 - \[1\] [Mark Schwarts, Enterprise Strategist, ex-CIO of US Citizenship and Immigration Services, author of War and Peace and IT](https://youtu.be/2BM0xYfcexY?t=936)
 - TODO: Add more references
+
+### Other Notes to include
+
+- Services
+  - Infrastructure
+    - From cellphones to computers
+    - Data centers/servers
+    - Phone lines and network
+  - Applications
+    - Procured
+    - OSS
+    - Custom
+    - Interoperability services (e.g. integration, exposed APIs)
+    - Tooling
+      - For modern software development tooling is a superset of many different subsets of tools
+        - SaaS
+          - Gmail
+          - GitHub
+        - Development tools
+          - IDEs
+          - CLI
+      - This is a relevant point to note as it should be reflected in different onboarding procedures with differing levels of risk tolerance. Further, in order to enable an efficient workforce, they need the tooling that permits them to do so. For example, developers need CLI tools to automate their workflows. This would permit them to address compliance concerns in an automated way. Further, as the technology ecosystem becomes increasingly cluttered and technical expertise becomes more widespread, the ability to onboard new tools, and update existing ones, becomes ever more paramount.
