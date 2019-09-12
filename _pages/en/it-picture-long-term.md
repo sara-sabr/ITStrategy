@@ -10,7 +10,7 @@ permalink: /it-picture-long-term.html
 
 ## IT Picture - Long Term
 
-This is a working document to help the IT Strategy team create a picture of what IT will look in the **long term** for ESDC in line with the organization's [Vision](https://www.canada.ca/en/employment-social-development/news/2018/01/backgrounder_oldagesecurityoasautomaticenrolment.html).
+The IT Picture describes the state of IT at ESDC in **long term** to enable its Service Vision (TODO: link to ESDC's Service Vision).
 
 - [Modern Open Organization](#modern-open-organization)
   - [Lean IT Governance](#lean-it-governance)
@@ -19,6 +19,25 @@ This is a working document to help the IT Strategy team create a picture of what
   - [Internal IM/IT services by IITB](#internal-imit-services-by-iitb)
 - [Strong Culture of Learning](#strong-culture-of-learning)
 - [References](#references)
+
+### Context - IT in the delivery of ESDC services to citizens
+
+Technology is being used to deliver all of ESDC services to citizens, as per the ESDC Service Vision (TODO: link to ESDC Service Vision from SSPB). Citizen expectations and the pace of change is growing exponentially, requiring ESDC to continuously improve its services to citizens (TODO: study on the pace of change being the slowest it's ever been, only increasing from now on)
+
+As such, the relationship between "business" and "IT" has moved from a contacting one, to a partnership one (TODO: link to IT Revolution book - war & peace & IT, or a seat at the table). IT is no longer seen as a separate "contracting" organization within a same organization. IT is needed by ESDC to fulfil its mandate. This means IT shares the accountability with ESDC service lines on their ability to:
+
+- meet their performance requirements (TODO: link to ESDC services performance target),
+- respond to ongoing changes from citizen expectations (TODO: link to ESDC departmental plan or 2018/19 Auditor Report stating that)
+- assure integrity by design (TODO: link to DSP)  by remaining compliant to security, privacy, and information policies.
+
+At the same time, ESDC service lines, Policy Compliance business units, AND the CFO fully understand the cost and risks of doing IT. This means:
+
+- IT expertise, especially coding, is normalized in ESDC like Finance and Human Resources management are
+- Investments in IT is considered at the design stage of service
+- continuous improvements is built-in operations to manage technical debt in an ongoing manner (TODO: relentless learning and HR implications link)
+- governance enables smaller, more frequent changes as a means to manage risks and investments more accurately (TODO: link to Mark Schwartz video summarizing War and Peace and IT / OCG key initiatives on their policy rest: https://www.canada.ca/en/treasury-board-secretariat/corporate/organization/ocg-key-initiatives.html).
+
+IITB, as the branch providing the corporate functions of IT for ESDC, is a key enabler in allowing ESDC to fulfil its mandate by providing common IT infrastructure and software to the rest of the organization, as well as to the rest of the Federal Government as a whole, allowing ESDC service lines to respond quickly to citizens growing expectations of government services.
 
 ### Modern Open Organization
 
