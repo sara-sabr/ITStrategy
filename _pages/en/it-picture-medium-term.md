@@ -111,7 +111,7 @@ TODO: Explain the [source of these headers](https://cloud.google.com/devops/#dev
 ##### Continuous Integration (CI)
 
 - We have a deep and complete view of all code, applications and infrastructure dependencies because we have automated flow.
-- Automated test are run that give developers constant feedback and pushhing them to fix errors. Don't break the build!
+- Automated test are run that give developers constant feedback and pushing them to fix errors. Don't break the build!
 
 ##### Deployment automation
 
@@ -177,7 +177,7 @@ TODO: Find cloud adoption rates | Duplicate from previous section?
 
 - Build security into processes (rather than add another context switch [gate])
 - Increase security engineering competencies
-- Automating reduce load on overburdended security staff (many devs, few security)
+- Automating reduce load on overburdened security staff (many devs, few security)
 
 ##### Enterprise Solutions (GC-level solutions such as "paying Canadians" would have a single "instance")
 
@@ -273,7 +273,7 @@ As a steward, IITB provides ESDC Programs and their employees with the following
 
 ##### Open Collaboration
 
-- Reduce rework 
+- Reduce rework
 
 ##### Security & Compliance
 
@@ -309,17 +309,17 @@ As a steward, IITB provides ESDC Programs and their employees with the following
 ##### Job satisfaction
 
 - NPS
-  - Many government surveys available 
-- Employee satisfaction: DevOps Handbook Reference 
+  - Many government surveys available
+- Employee satisfaction: DevOps Handbook Reference
 
 ##### Westrum organizational culture
 
-##### Learning culture 
+##### Learning culture
 
 - Before specific technical skills, training should be developed to promote a desire to learn,
 - As jobs become automated at an increased rate 40 year long careers in single jobs no longer exist
-- Humans are versitile, and the attributes that make them so must be fostered in the future economy 
-  - Ethics, adaptability, curiosity 
+- Humans are versatile, and the attributes that make them so must be fostered in the future economy
+  - Ethics, adaptability, curiosity
 
 Guided by principles such as [Moore's Law](https://en.m.wikipedia.org/wiki/Moore%27s_law), [the increased demand for high-skilled computer and information systems professionals in Canada](https://www150.statcan.gc.ca/n1/daily-quotidien/171129/dq171129b-eng.htm), and [the rapidly increasing impact of automation](https://www.pwc.com/gx/en/issues/data-and-analytics/publications/artificial-intelligence-study.html), a strong culture of learning is present at ESDC, in order to deliver services that match the expectations of citizens.
 
