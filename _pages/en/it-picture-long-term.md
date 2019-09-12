@@ -43,6 +43,27 @@ At the same time, ESDC service lines, Policy Compliance business units, AND the 
 
 IITB, as the branch providing the corporate functions of IT for ESDC, is a key enabler in allowing ESDC to fulfil its mandate by providing common IT infrastructure and software to the rest of the organization, as well as to the rest of the Federal Government as a whole, allowing ESDC service lines to respond quickly to citizens growing expectations of government services.
 
+TODO: IITB currently delivers:
+
+- Infrastructure
+  - From cellphones to computers
+  - Data centers/servers
+  - Phone lines and network
+- Applications
+  - Procured
+  - OSS
+  - Custom
+  - Interoperability services (e.g. integration, exposed APIs)
+  - Tooling
+    - For modern software development tooling is a superset of many different subsets of tools
+      - SaaS
+        - Gmail
+        - GitHub
+      - Development tools
+        - IDEs
+        - CLI
+    - This is a relevant point to note as it should be reflected in different onboarding procedures with differing levels of risk tolerance. Further, in order to enable an efficient workforce, they need the tooling that permits them to do so. For example, developers need CLI tools to automate their workflows. This would permit them to address compliance concerns in an automated way. Further, as the technology ecosystem becomes increasingly cluttered and technical expertise becomes more widespread, the ability to onboard new tools, and update existing ones, becomes ever more paramount.
+
 ### Modern Open Organization
 
 - Groups within IT interact with each other through automated processes
@@ -121,25 +142,3 @@ These include most committees as well.
 
 - \[1\] [Mark Schwarts, Enterprise Strategist, ex-CIO of US Citizenship and Immigration Services, author of War and Peace and IT](https://youtu.be/2BM0xYfcexY?t=936)
 - TODO: Add more references
-
-### Other Notes to include
-
-- Services
-  - Infrastructure
-    - From cellphones to computers
-    - Data centers/servers
-    - Phone lines and network
-  - Applications
-    - Procured
-    - OSS
-    - Custom
-    - Interoperability services (e.g. integration, exposed APIs)
-    - Tooling
-      - For modern software development tooling is a superset of many different subsets of tools
-        - SaaS
-          - Gmail
-          - GitHub
-        - Development tools
-          - IDEs
-          - CLI
-      - This is a relevant point to note as it should be reflected in different onboarding procedures with differing levels of risk tolerance. Further, in order to enable an efficient workforce, they need the tooling that permits them to do so. For example, developers need CLI tools to automate their workflows. This would permit them to address compliance concerns in an automated way. Further, as the technology ecosystem becomes increasingly cluttered and technical expertise becomes more widespread, the ability to onboard new tools, and update existing ones, becomes ever more paramount.
