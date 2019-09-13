@@ -8,6 +8,73 @@ categories: Work In Progress
 permalink: /it-picture-medium-term.html
 ---
 
+## Structure to discuss
+
+quote by War & Peace & IT
+
+We currently think of ourselves as a business in a business - we should not.
+
+Why not?
+
+### Abstract
+
+Few sentences stating ...
+
+We are not a separate business, we are part of a greater organization. Our responsibilities are not isolated to software, rather, a subset of software enabled capabilities to enable the business on its mandate.
+
+### Modern Open Organization
+
+- Context framing - Quote the War & Peace & IT
+
+### Integrate with Business
+
+- IT must be transparent to business
+  - They must be able to see the pain points and see the bottlenecks in IT
+  - Rolling up work in committees is not the way to be aware of what is happening across the organization
+    - Working in the open internally by default
+      - To give transparency to the rest of the department
+- Define IT success by success of business
+  - Current baseline is against IT defined metrics
+  - Needs to be realigned to business outcomes
+- Continuous Delivery
+- (?) We do not have a duplicate HR group, we do not have a duplicate finance group
+  - Similarly, we should not be duplicating functions within the dept (ref: John finding our audits done elsewhere in the org), such as duplicating security processes/approvals/...
+
+### Current IT Responsibilities Redefined
+
+- Fundamental IT knowledge will be common place (IT **Expertise** will most likely not be everywhere) especially coding, throughout the organization
+  - IT as a normalized expertise, similar to Finance and HR mgt
+  - However, it provides the expertise to support all stakeholders in achieving the desired levels of compliance and security
+- Fundamental social science/arts knowledge will be common place in the IT experts teams (syntax to be reviewed)
+- IT does not own application development. Why?
+- As IT Grows, different subsets of development will need dedicated resources
+  - Ex: Middleware is a new field that did not exist 15 years ago. Now we have dedicated teams, etc.
+- Enterprise Architecture
+- Internal IM/IT services by IITB
+
+### From Service Management to ESDC Service Enablement
+
+- Not ITIL as it is
+  - Automated processes is how we interface with other groups and depts
+    - Not just IT, everyone in the organisation has moved to that concept
+  - Governance & IT Value Chain. We do not provide services to business, we are part of the business
+- If you're only a business within a business, they have the full authority to bypass you and leverage anyone else without your input. Your a service provider, you do what you're told.
+
+### Compliance
+
+- Speed AND security
+- This dichotomy does not exist. Speed is security
+  - Reference blackhat keynote speaker
+  - Reference DevSecOps
+- Compliance is at the organizational level
+
+### Cultural
+
+- Learning Culture
+- Job satisfaction
+
+---
+
 ## IT Picture - Medium Term
 
 This is a working document to help the IT Strategy team create a picture of what IT will look in the **medium term** for ESDC in line with the organization's [Vision](https://www.canada.ca/en/employment-social-development/news/2018/01/backgrounder_oldagesecurityoasautomaticenrolment.html).
