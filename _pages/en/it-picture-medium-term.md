@@ -86,14 +86,6 @@ TODO: IITB currently delivers:
   - Custom
   - Interoperability services (e.g. integration, exposed APIs)
   - Tooling
-    - For modern software development tooling is a superset of many different subsets of tools
-      - SaaS
-        - Gmail
-        - GitHub
-      - Development tools
-        - IDEs
-        - CLI
-    - This is a relevant point to note as it should be reflected in different onboarding procedures with differing levels of risk tolerance. Further, in order to enable an efficient workforce, they need the tooling that permits them to do so. For example, developers need CLI tools to automate their workflows. This would permit them to address compliance concerns in an automated way. Further, as the technology ecosystem becomes increasingly cluttered and technical expertise becomes more widespread, the ability to onboard new tools, and update existing ones, becomes ever more paramount.
 
 ### Modern Open Organization
 
@@ -103,7 +95,7 @@ TODO: Explain the [source of these headers](https://cloud.google.com/devops/#dev
 
 #### Technical
 
-##### Version control
+##### Version Control
 
 - Code, scripts and configuration are kept using version control
 - We have a deep understanding of all changes made to applications as well as the infrastructure because we have a single source code version control for everyone.
@@ -113,13 +105,13 @@ TODO: Explain the [source of these headers](https://cloud.google.com/devops/#dev
 - We have a deep and complete view of all code, applications and infrastructure dependencies because we have automated flow.
 - Automated test are run that give developers constant feedback and pushing them to fix errors. Don't break the build!
 
-##### Deployment automation
+##### Deployment Automation
 
 - Large scale tests are run continuously to identify issues as early as possible in the change process.
 
-##### Trunk-based development
+##### Trunk-based Development
 
-##### Test automation
+##### Test Automation
 
 ##### Architecture
 
@@ -167,19 +159,29 @@ TODO: Find cloud adoption rates | Duplicate from previous section?
   - HR and Financial.
 - Clear framework is in place to use, contribute and publish open source software and it is now well understood and communicated throughout the organization
 
-##### Empowering teams to choose tools
+##### Empowering Teams to Choose Tools
 
 - Add excerpt from Accelerate
+- For modern software development tooling is a superset of many different subsets of tools
+  - SaaS
+    - Gmail
+    - GitHub
+  - Development tools
+    - IDEs
+    - CLI
+- This is a relevant point to note as it should be reflected in different onboarding procedures with differing levels of risk tolerance. Further, in order to enable an efficient workforce, they need the tooling that permits them to do so. For example, developers need CLI tools to automate their workflows. This would permit them to address compliance concerns in an automated way. Further, as the technology ecosystem becomes increasingly cluttered and technical expertise becomes more widespread, the ability to onboard new tools, and update existing ones, becomes ever more paramount.
 
-##### Test data management
+##### Test Data Management
 
-##### Shifting left on security
+##### Shifting Left on Security
 
 - Build security into processes (rather than add another context switch [gate])
 - Increase security engineering competencies
 - Automating reduce load on overburdened security staff (many devs, few security)
 
-##### Enterprise Solutions (GC-level solutions such as "paying Canadians" would have a single "instance")
+##### Enterprise Solutions
+
+TODO: GC-level solutions such as "paying Canadians" would have a single "instance"
 
 ##### Modern Workplace
 
@@ -252,7 +254,7 @@ Bi-Modal is applied in project management, security assessments, quality assuran
 Drafts and collaboration is done in easily accessible, discoverable and shareable means so that any IT (and ESDC) employees may provide their professional opinions and contribute.
   - Justification is required if a project is not being developed in the open
 
-##### Team experimentation
+##### Team Experimentation
 
 ##### Service Management
 
@@ -269,7 +271,7 @@ As a steward, IITB provides ESDC Programs and their employees with the following
 - Development teams
 - Technology Infrastructure Management
 
-##### Customer feedback
+##### Customer Feedback
 
 ##### Open Collaboration
 
@@ -284,7 +286,7 @@ As a steward, IITB provides ESDC Programs and their employees with the following
 
 ##### Clients
 
-##### Service providers
+##### Service Providers
 
 - Procurement (ex: 18F)
 - Consuming types of services, including computing loads, data centers, function as a service, whatever, etc.
@@ -294,27 +296,27 @@ As a steward, IITB provides ESDC Programs and their employees with the following
 
 #### Measurement
 
-##### Monitoring systems to inform business decisions
+##### Monitoring Systems to Inform Business Decisions
 
 - Metrics should be collected automatically
 
-##### Proactive failure notification
+##### Proactive Failure Notification
 
-##### Work in process limits
+##### Work In Process Limits
 
-##### Visual management capabilities
+##### Visual Management Capabilities
 
 #### Cultural
 
-##### Job satisfaction
+##### Job Satisfaction
 
 - NPS
   - Many government surveys available
 - Employee satisfaction: DevOps Handbook Reference
 
-##### Westrum organizational culture
+##### Westrum Organizational Culture
 
-##### Learning culture
+##### Learning Culture
 
 - Before specific technical skills, training should be developed to promote a desire to learn,
 - As jobs become automated at an increased rate 40 year long careers in single jobs no longer exist
