@@ -8,9 +8,11 @@ categories: Work In Progress
 permalink: /it-picture-medium-term.html
 ---
 
+## IT Picture - Medium Term
+
 ## Structure to discuss
 
-quote by War & Peace & IT
+Quote by War & Peace & IT
 
 We currently think of ourselves as a business in a business - we should not.
 
@@ -74,8 +76,6 @@ We are not a separate business, we are part of a greater organization. Our respo
 - Job satisfaction
 
 ---
-
-## IT Picture - Medium Term
 
 This is a working document to help the IT Strategy team create a picture of what IT will look in the **medium term** for ESDC in line with the organization's [Vision](https://www.canada.ca/en/employment-social-development/news/2018/01/backgrounder_oldagesecurityoasautomaticenrolment.html).
 
