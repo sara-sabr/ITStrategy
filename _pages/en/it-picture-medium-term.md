@@ -16,17 +16,17 @@ We currently think of ourselves as a business in a business - we should not.
 
 Why not?
 
-### Abstract
+### 0. Abstract
 
 Few sentences stating ...
 
 We are not a separate business, we are part of a greater organization. Our responsibilities are not isolated to software, rather, a subset of software enabled capabilities to enable the business on its mandate.
 
-### Modern Open Organization
+### 1. Modern Open Organization
 
 - Context framing - Quote the War & Peace & IT
 
-### Integrate with Business
+### 2. Integrate with Business
 
 - IT must be transparent to business
   - They must be able to see the pain points and see the bottlenecks in IT
@@ -40,7 +40,7 @@ We are not a separate business, we are part of a greater organization. Our respo
 - (?) We do not have a duplicate HR group, we do not have a duplicate finance group
   - Similarly, we should not be duplicating functions within the dept (ref: John finding our audits done elsewhere in the org), such as duplicating security processes/approvals/...
 
-### Current IT Responsibilities Redefined
+### 3. Current IT Responsibilities Redefined
 
 - Fundamental IT knowledge will be common place (IT **Expertise** will most likely not be everywhere) especially coding, throughout the organization
   - IT as a normalized expertise, similar to Finance and HR mgt
@@ -52,7 +52,7 @@ We are not a separate business, we are part of a greater organization. Our respo
 - Enterprise Architecture
 - Internal IM/IT services by IITB
 
-### From Service Management to ESDC Service Enablement
+### 4. From Service Management to ESDC Service Enablement
 
 - Not ITIL as it is
   - Automated processes is how we interface with other groups and depts
@@ -60,7 +60,7 @@ We are not a separate business, we are part of a greater organization. Our respo
   - Governance & IT Value Chain. We do not provide services to business, we are part of the business
 - If you're only a business within a business, they have the full authority to bypass you and leverage anyone else without your input. Your a service provider, you do what you're told.
 
-### Compliance
+### 5. Compliance
 
 - Speed AND security
 - This dichotomy does not exist. Speed is security
@@ -68,7 +68,7 @@ We are not a separate business, we are part of a greater organization. Our respo
   - Reference DevSecOps
 - Compliance is at the organizational level
 
-### Cultural
+### 6. Cultural
 
 - Learning Culture
 - Job satisfaction
