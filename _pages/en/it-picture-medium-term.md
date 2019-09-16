@@ -39,8 +39,7 @@ We are not a separate business, we are part of a greater organization. Our respo
   - Current baseline is against IT defined metrics
   - Needs to be realigned to business outcomes
 - Continuous Delivery
-- (?) We do not have a duplicate HR group, we do not have a duplicate finance group
-  - Similarly, we should not be duplicating functions within the dept (ref: John finding our audits done elsewhere in the org), such as duplicating security processes/approvals/...
+- We don't duplicate functions within the dept (ref: John finding our audits done elsewhere in the org), such as duplicating security processes/approvals/...
 
 ### 3. Current IT Responsibilities Redefined
 
