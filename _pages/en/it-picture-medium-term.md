@@ -10,145 +10,176 @@ permalink: /it-picture-medium-term.html
 
 ## IT Picture - Medium Term
 
+## Structure to discuss
+
+Quote by War & Peace & IT
+
+We currently think of ourselves as a business in a business - we should not.
+
+Why not?
+
+### 0. Abstract
+
+Few sentences stating ...
+
+We are not a separate business, we are part of a greater organization. Our responsibilities are not isolated to software, rather, a subset of software enabled capabilities to enable the business on its mandate.
+
+### 1. Modern Open Organization
+
+- Context framing - Quote the War & Peace & IT
+
+### 2. Integrate with Business
+
+- IT must be transparent to business
+  - They must be able to see the pain points and see the bottlenecks in IT
+  - Rolling up work in committees is not the way to be aware of what is happening across the organization
+    - Working in the open internally by default
+      - To give transparency to the rest of the department
+- Define IT success by success of business
+  - Current baseline is against IT defined metrics
+  - Needs to be realigned to business outcomes
+- Continuous Delivery
+- We don't duplicate functions within the dept (ref: John finding our audits done elsewhere in the org), such as duplicating security processes/approvals/...
+
+### 3. Current IT Responsibilities Redefined
+
+- Fundamental IT knowledge will be common place (IT **Expertise** will most likely not be everywhere) especially coding, throughout the organization
+  - IT as a normalized expertise, similar to Finance and HR mgt
+  - However, it provides the expertise to support all stakeholders in achieving the desired levels of compliance and security
+- Fundamental social science/arts knowledge will be common place in the IT experts teams (syntax to be reviewed)
+- IT does not own application development. Why?
+- As IT Grows, different subsets of development will need dedicated resources
+  - Ex: Middleware is a new field that did not exist 15 years ago. Now we have dedicated teams, etc.
+- Enterprise Architecture
+- Internal IM/IT services by IITB
+
+### 4. From Service Management to ESDC Service Enablement
+
+- Not ITIL as it is
+  - Automated processes is how we interface with other groups and depts
+    - Not just IT, everyone in the organisation has moved to that concept
+  - Governance & IT Value Chain. We do not provide services to business, we are part of the business
+- If you're only a business within a business, they have the full authority to bypass you and leverage anyone else without your input. Your a service provider, you do what you're told.
+
+### 5. Compliance
+
+- Speed AND security
+- This dichotomy does not exist. Speed is security
+  - Reference blackhat keynote speaker
+  - Reference DevSecOps
+- Compliance is at the organizational level
+
+### 6. Cultural
+
+- Learning Culture
+- Job satisfaction
+
+---
+
 This is a working document to help the IT Strategy team create a picture of what IT will look in the **medium term** for ESDC in line with the organization's [Vision](https://www.canada.ca/en/employment-social-development/news/2018/01/backgrounder_oldagesecurityoasautomaticenrolment.html).
 
-In the following sections, we're trying to take the perspectives of different audiences and look at what our strategies will have done to the way ESDC offers its services and operates.
-
-1. **The Citizen**: their experience with ESDC due to adoption of technology in ESDC service delivery
-2. **Private Sector**: their relationship with ESDC in partnering with ESDC to improve service delivery
-3. **IT in ESDC**: the relationship between IT and ESDC's branches and programs
-
-- [Citizen](#citizen)
-  - [Service performance improvements](#service-performance-improvements)
-  - [Service Experience Improvements](#service-experience-improvements)
-  - [Service Centres and Outreach](#service-centres-and-outreach)
-- [External Partners](#external-partners)
-  - [Any platform, any device, 3rd party integration](#any-platform-any-device-3rd-party-integration)
-  - [Open Collaboration](#open-collaboration)
-- [IT in ESDC](#it-in-esdc)
-  - [Modern Open Organization](#modern-open-organization)
-    - [IT Governance and the IT Value Chain](#it-governance-and-the-it-value-chain)
-    - [Enterprise Architecture](#enterprise-architecture)
+- [Context - IT in the delivery of ESDC services to citizens](#context---it-in-the-delivery-of-esdc-services-to-citizens)
+- [Modern Open Organization](#modern-open-organization)
+  - [Technical](#technical)
+    - [Version control](#version-control)
+    - [Continuous Integration (CI)](#continuous-integration-ci)
+    - [Deployment automation](#deployment-automation)
+    - [Trunk-based development](#trunk-based-development)
+    - [Test automation](#test-automation)
+    - [Architecture](#architecture)
+    - [Empowering teams to choose tools](#empowering-teams-to-choose-tools)
+    - [Test data management](#test-data-management)
+    - [Shifting left on security](#shifting-left-on-security)
+    - [Enterprise Solutions (GC-level solutions such as "paying Canadians" would have a single "instance")](#enterprise-solutions-gc-level-solutions-such-as-paying-canadians-would-have-a-single-instance)
+    - [Modern Workplace](#modern-workplace)
+  - [Process](#process)
     - [Continuous Delivery](#continuous-delivery)
-    - [Internal IM/IT services by IITB](#internal-imit-services-by-iitb)
-  - [Strong Culture of Learning](#strong-culture-of-learning)
-
-### Citizen
-
-TODO: Some risks are identified towards services to citizens [here](https://www.canada.ca/en/employment-social-development/corporate/reports/departmental-plan/2018-2019/mandate-role-operating-context-risks.html#h2.3)
-
-#### Service performance improvements
-
-In line with ESDC's Vision to modernize its services to Canadians (e.g.: Service Transformation Plan, Workforce Transformation Plan and Benefit Delivery Modernization activities), the technological changes made to ESDC will offer Citizens services performance improvements:
-
-- Reduction in 1-800 O-Canada calls due to an increase of online inquires (via well-managed information that is easy discoverable, multiple digital channels to consume the information, and different means to interact with ESDC such as chatbots)
-- Significant reduction of in-person applications and in-person information requests due to improved accessibility and experience of online services
-- Increased in web visit traffic due to citizens being more comfortable with technology and preferring using the web to seek information than phone or in-person visits
-- Increased online applications for employer benefits
-- Massively reduced amount of postal mail applications (except passport issuance) as old age pension, pension-related payments and earnings, and grants and loans are delivered digitally through registered banking institutions; at the preference of the citizen
-- Near zero fax applications
-- Beginning of online confirmation/validation of Government of Canada mandated credentials (e.g. SIN) as opposed to in-person or mail, due to the launch and adoption of trusted digital identities with Sign-in Canada.
-
-Technology in services is seeing constant improvements in terms of stability, with fewer service outages and shorter wait times, as ESDC's IT infrastructure is being modernized, the Benefits Delivery Modernization (BDM) agile project has made significant iterations over 5 years, and ESDC's Transformation agenda is well underway.
-
-#### Service Experience Improvements
-
-Technology is being used to improve service experience for the citizen.
-Through technology, citizens are offered improved user experiences as identified in ESDC's [Service Transformation Agenda](http://esdc.prv/en/department/service-strategy/corner/transformation-agenda/index.shtml).
-Such experiences resulting from increased use of technology include:
-
-- Options to use different channels to obtain services or assistance.
-These channels may be ESDC's website, the beginning of the GC services portal, Service Canada centres, video chat kiosks, or 3rd party trusted providers acting as intermediaries (e.g. job searching on other platforms than JobBank, mobile applications developed by the industry)
-- Not being asked twice for the same information ("Tell us once") is achieved while complying with the Privacy Act as technology enables citizens to keep ownership and choose when to share their personal information
-- Have access to most services wherever they are, anytime of day
-- Being automatically enrolled to receive benefits without having to apply
-- Automated administrative services like pre-filled applications and program auto-enrollment to save the time it takes to fill out forms and research programs
-- Centralized login for main ESDC services, leveraging existing citizen identities from provincial, territorial, federal and private sector organizations following the [Pan-Canadian Trust Framework](https://github.com/canada-ca/PCTF-CCP/blob/master/overview/pctf-overview.md).
-- Stronger integration of ESDC and CRA services and the launch of the GC Services Portal.
-- Pages with scrollable instructions outlining details of the application process are a relic of the past.
-
-This is inline the OneGC vision, that includes "Tell us once", "Sign-in Canada" and the services portal, presented in the [GC Digital Operation Strategic Plan 2018-2022](https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html#ToC15).
-
-#### Service Centres and Outreach
-
-- Service Canada agents focus on interacting through outreach by default, leading to more personalized service, closer to the needs of clients and increased support and identification of eligible citizens that are isolated or can't access digital services on their own.
-- Repetitive processes are handled through automation
-- Citizens have the ability to give consent in sharing personal information, allowing personal data to be shared across program services (even if such programs fall outside of ESDC's mandate)
-
-TODO: use the list of major projects as input to describe the business outcomes for citizens (e.g. central login, service improvement)
-
-### External Partners
-
-- By External Partners, we mean for profit companies, not for profit organizations, academia, private citizens and other jurisdictions such as provinces, cities, schools, etc.
-
-#### Any platform, any device, 3rd party integration
-
-- External partners are strongly encouraged to innovate using ESDC APIs published on the GC Open [API Store](https://api.canada.ca/) and ESDC's datasets published on the [Open Government Portal](open.canada.ca)
-- They are able to view some of the source code that is being used to run their automated services, as ESDC started publishing their source code under open source licences and working in the open
-- ESDC provides the ability, for some services, for citizens to be able to see who, when, and why, organizations viewed their information
-- Transparency, accountability, and monitoring is built into all automated processes.
-External partners are respecting citizens' privacy when they use ESDC's services (i.e. no data mining or selling).
-
-#### Open Collaboration
-
-ESDC's culture is embracing openness and transparency, understanding that ESDC acts as the steward of the data, not the owner.
-The citizen is the owner of the data.
-As such ESDC:
-
-- has established a mature Data Strategy that assures sound governance, privacy by design, trusted source of truths, and transparency in the way ESDC manages citizen data
-- actively promotes and enables across all branches the publishing of open datasets, seeking feedback from External Partners on the usefulness of datasets, its quality, and the ones that should have higher priority for publication
-- actively works to desensitize datasets that may contain sensitive information (such as aggregate information)
-- actively encourages small businesses and other jurisdiction partners to innovate using ESDC's APIs published on the GC API Store
-
-Because ESDC publishes all new custom software code under an open source licence, it leverages External Partners contribution to more rapidly get feedback, apply corrections, and contribute back to the open source community.
-The [Open Resource Exchange](https://canada-ca.github.io/ore-ero/en/index.html) is being used.
-
-### IT in ESDC
+    - [Governance and the IT Value Chain](#governance-and-the-it-value-chain)
+    - [Team experimentation](#team-experimentation)
+    - [Service Management](#service-management)
+    - [Customer feedback](#customer-feedback)
+    - [Open Collaboration](#open-collaboration)
+    - [Security & Compliance](#security--compliance)
+    - [Clients](#clients)
+    - [Service providers](#service-providers)
+  - [Measurement](#measurement)
+    - [Monitoring systems to inform business decisions](#monitoring-systems-to-inform-business-decisions)
+    - [Proactive failure notification](#proactive-failure-notification)
+    - [Work in process limits](#work-in-process-limits)
+    - [Visual management capabilities](#visual-management-capabilities)
+  - [Cultural](#cultural)
+    - [Job satisfaction](#job-satisfaction)
+    - [Westrum organizational culture](#westrum-organizational-culture)
+    - [Learning culture](#learning-culture)
 
 TODO: Need to analyze how adoption of new tooling and processes will affect IT teams and structure within ESDC
 
 TODO: What are these "profiles" we talk about? Personas? Call centre vs policy analysts vs CS in IT vs AS in IT?
 Do we have a section explaining that security is embedded in every process rather than being it's own thing? -> IT value chain and governance?
 
-#### Modern Open Organization
+### Context - IT in the delivery of ESDC services to citizens
+
+TODO: Include "Ability to respond faster and faster to business change"
+
+TODO: Include perspectives of Citizen/Service Delivery (link to Citizen doc), Private Sector and ESDC Employees
+
+Technology is being used to deliver all of ESDC services to citizens, as per the ESDC Service Vision (TODO: link to ESDC Service Vision from SSPB). Citizen expectations and the pace of change is growing exponentially, requiring ESDC to continuously improve its services to citizens (TODO: study on the pace of change being the slowest it's ever been, only increasing from now on)
+
+As such, the relationship between "business" and "IT" has moved from a contacting one, to a partnership one (TODO: link to IT Revolution book - war & peace & IT, or a seat at the table). IT is no longer seen as a separate "contracting" organization within a same organization. IT is needed by ESDC to fulfil its mandate. This means IT shares the accountability with ESDC service lines on their ability to:
+
+- meet their performance requirements (TODO: link to ESDC services performance target),
+- respond to ongoing changes from citizen expectations (TODO: link to ESDC departmental plan or 2018/19 Auditor Report stating that)
+- assure integrity by design (TODO: link to DSP)  by remaining compliant to security, privacy, and information policies.
+
+At the same time, ESDC service lines, Policy Compliance business units, AND the CFO fully understand the cost and risks of doing IT. This means:
+
+- IT expertise, especially coding, is normalized in ESDC like Finance and Human Resources management are
+- Investments in IT is considered at the design stage of service
+- continuous improvements is built-in operations to manage technical debt in an ongoing manner (TODO: relentless learning and HR implications link)
+- governance enables smaller, more frequent changes as a means to manage risks and investments more accurately (TODO: link to Mark Schwartz video summarizing War and Peace and IT / OCG key initiatives on their policy rest: https://www.canada.ca/en/treasury-board-secretariat/corporate/organization/ocg-key-initiatives.html).
+
+IITB, as the branch providing the corporate functions of IT for ESDC, is a key enabler in allowing ESDC to fulfil its mandate by providing common IT infrastructure and software to the rest of the organization, as well as to the rest of the Federal Government as a whole, allowing ESDC service lines to respond quickly to citizens growing expectations of government services.
+
+TODO: IITB currently delivers:
+
+- Infrastructure
+  - From cellphones to computers
+  - Data centers/servers
+  - Phone lines and network
+- Applications
+  - Procured
+  - OSS
+  - Custom
+  - Interoperability services (e.g. integration, exposed APIs)
+  - Tooling
+
+### Modern Open Organization
 
 TODO: Seem to be mixing ESDC as a whole and IT in some places
 
-##### IT Governance and the IT Value Chain
+TODO: Explain the [source of these headers](https://cloud.google.com/devops/#devops-capabilities). Identify which are from Accelerate and which we added
 
-In alignment with the vision of [IITB Way Forward](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx):
+#### Technical
 
-- The IT value chain is mapped out, and each IT team in the chain is able to clearly understand their impact on the ability of IT to deliver.
-This has led to each IT Team to establish performance metrics, in support of adopting a continuous improvement mindset and service culture.
-- ESDC understands that technology is not an IITB-dedicated expertise, as coding expertise is more and more a common discipline, especially among data scientists ([example at JPMorgan](https://www.finextra.com/newsarticle/32753/jpmorgan-introduces-mandatory-coding-courses)).
-This clarifies IITB's role as a service provider but not the sole owner of IT expertise within ESDC.
-- IT uses [bi-modal governance](https://sara-sabr.github.io/ITStrategy/transition-to-partner.html#6-adopt-a-bi-modal-governance-and-delivery) to manage risks differently based on the formula that risk = probability * impact.
-Bi-Modal is applied in project management, security assessments, quality assurance, and architecture
-- IT strictly controls 20% of its funding for Internal IT Projects
-  - IT Project is a set of activities aimed at improving one of the metrics outlined in the [DORA State of DevOps reports](https://devops-research.com/research.html)
-    - Code deployment frequency
-    - Lead from (time from commit to deploy)
-    - Change failure rate
-    - Faster Time to Recovery (TTR)
-- IT is involved in business discussions and decisions
-  - TODO: What does that mean? Section for EA? IT is a common skill (see above)
-  - TODO: Are we now? What body should we be apart of, and who should be a part of it?
-- 75% of employees are equipped with mobile devices allowing them to work from anywhere
-  - TODO: Map employee mobility trends and profiles on to metric
-- Flexible work arrangements where employees can work remotely are strongly supported, if it does not impact their work performance
-  - Employee personas are understood and well defined (in collaboration with Real Property, IT, HR, Programs)
-- IT projects (incl. code and documentation) are developed in the open by default.
-Drafts and collaboration is done in easily accessible, discoverable and shareable means so that any IT (and ESDC) employees may provide their professional opinions and contribute.
-  - Justification is required if a project is not being developed in the open
-- All newly architected solutions use APIs
-- Projects use cloud technology by default, but are still assessing the most cost/time effective and security/privacy compliant deployment options available, like cloud (public/private/on premise) and traditional.
-  - Most workloads are using the public cloud until private clouds are available.
-  - TODO: Validate the following trend:
-    - Modern trends are retracting from full public cloud offerings and solutions are beginning to expand in the 'on-prem cloud' space.
-    IT is taking a smart cloud approach, rather than simplify a public cloud first approach (from cloud first to cloud smart: https://cloud.cio.gov/strategy/)
-  - TODO: Add link to article about Europe leaving us-based cloud providers - NextCloud?
+##### Version Control
 
-##### Enterprise Architecture
+- Code, scripts and configuration are kept using version control
+- We have a deep understanding of all changes made to applications as well as the infrastructure because we have a single source code version control for everyone.
+
+##### Continuous Integration (CI)
+
+- We have a deep and complete view of all code, applications and infrastructure dependencies because we have automated flow.
+- Automated test are run that give developers constant feedback and pushing them to fix errors. Don't break the build!
+
+##### Deployment Automation
+
+- Large scale tests are run continuously to identify issues as early as possible in the change process.
+
+##### Trunk-based Development
+
+##### Test Automation
+
+##### Architecture
 
 EA's role is shifting to be more strategic and a key partner for business lines of services in:
 
@@ -178,6 +209,12 @@ This has made possible federal government to adopt cloud technologies either in 
 
 TODO: Find cloud adoption rates | Duplicate from previous section?
 
+- Projects use cloud technology by default, but are still assessing the most cost/time effective and security/privacy compliant deployment options available, like cloud (public/private/on premise) and traditional.
+  - Most workloads are using the public cloud until private clouds are available.
+  - TODO: Validate the following trend:
+    - Modern trends are retracting from full public cloud offerings and solutions are beginning to expand in the 'on-prem cloud' space.
+    IT is taking a smart cloud approach, rather than simplify a public cloud first approach (from cloud first to cloud smart: https://cloud.cio.gov/strategy/)
+  - TODO: Add link to article about Europe leaving us-based cloud providers - NextCloud?
 - Internal and external services are developed and supported as APIs first.
 - APIs for services to Canadians are available through the API store.
 - User Interfaces (UI) are decoupled from the service interfaces, allowing for different UIs to be built and interact with the services according to the channel of choice of the end user.
@@ -188,34 +225,31 @@ TODO: Find cloud adoption rates | Duplicate from previous section?
   - HR and Financial.
 - Clear framework is in place to use, contribute and publish open source software and it is now well understood and communicated throughout the organization
 
-##### Continuous Delivery
+##### Empowering Teams to Choose Tools
 
-TODO: Section is very IT oriented, feel like we need to move to internal IT services?
+- Add excerpt from Accelerate
+- For modern software development tooling is a superset of many different subsets of tools
+  - SaaS
+    - Gmail
+    - GitHub
+  - Development tools
+    - IDEs
+    - CLI
+- This is a relevant point to note as it should be reflected in different onboarding procedures with differing levels of risk tolerance. Further, in order to enable an efficient workforce, they need the tooling that permits them to do so. For example, developers need CLI tools to automate their workflows. This would permit them to address compliance concerns in an automated way. Further, as the technology ecosystem becomes increasingly cluttered and technical expertise becomes more widespread, the ability to onboard new tools, and update existing ones, becomes ever more paramount.
 
-[IITB's Way Forward](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx) is underway in:
+##### Test Data Management
 
-- automating most of its testing suites, focusing its testing services on designing testing instead of executing them
-- moving requirements gathering, development, testing, security, and operations closer to a agile practice, working together within the IT Value Chain for a given IT product
-- making use of cloud technologies like Infrastructure-as-Code and containers, especially during development and testing, to drastically improve IITB's responsiveness to change
-- development teams having access to modern development tools needed to keep pace with industry best practices
+##### Shifting Left on Security
 
-IT within ESDC (not just IITB) is able to more quickly address multiple projects throughout the year by implementing a quarterly production release, at the very latest (least?).
-By adhering to an agile deployment methodology and a product management approach, the highest business value is delivered early on in the project and made available to clients after each quarter.
-As the circumstances change, this problem is then either worked on for another iteration (one quarter) or, if the relationship between time committed and business value gained declines compared to other projects competing for resources, then another project is onboarded for the proceeding quarter.
-See [Quarterly Delivery](./quarterly-delivery.md).
+- Build security into processes (rather than add another context switch [gate])
+- Increase security engineering competencies
+- Automating reduce load on overburdened security staff (many devs, few security)
 
-TODO: This describes a process, I would stay on outcome, linking instead to the quarterly-delivery document for more details.
+##### Enterprise Solutions
 
-##### Internal IM/IT services by IITB
+TODO: GC-level solutions such as "paying Canadians" would have a single "instance"
 
-IITB serves as a steward of IM/IT in ESDC and has embedded IT expertise in program areas (since it has moved to DevOps and Product Management).
-As a steward, IITB provides ESDC Programs and their employees with the following services:
-
-- Corporate services (hardware and software support)
-- Cyber security
-- Technology architecture
-- Development teams
-- Technology Infrastructure Management
+##### Modern Workplace
 
 [IITB`s Way Forward](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx) enabled IITB to provide ESDC with modern Corporate Services which includes the establishment and promotion of sound Information Management (IM) structure and culture.
 Information is seen/viewed/treated as a corporate asset and managed through a Records Management ecosystem where information is easily searchable, secure and not duplicated.
@@ -239,7 +273,121 @@ IITB has provided ESDC with Microsoft Azure's Office 365 in a way that follows I
 
 IT Policies have been refreshed to align with the Policy on Service and Digital, framing employee behaviors for a modern and open organization, aligned with the rest of the GC.
 
-#### Strong Culture of Learning
+#### Process
+
+##### Continuous Delivery
+
+TODO: Section is very IT oriented, feel like we need to move to internal IT services?
+
+[IITB's Way Forward](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx) is underway in:
+
+- automating most of its testing suites, focusing its testing services on designing testing instead of executing them
+- moving requirements gathering, development, testing, security, and operations closer to a agile practice, working together within the IT Value Chain for a given IT product
+- making use of cloud technologies like Infrastructure-as-Code and containers, especially during development and testing, to drastically improve IITB's responsiveness to change
+- development teams having access to modern development tools needed to keep pace with industry best practices
+
+IT within ESDC (not just IITB) is able to more quickly address multiple projects throughout the year by implementing a quarterly production release, at the very latest (least?).
+By adhering to an agile deployment methodology and a product management approach, the highest business value is delivered early on in the project and made available to clients after each quarter.
+As the circumstances change, this problem is then either worked on for another iteration (one quarter) or, if the relationship between time committed and business value gained declines compared to other projects competing for resources, then another project is onboarded for the proceeding quarter.
+See [Quarterly Delivery](./quarterly-delivery.md).
+
+TODO: This describes a process, I would stay on outcome, linking instead to the quarterly-delivery document for more details.
+
+##### Governance and the IT Value Chain
+
+In alignment with the vision of [IITB Way Forward](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx):
+
+- The IT value chain is mapped out, and each IT team in the chain is able to clearly understand their impact on the ability of IT to deliver.
+This has led to each IT Team to establish performance metrics, in support of adopting a continuous improvement mindset and service culture.
+- ESDC understands that technology is not an IITB-dedicated expertise, as coding expertise is more and more a common discipline, especially among data scientists ([example at JPMorgan](https://www.finextra.com/newsarticle/32753/jpmorgan-introduces-mandatory-coding-courses)).
+This clarifies IITB's role as a service provider but not the sole owner of IT expertise within ESDC.
+- IT uses [bi-modal governance](https://sara-sabr.github.io/ITStrategy/transition-to-partner.html#6-adopt-a-bi-modal-governance-and-delivery) to manage risks differently based on the formula that risk = probability * impact.
+Bi-Modal is applied in project management, security assessments, quality assurance, and architecture
+- IT strictly controls 20% of its funding for Internal IT Projects
+  - IT Project is a set of activities aimed at improving one of the metrics outlined in the [DORA State of DevOps reports](https://devops-research.com/research.html)
+    - Code deployment frequency
+    - Lead from (time from commit to deploy)
+    - Change failure rate
+    - Faster Time to Recovery (TTR)
+- IT is involved in business discussions and decisions
+  - TODO: What does that mean? Section for EA? IT is a common skill (see above)
+  - TODO: Are we now? What body should we be apart of, and who should be a part of it?
+- 75% of employees are equipped with mobile devices allowing them to work from anywhere
+  - TODO: Map employee mobility trends and profiles on to metric
+- Flexible work arrangements where employees can work remotely are strongly supported, if it does not impact their work performance
+  - Employee personas are understood and well defined (in collaboration with Real Property, IT, HR, Programs)
+- IT projects (incl. code and documentation) are developed in the open by default.
+Drafts and collaboration is done in easily accessible, discoverable and shareable means so that any IT (and ESDC) employees may provide their professional opinions and contribute.
+  - Justification is required if a project is not being developed in the open
+
+##### Team Experimentation
+
+##### Service Management
+
+- Lean Organization
+- Streamlining change approval (compliance and governance)
+- Service level agreement
+
+IITB serves as a steward of IM/IT in ESDC and has embedded IT expertise in program areas (since it has moved to DevOps and Product Management).
+As a steward, IITB provides ESDC Programs and their employees with the following services:
+
+- Corporate services (hardware and software support)
+- Cyber security
+- Technology architecture
+- Development teams
+- Technology Infrastructure Management
+
+##### Customer Feedback
+
+##### Open Collaboration
+
+- Reduce rework
+
+##### Security & Compliance
+
+- Speed is security (reference SecDevOps talk from Blackhat)
+- Security engineering over security analysts
+- Official languages
+- Accessibility
+
+##### Clients
+
+##### Service Providers
+
+- Procurement (ex: 18F)
+- Consuming types of services, including computing loads, data centers, function as a service, whatever, etc.
+- Consulting/Contracting
+- Exposing APIs (services to clients via 3rd parties)
+- **Note: we've mastered the concept that software is not a physical good.**
+
+#### Measurement
+
+##### Monitoring Systems to Inform Business Decisions
+
+- Metrics should be collected automatically
+
+##### Proactive Failure Notification
+
+##### Work In Process Limits
+
+##### Visual Management Capabilities
+
+#### Cultural
+
+##### Job Satisfaction
+
+- NPS
+  - Many government surveys available
+- Employee satisfaction: DevOps Handbook Reference
+
+##### Westrum Organizational Culture
+
+##### Learning Culture
+
+- Before specific technical skills, training should be developed to promote a desire to learn,
+- As jobs become automated at an increased rate 40 year long careers in single jobs no longer exist
+- Humans are versatile, and the attributes that make them so must be fostered in the future economy
+  - Ethics, adaptability, curiosity
 
 Guided by principles such as [Moore's Law](https://en.m.wikipedia.org/wiki/Moore%27s_law), [the increased demand for high-skilled computer and information systems professionals in Canada](https://www150.statcan.gc.ca/n1/daily-quotidien/171129/dq171129b-eng.htm), and [the rapidly increasing impact of automation](https://www.pwc.com/gx/en/issues/data-and-analytics/publications/artificial-intelligence-study.html), a strong culture of learning is present at ESDC, in order to deliver services that match the expectations of citizens.
 
