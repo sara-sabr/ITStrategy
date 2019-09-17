@@ -1,5 +1,5 @@
 
-{% assign categories = site.categoriesList[page.lang] | split: ", " %}
+{% assign categories = site.categoriesList[page.lang] %}
 
 {%- assign aPage = site.pages | where:"status","posted" | where:"lang", page.lang -%}
 
@@ -10,6 +10,10 @@
 <!--markdownlint-disable MD033-->
 
 {% for category in categories %}
+
+{% assign aPageCategory = aPage | where:"categories", category %}
+
+{% if aPageCategory.size > 0 %}
 
 #### {{ category }}
 
@@ -27,6 +31,8 @@
     {% endif %}
   {%- endfor -%}
 </ul>
+
+{% endif %}
 
 {% endfor %}
 
