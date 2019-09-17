@@ -7,7 +7,9 @@
     "link-check": "node link-check.js",
     "lint": "markdownlint -i node_modules -i _site -i _includes \"**/*.md\"",
     "spellcheck": "cspell \"_pages/en/*.md\" \"wip-tec/en/*.md\"",
-    "test": "npm run lint && npm run spellcheck && npm run link-check"
+    "open-licences": "licensee --errors-only",
+    "licence-compatibility": "license-compatibility-checker",
+    "test": "npm run lint && npm run spellcheck && npm run link-check && npm run open-licences"
   },
   "repository": {
     "type": "git",
@@ -29,6 +31,8 @@
     "cspell": "^3.2.8",
     "glob": "^7.1.2",
     "markdown-link-check": "^3.7.2",
-    "markdownlint-cli": "^0.15.0"
+    "markdownlint-cli": "^0.15.0",
+    "licensee": "^7.0.3",
+    "license-compatibility-checker": "^0.3.4"
   }
 }
