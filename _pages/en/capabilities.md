@@ -1,49 +1,50 @@
-## Capabilities
+---
+layout: default
+title: High Performing IT Capabilities
+ref: it-capabilities
+lang: en
+status: posted
+categories: Work In Progress
+permalink: /high-performing-it-capabilities.html
+---
 
-The State of DevOps report has be published annually since 2014.
-It's a well-respected survey to help to understand how DevOps culture and practices supports organizations to improve software engineering, release, quality, security, and generally receiving feedback on product development.
-The report supports the visualization of the contribution of DevOps to the organization's overall business performance.
+## High Performing IT Capabilities
 
-The authors of the report identified 24 key capabilities, in 5 categories, that drive improvements in software delivery performance in a statistically significant way.
-The capabilities and data are detailed in [Accelerate: By Forsgren, Humble & Kim](https://itrevolution.com/book/accelerate/).
+A DevOps Research and Assessment (DORA) [Quick Check of software delivery performance in ESDC and IITB](https://beta.devops-research.com/performance.html?leadtime=1&deployfreq=1&ttr=3&chgfail=4&industry=government) show that we are low performers for deployment frequency, lead time for changes, time to restore service and change fail rate.
 
-IITB and ESDC should continuously improve these capabilities.
+The [State of DevOps Report](https://cloud.google.com/devops/state-of-devops/) has been published annually since 2014, as part of the DORA, a six-year research program that has validated a number of technical, process, measurement, and cultural [capabilities to drive higher software delivery and organizational performance](https://cloud.google.com/devops/#devops-capabilities).
 
-### Continuous Delivery
+IITB and ESDC must continuously improve these capabilities:
 
-- Use version control for all production artifacts
-- Automate your deployment processes
-- Implement continuous integration (CI)
-- Use trunk-based development processes
-- Implement test-automation
-- Support test data management
-- Shift left on security
-- Implement continuous delivery (CD)
+### Technical
 
-### Architecture
+- Version control
+- Continuous integration
+- Deployment automation
+- Trunk-based development
+- Test automation
+- Architecture
+- Empowering teams to choose tools
+- Test data management
+- Shifting left on security
 
-- Use a loosely coupled architecture
-- Architect for empowered teams
+### Process
 
-### Product and Process
+- Team experimentation
+- Streamlining change approval
+- Customer feedback
+- Visibility of work in the value stream
+- Working in small batches
 
-- Gather and implement customer feedback
-- Make the work visible through value streams
-- Work in small batches
-- Forster and enable team experimentation
+### Measurement
 
-### Lean management and monitoring
-
-- Have a lightweight change approval process
-- Monitor across application and infrastructure to inform business decisions
-- Check system health proactively
-- Improve processes and manage work with work-in-progress (WIP) limits
-- Visualize work to monitor quality and communicate throughout the team
+- Monitoring systems to inform business decisions
+- Proactive failure notification
+- Work in process limits
+- Visual management capabilities
 
 ### Cultural
 
-- Support a generative culture (as outlined by Westrum)
-- Encourage and support learning
-- Support and facilitate collaboration among teams
-- Provide resources and tools that make work meaningful
-- Support or embody transformational leadership
+- Job satisfaction
+- Westrum organizational culture
+- Learning culture
