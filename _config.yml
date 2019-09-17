@@ -18,8 +18,8 @@ description:
   en: Working in the open! Our work in progress, list of reference material and presentations.
   fr: Travailler ouvertement! Nos travaux en cours, liste de documents de références et présentations.
 categoriesList:
-  en: "About us, Work In Progress, Under Review, Archives"
-  fr: "À propos de nous, Travaux en cours, En révision, Archives"
+  en: ["About us", "Work In Progress", "Under Review", "Archives"]
+  fr: ["À propos de nous", "Travaux en cours", "En révision", "Archives"]
 docsTitle:
   en: Our Documents
   fr: Nos Documents
