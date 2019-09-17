@@ -10,9 +10,9 @@
     "spellcheck": "cspell \"_pages/en/*.md\" \"wip-tec/en/*.md\"",
     "open-licences": "licensee",
     "licence-compatibility": "license-compatibility-checker",
-		"site-validator": "site-validator https://sara-sabr.github.io/ITStrategy/ --verbose",
+    "site-validator": "site-validator https://sara-sabr.github.io/ITStrategy/ --verbose",
     "test": "npm run lint && npm run lint-editorconfig && npm run spellcheck && npm run link-check && npm run open-licences",
-		"other-tests": "npm run site-validator && npm rum licence-compatibility"
+    "other-tests": "npm run site-validator && npm rum licence-compatibility"
   },
   "repository": {
     "type": "git",

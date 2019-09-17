@@ -4,13 +4,13 @@
       "CC-BY-3.0",
       "CC0-1.0",
       "Unlicense",
-			"WTFPL"
+      "WTFPL"
     ],
     "osi": true
   },
   "packages": {
     "docopt": "=0.6.2",
     "json-schema": "=0.2.3",
-		"valid-url": "=1.0.9"
+    "valid-url": "=1.0.9"
   }
 }
