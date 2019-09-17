@@ -6,10 +6,11 @@
   "scripts": {
     "link-check": "node link-check.js",
     "lint": "markdownlint -i node_modules -i _site -i _includes \"**/*.md\"",
+    "lint-editorconfig": "editorconfig-checker -exclude assets -disable-indentation -disable-insert-final-newline",
     "spellcheck": "cspell \"_pages/en/*.md\" \"wip-tec/en/*.md\"",
     "open-licences": "licensee --errors-only",
     "licence-compatibility": "license-compatibility-checker",
-    "test": "npm run lint && npm run spellcheck && npm run link-check && npm run open-licences"
+    "test": "npm run lint && npm run lint-editorconfig && npm run spellcheck && npm run link-check && npm run open-licences"
   },
   "repository": {
     "type": "git",
@@ -30,6 +31,7 @@
     "chalk": "^2.4.2",
     "cspell": "^3.2.8",
     "glob": "^7.1.2",
+    "editorconfig-checker": "^3.0.3",
     "markdown-link-check": "^3.7.2",
     "markdownlint-cli": "^0.15.0",
     "licensee": "^7.0.3",
