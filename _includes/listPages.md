@@ -11,11 +11,11 @@
 <ul>
   {%- for page in aPage -%}
     <li>
-      <h4>
+      <strong>
         <a href="{{ page.url | relative_url }}">
           {{ page.title | escape }}
         </a>
-      </h4>
+      </strong>
     </li>
   {%- endfor -%}
 </ul>

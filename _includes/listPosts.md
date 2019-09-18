@@ -6,9 +6,9 @@
   <ul class="post-list">
     {% for post in aPost %}
       <li>
-        <h3>
+        <strong>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl}}">{{ post.title }}</a>
-        </h3>
+        </strong>
       </li>
     {% endfor %}
   </ul>

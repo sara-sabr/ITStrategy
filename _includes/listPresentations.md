@@ -3,10 +3,10 @@
 <!--markdownlint-disable MD033-->
 <ul class="post-list">
   <li>
-      <h4>
+      <strong>
         <a target="_blank" href="presentation.html?markdown={{ page.lang }}/Mandate.md">
           {{ site.mandate[page.lang] }}
         </a>
-      </h4>
+      </strong>
     </li>
 </ul>
