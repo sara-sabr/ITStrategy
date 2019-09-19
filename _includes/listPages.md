@@ -2,7 +2,7 @@
 
 {% assign categories = site.categoriesList[page.lang] %}
 {% for category in categories %}
-{% assign aPage = site.pages | where:"categories", category | where:"lang", page.lang %}
+{% assign aPage = site.pages | where:"categories", category | where:"lang", page.lang | sort: "title" %}
 
 {%- if aPage.size > 0 -%}
 
