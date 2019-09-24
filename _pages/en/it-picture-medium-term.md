@@ -10,6 +10,13 @@ permalink: /it-picture-medium-term.html
 
 ## Medium Term IT Picture - 2025
 
+- [GC Wide](#gc-wide)
+- [IT within ESDC](#it-within-esdc)
+  - [Cultural](#cultural)
+  - [Process](#process)
+  - [Technical](#technical)
+  - [Measurement](#measurement)
+
 ### GC Wide
 
 The foundational pieces for "Government as a service" vision are available and in production, based on the [Digital Operations Strategic Plan: 2018-2022 Timeline](https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html#ToC15). This includes:
