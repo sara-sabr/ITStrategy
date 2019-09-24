@@ -59,7 +59,7 @@ Employees spend 20% of their time at work to focus on automation of current proc
 Said time also includes time for completing courses and attending conferences, as well as giving employees the freedom to explore new innovative ideas.
 The budget for learning opportunities have increased every year for the past 5 years.
 
-Employees attend community CoE (??) events which are held at least once a month which provides opportunities and spaces for employees to learn and share their knowledge, such as a project they are working on or something they are investigating.
+Employees attend presentations and events, which are held at least once a month by IT and provide opportunities and spaces for employees to learn and share their knowledge, such as a project they are working on or something they are investigating.
 People who attend conferences or take courses then share their learnings via presentations or trip reports.
 IT employees are encourage to informally complete online courses and form study groups as part of normal work activity.
 
