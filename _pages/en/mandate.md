@@ -44,7 +44,8 @@ We will also be experimenting with modern ways of working in order to demonstrat
 ## Team's understanding of the "digital transformation"
 
 IT is now used to delivery services to Canadians. If IT fails, business fails and vice versa.
-The use of technology is no longer "an IT problem" as it has real repercussions to citizens. IT can no longer be seen as a company within another company (or an outside supplier), it has shared accountability with the organization's mandate.
+The use of technology is no longer "an IT problem" as it has real repercussions to citizens.
+IT can no longer be seen as a company within another company (or an outside supplier), it has shared accountability with the organization's mandate.
 
 Current IT processes and methods are risky and costly which translates into lengthy governance and compliance checks.
 We must change how we do IT in order to reduce its risks, improve cyber security, and increase our ability to be flexible, so that IT can become a strategic asset for ESDC, and for citizen experience.
@@ -52,4 +53,6 @@ Service lines must therefore also accept the risks and costs of doing IT, becaus
 
 That is Digital Transformation.
 
-And it's an ongoing venture due to the rapid pace of change in the IT world. It has no end date. It never ends.
+And it's an ongoing venture due to the rapid pace of change in the IT world.
+It has no end date.
+It never ends.
