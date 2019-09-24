@@ -20,10 +20,8 @@ Enable the strategic value of IT within ESDC by reducing its risks to accelerate
 
 ## Mandate (team's authority within IITB)
 
-- Diagnose key ESDC organisational problems
-  - e.g.: identifying waste, lead time, and governance structures that inhibits the desired changes in behaviours
-- Recommended specific course of actions to any ESDC governance body
-  - e.g.: new methods of managing IT risks
+- Diagnose key ESDC organisational problems, waste, lead times and governance structures that inhibits the desired changes in behaviours
+- Recommended specific course of actions to any ESDC governance body to adopt new methods of managing IT risks
 - Measure progress of adoption of strategies implementation in IITB teams and governance bodies as a performance indicator for the IT Strategy team
 - Challenge current thinking and approaches
 
