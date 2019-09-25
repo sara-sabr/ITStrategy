@@ -124,6 +124,9 @@ Teams have access to adequate test data to run all the automated tests for a pro
 Enterprise architecture (EA) is designed to enable teams to test, deploy, and change systems without dependencies on other teams requiring less communication to get work done.
 EA is an agility enabler by empowering teams to choose tools and technologies, rapidly responding to new standards adoption, as well as providing light reference architectures, vetted by IT Security, as guardrails to product teams to assure compliance.
 
+EA enables ESDC to re-use investments by guiding product teams towards the desired end state of ESDC's digital platform vision (TODO: link to digital platform vision).
+EA standards have moved towards established core services of the digital platform that product teams are required to use for compliance.
+
 Technology stacks are periodically reviewed as part of team retrospectives (Agile), EA and security to critically evaluate how well the current tools address requirements.
 New technologies are also proactively investigated and opportunities are provided to discuss and demonstrate new technologies for the standard technology stacks.
 
