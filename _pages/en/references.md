@@ -79,4 +79,4 @@ Some of that content may only be available on GC/ESDC network so if the link doe
 |[Project to Product](https://projecttoproduct.org/)|Mik Kersten|2018|[IT Revolution](https://itrevolution.com/devops-books/)|Explains why the project model is dated and suggests the [Flow Framework](https://flowframework.org/) to transition to a product based delivery model|
 |[Team Topologies](https://teamtopologies.com)|Matthew Skelton & Manuel Pais|2019|[IT Revolution](https://itrevolution.com/devops-books/)|Focuses heavily on [Conway's Law](https://itrevolution.com/conways-law/) and suggests how organizations can better manage teams within organizations|
 
-Many IT Revolution books have audio samples of the opening chapters available [here](https://soundcloud.com/itrevolution/sets/a-seat-at-the-table-it-leadership-in-the-age-of-agility)
+Many IT Revolution books have audio samples of the opening chapters available on [SoundCloud](https://soundcloud.com/itrevolution).
