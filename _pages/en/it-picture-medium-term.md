@@ -132,7 +132,7 @@ The security team is involved in the design phase for all projects and a securit
 Security tests are built into the automated testing process and can identify common security vulnerabilities.
 Theses security tests can be applied uniformly as a part of a continuous integration pipeline or build process.
 
-The device provisioning division (e.g. laptops) is experimenting with new methods of device provisioning, including desktop as a service, virtual desktops in the cloud, and automatic patching from multiple trusted sources (e.g. direcetly from MS Azure for Microsoft Windows OS).
+The device provisioning division (e.g. laptops) is experimenting with new methods of device provisioning, including desktop as a service, virtual desktops in the cloud, and automatic patching from multiple trusted sources (e.g. directly from MS Azure for Microsoft Windows OS).
 
 ESDC is experimenting with different solutions to solve its network bandwidth solutions. This includes evaluating alternate suppliers than SSC, promoting teleworking, and re-architecting its solutions to reduce latency experience for end-users (TODO: link to network modernization initiative).
 
@@ -159,4 +159,4 @@ Most of the Application Portfolio Management (APM) practice measures the health 
 
 Business lines performance metrics are used as benchmark and the accountability of IT's impact to ESDC's mandate is shared.
 
-IITB's device provisioning division (e.g. laptops) provides transparent metrics on their stocks availability, providing business lines (including CFOB) with valueable insights on their ability to fulfill ESDC employee needs.
+IITB's device provisioning division (e.g. laptops) provides transparent metrics on their stocks availability, providing business lines (including CFOB) with valuable insights on their ability to fulfill ESDC employee needs.
