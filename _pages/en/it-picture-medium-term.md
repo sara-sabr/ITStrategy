@@ -132,7 +132,7 @@ En conclusion, ...
 - https://cloud.google.com/solutions/devops/devops-measurement-wip-limits
 - https://cloud.google.com/solutions/devops/devops-measurement-visual-management
 
-Teams have established Work in progress (WIP) limits based on team capacity and workload assigned, in order to prioritize and focus on completing a small number of high-priority tasks. Once the process is implemented accurately, this will result in faster lead times, higher quality, lower costs, and less waste. 
+Teams have established Work in progress (WIP) limits based on team capacity and workload assigned, in order to prioritize and focus on completing a small number of high-priority tasks. Once the process is implemented accurately, this will result in faster lead times, higher quality, lower costs, and less waste.
 
 The IT branch is collecting data from key areas and appropriate metrics throughout the value chain and ensuring that the right data is being collected.The collected data is available, shared, and used to make decisions across ESDC (not just IT).
 Business lines performance metrics are used as benchmark and the accountability of IT's impact to ESDC's mandate is shared.
