@@ -145,7 +145,4 @@ Teams have established Work in progress (WIP) limits based on team capacity and 
 IT teams provide proactive failure notification, using key indicators and thresholds in their monitoring software, and get alerted before an application fails to pro-actively resolve issues before they impact users.
 Following the diagnoses of incidents, indicators that could have predicted the incident are added to monitoring.
 
-Most of the Application Portfolio Management (APM) practice measures the health of applications using metrics directly from the IT teams software configurations.
-The APM maps applications to business lines services, providing them with key metrics on the overall health of such services.
-
 Business lines performance metrics are used as benchmark and the accountability of IT's impact to ESDC's mandate is shared.
