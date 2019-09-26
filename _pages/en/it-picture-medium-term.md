@@ -121,11 +121,13 @@ Team members prioritize code review of coworkers changes to ensure that they don
 The build statuses of projects are visible to the IT branch.
 Teams have access to adequate test data to run all the automated tests for a project.
 
+<!--- The below description is not an EA function, it's rather an organization structure that moves towards product management instead of project management
 Enterprise architecture (EA) is designed to enable teams to test, deploy, and change systems without dependencies on other teams requiring less communication to get work done.
+--->
 EA is an agility enabler by empowering teams to choose tools and technologies, rapidly responding to new standards adoption, as well as providing light reference architectures, vetted by IT Security, as guardrails to product teams to assure compliance.
 
-EA enables ESDC to re-use investments by guiding product teams towards the desired end state of ESDC's digital platform vision (TODO: link to digital platform vision).
-EA standards have moved towards established core services of the digital platform that product teams are required to use for compliance.
+EA enables ESDC to re-use investments via capability-basedp lanning which guides product teams towards the desired end state of ESDC's digital platform vision (TODO: link to digital platform vision).
+EA standards have moved towards established core services of the digital platform that product teams are required to use for compliance as oppose to technology stacks.
 
 Technology stacks are periodically reviewed as part of team retrospectives (Agile), EA and security to critically evaluate how well the current tools address requirements.
 New technologies are also proactively investigated and opportunities are provided to discuss and demonstrate new technologies for the standard technology stacks.
@@ -149,16 +151,16 @@ ESDC is experimenting with different solutions to solve its network bandwidth so
 Business lines understand their accountability in sustaining the IT systems used to enable their business.
 This means part of their budget is set to assure technical debt is measured, exposed to the business line, and handled in a timely manner
 
-Operations have moved towards a Site Reliability Engineering (SRE) practice where operations is treated like a software practice.
-ESDC applications are managed, maintained, and monitored using software.
-SREs collect data throughout the IT value chain and aggregate it to different audiences.
+Operations have moved towards treating operations like a software practice, automating as much as possible their operations via Infrastructure as Code.
+IT teams use software that collects data throughout the IT value chain and aggregates it to serve different audiences.
 
 Teams have established Work in progress (WIP) limits based on team capacity and workload assigned, in order to prioritize and focus on completing a small number of high-priority tasks. Once the process is implemented accurately, this will result in faster lead times, higher quality, lower costs, and less waste.
 
-SRE provides proactive failure notification, using key indicators and thresholds in their monitoring software, and get alerted before an application fails to pro-actively resolve issues before they impact users.
+IT teams provide proactive failure notification, using key indicators and thresholds in their monitoring software, and get alerted before an application fails to pro-actively resolve issues before they impact users.
 Following the diagnoses of incidents, indicators that could have predicted the incident are added to monitoring.
 
-Most of the Application Portfolio Management (APM) practice measures the health of applications using metrics directly from the SRE teams`s software, not using out dated documentations.
+Most of the Application Portfolio Management (APM) practice measures the health of applications using metrics directly from the IT teams software configurations.
+The APM maps applications to business lines services, providing them with key metrics on the overall health of such services.
 
 Business lines performance metrics are used as benchmark and the accountability of IT's impact to ESDC's mandate is shared.
 
