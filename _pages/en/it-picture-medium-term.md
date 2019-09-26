@@ -126,7 +126,7 @@ Enterprise architecture (EA) is designed to enable teams to test, deploy, and ch
 --->
 EA is an agility enabler by empowering teams to choose tools and technologies, rapidly responding to new standards adoption, as well as providing light reference architectures, vetted by IT Security, as guardrails to product teams to assure compliance.
 
-EA enables ESDC to re-use investments via capability-basedp lanning which guides product teams towards the desired end state of ESDC's digital platform vision (TODO: link to digital platform vision).
+EA enables ESDC to re-use investments via capability-base planning which guides product teams towards the desired end state of ESDC's digital platform vision (TODO: link to digital platform vision).
 EA standards have moved towards established core services of the digital platform that product teams are required to use for compliance as oppose to technology stacks.
 
 Technology stacks are periodically reviewed as part of team retrospectives (Agile), EA and security to critically evaluate how well the current tools address requirements.
