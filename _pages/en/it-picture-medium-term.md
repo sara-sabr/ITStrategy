@@ -29,9 +29,9 @@ The foundational pieces for "Government as a service" vision are available and i
 [The GC Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html), [the Policy](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603) and [Directive on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601), with the Mandatory procedures for EA assessments(link) have shifted GC departments and agencies are increasingly using open standards (data formats and protocols) and existing open source software.
 Being agile and focusing on the needs of the user is the new normal and there growing collaboration via open source software communities within and outside the GC.
 Organizations have migrated massively to the cloud and are sharing/reusing software and code to configure their environments following security guardrails (TODO: reference needed).
-GC communities of practices such as Open source software, Cloud and DevOps host regular events for GC IT employees.
+GC communities of practices such as Open source software, Cloud and Agile host regular events for GC IT employees.
 
-ESDC (especially IITB though it has influenced other branches as well) has seen a major shift towards Agile project management, DevOps and the Cloud.
+ESDC (especially IITB though it has influenced other branches as well) has seen a major shift towards Agile project management and automation.
 ESDC has been a leader in OneGC Council and Clusters.  It's own digital transformation initiative is going well with BDM and the Service transformation going according to plan.
 
 ### IT within ESDC
@@ -86,7 +86,7 @@ Information is open by default, reducing the burden on employees to request acce
 Organizational outcomes are measured and provide information critical to making the best decisions.
 Hackathons are held twice a year by IT.
 
-Teams work using Agile and DevOps methodologies to iterate on and continually improve solutions and services.
+Teams work using Agile methodologies to iterate on and continually improve solutions and services.
 Clients should be included from the start of the project and submit regular feedback.
 There is a big focus on automation of testing and deployments, all the way to production, removing the need for manual approvals by boards or managers.
 
