@@ -20,7 +20,7 @@ Favoriser la valeur stratégique des TI au sein de EDSC en réduisant leurs risq
 
 ## Mandat (l'autorité de l'équipe au sein de la DGTII)
 
-- Diagnostiquer les principaux problèmes organisationnels de EDCS, les gaspillages, les délais et les structures de gouvernance qui empêchent les changements de comportement souhaités
+- Diagnostiquer les principaux problèmes organisationnels de EDSC, les gaspillages, les délais et les structures de gouvernance qui empêchent les changements de comportement souhaités
 - Recommander un plan d'action à tout organisme de gouvernance du EDSC pour l'adoption de nouvelles méthodes de gestion des risques liés aux TI.
 - Mesurer les progrès de l'adoption de la mise en œuvre des stratégies au sein des équipes des organismes de gouvernance de la DGIIT en tant qu'indicateur de rendement pour l'équipe de la stratégie TI.
 - Remettre en question la pensée et les approches actuelles
