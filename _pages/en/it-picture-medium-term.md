@@ -91,13 +91,8 @@ There is a big focus on automation of testing and deployments, all the way to pr
 
 Information about the flow of product development work across the whole value stream is readily available.
 
-Governance is moving to lean project management where desired outcomes are stated instead of requirements, and hypothesis are used instead of business cases.
-
-Governance favours smaller projects as a means to reduce risks and avoid feature bloat.
+Governance is moving to lean project management where desired outcomes are stated instead of requirements, and hypothesis are used instead of business cases, favouring smaller projects as a means to reduce risks and avoid feature bloat.
 ESDC investment management enables this by allowing smaller, more iterative investments in IT. Monitoring towards achievement of desired outcomes is used as project metrics as opposed to task completion.
-
-Capability-based planning by the Enterprise Architecture team is used to influence where ESDC's limited investments needs to be allocated.
-This includes large innovation projects as a means to target innovation towards capabilities expected to have the greatest impacts to ESDC's mandate.
 
 #### Technical
 
@@ -121,14 +116,8 @@ Team members prioritize code review of coworkers changes to ensure that they don
 The build statuses of projects are visible to the IT branch.
 Teams have access to adequate test data to run all the automated tests for a project.
 
-<!--- The below description is not an EA function, it's rather an organization structure that moves towards product management instead of project management
-Enterprise architecture (EA) is designed to enable teams to test, deploy, and change systems without dependencies on other teams requiring less communication to get work done.
---->
 EA is an agility enabler by empowering teams to choose tools and technologies, rapidly responding to new standards adoption, as well as providing light reference architectures, vetted by IT Security, as guardrails to product teams to assure compliance.
-
-EA enables ESDC to re-use investments via capability-base planning which guides product teams towards the desired end state of ESDC's digital platform vision (TODO: link to digital platform vision).
-EA standards have moved towards established core services of the digital platform that product teams are required to use for compliance as oppose to technology stacks.
-
+EA enables ESDC to re-use investments via capability-base planning and influences where ESDC's investments needs to be allocated.
 Technology stacks are periodically reviewed as part of team retrospectives (Agile), EA and security to critically evaluate how well the current tools address requirements.
 New technologies are also proactively investigated and opportunities are provided to discuss and demonstrate new technologies for the standard technology stacks.
 
