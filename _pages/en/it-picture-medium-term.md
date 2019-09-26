@@ -41,6 +41,8 @@ IT is used as a strategic asset to improve services to citizens. As such, IT is 
 The ESDC IT Strategy put in place a continuous improvement [transformation](https://cloud.google.com/solutions/devops/devops-culture-transform) based on the capabilities and recommendations from the DevOps Research and Assessment (DORA) and the annual [State of DevOps Report](https://cloud.google.com/devops/).
 The goals have been to continuously increase deployment frequency while reducing lead time for changes getting to production, time to restore service when an incident occurs and change fail rate of deployments.
 
+This continuous improvement transformation is not just for software, it's also for hardware lifecycle (e.g. laptops).
+
 #### Cultural
 
 - https://cloud.google.com/solutions/devops/devops-culture-learning-culture
@@ -53,6 +55,7 @@ These include technical resources, such as access to servers or environments nec
 Employees spend more time leveraging their creativity to add business value and less time on repetitive tasks.
 
 Employees feel they can be honest with management without fear of reproach and be confident that things will improve.
+Scope of changes are purposefully small, de-risking failures that enables learning as opposed to over analysing risks of non-compliance.
 We learn from failure, hold blameless postmortems and continuously ask questions such as why did it fail?
 
 Employees spend 20% of their time at work to focus on automation of current processes, prototyping related technologies, or keeping up to date with trends and technologies related to their work and the broader GC Digital transformation efforts.
@@ -90,6 +93,12 @@ Information about the flow of product development work across the whole value st
 
 Governance is moving to lean project management where desired outcomes are stated instead of requirements, and hypothesis are used instead of business cases.
 
+Governance favours smaller projects as a means to reduce risks and avoid feature bloat.
+ESDC investment management enables this by allowing smaller, more iterative investments in IT. Monitoring towards achievement of desired outcomes is used as project metrics as opposed to task completion.
+
+Capability-based planning by the Enterprise Architecture team is used to influence where ESDC's limited investments needs to be allocated.
+This includes large innovation projects as a means to target innovation towards capabilities expected to have the greatest impacts to ESDC's mandate.
+
 #### Technical
 
 - https://cloud.google.com/solutions/devops/devops-tech-version-control
@@ -113,7 +122,7 @@ The build statuses of projects are visible to the IT branch.
 Teams have access to adequate test data to run all the automated tests for a project.
 
 Enterprise architecture (EA) is designed to enable teams to test, deploy, and change systems without dependencies on other teams requiring less communication to get work done.
-EA is an agility enabler by empowering teams to choose tools and technologies, rapidly responding to new standards adoption, as well as providing light reference architectures as guardrails to product teams to assure compliance.
+EA is an agility enabler by empowering teams to choose tools and technologies, rapidly responding to new standards adoption, as well as providing light reference architectures, vetted by IT Security, as guardrails to product teams to assure compliance.
 
 Technology stacks are periodically reviewed as part of team retrospectives (Agile), EA and security to critically evaluate how well the current tools address requirements.
 New technologies are also proactively investigated and opportunities are provided to discuss and demonstrate new technologies for the standard technology stacks.
@@ -123,7 +132,9 @@ The security team is involved in the design phase for all projects and a securit
 Security tests are built into the automated testing process and can identify common security vulnerabilities.
 Theses security tests can be applied uniformly as a part of a continuous integration pipeline or build process.
 
-En conclusion, ...
+The device provisioning division (e.g. laptops) is experimenting with new methods of device provisioning, including desktop as a service, virtual desktops in the cloud, and automatic patching from multiple trusted sources (e.g. direcetly from MS Azure for Microsoft Windows OS).
+
+ESDC is experimenting with different solutions to solve its network bandwidth solutions. This includes evaluating alternate suppliers than SSC, promoting teleworking, and re-architecting its solutions to reduce latency experience for end-users (TODO: link to network modernization initiative).
 
 #### Measurement
 
@@ -132,11 +143,20 @@ En conclusion, ...
 - https://cloud.google.com/solutions/devops/devops-measurement-wip-limits
 - https://cloud.google.com/solutions/devops/devops-measurement-visual-management
 
+Business lines understand their accountability in sustaining the IT systems used to enable their business.
+This means part of their budget is set to assure technical debt is measured, exposed to the business line, and handled in a timely manner
+
+Operations have moved towards a Site Reliability Engineering (SRE) practice where operations is treated like a software practice.
+ESDC applications are managed, maintained, and monitored using software.
+SREs collect data throughout the IT value chain and aggregate it to different audiences.
+
 Teams have established Work in progress (WIP) limits based on team capacity and workload assigned, in order to prioritize and focus on completing a small number of high-priority tasks. Once the process is implemented accurately, this will result in faster lead times, higher quality, lower costs, and less waste.
 
-The IT branch is collecting data from key areas and appropriate metrics throughout the value chain and ensuring that the right data is being collected.The collected data is available, shared, and used to make decisions across ESDC (not just IT).
-Business lines performance metrics are used as benchmark and the accountability of IT's impact to ESDC's mandate is shared.
-Teams setup proactive notification that generate alert notifications when monitored values approach known failure thresholds.
+SRE provides proactive failure notification, using key indicators and thresholds in their monitoring software, and get alerted before an application fails to pro-actively resolve issues before they impact users.
 Following the diagnoses of incidents, indicators that could have predicted the incident are added to monitoring.
 
-En conclusion, ...
+Most of the Application Portfolio Management (APM) practice measures the health of applications using metrics directly from the SRE teams`s software, not using out dated documentations.
+
+Business lines performance metrics are used as benchmark and the accountability of IT's impact to ESDC's mandate is shared.
+
+IITB's device provisioning division (e.g. laptops) provides transparent metrics on their stocks availability, providing business lines (including CFOB) with valueable insights on their ability to fulfill ESDC employee needs.
