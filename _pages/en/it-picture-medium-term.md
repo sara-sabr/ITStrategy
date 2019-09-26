@@ -41,7 +41,8 @@ IT is used as a strategic asset to improve services to citizens. As such, IT is 
 The ESDC IT Strategy put in place a continuous improvement [transformation](https://cloud.google.com/solutions/devops/devops-culture-transform) based on the capabilities and recommendations from the DevOps Research and Assessment (DORA) and the annual [State of DevOps Report](https://cloud.google.com/devops/).
 The goals have been to continuously increase deployment frequency while reducing lead time for changes getting to production, time to restore service when an incident occurs and change fail rate of deployments.
 
-This continuous improvement transformation is not just for software, it's also for hardware lifecycle (e.g. laptops).
+The continuous improvement transformation is for all things that IT is responsible for.
+This includes applications (software delivery and support) and infrastructure (user devices, servers and the network).
 
 #### Cultural
 
@@ -126,10 +127,6 @@ The security team is involved in the design phase for all projects and a securit
 Security tests are built into the automated testing process and can identify common security vulnerabilities.
 Theses security tests can be applied uniformly as a part of a continuous integration pipeline or build process.
 
-The device provisioning division (e.g. laptops) is experimenting with new methods of device provisioning, including desktop as a service, virtual desktops in the cloud, and automatic patching from multiple trusted sources (e.g. directly from MS Azure for Microsoft Windows OS).
-
-ESDC is experimenting with different solutions to solve its network bandwidth solutions. This includes evaluating alternate suppliers than SSC, promoting teleworking, and re-architecting its solutions to reduce latency experience for end-users (TODO: link to network modernization initiative).
-
 #### Measurement
 
 - https://cloud.google.com/solutions/devops/devops-measurement-monitoring-systems
@@ -152,5 +149,3 @@ Most of the Application Portfolio Management (APM) practice measures the health 
 The APM maps applications to business lines services, providing them with key metrics on the overall health of such services.
 
 Business lines performance metrics are used as benchmark and the accountability of IT's impact to ESDC's mandate is shared.
-
-IITB's device provisioning division (e.g. laptops) provides transparent metrics on their stocks availability, providing business lines (including CFOB) with valuable insights on their ability to fulfill ESDC employee needs.
