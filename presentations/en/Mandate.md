@@ -8,7 +8,7 @@
 
 ### Image of the future
 
-The [Canadian Experience](https://github.com/sara-sabr/ITStrategy/blob/master/Strategies/HumanDevelopmentLifeCycle.md) is when Canadians are benefiting seamlessly of the federal government services through modern technologies.
+The [Canadian Experience](human-development-life-cycle.html) is when Canadians are benefiting seamlessly of the federal government services through modern technologies.
 
 --
 
