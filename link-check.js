@@ -40,7 +40,7 @@ files.forEach(function(file) {
           console.log(chalk.red("Dead: " + result.link));
         }
       } else if (result.status === "error") {
-        console.log(chalk.yellow("Link? " + result.link));
+        console.log(chalk.yellow("Warning: " + result.link));
       }
     });
   });
