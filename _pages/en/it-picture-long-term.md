@@ -12,10 +12,6 @@ permalink: /it-picture-long-term.html
 
 - [GC Wide](#gc-wide)
 - [IT within ESDC](#it-within-esdc)
-  - [Cultural](#cultural)
-  - [Process](#process)
-  - [Technical](#technical)
-  - [Measurement](#measurement)
 
 ### GC Wide
 
