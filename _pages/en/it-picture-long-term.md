@@ -29,4 +29,4 @@ BDM has delivered a consolidated benefits platform that is aligned with the wide
 The ESDC IT Strategy continuous improvement [transformation](https://cloud.google.com/solutions/devops/devops-culture-transform) has continued (See [Medium Term IT Picture - 2025](it-picture-medium-term.html)) to improve the capabilities and follow recommendations from the DevOps Research and Assessment (DORA) and the annual [State of DevOps Report](https://cloud.google.com/devops/).
 
 IT delivery is fast, reliable and secure for applications (software delivery, operations) and for infrastructure (user devices, services, networks).
-The goal has is still to continuously increase frequency of delivery while reducing the lead time, the time to restore service when an incident occurs and the rate of failure.
+The goal is still to continuously increase frequency of delivery while reducing the lead time, the time to restore service when an incident occurs and the rate of failure.
