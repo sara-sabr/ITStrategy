@@ -43,7 +43,7 @@ This means part of their budget is set to assure technical debt is exposed and h
 IT fully understands its impact on ESDC's mandate and has heavily invested in learning, agility and automation as means to respond faster to business change.
 
 The ESDC IT Strategy put in place a continuous improvement [transformation](https://cloud.google.com/solutions/devops/devops-culture-transform) based on the capabilities and recommendations from the DevOps Research and Assessment (DORA) and the annual [State of DevOps Report](https://cloud.google.com/devops/).
-The goal has been to continuously increase deployment frequency while reducing lead time for changes getting to production, time to restore service when an incident occurs and change fail rate of deployments.
+The goal has been to continuously increase frequency of delivery while reducing the lead time, the time to restore service when an incident occurs and the rate of failure.
 
 The continuous improvement transformation is for all things that IT is responsible for.
 This includes applications (software delivery, operations), infrastructure (user devices, services, networks).
@@ -56,7 +56,7 @@ This includes applications (software delivery, operations), infrastructure (user
 
 Employees feel that their work is meaningful and leverages their expertise.
 They have the tools and resources necessary to get their work done.
-These include technical resources, such as access to servers or environments necessary to develop and test, or resources needed to learn and develop new skills.
+These include technical resources, such as access to servers or environments necessary to develop and test, or resources needed to learn new skills.
 Employees spend more time leveraging their creativity to add business value and less time on repetitive tasks.
 
 Employees feel they can be honest with management without fear of reproach and be confident that things will improve.
@@ -93,7 +93,7 @@ Hackathons are held twice a year by IT.
 Teams work using Agile methodologies to iterate on and continually improve solutions and services.
 Clients are included from the start of projects and can submit regular feedback.
 There is a big focus on automation of testing, deployments, security and service requests, removing the need for manual approvals.
-Information about the flow of product development work across the whole value stream is readily available.
+Information about the flow of work across the whole value stream is readily available and teams have a good understanding of the flow of work from the business all the way through to citizens or ESDC employees.
 
 Governance is moving to lean project management where desired outcomes are stated instead of requirements, and hypothesis are used instead of business cases, favouring smaller projects as a means to reduce risks and avoid feature bloat.
 ESDC investment management enables this by allowing smaller, more iterative investments in IT.
@@ -116,9 +116,9 @@ Production services can be restored repeatedly and predictably even when catastr
 
 Source code, assets, configurations, or other documents part of a project's development and deployment are stored using a version control system that records changes to files.
 Changes triggers automated tests and a build process that creates packages (executable, container, VM, ..) that can be deployed to any environment (testing or production) in an automated way.
-Operations have moved towards automating deployments and upgrades as much as possible.
-The builds are numbered, repeatable and are being run on demand by developers giving them quick feedback on their small batches of work.
-Team members prioritize code review of coworkers' changes to ensure that they don't have to wait days, to get merged and deployed.
+Operations and infrastructure have moved towards automating as much as possible.
+Builds are numbered, repeatable and are being run on demand by teams giving them quick feedback on their small batches of work.
+Team members prioritize review of coworkers' changes to ensure that they don't have to wait days, to get merged and deployed.
 The build statuses of projects are visible to the department.
 Teams have access to adequate test data to run automated tests for projects.
 
