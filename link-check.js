@@ -39,6 +39,8 @@ files.forEach(function(file) {
           process.exitCode = 1
           console.log(chalk.red("Dead: " + result.link));
         }
+      } else if (result.status === "error") {
+        console.log(chalk.yellow("Link? " + result.link));
       }
     });
   });

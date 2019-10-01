@@ -1,5 +1,34 @@
 {
   "ignorePatterns": [
-    "http://esdc*"
+    {
+      "pattern": "http://esdc.prv"
+    },
+    {
+      "pattern": "http://edsc.prv"
+    },
+    {
+      "pattern": "http://www.esdc.prv"
+    },
+    {
+      "pattern": "http://iservice.prv"
+    },
+    {
+      "pattern": "http://dialogue"
+    },
+    {
+      "pattern": "https://gcconnex.gc.ca"
+    },
+    {
+      "pattern": "http://www.gcpedia.gc.ca"
+    },
+    {
+      "pattern": "http://localhost"
+    },
+    {
+      "pattern": "mailto"
+    },
+    {
+      "pattern": "#"
+    }
   ]
 }
