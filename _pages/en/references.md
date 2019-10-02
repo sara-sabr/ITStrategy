@@ -56,7 +56,7 @@ Some of that content may only be available on GC/ESDC network so if the link doe
 
 ### Podcasts
 
-- [Artificial Intelligence Podcast](https://lexfridman.com/ai/): Podcast hosted by Lex Fridman who researchs human-centered AI, deep learning, autonomous vehicles & robotics at MIT and beyond
+- [Artificial Intelligence Podcast](https://lexfridman.com/ai/): Podcast hosted by Lex Fridman who researches human-centered AI, deep learning, autonomous vehicles & robotics at MIT and beyond
 
 ### Articles
 
@@ -95,6 +95,6 @@ Many IT Revolution books have audio samples of the opening chapters available on
 
 ## Learning Resources
 
-- [Brilliant](https://brilliant.org/daily-problems/): Brilliant creates a culture of learning around inquiry, curiosity, and openness to failure. All of our courses are written with these principles of learning in mind. Has great courses from mathamatical foundations to quantum computing and neural networks. Has a mobile application as well.
+- [Brilliant](https://brilliant.org/daily-problems/): Brilliant creates a culture of learning around inquiry, curiosity, and openness to failure. All of our courses are written with these principles of learning in mind. Has great courses from mathematical foundations to quantum computing and neural networks. Has a mobile application as well.
 - [Khan Academy](https://khanacademy.org): Khan Academy is a non-profit educational organization that produces short lessons in the form of videos covering a wide variety of topics. [Also available in french](https://fr.khanacademy.org/).
-- [3Blue1Brown ](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw): Combination of math and entertainment. The goal is for explanations to be driven by animations and for difficult problems to be made simple with changes in perspective. Has videos on [blockchain](https://www.youtube.com/watch?v=bBC-nXj3Ng4&t=1s), and [neural networks](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi), for example.
+- [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw): Combination of math and entertainment. The goal is for explanations to be driven by animations and for difficult problems to be made simple with changes in perspective. Has videos on [blockchain](https://www.youtube.com/watch?v=bBC-nXj3Ng4&t=1s), and [neural networks](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi), for example.
