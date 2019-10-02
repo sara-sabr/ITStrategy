@@ -36,6 +36,12 @@ Some of that content may only be available on GC/ESDC network so if the link doe
 
 ## General
 
+### Podcasts
+
+- [Software Engineering Daily](https://softwareengineeringdaily.com/): Daily interviews about technical software topics
+
+### Articles
+
 - [DARPA](https://www.darpa.mil/about-us/about-darpa): Mission is "to make pivotal investments in breakthrough technologies for national security"
 - [Policy Horizons Canada](https://horizons.gc.ca/en/about-us/): Federal government organization that conducts foresight. Mandate is to help the GC develop future-oriented policy and programs that are more robust and resilient in the face of disruptive change on the horizon. (specific content available on [SharePoint](http://dialogue/grp/BU6810070/Shared%20Documents/Forms/AllItems.aspx?RootFolder=%2Fgrp%2FBU6810070%2FShared%20Documents%2FReference%20Materials&FolderCTID=0x012000750E51FFC3799647B0714B66227C003A&View={DA914447-F5A7-44BD-89E1-9ECB3B44185A}&InitialTabId=Ribbon%2EDocument&VisibilityContext=WSSTabPersistence)))
 
@@ -47,6 +53,12 @@ Some of that content may only be available on GC/ESDC network so if the link doe
 - [US Digital Services Playbook](https://playbook.cio.gov/)
 
 ## Artificial Intelligence
+
+### Podcasts
+
+- [Artificial Intelligence Podcast](https://lexfridman.com/ai/): Podcast hosted by Lex Fridman who researchs human-centered AI, deep learning, autonomous vehicles & robotics at MIT and beyond
+
+### Articles
 
 - [Medium Article - An overview of National AI Strategies](https://medium.com/politics-ai/an-overview-of-national-ai-strategies-2a70ec6edfd): summary of 26 countries' AI strategies. Canada amongst that list
 - [Medium Article - Open sourcing policy models - Australian data sharing agreement with LinkedIn](https://medium.com/fwd50/open-sourcing-policy-models-our-conversation-with-dr-audrey-lobo-pulo-e56afcdc59e9)
@@ -80,3 +92,9 @@ Some of that content may only be available on GC/ESDC network so if the link doe
 |[Team Topologies](https://teamtopologies.com)|Matthew Skelton & Manuel Pais|2019|[IT Revolution](https://itrevolution.com/devops-books/)|Focuses heavily on [Conway's Law](https://itrevolution.com/conways-law/) and suggests how organizations can better manage teams within organizations|
 
 Many IT Revolution books have audio samples of the opening chapters available on [SoundCloud](https://soundcloud.com/itrevolution).
+
+## Learning Resources
+
+- [Brilliant](https://brilliant.org/daily-problems/): Brilliant creates a culture of learning around inquiry, curiosity, and openness to failure. All of our courses are written with these principles of learning in mind. Has great courses from mathamatical foundations to quantum computing and neural networks. Has a mobile application as well.
+- [Khan Academy](https://khanacademy.org): Khan Academy is a non-profit educational organization that produces short lessons in the form of videos covering a wide variety of topics. [Also available in french](https://fr.khanacademy.org/).
+- [3Blue1Brown ](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw): Combination of math and entertainment. The goal is for explanations to be driven by animations and for difficult problems to be made simple with changes in perspective.
