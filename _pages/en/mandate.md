@@ -16,7 +16,7 @@ The [Canadian Experience](https://github.com/sara-sabr/ITStrategy/blob/master/wi
 
 ## Mission (team's reason for existence)
 
-Enable the strategic value of IT within ESDC to increase business flexibility.
+Enable the strategic value of IT within ESDC to increase business agility.
 
 ## Mandate (team's authority within IITB)
 
