@@ -12,7 +12,11 @@ permalink: /mandate.html
 
 ## Vision (image of the future)
 
-The [Canadian Experience](https://github.com/sara-sabr/ITStrategy/blob/master/wip-tec/en/human-development-life-cycle.md) is when Canadians are benefiting seamlessly of the federal government services through modern technologies.
+The [Canadian Experience](human-development-life-cycle.html) is when Canadians are benefiting seamlessly of the federal government services through modern technologies.
+
+This can be achieved through continuous improvement transformation toward a GC wide "Government-as-a-Service" based on the [GC Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html) and the [Directive on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601).
+
+_For more information, see our [Medium Term IT Picture 2025](it-picture-medium-term.html) and [Long Term IT Picture 2030](it-picture-long-term.html)._
 
 ## Mission (team's reason for existence)
 
