@@ -50,7 +50,7 @@ IT can no longer be seen as a company within another company (or an outside supp
 
 Current IT processes and methods take a long time to deliver or change applications, devices and support.
 Recovering from incidents is hard and errors resulting from changes are frequent.
-We must reduce these risks and continuouly improve in all areas related to IT.
+We must reduce these risks and continuously improve in all areas related to IT.
 
 That is **Digital Transformation**.
 
