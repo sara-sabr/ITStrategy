@@ -65,7 +65,7 @@ TODO: use the list of major projects as input to describe the business outcomes 
 
 #### Any platform, any device, 3rd party integration
 
-- External partners are strongly encouraged to innovate using ESDC APIs published on the GC Open [API Store](https://api.canada.ca/) and ESDC's datasets published on the [Open Government Portal](open.canada.ca)
+- External partners are strongly encouraged to innovate using ESDC APIs published on the GC Open [API Store](https://api.canada.ca/) and ESDC's datasets published on the [Open Government Portal](https://open.canada.ca/en)
 - They are able to view some of the source code that is being used to run their automated services, as ESDC started publishing their source code under open source licences and working in the open
 - ESDC provides the ability, for some services, for citizens to be able to see who, when, and why, organizations viewed their information
 - Transparency, accountability, and monitoring is built into all automated processes.
