@@ -21,8 +21,8 @@ Enable the strategic value of IT within ESDC to increase business agility.
 ## Mandate (team's authority within IITB)
 
 - Diagnose key organizational problems, waste, lead times and governance structures that inhibit the desired changes in behaviours
-- Recommend specific course of actions to ESDC governance bodies to adopt new methods of managing IT risks
-- Measure progress of adoption of strategies in IITB teams and governance bodies as a performance indicator of the IT Strategy team
+- Recommend specific course of actions to governance bodies to adopt new methods of managing IT risks
+- Measure progress of adoption of strategies in IT teams and governance bodies as a performance indicator of the IT Strategy team
 - Challenge current thinking and approaches
 
 ## Team's Guiding Principles
@@ -43,13 +43,14 @@ We also experiment with modern ways of working in order to demonstrate their val
 
 ## Team understanding of the "digital transformation"
 
-IT is now used to deliver services to Canadians. If IT fails, business fails and vice versa.
+IT is now used to deliver services to Canadians.
+If IT fails, business fails and vice versa.
 The use of technology is no longer "an IT problem" as it has real repercussions to citizens.
-IT can no longer be seen as a company within another company (or an outside supplier), it has shared accountability with the organization's mandate.
+IT can no longer be seen as a company within another company (or an outside supplier), it has shared accountability with the organization's mandate and is a strategic asset.
 
-Current IT processes and methods are risky and costly, which translates into lengthy governance and compliance checks.
-We must change how we do IT in order to reduce its risks, improve cyber security, and increase our ability to be flexible, so that IT can become a strategic asset for ESDC, and for citizen experience.
-Service lines must therefore also accept the risks and costs of doing IT, because IT is how ESDC successfully delivers its mandate.
+Current IT processes and methods take a long time to deliver or change applications, devices and support.
+Recovering from incidents is hard and errors resulting from changes are frequent.
+We must reduce these risks and continuouly improve in all areas related to IT.
 
 That is **Digital Transformation**.
 
