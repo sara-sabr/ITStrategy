@@ -7,42 +7,38 @@
     </button>
 
     <div class="collapse navbar-collapse" id="Menu1">
+      <!-- Menu -->
       <ul class="navbar-nav mr-auto">
-        <!-- Menu -->
-        {% assign pages=site.pages | where:"ref", "documents" | sort: 'lang' %}
-        {% for my_page in pages %}
+        {%- assign pages=site.pages | where:"ref", "documents" | sort: 'lang' -%}
+        {%- for my_page in pages -%}
           {% if my_page.lang == page.lang %}
-          <li class="nav-item"><a class="nav-link" lang="{{ my_page.lang }}" hreflang="{{ my_page.lang }}"
-              href="{{ my_page.url | prepend: site.baseurl }}">{{ site.docsTitle[my_page.lang] }}</a></li>
-          {% endif %}
-        {% endfor %}
+            <li class="nav-item"><a class="nav-link" lang="{{ my_page.lang }}" hreflang="{{ my_page.lang }}" href="{{ my_page.url | prepend: site.baseurl }}">{{ site.docsTitle[my_page.lang] }}</a></li>
+          {%- endif -%}
+        {%- endfor -%}
 
-                {% assign pages=site.pages | where:"ref", "blog-posts" | sort: 'lang' %}
-                {% for my_page in pages %}
-                {% if my_page.lang == page.lang %}
-                <li class="nav-item"><a class="nav-link" lang="{{ my_page.lang }}" hreflang="{{ my_page.lang }}"
-                    href="{{ my_page.url | prepend: site.baseurl }}">{{ site.blogPosts[my_page.lang] }}</a></li>
-                {% endif %}
-                {% endfor %}
+        {%- assign pages=site.pages | where:"ref", "blog-posts" | sort: 'lang' -%}
+        {%- for my_page in pages -%}
+          {% if my_page.lang == page.lang %}
+            <li class="nav-item"><a class="nav-link" lang="{{ my_page.lang }}" hreflang="{{ my_page.lang }}" href="{{ my_page.url | prepend: site.baseurl }}">{{ site.blogPosts[my_page.lang] }}</a></li>
+          {%- endif -%}
+        {%- endfor -%}
       </ul>
-
-      
 
       <!-- Language picker -->
       <ul class="navbar-nav float-right">      
-        {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
-        {% for my_post in posts %}
+        {%- assign posts=site.posts | where:"ref", page.ref | sort: 'lang' -%}
+        {%- for my_post in posts -%}
           {% if my_post.lang != page.lang %}
             <li class="nav-item"><a class="nav-link" lang="{{ my_post.lang }}" hreflang="{{ my_post.lang }}" href="{{ my_post.url | prepend: site.baseurl }}">{{ site.language[my_post.lang] }}</a></li>
-          {% endif %}
-        {% endfor %}  
+          {%- endif -%}
+        {%- endfor -%}
 
-        {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
-        {% for my_page in pages %}
+        {%- assign pages=site.pages | where:"ref", page.ref | sort: 'lang' -%}
+        {%- for my_page in pages -%}
           {% if my_page.lang != page.lang %}
             <li class="nav-item"><a class="nav-link" lang="{{ my_page.lang }}" hreflang="{{ my_page.lang }}" href="{{ my_page.url | prepend: site.baseurl }}">{{ site.language[my_page.lang] }}</a></li>
-          {% endif %}
-        {% endfor %}
+          {%- endif -%}
+        {%- endfor -%}
       </ul>
     </div>
   </nav>
