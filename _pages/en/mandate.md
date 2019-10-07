@@ -14,9 +14,7 @@ permalink: /mandate.html
 
 The [Canadian Experience](human-development-life-cycle.html) is when Canadians are benefiting seamlessly of the federal government services through modern technologies.
 
-This can be achieved through continuous improvement transformation toward a GC wide "Government-as-a-Service" based on the [GC Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html) and the [Directive on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601).
-
-_For more information, see our [Medium Term IT Picture 2025](it-picture-medium-term.html) and [Long Term IT Picture 2030](it-picture-long-term.html)._
+Continuous improvement transformation and GC wide "Government as a service" based on [GC Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html) and the [Directive on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601). See [Medium Term IT Picture - 2025](it-picture-medium-term.html) and [Long Term IT Picture - 2030](it-picture-long-term.html).
 
 ## Mission (team's reason for existence)
 
