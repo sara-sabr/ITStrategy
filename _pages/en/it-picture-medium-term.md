@@ -26,14 +26,14 @@ The foundational pieces for "Government as a service" vision are available and i
 - Build a platform for enterprise interoperability (API Store and Tell us once);
 - One GC vision and Omni Channel Digital Strategy (Any device, any platform, any partner).
 
-[The GC Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html), [the Policy](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603) and [Directive on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601), with the [Mandatory Procedures for Enterprise Architecture Assessment](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602) have shifted GC departments and agencies. They are increasingly using open standards (data formats and protocols) and open source software.
+The [GC Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html), the [Policy](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603) and [Directive on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601), with the [Mandatory Procedures for Enterprise Architecture Assessment](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602) have shifted GC departments and agencies. They are increasingly using open standards (data formats and protocols) and open source software.
 Being agile and focusing on the needs of the user is the new normal and there's growing collaboration via open source software communities within and outside the GC.
 Organizations have migrated massively to cloud environments, choosing the most cost/time effective and security/privacy compliant deployment options , and are sharing/reusing software and code.
 GC communities of practices such as Open Source Software, Cloud and Agile host regular events for public servants.
 
-ESDC (especially IITB though it has influenced other branches as well) has seen a major shift towards Agile project management and automation.
+ESDC (especially IITB though it has influenced other branches as well) has seen a major shift towards Agile project management and Automation.
 ESDC is a leader in OneGC Council and Clusters.
-Its own digital transformation initiative is going well with BDM and the Service transformation progressing according to plan.
+Its own digital transformation initiative is going well with Benefits Delivery Modernization (BDM) and the Service Transformation progressing according to plan.
 
 ### IT within ESDC
 
@@ -46,7 +46,7 @@ The ESDC IT Strategy have put in place Continuous Improvement [Transformation](h
 The goal has been to continuously increase frequency of delivery while reducing lead time, time to restore service when an incident occurs and rate of failure.
 
 The continuous improvement transformation is for all things that IT is responsible for.
-This includes applications (software delivery, operations), infrastructure (user devices, services, networks).
+This includes applications (software delivery, operations) and infrastructure (user devices, services, networks).
 
 #### Cultural
 
@@ -55,7 +55,7 @@ This includes applications (software delivery, operations), infrastructure (user
 - [https://cloud.google.com/solutions/devops/devops-culture-westrum-organizational-culture](https://cloud.google.com/solutions/devops/devops-culture-westrum-organizational-culture)
 
 Employees feel that their work is meaningful and leverages their expertise.
-They have the tools and resources necessary to get their work done.
+They have the tools and resources necessary to get work done.
 These include technical resources, such as access to servers or environments necessary to develop and test, or learning resources to acquire new skills.
 Employees spend more time leveraging their creativity to add business value and less time on repetitive tasks.
 They also have access to a modern workplace that encourages collaboration and fosters a culture of flexibility, mobility and well-being.
@@ -64,16 +64,16 @@ Employees feel they can be honest with management without fear of reproach and b
 Scope of changes are purposefully small, de-risking failures that enables learning as opposed to overanalyzing risks of non-compliance.
 The organization learns from failure, holds blameless postmortems and continuously asks questions such as "Why did it fail?".
 
-Employees spend 20% of their time at work to focus on automation of current processes, prototyping related technologies or keeping up to date with trends and technologies, related to their work or the broader GC IT direction.
+Employees spend 20% of their time at work focusing on automation of current processes, prototyping related technologies or keeping up to date with trends and technologies, related to their work or the broader GC IT direction.
 Those with great innovation-related skills spend even more time to these tasks.
 Said time also includes time for informal, self-directed, on-the-job learning and completing courses or attending conferences.
 The budget for learning opportunities has increased every year for the past 5 years.
 
-Employees attend presentations and events, which are held at least once a month by IT and provide opportunities and spaces for employees to learn and share their knowledge, such as a project they are working on or something they are investigating.
+Employees attend presentations and events, which are held at least once a month by IT and provide opportunities and spaces for employees to learn and share their knowledge, such as a project they are working on or something they are researching.
 People who attend conferences or take courses share their learning via presentations or trip reports.
 IT employees are encouraged to complete online courses and form study groups as part of normal work activity.
 
-Cooperation between IT and business has increased and there is a conscious effort to break down silos in IT and the wider organization.
+Cooperation between IT and business has increased and there is a conscious effort to break down silos.
 Responsibility for building, deploying and maintaining systems, is shared by cross-functional teams that include representatives from each functional area of the software delivery process (business analysts, developers, quality engineers, operations, security, ...).
 
 Overall employees working in IT at ESDC are happier, more productive and more up to date on technology, making them better able to support the evolving needs of the department so that it can deliver more efficient services to Canadians.
@@ -87,10 +87,10 @@ Overall employees working in IT at ESDC are happier, more productive and more up
 - [https://cloud.google.com/solutions/devops/devops-process-working-in-small-batches](https://cloud.google.com/solutions/devops/devops-process-working-in-small-batches)
 
 Processes empower cross-functional teams and allow them to work on new ideas in pursuit of business goals that solve important problems.
-Teams are provided with up-to-date information and context letting them make informed decisions about the right work to do.
-Information is treated as a corporate asset and managed through an interoperable records management ecosystem.
+Information is treated as a corporate asset.
 It is open by default, easily searchable, secure and not duplicated.
-Organizational outcomes are measured and provide information critical to making the best decisions.
+Teams are provided with up-to-date information and context enabling them to make informed decisions about the right work to do.
+Organizational outcomes are measured and also provide information critical to making the best decisions.
 Hackathons are held at least twice a year by IT and are open to internal and relevant external audiences (e.g. other governments, academia).
 
 Teams work using Agile methodologies to iterate on and continually improve solutions and services.
@@ -146,11 +146,11 @@ Also, the Privacy by design approach is taken into account throughout the whole 
 
 IT teams use software that collects data throughout the value chain and aggregates it to serve different audiences.
 
-Teams have established Work in progress (WIP) limits based on team capacity and assigned workload, in order to prioritize and focus on completing a small number of high-priority tasks.
+Teams have established Work In Progress (WIP) limits based on team capacity and assigned workload, in order to prioritize and focus on completing a small number of high-priority tasks.
 
 IT teams provide proactive failure notifications, using key indicators and thresholds in monitoring software.
 They get alerted before an application fails and proactively resolve issues before they impact users.
 Following the diagnosis of incidents, indicators that could have predicted the incident are added to monitoring.
 
-Applications, mapped to business lines services, provide metrics on the overall health of the department's services to Canadians.
+Applications, mapped to business line services, provide metrics on the overall health of the department's services to Canadians.
 Business line performance metrics are used as benchmarks and the accountability of IT's impact to ESDC's mandate is shared.
