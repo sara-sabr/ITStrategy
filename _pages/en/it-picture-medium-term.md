@@ -120,7 +120,7 @@ Chaos Engineering is being considered for use to build confidence in systems' ca
 
 Source code, assets, configurations, or other documents part of a project's development and deployment are stored in a version control system that records changes to files.
 Changes trigger automated tests and a build process that creates packages (executable, container, virtual machine, ...) that can be deployed to any environment (testing or production) in an automated way.
-Operations and infrastructure have moved towards automating as much as possible.
+Operations and infrastructure have moved towards automation as much as possible, being able to shift workloads and runtime from one service provider to another as it needs to.
 Builds are numbered, repeatable and being run on demand by teams giving them quick feedback on their small batches of work.
 Team members prioritize review of coworkers' changes to ensure that they don't have to wait days to get merged and deployed.
 The build status of projects is visible to the department.
