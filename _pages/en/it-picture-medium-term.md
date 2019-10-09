@@ -26,7 +26,8 @@ The foundational pieces for "Government as a service" vision are available and i
 - Build a platform for enterprise interoperability (API Store and Tell us once);
 - One GC vision and Omni Channel Digital Strategy (Any device, any platform, any partner).
 
-The [GC Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html), the [Policy](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603) and [Directive on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601), with the [Mandatory Procedures for Enterprise Architecture Assessment](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602) have shifted GC departments and agencies. They are increasingly using open standards (data formats and protocols) and open source software.
+The [GC Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html), the [Policy](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603) and [Directive on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601), with the [Mandatory Procedures for Enterprise Architecture Assessment](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602) have shifted GC departments and agencies.
+They are increasingly using open standards (data formats and protocols) and open source software.
 Being agile and focusing on the needs of the user is the new normal and there's growing collaboration via open source software communities within and outside the GC.
 Organizations have migrated massively to cloud environments, choosing the most cost/time effective and security/privacy compliant deployment options , and are sharing/reusing software and code.
 GC communities of practices such as Open Source Software, Cloud and Agile host regular events for public servants.
