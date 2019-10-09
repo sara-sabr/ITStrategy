@@ -14,15 +14,17 @@ permalink: /mandate.html
 
 The [Canadian Experience](human-development-life-cycle.html) is when Canadians are benefiting seamlessly of the federal government services through modern technologies.
 
+Continuous improvement transformation and GC wide "Government as a service" based on [GC Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html) and the [Directive on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601). See [Medium Term IT Picture - 2025](it-picture-medium-term.html) and [Long Term IT Picture - 2030](it-picture-long-term.html).
+
 ## Mission (team's reason for existence)
 
-Enable the strategic value of IT within ESDC by reducing its risks to accelerate business flexibility.
+Enable the strategic value of IT within ESDC to increase business agility.
 
 ## Mandate (team's authority within IITB)
 
-- Diagnose key ESDC organisational problems, waste, lead times and governance structures that inhibits the desired changes in behaviours
-- Recommend specific course of actions to any ESDC governance body to adopt new methods of managing IT risks
-- Measure progress of adoption of strategies implementation in IITB teams and governance bodies as a performance indicator for the IT Strategy team
+- Diagnose key organizational problems, waste, lead times and governance structures that inhibit the desired changes in behaviours
+- Recommend specific course of actions to governance bodies to adopt new methods of managing IT risks
+- Measure progress of adoption of strategies in IT teams and governance bodies as a performance indicator of the IT Strategy team
 - Challenge current thinking and approaches
 
 ## Team's Guiding Principles
@@ -30,29 +32,30 @@ Enable the strategic value of IT within ESDC by reducing its risks to accelerate
 ### Work collaboratively
 
 Collaborate with anyone and everyone who can _add value_.
-This includes, but is not limited to, all Canadians, all levels of government, all departments, all private sector organizations, and all governments.
+This includes, but is not limited to, all Canadians, levels of government, departments, private sector organizations, and governments.
 
 ### Continuous learning
 
-Learning must be a core part of daily activities to ensure up to date, modern, and well researched direction and strategy is provided to guide our actions.
+Learning is a core part of daily activities to ensure up to date, modern, and well-researched direction.
 
 ### Lead by Example
 
-By using the approaches and technologies we champion, we will be able to better respond to, and anticipate, the challenges that will be faced.
-We will also be experimenting with modern ways of working in order to demonstrate their value and effectiveness.
+By using the approaches and technologies we champion, we are able to better respond and anticipate potential challenges.
+We also experiment with modern ways of working in order to demonstrate their value and effectiveness.
 
-## Team's understanding of the "digital transformation"
+## Team understanding of the "digital transformation"
 
-IT is now used to delivery services to Canadians. If IT fails, business fails and vice versa.
+IT is now used to deliver services to Canadians.
+If IT fails, business fails and vice versa.
 The use of technology is no longer "an IT problem" as it has real repercussions to citizens.
-IT can no longer be seen as a company within another company (or an outside supplier), it has shared accountability with the organization's mandate.
+IT can no longer be seen as a company within another company (or an outside supplier), it has shared accountability with the organization's mandate and is a strategic asset.
 
-Current IT processes and methods are risky and costly which translates into lengthy governance and compliance checks.
-We must change how we do IT in order to reduce its risks, improve cyber security, and increase our ability to be flexible, so that IT can become a strategic asset for ESDC, and for citizen experience.
-Service lines must therefore also accept the risks and costs of doing IT, because IT is how ESDC successfully delivers its mandate.
+Current IT processes and methods take a long time to deliver or change applications, devices and support.
+Recovering from incidents is hard and errors resulting from changes are frequent.
+We must reduce these risks and continuously improve in all areas related to IT.
 
-That is Digital Transformation.
+That is **Digital Transformation**.
 
-And it's an ongoing venture due to the rapid pace of change in the IT world.
+It's an ongoing venture due to the rapid pace of change in the IT world.
 It has no end date.
 It never ends.
