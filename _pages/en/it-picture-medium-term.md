@@ -68,8 +68,8 @@ Employees feel they can be honest with management without fear of reproach and b
 Scope of changes are purposefully small, de-risking failures that enables learning as opposed to overanalyzing risks of non-compliance.
 The organization learns from failure, holds blameless postmortems and continuously asks questions such as "Why did it fail?".
 
-Employees spend 20% of their time at work focusing on automation of current processes, prototyping related technologies or keeping up to date with trends and technologies, related to their work or the broader GC IT direction.
-Those with great innovation-related skills spend even more time to these tasks.
+Teams spend 20% of their time at work focusing on automation of current processes, prototyping related technologies or keeping up to date with trends and technologies, related to their work or the broader GC IT direction.
+Employees with great innovation-related skills are encouraged to spend more than 20% of their time to these tasks.
 Said time also includes time for informal, self-directed, on-the-job learning and completing courses or attending conferences.
 The budget for learning opportunities has increased every year for the past 5 years.
 
