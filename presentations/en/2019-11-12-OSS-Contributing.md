@@ -1,5 +1,9 @@
 # Contributing to an Open Source Project
 
+Course material for Digital Academy, Fall 2019
+
+Guillaume Charest, ESDC
+
 <!--markdownlint-disable MD035-->
 
 --

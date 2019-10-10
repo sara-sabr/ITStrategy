@@ -1,5 +1,9 @@
 # Publishing your project as Open Source
 
+Course material for Digital Academy, Fall 2019
+
+Guillaume Charest, ESDC
+
 <!--markdownlint-disable MD035-->
 
 ---
