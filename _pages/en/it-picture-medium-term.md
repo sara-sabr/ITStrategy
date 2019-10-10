@@ -54,6 +54,9 @@ This includes applications (software delivery, operations) and infrastructure (u
 - [https://cloud.google.com/solutions/devops/devops-culture-learning-culture](https://cloud.google.com/solutions/devops/devops-culture-learning-culture)
 - [https://cloud.google.com/solutions/devops/devops-culture-job-satisfaction](https://cloud.google.com/solutions/devops/devops-culture-job-satisfaction)
 - [https://cloud.google.com/solutions/devops/devops-culture-westrum-organizational-culture](https://cloud.google.com/solutions/devops/devops-culture-westrum-organizational-culture)
+- [The DevOps Handbook](https://itrevolution.com/book/the-devops-handbook/)
+- [A typology of organisational cultures](https://qualitysafety.bmj.com/content/qhc/13/suppl_2/ii22.full.pdf)
+- [Team Topologies](https://itrevolution.com/book/team-topologies/)
 
 Employees feel that their work is meaningful and leverages their expertise.
 They have the tools and resources necessary to get work done.
@@ -86,10 +89,10 @@ Overall employees working in IT at ESDC are happier, more productive and more up
 - [https://cloud.google.com/solutions/devops/devops-process-customer-feedback](https://cloud.google.com/solutions/devops/devops-process-customer-feedback)
 - [https://cloud.google.com/solutions/devops/devops-process-work-visibility-in-value-stream](https://cloud.google.com/solutions/devops/devops-process-work-visibility-in-value-stream)
 - [https://cloud.google.com/solutions/devops/devops-process-working-in-small-batches](https://cloud.google.com/solutions/devops/devops-process-working-in-small-batches)
+- [The DevOps Handbook](https://itrevolution.com/book/the-devops-handbook/)
 
 Processes empower cross-functional teams and allow them to work on new ideas in pursuit of business goals that solve important problems.
-Information is treated as a corporate asset.
-It is open by default, easily searchable, secure and not duplicated.
+Information is treated as a corporate asset -- it is open by default, easily searchable, secure and not duplicated.
 Teams are provided with up-to-date information and context enabling them to make informed decisions about the right work to do.
 Organizational outcomes are measured and also provide information critical to making the best decisions.
 Hackathons are held at least twice a year by IT and are open to internal and relevant external audiences (e.g. other governments, academia).
@@ -114,6 +117,7 @@ Monitoring towards achievement of desired outcomes is used as project metrics as
 - [https://cloud.google.com/solutions/devops/devops-tech-teams-empowered-to-choose-tools](https://cloud.google.com/solutions/devops/devops-tech-teams-empowered-to-choose-tools)
 - [https://cloud.google.com/solutions/devops/devops-tech-test-data-management](https://cloud.google.com/solutions/devops/devops-tech-test-data-management)
 - [https://cloud.google.com/solutions/devops/devops-tech-shifting-left-on-security](https://cloud.google.com/solutions/devops/devops-tech-shifting-left-on-security)
+- [The DevOps Handbook](https://itrevolution.com/book/the-devops-handbook/)
 
 Teams are able to provision an environment or device in an automated fashion, and know that any new environment or device generated from the same configuration is identical.
 Production services can be restored repeatedly and predictably even when catastrophic events occur.
@@ -138,12 +142,22 @@ The security team is involved in the design phase of all projects and a security
 Security tests are built into the automated testing process and identify common security vulnerabilities.
 Also, the Privacy by design approach is taken into account throughout the whole engineering process.
 
+Teams must experience the pain of own processes and procedures.
+By implementing a [service culture](service-culture.html) each team is responsible for providing digital services to their clients (portals and automated processes rather than generic mailboxes), meaning they must interact with the processes and procedures of the [stream aligned teams](https://itrevolution.com/book/project-to-product/).
+Security must code and use public or government wide version control solutions.
+Enterprise Architecture must code and use public or government wide version control solutions.
+Testers must code and use public or government wide version control solutions.
+Operations must code and use public or government wide version control solutions.
+
 #### Measurement
 
 - [https://cloud.google.com/solutions/devops/devops-measurement-monitoring-systems](https://cloud.google.com/solutions/devops/devops-measurement-monitoring-systems)
 - [https://cloud.google.com/solutions/devops/devops-measurement-proactive-failure-notification](https://cloud.google.com/solutions/devops/devops-measurement-proactive-failure-notification)
 - [https://cloud.google.com/solutions/devops/devops-measurement-wip-limits](https://cloud.google.com/solutions/devops/devops-measurement-wip-limits)
 - [https://cloud.google.com/solutions/devops/devops-measurement-visual-management](https://cloud.google.com/solutions/devops/devops-measurement-visual-management)
+- [Project to Product](https://itrevolution.com/book/project-to-product/)
+- [The DevOps Handbook](https://itrevolution.com/book/the-devops-handbook/)
+- [War And Peace And IT](https://itrevolution.com/book/war-and-peace-and-it/)
 
 IT teams use software that collects data throughout the value chain and aggregates it to serve different audiences.
 
