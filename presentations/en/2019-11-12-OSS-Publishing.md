@@ -4,7 +4,7 @@ Course material for Digital Academy, Fall 2019
 
 Guillaume Charest, ESDC
 
-<!--markdownlint-disable MD035-->
+<!--markdownlint-disable MD035 MD029-->
 
 ---
 
@@ -30,6 +30,8 @@ Directive on Service and Digital - Appendix A: Mandatory Procedures for Enterpri
 
 --
 
+But, also:
+
 * Encourages [best coding practices](https://mojdigital.blog.gov.uk/2017/02/21/why-we-code-in-the-open/)
 * It aligns with our goal of being an open government by releasing [data and information of value to citizens](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=28108#sec5.1).
 * Find people with similar problems that could be interested in helping you ([ORE](https://github.com/canada-ca/ore-ero))
@@ -44,23 +46,33 @@ Note:
 
 ---
 
-## Hands-on
+## First task
 
-Let's start by creating a repository and uploading your project.
+(15 minutes)
+
+--
+
+Let's start by uploading your project to your GitHub profile
 
 Note:
 
-(On screen step-by-step demo using first project)
+(Reuse the small website project)
 
 --
 
-Choose a framework
-
-Jekyll or Hugo
+1. Follow the [GitHub instructions](https://help.github.com/en/articles/adding-an-existing-project-to-github-using-the-command-line)
 
 --
 
-Which did you pick and why?
+2. Choose a licence
+
+(You can reuse [TL;DR Legal](https://tldrlegal.com) to help you pick)
+
+--
+
+Which licence did you pick and why?
+
+How did you display the licence notice?
 
 ---
 
@@ -70,7 +82,7 @@ Technically, the work we do in the office is Crown Copyright, it belongs to Her 
 
 --
 
-## Licence
+### Licence
 
 The licence you choose has to be applied by the owner's duly authorized agent.
 
@@ -88,17 +100,17 @@ Inbound vs Outbound
 
 --
 
-![software architecture](assets/soft-arch.png)
+![software architecture](assets/images/soft-arch.png)
 
 --
 
-![due diligence](assets/due-diligence.png)
+![due diligence](assets/images/due-diligence.png)
 
 Heather Meeker, _Open (Source) for Business: A Practical Guide to Open Source Software Licensing_, 54.
 
 --
 
-## Choice
+### Choice
 
 Depends on:
 
@@ -107,7 +119,7 @@ Depends on:
 
 --
 
-## Recommended in the GC
+### Recommended in the GC
 
 * MIT License (Expat)
 * Apache License 2.0 (Apache-2.0)
@@ -116,6 +128,35 @@ Depends on:
 * GNU Affero General Public License v3 (AGPL-3.0)
 
 Source: [Guide: Select Open Source Software Licence](https://github.com/canada-ca/open-source-logiciel-libre/blob/master/en/guides/publishing-open-source-code.md#select-open-source-software-licence)
+
+---
+
+## Second task
+
+(10 minutes)
+
+--
+
+Scenario 1:
+
+You create a project with OSS components which will have the following licences.
+
+* MIT
+* Apache-2.0
+
+Under which licence can you release your project?
+
+--
+
+Scenario 2:
+
+You create a project with OSS components which will have the following licences.
+
+* MIT
+* GPL-3
+* AGPL-3
+
+Under which licence can you release your project?
 
 ---
 
