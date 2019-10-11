@@ -142,7 +142,7 @@ The security team is involved in the design phase of all projects and a security
 Security tests are built into the automated testing process and identify common security vulnerabilities.
 Also, the Privacy by design approach is taken into account throughout the whole engineering process.
 
-Teams must experience the pain of own processes and procedures.
+Teams must experience their own processes and procedures to properly appreciate their potential shortcomings.
 By implementing a [service culture](service-culture.html) each team is responsible for providing digital services to their clients (portals and automated processes rather than generic mailboxes), meaning they must interact with the processes and procedures of the [stream aligned teams](https://itrevolution.com/book/project-to-product/).
 Security must code and use public or government wide version control solutions.
 Enterprise Architecture must code and use public or government wide version control solutions.
