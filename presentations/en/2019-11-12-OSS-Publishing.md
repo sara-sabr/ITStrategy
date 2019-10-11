@@ -82,6 +82,16 @@ Technically, the work we do in the office is Crown Copyright, it belongs to Her 
 
 --
 
+### Notice
+
+Include a Copyright notice:
+
+> Copyright (c) Her Majesty the Queen in Right of Canada, as represented by the Minister of (legal departmental name), (year of publication).
+
+Replace the (legal departmental name) and (year of publication) with the appropriate information.
+
+--
+
 ### Licence
 
 The licence you choose has to be applied by the owner's duly authorized agent.
@@ -144,7 +154,7 @@ You create a project with OSS components which will have the following licences.
 * MIT
 * Apache-2.0
 
-Under which licence can you release your project?
+Under which licence can you release your project and why?
 
 --
 
@@ -156,7 +166,7 @@ You create a project with OSS components which will have the following licences.
 * GPL-3
 * AGPL-3
 
-Under which licence can you release your project?
+Under which licence can you release your project and why?
 
 ---
 
@@ -211,17 +221,17 @@ Note:
 
 It does mean opening up your workflow to include review of external issues and pull requests
 
----
+--
 
-## Community management
+### Community management
 
 Working in the open is subject to receiving feedback and contributions
 
 You should consider managing expectations and the community that may coalesce round your project
 
----
+--
 
-## Files to include
+### Files to include
 
 * LICENCE
 * README.md
@@ -231,12 +241,12 @@ You should consider managing expectations and the community that may coalesce ro
 
 --
 
-Let's have a look at your projects
-
----
-
-## Templates
+### Templates
 
 [Canada-ca Templates](https://github.com/canada-ca/template-gabarit)
+
+--
+
+Let's have a look at your projects
 
 <!--markdownlint-enable MD035--->
