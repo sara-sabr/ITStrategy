@@ -6,11 +6,11 @@ Guillaume Charest, ESDC
 
 <!--markdownlint-disable MD035-->
 
---
+---
 
 ## Why
 
----
+--
 
 Instead of maintaining your own version, you can contribute to the project
 
@@ -21,7 +21,7 @@ Note:
 * Always new priorities
 * Same as using OSS: leverage the mass of the community
 
----
+--
 
 Contributions that make it to the project get maintained by the community
 
@@ -31,9 +31,11 @@ Note:
   * Others: new features
   * You: maintained updates
 
---
+---
 
 ## What to contribute
+
+--
 
 * Source code
 * Documentation
@@ -46,7 +48,7 @@ Note:
 
 Events help build the community provide opportunity to learn
 
---
+---
 
 ## How to contribute
 
@@ -58,29 +60,30 @@ Events help build the community provide opportunity to learn
 1. Look at the documentation and the issues
 1. Seek approvals (if necessary)
 
----
+--
 
-## Project Repository
+### Project Repository
 
 * GitHub
 * GitLab
 * BitBucket
 
----
+--
 
-## Licence
+### Licence
 
 If there's no open source licence...
 
 Note:
 
+It's not an open source project
 [https://github.com/canada-ca/blog-dto](https://github.com/canada-ca/blog-dto)
 
----
+--
 
-## Process and Policies
+### Process and Policies
 
-* Templates
+* [Templates](https://help.github.com/en/articles/creating-issue-templates-for-your-repository)
 * Contributor Licence Agreement (CLA)
   * Complex, Legal Contract
   * Might even request transfer of IP to project owners
@@ -88,35 +91,54 @@ Note:
   * Lightweight
   * "I have the right to submit this"
 
----
+--
 
-## Approvals
+### Approvals
 
-You're spending work time, should be part of your workplan
+1. Copyright still belongs to the Crown
+2. You're spending work time, it should be part of your workplan
 
 Note:
 
-Not all departments will be ready.
-May require additional guidance and support.
-
---
-
-## Let's try a contribution
-
-[https://github.com/cds-snc/etait-ici](https://github.com/cds-snc/etait-ici)
+* Not all departments will be ready
+* May require additional guidance, framework and support
 
 ---
 
-## Another contribution
+## First Task
+
+(5 minutes)
+
+--
+
+### Let's try a contribution
+
+Add your name to the project (link to be updated)
+
+---
+
+## Second Task
+
+(10 minutes)
+
+--
+
+### Another contribution
 
 1. Find one of the team's project on GitHub
 2. Create:
    1. 1x Issue
    2. 1x Pull Request
 
+---
+
+## Third Task
+
+(20 minutes)
+
 --
 
-## Manage the contributions
+### Manage the contributions
 
 1. Review the pull requests on your project
 2. Ask for a modification to the pull request
