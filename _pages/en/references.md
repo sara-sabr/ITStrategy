@@ -77,7 +77,7 @@ Some of that content may only be available on GC/ESDC network so if the link doe
 
 ### Innovation
 
-- [Borrowing Brilliance: The Six Steps to Business Innovation by Building on the Ideas of Others](https://www.youtube.com/watch?v=0VmYzCXD8I8&t=2s): Talk summarizing the book [Borrowing Brilliance](https://www.amazon.com/Borrowing-Brilliance-Business-Innovation-Building/dp/1592405800)
+- [Borrowing Brilliance: The Six Steps to Business Innovation by Building on the Ideas of Others](https://www.youtube.com/watch?v=0VmYzCXD8I8&t=2s): Talk summarizing the book Borrowing Brilliance by David Murray
 
 ### Books
 
