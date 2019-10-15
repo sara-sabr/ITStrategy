@@ -16,14 +16,14 @@
 
 * Windows 10 Pro with admin rights
   * Access to the [Market](https://www.microsoft.com/en-ca/store/apps/windows?icid=CNavAppsWindowsApps)
-  * Right to install apps
+  * Rights to install apps
 * Docker CE for Windows
   * https://hub.docker.com/editions/community/docker-ce-desktop-windows
 * Windows Subsystem for Linux
   * [Installation Guide for Windows 10](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
 * Linux Distro of your choice
   * Need to download from the market
-  * I recommend [Ubuntu](https://www.microsoft.com/en-ca/p/ubuntu/9nblggh4msv6?activetab=pivot:overviewtab) because the exercises were tested with that distro
+  * Recommend distro is [Ubuntu](https://www.microsoft.com/en-ca/p/ubuntu/9nblggh4msv6?activetab=pivot:overviewtab) because the exercises were tested with that distro
   * If not Ubuntu, a Debian variant is recommended
 * [GitHub Account](https://github.com/)
 * Git Course Completed
