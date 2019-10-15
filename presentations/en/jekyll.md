@@ -33,9 +33,9 @@
 1. Launch Ubuntu (or the distro of your choice) on Windows
 2. Access the path to your personal workspace on Windows
    1. When you launch Linux on Windows, you will probably need to navigate to where your drive is mounted in Windows
-   2. Type `cd ../../mnt` and then `ls` to show the mounted drives.
+   2. Type `cd ../../mnt` and then `ls` to show the mounted drives. ([Source](https://docs.microsoft.com/en-us/windows/wsl/install-win10))
    3. Type `cd <drive letter>` to move to the Windows folders.
-   4. If you type `ls` you should now be able to see your Windows files, including your user profile
+   4. If you type `ls` you should now be able to see your Windows files, including your user profile (Tip: you can also type `explorer.exe .` - [Source](https://www.omgubuntu.co.uk/2019/02/access-linux-files-from-windows-explorer-wsl))
    5. Navigate to your Windows workspace
 3. Once in your workspace, follow these [instructions](https://jekyllrb.com/docs/installation/windows/#installation-via-bash-on-windows-10)
    * You may hit some issues installing gems (**do not use SUDO** to bypass the restrictions)
