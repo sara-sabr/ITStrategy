@@ -69,7 +69,7 @@ Some of that content may only be available on GC/ESDC network so if the link doe
 - [2018 list of presentations](https://2018.fwd50.com/)
 - [2018 Digital Social Innovation presentation from Digital Minister of Taiwan](https://www.slideshare.net/FWD50/fwd50-2018-digital-social-innovation)
 
-## Talks 
+## Talks
 
 ### Security
 
