@@ -1,5 +1,15 @@
 # Jekyll Instructions
 
+- [Jekyll Instructions](#jekyll-instructions)
+  - [Windows](#windows)
+    - [Prerequisites](#prerequisites)
+    - [Steps](#steps)
+      - [Known issues running Docker](#known-issues-running-docker)
+        - [Invalid Reference Format](#invalid-reference-format)
+        - [Shared Drive](#shared-drive)
+        - [Local IP Address](#local-ip-address)
+      - [Other Options](#other-options)
+
 ## Windows
 
 ### Prerequisites
