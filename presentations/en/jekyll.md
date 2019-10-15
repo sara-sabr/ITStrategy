@@ -8,7 +8,7 @@
         - [Invalid Reference Format](#invalid-reference-format)
         - [Shared Drive](#shared-drive)
         - [Local IP Address](#local-ip-address)
-      - [Other Options](#other-options)
+        - [Blog Posts Not Updated](#blog-posts-not-updated)
 
 ## Windows
 
@@ -74,7 +74,7 @@ categories: jekyll update
 <!-- markdownlint-enable MD029 -->
 
 ```bash
-docker run -p 4000:4000 -v ${pwd}:/srv/jekyll -it --rm jekyll/jekyll jekyll serve
+docker run -p 4000:4000 -v ${pwd}:/srv/jekyll -it --rm jekyll/jekyll jekyll serve --force_polling
 ```
 
 #### Known issues running Docker
@@ -111,6 +111,10 @@ You will also need to know your local IP address to access your site.
 * Multiple sections will be displayed so look for `DockerNAT`
 * Find your IPv4 Address
 
-#### Other Options
+##### Blog Posts Not Updated
 
-Alternatively, you can also use Node.js and NPM to run the site locally (requires the installation of Node.js)
+On Windows, there may be some issues with the incremental build when running Docker
+
+Using `--force_polling` should fix the issue.
+
+([Reference](https://github.com/jekyll/jekyll/issues/2926#issuecomment-55558142))
