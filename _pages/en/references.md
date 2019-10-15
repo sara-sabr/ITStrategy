@@ -69,6 +69,16 @@ Some of that content may only be available on GC/ESDC network so if the link doe
 - [2018 list of presentations](https://2018.fwd50.com/)
 - [2018 Digital Social Innovation presentation from Digital Minister of Taiwan](https://www.slideshare.net/FWD50/fwd50-2018-digital-social-innovation)
 
+## Talks 
+
+### Security
+
+- [Black Hat USA 2019 Keynote: Every Security Team is a Software Team Now by Dino Dai Zovi](https://www.youtube.com/watch?v=8armE3Wz0jk): [Keynote speaker from Blackhat](https://www.blackhat.com/)
+
+### Innovation
+
+- [Borrowing Brilliance: The Six Steps to Business Innovation by Building on the Ideas of Others](https://www.youtube.com/watch?v=0VmYzCXD8I8&t=2s): Talk summarizing the book [Borrowing Brilliance](https://www.amazon.com/Borrowing-Brilliance-Business-Innovation-Building/dp/1592405800)
+
 ### Books
 
 |Title|Author|Publishing Year|Publisher|Description|
