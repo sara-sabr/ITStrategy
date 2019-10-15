@@ -52,13 +52,13 @@ This is an initial proposal and is intended to allow for iterations to refine an
 
 ###### Interactions
 
-The book Team Topologies, referenced below, recommends that Enabling Teams work with other teams for a period (potentially a few months) [TO-DO: Quote needed] in order to assist them with onboarding new technologies and approaches, and improving their existing processes and procedures. The goal is to ensure the interactions are brief enough that the teams being enabled do not become dependent on the enabling teams. The process improvements should stand on their own, and should not involve [toil](https://landing.google.com/sre/sre-book/chapters/eliminating-toil/). That is to say, the new processes and procedures should aim to automate or improve the existing processes, not lend temporary person-power to the teams. Given the short and iterative nature of the interactions between the teams (durations of interactions should be defined by number of sprints) the enabling teams must identify quick wins -- the amount of automation that could be done within the limited timeframe that would result in the greatest amount of automated work.
+The book Team Topologies, referenced below, recommends that Enabling Teams work with other teams for a period (potentially a few months) [TO-DO: Quote needed] in order to assist them with onboarding new technologies and approaches, and improving their existing processes and procedures. The goal is to ensure the interactions are brief enough that the teams being enabled do not become dependent on the enabling teams. The process improvements should stand on their own, and should not involve [toil](https://landing.google.com/sre/sre-book/chapters/eliminating-toil/). That is to say, the new processes and procedures should aim to automate or improve the existing processes, not lend temporary person-power to the teams. Given the short and iterative nature of the interactions between the teams (durations of interactions should be defined by number of sprints) the enabling teams must identify quick wins -- the amount of automation that could be done within the limited time frame that would result in the greatest amount of automated work.
 
 ###### Tooling
 
 [TO-DO: Quote from Team Topologies regarding varying levels of team communication]
 
-The amount of collaboration between the enabl*ing* teams and the enabl*ed* teams should vary significant during the time which the enabling team is paired with the enabled team. As such, collaboration tools that allow for the rapid creation and disintegration should be leveraged. An example of a viable tool for such a requirement would be Slack, where groups can be created and disposed of with relative ease.
+The amount of collaboration between the enabling teams and the enabled teams should vary significant during the time which the enabling team is paired with the enabled team. As such, collaboration tools that allow for the rapid creation and disintegration should be leveraged. An example of a viable tool for such a requirement would be Slack, where groups can be created and disposed of with relative ease.
 
 #### Process
 
@@ -66,7 +66,7 @@ The amount of collaboration between the enabl*ing* teams and the enabl*ed* teams
 
 - All teams within the directorate have synchronize sprints
 - Representatives from each enabling team within the enabling directorate meet prior to the synchronized sprint planning for the director to set direcorate level priorities
-- During the synchonrized sprint planning meetings ensure directorate level prioties are broken down into manageable tasks
+- During the synchronized sprint planning meetings ensure directorate level priorities are broken down into manageable tasks
 
 ##### Engaging the Enabling Teams
 
