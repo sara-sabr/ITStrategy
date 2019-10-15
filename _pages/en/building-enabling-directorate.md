@@ -36,6 +36,16 @@ The teams may remain in their present functional structure for now, which aligns
 
 Each team has it`s own set of responsibilities for which they are responsible. The teams will collaborate regularly both via regular meetings and open collaboration tools (where possible and appropriate). For example, in addition to e-mail, tools such as Slack or Skype messenger should be used for regular informal communications and kanban boards should be open by default enabling each team to follow the progress of one another.
 
+###### Time Management
+
+Teams should not be fully allocated to their enabling function.
+
+Firstly, Each team must resolve time for the continuous self improvement, which should be equal to, or strictly greater than, 20% of their teams available work time.
+
+Secondly, teams are free to self organize under the condition that they are able to meet the needs of the directorates priorities. For example, a team within the directorate may accept to fulfill an enabling function for another team within the organization.
+
+Thirdly, an enabling team need not commit all of their time to being an enabling team. For example, in the case of the IT Strategy team they are also responsible for setting the IT vision for the department, and thus cannot dedicate 100%(-20%) of their time to their enabling function. In this particular case, for example, we recommend that the IT Strategy spend a maximum of (100-20)/2 percent of their time on enabling other teams.
+
 ##### External Interactions
 
 This is an initial proposal and is intended to allow for iterations to refine and modify the process as needed.
