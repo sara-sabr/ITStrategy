@@ -15,4 +15,4 @@
 
 1. Follow these [instructions](https://gohugo.io/getting-started/quick-start/#step-2-create-a-new-site)
 
-Note: you can change `quickstart` by the name of your choice
+Note: you can change `quickstart` by the name of your choice.
