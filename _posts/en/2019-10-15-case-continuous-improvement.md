@@ -38,7 +38,8 @@ If we continue to improve our processes and tools week after week, we will conti
 
 ```html
 f(x) = x<sup>2</sup>
-```html
+```
+
 ![alt text][_includes/_images/drawgraphx2.PNG]
 
 The most obvious thing we notice is that the exponential function grows much faster. One may counter, however, that there is an initial loss in productivity if one spends time improving rather than actually *doing work*, so we must account for this. Do do this, we must subtract some value from f(x) = x<sup>2<sup> to account for the lost productivity. For each increment in time, then, we will lose some percentage of our time. Where x represents time, this can be written as
