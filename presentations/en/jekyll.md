@@ -1,7 +1,7 @@
 # Jekyll Instructions
 
 - [Jekyll Instructions](#jekyll-instructions)
-  - [Windows](#windows)
+  - [Windows 10](#windows-10)
     - [Prerequisites](#prerequisites)
     - [Steps](#steps)
       - [Known issues running Docker](#known-issues-running-docker)
@@ -10,7 +10,7 @@
         - [Local IP Address](#local-ip-address)
         - [Blog Posts Not Updated](#blog-posts-not-updated)
 
-## Windows
+## Windows 10
 
 ### Prerequisites
 
@@ -76,6 +76,8 @@ categories: jekyll update
 ```bash
 docker run -p 4000:4000 -v ${pwd}:/srv/jekyll -it --rm jekyll/jekyll jekyll serve --force_polling
 ```
+
+[More command examples](https://ddewaele.github.io/running-jekyll-in-docker/)
 
 #### Known issues running Docker
 
