@@ -36,7 +36,7 @@ What's the alternative? Continuous improvement.
 
 If we continue to improve our processes and tools week after week, we will continously improve, thereby becoming able to produce more business value over a given time. This should give us an exponential curve, which looks something like this.
 
-f(x) = x<sup>2<sup>
+f(x) = x<sup>2</sup>
 ![alt text][_includes/_images/drawgraphx2.PNG]
 
 The most obvious thing we notice is that the exponential function grows much faster. One may counter, however, that there is an initial loss in productivity if one spends time improving rather than actually *doing work*, so we must account for this. Do do this, we must subtract some value from f(x) = x<sup>2<sup> to account for the lost productivity. For each increment in time, then, we will lose some percentage of our time. Where x represents time, this can be written as
@@ -49,15 +49,15 @@ x * *l*, where *l* is the amount of time spent per day on improving
 
 With this addition, we have 
 
-f(x) = x<sup>2<sup> - (x*l)
+f(x) = x<sup>2</sup> - (x*l)
 
 What happens when we graph this? Well let's assume we spent 20% of our day on continuous improvement. Then we lose 20% of our productivity per month.
 
 ![alt text][_includes/_images/graphx2minusxl.PNG]
 
-Notice at the bottom that the curve flattens out slightly. This decrease in productivity is always present as x (the amount of time) increases. However, [an exponent will always beat a linear progression](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:exponential-growth-decay/x2f8bb11595b61c86:exponential-vs-linear-growth/v/exponential-vs-linear-growth). The next obvious step would be to then graph our "as is" way of working versus out continuous improvement method of working, and see how long it would take before a continuously improving team will take before it is more productive than the team who continues to work the same way, day after day. Before that, however, in our previous calculation we used x<sup>2<sup>, which is a curve that grows very quickly, and up until now, we have not justified our selection of the arbitrary value of 2. Another way we could have written this is
+Notice at the bottom that the curve flattens out slightly. This decrease in productivity is always present as x (the amount of time) increases. However, [an exponent will always beat a linear progression](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:exponential-growth-decay/x2f8bb11595b61c86:exponential-vs-linear-growth/v/exponential-vs-linear-growth). The next obvious step would be to then graph our "as is" way of working versus out continuous improvement method of working, and see how long it would take before a continuously improving team will take before it is more productive than the team who continues to work the same way, day after day. Before that, however, in our previous calculation we used x<sup>2/sup>, which is a curve that grows very quickly, and up until now, we have not justified our selection of the arbitrary value of 2. Another way we could have written this is
 
-x<sup>2<sup> = x<sup>1+1<sup>
+x<sup>2</sup> = x<sup>1+1</sup>
 
 When talking about percentage points we calculate using decimal points. Therefore, 1 = 1.0 = 100%. Therefore, as we had it written previously we are claiming that our productivity increases by 100% per day! If anyone has figured out how to do this, we'd love to hear from you! Unfortunately, if you live in the realm of mere mortals like me, 100% productivity increase per day is likely unattainable.
 
@@ -73,7 +73,7 @@ Where r is some percentage in increased productivity.
 
 Alright. We're almost there! Our function for mapping how productive a continously improving team is looks something like this
 
-f(x) = x<sup>1+r<sup> - (x*l)
+f(x) = x<sup>1+r</sup> - (x*l)
 
 - Where *r* is equal to the rate of improvement
 - And *l* is equal to the amount of time we have spent continously improving
@@ -82,8 +82,8 @@ Next we will pick some values that make sense. As discussed, in The DevOps Handb
 
 Now how much improvement do we expect from 20% of our time being spent on improvements? As a government employee, I know in certain cases this return can be gargantuan. For example, [Estonia claims they save 820 years of working time annually through their use of automated digital services](https://e-estonia.com/how-save-annually-820-years-of-work/). For our example, however, as we will see, the rate of improvement is not all that important. You will always eventually become more productive if you continually improve for long enough. Alright then, let's choose 10%, which is the same as 0.1. So we are assuming for each unit of time for which you spent 20% of your time, you get half as much effecient for the time invested. Conservative, at best. Our function then becomes
 
-f(x) = x<sup>1+0.1<sup> - (x*.2)
-f(x) = x<sup>1.1<sup> - (x*.2)
+f(x) = x<sup>1+0.1</sup> - (x*.2)
+f(x) = x<sup>1.1</sup> - (x*.2)
 
 And if we graph this, we will get the following curve
 
@@ -121,7 +121,7 @@ You will also notice that in our picture of the integral is displayed a number, 
 
 As we covered above, however, an exponent will eventually always outgrow a linear function. This is to say
 
-x<sup>1.1<sup> will always beat (x*.2)
+x<sup>1.1</sup> will always beat (x*.2)
 
 More formally we could say that as the limit of x approaches infinite, f(infinity) = infinity.
 
@@ -163,7 +163,7 @@ On desmos I couldn't figure out how to store the x coordinate of where the lines
 
 Given the function
 
-f(x) = x<sup>1+*r*<sup> - x**l*
+f(x) = x<sup>1+*r*</sup> - x**l*
 
 As x grows there should be some function by which the exponent 1+*r* begins to reduce, as the quick wins are solved it will gradually take more effort to realize the same amount of effeciency.
 
