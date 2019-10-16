@@ -126,7 +126,6 @@ Using `--force_polling` should fix the issue.
 ### Prerequisites
 
 - [Docker CE Installed and Configured](https://docs.docker.com/install/linux/docker-ce/ubuntu/)
-- 
 
 ### Steps
 
