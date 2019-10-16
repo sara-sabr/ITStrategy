@@ -152,7 +152,7 @@ Granted, this is assuming no significant changes in the team, and that humans, g
 
 In this section I have attempted to add some rigous by which we can better measure what the best approach would be for a team given their goals. More time should be spent determining the best possible way to define *r*.
 
-## Call For Help From the More Mathamatically Apt Folk: Help Me Be More Precise
+## Future Improvements
 
 This section here acknowledges some of the points I'd like to improve, though if you would like to contribute here are to particular issues I need to revisit later.
 
