@@ -122,7 +122,7 @@ You will also notice that in our picture of the integral is displayed a number, 
 
 As we covered above, however, an exponent will eventually always outgrow a linear function. This is to say
 
-x<sup>1.1</sup> will always beat (x*.2)
+x<sup>1.1</sup> beats (x*.2) as x approaches infinty
 
 More formally we could say that as the limit of x approaches infinite, f(infinity) = infinity.
 
