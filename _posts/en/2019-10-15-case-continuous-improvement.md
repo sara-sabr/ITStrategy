@@ -34,11 +34,9 @@ This line assums that, week after week, the team continues to do work "as usual"
 
 What's the alternative? Continuous improvement.
 
-If we continue to improve our processes and tools week after week, we will continously improve, thereby becoming able to produce more business value over a given time. This should give us an exponential curve, which looks something like this.
+If we continue to improve our processes and tools week after week, we will continously improve, thereby becoming able to produce more business value over a given time. This should give us an exponential curve, which looks something like this
 
-```html
 f(x) = x<sup>2</sup>
-```
 
 ![alt text][_includes/_images/drawgraphx2.PNG]
 
