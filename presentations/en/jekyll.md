@@ -1,14 +1,13 @@
 # Jekyll Instructions
 
-- [Jekyll Instructions](#jekyll-instructions)
-  - [Windows 10](#windows-10)
-    - [Prerequisites](#prerequisites)
-    - [Steps](#steps)
-      - [Known issues running Docker](#known-issues-running-docker)
-        - [Invalid Reference Format](#invalid-reference-format)
-        - [Shared Drive](#shared-drive)
-        - [Local IP Address](#local-ip-address)
-        - [Blog Posts Not Updated](#blog-posts-not-updated)
+- [Windows 10](#windows-10)
+  - [Prerequisites](#prerequisites)
+  - [Steps](#steps)
+    - [Known issues running Docker](#known-issues-running-docker)
+- [Linux](#linux)
+  - [Prerequisites](#prerequisites-1)
+  - [Steps](#steps-1)
+- [macOS](#macos)
 
 ## Windows 10
 

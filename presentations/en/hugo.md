@@ -1,12 +1,12 @@
 # Hugo Instructions
 
-1. [Windows 10](#windows-10)
-   1. [Prerequisites](#prerequisites)
-   2. [Steps](#steps)
-2. [Linux](#linux)
-   1. [Prerequisites](#prerequisites-1)
-   2. [Steps](#steps-1)
-3. [macOS](#macos)
+- [Windows 10](#windows-10)
+  - [Prerequisites](#prerequisites)
+  - [Steps](#steps)
+- [Linux](#linux)
+  - [Prerequisites](#prerequisites-1)
+  - [Steps](#steps-1)
+- [macOS](#macos)
 
 ## Windows 10
 
@@ -33,7 +33,7 @@ Note: you can change `quickstart` by the name of your choice
 
 1. Move to the folder parent where you would like to create your project.
 2. Follow these [instructions](https://gohugo.io/getting-started/quick-start/#step-2-create-a-new-site)
-3. To run locally, use this command:
+3. To run locally with Docker, use this command:
 
 ```bash
 docker run --rm -it -v $PWD:/src -p 1313:1313 -u hugo jguyomard/hugo-builder hugo server -w -D --bind=0.0.0.0
