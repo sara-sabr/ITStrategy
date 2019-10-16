@@ -201,9 +201,9 @@ In our case, this turns out to be
 
 19.17 - 18.075 ~= 1.0953
 
-In this case then, we can say that we have lost ~1.0953 units of productivity initially when we started working continuously, if we spend 20% of our time in order to increase our efficiency by 10%. 
+In this case then, we can say that we have lost ~1.0953 units of productivity initially when we started working continuously, if we spend 20% of our time in order to increase our efficiency by 10%.
 
-Why is this important? This represents the size of the difference between what you would have delivered had you not started to continuously improve. It can give us useful insights about how to play with *r* versus *l* to realize the greatest efficiency gains. For example, if we were to realize even greater efficiency gains for our 20% time investment, the area of the curve would decrease even more. 
+Why is this important? This represents the size of the difference between what you would have delivered had you not started to continuously improve. It can give us useful insights about how to play with *r* versus *l* to realize the greatest efficiency gains. For example, if we were to realize even greater efficiency gains for our 20% time investment, the area of the curve would decrease even more.
 
 Click [here](https://www.desmos.com/calculator/25lw1aqjg0) for an example. Here we assume that for 20% time investment we realize a 20% efficiency gain. In this case the area of the space between the curves is reduced to ~0.3377
 
@@ -213,7 +213,7 @@ _____
 
 **Option 1**: It is more important to become as productive as possible, as quickly as possible
 
-If this is your team, then you should opt for a situation where the team can maximize *r* as quickly as possible, even if it requires a higher-time investment. 
+If this is your team, then you should opt for a situation where the team can maximize *r* as quickly as possible, even if it requires a higher-time investment.
 As x increases, the exponential curve will continue to grow faster and faster than the linear function. Therefore, it is more important to maximize *r* than it is to minimize *l*.
 
 **Option 2**: Begin to continuously improve while still meeting the current expectations as best as possible.
@@ -230,7 +230,7 @@ Let's do an example.
 
 If we set *l* = 30% and *r* = 20%, then we will find the area between the curves, that is the total initial lost productivity, is ~0.8146 (confirm [here](https://www.desmos.com/calculator/softsyrau5))
 
-Perhaps this loss in efficiency is unacceptable to an operations team. What is to be done then? 
+Perhaps this loss in efficiency is unacceptable to an operations team. What is to be done then?
 
 What we recommend is identifying quick wins. Find the set of tasks that given the smallest amount of time invested, *l*, will realize the greatest efficiency gains.
 
@@ -239,6 +239,7 @@ If 30% of time dedicated to continuous improvement is too high though we know a 
 This quick win trade off is a short term game, however, as you cannot expect that ratio between l:r to continue at that rate forever. Once your team has stopped working at 120% through quick wins, it is time to settle into a constant rate of continuous improvement for your team. As we covered above, around 20% is likely the lowest you would want to go. The key is to find a value that is sustainable for your team, as the real magic we are trying to leverage is the power of the *continuous* or *compounding* improvement, so that we benefit from exponential efficiency gains.
 
 In conclusion, if one if looking for maximum productivity it is best to maximize the value of *r*, and if one is looking to minimize the impact to their current services one should find the lowest value of *l* such that it maximizes the possible value for *r*.
+
 _____
 
 The next question to be answered then would be how one would find what their *r* is given some investment *l*.
