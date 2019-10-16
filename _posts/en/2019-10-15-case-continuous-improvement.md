@@ -10,7 +10,7 @@ last_modified: "2019-10-15"
 
 ## Summary
 
-In The DevOps Handbook the authors make a case for teams spending at least 20% of their time towards reducing technical debt. [TO-DO: Use quote] I am going to abstract this to suggest that all teams should spend at least 20% of their time improving the way they work. In the case of the team I work with, we produce documentation as well as some proof of concepts to demonstrate the effectiveness of our proposed ideas. After work on day I was discussing modeling our team as an Enabling Team, from [Team Topologies](https://itrevolution.com/book/team-topologies/), with a colleague. In the book they recommend that an enabling team could spend time assisting other teams in onboarding new technologies, or helping other teams find better ways to work. My colleage challenged me on our ability to sell ourselves as a learning team. People are busy, why would people want to slow themselves down by committing time away from their priorities to improve? How would you sell that to a team already working at 120% capacity? 
+In The DevOps Handbook the authors make a case for teams spending at least 20% of their time towards reducing technical debt. [TO-DO: Use quote] I am going to abstract this to suggest that all teams should spend at least 20% of their time improving the way they work. In the case of the team I work with, we produce documentation as well as some proof of concepts to demonstrate the effectiveness of our proposed ideas. After work on day I was discussing modeling our team as an Enabling Team, from [Team Topologies](https://itrevolution.com/book/team-topologies/), with a colleague. In the book they recommend that an enabling team could spend time assisting other teams in onboarding new technologies, or helping other teams find better ways to work. My colleage challenged me on our ability to sell ourselves as a learning team. People are busy, why would people want to slow themselves down by committing time away from their priorities to improve? How would you sell that to a team already working at 120% capacity?
 
 Many of us already know from the [Phoenix Project](https://itrevolution.com/book/the-phoenix-project/) the hand wavey anecdotal justification for commiting time to improving ones process. If one was really taken with the Phoenix Project they may invest the time to learn more my learning the magic of DevOps through books such as [The DevOps Handbook](https://itrevolution.com/book/the-devops-handbook/) (which I suggest you do). However, if you're in a position where you need to quickly make a business case for continous improvement, how does one do this? That is what I will try to do here. Make a succinct argument using some simple math to demonstrate the value of continuous improvement.
 
@@ -30,13 +30,15 @@ If we graph f(x) = x we will get a line as follows
 
 We are defining y-axis (the horizontal one) as the total units of business value produced, and the x-axis to be time. The line then, is the total units of business value produced over some unit of time. For the sake of this example, let's say that each increment in x is one month.
 
-This line assums that, week after week, the team continues to do work "as usual", or the famous "we've always done it like this" approach. With this approach, the team will (on average) produce the same units of business value each week. If you are working over 100% this week, you will be next week too. 
+This line assums that, week after week, the team continues to do work "as usual", or the famous "we've always done it like this" approach. With this approach, the team will (on average) produce the same units of business value each week. If you are working over 100% this week, you will be next week too.
 
 What's the alternative? Continuous improvement.
 
 If we continue to improve our processes and tools week after week, we will continously improve, thereby becoming able to produce more business value over a given time. This should give us an exponential curve, which looks something like this.
 
+```html
 f(x) = x<sup>2</sup>
+```html
 ![alt text][_includes/_images/drawgraphx2.PNG]
 
 The most obvious thing we notice is that the exponential function grows much faster. One may counter, however, that there is an initial loss in productivity if one spends time improving rather than actually *doing work*, so we must account for this. Do do this, we must subtract some value from f(x) = x<sup>2<sup> to account for the lost productivity. For each increment in time, then, we will lose some percentage of our time. Where x represents time, this can be written as
@@ -47,7 +49,7 @@ Or, to be more succinct, we can replace [some percentage of productivity lost] w
 
 x * *l*, where *l* is the amount of time spent per day on improving
 
-With this addition, we have 
+With this addition, we have
 
 f(x) = x<sup>2</sup> - (x*l)
 
@@ -153,7 +155,7 @@ If this is your teams situation, then what is important for you is trying to fin
 - Let *l* = 15%
 - Let *r* = 10%
 
-Then we will find that the area between the curves is now ~7.7369. In conclusion, if one is trying to mimimize the loss of productivity, it is better to invest large amounts of time and increase *r*, the rate of productivity, quickly, than it is to prioritize a low value of *l* that lowers *r*. 
+Then we will find that the area between the curves is now ~7.7369. In conclusion, if one is trying to mimimize the loss of productivity, it is better to invest large amounts of time and increase *r*, the rate of productivity, quickly, than it is to prioritize a low value of *l* that lowers *r*.
 
 We are, of course, ignoring that eventually one will find that after some time, the ratio will eventually decline (that is, per unit of x spent on improving, the ROI in said investment will decline as time increases). It is for this reason that a prolongued elevated value of *r* is likely inadvisable (though a more rigorous analysis would be helpful, and in the future it would be great to add that here).
 
@@ -161,13 +163,13 @@ In conclusion, if one if looking for maximum productivity it is best to maximze 
 
 _____
 
-The next question to be answered then, would be how one would find what their *r* is given some investment *l*. To do this, one needs metrics. 
+The next question to be answered then, would be how one would find what their *r* is given some investment *l*. To do this, one needs metrics.
 
 One possible option that comes to mind is the use of velocity and business value. Velocity alone will not suffice, as given the same amount of effort by the team they should become more productive. Therefore, while velocity remains constant (or, rather, the teams average velocity stays consistant) the amount of business value delivered should increase. Therefore, one can measure the rate of increased productivity *r* by computing the rate of increase between the velocity and the business value. Each sprint then, a team could calculate
 
 i = business value/velocity
 
-which will give you the amount of business value produced per unit of effort required. Week after week as you compute this value, compute the rate of change of i. This will, over time, give you the rate at which you are improving over some interval of time. 
+which will give you the amount of business value produced per unit of effort required. Week after week as you compute this value, compute the rate of change of i. This will, over time, give you the rate at which you are improving over some interval of time.
 
 Granted, this is assuming no significant changes in the team, and that humans, given changing circumstances, continue to give consistent evaluations throughout the process. It's not perfect I admint, and if anyone else has any more rigious ways by which to define r, we'd love to hear from you and please submit an issue [here](https://github.com/sara-sabr/ITStrategy/issues).
 
