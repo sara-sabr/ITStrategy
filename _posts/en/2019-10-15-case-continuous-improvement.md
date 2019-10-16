@@ -26,9 +26,7 @@ If that sounded a little math-y or jargon-y, we'll walk through it below.
 
 If we graph f(x) = x we will get a line as follows
 
-```html
-<img src="_includes/_images/drawgraphx2.PNG" />
-```
+![Alt text](_includes/_images/drawgraphx.PNG)
 
 We are defining y-axis (the horizontal one) as the total units of business value produced, and the x-axis to be time. The line then, is the total units of business value produced over some unit of time. For the sake of this example, let's say that each increment in x is one month.
 
@@ -40,9 +38,9 @@ If we continue to improve our processes and tools week after week, we will conti
 
 ```html
 f(x) = x<sup>2</sup>
-
-<img src="_includes/_images/drawgraphx2.PNG" />
 ```
+
+![Alt text](_includes/_images/drawgraphx2.PNG)
 
 The most obvious thing we notice is that the exponential function grows much faster. One may counter, however, that there is an initial loss in productivity if one spends time improving rather than actually *doing work*, so we must account for this. Do do this, we must subtract some value from *f(x)* to account for the lost productivity. For each increment in time, then, we will lose some percentage of our time. Where x represents time, this can be written as
 
@@ -64,9 +62,7 @@ f(x) = x<sup>2</sup> - (x*l)
 
 What happens when we graph this? Well let's assume we spent 20% of our day on continuous improvement. Then we lose 20% of our productivity per month.
 
-```html
-<img src="_includes/_images/graphx2minusxl.PNG" />
-```
+![Alt text](_includes/_images/graphx2minusxl.PNG)
 
 Notice at the bottom that the curve flattens out slightly. This decrease in productivity is always present as x (the amount of time) increases. However, [an exponent will always beat a linear progression](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:exponential-growth-decay/x2f8bb11595b61c86:exponential-vs-linear-growth/v/exponential-vs-linear-growth). The next obvious step would be to then graph our "as is" way of working versus out continuous improvement method of working, and see how long it would take before a continuously improving team will take before it is more productive than the team who continues to work the same way, day after day. Before that, however, in our previous calculation we used x^2, which is a curve that grows very quickly, and up until now, we have not justified our selection of the arbitrary value of 2. Another way we could have written this is
 
@@ -111,15 +107,11 @@ f(x) = x<sup>1.1</sup> - (x*.2)
 
 And if we graph this, we will get the following curve
 
-```html
-<img src="_includes/_images/fullfunction.PNG" />
-```
+![Alt text](_includes/_images/fullfunction.PNG)
 
 Great! What's next? Well, let's say we compare that with a team that does not continually improve, and continues to grind through, day to day, doing things "as they've always done them".
 
-```html
-<img src="_includes/_images/comparecurves1.PNG" />
-```
+![Alt text](_includes/_images/comparecurves1.PNG)
 
 We can see that the red line, which represents the team that continually improves for 20% of their day for a small 10% return in productivity will be more productive in about 6 months (or 6.192 months, to be exact). Even if you reduced the productivity gained by half (to 5%, or 0.05), you would still find that before 39 months is up, the team that continuously improves will inevitably end up preforming more highly than the team who does not.
 
@@ -133,15 +125,11 @@ Here we're going to use a little math trickery with some basic [integration](htt
 
 Step one here is to answer the question, "well exactly how much time am I losing when I choose to invest in continuous learning?" Should I invest 20% of my time for a 10% trade off? Or would it be better to invest 30% of my time for a 20% trade off? To answer this question, we'll need to learn more about the relationships between our two curves. More precisely, we need to know the area between the two curves. Luckily with desmos the heavy lifting is done for us. If you haven't already done so, click [here](https://www.desmos.com/calculator/bfk9p5ho7f) for an example. You should see something as follows
 
-```html
-<img src="_includes/_images/areaundercurve.PNG" />
-```
+![Alt text](_includes/_images/areaundercurve.PNG)
 
 What are we seeing here? If you hover over where the two lines intercept you will see that the x value is 6.192, which is the same 6.192 you will see in the integral
 
-```html
-<img src="_includes/_images/integralareaundercurve.PNG" />
-```
+![Alt text](_includes/_images/integralareaundercurve.PNG)
 
 Line 3 should read
 
