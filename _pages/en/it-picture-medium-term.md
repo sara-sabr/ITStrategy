@@ -81,23 +81,18 @@ Overall employees working in IT at ESDC are [happier](https://cloud.google.com/s
 
 #### Process
 
-- [https://cloud.google.com/solutions/devops/devops-process-team-experimentation](https://cloud.google.com/solutions/devops/devops-process-team-experimentation)
-- [https://cloud.google.com/solutions/devops/devops-process-streamlining-change-approval](https://cloud.google.com/solutions/devops/devops-process-streamlining-change-approval)
-- [https://cloud.google.com/solutions/devops/devops-process-customer-feedback](https://cloud.google.com/solutions/devops/devops-process-customer-feedback)
-- [https://cloud.google.com/solutions/devops/devops-process-work-visibility-in-value-stream](https://cloud.google.com/solutions/devops/devops-process-work-visibility-in-value-stream)
-- [https://cloud.google.com/solutions/devops/devops-process-working-in-small-batches](https://cloud.google.com/solutions/devops/devops-process-working-in-small-batches)
 - [The DevOps Handbook](https://itrevolution.com/book/the-devops-handbook/)
 
-Processes empower cross-functional teams and allow them to work on new ideas in pursuit of business goals that solve important problems.
+Processes empower cross-functional teams and allow them to [work on new ideas](https://cloud.google.com/solutions/devops/devops-process-team-experimentation) in pursuit of business goals that solve important problems.
 Information is treated as a corporate asset -- it is open by default, easily searchable, secure and not duplicated.
 Teams are provided with up-to-date information and context enabling them to make informed decisions about the right work to do.
 Organizational outcomes are measured and also provide information critical to making the best decisions.
 Hackathons are held at least twice a year by IT and are open to internal and relevant external audiences (e.g. other governments, academia).
 
-Teams work using Agile methodologies to iterate on and continually improve solutions and services.
-Clients are included from the start of projects and can submit regular feedback.
-There is a big focus on automation of testing, deployments, security and service requests, removing the need for manual approval.
-Information about the flow of work across the whole value stream is readily available and teams have a good understanding of the flow of work from the business all the way to citizens or ESDC employees.
+Teams work using [Agile](https://cloud.google.com/solutions/devops/devops-process-working-in-small-batches) methodologies to iterate on and continually improve solutions and services.
+Clients are included from the start of projects and can submit [regular feedback](https://cloud.google.com/solutions/devops/devops-process-customer-feedback).
+There is a big focus on automation of testing, deployments, security and service requests, [removing the need for manual approval](https://cloud.google.com/solutions/devops/devops-process-streamlining-change-approval).
+Information about the [flow of work](https://cloud.google.com/solutions/devops/devops-process-work-visibility-in-value-stream) across the whole value stream is readily available and teams have a good understanding of the flow of work from the business all the way to citizens or ESDC employees.
 
 Governance is moving to Lean Project Management where desired outcomes are stated instead of requirements, and hypotheses are used instead of business cases, favouring smaller projects as a means to reduce risks and avoid feature bloat.
 ESDC investment management enables this by allowing smaller, more iterative investments in IT.
@@ -105,29 +100,23 @@ Monitoring towards achievement of desired outcomes is used as project metrics as
 
 #### Technical
 
-- [https://cloud.google.com/solutions/devops/devops-tech-continuous-integration](https://cloud.google.com/solutions/devops/devops-tech-continuous-integration)
-- [https://cloud.google.com/solutions/devops/devops-tech-deployment-automation](https://cloud.google.com/solutions/devops/devops-tech-deployment-automation)
-- [https://cloud.google.com/solutions/devops/devops-tech-trunk-based-development](https://cloud.google.com/solutions/devops/devops-tech-trunk-based-development)
-- [https://cloud.google.com/solutions/devops/devops-tech-test-automation](https://cloud.google.com/solutions/devops/devops-tech-test-automation)
-- [https://cloud.google.com/solutions/devops/devops-tech-architecture](https://cloud.google.com/solutions/devops/devops-tech-architecture)
-- [https://cloud.google.com/solutions/devops/devops-tech-teams-empowered-to-choose-tools](https://cloud.google.com/solutions/devops/devops-tech-teams-empowered-to-choose-tools)
 - [https://cloud.google.com/solutions/devops/devops-tech-test-data-management](https://cloud.google.com/solutions/devops/devops-tech-test-data-management)
 - [https://cloud.google.com/solutions/devops/devops-tech-shifting-left-on-security](https://cloud.google.com/solutions/devops/devops-tech-shifting-left-on-security)
 - [The DevOps Handbook](https://itrevolution.com/book/the-devops-handbook/)
 
-Teams are able to provision an environment or device in an automated fashion, and know that any new environment or device generated from the same configuration is identical.
+[Teams are able](https://cloud.google.com/solutions/devops/devops-tech-architecture) to provision an environment or device in an automated fashion, and know that any new environment or device generated from the same configuration is identical.
 Production services can be restored repeatedly and predictably even when catastrophic events occur.
 Chaos Engineering is being considered for use to build confidence in systems' capabilities to withstand unexpected conditions.
 
 Source code, assets, configurations, or other documents part of a project's development and deployment are stored in a [version control](https://cloud.google.com/solutions/devops/devops-tech-version-control) system that records changes to files.
-Changes trigger automated tests and a build process that creates packages (executable, container, virtual machine, ...) that can be deployed to any environment (testing or production) in an automated way.
+Changes trigger [automated tests and a build process](https://cloud.google.com/solutions/devops/devops-tech-continuous-integration) that creates packages (executable, container, virtual machine, ...) that can be [deployed](https://cloud.google.com/solutions/devops/devops-tech-deployment-automation) to any environment (testing or production) in an automated way.
 Operations and infrastructure have moved towards automation as much as possible, being able to shift workloads and runtime from one service provider to another as it needs to.
-Builds are numbered, repeatable and being run on demand by teams giving them quick feedback on their small batches of work.
+Builds are numbered, repeatable and being run on demand by teams giving them quick feedback on their [small batches of work](https://cloud.google.com/solutions/devops/devops-tech-trunk-based-development).
 Team members prioritize review of coworkers' changes to ensure that they don't have to wait days to get merged and deployed.
 The build status of projects is visible to the department.
-Teams have access to adequate test data to run automated tests for projects.
+Teams have access to adequate test data to run [automated tests](https://cloud.google.com/solutions/devops/devops-tech-test-automation) for projects.
 
-Enterprise Architecture (EA) enables agility by empowering teams to choose tools and technologies, rapidly responding to new standards adoption, as well as providing light reference architectures.
+Enterprise Architecture (EA) enables agility by [empowering teams to choose tools and technologies](https://cloud.google.com/solutions/devops/devops-tech-teams-empowered-to-choose-tools), rapidly responding to new standards adoption, as well as providing light reference architectures.
 EA enables ESDC to re-use investments via capability-based planning and influences where the department's investments need to be allocated.
 Technology stacks are periodically reviewed as part of team retrospectives (Agile).
 EA and security periodically evaluate how well current tools address requirements.
