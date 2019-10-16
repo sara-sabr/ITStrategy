@@ -26,7 +26,7 @@ If that sounded a little math-y or jargon-y, we'll walk through it below.
 
 If we graph f(x) = x we will get a line as follows
 
-![Alt text](_includes/_images/drawgraphx.PNG)
+![](./_includes/_images/drawgraphx.PNG)
 
 We are defining y-axis (the horizontal one) as the total units of business value produced, and the x-axis to be time. The line then, is the total units of business value produced over some unit of time. For the sake of this example, let's say that each increment in x is one month.
 
@@ -129,7 +129,7 @@ Step one here is to answer the question, "well exactly how much time am I losing
 
 What are we seeing here? If you hover over where the two lines intercept you will see that the x value is 6.192, which is the same 6.192 you will see in the integral
 
-![Alt text](_includes/_images/integralareaundercurve.PNG)
+![Alt text](./_includes/_images/integralareaundercurve.PNG)
 
 Line 3 should read
 
