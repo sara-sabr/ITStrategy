@@ -120,3 +120,14 @@ On Windows, there may be some issues with the incremental build when running Doc
 Using `--force_polling` should fix the issue.
 
 ([Reference](https://github.com/jekyll/jekyll/issues/2926#issuecomment-55558142))
+
+## Linux
+
+### Prerequisites
+
+- [Docker CE Installed and Configured](https://docs.docker.com/install/linux/docker-ce/ubuntu/)
+- 
+
+### Steps
+
+## macOS
