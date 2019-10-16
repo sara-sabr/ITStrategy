@@ -14,11 +14,11 @@ In The DevOps Handbook the authors make a case for teams spending at least 20% o
 I am going to abstract this to suggest that all teams should spend at least 20% of their time improving the way they work.
 In the case of the team I work with, we produce documentation as well as some proof of concepts to demonstrate the effectiveness of our proposed ideas.After work on day I was discussing modeling our team as an Enabling Team, from [Team Topologies](https://itrevolution.com/book/team-topologies/), with a colleague.
 In the book they recommend that an enabling team could spend time assisting other teams in onboarding new technologies, or helping other teams find better ways to work.
-My colleage challenged me on our ability to sell ourselves as a learning team.
+My colleague challenged me on our ability to sell ourselves as a learning team.
 People are busy, why would people want to slow themselves down by committing time away from their priorities to improve? How would you sell that to a team already working at 120% capacity?
 
 Many of us already know from the [Phoenix Project](https://itrevolution.com/book/the-phoenix-project/) the hand wavey anecdotal justification for commiting time to improving ones process.
-If one was really taken with the Phoenix Project they may invest the time to learn more my learning the magic of DevOps through books such as [The DevOps Handbook](https://itrevolution.com/book/the-devops-handbook/) (which I suggest you do).
+If one was really taken with the Phoenix Project they may invest the time to learn more by learning the magic of DevOps through books such as [The DevOps Handbook](https://itrevolution.com/book/the-devops-handbook/) (which I suggest you do).
 However, if you're in a position where you need to quickly make a business case for continous improvement, how does one do this?
 That is what I will try to do here.
 Make a succinct argument using some simple math to demonstrate the value of continuous improvement.
@@ -41,7 +41,7 @@ If we graph f(x) = x we will get a line as follows
 
 ![Graph of f(x) = x]({{site.baseurl}}/assets/images/graphx.PNG)
 
-We are defining y-axis (the horizontal one) as the total units of business value produced, and the x-axis to be time.
+We are defining y-axis (the vertical one) as the total units of business value produced, and the x-axis to be time.
 The line then, is the total units of business value produced over some unit of time.
 For the sake of this example, let's say that each increment in x is one month.
 
