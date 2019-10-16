@@ -4,9 +4,15 @@
   - [Prerequisites](#prerequisites)
   - [Steps](#steps)
     - [Known issues running Docker](#known-issues-running-docker)
+      - [Invalid Reference Format](#invalid-reference-format)
+      - [Shared Drive](#shared-drive)
+      - [Local IP Address](#local-ip-address)
+      - [Blog Posts Not Updated](#blog-posts-not-updated)
 - [Linux](#linux)
   - [Prerequisites](#prerequisites-1)
   - [Steps](#steps-1)
+    - [Known Issues](#known-issues)
+      - [Docker permission denied](#docker-permission-denied)
 - [macOS](#macos)
 
 ## Windows 10
@@ -29,34 +35,8 @@
 
 ### Steps
 
-1. Launch Ubuntu (or the distro of your choice) on Windows
-2. Access the path to your personal workspace on Windows
-   1. When you launch Linux on Windows, you will probably need to navigate to where your drive is mounted in Windows
-   2. Type `cd ../../mnt` and then `ls` to show the mounted drives. ([Source](https://docs.microsoft.com/en-us/windows/wsl/install-win10))
-   3. Type `cd <drive letter>` to move to the Windows folders.
-   4. If you type `ls` you should now be able to see your Windows files, including your user profile (Tip: you can also type `explorer.exe .` - [Source](https://www.omgubuntu.co.uk/2019/02/access-linux-files-from-windows-explorer-wsl))
-   5. Navigate to your Windows workspace
-3. Once in your workspace, follow these [instructions](https://jekyllrb.com/docs/installation/windows/#installation-via-bash-on-windows-10)
-   - You may hit some issues installing gems (**do not use SUDO*- to bypass the restrictions)
-   - Instead, type `nano ~/.bashrc`
-   - Add the following lines at the bottom of the file:
-
-   ```bash
-   # Ruby exports
-
-   export GEM_HOME=$HOME/gems
-   export PATH=$HOME/gems/bin:$PATH
-   ```
-
-   - Exit & Save (Ctrl+X)
-   - Run `source ~/.bashrc`
-   - You should now be able to install the gems
-
-4. Test your install with `jekyll -v`
-5. Create a Jekyll project with `jekyll new <blog name>`
-6. Move to your project in the _posts folder
-   - `cd <blog name>/_posts`
-7. Create a new blog page
+1. Follow the instructions found on this [blog](https://ddewaele.github.io/running-jekyll-in-docker/)
+2. Create a new blog page
 
 >You need to have these lines at the start of your document (although `categories` is optional):
 
@@ -69,14 +49,12 @@ categories: jekyll update
 ---
 ```
 <!-- markdownlint-disable MD029 -->
-8. Launch your site with Docker
+. Launch your site with Docker
 <!-- markdownlint-enable MD029 -->
 
 ```bash
 docker run -p 4000:4000 -v ${pwd}:/srv/jekyll -it --rm jekyll/jekyll jekyll serve --force_polling
 ```
-
-[More command examples](https://ddewaele.github.io/running-jekyll-in-docker/)
 
 #### Known issues running Docker
 
@@ -125,7 +103,22 @@ Using `--force_polling` should fix the issue.
 ### Prerequisites
 
 - [Docker CE Installed and Configured](https://docs.docker.com/install/linux/docker-ce/ubuntu/)
+  - Alternatively, you can use Snap:
+
+```bash
+sudo snap install docker
+```
 
 ### Steps
+
+1. Follow the instructions found on this [blog](https://ddewaele.github.io/running-jekyll-in-docker/)
+2. Create a new blog post
+
+#### Known Issues
+
+##### Docker permission denied
+
+To avoid using Docker with `sudo`, follow the post install commands found [here](https://docs.docker.com/install/linux/linux-postinstall/).
+Log out and in again.
 
 ## macOS
