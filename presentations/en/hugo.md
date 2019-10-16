@@ -1,15 +1,14 @@
 # Hugo Instructions
 
-- [Hugo Instructions](#hugo-instructions)
-  - [Windows 10](#windows-10)
-    - [Prerequisites](#prerequisites)
-    - [Steps](#steps)
+1. [Windows 10](#windows-10)
+   1. [Prerequisites](#prerequisites)
+   2. [Steps](#steps)
 
 ## Windows 10
 
 ### Prerequisites
 
-* [Hugo Installed and Configured](https://gohugo.io/getting-started/installing/)
+- [Hugo Installed and Configured](https://gohugo.io/getting-started/installing/)
 
 ### Steps
 
