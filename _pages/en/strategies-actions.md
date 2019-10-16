@@ -5,7 +5,7 @@ ref: strategies
 lang: en
 status: posted
 categories: Work In Progress
-permalink: /it-picture-long-term.html
+permalink: /strategies-actions.html
 ---
 
 ## IT Strategies and Actions
