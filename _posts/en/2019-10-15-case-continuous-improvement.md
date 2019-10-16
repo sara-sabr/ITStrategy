@@ -12,7 +12,10 @@ last_modified: "2019-10-15"
 
 In The DevOps Handbook the authors make a case for teams spending at least 20% of their time towards reducing technical debt.
 
-> The deal [between product owners and] engineering goes like this: Product management takes 20% of the team’s capacity right off the top and gives this to engineering to spend as they see fit. They might use it to rewrite, re-architect, or re-factor problematic parts of the code base…whatever they believe is necessary to avoid ever having to come to the team and say, ‘we need to stop and rewrite [all our code].’ If you’re in really bad shape today, you might need to make this 30% or even more of the resources. However, I get nervous when I find teams that think they can get away with much less than 20%.
+> The deal [between product owners and] engineering goes like this: Product management takes 20% of the team’s capacity right off the top and gives this to engineering to spend as they see fit.
+> They might use it to rewrite, re-architect, or re-factor problematic parts of the code base…whatever they believe is necessary to avoid ever having to come to the team and say, ‘we need to stop and rewrite [all our code].’
+> If you’re in really bad shape today, you might need to make this 30% or even more of the resources.
+> However, I get nervous when I find teams that think they can get away with much less than 20%.
 
 I am going to abstract this to suggest that all teams should spend at least 20% of their time improving the way they work.
 In the case of the team I work with, we produce documentation as well as some proof of concepts to demonstrate the effectiveness of our proposed ideas.After work on day I was discussing modeling our team as an Enabling Team, from [Team Topologies](https://itrevolution.com/book/team-topologies/), with a colleague.
