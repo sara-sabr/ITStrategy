@@ -16,13 +16,13 @@ Many of us already know from the [Phoenix Project](https://itrevolution.com/book
 
 ### TLDR
 
-The TLDR of this article is that 'continuous', in more formal terms, means compounding. Or, depending on your preferred jargon, exponential. If you graph output with the Y axis as 'units produced' and X as time, then the team that continously improves will increase their output exponentially. And given some arbitrarily large value n (or as n approaches infinity) then exponetial will always beat linear. Given that our teams exist for some arbitrarily long time (n), then teams who continually improve will be more productive than a team who does not.
+The TLDR of this article is that 'continuous', in more formal terms, means compounding. Or, depending on your preferred jargon, exponential. If you graph output with the Y axis as 'units produced' and X as time, then the team that continously improves will increase their output exponentially. And given some arbitrarily large value n (or as n approaches infinity) then exponential will always beat linear. Given that our teams exist for some arbitrarily long time (n), then teams who continually improve will be more productive than a team who does not.
 
 If that sounded a little math-y or jargon-y, we'll walk through it below.
 
 ## The Case for Continous Improvement
 
-*This demonstrate was created using the fantastic site, [desmos](https://www.desmos.com/calculator).*
+*This demonstration was created using the fantastic site, [desmos](https://www.desmos.com/calculator).*
 
 If we graph f(x) = x we will get a line as follows
 
