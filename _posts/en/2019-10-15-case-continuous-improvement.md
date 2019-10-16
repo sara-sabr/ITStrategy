@@ -26,7 +26,7 @@ If that sounded a little math-y or jargon-y, we'll walk through it below.
 
 If we graph f(x) = x we will get a line as follows
 
-![Graph of f(x) = x](./_includes/_images/drawgraphx.PNG)
+![Graph of f(x) = x](/_includes/_images/drawgraphx.PNG)
 
 We are defining y-axis (the horizontal one) as the total units of business value produced, and the x-axis to be time. The line then, is the total units of business value produced over some unit of time. For the sake of this example, let's say that each increment in x is one month.
 
