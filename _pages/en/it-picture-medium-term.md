@@ -51,9 +51,6 @@ This includes applications (software delivery, operations) and infrastructure (u
 
 #### Cultural
 
-- [https://cloud.google.com/solutions/devops/devops-culture-learning-culture](https://cloud.google.com/solutions/devops/devops-culture-learning-culture)
-- [https://cloud.google.com/solutions/devops/devops-culture-job-satisfaction](https://cloud.google.com/solutions/devops/devops-culture-job-satisfaction)
-- [https://cloud.google.com/solutions/devops/devops-culture-westrum-organizational-culture](https://cloud.google.com/solutions/devops/devops-culture-westrum-organizational-culture)
 - [The DevOps Handbook](https://itrevolution.com/book/the-devops-handbook/)
 - [A typology of organisational cultures](https://qualitysafety.bmj.com/content/qhc/13/suppl_2/ii22.full.pdf)
 - [Team Topologies](https://itrevolution.com/book/team-topologies/)
@@ -70,17 +67,17 @@ The organization learns from failure, holds blameless postmortems and continuous
 
 Teams spend 20% of their time at work focusing on automation of current processes, prototyping related technologies or keeping up to date with trends and technologies, related to their work or the broader GC IT direction.
 Employees with great innovation-related skills are encouraged to spend more than 20% of their time to these tasks.
-Said time also includes time for informal, self-directed, on-the-job learning and completing courses or attending conferences.
+Said time also includes time for informal, self-directed, on-the-job [learning](https://cloud.google.com/solutions/devops/devops-culture-learning-culture) and completing courses or attending conferences.
 The budget for learning opportunities has increased every year for the past 5 years.
 
 Employees attend presentations and events, which are held at least once a month by IT and provide opportunities and spaces for employees to learn and share their knowledge, such as a project they are working on or something they are researching.
 People who attend conferences or take courses share their learning via presentations or trip reports.
 IT employees are encouraged to complete online courses and form study groups as part of normal work activity.
 
-Cooperation between IT and business has increased and there is a conscious effort to break down silos.
+[Cooperation](https://cloud.google.com/solutions/devops/devops-culture-westrum-organizational-culture) between IT and business has increased and there is a conscious effort to break down silos.
 Responsibility for building, deploying and maintaining systems, is shared by cross-functional teams that include representatives from each functional area of the software delivery process (business analysts, developers, quality engineers, operations, security, ...).
 
-Overall employees working in IT at ESDC are happier, more productive and more up to date on technology, making them better able to support the evolving needs of the department so that it can deliver more efficient services to Canadians.
+Overall employees working in IT at ESDC are [happier](https://cloud.google.com/solutions/devops/devops-culture-job-satisfaction), more productive and more up to date on technology, making them better able to support the evolving needs of the department so that it can deliver more efficient services to Canadians.
 
 #### Process
 
@@ -108,7 +105,6 @@ Monitoring towards achievement of desired outcomes is used as project metrics as
 
 #### Technical
 
-- [https://cloud.google.com/solutions/devops/devops-tech-version-control](https://cloud.google.com/solutions/devops/devops-tech-version-control)
 - [https://cloud.google.com/solutions/devops/devops-tech-continuous-integration](https://cloud.google.com/solutions/devops/devops-tech-continuous-integration)
 - [https://cloud.google.com/solutions/devops/devops-tech-deployment-automation](https://cloud.google.com/solutions/devops/devops-tech-deployment-automation)
 - [https://cloud.google.com/solutions/devops/devops-tech-trunk-based-development](https://cloud.google.com/solutions/devops/devops-tech-trunk-based-development)
@@ -123,7 +119,7 @@ Teams are able to provision an environment or device in an automated fashion, an
 Production services can be restored repeatedly and predictably even when catastrophic events occur.
 Chaos Engineering is being considered for use to build confidence in systems' capabilities to withstand unexpected conditions.
 
-Source code, assets, configurations, or other documents part of a project's development and deployment are stored in a version control system that records changes to files.
+Source code, assets, configurations, or other documents part of a project's development and deployment are stored in a [version control](https://cloud.google.com/solutions/devops/devops-tech-version-control) system that records changes to files.
 Changes trigger automated tests and a build process that creates packages (executable, container, virtual machine, ...) that can be deployed to any environment (testing or production) in an automated way.
 Operations and infrastructure have moved towards automation as much as possible, being able to shift workloads and runtime from one service provider to another as it needs to.
 Builds are numbered, repeatable and being run on demand by teams giving them quick feedback on their small batches of work.
