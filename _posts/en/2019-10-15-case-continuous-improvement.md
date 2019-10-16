@@ -77,7 +77,7 @@ f(x) = x<sup>1+[the amount of productivity increase we expect per month spent co
 That's really long to say, so if we set [the amount of productivity increase we expect per month spent continuously improving] = r, then we have
 
 <!-- markdownlint-disable MD033 -->
-x<sup>2<sup> = x<sup>1+r<sup>
+x<sup>2</sup> = x<sup>1+r</sup>
 <!-- markdownlint-enable MD033 -->
 
 Where r is some percentage in increased productivity.
