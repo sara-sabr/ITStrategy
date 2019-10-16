@@ -176,7 +176,7 @@ Here we're going to use a little math trickery with some basic [integration](htt
 Step one here is to answer the question, "Well exactly how much time am I losing when I choose to invest in continuous learning?" Should I invest 20% of my time for a 10% trade off? Or would it be better to invest 30% of my time for a 20% trade off? To answer this question, we'll need to learn more about the relationships between our two curves.
 More precisely, we need to know the area between the two curves.
 Luckily with desmos the heavy lifting is done for us.
-If you haven't already done so, click [here](https://www.desmos.com/calculator/bfk9p5ho7f) for an example.
+If you haven't already done so, click [here](https://www.desmos.com/calculator/ouestfova3) for an example.
 You should see something as follows
 
 ![Area between curves]({{site.baseurl}}/assets/images/areaundercurve.PNG)
@@ -192,24 +192,20 @@ f(x) <= y <= F(x)
 ```
 
 And above you should see that one line 1 and 2 we have defined f(x) and F(x), respectively, as we covered above.
-The last little detail we are missing is the { x > 0 } which is specifying to only draw the line where x > 0 (to prevent the lines from going past the x-axis which adds noise to our graph).
+A small detail we glanced over before is the { x > 0 }, which is specifying to only draw the line where x > 0 (to prevent the lines from going past the x-axis which adds noise to our graph).
 
-You will also notice that in our picture of the integral is displayed a number, ~18.075.This is the area between the function f(x) and F(x).
-Why is this important? This represents the size of the difference between what you would have delivered had you not started to continuously improve.
-Why do we care about this? You will notice that if you increase the value of *l* (which is the time spent on improvement), that your lines now intercept at 13.786.
-If you plug this back into the integral you will observe that the new area under the curve becomes 89.144.
-This is of course, however, because we did not increase the rate of improvement we experience by investing another 10% of our time.
-If we were to do so, we would observe that the area of the curve declines.
-Click [here](https://www.desmos.com/calculator/bfk9p5ho7f) for an example.
+You will also notice that in our picture of the integral is displayed a number, ~18.075. This is the area under the curve *f(x)* between x=0 and x=6.192.
+Next we find the area under F(x) (which was equal x), which is *(width * height) / 2* (the area of a triangle), which is ~19.17.
+Then, on line 8, we substract the integral from the triangle to find the area of the curve that is under F(x) which is not under f(x).
+In our case, this turns out to be
 
-As we covered above, however, an exponent will eventually always outgrow a linear function.
-This is to say
+19.17 - 18.075 ~= 1.0953
 
-<!-- markdownlint-disable MD033 -->
-x<sup>1.1</sup> beats (x*.2) as x approaches infinity
-<!-- markdownlint-enable MD033 -->
+In this case then, we can say that we have lost ~1.0953 units of productivity initially when we started working continuously, if we spend 20% of our time in order to increase our efficiency by 10%.
 
-More formally we could say that as the limit of x approaches infinite, f(infinity) = infinity.
+Why is this important? This represents the size of the difference between what you would have delivered had you not started to continuously improve. It can give us useful insights about how to play with *r* versus *l* to realize the greatest efficiency gains. For example, if we were to realize even greater efficiency gains for our 20% time investment, the area of the curve would decrease even more.
+
+Click [here](https://www.desmos.com/calculator/25lw1aqjg0) for an example. Here we assume that for 20% time investment we realize a 20% efficiency gain. In this case the area of the space between the curves is reduced to ~0.3377
 
 The relevant question for one here is, what is more important to your team? Being as productive as possible as quickly as possible, or is it acting in such a way that one is able to continually improve, though with the smallest possible impact on their clients and ability to produce.
 
@@ -218,37 +214,29 @@ _____
 **Option 1**: It is more important to become as productive as possible, as quickly as possible
 
 If this is your team, then you should opt for a situation where the team can maximize *r* as quickly as possible, even if it requires a higher-time investment.
+As x increases, the exponential curve will continue to grow faster and faster than the linear function. Therefore, it is more important to maximize *r* than it is to minimize *l*.
 
 **Option 2**: Begin to continuously improve while still meeting the current expectations as best as possible.
 
-This is where things can become a little counter-intuitive.
-We will see that while lowering *l* (the amount of effort put into continuous improvement), assuming *r* decreases by an equivalent amount, the area between the curves will actually increase.
-To reduce the area between the curves, which represents the initial units of productivity lost when initially dedicating some percentage of our time to continuous improvement.
-
 *The Intuitive Option*: Minimize *l* such that a small percentage of our time is dedicated to continuous learning so that we can continue to deliver on our responsibilities.
 
-*The Better Option*: Pick the lowest value of *l* such that it maximizes the value of *r*
+*The Better Option*: Pick the lowest value of *l* **such that it maximizes the value of *r***
 
 In the Phoenix Project, the company stops all projects to focus on improving the way they work.
 Following this, they are able to deliver and meet all of their deadlines and successfully deliver the previously doomed project.
 How would we demonstrate that this is in fact the optimal approach to take? We already have the tools to do so above!
 
-Because the first part of the function (x^(1+r)) grows exponentially, while the second is linear ((x*l)), it is most important to prioritize the growth of *r* than it is to invest the least amount of time possible in continuous improvement.
 Let's do an example.
 
-If we set *l* = 30% and *r* = 20%, then we will find the area between the curves, that is the total initial lost productivity, is ~6.0785
+If we set *l* = 30% and *r* = 20%, then we will find the area between the curves, that is the total initial lost productivity, is ~0.8146 (confirm [here](https://www.desmos.com/calculator/softsyrau5))
 
-If this is your team’s situation, then what is important for you is trying to find the best possible ratio is maximized between *r* and *l* (confirm [here](https://www.desmos.com/calculator/9ddu4s8fpy)).
-Conversely, if we were to keep the same ration (3:2) (that is to say, the same amount of effort will result in the same amount of efficiency gain) and reduce the amount of time invested by half
+Perhaps this loss in efficiency is unacceptable to an operations team. What is to be done then?
 
-- Let *l* = 15%
-- Let *r* = 10%
+What we recommend is identifying quick wins. Find the set of tasks that given the smallest amount of time invested, *l*, will realize the greatest efficiency gains.
 
-Then we will find that the area between the curves is now ~7.7369.
-In conclusion, if one is trying to minimize the loss of productivity, it is better to invest large amounts of time and increase *r*, the rate of productivity, quickly, than it is to prioritize a low value of *l* that lowers *r*.
+If 30% of time dedicated to continuous improvement is too high though we know a few common pain points that would greatly simplify the lives of the team members, perhaps for investing 10% of our time we could still realize 15% rate of improvement. In this case, if we plug these numbers into our functions (as we have done [here](https://www.desmos.com/calculator/caztdlledj)), you will find that our new area between the curves is ~0.1367. By reducing the value of *l* we have reduced the area between the curves (productivity lost), while maximizing the value of *r*, which, due to the relationship between exponential and linear functions, is our priority.
 
-We are, of course, ignoring that eventually one will find that after some time, the ratio will eventually decline (that is, per unit of x spent on improving, the ROI in said investment will decline as time increases).
-It is for this reason that a prolonged elevated value of *r* is likely inadvisable (though a more rigorous analysis would be helpful, and in the future it would be great to add that here).
+This quick win trade off is a short term game, however, as you cannot expect that ratio between l:r to continue at that rate forever. Once your team has stopped working at 120% through quick wins, it is time to settle into a constant rate of continuous improvement for your team. As we covered above, around 20% is likely the lowest you would want to go. The key is to find a value that is sustainable for your team, as the real magic we are trying to leverage is the power of the *continuous* or *compounding* improvement, so that we benefit from exponential efficiency gains.
 
 In conclusion, if one if looking for maximum productivity it is best to maximize the value of *r*, and if one is looking to minimize the impact to their current services one should find the lowest value of *l* such that it maximizes the possible value for *r*.
 
