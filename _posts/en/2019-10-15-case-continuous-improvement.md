@@ -134,9 +134,30 @@ _____
 
 If this is your team, then you should opt for a situation where the team can maximize *r* as quickly as possible, even if it requires a higher time investment.
 
-**Option 2**: It is more important to continue to deliver the services my team prodives
+**Option 2**: Begin to continuously improve while still meeting the current expectations as best as possible.
 
-If this is your teams situation, then what is important for you is trying to find the best possible ratio is maximized between *r* and *l*.
+This is where things can become a little counter intuitive. We will see that while lowering *l* (the amount of effort put into continuous improvement), assuming *r* decreases by an equivalent amount, the area between the curves will actually increase. To reduce the area between the curves, which represents the initial units of productivity lost when initially dedicating some percentage of our time to continuous improvement.
+
+*The Intuitive Option*: Minimize *l* such that a small percentage of our time is dedicated to continuous learning so that we can continue to deliver on our responsibilities.
+
+*The Better Option*: Pick the lowest value of *l* such that it maximizes the value of *r*
+
+In the Phoenix Project the company stops all projects to focus on improving the way they work. Following this, they are able to deliver and meet all of their deadlines and successfully deliver the previously doomed project. How would be demonstrate that this is in fact the optimal approach to take? We already have the tools to do so above!
+
+Because the first part of the function (x<sup>1+r<sup>) grows exponentially, while the second is linear ((x*l)), it is most important to prioritize the growth of *r* than it is to invest the least amount of time possible in continuous improvement. Let's do an example.
+
+If we set *l* = 30% and *r* = 20%, then we will find the area between the curves, that is the total initial lost productivity, is ~6.0785
+
+If this is your teams situation, then what is important for you is trying to find the best possible ratio is maximized between *r* and *l* (confirm [here](https://www.desmos.com/calculator/9ddu4s8fpy)). Conversely, if we were to keep the same ration (3:2) (that is to say, the same amount of effort will result in the same amount of efficiency gain) and reduce the amount of time invested by half
+
+- Let *l* = 15%
+- Let *r* = 10%
+
+Then we will find that the area between the curves is now ~7.7369. In conclusion, if one is trying to mimimize the loss of productivity, it is better to invest large amounts of time and increase *r*, the rate of productivity, quickly, than it is to prioritize a low value of *l* that lowers *r*. 
+
+We are, of course, ignoring that eventually one will find that after some time, the ratio will eventually decline (that is, per unit of x spent on improving, the ROI in said investment will decline as time increases). It is for this reason that a prolongued elevated value of *r* is likely inadvisable (though a more rigorous analysis would be helpful, and in the future it would be great to add that here).
+
+In conclusion, if one if looking for maximum productivity it is best to maximze the value of *r*, and if one is looking to minimize the impact to their current services one should find the lowest value of *l* such that it maximizes the possible value for *r*.
 
 _____
 
