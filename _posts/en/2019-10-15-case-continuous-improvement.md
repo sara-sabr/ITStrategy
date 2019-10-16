@@ -211,6 +211,10 @@ The relevant question for one here is, what is more important to your team? Bein
 
 _____
 
+In the Phoenix Project, the company stops all projects to focus on improving the way they work.
+Following this, they are able to deliver and meet all of their deadlines and successfully deliver the previously doomed project.
+How would we demonstrate that this is in fact the optimal approach to take? We already have the tools to do so above!
+
 **Option 1**: It is more important to become as productive as possible, as quickly as possible
 
 If this is your team, then you should opt for a situation where the team can maximize *r* as quickly as possible, even if it requires a higher-time investment.
@@ -222,10 +226,6 @@ As x increases, the exponential curve will continue to grow faster and faster th
 
 *The Better Option*: Pick the lowest value of *l* **such that it maximizes the value of *r***
 
-In the Phoenix Project, the company stops all projects to focus on improving the way they work.
-Following this, they are able to deliver and meet all of their deadlines and successfully deliver the previously doomed project.
-How would we demonstrate that this is in fact the optimal approach to take? We already have the tools to do so above!
-
 Let's do an example.
 
 If we set *l* = 30% and *r* = 20%, then we will find the area between the curves, that is the total initial lost productivity, is ~0.8146 (confirm [here](https://www.desmos.com/calculator/softsyrau5))
@@ -236,9 +236,9 @@ What we recommend is identifying quick wins. Find the set of tasks that given th
 
 If 30% of time dedicated to continuous improvement is too high though we know a few common pain points that would greatly simplify the lives of the team members, perhaps for investing 10% of our time we could still realize 15% rate of improvement. In this case, if we plug these numbers into our functions (as we have done [here](https://www.desmos.com/calculator/caztdlledj)), you will find that our new area between the curves is ~0.1367. By reducing the value of *l* we have reduced the area between the curves (productivity lost), while maximizing the value of *r*, which, due to the relationship between exponential and linear functions, is our priority.
 
-This quick win trade off is a short term game, however, as you cannot expect that ratio between l:r to continue at that rate forever. Once your team has stopped working at 120% through quick wins, it is time to settle into a constant rate of continuous improvement for your team. As we covered above, around 20% is likely the lowest you would want to go. The key is to find a value that is sustainable for your team, as the real magic we are trying to leverage is the power of the *continuous* or *compounding* improvement, so that we benefit from exponential efficiency gains.
+This quick win trade off is a short term game, however, as you cannot expect that ratio between *l*:*r* to continue at that rate forever. Once your team has stopped working at 120% through quick wins, it is time to settle into a constant rate of continuous improvement for your team. As we covered above, around 20% is likely the lowest you would want to go. The key is to find a value that is sustainable for your team, as the real magic we are trying to leverage is the power of the *continuous* or *compounding* improvement, so that we benefit from exponential efficiency gains.
 
-In conclusion, if one if looking for maximum productivity it is best to maximize the value of *r*, and if one is looking to minimize the impact to their current services one should find the lowest value of *l* such that it maximizes the possible value for *r*.
+In conclusion, if one i looking for maximum productivity it is best to maximize the value of *r*, and if one is looking to minimize the impact to their current services one should find the lowest value of *l* such that it maximizes the possible value for *r*.
 
 _____
 
