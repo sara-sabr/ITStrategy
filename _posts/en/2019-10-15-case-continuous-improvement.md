@@ -83,6 +83,7 @@ Next we will pick some values that make sense. As discussed, in The DevOps Handb
 Now how much improvement do we expect from 20% of our time being spent on improvements? As a government employee, I know in certain cases this return can be gargantuan. For example, [Estonia claims they save 820 years of working time annually through their use of automated digital services](https://e-estonia.com/how-save-annually-820-years-of-work/). For our example, however, as we will see, the rate of improvement is not all that important. You will always eventually become more productive if you continually improve for long enough. Alright then, let's choose 10%, which is the same as 0.1. So we are assuming for each unit of time for which you spent 20% of your time, you get half as much effecient for the time invested. Conservative, at best. Our function then becomes
 
 f(x) = x<sup>1+0.1</sup> - (x*.2)
+
 f(x) = x<sup>1.1</sup> - (x*.2)
 
 And if we graph this, we will get the following curve
