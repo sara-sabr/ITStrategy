@@ -36,29 +36,25 @@ What's the alternative? Continuous improvement.
 
 If we continue to improve our processes and tools week after week, we will continously improve, thereby becoming able to produce more business value over a given time. This should give us an exponential curve, which looks something like this
 
-```html
+<!-- markdownlint-disable MD033 -->
 f(x) = x<sup>2</sup>
-```
+<!-- markdownlint-enable MD033 -->
 
 ![Graph of f(x) = x^2](/assets/images/drawgraphx2.PNG)
 
 The most obvious thing we notice is that the exponential function grows much faster. One may counter, however, that there is an initial loss in productivity if one spends time improving rather than actually *doing work*, so we must account for this. Do do this, we must subtract some value from *f(x)* to account for the lost productivity. For each increment in time, then, we will lose some percentage of our time. Where x represents time, this can be written as
 
-```html
 x * [some percentage of productivity lost]
-```
 
 Or, to be more succinct, we can replace [some percentage of productivity lost] with *l*. Then we will have
 
-```html
 x * *l*, where *l* is the amount of time spent per day on improving
-```
 
 With this addition, we have
 
-```html
+<!-- markdownlint-disable MD033 -->
 f(x) = x<sup>2</sup> - (x*l)
-```
+<!-- markdownlint-enable MD033 -->
 
 What happens when we graph this? Well let's assume we spent 20% of our day on continuous improvement. Then we lose 20% of our productivity per month.
 
@@ -66,44 +62,44 @@ What happens when we graph this? Well let's assume we spent 20% of our day on co
 
 Notice at the bottom that the curve flattens out slightly. This decrease in productivity is always present as x (the amount of time) increases. However, [an exponent will always beat a linear progression](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:exponential-growth-decay/x2f8bb11595b61c86:exponential-vs-linear-growth/v/exponential-vs-linear-growth). The next obvious step would be to then graph our "as is" way of working versus out continuous improvement method of working, and see how long it would take before a continuously improving team will take before it is more productive than the team who continues to work the same way, day after day. Before that, however, in our previous calculation we used x^2, which is a curve that grows very quickly, and up until now, we have not justified our selection of the arbitrary value of 2. Another way we could have written this is
 
-```html
+<!-- markdownlint-disable MD033 -->
 x<sup>2</sup> = x<sup>1+1</sup>
-```
+<!-- markdownlint-enable MD033 -->
 
 When talking about percentage points we calculate using decimal points. Therefore, 1 = 1.0 = 100%. Therefore, as we had it written previously we are claiming that our productivity increases by 100% per day! If anyone has figured out how to do this, we'd love to hear from you! Unfortunately, if you live in the realm of mere mortals like me, 100% productivity increase per day is likely unattainable.
 
 We can re-write our productivity increase function as follows
 
-```html
-f(x) = x<sup>1+[the amount of productivity increase we expect per month spent continuously improving]<sup>
-```
+<!-- markdownlint-disable MD033 -->
+f(x) = x<sup>1+[the amount of productivity increase we expect per month spent continuously improving]</sup>
+<!-- markdownlint-enable MD033 -->
 
 That's really long to say, so if we set [the amount of productivity increase we expect per month spent continuously improving] = r, then we have
 
-```html
+<!-- markdownlint-disable MD033 -->
 x<sup>2<sup> = x<sup>1+r<sup>
-```
+<!-- markdownlint-enable MD033 -->
 
 Where r is some percentage in increased productivity.
 
 Alright. We're almost there! Our function for mapping how productive a continously improving team is looks something like this
 
-```html
+<!-- markdownlint-disable MD033 -->
 f(x) = x<sup>1+r</sup> - (x*l)
+<!-- markdownlint-enable MD033 -->
 
 - Where *r* is equal to the rate of improvement
 - And *l* is equal to the amount of time we have spent continously improving
-```
 
 Next we will pick some values that make sense. As discussed, in The DevOps Handbook they recommend %20 of your time be spent on reducing technical debt or process improvement. So for *l* we will pick 20%, or 0.2
 
 Now how much improvement do we expect from 20% of our time being spent on improvements? As a government employee, I know in certain cases this return can be gargantuan. For example, [Estonia claims they save 820 years of working time annually through their use of automated digital services](https://e-estonia.com/how-save-annually-820-years-of-work/). For our example, however, as we will see, the rate of improvement is not all that important. You will always eventually become more productive if you continually improve for long enough. Alright then, let's choose 10%, which is the same as 0.1. So we are assuming for each unit of time for which you spent 20% of your time, you get half as much effecient for the time invested. Conservative, at best. Our function then becomes
 
-```html
+<!-- markdownlint-disable MD033 -->
 f(x) = x<sup>1+0.1</sup> - (x*.2)
 
 f(x) = x<sup>1.1</sup> - (x*.2)
-```
+<!-- markdownlint-enable MD033 -->
 
 And if we graph this, we will get the following curve
 
@@ -143,9 +139,9 @@ You will also notice that in our picture of the integral is displayed a number, 
 
 As we covered above, however, an exponent will eventually always outgrow a linear function. This is to say
 
-```html
+<!-- markdownlint-disable MD033 -->
 x<sup>1.1</sup> beats (x*.2) as x approaches infinty
-```
+<!-- markdownlint-enable MD033 -->
 
 More formally we could say that as the limit of x approaches infinite, f(infinity) = infinity.
 
@@ -210,9 +206,9 @@ On desmos I couldn't figure out how to store the x coordinate of where the lines
 
 Given the function
 
-```html
+<!-- markdownlint-disable MD033 -->
 f(x) = x<sup>1+*r*</sup> - x**l*
-```
+<!-- markdownlint-enable MD033 -->
 
 As x grows there should be some function by which the exponent 1+*r* begins to reduce, as the quick wins are solved it will gradually take more effort to realize the same amount of effeciency.
 
