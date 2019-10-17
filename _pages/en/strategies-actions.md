@@ -24,7 +24,7 @@ permalink: /strategies-actions.html
 #### Align with GC Direction Digital Standards and Policy on Service and Digital
 
 - [A service-oriented government with a user-centred approach that puts people and their needs as the primary focus of our work.](https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html)
-- [Cloud-first](https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html) [policy](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=12755)
+- Cloud-first [Plan](https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html#ToC10_1), [Policy](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=12755) and [Adoption Strategy](https://www.canada.ca/en/government/system/digital-government/modern-emerging-technologies/cloud-services/government-canada-cloud-adoption-strategy.html#toc6)
 - IT teams must work in the open (data, information, projects, code), and not doing so is the exception.
 - EA must actively and fairly consider open standards (data formats/protocols) and open source software for all new purchases, upgrades or migrations (including cloud solutions).
 - Services must be made accessible as APIs and available on the API store
