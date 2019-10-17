@@ -8,6 +8,9 @@
     - [Prerequisites](#prerequisites-1)
     - [Steps](#steps-1)
   - [macOS](#macos)
+    - [Prerequisites](#prerequisites-2)
+    - [Steps](#steps-2)
+    - [Troubleshooting](#troubleshooting)
 
 ## Windows 10
 
@@ -41,3 +44,9 @@ docker run --rm -it -v $PWD:/src -p 1313:1313 -u hugo jguyomard/hugo-builder hug
 ```
 
 ## macOS
+
+### Prerequisites
+
+### Steps
+
+### Troubleshooting

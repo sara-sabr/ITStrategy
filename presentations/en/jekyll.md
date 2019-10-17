@@ -1,19 +1,23 @@
 # Jekyll Instructions
 
-- [Windows 10](#windows-10)
-  - [Prerequisites](#prerequisites)
-  - [Steps](#steps)
-  - [Troubleshooting Docker](#troubleshooting-docker)
-    - [Invalid Reference Format](#invalid-reference-format)
-    - [Shared Drive](#shared-drive)
-    - [Local IP Address](#local-ip-address)
-    - [Blog Posts Not Updated](#blog-posts-not-updated)
-- [Linux](#linux)
-  - [Prerequisites](#prerequisites-1)
-  - [Steps](#steps-1)
-  - [Troubleshooting](#troubleshooting)
-    - [Docker permission denied](#docker-permission-denied)
-- [macOS](#macos)
+- [Jekyll Instructions](#jekyll-instructions)
+  - [Windows 10](#windows-10)
+    - [Prerequisites](#prerequisites)
+    - [Steps](#steps)
+    - [Troubleshooting Docker](#troubleshooting-docker)
+      - [Invalid Reference Format](#invalid-reference-format)
+      - [Shared Drive](#shared-drive)
+      - [Local IP Address](#local-ip-address)
+      - [Blog Posts Not Updated](#blog-posts-not-updated)
+  - [Linux](#linux)
+    - [Prerequisites](#prerequisites-1)
+    - [Steps](#steps-1)
+    - [Troubleshooting](#troubleshooting)
+      - [Docker permission denied](#docker-permission-denied)
+  - [macOS](#macos)
+    - [Prerequisites](#prerequisites-2)
+    - [Steps](#steps-2)
+    - [Troubleshooting](#troubleshooting-1)
 
 ## Windows 10
 
@@ -123,4 +127,8 @@ Log out and in again.
 
 ## macOS
 
-###
+### Prerequisites
+
+### Steps
+
+### Troubleshooting
