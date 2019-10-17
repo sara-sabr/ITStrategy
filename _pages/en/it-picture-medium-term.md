@@ -51,10 +51,6 @@ This includes applications (software delivery, operations) and infrastructure (u
 
 #### Cultural
 
-- [The DevOps Handbook](https://itrevolution.com/book/the-devops-handbook/)
-- [A typology of organisational cultures](https://qualitysafety.bmj.com/content/qhc/13/suppl_2/ii22.full.pdf)
-- [Team Topologies](https://itrevolution.com/book/team-topologies/)
-
 Employees feel that their work is meaningful and leverages their expertise.
 They have the tools and resources necessary to get work done.
 These include technical resources, such as access to servers or environments necessary to develop and test, or learning resources to acquire new skills.
@@ -79,9 +75,12 @@ Responsibility for building, deploying and maintaining systems, is shared by cro
 
 Overall employees working in IT at ESDC are [happier](https://cloud.google.com/solutions/devops/devops-culture-job-satisfaction), more productive and more up to date on technology, making them better able to support the evolving needs of the department so that it can deliver more efficient services to Canadians.
 
-#### Process
+##### Additional reading
 
-- [The DevOps Handbook](https://itrevolution.com/book/the-devops-handbook/)
+- [Article: A typology of organisational cultures](https://qualitysafety.bmj.com/content/qhc/13/suppl_2/ii22.full.pdf)
+- [Book: Team Topologies](https://itrevolution.com/book/team-topologies/)
+
+#### Process
 
 Processes empower cross-functional teams and allow them to [work on new ideas](https://cloud.google.com/solutions/devops/devops-process-team-experimentation) in pursuit of business goals that solve important problems.
 Information is treated as a corporate asset -- it is open by default, easily searchable, secure and not duplicated.
@@ -100,10 +99,6 @@ Monitoring towards achievement of desired outcomes is used as project metrics as
 
 #### Technical
 
-- [https://cloud.google.com/solutions/devops/devops-tech-test-data-management](https://cloud.google.com/solutions/devops/devops-tech-test-data-management)
-- [https://cloud.google.com/solutions/devops/devops-tech-shifting-left-on-security](https://cloud.google.com/solutions/devops/devops-tech-shifting-left-on-security)
-- [The DevOps Handbook](https://itrevolution.com/book/the-devops-handbook/)
-
 [Teams are able](https://cloud.google.com/solutions/devops/devops-tech-architecture) to provision an environment or device in an automated fashion, and know that any new environment or device generated from the same configuration is identical.
 Production services can be restored repeatedly and predictably even when catastrophic events occur.
 Chaos Engineering is being considered for use to build confidence in systems' capabilities to withstand unexpected conditions.
@@ -114,7 +109,7 @@ Operations and infrastructure have moved towards automation as much as possible,
 Builds are numbered, repeatable and being run on demand by teams giving them quick feedback on their [small batches of work](https://cloud.google.com/solutions/devops/devops-tech-trunk-based-development).
 Team members prioritize review of coworkers' changes to ensure that they don't have to wait days to get merged and deployed.
 The build status of projects is visible to the department.
-Teams have access to adequate test data to run [automated tests](https://cloud.google.com/solutions/devops/devops-tech-test-automation) for projects.
+Teams have access to adequate [test data](https://cloud.google.com/solutions/devops/devops-tech-test-data-management) to run [automated tests](https://cloud.google.com/solutions/devops/devops-tech-test-automation) for projects.
 
 Enterprise Architecture (EA) enables agility by [empowering teams to choose tools and technologies](https://cloud.google.com/solutions/devops/devops-tech-teams-empowered-to-choose-tools), rapidly responding to new standards adoption, as well as providing light reference architectures.
 EA enables ESDC to re-use investments via capability-based planning and influences where the department's investments need to be allocated.
@@ -123,12 +118,12 @@ EA and security periodically evaluate how well current tools address requirement
 New technologies are also proactively investigated and opportunities are provided to discuss and demonstrate new technologies for the standard technology stacks.
 The Total Cost of Ownership (TCO), including exit costs, is calculated as part of solution options analysis.
 
-The security team is involved in the design phase of all projects and a security review is now a gating factor for releasing the design to the development stage.
+The [security team is involved in the design phase](https://cloud.google.com/solutions/devops/devops-tech-shifting-left-on-security) of all projects and a security review is now a gating factor for releasing the design to the development stage.
 Security tests are built into the automated testing process and identify common security vulnerabilities.
 Also, the Privacy by design approach is taken into account throughout the whole engineering process.
 
 Teams must experience their own processes and procedures to properly appreciate their potential shortcomings.
-By implementing a [service culture](service-culture.html) each team is responsible for providing digital services to their clients (portals and automated processes rather than generic mailboxes), meaning they must interact with the processes and procedures of the [stream aligned teams](https://itrevolution.com/book/project-to-product/).
+By implementing a [service culture](service-culture.html) each team is responsible for providing digital services to their clients (portals and automated processes rather than generic mailboxes), meaning they must interact with the processes and procedures of the stream aligned teams.
 Security must code and use public or government wide version control solutions.
 Enterprise Architecture must code and use public or government wide version control solutions.
 Testers must code and use public or government wide version control solutions.
@@ -136,21 +131,19 @@ Operations must code and use public or government wide version control solutions
 
 #### Measurement
 
-- [https://cloud.google.com/solutions/devops/devops-measurement-monitoring-systems](https://cloud.google.com/solutions/devops/devops-measurement-monitoring-systems)
-- [https://cloud.google.com/solutions/devops/devops-measurement-proactive-failure-notification](https://cloud.google.com/solutions/devops/devops-measurement-proactive-failure-notification)
-- [https://cloud.google.com/solutions/devops/devops-measurement-wip-limits](https://cloud.google.com/solutions/devops/devops-measurement-wip-limits)
-- [https://cloud.google.com/solutions/devops/devops-measurement-visual-management](https://cloud.google.com/solutions/devops/devops-measurement-visual-management)
-- [Project to Product](https://itrevolution.com/book/project-to-product/)
-- [The DevOps Handbook](https://itrevolution.com/book/the-devops-handbook/)
-- [War And Peace And IT](https://itrevolution.com/book/war-and-peace-and-it/)
+IT teams use software that [collect data throughout the value chain](https://cloud.google.com/solutions/devops/devops-measurement-monitoring-systems) and [aggregates it to serve different audiences](https://cloud.google.com/solutions/devops/devops-measurement-visual-management).
 
-IT teams use software that collects data throughout the value chain and aggregates it to serve different audiences.
+Teams have established [Work In Progress (WIP) limits](https://cloud.google.com/solutions/devops/devops-measurement-wip-limits) based on team capacity and assigned workload, in order to prioritize and focus on completing a small number of high-priority tasks.
 
-Teams have established Work In Progress (WIP) limits based on team capacity and assigned workload, in order to prioritize and focus on completing a small number of high-priority tasks.
-
-IT teams provide proactive failure notifications, using key indicators and thresholds in monitoring software.
+IT teams provide [proactive failure notifications](https://cloud.google.com/solutions/devops/devops-measurement-proactive-failure-notification), using key indicators and thresholds in monitoring software.
 They get alerted before an application fails and proactively resolve issues before they impact users.
 Following the diagnosis of incidents, indicators that could have predicted the incident are added to monitoring.
 
 Applications, mapped to business line services, provide metrics on the overall health of the department's services to Canadians.
 Business line performance metrics are used as benchmarks and the accountability of IT's impact to ESDC's mandate is shared.
+
+### Additional Reading
+
+- [Book: The DevOps Handbook](https://itrevolution.com/book/the-devops-handbook/)
+- [Book: Project to Product](https://itrevolution.com/book/project-to-product/)
+- [Book: War And Peace And IT](https://itrevolution.com/book/war-and-peace-and-it/)
