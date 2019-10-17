@@ -266,7 +266,7 @@ Once your team has stopped working at 120% through quick wins, it is time to set
 As we covered above, around 20% is likely the lowest you would want to go.
 The key is to find a value that is sustainable for your team, as the real magic we are trying to leverage is the power of the *continuous* or *compounding* improvement, so that we benefit from exponential efficiency gains.
 
-In conclusion, if one i looking for maximum productivity it is best to maximize the value of *r*, and if one is looking to minimize the impact to their current services one should find the lowest value of *l* such that it maximizes the possible value for *r*.
+In conclusion, if one is looking for maximum productivity it is best to maximize the value of *r*, and if one is looking to minimize the impact to their current services one should find the lowest value of *l* such that it maximizes the possible value for *r*.
 
 _____
 
@@ -284,7 +284,7 @@ i = business value/velocity
 ```
 
 which will give you the amount of business value produced per unit of effort required.
-Week after week as you compute this value, compute the rate of change of i.
+Week after week as you compute this value, compute the rate of change of *i*.
 This will, over time, give you the rate at which you are improving over some interval of time.
 
 Granted, this is assuming no significant changes in the team, and that humans, given changing circumstances, continue to give consistent evaluations throughout the process.
