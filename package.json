@@ -11,7 +11,7 @@
     "open-licences": "licensee --errors-only",
     "licence-compatibility": "license-compatibility-checker",
     "site-validator": "site-validator https://sara-sabr.github.io/ITStrategy/ --verbose",
-    "test": "npm run lint && npm run lint-editorconfig && npm run spellcheck && npm run link-check && npm run open-licences",
+    "test": "npm run lint && npm run lint-editorconfig && npm run spellcheck && npm run link-check && npm run open-licences && npm audit",
     "other-tests": "npm run site-validator && npm rum licence-compatibility"
   },
   "repository": {
