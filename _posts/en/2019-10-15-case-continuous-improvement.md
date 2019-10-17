@@ -220,6 +220,20 @@ How would we demonstrate that this is in fact the optimal approach to take? We a
 If this is your team, then you should opt for a situation where the team can maximize *r* as quickly as possible, even if it requires a higher-time investment.
 As x increases, the exponential curve will continue to grow faster and faster than the linear function. Therefore, it is more important to maximize *r* than it is to minimize *l*.
 
+One may say, "well in that case, I could maximize *r* by setting *l* to 100%, in which case all one would do is spend time improving rather than delivering to their users or clients." You could! And in the Phoenix Project that is what they do! Granted, one should only do this for a short period of time. In the future, we should elaborate on the function to account for the decline in productivity as *t* increases assuming an unsustainably high value of *r*. However, for a short period of time, if a team feels there are enough quick wins to be had to justify the increased productivity, they very well could invest 100% of their time towards contiunous improvement for a brief period. Following this brief blitz the team should then find a sustainable value whereby they are able to continuously improve using *l* percentage of their time such that it would still result in a good ratio between *l* and *r*. That is, that the time invested is still increasing the value of *r* comparatively.
+
+For example, when it comes to looking for a sustainable value of *l* and *r*, a team may iterate and adjust accordingly:
+
+1. I invest 10% of my time for a 10% increase in producitivity, which results in what my team judges to be a good ratio (1:1).
+2. The team increases to 20% of their time for a 20% increase in productivity, making this a good decision to make (1:1).
+3. However, if I increase *l* to 40% of my time, and only see a 25% increase in *r*, then perhaps revising *l* down to the highest value of *l* for which I maintain the 1:1 ratio would be a better approach.
+
+This is just an example and the situation will change depending on your team. If increasing *r* is important to your team, then perhaps a reduction in the ratio is acceptable to you to a certain point. Perhaps 4:2.5 (l = 40; r = 25) is worth it to your team, given that f(x) is exponential, the team that does choose to invest more in *l* will eventually be more productive than the team who opted for a 1:1 ratio.
+
+See [here](https://www.desmos.com/calculator/flfeopgbll) for an example. In this abstract case, we can see that the team who opted for the 4:2.5 ratio will end up being more productive than the 1:1 team after ~10.572 months.
+
+It is important to remember our previous discussion about the decay of *r* as a team over invests in *l*, however.
+
 **Option 2**: Begin to continuously improve while still meeting the current expectations as best as possible.
 
 *The Intuitive Option*: Minimize *l* such that a small percentage of our time is dedicated to continuous learning so that we can continue to deliver on our responsibilities.
