@@ -28,17 +28,10 @@
 
 ### Prerequisites
 
-- Windows 10 Pro with admin rights
-  - Access to the [Market](https://www.microsoft.com/en-ca/store/apps/windows?icid=CNavAppsWindowsApps)
-  - Rights to install apps
+- Windows 10 Pro
+  - Hyper-V and Containers Windows features must be enabled.
 - Docker CE for Windows
   - https://hub.docker.com/editions/community/docker-ce-desktop-windows
-- Windows Subsystem for Linux
-  - [Installation Guide for Windows 10](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
-- Linux Distro of your choice
-  - Need to download from the market
-  - Recommend distro is [Ubuntu](https://www.microsoft.com/en-ca/p/ubuntu/9nblggh4msv6?activetab=pivot:overviewtab) because the exercises were tested with that distro
-  - If not Ubuntu, a Debian variant is recommended
 - [GitHub Account](https://github.com/)
 - Git Course Completed
 
@@ -171,6 +164,8 @@ Using `--force_polling` should normally fix the issue.
 sudo snap install docker
 ```
 
+- Test your installation with `docker run hello-world`
+
 ### Steps
 
 1. Follow the instructions found on this [blog](https://ddewaele.github.io/running-jekyll-in-docker/)
@@ -187,6 +182,13 @@ Log out and in again.
 
 ### Prerequisites
 
+- [Docker CE Installed and Configured](https://docs.docker.com/docker-for-mac/install/)
+  - Test it with `docker run hello-world`
+
 ### Steps
 
+- 
+
 ### Troubleshooting
+
+- Nothing known at the moment. You probably should use a Mac.
