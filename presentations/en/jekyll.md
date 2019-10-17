@@ -4,6 +4,11 @@
   - [Windows 10](#windows-10)
     - [Prerequisites](#prerequisites)
     - [Steps](#steps)
+      - [Create Your Project Folder](#create-your-project-folder)
+      - [Generate Jekyll Files](#generate-jekyll-files)
+      - [Build The Site](#build-the-site)
+      - [Run The Site Locally](#run-the-site-locally)
+      - [Create A Blog Post](#create-a-blog-post)
     - [Troubleshooting Docker](#troubleshooting-docker)
       - [Invalid Reference Format](#invalid-reference-format)
       - [Shared Drive](#shared-drive)
@@ -39,10 +44,66 @@
 
 ### Steps
 
-1. Follow the instructions found on this [blog](https://ddewaele.github.io/running-jekyll-in-docker/)
-2. Create a new blog page
+_This exercise is adapted from [Davy's Tech Blog](https://ddewaele.github.io/running-jekyll-in-docker/)_
 
->You need to have these lines at the start of your document (although `categories` is optional):
+#### Create Your Project Folder
+
+In PowerShell or the terminal of your choice, navigate to the folder where you will want to create your project files.
+
+For example, you could do the following:
+
+```bash
+mkdir -p ~\Documents\Projects\mysite ; cd ~\Documents\Projects\mysite
+```
+
+This will create a folder `mysite` in your user profile and move you to the folder.
+
+#### Generate Jekyll Files
+
+In the terminal, run the following command:
+
+```bash
+docker run --rm --volume="${PWD}:/srv/jekyll" -it jekyll/jekyll:3.5 jekyll new .
+```
+
+If you type `ls` in the terminal, you should see the new files appear.
+
+```bash
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----       2019-10-16     22:10                _posts
+-a----       2019-10-16     22:10             35 .gitignore
+-a----       2019-10-16     22:10            398 404.html
+-a----       2019-10-16     22:10            539 about.md
+-a----       2019-10-16     22:10            935 Gemfile
+-a----       2019-10-16     22:10           1388 Gemfile.lock
+-a----       2019-10-16     22:10            213 index.md
+-a----       2019-10-16     22:10           1651 _config.yml
+```
+
+#### Build The Site
+
+Execute this command in the terminal:
+
+```bash
+docker run --rm --volume="${PWD}:/srv/jekyll" -it jekyll/jekyll:3.5 jekyll build
+```
+
+#### Run The Site Locally
+
+```bash
+docker run --name newblog --volume="${PWD}:/srv/jekyll" -p 3000:4000 -it jekyll/jekyll:3.5 jekyll serve --watch --drafts
+
+docker run -p 4000:4000 -v ${pwd}:/srv/jekyll -it --rm jekyll/jekyll jekyll serve --force_polling
+```
+
+You should be able to access the site at this URL: [http://localhost:3000/](http://localhost:3000/)
+
+#### Create A Blog Post
+
+In the folder `_posts`, you can create a new blog post.
+
+You need to have these lines at the start of your document (although `categories` is optional):
 
 ```yaml
 ---
@@ -56,15 +117,12 @@ categories: jekyll update
 Launch your site with Docker
 <!-- markdownlint-enable MD029 -->
 
-```bash
-docker run -p 4000:4000 -v ${pwd}:/srv/jekyll -it --rm jekyll/jekyll jekyll serve --force_polling
-```
 
 ### Troubleshooting Docker
 
 #### Invalid Reference Format
 
-If you copied the command designed for Linux, you'll run into an issue because Windows requires {} instead of ().
+If you copied the command designed for Linux, you'll run into an issue because Windows requires `{}` instead of `()`.
 
 ```bash
 C:\Program Files\Docker\Docker\Resources\bin\docker.exe: invalid reference format.  
@@ -98,7 +156,7 @@ You will also need to know your local IP address to access your site.
 
 On Windows, there may be some issues with the incremental build when running Docker
 
-Using `--force_polling` should fix the issue.
+Using `--force_polling` should normally fix the issue.
 
 ([Reference](https://github.com/jekyll/jekyll/issues/2926#issuecomment-55558142))
 
