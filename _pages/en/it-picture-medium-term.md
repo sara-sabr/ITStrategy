@@ -12,10 +12,12 @@ permalink: /it-picture-medium-term.html
 
 - [GC Wide](#gc-wide)
 - [IT within ESDC](#it-within-esdc)
-  - [Cultural](#cultural)
-  - [Process](#process)
-  - [Technical](#technical)
-  - [Measurement](#measurement)
+- [Cultural](#cultural)
+  - [Additional Reading](#additional-reading)
+- [Process](#process)
+- [Technical](#technical)
+- [Measurement](#measurement)
+- [Additional Reading](#additional-reading-1)
 
 ### GC Wide
 
@@ -75,7 +77,7 @@ Responsibility for building, deploying and maintaining systems, is shared by cro
 
 Overall employees working in IT at ESDC are [happier](https://cloud.google.com/solutions/devops/devops-culture-job-satisfaction), more productive and more up to date on technology, making them better able to support the evolving needs of the department so that it can deliver more efficient services to Canadians.
 
-##### Additional reading
+##### Additional Reading
 
 - [Article: A typology of organisational cultures](https://qualitysafety.bmj.com/content/qhc/13/suppl_2/ii22.full.pdf)
 - [Book: Team Topologies](https://itrevolution.com/book/team-topologies/)
