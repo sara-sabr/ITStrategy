@@ -191,7 +191,7 @@ Line 3 should read
 f(x) <= y <= F(x)
 ```
 
-And above you should see that one line 1 and 2 we have defined f(x) and F(x), respectively, as we covered above.
+And you should see that one line 1 and 2 we have defined f(x) and F(x), respectively, as we covered above.
 A small detail we glanced over before is the { x > 0 }, which is specifying to only draw the line where x > 0 (to prevent the lines from going past the x-axis which adds noise to our graph).
 
 You will also notice that in our picture of the integral is displayed a number, ~18.075. This is the area under the curve *f(x)* between x=0 and x=6.192.
@@ -226,7 +226,7 @@ You could!
 And in the Phoenix Project that is what they do!
 Granted, one should only do this for a short period of time.
 In the future, we should elaborate on the function to account for the decline in productivity as *t* increases assuming an unsustainably high value of *r*.
-However, for a short period of time, if a team feels there are enough quick wins to be had to justify the increased productivity, they very well could invest 100% of their time towards contiunous improvement for a brief period.
+However, for a short period of time, if a team feels there are enough quick wins to be had to justify the increased productivity, they very well could invest 100% of their time towards self improvement for a brief period.
 Following this brief blitz the team should then find a sustainable value whereby they are able to continuously improve using *l* percentage of their time such that it would still result in a good ratio between *l* and *r*.
 That is, that the time invested is still increasing the value of *r* comparatively.
 
