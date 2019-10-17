@@ -218,9 +218,17 @@ How would we demonstrate that this is in fact the optimal approach to take? We a
 **Option 1**: It is more important to become as productive as possible, as quickly as possible
 
 If this is your team, then you should opt for a situation where the team can maximize *r* as quickly as possible, even if it requires a higher-time investment.
-As x increases, the exponential curve will continue to grow faster and faster than the linear function. Therefore, it is more important to maximize *r* than it is to minimize *l*.
+As x increases, the exponential curve will continue to grow faster and faster than the linear function.
+Therefore, it is more important to maximize *r* than it is to minimize *l*.
 
-One may say, "well in that case, I could maximize *r* by setting *l* to 100%, in which case all one would do is spend time improving rather than delivering to their users or clients." You could! And in the Phoenix Project that is what they do! Granted, one should only do this for a short period of time. In the future, we should elaborate on the function to account for the decline in productivity as *t* increases assuming an unsustainably high value of *r*. However, for a short period of time, if a team feels there are enough quick wins to be had to justify the increased productivity, they very well could invest 100% of their time towards contiunous improvement for a brief period. Following this brief blitz the team should then find a sustainable value whereby they are able to continuously improve using *l* percentage of their time such that it would still result in a good ratio between *l* and *r*. That is, that the time invested is still increasing the value of *r* comparatively.
+One may say, "well in that case, I could maximize *r* by setting *l* to 100%, in which case all one would do is spend time improving rather than delivering to their users or clients."
+You could!
+And in the Phoenix Project that is what they do!
+Granted, one should only do this for a short period of time.
+In the future, we should elaborate on the function to account for the decline in productivity as *t* increases assuming an unsustainably high value of *r*.
+However, for a short period of time, if a team feels there are enough quick wins to be had to justify the increased productivity, they very well could invest 100% of their time towards contiunous improvement for a brief period.
+Following this brief blitz the team should then find a sustainable value whereby they are able to continuously improve using *l* percentage of their time such that it would still result in a good ratio between *l* and *r*.
+That is, that the time invested is still increasing the value of *r* comparatively.
 
 For example, when it comes to looking for a sustainable value of *l* and *r*, a team may iterate and adjust accordingly:
 
@@ -228,7 +236,8 @@ For example, when it comes to looking for a sustainable value of *l* and *r*, a 
 2. The team increases to 20% of their time for a 20% increase in productivity, making this a good decision to make (1:1).
 3. However, if I increase *l* to 40% of my time, and only see a 25% increase in *r*, then perhaps revising *l* down to the highest value of *l* for which I maintain the 1:1 ratio would be a better approach.
 
-This is just an example and the situation will change depending on your team. If increasing *r* is important to your team, then perhaps a reduction in the ratio is acceptable to you to a certain point. Perhaps 4:2.5 (l = 40; r = 25) is worth it to your team, given that f(x) is exponential, the team that does choose to invest more in *l* will eventually be more productive than the team who opted for a 1:1 ratio.
+This is just an example and the situation will change depending on your team. If increasing *r* is important to your team, then perhaps a reduction in the ratio is acceptable to you to a certain point.
+Perhaps 4:2.5 (l = 40; r = 25) is worth it to your team, given that f(x) is exponential, the team that does choose to invest more in *l* will eventually be more productive than the team who opted for a 1:1 ratio.
 
 See [here](https://www.desmos.com/calculator/flfeopgbll) for an example. In this abstract case, we can see that the team who opted for the 4:2.5 ratio will end up being more productive than the 1:1 team after ~10.572 months.
 
@@ -248,9 +257,14 @@ Perhaps this loss in efficiency is unacceptable to an operations team. What is t
 
 What we recommend is identifying quick wins. Find the set of tasks that given the smallest amount of time invested, *l*, will realize the greatest efficiency gains.
 
-If 30% of time dedicated to continuous improvement is too high though we know a few common pain points that would greatly simplify the lives of the team members, perhaps for investing 10% of our time we could still realize 15% rate of improvement. In this case, if we plug these numbers into our functions (as we have done [here](https://www.desmos.com/calculator/caztdlledj)), you will find that our new area between the curves is ~0.1367. By reducing the value of *l* we have reduced the area between the curves (productivity lost), while maximizing the value of *r*, which, due to the relationship between exponential and linear functions, is our priority.
+If 30% of time dedicated to continuous improvement is too high though we know a few common pain points that would greatly simplify the lives of the team members, perhaps for investing 10% of our time we could still realize 15% rate of improvement.
+In this case, if we plug these numbers into our functions (as we have done [here](https://www.desmos.com/calculator/caztdlledj)), you will find that our new area between the curves is ~0.1367.
+By reducing the value of *l* we have reduced the area between the curves (productivity lost), while maximizing the value of *r*, which, due to the relationship between exponential and linear functions, is our priority.
 
-This quick win trade off is a short term game, however, as you cannot expect that ratio between *l*:*r* to continue at that rate forever. Once your team has stopped working at 120% through quick wins, it is time to settle into a constant rate of continuous improvement for your team. As we covered above, around 20% is likely the lowest you would want to go. The key is to find a value that is sustainable for your team, as the real magic we are trying to leverage is the power of the *continuous* or *compounding* improvement, so that we benefit from exponential efficiency gains.
+This quick win trade off is a short term game, however, as you cannot expect that ratio between *l*:*r* to continue at that rate forever.
+Once your team has stopped working at 120% through quick wins, it is time to settle into a constant rate of continuous improvement for your team.
+As we covered above, around 20% is likely the lowest you would want to go.
+The key is to find a value that is sustainable for your team, as the real magic we are trying to leverage is the power of the *continuous* or *compounding* improvement, so that we benefit from exponential efficiency gains.
 
 In conclusion, if one i looking for maximum productivity it is best to maximize the value of *r*, and if one is looking to minimize the impact to their current services one should find the lowest value of *l* such that it maximizes the possible value for *r*.
 
