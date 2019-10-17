@@ -305,15 +305,15 @@ On desmos I couldn't figure out how to store the x coordinate of where the lines
 
 Given the function
 
-### Problem 3: Anything you can think of or anything that was missed
-
-If you found that we have made any mistakes in the article above or if you have recommendations to improve it, we'd love to hear from you to learn how we can improve it and make it better! Please open an issue [here](https://github.com/sara-sabr/ITStrategy/issues). We're always looking to continue learning and improve our content!
-
 <!-- markdownlint-disable MD033 -->
 f(x) = x<sup>1+*r*</sup> - x**l*
 <!-- markdownlint-enable MD033 -->
 
 As x grows there should be some function by which the exponent 1+*r* begins to reduce, as the quick wins are solved it will gradually take more effort to realize the same amount of efficiency.
+
+### Problem 3: Anything you can think of or anything that was missed
+
+If you found that we have made any mistakes in the article above or if you have recommendations to improve it, we'd love to hear from you to learn how we can improve it and make it better! Please open an issue [here](https://github.com/sara-sabr/ITStrategy/issues). We're always looking to continue learning and improve our content!
 
 ## The End
 
