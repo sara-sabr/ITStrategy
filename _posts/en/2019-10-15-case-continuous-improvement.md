@@ -191,7 +191,7 @@ Line 3 should read
 f(x) <= y <= F(x)
 ```
 
-And above you should see that one line 1 and 2 we have defined f(x) and F(x), respectively, as we covered above.
+And you should see that one line 1 and 2 we have defined f(x) and F(x), respectively, as we covered above.
 A small detail we glanced over before is the { x > 0 }, which is specifying to only draw the line where x > 0 (to prevent the lines from going past the x-axis which adds noise to our graph).
 
 You will also notice that in our picture of the integral is displayed a number, ~18.075. This is the area under the curve *f(x)* between x=0 and x=6.192.
@@ -226,7 +226,7 @@ You could!
 And in the Phoenix Project that is what they do!
 Granted, one should only do this for a short period of time.
 In the future, we should elaborate on the function to account for the decline in productivity as *t* increases assuming an unsustainably high value of *r*.
-However, for a short period of time, if a team feels there are enough quick wins to be had to justify the increased productivity, they very well could invest 100% of their time towards contiunous improvement for a brief period.
+However, for a short period of time, if a team feels there are enough quick wins to be had to justify the increased productivity, they very well could invest 100% of their time towards self improvement for a brief period.
 Following this brief blitz the team should then find a sustainable value whereby they are able to continuously improve using *l* percentage of their time such that it would still result in a good ratio between *l* and *r*.
 That is, that the time invested is still increasing the value of *r* comparatively.
 
@@ -266,7 +266,7 @@ Once your team has stopped working at 120% through quick wins, it is time to set
 As we covered above, around 20% is likely the lowest you would want to go.
 The key is to find a value that is sustainable for your team, as the real magic we are trying to leverage is the power of the *continuous* or *compounding* improvement, so that we benefit from exponential efficiency gains.
 
-In conclusion, if one i looking for maximum productivity it is best to maximize the value of *r*, and if one is looking to minimize the impact to their current services one should find the lowest value of *l* such that it maximizes the possible value for *r*.
+In conclusion, if one is looking for maximum productivity it is best to maximize the value of *r*, and if one is looking to minimize the impact to their current services one should find the lowest value of *l* such that it maximizes the possible value for *r*.
 
 _____
 
@@ -284,7 +284,7 @@ i = business value/velocity
 ```
 
 which will give you the amount of business value produced per unit of effort required.
-Week after week as you compute this value, compute the rate of change of i.
+Week after week as you compute this value, compute the rate of change of *i*.
 This will, over time, give you the rate at which you are improving over some interval of time.
 
 Granted, this is assuming no significant changes in the team, and that humans, given changing circumstances, continue to give consistent evaluations throughout the process.
@@ -305,15 +305,15 @@ On desmos I couldn't figure out how to store the x coordinate of where the lines
 
 Given the function
 
-### Problem 3: Anything you can think of or anything that was missed
-
-If you found that we have made any mistakes in the article above or if you have recommendations to improve it, we'd love to hear from you to learn how we can improve it and make it better! Please open an issue [here](https://github.com/sara-sabr/ITStrategy/issues). We're always looking to continue learning and improve our content!
-
 <!-- markdownlint-disable MD033 -->
 f(x) = x<sup>1+*r*</sup> - x**l*
 <!-- markdownlint-enable MD033 -->
 
 As x grows there should be some function by which the exponent 1+*r* begins to reduce, as the quick wins are solved it will gradually take more effort to realize the same amount of efficiency.
+
+### Problem 3: Anything you can think of or anything that was missed
+
+If you found that we have made any mistakes in the article above or if you have recommendations to improve it, we'd love to hear from you to learn how we can improve it and make it better! Please open an issue [here](https://github.com/sara-sabr/ITStrategy/issues). We're always looking to continue learning and improve our content!
 
 ## The End
 
