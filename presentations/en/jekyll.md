@@ -2,49 +2,73 @@
 
 >_(The exercise below is adapted from Davy De Waele's [blog post](https://ddewaele.github.io/running-jekyll-in-docker/) explaining how to run Jekyll in Docker. © 2018 Davy De Waele)_
 
-- [Windows 10](#windows-10)
-  - [Prerequisites](#prerequisites)
-  - [Troubleshooting](#troubleshooting)
+- [Prerequisites](#prerequisites)
+  - [Windows](#windows)
+  - [Linux](#linux)
+  - [macOS](#macos)
+- [Troubleshooting](#troubleshooting)
+  - [Testing Docker](#testing-docker)
+  - [Windows 10](#windows-10)
     - [Invalid Reference Format](#invalid-reference-format)
     - [Shared Drive](#shared-drive)
-    - [Blog Posts Not Updated](#blog-posts-not-updated)
-  - [Steps](#steps)
-    - [1. Create Your Project Folder](#1-create-your-project-folder)
-    - [2. Generate Jekyll Files](#2-generate-jekyll-files)
-    - [3. Build The Site](#3-build-the-site)
-    - [4. Run The Site Locally](#4-run-the-site-locally)
-    - [5. Create A Blog Post](#5-create-a-blog-post)
-    - [6. Restart Your Blog](#6-restart-your-blog)
-    - [7. Clear Your Workspace](#7-clear-your-workspace)
-- [Linux](#linux)
-  - [Prerequisites](#prerequisites-1)
-  - [Steps](#steps-1)
-  - [Troubleshooting](#troubleshooting-1)
+    - [Blog Posts Not Updating](#blog-posts-not-updating)
+  - [Ubuntu 18.04](#ubuntu-1804)
     - [Docker permission denied](#docker-permission-denied)
-- [macOS](#macos)
-  - [Prerequisites](#prerequisites-2)
-  - [Steps](#steps-2)
-  - [Troubleshooting](#troubleshooting-2)
+  - [macOS](#macos-1)
+- [Steps](#steps)
+  - [1. Create Your Project Folder](#1-create-your-project-folder)
+  - [2. Generate Jekyll Files](#2-generate-jekyll-files)
+  - [3. Build The Site](#3-build-the-site)
+  - [4. Run The Site Locally](#4-run-the-site-locally)
+  - [5. Create A Blog Post](#5-create-a-blog-post)
+  - [6. Restart Your Blog](#6-restart-your-blog)
+  - [7. Clear Your Workspace](#7-clear-your-workspace)
 
-## Windows 10
+## Prerequisites
 
-[_Back to top_](#jekyll-instructions)
-
-### Prerequisites
+### Windows
 
 - Windows 10 Pro
   - Hyper-V and Containers Windows features must be enabled.
-- Docker CE for Windows Installed and Configured
-  - https://hub.docker.com/editions/community/docker-ce-desktop-windows
+- [Docker CE for Windows Installed and Configured](https://hub.docker.com/editions/community/docker-ce-desktop-windowshttps://hub.docker.com/editions/community/docker-ce-desktop-windows)
   - See the [troubleshooting section](#troubleshooting) for help with Docker issues
-- [GitHub Account](https://github.com/)
-- Git Course Completed
 
-### Troubleshooting
+### Linux
+
+- Ubuntu 16.04 or above is recommended (Debian distros should work fine)
+- [Docker CE Installed and Configured](https://docs.docker.com/install/linux/docker-ce/ubuntu/)
+  - See the [troubleshooting section]() for help with Docker issues
+  - Alternatively, you can use Snap
+
+```bash
+sudo snap install docker
+```
+
+### macOS
+
+- mac OS 10.12 or newer
+- [Hardware requirements](https://docs.docker.com/docker-for-mac/install/#system-requirements)
+- [Docker CE Installed and Configured](https://docs.docker.com/docker-for-mac/install/)
+
+## Troubleshooting
+
+[_Back to top_](#jekyll-instructions)
+
+### Testing Docker
+
+To test Docker on your machine, execute the following command in your terminal:
+
+```bash
+docker run hello-world
+```
+
+If this doesn't work, you will most likely need to look at the sections below to fix the issue.
+
+### Windows 10
 
 #### Invalid Reference Format
 
-If you copied a command designed for Linux, you'll run into an issue because Windows requires `{}` instead of `()`.
+If you copied a command designed for Linux or macOS, you'll probably run into an issue because Windows requires `{}` to call the `$PWD` variable.
 
 This would most likely give the following message error:
 
@@ -70,7 +94,7 @@ To share a drive with Docker:
 - Check whichever drive you will need to access with Docker.
 - Click on Apply
 
-#### Blog Posts Not Updated
+#### Blog Posts Not Updating
 
 On Windows, there may be some issues with the incremental build when running Docker
 
@@ -78,32 +102,65 @@ Using the `--force_polling` switch at the end of the Docker command should norma
 
 ([Reference](https://github.com/jekyll/jekyll/issues/2926#issuecomment-55558142))
 
-### Steps
+### Ubuntu 18.04
 
-#### 1. Create Your Project Folder
+#### Docker permission denied
+
+To avoid using Docker with `sudo`, follow the post install commands found [here](https://docs.docker.com/install/linux/linux-postinstall/).
+Log out and in again.
+
+### macOS
+
+- No issues known at the moment.
+You probably should use a Mac in all aspects of your life.
+/s
+
+## Steps
+
+### 1. Create Your Project Folder
 
 In PowerShell, or the terminal of your choice, create a project folder.
 
 For example, you could do the following, changing `<project name>` to the name of your choice:
 
+Windows
+
 ```bash
 mkdir -p ~\Documents\Projects\<project name> ; cd ~\Documents\Projects\<project name>
 ```
+
+Unix/Mac
+
+```bash
+mkdir -p ~/Documents/Projects/<project name> ; cd ~/Documents/Projects/<project name>
+```
+
+>Note: In Windows, the backslash (`\`) is used to separate directories instead of the forward slash (`/`).
+In Mac and Unix systems, the forward slash is used.
+However, the command above should work for Windows too.
 
 This will create a folder `<project name>` in your user profile and move you to the folder.
 
 Example:
 
 ```bash
-mkdir -p ~\Documents\Projects\mysite ; cd ~\Documents\Projects\mysite
+mkdir -p ~/Documents/Projects/mysite ; cd ~/Documents/Projects/mysite
 ```
 
-#### 2. Generate Jekyll Files
+### 2. Generate Jekyll Files
 
 In the terminal, run the following command to have a new Jekyll project structure created:
 
+_Windows_
+
 ```bash
 docker run --rm --volume="${PWD}:/srv/jekyll" -it jekyll/jekyll:3.5 jekyll new .
+```
+
+Linux
+
+```bash
+docker run --rm --volume="$PWD:/srv/jekyll" -it jekyll/jekyll:3.5 jekyll new .
 ```
 
 If you type `ls` in the terminal, you should see the new files appear.
@@ -124,19 +181,27 @@ d-----       2019-10-16     22:10                _posts
 >Notice that those files are on your drive, not in the Docker image or container.
 This means that you can modify the files directly from VS Code.
 
-#### 3. Build The Site
+### 3. Build The Site
 
-Execute this command in the terminal to have the site structure generated:
+Execute this command in the terminal to have the site files generated:
+
+_Windows_
 
 ```bash
 docker run --rm --volume="${PWD}:/srv/jekyll" -it jekyll/jekyll:3.5 jekyll build
 ```
 
-If you run the `ls` command again, you will notice a new folder has been created: `_site`.
-That folder contains the output of the project files.
-It generates all the HTML and CSS required to deploy a full functioning website.
+_Linux/macOS_
 
-#### 4. Run The Site Locally
+```bash
+docker run --rm --volume="$PWD:/srv/jekyll" -it jekyll/jekyll:3.5 jekyll build
+```
+
+If you run the `ls` command again, you will notice a new folder has been created: `_site`.
+
+That folder now contains all the HTML and CSS required to deploy a full functioning website.
+
+### 4. Run The Site Locally
 
 Execute this command in the terminal to have the site locally hosted, replacing `<container name>` by the name of your choice:
 
@@ -146,31 +211,47 @@ docker run --name <container name> --volume="${PWD}:/srv/jekyll" -p 3000:4000 -i
 
 You should be able to access the site at this URL: [http://localhost:3000/](http://localhost:3000/)
 
-#### 5. Create A Blog Post
+### 5. Create A Blog Post
 
 In the folder `_posts`, you can create a new blog post.
 
-You need to have these lines at the start of your document (although `categories` is optional):
+Create a new markdown document with the following name format:
 
-```yaml
+```bash
+yyyy-mm-dd-blog-title.md
+```
+
+In the document, you will need to have these lines at the top (although `categories` is optional):
+
+```text
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "My new blog post"
 date:   2019-10-15 14:37:24 -0400
 categories: jekyll update
 ---
-```
-<!-- markdownlint-disable MD029 -->
-Launch your site with Docker
-<!-- markdownlint-enable MD029 -->
 
-#### 6. Restart Your Blog
+You can add your content below.
+
+Liquid tags can also be used.
+
+## {{ page.title }}
+
+{% for category in page.categories %}
+
+- {{ category }}
+
+{% endfor %}
+
+```
+
+### 6. Restart Your Blog
 
 ```bash
 docker restart <container name>
 ```
 
-#### 7. Clear Your Workspace
+### 7. Clear Your Workspace
 
 Remove the container:
 
@@ -179,45 +260,3 @@ docker rm -f <container name>
 ```
 
 >Note: We'll keep the project folder's content for upcoming exercises
-
-## Linux
-
-[_Back to top_](#jekyll-instructions)
-
-### Prerequisites
-
-- [Docker CE Installed and Configured](https://docs.docker.com/install/linux/docker-ce/ubuntu/)
-  - Alternatively, you can use Snap:
-
-```bash
-sudo snap install docker
-```
-
-- Test your installation with `docker run hello-world`
-
-### Steps
-
-1. Follow the instructions found on this [blog](https://ddewaele.github.io/running-jekyll-in-docker/)
-2. Create a new blog post
-
-### Troubleshooting
-
-#### Docker permission denied
-
-To avoid using Docker with `sudo`, follow the post install commands found [here](https://docs.docker.com/install/linux/linux-postinstall/).
-Log out and in again.
-
-## macOS
-
-[_Back to top_](#jekyll-instructions)
-
-### Prerequisites
-
-- [Docker CE Installed and Configured](https://docs.docker.com/docker-for-mac/install/)
-  - Test it with `docker run hello-world`
-
-### Steps
-
-### Troubleshooting
-
-- Nothing known at the moment. You probably should use a Mac in all aspects of your life. /s
