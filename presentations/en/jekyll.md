@@ -1,117 +1,46 @@
 # Jekyll Instructions
 
-- [Jekyll Instructions](#jekyll-instructions)
-  - [Windows 10](#windows-10)
-    - [Prerequisites](#prerequisites)
-    - [Steps](#steps)
-      - [Create Your Project Folder](#create-your-project-folder)
-      - [Generate Jekyll Files](#generate-jekyll-files)
-      - [Build The Site](#build-the-site)
-      - [Run The Site Locally](#run-the-site-locally)
-      - [Create A Blog Post](#create-a-blog-post)
-    - [Troubleshooting Docker](#troubleshooting-docker)
-      - [Invalid Reference Format](#invalid-reference-format)
-      - [Shared Drive](#shared-drive)
-      - [Local IP Address](#local-ip-address)
-      - [Blog Posts Not Updated](#blog-posts-not-updated)
-  - [Linux](#linux)
-    - [Prerequisites](#prerequisites-1)
-    - [Steps](#steps-1)
-    - [Troubleshooting](#troubleshooting)
-      - [Docker permission denied](#docker-permission-denied)
-  - [macOS](#macos)
-    - [Prerequisites](#prerequisites-2)
-    - [Steps](#steps-2)
-    - [Troubleshooting](#troubleshooting-1)
+>_(The exercise below is adapted from Davy De Waele's [blog post](https://ddewaele.github.io/running-jekyll-in-docker/) explaining how to run Jekyll in Docker. © 2018 Davy De Waele)_
+
+- [Windows 10](#windows-10)
+  - [Prerequisites](#prerequisites)
+  - [Troubleshooting](#troubleshooting)
+    - [Invalid Reference Format](#invalid-reference-format)
+    - [Shared Drive](#shared-drive)
+    - [Local IP Address](#local-ip-address)
+    - [Blog Posts Not Updated](#blog-posts-not-updated)
+  - [Steps](#steps)
+    - [1. Create Your Project Folder](#1-create-your-project-folder)
+    - [2. Generate Jekyll Files](#2-generate-jekyll-files)
+    - [Build The Site](#build-the-site)
+    - [Run The Site Locally](#run-the-site-locally)
+    - [Create A Blog Post](#create-a-blog-post)
+    - [Clear Your Workspace](#clear-your-workspace)
+- [Linux](#linux)
+  - [Prerequisites](#prerequisites-1)
+  - [Steps](#steps-1)
+  - [Troubleshooting](#troubleshooting-1)
+    - [Docker permission denied](#docker-permission-denied)
+- [macOS](#macos)
+  - [Prerequisites](#prerequisites-2)
+  - [Steps](#steps-2)
+  - [Troubleshooting](#troubleshooting-2)
 
 ## Windows 10
+
+[_Back to top_](#jekyll-instructions)
 
 ### Prerequisites
 
 - Windows 10 Pro
   - Hyper-V and Containers Windows features must be enabled.
-- Docker CE for Windows
+- Docker CE for Windows Installed and Configured
   - https://hub.docker.com/editions/community/docker-ce-desktop-windows
+  - See the [troubleshooting section](#troubleshooting) for help with Docker issues
 - [GitHub Account](https://github.com/)
 - Git Course Completed
 
-### Steps
-
-_This exercise is adapted from [Davy's Tech Blog](https://ddewaele.github.io/running-jekyll-in-docker/)_
-
-#### Create Your Project Folder
-
-In PowerShell or the terminal of your choice, navigate to the folder where you will want to create your project files.
-
-For example, you could do the following:
-
-```bash
-mkdir -p ~\Documents\Projects\mysite ; cd ~\Documents\Projects\mysite
-```
-
-This will create a folder `mysite` in your user profile and move you to the folder.
-
-#### Generate Jekyll Files
-
-In the terminal, run the following command:
-
-```bash
-docker run --rm --volume="${PWD}:/srv/jekyll" -it jekyll/jekyll:3.5 jekyll new .
-```
-
-If you type `ls` in the terminal, you should see the new files appear.
-
-```bash
-Mode                LastWriteTime         Length Name
-----                -------------         ------ ----
-d-----       2019-10-16     22:10                _posts
--a----       2019-10-16     22:10             35 .gitignore
--a----       2019-10-16     22:10            398 404.html
--a----       2019-10-16     22:10            539 about.md
--a----       2019-10-16     22:10            935 Gemfile
--a----       2019-10-16     22:10           1388 Gemfile.lock
--a----       2019-10-16     22:10            213 index.md
--a----       2019-10-16     22:10           1651 _config.yml
-```
-
-#### Build The Site
-
-Execute this command in the terminal:
-
-```bash
-docker run --rm --volume="${PWD}:/srv/jekyll" -it jekyll/jekyll:3.5 jekyll build
-```
-
-#### Run The Site Locally
-
-```bash
-docker run --name newblog --volume="${PWD}:/srv/jekyll" -p 3000:4000 -it jekyll/jekyll:3.5 jekyll serve --watch --drafts
-
-docker run -p 4000:4000 -v ${pwd}:/srv/jekyll -it --rm jekyll/jekyll jekyll serve --force_polling
-```
-
-You should be able to access the site at this URL: [http://localhost:3000/](http://localhost:3000/)
-
-#### Create A Blog Post
-
-In the folder `_posts`, you can create a new blog post.
-
-You need to have these lines at the start of your document (although `categories` is optional):
-
-```yaml
----
-layout: post
-title:  "Welcome to Jekyll!"
-date:   2019-10-15 14:37:24 -0400
-categories: jekyll update
----
-```
-<!-- markdownlint-disable MD029 -->
-Launch your site with Docker
-<!-- markdownlint-enable MD029 -->
-
-
-### Troubleshooting Docker
+### Troubleshooting
 
 #### Invalid Reference Format
 
@@ -153,7 +82,96 @@ Using `--force_polling` should normally fix the issue.
 
 ([Reference](https://github.com/jekyll/jekyll/issues/2926#issuecomment-55558142))
 
+### Steps
+
+#### 1. Create Your Project Folder
+
+In PowerShell or the terminal of your choice, navigate to the folder where you will want to create your project files.
+
+For example, you could do the following:
+
+```bash
+mkdir -p ~\Documents\Projects\mysite ; cd ~\Documents\Projects\mysite
+```
+
+This will create a folder `mysite` in your user profile and move you to the folder.
+
+#### 2. Generate Jekyll Files
+
+In the terminal, run the following command:
+
+```bash
+docker run --rm --volume="${PWD}:/srv/jekyll" -it jekyll/jekyll:3.5 jekyll new .
+```
+
+If you type `ls` in the terminal, you should see the new files appear.
+
+```bash
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----       2019-10-16     22:10                _posts
+-a----       2019-10-16     22:10             35 .gitignore
+-a----       2019-10-16     22:10            398 404.html
+-a----       2019-10-16     22:10            539 about.md
+-a----       2019-10-16     22:10            935 Gemfile
+-a----       2019-10-16     22:10           1388 Gemfile.lock
+-a----       2019-10-16     22:10            213 index.md
+-a----       2019-10-16     22:10           1651 _config.yml
+```
+
+#### Build The Site
+
+Execute this command in the terminal:
+
+```bash
+docker run --rm --volume="${PWD}:/srv/jekyll" -it jekyll/jekyll:3.5 jekyll build
+```
+
+If you run the `ls` command again, you will notice a new folder has been created: `_site`
+
+That folder contains the website generated by Jekyll.
+
+#### Run The Site Locally
+
+```bash
+docker run --name <container name> --volume="${PWD}:/srv/jekyll" -p 3000:4000 -it jekyll/jekyll:3.5 jekyll serve --watch --drafts
+
+docker run -p 4000:4000 -v ${pwd}:/srv/jekyll -it --rm jekyll/jekyll jekyll serve --force_polling
+```
+
+You should be able to access the site at this URL: [http://localhost:3000/](http://localhost:3000/)
+
+#### Create A Blog Post
+
+In the folder `_posts`, you can create a new blog post.
+
+You need to have these lines at the start of your document (although `categories` is optional):
+
+```yaml
+---
+layout: post
+title:  "Welcome to Jekyll!"
+date:   2019-10-15 14:37:24 -0400
+categories: jekyll update
+---
+```
+<!-- markdownlint-disable MD029 -->
+Launch your site with Docker
+<!-- markdownlint-enable MD029 -->
+
+#### Clear Your Workspace
+
+Delete your project folder:
+
+Remove the container:
+
+```bash
+docker rm -f <container name>
+```
+
 ## Linux
+
+[_Back to top_](#jekyll-instructions)
 
 ### Prerequisites
 
@@ -180,6 +198,8 @@ Log out and in again.
 
 ## macOS
 
+[_Back to top_](#jekyll-instructions)
+
 ### Prerequisites
 
 - [Docker CE Installed and Configured](https://docs.docker.com/docker-for-mac/install/)
@@ -187,8 +207,6 @@ Log out and in again.
 
 ### Steps
 
-- 
-
 ### Troubleshooting
 
-- Nothing known at the moment. You probably should use a Mac.
+- Nothing known at the moment. You probably should use a Mac in all aspects of your life. /s
