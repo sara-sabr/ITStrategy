@@ -14,7 +14,8 @@
     - [3. Build The Site](#3-build-the-site)
     - [4. Run The Site Locally](#4-run-the-site-locally)
     - [5. Create A Blog Post](#5-create-a-blog-post)
-    - [Clear Your Workspace](#clear-your-workspace)
+    - [6. Restart Your Blog](#6-restart-your-blog)
+    - [7. Clear Your Workspace](#7-clear-your-workspace)
 - [Linux](#linux)
   - [Prerequisites](#prerequisites-1)
   - [Steps](#steps-1)
@@ -73,7 +74,7 @@ To share a drive with Docker:
 
 On Windows, there may be some issues with the incremental build when running Docker
 
-Using `--force_polling` at the end of the Docker command should normally fix the issue.
+Using the `--force_polling` switch at the end of the Docker command should normally fix the issue.
 
 ([Reference](https://github.com/jekyll/jekyll/issues/2926#issuecomment-55558142))
 
@@ -137,7 +138,7 @@ It generates all the HTML and CSS required to deploy a full functioning website.
 
 #### 4. Run The Site Locally
 
-Execute this command in the terminal to have the site locally hosted:
+Execute this command in the terminal to have the site locally hosted, replacing `<container name>` by the name of your choice:
 
 ```bash
 docker run --name <container name> --volume="${PWD}:/srv/jekyll" -p 3000:4000 -it jekyll/jekyll:3.5 jekyll serve --watch --drafts --force_polling
@@ -163,15 +164,21 @@ categories: jekyll update
 Launch your site with Docker
 <!-- markdownlint-enable MD029 -->
 
-#### Clear Your Workspace
+#### 6. Restart Your Blog
 
-Delete your project folder:
+```bash
+docker restart <container name>
+```
+
+#### 7. Clear Your Workspace
 
 Remove the container:
 
 ```bash
 docker rm -f <container name>
 ```
+
+>Note: We'll keep the project folder's content for upcoming exercises
 
 ## Linux
 
