@@ -7,7 +7,6 @@
   - [Troubleshooting](#troubleshooting)
     - [Invalid Reference Format](#invalid-reference-format)
     - [Shared Drive](#shared-drive)
-    - [Local IP Address](#local-ip-address)
     - [Blog Posts Not Updated](#blog-posts-not-updated)
   - [Steps](#steps)
     - [1. Create Your Project Folder](#1-create-your-project-folder)
@@ -65,14 +64,6 @@ That means your shared drive is most likely not shared in the Docker settings.
 - Click on the Docker icon and go to: `Settings --> Shared Drives`
 - Check whichever drive you will need to access with Docker.
 - Click on Apply
-
-#### Local IP Address
-
-You will also need to know your local IP address to access your site.
-
-- In PowerShell or cmd, run `ipconfig`
-- Multiple sections will be displayed so look for `DockerNAT`
-- Find your IPv4 Address
 
 #### Blog Posts Not Updated
 
