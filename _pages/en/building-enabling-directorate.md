@@ -19,20 +19,26 @@ In [Team Topologies](https://itrevolution.com/book/team-topologies/) they write 
 - Enabling Teams
 - Complex Subsystem Teams
 
-In our particular case, to use it as an example, the IT Strategy team is an enabling team.
-We are under a director who considers the directorate to be an enabling team.
-Therefore the IT Strategy team is an enabling team within an enabling team, and has other sibling teams that are also enabling teams.
-That being the case, how would one synchronize activities of the entire directorate? Say the director was to offer their services to a team elsewhere in the organization.
-How best to manage and coordinate the work between the series of sub-enabling teams? That is the question this document is intending to answer.
+The Strategy, Architecture, and Business Relations (SABR) IITB directorate is considered to be an enabling directorate. That is a directorate that facilitates other teams within IITB to do their work and to gain capabilities necessary to do all the things in their areas.
+
+The SABR directorate contains multiple divisions underneath, one of which is the ITSM division.
+
+The IT Strategy team is an enabling team within an enabling team, and has other sibling teams that are also enabling teams.
+That being the case, how would one synchronize activities of the entire SABR directorate? Say the director was to offer their services to a team elsewhere in the organization, how best to manage and coordinate the work between the series of enabling teams within a given directorate? That is the question this document is intending to answer.
 
 ### Proposal
+
+This proposal looks at setting SABR as an enabling team for IITB.
+The model used for SABR may be applied elsewhere within IITB in the future.
+However the remainder for this document will focus on SABR and its divisions.
 
 #### Organizational
 
 ##### Internal Interactions
 
 The teams may remain in their present functional structure for now, which aligns well with the governments expected structure for the sake of processes such as the Public Service Performance Management (PSPM).
-In our particular case, the teams will be as follows:
+
+In the ITSM division's particular case, the teams will be as follows:
 
 - IT Strategy
 - IT Service Management
@@ -49,11 +55,11 @@ Teams should not be fully allocated to their enabling function.
 
 Firstly, each team must resolve time for the continuous self-improvement, which should be equal to, or strictly greater than, 20% of their teams available work time.
 
-Secondly, teams are free to self organize under the condition that they are able to meet the needs of the directorate’s priorities.
-For example, a team within the directorate may accept to fulfill an enabling function for another team within the organization.
+Secondly, teams are free to self organize under the condition that they are able to meet the needs of the division's priorities (i.e. the director's priorities).
+For example, a team within the division may accept to fulfill an enabling function for another team within the organization.
 
 Thirdly, an enabling team need not commit all of their time to being an enabling team.
-For example, in the case of the IT Strategy team they are also responsible for setting the IT vision for the department, and thus cannot dedicate 100%(-20%) of their time to their enabling function.
+For example, in the case of the IT Strategy team they are also responsible for setting the IT strategies for the department, and thus cannot dedicate 100%(-20%) of their time to their enabling function.
 In this particular case, for example, we recommend that the IT Strategy spend a maximum of (100-20)/2 percent of their time on enabling other teams.
 
 ##### External Interactions
@@ -101,9 +107,9 @@ An example of a viable tool for such a requirement would be Slack, where groups 
 
 ##### Teams Iterative Process
 
-- All teams within the directorate have synchronized sprints
-- Representatives from each enabling team within the enabling directorate meet prior to the synchronized sprint planning for the director to set directorate-level priorities
-- During the synchronized sprint planning meetings, ensure directorate-level priorities are broken down into manageable tasks
+- All teams within the division (under a single director) have synchronized sprints
+- Representatives from each enabling team within the enabling division meet prior to the synchronized sprint planning for the director to set division-level priorities
+- During the synchronized sprint planning meetings, ensure division-level priorities are broken down into manageable tasks
 
 ##### Engaging the Enabling Teams
 
