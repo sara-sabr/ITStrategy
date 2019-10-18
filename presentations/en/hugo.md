@@ -1,52 +1,36 @@
 # Hugo Instructions
 
-- [Hugo Instructions](#hugo-instructions)
+- [Prerequisites](#prerequisites)
   - [Windows 10](#windows-10)
-    - [Prerequisites](#prerequisites)
-    - [Steps](#steps)
   - [Linux](#linux)
-    - [Prerequisites](#prerequisites-1)
-    - [Steps](#steps-1)
   - [macOS](#macos)
-    - [Prerequisites](#prerequisites-2)
-    - [Steps](#steps-2)
-    - [Troubleshooting](#troubleshooting)
+- [Steps](#steps)
 
-## Windows 10
+## Prerequisites
 
-### Prerequisites
+### Windows 10
 
-- [Hugo Installed and Configured](https://gohugo.io/getting-started/installing/)
+(Tested on Windows 10 Pro)
 
-### Steps
+- [Hugo Installed and Configured](https://gohugo.io/getting-started/installing/#windows)
 
-1. Move to the folder parent where you would like to create your project.
+### Linux
+
+(Tested on Ubuntu 18.04)
+
+- [Snap](https://snapcraft.io/) (Usually already installed on Ubuntu 16.04+)
+- [Hugo Installed and Configured](https://gohugo.io/getting-started/installing/#snap-package)
+
+### macOS
+
+(Tested on macOS Catalina)
+
+- [Homebrew](https://brew.sh/)
+- [Hugo Installed and Configured](https://gohugo.io/getting-started/installing/#install-hugo-with-brew)
+
+## Steps
+
+1. In the terminal, move to the folder where you would like to create your Hugo projects.
 2. Follow these [instructions](https://gohugo.io/getting-started/quick-start/#step-2-create-a-new-site)
 
 Note: you can change `quickstart` by the name of your choice
-
-## Linux
-
-### Prerequisites
-
-- [Snap](https://snapcraft.io/) (Usually already installed on Ubuntu 16.04+)
-- [Hugo Installed and Configured](https://gohugo.io/getting-started/installing/#linux)
-- Docker CE Insatlled and Configured
-
-### Steps
-
-1. Move to the folder parent where you would like to create your project.
-2. Follow these [instructions](https://gohugo.io/getting-started/quick-start/#step-2-create-a-new-site)
-3. To run locally with Docker, use this command:
-
-```bash
-docker run --rm -it -v $PWD:/src -p 1313:1313 -u hugo jguyomard/hugo-builder hugo server -w -D --bind=0.0.0.0
-```
-
-## macOS
-
-### Prerequisites
-
-### Steps
-
-### Troubleshooting
