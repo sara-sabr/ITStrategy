@@ -87,15 +87,12 @@ Interactions may place ...
 
 ![Between teams and teams]({{site.baseurl}}/assets/images/team2team.PNG)
 
-
 ###### Tooling
 
 The amount of collaboration between the enabling teams and the enabled teams should vary significantly during the time which the enabling team is paired with the enabled team
 
 > The collaboration team mode is suitable where a high degree of adapatability or discovery is needed, particularly when exploring new technologies or techniques. The collaboration interaction mode is good for rapid discovery of new things, because it avoids costly hand-offs between teams.
-
-> .. the same two teams might need to collaborate closely at some point in time but be independent six or nine months later"
-
+> .. the same two teams might need to collaborate closely at some point in time but be independent six or nine months later
 
 As such, collaboration tools that allow for the rapid creation and disintegration should be leveraged
 An example of a viable tool for such a requirement would be Slack, where groups can be created and disposed of with relative ease.
