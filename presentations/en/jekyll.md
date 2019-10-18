@@ -85,9 +85,9 @@ If you run into the following issue:
 C:\Program Files\Docker\Docker\Resources\bin\docker.exe: Error response from daemon: Drive has not been shared.
 ```
 
-That means your shared drive is most likely not shared in the Docker settings.
+That means your drive is most likely not shared in the Docker settings.
 
-To share a drive with Docker:
+To share a drive with Docker on Windows:
 
 - Click on the Docker icon and go to: `Settings --> Shared Drives`
 - Check whichever drive you will need to access with Docker.
