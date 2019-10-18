@@ -62,17 +62,41 @@ This is an initial proposal and is intended to allow for iterations to refine an
 
 ###### Interactions
 
-The book Team Topologies, referenced below, recommends that Enabling Teams work with other teams for a period (potentially a few months) [TO-DO: Quote needed] in order to assist them with onboarding new technologies and approaches, and improving their existing processes and procedures.
+The book Team Topologies, referenced below, recommends that Enabling Teams whom could work with other teams via the collaboration or facilitation collaboration types for a period (potentially a few months) in order to assist them with onboarding new technologies and approaches, and improving their existing processes and procedures.
+
+> Deliberately changing the interaction mode of two teams to collaboration can be a powerful organizational enabler for rapid learning and adoption of new practices and approaches. If one team has significant experience in a valuable set of practices -- such as test automation -- from which the second team would benefit, then bringing the two teams together in collaboration mode for a few months can ... produce a step change in the capability of the second team. This 'deliberabte coordination' is particularly useful where two groups have very different prior experience due to the prevailing practices around their respective technologies".
+
+Where collaboration interaction mode is defined as
+
+> The collaboration team interaction mode can be used to drive the rate of innovation of both application and platform/application, which is particularly useful for new and emerging products or service offerings.
+
+And facilitation interactions are defined as
+
+> one team helps another team to learn or adopt new approaches for a defined period of time. The team providing the facilitation aims to make the other team self-sufficient as soon as possible, while the team receiving the facilitation has an open-minded attitude to learning.
+
 The goal is to ensure the interactions are brief enough that the teams being enabled do not become dependent on the enabling teams.
 The process improvements should stand on their own, and should not involve [toil](https://landing.google.com/sre/sre-book/chapters/eliminating-toil/).
 That is to say, the new processes and procedures should aim to automate or improve the existing processes, not lend temporary person-power to the teams
 Given the short and iterative nature of the interactions between the teams (duration of interactions should be defined by number of sprints) the enabling teams must identify quick wins -- the amount of automation that could be done within the limited time frame that would result in the greatest amount of automated work.
 
+Interactions may place ...
+
+![Between directorates]({{site.baseurl}}/assets/images/director2director.PNG)
+
+![Between directorates and teams]({{site.baseurl}}/assets/images/team2director.PNG)
+
+![Between teams and teams]({{site.baseurl}}/assets/images/team2team.PNG)
+
+
 ###### Tooling
 
-[TO-DO: Quote from Team Topologies regarding varying levels of team communication]
-
 The amount of collaboration between the enabling teams and the enabled teams should vary significantly during the time which the enabling team is paired with the enabled team
+
+> The collaboration team mode is suitable where a high degree of adapatability or discovery is needed, particularly when exploring new technologies or techniques. The collaboration interaction mode is good for rapid discovery of new things, because it avoids costly hand-offs between teams.
+
+> .. the same two teams might need to collaborate closely at some point in time but be independent six or nine months later"
+
+
 As such, collaboration tools that allow for the rapid creation and disintegration should be leveraged
 An example of a viable tool for such a requirement would be Slack, where groups can be created and disposed of with relative ease.
 
