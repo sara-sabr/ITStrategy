@@ -156,7 +156,7 @@ In the terminal, run the following command to have a new Jekyll project structur
 Windows
 
 ```bash
-Set-Variable -Name "JEKYLL_VERSION" -Visibility Public -Value 3.5
+$JEKYLL_VERSION=3.5
 
 docker run --rm --volume="${PWD}:/srv/jekyll" -it jekyll/jekyll:JEKYLL_VERSION jekyll new .
 ```
