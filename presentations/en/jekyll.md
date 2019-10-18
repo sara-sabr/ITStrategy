@@ -36,8 +36,8 @@
 
 - Ubuntu 16.04 or above is recommended (Debian distros should work fine)
 - [Docker CE Installed and Configured](https://docs.docker.com/install/linux/docker-ce/ubuntu/)
-  - See the [troubleshooting section]() for help with Docker issues
-  - Alternatively, you can use Snap
+  - See the [troubleshooting section](#troubleshooting) for help with Docker issues
+  - For installation, you can also use Snap:
 
 ```bash
 sudo snap install docker
