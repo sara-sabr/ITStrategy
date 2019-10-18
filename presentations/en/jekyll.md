@@ -21,8 +21,7 @@
   - [3. Build The Site](#3-build-the-site)
   - [4. Run The Site Locally](#4-run-the-site-locally)
   - [5. Create A Blog Post](#5-create-a-blog-post)
-  - [6. Restart Your Blog](#6-restart-your-blog)
-  - [7. Clear Your Workspace](#7-clear-your-workspace)
+  - [6. Remove the container](#6-remove-the-container)
 
 ## Prerequisites
 
@@ -107,19 +106,22 @@ Using the `--force_polling` switch at the end of the Docker command should norma
 #### Docker permission denied
 
 To avoid using Docker with `sudo`, follow the post install commands found [here](https://docs.docker.com/install/linux/linux-postinstall/).
-Log out and in again.
+
+Log out and log in again.
 
 ### macOS
 
-- No issues known at the moment.
+No issues known at the moment.
 You probably should use a Mac in all aspects of your life.
 /s
 
 ## Steps
 
+[_Back to top_](#jekyll-instructions)
+
 ### 1. Create Your Project Folder
 
-In PowerShell, or the terminal of your choice, create a project folder.
+In your prefered terminal, create a project folder.
 
 For example, you could do the following, changing `<project name>` to the name of your choice:
 
@@ -129,7 +131,7 @@ Windows
 mkdir -p ~\Documents\Projects\<project name> ; cd ~\Documents\Projects\<project name>
 ```
 
-Unix/Mac
+Linux/Mac
 
 ```bash
 mkdir -p ~/Documents/Projects/<project name> ; cd ~/Documents/Projects/<project name>
@@ -151,16 +153,20 @@ mkdir -p ~/Documents/Projects/mysite ; cd ~/Documents/Projects/mysite
 
 In the terminal, run the following command to have a new Jekyll project structure created:
 
-_Windows_
+Windows
 
 ```bash
-docker run --rm --volume="${PWD}:/srv/jekyll" -it jekyll/jekyll:3.5 jekyll new .
+Set-Variable -Name "JEKYLL_VERSION" -Visibility Public -Value 3.5
+
+docker run --rm --volume="${PWD}:/srv/jekyll" -it jekyll/jekyll:JEKYLL_VERSION jekyll new .
 ```
 
-Linux
+Linux/Mac
 
 ```bash
-docker run --rm --volume="$PWD:/srv/jekyll" -it jekyll/jekyll:3.5 jekyll new .
+export JEKYLL_VERSION=3.5
+
+docker run --rm --volume="$PWD:/srv/jekyll" -it jekyll/jekyll:JEKYLL_VERSION jekyll new .
 ```
 
 If you type `ls` in the terminal, you should see the new files appear.
@@ -183,30 +189,38 @@ This means that you can modify the files directly from VS Code.
 
 ### 3. Build The Site
 
-Execute this command in the terminal to have the site files generated:
+Execute the following command in the terminal to have the website files generated:
 
-_Windows_
+Windows
 
 ```bash
-docker run --rm --volume="${PWD}:/srv/jekyll" -it jekyll/jekyll:3.5 jekyll build
+docker run --rm --volume="${PWD}:/srv/jekyll" -it jekyll/jekyll:JEKYLL_VERSION jekyll build
 ```
 
-_Linux/macOS_
+Linux/Mac
 
 ```bash
-docker run --rm --volume="$PWD:/srv/jekyll" -it jekyll/jekyll:3.5 jekyll build
+docker run --rm --volume="$PWD:/srv/jekyll" -it jekyll/jekyll:JEKYLL_VERSION jekyll build
 ```
 
 If you run the `ls` command again, you will notice a new folder has been created: `_site`.
 
-That folder now contains all the HTML and CSS required to deploy a full functioning website.
+That folder now contains all the HTML and CSS required to deploy a fully functioning website.
 
 ### 4. Run The Site Locally
 
-Execute this command in the terminal to have the site locally hosted, replacing `<container name>` by the name of your choice:
+Execute the following command in the terminal to have the site locally hosted, replacing `<container name>` by the name of your choice:
+
+Windows
 
 ```bash
-docker run --name <container name> --volume="${PWD}:/srv/jekyll" -p 3000:4000 -it jekyll/jekyll:3.5 jekyll serve --watch --drafts --force_polling
+docker run --name <container name> --volume="${PWD}:/srv/jekyll" -p 3000:4000 -it jekyll/jekyll:JEKYLL_VERSION jekyll serve --watch --drafts --force_polling
+```
+
+Linux/Mac
+
+```bash
+docker run --name <container name> --volume="${PWD}:/srv/jekyll" -p 3000:4000 -it jekyll/jekyll:JEKYLL_VERSION jekyll serve --watch --drafts --force_polling
 ```
 
 You should be able to access the site at this URL: [http://localhost:3000/](http://localhost:3000/)
@@ -221,7 +235,26 @@ Create a new markdown document with the following name format:
 yyyy-mm-dd-blog-title.md
 ```
 
-In the document, you will need to have these lines at the top (although `categories` is optional):
+In the document, you will need to have these lines at the top (although `categories` is optional).
+
+```text
+---
+layout:
+title:
+date:
+categories:
+---
+```
+
+Example:
+
+Filename:
+
+```text
+2019-10-17-my-new-blog-post.md
+```
+
+File content:
 
 ```text
 ---
@@ -231,7 +264,7 @@ date:   2019-10-15 14:37:24 -0400
 categories: jekyll update
 ---
 
-You can add your content below.
+You can add your content here.
 
 Liquid tags can also be used.
 
@@ -245,18 +278,12 @@ Liquid tags can also be used.
 
 ```
 
-### 6. Restart Your Blog
-
-```bash
-docker restart <container name>
-```
-
-### 7. Clear Your Workspace
-
-Remove the container:
+### 6. Remove the container
 
 ```bash
 docker rm -f <container name>
 ```
+
+If you want to delete the project content, simply delete the folder.
 
 >Note: We'll keep the project folder's content for upcoming exercises
