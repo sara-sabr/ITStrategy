@@ -64,7 +64,7 @@ This is an initial proposal and is intended to allow for iterations to refine an
 
 The book Team Topologies, referenced below, recommends that Enabling Teams whom could work with other teams via the collaboration or facilitation collaboration types for a period (potentially a few months) in order to assist them with onboarding new technologies and approaches, and improving their existing processes and procedures.
 
-> Deliberately changing the interaction mode of two teams to collaboration can be a powerful organizational enabler for rapid learning and adoption of new practices and approaches. If one team has significant experience in a valuable set of practices -- such as test automation -- from which the second team would benefit, then bringing the two teams together in collaboration mode for a few months can ... produce a step change in the capability of the second team. This 'deliberabte coordination' is particularly useful where two groups have very different prior experience due to the prevailing practices around their respective technologies".
+> Deliberately changing the interaction mode of two teams to collaboration can be a powerful organizational enabler for rapid learning and adoption of new practices and approaches. If one team has significant experience in a valuable set of practices -- such as test automation -- from which the second team would benefit, then bringing the two teams together in collaboration mode for a few months can ... produce a step change in the capability of the second team. This 'deliberate coordination' is particularly useful where two groups have very different prior experience due to the prevailing practices around their respective technologies".
 
 Where collaboration interaction mode is defined as
 
@@ -91,7 +91,7 @@ Interactions may place ...
 
 The amount of collaboration between the enabling teams and the enabled teams should vary significantly during the time which the enabling team is paired with the enabled team
 
-> The collaboration team mode is suitable where a high degree of adapatability or discovery is needed, particularly when exploring new technologies or techniques. The collaboration interaction mode is good for rapid discovery of new things, because it avoids costly hand-offs between teams.
+> The collaboration team mode is suitable where a high degree of adaptability or discovery is needed, particularly when exploring new technologies or techniques. The collaboration interaction mode is good for rapid discovery of new things, because it avoids costly hand-offs between teams.
 > .. the same two teams might need to collaborate closely at some point in time but be independent six or nine months later
 
 As such, collaboration tools that allow for the rapid creation and disintegration should be leveraged
