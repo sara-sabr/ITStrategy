@@ -2,26 +2,28 @@
 
 >_(The exercise below is adapted from Davy De Waele's [blog post](https://ddewaele.github.io/running-jekyll-in-docker/) explaining how to run Jekyll in Docker. © 2018 Davy De Waele)_
 
-- [Prerequisites](#prerequisites)
-  - [Windows](#windows)
-  - [Linux](#linux)
-  - [macOS](#macos)
-- [Troubleshooting](#troubleshooting)
-  - [Testing Docker](#testing-docker)
-  - [Windows 10](#windows-10)
-    - [Invalid Reference Format](#invalid-reference-format)
-    - [Shared Drive](#shared-drive)
-    - [Blog Posts Not Updating](#blog-posts-not-updating)
-  - [Ubuntu 18.04](#ubuntu-1804)
-    - [Docker permission denied](#docker-permission-denied)
-  - [macOS](#macos-1)
-- [Steps](#steps)
-  - [1. Create Your Project Folder](#1-create-your-project-folder)
-  - [2. Generate Jekyll Files](#2-generate-jekyll-files)
-  - [3. Build The Site](#3-build-the-site)
-  - [4. Run The Site Locally](#4-run-the-site-locally)
-  - [5. Create A Blog Post](#5-create-a-blog-post)
-  - [6. Remove the container](#6-remove-the-container)
+- [Jekyll Instructions](#jekyll-instructions)
+  - [Prerequisites](#prerequisites)
+    - [Windows](#windows)
+    - [Linux](#linux)
+    - [macOS](#macos)
+  - [Troubleshooting](#troubleshooting)
+    - [Testing Docker](#testing-docker)
+    - [Windows 10](#windows-10)
+      - [Invalid Reference Format](#invalid-reference-format)
+      - [Docker Not Running](#docker-not-running)
+      - [Docker Shared Drive](#docker-shared-drive)
+      - [Blog Posts Not Updating](#blog-posts-not-updating)
+    - [Ubuntu 18.04](#ubuntu-1804)
+      - [Docker permission denied](#docker-permission-denied)
+    - [macOS](#macos-1)
+  - [Steps](#steps)
+    - [1. Create Your Project Folder](#1-create-your-project-folder)
+    - [2. Generate Jekyll Files](#2-generate-jekyll-files)
+    - [3. Build The Site](#3-build-the-site)
+    - [4. Run The Site Locally](#4-run-the-site-locally)
+    - [5. Create A Blog Post](#5-create-a-blog-post)
+    - [6. Remove the container](#6-remove-the-container)
 
 ## Prerequisites
 
@@ -77,7 +79,18 @@ C:\Program Files\Docker\Docker\Resources\bin\docker.exe: invalid reference forma
 
 ([Reference](https://github.com/OpenDroneMap/ODM/issues/591#issuecomment-377839741))
 
-#### Shared Drive
+#### Docker Not Running
+
+If you run into the followin error message:
+
+C:\Program Files\Docker\Docker\Resources\bin\docker.exe: error during connect: Post http://%2F%2F.%2Fpipe%2Fdocker_engine/v1.40/containers/create: open //./pipe/docker_engine: Le fichier spécifié est introuvable. In the default daemon configuration on Windows, the docker client must be run elevated to connect. This error may also indicate that the docker daemon is not running.  
+See 'C:\Program Files\Docker\Docker\Resources\bin\docker.exe run --help'.
+
+You most likely don't have Docker running in the tray.
+
+Launch the Docker service.
+
+#### Docker Shared Drive
 
 If you run into the following issue:
 
