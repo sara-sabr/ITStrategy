@@ -39,5 +39,6 @@
 
 1. In the terminal, move to the folder where you would like to create your Hugo projects.
 2. Follow these [instructions](https://gohugo.io/getting-started/quick-start/#step-2-create-a-new-site)
+3. To add the theme in Windows, you'll need to open up the config.toml file.
 
 Note: you can change `quickstart` by the name of your choice
