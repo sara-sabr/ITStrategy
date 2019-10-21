@@ -18,7 +18,7 @@ Continuous improvement transformation and GC wide "Government as a service" base
 
 ## Mission (team's reason for existence)
 
-Enable the strategic value of IT within ESDC to increase business agility.
+Enable the strategic value of IT within ESDC by reducing its risks to increase business agility.
 
 ## Mandate (team's authority within IITB)
 
@@ -50,9 +50,9 @@ If IT fails, business fails and vice versa.
 The use of technology is no longer "an IT problem" as it has real repercussions to citizens.
 IT can no longer be seen as a company within another company (or an outside supplier), it has shared accountability with the organization's mandate and is a strategic asset.
 
-Current IT processes and methods take a long time to deliver or change applications, devices and support.
+Current IT processes and governance methods are risky and costly, which translates into long time to deliver or change applications, devices and support.
 Recovering from incidents is hard and errors resulting from changes are frequent.
-We must reduce these risks and continuously improve in all areas related to IT.
+We must reduce risks associated with IT and continuously improve in all of its areas.
 
 That is **Digital Transformation**.
 
