@@ -1,11 +1,20 @@
-# Hugo Instructions
+---
+layout: default
+title: Hugo Exercise Instructions
+ref: exercises-oss-hugo
+lang: en
+status: posted
+categories: Exercises, "Open Source Software"
+permalink: /exercises-oss-hugo.html
+---
 
-- [Hugo Instructions](#hugo-instructions)
-  - [Prerequisites](#prerequisites)
-    - [Windows 10](#windows-10)
-    - [Linux](#linux)
-    - [macOS](#macos)
-  - [Steps](#steps)
+# Hugo Exercise Instructions
+
+- [Prerequisites](#prerequisites)
+  - [Windows 10](#windows-10)
+  - [Linux](#linux)
+  - [macOS](#macos)
+- [Steps](#steps)
 
 ## Prerequisites
 

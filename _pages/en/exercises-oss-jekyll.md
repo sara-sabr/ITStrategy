@@ -1,29 +1,38 @@
-# Jekyll Instructions
+---
+layout: default
+title: Jekyll Exercise Instructions
+ref: exercises-oss-jekyll
+lang: en
+status: posted
+categories: Exercises, "Open Source Software"
+permalink: /exercises-oss-jekyll.html
+---
+
+# Jekyll Exercise Instructions
 
 >_(The exercise below is adapted from Davy De Waele's [blog post](https://ddewaele.github.io/running-jekyll-in-docker/) explaining how to run Jekyll in Docker. © 2018 Davy De Waele)_
 
-- [Jekyll Instructions](#jekyll-instructions)
-  - [Prerequisites](#prerequisites)
-    - [Windows](#windows)
-    - [Linux](#linux)
-    - [macOS](#macos)
-  - [Troubleshooting](#troubleshooting)
-    - [Testing Docker](#testing-docker)
-    - [Windows 10](#windows-10)
-      - [Invalid Reference Format](#invalid-reference-format)
-      - [Docker Not Running](#docker-not-running)
-      - [Docker Shared Drive](#docker-shared-drive)
-      - [Blog Posts Not Updating](#blog-posts-not-updating)
-    - [Ubuntu 18.04](#ubuntu-1804)
-      - [Docker permission denied](#docker-permission-denied)
-    - [macOS](#macos-1)
-  - [Steps](#steps)
-    - [1. Create Your Project Folder](#1-create-your-project-folder)
-    - [2. Generate Jekyll Files](#2-generate-jekyll-files)
-    - [3. Build The Site](#3-build-the-site)
-    - [4. Run The Site Locally](#4-run-the-site-locally)
-    - [5. Create A Blog Post](#5-create-a-blog-post)
-    - [6. Remove the container](#6-remove-the-container)
+- [Prerequisites](#prerequisites)
+  - [Windows](#windows)
+  - [Linux](#linux)
+  - [macOS](#macos)
+- [Troubleshooting](#troubleshooting)
+  - [Testing Docker](#testing-docker)
+  - [Windows 10](#windows-10)
+    - [Invalid Reference Format](#invalid-reference-format)
+    - [Docker Not Running](#docker-not-running)
+    - [Docker Shared Drive](#docker-shared-drive)
+    - [Blog Posts Not Updating](#blog-posts-not-updating)
+  - [Ubuntu 18.04](#ubuntu-1804)
+    - [Docker permission denied](#docker-permission-denied)
+  - [macOS](#macos-1)
+- [Steps](#steps)
+  - [1. Create Your Project Folder](#1-create-your-project-folder)
+  - [2. Generate Jekyll Files](#2-generate-jekyll-files)
+  - [3. Build The Site](#3-build-the-site)
+  - [4. Run The Site Locally](#4-run-the-site-locally)
+  - [5. Create A Blog Post](#5-create-a-blog-post)
+  - [6. Remove the container](#6-remove-the-container)
 
 ## Prerequisites
 
@@ -51,9 +60,9 @@ sudo snap install docker
 - [Hardware requirements](https://docs.docker.com/docker-for-mac/install/#system-requirements)
 - [Docker CE Installed and Configured](https://docs.docker.com/docker-for-mac/install/)
 
-## Troubleshooting
+[_Back to top_](#jekyll-exercise-instructions)
 
-[_Back to top_](#jekyll-instructions)
+## Troubleshooting
 
 ### Testing Docker
 
@@ -128,9 +137,9 @@ No issues known at the moment.
 You probably should use a Mac in all aspects of your life.
 /s
 
-## Steps
+[_Back to top_](#jekyll-exercise-instructions)
 
-[_Back to top_](#jekyll-instructions)
+## Steps
 
 ### 1. Create Your Project Folder
 
