@@ -8,7 +8,9 @@ categories: Exercises, "Open Source Software"
 permalink: /exercises-oss-jekyll.html
 ---
 
+<!-- markdownlint-disable MD025-->
 # Jekyll Exercise Instructions
+<!-- markdownlint-enable MD025-->
 
 >_(The exercise below is adapted from Davy De Waele's [blog post](https://ddewaele.github.io/running-jekyll-in-docker/) explaining how to run Jekyll in Docker. © 2018 Davy De Waele)_
 
@@ -90,7 +92,7 @@ C:\Program Files\Docker\Docker\Resources\bin\docker.exe: invalid reference forma
 
 #### Docker Not Running
 
-If you run into the followin error message:
+If you run into the following error message:
 
 C:\Program Files\Docker\Docker\Resources\bin\docker.exe: error during connect: Post http://%2F%2F.%2Fpipe%2Fdocker_engine/v1.40/containers/create: open //./pipe/docker_engine: Le fichier spécifié est introuvable. In the default daemon configuration on Windows, the docker client must be run elevated to connect. This error may also indicate that the docker daemon is not running.  
 See 'C:\Program Files\Docker\Docker\Resources\bin\docker.exe run --help'.
@@ -143,7 +145,7 @@ You probably should use a Mac in all aspects of your life.
 
 ### 1. Create Your Project Folder
 
-In your prefered terminal, create a project folder.
+In your preferred terminal, create a project folder.
 
 For example, you could do the following, changing `<project name>` to the name of your choice:
 

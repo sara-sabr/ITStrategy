@@ -8,7 +8,9 @@ categories: Exercises, "Open Source Software"
 permalink: /exercises-oss-hugo.html
 ---
 
+<!-- markdownlint-disable MD025-->
 # Hugo Exercise Instructions
+<!-- markdownlint-enable MD025-->
 
 - [Prerequisites](#prerequisites)
   - [Windows 10](#windows-10)
