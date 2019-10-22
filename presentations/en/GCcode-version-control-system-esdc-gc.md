@@ -96,6 +96,8 @@ A stepping stone to working in the open by default.
 - Integration with other systems
 - ..
 
+See [Gitlab Docs](https://docs.gitlab.com/ee/README.html)
+
 ---
 
 ## Why not SaaS
@@ -171,16 +173,3 @@ Currently unclassified, but could be Protected B
 Question / Comments ?
 
 Thank you!
-
----
-
-## Appendix - Additional Features
-
-- [Pages](https://about.gitlab.com/product/pages/) – To host documents and guides on the software in development, and even static websites including ones with GC official theme
-- [Internal Runners](https://docs.gitlab.com/runner/) – For deployment directly to SSC infrastructure to manage production and development environments
-
-If exposed to the Internet:
-
-- [Cloud Runners](https://docs.gitlab.com/runner/) – For deployment to cloud infrastructure to manage production and development environments
-- [3rd Party Integrations](https://docs.gitlab.com/ce/integration/) – To add a variety of services to projects
-- [Repository mirroring](https://docs.gitlab.com/ce/workflow/repository_mirroring.html) – For multi-government and citizen collaboration
