@@ -10,13 +10,17 @@ For discussion
 
 - The new Policy on Service and Digital requires government services to be delivered using technology
 - Demands for technology will increase exponentially
-- Business agility will depend on technology agility
+- Business agility depends on technology agility
 - The use of technology is costly and risky
 - ESDC can no longer see technological problems as "just an IT problem"
 
 <!-- markdownlint-disable -->
 *The use of technology to deliver a mandate ***must*** be a shared accountability*
 <!-- markdownlint-enable -->
+
+Note:
+ESDC corporate risk profile identifies IT as the #1 risk to the organization
+"The very point of digital transformation is to reduce risk" - War & Peace & IT.
 
 ---
 
@@ -89,21 +93,35 @@ By using the approaches and technologies we champion, we are able to better resp
 --
 
 Work in the open to avoid re-work
+
+- Use a GIT-based version control system for all software
+- Expose work in progress to other teams
+
 Note:
 ALL teams (developers, security, testing, operations) must use git.
 ALL Sharepoint sites must allow any ESDC employees read access by default
-Expose work in progress
+Expose work in progress to improve team communication
 Leverate [Values and Ethics Code for the Public Sector](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=25049) as foundational trusts with employees
+Encourages collaboration and fosters a culture of flexibility, mobility and well-being
 
 --
 
 Core competencies (continous learning)
+
+- All IT teams must use 10% of their time to learn
+- All IT teams must use 10% of their time to automate manual processes
+
 Note:
-20% of staff's time must be allocated to learn
+Empower multidisciplinary teams and allow them to work on new ideas in pursuit of business goals that solve important problems
 
 --
 
 Modern tools
+
+- Architecture must actively and fairly consider open standards and open source software
+- Architecture must enable deploy-anytime capabilities, with high degrees of automation
+- Access to common Internet (SaaS) must be open by default to IITB personnel
+
 Note:
 Public servants are more effective at delivering services, programs and policies when they have modern tools that help their work and a modern workplace.
 
@@ -113,15 +131,11 @@ Public servants need professional development that keeps up with changing times 
 
 --
 
-Integration over creation
-Note:
-Do not compete with the private sector. Teams must prioritize integrating ESDC services into the existing IT ecosystem over developing, or improving existing, client facing applications competing for Canadians' attention. Create jobs, not software.
-
-Any new IT change must favour APIs over UIs
-
---
-
 Avoid Toil
+
+- Automate as much processes as possible
+- All teams must have at least two members with knowledge of programming to assist with process automation
+
 Note:
 Toil is the kind of work tied to running a production service that tends to be manual, repetitive, automatable, tactical, devoid of enduring value, and that scales linearly as a service grows.
 
@@ -130,6 +144,12 @@ Invest in automation: 1 month/year (e.g. august) dedicate entirely to automation
 --
 
 Re-visit Investment Management practices
+
+- Promote smaller investments over large ones
+- Monitor investments based on business outcomes, not project plans
+- Move and support product management
+- Use Agile methodologies, iterate and continually improve solutions and services
+
 Note:
 Monitor investments on business outcomes, not project plans
 
