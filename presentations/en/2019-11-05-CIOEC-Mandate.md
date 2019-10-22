@@ -9,8 +9,9 @@ For discussion
 ## Context
 
 - The new Policy on Service and Digital requires government services to be delivered using technology
-- The use of technology is costly and risky
 - Demands for technology will increase exponentially
+- Business agility will depend on technology agility
+- The use of technology is costly and risky
 - ESDC can no longer see technological problems as "just an IT problem"
 
 <!-- markdownlint-disable -->
@@ -24,7 +25,7 @@ For discussion
 <!-- markdownlint-disable -->
 *Reason for existence*
 
-Enable the strategic value of IT within ESDC by **reducing its risks** to increase business agility.
+Enable the strategic value of IT within ESDC by ***reducing its risks*** and ***increasing business agility***.
 <!-- markdownlint-enable -->
 
 ---
