@@ -4,7 +4,7 @@ title: Building Nested Enabling Teams
 ref: mandate
 lang: en
 status: posted
-categories: Work In Progress
+sections: Work In Progress
 permalink: /building-enabling-directorate.html
 ---
 

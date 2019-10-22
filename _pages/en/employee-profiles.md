@@ -4,7 +4,7 @@ title: Employee Profiles
 ref: employee-profiles
 lang: en
 status: posted
-categories: Work In Progress
+sections: Work In Progress
 permalink: /employee-profiles.html
 ---
 

@@ -4,7 +4,7 @@ title: Tendances et besoins futurs
 ref: trends
 lang: fr
 status: posted
-categories: Travaux en cours
+sections: Travaux en cours
 permalink: /tendances.html
 ---
 
