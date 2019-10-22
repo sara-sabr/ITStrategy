@@ -112,6 +112,8 @@ Core competencies (continous learning)
 - All IT teams must use 10% of their time to automate manual processes
 
 Note:
+IT teams must use 10% of their time to learn/try new technologies, attend events/conferences and stay up to date on trends and technologies related to their work
+IT teams must use 10% of their time for automation of testing, deployments and other manual processes
 Empower multidisciplinary teams and allow them to work on new ideas in pursuit of business goals that solve important problems
 
 --
