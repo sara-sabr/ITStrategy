@@ -4,7 +4,7 @@ title: Human Development Life Cycle
 ref: hdlc
 lang: en
 status: posted
-categories: Work In Progress
+sections: Work In Progress
 permalink: /human-development-life-cycle.html
 ---
 

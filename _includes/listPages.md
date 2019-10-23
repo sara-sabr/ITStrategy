@@ -1,12 +1,12 @@
 ### {{ site.docsTitle[page.lang] }}
 
-{% assign categories = site.categoriesList[page.lang] %}
-{% for category in categories %}
-{% assign aPage = site.pages | where:"categories", category | where:"lang", page.lang | sort: "title" %}
+{% assign sections = site.sectionsList[page.lang] %}
+{% for section in sections %}
+{% assign aPage = site.pages | where:"sections", section | where:"lang", page.lang | sort: "title" %}
 
 {%- if aPage.size > 0 -%}
 
-#### {{ category }}
+#### {{ section }}
 
 <ul>
   {%- for page in aPage -%}

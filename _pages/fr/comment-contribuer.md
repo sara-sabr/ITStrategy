@@ -4,7 +4,7 @@ title: Travailler ouvertement et les façons dont vous pouvez contribuer
 ref: how-to-contribute
 lang: fr
 status: posted
-categories: À propos de nous
+sections: À propos de nous
 permalink: /comment-contribuer.html
 ---
 

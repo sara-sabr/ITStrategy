@@ -4,7 +4,7 @@ title: IT Strategies and Actions
 ref: strategies
 lang: en
 status: posted
-categories: Work In Progress
+sections: Work In Progress
 permalink: /strategies-actions.html
 ---
 
