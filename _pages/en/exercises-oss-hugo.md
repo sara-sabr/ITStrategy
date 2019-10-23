@@ -4,7 +4,7 @@ title: Hugo Exercise Instructions
 ref: exercises-oss-hugo
 lang: en
 status: posted
-categories: Exercises, "Open Source Software"
+sections: Exercises, "Open Source Software"
 permalink: /exercises-oss-hugo.html
 ---
 
