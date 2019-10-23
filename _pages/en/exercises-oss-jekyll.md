@@ -4,7 +4,7 @@ title: Jekyll Exercise Instructions
 ref: exercises-oss-jekyll
 lang: en
 status: posted
-categories: Exercises, "Open Source Software"
+sections: Exercises, "Open Source Software"
 permalink: /exercises-oss-jekyll.html
 ---
 
