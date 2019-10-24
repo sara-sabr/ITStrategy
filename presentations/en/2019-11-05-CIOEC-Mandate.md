@@ -99,10 +99,12 @@ Work in the open to avoid re-work
 
 Note:
 ALL teams (developers, security, testing, operations) must use git.
-ALL Sharepoint sites must allow any ESDC employees read access by default
-Expose work in progress to improve team communication
-Leverate [Values and Ethics Code for the Public Sector](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=25049) as foundational trusts with employees
+ALL Sharepoint sites must allow any ESDC employees read access by default - only lock down what is really necessary
+Expose work in progress to improve team communication and share what you do with others
+Leverage [Values and Ethics Code for the Public Sector](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=25049) as foundational trusts with employees
 Encourages collaboration and fosters a culture of flexibility, mobility and well-being
+Explore open source tools for quick wins
+Be open to contributions and constructive feedback from the get go
 
 --
 
@@ -127,7 +129,7 @@ Modern tools
 Note:
 Public servants are more effective at delivering services, programs and policies when they have modern tools that help their work and a modern workplace.
 
-Public servants need professional development that keeps up with changing times and changing technology
+Public servants need professional development that keeps up with changing times and changing technology (conference is interesting but there are MANY open resources to learn new tools and methods)
 
 [Digital Operations Strategic Plan: 2018-2022](https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html)
 
@@ -135,11 +137,13 @@ Public servants need professional development that keeps up with changing times 
 
 Avoid Toil
 
-- Automate as much processes as possible
+- Automate processes as much as possible
 - All teams must have at least two members with knowledge of programming to assist with process automation
 
 Note:
 Toil is the kind of work tied to running a production service that tends to be manual, repetitive, automatable, tactical, devoid of enduring value, and that scales linearly as a service grows.
+
+Doesn't need to be the end-to-end in a big bang, can be incrementally automated.
 
 Invest in automation: 1 month/year (e.g. august) dedicate entirely to automation and process improvement
 
