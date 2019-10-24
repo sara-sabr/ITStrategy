@@ -45,4 +45,3 @@ to a partnership one *(shared accountability)*.
 ### What's in it for you
 
 - asdfasdfasdf
-
