@@ -3,7 +3,7 @@ layout: default
 title: ESDC IT Strategy
 ref: esdc-it-strategy
 lang: en
-status: in-progress
+status: posted
 categories: "About us"
 permalink: /esdc-it-strategy.html
 ---
@@ -30,9 +30,9 @@ In addition, ESDC has started investing in a [Business Delivery Modernization](h
 ESDC's 2018-2020 Corporate Risk Profile (CRP) identifies IT and Business Continuity as its number 1 and number 10 corporate risks respectively.
 Both risks have impacts to Information/Knowledge Management (Data), Privacy/Safeguarding Personal Information, Fraud and Service Delivery.
 
-As explained in [ESDC's Medium-Term Planning](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Briefings/MTP-Initiative-Mapping_2018.docx), ESDC operates a portfolio of approximately 500 applications, 101 of which are mission critical. These IT systems can no longer meet the needs of ESDC programs due to system ageing and too much unadressed technical debt. Some new government regulations cannot be implemented because ESDC IT systems are unable to respond to those changes.
+As explained in [ESDC's Medium-Term Planning](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Briefings/MTP-Initiative-Mapping_2018.docx), ESDC operates a portfolio of approximately 500 applications, 101 of which are mission critical. These IT systems can no longer meet the needs of ESDC programs due to system ageing and too much unaddressed technical debt. Some new government regulations cannot be implemented because ESDC IT systems are unable to respond to those changes.
 
-Government of Canada historical records are evidence that the conventioanl methods of doing IT promotes risks instead of reducing them. For example, the [July 2018 report of the Standing Senate Committee on National Finance](https://sencanada.ca/content/sen/committee/421/NFFN/reports/NFFN_Phoenix_Report_32_WEB_e.pdf) about the Phoenix Pay System project states: "Instead of realizing $70 million in annual savings by centralizing pay operations, the government will incur approximately $2.2 billion in unplanned expenditures".
+Government of Canada historical records are evidence that the conventional methods of doing IT promotes risks instead of reducing them. For example, the [July 2018 report of the Standing Senate Committee on National Finance](https://sencanada.ca/content/sen/committee/421/NFFN/reports/NFFN_Phoenix_Report_32_WEB_e.pdf) about the Phoenix Pay System project states: "Instead of realizing $70 million in annual savings by centralizing pay operations, the government will incur approximately $2.2 billion in unplanned expenditures".
 
 ESDC as a whole organization understands that the use of IT is risky and costly.
 In addition, with the emergence of digital government through new business, policy, and technology direction, the demand on IT is expected to increase exponentially.
@@ -69,7 +69,7 @@ The ESDC IT Strategy uses the [DevOps Research and Assessment (DORA)](https://cl
 
 The transition towards this partnership model is explained in the following [Strategy Map diagram](/strategy-summary.html). Each block corresponding in the diagram represents a distinct strategy to move ESDC towards its ultimate Digital Transformation goal: become a key stakeholder in the Canadian Government as a Platform. 6 pillars support this roadmap: Delivery of Service, Project Management, Governance, Modern Workplace, Business Integration, and Talent Management.
 
-The approach to the IT Strategy is **not** to complete each of the diagram's block before publishing them as a single plan. Instead, the ESDC IT Strategy team will work with the IT community to continously diagrnose key organizational problems, waste, lead times and governance structures that inhibit the desired changes in behaviours.
+The approach to the IT Strategy is **not** to complete each of the diagram's block before publishing them as a single plan. Instead, the ESDC IT Strategy team will work with the IT community to continuously diagnose key organizational problems, waste, lead times and governance structures that inhibit the desired changes in behaviours.
 
 ## Immediate actions
 
