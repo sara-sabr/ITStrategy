@@ -94,7 +94,7 @@ A stepping stone to working in the open by default.
 - Wiki
 - Websites
 - Integration with other systems
-- ..
+- ...
 
 See [Gitlab Docs](https://docs.gitlab.com/ee/README.html)
 
@@ -104,20 +104,20 @@ See [Gitlab Docs](https://docs.gitlab.com/ee/README.html)
 
 ### Pros
 
-- **Leverage cloud infrastructure** - Don’t compete with providers' resources and ability to stay current
-- **Work in Complete Openness** - Allow employees to work in the open with the rest of the world
-- **Private repositories** - Private projects are available for free or as part of a subscription ($$)
-
---
-
-### Cons
-
 - **Comfort Level with Openness** - Teams can be reluctant to work completly in the open
 - **Vendor Lock-in** - Providers's roadmap is determined based on industry funding, not by the GC's interests
 - **Potential Cost Savings** - Own instance could result in cost savings due to number of potential private repositories at GC level
 - **Contribute to GitLab CE** - Allow the GC to contribute and influence direction of the GitLab OSS project
 
 ---
+
+### Cons
+
+- **Leverage cloud infrastructure** - Don’t compete with providers' resources and ability to stay current
+- **Work in Complete Openness** - Allow employees to work in the open with the rest of the world
+- **Private repositories** - Private projects are available for free or as part of a subscription ($$)
+
+--
 
 ### SaaS vs GCcode
 
