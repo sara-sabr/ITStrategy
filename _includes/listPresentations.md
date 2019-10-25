@@ -1,6 +1,7 @@
 ### {{ site.presentations[page.lang] }}
 
 <!--markdownlint-disable MD033-->
+<!-- 
 <ul class="post-list">
   <li>
       <strong>
@@ -10,3 +11,5 @@
       </strong>
     </li>
 </ul>
+
+-->
