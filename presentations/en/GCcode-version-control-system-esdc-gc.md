@@ -1,3 +1,7 @@
+---
+marp: true
+---
+
 # GCcode
 
 ## Version Control for ESDC and GC
@@ -10,7 +14,7 @@
 
 ## The Ask
 
-Provide support in evolving the GCcode version control system (VCS) and project management platform to become officially supported to enable sharing within the GC.
+Provide support in evolving GCcode (version control and project management) platform to become officially supported within the GC, to enable maximum sharing and reuse.
 
 ---
 
@@ -20,7 +24,7 @@ Provide support in evolving the GCcode version control system (VCS) and project 
 
 Endorsed at ARC – September 2019
 
-- Use open source software (OSS)
+- Use Open Source Software (OSS)
 - Contribute to OSS communities
 - Publish code as OSS
 
@@ -28,45 +32,45 @@ Endorsed at ARC – September 2019
 
 ## GC Context
 
-[Directive on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601)
+### [Directive on Management of IT](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249)
 
-[Mandatory Procedures for EA Assessment](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602)
+**Mandatory Procedures for EA Assessment**
 
 - All source code must be released under an appropriate open source software license
 - Share code publicly when appropriate, and when not, share within the GC
 
---
+### [GC Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html)
 
-### GC Digital Standards
+**Work in the open by default**
 
-> Work in the open by default
-
-Make all non-sensitive data, information, and new code developed in delivery of services open to the outside world for sharing and reuse under an open licence
+- Make all non-sensitive data, information, and new code developed in delivery of services open to the outside world for sharing and reuse under an open licence
 
 ---
 
 ## Current State
 
-Each department manages its own internal VCS/Project management platforms
+Each department manages its own internal Version Control/Project Management platforms
 
-> ESDC has TFS, SVN and GitLab (Azure)
+> ESDC has a mix of TFS, SVN and GitLab (Azure)
 
-For open source code and working in the open, SaaS are recomended
+For open source code and working in the open, Software-as-a-Service (SaaS) is recommended
 
 > ESDC is using mostly Github.com
 
---
+---
 
-### GCcode
+## GCcode
 
-SSC maintains an unofficial "best effort" internal to the GC instance called GCcode
+SSC maintains an unofficial "best effort" shared instance called GCcode (internal to GC)
 
 - ≈3600 projects and ≈3000 users
 - 350+ users from ESDC
 - 50 GC organizations
 - 17k+ issues and 8k merge requests
 
-(May 2019)
+(As of May 2019)
+
+https://gccode.ssc-spc.gc.ca
 
 ---
 
@@ -74,79 +78,78 @@ SSC maintains an unofficial "best effort" internal to the GC instance called GCc
 
 To increase sharing/reuse in the GC
 
-- Evolve GCcode as an officially supported internal VCS and project management platform for the GC community, with assistance from ESDC (e.g. funding)
+- Evolve GCcode as an officially supported internal version control and project management platform for the GC community, with assistance from ESDC (e.g. funding)
 - Make it the default working environment for all source code projects in ESDC
-  - Internal to GC or private projets
+  - Visibility: GC-wide or private
 
 Not just a copy of the code, it's where teams work.
 
-A stepping stone to working in the open by default.
+A stepping stone to working in the open by default!
 
 ---
 
-## More than just version control
+## More than just source code
 
 - Projects (groups, repositories)
-- VCS (source code, files)
 - Issues (bugs, features, tasks)
-- Kanban (to prioritize/visualize tasks)
+- Kanban (prioritize/visualize tasks)
 - Continuous Integration (automated testing)
 - Wiki
-- Websites
+- Websites (GC theme available)
 - Integration with other systems
 - ...
 
-See [Gitlab Docs](https://docs.gitlab.com/ee/README.html)
+See [GitLab Features](https://about.gitlab.com/features/)
 
 ---
 
-## Why not SaaS
+## Why not SaaS like Github.com?
 
-### Pros
+### Advantages of public SaaS
 
-- **Comfort Level with Openness** - Teams can be reluctant to work completly in the open
-- **Vendor Lock-in** - Providers's roadmap is determined based on industry funding, not by the GC's interests
-- **Potential Cost Savings** - Own instance could result in cost savings due to number of potential private repositories at GC level
-- **Contribute to GitLab CE** - Allow the GC to contribute and influence direction of the GitLab OSS project
+- **Provider's Infrastructure** - Don’t compete with providers' resources and ability to stay current and innovate
+- **Work in complete Openness** - Allow employees to work in the open with the rest of the world
+- **Limited Private Repositories** - Private projects are available for free with limitations (3 collaborators) or as part of a subscription ($)
 
 ---
 
-### Cons
+### Drawbacks of public SaaS
 
-- **Leverage cloud infrastructure** - Don’t compete with providers' resources and ability to stay current
-- **Work in Complete Openness** - Allow employees to work in the open with the rest of the world
-- **Private repositories** - Private projects are available for free or as part of a subscription ($$)
+- **Comfort Level with Openness** - Teams can be reluctant to work completely in the open
+- **Vendor Lock-in** - Providers' roadmap is determined based on industry funding, not on GC's interests
+- **Expensive** - Own instance could result in economies of scale due to the number of private repositories needed at GC level
+- **Low power of influence over project** - Allow the GC to contribute and influence direction of the GitLab OSS project
 
---
+---
 
-### SaaS vs GCcode
+## SaaS vs GCcode
 
 **SaaS** is available directly on the Internet and can be used to host unclassified GC information only.
 
 **GCcode** is available only on the GC network and is an instance of the open source software (OSS) Gitlab CE.
-Currently unclassified, but could be Protected B
+Currently unclassified, but could be certified Protected B
 
 ---
 
 ## Benefits to ESDC – IITB
 
-- Strengthen **relationship** between IT and business through a common VCS and project management platform
+- Strengthen **relationship** between IT and business through a common version control and project management platform
 - Improve the **quality and security** of code with automated testing
 - **Accelerate** the rate of development and deployments
 - **Discover/reuse** code from other projects (incl. other depts)
-- Obtain metrics/statistics for **reporting and continuous improvement**
+- Obtain metrics/statistics for **reporting** and continuous improvement
 
---
+---
 
-### Benefits to ESDC – Existing Projects
+## Benefits to ESDC – Existing Projects
 
 - Benefit from a **common** development platform:
-  - Functionalities covering the full development lifecycle (code, issues, tasks, Kanban, automated test and deployments)
+  - Functionalities covering the full development lifecycle (code, issues, tasks, Kanban, automated tests and deployments)
   - Adoption and training
   - Centralized project communications
   - Making work visible
   - Increasing collaboration through reduction of silos
-- Enhance **planning** of features development through a single view
+- Enhance **planning** of feature development through a single view
 - **Automate** tracking of work done by employees
 - Ensure **accountability** through logging of changes and incidents
 - Improve code **quality** and **collaboration** by developing in the open, thereby reducing overall risk
@@ -155,23 +158,27 @@ Currently unclassified, but could be Protected B
 
 ## Proposal
 
-- Evolve GCcode as an officially supported internal VCS and project management platform for the GC community, with assistance from ESDC (e.g. funding)
+- Evolve GCcode as an officially supported internal version control and project management platform for the GC community, with assistance from ESDC (e.g. funding)
 - Make it the default working environment for all source code projects in ESDC
-  - Internal to GC or private projets
+  - Visibility: GC-wide or limited
 
 ---
 
 ### Next Steps
 
-- Commence discussions with SSC team responsible for GCcode
+- Commence discussions with business owner of GCcode (SSC CIO)
 - Determine and plan evolution of the service
-  - business model, service levels, hosting environment, accessibility/security, additional features)
+  - E.g., business model, service levels, hosting environment, accessibility/security, additional features
 - Set funding agreement(s) with ESDC and other departments as required
 - Implement technical changes & Formalize a support team within SSC
-- Update ESDC OSS Guidance (e.g. When to choose GCcode vs GitHub, How to migrate project from one to the other)
+- Update ESDC OSS Guidance (e.g., When to choose GCcode vs GitHub, How to migrate projects from one to the other)
 
 ---
 
-Question / Comments ?
+## Questions / Comments ?
 
 Thank you!
+
+IT Strategy Team
+
+EDSC.DGIIT.StrategieTI-ITStrategy.IITB.ESDC@hrsdc-rhdcc.gc.ca
