@@ -38,9 +38,16 @@ Note:
 - MANY problems are already solved
 - Many solutions can be useful to problems/people you don't yet think of
 
----
+--
 
-Stephen Walli quote
+>It's all about software engineering economics
+
+Stephen Walli, Principal Program Manager at Microsoft
+
+Note:
+
+- Writing good code is hard
+- If you work in the open and build a community, your team is bigger than you can hire
 
 ---
 
