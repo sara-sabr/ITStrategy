@@ -40,6 +40,8 @@ Note:
 
 ---
 
+Stephen Walli quote
+
 ---
 
 ## When
