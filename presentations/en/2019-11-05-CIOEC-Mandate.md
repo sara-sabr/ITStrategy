@@ -8,7 +8,7 @@ For discussion
 
 ## Context
 
-- The new Policy on Service and Digital calls for a digital-first and digitally enabled government
+- The new Policy on Service and Digital calls for a digitally enabled government that delivers services through technology
 - Demands for organizational technological competence will only increase going forward
 - Business agility depends on technology agility
 - The use of technology is costly and risky
