@@ -59,20 +59,25 @@ As soon as possible. Now.
 
 Note:
 
-Don't wait until you had all your committees reviews.
-Start your drafts in the open (change the way you write)
+- Don't wait until you had all your committees reviews
+- Don't wait until it's perfect (it never is)
+- Start your drafts in the open (improve the way you write)
 
 ---
 
 ## How
 
---
+---
 
 ### Responsibilities
+
+--
 
 Your work is under Crown Copyright
 
 Note:
+
+TODO: Add notice example
 
 - Limitations to what public can do directly with you
 - If licenced, need notice of the copyright
@@ -94,8 +99,8 @@ Write like the newspaper is going to publish your content
 
 Note:
 
-- Increase quality of your work
-- You KNOW people can come and see it
+- Increase quality of your work (link to GDS blog post)
+- You KNOW people can come and see it; you should think twice before posting something
 
 --
 
