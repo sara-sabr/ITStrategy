@@ -87,6 +87,6 @@ permalink: /strategies-actions.html
 
 #### Measurement
 
-- IT teams must collects data throughout the value stream
+- IT teams must collect data throughout the value stream
 - IT teams must established Work In Progress (WIP) limits based on team capacity and cognitive load
 - IT teams must make collected data and project status visible to the business
