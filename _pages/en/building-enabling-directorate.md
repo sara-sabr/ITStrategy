@@ -49,11 +49,9 @@ Each team has its own set of responsibilities for which they are responsible.
 The teams will collaborate regularly both via regular meetings and open collaboration tools (where possible and appropriate).
 For example, in addition to e-mail, tools such as Slack or Skype messenger should be used for regular informal communications and kanban boards should be open by default enabling each team to follow the progress of one another.
 
-###### Time Management
+Firstly, teams should not be fully allocated to their enabling function.
 
-Teams should not be fully allocated to their enabling function.
-
-Firstly, each team must resolve time for the continuous self-improvement, which should be equal to, or strictly greater than, 20% of their teams available work time.
+Secondly, each team must reserve time for the continuous self-improvement, which should be equal to, or strictly greater than, 20% of their teams available work time.
 
 Secondly, teams are free to self organize under the condition that they are able to meet the needs of the division's priorities (i.e. the director's priorities).
 For example, a team within the division may accept to fulfill an enabling function for another team within the organization.
