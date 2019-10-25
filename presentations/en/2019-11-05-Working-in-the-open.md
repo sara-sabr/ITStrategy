@@ -70,8 +70,6 @@ Note:
 - Limitations to what public can do directly with you
 - If licenced, need notice of the copyright
 
---
-
 Unclassified only
 
 Note:
@@ -89,6 +87,38 @@ Note:
 
 - Increase quality of your work
 - You KNOW people can come and see it
+
+--
+
+If possible and applicable, release it under an open source licence
+
+Note:
+
+- Not everything fits under OSS licences
+- Need approval
+- Open Government licence is acceptable for data/information
+- Real open source licence is preferable for code
+- Creative Commons is not for code so current position is to not use it (OGL instead)
+
+--
+
+It's still your work, you need to maintain it
+
+Note:
+
+- Contributions are welcome but you decide what goes into your work or not
+
+--
+
+> Warning: A community may coalesce
+
+Manage your community
+
+Note:
+
+- If your work is interesting, people might find it
+- People may submit recommendations and modifications to you
+- Manage your community
 
 ---
 
