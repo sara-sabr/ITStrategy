@@ -144,8 +144,10 @@ Currently unclassified, but could be Protected B
   - Functionalities covering the full development lifecycle (code, issues, tasks, Kanban, automated test and deployments)
   - Adoption and training
   - Centralized project communications
+  - Making work visible
+  - Increasing collaboration through reduction of silos
 - Enhance **planning** of features development through a single view
-- **Track time** spent on project tasks more efficiently
+- **Automate** tracking of work done by employees
 - Ensure **accountability** through logging of changes and incidents
 - Improve code **quality** and **collaboration** by developing in the open, thereby reducing overall risk
 
