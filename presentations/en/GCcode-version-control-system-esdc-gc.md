@@ -34,14 +34,14 @@ Endorsed at ARC – September 2019
 
 ### [Directive on Management of IT](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249)
 
-**Mandatory Procedures for EA Assessment**
+#### Mandatory Procedures for EA Assessment
 
 - All source code must be released under an appropriate open source software license
 - Share code publicly when appropriate, and when not, share within the GC
 
 ### [GC Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html)
 
-**Work in the open by default**
+#### Work in the open by default
 
 - Make all non-sensitive data, information, and new code developed in delivery of services open to the outside world for sharing and reuse under an open licence
 
@@ -103,7 +103,7 @@ See [GitLab Features](https://about.gitlab.com/features/)
 
 ---
 
-## Why not SaaS like Github.com?
+## Why not SaaS like Github.com
 
 ### Advantages of public SaaS
 
@@ -175,7 +175,7 @@ Currently unclassified, but could be certified Protected B
 
 ---
 
-## Questions / Comments ?
+## Questions / Comments
 
 Thank you!
 
