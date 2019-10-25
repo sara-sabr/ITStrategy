@@ -54,12 +54,13 @@ permalink: /strategies-actions.html
 
 #### Cultural
 
-- Create a safe environment for experimentation/failure and holds blameless postmortems
-- Build multidisciplinary teams around projects
+- Create a safe environment for experimentation/failure and hold blameless postmortems
+- Build multidisciplinary teams capable of delivering services from start to end of life
 - Encourages collaboration and fosters a culture of flexibility, mobility and well-being
-- IT teams must use 10% of their time to learn/try new technologies, attend events/conferences and stay up to date on trends and technologies related to their work
-- IT teams and other groups must have access to SaaS (Internet), mobile and desktop tools
-- IT teams must have at least two members with knowledge of programming to assist with process automation
+- IT teams must use at least 10% of their time to learn/try new technologies, attend events/conferences, and stay up to date on trends and technologies related to their work
+- IT teams and other groups must have access to modern tooling, such as SaaS (Internet), mobile and desktop tools
+- [Hiring favours candidates who demonstrate adaptability, curiosity, and strong ethics](./enable-learning.html)
+- All IT teams must have at least two members with knowledge of programming to assist with process automation
 
 #### Process
 
