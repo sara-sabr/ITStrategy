@@ -29,7 +29,7 @@ to a partnership one *(shared accountability)*.
 
 ### Mandate (authority witin IITB)
 
-- Diagnose key organizational problems, waste, lead times and governance structures that inhibit the desired changes in behaviours
+- Diagnose key organizational problems, waste, impediments to rapid lead times, and governance structures that inhibit the desired changes in behaviours
 - Recommend specific course of actions to governance bodies to adopt new methods of managing IT risks
 - Measure progress of adoption of strategies in IT teams and governance bodies as a performance indicator of the IT Strategy team
 - Challenge current thinking and approaches
@@ -39,9 +39,3 @@ to a partnership one *(shared accountability)*.
 ## Team's current priorities
 
 - Be the catalysts of change within IITB to lay the path for the evolution of ESDC's digital services.
-
----
-
-### What's in it for you
-
-- asdfasdfasdf
