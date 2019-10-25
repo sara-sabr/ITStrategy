@@ -83,23 +83,15 @@ Propose a 4th line entry explicitly outlining that career development includes t
 robotics. Future progress is expected to be even more spectacular and many commentators predict that these technologies will transform work around the world (Brynjolfsson
 and McAfee, 2012; Ford, 2016; Boston Consulting Group, 2015; McKinsey, 2017).](https://www.nber.org/papers/w24196.pdf)
 
-As automation becomes ever more present and widespread organizations, especially ESDC who is unique concerned with employment, should promote educational activities that provide individuals with skills needed going forward into the future.
+As automation becomes ever more present and widespread organizations, especially ESDC who is unique concerned with employment, should promote educational activities that provide individuals with skills needed going forward into the future. We recommend the following skill sets as being the most imperative to enable ESDC to deliver quality and modern services to Canadian citizens
 
-Matthew Griffen suggests that [organizations focus on the following categories when training people for the workforce](https://youtu.be/2GdRZZxfjXA?t=1696), rather than any specific skillset, which is likely to be automated at some point in the future.
-
-- Morality
-- Empathy
-- Adaptability
-- Collaboration
-- Creativity
-- Curiosity
 - Ethics
-- Exponential Thinking
-- Leadership
-- Resourcefulness
-- Storytelling
+- Adaptability
+- Curiosity
 
-This perspective is echoed by many, for example, HBR Ascend published [The 4 Essential Skills to Future-Proof Your Career](https://hbrascend.org/topics/the-4-essential-skills-to-future-proof-your-career/) they suggest the following skills
+___
+
+The emphasis on these types of skills is echoed by many, for example, HBR Ascend published [The 4 Essential Skills to Future-Proof Your Career](https://hbrascend.org/topics/the-4-essential-skills-to-future-proof-your-career/) they suggest the following skills
 
 - Curiosity
 - Confidence
@@ -129,4 +121,4 @@ Lastly, another article written by [HBR Ascend](https://hbrascend.org/topics/wha
 
 > "What is needed is a new definition of being smart, one that promotes higher levels of human thinking and emotional engagement. The new smart will be determined not by what or how you know but by the quality of your thinking, listening, relating, collaborating, and learning."
 
-In conclusion, ESDC should focus on both hiring and training with an aim to increase the soft skills among its employees. More research need be, and will be, conducted as to the literature commenting how best an organization is to foster the development of soft skills. All of the categories have benefits, though specific attention should be paid to the promotion of curiosity, creativity, collaboration, and adaptability. These have been chosen as they align well with industry best practices for modern IT organizations, which promote [experimentation](https://itrevolution.com/three-ways-revisited-devops-handbook/) (curiosity + creative thinking), [collaboration](https://www.thoughtworks.com/insights/blog/demystifying-conways-law), and [adaptability (or agility)](https://www.agilealliance.org/agile101/).
+In conclusion, ESDC should focus on both hiring and training with an aim to increase the soft skills among its employees. More research need be, and will be, conducted as to the literature commenting how best an organization is to foster the development of soft skills. All of the categories have benefits, though specific attention should be paid to the promotion of curiosity, adaptability, and ethics. These have been chosen as they align well with industry best practices for modern IT organizations, which promote [experimentation](https://itrevolution.com/three-ways-revisited-devops-handbook/) (curiosity + creative thinking) and [adaptability (or agility)](https://www.agilealliance.org/agile101/).
