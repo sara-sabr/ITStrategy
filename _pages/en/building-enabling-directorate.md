@@ -87,11 +87,23 @@ Given the short and iterative nature of the interactions between the teams (dura
 
 Interactions may place ...
 
-![Between directorates]({{site.baseurl}}/assets/images/director2director.PNG)
+Between directorates
 
-![Between directorates and teams]({{site.baseurl}}/assets/images/team2director.PNG)
+![Between directorates]({{site.baseurl}}/assets/images/director2director.png)
 
-![Between teams and teams]({{site.baseurl}}/assets/images/team2team.PNG)
+___
+
+Between directorates and teams
+
+![Between directorates and teams]({{site.baseurl}}/assets/images/team2director.png)
+
+___
+
+Between teams and other teams
+
+![Between teams and teams]({{site.baseurl}}/assets/images/team2team.png)
+
+___
 
 ###### Tooling
 
