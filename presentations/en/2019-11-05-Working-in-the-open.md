@@ -126,6 +126,8 @@ Note:
 
 --
 
+#### Public
+
 Write like the newspaper is going to publish your content
 
 Note:
