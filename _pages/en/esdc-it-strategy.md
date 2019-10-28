@@ -60,7 +60,7 @@ It will do so by
 
 The following diagram highlights IM/IT's services and key functions as represented in the [Senior Leadership Meeting on IM/IT](http://dialogue/grp/BU6810070/Shared%20Documents/Reference%20Materials/ESDC%20IMIT%20Moving%20Forward%20(DM%20Meeting).pptx).
 
-![IM/IT services and key functions](../../assets/images/imit-services-and-functions.png "IM/IT Services and key functions")
+![IM/IT services and key functions](assets/images/imit-services-and-functions.png "IM/IT Services and key functions")
 
 The goal of the ESDC IT Strategy is to improve each of those services and functions without telling their respective teams *what to do*.
 Instead, the IT Strategy focuses on empowering the teams to continuously improve by **investing in core competencies**.
