@@ -54,7 +54,6 @@ It will do so by
 - Changing the relationship services lines have with IT from a contracting model one to a partnership one:
   - IITB will have a shared accountability over ESDC's service performance
   - ESDC programs will have a shared accountability over the costs and risks of using IT as part of their service delivery
-- Increasing the rate of which IT is able to respond to change and delivery services
 
 ### IM/IT Services and key functions
 
