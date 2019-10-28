@@ -1,5 +1,7 @@
 ### {{ site.presentations[page.lang] }}
 
+<!--markdownlint-disable MD033-->
+<!-- 
 <ul class="post-list">
 {%- if page.lang == "fr" -%}
   {%- for pres in site.static_files -%}
@@ -27,3 +29,5 @@
   {%- endfor -%}
 {%- endif -%}
 </ul>
+
+-->
