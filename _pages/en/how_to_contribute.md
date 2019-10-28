@@ -4,7 +4,7 @@ title: Working in the open and the ways you can contribute
 ref: how-to-contribute
 lang: en
 status: posted
-categories: About us
+sections: About us
 permalink: /how-to-contribute.html
 ---
 

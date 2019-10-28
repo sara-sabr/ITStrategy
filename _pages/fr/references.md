@@ -4,7 +4,7 @@ title: Références
 ref: references
 lang: fr
 status: posted
-categories: "À propos de nous"
+sections: "À propos de nous"
 permalink: /references-fr.html
 ---
 <!-- markdownlint-disable MD025-->

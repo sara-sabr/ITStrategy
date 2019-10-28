@@ -17,7 +17,7 @@ exclude: ["wip-tec", "CONTRIBUTING.md", "cspell.json", "LICENSE", "link-check.js
 description:
   en: Working in the open! Our work in progress, list of reference material and presentations.
   fr: Travailler ouvertement! Nos travaux en cours, liste de documents de références et présentations.
-categoriesList:
+sectionsList:
   en: ["About us", "Work In Progress", "IT Picture", "Trends", "Under Review", "Archives"]
   fr: ["À propos de nous", "Travaux en cours", "Image de la TI", "Tendances", "En révision", "Archives"]
 docsTitle:
@@ -32,9 +32,6 @@ index:
 language:
   en: English
   fr: Français
-mandate:
-  en: Mandate
-  fr: Mandat
 presentations:
   en: Our Presentations
   fr: Nos présentations
