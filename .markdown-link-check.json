@@ -29,6 +29,9 @@
     },
     {
       "pattern": "#"
+    },
+    {
+      "pattern": "https://gccode.ssc-spc.gc.ca"
     }
   ]
 }
