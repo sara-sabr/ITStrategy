@@ -83,7 +83,7 @@ It's not an open source project
 
 ### Process and Policies
 
-* [Templates](https://help.github.com/en/articles/creating-issue-templates-for-your-repository)
+* [Templates](https://help.github.com/en/github/building-a-strong-community/configuring-issue-templates-for-your-repository)
 * Contributor Licence Agreement (CLA)
   * Complex, Legal Contract
   * Might even request transfer of IP to project owners
