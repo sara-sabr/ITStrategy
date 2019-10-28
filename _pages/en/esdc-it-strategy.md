@@ -69,17 +69,17 @@ Instead, the IT Strategy focuses on empowering the teams to continuously improve
 
 The ESDC IT Strategy uses the [DevOps Research and Assessment (DORA)](https://cloud.google.com/devops) 21 capabilities as a benchmark to identify areas of improvements. The choice of technology is not what is important, what is important is continuously increase frequency of delivery while reducing lead time, time to restore service when an incident occurs, rate of failure, and cyber security incidents.
 
-The transition towards this partnership model is explained in the following [Strategy Map diagram](/strategy-summary.html). Each block corresponding in the diagram represents a distinct strategy to move ESDC towards its ultimate Digital Transformation goal: become a key stakeholder in the Canadian Government as a Platform. 6 pillars support this roadmap: Delivery of Service, Project Management, Governance, Modern Workplace, Business Integration, and Talent Management.
+The transition towards this partnership model is explained in the following [Strategy Map diagram]({{ site.baseurl }}/strategy-summary.html). Each block corresponding in the diagram represents a distinct strategy to move ESDC towards its ultimate Digital Transformation goal: become a key stakeholder in the Canadian Government as a Platform. 6 pillars support this roadmap: Delivery of Service, Project Management, Governance, Modern Workplace, Business Integration, and Talent Management.
 
 The approach to the IT Strategy is **not** to complete each of the diagram's block before publishing them as a single plan. Instead, the ESDC IT Strategy team will work with the IT community to continuously diagnose key organizational problems, waste, lead times and governance structures that inhibit the desired changes in behaviours.
 
 ## Immediate actions
 
-To get started, the following [Strategies and Actions](/strategies-actions.html) need to be applied for all projects and teams.
+To get started, the following [Strategies and Actions]({{ site.baseurl }}/strategies-actions.html) need to be applied for all projects and teams.
 
 ## Expected Results
 
 Descriptions of the expected results from adopting this IT Strategy are described in the following two pictures:
 
-- [Medium term (~5 years)](/it-picture-medium-term.html)
-- [Long term (>10 years)](/it-picture-long-term.html)]
+- [Medium term (~5 years)]({{ site.baseurl }}/it-picture-medium-term.html)
+- [Long term (>10 years)]({{ site.baseurl }}/it-picture-long-term.html)]
