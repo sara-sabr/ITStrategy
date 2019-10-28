@@ -18,7 +18,7 @@ This mission is now heavily influenced by the strategic use of technology in del
 The use of technology in service delivery is re-iterated as part of the [Treasury Board (TB) new Policy on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603).
 
 In supporting departments towards the transition to Digital Government, TB Secretariat (TBS) established a set of [10 digital standards](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603) and a [digital operations strategic plan](https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html) that contains 79 actions.
-Because of ESDC's citizen-focus mandate, it is heavily engaged in those digital operation actions.
+Due to ESDC's citizen-focus mandate, it is heavily engaged in those digital operation actions.
 For example, the [OneGC vision and Omni Channel Digital Strategy](https://gccollab.ca/groups/profile/154708/enonegc-ungcfrungc) contains 14 cluster groups where ESDC either leads or is an active participant in each one.
 
 Internally within ESDC, the Innovation, Information and Technology Branch (IITB) established a 2019-2022 IT Plan, called the [IITB Way Forward](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx), containing 26 service improvement and modernization activities to improve its Information Management/Information Technology (IM/IT) service offerings.
@@ -37,10 +37,10 @@ Government of Canada historical records are evidence that the conventional metho
 ESDC as a whole organization understands that the use of IT is risky and costly.
 In addition, with the emergence of digital government through new business, policy, and technology direction, the demand on IT is expected to increase exponentially.
 IT can no longer be considered a back office function or a "company within a company" as it has real repercussions to Canadians.
-IT is now now embedded as part of ESDC's mandate delivery.
+Therefore, IT is now now embedded as part of ESDC's mandate delivery.
 
-ESDC must change the relationship it has with IT, one that reduces its risk and enables business agility.
-To do so, new methods of doing IT is required.
+ESDC must change the relationship it has with IT to one that reduces its risk and enables business agility.
+To achieve this new methods of doing IT is required.
 
 > To work effectively in the digital world, you must first accept complexity and uncertainty, for they demand very different approach to carrying out initiatives. A predictable world rewards advanced planning and rigid plan execution. But a complex and uncertain world rewards an empirical cycle of trying, observing, and correcting.
 
@@ -49,10 +49,12 @@ To do so, new methods of doing IT is required.
 ## ESDC IT Strategy Overview
 
 The core of ESDC's IT Strategy focuses on reducing the risks associated with IT and increasing business agility.
-It will do so by changing the relationship services lines have with IT from a contracting model one to a partnership one:
+It will do so by
 
-- IITB will have a shared accountability over ESDC's service performance
-- ESDC programs will have a shared accountability over the costs and risks of using IT as part of their service delivery
+- Changing the relationship services lines have with IT from a contracting model one to a partnership one:
+  - IITB will have a shared accountability over ESDC's service performance
+  - ESDC programs will have a shared accountability over the costs and risks of using IT as part of their service delivery
+- Increasing the rate of which IT is able to respond to change and delivery services
 
 ### IM/IT Services and key functions
 
