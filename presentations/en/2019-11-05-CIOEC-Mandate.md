@@ -148,14 +148,14 @@ Note:
 - Relentless process automation
 - All teams must have at least two members with knowledge of programming to assist with process automation
 
-Automation is not a project, it is a constant and incremental process.
-
-Invest in automation: 1 month/year (e.g. august) dedicate entirely to automation and process improvement
+*Automation is not a project, it is a constant and incremental process.*
 
 Note:
 
 - Toil is introduced when the approach to increasing effeciency is linear with respect to the amount of resources required.
 - Toil, for example, would be increased hiring for repetitive, automatable, work that would better be solved by time investment in automation.
+
+Invest in automation: 1 month/year (e.g. august) dedicate entirely to automation and process improvement
 
 --
 
@@ -168,6 +168,7 @@ Note:
 - Promote hiring of those who demonstrate curiosity, adapatability, and ethical behaviour
 
 Note:
-Monitor investments on business outcomes, not project plans
+Significant impact on our relationship with CFOB and lines of businesses
+Work with CFOB to assure our fiduciary responsibilities to public funds are still fulfilled
 
 <!-- markdownlint-enable MD013-->
