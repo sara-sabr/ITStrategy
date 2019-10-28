@@ -19,7 +19,7 @@ For discussion
 
 ---
 
-*The use of technology to deliver a mandate ***must*** be a shared accountability*
+The use of technology to deliver a mandate ***must*** be a shared accountability
 
 Note:
 ESDC corporate risk profile identifies IT as the #1 risk to the organization
@@ -100,7 +100,7 @@ By using the approaches and technologies we champion, we are able to better resp
 --
 
 <!-- markdownlint-disable MD029 -->
-1. Work in the open to avoid re-work
+### 1. Work in the open to avoid re-work
 <!-- markdownlint-enable MD029 -->
 
 - Use a GIT-based version control system for all software
@@ -109,7 +109,7 @@ By using the approaches and technologies we champion, we are able to better resp
 Note:
 
 - ALL teams (developers, security, testing, operations) must use git.
-- ALL Sharepoint sites must allow any ESDC employees read access by default -only lock down what is absouletly necessary
+- ALL Sharepoint sites must allow any ESDC employees read access by default -only lock down what is absolutely necessary
 - Expose work in progress to improve team communication and share what you do with others to reduce administrative and organizational overhead
 - Leverage [Values and Ethics Code for the Public Sector](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=25049) as foundational trusts with employees
 - Encourages collaboration and fosters a culture of flexibility, mobility and well-being
