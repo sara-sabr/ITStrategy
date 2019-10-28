@@ -4,7 +4,7 @@ title: References
 ref: references
 lang: en
 status: posted
-categories: About us
+sections: About us
 permalink: /references-en.html
 ---
 <!-- markdownlint-disable MD025-->
