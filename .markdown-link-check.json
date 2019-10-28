@@ -29,6 +29,12 @@
     },
     {
       "pattern": "#"
+    },
+    {
+      "pattern": "https://www.trello.com"
+    },
+    {
+      "pattern": "https://www.youtube.com"
     }
   ]
 }
