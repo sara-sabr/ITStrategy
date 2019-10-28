@@ -93,23 +93,23 @@ By using the approaches and technologies we champion, we are able to better resp
 
 --
 
-Work in the open to avoid rework
+Work in the open to avoid re-work
 
 - Use a GIT-based version control system for all software
 - Expose work in progress to other teams
 
 Note:
 ALL teams (developers, security, testing, operations) must use git.
-ALL Sharepoint sites must allow any ESDC employees read access by default - only lock down what is absolutely necessary
+ALL Sharepoint sites must allow any ESDC employees read access by default - only lock down what is absouletly necessary
 Expose work in progress to improve team communication and share what you do with others to reduce administrative and organizational overhead
 Leverage [Values and Ethics Code for the Public Sector](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=25049) as foundational trusts with employees
 Encourages collaboration and fosters a culture of flexibility, mobility and well-being
-Explore open source tools for quick wins and the reduction of rework
-Be open to contributions and constructive feedback from the get-go
+Explore open source tools for quick wins and the reduction of re-work
+Be open to contributions and constructive feedback from the get go
 
 --
 
-Core competencies (continuous learning)
+Core competencies (continous learning)
 
 - All IT teams must use at least 20% of their time to learn, to automate manual processes, or improve the way they work.
 
@@ -141,22 +141,22 @@ Avoid Toil
 - All teams must have at least two members with knowledge of programming to assist with process automation
 
 Note:
-Toil is introduced when the approach to increasing efficiency is linear with respect to the amount of resources required.
+Toil is introduced when the approach to increasing effeciency is linear with respect to the amount of resources required.
 Toil, for example, would be increased hiring for repetitive, automatable, work that would better be solved by time investment in automation.
 
 Automation is not a project, it is a constant and incremental process.
 
-Invest in automation: 1 month/year (e.g. August) dedicate entirely to automation and process improvement
+Invest in automation: 1 month/year (e.g. august) dedicate entirely to automation and process improvement
 
 --
 
-Revisit Investment Management practices
+Re-visit Investment Management practices
 
 - Promote smaller investments over large ones
 - Monitor investments based on business outcomes, not project plans
 - Move and support product management
 - Use Agile methodologies, iterate and continually improve solutions and services
-- Promote hiring of those who demonstrate curiosity, adaptability, and ethical behaviour
+- Promote hiring of those who demonstrate curiosity, adapatability, and ethical behaviour
 
 Note:
 Monitor investments on business outcomes, not project plans
