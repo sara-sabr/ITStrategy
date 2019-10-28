@@ -37,34 +37,26 @@ Enable the strategic value of IT within ESDC by ***reducing its risks*** and ***
 
 --
 
-<!-- markdownlint-disable MD032 MD006 -->
-1. Diagnose key problems
-  - organizational problems
-  - waste
-  - impediments to rapid lead times, and
-  - governance structures
-<!-- markdownlint-enable MD032 MD006 -->
+### 1. Diagnose key problems
 
-The aforementioned items inhibit the desired changes in behaviours required
- for a digital-first government
+- organizational problems
+- waste
+- impediments to rapid lead times, and
+- governance structures
+
+The aforementioned items inhibit the desired changes in behaviours required for a digital-first government
 
 --
 
-<!-- markdownlint-disable MD032 MD006 MD029 -->
-2. Recommend specific course of actions to governance bodies to adopt new methods of managing IT risks
-<!-- markdownlint-enable MD032 MD006 MD029 -->
+### 2. Recommend specific course of actions to governance bodies to adopt new methods of managing IT risks
 
 --
 
-<!-- markdownlint-disable MD032 MD006 MD029 -->
-3. Measure progress of adoption of strategies in IT teams and governance bodies as a performance indicator of the IT Strategy team
-<!-- markdownlint-enable MD032 MD006 MD029 -->
+### 3. Measure progress of adoption of strategies in IT teams and governance bodies as a performance indicator of the IT Strategy team
 
 --
 
-<!-- markdownlint-disable MD032 MD006 MD029 -->
-4. Challenge current thinking and approaches
-<!-- markdownlint-enable MD032 MD006 MD029 -->
+### 4. Challenge current thinking and approaches
 
 ---
 
@@ -72,24 +64,22 @@ The aforementioned items inhibit the desired changes in behaviours required
 
 --
 
-1. Work collaboratively
+### 1. Work collaboratively
 
 Note:
 Collaborate with anyone and everyone who can add value. This includes, but is not limited to, all Canadians, levels of government, departments, private sector organizations, and governments.
 
 --
 
-<!-- markdownlint-disable MD029 -->
-2. Continuous learning
-<!-- markdownlint-enable MD029 -->
+### 2. Continuous learning
+
 Note:
 Learning is a core part of daily activities to ensure up to date, modern, and well-researched direction.
 
 --
 
-<!-- markdownlint-disable MD029 -->
-3. Lead by Example
-<!-- markdownlint-enable MD029 -->
+### 3. Lead by Example
+
 Note:
 By using the approaches and technologies we champion, we are able to better respond and anticipate potential challenges. We also experiment with modern ways of working in order to demonstrate their value and effectiveness.
 
@@ -99,9 +89,7 @@ By using the approaches and technologies we champion, we are able to better resp
 
 --
 
-<!-- markdownlint-disable MD029 -->
 ### 1. Work in the open to avoid re-work
-<!-- markdownlint-enable MD029 -->
 
 - Use a GIT-based version control system for all software
 - Expose work in progress to other teams
@@ -118,9 +106,7 @@ Note:
 
 --
 
-<!-- markdownlint-disable MD029 -->
-2. Core competencies (continous learning)
-<!-- markdownlint-enable MD029 -->
+### 2. Core competencies (continous learning)
 
 - All IT teams must use at least 20% of their time to learn, to automate manual
 processes, or improve the way they work.
@@ -134,9 +120,7 @@ Note:
 
 --
 
-<!-- markdownlint-disable MD029 -->
-3. Modern tools
-<!-- markdownlint-enable MD029 -->
+### 3. Modern tools
 
 - Architecture must default to open standards and open source software
 - Architecture must enable deploy-anytime capabilities and promote relentless use automation
@@ -151,9 +135,7 @@ Note:
 
 --
 
-<!-- markdownlint-disable MD029 -->
-4. Avoid Toil
-<!-- markdownlint-enable MD029 -->
+### 4. Avoid Toil
 
 - Relentless process automation
 - All teams must have at least two members with knowledge of programming to assist with process automation
@@ -169,9 +151,7 @@ Note:
 
 --
 
-<!-- markdownlint-disable MD029 -->
-5. Re-visit Investment Management practices
-<!-- markdownlint-enable MD029 -->
+### 5. Re-visit Investment Management practices
 
 - Promote smaller investments over large ones
 - Monitor investments based on business outcomes, not project plans
