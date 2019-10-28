@@ -27,7 +27,7 @@ In addition, ESDC has started investing in a [Business Delivery Modernization](h
 
 ## Problem Statement
 
-ESDC's 2018-2020 Corporate Risk Profile (CRP) identifies IT and Business Continuity as its number 1 and number 10 corporate risks respectively.
+IT and Business Continuity are key organizational risks for a large organization like ESDC.
 Both risks have impacts to Information/Knowledge Management (Data), Privacy/Safeguarding Personal Information, Fraud and Service Delivery.
 
 As explained in [ESDC's Medium-Term Planning](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Briefings/MTP-Initiative-Mapping_2018.docx), ESDC operates a portfolio of approximately 500 applications, 101 of which are mission critical. These IT systems can no longer meet the needs of ESDC programs due to system ageing and too much unaddressed technical debt. Some new government regulations cannot be implemented because ESDC IT systems are unable to respond to those changes.
