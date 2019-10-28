@@ -37,7 +37,9 @@ Enable the strategic value of IT within ESDC by ***reducing its risks*** and ***
 
 --
 
-### 1. Diagnose key problems
+### 1. Diagnose
+
+***Diagnose key problems:***
 
 - organizational problems
 - waste
@@ -48,15 +50,21 @@ The aforementioned items inhibit the desired changes in behaviours required for 
 
 --
 
-### 2. Recommend specific course of actions to governance bodies to adopt new methods of managing IT risks
+### 2. Recommend
+
+Recommend ***specific course of actions*** to governance bodies to adopt new methods of managing IT risks
 
 --
 
-### 3. Measure progress of adoption of strategies in IT teams and governance bodies as a performance indicator of the IT Strategy team
+### 3. Measure
+
+***Measure progress of adoption*** of strategies in IT teams and governance bodies as a ***performance indicator*** of the IT Strategy team
 
 --
 
-### 4. Challenge current thinking and approaches
+### 4. Challenge
+
+Challenge ***current*** thinking and approaches
 
 ---
 
