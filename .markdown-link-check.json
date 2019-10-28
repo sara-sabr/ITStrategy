@@ -4,6 +4,9 @@
       "pattern": "http://esdc.prv"
     },
     {
+      "pattern": "http://edsc.prv"
+    },
+    {
       "pattern": "http://www.esdc.prv"
     },
     {
