@@ -4,9 +4,6 @@
       "pattern": "http://esdc.prv"
     },
     {
-      "pattern": "http://edsc.prv"
-    },
-    {
       "pattern": "http://www.esdc.prv"
     },
     {
@@ -29,6 +26,12 @@
     },
     {
       "pattern": "#"
+    },
+    {
+      "pattern": "https://www.trello.com"
+    },
+    {
+      "pattern": "https://www.youtube.com"
     }
   ]
 }
