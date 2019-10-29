@@ -81,7 +81,7 @@ Some of that content may only be available on GC/ESDC network so if the link doe
 
 ### Books
 
-|Title|Author|Publishing Year|Publisher|Description|
+|Title|Author|Published|Publisher|Description|
 |:-------|:-------|:------:|:-----|:------|
 |[Crossing the Chasm](https://en.wikipedia.org/wiki/Crossing_the_Chasm)|Geoffrey A. Moore|2014|HarperCollins Canada|Scaling up and technology adoption for startups|
 |[Good Strategy Bad Strategy](http://goodbadstrategy.com/)|Richard Rumelt|2011|| Clarifies the muddled thinking underlying too many strategies and provides a clear way to create and implement a powerful action-oriented strategy. A good summary of the book can be [found here](https://jlzych.com/2018/06/27/notes-from-good-strategy-bad-strategy/)|
