@@ -11,7 +11,7 @@ For discussion
 
 ## Context
 
-- The new Policy on Service and Digital calls for a digitally enabled government which delivers services through technology <!-- .element: class="fragment" data-fragment-index="1" -->
+- The upcoming Policy on Service and Digital calls for a digitally enabled government which delivers services through technology <!-- .element: class="fragment" data-fragment-index="1" -->
 - Demands for organizational technological competence will only increase going forward <!-- .element: class="fragment" data-fragment-index="2" -->
 - Business agility depends on technology agility <!-- .element: class="fragment" data-fragment-index="3" -->
 - The use of technology is costly and risky <!-- .element: class="fragment" data-fragment-index="4" -->
@@ -29,7 +29,7 @@ ESDC corporate risk profile identifies IT as the #1 risk to the organization
 
 ## IT Strategy team's mission
 
-Enable the strategic value of IT within ESDC by ***reducing its risks*** and ***increasing business agility***.
+Enable the strategic value of IT within ESDC by ***reducing its risks*** and ***increasing business agility***
 
 ---
 
@@ -41,10 +41,10 @@ Enable the strategic value of IT within ESDC by ***reducing its risks*** and ***
 
 ***Diagnose key problems:***
 
-- organizational problems
-- waste
-- impediments to rapid lead times, and
-- governance structures
+- organizational problems;
+- waste;
+- impediments to rapid lead times; and
+- governance structures.
 
 The aforementioned items inhibit the desired changes in behaviours required for a digital-first government
 
@@ -97,27 +97,27 @@ By using the approaches and technologies we champion, we are able to better resp
 
 --
 
-### 1. Work in the open to avoid re-work
+### 1. Work in the open to avoid rework
 
 - Use a GIT-based version control system for all software
 - Expose work in progress to other teams
 
 Note:
 
-- ALL teams (developers, security, testing, operations) must use git.
+- ALL teams (developers, security, testing, operations) must use git
 - ALL Sharepoint sites must allow any ESDC employees read access by default -only lock down what is absolutely necessary
 - Expose work in progress to improve team communication and share what you do with others to reduce administrative and organizational overhead
 - Leverage [Values and Ethics Code for the Public Sector](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=25049) as foundational trusts with employees
 - Encourages collaboration and fosters a culture of flexibility, mobility and well-being
-- Explore open source tools for quick wins and the reduction of re-work
-- Be open to contributions and constructive feedback from the get go
+- Explore open source tools for quick wins and the reduction of rework
+- Be open to contributions and constructive feedback from the get-go
 
 --
 
-### 2. Core competencies (continous learning)
+### 2. Core competencies (continuous learning)
 
 - All IT teams must use at least 20% of their time to learn, to automate manual
-processes, or improve the way they work.
+processes, or improve the way they work
 
 Note:
 
@@ -152,14 +152,14 @@ Note:
 
 Note:
 
-- Toil is introduced when the approach to increasing effeciency is linear with respect to the amount of resources required.
+- Toil is introduced when the approach to increasing efficiency is linear with respect to the amount of resources required.
 - Toil, for example, would be increased hiring for repetitive, automatable, work that would better be solved by time investment in automation.
 
-Invest in automation: 1 month/year (e.g. august) dedicate entirely to automation and process improvement
+Invest in automation: 1 month/year (e.g. August) dedicate entirely to automation and process improvement
 
 --
 
-### 5. Re-visit Investment Management practices
+### 5. Revisit Investment Management practices
 
 - Promote smaller investments over large ones
 - Monitor investments based on business outcomes, not project plans
@@ -168,7 +168,8 @@ Invest in automation: 1 month/year (e.g. august) dedicate entirely to automation
 - Promote hiring of those who demonstrate curiosity, adaptability, and ethical behaviour
 
 Note:
-Significant impact on our relationship with CFOB and lines of businesses
-Work with CFOB to assure our fiduciary responsibilities to public funds are still fulfilled
+
+- Significant impact on our relationship with CFOB and lines of businesses.
+- Work with CFOB to assure our fiduciary responsibilities to public funds are still fulfilled.
 
 <!-- markdownlint-enable MD013-->
