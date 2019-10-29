@@ -92,4 +92,4 @@ To get started, the following [Strategies and Actions](strategies-actions.html) 
 Descriptions of the expected results from adopting this IT Strategy are described in the following two pictures:
 
 - [Medium Term (~5 years)](it-picture-medium-term.html)
-- [Long Term (>10 years)](it-picture-long-term.html)]
+- [Long Term (>10 years)](it-picture-long-term.html)
