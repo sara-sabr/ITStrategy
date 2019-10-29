@@ -1,5 +1,5 @@
 <!-- markdownlint-disable MD013 -->
-# IT Strategy team's mandate
+# IT Strategy's Mandate
 
 ---
 
@@ -41,10 +41,10 @@ Enable the strategic value of IT within ESDC by ***reducing its risks*** and ***
 
 ***Diagnose key problems:***
 
-- organizational problems
-- waste
-- impediments to rapid lead times, and
-- governance structures
+- Organizational problems
+- Waste
+- Impediments to rapid lead times, and
+- Governance structures
 
 The aforementioned items inhibit the desired changes in behaviours required for a digital-first government
 
