@@ -99,7 +99,7 @@ By using the approaches and technologies we champion, we are able to better resp
 
 ### 1. Work in the open to avoid rework
 
-- Use a GIT-based version control system for all software
+- Use a GIT-based version control system for all software development
 - Expose work in progress to other teams
 
 Note:
