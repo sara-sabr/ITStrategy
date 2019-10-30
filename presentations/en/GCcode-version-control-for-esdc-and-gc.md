@@ -1,7 +1,3 @@
----
-marp: true
----
-
 # GCcode
 
 ## Version Control for ESDC and GC
@@ -14,7 +10,7 @@ marp: true
 
 ## The Ask
 
-Provide support in evolving [GCcode](https://gccode.ssc-spc.gc.ca) platform (version control and project management) to become officially supported within the GC
+Provide support in evolving [GCcode](https://gccode.ssc-spc.gc.ca) platform (Version Control and Project Management) to become officially supported within the GC
 
 **Goal:** Enable maximum sharing and reuse
 
