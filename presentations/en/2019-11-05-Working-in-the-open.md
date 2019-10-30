@@ -6,13 +6,69 @@
 
 --
 
-Your working material is available to all from its inception
+Your workspace (or part of it) is public and participatory.
+
+Note:
+
+- Public and Participatory - [Mozilla - Working Open](https://wiki.mozilla.org/Working_open)
+
+--
+
+People can find your workspace and read its content
 
 Note:
 
 - Drafts
 - Planning
 - Tasks
+- Notes
+- Source code
+
+--
+
+Enable and encourage contributions
+
+Note:
+
+- Inner Source - Entire organization, not just your branch or your team
+  - Lots of redundancy
+  - Opportunities to find and reuse solutions
+- Open Source
+  - Thousands of people working together
+  - Various levels of contributions
+- Do not force collaboration (see [HBR Collaborative Overload](https://hbr.org/2016/01/collaborative-overload))
+  - It has to come organically (people interested, similar issues, etc.)
+  - Can be sporadic (simple fixes, no commitments)
+
+--
+
+It's not "working out loud"
+
+Note:
+
+- Not just sharing one way
+  - Meeting every week to showcase your progress
+- That's different but also important
+- Promoting, Sharing, Communicating what you are working on
+- Helps people discover your open workspace and projects
+
+--
+
+It's a also cultural thing
+
+Note:
+
+- Humility
+  - "I don't know everything"
+  - "You may have a better answer than me"
+- Inclusiveness and accessibility
+  - No discrimination
+  - Encourage participation of everyone
+- Trust
+  - You trust your team
+  - You trust this is good for the public
+  - The public should be able to trust the government
+- Willingness to learn and improve
 
 ---
 
@@ -20,22 +76,22 @@ Note:
 
 --
 
-Early feedback loop
+### It makes your work discoverable
 
 Note:
 
-- Shift left, don't wait months to fix something that can be fixed now
-- Peer review is very valuable
+- It's hard to look for something you don't know exists
+- It creates opportunities to create a community
 
 --
 
-Economies of scale
+### Economies of scale
 
 Note:
 
 - I don't know everything
 - MANY problems are already solved
-- Many solutions can be useful to problems/people you don't yet think of
+- Many solutions can be useful to problems/people you haven't thought of
 
 --
 
@@ -46,16 +102,24 @@ Stephen Walli, Principal Program Manager at Microsoft
 Note:
 
 - Writing good code is hard
-- If you work in the open and build a community, your team is bigger than you can hire
+- If you work in the open and build a community, your team is bigger than the amount of people you can hire
 
 --
 
-It makes your work discoverable
+### Early feedback loop
+
+From DevOps Handbook
 
 Note:
 
-- It's hard to look for something you don't know exists
-- It creates opportunities to create a community
+- Shift left, don't wait months to fix something that can be fixed now
+- Peer review is very valuable
+
+--
+
+### Trust
+
+The public has the right to know, the public may want to know
 
 ---
 
