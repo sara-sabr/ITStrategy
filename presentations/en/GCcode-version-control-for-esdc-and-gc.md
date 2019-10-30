@@ -59,7 +59,7 @@ For open source code and working in the open, Software-as-a-Service (SaaS) hosti
 
 ## GCcode
 
-SSC maintains an unofficial "best effort" shared instance called GCcode (internal to GC), based on GitLab OSS:
+SSC maintains an unofficial "best effort" shared instance called GCcode (internal to GC), based on [GitLab](ghttps://about.gitlab.com) OSS:
 
 - ≈3600 projects and ≈3000 users
 - 350+ users from ESDC
