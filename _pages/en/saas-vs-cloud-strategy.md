@@ -47,11 +47,11 @@ Given that ["All Protected B, Protected C and classified GC electronic data in t
 
 If a micro-service/functions as a service approach is taken, the organization could send PB data to a service hosted anywhere, so long as said service does not store any data (outside of Canada), and said connection is encrypted. As a result, applications that provide Functions as a Service, such as those owned by [Interop?] would be ideal candidates for initial steps.
 
-Said Functions as a Service should be developed in the open, be deployed under one month after having started development, and be deployed strictly less than once a month henceforth.
+Said Functions as a Service should be developed in the open, be deployed under one month after having officially begun, and be deployed strictly less than once a month henceforth.
 
 #### Deploy Unclassified Applications
 
-Applications that do not need to store protected information to function, nor need to access protected information, should be developed in the open and deployed to the cloud. These applications should be deployed under one month after having started development, and be deployed strictly less than once a month henceforth.
+Applications that do not need to store protected information to function, nor need to access protected information, should be developed in the open and deployed to the cloud. These applications should be deployed under one month after having officially begun, and be deployed strictly less than once a month henceforth.
 
 ### Future Actions
 
