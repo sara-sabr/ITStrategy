@@ -81,7 +81,18 @@ Note:
 Note:
 
 - It's hard to look for something you don't know exists
+- If it's in the open, it can at least be found
 - It creates opportunities to create a community
+
+--
+
+### Avoid duplication of work
+
+Note:
+
+- MANY problems are already solved
+- Because it's discoverable, you may find an already existing solution
+- Adapt instead of building from scratch
 
 --
 
@@ -89,9 +100,8 @@ Note:
 
 Note:
 
-- I don't know everything
-- MANY problems are already solved
 - Many solutions can be useful to problems/people you haven't thought of
+- Contribute to the project so that everyone benefit from it
 
 --
 
@@ -108,7 +118,7 @@ Note:
 
 ### Early feedback loop
 
-From DevOps Handbook
+From [DevOps Handbook](https://itrevolution.com/book/the-devops-handbook/)
 
 Note:
 
@@ -119,7 +129,9 @@ Note:
 
 ### Trust
 
-The public has the right to know, the public may want to know
+Note:
+
+- 
 
 ---
 
@@ -225,26 +237,68 @@ Note:
 
 --
 
+#### Community
+
 > Warning: A community may coalesce
 
-Manage your community
+Manage it for your own benefit!
 
 Note:
 
 - If your work is interesting, people might find it
 - People may submit recommendations and modifications to you
 - Manage your community, you will benefit greatly from it
+- Set expectations
+  - "We don't take contributions at this point"
+  - "We will get back to you within 48 hours"
+  - Set templates
+
+--
+
+Be kind, Be patient, Be inclusive
+
+Note:
+
+- Some people are new at this
+- Welcome people from everywhere
+- Set a Code of Conduct
+  - Should include a link to the Public Servant's Values and Ethics0
 
 ---
 
 ### Tools
 
+--
+
+#### Community Management
+
 - GCmessage
-  - Instant messages
+- Slack to a certain extent (closed communities)
 - GCcollab
   - Communities of Practice
+
+--
+
+#### Workspace
+
 - GCpedia
-- GitLab/GitHub
+- GCcollab Wiki
+- Framasoft
+- Google Apps
+- Microsoft Office 365
+
+--
+
+#### Version Control
+
+- GitLab
+- GitHub
+- Bitbucket
+
+--
+
+#### Communications
+
 - Twitter
+- Intranet News and Sites
 - Open Resources Exchange
-- Slack to a certain extent (closed communities)
