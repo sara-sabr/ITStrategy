@@ -126,7 +126,7 @@ _No control over provider's roadmap_
 _Licensing of private repositories at GC level could be expensive compared to private OSS platform_
 
 **4. Low power of influence over SaaS**  
-_Difficult to influence direction of SaaS compared to OSS_
+_Difficult to influence the direction of SaaS compared to OSS project open to contributions_
 
 ---
 
