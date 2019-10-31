@@ -23,23 +23,6 @@ Note:
 - Tasks
 - Notes
 - Source code
-- BUT NOT your secrets
-
---
-
-Enable and encourage contributions
-
-Note:
-
-- Inner Source - Entire organization, not just your branch or your team
-  - Lots of redundancy
-  - Opportunities to find and reuse solutions
-- Open Source
-  - Thousands of people working together
-  - Various levels of contributions
-- Do not force collaboration (see [HBR Collaborative Overload](https://hbr.org/2016/01/collaborative-overload))
-  - It has to come organically (people interested, similar issues, etc.)
-  - Can be sporadic (simple fixes, no commitments)
 
 --
 
@@ -55,11 +38,27 @@ Note:
 
 --
 
+You also need to enable and encourage contributions
+
+Note:
+
+- Open Source
+  - Thousands of people working together
+  - Various levels of contributions
+- Inner Source - Entire organization (even whole GC!), not just your branch or your team
+  - Lots of redundancies accross teams, branches and departments
+  - Opportunities to find and reuse solutions
+- Do not force collaboration (see [HBR Collaborative Overload](https://hbr.org/2016/01/collaborative-overload))
+  - It has to come organically (people interested, similar issues, etc.)
+  - Can be sporadic or more involved (simple fixes, no commitments)
+
+--
+
 It's a also cultural thing
 
 Note:
 
-- Humility
+- Humility, being humble
   - "I don't know everything. And it's okay because I want to learn."
   - "You may have a better answer than me even though I don't know you."
 - Inclusiveness and accessibility
@@ -275,7 +274,7 @@ Note:
 - If your work is interesting, people might find it
 - People may submit recommendations and modifications to you
 - Manage your community, you will benefit greatly from it
-- Set expectations
+- Set expectationsGCcollab
   - "We don't take contributions at this point but happy to have you submit suggestions"
   - "We will get back to you within 48 hours"
   - Set templates
@@ -293,7 +292,7 @@ Note:
 
 --
 
-![Contributions](assets/images/oss-zsh.png)
+![oh-my-zsh Contributions](assets/images/oss-zsh.png)
 
 ---
 
@@ -321,6 +320,15 @@ Note:
 
 --
 
+#### Planning
+
+- Trello
+- Taiga
+- Gitlab - Boards
+- GitHub - Projects
+
+--
+
 #### Version Control
 
 - GitLab
@@ -334,3 +342,25 @@ Note:
 - Twitter
 - Intranet News and Sites
 - Open Resources Exchange
+
+---
+
+## Examples
+
+--
+
+[Open Resources Exchange](https://github.com/canada-ca/ore-ero)
+
+--
+
+[Algorithmic Impact Assessment](https://github.com/canada-ca/aia-eia-js)
+
+--
+
+[Drupal-WXT](http://drupalwxt.org/)
+
+--
+
+[Linux Kernel](https://github.com/torvalds/linux)
+
+![Linux Kernel Contribors](assets/images/oss-linux.png)
