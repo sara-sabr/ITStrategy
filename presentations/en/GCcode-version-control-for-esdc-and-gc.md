@@ -122,10 +122,10 @@ _Teams can be reluctant to work completely in the open_
 _No control over provider's roadmap_
 
 **3. Expensive**  
-_Licensing of private repositories at GC level could be expensive compared to private open source platform_
+_Licensing of private repositories at GC level could be expensive compared to private OSS platform_
 
 **4. Low power of influence over SaaS**  
-_Difficult to influence the direction of a SaaS compared to OSS project open to contributions_
+_Difficult to influence direction of SaaS compared to OSS_
 
 ---
 
@@ -170,7 +170,7 @@ _Difficult to influence the direction of a SaaS compared to OSS project open to 
 
 1. Evolve GCcode as an officially supported internal Version Control and Project Management platform for the GC community, with assistance from ESDC (e.g. funding)
 
-1. Make it the default working environment for all source code projects in ESDC (visibility: GC-wide or private)
+2. Make it the default working environment for all source code projects in ESDC (visibility: GC-wide or private)
 
 ---
 
