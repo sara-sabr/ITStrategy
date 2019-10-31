@@ -82,6 +82,14 @@ Cloud is not only for application developers. The ideal end state is for the Gov
 
 #### Future Actions
 
+As outline above, the goal from cloud is better responsiveness to Canadians and operational needs. Presently public cloud is widely though to be the best avenue through which to accomplish this. As outline above, the current direction from TBS is in favour of public cloud. With that in mind, we will continue to push towards public cloud.
+
+However, we will not that in the broader context it is currently uncertain whether or not public cloud will be a persistent trend. For example, the [US Federal Cloud Computing Strategy](https://cloud.cio.gov/strategy/) has revised their Cloud First strategy in favour of a *Cloud Smart* strategy, which reads
+
+> ... anyone can develop and deploy a cloud solution, whether an outside vendor or a Federal agency. Industry has moved to a more finely differentiated set of capabilities offered at different system layers, making possible nearly any combination of various components managed by either a vendor, a Government agency, or a mix of both. Industries that are leading in technology innovation have also demonstrated that hybrid and multi-cloud environments can be effective and efficient for managing workloads. As a result, the Cloud Smart Strategy encourages agencies to think of cloud as an array of solutions that offer many capabilities and management options to enhance mission and service delivery.
+
+With this in mind, what is more important than moving to the cloud itself, is the *ability to move to the cloud*. As covered above, moving to the cloud while maintaining existing arduous and lengthy processes would not greatly increase the responsiveness to Canadian citizens, as desired. Cloud first requires the entire organization to shift in favour of automation over toil in over to fully realize the benefits that a world leading modern Cloud Service Provider (CSP) can provide.
+
 ##### Upon the completion of the PB Cloud Environment
 
 - Reference TCs recent work
@@ -94,7 +102,13 @@ Cloud is not only for application developers. The ideal end state is for the Gov
 
 ##### Self-Service Provisioning
 
+Existing governance structures and approval processes will need to be formalized so that they may be encodable and machine readable. Those who are building and designing the services for Canadians must be empowered to self provision that which they need to best complete their work within the guidelines set by the organization. That is to say, the organization must have platform teams who are responsible for properly configuring the environment which enables the value stream aligned teams (development teams), to self-serve on an as needed basis.
+
+The current model of lengthy governance approval processes cannot survive a transition to the cloud, otherwise the transition to the cloud was for naught.
+
 ##### Reduce Maintenance Overhead
+
+Through leveraing cloud solutions ESDC should reduce existing maintenance costs. This is not to say that ESDC will necessarily experience cost savings by transitioning to the cloud [TO-DO: Provide data this is often not the case]. To reiterate, the cloud offers many benefits relating to speed and agility, and being able to leverage these capabilities should result in faster service delivery, better metrics collected, and less *in-house* maintenance of physical assets. This means cost savings should be realized from existing maintenance services (patching of software, evergreening of physical assets, license management). Said savings should be reallocated in order to promote further relentless automation where required. For example, thorough automated testing must take place in order to maximally benefit from automated software updates. Resources should be shifted away from maintenance of physical assets and transfered to automating testing with the aim of being able to fully leverage cloud based capabilities, such as automated software patching.
 
 ### Recommended Actions
 
