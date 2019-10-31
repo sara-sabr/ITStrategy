@@ -189,6 +189,4 @@ _Difficult to influence the direction of SaaS compared to OSS project open to co
 
 Thank you!
 
-IT Strategy Team
-
-EDSC.DGIIT.StrategieTI-ITStrategy.IITB.ESDC@hrsdc-rhdcc.gc.ca
+[IT Strategy Team](mailto:EDSC.DGIIT.StrategieTI-ITStrategy.IITB.ESDC@hrsdc-rhdcc.gc.ca)
