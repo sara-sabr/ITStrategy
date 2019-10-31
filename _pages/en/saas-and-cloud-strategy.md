@@ -147,4 +147,7 @@ Going forward, there will be more flexibility around cloud than there is for Saa
 [Government of Canada Security Control Profile for Cloud-based GC Services](https://www.canada.ca/en/government/system/digital-government/modern-emerging-technologies/cloud-services/government-canada-security-control-profile-cloud-based-it-services.html)
 
 [IT Security Risk Management: A Lifecycle Approach (ITSG-33)](https://cyber.gc.ca/en/guidance/it-security-risk-management-lifecycle-approach-itsg-33)
+
 [Team Topologies](https://teamtopologies.com/)
+
+[US Federal Cloud Computing Strategy](https://cloud.cio.gov/strategy/)
