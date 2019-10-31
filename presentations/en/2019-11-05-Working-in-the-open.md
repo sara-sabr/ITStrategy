@@ -313,35 +313,35 @@ Note:
 #### Workspace
 
 - GCpedia
-- GCcollab Wiki
-- Framasoft
-- Google Apps
-- Microsoft Office 365
+- [GCcollab Wiki](https://wiki.gccollab.ca/)
+- [Framasoft](https://framasoft.org/)
+- [Google Drive + Related Tools](https://www.google.com/drive/)
+- [Microsoft Office 365](https://www.office.com/)
 
 --
 
 #### Planning
 
-- Trello
-- Taiga
-- Gitlab - Boards
-- GitHub - Projects
+- [Gitlab - Boards](https://about.gitlab.com/product/issueboard/)
+- [GitHub - Projects](https://github.com/features/project-management/)
+- [Trello](https://trello.com/)
+- [Taiga](https://taiga.io/)
 
 --
 
 #### Version Control
 
-- GitLab
-- GitHub
-- Bitbucket
+- [GitLab](https://gitlab.com/)
+- [GitHub](https://github.com/)
+- [Bitbucket](https://bitbucket.org/)
 
 --
 
 #### Communications
 
-- Twitter
+- [Twitter](https://twitter.com/)
 - Intranet News and Sites
-- Open Resources Exchange
+- [Open Resources Exchange](https://canada-ca.github.io/ore-ero/)
 
 ---
 
