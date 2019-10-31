@@ -1,108 +1,111 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mxfile host="www.draw.io" modified="2019-10-30T17:20:11.454Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:70.0) Gecko/20100101 Firefox/70.0" etag="hZ2NrFoSxOxzAYhZhMuG" version="12.1.8" type="device" pages="1">
+<mxfile host="www.draw.io" modified="2019-10-31T12:15:47.387Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:70.0) Gecko/20100101 Firefox/70.0" etag="hbPzny_3PRbfWsxY65Ss" version="12.1.9" pages="1">
   <diagram id="-bk_C6BWtBluzct1Dt5Y" name="Page-1">
-    <mxGraphModel dx="1648" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1408" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
-        <mxCell id="78hapkpqb7R9faJW3Deu-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="78hapkpqb7R9faJW3Deu-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="287" y="80" width="136" height="700" as="geometry"/>
         </mxCell>
-        <mxCell id="78hapkpqb7R9faJW3Deu-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="78hapkpqb7R9faJW3Deu-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="140" y="80" width="143" height="700" as="geometry"/>
         </mxCell>
-        <mxCell id="78hapkpqb7R9faJW3Deu-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="78hapkpqb7R9faJW3Deu-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="428" y="80" width="140" height="700" as="geometry"/>
         </mxCell>
-        <mxCell id="78hapkpqb7R9faJW3Deu-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="78hapkpqb7R9faJW3Deu-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="572" y="80" width="130" height="700" as="geometry"/>
         </mxCell>
-        <mxCell id="78hapkpqb7R9faJW3Deu-5" value="20% time to learn, automate and improve" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="78hapkpqb7R9faJW3Deu-5" value="20% time to learn, automate and improve" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="152" y="710" width="263" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="78hapkpqb7R9faJW3Deu-6" value="Access to tool and ressources" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="78hapkpqb7R9faJW3Deu-6" value="&lt;a href=&quot;https://cloud.google.com/solutions/devops/devops-tech-teams-empowered-to-choose-tools&quot;&gt;Access to tools, resources&lt;/a&gt; and &lt;a href=&quot;https://cloud.google.com/solutions/devops/devops-culture-job-satisfaction&quot;&gt;meaningful work&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="152" y="500" width="263" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="78hapkpqb7R9faJW3Deu-7" value="Work in the open" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="78hapkpqb7R9faJW3Deu-7" value="Work in the open" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="294.5" y="430" width="263" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="78hapkpqb7R9faJW3Deu-8" value="Agile teams" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="78hapkpqb7R9faJW3Deu-8" value="Agile teams" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="294" y="640" width="263" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="78hapkpqb7R9faJW3Deu-9" value="Experimentation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="78hapkpqb7R9faJW3Deu-9" value="&lt;a href=&quot;https://cloud.google.com/solutions/devops/devops-process-team-experimentation&quot;&gt;Experimentation&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="294.5" y="290" width="263" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="78hapkpqb7R9faJW3Deu-10" value="Business intelligence" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="78hapkpqb7R9faJW3Deu-10" value="&lt;a href=&quot;https://cloud.google.com/solutions/devops/devops-measurement-monitoring-systems&quot;&gt;Business intelligence&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="577" y="150" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="78hapkpqb7R9faJW3Deu-11" value="Proactive failure notifications" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="78hapkpqb7R9faJW3Deu-11" value="&lt;a href=&quot;https://cloud.google.com/solutions/devops/devops-measurement-proactive-failure-notification&quot;&gt;Proactive failure notifications&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="577" y="220" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="78hapkpqb7R9faJW3Deu-12" value="Work in progress limits" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="78hapkpqb7R9faJW3Deu-12" value="&lt;a href=&quot;https://cloud.google.com/solutions/devops/devops-measurement-wip-limits&quot;&gt;Work in progress limits&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="577" y="570" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="78hapkpqb7R9faJW3Deu-13" value="Continuous improvement" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="78hapkpqb7R9faJW3Deu-13" value="Continuous improvement" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="294" y="570" width="263" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="78hapkpqb7R9faJW3Deu-14" value="Automated deployments and service delivery" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="78hapkpqb7R9faJW3Deu-14" value="&lt;a href=&quot;https://cloud.google.com/solutions/devops/devops-tech-deployment-automation&quot;&gt;Automated deployments&lt;/a&gt; and service delivery" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="152" y="150" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="78hapkpqb7R9faJW3Deu-15" value="Continuous integration (automated testing)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="78hapkpqb7R9faJW3Deu-15" value="&lt;a href=&quot;https://cloud.google.com/solutions/devops/devops-tech-continuous-integration&quot;&gt;Continuous integration&lt;/a&gt; (&lt;a href=&quot;https://cloud.google.com/solutions/devops/devops-tech-test-automation&quot;&gt;automated testing&lt;/a&gt;)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="152" y="360" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="78hapkpqb7R9faJW3Deu-16" value="Test data management" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="78hapkpqb7R9faJW3Deu-16" value="&lt;a href=&quot;https://cloud.google.com/solutions/devops/devops-tech-test-data-management&quot;&gt;Test data management&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="152" y="290" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="78hapkpqb7R9faJW3Deu-17" value="Trunk based development" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="78hapkpqb7R9faJW3Deu-17" value="&lt;a href=&quot;https://cloud.google.com/solutions/devops/devops-tech-trunk-based-development&quot;&gt;Trunk based development&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="152" y="430" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="78hapkpqb7R9faJW3Deu-18" value="Version control everything" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="78hapkpqb7R9faJW3Deu-18" value="&lt;a href=&quot;https://cloud.google.com/solutions/devops/devops-tech-version-control&quot;&gt;Version control everything&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="152" y="570" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="78hapkpqb7R9faJW3Deu-19" value="Cross functional teams" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="78hapkpqb7R9faJW3Deu-19" value="Cross functional teams" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="294.5" y="360" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="78hapkpqb7R9faJW3Deu-20" value="Break down silos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="78hapkpqb7R9faJW3Deu-20" value="Break down silos" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="437" y="710" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="78hapkpqb7R9faJW3Deu-21" value="Continuous feedback loops" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="78hapkpqb7R9faJW3Deu-21" value="&lt;a href=&quot;https://cloud.google.com/solutions/devops/devops-process-customer-feedback&quot;&gt;Continuous feedback loops&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="437" y="150" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="78hapkpqb7R9faJW3Deu-22" value="Value stream map" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="78hapkpqb7R9faJW3Deu-22" value="&lt;a href=&quot;https://cloud.google.com/solutions/devops/devops-process-work-visibility-in-value-stream&quot;&gt;Value stream map&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="438" y="500" width="260" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="78hapkpqb7R9faJW3Deu-23" value="Make work visible" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="78hapkpqb7R9faJW3Deu-23" value="&lt;a href=&quot;https://cloud.google.com/solutions/devops/devops-measurement-visual-management&quot;&gt;Make work visible&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="437" y="360" width="260" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="78hapkpqb7R9faJW3Deu-24" value="Lean architecture" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="78hapkpqb7R9faJW3Deu-24" value="&lt;a href=&quot;https://cloud.google.com/solutions/devops/devops-tech-architecture&quot;&gt;Lean architecture&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="152" y="220" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="78hapkpqb7R9faJW3Deu-25" value="Generative culture" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="78hapkpqb7R9faJW3Deu-25" value="&lt;a href=&quot;https://cloud.google.com/solutions/devops/devops-culture-westrum-organizational-culture&quot;&gt;Generative culture&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="295" y="150" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="78hapkpqb7R9faJW3Deu-26" value="Lean change approval" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="78hapkpqb7R9faJW3Deu-26" value="&lt;a href=&quot;https://cloud.google.com/solutions/devops/devops-process-streamlining-change-approval&quot;&gt;Lean change approval&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="438" y="220" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="78hapkpqb7R9faJW3Deu-27" value="Blameless postmortems" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="78hapkpqb7R9faJW3Deu-27" value="Blameless postmortems" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="295" y="220" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="78hapkpqb7R9faJW3Deu-28" value="Collect data throughout the value chain" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="78hapkpqb7R9faJW3Deu-28" value="&lt;a href=&quot;https://cloud.google.com/solutions/devops/devops-measurement-monitoring-systems&quot;&gt;Collect data throughout the value chain&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="577" y="430" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="78hapkpqb7R9faJW3Deu-29" value="Prioritize work items" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="78hapkpqb7R9faJW3Deu-29" value="&lt;a href=&quot;https://cloud.google.com/solutions/devops/devops-process-working-in-small-batches&quot;&gt;Prioritize work items&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="578" y="640" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="78hapkpqb7R9faJW3Deu-30" value="&lt;b&gt;Technical&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="78hapkpqb7R9faJW3Deu-30" value="&lt;b&gt;Technical&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="164" y="110" width="90" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="78hapkpqb7R9faJW3Deu-31" value="&lt;b&gt;Cultural&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="78hapkpqb7R9faJW3Deu-31" value="&lt;b&gt;Cultural&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="335" y="110" width="40" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="78hapkpqb7R9faJW3Deu-32" value="&lt;div&gt;&lt;b&gt;Process&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="78hapkpqb7R9faJW3Deu-32" value="&lt;div&gt;&lt;b&gt;Process&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="479" y="110" width="40" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="78hapkpqb7R9faJW3Deu-33" value="&lt;b&gt;Measurement&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="78hapkpqb7R9faJW3Deu-33" value="&lt;b&gt;Measurement&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="617" y="110" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="J1eTKJzRUmr2SgCcCviv-1" value="&lt;a href=&quot;https://cloud.google.com/solutions/devops/devops-culture-learning-culture&quot;&gt;Learning culture&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="152" y="640" width="120" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
