@@ -96,6 +96,7 @@ See [GitLab Features](https://about.gitlab.com/features/)
 
 ---
 
+<!-- markdownlint-disable MD026 -->
 ## Why not Github.com?
 
 ---
@@ -116,7 +117,7 @@ _Private projects are available for free with limitations (3 collaborators) or a
 ### Drawbacks of public SaaS
 
 **1. Comfort Level with Openness**  
-_Teams can be reluctant to work completely in the open_
+_Teams can be reluctant to work in the open_
 
 **2. Vendor Lock-in**  
 _No control over provider's roadmap_
