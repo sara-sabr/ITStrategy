@@ -88,7 +88,16 @@ However, we will not that in the broader context it is currently uncertain wheth
 
 > ... anyone can develop and deploy a cloud solution, whether an outside vendor or a Federal agency. Industry has moved to a more finely differentiated set of capabilities offered at different system layers, making possible nearly any combination of various components managed by either a vendor, a Government agency, or a mix of both. Industries that are leading in technology innovation have also demonstrated that hybrid and multi-cloud environments can be effective and efficient for managing workloads. As a result, the Cloud Smart Strategy encourages agencies to think of cloud as an array of solutions that offer many capabilities and management options to enhance mission and service delivery.
 
-With this in mind, what is more important than moving to the cloud itself, is the *ability to move to the cloud*. As covered above, moving to the cloud while maintaining existing arduous and lengthy processes would not greatly increase the responsiveness to Canadian citizens, as desired. Cloud first requires the entire organization to shift in favour of automation over toil in over to fully realize the benefits that a world leading modern Cloud Service Provider (CSP) can provide.
+TBS's guidance takes this nuance into account however, as they outline in the [Government of Canada Cloud Adoption Strategy: 2018 update](https://www.canada.ca/en/government/system/digital-government/modern-emerging-technologies/cloud-services/government-canada-cloud-adoption-strategy.html) that
+
+> Using the [Government of Canada Right Cloud Selection Guidance](https://www.canada.ca/en/government/system/digital-government/modern-emerging-technologies/cloud-services/government-canada-right-cloud-selection-guidance.html) to guide their decision, departmental and agency CIOs will select one of the following deployment models, in the following order of priority:
+
+a. public cloud
+b. hybrid cloud
+c. private cloud
+d. non-cloud
+
+Moving forward it may be the case this prioritization may change with the rapidly evolving lcoud technologoes. With this in mind, what is more important than moving to the cloud itself, is the *ability to move to the cloud*. As covered above, moving to the cloud while maintaining existing arduous and lengthy processes would not greatly increase the responsiveness to Canadian citizens, as desired. Cloud first requires the entire organization to shift in favour of automation over toil in over to fully realize the benefits that a world leading modern Cloud Service Provider (CSP) can provide.
 
 ##### Upon the completion of the PB Cloud Environment
 
@@ -98,7 +107,11 @@ With this in mind, what is more important than moving to the cloud itself, is th
 
 ##### Monitoring
 
+Presently there exist large gaps in monitoring and information sharing capabilities both within departments and between them. The cloud can assist in rectifying this shortcoming as monitoring is built into the platforms. Such monitoring assits in identifying areas that require attention and automation, as well as assist with the debugging and resolution of problems, including operational issues. Further, such metrics permit the targeted application of automation to reduce the risk of IT, increase the reliability and scability of our systems, and more quickly respond to operational issues.
+
 ##### Reduced Lead Time
+
+The current acquisition process for new machines presently lacks far behind that which is available through Cloud Service Providers (CSPs). For example, existing processes may take several months to acquire a new machine while CSPs are able to do this in minutes, or often less than a minute.
 
 ##### Self-Service Provisioning
 
@@ -110,23 +123,61 @@ The current model of lengthy governance approval processes cannot survive a tran
 
 Through leveraing cloud solutions ESDC should reduce existing maintenance costs. This is not to say that ESDC will necessarily experience cost savings by transitioning to the cloud [TO-DO: Provide data this is often not the case]. To reiterate, the cloud offers many benefits relating to speed and agility, and being able to leverage these capabilities should result in faster service delivery, better metrics collected, and less *in-house* maintenance of physical assets. This means cost savings should be realized from existing maintenance services (patching of software, evergreening of physical assets, license management). Said savings should be reallocated in order to promote further relentless automation where required. For example, thorough automated testing must take place in order to maximally benefit from automated software updates. Resources should be shifted away from maintenance of physical assets and transfered to automating testing with the aim of being able to fully leverage cloud based capabilities, such as automated software patching.
 
-### Recommended Actions
-
 ## The Question of SaaS
 
 Above we expanded on the current and future use of Cloud within our organization. The question of SaaS is a different question. When one speaks of cloud development they are speaking of development. All the same restrictions that exist for non-cloud environments exist for cloud requirements, with extra processing time due to the known nature of its use within the organization. The time that is saved is that of requesting changes to devices, all other delays to lead times still exist.
 
 Going forward, there will be more flexibility around cloud than there is for SaaS based solutions, however, as was outlined in the [Immediate Actions](#ImmediateActions) section, the use cases for cloud based development projects is limited. However, SaaS based solutions have their own limitations, which we will outline below.
 
-## Goals 
+## Goals
+
+The [Government of Canada Cloud Adoption Strategy: 2018 update](https://www.canada.ca/en/government/system/digital-government/modern-emerging-technologies/cloud-services/government-canada-cloud-adoption-strategy.html) reads
+
+> 3. Departmental and agency CIOs will select one of the following cloud service models, in the following order of priority:
+
+a. software as a service (SaaS)
+b. platform as a service (PaaS)
+c. infrastructure as a service (IaaS)
+
+Therefore, we must consider first SaaS solutions, and if not possible, differ to other forms of cloud offerings. Unfortunately, the commonly used cloud terms (IaaS, PaaS, SaaS, XaaS) are mal defined and increasingly overlapping as new technologies blur the lines between each category. For example, in the US [Federal Cloud Computing Strategy](https://cloud.cio.gov/strategy/) in reference to IaaS, PaaS, and SaaS they say
+
+> In practice, many major vendor offerings no longer have such well-defined boundaries.
+
+In practice, the question being asked which set the context for this document is just a modernized way of asking "build vs buy". In the case of SaaS then, what is the aim of leverage SaaS solutions?
+
+- To be able to quickly respond to common non-critical business needs with minimal overhead or investment
 
 ### Current State
 
+Due to existing organizational debt decisions which greatly reduce the lead time prevent IITB from responding to business needs with the agility that citizens and staff alike have come to expect from the private sector. In the [Digital Operations Strategic Plan: 2018-2022](https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html) it reads
+
+> Expectations of government services are not static, and as external services become easier to use, citizens expect government services to follow. Research by Accenture into e-government in the United States suggests that citizens typically want more digital government services but are discouraged by difficulties in accessing digital information or service channels.
+
+With this in mind, there is a shift in favour of cloud solutions which advertise their ability the provide the resources required to deliver modern solutions within minutes. This is an attractive offer that governments should be leveraging, though the maldefined and commonly misunderstood nature of the services provided, alongside existing organizational debt often causes a fissure between expectations and what ends up being delivered.
+
 ### Desired State
+
+SaaS *should be* leveraged in place of in-house developed solutions for non-business critical solutions dealing exclusively with unprotected data. Doing so will reduce time spent by the department on solving problems that have already been resolved, and by leveraging said solutions will benefit from the economies of scale that would not be present through an isolated in-house developed solution.
 
 #### Immediate Actions
 
+##### Adopt SaaS for Quick Wins and Effeciency Gains
+
+##### Stop Competing with SaaS Solutions
+
+Presently there are many SaaS offerings that provide many useful tools that would assist ESDC on increasing its effeciency in order to better deliver its services to Canadians. By developing solutions that already exist the government of Canada is investing in unnecessary rework in order to produce sub-standard products, due to being unable to benefit from the economies of scale SaaS offerings are able to leverage. For example, it wouldn't be responsible stewardship of public funds to invest long time full time development resources to a survey tool. However, existing SaaS offerings are able to commit full time resources over a long period of time to this relatively small function, and continuously improve their service offering. As a result, they are able to allocate significant amounts of time into perfecting a simple and reusable function, such as the creation of a survey. ESDC should permit itself to benefit from such offerings and instead focus on developing solutions that directly deliver on its mandate.
+
+This claim is acknowleding the many exception cases there SaaS offerings may not fully meet the requirements set by the Government of Canada, for example the [Accessible Canada Act](https://www.parl.ca/DocumentViewer/en/42-1/bill/C-81/royal-assent) or [Direction for Electronic Data Residency](https://www.canada.ca/en/government/system/digital-government/modern-emerging-technologies/direction-electronic-data-residency.html).
+
+It is for this reason that, in the [Future Actions](#FutureActions) section ESDC we discuss that ESDC should work relentlessly on improving its in-house development capabilities in order to eventually reduce the reliance on SaaS offerings.
+
+SaaS should be leveraged for 'quick-wins' where investment in a solution would be in misalignment with responsible stewardship of public funds.
+
+##### Stop Investing in Re-work
+
 #### Future Actions
+
+##### Reduce Reliance on SaaS
 
 ## Conclusions
 
@@ -151,3 +202,5 @@ Going forward, there will be more flexibility around cloud than there is for Saa
 [Team Topologies](https://teamtopologies.com/)
 
 [US Federal Cloud Computing Strategy](https://cloud.cio.gov/strategy/)
+
+[https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=25049](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=25049)
