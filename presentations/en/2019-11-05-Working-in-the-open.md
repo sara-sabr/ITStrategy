@@ -218,7 +218,9 @@ In your work, you should have a notice with the mention of the licence applied t
 --
 
 >Unless otherwise noted, the source code of this project is covered under Crown Copyright, Government of Canada, and is distributed under the MIT License.
->
+
+--
+
 >The Canada wordmark and related graphics associated with this distribution are protected under trademark law and copyright law. No permission is granted to use them outside the parameters of the Government of Canada's corporate identity program. For more information, see Federal identity requirements.
 
 --
@@ -274,7 +276,7 @@ Note:
 - If your work is interesting, people might find it
 - People may submit recommendations and modifications to you
 - Manage your community, you will benefit greatly from it
-- Set expectationsGCcollab
+- Set expectations
   - "We don't take contributions at this point but happy to have you submit suggestions"
   - "We will get back to you within 48 hours"
   - Set templates
@@ -315,6 +317,8 @@ Note:
 - GCpedia
 - [GCcollab Wiki](https://wiki.gccollab.ca/)
 - [Framasoft](https://framasoft.org/)
+- [GitLab](https://gitlab.com/)
+- [GitHub](https://github.com/)
 - [Google Drive + Related Tools](https://www.google.com/drive/)
 - [Microsoft Office 365](https://www.office.com/)
 
