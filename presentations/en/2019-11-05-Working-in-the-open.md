@@ -381,6 +381,10 @@ Of projects in the open
 
 --
 
+[Web Experience Toolkit (WET)](https://wet-boew.github.io/wet-boew/docs/ref/accolades-en.html)
+
+--
+
 [Drupal-WXT](http://drupalwxt.org/)
 
 --
