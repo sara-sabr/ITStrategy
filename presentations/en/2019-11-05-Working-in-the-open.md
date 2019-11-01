@@ -1,5 +1,9 @@
 # Working in the Open
 
+Course material for Digital Academy, Fall 2019
+
+Guillaume Charest, ESDC
+
 ---
 
 ## What
@@ -94,6 +98,10 @@ Note:
 - It's hard to look for something you don't know exists
 - If it's in the open, it can at least be found
 - It creates opportunities to create a community
+  - Open First Whitepaper with private sector
+  - Open Resource Exchange with Canadian municipalities
+- According to the [DORA DevOps Report 2019](https://cloud.google.com/devops/state-of-devops/) (page 62):
+  - Internal and External search capabilities are key enablers for productivity AND job satisfaction
 
 --
 
@@ -162,6 +170,9 @@ Note:
 - Don't wait until it's perfect (it never will be)
 - Start your drafts in the open (improve the way you write)
 - It's a lot harder to open up at the end
+- [Policy on Service and Digital 4.3](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603#cla4.3)
+  - Open and strategic management of information
+  - 4.3.2.8 Maximizing the release of departmental information and data as an open resource, discoverable through the Government of Canada open government portal designated by the Treasury Board of Canada Secretariat, while respecting information security, privacy, and legal considerations.
 
 ---
 
@@ -300,6 +311,11 @@ Note:
 
 ### Tools
 
+Note:
+
+- If the following tools are blocked, lets chat.
+- The DA, TBS and many other teams across departments may be able to help
+
 --
 
 #### Community Management
@@ -350,6 +366,10 @@ Note:
 ---
 
 ## Examples
+
+Note:
+
+Of projects in the open
 
 --
 
