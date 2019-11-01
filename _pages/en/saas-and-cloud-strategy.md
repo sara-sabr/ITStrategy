@@ -88,6 +88,12 @@ However, we will not that in the broader context it is currently uncertain wheth
 
 > ... anyone can develop and deploy a cloud solution, whether an outside vendor or a Federal agency. Industry has moved to a more finely differentiated set of capabilities offered at different system layers, making possible nearly any combination of various components managed by either a vendor, a Government agency, or a mix of both. Industries that are leading in technology innovation have also demonstrated that hybrid and multi-cloud environments can be effective and efficient for managing workloads. As a result, the Cloud Smart Strategy encourages agencies to think of cloud as an array of solutions that offer many capabilities and management options to enhance mission and service delivery.
 
+Further, the [State of DevOps 2019](https://www.google.ca/url?sa=t&rct=j&q=&esrc=s&source=web&cd=6&cad=rja&uact=8&ved=2ahUKEwjdntzy0snlAhVsTt8KHQLxDFoQFjAFegQICBAC&url=https%3A%2F%2Fcloudplatformonline.com%2Frs%2F248-TPC-286%2Fimages%2FDORA-State%2520of%2520DevOps.pdf&usg=AOvVaw2PLSLELi2td1WLLLoiqzcl) observes
+
+> With the evolving nature of business, more and more organizations are choosing multi-cloud and hybrid cloud solutions. This is because these solutions offer flexibility, control, and availability in addition to performance gains.10 In our survey, respondents indicated increased use of multicloud and hybrid cloud compared to last year.
+
+> We also asked respondents to indicate where their primary application work was hosted, and again saw responses that indicate there is no clear consensus on what it means to work in a hybrid or multi-cloud environment.
+
 TBS's guidance takes this nuance into account however, as they outline in the [Government of Canada Cloud Adoption Strategy: 2018 update](https://www.canada.ca/en/government/system/digital-government/modern-emerging-technologies/cloud-services/government-canada-cloud-adoption-strategy.html) that
 
 > Using the [Government of Canada Right Cloud Selection Guidance](https://www.canada.ca/en/government/system/digital-government/modern-emerging-technologies/cloud-services/government-canada-right-cloud-selection-guidance.html) to guide their decision, departmental and agency CIOs will select one of the following deployment models, in the following order of priority:
@@ -131,6 +137,22 @@ Going forward, there will be more flexibility around cloud than there is for Saa
 
 ## Goals
 
+In practice, the question being asked which set the context for this document is just a modernized way of asking "build vs buy". In the case of SaaS then, what is the aim of leverage SaaS solutions?
+
+ In the [Digital Operations Strategic Plan: 2018-2022](https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html) it lists the benefits as follows
+
+```html 
+- reduces up-front costs and instead introduces ongoing subscription costs
+- keeps the product evergreen, with ongoing updates and evolutions to address emerging requirements, which reduces maintenance costs, eliminates upgrade costs and avoids long-term legacy issues
+- eliminates disincentives for organizations to update to newer software versions
+```
+
+For the purposes of this strategic document we will summarize the goal as follows:
+
+- To be able to quickly respond to common non-critical business needs with minimal overhead, financial or otherwise
+
+### Current State
+
 The [Government of Canada Cloud Adoption Strategy: 2018 update](https://www.canada.ca/en/government/system/digital-government/modern-emerging-technologies/cloud-services/government-canada-cloud-adoption-strategy.html) reads
 
 > 3. Departmental and agency CIOs will select one of the following cloud service models, in the following order of priority:
@@ -142,12 +164,6 @@ c. infrastructure as a service (IaaS)
 Therefore, we must consider first SaaS solutions, and if not possible, differ to other forms of cloud offerings. Unfortunately, the commonly used cloud terms (IaaS, PaaS, SaaS, XaaS) are mal defined and increasingly overlapping as new technologies blur the lines between each category. For example, in the US [Federal Cloud Computing Strategy](https://cloud.cio.gov/strategy/) in reference to IaaS, PaaS, and SaaS they say
 
 > In practice, many major vendor offerings no longer have such well-defined boundaries.
-
-In practice, the question being asked which set the context for this document is just a modernized way of asking "build vs buy". In the case of SaaS then, what is the aim of leverage SaaS solutions?
-
-- To be able to quickly respond to common non-critical business needs with minimal overhead or investment
-
-### Current State
 
 Due to existing organizational debt decisions which greatly reduce the lead time prevent IITB from responding to business needs with the agility that citizens and staff alike have come to expect from the private sector. In the [Digital Operations Strategic Plan: 2018-2022](https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html) it reads
 
@@ -161,9 +177,7 @@ SaaS *should be* leveraged in place of in-house developed solutions for non-busi
 
 #### Immediate Actions
 
-##### Adopt SaaS for Quick Wins and Effeciency Gains
-
-##### Stop Competing with SaaS Solutions
+##### Do Not Invest in Re-Work
 
 Presently there are many SaaS offerings that provide many useful tools that would assist ESDC on increasing its effeciency in order to better deliver its services to Canadians. By developing solutions that already exist the government of Canada is investing in unnecessary rework in order to produce sub-standard products, due to being unable to benefit from the economies of scale SaaS offerings are able to leverage. For example, it wouldn't be responsible stewardship of public funds to invest long time full time development resources to a survey tool. However, existing SaaS offerings are able to commit full time resources over a long period of time to this relatively small function, and continuously improve their service offering. As a result, they are able to allocate significant amounts of time into perfecting a simple and reusable function, such as the creation of a survey. ESDC should permit itself to benefit from such offerings and instead focus on developing solutions that directly deliver on its mandate.
 
@@ -171,13 +185,21 @@ This claim is acknowleding the many exception cases there SaaS offerings may not
 
 It is for this reason that, in the [Future Actions](#FutureActions) section ESDC we discuss that ESDC should work relentlessly on improving its in-house development capabilities in order to eventually reduce the reliance on SaaS offerings.
 
-SaaS should be leveraged for 'quick-wins' where investment in a solution would be in misalignment with responsible stewardship of public funds.
+##### Leverage for Quick-Wins
 
-##### Stop Investing in Re-work
+SaaS should be leveraged for 'quick-wins' where only unprotected data is being used and for where it is not intended to contact citizens directly. Further, it should be leveraged when investment in an inhouse developed solution would be in misalignment with responsible stewardship of public funds given the benefits said in-house delivery would delive.
+
+> [Federal public servants are entrusted to use and care for public resources responsibly, for both the short term and long term.](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=25049)
 
 #### Future Actions
 
 ##### Reduce Reliance on SaaS
+
+[TO-DO: DevOps Handbook Reference]
+
+SaaS can save time and money by not investing resources into the creation of existing tools.
+
+In-house development, due to heavy governance and approval processes, is a lengthy and thusly expensive process. However, as an organization
 
 ## Conclusions
 
@@ -203,4 +225,6 @@ SaaS should be leveraged for 'quick-wins' where investment in a solution would b
 
 [US Federal Cloud Computing Strategy](https://cloud.cio.gov/strategy/)
 
-[https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=25049](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=25049)
+[Values and Ethics Code for the Public Sector](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=25049)
+
+[State of DevOps 2019](https://www.google.ca/url?sa=t&rct=j&q=&esrc=s&source=web&cd=6&cad=rja&uact=8&ved=2ahUKEwjdntzy0snlAhVsTt8KHQLxDFoQFjAFegQICBAC&url=https%3A%2F%2Fcloudplatformonline.com%2Frs%2F248-TPC-286%2Fimages%2FDORA-State%2520of%2520DevOps.pdf&usg=AOvVaw2PLSLELi2td1WLLLoiqzcl)
