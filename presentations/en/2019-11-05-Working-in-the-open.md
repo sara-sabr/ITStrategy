@@ -46,7 +46,7 @@ Note:
   - Thousands of people working together
   - Various levels of contributions
 - Inner Source - Entire organization (even whole GC!), not just your branch or your team
-  - Lots of redundancies accross teams, branches and departments
+  - Lots of redundancies across teams, branches and departments
   - Opportunities to find and reuse solutions
 - Do not force collaboration (see [HBR Collaborative Overload](https://hbr.org/2016/01/collaborative-overload))
   - It has to come organically (people interested, similar issues, etc.)
@@ -54,7 +54,7 @@ Note:
 
 --
 
-It's a also cultural thing
+It's also a cultural thing
 
 Note:
 
@@ -116,14 +116,14 @@ Note:
 
 --
 
->It's all about software engineericollaborationng economics
+>It's all about software engineering economics
 
 Stephen Walli, Principal Program Manager at Microsoft
 
 Note:
 
 - Writing good code is hard
-- If you work in the open and build a community, your team is bigger than the amount of people you can hire
+- If you work in the open and build a community, your team is bigger than the number of people you can hire
 
 --
 
@@ -180,7 +180,7 @@ Your work is under Crown Copyright
 Note:
 
 - Rights and conditions to what public can do directly with it
-- If licenced, need notice of the copyright
+- If licenced, need notice of copyright
 
 --
 
@@ -204,7 +204,7 @@ Note:
 - Not everything fits under OSS licences
 - Need approval from proper delegated authority (varies by department)
 - [Open Government Licence - Canada](https://open.canada.ca/en/open-government-licence-canada) is recommended for data, information, content
-- Traditional open source licence are preferable for source code
+- Traditional open source licence is preferable for source code
   - Industry is more familiar to those licences
   - Easier to have people contribute back to your project
 - Creative Commons is not for code so current position is to not use it (OGL instead)
@@ -227,12 +227,12 @@ In your work, you should have a notice with the mention of the licence applied t
 
 Unclassified only
 
-More in the soon to be released [Open Source Standard](https://github.com/canada-ca/open-source-logiciel-libre/blob/master/en/guides/publishing-open-source-code.md#developing-software-in-the-open)
+More in the soon to be released [Open Source Standards](https://github.com/canada-ca/open-source-logiciel-libre/blob/master/en/guides/publishing-open-source-code.md#developing-software-in-the-open)
 
 Note:
 
 - Don't put secrets or sensitive data out there
-- Don't put personnally identifiable information out there
+- Don't put personally identifiable information out there
 - Don't put information about procurement processes
 
 --
@@ -288,7 +288,7 @@ Note:
 - Some people are new at this
 - Welcome people from everywhere
 - Set a Code of Conduct
-  - Should include a link to the Public Servant's Values and Ethics0
+  - Should include a link to the Public Servant's Values and Ethics
 
 --
 
@@ -322,7 +322,7 @@ Note:
 
 #### Planning
 
-- [Gitlab - Boards](https://about.gitlab.com/product/issueboard/)
+- [GitLab - Boards](https://about.gitlab.com/product/issueboard/)
 - [GitHub - Projects](https://github.com/features/project-management/)
 - [Trello](https://trello.com/)
 - [Taiga](https://taiga.io/)
@@ -341,7 +341,7 @@ Note:
 
 - [Twitter](https://twitter.com/)
 - Intranet News and Sites
-- [Open Resources Exchange](https://canada-ca.github.io/ore-ero/)
+- [Open Resource Exchange](https://canada-ca.github.io/ore-ero/)
 
 ---
 
@@ -349,7 +349,7 @@ Note:
 
 --
 
-[Open Resources Exchange](https://github.com/canada-ca/ore-ero)
+[Open Resource Exchange](https://github.com/canada-ca/ore-ero)
 
 --
 
@@ -363,4 +363,4 @@ Note:
 
 [Linux Kernel](https://github.com/torvalds/linux)
 
-![Linux Kernel Contribors](assets/images/oss-linux.png)
+![Linux Kernel Contributors](assets/images/oss-linux.png)
