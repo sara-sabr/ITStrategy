@@ -132,7 +132,7 @@ Note:
 
 - Architecture must default to open standards and open source software
 - Architecture must enable deploy-anytime capabilities and promote relentless use automation
-- Access to common Internet (SaaS) must be open by default to IITB personnel
+- Access to common Internet SaaS tools must be open by default to IITB personnel
 
 Note:
 
