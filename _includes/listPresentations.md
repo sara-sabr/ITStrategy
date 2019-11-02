@@ -10,6 +10,9 @@
           {{ pres.path | replace: "/presentations/fr/", "" | replace: ".md", "" }}
         </a>
       </strong>
+      <a target="_blank" href="presentation-print-pdf.html?markdown=fr/{{ pres.path | replace: "/presentations/fr/", ""  }}&print-pdf">
+          ({{ site.printPDF[page.lang] }})
+      </a>
     </li>
     {%- endif -%}
   {%- endfor -%}
@@ -22,6 +25,9 @@
           {{ pres.path | replace: "/presentations/en/", "" | replace: ".md", "" }}
         </a>
       </strong>
+      <a target="_blank" href="presentation-print-pdf.html?markdown=en/{{ pres.path | replace: "/presentations/en/", ""  }}&print-pdf">
+          ({{ site.printPDF[page.lang] }})
+      </a>
     </li>
     {%- endif -%}
   {%- endfor -%}
