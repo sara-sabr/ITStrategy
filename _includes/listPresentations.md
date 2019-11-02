@@ -12,12 +12,12 @@ _{{ site.printPDFNotice[page.lang] }}_
           {{ pres.path | replace: "/presentations/fr/", "" | replace: ".md", "" }}
         </a>
       </strong>
-      <a target="_blank" href="presentation-pdf.html?markdown=en/{{ pres.path | replace: "/presentations/en/", ""  }}&print-pdf">
-          ({{ site.printPDF[page.lang] }}/
+      (<a target="_blank" href="presentation-pdf.html?markdown=en/{{ pres.path | replace: "/presentations/en/", ""  }}&print-pdf">
+          {{ site.printPDF[page.lang] }}/
       </a>
       <a target="_blank" href="presentation-pdf-notes.html?markdown=en/{{ pres.path | replace: "/presentations/en/", ""  }}&print-pdf">
-          {{ site.printPDFNotes[page.lang] }})
-      </a>
+          {{ site.printPDFNotes[page.lang] }}
+      </a>)
     </li>
     {%- endif -%}
   {%- endfor -%}
@@ -30,12 +30,12 @@ _{{ site.printPDFNotice[page.lang] }}_
           {{ pres.path | replace: "/presentations/en/", "" | replace: ".md", "" }}
         </a>
       </strong>
-      <a target="_blank" href="presentation-pdf.html?markdown=en/{{ pres.path | replace: "/presentations/en/", ""  }}&print-pdf">
-          ({{ site.printPDF[page.lang] }}
+      (<a target="_blank" href="presentation-pdf.html?markdown=en/{{ pres.path | replace: "/presentations/en/", ""  }}&print-pdf">
+          {{ site.printPDF[page.lang] }}
       </a>
       <a target="_blank" href="presentation-pdf-notes.html?markdown=en/{{ pres.path | replace: "/presentations/en/", ""  }}&print-pdf">
-          / {{ site.printPDFNotes[page.lang] }})
-      </a>
+          / {{ site.printPDFNotes[page.lang] }}
+      </a>)
     </li>
     {%- endif -%}
   {%- endfor -%}
