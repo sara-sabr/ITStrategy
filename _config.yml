@@ -80,3 +80,6 @@ feedback:
 printPDF:
   en: Printable version
   fr: Version imprimable
+printPDFNotice:
+  en: Note that the printable version only works with modern browsers. Internet Explorer is not supported.
+  fr: Notez que la version imprimable ne fonctionne qu'avec des navigateurs modernes. Internet Explorer n'est pas supporté.
