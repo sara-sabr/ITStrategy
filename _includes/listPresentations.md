@@ -1,5 +1,7 @@
 ### {{ site.presentations[page.lang] }}
 
+_{{ site.printPDFNotice[page.lang] }}_
+
 <ul class="post-list">
 {%- if page.lang == "fr" -%}
   {%- for pres in site.static_files -%}
