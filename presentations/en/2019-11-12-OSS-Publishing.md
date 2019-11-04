@@ -68,6 +68,10 @@ Note:
 
 (You can reuse [TL;DR Legal](https://tldrlegal.com) to help you pick)
 
+Note:
+
+Take the time to go through this exercise and we'll chat a bit after
+
 --
 
 Which licence did you pick and why?
@@ -84,11 +88,23 @@ Technically, the work we do in the office is Crown Copyright, it belongs to Her 
 
 ### Notice
 
-Include a Copyright notice:
+Include a Copyright notice in the LICENCE file:
 
 > Copyright (c) Her Majesty the Queen in Right of Canada, as represented by the Minister of (legal departmental name), (year of publication).
 
 Replace the (legal departmental name) and (year of publication) with the appropriate information.
+
+--
+
+Include a notice in your README.md
+
+--
+
+>Unless otherwise noted, the source code of this project is covered under Crown Copyright, Government of Canada, and is distributed under the MIT License.
+
+--
+
+>The Canada wordmark and related graphics associated with this distribution are protected under trademark law and copyright law. No permission is granted to use them outside the parameters of the Government of Canada's corporate identity program. For more information, see Federal identity requirements.
 
 --
 
