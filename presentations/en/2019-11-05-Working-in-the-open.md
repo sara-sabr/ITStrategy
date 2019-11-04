@@ -111,7 +111,7 @@ Note:
 
 - MANY problems are already solved
 - Because it's discoverable, you may find an already existing solution
-- Adapt instead of building from scratch
+- Adapt instead of building from scratch (or buying something!)
 
 --
 
@@ -153,6 +153,7 @@ Note:
 From United Kingdom Government Digital Service [blog post](https://gds.blog.gov.uk/2017/09/04/the-benefits-of-coding-in-the-open/)
 
 - Encourages good practice (people will see your work!)
+  - In software development, improve security, accountability and sustainability (see [Working in the Open from 18F Product Guide](https://product-guide.18f.gov/working-in-a-way-that-reflects-our-values/working-in-the-open/))
 - Makes collaboration easier (more organic, [less rigid])
 - Helps others learn from your own work
 
@@ -354,6 +355,7 @@ Note:
 - [GitLab](https://gitlab.com/)
 - [GitHub](https://github.com/)
 - [Bitbucket](https://bitbucket.org/)
+- GCcode
 
 --
 
