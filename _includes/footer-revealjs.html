@@ -5,5 +5,18 @@
 <script src="/ITStrategy/assets/js/notes.js"></script>
 
 <script>
-	Reveal.initialize();
+  var params = new URLSearchParams(window.location.search);
+  if (params.get("shownotes") !== null)
+  {
+	  Reveal.initialize({
+		  pdfSeparateFragments: false,
+		  showNotes: "separate-page"
+	  });
+  } else if (params.get("print-pdf") !== null) {
+	  Reveal.initialize({
+		  pdfSeparateFragments: false
+	  });
+  } else {
+  	Reveal.initialize();
+  }
 </script>
