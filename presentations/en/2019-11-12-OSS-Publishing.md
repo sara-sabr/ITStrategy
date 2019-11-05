@@ -261,7 +261,17 @@ You should consider managing expectations and the community that may coalesce ro
 
 [Canada-ca Templates](https://github.com/canada-ca/template-gabarit)
 
+---
+
+## Automation
+
 --
+
+Setting up automation scripts
+
+[Examples using NPM](exercises-automation-npm.html)
+
+---
 
 Let's have a look at your projects
 
