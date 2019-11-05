@@ -7,6 +7,12 @@ status: posted
 sections: Exercises, "Open Source Software", Automation
 permalink: /exercises-automation-npm.html
 ---
+<!-- markdownlint-disable MD025-->
+# NPM Automation Exercise Instructions
+<!-- markdownlint-enable MD025-->
+
+## Initiate NPM
+
 In order to use NPM scripts for automation, you will need to have the most recent Node.js LTS version installed. An alternative to this issue would be to leverage Docker once again!
 
 To initialize your local repository, run the following command in the folder where your project resides:
@@ -70,6 +76,10 @@ You have successfully initialized your repo with NPM!
 
 Let's add a few tests
 
+## Adding Automation Tests
+
+This section will show simple tests to give you an idea how easy it is to include them in your practice.
+
 markdownlint-cli
 
 license-compatibility-checker
@@ -89,3 +99,10 @@ A few key links:
 [Updating packages downloaded from the registry](https://docs.npmjs.com/updating-packages-downloaded-from-the-registry)
 
 [Using packages in your project](https://docs.npmjs.com/using-npm-packages-in-your-projects)
+
+## Continuous Integration
+
+The tests that we have configured above in our local directory to ensure we have a tidy workspace can now be leveraged to confirm that whenever we want to contribute to the project, everyone can fix their bugs before pushing to master.
+
+//TODO:
+Present CI Travis for GitHub, mention GitLab CI runners.
