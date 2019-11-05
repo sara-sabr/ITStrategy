@@ -12,11 +12,11 @@ permalink: /saas-tech-bricks.html
 
 ### Purpose
 
-To seek approval and endorsement for IITB to enable open access to specific Software as a Service (SaaS) tools available on the Internet for IITB employees, as well as other groups of ESDC employees (e.g.: management).
+To seek approval and endorsement for IITB to enable open access to specific Software as a Service (SaaS) tools available on the Internet for IITB employees, as a first step toward providing more open access to the Internet for more groups of ESDC employees (e.g.: management).
 
 ### Background
 
-The upcoming Policy on Service and Digital replaces the Policy on Acceptable Network and Device Use (PANDU) but keeps the intent to "provide open access to Internet tools and services to support public servants in their work duties, enhance collaboration and networking with their peers".
+The upcoming [Policy on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603) replaces the Policy on Acceptable Network and Device Use (PANDU) but keeps the intent to "provide open access to Internet tools and services to support public servants in their work duties, enhance collaboration and networking with their peers".
 This Policy applies only to unclassified assets (data, information, code, ..).
 
 ### Issue
