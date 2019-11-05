@@ -21,29 +21,35 @@ This Policy applies only to unclassified assets (data, information, code, ..).
 
 ### Issue
 
-To be able to follow the Policy, ESDC would need better Data Loss Prevention (DLP), including a tool that would monitor and enforce classification of files before they can be transmitted on the Internet.
+To be able to follow the Policy, ESDC needs better Data Loss Prevention (DLP), including a tool that monitors and enforces classification of files and emails before they can be transmitted on the Internet.
 
-Enterprise Architecture (EA) has started to include some SaaS in the ESDC Technology Bricks (GitHub, Trello and Slack), but these don't reflect what is actually available on ESDC network or what is currently being used by employees (See [Appendix B](#appendix-b---saas-already-unblocked)).
+Technical Architecture has started to include some SaaS in the ESDC Technology Bricks (GitHub, Trello and Slack), but these don't reflect what can be accessed on the ESDC network or what is currently being used by employees (See [Appendix B](#appendix-b---saas-already-unblocked)).
+
+The value add of technology bricks and technology standards regarding SaaS needs to be re-evaluated by considering the shared responsibility model of SaaS.
+More specifically that the maintenance and upkeep efforts of SaaS does not impact ESDC.
 
 ### Considerations
 
-More departments are using SaaS to collaborate and engage with citizens or other public administrations in Canada and the world.
+More departments are using SaaS to collaborate and engage with citizens and other public administrations in Canada and the world.
 For example, the latest Open Government Plan and the Service and Digital Target Architecture from TBS were shared as drafts for consultation using Google Docs.
 The GC Digital Academy and Free Agents, as well as other groups, frequently use Google Forms for registration.
 
 ### Recommendations
 
-ESDC should invest in the required tools and resources to mitigate risks associated with more open access to the Internet SaaS tools.
+To comply to the new Policy on Service and Digital, ESDC needs to:
 
-IITB should enable additional SaaS tools (See [Appendix A](#appendix-a---saas-to-unblock)) for IITB employees as a first step toward providing more open access to Internet tools for more groups of ESDC employees.
+- Evaluate security monitoring tools to mitigate risks associated with more open access to the Internet SaaS tools.
+- Enable additional SaaS tools (See [Appendix A](#appendix-a---saas-to-unblock)) for IITB employees as a first step toward providing more open access to the Internet for more groups of ESDC employees.
+- Review its technology brick criteria by considering the shared responsibility model of SaaS
 
 ### Next Steps
 
 Should you approve, the IT Strategy team will work with teams in IITB to:
 
 - Ensure the following SaaS (See [Appendix A](#appendix-a---saas-to-unblock)) are available and functional on the network for IITB employees
-- Ensure proper understanding of document classification by IITB employees
-- Find efficient ways to manage and monitor use of SaaS on the network
+- Increase IITB employees' understanding of document classification and review access rights to data and information
+- Perform an options analysis for tools to manage and monitor use of SaaS on the network
+- Work with Technical Architecture in reviewing the criteria and value add for technology bricks for SaaS
 
 ## Appendix A - SaaS to unblock
 
