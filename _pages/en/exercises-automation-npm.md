@@ -21,17 +21,15 @@ This command will prompt an utility that will walk you through initializing your
 This utility will walk you through creating a package.json file.
 It only covers the most common items, and tries to guess sensible defaults.
 
-See `npm help json` for definitive documentation on these fields
-and exactly what they do.
+See `npm help json` for definitive documentation on these fields and exactly what they do.
 
-Use `npm install <pkg>` afterwards to install a package and
-save it as a dependency in the package.json file.
+Use `npm install <pkg>` afterwards to install a package and save it as a dependency in the package.json file.
 
 Press ^C at any time to quit.
 package name: (app) mydir
 version: (1.0.0) 0.0.1
 description: a new project directory
-entry point: (index.js) 
+entry point: (index.js)
 test command: test
 git repository: n/a
 keywords: test
@@ -68,4 +66,4 @@ Is this OK? (yes)
 
 Type `yes` and hit enter.
 
-You have succesfully initialized your 
+You have succesfully initialized your repo with NPM.
