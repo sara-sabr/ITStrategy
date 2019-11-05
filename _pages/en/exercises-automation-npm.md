@@ -66,4 +66,26 @@ Is this OK? (yes)
 
 Type `yes` and hit enter.
 
-You have succesfully initialized your repo with NPM.
+You have successfully initialized your repo with NPM!
+
+Let's add a few tests
+
+markdownlint-cli
+
+license-compatibility-checker
+
+licensee
+
+npm audit
+
+npm audit fix
+
+A few key links:
+
+[Instructions to search for packages](https://docs.npmjs.com/searching-for-and-choosing-packages-to-download)
+
+[Downloading and installing packages locally](https://docs.npmjs.com/downloading-and-installing-packages-locally)
+
+[Updating packages downloaded from the registry](https://docs.npmjs.com/updating-packages-downloaded-from-the-registry)
+
+[Using packages in your project](https://docs.npmjs.com/using-npm-packages-in-your-projects)
