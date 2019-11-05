@@ -55,27 +55,45 @@ Should you approve, the IT Strategy team will work with teams in IITB to:
 
 ### Collaboration
 
-- Google Docs, Sheets, Presentation
-- Google Forms
-- Google Hangouts
-- Jitsi Meet
-- Riot IM Matrix client
-- RocketChat Open instance
+|             | URL           | Notes  |
+| ----------- |:-------------:| ------:|
+| Google Docs (Sheets, Slides, Forms) | https://docs.google.com/ |  |
+| Google Hangouts | https://hangouts.google.com/ |  |
+| Riot IM | https://riot.im/app/ |  |
+| RocketChat | https://open.rocket.chat/ |  |
+| Slack | https://slack.com/ | Websockets blocked |
+| Jitsi Meet | https://meet.jit.si/ |  |
+
+### Version Control System (VCS) and Project Management
+
+|             | URL           | Notes  |
+| ----------- |:-------------:| ------:|
+| Github | https://github.com | Websockets and SSH blocked |
 
 ### Email
 
-- Gmail
-- Outlook
-- Yahoo Mail
+|             | URL           | Notes  |
+| ----------- |:-------------:| ------:|
+| Google Mail | https://mail.google.com/ |  |
+| Outlook | https://outlook.live.com/owa/ |  |
+| Yahoo Mail | https://mail.yahoo.com/ |  |
 
 ### File storage
 
-- Dropbox
-- Framadrop
-- Google Drive
-- Lufi
-- OneDrive
-- Seafile
+|             | URL           | Notes  |
+| ----------- |:-------------:| ------:|
+| Dropbox | https://www.dropbox.com/ |  |
+| Framadrop | https://framadrop.org/ |  |
+| Google Drive | https://drive.google.com/ |  |
+| Linshare | https://www.linshare.org/ |  |
+| OneDrive | https://onedrive.live.com/ |  |
+| pCloud | https://www.pcloud.com/ |  |
+
+### Online learning and sandboxes
+
+|             | URL           | Notes  |
+| ----------- |:-------------:| ------:|
+| Docker Playground | https://labs.play-with-docker.com/ | Websockets blocked |
 
 ## Appendix B - SaaS already unblocked
 
@@ -87,7 +105,6 @@ Note: Inconsistent browser configurations (Websockets, 3rd party cookies blocked
 - Eventbrite
 - Framapad
 - Office365 (pilot)
-- Slack
 - Slido
 - Survey Monkey
 - Wikipedia
@@ -98,7 +115,6 @@ Note: Inconsistent browser configurations (Websockets, 3rd party cookies blocked
 
 - Bitbucket
 - Framagit
-- Github (Websockets and SSH blocked)
 - Gitlab
 - ..
 
@@ -112,7 +128,7 @@ Note: Inconsistent browser configurations (Websockets, 3rd party cookies blocked
 
 - Coursera
 - Edx
-- Docker Playground (Play with Docker)
+- Docker Classroom - https://training.play-with-docker.com/
 - ..
 
 ### Package/image registry
