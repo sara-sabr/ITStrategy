@@ -58,11 +58,11 @@ Should you approve, the IT Strategy team will work with teams in IITB to:
 |             | URL           | Notes  |
 | ----------- |:-------------:| ------:|
 | Google Docs (Sheets, Slides, Forms) | https://docs.google.com/ |  |
-| Google Hangouts | https://hangouts.google.com/ |  |
+| Google Hangouts | https://hangouts.google.com |  |
 | Riot IM | https://riot.im/app/ |  |
-| RocketChat | https://open.rocket.chat/ |  |
-| Slack | https://slack.com/ | Websockets blocked |
-| Jitsi Meet | https://meet.jit.si/ |  |
+| RocketChat | https://open.rocket.chat |  |
+| Slack | https://slack.com | Websockets blocked |
+| Jitsi Meet | https://meet.jit.si |  |
 
 ### Version Control System (VCS) and Project Management
 
@@ -74,26 +74,26 @@ Should you approve, the IT Strategy team will work with teams in IITB to:
 
 |             | URL           | Notes  |
 | ----------- |:-------------:| ------:|
-| Google Mail | https://mail.google.com/ |  |
+| Google Mail | https://mail.google.com |  |
 | Outlook | https://outlook.live.com/owa/ |  |
-| Yahoo Mail | https://mail.yahoo.com/ |  |
+| Yahoo Mail | https://mail.yahoo.com |  |
 
 ### File storage
 
 |             | URL           | Notes  |
 | ----------- |:-------------:| ------:|
-| Dropbox | https://www.dropbox.com/ |  |
-| Framadrop | https://framadrop.org/ |  |
-| Google Drive | https://drive.google.com/ |  |
-| Linshare | https://www.linshare.org/ |  |
-| OneDrive | https://onedrive.live.com/ |  |
-| pCloud | https://www.pcloud.com/ |  |
+| Dropbox | https://www.dropbox.com |  |
+| Framadrop | https://framadrop.org |  |
+| Google Drive | https://drive.google.com |  |
+| Linshare | https://www.linshare.org |  |
+| OneDrive | https://onedrive.live.com |  |
+| pCloud | https://www.pcloud.com |  |
 
 ### Online learning and sandboxes
 
 |             | URL           | Notes  |
 | ----------- |:-------------:| ------:|
-| Docker Playground | https://labs.play-with-docker.com/ | Websockets blocked |
+| Docker Playground | https://labs.play-with-docker.com | Websockets blocked |
 
 ## Appendix B - SaaS already unblocked
 
@@ -101,53 +101,66 @@ Note: Inconsistent browser configurations (Websockets, 3rd party cookies blocked
 
 ### Collaboration
 
-- Doodle
-- Eventbrite
-- Framapad
-- Office365 (pilot)
-- Slido
-- Survey Monkey
-- Wikipedia
-- Zoho
-- ..
+|             | URL           | Notes  |
+| ----------- |:-------------:| ------:|
+| Doodle | https://www.doodle.com |  |
+| Eventbrite | https://www.eventbrite.ca |  |
+| Framapad |  https://framapad.org |  |
+| Office365 (pilot) | https://www.office.com |  |
+| Slido | https://www.office.com |  |
+| Survey Monkey | https://www.office.com |  |
+| Wikipedia | https://www.wikipedia.org |  |
+| Zoho | https://www.zoho.com |  |
+| ... |  |  |
 
 ### Version Control System (VCS) and Project Management
 
-- Bitbucket
-- Framagit
-- Gitlab
-- ..
+|             | URL           | Notes  |
+| ----------- |:-------------:| ------:|
+| Bitbucket | https://bitbucket.org |  |
+| Framagit | https://framagit.org |  |
+| Gitlab | https://gitlab.com/explore/projects/trending |  |
+| ... |  |  |
 
 ### Project management and Kanban
 
-- Trello
-- Taiga
-- ..
+|             | URL           | Notes  |
+| ----------- |:-------------:| ------:|
+| Trello | https://trello.com |  |
+| Taiga | https://taiga.io |  |
+| ... |  |  |
 
 ### Online learning and sandboxes
 
-- Coursera
-- Edx
-- Docker Classroom - https://training.play-with-docker.com/
-- ..
+|             | URL           | Notes  |
+| ----------- |:-------------:| ------:|
+| Coursera | https://www.coursera.org |  |
+| Edx | https://www.edx.org |  |
+| Docker Classroom | https://training.play-with-docker.com |  |
+| ... |  |  |
 
 ### Package/image registry
 
-- Composer
-- Docker Hub
-- NPM JS
-- Ruby Gems
-- ..
+|             | URL           | Notes  |
+| ----------- |:-------------:| ------:|
+| Composer | https://getcomposer.org |  |
+| Docker Hub | https://hub.docker.com |  |
+| NPM JS | https://www.npmjs.com |  |
+| Ruby Gems | https://rubygems.org |  |
+| ... |  |  |
 
 ### Social networks
 
-- Facebook
-- Linkedin
-- Twitter
-- ..
+|             | URL           | Notes  |
+| ----------- |:-------------:| ------:|
+| Facebook | https://www.facebook.com |  |
+| Linkedin | https://www.linkedin.com |  |
+| Twitter | https://twitter.com |  |
+| ... |  |  |
 
 ### Streaming
 
-- Bandcamp
-- YouTube
-- ..
+|             | URL           | Notes  |
+| ----------- |:-------------:| ------:|
+| YouTube | https://www.youtube.com |  |
+| ... |  |  |
