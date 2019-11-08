@@ -21,7 +21,61 @@ permalink: /strategies-actions.html
 
 ### IITB Must (Starting now! For all projects and teams!)
 
-#### Align with GC information technology Direction
+*Note: Bullets in **bold** are proposed priorities.*
+
+#### Align with GC Information Technology Direction
+
+- [Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html)
+- [Digital Operations Strategic Plan: 2018-2022](https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html)
+- [Policy](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603) and [Directive on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601)
+- [Mandatory Procedures for Enterprise Architecture Assessment](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602)
+- [Mandatory Procedures on Application Programming Interfaces](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604)
+- [Acceptable Network and Device Use](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32605)
+
+*Consult [Annex A](#Annex-A---Details-of-GC-Information-Technology-Direction) for details.*
+
+#### Cultural
+
+- **IT teams must use at least 10% of their time to learn/try new technologies, attend events/conferences, and stay up to date on trends and technologies related to their work**
+- **IT teams and other groups must have access to modern tooling, such as SaaS (Internet), mobile and desktop tools**
+- **All IT teams must have at least 2 members with knowledge of programming to assist with process automation**
+- **[Hiring favours candidates who demonstrate adaptability, curiosity, and strong ethics](enable-learning.html)**
+- Create a safe environment for experimentation/failure and hold blameless postmortems
+- Build multidisciplinary teams capable of delivering services from start to end of life
+- Encourages collaboration and fosters a culture of flexibility, mobility and well-being
+
+#### Process
+
+- **Break down work into small task and make ongoing work and backlog visible**
+- **IT teams must use 10% of their time for automation of testing, deployments and other manual processes**
+- **Promote smaller investments over large ones, and monitor them based on business outcomes, not projects plans**
+- **Move and support product management**
+- **IT teams must work using Agile methodologies, iterate and continually improve solutions and services**
+- Where possible, remove the need for manual/committee approval
+- Empower multidisciplinary teams and allow them to work on new ideas in pursuit of business goals that solve important problems
+- Clients must be included from the start of projects and can submit regular feedback
+- Services must be made accessible as APIs
+
+#### Technical
+
+- **IT teams must save all projects artifacts to a version control system**
+- **EA must actively and fairly consider open standards (data formats/protocols) and open source software for all new purchases, upgrades or migrations (including cloud solutions)**
+- **EA must enable deploy-anytime capabilities, with high degrees of automation**
+- **IT teams must automate tests (Unit, UAT, Security, ITSM ..)**
+- **IT teams must automate builds and deployments for all environments (Dev, QA and Production)**
+- IT teams must have access to realistic test data
+- EA must be loosely coupled and enable IT teams to autonomously, experiment with ideas, and choose their own tools
+- EA and Security must provide developers with preapproved libraries
+- Security must be involved from the start and in all phase for of projects
+- Security must develop automated tests
+
+#### Measurement
+
+- IT teams must collect data throughout the value stream
+- IT teams must established Work In Progress (WIP) limits based on team capacity and cognitive load
+- IT teams must make collected data and project status visible to the business
+
+### Annex A - Details of GC Information Technology Direction
 
 - [Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html)
   - Design with users
@@ -51,42 +105,3 @@ permalink: /strategies-actions.html
   - All APIs should be published to the API Store
 - [Acceptable Network and Device Use](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32605)
   - Provide open access to Internet tools and services to support public servants in their work duties, enhance collaboration and networking with their peers
-
-#### Cultural
-
-- Create a safe environment for experimentation/failure and hold blameless postmortems
-- Build multidisciplinary teams capable of delivering services from start to end of life
-- Encourages collaboration and fosters a culture of flexibility, mobility and well-being
-- IT teams must use at least 10% of their time to learn/try new technologies, attend events/conferences, and stay up to date on trends and technologies related to their work
-- IT teams and other groups must have access to modern tooling, such as SaaS (Internet), mobile and desktop tools
-- [Hiring favours candidates who demonstrate adaptability, curiosity, and strong ethics](./enable-learning.html)
-- All IT teams must have at least two members with knowledge of programming to assist with process automation
-
-#### Process
-
-- Where possible, remove the need for manual/committee approval
-- Empower multidisciplinary teams and allow them to work on new ideas in pursuit of business goals that solve important problems
-- Clients must be included from the start of projects and can submit regular feedback
-- Break down work into small task and make ongoing work and backlog visible
-- Services must be made accessible as APIs
-- IT teams must work using Agile methodologies, iterate and continually improve solutions and services
-- IT teams must use 10% of their time for automation of testing, deployments and other manual processes
-
-#### Technical
-
-- IT teams must automate tests (Unit, UAT, Security, ITSM ..)
-- IT teams must automate builds and deployments for all environments (Dev, QA and Production)
-- IT teams must save all projects artifacts to a version control system
-- IT teams must have access to realistic test data
-- EA must actively and fairly consider open standards (data formats/protocols) and open source software for all new purchases, upgrades or migrations (including cloud solutions)
-- EA must be loosely coupled and enable IT teams to autonomously, experiment with ideas, and choose their own tools
-- EA must enable deploy-anytime capabilities, with high degrees of automation
-- EA and Security must provide developers with preapproved libraries
-- Security must be involved from the start and in all phase for of projects
-- Security must develop automated tests
-
-#### Measurement
-
-- IT teams must collect data throughout the value stream
-- IT teams must established Work In Progress (WIP) limits based on team capacity and cognitive load
-- IT teams must make collected data and project status visible to the business
