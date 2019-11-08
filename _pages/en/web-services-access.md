@@ -57,9 +57,9 @@ Should you approve, the IT Strategy team will work with teams in IITB to:
 
 |             | URL           | Notes  |
 | ----------- |:-------------:| ------:|
-| Google Docs (Sheets, Slides, Forms) | https://docs.google.com/ |  |
+| Google Docs (Sheets, Slides, Forms) | https://docs.google.com |  |
 | Google Hangouts | https://hangouts.google.com |  |
-| Riot IM | https://riot.im/app/ |  |
+| Riot IM | https://riot.im |  |
 | RocketChat | https://open.rocket.chat |  |
 | Slack | https://slack.com | Websockets blocked |
 | Jitsi Meet | https://meet.jit.si |  |
@@ -75,7 +75,7 @@ Should you approve, the IT Strategy team will work with teams in IITB to:
 |             | URL           | Notes  |
 | ----------- |:-------------:| ------:|
 | Google Mail | https://mail.google.com |  |
-| Outlook | https://outlook.live.com/owa/ |  |
+| Outlook | https://outlook.live.com |  |
 | Yahoo Mail | https://mail.yahoo.com |  |
 
 ### File storage
@@ -107,8 +107,8 @@ Note: Inconsistent browser configurations (Websockets, 3rd party cookies blocked
 | Eventbrite | https://www.eventbrite.ca |  |
 | Framapad |  https://framapad.org |  |
 | Office365 (pilot) | https://www.office.com |  |
-| Slido | https://www.office.com |  |
-| Survey Monkey | https://www.office.com |  |
+| Slido | https://www.sli.do |  |
+| Survey Monkey | https://www.surveymonkey.com |  |
 | Wikipedia | https://www.wikipedia.org |  |
 | Zoho | https://www.zoho.com |  |
 | ... |  |  |
@@ -119,15 +119,18 @@ Note: Inconsistent browser configurations (Websockets, 3rd party cookies blocked
 | ----------- |:-------------:| ------:|
 | Bitbucket | https://bitbucket.org |  |
 | Framagit | https://framagit.org |  |
-| Gitlab | https://gitlab.com/explore/projects/trending |  |
+| Gitlab | https://gitlab.com |  |
 | ... |  |  |
 
 ### Project management and Kanban
 
 |             | URL           | Notes  |
 | ----------- |:-------------:| ------:|
+| Smartsheets | https://www.smartsheet.com/ |  |
 | Trello | https://trello.com |  |
 | Taiga | https://taiga.io |  |
+| ZenHub | https://www.zenhub.com/ |  |
+| Zube | https://zube.io | Websockets blocked |
 | ... |  |  |
 
 ### Online learning and sandboxes
@@ -137,6 +140,8 @@ Note: Inconsistent browser configurations (Websockets, 3rd party cookies blocked
 | Coursera | https://www.coursera.org |  |
 | Edx | https://www.edx.org |  |
 | Docker Classroom | https://training.play-with-docker.com |  |
+| Udacity | https://www.udacity.com/ |  |
+| Udemy | https://www.udemy.com/ |  |
 | ... |  |  |
 
 ### Package/image registry
@@ -154,7 +159,9 @@ Note: Inconsistent browser configurations (Websockets, 3rd party cookies blocked
 |             | URL           | Notes  |
 | ----------- |:-------------:| ------:|
 | Facebook | https://www.facebook.com |  |
+| Librem One | https://librem.one |  |
 | Linkedin | https://www.linkedin.com |  |
+| Mastodon | https://mastodon.social |  |
 | Twitter | https://twitter.com |  |
 | ... |  |  |
 
@@ -162,5 +169,6 @@ Note: Inconsistent browser configurations (Websockets, 3rd party cookies blocked
 
 |             | URL           | Notes  |
 | ----------- |:-------------:| ------:|
+| Vimeo | https://vimeo.com |  |
 | YouTube | https://www.youtube.com |  |
 | ... |  |  |
