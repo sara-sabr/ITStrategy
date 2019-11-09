@@ -147,18 +147,6 @@ npm audit
 
 npm audit fix
 
-### Resources
-
-A few key links:
-
-[Instructions to search for packages](https://docs.npmjs.com/searching-for-and-choosing-packages-to-download)
-
-[Downloading and installing packages locally](https://docs.npmjs.com/downloading-and-installing-packages-locally)
-
-[Updating packages downloaded from the registry](https://docs.npmjs.com/updating-packages-downloaded-from-the-registry)
-
-[Using packages in your project](https://docs.npmjs.com/using-npm-packages-in-your-projects)
-
 ## Continuous Integration
 
 The tests that we have configured above in our local directory to ensure we have a tidy and secure workspace can now be leveraged to confirm that whenever we want to contribute to the project, everyone can fix their bugs before pushing submitting a PR.
@@ -170,4 +158,36 @@ This in turn makes it possible to increase the quality of your code but also acc
 
 ### CI Travis
 
-Present CI Travis for GitHub, mention GitLab CI runners.
+For the purpose of this course, since we're going to use your GitHub account, we'll leverage CI Travis.
+
+In order to grant access to your repository, you'll need to visit [CI Travis website](https://travis-ci.com/) and login with your GitHub account.
+
+Grant access to your account or to your project repo only if you prefer.
+
+Once the access is granted, you will need to add the `.travis.yml` file in the project root directory.
+
+The content of the file should be the following:
+
+```yaml
+language: node_js
+
+node_js:
+- "node"
+```
+
+This file essentially provides CI Travis with the required information to run the tests and is required on your GitHub repository.
+It should not be added in the `.gitignore` file.
+
+For more details about the setup of CI Travis, you can visit this [link](https://docs.travis-ci.com/user/tutorial/#to-get-started-with-travis-ci)
+
+### Resources
+
+A few key links:
+
+[Instructions to search for packages](https://docs.npmjs.com/searching-for-and-choosing-packages-to-download)
+
+[Downloading and installing packages locally](https://docs.npmjs.com/downloading-and-installing-packages-locally)
+
+[Updating packages downloaded from the registry](https://docs.npmjs.com/updating-packages-downloaded-from-the-registry)
+
+[Using packages in your project](https://docs.npmjs.com/using-npm-packages-in-your-projects)
