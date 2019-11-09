@@ -180,7 +180,7 @@ It should not be added in the `.gitignore` file.
 
 For more details about the setup of CI Travis, you can visit this [link](https://docs.travis-ci.com/user/tutorial/#to-get-started-with-travis-ci)
 
-### Resources
+## Resources
 
 A few key links:
 
