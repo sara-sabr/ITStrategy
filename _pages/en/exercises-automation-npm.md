@@ -78,17 +78,76 @@ Let's add a few tests
 
 ## Adding Automation Tests
 
-This section will show simple tests to give you an idea how easy it is to include them in your practice.
+This section will show a few simple tests to give you an idea how easy it is to include them in your practice.
 
-markdownlint-cli
+### Markdown Lint Test
 
-license-compatibility-checker
+```bash
+docker run -v $(pwd):/usr/node/app -w /usr/node/app -it --rm node npm install markdown-cli
+```
 
-licensee
+Open the `package.json` file with your editor and locate the `"scripts"`.
+
+It should look like this:
+
+```json
+  "scripts": {
+    "test": "echo \"This is a test!\""
+  }
+```
+
+Remember when we were asked to input a test command?
+That's where it went.
+
+Add an entry for a new test named `lint` with the following command:
+
+```json
+"lint": "markdownlint -i node_modules -i _site -i _includes \"**/*.md\""
+```
+
+We include the following argument `-i` to ignore certain folders like the `node_modules` and generated `_site`
+
+If you run the following docker npm test command, nothing really happens:
+
+```bash
+docker run -v $(pwd):/usr/node/app -w /usr/node/app -it --rm node npm test
+```
+
+You need to change the `echo` test by the following one:
+
+```json
+"test": "npm run lint"
+```
+
+The final scripts should look like this:
+
+```json
+  "scripts": {
+    "lint": "markdownlint -i node_modules -i _site -i _includes \"**/*.md\"",
+    "test": "npm run lint"
+  },
+```
+
+Run your test with the docker npm test command again.
+
+```bash
+docker run -v $(pwd):/usr/node/app -w /usr/node/app -it --rm node npm test
+```
+
+### Licence Tests
+
+With open source software, a few other interesting tests can be used:
+
+- license-compatibility-checker
+- licensee
+
+### NPM Dependency Security Test
 
 npm audit
 
 npm audit fix
+
+### Resources
 
 A few key links:
 
@@ -102,7 +161,13 @@ A few key links:
 
 ## Continuous Integration
 
-The tests that we have configured above in our local directory to ensure we have a tidy workspace can now be leveraged to confirm that whenever we want to contribute to the project, everyone can fix their bugs before pushing to master.
+The tests that we have configured above in our local directory to ensure we have a tidy and secure workspace can now be leveraged to confirm that whenever we want to contribute to the project, everyone can fix their bugs before pushing submitting a PR.
 
-//TODO:
+GitLab has [CI integration](https://about.gitlab.com/product/continuous-integration/) directly available in its platform and GitHub has a marketplace with services such as [CI Travis](https://travis-ci.com/), which is a free service for open source projects.
+
+There are many services you can leverage but really, the important aspect is that you can as many tests as part of your development process, not just when you reach a project gate.
+This in turn makes it possible to increase the quality of your code but also accelerate your rate of deployments since you know that each line changed can trigger the entire codebase review.
+
+### CI Travis
+
 Present CI Travis for GitHub, mention GitLab CI runners.
