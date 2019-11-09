@@ -141,11 +141,17 @@ With open source software, a few other interesting tests can be used:
 - license-compatibility-checker
 - licensee
 
+These tests will help you ensure that your dependencies have proper licences and that there are no conflicts.
+
 ### NPM Dependency Security Test
 
-npm audit
+The following test is specific to NPM and is used to identify dependencies vulnerabilities.
 
-npm audit fix
+`npm audit`
+
+If you run the test and an issue is raised, you can use the following command to fix your dependencies.
+
+`npm audit fix`
 
 ## Continuous Integration
 
