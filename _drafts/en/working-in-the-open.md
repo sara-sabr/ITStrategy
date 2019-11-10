@@ -52,6 +52,40 @@ This is a critical set of conditions for the success of open source projects whe
 
 ## Why
 
+This is all great but why should you, a public servant, even care about working in the open?
+
+### It makes your work discoverable
+
+We are more than 250,000 employees in the Government of Canada.
+Some departments have more than 25,000 employees.
+Shared drives, Intranet and various collaboration platforms are very often closed by default.
+
+Files can be sensitive and they should be protected if that's the case.
+But the workspaces themselves should be open by default so that we can collectively be able to share our work with our colleagues.
+
+Yet, if anyone has tried collaborating with other departments or even with the private sector, you know it's a real nightmare and usually ends up being done via versioned documents on emails.
+
+That is inefficient, error prone and sometimes simply impossible.
+
+### Avoid duplication of work
+
+The Treasury Board of Canada Secretariat has launched the Enterprise Architecture Review Board a few years ago with the hope of catching wind of risky and/or duplicate projects to ensure that we collectively invest more wisely the departmental budgets in technologies.
+
+Now, the process involves people preparing a concept case, submitting it for review, going through the gating concept, etc.
+
+This is good to catch large initiatives but it creates another series of steps for departments and teams to deliver value to citizens in the hope of avoiding duplication of work.
+
+Working in the open by default, releasing our work as open source and promoting its reuse across the government could help increase the adoption of solutions already in use and being developed across departments.
+Without the overhead and rigidity required by a central body.
+
+In reality, it could even open up opportunities of natural collaboration with other interested parties such as provincial and municipal governments and even the private sector.
+
+This tweet from Vivian Nobrega sums it all very well:
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The most practical sustainable solution in the Westminister Model is making all projects <a href="https://twitter.com/hashtag/opensource?src=hash&amp;ref_src=twsrc%5Etfw">#opensource</a> by default resulting in a decentralization of power over projects, and transitioning to a service oriented funding model to ensure these projects remain non-legacy.<a href="https://twitter.com/hashtag/FWD50?src=hash&amp;ref_src=twsrc%5Etfw">#FWD50</a> <a href="https://t.co/MhzoojcUsm">https://t.co/MhzoojcUsm</a></p>&mdash; Vivian Nobrega (@ShadeWyrm) <a href="https://twitter.com/ShadeWyrm/status/1192752341604323328?ref_src=twsrc%5Etfw">November 8, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### Economies of scale
+
 
 
 [^1]: Mozilla Wiki. "Working Open". Mozilla Wiki, 10 Nov. 2019, wiki.mozilla.org/Working_open.
