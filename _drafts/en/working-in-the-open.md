@@ -17,6 +17,22 @@ This post aims at explaining why this concept is important for you whether you a
 
 ## What
 
-Before diving too much on the `Why should I care?`, let's start with the `What?`
+Before diving too much into the `Why should I care?`, let's start with the `What does mean?`
 
-Working in the open means that your workspace or part of it is public and participatory
+Working in the open means that your workspace or part of it is public and participatory. [^1]
+Note that by this definition, your workspace is not only discoverable and accessible to everyone who wishes to visit it but it is also setup to enable and encourage collaboration to your work.
+
+This is a very different approach than what most employees, both from the public and the private sector, are used to.
+Yet, this is a critical set of conditions for the success of open source projects where thousands of people with little in common come to contribute together for the greater good of all.
+
+A study on distributed educational professional networks [^2] highlights 5 key practices for the success of working in the open:
+
+- Public storytelling and context setting
+- Enabling community contribution
+- Rapid prototyping “in the wild”
+- Public reflection and documentation
+- Creating remixable work products
+
+[^1]: Mozilla Wiki. "Working Open". Mozilla Wiki, 10 Nov. 2019, wiki.mozilla.org/Working_open.
+
+[^2]: Rafi Santo, Dixie Ching, Kylie Peppler, Christopher Hoadley. "Working in the Open: lessons from open source on building innovation networks in education". Emerald Insight, 10 Nov. 2019, www.emerald.com/insight/content/doi/10.1108/OTH-05-2016-0025/full/html.
