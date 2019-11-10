@@ -90,7 +90,9 @@ In reality, it could even open up opportunities of natural collaboration with ot
 
 This tweet from Vivian Nobrega sums it all very well:
 
+<!--markdownlint-disable MD033-->
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The most practical sustainable solution in the Westminister Model is making all projects <a href="https://twitter.com/hashtag/opensource?src=hash&amp;ref_src=twsrc%5Etfw">#opensource</a> by default resulting in a decentralization of power over projects, and transitioning to a service oriented funding model to ensure these projects remain non-legacy.<a href="https://twitter.com/hashtag/FWD50?src=hash&amp;ref_src=twsrc%5Etfw">#FWD50</a> <a href="https://t.co/MhzoojcUsm">https://t.co/MhzoojcUsm</a></p>&mdash; Vivian Nobrega (@ShadeWyrm) <a href="https://twitter.com/ShadeWyrm/status/1192752341604323328?ref_src=twsrc%5Etfw">November 8, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<!--markdownlint-enable MD033-->
 
 ### Early Feedback Loop
 
