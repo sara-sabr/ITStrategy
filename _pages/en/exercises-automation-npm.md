@@ -17,6 +17,14 @@ In order to use NPM scripts for automation, you will need to have the most recen
 
 To initialize your local repository, run the following command in the folder where your project resides:
 
+Windows
+
+```bash
+docker run -v ${pwd}:/usr/node/app -w /usr/node/app -it --rm node npm init
+```
+
+Linux/Mac
+
 ```bash
 docker run -v $(pwd):/usr/node/app -w /usr/node/app -it --rm node npm init
 ```
@@ -82,6 +90,14 @@ This section will show a few simple tests to give you an idea how easy it is to 
 
 ### Markdown Lint Test
 
+Windows
+
+```bash
+docker run -v ${pwd}:/usr/node/app -w /usr/node/app -it --rm node npm install markdown-cli
+```
+
+Linux/Mac
+
 ```bash
 docker run -v $(pwd):/usr/node/app -w /usr/node/app -it --rm node npm install markdown-cli
 ```
@@ -129,6 +145,14 @@ The final scripts should look like this:
 ```
 
 Run your test with the docker npm test command again.
+
+Windows
+
+```bash
+docker run -v ${pwd}:/usr/node/app -w /usr/node/app -it --rm node npm test
+```
+
+Linux/Mac
 
 ```bash
 docker run -v $(pwd):/usr/node/app -w /usr/node/app -it --rm node npm test
