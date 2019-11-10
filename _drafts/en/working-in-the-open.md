@@ -17,16 +17,22 @@ This post aims at explaining why this concept is important for you whether you a
 
 ## What
 
+### Public
+
 Before diving too much into the `Why should I care?`, let's start with the `What does mean?`
 
 Working in the open means that your workspace, or part of it, is public and participatory. [^1]
 Note that by this definition, your workspace is not only discoverable and accessible to everyone who wishes to visit it but it is also setup to enable and encourage collaboration to your work.
+
+### Participatory
 
 That means sharing your drafts and work in progress, your planned activities and tasks, your notes and, yes, your source code.
 
 It's not just "working out loud" and sharing the fact that you are doing "something".
 It's promoting your work so that others may hear about it and communicating your intent of working with all parties interested whenever they feel like contributing.
 It implies that people can come on their own and start proposing changes themselves to your work, not just when you share your screen during a weekly update meeting.
+
+### Cultural
 
 This is a very different approach than what most employees, both from the public and the private sector, are used to.
 Normally, people will work on a document or their part of a project for a while. Then, the document will be reviewed by a select group, either because it is known by the employee's team or because it's the process.
@@ -80,13 +86,80 @@ Without the overhead and rigidity required by a central body.
 
 In reality, it could even open up opportunities of natural collaboration with other interested parties such as provincial and municipal governments and even the private sector.
 
+### Economies of scale
+
 This tweet from Vivian Nobrega sums it all very well:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The most practical sustainable solution in the Westminister Model is making all projects <a href="https://twitter.com/hashtag/opensource?src=hash&amp;ref_src=twsrc%5Etfw">#opensource</a> by default resulting in a decentralization of power over projects, and transitioning to a service oriented funding model to ensure these projects remain non-legacy.<a href="https://twitter.com/hashtag/FWD50?src=hash&amp;ref_src=twsrc%5Etfw">#FWD50</a> <a href="https://t.co/MhzoojcUsm">https://t.co/MhzoojcUsm</a></p>&mdash; Vivian Nobrega (@ShadeWyrm) <a href="https://twitter.com/ShadeWyrm/status/1192752341604323328?ref_src=twsrc%5Etfw">November 8, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-### Economies of scale
+### Early Feedback Loop
 
+### Increases Quality of Work
 
+## When
+
+So, let's say you're convinced.
+You want to start working in the open.
+When should you do so?
+
+As soon as possible!
+Now!
+
+## How
+
+As a public servant, you have responsibilities and should always follow the Values and Ethics
+
+### Copyright
+
+### Licence
+
+### Notice
+
+### Control
+
+### Community
+
+### Tools
+
+#### Community Management
+
+- [GCmessage (pilot)](https://message.gccollab.ca/home)
+- [Slack](https://slack.com/) to a certain extent (closed communities)
+- [Framavox](https://framavox.org/)
+- [GCcollab](https://gccollab.ca/splash/)
+  - Communities of Practice
+
+#### Workspace
+
+- GCpedia
+- [GCcollab Wiki](https://wiki.gccollab.ca/)
+- [Framasoft](https://framasoft.org/)
+- [GitLab](https://gitlab.com/)
+- [GitHub](https://github.com/)
+- [Google Drive + Related Tools](https://www.google.com/drive/)
+- [Microsoft Office 365](https://www.office.com/)
+
+#### Planning
+
+- [GitLab - Boards](https://about.gitlab.com/product/issueboard/)
+- [GitHub - Projects](https://github.com/features/project-management/)
+- [Trello](https://trello.com/)
+- [Taiga](https://taiga.io/)
+
+#### Version Control
+
+- [GitLab](https://gitlab.com/)
+- [GitHub](https://github.com/)
+- [Bitbucket](https://bitbucket.org/)
+- GCcode
+
+#### Communications
+
+- [Twitter](https://twitter.com/)
+- Intranet News and Sites
+- [Open Resource Exchange](https://canada-ca.github.io/ore-ero/)
+
+## References
 
 [^1]: Mozilla Wiki. "Working Open". Mozilla Wiki, 10 Nov. 2019, wiki.mozilla.org/Working_open.
 
