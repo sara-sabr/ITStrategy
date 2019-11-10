@@ -2,9 +2,7 @@
 
 Course material for Digital Academy, Fall 2019
 
-Guillaume Charest, ESDC
-
-[@GuillCharest](https://twitter.com/GuillCharest)
+Guillaume Charest, ESDC - [@GuillCharest](https://twitter.com/GuillCharest)
 
 <!--markdownlint-disable MD035-->
 
