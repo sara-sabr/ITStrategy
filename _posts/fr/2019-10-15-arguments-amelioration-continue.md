@@ -42,3 +42,95 @@ Et étant donné une valeur arbitrairement grande `n` (ou lorsque `n` approche l
 Si ça sonnait un peu mathématique ou jargon, on va l'expliquer plus en détail ici-bas.
 
 ## Arguments en faveur de l'amélioration continue
+
+*Cette démonstration a été réalisée en utilisant le site fantastique, [desmos](https://www.desmos.com/calculator).*
+
+Si f(x) = x nous obtiendrons une ligne comme suit
+
+![Graphique de f(x) = x]({{site.baseurl}}/assets/images/graphx.PNG)
+
+Nous définissons l'axe des `y` (l'axe vertical) comme étant l'unité totale de la valeur d'affaires produite, et l'axe des `x` comme étant l'axe du temps.
+La ligne représente alors le total des unités de la valeur de l'entreprise produites sur une certaine unité de temps.
+Pour les besoins de cet exemple, disons que chaque augmentation de `x` est d'un mois.
+
+Cette ligne suppose que, semaine après semaine, l'équipe continue à faire son travail "comme d'habitude", ou la fameuse approche "nous l'avons toujours fait comme ça".
+Avec cette approche, l'équipe produira (en moyenne) les mêmes unités de valeur commerciale chaque semaine.
+Si vous travaillez plus de 100% cette semaine, vous le serez aussi la semaine prochaine.
+
+Quelle est l'alternative?
+L'amélioration continue.
+
+Si nous continuons à améliorer nos processus et nos outils semaine après semaine, nous nous améliorerons continuellement, ce qui nous permettra de produire plus de valeur commerciale sur une période donnée.
+Ceci devrait nous donner une courbe exponentielle, qui ressemble à ceci
+
+<!-- markdownlint-disable MD033 -->
+f(x) = x<sup>2</sup>
+<!-- markdownlint-enable MD033 -->
+
+![Graphique de f(x) = x^2]({{site.baseurl}}/assets/images/drawgraphx2.PNG)
+
+La chose la plus évidente que nous remarquons est que la fonction exponentielle croît beaucoup plus vite.
+On peut toutefois contrer le fait qu'il y a une perte initiale de productivité si l'on passe du temps à s'améliorer plutôt qu'à *faire du travail*, alors nous devons en rendre compte.
+Pour ce faire, nous devons soustraire une valeur de *f(x)* pour tenir compte de la perte de productivité.
+Pour chaque incrément dans le temps, alors, nous perdrons un certain pourcentage de notre temps.
+Où x représente le temps, ceci peut être écrit comme suit
+
+x * [un certain pourcentage de perte de productivité]
+
+Ou, pour être plus succinct, nous pouvons remplacer [un certain pourcentage de productivité perdue] par *l*.
+Alors nous aurons
+
+x * *l*, où *l* est le temps passé par jour à s'améliorer.
+
+Avec cet ajout, nous avons
+
+<!-- markdownlint-disable MD033 -->
+f(x) = x<sup>2</sup> - (x*l)
+<!-- markdownlint-enable MD033 -->
+
+Que se passe-t-il lorsque nous traçons ce graphique?
+Supposons que nous passions 20 % de notre journée à l'amélioration continue.
+Ensuite, nous perdons 20 % de notre productivité par mois.
+
+![Graphique de f(x) = x^2 - (x*l)]({{site.baseurl}}/assets/images/graphx2minusxl.PNG)
+
+Remarquez en bas que la courbe s'aplatit légèrement.
+Cette baisse de productivité est toujours présente lorsque x (le temps) augmente.
+Cependant, [un exposant battra toujours une progression linéaire](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:exponential-growth-decay/x2f8bb11595b61c86:exponential-vs-linear-growth/v/exponential-vs-linear-growth).
+La prochaine étape évidente serait alors de tracer un graphique de notre façon de travailler "telle quelle" par rapport à notre méthode d'amélioration continue, et de voir combien de temps il faudrait pour qu'une équipe en amélioration continue soit plus productive que l'équipe qui continue à travailler de la même façon, jour après jour.
+Auparavant, cependant, dans notre calcul précédent, nous utilisions x^2, qui est une courbe qui croît très rapidement, et jusqu'à présent, nous n'avons pas justifié notre choix de la valeur arbitraire de 2.
+Une autre façon d'écrire cela aurait pu être
+
+<!-- markdownlint-disable MD033 -->
+x<sup>2</sup> = x<sup>1+1</sup>
+<!-- markdownlint-enable MD033 -->
+
+Lorsque nous parlons de points de pourcentage, nous calculons à l'aide de points décimaux.
+Par conséquent, 1 = 1,0 = 100 %.
+Par conséquent, comme nous l'avons écrit précédemment, nous affirmons que notre productivité augmente de 100% par jour ! Si quelqu'un a trouvé un moyen de le faire, nous aimerions avoir de vos nouvelles!
+Malheureusement, si vous vivez dans le royaume des simples mortels comme moi, une augmentation de 100% de la productivité par jour est probablement impossible à atteindre.
+
+Nous pouvons réécrire notre fonction d'augmentation de la productivité comme suit
+
+<!-- markdownlint-disable MD033 -->
+f(x) = x<sup>1+[le montant de l'augmentation de productivité que nous prévoyons par mois passé à l'amélioration continue]</sup>
+<!-- markdownlint-enable MD033 -->
+
+C'est très long à dire, donc si nous fixons [le montant de l'augmentation de productivité que nous prévoyons par mois passé à améliorer continuellement] = r, alors nous avons
+
+<!-- markdownlint-disable MD033 -->
+x<sup>2</sup> = x<sup>1+r</sup>
+<!-- markdownlint-enable MD033 -->
+
+Où r est un certain pourcentage d'augmentation de la productivité.
+
+D'accord, d'accord.
+On y est presque! Notre fonction de cartographie de la productivité d'une équipe en amélioration continue est la suivante
+
+<!-- markdownlint-disable MD033 -->
+f(x) = x<sup>1+r</sup> - (x*l)
+<!-- markdownlint-enable MD033 -->
+
+- Où *r* est égal au taux d'amélioration
+- Et *l* est égale au montant de temps passé à l'amélioration continue
+
