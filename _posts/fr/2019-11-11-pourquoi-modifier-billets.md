@@ -26,6 +26,8 @@ Ou de vous enfuir avant même de commencer!
 
 ![nouvelle liste de billets de blogue]({{site.baseurl}}/assets/images/list-blog-posts-new-fr.png)
 
-Alors, voilà, vous l'avez. C'est pourquoi nos deux billets précédents ont maintenant une date de modification du 12 novembre 2019. Et nous continuerons d'améliorer la façon dont nous affichons notre contenu à travers le site pour nous assurer qu'il continue de vous être utile, alors ne manquez pas nos mises à jour !
+Alors, voilà, vous l'avez.
+C'est pourquoi nos deux billets précédents ont maintenant une date de modification du 12 novembre 2019.
+Et nous continuerons d'améliorer la façon dont nous affichons notre contenu à travers le site pour nous assurer qu'il continue de vous être utile, alors ne manquez pas nos mises à jour !
 
 En fait, si vous avez des idées sur la façon dont nous pourrions faire mieux, n'hésitez pas à nous le faire savoir en visitant ces [simples instructions]({{ site.baseurl }}/comment-contribuer.html)!
