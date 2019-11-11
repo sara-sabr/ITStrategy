@@ -134,3 +134,50 @@ f(x) = x<sup>1+r</sup> - (x*l)
 - Où *r* est égal au taux d'amélioration
 - Et *l* est égale au montant de temps passé à l'amélioration continue
 
+Ensuite, nous allons choisir quelques valeurs qui ont un sens.
+Comme nous l'avons mentionné, dans le DevOps Handbook, ils recommandent de consacrer 20 % de votre temps à la réduction de la dette technique ou à l'amélioration des processus.
+Donc, pour *l*, nous choisirons 20%, soit 0,2
+
+Maintenant, combien d'améliorations attendons-nous de 20 % de notre temps consacré à l'amélioration?
+En tant qu'employé du gouvernement, je sais que dans certains cas, ce retour peut être gargantuesque.
+
+Par exemple, l'Estonie affirme économiser 820 ans de temps de travail par an grâce à l'utilisation de services numériques automatisés.
+Pour notre exemple, cependant, comme nous le verrons, le taux d'amélioration n'est pas très important. Vous finirez toujours par devenir plus productif si vous vous améliorez continuellement pendant assez longtemps.
+D'accord, alors, choisissons 10 %, ce qui équivaut à 0,1.
+Nous supposons donc que pour chaque unité de temps pour laquelle vous avez passé 20 % de votre temps, vous obtenez deux fois moins d'efficacité pour le temps investi.
+Conservateur, au mieux. Notre fonction devient alors
+
+<!-- markdownlint-disable MD033 -->
+f(x) = x<sup>1+0.1</sup> - (x*.2)
+
+f(x) = x<sup>1.1</sup> - (x*.2)
+<!-- markdownlint-enable MD033 -->
+
+Et si nous traçons ce graphique, nous obtiendrons la courbe suivante
+
+![f(x) = x^(1.1) - (x*l)]({{site.baseurl}}/assets/images/fullfunction.PNG)
+
+Super!
+Quelle est la prochaine étape?
+Disons que nous comparons cela à une équipe qui ne s'améliore pas continuellement et qui continue de faire les choses au jour le jour, "comme elle les a toujours faites".
+
+![Comparaison courbes]({{site.baseurl}}/assets/images/comparecurves1.PNG)
+
+Nous pouvons voir que la ligne rouge, qui représente l'équipe qui s'améliore continuellement pendant 20% de sa journée pour un petit rendement de 10% de productivité, sera plus productive dans environ 6 mois (ou 6.192 mois, pour être exact).
+Même si vous réduisez de moitié les gains de productivité (à 5 %, ou 0,05), vous constaterez quand même qu'avant 39 mois, l'équipe qui s'améliore continuellement finira inévitablement par se préformer plus fortement que l'équipe qui ne le fait pas.
+
+Nous avons démontré que même si le compromis entre le temps investi et le gain potentiel est faible, si l'on améliore continuellement son équipe, avec le temps, elle deviendra plus productive que l'équipe qui ne le fait pas.
+Pensez à la durée d'existence de votre équipe ou de votre organisation.
+Probablement beaucoup, beaucoup de mois.
+Imaginez si elles avaient commencé à s'améliorer continuellement il y a plusieurs **années**, pensez à la productivité qu'elles auraient déjà eue maintenant!
+Ne faites pas la même erreur que nos prédécesseurs.
+Commencez à vous améliorer sans cesse dès maintenant!
+Vos futurs membres d'équipe, vos futurs patrons et votre futur vous-même vous remercieront tous.
+
+Pour satisfaire le but de cet article, on peut s'arrêter ici.
+Si vous souhaitez jouer avec quelques nombres présentés sur ce billet avec desmos, cliquez [ici](https://www.desmos.com/calculator/bfk9p5ho7f).
+Si vous êtes intéressés par de plus amples détails, ci-dessous, nous allons parler de la façon de décider du compromis optimal entre les gains de productivité et le temps investi.
+
+## Une plongée plus profonde
+
+Traduction à venir
