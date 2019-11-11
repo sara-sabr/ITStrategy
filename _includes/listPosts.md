@@ -10,9 +10,9 @@
           <a class="post-link" href="{{ post.url | prepend: site.baseurl}}">{{ post.title }}</a>
         </strong>
         <br>{{ post.date | date: "%Y-%m-%d"}}
-        <blockquote class="blockquote">
-        {{ post.excerpt | | strip_html}}
-        </blockquote>
+        <p>
+        {{ post.excerpt | strip_html}}
+        </p>
       </li>
     {% endfor %}
   </ul>
