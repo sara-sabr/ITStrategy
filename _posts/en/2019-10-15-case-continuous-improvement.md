@@ -5,7 +5,7 @@ ref: case-continuous-improvement
 lang: en
 author: "IT Strategy Team"
 date: "2019-10-15"
-last_modified: "2019-11-11"
+last_modified: "2019-11-12"
 excerpt_separator: <!--more-->
 ---
 In The DevOps Handbook the authors make a case for teams spending at least 20% of their time towards reducing technical debt.

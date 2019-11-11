@@ -4,8 +4,8 @@ title:  "Why We Modified Posts"
 ref: why-we-modified-posts
 lang: en
 author: "IT Strategy Team"
-date: "2019-11-11"
-last_modified: "2019-11-11"
+date: "2019-11-12"
+last_modified: "2019-11-12"
 excerpt_separator: <!--more-->
 ---
 You may have noticed that our two new first posts have been modified.
