@@ -29,5 +29,5 @@ So, there you have it.
 That is why the previous posts now have a last modified date of November 12, 2019.
 And we'll keep improving how we display our content to ensure that it keeps getting better so look out for our updates!
 
-You have ideas on how we could do better?
+In fact, you have ideas on how we could do better?
 Don't hesitate and let us know by visiting these simple [instructions](/how-to-contribute.html)!
