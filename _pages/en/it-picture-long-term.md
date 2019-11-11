@@ -4,14 +4,15 @@ title: IT Picture - Long Term
 ref: it-picture-long-term
 lang: en
 status: posted
-sections: Work In Progress
+sections: IT Picture
 permalink: /it-picture-long-term.html
 ---
 
 ## Long Term IT Picture - 2030
 
-- [GC Wide](#gc-wide)
-- [IT within ESDC](#it-within-esdc)
+- [Long Term IT Picture - 2030](#long-term-it-picture---2030)
+  - [GC Wide](#gc-wide)
+  - [IT within ESDC](#it-within-esdc)
 
 ### GC Wide
 
