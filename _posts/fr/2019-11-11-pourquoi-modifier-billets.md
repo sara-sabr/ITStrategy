@@ -4,16 +4,20 @@ title:  "Pourquoi modifier les billets"
 ref: why-we-modified-posts
 lang: fr
 author: "L'équipe Stratégie TI"
-date: "2019-11-11"
-last_modified: "2019-11-11"
+date: "2019-11-12"
+last_modified: "2019-11-12"
 excerpt_separator: <!--more-->
 ---
-Vous avez peut-être remarqué que nos deux premiers billets ont été modifiés. Vous vous demandez peut-être aussi pourquoi. Alors, jetons un coup d'oeil pour une brève explication !
+Vous avez peut-être remarqué que nos deux premiers billets ont été modifiés.
+Vous vous demandez peut-être aussi pourquoi.
+Alors, jetons un coup d'oeil pour une brève explication !
 <!--more-->
 
-Comme nous l'expliquons dans l'article intitulé [Case for Continuous Improvement]({{site.baseurl}}/2019/10/15/case-continuous-improvement.html), nous croyons à l'amélioration continue de notre travail. Et cela inclut notre propre espace de travail!
+Comme nous l'expliquons dans notre billet intitulé [Arguments en faveur de l'amélioration continue]({{site.baseurl}}/2019/10/15/arguments-amelioration-continue.html), nous croyons effectivement à l'amélioration continue de notre façon de travailler.
+Et cela s'applique aussi à notre propre espace de travail!
 
-Ainsi, depuis notre première publication de billets, nous avons modifié la façon dont la liste des blogues s'affiche. Vous vous souvenez peut-être qu'il s'agissait alors d'une simple liste.
+Ainsi, depuis notre première publication de billets, nous avons modifié la façon dont la liste des blogues s'affiche.
+Vous vous souvenez peut-être qu'il s'agissait alors d'une simple liste.
 
 ![liste de billets de blogue]({{site.baseurl}}/assets/images/list-blog-posts-fr.png)
 
