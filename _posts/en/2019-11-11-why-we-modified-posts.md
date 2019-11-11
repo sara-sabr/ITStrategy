@@ -19,15 +19,15 @@ So, since our initial publication of posts, we have been tweaking how the list o
 
 You may recall that they were being listed as simple list.
 
-![list of blog posts]({{site.baseurl}}/assets/images/list-blog-posts.png)
+![list of blog posts]({{ site.baseurl }}/assets/images/list-blog-posts.png)
 
-Now, we have added the date of the post as well as a short excerpt to let you salivate over the possible content (or run away before even getting started).
+Now, we have added the date of the post as well as a short excerpt to let you salivate over the possible content.
+Or run away before even getting started!
 
-![new list of blog posts]({{site.baseurl}}/assets/images/list-blog-posts-new.png)
+![new list of blog posts]({{ site.baseurl }}/assets/images/list-blog-posts-new.png)
 
 So, there you have it.
 That is why the previous posts now have a last modified date of November 12, 2019.
 And we'll keep improving how we display our content to ensure that it keeps getting better so look out for our updates!
 
-In fact, you have ideas on how we could do better?
-Don't hesitate and let us know by visiting these simple [instructions](/how-to-contribute.html)!
+In fact, if you have ideas on how we could do better, don't hesitate and let us know by visiting these simple [instructions]({{ site.baseurl }}/how-to-contribute.html)!
