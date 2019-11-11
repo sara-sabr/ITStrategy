@@ -28,6 +28,6 @@ Or run away before even getting started!
 
 So, there you have it.
 That is why the previous posts now have a last modified date of November 12, 2019.
-And we'll keep improving how we display our content to ensure that it keeps getting better so look out for our updates!
+And we'll keep improving how we display our content to ensure that it keeps getting better and more useful to you so look out for our updates!
 
 In fact, if you have ideas on how we could do better, don't hesitate and let us know by visiting these simple [instructions]({{ site.baseurl }}/how-to-contribute.html)!
