@@ -19,7 +19,7 @@ This post aims at explaining why this concept is important for you whether you a
 
 ### Public
 
-Before diving too much into the `Why should I care?`, let's start with the `What does mean?`
+Before diving too much into the `Why should I care?`, let's start with the `What does it mean?`
 
 Working in the open means that your workspace, or part of it, is public and participatory. [^1]
 Note that by this definition, your workspace is not only discoverable and accessible to everyone who wishes to visit it but it is also setup to enable and encourage collaboration to your work.
