@@ -4,7 +4,7 @@ title: Carte de stratégies
 ref: summary
 lang: fr
 status: posted
-sections: À propos de nous
+sections: Prêt à utiliser
 permalink: /sommaire-strategie.html
 ---
 

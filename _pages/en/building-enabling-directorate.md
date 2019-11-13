@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Building Nested Enabling Teams
-ref: mandate
+ref: enabling-directorate
 lang: en
 status: posted
 sections: Work In Progress

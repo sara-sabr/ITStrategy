@@ -4,7 +4,7 @@ title: IT Strategy feedback
 ref: feedback-speaking-notes
 lang: en
 status: archived
-sections: About us
+sections: Archives
 permalink: /feedback-speaking-notes.html
 ---
 
