@@ -5,14 +5,15 @@ ref: who-we-are
 lang: fr
 author: "L'équipe Stratégie TI"
 date: "2019-09-12"
-last_modified: "2019-09-12"
+last_modified: "2019-11-12"
+excerpt_separator: <!--more-->
 ---
-
 Cette année a été une période passionnante pour Stratégie, architecture et relation d'affaires (SARA) au sein de la Direction générale de l'innovation, de l'information et de la technologie (DGIIT) d'Emploi et Développement social Canada (EDSC).
 
 Denis Skinner est arrivé à EDSC en juin 2018, et est actuellement directeur général de l'Innovation pour la DGIIT.
 Il a créé deux nouvelles équipes : Stratégie TI (nous) et Recherche TI.
 Le défi lancé à ces équipes nouvellement créées consistait à aider à moderniser une organisation de grande envergure à l'ère des "transformations numériques", terme bien connu, mais peut-être mal nommé.
+<!--more-->
 Forte des connaissances de huit autres ministères du gouvernement du Canada (GC), les équipes ont entrepris d'apporter des changements radicaux positifs le plus rapidement possible.
 Cela ne fait que quelques mois maintenant, mais comme vous pouvez le constater sur le site Web que vous visitez maintenant, cela a été deux mois intenses, sans perte de temps pour commencer à offrir de meilleurs services pour les Canadiens.
 
