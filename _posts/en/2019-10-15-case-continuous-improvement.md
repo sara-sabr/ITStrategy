@@ -5,7 +5,7 @@ ref: case-continuous-improvement
 lang: en
 author: "IT Strategy Team"
 date: "2019-10-15"
-last_modified: "2019-11-12"
+last_modified: "2019-11-13"
 excerpt_separator: <!--more-->
 ---
 In The DevOps Handbook the authors make a case for teams spending at least 20% of their time towards reducing technical debt.
@@ -158,8 +158,7 @@ Great! What's next? Well, let's say we compare that with a team that does not co
 We can see that the red line, which represents the team that continually improves for 20% of their day for a small 10% return in productivity will be more productive in about 6 months (or 6.192 months, to be exact).
 Even if you reduced the productivity gained by half (to 5%, or 0.05), you would still find that before 39 months is up, the team that continuously improves will inevitably end up preforming more highly than the team who does not.
 
-We have demonstrated that even if the trade off between time invested versus potential gain is low, if one continually improves their team, over time they will become more productive than the team who does not.
-Think of how long your team, or organization, has existed.
+We have demonstrated that even if the trade off between time invested versus potential gain is low, if one continually improves their team, over time they will become more productive than the team who does not.last_modified: "2019-11-12"as existed.
 Probably many, many months.
 Imagine if they had started continually improving **years** ago, think about how productive they would be by now! Don't make the same mistake our predecessors did.
 Start continuously improving now! Your future team members, future bosses, and your future self, will all thank you.
@@ -319,11 +318,12 @@ If you found that we have made any mistakes in the article above or if you have 
 Thanks for reading! This was my attempt at going from simple to more complex in an attempt to try and more formally and rigorously define the logic behind committing to continually improving.
 In the first part of this document [The Case for Continuous Improvement](#the-case-for-continuous-improvement) I was hoping to provide a easily consumable and succinct pitch for folks to start continuously improving without requiring them to read all the books... though it would be best if they did.
 It only requires one to remember a little from the dusty math books.
-The second section is intended for the more committed reader to try and more deeply explore the outputs desired from continually improving, and what we should take into consideration when doing so.
+The [next post]({{ site.baseurl}}/2019/11/13/case-continuous-improvement-deeper-dive.html) is intended for the more committed reader to try and more deeply explore the outputs desired from continually improving, and what we should take into consideration when doing so.
 This blog post was a blast to write.
-I love applying the rigour math can offer to the real world, so the last section is a call-out to fellow enthusiasts who would enjoy helping me dig deeper into such topics.
 
 Thanks for reading!
+
+*(Note that the Deeper Dive section has been moved to a following post to shorten the length of this article)*
 
 ## References
 
