@@ -7,7 +7,7 @@ layout: default
 {% assign pageDate = page.date | date: "%Y-%m-%d" %}
 {% assign modifiedDate = page.last_modified | date: "%Y-%m-%d" %}
 
-{% if pageDate != modifiedDate %}
+{% if modifiedDate %}
     <p class="font-italic">{{ site.lastModified[page.lang] }}: {{ modifiedDate }}</p>
 {% endif %}
 
