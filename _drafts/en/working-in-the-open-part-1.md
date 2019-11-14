@@ -130,7 +130,9 @@ We'll dive a little more on these tools and services in an upcoming post.
 
 An interesting phenomena has been observed by the United Kingdom Ministry of Justice (see [blog post](https://mojdigital.blog.gov.uk/2017/02/21/why-we-code-in-the-open/)).
 It turns out that people that knew their work would be visible to the public had a tendency to write better quality code.
-This is not intended to be 
+This is not intended to be some kind of big brother behaviour.
+The goal really is to increase collaboration and transparency.
+It just so happens that humans tend to be more careful about what they write when they know people outside their teams may read their work.
 
 ## When
 
@@ -146,64 +148,6 @@ Get comfortable with the idea that all your drafts are available for others to l
 Of course, working in the open doesn't mean starting to share citizens data, but really more about how you work.
 Privacy is a critical right for everyone and we have to be secure by default.
 Both concepts are not at odds however and we'll explore how you can successfully address security and privacy risks while working in the open in our upcoming post.
-
-
-But how do you do so?
-
-
-## How
-
-As a public servant, you have responsibilities and should always follow the Values and Ethics
-
-### Copyright
-
-### Licence
-
-### Notice
-
-### Control
-
-### Community
-
-### Tools
-
-#### Community Management
-
-- [GCmessage (pilot)](https://message.gccollab.ca/home)
-- [Slack](https://slack.com/) to a certain extent (closed communities)
-- [Framavox](https://framavox.org/)
-- [GCcollab](https://gccollab.ca/splash/)
-  - Communities of Practice
-
-#### Workspace
-
-- GCpedia
-- [GCcollab Wiki](https://wiki.gccollab.ca/)
-- [Framasoft](https://framasoft.org/)
-- [GitLab](https://gitlab.com/)
-- [GitHub](https://github.com/)
-- [Google Drive + Related Tools](https://www.google.com/drive/)
-- [Microsoft Office 365](https://www.office.com/)
-
-#### Planning
-
-- [GitLab - Boards](https://about.gitlab.com/product/issueboard/)
-- [GitHub - Projects](https://github.com/features/project-management/)
-- [Trello](https://trello.com/)
-- [Taiga](https://taiga.io/)
-
-#### Version Control
-
-- [GitLab](https://gitlab.com/)
-- [GitHub](https://github.com/)
-- [Bitbucket](https://bitbucket.org/)
-- GCcode
-
-#### Communications
-
-- [Twitter](https://twitter.com/)
-- Intranet News and Sites
-- [Open Resource Exchange](https://canada-ca.github.io/ore-ero/)
 
 ## References
 
