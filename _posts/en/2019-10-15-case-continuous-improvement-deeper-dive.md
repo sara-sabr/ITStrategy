@@ -7,8 +7,8 @@ author: "IT Strategy Team"
 date: "2019-11-13"
 excerpt_separator: <!--more-->
 ---
-In my previous post, I have tried to use maths to prove that continuous improvement would provide greater value to any organization were they to embed the practice in their way of working.
-In this post, I propose the reader a deeper dive and some potential improvements over this analysis
+In my [previous post]({{ site.baseurl}}/2019/10/15/case-continuous-improvement.html), I have tried to use maths to prove that continuous improvement would provide greater value than the status quo to any organization were they to embed the practice in their way of working.
+In this post, I propose the reader a deeper dive and some potential improvements over this analysis.
 <!--more-->
 
 Here we're going to use a little math trickery with some basic [integration](https://www.khanacademy.org/math/integral-calculus/ic-integration/ic-integral-calc-intro/v/introduction-to-integral-calculus?modal=1) (well, basic as far as integration goes, anyways) and some discussion about how one could use [velocity](https://www.scruminc.com/velocity/) or [business value points](https://www.agilealliance.org/resources/sessions/business-value-estimation/) to refine what the ideal trade off.
