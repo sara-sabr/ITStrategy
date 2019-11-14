@@ -323,7 +323,9 @@ This blog post was a blast to write.
 
 Thanks for reading!
 
-*(Note that the Deeper Dive section has been moved to a following post to shorten the length of this article)*
+<!--markdownlint-disable MD036-->
+*Edited on 2019-11-13:The Deeper Dive section has been moved to a following post to shorten the length of this article and the conclusion has been adapted to better represent this new structure.*
+<!--markdownlint-enable MD036-->
 
 ## References
 
