@@ -185,6 +185,16 @@ This claim is acknowleding the many exception cases there SaaS offerings may not
 
 It is for this reason that, in the [Future Actions](#FutureActions) section ESDC we discuss that ESDC should work relentlessly on improving its in-house development capabilities in order to eventually reduce the reliance on SaaS offerings.
 
+##### Prioritize Open Source
+
+The [Digital Operations Strategic Plan: 2018-2022](https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html) lists as one of the principles for making digital government work
+
+> Use open standards and solutions: Leverage open standards and embrace leading practices, including the use of open source software where appropriate. Design for services and platforms that are seamless for Canadians to use, no matter what device or channel they are using.
+
+The build vs buy conversation has since evolved into an adopt-build-buy analysis (in that order of prioritization). Open source solutions should be the preferred method of addressing any organizational need.
+
+Open source solutions are distinct from the build vs buy dichotomy. Given the wide ecosystem of open source projects and methods of using them, open source should be considered separately and first when searching for solutions to a given problem. For further discussion relating to the use of open source please refer to the following [documentation](#)
+
 ##### Leverage for Quick-Wins
 
 SaaS should be leveraged for 'quick-wins' where only unprotected data is being used and for where it is not intended to contact citizens directly. Further, it should be leveraged when investment in an inhouse developed solution would be in misalignment with responsible stewardship of public funds given the benefits said in-house delivery would delive.
@@ -195,15 +205,27 @@ SaaS should be leveraged for 'quick-wins' where only unprotected data is being u
 
 ##### Reduce Reliance on SaaS
 
-[TO-DO: DevOps Handbook Reference]
-
 SaaS can save time and money by not investing resources into the creation of existing tools.
 
-In-house development, due to heavy governance and approval processes, is a lengthy and thusly expensive process. However, as an organization
+In-house development, due to heavy governance and approval processes, is a lengthy and thusly expensive process. However, as an organization we should aim towards increasing our development capabilities and, as a result, see a decline in the reliance on outsourcing (SaaS or COTS), especially for competencies that an IT organization requires -- such as application development, IT operations work, or testing and QA. Going forward, outsourcing should be used for quick wins regarding peripheral functions or non-business critical functions.
+
+> Analysis shows that low-performing teams are 3.9 times more likely to use functional outsourcing (overall) than elite performance teams, and 3.2 times more likely to use outsourcing of any of the following functions: application development, IT operations work, or testing and QA. This suggests that outsourcing by function is rarely adopted by elite performers.
+- [State of DevOps 2018](https://www.google.ca/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=2ahUKEwi63oHTifTlAhUQwlkKHUcjDdoQFjAAegQIAhAC&url=https%3A%2F%2Fcloudplatformonline.com%2Frs%2F248-TPC-286%2Fimages%2FDORA-State%2520of%2520DevOps.pdf&usg=AOvVaw2PLSLELi2td1WLLLoiqzcl)
+
+SaaS and COTS offer the opportunity for quick wins -- a functional solution that benefits from economies of scale that do not exist from within the department. However, the ideal state is that such solutions should not be leveraged to replace core competencies required within any IT organization.
+
+> Outsourcing has traditionally been viewed as a quick way to expand capabilities and bandwidth. Aside from the workload benefits for short-term or difficult-tohire projects, outsourcing can be beneficial in cost; it reduces the number of full-time employees required and provides elasticity for technical labor. A popular outsourcing model is to assign individual organizational functions— for example, application development, testing/QA, or service operation—to external vendors. However this model  introduces additional handoffs and potential friction between functional groups. The functional division of responsibilities can also inhibit agility: Once contracts have  been signed, changes to specifications are difficult to manage across external silos.
+- [State of DevOps 2018](https://www.google.ca/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=2ahUKEwi63oHTifTlAhUQwlkKHUcjDdoQFjAAegQIAhAC&url=https%3A%2F%2Fcloudplatformonline.com%2Frs%2F248-TPC-286%2Fimages%2FDORA-State%2520of%2520DevOps.pdf&usg=AOvVaw2PLSLELi2td1WLLLoiqzcl)
+
+Given this, outsourcing of core functionalities will exacerbate existing problems (such as unnecessary context switches) rather than reduce them over time, as a continuously improving organization focused on relentless automation would be capable of doing. Purchasing solutions locks an organization into an agreement, rather than permitting the incremental adjustments and improvements that is required to be an agile organization.
 
 ## Conclusions
 
-### Answering the question: SaaS or Develop Cloud Based Solution?
+### Flow Chart
+
+
+
+![Adopt-Build-Buy]({{site.baseurl}}/assets/images/adoptbuildbuy.png)
 
 ## References
 
@@ -228,3 +250,6 @@ In-house development, due to heavy governance and approval processes, is a lengt
 [Values and Ethics Code for the Public Sector](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=25049)
 
 [State of DevOps 2019](https://www.google.ca/url?sa=t&rct=j&q=&esrc=s&source=web&cd=6&cad=rja&uact=8&ved=2ahUKEwjdntzy0snlAhVsTt8KHQLxDFoQFjAFegQICBAC&url=https%3A%2F%2Fcloudplatformonline.com%2Frs%2F248-TPC-286%2Fimages%2FDORA-State%2520of%2520DevOps.pdf&usg=AOvVaw2PLSLELi2td1WLLLoiqzcl)
+
+[State of DevOps 2018](https://www.google.ca/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=2ahUKEwi63oHTifTlAhUQwlkKHUcjDdoQFjAAegQIAhAC&url=https%3A%2F%2Fcloudplatformonline.com%2Frs%2F248-TPC-286%2Fimages%2FDORA-State%2520of%2520DevOps.pdf&usg=AOvVaw2PLSLELi2td1WLLLoiqzcl)
+
