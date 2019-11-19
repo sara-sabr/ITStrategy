@@ -158,7 +158,7 @@ Now!
 Open up your workspace to at least your organization.
 Get comfortable with the idea that all your drafts are available for others to look into and work with you.
 
-Of course, working in the open doesn't mean starting to share citizens’ data, but really more about how you work.
+Of course, working in the open doesn't mean starting to share citizens’ data, but really more about **how** you work.
 Privacy is a critical right for everyone and we have to be secure by default.
 Neither concept is  at odds, however, and we'll explore how you can successfully address security and privacy risks while working in the open in our upcoming post.
 
