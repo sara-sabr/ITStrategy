@@ -69,7 +69,7 @@ This is all great but why should you, a public servant, even care about working 
 
 We are more than 250,000 employees in the Government of Canada.
 Some departments have more than 25,000 employees.
-Shared drives, intranet and various collaboration platforms are very often closed by default.
+Shared drives, intranets and various collaboration platforms are very often closed by default.
 Working in the open makes your work discoverable
 
 Files can be sensitive and they should be protected if that's the case.
@@ -80,18 +80,18 @@ That is very inefficient, error-prone and sometimes simply unrealistic.
 
 Some may say that this is going to create information overload.
 Once again, note that working in the open is not imposing yourself to anyone else.
-It's letting people interested by your work the chance to discover and to jump in when they are ready for it.
+It's letting people interested in your work the chance to discover and to jump in when they are ready for it.
 
 ### Reduction of work duplication
 
-The traditional approach to plan and prioiritize a long time ahead for work is aimed at minimizing the investment risks that organizations have to take to maintain their services for their users.
+The traditional approach to plan and prioritize a long time ahead for work is aimed at minimizing the investment risks that organizations have to take to maintain their services for their users.
 
-As such, organizations will set large processes aimed at harnessing needs and initiatives from all around its various departments.
-Each branch will have it's own series of information gathering, filtering and prioritizing in order to submit project requests to the upper committees.
-Then, when all the silo'd planning is finally "done", the organization will convey a committee of stakeholders, usually top executives, to siff through the remaining proposals.
-Multiply this by as many departments and agencies there is in a countrie's government.
+As such, organizations will set large processes aimed at harnessing needs and initiatives from all around its various teams.
+Each branch will have its own series of information gathering, filtering and prioritizing in order to submit project requests to the upper committees.
+Then, when all the silo'd planning is finally "done", the organization will convey a committee of stakeholders, usually top executives, to sift through the remaining proposals.
+Multiply this by as many departments and agencies there is in a country's government...
 
-This is good way to catch large initiatives but it creates another series of steps for departments and teams to deliver value to citizens in the hope of avoiding duplication of work.
+This is a good way to manage large initiatives but it creates another series of steps for departments and teams to deliver value to citizens in the hope of avoiding duplication of work.
 It remains a very bureaucratic process requiring a lot of overhead and centralized control.
 
 By working in the open by default, releasing our work as open source and promoting its reuse across the whole government could help increase the adoption of solutions already in use and being developed across departments.
@@ -133,7 +133,7 @@ Using the traditional review model is okay but having the stakeholders work conc
 This can be done today with tools and services we currently have access to.
 
 The idea here is not to have others change your work directly.
-You still are it's maintainer, whether this is a policy document or source code.
+You still are its maintainer, whether this is a policy document or source code.
 It is simply to give people a chance to advise you as soon as they can if something can be improved.
 There are ways to make in a way that is scalable and that will increase your ability to deliver faster and better services to your users.
 
