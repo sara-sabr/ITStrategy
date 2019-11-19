@@ -178,6 +178,4 @@ Pour satisfaire le but de cet article, on peut s'arrêter ici.
 Si vous souhaitez jouer avec quelques nombres présentés sur ce billet avec desmos, cliquez [ici](https://www.desmos.com/calculator/bfk9p5ho7f).
 Si vous êtes intéressés par de plus amples détails, ci-dessous, nous allons parler de la façon de décider du compromis optimal entre les gains de productivité et le temps investi.
 
-## Une plongée plus profonde
-
-Traduction à venir
+## La fin
