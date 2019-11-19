@@ -5,7 +5,6 @@ ref: working-in-the-open-p1
 lang: en
 author: "Guillaume Charest"
 date: "2019-11-10"
-last_modified: "2019-11-10"
 excerpt_separator: <!--more-->
 ---
 This series of blog posts will explore the concept of "Working in the Open".
