@@ -5,7 +5,7 @@ ref: case-continuous-improvement
 lang: fr
 author: "Jayson McIntosh, en collaboration avec l'équipe de Stratégie TI"
 date: "2019-10-15"
-last_modified: "2019-11-11"
+last_modified: "2019-11-19"
 excerpt_separator: <!--more-->
 ---
 
@@ -183,5 +183,7 @@ Si vous êtes intéressés par de plus amples détails, ci-dessous, nous allons 
 Merci de me lire ! C'était ma tentative de passer d'une démarche simple à une démarche plus complexe pour tenter de définir plus formellement et plus rigoureusement la logique qui supporte l'engagement d'amélioration continue. Dans la première partie de ce document, Les arguments en faveur de l'amélioration continue, j'espérais fournir une présentation succincte et facile à utiliser pour que les gens commencent à s'améliorer continuellement sans avoir à lire tous les livres... bien qu'il serait préférable qu'ils le fassent. Il suffit de se rappeler un peu de nos vieux livres de maths. Le prochain billet s'adresse aux lecteurs plus engagés qui souhaitent explorer plus en profondeur les résultats souhaités de l'amélioration continue et ce que nous devrions prendre en considération à cet effet. Ce billet de blog a été un plaisir à écrire.
 
 Merci de votre lecture !
+
+*Mis à jour le 2019-11-19: L'auteur principal de l'article a été spécifié.*
 
 *Mis à jour le 2019-11-13: La section Plongée plus profonde a été déplacée vers un article suivant pour raccourcir la longueur de cet article et la conclusion a été adaptée pour mieux représenter cette nouvelle structure.*
