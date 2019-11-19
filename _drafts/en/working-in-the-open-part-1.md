@@ -91,8 +91,11 @@ Each branch will have its own series of information gathering, filtering and pri
 Then, when all the silo'd planning is finally "done", the organization will convey a committee of stakeholders, usually top executives, to sift through the remaining proposals.
 Multiply this by as many departments and agencies there is in a country's government...
 
-This is a good way to manage large initiatives but it creates another series of steps for departments and teams to deliver value to citizens in the hope of avoiding duplication of work.
+This probably seems like a good way to manage very large initiatives and bring similar efforts to light but it creates another series of steps for departments and teams to deliver value to citizens in the hope of avoiding duplication of work.
 It remains a very bureaucratic process requiring a lot of overhead and centralized control.
+And we still are dealing with a high amount of uncertainty since technology changes fast and the actual business requirements may evolve as well.
+By the time we are done harnessing the information, prioritizing the investments and getting ready for work to actually start, the context may already have changed.
+(We most likely will dive in this last topic in a different series of blog posts related to project vs product management)
 
 By working in the open by default, releasing our work as open source and promoting its reuse across the whole government could help increase the adoption of solutions already in use and being developed across departments.
 Without the overhead and rigidity required by a central body but still aligned with our objectives of a modern and digital government.
