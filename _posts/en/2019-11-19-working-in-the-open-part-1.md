@@ -3,7 +3,7 @@ layout: post
 title:  "Working in the Open: Part 1"
 ref: working-in-the-open-p1
 lang: en
-author: "Guillaume Charest in collaboration with the IT Strategy team"
+author: "Guillaume Charest, in collaboration with the IT Strategy team"
 date: "2019-11-19"
 excerpt_separator: <!--more-->
 ---
