@@ -36,20 +36,6 @@ It's not just "working out loud" and sharing the fact that you are doing "someth
 It's promoting your work so that others may hear about it but also clearly communicating your intent of working with all parties interested whenever they feel like contributing.
 It also implies that people can come on their own and start proposing changes to your work, not just when you share your screen during a weekly update meeting.
 
-### Cultural
-
-This is a very different approach than what most employees, both from the public and the private sector, are used to.
-Normally, people will work on a document or their part of a project for a while. Then, the document will be reviewed by a select group of individuals, either because they are already known by the employee's team or because it's the established process.
-Changes will then be made to the document based on the feedback and subsequent rounds of reviews will be done until a final approval is done.
-Then, more changes will be made again.
-Because a document is never perfect.
-
-When you work in the open, feedback can be submitted live, as the document or the source code evolves.
-You still control the changes made to your work.
-Yet, you accept that you don't know everything and that others may know more than you on a topic.
-And that's absolutely OK because that's the reality.
-It requires humility and a desire to be inclusive, accessible and to continuously learn.
-
 A study on distributed educational professional networks [^2] highlights 5 key practices for the success of working in the open:
 
 - Public storytelling and context setting
@@ -60,15 +46,31 @@ A study on distributed educational professional networks [^2] highlights 5 key p
 
 This is a critical set of conditions that enable open source projects to have thousands of people that may not even know each other to come and contribute together for the greater good of all.
 
+### Cultural
+
+This is a very different approach than what most employees, both from the public and the private sector, are used to.
+Normally, people will work on a document or their part of a project for a while.
+Then, the document will be reviewed by a select group of individuals, either because they are already known by the employee's team or because it's the established process.
+Changes will then be made to the document based on the feedback and subsequent rounds of reviews will be done until a final approval is done.
+Then, more changes will be made again.
+Because a document is never perfect.
+
+When you work in the open, feedback can be submitted live, as the document or the source code evolves.
+You still control the changes made to your work.
+Yet, you accept that you don't know everything and that others may know more than you on a topic.
+And that's absolutely OK because that's the reality.
+It requires humility and a desire to be inclusive, accessible and to continuously learn.
+
 ## Why
 
 This is all great but why should you, a public servant, even care about working in the open?
 
-### It makes your work discoverable
+### Discoverability
 
 We are more than 250,000 employees in the Government of Canada.
 Some departments have more than 25,000 employees.
 Shared drives, intranet and various collaboration platforms are very often closed by default.
+Working in the open makes your work discoverable
 
 Files can be sensitive and they should be protected if that's the case.
 But the workspaces themselves should be open by default so that we can collectively be able to share our work with our colleagues.
@@ -80,7 +82,7 @@ Some may say that this is going to create information overload.
 Once again, note that working in the open is not imposing yourself to anyone else.
 It's letting people interested by your work the chance to discover and to jump in when they are ready for it.
 
-### Avoid duplication of work
+### Reduction of work duplication
 
 The traditional approach to plan and prioiritize a long time ahead for work is aimed at minimizing the investment risks that organizations have to take to maintain their services for their users.
 
@@ -137,7 +139,7 @@ There are ways to make in a way that is scalable and that will increase your abi
 
 We'll dive a little more on these tools and services in an upcoming post.
 
-### Increases Quality of Work
+### Quality of Work
 
 An interesting phenomenon has been observed by the United Kingdom Ministry of Justice (see [blog post](https://mojdigital.blog.gov.uk/2017/02/21/why-we-code-in-the-open/)).
 It turns out that people that knew their work would be visible to the public had a tendency to write better quality code.
