@@ -92,7 +92,7 @@ Then, when all the silo'd planning is finally "done", the organization will conv
 Multiply this by as many departments and agencies there is in a countrie's government.
 
 This is good way to catch large initiatives but it creates another series of steps for departments and teams to deliver value to citizens in the hope of avoiding duplication of work.
-Yet it remains a very bureaucratic process requiring a lot of overhead and centralized control.
+It remains a very bureaucratic process requiring a lot of overhead and centralized control.
 
 By working in the open by default, releasing our work as open source and promoting its reuse across the whole government could help increase the adoption of solutions already in use and being developed across departments.
 Without the overhead and rigidity required by a central body but still aligned with our objectives of a modern and digital government.
