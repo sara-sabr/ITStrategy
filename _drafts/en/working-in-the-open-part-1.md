@@ -163,7 +163,7 @@ Get comfortable with the idea that all your drafts are available for others to l
 
 Of course, working in the open doesn't mean starting to share citizens’ data, but really more about **how** you work.
 Privacy is a critical right for everyone and we have to be secure by default.
-Neither concept is  at odds, however, and we'll explore how you can successfully address security and privacy risks while working in the open in our upcoming post.
+Neither concept is at odds, however, and we'll explore how you can successfully address security and privacy risks while working in the open in our upcoming post.
 
 ## References
 
