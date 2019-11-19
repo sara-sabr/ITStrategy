@@ -4,7 +4,7 @@ title: Indicateurs de Rendement Clés
 ref: kpi
 lang: fr
 status: posted
-sections: Travaux en cours
+sections: Archives
 permalink: /dgiit-ipc.html
 ---
 

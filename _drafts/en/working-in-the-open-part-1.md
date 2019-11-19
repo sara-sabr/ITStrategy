@@ -5,7 +5,6 @@ ref: working-in-the-open-p1
 lang: en
 author: "Guillaume Charest"
 date: "2019-11-10"
-last_modified: "2019-11-10"
 excerpt_separator: <!--more-->
 ---
 This series of blog posts will explore the concept of "Working in the Open".
@@ -26,7 +25,7 @@ Yes, it does mean that your work is visible to everyone, both your colleagues fr
 It also means that other governments across the world may look at it and build on top of your great work.
 
 Now, there are some nuances here (see the term "inner source") as not everyone is ready to make the leap and go full open, although it should be the default stance based on our [Policy on Digital and Service](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603#cla4.3).
-In that case, teams are encouraged to open up their workspace to the entire organization, at the very least. Or internally to all GC departments.
+In that case, teams are encouraged to open up their workspace to the entire organization, at the very least. And even internally to all GC departments.
 
 ### Participatory
 
@@ -43,7 +42,7 @@ This is a very different approach than what most employees, both from the public
 Normally, people will work on a document or their part of a project for a while. Then, the document will be reviewed by a select group of individuals, either because they are already known by the employee's team or because it's the established process.
 Changes will then be made to the document based on the feedback and subsequent rounds of reviews will be done until a final approval is done.
 Then, more changes will be made again.
-Because a document, is never perfect.
+Because a document is never perfect.
 
 When you work in the open, feedback can be submitted live, as the document or the source code evolves.
 You still control the changes made to your work.
@@ -77,20 +76,27 @@ But the workspaces themselves should be open by default so that we can collectiv
 Yet, if anyone has tried collaborating with other departments or even with the private sector, you know it's a technical nightmare and usually ends up being done via manually versioned documents in emails.
 That is very inefficient, error-prone and sometimes simply unrealistic.
 
+Some may say that this is going to create information overload.
+Once again, note that working in the open is not imposing yourself to anyone else.
+It's letting people interested by your work the chance to discover and to jump in when they are ready for it.
+
 ### Avoid duplication of work
 
-The Treasury Board of Canada Secretariat has launched the Enterprise Architecture Review Board a few years ago with the hope of catching wind of risky and/or duplicate projects to ensure that we collectively invest more wisely our departmental budgets in technologies.
+The traditional approach to plan and prioiritize a long time ahead for work is aimed at minimizing the investment risks that organizations have to take to maintain their services for their users.
 
-Now, the process involves people preparing a concept case, submitting it for review, going through the project gating concept, etc.
+As such, organizations will set large processes aimed at harnessing needs and initiatives from all around its various departments.
+Each branch will have it's own series of information gathering, filtering and prioritizing in order to submit project requests to the upper committees.
+Then, when all the silo'd planning is finally "done", the organization will convey a committee of stakeholders, usually top executives, to siff through the remaining proposals.
+Multiply this by as many departments and agencies there is in a countrie's government.
 
-This is good to catch large initiatives but it creates another series of steps for departments and teams to deliver value to citizens in the hope of avoiding duplication of work.
+This is good way to catch large initiatives but it creates another series of steps for departments and teams to deliver value to citizens in the hope of avoiding duplication of work.
 Yet it remains a very bureaucratic process requiring a lot of overhead and centralized control.
 
-By working in the open by default, releasing our work as open source and promoting its reuse across the government could help increase the adoption of solutions already in use and being developed across departments.
+By working in the open by default, releasing our work as open source and promoting its reuse across the whole government could help increase the adoption of solutions already in use and being developed across departments.
 Without the overhead and rigidity required by a central body but still aligned with our objectives of a modern and digital government.
-Because we should all be aiming for the [Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html).
+Because, in the end, we should all be aiming for the [Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html).
 
-In reality, it could even open up opportunities of natural collaboration with other interested parties such as provincial and municipal governments and even the private sector.
+In reality, it could even open up opportunities of natural collaboration with other interested parties such as provincial and municipal governments and even the private sector without requiring any Memorandum of Understanding or contracts.
 
 ### Economies of scale
 
@@ -123,6 +129,11 @@ This tweet from Vivian Nobrega, Open Source Advocate at Treasury Board of Canada
 Another great reason to work in the open from the inception of your project is that you create an opportunity to have people give you feedback right away.
 Using the traditional review model is okay but having the stakeholders work concurrently in a live document is not a technical utopia.
 This can be done today with tools and services we currently have access to.
+
+The idea here is not to have others change your work directly.
+You still are it's maintainer, whether this is a policy document or source code.
+It is simply to give people a chance to advise you as soon as they can if something can be improved.
+There are ways to make in a way that is scalable and that will increase your ability to deliver faster and better services to your users.
 
 We'll dive a little more on these tools and services in an upcoming post.
 

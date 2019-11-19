@@ -4,7 +4,7 @@ title: Rétroaction sur les stratégie de TI
 ref: feedback-speaking-notes
 lang: fr
 status: archived
-sections: À propos de nous
+sections: Archives
 permalink: /notes-allocution-retroaction.html
 ---
 
