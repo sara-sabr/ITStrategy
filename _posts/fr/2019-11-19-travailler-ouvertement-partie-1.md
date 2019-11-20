@@ -21,20 +21,20 @@ Dans sa forme la plus élémentaire, le fait de travailler ouvertement signifie 
 
 ### Public
 
-Oui, cela signifie que votre travail est visible pour tous, tant pour vos collègues des autres ministères que pour nos citoyens.
+En effet, cela signifie que votre travail est visible pour tous, tant pour vos collègues des autres ministères que pour nos citoyens.
 Cela signifie également que d'autres gouvernements à travers le monde peuvent l'examiner et s'inspirer de votre excellent travail.
 
-Now, there are some nuances here (see the term "inner source") as not everyone is ready to make the leap and go full open, although it should be the default stance based on our [Policy on Digital and Service](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603#cla4.3).
-In that case, teams are encouraged to open up their workspace to the entire organization, at the very least. And even internally to all GC departments.
+Bien sûr, certaines nuances s'appliquent (voir le terme "inner source" en anglais) car tout le monde n'est pas nécessairement prêt à faire le grand saut et à tout ouvrir, même si ça devrait être notre position par défaut basée sur notre [Politique sur les services et le numérique](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32603#cla4.3).
+Si votre équipe se trouve dans cette situation, elle est alors encouragée à au moins ouvrir son espace de travail à l'ensemble de sa propre organisation. Et même à l'ensemble des départements du Gouvernment du Canada pour commencer.
 
-### Participatory
+### Participatif
 
-Note that by this definition, your workspace is not only discoverable and accessible to everyone who wishes to visit it but it is also configured to **enable and encourage collaboration to your work itself**.
-That means sharing your drafts and work in progress, your planned activities and tasks, your notes and, yes, your source code.
+Il est à noter que par cette définition, votre espace de travail est non seulement découvrable et accessible à tout le monde qui souhaite le visiter mais qu'il est également configuré pour pour **permettre et encourager la collaboration à votre travail lui-même**.
+Cela signifie partager vos ébauches et vos travaux en cours, vos activités et tâches prévues, vos notes et, oui, votre code source.
 
-It's not just "working out loud" and sharing the fact that you are doing "something".
-It's promoting your work so that others may hear about it but also clearly communicating your intent of working with all parties interested whenever they feel like contributing.
-It also implies that people can come on their own and start proposing changes to your work, not just when you share your screen during a weekly update meeting.
+Il ne s'agit pas seulement de présenter à tous son travail et de partager le fait que vous faites "quelque chose".
+Il effectivement faut présenter son travail de façon à ce que d'autres puissent le découvrir mais aussi clairement communiquer votre intention de travailler avec toutes les parties intéressées à contribuer, lorsqu'elle le désireront.
+Cela veut également dire que n'importe qui peut venir consulter votre espace de travail de leur propre gré et commencer à proposer des améliorations à votre travail, pas seulement lorsque vous partagez votre écran lors des mises à jours hebdomadaires.
 
 A study on distributed educational professional networks [^2] highlights 5 key practices for the success of working in the open:
 
