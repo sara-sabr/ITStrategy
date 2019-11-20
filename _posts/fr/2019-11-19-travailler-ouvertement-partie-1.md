@@ -104,31 +104,35 @@ Parce qu'en fin de compte, nous devrions tous nous orienter vers les [Normes num
 
 En réalité, cela pourrait même créer des possibilités de collaboration naturelle avec d'autres parties intéressées comme les gouvernements provinciaux et municipaux et même le secteur privé, sans exiger de protocole d'entente ou de contrat.
 
-### Economies of scale
+### Économies d'échelle
 
-In an organization where accountability is critical such as the government, we tend to increase the oversight and means of control of the spending in each department.
-That is a responsible way of managing our activities and we should make sure that all dollars spent increase the value for citizens.
+Dans une organisation où la reddition de comptes est essentielle, comme le gouvernement, nous avons tendance à accroître la surveillance et les moyens de contrôle des dépenses dans chaque ministère.
+C'est une façon responsable de gérer nos activités et nous devrions nous assurer que tous les dollars dépensés augmentent la valeur pour les citoyens.
 
-But by looking at our collective work through line items and breaking down the work by silos, we sometimes miss the larger picture.
+Mais en examinant notre travail collectif à travers des éléments individuels et en décomposant le travail en silos, nous perdons parfois de vue l'ensemble de la situation.
 
-Software developers tend to break down problems into small, programmable pieces.
-Good software developers try to make those pieces reusable.
-That's where the magic happens if you work in the open.
+Les développeurs et les développeuses de logiciels ont tendance à décomposer les problèmes en petites parties programmables.
+Les plus expérimentées et expérimentés essaient de rendre ces pièces réutilisables.
+C'est là que la magie opère si vous travaillez ouvertement.
 
-A piece of software that you developed to perform one task properly is an immaterial good.
-It is not physical.
-And as such, anybody could benefit from having access to it.
-By making it available to others, you just scaled the value of that solution to the rest of the government (and, well, the whole world).
+Un logiciel que vous avez développé pour accomplir correctement une tâche est un bien immatériel.
+Ce n'est pas physique.
+Et en tant que tel, n'importe qui pourrait bénéficier d'y avoir accès.
+En le mettant à la disposition des autres, vous venez d'accroître la valeur de cette solution pour le reste du gouvernement (et, en fait, pour le monde entier).
 
-But, more importantly, you created the opportunity for others to come and work with you.
-And by doing so, you expanded the scope of people able to contribute to your work beyond the physical constraints of your team.
-In the government context, with our funding model, this becomes extremely powerful.
+Mais, plus important encore, vous avez créé l'occasion pour les autres de venir travailler avec vous.
+Ce faisant, vous avez élargi le nombre de personnes pouvant contribuer à votre travail au-delà des limites physiques de votre équipe.
+Dans le contexte gouvernemental, avec notre modèle de financement, cela devient extrêmement puissant.
 
-This tweet from Vivian Nobrega, Open Source Advocate at Treasury Board of Canada Secretariat, sums it all very well:
+Ce tweet de Vivian Nobrega, porte-parole en faveur des logiciels libres au Secrétariat du Conseil du Trésor du Canada, est un excellent résumé de cette réalité (traduction libre) :
 
 <!--markdownlint-disable MD033-->
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The most practical sustainable solution in the [Westminster] Model is making all projects <a href="https://twitter.com/hashtag/opensource?src=hash&amp;ref_src=twsrc%5Etfw">#opensource</a> by default resulting in a decentralization of power over projects, and transitioning to a service-oriented funding model to ensure these projects remain non-legacy.<a href="https://twitter.com/hashtag/FWD50?src=hash&amp;ref_src=twsrc%5Etfw">#FWD50</a> <a href="https://t.co/MhzoojcUsm">https://t.co/MhzoojcUsm</a></p>&mdash; Vivian Nobrega (@ShadeWyrm) <a href="https://twitter.com/ShadeWyrm/status/1192752341604323328?ref_src=twsrc%5Etfw">November 8, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <!--markdownlint-enable MD033-->
+
+Traduction libre:
+
+La solution la plus pratique et la plus durable dans un modèle de gouvernance de type Westminster est de publier nos projets sous licences de logiciels libres par défaut, ce qui entraîne une décentralisation du pouvoir sur ceux-ci et une transition vers un modèle de financement axé sur les services pour assurer que ces projets ne deviennent pas des systèmes patrimoniaux. 
 
 ### Early Feedback Loop
 
