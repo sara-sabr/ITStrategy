@@ -89,7 +89,6 @@ Notes:
   - *Add automation tools to Application Catalogue*
   - *Create centralized repository of scripts on GCcode*
   - *Add automation focus to [Grassroots Innovation Practice](http://dialogue/grp/IP/SitePages/Grassroots%20Innovation%20Practice.aspx) initiative*
-  - *Assess RPA tools (Robotic Process Automation)*
   - *Consult front line workers to determine quick wins*
 - **IT teams must work using Agile methodologies, iterate and continually improve solutions, services and processes**
   - *Organize training on Agile for managers and team leads*
