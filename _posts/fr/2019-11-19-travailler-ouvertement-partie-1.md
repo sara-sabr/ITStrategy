@@ -36,51 +36,52 @@ Il ne s'agit pas seulement de présenter à tous son travail et de partager le f
 Il effectivement faut présenter son travail de façon à ce que d'autres puissent le découvrir mais aussi clairement communiquer votre intention de travailler avec toutes les parties intéressées à contribuer, lorsqu'elle le désireront.
 Cela veut également dire que n'importe qui peut venir consulter votre espace de travail de leur propre gré et commencer à proposer des améliorations à votre travail, pas seulement lorsque vous partagez votre écran lors des mises à jours hebdomadaires.
 
-A study on distributed educational professional networks [^2] highlights 5 key practices for the success of working in the open:
+Une étude sur les réseaux professionnels éducatifs distribués[^2] met en évidence 5 pratiques clés pour le succès du travail ouvert:
 
-- Public storytelling and context setting
-- Enabling community contribution
-- Rapid prototyping “in the wild”
-- Public reflection and documentation
-- Creating remixable work products
+- Raconter au public et établir le contexte
+- Favoriser la contribution de la communauté
+- Prototypage rapide de façon publique
+- Réflexion et documentation publiques
+- Création de produits de travail réutilisables
 
-This is a critical set of conditions that enable open source projects to have thousands of people that may not even know each other to come and contribute together for the greater good of all.
+Il s'agit d'un ensemble de conditions critiques qui permettent aux projets de logiciels libres de réunir des milliers de personnes qui ne se connaissent peut-être même pas et de contribuer ensemble pour le bien de tout le monde.
 
-### Cultural
+### Culturel
 
-This is a very different approach than what most employees, both from the public and the private sector, are used to.
-Normally, people will work on a document or their part of a project for a while.
-Then, the document will be reviewed by a select group of individuals, either because they are already known by the employee's team or because it's the established process.
-Changes will then be made to the document based on the feedback and subsequent rounds of reviews will be done until a final approval is done.
-Then, more changes will be made again.
-Because a document is never perfect.
+Il s'agit d'une approche très différente de celle à laquelle la plupart des employés et des employées, tant du secteur public que du secteur privé, sont habitués.
+Il s'agit d'une approche très différente de celle à laquelle la plupart des employés et des employées, tant du secteur public que du secteur privé, sont habitués.
+Normalement, les gens travaillent sur un document ou une partie d'un projet pendant un certain temps.
+Ensuite, le document sera examiné par un groupe restreint de personnes, soit parce qu'elles sont déjà connues de l'équipe, soit parce que c'est le processus établi.
+Des modifications seront ensuite apportées au document en fonction des commentaires reçus et des séries d'examens subséquentes seront effectuées jusqu'à ce qu'une approbation finale soit obtenue.
+Ensuite, d'autres changements seront apportés.
+Parce qu'un document n'est jamais parfait.
 
-When you work in the open, feedback can be submitted live, as the document or the source code evolves.
-You still control the changes made to your work.
-Yet, you accept that you don't know everything and that others may know more than you on a topic.
-And that's absolutely OK because that's the reality.
-It requires humility and a desire to be inclusive, accessible and to continuously learn.
+Lorsque vous travaillez ouvertement, les rétroactions peuvent être soumises en direct, à mesure que le document ou le code source évolue.
+Vous contrôlez toujours les changements apportés à votre travail.
+Pourtant, vous acceptez que vous ne savez pas tout et que d'autres personnes pourraient en savoir plus que vous sur un sujet.
+Et c'est tout à fait normal parce que c'est la réalité.
+Cela demande de l'humilité et un désir d'être inclusif, accessible et d'apprendre continuellement.
 
 ## Pourquoi travailler ouvertement
 
-This is all great but why should you, a public servant, even care about working in the open?
+C'est très bien tout ça, mais pourquoi devriez-vous, en tant que fonctionnaire, vous préoccuper de travailler ouvertement ?
 
-### Discoverability
+### Découvrabilité
 
-We are more than 250,000 employees in the Government of Canada.
-Some departments have more than 25,000 employees.
-Shared drives, intranets and various collaboration platforms are very often closed by default.
-Working in the open makes your work discoverable
+Nous sommes plus de 250 000 employées et employés au gouvernement du Canada.
+Certains ministères comptent plus de 25 000 personnes à leur emploi.
+Les réseaux partagés, les intranets et les différentes plates-formes de collaboration sont très souvent fermés par défaut.
+Travailler ouvertement permet de rendre votre travail découvrable.
 
-Files can be sensitive and they should be protected if that's the case.
-But the workspaces themselves should be open by default so that we can collectively be able to share our work with our colleagues.
+Certains fichiers peuvent être confidentiels et devraient être protégés si c'est le cas.
+Mais les espaces de travail eux-mêmes devraient être ouverts par défaut afin que nous puissions collectivement partager notre travail avec nos collègues.
 
-Yet, if anyone has tried collaborating with other departments or even with the private sector, you know it's a technical nightmare and usually ends up being done via manually versioned documents in emails.
-That is very inefficient, error-prone and sometimes simply unrealistic.
+Pourtant, si quelqu'un a déjà essayé de collaborer avec d'autres ministères ou même avec le secteur privé, vous savez que c'est un cauchemar technique et que cela se fait habituellement par le biais de courriels contenant des versions de documents gérées manuellement.
+C'est très inefficace, sujet à erreurs et parfois tout simplement irréaliste.
 
-Some may say that this is going to create information overload.
-Once again, note that working in the open is not imposing yourself to anyone else.
-It's letting people interested in your work the chance to discover and to jump in when they are ready for it.
+Certains diront peut-être que travailler ouvertement risque de créer une surabondance d'information.
+Encore une fois, notez que travailler ouvertement ne veut pas dire de s'imposer à qui que ce soit d'autre.
+C'est laisser aux personnes intéressées par votre travail la chance de découvrir et d'intervenir quand elles sont prêtes à le faire.
 
 ### Reduction of work duplication
 
