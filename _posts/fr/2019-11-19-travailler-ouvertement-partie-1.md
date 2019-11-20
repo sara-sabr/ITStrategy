@@ -83,26 +83,26 @@ Certains diront peut-être que travailler ouvertement risque de créer une surab
 Encore une fois, notez que travailler ouvertement ne veut pas dire de s'imposer à qui que ce soit d'autre.
 C'est laisser aux personnes intéressées par votre travail la chance de découvrir et d'intervenir quand elles sont prêtes à le faire.
 
-### Reduction of work duplication
+### Réduction du dédoublement du travail
 
-The traditional approach to plan and prioritize a long time ahead for work is aimed at minimizing the investment risks that organizations have to take to maintain their services for their users.
+L'approche traditionnelle de planification et d'établissement de priorités à long terme vise à minimiser les risques d'investissement que les organisations doivent prendre pour maintenir leurs services pour leurs utilisateurs.
 
-As such, organizations will set large processes aimed at harnessing needs and initiatives from all around its various teams.
-Each branch will have its own series of information gathering, filtering and prioritizing in order to submit project requests to the upper committees.
-Then, when all the silo'd planning is finally "done", the organization will convey a committee of stakeholders, usually top executives, to sift through the remaining proposals.
-Multiply this by as many departments and agencies there is in a country's government...
+Ainsi, les organisations mettront en place de vastes processus visant à mobiliser les besoins et les initiatives de l'ensemble de leurs diverses équipes.
+Chaque direction générale aura sa propre série de collecte d'information, de filtrage et d'établissement de priorités afin de présenter les demandes de projets aux comités supérieurs.
+Ensuite, lorsque toute la planification en silo est enfin " terminée ", l'organisation les transmettra à un comité de parties prenantes, habituellement des cadres supérieurs, pour passer en revue les propositions restantes.
+Multipliez ce chiffre par autant de ministères et d'organismes qu'il y a de ministères et d'organismes dans le gouvernement d'un pays....
 
-This probably seems like a good way to manage very large initiatives and bring similar efforts to light but it creates another series of steps for departments and teams to deliver value to citizens in the hope of avoiding duplication of work.
-It remains a very bureaucratic process requiring a lot of overhead and centralized control.
-And we still are dealing with a high amount of uncertainty since technology changes fast and the actual business requirements may evolve as well.
-By the time we are done harnessing the information, prioritizing the investments and getting ready for work to actually start, the context may already have changed.
-(We most likely will dive in this last topic in a different series of blog posts related to project vs product management)
+Cela semble probablement être une bonne façon de gérer de très grandes initiatives et de mettre en lumière des efforts semblables, mais cela crée une autre série d'étapes pour les ministères et les équipes afin d'offrir de la valeur aux citoyens dans l'espoir d'éviter la duplication du travail.
+Il s'agit d'un processus très bureaucratique qui exige beaucoup de temps et de contrôle centralisé.
+Et nous sommes toujours confrontés à une grande incertitude, car la technologie évolue rapidement et les besoins réels de l'entreprise peuvent également se transformer entretemps.
+Lorsque nous aurons terminé d'exploiter l'information, de prioriser les investissements et de nous préparer à commencer le travail, le contexte aura probablement déjà changé.
+(Nous plongerons très probablement dans ce dernier sujet dans une série différente de billets de blog liés à la gestion de projet par rapport à la gestion de produit)
 
-By working in the open by default, releasing our work as open source and promoting its reuse across the whole government could help increase the adoption of solutions already in use and being developed across departments.
-Without the overhead and rigidity required by a central body but still aligned with our objectives of a modern and digital government.
-Because, in the end, we should all be aiming for the [Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html).
+En travaillant ouvertement par défaut, en publiant notre travail en tant que logiciel libre et en faisant la promotion de sa réutilisation dans l'ensemble du gouvernement, nous pourrions contribuer à accroître l'adoption de solutions déjà utilisées et en cours de développement entre les ministères.
+Sans la rigidité et les surcharges de travail requises par un organisme central, mais tout en respectant nos objectifs d'un gouvernement moderne et numérique.
+Parce qu'en fin de compte, nous devrions tous nous orienter vers les [Normes numériques](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html).
 
-In reality, it could even open up opportunities of natural collaboration with other interested parties such as provincial and municipal governments and even the private sector without requiring any Memorandum of Understanding or contracts.
+En réalité, cela pourrait même créer des possibilités de collaboration naturelle avec d'autres parties intéressées comme les gouvernements provinciaux et municipaux et même le secteur privé, sans exiger de protocole d'entente ou de contrat.
 
 ### Economies of scale
 
