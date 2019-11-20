@@ -91,9 +91,11 @@ Notes:
   - *Add automation focus to [Grassroots Innovation Practice](http://dialogue/grp/IP/SitePages/Grassroots%20Innovation%20Practice.aspx) initiative*
   - *Consult front line workers to determine quick wins*
 - **IT teams must work using Agile methodologies, iterate and continually improve solutions, services and processes**
-  - *Organize training on Agile for managers and team leads*
+  - *Organize training on Agile/DevOps for managers and team leads*
   - *Highlight the work of existing Agile teams*
-  - *Break down work items, work in iterations (sprints), hold regular retrospectives*
+  - *Break down and prioritize work items*
+  - *work in iterations (sprints) and show improvements*
+  - *Hold regular retrospectives*
   - *Reduce lead time for changes and delivery of services*
   - *Automate*
 - **Make ongoing work and backlog visible**
@@ -120,7 +122,7 @@ Notes:
   - *Collaborate with other departments and agencies on best practices*
 - **EA must enable deploy-anytime capabilities, with high degrees of automation**
   - *Assess the implementation of a central PaaS*
-- **IT teams must automate tests (Unit, UAT, Security, ITSM ...)**
+- **IT teams must automate tests (Unit, UAT, Security, ITSM ..)**
   - *Train Champions of automation testing*
 - **IT teams must automate builds and deployments for all environments (Dev, QA and Production)**
   - *Offer cloud sandboxes to experiment with automation of builds and deployments*
