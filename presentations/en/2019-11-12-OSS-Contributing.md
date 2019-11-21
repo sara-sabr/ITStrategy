@@ -2,7 +2,7 @@
 
 Course material for Digital Academy, Fall 2019
 
-Guillaume Charest, ESDC
+Guillaume Charest, ESDC - [@GuillCharest](https://twitter.com/GuillCharest)
 
 <!--markdownlint-disable MD035-->
 
@@ -113,7 +113,7 @@ Note:
 
 ### Let's try a contribution
 
-Add your name to the project (link to be updated)
+Add your name to the following [project](https://github.com/sara-sabr/wall-mur)
 
 ---
 
@@ -129,6 +129,8 @@ Add your name to the project (link to be updated)
 2. Create:
    1. 1x Issue
    2. 1x Pull Request
+
+Suggestion for the PR: Create a new blog entry!
 
 ---
 

@@ -18,8 +18,8 @@ description:
   en: Working in the open! Our work in progress, list of reference material and presentations.
   fr: Travailler ouvertement! Nos travaux en cours, liste de documents de références et présentations.
 sectionsList:
-  en: ["About us", "Work In Progress", "IT Picture", "Trends", "Under Review", "Archives"]
-  fr: ["À propos de nous", "Travaux en cours", "Image de la TI", "Tendances", "En révision", "Archives"]
+  en: ["About us", "Ready For Use", "Trends", "Under Review", "Work In Progress", "Archives"]
+  fr: ["À propos de nous", "Prêt à utiliser", "Tendances", "En révision", "Travaux en cours", "Archives"]
 docsTitle:
   en: Our Documents
   fr: Nos documents
@@ -53,6 +53,9 @@ pagesOther:
 subtitle:
   en: Enable the strategic value of IT within ESDC by reducing its risks to accelerate business flexibility.
   fr: Favoriser la valeur stratégique des TI au sein de EDSC en réduisant leurs risques afin d'accélérer la flexibilité de l'entreprise.
+docVersionNumber:
+  en: Document Version
+  fr: Version du document
 thisPageHasMoved:
   en: "This page has been modified and can now be found at the following link:"
   fr: "Cette page a été modifiée et peut maintenant être trouvée au lien suivant:"

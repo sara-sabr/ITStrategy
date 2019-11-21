@@ -4,7 +4,7 @@ title: High Performing IT Capabilities
 ref: it-capabilities
 lang: en
 status: posted
-sections: Work In Progress
+sections: Archives
 permalink: /high-performing-it-capabilities.html
 ---
 

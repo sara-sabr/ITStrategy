@@ -41,3 +41,16 @@ body {
   overflow-y: scroll;
   width: 100%;
 }
+
+/*Blockquotes*/
+/*Adapted from: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blockquote */
+blockquote {
+  margin: 0;
+  padding: 15px;
+  background: #eee;
+  border-radius: 5px;
+}
+
+.blockquote {
+  font-size: 1rem;
+}
