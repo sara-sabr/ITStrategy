@@ -49,7 +49,6 @@ Il s'agit d'un ensemble de conditions critiques qui permettent aux projets de lo
 ### Culturel
 
 Il s'agit d'une approche très différente de celle à laquelle la plupart des employés et des employées, tant du secteur public que du secteur privé, sont habitués.
-Il s'agit d'une approche très différente de celle à laquelle la plupart des employés et des employées, tant du secteur public que du secteur privé, sont habitués.
 Normalement, les gens travaillent sur un document ou une partie d'un projet pendant un certain temps.
 Ensuite, le document sera examiné par un groupe restreint de personnes, soit parce qu'elles sont déjà connues de l'équipe, soit parce que c'est le processus établi.
 Des modifications seront ensuite apportées au document en fonction des commentaires reçus et des séries d'examens subséquentes seront effectuées jusqu'à ce qu'une approbation finale soit obtenue.
