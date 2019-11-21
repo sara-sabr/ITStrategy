@@ -132,7 +132,7 @@ Ce tweet de Vivian Nobrega, porte-parole en faveur des logiciels libres au Secr�
 
 Traduction libre:
 
-La solution la plus pratique et la plus durable dans un modèle de gouvernance de type Westminster est de publier nos projets sous licences de logiciels libres par défaut, ce qui entraîne une décentralisation du pouvoir sur ceux-ci et une transition vers un modèle de financement axé sur les services pour assurer que ces projets ne deviennent pas des systèmes patrimoniaux. 
+>La solution la plus pratique et la plus durable dans un modèle de gouvernance de type Westminster est de publier nos projets sous licences de logiciels libres par défaut, ce qui entraîne une décentralisation du pouvoir sur ceux-ci et une transition vers un modèle de financement axé sur les services pour assurer que ces projets ne deviennent pas des systèmes patrimoniaux.
 
 ### Rétroaction rapide
 
@@ -155,22 +155,22 @@ Il ne s'agit pas ici d'établir une culture de surveillance!
 L'objectif est plutôt d'accroître la collaboration et la transparence.
 Et il semblerait que les humains ont une tendance à faire plus attention à ce qu'ils écrivent lorsqu'ils savent que des personnes à l'extérieur de leur équipe pourront consulter leur travail.
 
-## When
+## Quand
 
-So, let's say you're now convinced.
-You want to start working in the open.
-When should you do so?
+Alors, disons que vous êtes maintenant convaincues et convaincus.
+Vous voulez commencer à travailler ouvertement.
+Quand devriez-vous commencer?
 
-As soon as possible!
-Now!
-Open up your workspace to at least your organization.
-Get comfortable with the idea that all your drafts are available for others to look into and work with you.
+Aussitôt que possible!
+Maintenant!
+Ouvrez votre espace de travail, au moins à votre propre organisation.
+Commencez à vous familiariser avec l'idée que tous vos brouillons seront disponibles pour que vos collègues les consultent et commencent à travailler avec vous.
 
-Of course, working in the open doesn't mean starting to share citizens’ data, but really more about **how** you work.
-Privacy is a critical right for everyone and we have to be secure by default.
-Neither concept is at odds, however, and we'll explore how you can successfully address security and privacy risks while working in the open in our upcoming post.
+Bien entendu, travailler ouvertement ne veut pas dire de commencer à partager des données confidentielles de nos citoyens, mais de plutôt partager **notre façon** de travailler.
+Le droit à la vie privée est critique pour tout le monde nous avons un devoir d'être sécure par défaut.
+Mais le concept d'ouverture n'est pas à l'opposé de la sécurité et de la vie privée et nous explorerons comment arriver à répondre à ces objectifs dans un prochain article.
 
-## References
+## Références
 
 [^1]: Mozilla Wiki. "Working Open". Mozilla Wiki, 10 Nov. 2019, [https://wiki.mozilla.org/Working_open](https://wiki.mozilla.org/Working_open).
 
