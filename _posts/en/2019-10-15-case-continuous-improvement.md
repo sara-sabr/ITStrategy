@@ -8,7 +8,7 @@ date: "2019-10-15"
 last_modified: "2019-11-13"
 excerpt_separator: <!--more-->
 ---
-In The DevOps Handbook the authors make a case for teams spending at least 20% of their time towards reducing technical debt.
+In [The DevOps Handbook](https://itrevolution.com/book/the-devops-handbook/) the authors make a case for teams spending at least 20% of their time towards reducing technical debt.
 
 > The deal [between product owners and] engineering goes like this: Product management takes 20% of the team’s capacity right off the top and gives this to engineering to spend as they see fit.
 <!--more-->
