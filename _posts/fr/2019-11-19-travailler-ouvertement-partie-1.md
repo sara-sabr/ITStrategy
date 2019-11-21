@@ -16,24 +16,24 @@ Ils ont réussi cet exploit non pas en s'imposant aux gens, mais en étant [**ou
 
 ## Ce que cela signifie
 
-Avant de trop plonger dans la section `Pourquoi devrais-je travailler ouvertement`, commençons par la section `Qu'est-ce que cela signifie`.
+Avant de se plonger trop rapidement dans la section `Pourquoi devrais-je travailler ouvertement`, commençons par la section `Qu'est-ce que cela signifie`.
 Dans sa forme la plus élémentaire, le fait de travailler ouvertement signifie que votre espace de travail, ou une partie de celui-ci, est public et participatif. [^1]
 
 ### Public
 
-En effet, cela signifie que votre travail est visible pour tous, tant pour vos collègues des autres ministères que pour nos citoyens.
+En effet, cela signifie que votre travail est visible pour tous, tant pour vos collègues des autres ministères que pour nos citoyennes et nos citoyens.
 Cela signifie également que d'autres gouvernements à travers le monde peuvent l'examiner et s'inspirer de votre excellent travail.
 
 Bien sûr, certaines nuances s'appliquent (voir le terme "inner source" en anglais) car tout le monde n'est pas nécessairement prêt à faire le grand saut et à tout ouvrir, même si ça devrait être notre position par défaut basée sur notre [Politique sur les services et le numérique](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32603#cla4.3).
-Si votre équipe se trouve dans cette situation, elle est alors encouragée à au moins ouvrir son espace de travail à l'ensemble de sa propre organisation. Et même à l'ensemble des départements du Gouvernment du Canada pour commencer.
+Si votre équipe se trouve dans cette situation, elle est alors encouragée à au moins ouvrir son espace de travail à l'ensemble de sa propre organisation. Et même à l'ensemble des départements du Gouvernement du Canada pour commencer.
 
 ### Participatif
 
-Il est à noter que par cette définition, votre espace de travail est non seulement découvrable et accessible à tout le monde qui souhaite le visiter mais qu'il est également configuré pour pour **permettre et encourager la collaboration à votre travail lui-même**.
+Il est à noter que par cette définition, votre espace de travail est non seulement découvrable et accessible à tout le monde qui souhaite le visiter mais qu'il est également configuré pour **permettre et encourager la collaboration à votre travail lui-même**.
 Cela signifie partager vos ébauches et vos travaux en cours, vos activités et tâches prévues, vos notes et, oui, votre code source.
 
 Il ne s'agit pas seulement de présenter à tous son travail et de partager le fait que vous faites "quelque chose".
-Il effectivement faut présenter son travail de façon à ce que d'autres puissent le découvrir mais aussi clairement communiquer votre intention de travailler avec toutes les parties intéressées à contribuer, lorsqu'elle le désireront.
+Il faut effectivement présenter son travail de façon à ce que d'autres puissent le découvrir mais aussi clairement communiquer votre intention de travailler avec toutes les parties intéressées à contribuer, lorsqu'elle le désireront.
 Cela veut également dire que n'importe qui peut venir consulter votre espace de travail de leur propre gré et commencer à proposer des améliorations à votre travail, pas seulement lorsque vous partagez votre écran lors des mises à jours hebdomadaires.
 
 Une étude sur les réseaux professionnels éducatifs distribués[^2] met en évidence 5 pratiques clés pour le succès du travail ouvert:
@@ -59,7 +59,7 @@ Parce qu'un document n'est jamais parfait.
 Lorsque vous travaillez ouvertement, les rétroactions peuvent être soumises en direct, à mesure que le document ou le code source évolue.
 Vous contrôlez toujours les changements apportés à votre travail.
 Pourtant, vous acceptez que vous ne savez pas tout et que d'autres personnes pourraient en savoir plus que vous sur un sujet.
-Et c'est tout à fait normal parce que c'est la réalité.
+Et c'est tout à fait normal parce que **c'est la réalité**.
 Cela demande de l'humilité et un désir d'être inclusif, accessible et d'apprendre continuellement.
 
 ## Pourquoi travailler ouvertement
@@ -92,14 +92,14 @@ Chaque direction générale aura sa propre série de collecte d'information, de 
 Ensuite, lorsque toute la planification en silo est enfin " terminée ", l'organisation les transmettra à un comité de parties prenantes, habituellement des cadres supérieurs, pour passer en revue les propositions restantes.
 Multipliez ce chiffre par autant de ministères et d'organismes qu'il y a de ministères et d'organismes dans le gouvernement d'un pays....
 
-Cela semble probablement être une bonne façon de gérer de très grandes initiatives et de mettre en lumière des efforts semblables, mais cela crée une autre série d'étapes pour les ministères et les équipes afin d'offrir de la valeur aux citoyens dans l'espoir d'éviter la duplication du travail.
+Cela semble probablement être une bonne façon de gérer de très grandes initiatives et de mettre en lumière des efforts semblables, mais cela crée une autre série d'étapes pour les ministères et les équipes afin d'offrir de la valeur aux citoyennes et aux citoyens dans l'espoir d'éviter la duplication du travail.
 Il s'agit d'un processus très bureaucratique qui exige beaucoup de temps et de contrôle centralisé.
 Et nous sommes toujours confrontés à une grande incertitude, car la technologie évolue rapidement et les besoins réels de l'entreprise peuvent également se transformer entretemps.
 Lorsque nous aurons terminé d'exploiter l'information, de prioriser les investissements et de nous préparer à commencer le travail, le contexte aura probablement déjà changé.
-(Nous plongerons très probablement dans ce dernier sujet dans une série différente de billets de blog liés à la gestion de projet par rapport à la gestion de produit)
+(Nous plongerons dans ce dernier sujet dans une série différente de billets de blog liés à la gestion de projet par rapport à la gestion de produit)
 
 En travaillant ouvertement par défaut, en publiant notre travail en tant que logiciel libre et en faisant la promotion de sa réutilisation dans l'ensemble du gouvernement, nous pourrions contribuer à accroître l'adoption de solutions déjà utilisées et en cours de développement entre les ministères.
-Sans la rigidité et les surcharges de travail requises par un organisme central, mais tout en respectant nos objectifs d'un gouvernement moderne et numérique.
+Sans la rigidité et les surcharges de travail requises par un organisme central, mais **tout en respectant nos objectifs d'un gouvernement moderne et numérique**.
 Parce qu'en fin de compte, nous devrions tous nous orienter vers les [Normes numériques](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html).
 
 En réalité, cela pourrait même créer des possibilités de collaboration naturelle avec d'autres parties intéressées comme les gouvernements provinciaux et municipaux et même le secteur privé, sans exiger de protocole d'entente ou de contrat.
@@ -112,7 +112,7 @@ C'est une façon responsable de gérer nos activités et nous devrions nous assu
 Mais en examinant notre travail collectif à travers des éléments individuels et en décomposant le travail en silos, nous perdons parfois de vue l'ensemble de la situation.
 
 Les développeurs et les développeuses de logiciels ont tendance à décomposer les problèmes en petites parties programmables.
-Les plus expérimentées et expérimentés essaient de rendre ces pièces réutilisables.
+Ceux et celles qui sont plus expérimentées essaient de rendre ces pièces réutilisables.
 C'est là que la magie opère si vous travaillez ouvertement.
 
 Un logiciel que vous avez développé pour accomplir correctement une tâche est un bien immatériel.
