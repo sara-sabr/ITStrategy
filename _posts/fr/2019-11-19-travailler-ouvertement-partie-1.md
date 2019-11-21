@@ -134,26 +134,26 @@ Traduction libre:
 
 La solution la plus pratique et la plus durable dans un modèle de gouvernance de type Westminster est de publier nos projets sous licences de logiciels libres par défaut, ce qui entraîne une décentralisation du pouvoir sur ceux-ci et une transition vers un modèle de financement axé sur les services pour assurer que ces projets ne deviennent pas des systèmes patrimoniaux. 
 
-### Early Feedback Loop
+### Rétroaction rapide
 
-Another great reason to work in the open from the inception of your project is that you create an opportunity to have people give you feedback right away.
-Using the traditional review model is okay but having the stakeholders work concurrently in a live document is not a technical utopia.
-This can be done today with tools and services we currently have access to.
+Une autre bonne raison de travailler ouvertement dès le début de votre projet, c'est que vous donnez l'occasion aux gens de vous faire part de leurs commentaires sur le champ.
+L'utilisation du modèle d'examen traditionnel est bien, mais le fait que les intervenants travaillent simultanément dans un document en temps réel n'est pas de la science fiction.
+Cela peut se faire aujourd'hui avec les outils et les services auxquels nous avons actuellement accès.
 
-The idea here is not to have others change your work directly.
-You still are its maintainer, whether this is a policy document or source code.
-It is simply to give people a chance to advise you as soon as they can if something can be improved.
-There are ways to make in a way that is scalable and that will increase your ability to deliver faster and better services to your users.
+L'idée ici n'est pas que les autres changent votre travail directement sans que vous ne vous en rendiez compte.
+Vous êtes toujours la personne responsable de celui-ci, qu'il s'agisse d'un document de politique ou de code source.
+En fait, il s'agit simplement de donner aux gens une chance de vous conseiller dès que possible si quelque chose peut être amélioré.
+Il existe des moyens de le faire de façon itérative et d'accroître votre capacité à fournir des services plus rapides et de meilleure qualité à vos utilisateurs.
 
-We'll dive a little more on these tools and services in an upcoming post.
+Nous reparlerons un peu plus en détail de ces outils et services dans un prochain article.
 
-### Quality of Work
+### Qualité du travail
 
-An interesting phenomenon has been observed by the United Kingdom Ministry of Justice (see [blog post](https://mojdigital.blog.gov.uk/2017/02/21/why-we-code-in-the-open/)).
-It turns out that people that knew their work would be visible to the public had a tendency to write better quality code.
-This is not intended to be some kind of big brother behaviour.
-The goal really is to increase collaboration and transparency.
-It just so happens that humans tend to be more careful about what they write when they know people outside their teams may read their work.
+Un phénomène intéressant a été observé par le Ministère de la Justice du Royaume-Uni (voir ce [billet en anglais]https://mojdigital.blog.gov.uk/2017/02/21/why-we-code-in-the-open/)).
+Il semblerait en effet que les gens ont une tendance à écrire du code de meilleure qualité lorsqu'ils savent que des personnes à l'extérieur de leur équipe auront l'opportunité de le consulter.
+Il ne s'agit pas ici d'établir une culture de surveillance!
+L'objectif est plutôt d'accroître la collaboration et la transparence.
+Et il semblerait que les humains ont une tendance à faire plus attention à ce qu'ils écrivent lorsqu'ils savent que des personnes à l'extérieur de leur équipe pourront consulter leur travail.
 
 ## When
 
