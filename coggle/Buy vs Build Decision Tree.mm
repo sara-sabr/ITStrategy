@@ -1,28 +1,8 @@
 
 <map version="0.9.0">
-    <node TEXT="Buy vs Build Decision Tree" FOLDED="false" POSITION="right" ID="5dd2f3c58ba6a4ac2a960a3c" X_COGGLE_POSX="89" X_COGGLE_POSY="66">
+    <node TEXT="Buy vs Build Decision Tree" FOLDED="false" POSITION="right" ID="5dd2f3c58ba6a4ac2a960a3c" X_COGGLE_POSX="-750" X_COGGLE_POSY="49">
         <edge COLOR="#b4b4b4"/>
         <font NAME="Helvetica" SIZE="17"/>
-        <node TEXT="I want to assign blame to someone else" FOLDED="false" POSITION="left" ID="6866402a3c0e42efa4c1fe6e">
-            <edge COLOR="#7aa3e5"/>
-            <font NAME="Helvetica" SIZE="15"/>
-            <node TEXT="Privacy blame" FOLDED="false" POSITION="left" ID="d6e244a7078f88cd2125f160">
-                <edge COLOR="#7ca6e5"/>
-                <font NAME="Helvetica" SIZE="15"/>
-            </node>
-            <node TEXT="Legal blame" FOLDED="false" POSITION="left" ID="4338c20bff2eac1ce35550f7">
-                <edge COLOR="#74a1e5"/>
-                <font NAME="Helvetica" SIZE="15"/>
-            </node>
-            <node TEXT="Project blame" FOLDED="false" POSITION="left" ID="f21d5b66c1cda37f3fdb8834">
-                <edge COLOR="#83abe8"/>
-                <font NAME="Helvetica" SIZE="15"/>
-            </node>
-            <node TEXT="Financial blame" FOLDED="false" POSITION="left" ID="e04349893609f124bc581c38">
-                <edge COLOR="#77a3e4"/>
-                <font NAME="Helvetica" SIZE="15"/>
-            </node>
-        </node>
         <node TEXT="Is the functional requirement a core competency?" FOLDED="false" POSITION="right" ID="763a45afb0de4b823e497a40">
             <edge COLOR="#ebd95f"/>
             <font NAME="Helvetica" SIZE="15"/>
@@ -60,14 +40,24 @@
                                 <node TEXT="SaaS based on OSS?" FOLDED="false" POSITION="right" ID="85e6c761bd3d00ef004091b2">
                                     <edge COLOR="#edd16b"/>
                                     <font NAME="Helvetica" SIZE="12"/>
-                                    <node TEXT="Yes" FOLDED="false" POSITION="right" ID="85cb20072efe30ffd1fc9662">
+                                    <node TEXT="Do you need official support?" FOLDED="false" POSITION="right" ID="85cb20072efe30ffd1fc9662">
                                         <edge COLOR="#eece66"/>
                                         <font NAME="Helvetica" SIZE="12"/>
-                                        <node TEXT="**Use it**
-* Buy service if needed
-  * Consult SSC first" FOLDED="false" POSITION="right" ID="1a2cc0bceebab6344114e995">
+                                        <node TEXT="Yes" FOLDED="false" POSITION="right" ID="1a2cc0bceebab6344114e995">
                                             <edge COLOR="#ecc962"/>
                                             <font NAME="Helvetica" SIZE="10"/>
+                                            <node TEXT="Consult ITPSM" FOLDED="false" POSITION="right" ID="443bd1085476f5dd2cf41c8f">
+                                                <edge COLOR="#eec65c"/>
+                                                <font NAME="Helvetica" SIZE="10"/>
+                                            </node>
+                                        </node>
+                                        <node TEXT="No" FOLDED="false" POSITION="right" ID="1d7a302a6361add0722a6260">
+                                            <edge COLOR="#efcd67"/>
+                                            <font NAME="Helvetica" SIZE="10"/>
+                                            <node TEXT="Use it" FOLDED="false" POSITION="right" ID="2dd1fa4c298fee1ffd4410b6">
+                                                <edge COLOR="#edc967"/>
+                                                <font NAME="Helvetica" SIZE="10"/>
+                                            </node>
                                         </node>
                                     </node>
                                     <node TEXT="No" FOLDED="false" POSITION="right" ID="89a36c846c2ecdb5619e3624">
@@ -79,11 +69,25 @@
                                             <node TEXT="Yes" FOLDED="false" POSITION="right" ID="425514c0ccd1be2a65ef411e">
                                                 <edge COLOR="#eec659"/>
                                                 <font NAME="Helvetica" SIZE="11"/>
-                                                <node TEXT="**Use it**
-* Buy service if needed
-  * Consult SSC first" FOLDED="false" POSITION="right" ID="3fdba78b3b1c3389114ff863">
+                                                <node TEXT="Do you require vendor support?" FOLDED="false" POSITION="right" ID="3fdba78b3b1c3389114ff863">
                                                     <edge COLOR="#f0c65d"/>
                                                     <font NAME="Helvetica" SIZE="11"/>
+                                                    <node TEXT="Yes" FOLDED="false" POSITION="right" ID="84c7a3101a55d466b5489099">
+                                                        <edge COLOR="#efc564"/>
+                                                        <font NAME="Helvetica" SIZE="11"/>
+                                                        <node TEXT="Consult ITPSM" FOLDED="false" POSITION="right" ID="b7e310d4e5467cc951eff44b">
+                                                            <edge COLOR="#eebe59"/>
+                                                            <font NAME="Helvetica" SIZE="11"/>
+                                                        </node>
+                                                    </node>
+                                                    <node TEXT="No" FOLDED="false" POSITION="right" ID="0be5a8579d86cd7e25672cb9">
+                                                        <edge COLOR="#f1c560"/>
+                                                        <font NAME="Helvetica" SIZE="11"/>
+                                                        <node TEXT="Use it" FOLDED="false" POSITION="right" ID="2e3f84fe99a6e0d7adcf939b">
+                                                            <edge COLOR="#f0c467"/>
+                                                            <font NAME="Helvetica" SIZE="11"/>
+                                                        </node>
+                                                    </node>
                                                 </node>
                                             </node>
                                             <node TEXT="No" FOLDED="false" POSITION="right" ID="65bc7c67d08cb64ae6750924">
@@ -178,7 +182,7 @@
                             <node TEXT="Classified" FOLDED="false" POSITION="right" ID="095ea8d95fed92266abe2b9c">
                                 <edge COLOR="#ebd063"/>
                                 <font NAME="Helvetica" SIZE="12"/>
-                                <node TEXT="Is there a SaaS certified?" FOLDED="false" POSITION="right" ID="9f803a15e4e224348b0f80ec">
+                                <node TEXT="Is there a certified SaaS?" FOLDED="false" POSITION="right" ID="9f803a15e4e224348b0f80ec">
                                     <edge COLOR="#eacd62"/>
                                     <font NAME="Helvetica" SIZE="12"/>
                                     <node TEXT="Yes" FOLDED="false" POSITION="right" ID="909b46da3d4c826db9d398e9">
@@ -205,4 +209,8 @@
             </node>
         </node>
     </node>
+    <x-coggle-rootnode TEXT="" FOLDED="false" POSITION="right" ID="7000615d150a50b82ad85c90" X_COGGLE_POSX="1579" X_COGGLE_POSY="-460">
+        <edge COLOR="#efc355"/>
+        <font NAME="Helvetica" SIZE="10"/>
+    </x-coggle-rootnode>
 </map>
