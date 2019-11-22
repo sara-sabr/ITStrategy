@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Arguments en faveur de l'amélioration continue"
+title: "Arguments en faveur de l'amélioration continue"
 ref: case-continuous-improvement
 lang: fr
 author: "Jayson McIntosh, en collaboration avec l'équipe de Stratégie TI"
@@ -13,20 +13,20 @@ Dans le livre "[The DevOps Handbook](https://itrevolution.com/book/the-devops-ha
 
 _Note : Traduction non-officielle de l'anglais ci-dessous :_
 
->L'accord [entre les propriétaires de produits et] l'ingénierie se déroule comme suit : La gestion des produits prend 20% de la capacité de l'équipe dès le départ et la donne à l'ingénierie pour qu'elle la dépense comme bon lui semble.
+>L'accord [entre les propriétaires de produits et] l'ingénierie se déroule comme suit : La gestion des produits prend 20 % de la capacité de l'équipe dès le départ et la donne à l'ingénierie pour qu'elle la dépense comme bon lui semble.
 <!--more-->
 
 >Ils pourrons l'utiliser pour réécrire, réarchitecter ou refactoriser des parties problématiques du code... tout ce qu'ils croient nécessaire pour éviter d'avoir à venir dire un jour à l'équipe : " Nous devons arrêter et réécrire [tout notre code] ".
->Si vous êtes en très mauvaise posture aujourd'hui, vous pourriez avoir besoin de 30% de ces ressources ou même plus.
->Cependant, je deviens nerveux quand je trouve des équipes qui pensent qu'elles peuvent s'en sortir avec beaucoup moins que 20%.
+>Si vous êtes en très mauvaise posture aujourd'hui, vous pourriez avoir besoin de 30 % de ces ressources ou même plus.
+>Cependant, je deviens nerveux quand je trouve des équipes qui pensent qu'elles peuvent s'en sortir avec beaucoup moins que 20 %.
 
-Je vais résumer cela en suggérant que toutes les équipes devraient consacrer au moins 20% de leur temps à améliorer leur façon de travailler.
+Je vais résumer cela en suggérant que toutes les équipes devraient consacrer au moins 20 % de leur temps à améliorer leur façon de travailler.
 Dans le cas de l'équipe avec laquelle je travaille, nous rédigeons des documents et réalisons des preuves de concept pour démontrer l'efficacité des idées que nous proposons.
 Un jour après le travail, je discutais de la modélisation de notre équipe en tant qu'équipe facilitatrice, tirée de "[Team Topologies](https://itrevolution.com/book/team-topologies/)", avec un collègue.
 Dans le livre, ils recommandent qu'une équipe facilitatrice passe du temps à aider d'autres équipes à intégrer de nouvelles technologies ou trouver de meilleures façons de travailler.
 Mon collègue m'a mis au défi sur notre capacité à nous vendre en tant qu'équipe d'apprentissage.
 Les gens sont occupés, pourquoi voudraient-ils se ralentir en consacrant du temps loin de leurs priorités pour s'améliorer?
-Comment vendriez-vous cela à une équipe qui travaille déjà à 120% de sa capacité?
+Comment vendriez-vous cela à une équipe qui travaille déjà à 120 % de sa capacité?
 
 Bon nombre d'entre nous connaissent déjà, grâce au "[Phoenix Project](https://itrevolution.com/book/the-phoenix-project/)", la justification anecdotique de l'engagement de consacrer du temps à l'amélioration de notre processus.
 Si une personne s'est vraiment passionnée pour le "Phoenix Project", elle peut investir du temps pour en apprendre davantage sur la magie de DevOps dans des livres comme [The DevOps Handbook](https://itrevolution.com/book/the-devops-handbook/) (ce que je vous suggère de faire).
@@ -57,7 +57,7 @@ Pour les besoins de cet exemple, disons que chaque augmentation de x est d'un mo
 
 Cette ligne suppose que, semaine après semaine, l'équipe continue à faire son travail "comme d'habitude", ou la fameuse approche "nous l'avons toujours fait comme ça".
 Avec cette approche, l'équipe produira (en moyenne) les mêmes unités de valeur d'affaires chaque semaine.
-Si vous travaillez plus de 100% cette semaine, vous le serez aussi la semaine prochaine.
+Si vous travaillez plus de 100 % cette semaine, vous le serez aussi la semaine prochaine.
 
 Quelle est l'alternative?
 L'amélioration continue.
@@ -91,8 +91,8 @@ f(x) = x<sup>2</sup> - (x*l)
 <!-- markdownlint-enable MD033 -->
 
 Que se passe-t-il lorsque nous traçons ce graphique?
-Supposons que nous avons consacré 20% de notre journée à l'amélioration continue.
-Et qu'Ensuite, nous perdons 20% de notre productivité par mois.
+Supposons que nous avons consacré 20 % de notre journée à l'amélioration continue.
+Et qu'Ensuite, nous perdons 20 % de notre productivité par mois.
 
 ![Graphique de f(x) = x^2 - (x*l)]({{site.baseurl}}/assets/images/graphx2minusxl.PNG)
 
@@ -109,8 +109,8 @@ x<sup>2</sup> = x<sup>1+1</sup>
 
 Lorsque nous parlons de points de pourcentage, nous calculons à l'aide de points décimaux.
 Par conséquent, 1 = 1,0 = 100 %.
-Par conséquent, comme nous l'avons écrit précédemment, nous affirmons que notre productivité augmente de 100% par jour! Si quelqu'un a trouvé un moyen de le faire, nous aimerions avoir de vos nouvelles!
-Malheureusement, si vous vivez dans le royaume des simples mortels comme moi, une augmentation de 100% de la productivité par jour est probablement impossible à atteindre.
+Par conséquent, comme nous l'avons écrit précédemment, nous affirmons que notre productivité augmente de 100 % par jour! Si quelqu'un a trouvé un moyen de le faire, nous aimerions avoir de vos nouvelles!
+Malheureusement, si vous vivez dans le royaume des simples mortels comme moi, une augmentation de 100 % de la productivité par jour est probablement impossible à atteindre.
 
 Nous pouvons réécrire notre fonction d'augmentation de la productivité comme suit
 
@@ -138,16 +138,16 @@ f(x) = x<sup>1+r</sup> - (x*l)
 - Et *l* est égal au volume de temps consacré à l'amélioration continue
 
 Ensuite, nous allons choisir quelques valeurs qui font du sens.
-Comme nous l'avons mentionné, dans le "DevOps Handbook", ils recommandent de consacrer 20% de votre temps à la réduction de la dette technique ou à l'amélioration des processus.
-Donc, pour *l*, nous choisirons 20%, soit 0,2
+Comme nous l'avons mentionné, dans le "DevOps Handbook", ils recommandent de consacrer 20 % de votre temps à la réduction de la dette technique ou à l'amélioration des processus.
+Donc, pour *l*, nous choisirons 20 %, soit 0,2
 
-Maintenant, combien d'amélioration attendons-nous de 20% de notre temps consacré à l'amélioration?
+Maintenant, combien d'amélioration attendons-nous de 20 % de notre temps consacré à l'amélioration?
 En tant qu'employé du gouvernement, je sais que dans certains cas, ce retour peut être gargantuesque.
 Par exemple, l'[Estonie affirme économiser 820 années de temps de travail annuelement grâce à l'utilisation de services numériques automatisés (anglais)](https://e-estonia.com/how-save-annually-820-years-of-work/).
 Pour notre exemple, cependant, comme nous le verrons, le taux d'amélioration n'est pas très important.
 Vous finirez toujours par devenir plus productif si vous vous améliorez continuellement pendant assez longtemps.
-D'accord, alors, choisissons 10%, ce qui équivaut à 0,1.
-Nous supposons donc que pour chaque unité de temps à laquelle vous avez consacré 20% de votre temps, vous êtes la moitié plus efficace par rapport au temps investi.
+D'accord, alors, choisissons 10 %, ce qui équivaut à 0,1.
+Nous supposons donc que pour un investissement de temps de 20 %, vous en gagnerez au moins la moitié en efficacité.
 Conservateur, au mieux. Notre fonction devient alors
 
 <!-- markdownlint-disable MD033 -->
@@ -166,7 +166,7 @@ Disons que nous comparons cela à une équipe qui ne s'améliore pas continuelle
 
 ![Comparaison courbes]({{site.baseurl}}/assets/images/comparecurves1.PNG)
 
-Nous pouvons voir que la ligne rouge, qui représente l'équipe qui s'améliore continuellement pendant 20% de sa journée pour un petit rendement de 10% de productivité, sera plus productive dans environ 6 mois (ou 6,192 mois, pour être exact).
+Nous pouvons voir que la ligne rouge, qui représente l'équipe qui s'améliore continuellement pendant 20 % de sa journée pour un petit rendement de 10 % de productivité, sera plus productive dans environ 6 mois (ou 6,192 mois, pour être exact).
 Même si vous réduisez de moitié les gains de productivité (à 5 %, ou 0,05), vous constaterez quand même qu'avant 39 mois, l'équipe qui s'améliore continuellement finira inévitablement par dépasser l'équipe qui ne le fait pas.
 
 Nous avons démontré que même si le compromis entre le temps investi et le gain potentiel est faible, si l'on améliore continuellement son équipe, avec le temps, elle deviendra plus productive que l'équipe qui ne le fait pas.
@@ -183,7 +183,7 @@ Si vous êtes intéressés par de plus amples détails, ci-dessous, nous allons 
 ## La fin
 
 Merci de m'avoir écouté!
-C'était ma tentative de passer d'une démarche simple à une démarche plus complexe pour tenter de définir plus formellement et plus rigoureusement la logique qui supporte l'engagement d'amélioration continue.
+C'était ma tentative de passer d'une démarche simple à une plus complexe pour tenter de définir plus formellement et rigoureusement la logique qui supporte l'engagement d'amélioration continue.
 Dans la première partie de ce document [Arguments en faveur de l'amélioration continue](#arguments-en-faveur-de-l-amélioration continue), j'espérais fournir une présentation succincte et facile à utiliser pour que les gens commencent à s'améliorer continuellement sans avoir à lire tous les livres... bien qu'il serait préférable qu'ils le fassent.
 Il suffit de se rappeler un peu de nos vieux livres de maths.
 Le prochain billet s'adressera aux lecteurs plus engagés qui souhaitent explorer plus en profondeur les résultats souhaités de l'amélioration continue et ce que nous devrions prendre en considération à cet effet.
