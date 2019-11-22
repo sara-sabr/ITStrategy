@@ -15,29 +15,18 @@ permalink: /buy-vs-build-start.html
 ![Buy vs Build Guideline]({{site.baseurl}}/assets/images/Buy_vs_Build_Decision_Tree.png)
 *Please note the above graphic is intended as guidance and is not intended to stand in place of existing processes*
 
-#### 1. OSS using open standards available as SaaS
-
-#### 2. OSS available as SaaS
-
-#### 3. Commercial SaaS using open standards
-
-#### 4. OSS using open standards deployed on PaaS
-
-#### 5. OSS deployed on PaaS
-
-#### 6. OSS deployed on IaaS
-
-#### 7. COTS using open standards deployed on PaaS
-
-#### 8. COTS deployed on PaaS
-
-#### 9. COTS deployed on IaaS
-
-#### 10. 80% OSS, 20% build
-
-#### 11. COTS on premise
-
-#### 12. Build
+1. OSS using open standards available as SaaS
+2. OSS available as SaaS
+3. Commercial SaaS using open standards
+4. OSS using open standards deployed on PaaS
+5. OSS deployed on PaaS
+6. OSS deployed on IaaS
+7. COTS using open standards deployed on PaaS
+8. COTS deployed on PaaS
+9. COTS deployed on IaaS
+10. 80% OSS, 20% build
+11. COTS on premise
+12. Build
 
 ### Considerations
 
