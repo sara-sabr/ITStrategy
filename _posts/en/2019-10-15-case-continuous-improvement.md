@@ -8,7 +8,7 @@ date: "2019-10-15"
 last_modified: "2019-11-13"
 excerpt_separator: <!--more-->
 ---
-In The DevOps Handbook the authors make a case for teams spending at least 20% of their time towards reducing technical debt.
+In [The DevOps Handbook](https://itrevolution.com/book/the-devops-handbook/) the authors make a case for teams spending at least 20% of their time towards reducing technical debt.
 
 > The deal [between product owners and] engineering goes like this: Product management takes 20% of the team’s capacity right off the top and gives this to engineering to spend as they see fit.
 <!--more-->
@@ -156,7 +156,7 @@ Great! What's next? Well, let's say we compare that with a team that does not co
 ![Compare curves]({{site.baseurl}}/assets/images/comparecurves1.PNG)
 
 We can see that the red line, which represents the team that continually improves for 20% of their day for a small 10% return in productivity will be more productive in about 6 months (or 6.192 months, to be exact).
-Even if you reduced the productivity gained by half (to 5%, or 0.05), you would still find that before 39 months is up the team that continuously improves will inevitably end up out preforming the team who does not.
+Even if you reduced the productivity gained by half (to 5%, or 0.05), you would still find that before 39 months is up the team that continuously improves will inevitably end up outperforming the team who does not.
 
 We have demonstrated that even if the trade off between time invested versus potential gain is low, if one continually improves their team then over time they will become more productive than the team who does not.
 
