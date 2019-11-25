@@ -15,18 +15,28 @@ permalink: /buy-vs-build-start.html
 ![Buy vs Build Guideline]({{site.baseurl}}/assets/images/Buy_vs_Build_Decision_Tree.png)
 *Please note the above graphic is intended as guidance and is not intended to stand in place of existing processes*
 
-1. OSS using open standards available as SaaS
-2. OSS available as SaaS
-3. Commercial SaaS using open standards
-4. OSS using open standards deployed on PaaS
-5. OSS deployed on PaaS
-6. OSS deployed on IaaS
-7. COTS using open standards deployed on PaaS
-8. COTS deployed on PaaS
-9. COTS deployed on IaaS
-10. 80% OSS, 20% build
-11. COTS on premise
-12. Build
+#### (Adopt) SaaS based on
+##### 1.1 OSS using open standards
+##### 1.2 OSS
+##### 1.3 OSS + COTS using open standards
+##### 1.4 OSS + COTS - (be aware of lock-in)
+##### 1.5 COTS using open standards - (be aware of lock-in)
+##### 1.6 COTS - (be aware of lock-in)
+#### (Buy/Adopt) Solutions deployed on XaaS or on premise
+##### 1.1 OSS using open standards
+##### 1.2 OSS
+##### 1.3 OSS + COTS using open standards
+##### 1.4 OSS + COTS - (be aware of lock-in)
+##### 1.5 COTS using open standards - (be aware of lock-in)
+##### 1.6 COTS - (be aware of lock-in)
+#### (Build/Adopt) Custom solutions
+##### 1.1 Using OSS and open standards
+##### 1.2 Using OSS
+##### 1.3 Using OSS + COTS using open standards
+##### 1.4 Using OSS + COTS
+##### 1.5 Using COTS and open standards
+##### 1.6 Using COTS - (be aware of lock-in)
+##### 1.7 From scratch (tech stack must be OSS and use open standards..)
 
 ### Considerations
 
