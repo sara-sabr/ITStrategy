@@ -98,7 +98,7 @@ By the time we are done harnessing the information, prioritizing the investments
 (We most likely will dive in this last topic in a different series of blog posts related to project vs product management)
 
 By working in the open by default, releasing our work as open source and promoting its reuse across the whole government could help increase the adoption of solutions already in use and being developed across departments.
-Without the overhead and rigidity required by a central body but still aligned with our objectives of a modern and digital government.
+Without the overhead and rigidity required by a central body but **still aligned with our objectives of a modern and digital government**.
 Because, in the end, we should all be aiming for the [Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html).
 
 In reality, it could even open up opportunities of natural collaboration with other interested parties such as provincial and municipal governments and even the private sector without requiring any Memorandum of Understanding or contracts.
