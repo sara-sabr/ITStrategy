@@ -35,28 +35,19 @@ FY 2019-2020 Q4
 
 ## Effective Immediatly - IT teams must
 
-- Use 10% of their time to learn
-- Use 10% of their time to automate and improve
+- Use 12% of their time to learn, automate and improve
 - Work using Agile methodologies
 - Work in the open
 - Have access to resources and modern IT tools
 
 ---
 
-### IT teams must use 10% of their time to learn
+### IT teams must use 10% of their time to learn, automate and improve existing processes
 
 - Try new technologies
 - Attend events and conferences
 - Stay up to date on trends and technologies
 - Share knowledge (IITB showcase, Dev CoP, ..)
-
-> Make it a requirement in performance agreements of directors, managers and team leads
-
----
-
-### IT teams must use 10% of their time to automate and improve existing processes
-
-- Related to learning and experimentation
 - Teams must show progress on automation and continuous improvements
 - Add automation tools to Application Catalogue
 - Create centralized repository of scripts on GCcode
