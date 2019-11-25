@@ -89,6 +89,9 @@ Format:
 - Empower multidisciplinary teams and allow them to work on new ideas in pursuit of business goals that solve important problems
 - Clients must be included from the start of projects and can submit regular feedback
 - Services must be made accessible as APIs
+- **Create a DevOps Dojo**
+  - Promote continuous departmental improvement by creating a venue where teams can learn from experts in modern IT delivery best practices and principles
+  - Invest in teams staying up to date and continually improving their tools and the way they work
 
 #### Technical
 
