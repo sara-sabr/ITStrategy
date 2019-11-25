@@ -35,14 +35,14 @@ FY 2019-2020 Q4
 
 ## Effective Immediatly - IT teams must
 
-- Use 12% of their time to learn, automate and improve
-- Work using Agile methodologies
+- Use 20% of their time to learn, automate and improve
+- Teams must work relentlessly to reduce lead times and increase responsiveness to business and operational needs
 - Work in the open
 - Have access to resources and modern IT tools
 
 ---
 
-### IT teams must use 10% of their time to learn, automate and improve existing processes
+### IT teams must use 20% of their time to learn, automate and improve existing processes
 
 - Try new technologies
 - Attend events and conferences
@@ -94,18 +94,23 @@ FY 2019-2020 Q4
 
 - [Unblock access to specific SaaS for IITB employees](web-services-access.html)
 - Invest in bandwidth, Data Loss Protection (DLP) and a document classification tool to enable more open access to Internet
-- Add all approved software to Application Catalogue
+- Automate the addition all approved software to Application Catalogue
 
 ---
 
 ### Hackathon
 
-- First of many (1-2 per year)
-- Learning, automation and improvement
+- 1-2 per year
+- Promote learning, automation and improvement
 - Digital, agile, DevOps and cloud
-- 2020-02
 
 > Organised by IT Strategy team
+
+### DevOps Dojo
+
+- Invest in organizational continuous improvement
+- Team and venue dedicated to learning and rapid prototyping
+- Used to ensure constant onboarding of modern development best practices
 
 ---
 
