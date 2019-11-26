@@ -44,13 +44,14 @@ FY 2019-2020 Q4
 
 ### IT teams must use 20% of their time to learn, automate and improve existing processes
 
-- Try new technologies
-- Attend events and conferences
-- Stay up to date on trends and technologies
-- Share knowledge (IITB showcase, Dev CoP, ..)
-- Teams must show progress on automation and continuous improvements
-- Add automation tools to Application Catalogue
-- Create centralized repository of scripts on GCcode
+- **Learn**
+  - Read, take courses, attend events and conferences
+  - Stay up to date on trends and technologies
+  - Share knowledge with colleagues (IITB showcase, Dev CoP, ..)
+- **Automate and improve**
+  - Review existing processes and governance structure
+  - Automate where possible
+  - Show progress on automation and continuous improvements
 
 > Make it a requirement in performance agreements of directors, managers and team leads
 
@@ -125,6 +126,7 @@ FY 2019-2020 Q4
 - EA - [Grassroots Innovation Practice](http://dialogue/grp/IP/SitePages/Grassroots%20Innovation%20Practice.aspx)
 - PMO - Proof of Concept (PoC)
 - DTS - Agile/DevOps, Product management
+- ITS - ESDC support for GCcode
 
 ---
 
