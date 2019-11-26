@@ -11,10 +11,8 @@ FY 2019-2020 Q4
 ## Goals
 
 - Continuous learning, automation and improvement
-- Agile (break down work, sprints, retrospectives)
-- Work in the open (data, information and code)
-- Expose internal and external (all) services as APIs
-- Teams interact through automated digital services
+- Work using agile methodologies
+- Work in the open
 - Reduce lead time for changes and delivery of services
 - Recover faster incidents and errors
 - Reduce frenquency of incidents and errors
@@ -37,6 +35,7 @@ FY 2019-2020 Q4
 
 - Use 20% of their time to learn, automate and improve
 - Teams must work relentlessly to reduce lead times and increase responsiveness to business and operational needs
+
 - Work in the open
 - Have access to resources and modern IT tools
 
@@ -44,31 +43,32 @@ FY 2019-2020 Q4
 
 ### IT teams must use 20% of their time to learn, automate and improve existing processes
 
-- Try new technologies
-- Attend events and conferences
-- Stay up to date on trends and technologies
-- Share knowledge (IITB showcase, Dev CoP, ..)
-- Teams must show progress on automation and continuous improvements
-- Add automation tools to Application Catalogue
-- Create centralized repository of scripts on GCcode
+- **Learn**
+  - Read, take courses, attend events and conferences
+  - Stay up to date on trends and technologies
+  - Share knowledge with colleagues (IITB showcase, Dev CoP, ..)
+- **Automate and improve**
+  - Review existing processes and governance structure
+  - Automate where possible
+  - Show progress on automation and continuous improvements
 
 > Make it a requirement in performance agreements of directors, managers and team leads
 
 ---
 
-### IT teams must work using Agile methodologies
+### Work using agile methodologies
 
 #### Iterate and continually improve solutions, services and processes
 
-- Organize training on Agile/DevOps for managers and team leads
+- Invest in training on agile for managers and team leads
 - Break down and prioritize work items
-- work in iterations (sprints) and show improvements
+- Work in iterations or sprints
 - Hold regular retrospectives
 - Automate manual processes
 
 ---
 
-### IT teams must work in the open
+### Work in the open
 
 - Make ongoing work and backlog visible
 - Promote the use of GitHub and Gitlab (SaaS)
@@ -77,9 +77,9 @@ FY 2019-2020 Q4
 
 ---
 
-### IT teams must have access to resources
+### Access to resources
 
-#### enabling learning, automation and improvement
+#### Enabling learning, automation and improvement
 
 - Create cloud and desktop sandboxes (labs) for experimentation
 - Make it easy to request access
@@ -88,9 +88,9 @@ FY 2019-2020 Q4
 
 ---
 
-### IT teams must have access to modern IT tools
+### Access to modern IT tools and devices
 
-#### SaaS (Internet), mobile and desktop tools
+#### SaaS (Internet), mobile and desktop
 
 - [Unblock access to specific SaaS for IITB employees](web-services-access.html)
 - Invest in bandwidth, Data Loss Protection (DLP) and a document classification tool to enable more open access to Internet
@@ -98,13 +98,14 @@ FY 2019-2020 Q4
 
 ---
 
-### Hackathon
+## IT Strategy Will
 
-- 1-2 per year
-- Promote learning, automation and improvement
-- Digital, agile, DevOps and cloud
+- Organize a Hackathon
+- Coordonate communications of changes
+- Assist with, promote, and support the creation of, an DevOps Dojo
+- Assist with, promote, and support the creation of Champions
 
-> Organised by IT Strategy team
+--
 
 ### DevOps Dojo
 
@@ -113,6 +114,14 @@ FY 2019-2020 Q4
 - Used to ensure constant onboarding of modern development best practices
 
 ---
+
+### Hackathon
+
+- Host a minimum of 1-2 hackathons per year
+ - Promote learning, automation and improvement
+ - Promote the use of modern techologies and approaches. For example, agile and cloud.
+
+--
 
 ### Communications
 
@@ -125,11 +134,14 @@ FY 2019-2020 Q4
 
 ---
 
-### Related Initiatives
+## Initiatives to Support
 
 - EA - [Grassroots Innovation Practice](http://dialogue/grp/IP/SitePages/Grassroots%20Innovation%20Practice.aspx)
 - PMO - Proof of Concept (PoC)
-- DTS - Agile/DevOps, Product management
+- DTS - Agile, DevOps, Product management
+- ITS - ESDC support for GCcode
+- OneGC
+- APIs
 
 ---
 
