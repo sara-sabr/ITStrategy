@@ -42,7 +42,7 @@ FY 2019-2020 Q4
 
 ---
 
-### IT teams must use 20% of their time to learn, automate and improve existing processes
+### Use 20% of their time to learn, automate and improve existing processes
 
 - **Learn**
   - Read, take courses, attend events and conferences
@@ -57,7 +57,7 @@ FY 2019-2020 Q4
 
 ---
 
-### IT teams must work using Agile methodologies
+### Work using Agile methodologies
 
 #### Iterate and continually improve solutions, services and processes
 
@@ -69,7 +69,7 @@ FY 2019-2020 Q4
 
 ---
 
-### IT teams must work in the open
+### Work in the open
 
 - Make ongoing work and backlog visible
 - Promote the use of GitHub and Gitlab (SaaS)
@@ -78,9 +78,9 @@ FY 2019-2020 Q4
 
 ---
 
-### IT teams must have access to resources
+### Access to resources
 
-#### enabling learning, automation and improvement
+#### Enabling learning, automation and improvement
 
 - Create cloud and desktop sandboxes (labs) for experimentation
 - Make it easy to request access
@@ -89,9 +89,9 @@ FY 2019-2020 Q4
 
 ---
 
-### IT teams must have access to modern IT tools
+### Access to modern IT tools and devices
 
-#### SaaS (Internet), mobile and desktop tools
+#### SaaS (Internet), mobile and desktop
 
 - [Unblock access to specific SaaS for IITB employees](web-services-access.html)
 - Invest in bandwidth, Data Loss Protection (DLP) and a document classification tool to enable more open access to Internet
