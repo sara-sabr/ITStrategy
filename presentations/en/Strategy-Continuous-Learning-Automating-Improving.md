@@ -42,7 +42,7 @@ FY 2019-2020 Q4
 
 ---
 
-### IT teams must use 10% of their time to learn, automate and improve existing processes
+### IT teams must use 20% of their time to learn, automate and improve existing processes
 
 - Try new technologies
 - Attend events and conferences
