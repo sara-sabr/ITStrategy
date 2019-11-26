@@ -59,7 +59,7 @@ FY 2019-2020 Q4
 
 #### Iterate and continually improve solutions, services and processes
 
-- Organize training on agile for managers and team leads
+- Invest in training on agile for managers and team leads
 - Break down and prioritize work items
 - Work in iterations or sprints
 - Hold regular retrospectives
