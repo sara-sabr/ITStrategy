@@ -11,10 +11,8 @@ FY 2019-2020 Q4
 ## Goals
 
 - Continuous learning, automation and improvement
-- Agile (break down work, sprints, retrospectives)
-- Work in the open (data, information and code)
-- Expose internal and external (all) services as APIs
-- Teams interact through automated digital services
+- Work using agile methodologies
+- Work in the open
 - Reduce lead time for changes and delivery of services
 - Recover faster incidents and errors
 - Reduce frenquency of incidents and errors
@@ -35,14 +33,14 @@ FY 2019-2020 Q4
 
 ## Effective Immediatly - IT teams must
 
-- Use 20% of their time to learn, automate and improve
+- Use 20% of time to learn, automate and improve
 - Work using agile methodologies
 - Work in the open
 - Have access to resources and modern IT tools
 
 ---
 
-### Use 20% of their time to learn, automate and improve existing processes
+### Use 20% of time to learn, automate and improve existing processes
 
 - **Learn**
   - Read, take courses, attend events and conferences
@@ -63,7 +61,7 @@ FY 2019-2020 Q4
 
 - Organize training on agile for managers and team leads
 - Break down and prioritize work items
-- work in iterations (sprints) and show improvements
+- Work in iterations or sprints
 - Hold regular retrospectives
 - Automate manual processes
 
@@ -121,12 +119,14 @@ FY 2019-2020 Q4
 
 ---
 
-### Related Initiatives
+### Initiatives to Support
 
 - EA - [Grassroots Innovation Practice](http://dialogue/grp/IP/SitePages/Grassroots%20Innovation%20Practice.aspx)
 - PMO - Proof of Concept (PoC)
 - DTS - Agile, DevOps, Product management
 - ITS - ESDC support for GCcode
+- OneGC
+- APIs
 
 ---
 
