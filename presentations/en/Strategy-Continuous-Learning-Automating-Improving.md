@@ -35,7 +35,7 @@ FY 2019-2020 Q4
 
 ## Effective Immediatly - IT teams must
 
-- Use 12% of their time to learn, automate and improve
+- Use 20% of their time to learn, automate and improve
 - Work using Agile methodologies
 - Work in the open
 - Have access to resources and modern IT tools
