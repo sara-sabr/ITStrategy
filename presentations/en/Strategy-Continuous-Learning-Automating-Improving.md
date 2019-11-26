@@ -117,9 +117,9 @@ FY 2019-2020 Q4
 
 ### Hackathon
 
+- Promote learning, automation and improvement
+- Promote the use of modern techologies and approaches. For example, agile and cloud.
 - Host a minimum of 1-2 hackathons per year
- - Promote learning, automation and improvement
- - Promote the use of modern techologies and approaches. For example, agile and cloud.
 
 --
 
