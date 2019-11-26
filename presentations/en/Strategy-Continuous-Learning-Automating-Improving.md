@@ -36,7 +36,7 @@ FY 2019-2020 Q4
 ## Effective Immediatly - IT teams must
 
 - Use 20% of their time to learn, automate and improve
-- Work using Agile methodologies
+- Work using agile methodologies
 - Work in the open
 - Have access to resources and modern IT tools
 
@@ -57,11 +57,11 @@ FY 2019-2020 Q4
 
 ---
 
-### Work using Agile methodologies
+### Work using agile methodologies
 
 #### Iterate and continually improve solutions, services and processes
 
-- Organize training on Agile/DevOps for managers and team leads
+- Organize training on agile for managers and team leads
 - Break down and prioritize work items
 - work in iterations (sprints) and show improvements
 - Hold regular retrospectives
@@ -103,7 +103,7 @@ FY 2019-2020 Q4
 
 - First of many (1-2 per year)
 - Learning, automation and improvement
-- Digital, agile, DevOps and cloud
+- Digital, agile and cloud
 - 2020-02
 
 > Organised by IT Strategy team
@@ -125,7 +125,7 @@ FY 2019-2020 Q4
 
 - EA - [Grassroots Innovation Practice](http://dialogue/grp/IP/SitePages/Grassroots%20Innovation%20Practice.aspx)
 - PMO - Proof of Concept (PoC)
-- DTS - Agile/DevOps, Product management
+- DTS - Agile, DevOps, Product management
 - ITS - ESDC support for GCcode
 
 ---
