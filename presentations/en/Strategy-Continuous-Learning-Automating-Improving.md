@@ -97,6 +97,13 @@ FY 2019-2020 Q4
 
 ---
 
+## IT Strategy Will
+
+- Organize a Hackathon
+- Coordonnate communications of changes
+
+--
+
 ### Hackathon
 
 - 1-2 per year
@@ -104,9 +111,7 @@ FY 2019-2020 Q4
 - Digital, agile and cloud
 - First one: 2020-02
 
-> Organised by IT Strategy team
-
----
+--
 
 ### Communications
 
@@ -119,7 +124,7 @@ FY 2019-2020 Q4
 
 ---
 
-### Initiatives to Support
+## Initiatives to Support
 
 - EA - [Grassroots Innovation Practice](http://dialogue/grp/IP/SitePages/Grassroots%20Innovation%20Practice.aspx)
 - PMO - Proof of Concept (PoC)
