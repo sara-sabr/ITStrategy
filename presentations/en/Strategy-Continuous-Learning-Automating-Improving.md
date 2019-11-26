@@ -15,7 +15,7 @@ FY 2019-2020 Q4
 - Work in the open
 - Reduce lead time for changes and delivery of services
 - Recover faster incidents and errors
-- Reduce frenquency of incidents and errors
+- Reduce frequency of incidents and errors
 - Show improvement
 
 --
@@ -31,7 +31,7 @@ FY 2019-2020 Q4
 
 ---
 
-## Effective Immediatly - IT teams must
+## Effective Immediately - IT teams must
 
 - Use 20% of time to learn, automate and improve
 - Work using agile methodologies
@@ -100,7 +100,7 @@ FY 2019-2020 Q4
 ## IT Strategy Will
 
 - Organize a Hackathon
-- Coordonnate communications of changes
+- Coordinate communications of changes
 
 --
 
