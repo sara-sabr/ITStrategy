@@ -99,10 +99,10 @@ FY 2019-2020 Q4
 
 ### Hackathon
 
-- First of many (1-2 per year)
-- Learning, automation and improvement
+- 1-2 per year
+- Promote learning, automation and improvement
 - Digital, agile and cloud
-- 2020-02
+- First one: 2020-02
 
 > Organised by IT Strategy team
 
