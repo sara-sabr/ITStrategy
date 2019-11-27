@@ -78,7 +78,6 @@ The choice of technology is not what is important, what is important is to conti
 
 The transition towards this partnership model is explained in the following [Strategy Map diagram](strategy-summary.html).
 Each block corresponding in the diagram represents a distinct strategy to move ESDC towards its ultimate Digital Transformation goal: become a key stakeholder in the Canadian Government as a Platform.
-6 pillars support this roadmap: Delivery of Service, Project Management, Governance, Modern Workplace, Business Integration, and Talent Management.
 
 The approach to the IT Strategy is **not** to complete each of the diagram's block before publishing them as a single plan.
 Instead, the ESDC IT Strategy team will work with the IT community to continuously diagnose key organizational problems, waste, lead times and governance structures that inhibit the desired changes in behaviours.
