@@ -1,10 +1,10 @@
 # IT Strategy for IITB
 
+FY 2019-2020 Q4
+
 ## Continuous Learning, Automation and Improvement
 
 ### 20% Time
-
-FY 2019-2020 Q4
 
 ---
 
@@ -36,24 +36,38 @@ FY 2019-2020 Q4
 
 ---
 
-### Use 20% of time to learn, automate and improve existing processes
+## Use 20% of time to
 
-- **Learn**
-  - Read, take courses, attend events and conferences
-  - Stay up to date on trends and technologies
-  - Share knowledge with colleagues (IITB showcase, Dev CoP, ..)
-- **Automate and improve**
-  - Review existing processes and governance structure
-  - Automate manual processes where possible
-  - Show progress on automation and continuous improvements
+## Learn
+
+## Automate
+
+## Improve
 
 --
 
-Make it a requirement in performance agreements of directors, managers and team leads
+### Learn
 
-Make Sharepoint sites open to all ESDC by default
+- Read, take courses, attend events and conferences
+- Stay up to date on trends and technologies
+- Share knowledge with colleagues
+  - IITB showcase, Dev CoP, ..
 
-Invest in training on agile for managers and team leads
+--
+
+### Automate and improve existing processes
+
+- Review existing processes and governance structure
+- Automate where possible
+- Show progress on automation and continuous improvements
+
+--
+
+### Tangible: Learn, Automate and Improve
+
+- Make it a requirement in performance agreements of directors, managers and team leads
+- Invest in training on agile for managers and team leads
+- Invest in agile/DevOps Dojos for IT teams
 
 ---
 
@@ -64,7 +78,7 @@ Invest in training on agile for managers and team leads
 - Create cloud and desktop sandboxes (labs) for experimentation
 - Make it easy to request access
 - Create a safe environment for experimentation
-- Organize lunch between senior management and a team/project that recently "failed"
+  - Organize lunch between senior management and a team/project that recently "failed"
 
 ---
 
@@ -80,17 +94,8 @@ Invest in training on agile for managers and team leads
 
 ## IT Strategy Will
 
-- Organize a Hackathon
-- Coordinate communications of changes
-
---
-
-### Hackathon
-
-- 1-2 per year
-- Promote learning, automation and improvement
-- Digital, agile and cloud
-- First one: 2020-02
+- Coordinate communications of strategies
+- Organize a Hackathon for IITB and ESDC
 
 --
 
@@ -102,6 +107,15 @@ Invest in training on agile for managers and team leads
   - Failures and lessons learned - link back to learning opportunities
   - Use of SaaS on ESDC network for unclassified information
   - Progress reports around continuous improvements and automation
+
+--
+
+### Hackathon
+
+- 1-2 per year
+- Promote learning, automation and improvement
+- Digital, agile and cloud
+- First one: 2020-02
 
 ---
 
