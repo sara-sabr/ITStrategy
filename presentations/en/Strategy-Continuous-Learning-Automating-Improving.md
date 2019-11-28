@@ -1,6 +1,6 @@
 # IT Strategy for IITB
 
-## Continuous Learning, Automation and Improving
+## Continuous Learning, Automation and Improvement
 
 ### 20% Time
 
@@ -10,9 +10,7 @@ FY 2019-2020 Q4
 
 ## Goals
 
-- Continuous learning, automation and improvement
-- Work using agile methodologies
-- Work in the open
+- Continuously learn, automate and improve
 - Reduce lead time for changes and delivery of services
 - Recover faster incidents and errors
 - Reduce frequency of incidents and errors
@@ -34,8 +32,6 @@ FY 2019-2020 Q4
 ## Effective Immediately - IT teams must
 
 - Use 20% of time to learn, automate and improve
-- Work using agile methodologies
-- Work in the open
 - Have access to resources and modern IT tools
 
 ---
@@ -48,31 +44,16 @@ FY 2019-2020 Q4
   - Share knowledge with colleagues (IITB showcase, Dev CoP, ..)
 - **Automate and improve**
   - Review existing processes and governance structure
-  - Automate where possible
+  - Automate manual processes where possible
   - Show progress on automation and continuous improvements
 
-> Make it a requirement in performance agreements of directors, managers and team leads
+--
 
----
+Make it a requirement in performance agreements of directors, managers and team leads
 
-### Work using agile methodologies
+Make Sharepoint sites open to all ESDC by default
 
-#### Iterate and continually improve solutions, services and processes
-
-- Invest in training on agile for managers and team leads
-- Break down and prioritize work items
-- Work in iterations or sprints
-- Hold regular retrospectives
-- Automate manual processes
-
----
-
-### Work in the open
-
-- Make ongoing work and backlog visible
-- Promote the use of GitHub and Gitlab (SaaS)
-- Support and use GCcode to share within the GC
-- Make Sharepoint sites open to all ESDC by default
+Invest in training on agile for managers and team leads
 
 ---
 
@@ -83,7 +64,7 @@ FY 2019-2020 Q4
 - Create cloud and desktop sandboxes (labs) for experimentation
 - Make it easy to request access
 - Create a safe environment for experimentation
-- Organize lunch between the DM and a team/project that recently "failed"
+- Organize lunch between senior management and a team/project that recently "failed"
 
 ---
 
@@ -130,8 +111,32 @@ FY 2019-2020 Q4
 - PMO - Proof of Concept (PoC)
 - DTS - Agile, DevOps, Product management
 - ITS - ESDC support for GCcode
-- OneGC
-- APIs
+- GC DevOps League
+- One Team Gov
+
+---
+
+### Upcomming strategies
+
+#### FY 2020-2021
+
+--
+
+### Work using agile methodologies
+
+#### Iterate and continually improve solutions, services and processes
+
+- Break down and prioritize work items
+- Work in iterations or sprints
+- Hold regular retrospectives
+
+--
+
+### Work in the open
+
+- Make ongoing work and backlog visible
+- Promote the use of GitHub and Gitlab (SaaS)
+- Support and use GCcode to share within the GC
 
 ---
 
