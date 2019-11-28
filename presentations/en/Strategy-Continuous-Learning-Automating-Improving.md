@@ -102,7 +102,7 @@ FY 2019-2020 Q4
 
 - Organize a Hackathon
 - Coordonate communications of changes
-- Assist with, promote, and support the creation of, an DevOps Dojo
+- Assist with, promote, and support the creation of a DevOps Dojo
 - Assist with, promote, and support the creation of Champions
 
 --
