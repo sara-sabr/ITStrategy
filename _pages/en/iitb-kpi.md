@@ -61,7 +61,7 @@ For the development side, there would be multiple metrics, most of them being in
 - `time to restore ratio = time to restore service when incident occurs / dev personnel`
 - `change fail rate ratio = % of changes resulting in degraded service or remediation required / dev personnel`
 
-*Metrics inspired from [DORA Accelerate: State of DevOps 2018](http://cloudplatformonline.com/rs/248-TPC-286/images/DORA-State%20of%20DevOps.pdf)*
+*Metrics inspired from DORA Accelerate: State of DevOps 2018
 
 2\. Toil in ESDC Services
 

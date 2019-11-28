@@ -1,6 +1,6 @@
 ## Implement DevOps
 
-[J-CURVE OF TRANSFORMATION](https://cloudplatformonline.com/rs/248-TPC-286/images/DORA-State%20of%20DevOps.pdf)
+J-CURVE OF TRANSFORMATION
 
 1. Teams begin transformation and identify quick wins
    1. Build community (break down silos)
