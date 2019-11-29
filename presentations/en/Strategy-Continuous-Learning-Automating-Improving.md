@@ -67,6 +67,7 @@ FY 2019-2020 Q4
 
 - Make it a requirement in performance agreements of directors, managers and team leads
 - Invest in training on agile for managers and team leads
+- Encourage assignments with CDS-ESDC team
 - Invest in agile/DevOps Dojos for IT teams
 
 ---
@@ -84,7 +85,7 @@ FY 2019-2020 Q4
 
 ### Access to modern IT tools and devices
 
-#### SaaS (Internet), mobile and desktop
+#### SaaS (Internet) and desktop
 
 - [Unblock access to specific SaaS for IITB employees](web-services-access.html)
 - Invest in bandwidth, Data Loss Protection (DLP) and a document classification tool to enable more open access to Internet
@@ -94,8 +95,11 @@ FY 2019-2020 Q4
 
 ## IT Strategy Will
 
+- Draft requirements for PMAs (20% time learn automate improve)
 - Coordinate communications of strategies
+- Push for more open access to tools
 - Organize a Hackathon for IITB and ESDC
+- Review strategies for FY 2020-2021 Q1
 
 --
 
@@ -151,6 +155,11 @@ FY 2019-2020 Q4
 - Make ongoing work and backlog visible
 - Promote the use of GitHub and Gitlab (SaaS)
 - Support and use GCcode to share within the GC
+
+--
+
+- Move from project to product management
+- Organizational and governance changes to enable agility
 
 ---
 
