@@ -3,7 +3,6 @@
 FY 2019-2020 Q4
 
 ## Continuous Learning, Automation and Improvement
-
 ### 20% Time
 
 ---
@@ -44,6 +43,16 @@ FY 2019-2020 Q4
 
 ## Improve
 
+---
+
+### Tangible: Learn, Automate and Improve
+
+- Create or use CATS codes for continuous improvement and learning
+- Make it a requirement in performance agreements of directors, managers and team leads
+- Encourage assignments with CDS-ESDC team or CSPS
+- Invest in training on agile for managers and team leads
+- Invest to establish agile/DevOps Dojos for IT teams
+
 --
 
 ### Learn
@@ -55,41 +64,28 @@ FY 2019-2020 Q4
 
 --
 
-### Automate and improve existing processes
+### Automate and Improve Existing Processes
 
 - Review existing processes and governance structure
 - Automate where possible
 - Show progress on automation and continuous improvements
 
---
-
-### Tangible: Learn, Automate and Improve
-
-- Make it a requirement in performance agreements of directors, managers and team leads
-- Invest in training on agile for managers and team leads
-- Encourage assignments with CDS-ESDC team
-- Invest in agile/DevOps Dojos for IT teams
-
 ---
 
-### Access to resources
-
-#### Enabling learning, automation and improvement
+### Tangible: Have Access to Resources
 
 - Create cloud and desktop sandboxes (labs) for experimentation
-- Make it easy to request access
+  - Make it easy to request access (self-service)
 - Create a safe environment for experimentation
-  - Organize lunch between senior management and a team/project that recently "failed"
+  - Organize regular informal meetings between senior management and a team/project that recently "failed"
 
 ---
 
-### Access to modern IT tools and devices
-
-#### SaaS (Internet) and desktop
+### Tangible: Have Access to Modern IT Tools
 
 - [Unblock access to specific SaaS for IITB employees](web-services-access.html)
-- Invest in bandwidth, Data Loss Protection (DLP) and a document classification tool to enable more open access to Internet
-- Add all approved software to Application Catalogue
+- Invest in Bandwidth, Data Loss Protection (DLP) and a Document Classification Tool to enable more open access to Internet
+- Add all approved desktop software, including commercial and OSS, to Application Catalogue
 
 ---
 
@@ -116,33 +112,29 @@ FY 2019-2020 Q4
 
 ### Hackathon
 
-- 1-2 per year
-- Promote learning, automation and improvement
-- Digital, agile and cloud
-- First one: 2020-02
+- Host first hackathon before end of March 2020
+  - Promote learning, automation and improvement
+  - Digital, agile and cloud
 
 ---
 
-## Initiatives to Support
+## Appendix A - Initiatives to Support
 
 - EA - [Grassroots Innovation Practice](http://dialogue/grp/IP/SitePages/Grassroots%20Innovation%20Practice.aspx)
 - PMO - Proof of Concept (PoC)
 - DTS - Agile, DevOps, Product management
 - ITS - ESDC support for GCcode
-- GC DevOps League
-- One Team Gov
+- Communities such as OneTeamGov, GC DevOps League, Agora OSS...
 
 ---
 
-### Upcomming strategies
+### Appendix B - Upcoming strategies
 
 #### FY 2020-2021
 
 --
 
-### Work using agile methodologies
-
-#### Iterate and continually improve solutions, services and processes
+### Work Using Agile Methodologies
 
 - Break down and prioritize work items
 - Work in iterations or sprints
@@ -150,13 +142,15 @@ FY 2019-2020 Q4
 
 --
 
-### Work in the open
+### Work in the Open
 
 - Make ongoing work and backlog visible
-- Promote the use of GitHub and Gitlab (SaaS)
+- Promote the use of GitHub and GitLab (SaaS)
 - Support and use GCcode to share within the GC
 
 --
+
+### Product Management
 
 - Move from project to product management
 - Organizational and governance changes to enable agility
