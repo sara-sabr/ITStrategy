@@ -59,8 +59,6 @@ The above chart should be adhered to in both the initial **architectural** decis
 1. From the TCO analysis, decision is made on which component(s) will be bought and built (IITB Senior Management?)
    - Application architects use again the above model to decide which tools to leverage in order to reduce rework and leverage existing solutions to expedite the development process
 
-TODO: Add graphic explaining process
-
 ### Considerations
 
 #### COTS vs Building
