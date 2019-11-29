@@ -3,6 +3,7 @@
 FY 2019-2020 Q4
 
 ## Continuous Learning, Automation and Improvement
+
 ### 20% Time
 
 ---
