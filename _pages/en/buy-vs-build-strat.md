@@ -23,11 +23,11 @@ _Please note the above graphic is intended as guidance and is not intended to st
 #### (Adopt) SaaS based on
 
 1. OSS using open standards
-2. OSS
-3. OSS + Closed COTS using open standards
-4. OSS + Closed COTS - (be aware of lock-in)
-5. Closed COTS using open standards - (be aware of lock-in)
-6. Closed COTS - (be aware of lock-in)
+1. OSS
+1. OSS + Closed COTS using open standards
+1. OSS + Closed COTS - (be aware of lock-in)
+1. Closed COTS using open standards - (be aware of lock-in)
+1. Closed COTS - (be aware of lock-in)
 
 #### (Buy/Adopt) Solutions deployed on XaaS or on premise
 
