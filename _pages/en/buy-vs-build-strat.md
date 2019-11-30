@@ -12,8 +12,13 @@ permalink: /buy-vs-build-start.html
 
 ### Order of Preference
 
-![Buy vs Build Guideline]({{site.baseurl}}/assets/images/Buy_vs_Build_Decision_Tree.png)
-*Please note the above graphic is intended as guidance and is not intended to stand in place of existing processes*
+<!--markdownlint-disable MD033-->
+<a href="{{site.baseurl}}/assets/images/Buy_vs_Build_Decision_Tree.png"><img src="{{site.baseurl}}/assets/images/Buy_vs_Build_Decision_Tree.png" alt="" width="800"/></a>
+<!--markdownlint-enable MD033-->
+
+<!--markdownlint-disable MD036-->
+_Please note the above graphic is intended as guidance and is not intended to stand in place of existing processes_
+<!--markdownlint-enable MD036-->
 
 #### (Adopt) SaaS based on
 
@@ -51,9 +56,9 @@ The above chart should be adhered to in both the initial **architectural** decis
 
 1. Determine requirements (Business + EA?)
 1. Following requirements, EA uses the model to build an initial list of options, with assistance from specialists (EA?):
-   - *Solution Architect* : Assess existing options for reuse
-   - *Application Developer*: Assess technical aspects of potential options
-   - *Security Analyst*: Assess security aspects of potential options
+   - Solution Architect - Assess existing options for reuse
+   - Application Developer - Assess technical aspects of potential options
+   - Security Analyst - Assess security aspects of potential options
 1. For OSS options, determine if in-house and/or outsourced support is available (IITB Operations?)
 1. Calculate TCO (Total Cost of Ownership) of selected options (EA + Finance?)
 1. From the TCO analysis, decision is made on which component(s) will be bought and built (IITB Senior Management?)
@@ -99,19 +104,18 @@ Preference is given to open source solutions as they offer the benefits of SaaS 
 
 ### Compliance Assurance
 
-The above prioritization aligns with [Government of Canada Cloud Adoption Strategy: 2018 update](https://www.canada.ca/en/government/system/digital-government/modern-emerging-technologies/cloud-services/government-canada-cloud-adoption-strategy.html), which reads
+The above prioritization aligns with [Government of Canada Cloud Adoption Strategy: 2018 update](https://www.canada.ca/en/government/system/digital-government/modern-emerging-technologies/cloud-services/government-canada-cloud-adoption-strategy.html), which reads:
 
 <!--markdownlint-disable MD029-->
-> 3. Departmental and agency [Chief Information Officers] will select one of the following cloud service models, in the following order of priority:
-
-a. software as a service (SaaS)
-b. platform as a service (PaaS)
+> 3. Departmental and agency CIOs will select one of the following cloud service models, in the following order of priority:  
+a. software as a service (SaaS)  
+b. platform as a service (PaaS)  
 c. infrastructure as a service (IaaS)
 <!--markdownlint-enable MD029-->
 
 ## Terms
 
-OSS: Open Source Software
+OSS: Open Source Software  
 Open Standards: A publicly available set of specifications describing the characteristics of a hardware device or a software program
 
 ## Further Reading
