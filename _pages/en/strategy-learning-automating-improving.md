@@ -108,8 +108,6 @@ Strategies will be reviewed and updated quarterly based on current progress and 
 - ITS - ESDC support for GCcode
 - Communities such as OneTeamGov, GC DevOps League, Agora OSS...
 
----
-
 ### Appendix B - Upcoming strategies FY 2020-2021
 
 #### Work Using Agile Methodologies
@@ -118,15 +116,11 @@ Strategies will be reviewed and updated quarterly based on current progress and 
 - Work in iterations or sprints
 - Hold regular retrospectives
 
---
-
 #### Work in the Open
 
 - Make ongoing work and backlog visible
 - Promote the use of GitHub and GitLab (SaaS)
 - Support and use GCcode to share within the GC
-
---
 
 #### Product Management
 
