@@ -45,10 +45,10 @@ Strategies will be reviewed and updated quarterly based on current progress and 
 
 ##### Actions
 
-- **Create or use CATS codes for continuous improvement and learning**
 - **Make it a requirement in performance agreements of directors, managers and team leads**
-- **Encourage assignments with CDS-ESDC team or CSPS**
+- **Use CATS codes for continuous improvement and learning**
 - **Invest in training on agile for managers and team leads**
+- **Encourage assignments with CDS-ESDC team or CSPS**
 - **Invest to establish agile/DevOps Dojos for IT teams**
 
 ##### Guidance
@@ -66,12 +66,15 @@ Strategies will be reviewed and updated quarterly based on current progress and 
 ##### Actions
 
 - **Create cloud and desktop sandboxes (labs) for experimentation**
-  - **Make it easy to request access (self-service)**
-- **Create a safe environment for experimentation**
-  - **Organize regular informal meetings between senior management and a team/project that recently "failed"**
 - **[Unblock access to specific SaaS for IITB employees](web-services-access.html)**
+- **Organize regular informal meetings between senior management and a team/project that recently "failed"**
 - **Invest in Bandwidth, Data Loss Protection (DLP) and a Document Classification Tool to enable more open access to Internet**
 - **Add all approved desktop software, including commercial and OSS, to Application Catalogue**
+
+##### Guidance
+
+- Make it easy to request access to sandbox environments (self-service)
+- Create a safe environment for experimentation
 
 ### IT Strategy Will
 
@@ -97,6 +100,7 @@ Strategies will be reviewed and updated quarterly based on current progress and 
 #### Other things
 
 - Draft requirements for PMAs (20% time learn automate improve)
+- Create or identify CATS codes for continuous improvement and learning (300)
 - Push for more open access to tools
 - Review strategies for FY 2020-2021 Q1
 
