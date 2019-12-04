@@ -12,7 +12,7 @@ permalink: /web-services-access.html
 
 ### Purpose
 
-To seek approval and endorsement for IITB to enable open access to specific Software as a Service (SaaS) tools available on the Internet for IITB employees, as a first step toward providing more open access to the Internet for more groups of ESDC employees (e.g.: management).
+To seek endorsement for IITB to enable open access to specific Software as a Service (SaaS) tools available on the Internet for IITB employees, as a step towards enabling open access to the Internet for ESDC employees.
 
 ### Background
 
@@ -23,7 +23,7 @@ This Policy applies only to unclassified assets (data, information, code, ..).
 
 To be able to follow the Policy, ESDC needs better Data Loss Prevention (DLP), including a tool that monitors and enforces classification of files and emails before they can be transmitted on the Internet.
 
-Technical Architecture has started to include some SaaS in the ESDC Technology Bricks (GitHub, Trello and Slack), but these don't reflect what can be accessed on the ESDC network or what is currently being used by employees (See [Appendix B](#appendix-b---saas-already-unblocked)).
+Architecture has started to include some SaaS in the ESDC Technology Bricks (GitHub, Trello and Slack), but these don't reflect what can be accessed on the ESDC network or what is currently being used by employees (See [Appendix B](#appendix-b---saas-already-unblocked)).
 
 The value add of technology bricks and technology standards regarding SaaS needs to be re-evaluated by considering the shared responsibility model of SaaS.
 More specifically that the maintenance and upkeep efforts of SaaS does not impact ESDC.
@@ -36,22 +36,22 @@ The GC Digital Academy and Free Agents, as well as other groups, frequently use 
 
 ### Recommendations
 
-To comply to the new Policy on Service and Digital, ESDC needs to:
+To support the adoption of the new [Policy on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603), ESDC needs to:
 
-- Enable additional SaaS tools (See [Appendix A](#appendix-a---saas-to-unblock)) for IITB employees as a first step toward providing more open access to the Internet for more groups of ESDC employees.
+- Enable additional SaaS tools (See [Appendix A](#appendix-a---saas-to-enable)) for IITB employees as a step towards enabling open access to the Internet for ESDC employees.
 - Evaluate security monitoring tools to mitigate risks associated with more open access to the Internet SaaS tools.
 - Review its technology brick criteria by considering the shared responsibility model of SaaS
 
 ### Next Steps
 
-Should you approve, the IT Strategy team will work with teams in IITB to:
+The IT Strategy team will work with teams in IITB to:
 
-- Ensure the following SaaS (See [Appendix A](#appendix-a---saas-to-unblock)) are available and functional on the network for IITB employees
+- Ensure the following SaaS (See [Appendix A](#appendix-a---saas-to-enable)) are available and functional on the network for IITB employees
 - Increase IITB employees' understanding of document classification and review access rights to data and information
 - Perform an options analysis for tools to manage and monitor use of SaaS on the network
 - Work with Technical Architecture in reviewing the criteria and value add for technology bricks for SaaS
 
-## Appendix A - SaaS to unblock
+## Appendix A - SaaS to Enable
 
 ### Collaboration
 
