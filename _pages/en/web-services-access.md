@@ -21,56 +21,98 @@ This Policy applies only to unclassified assets (data, information, code, ..).
 
 ### Issue
 
-To be able to follow the Policy, ESDC needs better Data Loss Prevention (DLP), including a tool that monitors and enforces classification of files and emails before they can be transmitted on the Internet.
+ESDC is currently blocking access to specific popular Web 2.0 collaboration tools like Google Docs, Google Hangouts and OneDrive.
+Even though TBS policy generally recommends open access to these tools, ESDC's rationale in blocking them has been primarily to prevent accidental leak of protected information from employees.
+This is a valid concern that must be mitigated with a balanced approach.
 
-Architecture has started to include some SaaS in the ESDC Technology Bricks (GitHub, Trello and Slack), but these don't reflect what can be accessed on the ESDC network or what is currently being used by employees (See [Appendix B](#appendix-b---saas-already-unblocked)).
+The proposed risk mitigation already on the table is to implement better Data Loss Prevention (DLP), including a tool that monitors and enforces classification of files and emails before they can be transmitted on the Internet.
+However, as the evaluated options so far can be costly, implementation is not being considered for the short term.
 
-The value add of technology bricks and technology standards regarding SaaS needs to be re-evaluated by considering the shared responsibility model of SaaS.
-More specifically that the maintenance and upkeep efforts of SaaS does not impact ESDC.
+In order to move forward, we propose a balanced approach in opening access to additional SaaS tools (See [Appendix A](#appendix-a---saas-to-enable)) to IITB employees in the short term, as a step toward more broader access in ESDC.
+As IITB employees generally don't deal with protected information and are well informed and trained on the management of information, we anticipate the risk to be minimal.
+On the other side, the benefits should bring great value such as enhancing collaboration and efficiency, increasing job satisfaction and helping in attracting and retaining IT talent.
+
+Following current procedure, the additional SaaS tools should be added to ESDC Technology Bricks (alongside other approved SaaS like GitHub, Trello and Slack).
+However, the value add of adding SaaS to Technology Bricks and Standards should be re-evaluated by considering the shared responsibility model of SaaS.
+For instance, the maintenance and upkeep efforts of SaaS does not impact ESDC.
+
+Finally, it is good to note that there is a discrepancy between the approved SaaS and what can actually be accessed on the network by employees (See [Appendix B](#appendix-b---saas-already-unblocked)).
 
 ### Considerations
 
 More departments are using SaaS to collaborate and engage with citizens and other public administrations in Canada and the world.
-For example, the latest Open Government Plan and the Service and Digital Target Architecture from TBS were shared as drafts for consultation using Google Docs.
+For example, the latest Open Government Plan and the Service and Digital Target Architecture from TBS were shared as drafts for consultation and comments on Google Docs.
 The GC Digital Academy and Free Agents, as well as other groups, frequently use Google Forms for registration.
 
 ### Recommendations
 
 To support the adoption of the new [Policy on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603), ESDC needs to:
 
-- Enable additional SaaS tools (See [Appendix A](#appendix-a---saas-to-enable)) for IITB employees as a step towards enabling open access to the Internet for ESDC employees.
-- Evaluate security monitoring tools to mitigate risks associated with more open access to the Internet SaaS tools.
-- Review its technology brick criteria by considering the shared responsibility model of SaaS
+- Enable additional SaaS tools (See [Appendix A](#appendix-a---saas-to-enable)) for IITB employees as a step towards enabling open access to the Internet for ESDC employees;
+- Perform a thorough evaluation of security monitoring tools, such as DLP, to mitigate future risks associated with broader open access to Internet SaaS tools.
+  Evaluate open source options and co-development with other organizations as well; and
+- Review its technology brick criteria by considering the shared responsibility model of SaaS.
 
 ### Next Steps
 
 The IT Strategy team will work with teams in IITB to:
 
-- Ensure the following SaaS (See [Appendix A](#appendix-a---saas-to-enable)) are available and functional on the network for IITB employees
-- Increase IITB employees' understanding of document classification and review access rights to data and information
-- Perform an options analysis for tools to manage and monitor use of SaaS on the network
-- Work with Technical Architecture in reviewing the criteria and value add for technology bricks for SaaS
+- Ensure the following SaaS (See [Appendix A](#appendix-a---saas-to-enable)) are available and functional on the network for IITB employees;
+- Ensure IITB employees' understanding of document classification and review access rights to data and information;
+- Support an Options Analysis for tools to manage and monitor use of SaaS on the network; and
+- Review with Technical Architecture the criteria and value add of SaaS in technology bricks.
 
 ## Appendix A - SaaS to Enable
 
-### Collaboration
+### Instant Messaging (room-based)
+
+#### Benefits
+
+- Don't be restricted by Slack free plan of having access only to the 10 000 most recent messages
+- Ability to encrypt communications (can be a good practice even for unclassifed information)
+
+|             | URL           | Notes  |
+| ----------- |:-------------:| ------:|
+| Riot IM | https://riot.im |  |
+| RocketChat | https://open.rocket.chat |  |
+| Slack (Websockets) | https://slack.com |  |
+
+### Document Editing
+
+#### Benefits
+
+- Read, co-create, review and share documents
 
 |             | URL           | Notes  |
 | ----------- |:-------------:| ------:|
 | Google Docs (Sheets, Slides, Forms) | https://docs.google.com |  |
+
+### Webconference
+
+#### Benefits
+
+- Meet with external stakeholders without the need to install or run a WebEx plugin (with sometimes limited success)
+
+|             | URL           | Notes  |
+| ----------- |:-------------:| ------:|
 | Google Hangouts | https://hangouts.google.com |  |
-| Riot IM | https://riot.im |  |
-| RocketChat | https://open.rocket.chat |  |
-| Slack | https://slack.com | Websockets blocked |
 | Jitsi Meet | https://meet.jit.si |  |
 
 ### Version Control System (VCS) and Project Management
+
+#### Benefits
+
+- Work on GitHub with SSH keys for better security
 
 |             | URL           | Notes  |
 | ----------- |:-------------:| ------:|
 | Github | https://github.com | Websockets and SSH blocked |
 
 ### Email
+
+#### Benefits
+
+- Exchange with external IT professionals with a single email address (until @canada.ca)
 
 |             | URL           | Notes  |
 | ----------- |:-------------:| ------:|
@@ -79,6 +121,10 @@ The IT Strategy team will work with teams in IITB to:
 | Yahoo Mail | https://mail.yahoo.com |  |
 
 ### File storage
+
+#### Benefits
+
+- Share and collaborate on documents with external stakeholders
 
 |             | URL           | Notes  |
 | ----------- |:-------------:| ------:|
@@ -91,6 +137,10 @@ The IT Strategy team will work with teams in IITB to:
 
 ### Online learning and sandboxes
 
+#### Benefits
+
+- Experiment and learn Docker
+
 |             | URL           | Notes  |
 | ----------- |:-------------:| ------:|
 | Docker Playground | https://labs.play-with-docker.com | Websockets blocked |
@@ -99,17 +149,12 @@ The IT Strategy team will work with teams in IITB to:
 
 Note: Inconsistent browser configurations (Websockets, 3rd party cookies blocked), SSH blocked
 
-### Collaboration
+### Document Editing
 
 |             | URL           | Notes  |
 | ----------- |:-------------:| ------:|
-| Doodle | https://www.doodle.com |  |
-| Eventbrite | https://www.eventbrite.ca |  |
 | Framapad |  https://framapad.org |  |
 | Office365 (pilot) | https://www.office.com |  |
-| Slido | https://www.sli.do |  |
-| Survey Monkey | https://www.surveymonkey.com |  |
-| Wikipedia | https://www.wikipedia.org |  |
 | Zoho | https://www.zoho.com |  |
 | ... |  |  |
 
@@ -171,4 +216,14 @@ Note: Inconsistent browser configurations (Websockets, 3rd party cookies blocked
 | ----------- |:-------------:| ------:|
 | Vimeo | https://vimeo.com |  |
 | YouTube | https://www.youtube.com |  |
+| ... |  |  |
+
+### Other
+
+|             | URL           | Notes  |
+| ----------- |:-------------:| ------:|
+| Doodle | https://www.doodle.com |  |
+| Eventbrite | https://www.eventbrite.ca |  |
+| Slido | https://www.sli.do |  |
+| Survey Monkey | https://www.surveymonkey.com |  |
 | ... |  |  |
