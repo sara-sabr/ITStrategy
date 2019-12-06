@@ -21,28 +21,28 @@ This Policy applies only to unclassified assets (data, information, code, ..).
 
 ### Issue
 
-ESDC is currently blocking access to specific popular Web 2.0 collaboration tools like Google Docs, Google Hangouts and OneDrive.
-Even though TBS policy generally recommends open access to these tools, ESDC's rationale in blocking them has been primarily to prevent accidental leak of protected information from employees.
+ESDC is currently blocking access to specific Web 2.0 collaboration tools like Google Docs, Google Hangouts and OneDrive.
+Even though TBS policy generally recommends open access to these tools, ESDC's rationale for blocking them has been primarily to prevent accidental leak of protected information from employees.
 This is a valid concern that must be mitigated with a balanced approach.
 
-The proposed risk mitigation already on the table is to implement better Data Loss Prevention (DLP), including a tool that monitors and enforces classification of files and emails before they can be transmitted on the Internet.
+The proposed risk mitigation would be to augment the current Data Loss Prevention (DLP) by adding a tool that monitors and enforces classification of files and emails before they can be transmitted on the Internet.
 However, as the evaluated options so far can be costly, implementation is not being considered for the short term.
 
-In order to move forward, we propose a balanced approach in opening access to additional SaaS tools (See [Appendix A](#appendix-a---saas-to-enable)) to IITB employees in the short term, as a step toward more broader access in ESDC.
-As IITB employees generally don't deal with protected information and are well informed and trained on the management of information, we anticipate the risk to be minimal.
-On the other side, the benefits should bring great value such as enhancing collaboration and efficiency, increasing job satisfaction and helping in attracting and retaining IT talent.
-
-Following current procedure, the additional SaaS tools should be added to ESDC Technology Bricks (alongside other approved SaaS like GitHub, Trello and Slack).
+Following current procedure, the additional SaaS tools would need to be added to ESDC Technology Bricks (alongside other approved SaaS like GitHub, Trello and Slack).
 However, the value add of adding SaaS to Technology Bricks and Standards should be re-evaluated by considering the shared responsibility model of SaaS.
 For instance, the maintenance and upkeep efforts of SaaS does not impact ESDC.
 
-Finally, it is good to note that there is a discrepancy between the approved SaaS and what can actually be accessed on the network by employees (See [Appendix B](#appendix-b---saas-already-unblocked)).
+Finally, there is a discrepancy between the approved SaaS and what can actually be accessed on the network by employees (See [Appendix B](#appendix-b---saas-already-unblocked)).
 
 ### Considerations
 
 More departments are using SaaS to collaborate and engage with citizens and other public administrations in Canada and the world.
 For example, the latest Open Government Plan and the Service and Digital Target Architecture from TBS were shared as drafts for consultation and comments on Google Docs.
 The GC Digital Academy and Free Agents, as well as other groups, frequently use Google Forms for registration.
+
+In order to move forward, we propose a balanced approach in opening access to additional SaaS tools (See [Appendix A](#appendix-a---saas-to-enable)) to IITB employees in the short term, as a step toward more broader access in ESDC.
+As IITB employees generally don't deal with protected information and are well informed and trained on the management of information, we anticipate the risk to be minimal.
+On the other side, the benefits should bring great value such as enhancing collaboration and efficiency, increasing job satisfaction and helping in attracting and retaining IT talent.
 
 ### Recommendations
 
