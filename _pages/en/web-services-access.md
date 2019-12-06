@@ -69,7 +69,7 @@ The IT Strategy team will work with teams in IITB to:
 #### Benefits
 
 - Don't be restricted by Slack free plan of having access only to the 10 000 most recent messages
-- Ability to encrypt communications (can be a good practice even for unclassifed information)
+- Ability to encrypt communications (can be a good practice even for unclassified information)
 
 |             | URL           | Notes  |
 | ----------- |:-------------:| ------:|
