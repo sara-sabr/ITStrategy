@@ -12,7 +12,7 @@ permalink: /web-services-access.html
 
 ### Purpose
 
-To seek endorsement for IITB to enable open access to specific Software as a Service (SaaS) tools available on the Internet for IITB employees, as a step towards enabling open access to the Internet for ESDC employees.
+To seek endorsement for IITB to enable open access to specific Web 2.0 Software as a Service (SaaS) tools available on the Internet for IITB employees, as a step towards enabling open access to the Internet for ESDC employees.
 
 ### Background
 
@@ -25,14 +25,8 @@ ESDC is currently blocking access to specific Web 2.0 collaboration tools like G
 Even though TBS policy generally recommends open access to these tools, ESDC's rationale for blocking them has been primarily to prevent accidental leak of protected information from employees.
 This is a valid concern that must be mitigated with a balanced approach.
 
-The proposed risk mitigation would be to augment the current Data Loss Prevention (DLP) by adding a tool that monitors and enforces classification of files and emails before they can be transmitted on the Internet.
+The proposed risk mitigation is to augment the current Data Loss Prevention (DLP) with a tool that monitors and enforces classification of files and emails before they can be transmitted on the Internet.
 However, as the evaluated options so far can be costly, implementation is not being considered for the short term.
-
-Following current procedure, the additional SaaS tools would need to be added to ESDC Technology Bricks (alongside other approved SaaS like GitHub, Trello and Slack).
-However, the value add of adding SaaS to Technology Bricks and Standards should be re-evaluated by considering the shared responsibility model of SaaS.
-For instance, the maintenance and upkeep efforts of SaaS does not impact ESDC.
-
-Finally, there is a discrepancy between the approved SaaS and what can actually be accessed on the network by employees (See [Appendix B](#appendix-b---saas-already-unblocked)).
 
 ### Considerations
 
@@ -48,19 +42,16 @@ On the other side, the benefits should bring great value such as enhancing colla
 
 To support the adoption of the new [Policy on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603), ESDC needs to:
 
-- Enable additional SaaS tools (See [Appendix A](#appendix-a---saas-to-enable)) for IITB employees as a step towards enabling open access to the Internet for ESDC employees;
-- Perform a thorough evaluation of security monitoring tools, such as DLP, to mitigate future risks associated with broader open access to Internet SaaS tools.
-  Evaluate open source options and co-development with other organizations as well; and
-- Review its technology brick criteria by considering the shared responsibility model of SaaS.
+- Enable additional Web 2.0 SaaS tools (See [Appendix A](#appendix-a---saas-to-enable)) for IITB employees as a step towards enabling open access to the Internet for ESDC employees; and
+- Perform a thorough evaluation of security monitoring tools, such as DLP, to mitigate future risks associated with broader open access to Internet SaaS tools. Evaluate open source options and co-development with other organizations as well.
 
 ### Next Steps
 
 The IT Strategy team will work with teams in IITB to:
 
-- Ensure the following SaaS (See [Appendix A](#appendix-a---saas-to-enable)) are available and functional on the network for IITB employees;
+- Ensure the following Web 2.0 SaaS tools (See [Appendix A](#appendix-a---saas-to-enable)) are available and functional on the network for IITB employees;
 - Ensure IITB employees' understanding of document classification and review access rights to data and information;
-- Support an Options Analysis for tools to manage and monitor use of SaaS on the network; and
-- Review with Technical Architecture the criteria and value add of SaaS in technology bricks.
+- Support an options analysis for tools to manage and monitor use of SaaS on the network.
 
 ## Appendix A - SaaS to Enable
 
@@ -119,6 +110,9 @@ The IT Strategy team will work with teams in IITB to:
 | Google Mail | https://mail.google.com |  |
 | Outlook | https://outlook.live.com |  |
 | Yahoo Mail | https://mail.yahoo.com |  |
+| Fastmail | https://www.fastmail.com |  |
+| Mailbox.org | https://mailbox.org |  |
+| Posteo | https://posteo.de |  |
 
 ### File storage
 
