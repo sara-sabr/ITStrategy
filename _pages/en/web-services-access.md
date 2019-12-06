@@ -87,7 +87,7 @@ The IT Strategy team will work with teams in IITB to:
 | ----------- |:-------------:| ------:|
 | Google Docs (Sheets, Slides, Forms) | https://docs.google.com |  |
 
-### Webconference
+### Web Conferencing
 
 #### Benefits
 
