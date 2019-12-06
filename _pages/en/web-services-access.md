@@ -25,7 +25,7 @@ ESDC is currently blocking access to specific Web 2.0 collaboration tools like G
 Even though TBS policy generally recommends open access to these tools, ESDC's rationale for blocking them has been primarily to prevent accidental leak of protected information from employees.
 This is a valid concern that must be mitigated with a balanced approach.
 
-The proposed risk mitigation is to augment the current Data Loss Prevention (DLP) with a tool that monitors and enforces classification of files and emails before they can be transmitted on the Internet.
+The already proposed risk mitigation is to augment the current Data Loss Prevention (DLP) with a tool that monitors and enforces classification of files and emails before they can be transmitted on the Internet.
 However, as the evaluated options so far can be costly, implementation is not being considered for the short term.
 
 ### Considerations
@@ -43,7 +43,7 @@ On the other side, the benefits should bring great value such as enhancing colla
 To support the adoption of the new [Policy on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603), ESDC needs to:
 
 - Enable additional Web 2.0 SaaS tools (See [Appendix A](#appendix-a---saas-to-enable)) for IITB employees as a step towards enabling open access to the Internet for ESDC employees; and
-- Perform a thorough evaluation of security monitoring tools, such as DLP, to mitigate future risks associated with broader open access to Internet SaaS tools. Evaluate open source options and co-development with other organizations as well.
+- Perform a thorough evaluation of security monitoring tools, active at the source (application and database) and the perimeter (DLP), to mitigate future risks associated with broader open access to Internet SaaS tools.
 
 ### Next Steps
 
@@ -51,7 +51,7 @@ The IT Strategy team will work with teams in IITB to:
 
 - Ensure the following Web 2.0 SaaS tools (See [Appendix A](#appendix-a---saas-to-enable)) are available and functional on the network for IITB employees;
 - Ensure IITB employees' understanding of document classification and review access rights to data and information;
-- Support an options analysis for tools to manage and monitor use of SaaS on the network.
+- Assist with an options analysis of tools to manage and monitor the access and transmission of information on the network.
 
 ## Appendix A - SaaS to Enable
 
