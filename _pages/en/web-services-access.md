@@ -21,12 +21,14 @@ This Policy applies only to unclassified assets (data, information, code, ..).
 
 ### Issue
 
-ESDC is currently blocking access to specific Web 2.0 collaboration tools like Google Docs, Google Hangouts and OneDrive.
+ESDC is currently blocking access to specific SaaS tools like Google Docs, Google Hangouts and OneDrive.
 Even though TBS policy generally recommends open access to these tools, ESDC's rationale for blocking them has been primarily to prevent accidental leak of protected information from employees.
 This is a valid concern that must be mitigated with a balanced approach.
 
 The already proposed risk mitigation is to augment the current Data Loss Prevention (DLP) with a tool that monitors and enforces classification of files and emails before they can be transmitted on the Internet.
 However, as the evaluated options so far can be costly, implementation is not being considered for the short term.
+
+Finally, it's worth noting that some SaaS tools can be accessed on the ESDC network and could be used by employees (See [Appendix B](#appendix-b---saas-already-unblocked)).
 
 ### Considerations
 
