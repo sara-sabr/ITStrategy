@@ -28,7 +28,7 @@ This is a valid concern that must be mitigated with a balanced approach.
 The already proposed risk mitigation is to augment the Data Loss Prevention (DLP) capability with a tool that enforces classification of documents and emails.
 However, as the evaluated options so far can be costly, implementation is not being considered for the short term.
 
-Finally, it's worth noting that some SaaS tools can be accessed on the ESDC network and could be used by employees (See [Appendix B](#appendix-b---saas-already-unblocked)).
+Finally, it's worth noting that some SaaS tools can be accessed on the ESDC network and could be used by employees (See [Appendix B](#appendix-b---web-tools-already-accessible)).
 
 ### Considerations
 
