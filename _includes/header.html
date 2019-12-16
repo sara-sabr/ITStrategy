@@ -1,14 +1,49 @@
 <header>
-  <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+  <nav class="navbar navbar-expand-md navbar-light fixed-top bg-light">
+    <div class="container-fluid">
     <a class="navbar-brand" href="{% if page.lang == 'en' %}{{ site.baseurl }}/{{ site.index.en }}{% else %}{{ site.baseurl }}/{{ site.index.fr }}{% endif %}">{{ site.title[page.lang] }}</a>
 
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#Menu1" aria-controls="Menu1" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
+      <span class="custom-toggler-icon"><i class="fas fa-bars"></i></span>
     </button>
 
-    <div class="collapse navbar-collapse" id="Menu1">
+      <div class="collapse navbar-collapse" id="Menu1">
       <!-- Menu -->
-      <ul class="navbar-nav mr-auto">
+      <ul class="navbar-nav ml-auto">
+        <!--About Us - A propos de nous-->
+        <li class="nav-item dropdown">
+          {%-assign dropdown_section=site.sectionsList[page.lang][0]-%}
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            {{ dropdown_section }}
+          </a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+            {%-assign pages=site.pages | where:"sections", {{dropdown_section}}-%}
+            {%- for my_page in pages -%}
+            {% if my_page.lang == page.lang %}
+            <a class="dropdown-item" lang="{{ my_page.lang }}" hreflang="{{ my_page.lang }}"
+                href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+            {%- endif -%}
+            {%- endfor -%}
+          </div>
+        </li>
+        <!--Our Strategies - Nos stratégies-->
+        <li class="nav-item dropdown">
+          {%-assign dropdown_section=site.sectionsList[page.lang][1]-%}
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown"
+            aria-haspopup="true" aria-expanded="false">
+            {{ site.strategies[page.lang] }}
+          </a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+            {%-assign pages=site.pages | where:"sections", {{dropdown_section}}-%}
+            {%- for my_page in pages -%}
+            {% if my_page.lang == page.lang %}
+            <a class="dropdown-item" lang="{{ my_page.lang }}" hreflang="{{ my_page.lang }}"
+              href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+            {%- endif -%}
+            {%- endfor -%}
+          </div>
+        </li>
+
         {%- assign pages=site.pages | where:"ref", "documents" | sort: 'lang' -%}
         {%- for my_page in pages -%}
           {% if my_page.lang == page.lang %}
@@ -40,11 +75,13 @@
           {%- endif -%}
         {%- endfor -%}
       </ul>
-    </div>
+    </div>  <!--Menu1-->
+    </div> <!--container-->
   </nav>
 </header>
+
 <div class="content">
-  
+
 <div class="jumbotron">
   <div class="container">
     <h1 class="display-3">{{ site.title[page.lang] }}</h1>
