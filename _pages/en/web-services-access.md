@@ -65,7 +65,7 @@ The IT Strategy team will work with teams in IITB to:
 | ----------- |:-------------:| ------:|
 | Hack Chat | https://hack.chat |  |
 | Gitter | https://gitter.im |  |
-| Riot IM | https://riot.im | Client for Matrix homeservers |
+| Riot IM | https://riot.im | Client for Matrix homeserver |
 | RocketChat | https://open.rocket.chat |  |
 | Slack | https://slack.com | Websockets blocked |
 

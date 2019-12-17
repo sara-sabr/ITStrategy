@@ -178,7 +178,8 @@
     "Fastmail",
     "Posteo",
     "Zulip",
-    "Gitter"
+    "Gitter",
+    "Homeserver"
   ],
   "flagWords": [],
   "dictionaries": [
