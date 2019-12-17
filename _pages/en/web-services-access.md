@@ -137,6 +137,7 @@ Note: Inconsistent browser configurations (Websockets, 3rd party cookies blocked
 | Name        | URL           | Notes  |
 | ----------- |:-------------:| ------:|
 | Zulip | https://zulipchat.com |  |
+| ... |  |  |
 
 ### Document Editing
 
@@ -152,6 +153,7 @@ Note: Inconsistent browser configurations (Websockets, 3rd party cookies blocked
 | Name        | URL           | Notes  |
 | ----------- |:-------------:| ------:|
 | Zoom | https://zoom.us |  |
+| ... |  |  |
 
 ### Version Control System (VCS) and Project Management
 
