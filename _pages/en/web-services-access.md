@@ -65,7 +65,7 @@ The IT Strategy team will work with teams in IITB to:
 | ----------- |:-------------:| ------:|
 | Hack Chat | https://hack.chat |  |
 | Gitter | https://gitter.im |  |
-| Riot IM | https://riot.im |  |
+| Riot IM | https://riot.im | Client for Matrix homeservers |
 | RocketChat | https://open.rocket.chat |  |
 | Slack | https://slack.com | Websockets blocked |
 
@@ -136,6 +136,8 @@ Note: Inconsistent browser configurations (Websockets, 3rd party cookies blocked
 
 | Name        | URL           | Notes  |
 | ----------- |:-------------:| ------:|
+| Librem One Chat | https://chat.librem.one | Homeserver only, requires client |
+| Matrix.org | https://matrix.org | Homeserver only, requires client |
 | Zulip | https://zulipchat.com |  |
 | ... |  |  |
 
@@ -201,7 +203,7 @@ Note: Inconsistent browser configurations (Websockets, 3rd party cookies blocked
 | Name        | URL           | Notes  |
 | ----------- |:-------------:| ------:|
 | Facebook | https://www.facebook.com |  |
-| Librem One | https://librem.one |  |
+| Librem One | https://social.librem.one |  |
 | Linkedin | https://www.linkedin.com |  |
 | Mastodon | https://mastodon.social |  |
 | Twitter | https://twitter.com |  |
