@@ -12,7 +12,7 @@ permalink: /web-services-access.html
 
 ### Purpose
 
-To seek endorsement of granting access to more collaboration Web tools for IITB employees, as a step toward broader open access to the Internet for all ESDC employees.
+To seek endorsement for granting access to more Web tools or Software as a Service (SaaS) for IITB employees, as a step toward broader open access to the Internet for all ESDC employees.
 
 ### Background
 
@@ -22,13 +22,12 @@ The policy applies only to unclassified interactions (data, information, code, e
 ### Issue
 
 ESDC is currently blocking access to some popular and useful collaboration Web tools like Google Docs, Google Hangouts and OneDrive.
-Even though TBS policy recommends open access to these tools by default, ESDC's rationale for blocking them has been primarily to prevent accidental leak of protected information from employees.
-This is a valid concern that must be mitigated with a balanced approach.
+Even though TBS policy recommends open access to these tools by default, ESDC's rationale for blocking them is primarily to prevent accidental leak of protected information by employees.
 
 The already proposed risk mitigation is to augment the Data Loss Prevention (DLP) capability with a tool that enforces classification of documents and emails.
 However, as the evaluated options so far can be costly, implementation is not being considered for the short term.
 
-Finally, it's worth noting that some SaaS tools can be accessed on the ESDC network and could be used by employees (See [Appendix B](#appendix-b---web-tools-already-accessible)).
+Finally, it's worth noting that some Web tools can already be accessed on the ESDC network and are being used by employees (See [Appendix B](#appendix-b---web-tools-already-accessible)).
 
 ### Considerations
 
@@ -45,7 +44,7 @@ On the other side, the benefits should bring great value such as enhancing colla
 To support the adoption of the new [Policy on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603), ESDC needs to:
 
 - Grant access to additional Web tools (see [Appendix A](#appendix-a---web-tools-to-grant-access)) for IITB employees, as a step toward broader open access to the Internet for ESDC employees; and
-- Perform an evaluation of security monitoring tools, active at the source (application and database) and the perimeter (DLP), to mitigate future risks associated with broader open access to Web tools.
+- Perform an evaluation of security monitoring tools, active at the source (application and database) and the perimeter (DLP), to mitigate future risks associated with broader open access to the Internet.
 
 ### Next Steps
 
@@ -60,10 +59,12 @@ The IT Strategy team will work with teams in IITB to:
 
 ### Instant Messaging (room-based)
 
-**Benefit:** Access and search more than 10k messages (limitation of Slack free plan), Encrypt storage of messages
+**Benefit:** Access and search more than 10k messages (limitation of Slack free plan), Encrypt storage of messages, Get real-time updates on website (e.g. notifications)
 
 | Name            | URL           | Notes  |
 | ----------- |:-------------:| ------:|
+| Hack Chat | https://hack.chat |  |
+| Gitter | https://gitter.im |  |
 | Riot IM | https://riot.im |  |
 | RocketChat | https://open.rocket.chat |  |
 | Slack | https://slack.com | Websockets blocked |
@@ -82,6 +83,7 @@ The IT Strategy team will work with teams in IITB to:
 
 | Name        | URL           | Notes  |
 | ----------- |:-------------:| ------:|
+| BlueJeans | https://www.bluejeans.com |  |
 | Google Hangouts | https://hangouts.google.com |  |
 | Jitsi Meet | https://meet.jit.si |  |
 
@@ -144,6 +146,12 @@ Note: Inconsistent browser configurations (Websockets, 3rd party cookies blocked
 | Office365 (pilot) | https://www.office.com |  |
 | Zoho | https://www.zoho.com |  |
 | ... |  |  |
+
+### Web Conferencing
+
+| Name        | URL           | Notes  |
+| ----------- |:-------------:| ------:|
+| Zoom | https://zoom.us |  |
 
 ### Version Control System (VCS) and Project Management
 
