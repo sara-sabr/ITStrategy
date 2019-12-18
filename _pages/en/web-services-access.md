@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Enabling Access to Web Services and Tools at ESDC
+title: Granting access to Web tools at ESDC
 ref: web-services-access
 lang: en
 status: posted
@@ -8,134 +8,178 @@ sections: Work In Progress
 permalink: /web-services-access.html
 ---
 
-## Enabling Access to Web Services and Tools at ESDC
+## Granting access to Web tools at ESDC
 
 ### Purpose
 
-To seek approval and endorsement for IITB to enable open access to specific Software as a Service (SaaS) tools available on the Internet for IITB employees, as a first step toward providing more open access to the Internet for more groups of ESDC employees (e.g.: management).
+To seek endorsement for granting access to more Web tools or Software as a Service (SaaS) for IITB employees, as a step toward broader open access to the Internet for all ESDC employees.
 
 ### Background
 
 The upcoming [Policy on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603) replaces the [Policy on Acceptable Network and Device Use (PANDU)](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=27122) but keeps the intent to "provide open access to Internet tools and services to support public servants in their work duties, enhance collaboration and networking with their peers".
-This Policy applies only to unclassified assets (data, information, code, ..).
+The policy applies only to unclassified interactions (data, information, code, etc.).
 
 ### Issue
 
-To be able to follow the Policy, ESDC needs better Data Loss Prevention (DLP), including a tool that monitors and enforces classification of files and emails before they can be transmitted on the Internet.
+ESDC is currently blocking access to some popular and useful collaboration Web tools like Google Docs, Google Hangouts and OneDrive.
+Even though TBS policy recommends open access to these tools by default, ESDC's rationale for blocking them is primarily to prevent accidental leak of protected information by employees.
 
-Technical Architecture has started to include some SaaS in the ESDC Technology Bricks (GitHub, Trello and Slack), but these don't reflect what can be accessed on the ESDC network or what is currently being used by employees (See [Appendix B](#appendix-b---saas-already-unblocked)).
+The already proposed risk mitigation is to augment the Data Loss Prevention (DLP) capability with a tool that enforces classification of documents and emails.
+However, as the evaluated options so far can be costly, implementation is not being considered for the short term.
 
-The value add of technology bricks and technology standards regarding SaaS needs to be re-evaluated by considering the shared responsibility model of SaaS.
-More specifically that the maintenance and upkeep efforts of SaaS does not impact ESDC.
+Finally, it's worth noting that some Web tools can already be accessed on the ESDC network and are being used by employees (See [Appendix B](#appendix-b---web-tools-already-accessible)).
 
 ### Considerations
 
-More departments are using SaaS to collaborate and engage with citizens and other public administrations in Canada and the world.
-For example, the latest Open Government Plan and the Service and Digital Target Architecture from TBS were shared as drafts for consultation using Google Docs.
+Departments are leveraging Web tools to collaborate and engage with citizens and public administrations in Canada and the world.
+For example, the latest Open Government Plan and Service and Digital Target Architecture from TBS were shared as drafts for consultation and comments on Google Docs.
 The GC Digital Academy and Free Agents, as well as other groups, frequently use Google Forms for registration.
+
+In order to move forward, we propose a balanced approach in granting access to additional Web tools (See [Appendix A](#appendix-a---web-tools-to-grant-access)) only for IITB employees in the short term, as a step toward broader access in ESDC.
+As IITB employees generally don't deal with protected information and are well informed and trained on the management of information, we anticipate the risk to be minimal.
+On the other side, the benefits should bring great value such as enhancing collaboration and efficiency, increasing job satisfaction and helping attract and retain IT talent.
 
 ### Recommendations
 
-To comply to the new Policy on Service and Digital, ESDC needs to:
+To support the adoption of the new [Policy on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603), ESDC needs to:
 
-- Enable additional SaaS tools (See [Appendix A](#appendix-a---saas-to-unblock)) for IITB employees as a first step toward providing more open access to the Internet for more groups of ESDC employees.
-- Evaluate security monitoring tools to mitigate risks associated with more open access to the Internet SaaS tools.
-- Review its technology brick criteria by considering the shared responsibility model of SaaS
+- Grant access to additional Web tools (see [Appendix A](#appendix-a---web-tools-to-grant-access)) for IITB employees, as a step toward broader open access to the Internet for ESDC employees;
+- Perform an evaluation of security monitoring tools, active at the source (application and database) and the perimeter (DLP), to mitigate future risks associated with broader open access to the Internet; and
+- Review access rights to data and information.
 
 ### Next Steps
 
-Should you approve, the IT Strategy team will work with teams in IITB to:
+The IT Strategy team will work with teams in IITB to:
 
-- Ensure the following SaaS (See [Appendix A](#appendix-a---saas-to-unblock)) are available and functional on the network for IITB employees
-- Increase IITB employees' understanding of document classification and review access rights to data and information
-- Perform an options analysis for tools to manage and monitor use of SaaS on the network
-- Work with Technical Architecture in reviewing the criteria and value add for technology bricks for SaaS
+- Ensure the following Web tools (see [Appendix A](#appendix-a---web-tools-to-grant-access)) are functional on the network for IITB employees;
+- Ensure IITB employees' understanding of document classification and that Web tools available on the Internet are only to be used with unclassified data and information; and
+- Assist with an options analysis of document classification tools.
 
-## Appendix A - SaaS to unblock
+## Appendix A - Web tools to grant access
 
-### Collaboration
+### Instant Messaging (room-based)
 
-|             | URL           | Notes  |
+**Benefit:** Access and search more than 10k messages (limitation of Slack free plan), Encrypt storage of messages, Get real-time updates on website (e.g. notifications)
+
+| Name            | URL           | Notes  |
 | ----------- |:-------------:| ------:|
-| Google Docs (Sheets, Slides, Forms) | https://docs.google.com |  |
-| Google Hangouts | https://hangouts.google.com |  |
-| Riot IM | https://riot.im |  |
+| Hack Chat | https://hack.chat |  |
+| Gitter | https://gitter.im |  |
+| Riot IM | https://riot.im | Client for Matrix homeserver |
 | RocketChat | https://open.rocket.chat |  |
 | Slack | https://slack.com | Websockets blocked |
+
+### Document Editing
+
+**Benefit:** Share, review and co-create documents with stakeholders (e.g. other departments, governments, private sector)
+
+| Name        | URL           | Notes  |
+| ----------- |:-------------:| ------:|
+| Google Docs (incl. Sheets, Slides, Forms) | https://docs.google.com |  |
+
+### Web Conferencing
+
+**Benefit:** Meet virtually with external stakeholders without installing or running a plugin (with sometimes limited success)
+
+| Name        | URL           | Notes  |
+| ----------- |:-------------:| ------:|
+| BlueJeans | https://www.bluejeans.com |  |
+| Google Hangouts | https://hangouts.google.com |  |
 | Jitsi Meet | https://meet.jit.si |  |
 
 ### Version Control System (VCS) and Project Management
 
-|             | URL           | Notes  |
+**Benefit:** Authenticate with SSH keys (better security), Get real-time updates on website (Issues, Pull Requests, Kanban Board, etc.)
+
+| Name        | URL           | Notes  |
 | ----------- |:-------------:| ------:|
 | Github | https://github.com | Websockets and SSH blocked |
 
 ### Email
 
-|             | URL           | Notes  |
+**Benefit:** Improve work–life balance (without having to find workarounds)
+
+| Name        | URL           | Notes  |
 | ----------- |:-------------:| ------:|
 | Google Mail | https://mail.google.com |  |
 | Outlook | https://outlook.live.com |  |
 | Yahoo Mail | https://mail.yahoo.com |  |
+| Fastmail | https://www.fastmail.com |  |
+| Mailbox.org | https://mailbox.org |  |
+| Posteo | https://posteo.de |  |
 
-### File storage
+### File Storage
 
-|             | URL           | Notes  |
+**Benefit:** Share and collaborate on documents with external stakeholders
+
+| Name        | URL           | Notes  |
 | ----------- |:-------------:| ------:|
 | Dropbox | https://www.dropbox.com |  |
 | Framadrop | https://framadrop.org |  |
 | Google Drive | https://drive.google.com |  |
-| Linshare | https://www.linshare.org |  |
 | OneDrive | https://onedrive.live.com |  |
 | pCloud | https://www.pcloud.com |  |
 
-### Online learning and sandboxes
+### Online Learning and Sandbox
 
-|             | URL           | Notes  |
+**Benefit:** Experiment and learn modern technologies
+
+| Name        | URL           | Notes  |
 | ----------- |:-------------:| ------:|
 | Docker Playground | https://labs.play-with-docker.com | Websockets blocked |
 
-## Appendix B - SaaS already unblocked
+## Appendix B - Web tools already accessible
 
 Note: Inconsistent browser configurations (Websockets, 3rd party cookies blocked), SSH blocked
 
-### Collaboration
+### Instant Messaging (room-based)
 
-|             | URL           | Notes  |
+| Name        | URL           | Notes  |
 | ----------- |:-------------:| ------:|
-| Doodle | https://www.doodle.com |  |
-| Eventbrite | https://www.eventbrite.ca |  |
+| Librem One Chat | https://chat.librem.one | Homeserver only, requires client |
+| Matrix.org | https://matrix.org | Homeserver only, requires client |
+| Zulip | https://zulipchat.com |  |
+| ... |  |  |
+
+### Document Editing
+
+| Name        | URL           | Notes  |
+| ----------- |:-------------:| ------:|
 | Framapad |  https://framapad.org |  |
 | Office365 (pilot) | https://www.office.com |  |
-| Slido | https://www.sli.do |  |
-| Survey Monkey | https://www.surveymonkey.com |  |
-| Wikipedia | https://www.wikipedia.org |  |
 | Zoho | https://www.zoho.com |  |
+| ... |  |  |
+
+### Web Conferencing
+
+| Name        | URL           | Notes  |
+| ----------- |:-------------:| ------:|
+| Zoom | https://zoom.us |  |
 | ... |  |  |
 
 ### Version Control System (VCS) and Project Management
 
-|             | URL           | Notes  |
+| Name        | URL           | Notes  |
 | ----------- |:-------------:| ------:|
 | Bitbucket | https://bitbucket.org |  |
 | Framagit | https://framagit.org |  |
 | Gitlab | https://gitlab.com |  |
 | ... |  |  |
 
-### Project management and Kanban
+### Project Management and Kanban
 
-|             | URL           | Notes  |
+| Name        | URL           | Notes  |
 | ----------- |:-------------:| ------:|
-| Smartsheets | https://www.smartsheet.com/ |  |
+| Smartsheets | https://www.smartsheet.com |  |
 | Trello | https://trello.com |  |
 | Taiga | https://taiga.io |  |
-| ZenHub | https://www.zenhub.com/ |  |
+| ZenHub | https://www.zenhub.com |  |
 | Zube | https://zube.io | Websockets blocked |
 | ... |  |  |
 
-### Online learning and sandboxes
+### Online Learning and Sandbox
 
-|             | URL           | Notes  |
+| Name        | URL           | Notes  |
 | ----------- |:-------------:| ------:|
 | Coursera | https://www.coursera.org |  |
 | Edx | https://www.edx.org |  |
@@ -144,9 +188,9 @@ Note: Inconsistent browser configurations (Websockets, 3rd party cookies blocked
 | Udemy | https://www.udemy.com/ |  |
 | ... |  |  |
 
-### Package/image registry
+### Package/Image Registry
 
-|             | URL           | Notes  |
+| Name        | URL           | Notes  |
 | ----------- |:-------------:| ------:|
 | Composer | https://getcomposer.org |  |
 | Docker Hub | https://hub.docker.com |  |
@@ -154,12 +198,12 @@ Note: Inconsistent browser configurations (Websockets, 3rd party cookies blocked
 | Ruby Gems | https://rubygems.org |  |
 | ... |  |  |
 
-### Social networks
+### Social Networks
 
-|             | URL           | Notes  |
+| Name        | URL           | Notes  |
 | ----------- |:-------------:| ------:|
 | Facebook | https://www.facebook.com |  |
-| Librem One | https://librem.one |  |
+| Librem One | https://social.librem.one |  |
 | Linkedin | https://www.linkedin.com |  |
 | Mastodon | https://mastodon.social |  |
 | Twitter | https://twitter.com |  |
@@ -167,8 +211,18 @@ Note: Inconsistent browser configurations (Websockets, 3rd party cookies blocked
 
 ### Streaming
 
-|             | URL           | Notes  |
+| Name        | URL           | Notes  |
 | ----------- |:-------------:| ------:|
 | Vimeo | https://vimeo.com |  |
 | YouTube | https://www.youtube.com |  |
+| ... |  |  |
+
+### Other
+
+| Name        | URL           | Notes  |
+| ----------- |:-------------:| ------:|
+| Doodle | https://www.doodle.com |  |
+| Eventbrite | https://www.eventbrite.ca |  |
+| Slido | https://www.sli.do |  |
+| Survey Monkey | https://www.surveymonkey.com |  |
 | ... |  |  |
