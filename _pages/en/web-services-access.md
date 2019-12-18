@@ -43,16 +43,16 @@ On the other side, the benefits should bring great value such as enhancing colla
 
 To support the adoption of the new [Policy on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603), ESDC needs to:
 
-- Grant access to additional Web tools (see [Appendix A](#appendix-a---web-tools-to-grant-access)) for IITB employees, as a step toward broader open access to the Internet for ESDC employees; and
-- Perform an evaluation of security monitoring tools, active at the source (application and database) and the perimeter (DLP), to mitigate future risks associated with broader open access to the Internet.
+- Grant access to additional Web tools (see [Appendix A](#appendix-a---web-tools-to-grant-access)) for IITB employees, as a step toward broader open access to the Internet for ESDC employees;
+- Perform an evaluation of security monitoring tools, active at the source (application and database) and the perimeter (DLP), to mitigate future risks associated with broader open access to the Internet; and
+- Review access rights to data and information.
 
 ### Next Steps
 
 The IT Strategy team will work with teams in IITB to:
 
 - Ensure the following Web tools (see [Appendix A](#appendix-a---web-tools-to-grant-access)) are functional on the network for IITB employees;
-- Ensure IITB employees' understanding of document classification;
-- Review access rights to data and information;
+- Ensure IITB employees' understanding of document classification and that Web tools available on the Internet are only to be used with unclassified data and information; and
 - Assist with an options analysis of document classification tools.
 
 ## Appendix A - Web tools to grant access
