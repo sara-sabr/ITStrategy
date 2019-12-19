@@ -36,7 +36,7 @@ For example, the latest Open Government Plan and Service and Digital Target Arch
 The GC Digital Academy and Free Agents, as well as other groups, frequently use Google Forms for registration.
 
 In order to improve ESDC's ability to leverage current Web tools, a balanced approach is proposed for granting access to additional Web tools (See [Appendix A](#appendix-a---web-tools-to-grant-access)) only for IITB employees in the short term, as a step toward broader access in ESDC.
-As IITB employees generally don't deal with protected information and are well informed and trained on the management of information, we anticipate the risk to be minimal.
+As IITB employees generally don't deal with protected information and are well informed and trained on the management of information, the risk would be minimal.
 In addition, the benefits should bring great value such as enhancing collaboration and efficiency, increasing job satisfaction and helping attract and retain IT talent.
 
 ### Recommendations
