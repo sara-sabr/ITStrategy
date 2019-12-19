@@ -3,10 +3,12 @@ name: My Thuy Pham-Vo
 role:
   en: Lead Designer
   fr: Design Lead
-social_media:
+contact:
+  email:
   twitter:
   github:
+  linkedin:
 interests:
-  en: Design, data analytics, business relations, enterprise architecture
-  fr: Design, Analyses des donnees, Relations d'affaires, Architecture d'entreprise
+  en: Design, Data analytics, Business Relations, Enterprise Architecture
+  fr: Design, Analyses des données, Relations d'affaires, Architecture d'entreprise
 picture_path: assets/images/mypv.png
