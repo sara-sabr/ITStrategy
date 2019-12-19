@@ -68,7 +68,7 @@ Needs:
 Problems:
 
 - Network Latency
-- Not mobile – no WIFI – only on Eddy and Phase IV – Difficulty logging into Appgate
+- Not mobile – no WI-FI – only on Eddy and Phase IV – Difficulty logging into Appgate
 - Combined with IRCC/Passport Canada
 - At times, ATOM skips over numbers so clients aren’t called in order and they get very angry.
 - Printer problems (Xerox)
