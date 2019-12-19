@@ -31,12 +31,12 @@ The following Web tools can already be accessed on the ESDC network and are bein
 
 ### Considerations
 
-Departments are leveraging Web tools to collaborate and engage with citizens and public administrations both in Canada and the across the globe.
+Departments are leveraging Web tools to collaborate and engage with citizens and public administrations both in Canada and across the globe.
 For example, the latest Open Government Plan and Service and Digital Target Architecture from TBS were shared as drafts for consultation and comments on Google Docs.
 The GC Digital Academy and Free Agents, as well as other groups, frequently use Google Forms for registration.
 
 In order to improve ESDC's ability to leverage current Web tools, a balanced approach is proposed for granting access to additional Web tools (See [Appendix A](#appendix-a---web-tools-to-grant-access)) only for IITB employees in the short term, as a step toward broader access in ESDC.
-As IITB employees generally don't deal with protected information and are well informed and trained on the management of information, the risk would be minimal.
+As IITB employees generally don't deal with protected information and are well informed and trained on the management of information, the risk should be minimal.
 In addition, the benefits should bring great value such as enhancing collaboration and efficiency, increasing job satisfaction and helping attract and retain IT talent.
 
 ### Recommendations
