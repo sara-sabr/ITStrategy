@@ -1,6 +1,6 @@
 # Senior Leadership Forum
 
-ESDC IT Strategy (30min presentatino)
+ESDC IT Strategy (30min presentation)
 
 ## Agenda
 
@@ -20,8 +20,8 @@ Talk about:
 
 - Genesis of IT strategy and reason why the team got created (Dec 2018 senior leader meeting, goal of getting an integrated business-IT strategy)
 - How we are **NOT** doing this
-- We, instead will focus on IT's ability to quickly respond to business changes
-- Talka bout premise: the relationship between business and IT MUST change to a shared accountability one as the conventional contracting model (requirements based, a company within a company) of business-IT does not work and must move to a partnership one (outcomes based, one team). The future is too unpredictable and complex so the conventional long term planning do not work, we must instead rewards an empirical cycle of trying, observing, and correcting.
+- We,instead will focus on IT's ability to quickly respond to business changes
+- Talk about premise: the relationship between business and IT MUST change to a shared accountability one as the conventional contracting model (requirements based, a company within a company) of business-IT does not work and must move to a partnership one (outcomes based, one team). The future is too unpredictable and complex so the conventional long term planning do not work, we must instead rewards an empirical cycle of trying, observing, and correcting.
 
 Quote of Mark Schwartz
 > To work effectively in the digital world, you must first accept complexity and uncertainty, for they demand very different approach to carrying out initiatives. A predictable world rewards advanced planning and rigid plan execution. But a complex and uncertain world rewards an empirical cycle of trying, observing, and correcting.
@@ -42,7 +42,7 @@ Talk about 4 angles the team is addressing using strategies (mandate)
 ### 2. Focused Areas
 
 - Moving to Product Management
-  - Raising awareness on inadequate financial model for the Digital World
+  - Raising awareness on inadequate funding model for the Digital World
   - Moving to embedded and dedicated product teams
   - Ability to deploy and manage production workloads
   - Lessons learned from failed attempts (e.g. PSPC)
