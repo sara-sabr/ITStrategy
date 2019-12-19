@@ -20,8 +20,8 @@ Talk about:
 
 - Genesis of IT strategy and reason why the team got created (Dec 2018 senior leader meeting, goal of getting an integrated business-IT strategy)
 - How we are **NOT** doing this
-- We,instead will focus on IT's ability to quickly respond to business changes
-- Talk about premise: the relationship between business and IT MUST change to a shared accountability one as the conventional contracting model (requirements based, a company within a company) of business-IT does not work and must move to a partnership one (outcomes based, one team). The future is too unpredictable and complex so the conventional long term planning do not work, we must instead rewards an empirical cycle of trying, observing, and correcting.
+- We instead will focus on IT's ability to quickly respond to business changes
+- Talk about premise: the relationship between business and IT MUST change to a shared accountability one as the conventional contracting model (requirements based, a company within a company) of business-IT does not work and must move to a partnership one (outcomes based, one team). The future is too unpredictable and complex so the conventional long term planning do not work, we must instead reward an empirical cycle of trying, observing, and correcting.
 
 Quote of Mark Schwartz
 > To work effectively in the digital world, you must first accept complexity and uncertainty, for they demand very different approach to carrying out initiatives. A predictable world rewards advanced planning and rigid plan execution. But a complex and uncertain world rewards an empirical cycle of trying, observing, and correcting.
@@ -31,7 +31,7 @@ Talk about 4 angles the team is addressing using strategies (mandate)
 - Diagnose and Recommend changes on problems that inhibit the desired changes in behaviours
   - example: Heavy Governance promotes risks, need to reduce burden of giving permission to work
   - example: Senior Advisors release process mapping involving 13 different teams and up to 49 email exchanges, need for embedded teams
-- Measuring strategy progress using non-invasive means and make course correction
+- Measuring strategy progress using non-invasive means and making course correction from emperical evidence
 - Challenge current thinking and approaches
   - example: No more status update meetings due to modern tools (KANBAN boards in the open)
   - example: This presentation not working in IE and refusal to make it work in IE because we're focusing on modern tech
@@ -49,7 +49,7 @@ Talk about 4 angles the team is addressing using strategies (mandate)
 - 21 DevOps capabilities (DORA), including job satisfaction
 - Adoption of Open Source, as a philosophy
 - Empowering employees
-- Automation to focus on meaningful work
+- Automation to allow staff in focusing on meaningful work
 
 Link to [Strategy Map](https://sara-sabr.github.io/ITStrategy/strategy-summary.html)
 
@@ -66,6 +66,8 @@ Link to [Strategy Map](https://sara-sabr.github.io/ITStrategy/strategy-summary.h
 Link to [Strategies and Actions](https://sara-sabr.github.io/ITStrategy/strategies-actions.html)
 
 ### Supporting materials and information
+
+(The idea is for the audience to have an index in finding out more about stuff)
 
 - [IT Strategy team's public workspace](https://sara-sabr.github.io/ITStrategy)
 - [Strategy Map](https://sara-sabr.github.io/ITStrategy/strategy-summary.html)
