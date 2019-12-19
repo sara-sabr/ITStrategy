@@ -58,8 +58,8 @@ Link to [Strategy Map](https://sara-sabr.github.io/ITStrategy/strategy-summary.h
 ### 3. Recommended immediate actions
 
 1- Continuous Learning (20% dedicated to learn, automate, and improve)
-2- Work in the open by exposing to all your current workload, including your source code
-3- Allow onboarding of modern tools
+2- Make ongoing work and backlog visible, including code
+3- Allow onboarding of modern tools, especially open source ones
 4- Avoid toil, invest in automation
 5- Promote smaller investments over large ones by leveraging Lite Projects
 
