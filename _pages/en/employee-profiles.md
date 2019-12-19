@@ -68,10 +68,10 @@ Needs:
 Problems:
 
 - Network Latency
-- Not mobile – no WIFI – only on Eddy and Phase IV – Difficulty logging into Appfate
+- Not mobile – no WIFI – only on Eddy and Phase IV – Difficulty logging into Appgate
 - Combined with IRCC/Passport Canada
 - At times, ATOM skips over numbers so clients aren’t called in order and they get very angry.
-- Printer problems (Xérox)
+- Printer problems (Xerox)
 - IT Services can only be served virtually – takes a long time to receive a response even with a follow-up – the status of the ticket can suddenly be “resolved”  
 
 #### General users - Usually at their desk - IT Advisor
@@ -104,7 +104,7 @@ Problems:
 
 - PoC with JobBank, is being adopted more broadly to IITB
 - Limited by licence -> security is owner
-- Limited by SSC's VM
+- Limited by SSC VMs
 - Limited by application teams' practices when they build locally
 - Open source vulnerabilities
 - App team must have someone dedicated to integrate the security tools in their pipelines
