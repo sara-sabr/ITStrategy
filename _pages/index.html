@@ -3,11 +3,14 @@ layout: splash
 ref: splash
 permalink: /index.html
 ---
-
-<div class="jumbotron">
-  <div class="container">
-    <h1 class="display-3">{{ site.title.en }} - {{ site.title.fr }}</h1>
-    <p><a class="btn btn-primary btn-lg" href="./{{ site.index.en }}" role="button">{{ site.language.en }}</a>&nbsp;
-      <a class="btn btn-primary btn-lg" href="./{{ site.index.fr }}" role="button">{{ site.language.fr }}</a></p>
-  </div>
-</div>
+    <div class="caption text-center text-light text-uppercase">
+    
+      <h3 class="font-weight-bold os-animation" data-animation="fadeInUp" data-delay=".6s">Welcome to <span
+          class="text-nuno">{{ site.title.en }}</span> team workspace</h3>
+        <h3 class="font-weight-bold os-animation" data-animation="fadeInUp" data-delay=".6s">Bienvenue sur l'espace de travail de l'équipe <span
+            class="text-nuno">{{ site.title.fr }}</span></h3>
+          <a href="./{{ site.index.en }}" class="btn btn-outline-light btn-lg rounded-0 os-animation" data-animation="fadeInUp"
+            data-delay="1s">{{ site.language.en }}</a>
+          <a href="./{{ site.index.fr }}" class="btn btn-outline-light btn-lg rounded-0 os-animation" data-animation="fadeInUp"
+            data-delay="1s">{{ site.language.fr }}</a>
+    </div>
