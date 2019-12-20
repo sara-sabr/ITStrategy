@@ -21,8 +21,7 @@ Talk about:
 - Genesis of IT strategy and reason why the team got created (Dec 2018 senior leader meeting, goal of getting an integrated business-IT strategy)
 - How we are **NOT** doing this
   - We instead will focus on IT's ability to quickly respond to business changes
-- How are **are** doing this
-  - In the open. All are welcome and invited to comment and contribute to the strategies at all times -- as far customers, private sector partners, other levels of government, or other departments.
+- How are **are** doing this: In the open. All are welcome and invited to comment and contribute to the strategies at all times -- as far customers, private sector partners, other levels of government, or other departments.
 - Talk about premise: the relationship between business and IT *must* change to a shared accountability model, as the conventional contracting model (requirements based, a company within a company) of business-IT does deliver the intended results in a digital age. We should instead move to a partnership based approach (outcomes based, one team). The future is too unpredictable and complex so the conventional long term planning do not deliver the intended results. Therefore, we must instead reward an empirical cycle of trying, observing, and correcting.
 
 Quote of Mark Schwartz
