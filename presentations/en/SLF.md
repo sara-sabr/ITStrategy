@@ -1,6 +1,6 @@
 # Senior Leadership Forum
 
-ESDC IT Strategy (30min presentation)
+ESDC IT Strategy (30 min presentation)
 
 ## Agenda
 
@@ -14,7 +14,7 @@ ESDC IT Strategy (30min presentation)
 
 ## 1. IT Strategy approach
 
-Purpose: Set the stage by clearly communicate that we are not doing conventional IT strategy with some examples of what that means
+Purpose: Set the stage by clearly communicating that we are not doing conventional IT strategy with some examples of what that means
 
 Talk about:
 
@@ -52,7 +52,7 @@ Talk about 4 angles the team is addressing using strategies (mandate)
 - 21 DevOps capabilities (DORA), including job satisfaction
 - Adoption of Open Source, as a philosophy
 - Empowering employees
-- Automation to allow staff in focusing on meaningful work
+- Automation to allow staff to focus on meaningful work
 
 Link to [Strategy Map](https://sara-sabr.github.io/ITStrategy/strategy-summary.html)
 
@@ -60,11 +60,11 @@ Link to [Strategy Map](https://sara-sabr.github.io/ITStrategy/strategy-summary.h
 
 ### 3. Recommended immediate actions
 
-1- Continuous Learning (20% dedicated to learn, automate, and improve)
-2- Make ongoing work and backlog visible, including code
-3- Allow onboarding of modern tools, especially open source ones
-4- Avoid toil, invest in automation
-5- Promote smaller investments over large ones by leveraging Lite Projects
+1. Continuous Learning (20% dedicated to learn, automate, and improve)
+2. Make ongoing work and backlog visible, including code
+3. Allow onboarding of modern tools, especially open source ones
+4. Avoid toil, invest in automation
+5. Promote smaller investments over large ones by leveraging Lite Projects
 
 Link to [Strategies and Actions](https://sara-sabr.github.io/ITStrategy/strategies-actions.html)
 
