@@ -39,7 +39,7 @@ Talk about 4 angles the team is addressing using strategies (mandate)
   - example: This presentation not working in IE and refusal to make it work in IE because we're focusing on modern tech
   - example: Technical work needing to be reviewed by non technical staff for approval
   - example: Defaults over standards (if an expert in their respective area proposes a different approach than the departmental 'default' they are free to do so -- perhaps that will become the next default)
-  
+
 --
 
 ### 2. Focused Areas
