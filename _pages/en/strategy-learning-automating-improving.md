@@ -10,7 +10,7 @@ permalink: /strategy-learning-automating-improving.html
 
 ## Strategy - Continuous Learning, Automation and Improvement
 
-The following strategies and actions apply for the 4th quarter of the 2019-2020 fiscal year.
+The following strategies and actions apply for the 1st quarter of the 2020-2021 fiscal year.
 Strategies will be reviewed and updated quarterly based on current progress and following the Strategy Map (layering on the strategies).
 
 - [Goals](#goals)
@@ -112,7 +112,7 @@ Strategies will be reviewed and updated quarterly based on current progress and 
 - ITS - ESDC support for GCcode
 - Communities such as OneTeamGov, GC DevOps League, Agora OSS...
 
-### Appendix B - Upcoming strategies FY 2020-2021
+### Appendix B - Upcoming strategies
 
 #### Work Using Agile Methodologies
 
