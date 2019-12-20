@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Enabling Access to Web Services and Tools at ESDC
+title: Granting access to Web tools at ESDC
 ref: web-services-access
 lang: en
 status: posted
@@ -8,135 +8,221 @@ sections: Work In Progress
 permalink: /web-services-access.html
 ---
 
-## Enabling Access to Web Services and Tools at ESDC
+## Granting access to Web tools at ESDC
 
 ### Purpose
 
-To seek approval and endorsement for IITB to enable open by default access to the Internet for some ESDC employees, including instant messaging, email, cloud storage and other collaboration tools and content available online.
+To seek endorsement for granting access to more Web tools or Software as a Service (SaaS) for IITB employees, as a step toward broader open access to the Internet for all ESDC employees.
 
 ### Background
 
-The recent [Direction on Enabling Access to Web Services: Policy Implementation Notice (PIN)](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32588) provides direction to departments on enabling access to web services, in accordance with the [Policy on Acceptable Network and Device Use (PANDU)](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=27122). The scope of this direction applies to GC electronic networks for unclassified information.
+The upcoming [Policy on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603) replaces the [Policy on Acceptable Network and Device Use (PANDU)](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=27122) but keeps the intent to "provide open access to Internet tools and services to support public servants in their work duties, enhance collaboration and networking with their peers".
+The policy applies only to unclassified interactions (data, information, code, etc.).
 
-> Departments are to enable open access to the Internet for GC electronic networks and devices, including GC and external Web 2.0 tools and services that enhance productivity, communication and collaboration, in accordance with the [Policy on Government Security](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=16578), to individuals working with the GC, including employees of the federal government as well as casuals, contractors, students and other persons who have been authorized by the deputy head to access Government of Canada electronic networks and devices.
-> Departments are to reconfigure their web filtering rules to be open by default to the Internet, except for websites that support non-acceptable activities or behaviours. See [Categories to be blocked](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32588#appA). All other categories, including social media and web-based collaboration or chat tools, are to be open by default.
+### Issue
 
-### Issues
+ESDC is currently blocking access to some popular and useful collaboration Web tools like Google Docs, Google Hangouts and OneDrive.
+Even though TBS policy recommends open access to these tools by default, ESDC's rationale for blocking them is primarily to prevent an accidental leak of protected information by employees.
 
-Sites that are classified as instant messaging, email, cloud storage and other online collaboration tools are blocked for ESDC employees on the network. These categories are usually blocked for the following reasons:
+A proposed mitigation item to reduce this risk is to augment the Data Loss Prevention (DLP) capability with a tool that enforces classification of documents and emails.
+However, as the evaluated options to date are costly, implementation is not being considered for the short term.
 
-#### Risk of exposure of classified information
-
-- **Inadvertent sharing** - lack of policy awareness, a specific form of human error
-- **Accidental sharing** - also human error (usually being unaware that they shared or posting something they thought was unclassified but was not)
-- **Deliberate sharing** - knowing the policy and doing it anyways (either they decide to manage the risk, or they don't care)
-
-#### Network Performance
-
-Bandwidth use is already high and can slow down the network during peaks. Open access to more Websites and services could risk making the network slower since it will require more bandwidth.
-
-#### Lower Productivity
-
-There is a perception that open access to online services and tools will lower productivity.
+The following Web tools can already be accessed on the ESDC network and are being used by employees (See [Appendix B](#appendix-b---web-tools-already-accessible)).
 
 ### Considerations
 
-More open access to the Internet will assist ESDC employees to conduct the business of the department more efficiently and effectively.
-It will support the digital transformation of how public servants work and serve Canadians by enhancing collaboration, augmenting professional development opportunities, encouraging sharing of knowledge to support innovation and helping to create a more open culture.
+Departments are leveraging Web tools to collaborate and engage with citizens and public administrations both in Canada and across the globe.
+For example, the latest Open Government Plan and Service and Digital Target Architecture from TBS were shared as drafts for consultation and comments on Google Docs.
+The GC Digital Academy and Free Agents, as well as other groups, frequently use Google Forms for registration.
 
-IITB must adapt to meet the demands and expectations of its clients, stakeholders, partners and employees.
-In addition to implementing the changes required by the PIN, it will also align the department with the [GC Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html) by empowering staff to deliver better services and collaborate widely while also enabling them to work in the open.
-The biggest risk is the potential exposure of sensitive information; either inadvertently, accidentally, or deliberately.
-Cyber Security should looks at residual risks and methods to mitigate them while balancing user experience and ability for employees to perform their work.
-Below are the mitigation recommended:
+In order to improve ESDC's ability to leverage current Web tools, a balanced approach is proposed for granting access to additional Web tools (See [Appendix A](#appendix-a---web-tools-to-grant-access)) only for IITB employees in the short term, as a step toward broader access in ESDC.
+As IITB employees generally don't deal with protected information and are well informed and trained on the management of information, the risk would be minimal.
+In addition, the benefits should bring great value such as enhancing collaboration and efficiency, increasing job satisfaction and helping attract and retain IT talent.
 
-#### Perimeter Protection
+### Recommendations
 
-A tool that forces all electronic content to be categorized by classification and can clearly alerts the end user of such classification.
-This will augment the DLP program by providing it with metadata description of the electronic content where, should the content being uploaded not match the security of the site, it flags infractions for later investigation or just blocks them entirely.
+To support the adoption of the new [Policy on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603), ESDC needs to:
 
-A solution that forces classification of documents and emails as well as basic rules around the sharing of information through the network would allow our firewall to detect and prevent that information from getting out of the network.
+- Grant access to additional Web tools (see [Appendix A](#appendix-a---web-tools-to-grant-access)) for IITB employees, as a step toward broader open access to the Internet for ESDC employees;
+- Perform an evaluation of security monitoring tools, active at the source (application and database) and the perimeter (DLP), to mitigate future risks associated with broader open access to the Internet; and
+- Review access rights to data and information.
 
-#### Second Open Network
+### Next Steps
 
-The R&D team is working on a proof of concept to route internet traffic away from the internal corporate network.
-This type of solution would reduce the use of strain on the network.
-It would also give access to sites that are blocked purely for using too much bandwidth.
+The IT Strategy team will work with teams in IITB to:
 
-#### Digital Worker Profiles
+- Ensure the following Web tools (see [Appendix A](#appendix-a---web-tools-to-grant-access)) are functional on the network for IITB employees;
+- Ensure IITB employees' understanding of document classification and that Web tools available on the Internet are only to be used with unclassified data and information; and
+- Assist with an options analysis of document classification tools.
 
-ESDC has a large amount of employees with a broad range of work profiles.
-Although currently not all types of employees require open access to the Internet, expect more and more of them will require access in the future due to ESDC becoming a more open organisation and adopting more public cloud SaaS.
+## Appendix A - Web tools to grant access
 
-Digital work profile needs to be created to effectively manage this adoption to online services.
-Employees will be tied to a particular work profile, based on their role, and this work profile will be allowed or not access to online services.
+### Instant Messaging (room-based)
 
-The list of current work profile, with the recommended settings for online access is as follows:
+**Benefit:** Access and search more than 10k messages (limitation of Slack free plan), Encrypt storage of messages, Get real-time updates on website (e.g. notifications)
 
-Current work profiles that would benefit and where open access is recommended:
+| Name            | URL           | Notes  |
+| ----------- |:-------------:| ------:|
+| Hack Chat | https://hack.chat |  |
+| Gitter | https://gitter.im |  |
+| Riot IM | https://riot.im | Client for Matrix homeserver |
+| RocketChat | https://open.rocket.chat |  |
+| Slack | https://slack.com | Websockets blocked |
 
-- Management - Manager level and above
-- Power users - Developer, QA tester, Systems/Databases administrator, ..
-- ...
+### Document Editing
 
-#### Awareness
+**Benefit:** Share, review and co-create documents with stakeholders (e.g. other departments, governments, private sector)
 
-Instead of banning access to certain tools and sites, making access open by default and encouraging the secure use will result in risks being better controlled.
-Informing users of expected behaviours when using the Internet will help them to protect against potential confidentiality or privacy breaches and to comply with existing ESDC and GC codes of conduct and policies.
+| Name        | URL           | Notes  |
+| ----------- |:-------------:| ------:|
+| Google Docs (incl. Sheets, Slides, Forms) | https://docs.google.com |  |
 
-This information is already available on the Intranet and routinely communicated to users through, popups, emails and mandatory trainings.
+### Web Conferencing
 
-## Next Steps
+**Benefit:** Meet virtually with external stakeholders without installing or running a plugin (with sometimes limited success)
 
-Should you approve, the IT Strategy team will:
+| Name        | URL           | Notes  |
+| ----------- |:-------------:| ------:|
+| BlueJeans | https://www.bluejeans.com |  |
+| Google Hangouts | https://hangouts.google.com |  |
+| Jitsi Meet | https://meet.jit.si |  |
 
-1. Work with the Operations team to start grouping ESDC employees into work profiles
-2. Work with IT Security and DSO to open up access to online services based on work profiles, starting with the lowest risks first
-3. Work with IT Security and DSO to identify the strategic objectives and priority actions from the Departmental Security Plan that needs to be addressed in order to open up access to online services
-4. Research, evaluate, and recommend Open Source solutions that would satisfy the risk mitigation needs outline above
+### Version Control System (VCS) and Project Management
 
-### Appendix
+**Benefit:** Authenticate with SSH keys (better security), Get real-time updates on website (Issues, Pull Requests, Kanban Board, etc.)
 
-#### Sites that are blocked and not blocked
+| Name        | URL           | Notes  |
+| ----------- |:-------------:| ------:|
+| Github | https://github.com | Websockets and SSH blocked |
 
-##### Blocked
+### Email
 
-- https://www.box.com/
-- https://cloudup.com/
-- https://www.cloudme.com/
-- https://www.dropbox.com/
-- https://framadrop.org/
-- https://docs.google.com/
-- https://drive.google.com
-- https://www.google.com/forms/
-- https://gmail.google.com/
-- https://hangouts.google.com/webchat/start
-- https://www.linshare.org/
-- https://demo.lufi.io
-- https://meet.jit.si/
-- https://onedrive.live.com/
-- https://owncloud.org/ (not SaaS)
-- https://www.pcloud.com/
-- https://riot.im/app/
-- https://open.rocket.chat/
-- https://www.seafile.com/ (not SaaS)
-- https://www.sync.com/
-- https://woelkli.com/
+**Benefit:** Improve work–life balance (without having to find workarounds)
 
-##### Not Blocked
+| Name        | URL           | Notes  |
+| ----------- |:-------------:| ------:|
+| Google Mail | https://mail.google.com |  |
+| Outlook | https://outlook.live.com |  |
+| Yahoo Mail | https://mail.yahoo.com |  |
+| Fastmail | https://www.fastmail.com |  |
+| Mailbox.org | https://mailbox.org |  |
+| Posteo | https://posteo.de |  |
 
-- https://hub.docker.com/
-- https://www.facebook.com/ (Websockets blocked)
-- https://framadrive.org/
-- https://framapad.org/
-- https://github.com/  (Websockets and SSH blocked)
-- https://labs.play-with-docker.com/ (Websockets blocked)
-- https://slack.com/ (Websockets blocked)
-- https://www.sli.do/
-- https://taiga.io/
-- https://trello.com/
-- https://twitter.com/
-- https://www.wikipedia.org/
-- https://youtube.com/
-- https://www.zoho.com/docs/
-- https://www.zoho.com/writer/
+### File Storage
+
+**Benefit:** Share and collaborate on documents with external stakeholders
+
+| Name        | URL           | Notes  |
+| ----------- |:-------------:| ------:|
+| Dropbox | https://www.dropbox.com |  |
+| Framadrop | https://framadrop.org |  |
+| Google Drive | https://drive.google.com |  |
+| OneDrive | https://onedrive.live.com |  |
+| pCloud | https://www.pcloud.com |  |
+
+### Online Learning and Sandbox
+
+**Benefit:** Experiment and learn modern technologies
+
+| Name        | URL           | Notes  |
+| ----------- |:-------------:| ------:|
+| Docker Playground | https://labs.play-with-docker.com | Websockets blocked |
+
+## Appendix B - Web tools already accessible
+
+Note: Inconsistent browser configurations (Websockets, 3rd party cookies blocked), SSH blocked
+
+### Instant Messaging (room-based)
+
+| Name        | URL           | Notes  |
+| ----------- |:-------------:| ------:|
+| Librem One Chat | https://chat.librem.one | Homeserver only, requires client |
+| Matrix.org | https://matrix.org | Homeserver only, requires client |
+| Zulip | https://zulipchat.com |  |
+| ... |  |  |
+
+### Document Editing
+
+| Name        | URL           | Notes  |
+| ----------- |:-------------:| ------:|
+| Framapad |  https://framapad.org |  |
+| Office365 (pilot) | https://www.office.com |  |
+| Zoho | https://www.zoho.com |  |
+| ... |  |  |
+
+### Web Conferencing
+
+| Name        | URL           | Notes  |
+| ----------- |:-------------:| ------:|
+| Zoom | https://zoom.us |  |
+| ... |  |  |
+
+### Version Control System (VCS) and Project Management
+
+| Name        | URL           | Notes  |
+| ----------- |:-------------:| ------:|
+| Bitbucket | https://bitbucket.org |  |
+| Framagit | https://framagit.org |  |
+| Gitlab | https://gitlab.com |  |
+| ... |  |  |
+
+### Project Management and Kanban
+
+| Name        | URL           | Notes  |
+| ----------- |:-------------:| ------:|
+| Smartsheets | https://www.smartsheet.com |  |
+| Trello | https://trello.com |  |
+| Taiga | https://taiga.io |  |
+| ZenHub | https://www.zenhub.com |  |
+| Zube | https://zube.io | Websockets blocked |
+| ... |  |  |
+
+### Online Learning and Sandbox
+
+| Name        | URL           | Notes  |
+| ----------- |:-------------:| ------:|
+| Coursera | https://www.coursera.org |  |
+| Edx | https://www.edx.org |  |
+| Docker Classroom | https://training.play-with-docker.com |  |
+| Udacity | https://www.udacity.com/ |  |
+| Udemy | https://www.udemy.com/ |  |
+| ... |  |  |
+
+### Package/Image Registry
+
+| Name        | URL           | Notes  |
+| ----------- |:-------------:| ------:|
+| Composer | https://getcomposer.org |  |
+| Docker Hub | https://hub.docker.com |  |
+| NPM JS | https://www.npmjs.com |  |
+| Ruby Gems | https://rubygems.org |  |
+| ... |  |  |
+
+### Social Networks
+
+| Name        | URL           | Notes  |
+| ----------- |:-------------:| ------:|
+| Facebook | https://www.facebook.com |  |
+| Librem One | https://social.librem.one |  |
+| Linkedin | https://www.linkedin.com |  |
+| Mastodon | https://mastodon.social |  |
+| Twitter | https://twitter.com |  |
+| ... |  |  |
+
+### Streaming
+
+| Name        | URL           | Notes  |
+| ----------- |:-------------:| ------:|
+| Vimeo | https://vimeo.com |  |
+| YouTube | https://www.youtube.com |  |
+| ... |  |  |
+
+### Other
+
+| Name        | URL           | Notes  |
+| ----------- |:-------------:| ------:|
+| Doodle | https://www.doodle.com |  |
+| Eventbrite | https://www.eventbrite.ca |  |
+| Slido | https://www.sli.do |  |
+| Survey Monkey | https://www.surveymonkey.com |  |
+| ... |  |  |

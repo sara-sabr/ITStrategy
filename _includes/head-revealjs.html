@@ -8,6 +8,16 @@
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description[page.lang] }}{% endif %}">
 
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.8.0/css/reveal.min.css">
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.8.0/css/theme/moon.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.8.0/css/theme/moon.min.css">
   <link rel="icon" type="image/ico" href="/ITStrategy/assets/images/favicon.ico">
+
+  <script>
+    var link = document.createElement("link");
+    link.rel = "stylesheet";
+    link.type = "text/css";
+    link.href = "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.8.0/css/print/pdf.min.css";
+    if (window.location.search.match( /print-pdf/gi )) {
+      document.getElementsByTagName("head")[0].appendChild( link );
+    }
+  </script>
 </head>

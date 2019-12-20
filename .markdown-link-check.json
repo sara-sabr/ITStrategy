@@ -38,6 +38,9 @@
     },
     {
       "pattern": "https://www.youtube.com"
+    },
+    {
+      "pattern": "https://vimeo.com"
     }
   ]
 }
