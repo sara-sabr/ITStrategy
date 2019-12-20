@@ -54,3 +54,590 @@ blockquote {
 .blockquote {
   font-size: 1rem;
 }
+
+
+/*============= RESETS =============*/
+
+/*-- iPhone X Remove Gutters --*/
+html {
+  padding: env(safe-area-inset);
+}
+
+/*-- Prevent Horizontal Scrolling & Font Style --*/
+html,
+body {
+  overflow-x: hidden;
+  font-family: 'Lato', sans-serif;
+  color: #505962;
+}
+
+.text-nuno {
+  color: #1EBBA3;
+}
+
+/*--- Nav Scrolling Offset --*/
+.offset:before {
+  content: "";
+  height: 4rem;
+  display: block;
+  margin-top: -4rem;
+}
+
+/*--- Extra Bootstrap Column Padding --*/
+[class*="col-"] {
+  padding: 1rem;
+}
+
+/*============= NAVIGATION =============*/
+.navbar-brand img {
+  height: 2rem;
+}
+
+.navbar {
+  padding: .7rem 1rem;
+  text-transform: uppercase;
+  font-weight: 700;
+  letter-spacing: .1rem;
+  font-size: .9rem;
+  transition: background-color .5s ease;
+}
+
+.navbar-nav li {
+  padding-right: .8rem;
+}
+
+.navbar-nav .nav-link {
+  color: white;
+  padding-top: .8rem;
+}
+
+.navbar-nav .nav-link.active,
+.navbar-nav .nav-link:hover {
+  color: #1EBBA3;
+}
+
+.custom-toggler-icon {
+  color: white;
+  font-size: 1.6rem;
+}
+
+.navbar.solid,
+.navbar.solid-toggle {
+  background: rgba(0, 0, 0, .7) !important;
+  transition: background-color 1s ease;
+}
+
+/*-- Remove Button Outline --*/
+button:focus,
+a:focus,
+a.btn:focus {
+  outline: 0;
+  -webkit-appearance: none;
+  box-shadow: none;
+  transition: all .6s ease;
+}
+
+button,
+a,
+a.btn,
+.svg-inline--fa {
+  transition: all .6s ease;
+}
+
+/*============= LANDING PAGE =============*/
+
+/*--- Fixed Landing Page Section --*/
+.landing {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  display: table;
+  z-index: -1;
+}
+
+.home-wrap {
+  clip: rect(0, auto, auto, 0);
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+
+.home-inner {
+  background-image: url('../images/computer main page.jpg');
+  position: fixed;
+  height: 100%;
+  width: 100%;
+  background-size: cover;
+  background-position: center center;
+  -webkit-transform: translateZ(0);
+  transform: translateZ(0);
+  will-change: transform;
+  display: table;
+}
+
+/*-- Landing Page Caption --*/
+.caption {
+  z-index: 1;
+  position: absolute;
+  top: 38%;
+  width: 100%;
+  max-width: 100%;
+}
+
+.caption h1 {
+  font-size: 4.5rem;
+  letter-spacing: .3rem;
+  text-shadow: .1rem .1rem .8rem black;
+  padding-bottom: 1rem;
+}
+
+.caption h3 {
+  font-size: 2.5rem;
+  text-shadow: .1rem .1rem .5rem black;
+  padding-bottom: 2rem;
+}
+
+.caption .btn-lg {
+  border-width: medium;
+  padding: .8rem 1.5rem;
+  font-size: 1.1rem;
+}
+
+/*-- Bouncing Down Arrow --*/
+.arrow {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  animation: bounce 2s infinite;
+  -webkit-animation: bounce 2s infinite;
+}
+
+.down-arrow .svg-inline--fa {
+  color: white;
+  font-size: 2.2rem;
+  opacity: .3;
+}
+
+.down-arrow .svg-inline--fa:hover {
+  opacity: .8;
+}
+
+/*============= FEATURES SECTION =============*/
+
+.btn-sm {
+  border-width: medium;
+  border-radius: 0;
+  padding: .5rem 1.1rem;
+  text-transform: uppercase;
+  font-size: .9rem;
+  margin: 1rem;
+}
+
+.btn-nuno {
+  background-color: #1EBBA3;
+  color: white;
+}
+
+.btn-nuno:hover {
+  background-color: #189582;
+  color: white;
+}
+
+h3.heading {
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 1.9rem;
+  text-align: center;
+  margin-bottom: 1.9rem;
+}
+
+.heading-underline {
+  width: 3rem;
+  height: .2rem;
+  background-color: #1EBBA3;
+  margin: 0 auto 2rem;
+}
+
+.feature span {
+  color: #1EBBA3;
+  margin-bottom: .6rem;
+}
+
+.feature h3 {
+  text-transform: uppercase;
+  font-size: 1.3rem;
+  padding-bottom: .4rem;
+}
+
+/*===== FIXED BACKGROUND IMG DARK =====*/
+
+/*--- iOS Fixed Background Image --*/
+.fixed {
+  position: relative;
+  width: 100%;
+}
+
+.fixed-wrap {
+  clip: rect(0, auto, auto, 0);
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  z-index: -9999;
+}
+
+.fixed-dark {
+  background-image: url('../img/fixed/apple.jpg');
+  position: fixed;
+  height: 100%;
+  width: 100%;
+  background-size: cover;
+  background-position: center center;
+  -webkit-transform: translateZ(0);
+  transform: translateZ(0);
+  will-change: transform;
+  z-index: -1;
+  top: 0;
+  left: 0;
+  display: table;
+}
+
+.dark {
+  background-color: rgba(0, 0, 0, .7);
+  padding: 7rem 0;
+  z-index: 1000;
+}
+
+/*============= PORTFOLIO SECTION =============*/
+
+.portfolio-item img:hover {
+  transform: scale(1.3);
+  cursor: zoom-in;
+}
+
+.portfolio-item img {
+  transition: transform .4s ease;
+}
+
+/*============= PRICING SECTION =============*/
+
+.pricing-column {
+  background-color: white;
+  height: 100%;
+  padding: 1.6rem;
+  border-top: .25rem solid #1EBBA3;
+  box-shadow: 0 0 .8rem rgba(0, 0, 0, .075);
+  transition: transform .7s ease;
+  position: relative;
+  overflow: hidden;
+}
+
+.pricing-column:hover {
+  transform: scale(1.1);
+}
+
+.pricing-column h4 {
+  font-size: 1.1rem;
+  font-weight: 700;
+}
+
+.ribbon {
+  background-color: #6c757d;
+  color: white;
+  font-size: .8rem;
+  font-weight: 700;
+  height: 2rem;
+  width: 10rem;
+  padding-top: .4rem;
+  position: absolute;
+  transform: rotate(45deg);
+  right: -2.8rem;
+  top: 1.5rem;
+  box-shadow: 0 0 .2rem rgba(0, 0, 0, .25);
+}
+
+/*============= TEAM SECTION FIXED BG IMG LIGHT =============*/
+
+/*--- Team Light Background Image --*/
+.fixed-light {
+  background-image: url('../img/fixed/office.jpg');
+  position: fixed;
+  height: 100%;
+  width: 100%;
+  background-size: cover;
+  background-position: center center;
+  -webkit-transform: translateZ(0);
+  transform: translateZ(0);
+  will-change: transform;
+  z-index: -1;
+  top: 0;
+  left: 0;
+  display: table;
+}
+
+.light {
+  background-color: rgba(255, 255, 255, .75);
+  padding: 5rem 0;
+  z-index: 1000;
+}
+
+.owl-stage {
+  display: flex;
+}
+
+.card {
+  height: 100%;
+  border-radius: 0;
+  text-align: center;
+  margin: 0 1rem;
+  border: .1rem solid rgba(0, 0, 0, .075);
+  box-shadow: 0 0 .8rem rgba(0, 0, 0, .075);
+  transition: transform .4s ease;
+}
+
+.card:hover {
+  transform: scale(.95);
+}
+
+button.owl-dot.active span,
+button.owl-dot:hover span {
+  background: #1EBBA3 !important;
+}
+
+ul.social {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  font-size: 1.5rem;
+}
+
+ul.social li {
+  display: inline;
+  padding-right: .8rem;
+}
+
+ul.social li a {
+  color: #1EBBA3;
+  transition: all .2s ease;
+}
+
+ul.social li a:hover {
+  color: #505962;
+}
+
+/*============= SKILLS SECTION =============*/
+
+
+/*============= CLIENTS SECTION =============*/
+
+#clients-carousel {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.clients img {
+  border-radius: 50%;
+  transition: transform .3s ease;
+}
+
+.clients img:hover {
+  transform: scale(.95);
+}
+
+blockquote .svg-inline--fa {
+  margin: 1rem;
+  color: #1EBBA3;
+}
+
+.clients-hr {
+  border-top: .1rem solid #1EBBA3;
+}
+
+/*============= CONTACT SECTION =============*/
+
+.footer {
+  background: url('../img/footer/footer.jpg') no-repeat;
+  background-size: cover;
+  color: white;
+  /* background-color: #505962; */
+}
+
+.row.outer {
+  background-color: rgba(57, 63, 70, .85);
+  padding: 1rem 2rem 3rem;
+}
+
+.footer img {
+  height: 2rem;
+  margin: 1.5rem 0;
+}
+
+.footer a,
+.footer ul.social li a {
+  color: white;
+}
+
+.footer ul.social li a:hover {
+  color: #1EBBA3;
+}
+
+.footer h3 {
+  text-transform: uppercase;
+  margin: 1.5rem 0;
+}
+
+/*--- Contact Form --*/
+.form-group {
+  margin-bottom: 1.3rem;
+}
+
+.form-control {
+  background-color: #53595f;
+  border-radius: 0;
+  border: .15rem solid #666b71;
+  color: white !important;
+  font-size: 1.1rem;
+}
+
+.form-control:focus {
+  background-color: #53595f;
+  border: .15rem solid #666b71;
+}
+
+.form-group input::placeholder,
+.form-group textarea::placeholder {
+  color: #b2b5b8 !important;
+}
+
+hr.socket {
+  border-top: .2rem solid #666b71;
+  width: 100%;
+}
+
+/*============= TOP SCROLL =============*/
+
+a.top-scroll {
+  right: 1.2rem;
+  bottom: 1.2rem;
+  position: fixed;
+  opacity: .3;
+  z-index: 1000;
+  display: none;
+}
+
+a.top-scroll:hover {
+  opacity: .5;
+}
+
+.top-scroll .svg-inline--fa {
+  background: white;
+  color: #53595f;
+  font-size: 3rem;
+  height: 1.7rem;
+}
+
+/*============= MEDIA QUERIES =============*/
+
+/* Devices under 992px (lg) */
+@media (max-width: 991.98px) {
+  .caption h1 {
+    font-size: 3.5rem;
+    letter-spacing: .2rem;
+    padding-bottom: .8rem;
+  }
+
+  .caption h3 {
+    font-size: 2.2rem;
+    padding-bottom: 1.7rem;
+  }
+
+  .caption .btn-lg {
+    padding: .7rem 1.2rem;
+    font-size: 1rem;
+  }
+
+  .clients img {
+    max-width: 50%;
+    margin: 0 auto;
+  }
+}
+
+/* Devices under 768px (md) */
+@media (max-width: 767.98px) {
+  .caption h1 {
+    font-size: 2.7rem;
+    letter-spacing: .15rem;
+    padding-bottom: .5rem;
+  }
+
+  .caption h3 {
+    font-size: 1.7rem;
+    padding-bottom: 1.2rem;
+  }
+
+  .caption .btn-lg {
+    padding: .6rem 1.1rem;
+  }
+
+  #features h1 {
+    font-size: 2rem;
+  }
+
+  .fixed-dark {
+    background-image: url('../img/fixed/apple-mobile.jpg')
+  }
+
+  .fixed-light {
+    background-image: url('../img/fixed/office-mobile.jpg')
+  }
+
+  .footer {
+    background: url('../img/footer/footer-mobile.jpg') no-repeat;
+  }
+
+  .top-scroll {
+    display: none !important;
+  }
+}
+
+/* Devices under 576px (sm) */
+@media (max-width: 575.98px) {
+  .caption h1 {
+    font-size: 1.9rem;
+    letter-spacing: .1rem;
+    padding-bottom: .4rem;
+  }
+
+  .caption h3 {
+    font-size: 1.2rem;
+    padding-bottom: 1rem;
+  }
+
+  .caption .btn-lg {
+    padding: .4rem .9rem;
+    font-size: .9rem;
+  }
+}
+
+
+/*============ BOOTSTRAP BREAK POINTS:
+
+Extra small (xs) devices (portrait phones, less than 576px)
+No media query since this is the default in Bootstrap
+
+Small (sm) devices (landscape phones, 576px and up)
+@media (min-width: 576px) { ... }
+
+Medium (md) devices (tablets, 768px and up)
+@media (min-width: 768px) { ... }
+
+Large (lg) devices (desktops, 992px and up)
+@media (min-width: 992px) { ... }
+
+Extra (xl) large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { ... }
+
+=============*/
