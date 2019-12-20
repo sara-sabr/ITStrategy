@@ -21,8 +21,8 @@ These profiles are to help categorize employees and determine their IT and busin
 - Client services - Work directly with the public
 - Call Center User - Similar to an activity-based worker but requires additional telephony options
 - General GC Office users - Usually at their desk
-- Special needs/Accessible - worker with disabilities in the workplace who requires a client’s need assessment and awareness services   for adaptive technology 
-- Remote/Field - Primarily works out of the office, however, may work remotely 
+- Special needs/Accessible - worker with disabilities in the workplace who requires a client’s need assessment and awareness services   for adaptive technology
+- Remote/Field - Primarily works out of the office, however, may work remotely
 
 #### Management - Manager and above
 
