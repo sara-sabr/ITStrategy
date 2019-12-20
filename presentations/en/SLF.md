@@ -1,6 +1,6 @@
 # Senior Leadership Forum
 
-ESDC IT Strategy (30min presentation)
+ESDC IT Strategy (30 min presentation)
 
 ## Agenda
 
@@ -14,28 +14,28 @@ ESDC IT Strategy (30min presentation)
 
 ## 1. IT Strategy approach
 
-Purpose: Set the stage by clearly communicate that we are not doing conventional IT strategy with some examples of what that means
+Purpose: Set the stage by clearly communicating that we are not doing conventional IT strategy with some examples of what that means
 
 Talk about:
 
 - Genesis of IT strategy and reason why the team got created (Dec 2018 senior leader meeting, goal of getting an integrated business-IT strategy)
 - How we are **NOT** doing this
 - We instead will focus on IT's ability to quickly respond to business changes
-- Talk about premise: the relationship between business and IT MUST change to a shared accountability one as the conventional contracting model (requirements based, a company within a company) of business-IT does not work and must move to a partnership one (outcomes based, one team). The future is too unpredictable and complex so the conventional long term planning do not work, we must instead reward an empirical cycle of trying, observing, and correcting.
+- Talk about premise: the relationship between business and IT MUST change to a shared accountability one as the conventional contracting model (requirements based, a company within a company) of business-IT does not work and must move to a partnership one (outcomes based, one team). The future is too unpredictable and complex so the conventional long-term planning does not work, we must instead reward an empirical cycle of trying, observing, and correcting.
 
 Quote of Mark Schwartz
 > To work effectively in the digital world, you must first accept complexity and uncertainty, for they demand very different approach to carrying out initiatives. A predictable world rewards advanced planning and rigid plan execution. But a complex and uncertain world rewards an empirical cycle of trying, observing, and correcting.
 
 Talk about 4 angles the team is addressing using strategies (mandate)
 
-- Diagnose and Recommend changes on problems that inhibit the desired changes in behaviours
-  - example: Heavy Governance promotes risks, need to reduce burden of giving permission to work
-  - example: Senior Advisors release process mapping involving 13 different teams and up to 49 email exchanges, need for embedded teams
-- Measuring strategy progress using non-invasive means and making course correction from emperical evidence
-- Challenge current thinking and approaches
-  - example: No more status update meetings due to modern tools (KANBAN boards in the open)
-  - example: This presentation not working in IE and refusal to make it work in IE because we're focusing on modern tech
-  - example: technical work needing to be reviewed by non technical staff for approval
+- **Diagnose** and **Recommend** changes on problems that inhibit the desired changes in behaviours
+  - Example: Heavy Governance promotes risks, need to reduce the burden of giving permission to work
+  - Example: Senior Advisors release process mapping involving 13 different teams and up to 49 email exchanges, need for embedded teams
+- **Measuring** strategy progress using non-invasive means and making course correction from empirical evidence
+- **Challenge** current thinking and approaches
+  - Example: No more status update meetings due to modern tools (Kanban boards in the open)
+  - Example: This presentation not working in IE and refusal to make it work in IE because we're focusing on modern tech
+  - Example: technical work needing to be reviewed by non-technical staff for approval
   
 --
 
@@ -49,7 +49,7 @@ Talk about 4 angles the team is addressing using strategies (mandate)
 - 21 DevOps capabilities (DORA), including job satisfaction
 - Adoption of Open Source, as a philosophy
 - Empowering employees
-- Automation to allow staff in focusing on meaningful work
+- Automation to allow staff to focus on meaningful work
 
 Link to [Strategy Map](https://sara-sabr.github.io/ITStrategy/strategy-summary.html)
 
@@ -57,11 +57,11 @@ Link to [Strategy Map](https://sara-sabr.github.io/ITStrategy/strategy-summary.h
 
 ### 3. Recommended immediate actions
 
-1- Continuous Learning (20% dedicated to learn, automate, and improve)
-2- Make ongoing work and backlog visible, including code
-3- Allow onboarding of modern tools, especially open source ones
-4- Avoid toil, invest in automation
-5- Promote smaller investments over large ones by leveraging Lite Projects
+1. Continuous Learning (20% dedicated to learn, automate, and improve)
+2. Make ongoing work and backlog visible, including code
+3. Allow onboarding of modern tools, especially open source ones
+4. Avoid toil, invest in automation
+5. Promote smaller investments over large ones by leveraging Lite Projects
 
 Link to [Strategies and Actions](https://sara-sabr.github.io/ITStrategy/strategies-actions.html)
 
