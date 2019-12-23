@@ -15,6 +15,7 @@ Strategies will be reviewed and updated quarterly based on current progress and 
 
 - [Goals](#goals)
 - [IITB teams must](#iitb-teams-must)
+- [IITB must](#iitb-must)
 - [IT Strategy Will](#it-strategy-will)
 
 ### Goals
