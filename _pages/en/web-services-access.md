@@ -22,22 +22,22 @@ The policy applies only to unclassified interactions (data, information, code, e
 ### Issue
 
 ESDC is currently blocking access to some popular and useful collaboration Web tools like Google Docs, Google Hangouts and OneDrive.
-Even though TBS policy recommends open access to these tools by default, ESDC's rationale for blocking them is primarily to prevent accidental leak of protected information by employees.
+Even though TBS policy recommends open access to these tools by default, ESDC's rationale for blocking them is primarily to prevent an accidental leak of protected information by employees.
 
-The already proposed risk mitigation is to augment the Data Loss Prevention (DLP) capability with a tool that enforces classification of documents and emails.
-However, as the evaluated options so far can be costly, implementation is not being considered for the short term.
+A proposed mitigation item to reduce this risk is to augment the Data Loss Prevention (DLP) capability with a tool that enforces classification of documents and emails.
+However, as the evaluated options to date are costly, implementation is not being considered for the short term.
 
-Finally, it's worth noting that some Web tools can already be accessed on the ESDC network and are being used by employees (See [Appendix B](#appendix-b---web-tools-already-accessible)).
+The following Web tools can already be accessed on the ESDC network and are being used by employees (See [Appendix B](#appendix-b---web-tools-already-accessible)).
 
 ### Considerations
 
-Departments are leveraging Web tools to collaborate and engage with citizens and public administrations in Canada and the world.
+Departments are leveraging Web tools to collaborate and engage with citizens and public administrations both in Canada and across the globe.
 For example, the latest Open Government Plan and Service and Digital Target Architecture from TBS were shared as drafts for consultation and comments on Google Docs.
 The GC Digital Academy and Free Agents, as well as other groups, frequently use Google Forms for registration.
 
-In order to move forward, we propose a balanced approach in granting access to additional Web tools (See [Appendix A](#appendix-a---web-tools-to-grant-access)) only for IITB employees in the short term, as a step toward broader access in ESDC.
-As IITB employees generally don't deal with protected information and are well informed and trained on the management of information, we anticipate the risk to be minimal.
-On the other side, the benefits should bring great value such as enhancing collaboration and efficiency, increasing job satisfaction and helping attract and retain IT talent.
+In order to improve ESDC's ability to leverage current Web tools, a balanced approach is proposed for granting access to additional Web tools (See [Appendix A](#appendix-a---web-tools-to-grant-access)) only for IITB employees in the short term, as a step toward broader access in ESDC.
+As IITB employees generally don't deal with protected information and are well informed and trained on the management of information, the risk would be minimal.
+In addition, the benefits should bring great value such as enhancing collaboration and efficiency, increasing job satisfaction and helping attract and retain IT talent.
 
 ### Recommendations
 
