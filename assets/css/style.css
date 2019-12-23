@@ -58,6 +58,17 @@ body {
   color: #1EBBA3;
 }
 
+.dropdown .dropdown-toggle {
+  color: #545454 !important;
+}
+
+li .nav-link {
+  color: #545454 !important;
+}
+
+p a {
+  color: #0054B3 !important;
+}
 .custom-toggler-icon {
   color: white;
   font-size: 1.6rem;
