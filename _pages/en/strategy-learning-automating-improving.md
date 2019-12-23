@@ -21,10 +21,9 @@ Strategies will be reviewed and updated quarterly based on current progress and 
 ### Goals
 
 - Continuously learn, automate and improve
-- Reduce lead time for changes and delivery of services
+- Reduce lead time for changes and delivery of services/devices
 - Recover faster incidents and errors
 - Reduce frequency of incidents and errors
-- Show improvement
 
 #### Align with GC IT Direction
 
@@ -41,9 +40,8 @@ Strategies will be reviewed and updated quarterly based on current progress and 
 
 - **Use CATS codes for continuous improvement**
 - **Gather metrics for things your teams work on**
-  - **Deployment (change) frequency**
-  - **lead time for change (or delivery of service/device)**
-  - **Time to restore (following issue with change)**
+  - **Lead time for change or delivery of services/devices**
+  - **Time to restore following incidents and errors**
   - **Change fail rate**
 
 ##### Guidance
@@ -62,9 +60,8 @@ Strategies will be reviewed and updated quarterly based on current progress and 
 
 - Make quarterly strategies a requirement in performance agreements of directors, managers and team leads
 - Create cloud and desktop sandboxes (labs) for experimentation
-- [Unblock access to Web tools for IITB employees](web-services-access.html)
+- [Grant access to more Web tools for IITB employees](web-services-access.html)
 - Add all approved desktop software, including commercial and OSS, to Application Catalogue
-- Something about experimentation/failure and management support..
 
 ### IT Strategy Will
 
@@ -72,7 +69,7 @@ Strategies will be reviewed and updated quarterly based on current progress and 
 
 - Draft requirements for 2020-04 updates to PMAs (must follow quarterly strategies)
 - Create CATS code for continuous improvement
-- [Unblock access to Web tools for IITB employees](web-services-access.html)
+- [Grant access to more Web tools for IITB employees](web-services-access.html)
 
 #### During Q1
 
