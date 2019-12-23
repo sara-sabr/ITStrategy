@@ -7,39 +7,89 @@ author: "Rémy Bernard, in collaboration with the IT Strategy team"
 date: "2019-12-20"
 excerpt_separator: <!--more-->
 ---
-In this blog, I am claiming that IT initiatives are currently governed in a way that ends up promoting risks instead of reducing them, lead to incorrect investments decisions, and ultimately reduces our ability to meet our fiduciary responsibility towards public funds as required in the Financial Administration Act.
+In this blog, I am claiming that IT initiatives are currently governed in a way that ends up promoting risks instead of reducing them, leads to incorrect investments decisions, dilutes our empathy towards end-users, and ultimately reduces our ability to meet our fiduciary responsibility towards public funds as required in the [Financial Administration Act](https://laws.justice.gc.ca/eng/acts/F-11/index.html).
 <!--more-->
+
+This blog will link to internal ESDC documents which are only accessible within the ESDC corporate network.
 
 ## Problem Statement
 
-Governance of IT initatives is required and I am in no way saying we need to remove it. However, the current methods seek a high level of predictability using advance planning and rigid plan execution which may work for physical assets like constructing a building but not work for intagible ones like software. In addition, the transition towards Digital Government is creating a future that is highly complex and uncertain which I argue requires a different means to govern IT investments: one that rewards an empirical cycle of trying, observing, and correcting.
+Governance of IT initatives is required and I am in no way saying we need to remove it. However, the current methods seek a high level of predictability using advance planning and rigid plan execution which may work for physical assets like constructing a house but not for intagible ones like software. In addition, the transition towards Digital Government is creating a future that is highly complex and uncertain which I argue requires a different means to govern IT investments: one that rewards an empirical cycle of trying, observing, and correcting.
 
-At ESDC, we have a [Poliy on Project and Program Management (PPPM)](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/2-01PL-182E-Project%20and%20Programme%20Management%20Policy%20on-withBanner-v1.0.pdf) that complies with the Treasury Board (TB) Policy on Planning and Management of Investments. This Policy acts as the authoritative means under which all projects and programmes within ESDC are managed. The following [Project Lifecycle framework (PMLC)](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/02-05G-271E-ProjectLifeCycle-v4.0.pdf) is used to guide the management of projects, according to their classification in size (which is based on cost, risk, capability, and complexity. But really the cost variable is really driving this). A **small** IT project (one that is between $500k and $2.5M in size) is expected to produced between 21 and 34 project management artefacts, requires between 48 and 54 project management activities, and involves 16 stakeholders. This effort is to go through the PMLC, not to make actual software changes. For **major** IT projects (greater than $5M) we are looking at producing 24 to 39 artefacts, 52 to 60 activities, and same 16 stakholders.
+At ESDC, we have a [Poliy on Project and Program Management (PPPM)](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/2-01PL-182E-Project%20and%20Programme%20Management%20Policy%20on-withBanner-v1.0.pdf) that complies with the Treasury Board (TB) [Policy on Planning and Management of Investments](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32593) with one of its objectives being ensuring *accountability and success of the Portfolio of projects and programmes with a ***specific focus on the benefits of investments*** in projects and programmes*. This ESDC Policy acts as the authoritative means under which all projects and programmes within ESDC are managed. The [Project Lifecycle framework (PMLC)](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/02-05G-271E-ProjectLifeCycle-v4.0.pdf) is used to guide the management of projects, according to their classification in size (which is based on cost, risk, capability, and complexity. But really the cost variable is really driving this).
 
-- early commitment on scope, schedule, and cost
-- change process
-- receive feedback at end
-- closure when it's ongoing
+In the PMLC, a **small** IT project (one that is between $500k and $2.5M in size) is expected to produce between 21 and 34 project management artefacts, requires between 48 and 54 project management activities, and involves 16 stakeholders. For **major** IT projects (greater than $5M) we are looking at producing 24 to 39 artefacts, 52 to 60 activities, and same 16 general stakeholders but involving more rigour and details for activities and artefact content. Note that in the 16 stakeholders, only 5 of them are from the IT Branch but in reality it's much more than this as I'll explain later.
+
+I argue that this method of managing funds for IT initiatives does the following:
+
+- it promotes risks instead of reducing them
+- it results in incorrect investment decisions
+- it dilutes empathy towards the end-user (the citizen)
+- it reduces our ability to meed our fiduciary responsibility towards public funds
+
+### Promoting risks instead of reducing them
+
+This heavy project governance process, though it is intended as a means to reduce risks, ends up promoting them instead. Because the effort of making small IT changes do not warrant the effort of going through this burden, we end up waiting. We wait until we have enough small changes piled up to justify the effort in seeking permission to make them. We inadvertently end up promoting feature bloat.
+
+Piling up small changes into large ones [is risky](https://sencanada.ca/content/sen/committee/421/NFFN/reports/NFFN_Phoenix_Report_32_WEB_e.pdf).
+
+In addition, the **Project Sponsor** has to commit to scope, costs, and schedule at gate 3, before project execution (gate 4). We know how to build houses because we've been doing it for centuries and the methods we use haven't changed much, so our cost and schedule estimates for houses can come with a pretty good level of precision. But in the software world, where technology changes so rapidely, systems get more and more integrated and complex, costs and schedule are but guesses and are highly unlikely to be accurate. This means you can expect your original estimates to change once project executes. Project governance includes a [change control process](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/ChangeControl-Guide-PMIS-E.pdf) that requires you to provide information on the scope of change and, depending on that scope, seek different kinds of governance approvals before you are permitted to change. Getting information on the scope of change *is* also work. It requires re-engaging the different IT teams, stopping them from doing what they are currently doing, and re-evaluating the same type of information as the original project estimates (scope, costs, and schedule).
+
+As per above, the effort of going through the change control process must be proportional to the actual change effort otherwise it gets piled up. This effort also includes going through governance bodies and having to explain why we could not have predicted such a change in the first place; why our original estimates were no accurate. Explaining why we were wrong is not fun...
+
+In a sense, the current governance does not welcome change which is a direct contradict to the [Manifesto for Agile Software Development](https://agilemanifesto.org/) (4th value in the list).
+
+Finally, because the **Project Sponsor** already committed to a fixed scope, costs, and schedule at gate 3, and because change is actually difficult to implement, we end up sticking to the plan, especially scope and schedule. This results in IT having to cut essential work that are not visible to the sponsor such as testing, quality assurance, performance, security, documentation, and most especially: technical debt remediation. The project may be delivered on time and on budget but so much cutting has been made that its quality suffers and the IT team ends up having to absorbe a large amount of debt. Some of this debt will be articulated in a residual risk plan that security will use to issue its interim authority to operate with a promise that the plan will be executed in the future. Which, let's be honest, ends up unlikely because this unattractive, non-functional requirements, plan will be competing with attractive new-feature-riched plans that have been waiting for their turn.
+
+### Incorrect investment decisions
+
+In the PMLC mentioned above, **Develop and test solution** is only one project activity from the list of 48 to 60 but is the most intensive one, the reason this whole project was funded, where we will spend most of our time, and will involve at least 12 more stakeholders just within the IT Branch (as per [this process map](onenote:http://dialogue/grp/PR6893344/OneNote/AppDevSA/02-Development%20(In%20Progress)/Outcomes%20Map.one#Feature%20to%20Release%20BPM&section-id={5E16E60C-310B-49EF-8451-88E0CE4DA968}&page-id={8208D63D-CE7D-49EB-BF48-033A38FA5825}&end) created by our Senior Advisors).
+
+It is in this **Develop and test solution** activity that we end up uncovering many unknowns (internal skillsets limitations, systems integration limitations, technical debt, new technology stack capabilities that could solve problems but are not part of our current standards, security vulnerabilities, etc). No ammount of advanced planning can completely uncover these unknowns due to the fast pace of technology changes and, more importantly, growing **end-user demands** which are validated only when we **Hand off solution to operations** and produce the **Benefits Realization Plan**.  
+
+These **end-user demands** are what we include in the **Business Case** project artefacts (following the "business needs" and "identify strategic alignment" project activities). But what is a Business Case? I argue it's but a **Hypothesis**. It is essentially asking the organization for funds and resources to evaluate whether changes in IT systems, or new ones, would improve service delivery to citizens. Such **hypothesis** should be validated quickly in order to reduce any amount of funds and efforts towards something that ends up [not improving service delivery](https://sencanada.ca/content/sen/committee/421/NFFN/reports/NFFN_Phoenix_Report_32_WEB_e.pdf).
+
+The current governance framework does not allow the department to get to the **Hand off solution to operations** fast enough as a means to evaluate its hypothesis because projects are too big. In addition, once its hypothesis is evaluated, the project ends instead of allowing for course correction.
+
+In a sense, the current framework promotes incorrect investment decisions because it allows large projects to run for too long without the end-user feedback loop that can validate whether such investments are worthwhile. This precisely goes agasint the spirit of Digital Government in [being more agile, open, and user focused](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html).
+
+### Diluting empathy towards the end-user
+
+In the PMLC mentioned above, changes to the systems start with an investment proposals from a business owner that is given to the Director General Project Oversight Committee (DG POC). From there, it will go through 5 stages involving more than 16 stakeholders, and go through [about 9 committees](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/SitePages/Governance.aspx) (depending on the scale of the request). The IT product team(s) working on the project gets involved at Stage 4, after 14 stakeholders went through the end-user's request, will start interacting with a [dozen seprate IT teams]((onenote:http://dialogue/grp/PR6893344/OneNote/AppDevSA/02-Development%20(In%20Progress)/Outcomes%20Map.one#Feature%20to%20Release%20BPM&section-id={5E16E60C-310B-49EF-8451-88E0CE4DA968}&page-id={8208D63D-CE7D-49EB-BF48-033A38FA5825}&end)), and will have to give periodic information to those 9 committees on progress.
+
+The \#1 Government of Canada's Digital Standard is **Design with users**, but the current framework inhibits the IT team to interact with the user as it adds control points between the many teams interactions. In addition, as we've stated above, the IT project should be a **hypothesis**, one that MUST be validated with real users, not through proxies which [requirement \#4.2.1.5 of the upcoming Policy on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603) essentially requires deputy heads to do.
+
+By adding the layers between the end-user that initiated the investment proposal and the IT team(s) expected to work on it, we have essentially diluted the empthy towards her.
+
+### Fiduciary responsibility towards public funds
+
+The [Financial Administration Act](https://laws.justice.gc.ca/eng/acts/F-11/index.html) containts the following 2 sections:
+
+section **7 (1) (c)**
+
+> 7 (1) The Treasury Board may act for the Queen’s Privy Council for Canada on all matters relating to
+>
+> (c) financial management, including estimates, expenditures, financial commitments, accounts, fees or charges for the provision of services or the use of facilities, rentals, licences, leases, revenues from the disposition of property, and procedures by which departments manage, record and account for revenues received or receivable from any source whatever;
+
+section **16.4 (1)**
+
+> 16.4 (1) Within the framework of the appropriate minister’s responsibilities and his or her accountability to Parliament, and subject to the appropriate minister’s management and direction of his or her department, the accounting officer of a department named in Part I of Schedule VI is accountable before the appropriate committees of the Senate and the House of Commons for
+>
+> (a) the measures taken to organize the resources of the department to deliver departmental programs in compliance with government policies and procedures;
+>
+> (b) the measures taken to maintain effective systems of internal control in the department;
+
+The above three points in this blog (promoting risks, incorrect investment decisions, and diluting empathy towards the end-user) are arguments that our fiduciary responsibility towards public funds needs to improve. We must find methods that provides a much simpler, faster, and agile way of releasing funds for digital projects. [Other countries, like Australia](https://www.itnews.com.au/news/federal-it-funding-shake-up-floated-by-services-australia-minister-534843) are looking at new funding models that provides the means to support Digital Transformation, such as
+
+> enable agencies to try things, learn and scale up or share their learnings before significant amounts of money and reputation capital are sunk into projects that may not deliver what they set out to do.
 
 ## Recommendations
 
-- measurements and course corrections instead of control
-- open source
-- have right team (user with developers, security, policy) for rapid feedback loops
+To remediate the above problems, I propose the following:
 
-## References
-
-https://www.itnews.com.au/news/federal-it-funding-shake-up-floated-by-services-australia-minister-534843
-
-https://laws.justice.gc.ca/eng/acts/F-11/index.html
-section 7 (1) (c)
-> 7 (1) The Treasury Board may act for the Queen’s Privy Council for Canada on all matters relating to
-
-    (c) financial management, including estimates, expenditures, financial commitments, accounts, fees or charges for the provision of services or the use of facilities, rentals, licences, leases, revenues from the disposition of property, and procedures by which departments manage, record and account for revenues received or receivable from any source whatever;
-
-section 16.4 (1)
-16.4 (1) Within the framework of the appropriate minister’s responsibilities and his or her accountability to Parliament, and subject to the appropriate minister’s management and direction of his or her department, the accounting officer of a department named in Part I of Schedule VI is accountable before the appropriate committees of the Senate and the House of Commons for
-
-    (a) the measures taken to organize the resources of the department to deliver departmental programs in compliance with government policies and procedures;
-
-    (b) the measures taken to maintain effective systems of internal control in the department;
+1. Promote smaller IT investments over large ones as a means to reduce risk impact to the organization;
+2. Treat every project as a hypothesis, one that must be validated by end-users as fast as possible, which will invariably require course corrections;
+3. Put much more emphasis on outcome measurements than on project deliverables. This promotes investment in [Business Architecture and Departmental Value Stream](http://dialogue/grp/EA-AE/SitePages/dvsmodel.aspx) using strong, reliable metrics from lines of businesses;
+4. Treat software like products, not physical assets. They need a steady source of funding and dedicated teams to allow timely technical debt remediation and evolution. Teams comprise not only of developers but also security, operations, testing, policy experts, and *actual* users;
+5. Use architectural guardrails instead of gates, where Enterprise Architecture acts as a monitoring discipline making recommendations for course correction to align individual products towards the target enterprise architecture state.
+6. Embrace open source's philosophy to [work in the open](https://sara-sabr.github.io/ITStrategy/2019/11/19/working-in-the-open-part-1.html) and share your work as a means to get economies of scale, avoid lengthy procurement battles, and support vendor lock-in strategies.
