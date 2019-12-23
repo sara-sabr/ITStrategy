@@ -179,7 +179,9 @@
     "Posteo",
     "Zulip",
     "Gitter",
-    "Homeserver"
+    "Homeserver",
+    "Cconnex",
+    "Ccollab"
   ],
   "flagWords": [],
   "dictionaries": [

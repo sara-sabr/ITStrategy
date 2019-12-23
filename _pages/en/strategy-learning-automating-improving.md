@@ -14,10 +14,8 @@ The following strategies and actions apply for the 1st quarter of the 2020-2021 
 Strategies will be reviewed and updated quarterly based on current progress and following the Strategy Map (layering on the strategies).
 
 - [Goals](#goals)
-- [Effective Immediately - IT teams must](#effective-immediately---it-teams-must)
+- [IITB teams must](#iitb-teams-must)
 - [IT Strategy Will](#it-strategy-will)
-- [Appendix A - Initiatives to Support](#appendix-a---initiatives-to-support)
-- [Appendix B - Upcoming strategies FY 2020-2021](appendix-b---upcoming-strategies-fy-2020-2021)
 
 ### Goals
 
@@ -36,51 +34,51 @@ Strategies will be reviewed and updated quarterly based on current progress and 
 - [Mandatory Procedures on APIs](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604)
 - [Acceptable Network and Device Use](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32605)
 
-### Effective Immediately - IT teams must
-
-- [Use 20% of time to learn, automate and improve](#use-20-of-time-to-learn-automate-and-improve)
-- [Have access to resources and modern IT tools](#have-access-to-resources-and-modern-it-tools)
+### IITB teams must
 
 #### Use 20% of time to learn, automate and improve
 
-##### Actions
-
-- **Make it a requirement in performance agreements of directors, managers and team leads**
-- **Use CATS codes for continuous improvement and learning**
-- **Invest in training on agile for managers and team leads**
-- **Encourage assignments with CDS-ESDC team or CSPS**
-- **Invest to establish agile/DevOps Dojos for IT teams**
+- **Use CATS codes for continuous improvement**
+- **Gather metrics for things your teams work on**
+  - **Deployment (change) frequency**
+  - **lead time for change (or delivery of service/device)**
+  - **Time to restore (following issue with change)**
+  - **Change fail rate**
 
 ##### Guidance
 
 - Read, take courses, attend events and conferences
 - Stay up to date on trends and technologies
+- Encourage assignments with CDS-ESDC team or CSPS
 - Share knowledge with colleagues
-  - IITB showcase, Dev CoP, ..
+  - IITB showcase, Dev CoP, GCconnex, GCcollab, ..
 - Review existing processes and governance structure
 - Automate where possible
-- Show progress on automation and continuous improvements
 
-#### Have access to resources and modern IT tools
+### IITB must
 
-##### Actions
+#### Before Q1
 
-- **Create cloud and desktop sandboxes (labs) for experimentation**
-- **[Unblock access to specific SaaS for IITB employees](web-services-access.html)**
-- **Organize regular informal meetings between senior management and a team/project that recently "failed"**
-- **Invest in Bandwidth, Data Loss Protection (DLP) and a Document Classification Tool to enable more open access to Internet**
-- **Add all approved desktop software, including commercial and OSS, to Application Catalogue**
-
-##### Guidance
-
-- Make it easy to request access to sandbox environments (self-service)
-- Create a safe environment for experimentation
+- Make quarterly strategies a requirement in performance agreements of directors, managers and team leads
+- Create cloud and desktop sandboxes (labs) for experimentation
+- [Unblock access to Web tools for IITB employees](web-services-access.html)
+- Add all approved desktop software, including commercial and OSS, to Application Catalogue
+- Something about experimentation/failure and management support..
 
 ### IT Strategy Will
 
+#### Before Q1
+
+- Draft requirements for 2020-04 updates to PMAs (must follow quarterly strategies)
+- Create CATS code for continuous improvement
+- [Unblock access to Web tools for IITB employees](web-services-access.html)
+
+#### During Q1
+
 - [Coordinate communications of strategies](#coordinate-communications-of-strategies)
 - [Organize a Hackathon for IITB and ESDC](#organize-a-hackathon-for-iitb-and-esdc)
-- [Other things](#other-things)
+- Survey about Q1 strategies
+- Prepare Q2 strategies
 
 #### Coordinate communications of strategies
 
@@ -93,21 +91,6 @@ Strategies will be reviewed and updated quarterly based on current progress and 
 
 #### Organize a Hackathon for IITB and ESDC
 
-- Host first hackathon before end of March 2020
+- Host first hackathon (2020-04)
   - Promote learning, automation and improvement
   - Digital, agile and cloud
-
-#### Other things
-
-- Draft requirements for PMAs (20% time learn automate improve)
-- Create or identify CATS codes for continuous improvement and learning (300)
-- Push for more open access to tools
-- Review strategies for FY 2020-2021 Q1
-
-### Appendix A - Initiatives to Support
-
-- EA - [Grassroots Innovation Practice](http://dialogue/grp/IP/SitePages/Grassroots%20Innovation%20Practice.aspx)
-- PMO - Proof of Concept (PoC)
-- DTS - Agile, DevOps, Product management
-- ITS - ESDC support for GCcode
-- Communities such as OneTeamGov, GC DevOps League, Agora OSS...
