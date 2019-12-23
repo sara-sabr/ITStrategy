@@ -2,6 +2,8 @@
 
 ESDC IT Strategy (30 min presentation)
 
+---
+
 ## Agenda
 
 1. (5 min) Approach to IT Strategy
@@ -14,9 +16,11 @@ ESDC IT Strategy (30 min presentation)
 
 ## 1. IT Strategy approach
 
-Purpose: Set the stage by clearly communicating that we are not doing conventional IT strategy with some examples of what that means
+### Purpose
 
-Talk about:
+Set the stage by clearly communicating that we are not doing conventional IT strategy with some examples of what that means
+
+note:
 
 - Genesis of IT strategy and reason why the team got created (Dec 2018 senior leader meeting, goal of getting an integrated business-IT strategy)
 - How we are **NOT** doing this
@@ -24,8 +28,12 @@ Talk about:
 - How are **are** doing this: In the open. All are welcome and invited to comment and contribute to the strategies at all times -- as far customers, private sector partners, other levels of government, or other departments.
 - Talk about premise: the relationship between business and IT *must* change to a shared accountability model, as the conventional contracting model (requirements based, a company within a company) of business-IT does deliver the intended results in a digital age. We should instead move to a partnership based approach (outcomes based, one team). The future is too unpredictable and complex so the conventional long term planning do not deliver the intended results. Therefore, we must instead reward an empirical cycle of trying, observing, and correcting.
 
+--
+
 Quote of Mark Schwartz
 > To work effectively in the digital world, you must first accept complexity and uncertainty, for they demand very different approach to carrying out initiatives. A predictable world rewards advanced planning and rigid plan execution. But a complex and uncertain world rewards an empirical cycle of trying, observing, and correcting.
+
+--
 
 Talk about 4 angles the team is addressing using strategies (mandate)
 
@@ -39,7 +47,7 @@ Talk about 4 angles the team is addressing using strategies (mandate)
   - example: Technical work needing to be reviewed by non technical staff for approval
   - example: Defaults over standards (if an expert in their respective area proposes a different approach than the departmental 'default' they are free to do so -- perhaps that will become the next default)
 
---
+---
 
 ### 2. Focused Areas
 
@@ -55,7 +63,7 @@ Talk about 4 angles the team is addressing using strategies (mandate)
 
 Link to [Strategy Map](https://sara-sabr.github.io/ITStrategy/strategy-summary.html)
 
---
+---
 
 ### 3. Recommended immediate actions
 
@@ -66,6 +74,8 @@ Link to [Strategy Map](https://sara-sabr.github.io/ITStrategy/strategy-summary.h
 5. Promote smaller investments over large ones by leveraging Lite Projects
 
 Link to [Strategies and Actions](https://sara-sabr.github.io/ITStrategy/strategies-actions.html)
+
+--
 
 ### Supporting materials and information
 
