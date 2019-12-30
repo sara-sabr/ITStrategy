@@ -7,7 +7,7 @@ author: "Rémy Bernard, in collaboration with the IT Strategy team"
 date: "2019-12-20"
 excerpt_separator: <!--more-->
 ---
-In this blog, I am claiming that IT initiatives are currently governed in a way that ends up promoting risks instead of reducing them, leads to incorrect investment decisions, dilutes our empathy towards end-users, and ultimately reduces our ability to meet our fiduciary responsibility towards public funds as required in the [Financial Administration Act](https://laws.justice.gc.ca/eng/acts/F-11/index.html).
+In this blog, I am claiming that IT initiatives are currently governed in a way that ends up promoting risks instead of reducing them, leads to incorrect investment decisions, dilutes our empathy towards end users, and ultimately reduces our ability to meet our fiduciary responsibility towards public funds as required in the [Financial Administration Act](https://laws.justice.gc.ca/eng/acts/F-11/index.html).
 <!--more-->
 
 This blog will link to internal ESDC documents which are only accessible within the ESDC corporate network.
@@ -24,8 +24,8 @@ I argue that this method of managing funds for IT initiatives does the following
 
 - promotes risks instead of reducing them
 - results in incorrect investment decisions
-- dilutes empathy towards the end-user (the citizen)
-- reduces our ability to meed our fiduciary responsibility towards public funds
+- dilutes empathy towards the end user (the citizen)
+- reduces our ability to meet our fiduciary responsibility towards public funds
 
 ### Promoting risks instead of reducing them
 
@@ -39,13 +39,13 @@ As per above, the effort of going through the change control process must be pro
 
 In a sense, the current governance does not welcome change which is a direct contradict to the [Manifesto for Agile Software Development](https://agilemanifesto.org/) (4th value in the list).
 
-Finally, because the **Project Sponsor** already committed to a fixed scope, costs, and schedule at gate 3, and because change is actually difficult to implement, we end up sticking to the plan, especially scope and schedule. This results in IT having to cut essential work that are not visible to the sponsor such as testing, quality assurance, performance, security, documentation, and most especially: technical debt remediation. The project may be delivered on time and on budget but so much cutting has been made that its quality suffers and the IT team ends up having to absorb a large amount of debt. Some of this debt will be articulated in a residual risk plan that security will use to issue its interim authority to operate with a promise that the plan will be executed in the future. Which, let's be honest, ends up unlikely because this unattractive, non-functional requirements, plan will be competing with attractive new-feature-rich plans that have been waiting for their turn.
+Finally, because the **Project Sponsor** already committed to a fixed scope, costs, and schedule at gate 3, and because change is actually difficult to implement, we end up sticking to the plan, especially scope and schedule. This results in IT having to cut essential work that is not visible to the sponsor such as testing, quality assurance, performance, security, documentation, and most especially: technical debt remediation. The project may be delivered on time and on budget but so much cutting has been made that its quality suffers and the IT team ends up having to absorb a large amount of debt. Some of this debt will be articulated in a residual risk plan that security will use to issue its interim authority to operate with a promise that the plan will be executed in the future. Which, let's be honest, ends up unlikely because this unattractive, non-functional requirements, plan will be competing with attractive new-feature-rich plans that have been waiting for their turn.
 
 ### Incorrect investment decisions
 
 In the PMLC mentioned above, **Develop and test solution** is only one project activity from the list of 48 to 60 but is the most intensive one, the reason this whole project was funded, where we will spend most of our time, and will involve at least 12 more stakeholders just within the IT Branch (as per [this process map](onenote:http://dialogue/grp/PR6893344/OneNote/AppDevSA/02-Development%20(In%20Progress)/Outcomes%20Map.one#Feature%20to%20Release%20BPM&section-id={5E16E60C-310B-49EF-8451-88E0CE4DA968}&page-id={8208D63D-CE7D-49EB-BF48-033A38FA5825}&end) created by our Senior Advisors).
 
-It is in this **develop and test solution** activity that we end up uncovering many unknowns (internal skill sets limitations, systems integration limitations, technical debt, new technology stack capabilities that could solve problems but are not part of our current standards, security vulnerabilities, etc). No amount of advanced planning can completely uncover these unknowns due to the fast pace of technology changes and, more importantly, growing **end-user demands** which are validated only when we **hand off solution to operations** and produce the **Benefits Realization Plan**.
+It is in this **develop and test solution** activity that we end up uncovering many unknowns (internal skill sets limitations, systems integration limitations, technical debt, new technology stack capabilities that could solve problems but are not part of our current standards, security vulnerabilities, etc.). No amount of advanced planning can completely uncover these unknowns due to the fast pace of technology changes and, more importantly, growing **end-user demands** which are validated only when we **hand off solution to operations** and produce the **Benefits Realization Plan**.
 
 These **end-user demands** are what we include in the **Business Case** project artefacts (following the "business needs" and "identify strategic alignment" project activities). But what is a Business Case? I argue it's but a **hypothesis**. It is essentially asking the organization for funds and resources to evaluate whether changes in IT systems, or new ones, would improve service delivery to citizens. Such **hypothesis** should be validated quickly in order to reduce any amount of funds and efforts towards something that ends up [not improving service delivery](https://sencanada.ca/content/sen/committee/421/NFFN/reports/NFFN_Phoenix_Report_32_WEB_e.pdf).
 
@@ -53,13 +53,13 @@ The current governance framework does not allow the department to get to the **h
 
 In a sense, the current framework promotes incorrect investment decisions because it allows large projects to run for too long without the end-user feedback loop that can validate whether such investments are worthwhile. This precisely goes against the spirit of Digital Government in [being more agile, open, and user focused](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html).
 
-### Diluting empathy towards the end-user
+### Diluting empathy towards the end user
 
-In the PMLC mentioned above changes to the systems start with an investment proposals from a business owner that is given to the Director General Project Oversight Committee (DG POC). From there, it will go through 5 stages involving more than 16 stakeholders, and go through [about 9 committees](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/SitePages/Governance.aspx) (depending on the scale of the request). The IT product team(s) working on the project gets involved at Stage 4, after 14 stakeholders went through the end-user's request, will start interacting with a [dozen seperate IT teams]((onenote:http://dialogue/grp/PR6893344/OneNote/AppDevSA/02-Development%20(In%20Progress)/Outcomes%20Map.one#Feature%20to%20Release%20BPM&section-id={5E16E60C-310B-49EF-8451-88E0CE4DA968}&page-id={8208D63D-CE7D-49EB-BF48-033A38FA5825}&end)), and will have to give periodic information to those 9 committees on progress.
+In the PMLC mentioned above changes to the systems start with an investment proposals from a business owner that is given to the Director General Project Oversight Committee (DG POC). From there, it will go through 5 stages involving more than 16 stakeholders, and go through [about 9 committees](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/SitePages/Governance.aspx) (depending on the scale of the request). The IT product team(s) working on the project gets involved at Stage 4, after 14 stakeholders went through the end user's request, will start interacting with a [dozen seperate IT teams]((onenote:http://dialogue/grp/PR6893344/OneNote/AppDevSA/02-Development%20(In%20Progress)/Outcomes%20Map.one#Feature%20to%20Release%20BPM&section-id={5E16E60C-310B-49EF-8451-88E0CE4DA968}&page-id={8208D63D-CE7D-49EB-BF48-033A38FA5825}&end)), and will have to give periodic information to those 9 committees on progress.
 
 The \#1 Government of Canada's Digital Standard is **Design with users**, but the current framework inhibits the IT team to interact with the user as it adds control points between the many teams interactions. In addition, as we've stated above, the IT project should be a **hypothesis**, one that MUST be validated with real users, not through proxies which [requirement \#4.2.1.5 of the upcoming Policy on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603) essentially requires deputy heads to do.
 
-By adding the layers between the end-user that initiated the investment proposal and the IT team(s) expected to work on it, we have essentially diluted the empathy towards her.
+By adding the layers between the end user that initiated the investment proposal and the IT team(s) expected to work on it, we have essentially diluted the empathy towards her.
 
 ### Fiduciary responsibility towards public funds
 
@@ -79,7 +79,7 @@ section **16.4 (1)**
 >
 > (b) the measures taken to maintain effective systems of internal control in the department;
 
-The above three points in this blog (promoting risks, incorrect investment decisions, and diluting empathy towards the end-user) are arguments that our fiduciary responsibility towards public funds needs to improve. We must find methods that provides a much simpler, faster, and agile way of releasing funds for digital projects. [Other countries, like Australia](https://www.itnews.com.au/news/federal-it-funding-shake-up-floated-by-services-australia-minister-534843) are looking at new funding models that provides the means to support Digital Transformation, such as
+The above three points in this blog (promoting risks, incorrect investment decisions, and diluting empathy towards the end user) are arguments that our fiduciary responsibility towards public funds needs to improve. We must find methods that provides a much simpler, faster, and agile way of releasing funds for digital projects. [Other countries, like Australia](https://www.itnews.com.au/news/federal-it-funding-shake-up-floated-by-services-australia-minister-534843) are looking at new funding models that provides the means to support Digital Transformation, such as
 
 > enable agencies to try things, learn and scale up or share their learnings before significant amounts of money and reputation capital are sunk into projects that may not deliver what they set out to do.
 
@@ -88,7 +88,7 @@ The above three points in this blog (promoting risks, incorrect investment decis
 To remediate the above problems, I propose the following:
 
 1. Promote smaller IT investments over large ones as a means to reduce risk impact to the organization;
-2. Treat every project as a hypothesis, one that must be validated by end-users as fast as possible, which will invariably require course corrections;
+2. Treat every project as a hypothesis, one that must be validated by end users as fast as possible, which will invariably require course corrections;
 3. Put much more emphasis on outcome measurements than on project deliverables. This promotes investment in [Business Architecture and Departmental Value Stream](http://dialogue/grp/EA-AE/SitePages/dvsmodel.aspx) using strong, reliable metrics from lines of businesses;
 4. Treat software like products, not physical assets. They need a steady source of funding and dedicated teams to allow timely technical debt remediation and evolution. Teams should be comprised not only of developers but also security, operations, testing, policy experts, and *actual* users;
 5. Use architectural guardrails instead of gates, where Enterprise Architecture acts as a monitoring discipline making recommendations for course correction to align individual products towards the target enterprise architecture state.
