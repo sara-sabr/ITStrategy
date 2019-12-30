@@ -71,7 +71,7 @@ It is in this **develop and test solution** activity that we end up uncovering m
 No amount of advanced planning can completely uncover these unknowns due to the fast pace of technology changes and, more importantly, growing **end user demands** which are validated only when we **hand off solution to operations** and produce the **Benefits Realization Plan**.
 
 These **end user demands** are what we include in the **Business Case** project artefacts (following the "business needs" and "identify strategic alignment" project activities).
-But what is a Business Case? I would argue it to be an **hypothesis**.
+But what is a Business Case? I would argue it to be a **hypothesis**.
 It is essentially asking the organization for funds and resources to evaluate whether changes in IT systems, or new ones, would improve service delivery to citizens.
 Such **hypothesis** should be validated quickly in order to reduce any amount of funds and efforts towards something that ends up [not improving service delivery](https://sencanada.ca/content/sen/committee/421/NFFN/reports/NFFN_Phoenix_Report_32_WEB_e.pdf).
 
