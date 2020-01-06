@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Communications Plan
-ref: communications-plan
+title: Communications Strategy
+ref: strategy-communications
 lang: en
 status: posted
 sections: Work In Progress
-permalink: /communications-plan.html
+permalink: /strategy-communications.html
 ---
 
-## Communications Plan
+## Communications Strategy
 
 - [Endorsement](#Endorsement)
 - [Outreach](#outreach)
