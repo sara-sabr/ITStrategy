@@ -44,7 +44,7 @@ If that sounded a little math-y or jargon-y, we'll walk through it below.
 
 If we graph f(x) = x we will get a line as follows
 
-![Graph of f(x) = x]({{site.baseurl}}/assets/images/graphx.PNG)
+![Graph of f(x) = x](/ITStrategy/assets/images/graphx.PNG)
 
 We are defining y-axis (the vertical one) as the total units of business value produced, and the x-axis to be time.
 The line then is the total units of business value produced over some unit of time.
@@ -63,7 +63,7 @@ This should give us an exponential curve, which looks something like this
 f(x) = x<sup>2</sup>
 <!-- markdownlint-enable MD033 -->
 
-![Graph of f(x) = x^2]({{site.baseurl}}/assets/images/drawgraphx2.PNG)
+![Graph of f(x) = x^2](/ITStrategy/assets/images/drawgraphx2.PNG)
 
 The most obvious thing we notice is that the exponential function grows much faster.
 One may counter, however, that there is an initial loss of productivity if one spends time improving rather than actually *doing work*, so we must account for this.
@@ -87,7 +87,7 @@ f(x) = x<sup>2</sup> - (x*l)
 What happens when we graph this? Well, let's assume we spent 20% of our day on continuous improvement.
 Then we lose 20% of our productivity per month.
 
-![Graph of f(x) = x^2]({{site.baseurl}}/assets/images/graphx2minusxl.PNG)
+![Graph of f(x) = x^2](/ITStrategy/assets/images/graphx2minusxl.PNG)
 
 Notice at the bottom that the curve flattens out slightly.
 This decrease in productivity is always present as x (the amount of time) increases.
@@ -149,11 +149,11 @@ f(x) = x<sup>1.1</sup> - (x*.2)
 
 And if we graph this, we will get the following curve
 
-![f(x) = x^(1.1) - (x*l)]({{site.baseurl}}/assets/images/fullfunction.PNG)
+![f(x) = x^(1.1) - (x*l)](/ITStrategy/assets/images/fullfunction.PNG)
 
 Great! What's next? Well, let's say we compare that with a team that does not continually improve, and continues to grind through, day to day, doing things "as they've always done them".
 
-![Compare curves]({{site.baseurl}}/assets/images/comparecurves1.PNG)
+![Compare curves](/ITStrategy/assets/images/comparecurves1.PNG)
 
 We can see that the red line, which represents the team that continually improves for 20% of their day for a small 10% return in productivity will be more productive in about 6 months (or 6.192 months, to be exact).
 Even if you reduced the productivity gained by half (to 5%, or 0.05), you would still find that before 39 months is up the team that continuously improves will inevitably end up outperforming the team who does not.
