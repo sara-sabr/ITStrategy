@@ -13,7 +13,7 @@ body {
   color: #505962;
 }
 
-.text-nuno {
+.text-splash {
   color: #1EBBA3;
 }
 
@@ -164,26 +164,15 @@ a.btn,
   border: 0;
 }
 
-/*-- Bouncing Down Arrow --*/
-.arrow {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-  animation: bounce 2s infinite;
-  -webkit-animation: bounce 2s infinite;
-}
-
-.down-arrow .svg-inline--fa {
-  color: white;
-  font-size: 2.2rem;
-  opacity: .3;
-}
-
-.down-arrow .svg-inline--fa:hover {
-  opacity: .8;
-}
-
 /*============= FEATURES SECTION =============*/
+
+.content {
+  position: absolute;
+  top: 55px;
+  bottom: 0;
+  overflow-y: scroll;
+  width: 100%;
+}
 
 .btn-sm {
   border-width: medium;
@@ -228,94 +217,6 @@ h3.heading {
   text-transform: uppercase;
   font-size: 1.3rem;
   padding-bottom: .4rem;
-}
-
-/*===== FIXED BACKGROUND IMG DARK =====*/
-
-/*--- iOS Fixed Background Image --*/
-.fixed {
-  position: relative;
-  width: 100%;
-}
-
-.fixed-wrap {
-  clip: rect(0, auto, auto, 0);
-  position: absolute;
-  height: 100%;
-  width: 100%;
-  top: 0;
-  left: 0;
-  z-index: -9999;
-}
-
-.fixed-dark {
-  background-image: url('../img/fixed/apple.jpg');
-  position: fixed;
-  height: 100%;
-  width: 100%;
-  background-size: cover;
-  background-position: center center;
-  -webkit-transform: translateZ(0);
-  transform: translateZ(0);
-  will-change: transform;
-  z-index: -1;
-  top: 0;
-  left: 0;
-  display: table;
-}
-
-.dark {
-  background-color: rgba(0, 0, 0, .7);
-  padding: 7rem 0;
-  z-index: 1000;
-}
-
-/*============= PORTFOLIO SECTION =============*/
-
-.portfolio-item img:hover {
-  transform: scale(1.3);
-  cursor: zoom-in;
-}
-
-.portfolio-item img {
-  transition: transform .4s ease;
-}
-
-/*============= PRICING SECTION =============*/
-
-.pricing-column {
-  background-color: white;
-  height: 100%;
-  padding: 1.6rem;
-  border-top: .25rem solid #1EBBA3;
-  box-shadow: 0 0 .8rem rgba(0, 0, 0, .075);
-  transition: transform .7s ease;
-  position: relative;
-  overflow: hidden;
-}
-
-.pricing-column:hover {
-  transform: scale(1.1);
-}
-
-.pricing-column h4 {
-  font-size: 1.1rem;
-  font-weight: 700;
-}
-
-.ribbon {
-  background-color: #6c757d;
-  color: white;
-  font-size: .8rem;
-  font-weight: 700;
-  height: 2rem;
-  width: 10rem;
-  padding-top: .4rem;
-  position: absolute;
-  transform: rotate(45deg);
-  right: -2.8rem;
-  top: 1.5rem;
-  box-shadow: 0 0 .2rem rgba(0, 0, 0, .25);
 }
 
 /*============= TEAM SECTION FIXED BG IMG LIGHT =============*/
@@ -387,41 +288,13 @@ ul.social li a:hover {
   color: #505962;
 }
 
-/*============= SKILLS SECTION =============*/
-
-
-/*============= CLIENTS SECTION =============*/
-
-#clients-carousel {
-  max-width: 1200px;
-  margin: 0 auto;
-}
-
-.clients img {
-  border-radius: 50%;
-  transition: transform .3s ease;
-}
-
-.clients img:hover {
-  transform: scale(.95);
-}
-
-blockquote .svg-inline--fa {
-  margin: 1rem;
-  color: #1EBBA3;
-}
-
-.clients-hr {
-  border-top: .1rem solid #1EBBA3;
-}
-
 /*============= CONTACT SECTION =============*/
 
 .footer {
-  background: url('../images/footer.jpg') no-repeat;
+  /*background: url('../images/footer.jpg') no-repeat;*/
   background-size: cover;
   color: white;
-  /* background-color: #505962; */
+  /*background-color: #a0a0a0;*/
 }
 
 .row.outer {
@@ -499,7 +372,13 @@ a.top-scroll:hover {
 }
 
 /*============= MEDIA QUERIES =============*/
-
+.content {
+  position: absolute;
+  top: 55px;
+  bottom: 0;
+  overflow-y: scroll;
+  width: 100%;
+}
 /* Devices under 992px (lg) */
 @media (max-width: 991.98px) {
   .caption h1 {
@@ -553,10 +432,6 @@ a.top-scroll:hover {
     background-image: url('../img/fixed/office-mobile.jpg')
   }
 
-  .footer {
-    background: url('../img/footer/footer-mobile.jpg') no-repeat;
-  }
-
   .top-scroll {
     display: none !important;
   }
@@ -588,7 +463,11 @@ Extra small (xs) devices (portrait phones, less than 576px)
 No media query since this is the default in Bootstrap
 
 Small (sm) devices (landscape phones, 576px and up)
-@media (min-width: 576px) { ... }
+@media (min-width: 576px) {
+  ...
+}
+
+768
 
 Medium (md) devices (tablets, 768px and up)
 @media (min-width: 768px) { ... }
