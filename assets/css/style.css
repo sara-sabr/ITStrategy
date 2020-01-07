@@ -95,6 +95,7 @@ a,
 a.btn,
 .svg-inline--fa {
   transition: all .6s ease;
+  color: black;
 }
 
 /*============= LANDING PAGE =============*/
@@ -156,6 +157,11 @@ a.btn,
   border-width: medium;
   padding: .8rem 1.5rem;
   font-size: 1.1rem;
+}
+
+.caption a {
+  background-color: rgb(137, 165, 184);
+  border: 0;
 }
 
 /*-- Bouncing Down Arrow --*/
