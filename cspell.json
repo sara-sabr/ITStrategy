@@ -206,7 +206,11 @@
     "Hoadley",
     "graphx",
     "drawgraphx",
-    "fullfunction"
+    "fullfunction",
+    "minusxl",
+    "comparecurves",
+    "areaundercurve",
+    "integralareaundercurve"
   ],
   "flagWords": [],
   "dictionaries": [
