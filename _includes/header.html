@@ -11,13 +11,15 @@
       <!-- Menu -->
       <ul class="navbar-nav ml-auto">
         <!--About Us - A propos de nous-->
-        {%-assign dropdown_section=site.sectionsList[page.lang][0]-%}
-        {%-assign dropdown_title=dropdown_section-%}
+        {%- assign dropdown_section=site.sectionsList[page.lang][0]-%}
+        {%- assign dropdown_title=dropdown_section-%}
+        {%- assign dropdown_id = "navbarDropdownAbout" -%}
         {% include dropdown.html %}
 
         <!--Our Strategies - Nos stratégies-->
-        {%-assign dropdown_section=site.sectionsList[page.lang][1]-%}
-        {%-assign dropdown_title=site.strategies[page.lang]-%}
+        {%- assign dropdown_section=site.sectionsList[page.lang][1]-%}
+        {%- assign dropdown_title=site.strategies[page.lang]-%}
+        {%- assign dropdown_id = "navbarDropdownStrategies" -%}
         {% include dropdown.html %}
 
         {%- assign pages=site.pages | where:"ref", "documents" | sort: 'lang' -%}
