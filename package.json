@@ -7,7 +7,7 @@
     "link-check": "node link-check.js",
     "lint": "markdownlint -i node_modules -i _site -i _includes \"**/*.md\"",
     "lint-editorconfig": "editorconfig-checker -disable-indentation -disable-insert-final-newline",
-    "spellcheck": "cspell \"_pages/en/*.md\" \"wip-tec/en/*.md\"",
+    "spellcheck": "cspell \"_pages/en/*.md\" \"_pages/fr/*.md\" \"wip-tec/en/*.md\"",
     "open-licences": "licensee --errors-only",
     "licence-compatibility": "license-compatibility-checker",
     "site-validator": "site-validator https://sara-sabr.github.io/ITStrategy/ --verbose",
@@ -32,6 +32,7 @@
   "devDependencies": {
     "chalk": "^2.4.2",
     "cspell": "^3.2.8",
+    "cspell-dict-fr-fr": "^1.2.11",
     "editorconfig-checker": "^3.0.3",
     "glob": "^7.1.2",
     "license-compatibility-checker": "^0.3.4",

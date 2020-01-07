@@ -1,6 +1,6 @@
 ﻿{
   "version": "0.1",
-  "language": "en",
+  "language": "fr",
   "words": [
     "markdownlint",
     "repo",
@@ -195,8 +195,14 @@
     "EARB"
   ],
   "flagWords": [],
+  "import": ["./node_modules/cspell-dict-fr-fr/cspell-ext.json"],
   "dictionaries": [
+      "fr-fr",
       "en-gb",
-      "fr-fr"
+      "en_US",
+      "typescript",
+      "softwareterms",
+      "html",
+      "css"
   ]
 }
