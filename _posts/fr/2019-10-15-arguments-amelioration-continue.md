@@ -143,7 +143,7 @@ Donc, pour *l*, nous choisirons 20 %, soit 0,2
 
 Maintenant, combien d'amélioration attendons-nous de 20 % de notre temps consacré à l'amélioration?
 En tant qu'employé du gouvernement, je sais que dans certains cas, ce retour peut être gargantuesque.
-Par exemple, l'[Estonie affirme économiser 820 années de temps de travail annuelement grâce à l'utilisation de services numériques automatisés (anglais)](https://e-estonia.com/how-save-annually-820-years-of-work/).
+Par exemple, l'[Estonie affirme économiser 820 années de temps de travail annuellement grâce à l'utilisation de services numériques automatisés (anglais)](https://e-estonia.com/how-save-annually-820-years-of-work/).
 Pour notre exemple, cependant, comme nous le verrons, le taux d'amélioration n'est pas très important.
 Vous finirez toujours par devenir plus productif si vous vous améliorez continuellement pendant assez longtemps.
 D'accord, alors, choisissons 10 %, ce qui équivaut à 0,1.
