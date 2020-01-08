@@ -17,7 +17,7 @@ _Note: This blog will link to internal ESDC documents, which are unfortunately o
 Governance of IT initiatives is required and I am in no way saying we need to remove it.
 However, the current methods seek a high level of predictability using advanced planning and rigid plan execution.
 This may work for physical assets like constructing a house, but not for intangibles -- like software.
-In addition, the transition towards Digital Government is creating a future that is highly complex and uncertain, which I argue requires a different means to govern IT investments: one that rewards an empirical cycle of trying, observing, and correcting.
+In addition, the transition towards Digital Government is creating a future that is highly complex and uncertain, which is argued requires a different means to govern IT investments: one that rewards an empirical cycle of trying, observing, and correcting. [^1]
 
 At ESDC, we have a [Policy on Project and Program Management (PPPM)](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/2-01PL-182E-Project%20and%20Programme%20Management%20Policy%20on-withBanner-v1.0.pdf) that complies with the Treasury Board (TB) [Policy on Planning and Management of Investments](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32593) with one of its objectives being ensuring *accountability and success of the Portfolio of projects and programmes with a ***specific focus on the benefits of investments*** in projects and programmes*.
 This ESDC Policy acts as the authoritative means under which all projects and programmes within ESDC are managed.
@@ -44,8 +44,8 @@ We inadvertently end up promoting feature bloat.
 Piling up small changes into large ones [is risky](https://sencanada.ca/content/sen/committee/421/NFFN/reports/NFFN_Phoenix_Report_32_WEB_e.pdf).
 
 In addition, the **Project Sponsor** has to commit to scope, costs, and schedule at gate 3, before project execution (gate 4).
-We know how to build houses because we've been doing it for centuries and the methods we use haven't changed much, so our cost and schedule estimates for houses can come with a pretty good level of precision.
-But in the software world, where technology changes so rapidly, systems get more and more integrated and complex, costs and schedule are anything but guesses and highly unlikely to be accurate.
+We know how to build houses because we've been doing it for centuries, the methods we use haven't changed much, and we do not expect those buildings to change much in the future so our cost and schedule estimates for houses can come with a pretty good level of precision.
+But in the software world, where technology changes so rapidly, systems get more and more integrated and complex, continuously evolve over time, costs and schedule are anything but guesses and highly unlikely to be accurate.
 This means you can expect your original estimates to change once project executes.
 Project governance includes a [change control process](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/ChangeControl-Guide-PMIS-E.pdf) that requires you to provide information on the scope of change and, depending on that scope, seek different kinds of governance approvals before you are permitted to change.
 Getting information on the scope of change *is* also work.
@@ -65,10 +65,11 @@ Which, let's be honest, ends up unlikely because this unattractive, non-function
 
 ### Incorrect investment decisions
 
-In the PMLC mentioned above, **Develop and test solution** is only one project activity from the list of 48 to 60 but is the most intensive one, the reason this whole project was funded, where we will spend most of our time, and will involve at least 12 more stakeholders just within the IT Branch (as per [this process map](onenote:http://dialogue/grp/PR6893344/OneNote/AppDevSA/02-Development%20(In%20Progress)/Outcomes%20Map.one#Feature%20to%20Release%20BPM&section-id={5E16E60C-310B-49EF-8451-88E0CE4DA968}&page-id={8208D63D-CE7D-49EB-BF48-033A38FA5825}&end) created by our Senior Advisors).
+In the PMLC mentioned above, **Develop and test solution** is only one project activity from the list of 48 to 60 but is the most intensive one, the reason this whole project was funded, where we will spend most of our time, and will involve at least 12 more stakeholders just within the IT Branch (as per [this process map](onenote:http://dialogue/grp/PR6893344/OneNote/AppDevSA/02-Development%20%28In%20Progress%29/Outcomes%20Map.one#Feature%20to%20Release%20BPM&section-id=%7B5E16E60C-310B-49EF-8451-88E0CE4DA968%7D&page-id=%7B8208D63D-CE7D-49EB-BF48-033A38FA5825%7D&end) created by our Senior Advisors).
 
-It is in this **Develop and test solution** activity that we end up uncovering many unknowns that are inhibiting our ability to execute (internal skill sets limitations, systems integration limitations, technical debt, new technology stack capabilities that could solve problems but are not part of our current standards, security vulnerabilities, etc).
+It is in this **Develop and test solution** activity that we end up uncovering many unknowns that are inhibiting our ability to execute (internal skill sets limitations, systems integration limitations, technical debt, new technology stack capabilities that could solve problems but are not part of our current standards, security vulnerabilities, propriatary software limitations, etc).
 No amount of advanced planning can completely uncover these unknowns due to the fast pace of technology changes and, more importantly, growing **end-user demands** which are validated only when we **Hand off solution to operations** and produce the **Benefits Realization Plan**.  
+In addition, should the pre-approved plan require the use propriatary software, course corrections will surely involve procurement activities which will additional work and investments to obtain.
 
 These **end-user demands** are what we include in the **Business Case** project artefacts (following the "business needs" and "identify strategic alignment" project activities).
 But what is a Business Case?
@@ -86,7 +87,7 @@ This precisely goes against the spirit of Digital Government in [being more agil
 
 In the PMLC mentioned above, changes to the systems start with an investment proposals from a business owner that is given to the Director General Project Oversight Committee (DG POC).
 From there, it will go through 5 stages involving more than 16 stakeholders, and go through [about 9 committees](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/SitePages/Governance.aspx) (depending on the scale of the request).
-The IT product team(s) working on the project gets involved at Stage 4, after 14 stakeholders went through the end-user's request, where they will need to interact with a [dozen other separate IT teams]((onenote:http://dialogue/grp/PR6893344/OneNote/AppDevSA/02-Development%20(In%20Progress)/Outcomes%20Map.one#Feature%20to%20Release%20BPM&section-id={5E16E60C-310B-49EF-8451-88E0CE4DA968}&page-id={8208D63D-CE7D-49EB-BF48-033A38FA5825}&end)) for each features requested.
+The IT product team(s) working on the project gets involved at Stage 4, after 14 stakeholders went through the end-user's request, where they will need to interact with a [dozen other separate IT teams](onenote:http://dialogue/grp/PR6893344/OneNote/AppDevSA/02-Development%20%28In%20Progress%29/Outcomes%20Map.one#Feature%20to%20Release%20BPM&section-id=%7B5E16E60C-310B-49EF-8451-88E0CE4DA968%7D&page-id=%7B8208D63D-CE7D-49EB-BF48-033A38FA5825%7D&end) for each features requested.
 Throughout this process, the IT product team(s) will also need to give periodic status updates on progress towards the pre-committed scope, schedule, and cost.
 
 Each control points between the end-users and the IT product teams working on the feature(s) expands the gap between them. Although the IT product team **may** be able to speak to an end-user at Stage 4, those control points create a perspective that course correction resulting from end-user interactions are discouraged. This is because any change to scope, schedule, or cost requires going through a [change control process](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/ChangeControl-Guide-PMIS-E.pdf) to justify course correction which adds more work. The end result will be that it may be easier for IT product teams to stick with pre-scoped requirements than it is in interacting with end-users directly as a means to seek understanding and empathy.
@@ -130,6 +131,10 @@ To remediate the above problems, I propose the following:
 This promotes investment in [Business Architecture and Departmental Value Stream](http://dialogue/grp/EA-AE/SitePages/dvsmodel.aspx) using strong, reliable metrics from lines of businesses;
 4. Treat software like products, not physical assets.
 They need a steady source of funding and dedicated teams to allow timely technical debt remediation and evolution.
-Teams should be comprised not only of developers but also security, operations, testing, policy experts, and *actual* users;
+Teams should be comprised not only of developers but also security, operations, testing, and policy experts, that works with *actual* users;
 5. Use architectural guardrails instead of gates, where Enterprise Architecture acts as a monitoring discipline making recommendations for course correction to align individual products towards the target enterprise architecture state; and
-6. Embrace open source's philosophy to [work](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html) in the [open](https://sara-sabr.github.io/ITStrategy/2019/11/19/working-in-the-open-part-1.html) and share your work as a means to get economies of scale, avoid lengthy procurement battles, and support vendor lock-in strategies.
+6. Embrace open source's philosophy to [work](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html) in the [open]({{site.baseurl}}/2019/11/19/working-in-the-open-part-1.html) and share your work as a means to get economies of scale, avoid lengthy procurement battles, support vendor lock-in strategies, and increase the opportunity to have your work reused.
+
+## References
+
+[^1]: Mark Schwartz, [_War and Peace and IT_](https://itrevolution.com/war-and-peace-and-it/), IT Revolution, 2019, page 30
