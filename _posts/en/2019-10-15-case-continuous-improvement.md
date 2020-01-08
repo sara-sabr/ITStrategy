@@ -10,10 +10,10 @@ excerpt_separator: <!--more-->
 ---
 In [The DevOps Handbook](https://itrevolution.com/book/the-devops-handbook/) the authors make a case for teams spending at least 20% of their time towards reducing technical debt.
 
-> The deal [between product owners and] engineering goes like this: Product management takes 20% of the team’s capacity right off the top and gives this to engineering to spend as they see fit.
+> The deal [between product owners and] engineering goes like this: Product management takes 20% of the team's capacity right off the top and gives this to engineering to spend as they see fit.
 <!--more-->
 > They might use it to rewrite, re-architect, or re-factor problematic parts of the code base…whatever they believe is necessary to avoid ever having to come to the team and say, ‘we need to stop and rewrite [all our code].’
-> If you’re in really bad shape today, you might need to make this 30% or even more of the resources.
+> If you're in really bad shape today, you might need to make this 30% or even more of the resources.
 > However, I get nervous when I find teams that think they can get away with much less than 20%.
 
 I am going to abstract this to suggest that all teams should spend at least 20% of their time improving the way they work.
@@ -22,7 +22,7 @@ In the book they recommend that an enabling team could spend time assisting othe
 My colleague challenged me on our ability to sell ourselves as a learning team.
 People are busy, why would people want to slow themselves down by committing time away from their priorities to improve? How would you sell that to a team already working at 120% capacity?
 
-Many of us already know from the [Phoenix Project](https://itrevolution.com/book/the-phoenix-project/) the hand wave anecdotal justification for committing time to improving one’s process.
+Many of us already know from the [Phoenix Project](https://itrevolution.com/book/the-phoenix-project/) the hand wave anecdotal justification for committing time to improving one's process.
 If one was really taken with the Phoenix Project they may invest the time to learn more by learning the magic of DevOps through books such as [The DevOps Handbook](https://itrevolution.com/book/the-devops-handbook/) (which I suggest you do).
 However, if you're in a position where you need to quickly make a business case for continuous improvement, how does one do this?
 That is what I will try to do here.
