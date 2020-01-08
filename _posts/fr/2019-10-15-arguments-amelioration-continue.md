@@ -49,7 +49,7 @@ Si ça sonnait un peu mathématique ou jargon, on va l'expliquer plus en détail
 
 Si nous traçons f(x) = x nous obtiendrons une ligne comme suit
 
-![Graphique de f(x) = x]({{site.baseurl}}/assets/images/graphx.PNG)
+![Graphique de f(x) = x](/ITStrategy/assets/images/graphx.PNG)
 
 Nous définissons l'axe des y (l'axe vertical) comme étant l'unité totale de la valeur d'affaires produite, et l'axe des x comme étant l'axe du temps.
 La ligne représente alors le total des unités de la valeur d'affaires produites sur une certaine unité de temps.
@@ -69,7 +69,7 @@ Ceci devrait nous donner une courbe exponentielle, qui ressemble à ceci
 f(x) = x<sup>2</sup>
 <!-- markdownlint-enable MD033 -->
 
-![Graphique de f(x) = x^2]({{site.baseurl}}/assets/images/drawgraphx2.PNG)
+![Graphique de f(x) = x^2](/ITStrategy/assets/images/drawgraphx2.PNG)
 
 La chose la plus évidente que nous remarquons est que la fonction exponentielle croît beaucoup plus vite.
 On peut toutefois exposer le fait qu'il y a une perte initiale de productivité si l'on passe du temps à s'améliorer plutôt qu'à *faire son travail*, alors nous devons le prendre en compte.
@@ -94,7 +94,7 @@ Que se passe-t-il lorsque nous traçons ce graphique?
 Supposons que nous avons consacré 20 % de notre journée à l'amélioration continue.
 Et qu'Ensuite, nous perdons 20 % de notre productivité par mois.
 
-![Graphique de f(x) = x^2 - (x*l)]({{site.baseurl}}/assets/images/graphx2minusxl.PNG)
+![Graphique de f(x) = x^2 - (x*l)](/ITStrategy/assets/images/graphx2minusxl.PNG)
 
 Remarquez en bas que la courbe s'aplatit légèrement.
 Cette baisse de productivité est toujours présente puisque x (le temps) augmente.
@@ -158,13 +158,13 @@ f(x) = x<sup>1.1</sup> - (x*.2)
 
 Et si nous traçons ce graphique, nous obtenons la courbe suivante
 
-![f(x) = x^(1.1) - (x*l)]({{site.baseurl}}/assets/images/fullfunction.PNG)
+![f(x) = x^(1.1) - (x*l)](/ITStrategy/assets/images/fullfunction.PNG)
 
 Super!
 Quelle est la prochaine étape?
 Disons que nous comparons cela à une équipe qui ne s'améliore pas continuellement et qui continue de faire les choses au jour le jour, "comme elle les a toujours faites".
 
-![Comparaison courbes]({{site.baseurl}}/assets/images/comparecurves1.PNG)
+![Comparaison courbes](/ITStrategy/assets/images/comparecurves1.PNG)
 
 Nous pouvons voir que la ligne rouge, qui représente l'équipe qui s'améliore continuellement pendant 20 % de sa journée pour un petit rendement de 10 % de productivité, sera plus productive dans environ 6 mois (ou 6,192 mois, pour être exact).
 Même si vous réduisez de moitié les gains de productivité (à 5 %, ou 0,05), vous constaterez quand même qu'avant 39 mois, l'équipe qui s'améliore continuellement finira inévitablement par dépasser l'équipe qui ne le fait pas.

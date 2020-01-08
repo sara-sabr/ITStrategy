@@ -7,7 +7,7 @@ author: "IT Strategy Team"
 date: "2019-11-13"
 excerpt_separator: <!--more-->
 ---
-In my [previous post]({{ site.baseurl}}/2019/10/15/case-continuous-improvement.html), I have tried to use maths to prove that continuous improvement would provide greater value than the status quo to any organization were they to embed the practice in their way of working.
+In my [previous post](/ITStrategy/2019/10/15/case-continuous-improvement.html), I have tried to use maths to prove that continuous improvement would provide greater value than the status quo to any organization were they to embed the practice in their way of working.
 In this post, I propose the reader a deeper dive and some potential improvements over this analysis.
 <!--more-->
 
@@ -19,11 +19,11 @@ Luckily with desmos the heavy lifting is done for us.
 If you haven't already done so, click [here](https://www.desmos.com/calculator/ouestfova3) for an example.
 You should see something as follows
 
-![Area between curves]({{site.baseurl}}/assets/images/areaundercurve.PNG)
+![Area between curves](/ITStrategy/assets/images/areaundercurve.PNG)
 
 What are we seeing here? If you hover over where the two lines intercept, you will see that the x value is 6.192, which is the same 6.192 you will see in the integral
 
-![Area under curve function]({{site.baseurl}}/assets/images/integralareaundercurve.PNG)
+![Area under curve function](/ITStrategy/assets/images/integralareaundercurve.PNG)
 
 Line 3 should read
 
@@ -157,7 +157,7 @@ If you found that we have made any mistakes in the article above or if you have 
 
 ## The End
 
-Thanks for reading! My [previous blog post]({{ site.baseurl }}/2019/10/15/case-continuous-improvement.html) was my attempt at going from simple to more complex in an attempt to try and more formally and rigorously define the logic behind committing to continually improving.
+Thanks for reading! My [previous blog post](/ITStrategy/2019/10/15/case-continuous-improvement.html) was my attempt at going from simple to more complex in an attempt to try and more formally and rigorously define the logic behind committing to continually improving.
 This second post was intended for the more committed reader to try and more deeply explore the outputs desired from continually improving, and what we should take into consideration when doing so.
 This blog post was a blast to write.
 I love applying the rigour math can offer to the real world, so the last section is a call-out to fellow enthusiasts who would enjoy helping me dig deeper into such topics.

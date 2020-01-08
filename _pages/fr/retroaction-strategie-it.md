@@ -12,4 +12,4 @@ permalink: /notes-allocution-retroaction.html
 
 {{ site.thisPageHasMoved[page.lang] }}
 
-[Travailler ouvertement et comment contribuer]({{ site.baseurl }}/comment-contribuer.html)
+[Travailler ouvertement et comment contribuer](/ITStrategy/comment-contribuer.html)

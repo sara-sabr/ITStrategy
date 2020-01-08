@@ -87,19 +87,19 @@ Interactions may place ...
 
 Between directorates
 
-![Between directorates]({{site.baseurl}}/assets/images/director2director.png)
+![Between directorates](/ITStrategy/assets/images/director2director.png)
 
 ___
 
 Between directorates and teams
 
-![Between directorates and teams]({{site.baseurl}}/assets/images/team2director.png)
+![Between directorates and teams](/ITStrategy/assets/images/team2director.png)
 
 ___
 
 Between teams and other teams
 
-![Between teams and teams]({{site.baseurl}}/assets/images/team2team.png)
+![Between teams and teams](/ITStrategy/assets/images/team2team.png)
 
 ___
 

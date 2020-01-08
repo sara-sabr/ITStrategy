@@ -12,4 +12,4 @@ permalink: /feedback-speaking-notes.html
 
 {{ site.thisPageHasMoved[page.lang] }}
 
-[Working in the open and the ways you can contribute]({{ site.baseurl }}/how-to-contribute.html)
+[Working in the open and the ways you can contribute](/ITStrategy/how-to-contribute.html)
