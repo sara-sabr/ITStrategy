@@ -53,6 +53,10 @@ Strategies will be reviewed and updated quarterly based on current progress and 
   - IITB showcase, Dev CoP, GCconnex, GCcollab, ..
 - Review existing processes and governance structure
 - Automate where possible
+- Peer coaching (Informal training that extends beyond onboarding. Managers should spend one-on-one time with workers, getting information from them that will help in crafting the learning path that is individualized to their needs.)
+- Employee to employee education (Getting on "teaching mode" and educating your team on specific question).
+- Show and tell across the teams (Getting to know which team is working on what, getting feedback).
+- Organizing IITB tech talks
 
 ### IITB must
 
