@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "We are actually promoting risks in IT"
+title:  "We are inadvertently promoting risks in IT"
 ref: why-we-are-promoting-risks
 lang: en
 author: "Rémy Bernard, in collaboration with the IT Strategy team"
