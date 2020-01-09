@@ -23,11 +23,11 @@ To elaborate on the re-usable methods the IT Strategy team will have at its disp
 
 The objectives of the team's communication strategy are to:
 
-- Raise awareness of IT Strategies being produced and approved to ESDC personnel, more specifically IITB ones
-- Engage effectively with stakeholders during both the strategy making process and their execution
-- Demonstrate the success of IT strategies
+- Engage effectively with stakeholders during both the strategy making process and its execution
 - Ensure stakeholders understand the intent of the IT strategies
+- Raise awareness of IT Strategies being produced and approved for ESDC personnel, more specifically IITB
 - Change behaviours and perceptions where necessary
+- Demonstrate the success of IT strategies
 
 ## Stakeholders, and Key Messages
 
@@ -77,7 +77,7 @@ Use for quarterly strategies and actions as well as other changes that require w
 
 Follow these steps:
 
-1. Director Feedback/updates
+1. Director feedback/updates
 1. Other teams feedback/updates
    - Security
    - Operations
@@ -147,7 +147,7 @@ Use for information or to avoid going up through committees for Endorsement.
 
 - Email from CIO about upcoming changes (quarterly strategies, SaaS access)
 - Quarterly emails from DG about strategies and actions
-- IITB News
+- IITB Newsletter
 
 ### IITB Newsletter
 
@@ -177,11 +177,11 @@ Feedback will inform how we move forward with quarterly strategies and actions a
 ## Evaluation
 
 How will we measure ourselves on whether our communication strategy works or needs to be adjusted?
-KPIs should be closely related to objectives but can also be used to support results in our actions. E.g.
+KPIs should be closely related to objectives but can also be used to support results in our actions. E.g.:
 
 - Number of hits on our website
 - Number of endorsements received
 - Number of forum events the team presented at
 - Number of attendance at those forum events
-- Number of feedbacks received as part of the Feedback loop Communications method
-- Number of twitter retweets from CIO/IITB stakeholders
+- Number of comments received as part of the feedback loop
+- Number of Twitter retweets from CIO/IITB stakeholders
