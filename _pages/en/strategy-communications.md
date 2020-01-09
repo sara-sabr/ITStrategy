@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Communications Strategy
+title: Team's Communications Strategy
 ref: strategy-communications
 lang: en
 status: posted
@@ -11,14 +11,18 @@ permalink: /strategy-communications.html
 ## Communications Strategy
 
 - [Purpose](#purpose)
-- [Stakeholders](#stakeholders)
+- [Objectives](#objectives)
+- [Stakeholders and Key Messages](#stakeholders-and-key-messages)
 - [Communications Methods](#communications-methods)
 - [Evaluation](#evaluation)
 
 ### Purpose
 
-To elaborate on the re-usable methods the IT Strategy teams will have at their disposal in communicate effectively its strategies.
-The goals of the communication strategy are:
+To elaborate on the re-usable methods the IT Strategy team will have at its disposal in communicating effectively its strategies to various audiences.
+
+### Objectives
+
+The objectives of the team's communication strategy are to:
 
 - Raise awareness of IT Strategies being produced and approved to ESDC personnel, more specifically IITB ones
 - Engage effectively with stakeholders during both the strategy making process and their execution
@@ -26,7 +30,25 @@ The goals of the communication strategy are:
 - Ensure stakeholders understand the intent of the IT strategies
 - Change behaviours and perceptions where necessary
 
-### Stakeholders
+### Stakeholders, and Key Messages
+
+_Stakeholders_ represent the type of audience the team is looking to target, and what _messages_ this audience will be targetted with based on our understanding of what they need to know.
+
+<!-- markdownlint-disable MD033 -->
+Content requiring the exception
+
+| **Stakeholder**             | **What they need to know**                    | **Key communications messages**               |
+| --------------------------- | --------------------------------------------- | --------------------------------------------- |
+| IITB Senior Executives      | 1. Strategic Decisions<br> 2. Progress towards IITB Way Forward Objectives<br> 3. Major changes to the organization (structure, governance, or investments) | 1. We engage periodically with IITB communities and staff<br> 2. We are trusted in raising senior level attention when it is required<br> 3. We have an approach in executing and measuring our strategies |
+| IITB Executives             | 1. Directional changes impacting their operational plans<br> 2. Expectations on teams interactions<br> 3. What values are the strategies to their divisional objective | 1. We engage periodically with IITB communities and staff<br> 2. We are transparent in our work and welcome feedback<br> 3. We are taking an interative way to strategy (no big bang approach) 4. We are focusing on team interactions and enablement to succeed<br> 5. We work as per what we preach |
+| IITB Management (Managers and Team Leads) | 1. How much workload is coming<br> 2. What is the HR implications of strategies approved<br> 3. What values are the strategies to their team's responsibilities | 1. We engage periodically with IITB communities and staff<br> 2. We are transparent in our work and welcome feedback<br> 3. We are taking an interative way to strategy (no big bang approach) 4. We are focusing on team interactions and enablement to succeed<br> 5. We work as per what we preach<br> 6. We are looking for tangible methods to break down siloes |
+| IITB Workforce              | 1. What's in it for me<br> 2. Will it impact my daily work<br> 3. Will it affect my quality of life | 1. We engage periodically with IITB communities and staff<br> 2. We are transparent in our work and welcome feedback<br>  3. We are focusing on team interactions and enablement to succeed<br> 4. Job satisfaction is one of our focus |
+| Non-IITB ESDC Executives (e.g. "The Business") | 1. What does IITB offer them<br>2. How is IITB changing and improving<br>3. How is IITB supporting the Departmental Service Strategy | 1. We are focusing on improving responsiveness to change<br> 2. We want to make IT engagement easier<br> 3. We are taking a non-conventional method to strategy making  |
+| General ESDC or other Government department | 1. What is ESDC doing in IT<br> 2. What can they re-use for themselves<br> 3. How is ESDC aligning to GC Digital Standards | 1. We work in the open<br> 2. We take an unconventional approach to strategy making |
+
+<!-- markdownlint-enable MD033-->
+
+#### Stakeholders
 
 - IITB Senior Executives (DG and ADM)
 - IITB Executives (Directors and Executive Directors)
