@@ -275,8 +275,17 @@
     "versioned",
     "wellbeing",
     "workflow",
-    "retroaction"
->>>>>>> cspell
+    "retroaction",
+    "Rémy",
+    "PPPM",
+    "PMLC",
+    "onenote",
+    "opensource",
+    "Kylie",
+    "minusxl",
+    "comparecurves",
+    "areaundercurve",
+    "integralareaundercurve"
   ],
   "flagWords": [],
   "import": ["./node_modules/cspell-dict-fr-fr/cspell-ext.json"],
