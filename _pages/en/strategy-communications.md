@@ -10,9 +10,21 @@ permalink: /strategy-communications.html
 
 ## Communications Strategy
 
-- [Endorsement](#Endorsement)
+- [Purpose](#purpose)
+- [Endorsement](#endorsement)
 - [Outreach](#outreach)
 - [Feedback](#feedback)
+
+### Purpose
+
+To elaborate on the re-usable methods the IT Strategy teams will have at their disposal in communicate effectively its strategies.
+The goals of the communication strategy are:
+
+- Raise awareness of IT Strategies being produced and approved to ESDC personnel, more specifically IITB ones
+- Engage effectively with stakeholders during both the strategy making process and their execution
+- Demonstrate the success of IT strategies
+- Ensure stakeholders understand the intent of the IT strategies
+- Change behaviours and perceptions where necessary
 
 ### Endorsement
 
