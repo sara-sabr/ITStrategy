@@ -126,7 +126,9 @@ a.btn,
 }
 
 .home-inner {
-  background-image: url('../images/computer main page.jpg');
+  background-image: url('../images/computer_main_page_background.jpg');
+  filter: blur(2px);
+  -webkit-filter: blur(2px);
   position: fixed;
   height: 100%;
   width: 100%;
