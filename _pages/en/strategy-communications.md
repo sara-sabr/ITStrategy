@@ -8,8 +8,6 @@ sections: Work In Progress
 permalink: /strategy-communications.html
 ---
 
-## Communications Strategy
-
 - [Purpose](#purpose)
 - [Objectives](#objectives)
 - [Stakeholders and Key Messages](#stakeholders-and-key-messages)
@@ -17,11 +15,11 @@ permalink: /strategy-communications.html
 - [Communications Methods](#communications-methods)
 - [Evaluation](#evaluation)
 
-### Purpose
+## Purpose
 
 To elaborate on the re-usable methods the IT Strategy team will have at its disposal in communicating effectively its strategies to various audiences.
 
-### Objectives
+## Objectives
 
 The objectives of the team's communication strategy are to:
 
@@ -31,7 +29,7 @@ The objectives of the team's communication strategy are to:
 - Ensure stakeholders understand the intent of the IT strategies
 - Change behaviours and perceptions where necessary
 
-### Stakeholders, and Key Messages
+## Stakeholders, and Key Messages
 
 _Stakeholders_ represent the type of audience the team is looking to target, and what _messages_ this audience will be targetted with based on our understanding of what they need to know.
 
@@ -49,7 +47,7 @@ Content requiring the exception
 
 <!-- markdownlint-enable MD033-->
 
-### Operational Approach
+## Operational Approach
 
 As the team is taking an interative approach to strategy making, the following communication work will occure **every quarter** (an image would be ideal here):
 
@@ -62,7 +60,7 @@ The type of stakeholder to target will depend on the type of strategy to endorse
 The above communication work will require to keep a consistent message to stakeholders in order to avoid confusion and maintain credibility of the team's approach.
 
 <!-- markdownlint-disable MD033 -->
-| **Activity**  | **Communication methods** |
+| **Activity**  | **Communication methods available** |
 | ------------- | -------------------------------------------- |
 | Approval      | 1. CIO Executive Committee<br> 2. SABR DGO<br> 3. MM Director |
 | Endorsement   | 1. SABR DGO<br> 2. MM Director<br> 3. IITB Governance Committees<br> 4. IITB Forums<br> 5. Peer reviews<br> 6. Briefing Notes |
@@ -70,9 +68,9 @@ The above communication work will require to keep a consistent message to stakeh
 | Feedback      | 1. Social Media<br> 2. Blogs<br> 3. IITB Governance Committees<br> 4. IITB Forums<br> 5. Custom Metrics |
 <!-- markdownlint-enable MD033-->
 
-### Communications Methods
+## Communications Methods
 
-#### CIO Executive Committee
+### CIO Executive Committee
 
 Requires wider consultation and presentation to DG Committee.
 Use for quarterly strategies and actions as well as other changes that require wider consultation.
@@ -93,11 +91,11 @@ Follow these steps:
 1. Present to CIO Executive Committee
 1. Published on Intranet
 
-#### SABR DGO
+### SABR DGO
 
 Endorsement or approval will be done via email (reply from DG to email request from IT Strategy team)
 
-#### MM Director
+### MM Director
 
 Endorsement or approval will be done via email (reply from DG to email request from IT Strategy team)
 
