@@ -138,6 +138,12 @@ Link to [Strategy Map](https://sara-sabr.github.io/ITStrategy/strategy-summary.h
 - [Medium Term IT Picture - 2025](https://sara-sabr.github.io/ITStrategy/it-picture-medium-term.html)
 - [DevOps Research and Assessment](https://cloud.google.com/devops/)
 
+--
+
+#### Image
+
+<img src="/ITStrategy/assets/images/imit-moving-fwd-strategy.png" alt="Table: Current challenges and priorities" />
+
 ---
 
 Question ?
