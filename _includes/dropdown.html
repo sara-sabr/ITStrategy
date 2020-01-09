@@ -4,7 +4,7 @@
         aria-haspopup="true" aria-expanded="false">
         {{ dropdown_title }}
     </a>
-    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+    <div class="dropdown-menu" aria-labelledby="{{dropdown_id}}">
         {%-assign pages=site.pages | where:"sections", {{dropdown_section}}-%}
         {%- for my_page in pages -%}
         {% if my_page.lang == page.lang %}
