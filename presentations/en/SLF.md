@@ -142,7 +142,7 @@ Link to [Strategy Map](https://sara-sabr.github.io/ITStrategy/strategy-summary.h
 
 #### Image
 
-<img src="/ITStrategy/assets/images/imit-moving-fwd-strategy.png" alt="Table: Current challenges and priorities" />
+![Table: Current challenges and priorities](/ITStrategy/assets/images/imit-moving-fwd-strategy.png)
 
 ---
 
