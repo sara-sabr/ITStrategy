@@ -1,0 +1,49 @@
+I"R<h2 id="high-performing-it-capabilities">High Performing IT Capabilities</h2>
+
+<p>A DevOps Research and Assessment (DORA) <a href="https://beta.devops-research.com/performance.html?leadtime=1&amp;deployfreq=1&amp;ttr=3&amp;chgfail=4&amp;industry=government">Quick Check of software delivery performance in ESDC and IITB</a> show that we are low performers for deployment frequency, lead time for changes, time to restore service and change fail rate.</p>
+
+<p>The <a href="https://cloud.google.com/devops/state-of-devops/">State of DevOps Report</a> has been published annually since 2014, as part of the DORA, a six-year research program that has validated a number of technical, process, measurement, and cultural <a href="https://cloud.google.com/devops/#devops-capabilities">capabilities to drive higher software delivery and organizational performance</a>.</p>
+
+<p>IITB and ESDC must continuously improve these capabilities:</p>
+
+<h3 id="technical">Technical</h3>
+
+<ul>
+  <li>Version control</li>
+  <li>Continuous integration</li>
+  <li>Deployment automation</li>
+  <li>Trunk-based development</li>
+  <li>Test automation</li>
+  <li>Architecture</li>
+  <li>Empowering teams to choose tools</li>
+  <li>Test data management</li>
+  <li>Shifting left on security</li>
+</ul>
+
+<h3 id="process">Process</h3>
+
+<ul>
+  <li>Team experimentation</li>
+  <li>Streamlining change approval</li>
+  <li>Customer feedback</li>
+  <li>Visibility of work in the value stream</li>
+  <li>Working in small batches</li>
+</ul>
+
+<h3 id="measurement">Measurement</h3>
+
+<ul>
+  <li>Monitoring systems to inform business decisions</li>
+  <li>Proactive failure notification</li>
+  <li>Work in process limits</li>
+  <li>Visual management capabilities</li>
+</ul>
+
+<h3 id="cultural">Cultural</h3>
+
+<ul>
+  <li>Job satisfaction</li>
+  <li>Westrum organizational culture</li>
+  <li>Learning culture</li>
+</ul>
+:ET

@@ -1,0 +1,75 @@
+I"�<h2 id="travailler-ouvertement-et-les-façons-dont-vous-pouvez-contribuer">Travailler ouvertement et les façons dont vous pouvez contribuer</h2>
+
+<p>L’équipe de la stratégie TI de EDSC travaille ouvertement et accueille favorablement la rétroaction informelle du travail en cours.
+La contribution au travail en cours qui est produit ouvertement diffère des examens officiels des comités que la plupart des employés du gouvernement connaissent bien.</p>
+
+<p>Cette page fournit des éclaircissements aux personnes qui ne sont pas familières avec cette approche ainsi que 3 façons différentes d’<a href="#méthodes-pour-envoyer-de-la-rétroaction">envoyer de la rétroaction</a>.</p>
+
+<h3 id="approche-collaborative-ouverte">Approche collaborative ouverte</h3>
+
+<p>Quand on travaille ouvertement, on met son <em>travail en cours</em> à la disposition des autres.
+Il s’agit de travail en cours qui peut être facilement découvert et partagé par et pour tous.
+Pour nous, nous avons choisi GitHub, par opposition au système typique de gestion de dossiers interne, parce qu’il est accessible sur Internet et utilise <a href="https://en.wikipedia.org/wiki/Git">Git</a>.</p>
+
+<h4 id="conformité-à-la-directive-sur-la-gestion-de-linformation">Conformité à la Directive sur la gestion de l’information</h4>
+
+<p>Les systèmes internes de gestion documentaire sont bons pour les ressources documentaires à valeur opérationnelle (RDVO) et les ressources documentaires à valeur continue (RDVC).
+Comme tous les travaux en cours sur ce site ne garantissent pas que les idées, les propositions ou même les présentations développées seront un jour mises en production, elles ne correspondent pas à la définition de RDVO et RDVC.</p>
+
+<p>Si un document sur ce site devient officiel, il sera également conservé dans le système de gestion documentaire de EDSC.</p>
+
+<h4 id="collaboration-ouverte">Collaboration ouverte</h4>
+
+<p>N’importe qui peut envoyer de la rétroaction informelle à l’équipe de la stratégie TI.
+“N’importe qui” peut être un employé de la DGIIT, d’autres directions de EDSC, d’autres ministères fédéraux et le public (p. ex. l’industrie).</p>
+
+<p>La rétroaction informelle n’est pas censée être une position officielle de la part des secteurs d’activité ou de l’adhésion.
+Il s’agit plutôt d’une occasion pour les collègues d’ajouter leur point de vue au travail de l’équipe de la stratégie TI.</p>
+
+<p>Leur point de vue fournit une rétroaction précieuse à une équipe dont le <a href="mandat.html">mandat</a> consiste à établir l’orientation de l’organisation en matière de TI, à diagnostiquer les principaux problèmes organisationnels et à recommander des mesures à prendre pour les résoudre.</p>
+
+<p>Cela diffère des cycles traditionnels d’examen par les pairs de :</p>
+
+<ol>
+  <li>Produire une ébauche</li>
+  <li>Solliciter la rétroaction du premier comité</li>
+  <li>Traiter la rétroaction du comité
+    <ul>
+      <li>Répéter à partir de #2 pour <em>n</em> comités</li>
+    </ul>
+  </li>
+  <li>Publier le document</li>
+</ol>
+
+<p>Une telle méthode traditionnelle est opportune, empêche la rétroaction précieuse d’esprits avertis qui sont souvent cachés dans l’organisation, et dilue l’intégrité du contenu.
+Travailler au grand jour donne à chacun, quel que soit son poste dans l’organisation, l’occasion d’exprimer son opinion et ses idées professionnelles.</p>
+
+<p>Il ne s’agit pas de rechercher un consensus.
+Elle permet plutôt à l’équipe de la stratégie TI d’entendre les points de vue d’une perspective large et diversifiée.
+Ce n’est qu’à ce moment-là qu’un processus officiel d’examen par les pairs sera utilisé pour obtenir l’adhésion de la direction.</p>
+
+<h4 id="méthodes-pour-envoyer-de-la-rétroaction">Méthodes pour envoyer de la rétroaction</h4>
+
+<p>Les trois méthodes suivantes peuvent être utilisées pour envoyer de la rétroaction à l’équipe Stratégie TI.
+Les types de rétroactions que nous recherchons sont les suivants :</p>
+
+<ul>
+  <li>Y a-t-il des sujets manquants qui doivent être abordés?</li>
+  <li>Y a-t-il des sujets qui sont mal présentés ou qui ne reflètent pas le point de vue des entreprises?</li>
+  <li>Y a-t-il des sources de référence que vous pouvez recommander (p. ex. articles, études, documents officiels)?</li>
+</ul>
+
+<h5 id="par-courriel">Par courriel</h5>
+
+<p>Envoyez votre rétroaction par courriel à <a href="mailto:EDSC.DGIIT.StrategieTI-ITStrategy.IITB.ESDC@hrsdc-rhdcc.gc.ca">EDSC.DGIIT.StrategieTI-ITStrategy.IITB.ESDC@hrsdc-rhdcc.gc.ca</a></p>
+
+<h5 id="par-la-création-dun-enjeu-issue-dans-notre-dépôt-github">Par la création d’un enjeu (issue) dans notre dépôt GitHub</h5>
+
+<p><a href="https://github.com/sara-sabr/ITStrategy/issues">Créer un enjeu</a> dans notre dépôt GitHub.
+Pour se faire, vous devrez créer au besoin un <a href="https://github.com/join">compte GitHub</a> gratuit.
+Vous êtes libre de créer autant d’enjeux que vous voulez.</p>
+
+<h5 id="par-la-création-dun-pull-request">Par la création d’un “Pull Request”</h5>
+
+<p>Si vous avez l’habitude d’utiliser Git, vous pouvez <a href="https://help.github.com/en/articles/about-pull-requests">créer un “Pull Request”</a> qui inclut les changements que vous proposez. C’est le meilleur moyen de tirer parti de la fonctionnalité de collaboration complète de GitHub où nous pouvons discuter des changements en ligne.</p>
+:ET

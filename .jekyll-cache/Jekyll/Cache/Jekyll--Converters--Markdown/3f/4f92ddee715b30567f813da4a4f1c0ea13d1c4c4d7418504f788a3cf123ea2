@@ -1,0 +1,121 @@
+I"l<h2 id="strategy---continuous-learning-automation-and-improvement">Strategy - Continuous Learning, Automation and Improvement</h2>
+
+<p>The following strategies and actions apply for the 1st quarter of the 2020-2021 fiscal year.
+Strategies will be reviewed and updated quarterly based on current progress and following the Strategy Map (layering on the strategies).</p>
+
+<ul>
+  <li><a href="#goals">Goals</a></li>
+  <li><a href="#iitb-teams-must">IITB teams must</a></li>
+  <li><a href="#iitb-must">IITB must</a></li>
+  <li><a href="#it-strategy-will">IT Strategy Will</a></li>
+</ul>
+
+<h3 id="goals">Goals</h3>
+
+<ul>
+  <li>Continuously learn, automate and improve</li>
+  <li>Reduce lead time for changes and delivery of services/devices</li>
+  <li>Recover faster incidents and errors</li>
+  <li>Reduce frequency of incidents and errors</li>
+</ul>
+
+<h4 id="align-with-gc-it-direction">Align with GC IT Direction</h4>
+
+<ul>
+  <li><a href="https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html">Digital Standards</a></li>
+  <li><a href="https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html">Digital Operations Strategic Plan: 2018-2022</a></li>
+  <li><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603">Policy</a> and <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601">Directive on Service and Digital</a></li>
+  <li><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602">Mandatory Procedures for EA Assessment</a></li>
+  <li><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604">Mandatory Procedures on APIs</a></li>
+  <li><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32605">Acceptable Network and Device Use</a></li>
+</ul>
+
+<h3 id="iitb-teams-must">IITB teams must</h3>
+
+<h4 id="use-20-of-time-to-learn-automate-and-improve">Use 20% of time to learn, automate and improve</h4>
+
+<ul>
+  <li><strong>Use CATS codes for continuous improvement</strong></li>
+  <li><strong>Gather metrics for things your teams work on</strong>
+    <ul>
+      <li><strong>Lead time for change or delivery of services/devices</strong></li>
+      <li><strong>Time to restore following incidents and errors</strong></li>
+      <li><strong>Change fail rate</strong></li>
+    </ul>
+  </li>
+</ul>
+
+<h5 id="guidance">Guidance</h5>
+
+<ul>
+  <li>Read, take courses, attend events and conferences</li>
+  <li>Stay up to date on trends and technologies</li>
+  <li>Encourage assignments with CDS-ESDC team or CSPS</li>
+  <li>Share knowledge with colleagues
+    <ul>
+      <li>IITB showcase, Dev CoP, GCconnex, GCcollab, ..</li>
+    </ul>
+  </li>
+  <li>Review existing processes and governance structure</li>
+  <li>Automate where possible</li>
+  <li>Peer coaching (Informal training that extends beyond onboarding. Managers should spend one-on-one time with workers, getting information from them that will help in crafting the learning path that is individualized to their needs.)</li>
+  <li>Employee to employee education (Getting on “teaching mode” and educating your team on specific question).</li>
+  <li>Show and tell across the teams (Getting to know which team is working on what, getting feedback).</li>
+  <li>Organizing IITB tech talks</li>
+</ul>
+
+<h3 id="iitb-must">IITB must</h3>
+
+<h4 id="before-q1">Before Q1</h4>
+
+<ul>
+  <li>Make quarterly strategies a requirement in performance agreements of directors, managers and team leads</li>
+  <li>Create cloud and desktop sandboxes (labs) for experimentation</li>
+  <li><a href="web-services-access.html">Grant access to more Web tools for IITB employees</a></li>
+  <li>Add all approved desktop software, including commercial and OSS, to Application Catalogue</li>
+</ul>
+
+<h3 id="it-strategy-will">IT Strategy Will</h3>
+
+<h4 id="before-q1-1">Before Q1</h4>
+
+<ul>
+  <li>Draft requirements for 2020-04 updates to PMAs (must follow quarterly strategies)</li>
+  <li>Create CATS code for continuous improvement</li>
+  <li><a href="web-services-access.html">Grant access to more Web tools for IITB employees</a></li>
+</ul>
+
+<h4 id="during-q1">During Q1</h4>
+
+<ul>
+  <li><a href="#coordinate-communications-of-strategies">Coordinate communications of strategies</a></li>
+  <li><a href="#organize-a-hackathon-for-iitb-and-esdc">Organize a Hackathon for IITB and ESDC</a></li>
+  <li>Survey about Q1 strategies</li>
+  <li>Prepare Q2 strategies</li>
+</ul>
+
+<h4 id="coordinate-communications-of-strategies">Coordinate communications of strategies</h4>
+
+<ul>
+  <li>IT Strategy blogs, newsletters, tweets, ..</li>
+  <li>Regular communications about:
+    <ul>
+      <li>Updated direction around learning and upcoming learning opportunities</li>
+      <li>Failures and lessons learned - link back to learning opportunities</li>
+      <li>Use of SaaS on ESDC network for unclassified information</li>
+      <li>Progress reports around continuous improvements and automation</li>
+    </ul>
+  </li>
+</ul>
+
+<h4 id="organize-a-hackathon-for-iitb-and-esdc">Organize a Hackathon for IITB and ESDC</h4>
+
+<ul>
+  <li>Host first hackathon (2020-04)
+    <ul>
+      <li>Promote learning, automation and improvement</li>
+      <li>Digital, agile and cloud</li>
+    </ul>
+  </li>
+</ul>
+:ET

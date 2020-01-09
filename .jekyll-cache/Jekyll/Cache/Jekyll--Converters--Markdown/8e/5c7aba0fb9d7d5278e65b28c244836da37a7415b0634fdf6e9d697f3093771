@@ -1,0 +1,75 @@
+I"�
+<h3 id="our-blog-posts">Our Blog Posts</h3>
+
+<ul class="post-list">
+    
+      <li>
+        <strong>
+          <a class="post-link" href="/ITStrategy/2019/11/19/working-in-the-open-part-1.html">Working in the Open: Part 1</a>
+        </strong>
+        <br />2019-11-19
+        <p>
+        This series of blog posts will explore the concept of “Working in the Open”.
+In this first entry, we will attempt to explain what it means and why we should make conscious efforts to work in the open by default, whether you are a software developer or not.
+
+        </p>
+      </li>
+    
+      <li>
+        <strong>
+          <a class="post-link" href="/ITStrategy/2019/11/13/case-continuous-improvement-deeper-dive.html">Case for Continuous Improvement: A Deeper Dive</a>
+        </strong>
+        <br />2019-11-13
+        <p>
+        In my previous post, I have tried to use maths to prove that continuous improvement would provide greater value than the status quo to any organization were they to embed the practice in their way of working.
+In this post, I propose the reader a deeper dive and some potential improvements over this analysis.
+
+        </p>
+      </li>
+    
+      <li>
+        <strong>
+          <a class="post-link" href="/ITStrategy/2019/11/12/why-we-modified-posts.html">Why We Modified Posts</a>
+        </strong>
+        <br />2019-11-12
+        <p>
+        You may have noticed that our two new first posts have been modified.
+You may also wonder why.
+So, let’s dive in for a short explanation!
+
+        </p>
+      </li>
+    
+      <li>
+        <strong>
+          <a class="post-link" href="/ITStrategy/2019/10/15/case-continuous-improvement.html">Case for Continuous Improvement</a>
+        </strong>
+        <br />2019-10-15
+        <p>
+        In The DevOps Handbook the authors make a case for teams spending at least 20% of their time towards reducing technical debt.
+
+
+  The deal [between product owners and] engineering goes like this: Product management takes 20% of the team’s capacity right off the top and gives this to engineering to spend as they see fit.
+
+
+        </p>
+      </li>
+    
+      <li>
+        <strong>
+          <a class="post-link" href="/ITStrategy/2019/09/12/who-we-are.html">Who we are</a>
+        </strong>
+        <br />2019-09-12
+        <p>
+        This year has been an exciting time for Strategy, Architecture and Business Relationships (SABR) within Innovation, Information and Technology Branch (IITB) from Employment and Social Development Canada (ESDC).
+
+Denis Skinner came to ESDC in June of 2018, who is presently the Director General of Strategy, Enterprise Architecture, and Business Relations within IITB.
+Upon his arrival two new teams were created: IT Strategy (yours truly) and IT Research.
+The challenge issued to these newly created teams was to help modernize a large impactful organization in the age of the notorious, and perhaps inappropriately named, “Digital Transformations”.
+
+        </p>
+      </li>
+    
+  </ul>
+
+:ET

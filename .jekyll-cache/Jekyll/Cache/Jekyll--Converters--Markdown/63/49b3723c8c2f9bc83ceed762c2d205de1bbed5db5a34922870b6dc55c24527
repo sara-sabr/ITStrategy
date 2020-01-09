@@ -1,0 +1,250 @@
+I"�3<h2 id="it-strategies-and-actions">IT Strategies and Actions</h2>
+
+<h3 id="goals-for-all-of-iitb">Goals for all of IITB</h3>
+
+<ul>
+  <li>Continuous learning, automation and improvements</li>
+  <li>Agile (break down work, sprints, retrospectives)</li>
+  <li>Work in the open (data, information and code)</li>
+  <li>Expose internal and external (all) services as APIs</li>
+  <li>Teams interact through automated digital services</li>
+</ul>
+
+<h4 id="goals-for-it-development-and-operation-teams">Goals for IT development and operation teams</h4>
+
+<ul>
+  <li>On demand deployment</li>
+  <li>Recover from incidents/errors in less than 1 day</li>
+  <li>Less than 15% of changes cause incidents/errors</li>
+</ul>
+
+<h4 id="goals-for-it-service-teams">Goals for IT service teams</h4>
+
+<ul>
+  <li>Self service</li>
+</ul>
+
+<h3 id="iitb-must-starting-now-for-all-projects-and-teams">IITB Must (Starting now! For all projects and teams!)</h3>
+
+<h4 id="align-with-gc-it-direction">Align with GC IT Direction</h4>
+
+<ul>
+  <li><a href="https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html">Digital Standards</a></li>
+  <li><a href="https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html">Digital Operations Strategic Plan: 2018-2022</a></li>
+  <li><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603">Policy</a> and <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601">Directive on Service and Digital</a></li>
+  <li><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602">Mandatory Procedures for EA Assessment</a></li>
+  <li><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604">Mandatory Procedures on APIs</a></li>
+  <li><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32605">Acceptable Network and Device Use</a></li>
+</ul>
+
+<p><em>Consult <a href="#Annex-A---Details-of-GC-Information-Technology-Direction">Annex A</a> for details.</em></p>
+
+<h4 id="cultural">Cultural</h4>
+
+<ul>
+  <li><strong>IT teams must use at least 10% of their time to learn/try new technologies, attend events/conferences, and stay up to date on trends and technologies related to their work</strong>
+    <ul>
+      <li><em>Make it a requirement in performance agreements of directors, managers and team leads</em></li>
+      <li><em>Track using existing CATS code for learning (300)</em></li>
+      <li><em>Communications about the updated direction around learning and regular updates on upcoming learning opportunities</em></li>
+      <li><em>Leverage IITB showcase and Dev CoP to share knowledge within IITB and show progress</em></li>
+      <li><em>Create champions for topics (Agile, Git, Development, CI/CD, EA, Testing, Security, ..)</em></li>
+      <li><em>Create crowdsourced list of learning resources in GCpedia (link on Intranet)</em></li>
+      <li><em>Create digital channel for sharing (e.g. Slack)</em></li>
+      <li><em>Encourage Bi-Daily Team Standups to share learning out loud</em></li>
+    </ul>
+  </li>
+  <li><strong>Create a safe environment for experimentation/failure</strong>
+    <ul>
+      <li><em>Setup regular communications about failures and lessons learned - link back to learning opportunities</em></li>
+      <li><em>Offer cloud and desktop sandboxes for experimentation</em></li>
+      <li><em>Hold blameless postmortems</em></li>
+      <li><em>Organize lunch between the DM and a team/project that recently “failed”</em></li>
+    </ul>
+  </li>
+  <li><strong>IT teams must have access to resources enabling learning and automation of testing, deployments and other manual processes</strong>
+    <ul>
+      <li><em>Offer cloud and desktop sandboxes for experimentation</em></li>
+      <li><em>Temporary hiring of talent with programming skills (e.g. Co-op students, Casuals, <a href="https://talent.canada.ca">Talent Cloud</a>)</em></li>
+      <li><em>Reorganize IT teams, starting with staff that are looking for a new challenge</em></li>
+    </ul>
+  </li>
+  <li><strong>IT teams and other groups must have access to modern tooling, such as SaaS (Internet), mobile and desktop tools</strong>
+    <ul>
+      <li><em><a href="web-services-access.html">Unblock access to specific SaaS for IITB employees</a></em></li>
+      <li><em>Review the criteria and value add for technology bricks for SaaS</em></li>
+      <li><em>Invest in bandwidth, DLP and document classification tool to enable more open access to Internet</em></li>
+      <li><em>Communications that employees can use SaaS on ESDC network for unclassified information</em></li>
+      <li><em>Add all approved software to Application Catalogue (e.g. paying ones)</em></li>
+      <li><em>Automate parts of the software assessment and approval process</em></li>
+      <li><em>Share software certifications with other departments</em></li>
+    </ul>
+  </li>
+  <li><strong><a href="enable-learning.html">Hiring favours candidates who demonstrate adaptability, curiosity, and strong ethics</a></strong>
+    <ul>
+      <li><em>Work with HR to adapt hiring processes (e.g. interview questions)</em></li>
+    </ul>
+  </li>
+</ul>
+
+<p>Notes:</p>
+
+<ul>
+  <li>Build multidisciplinary teams capable of delivering services from start to end of life</li>
+  <li>Encourages collaboration and fosters a culture of flexibility, mobility and well-being</li>
+</ul>
+
+<h4 id="process">Process</h4>
+
+<ul>
+  <li><strong>IT teams must use 10% of their time for improving existing processes and automation of testing, deployments and other manual processes</strong>
+    <ul>
+      <li><em>Make it a requirement in performance agreements of managers and team leads</em></li>
+      <li><em>Directors, management and teams must show quarterly progress related to automation and continuous improvements</em></li>
+      <li><em>Track using CATS code (need code)</em></li>
+      <li><em>Communications about the updated rules around continuous improvements and automation</em></li>
+      <li><em>Organize regular hackathons to improve and automate existing processes</em></li>
+      <li><em>Add automation tools to Application Catalogue</em></li>
+      <li><em>Create centralized repository of scripts on GCcode</em></li>
+      <li><em>Add automation focus to <a href="http://dialogue/grp/IP/SitePages/Grassroots%20Innovation%20Practice.aspx">Grassroots Innovation Practice</a> initiative</em></li>
+      <li><em>Consult front line workers to determine quick wins</em></li>
+    </ul>
+  </li>
+  <li><strong>IT teams must work using Agile methodologies, iterate and continually improve solutions, services and processes</strong>
+    <ul>
+      <li><em>Organize training on Agile/DevOps for managers and team leads</em></li>
+      <li><em>Highlight the work of existing Agile teams</em></li>
+      <li><em>Break down and prioritize work items</em></li>
+      <li><em>work in iterations (sprints) and show improvements</em></li>
+      <li><em>Hold regular retrospectives</em></li>
+      <li><em>Reduce lead time for changes and delivery of services</em></li>
+      <li><em>Automate</em></li>
+    </ul>
+  </li>
+  <li><strong>Make ongoing work and backlog visible</strong>
+    <ul>
+      <li><em>Make Sharepoint site open by default</em></li>
+      <li><em>Promote the use of GitHub, Gitlab or GCcode as working environments (Projects, tasks, documents, code, continuous integration, ..)</em></li>
+    </ul>
+  </li>
+</ul>
+
+<p>Notes:</p>
+
+<ul>
+  <li>Promote smaller investments over large ones, and monitor them based on business outcomes, not project plans</li>
+  <li>Move and support product management</li>
+  <li>Where possible, remove the need for manual/committee approval</li>
+  <li>Empower multidisciplinary teams and allow them to work on new ideas in pursuit of business goals that solve important problems</li>
+  <li>Clients must be included from the start of projects and can submit regular feedback</li>
+  <li>Services must be made accessible as APIs</li>
+  <li><strong>Create a DevOps Dojo</strong>
+    <ul>
+      <li>Promote continuous departmental improvement by creating a venue where teams can learn from experts in modern IT delivery best practices and principles</li>
+      <li>Invest in teams staying up to date and continually improving their tools and the way they work</li>
+    </ul>
+  </li>
+</ul>
+
+<h4 id="technical">Technical</h4>
+
+<ul>
+  <li><strong>IT teams must save all projects artifacts to a version control system</strong>
+    <ul>
+      <li><em>Help SSC GCcode become officially supported</em></li>
+      <li><em>Make GCcode the default option for new application development projects</em></li>
+      <li><em>Promote the use of GitHub, Gitlab or GCcode as working environments (Projects, tasks, documents, code, continuous integration, ..)</em></li>
+    </ul>
+  </li>
+  <li><strong>EA must actively and fairly consider open standards (data formats/protocols) and open source software for all new purchases, upgrades or migrations (including cloud solutions)</strong>
+    <ul>
+      <li><em>Implement the recently approved ESDC OSS Framework</em></li>
+      <li><em>Collaborate with other departments and agencies on best practices</em></li>
+    </ul>
+  </li>
+  <li><strong>EA must enable deploy-anytime capabilities, with high degrees of automation</strong>
+    <ul>
+      <li><em>Assess the implementation of a central PaaS</em></li>
+    </ul>
+  </li>
+  <li><strong>IT teams must automate tests (Unit, UAT, Security, ITSM ..)</strong>
+    <ul>
+      <li><em>Train Champions of automation testing</em></li>
+    </ul>
+  </li>
+  <li><strong>IT teams must automate builds and deployments for all environments (Dev, QA and Production)</strong>
+    <ul>
+      <li><em>Offer cloud sandboxes to experiment with automation of builds and deployments</em></li>
+    </ul>
+  </li>
+</ul>
+
+<p>Notes:</p>
+
+<ul>
+  <li>IT teams must have access to realistic test data</li>
+  <li>EA must be loosely coupled and enable IT teams to autonomously, experiment with ideas, and choose their own tools</li>
+  <li>EA and Security must provide developers with preapproved libraries</li>
+  <li>Security must be involved from the start and in all phase of projects</li>
+  <li>Security must develop automated tests</li>
+</ul>
+
+<h4 id="measurement">Measurement</h4>
+
+<ul>
+  <li>IT teams must collect data throughout the value stream</li>
+  <li>IT teams must establish Work In Progress (WIP) limits based on team capacity and cognitive load</li>
+  <li>IT teams must make collected data and project status visible to the business</li>
+</ul>
+
+<h3 id="annex-a---details-of-gc-information-technology-direction">Annex A - Details of GC Information Technology Direction</h3>
+
+<ul>
+  <li><a href="https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html">Digital Standards</a>
+    <ul>
+      <li>Design with users</li>
+      <li>Iterate and improve frequently</li>
+      <li>Work in the open by default</li>
+      <li>Use open standards and solutions</li>
+      <li>Address security and privacy risks</li>
+      <li>Build in accessibility from the start</li>
+      <li>Empower staff to deliver better services</li>
+      <li>Be good data stewards</li>
+      <li>Design ethical services</li>
+      <li>Collaborate widely</li>
+    </ul>
+  </li>
+  <li><a href="https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html">Digital Operations Strategic Plan: 2018-2022</a>
+    <ul>
+      <li>OneGC vision, aims to not only deliver on the outcome of a single window, but also go beyond it to meet Canadians’ expectations of service delivery on any platform, using any device and with any partner.</li>
+    </ul>
+  </li>
+  <li><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603">Policy</a> and <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601">Directive on Service and Digital</a>
+    <ul>
+      <li>How GC organizations must manage service delivery, information and data, information technology, and cyber security in the digital era</li>
+    </ul>
+  </li>
+  <li><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602">Mandatory Procedures for Enterprise Architecture Assessment</a>
+    <ul>
+      <li>Align to the GC Business Capability model</li>
+      <li>Design for users first and deliver with multidisciplinary teams</li>
+      <li>Design systems to be measurable and accountable</li>
+      <li>Use Open Standards and Open Source Software</li>
+      <li>Maximize Reuse; Enable Interoperability</li>
+      <li>Use Cloud and SaaS</li>
+      <li>Design for performance, availability, scalability, security and privacy</li>
+    </ul>
+  </li>
+  <li><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604">Mandatory Procedures on Application Programming Interfaces</a>
+    <ul>
+      <li>Validate API design by consuming it with a production application within your organization</li>
+      <li>All APIs should be published to the API Store</li>
+    </ul>
+  </li>
+  <li><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32605">Acceptable Network and Device Use</a>
+    <ul>
+      <li>Provide open access to Internet tools and services to support public servants in their work duties, enhance collaboration and networking with their peers</li>
+    </ul>
+  </li>
+</ul>
+:ET

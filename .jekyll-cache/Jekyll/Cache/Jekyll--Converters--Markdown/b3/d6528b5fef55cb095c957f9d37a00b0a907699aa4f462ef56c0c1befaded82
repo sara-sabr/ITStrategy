@@ -1,0 +1,33 @@
+I"�<h2 id="project-quarterly-delivery">Project Quarterly Delivery</h2>
+
+<p>All new projects must deliver a functional product at the end of each quarter, at the absolute latest.</p>
+
+<p>In modern IT literature organizations should be aiming to deliver software into production within minutes. In <a href="https://itrevolution.com/book/war-and-peace-and-it/"><em>War And Peace And IT</em></a> by <a href="https://itrevolution.com/faculty/mark-schwartz/">Mark Schwartz</a>, ex-CIO of US Citizenship and Immigration Services and currently a Strategist for Amazon Web Services, he writes that business or mission needs should be met in hours or days.
+It is in this spirit that IITB make it a top priority to deploy solutions to production quarterly, at the very least, as soon as possible, permitting us to achieve the long term aims.</p>
+
+<p>In the <a href="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=3&amp;cad=rja&amp;uact=8&amp;ved=2ahUKEwiGzKvWsoDkAhVOTt8KHVTvDBoQFjACegQIAhAC&amp;url=http%3A%2F%2Fcloudplatformonline.com%2Frs%2F248-TPC-286%2Fimages%2FDORA-State%2520of%2520DevOps.pdf&amp;usg=AOvVaw3Igoh1u4hGjIr7p9jV1_Ae">DORA State of DevOps</a> report on page 14 they define categories of performance as follows</p>
+
+<p><img src="../../assets/images/aspectOfSoftwareDeliveryPerformance.PNG" alt="alt text" /></p>
+
+<p>Of respondents</p>
+
+<ul>
+  <li>7% were Elite Performers</li>
+  <li>41% were High Performers</li>
+  <li>37% were Medium Performers</li>
+  <li>15% were Low Performers</li>
+</ul>
+
+<p>Given that low performers are able to deploy between once per week and once per month, within 5 years IITB will must be able to deploy into production within 4 months for all new projects.</p>
+
+<p>Further, not only does ensuring quarterly production deployment align us with industry best practices, and enable us to more quickly respond to business needs, large scale projects with sizeable budgets and timelines run at a high risk of failure.
+For example, <a href="https://github.com/18F/technology-budgeting/blob/master/handbook.md">18F reports</a> that “Only 13% of large government software projects are successful” where <em>large project</em> is defined as ‘Projects valued at $6M or greater, in Europe and the United States, that were completed satisfactorily, on time, and within budget.’</p>
+
+<p>Ensuring regular deliveries also allows IITB to be more responsive to business needs by being able to address the highest value items from many different clients through iterating quickly over many projects throughout the year, rather than focusing on individual projects which lock up significant portions of IITBs capacity.
+In <a href="https://itrevolution.com/book/war-and-peace-and-it/"><em>War And Peace And IT</em></a> <a href="https://itrevolution.com/faculty/mark-schwartz/">Mark Schwartz</a> proposes an approval process which more closely resembles series funding from venture capital firms. Even if a project does not manage to acquire Series B funding, the value from Series A funding is still produced.
+Ensuring one prioritizes their priorities properly, ensures that the most value is delivered early on in the project.
+This allows for an alternate model of project management, on where we ‘always cancel successful projects, not failing ones’.</p>
+
+<p>A world of opportunities awaits IITB in our <a href="./it-picture-long-term.md">long term plan</a> if we are able to realize the benefits of treading the path that has already been laid before us by the high performers and world leaders from the IT community.
+Without it, in the world of running 10 year projects our 5 year trajectory is easily predictable – the organization will look identical to the organization that exists today.</p>
+:ET

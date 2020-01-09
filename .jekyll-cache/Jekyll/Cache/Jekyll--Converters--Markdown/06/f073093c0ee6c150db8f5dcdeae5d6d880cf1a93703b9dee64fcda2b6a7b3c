@@ -1,0 +1,204 @@
+I"�3<!-- markdownlint-disable MD025-->
+<h1 id="npm-automation-exercise-instructions">NPM Automation Exercise Instructions</h1>
+<!-- markdownlint-enable MD025-->
+
+<h2 id="initiate-npm">Initiate NPM</h2>
+
+<p>In order to use NPM scripts for automation, you will need to have the most recent Node.js LTS version installed. An alternative to this issue would be to leverage Docker once again!</p>
+
+<p>To initialize your local repository, run the following command in the folder where your project resides:</p>
+
+<p>Windows</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>docker run <span class="nt">-v</span> <span class="k">${</span><span class="nv">pwd</span><span class="k">}</span>:/usr/node/app <span class="nt">-w</span> /usr/node/app <span class="nt">-it</span> <span class="nt">--rm</span> node npm init
+</code></pre></div></div>
+
+<p>Linux/Mac</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>docker run <span class="nt">-v</span> <span class="si">$(</span><span class="nb">pwd</span><span class="si">)</span>:/usr/node/app <span class="nt">-w</span> /usr/node/app <span class="nt">-it</span> <span class="nt">--rm</span> node npm init
+</code></pre></div></div>
+
+<p>This command will prompt an utility that will walk you through initializing your project with a package.json file.</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>This utility will walk you through creating a package.json file.
+It only covers the most common items, and tries to guess sensible defaults.
+
+See <span class="sb">`</span>npm <span class="nb">help </span>json<span class="sb">`</span> <span class="k">for </span>definitive documentation on these fields and exactly what they <span class="k">do</span><span class="nb">.</span>
+
+Use <span class="sb">`</span>npm <span class="nb">install</span> &lt;pkg&gt;<span class="sb">`</span> afterwards to <span class="nb">install </span>a package and save it as a dependency <span class="k">in </span>the package.json file.
+
+Press ^C at any <span class="nb">time </span>to quit.
+package name: <span class="o">(</span>app<span class="o">)</span> mydir
+version: <span class="o">(</span>1.0.0<span class="o">)</span> 0.0.1
+description: a new project directory
+entry point: <span class="o">(</span>index.js<span class="o">)</span>
+<span class="nb">test command</span>: <span class="nb">test
+</span>git repository: n/a
+keywords: <span class="nb">test
+</span>author: Guillaume Charest
+license: <span class="o">(</span>ISC<span class="o">)</span> MIT
+About to write to /usr/node/app/package.json:
+
+<span class="o">{</span>
+  <span class="s2">"name"</span>: <span class="s2">"mydir"</span>,
+  <span class="s2">"version"</span>: <span class="s2">"0.0.1"</span>,
+  <span class="s2">"description"</span>: <span class="s2">"a new project directory"</span>,
+  <span class="s2">"main"</span>: <span class="s2">"index.js"</span>,
+  <span class="s2">"scripts"</span>: <span class="o">{</span>
+    <span class="s2">"test"</span>: <span class="s2">"echo </span><span class="se">\"</span><span class="s2">This is a test!</span><span class="se">\"</span><span class="s2">"</span>
+  <span class="o">}</span>,
+  <span class="s2">"repository"</span>: <span class="o">{</span>
+    <span class="s2">"type"</span>: <span class="s2">"git"</span>,
+    <span class="s2">"url"</span>: <span class="s2">"git+https://github.com/n/a.git"</span>
+  <span class="o">}</span>,
+  <span class="s2">"keywords"</span>: <span class="o">[</span>
+    <span class="s2">"test"</span>
+  <span class="o">]</span>,
+  <span class="s2">"author"</span>: <span class="s2">"Guillaume Charest"</span>,
+  <span class="s2">"license"</span>: <span class="s2">"MIT"</span>,
+  <span class="s2">"bugs"</span>: <span class="o">{</span>
+    <span class="s2">"url"</span>: <span class="s2">"https://github.com/n/a/issues"</span>
+  <span class="o">}</span>,
+  <span class="s2">"homepage"</span>: <span class="s2">"https://github.com/n/a#readme"</span>
+<span class="o">}</span>
+
+
+Is this OK? <span class="o">(</span><span class="nb">yes</span><span class="o">)</span>
+</code></pre></div></div>
+
+<p>Type <code class="highlighter-rouge">yes</code> and hit enter.</p>
+
+<p>You have successfully initialized your repo with NPM!</p>
+
+<p>Let’s add a few tests</p>
+
+<h2 id="adding-automation-tests">Adding Automation Tests</h2>
+
+<p>This section will show a few simple tests to give you an idea how easy it is to include them in your practice.</p>
+
+<h3 id="markdown-lint-test">Markdown Lint Test</h3>
+
+<p>Windows</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>docker run <span class="nt">-v</span> <span class="k">${</span><span class="nv">pwd</span><span class="k">}</span>:/usr/node/app <span class="nt">-w</span> /usr/node/app <span class="nt">-it</span> <span class="nt">--rm</span> node npm <span class="nb">install </span>markdown-cli
+</code></pre></div></div>
+
+<p>Linux/Mac</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>docker run <span class="nt">-v</span> <span class="si">$(</span><span class="nb">pwd</span><span class="si">)</span>:/usr/node/app <span class="nt">-w</span> /usr/node/app <span class="nt">-it</span> <span class="nt">--rm</span> node npm <span class="nb">install </span>markdown-cli
+</code></pre></div></div>
+
+<p>Open the <code class="highlighter-rouge">package.json</code> file with your editor and locate the <code class="highlighter-rouge">"scripts"</code>.</p>
+
+<p>It should look like this:</p>
+
+<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="w">  </span><span class="nl">"scripts"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
+    </span><span class="nl">"test"</span><span class="p">:</span><span class="w"> </span><span class="s2">"echo </span><span class="se">\"</span><span class="s2">This is a test!</span><span class="se">\"</span><span class="s2">"</span><span class="w">
+  </span><span class="p">}</span><span class="w">
+</span></code></pre></div></div>
+
+<p>Remember when we were asked to input a test command?
+That’s where it went.</p>
+
+<p>Add an entry for a new test named <code class="highlighter-rouge">lint</code> with the following command:</p>
+
+<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nl">"lint"</span><span class="p">:</span><span class="w"> </span><span class="s2">"markdownlint -i node_modules -i _site -i _includes </span><span class="se">\"</span><span class="s2">**/*.md</span><span class="se">\"</span><span class="s2">"</span><span class="w">
+</span></code></pre></div></div>
+
+<p>We include the following argument <code class="highlighter-rouge">-i</code> to ignore certain folders like the <code class="highlighter-rouge">node_modules</code> and generated <code class="highlighter-rouge">_site</code></p>
+
+<p>If you run the following docker npm test command, nothing really happens:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>docker run <span class="nt">-v</span> <span class="si">$(</span><span class="nb">pwd</span><span class="si">)</span>:/usr/node/app <span class="nt">-w</span> /usr/node/app <span class="nt">-it</span> <span class="nt">--rm</span> node npm <span class="nb">test</span>
+</code></pre></div></div>
+
+<p>You need to change the <code class="highlighter-rouge">echo</code> test by the following one:</p>
+
+<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nl">"test"</span><span class="p">:</span><span class="w"> </span><span class="s2">"npm run lint"</span><span class="w">
+</span></code></pre></div></div>
+
+<p>The final scripts should look like this:</p>
+
+<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="w">  </span><span class="nl">"scripts"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
+    </span><span class="nl">"lint"</span><span class="p">:</span><span class="w"> </span><span class="s2">"markdownlint -i node_modules -i _site -i _includes </span><span class="se">\"</span><span class="s2">**/*.md</span><span class="se">\"</span><span class="s2">"</span><span class="p">,</span><span class="w">
+    </span><span class="nl">"test"</span><span class="p">:</span><span class="w"> </span><span class="s2">"npm run lint"</span><span class="w">
+  </span><span class="p">}</span><span class="err">,</span><span class="w">
+</span></code></pre></div></div>
+
+<p>Run your test with the docker npm test command again.</p>
+
+<p>Windows</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>docker run <span class="nt">-v</span> <span class="k">${</span><span class="nv">pwd</span><span class="k">}</span>:/usr/node/app <span class="nt">-w</span> /usr/node/app <span class="nt">-it</span> <span class="nt">--rm</span> node npm <span class="nb">test</span>
+</code></pre></div></div>
+
+<p>Linux/Mac</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>docker run <span class="nt">-v</span> <span class="si">$(</span><span class="nb">pwd</span><span class="si">)</span>:/usr/node/app <span class="nt">-w</span> /usr/node/app <span class="nt">-it</span> <span class="nt">--rm</span> node npm <span class="nb">test</span>
+</code></pre></div></div>
+
+<h3 id="licence-tests">Licence Tests</h3>
+
+<p>With open source software, a few other interesting tests can be used:</p>
+
+<ul>
+  <li>license-compatibility-checker</li>
+  <li>licensee</li>
+</ul>
+
+<p>These tests will help you ensure that your dependencies have proper licences and that there are no conflicts.</p>
+
+<h3 id="npm-dependency-security-test">NPM Dependency Security Test</h3>
+
+<p>The following test is specific to NPM and is used to identify dependencies vulnerabilities.</p>
+
+<p><code class="highlighter-rouge">npm audit</code></p>
+
+<p>If you run the test and an issue is raised, you can use the following command to fix your dependencies.</p>
+
+<p><code class="highlighter-rouge">npm audit fix</code></p>
+
+<h2 id="continuous-integration">Continuous Integration</h2>
+
+<p>The tests that we have configured above in our local directory to ensure we have a tidy and secure workspace can now be leveraged to confirm that whenever we want to contribute to the project, everyone can fix their bugs before pushing submitting a PR.</p>
+
+<p>GitLab has <a href="https://about.gitlab.com/product/continuous-integration/">CI integration</a> directly available in its platform and GitHub has a marketplace with services such as <a href="https://travis-ci.com/">CI Travis</a>, which is a free service for open source projects.</p>
+
+<p>There are many services you can leverage but really, the important aspect is that you can as many tests as part of your development process, not just when you reach a project gate.
+This in turn makes it possible to increase the quality of your code but also accelerate your rate of deployments since you know that each line changed can trigger the entire codebase review.</p>
+
+<h3 id="ci-travis">CI Travis</h3>
+
+<p>For the purpose of this course, since we’re going to use your GitHub account, we’ll leverage CI Travis.</p>
+
+<p>In order to grant access to your repository, you’ll need to visit <a href="https://travis-ci.com/">CI Travis website</a> and login with your GitHub account.</p>
+
+<p>Grant access to your account or to your project repo only if you prefer.</p>
+
+<p>Once the access is granted, you will need to add the <code class="highlighter-rouge">.travis.yml</code> file in the project root directory.</p>
+
+<p>The content of the file should be the following:</p>
+
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">language</span><span class="pi">:</span> <span class="s">node_js</span>
+
+<span class="na">node_js</span><span class="pi">:</span>
+<span class="pi">-</span> <span class="s2">"</span><span class="s">node"</span>
+</code></pre></div></div>
+
+<p>This file essentially provides CI Travis with the required information to run the tests and is required on your GitHub repository.
+It should not be added in the <code class="highlighter-rouge">.gitignore</code> file.</p>
+
+<p>For more details about the setup of CI Travis, you can visit this <a href="https://docs.travis-ci.com/user/tutorial/#to-get-started-with-travis-ci">link</a></p>
+
+<h2 id="resources">Resources</h2>
+
+<p>A few key links:</p>
+
+<p><a href="https://docs.npmjs.com/searching-for-and-choosing-packages-to-download">Instructions to search for packages</a></p>
+
+<p><a href="https://docs.npmjs.com/downloading-and-installing-packages-locally">Downloading and installing packages locally</a></p>
+
+<p><a href="https://docs.npmjs.com/updating-packages-downloaded-from-the-registry">Updating packages downloaded from the registry</a></p>
+
+<p><a href="https://docs.npmjs.com/using-npm-packages-in-your-projects">Using packages in your project</a></p>
+:ET

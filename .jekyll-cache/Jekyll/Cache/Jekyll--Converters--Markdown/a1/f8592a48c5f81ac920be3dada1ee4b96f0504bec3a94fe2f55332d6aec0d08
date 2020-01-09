@@ -1,0 +1,77 @@
+I"�<h2 id="working-in-the-open-and-the-ways-you-can-contribute">Working in the open and the ways you can contribute</h2>
+
+<p>The ESDC IT Strategy team is working in the open and welcomes informal feedbacks while work is still in progress.
+Contributing to work in progress, that is produced “in the open”, differs from formal committee reviews that most government employees are familiar with.</p>
+
+<p>This page provides clarification to individuals not familiar with this approach as well as <a href="#methods-to-send-feedbacks">three different ways you can send your feedbacks</a>.</p>
+
+<h3 id="collaborative-approach-in-the-open">Collaborative approach in the open</h3>
+
+<p>When one works “in the open”, one puts her <em>work in progress</em> available to others.
+This means work in progress that is easily discoverable and shareable by and to anyone.
+For us, we chose GitHub as opposed to your typical internal records management system because GitHub is available on the Internet and makes use of <a href="https://en.wikipedia.org/wiki/Git">Git</a>.</p>
+
+<h4 id="compliance-with-the-directive-on-information-management">Compliance with the Directive on Information Management</h4>
+
+<p>Internal records management systems are good for Information Resources of Business Value (IRBV) and Information Resources of Enduring Value (IREV).
+Because all work in progress on this site provides no guarantees that the ideas, the proposals and even the presentations being developed here in the open will make it into production one day, they do not fall under the IRBV and IREV definition.</p>
+
+<p>Should a document on this site become official, it will be recorded into the official ESDC records management system.</p>
+
+<h4 id="collaboration-in-the-open">Collaboration in the open</h4>
+
+<p>Anyone can send informal feedback to the IT Strategy team.
+“Anyone” can be employees of IITB, other branches within ESDC, from other federal departments, and from the public (e.g. the industry).</p>
+
+<p>Informal feedback is not meant to be official positions from lines of businesses or buy-in.
+Instead, it is an opportunity for fellow colleagues to add their professional perspective to the IT Strategy team’s work.</p>
+
+<p>Their perspective provides valuable feedback to a team who’s <a href="mandate.html">mandate</a> regards setting the IT direction of the organisation, diagnosing key organisational problems, and recommending course of actions to resolve them.</p>
+
+<p>This differs from traditional peer review cycles of:</p>
+
+<ol>
+  <li>Producing a draft</li>
+  <li>Seeking comments from first committee</li>
+  <li>Disposing of committee comments
+    <ul>
+      <li>Repeating from #2 for <em>n</em> committees</li>
+    </ul>
+  </li>
+  <li>Publishing the document</li>
+</ol>
+
+<p>Such traditional approach is timely, hinders valuable feedback from knowledgeable minds that are often hidden in the organisation, and dilutes the integrity of the content.
+Working in the open gives anyone, regardless of their position in the organisation, an opportunity to express their professional opinion and ideas.</p>
+
+<p>This does not mean seeking consensus.
+Rather, it allows the IT Strategy team to hear from a broad and diverse perspective.
+Only then would a formal peer review process to seek executive buy-in is to occur.</p>
+
+<h4 id="methods-to-send-feedbacks">Methods to send feedbacks</h4>
+
+<p>The following three methods can be used to send feedbacks to the IT Strategy team.
+The types of feedback we are looking for are:</p>
+
+<ul>
+  <li>Are there missing topics that need to be addressed?</li>
+  <li>Are there topics that are misrepresented or do not reflect the lines of businesses perspectives?</li>
+  <li>Are their reference sources that you can recommend the IT Strategy team to look at (e.g. articles, studies, official documents)</li>
+</ul>
+
+<h5 id="via-email">Via Email</h5>
+
+<p>Send your feedbacks via email at <a href="mailto:EDSC.DGIIT.StrategieTI-ITStrategy.IITB.ESDC@hrsdc-rhdcc.gc.ca">EDSC.DGIIT.StrategieTI-ITStrategy.IITB.ESDC@hrsdc-rhdcc.gc.ca</a></p>
+
+<h5 id="via-submitting-an-issue-on-our-github-repository">Via submitting an issue on our GitHub repository</h5>
+
+<p><a href="https://github.com/sara-sabr/ITStrategy/issues">Open an issue</a> on our GitHub repository.</p>
+
+<p>To do so, you will need to <a href="https://github.com/join">sign up for a free GitHub account</a>.
+You are free to open any amount of issues.</p>
+
+<h5 id="via-submitting-a-pull-request">Via submitting a Pull Request</h5>
+
+<p>If you are used to using Git, you can <a href="https://help.github.com/en/articles/about-pull-requests">submit a Pull Request</a> that includes the changes you are proposing.
+This is the best way to leverage the full collaboration feature of GitHub where we can discuss the changes online.</p>
+:ET

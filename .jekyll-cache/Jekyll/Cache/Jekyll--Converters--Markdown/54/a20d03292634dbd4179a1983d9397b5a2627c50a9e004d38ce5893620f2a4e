@@ -1,0 +1,186 @@
+I"2<p>In <a href="https://itrevolution.com/book/the-devops-handbook/">The DevOps Handbook</a> the authors make a case for teams spending at least 20% of their time towards reducing technical debt.</p>
+
+<blockquote>
+  <p>The deal [between product owners and] engineering goes like this: Product management takes 20% of the team’s capacity right off the top and gives this to engineering to spend as they see fit.
+<!--more-->
+They might use it to rewrite, re-architect, or re-factor problematic parts of the code base…whatever they believe is necessary to avoid ever having to come to the team and say, ‘we need to stop and rewrite [all our code].’
+If you’re in really bad shape today, you might need to make this 30% or even more of the resources.
+However, I get nervous when I find teams that think they can get away with much less than 20%.</p>
+</blockquote>
+
+<p>I am going to abstract this to suggest that all teams should spend at least 20% of their time improving the way they work.
+In the case of the team I work with, we produce documentation as well as some proof of concepts to demonstrate the effectiveness of our proposed ideas. After work one day, I was discussing modelling our team as an Enabling Team, from <a href="https://itrevolution.com/book/team-topologies/">Team Topologies</a>, with a colleague.
+In the book they recommend that an enabling team could spend time assisting other teams in onboarding new technologies, or helping other teams find better ways to work.
+My colleague challenged me on our ability to sell ourselves as a learning team.
+People are busy, why would people want to slow themselves down by committing time away from their priorities to improve? How would you sell that to a team already working at 120% capacity?</p>
+
+<p>Many of us already know from the <a href="https://itrevolution.com/book/the-phoenix-project/">Phoenix Project</a> the hand wave anecdotal justification for committing time to improving one’s process.
+If one was really taken with the Phoenix Project they may invest the time to learn more by learning the magic of DevOps through books such as <a href="https://itrevolution.com/book/the-devops-handbook/">The DevOps Handbook</a> (which I suggest you do).
+However, if you’re in a position where you need to quickly make a business case for continuous improvement, how does one do this?
+That is what I will try to do here.
+Make a succinct argument using some simple math to demonstrate the value of continuous improvement.</p>
+
+<h3 id="tldr">TLDR</h3>
+
+<p>The TLDR of this article is that ‘continuous’, in more formal terms, means compounding.
+Or, depending on your preferred jargon, exponential.
+If you graph output with the Y axis as ‘units produced’ and X as time, then the team that continuously improves will increase their output exponentially.
+And given some arbitrarily large value n (or as n approaches infinity) then exponential will always beat linear.
+Given that our teams exist for some arbitrarily long time (n), then teams who continually improve will be more productive than a team who does not.</p>
+
+<p>If that sounded a little math-y or jargon-y, we’ll walk through it below.</p>
+
+<h2 id="the-case-for-continuous-improvement">The Case for Continuous Improvement</h2>
+
+<p><em>This demonstration was created using the fantastic site, <a href="https://www.desmos.com/calculator">desmos</a>.</em></p>
+
+<p>If we graph f(x) = x we will get a line as follows</p>
+
+<p><img src="/ITStrategy/assets/images/graphx.PNG" alt="Graph of f(x) = x" /></p>
+
+<p>We are defining y-axis (the vertical one) as the total units of business value produced, and the x-axis to be time.
+The line then is the total units of business value produced over some unit of time.
+For the sake of this example, let’s say that each increment in x is one month.</p>
+
+<p>This line assumes that, week after week, the team continues to do work “as usual”, or the famous “we’ve always done it like this” approach.
+With this approach, the team will (on average) produce the same units of business value each week.
+If you are working over 100% this week, you will be next week too.</p>
+
+<p>What’s the alternative? Continuous improvement.</p>
+
+<p>If we continue to improve our processes and tools week after week, we will continuously improve, thereby becoming able to produce more business value over a given time.
+This should give us an exponential curve, which looks something like this</p>
+
+<!-- markdownlint-disable MD033 -->
+<p>f(x) = x<sup>2</sup>
+<!-- markdownlint-enable MD033 --></p>
+
+<p><img src="/ITStrategy/assets/images/drawgraphx2.PNG" alt="Graph of f(x) = x^2" /></p>
+
+<p>The most obvious thing we notice is that the exponential function grows much faster.
+One may counter, however, that there is an initial loss of productivity if one spends time improving rather than actually <em>doing work</em>, so we must account for this.
+To do this, we must subtract some value from <em>f(x)</em> to account for the lost productivity.
+For each increment in time, then, we will lose some percentage of our time.
+Where x represents time, this can be written as</p>
+
+<p>x * [some percentage of productivity lost]</p>
+
+<p>Or, to be more succinct, we can replace [some percentage of productivity lost] with <em>l</em>.
+Then we will have</p>
+
+<p>x * <em>l</em>, where <em>l</em> is the amount of time spent per day on improving.</p>
+
+<p>With this addition, we have</p>
+
+<!-- markdownlint-disable MD033 -->
+<p>f(x) = x<sup>2</sup> - (x*l)
+<!-- markdownlint-enable MD033 --></p>
+
+<p>What happens when we graph this? Well, let’s assume we spent 20% of our day on continuous improvement.
+Then we lose 20% of our productivity per month.</p>
+
+<p><img src="/ITStrategy/assets/images/graphx2minusxl.PNG" alt="Graph of f(x) = x^2" /></p>
+
+<p>Notice at the bottom that the curve flattens out slightly.
+This decrease in productivity is always present as x (the amount of time) increases.
+However, <a href="https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:exponential-growth-decay/x2f8bb11595b61c86:exponential-vs-linear-growth/v/exponential-vs-linear-growth">an exponent will always beat a linear progression</a>.
+The next obvious step would be to then graph our “as is” way of working versus our continuous improvement method of working, and see how long it would take before a continuously improving team will take before it is more productive than the team who continues to work the same way, day after day.
+Before that, however, in our previous calculation we used x^2, which is a curve that grows very quickly, and up until now, we have not justified our selection of the arbitrary value of 2.
+Another way we could have written this is</p>
+
+<!-- markdownlint-disable MD033 -->
+<p>x<sup>2</sup> = x<sup>1+1</sup>
+<!-- markdownlint-enable MD033 --></p>
+
+<p>When talking about percentage points, we calculate using decimal points.
+Therefore, 1 = 1.0 = 100%.
+Therefore, as we had it written previously we are claiming that our productivity increases by 100% per day! If anyone has figured out how to do this, we’d love to hear from you! Unfortunately, if you live in the realm of mere mortals like me, 100% productivity increase per day is likely unattainable.</p>
+
+<p>We can rewrite our productivity increase function as follows</p>
+
+<!-- markdownlint-disable MD033 -->
+<p>f(x) = x<sup>1+[the amount of productivity increase we expect per month spent continuously improving]</sup>
+<!-- markdownlint-enable MD033 --></p>
+
+<p>That’s really long to say, so if we set [the amount of productivity increase we expect per month spent continuously improving] = r, then we have</p>
+
+<!-- markdownlint-disable MD033 -->
+<p>x<sup>2</sup> = x<sup>1+r</sup>
+<!-- markdownlint-enable MD033 --></p>
+
+<p>Where r is some percentage of increased productivity.</p>
+
+<p>Alright.
+We’re almost there! Our function for mapping how productive a continuously improving team looks something like this</p>
+
+<!-- markdownlint-disable MD033 -->
+<p>f(x) = x<sup>1+r</sup> - (x*l)
+<!-- markdownlint-enable MD033 --></p>
+
+<ul>
+  <li>Where <em>r</em> is equal to the rate of improvement</li>
+  <li>And <em>l</em> is equal to the amount of time we have spent continuously improving</li>
+</ul>
+
+<p>Next we will pick some values that make sense.
+As discussed, in The DevOps Handbook they recommend %20 of your time be spent on reducing technical debt or process improvement.
+So for <em>l</em> we will pick 20%, or 0.2</p>
+
+<p>Now how much improvement do we expect from 20% of our time being spent on improvements? As a government employee, I know in certain cases this return can be gargantuan.
+For example, <a href="https://e-estonia.com/how-save-annually-820-years-of-work/">Estonia claims they save 820 years of working time annually through their use of automated digital services</a>.
+For our example, however, as we will see, the rate of improvement is not all that important.
+You will always eventually become more productive if you continually improve for long enough.
+Alright then, let’s choose 10%, which is the same as 0.1.
+So we are assuming for each unit of time for which you spent 20% of your time, you get half as much efficient for the time invested.
+Conservative, at best.
+Our function then becomes</p>
+
+<!-- markdownlint-disable MD033 -->
+<p>f(x) = x<sup>1+0.1</sup> - (x*.2)</p>
+
+<p>f(x) = x<sup>1.1</sup> - (x*.2)
+<!-- markdownlint-enable MD033 --></p>
+
+<p>And if we graph this, we will get the following curve</p>
+
+<p><img src="/ITStrategy/assets/images/fullfunction.PNG" alt="f(x) = x^(1.1) - (x*l)" /></p>
+
+<p>Great! What’s next? Well, let’s say we compare that with a team that does not continually improve, and continues to grind through, day to day, doing things “as they’ve always done them”.</p>
+
+<p><img src="/ITStrategy/assets/images/comparecurves1.PNG" alt="Compare curves" /></p>
+
+<p>We can see that the red line, which represents the team that continually improves for 20% of their day for a small 10% return in productivity will be more productive in about 6 months (or 6.192 months, to be exact).
+Even if you reduced the productivity gained by half (to 5%, or 0.05), you would still find that before 39 months is up the team that continuously improves will inevitably end up outperforming the team who does not.</p>
+
+<p>We have demonstrated that even if the trade off between time invested versus potential gain is low, if one continually improves their team then over time they will become more productive than the team who does not.</p>
+
+<p>Imagine if they had started continually improving <strong>years</strong> ago, think about how productive they would be by now! Don’t make the same mistake our predecessors did.
+Start continuously improving now! Your future team members, future bosses, and your future self, will all thank you.</p>
+
+<p>To satisfy the purpose of this article, one may stop here.
+If you would like to play around with some numbers on desmos please click <a href="https://www.desmos.com/calculator/bfk9p5ho7f">here</a>.
+If you’re interested in further details, below we are going to talk about how to decide on the optimal trade off between productivity gained and time invested.</p>
+
+<h2 id="the-end">The End</h2>
+
+<p>Thanks for reading! This was my attempt at going from simple to more complex in an attempt to try and more formally and rigorously define the logic behind committing to continually improving.
+In the first part of this document <a href="#the-case-for-continuous-improvement">The Case for Continuous Improvement</a> I was hoping to provide a easily consumable and succinct pitch for folks to start continuously improving without requiring them to read all the books… though it would be best if they did.
+It only requires one to remember a little from the dusty math books.
+The <a href="/ITStrategy/2019/11/13/case-continuous-improvement-deeper-dive.html">next post</a> is intended for the more committed reader to try and more deeply explore the outputs desired from continually improving, and what we should take into consideration when doing so.
+This blog post was a blast to write.</p>
+
+<p>Thanks for reading!</p>
+
+<!--markdownlint-disable MD036-->
+<p><em>Edited on 2019-11-13:The Deeper Dive section has been moved to a following post to shorten the length of this article and the conclusion has been adapted to better represent this new structure.</em>
+<!--markdownlint-enable MD036--></p>
+
+<h2 id="references">References</h2>
+
+<ul>
+  <li><a href="https://itrevolution.com/book/the-devops-handbook/">The DevOps Handbook</a></li>
+  <li><a href="https://itrevolution.com/book/team-topologies/">Team Topologies</a></li>
+  <li><a href="https://itrevolution.com/book/the-phoenix-project/">Phoenix Project</a></li>
+  <li><a href="https://khanacademy.org">Khan Academy</a></li>
+</ul>
+:ET
