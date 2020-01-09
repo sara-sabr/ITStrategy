@@ -2,32 +2,42 @@
 
 ESDC IT Strategy (30 min presentation)
 
+2020-01-29
+
 ---
 
 ## Agenda
 
-1. (5 min) Approach to IT Strategy
-2. (5 min) Team's focus areas
-3. (5 min) Recommended immediate actions
-
-(15 min) Q&A and buffer time
+1. Approach to IT Strategy
+2. Focus Areas
+3. Recommended immediate actions
 
 ---
 
-## 1. IT Strategy approach
+## 1. Approach to IT Strategy
 
 ### Purpose
 
-Set the stage by clearly communicating that we are not doing conventional IT strategy with some examples of what that means
+2018-12 - IT strategy team was created with goal of getting an integrated business-IT strategy
+
+> But, we are not doing conventional IT strategy
 
 Note:
 
-- Genesis of IT strategy and reason why the team got created (Dec 2018 senior leader meeting, goal of getting an integrated business-IT strategy)
-- How we are **NOT** doing this
-  - We instead will focus on IT's ability to quickly respond to business changes
-- How are **are** doing this
-  - In the open. All are welcome and invited to comment and contribute to the strategies at all times -- as far customers, private sector partners, other levels of government, or other departments.
-- Talk about premise: the relationship between business and IT _must_ change to a shared accountability model, as the conventional contracting model (requirements based, a company within a company) of business-IT does deliver the intended results in a digital age. We should instead move to a partnership based approach (outcomes based, one team). The future is too unpredictable and complex so the conventional long term planning do not deliver the intended results. Therefore, we must instead reward an empirical cycle of trying, observing, and correcting.
+Provide examples..
+Talk about premise: the relationship between business and IT _must_ change to a shared accountability model, as the conventional contracting model (requirements based, a company within a company) of business-IT does deliver the intended results in a digital age. We should instead move to a partnership based approach (outcomes based, one team). The future is too unpredictable and complex so the conventional long term planning do not deliver the intended results. Therefore, we must instead reward an empirical cycle of trying, observing, and correcting.
+
+--
+
+#### How we are **NOT** doing this
+
+We instead will focus on IT's ability to quickly respond to business changes
+
+--
+
+#### How we are **doing** this
+
+In the open. All are welcome and invited to comment and contribute to the strategies at all times -- as far customers, private sector partners, other levels of government, or other departments.
 
 --
 
@@ -35,19 +45,39 @@ Quote of Mark Schwartz
 
 > To work effectively in the digital world, you must first accept complexity and uncertainty, for they demand very different approach to carrying out initiatives. A predictable world rewards advanced planning and rigid plan execution. But a complex and uncertain world rewards an empirical cycle of trying, observing, and correcting.
 
+---
+
+### Approach
+
+#### Mandate
+
+Enable the strategic value of IT within ESDC by reducing its risks and increasing business agility.
+
 --
 
-Talk about 4 angles the team is addressing using strategies (mandate)
+#### Diagnose and recommend changes
 
-- Diagnose and Recommend changes on problems that inhibit the desired changes in behaviours
-  - example: Heavy Governance promotes risks, need to reduce burden of giving permission to work
-  - example: Senior Advisors release process mapping involving 13 different teams and up to 49 email exchanges, need for embedded teams
-- Measuring strategy progress using non-invasive means and making course correction from emperical evidence
-- Challenge current thinking and approaches
-  - example: No more status update meetings due to modern tools (KANBAN boards in the open)
-  - example: This presentation not working in IE and refusal to make it work in IE because we're focusing on modern tech
-  - example: Technical work needing to be reviewed by non technical staff for approval
-  - example: Defaults over standards (if an expert in their respective area proposes a different approach than the departmental 'default' they are free to do so -- perhaps that will become the next default)
+> Problems that inhibit the desired changes in behaviours
+
+- Examples
+  - Heavy Governance promotes risks, need to reduce burden of giving permission to work
+  - Senior Advisors release process mapping involving 13 different teams and up to 49 email exchanges, need for embedded teams
+
+--
+
+#### Measuring progress
+
+> Making course correction from emperical evidence
+
+--
+
+#### Challenge current thinking and approaches
+
+- Examples
+  - No more status update meetings due to modern tools (KANBAN boards in the open)
+  - This presentation not working in IE and refusal to make it work in IE because we're focusing on modern tech
+  - Technical work needing to be reviewed by non technical staff for approval
+  - Defaults over standards (if an expert in their respective area proposes a different approach than the departmental 'default' they are free to do so -- perhaps that will become the next default)
 
 ---
 
@@ -71,22 +101,39 @@ Link to [Strategy Map](https://sara-sabr.github.io/ITStrategy/strategy-summary.h
 
 - Starting in the new fiscal year IT Strategy will be proposing quarterly actions to be integrated into daily work
 - During each quarter IT Strategy will list their actions for the quarter, and advise actions the branch should take
-- Our strategies and associated actions are aimed at promoting the below (though not an exhaustive list)
-  1. Continuous Learning (20% dedicated to learn, automate, and improve)
-  2. Make ongoing work and backlog visible, including code
-  3. Allow onboarding of modern tools, especially open source ones
-  4. Avoid toil, invest in automation
-  5. Promote smaller investments over large ones by leveraging Lite Projects
-
-Link to [Strategies and Actions](https://sara-sabr.github.io/ITStrategy/strategies-actions.html)
 
 --
 
+#### Q1 (2020-04) strategies and actions
+
+> **Use 20% of time to learn, automate and improve**
+
+- Use CATS codes for continuous improvement
+- Gather metrics for things your teams work on - show progress
+
+[Q1 Strategies and Actions](https://sara-sabr.github.io/ITStrategy/strategy-learning-automating-improving.html)
+
+--
+
+#### Goals
+
+- Continuously learn, automate and improve
+- Reduce lead time for changes and delivery of services/devices
+- Recover faster incidents and errors
+- Reduce frequency of incidents and errors
+- Align with GC IT Direction
+
+---
+
 ### Supporting materials and information
 
-(The idea is for the audience to have an index in finding out more about stuff)
-
-- [IT Strategy team's public workspace](https://sara-sabr.github.io/ITStrategy)
+- [IT Strategy team's public workspace](https://github.com/sara-sabr/ITStrategy)
+- [Q1 Strategies and Actions](https://sara-sabr.github.io/ITStrategy/strategy-learning-automating-improving.html)
+- [General Strategies and Actions](https://sara-sabr.github.io/ITStrategy/strategies-actions.html)
 - [Strategy Map](https://sara-sabr.github.io/ITStrategy/strategy-summary.html)
-- [Strategies and Actions](https://sara-sabr.github.io/ITStrategy/strategies-actions.html)
+- [Medium Term IT Picture - 2025](https://sara-sabr.github.io/ITStrategy/it-picture-medium-term.html)
 - [DevOps Research and Assessment](https://cloud.google.com/devops/)
+
+---
+
+Question ?
