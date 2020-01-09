@@ -69,6 +69,10 @@ body {
   color: #545454 !important;
 }
 
+.dropdown-item {
+  text-transform: initial;
+}
+
 li .nav-link {
   color: #545454 !important;
 }
