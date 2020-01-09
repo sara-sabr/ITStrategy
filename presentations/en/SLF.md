@@ -18,7 +18,7 @@ ESDC IT Strategy (30 min presentation)
 
 ### Purpose
 
-2018-12 - IT strategy team was created with goal of getting an integrated business-IT strategy
+Dec. 2018 - IT Strategy team was created with goal of producing an integrated Business-IT Strategy
 
 > But, we are not doing conventional IT strategy
 
@@ -31,13 +31,15 @@ Talk about premise: the relationship between business and IT _must_ change to a 
 
 #### How we are **NOT** doing this
 
-We instead will focus on IT's ability to quickly respond to business changes
+We instead focus on IT's ability to quickly respond to business changes
 
 --
 
 #### How we are **doing** this
 
-In the open. All are welcome and invited to comment and contribute to the strategies at all times -- as far customers, private sector partners, other levels of government, or other departments.
+In the Open. All are welcome and invited to comment and contribute to the strategies at all times
+
+Customers, private sector partners, other levels of government, or other departments...
 
 --
 
@@ -60,8 +62,8 @@ Enable the strategic value of IT within ESDC by reducing its risks and increasin
 > Problems that inhibit the desired changes in behaviours
 
 - Examples
-  - Heavy Governance promotes risks, need to reduce burden of giving permission to work
-  - Senior Advisors release process mapping involving 13 different teams and up to 49 email exchanges, need for embedded teams
+  - Heavy Governance promotes risks -> need to reduce burden of giving permission to work
+  - Software Release Process mapping involves 13 different teams and up to 49 email exchanges -> need for embedded teams
 
 --
 
@@ -74,8 +76,8 @@ Enable the strategic value of IT within ESDC by reducing its risks and increasin
 #### Challenge current thinking and approaches
 
 - Examples
-  - No more status update meetings due to modern tools (KANBAN boards in the open)
-  - This presentation not working in IE and refusal to make it work in IE because we're focusing on modern tech
+  - No more status update meetings, transition to modern tools (e.g. Kanban boards in the open)
+  - This Web-based presentation doesn't work in IE - because of use of modern tech
   - Technical work needing to be reviewed by non technical staff for approval
   - Defaults over standards (if an expert in their respective area proposes a different approach than the departmental 'default' they are free to do so -- perhaps that will become the next default)
 
@@ -99,8 +101,8 @@ Link to [Strategy Map](https://sara-sabr.github.io/ITStrategy/strategy-summary.h
 
 ### 3. Recommended immediate actions
 
-- Starting in the new fiscal year IT Strategy will be proposing quarterly actions to be integrated into daily work
-- During each quarter IT Strategy will list their actions for the quarter, and advise actions the branch should take
+- Starting in the new fiscal year, IT Strategy will be proposing quarterly actions to be integrated into daily work
+- During each quarter, IT Strategy will list their actions for the quarter, and advise actions the Branch should take
 
 --
 
@@ -136,4 +138,4 @@ Link to [Strategy Map](https://sara-sabr.github.io/ITStrategy/strategy-summary.h
 
 ---
 
-Question ?
+### Question ?
