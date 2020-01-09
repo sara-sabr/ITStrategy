@@ -13,6 +13,7 @@ permalink: /strategy-communications.html
 - [Purpose](#purpose)
 - [Objectives](#objectives)
 - [Stakeholders and Key Messages](#stakeholders-and-key-messages)
+- [Operational Approach](#operational-approach)
 - [Communications Methods](#communications-methods)
 - [Evaluation](#evaluation)
 
@@ -48,28 +49,26 @@ Content requiring the exception
 
 <!-- markdownlint-enable MD033-->
 
-#### Stakeholders
+### Operational Approach
 
-- IITB Senior Executives (DG and ADM)
-- IITB Executives (Directors and Executive Directors)
-- IITB Management (Managers and Team Leads)
-- IITB Workforce
-- Non-IITB ESDC executives (e.g. "The Business")
-- General ESDC or other Government department personnel
+As the team is taking an interative approach to strategy making, the following communication work will occure **every quarter** (an image would be ideal here):
 
-#### Key Messages
+1. Seek endorsement and approval of quarterly strategy(ies)
+2. Perform outreach to community of targetted stakeholders
+3. Measuring and communicating progress update to targetted stakeholders
 
-For each Stakeholders, we need to identify the key messages (objective we want) they will need to hear from our Team.
-For example:
+The type of stakeholder to target will depend on the type of strategy to endorse and execute.
 
-- IITB Senior Executives
-  - General Direction, Endorsements, and progress updates towards that direction via Identified Metrics
-- IITB Management
-  - Staffing-related and Management-related strategies (e.g. continuous learning objectives)
-- IITB Workforce
-  - Daily actions they can start doing today, tools at their disposal, forums at their disposal
+The above communication work will require to keep a consistent message to stakeholders in order to avoid confusion and maintain credibility of the team's approach.
 
-Link to the "Communications Methods" at our disposal that can be used.
+<!-- markdownlint-disable MD033 -->
+| **Activity**  | **Communication methods** |
+| ------------- | -------------------------------------------- |
+| Approval      | 1. CIO Executive Committee<br> 2. SABR DGO<br> 3. MM Director |
+| Endorsement   | 1. IITB Governance Committees<br> 2. IITB Forums<br> 3. Peer reviews<br> 4. Briefing Notes |
+| Outreach      | 1. IITB Governance Committees<br> 2. IITB Forums<br> 3. Public Sector Communities<br> 4. Blogs<br> 3. Social Media<br> 4. IITB Newletters<br> 5. Email |
+| Feedback      | 1. Social Media<br> 2. Blogs<br> 3. IITB Governance Committees<br> 4. IITB Forums<br> 5. Custom Metrics |
+<!-- markdownlint-enable MD033-->
 
 ### Communications Methods
 
