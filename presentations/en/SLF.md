@@ -156,7 +156,7 @@ Note:
 - Reduce frequency of incidents and errors
 - Align with GC IT Direction
 
----
+--
 
 ### Q1 (2020-04) strategies and actions
 
@@ -169,7 +169,7 @@ Note:
 
 ---
 
-### Supporting material and information
+## Supporting material and information
 
 - [IT Strategy team's public workspace](https://github.com/sara-sabr/ITStrategy)
 - [Q1 Strategies and Actions](https://sara-sabr.github.io/ITStrategy/strategy-learning-automating-improving.html)
@@ -180,7 +180,7 @@ Note:
 
 --
 
-### Image
+## Image
 
 ![Table: Current challenges and priorities](assets/images/imit-moving-fwd-strategy.png)
 
