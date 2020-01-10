@@ -41,6 +41,9 @@
     },
     {
       "pattern": "https://vimeo.com"
+    },
+    {
+      "pattern": "https://gpp-ppm.service.gc.ca"
     }
   ]
 }
