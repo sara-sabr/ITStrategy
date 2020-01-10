@@ -48,7 +48,7 @@ Following these actions will be mandatory as part of Management and team leads p
 Strategies will be reviewed and updated quarterly based on progress and effectiveness.
 Below is a list of strategies and actions that could be used as quarterly strategies.
 
-The first quarterly strategy for Q1 (2020-04 to 2020-06) will be [20% of time to learn, automate and improve](strategy-learning-automating-improving.html) (Draft).
+The first quarterly strategy for Q1 (2020-04 to 2020-06) will be (Draft) [20% of time to learn, automate and improve](strategy-learning-automating-improving.html).
 
 ### IITB Teams Must
 
