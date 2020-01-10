@@ -124,7 +124,7 @@ Note:
 
 ---
 
-### 2. Focused Areas
+## 2. Focused Areas
 
 - Moving to Product Management
 - 21 DevOps capabilities (DORA), including job satisfaction
@@ -141,14 +141,14 @@ Note:
 
 ---
 
-### 3. Strategies and actions
+## 3. Strategies and actions
 
 - Starting in the new fiscal year, IT Strategy will propose tangible quarterly actions to be integrated into daily work
 - During each quarter, IT Strategy will list their actions for the quarter, and advise actions the Branch should take
 
 --
 
-#### Goals
+### Goals
 
 - Continuously learn, automate and improve
 - Reduce lead time for changes and delivery of services/devices
@@ -180,12 +180,12 @@ Note:
 
 --
 
-#### Image
+### Image
 
 ![Table: Current challenges and priorities](assets/images/imit-moving-fwd-strategy.png)
 
 ---
 
 <!--markdownlint-disable MD026-->
-### Question ?
+## Question ?
 <!--markdownlint-enable MD026-->
