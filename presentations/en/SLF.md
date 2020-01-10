@@ -92,16 +92,20 @@ Note:
 
 #### Challenge current thinking and approaches
 
+To reduce organizational debt
+
 E.g.
 
-- No more status update meetings, transition to modern tools (e.g. Kanban boards in the open)
-- This Web-based presentation doesn't work in IE - because of use of modern tech
+- Exposed work in progress via Kanban boards = No more status update meetings
+- Modern solutions from the industry needing modern clients
 - Technical work needing to be reviewed by non technical staff for approval
 - Defaults over Standards
 
 Note:
 
-If an expert in their respective area proposes a different approach than the departmental 'default' they are free to do so -- perhaps that will become the next default.
+- Organizational debt = expecting new methods of doing things by modern tool adoption but not retiring the old ways of doing things
+- Modern clients: this Web-based presentation doesn't work in IE. We could make it work because OSS. But that defeats the purpose
+- Default: If an expert in their respective area proposes a different approach than the departmental 'default' they are free to do so -- perhaps that will become the next default.
 
 ---
 
