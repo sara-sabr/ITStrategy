@@ -112,14 +112,17 @@ Note:
 ### 2. Focused Areas
 
 - Moving to Product Management
-  - Funding model, Dedicated teams,  
-    Automatic deployments, Lessons learned
 - 21 DevOps capabilities (DORA), including job satisfaction
 - Adoption of Open Source, as a philosophy
 - Empowering employees
 - Automation to allow staff to focus on meaningful work
 
 Link to [Strategy Map](https://sara-sabr.github.io/ITStrategy/strategy-summary.html)
+
+Note:
+
+- Product Management: affects funding model, team composition, automatic deployment, lessons learned
+- DORA: Institude that studies high performing technology organization
 
 ---
 
