@@ -54,7 +54,7 @@ The first quarterly strategy for Q1 (2020-04 to 2020-06) will be [20% of time to
 
 **Starting now! For all projects and teams!**
 
-#### Align with GC IT Policy and Directions
+#### Align with GC IT Policy and Direction
 
 - [Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html)
 - [Digital Operations Strategic Plan: 2018-2022](https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html)
