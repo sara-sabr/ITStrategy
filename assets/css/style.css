@@ -315,37 +315,6 @@ ul.social li a:hover {
 
 /*============= CONTACT SECTION =============*/
 
-.footer {
-  /*background: url('../images/footer.jpg') no-repeat;*/
-  background-size: cover;
-  color: white;
-  /*background-color: #a0a0a0;*/
-}
-
-.row.outer {
-  background-color: rgba(57, 63, 70, .85);
-  padding: 1rem 2rem 3rem;
-}
-
-.footer img {
-  height: 2rem;
-  margin: 1.5rem 0;
-}
-
-.footer a,
-.footer ul.social li a {
-  color: white;
-}
-
-.footer ul.social li a:hover {
-  color: #1EBBA3;
-}
-
-.footer h3 {
-  text-transform: uppercase;
-  margin: 1.5rem 0;
-}
-
 /*--- Contact Form --*/
 .form-group {
   margin-bottom: 1.3rem;
