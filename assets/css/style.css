@@ -82,7 +82,7 @@ body {
 }
 
 .dropdown-menu .dropdown-item:hover {
-  background-color: rgb(238, 238, 238);
+  background-color: #e9ecef;
 }
 
 li .nav-link {
