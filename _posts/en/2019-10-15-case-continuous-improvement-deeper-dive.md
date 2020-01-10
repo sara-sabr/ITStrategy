@@ -7,7 +7,7 @@ author: "IT Strategy Team"
 date: "2019-11-13"
 excerpt_separator: <!--more-->
 ---
-In my [previous post]({{ site.baseurl}}/2019/10/15/case-continuous-improvement.html), I have tried to use maths to prove that continuous improvement would provide greater value than the status quo to any organization were they to embed the practice in their way of working.
+In my [previous post]({{ site.baseurl }}/2019/10/15/case-continuous-improvement.html), I have tried to use maths to prove that continuous improvement would provide greater value than the status quo to any organization were they to embed the practice in their way of working.
 In this post, I propose the reader a deeper dive and some potential improvements over this analysis.
 <!--more-->
 
@@ -19,11 +19,11 @@ Luckily with desmos the heavy lifting is done for us.
 If you haven't already done so, click [here](https://www.desmos.com/calculator/ouestfova3) for an example.
 You should see something as follows
 
-![Area between curves]({{site.baseurl}}/assets/images/areaundercurve.PNG)
+![Area between curves]({{ site.baseurl }}/assets/images/areaundercurve.PNG)
 
 What are we seeing here? If you hover over where the two lines intercept, you will see that the x value is 6.192, which is the same 6.192 you will see in the integral
 
-![Area under curve function]({{site.baseurl}}/assets/images/integralareaundercurve.PNG)
+![Area under curve function]({{ site.baseurl }}/assets/images/integralareaundercurve.PNG)
 
 Line 3 should read
 
@@ -72,7 +72,7 @@ That is, that the time invested is still increasing the value of *r* comparative
 
 For example, when it comes to looking for a sustainable value of *l* and *r*, a team may iterate and adjust accordingly:
 
-1. I invest 10% of my time for a 10% increase in producitivity, which results in what my team judges to be a good ratio (1:1).
+1. I invest 10% of my time for a 10% increase in productivity, which results in what my team judges to be a good ratio (1:1).
 2. The team increases to 20% of their time for a 20% increase in productivity, making this a good decision to make (1:1).
 3. However, if I increase *l* to 40% of my time, and only see a 25% increase in *r*, then perhaps revising *l* down to the highest value of *l* for which I maintain the 1:1 ratio would be a better approach.
 
@@ -115,7 +115,7 @@ To do this, one needs metrics.
 
 One possible option that comes to mind is the use of velocity and business value.
 Velocity alone will not suffice, as given the same amount of effort by the team they should become more productive.
-Therefore, while velocity remains constant (or, rather, the team’s average velocity stays consistent) the amount of business value delivered should increase.
+Therefore, while velocity remains constant (or, rather, the team's average velocity stays consistent) the amount of business value delivered should increase.
 Therefore, one can measure the rate of increased productivity *r* by computing the rate of increase between the velocity and the business value.
 Each sprint then, a team could calculate
 

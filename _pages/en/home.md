@@ -10,7 +10,7 @@ Welcome to our living workspace! In fact, this is the automatically generated we
 
 As per the notice that can be found throughout our site, the content you will find all around should be considered **work in progress**: there are no guarantees that the ideas, the proposals and even the presentations that we are developing here in the open will make it into production one day.
 
-You can have a look at our **[Working Documents]({{site.baseurl}}/documents-and-presentations.html)**.
+You can have a look at our **[Working Documents]({{ site.baseurl }}/documents-and-presentations.html)**.
 
 On the other end, we would gladly welcome your ideas and comments in order to continuously improve our work and, in a way, how ESDC offers its services to Canadians! Please look at **[how to contribute](how-to-contribute.html)**.
 
