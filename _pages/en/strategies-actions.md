@@ -10,17 +10,12 @@ permalink: /strategies-actions.html
 
 ## IT Strategies and Actions
 
-- [Intent](#intent)
+This document is intended to provide an overview of of the cultural, process, and technical changes (and respective measurements) which our quarterly strategies will be promoting.
+
 - [Approach](#approach)
 - [Goals](#goals)
 - [IITB Teams Must](#iitb-teams-must)
 - [Appendix A - Details of GC Information Technology Direction](#appendix-A---Details-of-GC-Information-Technology-Direction)
-
-### Intent
-
-This document is intended to provide an overview of of the cultural, process, and technical changes (and respective measurements) which our quarterly strategies will be promoting.
-
-The first quarterly strategy will be released Q1 of 2020 and can be viewed [here](strategy-learning-automating-improving.html).
 
 ### Approach
 
