@@ -1,13 +1,15 @@
 ---
 layout: post
-title:  "We are inadvertently promoting risks in IT"
+title: "We are inadvertently promoting risks in IT"
 ref: why-we-are-promoting-risks
 lang: en
 author: "Rémy Bernard, in collaboration with the IT Strategy team"
 date: "2019-12-20"
 excerpt_separator: <!--more-->
 ---
+
 In this blog, I am claiming that our IT initiatives are currently governed in a way that ends up promoting risks instead of reducing them, leading to incorrect investment decisions, diluting our empathy towards end users, and ultimately reducing our ability to meet our fiduciary responsibility towards public funds as required in the [Financial Administration Act](https://laws.justice.gc.ca/eng/acts/F-11/index.html).
+
 <!--more-->
 
 _Note: This blog will link to internal ESDC documents, which are unfortunately only accessible within ESDC corporate network._
@@ -19,9 +21,10 @@ However, the current methods seek a high level of predictability using advanced 
 This may work for physical assets like constructing a house, but not for intangibles -- like software.
 In addition, the transition towards Digital Government is creating a future that is highly complex and uncertain, which is argued requires a different means to govern IT investments: one that rewards an empirical cycle of trying, observing, and correcting. [^1]
 
-At ESDC, we have a [Policy on Project and Program Management (PPPM)](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/2-01PL-182E-Project%20and%20Programme%20Management%20Policy%20on-withBanner-v1.0.pdf) that complies with the Treasury Board (TB) [Policy on Planning and Management of Investments](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32593) with one of its objectives being to ensure *accountability and success of the Portfolio of projects and programmes with a ***specific focus on the benefits of investments*** in projects and programmes*.
+At ESDC, we have a [Policy on Project and Program Management (PPPM)](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/2-01PL-182E-Project%20and%20Programme%20Management%20Policy%20on-withBanner-v1.0.pdf) that complies with the Treasury Board (TB) [Policy on Planning and Management of Investments](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32593) with one of its objectives being to ensure _accountability and success of the Portfolio of projects and programmes with a ***specific focus on the benefits of investments*** in projects and programmes_.
 This ESDC Policy acts as the authoritative means under which all projects and programmes within ESDC are managed.
 The [Project Lifecycle framework (PMLC)](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/02-05G-271E-ProjectLifeCycle-v4.0.pdf) is used to guide the management of projects, according to their classification in size (which is based on cost, risk, capability, and complexity though it is fair to say the cost variable carries more weight than the others).
+
 
 In the PMLC, an IT project is typically expected to produce between 21 and 39 project management artefacts, would require between 48 and 60 project management activities, and would involve 16 stakeholders.
 Note that in the 16 stakeholders only 5 of them are from the IT Branch (though in reality it's much more than this as I'll explain later).
@@ -48,7 +51,7 @@ But in the software world, where technology changes so rapidly, systems get more
 This means you can expect your original estimates to change once project executes.
 
 Project governance includes a [change control process](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/ChangeControl-Guide-PMIS-E.pdf) that requires you to provide information on the scope of change and, depending on that scope, seek different kinds of governance approvals before you are permitted to change.
-Getting information on the scope of change *is* also work.
+Getting information on the scope of change _is_ also work.
 It requires re-engaging the different IT teams, stopping them from doing what they are currently doing, and re-evaluating the same type of information as the original project estimates (scope, costs, and schedule).
 As per above, the effort of going through the change control process must be proportional to the actual change effort, otherwise it gets piled up.
 This effort also includes going through governance bodies and having to explain why we could not have predicted such a change in the first place; why our original estimates were not accurate.
@@ -64,7 +67,7 @@ Which, let's be honest, ends up unlikely because this unattractive, non-function
 
 ### Incorrect investment decisions
 
-In the PMLC mentioned above, **Develop and test solution** is only one project activity from the list of 48 to 60 but is the most intensive one, the reason this whole project was funded, where we will spend most of our time, and will involve at least 12 more stakeholders just within the IT Branch (as per [this process map](onenote:http://dialogue/grp/PR6893344/OneNote/AppDevSA/02-Development%20%28In%20Progress%29/Outcomes%20Map.one#Feature%20to%20Release%20BPM&section-id=%7B5E16E60C-310B-49EF-8451-88E0CE4DA968%7D&page-id=%7B8208D63D-CE7D-49EB-BF48-033A38FA5825%7D&end) created by our Senior Advisors).
+In the PMLC mentioned above, **Develop and test solution** is only one project activity from the list of 48 to 60 but is the most intensive one, the reason this whole project was funded, where we will spend most of our time, and will involve at least 12 more stakeholders just within the IT Branch (as per [this process map](onenote:http://dialogue/grp/PR6893344/OneNote/AppDevSA/02-Development%20%28In%20Progress%29/Release%20Process.one#section-id={D2EC43C2-A283-4DC1-B0C1-E1063C0F3721}&end) created by our Senior Advisors).
 
 It is in this **Develop and test solution** activity that we end up uncovering many unknowns that are inhibiting our ability to execute (internal skill sets limitations, systems integration limitations, technical debt, new technology stack capabilities that could solve problems but are not part of our current standards, security vulnerabilities, proprietary software limitations, etc).
 No amount of advanced planning can completely uncover these unknowns due to the fast pace of technology changes and, more importantly, growing **end-user demands** which are validated only when we **Hand off solution to operations** and produce the **Benefits Realization Plan**. In addition, should the pre-approved plan require the use proprietary software, course corrections will surely involve procurement activities which are additional work and investments to obtain.
@@ -102,13 +105,13 @@ The [Financial Administration Act](https://laws.justice.gc.ca/eng/acts/F-11/inde
 
 section **7 (1) (c)**
 
-> 7 (1) The Treasury Board may act for the Queen’s Privy Council for Canada on all matters relating to
+> 7 (1) The Treasury Board may act for the Queen's Privy Council for Canada on all matters relating to
 >
 > (c) financial management, including estimates, expenditures, financial commitments, accounts, fees or charges for the provision of services or the use of facilities, rentals, licences, leases, revenues from the disposition of property, and procedures by which departments manage, record and account for revenues received or receivable from any source whatever;
 
 section **16.4 (1)**
 
-> 16.4 (1) Within the framework of the appropriate minister’s responsibilities and his or her accountability to Parliament, and subject to the appropriate minister’s management and direction of his or her department, the accounting officer of a department named in Part I of Schedule VI is accountable before the appropriate committees of the Senate and the House of Commons for
+> 16.4 (1) Within the framework of the appropriate minister's responsibilities and his or her accountability to Parliament, and subject to the appropriate minister's management and direction of his or her department, the accounting officer of a department named in Part I of Schedule VI is accountable before the appropriate committees of the Senate and the House of Commons for
 >
 > (a) the measures taken to organize the resources of the department to deliver departmental programs in compliance with government policies and procedures;
 >
@@ -127,10 +130,10 @@ To remediate the above problems, I propose the following:
 1. Promote smaller IT investments over large ones as a means to reduce risk impact to the organization;
 2. Treat every project as a hypothesis, one that must be validated by end users as fast as possible, which will invariably require course corrections;
 3. Put much more emphasis on outcome measurements than on project deliverables.
-This promotes investment in [Business Architecture and Departmental Value Stream](http://dialogue/grp/EA-AE/SitePages/dvsmodel.aspx) using strong, reliable metrics from lines of businesses;
+   This promotes investment in [Business Architecture and Departmental Value Stream](http://dialogue/grp/EA-AE/SitePages/dvsmodel.aspx) using strong, reliable metrics from lines of businesses;
 4. Treat software like products, not physical assets.
-They need a steady source of funding and dedicated teams to allow timely technical debt remediation and evolution.
-Teams should be comprised not only of developers but also security, operations, testing, and policy experts, that works with *actual* users;
+   They need a steady source of funding and dedicated teams to allow timely technical debt remediation and evolution.
+   Teams should be comprised not only of developers but also security, operations, testing, and policy experts, that works with _actual_ users;
 5. Use architectural guardrails instead of gates, where Enterprise Architecture acts as a monitoring discipline making recommendations for course correction to align individual products towards the target enterprise architecture state; and
 6. Embrace open source's philosophy to [work](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html) in the [open]({{site.baseurl}}/2019/11/19/working-in-the-open-part-1.html) and share your work as a means to get economies of scale, avoid lengthy procurement battles, support vendor lock-in strategies, and increase the opportunity to have your work reused.
 
