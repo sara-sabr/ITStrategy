@@ -313,35 +313,6 @@ ul.social li a:hover {
   color: #505962;
 }
 
-/*============= CONTACT SECTION =============*/
-
-/*--- Contact Form --*/
-.form-group {
-  margin-bottom: 1.3rem;
-}
-
-.form-control {
-  background-color: #53595f;
-  border-radius: 0;
-  border: .15rem solid #666b71;
-  color: white !important;
-  font-size: 1.1rem;
-}
-
-.form-control:focus {
-  background-color: #53595f;
-  border: .15rem solid #666b71;
-}
-
-.form-group input::placeholder,
-.form-group textarea::placeholder {
-  color: #b2b5b8 !important;
-}
-
-hr.socket {
-  border-top: .2rem solid #666b71;
-  width: 100%;
-}
 
 /*============= TOP SCROLL =============*/
 
