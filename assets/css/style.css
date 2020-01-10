@@ -69,8 +69,20 @@ body {
   color: #545454 !important;
 }
 
-.dropdown-item {
+.dropdown-menu {
+  min-width: 280px;
+}
+
+.dropdown-menu a.dropdown-item {
+  white-space: normal;
+}
+
+.dropdown-menu .dropdown-item {
   text-transform: initial;
+}
+
+.dropdown-menu .dropdown-item:hover {
+  background-color: rgb(238, 238, 238);
 }
 
 li .nav-link {
