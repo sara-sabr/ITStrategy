@@ -25,7 +25,6 @@ At ESDC, we have a [Policy on Project and Program Management (PPPM)](https://gpp
 This ESDC Policy acts as the authoritative means under which all projects and programmes within ESDC are managed.
 The [Project Lifecycle framework (PMLC)](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/02-05G-271E-ProjectLifeCycle-v4.0.pdf) is used to guide the management of projects, according to their classification in size (which is based on cost, risk, capability, and complexity though it is fair to say the cost variable carries more weight than the others).
 
-
 In the PMLC, an IT project is typically expected to produce between 21 and 39 project management artefacts, would require between 48 and 60 project management activities, and would involve 16 stakeholders.
 Note that in the 16 stakeholders only 5 of them are from the IT Branch (though in reality it's much more than this as I'll explain later).
 
