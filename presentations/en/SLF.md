@@ -19,20 +19,32 @@ ESDC IT Strategy (30 min presentation)
 
 ### Purpose
 
-Dec. 2018 - IT Strategy team was created with goal of producing an integrated Business-IT Strategy
+Dec. 2018 - The need for an IT Strategy identified with goal of producing an integrated Business-IT Strategy
 
 > But, we are not doing conventional IT strategy
 
 Note:
 
-Provide examples..
-Talk about premise: the relationship between business and IT _must_ change to a shared accountability model, as the conventional contracting model (requirements based, a company within a company) of business-IT does deliver the intended results in a digital age. We should instead move to a partnership based approach (outcomes based, one team). The future is too unpredictable and complex so the conventional long term planning do not deliver the intended results. Therefore, we must instead reward an empirical cycle of trying, observing, and correcting.
+Conventional IT = predicting what business will want and planning ahead of time
 
 --
 
 #### How we are **NOT** doing this
 
 We instead focus on IT's ability to quickly respond to business changes
+
+> To work effectively in the digital world, you must first accept complexity and uncertainty, for they demand very different approach to carrying out initiatives. A predictable world rewards advanced planning and rigid plan execution. But a complex and uncertain world rewards an empirical cycle of trying, observing, and correcting.
+
+- Mark Schwartz
+
+Note:
+
+- Premise: The future is too unpredictable and complex. It warrants an empirical cycle of trying, observing, and correcting over advanced planning and rigid plan execution
+- the relationship between business and IT _must_ change to a shared accountability model
+- conventional contracting model (requirements based, a company within a company) to a partnership one (outcomes based, one team solving problems)
+- 2 examples
+- PMLC from CFOB: small IT Project requires 21 and 34 PM artefacts, 48 and 54 PM activities, and involving min 16 stakeholders.
+- SA's Release Process: 13 separate teams and up to 45 interactions. Sources of waste, error, dilutes empathy towards end user, affects employee moral (DORA research)
 
 --
 
@@ -41,12 +53,6 @@ We instead focus on IT's ability to quickly respond to business changes
 In the Open. All are welcome and invited to comment and contribute to the strategies at all times
 
 Customers, private sector partners, other levels of government, or other departments...
-
---
-
-Quote of Mark Schwartz
-
-> To work effectively in the digital world, you must first accept complexity and uncertainty, for they demand very different approach to carrying out initiatives. A predictable world rewards advanced planning and rigid plan execution. But a complex and uncertain world rewards an empirical cycle of trying, observing, and correcting.
 
 ---
 
