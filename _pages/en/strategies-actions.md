@@ -10,16 +10,31 @@ permalink: /strategies-actions.html
 
 ## IT Strategies and Actions
 
-- [Goals](#goals)
+- [Intent](#intent)
 - [Approach](#approach)
+- [Goals](#goals)
 - [IITB Teams Must](#iitb-teams-must)
 - [Appendix A - Details of GC Information Technology Direction](#appendix-A---Details-of-GC-Information-Technology-Direction)
 
-## Intent
+### Intent
 
 This document is intended to provide an overview of of the cultural, process, and technical changes (and respective measurements) which our quarterly strategies will be promoting.
 
 The first quarterly strategy will be released Q1 of 2020 and can be viewed [here](strategy-learning-automating-improving.html).
+
+### Approach
+
+The IT Strategy team will not create a 5 or 10 year plan to transform the organization.
+For details on the objectives, see [Medium Term](it-picture-medium-term.html) and [Long Term](it-picture-long-term.html) IT Pictures.
+Based on [DevOps Research and Assessment (DORA)](https://cloud.google.com/devops/) and the latest State of DevOps report, we want to focus on capabilities that enable high performing IT organizations.
+This also aligns with GC IT Policy and Direction around [Digital government](https://www.canada.ca/en/government/system/digital-government.html).
+
+Quarterly strategies and actions will be shared with all teams in IITB.
+Following these actions will be mandatory as part of Management and team leads performance agreements.
+Strategies will be reviewed and updated quarterly based on progress and effectiveness.
+Below is a list of strategies and actions that could be used as quarterly strategies.
+
+The first quarterly strategy for Q1 (2020-04 to 2020-06) will be (Draft) [20% of time to learn, automate and improve](https://sara-sabr.github.io/ITStrategy/strategy-learning-automating-improving.html).
 
 ### Goals
 
@@ -44,20 +59,6 @@ The first quarterly strategy will be released Q1 of 2020 and can be viewed [here
   - To enable rapid feedback
   - Create automated processes to realize efficiencies
   - Enable streamlined responsible distributed decision making
-
-### Approach
-
-The IT Strategy team will not create a 5 or 10 year plan to transform the organization.
-For details on the objectives, see [Medium Term](it-picture-medium-term.html) and [Long Term](it-picture-long-term.html) IT Pictures.
-Based on [DevOps Research and Assessment (DORA)](https://cloud.google.com/devops/) and the latest State of DevOps report, we want to focus on capabilities that enable high performing IT organizations.
-This also aligns with GC IT Policy and Direction around [Digital government](https://www.canada.ca/en/government/system/digital-government.html).
-
-Quarterly strategies and actions will be shared with all teams in IITB.
-Following these actions will be mandatory as part of Management and team leads performance agreements.
-Strategies will be reviewed and updated quarterly based on progress and effectiveness.
-Below is a list of strategies and actions that could be used as quarterly strategies.
-
-The first quarterly strategy for Q1 (2020-04 to 2020-06) will be (Draft) [20% of time to learn, automate and improve](https://sara-sabr.github.io/ITStrategy/strategy-learning-automating-improving.html).
 
 ### IITB Teams Must
 
