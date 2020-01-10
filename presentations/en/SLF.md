@@ -9,7 +9,7 @@ ESDC IT Strategy (30 min presentation)
 
 ## Agenda
 
-1. Approach to IT Strategy
+1. Nonconventional approach to IT Strategy
 2. Focus Areas
 3. Strategies and Actions
 
@@ -17,21 +17,24 @@ ESDC IT Strategy (30 min presentation)
 
 ## 1. Approach to IT Strategy
 
-### Purpose
+### Context
 
-Dec. 2018 - The need for an IT Strategy identified with goal of producing an integrated Business-IT Strategy
+- Identification of need for an IT Strategy team: Dec. 2018 (inception of IITB Way Forward)
+- Expectation of an _single integrated business and IT strategy, founded on a common and clear enterprise architecture, in alignment with GC priorities_
 
-> But, we are not doing conventional IT strategy
+> IT Strategy team at 2019 CIOC: we are **not** doing this
 
 Note:
 
-Conventional IT = predicting what business will want and planning ahead of time
+- Dec 2018: Senior Leaders of IM/IT To discuss the evolution and maturation of ESDC’s IM/IT service delivery supporting programs, departmental systems, and employees
+- Problem Statement: changes will have a fundamental impact on how IM/IT services are delivered in support of ESDC programs
+- Conventional IT = predicting what business will want and planning ahead of time
 
 --
 
-#### How we are **NOT** doing this
+#### What we are doing instead
 
-We instead focus on IT's ability to quickly respond to business changes
+Focus on IT's ability to quickly respond to business changes
 
 > To work effectively in the digital world, you must first accept complexity and uncertainty, for they demand very different approach to carrying out initiatives. A predictable world rewards advanced planning and rigid plan execution. But a complex and uncertain world rewards an empirical cycle of trying, observing, and correcting.
 
@@ -39,9 +42,12 @@ We instead focus on IT's ability to quickly respond to business changes
 
 Note:
 
-- Premise: The future is too unpredictable and complex. It warrants an empirical cycle of trying, observing, and correcting over advanced planning and rigid plan execution
-- the relationship between business and IT _must_ change to a shared accountability model
-- conventional contracting model (requirements based, a company within a company) to a partnership one (outcomes based, one team solving problems)
+- Premise: The future is too unpredictable and complex. New style of managing initiatives
+- Digital: IT is not longer a back-office function
+- The relationship between business and IT _must_ change to a shared accountability model
+- Conventional contracting model (requirements based, a company within a company) to a partnership one (outcomes based, one team solving problems)
+- This means Business MUST share the costs and risks of using technology
+- This means IT MUST be able to change as fast as business
 
 --
 
