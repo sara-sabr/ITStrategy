@@ -1,13 +1,15 @@
 ---
 layout: post
-title:  "We are inadvertently promoting risks in IT"
+title: "We are inadvertently promoting risks in IT"
 ref: why-we-are-promoting-risks
 lang: en
 author: "Rémy Bernard, in collaboration with the IT Strategy team"
 date: "2019-12-20"
 excerpt_separator: <!--more-->
 ---
+
 In this blog, I am claiming that our IT initiatives are currently governed in a way that ends up promoting risks instead of reducing them, leading to incorrect investment decisions, diluting our empathy towards end users, and ultimately reducing our ability to meet our fiduciary responsibility towards public funds as required in the [Financial Administration Act](https://laws.justice.gc.ca/eng/acts/F-11/index.html).
+
 <!--more-->
 
 _Note: This blog will link to internal ESDC documents, which are unfortunately only accessible within ESDC corporate network._
@@ -24,7 +26,7 @@ This ESDC Policy acts as the authoritative means under which all projects and pr
 The [Project Lifecycle framework (PMLC)](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/02-05G-271E-ProjectLifeCycle-v4.0.pdf) is used to guide the management of projects, according to their classification in size (which is based on cost, risk, capability, and complexity though it is fair to say the cost variable carries more weight than the others).
 
 In the PMLC, a **small** IT project (one that is between $500k and $2.5M in cost) is expected to produce between 21 and 34 project management artefacts, requires between 48 and 54 project management activities, and involves 16 stakeholders.
-For **major** IT projects (greater than $5M in cost) we are looking at 24 to 39 artefacts, 52 to 60 activities, and the same 16 stakeholders, though will involve more rigour and details for activities and artifact content.
+For **major** IT projects (greater than \$5M in cost) we are looking at 24 to 39 artefacts, 52 to 60 activities, and the same 16 stakeholders, though will involve more rigour and details for activities and artifact content.
 Note that in the 16 stakeholders only 5 of them are from the IT Branch (though in reality it's much more than this as I'll explain later).
 
 I argue that this method of managing funds for IT initiatives does the following:
@@ -49,7 +51,7 @@ But in the software world, where technology changes so rapidly, systems get more
 This means you can expect your original estimates to change once project executes.
 
 Project governance includes a [change control process](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/ChangeControl-Guide-PMIS-E.pdf) that requires you to provide information on the scope of change and, depending on that scope, seek different kinds of governance approvals before you are permitted to change.
-Getting information on the scope of change *is* also work.
+Getting information on the scope of change _is_ also work.
 It requires re-engaging the different IT teams, stopping them from doing what they are currently doing, and re-evaluating the same type of information as the original project estimates (scope, costs, and schedule).
 As per above, the effort of going through the change control process must be proportional to the actual change effort, otherwise it gets piled up.
 This effort also includes going through governance bodies and having to explain why we could not have predicted such a change in the first place; why our original estimates were not accurate.
@@ -103,13 +105,13 @@ The [Financial Administration Act](https://laws.justice.gc.ca/eng/acts/F-11/inde
 
 section **7 (1) (c)**
 
-> 7 (1) The Treasury Board may act for the Queen’s Privy Council for Canada on all matters relating to
+> 7 (1) The Treasury Board may act for the Queen's Privy Council for Canada on all matters relating to
 >
 > (c) financial management, including estimates, expenditures, financial commitments, accounts, fees or charges for the provision of services or the use of facilities, rentals, licences, leases, revenues from the disposition of property, and procedures by which departments manage, record and account for revenues received or receivable from any source whatever;
 
 section **16.4 (1)**
 
-> 16.4 (1) Within the framework of the appropriate minister’s responsibilities and his or her accountability to Parliament, and subject to the appropriate minister’s management and direction of his or her department, the accounting officer of a department named in Part I of Schedule VI is accountable before the appropriate committees of the Senate and the House of Commons for
+> 16.4 (1) Within the framework of the appropriate minister's responsibilities and his or her accountability to Parliament, and subject to the appropriate minister's management and direction of his or her department, the accounting officer of a department named in Part I of Schedule VI is accountable before the appropriate committees of the Senate and the House of Commons for
 >
 > (a) the measures taken to organize the resources of the department to deliver departmental programs in compliance with government policies and procedures;
 >
@@ -128,10 +130,10 @@ To remediate the above problems, I propose the following:
 1. Promote smaller IT investments over large ones as a means to reduce risk impact to the organization;
 2. Treat every project as a hypothesis, one that must be validated by end users as fast as possible, which will invariably require course corrections;
 3. Put much more emphasis on outcome measurements than on project deliverables.
-This promotes investment in [Business Architecture and Departmental Value Stream](http://dialogue/grp/EA-AE/SitePages/dvsmodel.aspx) using strong, reliable metrics from lines of businesses;
+   This promotes investment in [Business Architecture and Departmental Value Stream](http://dialogue/grp/EA-AE/SitePages/dvsmodel.aspx) using strong, reliable metrics from lines of businesses;
 4. Treat software like products, not physical assets.
-They need a steady source of funding and dedicated teams to allow timely technical debt remediation and evolution.
-Teams should be comprised not only of developers but also security, operations, testing, and policy experts, that works with *actual* users;
+   They need a steady source of funding and dedicated teams to allow timely technical debt remediation and evolution.
+   Teams should be comprised not only of developers but also security, operations, testing, and policy experts, that works with _actual_ users;
 5. Use architectural guardrails instead of gates, where Enterprise Architecture acts as a monitoring discipline making recommendations for course correction to align individual products towards the target enterprise architecture state; and
 6. Embrace open source's philosophy to [work](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html) in the [open]({{site.baseurl}}/2019/11/19/working-in-the-open-part-1.html) and share your work as a means to get economies of scale, avoid lengthy procurement battles, support vendor lock-in strategies, and increase the opportunity to have your work reused.
 
