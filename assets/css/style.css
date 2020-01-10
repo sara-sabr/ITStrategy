@@ -5,6 +5,12 @@
   margin-bottom: 1rem;
 }
 
+.blockquote {
+  background-color: #e9ecef;
+  padding: .75rem 1.25rem;
+  border-radius: .25rem;
+}
+
 /*============= RESETS =============*/
 
 /*-- iPhone X Remove Gutters --*/
@@ -101,6 +107,10 @@ p a {
 .navbar.solid-toggle {
   background: rgba(0, 0, 0, .7) !important;
   transition: background-color 1s ease;
+}
+
+.svg-inline--fa {
+  color: #505962;
 }
 
 /*-- Remove Button Outline --*/
