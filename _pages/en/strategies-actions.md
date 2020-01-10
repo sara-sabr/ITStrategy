@@ -10,9 +10,17 @@ permalink: /strategies-actions.html
 
 ## IT Strategies and Actions
 
-### Goals for all of IITB
+- Goals
+- Approach
+- IITB Teams Must
+- Appendix A - Details of GC Information Technology Direction
+
+### Goals
 
 - Continuous learning, automation and improvements
+- Reduce lead time for changes and delivery of services/devices
+- Recover faster incidents and errors
+- Reduce frequency of incidents and errors
 - Agile (break down work, sprints, retrospectives)
 - Work in the open (data, information and code)
 - Expose internal and external (all) services as APIs
@@ -28,9 +36,25 @@ permalink: /strategies-actions.html
 
 - Self service
 
-### IITB Must (Starting now! For all projects and teams!)
+### Approach
 
-#### Align with GC IT Direction
+The IT Strategy team will not create a 5 or 10 year plan to transform the organization.
+For details on the objectives, see [Medium Term](it-picture-medium-term.html) and [Long Term](it-picture-long-term.html) IT Pictures.
+Based on [DevOps Research and Assessment (DORA)](https://cloud.google.com/devops/) and the latest State of DevOps report, we want to focus on capabilities that enable high performing IT organizations.
+This also aligns with GC IT Policy and Direction around [Digital government](https://www.canada.ca/en/government/system/digital-government.html).
+
+Quarterly strategies and actions will be shared with all teams in IITB.
+Following these actions will be mandatory as part of Management and team leads performance agreements.
+Strategies will be reviewed and updated quarterly based on progress and effectiveness.
+Below is a list of strategies and actions that could be used as quarterly strategies.
+
+The first quarterly strategy for Q1 (2020-04 to 2020-06) will be [20% of time to learn, automate and improve](strategy-learning-automating-improving.html) (Draft).
+
+### IITB Teams Must
+
+**Starting now! For all projects and teams!**
+
+#### Align with GC IT Policy and Directions
 
 - [Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html)
 - [Digital Operations Strategic Plan: 2018-2022](https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html)
@@ -39,11 +63,11 @@ permalink: /strategies-actions.html
 - [Mandatory Procedures on APIs](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604)
 - [Acceptable Network and Device Use](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32605)
 
-*Consult [Annex A](#Annex-A---Details-of-GC-Information-Technology-Direction) for details.*
+*Consult [Appendix A](#appendix-A---Details-of-GC-Information-Technology-Direction) for details.*
 
 #### Cultural
 
-- **IT teams must use at least 10% of their time to learn/try new technologies, attend events/conferences, and stay up to date on trends and technologies related to their work**
+- **IT teams must use about 10% of their time to learn/try new technologies, attend events/conferences, and stay up to date on trends and technologies related to their work**
   - *Make it a requirement in performance agreements of directors, managers and team leads*
   - *Track using existing CATS code for learning (300)*
   - *Communications about the updated direction around learning and regular updates on upcoming learning opportunities*
@@ -80,7 +104,7 @@ Notes:
 
 #### Process
 
-- **IT teams must use 10% of their time for improving existing processes and automation of testing, deployments and other manual processes**
+- **IT teams must use about 10% of their time for improving existing processes and automation of testing, deployments and other manual processes**
   - *Make it a requirement in performance agreements of managers and team leads*
   - *Directors, management and teams must show quarterly progress related to automation and continuous improvements*
   - *Track using CATS code (need code)*
@@ -144,7 +168,7 @@ Notes:
 - IT teams must establish Work In Progress (WIP) limits based on team capacity and cognitive load
 - IT teams must make collected data and project status visible to the business
 
-### Annex A - Details of GC Information Technology Direction
+### Appendix A - Details of GC Information Technology Direction
 
 - [Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html)
   - Design with users
