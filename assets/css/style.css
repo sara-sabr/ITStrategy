@@ -75,8 +75,12 @@ body {
   color: #545454 !important;
 }
 
-.dropdown-menu {
-  min-width: 280px;
+li:first-child .dropdown-menu {
+  min-width: 230px;
+}
+
+li:nth-child(2) .dropdown-menu {
+  min-width: 320px;
 }
 
 .dropdown-menu a.dropdown-item {
