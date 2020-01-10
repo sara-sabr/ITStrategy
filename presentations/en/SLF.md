@@ -51,19 +51,22 @@ Note:
 
 --
 
-#### How we are **doing** this
+#### Mandate
+
+Enable the strategic value of IT within ESDC by reducing its risks and increasing business agility
+
+Note:
+
+- Speed is how we can reduce risks
+- But we are not setup for speed
+
+--
+
+#### How we are **doing** strategy making
 
 In the Open. All are welcome and invited to comment and contribute to the strategies at all times
 
 Customers, private sector partners, other levels of government, or other departments...
-
----
-
-### Approach
-
-#### Mandate
-
-Enable the strategic value of IT within ESDC by reducing its risks and increasing business agility
 
 --
 
