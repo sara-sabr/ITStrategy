@@ -29,10 +29,11 @@ Note:
 - Dec 2018: Senior Leaders of IM/IT To discuss the evolution and maturation of ESDC’s IM/IT service delivery supporting programs, departmental systems, and employees
 - Problem Statement: changes will have a fundamental impact on how IM/IT services are delivered in support of ESDC programs
 - Conventional IT = predicting what business will want and planning ahead of time
+- JOKE: we know it sounds presumptious
 
 --
 
-#### What we are doing instead
+### What we are doing instead
 
 Focus on IT's ability to quickly respond to business changes
 
@@ -51,7 +52,7 @@ Note:
 
 --
 
-#### Mandate
+### Mandate
 
 Enable the strategic value of IT within ESDC by reducing its risks and increasing business agility
 
@@ -62,15 +63,19 @@ Note:
 
 --
 
-#### How we are **doing** strategy making
+### How we are **doing** strategy making
 
 In the Open. All are welcome and invited to comment and contribute to the strategies at all times
 
 Customers, private sector partners, other levels of government, or other departments...
 
+Note:
+
+- We purposefully put our content on the internet so that it is discoverable and shareable outside ESDC
+
 --
 
-#### Diagnose and recommend changes
+### Diagnose and recommend changes
 
 > Problems that inhibit the desired changes in behaviours
 
@@ -88,7 +93,7 @@ Note:
 
 --
 
-#### Measuring progress
+### Measuring progress
 
 > Making course correction from emperical evidence
 
@@ -99,7 +104,7 @@ Note:
 
 --
 
-#### Challenge current thinking and approaches
+### Challenge current thinking and approaches
 
 To reduce organizational debt
 
@@ -112,6 +117,7 @@ E.g.
 
 Note:
 
+- JOKE: we know it sounds even MORE presumptious
 - Organizational debt = expecting new methods of doing things by modern tool adoption but not retiring the old ways of doing things
 - Modern clients: this Web-based presentation doesn't work in IE. We could make it work because OSS. But that defeats the purpose
 - Default: If an expert in their respective area proposes a different approach than the departmental 'default' they are free to do so -- perhaps that will become the next default.
