@@ -93,12 +93,8 @@ Consult [Appendix A](#appendix-A---Details-of-GC-Information-Technology-Directio
   - *Add all approved software to Application Catalogue (e.g. paying ones)*
   - *Automate parts of the software assessment and approval process*
   - *Share software certifications with other departments*
-
 - **[Hiring favours candidates who demonstrate adaptability, curiosity, and strong ethics](enable-learning.html)**
   - *Work with HR to adapt hiring processes (e.g. interview questions)*
-
-Notes:
-
 - Build multidisciplinary teams capable of delivering services from start to end of life
 - Encourages collaboration and fosters a culture of flexibility, mobility and well-being
 
@@ -125,9 +121,6 @@ Notes:
 - **Make ongoing work and backlog visible**
   - *Make Sharepoint site open by default*
   - *Promote the use of GitHub, Gitlab or GCcode as working environments (Projects, tasks, documents, code, continuous integration, ..)*
-
-Notes:
-
 - Promote smaller investments over large ones, and monitor them based on business outcomes, not project plans
 - Move and support product management
 - Where possible, remove the need for manual/committee approval
@@ -153,9 +146,6 @@ Notes:
   - *Train Champions of automation testing*
 - **IT teams must automate builds and deployments for all environments (Dev, QA and Production)**
   - *Offer cloud sandboxes to experiment with automation of builds and deployments*
-
-Notes:
-
 - IT teams must have access to realistic test data
 - EA must be loosely coupled and enable IT teams to autonomously, experiment with ideas, and choose their own tools
 - EA and Security must provide developers with preapproved libraries
