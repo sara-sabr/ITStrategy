@@ -75,6 +75,7 @@ Note:
 - 2 examples
 - PMLC from CFOB: small IT Project requires 21 and 34 PM artefacts, 48 and 54 PM activities, and involving min 16 stakeholders.
 - SA's Release Process: 13 separate teams and up to 45 interactions. Sources of waste, error, dilutes empathy towards end user, affects employee moral (DORA research)
+- Work already happening within IITB PMO, SAs, and other product teams to reduce time to production (DTS, Interop)
 
 --
 
@@ -82,13 +83,16 @@ Note:
 
 > Making course correction from emperical evidence
 
+Note:
+
+- Using non-invasing data collection methods
+- Humility: treat strategy as a hypothesis that needs validation
+
 --
 
 #### Challenge current thinking and approaches
 
-<section style="text-align: left;">
-Examples
-</section>
+E.g.
 
 - No more status update meetings, transition to modern tools (e.g. Kanban boards in the open)
 - This Web-based presentation doesn't work in IE - because of use of modern tech
