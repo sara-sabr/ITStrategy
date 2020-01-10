@@ -10,7 +10,7 @@ ESDC IT Strategy (30 min presentation)
 
 1. Approach to IT Strategy
 2. Focus Areas
-3. Recommended immediate actions
+3. Strategies and Actions
 
 ---
 
@@ -79,7 +79,11 @@ Enable the strategic value of IT within ESDC by reducing its risks and increasin
   - No more status update meetings, transition to modern tools (e.g. Kanban boards in the open)
   - This Web-based presentation doesn't work in IE - because of use of modern tech
   - Technical work needing to be reviewed by non technical staff for approval
-  - Defaults over standards (if an expert in their respective area proposes a different approach than the departmental 'default' they are free to do so -- perhaps that will become the next default)
+  - Defaults over standards
+
+Note:
+
+If an expert in their respective area proposes a different approach than the departmental 'default' they are free to do so -- perhaps that will become the next default.
 
 ---
 
@@ -99,21 +103,10 @@ Link to [Strategy Map](https://sara-sabr.github.io/ITStrategy/strategy-summary.h
 
 ---
 
-### 3. Recommended immediate actions
+### 3. Strategies and actions
 
 - Starting in the new fiscal year, IT Strategy will be proposing quarterly actions to be integrated into daily work
 - During each quarter, IT Strategy will list their actions for the quarter, and advise actions the Branch should take
-
---
-
-#### Q1 (2020-04) strategies and actions
-
-> **Use 20% of time to learn, automate and improve**
-
-- Use CATS codes for continuous improvement
-- Gather metrics for things your teams work on - show progress
-
-[Q1 Strategies and Actions](https://sara-sabr.github.io/ITStrategy/strategy-learning-automating-improving.html)
 
 --
 
@@ -127,6 +120,17 @@ Link to [Strategy Map](https://sara-sabr.github.io/ITStrategy/strategy-summary.h
 
 ---
 
+### Q1 (2020-04) strategies and actions
+
+> **Use 20% of time to learn, automate and improve**
+
+- Use CATS codes for continuous improvement
+- Gather metrics for things your teams work on - show progress
+
+[Q1 Strategies and Actions](https://sara-sabr.github.io/ITStrategy/strategy-learning-automating-improving.html)
+
+---
+
 ### Supporting materials and information
 
 - [IT Strategy team's public workspace](https://github.com/sara-sabr/ITStrategy)
@@ -135,6 +139,12 @@ Link to [Strategy Map](https://sara-sabr.github.io/ITStrategy/strategy-summary.h
 - [Strategy Map](https://sara-sabr.github.io/ITStrategy/strategy-summary.html)
 - [Medium Term IT Picture - 2025](https://sara-sabr.github.io/ITStrategy/it-picture-medium-term.html)
 - [DevOps Research and Assessment](https://cloud.google.com/devops/)
+
+--
+
+#### Image
+
+![Table: Current challenges and priorities](/ITStrategy/assets/images/imit-moving-fwd-strategy.png)
 
 ---
 
