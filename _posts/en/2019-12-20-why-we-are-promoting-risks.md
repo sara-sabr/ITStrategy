@@ -23,8 +23,7 @@ At ESDC, we have a [Policy on Project and Program Management (PPPM)](https://gpp
 This ESDC Policy acts as the authoritative means under which all projects and programmes within ESDC are managed.
 The [Project Lifecycle framework (PMLC)](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/02-05G-271E-ProjectLifeCycle-v4.0.pdf) is used to guide the management of projects, according to their classification in size (which is based on cost, risk, capability, and complexity though it is fair to say the cost variable carries more weight than the others).
 
-In the PMLC, a **small** IT project (one that is between $500k and $2.5M in cost) is expected to produce between 21 and 34 project management artefacts, requires between 48 and 54 project management activities, and involves 16 stakeholders.
-For **major** IT projects (greater than $5M in cost) we are looking at 24 to 39 artefacts, 52 to 60 activities, and the same 16 stakeholders, though will involve more rigour and details for activities and artifact content.
+In the PMLC, an IT project is typically expected to produce between 21 and 39 project management artefacts, would require between 48 and 60 project management activities, and would involve 16 stakeholders.
 Note that in the 16 stakeholders only 5 of them are from the IT Branch (though in reality it's much more than this as I'll explain later).
 
 I argue that this method of managing funds for IT initiatives does the following:
@@ -84,8 +83,8 @@ This precisely goes against the spirit of Digital Government in [being more agil
 
 ### Diluting empathy towards the end user
 
-In the PMLC mentioned above, changes to the systems start with an investment proposals from a business owner that is given to the Director General Project Oversight Committee (DG POC).
-From there, it will go through 5 stages involving more than 16 stakeholders, and go through [about 9 committees](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/SitePages/Governance.aspx) (depending on the scale of the request).
+In the PMLC mentioned above, changes to the systems start with an investment proposals from a business owner that is given to an Executive approval body.
+From there, it will go through 5 stages involving more than 16 stakeholders, and go through [multiple committees](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/SitePages/Governance.aspx) (depending on the scale of the request).
 The IT product team(s) working on the project gets involved at Stage 4, after 14 stakeholders went through the end-user's request, where they will need to interact with a [dozen other separate IT teams](onenote:http://dialogue/grp/PR6893344/OneNote/AppDevSA/02-Development%20%28In%20Progress%29/Outcomes%20Map.one#Feature%20to%20Release%20BPM&section-id=%7B5E16E60C-310B-49EF-8451-88E0CE4DA968%7D&page-id=%7B8208D63D-CE7D-49EB-BF48-033A38FA5825%7D&end) for each features requested.
 Throughout this process, the IT product team(s) will also need to give periodic status updates on progress towards the pre-committed scope, schedule, and cost.
 
