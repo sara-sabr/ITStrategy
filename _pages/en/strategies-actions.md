@@ -10,10 +10,10 @@ permalink: /strategies-actions.html
 
 ## IT Strategies and Actions
 
-- Goals
-- Approach
-- IITB Teams Must
-- Appendix A - Details of GC Information Technology Direction
+- [Goals](#goals)
+- [Approach](#approach)
+- [IITB Teams Must](#iitb-teams-must)
+- [Appendix A - Details of GC Information Technology Direction](#appendix-A---Details-of-GC-Information-Technology-Direction)
 
 ### Goals
 
@@ -63,7 +63,7 @@ The first quarterly strategy for Q1 (2020-04 to 2020-06) will be [20% of time to
 - [Mandatory Procedures on APIs](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604)
 - [Acceptable Network and Device Use](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32605)
 
-*Consult [Appendix A](#appendix-A---Details-of-GC-Information-Technology-Direction) for details.*
+Consult [Appendix A](#appendix-A---Details-of-GC-Information-Technology-Direction) for details.
 
 #### Cultural
 
