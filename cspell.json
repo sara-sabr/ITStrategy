@@ -233,6 +233,7 @@
     "anyways",
     "apps",
     "artifacts",
+    "artifact",
     "aujourd'hui",
     "centered",
     "clientele",
@@ -291,12 +292,12 @@
   "flagWords": [],
   "import": ["./node_modules/cspell-dict-fr-fr/cspell-ext.json"],
   "dictionaries": [
-      "fr-fr",
-      "en-gb",
-      "en_US",
-      "typescript",
-      "softwareterms",
-      "html",
-      "css"
+    "fr-fr",
+    "en-gb",
+    "en_US",
+    "typescript",
+    "softwareterms",
+    "html",
+    "css"
   ]
 }
