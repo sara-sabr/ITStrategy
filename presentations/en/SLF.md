@@ -42,9 +42,6 @@ Note:
 - Premise: The future is too unpredictable and complex. It warrants an empirical cycle of trying, observing, and correcting over advanced planning and rigid plan execution
 - the relationship between business and IT _must_ change to a shared accountability model
 - conventional contracting model (requirements based, a company within a company) to a partnership one (outcomes based, one team solving problems)
-- 2 examples
-- PMLC from CFOB: small IT Project requires 21 and 34 PM artefacts, 48 and 54 PM activities, and involving min 16 stakeholders.
-- SA's Release Process: 13 separate teams and up to 45 interactions. Sources of waste, error, dilutes empathy towards end user, affects employee moral (DORA research)
 
 --
 
@@ -68,14 +65,16 @@ Enable the strategic value of IT within ESDC by reducing its risks and increasin
 
 > Problems that inhibit the desired changes in behaviours
 
-<section style="text-align: left;">
-Examples
-</section>
+E.g.
 
-- Heavy Governance promotes risks
-  - Need to reduce burden of giving permission to work
-- Software Release Process mapping involves 13 different teams and up to 49 email exchanges
-  - Need for embedded teams
+1. CFOB's Policy on Project and Program  Management (PPPM)
+2. AppDev Senior Advisors Release Process
+
+Note:
+
+- 2 examples
+- PMLC from CFOB: small IT Project requires 21 and 34 PM artefacts, 48 and 54 PM activities, and involving min 16 stakeholders.
+- SA's Release Process: 13 separate teams and up to 45 interactions. Sources of waste, error, dilutes empathy towards end user, affects employee moral (DORA research)
 
 --
 
