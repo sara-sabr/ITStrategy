@@ -397,13 +397,6 @@ a.top-scroll:hover {
 }
 
 /*============= MEDIA QUERIES =============*/
-.content {
-  position: absolute;
-  top: 55px;
-  bottom: 0;
-  overflow-y: scroll;
-  width: 100%;
-}
 /* Devices under 992px (lg) */
 @media (max-width: 991.98px) {
   .caption h1 {
