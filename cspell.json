@@ -286,8 +286,7 @@
     "minusxl",
     "comparecurves",
     "areaundercurve",
-    "integralareaundercurve",
-    "lamélioration"
+    "integralareaundercurve"
   ],
   "flagWords": [],
   "import": ["./node_modules/cspell-dict-fr-fr/cspell-ext.json"],
@@ -299,5 +298,8 @@
     "softwareterms",
     "html",
     "css"
+  ],
+  "ignoreRegExpList": [
+    "]\\(([^\\)]+)\\)"
   ]
 }
