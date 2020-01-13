@@ -13,9 +13,19 @@ permalink: /strategy-learning-automating-improving.html
 The following strategies and actions apply for the 1st quarter of the 2020-2021 fiscal year.
 Strategies will be reviewed and updated quarterly based on current progress and following the Strategy Map (layering on the strategies).
 
-- [Goals](#goals)
 - [Actions](#actions)
+- [Goals](#goals)
 - [Guidance](#guidance)
+
+### Actions
+
+All IITB teams must:
+
+#### Use 20% of time to learn, automate and improve
+
+- **Use CATS codes for continuous improvement**
+- **Gather metrics for things your teams work on**
+- **Show progress**
 
 ### Goals
 
@@ -32,16 +42,6 @@ Strategies will be reviewed and updated quarterly based on current progress and 
   - [Mandatory Procedures for EA Assessment](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602)
   - [Mandatory Procedures on APIs](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604)
   - [Acceptable Network and Device Use](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32605)
-
-### Actions
-
-All IITB teams must:
-
-#### Use 20% of time to learn, automate and improve
-
-- **Use CATS codes for continuous improvement**
-- **Gather metrics for things your teams work on**
-- **Show progress**
 
 ### Guidance
 
