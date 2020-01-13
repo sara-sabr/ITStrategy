@@ -14,9 +14,8 @@ The following strategies and actions apply for the 1st quarter of the 2020-2021 
 Strategies will be reviewed and updated quarterly based on current progress and following the Strategy Map (layering on the strategies).
 
 - [Goals](#goals)
-- [IITB teams must](#iitb-teams-must)
-- [IITB must](#iitb-must)
-- [IT Strategy Will](#it-strategy-will)
+- [Actions](#actions)
+- [Guidance](#guidance)
 
 ### Goals
 
@@ -34,7 +33,9 @@ Strategies will be reviewed and updated quarterly based on current progress and 
 - [Mandatory Procedures on APIs](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604)
 - [Acceptable Network and Device Use](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32605)
 
-### IITB teams must
+### Actions
+
+All IITB teams must:
 
 #### Use 20% of time to learn, automate and improve
 
@@ -44,7 +45,7 @@ Strategies will be reviewed and updated quarterly based on current progress and 
   - **Time to restore following incidents and errors**
   - **Change fail rate**
 
-##### Guidance
+### Guidance
 
 - Read, take courses, attend events and conferences
 - Stay up to date on trends and technologies
@@ -57,42 +58,3 @@ Strategies will be reviewed and updated quarterly based on current progress and 
 - Employee to employee education (Getting on "teaching mode" and educating your team on specific question).
 - Show and tell across the teams (Getting to know which team is working on what, getting feedback).
 - Organizing IITB tech talks
-
-### IITB must
-
-#### Before Q1
-
-- Make quarterly strategies a requirement in performance agreements of directors, managers and team leads
-- Create cloud and desktop sandboxes (labs) for experimentation
-- [Grant access to more Web tools for IITB employees](web-services-access.html)
-- Add all approved desktop software, including commercial and OSS, to Application Catalogue
-
-### IT Strategy Will
-
-#### Before Q1
-
-- Draft requirements for 2020-04 updates to PMAs (must follow quarterly strategies)
-- Create CATS code for continuous improvement
-- [Grant access to more Web tools for IITB employees](web-services-access.html)
-
-#### During Q1
-
-- [Coordinate communications of strategies](#coordinate-communications-of-strategies)
-- [Organize a Hackathon for IITB and ESDC](#organize-a-hackathon-for-iitb-and-esdc)
-- Survey about Q1 strategies
-- Prepare Q2 strategies
-
-#### Coordinate communications of strategies
-
-- IT Strategy blogs, newsletters, tweets, ..
-- Regular communications about:
-  - Updated direction around learning and upcoming learning opportunities
-  - Failures and lessons learned - link back to learning opportunities
-  - Use of SaaS on ESDC network for unclassified information
-  - Progress reports around continuous improvements and automation
-
-#### Organize a Hackathon for IITB and ESDC
-
-- Host first hackathon (2020-04)
-  - Promote learning, automation and improvement
-  - Digital, agile and cloud
