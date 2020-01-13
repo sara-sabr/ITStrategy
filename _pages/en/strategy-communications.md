@@ -149,7 +149,7 @@ Use for information or to avoid going up through committees for Endorsement.
 ### Public Sector Communities
 
 1. GCDevopsLeague
-2. Agora OSS
+2. [Agora Open Source Software Focus Group](https://gcconnex.gc.ca/groups/profile/23631661/agora-open-source-software-focus-group-groupe-discussion-logiciels-libres-agora)
 
 ### Emails
 
@@ -163,17 +163,17 @@ Use for information or to avoid going up through committees for Endorsement.
 
 ### Blogs
 
-- IT Strategy Website
+- [IT Strategy](https://sara-sabr.github.io/ITStrategy/) Website
 - IITB Blog
 - iService
 
 ### Social Media
 
 - Linkedin
-- GCDevopsLeague Twitter
-- ESDC CIO Twitter
-- SABR DGO Twitter
-- ESDC Innovation Lab Twitter
+- [GCDevopsLeague](https://twitter.com/GCDevOpsLeague1) Twitter
+- [ESDC CIO](https://twitter.com/PWLittlefield) Twitter
+- [SABR DGO](https://twitter.com/SkinnerDenis) Twitter
+- [ESDC Innovation Lab](https://twitter.com/ESDCInnoLab_ENG) Twitter
 
 ### Custom Metrics
 
