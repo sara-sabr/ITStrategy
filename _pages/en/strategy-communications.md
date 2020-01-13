@@ -59,12 +59,14 @@ The type of stakeholder to target will depend on the type of strategy to endorse
 The above communication work will require to keep a consistent message to stakeholders in order to avoid confusion and maintain credibility of the team's approach.
 
 <!-- markdownlint-disable MD033 -->
+
 | **Activity**  | **Communication methods available** |
 | ------------- | -------------------------------------------- |
 | Approval      | - CIO Executive Committee<br> - SABR DGO<br> - MM Director |
 | Endorsement   | - SABR DGO<br> - MM Director<br> - IITB Governance Committees<br> - IITB Forums<br> - Briefing Notes |
 | Outreach      | - IITB Governance Committees<br> - IITB Forums<br> - Public Sector Communities<br> - Blogs<br> - Social Media<br> - IITB IITB Newsletter<br> - Email |
 | Feedback      | - Social Media<br> - Blogs<br> - Peer reviews<br> - IITB Governance Committees<br> - IITB Forums<br> - Custom Metrics |
+
 <!-- markdownlint-enable MD033-->
 
 ## Communications Methods
