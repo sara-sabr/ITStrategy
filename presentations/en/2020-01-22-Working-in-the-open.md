@@ -24,7 +24,7 @@ People can find your workspace and read its content
 
 Note:
 
-- Drafts and documents
+- Documents, including drafts
 - Planning
 - Tasks
 - Notes
@@ -34,26 +34,16 @@ Note:
 
 It's not just "working out loud"
 
+You also need to enable and encourage contributions!
+
 Note:
 
 - Not just sharing one way
-  - Meeting every week to showcase your progress
-- That's part of it
-- Promoting, Sharing, Communicating what you are working on
-- Helps people discover your open workspace and projects
-
---
-
-You also need to enable and encourage contributions
-
-Note:
-
+  - Promoting, Sharing, Communicating what you are working on
+- With entire department (and GC!), not just your branch or your team
 - Open Source
   - Thousands of people working together
   - Various levels of contributions
-- Inner Source - Entire organization (even whole GC!), not just your branch or your team
-  - Lots of redundancies across teams, branches and departments
-  - Opportunities to find and reuse solutions
 - Do not force collaboration (see [HBR Collaborative Overload](https://hbr.org/2016/01/collaborative-overload))
   - It has to come organically (people interested, similar issues, etc.)
   - Can be sporadic or more involved (simple fixes, no commitments)
@@ -62,10 +52,15 @@ Note:
 
 It's also a cultural thing
 
+- Humility
+  - Willingness to learn and improve
+- Inclusiveness
+- Trust
+
 Note:
 
 - Humility, being humble
-  - "I don't know everything. And it's okay because I want to learn."
+  - "I don't know everything. And it's okay because I want to learn and improve."
   - "You may have a better answer than me even though I don't know you."
 - Inclusiveness and accessibility
   - No discrimination
@@ -75,17 +70,6 @@ Note:
   - You trust this is good for the public
   - The public should be able to trust the government
     - [Accountability](https://product-guide.18f.gov/working-in-a-way-that-reflects-our-values/working-in-the-open/)
-- Willingness to learn and improve
-
---
-
-From article ["Working in the Open: lessons from open source on building innovation networks in education"](https://www.emerald.com/insight/content/doi/10.1108/OTH-05-2016-0025/full/html):
-
-- Public storytelling and context setting
-- Enabling community contribution
-- Rapid prototyping “in the wild”
-- Public reflection and documentation
-- Creating remixable work products
 
 ---
 
@@ -93,70 +77,63 @@ From article ["Working in the Open: lessons from open source on building innovat
 
 --
 
-### It makes your work discoverable
+### 1. It makes your work discoverable
+
+According to [DORA DevOps Report 2019](https://cloud.google.com/devops/state-of-devops/) (page 62):
+> Internal and External search capabilities are key enablers for **productivity** AND **job satisfaction**
 
 Note:
 
 - It's hard to look for something you don't know exists
-- If it's in the open, it can at least be found
-- It creates opportunities to create a community
-  - Open First Whitepaper with private sector
-  - Open Resource Exchange with Canadian municipalities
-- According to the [DORA DevOps Report 2019](https://cloud.google.com/devops/state-of-devops/) (page 62):
-  - Internal and External search capabilities are key enablers for productivity AND job satisfaction
+  - If it's in the open, it can at least be found
+- Create opportunities for a community
+  - E.g. [Open Resource Exchange](https://canada-ca.github.io/ore-ero/en/index.html) with Canadian municipalities
 
 --
 
-### Avoid duplication of work
+### 2. Avoid duplication of work
+
+MANY problems are already solved
 
 Note:
 
-- MANY problems are already solved
+- Lots of redundancies across teams, branches and departments
 - Because it's discoverable, you may find an already existing solution
 - Adapt instead of building from scratch (or buying something!)
 
 --
 
-### Economies of scale
+### 3. Economies of scale
+
+For your organization and outside
 
 Note:
 
 - Many solutions can be useful to problems/people you haven't thought of
 - Contribute to the project so that everyone benefit from it
+- With a community, team is bigger than number of people you can hire
 
 --
 
->It's all about software engineering economics
+### 4. Early Feedback Loop
 
-Stephen Walli, Principal Program Manager at Microsoft
+To be agile in an unpredictable world
 
-Note:
-
-- Writing good code is hard
-- If you work in the open and build a community, your team is bigger than the number of people you can hire
-
---
-
-### Early Feedback Loop
-
-From [DevOps Handbook](https://itrevolution.com/book/the-devops-handbook/)
-
-Note:
-
-- Shift left, don't wait months to fix something that can be fixed now
+- Early course correction to avoid waste
 - Peer review is very valuable
 
 --
 
-### Increases Quality of Work
+### 5. Increase Quality of Work
+
+> when other people can see your work, you tend to raise your game
+United Kingdom Government Digital Service [blog post](https://gds.blog.gov.uk/2017/09/04/the-benefits-of-coding-in-the-open/)
 
 Note:
 
-From United Kingdom Government Digital Service [blog post](https://gds.blog.gov.uk/2017/09/04/the-benefits-of-coding-in-the-open/)
-
 - Encourages good practice (people will see your work!)
   - In software development, improve security, accountability and sustainability (see [Working in the Open from 18F Product Guide](https://product-guide.18f.gov/working-in-a-way-that-reflects-our-values/working-in-the-open/))
-- Makes collaboration easier (more organic, [less rigid])
+- Makes collaboration easier (more organic, less rigid)
 - Helps others learn from your own work
 
 ---
@@ -167,10 +144,11 @@ From United Kingdom Government Digital Service [blog post](https://gds.blog.gov.
 
 As soon as possible. Now.
 
+Don't wait until it's perfect, it never will be
+
 Note:
 
 - Don't wait until you had all your committee reviews done
-- Don't wait until it's perfect (it never will be)
 - Start your drafts in the open (improve the way you write)
 - It's a lot harder to open up at the end
 - [Policy on Service and Digital 4.3](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603#cla4.3)
@@ -191,19 +169,7 @@ Note:
 
 Your work is under Crown Copyright
 
-Note:
-
-- Rights and conditions to what public can do directly with it
-- If licenced, need notice of copyright
-
---
-
->Copyright (c) Her Majesty the Queen in Right of Canada, as represented by `<Department Name>`, `<Date>`
-
-Where:
-
-- `<Department Name>` is your full department name
-- `<Date>` is the date at which the work has been published
+> Copyright (c) Her Majesty the Queen in Right of Canada, as represented by `<Department Name>`, `<Date>`
 
 Source: [Crown Copyright Request](https://www.canada.ca/en/canadian-heritage/services/crown-copyright-request.html)
 
@@ -211,17 +177,17 @@ Source: [Crown Copyright Request](https://www.canada.ca/en/canadian-heritage/ser
 
 #### Licence
 
-If possible and applicable, release it under an open source licence
+If possible and applicable, release it under an open licence:
+
+- [Open source](https://opensource.org/licenses) licence for source code
+- [Open Government Licence – Canada](https://open.canada.ca/en/open-government-licence-canada) for data, information, content
 
 Note:
 
-- Not everything fits under OSS licences
 - Need approval from proper delegated authority (varies by department)
-- [Open Government Licence - Canada](https://open.canada.ca/en/open-government-licence-canada) is recommended for data, information, content
-- Traditional open source licence is preferable for source code
+- OSS licence is preferable for source code
   - Industry is more familiar to those licences
   - Easier to have people contribute back to your project
-- Creative Commons is not for code so current position is to not use it (OGL instead)
 
 --
 
@@ -231,11 +197,11 @@ In your work, you should have a notice with the mention of the licence applied t
 
 --
 
->Unless otherwise noted, the source code of this project is covered under Crown Copyright, Government of Canada, and is distributed under the MIT License.
+> Unless otherwise noted, the source code of this project is covered under Crown Copyright, Government of Canada, and is distributed under the MIT License.
 
 --
 
->The Canada wordmark and related graphics associated with this distribution are protected under trademark law and copyright law. No permission is granted to use them outside the parameters of the Government of Canada's corporate identity program. For more information, see Federal identity requirements.
+> The Canada wordmark and related graphics associated with this distribution are protected under trademark law and copyright law. No permission is granted to use them outside the parameters of the Government of Canada's corporate identity program. For more information, see Federal identity requirements.
 
 --
 
@@ -396,3 +362,15 @@ Of projects in the open
 [Linux Kernel](https://github.com/torvalds/linux)
 
 ![Linux Kernel Contributors](assets/images/oss-linux.png)
+
+---
+
+# References
+
+5 principles from article ["Working in the Open: lessons from open source on building innovation networks in education"](https://www.emerald.com/insight/content/doi/10.1108/OTH-05-2016-0025/full/html):
+
+- Public storytelling and context setting
+- Enabling community contribution
+- Rapid prototyping “in the wild”
+- Public reflection and documentation
+- Creating remixable work products
