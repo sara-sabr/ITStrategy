@@ -1,14 +1,27 @@
 <header>
-  <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
-    <a class="navbar-brand" href="{% if page.lang == 'en' %}{{ site.baseurl }}/{{ site.index.en }}{% else %}{{ site.baseurl }}/{{ site.index.fr }}{% endif %}">{{ site.title[page.lang] }}</a>
+  <nav class="navbar navbar-expand-md navbar-light fixed-top bg-light">
+    <div class="container-fluid">
+    <a class="navbar-brand" href="{% if page.lang == 'en' %}{{ site.baseurl }}/{{ site.index.en }}{% else %}{{ site.baseurl }}/{{ site.index.fr }}{% endif %}"><i class="fas fa-home"></i></a></li></a>
 
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#Menu1" aria-controls="Menu1" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
+      <span class="custom-toggler-icon"><i class="fas fa-bars"></i></span>
     </button>
 
-    <div class="collapse navbar-collapse" id="Menu1">
+      <div class="collapse navbar-collapse" id="Menu1">
       <!-- Menu -->
-      <ul class="navbar-nav mr-auto">
+      <ul class="navbar-nav ml-auto">
+        <!--About Us - A propos de nous-->
+        {%- assign dropdown_section=site.sectionsList[page.lang][0]-%}
+        {%- assign dropdown_title=dropdown_section-%}
+        {%- assign dropdown_id = "navbarDropdownAbout" -%}
+        {% include dropdown.html %}
+
+        <!--Our Strategies - Nos stratégies-->
+        {%- assign dropdown_section=site.sectionsList[page.lang][1]-%}
+        {%- assign dropdown_title=site.strategies[page.lang]-%}
+        {%- assign dropdown_id = "navbarDropdownStrategies" -%}
+        {% include dropdown.html %}
+
         {%- assign pages=site.pages | where:"ref", "documents" | sort: 'lang' -%}
         {%- for my_page in pages -%}
           {% if my_page.lang == page.lang %}
@@ -40,16 +53,7 @@
           {%- endif -%}
         {%- endfor -%}
       </ul>
-    </div>
+    </div>  <!--Menu1-->
+    </div> <!--container-->
   </nav>
 </header>
-<div class="content">
-  
-<div class="jumbotron">
-  <div class="container">
-    <h1 class="display-3">{{ site.title[page.lang] }}</h1>
-    <h2>{{ site.subtitle[page.lang] }}</h2>
-  </div>
-</div>
-
-{% include notice.html %}

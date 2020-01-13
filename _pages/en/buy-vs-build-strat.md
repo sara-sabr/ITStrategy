@@ -13,7 +13,7 @@ permalink: /buy-vs-build-start.html
 ### Order of Preference
 
 <!--markdownlint-disable MD033-->
-<a href="{{site.baseurl}}/assets/images/Buy_vs_Build_Decision_Tree.png"><img src="{{site.baseurl}}/assets/images/Buy_vs_Build_Decision_Tree.png" alt="" width="800"/></a>
+<a href="{{ site.baseurl }}/assets/images/Buy_vs_Build_Decision_Tree.png"><img src="{{ site.baseurl }}/assets/images/Buy_vs_Build_Decision_Tree.png" alt="" width="800"/></a>
 <!--markdownlint-enable MD033-->
 
 <!--markdownlint-disable MD036-->

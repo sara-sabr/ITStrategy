@@ -21,7 +21,7 @@ These profiles are to help categorize employees and determine their IT and busin
 - Client services - Work directly with the public
 - Call Center User - Similar to an activity-based worker but requires additional telephony options
 - General GC Office users - Usually at their desk
-- Special needs/Accessible - worker with disabilities in the workplace who requires a client’s need assessment and awareness services   for adaptive technology
+- Special needs/Accessible - worker with disabilities in the workplace who requires a client's need assessment and awareness services   for adaptive technology
 - Remote/Field - Primarily works out of the office, however, may work remotely
 
 #### Management - Manager and above
@@ -72,7 +72,7 @@ Problems:
 - Network Latency
 - Not mobile – no WI-FI – only on Eddy and Phase IV – Difficulty logging into Appgate
 - Combined with IRCC/Passport Canada
-- At times, ATOM skips over numbers so clients aren’t called in order and they get very angry.
+- At times, ATOM skips over numbers so clients aren't called in order and they get very angry.
 - Printer problems (Xerox)
 - IT Services can only be served virtually – takes a long time to receive a response even with a follow-up – the status of the ticket can suddenly be “resolved”  
 
@@ -134,7 +134,7 @@ Needs:
 
 Problems:
 
-- IT stakeholders don’t believe in customer focus or believe there is a limit to how far they should go to satisfy customers
+- IT stakeholders don't believe in customer focus or believe there is a limit to how far they should go to satisfy customers
 - Competing priorities: IT priorities vs. business priorities
 - Fiscal restraints: Always trying to do more with fewer resources
 - Having the IT capacity and resources to do a job/project and/or finding the right balance between capacity and resources

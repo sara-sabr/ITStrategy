@@ -55,7 +55,7 @@ Projects must adhere to the following requirements to be funded to the Umbrella 
 - Cycles available for innovative projects
 - Promote creation of Canadian businesses
 
->ESDC Mandate: delivering programs that help Canadians move through life’s transitions, from school to work, from one job to another, from unemployment to employment and from the workforce to retirement;
+>ESDC Mandate: delivering programs that help Canadians move through life's transitions, from school to work, from one job to another, from unemployment to employment and from the workforce to retirement;
 
 ### The What
 

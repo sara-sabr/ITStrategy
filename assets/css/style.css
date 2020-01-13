@@ -1,39 +1,275 @@
-/* Header */
+/*============= GENERAL =============*/
 
 .jumbotron {
   padding: .5rem;
   margin-bottom: 1rem;
+  border-radius: 0;
 }
 
-.jumbotron h2 {
-  margin-bottom: .5rem;
+.blockquote {
+  background-color: #e9ecef;
+  padding: .75rem 1.25rem;
+  border-radius: .25rem;
 }
 
-/* Title */
-
-.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
-    margin-bottom: 1rem;
+body>.container {
+  padding: 60px 10px 0;
 }
+/*============= RESETS =============*/
 
-/* Footer */
-/* Sticky footer styles - https://getbootstrap.com/docs/4.0/examples/sticky-footer-navbar/ */
-
+/*-- iPhone X Remove Gutters --*/
 html {
-  position: relative;
-  min-height: 100%;
+  padding: env(safe-area-inset);
 }
+
+/*-- Prevent Horizontal Scrolling & Font Style --*/
+html,
 body {
-  /* Margin bottom by footer height */
-  margin-bottom: 60px;
+  overflow-x: hidden;
+  font-family: 'Lato', sans-serif;
+  color: #505962;
 }
-.footer {
-  bottom: 0;
+
+.text-splash {
+  color: #1EBBA3;
+}
+
+/*--- Nav Scrolling Offset --*/
+.offset:before {
+  content: "";
+  height: 4rem;
+  display: block;
+  margin-top: -4rem;
+}
+
+/*--- Extra Bootstrap Column Padding --*/
+[class*="col-"] {
+  padding: 1rem;
+}
+
+/*============= NAVIGATION =============*/
+.navbar-brand img {
+  height: 2rem;
+}
+
+.navbar {
+  padding: .7rem 1rem;
+  text-transform: uppercase;
+  font-weight: 700;
+  letter-spacing: .1rem;
+  font-size: .9rem;
+  transition: background-color .5s ease;
+  border-bottom: 2px solid #e9ecef;
+}
+
+.navbar-nav li {
+  padding-right: .8rem;
+}
+
+.navbar-nav .nav-link {
+  color: white;
+  padding-top: .8rem;
+}
+
+.navbar-nav .nav-link.active,
+.navbar-nav .nav-link:hover {
+  color: #1EBBA3;
+}
+
+.dropdown .dropdown-toggle {
+  color: #545454 !important;
+}
+
+li:first-child .dropdown-menu {
+  min-width: 250px;
+}
+
+/*============= RESETS =============*/
+
+/*-- iPhone X Remove Gutters --*/
+html {
+  padding: env(safe-area-inset);
+}
+
+/*-- Prevent Horizontal Scrolling & Font Style --*/
+html,
+body {
+  overflow-x: hidden;
+  font-family: 'Lato', sans-serif;
+  color: #505962;
+}
+
+.text-splash {
+  color: #1EBBA3;
+}
+
+/*--- Nav Scrolling Offset --*/
+.offset:before {
+  content: "";
+  height: 4rem;
+  display: block;
+  margin-top: -4rem;
+}
+
+/*--- Extra Bootstrap Column Padding --*/
+[class*="col-"] {
+  padding: 1rem;
+}
+
+/*============= NAVIGATION =============*/
+.navbar-brand img {
+  height: 2rem;
+}
+
+.navbar {
+  padding: .7rem 1rem;
+  text-transform: uppercase;
+  font-weight: 700;
+  letter-spacing: .1rem;
+  font-size: .9rem;
+  transition: background-color .5s ease;
+}
+
+.navbar-nav li {
+  padding-right: .8rem;
+}
+
+.navbar-nav .nav-link {
+  color: white;
+  padding-top: .8rem;
+}
+
+.navbar-nav .nav-link.active,
+.navbar-nav .nav-link:hover {
+  color: #1EBBA3;
+}
+
+.dropdown .dropdown-toggle {
+  color: #545454 !important;
+}
+
+li:first-child .dropdown-menu {
+  min-width: 250px;
+}
+
+li:nth-child(2) .dropdown-menu {
+  min-width: 320px;
+}
+
+.dropdown-menu a.dropdown-item {
+  white-space: normal;
+}
+
+.dropdown-menu .dropdown-item {
+  text-transform: initial;
+}
+
+.dropdown-menu .dropdown-item:hover {
+  background-color: #e9ecef;
+}
+
+li .nav-link {
+  color: #545454 !important;
+}
+
+p a {
+  color: #0054B3 !important;
+}
+.custom-toggler-icon {
+  color: white;
+  font-size: 1.6rem;
+}
+
+.navbar.solid,
+.navbar.solid-toggle {
+  background: rgba(0, 0, 0, .7) !important;
+  transition: background-color 1s ease;
+}
+
+.svg-inline--fa {
+  color: #505962;
+}
+
+/*-- Remove Button Outline --*/
+a.btn:focus {
+  transition: all .2s ease;
+}
+
+/*============= LANDING PAGE =============*/
+
+/*--- Fixed Landing Page Section --*/
+.landing {
+  position: relative;
   width: 100%;
-  /* Set the fixed height of the footer here */
-  height: 60px;
-  line-height: 60px; /* Vertically center the text there */
-  background-color: #f5f5f5;
+  height: 100vh;
+  display: table;
+  z-index: -1;
 }
+
+.home-wrap {
+  clip: rect(0, auto, auto, 0);
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+
+.home-inner {
+  background-image: url('../images/computer_main_page_background.jpg');
+  filter: blur(2px);
+  -webkit-filter: blur(2px);
+  position: fixed;
+  height: 100%;
+  width: 100%;
+  background-size: cover;
+  background-position: center center;
+  -webkit-transform: translateZ(0);
+  transform: translateZ(0);
+  will-change: transform;
+  display: table;
+}
+
+/*-- Landing Page Caption --*/
+.caption {
+  z-index: 1;
+  position: absolute;
+  top: 38%;
+  width: 100%;
+  max-width: 100%;
+}
+
+.caption h1 {
+  font-size: 4.5rem;
+  letter-spacing: .3rem;
+  text-shadow: .1rem .1rem .8rem black;
+  padding-bottom: 1rem;
+}
+
+.caption h3 {
+  font-size: 2.5rem;
+  text-shadow: .1rem .1rem .5rem black;
+  padding-bottom: 2rem;
+}
+
+.caption .btn-lg {
+  border-width: medium;
+  padding: .8rem 1.5rem;
+  font-size: 1.1rem;
+}
+
+.caption a {
+  background-color: rgb(137, 165, 184);
+  border: 0;
+}
+
+.caption a:hover {
+  background-color: #189582;
+  color: white;
+}
+
+/*============= FEATURES SECTION =============*/
+
 .content {
   position: absolute;
   top: 55px;
@@ -42,15 +278,130 @@ body {
   width: 100%;
 }
 
-/*Blockquotes*/
-/*Adapted from: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blockquote */
-blockquote {
-  margin: 0;
-  padding: 15px;
-  background: #eee;
-  border-radius: 5px;
+h3.heading {
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 1.9rem;
+  text-align: center;
+  margin-bottom: 1.9rem;
 }
 
-.blockquote {
-  font-size: 1rem;
+.heading-underline {
+  width: 3rem;
+  height: .2rem;
+  background-color: #1EBBA3;
+  margin: 0 auto 2rem;
 }
+
+.feature span {
+  color: #1EBBA3;
+  margin-bottom: .6rem;
+}
+
+.feature h3 {
+  text-transform: uppercase;
+  font-size: 1.3rem;
+  padding-bottom: .4rem;
+}
+
+/*============= MEDIA QUERIES =============*/
+/* Devices under 992px (lg) */
+@media (max-width: 991.98px) {
+  .caption h1 {
+    font-size: 3.5rem;
+    letter-spacing: .2rem;
+    padding-bottom: .8rem;
+  }
+
+  .caption h3 {
+    font-size: 2.2rem;
+    padding-bottom: 1.7rem;
+  }
+
+  .caption .btn-lg {
+    padding: .7rem 1.2rem;
+    font-size: 1rem;
+  }
+
+  .clients img {
+    max-width: 50%;
+    margin: 0 auto;
+  }
+}
+
+/* Devices under 768px (md) */
+@media (max-width: 767.98px) {
+  .caption h1 {
+    font-size: 2.7rem;
+    letter-spacing: .15rem;
+    padding-bottom: .5rem;
+  }
+
+  .caption h3 {
+    font-size: 1.7rem;
+    padding-bottom: 1.2rem;
+  }
+
+  .caption .btn-lg {
+    padding: .6rem 1.1rem;
+  }
+
+  #features h1 {
+    font-size: 2rem;
+  }
+
+  .fixed-dark {
+    background-image: url('../img/fixed/apple-mobile.jpg')
+  }
+
+  .fixed-light {
+    background-image: url('../img/fixed/office-mobile.jpg')
+  }
+
+  .top-scroll {
+    display: none !important;
+  }
+}
+
+/* Devices under 576px (sm) */
+@media (max-width: 575.98px) {
+  .caption h1 {
+    font-size: 1.9rem;
+    letter-spacing: .1rem;
+    padding-bottom: .4rem;
+  }
+
+  .caption h3 {
+    font-size: 1.2rem;
+    padding-bottom: 1rem;
+  }
+
+  .caption .btn-lg {
+    padding: .4rem .9rem;
+    font-size: .9rem;
+  }
+}
+
+
+/*============ BOOTSTRAP BREAK POINTS:
+
+Extra small (xs) devices (portrait phones, less than 576px)
+No media query since this is the default in Bootstrap
+
+Small (sm) devices (landscape phones, 576px and up)
+@media (min-width: 576px) {
+  ...
+}
+
+768
+
+Medium (md) devices (tablets, 768px and up)
+@media (min-width: 768px) { ... }
+
+Large (lg) devices (desktops, 992px and up)
+@media (min-width: 992px) { ... }
+
+Extra (xl) large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { ... }
+
+=============*/
