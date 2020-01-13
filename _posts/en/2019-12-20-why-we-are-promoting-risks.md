@@ -134,7 +134,7 @@ To remediate the above problems, I propose the following:
    They need a steady source of funding and dedicated teams to allow timely technical debt remediation and evolution.
    Teams should be comprised not only of developers but also security, operations, testing, and policy experts, that works with _actual_ users;
 5. Use architectural guardrails instead of gates, where Enterprise Architecture acts as a monitoring discipline making recommendations for course correction to align individual products towards the target enterprise architecture state; and
-6. Embrace open source's philosophy to [work](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html) in the [open]({{site.baseurl}}/2019/11/19/working-in-the-open-part-1.html) and share your work as a means to get economies of scale, avoid lengthy procurement battles, support vendor lock-in strategies, and increase the opportunity to have your work reused.
+6. Embrace open source's philosophy to [work](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html) in the [open]({{site.baseurl}}/2019/11/19/working-in-the-open-part-1.html) and share your work as a means to get economies of scale, avoid lengthy procurement battles, mitigate vendor lock-in, and increase the opportunity to have your work reused.
 
 ## References
 
