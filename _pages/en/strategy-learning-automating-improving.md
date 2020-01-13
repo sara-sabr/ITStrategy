@@ -29,9 +29,9 @@ Strategies will be reviewed and updated quarterly based on current progress and 
 - [Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html)
 - [Digital Operations Strategic Plan: 2018-2022](https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html)
 - [Policy](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603) and [Directive on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601)
-- [Mandatory Procedures for EA Assessment](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602)
-- [Mandatory Procedures on APIs](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604)
-- [Acceptable Network and Device Use](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32605)
+  - [Mandatory Procedures for EA Assessment](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602)
+  - [Mandatory Procedures on APIs](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604)
+  - [Acceptable Network and Device Use](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32605)
 
 ### Actions
 
