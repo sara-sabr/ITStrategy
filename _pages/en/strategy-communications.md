@@ -62,8 +62,8 @@ The above communication work will require to keep a consistent message to stakeh
 
 | **Activity**  | **Communication methods available** |
 | ------------- | -------------------------------------------- |
-| Approval      | - CIO Executive Committee<br> - SABR DGO<br> - MM Director |
-| Endorsement   | - SABR DGO<br> - MM Director<br> - IITB Governance Committees<br> - IITB Forums<br> - Briefing Notes |
+| Approval      | - CIO Executive Committee<br> - SABR DGO<br> - Director |
+| Endorsement   | - SABR DGO<br> - Director<br> - IITB Governance Committees<br> - IITB Forums<br> - Briefing Notes |
 | Outreach      | - IITB Governance Committees<br> - IITB Forums<br> - Public Sector Communities<br> - Blogs<br> - Social Media<br> - IITB IITB Newsletter<br> - Email |
 | Feedback      | - Social Media<br> - Blogs<br> - Peer reviews<br> - IITB Governance Committees<br> - IITB Forums<br> - Custom Metrics |
 
