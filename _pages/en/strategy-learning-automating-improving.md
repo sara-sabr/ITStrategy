@@ -41,9 +41,7 @@ All IITB teams must:
 
 - **Use CATS codes for continuous improvement**
 - **Gather metrics for things your teams work on**
-  - **Lead time for change or delivery of services/devices**
-  - **Time to restore following incidents and errors**
-  - **Change fail rate**
+- **Show progress**
 
 ### Guidance
 
