@@ -34,7 +34,6 @@ The objectives of the team's communication strategy are to:
 _Stakeholders_ represent the type of audience the team is looking to target, and what _messages_ this audience will be targeted with based on our understanding of what they need to know.
 
 <!-- markdownlint-disable MD033 -->
-Content requiring the exception
 
 | **Stakeholder**             | **What they need to know**                    | **Key communications messages**               |
 | --------------------------- | --------------------------------------------- | --------------------------------------------- |
