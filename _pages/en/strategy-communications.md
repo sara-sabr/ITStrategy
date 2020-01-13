@@ -61,13 +61,20 @@ The above communication work will require to keep a consistent message to stakeh
 <!-- markdownlint-disable MD033 -->
 | **Activity**  | **Communication methods available** |
 | ------------- | -------------------------------------------- |
-| Approval      | 1. CIO Executive Committee<br> 2. SABR DGO<br> 3. MM Director |
-| Endorsement   | 1. SABR DGO<br> 2. MM Director<br> 3. IITB Governance Committees<br> 4. IITB Forums<br> 5. Peer reviews<br> 6. Briefing Notes |
-| Outreach      | 1. IITB Governance Committees<br> 2. IITB Forums<br> 3. Public Sector Communities<br> 4. Blogs<br> 3. Social Media<br> 4. IITB IITB Newsletter<br> 5. Email |
-| Feedback      | 1. Social Media<br> 2. Blogs<br> 3. IITB Governance Committees<br> 4. IITB Forums<br> 5. Custom Metrics |
+| Approval      | - CIO Executive Committee<br> - SABR DGO<br> - MM Director |
+| Endorsement   | - SABR DGO<br> - MM Director<br> - IITB Governance Committees<br> - IITB Forums<br> - Briefing Notes |
+| Outreach      | - IITB Governance Committees<br> - IITB Forums<br> - Public Sector Communities<br> - Blogs<br> - Social Media<br> - IITB IITB Newsletter<br> - Email |
+| Feedback      | - Social Media<br> - Blogs<br> - Peer reviews<br> - IITB Governance Committees<br> - IITB Forums<br> - Custom Metrics |
 <!-- markdownlint-enable MD033-->
 
 ## Communications Methods
+
+### CIO
+
+1. Director and Director General feedback/updates
+1. [Peer review process](#peer-review)
+1. Send [briefing note](#briefing-note) to CIO
+1. Publish on Intranet
 
 ### CIO Executive Committee
 
@@ -94,7 +101,7 @@ Follow these steps:
 
 Endorsement or approval will be done via email (reply from DG to email request from IT Strategy team)
 
-### MM Director
+### IT Strategy Director
 
 Endorsement or approval will be done via email (reply from DG to email request from IT Strategy team)
 
