@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Strategy - Continuous Learning, Automation and Improvement
-ref: strategy-q1
+ref: strategy-q1-2020
 lang: en
 status: posted
 sections: Ready For Use
