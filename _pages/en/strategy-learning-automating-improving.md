@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Strategy - Continuous Learning, Automation and Improvement
-ref: strategies
+ref: strategy-q1
 lang: en
 status: posted
 sections: Ready For Use
@@ -27,7 +27,7 @@ All IITB teams must:
 | **Learn** | - Read, take courses, attend events and conferences<br /> - Stay up to date on trends and technologies</br> - Encourage assignments with CDS-ESDC team or CSPS<br /> - Share knowledge with colleagues (IITB showcase, Dev CoP, GCconnex, GCcollab, ..)<br /> - Peer coaching/mentoring<br /> - Show and tell across the teams |
 | **Automate** | - Automate where possible |
 | **Improve processes** | - Review existing processes and governance structure |
-| **Show progress** | - Gather metrics for things your team works on | 
+| **Show progress** | - Gather metrics for things your team works on |
 
 **For all these activities, use CATS codes for continuous improvement.**
 
