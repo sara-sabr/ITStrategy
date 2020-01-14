@@ -10,12 +10,11 @@ permalink: /strategy-learning-automating-improving.html
 
 ## Strategy - Continuous Learning, Automation and Improvement
 
-The following strategies and actions apply for the 1st quarter of the 2020-2021 fiscal year.
-Strategies will be reviewed and updated quarterly based on current progress and following the Strategy Map (layering on the strategies).
+The following actions apply for the 1st quarter of the 2020-2021 fiscal year.
+Strategies and actions will be reviewed and updated quarterly based on current progress and following the Strategy Map (layering on the strategies).
 
 - [Actions](#actions)
 - [Goals](#goals)
-- [Guidance](#guidance)
 
 ### Actions
 
@@ -23,9 +22,14 @@ All IITB teams must:
 
 #### Use 20% of time to learn, automate and improve
 
-- **Use CATS codes for continuous improvement**
-- **Gather metrics for things your teams work on**
-- **Show progress**
+| Action | Guidance |
+|--------|----------|
+| **Learn** | - Read, take courses, attend events and conferences<br /> - Stay up to date on trends and technologies</br> - Encourage assignments with CDS-ESDC team or CSPS<br /> - Share knowledge with colleagues (IITB showcase, Dev CoP, GCconnex, GCcollab, ..)<br /> - Peer coaching/mentoring<br /> - Show and tell across the teams |
+| **Automate** | - Automate where possible |
+| **Improve processes** | - Review existing processes and governance structure |
+| **Show progress** | - Gather metrics for things your team works on | 
+
+**For all these activities, use CATS codes for continuous improvement.**
 
 ### Goals
 
@@ -42,17 +46,3 @@ All IITB teams must:
   - [Mandatory Procedures for EA Assessment](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602)
   - [Mandatory Procedures on APIs](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604)
   - [Acceptable Network and Device Use](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32605)
-
-### Guidance
-
-- Read, take courses, attend events and conferences
-- Stay up to date on trends and technologies
-- Encourage assignments with CDS-ESDC team or CSPS
-- Share knowledge with colleagues
-  - IITB showcase, Dev CoP, GCconnex, GCcollab, ..
-- Review existing processes and governance structure
-- Automate where possible
-- Peer coaching (Informal training that extends beyond onboarding. Managers should spend one-on-one time with workers, getting information from them that will help in crafting the learning path that is individualized to their needs.)
-- Employee to employee education (Getting on "teaching mode" and educating your team on specific question).
-- Show and tell across the teams (Getting to know which team is working on what, getting feedback).
-- Organizing IITB tech talks
