@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Working in the open and the ways you can contribute
+title: Working in the Open
 ref: how-to-contribute
 lang: en
 status: posted

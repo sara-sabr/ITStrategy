@@ -99,7 +99,7 @@ IITB will adopt a product management mindset wherein each Solution is viewed as 
 
 Solutions will no longer be delivered as projects that culminate with a release, but rather as products that are continuously improved through smaller, more frequent releases.
 
-This requires introducing greater continuity between the initial release, growth, maturation, maintenance, and eventual retirement phases of a solution’s lifecycle.
+This requires introducing greater continuity between the initial release, growth, maturation, maintenance, and eventual retirement phases of a solution's lifecycle.
 
 Shifting to Agile Project Management will require the following:
 

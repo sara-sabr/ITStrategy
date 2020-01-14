@@ -21,8 +21,8 @@ sectionsList:
   en: ["About us", "Ready For Use", "Trends", "Under Review", "Work In Progress", "Archives"]
   fr: ["À propos de nous", "Prêt à utiliser", "Tendances", "En révision", "Travaux en cours", "Archives"]
 docsTitle:
-  en: Our Documents
-  fr: Nos documents
+  en: Documents
+  fr: Documents
 home:
   en: Home
   fr: Accueil
@@ -32,9 +32,12 @@ index:
 language:
   en: English
   fr: Français
+strategies:
+  en: Strategies
+  fr: stratégies
 presentations:
-  en: Our Presentations
-  fr: Nos présentations
+  en: Presentations
+  fr: présentations
 pagesAbout:
   en: About us
   fr: À propos de nous
@@ -72,8 +75,8 @@ lastModified:
   en: Last modified
   fr: Dernière modification
 blogPosts:
-  en: Our Blog Posts
-  fr: Nos billets
+  en: Blog
+  fr: Blogue
 notice:
   en: All work found on this site are ideas and proposals from the IT Strategy team within ESDC. Content here does not represent the official stance of ESDC nor the Government of Canada at large.
   fr: Tous les travaux présentés sur ce site sont des idées et des propositions de l'équipe de la stratégie informatique de EDSC. Le contenu présenté ici ne représente pas la position officielle de EDSC ni celle du gouvernement du Canada en général.

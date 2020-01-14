@@ -13,7 +13,7 @@ You may also wonder why.
 So, let's dive in for a short explanation!
 <!--more-->
 
-As explained in our post [Case for Continuous Improvement]({{site.baseurl}}/2019/10/15/case-continuous-improvement.html), we believe in continuously improving our work.
+As explained in our post [Case for Continuous Improvement]({{ site.baseurl }}/2019/10/15/case-continuous-improvement.html), we believe in continuously improving our work.
 And that includes our own workspace.
 So, since our initial publication of posts, we have been tweaking how the list of blog posts are being displayed.
 

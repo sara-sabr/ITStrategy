@@ -6,15 +6,23 @@
   <body vocab="http://schema.org/" typeof="WebPage">
 
     {% include header.html %}
-
-    <main class="container">
+   
+    <main role="main" class="container">
+      <section class="jumbotron d-print-none">
+        <h1 class="display-3">{{ site.title[page.lang] }}</h1>
+        <h2>{{ site.subtitle[page.lang] }}</h2>
+      </section>
       {% if page.layout == "default"%}
         {% include versioning.md %}
       {% endif %}
-      {{ content }}
-    </main>
-    
+      
+          {{ content }}
+      
+
+        {% include notice.html %}    
+      </main>
     {% include footer.html %}
+
 
   </body>
 

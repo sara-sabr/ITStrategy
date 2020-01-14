@@ -1,12 +1,10 @@
-### {{ site.docsTitle[page.lang] }}
-
 {% assign sections = site.sectionsList[page.lang] %}
 {% for section in sections %}
 {% assign aPage = site.pages | where:"sections", section | where:"lang", page.lang | sort: "title" %}
 
 {%- if aPage.size > 0 -%}
 
-#### {{ section }}
+### {{ section }}
 
 <ul>
   {%- for page in aPage -%}

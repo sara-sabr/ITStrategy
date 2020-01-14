@@ -133,7 +133,7 @@ Note:
 - Automation to allow staff to focus on meaningful work
 - Enable IITB teams to design for users with users, iterate and improve frequently
 
-Link to [Strategy Map](https://sara-sabr.github.io/ITStrategy/strategy-summary.html)
+Link to [Strategy Map](strategy-summary.html)
 
 Note:
 
@@ -168,17 +168,17 @@ Note:
 - Use CATS codes for continuous improvement
 - Gather metrics for things your teams work on - show progress
 
-[Q1 Strategies and Actions](https://sara-sabr.github.io/ITStrategy/strategy-learning-automating-improving.html)
+[Q1 Strategies and Actions](strategy-learning-automating-improving.html)
 
 ---
 
 ## Supporting material and information
 
 - [IT Strategy team's public workspace](https://github.com/sara-sabr/ITStrategy)
-- [Q1 Strategies and Actions](https://sara-sabr.github.io/ITStrategy/strategy-learning-automating-improving.html)
-- [General Strategies and Actions](https://sara-sabr.github.io/ITStrategy/strategies-actions.html)
-- [Strategy Map](https://sara-sabr.github.io/ITStrategy/strategy-summary.html)
-- [Medium Term IT Picture - 2025](https://sara-sabr.github.io/ITStrategy/it-picture-medium-term.html)
+- [Q1 Strategies and Actions](strategy-learning-automating-improving.html)
+- [General Strategies and Actions](strategies-actions.html)
+- [Strategy Map](strategy-summary.html)
+- [Medium Term IT Picture - 2025](it-picture-medium-term.html)
 - [DevOps Research and Assessment](https://cloud.google.com/devops/) (ext.)
 
 --
