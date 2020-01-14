@@ -131,6 +131,7 @@ Note:
 - Adoption of Open Source, as a philosophy
 - Empowering employees
 - Automation to allow staff to focus on meaningful work
+- Enable IITB teams to design for users with users, iterate and improve frequently
 
 Link to [Strategy Map](https://sara-sabr.github.io/ITStrategy/strategy-summary.html)
 
@@ -138,6 +139,8 @@ Note:
 
 - Product Management: affects funding model, team composition, automatic deployment, lessons learned
 - DORA: Institude that studies high performing technology organization
+- Enabling IITB: focus on client-centric service design and delivery, an approach that focuses on addressing client or user expectations, needs, challenges, and feedback. We  need to talk to the user to know their needs and expectations. Get feedback, identify user needs, come up with design ideas
+- IT Strategy team will start engaging with IITB teams soon to get their feedback, as users, on what needs to happen to get there
 
 ---
 
