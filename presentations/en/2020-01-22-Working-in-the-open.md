@@ -34,7 +34,7 @@ Note:
 
 It's not just "working out loud"
 
-You also need to enable and encourage contributions!
+You need to enable and encourage contributions!
 
 Note:
 
@@ -68,7 +68,7 @@ Note:
 - Trust
   - You trust your team
   - You trust this is good for the public
-  - The public should be able to trust the government
+  - The public should trust the government
     - [Accountability](https://product-guide.18f.gov/working-in-a-way-that-reflects-our-values/working-in-the-open/)
 
 ---
@@ -179,27 +179,31 @@ Source: [Crown Copyright Request](https://www.canada.ca/en/canadian-heritage/ser
 
 If possible and applicable, release it under an open licence:
 
-- [Open source](https://opensource.org/licenses) licence for source code
-- [Open Government Licence – Canada](https://open.canada.ca/en/open-government-licence-canada) for data, information, content
+- [Open Source Licence](https://opensource.org/licenses) - for source code
+- [Open Government Licence – Canada](https://open.canada.ca/en/open-government-licence-canada) - for data, information, content
 
 Note:
 
 - Need approval from proper delegated authority (varies by department)
-- OSS licence is preferable for source code
-  - Industry is more familiar to those licences
+- Existing OSS licence is preferable for source code
+  - Industry is more familiar with these licences
   - Easier to have people contribute back to your project
 
 --
 
 #### Notice
 
-In your work, you should have a notice with the mention of the licence applied to it
+Include a notice with the mention of the licence and trademark
 
 --
+
+Licence:
 
 > Unless otherwise noted, the source code of this project is covered under Crown Copyright, Government of Canada, and is distributed under the MIT License.
 
 --
+
+Trademark:
 
 > The Canada wordmark and related graphics associated with this distribution are protected under trademark law and copyright law. No permission is granted to use them outside the parameters of the Government of Canada's corporate identity program. For more information, see Federal identity requirements.
 
@@ -207,15 +211,16 @@ In your work, you should have a notice with the mention of the licence applied t
 
 #### Security Classification
 
-Unclassified only
+Include only unclassified material
 
-More in the soon to be released [Open Source Standards](https://github.com/canada-ca/open-source-logiciel-libre/blob/master/en/guides/publishing-open-source-code.md#developing-software-in-the-open)
+From recently published [GC OSS Guidance](https://www.canada.ca/en/government/system/digital-government/open-source-software/guide-for-publishing-open-source-code.html#toc03)
+
+> Keep sensitive data such as credentials secure and separate from source code.
+> Leverage tools and services to automate finding known security vulnerabilities, possible secret keys and personally identifiable information.
 
 Note:
 
-- Don't put secrets or sensitive data out there
-- Don't put personally identifiable information out there
-- Don't put information about procurement processes
+- Also, don't include personally identifiable information, or information related to procurement processes
 
 --
 
@@ -225,7 +230,7 @@ Write like the newspaper is going to publish your content
 
 Note:
 
-- Increase quality of your work (see [GDS blog post](https://gds.blog.gov.uk/2017/09/04/the-benefits-of-coding-in-the-open/))
+- Again, increase quality of your work
 - You KNOW people can come and see it; you should think twice before posting something
 - If you're not comfortable at a personal level, ask for help!
 - Bigger picture, you may want to ask why you're working on this if you're not comfortable sharing
@@ -236,32 +241,38 @@ Note:
 
 It's still your work, you need to maintain it
 
+- Single source of truth
+- You control incoming contributions
+- And if you don't control anymore, it continues to live
+
 Note:
 
-- It should be your source of truth, not a clone of your internal workspace
+- Not a clone of your internal workspace
 - Contributions are welcome but you decide what goes into your work or not
-- It's open source so if it dies in the GC, it may live beyond
 
 --
 
-#### Community
+#### Community Management
 
 > Warning: A community may coalesce
 
-Manage it for your own benefit!
+Manage the community for your own benefit... and everyone's
+
+- Set expectations
+  - "We usually respond within 48 hours"
+  - "We don't take contributions at this point, but happy to have you submit suggestions"
+  - "Use these templates for contributions"
 
 Note:
 
+- Manage your community, you will benefit greatly from it (incl. personnally)
 - Stephen Walli - "It's all about software engineering economics"
 - If your work is interesting, people might find it
 - People may submit recommendations and modifications to you
-- Manage your community, you will benefit greatly from it
-- Set expectations
-  - "We don't take contributions at this point but happy to have you submit suggestions"
-  - "We will get back to you within 48 hours"
-  - Set templates
 
 --
+
+#### Help newcomers
 
 Be kind, Be patient, Be inclusive
 
@@ -291,7 +302,6 @@ Note:
 
 - [GCmessage (pilot)](https://message.gccollab.ca/home)
 - [Slack](https://slack.com/) to a certain extent (closed communities)
-- [Framavox](https://framavox.org/)
 - [GCcollab](https://gccollab.ca/splash/)
   - Communities of Practice
 
@@ -299,22 +309,20 @@ Note:
 
 #### Workspace
 
-- GCpedia
+- [GitHub](https://github.com)
+- [GitLab](https://gitlab.com)
+
+- [GCpedia](https://www.gcpedia.gc.ca)
 - [GCcollab Wiki](https://wiki.gccollab.ca/)
-- [Framasoft](https://framasoft.org/)
-- [GitLab](https://gitlab.com/)
-- [GitHub](https://github.com/)
-- [Google Drive + Related Tools](https://www.google.com/drive/)
-- [Microsoft Office 365](https://www.office.com/)
 
 --
 
 #### Planning
 
-- [GitLab - Boards](https://about.gitlab.com/product/issueboard/)
 - [GitHub - Projects](https://github.com/features/project-management/)
+- [GitLab - Boards](https://about.gitlab.com/product/issueboard/)
 - [Trello](https://trello.com/)
-- [Taiga](https://taiga.io/)
+- [Taiga](https://taiga.io)
 
 --
 
@@ -323,7 +331,7 @@ Note:
 - [GitLab](https://gitlab.com/)
 - [GitHub](https://github.com/)
 - [Bitbucket](https://bitbucket.org/)
-- GCcode
+- [GCcode](https://gccode.ssc-spc.gc.ca/) (internal)
 
 --
 
@@ -332,6 +340,52 @@ Note:
 - [Twitter](https://twitter.com/)
 - Intranet News and Sites
 - [Open Resource Exchange](https://canada-ca.github.io/ore-ero/)
+
+---
+
+## Demo of our team workspace
+
+--
+
+# GitHub Workspace
+
+![GitHub Workspace](assets/images/github-workspace.png)
+
+--
+
+# Team website (automatically generated from Workspace)
+
+![GitHub Workspace](assets/images/github-workspace.png)
+
+--
+
+# Kanban board for Planning
+
+![Kanban](assets/images/kanban.png)
+
+--
+
+# Pull Request
+
+![GitHub Workspace](assets/images/pullrequest.png)
+
+--
+
+# Feedback in Pull Request
+
+![GitHub Workspace](assets/images/pullrequest-feedback.png)
+
+--
+
+# Text Editor (Visual Studio Code - free open source)
+
+![GitHub Workspace](assets/images/vscode.png)
+
+--
+
+# View changes in text editor
+
+![GitHub Workspace](assets/images/vscode-changes.png)
 
 ---
 
@@ -355,7 +409,7 @@ Of projects in the open
 
 --
 
-[Drupal-WXT](http://drupalwxt.org/)
+[Drupal-WXT](http://drupalwxt.org)
 
 --
 
