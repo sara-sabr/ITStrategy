@@ -238,13 +238,10 @@
     "centered",
     "clientele",
     "coworkers",
-    "drawgraphx",
     "enculturation",
     "entretemps",
     "fulfill",
-    "fullfunction",
     "gazouilli",
-    "graphx",
     "IMIT",
     "impactful",
     "incl",
@@ -281,13 +278,7 @@
     "PPPM",
     "PMLC",
     "onenote",
-    "opensource",
-    "Kylie",
-    "minusxl",
-    "comparecurves",
-    "areaundercurve",
-    "integralareaundercurve",
-    "lamélioration"
+    "Kylie"
   ],
   "flagWords": [],
   "import": ["./node_modules/cspell-dict-fr-fr/cspell-ext.json"],
@@ -299,5 +290,8 @@
     "softwareterms",
     "html",
     "css"
+  ],
+  "ignoreRegExpList": [
+    "]\\(([^\\)]+)\\)"
   ]
 }
