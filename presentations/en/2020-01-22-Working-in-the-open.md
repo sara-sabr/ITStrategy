@@ -377,6 +377,14 @@ Note:
 
 --
 
+# Automated Checks (Continuous Integration - CI)
+
+- Markdown syntax, spellcheck, hyperlinks..
+
+![GitHub Workspace](assets/images/CI.png)
+
+--
+
 # Text Editor (Visual Studio Code - free open source)
 
 ![GitHub Workspace](assets/images/vscode.png)
