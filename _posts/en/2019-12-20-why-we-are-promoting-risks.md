@@ -56,7 +56,7 @@ As per above, the effort of going through the change control process must be pro
 This effort also includes going through governance bodies and having to explain why we could not have predicted such a change in the first place; why our original estimates were not accurate.
 Explaining why we were wrong is not fun...
 
-In a sense, the current governance does not welcome change, which directly contradicts the [Manifesto for Agile Software Development](https://agilemanifesto.org/) (4th value in the list).
+In a sense, the current governance does not welcome change, which directly contradicts the [Manifesto for Agile Software Development](https://agilemanifesto.org/): Responding to change over following a plan
 
 Finally, because the **Project Sponsor** already committed to a fixed scope, costs, and schedule at gate 3, and because change is actually difficult to implement, we end up sticking to the plan, especially scope and schedule.
 This results in IT having to cut essential work that is not visible to the sponsor such as testing, quality assurance, performance, security, documentation, and most especially: **technical debt remediation**.
@@ -69,7 +69,7 @@ Which, let's be honest, ends up unlikely because this unattractive, non-function
 In the PMLC mentioned above, **Develop and test solution** is only one project activity from the list of 48 to 60 but is the most intensive one, the reason this whole project was funded, where we will spend most of our time, and will involve at least 12 more stakeholders just within the IT Branch (as per [this process map](onenote:http://dialogue/grp/PR6893344/OneNote/AppDevSA/02-Development%20%28In%20Progress%29/Release%20Process.one#section-id={D2EC43C2-A283-4DC1-B0C1-E1063C0F3721}&end) created by our Senior Advisors).
 
 It is in this **Develop and test solution** activity that we end up uncovering many unknowns that are inhibiting our ability to execute (internal skill sets limitations, systems integration limitations, technical debt, new technology stack capabilities that could solve problems but are not part of our current standards, security vulnerabilities, proprietary software limitations, etc).
-No amount of advanced planning can completely uncover these unknowns due to the fast pace of technology changes and, more importantly, growing **end-user demands** which are validated only when we **Hand off solution to operations** and produce the **Benefits Realization Plan**. In addition, should the pre-approved plan require the use proprietary software, course corrections will surely involve procurement activities which are additional work and investments to obtain.
+No amount of advanced planning can completely uncover these unknowns due to the fast pace of technology changes and, more importantly, growing **end-user demands** which are validated only when we **Hand off solution to operations** and produce the **Benefits Realization Plan**. In addition, should the pre-approved plan require the use of proprietary software, course corrections will surely involve procurement activities which are additional work and investments to obtain.
 
 These **end-user demands** are what we include in the **Business Case** project artefacts (following the "business needs" and "identify strategic alignment" project activities).
 But what is a Business Case?
