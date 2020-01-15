@@ -4,7 +4,7 @@ title: Key Performance Indicators
 ref: kpi
 lang: en
 status: posted
-sections: Work In Progress
+sections: Archives
 permalink: /iitb-kpi.html
 ---
 
