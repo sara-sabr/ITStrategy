@@ -1,10 +1,17 @@
 <!--markdownlint-disable MD033-->
 # Working in the Open
 
-**SSC Learn Architecture**, January 22 2020
+**SSC Learn Architecture**
 
-Gabriel Cossette, Senior Advisor<br>
+January 22, 2020
+
+<div style="text-align:right">
+
+Gabriel Cossette  
+Senior Advisor, IT Strategy  
 Employment and Social Development Canada
+
+</div>
 
 ---
 
@@ -32,7 +39,7 @@ Note:
 
 --
 
-It's not just "working out loud"
+It's not just _Working Out Loud_
 
 You need to enable and encourage contributions!
 
@@ -53,7 +60,7 @@ Note:
 It's also a cultural thing
 
 - Humility
-  - Willingness to learn and improve
+- Willingness to learn and improve
 - Inclusiveness
 - Trust
 
@@ -77,10 +84,17 @@ Note:
 
 --
 
-### 1. It makes your work discoverable
+### 1. Improve productivity of organization
 
-According to [DORA DevOps Report 2019](https://cloud.google.com/devops/state-of-devops/) (page 62):
-> Internal and External search capabilities are key enablers for **productivity** AND **job satisfaction**
+By making our collective work discoverable
+
+According to [DORA DevOps Report 2019](https://cloud.google.com/devops/state-of-devops/) (page 63):
+
+> Feeling productive 
+
+> Strong communities for learning and growing
+
+> And recruiting, an important side benefit
 
 Note:
 
@@ -117,7 +131,7 @@ Note:
 
 ### 4. Early Feedback Loop
 
-To be agile in an unpredictable world
+To be agile, in an unpredictable world
 
 - Early course correction to avoid waste
 - Peer review is very valuable
@@ -127,6 +141,7 @@ To be agile in an unpredictable world
 ### 5. Increase Quality of Work
 
 > when other people can see your work, you tend to raise your game
+
 United Kingdom Government Digital Service [blog post](https://gds.blog.gov.uk/2017/09/04/the-benefits-of-coding-in-the-open/)
 
 Note:
@@ -144,7 +159,8 @@ Note:
 
 As soon as possible. Now.
 
-Don't wait until it's perfect, it never will be
+> Don't wait until it's perfect, it never will be  
+> <div style="text-align:left"><i>Anonymous</i></div>
 
 Note:
 
@@ -154,6 +170,16 @@ Note:
 - [Policy on Service and Digital 4.3](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603#cla4.3)
   - Open and strategic management of information
   - 4.3.2.8 Maximizing the release of departmental information and data as an open resource, discoverable through the Government of Canada open government portal designated by the Treasury Board of Canada Secretariat, while respecting information security, privacy, and legal considerations.
+
+--
+
+It's strongly encouraged
+
+> **Work in the open by default**
+> 
+> Share evidence, research and decision making openly. Make all non-sensitive data, information, and new code developed in delivery of services open to the outside world for sharing and reuse under an open licence.
+
+[GC Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html)
 
 ---
 
@@ -171,7 +197,7 @@ Your work is under Crown Copyright
 
 > Copyright (c) Her Majesty the Queen in Right of Canada, as represented by `<Department Name>`, `<Date>`
 
-Source: [Crown Copyright Request](https://www.canada.ca/en/canadian-heritage/services/crown-copyright-request.html)
+[Crown Copyright Request](https://www.canada.ca/en/canadian-heritage/services/crown-copyright-request.html)
 
 --
 
@@ -179,8 +205,8 @@ Source: [Crown Copyright Request](https://www.canada.ca/en/canadian-heritage/ser
 
 If possible and applicable, release it under an open licence:
 
-- [Open Source Licence](https://opensource.org/licenses) - for source code
-- [Open Government Licence – Canada](https://open.canada.ca/en/open-government-licence-canada) - for data, information, content
+- An [open source licence](https://opensource.org/licenses) - for source code
+- The [Open Government Licence – Canada](https://open.canada.ca/en/open-government-licence-canada) - for data, information, content
 
 Note:
 
@@ -197,13 +223,13 @@ Include a notice with the mention of the licence and trademark
 
 --
 
-Licence:
+#### Notice - Licence
 
 > Unless otherwise noted, the source code of this project is covered under Crown Copyright, Government of Canada, and is distributed under the MIT License.
 
 --
 
-Trademark:
+#### Notice - Trademark
 
 > The Canada wordmark and related graphics associated with this distribution are protected under trademark law and copyright law. No permission is granted to use them outside the parameters of the Government of Canada's corporate identity program. For more information, see Federal identity requirements.
 
@@ -215,8 +241,8 @@ Include only unclassified material
 
 From recently published [GC OSS Guidance](https://www.canada.ca/en/government/system/digital-government/open-source-software/guide-for-publishing-open-source-code.html#toc03)
 
-> Keep sensitive data such as credentials secure and separate from source code.
-> Leverage tools and services to automate finding known security vulnerabilities, possible secret keys and personally identifiable information.
+> - Keep sensitive data such as credentials secure and separate from source code.
+> - Leverage tools and services to automate finding known security vulnerabilities, possible secret keys and personally identifiable information.
 
 Note:
 
@@ -243,7 +269,8 @@ It's still your work, you need to maintain it
 
 - Single source of truth
 - You control incoming contributions
-- And if you don't control anymore, it continues to live
+
+And when you leave the project at some point, it continues to live!
 
 Note:
 
@@ -254,14 +281,13 @@ Note:
 
 #### Community Management
 
-> Warning: A community may coalesce
-
 Manage the community for your own benefit... and everyone's
 
-- Set expectations
-  - "We usually respond within 48 hours"
-  - "We don't take contributions at this point, but happy to have you submit suggestions"
-  - "Use these templates for contributions"
+<div style="text-align:left">Set expectations:</div>
+
+- _We usually respond within 48 hours_
+- _We don't take contributions at this point, but happy to have you submit suggestions_
+- _Use these templates for contributions_
 
 Note:
 
@@ -281,7 +307,7 @@ Note:
 - Some people are new at this
 - Welcome people from everywhere
 - Set a Code of Conduct
-  - Should include a link to the Public Servant's Values and Ethics
+  - with link to [Values and Ethics Code for the Public Sector](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=25049)
 
 --
 
@@ -293,45 +319,59 @@ Note:
 
 Note:
 
-- If the following tools are blocked, lets chat.
-- The DA, TBS and many other teams across departments may be able to help
+- They should be accessible according to the [Direction on Enabling Access to Web Services: Policy Implementation Notice](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32588&section=html)
+- TBS and other teams across departments may be able to help
 
 --
 
 #### Community Management
 
-- [GCmessage (pilot)](https://message.gccollab.ca/home)
-- [Slack](https://slack.com/) to a certain extent (closed communities)
-- [GCcollab](https://gccollab.ca/splash/)
-  - Communities of Practice
+- [GCmessage (pilot)](https://message.gccollab.ca/home) - Chat
+- [Slack](https://slack.com/) - Chat (but closed communities)
+- [GCcollab](https://gccollab.ca/splash/) - Forum for communities of practice
 
 --
 
-#### Workspace
+#### Pages and Documents
+
+<div style="text-align:left">
+<p>Version control with peer-review</p>
 
 - [GitHub](https://github.com)
 - [GitLab](https://gitlab.com)
 
+<p>Wiki</p>
+
 - [GCpedia](https://www.gcpedia.gc.ca)
 - [GCcollab Wiki](https://wiki.gccollab.ca/)
+
+</div>
 
 --
 
 #### Planning
 
+<div style="text-align:left">
+
 - [GitHub - Projects](https://github.com/features/project-management/)
 - [GitLab - Boards](https://about.gitlab.com/product/issueboard/)
-- [Trello](https://trello.com/)
+- [Trello](https://trello.com)
 - [Taiga](https://taiga.io)
+
+</div>
 
 --
 
 #### Version Control
 
-- [GitLab](https://gitlab.com/)
-- [GitHub](https://github.com/)
-- [Bitbucket](https://bitbucket.org/)
-- [GCcode](https://gccode.ssc-spc.gc.ca/) (internal)
+<div style="text-align:left">
+
+- [GitLab](https://gitlab.com)
+- [GitHub](https://github.com)
+- [Bitbucket](https://bitbucket.org)
+- [GCcode](https://gccode.ssc-spc.gc.ca) (internal)
+
+</div>
 
 --
 
@@ -397,7 +437,7 @@ Note:
 
 ---
 
-## Examples
+## More GC Examples
 
 Note:
 
@@ -436,3 +476,20 @@ Of projects in the open
 - Rapid prototyping “in the wild”
 - Public reflection and documentation
 - Creating remixable work products
+
+---
+
+## Questions / Comments
+
+Thank you!
+
+<div style="text-align:left">
+
+Gabriel Cossette  
+Senior Advisor, IT Strategy  
+Employment and Social Development Canada
+
+gabriel.cossette@hrsdc-rhdcc.gc.ca  
+Team: EDSC.DGIIT.StrategieTI-ITStrategy.IITB.ESDC@hrsdc-rhdcc.gc.ca
+
+</div>
