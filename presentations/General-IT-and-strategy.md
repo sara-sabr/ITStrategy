@@ -22,6 +22,11 @@ Innovation, Information, and Technology Branch
 
 ![IIT branch in relation to the others](assets/images/ESDC_overview.png)
 
+Note:
+
+- Why am I showing you this?
+- You will understand later
+
 ### IITB's Vision Statement
 
 _Powered by innovative thinking and approaches, delivering efficient, reliable and secure services and solutions of best value to Clients_
@@ -238,6 +243,11 @@ Note:
 ### Technology is ubiquitous
 
 ![IT within all the branches](assets/images/imit-moving-fwd-strategy.png)
+
+Note:
+
+- Show the image at the beginning of the presentation
+- The proportion of IT in the department does not reflect a single branch
 
 ---
 
