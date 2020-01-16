@@ -1,6 +1,6 @@
 
 <!--markdownlint-disable MD033 MD036-->
-# What IITB is working on to enable ESDC
+# IT at ESDC
 
 Innovation, Information, and Technology Branch
 
@@ -20,7 +20,7 @@ Innovation, Information, and Technology Branch
 
 ### IITB within ESDC
 
-![IIT branch in relation to the other 15](assets/images/imit-moving-fwd-strategy.png)
+![IIT branch in relation to the others](assets/images/ESDC_overview.png)
 
 ### IITB's Vision Statement
 
@@ -41,13 +41,14 @@ Note:
 
 Notes:
 
+source: [Business model for IITB](http://esdc.prv/en/iitb/corporate/Who_We_Are/Organizational_Structure/organizational_model.shtml)
 EXAMPLES:
 
 - Enterprise Architecture = align IM/IT investments with Business priorities
 - Desktop, mobile computers and smartphones
-- Software
+- Softwares (including procurement)
 - Storage, network, telephony infrastructure (SSC
-- Network printers
+- Security accreditations
 
 --
 
@@ -62,15 +63,15 @@ EXAMPLES:
 
 ### What it all rolls up to
 
-- 40 active projects
+- 91 active (or on hold) projects
 - 500 applications, 101 mission critical
-- 1,400 upgrades/changes annually
-- 320,000 service requests annally
+- XX 1,400 upgrades/changes annually
+- XX 320,000 service requests annally
 
 Note:
 
 - EI, CPP, and OAS rely on 150 custom build applications and an aged mainframe
-- Source of data: IITB Business Model from IntraWeb
+- Source of data: [2019-22 plan](http://dialogue/grp/BU6810070/Shared%20Documents/Reference%20Materials/ESDC%20IT%20Plan%202019-22.pdf), [Project Centre](https://gpp-ppm.service.gc.ca/sites/pwa/Projects.aspx), and [IITB Business Model](http://esdc.prv/en/iitb/corporate/doc/IITBBusinessModel.pdf) from IntraWeb
 
 --
 
@@ -102,16 +103,19 @@ Total Number of Employees: **2,197**
 
 Note:
 
-- Demographic data from Workforce Demographic Profile Q2 2019-2020
-- A-base: 
-- B-base: 
-- Funding source: 2019-2021 IT Plan
+- Demographic data from [Workforce Demographic Profile Q2 2019-2020](http://dialogue/grp/BU6810070/Shared%20Documents/Reference%20Materials/Workforce_Demographic_Profile_Q2_2019-2020.pdf)
+- A-base (ongoing): 
+- B-base (sun-setting, special purpose): 
+- Funding source: [2019-2021 IT Plan](http://dialogue/grp/BU6810070/Shared%20Documents/Reference%20Materials/ESDC%20IT%20Plan%202019-22.pdf)
 
 ---
 
 ## 2. Current IM/IT priorities
 
-Get ready...
+- To Canadians
+- To ESDC
+- To employees
+- Foundational
 
 Note:
 
@@ -267,15 +271,17 @@ Note:
 
 ### What it means
 
-Shared accountability
+_Shared accountability_
 
 - Lines of business must understand the costs and risks associated with technology
 - IT must be able to keep up with business changes
 
 Note:
 
-- Costs and Risks:
-- Keep up with demand: 
+- reduce the space between the user and the IT team working to help her
+- large projects are risky and may spend money where it's not needed
+- what is written in MS Word does not produce warning/errors until they are in systems
+- Keep up with demand: IT must deliver much faster
 
 --
 
@@ -295,9 +301,33 @@ Note:
 
 ### Focused areas of the IT Strategy
 
+- Moving from Project to Product Management
+- 21 DevOps capabilities (DORA), including job satisfaction
+- Adoption of Open Source, as a philosophy
+- Empowering employees
+- Automation to allow staff to focus on meaningful work
+- Enable IITB teams to design for users with users, iterate and improve frequently
+
+Link to [Strategy Map](strategy-summary.html)
+
+Note:
+
+- Product Mgt: This has financial model implication
+- Product Mgt: achieve locality of decisions (loose coupling and independence)
+- DORA: Institute that studies high performing technology organizations
+- Open Source: part of the [Mandate of the new Digital Minster](https://pm.gc.ca/en/mandate-letters/minister-digital-government-mandate-letter)
+- Open Source: can be used to attract talent! and benefit from economies of scale
+
 --
 
-### Focused areas of the IT Strategy
+### Goals
+
+- Get the user _IN_ the development process
+- Continuously learn, automate and improve
+- Reduce lead time for changes and delivery of services/devices
+- Recover faster incidents and errors
+- Reduce frequency of incidents and errors
+- Align with GC IT Direction
 
 --
 
@@ -308,8 +338,6 @@ Note:
 - [IITB's list of Business Relationship Managers](http://dialogue/grp/CRM-GRC/Points%20of%20Contact/Forms/AllItems.aspx)
 - [IT Strategy team's workspace](https://sara-sabr.github.io/ITStrategy)
 - [IT Strategy's Medium Term IT Picture - 2025](it-picture-medium-term.html)
-
-![Table: Current challenges and priorities](assets/images/imit-moving-fwd-strategy.png)
 
 ---
 
