@@ -19,7 +19,7 @@ Employment and Social Development Canada
 
 --
 
-Your workspace (or part of it) is public and participatory.
+Your workspace (or part of it) is public and participatory
 
 Note:
 
@@ -39,9 +39,9 @@ Note:
 
 --
 
-It's not just _Working Out Loud_
+It's not just _working out loud_
 
-You need to enable and encourage contributions!
+You need to enable and encourage contributions
 
 Note:
 
@@ -88,13 +88,11 @@ Note:
 
 By making our collective work discoverable
 
-According to [DORA DevOps Report 2019](https://cloud.google.com/devops/state-of-devops/) (page 63):
+According to [State of DevOps Report 2019](https://cloud.google.com/devops/state-of-devops/) (page 63):
 
-> Feeling productive 
-
-> Strong communities for learning and growing
-
-> And recruiting, an important side benefit
+> - Feeling productive
+> - Strong communities for learning and growing
+> - Recruiting, an important side benefit
 
 Note:
 
@@ -140,9 +138,9 @@ To be agile, in an unpredictable world
 
 ### 5. Increase Quality of Work
 
-> when other people can see your work, you tend to raise your game
+> When other people can see your work, you tend to raise your game
 
-United Kingdom Government Digital Service [blog post](https://gds.blog.gov.uk/2017/09/04/the-benefits-of-coding-in-the-open/)
+UK Government Digital Service [blog post](https://gds.blog.gov.uk/2017/09/04/the-benefits-of-coding-in-the-open/)
 
 Note:
 
@@ -157,10 +155,9 @@ Note:
 
 --
 
-As soon as possible. Now.
+As soon as possible, now
 
-> Don't wait until it's perfect, it never will be  
-> <div style="text-align:left"><i>Anonymous</i></div>
+> Don't wait until it's perfect, it never will be
 
 Note:
 
@@ -219,7 +216,7 @@ Note:
 
 #### Notice
 
-Include a notice with the mention of the licence and trademark
+Include a notice with mention of licence and trademark
 
 --
 
@@ -239,7 +236,7 @@ Include a notice with the mention of the licence and trademark
 
 Include only unclassified material
 
-From recently published [GC OSS Guidance](https://www.canada.ca/en/government/system/digital-government/open-source-software/guide-for-publishing-open-source-code.html#toc03)
+From recently published [GC OSS Guidance](https://www.canada.ca/en/government/system/digital-government/open-source-software/guide-for-publishing-open-source-code.html#toc03):
 
 > - Keep sensitive data such as credentials secure and separate from source code.
 > - Leverage tools and services to automate finding known security vulnerabilities, possible secret keys and personally identifiable information.
@@ -270,7 +267,7 @@ It's still your work, you need to maintain it
 - Single source of truth
 - You control incoming contributions
 
-And when you leave the project at some point, it continues to live!
+And if you leave the project, it continues to live
 
 Note:
 
@@ -285,9 +282,9 @@ Manage the community for your own benefit... and everyone's
 
 <div style="text-align:left">Set expectations:</div>
 
-- _We usually respond within 48 hours_
-- _We don't take contributions at this point, but happy to have you submit suggestions_
 - _Use these templates for contributions_
+- _We usually respond within 48 hours_
+- _We don't take contributions at this point, but we welcome suggestions_
 
 Note:
 
@@ -300,7 +297,9 @@ Note:
 
 #### Help newcomers
 
-Be kind, Be patient, Be inclusive
+- Be kind
+- Be patient
+- Be inclusive
 
 Note:
 
@@ -326,16 +325,20 @@ Note:
 
 #### Community Management
 
+<div style="text-align:left">
+
 - [GCmessage (pilot)](https://message.gccollab.ca/home) - Chat
 - [Slack](https://slack.com/) - Chat (but closed communities)
 - [GCcollab](https://gccollab.ca/splash/) - Forum for communities of practice
+
+</div>
 
 --
 
 #### Pages and Documents
 
 <div style="text-align:left">
-<p>Version control with peer-review</p>
+<p>Version control with peer review</p>
 
 - [GitHub](https://github.com)
 - [GitLab](https://gitlab.com)
@@ -377,9 +380,14 @@ Note:
 
 #### Communications
 
-- [Twitter](https://twitter.com/)
-- Intranet News and Sites
-- [Open Resource Exchange](https://canada-ca.github.io/ore-ero/)
+<div style="text-align:left">
+
+- Intranet sites
+- [GCconnex](https://gcconnex.gc.ca) / [GCcollab](https://gccollab.ca)
+- [Twitter](https://twitter.com)
+- [Open Resource Exchange](https://canada-ca.github.io/ore-ero/) - for source code
+
+</div>
 
 ---
 
@@ -387,37 +395,37 @@ Note:
 
 --
 
-# GitHub Workspace
+### GitHub Workspace
 
 ![GitHub Workspace](assets/images/github-workspace.png)
 
 --
 
-# Team website (automatically generated from Workspace)
+### Team website (automatically generated from Workspace)
 
 ![GitHub Workspace](assets/images/github-workspace.png)
 
 --
 
-# Kanban board for Planning
+### Kanban board for Planning
 
 ![Kanban](assets/images/kanban.png)
 
 --
 
-# Pull Request
+### Pull Request
 
 ![GitHub Workspace](assets/images/pullrequest.png)
 
 --
 
-# Feedback in Pull Request
+### Feedback in Pull Request
 
 ![GitHub Workspace](assets/images/pullrequest-feedback.png)
 
 --
 
-# Automated Checks (Continuous Integration - CI)
+### Automated Checks (Continuous Integration - CI)
 
 - Markdown syntax, spellcheck, hyperlinks..
 
@@ -425,13 +433,13 @@ Note:
 
 --
 
-# Text Editor (Visual Studio Code - free open source)
+### Text Editor (Visual Studio Code - free open source)
 
 ![GitHub Workspace](assets/images/vscode.png)
 
 --
 
-# View changes in text editor
+### View changes in text editor
 
 ![GitHub Workspace](assets/images/vscode-changes.png)
 
@@ -467,15 +475,21 @@ Of projects in the open
 
 ---
 
-# References
+## References
 
-5 principles from article ["Working in the Open: lessons from open source on building innovation networks in education"](https://www.emerald.com/insight/content/doi/10.1108/OTH-05-2016-0025/full/html):
+[Working in the Open: lessons from open source on building innovation networks in education](https://www.emerald.com/insight/content/doi/10.1108/OTH-05-2016-0025/full/html)
+
+<div style="text-align:left">
+
+5 Principles:
 
 - Public storytelling and context setting
 - Enabling community contribution
 - Rapid prototyping “in the wild”
 - Public reflection and documentation
 - Creating remixable work products
+
+</div>
 
 ---
 
