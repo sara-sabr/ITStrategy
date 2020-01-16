@@ -397,7 +397,7 @@ Note:
 
 ### GitHub Workspace
 
-![GitHub Workspace](assets/images/github-workspace.png)
+<img src="assets/images/github-workspace.png"  height="50%" width="50%">
 
 --
 
