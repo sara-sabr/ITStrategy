@@ -405,7 +405,7 @@ Note:
 
 Automatically generated from Workspace
 
-![GitHub Workspace](assets/images/itstrategy-website.png)
+![GitHub Workspace](assets/images/itstrategy-homepage.png)
 
 --
 
