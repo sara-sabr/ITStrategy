@@ -401,9 +401,11 @@ Note:
 
 --
 
-### Team website (automatically generated from Workspace)
+### Team website
 
-![GitHub Workspace](assets/images/github-workspace.png)
+Automatically generated from Workspace
+
+![GitHub Workspace](assets/images/itstrategy-website.png)
 
 --
 
@@ -453,19 +455,27 @@ Of projects in the open
 
 --
 
-[Open Resource Exchange](https://github.com/canada-ca/ore-ero)
+[Open Resource Exchange](https://canada-ca.github.io/ore-ero/en/index.html)
+
+![Open Resource Exchange](assets/images/ore.png)
 
 --
 
-[Algorithmic Impact Assessment](https://github.com/canada-ca/aia-eia-js)
+[Algorithmic Impact Assessment](https://canada-ca.github.io/aia-eia-js/)
+
+![Algorithmic Impact Assessment](assets/images/aia.png)
 
 --
 
-[Web Experience Toolkit (WET)](https://wet-boew.github.io/wet-boew/docs/ref/accolades-en.html)
+[Web Experience Toolkit (WET)](https://wet-boew.github.io/wet-boew/index-en.html)
+
+![Web Experience Toolkit (WET)](assets/images/wet.png)
 
 --
 
-[Drupal-WXT](http://drupalwxt.org)
+[DrupalWXT](http://drupalwxt.org)
+
+![DrupalWXT](assets/images/drupalwxt.png)
 
 --
 
