@@ -475,7 +475,7 @@ Of projects in the open
 
 [DrupalWXT](http://drupalwxt.org)
 
-![DrupalWXT](assets/images/drupalwxt.png)
+![DrupalWXT](assets/images/drupalwxt.jpg)
 
 --
 
