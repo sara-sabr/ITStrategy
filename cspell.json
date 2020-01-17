@@ -279,7 +279,9 @@
     "PPPM",
     "PMLC",
     "onenote",
-    "Kylie"
+    "Kylie",
+    "PGPP",
+    "préapprouvé"
   ],
   "flagWords": [],
   "import": ["./node_modules/cspell-dict-fr-fr/cspell-ext.json"],
