@@ -423,7 +423,7 @@ Automatically generated from Workspace
 
 ### Feedback in Pull Request
 
-<img src="assets/images/pullrequest-feedback.png"  height="90%" width="90%">
+<img src="assets/images/pullrequest-feedback.png"  height="80%" width="80%">
 
 --
 
