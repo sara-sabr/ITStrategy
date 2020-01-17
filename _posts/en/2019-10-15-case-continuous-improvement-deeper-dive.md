@@ -3,7 +3,7 @@ layout: post
 title:  "Case for Continuous Improvement: A Deeper Dive"
 ref: case-continuous-improvement-deeper-dive
 lang: en
-author: "IT Strategy Team"
+author: "Jayson McIntosh, in collaboration with the IT Strategy Team"
 date: "2019-11-13"
 excerpt_separator: <!--more-->
 ---
@@ -163,6 +163,8 @@ This blog post was a blast to write.
 I love applying the rigour math can offer to the real world, so the last section is a call-out to fellow enthusiasts who would enjoy helping me dig deeper into such topics.
 
 Thanks for reading!
+
+*Edited on 2020-01-01: The post was edited to add the main author.*
 
 ## References
 
