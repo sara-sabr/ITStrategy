@@ -77,6 +77,49 @@ Je soutiens que ce n'est qu'une **Hypothèse**.
 Il s'agit essentiellement de demander à l'organisation des fonds et des ressources pour évaluer si des changements dans les systèmes de TI, ou la construction de nouveaux systèmes, amélioreraient la prestation des services aux citoyens.
 Une telle **hypothèse** devrait être validée rapidement afin de réduire tout montant de fonds et d'efforts vers quelque chose qui finit par [ne pas améliorer la prestation de services](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html).
 
+Le cadre de gouvernance actuel ne permet pas au ministère d'arriver au stade du " transfert aux opérations " assez rapidement pour évaluer son hypothèse, car les projets de TI sont trop importants.
+De plus, une fois son hypothèse évaluée, le projet se termine au lieu de permettre une correction de cap basée sur les commentaires des utilisateurs finaux.
+
+Dans un sens, le cadre actuel favorise les décisions d'investissement incorrectes parce qu'il permet aux grands projets de se dérouler pendant trop longtemps sans la boucle de rétroaction des utilisateurs finaux pour valider si de tels investissements en valent la peine.
+Cela va précisément à l'encontre de l'esprit du gouvernement numérique en [étant plus agile, ouvert et axé sur l'utilisateur](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html).
+
+### Responsabilité fiduciaire à l'égard des fonds publics
+
+La Loi sur la gestion des finances publiques contient les deux articles suivants :
+
+alinéa **7 (1) c)**
+
+> 7 (1) Le Conseil du Trésor peut agir au nom du Conseil privé de la Reine pour le Canada à l’égard des questions suivantes
+>
+> (c) la gestion financière, notamment les prévisions budgétaires, les dépenses, les engagements financiers, les comptes, le prix de fourniture de services ou d’usage d’installations, les locations, les permis ou licences, les baux, le produit de la cession de biens, ainsi que les méthodes employées par les ministères pour gérer, inscrire et comptabiliser leurs recettes ou leurs créances;
+
+alinéa **16.4 (1)**
+
+> 16.4 (1) Dans le cadre des attributions du ministre compétent — notamment en ce qui concerne la gestion et la direction du ministère — et de son obligation de rendre compte au Parlement, l’administrateur des comptes visé à la partie I de l’annexe VI est comptable devant les comités compétents du Sénat et de la Chambre des communes :
+> a) des mesures prises pour que les ressources du ministère soient affectées de façon à réaliser les programmes de celui-ci, en conformité avec les règles et méthodes administratives applicables;
+>
+> b) des mesures prises pour que le ministère soit doté de mécanismes de contrôle interne efficaces;
+
+Les trois points mentionnés ci-dessus dans ce blog (promotion des risques, décisions d'investissement incorrectes et dilution de l'empathie envers l'utilisateur final) sont des arguments pour améliorer notre responsabilité fiduciaire envers les fonds publics dans le financement des projets informatiques.
+Nous devons trouver des méthodes qui offrent une façon beaucoup plus simple, rapide et agile de débloquer des fonds pour les projets numériques.
+[D'autres pays, comme l'Australie](https://www.itnews.com.au/news/federal-it-funding-shake-up-floated-by-services-australia-minister-534843) évaluent d'autres modes de financement pour support la transformation numérique, comme
+
+> permettre aux organismes d'essayer des choses, d'apprendre et de mettre à l'échelle ou de partager leurs apprentissages avant que d'importantes sommes d'argent et de capital de réputation ne soient englouties dans des projets qui risquent de ne pas atteindre leurs objectifs.
+
+## Recommandations
+
+Pour remédier aux problèmes mentionnés ci-dessus, je propose ce qui suit :
+
+1. Promouvoir les petits investissements en TI plutôt que les grands comme moyen de réduire l'impact des risques pour l'organisation ;
+2. Traiter chaque projet comme une hypothèse, qui doit être validée par les utilisateurs finaux le plus rapidement possible, ce qui nécessitera invariablement des corrections de trajectoire ;
+3. Mettre beaucoup plus l'accent sur la mesure des résultats que sur les livrables du projet.
+   Cela favorise l'investissement dans [l'architecture d'affaires et la chaîne de valeur ministérielle](http://dialogue/grp/EA-AE/SitePages/dvsmodel.aspx) en utilisant des mesures solides et fiables provenant des secteurs d'activité ;
+4. Traiter les logiciels comme des produits, et non comme des biens matériels.
+   Ils ont besoin d'une source de financement stable et d'équipes dédiées pour permettre un redressement et une évolution de la dette technique en temps opportun.
+   Les équipes devraient être composées non seulement de développeurs mais aussi d'experts en sécurité, en opérations, en tests et en politiques, qui travaillent avec les utilisateurs _réels_ ;
+5. Utiliser des garde-fous architecturaux au lieu de barrières, où l'architecture d'entreprise agit comme une discipline de surveillance en faisant des recommandations pour la correction de la trajectoire afin d'aligner les produits individuels vers l'état d'architecture d'entreprise cible ; et
+6. Adopter la philosophie du logiciel libre qui consiste à [travailler](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html) [ouvertement]({{site.baseurl}}/fr/2019-11-19-travailler-ouvertement-partie-1.md) et à partager votre travail afin de réaliser des économies d'échelle, d'éviter de longues batailles d'approvisionnement, de limiter le blocage des fournisseurs et d'augmenter les possibilités de réutilisation de votre travail.
+
 ## Références
 
 [^1]: Mark Schwartz, [_War and Peace and IT_](https://itrevolution.com/war-and-peace-and-it/), IT Revolution, 2019, page 30
