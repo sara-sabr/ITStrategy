@@ -242,7 +242,7 @@ Note:
 
 ### Technology is ubiquitous
 
-![IT within all the branches](assets/images/imit-moving-fwd-strategy.png)
+![IT within all the branches](assets/images/ESDC_overview_ubiquitous_tech.png)
 
 Note:
 
