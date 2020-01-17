@@ -5,6 +5,7 @@ ref: why-we-are-promoting-risks
 lang: fr
 author: "Rémy Bernard, en collaboration avec l'équipe de Stratégie TI"
 date: "2019-12-20"
+last_updated: "2020-01-20"
 excerpt_separator: <!--more-->
 ---
 
@@ -16,7 +17,8 @@ _Note : Ce blogue fera le lien vers des documents internes de EDSC, qui ne sont 
 
 ## Énoncé du problème
 
-La gouvernance des initiatives TI est nécessaire et nous ne disons nullement que nous devons la supprimer.
+**Avant toute chose, nous tenons à clarifier que la gouvernance des initiatives TI est nécessaire et nous ne proposons nullement qu'elle doit être supprimée.**
+
 Toutefois, les méthodes actuelles visent un haut niveau de prévisibilité en utilisant une planification avancée et une exécution rigide des plans.
 Cela peut fonctionner pour les actifs physiques comme la construction d'une maison, mais pas pour les actifs intangibles - comme les logiciels.
 De plus, la transition vers le gouvernement numérique crée un avenir très complexe et incertain, ce qui, selon certains, exige un moyen différent de régir les investissements en TI : un moyen qui récompense un cycle empirique d'essais, d'observations et de corrections. [^1]
@@ -123,3 +125,11 @@ Pour remédier aux problèmes mentionnés ci-dessus, nous proposons ce qui suit 
 ## Références
 
 [^1]: Mark Schwartz, [_War and Peace and IT_](https://itrevolution.com/war-and-peace-and-it/), IT Revolution, 2019, page 30
+
+## Changements
+
+2020-01-20:
+
+1. Nous avons mis à jour le texte pour refléter le fait que même si nous avons généralement un ou une auteur par billet, l'analyse conduite représente la position de l'ensemble de l'équipe de stratégie TI.
+2. Nous avons mis à jour le texte pour clarifier que l'équipe de stratégie TI crois que la gouvernance est requise pour assurer la conformité au vaste ensemble de lois et de règlements auxquels nous sommes tenus.
+  Nous comprenons que les organisations non gouvernementales ne sont peut-être pas assujetties à autant de règles, mais nous croyons qu'il existe des moyens solides et modernes de demeurer conformes tout en réduisant le risque de gestion des TI au sein du gouvernement.

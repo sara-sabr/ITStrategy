@@ -5,6 +5,7 @@ ref: why-we-are-promoting-risks
 lang: en
 author: "Rémy Bernard, in collaboration with the IT Strategy team"
 date: "2019-12-20"
+last_modified: "2020-01-20"
 excerpt_separator: <!--more-->
 ---
 
@@ -16,7 +17,8 @@ _Note: This blog will link to internal ESDC documents, which are unfortunately o
 
 ## Problem Statement
 
-Governance of IT initiatives is required and we are in no way saying we need to remove it.
+**Before anything, we want to clarify that governance of IT initiatives is required and we are in no way saying it has to be removed.**
+
 However, the current methods seek a high level of predictability using advanced planning and rigid plan execution.
 This may work for physical assets like constructing a house, but not for intangibles -- like software.
 In addition, the transition towards Digital Government is creating a future that is highly complex and uncertain, which is argued requires a different means to govern IT investments: one that rewards an empirical cycle of trying, observing, and correcting. [^1]
@@ -139,3 +141,12 @@ To remediate the above problems, we propose the following:
 ## References
 
 [^1]: Mark Schwartz, [_War and Peace and IT_](https://itrevolution.com/war-and-peace-and-it/), IT Revolution, 2019, page 30
+
+## Edits
+
+2020-01-20:
+
+1. We have updated this post to reflect that while we have a main author by post, the analysis conducted reflects the whole IT Strategy team's position.
+   As such, we have changed the pronouns to the 1st person plural.
+2. We have updated the post to clarify that the IT Strategy team believes that governance is required to ensure compliance with the large set of laws and regulations that we are bound to.
+   We understand that non governmental organizations may not be subject to as many rules but we do believe there are solid and modern ways to remain compliant while reducing the risk of managing IT in the government.
