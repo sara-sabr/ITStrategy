@@ -3,7 +3,7 @@ layout: post
 title:  "Case for Continuous Improvement"
 ref: case-continuous-improvement
 lang: en
-author: "IT Strategy Team"
+author: "Jayson McIntosh, in collaboration with the IT Strategy Team"
 date: "2019-10-15"
 last_modified: "2019-11-13"
 excerpt_separator: <!--more-->
@@ -179,6 +179,8 @@ Thanks for reading!
 
 <!--markdownlint-disable MD036-->
 *Edited on 2019-11-13:The Deeper Dive section has been moved to a following post to shorten the length of this article and the conclusion has been adapted to better represent this new structure.*
+
+*Edited on 2020-01-01: The post was edited to add the main author.*
 <!--markdownlint-enable MD036-->
 
 ## References
