@@ -5,10 +5,11 @@ ref: why-we-are-promoting-risks
 lang: en
 author: "Rémy Bernard, in collaboration with the IT Strategy team"
 date: "2019-12-20"
+last_modified: "2020-01-20"
 excerpt_separator: <!--more-->
 ---
 
-In this blog, I am claiming that our IT initiatives are currently governed in a way that ends up promoting risks instead of reducing them, leading to incorrect investment decisions, diluting our empathy towards end users, and ultimately reducing our ability to meet our fiduciary responsibility towards public funds as required in the [Financial Administration Act](https://laws.justice.gc.ca/eng/acts/F-11/index.html).
+In this blog, we claim that our IT initiatives are currently governed in a way that ends up promoting risks instead of reducing them, leading to incorrect investment decisions, diluting our empathy towards end users, and ultimately reducing our ability to meet our fiduciary responsibility towards public funds as required in the [Financial Administration Act](https://laws.justice.gc.ca/eng/acts/F-11/index.html).
 
 <!--more-->
 
@@ -16,7 +17,8 @@ _Note: This blog will link to internal ESDC documents, which are unfortunately o
 
 ## Problem Statement
 
-Governance of IT initiatives is required and I am in no way saying we need to remove it.
+**Before anything, we want to clarify that governance of IT initiatives is required and we are in no way saying it has to be removed.**
+
 However, the current methods seek a high level of predictability using advanced planning and rigid plan execution.
 This may work for physical assets like constructing a house, but not for intangibles -- like software.
 In addition, the transition towards Digital Government is creating a future that is highly complex and uncertain, which is argued requires a different means to govern IT investments: one that rewards an empirical cycle of trying, observing, and correcting. [^1]
@@ -28,7 +30,7 @@ The [Project Lifecycle framework (PMLC)](https://gpp-ppm.service.gc.ca/sites/pwa
 In the PMLC, an IT project is typically expected to produce between 21 and 39 project management artefacts, would require between 48 and 60 project management activities, and would involve 16 stakeholders.
 Note that in the 16 stakeholders only 5 of them are from the IT Branch (though in reality it's much more than this as I'll explain later).
 
-I argue that this method of managing funds for IT initiatives does the following:
+We argue that this method of managing funds for IT initiatives does the following:
 
 - promotes risks instead of reducing them;
 - results in incorrect investment decisions;
@@ -73,7 +75,7 @@ No amount of advanced planning can completely uncover these unknowns due to the 
 
 These **end-user demands** are what we include in the **Business Case** project artefacts (following the "business needs" and "identify strategic alignment" project activities).
 But what is a Business Case?
-I argue it's but a **Hypothesis**.
+We argue it's but a **Hypothesis**.
 It is essentially asking the organization for funds and resources to evaluate whether changes in IT systems, or building new ones, would improve service delivery to citizens.
 Such **hypothesis** should be validated quickly in order to reduce any amount of funds and efforts towards something that ends up [not improving service delivery](https://sencanada.ca/content/sen/committee/421/NFFN/reports/NFFN_Phoenix_Report_32_WEB_e.pdf).
 
@@ -124,7 +126,7 @@ We must find methods that provides a much simpler, faster, and agile way of rele
 
 ## Recommendations
 
-To remediate the above problems, I propose the following:
+To remediate the above problems, we propose the following:
 
 1. Promote smaller IT investments over large ones as a means to reduce risk impact to the organization;
 2. Treat every project as a hypothesis, one that must be validated by end users as fast as possible, which will invariably require course corrections;
@@ -139,3 +141,12 @@ To remediate the above problems, I propose the following:
 ## References
 
 [^1]: Mark Schwartz, [_War and Peace and IT_](https://itrevolution.com/war-and-peace-and-it/), IT Revolution, 2019, page 30
+
+## Edits
+
+2020-01-20:
+
+1. We have updated this post to reflect that while we have a main author by post, the analysis conducted reflects the whole IT Strategy team's position.
+   As such, we have changed the pronouns to the 1st person plural.
+2. We have updated the post to clarify that the IT Strategy team believes that governance is required to ensure compliance with the large set of laws and regulations that we are bound to.
+   We understand that non governmental organizations may not be subject to as many rules but we do believe there are solid and modern ways to remain compliant while reducing the risk of managing IT in the government.

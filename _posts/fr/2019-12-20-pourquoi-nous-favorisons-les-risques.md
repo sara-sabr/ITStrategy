@@ -5,10 +5,11 @@ ref: why-we-are-promoting-risks
 lang: fr
 author: "Rémy Bernard, en collaboration avec l'équipe de Stratégie TI"
 date: "2019-12-20"
+last_updated: "2020-01-20"
 excerpt_separator: <!--more-->
 ---
 
-Dans ce blogue, je prétends que nos initiatives TI sont actuellement gérées d'une manière qui finit par favoriser les risques au lieu de les réduire, ce qui entraîne des décisions d'investissement incorrectes, dilue notre empathie envers les utilisateurs finaux et, en fin de compte, réduit notre capacité de respecter notre responsabilité fiduciaire envers les fonds publics, comme l'exige la [Loi sur la gestion des finances publiques](https://laws.justice.gc.ca/fra/lois/F-11/index.html)
+Dans ce blogue, nous prétendons que nos initiatives TI sont actuellement gérées d'une manière qui finit par favoriser les risques au lieu de les réduire, ce qui entraîne des décisions d'investissement incorrectes, dilue notre empathie envers les utilisateurs finaux et, en fin de compte, réduit notre capacité de respecter notre responsabilité fiduciaire envers les fonds publics, comme l'exige la [Loi sur la gestion des finances publiques](https://laws.justice.gc.ca/fra/lois/F-11/index.html)
 
 <!--more-->
 
@@ -16,7 +17,8 @@ _Note : Ce blogue fera le lien vers des documents internes de EDSC, qui ne sont 
 
 ## Énoncé du problème
 
-La gouvernance des initiatives TI est nécessaire et je ne dis nullement que nous devons la supprimer.
+**Avant toute chose, nous tenons à clarifier que la gouvernance des initiatives TI est nécessaire et nous ne proposons nullement qu'elle doit être supprimée.**
+
 Toutefois, les méthodes actuelles visent un haut niveau de prévisibilité en utilisant une planification avancée et une exécution rigide des plans.
 Cela peut fonctionner pour les actifs physiques comme la construction d'une maison, mais pas pour les actifs intangibles - comme les logiciels.
 De plus, la transition vers le gouvernement numérique crée un avenir très complexe et incertain, ce qui, selon certains, exige un moyen différent de régir les investissements en TI : un moyen qui récompense un cycle empirique d'essais, d'observations et de corrections. [^1]
@@ -26,9 +28,9 @@ Cette politique fait autorité en matière de gestion de tous les projets et pro
 Le [cadre du cycle de vie de projet](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/2-05G-271F_-v4.pdf) (CCVP) est utilisé pour guider la gestion de projets, en fonction de leur classification par taille (qui est basée sur le coût, le risque, la capacité et la complexité, bien qu'il soit juste de dire que la variable coût a plus de poids que les autres).
 
 Dans le CCVP, un projet TI est généralement censé produire entre 21 et 39 artefacts de gestion de projet, nécessiter entre 48 et 60 activités de gestion de projet, et impliquer 16 intervenants.
-Il faut noter que parmi les 16 intervenants, seulement 5 d'entre eux proviennent de la Direction de la TI (bien qu'en réalité, il s'agisse de beaucoup plus que cela, comme je l'expliquerai plus tard).
+Il faut noter que parmi les 16 intervenants, seulement 5 d'entre eux proviennent de la Direction de la TI (bien qu'en réalité, il s'agisse de beaucoup plus que cela, comme nous l'expliquerons plus tard).
 
-Je soutiens que cette méthode de gestion des fonds pour les initiatives TI permet d'obtenir les résultats suivants :
+Nous soutenons que cette méthode de gestion des fonds pour les initiatives TI permet d'obtenir les résultats suivants :
 
 - favoriser les risques au lieu de les réduire ;
 - entraîner des décisions d'investissement incorrectes ;
@@ -73,7 +75,7 @@ Aucune planification avancée ne peut complètement découvrir ces inconnues en 
 
 Ces **demandes de l'utilisateur final** sont ce que nous incluons dans les artefacts du projet **Analyse de rentabilisation** (en suivant les activités du projet "besoins d'affaires" et "établir l'harmonisation stratégique").
 Mais qu'est-ce qu'une Analyse de rentabilisation ?
-Je soutiens que ce n'est qu'une **Hypothèse**.
+Nous soutenons que ce n'est qu'une **Hypothèse**.
 Il s'agit essentiellement de demander à l'organisation des fonds et des ressources pour évaluer si des changements dans les systèmes TI, ou la construction de nouveaux systèmes, amélioreraient la prestation des services aux citoyens.
 Une telle **hypothèse** devrait être validée rapidement afin de réduire tout investissement d'argent ou d'efforts vers quelque chose qui finit par [ne pas améliorer la prestation de services](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html).
 
@@ -108,7 +110,7 @@ Nous devons trouver des méthodes qui offrent une façon beaucoup plus simple, r
 
 ## Recommandations
 
-Pour remédier aux problèmes mentionnés ci-dessus, je propose ce qui suit :
+Pour remédier aux problèmes mentionnés ci-dessus, nous proposons ce qui suit :
 
 1. Promouvoir les petits investissements en TI plutôt que les grands comme moyen de réduire l'impact des risques pour l'organisation;
 2. Traiter chaque projet comme une hypothèse, qui doit être validée par les utilisateurs finaux le plus rapidement possible, ce qui nécessitera invariablement des corrections de trajectoire;
@@ -123,3 +125,11 @@ Pour remédier aux problèmes mentionnés ci-dessus, je propose ce qui suit :
 ## Références
 
 [^1]: Mark Schwartz, [_War and Peace and IT_](https://itrevolution.com/war-and-peace-and-it/), IT Revolution, 2019, page 30
+
+## Changements
+
+2020-01-20:
+
+1. Nous avons mis à jour le texte pour refléter le fait que même si nous avons généralement un ou une auteur par billet, l'analyse conduite représente la position de l'ensemble de l'équipe de stratégie TI.
+2. Nous avons mis à jour le texte pour clarifier que l'équipe de stratégie TI crois que la gouvernance est requise pour assurer la conformité au vaste ensemble de lois et de règlements auxquels nous sommes tenus.
+  Nous comprenons que les organisations non gouvernementales ne sont peut-être pas assujetties à autant de règles, mais nous croyons qu'il existe des moyens solides et modernes de demeurer conformes tout en réduisant le risque de gestion des TI au sein du gouvernement.
