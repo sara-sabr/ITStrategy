@@ -405,25 +405,25 @@ Note:
 
 Automatically generated from Workspace
 
-![GitHub Workspace](assets/images/itstrategy-homepage.png)
+<img src="assets/images/itstrategy-homepage.png"  height="80%" width="80%">
 
 --
 
 ### Kanban board for Planning
 
-![Kanban](assets/images/kanban.png)
+<img src="assets/images/kanban.png"  height="90%" width="90%">
 
 --
 
 ### Pull Request
 
-![GitHub Workspace](assets/images/pullrequest.png)
+<img src="assets/images/pullrequest.png"  height="90%" width="90%">
 
 --
 
 ### Feedback in Pull Request
 
-![GitHub Workspace](assets/images/pullrequest-feedback.png)
+<img src="assets/images/pullrequest-feedback.png"  height="90%" width="90%">
 
 --
 
@@ -457,25 +457,25 @@ Of projects in the open
 
 [Open Resource Exchange](https://canada-ca.github.io/ore-ero/en/index.html)
 
-![Open Resource Exchange](assets/images/ore.png)
+<img src="assets/images/ore.png"  height="80%" width="80%">
 
 --
 
 [Algorithmic Impact Assessment](https://canada-ca.github.io/aia-eia-js/)
 
-![Algorithmic Impact Assessment](assets/images/aia.png)
+<img src="assets/images/aia.png"  height="80%" width="80%">
 
 --
 
 [Web Experience Toolkit (WET)](https://wet-boew.github.io/wet-boew/index-en.html)
 
-![Web Experience Toolkit (WET)](assets/images/wet.png)
+<img src="assets/images/wet.png"  height="80%" width="80%">
 
 --
 
 [DrupalWXT](http://drupalwxt.org)
 
-![DrupalWXT](assets/images/drupalwxt.jpg)
+<img src="assets/images/drupalwxt.jpg"  height="80%" width="80%">
 
 --
 
@@ -485,7 +485,7 @@ Of projects in the open
 
 ---
 
-## References
+## Reference
 
 [Working in the Open: lessons from open source on building innovation networks in education](https://www.emerald.com/insight/content/doi/10.1108/OTH-05-2016-0025/full/html)
 
