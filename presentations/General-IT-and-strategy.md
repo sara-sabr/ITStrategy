@@ -247,7 +247,7 @@ Note:
 Note:
 
 - Show the image at the beginning of the presentation
-- The proportion of IT in the department does not reflect a single branch
+- The proportion of IT in the department does not reflect a single branch, technology is everywhere
 
 ---
 
@@ -260,10 +260,10 @@ Note:
 Note:
 
 - Many external forces:
-  - upcoming TB Policy on Service and Digital
-  - GC Digital Operations Strategic Plan
-  - OneGC Vision
-  - BDM
+  - upcoming [TB Policy on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603)
+  - [GC Digital Operations Strategic Plan](https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html)
+  - [OneGC Vision](https://gccollab.ca/groups/profile/154708/enonegc-ungcfrungc)
+  - [BDM](http://esdc.prv/en/intersection/2019/10/tr1_10-21_1571928232401.shtml)
 
 ### Focus of the IT Strategy
 
@@ -272,10 +272,12 @@ _Change the relationship IT has with "The Business"_
 - From a **contracting** model one
 - To a **partnership** one
 
+_We are all on the same team, looking to solve problems_
+
 Note:
 
 - Contracting: expects business requirements and we deliver on requirements
-- Partnership: we are one team trying to solve a problem
+- Partnership: we are one team looking to solve a problem
 
 --
 
