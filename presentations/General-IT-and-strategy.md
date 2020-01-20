@@ -24,8 +24,7 @@ Innovation, Information, and Technology Branch
 
 Note:
 
-- Why am I showing you this?
-- You will understand later
+- Why am I showing you this? Wait a bit... (will highlight how technology is ubiquitous)
 
 ### IITB's Vision Statement
 
@@ -34,6 +33,8 @@ _Powered by innovative thinking and approaches, delivering efficient, reliable a
 Note:
 
 - We are working towards that vision
+- Legacy technology, changing of priorities, and current organizational structure make this challenging
+- IT Strategy is looking to help the branch get to this vision
 
 ### Stuff that we do
 
@@ -50,10 +51,10 @@ source: [Business model for IITB](http://esdc.prv/en/iitb/corporate/Who_We_Are/O
 EXAMPLES:
 
 - Enterprise Architecture = align IM/IT investments with Business priorities
-- Desktop, mobile computers and smartphones
-- Softwares (including procurement)
-- Storage, network, telephony infrastructure (SSC
-- Security accreditations
+- IT solutions = Softwares (including procurement), Portals, corporate systems like HR and Finance
+- Comms services = Storage, network, telephony infrastructure (SSC)
+- Workplace Tech = Desktop, mobile computers and smartphones
+- IM/IT sec services = Security accreditations, accessibility, meet Government regulations
 
 --
 
@@ -62,11 +63,13 @@ EXAMPLES:
 - Other Government of Canada departments (CRA, IRCC, SSC, TBS, PSPC)
 - Provinces and Territories
 - Suppliers (e.g. Xerox)
-- Advisors (Gartner, Deloitte)
+- Advisors (Gartner, Deloitte, [DORA](https://cloud.google.com/devops/))
 
 --
 
 ### What it all rolls up to
+
+IITB manages:
 
 - 91 active (or on hold) projects
 - 500 applications, 101 mission critical
@@ -82,7 +85,7 @@ Note:
 
 ### View from within
 
-![the 6 districts within IITB](assets/images/imit-moving-fwd-strategy.png)
+![the 6 districts within IITB](assets/images/IITB_org_overview.png)
 
 Note:
 
