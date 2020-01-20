@@ -47,7 +47,7 @@ Note:
 - Information Management (IM) & IT Security services
 - IM/IT Program Management Services
 
-Notes:
+Note:
 
 source: [Business model for IITB](http://esdc.prv/en/iitb/corporate/Who_We_Are/Organizational_Structure/organizational_model.shtml)
 EXAMPLES:
@@ -221,7 +221,7 @@ Foundational:
   - Cloud
   - Innovation (proof of concepts)
 
-Note
+Note:
 
 - e.g. PoC: grassroots innovation program, chatbot, acceleration hub, co-design with citizens
 - On Technical Debt: Corporate Risk Profile identified IT as its #1 risk (age of systems)
