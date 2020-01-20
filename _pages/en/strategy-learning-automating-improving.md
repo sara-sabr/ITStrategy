@@ -27,18 +27,18 @@ All IITB teams must:
 ##### Learn
 
 - Stay up to date on trends and technologies inside and outside the GC
-- Learn new tools, technologies or methodologies (Containers, Cloud, Agile, DevOps, ..)
+- Learn new tools, technologies or methodologies (Containers, Cloud, Agile, DevOps, ..), locally or in public cloud sandboxes
 - Read books, articles or documentation
-- Take courses online or in person
+- Take courses online (including MOOCs - massive open online courses) or in person
 - Attend events or conferences
 - Go on assignments/micro missions across ESDC functional/business unit as well as outside ESDC
 - Attend IITB showcase, Dev CoP, dojos or other learning opportunities within IITB and ESDC
 - Participate in "Innovation" at ESDC and Innovation Lab design sessions
+- Explore data science opportunities with ESDC Chief Data Office (CDO)
 - Setup a recurring time to share knowledge with colleagues within your team (small, 5-10 people)
 - Find/become a mentor/coach
-- Join groups and participate in discussions on GCconnex and GCcollab
+- Join groups and participate in discussions on GCconnex/GCcollab, as well as external communities
 - Take part in Service Canada staff training
-- Complete mandatory training
 - Register for training/events offered by ESDC and CSPS
 
 ##### Improve
@@ -48,7 +48,7 @@ All IITB teams must:
 - Show improvement based on metrics
 - Review existing processes and governance structure
 - Identify issues and raise them to your manager or as Grassroots initiatives or Proof of concepts
-- Automate repetitive manual tasks where possible
+- Automate repetitive manual tasks where possible, at the team and individual level
 
 ### Goals
 
