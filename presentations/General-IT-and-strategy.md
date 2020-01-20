@@ -103,15 +103,12 @@ Note:
 
 Total Number of Employees in IITB: **2,197**
 
-- NCR: 62.4%
-- Western Canada & Territories: 6.7$
-- Ontario: 12.8%
-- Quebec: 8.8%
-- Atlantic: 9.4%
+![IITB Workforce Distribution in the country](assets/images/IITB_workforce_distribution.png)
 
 Note:
 
 - Demographic data from [Workforce Demographic Profile Q2 2019-2020](http://dialogue/grp/BU6810070/Shared%20Documents/Reference%20Materials/Workforce_Demographic_Profile_Q2_2019-2020.pdf)
+- Western Canada & Territories: 6.7%, Ontario: 12.8%, Quebec: 8.8%, NCR: 62.4%, Atlantic: 9.4%
 - A-base (ongoing):
 - B-base (sun-setting, special purpose):
 - Funding source: [2019-2021 IT Plan](http://dialogue/grp/BU6810070/Shared%20Documents/Reference%20Materials/ESDC%20IT%20Plan%202019-22.pdf)
