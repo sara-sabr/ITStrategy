@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Strategy - Continuous Learning, Automation and Improvement
+title: Strategy - Continuous Learning and Improvement
 ref: strategy-q1-2020
 lang: en
 status: posted
@@ -8,7 +8,7 @@ sections: Ready For Use
 permalink: /strategy-learning-automating-improving.html
 ---
 
-## Strategy - Continuous Learning, Automation and Improvement
+## Strategy - Continuous Learning and Improvement
 
 The following actions apply for the 1st quarter of the 2020-2021 fiscal year.
 Strategies and actions will be reviewed and updated quarterly based on current progress and following the Strategy Map (layering on the strategies).
@@ -20,15 +20,14 @@ Strategies and actions will be reviewed and updated quarterly based on current p
 
 All IITB teams must:
 
-#### Use 20% of time to learn, automate and improve
+#### Use 20% of time to learn and improve
 
 <!-- markdownlint-disable MD033 -->
 
 | Action | Guidance |
 |--------|----------|
-| **Learn** | - Read, take courses, attend events and conferences<br /> - Stay up to date on trends and technologies<br /> - Encourage assignments with CDS-ESDC team or CSPS<br /> - Share knowledge with colleagues (IITB showcase, Dev CoP, GCconnex, GCcollab, ..)<br /> - Peer coaching <br /> - Show and tell across the teams |
-| **Automate** | - Automate where possible |
-| **Improve processes** | - Review existing processes and governance structure |
+| **Learn** | - Read, take courses, attend events and conferences<br /> - Stay up to date on trends and technologies<br /> - Encourage assignments with CDS-ESDC team or CSPS<br /> - Share knowledge with colleagues (IITB showcase, Dev CoP, GCconnex, GCcollab, ..)<br /> - Peer coaching<br /> - Show and tell across the teams |
+| **Improve processes** | - Review existing processes and governance structure<br /> - Automate where possible |
 | **Show progress** | - Gather metrics for things your team works on |
 
 <!-- markdownlint-enable MD033 -->
@@ -37,7 +36,7 @@ All IITB teams must:
 
 ### Goals
 
-- Continuously learn, automate and improve
+- Continuously learn and improve
 - Reduce lead time for changes and delivery of services/devices
 - Recover faster incidents and errors
 - Reduce frequency of incidents and errors
