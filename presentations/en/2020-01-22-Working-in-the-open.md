@@ -397,7 +397,7 @@ Note:
 
 ### GitHub Workspace
 
-<img src="assets/images/github-workspace.png"  height="80%" width="80%">
+<img src="assets/images/github-workspace.png"  height="75%" width="75%">
 
 --
 
@@ -457,7 +457,7 @@ Of projects in the open
 
 [Open Resource Exchange](https://canada-ca.github.io/ore-ero/en/index.html)
 
-<img src="assets/images/ore.png"  height="80%" width="80%">
+<img src="assets/images/ore.png"  height="75%" width="75%">
 
 --
 
