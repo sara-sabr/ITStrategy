@@ -290,8 +290,9 @@ _Shared accountability_
 
 Note:
 
-- reduce the space between the user and the IT team working to help her
+- What business problem(s), specifically, do we think investment in technology will solve?
 - large projects are risky and may spend money where it's not needed
+- reduce the space between the user and the IT team working to help her
 - what is written in MS Word does not produce warning/errors until they are in systems
 - Keep up with demand: IT must deliver much faster
 
@@ -313,10 +314,10 @@ Note:
 
 ### Focused areas of the IT Strategy
 
+- Increase responsiveness of IT
 - Moving from Project to Product Management
 - 21 DevOps capabilities (DORA), including job satisfaction
 - Adoption of Open Source, as a philosophy
-- Empowering employees
 - Automation to allow staff to focus on meaningful work
 - Enable IITB teams to design for users with users, iterate and improve frequently
 
@@ -324,11 +325,13 @@ Link to [Strategy Map](strategy-summary.html)
 
 Note:
 
+- Responsiveness: using cloud technologies and automation. Goal to have daily releases to production
 - Product Mgt: This has financial model implication
-- Product Mgt: achieve locality of decisions (loose coupling and independence)
+- Product Mgt: achieve locality of decisions (loose coupling and independence) to increase responsiveness
 - DORA: Institute that studies high performing technology organizations
 - Open Source: part of the [Mandate of the new Digital Minster](https://pm.gc.ca/en/mandate-letters/minister-digital-government-mandate-letter)
 - Open Source: can be used to attract talent! and benefit from economies of scale
+- IT investments: reduce risks to the organization, treating business cases like a hypothesis
 
 --
 
@@ -340,6 +343,10 @@ Note:
 - Recover faster incidents and errors
 - Reduce frequency of incidents and errors
 - Align with GC IT Direction
+
+Note:
+
+- GC IT Direction: Policy on Service and Digital, Digital Standards, Digital Strategic Operation Plan
 
 --
 
