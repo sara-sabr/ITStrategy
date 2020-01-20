@@ -281,7 +281,8 @@
     "onenote",
     "Kylie",
     "PGPP",
-    "préapprouvé"
+    "préapprouvé",
+    "Moocs"
   ],
   "flagWords": [],
   "import": ["./node_modules/cspell-dict-fr-fr/cspell-ext.json"],
