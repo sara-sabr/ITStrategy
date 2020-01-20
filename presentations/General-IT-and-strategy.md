@@ -132,7 +132,7 @@ Note:
   - Foundational
 - Source from ESDC IT Plan 2019-2022
 
-## ~Corporate Propaganda~ Departmental IM/IT Priorities
+## Departmental IM/IT Priorities
 
 To Canadians:
 
