@@ -13,6 +13,15 @@ Employment and Social Development Canada
 
 </div>
 
+Note:
+
+- Been involved in Open Source Software for a long time. Open communities are the basis, but never worked in the open before.
+- Until I joined the IT Strategy team
+- Will share with you my experience and:
+  - WHAT is Working in the Open
+  - WHY you should work in the open
+  - And HOW you should do it
+
 ---
 
 ## What
@@ -397,7 +406,7 @@ Note:
 
 ### GitHub Workspace
 
-<img src="assets/images/github-workspace.png"  height="75%" width="75%">
+<img src="assets/images/github-workspace.png" height="75%" width="75%">
 
 --
 
@@ -405,25 +414,25 @@ Note:
 
 Automatically generated from Workspace
 
-<img src="assets/images/itstrategy-homepage.png"  height="80%" width="80%">
+<img src="assets/images/itstrategy-homepage.png" height="80%" width="80%">
 
 --
 
 ### Kanban board for Planning
 
-<img src="assets/images/kanban.png"  height="90%" width="90%">
+<img src="assets/images/kanban.png" height="90%" width="90%">
 
 --
 
 ### Pull Request
 
-<img src="assets/images/pullrequest.png"  height="90%" width="90%">
+<img src="assets/images/pullrequest.png" height="90%" width="90%">
 
 --
 
 ### Feedback in Pull Request
 
-<img src="assets/images/pullrequest-feedback.png"  height="75%" width="75%">
+<img src="assets/images/pullrequest-feedback.png" height="75%" width="75%">
 
 --
 
@@ -431,19 +440,19 @@ Automatically generated from Workspace
 
 - Markdown syntax, spellcheck, hyperlinks..
 
-![GitHub Workspace](assets/images/CI.png)
+<img src="assets/images/CI.png" height="100%" width="100%">
 
 --
 
 ### Text Editor (Visual Studio Code - free open source)
 
-![GitHub Workspace](assets/images/vscode.png)
+<img src="assets/images/vscode.png" height="90%" width="90%">
 
 --
 
 ### View changes in text editor
 
-![GitHub Workspace](assets/images/vscode-changes.png)
+<img src="assets/images/vscode-changes.png" height="100%" width="100%">
 
 ---
 
@@ -457,31 +466,31 @@ Of projects in the open
 
 [Open Resource Exchange](https://canada-ca.github.io/ore-ero/en/index.html)
 
-<img src="assets/images/ore.png"  height="75%" width="75%">
+<img src="assets/images/ore.png" height="75%" width="75%">
 
 --
 
 [Algorithmic Impact Assessment](https://canada-ca.github.io/aia-eia-js/)
 
-<img src="assets/images/aia.png"  height="80%" width="80%">
+<img src="assets/images/aia.png" height="80%" width="80%">
 
 --
 
 [Web Experience Toolkit (WET)](https://wet-boew.github.io/wet-boew/index-en.html)
 
-<img src="assets/images/wet.png"  height="80%" width="80%">
+<img src="assets/images/wet.png" height="80%" width="80%">
 
 --
 
 [DrupalWXT](http://drupalwxt.org)
 
-<img src="assets/images/drupalwxt.jpg"  height="80%" width="80%">
+<img src="assets/images/drupalwxt.jpg" height="80%" width="80%">
 
 --
 
 [Linux Kernel](https://github.com/torvalds/linux)
 
-![Linux Kernel Contributors](assets/images/oss-linux.png)
+<img src="assets/images/oss-linux.png" height="100%" width="100%">
 
 ---
 
