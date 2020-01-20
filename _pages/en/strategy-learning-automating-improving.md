@@ -26,9 +26,8 @@ All IITB teams must:
 
 | Action | Guidance |
 |--------|----------|
-| **Learn** | - Read, take courses, attend events and conferences<br /> - Stay up to date on trends and technologies<br /> - Encourage assignments with CDS-ESDC team or CSPS<br /> - Share knowledge with colleagues (IITB showcase, Dev CoP, GCconnex, GCcollab, ..)<br /> - Peer coaching<br /> - Show and tell across the teams |
-| **Improve processes** | - Review existing processes and governance structure<br /> - Automate where possible |
-| **Show progress** | - Gather metrics for things your team works on |
+| **Learn** | - Stay up to date on trends and technologies<br > - Learn new tools, technologies or methodologies (Containers, Cloud, Agile, DevOps, ..)<br > - Read books, articles or documentation<br > - Take courses online or in person<br > - Attend events or conferences<br > - Go on assignments/micro missions across ESDC functional/business unit as well as outside ESDC<br > - Attend IITB showcase, Dev CoP, dojos or other learning opportunities within IITB and ESDC<br > - Participate in "Innovation" at ESDC and Innovation Lab design sessions<br > - Setup a recurring time to share knowledge with colleagues within your team (small, 5-10 people)<br > - Find/become a mentor/coach<br > - Join groups and participate in discussions on GCconnex and GCcollab<br > - Take part in Service Canada staff training<br > - Complete mandatory training<br > - Register for training/events offered by ESDC and CSPS |
+| **Improve** | - Define definition of improvement and objectives for your team<br > - Gather metrics (ex.: start and end date) for things your team works on<br > - Show improvement based on metrics<br > - Review existing processes and governance structure<br > - Identify issues and raise them to your manager or as Grassroots initiatives or Proof of concepts<br > - Automate repetitive manual tasks where possible |
 
 <!-- markdownlint-enable MD033 -->
 
