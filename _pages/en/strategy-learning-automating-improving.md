@@ -43,7 +43,8 @@ All IITB teams must:
 
 ##### Improve
 
-- Define definition of improvement and objectives for your team
+- Understand teams performance levels and set realistic goals
+- Identify gaps in your daily work performance and establish improvement priorities
 - Gather metrics (ex.: start and end date) for things your team works on
 - Show improvement based on metrics
 - Review existing processes and governance structure
