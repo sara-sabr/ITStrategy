@@ -18,13 +18,13 @@ Innovation, Information, and Technology Branch
 
 ## 1. Context within ESDC
 
-### IITB within ESDC
-
 ![IIT branch in relation to the others](assets/images/ESDC_overview.png)
 
 Note:
 
 - Why am I showing you this? Wait a bit... (will highlight how technology is ubiquitous)
+
+--
 
 ### IITB's Vision Statement
 
@@ -35,6 +35,8 @@ Note:
 - We are working towards that vision
 - Legacy technology, changing of priorities, and current organizational structure make this challenging
 - IT Strategy is looking to help the branch get to this vision
+
+--
 
 ### Stuff that we do
 
@@ -117,20 +119,22 @@ Note:
 
 ## 2. Current IM/IT priorities
 
-- To Canadians
-- To ESDC
-- To employees
-- Foundational
+- To Canadians (18)
+- To ESDC (12)
+- To employees (8)
+- Foundational (8)
 
 Note:
 
 - The following 5 slides are to get some empathy from our ESDC colleagues
-- 28 priorities devided into 4 categories:
+- 46 priorities devided into 4 categories:
   - To Canadians
   - To ESDC
   - To employees
   - Foundational
 - Source from ESDC IT Plan 2019-2022
+
+--
 
 ## Departmental IM/IT Priorities
 
@@ -240,6 +244,8 @@ Note:
 - attrition: average age is 45.8, and 10.9% eligible to retire in next 5 years
 - IITB Way Forward: 26 service improvement and internal modernization activities to improve our service offerings
 
+--
+
 ### Technology is ubiquitous
 
 ![IT within all the branches](assets/images/ESDC_overview_ubiquitous_tech.png)
@@ -264,6 +270,8 @@ Note:
   - [GC Digital Operations Strategic Plan](https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html)
   - [OneGC Vision](https://gccollab.ca/groups/profile/154708/enonegc-ungcfrungc)
   - [BDM](http://esdc.prv/en/intersection/2019/10/tr1_10-21_1571928232401.shtml)
+
+--
 
 ### Focus of the IT Strategy
 
