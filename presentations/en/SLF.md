@@ -153,7 +153,7 @@ Note:
 
 ### Goals
 
-- Continuously learn, automate and improve
+- Continuously learn and improve
 - Reduce lead time for changes and delivery of services/devices
 - Recover faster incidents and errors
 - Reduce frequency of incidents and errors
@@ -163,10 +163,11 @@ Note:
 
 ### Q1 (2020-04) strategies and actions
 
-> **Use 20% of time to Learn, Automate and Improve**
+> **Use 20% of time to Learn and Improve**
 
 - Use CATS codes for continuous improvement
-- Gather metrics for things your teams work on - show progress
+- Gather metrics (ex.: start and end date) for things your team works on
+- Show improvement based on metrics, the Goals and your team's mandate
 
 [Q1 Strategies and Actions](strategy-learning-automating-improving.html)
 
