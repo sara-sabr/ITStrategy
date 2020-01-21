@@ -43,7 +43,7 @@ Note:
 - Enterprise Architecture
 - IT Solutions
 - Communication services
-- Workplace Technology (e.g. Service Desk)
+- Workplace Technology (e.g., Service Desk)
 - Information Management (IM) & IT Security services
 - IM/IT Program Management Services
 
@@ -64,7 +64,7 @@ EXAMPLES:
 
 - Other Government of Canada departments (CRA, IRCC, SSC, TBS, PSPC)
 - Provinces and Territories
-- Suppliers (e.g. Xerox)
+- Suppliers (e.g., Xerox)
 - Advisors (Gartner, Deloitte, [DORA](https://cloud.google.com/devops/))
 
 --
@@ -76,7 +76,7 @@ IITB manages:
 - 91 active (or on hold) projects
 - 500 applications, 101 mission critical
 - XX 1,400 upgrades/changes annually
-- XX 320,000 service requests annally
+- XX 320,000 service requests annually
 
 Note:
 
@@ -92,7 +92,7 @@ Note:
 Note:
 
 - Demographic source (Workforce Demographic Profile Q2 2019-2020)
-- Planning: internal branch workforce (HR, Finance, Accomodations), audit, policy compliance. E.g. new ESDC employee affects our forecasts
+- Planning: internal branch workforce (HR, Finance, Accomodations), audit, policy compliance. E.g., new ESDC employee affects our forecasts
 - SABR: architecture, business relations, STRATEGY, R&D, PMO
 - Enterprise Ops: the ones that get woken up at night. Desktops, Service Desk, IT Security, Accessibility, SSC
 - BSIM: IM, ESDC Portal, Mobile, Interoperability
@@ -224,10 +224,10 @@ Foundational:
 Note:
 
 - See [IITB Newsletter for Network modernization](http://esdc.prv/en/iitb/corporate/news/2019/20200120.shtml#h1)
-  - Targetted network fix now (end-user experience, infrastructure, data centers, the North)
+  - Targeted network fix now (end-user experience, infrastructure, data centres, the North)
   - Boost 11 OAS processing centres across the country
   - Rebuilding the ESDC network to support future needs (for mobile and cloud)
-- e.g. PoC: grassroots innovation program, chatbot, acceleration hub, co-design with citizens
+- e.g., PoC: grassroots innovation program, chatbot, acceleration hub, co-design with citizens
 - On Technical Debt: Corporate Risk Profile identified IT as its #1 risk (age of systems)
 
 --
@@ -236,7 +236,7 @@ Note:
 
 - Sustainability Plan
 - Upkeep of existing systems throughout their life cycle
-- Build capacity for new technologies (e.g. Cloud)
+- Build capacity for new technologies (e.g., Cloud)
 - Attracting and retaining talent (attrition)
 - [IITB Way Forward](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx)
 
@@ -340,8 +340,8 @@ Note:
 - Responsiveness: using cloud technologies and automation. Goal to have daily releases to production
 - Product Mgt: This has financial model implication
 - Product Mgt: achieve locality of decisions (loose coupling and independence) to increase responsiveness
-- DORA: Institute that studies high performing technology organizations
-- Open Source: part of the [Mandate of the new Digital Minster](https://pm.gc.ca/en/mandate-letters/minister-digital-government-mandate-letter)
+- DORA: Institute that studies high-performing technology organizations
+- Open Source: part of the [Mandate of the new Digital Minister](https://pm.gc.ca/en/mandate-letters/minister-digital-government-mandate-letter)
 - Open Source: can be used to attract talent! and benefit from economies of scale
 - IT investments: reduce risks to the organization, treating business cases like a hypothesis
 
