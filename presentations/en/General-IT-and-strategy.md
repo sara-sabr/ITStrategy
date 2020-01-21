@@ -223,6 +223,10 @@ Foundational:
 
 Note:
 
+- See [IITB Newsletter for Network modernization](http://esdc.prv/en/iitb/corporate/news/2019/20200120.shtml#h1)
+  - Targetted network fix now (end-user experience, infrastructure, data centers, the North)
+  - Boost 11 OAS processing centres across the country
+  - Rebuilding the ESDC network to support future needs (for mobile and cloud)
 - e.g. PoC: grassroots innovation program, chatbot, acceleration hub, co-design with citizens
 - On Technical Debt: Corporate Risk Profile identified IT as its #1 risk (age of systems)
 
