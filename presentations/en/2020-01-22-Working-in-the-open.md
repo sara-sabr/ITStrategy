@@ -93,7 +93,15 @@ Note:
 
 --
 
-### 1. Improve productivity of organization
+### 1. It's fun and rewarding!
+
+- Efficient collaboration in modern tools
+- Easier to share our work
+- Feels good to contribute to common good
+
+--
+
+### 2. Improve productivity of organization
 
 By making our collective work discoverable
 
@@ -112,7 +120,7 @@ Note:
 
 --
 
-### 2. Avoid duplication of work
+### 3. Avoid duplication of work
 
 MANY problems are already solved
 
@@ -124,7 +132,7 @@ Note:
 
 --
 
-### 3. Economies of scale
+### 4. Economies of scale
 
 For your organization and outside
 
@@ -136,7 +144,7 @@ Note:
 
 --
 
-### 4. Early Feedback Loop
+### 5. Early Feedback Loop
 
 To be agile, in an unpredictable world
 
@@ -145,7 +153,7 @@ To be agile, in an unpredictable world
 
 --
 
-### 5. Increase Quality of Work
+### 6. Increase Quality of Work
 
 > When other people can see your work, you tend to raise your game
 
