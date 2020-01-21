@@ -22,12 +22,12 @@ All IITB teams must:
 
 #### Use 20% of time to learn and improve
 
-**For all these activities, use CATS codes for continuous improvement.**
+**For all the following and other related activities, use CATS codes for continuous improvement (######).**
 
 ##### Learn
 
 - Stay up to date on trends and technologies inside and outside the GC
-- Learn new tools, technologies or methodologies (Containers, Cloud, Agile, DevOps, ..), locally or in public cloud sandboxes
+- Learn new tools, technologies or methodologies (Containers, Cloud, Agile, ..), locally or in public sandboxes
 - Read books, articles or documentation
 - Take courses online (including MOOCs - massive open online courses) or in person
 - Attend events or conferences
@@ -46,7 +46,7 @@ All IITB teams must:
 - Understand teams performance levels and set realistic goals
 - Identify gaps in your daily work performance and establish improvement priorities
 - Gather metrics (ex.: start and end date) for things your team works on
-- Show improvement based on metrics
+- Show improvement based on metrics, the [Goals](#goals) and your team's mandate
 - Review existing processes and governance structure
 - Identify issues and raise them to your manager or as Grassroots initiatives or Proof of concepts
 - Automate repetitive manual tasks where possible, at the team and individual level
