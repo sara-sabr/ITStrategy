@@ -54,10 +54,9 @@ You need to enable and encourage contributions
 
 Note:
 
-- Not just sharing one way
-  - Promoting, Sharing, Communicating what you are working on
-- With entire department (and GC!), not just your branch or your team
-- Open Source
+- Not just sharing one way (e.g. Twitter, LinkedIn)
+- Enable contributions, from anyone in the World!
+- Like Open Source communities
   - Thousands of people working together
   - Various levels of contributions
 - Do not force collaboration (see [HBR Collaborative Overload](https://hbr.org/2016/01/collaborative-overload))
@@ -77,14 +76,13 @@ Note:
 
 - Humility, being humble
   - "I don't know everything. And it's okay because I want to learn and improve."
-  - "You may have a better answer than me even though I don't know you."
+  - "I don't know you but I trust your contribution."
 - Inclusiveness and accessibility
   - No discrimination
-  - Encourage participation of everyone, actively looking for people from a diverse background and community
+  - Encourage participation of everyone, from diverse backgrounds
 - Trust
   - You trust your team
   - You trust this is good for the public
-  - The public should trust the government
     - [Accountability](https://product-guide.18f.gov/working-in-a-way-that-reflects-our-values/working-in-the-open/)
 
 ---
@@ -95,17 +93,20 @@ Note:
 
 ### 1. It's fun and rewarding!
 
-- Efficient collaboration in modern tools
-- Easier to share our work
-- Feels good to contribute to common good
+- Efficient collaboration in modern tools (e.g. GitHub)
+- Easier to share your work
+- Feels good to contribute to the common good
+- You learn a lot!
 
 --
 
 ### 2. Improve productivity of organization
 
-By making our collective work discoverable
+By making your work discoverable
 
 According to [State of DevOps Report 2019](https://cloud.google.com/devops/state-of-devops/) (page 63):
+
+**External Search**
 
 > - Feeling productive
 > - Strong communities for learning and growing
@@ -113,10 +114,9 @@ According to [State of DevOps Report 2019](https://cloud.google.com/devops/state
 
 Note:
 
-- It's hard to look for something you don't know exists
-  - If it's in the open, it can at least be found
-- Create opportunities for a community
-  - E.g. [Open Resource Exchange](https://canada-ca.github.io/ore-ero/en/index.html) with Canadian municipalities
+- It's hard to look for information
+  - But if it's in the Open, it can at least be found
+- Makes collaboration easier (more organic, less rigid)
 
 --
 
@@ -138,9 +138,9 @@ For your organization and outside
 
 Note:
 
-- Many solutions can be useful to problems/people you haven't thought of
-- Contribute to the project so that everyone benefit from it
-- With a community, team is bigger than number of people you can hire
+- Reuse solutions or documents from other open communities
+- Contributions benefit everyone
+- With a community, your team is bigger than # of people you could hire
 
 --
 
@@ -163,8 +163,8 @@ Note:
 
 - Encourages good practice (people will see your work!)
   - In software development, improve security, accountability and sustainability (see [Working in the Open from 18F Product Guide](https://product-guide.18f.gov/working-in-a-way-that-reflects-our-values/working-in-the-open/))
-- Makes collaboration easier (more organic, less rigid)
-- Helps others learn from your own work
+- You learn from other open communities, thus increasing your expertise
+- External people contribute, leading to higher quality
 
 ---
 
@@ -178,22 +178,36 @@ As soon as possible, now
 
 Note:
 
-- Don't wait until you had all your committee reviews done
-- Start your drafts in the open (improve the way you write)
+- Don't wait for approval, start your drafts in the open
 - It's a lot harder to open up at the end
-- [Policy on Service and Digital 4.3](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603#cla4.3)
-  - Open and strategic management of information
-  - 4.3.2.8 Maximizing the release of departmental information and data as an open resource, discoverable through the Government of Canada open government portal designated by the Treasury Board of Canada Secretariat, while respecting information security, privacy, and legal considerations.
 
 --
 
-It's strongly encouraged
+It's strongly encouraged (1/2)
 
-> **Work in the open by default**
-> 
-> Share evidence, research and decision making openly. Make all non-sensitive data, information, and new code developed in delivery of services open to the outside world for sharing and reuse under an open licence.
+<div style="text-align:left">
+
+[Policy on Service and Digital 4.3](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603#cla4.3)
+
+_**Open and strategic management of information**_
+
+_4.3.2.8 Maximizing the release of departmental information and data as an open resource, [...] while respecting information security, privacy, and legal considerations._
+
+</div>
+
+--
+
+It's strongly encouraged (2/2)
+
+<div style="text-align:left">
 
 [GC Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html)
+
+_**Work in the open by default**_
+
+_Share evidence, research and decision making openly. Make all non-sensitive data, information, and new code developed in delivery of services open to the outside world for sharing and reuse under an open licence._
+
+</div>
 
 ---
 
@@ -219,21 +233,15 @@ Your work is under Crown Copyright
 
 If possible and applicable, release it under an open licence:
 
-- An [open source licence](https://opensource.org/licenses) - for source code
-- The [Open Government Licence – Canada](https://open.canada.ca/en/open-government-licence-canada) - for data, information, content
+- An [open source licence](https://www.canada.ca/en/government/system/digital-government/open-source-software/guide-for-publishing-open-source-code.html#toc04) - for source code
+- The [Open Government Licence – Canada](https://open.canada.ca/en/open-government-licence-canada) - for data or information
 
 Note:
 
-- Need approval from proper delegated authority (varies by department)
+- Need approval from proper delegated authority (varies by department - DG at ESDC)
 - Existing OSS licence is preferable for source code
-  - Industry is more familiar with these licences
-  - Easier to have people contribute back to your project
-
---
-
-#### Notice
-
-Include a notice with mention of licence and trademark
+  - Contributors are more familiar with them
+  - Easier to have people contribute
 
 --
 
@@ -249,14 +257,20 @@ Include a notice with mention of licence and trademark
 
 --
 
-#### Security Classification
+#### Security
 
 Include only unclassified material
 
-From recently published [GC OSS Guidance](https://www.canada.ca/en/government/system/digital-government/open-source-software/guide-for-publishing-open-source-code.html#toc03):
+From recently published [GC Guidance](https://www.canada.ca/en/government/system/digital-government/open-source-software/guide-for-publishing-open-source-code.html#toc03):
 
-> - Keep sensitive data such as credentials secure and separate from source code.
-> - Leverage tools and services to automate finding known security vulnerabilities, possible secret keys and personally identifiable information.
+<div style="text-align:left">
+
+_**Developing Software in the Open**_
+
+- _Keep sensitive data such as credentials secure and separate from source code._
+- _Leverage tools and services to automate finding known security vulnerabilities, possible secret keys and personally identifiable information._
+
+</div>
 
 Note:
 
@@ -270,10 +284,9 @@ Write like the newspaper is going to publish your content
 
 Note:
 
-- Again, increase quality of your work
 - You KNOW people can come and see it; you should think twice before posting something
-- If you're not comfortable at a personal level, ask for help!
-- Bigger picture, you may want to ask why you're working on this if you're not comfortable sharing
+- Again, it increases quality of your work
+- If you're not comfortable at a personal level, think about why...
 
 --
 
@@ -297,18 +310,20 @@ Note:
 
 Manage the community for your own benefit... and everyone's
 
-<div style="text-align:left">Set expectations:</div>
+<div style="text-align:left">
+
+Set expectations:
 
 - _Use these templates for contributions_
 - _We usually respond within 48 hours_
 - _We don't take contributions at this point, but we welcome suggestions_
 
+</div>
+
 Note:
 
-- Manage your community, you will benefit greatly from it (incl. personnally)
-- Stephen Walli - "It's all about software engineering economics"
-- If your work is interesting, people might find it
-- People may submit recommendations and modifications to you
+- Take care of your community, you will benefit greatly from it (incl. personally)
+- If your work is interesting, people might find it and submit recommendations/contributions
 
 --
 
@@ -344,9 +359,9 @@ Note:
 
 <div style="text-align:left">
 
-- [GCmessage (pilot)](https://message.gccollab.ca/home) - Chat
-- [Slack](https://slack.com/) - Chat (but closed communities)
 - [GCcollab](https://gccollab.ca/splash/) - Forum for communities of practice
+- [GCmessage (pilot)](https://message.gccollab.ca/home) - Chat
+- [Slack](https://slack.com/) - Chat _(but closed communities)_
 
 </div>
 
@@ -362,8 +377,8 @@ Note:
 
 <p>Wiki</p>
 
-- [GCpedia](https://www.gcpedia.gc.ca)
-- [GCcollab Wiki](https://wiki.gccollab.ca/)
+- [GCpedia](https://www.gcpedia.gc.ca) (internal)
+- [GCwiki](https://wiki.gccollab.ca/) (external)
 
 </div>
 
@@ -386,8 +401,8 @@ Note:
 
 <div style="text-align:left">
 
-- [GitLab](https://gitlab.com)
 - [GitHub](https://github.com)
+- [GitLab](https://gitlab.com)
 - [Bitbucket](https://bitbucket.org)
 - [GCcode](https://gccode.ssc-spc.gc.ca) (internal)
 
@@ -402,7 +417,7 @@ Note:
 - Intranet sites
 - [GCconnex](https://gcconnex.gc.ca) / [GCcollab](https://gccollab.ca)
 - [Twitter](https://twitter.com)
-- [Open Resource Exchange](https://canada-ca.github.io/ore-ero/) - for source code
+- [Open Resource Exchange](https://canada-ca.github.io/ore-ero/) (for source code)
 
 </div>
 
@@ -420,7 +435,7 @@ Note:
 
 ### Team website
 
-Automatically generated from Workspace
+Automatically generated from workspace
 
 <img src="assets/images/itstrategy-homepage.png" height="80%" width="80%">
 
@@ -508,13 +523,13 @@ Of projects in the open
 
 <div style="text-align:left">
 
-5 Principles:
+_**5 Principles**_
 
-- Public storytelling and context setting
-- Enabling community contribution
-- Rapid prototyping “in the wild”
-- Public reflection and documentation
-- Creating remixable work products
+- _Public storytelling and context setting_
+- _Enabling community contribution_
+- _Rapid prototyping “in the wild”_
+- _Public reflection and documentation_
+- _Creating remixable work products_
 
 </div>
 
