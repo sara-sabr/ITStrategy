@@ -63,7 +63,7 @@ The above communication work will require to keep a consistent message to stakeh
 | **Activity**  | **Communication methods available** |
 | ------------- | -------------------------------------------- |
 | Approval      | - CIO Executive Committee<br> - SABR DGO<br> - Director |
-| Endorsement   | - SABR DGO<br> - Director<br> - IITB Governance Committees<br> - IITB Forums<br> - Briefing Notes |
+| Endorsement   | - SABR DGO<br> - Director<br> - IITB Governance Committees<br> - IITB Forums<br> - Subject Matter Teams<br> - Briefing Notes |
 | Outreach      | - IITB Governance Committees<br> - IITB Forums<br> - Public Sector Communities<br> - Blogs<br> - Social Media<br> - IITB IITB Newsletter<br> - Email |
 | Feedback      | - Social Media<br> - Blogs<br> - Peer reviews<br> - IITB Governance Committees<br> - IITB Forums<br> - Custom Metrics |
 
@@ -133,6 +133,19 @@ The following IITB forums may be used as part of communication efforts:
 - Management and Team Lead Committee (MTLC)
 - IITB Showcase
 - IITB Dev CoP
+
+### Subject Matter Teams
+
+Subject Matter Teams may be involved when endorsements from specific subject matters are required.
+Endorsements from those subject matter teams may be obtained via peer reviews or presentations followed by email endorsements.
+The teams are:
+
+1. IT Security
+2. Enterprise Architecture
+3. Project Management Office
+4. Senior Advisors
+5. IT Accessibility
+6. Interoperability
 
 ### Peer Review
 
