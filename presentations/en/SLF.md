@@ -130,7 +130,7 @@ Note:
 - 21 DevOps capabilities (DORA), including job satisfaction
 - Adoption of Open Source, as a philosophy
 - Empowering employees
-- Automation to allow staff to focus on meaningful work
+- Identify and address toil to allow staff to focus on meaningful work
 - Enable IITB teams to design for users with users, iterate and improve frequently
 
 Link to [Strategy Map](strategy-summary.html)
