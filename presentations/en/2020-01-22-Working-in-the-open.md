@@ -15,7 +15,8 @@ Employment and Social Development Canada
 
 Note:
 
-- Been involved in Open Source Software for a long time. Open communities are the basis, but never worked in the open before.
+- Been involved in Open Source Software for a long time.
+- Open communities are the basis, but never worked in the open before.
 - Until I joined the IT Strategy team
 - Will share with you my experience and:
   - WHAT is Working in the Open
@@ -28,29 +29,25 @@ Note:
 
 --
 
-Your workspace (or part of it) is public and participatory
+Your digital workspace is public and participatory
+
+People can find and read its content
 
 Note:
 
 - Public and Participatory - [Mozilla - Working Open](https://wiki.mozilla.org/Working_open)
+- Examples
+  - Documents, including drafts
+  - Planning
+  - Tasks
+  - Notes
+  - Source code
 
 --
 
-People can find your workspace and read its content
-
-Note:
-
-- Documents, including drafts
-- Planning
-- Tasks
-- Notes
-- Source code
-
---
+And you enable and encourage contributions
 
 It's not just _working out loud_
-
-You need to enable and encourage contributions
 
 Note:
 
@@ -83,7 +80,7 @@ Note:
 - Trust
   - You trust your team
   - You trust this is good for the public
-    - [Accountability](https://product-guide.18f.gov/working-in-a-way-that-reflects-our-values/working-in-the-open/)
+- [Accountability](https://product-guide.18f.gov/working-in-a-way-that-reflects-our-values/working-in-the-open/)
 
 ---
 
@@ -96,7 +93,7 @@ Note:
 - Efficient collaboration in modern tools (e.g. GitHub)
 - Easier to share your work
 - Feels good to contribute to the common good
-- You learn a lot!
+- You learn a lot, and meet new people!
 
 --
 
@@ -106,15 +103,19 @@ By making your work discoverable
 
 According to [State of DevOps Report 2019](https://cloud.google.com/devops/state-of-devops/) (page 63):
 
-**External Search**
+<div style="text-align:left">
 
-> - Feeling productive
-> - Strong communities for learning and growing
-> - Recruiting, an important side benefit
+_**External Search**_
+
+- _Feeling productive_
+- _Strong communities for learning and growing_
+- _Recruiting, an important side benefit_
+
+</div>
 
 Note:
 
-- It's hard to look for information
+- It's hard to look for information (just too much)
   - But if it's in the Open, it can at least be found
 - Makes collaboration easier (more organic, less rigid)
 
@@ -127,12 +128,12 @@ MANY problems are already solved
 Note:
 
 - Lots of redundancies across teams, branches and departments
-- Because it's discoverable, you may find an already existing solution
-- Adapt instead of building from scratch (or buying something!)
+- Because it's discoverable, you may find an existing solution
+- Adapt instead of building from scratch (or buying something)
 
 --
 
-### 4. Economies of scale
+### 4. Generate economies of scale
 
 For your organization and outside
 
@@ -144,7 +145,7 @@ Note:
 
 --
 
-### 5. Early Feedback Loop
+### 5. Get early Feedback
 
 To be agile, in an unpredictable world
 
@@ -153,7 +154,7 @@ To be agile, in an unpredictable world
 
 --
 
-### 6. Increase Quality of Work
+### 6. Increase quality of work
 
 > When other people can see your work, you tend to raise your game
 
@@ -183,21 +184,7 @@ Note:
 
 --
 
-It's strongly encouraged (1/2)
-
-<div style="text-align:left">
-
-[Policy on Service and Digital 4.3](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603#cla4.3)
-
-_**Open and strategic management of information**_
-
-_4.3.2.8 Maximizing the release of departmental information and data as an open resource, [...] while respecting information security, privacy, and legal considerations._
-
-</div>
-
---
-
-It's strongly encouraged (2/2)
+It's strongly encouraged!
 
 <div style="text-align:left">
 
@@ -225,7 +212,7 @@ Your work is under Crown Copyright
 
 > Copyright (c) Her Majesty the Queen in Right of Canada, as represented by `<Department Name>`, `<Date>`
 
-[Crown Copyright Request](https://www.canada.ca/en/canadian-heritage/services/crown-copyright-request.html)
+Ref. [Crown Copyright Request](https://www.canada.ca/en/canadian-heritage/services/crown-copyright-request.html)
 
 --
 
@@ -359,9 +346,10 @@ Note:
 
 <div style="text-align:left">
 
-- [GCcollab](https://gccollab.ca/splash/) - Forum for communities of practice
+- [GCcollab](https://gccollab.ca/splash/) - Forum
 - [GCmessage (pilot)](https://message.gccollab.ca/home) - Chat
-- [Slack](https://slack.com/) - Chat _(but closed communities)_
+- [Slack](https://slack.com/) - Chat
+  - _(closed communities)_
 
 </div>
 
@@ -370,12 +358,13 @@ Note:
 #### Pages and Documents
 
 <div style="text-align:left">
-<p>Version control with peer review</p>
+
+Version control with peer review
 
 - [GitHub](https://github.com)
 - [GitLab](https://gitlab.com)
 
-<p>Wiki</p>
+Wiki
 
 - [GCpedia](https://www.gcpedia.gc.ca) (internal)
 - [GCwiki](https://wiki.gccollab.ca/) (external)
@@ -519,7 +508,7 @@ Of projects in the open
 
 ## Reference
 
-[Working in the Open: lessons from open source on building innovation networks in education](https://www.emerald.com/insight/content/doi/10.1108/OTH-05-2016-0025/full/html)
+Article: [Working in the Open: lessons from open source on building innovation networks in education](https://www.emerald.com/insight/content/doi/10.1108/OTH-05-2016-0025/full/html)
 
 <div style="text-align:left">
 
@@ -546,6 +535,8 @@ Senior Advisor, IT Strategy
 Employment and Social Development Canada
 
 gabriel.cossette@hrsdc-rhdcc.gc.ca  
-Team: EDSC.DGIIT.StrategieTI-ITStrategy.IITB.ESDC@hrsdc-rhdcc.gc.ca
+
+[IT Strategy Workspace](https://github.com/sara-sabr/ITStrategy)  
+[IT Strategy Website](https://sara-sabr.github.io/ITStrategy/)
 
 </div>
