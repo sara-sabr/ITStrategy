@@ -9,10 +9,9 @@ ESDC IT Strategy (30 min presentation)
 
 ## Agenda
 
-1. Nonconventional approach to IT Strategy
-2. Focus Areas
-3. Strategies and Actions
-Who we are..
+Who we are
+Approach
+Benefits
 
 ---
 
