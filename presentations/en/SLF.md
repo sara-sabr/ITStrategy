@@ -34,7 +34,7 @@ Sometimes change is not optional
 
 --
 
-# How are we handling this in ESDC?
+# How are we handling this in ESDC
 
 ---
 
