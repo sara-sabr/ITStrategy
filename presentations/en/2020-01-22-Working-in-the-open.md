@@ -45,7 +45,7 @@ Note:
 
 --
 
-And you enable and encourage contributions
+You enable and encourage contributions
 
 It's not just _working out loud_
 
@@ -53,7 +53,7 @@ Note:
 
 - Not just sharing one way (e.g. Twitter, LinkedIn)
 - Enable contributions, from anyone in the World!
-- Like Open Source communities
+- Take example of Open Source communities
   - Thousands of people working together
   - Various levels of contributions
 - Do not force collaboration (see [HBR Collaborative Overload](https://hbr.org/2016/01/collaborative-overload))
@@ -90,10 +90,14 @@ Note:
 
 ### 1. It's fun and rewarding!
 
-- Efficient collaboration in modern tools (e.g. GitHub)
+- Efficient collaboration in modern tools from anywhere (e.g. GitHub)
 - Easier to share your work
 - Feels good to contribute to the common good
 - You learn a lot, and meet new people!
+
+Note:
+
+- Modern: Single source of truth, merge changes, automatically generate website, automated checks
 
 --
 
@@ -128,7 +132,7 @@ MANY problems are already solved
 Note:
 
 - Lots of redundancies across teams, branches and departments
-- Because it's discoverable, you may find an existing solution
+- Because a workspace is discoverable, you may reuse existing content
 - Adapt instead of building from scratch (or buying something)
 
 --
@@ -140,7 +144,7 @@ For your organization and outside
 Note:
 
 - Reuse solutions or documents from other open communities
-- Contributions benefit everyone
+- Contributions benefit everyone (e.g. OSS, Wikipedia)
 - With a community, your team is bigger than # of people you could hire
 
 --
@@ -156,16 +160,14 @@ To be agile, in an unpredictable world
 
 ### 6. Increase quality of work
 
-> When other people can see your work, you tend to raise your game
-
-UK Government Digital Service [blog post](https://gds.blog.gov.uk/2017/09/04/the-benefits-of-coding-in-the-open/)
+- _"When other people can see your work, you tend to raise your game"_ ([UK GDS](https://gds.blog.gov.uk/2017/09/04/the-benefits-of-coding-in-the-open/))
+- Learn from others -> Increase your expertise
+- External contributions
 
 Note:
 
 - Encourages good practice (people will see your work!)
   - In software development, improve security, accountability and sustainability (see [Working in the Open from 18F Product Guide](https://product-guide.18f.gov/working-in-a-way-that-reflects-our-values/working-in-the-open/))
-- You learn from other open communities, thus increasing your expertise
-- External people contribute, leading to higher quality
 
 ---
 
@@ -192,7 +194,11 @@ It's strongly encouraged!
 
 _**Work in the open by default**_
 
-_Share evidence, research and decision making openly. Make all non-sensitive data, information, and new code developed in delivery of services open to the outside world for sharing and reuse under an open licence._
+_Share evidence, research and decision making openly. Make all non-sensitive data, information, and new code [...] open to the outside world for sharing and reuse under an open licence._
+
+_**Collaborate widely**_
+
+_Share and collaborate in the open. Identify and create partnerships ..._
 
 </div>
 
@@ -221,7 +227,7 @@ Ref. [Crown Copyright Request](https://www.canada.ca/en/canadian-heritage/servic
 If possible and applicable, release it under an open licence:
 
 - An [open source licence](https://www.canada.ca/en/government/system/digital-government/open-source-software/guide-for-publishing-open-source-code.html#toc04) - for source code
-- The [Open Government Licence – Canada](https://open.canada.ca/en/open-government-licence-canada) - for data or information
+- The [Open Government Licence – Canada](https://open.canada.ca/en/open-government-licence-canada) - for data and information
 
 Note:
 
@@ -289,7 +295,6 @@ And if you leave the project, it continues to live
 Note:
 
 - Not a clone of your internal workspace
-- Contributions are welcome but you decide what goes into your work or not
 
 --
 
@@ -303,7 +308,7 @@ Set expectations:
 
 - _Use these templates for contributions_
 - _We usually respond within 48 hours_
-- _We don't take contributions at this point, but we welcome suggestions_
+- ...
 
 </div>
 
@@ -348,8 +353,7 @@ Note:
 
 - [GCcollab](https://gccollab.ca/splash/) - Forum
 - [GCmessage (pilot)](https://message.gccollab.ca/home) - Chat
-- [Slack](https://slack.com/) - Chat
-  - _(closed communities)_
+- [Slack](https://slack.com/) - Chat (closed communities)
 
 </div>
 
@@ -468,7 +472,7 @@ Automatically generated from workspace
 
 ---
 
-## More GC Examples
+## More Examples
 
 Note:
 
