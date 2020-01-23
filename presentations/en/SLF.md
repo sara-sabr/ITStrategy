@@ -53,7 +53,7 @@ Sometimes change is not optional
 
 --
 
-![Approach: Diagnose, Recommend, Measure, Enable New Ways](../../assets/images/slf-presentation-approach.jpg)
+![Approach: Diagnose, Recommend, Measure, Enable New Ways]({{baseurl.site}}/assets/images/slf-presentation-approach.jpg)
 
 --
 
