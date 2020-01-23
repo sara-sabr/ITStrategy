@@ -47,7 +47,7 @@ Note:
 
 --
 
-# How are you handling those changes right now?
+### How are you handling those changes right now?
 
 1. How often, per month, do your priorities change?
 2. How often do you have to revisit your project estimates?
@@ -68,7 +68,7 @@ Note:
 
 ---
 
-# Approach
+### Approach
 
 ![Approach: Diagnose, Recommend, Measure, Enable New Ways](./assets/images/slf-presentation-approach.jpg)
 
@@ -89,7 +89,7 @@ Note:
 
 ---
 
-# Benefits for you
+### Benefits for you
 
 ![Mandate: helping you navigate through change](./assets/images/slf-presentation-mandate.jpg)
 
@@ -102,15 +102,15 @@ Note:
 
 ---
 
-# Questions
+### Questions
 
 ---
 
-# Supporting Slides
+### Supporting Slides
 
 --
 
-# Examples of topics
+### Examples of topics
 
 The following are examples of topics the team is exploring:
 
@@ -120,7 +120,7 @@ The following are examples of topics the team is exploring:
 
 --
 
-# References
+### References
 
 1. [IT Strategy Map](https://sara-sabr.github.io/ITStrategy/strategy-summary.html)
 2. [GC digital standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html)
