@@ -15,11 +15,9 @@ ESDC IT Strategy
 
 ---
 
+# Change is the only constant, and its rate is accelerating
+
 ![Graph of smartphone adoption rate: 1 billion users took 16 years but only 4 years to reach 2 billion](./assets/images/slf-presentation-smartphone-adoption-infographic-v2-1007.png)
-
---
-
-Changes is constant, and rate is accelerating
 
 Note:
 
