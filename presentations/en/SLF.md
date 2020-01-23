@@ -15,7 +15,7 @@ ESDC IT Strategy
 
 ---
 
-![Graph of smartphone adoption rate: 1 billion users took 16 years but only 4 years to reach 2 billion](./assets/images/slf-presentation-smartphone-adoption-infographic-v2-1007.png)
+<img src="assets/images/slf-presentation-smartphone-adoption-infographic-v2-1007.png" alt="Graph of smartphone adoption rate: 1 billion users took 16 years but only 4 years to reach 2 billion" height="85%" width="85%">
 
 Note:
 
