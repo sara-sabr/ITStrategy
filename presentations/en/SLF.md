@@ -68,8 +68,6 @@ Note:
 
 ---
 
-### Approach
-
 ![Approach: Diagnose, Recommend, Measure, Enable New Ways](./assets/images/slf-presentation-approach.jpg)
 
 Note:
@@ -88,8 +86,6 @@ Note:
    - Enabling new ways of working and ensuring we retire the old ones (Organizational Debt)
 
 ---
-
-### Benefits for you
 
 ![Mandate: helping you navigate through change](./assets/images/slf-presentation-mandate.jpg)
 
