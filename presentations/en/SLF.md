@@ -26,7 +26,16 @@ Note:
 - Change is already here, we are experiencing it right now
 - The upcoming Policy on Service and Digital, OneGC, and the GC Digital Stanards, is the GC catching up with citizens expectations
 - Banks are training investment bankers to code. Source: https://www.techrepublic.com/article/why-big-banks-are-requiring-workers-to-learn-coding/
-- Cares now have hundred millino lines of codes. Source: https://www.technologyreview.com/s/508231/many-cars-have-a-hundred-million-lines-of-code/
+- Cars now have hundred millions lines of codes. Source: https://www.technologyreview.com/s/508231/many-cars-have-a-hundred-million-lines-of-code/
+
+--
+
+insert pic of amount of github contribution over the years showing pace of software change
+
+Note:
+
+- Using Github as a source to measure the pace of software change, we can see that it's exponential
+- This is a glimps of how addressing software patching, versioning, and overall intergration complexity needs to be addressed
 
 --
 
@@ -39,6 +48,23 @@ Note:
 --
 
 # How are you handling those changes right now?
+
+1. How often, per month, do your priorities change?
+2. How often do you have to revisit your project estimates?
+3. How many of your commitments depend on another team's ability to deliver?
+
+Note:
+
+- Ask 3 questions to the audience to get their impression
+- Hypothesis of results in line with Public Service Employee Survey for ESDC CS category. Source: https://www.tbs-sct.gc.ca/pses-saff/2019/results-resultats/bq-pq/02/dem9424-eng.aspx
+- In particular following questions:
+  - Q17. I can complete my assigned workload during my regular working hours: CS5 = 33% rarely or almost never
+  - Q18a. I feel that the quality of my work suffers because of... constantly changing priorities: CS4 = 48%, CS5 = 40% always or often
+  - Q18d. I feel that the quality of my work suffers because of... unreasonable deadlines" CS4 = 38%, CS5 = 48% always or often
+  - Q40. I feel that change is managed well in my department or agency: CS4 = 28%, CS5 = 26% somewhat or strongly disagree
+  - Q74b. Overall, to what extent do the following factors cause you stress at work? Heavy workload, CS4 = 41$, CS5 = 52% large or very large extent
+  - Q74c. Overall, to what extent do the following factors cause you stress at work? Unreasonable deadlines, CS4 = 27%, CS5 = 39% large or very large extent
+  - Q74d. Overall, to what extent do the following factors cause you stress at work? Not enough employees to do the work, CS4 = 35%, CS5 = 29% large or very large extent
 
 ---
 
