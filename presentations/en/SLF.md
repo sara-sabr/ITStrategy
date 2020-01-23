@@ -85,7 +85,7 @@ Note:
    - Progress with metrics, non-invasive
    - use emperical evidence to course correct
 4. Improvement
-   - Enabling new ways of working and ensuring we retire the old ones (Organizational Debt) 
+   - Enabling new ways of working and ensuring we retire the old ones (Organizational Debt)
 
 ---
 
