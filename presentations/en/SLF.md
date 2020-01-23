@@ -1,4 +1,4 @@
-<!--markdownlint-disable MD033-->
+<!--markdownlint-disable MD033 MD026-->
 # Senior Leadership Forum
 
 ESDC IT Strategy (30 min presentation)
@@ -9,7 +9,7 @@ ESDC IT Strategy (30 min presentation)
 
 ## Agenda
 
-- Who we are
+- Need
 - Approach
 - Benefits
 
@@ -21,22 +21,29 @@ ESDC IT Strategy (30 min presentation)
 
 Changes is constant, and rate is accelerating
 
---
+Note:
 
-Sometimes change is not optional
+- Change is already here, we are experiencing it right now
+- The upcoming Policy on Service and Digital, OneGC, and the GC Digital Stanards, is the GC catching up with citizens expectations
+- Need: find stats on rate of software and technology changes (number of release versions, number of technology stacks)
 
 --
 
 ![Accessibily act infographic]({{baseurl.site}}/assets/images/slf-presentation-accessibility.jpg)
 
+Note:
+
+- Accessibility is one example. Cyber-Security, Information Management, responsible use of public funds can also be added to the list
+
 --
 
-![image of Cyber Security threat]({{baseurl.site}}/assets/images/slf-presentation-cybersecurity.png)
-[^1] Source: https://www.cyber.gc.ca/en/guidance/cyber-threats-canadian-businesses
+# How are you handling those changes right now?
 
---
+1. 
 
-# How are we handling this in ESDC
+Note:
+
+- 
 
 ---
 
