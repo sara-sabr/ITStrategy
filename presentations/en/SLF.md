@@ -9,9 +9,9 @@ ESDC IT Strategy (30 min presentation)
 
 ## Agenda
 
-Who we are
-Approach
-Benefits
+- Who we are
+- Approach
+- Benefits
 
 ---
 
