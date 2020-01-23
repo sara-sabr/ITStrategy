@@ -1,7 +1,9 @@
+<!--markdownlint-disable MD026-->
 <!--markdownlint-disable MD033-->
+
 # Working in the Open
 
-**SSC Learn Architecture**
+## SSC Learn Architecture
 
 January 22, 2020
 
