@@ -15,7 +15,7 @@ ESDC IT Strategy (30 min presentation)
 
 ---
 
-![Graph of smartphone adoption rate: 1 billion users took 16 years but only 4 years to reach 2 billion]({{baseurl.site}}/assets/images/slf-presentation-smartphone-adoption-infographic-v2-1007.png)
+![Graph of smartphone adoption rate: 1 billion users took 16 years but only 4 years to reach 2 billion](./assets/images/slf-presentation-smartphone-adoption-infographic-v2-1007.png)
 
 --
 
@@ -27,11 +27,11 @@ Sometimes change is not optional
 
 --
 
-![Accessibily act infographic]({{baseurl.site}}/assets/images/slf-presentation-accessibility.jpg)
+![Accessibily act infographic](./assets/images/slf-presentation-accessibility.jpg)
 
 --
 
-![image of Cyber Security threat]({{baseurl.site}}/assets/images/slf-presentation-cybersecurity.png)
+![image of Cyber Security threat](./assets/images/slf-presentation-cybersecurity.png)
 [^1] Source: https://www.cyber.gc.ca/en/guidance/cyber-threats-canadian-businesses
 
 --
@@ -53,7 +53,7 @@ Sometimes change is not optional
 
 --
 
-![Approach: Diagnose, Recommend, Measure, Enable New Ways]({{baseurl.site}}/assets/images/slf-presentation-approach.jpg)
+![Approach: Diagnose, Recommend, Measure, Enable New Ways](./assets/images/slf-presentation-approach.jpg)
 
 --
 
