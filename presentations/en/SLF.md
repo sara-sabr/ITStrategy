@@ -1,7 +1,7 @@
 <!--markdownlint-disable MD033 MD026-->
 # Senior Leadership Forum
 
-ESDC IT Strategy (30 min presentation)
+ESDC IT Strategy
 
 2020-01-29
 
@@ -25,7 +25,8 @@ Note:
 
 - Change is already here, we are experiencing it right now
 - The upcoming Policy on Service and Digital, OneGC, and the GC Digital Stanards, is the GC catching up with citizens expectations
-- Need: find stats on rate of software and technology changes (number of release versions, number of technology stacks)
+- Banks are training investment bankers to code. Source: https://www.techrepublic.com/article/why-big-banks-are-requiring-workers-to-learn-coding/
+- Cares now have hundred millino lines of codes. Source: https://www.technologyreview.com/s/508231/many-cars-have-a-hundred-million-lines-of-code/
 
 --
 
@@ -39,28 +40,26 @@ Note:
 
 # How are you handling those changes right now?
 
-1. 
-
-Note:
-
-- 
-
 ---
 
 # Approach
 
+![Approach: Diagnose, Recommend, Measure, Enable New Ways]({{baseurl.site}}/assets/images/slf-presentation-approach.jpg)
+
+Note:
+
 1. Diagnose
    - Work transparently with our users
+   - clearly identify problems
    - Research best practices
-2. Recommend
+2. Recommendationss
    - Enabling new ways of thinking
-   - Strategies and actions that work
-3. Measure
-   - Progress with metrics
-
---
-
-![Approach: Diagnose, Recommend, Measure, Enable New Ways]({{baseurl.site}}/assets/images/slf-presentation-approach.jpg)
+   - Strategies and actions that work for both the working level and management
+3. Measuring Progress
+   - Progress with metrics, non-invasive
+   - use emperical evidence to course correct
+4. Improvement
+   - Enabling new ways of working and ensuring we retire the old ones (Organizational Debt) 
 
 --
 
