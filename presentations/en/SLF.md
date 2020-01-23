@@ -9,7 +9,7 @@ ESDC IT Strategy
 
 ## Agenda
 
-- Need
+- The need for Strategy
 - Approach
 - Benefits
 
@@ -76,7 +76,7 @@ Note:
    - Work transparently with our users
    - clearly identify problems
    - Research best practices
-2. Recommendationss
+2. Recommendations
    - Enabling new ways of thinking
    - Strategies and actions that work for both the working level and management
 3. Measuring Progress
@@ -92,9 +92,10 @@ Note:
 Note:
 
 - We want to enable IT to rapidely respond to changes
-- We do this by reducing risks and enabling untapped strategic value
-- The idea here is accepting the complexity in the world to find new methods of managing IT investements.
-- E.g. reduce project sizes, improve information flow between teams, make it less onerous to approve change
+- We do this by reducing risks and enabling untapped strategic value of technology
+- The idea here is accepting complexity and finding new methods of managing IT investements
+- E.g. reduce project sizes, improve information flow between teams, make it less onerous to approve change, use emperical evidence to inform decisions
+- E.g. of problems identified: AppDev SAs release process needing 13 separate teams and up to 46 interactions
 
 ---
 
@@ -110,9 +111,10 @@ Note:
 
 The following are examples of topics the team is exploring:
 
-1. Use 20% of time to learn and improve
-2. Reduce toil to focus on meaningful work
-3. Transition from project to product management
+1. Using 20% of time to learn and improve
+2. Reducing toil to focus on meaningful work
+3. Transitioning from project to product management
+4. Loose coupling of solutions to enable more independence for product teams
 
 --
 
