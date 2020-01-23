@@ -87,7 +87,9 @@ Note:
 4. Improvement
    - Enabling new ways of working and ensuring we retire the old ones (Organizational Debt) 
 
---
+---
+
+# Benefits for you
 
 ![Mandate: helping you navigate through change]({{baseurl.site}}/assets/images/slf-presentation-mandate.jpg)
 
@@ -97,12 +99,6 @@ Note:
 - We do this by reducing risks and enabling untapped strategic value
 - The idea here is accepting the complexity in the world to find new methods of managing IT investements.
 - E.g. reduce project sizes, improve information flow between teams, make it less onerous to approve change
-
----
-
-# Benefits for you
-
-- Enable teams to adapt to rapid change
 
 ---
 
