@@ -15,9 +15,7 @@ ESDC IT Strategy
 
 ---
 
-# Change is the only constant, and its rate is accelerating
-
-![Graph of smartphone adoption rate: 1 billion users took 16 years but only 4 years to reach 2 billion]({{baseurl.site}}/assets/images/slf-presentation-smartphone-adoption-infographic-v2-1007.png)
+![Graph of smartphone adoption rate: 1 billion users took 16 years but only 4 years to reach 2 billion](./assets/images/slf-presentation-smartphone-adoption-infographic-v2-1007.png)
 
 Note:
 
@@ -37,7 +35,11 @@ Note:
 
 --
 
-![Accessibily act infographic]({{baseurl.site}}/assets/images/slf-presentation-accessibility.jpg)
+### Change is the only constant, and its rate is accelerating
+
+--
+
+![Accessibily act infographic](./assets/images/slf-presentation-accessibility.jpg)
 
 Note:
 
@@ -68,7 +70,7 @@ Note:
 
 # Approach
 
-![Approach: Diagnose, Recommend, Measure, Enable New Ways]({{baseurl.site}}/assets/images/slf-presentation-approach.jpg)
+![Approach: Diagnose, Recommend, Measure, Enable New Ways](./assets/images/slf-presentation-approach.jpg)
 
 Note:
 
@@ -89,7 +91,7 @@ Note:
 
 # Benefits for you
 
-![Mandate: helping you navigate through change]({{baseurl.site}}/assets/images/slf-presentation-mandate.jpg)
+![Mandate: helping you navigate through change](./assets/images/slf-presentation-mandate.jpg)
 
 Note:
 
