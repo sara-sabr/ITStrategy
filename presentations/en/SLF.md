@@ -15,7 +15,7 @@ Benefits
 
 ---
 
-<Image of 1 billion then 2 billion devices from Omar's presentation>
+![Graph of smartphone adoption rate: 1 billion users took 16 years but only 4 years to reach 2 billion]({{baseurl.site}}/assets/images/slf-presentation-smartphone-adoption-infographic-v2-1007.png)
 
 --
 
@@ -25,12 +25,14 @@ Changes is constant, and rate is accelerating
 
 Sometimes change is not optional
 
-- image of Accessibility Act
+--
+
+![Accessibily act infographic]({{baseurl.site}}/assets/images/slf-presentation-accessibility.jpg)
 
 --
 
-- image of Cyber Security threat (image from CSE) : https://www.cyber.gc.ca/en/guidance/cyber-threats-canadian-businesses
-- Citizen's expectations (mobile, "digital everything")
+![image of Cyber Security threat]({{baseurl.site}}/assets/images/slf-presentation-cybersecurity.png)
+[^1] Source: https://www.cyber.gc.ca/en/guidance/cyber-threats-canadian-businesses
 
 --
 
@@ -51,7 +53,7 @@ Sometimes change is not optional
 
 --
 
-<Image that Omar supplied on slide 3>
+![Approach: Diagnose, Recommend, Measure, Enable New Ways](../../assets/images/slf-presentation-approach.jpg)
 
 --
 
