@@ -102,4 +102,28 @@ Note:
 
 ---
 
-Questions
+# Questions
+
+---
+
+# Supporting Slides
+
+--
+
+# Examples of topics
+
+The following are examples of topics the team is exploring:
+
+1. Use 20% of time to learn and improve
+2. Reduce toil to focus on meaningful work
+3. Transition from project to product management
+
+--
+
+# References
+
+1. [IT Strategy Map](https://sara-sabr.github.io/ITStrategy/strategy-summary.html)
+2. [GC digital standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html)
+3. [GC Digital Operations Strategic Plan 2018-2022](https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html)
+4. [Upcoming Policy on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603)
+5. [IITB Way Forward](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx)
