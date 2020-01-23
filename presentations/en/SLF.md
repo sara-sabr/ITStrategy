@@ -63,7 +63,14 @@ Note:
 
 --
 
-Reducing risk and enabling untapped strategic value
+![Mandate: helping you navigate through change]({{baseurl.site}}/assets/images/slf-presentation-mandate.jpg)
+
+Note:
+
+- We want to enable IT to rapidely respond to changes
+- We do this by reducing risks and enabling untapped strategic value
+- The idea here is accepting the complexity in the world to find new methods of managing IT investements.
+- E.g. reduce project sizes, improve information flow between teams, make it less onerous to approve change
 
 ---
 
