@@ -35,7 +35,11 @@ Note:
 
 --
 
-### Change is the only constant, and its rate is accelerating
+![Change is the only constant, and its rate is accelerating](./assets/images/arrow_animated.gif)
+
+Note:
+
+- Change is the only constant, and its rate is accelerating
 
 --
 
