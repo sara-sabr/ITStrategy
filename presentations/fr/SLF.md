@@ -115,7 +115,7 @@ Ce qui suit sont des exemples de sujets que l'équipe est en train d'évaluer:
 
 ### Références
 
-1. [La carte stratégique TI](https://sara-sabr.github.io/ITStrategy/strategy-summary.html)
+1. [La carte stratégique TI](https://sara-sabr.github.io/ITStrategy/sommaire-strategie.html)
 2. [Normes numériques du GC](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html)
 3. [Plan stratégique des opérations numériques de 2018 à 2022](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/plan-strategique-operations-numerique-2018-2022.html)
 4. [Nouvelle politique sur les services et le numérique](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32603)
