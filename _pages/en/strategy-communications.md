@@ -112,6 +112,7 @@ Endorsement or approval will be done via email (reply from DG to email request f
 The following [IITB committees](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Governance%20-%20Supporting%20Documents/IITB%20Integrated%20Forward%20Agenda.docx) may be used as part of communication efforts.
 Governance Committees follow an approach of "item type" which are either to inform, to consult, or to approve.
 
+- CIO Executive Committee (CIOEC)
 - Workforce Management Committee
 - DG Committee
 - Cloud Implementation Project Steering Committee (CIPSC)
@@ -146,13 +147,18 @@ The teams are:
 4. Senior Advisors
 5. IT Accessibility
 6. Interoperability
+7. IITB Communications
+8. IITB Change Management
 
 ### Peer Review
 
 1. Send a draft document to targeted stakeholders to seek comments. Provide a feedback deadline
-2. Dispose of comments by making changes to the draft document, and record both the comment and the disposition (for traceability)
+2. Dispose of comments by making changes to the draft document, and record both the comment and the disposition (accepted, dismissed, modified)
 3. Re-send the updated draft document for final review. Provide a feedback deadline
-4. If no breaking changes, finalize the document.
+4. If no breaking changes, finalize the document
+
+Peer Reviews are meant to track feedback received, and the disposition of those feedback.
+A record of those feedbacks and dispositions must be kept (so if senior management asks what team X said about a strategy, we can show them)
 
 ### Briefing Note
 
