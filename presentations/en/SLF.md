@@ -27,6 +27,8 @@ Note:
 
 ![Change is the only constant, and its rate is accelerating](./assets/images/arrow_animated.gif)
 
+Note:
+
 - The upcoming Policy on Service and Digital, OneGC, and the GC Digital Stanards, is the GC catching up with citizens expectations
 - Banks are training investment bankers to code. From Financial Times and Wall Street Journal.
   - E.g. Citigroup traders get a 3 day Python course. JPMorgan Chase 300 analysts mandatory Python programming courses.
@@ -69,6 +71,8 @@ Note:
 
 ---
 
+### Our Mandate: helping you navigate through change
+
 ![Mandate: helping you navigate through change](./assets/images/slf-presentation-mandate.png)
 
 Note:
@@ -80,6 +84,8 @@ Note:
 - E.g. of problems identified: AppDev SAs release process needing 13 separate teams and up to 46 interactions
 
 ---
+
+### Our Approach
 
 ![Approach: Diagnose, Recommend, Measure, Enable New Ways](./assets/images/slf-presentation-approach.png)
 
