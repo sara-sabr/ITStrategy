@@ -1,4 +1,4 @@
-<!--markdownlint-disable MD001 MD033 MD026-->
+<!--markdownlint-disable MD001 MD033 MD026 MD036-->
 <style>
 .reveal section img { background:none; border:none; box-shadow:none; }
 </style>
@@ -22,6 +22,7 @@ Note:
 ### Vulnérabilités par année
 
 ![Nombre de vulnérabilités par année](./assets/images/slf-presentation-cve.png)
+
 _Source: https://www.cvedetails.com/_
 
 Note:
