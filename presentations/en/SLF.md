@@ -64,6 +64,18 @@ Note:
 
 ---
 
+![Mandate: helping you navigate through change](./assets/images/slf-presentation-mandate.jpg)
+
+Note:
+
+- We want to enable IT to rapidely respond to changes
+- We do this by reducing risks and enabling untapped strategic value of technology
+- The idea here is accepting complexity and finding new methods of managing IT investements
+- E.g. reduce project sizes, improve information flow between teams, make it less onerous to approve change, use emperical evidence to inform decisions
+- E.g. of problems identified: AppDev SAs release process needing 13 separate teams and up to 46 interactions
+
+---
+
 ![Approach: Diagnose, Recommend, Measure, Enable New Ways](./assets/images/slf-presentation-approach.jpg)
 
 Note:
@@ -80,18 +92,6 @@ Note:
    - use emperical evidence to course correct
 4. Improvement
    - Enabling new ways of working and ensuring we retire the old ones (Organizational Debt)
-
----
-
-![Mandate: helping you navigate through change](./assets/images/slf-presentation-mandate.jpg)
-
-Note:
-
-- We want to enable IT to rapidely respond to changes
-- We do this by reducing risks and enabling untapped strategic value of technology
-- The idea here is accepting complexity and finding new methods of managing IT investements
-- E.g. reduce project sizes, improve information flow between teams, make it less onerous to approve change, use emperical evidence to inform decisions
-- E.g. of problems identified: AppDev SAs release process needing 13 separate teams and up to 46 interactions
 
 ---
 
