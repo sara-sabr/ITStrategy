@@ -19,7 +19,8 @@ Note:
 
 --
 
-![Number of CVEs over time](./assets/images/slf-presentation-cve-overtime.png)
+![Number of CVEs over time](./assets/images/slf-presentation-cve.png)
+_source: cvedetails.com_
 
 Note:
 
