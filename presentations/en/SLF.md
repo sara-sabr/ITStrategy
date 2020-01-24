@@ -12,9 +12,6 @@ ESDC IT Strategy
 Note:
 
 - Change is already here, we are experiencing it right now
-- The upcoming Policy on Service and Digital, OneGC, and the GC Digital Stanards, is the GC catching up with citizens expectations
-- Banks are training investment bankers to code. Source: https://www.techrepublic.com/article/why-big-banks-are-requiring-workers-to-learn-coding/
-- Cars now have hundred millions lines of codes. Source: https://www.technologyreview.com/s/508231/many-cars-have-a-hundred-million-lines-of-code/
 
 --
 
@@ -29,6 +26,13 @@ Note:
 --
 
 ![Change is the only constant, and its rate is accelerating](./assets/images/arrow_animated.gif)
+
+- The upcoming Policy on Service and Digital, OneGC, and the GC Digital Stanards, is the GC catching up with citizens expectations
+- Banks are training investment bankers to code. From Financial Times and Wall Street Journal.
+  - E.g. Citigroup traders get a 3 day Python course. JPMorgan Chase 300 analysts mandatory Python programming courses.
+  - Source: https://www.techrepublic.com/article/why-big-banks-are-requiring-workers-to-learn-coding/
+- Cars now have hundred millions lines of codes.
+  - Source: https://www.technologyreview.com/s/508231/many-cars-have-a-hundred-million-lines-of-code/
 
 --
 
