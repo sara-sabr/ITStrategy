@@ -22,7 +22,7 @@ insert pic of amount of github contribution over the years showing pace of softw
 
 Note:
 
-- En utilisant Github comme source pour mesurer le rythme de changements affectant les logiciels, on peut voir que c'est exponentiel
+- Le graphique ci-dessus représentes le montant exponentielle des vulnérabilités en matière de sécurité
 - Ceci n'est qu'un apperçu de la complexité de la gestion des correctifs, des versions, et du niveau d'intégrations entres logiciels
 
 --
