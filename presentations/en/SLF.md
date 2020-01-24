@@ -41,7 +41,7 @@ Note:
   - Source: https://www.techrepublic.com/article/why-big-banks-are-requiring-workers-to-learn-coding/
 - Windows operating system has 60 million lines of code
 - In 2010 cars already contained around one hundred million
-    - Source: [Project to Product, Mik Kersten](https://projecttoproduct.org/)
+  - Source: [Project to Product, Mik Kersten](https://projecttoproduct.org/)
 
 --
 
