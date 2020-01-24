@@ -19,7 +19,9 @@ Note:
 
 --
 
-![Nombre de vulnérabilités par année](./assets/images/slf-presentation-cve-overtime.png)
+### Vulnérabilités par année
+
+![Nombre de vulnérabilités par année](./assets/images/slf-presentation-cve.png)
 
 Note:
 
