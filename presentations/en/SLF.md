@@ -1,4 +1,4 @@
-<!--markdownlint-disable MD033 MD026-->
+<!--markdownlint-disable MD001 MD033 MD026-->
 # Senior Leadership Forum
 
 ESDC IT Strategy
@@ -29,9 +29,9 @@ Note:
 
 ![Change is the only constant, and its rate is accelerating](./assets/images/arrow_animated.gif)
 
-Note:
+--
 
-- Change is the only constant, and its rate is accelerating
+### Change is the only constant, and its rate is accelerating
 
 --
 
