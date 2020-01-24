@@ -25,7 +25,7 @@ _source: cvedetails.com_
 
 Note:
 
-- This graph represents the number of Common Vulnerabilities and Exposures (CVE) over a 20 year timespan
+- This graph represents the number of Common Vulnerabilities and Exposures (CVE) over a 20-year timespan
 - Security vulnerabilities and exposures are also increasing exponentially
 - Source: https://www.cvedetails.com/
 
@@ -37,9 +37,9 @@ Note:
 
 - The upcoming Policy on Service and Digital, OneGC, and the GC Digital Stanards, is the GC catching up with citizens expectations
 - Banks are training investment bankers to code. From Financial Times and Wall Street Journal.
-  - E.g. Citigroup traders get a 3 day Python course. JPMorgan Chase 300 analysts mandatory Python programming courses.
+  - E.g. Citigroup traders get a 3-day Python course. JPMorgan Chase 300 analysts mandatory Python programming courses.
   - Source: https://www.techrepublic.com/article/why-big-banks-are-requiring-workers-to-learn-coding/
-- Cars now have hundred millions lines of codes.
+- Cars now have hundred million lines of codes.
   - Source: https://www.technologyreview.com/s/508231/many-cars-have-a-hundred-million-lines-of-code/
 
 --
@@ -83,7 +83,7 @@ Note:
 
 Note:
 
-- We want to enable IT to rapidely respond to changes
+- We want to enable IT to rapidly respond to changes
 - We do this by reducing risks and enabling untapped strategic value of technology
 - The idea here is accepting complexity and finding new methods of managing IT investements
 - E.g. reduce project sizes, improve information flow between teams, make it less onerous to approve change, use emperical evidence to inform decisions
@@ -122,7 +122,7 @@ Note:
 
 ### Examples of topics
 
-The following are examples of topics the team is exploring:
+Examples of topics the team is exploring:
 
 1. Using 20% of time to learn and improve
 2. Reducing toil to focus on meaningful work
