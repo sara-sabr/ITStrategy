@@ -69,7 +69,7 @@ Note:
 
 ---
 
-![Mandate: helping you navigate through change](./assets/images/slf-presentation-mandate.jpg)
+![Mandate: helping you navigate through change](./assets/images/slf-presentation-mandate.png)
 
 Note:
 
@@ -81,7 +81,7 @@ Note:
 
 ---
 
-![Approach: Diagnose, Recommend, Measure, Enable New Ways](./assets/images/slf-presentation-approach.jpg)
+![Approach: Diagnose, Recommend, Measure, Enable New Ways](./assets/images/slf-presentation-approach.png)
 
 Note:
 
