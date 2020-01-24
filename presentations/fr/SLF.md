@@ -27,7 +27,11 @@ Note:
 
 --
 
-### Le changement est la seule constante, et il s'accélère
+![Le changement est la seule constante, et il s'accélère](./assets/images/arrow_animated.gif)
+
+Note:
+
+- Le changement est la seule constante, et il s'accélère
 
 --
 
