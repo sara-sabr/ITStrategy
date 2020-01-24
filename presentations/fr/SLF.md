@@ -22,6 +22,7 @@ Note:
 ### Vulnérabilités par année
 
 ![Nombre de vulnérabilités par année](./assets/images/slf-presentation-cve.png)
+_Source: https://www.cvedetails.com/_
 
 Note:
 
@@ -40,7 +41,7 @@ Note:
   - e.g. Citigroup donne un cours de 3 jours à leurs banquiers pour qu'ils aprennent Python
   - e.g. JPMorgan Chase a un cours obligatoir sur Python pour ses 300 analystes
   - Source: https://www.techrepublic.com/article/why-big-banks-are-requiring-workers-to-learn-coding/
-- Les voitures on maintenant des centaine de million de lignes de codes. 
+- Les voitures on maintenant des centaine de million de lignes de codes.
   - Source: https://www.technologyreview.com/s/508231/many-cars-have-a-hundred-million-lines-of-code/
 
 --
@@ -49,7 +50,7 @@ Note:
 
 --
 
-![Infographique sur l'accessibilité](./assets/images/slf-presentation-accessibility-fr.jpg)
+![Infographique sur l'accessibilité](./assets/images/slf-presentation-accessibility-fr.png)
 
 Note:
 
