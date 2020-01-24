@@ -1,4 +1,8 @@
 <!--markdownlint-disable MD001 MD033 MD026-->
+<style>
+.reveal section img { background:none; border:none; box-shadow:none; }
+</style>
+
 # Forum des cadres supérieurs
 
 Stratégie TI EDSC
@@ -12,17 +16,15 @@ Stratégie TI EDSC
 Note:
 
 - Les changements sont déjà parmis nous, nous les expérimentons maintenant
-- La politique sur les services et le numérique, OneGC, les normes numériques du GC, représente le GC qui se rattrape aux attentes des citoyens
-- Les banques forment leurs bankiers à coder. Source: https://www.techrepublic.com/article/why-big-banks-are-requiring-workers-to-learn-coding/
-- Les voitures on maintenant des centaine de million de lignes de codes. Source: https://www.technologyreview.com/s/508231/many-cars-have-a-hundred-million-lines-of-code/
 
 --
 
-insert pic of amount of github contribution over the years showing pace of software change
+![Nombre de vulnérabilités par année](./assets/images/slf-presentation-cve-overtime.png)
 
 Note:
 
-- Le graphique ci-dessus représentes le montant exponentielle des vulnérabilités en matière de sécurité
+- Le graphique ci-dessus représentes le nombre de vulnérabilités (CVE) sur 20 ans
+- Source: https://www.cvedetails.com/
 - Ceci n'est qu'un apperçu de la complexité de la gestion des correctifs, des versions, et du niveau d'intégrations entres logiciels
 
 --
@@ -31,7 +33,17 @@ Note:
 
 Note:
 
-- Le changement est la seule constante, et il s'accélère
+- La politique sur les services et le numérique, OneGC, les normes numériques du GC, représente le GC qui se rattrape aux attentes des citoyens
+- Les banques forment leurs bankiers à coder. Du Financial Times et Wall Street Journal.
+  - e.g. Citigroup donne un cours de 3 jours à leurs banquiers pour qu'ils aprennent Python
+  - e.g. JPMorgan Chase a un cours obligatoir sur Python pour ses 300 analystes
+  - Source: https://www.techrepublic.com/article/why-big-banks-are-requiring-workers-to-learn-coding/
+- Les voitures on maintenant des centaine de million de lignes de codes. 
+  - Source: https://www.technologyreview.com/s/508231/many-cars-have-a-hundred-million-lines-of-code/
+
+--
+
+### Le changement est la seule constante, et il s'accélère
 
 --
 
@@ -63,7 +75,23 @@ Note:
 
 ---
 
-![Approache: Diagnostic, Recommandations, Measure, améliorations](./assets/images/slf-presentation-approach-fr.jpg)
+### Notre mandat: vous aider à naviguer dans ce changement
+
+![Mandat: vous aider à naviguer dans ce changement](./assets/images/slf-presentation-mandate-fr.png)
+
+Note:
+
+- Nous voulons permettre aux TI de répondre rapidement aux changements
+- Nous faisons cela en réduisant les risques afin de permettre l'utilisation des valeurs technologiques inexploitées
+- L'idée ici est d'accepter la complexité et de trouver de nouvelles méthodes de gestions des investissements TI
+- E.g. réduire la traille des projets, améliorer l'échange d'information entre les équipes, rendre moins onéreuse l'approbation des changements, utiliser des preuves empiriques pour éclairer des décisions
+- E.g. de problèmes déjà identifés: Le processus de relâche que les Conseillers Séniors en AppDev on cartographier: le processus demande l'intervention de 13 équipes différentes et jusqu'à 46 interactions entres elles.
+
+---
+
+### Approche
+
+![Approche: Diagnostic, Recommandations, Measure, améliorations](./assets/images/slf-presentation-approach-fr.png)
 
 Note:
 
@@ -79,18 +107,6 @@ Note:
    - Utiliser des preuves empiriques pour corriger la trajectoire
 4. Améliorations
    - Permettre de nouvelles méthodes de travail et assurer la retraite des anciennes (Dette organisationnelle)
-
----
-
-![Mandat: vous aider à naviguer dans ce changement](./assets/images/slf-presentation-mandate-fr.jpg)
-
-Note:
-
-- Nous voulons permettre aux TI de répondre rapidement aux changements
-- Nous faisons cela en réduisant les risques afin de permettre l'utilisation des valeurs technologiques inexploitées
-- L'idée ici est d'accepter la complexité et de trouver de nouvelles méthodes de gestions des investissements TI
-- E.g. réduire la traille des projets, améliorer l'échange d'information entre les équipes, rendre moins onéreuse l'approbation des changements, utiliser des preuves empiriques pour éclairer des décisions
-- E.g. de problèmes déjà identifés: Le processus de relâche que les Conseillers Séniors en AppDev on cartographier: le processus demande l'intervention de 13 équipes différentes et jusqu'à 46 interactions entres elles.
 
 ---
 
