@@ -135,7 +135,7 @@ The following IITB forums may be used as part of communication efforts:
 - IITB Showcase
 - IITB Dev CoP
 
-### Subject Matter Teams
+### Subject Matter Experts (SMEs) Teams
 
 Subject Matter Teams may be involved when endorsements from specific subject matters are required.
 Endorsements from those subject matter teams may be obtained via peer reviews or presentations followed by email endorsements.
