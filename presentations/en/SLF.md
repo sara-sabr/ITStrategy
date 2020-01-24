@@ -1,4 +1,8 @@
-<!--markdownlint-disable MD033 MD026-->
+<!--markdownlint-disable MD001 MD033 MD026 MD036 -->
+<style>
+.reveal section img { background:none; border:none; box-shadow:none; }
+</style>
+
 # Senior Leadership Forum
 
 ESDC IT Strategy
@@ -7,31 +11,23 @@ ESDC IT Strategy
 
 ---
 
-## Agenda
-
-- The need for Strategy
-- Approach
-- Benefits
-
----
-
 <img src="assets/images/slf-presentation-smartphone-adoption-infographic-v2-1007.png" alt="Graph of smartphone adoption rate: 1 billion users took 16 years but only 4 years to reach 2 billion" height="85%" width="85%">
 
 Note:
 
 - Change is already here, we are experiencing it right now
-- The upcoming Policy on Service and Digital, OneGC, and the GC Digital Stanards, is the GC catching up with citizens expectations
-- Banks are training investment bankers to code. Source: https://www.techrepublic.com/article/why-big-banks-are-requiring-workers-to-learn-coding/
-- Cars now have hundred millions lines of codes. Source: https://www.technologyreview.com/s/508231/many-cars-have-a-hundred-million-lines-of-code/
 
 --
 
-insert pic of amount of github contribution over the years showing pace of software change
+![Number of CVEs over time](./assets/images/slf-presentation-cve.png)
+
+_source: cvedetails.com_
 
 Note:
 
-- Using Github as a source to measure the pace of software change, we can see that it's exponential
-- This is a glimps of how addressing software patching, versioning, and overall intergration complexity needs to be addressed
+- This graph represents the number of Common Vulnerabilities and Exposures (CVE) over a 20-year timespan
+- Security vulnerabilities and exposures are also increasing exponentially
+- Source: https://www.cvedetails.com/
 
 --
 
@@ -39,7 +35,17 @@ Note:
 
 Note:
 
-- Change is the only constant, and its rate is accelerating
+- The upcoming Policy on Service and Digital, OneGC, and the GC Digital Stanards, is the GC catching up with citizens expectations
+- Banks are training investment bankers to code. From Financial Times and Wall Street Journal.
+  - E.g. Citigroup traders get a 3-day Python course. JPMorgan Chase 300 analysts mandatory Python programming courses.
+  - Source: https://www.techrepublic.com/article/why-big-banks-are-requiring-workers-to-learn-coding/
+- Windows operating system has 60 million lines of code
+- In 2010 cars already contained around one hundred million
+  - Source: [Project to Product, Mik Kersten](https://projecttoproduct.org/)
+
+--
+
+### Change is the only constant, and its rate is accelerating
 
 --
 
@@ -72,7 +78,23 @@ Note:
 
 ---
 
-![Approach: Diagnose, Recommend, Measure, Enable New Ways](./assets/images/slf-presentation-approach.jpg)
+### Our Mandate: helping you navigate through change
+
+![Mandate: helping you navigate through change](./assets/images/slf-presentation-mandate.png)
+
+Note:
+
+- We want to enable IT to rapidly respond to changes
+- We do this by reducing risks and enabling untapped strategic value of technology
+- The idea here is accepting complexity and finding new methods of managing IT investements
+- E.g. reduce project sizes, improve information flow between teams, make it less onerous to approve change, use emperical evidence to inform decisions
+- E.g. of problems identified: AppDev SAs release process needing 13 separate teams and up to 46 interactions
+
+---
+
+### Our Approach
+
+![Approach: Diagnose, Recommend, Measure, Enable New Ways](./assets/images/slf-presentation-approach.png)
 
 Note:
 
@@ -91,18 +113,6 @@ Note:
 
 ---
 
-![Mandate: helping you navigate through change](./assets/images/slf-presentation-mandate.jpg)
-
-Note:
-
-- We want to enable IT to rapidely respond to changes
-- We do this by reducing risks and enabling untapped strategic value of technology
-- The idea here is accepting complexity and finding new methods of managing IT investements
-- E.g. reduce project sizes, improve information flow between teams, make it less onerous to approve change, use emperical evidence to inform decisions
-- E.g. of problems identified: AppDev SAs release process needing 13 separate teams and up to 46 interactions
-
----
-
 ### Questions
 
 ---
@@ -113,7 +123,7 @@ Note:
 
 ### Examples of topics
 
-The following are examples of topics the team is exploring:
+Examples of topics the team is exploring:
 
 1. Using 20% of time to learn and improve
 2. Reducing toil to focus on meaningful work
