@@ -18,12 +18,13 @@ Note:
 
 --
 
-insert pic of amount of github contribution over the years showing pace of software change
+![Number of CVEs over time](./assets/images/slf-presentation-cve-overtime.png)
 
 Note:
 
-- Using Github as a source to measure the pace of software change, we can see that it's exponential
-- This is a glimps of how addressing software patching, versioning, and overall intergration complexity needs to be addressed
+- This graph represents the number of Common Vulnerabilities and Exposures (CVE) over a 20 year timespan
+- Security vulnerabilities and exposures are also increasing exponentially
+- Source: https://www.cvedetails.com/
 
 --
 
