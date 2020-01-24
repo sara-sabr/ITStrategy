@@ -1,4 +1,4 @@
-<!--markdownlint-disable MD001 MD033 MD026-->
+<!--markdownlint-disable MD001 MD033 MD026 MD036 -->
 <style>
 .reveal section img { background:none; border:none; box-shadow:none; }
 </style>
@@ -20,6 +20,7 @@ Note:
 --
 
 ![Number of CVEs over time](./assets/images/slf-presentation-cve.png)
+
 _source: cvedetails.com_
 
 Note:
