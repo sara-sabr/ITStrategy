@@ -15,7 +15,7 @@ Stratégie TI EDSC
 
 Note:
 
-- Les changements sont déjà parmis nous, nous les expérimentons maintenant
+- Les changements sont déjà parmi nous, nous les expérimentons maintenant
 
 --
 
@@ -27,9 +27,9 @@ _Source: https://www.cvedetails.com/_
 
 Note:
 
-- Le graphique ci-dessus représentes le nombre de vulnérabilités (CVE) sur 20 ans
+- Le graphique ci-dessus représente le nombre de vulnérabilités (CVE) sur 20 ans
 - Source: https://www.cvedetails.com/
-- Ceci n'est qu'un apperçu de la complexité de la gestion des correctifs, des versions, et du niveau d'intégrations entres logiciels
+- Ceci n'est qu'un aperçu de la complexité de la gestion des correctifs, des versions, et du niveau d'intégrations entre logiciels
 
 --
 
@@ -38,11 +38,11 @@ Note:
 Note:
 
 - La politique sur les services et le numérique, OneGC, les normes numériques du GC, représente le GC qui se rattrape aux attentes des citoyens
-- Les banques forment leurs bankiers à coder. Du Financial Times et Wall Street Journal.
-  - e.g. Citigroup donne un cours de 3 jours à leurs banquiers pour qu'ils aprennent Python
-  - e.g. JPMorgan Chase a un cours obligatoir sur Python pour ses 300 analystes
+- Les banques forment leurs banquiers à coder. Du Financial Times et Wall Street Journal.
+  - e.g. Citigroup donne un cours de 3 jours à leurs banquiers pour qu'ils apprennent Python
+  - e.g. JPMorgan Chase a un cours obligatoire sur Python pour ses 300 analystes
   - Source: https://www.techrepublic.com/article/why-big-banks-are-requiring-workers-to-learn-coding/
-- Les voitures on maintenant des centaine de million de lignes de codes.
+- Les voitures ont maintenant des centaines de millions de lignes de codes.
   - Source: https://www.technologyreview.com/s/508231/many-cars-have-a-hundred-million-lines-of-code/
 
 --
@@ -55,13 +55,13 @@ Note:
 
 Note:
 
-- L'accessibillité n'est qu'un exemple. La cyber-sécurité, la gestion de l'information, la saine gestion des fonds publiques peuvent aussi être ajoutés à la liste
+- L'accessibilité n'est qu'un exemple. La cybersécurité, la gestion de l'information, la saine gestion des fonds publiques peuvent aussi être ajoutés à la liste
 
 --
 
 ### Comment gérez-vous ces changements en ce moment?
 
-1. Combien de fois, par mois, est-ce que vos priorités changes?
+1. Combien de fois, par mois, est-ce que vos priorités changent?
 2. Combien de fois devez-vous réviser vos estimés de projets?
 3. Combien de vos engagements dépendent de la capacité d'une autre équipe à tenir ses engagements?
 
@@ -89,13 +89,13 @@ Note:
 - Nous faisons cela en réduisant les risques afin de permettre l'utilisation des valeurs technologiques inexploitées
 - L'idée ici est d'accepter la complexité et de trouver de nouvelles méthodes de gestions des investissements TI
 - E.g. réduire la traille des projets, améliorer l'échange d'information entre les équipes, rendre moins onéreuse l'approbation des changements, utiliser des preuves empiriques pour éclairer des décisions
-- E.g. de problèmes déjà identifés: Le processus de relâche que les Conseillers Séniors en AppDev on cartographier: le processus demande l'intervention de 13 équipes différentes et jusqu'à 46 interactions entres elles.
+- E.g. de problèmes déjà identifiés: Le processus de relâche que les Conseillers Séniors en AppDev ont cartographié: le processus demande l'intervention de 13 équipes différentes et jusqu'à 46 interactions entres elles.
 
 ---
 
 ### Approche
 
-![Approche: Diagnostic, Recommandations, Measure, améliorations](./assets/images/slf-presentation-approach-fr.png)
+<img src="assets/images/slf-presentation-approach-fr.png" alt="Approche: Diagnostic, Recommandations, Measure, améliorations" height="90%" width="90%">
 
 Note:
 
@@ -104,10 +104,10 @@ Note:
    - Clairement identifier les problèmes
    - Rechercher les bonnes pratiques
 2. Recommandations
-   - Permettre de nouvelles façons de pensées
-   - Stratégies et actions qui fonctionnent à la fois au niveau opérationnel et au niveau de câdres supérieur
+   - Permettre de nouvelles façons de penser
+   - Stratégies et actions qui fonctionnent à la fois au niveau opérationnel et au niveau de cadres supérieurs
 3. Mesurer les progrès
-   - Les progrès avec des paramètres, non-invasives
+   - Les progrès avec des paramètres, non invasifs
    - Utiliser des preuves empiriques pour corriger la trajectoire
 4. Améliorations
    - Permettre de nouvelles méthodes de travail et assurer la retraite des anciennes (Dette organisationnelle)
@@ -118,16 +118,14 @@ Note:
 
 ---
 
-### Acétates de soutiens
+### Diapositives de soutien
 
 --
 
 ### Exemples de sujets
 
-Ce qui suit sont des exemples de sujets que l'équipe est en train d'évaluer:
-
 1. Utiliser 20% de notre temps pour apprendre et s'améliorer
-2. Réduire la labeur pour se concentrer sur le travail important et intéressant
+2. Réduire le labeur pour se concentrer sur le travail important et intéressant
 3. Passer de la gestion de projets à la gestion de produits
 4. Couplage lâche des solutions pour permettre une plus grande indépendance des équipes de produits
 
