@@ -46,7 +46,6 @@ Note:
 - In 2010 cars already contained around one hundred million
   - Source: [Project to Product, Mik Kersten](https://projecttoproduct.org/)
 
-
 --
 
 ### Change is the only constant, and its rate is accelerating
@@ -88,7 +87,6 @@ Note:
 
 Note:
 
-
 - We want to enable IT to rapidly respond to changes
 - We do this by reducing risks and enabling untapped strategic value of technology
 - The idea here is accepting complexity and finding new methods of managing IT investements
@@ -98,7 +96,6 @@ Note:
 ---
 
 ### Our Approach
-
 
 <img src="assets/images/slf-presentation-approach.png" alt="Approach: Diagnose, Recommend, Measure, Enable New Ways" height="85%" width="85%">
 
