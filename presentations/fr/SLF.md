@@ -19,21 +19,7 @@ Note:
 
 --
 
-### Vulnérabilités par année
-
-![Nombre de vulnérabilités par année](./assets/images/slf-presentation-cve.png)
-
-_Source: https://www.cvedetails.com/_
-
-Note:
-
-- Le graphique ci-dessus représente le nombre de vulnérabilités (CVE) sur 20 ans
-- Source: https://www.cvedetails.com/
-- Ceci n'est qu'un aperçu de la complexité de la gestion des correctifs, des versions, et du niveau d'intégrations entre logiciels
-
---
-
-![Le changement est la seule constante, et il s'accélère](./assets/images/arrow_animated.gif)
+### Le changement est la seule constante, et il s'accélère
 
 Note:
 
@@ -47,10 +33,6 @@ Note:
 
 --
 
-### Le changement est la seule constante, et il s'accélère
-
---
-
 ![Infographique sur l'accessibilité](./assets/images/slf-presentation-accessibility-fr.png)
 
 Note:
@@ -59,11 +41,11 @@ Note:
 
 --
 
-### Comment gérez-vous ces changements en ce moment?
+### Comment gérons-nous ces changements en ce moment?
 
-1. Combien de fois, par mois, est-ce que vos priorités changent?
-2. Combien de fois devez-vous réviser vos estimés de projets?
-3. Combien de vos engagements dépendent de la capacité d'une autre équipe à tenir ses engagements?
+1. Priorités
+2. Révision des estimés de projets
+3. Dépendances aux autres équipes
 
 Note:
 
@@ -76,6 +58,10 @@ Note:
   - Q74b. Dans l'ensemble, dans quelle mesure les facteurs suivants vous causent-ils du stress au travail? Lourde charge de travail, CS4 = 41%, CS5 = 52% grande ou très grande mesure
   - Q74c.  Dans l'ensemble, dans quelle mesure les facteurs suivants vous causent-ils du stress au travail? Délais déraisonnables, CS4 = 27%, CS5 = 39% grande ou très grande mesure
   - Q74d. Dans l'ensemble, dans quelle mesure les facteurs suivants vous causent-ils du stress au travail? Pas assez d'employé(e)s pour faire le travail. CS4 = 35%, CS5 = 29% grande ou très grande mesure
+
+--
+
+![Meme 'Ça va bien' avec bureau en feu et chien](./assets/images/slf-presentation-this-is-fine-fr.jpg)
 
 ---
 
@@ -113,6 +99,10 @@ Note:
    - Permettre de nouvelles méthodes de travail et assurer la retraite des anciennes (Dette organisationnelle)
 
 ---
+
+![Meme 'Qui veut changer?'](./assets/images/slf-presentation-change-question-fr.jpg)
+
+--
 
 ### Questions
 

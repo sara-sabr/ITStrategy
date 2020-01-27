@@ -19,21 +19,7 @@ Note:
 
 --
 
-### Vulnerabilities Per Year  
-
-![Number of CVEs over time](./assets/images/slf-presentation-cve.png)
-
-_Source: [https://www.cvedetails.com](https://www.cvedetails.com)_
-
-Note:
-
-- This graph represents the number of Common Vulnerabilities and Exposures (CVE) over a 20 year timespan
-- Security vulnerabilities and exposures are also increasing exponentially
-- Source: https://www.cvedetails.com/
-
---
-
-![Change is the only constant, and its rate is accelerating](./assets/images/arrow_animated.gif)
+### Change is the only constant, and its rate is accelerating
 
 Note:
 
@@ -48,10 +34,6 @@ Note:
 
 --
 
-### Change is the only constant, and its rate is accelerating
-
---
-
 ![Accessibily act infographic](./assets/images/slf-presentation-accessibility.jpg)
 
 Note:
@@ -60,11 +42,11 @@ Note:
 
 --
 
-### How are you handling those changes right now?
+### How are we handling those changes right now?
 
-1. How often, per month, do your priorities change?
-2. How often do you have to revisit your project estimates?
-3. How many of your commitments depend on another team's ability to deliver?
+1. Priorities
+2. Revisited Project Estimates
+3. Dependencies to Other Teams
 
 Note:
 
@@ -78,6 +60,10 @@ Note:
   - Q74b. Overall, to what extent do the following factors cause you stress at work? Heavy workload, CS4 = 41$, CS5 = 52% large or very large extent
   - Q74c. Overall, to what extent do the following factors cause you stress at work? Unreasonable deadlines, CS4 = 27%, CS5 = 39% large or very large extent
   - Q74d. Overall, to what extent do the following factors cause you stress at work? Not enough employees to do the work, CS4 = 35%, CS5 = 29% large or very large extent
+
+--
+
+![This if fine meme](./assets/images/slf-presentation-this-is-fine.jpg)
 
 ---
 
@@ -115,6 +101,10 @@ Note:
    - Enabling new ways of working and ensuring we retire the old ones (Organizational Debt)
 
 ---
+
+![Meme 'Who wants change?'](./assets/images/slf-presentation-change-question.jpg)
+
+--
 
 ### Questions
 
