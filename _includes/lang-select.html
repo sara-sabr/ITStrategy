@@ -1,0 +1,40 @@
+<script>
+    function selectLanguage(e){
+      e = e || window.event;  
+      var src = e.target || e.srcElement;
+      var selectedLanguage = src.innerText
+
+      if (selectedLanguage == "{{ site.language.en }}"){
+        localStorage.setItem(
+          "language", "{{ site.language.en }}"
+        )
+        var childTag = src.children
+        if ( childTag.length > 0 && childTag[0].tagName === "a" && childTag[0].href && childTag.href !== ""){
+            window.location.replace(
+                src.href
+            )
+        }
+        else{
+            window.location.replace(
+                "./{{ site.index.en }}"
+            )
+        }
+      }
+      else if ( selectedLanguage == "{{ site.language.fr }}" ){
+        localStorage.setItem(
+          "language", "{{ site.language.fr }}"
+        )
+        var childTag = src.children
+        if ( childTag.length > 0 && childTag[0].tagName === "a" && childTag[0].href && childTag.href !== ""){
+            window.location.replace(
+                src.href
+            )
+        }
+        else{
+            window.location.replace(
+                "./{{ site.index.fr }}"
+            )
+        }
+      }
+    }  
+</script>

@@ -16,6 +16,25 @@
       {{ content }}
     </main>
 
+    {% include lang-select.html %}
+    
+    <script>
+    (function(){
+      // get language setting from localstorage if it exists
+      var localStorageLang = localStorage.getItem("language")
+      if (localStorageLang && localStorageLang === "{{ site.language.en }}"){
+        window.location.replace(
+          "./{{ site.index.en }}"
+        )
+      }
+      else if (localStorageLang && localStorageLang === "{{ site.language.fr }}"){
+        window.location.replace(
+          "./{{ site.index.fr }}"
+        )
+      }
+  
+      console.log("No langauge found")
+    })();
+    </script>
   </body>
-
 </html>
