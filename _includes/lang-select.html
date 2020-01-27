@@ -9,12 +9,7 @@
           "language", "{{ site.language.en }}"
         )
         var childTag = src.children
-        if ( childTag.length > 0 && childTag[0].tagName === "a" && childTag[0].href && childTag.href !== ""){
-            window.location.replace(
-                src.href
-            )
-        }
-        else{
+        if ( !(childTag.length > 0 && childTag[0].tagName === "a" && childTag[0].href && childTag.href !== "")){
             window.location.replace(
                 "./{{ site.index.en }}"
             )
@@ -25,12 +20,7 @@
           "language", "{{ site.language.fr }}"
         )
         var childTag = src.children
-        if ( childTag.length > 0 && childTag[0].tagName === "a" && childTag[0].href && childTag.href !== ""){
-            window.location.replace(
-                src.href
-            )
-        }
-        else{
+        if ( !(childTag.length > 0 && childTag[0].tagName === "a" && childTag[0].href && childTag.href !== "")){
             window.location.replace(
                 "./{{ site.index.fr }}"
             )
