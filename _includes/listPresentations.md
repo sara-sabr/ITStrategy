@@ -12,10 +12,10 @@ _{{ site.printPDFNotice[page.lang] }}_
           {{ pres.path | replace: "/presentations/fr/", "" | replace: ".md", "" }}
         </a>
       </strong>
-      (<a target="_blank" href="presentation.html?markdown=en/{{ pres.path | replace: "/presentations/en/", ""  }}&print-pdf">
+      (<a target="_blank" href="presentation.html?markdown=fr/{{ pres.path | replace: "/presentations/fr/", ""  }}&print-pdf">
           {{ site.printPDF[page.lang] }}/
       </a>
-      <a target="_blank" href="presentation.html?markdown=en/{{ pres.path | replace: "/presentations/en/", ""  }}&shownotes&print-pdf">
+      <a target="_blank" href="presentation.html?markdown=fr/{{ pres.path | replace: "/presentations/fr/", ""  }}&shownotes&print-pdf">
           {{ site.printPDFNotes[page.lang] }}
       </a>)
     </li>
