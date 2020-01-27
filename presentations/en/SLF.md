@@ -18,10 +18,11 @@ Note:
 - Change is already here, we are experiencing it right now
 
 --
+### Vulnerabilities Per Year  
 
 ![Number of CVEs over time](./assets/images/slf-presentation-cve.png)
 
-_source: cvedetails.com_
+_Source: [https://www.cvedetails.com](https://www.cvedetails.com)_
 
 Note:
 
