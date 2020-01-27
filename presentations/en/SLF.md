@@ -94,7 +94,7 @@ Note:
 
 ### Our Approach
 
-![Approach: Diagnose, Recommend, Measure, Enable New Ways](./assets/images/slf-presentation-approach.png)
+<img src="assets/images/slf-presentation-approach.png" alt="Approach: Diagnose, Recommend, Measure, Enable New Ways" height="85%" width="85%">
 
 Note:
 
