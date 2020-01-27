@@ -4,7 +4,7 @@ title: Digital Identity Timeline
 ref: digital-id-timeline
 lang: en
 status: posted
-sections: Work In Progress
+sections: Archives
 permalink: /digital-identity-timeline.html
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Travailler ouvertement et les façons dont vous pouvez contribuer
+title: Travailler ouvertement
 ref: how-to-contribute
 lang: fr
 status: posted

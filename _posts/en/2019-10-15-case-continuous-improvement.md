@@ -3,17 +3,17 @@ layout: post
 title:  "Case for Continuous Improvement"
 ref: case-continuous-improvement
 lang: en
-author: "IT Strategy Team"
+author: "Jayson McIntosh, in collaboration with the IT Strategy Team"
 date: "2019-10-15"
 last_modified: "2019-11-13"
 excerpt_separator: <!--more-->
 ---
 In [The DevOps Handbook](https://itrevolution.com/book/the-devops-handbook/) the authors make a case for teams spending at least 20% of their time towards reducing technical debt.
 
-> The deal [between product owners and] engineering goes like this: Product management takes 20% of the team’s capacity right off the top and gives this to engineering to spend as they see fit.
+> The deal [between product owners and] engineering goes like this: Product management takes 20% of the team's capacity right off the top and gives this to engineering to spend as they see fit.
 <!--more-->
 > They might use it to rewrite, re-architect, or re-factor problematic parts of the code base…whatever they believe is necessary to avoid ever having to come to the team and say, ‘we need to stop and rewrite [all our code].’
-> If you’re in really bad shape today, you might need to make this 30% or even more of the resources.
+> If you're in really bad shape today, you might need to make this 30% or even more of the resources.
 > However, I get nervous when I find teams that think they can get away with much less than 20%.
 
 I am going to abstract this to suggest that all teams should spend at least 20% of their time improving the way they work.
@@ -22,7 +22,7 @@ In the book they recommend that an enabling team could spend time assisting othe
 My colleague challenged me on our ability to sell ourselves as a learning team.
 People are busy, why would people want to slow themselves down by committing time away from their priorities to improve? How would you sell that to a team already working at 120% capacity?
 
-Many of us already know from the [Phoenix Project](https://itrevolution.com/book/the-phoenix-project/) the hand wave anecdotal justification for committing time to improving one’s process.
+Many of us already know from the [Phoenix Project](https://itrevolution.com/book/the-phoenix-project/) the hand wave anecdotal justification for committing time to improving one's process.
 If one was really taken with the Phoenix Project they may invest the time to learn more by learning the magic of DevOps through books such as [The DevOps Handbook](https://itrevolution.com/book/the-devops-handbook/) (which I suggest you do).
 However, if you're in a position where you need to quickly make a business case for continuous improvement, how does one do this?
 That is what I will try to do here.
@@ -44,7 +44,7 @@ If that sounded a little math-y or jargon-y, we'll walk through it below.
 
 If we graph f(x) = x we will get a line as follows
 
-![Graph of f(x) = x]({{site.baseurl}}/assets/images/graphx.PNG)
+![Graph of f(x) = x]({{ site.baseurl }}/assets/images/graphx.PNG)
 
 We are defining y-axis (the vertical one) as the total units of business value produced, and the x-axis to be time.
 The line then is the total units of business value produced over some unit of time.
@@ -63,7 +63,7 @@ This should give us an exponential curve, which looks something like this
 f(x) = x<sup>2</sup>
 <!-- markdownlint-enable MD033 -->
 
-![Graph of f(x) = x^2]({{site.baseurl}}/assets/images/drawgraphx2.PNG)
+![Graph of f(x) = x^2]({{ site.baseurl }}/assets/images/drawgraphx2.PNG)
 
 The most obvious thing we notice is that the exponential function grows much faster.
 One may counter, however, that there is an initial loss of productivity if one spends time improving rather than actually *doing work*, so we must account for this.
@@ -87,7 +87,7 @@ f(x) = x<sup>2</sup> - (x*l)
 What happens when we graph this? Well, let's assume we spent 20% of our day on continuous improvement.
 Then we lose 20% of our productivity per month.
 
-![Graph of f(x) = x^2]({{site.baseurl}}/assets/images/graphx2minusxl.PNG)
+![Graph of f(x) = x^2]({{ site.baseurl }}/assets/images/graphx2minusxl.PNG)
 
 Notice at the bottom that the curve flattens out slightly.
 This decrease in productivity is always present as x (the amount of time) increases.
@@ -149,11 +149,11 @@ f(x) = x<sup>1.1</sup> - (x*.2)
 
 And if we graph this, we will get the following curve
 
-![f(x) = x^(1.1) - (x*l)]({{site.baseurl}}/assets/images/fullfunction.PNG)
+![f(x) = x^(1.1) - (x*l)]({{ site.baseurl }}/assets/images/fullfunction.PNG)
 
 Great! What's next? Well, let's say we compare that with a team that does not continually improve, and continues to grind through, day to day, doing things "as they've always done them".
 
-![Compare curves]({{site.baseurl}}/assets/images/comparecurves1.PNG)
+![Compare curves]({{ site.baseurl }}/assets/images/comparecurves1.PNG)
 
 We can see that the red line, which represents the team that continually improves for 20% of their day for a small 10% return in productivity will be more productive in about 6 months (or 6.192 months, to be exact).
 Even if you reduced the productivity gained by half (to 5%, or 0.05), you would still find that before 39 months is up the team that continuously improves will inevitably end up outperforming the team who does not.
@@ -172,13 +172,15 @@ If you're interested in further details, below we are going to talk about how to
 Thanks for reading! This was my attempt at going from simple to more complex in an attempt to try and more formally and rigorously define the logic behind committing to continually improving.
 In the first part of this document [The Case for Continuous Improvement](#the-case-for-continuous-improvement) I was hoping to provide a easily consumable and succinct pitch for folks to start continuously improving without requiring them to read all the books... though it would be best if they did.
 It only requires one to remember a little from the dusty math books.
-The [next post]({{ site.baseurl}}/2019/11/13/case-continuous-improvement-deeper-dive.html) is intended for the more committed reader to try and more deeply explore the outputs desired from continually improving, and what we should take into consideration when doing so.
+The [next post]({{ site.baseurl }}/2019/11/13/case-continuous-improvement-deeper-dive.html) is intended for the more committed reader to try and more deeply explore the outputs desired from continually improving, and what we should take into consideration when doing so.
 This blog post was a blast to write.
 
 Thanks for reading!
 
 <!--markdownlint-disable MD036-->
 *Edited on 2019-11-13:The Deeper Dive section has been moved to a following post to shorten the length of this article and the conclusion has been adapted to better represent this new structure.*
+
+*Edited on 2020-01-01: The post was edited to add the main author.*
 <!--markdownlint-enable MD036-->
 
 ## References

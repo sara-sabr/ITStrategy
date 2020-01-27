@@ -19,7 +19,7 @@ permalink: /tendances.html
 - Identité numérique
   - Une voie d'avenir ou une tendance
 - L'informatique en tant qu'expertise normalisée (~finance & RH)
-  - Comme l'automatisation et le codage imprègnent tous les domaines (sécurité, audit, middleware, réseautique, etc.), l'automatisation de l'infrastructure et la conformité automatisée resteront sous la responsabilité des TI. Cependant, le développement d'applications spécifiques deviendra de plus en plus courant en dehors des discplines des spécialistes IT.
+  - Comme l'automatisation et le codage imprègnent tous les domaines (sécurité, audit, middleware, réseautique, etc.), l'automatisation de l'infrastructure et la conformité automatisée resteront sous la responsabilité des TI. Cependant, le développement d'applications spécifiques deviendra de plus en plus courant en dehors des disciplines des spécialistes IT.
     - La programmation n'est pas la propriété exclusive de la DGIIT. Mais la DGIIT doit fournir l'écosystème pour qu'il demeure conforme et durable.
 
 Tendances informatiques
