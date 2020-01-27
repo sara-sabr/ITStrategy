@@ -39,17 +39,16 @@
 
       <!-- Language picker -->
       <ul class="navbar-nav float-right">      
-        {%- assign posts=site.posts | where:"ref", page.ref | sort: 'lang' -%}
-        {%- for my_post in posts -%}
-          {% if my_post.lang != page.lang %}
-            <li class="nav-item"><a class="nav-link" lang="{{ my_post.lang }}" hreflang="{{ my_post.lang }}" href="{{ my_post.url | prepend: site.baseurl }}">{{ site.language[my_post.lang] }}</a></li>
-          {%- endif -%}
-        {%- endfor -%}
-
         {%- assign pages=site.pages | where:"ref", page.ref | sort: 'lang' -%}
         {%- for my_page in pages -%}
           {% if my_page.lang != page.lang %}
-            <li class="nav-item"><a class="nav-link" lang="{{ my_page.lang }}" hreflang="{{ my_page.lang }}" href="{{ my_page.url | prepend: site.baseurl }}">{{ site.language[my_page.lang] }}</a></li>
+            <li class="nav-item" >
+              <button class= "lang-select" onclick="selectLanguage()">
+                <a class="nav-link"  lang="{{ my_page.lang }}" hreflang="{{ my_page.lang }}" href="{{ my_page.url | prepend: site.baseurl }}">
+                  {{ site.language[my_page.lang] }}
+                </a>
+              </button>
+            </li>
           {%- endif -%}
         {%- endfor -%}
       </ul>
