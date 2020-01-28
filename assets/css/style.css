@@ -195,15 +195,15 @@ a.btn:focus {
   transition: all .2s ease;
 }
 
-
-.lang-select {
-  background-color: #189582;
-  border-radius: 20px;
-  border: 0px;
+.lang-select-container{
+  height: 30px;
 }
 
-.lang-select a{
-  color: white !important;
+.lang-select {
+  background-color: black;
+  border: 0px;
+  height: inherit;
+  color: white;
 }
 
 .lang-select:hover{

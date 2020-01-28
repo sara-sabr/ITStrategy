@@ -1,30 +1,52 @@
 <script>
-    function selectLanguage(e){
-      e = e || window.event;  
-      var src = e.target || e.srcElement;
-      var selectedLanguage = src.innerText
+    function selectLanguage(e){  
+      e = e || window.event;
+      var src;
+      if (! (e.target || e.srcElement) ){
+        src = e
+      }
+      else{
+        src = e.target || e.srcElement;
+      }
 
-      if (selectedLanguage == "{{ site.language.en }}"){
+      var selectedLanguage = src.innerText.trim()
+
+    
+      if (selectedLanguage === "{{ site.language.en }}"){
         localStorage.setItem(
           "language", "{{ site.language.en }}"
         )
-        var childTag = src.children
-        if ( !(childTag.length > 0 && childTag[0].tagName === "a" && childTag[0].href && childTag.href !== "")){
+        
+        if (src.attributes.hasOwnProperty("href") && src.attributes.href.value !== ""){
+            window.location.replace(
+                src.attributes.href.value
+            )
+        }
+        else {
             window.location.replace(
                 "./{{ site.index.en }}"
             )
+
         }
       }
-      else if ( selectedLanguage == "{{ site.language.fr }}" ){
+
+      else if ( selectedLanguage === "{{ site.language.fr }}" ){
         localStorage.setItem(
           "language", "{{ site.language.fr }}"
         )
-        var childTag = src.children
-        if ( !(childTag.length > 0 && childTag[0].tagName === "a" && childTag[0].href && childTag.href !== "")){
+
+        if (src.attributes.hasOwnProperty("href") && src.attributes.href.value !== ""){
+            window.location.replace(
+                src.attributes.href.value
+            )
+        }
+        else {
             window.location.replace(
                 "./{{ site.index.fr }}"
             )
+
         }
+    
       }
     }  
 </script>
