@@ -10,6 +10,7 @@ assignees: Moro-Code, ElminaIusifova
 **Description**
 
 
+
 **Device Information**  
 *Device*:  
 *Operating System (incl. version)*:  
@@ -23,6 +24,7 @@ assignees: Moro-Code, ElminaIusifova
 *Additional Details*:  
 
 **Screenshot(s) (if possible)**
+
 
 
 **Additional information or thoughts**
