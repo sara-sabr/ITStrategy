@@ -139,4 +139,4 @@ Examples of topics the team is exploring:
 
 - EDSC.DGIIT.StrategieTI-ITStrategy.IITB.ESDC@hrsdc-rhdcc.gc.ca
 - https://sara-sabr.github.io/ITStrategy
-- sara-sabr.slack.com
+- https://sara-sabr.slack.com
