@@ -128,3 +128,11 @@ Note:
 3. [Plan stratégique des opérations numériques de 2018 à 2022](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/plan-strategique-operations-numerique-2018-2022.html)
 4. [Nouvelle politique sur les services et le numérique](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32603)
 5. [IITB Way Forward](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx)
+
+--
+
+### Contactez-nous
+
+- EDSC.DGIIT.StrategieTI-ITStrategy.IITB.ESDC@hrsdc-rhdcc.gc.ca
+- https://sara-sabr.github.io/ITStrategy
+- https://sara-sabr.slack.com

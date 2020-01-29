@@ -132,3 +132,11 @@ Examples of topics the team is exploring:
 3. [GC Digital Operations Strategic Plan 2018-2022](https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html)
 4. [Upcoming Policy on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603)
 5. [IITB Way Forward](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx)
+
+--
+
+### Contact Us
+
+- EDSC.DGIIT.StrategieTI-ITStrategy.IITB.ESDC@hrsdc-rhdcc.gc.ca
+- https://sara-sabr.github.io/ITStrategy
+- https://sara-sabr.slack.com
