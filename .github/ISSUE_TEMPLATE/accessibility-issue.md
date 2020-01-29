@@ -17,7 +17,7 @@ assignees: Moro-Code, ElminaIusifova
 *Additional Details*:
 
 **Element(s) Information**  
-*Page* :  
+*Page*:  
 *CSS Selector(s) (if possible and applicable)*:  
 *Additional Identifier(s) (if possible and applicable)*:  
 *Additional Details*:  
