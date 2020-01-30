@@ -18,7 +18,11 @@ Innovation, Information, and Technology Branch
 
 ## 1. Context within ESDC
 
+<!---
 ![IIT branch in relation to the others](assets/images/ESDC_overview.png)
+--->
+
+<img src="assets/images/ESDC_overview.png" alt="IIT branch in relation to the others" height="85%" width="85%">
 
 Note:
 
@@ -253,7 +257,10 @@ Note:
 
 ### Technology is ubiquitous
 
+<!---
 ![IT within all the branches](assets/images/ESDC_overview_ubiquitous_tech.png)
+--->
+<img src="assets/images/ESDC_overview_ubiquitous_tech.png" alt="IIT branch in relation to the others" height="85%" width="85%">
 
 Note:
 
