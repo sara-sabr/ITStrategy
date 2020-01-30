@@ -75,11 +75,12 @@ IITB manages:
 
 - 91 active (or on hold) projects
 - 500 applications, 101 mission critical
-- XX 1,400 upgrades/changes annually
-- XX 320,000 service requests annually
+- 1550 upgrades/changes annually
+- 430,000 service requests annually
 
 Note:
 
+- Actual 2019 numbers: 1559 upgrades/changes, 432,077 service requests
 - EI, CPP, and OAS rely on 150 custom build applications and an aged mainframe
 - Source of data: [2019-22 plan](http://dialogue/grp/BU6810070/Shared%20Documents/Reference%20Materials/ESDC%20IT%20Plan%202019-22.pdf), [Project Centre](https://gpp-ppm.service.gc.ca/sites/pwa/Projects.aspx), and [IITB Business Model](http://esdc.prv/en/iitb/corporate/doc/IITBBusinessModel.pdf) from IntraWeb
 
