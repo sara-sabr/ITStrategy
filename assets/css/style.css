@@ -172,9 +172,10 @@ li .nav-link {
   color: #545454 !important;
 }
 
-p a {
+main a {
   color: #0054B3 !important;
 }
+
 .custom-toggler-icon {
   color: white;
   font-size: 1.6rem;
