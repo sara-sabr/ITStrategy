@@ -142,7 +142,7 @@ Note:
 To Canadians:
 
 - Service Modernization
-  - Benefits Delivery Modernization (BDM)
+  - ***Benefits Delivery Modernization (BDM)***
   - Service Transformation Plan (STP)
   - OAS Improvement Strategy (OAS-IS)
   - Integrated Labour Systems (ILS)
