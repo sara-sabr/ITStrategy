@@ -54,7 +54,7 @@ As the team is taking an iterative approach to strategy making, the following co
 2. Perform outreach to community of targeted stakeholders
 3. Measuring and communicating progress update to targeted stakeholders
 
-The type of stakeholder to target will depend on the type of strategy to endorse and execute.
+The engagement with stakeholders will depend on their level of involvement in making and implementing our strategies.
 
 The above communication work will require to make relevant and transparent messages to the wide group of stakeholders in order to increase accountability, build and maintain credibility in the department.
 
