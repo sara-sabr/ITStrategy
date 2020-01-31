@@ -17,21 +17,21 @@ permalink: /strategy-communications.html
 
 ## Purpose
 
-To elaborate on the re-usable methods the IT Strategy team will have at its disposal in communicating effectively its strategies to various audiences.
+To elaborate iterative process of soliciting the knowledge, experience judgement and values of wide range of different shareholders
 
 ## Objectives
 
 The objectives of the team's communication strategy are to:
 
-- Engage effectively with stakeholders during both the strategy making process and its execution
+- Enhance identity and maintaining relationships with stakeholders during both the strategy making process and its execution
 - Ensure stakeholders understand the intent of the IT strategies
 - Raise awareness of IT Strategies being produced and approved for ESDC personnel, more specifically IITB
-- Change behaviours and perceptions where necessary
-- Demonstrate the success of IT strategies
+- Educate, train, change behaviours and perceptions where necessary
+- Highlight the success of IT strategies
 
 ## Stakeholders, and Key Messages
 
-_Stakeholders_ represent the type of audience the team is looking to target, and what _messages_ this audience will be targeted with based on our understanding of what they need to know.
+_Stakeholders_ represent the type of audience the team plan to engage and collaborate in its strategic business processes, and what  _messages_  this audience will be introduced based on our understanding of their expectations and interests.
 
 <!-- markdownlint-disable MD033 -->
 
@@ -56,7 +56,7 @@ As the team is taking an iterative approach to strategy making, the following co
 
 The type of stakeholder to target will depend on the type of strategy to endorse and execute.
 
-The above communication work will require to keep a consistent message to stakeholders in order to avoid confusion and maintain credibility of the team's approach.
+The above communication work will require to make relevant and transparent messages to the wide group of stakeholders in order to increase accountability, build and maintain credibility in the department.
 
 <!-- markdownlint-disable MD033 -->
 
