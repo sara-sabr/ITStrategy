@@ -145,28 +145,29 @@ Note:
 
 To Canadians:
 
-- ###### Service Modernization
-  - ###### ***Benefits Delivery Modernization (BDM)***
-  - ###### Service Transformation Plan (STP)
-  - ###### OAS Improvement Strategy (OAS-IS)
-  - ###### Integrated Labour Systems (ILS)
-  - ###### Hosted Contact Centre Solution (HCCS)
-  - ###### Passport Modernization Initiative (PMI)
-  - ###### OneGC
-  - ###### Canada Pension Plan Enhancement (CPPe)
-  - ###### In-Person Network Improvement Project
-- ###### Service Sustainability
-  - ###### Canada Pension Plan Service Improvement Srategy (CPP-SIS)
-  - ###### Employment Insurance Measures - Budget 2017
-  - ###### Employment Insurance Measures - Budget 2018
-- ###### Service Operations
-  - ###### Temporary Foreign Worker System and Web Service Enhancements 2.0
-  - ###### Maintaining Operations
-  - ###### Canada Student Loans Program (CSLP) - E-Services re-procurement
-  - ###### Security
-  - ###### Grants and Contribution Modernization
-  - ###### Fraud
-
+<font size="1">
+- Service Modernization
+  - ***Benefits Delivery Modernization (BDM)***
+  - Service Transformation Plan (STP)
+  - OAS Improvement Strategy (OAS-IS)
+  - Integrated Labour Systems (ILS)
+  - Hosted Contact Centre Solution (HCCS)
+  - Passport Modernization Initiative (PMI)
+  - OneGC
+  - Canada Pension Plan Enhancement (CPPe)
+  - In-Person Network Improvement Project
+- Service Sustainability
+  - Canada Pension Plan Service Improvement Srategy (CPP-SIS)
+  - Employment Insurance Measures - Budget 2017
+  - Employment Insurance Measures - Budget 2018
+- Service Operations
+  - Temporary Foreign Worker System and Web Service Enhancements 2.0
+  - Maintaining Operations
+  - Canada Student Loans Program (CSLP) - E-Services re-procurement
+  - Security
+  - Grants and Contribution Modernization
+  - Fraud
+</font>
 --
 
 ### Departmental IM/IT Priorities (cont'd)
