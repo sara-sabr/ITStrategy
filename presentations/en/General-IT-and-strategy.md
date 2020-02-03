@@ -407,17 +407,16 @@ Note:
 ### Focused areas of the IT Strategy
 
 - Increase responsiveness of IT
-- Moving from Project to Product Management
-- 21 DevOps capabilities (DORA), including job satisfaction
+- Reduce IT investment size
 - Adoption of Open Source, as a philosophy
-- Automation to allow staff to focus on meaningful work
+- Invest in automation to allow staff to focus on meaningful work
 - Enable IITB teams to design for users with users, iterate and improve frequently
 
 Link to [Strategy Map](strategy-summary.html)
 
 Note:
 
-- Responsiveness: using cloud technologies and automation. Goal to have daily releases to production
+- Responsiveness: using cloud technologies, automation, and new methods of workiong (e.g. product mgt). Goal to have daily releases to production
 - Product Mgt: This has financial model implication
 - Product Mgt: achieve locality of decisions (loose coupling and independence) to increase responsiveness
 - DORA: Institute that studies high-performing technology organizations
