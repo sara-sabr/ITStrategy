@@ -417,6 +417,7 @@ Link to [Strategy Map](strategy-summary.html)
 Note:
 
 - Responsiveness: using cloud technologies, automation, and new methods of workiong (e.g. product mgt). Goal to have daily releases to production
+- Reduce investment size: to reduce risk to the organization
 - Product Mgt: This has financial model implication
 - Product Mgt: achieve locality of decisions (loose coupling and independence) to increase responsiveness
 - DORA: Institute that studies high-performing technology organizations
@@ -429,15 +430,22 @@ Note:
 ### Goals
 
 - Get the user _IN_ the development process
-- Continuously learn, automate and improve
-- Reduce lead time for changes and delivery of services/devices
-- Recover faster incidents and errors
-- Reduce frequency of incidents and errors
-- Align with GC IT Direction
+- Enable ESDC to be an agile organization (iterate and improve frequently)
+- Align with overall GC IT Direction
+- Improve the 4 key metrics of a technology organization <sup>1</sup>:
+  - Lead time for changes
+  - Deployment frequency
+  - Time to restore service
+  - Change failure rate
+
+<sup>1</sup>From [DORA's research](https://cloud.google.com/devops)
 
 Note:
 
-- GC IT Direction: Policy on Service and Digital, Digital Standards, Digital Strategic Operation Plan
+- Agile org: that can respond to change, that can iterate and improve frequently
+- Agile org: currently elaborating a PoC framework
+- GC IT Direction: Policy on Service and Digital, Digital Standards, Digital Strategic Operation Plan, OneGC
+- GC IT Direction: highly complex. Will need to be able to respond fast when requirements get in
 
 --
 
