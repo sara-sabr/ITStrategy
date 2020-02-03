@@ -344,7 +344,7 @@ Note:
 
 ### Premise
 
-- The digital world is **complex** and **uncertain**. We must carry out IT intiatives differently.
+- The digital world is **complex** and **uncertain**.
 - Instead of advance planning and rigid plan execution, we must use an emperical cycle of **trying**, **observing**, and **correcting**
 
 Note:
