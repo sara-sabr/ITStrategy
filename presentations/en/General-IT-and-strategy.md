@@ -259,6 +259,7 @@ To Employees:
         </ul>
     </li>
 </ul>
+
 --
 
 ### Departmental IM/IT Priorities (cont'd)
