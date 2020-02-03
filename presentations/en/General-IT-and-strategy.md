@@ -145,29 +145,28 @@ Note:
 
 To Canadians:
 
-<font size="1">
-- Service Modernization
-  - ***Benefits Delivery Modernization (BDM)***
-  - Service Transformation Plan (STP)
-  - OAS Improvement Strategy (OAS-IS)
-  - Integrated Labour Systems (ILS)
-  - Hosted Contact Centre Solution (HCCS)
-  - Passport Modernization Initiative (PMI)
-  - OneGC
-  - Canada Pension Plan Enhancement (CPPe)
-  - In-Person Network Improvement Project
-- Service Sustainability
-  - Canada Pension Plan Service Improvement Srategy (CPP-SIS)
-  - Employment Insurance Measures - Budget 2017
-  - Employment Insurance Measures - Budget 2018
-- Service Operations
-  - Temporary Foreign Worker System and Web Service Enhancements 2.0
-  - Maintaining Operations
-  - Canada Student Loans Program (CSLP) - E-Services re-procurement
-  - Security
-  - Grants and Contribution Modernization
-  - Fraud
-</font>
+- <font size="1">Service Modernization</font>
+  - <font size="1">***Benefits Delivery Modernization (BDM)***</font>
+  - <font size="1">Service Transformation Plan (STP)</font>
+  - <font size="1">OAS Improvement Strategy (OAS-IS)</font>
+  - <font size="1">Integrated Labour Systems (ILS)</font>
+  - <font size="1">Hosted Contact Centre Solution (HCCS)</font>
+  - <font size="1">Passport Modernization Initiative (PMI)</font>
+  - <font size="1">OneGC</font>
+  - <font size="1">Canada Pension Plan Enhancement (CPPe)</font>
+  - <font size="1">In-Person Network Improvement Project</font>
+- <font size="1">Service Sustainability</font>
+  - <font size="1">Canada Pension Plan Service Improvement Srategy (CPP-SIS)</font>
+  - <font size="1">Employment Insurance Measures - Budget 2017</font>
+  - <font size="1">Employment Insurance Measures - Budget 2018</font>
+- <font size="1">Service Operations</font>
+  - <font size="1">Temporary Foreign Worker System and Web Service Enhancements 2.0</font>
+  - <font size="1">Maintaining Operations</font>
+  - <font size="1">Canada Student Loans Program (CSLP) - E-Services re-procurement</font>
+  - <font size="1">Security</font>
+  - <font size="1">Grants and Contribution Modernization</font>
+  - <font size="1">Fraud</font>
+
 --
 
 ### Departmental IM/IT Priorities (cont'd)
