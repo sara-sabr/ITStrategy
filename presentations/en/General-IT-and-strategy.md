@@ -1,5 +1,16 @@
-
 <!--markdownlint-disable MD001 MD022 MD023 MD033 MD036-->
+
+<style>
+    .thispres {
+        font-size: 12pt;
+        margin:0 0 0 1em;
+        text=align: left;
+        list-style-type:disc;
+    }
+
+   .thispres ul {list-style-type:square}
+</style>
+
 # IT at ESDC
 
 Innovation, Information, and Technology Branch
@@ -145,27 +156,41 @@ Note:
 
 To Canadians:
 
-- <font size="1">Service Modernization</font>
-  - <font size="1">***Benefits Delivery Modernization (BDM)***</font>
-  - <font size="1">Service Transformation Plan (STP)</font>
-  - <font size="1">OAS Improvement Strategy (OAS-IS)</font>
-  - <font size="1">Integrated Labour Systems (ILS)</font>
-  - <font size="1">Hosted Contact Centre Solution (HCCS)</font>
-  - <font size="1">Passport Modernization Initiative (PMI)</font>
-  - <font size="1">OneGC</font>
-  - <font size="1">Canada Pension Plan Enhancement (CPPe)</font>
-  - <font size="1">In-Person Network Improvement Project</font>
-- <font size="1">Service Sustainability</font>
-  - <font size="1">Canada Pension Plan Service Improvement Srategy (CPP-SIS)</font>
-  - <font size="1">Employment Insurance Measures - Budget 2017</font>
-  - <font size="1">Employment Insurance Measures - Budget 2018</font>
-- <font size="1">Service Operations</font>
-  - <font size="1">Temporary Foreign Worker System and Web Service Enhancements 2.0</font>
-  - <font size="1">Maintaining Operations</font>
-  - <font size="1">Canada Student Loans Program (CSLP) - E-Services re-procurement</font>
-  - <font size="1">Security</font>
-  - <font size="1">Grants and Contribution Modernization</font>
-  - <font size="1">Fraud</font>
+<ul class="thispres">
+    <li>
+        Service Modernization
+        <ul class="thispres">
+            <li><b><i>Benefits Delivery Modernization (BDM)</i></b></li>
+            <li>Service Transformation Plan (STP)</li>
+            <li>OAS Improvement Strategy (OAS-IS)</li>
+            <li>Integrated Labour Systems (ILS)</li>
+            <li>Hosted Contact Centre Solution (HCCS)</li>
+            <li>Passport Modernization Initiative (PMI)</li>
+            <li>OneGC</li>
+            <li>Canada Pension Plan Enhancement (CPPe)</li>
+            <li>In-Person Network Improvement Project</li>
+        </ul>
+    </li>
+    <li>
+        Service Sustainability
+        <ul class="thispres">
+            <li>Canada Pension Plan Service Improvement Srategy (CPP-SIS)</li>
+            <li>Employment Insurance Measures - Budget 2017</li>
+            <li>Employment Insurance Measures - Budget 2018</li>
+        </ul>
+    </li>
+    <li>
+        Service Operations
+        <ul class="thispres">
+            <li>Temporary Foreign Worker System and Web Service Enhancements 2.0</li>
+            <li>Maintaining Operations</li>
+            <li>Canada Student Loans Program (CSLP) - E-Services re-procurement</li>
+            <li>Security</li>
+            <li>Grants and Contribution Modernization</li>
+            <li>Fraud</li>
+        </ul>
+    </li>
+</ul>
 
 --
 
