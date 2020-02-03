@@ -432,13 +432,13 @@ Note:
 - Get the user _IN_ the development process
 - Enable ESDC to be an agile organization (iterate and improve frequently)
 - Align with overall GC IT Direction
-- Improve the 4 key metrics of a technology organization <sup>1</sup>:
+- Improve 4 key metrics <sup>1</sup>:
   - Lead time for changes
   - Deployment frequency
   - Time to restore service
   - Change failure rate
 
-<sup>1</sup>From [DORA's research](https://cloud.google.com/devops)
+<sup>1</sup>[DORA research](https://cloud.google.com/devops)
 
 Note:
 
