@@ -344,7 +344,8 @@ Note:
 
 ### Premise
 
-> To work effectively in the digital world, you must first accept complexity and uncertainty, for they demand very different approach to carrying out initiatives. A predictable world rewards advanced planning and rigid plan execution. But a complex and uncertain world rewards an empirical cycle of trying, observing, and correcting
+- The digital world is **complex** and **uncertain**. We must carry out IT intiatives differently.
+- Instead of advance planning and rigid plan execution, we must use an emperical cycle of **trying**, **observing**, and **correcting**
 
 Note:
 
