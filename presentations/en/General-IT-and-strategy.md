@@ -198,20 +198,30 @@ To Canadians:
 
 To ESDC:
 
-- Service Modernization
-  - Departmental Accounts Receivable System (DARS) Replacement
-  - HR Modernization
-  - Information Management forward (EDRMS)
-  - Data Science and Analytics
-  - Service Transformation Plan - Initial Service Improvements (STP-ISI)
-  - 1 800 O-Canada Operating Model Review and Procurement
-  - Wave 2 Contact Centre Migrations
-  - Upgrade Older Windows OS
-  - Maturing the Departmental Service Bus (DSB)
-- Service Operations
-  - Maintaining Operations
-  - Security
-  - Emergency Management Application System
+<ul class="thispres">
+    <li>
+    Service Modernization
+        <ul class="thispres">
+            <li>Departmental Accounts Receivable System (DARS) Replacement</li>
+            <li>HR Modernization</li>
+            <li>Information Management forward (EDRMS)</li>
+            <li>Data Science and Analytics</li>
+            <li>Service Transformation Plan - Initial Service Improvements (STP-ISI)</li>
+            <li>1 800 O-Canada Operating Model Review and Procurement</li>
+            <li>Wave 2 Contact Centre Migrations</li>
+            <li>Upgrade Older Windows OS</li>
+            <li>Maturing the Departmental Service Bus (DSB)</li>
+        </ul>
+    </li>
+    <li>
+    Service Operations
+        <ul class="thispres">
+            <li>Maintaining Operations</li>
+            <li>Security</li>
+            <li>Emergency Management Application System</li>
+        </ul>
+    </li>
+</ul>
 
 --
 
@@ -219,37 +229,72 @@ To ESDC:
 
 To Employees:
 
-- Service Modernization
-  - Mobility / Activity Based Workplace (go mobile vs desktop)
-  - Collaboration (GCTools, GitHub, Open Source)
-- Service Sustainability
-  - Desktop Software Refresh (Windows 10)
-  - Office 365
-  - Regional Service Plan (improve regions)
-- Accessibility
-  - Technology
-- Service Operations
-  - Desktop Support
-  - National Service Desk
-
+<ul class="thispres">
+    <li>
+    Service Modernization
+        <ul class="thispres">
+            <li>Mobility / Activity Based Workplace (go mobile vs desktop)</li>
+            <li>Collaboration (GCTools, GitHub, Open Source)</li>
+        </ul>
+    </li>
+    <li>
+    Service Sustainability
+        <ul class="thispres">
+            <li>Desktop Software Refresh (Windows 10)</li>
+            <li>Office 365</li>
+            <li>Regional Service Plan (improve regions)</li>
+        </ul>
+    </li>
+    <li>
+    Accessibility
+        <ul class="thispres">
+            <li>Technology</li>
+        </ul>
+    </li>
+    <li>
+    Service Operations
+        <ul class="thispres">
+            <li>Desktop Support</li>
+            <li>National Service Desk</li>
+        </ul>
+    </li>
+</ul>
 --
 
 ### Departmental IM/IT Priorities (cont'd)
 
 Foundational:
 
-- IT Service Management
-  - Solution Development Lifecycle (SDLC) improvements
-  - Software Asset Management improvements
-- Workforce
-  - National Workforce Strategy (recruitment)
-- Service Sustainability / Technical debt
-  - Network Modernization
-  - Technical Debt
-- Strategy and innovation
-  - Research
-  - Cloud
-  - Innovation (proof of concepts)
+<ul class="thispres">
+    <li>
+    IT Service Management
+        <ul class="thispres">
+            <li>Solution Development Lifecycle (SDLC) improvements</li>
+            <li>Software Asset Management improvements</li>
+        </ul>
+    </li>
+    <li>
+    Workforce
+        <ul class="thispres">
+            <li>National Workforce Strategy (recruitment)</li>
+        </ul>
+    </li>
+    <li>
+    Service Sustainability / Technical debt
+        <ul class="thispres">
+            <li>Network Modernization</li>
+            <li>Technical Debt</li>
+        </ul>
+    </li>
+    <li>
+    Strategy and innovation
+        <ul class="thispres">
+            <li>Research</li>
+            <li>Cloud</li>
+            <li>Innovation (proof of concepts)</li>
+        </ul>
+    </li>
+</ul>
 
 Note:
 
