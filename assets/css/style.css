@@ -457,3 +457,14 @@ Extra (xl) large devices (large desktops, 1200px and up)
 @media (min-width: 1200px) { ... }
 
 =============*/
+
+
+/* BOOTSTRAP OVERRIDES */
+
+
+code {
+  /* overriden because of accessibility see #714 #740 #741 */
+  font-size: 87.5%;
+  color: #c6005b;
+  word-break: break-word;
+}
