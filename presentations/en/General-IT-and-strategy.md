@@ -103,7 +103,7 @@ Note:
 
 ### View from within
 
-![the 6 districts within IITB](assets/images/IITB_org_overview.png)
+<img src="assets/images/IITB_org_overview.png" alt="the 6 districts within IITB" height="90%" width="90%">
 
 Note:
 
