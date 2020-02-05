@@ -3,12 +3,18 @@ layout: splash
 ref: splash
 permalink: /index.html
 ---
-    <div class="text-center text-light text-uppercase">
-    
-      <h3 class="font-weight-bold" >Welcome to <span
-          class="text-splash">{{ site.title.en }}</span> team workspace</h3>
-        <h3 class="font-weight-bold" >Bienvenue sur l'espace de travail de l'équipe <span
-            class="text-splash">{{ site.title.fr }}</span></h3>
-          <button onclick="selectLanguage()" class="btn btn-lg rounded-0">{{ site.language.en }}</button>
-          <button onclick="selectLanguage()" class="btn btn-lg rounded-0">{{ site.language.fr }}</button>
-    </div>
+
+<div class="text-center" style="margin: 0 auto; max-width: 600px; color: white; background-color: rgba(0, 0, 0, 0.6); border-radius: 7px; display: flex; padding: 10px;">
+  <div style="max-width: 290px; float: left; border: 1px solid rgb(137, 165, 184); border-radius: 7px; padding: 15px; margin: 5px; background-color: rgba(0, 0, 0, 0.8);">
+    <p class="font-weight-bold">Welcome to <span class="text-splash">{{ site.title.en }}</span> team workspace</p>
+    <hr style="border-top: 1px solid rgb(137, 165, 184); width: 70%;" />
+    <button onclick="selectLanguage()" class="btn rounded-3">{{ site.language.en }}</button>
+  </div>
+
+  <div style="max-width: 290px; float: right; border: 1px solid rgb(137, 165, 184); border-radius: 7px; padding: 15px; margin: 5px; background-color: rgba(0, 0, 0, 0.8);">
+    <p class="font-weight-bold">Bienvenue sur l'espace de travail de l'équipe <span
+        class="text-splash">{{ site.title.fr }}</span></p>
+    <hr style="border-top: 1px solid rgb(137, 165, 184); width: 70%;" />
+    <button onclick="selectLanguage()" class="btn rounded-3">{{ site.language.fr }}</button>
+  </div>
+</div>
