@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Strategy - Continuous Learning and Improvement
+title: Q1 Strategy - Continuous Learning and Improvement
 ref: strategy-q1-2020
 lang: en
 status: posted
@@ -8,19 +8,20 @@ sections: Ready For Use
 permalink: /strategy-learning-automating-improving.html
 ---
 
-## Strategy - Continuous Learning and Improvement
+## Q1 Strategy - Continuous Learning and Improvement
 
-The following actions apply for the 1st quarter of the 2020-2021 fiscal year.
-Strategies and actions will be reviewed and updated quarterly based on current progress and following the Strategy Map (layering on the strategies).
+The following actions apply for the 1st quarter of the 2020-2021 fiscal year (April 2020 to June 2020).
+
+Strategies and actions will be reviewed and updated quarterly based on effectiveness and current progress towards the [Medium Term IT Picture - 2025](https://sara-sabr.github.io/ITStrategy/it-picture-medium-term.html) as well as following the [Strategy Map](https://sara-sabr.github.io/ITStrategy/strategy-summary.html) (layering on the strategies).
 
 - [Actions](#actions)
 - [Goals](#goals)
 
 ### Actions
 
-All IITB teams must:
+IITB teams should:
 
-#### Use 20% of time to learn and improve
+#### Use up to 20% of time to learn and improve
 
 **For all the following and other related activities, use CATS codes for continuous improvement (######).**
 
