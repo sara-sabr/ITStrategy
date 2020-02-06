@@ -12,7 +12,7 @@ permalink: /strategy-learning-automating-improving.html
 
 The following actions apply for the 1st quarter of the 2020-2021 fiscal year (April 2020 to June 2020).
 
-Strategies and actions will be reviewed and updated quarterly based on effectivness and current progress towards the [Medium Term IT Picture - 2025](it-picture-medium-term.html) as well as following the [Strategy Map](https://sara-sabr.github.io/ITStrategy/strategy-summary.html) (layering on the strategies).
+Strategies and actions will be reviewed and updated quarterly based on effectiveness and current progress towards the [Medium Term IT Picture - 2025](it-picture-medium-term.html) as well as following the [Strategy Map](https://sara-sabr.github.io/ITStrategy/strategy-summary.html) (layering on the strategies).
 
 - [Actions](#actions)
 - [Goals](#goals)
