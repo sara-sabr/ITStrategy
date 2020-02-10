@@ -31,7 +31,7 @@ The objectives of the team's communication strategy are to:
 
 ## Stakeholders, and Key Messages
 
-_Stakeholders_ represent the type of audience the team plan to engage and collaborate in its strategic business processes, and what  _messages_  this audience will be introduced based on our understanding of their expectations and interests.
+_Stakeholders_ represent key assets to engage and collaborate in our strategic business processes, and what  _messages_  this audience will be introduced based on our understanding of their expectations and interests.
 
 <!-- markdownlint-disable MD033 -->
 
@@ -61,7 +61,7 @@ The above communication work will require to make relevant and transparent messa
 <!-- markdownlint-disable MD033 -->
 | **Activity**  | **Communication methods available** |
 | ------------- | -------------------------------------------- |
-| Approval      | 1. CIO Executive Committee<br> 2. SABR DGO<br> 3. MM Director |
+| Approval      | 1. CIO Executive Committee<br> 2. SABR DGO<br> 3. MM Director <br> 4. Executive Director |
 | Endorsement   | 1. SABR DGO<br> 2. MM Director<br> 3. IITB Governance Committees<br> 4. IITB Forums<br> 5. Peer reviews<br> 6. Briefing Notes |
 | Outreach      | 1. IITB Governance Committees<br> 2. IITB Forums<br> 3. Public Sector Communities<br> 4. Blogs<br> 3. Social Media<br> 4. IITB IITB Newsletter<br> 5. Email |
 | Feedback      | 1. Social Media<br> 2. Blogs<br> 3. IITB Governance Committees<br> 4. IITB Forums<br> 5. Custom Metrics |
@@ -71,7 +71,7 @@ The above communication work will require to make relevant and transparent messa
 
 ### CIO Executive Committee
 
-Requires wider consultation and presentation to DG Committee.
+Requires wider consultation and presentation to DG Committee leading to ensure the means to build trust and gain acceptance from the senior management. 
 Use for quarterly strategies and actions as well as other changes that require wider consultation.
 
 Follow these steps:
@@ -120,8 +120,15 @@ Engagement with the above committees need to follow [specific process guidelines
 
 The following IITB forums may be used as part of communication efforts:
 
-- [Senior Leadership Forum](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Governance%20-%20Supporting%20Documents/IITB%20Integrated%20Forward%20Agenda.docx): Executive-level forum
-- Management and Team Lead Committee (MTLC)
+1-  [Senior Leadership Forum](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Governance%20-%20Supporting%20Documents/IITB%20Integrated%20Forward%20Agenda.docx)
+
+Part of IITB official governance. Meeting for CIO, Executive directors, Director Generals and Directors to share information - entire leadership can discuss the business of the branch.
+Timeline : 1 week prior to meeting
+Contact Person : Branch Operations - Communications and Change Management Team
+Language : English and French Both required
+
+2- Management and Team Lead Committee (MTLC) : Community that supports IITB Managers and aspriring Managers.Requires to checks frequence of meetings
+Contact Person : Communications Team  (in Branch Operations)
 - IITB Showcase
 - IITB Dev CoP
 
@@ -142,15 +149,55 @@ Use for information or to avoid going up through committees for Endorsement.
 1. GCDevopsLeague
 2. AGORA
 
-### Emails
+### Corporate Messages (Emails)
+
+Corporate  messages are used to convey important departmental messages to all IITB messages.
 
 - Email from CIO about upcoming changes (quarterly strategies, SaaS access)
 - Quarterly emails from DG about strategies and actions
 - IITB Newsletter
 
-### IITB Newsletter
+### Newsletters
 
-... Link to procedures for being part of IITB Newsletter...
+1- IITB Newsletter
+Newsletter accessible to IITB employees. IITB News is posted weekly, on Mondays.
+Requires to be submitted 6 workings days before publishing date
+
+2- Intersection
+Intersection is the national departmental newsletter that provides employyes with news and information that is relevant to their duties, work environment and careers
+Requires to be submitted two weeks prior to publishing date. Articles must be accompanied by email approvals from the responsible director or director general. We will need to inform if there is an image included.
+Audience : ESDC Employees
+Posted Weekly by emails on Wednesdays
+
+3- IITB Compass
+Newsletter prepared by IITB and sent to PMB memebers to share within their Branch or Region so that employees have the latest information about IM/IT services, service improvements and new initiatives that are on the horizon.
+Requires to submit 4-6 weeks before posting dates. 
+Audience : ESDC Employees
+Compass is published in January, April, July and October
+
+### Professional Networks
+
+1- Change Agents Networks (CAN meeting)
+Change agents are responsible for ensuring that the impact of any change within the branch is understood and proactively dealt with from a people and organizational perpective. They share information with their management.
+Audience : Change agents
+Meet every two weeks. Requires 3-5 days prior to meeting for material
+
+2- Youth Mandate for Greater Involvement (YMAGIN)
+Their mandate consiste on four pillars : to simplify integration, to influence positively, and to encourage involvement and networking.
+YMAGIN SharePoint Site (http://dialogue/ymagin/default.aspx?lcid=1033)
+Coordinator’s list(http://dialogue/ymagin/Coordinators%20List/Forms/AllItems.aspx)
+Generic Box(ymagin-imajin@hrsdc-rhdcc.gc.ca)
+Activities includes :
+- YMAGIN Student Series 
+- Take me with you (https://gcconnex.gc.ca/groups/about/20448602): Take Me With You is a movement that encourages all interested employees to ask their managers and peers to attend meetings that relate to their interests, career development goals, and to the files they are working on. 
+- Crowd-sourced improvements : Encouraging self-learning through reflection and performance assessment to help students maximize their experiences to grow both professionally and personally. 
+
+3- Administrative Professional Network (APN)
+The APN is a community of pract open to all employees to share information and best practices.t recognizes the significant contribution of its members and supports their career development by facilitating access to opportunities within the Branch and organizing a series of events and presentations to strengthen their knowledge and skills.
+Activities include Brainstorming sessions :
+a) creating a culture of learning for administrative professionals
+b) Creating opportunities and mobility
+
 
 ### Blogs
 
