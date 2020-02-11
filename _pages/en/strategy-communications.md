@@ -15,11 +15,11 @@ permalink: /strategy-communications.html
 - [Communications Methods](#communications-methods)
 - [Evaluation](#evaluation)
 
-## Purpose
+# Purpose
 
 To elaborate iterative process of soliciting the knowledge, experience judgement and values of wide range of different shareholders
 
-## Objectives
+# Objectives
 
 The objectives of the team's communication strategy are to:
 
@@ -108,19 +108,37 @@ Endorsement or approval will be done via email (reply from DG to email request f
 ### IITB Governance Committees
 
 The following [IITB committees](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Governance%20-%20Supporting%20Documents/IITB%20Integrated%20Forward%20Agenda.docx) may be used as part of communication efforts.
-Governance Committees follow an approach of "item type" which are either to inform, to consult, or to approve.
+Governance Committees follow an approach of "item type" which are either to inform, to consult, or to approve (http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/default.aspx).
 
-- CIO Executive Committee (CIOEC)
-- Workforce Management Committee
-- DG Committee
-- Cloud Implementation Project Steering Committee (CIPSC)
-- Project Portfolio Review Committee (PPRC)
-- Change Advisory Board (CAB)
-- Architecture Review Committee (ARC)
-- Project Portfolio Operations Committee (PPOC)
-- Technical Debt Advisory Committee (TDAC)
-- National Union Management Committee (NUMCC)
-- Enterprise Architecture Review Board (EARB)
+*Workforce Management Committee*
+The WMC advises and supports the ADM on integrated HR management strategies and provides oversight on staffing and HR planning matters. To that end, it considers regional and national directions, policies and directives, available resources, and expressed needs before making recommendations on decisions regarding regional issues and files. The WMC also discusses matters of common interest to management and the unions.
+
+*DG Committee*
+The IITB DG committee oversees the implementation and execution of the branch’s vision to deliver efficient, reliable and secure services and solutions for clients. The committee also provides oversight, advice and guidance on the effective management of the IITB portfolio, programs and projects.
+
+*Cloud Implementation Project Steering Committee (CIPSC)*
+The CIPSC is an oversight committee created to guide the project team and project lifecycle of ESDC cloud implementation by reviewing project status and providing the first line of governance for prioritization, direction, resources, risk/issue management and change management to ensure the Cloud Implementation Plan (CIP) is progressing as planned.
+
+*Project Portfolio Review Committee (PPRC)*
+The responsibility of providing governance, oversight, advice, and guidance on the effective management of the IITB portfolio, programs and projects.  Furthermore, PPRC is mandated to make decisions with respect to the branch’s internal standards, policies and processes for investment planning, as well as act as the steering committee for the work being undertaken to establish a mature and robust Project Management function within IITB. 
+
+*Change Advisory Board (CAB)*
+A sub-committee to the Operations and Change-Management Committee (OCMC), is madated with the responsibility to analyze upcoming changes and release schedules for potential impacts that require additional oversight or intervention.
+
+*Architecture Review Committee (ARC)*
+Ensures that departmental planning directives and priorities are aligned to GOC and HRSDC Enterprise Architecture.
+
+*Project Portfolio Operations Committee (PPOC)*
+The PPOC, a sub-committee to the Project Portfolio Review Committee (PPRC), is mandated with the responsibility to support the PPRC in their role of providing governance, oversight, advice and guidance on the effective management of the IITB portfolio, programs and projects by ensuring they are resourced with the appropriate skills and technology.
+
+*Technical Debt Advisory Committee (TDAC)*
+Mandated with the responsibility of providing advice and guidance to the ESDC Chief Information Officer (CIO) on aging Information Technology challenges as it relates to people, process, and technology.
+
+*National Union Management Committee (NUMCC)*
+Purpose : Provide a forum for meaningful and timely consultation between employer and bargaining agent representatives
+on strategic direction and issues of region-wide importance.
+
+*Enterprise Architecture Review Board (EARB)*
 
 Engagement with the above committees need to follow [specific process guidelines](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Governance%20-%20Supporting%20Documents/IITB%20Integrated%20Forward%20Agenda.docx).
 
@@ -135,10 +153,19 @@ Timeline : 1 week prior to meeting
 Contact Person : Branch Operations - Communications and Change Management Team
 Language : English and French Both required
 
-2- Management and Team Lead Committee (MTLC) : Community that supports IITB Managers and aspriring Managers.Requires to checks frequence of meetings
-Contact Person : Communications Team  (in Branch Operations)
-- IITB Showcase
-- IITB Dev CoP
+2- Management and Team Lead Committee (MTLC)
+Community that supports IITB Managers and aspriring Managers.Requires to checks frequence of meetings
+Contact Person : Branch Operation - Communications and Change Management Team
+
+3- IITB Showcase
+Colleagues from the Branch can demonstrate theirs services and the technology of their solutions.
+Contact Person : BSI 
+Language : English 
+Upcoming Showcase : Continuous Learning - April 24th 
+
+4- ESDC Development Community (IITB Dev CoP)
+A discussion group which initiates and promotes development standards within the IITB development community by hosting monthly Development Community of Practice (Dev CoP) sessions, where members can meet, exchange ideas, collaborate and grow towards a common vision. 
+Useful links : GcPedia (http://www.gcpedia.gc.ca/wiki/ESDC_Development_Community), GCConnex (Dev CoP GCconnex group: ESDC - Development Community Dev CoP)
 
 ### Subject Matter Experts (SMEs) Teams
 
@@ -219,11 +246,10 @@ Activities includes :
 - Crowd-sourced improvements : Encouraging self-learning through reflection and performance assessment to help students maximize their experiences to grow both professionally and personally. 
 
 3- Administrative Professional Network (APN)
-The APN is a community of pract open to all employees to share information and best practices.t recognizes the significant contribution of its members and supports their career development by facilitating access to opportunities within the Branch and organizing a series of events and presentations to strengthen their knowledge and skills.
+The APN is a community of practice open to all employees to share information and best practices as well as recognizing the significant contribution of its members and supports their career development by facilitating access to opportunities within the Branch and organizing a series of events and presentations to strengthen their knowledge and skills.
 Activities include Brainstorming sessions :
-a) creating a culture of learning for administrative professionals
+a) Creating a culture of learning for administrative professionals
 b) Creating opportunities and mobility
-
 
 ### Blogs
 
@@ -238,6 +264,8 @@ b) Creating opportunities and mobility
 - [ESDC CIO](https://twitter.com/PWLittlefield) Twitter
 - [SABR DGO](https://twitter.com/SkinnerDenis) Twitter
 - [ESDC Innovation Lab](https://twitter.com/ESDCInnoLab_ENG) Twitter
+- ESDC Innovation Network (https://gccollab.ca/groups/profile/2851590/enesdc-innovation-networkfr)
+Innovation Network is a consultative body that provides a forum to share, discuss, develop and advance innovative projects and initiatives within the department. The Network seeks to share information on ongoing innovative projects and identify opportunities for advancing innovation within the department.
 
 ### Custom Metrics
 
@@ -255,5 +283,5 @@ KPIs should be closely related to objectives but can also be used to support res
 - Number of endorsements received
 - Number of forum events the team presented at
 - Number of attendance at those forum events
-- Number of comments received as part of the feedback loop
+- Number of comments received as part of tgthe feedback loop
 - Number of Twitter retweets from CIO/IITB stakeholders
