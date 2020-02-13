@@ -284,7 +284,10 @@
     "préapprouvé",
     "Moocs",
     "Microservices",
-    "enroll"
+    "enroll",
+    "Superforecasting",
+    "Tetlock",
+    "underreported"
   ],
   "flagWords": [],
   "import": ["./node_modules/cspell-dict-fr-fr/cspell-ext.json"],
