@@ -19,7 +19,7 @@ Strategies and actions will be reviewed and updated quarterly based on effective
 
 ### Goals
 
-- Continuously learn and improve
+- Continuously improve
 - Reduce lead time for changes and delivery of services/devices
 - Recover faster incidents and errors
 - Reduce frequency of incidents and errors
