@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Q1 Strategy - Continuous Learning and Improvement
+title: Q1 Strategy - Continuous Improvement and Learning
 ref: strategy-q1-2020
 lang: en
 status: posted
@@ -8,7 +8,7 @@ sections: Ready For Use
 permalink: /strategy-learning-automating-improving.html
 ---
 
-## Q1 Strategy - Continuous Learning and Improvement
+## Q1 Strategy - Continuous Improvement and Learning
 
 The following actions apply for the 1st quarter of the 2020-2021 fiscal year (April 2020 to June 2020).
 
@@ -21,9 +21,19 @@ Strategies and actions will be reviewed and updated quarterly based on effective
 
 IITB teams should:
 
-#### Use up to 20% of time to learn and improve
+#### Use up to 20% of time to improve and learn
 
 **For all the following and other related activities, use CATS codes for continuous improvement (######).**
+
+##### Improve
+
+- Understand teams performance levels and set realistic goals
+- Identify gaps in your daily work performance and establish improvement priorities
+- Gather metrics (ex.: start and end date) for things your team works on
+- Show improvement based on metrics, the [Goals](#goals) and your team's mandate
+- Review existing processes and governance structure
+- Identify issues and raise them to your manager or as Grassroots initiatives or Proof of concepts
+- Automate repetitive manual tasks where possible, at the team and individual level
 
 ##### Learn
 
@@ -41,16 +51,6 @@ IITB teams should:
 - Join groups and participate in discussions on GCconnex/GCcollab, as well as external communities
 - Take part in Service Canada staff training
 - Register for training/events offered by ESDC and CSPS
-
-##### Improve
-
-- Understand teams performance levels and set realistic goals
-- Identify gaps in your daily work performance and establish improvement priorities
-- Gather metrics (ex.: start and end date) for things your team works on
-- Show improvement based on metrics, the [Goals](#goals) and your team's mandate
-- Review existing processes and governance structure
-- Identify issues and raise them to your manager or as Grassroots initiatives or Proof of concepts
-- Automate repetitive manual tasks where possible, at the team and individual level
 
 ### Goals
 
