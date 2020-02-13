@@ -14,8 +14,24 @@ The following actions apply for the 1st quarter of the 2020-2021 fiscal year (Ap
 
 Strategies and actions will be reviewed and updated quarterly based on effectiveness and current progress towards the [Medium Term IT Picture - 2025](https://sara-sabr.github.io/ITStrategy/it-picture-medium-term.html) as well as following the [Strategy Map](https://sara-sabr.github.io/ITStrategy/strategy-summary.html) (layering on the strategies).
 
-- [Actions](#actions)
 - [Goals](#goals)
+- [Actions](#actions)
+
+### Goals
+
+- Continuously learn and improve
+- Reduce lead time for changes and delivery of services/devices
+- Recover faster incidents and errors
+- Reduce frequency of incidents and errors
+
+#### Align with GC IT Direction
+
+- [Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html)
+- [Digital Operations Strategic Plan: 2018-2022](https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html)
+- [Policy](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603) and [Directive on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601)
+  - [Mandatory Procedures for Enterprise Architecture (EA) Assessment](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602)
+  - [Mandatory Procedures on Application Programming Interfaces (API)](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604)
+  - [Acceptable Network and Device Use](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32605)
 
 ### Actions
 
@@ -51,19 +67,3 @@ IITB teams should:
 - Join groups and participate in discussions on GCconnex/GCcollab, as well as external communities
 - Take part in Service Canada staff training
 - Register for training/events offered by ESDC and CSPS
-
-### Goals
-
-- Continuously learn and improve
-- Reduce lead time for changes and delivery of services/devices
-- Recover faster incidents and errors
-- Reduce frequency of incidents and errors
-
-#### Align with GC IT Direction
-
-- [Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html)
-- [Digital Operations Strategic Plan: 2018-2022](https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html)
-- [Policy](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603) and [Directive on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601)
-  - [Mandatory Procedures for Enterprise Architecture (EA) Assessment](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602)
-  - [Mandatory Procedures on Application Programming Interfaces (API)](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604)
-  - [Acceptable Network and Device Use](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32605)
