@@ -17,7 +17,7 @@ It is in this spirit that IITB make it a top priority to deploy solutions to pro
 
 In the [DORA State of DevOps](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=2ahUKEwiGzKvWsoDkAhVOTt8KHVTvDBoQFjACegQIAhAC&url=http%3A%2F%2Fcloudplatformonline.com%2Frs%2F248-TPC-286%2Fimages%2FDORA-State%2520of%2520DevOps.pdf&usg=AOvVaw3Igoh1u4hGjIr7p9jV1_Ae) report on page 14 they define categories of performance as follows
 
-![A table from the DORA State of DevOps report showing different categories of performance (Elite, High, Medium and Low) for the apects of software delivery perfomance (Deployment Frequency, Lead Time for Changes, Time to Restore Services and Change Failure Rate )](../../assets/images/aspectOfSoftwareDeliveryPerformance.PNG)
+![A table from the DORA State of DevOps report showing different categories of operation (Elite, High, Medium and Low) for the aspects of software delivery perfomance (Deployment Frequency, Lead Time for Changes, Time to Restore Services and Change Failure Rate )](../../assets/images/aspectOfSoftwareDeliveryPerformance.PNG)
 
 Of respondents
 
