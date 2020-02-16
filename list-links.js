@@ -132,6 +132,12 @@ if ( require.main === module ){
 }
 
 
+module.exports.buildUrl = buildUrl
+module.exports.extractUrls = extractUrls
+
+
+
+
 
 
 
