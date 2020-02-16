@@ -18,11 +18,7 @@ const jekyllConfig = yaml.parse(
 const url = process.env.SITE_URL || jekyllConfig.url;
 const baseUrl = jekyllConfig.baseurl;
 const exclude = jekyllConfig.exclude;
-const foldersToInclude = ["_posts", "_pages"];
-const specialRules = {
-    "presentations": "presentation.html?markdown="
-};
-
+const foldersToInclude = ["_posts", "_pages", "presentations"];
 
 // supporting functions 
 
@@ -77,6 +73,34 @@ function buildUrl(folder, providedPath){
 
     if (frontMatter.permalink){
         return url + baseUrl.replace("/", "") +  frontMatter.permalink
+    }
+
+    else if ( folder === "_pages"){
+        return url + baseUrl.replace("/", "") + "/" + filePath.replace(".md", "")
+    }
+
+    else if ( folder === "_posts" ){
+        let filePathArray = filePath.split(path.sep)
+        let fileName = filePathArray[filePathArray.length - 1]
+        let fileNameArray = fileName.split("-")
+        let nameSection = fileNameArray.slice(3).join("-")
+        let dateSection;
+        
+        if (frontMatter.date){
+            dateSection = frontMatter.date.replace(
+                /\"/g, ""
+            ).split("-").join("/")
+    
+        }
+        else{
+            dateSection = fileNameArray.slice(0,3).join("/")
+        }
+
+        return url + baseUrl.replace("/", "") + "/" + dateSection + "/" + nameSection.replace(".md", "")
+    }
+
+    else if ( folder === "presentations" ){
+        return url + baseUrl.replace("/", "") + "/" +  "presentation.html?markdown=" + providedPath
     }
 }
 
