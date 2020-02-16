@@ -20,4 +20,4 @@ install:
     - "npm install"
 script:
     - npm test
-    - git diff --name-only HEAD~10 | while read file; do node get-link-from-path.js $file; done | while read line; do axe --tags wcag2aa $line; done
+    - git diff --name-only HEAD~15 | while read file; do node get-link-from-path.js $file; done | while read line; do axe $line --tags wcag2aa --exit; done
