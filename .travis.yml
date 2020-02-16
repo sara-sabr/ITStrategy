@@ -6,6 +6,9 @@ node_js:
 services:
     - "docker"
 
+addons:
+    chrome: stable
+
 env:
     - SITE_URL=http://localhost:4000/
     - JEKYLL_VERSION=3.8
@@ -15,8 +18,6 @@ before_install:
 install:
     - "npm install axe-cli -g"
     - "npm install"
-    - "npm install -g webdriver-manager"
-    - "webdriver-manager update --chrome"
 script:
     - npm test
     - git diff --name-only HEAD~10 | while read file; do node get-link-from-path.js $file; done | while read line; do axe --tags wcag2aa $line; done
