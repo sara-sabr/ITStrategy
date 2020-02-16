@@ -14,6 +14,7 @@ before_install:
     - docker run -d  --rm -p "127.0.0.1:4000:4000"  --volume="$PWD:/srv/jekyll" -it jekyll/jekyll:$JEKYLL_VERSION jekyll serve
 install:
     - "npm install axe-cli -g"
+    - "npm install"
 script:
     - npm test
     - git diff --name-only HEAD~10 | while read file; do node get-link-from-path.js $file; done | while read line; do axe --tags wcag2aa $line; done
