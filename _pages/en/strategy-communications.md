@@ -29,7 +29,7 @@ The objectives of the team's communication strategy are to:
 - Educate, train, change behaviours and perceptions where necessary
 - Highlight the success of IT strategies
 
-## Stakeholders, and Key Messages
+# Stakeholders, and Key Messages
 
 _Stakeholders_ represent key assets to engage and collaborate in our strategic business processes, and what  _messages_  this audience will be introduced based on our understanding of their expectations and interests.
 
@@ -46,7 +46,7 @@ _Stakeholders_ represent key assets to engage and collaborate in our strategic b
 
 <!-- markdownlint-enable MD033-->
 
-## Operational Approach
+# Operational Approach
 
 As the team is taking an iterative approach to strategy making, the following communication work will occur **every quarter** (an image would be ideal here):
 
@@ -78,7 +78,7 @@ The above communication work will require to make relevant and transparent messa
 
 ### CIO Executive Committee
 
-Requires wider consultation and presentation to DG Committee leading to ensure the means to build trust and gain acceptance from the senior management. 
+Requires wider consultation and presentation to DG Committee leading to ensure the means to build trust and gain acceptance from the senior management.
 Use for quarterly strategies and actions as well as other changes that require wider consultation.
 
 Follow these steps:
@@ -110,35 +110,36 @@ Endorsement or approval will be done via email (reply from DG to email request f
 The following [IITB committees](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Governance%20-%20Supporting%20Documents/IITB%20Integrated%20Forward%20Agenda.docx) may be used as part of communication efforts.
 Governance Committees follow an approach of "item type" which are either to inform, to consult, or to approve (http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/default.aspx).
 
-*Workforce Management Committee*
+#### Workforce Management Committee
 The WMC advises and supports the ADM on integrated HR management strategies and provides oversight on staffing and HR planning matters. To that end, it considers regional and national directions, policies and directives, available resources, and expressed needs before making recommendations on decisions regarding regional issues and files. The WMC also discusses matters of common interest to management and the unions.
 
-*DG Committee*
+#### DG Committee
 The IITB DG committee oversees the implementation and execution of the branch’s vision to deliver efficient, reliable and secure services and solutions for clients. The committee also provides oversight, advice and guidance on the effective management of the IITB portfolio, programs and projects.
 
-*Cloud Implementation Project Steering Committee (CIPSC)*
+#### Cloud Implementation Project Steering Committee (CIPSC)
 The CIPSC is an oversight committee created to guide the project team and project lifecycle of ESDC cloud implementation by reviewing project status and providing the first line of governance for prioritization, direction, resources, risk/issue management and change management to ensure the Cloud Implementation Plan (CIP) is progressing as planned.
 
-*Project Portfolio Review Committee (PPRC)*
+#### Project Portfolio Review Committee (PPRC)
 The responsibility of providing governance, oversight, advice, and guidance on the effective management of the IITB portfolio, programs and projects.  Furthermore, PPRC is mandated to make decisions with respect to the branch’s internal standards, policies and processes for investment planning, as well as act as the steering committee for the work being undertaken to establish a mature and robust Project Management function within IITB. 
 
-*Change Advisory Board (CAB)*
+#### Change Advisory Board (CAB)
 A sub-committee to the Operations and Change-Management Committee (OCMC), is madated with the responsibility to analyze upcoming changes and release schedules for potential impacts that require additional oversight or intervention.
 
-*Architecture Review Committee (ARC)*
+#### Architecture Review Committee (ARC)
 Ensures that departmental planning directives and priorities are aligned to GOC and HRSDC Enterprise Architecture.
 
-*Project Portfolio Operations Committee (PPOC)*
+#### Project Portfolio Operations Committee (PPOC)
 The PPOC, a sub-committee to the Project Portfolio Review Committee (PPRC), is mandated with the responsibility to support the PPRC in their role of providing governance, oversight, advice and guidance on the effective management of the IITB portfolio, programs and projects by ensuring they are resourced with the appropriate skills and technology.
 
-*Technical Debt Advisory Committee (TDAC)*
+#### Technical Debt Advisory Committee (TDAC)
 Mandated with the responsibility of providing advice and guidance to the ESDC Chief Information Officer (CIO) on aging Information Technology challenges as it relates to people, process, and technology.
 
-*National Union Management Committee (NUMCC)*
+#### National Union Management Committee (NUMCC)
 Purpose : Provide a forum for meaningful and timely consultation between employer and bargaining agent representatives
 on strategic direction and issues of region-wide importance.
 
-*Enterprise Architecture Review Board (EARB)*
+#### Enterprise Architecture Review Board (EARB)
+information to be filled.
 
 Engagement with the above committees need to follow [specific process guidelines](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Governance%20-%20Supporting%20Documents/IITB%20Integrated%20Forward%20Agenda.docx).
 
