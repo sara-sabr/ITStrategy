@@ -6,7 +6,6 @@ const glob = require("glob");
 const path = require("path");
 const yaml = require("yaml")
 
-
 // import and parse _config.yml 
 const jekyllConfig = yaml.parse(
     fileSytem.readFileSync(
@@ -104,7 +103,6 @@ function buildUrl(folder, providedPath){
     }
 }
 
-
 function extractUrls(logToConsole = false){
     const links = [];
     for (let folder in foldersToInclude){
@@ -124,23 +122,11 @@ function extractUrls(logToConsole = false){
 
 }
 
-
 if ( require.main === module ){
 
     extractUrls(true)
 
 }
 
-
 module.exports.buildUrl = buildUrl
 module.exports.extractUrls = extractUrls
-
-
-
-
-
-
-
-
-
-

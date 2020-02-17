@@ -2,7 +2,6 @@
 const buildUrl = require("./list-links").buildUrl
 const path = require("path")
 
-
 // get argument from command line 
 const args = process.argv
 
@@ -21,6 +20,3 @@ if (["_posts", "_pages", "presentations"].includes(folder)){
     const subPath = filePathArray.slice(1)
     console.log( buildUrl(folder, subPath.join(path.sep)) )
 }
-
-
-
