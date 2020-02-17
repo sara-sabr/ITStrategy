@@ -15,11 +15,11 @@ permalink: /strategy-communications.html
 - [Communications Methods](#communications-methods)
 - [Evaluation](#evaluation)
 
-# Purpose
+## Purpose
 
 To elaborate iterative process of soliciting the knowledge, experience judgement and values of wide range of different shareholders
 
-# Objectives
+## Objectives
 
 The objectives of the team's communication strategy are to:
 
@@ -29,7 +29,7 @@ The objectives of the team's communication strategy are to:
 - Educate, train, change behaviours and perceptions where necessary
 - Highlight the success of IT strategies
 
-# Stakeholders, and Key Messages
+## Stakeholders, and Key Messages
 
 _Stakeholders_ represent key assets to engage and collaborate in our strategic business processes, and what  _messages_  this audience will be introduced based on our understanding of their expectations and interests.
 
@@ -46,7 +46,7 @@ _Stakeholders_ represent key assets to engage and collaborate in our strategic b
 
 <!-- markdownlint-enable MD033-->
 
-# Operational Approach
+## Operational Approach
 
 As the team is taking an iterative approach to strategy making, the following communication work will occur **every quarter** (an image would be ideal here):
 
