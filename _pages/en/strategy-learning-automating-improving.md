@@ -21,8 +21,8 @@ Strategies and actions will be reviewed and updated quarterly based on effective
 
 - Continuously improve
 - Reduce lead time for changes and delivery of services/devices
-- Recover faster incidents and errors
 - Reduce frequency of incidents and errors
+- Recover faster from incidents and errors
 
 #### Align with GC IT Direction
 
@@ -44,9 +44,9 @@ IITB teams should:
 ##### Improve
 
 - Understand teams performance levels and set realistic goals
-- Identify ways to improve daily work performance, identify improvements, and prioritize
-- Begin measuring current processing times of units of work your team processes
-- Work to improve amount of time it takes to complete work items
+- Identify ways to improve daily work performance and prioritize
+- Measure current processing times of units of work your team processes
+- Reduce amount of time it takes to complete work items
 - Review existing processes and governance structure which lengthen process times
 - Identify issues and raise them to your manager or as Grassroots initiatives or proof of concepts
 - Automate repetitive manual tasks where possible, at the team and individual level
@@ -71,3 +71,53 @@ IITB teams should:
 - Start/attend meetups regarding technologies relevant to your work
 - Learn new tools (Containers, Cloud, Agile, etc)
 - Learn more methodologies [Many free audiobook samples can be found [here](https://itrevolution.com/)
+
+### References
+
+#### Books
+
+[The DevOps Handbook](https://books.google.ca/books?id=ui8hDgAAQBAJ&lpg=PP1&dq=DevOps%20Handbook&hl=fr&pg=PT110#v=onepage&q&f=false)  
+_We will actively manage this technical debt by ensuring that we invest at least 20% of all Development and Operations cycles on refactoring, investing in automation work and architecture and non-functional requirements (NFRs, sometimes referred to as the "ilities"), such as maintainability, manageability. scalability, reliability. testability, deployability, and security._
+
+[Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://books.google.ca/books?id=Kax-DwAAQBAJ&lpg=PP1&dq=Accelerate&hl=fr&pg=PP1#v=snippet&q=20%25&f=false)  
+_Relentessly pursue continuous improvement. The most important characteristic of high-performing teams is that they are never satisﬁed: they always strive to get better. High performers make improvement part of everybody's daily work._  
+[...]  
+_At the heart of Lean management is giving employees the necessary time and resources to improve their own work. This means creating a work environment that supports experimentation, failure, and learning, and allows employees to make decisions that affect their jobs. This also means creating space for employees to do new, creative, value-add work during the work week—and not just expecting them to devote extra time after hours._  
+[...]  
+_A ﬁxed percentage of each squad’s and chapter’s time is allocated for improvement. Jordi says that the squads think of improvement activities as just regular work._
+
+[ATD’s Foundations of Talent Development: Launching, Leveraging, and Leading Your Organization's TD Effort (2018)](https://books.google.ca/books?id=RJZqDwAAQBAJ&pg=PT46&lpg=PT46&dq=Top-performing+organizations+are+five+times+more+likely+to+have+learning+cultures&source=bl&ots=oM8YINBtTj&sig=ACfU3U1afkdRT2gGpcxRA4h-yUbgukNHyQ&hl=fr&sa=X&ved=2ahUKEwj7zoK588znAhUQhuAKHa5HBAwQ6AEwDHoECAkQAQ#v=onepage&q=Top-performing%20organizations%20are%20five%20times%20more%20likely%20to%20have%20learning%20cultures&f=false)
+
+- _Top-performing companies are almost five times more likely than lower performers to have extensive learning cultures._
+- _High performers are nearly two times more apt to say their learning functions help meet organizational business goals._
+- _Employees in high-performing organizations share knowledge with their colleagues at a rate four times greater than that of workers in lower-performing ﬁrms._
+- _Communication is supported by rewarding workers for learning. providing tools and resources for creating and sharing learning content, and making knowledge sharing a performance expectation at all levels._
+- _Building a Culture of Learning found that three practices related to supporting a learning culture were particularly effective:_
+  - _regularly updating personalized development plans for every employee_
+  - _ensuring worker accountability for the learning speciﬁed in those plans_
+  - _providing nonﬁnancial rewards and recognition for employee learning.__
+
+#### Report
+
+[World Economic Forum - Accelerating Workforce Reskilling for the Fourth Industrial Revolution](https://www.weforum.org/whitepapers/accelerating-workforce-reskilling-for-the-fourth-industrial-revolution)  
+_35% of the skills demanded for jobs across industries will change by 2020_
+
+[LinkedIn Workplace Learning & Development Report 2018](https://learning.linkedin.com/resources/workplace-learning-report-2018) (survey of ≈4,000 professionals)  
+_**4. The #1 challenge for talent development is getting employees to make time for learning**  
+The #1 reason employees say they are not engaging in workplace learning is because they don't have the time. Executives and people managers agree that getting employees to make time for learning is the #1 challenge for talent development.  
+94% of employees would stay at a company longer if it invested in their career | YET | #1 reason employees feel held back from learning is because they don't have the time_
+
+[U.S. L&D Report: 2019: Learning Trends and Benchmarks](https://www.findcourses.com/prof-dev/l-d-articles/download-us-ld-report-19-15209) ([PDF](https://www.findcourses.com/file/3296/download) without registration)
+
+#### Articles
+
+[HRCI - 6 Guidelines for Building a Learning Culture](https://www.hrci.org/community/blogs-and-announcements/hr-leads-business-blog/hr-leads-business/2018/05/01/6-guidelines-for-building-a-learning-culture)
+
+[Eight Steps to Build a Learning Culture in Your Organization](https://www.anneloehr.com/2018/09/06/eight-steps-to-build-a-learning-culture-in-your-organization/)
+
+#### Other
+
+[IITB Operational Staffing Plan 2018-2019](http://dialogue/grp/WM-Gde/Operational%20Staffing%20Plan/PMD%20OSP%20Library/2018-19_Operational_Staffing_Plan_IITB.docx)  
+_Collaborate with the business side of ESDC to exchange resources temporarily so as to learn and share knowledge in various areas e.g. finance, human resources (HR), business relationship management (BRM), project management, etc.;_
+
+[openSUSE Hack Week](https://hackweek.suse.com/about)
