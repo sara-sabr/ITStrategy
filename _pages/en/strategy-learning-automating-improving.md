@@ -119,7 +119,3 @@ The #1 reason employees say they are not engaging in workplace learning is becau
 [HR Certification Institute - 6 Guidelines for Building a Learning Culture](https://www.hrci.org/community/blogs-and-announcements/hr-leads-business-blog/hr-leads-business/2018/05/01/6-guidelines-for-building-a-learning-culture)
 
 [Eight Steps to Build a Learning Culture in Your Organization](https://www.anneloehr.com/2018/09/06/eight-steps-to-build-a-learning-culture-in-your-organization/)
-
-#### Other
-
-[openSUSE Hack Week](https://hackweek.suse.com/about)
