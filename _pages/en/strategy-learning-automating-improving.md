@@ -102,7 +102,7 @@ _A fixed percentage of each squad's and chapter's time is allocated for improvem
   - _ensuring worker accountability for the learning specified in those plans_
   - _providing nonfinancial rewards and recognition for employee learning.__
 
-#### Report
+#### Reports
 
 [World Economic Forum - Accelerating Workforce Reskilling for the Fourth Industrial Revolution](https://www.weforum.org/whitepapers/accelerating-workforce-reskilling-for-the-fourth-industrial-revolution)  
 _35% of the skills demanded for jobs across industries will change by 2020_
