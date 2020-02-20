@@ -74,7 +74,7 @@ IITB teams should:
 
 ### References
 
-### Internal
+#### Internal
 
 [IITB Operational Staffing Plan 2018-2019](http://dialogue/grp/WM-Gde/Operational%20Staffing%20Plan/PMD%20OSP%20Library/2018-19_Operational_Staffing_Plan_IITB.docx)  
 _Collaborate with the business side of ESDC to exchange resources temporarily so as to learn and share knowledge in various areas e.g. finance, human resources (HR), business relationship management (BRM), project management, etc.;_
