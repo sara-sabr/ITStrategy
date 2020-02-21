@@ -5,7 +5,7 @@ ref: why-we-are-promoting-risks
 lang: fr
 author: "Rémy Bernard, en collaboration avec l'équipe de Stratégie TI"
 date: "2019-12-20"
-last_updated: "2020-01-20"
+last_updated: "2020-02-21"
 excerpt_separator: <!--more-->
 ---
 
@@ -23,9 +23,9 @@ Toutefois, les méthodes actuelles visent un haut niveau de prévisibilité en u
 Cela peut fonctionner pour les actifs physiques comme la construction d'une maison, mais pas pour les actifs intangibles - comme les logiciels.
 De plus, la transition vers le gouvernement numérique crée un avenir très complexe et incertain, ce qui, selon certains, exige un moyen différent de régir les investissements en TI : un moyen qui récompense un cycle empirique d'essais, d'observations et de corrections. [^1]
 
-À EDSC, nous avons une [Politique sur la gestion de projet et de programme (PGPP)](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Project%20and%20Programme%20Management.pdf) qui est conforme à la [Politique sur la planification et la gestion des investissements](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32593) du Secrétariat du Conseil du Trésor (SCT), dont l'un des objectifs est d'assurer la _responsabilisation et le succès du portefeuille de projets et de programmes en mettant **l'accent sur les avantages des investissements** dans les projets et les programmes._
+À EDSC, nous avons une [Politique sur la gestion de projet et de programme (PGPP)](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Politique%20sur%20la%20gestion%20de%20projet%20et%20de%20programme.pdf) qui est conforme à la [Politique sur la planification et la gestion des investissements](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32593) du Secrétariat du Conseil du Trésor (SCT), dont l'un des objectifs est d'assurer la _responsabilisation et le succès du portefeuille de projets et de programmes en mettant **l'accent sur les avantages des investissements** dans les projets et les programmes._
 Cette politique fait autorité en matière de gestion de tous les projets et programmes de EDSC.
-Le [cadre du cycle de vie de projet](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Project%20Life%20Cycle.pdf) (CCVP) est utilisé pour guider la gestion de projets, en fonction de leur classification par taille (qui est basée sur le coût, le risque, la capacité et la complexité, bien qu'il soit juste de dire que la variable coût a plus de poids que les autres).
+Le [cadre du cycle de vie de projet](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Cycle%20de%20vie%20projet.pdf) (CCVP) est utilisé pour guider la gestion de projets, en fonction de leur classification par taille (qui est basée sur le coût, le risque, la capacité et la complexité, bien qu'il soit juste de dire que la variable coût a plus de poids que les autres).
 
 Dans le CCVP, un projet TI est généralement censé produire entre 21 et 39 artefacts de gestion de projet, nécessiter entre 48 et 60 activités de gestion de projet, et impliquer 16 intervenants.
 Il faut noter que parmi les 16 intervenants, seulement 5 d'entre eux proviennent de la Direction de la TI (bien qu'en réalité, il s'agisse de beaucoup plus que cela, comme nous l'expliquerons plus tard).
@@ -51,7 +51,7 @@ Nous savons comment construire des maisons parce que nous le faisons depuis des 
 Mais dans le monde du logiciel, où la technologie évolue si rapidement, les systèmes sont de plus en plus intégrés et complexes, évoluant continuellement dans le temps, les coûts et le calendrier sont tout sauf des suppositions et il est très peu probable qu'ils soient précis.
 Cela signifie que vous pouvez vous attendre à ce que vos estimations initiales changent une fois le projet exécuté.
 
-La gouvernance de projet comprend un [processus de contrôle du changement](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/ChangeControl-Guide-PMIS-F.pdf) qui exige que vous fournissiez des informations sur l'étendue des changements et, selon cette étendue, que vous demandiez différents types d'approbation de gouvernance avant d'être autorisé à changer.
+La gouvernance de projet comprend un [processus de contrôle du changement](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Guide%20de%20contrôle%20du%20changement.pdf) qui exige que vous fournissiez des informations sur l'étendue des changements et, selon cette étendue, que vous demandiez différents types d'approbation de gouvernance avant d'être autorisé à changer.
 Obtenir des informations sur la portée du changement est également un travail.
 Il faut réengager les différentes équipes TI, les empêcher de faire ce qu'elles font actuellement et réévaluer le même type d'information que les estimations initiales du projet (portée, coûts et calendrier).
 Comme nous l'avons mentionné ci-dessus, l'effort que représente le processus de contrôle du changement doit être proportionnel à l'effort du changement en lui-même, sinon il s'accumule.
@@ -84,6 +84,16 @@ De plus, une fois son hypothèse évaluée, le projet se termine au lieu de perm
 
 Dans un sens, le cadre actuel favorise les décisions d'investissement incorrectes parce qu'il permet aux grands projets de se dérouler pendant trop longtemps sans la boucle de rétroaction des utilisateurs finaux pour confirmer si de tels investissements en valent la peine.
 Cela va précisément à l'encontre de l'esprit du gouvernement numérique en [étant plus agile, ouvert et axé sur l'utilisateur](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html).
+
+### Diluer l'empathie envers l'utilisateur final (le citoyen)
+
+Dans le CCVP mentionné ci-dessus, les changements apportés aux systèmes commencent par une proposition d'investissement de la part d'un propriétaire fonctionnel qui est donnée à un comité exécutif d'approbation. De là, elle suivra 5 étapes impliquant plus de 16 parties prenantes, et passera par [plusieurs comités](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/SitePages/Governance.aspx) (selon l'ampleur de la demande). La ou les équipes TI travaillant sur le projet n'interviennent qu'à l'étape 4, après que 14 parties prenantes aient examiné la demande de l'utilisateur final, où elles devront interagir avec une [douzaine d'autres équipes TI](onenote:http://dialogue/grp/PR6893344/OneNote/AppDevSA/02-Development%20%28In%20Progress%29/Release%20Process.one#section-id={D2EC43C2-A283-4DC1-B0C1-E1063C0F3721}&end) pour chaque fonctionnalité demandée. Tout au long de ce processus, la ou les équipes TI devront également fournir des mises à jour périodiques sur l'état d'avancement du projet par rapport à la portée, les coûts, et le calendrier pré-engagés.
+
+Chaque point de contrôle entre les utilisateurs finaux et les équipes de produits TI travaillant sur la ou les fonctionnalités élargit l'écart entre eux. Bien que l'équipe chargée du produit TI puisse s'adresser à un utilisateur final à l'étape 4, ces points de contrôle créent une perspective qui décourage toute correction de trajectoire résultant des interactions avec l'utilisateur final. En effet, toute modification de la portée, du calendrier ou des coûts nécessite de passer par un [processus de contrôle des changements](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Guide%20de%20contrôle%20du%20changement.pdf) pour justifier la correction de trajectoire, ce qui ajoute du travail. Le résultat final sera qu'il sera peut-être plus facile pour les équipes de produits informatiques de s'en tenir à des exigences préétablies que d'interagir directement avec les utilisateurs finaux afin de rechercher la compréhension et l'empathie.
+
+La [norme numérique n°1 du gouvernement du Canada](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html) est la conception avec les utilisateurs, mais le cadre actuel empêche les équipes informatiques d'interagir plus étroitement avec eux ou elles. De plus, comme nous l'avons dit plus haut, le projet TI doit être une hypothèse, qui DOIT être validée avec de vrais utilisateurs, ce que [l'exigence 4.2.1.5 de la prochaine Politique sur les services et le numérique](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32603) exige essentiellement des administrateurs généraux, et non pas par le biais de procurations.
+
+En ajoutant les couches entre l'utilisateur final qui a lancé la proposition d'investissement et l'équipe ou les équipes TI censées y travailler, nous avons essentiellement dilué l'empathie à son égard.
 
 ### Responsabilité fiduciaire à l'égard des fonds publics
 
@@ -127,6 +137,8 @@ Pour remédier aux problèmes mentionnés ci-dessus, nous proposons ce qui suit 
 [^1]: Mark Schwartz, [_War and Peace and IT_](https://itrevolution.com/war-and-peace-and-it/), IT Revolution, 2019, page 30
 
 ## Changements
+
+2020-02-21: correction de liens brisés et ajout d'une section manquante
 
 2020-01-20:
 
