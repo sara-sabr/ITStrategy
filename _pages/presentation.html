@@ -26,6 +26,35 @@ function getUrlParam(parameter, defaultvalue){
   return urlparameter;
 }
 
-var markdown = getUrlParam('markdown','.md').replace(/\.\./g, "0");;
-document.getElementById("markdown-slides").setAttribute("data-markdown", "./presentations/" + markdown); 
+var markdown = getUrlParam('markdown','.md').replace(/\.\./g, "0");
+
+// If there is a presentation, create a title element with the name of the presentation
+// Otherwise create title element with 404
+var title = document.createElement("title")
+if (markdown !== ".md"){
+  // remove en or fr prefix
+  title.innerText = markdown.replace(/(en|fr)\//g, "").replace(/.md/g, "")
+  
+}
+else {
+  title.innerText = "404 Not Found - Pas trouvé"
+  
+}
+
+// set language attribute for page based on lang prefix 
+if ( markdown.match("fr/")){
+    document.getElementsByTagName(
+      "html"
+    )[0].setAttribute("lang", "fr")
+}
+else{
+  document.getElementsByTagName("html")[0].setAttribute(
+    "lang", 
+    "en"
+  )
+}
+
+document.getElementsByTagName("head")[0].appendChild(title)
+document.getElementById("markdown-slides").setAttribute("data-markdown", "./presentations/" + markdown);
+
 </script>

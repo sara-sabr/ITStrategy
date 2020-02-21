@@ -1,4 +1,22 @@
 language: node_js
 
 node_js:
-- "node"
+    - "lts/*"
+
+services:
+    - "docker"
+
+addons:
+    chrome: stable
+
+env:
+    - SITE_URL=http://localhost:4000/ JEKYLL_VERSION=3.8
+
+before_install:
+    - docker run -d  --rm -p "127.0.0.1:4000:4000"  --volume="$PWD:/srv/jekyll" -it jekyll/jekyll:$JEKYLL_VERSION jekyll serve
+install:
+    - "npm install axe-cli -g"
+    - "npm install"
+script:
+    - npm test
+    - git diff --name-only HEAD~15 | while read file; do node get-link-from-path.js $file; done | while read line; do axe $line --tags wcag2aa --exit; done
