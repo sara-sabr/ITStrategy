@@ -19,7 +19,7 @@
       "pattern": "https://gcconnex.gc.ca"
     },
     {
-      "pattern": "http://www.gcpedia.gc.ca"
+      "pattern": "www.gcpedia.gc.ca"
     },
     {
       "pattern": "http://localhost"

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mxfile host="www.draw.io" modified="2019-11-12T14:55:45.152Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:70.0) Gecko/20100101 Firefox/70.0" etag="BopKJ8oQpKuDNZK4EHt7" version="12.2.4" pages="1">
+<mxfile host="www.draw.io" modified="2020-02-12T19:25:17.988Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:72.0) Gecko/20100101 Firefox/72.0" etag="pqxTsX2MInJYPod_FwAv" version="12.6.8">
   <diagram id="-bk_C6BWtBluzct1Dt5Y" name="Page-1">
-    <mxGraphModel dx="1408" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="971" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -17,9 +17,6 @@
         <mxCell id="78hapkpqb7R9faJW3Deu-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="572" y="250" width="130" height="700" as="geometry"/>
         </mxCell>
-        <mxCell id="78hapkpqb7R9faJW3Deu-5" value="20% time to learn, automate and improve" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="152" y="880" width="263" height="60" as="geometry"/>
-        </mxCell>
         <mxCell id="78hapkpqb7R9faJW3Deu-6" value="&lt;a href=&quot;https://cloud.google.com/solutions/devops/devops-tech-teams-empowered-to-choose-tools&quot;&gt;Access to tools, resources&lt;/a&gt; and &lt;a href=&quot;https://cloud.google.com/solutions/devops/devops-culture-job-satisfaction&quot;&gt;meaningful work&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="152" y="670" width="263" height="60" as="geometry"/>
         </mxCell>
@@ -27,7 +24,7 @@
           <mxGeometry x="294.5" y="600" width="263" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="78hapkpqb7R9faJW3Deu-8" value="Agile teams" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="294" y="810" width="263" height="60" as="geometry"/>
+          <mxGeometry x="293.14" y="740" width="263" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="78hapkpqb7R9faJW3Deu-9" value="&lt;a href=&quot;https://cloud.google.com/solutions/devops/devops-process-team-experimentation&quot;&gt;Experimentation&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="294.5" y="460" width="263" height="60" as="geometry"/>
@@ -42,7 +39,7 @@
           <mxGeometry x="577" y="740" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="78hapkpqb7R9faJW3Deu-13" value="Continuous improvement" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="294" y="740" width="263" height="60" as="geometry"/>
+          <mxGeometry x="295" y="810" width="263" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="78hapkpqb7R9faJW3Deu-14" value="&lt;a href=&quot;https://cloud.google.com/solutions/devops/devops-tech-deployment-automation&quot;&gt;Automated deployments&lt;/a&gt; and service delivery" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="152" y="320" width="120" height="60" as="geometry"/>
@@ -57,7 +54,7 @@
           <mxGeometry x="152" y="600" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="78hapkpqb7R9faJW3Deu-18" value="&lt;a href=&quot;https://cloud.google.com/solutions/devops/devops-tech-version-control&quot;&gt;Version control everything&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="152" y="740" width="120" height="60" as="geometry"/>
+          <mxGeometry x="152" y="810" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="78hapkpqb7R9faJW3Deu-19" value="Cross functional teams" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="294.5" y="530" width="120" height="60" as="geometry"/>
@@ -105,7 +102,7 @@
           <mxGeometry x="617" y="280" width="40" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="J1eTKJzRUmr2SgCcCviv-1" value="&lt;a href=&quot;https://cloud.google.com/solutions/devops/devops-culture-learning-culture&quot;&gt;Learning culture&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="152" y="810" width="120" height="60" as="geometry"/>
+          <mxGeometry x="151.5" y="880" width="263" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="LaExLXw8jD6kd_SvOe6S-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LaExLXw8jD6kd_SvOe6S-3" target="LaExLXw8jD6kd_SvOe6S-4" edge="1">
           <mxGeometry relative="1" as="geometry"/>

@@ -172,9 +172,10 @@ li .nav-link {
   color: #545454 !important;
 }
 
-p a {
+main a {
   color: #0054B3 !important;
 }
+
 .custom-toggler-icon {
   color: white;
   font-size: 1.6rem;
@@ -250,9 +251,53 @@ a.btn:focus {
 .caption {
   z-index: 1;
   position: absolute;
-  top: 38%;
+  top: 25%;
+  bottom: 25%;
   width: 100%;
   max-width: 100%;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+}
+
+.selection-container{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-content: center;
+  max-width: 600px;
+  padding: 20px;
+  background-color: rgba( 0,0, 0, 0.5);
+  border-radius: 10px;
+  height:  300px;
+}
+
+.selection{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex-wrap: wrap;
+  background-color: black;
+  opacity: 1;
+  width: 50%;
+  align-content: center;
+  margin: 5px;
+  border-radius: 10px;
+  color: white;
+  z-index: 2;
+  border: 1px solid black;
+}
+
+
+.selection-divider{
+  border-top: 1px solid rgb(137, 165, 184); 
+  width: 70%;
+  align-self: center;
+}
+
+.selection-button{
+  width: 100px;
+  align-self: center;
 }
 
 .caption h1 {
@@ -353,6 +398,19 @@ h3.heading {
     font-size: 2.7rem;
     letter-spacing: .15rem;
     padding-bottom: .5rem;
+  }
+  .selection-container{
+    flex-direction: column;
+    max-height: 500px;
+    justify-content: center;
+    align-content: center;
+    height: 500px;
+    padding: 20px;
+  }
+  .selection{
+    width: inherit;
+    height: 200px;
+    padding: 20px;
   }
 
   .caption h3 {
@@ -456,3 +514,14 @@ Extra (xl) large devices (large desktops, 1200px and up)
 @media (min-width: 1200px) { ... }
 
 =============*/
+
+
+/* BOOTSTRAP OVERRIDES */
+
+
+code {
+  /* overriden because of accessibility see #714 #740 #741 */
+  font-size: 87.5%;
+  color: #c6005b;
+  word-break: break-word;
+}

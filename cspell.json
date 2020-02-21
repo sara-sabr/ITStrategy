@@ -282,7 +282,15 @@
     "Kylie",
     "PGPP",
     "préapprouvé",
-    "Moocs"
+    "Moocs",
+    "Microservices",
+    "enroll",
+    "Superforecasting",
+    "Tetlock",
+    "underreported",
+    "Cousera",
+    "meetups",
+    "audiobook"
   ],
   "flagWords": [],
   "import": ["./node_modules/cspell-dict-fr-fr/cspell-ext.json"],
@@ -295,7 +303,5 @@
     "html",
     "css"
   ],
-  "ignoreRegExpList": [
-    "]\\(([^\\)]+)\\)"
-  ]
+  "ignoreRegExpList": ["]\\(([^\\)]+)\\)"]
 }

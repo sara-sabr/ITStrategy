@@ -3,12 +3,21 @@ layout: splash
 ref: splash
 permalink: /index.html
 ---
-    <div class="text-center text-light text-uppercase">
-    
-      <h3 class="font-weight-bold" >Welcome to <span
-          class="text-splash">{{ site.title.en }}</span> team workspace</h3>
-        <h3 class="font-weight-bold" >Bienvenue sur l'espace de travail de l'équipe <span
-            class="text-splash">{{ site.title.fr }}</span></h3>
-          <button onclick="selectLanguage()" class="btn btn-lg rounded-0">{{ site.language.en }}</button>
-          <button onclick="selectLanguage()" class="btn btn-lg rounded-0">{{ site.language.fr }}</button>
-    </div>
+
+<section class="text-center selection-container" >
+  <article class="selection">
+    <h1 class="font-weight-bold" style="font-size: large; letter-spacing: .1rem;">
+      Welcome to <span class="text-splash">{{ site.title.en }}</span> team workspace
+    </h1>
+    <hr class = "selection-divider" />
+    <button onclick="selectLanguage()" class="btn rounded-3 selection-button">{{ site.language.en }}</button>
+  </article>
+
+  <article class = "selection">
+    <h1 class="font-weight-bold" style="font-size: large; letter-spacing: 0rem;">Bienvenue sur l'espace de travail de l'équipe <span
+      class="text-splash">{{ site.title.fr }}</span>
+    </h1>
+    <hr class = "selection-divider" />
+    <button onclick="selectLanguage()" class="btn rounded-3 selection-button">{{ site.language.fr }}</button>
+  </article>
+</section>
