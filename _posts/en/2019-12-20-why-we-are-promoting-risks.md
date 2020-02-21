@@ -5,7 +5,7 @@ ref: why-we-are-promoting-risks
 lang: en
 author: "Rémy Bernard, in collaboration with the IT Strategy team"
 date: "2019-12-20"
-last_modified: "2020-01-20"
+last_modified: "2020-02-21"
 excerpt_separator: <!--more-->
 ---
 
@@ -143,6 +143,8 @@ To remediate the above problems, we propose the following:
 [^1]: Mark Schwartz, [_War and Peace and IT_](https://itrevolution.com/war-and-peace-and-it/), IT Revolution, 2019, page 30
 
 ## Edits
+
+2020-02-21: fixed broken links
 
 2020-01-20:
 
