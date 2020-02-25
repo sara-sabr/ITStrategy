@@ -56,20 +56,20 @@ IITB teams should:
 ##### Learn
 
 - Stay up to date on trends and technologies inside and outside the GC
-- Teach yourself basic programming. Examples of instructional material can be found [here](#Learn).
-- Experiment with cloud technologies. Click [here](#Learn) to learn how to create a cloud sandbox environment.
-  - Ex: [Cousera](https://www.coursera.org/), [Udemy](https://www.udemy.com/), or [MOOCs](https://www.mooc-list.com/)
-- Read books, articles or documentation. Examples of content can be found [here](https://sara-sabr.github.io/ITStrategy/references-en.html).
+- Teach yourself basic programming
+- Experiment with cloud technologies
+- Take online courses - [edX](https://www.edx.org/), [Cousera](https://www.coursera.org/), [Udemy](https://www.udemy.com/), or [MOOCs](https://www.mooc-list.com/)
+- Read books, articles or documentation - See our [References](https://sara-sabr.github.io/ITStrategy/references-en.html)
 - Attend events or conferences
 - Request micro missions with groups throughout ESDC or the Government of Canada at large
-- Attend [IITB showcase](#Learn), [Dev CoP](#Learn), dojos or other learning opportunities within IITB and ESDC
-- Participate in "Innovation" at ESDC and [Innovation Lab](#Learn) design sessions
+- Attend IITB showcase, Dev CoP, dojos or other learning opportunities within IITB and ESDC
+- Participate in "Innovation" at ESDC and Innovation Lab design sessions
 - Explore data science opportunities with ESDC Chief Data Office (CDO)
 - Setup a recurring time to share knowledge with colleagues within your team (small, 5-10 people)
 - Find/become a mentor/coach
-- Join groups and participate in discussions on [GCconnex](#Learn)/[GCcollab](#Learn), as well as external communities
+- Join groups and participate in discussions on GCconnex/GCcollab, as well as external communities
 - Take part in Service Canada staff training
 - Register for training/events offered by ESDC and CSPS
 - Start/attend meetups regarding technologies relevant to your work
 - Learn new tools (Containers, Cloud, Agile, etc)
-- Learn more methodologies [Many free audiobook samples can be found [here](https://itrevolution.com/)
+- Learn more methodologies - Many free audiobook samples can be found on [ITRevolution's Soundcloud](https://soundcloud.com/itrevolution/sets)
