@@ -19,7 +19,7 @@ Strategies and actions will be reviewed and updated quarterly based on effective
 
 ### Goals
 
-The goals are based on the GC IT Direction around [Digital government](https://www.canada.ca/en/government/system/digital-government.html) as well as the [DevOps Research and Assessment (DORA) - How to Transform](https://cloud.google.com/solutions/devops/devops-culture-transform) and the book summerising the findings of the State of DevOps Reports, [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://books.google.ca/books?id=Kax-DwAAQBAJ&lpg=PP1&dq=Accelerate&hl=fr&pg=PP1#v=snippet&q=20%25&f=false).
+The goals are based on the GC IT Direction around [Digital government](https://www.canada.ca/en/government/system/digital-government.html) as well as the [DevOps Research and Assessment (DORA) - How to Transform](https://cloud.google.com/solutions/devops/devops-culture-transform) and the book explaining the findings of the State of DevOps Reports, [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://books.google.ca/books?id=Kax-DwAAQBAJ&lpg=PP1&dq=Accelerate&hl=fr&pg=PP1#v=snippet&q=20%25&f=false).
 
 - Continuously improve
 - Reduce lead time for changes and delivery of services/devices
@@ -72,4 +72,4 @@ IITB teams should:
 - Register for training/events offered by ESDC and CSPS
 - Start/attend meetups regarding technologies relevant to your work
 - Learn new tools (Containers, Cloud, Agile, etc)
-- Learn more methodologies - Many free audiobook samples can be found on [ITRevolution's Soundcloud](https://soundcloud.com/itrevolution/sets)
+- Learn more methodologies - Many free audiobook samples can be found on [ITRevolution's SoundCloud](https://soundcloud.com/itrevolution/sets)
