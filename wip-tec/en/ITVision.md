@@ -108,7 +108,7 @@ IT solutions managing citizen data are built with a [zero trust architecture](ht
 ESDC's Cyber security has shifted to protecting data at the source and in transit, instead of relying on perimeter defences.
 This involves encrypting data at rest, in transit, and relying on strong authentication, access policies, and modern identity verification to govern access to sensitive data.
 [Behavioral Analytics and biometrics](https://gcn.com/articles/2019/03/25/mobile-verification.aspx) are necessary to secure access to systems and protect citizens from identity theft.
-The [Pan-Canadian Trust Framework](https://canada-ca.github.io/PCTF-CCP/overview/pctf-overview.html) is applied for ESDC's services to enable trusted digital identity to be shared and validated between canadian jurisdictions.
+The [Pan-Canadian Trust Framework](https://canada-ca.github.io/PCTF-CCP/) is applied for ESDC's services to enable trusted digital identity to be shared and validated between canadian jurisdictions.
 
 Cyber security is involved from the beginning of IT solution building to the end, and relies on as much automated testing as possible to provide assurance, as opposed to gate-based assessment processes, and relies on embedded knowledge within development teams instead of analysts.
 
