@@ -301,7 +301,13 @@
     "Borodino",
     "Shevardino",
     "themself",
-    "mentoring"
+    "mentoring",
+    "Nfrs",
+    "ilities",
+    "deployability",
+    "Jordi",
+    "Atd's",
+    "nonfinancial"
   ],
   "flagWords": [],
   "import": ["./node_modules/cspell-dict-fr-fr/cspell-ext.json"],
