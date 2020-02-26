@@ -122,8 +122,6 @@ Many IT Revolution books have audio samples of the opening chapters available on
 
 ## Related to Strategies
 
-<a id="Q1" style="padding-top: 40px; margin-top: -40px;"></a>
-
 ### Q1 Strategy - Continuous Improvement and Learning
 
 [IITB Operational Staffing Plan 2018-2019](http://dialogue/grp/WM-Gde/Operational%20Staffing%20Plan/PMD%20OSP%20Library/2018-19_Operational_Staffing_Plan_IITB.docx) (internal)  

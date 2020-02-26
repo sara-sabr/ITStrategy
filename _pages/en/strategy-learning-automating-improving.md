@@ -58,7 +58,7 @@ IITB teams should:
 - Teach yourself basic programming
 - Experiment with cloud technologies
 - Take online courses - [edX](https://www.edx.org/), [Cousera](https://www.coursera.org/), [Udemy](https://www.udemy.com/), or [MOOCs](https://www.mooc-list.com/)
-- Read books, articles or documentation - See our [References]({{ site.baseurl }}/references-en.html#Q1)
+- Read books, articles or documentation - See our [References]({{ site.baseurl }}/references-en.html)
 - Attend events or conferences
 - Request micro missions with groups throughout ESDC or the Government of Canada at large
 - Attend IITB showcase, Dev CoP, dojos or other learning opportunities within IITB and ESDC
