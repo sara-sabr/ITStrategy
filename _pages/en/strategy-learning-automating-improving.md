@@ -73,3 +73,4 @@ IITB teams should:
 - Register for training/events offered by ESDC and CSPS
 - Start/attend meetups regarding technologies relevant to your work
 - Learn more methodologies - Many free audiobook samples can be found on [ITRevolution's SoundCloud](https://soundcloud.com/itrevolution/sets)
+- Reach out to your [Security Champion network](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/SLF%20Forum%20Documents/Security%20Champions%20SLF-EN.pptx) to learn about security
