@@ -16,32 +16,25 @@ The [mission of Employment and Social Development Canada (ESDC)](https://www.can
 
 This mission is now heavily influenced by the strategic use of technology in delivering services to Canadians.
 As stated in the [2019-2020 Departmental Plan](https://www.canada.ca/en/employment-social-development/corporate/reports/departmental-plan/2019-2020/plans.html), ESDC commits to "continue to transform the delivery of its services to ensure they meet the evolving expectations of Canadians".
-The use of technology in service delivery is reiterated as part of the [Treasury Board (TB) upcoming Policy on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603).
+The use of technology in service delivery is reiterated as part of the [Treasury Board (TB) Policy on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603).
 
 In supporting departments towards the transition to Digital Government, TB Secretariat (TBS) established a set of [10 Digital Standards](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603) and a [Digital Operations Strategic Plan](https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html) that contains 79 actions.
 Due to ESDC's citizen-focus mandate, it is heavily engaged in those digital operation actions.
 For example, the [OneGC vision and Omni Channel Digital Strategy](https://gccollab.ca/groups/profile/154708/enonegc-ungcfrungc) contains 14 cluster groups where ESDC either leads or is an active participant in each one.
 
-Internally within ESDC, the Innovation, Information and Technology Branch (IITB) established a 2019-2022 IT Plan, called the [IITB Way Forward](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx), containing 26 service improvement and modernization activities to improve its Information Management/Information Technology (IM/IT) service offerings.
+Internally within ESDC, the Innovation, Information and Technology Branch (IITB) established the [IITB Way Forward](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx), containing 26 service improvement and modernization activities to improve its Information Management/Information Technology (IM/IT) service offerings.
 
 In addition, ESDC has started investing in a [Business Delivery Modernization](https://www.canada.ca/en/employment-social-development/corporate/reports/departmental-plan/2019-2020/planned-results.html#h2.04) effort that targets a complete business process and technology renewal for Employment Insurance, Old Age Security and the Canada Pension Plan.
 
 ## Problem Statement
 
-IT and Business Continuity are key organizational risks for a large organization like ESDC.
-Both risks have impacts to Information/Knowledge Management (Data), Privacy/Safeguarding Personal Information, Fraud and Service Delivery.
-
 As explained in [ESDC's Medium-Term Planning](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Briefings/MTP-Initiative-Mapping_2018.docx), ESDC operates a portfolio of approximately 500 applications, 101 of which are mission critical.
 These IT systems can no longer meet the needs of ESDC programs due to system aging and too much unaddressed technical debt.
 Some new government regulations cannot be implemented because ESDC IT systems are unable to respond to those changes.
 
-Government of Canada historical records are evidence that the conventional method of doing IT promotes risks instead of reducing them.
-For example, the [July 2018 report of the Standing Senate Committee on National Finance](https://sencanada.ca/content/sen/committee/421/NFFN/reports/NFFN_Phoenix_Report_32_WEB_e.pdf) about the Phoenix Pay System project states: "Instead of realizing $70 million in annual savings by centralizing pay operations, the government will incur approximately $2.2 billion in unplanned expenditures".
+In addition, with the emergence of digital government that is reviewing business processes, policy, and delivery, the demand on IT is expected to increase exponentially. This exposes the ubiquitous nature of technology in government service delivery and that IT can no longer be seen as a back-office function, it has real repercussions to Canadians. IT can no longer be considered a back office function or a "company within a company" as it has real repercussions to Canadians.
 
-ESDC as a whole organization understands that the use of IT is risky and costly.
-In addition, with the emergence of digital government through new business, policy, and technology direction, the demand on IT is expected to increase exponentially.
-IT can no longer be considered a back office function or a "company within a company" as it has real repercussions to Canadians.
-Therefore, IT is now embedded as part of ESDC's mandate delivery.
+Government of Canada [historical records](https://www.oag-bvg.gc.ca/internet/English/parl_lp_e_933.html), such as with the [Phoenix Project](https://www.oag-bvg.gc.ca/internet/English/parl_oag_201805_01_e_43033.html) are evidence that the conventional method of doing IT is risky, costly, and lengthy.
 
 ESDC must change the relationship it has with IT to one that reduces its risk and enables business agility.
 To achieve this, a new method of doing IT is required.
@@ -52,39 +45,67 @@ But a complex and uncertain world rewards an empirical cycle of trying, observin
 
 \- Mark Schwartz, War & Peace & IT
 
-## ESDC IT Strategy Overview
+## ESDC IT Strategy Logic Model
 
-The core of ESDC's IT Strategy focuses on reducing the risks associated with IT and increasing business agility.
-It will do so by
+The [core of ESDC's IT Strategy](mandate.html) focuses on reducing the risks associated with IT and increasing business agility.
+It will do so by:
 
-- Changing the relationship service lines have with IT from a contracting model one to a partnership one:
-  - IITB will have a shared accountability over ESDC's service performance
-  - ESDC programs will have a shared accountability over the costs and risks of using IT as part of their service delivery
-- Increasing the rate at which IT is able to respond to change and deliver services
+- moving to a shared accountability amongst software stakeholders (which includes "the business")
+- improving the responsivness of IT by investing in internal capabilities
 
-### IM/IT Services and key functions
+Achieving the above is mostly about cultural change.
+Hence the strategy will focus heavily on improving the culture within the organization in order to unlock its potential.
 
-The following diagram highlights IM/IT's services and key functions as represented in the [Senior Leadership Meeting on IM/IT](http://dialogue/grp/BU6810070/Shared%20Documents/Reference%20Materials/ESDC%20IMIT%20Moving%20Forward%20(DM%20Meeting).pptx).
+Because strategy making fosters long term impacts which are difficult to measure directly, the following IT Strategy Logic model helps visualize the causes and effects of short term activities that are expected to lead to long term impacts.
 
-![IM/IT services and key functions](assets/images/imit-services-and-functions.png "IM/IT Services and key functions")
+![ESCT's IT Strategy Logic Model - showing the short, medium, and long term outcomes](assets/images/it-strategy-logic-model.png) "IT Strategy Logic Model")
 
-The goal of the ESDC IT Strategy is to improve each of those services and functions without telling their respective teams *what to do*.
-Instead, the IT Strategy focuses on empowering the teams to continuously improve by **investing in core competencies**.
+The above diagram positions ESDC's IT within its current state of transitioning to Digital Government at the same time as requiring to maintain its legacy systems until such transition is completed. In addition, the [4 high level priorities of IITB](http://esdc.prv/en/iitb/corporate/Who_We_Are/Plans_and_Priorities/index.shtml) are listed to remind the focus of the organization.
 
-### Empowering IT teams
+### Long Term Outcomes (Impact)
 
-The ESDC IT Strategy uses the [DevOps Research and Assessment (DORA)](https://cloud.google.com/devops) 21 capabilities as a benchmark to identify areas of improvements.
-The choice of technology is not what is important, what is important is to continuously increase frequency of delivery while reducing lead time, time to restore service when an incident occurs, rate of failure, and cyber security incidents.
+The long term impacts of the IT Strategy is to create the following conditions:
 
-The transition towards this partnership model is explained in the following [Strategy Map diagram](strategy-summary.html).
+<!--markdownlint-disable MD029-->
+1) Technology is a shared accountability between stakeholders
+
+Lines of businesses **share the costs and risks** of using technology with the IT branch.
+Before an IT-enabled initiative is launched, the business problem to solve with technology **is clear**, business experts **fully participate** in the execution of the initiative in partnership with their technology colleagues, and **rapid feedback** from end-users is not only promoted, it is **enabled**.
+
+2) The four (4) key metrics as identified in the [DevOps Research and Assessment (DORA) institute research](https://www.devops-research.com/research.html) for software delivery & operational performance are continuously improved
+
+- **Lead time:** the time code changes take to go from check-in to release
+- **Deployment frequency:** a software deployment to production
+- **Change fail:** the change failure rate measured by how often deployment failures occur in production that require immediate remedy
+- **Time to restore:** the time it takes from detecting a user impacting incident to having it remediated
+<!--markdownlint-enable MD029-->
+
+### Medium Term Outcomes
+
+In order to create the conditions as stated in the Long Term Outcome section above, an organization culture that is high-trust and emphasizes information flow between teams is necessary.
+The [Westrum organization topology model](https://cloud.google.com/solutions/devops/devops-culture-westrum-organizational-culture), by Dr. Ron Westrum, will be used as a guide to measure the organizational culture.
+
+### Short Term Outcomes
+
+As culture is defined by a set of behaviours, the short term outcomes sought by the ESDC IT Strategy is to create the environment needed to manifest them.
+More specifically, the behaviours are:
+
+- **Awareness**: 
+- **Knowledge**:
+- **Attitudes**:
+- **Skills**:
+- **Interest**:
+- **Opinions**:
+- **Aspirations**:
+- **Intensions**:
+- **Motivations**:
+
+### Strategy Map
+
+The above outcomes will make use of this [Strategy Map diagram](strategy-summary.html) to guide technology teams towards the short, medium, and long term outcomes.
+This Strategy map diagram is guided by the [DevOps Research and Assessment (DORA)](https://cloud.google.com/devops) 21 capabilities.
+
 Each block corresponding in the diagram represents a distinct strategy to move ESDC towards its ultimate Digital Transformation goal: become a key stakeholder in the Canadian Government as a Platform.
-
-The approach to the IT Strategy is **not** to complete each of the diagram's block before publishing them as a single plan.
-Instead, the ESDC IT Strategy team will work with the IT community to continuously diagnose key organizational problems, waste, lead times and governance structures that inhibit the desired changes in behaviours.
-
-## Immediate Actions
-
-To get started, the following [Strategies and Actions](strategies-actions.html) need to be applied for all projects and teams.
 
 ## Expected Results
 
