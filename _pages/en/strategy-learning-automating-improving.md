@@ -72,5 +72,4 @@ IITB teams should:
 - Take part in Service Canada staff training
 - Register for training/events offered by ESDC and CSPS
 - Start/attend meetups regarding technologies relevant to your work
-- Learn new tools (Containers, Cloud, Agile, etc)
 - Learn more methodologies - Many free audiobook samples can be found on [ITRevolution's SoundCloud](https://soundcloud.com/itrevolution/sets)
