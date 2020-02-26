@@ -44,6 +44,9 @@
     },
     {
       "pattern": "https://gpp-ppm.service.gc.ca"
+    },
+    {
+      "pattern": "https://esdc.sabacloud.com"
     }
   ]
 }
