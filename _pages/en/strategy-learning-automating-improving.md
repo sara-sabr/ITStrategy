@@ -57,7 +57,7 @@ IITB teams should:
 ##### Learn
 
 - Stay up to date on trends and technologies inside and outside the GC
-- Teach yourself basic programming
+- Teach yourself basic programming (e.g. .Net Core, Java, Python, JavaScript)
 - Experiment with cloud technologies - [Play with Docker](https://labs.play-with-docker.com/)
 - Take online courses - [edX](https://www.edx.org/), [Cousera](https://www.coursera.org/), [Udemy](https://www.udemy.com/), or search on [MOOC List](https://www.mooc-list.com/)
 - Read books, articles or documentation - See our [References]({{ site.baseurl }}/references-en.html)
