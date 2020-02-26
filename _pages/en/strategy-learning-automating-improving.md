@@ -25,6 +25,8 @@ The goals are based on the GC IT Direction around [Digital government](https://w
 - Reduce frequency of incidents and errors
 - Recover faster from incidents and errors
 
+For more books, reports and articles supporting this strategy, you can consult our [References]({{ site.baseurl }}/references-en.html#q1-strategy---continuous-improvement-and-learning).
+
 #### Align with GC IT Direction
 
 - [Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html)
