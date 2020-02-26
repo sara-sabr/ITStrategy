@@ -58,19 +58,19 @@ IITB teams should:
 
 - Stay up to date on trends and technologies inside and outside the GC
 - Teach yourself basic programming
-- Experiment with cloud technologies
-- Take online courses - [edX](https://www.edx.org/), [Cousera](https://www.coursera.org/), [Udemy](https://www.udemy.com/), or [MOOCs](https://www.mooc-list.com/)
+- Experiment with cloud technologies - [Play with Docker](https://labs.play-with-docker.com/)
+- Take online courses - [edX](https://www.edx.org/), [Cousera](https://www.coursera.org/), [Udemy](https://www.udemy.com/), or search on [MOOC List](https://www.mooc-list.com/)
 - Read books, articles or documentation - See our [References]({{ site.baseurl }}/references-en.html)
 - Attend events or conferences
-- Request micro missions with groups throughout ESDC or the Government of Canada at large
-- Attend IITB showcase, Dev CoP, dojos or other learning opportunities within IITB and ESDC
-- Participate in "Innovation" at ESDC and Innovation Lab design sessions
+- Request [Micro Missions](http://esdc.prv/en/service-canada/pob/pob_activities/2016/micromissions.shtml) with groups throughout ESDC or the Government of Canada at large
+- Attend [IITB showcase](http://dialogue/grp/BU6386699/SitePages/IITB_Showcase.aspx), [Dev CoP](https://github.com/esdc-edsc/Welcome/blob/master/Recommendations/DevOps_SDLC.md), dojos or other learning opportunities within IITB and ESDC
+- Participate in "Innovation" at ESDC and [Innovation Lab](http://iservice.prv/eng/innovation_lab/index.shtml) design sessions
 - Explore data science opportunities with ESDC Chief Data Office (CDO)
 - Setup a recurring time to share knowledge with colleagues within your team (small, 5-10 people)
 - Find/become a mentor/coach
-- Join groups and participate in discussions on GCconnex/GCcollab, as well as external communities
+- Join groups and participate in discussions on [GCconnex](https://gcconnex.gc.ca/) and [GCcollab](https://gccollab.ca/), as well as external communities
 - Take part in Service Canada staff training
-- Register for training/events offered by ESDC and CSPS
+- Register for training/events [offered by ESDC](https://esdc.sabacloud.com/) and through [GCcampus](https://idp.csps-efpc.gc.ca/)
 - Start/attend meetups regarding technologies relevant to your work
 - Learn more methodologies - Many free audiobook samples can be found on [ITRevolution's SoundCloud](https://soundcloud.com/itrevolution/sets)
 - Reach out to your [Security Champion network](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/SLF%20Forum%20Documents/Security%20Champions%20SLF-EN.pptx) to learn about security
