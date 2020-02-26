@@ -51,7 +51,7 @@ IITB teams should:
 - Measure current processing times of units of work your team processes
 - Reduce amount of time it takes to complete work items
 - Review existing processes and governance structure which lengthen process times
-- Identify issues and raise them to your manager or as Grassroots initiatives or proof of concepts
+- Identify issues and raise them to your manager or as Grassroots initiatives or proofs of concept
 - Automate repetitive manual tasks where possible, at the team and individual level
 
 ##### Learn
@@ -62,7 +62,7 @@ IITB teams should:
 - Take online courses - [edX](https://www.edx.org/), [Cousera](https://www.coursera.org/), [Udemy](https://www.udemy.com/), or search on [MOOC List](https://www.mooc-list.com/)
 - Read books, articles or documentation - See our [References]({{ site.baseurl }}/references-en.html)
 - Attend events or conferences
-- Request [Micro Missions](http://esdc.prv/en/service-canada/pob/pob_activities/2016/micromissions.shtml) with groups throughout ESDC or the Government of Canada at large
+- Request [Micro Missions](http://esdc.prv/en/service-canada/pob/pob_activities/2016/micromissions.shtml) with groups throughout ESDC or the Government of Canada at large on [GCconnex](https://gcconnex.gc.ca/missions/main)
 - Attend [IITB showcase](http://dialogue/grp/BU6386699/SitePages/IITB_Showcase.aspx), [Dev CoP](https://github.com/esdc-edsc/Welcome/blob/master/Recommendations/DevOps_SDLC.md), dojos or other learning opportunities within IITB and ESDC
 - Participate in "Innovation" at ESDC and [Innovation Lab](http://iservice.prv/eng/innovation_lab/index.shtml) design sessions
 - Explore data science opportunities with ESDC Chief Data Office (CDO)
