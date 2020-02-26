@@ -47,57 +47,63 @@ But a complex and uncertain world rewards an empirical cycle of trying, observin
 
 ## ESDC IT Strategy Logic Model
 
-The [core of ESDC's IT Strategy](mandate.html) focuses on reducing the risks associated with IT and increasing business agility.
+ESDC's IT Strategy is not about trying to predict the future as it accepts that the future is highly complex and unpredictable. Instead, the [core of ESDC's IT Strategy](mandate.html) focuses on reducing the risks associated with IT and increasing business agility.
 It will do so by:
 
 - moving to a shared accountability amongst software stakeholders (which includes "the business")
 - improving the responsivness of IT by investing in internal capabilities
 
-Achieving the above is mostly about cultural change.
-Hence the strategy will focus heavily on improving the culture within the organization in order to unlock its potential.
+Achieving the above is mostly about cultural change as the ESDC IT Strategy looks to empower its existing teams.
+Hence the strategy will focus heavily on improving the culture within the organization in order to enable teams.
+It will do so in an iterative fashion, making course corrections as need be.
 
 Because strategy making fosters long term impacts which are difficult to measure directly, the following IT Strategy Logic model helps visualize the causes and effects of short term activities that are expected to lead to long term impacts.
 
-![ESCT's IT Strategy Logic Model - showing the short, medium, and long term outcomes](assets/images/it-strategy-logic-model.png) "IT Strategy Logic Model")
+![ESDC's IT Strategy Logic Model - showing the short, medium, and long term outcomes](../../assets/images/it-strategy-logic-model.png "IT Strategy Logic Model")
 
-The above diagram positions ESDC's IT within its current state of transitioning to Digital Government at the same time as requiring to maintain its legacy systems until such transition is completed. In addition, the [4 high level priorities of IITB](http://esdc.prv/en/iitb/corporate/Who_We_Are/Plans_and_Priorities/index.shtml) are listed to remind the focus of the organization.
+The above diagram positions ESDC's IT within its current state of transitioning to Digital Government at the same time as requiring to maintain its legacy systems until they are being replaced with modern ones. In addition, the [4 high level priorities of IITB](http://esdc.prv/en/iitb/corporate/Who_We_Are/Plans_and_Priorities/index.shtml) are listed to remind the focus of the organization.
 
 ### Long Term Outcomes (Impact)
 
-The long term impacts of the IT Strategy is to create the following conditions:
+The long term impacts of the IT Strategy is to create the following two conditions:
 
-<!--markdownlint-disable MD029-->
-1) Technology is a shared accountability between stakeholders
+<!--markdownlint-disable MD029 MD036-->
+_1) Technology is a shared accountability between stakeholders_
 
 Lines of businesses **share the costs and risks** of using technology with the IT branch.
 Before an IT-enabled initiative is launched, the business problem to solve with technology **is clear**, business experts **fully participate** in the execution of the initiative in partnership with their technology colleagues, and **rapid feedback** from end-users is not only promoted, it is **enabled**.
 
-2) The four (4) key metrics as identified in the [DevOps Research and Assessment (DORA) institute research](https://www.devops-research.com/research.html) for software delivery & operational performance are continuously improved
+_2) The four (4) key metrics as identified in the [DevOps Research and Assessment (DORA) institute research](https://www.devops-research.com/research.html) for software delivery & operational performance are continuously improved_
 
 - **Lead time:** the time code changes take to go from check-in to release
 - **Deployment frequency:** a software deployment to production
 - **Change fail:** the change failure rate measured by how often deployment failures occur in production that require immediate remedy
 - **Time to restore:** the time it takes from detecting a user impacting incident to having it remediated
-<!--markdownlint-enable MD029-->
+<!--markdownlint-enable MD029 MD036-->
 
 ### Medium Term Outcomes
 
 In order to create the conditions as stated in the Long Term Outcome section above, an organization culture that is high-trust and emphasizes information flow between teams is necessary.
-The [Westrum organization topology model](https://cloud.google.com/solutions/devops/devops-culture-westrum-organizational-culture), by Dr. Ron Westrum, will be used as a guide to measure the organizational culture.
+The [Westrum organization topology model](https://cloud.google.com/solutions/devops/devops-culture-westrum-organizational-culture), by Dr. Ron Westrum, will be used as a guide to move towards and measure the organizational culture as follows:
+
+- The cooperation level between teams
+- How the reception of bad news is treated
+- The level at which shared responsibilities are encouraged and observed
+- The level at which bridging, breaking down silos, is encouraged and observed
+- How the resopnse to failure is managed
+- The level at which experimentation is encouraged and observed
 
 ### Short Term Outcomes
 
 As culture is defined by a set of behaviours, the short term outcomes sought by the ESDC IT Strategy is to create the environment needed to manifest them.
-More specifically, the behaviours are:
+More specifically, an environment around:
 
 - **Awareness**: 
-- **Knowledge**:
+- **Knowledge**: 
 - **Attitudes**:
 - **Skills**:
-- **Interest**:
-- **Opinions**:
-- **Aspirations**:
-- **Intensions**:
+- **Interests**:
+- **Intentions**:
 - **Motivations**:
 
 ### Strategy Map
@@ -109,7 +115,7 @@ Each block corresponding in the diagram represents a distinct strategy to move E
 
 ## Expected Results
 
-Descriptions of the expected results from adopting this IT Strategy are described in the following two pictures:
+Descriptions of the above outcomes from adopting this IT Strategy are described in the following two pictures:
 
 - [Medium Term (~5 years)](it-picture-medium-term.html)
 - [Long Term (>10 years)](it-picture-long-term.html)
