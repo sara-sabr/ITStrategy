@@ -40,12 +40,12 @@ Through technology, citizens are offered improved user experiences as identified
 Such experiences resulting from increased use of technology include:
 
 - Options to use different channels to obtain services or assistance.
-These channels may be ESDC's website, the beginning of the GC services portal, Service Canada centres, video chat kiosks, or 3rd party trusted providers acting as intermediaries (e.g. job searching on other platforms than JobBank, mobile applications developed by the industry)
+  These channels may be ESDC's website, the beginning of the GC services portal, Service Canada centres, video chat kiosks, or 3rd party trusted providers acting as intermediaries (e.g. job searching on other platforms than JobBank, mobile applications developed by the industry)
 - Not being asked twice for the same information ("Tell us once") is achieved while complying with the Privacy Act as technology enables citizens to keep ownership and choose when to share their personal information
 - Have access to most services wherever they are, anytime of day
 - Being automatically enrolled to receive benefits without having to apply
 - Automated administrative services like pre-filled applications and program auto-enrollment to save the time it takes to fill out forms and research programs
-- Centralized login for main ESDC services, leveraging existing citizen identities from provincial, territorial, federal and private sector organizations following the [Pan-Canadian Trust Framework](https://github.com/canada-ca/PCTF-CCP/blob/master/overview/pctf-overview.md).
+- Centralized login for main ESDC services, leveraging existing citizen identities from provincial, territorial, federal and private sector organizations following the [Pan-Canadian Trust Framework](https://canada-ca.github.io/PCTF-CCP/).
 - Stronger integration of ESDC and CRA services and the launch of the GC Services Portal.
 - Pages with scrollable instructions outlining details of the application process are a relic of the past.
 
@@ -69,7 +69,7 @@ TODO: use the list of major projects as input to describe the business outcomes 
 - They are able to view some of the source code that is being used to run their automated services, as ESDC started publishing their source code under open source licences and working in the open
 - ESDC provides the ability, for some services, for citizens to be able to see who, when, and why, organizations viewed their information
 - Transparency, accountability, and monitoring is built into all automated processes.
-External partners are respecting citizens' privacy when they use ESDC's services (i.e. no data mining or selling).
+  External partners are respecting citizens' privacy when they use ESDC's services (i.e. no data mining or selling).
 
 #### Open Collaboration
 
@@ -107,7 +107,7 @@ In the following sections, we're trying to take the perspectives of different au
 - Citizens receive their services through automated processes through their preferred services.
 - Generational change: Citizens are used to deal with technologies, they do not face technical illiteracy like 2019.
 - OneGC: Citizens interact with federal government services, without having to understand how those are administered by multiple departments.
-That interaction is either via a central GC Portal or via 3rd-party providers like banks, employers, provincial services.
+  That interaction is either via a central GC Portal or via 3rd-party providers like banks, employers, provincial services.
 
 #### Automatic Enrollment and Delivery
 

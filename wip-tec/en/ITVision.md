@@ -51,7 +51,7 @@ Only on exceptional, well documented and justified cases, is data not published 
 ESDC's policy and program development are done "in the open", over the Internet, enabling active participation with stakeholders whether they be citizens, 3rd party partners like banks, employers, or other jurisdictions.
 
 Following the [Directive on Management of IT](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249), technology choices **adopt open standards with preference for Open Source solutions** in order to avoid vendor lock-in, enable interoperability, and collaboration.
-Technology choices does not take a simple look as "COTS *or* Custom", rather choices look at fit for purpose which means "COTS *and* Custom": COTS for commodities and Custom for specialization.
+Technology choices does not take a simple look as "COTS _or_ Custom", rather choices look at fit for purpose which means "COTS _and_ Custom": COTS for commodities and Custom for specialization.
 COTS is defined as per [US DoD FAQ](https://dodcio.defense.gov/Open-Source-Software-FAQ/#Q:_Is_open_source_software_commercial_software.3F_Is_it_COTS.3F)
 
 **Business Rules are seen as institutional knowledge** and are managed [internally by ESDC's staff](https://18f.gsa.gov/2018/10/09/implementing-rules-without-rules-engines/), outside of proprietary systems to avoid vendor lock-in and assure long term sustainability of Canadians core benefits systems.
@@ -108,7 +108,7 @@ IT solutions managing citizen data are built with a [zero trust architecture](ht
 ESDC's Cyber security has shifted to protecting data at the source and in transit, instead of relying on perimeter defences.
 This involves encrypting data at rest, in transit, and relying on strong authentication, access policies, and modern identity verification to govern access to sensitive data.
 [Behavioral Analytics and biometrics](https://gcn.com/articles/2019/03/25/mobile-verification.aspx) are necessary to secure access to systems and protect citizens from identity theft.
-The [Pan-Canadian Trust Framework](https://canada-ca.github.io/PCTF-CCP/overview/pctf-overview.html) is applied for ESDC's services to enable trusted digital identity to be shared and validated between canadian jurisdictions.
+The [Pan-Canadian Trust Framework](https://canada-ca.github.io/PCTF-CCP/) is applied for ESDC's services to enable trusted digital identity to be shared and validated between canadian jurisdictions.
 
 Cyber security is involved from the beginning of IT solution building to the end, and relies on as much automated testing as possible to provide assurance, as opposed to gate-based assessment processes, and relies on embedded knowledge within development teams instead of analysts.
 
