@@ -74,3 +74,16 @@ IITB teams should:
 - Start/attend meetups regarding technologies relevant to your work
 - Learn more methodologies - Many free audiobook samples can be found on [ITRevolution's SoundCloud](https://soundcloud.com/itrevolution/sets)
 - Reach out to your [Security Champion network](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/SLF%20Forum%20Documents/Security%20Champions%20SLF-EN.pptx) to learn about security
+
+### Outcomes
+
+- Reducation of technical debt
+- Increased innovation
+- Respond faster to needs of citizens
+- Respond faster to operational issues (Ex: New vulnerabilities)
+- Reduce frequency of incidents and errors
+- Increase ability to comply with regulations
+- Increase student retention and job satisfcation
+- Increase general job satisfaction and retention
+- Create a culture resistant to potential disruptions via automation
+- Create a culture that benefits from automation opportunities
