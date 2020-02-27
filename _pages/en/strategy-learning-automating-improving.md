@@ -77,13 +77,13 @@ IITB teams should:
 
 ### Outcomes
 
-- Reducation of technical debt
+- Reduction of technical debt
 - Increased innovation
 - Respond faster to needs of citizens
 - Respond faster to operational issues (Ex: New vulnerabilities)
 - Reduce frequency of incidents and errors
 - Increase ability to comply with regulations
-- Increase student retention and job satisfcation
+- Increase student retention and job satisfaction
 - Increase general job satisfaction and retention
 - Create a culture resistant to potential disruptions via automation
 - Create a culture that benefits from automation opportunities
