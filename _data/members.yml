@@ -1,0 +1,99 @@
+- name: Elmina Iusifova
+  title: Programmer Analyst
+  titre: Analyste programmeuse
+  email: elmina.iusifova@hrsdc-rhdcc.gc.ca
+  couriel: elmina.iusifova@rhdcc-hrsdc.gc.ca
+  twitter: Elmina65935561
+  github: ElminaIusifova
+  linkedin: elminaiusifova
+  interests: User Experience Design, User Interface Design, Communication, Front-end Development
+  interets: Conception de l’expérience utilisateur, Design d'interface, Communication, Développement d'applications client
+  picture_path: assets/images/profile-elmina.jpg
+- name: Gabriel Cossette
+  title: Senior Advisor
+  titre: Conseiller principal
+  email: gabriel.cossette@hrsdc-rhdcc.gc.ca
+  couriel: gabriel.cossette@rhdcc-hrsdc.gc.ca
+  twitter: gabrielcossette
+  github: gabrielcossette
+  linkedin: gabrielcossette
+  interests: Open Source Software, Ethical Computing, Architecture, Web, Community
+  interets: Logiciel libre, Informatique éthique, Architecture, Web, Communauté
+  picture_path: assets/images/profile-gabriel.png
+- name: Guillaume Charest
+  title: Advisor
+  titre: Conseiller
+  email: guillaume.charest@hrsdc-rhdcc.gc.ca
+  couriel: guillaume.charest@rhdcc-hrsdc.gc.ca
+  twitter: guillcharest
+  github: gcharest
+  linkedin: guillaumecharest
+  interests: Open Source Software, Accessibility, Inclusion, Community
+  interets: Logiciels libres, Accessibilité, Inclusion, Communauté
+  picture_path: assets/images/profile-guillaume.png
+- name: Jayson McIntosh
+  title: Acting Manager
+  titre: Gestionnaire intérimaire
+  email: jayson.mcintosh@hrsdc-rhdcc.gc.ca
+  couriel: jayson.mcintosh@rhdcc-hrsdc.gc.ca
+  twitter: JaysonMcIntosh
+  github: jaysonmc
+  linkedin: jayson-mcintosh-200882108
+  interests: All things nerdy
+  interets: Toutes les choses intello
+  picture_path: assets/images/profile-jayson.jpg
+- name: My Thuy Pham-Vo
+  title: Programmer Analyst
+  titre: Analyste programmeuse
+  email: mythuy.phamvo@hrsdc-rhdcc.gc.ca
+  couriel: mythuy.phamvo@rhdcc-hrsdc.gc.ca
+  twitter: null
+  github: null
+  linkedin: my-thuy-pham-vo-b4737612a
+  interests: Data analytics, Business Relations, Business Intelligence, Enterprise Architecture
+  interets: Analyses des données, Relations d'affaires, intelligence d'affaires, Architecture d'entreprise
+  picture_path: assets/images/profile-my.jpeg
+- name: Omar Nasr
+  title: title
+  titre: titre
+  email: omar.nasr@hrsdc-rhdcc.gc.ca
+  couriel: omar.nasr@rhdcc-hrsdc.gc.ca
+  twitter: thenextmusk
+  github: moro-code
+  linkedin: ott-omar-nasr
+  interests: Interests
+  interets: Interets
+  picture_path: assets/images/profile-omar.png
+- name: Rachel Muston
+  title: Advisor
+  titre: Conseiller
+  email: rachel.muston@hrsdc-rhdcc.gc.ca
+  couriel: rachel.muston@rhdcc-hrsdc.gc.ca
+  twitter: rachelmuston
+  github: rachelmuston
+  linkedin: rachel-muston-a1b52829
+  interests: Strategy and problem scoping, Community, Learning
+  interets: Portée de la stratégie et des problèmes, Communauté, Apprentissage
+  picture_path: assets/images/profile-rachel3.png
+- name: Rémy Bernard
+  title: Senior Advisor
+  titre: Conseiller principal
+  email: remy.bernard@hrsdc-rhdcc.gc.ca
+  couriel: remy.bernard@rhdcc-hrsdc.gc.ca
+  twitter: remyb2
+  github: remyb2canada
+  linkedin: remybernard
+  interests: Architecture, Governance, Psychology, Ethical Computing, Community
+  interets: Architecture, gouvernance, psychologie, éthique informatique, communauté
+  picture_path: assets/images/profile-remy.png
+- name: Sébastien Lemay
+  title: Technical Advisor
+  titre: Conseiller technique
+  email: sebastien.lemay@hrsdc-rhdcc.gc.ca
+  couriel: sebastien.lemay@rhdcc-hrsdc.gc.ca
+  twitter: smellems
+  github: smellems
+  linkedin: null
+  interests: Free (open source) software, DevOps, enterprise architecture
+  interets: Logiciels libres, DevOps, architecture d'entreprise
+  picture_path: assets/images/profile-sebastien.jpg
