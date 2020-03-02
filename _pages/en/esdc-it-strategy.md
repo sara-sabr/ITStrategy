@@ -51,7 +51,7 @@ ESDC's IT Strategy is not about trying to predict the future as it accepts that 
 It will do so by:
 
 - moving to a shared accountability amongst software stakeholders (which includes "the business")
-- improving the responsivness of IT by investing in internal capabilities
+- improving the responsiveness of IT by investing in internal capabilities
 
 Achieving the above is mostly about cultural change as the ESDC IT Strategy looks to empower its existing teams, giving them more autonomy so they can more quickly respond to change.
 Hence the strategy will focus heavily on improving the culture within the organization.
@@ -66,7 +66,7 @@ The above diagram positions ESDC's IT within its current state of transitioning 
 ### Input and Outputs
 
 **Inputs** are what both the IT Strategy team require to produce their outputs.
-Inputs  for other IITB teams is not displayed here as a means to reduce redundency and confusion. Other IITB teams play an essential role and have their distinct section (see below)
+Inputs  for other IITB teams is not displayed here as a means to reduce redundancy and confusion. Other IITB teams play an essential role and have their distinct section (see below)
 
 **Outputs** are the IT Strategy team's own activities and creation.
 Those outputs are expected to create the short term outcomes listed below, which will lead to the long term impacts sought.
@@ -76,9 +76,9 @@ Those outputs are expected to create the short term outcomes listed below, which
 As culture is defined by a set of behaviours, the short term outcomes sought by the ESDC IT Strategy is to create the environment needed to manifest them.
 More specifically, an environment that will produce:
 
-1) **Reduced IT project sizes**: Lines of business become more aware of the risks in using technology and so reduce their initiative sizes. Advance planning is shifting to iteration and adjusting course using emperical evidence from user feedback.
+1) **Reduced IT project sizes**: Lines of business become more aware of the risks in using technology and so reduce their initiative sizes. Advance planning is shifting to iteration and adjusting course using empirical evidence from user feedback.
 2) **Ongoing efforts visible**: Efforts by IT teams are exposed and more visible by all, promoting a general awareness of IT's complexity and amount of efforts needed to solve problems to stakeholders.
-3) **Challenges surfaced**: Challenges bewteen IT teams, especially relating to information flow and toil, are surfaced to allocate time needed to be address them
+3) **Challenges surfaced**: Challenges between IT teams, especially relating to information flow and toil, are surfaced to allocate time needed to be address them
 4) **Successes surfaced**: Successes of IT teams are surfaced, communicated within and outside IITB, and celebrated
 5) **Knowledge Shared**: Teams shift from requiring specialists to requiring [t-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills). Knowledge is easily discoverable and consumable
 6) **Increased User Feedback**: Measurements are build within products and used to inform technical decisions. Quality starts getting validated by end users instead of proxies.
@@ -111,7 +111,7 @@ An organization culture that is high-trust and emphasizes information flow betwe
 
 **3) Reduced gap between the user and IT**
 
-Moving towards an empirical cycle of trying, observing, and correcting when managing IT inviatives will require involving the user throughout the exercise. This involves:
+Moving towards an empirical cycle of trying, observing, and correcting when managing IT initiatives will require involving the user throughout the exercise. This involves:
 
 - Increased focus on outcomes over advance planning activities
 - Increasing the frequency of deployment in production to receive feedback from end-users
@@ -135,7 +135,7 @@ Before an IT-enabled initiative is launched, the business problem to solve with 
 - _Lead time:_ the time code changes take to go from check-in to release in production
 - _Deployment frequency:_ the rate at which software is deployed to production or released to end users
 - _Change fail:_ the change failure rate measured by how often deployment failures occur in production that require immediate remedy
-- _Time to restore:_ the time it takes from detecting a user impacting incident to having it remediated
+- _Time to restore:_ the time it takes from detecting a user impacting incident to remediating it
 <!--markdownlint-enable MD029 MD036-->
 
 ### Strategy Map
