@@ -59,7 +59,7 @@ It will do so in an [iterative fashion](https://cloud.google.com/solutions/devop
 
 Because strategy making fosters long term impacts which are difficult to measure directly, the following IT Strategy Logic model helps visualize the causes and effects of output activities that are expected to directly affect short term outcomes and lead to long term impacts.
 
-![ESDC's IT Strategy Logic Model - showing the short, medium, and long term outcomes](../../assets/images/it-strategy-logic-model.png "IT Strategy Logic Model")
+![ESDC's IT Strategy Logic Model - showing the short, medium, and long term outcomes](assets/images/it-strategy-logic-model.png "IT Strategy Logic Model")
 
 The above diagram positions ESDC's IT within its current state of transitioning to Digital Government at the same time as requiring to maintain its legacy systems until they are being replaced with modern ones. In addition, the [4 high level priorities of IITB](http://esdc.prv/en/iitb/corporate/Who_We_Are/Plans_and_Priorities/index.shtml) are listed to remind the focus of the organization.
 
