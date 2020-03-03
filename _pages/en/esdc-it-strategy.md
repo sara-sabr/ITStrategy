@@ -57,7 +57,7 @@ Achieving the above is mostly about cultural change as the ESDC IT Strategy look
 Hence the strategy will focus heavily on improving the culture within the organization.
 It will do so in an [iterative fashion](https://cloud.google.com/solutions/devops/devops-culture-transform), making course corrections as need be.
 
-Because strategy making fosters long term impacts which are difficult to measure directly, the following IT Strategy Logic model helps visualize the causes and effects of output activities that are expected to directly affect short term outcomes and lead to long term impacts.
+Because strategy making fosters long term impacts which are difficult to measure directly, the following IT Strategy Logic Model helps visualize the causes and effects of output activities that are expected to directly affect short term outcomes and lead to long term impacts.
 
 ![ESDC's IT Strategy Logic Model - showing the short, medium, and long term outcomes](assets/images/it-strategy-logic-model.png "IT Strategy Logic Model")
 
@@ -76,20 +76,20 @@ Those outputs are expected to create the short term outcomes listed below, which
 As culture is defined by a set of behaviours, the short term outcomes sought by the ESDC IT Strategy is to create the environment needed to manifest them.
 More specifically, an environment that will produce:
 
-1) **Reduced IT project sizes**: Lines of business become more aware of the risks in using technology and so reduce their initiative sizes. Advance planning is shifting to iteration and adjusting course using empirical evidence from user feedback.
-2) **Ongoing efforts visible**: Efforts by IT teams are exposed and more visible by all, promoting a general awareness of IT's complexity and amount of efforts needed to solve problems to stakeholders.
-3) **Challenges surfaced**: Challenges between IT teams, especially relating to information flow and toil, are surfaced to allocate time needed to be address them
-4) **Successes surfaced**: Successes of IT teams are surfaced, communicated within and outside IITB, and celebrated
+1) **Reduced IT Project Sizes**: Lines of business become more aware of the risks in using technology and so reduce their initiative sizes. Advance planning is shifting to iteration and adjusting course using empirical evidence from user feedback.
+2) **Ongoing Efforts Visible**: Efforts by IT teams are exposed and more visible by all, promoting a general awareness of IT's complexity and amount of efforts needed to solve problems to stakeholders.
+3) **Challenges Surfaced**: Challenges between IT teams, especially relating to information flow and toil, are surfaced to allocate time needed to be address them
+4) **Successes Surfaced**: Successes of IT teams within and outside of IITB are discovered, communicated and celebrated
 5) **Knowledge Shared**: Teams shift from requiring specialists to requiring [t-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills). Knowledge is easily discoverable and consumable
 6) **Increased User Feedback**: Measurements are build within products and used to inform technical decisions. Quality starts getting validated by end users instead of proxies.
-7) **Reduced toil**: Toil is addressed using automation and process re-engineering, allowing teams to focus on more meaningful work.
+7) **Reduced Toil**: Toil is addressed using automation and process re-engineering, allowing teams to focus on more meaningful work.
 
 ### Medium Term Outcomes
 
 The above short term outcomes are expected to lead to the following medium term ones.
 
 <!--markdownlint-disable MD029 MD036-->
-**1) Business Problem solving includes technology consideration**
+**1) Business problem solving includes technology consideration**
 
 Lines of business start engaging more and more IT teams to help them _solve business problems_. This involves:
 
@@ -98,7 +98,7 @@ Lines of business start engaging more and more IT teams to help them _solve busi
 - Experimenting more with proof of concepts or pilots before starting a project
 - Committing subject matter experts, including policy makers, during the project execution phase
 
-**2) IITB is becoming a Generative type organization**
+**2) IITB becoming a generative type organization**
 
 An organization culture that is high-trust and emphasizes information flow between teams is necessary to achieve excellence. The [Westrum organization topology model](https://cloud.google.com/solutions/devops/devops-culture-westrum-organizational-culture), by Dr. Ron Westrum, will be used as a guide to move towards and measure the organizational culture as follows:
 
@@ -129,6 +129,8 @@ The long term impacts of the IT Strategy is to create the following two conditio
 
 Lines of businesses _share the costs and risks_ of using technology with the IT branch.
 Before an IT-enabled initiative is launched, the business problem to solve with technology _is clear_, business experts _fully participate_ in the execution of the initiative in partnership with their technology colleagues, and _rapid feedback_ from end-users is not only promoted, it is _enabled_.
+
+The business vs IT paradigm is replaced with a team partnership paradigm.
 
 **2) The four (4) key metrics as identified in the [DevOps Research and Assessment (DORA) institute research](https://www.devops-research.com/research.html) for software delivery & operational performance are continuously improved**
 
