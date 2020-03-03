@@ -296,7 +296,8 @@
     "deployability",
     "Jordi",
     "Atd's",
-    "nonfinancial"
+    "nonfinancial",
+    "remediating"
   ],
   "flagWords": [],
   "import": ["./node_modules/cspell-dict-fr-fr/cspell-ext.json"],
