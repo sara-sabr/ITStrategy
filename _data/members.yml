@@ -41,28 +41,23 @@
   linkedin: jayson-mcintosh-200882108
   interests: All things nerdy
   interets: Toutes les choses intello
-  picture_path: assets/images/profile-jayson.jpg
+  picture_path: assets/images/profile-jayson2.jpg
 - name: My Thuy Pham-Vo
   title: Programmer Analyst
   titre: Analyste programmeuse
   email: mythuy.phamvo@hrsdc-rhdcc.gc.ca
   couriel: mythuy.phamvo@rhdcc-hrsdc.gc.ca
-  twitter: null
-  github: null
+  github: myp192
   linkedin: my-thuy-pham-vo-b4737612a
   interests: Data analytics, Business Relations, Business Intelligence, Enterprise Architecture
   interets: Analyses des données, Relations d'affaires, intelligence d'affaires, Architecture d'entreprise
   picture_path: assets/images/profile-my.jpeg
 - name: Omar Nasr
-  title: title
-  titre: titre
   email: omar.nasr@hrsdc-rhdcc.gc.ca
   couriel: omar.nasr@rhdcc-hrsdc.gc.ca
   twitter: thenextmusk
   github: moro-code
   linkedin: ott-omar-nasr
-  interests: Interests
-  interets: Interets
   picture_path: assets/images/profile-omar.png
 - name: Rachel Muston
   title: Advisor
@@ -93,7 +88,6 @@
   couriel: sebastien.lemay@rhdcc-hrsdc.gc.ca
   twitter: smellems
   github: smellems
-  linkedin: null
   interests: Free (open source) software, DevOps, enterprise architecture
   interets: Logiciels libres, DevOps, architecture d'entreprise
   picture_path: assets/images/profile-sebastien.jpg
