@@ -74,15 +74,15 @@ Those outputs are expected to create the short term outcomes listed below, which
 ### Short Term Outcomes
 
 As culture is defined by a set of behaviours, the short term outcomes sought by the ESDC IT Strategy is to create the environment needed to manifest them.
-More specifically, an environment that will produce:
+More specifically, an environment that will enable:
 
-1) **Reduced IT Project Sizes**: Lines of business become more aware of the risks in using technology and so reduce their initiative sizes. Advance planning is shifting to iteration and adjusting course using empirical evidence from user feedback.
-2) **Ongoing Efforts Visible**: Efforts by IT teams are exposed and more visible by all, promoting a general awareness of IT's complexity and amount of efforts needed to solve problems to stakeholders.
-3) **Challenges Surfaced**: Challenges between IT teams, especially relating to information flow and toil, are surfaced to allocate time needed to be address them
-4) **Successes Surfaced**: Successes of IT teams within and outside of IITB are discovered, communicated and celebrated
-5) **Knowledge Shared**: Teams shift from requiring specialists to requiring [t-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills). Knowledge is easily discoverable and consumable
-6) **Increased User Feedback**: Measurements are build within products and used to inform technical decisions. Quality starts getting validated by end users instead of proxies.
-7) **Reduced Toil**: Toil is addressed using automation and process re-engineering, allowing teams to focus on more meaningful work.
+1) **Reduced IT project sizes**: Lines of business become more aware of the risks in using technology and so reduce their initiative sizes. Advance planning is shifting to iteration and adjusting course using empirical evidence from user feedback.
+2) **Increased visibility of ongoing efforts**: Efforts by IT teams are exposed and more visible by all, promoting a general awareness of IT's complexity and amount of efforts needed to solve problems to stakeholders.
+3) **Increased surfacing of challenges**: Challenges between IT teams, especially relating to information flow, are surfaced to allocate time needed to be address them
+4) **Increased surfacing of successes**: Successes of IT teams within and outside of IITB are discovered, communicated and celebrated
+5) **Improved knowledge sharing**: Teams shift from requiring specialists to requiring [t-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills). Knowledge is easily discoverable and consumable
+6) **Increased user feedback**: Measurements are build within products and used to inform technical decisions. Quality starts getting validated by end users instead of proxies.
+7) **Reduced toil**: Toil is addressed using automation and process re-engineering, allowing teams to focus on more meaningful work.
 
 ### Medium Term Outcomes
 
