@@ -32,7 +32,7 @@ As explained in [ESDC's Medium-Term Planning](http://dialogue/grp/IITB-DGIIT-Gov
 These IT systems can no longer meet the needs of ESDC programs due to system aging and too much unaddressed technical debt.
 Some new government regulations cannot be implemented because ESDC IT systems are unable to respond to those changes.
 
-In addition, with the emergence of digital government that is reviewing business processes, policy, and delivery, the demand on IT is expected to increase exponentially.
+In addition, with the emergence of digital government that is reviewing business processes, policy, and delivery, the demand on IT is expected to continue increasing exponentially.
 This [exposes the ubiquitous nature of technology in government service delivery](https://www.oag-bvg.gc.ca/internet/English/parl_oag_200611_03_e_14971.html) and that IT can no longer be seen as a back-office function, it has real repercussions to Canadians.
 IT can no longer be considered a back office function or a "company within a company" as it has real repercussions to Canadians.
 
