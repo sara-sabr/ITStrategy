@@ -491,6 +491,85 @@ h3.heading {
   }
 }
 
+@-webkit-keyframes scale-up-center-icon {
+  0% {
+    -webkit-transform: scale(1.0);
+            transform: scale(1.0);
+  }
+  100% {
+    -webkit-transform: scale(1.1);
+            transform: scale(1.1);
+  }
+}
+@keyframes scale-up-center-icon {
+  0% {
+    -webkit-transform: scale(1.0);
+            transform: scale(1.0);
+  }
+  100% {
+    -webkit-transform: scale(1.1);
+            transform: scale(1.1);
+  }
+}
+
+/* =============== TEAM PAGE ===================== */
+
+.team-container{
+  display: flex;
+  width: inherit;
+  flex-wrap: wrap;
+}
+
+.team-member{
+  display: flex;
+  flex-direction: column;
+  width: 33%;
+}
+
+.team-content{
+  display: flex;
+  flex-direction: column;
+  padding: 0px 15px;
+
+}
+
+.member-email {
+  font-size: 1.3rem;
+  text-decoration: none !important;
+  color: #505962 !important ;
+}
+.member-email:hover{
+  -webkit-animation: scale-up-center-icon 0.4s ease-in-out both;
+	        animation: scale-up-center-icon 0.4s ease-in-out both;
+}
+
+.team-member h3 {
+  text-align: center;
+}
+.team-member h4 {
+  font-size: 1.05rem;
+  text-align: center;
+}
+
+.team-member img{
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 100%;
+}
+
+
+@media (max-width: 800px) {
+  .team-container{
+    flex-direction: column;
+  }
+  .team-member{
+    width: inherit;
+  }
+  .team-content{
+    text-align: center;
+    padding: 0px 20px;
+  }
+}
 
 /*============ BOOTSTRAP BREAK POINTS:
 
@@ -524,4 +603,46 @@ code {
   font-size: 87.5%;
   color: #c6005b;
   word-break: break-word;
+}
+
+
+/*================= ICONS ===========================*/
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon.eot?jdtzuh');
+  src:  url('../fonts/icomoon.eot?jdtzuh#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf?jdtzuh') format('truetype'),
+    url('../fonts/icomoon.woff?jdtzuh') format('woff'),
+    url('../fonts/icomoon.svg?jdtzuh#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-envelop:before {
+  content: "\e945";
+}
+.icon-twitter:before {
+  content: "\ea96";
+}
+.icon-github:before {
+  content: "\eab0";
+}
+.icon-linkedin:before {
+  content: "\eac9";
 }
