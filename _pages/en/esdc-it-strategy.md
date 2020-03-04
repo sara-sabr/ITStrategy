@@ -88,7 +88,7 @@ Advance planning is shifting to iteration and adjusting course using empirical e
 4) **Increased surfacing of successes**: Successes of IT teams within and outside of IITB are discovered, communicated and celebrated
 5) **Improved knowledge sharing**: Teams shift from requiring specialists to requiring [t-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills).
 Knowledge is easily discoverable and consumable
-6) **Increased user feedback**: Measurements are build within products and used to inform technical decisions.
+6) **Increased user feedback**: Measurements are built within products and used to inform technical decisions.
 Quality starts getting validated by end users instead of proxies.
 7) **Reduced toil**: Toil is addressed using automation and process re-engineering, allowing teams to focus on more meaningful work.
 
