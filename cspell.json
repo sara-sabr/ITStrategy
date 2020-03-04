@@ -307,7 +307,8 @@
     "deployability",
     "Jordi",
     "Atd's",
-    "nonfinancial"
+    "nonfinancial",
+    "CCOE"
   ],
   "flagWords": [],
   "import": ["./node_modules/cspell-dict-fr-fr/cspell-ext.json"],
