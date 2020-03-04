@@ -4,11 +4,15 @@ title: Building Nested Enabling Teams
 ref: enabling-directorate
 lang: en
 status: posted
-sections: Work In Progress
+sections: Archives
 permalink: /building-enabling-directorate.html
 ---
 
 ## {{ page.title }}
+
+### Update (26/20/2020)
+
+Since reviewing the content of the book and relevant literature, and taking a course on the subject, this approach is no longer advisable. As such, it is being moved into the archive section.
 
 ### Problem Statement
 
@@ -89,19 +93,19 @@ Between directorates
 
 ![Between directorates]({{ site.baseurl }}/assets/images/director2director.png)
 
-___
+---
 
 Between directorates and teams
 
 ![Between directorates and teams]({{ site.baseurl }}/assets/images/team2director.png)
 
-___
+---
 
 Between teams and other teams
 
 ![Between teams and teams]({{ site.baseurl }}/assets/images/team2team.png)
 
-___
+---
 
 ###### Tooling
 
@@ -128,7 +132,7 @@ An example of a viable tool for such a requirement would be Slack, where groups 
 - Representative from an enabling team meets with potential client team to prioritize work
 - Work is planned and prioritized by the enabling team during sprint planning
 
-*Note: It is important that the enabling teams have open kanban boards so that teams who have requested their attention can see where their tasks have been prioritized relative to others, or can see work in progress as the interaction takes place between the two teams.*
+_Note: It is important that the enabling teams have open kanban boards so that teams who have requested their attention can see where their tasks have been prioritized relative to others, or can see work in progress as the interaction takes place between the two teams._
 
 ### References
 

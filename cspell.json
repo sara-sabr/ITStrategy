@@ -308,7 +308,9 @@
     "Jordi",
     "Atd's",
     "nonfinancial",
-    "CCOE"
+    "CCOE",
+    "Ccampus",
+    "Banas"
   ],
   "flagWords": [],
   "import": ["./node_modules/cspell-dict-fr-fr/cspell-ext.json"],
