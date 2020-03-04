@@ -32,7 +32,9 @@ As explained in [ESDC's Medium-Term Planning](http://dialogue/grp/IITB-DGIIT-Gov
 These IT systems can no longer meet the needs of ESDC programs due to system aging and too much unaddressed technical debt.
 Some new government regulations cannot be implemented because ESDC IT systems are unable to respond to those changes.
 
-In addition, with the emergence of digital government that is reviewing business processes, policy, and delivery, the demand on IT is expected to increase exponentially. This [exposes the ubiquitous nature of technology in government service delivery](https://www.oag-bvg.gc.ca/internet/English/parl_oag_200611_03_e_14971.html) and that IT can no longer be seen as a back-office function, it has real repercussions to Canadians. IT can no longer be considered a back office function or a "company within a company" as it has real repercussions to Canadians.
+In addition, with the emergence of digital government that is reviewing business processes, policy, and delivery, the demand on IT is expected to increase exponentially.
+This [exposes the ubiquitous nature of technology in government service delivery](https://www.oag-bvg.gc.ca/internet/English/parl_oag_200611_03_e_14971.html) and that IT can no longer be seen as a back-office function, it has real repercussions to Canadians.
+IT can no longer be considered a back office function or a "company within a company" as it has real repercussions to Canadians.
 
 Government of Canada [historical records](https://www.oag-bvg.gc.ca/internet/English/parl_lp_e_933.html), such as with the [Phoenix Project](https://www.oag-bvg.gc.ca/internet/English/parl_oag_201805_01_e_43033.html) are evidence that the conventional method of doing IT is risky, costly, and lengthy.
 
@@ -47,7 +49,8 @@ But a complex and uncertain world rewards an empirical cycle of trying, observin
 
 ## ESDC IT Strategy Logic Model
 
-ESDC's IT Strategy is not about trying to predict the future as it accepts that the future is highly complex and unpredictable. Instead, the [core of ESDC's IT Strategy](mandate.html) focuses on reducing the risks associated with IT and increasing business agility.
+ESDC's IT Strategy is not about trying to predict the future as it accepts that the future is highly complex and unpredictable.
+Instead, the [core of ESDC's IT Strategy](mandate.html) focuses on reducing the risks associated with IT and increasing business agility.
 It will do so by:
 
 - moving to a shared accountability amongst software stakeholders (which includes "the business")
@@ -61,12 +64,14 @@ Because strategy making fosters long term impacts which are difficult to measure
 
 ![ESDC's IT Strategy Logic Model - showing the short, medium, and long term outcomes](assets/images/it-strategy-logic-model.png "IT Strategy Logic Model")
 
-The above diagram positions ESDC's IT within its current state of transitioning to Digital Government at the same time as requiring to maintain its legacy systems until they are being replaced with modern ones. In addition, the [4 high level priorities of IITB](http://esdc.prv/en/iitb/corporate/Who_We_Are/Plans_and_Priorities/index.shtml) are listed to remind the focus of the organization.
+The above diagram positions ESDC's IT within its current state of transitioning to Digital Government at the same time as requiring to maintain its legacy systems until they are being replaced with modern ones.
+In addition, the [4 high level priorities of IITB](http://esdc.prv/en/iitb/corporate/Who_We_Are/Plans_and_Priorities/index.shtml) are listed to remind the focus of the organization.
 
 ### Input and Outputs
 
 **Inputs** are what both the IT Strategy team require to produce their outputs.
-Inputs  for other IITB teams is not displayed here as a means to reduce redundancy and confusion. Other IITB teams play an essential role and have their distinct section (see below)
+Inputs  for other IITB teams is not displayed here as a means to reduce redundancy and confusion.
+Other IITB teams play an essential role and have their distinct section (see below)
 
 **Outputs** are the IT Strategy team's own activities and creation.
 Those outputs are expected to create the short term outcomes listed below, which will lead to the long term impacts sought.
@@ -76,12 +81,15 @@ Those outputs are expected to create the short term outcomes listed below, which
 As culture is defined by a set of behaviours, the short term outcomes sought by the ESDC IT Strategy is to create the environment needed to manifest them.
 More specifically, an environment that will enable:
 
-1) **Reduced IT project sizes**: Lines of business become more aware of the risks in using technology and so reduce their initiative sizes. Advance planning is shifting to iteration and adjusting course using empirical evidence from user feedback.
+1) **Reduced IT project sizes**: Lines of business become more aware of the risks in using technology and so reduce their initiative sizes.
+Advance planning is shifting to iteration and adjusting course using empirical evidence from user feedback.
 2) **Increased visibility of ongoing efforts**: Efforts by IT teams are exposed and more visible by all, promoting a general awareness of IT's complexity and amount of efforts needed to solve problems to stakeholders.
 3) **Increased surfacing of challenges**: Challenges between IT teams, especially relating to information flow, are surfaced to allocate time needed to be address them
 4) **Increased surfacing of successes**: Successes of IT teams within and outside of IITB are discovered, communicated and celebrated
-5) **Improved knowledge sharing**: Teams shift from requiring specialists to requiring [t-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills). Knowledge is easily discoverable and consumable
-6) **Increased user feedback**: Measurements are build within products and used to inform technical decisions. Quality starts getting validated by end users instead of proxies.
+5) **Improved knowledge sharing**: Teams shift from requiring specialists to requiring [t-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills).
+Knowledge is easily discoverable and consumable
+6) **Increased user feedback**: Measurements are build within products and used to inform technical decisions.
+Quality starts getting validated by end users instead of proxies.
 7) **Reduced toil**: Toil is addressed using automation and process re-engineering, allowing teams to focus on more meaningful work.
 
 ### Medium Term Outcomes
@@ -91,7 +99,8 @@ The above short term outcomes are expected to lead to the following medium term 
 <!--markdownlint-disable MD029 MD036-->
 **1) Business problem solving includes technology consideration**
 
-Lines of business start engaging more and more IT teams to help them _solve business problems_. This involves:
+Lines of business start engaging more and more IT teams to help them _solve business problems_.
+This involves:
 
 - Moving away from business requirements, and towards clarity of the problem statements instead
 - Engaging IT teams earlier in the process, fostering a collaboration of problem solving
@@ -100,7 +109,8 @@ Lines of business start engaging more and more IT teams to help them _solve busi
 
 **2) IITB becoming a generative type organization**
 
-An organization culture that is high-trust and emphasizes information flow between teams is necessary to achieve excellence. The [Westrum organization topology model](https://cloud.google.com/solutions/devops/devops-culture-westrum-organizational-culture), by Dr. Ron Westrum, will be used as a guide to move towards and measure the organizational culture as follows:
+An organization culture that is high-trust and emphasizes information flow between teams is necessary to achieve excellence.
+The [Westrum organization topology model](https://cloud.google.com/solutions/devops/devops-culture-westrum-organizational-culture), by Dr. Ron Westrum, will be used as a guide to move towards and measure the organizational culture as follows:
 
 - The cooperation level between teams
 - How the reception of bad news is treated
@@ -111,7 +121,8 @@ An organization culture that is high-trust and emphasizes information flow betwe
 
 **3) Reduced gap between the user and IT**
 
-Moving towards an empirical cycle of trying, observing, and correcting when managing IT initiatives will require involving the user throughout the exercise. This involves:
+Moving towards an empirical cycle of trying, observing, and correcting when managing IT initiatives will require involving the user throughout the exercise.
+This involves:
 
 - Increased focus on outcomes over advance planning activities
 - Increasing the frequency of deployment in production to receive feedback from end-users
