@@ -36,7 +36,7 @@ In addition, with the emergence of digital government that is reviewing business
 This [exposes the ubiquitous nature of technology in government service delivery](https://www.oag-bvg.gc.ca/internet/English/parl_oag_200611_03_e_14971.html) and that IT can no longer be seen as a back-office function, it has real repercussions to Canadians.
 IT can no longer be considered a back office function or a "company within a company" as it has real repercussions to Canadians.
 
-Government of Canada [historical records](https://www.oag-bvg.gc.ca/internet/English/parl_lp_e_933.html), such as with the [Phoenix Project](https://www.oag-bvg.gc.ca/internet/English/parl_oag_201805_01_e_43033.html) are evidence that the conventional method of doing IT is risky, costly, and lengthy.
+Government of Canada [historical records](https://www.oag-bvg.gc.ca/internet/English/parl_lp_e_933.html), such as with the [Phoenix Pay System Project](https://www.oag-bvg.gc.ca/internet/English/parl_oag_201805_01_e_43033.html) are evidence that the conventional method of doing IT is risky, costly, and lengthy.
 
 ESDC must change the relationship it has with IT to one that reduces its risk and enables business agility.
 To achieve this, a new method of doing IT is required.
