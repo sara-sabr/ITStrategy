@@ -125,9 +125,9 @@ Moving towards an empirical cycle of trying, observing, and correcting when mana
 This involves:
 
 - Increased focus on outcomes over advance planning activities
-- Increasing the frequency of deployment in production to receive feedback from end-users
-- Allowing IT teams to engage directly with end-users
-- Increased awareness of policy makers on the impacts of policies to end-users and IT systems
+- Increasing the frequency of deployment in production to receive feedback from end users
+- Allowing IT teams to engage directly with end users
+- Increased awareness of policy makers on the impacts of policies to end users and IT systems
 
 <!--markdownlint-enable MD029 MD036-->
 
@@ -139,7 +139,7 @@ The long term impacts of the IT Strategy is to create the following two conditio
 **1) Technology is a shared accountability between stakeholders**
 
 Lines of businesses _share the costs and risks_ of using technology with the IT branch.
-Before an IT-enabled initiative is launched, the business problem to solve with technology _is clear_, business experts _fully participate_ in the execution of the initiative in partnership with their technology colleagues, and _rapid feedback_ from end-users is not only promoted, it is _enabled_.
+Before an IT-enabled initiative is launched, the business problem to solve with technology _is clear_, business experts _fully participate_ in the execution of the initiative in partnership with their technology colleagues, and _rapid feedback_ from end users is not only promoted, it is _enabled_.
 
 The business vs IT paradigm is replaced with a team partnership paradigm.
 
