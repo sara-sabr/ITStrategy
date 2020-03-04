@@ -60,12 +60,12 @@ Achieving the above is mostly about cultural change as the ESDC IT Strategy look
 Hence the strategy will focus heavily on improving the culture within the organization.
 It will do so in an [iterative fashion](https://cloud.google.com/solutions/devops/devops-culture-transform), making course corrections as need be.
 
-Because strategy making fosters long term impacts which are difficult to measure directly, the following IT Strategy Logic Model helps visualize the causes and effects of output activities that are expected to directly affect short term outcomes and lead to long term impacts.
+Because strategy making fosters long-term impacts which are difficult to measure directly, the following IT Strategy Logic Model helps visualize the causes and effects of output activities that are expected to directly affect short term outcomes and lead to long-term impacts.
 
-![ESDC's IT Strategy Logic Model - showing the short, medium, and long term outcomes](assets/images/it-strategy-logic-model.png "IT Strategy Logic Model")
+![ESDC's IT Strategy Logic Model - showing the short, medium, and long-term outcomes](assets/images/it-strategy-logic-model.png "IT Strategy Logic Model")
 
 The above diagram positions ESDC's IT within its current state of transitioning to Digital Government at the same time as requiring to maintain its legacy systems until they are being replaced with modern ones.
-In addition, the [4 high level priorities of IITB](http://esdc.prv/en/iitb/corporate/Who_We_Are/Plans_and_Priorities/index.shtml) are listed to remind the focus of the organization.
+In addition, the [4 high-level priorities of IITB](http://esdc.prv/en/iitb/corporate/Who_We_Are/Plans_and_Priorities/index.shtml) are listed to remind the focus of the organization.
 
 ### Input and Outputs
 
@@ -74,11 +74,11 @@ Inputs  for other IITB teams is not displayed here as a means to reduce redundan
 Other IITB teams play an essential role and have their distinct section (see below)
 
 **Outputs** are the IT Strategy team's own activities and creation.
-Those outputs are expected to create the short term outcomes listed below, which will lead to the long term impacts sought.
+Those outputs are expected to create the short term outcomes listed below, which will lead to the long-term impacts sought.
 
 ### Short Term Outcomes
 
-As culture is defined by a set of behaviours, the short term outcomes sought by the ESDC IT Strategy is to create the environment needed to manifest them.
+As culture is defined by a set of behaviours, the short-term outcomes sought by the ESDC IT Strategy is to create the environment needed to manifest them.
 More specifically, an environment that will enable:
 
 1) **Reduced IT project sizes**: Lines of business become more aware of the risks in using technology and so reduce their initiative sizes.
@@ -105,7 +105,7 @@ This involves:
 - Moving away from business requirements, and towards clarity of the problem statements instead
 - Engaging IT teams earlier in the process, fostering a collaboration of problem solving
 - Experimenting more with proof of concepts or pilots before starting a project
-- Committing subject matter experts, including policy makers, during the project execution phase
+- Committing subject matter experts, including policy-makers, during the project execution phase
 
 **2) IITB becoming a generative type organization**
 
@@ -124,16 +124,16 @@ The [Westrum organization topology model](https://cloud.google.com/solutions/dev
 Moving towards an empirical cycle of trying, observing, and correcting when managing IT initiatives will require involving the user throughout the exercise.
 This involves:
 
-- Increased focus on outcomes over advance planning activities
+- Increased focus on outcomes over advanced planning activities
 - Increasing the frequency of deployment in production to receive feedback from end users
 - Allowing IT teams to engage directly with end users
-- Increased awareness of policy makers on the impacts of policies to end users and IT systems
+- Increased awareness of policy-makers on the impacts of policies to end users and IT systems
 
 <!--markdownlint-enable MD029 MD036-->
 
-### Long Term Outcomes (Impact)
+### Long-Term Outcomes (Impact)
 
-The long term impacts of the IT Strategy is to create the following two conditions:
+The long-term impacts of the IT Strategy are to create the following two conditions:
 
 <!--markdownlint-disable MD029 MD036-->
 **1) Technology is a shared accountability between stakeholders**
@@ -153,7 +153,7 @@ The business vs IT paradigm is replaced with a team partnership paradigm.
 
 ### Strategy Map
 
-The above outcomes will make use of this [Strategy Map diagram](strategy-summary.html) to guide technology teams towards the short, medium, and long term outcomes.
+The above outcomes will make use of this [Strategy Map diagram](strategy-summary.html) to guide technology teams towards the short, medium, and long-term outcomes.
 The strategy map accepts that individual teams may be at different maturity levels and so accepts that teams may have different starting points.
 The content in this Strategy map is guided by the [DevOps Research and Assessment (DORA)](https://cloud.google.com/devops) 21 capabilities.
 
@@ -161,7 +161,7 @@ Each block corresponding in the diagram represents a distinct strategy to move E
 
 ### IITB Teams
 
-Efforts and outcomes produced by [activities of all IT teams](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx) continue and all contribute towards the same long term impact.
+Efforts and outcomes produced by [activities of all IT teams](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx) continue and all contribute towards the same long-term impact.
 
 ## Expected Results
 
