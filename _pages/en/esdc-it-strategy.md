@@ -34,7 +34,6 @@ Some new government regulations cannot be implemented because ESDC IT systems ar
 
 In addition, with the emergence of digital government that is reviewing business processes, policy, and delivery, the demand on IT is expected to continue increasing exponentially.
 This [exposes the ubiquitous nature of technology in government service delivery](https://www.oag-bvg.gc.ca/internet/English/parl_oag_200611_03_e_14971.html) and that IT can no longer be seen as a back-office function, it has real repercussions to Canadians.
-IT can no longer be considered a back office function or a "company within a company" as it has real repercussions to Canadians.
 
 Government of Canada [historical records](https://www.oag-bvg.gc.ca/internet/English/parl_lp_e_933.html), such as with the [Phoenix Pay System Project](https://www.oag-bvg.gc.ca/internet/English/parl_oag_201805_01_e_43033.html) are evidence that the conventional method of doing IT is risky, costly, and lengthy.
 
@@ -83,7 +82,7 @@ More specifically, an environment that will enable:
 
 1) **Reduced IT project sizes**: Lines of business become more aware of the risks in using technology and so reduce their initiative sizes.
 Advance planning is shifting to iteration and adjusting course using empirical evidence from user feedback.
-2) **Increased visibility of ongoing efforts**: Efforts by IT teams are exposed and more visible by all, promoting a general awareness of IT's complexity and amount of efforts needed to solve problems to stakeholders.
+2) **Increased visibility of ongoing efforts**: Efforts by IT teams are exposed and more visible by all, promoting a general awareness of IT's complexity and amount of efforts needed to solve problems of stakeholders.
 3) **Increased surfacing of challenges**: Challenges between IT teams, especially relating to information flow, are surfaced to allocate time needed to be address them
 4) **Increased surfacing of successes**: Successes of IT teams within and outside of IITB are discovered, communicated and celebrated
 5) **Improved knowledge sharing**: Teams shift from requiring specialists to requiring [t-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills).
@@ -157,7 +156,7 @@ The above outcomes will make use of this [Strategy Map diagram](strategy-summary
 The strategy map accepts that individual teams may be at different maturity levels and so accepts that teams may have different starting points.
 The content in this Strategy map is guided by the [DevOps Research and Assessment (DORA)](https://cloud.google.com/devops) 21 capabilities.
 
-Each block corresponding in the diagram represents a distinct strategy to move ESDC towards its ultimate Digital Transformation goal: become a key stakeholder in the Canadian Government as a Platform.
+Each block in the diagram represents a distinct strategy to move ESDC towards its ultimate Digital Transformation goal: become a key stakeholder in the Canadian Government as a Platform.
 
 ### IITB Teams
 
