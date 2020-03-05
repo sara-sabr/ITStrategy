@@ -42,7 +42,7 @@ IITB teams should:
 
 #### Use up to 20% of the team's time to improve and learn
 
-**For all the following and other related activities, use CATS codes for continuous improvement (######).**
+**For all the following and other related activities, use CATS codes for continuous improvement (14644).**
 
 ##### Improve
 
@@ -62,6 +62,7 @@ IITB teams should:
 - Take online courses - [edX](https://www.edx.org/), [Cousera](https://www.coursera.org/), [Udemy](https://www.udemy.com/), or search on [MOOC List](https://www.mooc-list.com/)
 - Read books, articles or documentation - See our [References]({{ site.baseurl }}/references-en.html)
 - Attend events or conferences
+- Contact teams within the value stream of your team to better understand the processes you interface with
 - Request [Micro Missions](http://esdc.prv/en/service-canada/pob/pob_activities/2016/micromissions.shtml) with groups throughout ESDC or the Government of Canada at large on [GCconnex](https://gcconnex.gc.ca/missions/main)
 - Attend [IITB showcase](http://dialogue/grp/BU6386699/SitePages/IITB_Showcase.aspx), [Dev CoP](https://github.com/esdc-edsc/Welcome/blob/master/Recommendations/DevOps_SDLC.md), dojos or other learning opportunities within IITB and ESDC
 - Participate in "Innovation" at ESDC and [Innovation Lab](http://iservice.prv/eng/innovation_lab/index.shtml) design sessions
@@ -74,3 +75,15 @@ IITB teams should:
 - Start/attend meetups regarding technologies relevant to your work
 - Learn more methodologies - Many free audiobook samples can be found on [ITRevolution's SoundCloud](https://soundcloud.com/itrevolution/sets)
 - Reach out to your [Security Champion network](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/SLF%20Forum%20Documents/Security%20Champions%20SLF-EN.pptx) to learn about security
+
+### Outcomes
+
+- Reduction of technical debt
+- Increased innovation
+- Faster response to needs of citizens
+- Faster response to operational issues (e.g.: new vulnerabilities)
+- Reduced frequency of incidents and errors
+- Increased ability to comply with regulations
+- Increased job satisfaction and retention (incl. student)
+- Culture resistant to potential disruptions via automation
+- Culture that benefits from automation opportunities
