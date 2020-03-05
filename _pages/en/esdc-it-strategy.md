@@ -106,7 +106,7 @@ This involves:
 - Experimenting more with proof of concepts or pilots before starting a project
 - Committing subject matter experts, including policy-makers, during the project execution phase
 
-**2) IITB becoming a generative type organization**
+**2) IITB is becoming a generative type organization**
 
 An organization culture that is high-trust and emphasizes information flow between teams is necessary to achieve excellence.
 The [Westrum organization topology model](https://cloud.google.com/solutions/devops/devops-culture-westrum-organizational-culture), by Dr. Ron Westrum, will be used as a guide to move towards and measure the organizational culture as follows:
