@@ -10,17 +10,39 @@ permalink: /lequipe.html
 
 ## {{ page.title }}
 
-<br>
-{% for member in site.data.members %}
+<section class = "team-container" >
 
-<br>
-<img src="{{member.picture_path}}" height="200" width="200" alt="photo de {{member.name}}">   
-#### {{member.name}}  
-{% if member.titre %}{{member.titre}}{% endif %}
-<br><a href="mailto:{{member.couriel}}">{{member.couriel}}</a>
-<br>{% if member.github %}<a href="https://github.com/{{member.github}}"> GitHub</a>{% endif %}{% if member.twitter %}<a href="https://twitter.com/{{member.twitter}}">, Twitter</a>{% endif %}{% if member.linkedin %}<a href="https://ca.linkedin.com/in/{{member.linkedin}}">, LinkedIn</a>{% endif %}
-<br>{% if member.interets %}Intérêts: {{member.interets}}{% endif %}
-<hr>
+{% for member in site.data.members %}
+<article class = "team-member">
+    <img src="{{member.picture_path}}" alt="photo of {{member.name}}">
+    <h3>{{member.name}}</h3>
+    {% if member.titre %}
+        <h4>{{member.titre}}</h4>
+    {% endif %}
+    <div class = "team-content">
+        <div>
+         <a class = "member-icon" href="mailto:{{member.couriel}}">
+              <i class="icon-envelop"></i>
+         </a>
+          {% if member.github %}
+              <a class = "member-icon" href="https://github.com/{{ member.github }}">
+              <i class="icon-github"></i>
+             </a>
+         {% endif %}
+            {% if member.twitter %}
+             <a class = "member-icon" href="https://twitter.com/{{ member.twitter }}">
+     <i class="icon-twitter"></i>
+             </a>
+         {% endif %}
+         {%if member.linkedin %}
+              <a class = "member-icon" href="https://ca.linkedin.com/in/{{ member.linkedin }}">
+              <i class="icon-linkedin"></i>
+              </a>
+         {% endif %}
+         </div>
+        <p> {% if member.interets %}Intérêts: {{member.interets}}{% endif %}</p>
+    </div>
+</article>
 {% endfor %}
 
-
+</section>

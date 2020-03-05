@@ -493,22 +493,22 @@ h3.heading {
 
 @-webkit-keyframes scale-up-center-icon {
   0% {
-    -webkit-transform: scale(1.0);
-            transform: scale(1.0);
+    -webkit-transform: scale(1);
+            transform: scale(1);
   }
   100% {
-    -webkit-transform: scale(1.1);
-            transform: scale(1.1);
+    -webkit-transform: scale(1.2);
+            transform: scale(1.2);
   }
 }
 @keyframes scale-up-center-icon {
   0% {
-    -webkit-transform: scale(1.0);
-            transform: scale(1.0);
+    -webkit-transform: scale(1);
+            transform: scale(1);
   }
   100% {
-    -webkit-transform: scale(1.1);
-            transform: scale(1.1);
+    -webkit-transform: scale(1.2);
+            transform: scale(1.2);
   }
 }
 
@@ -524,25 +524,32 @@ h3.heading {
   display: flex;
   flex-direction: column;
   width: 33%;
+  padding: 20px 0px;
 }
 
 .team-content{
   display: flex;
   flex-direction: column;
   padding: 0px 15px;
+  text-align: center;
 
 }
 
-.member-email {
+.member-icon {
   font-size: 1.3rem;
   text-decoration: none !important;
   color: #505962 !important ;
 }
-.member-email:hover{
-  -webkit-animation: scale-up-center-icon 0.4s ease-in-out both;
-	        animation: scale-up-center-icon 0.4s ease-in-out both;
-}
 
+.member-icon:hover{
+  background-color: #c3e9e3;
+}
+/*
+.member-email:hover{
+  -webkit-animation: scale-up-center-icon 0.4s both;
+	        animation: scale-up-center-icon 0.4s both;
+}
+*/
 .team-member h3 {
   text-align: center;
 }
@@ -555,6 +562,8 @@ h3.heading {
   margin-left: auto;
   margin-right: auto;
   border-radius: 100%;
+  width: 200px;
+  height: 200px;
 }
 
 
@@ -637,6 +646,9 @@ code {
 .icon-envelop:before {
   content: "\e945";
 }
+/*.icon-envelop:hover{
+    background-color: #189582;
+}*/
 .icon-twitter:before {
   content: "\ea96";
 }
