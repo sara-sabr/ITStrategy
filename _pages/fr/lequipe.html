@@ -7,8 +7,9 @@ status: posted
 sections: À propos de nous
 permalink: /lequipe.html
 ---
+<!--markdownlint-disable MD033-->
 
-## {{ page.title }}
+<h2>{{ page.title }}</h2>
 
 <section class = "team-container" >
 
@@ -21,21 +22,21 @@ permalink: /lequipe.html
     {% endif %}
     <div class = "team-content">
         <div>
-         <a class = "member-icon" href="mailto:{{member.couriel}}">
+         <a class = "member-icon" aria-label="{{member.couriel}}" href="mailto:{{member.couriel}}">
               <i class="icon-envelop"></i>
          </a>
           {% if member.github %}
-              <a class = "member-icon" href="https://github.com/{{ member.github }}">
+              <a class = "member-icon" aria-label="{{member.github}}" href="https://github.com/{{ member.github }}">
               <i class="icon-github"></i>
              </a>
          {% endif %}
             {% if member.twitter %}
-             <a class = "member-icon" href="https://twitter.com/{{ member.twitter }}">
+             <a class = "member-icon" aria-label="{{member.twitter}}" href="https://twitter.com/{{ member.twitter }}">
      <i class="icon-twitter"></i>
              </a>
          {% endif %}
          {%if member.linkedin %}
-              <a class = "member-icon" href="https://ca.linkedin.com/in/{{ member.linkedin }}">
+              <a class = "member-icon" aria-label="{{member.linkedin}}" href="https://ca.linkedin.com/in/{{ member.linkedin }}">
               <i class="icon-linkedin"></i>
               </a>
          {% endif %}
