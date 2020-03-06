@@ -51,8 +51,7 @@ IITB teams should:
 - Measure current processing times of units of work your team processes
 - Reduce amount of time it takes to complete work items
 - Review existing processes and governance structure which lengthen process times
-- Identify issues and raise them to your manager or as Grassroots initiatives or proofs of concept
- - CATS code for Grassroots (13671)
+- Identify issues and raise them to your manager or as Grassroots initiatives or proofs of concept (CATS code: 13671)
 - Automate repetitive manual tasks where possible, at the team and individual level
 - Reduction of technical debt
 
