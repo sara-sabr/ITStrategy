@@ -60,6 +60,7 @@ IITB teams should:
 - Teach yourself basic programming (e.g. .Net Core, Java, Python, JavaScript)
 - Experiment with cloud technologies - [Play with Docker](https://labs.play-with-docker.com/)
 - Take online courses - [edX](https://www.edx.org/), [Cousera](https://www.coursera.org/), [Udemy](https://www.udemy.com/), or search on [MOOC List](https://www.mooc-list.com/)
+- Study for certificates from certified Cloud Service Providers (Ex: [AWS](https://aws.amazon.com/certification/), [Azure](https://www.microsoft.com/en-us/learning/azure-exams.aspx))
 - Read books, articles or documentation - See our [References]({{ site.baseurl }}/references-en.html)
 - Attend events or conferences
 - Contact teams within the value stream of your team to better understand the processes you interface with
