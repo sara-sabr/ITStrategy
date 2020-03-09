@@ -42,8 +42,6 @@ IITB teams should:
 
 #### Use up to 20% of the team's time to improve and learn
 
-**For all the following and other related activities, use CATS codes for continuous improvement (14644).**
-
 ##### Improve
 
 - Understand teams performance levels and set realistic goals
@@ -54,6 +52,8 @@ IITB teams should:
 - Identify issues and raise them to your manager or as [Grassroots initiatives](http://dialogue/grp/IP/SitePages/Grassroots%20Innovation%20Practice.aspx) (CATS code: 13671) or proofs of concept
 - Automate repetitive manual tasks where possible, at the team and individual level
 - Reduce technical debt
+
+CATS code for improvements: 14644
 
 ##### Learn
 
@@ -77,6 +77,8 @@ IITB teams should:
 - Start/attend meetups regarding technologies relevant to your work
 - Learn more methodologies - Many free audiobook samples can be found on [ITRevolution's SoundCloud](https://soundcloud.com/itrevolution/sets)
 - Reach out to your [Security Champion network](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/SLF%20Forum%20Documents/Security%20Champions%20SLF-EN.pptx) to learn about security
+
+CATS code for learning: 330 (Task component)
 
 ### Outcomes
 
