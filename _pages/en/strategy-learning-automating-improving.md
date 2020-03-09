@@ -78,7 +78,7 @@ CATS code for improvements: 14644
 - Learn more methodologies - Many free audiobook samples can be found on [ITRevolution's SoundCloud](https://soundcloud.com/itrevolution/sets)
 - Reach out to your [Security Champion network](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/SLF%20Forum%20Documents/Security%20Champions%20SLF-EN.pptx) to learn about security
 
-CATS code for learning: 330 (Task component)
+CATS codes : Training (330 - Task component) or Career development (10600)
 
 ### Outcomes
 
