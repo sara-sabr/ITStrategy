@@ -51,9 +51,9 @@ IITB teams should:
 - Measure current processing times of units of work your team processes
 - Reduce amount of time it takes to complete work items
 - Review existing processes and governance structure which lengthen process times
-- Identify issues and raise them to your manager or as Grassroots initiatives or proofs of concept (CATS code: 13671)
+- Identify issues and raise them to your manager or as [Grassroots initiatives](http://dialogue/grp/IP/SitePages/Grassroots%20Innovation%20Practice.aspx) (CATS code: 13671) or proofs of concept
 - Automate repetitive manual tasks where possible, at the team and individual level
-- Reduction of technical debt
+- Reduce technical debt
 
 ##### Learn
 
@@ -61,7 +61,7 @@ IITB teams should:
 - Teach yourself basic programming (e.g. .Net Core, Java, Python, JavaScript)
 - Experiment with cloud technologies - [Play with Docker](https://labs.play-with-docker.com/)
 - Take online courses - [edX](https://www.edx.org/), [Cousera](https://www.coursera.org/), [Udemy](https://www.udemy.com/), or search on [MOOC List](https://www.mooc-list.com/)
-- Study for certificates from certified Cloud Service Providers (Ex: [AWS](https://aws.amazon.com/certification/), [Azure](https://www.microsoft.com/en-us/learning/azure-exams.aspx))
+- Study for certificates from certified Cloud Service Providers (e.g. [AWS](https://aws.amazon.com/certification/), [Azure](https://www.microsoft.com/en-us/learning/azure-exams.aspx))
 - Read books, articles or documentation - See our [References]({{ site.baseurl }}/references-en.html)
 - Attend events or conferences
 - Contact teams within the value stream of your team to better understand the processes you interface with
