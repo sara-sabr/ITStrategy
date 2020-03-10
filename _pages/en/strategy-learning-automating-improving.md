@@ -88,14 +88,15 @@ CATS codes :
 - IT Security training for IITB: 10608
 - Accessibility training and awareness: 13403
 - Official language training: 11500
-- General training: 14644 (the continuous improvement code can also be used for general training)
+- General training: task component code 330 or task component code 100 plus CATS code for continuous improvement: 14644
+- Task specific training: task component code 160
 
 
 ### Outcomes
 
 - Reduction of technical debt
 - Increased innovation
-- Faster response to needs of citizens
+- Faster response to needs of citizens 
 - Faster response to operational issues (e.g.: new vulnerabilities)
 - Reduced frequency of incidents and errors
 - Increased ability to comply with regulations
