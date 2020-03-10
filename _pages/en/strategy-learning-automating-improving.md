@@ -53,7 +53,11 @@ IITB teams should:
 - Automate repetitive manual tasks where possible, at the team and individual level
 - Reduce technical debt
 
-CATS code for improvements: 14644
+CATS codes: 
+- Continuous improvement: 14644
+- Grassroots innovation: 13671
+- IM Clean-up: 10165
+- Improving developer productivity: 13863
 
 ##### Learn
 
@@ -80,9 +84,12 @@ CATS code for improvements: 14644
 
 CATS codes :
 
-- Training: 330 (Task component)
 - Career development: 10600
-- IM Clean-up: 10165
+- IT Security training for IITB: 10608
+- Accessibility training and awareness: 13403
+- Official language training: 11500
+- General training: 14644 (the continuous improvement code can also be used for general training)
+
 
 ### Outcomes
 
