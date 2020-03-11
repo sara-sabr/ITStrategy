@@ -42,8 +42,6 @@ IITB teams should:
 
 #### Use up to 20% of the team's time to improve and learn
 
-**For all the following and other related activities, use CATS codes for continuous improvement (14644).**
-
 ##### Improve
 
 - Understand teams performance levels and set realistic goals
@@ -51,8 +49,16 @@ IITB teams should:
 - Measure current processing times of units of work your team processes
 - Reduce amount of time it takes to complete work items
 - Review existing processes and governance structure which lengthen process times
-- Identify issues and raise them to your manager or as Grassroots initiatives or proofs of concept
+- Identify issues and raise them to your manager or as [Grassroots initiatives](http://dialogue/grp/IP/SitePages/Grassroots%20Innovation%20Practice.aspx) (CATS code: 13671) or proofs of concept
 - Automate repetitive manual tasks where possible, at the team and individual level
+- Reduce technical debt
+
+CATS codes:
+
+- Continuous improvement: 14644
+- Grassroots innovation: 13671
+- IM Clean-up: 10165
+- Improving developer productivity: 13863
 
 ##### Learn
 
@@ -60,6 +66,7 @@ IITB teams should:
 - Teach yourself basic programming (e.g. .Net Core, Java, Python, JavaScript)
 - Experiment with cloud technologies - [Play with Docker](https://labs.play-with-docker.com/)
 - Take online courses - [edX](https://www.edx.org/), [Cousera](https://www.coursera.org/), [Udemy](https://www.udemy.com/), or search on [MOOC List](https://www.mooc-list.com/)
+- Study for certificates from certified Cloud Service Providers (e.g. [AWS](https://aws.amazon.com/certification/), [Azure](https://www.microsoft.com/en-us/learning/azure-exams.aspx))
 - Read books, articles or documentation - See our [References]({{ site.baseurl }}/references-en.html)
 - Attend events or conferences
 - Contact teams within the value stream of your team to better understand the processes you interface with
@@ -76,6 +83,15 @@ IITB teams should:
 - Learn more methodologies - Many free audiobook samples can be found on [ITRevolution's SoundCloud](https://soundcloud.com/itrevolution/sets)
 - Reach out to your [Security Champion network](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/SLF%20Forum%20Documents/Security%20Champions%20SLF-EN.pptx) to learn about security
 - Collaborate with [ESDC's Development Community (Dev CoP)](https://esdc-devcop.github.io/) on development recommendations and best practices within the department.
+
+CATS codes:
+
+- Career development: 10600
+- IT Security training for IITB: 10608
+- Accessibility training and awareness: 13403
+- Official language training: 11500
+- General training: task component code 330 or task component code 100 plus CATS code for continuous improvement: 14644
+- Task specific training: task component code 160
 
 ### Outcomes
 
