@@ -28,11 +28,14 @@ In addition, ESDC has started investing in a [Business Delivery Modernization](h
 
 ## Problem Statement
 
-As explained in [ESDC's Medium-Term Planning](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Briefings/MTP-Initiative-Mapping_2018.docx), ESDC operates a portfolio of approximately 500 applications, 101 of which are mission critical.
+Moving to digital is creating a world that is highly complex.
+More software solutions (applications) are required to deliver services to citizens and more interconnectivity between public and private organizations is necessary.
+This increasing complexity can be seen in [ESDC's Medium-Term Planning](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Briefings/MTP-Initiative-Mapping_2018.docx), ESDC operates a portfolio of approximately 500 applications, 101 of which are mission critical.
 These IT systems can no longer meet the needs of ESDC programs due to system aging and too much unaddressed technical debt.
 Some new government regulations cannot be implemented because ESDC IT systems are unable to respond to those changes.
 
 In addition, with the emergence of digital government that is reviewing business processes, policy, and delivery, the demand on IT is expected to continue increasing exponentially.
+ESDC's portfolio of applications will increase.
 This [exposes the ubiquitous nature of technology in government service delivery](https://www.oag-bvg.gc.ca/internet/English/parl_oag_200611_03_e_14971.html) and that IT can no longer be seen as a back-office function, it has real repercussions to Canadians.
 
 Government of Canada [historical records](https://www.oag-bvg.gc.ca/internet/English/parl_lp_e_933.html), such as with the [Phoenix Pay System Project](https://www.oag-bvg.gc.ca/internet/English/parl_oag_201805_01_e_43033.html) are evidence that the conventional method of doing IT is risky, costly, and lengthy.
