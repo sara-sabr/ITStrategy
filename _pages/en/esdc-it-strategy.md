@@ -87,13 +87,19 @@ More specifically, an environment that will enable:
 
 1) **Reduced IT project sizes**: Lines of business become more aware of the risks in using technology and so reduce their initiative sizes.
 Advance planning is shifting to iteration and adjusting course using empirical evidence from user feedback.
+
 2) **Increased visibility of ongoing efforts**: Efforts by IT teams are exposed and more visible by all, promoting a general awareness of IT's complexity and amount of efforts needed to solve problems of stakeholders.
+
 3) **Increased surfacing of challenges**: Challenges between IT teams, especially relating to information flow, are surfaced to allocate time needed to be address them
+
 4) **Increased surfacing of successes**: Successes of IT teams within and outside of IITB are discovered, communicated and celebrated
+
 5) **Improved knowledge sharing**: Teams shift from requiring specialists to requiring [t-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills).
 Knowledge is easily discoverable and consumable
+
 6) **Increased user feedback**: Measurements are built within products and used to inform technical decisions.
 Quality starts getting validated by end users instead of proxies.
+
 7) **Reduced toil**: Toil is addressed using automation and process re-engineering, allowing teams to focus on more meaningful work.
 
 ### Medium Term Outcomes
