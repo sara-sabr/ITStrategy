@@ -50,6 +50,9 @@
     },
     {
       "pattern": "https://canva.com"
+    },
+    {
+      "pattern": "https://meet.jit.si"
     }
   ]
 }

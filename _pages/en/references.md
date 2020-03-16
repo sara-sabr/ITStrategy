@@ -57,11 +57,11 @@ For further guidance on working in the open, please refer to the following blog 
 - [Zoom](https://zoom.us/)
 - [GoogleHangouts](https://hangouts.google.com/)
 - [Skype](https://www.skype.com/)
-- https://www.bluejeans.com
+- [Blue Jeans](https://www.bluejeans.com)
 
 #### Hangout Space
 
-[Hubs by Mozilla](https://hubs.mozilla.com/#/)
+- [Hubs by Mozilla](https://hubs.mozilla.com/#/)
 
 #### Instant Messaging
 
@@ -69,8 +69,8 @@ For further guidance on working in the open, please refer to the following blog 
 - [Riot (Matrix)](https://riot.im/app/) - Decentralized IM and can have E2E encrypted messages
 - [Slack](https://slack.com/): Can be used with work e-mail, though may require access to email to create account
 - [Rocket Chat](https://open.rocket.chat/)
-- https://hack.chat
-- https://gitter.im
+- [Hack Chat](https://hack.chat)
+- [Gitter](https://gitter.im)
 
 #### Productivity Tools
 
@@ -89,6 +89,8 @@ For further guidance on working in the open, please refer to the following blog 
 - Canva: Design infographics, cards ect
 - [Draw.io](https://app.diagrams.net/)
 - [adobeXD](https://www.adobe.com/ca/products/xd/details.html) High fidelity mock up tool with collaborative features
+- [Figma](https://www.figma.com/) An interface design application that runs in the browser
+- [Sketch](https://www.sketch.com/) creates, prototypes, collaborates and turns ideas into incredible products with the definitive platform for digital design.
 
 ## General
 

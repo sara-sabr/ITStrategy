@@ -293,7 +293,7 @@
     "audiobook",
     "Omar",
     "Nasr",
-    "handoffs", 
+    "handoffs",
     "handoff",
     "Napoleon",
     "Napoleonic",
@@ -316,7 +316,8 @@
     "remediating",
     "CCOE",
     "Ccampus",
-    "Banas"
+    "Banas",
+    "Figma"
   ],
   "flagWords": [],
   "import": ["./node_modules/cspell-dict-fr-fr/cspell-ext.json"],
