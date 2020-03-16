@@ -4,7 +4,7 @@ title: IT Picture - Long Term
 ref: it-picture-long-term
 lang: en
 status: posted
-sections: Strategies
+sections: Done Enough
 permalink: /it-picture-long-term.html
 ---
 
