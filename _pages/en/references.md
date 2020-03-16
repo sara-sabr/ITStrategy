@@ -61,7 +61,7 @@ For further guidance on working in the open, please refer to the following blog 
 
 #### Hangout Space
 
-[Hubs by Mozilla](https://hubs.mozilla.com/#/)
+- [Hubs by Mozilla](https://hubs.mozilla.com/#/)
 
 #### Instant Messaging
 
