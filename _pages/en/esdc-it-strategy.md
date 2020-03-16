@@ -28,14 +28,11 @@ In addition, ESDC has started investing in a [Business Delivery Modernization](h
 
 ## Problem Statement
 
-Moving to digital is creating a world that is highly complex.
-More software solutions (applications) are required to deliver services to citizens and more interconnectivity between public and private organizations is necessary.
-This increasing complexity can be seen in [ESDC's Medium-Term Planning](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Briefings/MTP-Initiative-Mapping_2018.docx), ESDC operates a portfolio of approximately 500 applications, 101 of which are mission critical.
+As explained in [ESDC's Medium-Term Planning](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Briefings/MTP-Initiative-Mapping_2018.docx), ESDC operates a portfolio of approximately 500 applications, 101 of which are mission critical.
 These IT systems can no longer meet the needs of ESDC programs due to system aging and too much unaddressed technical debt.
 Some new government regulations cannot be implemented because ESDC IT systems are unable to respond to those changes.
 
 In addition, with the emergence of digital government that is reviewing business processes, policy, and delivery, the demand on IT is expected to continue increasing exponentially.
-ESDC's portfolio of applications will increase.
 This [exposes the ubiquitous nature of technology in government service delivery](https://www.oag-bvg.gc.ca/internet/English/parl_oag_200611_03_e_14971.html) and that IT can no longer be seen as a back-office function, it has real repercussions to Canadians.
 
 Government of Canada [historical records](https://www.oag-bvg.gc.ca/internet/English/parl_lp_e_933.html), such as with the [Phoenix Pay System Project](https://www.oag-bvg.gc.ca/internet/English/parl_oag_201805_01_e_43033.html) are evidence that the conventional method of doing IT is risky, costly, and lengthy.
@@ -87,19 +84,13 @@ More specifically, an environment that will enable:
 
 1) **Reduced IT project sizes**: Lines of business become more aware of the risks in using technology and so reduce their initiative sizes.
 Advance planning is shifting to iteration and adjusting course using empirical evidence from user feedback.
-
 2) **Increased visibility of ongoing efforts**: Efforts by IT teams are exposed and more visible by all, promoting a general awareness of IT's complexity and amount of efforts needed to solve problems of stakeholders.
-
 3) **Increased surfacing of challenges**: Challenges between IT teams, especially relating to information flow, are surfaced to allocate time needed to be address them
-
 4) **Increased surfacing of successes**: Successes of IT teams within and outside of IITB are discovered, communicated and celebrated
-
 5) **Improved knowledge sharing**: Teams shift from requiring specialists to requiring [t-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills).
 Knowledge is easily discoverable and consumable
-
 6) **Increased user feedback**: Measurements are built within products and used to inform technical decisions.
 Quality starts getting validated by end users instead of proxies.
-
 7) **Reduced toil**: Toil is addressed using automation and process re-engineering, allowing teams to focus on more meaningful work.
 
 ### Medium Term Outcomes
