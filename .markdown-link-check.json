@@ -47,6 +47,9 @@
     },
     {
       "pattern": "https://esdc.sabacloud.com"
+    },
+    {
+      "pattern": "https://canva.com"
     }
   ]
 }
