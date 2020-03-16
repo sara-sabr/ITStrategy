@@ -86,7 +86,7 @@ For further guidance on working in the open, please refer to the following blog 
 
 #### Design Tools
 
-- [Canva](https://www.canva.com/): Design infographics, cards ect
+- Canva: Design infographics, cards ect
 - [Draw.io](https://app.diagrams.net/)
 - [adobeXD](https://www.adobe.com/ca/products/xd/details.html) High fidelity mock up tool with collaborative features
 
