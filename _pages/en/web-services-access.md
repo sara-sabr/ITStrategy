@@ -38,7 +38,7 @@ The rationale for blocking them is primarily to prevent an accidental leak of pr
 A proposed mitigation item to reduce this risk is to augment the Data Loss Prevention (DLP) capability with a tool that enforces classification of documents and emails.
 However, implementation is not being considered for the short term.
 
-A upgrade of the firewall is underway and configuration for categories and sites blocked or unblocked will be documented and reviewed.
+A firewall upgrade is underway and configuration for categories and sites blocked or unblocked will be documented and reviewed.
 
 ### Recommendations
 
