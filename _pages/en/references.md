@@ -40,7 +40,7 @@ Some of that content may only be available on GC/ESDC network so if the link doe
 
 ## Tools
 
-These tools are all publically available, meaning information should be transitory and no protected information should be sent or discussed. They are intended for informal collaboration and information sharing.
+These tools are all publicly available, meaning information should be transitory and no protected information should be sent or discussed. They are intended for informal collaboration and information sharing.
 
 For further guidance on working in the open, please refer to the following blog on [Working in the Open](https://sara-sabr.github.io/ITStrategy/2019/11/19/working-in-the-open-part-1.html).
 
@@ -59,9 +59,9 @@ For further guidance on working in the open, please refer to the following blog 
 - [Skype](https://www.skype.com/)
 - https://www.bluejeans.com
 
-## Hangout Space
+#### Hangout Space
 
-[Hubs by Mozilla ](https://hubs.mozilla.com/#/)
+[Hubs by Mozilla](https://hubs.mozilla.com/#/)
 
 #### Instant Messaging
 
@@ -81,7 +81,8 @@ For further guidance on working in the open, please refer to the following blog 
 #### Development
 
 - [GitHub](https://github.com/)
-- [GitLab](https://about.gitlab.com/) -[ VS Code Live Share ](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare): Visual Studio Live Share enables you to collaboratively edit and debug with others in real time,
+- [GitLab](https://about.gitlab.com/)
+- [VS Code Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare): Visual Studio Live Share enables you to collaboratively edit and debug with others in real time,
 
 #### Design Tools
 
@@ -165,7 +166,7 @@ Many IT Revolution books have audio samples of the opening chapters available on
 
 ## Learning Resources
 
-- [AWS Certifications](https://aws.amazon.com/certification/): A host of AWS Ceritifications including Solutions Architecture, SysOps Administrator, DevOps Engineer, Machine Learning Speciality, Big Data, and more. Lots of online material available to study including [AWS Tutorial Series](https://www.youtube.com/channel/UClLLJjpSWRRa1BosQrNVDjA) and their own documentation such as the [AWS Well-Architected Framework](https://aws.amazon.com/architecture/well-architected/)
+- [AWS Certifications](https://aws.amazon.com/certification/): A host of AWS Certifications including Solutions Architecture, SysOps Administrator, DevOps Engineer, Machine Learning Speciality, Big Data, and more. Lots of online material available to study including [AWS Tutorial Series](https://www.youtube.com/channel/UClLLJjpSWRRa1BosQrNVDjA) and their own documentation such as the [AWS Well-Architected Framework](https://aws.amazon.com/architecture/well-architected/)
 - [Azure Certifications](https://www.microsoft.com/en-us/learning/azure-exams.aspx): Offers a list of certifications and associated online training to prepare. For example, courses on [Developing Solutions for Microsoft Azure](https://docs.microsoft.com/fr-fr/learn/certifications/exams/az-204?wt.mc_id=learningredirect_certs-web-wwl) which is followed by a "Ways to prepare" section with content available to study.
 - [MOOC](https://www.mooc.org/): Massive Open Online Courses (MOOCs) are free online courses available for anyone to enroll. MOOCs provide an affordable and flexible way to learn new skills, advance your career and deliver quality educational experiences at scale.
 - [Coursera](https://www.coursera.org/): Develop your skills with online courses, certificates and diplomas offered by the best universities and companies in the world
