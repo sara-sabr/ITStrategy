@@ -69,8 +69,8 @@ For further guidance on working in the open, please refer to the following blog 
 - [Riot (Matrix)](https://riot.im/app/) - Decentralized IM and can have E2E encrypted messages
 - [Slack](https://slack.com/): Can be used with work e-mail, though may require access to email to create account
 - [Rocket Chat](https://open.rocket.chat/)
-- https://hack.chat
-- https://gitter.im
+- [Hack Chat](https://hack.chat)
+- [Gitter](https://gitter.im)
 
 #### Productivity Tools
 
