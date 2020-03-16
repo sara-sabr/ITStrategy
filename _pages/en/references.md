@@ -57,7 +57,7 @@ For further guidance on working in the open, please refer to the following blog 
 - [Zoom](https://zoom.us/)
 - [GoogleHangouts](https://hangouts.google.com/)
 - [Skype](https://www.skype.com/)
-- https://www.bluejeans.com
+- [Blue Jeans](https://www.bluejeans.com)
 
 #### Hangout Space
 
