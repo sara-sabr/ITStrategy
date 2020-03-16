@@ -297,7 +297,11 @@
     "Jordi",
     "Atd's",
     "nonfinancial",
-    "Ccampus"
+    "Ccampus",
+    "Whats",
+    "whiteboarding",
+    "Canva",
+    "infographics"
   ],
   "flagWords": [],
   "import": ["./node_modules/cspell-dict-fr-fr/cspell-ext.json"],
