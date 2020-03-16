@@ -89,6 +89,8 @@ For further guidance on working in the open, please refer to the following blog 
 - Canva: Design infographics, cards ect
 - [Draw.io](https://app.diagrams.net/)
 - [adobeXD](https://www.adobe.com/ca/products/xd/details.html) High fidelity mock up tool with collaborative features
+- [Figma](https://www.figma.com/) An interface design application that runs in the browser
+- [Sketch](https://www.sketch.com/) creates, prototypes, collaborates and turns ideas into incredible products with the definitive platform for digital design.
 
 ## General
 
