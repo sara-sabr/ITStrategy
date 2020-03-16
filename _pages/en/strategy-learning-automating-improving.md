@@ -35,6 +35,10 @@ For more books, reports and articles supporting this strategy, you can consult o
   - [Mandatory Procedures for Enterprise Architecture (EA) Assessment](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602)
   - [Mandatory Procedures on Application Programming Interfaces (API)](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604)
   - [Acceptable Network and Device Use](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32605)
+ - [Transformational aspects of HR Learning Priorities](http://iservice.prv/eng/college/learning_priorities_calendar.shtml)
+  - [Digital Mindset](http://iservice.prv/eng/college/docs/learning_priorities.pdf)
+  - [Digital technology](http://iservice.prv/eng/college/docs/learning_priorities.pdf)
+  - [Foundational skills: “Management/Leadership”](http://iservice.prv/eng/college/docs/learning_priorities.pdf)
 
 ### Actions
 
