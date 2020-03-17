@@ -93,7 +93,7 @@ For further guidance on working in the open, please refer to the following blog 
 
 #### Mindmap
 
-- [coggle](https://coggle.it)
+- [Coggle](https://coggle.it)
 - [Framindmap](https://framindmap.org)
 
 #### Project Management
