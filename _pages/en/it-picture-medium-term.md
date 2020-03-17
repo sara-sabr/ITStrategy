@@ -4,7 +4,7 @@ title: IT Picture - Medium Term
 ref: it-picture-medium-term
 lang: en
 status: posted
-sections: Ready For Use
+sections: Vision
 permalink: /it-picture-medium-term.html
 ---
 
