@@ -263,8 +263,6 @@ Many IT Revolution books have audio samples of the opening chapters available on
 - [Canada School of Public Service - Language maintenance tools](https://www.csps-efpc.gc.ca/lt/index-eng.aspx)
 - [Public Service Commission - Self-assessment tests](https://www.canada.ca/en/public-service-commission/services/second-language-testing-public-service/self-assessment-tests.html)
 
-### Technical Fundamentals
-
 #### Programming
 
 - [Derek Banas](https://www.youtube.com/channel/UCwRXb5dUK4cvsHbx-rGzSgw): Great fundamentals programming tutorials for many languages and tools including Java, PHP, Python, C++, Javascript, MySQL, and more!
