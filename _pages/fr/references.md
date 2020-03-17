@@ -126,7 +126,7 @@ Pour de plus amples informations sur le travail en mode ouvert, veuillez consult
 
 ## Général
 
-### Podcasts
+### Balados
 
 - [Software Engineering Daily](https://softwareengineeringdaily.com) (Anglais): Interviews quotidiennes sur des sujets techniques liés aux logiciels
 
