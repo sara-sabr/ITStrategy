@@ -48,49 +48,93 @@ For further guidance on working in the open, please refer to the following blog 
 
 #### Government of Canada Specific
 
-- [GcCollab](https://gccollab.ca/splash/)
-- [GCcollab Message](https://message.gccollab.ca/)
+- [GCcollab](https://gccollab.ca)
+- [GCmessage](https://message.gccollab.ca)
 
-#### Video Conferencing
+#### Videoconferencing
 
-- [Jitsi Meet](https://meet.jit.si)
-- [Zoom](https://zoom.us/)
-- [GoogleHangouts](https://hangouts.google.com/)
-- [Skype](https://www.skype.com/)
+- [Jitsi Meet](https://meet.jit.si) (no account needed)
+- [Zoom](https://zoom.us)
+- [Google Hangouts](https://hangouts.google.com)
+- [Skype](https://www.skype.com)
 - [Blue Jeans](https://www.bluejeans.com)
+
+#### Instant Messaging - Channel-based
+
+- [Slack](https://slack.com): Can be used with work e-mail, though may require access to email to create account
+- [Riot (Matrix)](https://riot.im/app/): Decentralized IM and can have E2E encrypted messages
+- [Rocket Chat](https://open.rocket.chat)
+- [hack.chat](https://hack.chat)
+- [Gitter](https://gitter.im): For developers and users of GitHub repositories
+- [Framateam](https://framateam.org)
+
+#### Instant Messaging - One-to-One (or Many)
+
+- [Signal](https://signal.org): Encrypted
+- [Jami](https://jami.net): Decentralized & Encrypted
+- [WhatsApp](https://www.whatsapp.com): Has videoconferencing
+
+#### Text Editor (real-time)
+
+- [Framapad](https://framapad.org) (no account needed)
+- [CryptPad](https://cryptpad.fr): For text, presentation, spreadsheet, etc. - encrypted (account optional)
+- [HackMD](https://hackmd.io): Markdown (account optional)
+
+#### Task Management (Kanban)
+
+- [Trello](https://trello.com)
+- [Framaboard](https://framaboard.org)
+
+#### Whiteboard
+
+- [Web Whiteboard](https://www.webwhiteboard.com) (no account needed)
+- [Miro Board](https://miro.com)
+- [Framamemo](https://framemo.org): Post-it notes
+
+#### Mindmap
+
+- [Coggle](https://coggle.it)
+- [Framindmap](https://framindmap.org)
+
+#### Project Management
+
+- [Asana](https://asana.com)
+- [Taiga](https://taiga.io)
+
+#### Ad-hoc Document Sharing (no account needed)
+
+- [Framadrop](https://framadrop.org): Large files
+- [Framabin](https://framabin.org): Text
+- [Framapic](https://framapic.org): Image
+- [Framalink](https://frama.link): Url shortener
+
+#### Survey
+
+- [Framadate](https://framadate.org): Vote for a date of something else
+- [Framavox](https://framavox.org)
+
+#### Forms
+
+- [Framaforms](https://framaforms.org)
 
 #### Hangout Space
 
-- [Hubs by Mozilla](https://hubs.mozilla.com/#/)
-
-#### Instant Messaging
-
-- [WhatsApp](https://www.whatsapp.com/) (Also has Video Conferencing capabilities)
-- [Riot (Matrix)](https://riot.im/app/) - Decentralized IM and can have E2E encrypted messages
-- [Slack](https://slack.com/): Can be used with work e-mail, though may require access to email to create account
-- [Rocket Chat](https://open.rocket.chat/)
-- [Hack Chat](https://hack.chat)
-- [Gitter](https://gitter.im)
-
-#### Productivity Tools
-
-- [Framapad](https://framapad.org/): Allows multiple people to make real-time modifications to documents
-- [Miro Board](https://miro.com/): Real time virtual whiteboarding
-- [Trello](https://trello.com/): Kanban board for coordinating work activities
+- [Hubs by Mozilla](https://hubs.mozilla.com/#/) (no account needed)
 
 #### Development
 
-- [GitHub](https://github.com/)
-- [GitLab](https://about.gitlab.com/)
-- [VS Code Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare): Visual Studio Live Share enables you to collaboratively edit and debug with others in real time,
+- [GitHub](https://github.com)
+- [GitLab](https://about.gitlab.com)
+- [Framagit](https://framagit.org)
+- [VS Code Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare): Visual Studio Live Share enables you to collaboratively edit and debug with others in real time
 
 #### Design Tools
 
-- Canva: Design infographics, cards ect
-- [Draw.io](https://app.diagrams.net/)
-- [adobeXD](https://www.adobe.com/ca/products/xd/details.html) High fidelity mock up tool with collaborative features
-- [Figma](https://www.figma.com/) An interface design application that runs in the browser
-- [Sketch](https://www.sketch.com/) creates, prototypes, collaborates and turns ideas into incredible products with the definitive platform for digital design.
+- [Draw.io](https://app.diagrams.net) (no account needed)
+- [Canva](https://www.canva.com): Design infographics, cards etc
+- [XD](https://www.adobe.com/ca/products/xd/details.html) High fidelity mock up tool with collaborative features
+- [Figma](https://www.figma.com) An interface design application that runs in the browser
+- [Sketch](https://www.sketch.com) creates, prototypes, collaborates and turns ideas into incredible products with the definitive platform for digital design.
 
 ## General
 
@@ -169,7 +213,7 @@ Many IT Revolution books have audio samples of the opening chapters available on
 
 ## Learning Resources
 
-- [AWS Certifications](https://aws.amazon.com/certification/): A host of AWS Certifications including Solutions Architecture, SysOps Administrator, DevOps Engineer, Machine Learning Speciality, Big Data, and more. Lots of online material available to study including [AWS Tutorial Series](https://www.youtube.com/channel/UClLLJjpSWRRa1BosQrNVDjA) and their own documentation such as the [AWS Well-Architected Framework](https://aws.amazon.com/architecture/well-architected/)
+- [AWS Certifications](https://aws.amazon.com/certification/): A host of AWS Certifications including Solutions Architecture, SysOps Administrator, DevOps Engineer, Machine Learning Speciality, Big Data, and more. Lots of online material available to study including [AWS Tutorial Series](https://www.youtube.com/channel/UClLLJjpSWRRa1BosQrNVDjA) and their own documentation such as the [AWS Well-Architected Framework](https://aws.amazon.com/architecture/well-architected/). The most popular certification is the [Associate Solutions Architecture Certification](https://aws.amazon.com/certification/certified-solutions-architect-associate/) and a free online course for it can be found [here](https://www.youtube.com/watch?v=Ia-UEYYR44s&list=WL&index=28&t=615s).
 - [Azure Certifications](https://www.microsoft.com/en-us/learning/azure-exams.aspx): Offers a list of certifications and associated online training to prepare. For example, courses on [Developing Solutions for Microsoft Azure](https://docs.microsoft.com/fr-fr/learn/certifications/exams/az-204?wt.mc_id=learningredirect_certs-web-wwl) which is followed by a "Ways to prepare" section with content available to study.
 - [MOOC](https://www.mooc.org/): Massive Open Online Courses (MOOCs) are free online courses available for anyone to enroll. MOOCs provide an affordable and flexible way to learn new skills, advance your career and deliver quality educational experiences at scale.
 - [Coursera](https://www.coursera.org/): Develop your skills with online courses, certificates and diplomas offered by the best universities and companies in the world
