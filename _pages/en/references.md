@@ -87,8 +87,6 @@ For further guidance on working in the open, please refer to the following blog 
 
 #### Whiteboard
 
-<<<<<<< HEAD
-
 - [Web Whiteboard](https://www.webwhiteboard.com) (no account needed)
 - [Miro Board](https://miro.com)
 - [Framamemo](https://framemo.org): Post-it notes
@@ -121,8 +119,6 @@ For further guidance on working in the open, please refer to the following blog 
 
 #### Hangout Space
 
-=======
-
 - [Web Whiteboard](https://www.webwhiteboard.com) (no account needed)
 - [Miro Board](https://miro.com)
 - [Framamemo](https://framemo.org): Post-it notes
@@ -154,8 +150,6 @@ For further guidance on working in the open, please refer to the following blog 
 - [Framaforms](https://framaforms.org)
 
 #### Hangout Space
-
-> > > > > > > f3671ae847f58d2fc6645a2d6428b61c065612b8
 
 - [Hubs by Mozilla](https://hubs.mozilla.com/#/) (no account needed)
 
