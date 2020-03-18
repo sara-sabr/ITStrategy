@@ -19,7 +19,9 @@ The GC Digital Academy and Free Agents, as well as other groups, frequently use 
 
 In order to improve ESDC's ability to leverage current Web tools, a more open access to Web tools or Software as a Service (SaaS) for IITB employees, as a step toward broader open access to the Internet for more ESDC employees.
 
-As IITB employees generally don't deal with protected information and are well informed and trained on the management of information, the risk would be minimal.
+IITB employees produce the software and tools needed by ESDC Staff to perform their duties.
+IITB employees work description do not require them to process client files like ESDC front staff do.
+Producing the software and tools require important amount of collaboration between teams in order to remain responsive to client's need.
 In addition, the benefits should bring great value such as enhancing collaboration and efficiency, increasing job satisfaction and helping attract and retain IT talent.
 It would also avoid having to use workarounds or alternative sites.
 
@@ -27,8 +29,12 @@ The following Web tools can already be accessed on the ESDC network and are bein
 
 ### Background
 
-The upcoming [Policy on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603) replaces the [Policy on Acceptable Network and Device Use (PANDU)](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=27122) but keeps the intent to "provide open access to Internet tools and services to support public servants in their work duties, enhance collaboration and networking with their peers".
-See the [Examples of Acceptable Network and Device Use](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32605).
+The Government of Canada is recognizing that Security must be handled with user experience in mind, and that Government employees require the right tools to do their work otherwise the Government is at risk at falling behind citizen expectations.
+This is highlighted in the 2018 [Direction on Enabling Web Access to Web Services: Policy Implementation Notice](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32588) that provides direction to departments on enabling access to web services, in accordance with the [Policy on Acceptable Network and Device Use (PANDU)](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=27122).
+The upcoming [Policy](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603) and [Directive on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601) replaces the PANDU but keeps the intent to "provide open access to Internet tools and services to support public servants in their work duties, enhance collaboration and networking with their peers".
+See the [Appendix C: Examples of Acceptable Network and Device Use](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32605).
+
+This is also supported by the [Values and ethics of the public service](https://www.canada.ca/en/government/publicservice/values.html) and [ESDC Code of conduct](https://www.canada.ca/en/employment-social-development/corporate/code-conduct.html) in particular [Section D) Stewardship on the use of Electronic Networks](https://www.canada.ca/en/employment-social-development/corporate/code-conduct.html#a3.4)
 
 ### Current Status
 
