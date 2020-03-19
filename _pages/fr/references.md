@@ -21,10 +21,20 @@ N'hésitez pas à nous envoyer des propositions de livres, articles, vidéos ou 
 
 ## Spécifique à EDSC et au GC
 
-- [Plans ministériels de EDSC](https://www.canada.ca/fr/emploi-developpement-social/ministere/rapports/plan-ministeriel.html)
+- [Cadre stratégique d'EDSC](http://esdc.prv/fr/ministere/pai/index.shtml)
+- [Stratégie de transformation de service d'ESDC](http://esdc.prv/fr/ministere/service-strategique/index.shtml)
+- [Changements récents au mandat d'EDSC](http://esdc.prv/fr/ministere/changements_lmdes.shtml)
+- [Plans ministériels d'EDSC](https://www.canada.ca/fr/emploi-developpement-social/ministere/rapports/plan-ministeriel.html)
+- [Directive sur l'utilisation du réseau d'EDSC](http://iservice.prv/fra/si/securite/outils_et_ressources/trousse_outils/edsc_directive_utilisation_reseau.shtml)
+- [Outil de classification de l'information d'EDSC](http://iservice.prv/fra/si/securite/classification/outil_classification.shtml)
+- [Guide d'utilisation des médias sociaux à l'intention des employés d'EDSC](http://esdc.prv/fr/restez_branche/medias_sociaux.shtml)
+- [Guide sur l'utilisation personnelle et officielle d'Internet d'EDSC](http://esdc.prv/fr/restez_branche/manuel.shtml)
+- [Demandes d’exception de sécurité TI d'EDSC](http://dialogue/grp/ITSecurity-SecuriteTI/Site/Exceptions.aspx)
 - [Orientation sur l’habilitation de l’accès aux services Web : Avis de mise en œuvre de la politique](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32588)
 - [Politique sur l'utilisation acceptable des dispositifs et des réseaux](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=27122)
 - [Directive sur la gestion des technologies de l'information](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=15249)
+- [Politique sur les services et le numérique du CT](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32603) ([GCCollab group](https://gccollab.ca/groups/profile/588431/endigital-numu00e9riquefrdigital-numu00e9rique))
+- [Directive sur les services et le numérique du CT](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32601) ([GCCollab group](https://gccollab.ca/groups/profile/588431/endigital-numu00e9riquefrdigital-numu00e9rique))
 - [Directive sur la gestion de la sécurité du CT](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32611)
 
 ## Outils
