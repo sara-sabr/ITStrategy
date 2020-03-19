@@ -25,7 +25,7 @@ Producing the software and tools require important amount of collaboration betwe
 In addition, the benefits should bring great value such as enhancing collaboration and efficiency, increasing job satisfaction and helping attract and retain IT talent.
 It would also avoid having to use workarounds or alternative sites.
 
-The following Web tools can already be accessed on the ESDC network and are being used by employees (See [Appendix B](#appendix-b---web-tools-already-accessible)).
+[Appendix B](#appendix-b---web-tools-already-accessible) lists Web tools already accessible on the ESDC network and are being used by employees.
 
 ### Background
 
@@ -124,8 +124,8 @@ To support the adoption of the new [Policy on Service and Digital](https://www.t
 
 | Name        | URL           | Notes  |
 | ----------- |:-------------:| ------:|
-| Librem One Chat | https://chat.librem.one | Homeserver only, requires client |
-| Matrix.org | https://matrix.org | Homeserver only, requires client |
+| Librem One Chat | https://chat.librem.one | Homeserver only, requires client (riot.im) |
+| Matrix.org | https://matrix.org | Homeserver only, requires client (riot.im) |
 | Slack | https://slack.com | Websockets blocked |
 | Zulip | https://zulipchat.com |  |
 | ... |  |  |
