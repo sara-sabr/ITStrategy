@@ -4,7 +4,7 @@ title: ESDC IT Strategy
 ref: esdc-it-strategy
 lang: en
 status: posted
-sections: Ready For Use
+sections: Strategies
 permalink: /esdc-it-strategy.html
 ---
 

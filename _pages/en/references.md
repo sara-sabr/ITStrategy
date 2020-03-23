@@ -9,16 +9,16 @@ permalink: /references-en.html
 ---
 
 <!-- markdownlint-disable MD025-->
-
 # {{ page.title }}
-
 <!-- markdownlint-enable MD025 -->
 
 The following are reference materials for the IT Strategy team to use.
 
 These materials are meant to be sources of inspiration, guidance, or policies that we need to consider when crafting our strategies.
 
-Some of that content may only be available on GC/ESDC network so if the link doesn't work externally, we apologize for the inconvenience!
+Some of that content may only be available on GC/ESDC network so if the link doesn't work externally, we apologize for the inconvenience.
+
+Don't hesitate to send us proposals of books, articles, videos or even policies!
 
 ## ESDC and GoC Specifics
 
@@ -54,6 +54,7 @@ For further guidance on working in the open, please refer to the following blog 
 #### Videoconferencing
 
 - [Jitsi Meet](https://meet.jit.si) (no account needed)
+- [BigBlueButton](https://demo.bigbluebutton.org)
 - [Zoom](https://zoom.us)
 - [Google Hangouts](https://hangouts.google.com)
 - [Skype](https://www.skype.com)
@@ -262,8 +263,6 @@ Many IT Revolution books have audio samples of the opening chapters available on
 - [Speaker](https://www.spreaker.com/show/government-french-oral-training)
 - [Canada School of Public Service - Language maintenance tools](https://www.csps-efpc.gc.ca/lt/index-eng.aspx)
 - [Public Service Commission - Self-assessment tests](https://www.canada.ca/en/public-service-commission/services/second-language-testing-public-service/self-assessment-tests.html)
-
-### Technical Fundamentals
 
 #### Programming
 
