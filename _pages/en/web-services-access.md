@@ -14,22 +14,23 @@ permalink: /web-services-access.html
 
 Departments are leveraging Web tools or Software as a Service (SaaS) to collaborate and engage with citizens and public administrations both in Canada and across the globe.
 For example, the latest Open Government Plan and Service and Digital Target Architecture from TBS were shared as drafts for consultation and comments on Google Docs.
-Many teams are also using Slack or GCcollab Message to communicate internally and across departments.
+Many teams are also using Slack or GCmessage to communicate internally and across departments.
 The GC Digital Academy and Free Agents, as well as other groups, frequently use Google Forms for registration.
 
-In order to improve ESDC's ability to leverage current Web tools, a more open access to Web tools or Software as a Service (SaaS) for IITB employees, as a step toward broader open access to the Internet for more ESDC employees.
+In order to improve ESDC's ability to leverage current Web tools, a more open access to Web tools or Software as a Service (SaaS) for IITB employees is recommended, as a step toward broader open access to the Internet for more ESDC employees.
 
 IITB employees produce the software and tools needed by ESDC Staff to perform their duties.
-IITB employees work description do not require them to process client files like ESDC front staff do.
+IITB employees work description does not require them to process client files like ESDC front staff do.
 Producing the software and tools require important amount of collaboration between teams in order to remain responsive to client's need.
 In addition, the benefits should bring great value such as enhancing collaboration and efficiency, increasing job satisfaction and helping attract and retain IT talent.
 It would also avoid having to use workarounds or alternative sites.
 
-[Appendix B](#appendix-b---web-tools-already-accessible) lists Web tools already accessible on the ESDC network and are being used by employees.
+[Appendix B](#appendix-b---web-tools-already-accessible) lists Web tools already accessible on the ESDC network and used by employees.
 
 ### Background
 
-The Government of Canada is recognizing that Security must be handled with user experience in mind, and that Government employees require the right tools to do their work otherwise the Government is at risk at falling behind citizen expectations.
+The Government of Canada recognizes that Security must be handled with user experience in mind, and that public servants require the right tools to do their work.
+Otherwise the government is at risk of falling behind citizen's expectations.
 This is highlighted in the 2018 [Direction on Enabling Web Access to Web Services: Policy Implementation Notice](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32588) that provides direction to departments on enabling access to web services, in accordance with the [Policy on Acceptable Network and Device Use (PANDU)](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=27122).
 The upcoming [Policy](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603) and [Directive on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601) replaces the PANDU but keeps the intent to "provide open access to Internet tools and services to support public servants in their work duties, enhance collaboration and networking with their peers".
 See the [Appendix C: Examples of Acceptable Network and Device Use](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32605).
@@ -50,7 +51,7 @@ A firewall upgrade is underway and configuration for categories and sites blocke
 
 To support the adoption of the new [Policy on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603), ESDC needs to:
 
-- Grant access to the following Web site categories (or related categories) for IITB employees: Instant Messaging, Document Editing, Web Conferencing, Email and File Storage;
+- Grant access to the following Web site categories (or related categories) for IITB employees: Instant Messaging, Document Editing, Web Conferencing and Email and File Storage;
 - Ensure IITB employees' understanding of document classification and that Web tools available on the Internet are only to be used with unclassified data and information;
 - Perform an evaluation of security monitoring and classification tools to mitigate future risks associated with broader open access to the Internet; and
 - Review access rights to data and information.
@@ -95,12 +96,12 @@ To support the adoption of the new [Policy on Service and Digital](https://www.t
 
 | Name        | URL           | Notes  |
 | ----------- |:-------------:| ------:|
-| Google Mail | https://mail.google.com |  |
-| Outlook | https://outlook.live.com |  |
-| Yahoo Mail | https://mail.yahoo.com |  |
 | Fastmail | https://www.fastmail.com |  |
+| Google Mail | https://mail.google.com |  |
 | Mailbox.org | https://mailbox.org |  |
+| Outlook | https://outlook.live.com |  |
 | Posteo | https://posteo.de |  |
+| Yahoo Mail | https://mail.yahoo.com |  |
 | ... |  |  |
 
 ### File Storage
@@ -152,8 +153,8 @@ To support the adoption of the new [Policy on Service and Digital](https://www.t
 | ----------- |:-------------:| ------:|
 | Bitbucket | https://bitbucket.org |  |
 | Framagit | https://framagit.org |  |
-| Github | https://github.com | Websockets and SSH blocked |
-| Gitlab | https://gitlab.com |  |
+| GitHub | https://github.com | Websockets and SSH blocked |
+| GitLab | https://gitlab.com |  |
 | ... |  |  |
 
 ### Project Management and Kanban
@@ -161,8 +162,8 @@ To support the adoption of the new [Policy on Service and Digital](https://www.t
 | Name        | URL           | Notes  |
 | ----------- |:-------------:| ------:|
 | Smartsheets | https://www.smartsheet.com |  |
-| Trello | https://trello.com |  |
 | Taiga | https://taiga.io |  |
+| Trello | https://trello.com |  |
 | ZenHub | https://www.zenhub.com |  |
 | Zube | https://zube.io | Websockets blocked |
 | ... |  |  |
@@ -172,9 +173,9 @@ To support the adoption of the new [Policy on Service and Digital](https://www.t
 | Name        | URL           | Notes  |
 | ----------- |:-------------:| ------:|
 | Coursera | https://www.coursera.org |  |
-| Edx | https://www.edx.org |  |
 | Docker Classroom | https://training.play-with-docker.com |  |
 | Docker Playground | https://labs.play-with-docker.com | Websockets blocked |
+| Edx | https://www.edx.org |  |
 | Udacity | https://www.udacity.com/ |  |
 | Udemy | https://www.udemy.com/ |  |
 | ... |  |  |
