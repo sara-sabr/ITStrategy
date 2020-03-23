@@ -27,7 +27,9 @@ The goals are based on the GC IT Direction around [Digital government](https://w
 
 For more books, reports and articles supporting this strategy, you can consult our [References]({{ site.baseurl }}/references-en.html#q1-strategy---continuous-improvement-and-learning).
 
-#### Align with GC IT Direction
+#### Align
+
+##### GC IT Direction
 
 - [Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html)
 - [Digital Operations Strategic Plan: 2018-2022](https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html)
@@ -35,6 +37,9 @@ For more books, reports and articles supporting this strategy, you can consult o
   - [Mandatory Procedures for Enterprise Architecture (EA) Assessment](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602)
   - [Mandatory Procedures on Application Programming Interfaces (API)](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604)
   - [Acceptable Network and Device Use](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32605)
+
+##### ESDC Direction
+
 - [ESDC Learning Priorities](http://iservice.prv/eng/college/learning_priorities_calendar.shtml)
   - Digital Mindset
   - Digital technology
