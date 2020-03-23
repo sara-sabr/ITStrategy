@@ -17,7 +17,7 @@ permalink: /strategy-communications.html
 
 ## Purpose
 
-To elaborate iterative process of soliciting the knowledge, experience judgement and values of wide range of different shareholders
+To elaborate on the re-usable methods the IT Strategy team will have at its disposal in communicating effectively its strategies to various audiences
 
 ## Objectives
 
