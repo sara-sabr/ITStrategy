@@ -40,10 +40,8 @@ For more books, reports and articles supporting this strategy, you can consult o
 
 ##### ESDC Direction
 
-- [ESDC Learning Priorities](http://iservice.prv/eng/college/learning_priorities_calendar.shtml)
-  - Digital Mindset
-  - Digital technology
-  - Foundational skills: “Management/Leadership”
+- [ESDC IT Plan 2019-2022](http://dialogue/grp/BU5946064/Qualiware%20Working%20Groups%20WG/Repository%20Content%20Framework%20Working%20Group/IT%20Plan%202019-2021.pdf)
+- [IITB Way Forward](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx)
 
 ### Actions
 
