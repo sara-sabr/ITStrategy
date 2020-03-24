@@ -85,6 +85,7 @@ CATS codes:
 - Find/become a mentor/coach
 - Join groups and participate in discussions on [GCconnex](https://gcconnex.gc.ca/) and [GCcollab](https://gccollab.ca/), as well as external communities
 - Take part in Service Canada staff training
+- Review [ESDC Learning Priorities and Calendars](http://iservice.prv/eng/college/learning_priorities_calendar.shtml) for Digital Mindset and Management/Leadership
 - Register for training/events [offered by ESDC](https://esdc.sabacloud.com/) and through [GCcampus](https://idp.csps-efpc.gc.ca/)
 - Start/attend meetups regarding technologies relevant to your work
 - Learn more methodologies - Many free audiobook samples can be found on [ITRevolution's SoundCloud](https://soundcloud.com/itrevolution/sets)
