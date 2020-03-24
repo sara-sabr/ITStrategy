@@ -38,7 +38,19 @@
       </ul>
 
       <!-- Language picker -->
-      <ul class="navbar-nav float-right">      
+      <ul class="navbar-nav float-right"> 
+
+        {%- assign posts=site.posts | where:"ref", page.ref | sort: 'lang' -%}
+        {%- for my_post in posts -%}
+          {% if my_post.lang != page.lang %}
+            <li class="nav-item lang-select-container" >
+                <button href="{{ my_post.url | prepend: site.baseurl }}" class= "lang-select" onclick="selectLanguage(this)">
+                  {{ site.language[my_post.lang] }}
+                </button>
+            </li>
+          {%- endif -%}
+        {%- endfor -%}
+     
         {%- assign pages=site.pages | where:"ref", page.ref | sort: 'lang' -%}
         {%- for my_page in pages -%}
           {% if my_page.lang != page.lang %}
