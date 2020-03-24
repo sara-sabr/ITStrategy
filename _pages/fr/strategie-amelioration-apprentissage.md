@@ -4,7 +4,7 @@ title: Stratégie Q1 2020 - Amélioration et apprentissage continus
 ref: strategy-q1-2020
 lang: fr
 status: posted
-sections: Prêt à utiliser
+sections: Stratégies trimestrielles
 permalink: /strategie-amelioration-apprentissage.html
 ---
 
