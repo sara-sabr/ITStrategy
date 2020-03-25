@@ -111,34 +111,44 @@ The following [IITB committees](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/D
 Governance Committees follow an approach of "item type" which are either to inform, to consult, or to approve (http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/default.aspx).
 
 #### Workforce Management Committee
+
 The WMC advises and supports the ADM on integrated HR management strategies and provides oversight on staffing and HR planning matters. To that end, it considers regional and national directions, policies and directives, available resources, and expressed needs before making recommendations on decisions regarding regional issues and files. The WMC also discusses matters of common interest to management and the unions.
 
 #### DG Committee
-The IITB DG committee oversees the implementation and execution of the branch’s vision to deliver efficient, reliable and secure services and solutions for clients. The committee also provides oversight, advice and guidance on the effective management of the IITB portfolio, programs and projects.
+
+The IITB DG committee oversees the implementation and execution of the branch's vision to deliver efficient, reliable and secure services and solutions for clients. The committee also provides oversight, advice and guidance on the effective management of the IITB portfolio, programs and projects.
 
 #### Cloud Implementation Project Steering Committee (CIPSC)
+
 The CIPSC is an oversight committee created to guide the project team and project lifecycle of ESDC cloud implementation by reviewing project status and providing the first line of governance for prioritization, direction, resources, risk/issue management and change management to ensure the Cloud Implementation Plan (CIP) is progressing as planned.
 
 #### Project Portfolio Review Committee (PPRC)
-The responsibility of providing governance, oversight, advice, and guidance on the effective management of the IITB portfolio, programs and projects.  Furthermore, PPRC is mandated to make decisions with respect to the branch’s internal standards, policies and processes for investment planning, as well as act as the steering committee for the work being undertaken to establish a mature and robust Project Management function within IITB. 
+
+The responsibility of providing governance, oversight, advice, and guidance on the effective management of the IITB portfolio, programs and projects.  Furthermore, PPRC is mandated to make decisions with respect to the branch's internal standards, policies and processes for investment planning, as well as act as the steering committee for the work being undertaken to establish a mature and robust Project Management function within IITB.
 
 #### Change Advisory Board (CAB)
+
 A sub-committee to the Operations and Change-Management Committee (OCMC), is madated with the responsibility to analyze upcoming changes and release schedules for potential impacts that require additional oversight or intervention.
 
 #### Architecture Review Committee (ARC)
+
 Ensures that departmental planning directives and priorities are aligned to GOC and HRSDC Enterprise Architecture.
 
 #### Project Portfolio Operations Committee (PPOC)
+
 The PPOC, a sub-committee to the Project Portfolio Review Committee (PPRC), is mandated with the responsibility to support the PPRC in their role of providing governance, oversight, advice and guidance on the effective management of the IITB portfolio, programs and projects by ensuring they are resourced with the appropriate skills and technology.
 
 #### Technical Debt Advisory Committee (TDAC)
+
 Mandated with the responsibility of providing advice and guidance to the ESDC Chief Information Officer (CIO) on aging Information Technology challenges as it relates to people, process, and technology.
 
 #### National Union Management Committee (NUMCC)
+
 Purpose : Provide a forum for meaningful and timely consultation between employer and bargaining agent representatives
 on strategic direction and issues of region-wide importance.
 
 #### Enterprise Architecture Review Board (EARB)
+
 information to be filled.
 
 Engagement with the above committees need to follow [specific process guidelines](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Governance%20-%20Supporting%20Documents/IITB%20Integrated%20Forward%20Agenda.docx).
@@ -160,12 +170,12 @@ Contact Person : Branch Operation - Communications and Change Management Team
 
 3- IITB Showcase
 Colleagues from the Branch can demonstrate theirs services and the technology of their solutions.
-Contact Person : BSI 
-Language : English 
-Upcoming Showcase : Continuous Learning - April 24th 
+Contact Person : BSI
+Language : English
+Upcoming Showcase : Continuous Learning - April 24th
 
 4- ESDC Development Community (IITB Dev CoP)
-A discussion group which initiates and promotes development standards within the IITB development community by hosting monthly Development Community of Practice (Dev CoP) sessions, where members can meet, exchange ideas, collaborate and grow towards a common vision. 
+A discussion group which initiates and promotes development standards within the IITB development community by hosting monthly Development Community of Practice (Dev CoP) sessions, where members can meet, exchange ideas, collaborate and grow towards a common vision.
 Useful links : GcPedia (http://www.gcpedia.gc.ca/wiki/ESDC_Development_Community), GCConnex (Dev CoP GCconnex group: ESDC - Development Community Dev CoP)
 
 ### Subject Matter Experts (SMEs) Teams
@@ -225,7 +235,7 @@ Posted Weekly by emails on Wednesdays
 
 3- IITB Compass
 Newsletter prepared by IITB and sent to PMB memebers to share within their Branch or Region so that employees have the latest information about IM/IT services, service improvements and new initiatives that are on the horizon.
-Requires to submit 4-6 weeks before posting dates. 
+Requires to submit 4-6 weeks before posting dates.
 Audience : ESDC Employees
 Compass is published in January, April, July and October
 
@@ -239,18 +249,20 @@ Meet every two weeks. Requires 3-5 days prior to meeting for material
 2- Youth Mandate for Greater Involvement (YMAGIN)
 Their mandate consiste on four pillars : to simplify integration, to influence positively, and to encourage involvement and networking.
 YMAGIN SharePoint Site (http://dialogue/ymagin/default.aspx?lcid=1033)
-Coordinator’s list(http://dialogue/ymagin/Coordinators%20List/Forms/AllItems.aspx)
+Coordinator's list(http://dialogue/ymagin/Coordinators%20List/Forms/AllItems.aspx)
 Generic Box(ymagin-imajin@hrsdc-rhdcc.gc.ca)
 Activities includes :
-- YMAGIN Student Series 
-- Take me with you (https://gcconnex.gc.ca/groups/about/20448602): Take Me With You is a movement that encourages all interested employees to ask their managers and peers to attend meetings that relate to their interests, career development goals, and to the files they are working on. 
-- Crowd-sourced improvements : Encouraging self-learning through reflection and performance assessment to help students maximize their experiences to grow both professionally and personally. 
+
+- YMAGIN Student Series
+- Take me with you (https://gcconnex.gc.ca/groups/about/20448602): Take Me With You is a movement that encourages all interested employees to ask their managers and peers to attend meetings that relate to their interests, career development goals, and to the files they are working on.
+- Crowd-sourced improvements : Encouraging self-learning through reflection and performance assessment to help students maximize their experiences to grow both professionally and personally.
 
 3- Administrative Professional Network (APN)
 The APN is a community of practice open to all employees to share information and best practices as well as recognizing the significant contribution of its members and supports their career development by facilitating access to opportunities within the Branch and organizing a series of events and presentations to strengthen their knowledge and skills.
 Activities include Brainstorming sessions :
-a) Creating a culture of learning for administrative professionals
-b) Creating opportunities and mobility
+
+- Creating a culture of learning for administrative professionals
+- Creating opportunities and mobility
 
 ### Blogs
 
