@@ -128,7 +128,7 @@ The responsibility of providing governance, oversight, advice, and guidance on t
 
 #### Change Advisory Board (CAB)
 
-A sub-committee to the Operations and Change-Management Committee (OCMC), is madated with the responsibility to analyze upcoming changes and release schedules for potential impacts that require additional oversight or intervention.
+A sub-committee to the Operations and Change-Management Committee (OCMC), is mandated with the responsibility to analyse upcoming changes and release schedules for potential impacts that require additional oversight or intervention.
 
 #### Architecture Review Committee (ARC)
 
@@ -157,7 +157,7 @@ Engagement with the above committees need to follow [specific process guidelines
 
 The following IITB forums may be used as part of communication efforts:
 
-1-  [Senior Leadership Forum](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Governance%20-%20Supporting%20Documents/IITB%20Integrated%20Forward%20Agenda.docx)
+1- [Senior Leadership Forum](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Governance%20-%20Supporting%20Documents/IITB%20Integrated%20Forward%20Agenda.docx)
 
 Part of IITB official governance. Meeting for CIO, Executive directors, Director Generals and Directors to share information - entire leadership can discuss the business of the branch.
 Timeline : 1 week prior to meeting
@@ -165,7 +165,7 @@ Contact Person : Branch Operations - Communications and Change Management Team
 Language : English and French Both required
 
 2- Management and Team Lead Committee (MTLC)
-Community that supports IITB Managers and aspriring Managers.Requires to checks frequence of meetings
+Community that supports IITB Managers and aspiring Managers.Requires to checks frequency of meetings
 Contact Person : Branch Operation - Communications and Change Management Team
 
 3- IITB Showcase
@@ -176,7 +176,7 @@ Upcoming Showcase : Continuous Learning - April 24th
 
 4- ESDC Development Community (IITB Dev CoP)
 A discussion group which initiates and promotes development standards within the IITB development community by hosting monthly Development Community of Practice (Dev CoP) sessions, where members can meet, exchange ideas, collaborate and grow towards a common vision.
-Useful links : GcPedia (http://www.gcpedia.gc.ca/wiki/ESDC_Development_Community), GCConnex (Dev CoP GCconnex group: ESDC - Development Community Dev CoP)
+Useful links : GCpedia (http://www.gcpedia.gc.ca/wiki/ESDC_Development_Community), GCconnex (Dev CoP GCconnex group: ESDC - Development Community Dev CoP)
 
 ### Subject Matter Experts (SMEs) Teams
 
@@ -228,13 +228,13 @@ Newsletter accessible to IITB employees. IITB News is posted weekly, on Mondays.
 Requires to be submitted 6 workings days before publishing date
 
 2- Intersection
-Intersection is the national departmental newsletter that provides employyes with news and information that is relevant to their duties, work environment and careers
+Intersection is the national departmental newsletter that provides employees with news and information that is relevant to their duties, work environment and careers
 Requires to be submitted two weeks prior to publishing date. Articles must be accompanied by email approvals from the responsible director or director general. We will need to inform if there is an image included.
 Audience : ESDC Employees
 Posted Weekly by emails on Wednesdays
 
 3- IITB Compass
-Newsletter prepared by IITB and sent to PMB memebers to share within their Branch or Region so that employees have the latest information about IM/IT services, service improvements and new initiatives that are on the horizon.
+Newsletter prepared by IITB and sent to PMB members to share within their Branch or Region so that employees have the latest information about IM/IT services, service improvements and new initiatives that are on the horizon.
 Requires to submit 4-6 weeks before posting dates.
 Audience : ESDC Employees
 Compass is published in January, April, July and October
@@ -242,7 +242,7 @@ Compass is published in January, April, July and October
 ### Professional Networks
 
 1- Change Agents Networks (CAN meeting)
-Change agents are responsible for ensuring that the impact of any change within the branch is understood and proactively dealt with from a people and organizational perpective. They share information with their management.
+Change agents are responsible for ensuring that the impact of any change within the branch is understood and proactively dealt with from a people and organizational perspective. They share information with their management.
 Audience : Change agents
 Meet every two weeks. Requires 3-5 days prior to meeting for material
 
@@ -296,5 +296,5 @@ KPIs should be closely related to objectives but can also be used to support res
 - Number of endorsements received
 - Number of forum events the team presented at
 - Number of attendance at those forum events
-- Number of comments received as part of tgthe feedback loop
+- Number of comments received as part of the feedback loop
 - Number of Twitter retweets from CIO/IITB stakeholders
