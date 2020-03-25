@@ -248,13 +248,13 @@ Meet every two weeks. Requires 3-5 days prior to meeting for material
 
 2- Youth Mandate for Greater Involvement (YMAGIN)
 Their mandate consiste on four pillars : to simplify integration, to influence positively, and to encourage involvement and networking.
-YMAGIN SharePoint Site (http://dialogue/ymagin/default.aspx?lcid=1033)
-Coordinator's list(http://dialogue/ymagin/Coordinators%20List/Forms/AllItems.aspx)
-Generic Box(ymagin-imajin@hrsdc-rhdcc.gc.ca)
+[SharePoint Site](http://dialogue/ymagin/default.aspx?lcid=1033)
+[Coordinator's list](http://dialogue/ymagin/Coordinators%20List/Forms/AllItems.aspx)
+[Generic Box](mailto:ymagin-imajin@hrsdc-rhdcc.gc.ca)
 Activities includes :
 
 - YMAGIN Student Series
-- Take me with you (https://gcconnex.gc.ca/groups/about/20448602): Take Me With You is a movement that encourages all interested employees to ask their managers and peers to attend meetings that relate to their interests, career development goals, and to the files they are working on.
+- [Take me with you](https://gcconnex.gc.ca/groups/about/20448602): movement that encourages all interested employees to ask their managers and peers to attend meetings that relate to their interests, career development goals, and to the files they are working on.
 - Crowd-sourced improvements : Encouraging self-learning through reflection and performance assessment to help students maximize their experiences to grow both professionally and personally.
 
 3- Administrative Professional Network (APN)
@@ -277,7 +277,7 @@ Activities include Brainstorming sessions :
 - [ESDC CIO](https://twitter.com/PWLittlefield) Twitter
 - [SABR DGO](https://twitter.com/SkinnerDenis) Twitter
 - [ESDC Innovation Lab](https://twitter.com/ESDCInnoLab_ENG) Twitter
-- ESDC Innovation Network (https://gccollab.ca/groups/profile/2851590/enesdc-innovation-networkfr)
+- [ESDC Innovation Network](https://gccollab.ca/groups/profile/2851590/enesdc-innovation-networkfr)
 Innovation Network is a consultative body that provides a forum to share, discuss, develop and advance innovative projects and initiatives within the department. The Network seeks to share information on ongoing innovative projects and identify opportunities for advancing innovation within the department.
 
 ### Custom Metrics
