@@ -8,8 +8,8 @@ sections: Strategies
 permalink: /strategy-alternate-model.html
 ---
 <!-- markdownlint-disable MD033 -->
-<!-- the below cSpell statement says to ignore any text between HTML tags. E.g. ignore <table> -->
-<!-- cSpell:ignoreRegExp /^\<.+\>$/ -->
+<!-- the below cSpell statement says to ignore any text between HTML tags. E.g. it will ignore "th rowspan='2'" in this string: <th rowspan='2'> -->
+<!-- cSpell:ignoreRegExp /\<[^\>]+\>/ -->
 ## {{ page.title }} <!-- omit in toc -->
 
 ***DRAFT***
