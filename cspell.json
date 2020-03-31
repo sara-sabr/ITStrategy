@@ -342,8 +342,12 @@
     "EPMO",
     "team's",
     "BRM",
+    "BRM's",
     "STOM",
-    "SDLC"
+    "SDLC",
+    "OCMC",
+    "citizen's",
+    "it's"
   ],
   "flagWords": [],
   "import": ["./node_modules/cspell-dict-fr-fr/cspell-ext.json"],

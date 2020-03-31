@@ -9,7 +9,7 @@ permalink: /strategy-alternate-model.html
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- the below cSpell statement says to ignore any text between HTML tags. E.g. ignore <table> -->
-<!-- cSpell: ignoreRegExp /^<.+>$/ -->
+<!-- cSpell:ignoreRegExp /^<.+>$/ -->
 ## {{ page.title }} <!-- omit in toc -->
 
 ***DRAFT***
