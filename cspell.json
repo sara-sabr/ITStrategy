@@ -336,7 +336,14 @@
     "Framavox",
     "Framaforms",
     "Framemo",
-    "Micromissions"
+    "Micromissions",
+    "showback",
+    "DGPOC",
+    "EPMO",
+    "team's",
+    "BRM",
+    "STOM",
+    "SDLC"
   ],
   "flagWords": [],
   "import": ["./node_modules/cspell-dict-fr-fr/cspell-ext.json"],

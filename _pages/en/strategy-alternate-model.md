@@ -8,6 +8,8 @@ sections: Strategies
 permalink: /strategy-alternate-model.html
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- the below cSpell statement says to ignore any text between HTML tags. E.g. ignore <table> -->
+<!-- cSpell: ignoreRegExp /^<.+>$/ -->
 ## {{ page.title }} <!-- omit in toc -->
 
 ***DRAFT***
@@ -25,14 +27,14 @@ The **business case** for this strategy is provided in [Appendix A](#appendix-a-
 <!-- markdownlint-disable MD001 -->
 ##### Table of Content <!-- omit in toc -->
 <!-- markdownlint-enable MD001 -->
-- [Guidine Policy](#guidine-policy)
+- [Guiding Policy](#guiding-policy)
 - [Coherent set of actions](#coherent-set-of-actions)
 - [Measuring the Strategy's success](#measuring-the-strategys-success)
 - [Appendix A - Business Case (Diagnostic)](#appendix-a---business-case-diagnostic)
 - [Appendix B - Traceability Matrix](#appendix-b---traceability-matrix)
 - [Appendix C - References](#appendix-c---references)
 
-## Guidine Policy
+## Guiding Policy
 
 The following policy reflects the decision adopted by the **CIO of ESDC** when using this Alternative Solution Delivery Model.
 Each policy statement is a declaration of that decision and received the endorsement of its associated area of governance body (endorsements not yet obtained, see section coherent set of actions).
@@ -46,7 +48,7 @@ Each policy statement is a declaration of that decision and received the endorse
     - Security test results
     - API consumption statistics
 3. Security Assessment & Authority (SA&A) uses the _XXXAlternate-SA&AXXX methodology_
-4. Accessibility Assessment uses the _XXXAlternate-AccessibiltyXXX methodology_
+4. Accessibility Assessment uses the _XXXAlternate-AccessibilityXXX methodology_
 5. Audit Assessment uses the _XXXAlternate-AuditXXX methodology_
 6. IT Projects do not use business requirements documents
 7. IT Projects start only when the following is true:
@@ -244,7 +246,7 @@ The metrics are defined as follows:
     </td>
     <td>
     <i>Manually</i><br>
-    Using Release Team’s stats per change request
+    Using Release team’s statistics per change request
     </td>
 </tr>
 <tr>
@@ -278,7 +280,7 @@ The metrics are defined as follows:
     </td>
     <td>
     <i>Automatic</i><br>
-    Using the Service Desk’s incident tracking tool – time incident submitted to time incident closed
+    Using the Service Desk incident tracking tool – time incident submitted to time incident closed
     </td>
 </tr>
 <tr>
