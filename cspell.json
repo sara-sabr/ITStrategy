@@ -340,14 +340,11 @@
     "showback",
     "DGPOC",
     "EPMO",
-    "team's",
     "BRM",
     "BRM's",
     "STOM",
     "SDLC",
-    "OCMC",
-    "citizen's",
-    "it's"
+    "OCMC"
   ],
   "flagWords": [],
   "import": ["./node_modules/cspell-dict-fr-fr/cspell-ext.json"],

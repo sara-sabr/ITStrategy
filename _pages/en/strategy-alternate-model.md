@@ -47,7 +47,7 @@ Each policy statement is a declaration of that decision and received the endorse
     - General Quality test results
     - Security test results
     - API consumption statistics
-3. Security Assessment & Authority (SA&A) uses the _XXXAlternate-SA&AXXX methodology_
+3. Security Assessment & Authority (SA&A) uses the _XXXAlternate-SA&AXXX methodology_<!-- cSpell:disable-line -->
 4. Accessibility Assessment uses the _XXXAlternate-AccessibilityXXX methodology_
 5. Audit Assessment uses the _XXXAlternate-AuditXXX methodology_
 6. IT Projects do not use business requirements documents
@@ -242,18 +242,18 @@ The metrics are defined as follows:
     <td>1. Lead time</td>
     <td>
     <i>Automatic</i><br>
-    Using Product team’s own pipeline metrics
+    Using Product team's own pipeline metrics
     </td>
     <td>
     <i>Manually</i><br>
-    Using Release team’s statistics per change request
+    Using Release team's statistics per change request
     </td>
 </tr>
 <tr>
     <td>2. Deployment frequency</td>
     <td>
     <i>Automatic</i><br>
-    Using the Product team’s continuous delivery pipelines
+    Using the Product team's continuous delivery pipelines
     </td>
     <td>
     <i>Manually</i><br>
@@ -269,14 +269,14 @@ The metrics are defined as follows:
     </td>
     <td>
     <i>Manually</i><br>
-    Using the Release Process team’s change debrief log
+    Using the Release Process team's change debrief log
     </td>
 </tr>
 <tr>
     <td>4. Time to restore service</td>
     <td>
     <i>Automatic</i><br>
-    Using the Product team’s incident tracking tool – time incident submitted to time incident closed
+    Using the Product team's incident tracking tool – time incident submitted to time incident closed
     </td>
     <td>
     <i>Automatic</i><br>
@@ -287,11 +287,11 @@ The metrics are defined as follows:
     <td>5. Client satisfaction</td>
     <td>
     _Manually</i><br>
-    BRM’s client survey
+    BRM's client survey
     </td>
     <td>
     Manually</i><br>
-    BRM’s client survey
+    BRM's client survey
     </td>
 </tr>
 </table>
@@ -301,7 +301,7 @@ The metrics are defined as follows:
 ## Appendix A - Business Case (Diagnostic)
 
 As explain in our [ESDC IT Strategy overview](esdc-it-strategy.html), the digital world is highly complex and uncertain.
-The Policy on service and digital, reflecting citizen’s expectations requires ESDC to review services delivered to clients periodically.
+The Policy on service and digital, reflecting citizen's expectations requires ESDC to review services delivered to clients periodically.
 With the ubiquitous nature of technology, any changes to ESDC services will require implicating IT teams.
 
 The use of technology is costly and risky.
@@ -309,7 +309,7 @@ The conventional methods of delivering IT solutions seeks to reduce those costs 
 This may work when the future is predictable, but not when it is complex and uncertain.
 
 This complexity and uncertainty warrants organizations to move towards a more empirical cycle of trying, observing, and correcting.
-It is not just the execution phase of a project that needs to be reviewed, it’s the relationship ESDC has with the use of technology and the interactions between IT teams that needs to be looked into.
+It is not just the execution phase of a project that needs to be reviewed, it's the relationship ESDC has with the use of technology and the interactions between IT teams that needs to be looked into.
 
 Making such drastic changes to a large organization is naturally difficult given the criticality of ESDC services and the amount of teams involved.
 The strategy herein is meant to offer an alternate solution delivery model that can work in parallel with the existing one, as a means to build confidence in its success through empirical evidence.
