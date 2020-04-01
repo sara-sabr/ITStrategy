@@ -12,37 +12,17 @@ permalink: /strategy-learning-automating-improving.html
 
 The following actions apply for the 1st quarter of the 2020-2021 fiscal year (April 2020 to June 2020).
 
-Strategies and actions will be reviewed and updated quarterly based on effectiveness and current progress towards the [Medium Term IT Picture - 2025](https://sara-sabr.github.io/ITStrategy/it-picture-medium-term.html) as well as following the [Strategy Map](https://sara-sabr.github.io/ITStrategy/strategy-summary.html) (layering on the strategies).
-
-- [Goals](#goals)
 - [Actions](#actions)
-
-### Goals
-
-The goals are based on the GC IT Direction around [Digital government](https://www.canada.ca/en/government/system/digital-government.html) as well as the [DevOps Research and Assessment (DORA) - How to Transform](https://cloud.google.com/solutions/devops/devops-culture-transform) and the book explaining the findings of the State of DevOps Reports ([2019 PDF](https://services.google.com/fh/files/misc/state-of-devops-2019.pdf)), [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://books.google.ca/books?id=Kax-DwAAQBAJ&lpg=PP1&dq=Accelerate&hl=fr&pg=PP1#v=snippet&q=20%25&f=false).
-
-- Reduce lead time for changes and delivery of services/devices
-- Reduce frequency of incidents and errors
-- Recover faster from incidents and errors
-
-For more books, reports and articles supporting this strategy, you can consult our [References]({{ site.baseurl }}/references-en.html#q1-strategy---continuous-improvement-and-learning).
-
-#### Align with GC IT Direction
-
-- [Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html)
-- [Digital Operations Strategic Plan: 2018-2022](https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html)
-- [Policy](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603) and [Directive on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601)
-  - [Mandatory Procedures for Enterprise Architecture (EA) Assessment](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602)
-  - [Mandatory Procedures on Application Programming Interfaces (API)](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604)
-  - [Acceptable Network and Device Use](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32605)
+- [Goals](#goals)
+- [Outcomes](#outcomes)
+- [Performance Measurement](#measurement)
+- [Notes](#notes)
 
 ### Actions
 
-IITB teams should:
+IITB teams should **use up to 20% of the team's time to improve and learn**
 
-#### Use up to 20% of the team's time to improve and learn
-
-##### Improve
+#### Examples of 'Improve' activities
 
 - Understand teams performance levels and set realistic goals
 - Identify ways to improve daily work performance and prioritize
@@ -53,14 +33,7 @@ IITB teams should:
 - Automate repetitive manual tasks where possible, at the team and individual level
 - Reduce technical debt
 
-CATS codes:
-
-- Continuous improvement: 14644
-- Grassroots innovation: 13671
-- IM Clean-up: 10165
-- Improving developer productivity: 13863
-
-##### Learn
+#### Examples of 'Learn' activities
 
 - Stay up to date on trends and technologies inside and outside the GC
 - Teach yourself basic programming (e.g. .Net Core, Java, Python, JavaScript)
@@ -84,14 +57,11 @@ CATS codes:
 - Reach out to your [Security Champion network](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/SLF%20Forum%20Documents/Security%20Champions%20SLF-EN.pptx) to learn about security
 - Collaborate with [ESDC's Development Community (Dev CoP)](https://esdc-devcop.github.io/) on development recommendations and best practices within the department.
 
-CATS codes:
+### Goals
 
-- Career development: 10600
-- IT Security training for IITB: 10608
-- Accessibility training and awareness: 13403
-- Official language training: 11500
-- General training: task component code 330 or task component code 100 plus CATS code for continuous improvement: 14644
-- Task specific training: task component code 160
+- Reduce lead time for changes and delivery of services/devices
+- Reduce frequency of incidents and errors
+- Recover faster from incidents and errors
 
 ### Outcomes
 
@@ -104,3 +74,43 @@ CATS codes:
 - Increased job satisfaction and retention (incl. student)
 - Culture resistant to potential disruptions via automation
 - Culture that benefits from automation opportunities
+
+### Measurement
+
+IITB teams are asked to report on the Q1 strategy as they implement it in the following ways:
+
+- IITB employees can ensure that time that they spend on continuous improvement or learning activities is recorded in CATS using any of the following:
+
+  - CATS codes for Continuous Improvement activities:
+    - **Continuous improvement:** 14644
+    - **Grassroots innovation:** 13671
+    - **IM Clean-up:** 10165
+    - **Improving developer productivity:** 13863
+  
+  - CATS codes for Learning activities:
+    - **Career development:** 10600
+    - **IT Security training for IITB:** 10608
+    - **Accessibility training and awareness:** 13403
+    - **Official language training:** 11500
+    - **General training:** task component code 330 or task component code 100
+    - **Task specific training:** task component code 160
+  
+AND/OR
+
+- IITB employees/teams can share success/failure stories with the IT Strategy team and this anecdotal evidence will be recorded and shared.  
+
+The results of employee/team reporting will be shared via a [Report](http://dialogue/grp/BU6810070/Shared%20Documents/cont%20improvement%20and%20learning%20-%20April%201st%202019%20to%20Feb%2029%202020_report.xlsx) (link is internal to ESDC).
+
+This strategy will be reviewed and updated quarterly based on effectiveness and current progress towards the [Medium Term IT Picture - 2025](https://sara-sabr.github.io/ITStrategy/it-picture-medium-term.html) as well as following the [Strategy Map](https://sara-sabr.github.io/ITStrategy/strategy-summary.html) (layering on the strategies).
+
+### Notes
+
+- For more books, reports and articles supporting this strategy, you can consult our [References]({{ site.baseurl }}/references-en.html#q1-strategy---continuous-improvement-and-learning).
+- This strategy is aligned with:
+  - [Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html)
+  - [Digital Operations Strategic Plan: 2018-2022](https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html)
+  - [Policy](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603) and [Directive on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601)
+  - [Mandatory Procedures for Enterprise Architecture (EA) Assessment](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602)
+  - [Mandatory Procedures on Application Programming Interfaces (API)](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604)
+  - [Acceptable Network and Device Use](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32605)
+- The goals are based on the GC IT Direction around [Digital government](https://www.canada.ca/en/government/system/digital-government.html) as well as the [DevOps Research and Assessment (DORA) - How to Transform](https://cloud.google.com/solutions/devops/devops-culture-transform) and the book explaining the findings of the State of DevOps Reports ([2019 PDF](https://services.google.com/fh/files/misc/state-of-devops-2019.pdf)), [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://books.google.ca/books?id=Kax-DwAAQBAJ&lpg=PP1&dq=Accelerate&hl=fr&pg=PP1#v=snippet&q=20%25&f=false).
