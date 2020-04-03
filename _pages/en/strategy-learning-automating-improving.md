@@ -22,7 +22,7 @@ The following actions apply for the 1st quarter of the 2020-2021 fiscal year (Ap
 
 ## Alignment with ESDC IT Strategy
 
-This Q1 Strategy aligns with the [ESDC IT Strategy approach](esdc-it-strategy.html) and provides the means to enable the following 2 [Strategy Map](strategy-summary.html) capabilities:
+This Strategy aligns with the [ESDC IT Strategy approach](esdc-it-strategy.html) and provides the means to enable the following 2 [Strategy Map](strategy-summary.html) capabilities:
 
 1. Learning Culture
 2. Continuous Improvement
@@ -69,27 +69,27 @@ Please note that \#4 and \#5 are not necessarily to operationalize this strategy
 
 ## Measuring this strategy
 
-IITB teams are asked to report on the Q1 strategy as they implement it in the two following ways:
+IITB teams are asked to report on the strategy as they implement it in the two following ways:
 
-- IITB employees can ensure that time that they spend on continuous improvement or learning activities is recorded in CATS using any of the following:
+**IITB employees can ensure that time that they spend on continuous improvement or learning activities is recorded in CATS** using any of the following:
 
-  - CATS codes for Continuous Improvement activities:
-    - **Continuous improvement:** 14644
-    - **Grassroots innovation:** 13671
-    - **IM Clean-up:** 10165
-    - **Improving developer productivity:** 13863
-  
-  - CATS codes for Learning activities:
-    - **Career development:** 10600
-    - **IT Security training for IITB:** 10608
-    - **Accessibility training and awareness:** 13403
-    - **Official language training:** 11500
-    - **General training:** task component code 330 or task component code 100
-    - **Task specific training:** task component code 160
+- CATS codes for Continuous Improvement activities:
+  - **Continuous improvement:** 14644
+  - **Grassroots innovation:** 13671
+  - **IM Clean-up:** 10165
+  - **Improving developer productivity:** 13863
+
+- CATS codes for Learning activities:
+  - **Career development:** 10600
+  - **IT Security training for IITB:** 10608
+  - **Accessibility training and awareness:** 13403
+  - **Official language training:** 11500
+  - **General training:** task component code 330 or task component code 100
+  - **Task specific training:** task component code 160
   
 AND/OR
 
-- IITB employees/teams can share success/failure stories with the IT Strategy team and this anecdotal evidence will be recorded and shared.
+**IITB employees/teams can share success/failure stories with the IT Strategy team** and this anecdotal evidence will be recorded and shared.
 
 The results of employee/team reporting will be shared via a [Report](http://dialogue/grp/BU6810070/Shared%20Documents/cont%20improvement%20and%20learning%20-%20April%201st%202019%20to%20Feb%2029%202020_report.xlsx) (link is internal to ESDC).
 
