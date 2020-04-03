@@ -31,16 +31,6 @@ This Strategy aligns with the [ESDC IT Strategy approach](esdc-it-strategy.html)
 
 IITB teams should **use up to 20% of the team's time to improve and learn**
 
-<!--
-Remy: suggest removing this because those are ultimate goals of the ESDC IT Strategy as a whole
-Those goals are the ultimate impact we want to create but it won't be obtained by a single Quarterly strategy
-## Goals
-
-- Reduce lead time for changes and delivery of services/devices
-- Reduce frequency of incidents and errors
-- Recover faster from incidents and errors
--->
-
 ## Expected Outcomes
 
 The expected outcomes of this quarterly strategy are:
