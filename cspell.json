@@ -297,7 +297,7 @@
     "handoff",
     "Napoleon",
     "Napoleonic",
-    "OCMS",
+    "OCMC",
     "Borodino",
     "Shevardino",
     "themself",
@@ -336,7 +336,9 @@
     "Framavox",
     "Framaforms",
     "Framemo",
-    "Micromissions"
+    "Micromissions",
+    "YMAGIN",
+    "IMAJIN"
   ],
   "flagWords": [],
   "import": ["./node_modules/cspell-dict-fr-fr/cspell-ext.json"],
