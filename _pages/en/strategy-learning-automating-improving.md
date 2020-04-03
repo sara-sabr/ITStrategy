@@ -125,22 +125,3 @@ This strategy will be reviewed and updated quarterly based on effectiveness and 
 ## Appendix B - Additional References
 
 For more books, reports and articles supporting this strategy, you can consult our [References]({{ site.baseurl }}/references-en.html#q1-strategy---continuous-improvement-and-learning).
-
-<!-- 
-Remy: suggest removing mention of these as all of our Quarterly strategies are meant to align to this.
-It would become superfluous and dilute focus. Instead, all of our Quarterly strategies are meant to enable the ESDC IT Strategy and Strategy map
-
-This strategy is aligned with:
-
-- [ESDC IT Plan 2019-2022](http://dialogue/grp/BU5946064/Qualiware%20Working%20Groups%20WG/Repository%20Content%20Framework%20Working%20Group/IT%20Plan%202019-2021.pdf)
-- [ESDC Learning Priorities 2019-2020](http://iservice.prv/eng/college/docs/learning_priorities.pdf)
-- [IITB Way Forward](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx)
-- [Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html)
-- [Digital Operations Strategic Plan: 2018-2022](https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html)
-- [Policy](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603) and [Directive on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601)
-  - [Mandatory Procedures for Enterprise Architecture (EA) Assessment](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602)
-  - [Mandatory Procedures on Application Programming Interfaces (API)](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604)
-  - [Acceptable Network and Device Use](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32605)
-
-The goals are based on the GC IT Direction around [Digital government](https://www.canada.ca/en/government/system/digital-government.html) as well as the [DevOps Research and Assessment (DORA) - How to Transform](https://cloud.google.com/solutions/devops/devops-culture-transform) and the book explaining the findings of the State of DevOps Reports ([2019 PDF](https://services.google.com/fh/files/misc/state-of-devops-2019.pdf)), [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://books.google.ca/books?id=Kax-DwAAQBAJ&lpg=PP1&dq=Accelerate&hl=fr&pg=PP1#v=snippet&q=20%25&f=false).
--->
