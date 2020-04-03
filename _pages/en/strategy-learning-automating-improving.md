@@ -110,7 +110,7 @@ This strategy will be reviewed and updated quarterly based on effectiveness and 
 
 ### Examples of 'Learn' activities <!-- omit in toc -->
 
-- Stay up to date on trends and technologies inside and outside the GC
+- Stay up to date on trends and technologies inside and outside the GC - [Digital Government](https://www.canada.ca/en/government/system/digital-government.html)
 - Teach yourself basic programming (e.g. .Net Core, Java, Python, JavaScript)
 - Experiment with cloud technologies - [Play with Docker](https://labs.play-with-docker.com/)
 - Take online courses - [edX](https://www.edx.org/), [Cousera](https://www.coursera.org/), [Udemy](https://www.udemy.com/), or search on [MOOC List](https://www.mooc-list.com/)
