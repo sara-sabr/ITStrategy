@@ -33,7 +33,7 @@ IITB teams should **use up to 20% of the team's time to improve and learn**
 
 <!--
 Remy: suggest removing this because those are ultimate goals of the ESDC IT Strategy as a whole
-Those goals are the ultimate impact we want to create but it won't be obtained by a single Quartely strategy
+Those goals are the ultimate impact we want to create but it won't be obtained by a single Quarterly strategy
 ## Goals
 
 - Reduce lead time for changes and delivery of services/devices
@@ -43,7 +43,7 @@ Those goals are the ultimate impact we want to create but it won't be obtained b
 
 ## Expected Outcomes
 
-The expected outcomes of this quartely strategy are:
+The expected outcomes of this quarterly strategy are:
 
 - Reduction of technical debt
 - Increased innovation
@@ -62,10 +62,10 @@ To operationalize this strategy, the following set of actions will be undertaken
 1. (completed) Creation of a new CATS code for teams to record their times (**14644**) in addition to existing ones
 2. (completed) Creation of a [Learning Resource Directory](references-en.html#q1-strategy---continuous-improvement-and-learning) to help employees find recommended avenues for learning
 3. (completed) Provide [examples of improvements and learning activities](#appendix-a---examples-of-activities)
-4. (in progress) Creation of an intuitive tool for staff to share anectodal success & failure stories to share knowledge
+4. (in progress) Creation of an intuitive tool for staff to share anecdotal success & failure stories to share knowledge
 5. (do do) Creation of a [Tool for crowd sourcing learning](https://github.com/sara-sabr/ITStrategy/milestone/45)
 
-Please note that \#4 and \#5 are not neccessarly to operationalize this strategy, but will facilitate its success.
+Please note that \#4 and \#5 are not necessarily to operationalize this strategy, but will facilitate its success.
 
 ## Measuring this strategy
 
@@ -138,7 +138,7 @@ For more books, reports and articles supporting this strategy, you can consult o
 
 <!-- 
 Remy: suggest removing mention of these as all of our Quarterly strategies are meant to align to this.
-It would become superflous and dilute focus. Instead, all of our Quarterly strategies are meant to enable the ESDC IT Strategy and Strategy map
+It would become superfluous and dilute focus. Instead, all of our Quarterly strategies are meant to enable the ESDC IT Strategy and Strategy map
 
 This strategy is aligned with:
 
@@ -151,7 +151,6 @@ This strategy is aligned with:
   - [Mandatory Procedures for Enterprise Architecture (EA) Assessment](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602)
   - [Mandatory Procedures on Application Programming Interfaces (API)](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604)
   - [Acceptable Network and Device Use](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32605)
-
 
 The goals are based on the GC IT Direction around [Digital government](https://www.canada.ca/en/government/system/digital-government.html) as well as the [DevOps Research and Assessment (DORA) - How to Transform](https://cloud.google.com/solutions/devops/devops-culture-transform) and the book explaining the findings of the State of DevOps Reports ([2019 PDF](https://services.google.com/fh/files/misc/state-of-devops-2019.pdf)), [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://books.google.ca/books?id=Kax-DwAAQBAJ&lpg=PP1&dq=Accelerate&hl=fr&pg=PP1#v=snippet&q=20%25&f=false).
 -->
