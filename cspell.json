@@ -338,7 +338,13 @@
     "Framemo",
     "Micromissions",
     "YMAGIN",
-    "IMAJIN"
+    "IMAJIN",
+    "omnicanal",
+    "autodirigé",
+    "interfonctionnelles",
+    "boufficiels",
+    "pangouvernementale",
+    "pangouvernementales"
   ],
   "flagWords": [],
   "import": ["./node_modules/cspell-dict-fr-fr/cspell-ext.json"],

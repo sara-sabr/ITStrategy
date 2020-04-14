@@ -1,6 +1,6 @@
 ---
 layout: default
-title: IT Picture - Medium Term
+title: Medium Term IT Picture
 ref: it-picture-medium-term
 lang: en
 status: posted
@@ -10,15 +10,13 @@ permalink: /it-picture-medium-term.html
 
 ## Medium Term IT Picture - 2025
 
-- [Medium Term IT Picture - 2025](#medium-term-it-picture---2025)
-  - [GC Wide](#gc-wide)
-  - [IT within ESDC](#it-within-esdc)
-    - [Cultural](#cultural)
-      - [Additional Reading](#additional-reading)
-    - [Process](#process)
-    - [Technical](#technical)
-    - [Measurement](#measurement)
-  - [Additional Reading](#additional-reading-1)
+- [GC Wide](#gc-wide)
+- [IT within ESDC](#it-within-esdc)
+  - [Cultural](#cultural)
+  - [Process](#process)
+  - [Technical](#technical)
+  - [Measurement](#measurement)
+- [Additional Reading](#additional-reading-1)
 
 ### GC Wide
 
