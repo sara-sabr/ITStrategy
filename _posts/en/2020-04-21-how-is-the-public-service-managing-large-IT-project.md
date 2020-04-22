@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "How is the public service managing Large IT Projects?"
-ref: large-IT-projects
+ref: how-is-the-public-service-managing-large-IT-project.md
 lang: en
 author: My Thuy Pham-Vo on behalf of the"IT Strategy Team"
-date: "2019-09-12"
-last_modified: "2019-11-12"
+date: "2020-04-21"
+last_modified: "2020-04-21"
 excerpt_separator: <!--more-->
 ---
 
