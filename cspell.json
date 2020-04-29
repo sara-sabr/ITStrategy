@@ -344,7 +344,8 @@
     "interfonctionnelles",
     "boufficiels",
     "pangouvernementale",
-    "pangouvernementales"
+    "pangouvernementales",
+    "mémorivores"
   ],
   "flagWords": [],
   "import": ["./node_modules/cspell-dict-fr-fr/cspell-ext.json"],
