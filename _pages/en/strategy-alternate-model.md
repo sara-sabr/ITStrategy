@@ -133,9 +133,9 @@ This Guiding Policy does not replace existing policy instruments. Stakeholders a
 ### Product Management
 
 1. IT Products are associated to a capability as defined by the ESDC Business Capability Model
-2. IT Products have a single Product Owner 
+2. IT Products have a single Product Owner
 3. IT Products are managed by a Product Manager
-4. The Product Owner may also be the Product Manager 
+4. The Product Owner may also be the Product Manager
 5. DevOps teams are comprised of 9 members maximum
 6. DevOps teams include a Security Champion member
 7. DevOps teams include a Quality Assurance Champion member
@@ -148,7 +148,7 @@ This Guiding Policy does not replace existing policy instruments. Stakeholders a
 ### DevOps
 
 1. DevOps teams use a pipeline to control the release process from commit to production
-2. The pipeline that DevOps teams use is trusted to meet the required Governance checklist in order to be able to release directly into production 
+2. The pipeline that DevOps teams use is trusted to meet the required Governance checklist in order to be able to release directly into production
 3. The DevOps pipeline allows for manual intervention, if required
 4. DevOps teams use build automation
 5. DevOps teams use test automation for:
@@ -380,7 +380,7 @@ The first Stakeholder in the list, in ***bold and italic***, is the Office of Pr
     <td>Get endorsement from SSC</td>
     <td>Engage with SSC to get their endorsement in allowing access to deploy directly in production (on premise deployment model)</td>
     <td>
-    <b><i>IT Strategy</i></b><br> 
+    <b><i>IT Strategy</i></b><br>
   IT Security<br>
   SSC
     </td>
@@ -679,7 +679,7 @@ A person who manages the evolution of the IT product based on the IT Product Own
 
 For this Strategy, we define the conventional IT Solution Delivery Model as the current status quo.
 
-The conventional model follows the PMLC gated process and favours advanced planning, rigid plan execution based on committed scope, timeline, and costs, and will report on those commitments to determine the health of the IT project. 
+The conventional model follows the PMLC gated process and favours advanced planning, rigid plan execution based on committed scope, timeline, and costs, and will report on those commitments to determine the health of the IT project.
 
 In the conventional model, IT Teams are organized by functions and expecting hand-offs of work throughout the development chain to perform their functional tasks. These work hand-offs are scoped by the team’s functions, not the project’s overall outcome.
 
