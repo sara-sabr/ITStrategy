@@ -20,11 +20,11 @@ permalink: /perspectives-ti-moyen-terme.html
 
 ### À l'échelle du GC
 
-Les éléments fondamentaux de la vision du « Gouvernement en tant que service » sont disponibles et en production, le tout selon le [Plan stratégique des opérations numériques : Calendrier 2018-2022](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/plan-strategique-operations-numerique-2018-2022.html#ToC15). Cela comprend :
+Les éléments fondamentaux de la vision du « Gouvernement en tant que service » sont disponibles et en production, le tout selon le [Plan stratégique des opérations numériques : Calendrier 2018-2022](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/plan-strategique-operations-numerique-2018-2022.html#ToC15). Cela comprend :
 
-- Une identité numérique de confiance pour les services publics (« Se connecter ») ;
-- Examen horizontal de l'échange d'information - éliminer les obstacles (« Une fois suffit! ») ;
-- Construire une plate-forme pour l'interopérabilité d'entreprise (API Store et « Une fois suffit! ») ;
+- Une identité numérique de confiance pour les services publics (« Se connecter ») ;
+- Examen horizontal de l'échange d'information - éliminer les obstacles (« Une fois suffit! ») ;
+- Construire une plate-forme pour l'interopérabilité d'entreprise (API Store et « Une fois suffit! ») ;
 - Une vision du GC et une stratégie numérique omnicanal (tout appareil, toute plateforme, tout partenaire).
 
 Les [Normes numériques du GC](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html), la [Politique](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32603) et la [Directive sur les services et le numérique](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32601), avec les [Procédures obligatoires pour l'évaluation de l'architecture intégrée](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32602), ont changé les ministères et organismes du GC.
@@ -39,7 +39,7 @@ Sa propre initiative de transformation numérique se déroule bien, la Modernisa
 
 ### TI au sein d'EDSC
 
-Les TI sont utilisées comme un atout stratégique en vue d'améliorer les services aux citoyens et ne sont plus considérées comme une fonction « secondaire ».
+Les TI sont utilisées comme un atout stratégique en vue d'améliorer les services aux citoyens et ne sont plus considérées comme une fonction « secondaire ».
 Les secteurs de services d'EDSC comprennent le coût et les risques liés à l'exploitation des TI et ont commencé à partager leur responsabilité en utilisant une gouvernance et une méthode d'investissement différentes pour réduire les risques liés aux TI.
 Cela signifie qu'une partie de leur budget est établie pour veiller à ce que la dette technique soit documentée et traitée en temps opportun.
 La TI comprend parfaitement son incidence sur le mandat d'EDSC et a beaucoup investi dans l'apprentissage, l'agilité et l'automatisation pour réagir plus rapidement aux changements opérationnels.
@@ -58,9 +58,9 @@ Il s'agit notamment de ressources techniques, comme l'accès aux serveurs ou aux
 Les employés consacrent plus de temps à exploiter leur créativité pour ajouter de la valeur opérationnelle et moins de temps à des tâches répétitives.
 Ils ont également accès à un milieu de travail moderne qui encourage la collaboration et favorise une culture de flexibilité, de mobilité et de bien-être.
 
-Les employés sentent qu'ils peuvent être honnêtes avec la direction sans crainte de reproche et être confiants que les choses vont s'améliorer.
+Les employés sentent qu'ils peuvent être honnêtes avec la direction sans crainte de reproche et avoir confiance que les choses vont s'améliorer.
 La portée des changements est réduite intentionnellement, les échecs atténuant les risques qui permettent l'apprentissage plutôt que d'analyser les risques généraux de non-conformité.
-L'organisation sait apprend de ses échecs, tient des examens sans reproche et pose continuellement des questions comme « Pourquoi cette chose a échoué ? ».
+L'organisation sait apprend de ses échecs, tient des examens sans reproche et pose continuellement des questions comme « Pourquoi cette chose a échoué ? ».
 
 Les équipes consacrent 20 % de leur temps au travail à l'automatisation des processus actuels, au prototypage de technologies connexes ou à la mise à jour des tendances et des technologies liées à leur travail ou à l'orientation générale de la TI du GC.
 Les employés qui possèdent de grandes compétences en matière d'innovation sont encouragés à consacrer plus de 20 % de leur temps à ces tâches.
@@ -78,8 +78,8 @@ Dans l'ensemble, les employés qui travaillent en TI à EDSC sont plus heureux, 
 
 ##### Lectures complémentaires
 
-- [Article : A typology of organisational cultures](https://qualitysafety.bmj.com/content/qhc/13/suppl_2/ii22.full.pdf) (« Une typologie des cultures organisationnelles », en anglais)
-- [Texte : Team Topologies](https://itrevolution.com/book/team-topologies/) (« Les topologies des équipes », en anglais)
+- [Article : A typology of organisational cultures](https://qualitysafety.bmj.com/content/qhc/13/suppl_2/ii22.full.pdf) (« Une typologie des cultures organisationnelles », en anglais)
+- [Texte : Team Topologies](https://itrevolution.com/book/team-topologies/) (« Les topologies des équipes », en anglais)
 
 #### Processus
 
@@ -87,14 +87,14 @@ Les processus habilitent les équipes interfonctionnelles et leur permettent de 
 L'information est traitée comme un bien de l'entreprise - elle est ouverte par défaut, facilement consultable, sécurisée et non dupliquée.
 Les équipes reçoivent des renseignements à jour et un contexte qui leur permettent de prendre des décisions éclairées sur le bon travail à faire.
 Les résultats organisationnels sont mesurés et fournissent également de l'information essentielle pour prendre les meilleures décisions.
-Les hackathons sont organisés au moins deux fois par an par les TI et sont ouverts à des auditoires internes et externes pertinents (p. ex., autres gouvernements, universités).
+Les marathons de programmation sont organisés au moins deux fois par an par les TI et sont ouverts à des auditoires internes et externes pertinents (p. ex., autres gouvernements, universités).
 
 Les équipes utilisent les méthodologies [Agile](https://cloud.google.com/solutions/devops/devops-process-working-in-small-batches) pour concevoir et améliorer continuellement les solutions et les services.
 Les clients sont inclus dès le début des projets et peuvent soumettre une [rétroaction régulière](https://cloud.google.com/solutions/devops/devops-process-customer-feedback).
 On met beaucoup l'accent sur l'automatisation des essais, des déploiements, de la sécurité et des demandes de service, ce qui [élimine le besoin d'approbation manuelle](https://cloud.google.com/solutions/devops/devops-process-streamlining-change-approval).
 L'information sur le [flux de travail](https://cloud.google.com/solutions/devops/devops-process-work-visibility-in-value-stream) dans l'ensemble du flux de valeur est facilement disponible et les équipes ont une bonne compréhension du flux de travail de l'entreprise touchant à la fois les citoyens ainsi que les employés d'EDSC.
 
-La gouvernance passe à la Lean Project Management (gestion de projet Lean) où les résultats souhaités sont énoncés au lieu des exigences, et les hypothèses sont utilisées au lieu des analyses de rentabilisation, favorisant les petits projets comme moyen de réduire les risques et d'éviter les boufficiels.
+La gouvernance passe à la Lean Project Management (gestion de projet Lean) où les résultats souhaités sont énoncés au lieu des exigences, et les hypothèses sont utilisées au lieu des analyses de rentabilisation, favorisant les petits projets comme moyen de réduire les risques et d'éviter les logiciels mémorivores.
 La gestion des investissements d'EDSC permet les investissements plus petits et plus itératifs dans les TI.
 L'harmonisation des systèmes de contrôle visant l'atteinte des résultats souhaités sert de mesure de projet plutôt que de s'appuyer sur la réalisation des tâches.
 
@@ -105,7 +105,7 @@ Les services de production peuvent être restaurés de façon répétée et pré
 On envisage d'utiliser Chaos Engineering (tester la résilience de ses infrastructures informatiques) pour renforcer la confiance dans les capacités des systèmes à résister à des conditions inattendues.
 
 Le code source, les atouts, les configurations ou d'autres documents faisant partie du développement et du déploiement d'un projet sont stockés dans un [système de contrôle de version](https://cloud.google.com/solutions/devops/devops-tech-version-control) qui enregistre les modifications apportées aux fichiers.
-Les changements déclenchent des [tests automatisés et un processus de compilation](https://cloud.google.com/solutions/devops/devops-tech-continuous-integration) qui crée des paquets (exécutables, conteneur, machine virtuelle, ...) qui peuvent être [déployés](https://cloud.google.com/solutions/devops/devops-tech-deployment-automation) dans n'importe quel environnement (test ou production) de manière automatisée.
+Les changements déclenchent des [tests automatisés et un processus de compilation](https://cloud.google.com/solutions/devops/devops-tech-continuous-integration) qui crée des paquets (exécutables, conteneur, machine virtuelle...) qui peuvent être [déployés](https://cloud.google.com/solutions/devops/devops-tech-deployment-automation) dans n'importe quel environnement (test ou production) de manière automatisée.
 Les opérations et l'infrastructure ont évolué vers l'automatisation autant que possible, étant en mesure de déplacer les charges de travail et le temps d'exécution d'un fournisseur de services à un autre au besoin.
 Les constructions sont numérotées, reproductibles et exécutées à la demande par des équipes qui leur donnent une rétroaction rapide sur leurs [petits lots de travail](https://cloud.google.com/solutions/devops/devops-tech-trunk-based-development).
 Les membres de l'équipe priorisent l'examen des changements apportés par les collègues de travail pour s'assurer qu'ils n'ont pas à attendre des jours pour être fusionnés et déployés.
@@ -145,6 +145,6 @@ Les mesures de rendement des secteurs d'activité servent de repères et la resp
 
 ### Lectures complémentaires
 
-- [Texte : The DevOps Handbook](https://itrevolution.com/book/the-devops-handbook/) (« Le guide Devops », en anglais)
-- [Texte : Project to Product](https://itrevolution.com/book/project-to-product/) (« Du projet au produit », en anglais)
-- [Texte : War And Peace And IT](https://itrevolution.com/book/war-and-peace-and-it/) (« La guerre, la paix et les TI », en anglais)
+- [Texte : The DevOps Handbook](https://itrevolution.com/book/the-devops-handbook/) (« Le guide Devops », en anglais)
+- [Texte : Project to Product](https://itrevolution.com/book/project-to-product/) (« Du projet au produit », en anglais)
+- [Texte : War And Peace And IT](https://itrevolution.com/book/war-and-peace-and-it/) (« La guerre, la paix et les TI », en anglais)
