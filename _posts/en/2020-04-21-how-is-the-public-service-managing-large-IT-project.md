@@ -32,7 +32,7 @@ Aging IT Systems like the Personal Income Tax and Benefits Return administration
 OAG highly recommends all organizations to develop a strategic approach in the IT investments and risk management to address the significant actions in the health of the IT systems.
 This Spring Auditor General Report leads to formalizing the approach to [Application Portfolio Management (APM)](https://www.gcpedia.gc.ca/wiki/OCIO_Application_Portfolio_Management) across the federal departments and the creation of a TBS requirement for departments to report on health of their critical infrastructure.
 
-The IT investments have been a serious obstacle in the assessment for all departments, whether it’s the IT projects to improve old Age systems or a new initiative to improve the operational efficiency and the strategic objectives of the departments.
+The IT investments have been a serious obstacle in the assessment for all departments, whether it's the IT projects to improve old Age systems or a new initiative to improve the operational efficiency and the strategic objectives of the departments.
 The business case needs to be enhanced as it is described as “a detailed investment proposal that provides an analysis of all the costs, benefits and risks associated with a proposed investment and offers reasonable alternatives.” The IT investment plan should strengthen the alignments with the management practices to help organizations manage and meet the strategic corporate objectives.
 
 ## Addressing the List of Recommendations
