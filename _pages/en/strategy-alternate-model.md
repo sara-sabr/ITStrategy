@@ -23,7 +23,7 @@ th {
 </style>
 
 ***This is a DRAFT strategy.***
-_Its authorititative source and latest version of this Strategy is on [ESDC's internal network](https://dialogue/grp/BU6810070/SitePages/strategyAlternateDeliveryModel.aspx)_
+_Its authoritative source and latest version of this Strategy is on [ESDC's internal network](https://dialogue/grp/BU6810070/SitePages/strategyAlternateDeliveryModel.aspx)_
 
 <!-- markdownlint-disable MD001 -->
 ##### Table of Content <!-- omit in toc -->
@@ -60,11 +60,11 @@ The intent behind this strategy is to communicate a decision by the CIO on a pat
 
 ### Business Case
 
-Moving to the digital age requires improving IT’s responsiveness and promoting a shared accountability with ESDSC ESDC stakeholders on the use of technology.
+Moving to the digital age requires improving IT's responsiveness and promoting a shared accountability with ESDC stakeholders on the use of technology.
 
-To improve IT’s responsiveness, we must find ways to reduce risks associated with its useit. This strategy proposes moving ESDC to the point where same day software deployments are possible and a common practice. The benefits to frequent small deployments, using automated methods, are expected to reduce risk, reduce technical debt, increase client satisfaction, and increase overall confidence in the department and its staff.
+To improve IT's responsiveness, we must find ways to reduce risks associated with its use. This strategy proposes moving ESDC to the point where same day software deployments are possible and a common practice. The benefits to frequent small deployments, using automated methods, are expected to reduce risk, reduce technical debt, increase client satisfaction, and increase overall confidence in the department and its staff.
 
-This strategy’s goal is to provide ESDC project sponsors with a choice, at project conception, to select between two IT Solution Delivery Model:
+This strategy's goal is to provide ESDC project sponsors with a choice, at project conception, to select between two IT Solution Delivery Model:
 
 - the conventional delivery model (status quo)
 - this alternate IT Solution Delivery Model
@@ -98,11 +98,11 @@ This Guiding Policy does not replace existing policy instruments. Stakeholders a
       - Security test results
       - API consumption statistics
       - Production deployment audit traces
-      - Product’s backlog items in scope of the DevOps team’s cadence
-      - Product’s availability statistics
-4. Security Assessment & Authority (SA&A) uses the XXXAlternate-SA&AXXX methodology
-5. Accessibility Assessment uses the XXXAlternate-AccessibiltyXXX methodology
-6. Audit Assessment uses the XXXAlternate-AuditXXX methodology
+      - Product's backlog items in scope of the DevOps team's cadence
+      - Product's availability statistics
+4. Security Assessment & Authority (SA&A) uses the Alternate-SA&A methodology
+5. Accessibility Assessment uses the Alternate-Accessibility methodology
+6. Audit Assessment uses the Alternate-Audit methodology
 7. IT Projects allow DevOps teams to collaborate directly with business subject matter experts using a method of their choice
 8. IT Projects release working IT products in production at minimum every 6 months
 9. IT Projects start only when the following is true:
@@ -112,7 +112,7 @@ This Guiding Policy does not replace existing policy instruments. Stakeholders a
       - The business sponsor commits the availability of a sample of end users throughout the IT Project, unless the end users are citizens
       - IITB identified a single lead responsible for the delivery of the IT Solution and its transition into service operations
 10. IT Projects are assigned to Development Value Streams
-11. IT Projects report on the Development Value Stream’s Key Performance Indicators (KPIs)
+11. IT Projects report on the Development Value Stream's Key Performance Indicators (KPIs)
 12. IT Projects follow the IITB Agile Governance Framework
 
 ### Finance
@@ -493,15 +493,15 @@ The metrics are defined as follows:
 
 ## Appendix A - Business Case (Diagnostic)
 
-As explain in our [ESDC IT Strategy overview](https://sara-sabr.github.io/ITStrategy/esdc-it-strategy.html), the digital world is highly complex and uncertain. The [Policy on service and digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603), reflecting citizen’s expectations requires ESDC to review services delivered to clients periodically. With the ubiquitous nature of technology, any changes to ESDC services will require implicating IT teams.
+As explain in our [ESDC IT Strategy overview](https://sara-sabr.github.io/ITStrategy/esdc-it-strategy.html), the digital world is highly complex and uncertain. The [Policy on service and digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603), reflecting citizen's expectations requires ESDC to review services delivered to clients periodically. With the ubiquitous nature of technology, any changes to ESDC services will require implicating IT teams.
 
-The [GC Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html) form the foundation of the government’s shift to becoming more agile, open, and user-focused. At the same time, the [Directive on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601) requires departments to align to the [GC Architecture Standards](https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards) by means of its [mandatory procedures for Enterprise Architecture Assessment](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602). This creates a conundrum for organizations: **“How do we reconcile the requirement of being agile with the one of thinking Enterprise”?**
+The [GC Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html) form the foundation of the government's shift to becoming more agile, open, and user-focused. At the same time, the [Directive on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601) requires departments to align to the [GC Architecture Standards](https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards) by means of its [mandatory procedures for Enterprise Architecture Assessment](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602). This creates a conundrum for organizations: **“How do we reconcile the requirement of being agile with the one of thinking Enterprise”?**
 
 This strategy looks at solving this challenge.
 
 The use of technology is costly and risky. The conventional methods of delivering IT solutions seeks to reduce those costs and risks with advance planning and rigid plan execution. This may work when the future is predictable, but not when it is complex and uncertain.
 
-This complexity and uncertainty warrants organizations to move towards a more empirical cycle of trying, observing, and correcting. It is not just the execution phase of a project that needs to be ”agile”, it’s the project’s scope itself. The IT Project is the iteration step the organization is looking for as a means to become agile. This requires reviewing the relationship ESDC has with the use of technology and the interactions between IT teams.
+This complexity and uncertainty warrants organizations to move towards a more empirical cycle of trying, observing, and correcting. It is not just the execution phase of a project that needs to be ”agile”, it's the project's scope itself. The IT Project is the iteration step the organization is looking for as a means to become agile. This requires reviewing the relationship ESDC has with the use of technology and the interactions between IT teams.
 
 This reality around the need to reduce risks and revisit the relationship stakeholders have with technology, is well explained in:
 
@@ -519,19 +519,19 @@ This reality around the need to reduce risks and revisit the relationship stakeh
 
 In the House of Commons questions data, ESDC has 52 projects listed but only 6 of them have sufficient data to compare either their schedule or budget estimates: 5 are behind schedule, and 5 are over budget.
 
-The [2019-2020 February (P11) Monthly Project and Programme Investment Portfolio Dashboard](http://dialogue/grp/IPPST/Financials%20Limited%20Access/Monthly%20Project%20Portfolio%20Dashboard%20-%20January%202019-2020%20(P10).xlsx) of ESDC’s EPMO  lists 53 active projects. 45% of them are deemed healthy (green), 19% are deemed of concerns (yellow), and 34% are unhealthy (red). Looking deeper, it’s worth noting the following:
+The [2019-2020 February (P11) Monthly Project and Programme Investment Portfolio Dashboard](http://dialogue/grp/IPPST/Financials%20Limited%20Access/Monthly%20Project%20Portfolio%20Dashboard%20-%20January%202019-2020%20(P10).xlsx) of ESDC's EPMO  lists 53 active projects. 45% of them are deemed healthy (green), 19% are deemed of concerns (yellow), and 34% are unhealthy (red). Looking deeper, it's worth noting the following:
     - that 38 of the 53 active projects are in the Execution stage and that 55% of them are either of concerns (yellow) or unhealthy (red)
     - that, generally, the IITB component of those ESDC projects are healthier than the overall Departmental project umbrella
 
 IITB’s [BPMO Project Portfolio dashboard](http://dialogue/grp/ITPM-GPTI/PPDMLibrary/BRM-RPT-PDM-ProjectPortfolioDashboard20200217.xlsm) also tracks lite projects, branch initiatives, and A-based investments (smaller in size than the ones tracked by the EPMO). The February 2020 statistics show a total of 26 active projects of this category. 69% of them are deemed healthy (green), 15% are deemed of concerns (yellow), and 15% are deemed unhealthy (red).
 
-IITB has made efforts to modernize its management of technology, as is showcased in the [IITB News Kudo’s Corner](http://esdc.prv/en/iitb/corporate/news/archives.shtml) and its [IITB Way Forward plan](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx). However, ESDC’s relationship with technology spans beyond IITB’s influence.
+IITB has made efforts to modernize its management of technology, as is showcased in the [IITB News Kudo's Corner](http://esdc.prv/en/iitb/corporate/news/archives.shtml) and its [IITB Way Forward plan](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx). However, ESDC's relationship with technology spans beyond IITB’s influence.
 
 Moving ESDC towards being an agile organization requires moving towards a model that enables smaller, more frequent software deployments. To make more frequent software deployments requires revisiting software development and management practices as a whole.
 
 Making such drastic changes to a large organization is naturally difficult given the criticality of ESDC services and the amount of teams involved. The strategy herein is meant to offer an alternate solution delivery model that can work in parallel with the existing one, as a means to build confidence in its success through empirical evidence.
 
-This strategy’s goal is to provide ESDC project sponsors with a choice, at project conception, to select between two IT Solution Delivery Models:
+This strategy's goal is to provide ESDC project sponsors with a choice, at project conception, to select between two IT Solution Delivery Models:
 
 - the conventional delivery model (status quo, see Appendix D. Definitions)
 - this alternate IT Solution Delivery Model
@@ -643,7 +643,7 @@ A cross functional, multidisciplinary team that emphasize the collaboration and 
 
 Centralized version control systems are based on the idea that there is a single “central” copy of a software project somewhere (most likely on a server), and developers make code changes directly on this central copy.
 
-A decentralized version control system (DVCS) do not necessarily rely on a central server to store all the versions of a software project’s files. Instead, every developer “clones” a copy of a repository and has the full history of the project on their own hard drive. This copy (or “clone”) has all of the metadata of the original. In a DVCS, developers typically will make code changes on their local copy, test them on their local copy, and “push” them to a central server containing the “master” copy the software project is intended to use.
+A decentralized version control system (DVCS) do not necessarily rely on a central server to store all the versions of a software project's files. Instead, every developer “clones” a copy of a repository and has the full history of the project on their own hard drive. This copy (or “clone”) has all of the metadata of the original. In a DVCS, developers typically will make code changes on their local copy, test them on their local copy, and “push” them to a central server containing the “master” copy the software project is intended to use.
 
 The three most popular DVCS are Mercurial, Git, and Bazaar.
 
@@ -673,7 +673,7 @@ A person who represents the business or user community and is responsible for wo
 
 **IT Product Manager**
 
-A person who manages the evolution of the IT product based on the IT Product Owner’s features lists, IT Product’s technical stack maintenance, and managing the rollout of new features. The IT Product manager prioritizes the work for the DevOps team, phases solution delivery to reduce impact to end-users, and manages changes by coordinating with the IT Product Owner.
+A person who manages the evolution of the IT product based on the IT Product Owner's features lists, IT Product's technical stack maintenance, and managing the rollout of new features. The IT Product manager prioritizes the work for the DevOps team, phases solution delivery to reduce impact to end-users, and manages changes by coordinating with the IT Product Owner.
 
 **Conventional IT Solution Delivery Model**
 
@@ -681,7 +681,7 @@ For this Strategy, we define the conventional IT Solution Delivery Model as the 
 
 The conventional model follows the PMLC gated process and favours advanced planning, rigid plan execution based on committed scope, timeline, and costs, and will report on those commitments to determine the health of the IT project.
 
-In the conventional model, IT Teams are organized by functions and expecting hand-offs of work throughout the development chain to perform their functional tasks. These work hand-offs are scoped by the team’s functions, not the project’s overall outcome.
+In the conventional model, IT Teams are organized by functions and expecting hand-offs of work throughout the development chain to perform their functional tasks. These work hand-offs are scoped by the team's functions, not the project's overall outcome.
 
 In the conventional model, the Business Realization is expected to be realized as the IT Project closes and the business operations are changed with the new set of capabilities provided by the IT Project. The Business Realization plan expects the business owner to monitor and report discrepancies between planned and actual benefits. Discrepancies are handled by change requirements or new projects.
 
@@ -716,7 +716,7 @@ Example of a use case:
 | EPMO    | Enterprise Project Management Office      |
 | IAERMB  | Internal Audit and Enterprise Risk Management Branch (formally Internal Audit Services Branch)|
 | OCMC    | Operations Change Management Committee    |
-| PMLC    | Project Mangement Life Cycle as defined by CFOB|
+| PMLC    | Project Management Life Cycle as defined by CFOB|
 | PMP     | Project Management Plan                   |
 | PPOC    | Project Portfolio Operations Committee    |
 | PPPM    | Policy on Project and Program Management  |

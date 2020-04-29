@@ -344,7 +344,15 @@
     "BRM's",
     "STOM",
     "SDLC",
-    "OCMC"
+    "OCMC",
+    "BPMO",
+    "checklist",
+    "IAERMB",
+    "TSWG",
+    "DOSP",
+    "DVCS",
+    "rollout",
+    "Kudo's"
   ],
   "flagWords": [],
   "import": ["./node_modules/cspell-dict-fr-fr/cspell-ext.json"],
