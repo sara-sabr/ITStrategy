@@ -297,7 +297,7 @@
     "handoff",
     "Napoleon",
     "Napoleonic",
-    "OCMS",
+    "OCMC",
     "Borodino",
     "Shevardino",
     "themself",
@@ -352,7 +352,9 @@
     "DOSP",
     "DVCS",
     "rollout",
-    "Kudo's"
+    "Kudo's",
+    "YMAGIN",
+    "IMAJIN"
   ],
   "flagWords": [],
   "import": ["./node_modules/cspell-dict-fr-fr/cspell-ext.json"],
