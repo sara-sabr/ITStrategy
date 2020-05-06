@@ -10,18 +10,22 @@ excerpt_separator: <!--more-->
 ---
 <!--markdownlint-disable MD026-->
 
-Having large projects raises concerns on the budget, available resources, the estimated success and the risks.
-Even if many kinds of research have informed the success of small projects are higher than large projects, many government departments and agencies still decide to proceed to implement large IT projects.
-As the Government of Canada works to improve its use of information technology during its transition towards digital, we have reviewed reports from the Office of the Audit General of Canada (OAG) on large IT projects undertaken and the lessons learned they provide.
+In a previous blog post, we highlighted that large changes and investments are increasing risks.
+Even if many kinds of research have informed the success of small projects are higher than large projects, many government departments and agencies still decide to proceed to implement large IT projects. The Canadian Digital Service (CDS) analyzed the [2016 data and 2019 data of IT projects][https://large-government-of-canada-it-projects.github.io/] in response of the ongoing and planned IT project over $1M where 87% of 94 are behind schedule and 56% of 97 are overbudget.  Today, let's have a look at the history of large IT projects in the GC and how the Government of Canada adapt to overcome the challenges.
+As the Government of Canada works to improve its use of information technology during its transition towards digital, we have reviewed 6 reports from (the Office of the Audit General of Canada (OAG))[https://www.oag-bvg.gc.ca/internet/English/parl_lp_e_933.html]. dated post 2003 on IT projects undertaken. 
 
 ## Adapting to Priorities
-
+Looking back at the [2006 Audit Report](https://www.oag-bvg.gc.ca/internet/English/parl_oag_200611_03_e_14971.html), the Office of the Audit General of Canada (OAG) has assessed a sample of IT projects provided by the Treasury Board Secretariat (TBS).
+The issues raised in the previous audits were inadequate analysis of underlying business issues and support from senior executives and project ownership.
+OAG highlights for all IT projects to support business transformation and operational needs.
+All project submissions must also consider IT components.
+the subsequent OAG reports highlights the same challenges as the 2006 OAG Audit Report in delivering large IT projects
 First, the attention and support of senior management must improve internal reviews of IT projects, including the evaluation and analysis of key decision documents.
 Nearly all the reports acknowledge the need to strengthen the project governance and accountability.
 The reports also state that projects were approved even if the proposals did not meet the prerequisite requirements.
 OAG recommends to improve the mechanism and find the best practice to maximize the capabilities and commitments for the overall direction of the projects.
 
-The condition of the IT systems and infrastructure, "Aging technology", draws attention in 2010.
+The condition of the IT systems and infrastructure, "Aging technology", draws attention in the [2010 Spring report][https://www.oag-bvg.gc.ca/internet/English/parl_oag_201004_01_e_33714.html].
 Aging IT Systems like the Personal Income Tax and Benefits Return administration system and the Employment Insurance program was noticed in the Chief Information Officer Branch (CIOB) of all the departments and agencies but did not have any strategic directions.
 OAG highly recommends all organizations to develop a strategic approach in the IT investments and risk management to address the significant actions in the health of the IT systems.
 This Spring Auditor General Report leads to formalizing the approach to [Application Portfolio Management (APM)](https://www.gcpedia.gc.ca/wiki/OCIO_Application_Portfolio_Management) across the federal departments and the creation of a TBS requirement for departments to report on health of their critical infrastructure.
@@ -83,9 +87,9 @@ The lack of transparency and ignorance were influential factors of the failed la
 The focus on the project was to meet the deadline and budget.
 Making a decision based on the two criteria led costing $2.2 billion for the next seven-year period of 2016-2017 to 2022-2023 compared to the $70 million annual savings.
 
-Thus, gathering all the insights in the OAG Audit Reports relating the IT Large projects from 1995 to 2018, departments and agencies have demonstrated limited success in large IT projects.
+Thus, gathering all the insights in the OAG Audit Reports relating the IT Large projects from 1995 to 2018, departments and agencies have demonstrated limited success in large IT projects. This is also observed by the Standish Group that evaluated only [6.4% of projects above $10M USD were successful][https://18f.gsa.gov/2019/04/09/why-we-love-modular-contracting/], and from [the response to the House of Commons questions][https://large-government-of-canada-it-projects.github.io/] (that asked federal government departments to report ongoing or planned IT projects over $1M) suggesting such IT Projects were more at risk of schedule delay and overbudgeting
 They have met more deficiencies in the high-risk projects rather than improvements.
 They have not shown to be consistent with meeting current and future requirements in all phases of a project.
-The Departments and Agencies solution seem to reduce the scope of the project and extended the timelines for the likelihood success.
+The departments and agencies' solution seems to be to [reduce the scope of the projects and extend the timelines][[https://www.oag-bvg.gc.ca/internet/English/parl_oag_201106_02_e_35370.html], in an effort to increase the likelihood of success.
 The governance Framework remains the constant challenge to manage the IT project.
 The only management key criteria that have progressed in the projects are the organizational capacity and Project Risk Management.
