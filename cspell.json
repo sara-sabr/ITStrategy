@@ -354,7 +354,14 @@
     "rollout",
     "Kudo's",
     "YMAGIN",
-    "IMAJIN"
+    "IMAJIN",
+    "omnicanal",
+    "autodirigé",
+    "interfonctionnelles",
+    "boufficiels",
+    "pangouvernementale",
+    "pangouvernementales",
+    "mémorivores"
   ],
   "flagWords": [],
   "import": ["./node_modules/cspell-dict-fr-fr/cspell-ext.json"],
