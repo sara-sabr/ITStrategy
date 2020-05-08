@@ -16,6 +16,12 @@
       "pattern": "http://dialogue"
     },
     {
+      "pattern": "https://dialogue"
+    },
+    {
+      "pattern": "https://014gc.sharepoint.com"
+    },
+    {
       "pattern": "https://gcconnex.gc.ca"
     },
     {
