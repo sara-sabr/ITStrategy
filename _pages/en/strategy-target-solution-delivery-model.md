@@ -260,7 +260,7 @@ For example, the action “Adjust IITB SDLC” is expected to involve the BPMO a
     <td>Produce standard definition for “DevOps team”</td>
     <td>Produce a standard definition listing the minimum requirements, roles, and responsibilities for a team to qualify as DevOps. This to reduce confusion and misuse of the term since the Guiding Policy allows more authority to such teams.
 
-[Draft located on Office 365](https://014gc-my.sharepoint.com/:w:/g/personal/remy_bernard_hrsdc-rhdcc_gc_ca/EaU8oDNt7iJNj8Zy_M64TOkBVJBlFhQ2d_fzOuF2N6bt8A?e=F5HEeL).
+[Draft located on Office 365](https://014gc-my.sharepoint.com/%3Aw%3A/g/personal/remy_bernard_hrsdc-rhdcc_gc_ca/EaU8oDNt7iJNj8Zy_M64TOkBVJBlFhQ2d_fzOuF2N6bt8A?e=F5HEeL).
 </td>
     <td>
     <b><i>IT Strategy</i></b><br>
@@ -320,7 +320,7 @@ Senior Advisors
     <td>Investigate alternative funding models</td>
     <td>
     Engage with Finance Advisors to investigate alternative funding model while remaining compliant with the PPPM and Investment Management Policy. Such as what the Cloud CoE did with their showback model.<br><br>
-    Technical debt is a stakeholder because they are working on an evergreen funding model (e.g. tax)
+    Technical debt is a stakeholder because they are working on an evergreen funding model.
     </td>
     <td>
     <b><i>IT Strategy</i></b><br>
@@ -376,7 +376,7 @@ Senior Advisors
   <tr>
     <td>Define API approval process</td>
     <td>Formally define API approval process to allow DevOps teams to expose their products functionality and data via APIs.
-Provide standards that DevOps teams are expected to comply with when releasing APIs, such as data exchange formats and mandatory procedures for API Assessments (Directive on Service and Digital).
+Provide standards that DevOps teams are expected to comply with when releasing APIs, such as data exchange formats and <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604">mandatory procedures for API Assessments</a> (Directive on Service and Digital).
 </td>
     <td>
     <b><i>Interoperability</i></b><br>
@@ -387,7 +387,7 @@ Provide standards that DevOps teams are expected to comply with when releasing A
   </tr>
   <tr>
     <td>Produce Loose Coupling architecture guidance</td>
-    <td>Produce a guidance document to clarify and guide Architects in building IT solutions making use of loose coupling architecture principles that provide IT Product teams more autonomy (e.g. Micro-Services, 12-factor app)</td>
+    <td>Produce a guidance document to clarify and guide Architects in building IT solutions making use of loose coupling architecture principles that provide IT Product teams more autonomy (e.g. Micro-Services, <a href="https://12factor.net/">12-factor app</a>)</td>
     <td>
     <b><i>Solution Architecture</i></b>
     </td>
@@ -485,7 +485,7 @@ The metrics are defined as follows:
     <td>1. Lead time for change</td>
     <td>
     <i>Automatic</i><br>
-    Using Product team's own pipeline metrics
+    Using DevOps team's own pipeline metrics
     </td>
     <td>
     <i>Manually</i><br>
@@ -496,7 +496,7 @@ The metrics are defined as follows:
     <td>2. Deployment frequency</td>
     <td>
     <i>Automatic</i><br>
-    Using the Product team's continuous delivery pipelines
+    Using the DevOps team's continuous delivery pipelines
     </td>
     <td>
     <i>Manually</i><br>
@@ -518,7 +518,7 @@ The metrics are defined as follows:
     <td>4. Time to restore service</td>
     <td>
     <i>Automatic</i><br>
-    Using the Product team's incident tracking tool – time incident submitted to time incident closed
+    Using the DevOps team's incident tracking tool – time incident submitted to time incident closed
     </td>
     <td>
     <i>Automatic</i><br>
@@ -528,11 +528,11 @@ The metrics are defined as follows:
 <tr>
     <td>5. Client satisfaction</td>
     <td>
-    Manually</i><br>
+    <i>Manually</i><br>
     BRM's client survey
     </td>
     <td>
-    Manually</i><br>
+    <i>Manually</i><br>
     BRM's client survey
     </td>
 </tr>
