@@ -361,7 +361,11 @@
     "boufficiels",
     "pangouvernementale",
     "pangouvernementales",
-    "mémorivores"
+    "mémorivores",
+    "operationalizing",
+    "operationalized",
+    "CMCP",
+    "chargeback"
   ],
   "flagWords": [],
   "import": ["./node_modules/cspell-dict-fr-fr/cspell-ext.json"],
