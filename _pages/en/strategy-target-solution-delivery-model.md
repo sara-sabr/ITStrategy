@@ -79,7 +79,7 @@ To improve IT's responsiveness, we must find ways to reduce risks associated wit
 
 This strategy capitalizes on existing IT initiatives (such as the [IITB Way Forward](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx)) to compliment them by adding attention to them, as well as complimenting them with new activities.
 
-This strategy’s goal is to define what this Target State of IT Solution Delivery is, and provide a roadmap in getting to this target state.
+This strategy's goal is to define what this Target State of IT Solution Delivery is, and provide a roadmap in getting to this target state.
 
 More details in [Annex A](#appendix-a---business-case-diagnostic).
 
@@ -259,8 +259,8 @@ For example, the action “Adjust IITB SDLC” is expected to involve the BPMO a
   <tr>
     <td>Produce standard definition for “DevOps team”</td>
     <td>Produce a standard definition listing the minimum requirements, roles, and responsibilities for a team to qualify as DevOps. This to reduce confusion and misuse of the term since the Guiding Policy allows more authority to such teams.
-
-[Draft located on Office 365](https://014gc-my.sharepoint.com/%3Aw%3A/g/personal/remy_bernard_hrsdc-rhdcc_gc_ca/EaU8oDNt7iJNj8Zy_M64TOkBVJBlFhQ2d_fzOuF2N6bt8A?e=F5HEeL).
+<br><br>
+<a href="https://014gc-my.sharepoint.com/%3Aw%3A/g/personal/remy_bernard_hrsdc-rhdcc_gc_ca/EaU8oDNt7iJNj8Zy_M64TOkBVJBlFhQ2d_fzOuF2N6bt8A?e=F5HEeL">Draft located on Office 365</a>.
 </td>
     <td>
     <b><i>IT Strategy</i></b><br>
