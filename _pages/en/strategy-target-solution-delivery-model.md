@@ -23,6 +23,7 @@ th {
 </style>
 
 ***This is a DRAFT strategy.***
+
 _Note 1: Its authoritative source and latest version of this Strategy is on [ESDC's internal network](https://dialogue/grp/BU6810070/SitePages/strategyAlternateDeliveryModel.aspx)_
 
 _Note 2: This page will link to internal ESDC documents, which are unfortunately only accessible within ESDC corporate network._
@@ -676,6 +677,14 @@ IT Plan/Section II/Foundational
 - IT Security SA&A Process
 - [SDLC Process](onenote:http://dialogue/grp/PR6893344/OneNote/AppDevSA/02-Development%20%28In%20Progress%29/AppDev%20Roadmap.one#Outcomes%20and%20Dependencies%20Overview&section-id={5E16E60C-310B-49EF-8451-88E0CE4DA968}%26page-id={67E8C1D8-F39B-498E-A809-EEAAB9BDAC88}%26object-id={636B6DD3-FBD6-0F8E-30F2-FD3A0BC5F22E}&2E) (current and proposed alternate by Senior Advisors+BPMO)
 - [Team Compositions being investigated](https://014gc.sharepoint.com/u:/r/sites/AppDevSASharePoint/Shared%20Documents/Presentations/Structure.vsdx?d=w6db29c1b95504032a0aba15b098ab9ed&csf=1&web=1&e=K9rDQ2) by Senior Advisors
+- ESDC [Procurement Policies](http://iservice.prv/eng/finance/purchasing/policy.shtml)
+- TBS [Directive on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601)
+- TBS [Directive on Security Management](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32611)
+- [Scale Agile Framework (SAFe)](https://www.scaledagileframework.com/)
+- [Disciplined Agile (DA)](https://www.pmi.org/disciplined-agile)
+- [Large-Scale Scrum](https://less.works/)
+- [Good Strategy, Bad Strategy](http://goodbadstrategy.com/)
+- [How to write rules that people want to follow](https://www.chapters.indigo.ca/en-ca/books/how-to-write-rules-that/9781988749020-item.html)
 
 ## Appendix D - Definitions
 <!-- markdownlint-disable MD036 -->
