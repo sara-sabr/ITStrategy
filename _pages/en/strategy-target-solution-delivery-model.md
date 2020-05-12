@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Alternate IT Solution Delivery Model
-ref: alternate-delivery-model
+title: Target IT Solution Delivery Model
+ref: target-solution-delivery-model
 lang: en
 status: posted
 sections: Strategies
-permalink: /strategy-alternate-model.html
+permalink: /strategy-target-solution-delivery-model.html
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- the below cSpell statement says to ignore any text between HTML tags. E.g. it will ignore "th rowspan='2'" in this string: <th rowspan='2'> -->
@@ -49,14 +49,14 @@ _Its authoritative source and latest version of this Strategy is on [ESDC's inte
 
 ### Purpose
 
-To elaborate on a strategy for providing IITB with an alternative IT solution delivery model, in parallel with the conventional existing one.
+To provide IITB with a definition for a Target State IT Solution Delivery Model, and a roadmap to get there.
 
 The strategy includes:
 
-1. A **guiding policy**, which serves to set automatic decisions when this alternative IT solution delivery model is used
-2. A **coherent set of actions** (an action plan), which serve to operationalize the alternative IT solution delivery model
+1. A **guiding policy**, which serves to set automatic decisions that defines the Target IT Solution Delivery Model
+2. A **coherent set of actions** (an action plan), which serve to operationalize the Target IT Solution Delivery Model
 
-The intent behind this strategy is to communicate a decision by the CIO on a path forward (the Guiding Policy), and what investments will be needed to operationalize that decision (the coherent set of actions). These coherent set of actions are intended to be formalized in the next ESDC IT Plan iteration once the Strategy is approved.
+The intent behind this strategy is to communicate a decision by the CIO (not yet approved) on a path forward (the Guiding Policy), and what investments are needed to operationalize that decision (the coherent set of actions).
 
 ### Business Case
 
