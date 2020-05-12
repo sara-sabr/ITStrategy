@@ -349,7 +349,7 @@ Senior Advisors
   <tr>
     <td rowspan="4"><b>Architecture</b></td>
     <td>Get endorsement from EA</td>
-    <td>Engage with Enterprise Architecture, specifically Business Architecture, Solutions Architecture, and Technical Architecture teams to seek endorsement on the Alternate Delivery Model and their contribution</td>
+    <td>Engage with Enterprise Architecture, specifically Business Architecture, Solutions Architecture, and Technical Architecture teams to seek endorsement on the Target Delivery Model and their contribution</td>
     <td>
     <b><i>IT Strategy</i></b>
     EA<br>
@@ -477,7 +477,7 @@ The metrics are defined as follows:
     <th colspan="2">Collection Method</th>
 </tr>
 <tr>
-    <th>Alternate Model</th>
+    <th>Target Model</th>
     <th>Conventional Model</th>
 </tr>
 <tr>
@@ -607,7 +607,7 @@ The following traceability matrix is used to show alignment with various strateg
 <a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental IMIT Plan/19-20 Plans/IITB Moving Forward v2.docx">IITB Way Forward</a>/1. Adjust IITB leadership<br>
 <a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental IMIT Plan/19-20 Plans/IITB Moving Forward v2.docx">IITB Way Forward</a>/6a. Strengthen IM/IT Strategy<br>
 <a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental IMIT Plan/19-20 Plans/IITB Moving Forward v2.docx">IITB Way Forward</a>/6f. formalize requirements mgt framework<br>
-<a href="C:\local_docs\strategy_alternate_model\peer_reviews\dialogue\grp\IITB-DGIIT-Gov-New-Nouveau\Documents\Departmental IMIT Plan\19-20 Plans\ESDC IT Plan 2019-22 - FINAL.pdf">IT Plan</a>/Section II/Foundational
+<a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental IMIT Plan/19-20 Plans/ESDC IT Plan 2019-22 - FINAL.pdf">IT Plan</a>/Section II/Foundational
     </td>
 </tr>
 <tr>
@@ -684,6 +684,8 @@ IT Plan/Section II/Foundational
 
 A cross functional, multidisciplinary team that emphasize the collaboration and communication of both software developers and information technology (IT) professionals while automating the process of software delivery and infrastructure changes. A DevOps team complies with the [following standard IITB definition](https://014gc-my.sharepoint.com/:w:/g/personal/remy_bernard_hrsdc-rhdcc_gc_ca/EaU8oDNt7iJNj8Zy_M64TOkBVJBlFhQ2d_fzOuF2N6bt8A?e=F5HEeL).
 
+A copy of the Office 365 version is [available here]({{ site.baseurl }}/assets/files/standard-devops-team-definition.docx).
+
 **[Decentralized Version Control System (DVCS)](https://www.atlassian.com/blog/software-teams/version-control-centralized-dvcs)**
 
 Centralized version control systems are based on the idea that there is a single “central” copy of a software project somewhere (most likely on a server), and developers make code changes directly on this central copy.
@@ -732,9 +734,9 @@ In the conventional model, the Business Realization is expected to be realized a
 
 Example of a use case:
 
-**Alternate IT Solution Delivery Model**
+**Target IT Solution Delivery Model**
 
-The Alternate IT Solution Delivery Model has the same objective as the conventional one: deliver business value for money and reducing the risk with the use of technology. Contrary to the conventional model, it will do so with:
+The Target IT Solution Delivery Model has the same objective as the conventional one: deliver business value for money and reducing the risk with the use of technology. Contrary to the conventional model, it will do so with:
 
 - Limiting the size of IT Projects
 - Defining IT Project in its entirety as the iteration step towards an organizational business goal
