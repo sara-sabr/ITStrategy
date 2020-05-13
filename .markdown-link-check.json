@@ -16,6 +16,12 @@
       "pattern": "http://dialogue"
     },
     {
+      "pattern": "https://dialogue"
+    },
+    {
+      "pattern": "https://014gc.sharepoint.com"
+    },
+    {
       "pattern": "https://gcconnex.gc.ca"
     },
     {
@@ -53,6 +59,12 @@
     },
     {
       "pattern": "https://meet.jit.si"
+    },
+    {
+      "pattern": "https://framavox.org"
+    },
+    {
+      "pattern": "https://open.canada.ca"
     }
   ]
 }

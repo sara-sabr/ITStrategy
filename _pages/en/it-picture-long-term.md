@@ -1,6 +1,6 @@
 ---
 layout: default
-title: IT Picture - Long Term
+title: Long Term IT Picture
 ref: it-picture-long-term
 lang: en
 status: posted
@@ -10,9 +10,8 @@ permalink: /it-picture-long-term.html
 
 ## Long Term IT Picture - 2030
 
-- [Long Term IT Picture - 2030](#long-term-it-picture---2030)
-  - [GC Wide](#gc-wide)
-  - [IT within ESDC](#it-within-esdc)
+- [GC Wide](#gc-wide)
+- [IT within ESDC](#it-within-esdc)
 
 ### GC Wide
 
