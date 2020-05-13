@@ -8,13 +8,13 @@ date: "2020-04-21"
 last_modified: "2020-04-21"
 excerpt_separator: <!--more-->
 ---
-<!--markdownlint-disable MD026-->
 
 In a previous blog post, we highlighted that large changes and investments are increasing risks.
 Even if many kinds of research have informed the success of small projects are higher than large projects, many government departments and agencies still decide to proceed to implement large IT projects. The Canadian Digital Service (CDS) analyzed the [2016 data and 2019 data of IT projects][https://large-government-of-canada-it-projects.github.io/] in response of the ongoing and planned IT project over $1M where 87% of 94 are behind schedule and 56% of 97 are overbudget.  Today, let's have a look at the history of large IT projects in the GC and how the Government of Canada adapt to overcome the challenges.
-As the Government of Canada works to improve its use of information technology during its transition towards digital, we have reviewed 6 reports from (the Office of the Audit General of Canada (OAG))[https://www.oag-bvg.gc.ca/internet/English/parl_lp_e_933.html]. dated post 2003 on IT projects undertaken. 
+As the Government of Canada works to improve its use of information technology during its transition towards digital, we have reviewed 6 reports from (the Office of the Audit General of Canada (OAG))[https://www.oag-bvg.gc.ca/internet/English/parl_lp_e_933.html]. dated post 2003 on IT projects undertaken.
 
 ## Adapting to Priorities
+
 Looking back at the [2006 Audit Report](https://www.oag-bvg.gc.ca/internet/English/parl_oag_200611_03_e_14971.html), the Office of the Audit General of Canada (OAG) has assessed a sample of IT projects provided by the Treasury Board Secretariat (TBS).
 The issues raised in the previous audits were inadequate analysis of underlying business issues and support from senior executives and project ownership.
 OAG highlights for all IT projects to support business transformation and operational needs.
@@ -57,7 +57,7 @@ Other supporting documents included Treasury Board's Project Management Policy, 
 In August 2011, [Shared Services Canada (SSC)](https://orders-in-council.canada.ca/attachment.php?attach=24978&lang=en) was created to transform the existing IT infrastructure and services to help the 43 departments and agencies deliver services and programs to Canadians.
 In the [2015 Shared Services Audit Report](https://www.oag-bvg.gc.ca/internet/English/parl_oag_201602_04_e_41061.html#hd2d), SSC presented the seven-year transformation plan “to consolidate, standardize, and modernize the Government of Canada email, data centres, and network services to improve service, enhance security, and generate savings”.
 
-## Are Large IT Projects successful?
+## Are Large IT Projects successful
 
 The OAG placed recommendations to improve delivering IT project by strengthening the governance, business cases analysis, project management, and assessment capacity.
 As a result, projects still experience a deficient governance framework; some departments do not practise the commitments nor address the recommendations placed by the OAG.
