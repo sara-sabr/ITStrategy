@@ -365,7 +365,16 @@
     "operationalizing",
     "operationalized",
     "CMCP",
-    "chargeback"
+    "chargeback",
+    "COVID",
+    "Google's",
+    "demo'd",
+    "standup",
+    "Spotify",
+    "governmentized",
+    "specialties",
+    "siloed",
+    "practiced"
   ],
   "flagWords": [],
   "import": ["./node_modules/cspell-dict-fr-fr/cspell-ext.json"],
