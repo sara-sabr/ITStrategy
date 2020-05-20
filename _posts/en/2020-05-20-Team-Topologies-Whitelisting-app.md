@@ -1,0 +1,83 @@
+---
+layout: post
+title: "Team Topologies Inspired Whitelist App Development"
+ref: tt-whitelist
+lang: en
+author: "IT Strategy Team"
+date: "2020-05-20"
+last_modified: "2020-05-20"
+excerpt_separator: <!--more-->
+---
+
+## Context
+
+During the COVID19 situation there was an urgent need for an application to assist with the management of important information regarding the internal use of resources within the department. An application was built to avoid compiling an unmanageable list of spreadsheets with inconsistent data. The IT Strategy Team alongside the DTS team worked to create a solution using modern approaches and methodologies, which are described above. By using the below model, the team was informally formed on a Thursday late afternoon and was able to begin demoing the application to users the following Monday -- four days later (having worked through the weekend). By Tuesday, five days after work began, the team had several repositories worth of work, and a deployment pipeline automatically deploying changes to a development environment, and, at the time, manually triggering deployments to staging and production. Testing with users began on (TO-DO: Date), (TO-DO: Number of days) after development.
+
+## Model
+
+The methodology outlined throughout this document is heavily borrowed from [Team Topologies](https://teamtopologies.com/?gclid=EAIaIQobChMI4N2R7fzM6AIV1f_jBx2o3ACIEAAYASAAEgL8DPD_BwE).
+
+![Compare curves]({{ site.baseurl }}/assets/images/TTBlog-Figure1.PNG)
+_Figure 1_
+
+In a government context, the management model looked as follows
+
+![Compare curves]({{ site.baseurl }}/assets/images/TTBlog-Figure2.PNG)
+_Figure 2_
+
+It should be noted that in our case, the separation between the DTS platform team and the IT Strategy team was not as well defined as it appears here. For example, throughout the project the DTS resources attended the same standup meetings as the IT Strategy resources. Further, the value stream aligned team was composed of programmers from the DTS team as well. This model oversimplifies the complexities of life, of course. The reason why we have represented the interactions between the teams above is twofold. Firstly, to represent how responsibilities would be split between teams if this solution were to scale. In our case, the application was simple enough, and the team small enough, to permit for a mixing of resources as we did. As one scales, this becomes less feasible (keeping in mind we want to reduce the cognitive load on team members, and keep teams as small as possible, while still being able to deliver the product). The second reason the interactions have been represented this way, is to communicate how the technologies interacted. In between the teams we see XaaS, because this is the terminology used in the book, Team Topologies, that I am heavily leaning upon. I have recently begun to use a different term -- termination point. That is required is a termination point of responsibilities. In the case of our team, it was the termination point between members of the team, in large projects, it would be the termination point between different teams. A termination point is where the responsibilities of one group are transferred to another.
+
+In our case, the termination points were specific branches in our repository. For example, all of the code prior to, and included in, a merge with the staging branch, was the responsibility of those focused on the application development work. Once the code was pushed to this branch, a deployment pipeline was responsible for deploying and hosting the information. This is noteworthy, as the teams did not communicate through XaaS, per se, rather their work was coordinated through a termination point, whereby the responsibilities were separated. This serves the same function as the XaaS in Figure 2. Namely, that a team's work can be provided to others through an automated service, whether that be XaaS, or through some agreed upon termination point. Enforcing this is critical, as without it, deployment on demand can never be realized. This behaviour and way of working is where standards are required. Standardizing automated communication (while not specifying specific tools) is crucial for scaling automation and achieving deployment on demand.
+
+For this project, a manager acted as the product owner for each of the teams, the Value Stream Aligned Team, the DTS Platform Team, and the second SE Platform Team. Please note this does not need to be the case. Actually, ideally it should not be the case. The product owner (the one responsible for prioritizing the work of the team) should be someone from business (albeit with technical knowledge or understanding). One model often referenced is the so-called, and poorly named, “Spotify model”, which is only used here as a demonstration of an alternate model whereby product owners and managers needn’t be the same person. While this is generally the model that was used, it is abstracting away complexities that make it difficult for this model to work well in a government context. For example, the director at the top who is responsible for the management of the product is not the director for all of the teams in the box, though he is responsible for the platform, which makes reporting, hierarchies, and performance management a potential issue.
+
+![Compare curves]({{ site.baseurl }}/assets/images/TTBlog-Figure3.PNG)
+_Figure 3_
+
+In the above model, the squads are managed by Product Owners (POs) while the chapters would be managed by managers. The person located in the top right could be out director, or we could say our Product Manager. Once we merge the above model with the governmentized Team Topologies model, we could produce a more desirable model that looks something as follows
+
+![Compare curves]({{ site.baseurl }}/assets/images/TTBlog-Figure4.PNG)
+_Figure 4_
+
+To make this easier to view we have removed details from the initial model, though it still applies. For example, the method of communication, though long term the interactions between teams should strive to be XaaS. That is, the interactions between teams are automated as a service that is provided to other teams. Further, there is the possibility to add enabling teams to the vertical teams identified here.
+
+## Why
+
+### Team Structure
+
+This model is advisable over other commonly found structures as it builds in cross functional teams without dismantling the existing reporting structures within government. In order to rapidly deliver value to users, it is important that the team has all of the competencies required to deliver the product -- business knowledge, application development, quality assurance, security, accessibility, and so on. This model allows teams with specialties to work embedded within teams, in order to reduce the number of context switches and handoffs between teams, which greatly reduce flow. Further, having a manager manage individuals with similar skill sets allows the manager to handle talent management for the team, while the product owner, who should be from the business without necessarily having any technical expertise (though they should have technical understanding) focuses on the priorities for the product.
+
+### Application Structure
+
+As covered previously, the aim is for automation (through XaaS or termination points) to be the overwhelmingly dominant method of communications between teams, especially for approvals. If even one team does not follow the standard of automating approvals, then deployment on demand, the ability to constantly deliver value to our clients, is dead in the water. Before cloud services, if a government employee wanted to have a virtual machine created in a data center they had to open tickets, create work request documentation, get approvals, send the work to another team after a series of handoffs, and so forth. With cloud technologies one is able to create the next generation virtualized technologies within minutes from anywhere in the world -- no coordination with other teams required. This is the same model of service that teams should offer to one another within the organization, with the added benefit of still being colleagues and being able to reach out for help, support, or have more say in future services that are to be implemented, as the internal service providers have a very limited set of customers, so should be able to provide very customized products to fit the needs of their internal users.
+
+By creating a structure where the application team and the platform team are separate, this, via Conway's Law, will promote an architecture where the systems are loosely coupled and independent from one another. The team structure itself is intended to impact the architecture of the decision.
+
+### Flow
+
+Both of the above two sections have been focused on increasing flow of business value to users, through reducing handoffs between teams, and increasing the flow of information between teams through automation. In Figure 1 there is a purple team listed as an Enabling team. The use of enabling teams is another tool with which to increase flow. As discussed in the Team Structure section, the teams are designed to reduce handoffs and increase flow. As such, if there are missing competencies within the team the team must onboard those competencies into the team. One option would be to bring the expertise into the team permanently as a new team member, though this approach has two considerations one must take into account.
+
+Is this a competency required for the duration of the project? If not, a new team member is not the optimal choice, as it is preferable to not interchange members of the team frequently.
+Do not grow the team too large. Ideally we want to keep the agile teams as small as possible, given that the required competencies to deliver business value exist within the team. That means, all things being equal, it is preferable to enhance the skills of a team rather than onboard a new person, if this is an option.
+
+If the team requires a skill that it is missing, this is where an enabling team comes it. It exists temporarily and collaborates with the team for a short time, in order to get the product team up to speed. During this time, the interaction method would be one of collaboration (this is in contrast with the interaction mode between teams, which is XaaS). If the team requires some functionality that requires very difficult skill sets than the ones existing within the team, this may be a natural fracture plan whereby one could create a seperate team, and then have the teams communicate via XaaS rather than through direct collaboration in an enabling capacity. For further discussion regarding the details of this approach, it is recommended to read Team Topologies, referenced to and linked to above.
+
+It is for this reason, enabling flow within the team and upskilling the team to have the skills required to deliver business value, that champions were designed (listed below). The idea of a champion is to have a member of the team focus on a given area and be dedicated to its improvement. For example, the accessibility champion would be responsible for (not accountable for, as the whole team is always responsible for the whole product) identifying and ideally rectifying issues pertaining to their focus. Ideally, if there is a team dedicated to accessibility, for example, the champion should reach out in order to identify existing best practices within the organization. Another option would have been to onboard an accessibility resource (using accessibility as an example, the same is true for any competency the team is lacking), however, we had difficulties finding a dedicated accessibility resource given the circumstances, so a champion was leveraged instead.
+
+### Roles
+
+Champions are roles where members of the team allocated the lion's share of their time towards a given area, such as security or accessibility. It is important to note that in this model, the team is ultimately responsible for everything, so the individual themselves is not responsible for security -- the team is. However, one individual within the team will pay particular attention to opening issues, documenting, and resolving the issues. The resolving part is important, as everything is about increasing the flow of business value to users. Documents do not increase business value to users, improving the solution itself does, which is where the focus should be. As per the agile manifesto, working software over comprehensive documentation.
+
+Of course, the aforementioned description is that which ought to exist. During this project, we were unable to find a dedicated security resource with skills required (able to identify and commit changes to the code base). As such, we found two resources with the interest and skills required who were able to contribute on a best effort basis. The existing team attempted to assist by picking up work items that were suggested by the security champions, though could not be completed.
+
+## Conclusion
+
+When the Spotify model became popularized it eventually led to Spotify doing a talk about how there is no Spotify model, as by the time people had seen the model, it had changed. It is important to note that no model used, or proposed, is intended to be static. For example, ideally the teams interact through XaaS, though during the initial creation of the teams, it was treated much more as one team, relying on collaboration of XaaS before XaaS was in place. Even after XaaS was in place, from time to time more in depth collaboration was made between the teams. We could have re-created the model each time methods of collaboration changed, though this would become an arduous task. When working in this way, with service oriented architecture what is more important than any particular technical standard, per se, is core principles (which one could call a standard, though runs the risk of overloading the term) that are strictly adhered to by all teams. This becomes the glue that holds the organization together, rather than restricting flow and innovation with standards. As written in Accelerate,
+
+“The goal is for your architecture to support the ability of teams to get their work done—from design through to deployment—without requiring high-bandwidth communication between teams.
+
+Architectural approaches that enable this strategy include the use of bounded contexts and APIs as a way to decouple large domains into smaller, more loosely coupled units, and the use of test doubles and virtualization as a way to test services or components in isolation. Service-oriented architectures are supposed to enable these outcomes, as should any true microservices architecture. However, it’s essential to be very strict about these outcomes when implementing such architectures. Unfortunately, in real life, many so-called service-oriented architectures don’t permit testing and deploying services independently of each other, and thus will not enable teams to achieve higher performance.”
+
+This document is intended to contribute to the conversation regarding how the government could modify its approach to software development in order to transition away from the current siloed approaches that are commonly practiced to deliver software. Through the aforementioned approach the intent is to increase the organization's ability to deliver value to Canadians, and improve their performance on the following four core metrics: lead time, release frequency, time to restore service, and change fail rate.
+
+_For further discussion as to why these metrics were chosen please reference [DevOps Research and Assessment (DORA) - How to Transform](https://cloud.google.com/solutions/devops/devops-culture-transform) and the book explaining the findings of the [State of DevOps Reports (2019 PDF)](https://services.google.com/fh/files/misc/state-of-devops-2019.pdf), [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://itrevolution.com/book/accelerate/). For more discussions aimed at equipping government organizations to improve upon digital service delivery to Canadians, please visit the [IT Strategy website](https://sara-sabr.github.io/ITStrategy/home.html), the authors of this document._
