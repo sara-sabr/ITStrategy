@@ -13,8 +13,11 @@ excerpt_separator: <!--more-->
 
 During the COVID19 situation there was an urgent need for an application to assist with the management of important information regarding the internal use of resources within the department. An application was built to avoid compiling an unmanageable list of spreadsheets with inconsistent data. The IT Strategy Team alongside DTS worked to create a solution using modern approaches and methodologies, which are described below. By using the below model, the team was informally formed on a Thursday late afternoon and was able to begin demoing the application to users the following Monday -- four days later (having worked through the weekend). By Tuesday, five days after the work began, the team had several repositories worth of work. An automated deployment pipeline was created in order to deploy changes to a development environment. Staging and production environments were also set up though at the time deployment to these was still manually triggered. On the tenth day of work the team was able to demo the application to the CIO. Less than a month later, the PB Cloud environment became available at 11am, and within minutes we had the environment up and running, and were able to have users on the application to test by 1:00pm, only two hours later.
 
+<<<<<<< HEAD
 <!--more-->
 
+=======
+>>>>>>> TTBlog
 While these timelines are ahead of what is typically found in government environments, it is only a starting point. My personal goal has always been to match Google's ninety minutes to create a prototype for Google Glass (reference [How Google Works](https://www.goodreads.com/book/show/23158207-how-google-works)). If we were to have demo'd the application to the CIO after 90 minutes of having started work, the only remaining question would be to how to get that number down to 60 minutes. Never stop improving.
 
 ## Model
