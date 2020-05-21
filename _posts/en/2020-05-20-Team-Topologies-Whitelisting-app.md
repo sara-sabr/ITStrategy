@@ -45,7 +45,7 @@ In the above model, the squads are managed by Product Owners (POs) while the cha
 ![Final Government Team Topologies Model]({{ site.baseurl }}/assets/images/TTBlog-Figure4.PNG)
 _Figure 4_
 
-To make this easier to view we have removed details from the initial model, though it still applies. For example, the method of communication, though long term the interactions between teams should strive to be XaaS. That is, the interactions between teams are automated as a service that is provided to other teams. Further, there is the possibility to add enabling teams to the vertical teams identified here.
+To make this easier to view we have removed details from the initial model, though it still applies. For example, the method of communication, though long term the interactions between teams should strive to be through automated means. That is, the interactions between teams are automated as a service that is provided to other teams. Further, there is the possibility to add enabling teams to the vertical teams identified here.
 
 ## Why
 
