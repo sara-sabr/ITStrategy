@@ -23,12 +23,12 @@ While these timelines are ahead of what is typically found in government environ
 
 The methodology outlined throughout this document is heavily borrowed from [Team Topologies](https://teamtopologies.com/?gclid=EAIaIQobChMI4N2R7fzM6AIV1f_jBx2o3ACIEAAYASAAEgL8DPD_BwE).
 
-![Compare curves]({{ site.baseurl }}/assets/images/TTBlog-Figure1.PNG)
+![Team Topologies model]({{ site.baseurl }}/assets/images/TTBlog-Figure1.PNG)
 _Figure 1_
 
 In a government context, the management model looked as follows
 
-![Compare curves]({{ site.baseurl }}/assets/images/TTBlog-Figure2.PNG)
+![Government Team Topologies Model]({{ site.baseurl }}/assets/images/TTBlog-Figure2.PNG)
 _Figure 2_
 
 It should be noted that in our case, the separation between the DTS platform team and the IT Strategy team was not as well defined as it appears here. For example, throughout the project the DTS resources attended the same standup meetings as the IT Strategy resources. Further more, the value stream aligned team was composed of programmers from the DTS team as well. The reason why we have represented the interactions between the teams above is twofold. Firstly, to represent how responsibilities would be split between teams if this solution were to scale. In our case, the application was simple enough, and the team small enough, to permit for a mixing of resources as we did. As one scales, this becomes less feasible (keeping in mind we want to reduce the cognitive load on team members, and keep teams as small as possible, while still being able to deliver the product). The second reason the interactions have been represented this way, is to communicate how the technologies interacted. In between the teams we see XaaS (Anything as a Service), because this is the terminology used in the book, Team Topologies, that I am heavily leaning upon. I have recently begun to use a different term -- termination point. That is required is a termination point of responsibilities. In the case of our team, it was the termination point between members of the team, in large projects, it would be the termination point between different teams. A termination point is where the responsibilities of one group are transferred to another.
@@ -37,12 +37,12 @@ In our case, the termination points were specific branches in our repository. Fo
 
 For this project, a manager acted as the product owner for each of the teams, the Value Stream Aligned Team, the DTS Platform Team, and the second SE Platform Team. Please note this does not need to be the case. Actually, ideally it should not be the case. The product owner (the one responsible for prioritizing the work of the team) should be someone from business (albeit with technical knowledge or understanding). One model often referenced is the so-called, and poorly named, “Spotify model”, which is only used here as a demonstration of an alternate model whereby product owners and managers needn't be the same person. While this is generally the model that was used, it is abstracting away complexities that make it difficult for this model to work well in a government context. For example, the director at the top who is responsible for the management of the product is not the director for all of the teams in the box, though he is responsible for the platform, which makes reporting, hierarchies, and performance management a potential issue.
 
-![Compare curves]({{ site.baseurl }}/assets/images/TTBlog-Figure3.PNG)
+![Spotify Model]({{ site.baseurl }}/assets/images/TTBlog-Figure3.PNG)
 _Figure 3_
 
 In the above model, the squads are managed by Product Owners (POs) while the chapters would be managed by managers. The person located in the top left could be the director. In this case, they would play the role of the Product Manager. Once we merge the above model with the governmentized Team Topologies model, we could produce a more desirable model that looks something as follows
 
-![Compare curves]({{ site.baseurl }}/assets/images/TTBlog-Figure4.PNG)
+![Final Government Team Topologies Model]({{ site.baseurl }}/assets/images/TTBlog-Figure4.PNG)
 _Figure 4_
 
 To make this easier to view we have removed details from the initial model, though it still applies. For example, the method of communication, though long term the interactions between teams should strive to be XaaS. That is, the interactions between teams are automated as a service that is provided to other teams. Further, there is the possibility to add enabling teams to the vertical teams identified here.
