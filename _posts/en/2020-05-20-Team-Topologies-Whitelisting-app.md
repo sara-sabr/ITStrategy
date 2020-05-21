@@ -40,7 +40,7 @@ For this project, a manager acted as the product owner for each of the teams, th
 ![Compare curves]({{ site.baseurl }}/assets/images/TTBlog-Figure3.PNG)
 _Figure 3_
 
-In the above model, the squads are managed by Product Owners (POs) while the chapters would be managed by managers. The person located in the top right could be out director, or we could say our Product Manager. Once we merge the above model with the governmentized Team Topologies model, we could produce a more desirable model that looks something as follows
+In the above model, the squads are managed by Product Owners (POs) while the chapters would be managed by managers. The person located in the top left could be the director. In this case, they would play the role of the Product Manager. Once we merge the above model with the governmentized Team Topologies model, we could produce a more desirable model that looks something as follows
 
 ![Compare curves]({{ site.baseurl }}/assets/images/TTBlog-Figure4.PNG)
 _Figure 4_
