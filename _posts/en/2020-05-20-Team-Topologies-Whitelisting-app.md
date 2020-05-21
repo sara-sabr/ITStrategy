@@ -3,7 +3,7 @@ layout: post
 title: "Team Topologies Inspired Whitelist App Development"
 ref: tt-whitelist
 lang: en
-author: "IT Strategy Team"
+author: "Jayson McIntosh"
 date: "2020-05-20"
 last_modified: "2020-05-20"
 excerpt_separator: <!--more-->
