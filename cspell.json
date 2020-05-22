@@ -374,7 +374,8 @@
     "governmentized",
     "specialties",
     "siloed",
-    "practiced"
+    "practiced",
+    "Odoo"
   ],
   "flagWords": [],
   "import": ["./node_modules/cspell-dict-fr-fr/cspell-ext.json"],
