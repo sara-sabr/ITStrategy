@@ -23,13 +23,25 @@ While these timelines are ahead of what is typically found in government environ
 
 The methodology outlined throughout this document is heavily borrowed from [Team Topologies](https://teamtopologies.com/?gclid=EAIaIQobChMI4N2R7fzM6AIV1f_jBx2o3ACIEAAYASAAEgL8DPD_BwE).
 
-![Team Topologies model]({{ site.baseurl }}/assets/images/TTBlog-Figure1.PNG)
-_Figure 1_
+![Figure 1: Team Topologies Model]({{ site.baseurl }}/assets/images/TTBlog-Figure1.PNG)
+
+Figure 1: Team Topologies model
+
+<details><summary>Text description of Figure 1</summary>
+This image shows a yellow box at the top representing the “Value Aligned Team”. This box is linked via XaaS to a blue box representing the “Platform Teams”.  Within the blue box, there are two platform teams that are also linked together via XaaS. In the case of the whitelisting application, the Value Aligned team is the IT Strategy team and the Platform Teams are DTS and SE.  Both of the “Platform teams” are linked internally via XaaS.  The SE platform team has one enabling contributor - Microsoft.</details>
+
+&nbsp;
 
 In a government context, the management model looked as follows
 
-![Government Team Topologies Model]({{ site.baseurl }}/assets/images/TTBlog-Figure2.PNG)
-_Figure 2_
+![Figure 2: Government Team Topologies Model]({{ site.baseurl }}/assets/images/TTBlog-Figure2.PNG)
+
+Figure 2: Government Team Topologies Model
+
+<details><summary>Text description of Figure 2</summary>
+Figure 2 is very similar to Figure 1.  It shows a yellow box at the top representing the “Value Aligned Team”. This box is linked via XaaS to a blue box representing the “Platform Teams”.  Within the blue box, there are two platform teams that are also linked together via XaaS. (in the case of the whitelisting application, the Value Aligned team is the IT Strategy team and the Platform Teams are DTS and SE).  Both of the “Platform teams” are linked internally via XaaS.  The SE platform team has one enabling contributor - Microsoft. In addition figure 2 also shows a stick figure director at the top and a box around the entire image demonstrating that a single director was responsible for the Value Stream Aligned Team and the two Platform Teams. Also on the left hand side next to the yellow and the blue box are three stick figure managers demonstrating that there was one manager for each of the 3 teams.</details>
+
+&nbsp;
 
 It should be noted that in our case, the separation between the DTS platform team and the IT Strategy team was not as well defined as it appears here. For example, throughout the project members from DTS attended the same standup meetings as the members of IT Strategy. Further more, the value stream aligned team was composed of programmers from the DTS team as well. The reason why we have represented the interactions between the teams above is twofold. Firstly, to represent how responsibilities would be split between teams if this solution were to scale. In our case, the application was simple enough, and the team small enough, to permit for a mixing of teams as we did. As one scales, this becomes less feasible (keeping in mind we want to reduce the cognitive load on team members, and keep teams as small as possible, while still being able to deliver the product). The second reason the interactions have been represented this way, is to communicate how the technologies interacted. In between the teams we see XaaS (Anything as a Service), because this is the terminology used in the book, Team Topologies, that I am heavily leaning upon. I have recently begun to use a different term -- termination point. What is required is a termination point of responsibilities. In the case of our team, it was the termination point between members of the team, in large projects, it would be the termination point between different teams. A termination point is where the responsibilities of one group are transferred to another.
 
@@ -44,8 +56,14 @@ _Figure 3_
 
 In the above model, the squads are managed by Product Owners (POs) while the chapters would be managed by managers. The person located in the top left could be the director. In this case, they would play the role of the Product Manager. Once we merge the above model with the governmentized Team Topologies model, we could produce a more desirable model that looks something as follows
 
-![Final Government Team Topologies Model]({{ site.baseurl }}/assets/images/TTBlog-Figure4.PNG)
-_Figure 4_
+![Figure 4: Final Government Team Topologies Model]({{ site.baseurl }}/assets/images/TTBlog-Figure4.PNG)
+
+Figure 4: Final Government Team Topologies Model
+
+<details><summary>Text Description of Figure 4</summary>
+This image shows three columns.  The left hand column in yellow represents the “Value Stream Aligned Team” and the two columns to the right of that in blue represent the Platform Teams.  At the top of each column is a stick figure representing that team’s Product Owner (PO).  Within each column there are five stick figures.  There are five horizontal boxes with dashed outlines going across each column containing one stick figure from each of the columns.  The horizontal box demonstrates that there are people from each team with the same skill sets. Next to each horizontal box is a stick figure representing the manager for all those in the horizontal box which have the same skill sets.  In the top left hand corner of the image is a stick figure representing the Product Manger who works with all the people represented in the diagram. </details>
+
+&nbsp;
 
 To make this easier to view we have removed details from the initial model, though it still applies. For example, regarding the method of communication, the ultimate goal would be for interactions between teams to be through automated means. That is, the interactions between teams are automated as a service that is provided to other teams. Further, there is the possibility to add enabling teams to the vertical teams identified here.
 
