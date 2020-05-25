@@ -4,7 +4,7 @@ title: Travailler ouvertement
 ref: how-to-contribute
 lang: fr
 status: posted
-sections: À propos de nous
+sections: Archives
 permalink: /comment-contribuer.html
 ---
 

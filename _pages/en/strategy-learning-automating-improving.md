@@ -4,7 +4,7 @@ title: Q1 Strategy - Continuous Improvement and Learning
 ref: strategy-q1-2020
 lang: en
 status: posted
-sections: Quarterly Strategies
+sections: Archives
 permalink: /strategy-learning-automating-improving.html
 ---
 
