@@ -366,6 +366,7 @@
     "operationalized",
     "CMCP",
     "chargeback",
+<<<<<<< HEAD
     "Thuy",
     "Pham",
     "analyzed",
@@ -374,6 +375,18 @@
     "RIMC",
     "CBSA",
     "overbudgeting"
+=======
+    "COVID",
+    "Google's",
+    "demo'd",
+    "standup",
+    "Spotify",
+    "governmentized",
+    "specialties",
+    "siloed",
+    "practiced",
+    "Odoo"
+>>>>>>> master
   ],
   "flagWords": [],
   "import": ["./node_modules/cspell-dict-fr-fr/cspell-ext.json"],
