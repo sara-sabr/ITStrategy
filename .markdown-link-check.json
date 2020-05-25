@@ -65,6 +65,9 @@
     },
     {
       "pattern": "https://open.canada.ca"
+    },
+    {
+      "pattern": "https://www.pcloud.com"
     }
   ]
 }
