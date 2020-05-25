@@ -13,6 +13,7 @@ permalink: /archives-fr.html
 
 ### Archives
 
+<!-- markdownlint-disable MD033 -->
 <ul>
   {%- for page in aPage -%}
     <li>
