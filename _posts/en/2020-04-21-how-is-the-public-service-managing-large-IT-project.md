@@ -44,7 +44,7 @@ The Framework addressed policies and standards to effectively manage IT projects
 TBS included Policy on Investment Planning in the Framework to improve the management oversight of investment of IT projects and consider the policies and standards.
 Departments will have to demonstrate a minimum five-year investment plan upon submission and require an update every two years.
 The policy was then replaced with the Policy on the Planning and Management of Investments on October 19, 2019.
-The Canada Revenue Agency also created a multi-year strategic investment plan and the Resources and Investment Management Committee (RIMC) to improve the monitoring of all projects and provide recommendatgions to the Agency Management Committee.
+The Canada Revenue Agency also created a multi-year strategic investment plan and the Resources and Investment Management Committee (RIMC) to improve the monitoring of all projects and provide recommendations to the Agency Management Committee.
 
 The support and analysis of the IT projects status enhanced using the IT-enabled Project Portfolio Status Report.
 The monitoring and reporting report is required on a semi-annual basis and also reviewed by the ADM Executive Project Oversight Committee.
