@@ -11,7 +11,7 @@
       <!-- Menu -->
       <ul class="navbar-nav ml-auto">
         <!--About Us - A propos de nous-->
-        {%- assign dropdown_section=site.sectionsList[page.lang][3]-%}
+        {%- assign dropdown_section=site.pagesAbout[page.lang]-%}
         {%- assign dropdown_title=dropdown_section-%}
         {%- assign dropdown_id = "navbarDropdownAbout" -%}
         {% include dropdown.html %}
