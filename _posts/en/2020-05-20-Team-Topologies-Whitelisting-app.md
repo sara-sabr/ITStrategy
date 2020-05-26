@@ -51,8 +51,15 @@ For this project, an IT manager acted as the product owner for each of the teams
 
 One model often referenced is the so-called, and poorly named, “Spotify model”, which is only used here as a demonstration of an alternate model whereby product owners and managers needn't be the same person. While this is generally the model that was used, it is abstracting away complexities that make it difficult for this model to work well in a government context. For example, the director at the top who is responsible for the management of the product is not the director for all of the teams in the box, though he is responsible for the platform, which makes reporting, hierarchies, and performance management a potential issue.
 
-![Spotify Model]({{ site.baseurl }}/assets/images/TTBlog-Figure3.PNG)
-_Figure 3_
+![Spotify Model]({{ site.baseurl }}/assets/images/TTBlog-Figure3New.PNG)
+
+Figure 3: Spotify Model
+
+<details><summary>Text Description of Figure 3</summary>
+This image shows two groups of employees.  Within each group there are four blue ovals representing 4 squads.  Each of the squads report to a Product Owner.  Across each squad there are employees with similar skill sets which are referred to as chapters.  This image shows two chapters per group. The green boxes that represent the chapters go horizontally across the four squads with one employee per squad.   There is a purple shape enclosed in a dotted line which represents a Guild.  This guild includes members across the two groups as well as across the chapters and the squads.
+</details>
+
+&nbsp;
 
 In the above model, the squads are managed by Product Owners (POs) while the chapters would be managed by managers. The person located in the top left could be the director. In this case, they would play the role of the Product Manager. Once we merge the above model with the governmentized Team Topologies model, we could produce a more desirable model that looks something as follows
 
