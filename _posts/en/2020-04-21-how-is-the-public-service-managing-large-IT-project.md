@@ -93,8 +93,9 @@ They have not shown to be consistent with meeting current and future requirement
 The departments and agencies' solution seems to be to [reduce the scope of the projects and extend the timelines](https://www.oag-bvg.gc.ca/internet/English/parl_oag_201106_02_e_35370.html), in an effort to increase the likelihood of success.
 The governance Framework remains the constant challenge to manage the IT project.
 The only management key criteria that have progressed in the projects are the organizational capacity and Project Risk Management.
- 
-## What's Next? 
-The public service has faced decades of consistent challenges in managing large IT projects. Although the issues were raised, the departments and agencies were unable to adapt to the OAG recommendations. This comes that considering long-term projects is riskier and costly to organizations. 
+
+## What's Next
+
+The public service has faced decades of consistent challenges in managing large IT projects. Although the issues were raised, the departments and agencies were unable to adapt to the OAG recommendations. This comes that considering long-term projects is riskier and costly to organizations.
 
 All projects had the right mindset: Introducing an improvement and/or solving a problem. We have explored new initiatives to deliver programs and services to Canadians. Being educated from our past results could be an opportunity, and a time, to try something different to transform our ideas into reality: reducing the size of IT projects to [reduce risks associated with IT and enable organizational agility](https://sara-sabr.github.io/ITStrategy/2019/12/20/why-we-are-promoting-risks.html)
