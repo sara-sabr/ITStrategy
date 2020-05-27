@@ -5,12 +5,15 @@ ref: how-is-the-public-service-managing-large-IT-project.md
 lang: en
 author: My Thuy Pham-Vo on behalf of the"IT Strategy Team"
 date: "2020-04-21"
-last_modified: "2020-04-21"
+last_modified: "2020-05-27"
 excerpt_separator: <!--more-->
 ---
 
 In a previous blog post, we highlighted that large changes and investments are increasing risks.
-Even if many kinds of research have informed the success of small projects are higher than large projects, many government departments and agencies still decide to proceed to implement large IT projects. The Canadian Digital Service (CDS) analyzed the [2016 data and 2019 data of IT projects](https://large-government-of-canada-it-projects.github.io/) in response of the ongoing and planned IT project over $1M where 87% of 94 are behind schedule and 56% of 97 are overbudget.  Today, let's have a look at the history of large IT projects in the GC and how the Government of Canada adapt to overcome the challenges.
+Even if many kinds of research have informed the success of small projects are higher than large projects, many government departments and agencies still decide to proceed to implement large IT projects.
+<!--more-->
+The Canadian Digital Service (CDS) analyzed the [2016 data and 2019 data of IT projects](https://large-government-of-canada-it-projects.github.io/) in response of the ongoing and planned IT project over $1M where 87% of 94 are behind schedule and 56% of 97 are overbudget.
+Today, let's have a look at the history of large IT projects in the GC and how the Government of Canada adapt to overcome the challenges.
 As the Government of Canada works to improve its use of information technology during its transition towards digital, we have reviewed 6 reports from [the Office of the Audit General of Canada(OAG)](https://www.oag-bvg.gc.ca/internet/English/parl_lp_e_933.html). dated post 2003 on IT projects undertaken.
 
 ## Adapting to Priorities
@@ -19,7 +22,7 @@ Looking back at the [2006 Audit Report](https://www.oag-bvg.gc.ca/internet/Engli
 The issues raised in the previous audits were inadequate analysis of underlying business issues and support from senior executives and project ownership.
 OAG highlights for all IT projects to support business transformation and operational needs.
 All project submissions must also consider IT components.
-the subsequent OAG reports highlights the same challenges as the 2006 OAG Audit Report in delivering large IT projects
+The subsequent OAG reports highlights the same challenges as the 2006 OAG Audit Report in delivering large IT projects.
 First, the attention and support of senior management must improve internal reviews of IT projects, including the evaluation and analysis of key decision documents.
 Nearly all the reports acknowledge the need to strengthen the project governance and accountability.
 The reports also state that projects were approved even if the proposals did not meet the prerequisite requirements.
@@ -31,7 +34,8 @@ OAG highly recommends all organizations to develop a strategic approach in the I
 This Spring Auditor General Report leads to formalizing the approach to [Application Portfolio Management (APM)](https://www.gcpedia.gc.ca/wiki/OCIO_Application_Portfolio_Management) across the federal departments and the creation of a TBS requirement for departments to report on health of their critical infrastructure.
 
 The IT investments have been a serious obstacle in the assessment for all departments, whether it's the IT projects to improve old Age systems or a new initiative to improve the operational efficiency and the strategic objectives of the departments.
-The business case needs to be enhanced as it is described as “a detailed investment proposal that provides an analysis of all the costs, benefits and risks associated with a proposed investment and offers reasonable alternatives.” The IT investment plan should strengthen the alignments with the management practices to help organizations manage and meet the strategic corporate objectives.
+The business case needs to be enhanced as it is described as “a detailed investment proposal that provides an analysis of all the costs, benefits and risks associated with a proposed investment and offers reasonable alternatives.”
+The IT investment plan should strengthen the alignments with the management practices to help organizations manage and meet the strategic corporate objectives.
 
 ## Addressing the List of Recommendations
 
@@ -79,7 +83,7 @@ Every report state that details were not clear and sufficient to implement the p
 In the 2006 Audit, OAG was unable to access analysis or evidence of project document review by TBS.
 TBS is known “to review the risks associated with departmental project proposals.” Due to being denied access to the documents, OAG was unable to fully assess if the practices of the EMF were applied to government policies and guidelines.
 Even if the department manages to develop a proper framework, it is required to follow the requirements and commitments.
-For instance, the Canada Border Service Agency (CBSA) submitted a complete and comprehensive Project Portfolio Management Framework but failed to deliver the requirements, which led to more challenges
+For instance, the Canada Border Service Agency (CBSA) submitted a complete and comprehensive Project Portfolio Management Framework but failed to deliver the requirements, which led to more challenges.
 
 Public Service and Procurement identified the aging IT risk in the 40-year-old pay system in 2009.
 The Government's Transformative of Pay Administrative Initiative still led to a big failure.
