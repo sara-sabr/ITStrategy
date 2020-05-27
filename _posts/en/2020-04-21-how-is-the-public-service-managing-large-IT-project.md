@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 ---
 
 In a previous blog post, we highlighted that large changes and investments are increasing risks.
-Even if many kinds of research have informed the success of small projects are higher than large projects, many government departments and agencies still decide to proceed to implement large IT projects. The Canadian Digital Service (CDS) analyzed the [2016 data and 2019 data of IT projects](https://large-government-of-canada-it-projects.github.io/) in response of the ongoing and planned IT project over $1M where 87% of 94 are behind schedule and 56% of 97 are overbudget.  Today, let's have a look at the history of large IT projects in the GC and how the Government of Canada adapt to overcome the challenges.
+Even if many kinds of research have informed the success of small projects are higher than large projects, many government departments and agencies still decide to proceed to implement large IT projects.<!--more-->The Canadian Digital Service (CDS) analyzed the [2016 data and 2019 data of IT projects](https://large-government-of-canada-it-projects.github.io/) in response of the ongoing and planned IT project over $1M where 87% of 94 are behind schedule and 56% of 97 are overbudget.  Today, let's have a look at the history of large IT projects in the GC and how the Government of Canada adapt to overcome the challenges.
 As the Government of Canada works to improve its use of information technology during its transition towards digital, we have reviewed 6 reports from [the Office of the Audit General of Canada(OAG)](https://www.oag-bvg.gc.ca/internet/English/parl_lp_e_933.html). dated post 2003 on IT projects undertaken.
 
 ## Adapting to Priorities
