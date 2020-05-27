@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Build vs Buy Strategy
+title: User Build vs Buy Strategy
 ref: buy-vs-build
 lang: en
 status: posted
-sections: Work In Progress
+sections: Archives
 permalink: /buy-vs-build-start.html
 ---
 
