@@ -28,7 +28,7 @@ For the primary application or service you work on, how long does it generally t
 
 ### Change fail percentage
 
-For the primary application or service you work on, what percentage of changes to production or releases to users result in degraded service (e.g., lead to service impairment or service outage) and subsequently require remediation (e.g., require a hotfix, rollback, fix forward, patch)?
+For the primary application or service you work on, what percentage of changes to production or releases to users result in degraded service (e.g., lead to service impairment or service outage) and subsequently require remediation (e.g., require a patch, rollback, fix forward, patch)?
 
 ### Goals
 
@@ -71,7 +71,7 @@ High software delivery performance
 
 #### 1.1 Version control
 
-##### 1.1.1. Objectives
+##### 1.1.1. Outcomes
 
 Teams use version control for source code, test and deployment scripts, infrastructure and application configuration information, and the many libraries and packages they depend upon.
 
@@ -97,7 +97,7 @@ Application configuration
 Scripts for automating build and configuration
 
 - What percentage do you store in version control?
-- How quickly and easily can you reprovision systems by using scripts from version control?
+- How quickly and easily can you re-provision systems by using scripts from version control?
 
 Others
 
@@ -121,12 +121,12 @@ How to measure?
 - Ensure that every commit to version control triggers the automated creation of packages that can be deployed to any environment using only information in version control.
 - Make it possible to create production-like test environments on demand using only scripts and configuration information from version control, and to create packages using the automated process described in the previous approach.
 - Work in the open on Github, Gitlab, NPM, Docker Hub, ..
-- Work on shared GC version control ssytem (GCcode)
+- Work on shared GC version control system (GCcode)
 - Work on official internal ESDC version control system (TFS, Azure Dev,,)
 
 #### 1.2 Continuous integration
 
-##### 1.2.1 Objectives
+##### 1.2.1 Outcomes
 
 Teams must integrate all their work into the main version of the code base on a regular basis.
 Changes must trigger automated builds of the software and a series of automated tests that provide feedback in a few minutes.
@@ -164,13 +164,13 @@ How to measure?
 - Trigger quick tests on every change (unit tests) for quick feedback
 - Make fixing a broken build a priority
 - Limit tests to 10 minutes
-- Merge changes frenquently into trunk
+- Merge changes frequently into trunk
 
 ### 2. Process Capabilities
 
 #### 2.2 Streamlining change approval
 
-##### 2.2.1 Objectives
+##### 2.2.1 Outcomes
 
 ...
 
@@ -196,15 +196,15 @@ How to measure?
 
 ### 4. Cultural capabilities
 
-####  4.2 Westrum organizational culture
+#### 4.2 Westrum organizational culture
 
-##### 4.2.1 Objectives
+##### 4.2.1 Outcomes
 
-Create a [generative culture](https://cloud.google.com/solutions/devops/devops-culture-westrum-organizational-culture) that fosters information flow and trust by examining the six aspects of Westrum's model of organizational culture.
+Create a [generative culture](https://cloud.google.com/solutions/devops/devops-culture-westrum-organizational-culture) that fosters information flow and trust by examining the six aspects of the Westrum model of organizational culture.
 
 ##### 4.2.2. Indicators
 
-Present these measures together (unlabeled and untitled) with responses ranging from Strongly Disagree (=1) to Neither Agree nor Disagree (=4) to Strongly Agree (=7).
+Present these measures together (un-labelled and untitled) with responses ranging from Strongly Disagree (=1) to Neither Agree nor Disagree (=4) to Strongly Agree (=7).
 They are a latent construct, which means you can average their scores to provide a single score for your Westrum culture metric.
 
 - On my team, information is actively sought.
