@@ -27,8 +27,10 @@ The methodology outlined throughout this document is heavily borrowed from [Team
 
 Figure 1: Team Topologies model
 
+<!-- markdownlint-disable MD033-->
 <details><summary>Text description of Figure 1</summary>
 This image shows a yellow box at the top representing the “Value Aligned Team”. This box is linked via XaaS to a blue box representing the “Platform Teams”.  Within the blue box, there are two platform teams that are also linked together via XaaS. In the case of the whitelisting application, the Value Aligned team is the IT Strategy team and the Platform Teams are DTS and SE.  Both of the “Platform teams” are linked internally via XaaS.  The SE platform team has one enabling contributor - Microsoft.</details>
+<!-- markdownlint-enable MD033-->
 
 &nbsp;
 
@@ -38,8 +40,10 @@ In a government context, the management model looked as follows
 
 Figure 2: Government Team Topologies Model
 
+<!-- markdownlint-disable MD033-->
 <details><summary>Text description of Figure 2</summary>
 Figure 2 is very similar to Figure 1.  It shows a yellow box at the top representing the “Value Aligned Team”. This box is linked via XaaS to a blue box representing the “Platform Teams”.  Within the blue box, there are two platform teams that are also linked together via XaaS. (in the case of the whitelisting application, the Value Aligned team is the IT Strategy team and the Platform Teams are DTS and SE).  Both of the “Platform teams” are linked internally via XaaS.  The SE platform team has one enabling contributor - Microsoft. In addition figure 2 also shows a stick figure director at the top and a box around the entire image demonstrating that a single director was responsible for the Value Stream Aligned Team and the two Platform Teams. Also on the left hand side next to the yellow and the blue box are three stick figure managers demonstrating that there was one manager for each of the 3 teams.</details>
+<!-- markdownlint-enable MD033-->
 
 &nbsp;
 
@@ -55,9 +59,11 @@ One model often referenced is the so-called, and poorly named, “Spotify model�
 
 Figure 3: Spotify Model
 
+<!-- markdownlint-disable MD033-->
 <details><summary>Text Description of Figure 3</summary>
 This image shows two groups of employees.  Within each group there are four blue ovals representing 4 squads.  Each of the squads report to a Product Owner.  Across each squad there are employees with similar skill sets which are referred to as chapters.  This image shows two chapters per group. The green boxes that represent the chapters go horizontally across the four squads with one employee per squad.   There is a purple shape enclosed in a dotted line which represents a Guild.  This guild includes members across the two groups as well as across the chapters and the squads.
 </details>
+<!-- markdownlint-enable MD033-->
 
 &nbsp;
 
@@ -67,8 +73,10 @@ In the above model, the squads are managed by Product Owners (POs) while the cha
 
 Figure 4: Final Government Team Topologies Model
 
+<!-- markdownlint-disable MD033-->
 <details><summary>Text Description of Figure 4</summary>
 This image shows three columns.  The left hand column in yellow represents the “Value Stream Aligned Team” and the two columns to the right of that in blue represent the Platform Teams.  At the top of each column is a stick figure representing that team’s Product Owner (PO).  Within each column there are five stick figures.  There are five horizontal boxes with dashed outlines going across each column containing one stick figure from each of the columns.  The horizontal box demonstrates that there are people from each team with the same skill sets. Next to each horizontal box is a stick figure representing the manager for all those in the horizontal box which have the same skill sets.  In the top left hand corner of the image is a stick figure representing the Product Manger who works with all the people represented in the diagram. </details>
+<!-- markdownlint-enable MD033-->
 
 &nbsp;
 
