@@ -84,7 +84,15 @@ _A.2.3.2.1 Focus on the needs of users, using agile, iterative, and user-centred
     - Termination Points / XaaS
   - Upskill teams
 
-* For more details, read [Team Topologies Inspired Whitelist App Development](https://sara-sabr.github.io/ITStrategy/2020/05/20/Team-Topologies-Whitelisting-app.html)
+![Team Topologies model](./assets/images/TTBlog-Figure1.PNG)
+
+- For more details, read [Team Topologies Inspired Whitelist App Development](https://sara-sabr.github.io/ITStrategy/2020/05/20/Team-Topologies-Whitelisting-app.html)
+
+--
+
+### Team Topologies: Governmentized
+
+![Governmentized Team Topologies model](./assets/images/TTBlog-Figure4.PNG)
 
 ---
 
@@ -110,38 +118,23 @@ Upskill teams & miminize size
 
 ## Automation
 
-![Is cloud automation?](./assets/images/Whitelite-Showcase-IsThisAutomation.PNG)
+![Is cloud automation? No](./assets/images/Whitelite-Showcase-IsThisAutomation.PNG)
 
 --
 
-- CI/CD (branch -> env)
+## High Level Architecture
 
-  - dev -> dev
-  - master -> staging
-  - prod (manually triggered)
+![High level architecture of solution](./assets/images/Whitelite-Showcase-HighLevelArch.svg)
 
-- QA
+--
 
-  - Selenium
+## Cloud Architecture
 
-- Security
-
-  - OWASP ZAP
-  - GitHub Notifications
-
-- A11y
-
-  - Accessibility Insights for Web
-
-- Documentation
-  - [The board](https://github.com/gcdevops/HRWhiteListing)
-  - [Our code](https://github.com/gcdevops/OdooDocker)
-  - [Odoo code](https://github.com/odoo/odoo)
-  - Security Dojo
+![Cloud architecture of solution](./assets/images/Whitelite-Showcase-CloudArch.PNG)
 
 ---
 
-## Hey I wanna do that!
+## Hey I want do that!
 
 ![Follow process or deliver value?](./assets/images/Whitelite-Showcase-ValueOrProcess.PNG)
 
@@ -175,20 +168,20 @@ Things not to say if your work involved in deployment processes in any way
 
 - Reduce toil
 
-![Follow process or deliver value?](./assets/images/Whitelite-Showcase-Toil.PNG)
+![As work increases; need for staff increases](./assets/images/Whitelite-Showcase-Toil.PNG)
 
 --
 
 ### Reduce toil
 
-![Follow process or deliver value?](./assets/images/Whitelite-Showcase-Toil-worse.PNG)
+![Productivity per person reduced as team grows](./assets/images/Whitelite-Showcase-Toil-worse.PNG)
 [Link](https://www.desmos.com/calculator/w8niq2v1ee)
 
 --
 
 ### Reduce toil
 
-![Follow process or deliver value?](./assets/images/Whitelite-Showcase-Toil-automated.PNG)
+![Automation reduces need for more staff](./assets/images/Whitelite-Showcase-Toil-automated.PNG)
 [Link](https://www.desmos.com/calculator/hugbt6oxdt)
 
 Upskill teams & miminize size
@@ -197,14 +190,14 @@ Upskill teams & miminize size
 
 ## Why do I care about toil?
 
-![Follow process or deliver value?](./assets/images/Whitelite-Showcase-Toil-problem.PNG)
+![Those who automate overload those who do not](./assets/images/Whitelite-Showcase-Toil-problem.PNG)
 [Link](https://www.desmos.com/calculator/kvubrihz0h)
 
 --
 
 ## Solution 1
 
-Hire software developers
+Hire developers
 
 Further reading: [Google SRE Book, Introduction (Google’s Approach to Service Management: Site Reliability Engineering)](https://landing.google.com/sre/sre-book/chapters/introduction/)
 
@@ -217,7 +210,7 @@ Further reading: [Google SRE Book, Introduction (Google’s Approach to Service 
 
 ## Solution 1: Automation
 
-Automation is not a toolset
+Automation is not just a toolset
 
 - Working in the open
 - Remove process
@@ -231,6 +224,8 @@ If one team doesn't automate, deployment on demand is dead
 ---
 
 # Conclusion
+
+Tools are just tools
 
 Organizing teams: Team Topologies
 
