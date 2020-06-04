@@ -195,12 +195,27 @@ Upskill teams & miminize size
 
 --
 
+## Why do I care about toil?
+
+![Follow process or deliver value?](./assets/images/Whitelite-Showcase-Toil-problem.PNG)
+[Link](https://www.desmos.com/calculator/kvubrihz0h)
+
+--
+
+## Solution 1
+
+Hire software developers
+
+Further reading: [Google SRE Book, Introduction (Google’s Approach to Service Management: Site Reliability Engineering)](https://landing.google.com/sre/sre-book/chapters/introduction/)
+
 ### Toil further reading
 
 - [The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)
 - Google SRE Book, [Chp5](https://landing.google.com/sre/sre-book/chapters/eliminating-toil/) & [Chp6](https://landing.google.com/sre/workbook/chapters/eliminating-toil/)
 
 --
+
+## Solution 1: Automation
 
 Automation is not a toolset
 
@@ -209,11 +224,26 @@ Automation is not a toolset
 
 --
 
-### One bad apple spoils the barrel
+## One bad apple spoils the barrel
 
 If one team doesn't automate, deployment on demand is dead
 
 ---
+
+# Conclusion
+
+Organizing teams: Team Topologies
+
+- Focus on flow
+
+Automation
+
+- Reduce toil
+  - Bring automation capabilities in to your teams
+- Remove process
+- Limit access restrictions where possible
+
+--
 
 ## To learn more
 
