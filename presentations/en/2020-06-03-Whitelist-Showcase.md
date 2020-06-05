@@ -14,7 +14,7 @@ Gabriel Cossette, ESDC [@GabrielCossette](https://twitter.com/GabrielCossette)
 
 --
 
-BISM / DTS
+### BISM / DTS
 
 - Eric Dube
 - Kyle Meelker
@@ -22,19 +22,25 @@ BISM / DTS
 - Ben Larabie
 - Dwayne Moore
 
-SABR / R&D
+--
+
+### SABR / R&D
 
 - Eric Wu (Security champion)
 - Jonathan Dure
 
-SABR / IT Strategy
+--
+
+### SABR / IT Strategy
 
 - Gabriel Cossette
 - Omar Nasr
 - Elmina Iusifova
 - Jayson McIntosh
 
-CDS
+--
+
+### CDS
 
 - Calvin Rodo (Security champion)
 
@@ -49,17 +55,17 @@ CDS
 
 ---
 
-### Who cares?
+## Who cares?
 
 IT Strategy website: _Enable the strategic value of IT within ESDC by reducing its risks to accelerate business flexibility._
 
-Having agility reduces risk
+### Having agility reduces risk
 
-- Fix operational issues within minutes
+Fix operational issues within minutes
 
-Deliver value to users
+### Deliver value to users faster
 
-- Respond to user needs within minutes
+Respond to user needs within minutes
 
 --
 
@@ -67,13 +73,15 @@ Deliver value to users
 
 _Iterate and improve frequently: Develop services using agile, iterative and user-centred methods. Continuously improve in response to user needs. Try new things, start small and scale up._
 
+--
+
 ### Directive on Service and Digital - Appendix A: Mandatory Procedures for Enterprise Architecture Assessment
 
 _A.2.3.2.1 Focus on the needs of users, using agile, iterative, and user-centred methods_
 
 --
 
-# Ask for deployment to prod
+#### Ask for deployment to prod
 
 ---
 
@@ -81,7 +89,6 @@ _A.2.3.2.1 Focus on the needs of users, using agile, iterative, and user-centred
 
 - Team Topologies Model (DevOps Teams)
   - Increase flow
-    - Termination Points / XaaS
   - Upskill teams
 
 ![Team Topologies model](./assets/images/TTBlog-Figure1.PNG)
@@ -90,11 +97,11 @@ _A.2.3.2.1 Focus on the needs of users, using agile, iterative, and user-centred
 
 --
 
-### Team Topologies: Governmentized
+#### Team Topologies: Governmentized
 
 ![Governmentized Team Topologies model](./assets/images/TTBlog-Figure4.PNG)
 
----
+--
 
 ## Champions
 
@@ -110,31 +117,29 @@ Upskill teams & miminize size
 
 ---
 
-## Cloud
-
-![Self service over cloud](./assets/images/Whitelite-Showcase-Cloud.PNG)
-
----
-
-## Automation
+#### Automation
 
 ![Is cloud automation? No](./assets/images/Whitelite-Showcase-IsThisAutomation.PNG)
 
 --
 
-## High Level Architecture
+## Cloud
+
+![Self service over cloud](./assets/images/Whitelite-Showcase-Cloud.PNG)
+
+--
+
+High Level Architecture
 
 ![High level architecture of solution](./assets/images/Whitelite-Showcase-HighLevelArch.svg)
 
 --
 
-## Cloud Architecture
+#### Cloud Architecture
 
 ![Cloud architecture of solution](./assets/images/Whitelite-Showcase-CloudArch.PNG)
 
----
-
-## Hey I want do that!
+--
 
 ![Follow process or deliver value?](./assets/images/Whitelite-Showcase-ValueOrProcess.PNG)
 
@@ -144,7 +149,7 @@ Upskill teams & miminize size
 
 ## How to get there?
 
-## Missing Competencies
+### Missing Competencies
 
 - Interoperability
 - Open source
@@ -168,18 +173,22 @@ Things not to say if your work involved in deployment processes in any way
 
 - Reduce toil
 
-![As work increases; need for staff increases](./assets/images/Whitelite-Showcase-Toil.PNG)
+--
+
+## What is toil?
+
+Reducing the processing time by half, by doubling the amount of staff
 
 --
 
-### Reduce toil
+![As work increases; need for staff increases](./assets/images/Whitelite-Showcase-Toil.PNG)
+
+--
 
 ![Productivity per person reduced as team grows](./assets/images/Whitelite-Showcase-Toil-worse.PNG)
 [Link](https://www.desmos.com/calculator/w8niq2v1ee)
 
 --
-
-### Reduce toil
 
 ![Automation reduces need for more staff](./assets/images/Whitelite-Showcase-Toil-automated.PNG)
 [Link](https://www.desmos.com/calculator/hugbt6oxdt)
@@ -195,11 +204,11 @@ Upskill teams & miminize size
 
 --
 
-## Solution 1
-
-Hire developers
+## Solution 1: Hire developers
 
 Further reading: [Google SRE Book, Introduction (Google’s Approach to Service Management: Site Reliability Engineering)](https://landing.google.com/sre/sre-book/chapters/introduction/)
+
+--
 
 ### Toil further reading
 
@@ -208,7 +217,7 @@ Further reading: [Google SRE Book, Introduction (Google’s Approach to Service 
 
 --
 
-## Solution 1: Automation
+## Solution 2: Automation
 
 Automation is not just a toolset
 
@@ -223,15 +232,17 @@ If one team doesn't automate, deployment on demand is dead
 
 ---
 
-# Conclusion
+## Conclusion
 
-Tools are just tools
+#### Tools are just tools: Focus on flow
 
 Organizing teams: Team Topologies
 
-- Focus on flow
+--
 
-Automation
+## Conclusion
+
+#### Automation
 
 - Reduce toil
   - Bring automation capabilities in to your teams
