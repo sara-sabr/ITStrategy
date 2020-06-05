@@ -19,7 +19,7 @@ The initiative was originally inspired by the BC Developers Exchange, which as e
 For more info, see the [GitHub repository](https://github.com/canada-ca/devex) and this [Canadian Government Executive article](https://canadiangovernmentexecutive.ca/dig/24_03/28/).
 
 The IT Strategy team at ESDC is currently looking at the possibility of relaunching GCDevEx (or something like it) as part of a broader IT sourcing strategy.
- Our investigations have included the following so far:
+Our investigations have included the following so far:
 
 - **Talking to Procurement experts**  
 One of the challenges with iteration 1.0 of GCDevEx was that the backend procurement processes did not change.
