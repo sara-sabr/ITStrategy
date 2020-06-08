@@ -1,10 +1,10 @@
-# Whitelist Application (Odoo): The Journey
+# Application Liste blanche (Odoo) : Le périple | Whitelist Application (Odoo): The Journey
 
-IITB Showcase Presentation
+Présentation DGIIT en exposition | IITB Showcase Presentation
 
-Jayson McIntosh, ESDC - [@jaysonmcintosh](https://twitter.com/jaysonmcintosh)
-Dwayne Moore, ESDC - [@distilledlife](https://twitter.com/distilledlife)
-Gabriel Cossette, ESDC [@GabrielCossette](https://twitter.com/GabrielCossette)
+Jayson McIntosh, EDSC-ESDC - [@jaysonmcintosh](https://twitter.com/jaysonmcintosh)
+Dwayne Moore, EDSC-ESDC - [@distilledlife](https://twitter.com/distilledlife)
+Gabriel Cossette, EDSC-ESDC [@GabrielCossette](https://twitter.com/GabrielCossette)
 
 <!--markdownlint-disable MD035-->
 
