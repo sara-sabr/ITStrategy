@@ -1,4 +1,6 @@
-# Application Liste blanche (Odoo) : Le périple | Whitelist Application (Odoo): The Journey
+## Application Liste blanche (Odoo) : | Whitelist Application (Odoo):
+
+## Le périple | The Journey
 
 Présentation DGIIT en exposition | IITB Showcase Presentation
 
@@ -7,20 +9,6 @@ Dwayne Moore, EDSC-ESDC - [@distilledlife](https://twitter.com/distilledlife)
 Gabriel Cossette, EDSC-ESDC [@GabrielCossette](https://twitter.com/GabrielCossette)
 
 <!--markdownlint-disable MD035-->
-
-<!--
-<div class="container">
-
-  <div class="left-half">
-
-  </div>
-
-  <div class="right-half">
-
-  </div>
-
-</div>
--->
 
 ---
 
@@ -113,21 +101,23 @@ Gabriel Cossette, EDSC-ESDC [@GabrielCossette](https://twitter.com/GabrielCosset
 
 --
 
-### CDS
-
-- Calvin Rodo
-
 <div class="container">
 
   <div class="left-half">
 
-    Champion de sécurité
+### SNC
+
+    - Calvin Rodo
+      - Champion de sécurité
 
   </div>
 
   <div class="right-half">
 
-    Security champion
+### CDS
+
+    - Calvin Rodo
+      - Security champion
 
   </div>
 
@@ -141,23 +131,23 @@ Gabriel Cossette, EDSC-ESDC [@GabrielCossette](https://twitter.com/GabrielCosset
 
   <div class="left-half">
 
-- Démo au DPI en 10 jours
+Démo au DPI en 10 jours
 
-- Première application dans le nuage PB
+Première application dans le nuage PB
 
-  - Dans le nuage PB dans les minutes suivant sa disponibilité
-  - Les utilisateurs testent en production en l'espace de 2 heures
+- Dans le nuage PB dans les minutes suivant sa disponibilité
+- Les utilisateurs testent en production en l'espace de 2 heures
 
   </div>
 
   <div class="right-half">
 
-- Demo to CIO in 10 days
+Demo to CIO in 10 days
 
-- First app on PB Cloud
+First app on PB Cloud
 
-  - On PB Cloud within minutes of being available
-  - Users testing on production within 2 hours
+- On PB Cloud within minutes of being available
+- Users testing on production within 2 hours
 
   </div>
 
@@ -949,7 +939,7 @@ Visit the [IT Strategy website](https://sara-sabr.github.io/ITStrategy/home.html
     height: 435px;
   }
 
-  .long-text ul li p, .long-text ul li {
+  .long-text li, .long-text p {
     font-size: 30px;
   }
 
@@ -962,14 +952,14 @@ Visit the [IT Strategy website](https://sara-sabr.github.io/ITStrategy/home.html
   .left-half {
     
     position: absolute;
-    left: 0px;
+    left: -15px;
     width: 50%;
   }
 
   .right-half {
     background-color: rgba(147,161,161, 0.15);
     position: absolute;
-    right: 0px;
+    right: -15px;
     width: 50%;
   }
 
