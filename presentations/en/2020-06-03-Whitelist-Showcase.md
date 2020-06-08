@@ -1,3 +1,7 @@
+<!--markdownlint-disable MD026-->
+<!--markdownlint-disable MD033-->
+<!--markdownlint-disable MD035-->
+<!--markdownlint-disable MD036-->
 ## Application Liste blanche (Odoo) : | Whitelist Application (Odoo):
 
 ## Le périple | The Journey
@@ -7,8 +11,6 @@ Présentation DGIIT en exposition | IITB Showcase Presentation
 Jayson McIntosh, EDSC-ESDC - [@jaysonmcintosh](https://twitter.com/jaysonmcintosh)
 Dwayne Moore, EDSC-ESDC - [@distilledlife](https://twitter.com/distilledlife)
 Gabriel Cossette, EDSC-ESDC [@GabrielCossette](https://twitter.com/GabrielCossette)
-
-<!--markdownlint-disable MD035-->
 
 ---
 
@@ -359,7 +361,7 @@ _A.2.3.2.1 Focus on the needs of users, using agile, iterative, and user-centred
 
 ## Comment
 
-#### Topologies d'équipe : Gouvernées par le gouvernement
+### Topologies d'équipe : Gouvernées par le gouvernement
 
 <img src="./assets/images/TTBlog-Figure4.PNG" class="image-medium" alt="Les propriétaires de produits gèrent les produits; les gestionnaires gèrent les personnes; le chef de projet gère le projet" />
 
@@ -369,7 +371,7 @@ _A.2.3.2.1 Focus on the needs of users, using agile, iterative, and user-centred
 
 ## How
 
-#### Team Topologies: Governmentized
+### Team Topologies: Governmentized
 
 <img src="./assets/images/TTBlog-Figure4.PNG" class="image-medium" alt="Product owners manage product; managers manage people; project manager manages project" />
 
@@ -455,7 +457,7 @@ Upskill teams & miminize size
 
   <div class="left-half">
 
-#### Automatisation
+### Automatisation
 
 <img src="./assets/images/Whitelite-Showcase-Cloud.PNG" class="image-large" alt="Libre service avant l'infonuagique" />
 
@@ -859,7 +861,7 @@ If one team doesn't automate, deployment on demand is dead
 
   <div class="left-half">
 
-#### Les outils ne sont que des outils : Se concentrer sur la cadence
+### Les outils ne sont que des outils : Se concentrer sur la cadence
 
 Organiser les équipes : Topologies de l'équipe
 
@@ -869,7 +871,7 @@ Organiser les équipes : Topologies de l'équipe
 
 ## Conclusion
 
-#### Tools are just tools: Focus on flow
+### Tools are just tools: Focus on flow
 
 Organizing teams: Team Topologies
 
@@ -885,7 +887,7 @@ Organizing teams: Team Topologies
 
 ## Conclusion
 
-#### Automatisation
+### Automatisation
 
 - Réduire le labeur
   - Apporter des capacités d'automatisation à vos équipes
@@ -898,7 +900,7 @@ Organizing teams: Team Topologies
 
 ## Conclusion
 
-#### Automation
+### Automation
 
 - Reduce toil
   - Bring automation capabilities in to your teams
@@ -943,14 +945,13 @@ Visit the [IT Strategy website](https://sara-sabr.github.io/ITStrategy/home.html
     font-size: 30px;
   }
 
-  /* Pattern styles */
+  /*Pattern styles*/
   .container {
     display: table;
     width: 100%;
   }
 
   .left-half {
-    
     position: absolute;
     left: -15px;
     width: 50%;
