@@ -1,4 +1,6 @@
-# Whitelist Application (Odoo): The Journey
+## Whitelist Application (Odoo):
+
+## The Journey
 
 IITB Showcase Presentation
 
@@ -7,20 +9,6 @@ Dwayne Moore, ESDC - [@distilledlife](https://twitter.com/distilledlife)
 Gabriel Cossette, ESDC [@GabrielCossette](https://twitter.com/GabrielCossette)
 
 <!--markdownlint-disable MD035-->
-
-<!--
-<div class="container">
-
-  <div class="left-half">
-
-  </div>
-
-  <div class="right-half">
-
-  </div>
-
-</div>
--->
 
 ---
 
@@ -50,7 +38,7 @@ Gabriel Cossette, ESDC [@GabrielCossette](https://twitter.com/GabrielCossette)
 - Eric Dube
 - Kyle Meelker
 - Jordan Willis
-  - (A11y champion)
+  - (Accessibility champion)
 - Ben Larabie
 - Dwayne Moore
 
@@ -102,10 +90,10 @@ Gabriel Cossette, ESDC [@GabrielCossette](https://twitter.com/GabrielCossette)
 
 <div class="shared-content">
 
-- Gabriel Cossette
-- Omar Nasr
 - Elmina Iusifova
+- Gabriel Cossette
 - Jayson McIntosh
+- Omar Nasr
 
 </div>
 
@@ -113,21 +101,23 @@ Gabriel Cossette, ESDC [@GabrielCossette](https://twitter.com/GabrielCossette)
 
 --
 
-### CDS
-
-- Calvin Rodo
-
 <div class="container">
 
   <div class="left-half">
 
-    Champion de sécurité
+### SNC
+
+    - Calvin Rodo
+      - Champion de sécurité
 
   </div>
 
   <div class="right-half">
 
-    Security champion
+### CDS
+
+    - Calvin Rodo
+      - Security champion
 
   </div>
 
@@ -141,18 +131,23 @@ Gabriel Cossette, ESDC [@GabrielCossette](https://twitter.com/GabrielCossette)
 
   <div class="left-half">
 
-(TO-DO Translate)
+Démo au DPI en 10 jours
+
+Première application dans le nuage PB
+
+- Dans le nuage PB dans les minutes suivant sa disponibilité
+- Les utilisateurs testent en production en l'espace de 2 heures
 
   </div>
 
   <div class="right-half">
 
-- Demo to CIO in 10 days
+Demo to CIO in 10 days
 
-- First app on PB Cloud
+First app on PB Cloud
 
-  - On PB Cloud within minutes of being available
-  - Users testing on production within 2 hours
+- On PB Cloud within minutes of being available
+- Users testing on production within 2 hours
 
   </div>
 
@@ -164,7 +159,9 @@ Gabriel Cossette, ESDC [@GabrielCossette](https://twitter.com/GabrielCossette)
 
   <div class="left-half">
 
-(TO-DO Translate)
+## Qui s'en soucie?
+
+Site de Stratégie TI : _Favoriser la valeur stratégique des TI au sein de EDSC en réduisant leurs risques afin d'accélérer la flexibilité de l'entreprise._
 
   </div>
 
@@ -184,7 +181,9 @@ IT Strategy website: _Enable the strategic value of IT within ESDC by reducing i
 
   <div class="left-half">
 
-(TO-DO Translate)
+### Avoir de l'agilité réduit les risques
+
+Régler les problèmes opérationnels en quelques minutes
 
   </div>
 
@@ -204,7 +203,9 @@ Fix operational issues within minutes
 
   <div class="left-half">
 
-(TO-DO Translate)
+### Offrir plus rapidement de la valeur aux utilisateurs
+
+Répondre aux besoins des utilisateurs en quelques minutes
 
   </div>
 
@@ -224,7 +225,9 @@ Respond to user needs within minutes
 
   <div class="left-half">
 
-(TO-DO Translate)
+### Normes numériques du gouvernement du Canada
+
+_Effectuer régulièrement des itérations et des améliorations : Élaborer des services au moyen de méthodes souples et itératives, axées sur l’utilisateur. Effectuer constamment des améliorations en réponse aux besoins des utilisateurs. Essayer de nouvelles approches, commencer petit et passer à l’échelon supérieur._
 
   </div>
 
@@ -244,7 +247,9 @@ _Iterate and improve frequently: Develop services using agile, iterative and use
 
   <div class="left-half">
 
-(TO-DO Translate)
+### Directive sur les services et le numérique - Annexe A : Procédures obligatoires pour l’évaluation de l’architecture intégrée
+
+_A.2.3.2.1 Se concentrer sur les besoins des utilisateurs, en adoptant des méthodes agiles, itératives et centrées sur l'utilisateur._
 
   </div>
 
@@ -264,7 +269,7 @@ _A.2.3.2.1 Focus on the needs of users, using agile, iterative, and user-centred
 
   <div class="left-half">
 
-(TO-DO Translate)
+#### Demande de déploiement en production
 
   </div>
 
@@ -282,7 +287,12 @@ _A.2.3.2.1 Focus on the needs of users, using agile, iterative, and user-centred
 
   <div class="left-half">
 
-(TO-DO Translate)
+## Comment
+
+- Modèle de topologies d'équipe (équipes DevOps)
+
+  - Augmenter la cadence
+  - Renforcer les compétences des équipes
 
   </div>
 
@@ -305,7 +315,9 @@ _A.2.3.2.1 Focus on the needs of users, using agile, iterative, and user-centred
 
   <div class="left-half">
 
-(TO-DO Translate)
+## Comment
+
+![Modèle de topologies d'équipe](./assets/images/TTBlog-Figure1.PNG)
 
   </div>
 
@@ -325,7 +337,7 @@ _A.2.3.2.1 Focus on the needs of users, using agile, iterative, and user-centred
 
   <div class="left-half">
 
-(TO-DO Translate)
+- Pour plus de détails, consultez [Team Topologies Inspired Whitelist App Development (anglais)](https://sara-sabr.github.io/ITStrategy/2020/05/20/Team-Topologies-Whitelisting-app.html)
 
   </div>
 
@@ -345,7 +357,11 @@ _A.2.3.2.1 Focus on the needs of users, using agile, iterative, and user-centred
 
   <div class="left-half">
 
-(TO-DO Translate)
+## Comment
+
+#### Topologies d'équipe : Gouvernées par le gouvernement
+
+<img src="./assets/images/TTBlog-Figure4.PNG" class="image-medium" alt="Les propriétaires de produits gèrent les produits; les gestionnaires gèrent les personnes; le chef de projet gère le projet" />
 
   </div>
 
@@ -369,23 +385,23 @@ _A.2.3.2.1 Focus on the needs of users, using agile, iterative, and user-centred
 
 ## Les champions
 
+- Jordan Willis (Accessibilité)
+- Eric Wu (Sécurité)
+- Calvin Rodo (Sécurité)
+
   </div>
 
   <div class="right-half">
 
 ## Champions
 
+- Jordan Willis (Accessibility)
+- Eric Wu (Security)
+- Calvin Rodo (Security)
+
   </div>
 
-<div class="shared-content">
-
 </div>
-
-</div>
-
-- Jordan Willis (A11y champion)
-- Eric Wu (Security champion)
-- Calvin Rodo (Security champion)
 
 --
 
@@ -393,7 +409,9 @@ _A.2.3.2.1 Focus on the needs of users, using agile, iterative, and user-centred
 
   <div class="left-half">
 
-(TO-DO Translate)
+### Pourquoi?
+
+Renforcer les compétences des équipes et réduire leur taille
 
   </div>
 
@@ -413,7 +431,9 @@ Upskill teams & miminize size
 
   <div class="left-half">
 
-(TO-DO Translate)
+#### Automatisation
+
+<img src="./assets/images/Whitelite-Showcase-IsThisAutomation.PNG" class="image-large" alt="Est-ce de l'automatisation de l'infonuagique? Non" />
 
   </div>
 
@@ -435,7 +455,9 @@ Upskill teams & miminize size
 
   <div class="left-half">
 
-(TO-DO Translate)
+#### Automatisation
+
+<img src="./assets/images/Whitelite-Showcase-Cloud.PNG" class="image-large" alt="Libre service avant l'infonuagique" />
 
   </div>
 
@@ -443,7 +465,7 @@ Upskill teams & miminize size
 
 #### Automation
 
-<img src="./assets/images/Whitelite-Showcase-Cloud.PNG" class="image-large" alt="Self service over cloud" />
+<img src="./assets/images/Whitelite-Showcase-Cloud.PNG" class="image-large" alt="Self-service over cloud" />
 
   </div>
 
@@ -455,18 +477,18 @@ Upskill teams & miminize size
 
   <div class="left-half">
 
-(TO-DO Translate)
+Architecture de haut niveau
+
+<img src="./assets/images/Whitelite-Showcase-HighLevelArch.svg" class="image-large" alt="Architecture de haut niveau de la solution" />
 
   </div>
 
   <div class="right-half">
 
-High Level Architecture
+High-Level Architecture
 
-  </div>
+<img src="./assets/images/Whitelite-Showcase-HighLevelArch.svg" class="image-large" alt="High-level architecture of solution" />
 
-  <div class="shared-content">
-    <img src="./assets/images/Whitelite-Showcase-HighLevelArch.svg" class="image-large" alt="High level architecture of solution" />
   </div>
 
 </div>
@@ -477,7 +499,9 @@ High Level Architecture
 
   <div class="left-half">
 
-(TO-DO Translate)
+#### Architecture de l'infonuagique
+
+<img src="./assets/images/Whitelite-Showcase-CloudArch.PNG" class="image-large" alt="Architecture de l'infonuagique de la solution" />
 
   </div>
 
@@ -485,10 +509,8 @@ High Level Architecture
 
 #### Cloud Architecture
 
-  </div>
+<img src="./assets/images/Whitelite-Showcase-CloudArch.PNG" class="image-large" alt="Cloud architecture of solution" />
 
-  <div class="shared-content">
-    <img src="./assets/images/Whitelite-Showcase-CloudArch.PNG" class="image-large" alt="Cloud architecture of solution" />
   </div>
 
 </div>
@@ -499,14 +521,16 @@ High Level Architecture
 
   <div class="left-half">
 
-(TO-DO Translate)
+<img src="./assets/images/Whitelite-Showcase-ValueOrProcess.PNG" class="image-large" alt="Suivre le processus ou offrir de la valeur?" />
+  - AE du DPI
 
   </div>
 
   <div class="right-half">
 
-  <img src="./assets/images/Whitelite-Showcase-ValueOrProcess.PNG" class="image-large" alt="Follow process or deliver value?" />
+<img src="./assets/images/Whitelite-Showcase-ValueOrProcess.PNG" class="image-large" alt="Follow process or deliver value?" />
   - ATO from CIO
+
   </div>
 
 </div>
@@ -517,7 +541,14 @@ High Level Architecture
 
   <div class="left-half">
 
-(TO-DO Translate)
+## Comment y arriver?
+
+### Compétences manquantes
+
+- Interopérabilité
+- Logiciel libre
+- Connaissances en programmation
+- Champions / prise de décision distribuée
 
   </div>
 
@@ -530,7 +561,7 @@ High Level Architecture
 - Interoperability
 - Open source
 - Code literacy
-- Champions / Distributed decision making
+- Champions / Distributed decision-making
 
   </div>
 
@@ -542,7 +573,14 @@ High Level Architecture
 
   <div class="left-half">
 
-(TO-DO Translate)
+## Leçons apprises
+
+Ce qu'il ne faut pas dire si votre travail implique des processus de déploiement d'une manière ou d'une autre
+
+- Pour lancer ce processus, remplissez ce formulaire.
+- X est la responsabilité de chacun.
+- Comment nous connecter à votre base de données?
+- Non
 
   </div>
 
@@ -550,10 +588,10 @@ High Level Architecture
 
 ## Lessons Learned
 
-Things not to say if your work involved in deployment processes in any way
+Things not to say if your work involves deployment processes in any way
 
 - To start this process, fill out this form.
-- X is everyones responsibility.
+- X is everyone's responsibility.
 - How do we connect to your database?
 - No
 
@@ -567,13 +605,15 @@ Things not to say if your work involved in deployment processes in any way
 
   <div class="left-half">
 
-(TO-DO Translate)
+## Éléments retenus
+
+- Réduire le labeur
 
   </div>
 
   <div class="right-half">
 
-## Take Aways
+## Takeaways
 
 - Reduce toil
 
@@ -587,7 +627,9 @@ Things not to say if your work involved in deployment processes in any way
 
   <div class="left-half">
 
-(TO-DO Translate)
+## Qu'est-ce que le labeur?
+
+Réduire le temps de traitement de moitié, en doublant la quantité de personnel
 
   </div>
 
@@ -607,7 +649,9 @@ Reducing the processing time by half, by doubling the amount of staff
 
   <div class="left-half">
 
-(TO-DO Translate)
+<img src="./assets/images/Whitelite-Showcase-Toil.PNG" class="image-large" alt="Plus le travail augmente, plus le besoin en personnel augmente" />
+
+[Lien (anglais)](https://www.desmos.com/calculator/w8niq2v1ee)
 
   </div>
 
@@ -627,7 +671,9 @@ Reducing the processing time by half, by doubling the amount of staff
 
   <div class="left-half">
 
-(TO-DO Translate)
+<img src="./assets/images/Whitelite-Showcase-Toil-worse.PNG" class="image-large" alt="La productivité par personne est réduite à mesure que l'équipe s'agrandit" />
+
+[Lien (anglais)](https://www.desmos.com/calculator/w8niq2v1ee)
 
   </div>
 
@@ -647,7 +693,9 @@ Reducing the processing time by half, by doubling the amount of staff
 
   <div class="left-half">
 
-(TO-DO Translate)
+<img src="./assets/images/Whitelite-Showcase-Toil-automated.PNG" class="image-large" alt="L'automatisation réduit le besoin de personnel supplémentaire" />
+
+[Lien (anglais)](https://www.desmos.com/calculator/hugbt6oxdt)
 
   </div>
 
@@ -667,7 +715,7 @@ Reducing the processing time by half, by doubling the amount of staff
 
   <div class="left-half">
 
-(TO-DO Translate)
+## Renforcer les compétences des équipes et réduire leur taille
 
   </div>
 
@@ -685,7 +733,11 @@ Reducing the processing time by half, by doubling the amount of staff
 
   <div class="left-half">
 
-(TO-DO Translate)
+### Pourquoi me soucier du labeur?
+
+<img src="./assets/images/Whitelite-Showcase-Toil-problem.PNG" class="image-large" alt="Ceux qui automatisent surchargent ceux qui ne le font pas" />
+
+[Lien (anglais)](https://www.desmos.com/calculator/kvubrihz0h)
 
   </div>
 
@@ -707,7 +759,11 @@ Reducing the processing time by half, by doubling the amount of staff
 
   <div class="left-half">
 
-(TO-DO Translate)
+### Pourquoi me soucier du labeur?
+
+## Solution 1 : Embaucher des développeurs
+
+Lecture complémentaire (anglais) : [Google SRE Book, Introduction (Google’s Approach to Service Management: Site Reliability Engineering)](https://landing.google.com/sre/sre-book/chapters/introduction/)
 
   </div>
 
@@ -729,7 +785,10 @@ Further reading: [Google SRE Book, Introduction (Google’s Approach to Service 
 
   <div class="left-half">
 
-(TO-DO Translate)
+### Lecture complémentaire sur le labeur
+
+- [The Mythical Man-Month (anglais)](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)
+- Google SRE Book (anglais), [Ch. 5](https://landing.google.com/sre/sre-book/chapters/eliminating-toil/) & [Ch. 6](https://landing.google.com/sre/workbook/chapters/eliminating-toil/)
 
   </div>
 
@@ -750,7 +809,12 @@ Further reading: [Google SRE Book, Introduction (Google’s Approach to Service 
 
   <div class="left-half">
 
-(TO-DO Translate)
+## Solution 2 : Automatisation
+
+L'automatisation n'est pas seulement un ensemble d'outils
+
+- Travailler ouvertement
+- Éliminer des processus
 
   </div>
 
@@ -773,7 +837,9 @@ Automation is not just a toolset
 
   <div class="left-half">
 
-(TO-DO Translate)
+## Une mauvaise pomme gâche le tonneau
+
+Si une équipe n'automatise pas, le déploiement à la demande est impossible
 
   </div>
 
@@ -793,7 +859,9 @@ If one team doesn't automate, deployment on demand is dead
 
   <div class="left-half">
 
-(TO-DO Translate)
+#### Les outils ne sont que des outils : Se concentrer sur la cadence
+
+Organiser les équipes : Topologies de l'équipe
 
   </div>
 
@@ -815,7 +883,14 @@ Organizing teams: Team Topologies
 
   <div class="left-half">
 
-(TO-DO Translate)
+## Conclusion
+
+#### Automatisation
+
+- Réduire le labeur
+  - Apporter des capacités d'automatisation à vos équipes
+- Éliminer des processus
+- Limiter les restrictions d'accès lorsque cela est possible
 
   </div>
 
@@ -840,7 +915,7 @@ Organizing teams: Team Topologies
 
   <div class="left-half">
 
-(TO-DO Translate)
+Visiter le [site Web de Stratégie TI](https://sara-sabr.github.io/ITStrategy/accueil.html)
 
   </div>
 
@@ -864,7 +939,7 @@ Visit the [IT Strategy website](https://sara-sabr.github.io/ITStrategy/home.html
     height: 435px;
   }
 
-  .long-text ul li p, .long-text ul li {
+  .long-text li, .long-text p {
     font-size: 30px;
   }
 
@@ -877,14 +952,14 @@ Visit the [IT Strategy website](https://sara-sabr.github.io/ITStrategy/home.html
   .left-half {
     
     position: absolute;
-    left: 0px;
+    left: -15px;
     width: 50%;
   }
 
   .right-half {
     background-color: rgba(147,161,161, 0.15);
     position: absolute;
-    right: 0px;
+    right: -15px;
     width: 50%;
   }
 
