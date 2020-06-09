@@ -22,7 +22,7 @@ Gabriel Cossette, EDSC-ESDC [@GabrielCossette](https://twitter.com/GabrielCosset
 
   <div class="left-half">
 
-### BISM / DTS
+### SAGI / STN
 
 - Eric Dube
 - Kyle Meelker
@@ -35,7 +35,7 @@ Gabriel Cossette, EDSC-ESDC [@GabrielCossette](https://twitter.com/GabrielCosset
 
   <div class="right-half">
 
-### BISM / DTS
+### BSIM / DTS
 
 - Eric Dube
 - Kyle Meelker
@@ -435,7 +435,7 @@ Upskill teams & miminize size
 
 #### Automatisation
 
-<img src="./assets/images/Whitelite-Showcase-IsThisAutomation.PNG" class="image-large" alt="Est-ce de l'automatisation de l'infonuagique? Non" />
+<img src="./assets/images/Whitelite-Showcase-IsThisAutomation-FR.jpg" class="image-large" alt="Est-ce de l'automatisation de l'infonuagique? Non" />
 
   </div>
 
@@ -523,7 +523,7 @@ High-Level Architecture
 
   <div class="left-half">
 
-<img src="./assets/images/Whitelite-Showcase-ValueOrProcess.PNG" class="image-large" alt="Suivre le processus ou offrir de la valeur?" />
+<img src="./assets/images/Whitelite-Showcase-ValueOrProcess-FR.jpg" class="image-large" alt="Suivre le processus ou offrir de la valeur?" />
   - AE du DPI
 
   </div>
