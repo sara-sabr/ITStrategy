@@ -513,7 +513,7 @@ Upskill teams & miminize size
 
   <div class="right-half">
 
-#### Automation
+### Automation
 
 <img src="./assets/images/Whitelite-Showcase-Cloud.jpg" style="margin-top: 40px;" class="image-medium" alt="Self-service over cloud" />
 
@@ -561,7 +561,7 @@ High-Level Architecture
 
 <div class="shared-content">
 
-<img src="./assets/images/Whitelite-Showcase-CloudArch.PNG" class="image-medium" alt="Cloud architecture of solution" />
+<img src="./assets/images/Whitelite-Showcase-CloudArch.PNG" class="image-large" alt="Cloud architecture of solution" />
 
 </div>
 
@@ -573,7 +573,7 @@ High-Level Architecture
 
   <div class="left-half">
 
-<img src="./assets/images/Whitelite-Showcase-ValueOrProcess-FR.jpg" class="image-medium" alt="Suivre le processus ou offrir de la valeur?" />
+<img src="./assets/images/Whitelite-Showcase-ValueOrProcess-FR.jpg" class="image-large" alt="Suivre le processus ou offrir de la valeur?" />
   
   - AE du DPI
 
@@ -791,7 +791,7 @@ by doubling the amount of staff
 
 ### Pourquoi me soucier du labeur?
 
-<img src="./assets/images/Whitelite-Showcase-Toil-problem.PNG" class="image-medium" alt="Ceux qui automatisent surchargent ceux qui ne le font pas" />
+<img src="./assets/images/Whitelite-Showcase-Toil-problem.PNG" class="image-small" alt="Ceux qui automatisent surchargent ceux qui ne le font pas" />
 
 [Lien (anglais)](https://www.desmos.com/calculator/kvubrihz0h)
 
@@ -801,7 +801,7 @@ by doubling the amount of staff
 
 ### Why do I care about toil?
 
-<img src="./assets/images/Whitelite-Showcase-Toil-problem.PNG" class="image-medium" alt="Those who automate overload those who do not" />
+<img src="./assets/images/Whitelite-Showcase-Toil-problem.PNG" class="image-small" alt="Those who automate overload those who do not" />
 
 [Link](https://www.desmos.com/calculator/kvubrihz0h)
 
@@ -991,6 +991,10 @@ Visit the [IT Strategy website](https://sara-sabr.github.io/ITStrategy/home.html
 
   img.image-medium {
     height: 435px;
+  }
+
+  img.image-small {
+    height: 400px;
   }
 
   .long-text li, .long-text p {
