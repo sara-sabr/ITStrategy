@@ -995,7 +995,7 @@ Visit the [IT Strategy website](https://sara-sabr.github.io/ITStrategy/home.html
   }
 
   img.image-small {
-    height: 380px;
+    height: 360px;
   }
 
   .long-text li, .long-text p {
