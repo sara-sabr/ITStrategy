@@ -134,7 +134,7 @@ IITB Showcase Presentation
 ### SNC
 
     - Calvin Rodo
-      - Champion de sécurité
+      - Champion de la sécurité
 
   </div>
 
@@ -253,7 +253,9 @@ Respond to user needs within minutes
 
 ### Normes numériques du gouvernement du Canada
 
-_Effectuer régulièrement des itérations et des améliorations : Élaborer des services au moyen de méthodes souples et itératives, axées sur l’utilisateur. Effectuer constamment des améliorations en réponse aux besoins des utilisateurs. Essayer de nouvelles approches, commencer petit et passer à l’échelon supérieur._
+**_Effectuer régulièrement des itérations et des améliorations_**
+
+_Élaborer des services au moyen de méthodes souples et itératives, axées sur l’utilisateur. Effectuer constamment des améliorations en réponse aux besoins des utilisateurs. Essayer de nouvelles approches, commencer petit et passer à l’échelon supérieur._
 
   </div>
 
@@ -261,7 +263,9 @@ _Effectuer régulièrement des itérations et des améliorations : Élaborer des
 
 ### Digital Standards
 
-_Iterate and improve frequently: Develop services using agile, iterative and user-centred methods. Continuously improve in response to user needs. Try new things, start small and scale up._
+**_Iterate and improve frequently_**
+
+_Develop services using agile, iterative and user-centred methods. Continuously improve in response to user needs. Try new things, start small and scale up._
 
   </div>
 
@@ -299,7 +303,7 @@ _A.2.3.2.1 Focus on the needs of users, using agile, iterative, and user-centred
 
   <div class="left-half">
 
-#### Démontrez l'application
+#### Montrer l'application
 
   </div>
 
@@ -317,7 +321,7 @@ _A.2.3.2.1 Focus on the needs of users, using agile, iterative, and user-centred
 
   <div class="left-half">
 
-#### Demande de déploiement en production
+#### Demander le déploiement en production
 
   </div>
 
@@ -384,6 +388,8 @@ _A.2.3.2.1 Focus on the needs of users, using agile, iterative, and user-centred
 <div class="container">
 
   <div class="left-half">
+
+## Comment
 
 - Pour plus de détails, consultez [Team Topologies Inspired Whitelist App Development (anglais)](https://sara-sabr.github.io/ITStrategy/2020/05/20/Team-Topologies-Whitelisting-app.html)
 
@@ -501,7 +507,7 @@ Upskill teams & miminize size
 
 ### Automatisation
 
-<img src="./assets/images/Whitelite-Showcase-Cloud.PNG" class="image-medium" alt="Libre service avant l'infonuagique" />
+<img src="./assets/images/Whitelite-Showcase-Cloud-FR.jpg" class="image-medium" alt="Libre-service avant l'infonuagique" />
 
   </div>
 
@@ -509,7 +515,7 @@ Upskill teams & miminize size
 
 #### Automation
 
-<img src="./assets/images/Whitelite-Showcase-Cloud.PNG" style="margin-top: 40px;" class="image-medium" alt="Self-service over cloud" />
+<img src="./assets/images/Whitelite-Showcase-Cloud.jpg" style="margin-top: 40px;" class="image-medium" alt="Self-service over cloud" />
 
   </div>
 
@@ -575,8 +581,7 @@ High-Level Architecture
   <div class="right-half">
 
 <img src="./assets/images/Whitelite-Showcase-ValueOrProcess.PNG" class="image-large" alt="Follow process or deliver value?" />
-  
-  
+
 - ATO from CIO
 
   </div>
@@ -958,6 +963,8 @@ Organizing teams: Team Topologies
 <div class="container">
 
   <div class="left-half">
+
+## Pour en savoir plus
 
 Visiter le [site Web de Stratégie TI](https://sara-sabr.github.io/ITStrategy/accueil.html)
 
