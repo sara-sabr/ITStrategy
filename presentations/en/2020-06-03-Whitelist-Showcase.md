@@ -2,15 +2,39 @@
 <!--markdownlint-disable MD033-->
 <!--markdownlint-disable MD035-->
 <!--markdownlint-disable MD036-->
-## Application Liste blanche (Odoo) : | Whitelist Application (Odoo):
 
-## Le périple | The Journey
+<div class="container">
 
-Présentation DGIIT en exposition | IITB Showcase Presentation
+  <div class="left-half">
 
-Jayson McIntosh, EDSC-ESDC - [@jaysonmcintosh](https://twitter.com/jaysonmcintosh)
-Dwayne Moore, EDSC-ESDC - [@distilledlife](https://twitter.com/distilledlife)
-Gabriel Cossette, EDSC-ESDC [@GabrielCossette](https://twitter.com/GabrielCossette)
+### Application Liste blanche (Odoo)
+
+#### Le périple
+
+Présentation DGIIT en exposition
+
+  </div>
+
+  <div class="right-half">
+
+### Whitelist Application (Odoo)
+
+#### The Journey
+
+IITB Showcase Presentation
+
+  </div>
+
+</div>
+
+--
+
+- Jayson McIntosh, EDSC-ESDC
+  - [@jaysonmcintosh](https://twitter.com/jaysonmcintosh)
+- Dwayne Moore, EDSC-ESDC
+  - [@distilledlife](https://twitter.com/distilledlife)
+- Gabriel Cossette, EDSC-ESDC
+  - [@GabrielCossette](https://twitter.com/GabrielCossette)
 
 ---
 
@@ -22,7 +46,7 @@ Gabriel Cossette, EDSC-ESDC [@GabrielCossette](https://twitter.com/GabrielCosset
 
   <div class="left-half">
 
-### BISM / DTS
+### SAGI / STN
 
 - Eric Dube
 - Kyle Meelker
@@ -35,7 +59,7 @@ Gabriel Cossette, EDSC-ESDC [@GabrielCossette](https://twitter.com/GabrielCosset
 
   <div class="right-half">
 
-### BISM / DTS
+### BSIM / DTS
 
 - Eric Dube
 - Kyle Meelker
@@ -110,7 +134,7 @@ Gabriel Cossette, EDSC-ESDC [@GabrielCossette](https://twitter.com/GabrielCosset
 ### SNC
 
     - Calvin Rodo
-      - Champion de sécurité
+      - Champion de la sécurité
 
   </div>
 
@@ -144,7 +168,7 @@ Première application dans le nuage PB
 
   <div class="right-half">
 
-Demo to CIO in 10 days
+Demo to CIO in 10 days using OSS
 
 First app on PB Cloud
 
@@ -223,13 +247,15 @@ Respond to user needs within minutes
 
 --
 
-<div class="container">
+<div class="container long-text">
 
   <div class="left-half">
 
 ### Normes numériques du gouvernement du Canada
 
-_Effectuer régulièrement des itérations et des améliorations : Élaborer des services au moyen de méthodes souples et itératives, axées sur l’utilisateur. Effectuer constamment des améliorations en réponse aux besoins des utilisateurs. Essayer de nouvelles approches, commencer petit et passer à l’échelon supérieur._
+**_Effectuer régulièrement des itérations et des améliorations_**
+
+_Élaborer des services au moyen de méthodes souples et itératives, axées sur l’utilisateur. Effectuer constamment des améliorations en réponse aux besoins des utilisateurs. Essayer de nouvelles approches, commencer petit et passer à l’échelon supérieur._
 
   </div>
 
@@ -237,7 +263,9 @@ _Effectuer régulièrement des itérations et des améliorations : Élaborer des
 
 ### Digital Standards
 
-_Iterate and improve frequently: Develop services using agile, iterative and user-centred methods. Continuously improve in response to user needs. Try new things, start small and scale up._
+**_Iterate and improve frequently_**
+
+_Develop services using agile, iterative and user-centred methods. Continuously improve in response to user needs. Try new things, start small and scale up._
 
   </div>
 
@@ -245,11 +273,13 @@ _Iterate and improve frequently: Develop services using agile, iterative and use
 
 --
 
-<div class="container">
+<div class="container long-text">
 
   <div class="left-half">
 
-### Directive sur les services et le numérique - Annexe A : Procédures obligatoires pour l’évaluation de l’architecture intégrée
+#### Directive sur les services et le numérique
+
+##### Annexe A : Procédures obligatoires pour l’évaluation de l’architecture intégrée
 
 _A.2.3.2.1 Se concentrer sur les besoins des utilisateurs, en adoptant des méthodes agiles, itératives et centrées sur l'utilisateur._
 
@@ -257,7 +287,9 @@ _A.2.3.2.1 Se concentrer sur les besoins des utilisateurs, en adoptant des méth
 
   <div class="right-half">
 
-### Directive on Service and Digital - Appendix A: Mandatory Procedures for Enterprise Architecture Assessment
+#### Directive on Service and Digital -
+
+##### Appendix A: Mandatory Procedures for Enterprise Architecture Assessment
 
 _A.2.3.2.1 Focus on the needs of users, using agile, iterative, and user-centred methods_
 
@@ -271,7 +303,25 @@ _A.2.3.2.1 Focus on the needs of users, using agile, iterative, and user-centred
 
   <div class="left-half">
 
-#### Demande de déploiement en production
+#### Montrer l'application
+
+  </div>
+
+  <div class="right-half">
+
+#### Show application
+
+  </div>
+
+</div>
+
+--
+
+<div class="container">
+
+  <div class="left-half">
+
+#### Demander le déploiement en production
 
   </div>
 
@@ -339,6 +389,8 @@ _A.2.3.2.1 Focus on the needs of users, using agile, iterative, and user-centred
 
   <div class="left-half">
 
+## Comment
+
 - Pour plus de détails, consultez [Team Topologies Inspired Whitelist App Development (anglais)](https://sara-sabr.github.io/ITStrategy/2020/05/20/Team-Topologies-Whitelisting-app.html)
 
   </div>
@@ -359,8 +411,6 @@ _A.2.3.2.1 Focus on the needs of users, using agile, iterative, and user-centred
 
   <div class="left-half">
 
-## Comment
-
 ### Topologies d'équipe : Gouvernées par le gouvernement
 
 <img src="./assets/images/TTBlog-Figure4.PNG" class="image-medium" alt="Les propriétaires de produits gèrent les produits; les gestionnaires gèrent les personnes; le chef de projet gère le projet" />
@@ -369,11 +419,9 @@ _A.2.3.2.1 Focus on the needs of users, using agile, iterative, and user-centred
 
   <div class="right-half">
 
-## How
-
 ### Team Topologies: Governmentized
 
-<img src="./assets/images/TTBlog-Figure4.PNG" class="image-medium" alt="Product owners manage product; managers manage people; project manager manages project" />
+<img src="./assets/images/TTBlog-Figure4.PNG" class="image-medium" alt="Product owners manage product; managers manage people; project manager manages project" style="margin-top:60px" />
 
   </div>
 
@@ -435,7 +483,7 @@ Upskill teams & miminize size
 
 #### Automatisation
 
-<img src="./assets/images/Whitelite-Showcase-IsThisAutomation.PNG" class="image-large" alt="Est-ce de l'automatisation de l'infonuagique? Non" />
+<img src="./assets/images/Whitelite-Showcase-IsThisAutomation-FR.jpg" class="image-large" alt="Est-ce de l'automatisation de l'infonuagique? Non" />
 
   </div>
 
@@ -443,7 +491,7 @@ Upskill teams & miminize size
 
 #### Automation
 
-<img src="./assets/images/Whitelite-Showcase-IsThisAutomation.PNG" class="image-large" alt="Is cloud automation? No" />
+<img src="./assets/images/Whitelite-Showcase-IsThisAutomation.PNG" class="image-medium" alt="Is cloud automation? No" />
 
   </div>
 
@@ -459,7 +507,7 @@ Upskill teams & miminize size
 
 ### Automatisation
 
-<img src="./assets/images/Whitelite-Showcase-Cloud.PNG" class="image-large" alt="Libre service avant l'infonuagique" />
+<img src="./assets/images/Whitelite-Showcase-Cloud-FR.jpg" class="image-medium" alt="Libre-service avant l'infonuagique" />
 
   </div>
 
@@ -467,7 +515,7 @@ Upskill teams & miminize size
 
 #### Automation
 
-<img src="./assets/images/Whitelite-Showcase-Cloud.PNG" class="image-large" alt="Self-service over cloud" />
+<img src="./assets/images/Whitelite-Showcase-Cloud.jpg" style="margin-top: 40px;" class="image-medium" alt="Self-service over cloud" />
 
   </div>
 
@@ -503,17 +551,19 @@ High-Level Architecture
 
 #### Architecture de l'infonuagique
 
-<img src="./assets/images/Whitelite-Showcase-CloudArch.PNG" class="image-large" alt="Architecture de l'infonuagique de la solution" />
-
   </div>
 
   <div class="right-half">
 
 #### Cloud Architecture
 
+  </div>
+
+<div class="shared-content">
+
 <img src="./assets/images/Whitelite-Showcase-CloudArch.PNG" class="image-large" alt="Cloud architecture of solution" />
 
-  </div>
+</div>
 
 </div>
 
@@ -523,7 +573,7 @@ High-Level Architecture
 
   <div class="left-half">
 
-<img src="./assets/images/Whitelite-Showcase-ValueOrProcess.PNG" class="image-large" alt="Suivre le processus ou offrir de la valeur?" />
+<img src="./assets/images/Whitelite-Showcase-ValueOrProcess-FR.jpg" class="image-large" alt="Suivre le processus ou offrir de la valeur?" />
   - AE du DPI
 
   </div>
@@ -531,7 +581,8 @@ High-Level Architecture
   <div class="right-half">
 
 <img src="./assets/images/Whitelite-Showcase-ValueOrProcess.PNG" class="image-large" alt="Follow process or deliver value?" />
-  - ATO from CIO
+
+- ATO from CIO
 
   </div>
 
@@ -571,7 +622,7 @@ High-Level Architecture
 
 --
 
-<div class="container">
+<div class="container long-text">
 
   <div class="left-half">
 
@@ -761,8 +812,6 @@ Reducing the processing time by half, by doubling the amount of staff
 
   <div class="left-half">
 
-### Pourquoi me soucier du labeur?
-
 ## Solution 1 : Embaucher des développeurs
 
 Lecture complémentaire (anglais) : [Google SRE Book, Introduction (Google’s Approach to Service Management: Site Reliability Engineering)](https://landing.google.com/sre/sre-book/chapters/introduction/)
@@ -770,8 +819,6 @@ Lecture complémentaire (anglais) : [Google SRE Book, Introduction (Google’s A
   </div>
 
   <div class="right-half">
-
-### Why do I care about toil?
 
 ## Solution 1: Hire developers
 
@@ -881,7 +928,7 @@ Organizing teams: Team Topologies
 
 --
 
-<div class="container">
+<div class="container long-text">
 
   <div class="left-half">
 
@@ -917,6 +964,8 @@ Organizing teams: Team Topologies
 
   <div class="left-half">
 
+## Pour en savoir plus
+
 Visiter le [site Web de Stratégie TI](https://sara-sabr.github.io/ITStrategy/accueil.html)
 
   </div>
@@ -948,20 +997,20 @@ Visit the [IT Strategy website](https://sara-sabr.github.io/ITStrategy/home.html
   /*Pattern styles*/
   .container {
     display: table;
-    width: 100%;
+    width: 112%;
   }
 
   .left-half {
     position: absolute;
-    left: -15px;
-    width: 50%;
+    left: -110px;
+    width: 60%;
   }
 
   .right-half {
     background-color: rgba(147,161,161, 0.15);
     position: absolute;
-    right: -15px;
-    width: 50%;
+    right: -110px;
+    width: 60%;
   }
 
   .shared-content {
