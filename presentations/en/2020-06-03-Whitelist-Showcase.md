@@ -477,7 +477,7 @@ Upskill teams & miminize size
 
 #### Automatisation
 
-<img src="./assets/images/Whitelite-Showcase-IsThisAutomation.PNG" class="image-large" alt="Est-ce de l'automatisation de l'infonuagique? Non" />
+<img src="./assets/images/Whitelite-Showcase-IsThisAutomation.PNG" class="image-medium" alt="Est-ce de l'automatisation de l'infonuagique? Non" />
 
   </div>
 
@@ -485,7 +485,7 @@ Upskill teams & miminize size
 
 #### Automation
 
-<img src="./assets/images/Whitelite-Showcase-IsThisAutomation.PNG" class="image-large" alt="Is cloud automation? No" />
+<img src="./assets/images/Whitelite-Showcase-IsThisAutomation.PNG" class="image-medium" alt="Is cloud automation? No" />
 
   </div>
 
@@ -501,7 +501,7 @@ Upskill teams & miminize size
 
 ### Automatisation
 
-<img src="./assets/images/Whitelite-Showcase-Cloud.PNG" class="image-large" alt="Libre service avant l'infonuagique" />
+<img src="./assets/images/Whitelite-Showcase-Cloud.PNG" class="image-medium" alt="Libre service avant l'infonuagique" />
 
   </div>
 
@@ -509,7 +509,7 @@ Upskill teams & miminize size
 
 #### Automation
 
-<img src="./assets/images/Whitelite-Showcase-Cloud.PNG" class="image-large" alt="Self-service over cloud" />
+<img src="./assets/images/Whitelite-Showcase-Cloud.PNG" style="margin-top: 40px;" class="image-medium" alt="Self-service over cloud" />
 
   </div>
 
