@@ -1,3 +1,4 @@
+<!--markdownlint-disable MD001-->
 <!--markdownlint-disable MD026-->
 <!--markdownlint-disable MD033-->
 <!--markdownlint-disable MD035-->
@@ -251,7 +252,7 @@ Respond to user needs within minutes
 
   <div class="left-half">
 
-### Normes numériques du gouvernement du Canada
+#### Normes numériques du gouvernement du Canada
 
 **_Effectuer régulièrement des itérations et des améliorations_**
 
@@ -261,7 +262,7 @@ _Élaborer des services au moyen de méthodes souples et itératives, axées sur
 
   <div class="right-half">
 
-### Digital Standards
+#### Digital Standards
 
 **_Iterate and improve frequently_**
 
@@ -411,7 +412,7 @@ _A.2.3.2.1 Focus on the needs of users, using agile, iterative, and user-centred
 
   <div class="left-half">
 
-### Topologies d'équipe : Gouvernementisé
+#### Topologies d'équipe : Gouvernementisé
 
 <img src="./assets/images/TTBlog-Figure4.PNG" class="image-medium" alt="Les propriétaires de produits gèrent les produits; les gestionnaires gèrent les personnes; le chef de projet gère le projet" style="margin-top:60px" />
 
@@ -419,7 +420,7 @@ _A.2.3.2.1 Focus on the needs of users, using agile, iterative, and user-centred
 
   <div class="right-half">
 
-### Team Topologies: Governmentized
+#### Team Topologies: Governmentized
 
 <img src="./assets/images/TTBlog-Figure4.PNG" class="image-medium" alt="Product owners manage product; managers manage people; project manager manages project" style="margin-top:60px" />
 
@@ -629,7 +630,7 @@ High-Level Architecture
 
 ## Leçons apprises
 
-Ce qu'il ne faut pas dire si votre travail implique des processus de déploiement d'une manière ou d'une autre
+Ce qu'il ne faut pas dire si votre travail implique des processus de déploiement
 
 - Pour lancer ce processus, remplissez ce formulaire.
 - X est la responsabilité de chacun.
@@ -815,7 +816,7 @@ by doubling the amount of staff
 
   <div class="left-half">
 
-## Solution 1 : Embaucher des développeurs
+### Solution 1 : Embaucher des développeurs
 
 Lecture complémentaire (anglais) : [Google SRE Book, Introduction (Google’s Approach to Service Management: Site Reliability Engineering)](https://landing.google.com/sre/sre-book/chapters/introduction/)
 
@@ -823,7 +824,7 @@ Lecture complémentaire (anglais) : [Google SRE Book, Introduction (Google’s A
 
   <div class="right-half">
 
-## Solution 1: Hire developers
+### Solution 1: Hire developers
 
 Further reading: [Google SRE Book, Introduction (Google’s Approach to Service Management: Site Reliability Engineering)](https://landing.google.com/sre/sre-book/chapters/introduction/)
 
@@ -994,7 +995,7 @@ Visit the [IT Strategy website](https://sara-sabr.github.io/ITStrategy/home.html
   }
 
   img.image-small {
-    height: 400px;
+    height: 380px;
   }
 
   .long-text li, .long-text p {
