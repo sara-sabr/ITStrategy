@@ -997,7 +997,7 @@ Visit the [IT Strategy website](https://sara-sabr.github.io/ITStrategy/home.html
   /*Pattern styles*/
   .container {
     display: table;
-    width: 112%;
+    width: 100%;
   }
 
   .left-half {
