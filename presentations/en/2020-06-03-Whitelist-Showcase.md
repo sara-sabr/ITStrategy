@@ -2,11 +2,32 @@
 <!--markdownlint-disable MD033-->
 <!--markdownlint-disable MD035-->
 <!--markdownlint-disable MD036-->
-## Application Liste blanche (Odoo) : | Whitelist Application (Odoo):
 
-## Le périple | The Journey
+<div class="container">
 
-Présentation DGIIT en exposition | IITB Showcase Presentation
+  <div class="left-half">
+
+### Application Liste blanche (Odoo)
+
+#### Le périple
+
+Présentation DGIIT en exposition
+
+  </div>
+
+  <div class="right-half">
+
+### Whitelist Application (Odoo)
+
+#### The Journey
+
+IITB Showcase Presentation
+
+  </div>
+
+</div>
+
+--
 
 Jayson McIntosh, EDSC-ESDC - [@jaysonmcintosh](https://twitter.com/jaysonmcintosh)
 Dwayne Moore, EDSC-ESDC - [@distilledlife](https://twitter.com/distilledlife)
