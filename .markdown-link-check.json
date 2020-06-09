@@ -16,6 +16,12 @@
       "pattern": "http://dialogue"
     },
     {
+      "pattern": "https://dialogue"
+    },
+    {
+      "pattern": "https://014gc.sharepoint.com"
+    },
+    {
       "pattern": "https://gcconnex.gc.ca"
     },
     {
@@ -44,6 +50,24 @@
     },
     {
       "pattern": "https://gpp-ppm.service.gc.ca"
+    },
+    {
+      "pattern": "https://esdc.sabacloud.com"
+    },
+    {
+      "pattern": "https://www.canva.com"
+    },
+    {
+      "pattern": "https://meet.jit.si"
+    },
+    {
+      "pattern": "https://framavox.org"
+    },
+    {
+      "pattern": "https://open.canada.ca"
+    },
+    {
+      "pattern": "https://www.pcloud.com"
     }
   ]
 }

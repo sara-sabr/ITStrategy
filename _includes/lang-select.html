@@ -1,0 +1,53 @@
+<script>
+    function selectLanguage(e){  
+      e = e || window.event;
+      var src;
+      if (! (e.target || e.srcElement) ){
+        src = e
+      }
+      else{
+        src = e.target || e.srcElement;
+      }
+
+      var selectedLanguage = src.innerText.trim()
+
+    
+      if (selectedLanguage === "{{ site.language.en }}"){
+        localStorage.setItem(
+          "language", "{{ site.language.en }}"
+        )
+
+        
+        if (src.attributes.hasOwnProperty("href") && src.attributes.href.value !== ""){
+            window.location.replace(
+                src.attributes.href.value
+            )
+        }
+        else {
+            window.location.replace(
+                "./{{ site.index.en }}"
+            )
+
+        }
+      }
+
+      else if ( selectedLanguage === "{{ site.language.fr }}" ){
+        localStorage.setItem(
+          "language", "{{ site.language.fr }}"
+        )
+
+        if (src.attributes.hasOwnProperty("href") && src.attributes.href.value !== ""){
+            window.location.replace(
+                src.attributes.href.value
+            )
+        }
+        else {
+            window.location.replace(
+                "./{{ site.index.fr }}"
+            )
+
+        }
+    
+      }
+    }  
+</script>

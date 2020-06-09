@@ -1,194 +1,142 @@
-<!--markdownlint-disable MD033-->
+<!--markdownlint-disable MD001 MD033 MD026 MD036 -->
+<style>
+.reveal section img { background:none; border:none; box-shadow:none; }
+</style>
+
 # Senior Leadership Forum
 
-ESDC IT Strategy (30 min presentation)
+ESDC IT Strategy
 
 2020-01-29
 
 ---
 
-## Agenda
+<img src="assets/images/slf-presentation-smartphone-adoption-infographic-v2-1007.png" alt="Graph of smartphone adoption rate: 1 billion users took 16 years but only 4 years to reach 2 billion" height="85%" width="85%">
 
-1. Nonconventional approach to IT Strategy
-2. Focus Areas
-3. Strategies and Actions
+Note:
+
+- Change is already here, we are experiencing it right now
+
+--
+
+### Change is the only constant, and its rate is accelerating
+
+Note:
+
+- The upcoming Policy on Service and Digital, OneGC, and the GC Digital Stanards, is the GC catching up with citizens expectations
+- Banks are training investment bankers to code. From Financial Times and Wall Street Journal.
+
+  - E.g. Citigroup traders get a 3-day Python course. JPMorgan Chase 300 analysts mandatory Python programming courses.
+  - Source: https://www.techrepublic.com/article/why-big-banks-are-requiring-workers-to-learn-coding/
+- Windows operating system has 60 million lines of code
+- In 2010 cars already contained around one hundred million
+  - Source: [Project to Product, Mik Kersten](https://projecttoproduct.org/)
+
+--
+
+![Accessibily act infographic](./assets/images/slf-presentation-accessibility.jpg)
+
+Note:
+
+- Accessibility is one example. Cyber-Security, Information Management, responsible use of public funds can also be added to the list
+
+--
+
+### How are we handling those changes right now?
+
+1. Priorities
+2. Revisited Project Estimates
+3. Dependencies to Other Teams
+
+Note:
+
+- Ask 3 questions to the audience to get their impression
+- Hypothesis of results in line with Public Service Employee Survey for ESDC CS category. Source: https://www.tbs-sct.gc.ca/pses-saff/2019/results-resultats/bq-pq/02/dem9424-eng.aspx
+- In particular following questions:
+  - Q17. I can complete my assigned workload during my regular working hours: CS5 = 33% rarely or almost never
+  - Q18a. I feel that the quality of my work suffers because of... constantly changing priorities: CS4 = 48%, CS5 = 40% always or often
+  - Q18d. I feel that the quality of my work suffers because of... unreasonable deadlines" CS4 = 38%, CS5 = 48% always or often
+  - Q40. I feel that change is managed well in my department or agency: CS4 = 28%, CS5 = 26% somewhat or strongly disagree
+  - Q74b. Overall, to what extent do the following factors cause you stress at work? Heavy workload, CS4 = 41$, CS5 = 52% large or very large extent
+  - Q74c. Overall, to what extent do the following factors cause you stress at work? Unreasonable deadlines, CS4 = 27%, CS5 = 39% large or very large extent
+  - Q74d. Overall, to what extent do the following factors cause you stress at work? Not enough employees to do the work, CS4 = 35%, CS5 = 29% large or very large extent
+
+--
+
+![This if fine meme](./assets/images/slf-presentation-this-is-fine.jpg)
 
 ---
 
-## 1. Approach to IT Strategy
+### Our Mandate: helping you navigate through change
 
-### Context
-
-- Identification of need for an IT Strategy team: Dec. 2018 (inception of IITB Way Forward)
-- Expectation of an _single integrated business and IT strategy, founded on a common and clear enterprise architecture, in alignment with GC priorities_
-
-> IT Strategy team at 2019 CIOC: we are **not** doing this
+![Mandate: helping you navigate through change](./assets/images/slf-presentation-mandate.png)
 
 Note:
 
-- Dec 2018: Senior Leaders of IM/IT To discuss the evolution and maturation of ESDC’s IM/IT service delivery supporting programs, departmental systems, and employees
-- Problem Statement: changes will have a fundamental impact on how IM/IT services are delivered in support of ESDC programs
-- Conventional IT = predicting what business will want and planning ahead of time
-- JOKE: we know it sounds presumptious
-
---
-
-### What we are doing instead
-
-Focus on IT's ability to quickly respond to business changes
-
-> To work effectively in the digital world, you must first accept complexity and uncertainty, for they demand very different approach to carrying out initiatives. A predictable world rewards advanced planning and rigid plan execution. But a complex and uncertain world rewards an empirical cycle of trying, observing, and correcting.
-
-- Mark Schwartz
-
-Note:
-
-- Premise: The future is too unpredictable and complex. New style of managing initiatives
-- Digital: IT is not longer a back-office function
-- The relationship between business and IT _must_ change to a shared accountability model
-- Conventional contracting model (requirements based, a company within a company) to a partnership one (outcomes based, one team solving problems)
-- This means Business MUST share the costs and risks of using technology
-- This means IT MUST be able to change as fast as business
-
---
-
-### Mandate
-
-Enable the strategic value of IT within ESDC by reducing its risks and increasing business agility
-
-Note:
-
-- Speed is how we can reduce risks
-- But we are not setup for speed
-
---
-
-### How we are **doing** strategy making
-
-In the Open. All are welcome and invited to comment and contribute to the strategies at all times
-
-Customers, private sector partners, other levels of government, or other departments...
-
-Note:
-
-- We purposefully put our content on the internet so that it is discoverable and shareable outside ESDC
-
---
-
-### Diagnose and recommend changes
-
-> Problems that inhibit the desired changes in behaviours
-
-E.g.
-
-1. CFOB's Policy on Project and Program  Management (PPPM)
-2. AppDev Senior Advisors Release Process
-
-Note:
-
-- 2 examples
-- PMLC from CFOB: small IT Project requires 21 and 34 PM artefacts, 48 and 54 PM activities, and involving min 16 stakeholders.
-- SA's Release Process: 13 separate teams and up to 45 interactions. Sources of waste, error, dilutes empathy towards end user, affects employee moral (DORA research)
-- Work already happening within IITB PMO, SAs, and other product teams to reduce time to production (DTS, Interop)
-
---
-
-### Measuring progress
-
-> Making course correction from emperical evidence
-
-Note:
-
-- Using non-invasing data collection methods
-- Humility: treat strategy as a hypothesis that needs validation
-
---
-
-### Challenge current thinking and approaches
-
-To reduce organizational debt
-
-E.g.
-
-- Exposed work in progress via Kanban boards = No more status update meetings
-- Modern solutions from the industry needing modern clients
-- Technical work needing to be reviewed by non technical staff for approval
-- Defaults over Standards
-
-Note:
-
-- JOKE: we know it sounds even MORE presumptious
-- Organizational debt = expecting new methods of doing things by modern tool adoption but not retiring the old ways of doing things
-- Modern clients: this Web-based presentation doesn't work in IE. We could make it work because OSS. But that defeats the purpose
-- Default: If an expert in their respective area proposes a different approach than the departmental 'default' they are free to do so -- perhaps that will become the next default.
+- We want to enable IT to rapidly respond to changes
+- We do this by reducing risks and enabling untapped strategic value of technology
+- The idea here is accepting complexity and finding new methods of managing IT investements
+- E.g. reduce project sizes, improve information flow between teams, make it less onerous to approve change, use emperical evidence to inform decisions
+- E.g. of problems identified: AppDev SAs release process needing 13 separate teams and up to 46 interactions
 
 ---
 
-## 2. Focused Areas
+### Our Approach
 
-- Moving to Product Management
-- 21 DevOps capabilities (DORA), including job satisfaction
-- Adoption of Open Source, as a philosophy
-- Empowering employees
-- Automation to allow staff to focus on meaningful work
-- Enable IITB teams to design for users with users, iterate and improve frequently
-
-Link to [Strategy Map](strategy-summary.html)
+<img src="assets/images/slf-presentation-approach.png" alt="Approach: Diagnose, Recommend, Measure, Enable New Ways" height="85%" width="85%">
 
 Note:
 
-- Product Management: affects funding model, team composition, automatic deployment, lessons learned
-- DORA: Institude that studies high performing technology organization
-- Enabling IITB: focus on client-centric service design and delivery, an approach that focuses on addressing client or user expectations, needs, challenges, and feedback. We  need to talk to the user to know their needs and expectations. Get feedback, identify user needs, come up with design ideas
-- IT Strategy team will start engaging with IITB teams soon to get their feedback, as users, on what needs to happen to get there
+1. Diagnose
+   - Work transparently with our users
+   - clearly identify problems
+   - Research best practices
+2. Recommendations
+   - Enabling new ways of thinking
+   - Strategies and actions that work for both the working level and management
+3. Measuring Progress
+   - Progress with metrics, non-invasive
+   - use emperical evidence to course correct
+4. Improvement
+   - Enabling new ways of working and ensuring we retire the old ones (Organizational Debt)
 
 ---
 
-## 3. Strategies and actions
-
-- Starting in the new fiscal year, IT Strategy will propose tangible quarterly actions to be integrated into daily work
-- During each quarter, IT Strategy will list their actions for the quarter, and advise actions the Branch should take
+![Meme 'Who wants change?'](./assets/images/slf-presentation-change-question.jpg)
 
 --
 
-### Goals
-
-- Continuously learn, automate and improve
-- Reduce lead time for changes and delivery of services/devices
-- Recover faster incidents and errors
-- Reduce frequency of incidents and errors
-- Align with GC IT Direction
-
---
-
-### Q1 (2020-04) strategies and actions
-
-> **Use 20% of time to Learn, Automate and Improve**
-
-- Use CATS codes for continuous improvement
-- Gather metrics for things your teams work on - show progress
-
-[Q1 Strategies and Actions](strategy-learning-automating-improving.html)
+### Questions
 
 ---
 
-## Supporting material and information
-
-- [IT Strategy team's public workspace](https://github.com/sara-sabr/ITStrategy)
-- [Q1 Strategies and Actions](strategy-learning-automating-improving.html)
-- [General Strategies and Actions](strategies-actions.html)
-- [Strategy Map](strategy-summary.html)
-- [Medium Term IT Picture - 2025](it-picture-medium-term.html)
-- [DevOps Research and Assessment](https://cloud.google.com/devops/) (ext.)
+### Supporting Slides
 
 --
 
-## Image
+### Examples of topics
 
-![Table: Current challenges and priorities](assets/images/imit-moving-fwd-strategy.png)
+Examples of topics the team is exploring:
 
----
+1. Using 20% of time to learn and improve
+2. Reducing toil to focus on meaningful work
+3. Transitioning from project to product management
+4. Loose coupling of solutions to enable more independence for product teams
 
-<!--markdownlint-disable MD026-->
-## Question ?
-<!--markdownlint-enable MD026-->
+--
+
+### References
+
+1. [IT Strategy Map](https://sara-sabr.github.io/ITStrategy/strategy-summary.html)
+2. [GC digital standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html)
+3. [GC Digital Operations Strategic Plan 2018-2022](https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html)
+4. [Upcoming Policy on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603)
+5. [IITB Way Forward](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx)
+
+--
+
+### Contact Us
+
+- EDSC.DGIIT.StrategieTI-ITStrategy.IITB.ESDC@hrsdc-rhdcc.gc.ca
+- https://sara-sabr.github.io/ITStrategy
+- https://sara-sabr.slack.com

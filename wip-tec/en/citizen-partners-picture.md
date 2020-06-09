@@ -45,7 +45,7 @@ These channels may be ESDC's website, the beginning of the GC services portal, S
 - Have access to most services wherever they are, anytime of day
 - Being automatically enrolled to receive benefits without having to apply
 - Automated administrative services like pre-filled applications and program auto-enrollment to save the time it takes to fill out forms and research programs
-- Centralized login for main ESDC services, leveraging existing citizen identities from provincial, territorial, federal and private sector organizations following the [Pan-Canadian Trust Framework](https://github.com/canada-ca/PCTF-CCP/blob/master/overview/pctf-overview.md).
+- Centralized login for main ESDC services, leveraging existing citizen identities from provincial, territorial, federal and private sector organizations following the [Pan-Canadian Trust Framework](https://canada-ca.github.io/PCTF-CCP/).
 - Stronger integration of ESDC and CRA services and the launch of the GC Services Portal.
 - Pages with scrollable instructions outlining details of the application process are a relic of the past.
 
@@ -121,7 +121,7 @@ For example from their:
 - Preferred social media platform(s)
 - IoT devices
 
-90% of citizens (33 300 000 people) (TO-DO: Validate this number) have a trusted Canadian profile used to verify/validate identity via the [Pan-Canadian Trust Framework](https://diacc.ca/pan-canadian-trust-framework/).
+90% of citizens (33 300 000 people) (TO-DO: Validate this number) have a trusted Canadian profile used to verify/validate identity via the [Pan-Canadian Trust Framework](https://diacc.ca/trust-framework/).
 
 Citizens can receive their benefits seamlessly throughout their lives as major life events trigger the delivery of benefits.
 See the [Human Development Lifecycle (HDLC)](/human-development-life-cycle.html).

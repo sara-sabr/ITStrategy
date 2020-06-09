@@ -16,12 +16,14 @@
         {% include versioning.md %}
       {% endif %}
       
-          {{ content }}
+      {{ content }}
       
-
-        {% include notice.html %}    
-      </main>
+      {% include notice.html %}    
+    </main>
+    
+    {% include lang-select.html %}
     {% include footer.html %}
+
 
 
   </body>

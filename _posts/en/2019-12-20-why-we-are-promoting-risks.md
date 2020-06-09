@@ -5,10 +5,11 @@ ref: why-we-are-promoting-risks
 lang: en
 author: "Rémy Bernard, in collaboration with the IT Strategy team"
 date: "2019-12-20"
+last_modified: "2020-02-21"
 excerpt_separator: <!--more-->
 ---
 
-In this blog, I am claiming that our IT initiatives are currently governed in a way that ends up promoting risks instead of reducing them, leading to incorrect investment decisions, diluting our empathy towards end users, and ultimately reducing our ability to meet our fiduciary responsibility towards public funds as required in the [Financial Administration Act](https://laws.justice.gc.ca/eng/acts/F-11/index.html).
+In this blog, we claim that our IT initiatives are currently governed in a way that ends up promoting risks instead of reducing them, leading to incorrect investment decisions, diluting our empathy towards end users, and ultimately reducing our ability to meet our fiduciary responsibility towards public funds as required in the [Financial Administration Act](https://laws.justice.gc.ca/eng/acts/F-11/index.html).
 
 <!--more-->
 
@@ -16,19 +17,20 @@ _Note: This blog will link to internal ESDC documents, which are unfortunately o
 
 ## Problem Statement
 
-Governance of IT initiatives is required and I am in no way saying we need to remove it.
+**Before anything, we want to clarify that governance of IT initiatives is required and we are in no way saying it has to be removed.**
+
 However, the current methods seek a high level of predictability using advanced planning and rigid plan execution.
 This may work for physical assets like constructing a house, but not for intangibles -- like software.
 In addition, the transition towards Digital Government is creating a future that is highly complex and uncertain, which is argued requires a different means to govern IT investments: one that rewards an empirical cycle of trying, observing, and correcting. [^1]
 
-At ESDC, we have a [Policy on Project and Program Management (PPPM)](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/2-01PL-182E-Project%20and%20Programme%20Management%20Policy%20on-withBanner-v1.0.pdf) that complies with the Treasury Board (TB) [Policy on Planning and Management of Investments](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32593) with one of its objectives being to ensure _accountability and success of the Portfolio of projects and programmes with a ***specific focus on the benefits of investments*** in projects and programmes_.
+At ESDC, we have a [Policy on Project and Program Management (PPPM)](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Policy%20on%20Project%20and%20Programme%20Management.pdf) that complies with the Treasury Board (TB) [Policy on Planning and Management of Investments](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32593) with one of its objectives being to ensure _accountability and success of the Portfolio of projects and programmes with a ***specific focus on the benefits of investments*** in projects and programmes_.
 This ESDC Policy acts as the authoritative means under which all projects and programmes within ESDC are managed.
-The [Project Lifecycle framework (PMLC)](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/02-05G-271E-ProjectLifeCycle-v4.0.pdf) is used to guide the management of projects, according to their classification in size (which is based on cost, risk, capability, and complexity though it is fair to say the cost variable carries more weight than the others).
+The [Project Lifecycle framework (PMLC)](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Project%20Life%20Cycle.pdf) is used to guide the management of projects, according to their classification in size (which is based on cost, risk, capability, and complexity though it is fair to say the cost variable carries more weight than the others).
 
 In the PMLC, an IT project is typically expected to produce between 21 and 39 project management artefacts, would require between 48 and 60 project management activities, and would involve 16 stakeholders.
 Note that in the 16 stakeholders only 5 of them are from the IT Branch (though in reality it's much more than this as I'll explain later).
 
-I argue that this method of managing funds for IT initiatives does the following:
+We argue that this method of managing funds for IT initiatives does the following:
 
 - promotes risks instead of reducing them;
 - results in incorrect investment decisions;
@@ -49,7 +51,7 @@ We know how to build houses because we've been doing it for centuries, the metho
 But in the software world, where technology changes so rapidly, systems get more and more integrated and complex, continuously evolve over time, costs and schedule are anything but guesses and highly unlikely to be accurate.
 This means you can expect your original estimates to change once project executes.
 
-Project governance includes a [change control process](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/ChangeControl-Guide-PMIS-E.pdf) that requires you to provide information on the scope of change and, depending on that scope, seek different kinds of governance approvals before you are permitted to change.
+Project governance includes a [change control process](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Change%20Control.pdf) that requires you to provide information on the scope of change and, depending on that scope, seek different kinds of governance approvals before you are permitted to change.
 Getting information on the scope of change _is_ also work.
 It requires re-engaging the different IT teams, stopping them from doing what they are currently doing, and re-evaluating the same type of information as the original project estimates (scope, costs, and schedule).
 As per above, the effort of going through the change control process must be proportional to the actual change effort, otherwise it gets piled up.
@@ -73,7 +75,7 @@ No amount of advanced planning can completely uncover these unknowns due to the 
 
 These **end-user demands** are what we include in the **Business Case** project artefacts (following the "business needs" and "identify strategic alignment" project activities).
 But what is a Business Case?
-I argue it's but a **Hypothesis**.
+We argue it's but a **Hypothesis**.
 It is essentially asking the organization for funds and resources to evaluate whether changes in IT systems, or building new ones, would improve service delivery to citizens.
 Such **hypothesis** should be validated quickly in order to reduce any amount of funds and efforts towards something that ends up [not improving service delivery](https://sencanada.ca/content/sen/committee/421/NFFN/reports/NFFN_Phoenix_Report_32_WEB_e.pdf).
 
@@ -91,7 +93,7 @@ The IT product team(s) working on the project gets involved at Stage 4, after 14
 Throughout this process, the IT product team(s) will also need to give periodic status updates on progress towards the pre-committed scope, schedule, and cost.
 
 Each control points between the end-users and the IT product teams working on the feature(s) expands the gap between them.
-Although the IT product team _may_ be able to speak to an end-user at Stage 4, those control points create a perspective that course correction resulting from end-user interactions is discouraged. This is because any change to scope, schedule, or cost requires going through a [change control process](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/ChangeControl-Guide-PMIS-E.pdf) to justify course correction which adds more work. The end result will be that it may be easier for IT product teams to stick with pre-scoped requirements than it is in interacting with end-users directly as a means to seek understanding and empathy.
+Although the IT product team _may_ be able to speak to an end-user at Stage 4, those control points create a perspective that course correction resulting from end-user interactions is discouraged. This is because any change to scope, schedule, or cost requires going through a [change control process](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Change%20Control.pdf) to justify course correction which adds more work. The end result will be that it may be easier for IT product teams to stick with pre-scoped requirements than it is in interacting with end-users directly as a means to seek understanding and empathy.
 
 The \#1 [Government of Canada's Digital Standard](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html) is **Design with users**, but the current framework inhibits IT teams to interact more closely with the user.
 In addition, as we've stated above, the IT project should be a **hypothesis**, one that MUST be validated with real users which [requirement \#4.2.1.5 of the upcoming Policy on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603) essentially requires deputy heads to do; not through proxies.
@@ -124,7 +126,7 @@ We must find methods that provides a much simpler, faster, and agile way of rele
 
 ## Recommendations
 
-To remediate the above problems, I propose the following:
+To remediate the above problems, we propose the following:
 
 1. Promote smaller IT investments over large ones as a means to reduce risk impact to the organization;
 2. Treat every project as a hypothesis, one that must be validated by end users as fast as possible, which will invariably require course corrections;
@@ -139,3 +141,14 @@ To remediate the above problems, I propose the following:
 ## References
 
 [^1]: Mark Schwartz, [_War and Peace and IT_](https://itrevolution.com/war-and-peace-and-it/), IT Revolution, 2019, page 30
+
+## Edits
+
+2020-02-21: fixed broken links
+
+2020-01-20:
+
+1. We have updated this post to reflect that while we have a main author by post, the analysis conducted reflects the whole IT Strategy team's position.
+   As such, we have changed the pronouns to the 1st person plural.
+2. We have updated the post to clarify that the IT Strategy team believes that governance is required to ensure compliance with the large set of laws and regulations that we are bound to.
+   We understand that non governmental organizations may not be subject to as many rules but we do believe there are solid and modern ways to remain compliant while reducing the risk of managing IT in the government.
