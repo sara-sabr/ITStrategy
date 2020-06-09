@@ -1,3 +1,4 @@
+<!--markdownlint-disable MD001-->
 <!--markdownlint-disable MD026-->
 <!--markdownlint-disable MD033-->
 <!--markdownlint-disable MD035-->
@@ -251,7 +252,7 @@ Respond to user needs within minutes
 
   <div class="left-half">
 
-### Normes numériques du gouvernement du Canada
+#### Normes numériques du gouvernement du Canada
 
 **_Effectuer régulièrement des itérations et des améliorations_**
 
@@ -261,7 +262,7 @@ _Élaborer des services au moyen de méthodes souples et itératives, axées sur
 
   <div class="right-half">
 
-### Digital Standards
+#### Digital Standards
 
 **_Iterate and improve frequently_**
 
@@ -411,15 +412,15 @@ _A.2.3.2.1 Focus on the needs of users, using agile, iterative, and user-centred
 
   <div class="left-half">
 
-### Topologies d'équipe : Gouvernées par le gouvernement
+#### Topologies d'équipe : Gouvernementisé
 
-<img src="./assets/images/TTBlog-Figure4.PNG" class="image-medium" alt="Les propriétaires de produits gèrent les produits; les gestionnaires gèrent les personnes; le chef de projet gère le projet" />
+<img src="./assets/images/TTBlog-Figure4.PNG" class="image-medium" alt="Les propriétaires de produits gèrent les produits; les gestionnaires gèrent les personnes; le chef de projet gère le projet" style="margin-top:60px" />
 
   </div>
 
   <div class="right-half">
 
-### Team Topologies: Governmentized
+#### Team Topologies: Governmentized
 
 <img src="./assets/images/TTBlog-Figure4.PNG" class="image-medium" alt="Product owners manage product; managers manage people; project manager manages project" style="margin-top:60px" />
 
@@ -483,7 +484,7 @@ Upskill teams & miminize size
 
 #### Automatisation
 
-<img src="./assets/images/Whitelite-Showcase-IsThisAutomation-FR.jpg" class="image-large" alt="Est-ce de l'automatisation de l'infonuagique? Non" />
+<img src="./assets/images/Whitelite-Showcase-IsThisAutomation-FR.jpg" class="image-medium" alt="Est-ce de l'automatisation de l'infonuagique? Non" />
 
   </div>
 
@@ -507,13 +508,13 @@ Upskill teams & miminize size
 
 ### Automatisation
 
-<img src="./assets/images/Whitelite-Showcase-Cloud-FR.jpg" class="image-medium" alt="Libre-service avant l'infonuagique" />
+<img src="./assets/images/Whitelite-Showcase-Cloud-FR.jpg" style="margin-top: 40px;" class="image-medium" alt="Libre-service avant l'infonuagique" />
 
   </div>
 
   <div class="right-half">
 
-#### Automation
+### Automation
 
 <img src="./assets/images/Whitelite-Showcase-Cloud.jpg" style="margin-top: 40px;" class="image-medium" alt="Self-service over cloud" />
 
@@ -529,7 +530,7 @@ Upskill teams & miminize size
 
 Architecture de haut niveau
 
-<img src="./assets/images/Whitelite-Showcase-HighLevelArch.svg" class="image-large" alt="Architecture de haut niveau de la solution" />
+<img src="./assets/images/Whitelite-Showcase-HighLevelArch.svg" class="image-medium" alt="Architecture de haut niveau de la solution" />
 
   </div>
 
@@ -537,7 +538,7 @@ Architecture de haut niveau
 
 High-Level Architecture
 
-<img src="./assets/images/Whitelite-Showcase-HighLevelArch.svg" class="image-large" alt="High-level architecture of solution" />
+<img src="./assets/images/Whitelite-Showcase-HighLevelArch.svg" class="image-medium" alt="High-level architecture of solution" />
 
   </div>
 
@@ -574,7 +575,8 @@ High-Level Architecture
   <div class="left-half">
 
 <img src="./assets/images/Whitelite-Showcase-ValueOrProcess-FR.jpg" class="image-large" alt="Suivre le processus ou offrir de la valeur?" />
-  - AE du DPI
+  
+- AE du DPI
 
   </div>
 
@@ -594,9 +596,9 @@ High-Level Architecture
 
   <div class="left-half">
 
-## Comment y arriver?
+### Comment y arriver?
 
-### Compétences manquantes
+#### Compétences manquantes
 
 - Interopérabilité
 - Logiciel libre
@@ -607,9 +609,9 @@ High-Level Architecture
 
   <div class="right-half">
 
-## How to get there?
+### How to get there?
 
-### Missing Competencies
+#### Missing Competencies
 
 - Interoperability
 - Open source
@@ -628,7 +630,7 @@ High-Level Architecture
 
 ## Leçons apprises
 
-Ce qu'il ne faut pas dire si votre travail implique des processus de déploiement d'une manière ou d'une autre
+Ce qu'il ne faut pas dire si votre travail implique des processus de déploiement
 
 - Pour lancer ce processus, remplissez ce formulaire.
 - X est la responsabilité de chacun.
@@ -682,7 +684,8 @@ Things not to say if your work involves deployment processes in any way
 
 ## Qu'est-ce que le labeur?
 
-Réduire le temps de traitement de moitié, en doublant la quantité de personnel
+Réduire le temps de traitement de moitié,  
+en doublant la quantité de personnel
 
   </div>
 
@@ -690,7 +693,8 @@ Réduire le temps de traitement de moitié, en doublant la quantité de personne
 
 ## What is toil?
 
-Reducing the processing time by half, by doubling the amount of staff
+Reducing the processing time by half,  
+by doubling the amount of staff
 
   </div>
 
@@ -788,7 +792,7 @@ Reducing the processing time by half, by doubling the amount of staff
 
 ### Pourquoi me soucier du labeur?
 
-<img src="./assets/images/Whitelite-Showcase-Toil-problem.PNG" class="image-large" alt="Ceux qui automatisent surchargent ceux qui ne le font pas" />
+<img src="./assets/images/Whitelite-Showcase-Toil-problem.PNG" class="image-small" alt="Ceux qui automatisent surchargent ceux qui ne le font pas" />
 
 [Lien (anglais)](https://www.desmos.com/calculator/kvubrihz0h)
 
@@ -798,7 +802,7 @@ Reducing the processing time by half, by doubling the amount of staff
 
 ### Why do I care about toil?
 
-<img src="./assets/images/Whitelite-Showcase-Toil-problem.PNG" class="image-large" alt="Those who automate overload those who do not" />
+<img src="./assets/images/Whitelite-Showcase-Toil-problem.PNG" class="image-small" alt="Those who automate overload those who do not" />
 
 [Link](https://www.desmos.com/calculator/kvubrihz0h)
 
@@ -812,7 +816,7 @@ Reducing the processing time by half, by doubling the amount of staff
 
   <div class="left-half">
 
-## Solution 1 : Embaucher des développeurs
+### Solution 1 : Embaucher des développeurs
 
 Lecture complémentaire (anglais) : [Google SRE Book, Introduction (Google’s Approach to Service Management: Site Reliability Engineering)](https://landing.google.com/sre/sre-book/chapters/introduction/)
 
@@ -820,7 +824,7 @@ Lecture complémentaire (anglais) : [Google SRE Book, Introduction (Google’s A
 
   <div class="right-half">
 
-## Solution 1: Hire developers
+### Solution 1: Hire developers
 
 Further reading: [Google SRE Book, Introduction (Google’s Approach to Service Management: Site Reliability Engineering)](https://landing.google.com/sre/sre-book/chapters/introduction/)
 
@@ -990,6 +994,10 @@ Visit the [IT Strategy website](https://sara-sabr.github.io/ITStrategy/home.html
     height: 435px;
   }
 
+  img.image-small {
+    height: 365px;
+  }
+
   .long-text li, .long-text p {
     font-size: 30px;
   }
@@ -997,20 +1005,20 @@ Visit the [IT Strategy website](https://sara-sabr.github.io/ITStrategy/home.html
   /*Pattern styles*/
   .container {
     display: table;
-    width: 112%;
+    width: 100%;
   }
 
   .left-half {
     position: absolute;
-    left: -110px;
-    width: 60%;
+    left: -15px;
+    width: 50%;
   }
 
   .right-half {
     background-color: rgba(147,161,161, 0.15);
     position: absolute;
-    right: -110px;
-    width: 60%;
+    right: -15px;
+    width: 50%;
   }
 
   .shared-content {
