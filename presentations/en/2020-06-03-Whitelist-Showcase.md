@@ -411,9 +411,9 @@ _A.2.3.2.1 Focus on the needs of users, using agile, iterative, and user-centred
 
   <div class="left-half">
 
-### Topologies d'équipe : Gouvernées par le gouvernement
+### Topologies d'équipe : Gouvernementisé
 
-<img src="./assets/images/TTBlog-Figure4.PNG" class="image-medium" alt="Les propriétaires de produits gèrent les produits; les gestionnaires gèrent les personnes; le chef de projet gère le projet" />
+<img src="./assets/images/TTBlog-Figure4.PNG" class="image-medium" alt="Les propriétaires de produits gèrent les produits; les gestionnaires gèrent les personnes; le chef de projet gère le projet" style="margin-top:60px" />
 
   </div>
 
@@ -483,7 +483,7 @@ Upskill teams & miminize size
 
 #### Automatisation
 
-<img src="./assets/images/Whitelite-Showcase-IsThisAutomation-FR.jpg" class="image-large" alt="Est-ce de l'automatisation de l'infonuagique? Non" />
+<img src="./assets/images/Whitelite-Showcase-IsThisAutomation-FR.jpg" class="image-medium" alt="Est-ce de l'automatisation de l'infonuagique? Non" />
 
   </div>
 
@@ -507,7 +507,7 @@ Upskill teams & miminize size
 
 ### Automatisation
 
-<img src="./assets/images/Whitelite-Showcase-Cloud-FR.jpg" class="image-medium" alt="Libre-service avant l'infonuagique" />
+<img src="./assets/images/Whitelite-Showcase-Cloud-FR.jpg" style="margin-top: 40px;" class="image-medium" alt="Libre-service avant l'infonuagique" />
 
   </div>
 
@@ -529,7 +529,7 @@ Upskill teams & miminize size
 
 Architecture de haut niveau
 
-<img src="./assets/images/Whitelite-Showcase-HighLevelArch.svg" class="image-large" alt="Architecture de haut niveau de la solution" />
+<img src="./assets/images/Whitelite-Showcase-HighLevelArch.svg" class="image-medium" alt="Architecture de haut niveau de la solution" />
 
   </div>
 
@@ -537,7 +537,7 @@ Architecture de haut niveau
 
 High-Level Architecture
 
-<img src="./assets/images/Whitelite-Showcase-HighLevelArch.svg" class="image-large" alt="High-level architecture of solution" />
+<img src="./assets/images/Whitelite-Showcase-HighLevelArch.svg" class="image-medium" alt="High-level architecture of solution" />
 
   </div>
 
@@ -561,7 +561,7 @@ High-Level Architecture
 
 <div class="shared-content">
 
-<img src="./assets/images/Whitelite-Showcase-CloudArch.PNG" class="image-large" alt="Cloud architecture of solution" />
+<img src="./assets/images/Whitelite-Showcase-CloudArch.PNG" class="image-medium" alt="Cloud architecture of solution" />
 
 </div>
 
@@ -573,7 +573,8 @@ High-Level Architecture
 
   <div class="left-half">
 
-<img src="./assets/images/Whitelite-Showcase-ValueOrProcess-FR.jpg" class="image-large" alt="Suivre le processus ou offrir de la valeur?" />
+<img src="./assets/images/Whitelite-Showcase-ValueOrProcess-FR.jpg" class="image-medium" alt="Suivre le processus ou offrir de la valeur?" />
+  
   - AE du DPI
 
   </div>
@@ -594,9 +595,9 @@ High-Level Architecture
 
   <div class="left-half">
 
-## Comment y arriver?
+### Comment y arriver?
 
-### Compétences manquantes
+#### Compétences manquantes
 
 - Interopérabilité
 - Logiciel libre
@@ -607,9 +608,9 @@ High-Level Architecture
 
   <div class="right-half">
 
-## How to get there?
+### How to get there?
 
-### Missing Competencies
+#### Missing Competencies
 
 - Interoperability
 - Open source
@@ -682,7 +683,8 @@ Things not to say if your work involves deployment processes in any way
 
 ## Qu'est-ce que le labeur?
 
-Réduire le temps de traitement de moitié, en doublant la quantité de personnel
+Réduire le temps de traitement de moitié,  
+en doublant la quantité de personnel
 
   </div>
 
@@ -690,7 +692,8 @@ Réduire le temps de traitement de moitié, en doublant la quantité de personne
 
 ## What is toil?
 
-Reducing the processing time by half, by doubling the amount of staff
+Reducing the processing time by half,  
+by doubling the amount of staff
 
   </div>
 
@@ -788,7 +791,7 @@ Reducing the processing time by half, by doubling the amount of staff
 
 ### Pourquoi me soucier du labeur?
 
-<img src="./assets/images/Whitelite-Showcase-Toil-problem.PNG" class="image-large" alt="Ceux qui automatisent surchargent ceux qui ne le font pas" />
+<img src="./assets/images/Whitelite-Showcase-Toil-problem.PNG" class="image-medium" alt="Ceux qui automatisent surchargent ceux qui ne le font pas" />
 
 [Lien (anglais)](https://www.desmos.com/calculator/kvubrihz0h)
 
@@ -798,7 +801,7 @@ Reducing the processing time by half, by doubling the amount of staff
 
 ### Why do I care about toil?
 
-<img src="./assets/images/Whitelite-Showcase-Toil-problem.PNG" class="image-large" alt="Those who automate overload those who do not" />
+<img src="./assets/images/Whitelite-Showcase-Toil-problem.PNG" class="image-medium" alt="Those who automate overload those who do not" />
 
 [Link](https://www.desmos.com/calculator/kvubrihz0h)
 
