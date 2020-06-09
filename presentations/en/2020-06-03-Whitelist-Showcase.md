@@ -1003,14 +1003,14 @@ Visit the [IT Strategy website](https://sara-sabr.github.io/ITStrategy/home.html
   .left-half {
     position: absolute;
     left: -110px;
-    width: 60%;
+    width: 50%;
   }
 
   .right-half {
     background-color: rgba(147,161,161, 0.15);
     position: absolute;
     right: -110px;
-    width: 60%;
+    width: 50%;
   }
 
   .shared-content {
