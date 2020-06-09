@@ -5,7 +5,6 @@
 
 <div class="container">
 
-  <div class="left-half">
 
 ### Application Liste blanche (Odoo)
 
@@ -13,9 +12,6 @@
 
 Présentation DGIIT en exposition
 
-  </div>
-
-  <div class="right-half">
 
 ### Whitelist Application (Odoo)
 
@@ -23,7 +19,6 @@ Présentation DGIIT en exposition
 
 IITB Showcase Presentation
 
-  </div>
 
 </div>
 
