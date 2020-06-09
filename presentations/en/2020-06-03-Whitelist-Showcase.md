@@ -997,20 +997,20 @@ Visit the [IT Strategy website](https://sara-sabr.github.io/ITStrategy/home.html
   /*Pattern styles*/
   .container {
     display: table;
-    width: 112%;
+    width: 100%;
   }
 
   .left-half {
     position: absolute;
-    left: -110px;
-    width: 60%;
+    left: -15px;
+    width: 50%;
   }
 
   .right-half {
     background-color: rgba(147,161,161, 0.15);
     position: absolute;
-    right: -110px;
-    width: 60%;
+    right: -15px;
+    width: 50%;
   }
 
   .shared-content {
