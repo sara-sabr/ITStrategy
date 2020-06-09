@@ -575,7 +575,7 @@ High-Level Architecture
 
 <img src="./assets/images/Whitelite-Showcase-ValueOrProcess-FR.jpg" class="image-large" alt="Suivre le processus ou offrir de la valeur?" />
   
-  - AE du DPI
+- AE du DPI
 
   </div>
 
