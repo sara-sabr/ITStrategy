@@ -411,7 +411,7 @@ _A.2.3.2.1 Focus on the needs of users, using agile, iterative, and user-centred
 
   <div class="left-half">
 
-#### Topologies d'équipe : Gouvernées par le gouvernement
+### Topologies d'équipe : Gouvernées par le gouvernement
 
 <img src="./assets/images/TTBlog-Figure4.PNG" class="image-medium" alt="Les propriétaires de produits gèrent les produits; les gestionnaires gèrent les personnes; le chef de projet gère le projet" />
 
@@ -419,7 +419,7 @@ _A.2.3.2.1 Focus on the needs of users, using agile, iterative, and user-centred
 
   <div class="right-half">
 
-#### Team Topologies: Governmentized
+### Team Topologies: Governmentized
 
 <img src="./assets/images/TTBlog-Figure4.PNG" class="image-medium" alt="Product owners manage product; managers manage people; project manager manages project" style="margin-top:60px" />
 
@@ -786,7 +786,7 @@ Reducing the processing time by half, by doubling the amount of staff
 
   <div class="left-half">
 
-#### Pourquoi me soucier du labeur?
+### Pourquoi me soucier du labeur?
 
 <img src="./assets/images/Whitelite-Showcase-Toil-problem.PNG" class="image-large" alt="Ceux qui automatisent surchargent ceux qui ne le font pas" />
 
@@ -796,7 +796,7 @@ Reducing the processing time by half, by doubling the amount of staff
 
   <div class="right-half">
 
-#### Why do I care about toil?
+### Why do I care about toil?
 
 <img src="./assets/images/Whitelite-Showcase-Toil-problem.PNG" class="image-large" alt="Those who automate overload those who do not" />
 
