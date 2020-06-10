@@ -1,6 +1,6 @@
 ---
 layout: default
-title: High Performing IT Capabilities
+title: High Performing DevOps Capabilities
 ref: it-capabilities
 lang: en
 status: posted
@@ -8,7 +8,7 @@ sections: Work In Progress
 permalink: /high-performing-it-capabilities.html
 ---
 
-## High Performing IT Capabilities
+## High Performing DevOps Capabilities
 
 The [State of DevOps Report](https://cloud.google.com/devops/state-of-devops/) has been published annually since 2014, as part of the DevOps Research and Assessment (DORA), a six-year research program that has validated a number of technical, process, measurement, and cultural [capabilities to drive higher software delivery and organizational performance](https://cloud.google.com/devops/#devops-capabilities).
 
