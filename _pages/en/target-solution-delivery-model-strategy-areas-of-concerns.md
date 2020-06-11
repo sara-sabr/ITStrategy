@@ -203,9 +203,9 @@ Moving towards funding teams, instead of set of individuals that comes from diff
 
 Ensure the following actions address this concern:
 
-3\. set of Coherent Action / Governance / Produce a Policy guidance document activity
+3\. Set of Coherent Action / Governance / Produce a Policy guidance document activity
 
-3.set of Coherent Action / Governance / IITB Agile Governance Framework
+3\. set of Coherent Action / Governance / IITB Agile Governance Framework
 
 ### 2.7. Alignment and Gap analysis with Policy and Directive (Investment & Project Management)
 
