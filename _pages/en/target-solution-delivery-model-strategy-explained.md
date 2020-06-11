@@ -147,7 +147,7 @@ To create an IT Project, the project sponsor is required to produce a Project Ma
 1. Resource Management Plan
 1. Quality Management Plan
 
-Most software work will be new (i.e. not under run costs) as software evolves over time, adjusting to end-user's behaviours, the market, and ongoing business change.
+Most software work will be new (i.e., not under run costs) as software evolves over time, adjusting to end-user's behaviours, the market, and ongoing business change.
 Permission to do such software work depends on creating an IT Project.
 Due to the labour-intensive IT Project creation process, small changes to software will not be justified.
 We end up piling such changes over time until we have enough that justifies going through the IT Project creation process.
@@ -155,7 +155,7 @@ This leads to the following unintentional consequences:
 
 - Big software deployments, increasing risk to the organization.
 - Locking IT resources for too long, leading lines of businesses to fight between themselves for attention of IT personnel
-- Once lines of businesses finally have the IT Personnel's attention, they are motivated to add as much requirements as possible ("it took me years to get your attention, I will take this opportunity to add as much changes as I can")
+- Once lines of businesses finally have the IT Personnel's attention, they are motivated to add as many requirements as possible ("It took me years to get your attention, I will take this opportunity to add as many changes as I can")
 
 #### 3.2.2. How the strategy intends to solve the problem
 
@@ -179,7 +179,7 @@ This leads to the following unintentional consequences:
 - Deploy DevOps teams
 - DevOps team expected to take on all functional responsibilities
 - Use of Champions to augment team's skillsets and expertise
-- Use of specialized tools (e.g. security) to reduce burden to teams
+- Use of specialized tools (e.g., security) to reduce burden to teams
 
 ### 3.4. Functional organization structures hinder capacity planning
 
@@ -188,7 +188,7 @@ This leads to the following unintentional consequences:
 - Organization structure by functions -- siloes
 - Project costing complexity (multiple cost centres)
 - SDLC complexity (SAs release process)
-- Section "[the problem of traditional project cost accounting](https://www.scaledagileframework.com/lean-budgets/)" from from SAFe
+- Section "[the problem of traditional project cost accounting](https://www.scaledagileframework.com/lean-budgets/)" from SAFe
 
 #### 3.4.2. How the strategy intends to solve the problem
 
@@ -202,7 +202,7 @@ This leads to the following unintentional consequences:
 - Decisions to proceed requires committee intervention
 - IT teams are at the mercy of committees' meeting frequency and planned agenda
 - Additional labour is needed to produce information packages for each committee
-- Critical functions have their importance reduced due to deadlines and deterrent to course correct (e.g. Cyber Security and Architecture)
+- Critical functions have their importance reduced due to deadlines and deterrent to course correct (e.g., Cyber Security and Architecture)
 
 #### 3.5.2. How the strategy intends to solve the problem
 
@@ -215,10 +215,10 @@ This leads to the following unintentional consequences:
 
 #### 3.6.1. Problem Description
 
-- Internal Audit (e.g. pay system)
+- Internal Audit (e.g., pay system)
 - SA&A
 - Accessibility
-- Audit requirements become a factor that limits innovation (i.e. to innovate, you must change the audit requirement)
+- Audit requirements become a factor that limits innovation (i.e., to innovate, you must change the audit requirement)
 
 #### 3.6.2. How the strategy intends to solve the problem
 
@@ -242,8 +242,8 @@ This leads to the following unintentional consequences:
 
 #### 3.8.1. Problem Description
 
-Lines of Businesses start a project but are unable to commit full time subject matter experts during the execution phase of the project, including policy experts.
-The execution phase is where the rubber hits the road and unexpected challenges are raised to the surface that require problem solving in partnership with lines of businesses (e.g. policy requirement conflicts, business rules ambiguity, unexpected scenarios affecting the end-users).
+Lines of Businesses start a project but are unable to commit full-time subject matter experts during the execution phase of the project, including policy experts.
+The execution phase is where the rubber hits the road and unexpected challenges are raised to the surface that requires problem solving in partnership with lines of businesses (e.g., policy requirement conflicts, business rules ambiguity, unexpected scenarios affecting the end-users).
 
 #### 3.8.2. How the strategy intends to solve the problem
 
@@ -253,7 +253,7 @@ The execution phase is where the rubber hits the road and unexpected challenges 
 
 #### 3.9.1. Problem Description
 
-- IT teams require to do forecasting instead of be given a budget to manage.
+- IT teams require to do forecasting instead of being given a budget to manage.
 Forecasting is based on expected projects (some committed, some estimated, some only talked about).
 Forecasting leads to a lot of guesses and anxiety over how much a particular team can commit to.
 Some directors will be risk averse and only forecast to what has been committed, others will take on risks and forecast what is believed will eventually materialize as a project.
@@ -286,11 +286,11 @@ Some directors will be risk averse and only forecast to what has been committed,
 #### 3.11.1. Problem Description
 
 - We stick with what we know instead of what is easier.
-E.g. file exchanges instead of moving to APIs
+e.g., file exchanges instead of moving to APIs
 - What we know sounds easier to do now, but it is actually more difficult than the modern way.
 This complexity and its cost is delegated to a later time and often to downstream teams that must suffer the burden of this decision.
 - Architecture standards are not being followed
-- Architecture committees over complicates the need in looking to forecast the future problems, leading to clients unwilling to be part of the discussion
+- Architecture committees over complicate the need in looking to forecast the future problems, leading to clients unwilling to be part of the discussion
 
 #### 3.11.2. How the strategy intends to solve the problem
 
@@ -298,7 +298,7 @@ This complexity and its cost is delegated to a later time and often to downstrea
 - Mandating the use of APIs
 - Providing DevOps teams with means to experiment
 - Providing DevOps teams with ability to deploy to production
-- Providing a more clear line of sight between loose coupling boundaries and Business Capability Model to facilitate Architecture committee discussions
+- Providing a clearer line of sight between loose coupling boundaries and Business Capability Model to facilitate Architecture committee discussions
 - Re-scoping the technical bricks to allow non-standard technical stacks to be used
 
 [^1]: [ESDC IT Plan 2019-22](dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/ESDC%20IT%20Plan%202019-22%20-%20FINAL.pdf), page 25 (Sustainability Plan)

@@ -11,7 +11,7 @@ permalink: /target-solution-delivery-model-strategy-areas-of-concerns.html
 <!--markdownlint-disable MD033-->
 ## {{ page.title }}
 
-**Author :** [Rémy Bernard](mailto:remy.bernard@hrsdc-rhdcc.gc.ca)
+**Author :** [Rémy Bernard](mailto:remy.bernard@hrsdc-rhdcc.gc.ca)
 
 **The Strategy:** [see here for the strategy](strategy-target-solution-delivery-model.html) that this areas of concern document refers to
 
@@ -90,7 +90,7 @@ With that many stakeholders involved in the elaboration of the strategy, consens
 
 This document serves two purposes:
 
-1. To ensure stakeholders’ valuable feedbacks are not lost through the elaboration of the strategy
+1. To ensure stakeholders’ valuable feedback is not lost through the elaboration of the strategy
 2. To summarize the areas of concerns raised during the multiple peer reviews
 3. To document the justifications for choosing a particular direction
 
@@ -117,7 +117,7 @@ How to manage and keep track of such cross-project work?
 
 #### 2.2.1. Summary
 
-Allowing DevOps teams to choose their technical stacks negates the principle of standard and could proliferate technologies across the enterprise, making it more costly and risky for ESDC to sustain their long term operations, maintenance, and sustainability.
+Allowing DevOps teams to choose their technical stacks negates the principle of standard and could proliferate technologies across the enterprise, making it more costly and risky for ESDC to sustain their long-term operations, maintenance, and sustainability.
 
 #### 2.2.2. Raised by stakeholder(s)
 
@@ -129,16 +129,16 @@ Allowing DevOps teams to choose their technical stacks negates the principle of 
 
 Pending resolution. Ideas around:
 
-- IT Projects are capped at $2.5M, limiting the ability of a project sponsor to fund an expensive IT product (e.g. proprietary product)
+- IT Projects are capped at $2.5M, limiting the ability of a project sponsor to fund an expensive IT product (e.g., proprietary product)
 - Promoting the adoption of OSS instead
-- Enterprise Architecture and Solution Architecture at IT Project inception identifying re-usable components to be in scope of IT solution for the IT Project
+- Enterprise Architecture and Solution Architecture at IT Project inception identifying reusable components to be in scope of IT solution for the IT Project
 - DevOps teams would still require to go through procurement processes should they want to procure a proprietary solution or support agreement.
 
 ### 2.3. Financials for IT Products’ evolution (lifecycle management)
 
 #### 2.3.1. Summary
 
-We cannot tax financials to a project once it is closed. Yet, software maintenance is not just operational costs, it’s managing the technical debt and its evolution from end-user feedbacks without the burden of creating projects.
+We cannot tax financials to a project once it is closed. Yet, software maintenance is not just operational costs, it’s managing the technical debt and its evolution from end-user feedback without the burden of creating projects.
 
 #### 2.3.2. Raised by stakeholder(s)
 
@@ -174,7 +174,7 @@ The strategy looks at enabling IT Product changes without the burden of having l
 
 However, if the Product Owner is from the line of business, it will challenge timely management of technical debt due to its technical nature that a line of business would not see or expected to comprehend.
 
-In addition, some while some features are non-discretionary (e.g. legal requirements) others are (e.g. user interface changes). While there needs to be oversight to track effort allocation, it’s unclear how this oversight would not create a different but equal type of burden than that of creating a project.
+In addition, some while some features are non-discretionary (e.g., legal requirements) others are (e.g., user interface changes). While there needs to be oversight to track effort allocation, it’s unclear how this oversight would not create a different but equal type of burden than that of creating a project.
 
 #### 2.5.2. Raised by stakeholder(s)
 
@@ -191,7 +191,7 @@ TBD
 
 #### 2.6.1. Summary
 
-With moving towards a more agile method of working, that is have Product Owners and Development teams communicating directly and allowed to make changes to their IT Products, how will IITB manage its IT capacity planning?
+With moving towards a more agile method of working, that is having Product Owners and Development teams communicating directly and allowed to make changes to their IT Products, how will IITB manage its IT capacity planning?
 
 #### 2.6.2. Raised by stakeholder(s)
 
@@ -233,7 +233,7 @@ Analysis to be completed. Gaps to be highlighted and inform more actions in the 
 
 #### 2.8.1. Summary
 
-If DevOps teams are responsible to maintain their IT Products in production, have the authority to choose their technical stacks, and expected to have cross-functional skillsets (e.g. UX, Security, and enough technical expertise to maintain their solutions in production), how do we mitigate the turn over risk that such expertise leaves a team?
+If DevOps teams are responsible to maintain their IT Products in production, have the authority to choose their technical stacks, and expected to have cross-functional skillsets (e.g., UX, Security, and enough technical expertise to maintain their solutions in production), how do we mitigate the turn over risk that such expertise leaves a team?
 
 #### 2.8.2. Raised by stakeholder(s)
 
@@ -247,7 +247,7 @@ TBD
 
 #### 2.9.1. Summary
 
-How are ERP like SAP and PeopleSoft fit in this Target Model? Especially that Lines of Businesses are currently developing and testing the IT Solutions for ERP while the Strategy calls for DevOps teams to do those functions.
+How are ERPs like SAP and PeopleSoft fit in this Target Model? Especially that Lines of Businesses are currently developing and testing the IT Solutions for ERP while the Strategy calls for DevOps teams to do those functions.
 
 #### 2.9.2. Raised by stakeholder(s)
 
@@ -261,7 +261,7 @@ TBD
 
 #### 2.10.1. Summary
 
-Need to be clear on what we mean by “IT Product”. E.g. does MS Office constitute an IT Product? If taking the direction of the APM Program, an “IT Product” would not be a COTS, but rather a solution that can make use of one a more COTS.
+Need to be clear on what we mean by “IT Product”. e.g., does MS Office constitute an IT Product? If taking the direction of the APM Program, an “IT Product” would not be a COTS, but rather a solution that can make use of one a more COTS.
 
 #### 2.10.2. Raised by stakeholder(s)
 
@@ -312,4 +312,4 @@ This appendix lists the concerns that have been addressed and removed from this 
 Concern |Description of what was done to address
 ---------|----------
  Bi-Modal management overhead | The original strategy’s language called for a bi-modal approach: using two different models in parallel to compare their performance before moving to a single one.<br><br>The strategy’s language has been changed to define a Target Model and offer a path towards the Target Model. There is no intent in managing to modes of operation, only that there will be a transition period towards the Target State.
- Stage of the PMLC to choose this alternate model and under whose authority | This area of concern regarded the original scope of the strategy: being an alternate model in parallel of the conventional one (i.e. see bi-modal above).<br><br>The strategy has since then been modified to be the Target State. There is no option and, instead, we need to move towards this model.<br><br>As such, this concern no longer applies.
+ Stage of the PMLC to choose this alternate model and under whose authority | This area of concern regarded the original scope of the strategy: being an alternate model in parallel of the conventional one (i.e., see bi-modal above).<br><br>The strategy has since then been modified to be the Target State. There is no option and, instead, we need to move towards this model.<br><br>As such, this concern no longer applies.
