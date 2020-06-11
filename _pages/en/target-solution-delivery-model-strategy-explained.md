@@ -8,21 +8,24 @@ sections: Supporting Documents
 permalink: /target-solution-delivery-model-strategy-explained.html
 ---
 <!--markdownlint-disable MD026-->
+<!--markdownlint-disable MD036-->
 ## {{ page.title }}
 
 **Author:** [Rémy Bernard](mailto:remy.bernard@hrsdc-rhdcc.gc.ca)
 
-## DRAFT
+ **DRAFT**
 
-## Change Log
+**The Strategy:** [see here for the strategy](strategy-target-solution-delivery-model.html) that this areas of concern document refers to
 
-Version | Date of Change | Change Description
----------|----------|---------
- 0.1 | 2020-06-02 | First draft
- 0.2 |  |
- 0.3 |  |
- 0.4 |  |
-  0.5 |  |
+**Change Log**
+
+| Version | Date of Change | Change Description
+| ---------|----------|---------
+| 0.1 | 2020-06-02 | First draft
+| 0.2 |  |
+| 0.3 |  |
+| 0.4 |  |
+| 0.5 |  |
 
 ## Table of Content
 

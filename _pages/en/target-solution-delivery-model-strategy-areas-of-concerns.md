@@ -9,25 +9,29 @@ permalink: /target-solution-delivery-model-strategy-areas-of-concerns.html
 ---
 <!--markdownlint-disable MD026-->
 <!--markdownlint-disable MD033-->
+<!--markdownlint-disable MD036-->
 ## {{ page.title }}
 
 **Author :** [Rémy Bernard](mailto:remy.bernard@hrsdc-rhdcc.gc.ca)
+
+**DRAFT**
 
 **The Strategy:** [see here for the strategy](strategy-target-solution-delivery-model.html) that this areas of concern document refers to
 
 This document will be updated throughout the elaboration of the above strategy.
 
-## Change Log
+**Change Log**
 
-| **Version** | **Date of Change** | **Change Description**                                                     |
+| Version | Date of Change | Change Description |
 | ----------- | ------------------ | -------------------------------------------------------------------------- |
-| 0.1         | 2020-04-20         | First draft, based on strategy version 0.2 peer review comments            |
-| 0.2         | 2020-05-04         | Updated from 2<sup>nd</sup> SABR team peer review                          |
-| 0.3         | 2020-05-11         | Removed Bi-Modal overhead as the strategy has been renamed to Target Model |
-|             |                    |                                                                            |
-|             |                    |                                                                            |
+| 0.1 | 2020-04-20 | First draft, based on strategy version 0.2 peer review comments            |
+| 0.2 | 2020-05-04 | Updated from 2<sup>nd</sup> SABR team peer review                          |
+| 0.3 | 2020-05-11 | Removed Bi-Modal overhead as the strategy has been renamed to Target Model |
+| 0.4 | | |
+| 0.5 | | |
 
 ## Table of Content
+
 - [1. Document Purpose](#1-document-purpose)
 - [2. Areas of concerns](#2-areas-of-concerns)
   - [2.1. IT Solutions that spans more than one project](#21-it-solutions-that-spans-more-than-one-project)
