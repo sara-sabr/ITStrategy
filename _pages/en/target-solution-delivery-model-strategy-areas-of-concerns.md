@@ -9,7 +9,7 @@ permalink: /target-solution-delivery-model-strategy-areas-of-concerns.html
 ---
 <!--markdownlint-disable MD026-->
 <!--markdownlint-disable MD033-->
- ## {{ page.title }}
+## {{ page.title }}
 
 **Author :** [Rémy Bernard](mailto:remy.bernard@hrsdc-rhdcc.gc.ca)
 
@@ -17,7 +17,7 @@ permalink: /target-solution-delivery-model-strategy-areas-of-concerns.html
 
 This document will be updated throughout the elaboration of the above strategy.
 
- ## Change Log
+## Change Log
 
 | **Version** | **Date of Change** | **Change Description**                                                     |
 | ----------- | ------------------ | -------------------------------------------------------------------------- |
@@ -28,6 +28,57 @@ This document will be updated throughout the elaboration of the above strategy.
 |             |                    |                                                                            |
 
 ## Table of Content
+- [1. Document Purpose](#1-document-purpose)
+- [2. Areas of concerns](#2-areas-of-concerns)
+  - [2.1. IT Solutions that spans more than one project](#21-it-solutions-that-spans-more-than-one-project)
+    - [2.1.1. Summary](#211-summary)
+    - [2.1.2. Raised by stakeholder(s)](#212-raised-by-stakeholders)
+    - [2.1.3. What is being done about this concern](#213-what-is-being-done-about-this-concern)
+  - [2.2. Proliferation of IT standards](#22-proliferation-of-it-standards)
+    - [2.2.1. Summary](#221-summary)
+    - [2.2.2. Raised by stakeholder(s)](#222-raised-by-stakeholders)
+    - [2.2.3. What is being done about this concern](#223-what-is-being-done-about-this-concern)
+  - [2.3. Financials for IT Products’ evolution (lifecycle management)](#23-financials-for-it-products-evolution-lifecycle-management)
+    - [2.3.1. Summary](#231-summary)
+    - [2.3.2. Raised by stakeholder(s)](#232-raised-by-stakeholders)
+    - [2.3.3. What is being done about this concern](#233-what-is-being-done-about-this-concern)
+  - [2.4. Managing this strategy initiative to completion](#24-managing-this-strategy-initiative-to-completion)
+    - [2.4.1. Summary](#241-summary)
+    - [2.4.2. Raised by stakeholder(s)](#242-raised-by-stakeholders)
+    - [2.4.3. What is being done about this concern](#243-what-is-being-done-about-this-concern)
+  - [2.5. Oversight on IT Product changes (PO, PM, discretionary, and technical debt)](#25-oversight-on-it-product-changes-po-pm-discretionary-and-technical-debt)
+    - [2.5.1. Summary](#251-summary)
+    - [2.5.2. Raised by stakeholder(s)](#252-raised-by-stakeholders)
+    - [2.5.3. What is being done about this concern](#253-what-is-being-done-about-this-concern)
+  - [2.6. Approach to IT Capacity planning](#26-approach-to-it-capacity-planning)
+    - [2.6.1. Summary](#261-summary)
+    - [2.6.2. Raised by stakeholder(s)](#262-raised-by-stakeholders)
+    - [2.6.3. What is being done about this concern](#263-what-is-being-done-about-this-concern)
+  - [2.7. Alignment and Gap analysis with Policy and Directive (Investment & Project Management)](#27-alignment-and-gap-analysis-with-policy-and-directive-investment--project-management)
+    - [2.7.1. Summary](#271-summary)
+    - [2.7.2. Raised by stakeholder(s)](#272-raised-by-stakeholders)
+    - [2.7.3. What is being done about this concern](#273-what-is-being-done-about-this-concern)
+  - [2.8. Sustainability of skillsets](#28-sustainability-of-skillsets)
+    - [2.8.1. Summary](#281-summary)
+    - [2.8.2. Raised by stakeholder(s)](#282-raised-by-stakeholders)
+    - [2.8.3. What is being done about this concern](#283-what-is-being-done-about-this-concern)
+  - [2.9. Enterprise Resource Planning (ERP) solutions](#29-enterprise-resource-planning-erp-solutions)
+    - [2.9.1. Summary](#291-summary)
+    - [2.9.2. Raised by stakeholder(s)](#292-raised-by-stakeholders)
+    - [2.9.3. What is being done about this concern](#293-what-is-being-done-about-this-concern)
+  - [2.10. Clarity on the definition of “IT Product”](#210-clarity-on-the-definition-of-it-product)
+    - [2.10.1. Summary](#2101-summary)
+    - [2.10.2. Raised by stakeholder(s)](#2102-raised-by-stakeholders)
+    - [2.10.3. What is being done about this concern](#2103-what-is-being-done-about-this-concern)
+  - [2.11. Risk to project management overhead](#211-risk-to-project-management-overhead)
+    - [2.11.1. Summary](#2111-summary)
+    - [2.11.2. Raised by stakeholder(s)](#2112-raised-by-stakeholders)
+    - [2.11.3. What is being done about this concern](#2113-what-is-being-done-about-this-concern)
+  - [2.12. Risk to capability-based planning ability](#212-risk-to-capability-based-planning-ability)
+    - [2.12.1. Summary](#2121-summary)
+    - [2.12.2. Raised by stakeholder(s)](#2122-raised-by-stakeholders)
+    - [2.12.3. What is being done about this concern](#2123-what-is-being-done-about-this-concern)
+- [Appendix A - Archived](#appendix-a---archived)
 
 ## 1. Document Purpose
 
