@@ -282,6 +282,8 @@ This complexity and its cost is delegated to a later time and often to downstrea
 - Providing a clearer line of sight between loose coupling boundaries and Business Capability Model to facilitate Architecture committee discussions
 - Re-scoping the technical bricks to allow non-standard technical stacks to be used
 
+---
+
 [^1]: [ESDC IT Plan 2019-22](dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/ESDC%20IT%20Plan%202019-22%20-%20FINAL.pdf), page 25 (Sustainability Plan)
 [^2]: [DORA State of DevOps 2019](https://dialogue/grp/BU6810070/Shared%20Documents/Reference%20Materials/DORA-state-of-devops-2019.pdf), pages 40, 51, and 53
 [^3]: ESDC's Directive on Project Management
