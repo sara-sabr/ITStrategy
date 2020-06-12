@@ -539,7 +539,7 @@ Upskill teams & miminize size
   </div>
 <div class="shared-content-thin">
 
-<img src="./assets/images/Whitelite-Showcase-HighLevelArch.svg" class="image-x-large" alt="High-level architecture of solution" />
+<img src="./assets/images/Whitelite-Showcase-HighLevelArch.svg" class="image-x-large" alt="Architecture de haut niveau de la solution | High-level architecture of solution" />
 
 </div>
 
@@ -563,7 +563,7 @@ Upskill teams & miminize size
 
 <div class="shared-content-thin">
 
-<img src="./assets/images/Whitelite-Showcase-CloudArch.PNG" class="image-x-large" alt="Cloud architecture of solution" />
+<img src="./assets/images/Whitelite-Showcase-CloudArch.PNG" class="image-x-large" alt="Architecture infonuagique de la solution | Cloud architecture of solution" />
 
 </div>
 
@@ -705,21 +705,9 @@ by doubling the amount of staff
 
 <div class="container">
 
-  <div class="left-half">
+<img src="./assets/images/Whitelite-Showcase-Toil.PNG" class="image-large" alt="Plus le travail augmente, plus le besoin en personnel augmente | As work increases; need for staff increases" />
 
-<img src="./assets/images/Whitelite-Showcase-Toil.PNG" class="image-large" alt="Plus le travail augmente, plus le besoin en personnel augmente" />
-
-[Lien (anglais)](https://www.desmos.com/calculator/w8niq2v1ee)
-
-  </div>
-
-  <div class="right-half">
-
-<img src="./assets/images/Whitelite-Showcase-Toil.PNG" class="image-large" alt="As work increases; need for staff increases" />
-
-[Link](https://www.desmos.com/calculator/w8niq2v1ee)
-
-  </div>
+[Lien (anglais)](https://www.desmos.com/calculator/w8niq2v1ee) | [Link](https://www.desmos.com/calculator/w8niq2v1ee)
 
 </div>
 
@@ -727,21 +715,9 @@ by doubling the amount of staff
 
 <div class="container">
 
-  <div class="left-half">
+<img src="./assets/images/Whitelite-Showcase-Toil-worse.PNG" class="image-large" alt="La productivité par personne est réduite à mesure que l'équipe s'agrandit | Productivity per person reduced as team grows" />
 
-<img src="./assets/images/Whitelite-Showcase-Toil-worse.PNG" class="image-large" alt="La productivité par personne est réduite à mesure que l'équipe s'agrandit" />
-
-[Lien (anglais)](https://www.desmos.com/calculator/w8niq2v1ee)
-
-  </div>
-
-  <div class="right-half">
-
-<img src="./assets/images/Whitelite-Showcase-Toil-worse.PNG" class="image-large" alt="Productivity per person reduced as team grows" />
-
-[Link](https://www.desmos.com/calculator/w8niq2v1ee)
-
-  </div>
+[Lien (anglais)](https://www.desmos.com/calculator/w8niq2v1ee) | [Link](https://www.desmos.com/calculator/w8niq2v1ee)
 
 </div>
 
@@ -749,23 +725,11 @@ by doubling the amount of staff
 
 <div class="container">
 
-  <div class="left-half">
+<img src="./assets/images/Whitelite-Showcase-Toil-automated.PNG" class="image-large" alt="L'automatisation réduit le besoin de personnel supplémentaire | Automation reduces need for more staff" />
 
-<img src="./assets/images/Whitelite-Showcase-Toil-automated.PNG" class="image-large" alt="L'automatisation réduit le besoin de personnel supplémentaire" />
-
-[Lien (anglais)](https://www.desmos.com/calculator/hugbt6oxdt)
+[Lien (anglais)](https://www.desmos.com/calculator/hugbt6oxdt) | [Link](https://www.desmos.com/calculator/hugbt6oxdt)
 
   </div>
-
-  <div class="right-half">
-
-<img src="./assets/images/Whitelite-Showcase-Toil-automated.PNG" class="image-large" alt="Automation reduces need for more staff" />
-
-[Link](https://www.desmos.com/calculator/hugbt6oxdt)
-
-  </div>
-
-</div>
 
 --
 
