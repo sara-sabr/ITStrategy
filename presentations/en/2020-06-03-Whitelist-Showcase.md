@@ -414,7 +414,7 @@ _A.2.3.2.1 Focus on the needs of users, using agile, iterative, and user-centred
 
 #### Topologies d'équipe : Gouvernementisé
 
-<img src="./assets/images/TTBlog-Figure4-fr.jpg" class="image-medium" alt="Les propriétaires de produits gèrent les produits; les gestionnaires gèrent les personnes; le chef de projet gère le projet" style="margin-top:60px" />
+<img src="./assets/images/TTBlog-Figure4-fr.png" class="image-medium" alt="Les propriétaires de produits gèrent les produits; les gestionnaires gèrent les personnes; le chef de projet gère le projet" style="margin-top:60px" />
 
   </div>
 
