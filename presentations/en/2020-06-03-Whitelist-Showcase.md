@@ -765,9 +765,9 @@ by doubling the amount of staff
 
   </div>
 
-  <div class="shared-content">
+  <div class="shared-content-thin">
 
-<img src="./assets/images/Whitelite-Showcase-Toil-problem.PNG" class="image-medium" alt="Ceux qui automatisent surchargent ceux qui ne le font pas | Those who automate overload those who do not" />
+<img src="./assets/images/Whitelite-Showcase-Toil-problem.PNG" class="image-large" alt="Ceux qui automatisent surchargent ceux qui ne le font pas | Those who automate overload those who do not" />
 
 [Lien (anglais)](https://www.desmos.com/calculator/kvubrihz0h) | [Link](https://www.desmos.com/calculator/kvubrihz0h)
 
