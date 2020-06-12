@@ -560,7 +560,7 @@ High-Level Architecture
 
   </div>
 
-<div class="shared-content">
+<div class="shared-content-thin">
 
 <img src="./assets/images/Whitelite-Showcase-CloudArch.PNG" class="image-large" alt="Cloud architecture of solution" />
 
@@ -986,6 +986,10 @@ Visit the [IT Strategy website](https://sara-sabr.github.io/ITStrategy/home.html
 
 <style>
 
+  img.image-x-large {
+    height: 600px;
+  }
+
   img.image-large {
     height: 500px;
   }
@@ -1023,6 +1027,10 @@ Visit the [IT Strategy website](https://sara-sabr.github.io/ITStrategy/home.html
 
   .shared-content {
     padding-top: 150px;
+  }
+
+  .shared-content-thin {
+    padding-top: 50px;
   }
 
 </style>
