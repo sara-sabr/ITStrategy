@@ -370,7 +370,7 @@ _A.2.3.2.1 Focus on the needs of users, using agile, iterative, and user-centred
 
 ## Comment
 
-![Modèle de topologies d'équipe](./assets/images/TTBlog-Figure1.PNG)
+<img src="./assets/images/TTBlog-Figure1-fr.png" alt="Modèle de topologies d'équipe" />
 
   </div>
 
@@ -378,7 +378,7 @@ _A.2.3.2.1 Focus on the needs of users, using agile, iterative, and user-centred
 
 ## How
 
-![Team Topologies model](./assets/images/TTBlog-Figure1.PNG)
+<img src="./assets/images/TTBlog-Figure1.PNG" alt="Team Topologies model" />
 
   </div>
 
@@ -414,7 +414,7 @@ _A.2.3.2.1 Focus on the needs of users, using agile, iterative, and user-centred
 
 #### Topologies d'équipe : Gouvernementisé
 
-<img src="./assets/images/TTBlog-Figure4.PNG" class="image-medium" alt="Les propriétaires de produits gèrent les produits; les gestionnaires gèrent les personnes; le chef de projet gère le projet" style="margin-top:60px" />
+<img src="./assets/images/TTBlog-Figure4-fr.png" class="image-medium" alt="Les propriétaires de produits gèrent les produits; les gestionnaires gèrent les personnes; le chef de projet gère le projet" style="margin-top:60px" />
 
   </div>
 
@@ -484,7 +484,7 @@ Upskill teams & miminize size
 
 #### Automatisation
 
-<img src="./assets/images/Whitelite-Showcase-IsThisAutomation-FR.jpg" class="image-medium" alt="Est-ce de l'automatisation de l'infonuagique? Non" />
+<img src="./assets/images/Whitelite-Showcase-IsThisAutomation-fr.jpg" class="image-medium" alt="Est-ce de l'automatisation de l'infonuagique? Non" />
 
   </div>
 
@@ -500,21 +500,21 @@ Upskill teams & miminize size
 
 --
 
-## Cloud
+### Cloud
 
 <div class="container">
 
   <div class="left-half">
 
-### Automatisation
+#### Automatisation
 
-<img src="./assets/images/Whitelite-Showcase-Cloud-FR.jpg" style="margin-top: 40px;" class="image-medium" alt="Libre-service avant l'infonuagique" />
+<img src="./assets/images/Whitelite-Showcase-Cloud-fr.jpg" style="margin-top: 40px;" class="image-medium" alt="Libre-service avant l'infonuagique" />
 
   </div>
 
   <div class="right-half">
 
-### Automation
+#### Automation
 
 <img src="./assets/images/Whitelite-Showcase-Cloud.jpg" style="margin-top: 40px;" class="image-medium" alt="Self-service over cloud" />
 
@@ -528,19 +528,20 @@ Upskill teams & miminize size
 
   <div class="left-half">
 
-Architecture de haut niveau
-
-<img src="./assets/images/Whitelite-Showcase-HighLevelArch.svg" class="image-medium" alt="Architecture de haut niveau de la solution" />
+#### Architecture de haut niveau
 
   </div>
 
   <div class="right-half">
 
-High-Level Architecture
-
-<img src="./assets/images/Whitelite-Showcase-HighLevelArch.svg" class="image-medium" alt="High-level architecture of solution" />
+#### High-Level Architecture
 
   </div>
+<div class="shared-content-thin">
+
+<img src="./assets/images/Whitelite-Showcase-HighLevelArch.svg" class="image-x-large" alt="Architecture de haut niveau de la solution | High-level architecture of solution" />
+
+</div>
 
 </div>
 
@@ -560,9 +561,9 @@ High-Level Architecture
 
   </div>
 
-<div class="shared-content">
+<div class="shared-content-thin">
 
-<img src="./assets/images/Whitelite-Showcase-CloudArch.PNG" class="image-large" alt="Cloud architecture of solution" />
+<img src="./assets/images/Whitelite-Showcase-CloudArch.PNG" class="image-x-large" alt="Architecture infonuagique de la solution | Cloud architecture of solution" />
 
 </div>
 
@@ -574,7 +575,7 @@ High-Level Architecture
 
   <div class="left-half">
 
-<img src="./assets/images/Whitelite-Showcase-ValueOrProcess-FR.jpg" class="image-large" alt="Suivre le processus ou offrir de la valeur?" />
+<img src="./assets/images/Whitelite-Showcase-ValueOrProcess-fr.jpg" class="image-large" alt="Suivre le processus ou offrir de la valeur?" />
   
 - AE du DPI
 
@@ -704,21 +705,9 @@ by doubling the amount of staff
 
 <div class="container">
 
-  <div class="left-half">
+<img src="./assets/images/Whitelite-Showcase-Toil.PNG" class="image-large" alt="Plus le travail augmente, plus le besoin en personnel augmente | As work increases; need for staff increases" />
 
-<img src="./assets/images/Whitelite-Showcase-Toil.PNG" class="image-large" alt="Plus le travail augmente, plus le besoin en personnel augmente" />
-
-[Lien (anglais)](https://www.desmos.com/calculator/w8niq2v1ee)
-
-  </div>
-
-  <div class="right-half">
-
-<img src="./assets/images/Whitelite-Showcase-Toil.PNG" class="image-large" alt="As work increases; need for staff increases" />
-
-[Link](https://www.desmos.com/calculator/w8niq2v1ee)
-
-  </div>
+[Lien (anglais)](https://www.desmos.com/calculator/w8niq2v1ee) | [Link](https://www.desmos.com/calculator/w8niq2v1ee)
 
 </div>
 
@@ -726,21 +715,9 @@ by doubling the amount of staff
 
 <div class="container">
 
-  <div class="left-half">
+<img src="./assets/images/Whitelite-Showcase-Toil-worse.PNG" class="image-large" alt="La productivité par personne est réduite à mesure que l'équipe s'agrandit | Productivity per person reduced as team grows" />
 
-<img src="./assets/images/Whitelite-Showcase-Toil-worse.PNG" class="image-large" alt="La productivité par personne est réduite à mesure que l'équipe s'agrandit" />
-
-[Lien (anglais)](https://www.desmos.com/calculator/w8niq2v1ee)
-
-  </div>
-
-  <div class="right-half">
-
-<img src="./assets/images/Whitelite-Showcase-Toil-worse.PNG" class="image-large" alt="Productivity per person reduced as team grows" />
-
-[Link](https://www.desmos.com/calculator/w8niq2v1ee)
-
-  </div>
+[Lien (anglais)](https://www.desmos.com/calculator/w8niq2v1ee) | [Link](https://www.desmos.com/calculator/w8niq2v1ee)
 
 </div>
 
@@ -748,23 +725,11 @@ by doubling the amount of staff
 
 <div class="container">
 
-  <div class="left-half">
+<img src="./assets/images/Whitelite-Showcase-Toil-automated.PNG" class="image-large" alt="L'automatisation réduit le besoin de personnel supplémentaire | Automation reduces need for more staff" />
 
-<img src="./assets/images/Whitelite-Showcase-Toil-automated.PNG" class="image-large" alt="L'automatisation réduit le besoin de personnel supplémentaire" />
-
-[Lien (anglais)](https://www.desmos.com/calculator/hugbt6oxdt)
+[Lien (anglais)](https://www.desmos.com/calculator/hugbt6oxdt) | [Link](https://www.desmos.com/calculator/hugbt6oxdt)
 
   </div>
-
-  <div class="right-half">
-
-<img src="./assets/images/Whitelite-Showcase-Toil-automated.PNG" class="image-large" alt="Automation reduces need for more staff" />
-
-[Link](https://www.desmos.com/calculator/hugbt6oxdt)
-
-  </div>
-
-</div>
 
 --
 
@@ -790,21 +755,21 @@ by doubling the amount of staff
 
   <div class="left-half">
 
-### Pourquoi me soucier du labeur?
-
-<img src="./assets/images/Whitelite-Showcase-Toil-problem.PNG" class="image-small" alt="Ceux qui automatisent surchargent ceux qui ne le font pas" />
-
-[Lien (anglais)](https://www.desmos.com/calculator/kvubrihz0h)
+#### Pourquoi me soucier du labeur?
 
   </div>
 
   <div class="right-half">
 
-### Why do I care about toil?
+#### Why do I care about toil?
 
-<img src="./assets/images/Whitelite-Showcase-Toil-problem.PNG" class="image-small" alt="Those who automate overload those who do not" />
+  </div>
 
-[Link](https://www.desmos.com/calculator/kvubrihz0h)
+  <div class="shared-content-thin">
+
+<img src="./assets/images/Whitelite-Showcase-Toil-problem.PNG" class="image-large" alt="Ceux qui automatisent surchargent ceux qui ne le font pas | Those who automate overload those who do not" />
+
+[Lien (anglais)](https://www.desmos.com/calculator/kvubrihz0h) | [Link](https://www.desmos.com/calculator/kvubrihz0h)
 
   </div>
 
@@ -986,6 +951,10 @@ Visit the [IT Strategy website](https://sara-sabr.github.io/ITStrategy/home.html
 
 <style>
 
+  img.image-x-large {
+    height: 600px;
+  }
+
   img.image-large {
     height: 500px;
   }
@@ -1023,6 +992,10 @@ Visit the [IT Strategy website](https://sara-sabr.github.io/ITStrategy/home.html
 
   .shared-content {
     padding-top: 150px;
+  }
+
+  .shared-content-thin {
+    padding-top: 50px;
   }
 
 </style>
