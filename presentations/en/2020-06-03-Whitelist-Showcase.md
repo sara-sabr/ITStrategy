@@ -528,19 +528,20 @@ Upskill teams & miminize size
 
   <div class="left-half">
 
-Architecture de haut niveau
-
-<img src="./assets/images/Whitelite-Showcase-HighLevelArch.svg" class="image-medium" alt="Architecture de haut niveau de la solution" />
+#### Architecture de haut niveau
 
   </div>
 
   <div class="right-half">
 
-High-Level Architecture
-
-<img src="./assets/images/Whitelite-Showcase-HighLevelArch.svg" class="image-medium" alt="High-level architecture of solution" />
+#### High-Level Architecture
 
   </div>
+<div class="shared-content-thin">
+
+<img src="./assets/images/Whitelite-Showcase-HighLevelArch.svg" class="image-x-large" alt="High-level architecture of solution" />
+
+</div>
 
 </div>
 
@@ -549,20 +550,16 @@ High-Level Architecture
 <div class="container">
 
   <div class="left-half">
-
 #### Architecture de l'infonuagique
-
   </div>
 
   <div class="right-half">
-
 #### Cloud Architecture
-
   </div>
 
 <div class="shared-content-thin">
 
-<img src="./assets/images/Whitelite-Showcase-CloudArch.PNG" class="image-large" alt="Cloud architecture of solution" />
+<img src="./assets/images/Whitelite-Showcase-CloudArch.PNG" class="image-x-large" alt="Cloud architecture of solution" />
 
 </div>
 
