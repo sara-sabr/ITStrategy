@@ -370,7 +370,7 @@ _A.2.3.2.1 Focus on the needs of users, using agile, iterative, and user-centred
 
 ## Comment
 
-![Modèle de topologies d'équipe](./assets/images/TTBlog-Figure1-fr.png)
+<img src="./assets/images/TTBlog-Figure1-fr.png" class="image-large" alt="Modèle de topologies d'équipe" />
 
   </div>
 
@@ -378,7 +378,7 @@ _A.2.3.2.1 Focus on the needs of users, using agile, iterative, and user-centred
 
 ## How
 
-![Team Topologies model](./assets/images/TTBlog-Figure1.PNG)
+<img src="./assets/images/TTBlog-Figure1.PNG" class="image-large" alt="Team Topologies model" />
 
   </div>
 
