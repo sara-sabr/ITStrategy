@@ -500,13 +500,13 @@ Upskill teams & miminize size
 
 --
 
-## Cloud
+### Cloud
 
 <div class="container">
 
   <div class="left-half">
 
-### Automatisation
+#### Automatisation
 
 <img src="./assets/images/Whitelite-Showcase-Cloud-FR.jpg" style="margin-top: 40px;" class="image-medium" alt="Libre-service avant l'infonuagique" />
 
@@ -514,7 +514,7 @@ Upskill teams & miminize size
 
   <div class="right-half">
 
-### Automation
+#### Automation
 
 <img src="./assets/images/Whitelite-Showcase-Cloud.jpg" style="margin-top: 40px;" class="image-medium" alt="Self-service over cloud" />
 
