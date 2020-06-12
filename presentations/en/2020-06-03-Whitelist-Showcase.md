@@ -370,7 +370,7 @@ _A.2.3.2.1 Focus on the needs of users, using agile, iterative, and user-centred
 
 ## Comment
 
-![Modèle de topologies d'équipe](./assets/images/TTBlog-Figure1.PNG)
+![Modèle de topologies d'équipe](./assets/images/TTBlog-Figure1-fr.png)
 
   </div>
 
@@ -414,7 +414,7 @@ _A.2.3.2.1 Focus on the needs of users, using agile, iterative, and user-centred
 
 #### Topologies d'équipe : Gouvernementisé
 
-<img src="./assets/images/TTBlog-Figure4.PNG" class="image-medium" alt="Les propriétaires de produits gèrent les produits; les gestionnaires gèrent les personnes; le chef de projet gère le projet" style="margin-top:60px" />
+<img src="./assets/images/TTBlog-Figure4-fr.jpg" class="image-medium" alt="Les propriétaires de produits gèrent les produits; les gestionnaires gèrent les personnes; le chef de projet gère le projet" style="margin-top:60px" />
 
   </div>
 
@@ -484,7 +484,7 @@ Upskill teams & miminize size
 
 #### Automatisation
 
-<img src="./assets/images/Whitelite-Showcase-IsThisAutomation-FR.jpg" class="image-medium" alt="Est-ce de l'automatisation de l'infonuagique? Non" />
+<img src="./assets/images/Whitelite-Showcase-IsThisAutomation-fr.jpg" class="image-medium" alt="Est-ce de l'automatisation de l'infonuagique? Non" />
 
   </div>
 
@@ -508,7 +508,7 @@ Upskill teams & miminize size
 
 #### Automatisation
 
-<img src="./assets/images/Whitelite-Showcase-Cloud-FR.jpg" style="margin-top: 40px;" class="image-medium" alt="Libre-service avant l'infonuagique" />
+<img src="./assets/images/Whitelite-Showcase-Cloud-fr.jpg" style="margin-top: 40px;" class="image-medium" alt="Libre-service avant l'infonuagique" />
 
   </div>
 
@@ -575,7 +575,7 @@ Upskill teams & miminize size
 
   <div class="left-half">
 
-<img src="./assets/images/Whitelite-Showcase-ValueOrProcess-FR.jpg" class="image-large" alt="Suivre le processus ou offrir de la valeur?" />
+<img src="./assets/images/Whitelite-Showcase-ValueOrProcess-fr.jpg" class="image-large" alt="Suivre le processus ou offrir de la valeur?" />
   
 - AE du DPI
 
