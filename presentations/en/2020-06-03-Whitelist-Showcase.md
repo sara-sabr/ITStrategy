@@ -550,11 +550,15 @@ Upskill teams & miminize size
 <div class="container">
 
   <div class="left-half">
+
 #### Architecture de l'infonuagique
+
   </div>
 
   <div class="right-half">
+
 #### Cloud Architecture
+
   </div>
 
 <div class="shared-content-thin">
