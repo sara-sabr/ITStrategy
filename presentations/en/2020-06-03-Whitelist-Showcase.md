@@ -705,7 +705,7 @@ by doubling the amount of staff
 
 <div class="container">
 
-<img src="./assets/images/Whitelite-Showcase-Toil.PNG" class="image-large" alt="Plus le travail augmente, plus le besoin en personnel augmente | As work increases; need for staff increases" />
+<img src="./assets/images/Whitelite-Showcase-Toil.PNG" class="image-x-large" alt="Plus le travail augmente, plus le besoin en personnel augmente | As work increases; need for staff increases" />
 
 [Lien (anglais)](https://www.desmos.com/calculator/w8niq2v1ee) | [Link](https://www.desmos.com/calculator/w8niq2v1ee)
 
@@ -715,7 +715,7 @@ by doubling the amount of staff
 
 <div class="container">
 
-<img src="./assets/images/Whitelite-Showcase-Toil-worse.PNG" class="image-large" alt="La productivité par personne est réduite à mesure que l'équipe s'agrandit | Productivity per person reduced as team grows" />
+<img src="./assets/images/Whitelite-Showcase-Toil-worse.PNG" class="image-x-large" alt="La productivité par personne est réduite à mesure que l'équipe s'agrandit | Productivity per person reduced as team grows" />
 
 [Lien (anglais)](https://www.desmos.com/calculator/w8niq2v1ee) | [Link](https://www.desmos.com/calculator/w8niq2v1ee)
 
@@ -725,7 +725,7 @@ by doubling the amount of staff
 
 <div class="container">
 
-<img src="./assets/images/Whitelite-Showcase-Toil-automated.PNG" class="image-large" alt="L'automatisation réduit le besoin de personnel supplémentaire | Automation reduces need for more staff" />
+<img src="./assets/images/Whitelite-Showcase-Toil-automated.PNG" class="image-x-large" alt="L'automatisation réduit le besoin de personnel supplémentaire | Automation reduces need for more staff" />
 
 [Lien (anglais)](https://www.desmos.com/calculator/hugbt6oxdt) | [Link](https://www.desmos.com/calculator/hugbt6oxdt)
 
@@ -757,19 +757,19 @@ by doubling the amount of staff
 
 ### Pourquoi me soucier du labeur?
 
-<img src="./assets/images/Whitelite-Showcase-Toil-problem.PNG" class="image-small" alt="Ceux qui automatisent surchargent ceux qui ne le font pas" />
-
-[Lien (anglais)](https://www.desmos.com/calculator/kvubrihz0h)
-
   </div>
 
   <div class="right-half">
 
 ### Why do I care about toil?
 
-<img src="./assets/images/Whitelite-Showcase-Toil-problem.PNG" class="image-small" alt="Those who automate overload those who do not" />
+  </div>
 
-[Link](https://www.desmos.com/calculator/kvubrihz0h)
+  <div class="shared-content">
+
+<img src="./assets/images/Whitelite-Showcase-Toil-problem.PNG" class="image-medium" alt="Ceux qui automatisent surchargent ceux qui ne le font pas | Those who automate overload those who do not" />
+
+[Lien (anglais)](https://www.desmos.com/calculator/kvubrihz0h) | [Link](https://www.desmos.com/calculator/kvubrihz0h)
 
   </div>
 
