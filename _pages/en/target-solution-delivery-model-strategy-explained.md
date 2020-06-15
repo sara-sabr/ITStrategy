@@ -159,7 +159,7 @@ This leads to the following unintentional consequences:
 
 - Deploy DevOps teams
 - DevOps team expected to take on all functional responsibilities
-- Use of Champions to augment team's skillsets and expertise
+- Use of Champions to augment team's skill sets and expertise
 - Use of specialized tools (e.g., security) to reduce burden to teams
 
 ### 3.4. Functional organization structures hinder capacity planning

@@ -1,4 +1,4 @@
-﻿{
+{
   "version": "0.1",
   "language": "fr",
   "words": [
@@ -384,10 +384,24 @@
     "specialties",
     "siloed",
     "practiced",
-    "Odoo"
+    "Odoo",
+    "siloes",
+    "situates",
+    "Ssc's",
+    "INET",
+    "incentivize",
+    "versioning",
+    "Po's",
+    "downstream",
+    "tradeoff",
+    "upskill",
+    "ERPs",
+    "Blackbox"
   ],
   "flagWords": [],
-  "import": ["./node_modules/cspell-dict-fr-fr/cspell-ext.json"],
+  "import": [
+    "./node_modules/cspell-dict-fr-fr/cspell-ext.json"
+  ],
   "dictionaries": [
     "fr-fr",
     "en-gb",
@@ -397,5 +411,7 @@
     "html",
     "css"
   ],
-  "ignoreRegExpList": ["]\\(([^\\)]+)\\)"]
+  "ignoreRegExpList": [
+    "]\\(([^\\)]+)\\)"
+  ]
 }
