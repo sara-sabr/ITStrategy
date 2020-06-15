@@ -971,8 +971,7 @@ Visit the [IT Strategy website](https://sara-sabr.github.io/ITStrategy/home.html
 ## RevealJS
 
 - Cadriciel de présentation HTML libre
-- Langage Markdown facile à utiliser
-- Composantes Web
+- Langage Markdown + Composantes Web
 - \+  Diapos verticales, vue présentateur, exportation PDF...
 
 [revealjs.com](https://revealjs.com)
@@ -984,8 +983,7 @@ Visit the [IT Strategy website](https://sara-sabr.github.io/ITStrategy/home.html
 ## RevealJS
 
 - Open source HTML presentation framework
-- Easy to use Markdown language
-- Web components
+- Markdown language + Web components
 - \+  Vertical Slides, Speaker View, PDF Export...
 
 [revealjs.com](https://revealjs.com)
