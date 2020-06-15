@@ -79,8 +79,12 @@ How to manage and keep track of such cross-project work?
 
 #### 2.1.3. What is being done about this concern
 
+*Coordinating activities*
+
+If a given project requires a given competency, that that competency should exist within the team. As a result, if data science is a competency that is required for a given value stream to deliver value to its users, then data science capabilities should be embedded within the team. As for how those services are delievered, the technologies should be in place through internal such that the team is able to manage the software required to deliver the data analysis capabilities they need. In the case of a large monolthic piece software (which is undesireable), this could be accomplished by someone within the team having access to the required tooling in order to generate the analysis required. Conversely, all data should be exposed through endpoints, allowing those with access to query (or update) the information needed through automation. In neither case is there a team who is the gatekeeper to a given software, skillset, or dataset. Distributed decision making is essential to maintain agility, and highly centralized systems (without extensive investments automation) reduce agility. Centralizing capabilities required across projects outside of said project is undesireable. Management will become responsible to ensure that there is consistency regarding skillsets or technologies between teams  of teams, as their teams resources will be embedded within DevOps teams. In this model, teams are organized in "matrixes", whereby PO's manage work vertically, and managers manage teams horizontally (based on skillsets). It is this horizontal management that would be responsible for best practices and 'defaults' (over standards) for a given capability (ex [though not limited to]: testing, accessibilty, data science, architecture).
+
 - Exploring the use of Senior Advisor’s model for OAS-SIS (using Squads, PO, Chief PO, Project Owner). The idea is that Lines of Businesses would be the POs and Project Owners. They would coordinate changes to IT Products downstreams and prioritize them, sharing part of the accountability on IT Projects.
-- Teams are organized in "matrixes", whereby PO's manage work vertically, and managers manage teams horizontally (based on skillsets). It is this horizontal management that would be responsible for best practices and 'defaults' (over standards) for a given capability (ex [though not limited to]: testing, accessibilty, data science, architecture)
+
 
 ### 2.2. Proliferation of IT standards
 
