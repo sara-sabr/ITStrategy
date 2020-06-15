@@ -1092,7 +1092,7 @@ Content...
 
 1. Install Git and VS Code ([Application Catalogue](http://srmis-sigdi-iagent.prv/WT-STO/iAgent/AppPortal/fr))
 2. Add [vscode-reveal](https://marketplace.visualstudio.com/items?itemName=evilz.vscode-reveal) extension in VS Code
-3. [Configure GitHub repo](https://medium.com/@marcus_baw/using-reveal-js-a74b30e4065b)
+3. [Configure GitHub repository](https://medium.com/@marcus_baw/using-reveal-js-a74b30e4065b)
 
   </div>
 
