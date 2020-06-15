@@ -986,7 +986,7 @@ Visit the [IT Strategy website](https://sara-sabr.github.io/ITStrategy/home.html
 
   </div>
 
-<div class="shared-content">
+<div class="shared-content" style="margin-top:55%">
 
 [revealjs.com](https://revealjs.com)
 
