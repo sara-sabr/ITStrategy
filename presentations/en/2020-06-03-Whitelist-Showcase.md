@@ -1056,17 +1056,21 @@ Content...
 
   <div class="left-half">
 
+### Test
+
 1. Sauvegarder dans le dépôt Git (p.ex. GitHub)
 2. Tests automatisés, révision par les pairs...
-3. Présentation disponible dans le site Web public 😃
+3. Présentation disponible dans le site Web public 😎
 
   </div>
 
   <div class="right-half">
 
+### Test
+
 1. Save to Git repository (e.g. GitHub)
 2. Automated checks, Peer review...
-3. Presentation available in public website 😃
+3. Presentation available in public website 😎
 
   </div>
 
