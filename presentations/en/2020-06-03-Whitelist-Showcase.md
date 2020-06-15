@@ -1064,9 +1064,9 @@ Content...
 
   <div class="right-half">
 
-1. Save to Git repository (e.g. GitHub)
-2. Automated checks, Peer review...
-3. Presentation available in public website :-)
+- Save to Git repository (e.g. GitHub)
+- Automated checks, Peer review...
+- Presentation available in public website :-)
 
   </div>
 
