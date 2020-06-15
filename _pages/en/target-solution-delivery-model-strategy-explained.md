@@ -241,7 +241,7 @@ Some directors will be risk averse and only forecast to what has been committed,
 - Forecasting requires to constantly justify spending, often via briefing notes and tedious storytelling about "what is the benefit to the citizen".
 - Technology change needing the creation of IT Project
 - Software treated as a physical asset that does not evolve over time
-- Technical debt is COTS versioning, patching, but also skillsets, refactoring engineering and architecture decisions
+- Technical debt is COTS versioning, patching, but also skill sets, refactoring engineering and architecture decisions
 - Changes to IT Products require initiating IT Projects which are labour intensive (statement \#3.2)
 
 #### 3.9.2. How the strategy intends to solve the problem

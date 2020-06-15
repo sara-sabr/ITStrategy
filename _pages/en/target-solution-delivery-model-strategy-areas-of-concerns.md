@@ -41,7 +41,7 @@ This document will be updated throughout the elaboration of the above strategy.
   - [2.5. Oversight on IT Product changes (PO, PM, discretionary, and technical debt)](#25-oversight-on-it-product-changes-po-pm-discretionary-and-technical-debt)
   - [2.6. Approach to IT Capacity planning](#26-approach-to-it-capacity-planning)
   - [2.7. Alignment and Gap analysis with Policy and Directive (Investment & Project Management)](#27-alignment-and-gap-analysis-with-policy-and-directive-investment--project-management)
-  - [2.8. Sustainability of skillsets](#28-sustainability-of-skillsets)
+  - [2.8. Sustainability of skill sets](#28-sustainability-of-skillsets)
   - [2.9. Enterprise Resource Planning (ERP) solutions](#29-enterprise-resource-planning-erp-solutions)
   - [2.10. Clarity on the definition of “IT Product”](#210-clarity-on-the-definition-of-it-product)
   - [2.11. Risk to project management overhead](#211-risk-to-project-management-overhead)
@@ -81,7 +81,7 @@ How to manage and keep track of such cross-project work?
 
 *Coordinating activities*
 
-If a given project requires a given competency, that that competency should exist within the team. As a result, if data science is a competency that is required for a given value stream to deliver value to its users, then data science capabilities should be embedded within the team. As for how those services are delivered, the technologies should be in place through internal such that the team is able to manage the software required to deliver the data analysis capabilities they need. In the case of a large monolithic piece software (which is undesirable), this could be accomplished by someone within the team having access to the required tooling in order to generate the analysis required. Conversely, all data should be exposed through endpoints, allowing those with access to query (or update) the information needed through automation. In neither case is there a team who is the gatekeeper to a given software, skillset, or dataset. Distributed decision making is essential to maintain agility, and highly centralized systems (without extensive investments automation) reduce agility. Centralizing capabilities required across projects outside of said project is undesirable. Management will become responsible to ensure that there is consistency regarding skillsets or technologies between teams  of teams, as their teams resources will be embedded within DevOps teams. In this model, teams are organized in "matrices", whereby PO's manage work vertically, and managers manage teams horizontally (based on skillsets). It is this horizontal management that would be responsible for best practices and 'defaults' (over standards) for a given capability (ex [though not limited to]: testing, accessibility, data science, architecture).
+If a given project requires a given competency, that that competency should exist within the team. As a result, if data science is a competency that is required for a given value stream to deliver value to its users, then data science capabilities should be embedded within the team. As for how those services are delivered, the technologies should be in place through internal such that the team is able to manage the software required to deliver the data analysis capabilities they need. In the case of a large monolithic piece software (which is undesirable), this could be accomplished by someone within the team having access to the required tooling in order to generate the analysis required. Conversely, all data should be exposed through endpoints, allowing those with access to query (or update) the information needed through automation. In neither case is there a team who is the gatekeeper to a given software, skillset, or dataset. Distributed decision making is essential to maintain agility, and highly centralized systems (without extensive investments automation) reduce agility. Centralizing capabilities required across projects outside of said project is undesirable. Management will become responsible to ensure that there is consistency regarding skill sets or technologies between teams  of teams, as their teams resources will be embedded within DevOps teams. In this model, teams are organized in "matrices", whereby PO's manage work vertically, and managers manage teams horizontally (based on skill sets). It is this horizontal management that would be responsible for best practices and 'defaults' (over standards) for a given capability (ex [though not limited to]: testing, accessibility, data science, architecture).
 
 - Exploring the use of Senior Advisor's model for OAS-SIS (using Squads, PO, Chief PO, Project Owner). The idea is that Lines of Businesses would be the POs and Project Owners. They would coordinate changes to IT Products downstream and prioritize them, sharing part of the accountability on IT Projects.
 
@@ -210,11 +210,11 @@ An analysis needs to take place to highlight if this model is in alignment with:
 
 Analysis to be completed. Gaps to be highlighted and inform more actions in the 3. Coherent set of actions
 
-### 2.8. Sustainability of skillsets
+### 2.8. Sustainability of skill sets
 
 #### 2.8.1. Summary
 
-If DevOps teams are responsible to maintain their IT Products in production, have the authority to choose their technical stacks, and expected to have cross-functional skillsets (e.g., UX, Security, and enough technical expertise to maintain their solutions in production), how do we mitigate the turn over risk that such expertise leaves a team?
+If DevOps teams are responsible to maintain their IT Products in production, have the authority to choose their technical stacks, and expected to have cross-functional skill sets (e.g., UX, Security, and enough technical expertise to maintain their solutions in production), how do we mitigate the turn over risk that such expertise leaves a team?
 
 #### 2.8.2. Raised by stakeholder(s)
 
