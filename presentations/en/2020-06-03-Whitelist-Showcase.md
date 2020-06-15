@@ -998,11 +998,11 @@ Visit the [IT Strategy website](https://sara-sabr.github.io/ITStrategy/home.html
 
 <div class="container">
 
-### Production (1/2)
+## Markdown
 
   <div class="left-half">
 
-1. Rédiger le contenu
+### Contenu
 
 ```markdown
 # Titre 1
@@ -1025,7 +1025,7 @@ Contenu...
 
   <div class="right-half">
 
-1. Write content
+### Content
 
 ```markdown
 # Header 1
@@ -1052,11 +1052,9 @@ Content...
 
 <div class="container">
 
-### Production (2/2)
-
   <div class="left-half">
 
-### Test
+### Étapes
 
 1. Sauvegarder dans le dépôt Git (p.ex. GitHub)
 2. Tests automatisés, révision par les pairs...
@@ -1066,7 +1064,7 @@ Content...
 
   <div class="right-half">
 
-### Test
+### Steps
 
 1. Save to Git repository (e.g. GitHub)
 2. Automated checks, Peer review...
