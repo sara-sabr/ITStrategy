@@ -971,7 +971,11 @@ Visit the [IT Strategy website](https://sara-sabr.github.io/ITStrategy/home.html
 ## RevealJS
 
 - Cadriciel de présentation HTML libre
-- Langage Markdown + Composantes Web
+
+- Langage Markdown
+
+- Composantes Web
+
 - \+  Diapos verticales, vue présentateur, exportation PDF...
 
   </div>
@@ -981,7 +985,11 @@ Visit the [IT Strategy website](https://sara-sabr.github.io/ITStrategy/home.html
 ## RevealJS
 
 - Open source HTML presentation framework
-- Markdown language + Web components
+
+- Markdown Language
+
+- Web Components
+
 - \+  Vertical Slides, Speaker View, PDF Export...
 
   </div>
@@ -1057,7 +1065,9 @@ Content...
 ### Étapes
 
 1. Sauvegarder dans le dépôt Git (p.ex. GitHub)
+
 2. Tests automatisés, révision par les pairs...
+
 3. Présentation disponible dans le site Web public 😎
 
   </div>
@@ -1067,7 +1077,9 @@ Content...
 ### Steps
 
 1. Save to Git repository (e.g. GitHub)
+
 2. Automated checks, Peer review...
+
 3. Presentation available in public website 😎
 
   </div>
@@ -1083,7 +1095,9 @@ Content...
 ### Outils
 
 1. Installer Git et VS Code ([Catalogue d'application](http://srmis-sigdi-iagent.prv/WT-STO/iAgent/AppPortal/fr))
+  
 2. Ajouter extension [vscode-reveal](https://marketplace.visualstudio.com/items?itemName=evilz.vscode-reveal) dans VS Code
+
 3. [Configurer dépôt GitHub (anglais)](https://medium.com/@marcus_baw/using-reveal-js-a74b30e4065b)
 
   </div>
@@ -1093,7 +1107,9 @@ Content...
 ### Tools
 
 1. Install Git and VS Code ([Application Catalogue](http://srmis-sigdi-iagent.prv/WT-STO/iAgent/AppPortal/fr))
+
 2. Add [vscode-reveal](https://marketplace.visualstudio.com/items?itemName=evilz.vscode-reveal) extension in VS Code
+
 3. [Configure GitHub repository](https://medium.com/@marcus_baw/using-reveal-js-a74b30e4065b)
 
   </div>
