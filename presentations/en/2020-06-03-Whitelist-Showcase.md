@@ -1057,16 +1057,16 @@ Content...
   <div class="left-half">
 
 1. Sauvegarder dans le dépôt Git (p.ex. GitHub)
-1. Tests automatisés, révision par les pairs...
-1. Présentation disponible dans le site Web public :-)
+2. Tests automatisés, révision par les pairs...
+3. Présentation disponible dans le site Web public 😃
 
   </div>
 
   <div class="right-half">
 
 1. Save to Git repository (e.g. GitHub)
-1. Automated checks, Peer review...
-1. Presentation available in public website :-)
+2. Automated checks, Peer review...
+3. Presentation available in public website 😃
 
   </div>
 
