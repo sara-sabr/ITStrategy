@@ -1066,7 +1066,7 @@ Content...
 
 1. Save to Git repository (e.g. GitHub)
 2. Automated checks, Peer review...
-3. Presentation available on public website :-)
+3. Presentation available in public website :-)
 
   </div>
 
