@@ -80,6 +80,7 @@ How to manage and keep track of such cross-project work?
 #### 2.1.3. What is being done about this concern
 
 - Exploring the use of Senior Advisor’s model for OAS-SIS (using Squads, PO, Chief PO, Project Owner). The idea is that Lines of Businesses would be the POs and Project Owners. They would coordinate changes to IT Products downstreams and prioritize them, sharing part of the accountability on IT Projects.
+- Teams are organized in "matrixes", whereby PO's manage work vertically, and managers manage teams horizontally (based on skillsets). It is this horizontal management that would be responsible for best practices and 'defaults' (over standards) for a given capability (ex [though not limited to]: testing, accessibilty, data science, architecture)
 
 ### 2.2. Proliferation of IT standards
 
@@ -97,10 +98,14 @@ Allowing DevOps teams to choose their technical stacks negates the principle of 
 
 Pending resolution. Ideas around:
 
-- IT Projects are capped at $2.5M, limiting the ability of a project sponsor to fund an expensive IT product (e.g., proprietary product)
-- Promoting the adoption of OSS instead
-- Enterprise Architecture and Solution Architecture at IT Project inception identifying reusable components to be in scope of IT solution for the IT Project
-- DevOps teams would still require to go through procurement processes should they want to procure a proprietary solution or support agreement.
+*Duplication*
+
+Duplication through this approach is expected to increase. This tradeoff is deemed favourable due to the increase in agility and responsiveness to user and operational needs. While duplication of efforts will occur, efforts will be made to mitigate this. Defaults (over standards) and the proliteration of best practices should take place through CoPs and management roles. Further considerations need to be made regarding duplications are acceptable and which are not. Duplicate instances of freely available open source solutions (which is the favoured approach) should not receive the same attention as proprietary solutions (though efforts should be made to contribute back to the projects being leveraged in lieu of payments). DevOps teams would still require to go through procurement processes should they want to procure a proprietary solution or support agreement. Further, mitigation of  available through Enterprise Architecture and Solution Architecture at IT Project inception identifying (though not requiring) reusable components of the MVP to be in scope of IT solution for the IT Project.
+
+*Iteratively Delivery*
+
+By limiting IT Projects to $2.5M, this reduces the project sponsors ability to fund an expensive IT products (e.g., proprietary product), further promiting the use of existing internal services, or open source solutions (which aligns with the digital standard, "Use open standards and solutions") with a preference towards the defaults that exist within the department. Furthermore, by limiting the size and scope of projects, value is more quickly delievered to users (design with users, from the digital standards), and permits iterative improvements to the solutiin (as per the digital standard, "Iterate and improve frequently").
+
 
 ### 2.3. Financials for IT Products’ evolution (lifecycle management)
 
@@ -153,7 +158,13 @@ In addition, some while some features are non-discretionary (e.g., legal require
 
 #### 2.5.3. What is being done about this concern
 
-TBD
+*Lack of tech debt consideration*
+
+This, in fact, is actually a value add of the setup rather than a ditractor. While technical debt is an important consideration, on the other hand, engineers able to create their own prioritization often fall victim to over engineering the solution. The product owner (who should have received some training to be equipped for the role), will likely push back against technical debt to make room for features. It then becomes the IT teams role to sell the value add of paying down technical debt. The POs relentless focus on features is what will focus the team, and the team must sell the value add of reducing technical debt. All projects have some technical debt, it is a balance between delivering value to users and paying down technical debt which does exist. A trap also exists by allowing IT teams to try and "perfect" the solution, which is an impossible task and thus becomes a time sink preventing value from being delivered to users. This is why continuous improvement is important, and should be built in to each sprint, while ensuring a focus on delivering value to users.
+
+*Compliance & oversight*
+
+If compliance is required, these competencies should be built in to the team. If the solution is complex enough such that it requires numerous teams, platform teams should be created who automate compliance while allowing the value stream aligned teams to focus on delivering value to users. Additionally, with respect to oversight specifically, internal tooling and working in the open become crucial. By working in the open and creating adequate internal tooling to collect and interpret data, oversight can become automated. Working in the open has the potential to create swathes of data which the organization can anaylze for compliance, assuming the department has put in place the proper tooling to generate the required data. Compliance and oversight then become automated tasks rather than gateways. If the automated oversight and compliance are passed, the project is able to proceed unimpeeded. Behind the scenes, those compliance or oversight tasks that have not yet been automated should be completed manually in order to feed the backlog for the team to address in order to further improve upon compliance. In conclusion, sufficient compliance and oversight to deploy to production must be automated. As automation continues to improve, tasks that have yet to be automated will be checked manually to feed the backlog of the product team (everyone should have the ability to create items in the backlog, it is the POs responsibility to prioritize it).
 
 ### 2.6. Approach to IT Capacity planning
 
@@ -209,7 +220,9 @@ If DevOps teams are responsible to maintain their IT Products in production, hav
 
 #### 2.8.3. What is being done about this concern
 
-TBD
+*Expertise: Single point of failure*
+
+It is never the case that an individual within a team is responsible for a given capability, or function. It it always the team that is responsible. Using champions, for example, would mean that the team has a member who is particularly focused on a specific competency, say accessibility. The champions job is not to be *responsible* for accessibility, the champion is responsible for upskilling the team regarding accessibility (in this example). The champion will, for example, document the toolsets and approaches they are using, open tasks/issues and document their findings. The champion will also be closing the issues they open. As a result of this approach, even if the champion is to leave the team, the team should have learned enough from the champion, and have enough work documented, that the rest of the team is able to address the issues created by the champion. The focus is always to upskill the team, and build upon and improve, their capabilities. The focus is not to assign a person to be responsible for a given capability within the team.
 
 ### 2.9. Enterprise Resource Planning (ERP) solutions
 
@@ -223,7 +236,7 @@ How are ERPs like SAP and PeopleSoft fit in this Target Model? Especially that L
 
 #### 2.9.3. What is being done about this concern
 
-TBD
+There are numerous forms of testing. Not all tests are necessarily done by the development teams. For example, unit tests, integration tests, or functional tests, should all be implemented by the development teams. Blackbox testing necessarily is completed by someone outside of the application development team. Further, these principles are intended to be used on legacy systems, though admittedly the toolsets are less readily available. The technologies used are specifically not discussed, the principles used are required. For example, in existing ERP systems efforts should be made to create feedback loops to the development teams. If frameworks are not readily available, investments need be taken to develop these capabilities for legacy systems.
 
 ### 2.10. Clarity on the definition of “IT Product”
 
@@ -270,6 +283,14 @@ A potential scenario is that what was thought of spending $500k to a legacy prod
 - EA
 
 #### 2.12.3. What is being done about this concern
+
+*Small vs larger investments*
+
+Based on our analysis of governmnet projects, the existing approach of committing to large procurements has the same problem -- initial estimates are low and must be revised up. This risk will always exist, though the small iterative approach gives a tool by which to stop projects that look to be doing in the wrong direction, or are failing to deliver on business value. 
+
+*10% vs 10x*
+
+As to spending $2.5M to transition to a modern IT Product instead of iterating on $500K, this is an acceptable risk and said risk will be present whether or not we iterate on smaller projects. What is being discussed is the 10% vs 10x debate. When attempting to improve a solution by 10%, generally it is a continuation of previously made software choices and architectural decisions. In contrast, if a team is challenged to improve the solution by a factor or 10 (10x) then they will likely rethink the entire solution, which may end up yielding better results. These are challenges with the iterative continuous improvement approach (and why innovation is important). However, when the argument becomes "are we optimally improving this solution" rather than "did we just waste 100M on a solution that delivered no value to users" then this is judged to be an improvement upon the status quo.
 
 TBD. The current thinking is to improve the organization’s monitoring ability by linking investments to the health of capabilities, capturing when such investment reaches a threshold to change course and have resources shifting somewhere else.
 
