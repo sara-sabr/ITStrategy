@@ -1,5 +1,6 @@
 <!--markdownlint-disable MD001-->
 <!--markdownlint-disable MD026-->
+<!--markdownlint-disable MD029-->
 <!--markdownlint-disable MD033-->
 <!--markdownlint-disable MD035-->
 <!--markdownlint-disable MD036-->
@@ -134,8 +135,8 @@ IITB Showcase Presentation
 
 ### SNC
 
-    - Calvin Rodo
-      - Champion de la sécurité
+- Calvin Rodo
+  - Champion de la sécurité
 
   </div>
 
@@ -143,8 +144,8 @@ IITB Showcase Presentation
 
 ### CDS
 
-    - Calvin Rodo
-      - Security champion
+- Calvin Rodo
+  - Security champion
 
   </div>
 
@@ -944,6 +945,154 @@ Visiter le [site Web de Stratégie TI](https://sara-sabr.github.io/ITStrategy/ac
 ## To learn more
 
 Visit the [IT Strategy website](https://sara-sabr.github.io/ITStrategy/home.html)
+
+  </div>
+
+</div>
+
+---
+
+## Questions
+
+## Comments/commentaires?
+
+---
+
+## Extra
+
+### Comment nous avons conçu cette présentation | How we built this presentation
+
+--
+
+<div class="container">
+
+  <div class="left-half">
+
+## RevealJS
+
+- Cadriciel de présentation HTML libre
+- Langage Markdown facile à utiliser
+- Supporte les composantes Web
+- \+  Diapos verticales, vue présentateur, exportation PDF...
+
+[revealjs.com](https://revealjs.com)
+
+  </div>
+
+  <div class="right-half">
+
+## RevealJS
+
+- Open source HTML presentation framework
+- Easy to use Markdown language
+- Support Web components
+- \+  Vertical Slides, Speaker View, PDF Export...
+
+[revealjs.com](https://revealjs.com)
+
+  </div>
+
+</div>
+
+---
+
+<div class="container">
+
+### Production (1/2)
+
+  <div class="left-half">
+
+1. Rédiger le contenu
+
+```markdown
+# Titre 1
+
+## Titre 2
+
+Contenu...
+
+- Élément 1
+- **Élément 2 en gras**
+
+[lien](https://www.canada.ca)
+
+---  
+  
+(nouvelle diapo)
+```
+
+  </div>
+
+  <div class="right-half">
+
+1. Write content
+
+```markdown
+# Header 1
+
+## Header 2
+
+Content...
+
+- Item 1
+- **Item 2 in bold**
+
+[link](https://www.canada.ca)
+
+---  
+  
+(new slide)
+```
+
+  </div>
+
+</div>
+
+---
+
+<div class="container">
+
+### Production (2/2)
+
+  <div class="left-half">
+
+1. Sauvegarder dans le dépôt Git (p.ex. GitHub)
+2. Tests automatisés, révision par les pairs...
+3. Présentation disponible dans le site Web public :-)
+
+  </div>
+
+  <div class="right-half">
+
+1. Save to Git repository (e.g. GitHub)
+2. Automated checks, Peer review...
+3. Presentation available on public website :-)
+
+  </div>
+
+</div>
+
+---
+
+<div class="container">
+
+  <div class="left-half">
+
+### Outils
+
+1. Installer Git et VS Code ([Catalogue d'application](http://srmis-sigdi-iagent.prv/WT-STO/iAgent/AppPortal/fr))
+2. Ajouter extension [vscode-reveal](https://marketplace.visualstudio.com/items?itemName=evilz.vscode-reveal) dans VS Code
+3. [Configurer dépôt GitHub (anglais)](https://medium.com/@marcus_baw/using-reveal-js-a74b30e4065b)
+
+  </div>
+
+  <div class="right-half">
+
+### Tools
+
+1. Install Git and VS Code ([Application Catalogue](http://srmis-sigdi-iagent.prv/WT-STO/iAgent/AppPortal/fr))
+2. Add [vscode-reveal](https://marketplace.visualstudio.com/items?itemName=evilz.vscode-reveal) extension in VS Code
+3. [Configure GitHub repo](https://medium.com/@marcus_baw/using-reveal-js-a74b30e4065b)
 
   </div>
 
