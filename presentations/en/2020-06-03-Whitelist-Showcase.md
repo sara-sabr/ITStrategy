@@ -962,7 +962,7 @@ Visit the [IT Strategy website](https://sara-sabr.github.io/ITStrategy/home.html
 
 ### Comment nous avons conçu cette présentation | How we built this presentation
 
---
+---
 
 <div class="container">
 
@@ -972,7 +972,7 @@ Visit the [IT Strategy website](https://sara-sabr.github.io/ITStrategy/home.html
 
 - Cadriciel de présentation HTML libre
 - Langage Markdown facile à utiliser
-- Supporte les composantes Web
+- Composantes Web
 - \+  Diapos verticales, vue présentateur, exportation PDF...
 
 [revealjs.com](https://revealjs.com)
@@ -985,7 +985,7 @@ Visit the [IT Strategy website](https://sara-sabr.github.io/ITStrategy/home.html
 
 - Open source HTML presentation framework
 - Easy to use Markdown language
-- Support Web components
+- Web components
 - \+  Vertical Slides, Speaker View, PDF Export...
 
 [revealjs.com](https://revealjs.com)
@@ -1057,16 +1057,16 @@ Content...
   <div class="left-half">
 
 1. Sauvegarder dans le dépôt Git (p.ex. GitHub)
-2. Tests automatisés, révision par les pairs...
-3. Présentation disponible dans le site Web public :-)
+1. Tests automatisés, révision par les pairs...
+1. Présentation disponible dans le site Web public :-)
 
   </div>
 
   <div class="right-half">
 
 1. Save to Git repository (e.g. GitHub)
-2. Automated checks, Peer review...
-3. Presentation available in public website :-)
+1. Automated checks, Peer review...
+1. Presentation available in public website :-)
 
   </div>
 
