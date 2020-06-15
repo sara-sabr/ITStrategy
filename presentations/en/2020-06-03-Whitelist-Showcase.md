@@ -974,8 +974,6 @@ Visit the [IT Strategy website](https://sara-sabr.github.io/ITStrategy/home.html
 - Langage Markdown + Composantes Web
 - \+  Diapos verticales, vue présentateur, exportation PDF...
 
-[revealjs.com](https://revealjs.com)
-
   </div>
 
   <div class="right-half">
@@ -986,9 +984,13 @@ Visit the [IT Strategy website](https://sara-sabr.github.io/ITStrategy/home.html
 - Markdown language + Web components
 - \+  Vertical Slides, Speaker View, PDF Export...
 
+  </div>
+
+<div class="shared-content">
+
 [revealjs.com](https://revealjs.com)
 
-  </div>
+</div>
 
 </div>
 
