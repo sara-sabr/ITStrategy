@@ -15,29 +15,33 @@ Please note that we will get to your comment as soon as possible but we can't co
 
 In this document you will find the following sections:
 
-1. [Instructions](#instructions)
-2. [Cloning The Project Locally](#cloning-the-project-locally)
-3. [Continuous Integration Testing](#continuous-integration-testing)
-   1. [CI Tests Using Docker](#ci-tests-using-docker)
-   2. [CI Tests Using NPM](#ci-tests-using-npm)
-   3. [Types Of Tests](#types-of-tests)
-4. [Local Website](#local-website)
-5. [Jekyll Pages](#jekyll-pages)
-   1. [Layout](#layout)
-   2. [Title](#title)
-   3. [Ref](#ref)
-   4. [Lang](#lang)
-   5. [Status](#status)
-   6. [Permalink](#permalink)
-6. [Jekyll Blog Posts](#jekyll-blog-posts)
-   1. [Post Layout](#post-layout)
-   2. [Author](#author)
-   3. [Date](#date)
-   4. [Last Modified](#last-modified)
-7. [Jekyll Draft Blog Posts](#jekyll-draft-blog-posts)
-8. [Reveal.js Presentations](#revealjs-presentations)
-9. [Hacker Slides](#hacker-slides)
-10. [Useful Docker Commands](#useful-docker-commands)
+- [Contributing](#contributing)
+  - [Instructions](#instructions)
+  - [Cloning The Project Locally](#cloning-the-project-locally)
+  - [Continuous Integration Testing](#continuous-integration-testing)
+    - [CI Tests Using Docker](#ci-tests-using-docker)
+    - [CI Tests Using NPM](#ci-tests-using-npm)
+    - [Types Of Tests](#types-of-tests)
+      - [Markdown Lint Checker](#markdown-lint-checker)
+      - [Link Checker](#link-checker)
+      - [Spelling Checker](#spelling-checker)
+  - [Local Website](#local-website)
+  - [Jekyll Pages](#jekyll-pages)
+    - [Layout](#layout)
+    - [Title](#title)
+    - [Ref](#ref)
+    - [Lang](#lang)
+    - [Status](#status)
+    - [Permalink](#permalink)
+  - [Jekyll Blog Posts](#jekyll-blog-posts)
+    - [Post Layout](#post-layout)
+    - [Author](#author)
+    - [Date](#date)
+    - [Last Modified](#last-modified)
+  - [Jekyll Draft Blog Posts](#jekyll-draft-blog-posts)
+  - [Reveal.js Presentations](#revealjs-presentations)
+  - [Hacker Slides](#hacker-slides)
+  - [Useful Docker Commands](#useful-docker-commands)
 
 ## Cloning The Project Locally
 
@@ -97,7 +101,7 @@ npm test
 The [markdownlint](https://github.com/DavidAnson/markdownlint) test ensures that a standard formatting of the markdown file are respected.
 Note that this is not an "Official" standard but the rules applied help ensure that the parsing of the data in the files is properly performed.
 
-You can find a list of those rules [here](https://github.com/DavidAnson/markdownlint/blob/master/doc/Rules.md).
+You can find a list of those rules [here](https://github.com/DavidAnson/markdownlint/blob/main/doc/Rules.md).
 
 Exceptions can be made at the test level (see file [.markdownlint.json](.markdownlint.json)) or in specific markdown files.
 
