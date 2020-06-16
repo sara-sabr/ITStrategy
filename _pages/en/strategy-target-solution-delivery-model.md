@@ -22,13 +22,11 @@ th {
 }
 </style>
 
-***This is a DRAFT strategy.***
-
 <div class="alert alert-warning">
   Confused what the Strategy means? <a href="target-solution-delivery-model-strategy-explained.html">Read about the problem statements</a> it intends to solve.
 </div>
 <div class="alert alert-warning">
-  This is a <strong>DRAFT</strong> strategy. <a href="target-solution-delivery-model-strategy-areas-of-concerns.html">Concerns have been raised</a> as part of the peer review process with concerned stakeholders and are being looked at.
+  <strong>This is a DRAFT strategy</strong>. <a href="target-solution-delivery-model-strategy-areas-of-concerns.html">Concerns have been raised</a> by stakeholders as part of the peer review process and are being looked at.
 </div>
 
 _Note 1: Its authoritative source and latest version of this Strategy is on [ESDC's internal network](https://dialogue/grp/BU6810070/SitePages/strategyAlternateDeliveryModel.aspx)_
@@ -84,7 +82,7 @@ Moving to the digital age requires improving IT's responsiveness and promoting a
 
 To improve IT's responsiveness, we must find ways to reduce risks associated with its use. This strategy proposes moving ESDC to the point where **same day software deployments** are possible and a common practice. The benefits to frequent small deployments, using automated methods, are expected to reduce risk [^1], reduce technical debt, increase client satisfaction, and increase overall confidence in the department and its staff.
 
-This strategy capitalizes on existing IT initiatives (such as the [IITB Way Forward](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx)) and complients them with new activities.
+This strategy capitalizes on existing IT initiatives (such as the [IITB Way Forward](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx)) and compliments them with new activities.
 
 This strategy's goal is to define what this Target State of IT Solution Delivery is, and provide a roadmap in getting to this target state.
 
@@ -112,7 +110,7 @@ This Guiding Policy has been prepared by taking into consideration alignment and
 ### Governance, Compliance, and Reporting
 
 1. DevOps teams have the authority to deploy changes in production using trusted DevOps pipelines
-2. DevOps teams are defined as per the \<IITB standard definition\> (see [Appendix D. Definition](#appendix-d---definitions))
+2. DevOps teams are defined as per the \<[IITB standard definition](#appendix-d---definitions)\>
 3. DevOps teams publish their product metrics internally to ESDC. Metrics are comprised of the following:
       - Accessibility test results
       - Integration testing results
@@ -318,7 +316,7 @@ Audit processes in scope include internal ESDC Audit, not External auditing enti
   </tr>
   <tr>
     <td>Produce Target Accessibility assessment process</td>
-    <td>Produce a Target Accessibility Process that favours and inventivize DevOps automation capabilities, test results, and product evolution.</td>
+    <td>Produce a Target Accessibility Process that favours and incentivize DevOps automation capabilities, test results, and product evolution.</td>
     <td>
     <b><i>Accessibility</i></b><br>
     BPMO<br>

@@ -384,7 +384,8 @@
     "specialties",
     "siloed",
     "practiced",
-    "Odoo"
+    "Odoo",
+    "incentivize"
   ],
   "flagWords": [],
   "import": ["./node_modules/cspell-dict-fr-fr/cspell-ext.json"],
