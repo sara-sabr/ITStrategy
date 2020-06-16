@@ -958,7 +958,7 @@ Visit the [IT Strategy website](https://sara-sabr.github.io/ITStrategy/home.html
 
 ---
 
-## Extra
+## Bonus
 
 ### Comment nous avons conçu cette présentation | How we built this presentation
 
@@ -1092,11 +1092,11 @@ Content...
 
 ### Outils
 
-1. Installer Git et VS Code ([Catalogue d'application](http://srmis-sigdi-iagent.prv/WT-STO/iAgent/AppPortal/fr))
+1. Git et VS Code ([Catalogue d'application](http://srmis-sigdi-iagent.prv/WT-STO/iAgent/AppPortal/fr))
   
-2. Ajouter extension [vscode-reveal](https://marketplace.visualstudio.com/items?itemName=evilz.vscode-reveal) dans VS Code
+2. Extension [vscode-reveal](https://marketplace.visualstudio.com/items?itemName=evilz.vscode-reveal) dans VS Code
 
-3. [Configurer dépôt GitHub (anglais)](https://medium.com/@marcus_baw/using-reveal-js-a74b30e4065b)
+3. Dépôt GitHub ([instructions en anglais](https://medium.com/@marcus_baw/using-reveal-js-a74b30e4065b))
 
   </div>
 
@@ -1104,11 +1104,11 @@ Content...
 
 ### Tools
 
-1. Install Git and VS Code ([Application Catalogue](http://srmis-sigdi-iagent.prv/WT-STO/iAgent/AppPortal/fr))
+1. Git and VS Code ([Application Catalogue](http://srmis-sigdi-iagent.prv/WT-STO/iAgent/AppPortal/fr))
 
-2. Add [vscode-reveal](https://marketplace.visualstudio.com/items?itemName=evilz.vscode-reveal) extension in VS Code
+2. [vscode-reveal](https://marketplace.visualstudio.com/items?itemName=evilz.vscode-reveal) extension in VS Code
 
-3. [Configure GitHub repository](https://medium.com/@marcus_baw/using-reveal-js-a74b30e4065b)
+3. GitHub repository ([instructions](https://medium.com/@marcus_baw/using-reveal-js-a74b30e4065b))
 
   </div>
 
