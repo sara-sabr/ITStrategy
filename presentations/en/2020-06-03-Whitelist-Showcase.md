@@ -986,7 +986,7 @@ Visit the [IT Strategy website](https://sara-sabr.github.io/ITStrategy/home.html
 
 ## RevealJS
 
-- HTML presentation framework
+- HTML Presentation Framework
 
 - Markdown Language
 
