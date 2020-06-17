@@ -93,7 +93,7 @@ How to manage and keep track of such cross-project work?
 
 *Coordinating activities*
 
-If a given project requires a given competency, that that competency should exist within the team.
+If a given project requires a given competency, then that competency should exist within the team.
 As a result, if data science is a competency that is required for a given value stream to deliver value to its users, then data science capabilities should be embedded within the team.
 As for how those services are delivered, the technologies should be in place through internal such that the team is able to manage the software required to deliver the data analysis capabilities they need.
 In the case of a large monolithic piece software (which is undesirable), this could be accomplished by someone within the team having access to the required tooling in order to generate the analysis required.
@@ -137,7 +137,7 @@ Defaults (over standards) and the proliferation of best practices should take pl
 Further considerations need to be made regarding duplications are acceptable and which are not.
 Duplicate instances of freely available open source solutions (which is the favoured approach) should not receive the same attention as proprietary solutions (though efforts should be made to contribute back to the projects being leveraged in lieu of payments).
 DevOps teams would still require to go through procurement processes should they want to procure a proprietary solution or support agreement.
-Further, mitigation of  available through Enterprise Architecture and Solution Architecture at IT Project inception identifying (though not requiring) reusable components of the MVP to be in scope of IT solution for the IT Project.
+Further, mitigation of available through Enterprise Architecture and Solution Architecture at IT Project inception identifying (though not requiring) reusable components of the MVP to be in scope of IT solution for the IT Project.
 
 *Iteratively Delivery*
 
@@ -352,7 +352,7 @@ In hindsight, the organization may have preferred to use that $2.5M towards tran
 *Small vs larger investments*
 
 Based on our analysis of government projects, the existing approach of committing to large procurements has the same problem -- initial estimates are low and must be revised up.
-This risk will always exist, though the small iterative approach gives a tool by which to stop projects that look to be doing in the wrong direction, or are failing to deliver on business value.
+This risk will always exist, though the small iterative approach gives a tool by which to stop projects that look to be going in the wrong direction, or are failing to deliver on business value.
 
 *10% vs 10x*
 
