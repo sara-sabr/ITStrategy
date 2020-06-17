@@ -97,7 +97,7 @@ npm test
 The [markdownlint](https://github.com/DavidAnson/markdownlint) test ensures that a standard formatting of the markdown file are respected.
 Note that this is not an "Official" standard but the rules applied help ensure that the parsing of the data in the files is properly performed.
 
-You can find a list of those rules [here](https://github.com/DavidAnson/markdownlint/blob/master/doc/Rules.md).
+You can find a list of those rules [here](https://github.com/DavidAnson/markdownlint/blob/main/doc/Rules.md).
 
 Exceptions can be made at the test level (see file [.markdownlint.json](.markdownlint.json)) or in specific markdown files.
 

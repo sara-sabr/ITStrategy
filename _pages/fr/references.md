@@ -62,7 +62,6 @@ Pour de plus amples informations sur le travail en mode ouvert, veuillez consult
 - [Slack](https://slack.com) : Peut être utilisé avec le courrier électronique professionnel, mais peut nécessiter l'accès au courriel pour créer un compte
 - [Riot (Matrix)](https://riot.im/app/) : Décentralisée et supporte les messages encryptés de bout en bout
 - [Rocket Chat](https://open.rocket.chat)
-- [hack.chat](https://hack.chat)
 - [Gitter](https://gitter.im) : Pour les développeurs et les utilisateurs des dépôts GitHub
 - [Framateam](https://framateam.org)
 
@@ -168,7 +167,6 @@ Pour de plus amples informations sur le travail en mode ouvert, veuillez consult
 ## FWD50
 
 - [Liste des présentations 2018](https://2018.fwd50.com/)
-- [2018 Digital Social Innovation presentation from Digital Minister of Taiwan](https://www.slideshare.net/FWD50/fwd50-2018-digital-social-innovation) (Anglais)
 
 ## Conférence
 
