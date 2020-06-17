@@ -45,7 +45,7 @@ This document seeks to explain, in non-policy and non-planning language, the pro
 
 It will do so by:
 
-1. Providing a strategic context to situate the reader  
+1. Providing a strategic context to situate the reader
 2. Providing a list of problem statements and how the strategy intends to solve them
 
 ## 2. Strategic Context
@@ -69,7 +69,7 @@ ESDC's [application portfolio contains more than 500 applications](https://dialo
 In response to limitations of the antiquated IT systems, ESDC has started investing in a [Business Delivery Modernization](https://www.canada.ca/en/employment-social-development/corporate/reports/departmental-plan/2019-2020/planned-results.html#h2.04) Programme.
 This Programme targets a complete business process and technology renewal for Employment Insurance, Old Age Security and the Canada Pension Plan.
 
-Most of the [recommendations from external audits](https://sara-sabr.github.io/ITStrategy/2020/04/21/how-is-the-public-service-managing-large-IT-project.html) on reducing risks to technology investments seem to be  about stronger, more disciplined governance.
+Most of the [recommendations from external audits](https://sara-sabr.github.io/ITStrategy/2020/04/21/how-is-the-public-service-managing-large-IT-project.html) on reducing risks to technology investments seem to be about stronger, more disciplined governance.
 That having a more accurate prediction of the future is the key to reducing risks on technology investments.
 
 The ESDC IT Strategy team disagrees.
@@ -109,7 +109,7 @@ A Project is a temporary endeavour undertaken to create a unique product, servic
 An ***IT Project*** is about a software product to enhance business operations service or results.
 Whether or not the result proved to be positive is currently not part of the IT Project's health measurement.
 
-IT Projects health is currently measured by costs, scheduled, and scope.
+IT Projects health is currently measured by costs, schedule, and scope.
 The health is adjusted over time on whether the IT Project is within those pre-agreed, estimated, indicators or not.
 The health can only be modified via change requests where a health that was originally red (bad) can move to green (good) if stakeholders agree the original estimates can be modified to reflect reality.
 
@@ -121,7 +121,8 @@ A Business case (an idea for an investment) needs to be treated as a hypothesis,
 #### 3.1.2. How the strategy intends to solve the problem <!-- omit in toc -->
 
 - Mandate a size limit to IT Projects, as a means to accelerate the [business realization](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Directive%20on%20Benefits%20Management.pdf) and treat IT Projects as the iteration step for an agile organization
-- Mandate IT Project scope to produce production-ready IT Products at minimum every 6 months. Otherwise the scope is to large and must be reviewed
+- Mandate IT Project scope to produce production-ready IT Products at minimum every 6 months.
+Otherwise the scope is to large and must be reviewed
 - Simplify IT project reporting to focus on value over time (development value stream KPI), less on original estimates adherence
 - Simplify IT Project creation (See problem statement \#3.2)
 
