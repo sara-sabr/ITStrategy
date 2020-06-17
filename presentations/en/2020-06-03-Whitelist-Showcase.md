@@ -159,7 +159,7 @@ IITB Showcase Presentation
 
   <div class="left-half">
 
-Démo au DPI en 10 jours
+Démo au DPI en 10 jours avec LL
 
 Première application dans le nuage PB
 
@@ -189,7 +189,9 @@ First app on PB Cloud
 
 ## Qui s'en soucie?
 
-Site de Stratégie TI : _Favoriser la valeur stratégique des TI au sein de EDSC en réduisant leurs risques afin d'accélérer la flexibilité de l'entreprise._
+Site de Stratégie TI :
+
+ _Favoriser la valeur stratégique des TI au sein de EDSC en réduisant leurs risques afin d'accélérer la flexibilité de l'entreprise._
 
   </div>
 
@@ -197,7 +199,9 @@ Site de Stratégie TI : _Favoriser la valeur stratégique des TI au sein de EDSC
 
 ## Who cares?
 
-IT Strategy website: _Enable the strategic value of IT within ESDC by reducing its risks to accelerate business flexibility._
+IT Strategy website:
+
+_Enable the strategic value of IT within ESDC by reducing its risks to accelerate business flexibility._
 
   </div>
 
@@ -253,7 +257,7 @@ Respond to user needs within minutes
 
   <div class="left-half">
 
-#### Normes numériques du gouvernement du Canada
+#### Normes numériques du GC
 
 **_Effectuer régulièrement des itérations et des améliorations_**
 
@@ -263,7 +267,7 @@ _Élaborer des services au moyen de méthodes souples et itératives, axées sur
 
   <div class="right-half">
 
-#### Digital Standards
+#### GC Digital Standards
 
 **_Iterate and improve frequently_**
 
@@ -289,7 +293,7 @@ _A.2.3.2.1 Se concentrer sur les besoins des utilisateurs, en adoptant des méth
 
   <div class="right-half">
 
-#### Directive on Service and Digital -
+#### Directive on Service and Digital
 
 ##### Appendix A: Mandatory Procedures for Enterprise Architecture Assessment
 
@@ -876,6 +880,8 @@ If one team doesn't automate, deployment on demand is dead
 
 <div class="container">
 
+## Conclusion
+
   <div class="left-half">
 
 ### Les outils ne sont que des outils : Se concentrer sur la cadence
@@ -885,8 +891,6 @@ Organiser les équipes : Topologies de l'équipe
   </div>
 
   <div class="right-half">
-
-## Conclusion
 
 ### Tools are just tools: Focus on flow
 
@@ -900,9 +904,9 @@ Organizing teams: Team Topologies
 
 <div class="container long-text">
 
-  <div class="left-half">
-
 ## Conclusion
+
+  <div class="left-half">
 
 ### Automatisation
 
@@ -914,8 +918,6 @@ Organizing teams: Team Topologies
   </div>
 
   <div class="right-half">
-
-## Conclusion
 
 ### Automation
 
@@ -954,7 +956,7 @@ Visit the [IT Strategy website](https://sara-sabr.github.io/ITStrategy/home.html
 
 ## Questions
 
-## Comments/commentaires?
+## Comments | Commentaires?
 
 ---
 
@@ -1092,9 +1094,9 @@ Content...
 
 ### Outils
 
-1. Git et VS Code ([Catalogue d'application](http://srmis-sigdi-iagent.prv/WT-STO/iAgent/AppPortal/fr))
+1. Git et VSCode ([Catalogue d'application](http://srmis-sigdi-iagent.prv/AppPortal/fr/Home/Index/2))
   
-2. Extension [vscode-reveal](https://marketplace.visualstudio.com/items?itemName=evilz.vscode-reveal) dans VS Code
+2. Extension [vscode-reveal](https://marketplace.visualstudio.com/items?itemName=evilz.vscode-reveal) dans VSCode
 
 3. Dépôt GitHub ([instructions en anglais](https://medium.com/@marcus_baw/using-reveal-js-a74b30e4065b))
 
@@ -1104,9 +1106,9 @@ Content...
 
 ### Tools
 
-1. Git and VS Code ([Application Catalogue](http://srmis-sigdi-iagent.prv/WT-STO/iAgent/AppPortal/fr))
+1. Git and VSCode ([Application Catalogue](http://srmis-sigdi-iagent.prv/AppPortal/en/Home/Index/2))
 
-2. [vscode-reveal](https://marketplace.visualstudio.com/items?itemName=evilz.vscode-reveal) extension in VS Code
+2. [vscode-reveal](https://marketplace.visualstudio.com/items?itemName=evilz.vscode-reveal) extension in VSCode
 
 3. GitHub repository ([instructions](https://medium.com/@marcus_baw/using-reveal-js-a74b30e4065b))
 
