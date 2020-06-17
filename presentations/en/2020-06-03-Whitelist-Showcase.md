@@ -40,7 +40,7 @@ IITB Showcase Presentation
 
 ---
 
-## Who
+## Who | Qui
 
 --
 
@@ -153,13 +153,13 @@ IITB Showcase Presentation
 
 ---
 
-## What
-
 <div class="container long-text">
 
   <div class="left-half">
 
-Démo au DPI en 10 jours
+## Quoi
+
+Démo au DPI en 10 jours avec LL
 
 Première application dans le nuage PB
 
@@ -169,6 +169,8 @@ Première application dans le nuage PB
   </div>
 
   <div class="right-half">
+
+## What
 
 Demo to CIO in 10 days using OSS
 
@@ -189,7 +191,9 @@ First app on PB Cloud
 
 ## Qui s'en soucie?
 
-Site de Stratégie TI : _Favoriser la valeur stratégique des TI au sein de EDSC en réduisant leurs risques afin d'accélérer la flexibilité de l'entreprise._
+Site de Stratégie TI :
+
+ _Favoriser la valeur stratégique des TI au sein de EDSC en réduisant leurs risques afin d'accélérer la flexibilité de l'entreprise._
 
   </div>
 
@@ -197,7 +201,9 @@ Site de Stratégie TI : _Favoriser la valeur stratégique des TI au sein de EDSC
 
 ## Who cares?
 
-IT Strategy website: _Enable the strategic value of IT within ESDC by reducing its risks to accelerate business flexibility._
+IT Strategy website:
+
+_Enable the strategic value of IT within ESDC by reducing its risks to accelerate business flexibility._
 
   </div>
 
@@ -253,7 +259,7 @@ Respond to user needs within minutes
 
   <div class="left-half">
 
-#### Normes numériques du gouvernement du Canada
+#### Normes numériques du GC
 
 **_Effectuer régulièrement des itérations et des améliorations_**
 
@@ -263,7 +269,7 @@ _Élaborer des services au moyen de méthodes souples et itératives, axées sur
 
   <div class="right-half">
 
-#### Digital Standards
+#### GC Digital Standards
 
 **_Iterate and improve frequently_**
 
@@ -289,7 +295,7 @@ _A.2.3.2.1 Se concentrer sur les besoins des utilisateurs, en adoptant des méth
 
   <div class="right-half">
 
-#### Directive on Service and Digital -
+#### Directive on Service and Digital
 
 ##### Appendix A: Mandatory Procedures for Enterprise Architecture Assessment
 
@@ -501,11 +507,11 @@ Upskill teams & miminize size
 
 --
 
-### Cloud
-
 <div class="container">
 
   <div class="left-half">
+
+### Infonuagique
 
 #### Automatisation
 
@@ -514,6 +520,8 @@ Upskill teams & miminize size
   </div>
 
   <div class="right-half">
+
+### Cloud
 
 #### Automation
 
@@ -876,6 +884,8 @@ If one team doesn't automate, deployment on demand is dead
 
 <div class="container">
 
+## Conclusion
+
   <div class="left-half">
 
 ### Les outils ne sont que des outils : Se concentrer sur la cadence
@@ -885,8 +895,6 @@ Organiser les équipes : Topologies de l'équipe
   </div>
 
   <div class="right-half">
-
-## Conclusion
 
 ### Tools are just tools: Focus on flow
 
@@ -900,9 +908,9 @@ Organizing teams: Team Topologies
 
 <div class="container long-text">
 
-  <div class="left-half">
-
 ## Conclusion
+
+  <div class="left-half">
 
 ### Automatisation
 
@@ -914,8 +922,6 @@ Organizing teams: Team Topologies
   </div>
 
   <div class="right-half">
-
-## Conclusion
 
 ### Automation
 
@@ -954,7 +960,7 @@ Visit the [IT Strategy website](https://sara-sabr.github.io/ITStrategy/home.html
 
 ## Questions
 
-## Comments/commentaires?
+## Comments | Commentaires?
 
 ---
 
@@ -966,11 +972,13 @@ Visit the [IT Strategy website](https://sara-sabr.github.io/ITStrategy/home.html
 
 <div class="container">
 
-  <div class="left-half">
-
 ## RevealJS
 
-- Cadriciel présentation HTML
+  <div class="left-half">
+
+### Cadriciel
+
+- Présentation HTML
 
 - Langage Markdown
 
@@ -978,15 +986,15 @@ Visit the [IT Strategy website](https://sara-sabr.github.io/ITStrategy/home.html
 
 - \+  Diapos verticales, vue présentateur, exportation PDF...
 
-[revealjs.com](https://revealjs.com)
+[Lien](https://revealjs.com)
 
   </div>
 
   <div class="right-half">
 
-## RevealJS
+### Framework
 
-- HTML Presentation Framework
+- HTML Presentation
 
 - Markdown Language
 
@@ -994,7 +1002,7 @@ Visit the [IT Strategy website](https://sara-sabr.github.io/ITStrategy/home.html
 
 - \+  Vertical Slides, Speaker View, PDF Export...
 
-[revealjs.com](https://revealjs.com)
+[Link](https://revealjs.com)
 
   </div>
 
@@ -1008,7 +1016,7 @@ Visit the [IT Strategy website](https://sara-sabr.github.io/ITStrategy/home.html
 
   <div class="left-half">
 
-### Contenu
+### Langage
 
 ```markdown
 # Titre 1
@@ -1031,7 +1039,7 @@ Contenu...
 
   <div class="right-half">
 
-### Content
+### Language
 
 ```markdown
 # Header 1
