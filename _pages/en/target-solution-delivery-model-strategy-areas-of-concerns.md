@@ -65,9 +65,13 @@ With that many stakeholders involved in the elaboration and affected by the stra
 1. Important feedbacks risk being lost during peer reviews, and
 2. Consensus is unlikely.
 
-During the strategy's peer review process, important feedbacks that are unable to be addressed at that time need to be tracked so the continuing elaboration of the strategy do not forget them. A strategy is words on a page. If stakeholders do not buy in to it, things won't change.
+During the strategy's peer review process, important feedbacks that are unable to be addressed at that time need to be tracked so the continuing elaboration of the strategy do not forget them.
+A strategy is words on a page.
+If stakeholders do not buy in to it, things won't change.
 
-Consensus is unlikely as choices will have to be made in order to keep moving forward. Those choices may contradict a stakeholder's position. To maintain transparency amongst stakeholders and to the authority of this strategy (expected to be the CIO), a list of those choices will be kept with sufficient justifications to explain them.
+Consensus is unlikely as choices will have to be made in order to keep moving forward.
+Those choices may contradict a stakeholder's position.
+To maintain transparency amongst stakeholders and to the authority of this strategy (expected to be the CIO), a list of those choices will be kept with sufficient justifications to explain them.
 
 ## 2. Areas of concerns
 
@@ -75,7 +79,8 @@ Consensus is unlikely as choices will have to be made in order to keep moving fo
 
 #### 2.1.1. Summary <!-- omit in toc -->
 
-One IT solution may span more than one project and include work involved to satisfy multiple project objectives. For example, data management is a capability that crosses multiple project initiative and is required as part of the architecture, design, and implementation of an IT solutions.
+One IT solution may span more than one project and include work involved to satisfy multiple project objectives.
+For example, data management is a capability that crosses multiple project initiative and is required as part of the architecture, design, and implementation of an IT solutions.
 
 How to manage and keep track of such cross-project work?
 
@@ -88,13 +93,26 @@ How to manage and keep track of such cross-project work?
 
 *Coordinating activities*
 
-If a given project requires a given competency, that that competency should exist within the team. As a result, if data science is a competency that is required for a given value stream to deliver value to its users, then data science capabilities should be embedded within the team. As for how those services are delivered, the technologies should be in place through internal such that the team is able to manage the software required to deliver the data analysis capabilities they need. In the case of a large monolithic piece software (which is undesirable), this could be accomplished by someone within the team having access to the required tooling in order to generate the analysis required. Conversely, all data should be exposed through endpoints, allowing those with access to query (or update) the information needed through automation. In neither case is there a team who is the gatekeeper to a given software, skillset, or dataset. Distributed decision making is essential to maintain agility, and highly centralized systems (without extensive investments automation) reduce agility. Centralizing capabilities required across projects outside of said project is undesirable. Management will become responsible to ensure that there is consistency regarding skill sets or technologies between teams  of teams, as their teams resources will be embedded within DevOps teams. In this model, teams are organized in "matrices", whereby PO's manage work vertically, and managers manage teams horizontally (based on skill sets). It is this horizontal management that would be responsible for best practices and 'defaults' (over standards) for a given capability (ex [though not limited to]: testing, accessibility, data science, architecture).
+If a given project requires a given competency, that that competency should exist within the team.
+As a result, if data science is a competency that is required for a given value stream to deliver value to its users, then data science capabilities should be embedded within the team.
+As for how those services are delivered, the technologies should be in place through internal such that the team is able to manage the software required to deliver the data analysis capabilities they need.
+In the case of a large monolithic piece software (which is undesirable), this could be accomplished by someone within the team having access to the required tooling in order to generate the analysis required.
+Conversely, all data should be exposed through endpoints, allowing those with access to query (or update) the information needed through automation.
+In neither case is there a team who is the gatekeeper to a given software, skillset, or dataset.
+Distributed decision making is essential to maintain agility, and highly centralized systems (without extensive investments automation) reduce agility.
+Centralizing capabilities required across projects outside of said project is undesirable.
+Management will become responsible to ensure that there is consistency regarding skill sets or technologies between teams  of teams, as their teams resources will be embedded within DevOps teams.
+In this model, teams are organized in "matrices", whereby PO's manage work vertically, and managers manage teams horizontally (based on skill sets).
+It is this horizontal management that would be responsible for best practices and 'defaults' (over standards) for a given capability (ex [though not limited to]: testing, accessibility, data science, architecture).
 
-- Exploring the use of Senior Advisor's model for OAS-SIS (using Squads, PO, Chief PO, Project Owner). The idea is that Lines of Businesses would be the POs and Project Owners. They would coordinate changes to IT Products downstream and prioritize them, sharing part of the accountability on IT Projects.
+- Exploring the use of Senior Advisor's model for OAS-SIS (using Squads, PO, Chief PO, Project Owner).
+The idea is that Lines of Businesses would be the POs and Project Owners.
+They would coordinate changes to IT Products downstream and prioritize them, sharing part of the accountability on IT Projects.
 
 *Loose Coupling Architecture and data management*
 
-- Significant investment in Solutions Architecture and loose coupling, allowing IT Products to reduce dependencies between each other and, as a result, reducing the amount of teams needed to fulfill an IT Product change. This is expected to increase data management complexities however.
+- Significant investment in Solutions Architecture and loose coupling, allowing IT Products to reduce dependencies between each other and, as a result, reducing the amount of teams needed to fulfill an IT Product change.
+This is expected to increase data management complexities however.
 
 ### 2.2. Proliferation of IT standards
 
@@ -112,17 +130,26 @@ Allowing DevOps teams to choose their technical stacks negates the principle of 
 
 *Duplication*
 
-Duplication through this approach is expected to increase. This tradeoff is deemed favourable due to the increase in agility and responsiveness to user and operational needs. While duplication of efforts will occur, efforts will be made to mitigate this. Defaults (over standards) and the proliferation of best practices should take place through CoPs and management roles. Further considerations need to be made regarding duplications are acceptable and which are not. Duplicate instances of freely available open source solutions (which is the favoured approach) should not receive the same attention as proprietary solutions (though efforts should be made to contribute back to the projects being leveraged in lieu of payments). DevOps teams would still require to go through procurement processes should they want to procure a proprietary solution or support agreement. Further, mitigation of  available through Enterprise Architecture and Solution Architecture at IT Project inception identifying (though not requiring) reusable components of the MVP to be in scope of IT solution for the IT Project.
+Duplication through this approach is expected to increase.
+This tradeoff is deemed favourable due to the increase in agility and responsiveness to user and operational needs.
+While duplication of efforts will occur, efforts will be made to mitigate this.
+Defaults (over standards) and the proliferation of best practices should take place through CoPs and management roles.
+Further considerations need to be made regarding duplications are acceptable and which are not.
+Duplicate instances of freely available open source solutions (which is the favoured approach) should not receive the same attention as proprietary solutions (though efforts should be made to contribute back to the projects being leveraged in lieu of payments).
+DevOps teams would still require to go through procurement processes should they want to procure a proprietary solution or support agreement.
+Further, mitigation of  available through Enterprise Architecture and Solution Architecture at IT Project inception identifying (though not requiring) reusable components of the MVP to be in scope of IT solution for the IT Project.
 
 *Iteratively Delivery*
 
-By limiting IT Projects to $2.5M, this reduces the project sponsors ability to fund an expensive IT products (e.g., proprietary product), further promoting the use of existing internal services, or open source solutions (which aligns with the digital standard, "Use open standards and solutions") with a preference towards the defaults that exist within the department. Furthermore, by limiting the size and scope of projects, value is more quickly delivered to users (design with users, from the digital standards), and permits iterative improvements to the solution (as per the digital standard, "Iterate and improve frequently").
+By limiting IT Projects to $2.5M, this reduces the project sponsors ability to fund an expensive IT products (e.g., proprietary product), further promoting the use of existing internal services, or open source solutions (which aligns with the digital standard, "Use open standards and solutions") with a preference towards the defaults that exist within the department.
+Furthermore, by limiting the size and scope of projects, value is more quickly delivered to users (design with users, from the digital standards), and permits iterative improvements to the solution (as per the digital standard, "Iterate and improve frequently").
 
 ### 2.3. Financials for IT Products’ evolution (lifecycle management)
 
 #### 2.3.1. Summary <!-- omit in toc -->
 
-We cannot tax financials to a project once it is closed. Yet, software maintenance is not just operational costs, it's managing the technical debt and its evolution from end-user feedback without the burden of creating projects.
+We cannot tax financials to a project once it is closed.
+Yet, software maintenance is not just operational costs, it's managing the technical debt and its evolution from end-user feedback without the burden of creating projects.
 
 #### 2.3.2. Raised by stakeholder(s) <!-- omit in toc -->
 
@@ -156,7 +183,8 @@ Investigating hiring project managers from the IITB Resource Centre.
 
 #### 2.5.1. Summary <!-- omit in toc -->
 
-The strategy looks at enabling IT Product changes without the burden of having lines of business going through a project lifecycle. It is currently expected that Product Owners would be managing the priorities for an IT Product backlog that DevOps team (with the Product Manager) executes.
+The strategy looks at enabling IT Product changes without the burden of having lines of business going through a project lifecycle.
+It is currently expected that Product Owners would be managing the priorities for an IT Product backlog that DevOps team (with the Product Manager) executes.
 
 However, if the Product Owner is from the line of business, it will challenge timely management of technical debt due to its technical nature that a line of business would not see or expected to comprehend.
 
@@ -173,11 +201,27 @@ In addition, some while some features are non-discretionary (e.g., legal require
 
 *Lack of tech debt consideration*
 
-This, in fact, is actually a value add of the setup rather than a detractor. While technical debt is an important consideration, on the other hand, engineers able to create their own prioritization often fall victim to over engineering the solution. The product owner (who should have received some training to be equipped for the role), will likely push back against technical debt to make room for features. It then becomes the IT teams role to sell the value add of paying down technical debt. The POs relentless focus on features is what will focus the team, and the team must sell the value add of reducing technical debt. All projects have some technical debt, it is a balance between delivering value to users and paying down technical debt which does exist. A trap also exists by allowing IT teams to try and "perfect" the solution, which is an impossible task and thus becomes a time sink preventing value from being delivered to users. This is why continuous improvement is important, and should be built in to each sprint, while ensuring a focus on delivering value to users.
+This, in fact, is actually a value add of the setup rather than a detractor.
+While technical debt is an important consideration, on the other hand, engineers able to create their own prioritization often fall victim to over engineering the solution.
+The product owner (who should have received some training to be equipped for the role), will likely push back against technical debt to make room for features.
+It then becomes the IT teams role to sell the value add of paying down technical debt.
+The POs relentless focus on features is what will focus the team, and the team must sell the value add of reducing technical debt.
+All projects have some technical debt, it is a balance between delivering value to users and paying down technical debt which does exist.
+A trap also exists by allowing IT teams to try and "perfect" the solution, which is an impossible task and thus becomes a time sink preventing value from being delivered to users.
+This is why continuous improvement is important, and should be built in to each sprint, while ensuring a focus on delivering value to users.
 
 *Compliance & oversight*
 
-If compliance is required, these competencies should be built in to the team. If the solution is complex enough such that it requires numerous teams, platform teams should be created who automate compliance while allowing the value stream aligned teams to focus on delivering value to users. Additionally, with respect to oversight specifically, internal tooling and working in the open become crucial. By working in the open and creating adequate internal tooling to collect and interpret data, oversight can become automated. Working in the open has the potential to create swathes of data which the organization can analyze for compliance, assuming the department has put in place the proper tooling to generate the required data. Compliance and oversight then become automated tasks rather than gateways. If the automated oversight and compliance are passed, the project is able to proceed unimpeded. Behind the scenes, those compliance or oversight tasks that have not yet been automated should be completed manually in order to feed the backlog for the team to address in order to further improve upon compliance. In conclusion, sufficient compliance and oversight to deploy to production must be automated. As automation continues to improve, tasks that have yet to be automated will be checked manually to feed the backlog of the product team (everyone should have the ability to create items in the backlog, it is the POs responsibility to prioritize it).
+If compliance is required, these competencies should be built in to the team.
+If the solution is complex enough such that it requires numerous teams, platform teams should be created who automate compliance while allowing the value stream aligned teams to focus on delivering value to users.
+Additionally, with respect to oversight specifically, internal tooling and working in the open become crucial.
+By working in the open and creating adequate internal tooling to collect and interpret data, oversight can become automated.
+Working in the open has the potential to create swathes of data which the organization can analyze for compliance, assuming the department has put in place the proper tooling to generate the required data.
+Compliance and oversight then become automated tasks rather than gateways.
+If the automated oversight and compliance are passed, the project is able to proceed unimpeded.
+Behind the scenes, those compliance or oversight tasks that have not yet been automated should be completed manually in order to feed the backlog for the team to address in order to further improve upon compliance.
+In conclusion, sufficient compliance and oversight to deploy to production must be automated.
+As automation continues to improve, tasks that have yet to be automated will be checked manually to feed the backlog of the product team (everyone should have the ability to create items in the backlog, it is the POs responsibility to prioritize it).
 
 ### 2.6. Approach to IT Capacity planning
 
@@ -219,7 +263,8 @@ An analysis needs to take place to highlight if this model is in alignment with:
 
 #### 2.7.3. What is being done about this concern <!-- omit in toc -->
 
-Analysis to be completed. Gaps to be highlighted and inform more actions in the 3. Coherent set of actions
+Analysis to be completed.
+Gaps to be highlighted and inform more actions in the 3. Coherent set of actions
 
 ### 2.8. Sustainability of skill sets
 
@@ -235,7 +280,15 @@ If DevOps teams are responsible to maintain their IT Products in production, hav
 
 *Expertise: Single point of failure*
 
-It is never the case that an individual within a team is responsible for a given capability, or function. It it always the team that is responsible. Using champions, for example, would mean that the team has a member who is particularly focused on a specific competency, say accessibility. The champions job is not to be *responsible* for accessibility, the champion is responsible for upskilling the team regarding accessibility (in this example). The champion will, for example, document the toolsets and approaches they are using, open tasks/issues and document their findings. The champion will also be closing the issues they open. As a result of this approach, even if the champion is to leave the team, the team should have learned enough from the champion, and have enough work documented, that the rest of the team is able to address the issues created by the champion. The focus is always to upskill the team, and build upon and improve, their capabilities. The focus is not to assign a person to be responsible for a given capability within the team.
+It is never the case that an individual within a team is responsible for a given capability, or function.
+It it always the team that is responsible.
+Using champions, for example, would mean that the team has a member who is particularly focused on a specific competency, say accessibility.
+The champions job is not to be *responsible* for accessibility, the champion is responsible for upskilling the team regarding accessibility (in this example).
+The champion will, for example, document the toolsets and approaches they are using, open tasks/issues and document their findings.
+The champion will also be closing the issues they open.
+As a result of this approach, even if the champion is to leave the team, the team should have learned enough from the champion, and have enough work documented, that the rest of the team is able to address the issues created by the champion.
+The focus is always to upskill the team, and build upon and improve, their capabilities.
+The focus is not to assign a person to be responsible for a given capability within the team.
 
 ### 2.9. Enterprise Resource Planning (ERP) solutions
 
@@ -249,15 +302,25 @@ How are ERPs like SAP and PeopleSoft fit in this Target Model? Especially that L
 
 #### 2.9.3. What is being done about this concern <!-- omit in toc -->
 
-The strategy's 3. Coherent set of actions / Governance / Produce a Project-exception Eligibility Guidance. Expectations of this activity will set criteria for projects seeking to deviate from the model. Such criteria may involve vendor-specific requirements due to contracting (e.g. SAP change framework).
+The strategy's 3. Coherent set of actions / Governance / Produce a Project-exception Eligibility Guidance.
+Expectations of this activity will set criteria for projects seeking to deviate from the model.
+Such criteria may involve vendor-specific requirements due to contracting (e.g. SAP change framework).
 
-There are numerous forms of testing. Not all tests are necessarily done by the development teams. For example, unit tests, integration tests, or functional tests, should all be implemented by the development teams. Blackbox testing necessarily is completed by someone outside of the application development team. Further, these principles are intended to be used on legacy systems, though admittedly the toolsets are less readily available. The technologies used are specifically not discussed, the principles used are required. For example, in existing ERP systems efforts should be made to create feedback loops to the development teams. If frameworks are not readily available, investments need be taken to develop these capabilities for legacy systems.
+There are numerous forms of testing.
+Not all tests are necessarily done by the development teams.
+For example, unit tests, integration tests, or functional tests, should all be implemented by the development teams.
+Blackbox testing necessarily is completed by someone outside of the application development team.
+Further, these principles are intended to be used on legacy systems, though admittedly the toolsets are less readily available.
+The technologies used are specifically not discussed, the principles used are required.
+For example, in existing ERP systems efforts should be made to create feedback loops to the development teams.
+If frameworks are not readily available, investments need be taken to develop these capabilities for legacy systems.
 
 ### 2.10. Risk to project management overhead
 
 #### 2.10.1. Summary <!-- omit in toc -->
 
-The strategy looks at limiting the size of projects to Small and below. Is it expected that, should an initiative require multiple releases to production and passes the $2.5M threshold, to redo the Project Management Lifecycle for the subsequent releases?
+The strategy looks at limiting the size of projects to Small and below.
+Is it expected that, should an initiative require multiple releases to production and passes the $2.5M threshold, to redo the Project Management Lifecycle for the subsequent releases?
 
 If so, this creates a risk of too much overhead for IT Teams to handle and may result in slowing delivery.
 
@@ -277,7 +340,8 @@ Explore multi-gated (3 and 4) PMLC approach.
 
 There is a risk that smaller investments promote continuing investing in the wrong IT Product and, as such, limit the organization's ability to improve a given capability.
 
-A potential scenario is that what was thought of spending $500k to a legacy product one time, comes up as a series of small investments over the year aggregated to more than $2.5M. In hindsight, the organization may have preferred to use that $2.5M towards transitioning to a modern IT Product instead.
+A potential scenario is that what was thought of spending $500k to a legacy product one time, comes up as a series of small investments over the year aggregated to more than $2.5M.
+In hindsight, the organization may have preferred to use that $2.5M towards transitioning to a modern IT Product instead.
 
 #### 2.11.2. Raised by stakeholder(s) <!-- omit in toc -->
 
@@ -287,11 +351,17 @@ A potential scenario is that what was thought of spending $500k to a legacy prod
 
 *Small vs larger investments*
 
-Based on our analysis of government projects, the existing approach of committing to large procurements has the same problem -- initial estimates are low and must be revised up. This risk will always exist, though the small iterative approach gives a tool by which to stop projects that look to be doing in the wrong direction, or are failing to deliver on business value.
+Based on our analysis of government projects, the existing approach of committing to large procurements has the same problem -- initial estimates are low and must be revised up.
+This risk will always exist, though the small iterative approach gives a tool by which to stop projects that look to be doing in the wrong direction, or are failing to deliver on business value.
 
 *10% vs 10x*
 
-As to spending $2.5M to transition to a modern IT Product instead of iterating on $500K, this is an acceptable risk and said risk will be present whether or not we iterate on smaller projects. What is being discussed is the 10% vs 10x debate. When attempting to improve a solution by 10%, generally it is a continuation of previously made software choices and architectural decisions. In contrast, if a team is challenged to improve the solution by a factor or 10 (10x) then they will likely rethink the entire solution, which may end up yielding better results. These are challenges with the iterative continuous improvement approach (and why innovation is important). However, when the argument becomes "are we optimally improving this solution" rather than "did we just waste 100M on a solution that delivered no value to users" then this is judged to be an improvement upon the status quo.
+As to spending $2.5M to transition to a modern IT Product instead of iterating on $500K, this is an acceptable risk and said risk will be present whether or not we iterate on smaller projects.
+What is being discussed is the 10% vs 10x debate.
+When attempting to improve a solution by 10%, generally it is a continuation of previously made software choices and architectural decisions.
+In contrast, if a team is challenged to improve the solution by a factor or 10 (10x) then they will likely rethink the entire solution, which may end up yielding better results.
+These are challenges with the iterative continuous improvement approach (and why innovation is important).
+However, when the argument becomes "are we optimally improving this solution" rather than "did we just waste 100M on a solution that delivered no value to users" then this is judged to be an improvement upon the status quo.
 
 TBD. The current thinking is to improve the organization's monitoring ability by linking investments to the health of capabilities, capturing when such investment reaches a threshold to change course and have resources shifting somewhere else.
 
@@ -299,7 +369,9 @@ TBD. The current thinking is to improve the organization's monitoring ability by
 
 #### 2.12.1. Summary <!-- omit in toc -->
 
-Moving towards a more decentralized and distributed means of decision making presents a risk that incorrect decisions may occur affecting data management across the enterprise. The risk involved duplication of data, incoherence to data consumers, and degradation of data quality.  Over the years, IITB has spent efforts centralizing certain functions to achieve efficiencies and be able to do more with less.
+Moving towards a more decentralized and distributed means of decision making presents a risk that incorrect decisions may occur affecting data management across the enterprise.
+The risk involved duplication of data, incoherence to data consumers, and degradation of data quality.
+Over the years, IITB has spent efforts centralizing certain functions to achieve efficiencies and be able to do more with less.
 
 #### 2.12.2. Raised by stakeholder(s) <!-- omit in toc -->
 
