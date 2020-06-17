@@ -15,41 +15,45 @@ Please note that we will get to your comment as soon as possible but we can't co
 
 In this document you will find the following sections:
 
-1. [Instructions](#instructions)
-2. [Cloning The Project Locally](#cloning-the-project-locally)
-3. [Continuous Integration Testing](#continuous-integration-testing)
-   1. [CI Tests Using Docker](#ci-tests-using-docker)
-   2. [CI Tests Using NPM](#ci-tests-using-npm)
-   3. [Types Of Tests](#types-of-tests)
-4. [Local Website](#local-website)
-5. [Jekyll Pages](#jekyll-pages)
-   1. [Layout](#layout)
-   2. [Title](#title)
-   3. [Ref](#ref)
-   4. [Lang](#lang)
-   5. [Status](#status)
-   6. [Permalink](#permalink)
-6. [Jekyll Blog Posts](#jekyll-blog-posts)
-   1. [Post Layout](#post-layout)
-   2. [Author](#author)
-   3. [Date](#date)
-   4. [Last Modified](#last-modified)
-7. [Jekyll Draft Blog Posts](#jekyll-draft-blog-posts)
-8. [Reveal.js Presentations](#revealjs-presentations)
-9. [Hacker Slides](#hacker-slides)
-10. [Useful Docker Commands](#useful-docker-commands)
+- [Contributing](#contributing)
+  - [Instructions](#instructions)
+  - [Cloning The Project Locally](#cloning-the-project-locally)
+  - [Continuous Integration Testing](#continuous-integration-testing)
+    - [CI Tests Using Docker](#ci-tests-using-docker)
+    - [CI Tests Using NPM](#ci-tests-using-npm)
+    - [Types Of Tests](#types-of-tests)
+      - [Markdown Lint Checker](#markdown-lint-checker)
+      - [Link Checker](#link-checker)
+      - [Spelling Checker](#spelling-checker)
+  - [Local Website](#local-website)
+  - [Jekyll Pages](#jekyll-pages)
+    - [Layout](#layout)
+    - [Title](#title)
+    - [Ref](#ref)
+    - [Lang](#lang)
+    - [Status](#status)
+    - [Permalink](#permalink)
+  - [Jekyll Blog Posts](#jekyll-blog-posts)
+    - [Post Layout](#post-layout)
+    - [Author](#author)
+    - [Date](#date)
+    - [Last Modified](#last-modified)
+  - [Jekyll Draft Blog Posts](#jekyll-draft-blog-posts)
+  - [Reveal.js Presentations](#revealjs-presentations)
+  - [Hacker Slides](#hacker-slides)
+  - [Useful Docker Commands](#useful-docker-commands)
 
 ## Cloning The Project Locally
 
 If this is your first time setting up the repo as a local folder, you'll need to do the following:
 
-* Clone the project on your local drive in the folder name of your choice
+- Clone the project on your local drive in the folder name of your choice
 
 ```bash
 git clone https://github.com/sara-sabr/ITStrategy.git <your_folder_name>
 ```
 
-* Move to the folder you just created
+- Move to the folder you just created
 
 ```bash
 cd <your_folder_name>
@@ -65,8 +69,8 @@ If tests are failing, instructions in the console will point you to the errors t
 
 To run the tests:
 
-* If you have Docker installed, see the section [CI Tests Using Docker](#ci-tests-using-docker)
-* If you can't use Docker, you will need to do use Node.js and NPM. See the section [CI Tests Using NPM](#ci-tests-using-npm)
+- If you have Docker installed, see the section [CI Tests Using Docker](#ci-tests-using-docker)
+- If you can't use Docker, you will need to do use Node.js and NPM. See the section [CI Tests Using NPM](#ci-tests-using-npm)
 
 ### CI Tests Using Docker
 
@@ -188,11 +192,11 @@ layout: default
 
 The current layouts available are the following ones:
 
-* `default`: a default layout for pages that uses Bootstrap 4 default theme.
+- `default`: a default layout for pages that uses Bootstrap 4 default theme.
 This will render a page with a default header, head, body and footer.
-* `revealjs`: a special layout used for presentations.
+- `revealjs`: a special layout used for presentations.
 _This layout shouldn't be used in pages or blog posts._
-* `splash`: a special layout used for our welcome page.
+- `splash`: a special layout used for our welcome page.
 _This layout shouldn't be used in pages or blog posts._
 
 Additional layouts may be built later on as we enhance the look and feel of the website and diversify the type of content to display.
@@ -406,8 +410,8 @@ docker: Error response from daemon: driver failed programming external connectiv
 
 The reason is that you probably already have the container running so you have two options:
 
-* Head out to `0.0.0.0:4000/ITStrategy` to view the website
-* Check if the container is the one you want and kill it if necessary
+- Head out to `0.0.0.0:4000/ITStrategy` to view the website
+- Check if the container is the one you want and kill it if necessary
 
 To confirm which container is running, you can use this command:
 
