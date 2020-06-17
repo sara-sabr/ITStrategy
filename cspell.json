@@ -23,6 +23,7 @@
     "Tful",
     "Wierda",
     "unpredictabilities",
+    "whitelisting",
     "Asterix",
     "whitepapers",
     "dbas",
@@ -383,7 +384,8 @@
     "specialties",
     "siloed",
     "practiced",
-    "Odoo"
+    "Odoo",
+    "slideshare"
   ],
   "flagWords": [],
   "import": ["./node_modules/cspell-dict-fr-fr/cspell-ext.json"],
