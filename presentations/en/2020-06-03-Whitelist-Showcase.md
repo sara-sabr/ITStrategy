@@ -1094,7 +1094,7 @@ Content...
 
 1. Git et VSCode ([Catalogue d'application](http://srmis-sigdi-iagent.prv/AppPortal/fr/Home/Index/2))
   
-2. Extension [vscode-reveal](https://marketplace.visualstudio.com/items?itemName=evilz.vscode-reveal) dans VS Code
+2. Extension [vscode-reveal](https://marketplace.visualstudio.com/items?itemName=evilz.vscode-reveal) dans VSCode
 
 3. Dépôt GitHub ([instructions en anglais](https://medium.com/@marcus_baw/using-reveal-js-a74b30e4065b))
 
@@ -1106,7 +1106,7 @@ Content...
 
 1. Git and VSCode ([Application Catalogue](http://srmis-sigdi-iagent.prv/AppPortal/en/Home/Index/2))
 
-2. [vscode-reveal](https://marketplace.visualstudio.com/items?itemName=evilz.vscode-reveal) extension in VS Code
+2. [vscode-reveal](https://marketplace.visualstudio.com/items?itemName=evilz.vscode-reveal) extension in VSCode
 
 3. GitHub repository ([instructions](https://medium.com/@marcus_baw/using-reveal-js-a74b30e4065b))
 
