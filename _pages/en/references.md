@@ -65,7 +65,6 @@ For further guidance on working in the open, please refer to the following blog 
 - [Slack](https://slack.com): Can be used with work e-mail, though may require access to email to create account
 - [Riot (Matrix)](https://riot.im/app/): Decentralized IM and can have E2E encrypted messages
 - [Rocket Chat](https://open.rocket.chat)
-- [hack.chat](https://hack.chat)
 - [Gitter](https://gitter.im): For developers and users of GitHub repositories
 - [Framateam](https://framateam.org)
 
@@ -203,8 +202,6 @@ For further guidance on working in the open, please refer to the following blog 
 ## FWD50
 
 - [2018 list of presentations](https://2018.fwd50.com/)
-- 2018 Digital Social Innovation presentation from Digital Minister of Taiwan (presentation unfortunately removed from slideshare.net)
-<!-- https://www.slideshare.net/FWD50/fwd50-2018-digital-social-innovation -->
 
 ## Talks
 
