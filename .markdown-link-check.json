@@ -71,6 +71,9 @@
     },
     {
       "pattern": "https://pm.gc.ca/en/mandate-letters/minister-digital-government-mandate-letter"
+    },
+    {
+      "pattern": "http://srmis-sigdi-iagent.prv"      
     }
   ]
 }
