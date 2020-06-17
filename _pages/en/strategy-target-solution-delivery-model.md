@@ -103,7 +103,7 @@ This Guiding Policy has been prepared by taking into consideration alignment and
 
 ### Governance, Compliance, and Reporting
 
-1. DevOps teams have the authority to make changes to their IT products in production using pipelines that meet compliance requirements
+1. DevOps teams have the authority to make changes to their IT products in production using approved DevOps pipelines
 2. DevOps teams are defined as per the \<IITB standard definition\> (see [Appendix D. Definition](#appendix-d---definitions))
 3. DevOps teams publish their product metrics internally to ESDC. Metrics are comprised of the following:
       - Accessibility test results
@@ -157,9 +157,9 @@ This Guiding Policy has been prepared by taking into consideration alignment and
 
 ### DevOps
 
-1. DevOps teams use pipelines to manage the release process from commit to production
+1. DevOps teams use a pipeline to control the release process from commit to production
 2. The pipeline that DevOps teams use is trusted to meet the required Governance checklist in order to be able to release directly into production
-3. The pipeline allows for manual intervention, if required
+3. The DevOps pipeline allows for manual intervention, if required
 4. DevOps teams use build automation
 5. DevOps teams use test automation for:
     - Unit testing
@@ -172,7 +172,7 @@ This Guiding Policy has been prepared by taking into consideration alignment and
 6. DevOps teams use Continuous Integration
 7. DevOps teams use Application Release Automation
 8. DevOps teams use a decentralized version control system
-9. DevOps teams use automated monitoring made available to those responsible for compliance or auditing
+9. DevOps teams use automated monitoring
 
 ## Coherent set of actions
 
