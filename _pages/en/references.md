@@ -203,7 +203,8 @@ For further guidance on working in the open, please refer to the following blog 
 ## FWD50
 
 - [2018 list of presentations](https://2018.fwd50.com/)
-- [2018 Digital Social Innovation presentation from Digital Minister of Taiwan](https://www.slideshare.net/FWD50/fwd50-2018-digital-social-innovation)
+- 2018 Digital Social Innovation presentation from Digital Minister of Taiwan (presentation unfortunately removed from slideshare.net)
+<!-- https://www.slideshare.net/FWD50/fwd50-2018-digital-social-innovation -->
 
 ## Talks
 

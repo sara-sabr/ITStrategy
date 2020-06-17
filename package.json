@@ -33,7 +33,7 @@
     "chalk": "^2.4.2",
     "cspell": "^3.2.8",
     "cspell-dict-fr-fr": "^1.2.11",
-    "editorconfig-checker": "^3.0.4",
+    "editorconfig-checker": "^3.1.0",
     "glob": "^7.1.6",
     "license-compatibility-checker": "^0.3.4",
     "licensee": "^7.0.3",
