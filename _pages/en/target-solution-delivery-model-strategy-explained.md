@@ -57,18 +57,26 @@ Not asset management, vendor sourcing, workforce and talent management, or enter
 
 ### 2.1. Where are we now?
 
-As stated in the [2019-2020 Departmental Plan](https://www.canada.ca/en/employment-social-development/corporate/reports/departmental-plan/2019-2020/plans.html), ESDC commits to "continue to transform the delivery of its services to ensure they meet the evolving expectations of Canadians". Due to ESDC's citizen-focus mandate, it is heavily engaged in [government-wide digital operation actions](https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html).
+As stated in the [2019-2020 Departmental Plan](https://www.canada.ca/en/employment-social-development/corporate/reports/departmental-plan/2019-2020/plans.html), ESDC commits to "continue to transform the delivery of its services to ensure they meet the evolving expectations of Canadians".
+Due to ESDC's citizen-focus mandate, it is heavily engaged in [government-wide digital operation actions](https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html).
 For example, the [OneGC vision and Omni Channel Digital Strategy](https://gccollab.ca/groups/profile/154708/enonegc-ungcfrungc) contains 14 cluster groups where ESDC either leads or is an active participant in each one.
 
 Internally within ESDC, the Innovation, Information and Technology Branch (IITB) established the [IITB Way Forward](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx), containing 26 service improvement and modernization activities to improve its Information Management/Information Technology (IM/IT) service offerings.
 
-ESDC is not a new department. It has accumulated a [significant amount of technical debt](http://www.oag-bvg.gc.ca/internet/English/parl_oag_201004_01_e_33714.html) over its decades. ESDC's [application portfolio contains more than 500 applications](https://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/ESDC%20IT%20Plan%202019-22%20-%20FINAL.pdf), 101 of which are mission critical and depend on legacy technologies (aged custom build applications and a mainframe). In response to limitations of the antiquated IT systems, ESDC has started investing in a [Business Delivery Modernization](https://www.canada.ca/en/employment-social-development/corporate/reports/departmental-plan/2019-2020/planned-results.html#h2.04) Programme. This Programme targets a complete business process and technology renewal for Employment Insurance, Old Age Security and the Canada Pension Plan.
+ESDC is not a new department.
+It has accumulated a [significant amount of technical debt](http://www.oag-bvg.gc.ca/internet/English/parl_oag_201004_01_e_33714.html) over its decades.
+ESDC's [application portfolio contains more than 500 applications](https://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/ESDC%20IT%20Plan%202019-22%20-%20FINAL.pdf), 101 of which are mission critical and depend on legacy technologies (aged custom build applications and a mainframe).
+In response to limitations of the antiquated IT systems, ESDC has started investing in a [Business Delivery Modernization](https://www.canada.ca/en/employment-social-development/corporate/reports/departmental-plan/2019-2020/planned-results.html#h2.04) Programme.
+This Programme targets a complete business process and technology renewal for Employment Insurance, Old Age Security and the Canada Pension Plan.
 
-Most of the [recommendations from external audits](https://sara-sabr.github.io/ITStrategy/2020/04/21/how-is-the-public-service-managing-large-IT-project.html) on reducing risks to technology investments seem to be  about stronger, more disciplined governance. That having a more accurate prediction of the future is the key to reducing risks on technology investments.
+Most of the [recommendations from external audits](https://sara-sabr.github.io/ITStrategy/2020/04/21/how-is-the-public-service-managing-large-IT-project.html) on reducing risks to technology investments seem to be  about stronger, more disciplined governance.
+That having a more accurate prediction of the future is the key to reducing risks on technology investments.
 
 The ESDC IT Strategy team disagrees.
 
-To work effectively in the digital world, you must first accept complexity and uncertainty, for they demand very different approach to carrying out initiatives. A predictable world rewards advanced planning and rigid plan execution. But a complex and uncertain world rewards an empirical cycle of trying, observing, and correcting.[^1]
+To work effectively in the digital world, you must first accept complexity and uncertainty, for they demand very different approach to carrying out initiatives.
+A predictable world rewards advanced planning and rigid plan execution.
+But a complex and uncertain world rewards an empirical cycle of trying, observing, and correcting.[^1]
 
 ### 2.2. Where do we want to be?
 
@@ -83,7 +91,9 @@ With the [move towards Digital](https://www.canada.ca/en/government/system/digit
 Because of the ubiquitous nature of technology in digital solutions, this reset of relationship includes the use of technology.
 The feedback loop between policy makers and users needs to accelerate, which will greatly depend on how fast technology can respond to such change _without_ increasing the level of risk to the department.
 
-The [GC Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html) form the foundation of the government's shift to becoming more agile, open, and user-focused. At the same time, the [Directive on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601) requires departments to align to the [GC Architecture Standards](https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards) by means of its [mandatory procedures for Enterprise Architecture Assessment](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602). This creates a conundrum for organizations:
+The [GC Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html) form the foundation of the government's shift to becoming more agile, open, and user-focused.
+At the same time, the [Directive on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601) requires departments to align to the [GC Architecture Standards](https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards) by means of its [mandatory procedures for Enterprise Architecture Assessment](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602).
+This creates a conundrum for organizations:
 
 ***How do we reconcile the requirement of being agile with the one of thinking Enterprise?***
 
@@ -153,14 +163,20 @@ This leads to the following unintentional consequences:
 
 #### 3.3.1. Problem Description <!-- omit in toc -->
 
-When the organization has structured its teams by functions, it has siloed them. The organization has unwillingly communicated a particular function is owned by a dedicated team and therefore must be included in any discussion regarding that function. It produces territorial behaviours that affects synergies within the organization, it over complicates the software development lifecycle (SDLC) by having too many teams waiting for other teams , and impedes professional growth as to "do a function" you are expected to be part of that functional team.
+When the organization has structured its teams by functions, it has siloed them.
+The organization has unwillingly communicated a particular function is owned by a dedicated team and therefore must be included in any discussion regarding that function.
+It produces territorial behaviours that affects synergies within the organization, it over complicates the software development lifecycle (SDLC) by having too many teams waiting for other teams , and impedes professional growth as to "do a function" you are expected to be part of that functional team.
 
-Most plans relating to technology will mention _shifting left on X_, or to _do X by design_. However, this cannot mean shifting left all functional teams within the organization as nothing will have moved. Instead, we want to shift left the _function competency_ across teams.
+Most plans relating to technology will mention _shifting left on X_, or to _do X by design_.
+However, this cannot mean shifting left all functional teams within the organization as nothing will have moved.
+Instead, we want to shift left the _function competency_ across teams.
 
 #### 3.3.2. How the strategy intends to solve the problem <!-- omit in toc -->
 
-- Deploy pre-defined DevOps teams to IT Projects, not assembling individuals into a temporary project team and dismantling them when the project ends. DevOps teams are expected to have all the competencies to develop, secure, and operate an IT Product.
-- If a DevOps team's competencies are not up to par, the use of Champions are used to upscale the team's expertise. Personnel managers, instead of being responsible for the technical aspect, are responsible to sustain the team's skillset overtime.
+- Deploy pre-defined DevOps teams to IT Projects, not assembling individuals into a temporary project team and dismantling them when the project ends.
+DevOps teams are expected to have all the competencies to develop, secure, and operate an IT Product.
+- If a DevOps team's competencies are not up to par, the use of Champions are used to upscale the team's expertise.
+Personnel managers, instead of being responsible for the technical aspect, are responsible to sustain the team's skillset overtime.
 - The DevOps team is self-organized and has build the needed synergies between its members over time to work well together.
 - A DevOps team is still expected to interface with other IT Professionals (information security and privacy professionals) to oversee the changes in their IT Products
 - Functional experts are expected to [provide DevOps teams with specialized tools](https://cloud.google.com/solutions/devops/devops-tech-shifting-left-on-security) to reduce burden on them and improve their ability to perform that function.
@@ -169,16 +185,23 @@ Most plans relating to technology will mention _shifting left on X_, or to _do X
 
 #### 3.4.1. Problem Description <!-- omit in toc -->
 
-As per \#3.3 above, an organization that segments its functions in dedicated teams has siloed them. This gets felt during capacity planning when the organization needs to assess whether it has the necessary resources to fulfill demands. This assessment gets overly complicated as the organization needs to look into each functional team on whether or not it has enough capacity to sustain the work predicted to come at them.
+As per \#3.3 above, an organization that segments its functions in dedicated teams has siloed them.
+This gets felt during capacity planning when the organization needs to assess whether it has the necessary resources to fulfill demands.
+This assessment gets overly complicated as the organization needs to look into each functional team on whether or not it has enough capacity to sustain the work predicted to come at them.
 
-This is especially felt during project budgeting. The [Scaled Agile Framework lean budgeting](https://www.scaledagileframework.com/lean-budgets/) problem statement explains this challenge. Project budgeting needs to coordinate with multiple cost centres to complete the picture of _THE_ project from a series of functional team's own mini project schedule. Managing this complexity _is laborious work_.
+This is especially felt during project budgeting.
+The [Scaled Agile Framework lean budgeting](https://www.scaledagileframework.com/lean-budgets/) problem statement explains this challenge.
+Project budgeting needs to coordinate with multiple cost centres to complete the picture of _THE_ project from a series of functional team's own mini project schedule.
+Managing this complexity _is laborious work_.
 
 ![Traditional budgeting using teams cost centres](assets/images/safe-traditional-project-budget.png)
 
 #### 3.4.2. How the strategy intends to solve the problem <!-- omit in toc -->
 
-- Deploy pre-defined DevOps teams to IT Projects, not assembling individuals into a temporary project team and dismantling them when the project ends. DevOps teams are expected to have all the competencies to develop, secure, and operate an IT Product.
-- If a DevOps team's competencies are not up to par, the use of Champions are used to upscale the team's expertise. The DevOps team is self-organized and managers, instead of being responsible for the technical aspect, are responsible to sustain the team's skillset overtime.
+- Deploy pre-defined DevOps teams to IT Projects, not assembling individuals into a temporary project team and dismantling them when the project ends.
+DevOps teams are expected to have all the competencies to develop, secure, and operate an IT Product.
+- If a DevOps team's competencies are not up to par, the use of Champions are used to upscale the team's expertise.
+The DevOps team is self-organized and managers, instead of being responsible for the technical aspect, are responsible to sustain the team's skillset overtime.
 - DevOps team have a pre-defined cost (e.g. $1.2M/team) depending on their [types and specialization](assets/files/standard-devops-team-definition.docx), making forecasting IT Projects easier.
 - Significant investment in Solutions Architecture and loose coupling, allowing IT Products to reduce dependencies between each other and, as a result, reducing the amount of teams needed to fulfill an IT Product change
 
@@ -186,41 +209,55 @@ This is especially felt during project budgeting. The [Scaled Agile Framework le
 
 #### 3.5.1. Problem Description <!-- omit in toc -->
 
-Technical changes, depending on their significant, are expected to go through governing committees to review the changes and grant approval to proceed. Not necessarily to approve the change in production, only to continue further with the elaboration of the technical changes. To brief the committees, teams are required to dedicate an amount of time to produce a presentation geared to the committee's audience and schedule an time slot to the committee's agenda.
+Technical changes, depending on their significant, are expected to go through governing committees to review the changes and grant approval to proceed.
+Not necessarily to approve the change in production, only to continue further with the elaboration of the technical changes.
+To brief the committees, teams are required to dedicate an amount of time to produce a presentation geared to the committee's audience and schedule an time slot to the committee's agenda.
 
 Such method of governing, we believe, traditionally comes from the fact that technical changes are big, costly, and risky (if something goes wrong, it is difficult to roll back).
 
-Because of this method of risk management, IT teams are at the mercy of the committee's meeting frequency and planned agenda (which is often full). Each committee intervention creates a cost of delay and impedes on the organization's ability to respond to business change.
+Because of this method of risk management, IT teams are at the mercy of the committee's meeting frequency and planned agenda (which is often full).
+Each committee intervention creates a cost of delay and impedes on the organization's ability to respond to business change.
 
 #### 3.5.2. How the strategy intends to solve the problem <!-- omit in toc -->
 
 - Mandating smaller technical changes as a means to reduce risk (IT Project size caps and scoping them to produce production-ready IT Products minimum every 6 months)
 - Delegation of authority to IT teams (ability for DevOps teams to deploy in production)
 - Significant investment in automating software deployment (automated testing and releases)
-- Governance adjusted to focus on monitoring and course correction instead of gating. Acting during IT Project scope definition and IT Products backlog list items prioritization. This is expected to require significant investments in monitoring tools that collects health data (e.g. Application Portfolio Management modernization, see \#3.10) to provide needed insights
+- Governance adjusted to focus on monitoring and course correction instead of gating.
+Acting during IT Project scope definition and IT Products backlog list items prioritization.
+This is expected to require significant investments in monitoring tools that collects health data (e.g. Application Portfolio Management modernization, see \#3.10) to provide needed insights
 - Significant investment in Solutions Architecture and loose coupling, allowing IT Products to reduce dependencies between each other and, as a result, reducing the amount of teams needed to fulfill an IT Product change
 
 ### 3.6. Manual Audit processes (compliance) impede innovation and create cost of delays
 
 #### 3.6.1. Problem Description <!-- omit in toc -->
 
-Audit are needed to assess the organization's ability to adhere to important compliance rules (e.g. IT Security controls, financial controls, and accessibility controls). However, the current method seeks reviewing sets of documentation as a means to increase confidence in the ability of the technical system to comply. Documentation is not software, it is plans to make software and may not fully demonstrate how that software behaves before it reaches production. Moreover, the audit process seeking documentation is _laborious work_ and motivates IT teams to stay within the boundaries of the audit requirements as opposed to think of innovative ways to increase the organization's confidence in the quality of its software (e.g. investing in extensive testing suites instead of plans).
+Audit are needed to assess the organization's ability to adhere to important compliance rules (e.g. IT Security controls, financial controls, and accessibility controls).
+However, the current method seeks reviewing sets of documentation as a means to increase confidence in the ability of the technical system to comply.
+Documentation is not software, it is plans to make software and may not fully demonstrate how that software behaves before it reaches production.
+Moreover, the audit process seeking documentation is _laborious work_ and motivates IT teams to stay within the boundaries of the audit requirements as opposed to think of innovative ways to increase the organization's confidence in the quality of its software (e.g. investing in extensive testing suites instead of plans).
 
 #### 3.6.2. How the strategy intends to solve the problem <!-- omit in toc -->
 
 - Adjust compliance audit processes to favour and incentivize test results over planned documentation
-- Evaluate the [use of meritocracy](assets/files/standard-devops-team-definition.docx) as a means to motivate DevOps teams to improve. Meritocracy is to recognize the trustworthiness of teams through empirical evidence and granting them levels of autonomy proportional to their historical records.
+- Evaluate the [use of meritocracy](assets/files/standard-devops-team-definition.docx) as a means to motivate DevOps teams to improve.
+Meritocracy is to recognize the trustworthiness of teams through empirical evidence and granting them levels of autonomy proportional to their historical records.
 - Significant investment in Solutions Architecture and loose coupling, allowing audits to re-use already assessed IT Products (part of the overall IT Solutions)
 
 ### 3.7. Technology deployments take too long to reach production
 
 #### 3.7.1. Problem Description <!-- omit in toc -->
 
-Often, once an IT team has finished developing, testing, and securing their IT Product it must pass their IT Products (software files, software configuration, and infrastructure configuration) to another release team that has not been part of the IT Product development process. This release team expects a detailed procedural document that outlines the steps needed to either install the new IT Product or make modifications to an existing one. This document is also expected to provide a list of rolled back procedures in case the change is not successful.
+Often, once an IT team has finished developing, testing, and securing their IT Product it must pass their IT Products (software files, software configuration, and infrastructure configuration) to another release team that has not been part of the IT Product development process.
+This release team expects a detailed procedural document that outlines the steps needed to either install the new IT Product or make modifications to an existing one.
+This document is also expected to provide a list of rolled back procedures in case the change is not successful.
 
-This passing of responsibilities to another team creates a cost of delay, augments the number of [context switches](https://en.wikipedia.org/wiki/Context_switch) within the Software Development LifeCycle, and can demotivate the IT team(s) that worked on the IT Product[^4]. This cost of delay will be felt by encouraging larger changes over small ones which are riskier.
+This passing of responsibilities to another team creates a cost of delay, augments the number of [context switches](https://en.wikipedia.org/wiki/Context_switch) within the Software Development LifeCycle, and can demotivate the IT team(s) that worked on the IT Product[^4].
+This cost of delay will be felt by encouraging larger changes over small ones which are riskier.
 
-The [TB Directive on Security Management's Appendix B - Mandatory Procedures for Information Technology Security Control](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32611) has access management requirements regarding segregation of duties. This requirement does not necessarily need to be fulfilled by a separate department (e.g. SSC) or a separate IT team. Cloud technologies and automation provide an opportunity to use trusted and security assessed pipelines to automate deployment in production.
+The [TB Directive on Security Management's Appendix B - Mandatory Procedures for Information Technology Security Control](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32611) has access management requirements regarding segregation of duties.
+This requirement does not necessarily need to be fulfilled by a separate department (e.g. SSC) or a separate IT team.
+Cloud technologies and automation provide an opportunity to use trusted and security assessed pipelines to automate deployment in production.
 
 #### 3.7.2. How the strategy intends to solve the problem <!-- omit in toc -->
 
@@ -236,7 +273,8 @@ _EXCUSE ME?!_ (you may be thinking if you're in a line of business reading this)
 
 Yes, although a line of business may have waited years before it can finally get her IT Project going (see \#3.2 above), once the IT Project is approved to start we find that, often, lines of businesses expect the IT teams to complete the work on their own.
 
-During the execution phase of the IT Project, many challenges surface that were unplanned. E.g. business rules conflicting with each other, policy requirements at odd with each other, exceptions affecting the end-user's experience, developers needing clarification on software requirements, and unplanned software behaviours because software requirements conflict with a decade-old rules that pre-dates the project sponsor's business case.
+During the execution phase of the IT Project, many challenges surface that were unplanned.
+E.g. business rules conflicting with each other, policy requirements at odd with each other, exceptions affecting the end-user's experience, developers needing clarification on software requirements, and unplanned software behaviours because software requirements conflict with a decade-old rules that pre-dates the project sponsor's business case.
 
 IT teams are not business experts and require access to this level of expertise in order to timely solve complex problems affecting end-users.
 
@@ -275,9 +313,13 @@ Some of those changes require IT Projects to be initiated. As stated in \#3.2, t
 
 The [Application Portfolio Management (APM) program](https://www.gcpedia.gc.ca/wiki/OCIO_Application_Portfolio_Management) came to be as a recommendation from the [2010 Auditor General Report on the state of aging IT in the Government of Canada](https://www.canada.ca/en/treasury-board-secretariat/services/information-technology/report-state-aging-it-across-government-canada.html). The intent of APM is to provide needed insights into the health of IT systems (IT Products) so that departments can proactively plan investments to address the technical debt of critical IT Products putting at risks services to canadians.
 
-The APM is a requirement of the Management Accountability Framework (MAF) [IM/IT are of management](https://www.canada.ca/en/treasury-board-secretariat/services/management-accountability-framework/maf-methodologies/maf-2018-2019-information-management-information-technology-management-methodology.html). Departments are required to report back the health of their IT Products to TBS which is used to inform greater GC investments like that for SSC. It is also used as part of the Business Continuity Planning (BCP) to comply with [TB Directive on Security Management](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32611) requirements.
+The APM is a requirement of the Management Accountability Framework (MAF) [IM/IT are of management](https://www.canada.ca/en/treasury-board-secretariat/services/management-accountability-framework/maf-methodologies/maf-2018-2019-information-management-information-technology-management-methodology.html).
+Departments are required to report back the health of their IT Products to TBS which is used to inform greater GC investments like that for SSC.
+It is also used as part of the Business Continuity Planning (BCP) to comply with [TB Directive on Security Management](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32611) requirements.
 
-The collection of data for such assessment is currently manual. Periodic surveys are sent to technical professionals to collect technical specifications of IT Products (e.g. operating system versions, technical stack) and to business professionals using those IT Products (e.g. quality of data, fit for business). The collection of data requires these professionals to deviate from their daily work, fill in spreadsheets, aggregate the information, and perform a pre-defined assessment from rules coded into a tool called Clarity.
+The collection of data for such assessment is currently manual.
+Periodic surveys are sent to technical professionals to collect technical specifications of IT Products (e.g. operating system versions, technical stack) and to business professionals using those IT Products (e.g. quality of data, fit for business).
+The collection of data requires these professionals to deviate from their daily work, fill in spreadsheets, aggregate the information, and perform a pre-defined assessment from rules coded into a tool called Clarity.
 
 #### 3.10.2. How the strategy intends to solve the problem <!-- omit in toc -->
 
@@ -290,13 +332,22 @@ The collection of data for such assessment is currently manual. Periodic surveys
 
 #### 3.11.1. Problem Description <!-- omit in toc -->
 
-A majority of technical professionals in ESDC use corporate laptops to work. These corporate laptops are connected to the organization's production network and, as such, require the necessary controls put in place for security and sustainability. A technical professional may request installing a software on her laptop but that software must undergo a series of approval to assess its risk on the corporate production network.
+A majority of technical professionals in ESDC use corporate laptops to work.
+These corporate laptops are connected to the organization's production network and, as such, require the necessary controls put in place for security and sustainability.
+A technical professional may request installing a software on her laptop but that software must undergo a series of approval to assess its risk on the corporate production network.
 
-This stiffens the organization's ability to experiment with new technologies as it seeks to treat new development software risk to the same level as corporate ones. Developers and operators require experimenting with new technical stacks, programming languages, open source libraries, open source softwares, and 3rd party products. This experimentation allows them to educate themselves, grow professionally, and be in a better position to inform decision makers on investments needed. This is what the industry does.
+This stiffens the organization's ability to experiment with new technologies as it seeks to treat new development software risk to the same level as corporate ones.
+Developers and operators require experimenting with new technical stacks, programming languages, open source libraries, open source softwares, and 3rd party products.
+This experimentation allows them to educate themselves, grow professionally, and be in a better position to inform decision makers on investments needed.
+This is what the industry does.
 
 The anecdotal results we see is that, unfortunately, the organization moves towards the industry to educate itself on those technologies as opposed to investing this knowledge in public servant skillset; necessary to provide the organization with a balanced view on the new technology promises and fit.
 
-This hesitation to move towards new technologies is felt during solution architecture recommendations. A Solution Architecture will propose moving towards a new technical stack or leverage a new technology. But the organization may be unwilling to accept this recommendation due to not having enough internal knowledge of it. As an example, a solution architecture recommendation to move towards API-based data sharing, using orchestration of containers to provide rapid elasticity to sustain potential peak loads. A stakeholder not having enough knowledge in the subject prefers sticking with a file exchange protocol she is used to.
+This hesitation to move towards new technologies is felt during solution architecture recommendations.
+A Solution Architecture will propose moving towards a new technical stack or leverage a new technology.
+But the organization may be unwilling to accept this recommendation due to not having enough internal knowledge of it.
+As an example, a solution architecture recommendation to move towards API-based data sharing, using orchestration of containers to provide rapid elasticity to sustain potential peak loads.
+A stakeholder not having enough knowledge in the subject prefers sticking with a file exchange protocol she is used to.
 
 Sticking with what we know has an effect of delegating to a later time the reduction of complexity, which his part of technical debt remediation.
 It also has an adverse effect of delegating the effect of such decisions to downstream IT teams.
