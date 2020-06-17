@@ -1,16 +1,42 @@
+<!--markdownlint-disable MD001-->
 <!--markdownlint-disable MD026-->
+<!--markdownlint-disable MD029-->
 <!--markdownlint-disable MD033-->
 <!--markdownlint-disable MD035-->
 <!--markdownlint-disable MD036-->
-## Application Liste blanche (Odoo) : | Whitelist Application (Odoo):
 
-## Le périple | The Journey
+<div class="container">
 
-Présentation DGIIT en exposition | IITB Showcase Presentation
+  <div class="left-half">
 
-Jayson McIntosh, EDSC-ESDC - [@jaysonmcintosh](https://twitter.com/jaysonmcintosh)
-Dwayne Moore, EDSC-ESDC - [@distilledlife](https://twitter.com/distilledlife)
-Gabriel Cossette, EDSC-ESDC [@GabrielCossette](https://twitter.com/GabrielCossette)
+### Application Liste blanche (Odoo)
+
+#### Le périple
+
+Présentation DGIIT en exposition
+
+  </div>
+
+  <div class="right-half">
+
+### Whitelist Application (Odoo)
+
+#### The Journey
+
+IITB Showcase Presentation
+
+  </div>
+
+</div>
+
+--
+
+- Jayson McIntosh, EDSC-ESDC
+  - [@jaysonmcintosh](https://twitter.com/jaysonmcintosh)
+- Dwayne Moore, EDSC-ESDC
+  - [@distilledlife](https://twitter.com/distilledlife)
+- Gabriel Cossette, EDSC-ESDC
+  - [@GabrielCossette](https://twitter.com/GabrielCossette)
 
 ---
 
@@ -22,7 +48,7 @@ Gabriel Cossette, EDSC-ESDC [@GabrielCossette](https://twitter.com/GabrielCosset
 
   <div class="left-half">
 
-### BISM / DTS
+### SAGI / STN
 
 - Eric Dube
 - Kyle Meelker
@@ -35,7 +61,7 @@ Gabriel Cossette, EDSC-ESDC [@GabrielCossette](https://twitter.com/GabrielCosset
 
   <div class="right-half">
 
-### BISM / DTS
+### BSIM / DTS
 
 - Eric Dube
 - Kyle Meelker
@@ -109,8 +135,8 @@ Gabriel Cossette, EDSC-ESDC [@GabrielCossette](https://twitter.com/GabrielCosset
 
 ### SNC
 
-    - Calvin Rodo
-      - Champion de sécurité
+- Calvin Rodo
+  - Champion de la sécurité
 
   </div>
 
@@ -118,8 +144,8 @@ Gabriel Cossette, EDSC-ESDC [@GabrielCossette](https://twitter.com/GabrielCosset
 
 ### CDS
 
-    - Calvin Rodo
-      - Security champion
+- Calvin Rodo
+  - Security champion
 
   </div>
 
@@ -144,7 +170,7 @@ Première application dans le nuage PB
 
   <div class="right-half">
 
-Demo to CIO in 10 days
+Demo to CIO in 10 days using OSS
 
 First app on PB Cloud
 
@@ -223,21 +249,25 @@ Respond to user needs within minutes
 
 --
 
-<div class="container">
+<div class="container long-text">
 
   <div class="left-half">
 
-### Normes numériques du gouvernement du Canada
+#### Normes numériques du gouvernement du Canada
 
-_Effectuer régulièrement des itérations et des améliorations : Élaborer des services au moyen de méthodes souples et itératives, axées sur l’utilisateur. Effectuer constamment des améliorations en réponse aux besoins des utilisateurs. Essayer de nouvelles approches, commencer petit et passer à l’échelon supérieur._
+**_Effectuer régulièrement des itérations et des améliorations_**
+
+_Élaborer des services au moyen de méthodes souples et itératives, axées sur l’utilisateur. Effectuer constamment des améliorations en réponse aux besoins des utilisateurs. Essayer de nouvelles approches, commencer petit et passer à l’échelon supérieur._
 
   </div>
 
   <div class="right-half">
 
-### Digital Standards
+#### Digital Standards
 
-_Iterate and improve frequently: Develop services using agile, iterative and user-centred methods. Continuously improve in response to user needs. Try new things, start small and scale up._
+**_Iterate and improve frequently_**
+
+_Develop services using agile, iterative and user-centred methods. Continuously improve in response to user needs. Try new things, start small and scale up._
 
   </div>
 
@@ -245,11 +275,13 @@ _Iterate and improve frequently: Develop services using agile, iterative and use
 
 --
 
-<div class="container">
+<div class="container long-text">
 
   <div class="left-half">
 
-### Directive sur les services et le numérique - Annexe A : Procédures obligatoires pour l’évaluation de l’architecture intégrée
+#### Directive sur les services et le numérique
+
+##### Annexe A : Procédures obligatoires pour l’évaluation de l’architecture intégrée
 
 _A.2.3.2.1 Se concentrer sur les besoins des utilisateurs, en adoptant des méthodes agiles, itératives et centrées sur l'utilisateur._
 
@@ -257,7 +289,9 @@ _A.2.3.2.1 Se concentrer sur les besoins des utilisateurs, en adoptant des méth
 
   <div class="right-half">
 
-### Directive on Service and Digital - Appendix A: Mandatory Procedures for Enterprise Architecture Assessment
+#### Directive on Service and Digital -
+
+##### Appendix A: Mandatory Procedures for Enterprise Architecture Assessment
 
 _A.2.3.2.1 Focus on the needs of users, using agile, iterative, and user-centred methods_
 
@@ -271,7 +305,25 @@ _A.2.3.2.1 Focus on the needs of users, using agile, iterative, and user-centred
 
   <div class="left-half">
 
-#### Demande de déploiement en production
+#### Montrer l'application
+
+  </div>
+
+  <div class="right-half">
+
+#### Show application
+
+  </div>
+
+</div>
+
+--
+
+<div class="container">
+
+  <div class="left-half">
+
+#### Demander le déploiement en production
 
   </div>
 
@@ -319,7 +371,7 @@ _A.2.3.2.1 Focus on the needs of users, using agile, iterative, and user-centred
 
 ## Comment
 
-![Modèle de topologies d'équipe](./assets/images/TTBlog-Figure1.PNG)
+<img src="./assets/images/TTBlog-Figure1-fr.png" alt="Modèle de topologies d'équipe" />
 
   </div>
 
@@ -327,7 +379,7 @@ _A.2.3.2.1 Focus on the needs of users, using agile, iterative, and user-centred
 
 ## How
 
-![Team Topologies model](./assets/images/TTBlog-Figure1.PNG)
+<img src="./assets/images/TTBlog-Figure1.PNG" alt="Team Topologies model" />
 
   </div>
 
@@ -338,6 +390,8 @@ _A.2.3.2.1 Focus on the needs of users, using agile, iterative, and user-centred
 <div class="container">
 
   <div class="left-half">
+
+## Comment
 
 - Pour plus de détails, consultez [Team Topologies Inspired Whitelist App Development (anglais)](https://sara-sabr.github.io/ITStrategy/2020/05/20/Team-Topologies-Whitelisting-app.html)
 
@@ -359,21 +413,17 @@ _A.2.3.2.1 Focus on the needs of users, using agile, iterative, and user-centred
 
   <div class="left-half">
 
-## Comment
+#### Topologies d'équipe : Gouvernementisé
 
-### Topologies d'équipe : Gouvernées par le gouvernement
-
-<img src="./assets/images/TTBlog-Figure4.PNG" class="image-medium" alt="Les propriétaires de produits gèrent les produits; les gestionnaires gèrent les personnes; le chef de projet gère le projet" />
+<img src="./assets/images/TTBlog-Figure4-fr.png" class="image-medium" alt="Les propriétaires de produits gèrent les produits; les gestionnaires gèrent les personnes; le chef de projet gère le projet" style="margin-top:60px" />
 
   </div>
 
   <div class="right-half">
 
-## How
+#### Team Topologies: Governmentized
 
-### Team Topologies: Governmentized
-
-<img src="./assets/images/TTBlog-Figure4.PNG" class="image-medium" alt="Product owners manage product; managers manage people; project manager manages project" />
+<img src="./assets/images/TTBlog-Figure4.PNG" class="image-medium" alt="Product owners manage product; managers manage people; project manager manages project" style="margin-top:60px" />
 
   </div>
 
@@ -435,7 +485,7 @@ Upskill teams & miminize size
 
 #### Automatisation
 
-<img src="./assets/images/Whitelite-Showcase-IsThisAutomation.PNG" class="image-large" alt="Est-ce de l'automatisation de l'infonuagique? Non" />
+<img src="./assets/images/Whitelite-Showcase-IsThisAutomation-fr.jpg" class="image-medium" alt="Est-ce de l'automatisation de l'infonuagique? Non" />
 
   </div>
 
@@ -443,7 +493,7 @@ Upskill teams & miminize size
 
 #### Automation
 
-<img src="./assets/images/Whitelite-Showcase-IsThisAutomation.PNG" class="image-large" alt="Is cloud automation? No" />
+<img src="./assets/images/Whitelite-Showcase-IsThisAutomation.PNG" class="image-medium" alt="Is cloud automation? No" />
 
   </div>
 
@@ -451,15 +501,15 @@ Upskill teams & miminize size
 
 --
 
-## Cloud
+### Cloud
 
 <div class="container">
 
   <div class="left-half">
 
-### Automatisation
+#### Automatisation
 
-<img src="./assets/images/Whitelite-Showcase-Cloud.PNG" class="image-large" alt="Libre service avant l'infonuagique" />
+<img src="./assets/images/Whitelite-Showcase-Cloud-fr.jpg" style="margin-top: 40px;" class="image-medium" alt="Libre-service avant l'infonuagique" />
 
   </div>
 
@@ -467,7 +517,7 @@ Upskill teams & miminize size
 
 #### Automation
 
-<img src="./assets/images/Whitelite-Showcase-Cloud.PNG" class="image-large" alt="Self-service over cloud" />
+<img src="./assets/images/Whitelite-Showcase-Cloud.jpg" style="margin-top: 40px;" class="image-medium" alt="Self-service over cloud" />
 
   </div>
 
@@ -479,19 +529,20 @@ Upskill teams & miminize size
 
   <div class="left-half">
 
-Architecture de haut niveau
-
-<img src="./assets/images/Whitelite-Showcase-HighLevelArch.svg" class="image-large" alt="Architecture de haut niveau de la solution" />
+#### Architecture de haut niveau
 
   </div>
 
   <div class="right-half">
 
-High-Level Architecture
-
-<img src="./assets/images/Whitelite-Showcase-HighLevelArch.svg" class="image-large" alt="High-level architecture of solution" />
+#### High-Level Architecture
 
   </div>
+<div class="shared-content-thin">
+
+<img src="./assets/images/Whitelite-Showcase-HighLevelArch.svg" class="image-x-large" alt="Architecture de haut niveau de la solution | High-level architecture of solution" />
+
+</div>
 
 </div>
 
@@ -503,17 +554,19 @@ High-Level Architecture
 
 #### Architecture de l'infonuagique
 
-<img src="./assets/images/Whitelite-Showcase-CloudArch.PNG" class="image-large" alt="Architecture de l'infonuagique de la solution" />
-
   </div>
 
   <div class="right-half">
 
 #### Cloud Architecture
 
-<img src="./assets/images/Whitelite-Showcase-CloudArch.PNG" class="image-large" alt="Cloud architecture of solution" />
-
   </div>
+
+<div class="shared-content-thin">
+
+<img src="./assets/images/Whitelite-Showcase-CloudArch.PNG" class="image-x-large" alt="Architecture infonuagique de la solution | Cloud architecture of solution" />
+
+</div>
 
 </div>
 
@@ -523,15 +576,17 @@ High-Level Architecture
 
   <div class="left-half">
 
-<img src="./assets/images/Whitelite-Showcase-ValueOrProcess.PNG" class="image-large" alt="Suivre le processus ou offrir de la valeur?" />
-  - AE du DPI
+<img src="./assets/images/Whitelite-Showcase-ValueOrProcess-fr.jpg" class="image-large" alt="Suivre le processus ou offrir de la valeur?" />
+  
+- AE du DPI
 
   </div>
 
   <div class="right-half">
 
 <img src="./assets/images/Whitelite-Showcase-ValueOrProcess.PNG" class="image-large" alt="Follow process or deliver value?" />
-  - ATO from CIO
+
+- ATO from CIO
 
   </div>
 
@@ -543,9 +598,9 @@ High-Level Architecture
 
   <div class="left-half">
 
-## Comment y arriver?
+### Comment y arriver?
 
-### Compétences manquantes
+#### Compétences manquantes
 
 - Interopérabilité
 - Logiciel libre
@@ -556,9 +611,9 @@ High-Level Architecture
 
   <div class="right-half">
 
-## How to get there?
+### How to get there?
 
-### Missing Competencies
+#### Missing Competencies
 
 - Interoperability
 - Open source
@@ -571,13 +626,13 @@ High-Level Architecture
 
 --
 
-<div class="container">
+<div class="container long-text">
 
   <div class="left-half">
 
 ## Leçons apprises
 
-Ce qu'il ne faut pas dire si votre travail implique des processus de déploiement d'une manière ou d'une autre
+Ce qu'il ne faut pas dire si votre travail implique des processus de déploiement
 
 - Pour lancer ce processus, remplissez ce formulaire.
 - X est la responsabilité de chacun.
@@ -631,7 +686,8 @@ Things not to say if your work involves deployment processes in any way
 
 ## Qu'est-ce que le labeur?
 
-Réduire le temps de traitement de moitié, en doublant la quantité de personnel
+Réduire le temps de traitement de moitié,  
+en doublant la quantité de personnel
 
   </div>
 
@@ -639,7 +695,8 @@ Réduire le temps de traitement de moitié, en doublant la quantité de personne
 
 ## What is toil?
 
-Reducing the processing time by half, by doubling the amount of staff
+Reducing the processing time by half,  
+by doubling the amount of staff
 
   </div>
 
@@ -649,21 +706,9 @@ Reducing the processing time by half, by doubling the amount of staff
 
 <div class="container">
 
-  <div class="left-half">
+<img src="./assets/images/Whitelite-Showcase-Toil.PNG" class="image-large" alt="Plus le travail augmente, plus le besoin en personnel augmente | As work increases; need for staff increases" />
 
-<img src="./assets/images/Whitelite-Showcase-Toil.PNG" class="image-large" alt="Plus le travail augmente, plus le besoin en personnel augmente" />
-
-[Lien (anglais)](https://www.desmos.com/calculator/w8niq2v1ee)
-
-  </div>
-
-  <div class="right-half">
-
-<img src="./assets/images/Whitelite-Showcase-Toil.PNG" class="image-large" alt="As work increases; need for staff increases" />
-
-[Link](https://www.desmos.com/calculator/w8niq2v1ee)
-
-  </div>
+[Lien (anglais)](https://www.desmos.com/calculator/w8niq2v1ee) | [Link](https://www.desmos.com/calculator/w8niq2v1ee)
 
 </div>
 
@@ -671,21 +716,9 @@ Reducing the processing time by half, by doubling the amount of staff
 
 <div class="container">
 
-  <div class="left-half">
+<img src="./assets/images/Whitelite-Showcase-Toil-worse.PNG" class="image-large" alt="La productivité par personne est réduite à mesure que l'équipe s'agrandit | Productivity per person reduced as team grows" />
 
-<img src="./assets/images/Whitelite-Showcase-Toil-worse.PNG" class="image-large" alt="La productivité par personne est réduite à mesure que l'équipe s'agrandit" />
-
-[Lien (anglais)](https://www.desmos.com/calculator/w8niq2v1ee)
-
-  </div>
-
-  <div class="right-half">
-
-<img src="./assets/images/Whitelite-Showcase-Toil-worse.PNG" class="image-large" alt="Productivity per person reduced as team grows" />
-
-[Link](https://www.desmos.com/calculator/w8niq2v1ee)
-
-  </div>
+[Lien (anglais)](https://www.desmos.com/calculator/w8niq2v1ee) | [Link](https://www.desmos.com/calculator/w8niq2v1ee)
 
 </div>
 
@@ -693,23 +726,11 @@ Reducing the processing time by half, by doubling the amount of staff
 
 <div class="container">
 
-  <div class="left-half">
+<img src="./assets/images/Whitelite-Showcase-Toil-automated.PNG" class="image-large" alt="L'automatisation réduit le besoin de personnel supplémentaire | Automation reduces need for more staff" />
 
-<img src="./assets/images/Whitelite-Showcase-Toil-automated.PNG" class="image-large" alt="L'automatisation réduit le besoin de personnel supplémentaire" />
-
-[Lien (anglais)](https://www.desmos.com/calculator/hugbt6oxdt)
+[Lien (anglais)](https://www.desmos.com/calculator/hugbt6oxdt) | [Link](https://www.desmos.com/calculator/hugbt6oxdt)
 
   </div>
-
-  <div class="right-half">
-
-<img src="./assets/images/Whitelite-Showcase-Toil-automated.PNG" class="image-large" alt="Automation reduces need for more staff" />
-
-[Link](https://www.desmos.com/calculator/hugbt6oxdt)
-
-  </div>
-
-</div>
 
 --
 
@@ -735,21 +756,21 @@ Reducing the processing time by half, by doubling the amount of staff
 
   <div class="left-half">
 
-### Pourquoi me soucier du labeur?
-
-<img src="./assets/images/Whitelite-Showcase-Toil-problem.PNG" class="image-large" alt="Ceux qui automatisent surchargent ceux qui ne le font pas" />
-
-[Lien (anglais)](https://www.desmos.com/calculator/kvubrihz0h)
+#### Pourquoi me soucier du labeur?
 
   </div>
 
   <div class="right-half">
 
-### Why do I care about toil?
+#### Why do I care about toil?
 
-<img src="./assets/images/Whitelite-Showcase-Toil-problem.PNG" class="image-large" alt="Those who automate overload those who do not" />
+  </div>
 
-[Link](https://www.desmos.com/calculator/kvubrihz0h)
+  <div class="shared-content-thin">
+
+<img src="./assets/images/Whitelite-Showcase-Toil-problem.PNG" class="image-large" alt="Ceux qui automatisent surchargent ceux qui ne le font pas | Those who automate overload those who do not" />
+
+[Lien (anglais)](https://www.desmos.com/calculator/kvubrihz0h) | [Link](https://www.desmos.com/calculator/kvubrihz0h)
 
   </div>
 
@@ -761,9 +782,7 @@ Reducing the processing time by half, by doubling the amount of staff
 
   <div class="left-half">
 
-### Pourquoi me soucier du labeur?
-
-## Solution 1 : Embaucher des développeurs
+### Solution 1 : Embaucher des développeurs
 
 Lecture complémentaire (anglais) : [Google SRE Book, Introduction (Google’s Approach to Service Management: Site Reliability Engineering)](https://landing.google.com/sre/sre-book/chapters/introduction/)
 
@@ -771,9 +790,7 @@ Lecture complémentaire (anglais) : [Google SRE Book, Introduction (Google’s A
 
   <div class="right-half">
 
-### Why do I care about toil?
-
-## Solution 1: Hire developers
+### Solution 1: Hire developers
 
 Further reading: [Google SRE Book, Introduction (Google’s Approach to Service Management: Site Reliability Engineering)](https://landing.google.com/sre/sre-book/chapters/introduction/)
 
@@ -881,7 +898,7 @@ Organizing teams: Team Topologies
 
 --
 
-<div class="container">
+<div class="container long-text">
 
   <div class="left-half">
 
@@ -917,6 +934,8 @@ Organizing teams: Team Topologies
 
   <div class="left-half">
 
+## Pour en savoir plus
+
 Visiter le [site Web de Stratégie TI](https://sara-sabr.github.io/ITStrategy/accueil.html)
 
   </div>
@@ -931,7 +950,175 @@ Visit the [IT Strategy website](https://sara-sabr.github.io/ITStrategy/home.html
 
 </div>
 
+---
+
+## Questions
+
+## Comments/commentaires?
+
+---
+
+## Bonus
+
+### Comment nous avons conçu cette présentation | How we built this presentation
+
+---
+
+<div class="container">
+
+  <div class="left-half">
+
+## RevealJS
+
+- Cadriciel présentation HTML
+
+- Langage Markdown
+
+- Composantes Web
+
+- \+  Diapos verticales, vue présentateur, exportation PDF...
+
+[revealjs.com](https://revealjs.com)
+
+  </div>
+
+  <div class="right-half">
+
+## RevealJS
+
+- HTML Presentation Framework
+
+- Markdown Language
+
+- Web Components
+
+- \+  Vertical Slides, Speaker View, PDF Export...
+
+[revealjs.com](https://revealjs.com)
+
+  </div>
+
+</div>
+
+---
+
+<div class="container">
+
+## Markdown
+
+  <div class="left-half">
+
+### Contenu
+
+```markdown
+# Titre 1
+
+## Titre 2
+
+Contenu...
+
+- Élément 1
+- **Élément 2 en gras**
+
+[lien](https://www.canada.ca)
+
+---  
+  
+(nouvelle diapo)
+```
+
+  </div>
+
+  <div class="right-half">
+
+### Content
+
+```markdown
+# Header 1
+
+## Header 2
+
+Content...
+
+- Item 1
+- **Item 2 in bold**
+
+[link](https://www.canada.ca)
+
+---  
+  
+(new slide)
+```
+
+  </div>
+
+</div>
+
+---
+
+<div class="container">
+
+  <div class="left-half">
+
+### Étapes
+
+1. Sauvegarder dans le dépôt Git (p.ex. GitHub)
+
+2. Tests automatisés, révision par les pairs...
+
+3. Présentation disponible dans le site Web public 😎
+
+  </div>
+
+  <div class="right-half">
+
+### Steps
+
+1. Save to Git repository (e.g. GitHub)
+
+2. Automated checks, Peer review...
+
+3. Presentation available in public website 😎
+
+  </div>
+
+</div>
+
+---
+
+<div class="container">
+
+  <div class="left-half">
+
+### Outils
+
+1. Git et VSCode ([Catalogue d'application](http://srmis-sigdi-iagent.prv/AppPortal/fr/Home/Index/2))
+  
+2. Extension [vscode-reveal](https://marketplace.visualstudio.com/items?itemName=evilz.vscode-reveal) dans VSCode
+
+3. Dépôt GitHub ([instructions en anglais](https://medium.com/@marcus_baw/using-reveal-js-a74b30e4065b))
+
+  </div>
+
+  <div class="right-half">
+
+### Tools
+
+1. Git and VSCode ([Application Catalogue](http://srmis-sigdi-iagent.prv/AppPortal/en/Home/Index/2))
+
+2. [vscode-reveal](https://marketplace.visualstudio.com/items?itemName=evilz.vscode-reveal) extension in VSCode
+
+3. GitHub repository ([instructions](https://medium.com/@marcus_baw/using-reveal-js-a74b30e4065b))
+
+  </div>
+
+</div>
+
 <style>
+
+  img.image-x-large {
+    height: 600px;
+  }
 
   img.image-large {
     height: 500px;
@@ -939,6 +1126,10 @@ Visit the [IT Strategy website](https://sara-sabr.github.io/ITStrategy/home.html
 
   img.image-medium {
     height: 435px;
+  }
+
+  img.image-small {
+    height: 365px;
   }
 
   .long-text li, .long-text p {
@@ -966,6 +1157,10 @@ Visit the [IT Strategy website](https://sara-sabr.github.io/ITStrategy/home.html
 
   .shared-content {
     padding-top: 150px;
+  }
+
+  .shared-content-thin {
+    padding-top: 50px;
   }
 
 </style>
