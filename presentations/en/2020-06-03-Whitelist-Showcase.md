@@ -1092,7 +1092,7 @@ Content...
 
 ### Outils
 
-1. Git et VS Code ([Catalogue d'application](http://srmis-sigdi-iagent.prv/WT-STO/iAgent/AppPortal/fr))
+1. Git et VSCode ([Catalogue d'application](http://srmis-sigdi-iagent.prv/AppPortal/fr/Home/Index/2))
   
 2. Extension [vscode-reveal](https://marketplace.visualstudio.com/items?itemName=evilz.vscode-reveal) dans VS Code
 
@@ -1104,7 +1104,7 @@ Content...
 
 ### Tools
 
-1. Git and VS Code ([Application Catalogue](http://srmis-sigdi-iagent.prv/WT-STO/iAgent/AppPortal/fr))
+1. Git and VSCode ([Application Catalogue](http://srmis-sigdi-iagent.prv/AppPortal/en/Home/Index/2))
 
 2. [vscode-reveal](https://marketplace.visualstudio.com/items?itemName=evilz.vscode-reveal) extension in VS Code
 
