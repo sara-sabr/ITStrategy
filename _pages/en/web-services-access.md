@@ -64,7 +64,6 @@ To support the adoption of the new [Policy on Service and Digital](https://www.t
 
 | Name            | URL           | Notes  |
 | ----------- |:-------------:| ------:|
-| Hack Chat | https://hack.chat |  |
 | Gitter | https://gitter.im |  |
 | Riot IM | https://riot.im | Client for Matrix homeserver |
 | RocketChat | https://open.rocket.chat |  |
@@ -100,7 +99,6 @@ To support the adoption of the new [Policy on Service and Digital](https://www.t
 | Google Mail | https://mail.google.com |  |
 | Mailbox.org | https://mailbox.org |  |
 | Outlook | https://outlook.live.com |  |
-| Posteo | https://posteo.de |  |
 | Yahoo Mail | https://mail.yahoo.com |  |
 | ... |  |  |
 
