@@ -986,6 +986,8 @@ Visit the [IT Strategy website](https://sara-sabr.github.io/ITStrategy/home.html
 
 - \+  Diapos verticales, vue présentateur, exportation PDF...
 
+[Lien](https://revealjs.com)
+
   </div>
 
   <div class="right-half">
@@ -1000,9 +1002,9 @@ Visit the [IT Strategy website](https://sara-sabr.github.io/ITStrategy/home.html
 
 - \+  Vertical Slides, Speaker View, PDF Export...
 
-  </div>
+[Link](https://revealjs.com)
 
-[revealjs.com](https://revealjs.com)
+  </div>
 
 </div>
 
