@@ -68,6 +68,9 @@
     },
     {
       "pattern": "https://www.pcloud.com"
+    },
+    {
+      "pattern": "http://srmis-sigdi-iagent.prv"
     }
   ]
 }
