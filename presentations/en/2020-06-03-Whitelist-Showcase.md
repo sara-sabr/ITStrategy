@@ -972,11 +972,13 @@ Visit the [IT Strategy website](https://sara-sabr.github.io/ITStrategy/home.html
 
 <div class="container">
 
-  <div class="left-half">
-
 ## RevealJS
 
-- Cadriciel présentation HTML
+  <div class="left-half">
+
+### Cadriciel
+
+- Présentation HTML
 
 - Langage Markdown
 
@@ -984,15 +986,13 @@ Visit the [IT Strategy website](https://sara-sabr.github.io/ITStrategy/home.html
 
 - \+  Diapos verticales, vue présentateur, exportation PDF...
 
-[revealjs.com](https://revealjs.com)
-
   </div>
 
   <div class="right-half">
 
-## RevealJS
+### Framework
 
-- HTML Presentation Framework
+- HTML Presentation
 
 - Markdown Language
 
@@ -1000,9 +1000,9 @@ Visit the [IT Strategy website](https://sara-sabr.github.io/ITStrategy/home.html
 
 - \+  Vertical Slides, Speaker View, PDF Export...
 
-[revealjs.com](https://revealjs.com)
-
   </div>
+
+[revealjs.com](https://revealjs.com)
 
 </div>
 
@@ -1014,7 +1014,7 @@ Visit the [IT Strategy website](https://sara-sabr.github.io/ITStrategy/home.html
 
   <div class="left-half">
 
-### Contenu
+### Langage
 
 ```markdown
 # Titre 1
@@ -1037,7 +1037,7 @@ Contenu...
 
   <div class="right-half">
 
-### Content
+### Language
 
 ```markdown
 # Header 1
