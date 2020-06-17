@@ -40,7 +40,7 @@ IITB Showcase Presentation
 
 ---
 
-## Who
+## Who | Qui
 
 --
 
@@ -153,11 +153,11 @@ IITB Showcase Presentation
 
 ---
 
-## What
-
 <div class="container long-text">
 
   <div class="left-half">
+
+## Quoi
 
 Démo au DPI en 10 jours avec LL
 
@@ -169,6 +169,8 @@ Première application dans le nuage PB
   </div>
 
   <div class="right-half">
+
+## What
 
 Demo to CIO in 10 days using OSS
 
@@ -505,11 +507,11 @@ Upskill teams & miminize size
 
 --
 
-### Cloud
-
 <div class="container">
 
   <div class="left-half">
+
+### Infonuagique
 
 #### Automatisation
 
@@ -518,6 +520,8 @@ Upskill teams & miminize size
   </div>
 
   <div class="right-half">
+
+### Cloud
 
 #### Automation
 
