@@ -22,7 +22,12 @@ th {
 }
 </style>
 
-***This is a DRAFT strategy.***
+<div class="alert alert-warning">
+  Confused what the Strategy means? <a href="target-solution-delivery-model-strategy-explained.html">Read about the problem statements</a> it intends to solve.
+</div>
+<div class="alert alert-warning">
+  <strong>This is a DRAFT strategy</strong>. <a href="target-solution-delivery-model-strategy-areas-of-concerns.html">Concerns have been raised</a> by stakeholders as part of the peer review process and are being looked at.
+</div>
 
 _Note 1: Its authoritative source and latest version of this Strategy is on [ESDC's internal network](https://dialogue/grp/BU6810070/SitePages/strategyAlternateDeliveryModel.aspx)_
 
@@ -69,15 +74,18 @@ More specifically, stakeholders involved in defining the rules for building, del
 This includes both IITB and non-IITB stakeholders (such as from CFOB, IAERMB, and SSC).
 The list of stakeholders are listed in section [Coherent set of actions](#coherent-set-of-actions) and are expected to participate in the execution stage of this strategy necessary to operationalize the Guiding Policy.
 
-The **Guiding Policy**, once operationalized, will target stakeholders involved when IT Projects are conceptualized and created, when IT Solutions are architected, and when IT Products are developed, delivered, operationalized, and maintained. All ESDC personnel involved in IT investment decisions are expected to adhere to this policy.
+The **Guiding Policy**, once operationalized, will target stakeholders involved _when_ IT Projects are conceptualized and created, when IT Solutions are architected, and when IT Products are developed, delivered, operationalized, and maintained.
+All ESDC personnel involved in IT investment decisions are expected to adhere to this policy.
 
 ### Business Case
 
 Moving to the digital age requires improving IT's responsiveness and promoting a shared accountability with ESDC stakeholders on the use of technology.
 
-To improve IT's responsiveness, we must find ways to reduce risks associated with its use. This strategy proposes moving ESDC to the point where same day software deployments are possible and a common practice. The benefits to frequent small deployments, using automated methods, are expected to reduce risk [^1], reduce technical debt, increase client satisfaction, and increase overall confidence in the department and its staff.
+To improve IT's responsiveness, we must find ways to reduce risks associated with its use.
+This strategy proposes moving ESDC to the point where **same day software deployments** are possible and a common practice.
+The benefits to frequent small deployments, using automated methods, are expected to reduce risk [^1], reduce technical debt, increase client satisfaction, and increase overall confidence in the department and its staff.
 
-This strategy capitalizes on existing IT initiatives (such as the [IITB Way Forward](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx)) to compliment them by adding attention to them, as well as complimenting them with new activities.
+This strategy capitalizes on existing IT initiatives (such as the [IITB Way Forward](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx)) and compliments them with new activities.
 
 This strategy's goal is to define what this Target State of IT Solution Delivery is, and provide a roadmap in getting to this target state.
 
@@ -91,10 +99,12 @@ Each policy statement is a declaration of that decision and has received the end
 This policy becomes active when IT Solutions are to be delivered.
 Once active, all teams involved in the project, and the IT products involved in the IT solution, must comply with this guiding policy.
 
-This Guiding Policy has been prepared by taking into consideration alignment and compliance with existing policy instruments and does not replace them. Stakeholders are expected to still comply with existing policy instruments including, but not limited to:
+This Guiding Policy has been prepared by taking into consideration alignment and compliance with existing policy instruments and does not replace them.
+Stakeholders are expected to still comply with existing policy instruments including, but not limited to:
 
 - ESDC [Policy on Project and Programme Management (PPPM)](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Policy%20on%20Project%20and%20Programme%20Management.pdf)
-- ESDC [Directive on Project Management](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Policy%20on%20Project%20and%20Programme%20Management.pdf)
+- ESDC [Directive on Programme Management](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Directive%20On%20Programme%20Management.pdf)
+- ESDC [Directive on Project Management](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Directive%20On%20Programme%20Management.pdf)
 - ESDC Information Management Policy (being drafted)
 - ESDC [Procurement Policies](http://iservice.prv/eng/finance/purchasing/policy.shtml)
 - ESDC Security Policy (being drafted)
@@ -103,8 +113,8 @@ This Guiding Policy has been prepared by taking into consideration alignment and
 
 ### Governance, Compliance, and Reporting
 
-1. DevOps teams have the authority to make changes to their IT products in production using approved DevOps pipelines
-2. DevOps teams are defined as per the \<IITB standard definition\> (see [Appendix D. Definition](#appendix-d---definitions))
+1. DevOps teams have the authority to deploy changes in production using trusted DevOps pipelines
+2. DevOps teams are defined as per the \<[IITB standard definition](#appendix-d---definitions)\>
 3. DevOps teams publish their product metrics internally to ESDC. Metrics are comprised of the following:
       - Accessibility test results
       - Integration testing results
@@ -113,11 +123,12 @@ This Guiding Policy has been prepared by taking into consideration alignment and
       - Production deployment audit traces
       - Product's backlog items in scope of the DevOps team's cadence
       - Product's availability statistics
+      - Average Pull Request Review Turnaround
 4. Security Assessment & Authority (SA&A) uses the Target-SA&A methodology
 5. Accessibility Assessment uses the Target-Accessibility methodology
 6. Audit Assessment uses the Target-Audit methodology
 7. IT Projects allow DevOps teams to collaborate directly with business subject matter experts using a method of their choice
-8. IT Projects release working IT products in production at minimum every 6 months
+8. IT Projects produce production-ready IT Products at minimum every 6 months
 9. IT Projects start only when the following is true:
       - Metrics of business outcomes are defined and approved by ESDC’s Chief Architect
       - The business sponsor commits the availability of, at minimum, one business subject matter experts throughout the IT Project
@@ -141,11 +152,11 @@ This Guiding Policy has been prepared by taking into consideration alignment and
 2. IT Products do not depend on other products to run in production
 3. IT Products can test, deploy, and make technical changes without dependencies on other product teams
 4. DevOps teams have the authority to choose their IT Products technical stacks, unless the technical stacks are in the retirement or contained categories
-5. IT Products expose their functionality and data via APIs
+5. IT Products expose their functionality and data via secure APIs
 
 ### Product Management
 
-1. IT Products are associated to a capability as defined by the ESDC Business Capability Model
+1. IT Products are associated to a capability as defined by [ESDC Business Capability Model](https://dialogue/grp/EA-AE/SitePages/DBCM.aspx)
 2. IT Products have a single Product Owner
 3. IT Products are managed by a Product Manager
 4. The Product Owner may also be the Product Manager
@@ -171,7 +182,7 @@ This Guiding Policy has been prepared by taking into consideration alignment and
     - Smoke testing
 6. DevOps teams use Continuous Integration
 7. DevOps teams use Application Release Automation
-8. DevOps teams use a decentralized version control system
+8. DevOps teams use a git-based version control system
 9. DevOps teams use automated monitoring
 
 ## Coherent set of actions
@@ -190,7 +201,7 @@ For example, the action “Adjust IITB SDLC” is expected to involve the BPMO a
     <th>Stakeholders</th>
   </tr>
   <tr>
-    <td rowspan="7"><b>Governance</b></td>
+    <td rowspan="8"><b>Governance</b></td>
     <td>Review IT Project Governance decision chain</td>
     <td>Review terms of reference of Governance committees involved in the IT Project PMLC and propose recommendations to allow the Target Delivery Model to be used</td>
     <td>
@@ -224,8 +235,10 @@ For example, the action “Adjust IITB SDLC” is expected to involve the BPMO a
     </td>
   </tr>
   <tr>
-    <td>Produce a Project Eligibility Guidance</td>
-    <td>Produce a guidance document to help decision makers (e.g. DGPOC) in identifying project candidates that can be eligible to use the Target IT Solution Delivery Model while the organization is still in transit towards the Target state. The guidance document would be a checklist of criteria a project needs to comply with to be eligible.</td>
+    <td>Produce a Project-Exception Eligibility Guidance</td>
+    <td>
+    Produce a guidance document to help decision makers (e.g. DGPOC) in identifying projects that may be allowed to deviate from this Target IT Solution Delivery Model. The guidance document would be a checklist of criteria a project needs to  seek exception.
+    </td>
     <td>
     <b><i>IT Strategy</i></b><br>
     BPMO<br>
@@ -237,7 +250,7 @@ For example, the action “Adjust IITB SDLC” is expected to involve the BPMO a
   </tr>
   <tr>
     <td>IITB Agile Governance Framework</td>
-    <td>Produce a standard framework for governing IT Projects under the Target IT Solution Delivery Model. A standard framework is needed to reduce confusion</td>
+    <td>Produce a standard framework for governing IT Projects under the Target IT Solution Delivery Model. A standard framework is needed to reduce confusion, ensure coherence between teams, and ensure governance remains lightweight in order to provide space for agility.</td>
     <td>
     <b><i>BPMO</i></b><br>
     Senior Advisors<br>
@@ -257,10 +270,22 @@ For example, the action “Adjust IITB SDLC” is expected to involve the BPMO a
     </td>
   </tr>
   <tr>
+    <td>Produce a standard definition for _IT Product_ and _IT Solution_</td>
+    <td>Produce a standard definition for the terms IT Product and IT Solutions to avoid confusion between stakeholders.
+    </td>
+    <td>
+    <b><i>IT Strategy</i></b><br>
+  Enterprise Architecture<br>
+  Technical Architecture<br>
+  TSWG<br>
+  Senior Advisors
+    </td>
+  </tr>  
+  <tr>
     <td>Produce standard definition for “DevOps team”</td>
     <td>Produce a standard definition listing the minimum requirements, roles, and responsibilities for a team to qualify as DevOps. This to reduce confusion and misuse of the term since the Guiding Policy allows more authority to such teams.
 <br><br>
-<a href="https://014gc-my.sharepoint.com/%3Aw%3A/g/personal/remy_bernard_hrsdc-rhdcc_gc_ca/EaU8oDNt7iJNj8Zy_M64TOkBVJBlFhQ2d_fzOuF2N6bt8A?e=F5HEeL">Draft located on Office 365</a>.
+<a href="{{ site.baseurl }}/assets/files/standard-devops-team-definition.docx">Draft copy (main document on Office 365 available to ESDC staff)</a>.
 </td>
     <td>
     <b><i>IT Strategy</i></b><br>
@@ -275,7 +300,7 @@ For example, the action “Adjust IITB SDLC” is expected to involve the BPMO a
   <tr>
     <td rowspan="4"><b>Compliance</b></td>
     <td>Produce Target SA&A Process</td>
-    <td>Produce a Target SA&A Process that favours DevOps automation capabilities, product evolution, and the DevOps pipeline used</td>
+    <td>Produce a Target SA&A Process that favours and incentivize DevOps automation capabilities, test results, and product evolution.</td>
     <td>
     <b><i>IT Security</i></b><br>
     IITB Compliance unit<br>
@@ -284,7 +309,7 @@ For example, the action “Adjust IITB SDLC” is expected to involve the BPMO a
   </tr>
   <tr>
     <td>Produce Target Audit assessment process</td>
-    <td>Produce a Target Audit Process that favours DevOps automation capabilities, product evolution, and dedicated product teams.
+    <td>Produce a Target Audit Process that favours and incentivize DevOps automation capabilities, test results, and product evolution.
 Audit processes in scope include internal ESDC Audit, not External auditing entities
 </td>
     <td>
@@ -295,7 +320,7 @@ Audit processes in scope include internal ESDC Audit, not External auditing enti
   </tr>
   <tr>
     <td>Produce Target Accessibility assessment process</td>
-    <td>Produce a Target Accessibility Process that favours DevOps automation capabilities, product evolution, and dedicated product teams</td>
+    <td>Produce a Target Accessibility Process that favours and incentivize DevOps automation capabilities, test results, and product evolution.</td>
     <td>
     <b><i>Accessibility</i></b><br>
     BPMO<br>
@@ -304,7 +329,7 @@ Audit processes in scope include internal ESDC Audit, not External auditing enti
   </tr>
   <tr>
     <td>Produce Automated Testing guidance and standards</td>
-    <td>Provide guidance to DevOps team when using automated testing for the various types of tests in scope.
+    <td>Provide guidance to DevOps teams when using automated testing for the various types of tests in scope.
 Provide standards on acceptable thresholds for automating application releases between environments (up to, and including, production)
 </td>
     <td>
@@ -348,21 +373,9 @@ Senior Advisors
     </td>
   </tr>
   <tr>
-    <td rowspan="4"><b>Architecture</b></td>
-    <td>Get endorsement from EA</td>
-    <td>Engage with Enterprise Architecture, specifically Business Architecture, Solutions Architecture, and Technical Architecture teams to seek endorsement on the Target Delivery Model and their contribution</td>
-    <td>
-    <b><i>IT Strategy</i></b>
-    EA<br>
-    ARC<br>
-    Interoperability<br>
-    IITB Senior Advisors<br>
-    CDO
-    </td>
-  </tr>
-  <tr>
+    <td rowspan="5"><b>Architecture</b></td>
     <td>Review technical brick process</td>
-    <td>Review technical bricks management process to allow IT Products teams to adopt non-standard technical stacks in addition to recommending emerging standards. Evaluate conditions and responsibilities of stakeholders regarding non-standard technical stacks.</td>
+    <td>Review technical bricks management process to allow IT Products teams to adopt non-standard technical stacks in addition to recommending emerging standards. Evaluate conditions and responsibilities of stakeholders regarding non-standard technical stacks, as well as where the needs for approval are warranted.</td>
     <td>
     <b><i>Technical Architecture</i></b><br>
     TSWG<br>
@@ -375,8 +388,8 @@ Senior Advisors
   </tr>
   <tr>
     <td>Define API approval process</td>
-    <td>Formally define API approval process to allow DevOps teams to expose their products functionality and data via APIs.
-Provide standards that DevOps teams are expected to comply with when releasing APIs, such as data exchange formats and <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604">mandatory procedures for API Assessments</a> (Directive on Service and Digital).
+    <td>Formally define API approval process to allow DevOps teams to expose their products functionality and data via secure APIs.
+Provide standards that DevOps teams are expected to comply with when releasing secure APIs, such as data exchange formats, reference data model, security controls, and <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604">mandatory procedures for API Assessments</a> (Directive on Service and Digital).
 </td>
     <td>
     <b><i>Interoperability</i></b><br>
@@ -386,21 +399,46 @@ Provide standards that DevOps teams are expected to comply with when releasing A
     </td>
   </tr>
   <tr>
-    <td>Produce Loose Coupling architecture guidance</td>
-    <td>Produce a guidance document to clarify and guide Architects in building IT solutions making use of loose coupling architecture principles that provide IT Product teams more autonomy (e.g. Micro-Services, <a href="https://12factor.net/">12-factor app</a>)</td>
+    <td>Define Target Architecture Vision for Legacy Environments</td>
+    <td>Define the target architecture vision for legacy environments to enable the transition towards BDM and the Target IT Solution Delivery Model. The Target Architecture Vision is to provide direction and set reasonable expectations for DevOps teams in a legacy environment. Its content is to provide a conceptual view of the layered architectures (presentation, integration, system/applications, information/data, networking, and security)</td>
     <td>
-    <b><i>Solution Architecture</i></b>
+    <b><i>Enterprise Architecture</i></b><br>
+    Technical Debt<br>
+    Solution Architecture<br>
+    Technical Architecture
+    </td>
+  </tr>
+  <tr>
+    <td>Define Technology Platform scope and expected capabilities</td>
+    <td>Define expectations towards Technology Platform(s) that DevOps teams will leverage via APIs. The technology platform(s) will be re-usable IT Products dedicated to provide foundational capabilities for IT Solutions (IT solutions = multiple IT Products architected together). Technology Platform components are still expected to be supported by their own DevOps teams
+</td>
+    <td>
+    <b><i>Technical Architecture</i></b><br>
+    Solution Architecture<br>
+    CCoE<br>
+    IT Security<br>
+    DAS<br>
+    Interoperability
+    </td>
+  </tr>
+  <tr>
+    <td>Produce Loose Coupling architecture guidance</td>
+    <td>Produce a guidance document to clarify and guide Architects in building IT solutions making use of loose coupling architecture principles that provide IT Product teams more autonomy (e.g. Micro-Services, <a href="https://12factor.net/">12-factor app</a>) while adhering to data management expectations.</td>
+    <td>
+    <b><i>Solution Architecture</i></b><br>
+    DAS<br>
+    CDO
     </td>
   </tr>
   <tr>
     <td rowspan="2"><b>Product Management</b></td>
     <td>Produce a team lending model</td>
-    <td>Engage with the Resource Centre to provide an alternative means to deploy resources to projects, one that favours dedicated multi-disciplinary small teams over individuals</td>
+    <td>Engage with the Resource Centre to provide an alternative means to deploy resources to projects, one that favours dedicated multi-disciplinary small teams over individuals, as well as producing enabling teams responsible to accelerate other teams transition towards DevOps (see definition of “DevOps team” and the different types of teams)</td>
     <td>
     <b><i>IT Strategy</i></b><br>
     Resource Centre<br>
     Senior Advisors<br>
-    Interoperability
+    DTS
     </td>
   </tr>
   <tr>
@@ -416,25 +454,13 @@ Provide standards that DevOps teams are expected to comply with when releasing A
     </td>
   </tr>
   <tr>
-    <td rowspan="4"><b>DevOps</b></td>
-    <td>Get endorsement from Operations</td>
-    <td>Engage with Enterprise Operations and BOSS to get their endorsement in moving to a DevOps model, in parallel with the conventional ones</td>
-    <td>
-    <b><i>IT Strategy</i></b><br>
-    IT Security<br>
-    Release Services<br>
-    Testing Services<br>
-    Accessibility<br>
-    Environments
-    </td>
-  </tr>
-  <Tr>
+    <td rowspan="3"><b>DevOps</b></td>
     <td>Get endorsement from SSC</td>
     <td>Engage with SSC to get their endorsement in allowing access to deploy directly in production (on premise deployment model)</td>
     <td>
     <b><i>IT Strategy</i></b><br>
-  IT Security<br>
-  SSC
+    IT Security<br>
+    SSC
     </td>
   </tr>
   <Tr>
@@ -546,15 +572,24 @@ The metrics are defined as follows:
 
 ## Appendix A - Business Case (Diagnostic)
 
-As explain in our [ESDC IT Strategy overview](https://sara-sabr.github.io/ITStrategy/esdc-it-strategy.html), the digital world is highly complex and uncertain. The [Policy on service and digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603), reflecting citizen's expectations requires ESDC to review services delivered to clients periodically. With the ubiquitous nature of technology, any changes to ESDC services will require implicating IT teams.
+As explain in our [ESDC IT Strategy overview](https://sara-sabr.github.io/ITStrategy/esdc-it-strategy.html), the digital world is highly complex and uncertain.
+The [Policy on service and digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603), reflecting citizen's expectations requires ESDC to review services delivered to clients periodically.
+With the ubiquitous nature of technology, any changes to ESDC services will require implicating IT teams.
 
-The [GC Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html) form the foundation of the government's shift to becoming more agile, open, and user-focused. At the same time, the [Directive on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601) requires departments to align to the [GC Architecture Standards](https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards) by means of its [mandatory procedures for Enterprise Architecture Assessment](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602). This creates a conundrum for organizations: **“How do we reconcile the requirement of being agile with the one of thinking Enterprise”?**
+The [GC Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html) form the foundation of the government's shift to becoming more agile, open, and user-focused.
+At the same time, the [Directive on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601) requires departments to align to the [GC Architecture Standards](https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards) by means of its [mandatory procedures for Enterprise Architecture Assessment](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602).
+This creates a conundrum for organizations: **“How do we reconcile the requirement of being agile with the one of thinking Enterprise”?**
 
 This strategy looks at solving this challenge.
 
-The use of technology is costly and risky. The conventional methods of delivering IT solutions seeks to reduce those costs and risks with advance planning and rigid plan execution. This may work when the future is predictable, but not when it is complex and uncertain.
+The use of technology is costly and risky.
+The conventional methods of delivering IT solutions seeks to reduce those costs and risks with advance planning and rigid plan execution.
+This may work when the future is predictable, but not when it is complex and uncertain.
 
-This complexity and uncertainty warrants organizations to move towards a more empirical cycle of trying, observing, and correcting. It is not just the execution phase of a project that needs to be ”agile”, it's the project's scope itself. The IT Project is the iteration step the organization is looking for as a means to become agile. This requires reviewing the relationship ESDC has with the use of technology and the interactions between IT teams.
+This complexity and uncertainty warrants organizations to move towards a more empirical cycle of trying, observing, and correcting.
+It is not just the execution phase of a project that needs to be ”agile”, it's the project's scope itself.
+The IT Project is the iteration step the organization is looking for as a means to become agile.
+This requires reviewing the relationship ESDC has with the use of technology and the interactions between IT teams.
 
 This reality around the need to reduce risks and revisit the relationship stakeholders have with technology, is well explained in:
 
@@ -566,21 +601,28 @@ This reality around the need to reduce risks and revisit the relationship stakeh
 6. [Report 5 of the 2015 Spring Auditor General report](https://www.oag-bvg.gc.ca/internet/English/parl_oag_201504_05_e_40351.html) on Information Technology Investments by the Canadian Border Services Agency
 7. [Report 1 of the 2018 Spring Auditor General report](https://www.oag-bvg.gc.ca/internet/English/parl_oag_201805_01_e_43033.html) on Building and Implementing the Phoenix Pay System
 8. The [Standish Group 2003-2013 study](https://18f.gsa.gov/2019/04/09/why-we-love-modular-contracting/) of 3,555 projects with labour costs of at least $10 million USD showed that 6.4% were successful, 52% over budget, behind schedule, or did not meet user expectations, and 41.4% failed .
-9. The [House of Commons questions](https://large-government-of-canada-it-projects.github.io) from June 2016 and May 2019 regarding ongoing or planned IT projects over $1M . Statistics includes :
+9. The [House of Commons questions](https://large-government-of-canada-it-projects.github.io) from June 2016 and May 2019 regarding ongoing or planned IT projects over $1M .
+Statistics includes :
     - Of the 94 projects that contain sufficient data to compare schedules: 9% are on schedule, 4% are ahead of schedule, and 87% are behind schedule
     - Of the 97 projects that contain sufficient data to compare budgets: 26% are within 10% original estimates, 28% are between 10% and 50% above their original estimates, 28% are above 50% of their original estimates, and 19% are below 10% of their original estimates.
 
 In the House of Commons questions data, ESDC has 52 projects listed but only 6 of them have sufficient data to compare either their schedule or budget estimates: 5 are behind schedule, and 5 are over budget.
 
-The [2019-2020 February (P11) Monthly Project and Programme Investment Portfolio Dashboard](http://dialogue/grp/IPPST/Financials%20Limited%20Access/Monthly%20Project%20Portfolio%20Dashboard%20-%20January%202019-2020%20(P10).xlsx) of ESDC's EPMO  lists 53 active projects. 45% of them are deemed healthy (green), 19% are deemed of concerns (yellow), and 34% are unhealthy (red). Looking deeper, it's worth noting the following:
+The [2019-2020 February (P11) Monthly Project and Programme Investment Portfolio Dashboard](http://dialogue/grp/IPPST/Financials%20Limited%20Access/Monthly%20Project%20Portfolio%20Dashboard%20-%20January%202019-2020%20(P10).xlsx) of ESDC's EPMO  lists 53 active projects.
+45% of them are deemed healthy (green), 19% are deemed of concerns (yellow), and 34% are unhealthy (red).
+Looking deeper, it's worth noting the following:
     - that 38 of the 53 active projects are in the Execution stage and that 55% of them are either of concerns (yellow) or unhealthy (red)
     - that, generally, the IITB component of those ESDC projects are healthier than the overall Departmental project umbrella
 
-IITB’s [BPMO Project Portfolio dashboard](http://dialogue/grp/ITPM-GPTI/PPDMLibrary/BRM-RPT-PDM-ProjectPortfolioDashboard20200217.xlsm) also tracks lite projects, branch initiatives, and A-based investments (smaller in size than the ones tracked by the EPMO). The February 2020 statistics show a total of 26 active projects of this category. 69% of them are deemed healthy (green), 15% are deemed of concerns (yellow), and 15% are deemed unhealthy (red).
+IITB’s [BPMO Project Portfolio dashboard](http://dialogue/grp/ITPM-GPTI/PPDMLibrary/BRM-RPT-PDM-ProjectPortfolioDashboard20200217.xlsm) also tracks lite projects, branch initiatives, and A-based investments (smaller in size than the ones tracked by the EPMO).
+The February 2020 statistics show a total of 26 active projects of this category.
+69% of them are deemed healthy (green), 15% are deemed of concerns (yellow), and 15% are deemed unhealthy (red).
 
-IITB has made efforts to modernize its management of technology, as is showcased in the [IITB News Kudo's Corner](http://esdc.prv/en/iitb/corporate/news/archives.shtml) and its [IITB Way Forward plan](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx). However, ESDC's relationship with technology spans beyond IITB’s influence.
+IITB has made efforts to modernize its management of technology, as is showcased in the [IITB News Kudo's Corner](http://esdc.prv/en/iitb/corporate/news/archives.shtml) and its [IITB Way Forward plan](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx).
+However, ESDC's relationship with technology spans beyond IITB’s influence.
 
-Moving ESDC towards being an agile organization requires moving towards a model that enables smaller, more frequent software deployments. To make more frequent software deployments requires revisiting software development and management practices as a whole.
+Moving ESDC towards being an agile organization requires moving towards a model that enables smaller, more frequent software deployments.
+To make more frequent software deployments requires revisiting software development and management practices as a whole.
 
 ## Appendix B - Traceability Matrix
 
@@ -627,6 +669,7 @@ The following traceability matrix is used to show alignment with various strateg
   <td>
   <a href="https://sara-sabr.github.io/ITStrategy/strategy-summary.html">Strategy Map</a>/Lean Architecture<br>
 <a href="https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html">GC Digital Standards</a>/iterate and improve frequently<br>
+<a href="https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards">GC Architecture Standards</a>/Information Architecture<br>
 <a href="https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards">GC Architecture Standards</a>/Application Architecture<br>
 <a href="https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards">GC Architecture Standards</a>/Security Architecture & Privacy<br>
 <a href="https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html">GC DOSP</a>/Chapter 3.2 Any-platform, any-device<br>
@@ -699,27 +742,48 @@ A copy of the Office 365 version is [available here]({{ site.baseurl }}/assets/f
 
 Centralized version control systems are based on the idea that there is a single “central” copy of a software project somewhere (most likely on a server), and developers make code changes directly on this central copy.
 
-A decentralized version control system (DVCS) do not necessarily rely on a central server to store all the versions of a software project's files. Instead, every developer “clones” a copy of a repository and has the full history of the project on their own hard drive. This copy (or “clone”) has all of the metadata of the original. In a DVCS, developers typically will make code changes on their local copy, test them on their local copy, and “push” them to a central server containing the “master” copy the software project is intended to use.
+A decentralized version control system (DVCS) do not necessarily rely on a central server to store all the versions of a software project's files.
+Instead, every developer “clones” a copy of a repository and has the full history of the project on their own hard drive.
+This copy (or “clone”) has all of the metadata of the original.
+In a DVCS, developers typically will make code changes on their local copy, test them on their local copy, and “push” them to a central server containing the “master” copy the software project is intended to use.
 
 The three most popular DVCS are Mercurial, Git, and Bazaar.
 
+ESDC will be using Git to favour interoperability between source code repositories and accept that the market has moved towards git-based source code repositories.
+
 **Development Value Stream**
 
-The series of steps *and people who develop* that ESDC uses to implement IT Solutions enabling the enterprise to carry out its business operations. The people a development value stream uses are a set of DevOps teams.
+The series of steps *and people who develop* that ESDC uses to implement IT Solutions enabling the enterprise to carry out its business operations.
+The people a development value stream uses are a set of DevOps teams.
 
 Organizing portfolios around development value streams enables visualizing the flow of work to produce solution, reduces handoffs and delays, allows faster learning and shorter time to market, supports leaner development and budgeting methods.
 
+**IT Solution**
+
+An IT solution is a combination of one or more IT Products.
+It produces the environment within which end-users operates.
+
+![How IT Solutions, IT Products, software, and infrastructure relate to each other](itsolution-itproduct-model.png)
+
 **IT Product**
 
-A software application as defined by the Application Portfolio Management (APM) program. This  software application may be constructed by other piece of softwares (COTS, Open Source, custom built) however we understand the scope of an IT Product as the one defined by the APM program.
+The combination of software, infrastructure, and their configuration.
+An IT Product is akin to an “application” as defined by the [Application Portfolio Management (APM)](https://www.gcpedia.gc.ca/wiki/OCIO_Application_Portfolio_Management) program.
+An IT Product may have one or many software (e.g. COTS, Open Source libraries, Open Source Software, Custom build software).
+Each of those software are deployed in one or many infrastructure (on premise, on the public cloud, or a combination of the two making it a hybrid deployment).
 
-A “working IT Product” is a version of the IT Product which allows DevOps teams to collect the maximum amount of validated learning about clients with the least effort. A working IT Product must be able to be used by end-users and provide DevOps teams with observation of end-users behaviours.
+A “working IT Product” is a version of the IT Product which allows DevOps teams to collect the maximum amount of validated learning about clients with the least effort.
+A working IT Product must be able to be used by end-users and provide DevOps teams with observation of end-users behaviours.
 
-For the scope of this Strategy, Operating Systems are NOT defined as IT products. Therefore should an IT Product depend on an Operating System to run in production, it is compliance with this Guiding Policy.
+For the scope of this Strategy, Operating Systems are NOT defined as IT products.
+Therefore should an IT Product depend on an Operating System to run in production, it is compliance with this Guiding Policy.
+
+![How IT Solutions, IT Products, software, and infrastructure relate to each other](itsolution-itproduct-model.png)
 
 **IT Project**
 
-A temporary endeavour undertaken to create a unique technology product, service, or result. The temporary nature of IT projects indicates that an IT project has a definite beginning and end.
+A temporary endeavour undertaken to create a unique technology product, service, or result.
+The temporary nature of IT projects indicates that an IT project has a definite beginning and end.
 
 This definition is a modified version for the [ESDC’s Directive on Project Management](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Directive%20on%20Project%20Management.pdf) to include the IT aspect.
 
@@ -729,7 +793,8 @@ A person who represents the business or user community and is responsible for wo
 
 **IT Product Manager**
 
-A person who manages the evolution of the IT product based on the IT Product Owner's features lists, IT Product's technical stack maintenance, and managing the rollout of new features. The IT Product manager prioritizes the work for the DevOps team, phases solution delivery to reduce impact to end-users, and manages changes by coordinating with the IT Product Owner.
+A person who manages the evolution of the IT product based on the IT Product Owner's features lists, IT Product's technical stack maintenance, and managing the rollout of new features.
+The IT Product manager prioritizes the work for the DevOps team, phases solution delivery to reduce impact to end-users, and manages changes by coordinating with the IT Product Owner.
 
 **Conventional IT Solution Delivery Model**
 
@@ -737,15 +802,17 @@ For this Strategy, we define the conventional IT Solution Delivery Model as the 
 
 The conventional model follows the PMLC gated process and favours advanced planning, rigid plan execution based on committed scope, timeline, and costs, and will report on those commitments to determine the health of the IT project.
 
-In the conventional model, IT Teams are organized by functions and expecting hand-offs of work throughout the development chain to perform their functional tasks. These work hand-offs are scoped by the team's functions, not the project's overall outcome.
+In the conventional model, IT Teams are organized by functions and expecting hand-offs of work throughout the development chain to perform their functional tasks.
+These work hand-offs are scoped by the team's functions, not the project's overall outcome.
 
-In the conventional model, the Business Realization is expected to be realized as the IT Project closes and the business operations are changed with the new set of capabilities provided by the IT Project. The Business Realization plan expects the business owner to monitor and report discrepancies between planned and actual benefits. Discrepancies are handled by change requirements or new projects.
-
-Example of a use case:
+In the conventional model, the Business Realization is expected to be realized as the IT Project closes and the business operations are changed with the new set of capabilities provided by the IT Project.
+The Business Realization plan expects the business owner to monitor and report discrepancies between planned and actual benefits.
+Discrepancies are handled by change requirements or new projects.
 
 **Target IT Solution Delivery Model**
 
-The Target IT Solution Delivery Model has the same objective as the conventional one: deliver business value for money and reducing the risk with the use of technology. Contrary to the conventional model, it will do so with:
+The Target IT Solution Delivery Model has the same objective as the conventional one: deliver business value for money and reducing the risk with the use of technology.
+Contrary to the conventional model, it will do so with:
 
 - Limiting the size of IT Projects
 - Defining IT Project in its entirety as the iteration step towards an organizational business goal
@@ -753,17 +820,21 @@ The Target IT Solution Delivery Model has the same objective as the conventional
 - Favouring DevOps mentality to improve information flow and accelerate delivery (i.e. using delivery teams as opposed to a series of distributed functional teams)
 - Measuring the business value obtained over time as opposed to strict schedule, cost, and scope estimates
 
-Example of a use case:
-
 **Showback billing model**
 
 Heavily influenced by the [draft Cloud Funding Model](https://dialogue/grp/BU6518687/Strategies%20and%20Governance/Cloud%20Funding%20Model%20-%20New%20Version%204.pptx) from the Cloud CoE.
 
-_Showback_ is a method of showing our clients how much they have spent on what, by who and when, with great details.  When sources of centralized funding are sufficient through a centrally managed cost pool (CMCP), this model proves to be the most efficient especially through approved project management processes and governance
+_Showback_ is a method of showing our clients how much they have spent on what, by who and when, with great details.
+When sources of centralized funding are sufficient through a centrally managed cost pool (CMCP), this model proves to be the most efficient especially through approved project management processes and governance
 
-This compared to a _charge back model_: a showback with invoicing.  In other words, it is analogous to cost recovery. That means a chargeback can drive all the same outcomes as a showback, but it adds the ability to enforce accountability with real invoices and guide usage behavior through strategic pricing. Funding is also mostly decentralized.
+This compared to a _charge back model_: a showback with invoicing.
+In other words, it is analogous to cost recovery.
+That means a chargeback can drive all the same outcomes as a showback, but it adds the ability to enforce accountability with real invoices and guide usage behavior through strategic pricing.
+Funding is also mostly decentralized.
 
-A showback billing model will require the _provisioning of a CMCP for IT Products to use_. This Strategy focuses on reporting value over time as opposed to strict cost estimate adherence. In this strategy, it is expected to have IITB and CFOB work together for during the following actions (listed in section 3. Coherent set of actions):
+A showback billing model will require the _provisioning of a CMCP for IT Products to use_.
+This Strategy focuses on reporting value over time as opposed to strict cost estimate adherence.
+In this strategy, it is expected to have IITB and CFOB work together for during the following actions (listed in section 3. Coherent set of actions):
 
 - Investigate alternative funding models
 - Officialise approach to track efforts and financials
