@@ -74,13 +74,16 @@ More specifically, stakeholders involved in defining the rules for building, del
 This includes both IITB and non-IITB stakeholders (such as from CFOB, IAERMB, and SSC).
 The list of stakeholders are listed in section [Coherent set of actions](#coherent-set-of-actions) and are expected to participate in the execution stage of this strategy necessary to operationalize the Guiding Policy.
 
-The **Guiding Policy**, once operationalized, will target stakeholders involved _when_ IT Projects are conceptualized and created, when IT Solutions are architected, and when IT Products are developed, delivered, operationalized, and maintained. All ESDC personnel involved in IT investment decisions are expected to adhere to this policy.
+The **Guiding Policy**, once operationalized, will target stakeholders involved _when_ IT Projects are conceptualized and created, when IT Solutions are architected, and when IT Products are developed, delivered, operationalized, and maintained.
+All ESDC personnel involved in IT investment decisions are expected to adhere to this policy.
 
 ### Business Case
 
 Moving to the digital age requires improving IT's responsiveness and promoting a shared accountability with ESDC stakeholders on the use of technology.
 
-To improve IT's responsiveness, we must find ways to reduce risks associated with its use. This strategy proposes moving ESDC to the point where **same day software deployments** are possible and a common practice. The benefits to frequent small deployments, using automated methods, are expected to reduce risk [^1], reduce technical debt, increase client satisfaction, and increase overall confidence in the department and its staff.
+To improve IT's responsiveness, we must find ways to reduce risks associated with its use.
+This strategy proposes moving ESDC to the point where **same day software deployments** are possible and a common practice.
+The benefits to frequent small deployments, using automated methods, are expected to reduce risk [^1], reduce technical debt, increase client satisfaction, and increase overall confidence in the department and its staff.
 
 This strategy capitalizes on existing IT initiatives (such as the [IITB Way Forward](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx)) and compliments them with new activities.
 
@@ -96,7 +99,8 @@ Each policy statement is a declaration of that decision and has received the end
 This policy becomes active when IT Solutions are to be delivered.
 Once active, all teams involved in the project, and the IT products involved in the IT solution, must comply with this guiding policy.
 
-This Guiding Policy has been prepared by taking into consideration alignment and compliance with existing policy instruments and does not replace them. Stakeholders are expected to still comply with existing policy instruments including, but not limited to:
+This Guiding Policy has been prepared by taking into consideration alignment and compliance with existing policy instruments and does not replace them.
+Stakeholders are expected to still comply with existing policy instruments including, but not limited to:
 
 - ESDC [Policy on Project and Programme Management (PPPM)](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Policy%20on%20Project%20and%20Programme%20Management.pdf)
 - ESDC [Directive on Programme Management](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Directive%20On%20Programme%20Management.pdf)
@@ -568,15 +572,24 @@ The metrics are defined as follows:
 
 ## Appendix A - Business Case (Diagnostic)
 
-As explain in our [ESDC IT Strategy overview](https://sara-sabr.github.io/ITStrategy/esdc-it-strategy.html), the digital world is highly complex and uncertain. The [Policy on service and digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603), reflecting citizen's expectations requires ESDC to review services delivered to clients periodically. With the ubiquitous nature of technology, any changes to ESDC services will require implicating IT teams.
+As explain in our [ESDC IT Strategy overview](https://sara-sabr.github.io/ITStrategy/esdc-it-strategy.html), the digital world is highly complex and uncertain.
+The [Policy on service and digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603), reflecting citizen's expectations requires ESDC to review services delivered to clients periodically.
+With the ubiquitous nature of technology, any changes to ESDC services will require implicating IT teams.
 
-The [GC Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html) form the foundation of the government's shift to becoming more agile, open, and user-focused. At the same time, the [Directive on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601) requires departments to align to the [GC Architecture Standards](https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards) by means of its [mandatory procedures for Enterprise Architecture Assessment](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602). This creates a conundrum for organizations: **“How do we reconcile the requirement of being agile with the one of thinking Enterprise”?**
+The [GC Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html) form the foundation of the government's shift to becoming more agile, open, and user-focused.
+At the same time, the [Directive on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601) requires departments to align to the [GC Architecture Standards](https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards) by means of its [mandatory procedures for Enterprise Architecture Assessment](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602).
+This creates a conundrum for organizations: **“How do we reconcile the requirement of being agile with the one of thinking Enterprise”?**
 
 This strategy looks at solving this challenge.
 
-The use of technology is costly and risky. The conventional methods of delivering IT solutions seeks to reduce those costs and risks with advance planning and rigid plan execution. This may work when the future is predictable, but not when it is complex and uncertain.
+The use of technology is costly and risky.
+The conventional methods of delivering IT solutions seeks to reduce those costs and risks with advance planning and rigid plan execution.
+This may work when the future is predictable, but not when it is complex and uncertain.
 
-This complexity and uncertainty warrants organizations to move towards a more empirical cycle of trying, observing, and correcting. It is not just the execution phase of a project that needs to be ”agile”, it's the project's scope itself. The IT Project is the iteration step the organization is looking for as a means to become agile. This requires reviewing the relationship ESDC has with the use of technology and the interactions between IT teams.
+This complexity and uncertainty warrants organizations to move towards a more empirical cycle of trying, observing, and correcting.
+It is not just the execution phase of a project that needs to be ”agile”, it's the project's scope itself.
+The IT Project is the iteration step the organization is looking for as a means to become agile.
+This requires reviewing the relationship ESDC has with the use of technology and the interactions between IT teams.
 
 This reality around the need to reduce risks and revisit the relationship stakeholders have with technology, is well explained in:
 
@@ -588,21 +601,28 @@ This reality around the need to reduce risks and revisit the relationship stakeh
 6. [Report 5 of the 2015 Spring Auditor General report](https://www.oag-bvg.gc.ca/internet/English/parl_oag_201504_05_e_40351.html) on Information Technology Investments by the Canadian Border Services Agency
 7. [Report 1 of the 2018 Spring Auditor General report](https://www.oag-bvg.gc.ca/internet/English/parl_oag_201805_01_e_43033.html) on Building and Implementing the Phoenix Pay System
 8. The [Standish Group 2003-2013 study](https://18f.gsa.gov/2019/04/09/why-we-love-modular-contracting/) of 3,555 projects with labour costs of at least $10 million USD showed that 6.4% were successful, 52% over budget, behind schedule, or did not meet user expectations, and 41.4% failed .
-9. The [House of Commons questions](https://large-government-of-canada-it-projects.github.io) from June 2016 and May 2019 regarding ongoing or planned IT projects over $1M . Statistics includes :
+9. The [House of Commons questions](https://large-government-of-canada-it-projects.github.io) from June 2016 and May 2019 regarding ongoing or planned IT projects over $1M .
+Statistics includes :
     - Of the 94 projects that contain sufficient data to compare schedules: 9% are on schedule, 4% are ahead of schedule, and 87% are behind schedule
     - Of the 97 projects that contain sufficient data to compare budgets: 26% are within 10% original estimates, 28% are between 10% and 50% above their original estimates, 28% are above 50% of their original estimates, and 19% are below 10% of their original estimates.
 
 In the House of Commons questions data, ESDC has 52 projects listed but only 6 of them have sufficient data to compare either their schedule or budget estimates: 5 are behind schedule, and 5 are over budget.
 
-The [2019-2020 February (P11) Monthly Project and Programme Investment Portfolio Dashboard](http://dialogue/grp/IPPST/Financials%20Limited%20Access/Monthly%20Project%20Portfolio%20Dashboard%20-%20January%202019-2020%20(P10).xlsx) of ESDC's EPMO  lists 53 active projects. 45% of them are deemed healthy (green), 19% are deemed of concerns (yellow), and 34% are unhealthy (red). Looking deeper, it's worth noting the following:
+The [2019-2020 February (P11) Monthly Project and Programme Investment Portfolio Dashboard](http://dialogue/grp/IPPST/Financials%20Limited%20Access/Monthly%20Project%20Portfolio%20Dashboard%20-%20January%202019-2020%20(P10).xlsx) of ESDC's EPMO  lists 53 active projects.
+45% of them are deemed healthy (green), 19% are deemed of concerns (yellow), and 34% are unhealthy (red).
+Looking deeper, it's worth noting the following:
     - that 38 of the 53 active projects are in the Execution stage and that 55% of them are either of concerns (yellow) or unhealthy (red)
     - that, generally, the IITB component of those ESDC projects are healthier than the overall Departmental project umbrella
 
-IITB’s [BPMO Project Portfolio dashboard](http://dialogue/grp/ITPM-GPTI/PPDMLibrary/BRM-RPT-PDM-ProjectPortfolioDashboard20200217.xlsm) also tracks lite projects, branch initiatives, and A-based investments (smaller in size than the ones tracked by the EPMO). The February 2020 statistics show a total of 26 active projects of this category. 69% of them are deemed healthy (green), 15% are deemed of concerns (yellow), and 15% are deemed unhealthy (red).
+IITB’s [BPMO Project Portfolio dashboard](http://dialogue/grp/ITPM-GPTI/PPDMLibrary/BRM-RPT-PDM-ProjectPortfolioDashboard20200217.xlsm) also tracks lite projects, branch initiatives, and A-based investments (smaller in size than the ones tracked by the EPMO).
+The February 2020 statistics show a total of 26 active projects of this category.
+69% of them are deemed healthy (green), 15% are deemed of concerns (yellow), and 15% are deemed unhealthy (red).
 
-IITB has made efforts to modernize its management of technology, as is showcased in the [IITB News Kudo's Corner](http://esdc.prv/en/iitb/corporate/news/archives.shtml) and its [IITB Way Forward plan](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx). However, ESDC's relationship with technology spans beyond IITB’s influence.
+IITB has made efforts to modernize its management of technology, as is showcased in the [IITB News Kudo's Corner](http://esdc.prv/en/iitb/corporate/news/archives.shtml) and its [IITB Way Forward plan](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx).
+However, ESDC's relationship with technology spans beyond IITB’s influence.
 
-Moving ESDC towards being an agile organization requires moving towards a model that enables smaller, more frequent software deployments. To make more frequent software deployments requires revisiting software development and management practices as a whole.
+Moving ESDC towards being an agile organization requires moving towards a model that enables smaller, more frequent software deployments.
+To make more frequent software deployments requires revisiting software development and management practices as a whole.
 
 ## Appendix B - Traceability Matrix
 
@@ -722,7 +742,10 @@ A copy of the Office 365 version is [available here]({{ site.baseurl }}/assets/f
 
 Centralized version control systems are based on the idea that there is a single “central” copy of a software project somewhere (most likely on a server), and developers make code changes directly on this central copy.
 
-A decentralized version control system (DVCS) do not necessarily rely on a central server to store all the versions of a software project's files. Instead, every developer “clones” a copy of a repository and has the full history of the project on their own hard drive. This copy (or “clone”) has all of the metadata of the original. In a DVCS, developers typically will make code changes on their local copy, test them on their local copy, and “push” them to a central server containing the “master” copy the software project is intended to use.
+A decentralized version control system (DVCS) do not necessarily rely on a central server to store all the versions of a software project's files.
+Instead, every developer “clones” a copy of a repository and has the full history of the project on their own hard drive.
+This copy (or “clone”) has all of the metadata of the original.
+In a DVCS, developers typically will make code changes on their local copy, test them on their local copy, and “push” them to a central server containing the “master” copy the software project is intended to use.
 
 The three most popular DVCS are Mercurial, Git, and Bazaar.
 
@@ -730,29 +753,37 @@ ESDC will be using Git to favour interoperability between source code repositori
 
 **Development Value Stream**
 
-The series of steps *and people who develop* that ESDC uses to implement IT Solutions enabling the enterprise to carry out its business operations. The people a development value stream uses are a set of DevOps teams.
+The series of steps *and people who develop* that ESDC uses to implement IT Solutions enabling the enterprise to carry out its business operations.
+The people a development value stream uses are a set of DevOps teams.
 
 Organizing portfolios around development value streams enables visualizing the flow of work to produce solution, reduces handoffs and delays, allows faster learning and shorter time to market, supports leaner development and budgeting methods.
 
 **IT Solution**
 
-An IT solution is a combination of one or more IT Products. It produces the environment within which end-users operates.
+An IT solution is a combination of one or more IT Products.
+It produces the environment within which end-users operates.
 
 ![How IT Solutions, IT Products, software, and infrastructure relate to each other](itsolution-itproduct-model.png)
 
 **IT Product**
 
-The combination of software, infrastructure, and their configuration. An IT Product is akin to an “application” as defined by the [Application Portfolio Management (APM)](https://www.gcpedia.gc.ca/wiki/OCIO_Application_Portfolio_Management) program. An IT Product may have one or many software (e.g. COTS, Open Source libraries, Open Source Software, Custom build software). Each of those software are deployed in one or many infrastructure (on premise, on the public cloud, or a combination of the two making it a hybrid deployment).
+The combination of software, infrastructure, and their configuration.
+An IT Product is akin to an “application” as defined by the [Application Portfolio Management (APM)](https://www.gcpedia.gc.ca/wiki/OCIO_Application_Portfolio_Management) program.
+An IT Product may have one or many software (e.g. COTS, Open Source libraries, Open Source Software, Custom build software).
+Each of those software are deployed in one or many infrastructure (on premise, on the public cloud, or a combination of the two making it a hybrid deployment).
 
-A “working IT Product” is a version of the IT Product which allows DevOps teams to collect the maximum amount of validated learning about clients with the least effort. A working IT Product must be able to be used by end-users and provide DevOps teams with observation of end-users behaviours.
+A “working IT Product” is a version of the IT Product which allows DevOps teams to collect the maximum amount of validated learning about clients with the least effort.
+A working IT Product must be able to be used by end-users and provide DevOps teams with observation of end-users behaviours.
 
-For the scope of this Strategy, Operating Systems are NOT defined as IT products. Therefore should an IT Product depend on an Operating System to run in production, it is compliance with this Guiding Policy.
+For the scope of this Strategy, Operating Systems are NOT defined as IT products.
+Therefore should an IT Product depend on an Operating System to run in production, it is compliance with this Guiding Policy.
 
 ![How IT Solutions, IT Products, software, and infrastructure relate to each other](itsolution-itproduct-model.png)
 
 **IT Project**
 
-A temporary endeavour undertaken to create a unique technology product, service, or result. The temporary nature of IT projects indicates that an IT project has a definite beginning and end.
+A temporary endeavour undertaken to create a unique technology product, service, or result.
+The temporary nature of IT projects indicates that an IT project has a definite beginning and end.
 
 This definition is a modified version for the [ESDC’s Directive on Project Management](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Directive%20on%20Project%20Management.pdf) to include the IT aspect.
 
@@ -762,7 +793,8 @@ A person who represents the business or user community and is responsible for wo
 
 **IT Product Manager**
 
-A person who manages the evolution of the IT product based on the IT Product Owner's features lists, IT Product's technical stack maintenance, and managing the rollout of new features. The IT Product manager prioritizes the work for the DevOps team, phases solution delivery to reduce impact to end-users, and manages changes by coordinating with the IT Product Owner.
+A person who manages the evolution of the IT product based on the IT Product Owner's features lists, IT Product's technical stack maintenance, and managing the rollout of new features.
+The IT Product manager prioritizes the work for the DevOps team, phases solution delivery to reduce impact to end-users, and manages changes by coordinating with the IT Product Owner.
 
 **Conventional IT Solution Delivery Model**
 
@@ -770,13 +802,17 @@ For this Strategy, we define the conventional IT Solution Delivery Model as the 
 
 The conventional model follows the PMLC gated process and favours advanced planning, rigid plan execution based on committed scope, timeline, and costs, and will report on those commitments to determine the health of the IT project.
 
-In the conventional model, IT Teams are organized by functions and expecting hand-offs of work throughout the development chain to perform their functional tasks. These work hand-offs are scoped by the team's functions, not the project's overall outcome.
+In the conventional model, IT Teams are organized by functions and expecting hand-offs of work throughout the development chain to perform their functional tasks.
+These work hand-offs are scoped by the team's functions, not the project's overall outcome.
 
-In the conventional model, the Business Realization is expected to be realized as the IT Project closes and the business operations are changed with the new set of capabilities provided by the IT Project. The Business Realization plan expects the business owner to monitor and report discrepancies between planned and actual benefits. Discrepancies are handled by change requirements or new projects.
+In the conventional model, the Business Realization is expected to be realized as the IT Project closes and the business operations are changed with the new set of capabilities provided by the IT Project.
+The Business Realization plan expects the business owner to monitor and report discrepancies between planned and actual benefits.
+Discrepancies are handled by change requirements or new projects.
 
 **Target IT Solution Delivery Model**
 
-The Target IT Solution Delivery Model has the same objective as the conventional one: deliver business value for money and reducing the risk with the use of technology. Contrary to the conventional model, it will do so with:
+The Target IT Solution Delivery Model has the same objective as the conventional one: deliver business value for money and reducing the risk with the use of technology.
+Contrary to the conventional model, it will do so with:
 
 - Limiting the size of IT Projects
 - Defining IT Project in its entirety as the iteration step towards an organizational business goal
@@ -788,11 +824,17 @@ The Target IT Solution Delivery Model has the same objective as the conventional
 
 Heavily influenced by the [draft Cloud Funding Model](https://dialogue/grp/BU6518687/Strategies%20and%20Governance/Cloud%20Funding%20Model%20-%20New%20Version%204.pptx) from the Cloud CoE.
 
-_Showback_ is a method of showing our clients how much they have spent on what, by who and when, with great details.  When sources of centralized funding are sufficient through a centrally managed cost pool (CMCP), this model proves to be the most efficient especially through approved project management processes and governance
+_Showback_ is a method of showing our clients how much they have spent on what, by who and when, with great details.
+When sources of centralized funding are sufficient through a centrally managed cost pool (CMCP), this model proves to be the most efficient especially through approved project management processes and governance
 
-This compared to a _charge back model_: a showback with invoicing.  In other words, it is analogous to cost recovery. That means a chargeback can drive all the same outcomes as a showback, but it adds the ability to enforce accountability with real invoices and guide usage behavior through strategic pricing. Funding is also mostly decentralized.
+This compared to a _charge back model_: a showback with invoicing.
+In other words, it is analogous to cost recovery.
+That means a chargeback can drive all the same outcomes as a showback, but it adds the ability to enforce accountability with real invoices and guide usage behavior through strategic pricing.
+Funding is also mostly decentralized.
 
-A showback billing model will require the _provisioning of a CMCP for IT Products to use_. This Strategy focuses on reporting value over time as opposed to strict cost estimate adherence. In this strategy, it is expected to have IITB and CFOB work together for during the following actions (listed in section 3. Coherent set of actions):
+A showback billing model will require the _provisioning of a CMCP for IT Products to use_.
+This Strategy focuses on reporting value over time as opposed to strict cost estimate adherence.
+In this strategy, it is expected to have IITB and CFOB work together for during the following actions (listed in section 3. Coherent set of actions):
 
 - Investigate alternative funding models
 - Officialise approach to track efforts and financials
