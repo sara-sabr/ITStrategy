@@ -94,7 +94,7 @@ How to manage and keep track of such cross-project work?
 
 If a given project requires a given competency, then that competency should exist within the team.
 As a result, if data science is a competency that is required for a given value stream to deliver value to its users, then data science capabilities should be embedded within the team.
-As an interim step, the technologies needed for the team's competencies should be made available through internal access  such that the team is able to manage the software required to deliver the data analysis capabilities they need.
+As an interim step, the technologies needed for the team's competencies should be made available internally accessible so that the team is able to manage the software required to deliver the data analysis capabilities they need.
 In the case of a large monolithic piece software (which is undesirable), this could be accomplished by someone within the team having access to the required tooling in order to generate the analysis required.
 Conversely, all data should be exposed through endpoints, allowing those with access to query (or update) the information needed through automation.
 In neither case is there a team who is the gatekeeper to a given software, skillset, or dataset.
