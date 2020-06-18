@@ -155,7 +155,9 @@ This leads to the following unintentional consequences:
 
 - Mandate a size limit to IT Projects, as a means to accelerate the [business realization](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Directive%20on%20Benefits%20Management.pdf) and treat IT Projects as the iteration step for an agile organization
 - Leveraging [Programme Management](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Directive%20On%20Programme%20Management.pdf) to segment large ambitions into smaller, more manageable IT Projects.
-- Deploy pre-defined DevOps teams to IT Projects, not assembling individuals into a temporary project team and dismantling them when the project ends. DevOps teams are expected to have all the competencies to develop, secure, and operate an IT Product. DevOps team have a pre-defined cost (e.g. $1.2M/team) making forecasting IT Projects easier (see problem statement \#3.4).
+- Deploy pre-defined DevOps teams to IT Projects, not assembling individuals into a temporary project team and dismantling them when the project ends.
+DevOps teams are expected to have all the competencies to develop, secure, and operate an IT Product.
+DevOps team have a pre-defined cost (e.g. $1.2M/team) making forecasting IT Projects easier (see problem statement \#3.4).
 - Definition and implementation of a new Agile governance framework that is build to welcome change and promote more autonomy to teams
 - Simplify IT project reporting to focus on value over time (development value stream KPI), less on original estimates adherence
 - Budget IT Products in order for small improvement changes to avoid needing projectization
@@ -300,7 +302,8 @@ A software is not a physical asset, like a building, that remains fixed over tim
 A software evolves through technical stack changes, security vulnerabilities, and end-user feedbacks.
 Some changes may be considered run activities (e.g. software patching) but most are considered additions (e.g. end-user feedbacks behaviours, architecture changes for increased performance and interoperability, new technical stacks to upkeep technical expertise).
 
-Some of those changes require IT Projects to be initiated. As stated in \#3.2, those unattractive but necessary IT changes will compete with feature-rich business projects for attention.
+Some of those changes require IT Projects to be initiated.
+As stated in \#3.2, those unattractive but necessary IT changes will compete with feature-rich business projects for attention.
 
 #### 3.9.2. How the strategy intends to solve the problem <!-- omit in toc -->
 
