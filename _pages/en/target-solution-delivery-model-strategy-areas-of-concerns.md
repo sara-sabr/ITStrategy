@@ -48,10 +48,9 @@ This document will be updated throughout the elaboration of the above strategy.
   - [2.6. Approach to IT Capacity planning](#26-approach-to-it-capacity-planning)
   - [2.7. Alignment and Gap analysis with Policy and Directive (Investment & Project Management)](#27-alignment-and-gap-analysis-with-policy-and-directive-investment--project-management)
   - [2.8. Sustainability of skill sets](#28-sustainability-of-skill-sets)
-  - [2.9. Enterprise Resource Planning (ERP) solutions](#29-enterprise-resource-planning-erp-solutions)
-  - [2.10. Risk to project management overhead](#210-risk-to-project-management-overhead)
-  - [2.11. Risk to capability-based planning ability](#211-risk-to-capability-based-planning-ability)
-  - [2.12. Risk to enterprise reference data model and standard compliance](#212-risk-to-enterprise-reference-data-model-and-standard-compliance)
+  - [2.9. Risk to project management overhead](#29-risk-to-project-management-overhead)
+  - [2.10. Risk to capability-based planning ability](#210-risk-to-capability-based-planning-ability)
+  - [2.11. Risk to enterprise reference data model and standard compliance](#211-risk-to-enterprise-reference-data-model-and-standard-compliance)
 - [Appendix A - Archived](#appendix-a---archived)
 
 ## 1. Document Purpose
@@ -290,64 +289,39 @@ As a result of this approach, even if the champion is to leave the team, the tea
 The focus is always to upskill the team, and build upon and improve, their capabilities.
 The focus is not to assign a person to be responsible for a given capability within the team.
 
-### 2.9. Enterprise Resource Planning (ERP) solutions
+### 2.9. Risk to project management overhead
 
 #### 2.9.1. Summary <!-- omit in toc -->
-
-How are ERPs like SAP and PeopleSoft fit in this Target Model? Especially that Lines of Businesses are currently developing and testing the IT Solutions for ERP while the Strategy calls for DevOps teams to do those functions.
-
-#### 2.9.2. Raised by stakeholder(s) <!-- omit in toc -->
-
-- BOSS
-
-#### 2.9.3. What is being done about this concern <!-- omit in toc -->
-
-The strategy's 3. Coherent set of actions / Governance / Produce a Project-exception Eligibility Guidance.
-Expectations of this activity will set criteria for projects seeking to deviate from the model.
-Such criteria may involve vendor-specific requirements due to contracting (e.g. SAP change framework).
-
-There are numerous forms of testing.
-Not all tests are necessarily done by the development teams.
-For example, unit tests, integration tests, or functional tests, should all be implemented by the development teams.
-Blackbox testing necessarily is completed by someone outside of the application development team.
-Further, these principles are intended to be used on legacy systems, though admittedly the toolsets are less readily available.
-The technologies used are specifically not discussed, the principles used are required.
-For example, in existing ERP systems efforts should be made to create feedback loops to the development teams.
-If frameworks are not readily available, investments need be taken to develop these capabilities for legacy systems.
-
-### 2.10. Risk to project management overhead
-
-#### 2.10.1. Summary <!-- omit in toc -->
 
 The strategy looks at limiting the size of projects to Small and below.
 Is it expected that, should an initiative require multiple releases to production and passes the $2.5M threshold, to redo the Project Management Lifecycle for the subsequent releases?
 
 If so, this creates a risk of too much overhead for IT Teams to handle and may result in slowing delivery.
 
-#### 2.10.2. Raised by stakeholder(s) <!-- omit in toc -->
+#### 2.9.2. Raised by stakeholder(s) <!-- omit in toc -->
 
 - BSIM
 
-#### 2.10.3. What is being done about this concern <!-- omit in toc -->
+#### 2.9.3. What is being done about this concern <!-- omit in toc -->
 
 TBD.
 
 Explore multi-gated (3 and 4) PMLC approach.
 
-### 2.11. Risk to capability-based planning ability
+### 2.10. Risk to capability-based planning ability
 
-#### 2.11.1. Summary <!-- omit in toc -->
+#### 2.10.1. Summary <!-- omit in toc -->
 
 There is a risk that smaller investments promote continuing investing in the wrong IT Product and, as such, limit the organization's ability to improve a given capability.
 
 A potential scenario is that what was thought of spending $500k to a legacy product one time, comes up as a series of small investments over the year aggregated to more than $2.5M.
 In hindsight, the organization may have preferred to use that $2.5M towards transitioning to a modern IT Product instead.
 
-#### 2.11.2. Raised by stakeholder(s) <!-- omit in toc -->
+#### 2.10.2. Raised by stakeholder(s) <!-- omit in toc -->
 
 - Enterprise Architecture
 
-#### 2.11.3. What is being done about this concern <!-- omit in toc -->
+#### 2.10.3. What is being done about this concern <!-- omit in toc -->
 
 *Small vs larger investments*
 
@@ -365,19 +339,19 @@ However, when the argument becomes "are we optimally improving this solution" ra
 
 TBD. The current thinking is to improve the organization's monitoring ability by linking investments to the health of capabilities, capturing when such investment reaches a threshold to change course and have resources shifting somewhere else.
 
-### 2.12. Risk to enterprise reference data model and standard compliance
+### 2.11. Risk to enterprise reference data model and standard compliance
 
-#### 2.12.1. Summary <!-- omit in toc -->
+#### 2.11.1. Summary <!-- omit in toc -->
 
 Moving towards a more decentralized and distributed means of decision making presents a risk that incorrect decisions may occur affecting data management across the enterprise.
 The risk involved duplication of data, incoherence to data consumers, and degradation of data quality.
 Over the years, IITB has spent efforts centralizing certain functions to achieve efficiencies and be able to do more with less.
 
-#### 2.12.2. Raised by stakeholder(s) <!-- omit in toc -->
+#### 2.11.2. Raised by stakeholder(s) <!-- omit in toc -->
 
 - DAS
 
-#### 2.12.3. What is being done about this concern <!-- omit in toc -->
+#### 2.11.3. What is being done about this concern <!-- omit in toc -->
 
 TBD. Current thoughts are:
 
@@ -414,3 +388,14 @@ Adding 3. Coherent set of actions / Governance / Produce standard definition of 
 This definition needs endorsements from more than one stakeholder.
     </td>
   </tr>
+  <tr>
+      <td>Enterprise Resource Planning (ERP) solutions</td>
+    <td>
+How are ERP like SAP and PeopleSoft fit in this Target Model? Especially that Lines of Businesses are currently developing and testing the IT Solutions for ERP while the Strategy calls for DevOps teams to do those functions.
+<br><br>
+Raised by BOSS
+<br><br>
+After speaking with the ERP team, they are in fact well under way and aligned with the proposed Model. They are able to do same day software changes already, though rare. They do weekly or bi-weekly changes, have different teams responsible to assure segregation of duties and capabilities (E.g. platform teams vs development team). They have worked, over the years, to obtain a level of autonomy and have demonstrated through their historical track records that this autonomy does not increases risk.
+    </td>
+  </tr>
+</table>
