@@ -1,4 +1,4 @@
-﻿{
+{
   "version": "0.1",
   "language": "fr",
   "words": [
@@ -386,10 +386,29 @@
     "practiced",
     "Odoo",
     "incentivize",
+    "siloes",
+    "situates",
+    "Ssc's",
+    "INET",
+    "incentivize",
+    "versioning",
+    "Po's",
+    "downstream",
+    "tradeoff",
+    "upskill",
+    "ERPs",
+    "Blackbox",
+    "BSIM",
+    "stakeholder's",
+    "analyze",
+    "projectization",
+    "upscale",
     "slideshare"
   ],
   "flagWords": [],
-  "import": ["./node_modules/cspell-dict-fr-fr/cspell-ext.json"],
+  "import": [
+    "./node_modules/cspell-dict-fr-fr/cspell-ext.json"
+  ],
   "dictionaries": [
     "fr-fr",
     "en-gb",
@@ -399,5 +418,7 @@
     "html",
     "css"
   ],
-  "ignoreRegExpList": ["]\\(([^\\)]+)\\)"]
+  "ignoreRegExpList": [
+    "]\\(([^\\)]+)\\)"
+  ]
 }
