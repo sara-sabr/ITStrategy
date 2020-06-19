@@ -716,31 +716,67 @@ by doubling the amount of staff
 
 <div class="container">
 
-<img src="./assets/images/Whitelite-Showcase-Toil.PNG" class="image-large" alt="Plus le travail augmente, plus le besoin en personnel augmente | As work increases; need for staff increases" />
+  <div class="left-half">
 
-[Lien (anglais)](https://www.desmos.com/calculator/w8niq2v1ee) | [Link](https://www.desmos.com/calculator/w8niq2v1ee)
+<img src="./assets/images/Whitelite-Showcase-Toil-fr.png" class="image-medium" alt="Plus le travail augmente, plus le besoin en personnel augmente" />
 
-</div>
-
---
-
-<div class="container">
-
-<img src="./assets/images/Whitelite-Showcase-Toil-worse.PNG" class="image-large" alt="La productivité par personne est réduite à mesure que l'équipe s'agrandit | Productivity per person reduced as team grows" />
-
-[Lien (anglais)](https://www.desmos.com/calculator/w8niq2v1ee) | [Link](https://www.desmos.com/calculator/w8niq2v1ee)
-
-</div>
-
---
-
-<div class="container">
-
-<img src="./assets/images/Whitelite-Showcase-Toil-automated.PNG" class="image-large" alt="L'automatisation réduit le besoin de personnel supplémentaire | Automation reduces need for more staff" />
-
-[Lien (anglais)](https://www.desmos.com/calculator/hugbt6oxdt) | [Link](https://www.desmos.com/calculator/hugbt6oxdt)
+[Lien (anglais)](https://www.desmos.com/calculator/w8niq2v1ee)
 
   </div>
+
+  <div class="right-half">
+
+<img src="./assets/images/Whitelite-Showcase-Toil.PNG" class="image-medium" alt="As work increases; need for staff increases" />
+
+[Link](https://www.desmos.com/calculator/w8niq2v1ee)
+
+  </div>
+
+</div>
+
+--
+
+<div class="container">
+
+  <div class="left-half">
+
+<img src="./assets/images/Whitelite-Showcase-Toil-worse-fr.png" class="image-medium" alt="La productivité par personne est réduite à mesure que l'équipe s'agrandit" />
+
+[Lien (anglais)](https://www.desmos.com/calculator/w8niq2v1ee)
+
+  </div>
+
+  <div class="right-half">
+
+<img src="./assets/images/Whitelite-Showcase-Toil-worse.PNG" class="image-medium" alt="Productivity per person reduced as team grows" />
+
+[Link](https://www.desmos.com/calculator/w8niq2v1ee)
+
+  </div>
+
+</div>
+
+--
+
+<div class="container">
+
+  <div class="left-half">
+
+<img src="./assets/images/Whitelite-Showcase-Toil-automated.PNG" class="image-medium" alt="L'automatisation réduit le besoin de personnel supplémentaire" />
+
+[Lien (anglais)](https://www.desmos.com/calculator/hugbt6oxdt)
+
+  </div>
+
+  <div class="right-half">
+
+<img src="./assets/images/Whitelite-Showcase-Toil-automated.PNG" class="image-medium" alt="Automation reduces need for more staff" />
+
+[Link](https://www.desmos.com/calculator/hugbt6oxdt)
+
+  </div>
+
+</div>
 
 --
 
@@ -768,19 +804,19 @@ by doubling the amount of staff
 
 #### Pourquoi me soucier du labeur?
 
+<img src="./assets/images/Whitelite-Showcase-Toil-problem-fr.png" class="image-medium" alt="Ceux qui automatisent surchargent ceux qui ne le font pas" />
+
+[Lien (anglais)](https://www.desmos.com/calculator/kvubrihz0h)
+
   </div>
 
   <div class="right-half">
 
 #### Why do I care about toil?
 
-  </div>
+<img src="./assets/images/Whitelite-Showcase-Toil-problem.PNG" class="image-medium" alt="Those who automate overload those who do not" />
 
-  <div class="shared-content-thin">
-
-<img src="./assets/images/Whitelite-Showcase-Toil-problem.PNG" class="image-large" alt="Ceux qui automatisent surchargent ceux qui ne le font pas | Those who automate overload those who do not" />
-
-[Lien (anglais)](https://www.desmos.com/calculator/kvubrihz0h) | [Link](https://www.desmos.com/calculator/kvubrihz0h)
+[Lien (anglais)](https://www.desmos.com/calculator/kvubrihz0h)
 
   </div>
 
