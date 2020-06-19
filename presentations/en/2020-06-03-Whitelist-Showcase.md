@@ -816,7 +816,7 @@ by doubling the amount of staff
 
 <img src="./assets/images/Whitelite-Showcase-Toil-problem.PNG" class="image-medium" alt="Those who automate overload those who do not" />
 
-[Lien (anglais)](https://www.desmos.com/calculator/kvubrihz0h)
+[Link](https://www.desmos.com/calculator/kvubrihz0h)
 
   </div>
 
