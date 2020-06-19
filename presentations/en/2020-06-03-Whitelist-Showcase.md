@@ -547,8 +547,9 @@ Upskill teams & miminize size
 
   </div>
 <div class="shared-content-thin">
-
-<img src="./assets/images/Whitelite-Showcase-HighLevelArch.svg" class="image-x-large" alt="Architecture de haut niveau de la solution | High-level architecture of solution" />
+<a href="https://raw.githubusercontent.com/sara-sabr/ITStrategy/master/assets/images/Whitelite-Showcase-HighLevelArch.svg">
+  <img src="./assets/images/Whitelite-Showcase-HighLevelArch.svg" class="image-x-large" alt="Architecture de haut niveau de la solution | High-level architecture of solution" />
+</a>
 
 </div>
 
@@ -572,8 +573,9 @@ Upskill teams & miminize size
 
 <div class="shared-content-thin">
 
-<img src="./assets/images/Whitelite-Showcase-CloudArch.PNG" class="image-x-large" alt="Architecture infonuagique de la solution | Cloud architecture of solution" />
-
+<a href="https://github.com/sara-sabr/ITStrategy/blob/master/assets/images/Whitelite-Showcase-CloudArch.PNG">
+  <img src="./assets/images/Whitelite-Showcase-CloudArch.PNG" class="image-x-large" alt="Architecture infonuagique de la solution | Cloud architecture of solution" />
+</a>
 </div>
 
 </div>
