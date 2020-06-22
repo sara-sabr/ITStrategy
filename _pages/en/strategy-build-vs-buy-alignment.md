@@ -27,7 +27,7 @@ This section outlines how the current approach to the build versus buy question 
 
 #### 1. Design with users
 
-The current big bang approach to project management and procurement requires a waterfall approach where detailed design documents are produced through a long and rigorous analysis process. Said work is produced by various analysts from varying functional and siloed teams. If Canadians are consulted during the process, those responsible for the creation of the software are not able to interface with the people whose problems they are aiming to solve, or potentially do not even have direct access to those who drafted the waterfall requirement documents. 
+The current big bang approach to project management and procurement requires a waterfall approach where detailed design documents are produced through a long and rigorous analysis process. Said work is produced by various analysts from varying functional and siloed teams. If Canadians are consulted during the process, those responsible for the creation of the software are not able to interface with the people whose problems they are aiming to solve, or potentially do not even have direct access to those who drafted the waterfall requirement documents.
 
 #### 2. Iterate and improve frequently
 
@@ -49,7 +49,7 @@ The approach at present outsources work to large contracting companies, able to 
 
 In a Message from the Chief Information Officer of Canada six these themes are outlined which align with this new approach to managing IT acquisition strategies. Two of which, are similar to the above so will be listed though not elaborated upon
 
-#### 1. A service-oriented government with a user-centred 
+#### 1. A service-oriented government with a user-centred
 
 Reference Design with users above in the Digital Standards Alignment
 
@@ -123,7 +123,7 @@ Reference the D9 Charter alignment section on Open Markets. Further, existing so
 
 An agile approach to obtaining software.
 
-Taking an agile approach to software acquisition allows us to redefine the build versus buy dichotomy, better align to direction from TBS and industry best practice, modernize our software procurement process, reduce risk, and deliver high quality digital services to Canadians in less time. In order to promote the shift towards an agile approach to IT service delivery and procurement, this Build versus Buy Strategy will focus on putting a focus on shrinking large and long term purchases related to critical systems required to deliver on our important mandate.  Further, it promotes the reuse of existing solutions, whereby the government can improve existing solutions to meet its needs. Through this approach, both build and buy decisions will be reduced. For the exception cases, which will be bought, fall under a specified subset of common, non-mission critical, internal processes. 
+Taking an agile approach to software acquisition allows us to redefine the build versus buy dichotomy, better align to direction from TBS and industry best practice, modernize our software procurement process, reduce risk, and deliver high quality digital services to Canadians in less time. In order to promote the shift towards an agile approach to IT service delivery and procurement, this Build versus Buy Strategy will focus on putting a focus on shrinking large and long term purchases related to critical systems required to deliver on our important mandate.  Further, it promotes the reuse of existing solutions, whereby the government can improve existing solutions to meet its needs. Through this approach, both build and buy decisions will be reduced. For the exception cases, which will be bought, fall under a specified subset of common, non-mission critical, internal processes.
 
 In summary, the approach outlined in the subsequent section is intended to result in the following:
 
@@ -156,7 +156,7 @@ By working in the open by default, the department places itself in a better posi
 
 #### Empower staff to deliver better services
 
-By shifting buy decisions to the purchasing of software services, rather than technology products themselves, departmental employees should be the ones overseeing the implementation of the project by the vendor's resources. This ensures that the department maintains control over the prioritization of work, in alignment with Government of Canada and departmental priorities, and also ensures the knowledge of the system remains with employees within the Government of Canada, not within the confines of large enterprises who will bill consulting hours to understand how the governments own systems function. This also ensures that if the vendor fails to deliver, they should be interchangeable with a different vendor. In order for this to be the case, the Government of Canada employee must have the knowledge required for the continuation of the project. 
+By shifting buy decisions to the purchasing of software services, rather than technology products themselves, departmental employees should be the ones overseeing the implementation of the project by the vendor's resources. This ensures that the department maintains control over the prioritization of work, in alignment with Government of Canada and departmental priorities, and also ensures the knowledge of the system remains with employees within the Government of Canada, not within the confines of large enterprises who will bill consulting hours to understand how the governments own systems function. This also ensures that if the vendor fails to deliver, they should be interchangeable with a different vendor. In order for this to be the case, the Government of Canada employee must have the knowledge required for the continuation of the project.
 
 ### Digital Operations Strategic Plan
 
@@ -178,7 +178,7 @@ Many frequently used established vendors are familiar working in the dated water
 
 #### Good digital governance
 
-In Chapter 6: Good Digital Governance under 6.2 Management of digital investments and results the DOSP reads, “Strong product and project oversight and government-as-a-whole performance measurement help ensure that the digital government vision is integrated into departmental programs, services and operations. Likewise, performance measurement is essential to organizational learning and development as well as good governance, and supports proper stewardship, public accountability and transparency. It is an iterative process that must be repeated regularly.” 
+In Chapter 6: Good Digital Governance under 6.2 Management of digital investments and results the DOSP reads, “Strong product and project oversight and government-as-a-whole performance measurement help ensure that the digital government vision is integrated into departmental programs, services and operations. Likewise, performance measurement is essential to organizational learning and development as well as good governance, and supports proper stewardship, public accountability and transparency. It is an iterative process that must be repeated regularly.”
 
 - Proper stewardship
 
@@ -190,7 +190,7 @@ In alignment with Canada’s 2018-2020 National Action Plan on Open Government i
 
 For further discussion, Refer to the Digital Standards sections on Working in the open by default and Open standards and solutions
 
-- Iterative process 
+- Iterative process
 
 Please reference the Digital Standards section on Iterate and improve frequently.
 
@@ -230,7 +230,7 @@ Refer to the Digital Operations Strategic Plan section on Public accountability 
 
 Refer to 10 Digital Standards Design with users section, and the Digital Operations Strategic Plan section on A service-oriented government with a user-centred.
 
-**Requirements**: Open and strategic management of information: Open information and open data 
+**Requirements**: Open and strategic management of information: Open information and open data
 Digital Standards: Use open standards and solutions or Digital Standards: Work in the open by default.
 
 ### Directive on Service and Digital - Appendix A: Mandatory Procedures for Enterprise Architecture Assessment
@@ -253,4 +253,4 @@ Reference the D9 Charter alignment section on Open Markets. Additionally, intero
 
 #### Enable Interoperability
 
-The SOA specification aligns with direction provided here, as SOA necessitates a high degree of interoperability. Benefits of this approach include enforcing loosely coupled architecture which promotes agility, thereby enabling the Government of Canada to iterate and improve frequently. 
+The SOA specification aligns with direction provided here, as SOA necessitates a high degree of interoperability. Benefits of this approach include enforcing loosely coupled architecture which promotes agility, thereby enabling the Government of Canada to iterate and improve frequently.
