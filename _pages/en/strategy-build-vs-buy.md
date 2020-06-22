@@ -1,10 +1,11 @@
 ---
 layout: default
-title: Build versus Buy
+title: "Build versus Buy"
 ref: build-vs-buy
 lang: en
 status: posted
 sections: Strategies
+version: 0.1
 permalink: /strategy-build-vs-buy.html
 ---
 <!-- markdownlint-disable MD033 -->
@@ -24,777 +25,433 @@ th {
 
 ***This is a DRAFT strategy.***
 
-_Note 1: Its authoritative source and latest version of this Strategy is on [ESDC's internal network]()_
+_Note 1: Its authoritative source and latest version of this Strategy will be shared on ESDC's internal network (link upcoming)_
 
 _Note 2: This page will link to internal ESDC documents, which are unfortunately only accessible within ESDC corporate network._
 
-<!-- markdownlint-disable MD001 -->
-##### Table of Content <!-- omit in toc -->
-<!-- markdownlint-enable MD001 -->
-- [Introduction](#introduction)
-  - [Purpose](#purpose)
-  - [Target Audience](#target-audience)
-  - [Business Case](#business-case)
-- [Guiding Policy](#guiding-policy)
-  - [Governance, Compliance, and Reporting](#governance-compliance-and-reporting)
-  - [Finance](#finance)
-  - [Architecture](#architecture)
-  - [Product Management](#product-management)
-  - [DevOps](#devops)
-- [Coherent set of actions](#coherent-set-of-actions)
-- [Measuring the Strategy's success](#measuring-the-strategys-success)
-- [Appendix A - Business Case (Diagnostic)](#appendix-a---business-case-diagnostic)
-- [Appendix B - Traceability Matrix](#appendix-b---traceability-matrix)
-- [Appendix C - References](#appendix-c---references)
-- [Appendix D - Definitions](#appendix-d---definitions)
-- [Appendix E - Acronym List Definition](#appendix-e---acronym-list-definition)
+_Note 3: This version is the preliminary form of the document and will be shortly updated with a reframed scope based on consultations._
 
-## Introduction
+- [About this document](#about-this-document)
+  - [Intended Audience](#intended-audience)
+- [The Strategy](#the-strategy)
+  - [Buy vs Build: oversimplifying solutions architecture](#buy-vs-build-oversimplifying-solutions-architecture)
+    - [Explanation](#explanation)
+    - [Additional considerations](#additional-considerations)
+  - [Buy](#buy)
+    - [Risk Managing the Obtention of Software](#risk-managing-the-obtention-of-software)
+  - [Build](#build)
+    - [Alignment Actions](#alignment-actions)
+      - [1. Build Mandate Related Services](#1-build-mandate-related-services)
+      - [2. Buy software development services over products](#2-buy-software-development-services-over-products)
+      - [3. Use Service Oriented Architecture (SOA)](#3-use-service-oriented-architecture-soa)
+      - [4. Publish as open source](#4-publish-as-open-source)
+      - [5. Minimize the size, cost, and scale of work packages](#5-minimize-the-size-cost-and-scale-of-work-packages)
+  - [Next Steps](#next-steps)
+  - [Strategic Actions (In Progress)](#strategic-actions-in-progress)
+  - [Conclusion](#conclusion)
+- [Alignment](#alignment)
+  - [Digital Standards](#digital-standards)
+  - [Digital Operations Strategic Plan (DOSP)**](#digital-operations-strategic-plan-dosp)
+  - [Digital Nations Charter](#digital-nations-charter)
+  - [Policy on Service and Digital](#policy-on-service-and-digital)
+  - [Directive on Service and Digital - Appendix A: Mandatory Procedures for Enterprise Architecture Assessment](#directive-on-service-and-digital---appendix-a-mandatory-procedures-for-enterprise-architecture-assessment)
+  - [Government of Canada Architectural Standards](#government-of-canada-architectural-standards)
+- [Annex 0: Definitions](#annex-0-definitions)
+  - [Build](#build-1)
+  - [Buy](#buy-1)
+  - [Open Source Software](#open-source-software)
+  - [Open standards](#open-standards)
+  - [Closed COTS](#closed-cots)
+  - [Open COTS](#open-cots)
+- [Annex 1: Context](#annex-1-context)
+  - [Historical Context](#historical-context)
+  - [GC IT Project Analysis](#gc-it-project-analysis)
+    - [GC IT Projects are large](#gc-it-projects-are-large)
+    - [GC IT Projects take a long time to complete](#gc-it-projects-take-a-long-time-to-complete)
+    - [GC IT Projects are frequently completed overtime and or over budget](#gc-it-projects-are-frequently-completed-overtime-and-or-over-budget)
+- [Annex 5: Guidance](#annex-5-guidance)
+  - [Use of Open Source](#use-of-open-source)
+- [References](#references)
 
-### Purpose
+## About this document
 
-To provide IITB with a build versus buy assessment framework.
+The creation of this document was requested by the Director General of Strategy, Architecture and Business Relationships (SABR) within the Innovation, Information and Technology Branch (IITB) within Employment and Social Development Canada (ESDC) to guide future technical software procurement and implementation decisions at the enterprise level.
 
-The strategy includes:
+This strategy focuses on accounting for risk within the build versus buy decision, and emphasizes that solutions are not built nor bought; components are. One must break down a solution into its components through solutions architecture in order for the build versus buy decisions to be made for each component, taking risk of mandate delivery in the decision for each component.
 
-1. A **guiding policy**, which serves to set automatic decisions that defines the build versus buy assessment framework
-2. A **coherent set of actions** (an action plan), which serve to operationalize the build versus buy assessment framework.
+### Intended Audience
 
-The intent behind this strategy is to communicate a decision by the CIO (not yet approved) on a path forward (the Guiding Policy), and what investments are needed to operationalize that decision (the coherent set of actions).
+This document is intended as guidance for the Enterprise Architecture Review Board (EARB).
 
-### Target Audience
+## The Strategy
 
-This **strategy document** is targeted to stakeholders involved in determining whether to build or to buy software components.
-More specifically, stakeholders involved in architecting solutions, defining technology standards, developing, delivering, operationlizing and maintaining IT Solutions (such as Enterprise Architecture, Enterprise Operations, etc.).
-This includes both IITB and non-IITB stakeholders (such as from Business Functions, SSPB, CDO, ISB, IAERMB, and SSC).
-The list of stakeholders are listed in section [Coherent set of actions](#coherent-set-of-actions) and are expected to participate in the execution stage of this strategy necessary to operationalize the Guiding Policy.
+### Buy vs Build: oversimplifying solutions architecture
 
-The **Guiding Policy**, once operationalized, will target stakeholders involved when the need for an IT Solution is raised, when the IT Solution is conceptualized, architected, developed, delivered, operationalized, and maintained.
-All ESDC personnel involved in the exploration of IT Solutions and in IT investment decisions are expected to adhere to this policy.
+Looking for a systemic and overarching approach to buy vs build of solutions at the organizational level means bypassing the whole concept of solution architecture, where the required experts of the organization, both from business lines, finance, security, information technology, etc., come together to figure out the best possible way of accomplishing its mission through leveraging its various resources including people, tools, processes and rules.
 
-### Business Case
+A solution is by default built, whether by a single person, multiple teams or by a third party. As such, the questions to ask are more akin to:
+“What software component(s) are required to enable a given capability?”,
+“For each of those component(s), does one need to purchase a commercial component, adopt an open source one, or build one oneself?”, and
+“How much organizational risk am I willing to delegate to a 3rd party?”.
 
-Moving to the digital age requires improving IT's responsiveness and promoting a shared accountability with ESDC stakeholders on the use of technology.
+In large and complex solutions, these questions shouldn’t be asked at the solution level but for each component of said solution, taking in account multiple factors and criterias that will be explored below.
 
-To improve IT's responsiveness, we must find ways to reduce risks associated with its use.
-This strategy proposes moving ESDC to the point where the complexity of IT Solutions is properly understood and investment decisions are taken with flexibility, interchangeablity, and interoperability in mind throughout the entire lifecycle of an IT Solution, not only at the initial stage.
-The benefits to increase the flexibility and interoperability of IT Solutions architectures as well as interoperability, reusability and scalability of its IT Products are expeted to reduce risk [^1], reduce technical debt over time, increase client satisfaction, and increase overall confidence in the department and its staff.
+The below model explains, in a visual manner, these relationships.
 
-This strategy capitalizes on existing IT initiatives (such as the [IITB Way Forward](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx)) to compliment them by adding attention to them, as well as complimenting them with new activities.
+![An UML diagram representing the hierarchical relation of an IT Solution and its components.]()
 
-This strategy's goal is to define a build versus buy framework, and provide a roadmap in getting to the adoption of this framework.
+#### Explanation
 
-More details in [Annex A](#appendix-a---business-case-diagnostic).
+- An IT Solution is comprised of 1 or many IT component(s)
+- An IT component is comprised of 1 or many Software which can be either a service subscription, an Open Source Software, a 3rd party COTS, or a custom build one
+- A Software is deployed on an infrastructure that can either be on premise (SSC Data Centres), on a public cloud provider’s infrastructure (as a IaaS, PaaS, or SaaS model), or as a hybrid version that combines both on premise and public cloud provider.
 
-## Guiding Policy
+#### Additional considerations
 
-The following policy reflects the decision adopted by the **CIO of ESDC** (approval by CIO not yet obtained) when using [...].
-Each policy statement is a declaration of that decision and has received the endorsement of its associated area of governance body (endorsements not yet obtained, see section [coherent set of actions](#coherent-set-of-actions)).
+- Do we currently have the skill sets within the organisation to design, build and operate this solution?
+- Do we currently have the capacity within the organisation to design, build and operate this solution?
 
-This policy becomes active when IT Solutions are to be delivered.
-Once active, all teams involved in the project, and the IT products involved in the IT solution, must comply with this guiding policy.
+These last questions however do not necessarily mean that the technical questions of a solutions architecture should not be asked subsequently. Any solution designed, developed and delivered by a third party should still be abiding by the same principles solutions built within ESDC so that once the transfer to the operations is completed, the organization maintains a high amount of control and flexibility in maintaining and enhancing the solution while limiting its lock-in situations.
 
-This Guiding Policy has been prepared by taking into consideration alignment and compliance with existing policy instruments and does not replace them. Stakeholders are expected to still comply with existing policy instruments including, but not limited to:
+As such, if the organization is not in a position to design, build and operate the solution itself, the third party putting the solution together for the benefit of ESDC should have clear directives to align with our own architectural principles.
 
-- ESDC [Policy on Project and Programme Management (PPPM)](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Policy%20on%20Project%20and%20Programme%20Management.pdf)
-- ESDC [Directive on Project Management](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Policy%20on%20Project%20and%20Programme%20Management.pdf)
-- ESDC Information Management Policy (being drafted)
-- ESDC [Procurement Policies](http://iservice.prv/eng/finance/purchasing/policy.shtml)
-- ESDC Security Policy (being drafted)
-- TBS [Directive on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601)
-- TBS [Directive on Security Management](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32611)
+### Buy
 
-### Governance, Compliance, and Reporting
+The buy decision should be reserved for when the needs are non-domain specific, repeatable, well-defined, and unlikely to change due to legislative changes.
 
-1. DevOps teams have the authority to make changes to their IT products in production using approved DevOps pipelines
-2. DevOps teams are defined as per the \<IITB standard definition\> (see [Appendix D. Definition](#appendix-d---definitions))
-3. DevOps teams publish their product metrics internally to ESDC. Metrics are comprised of the following:
-      - Accessibility test results
-      - Integration testing results
-      - Security test results
-      - API consumption statistics
-      - Production deployment audit traces
-      - Product's backlog items in scope of the DevOps team's cadence
-      - Product's availability statistics
-4. Security Assessment & Authority (SA&A) uses the Target-SA&A methodology
-5. Accessibility Assessment uses the Target-Accessibility methodology
-6. Audit Assessment uses the Target-Audit methodology
-7. IT Projects allow DevOps teams to collaborate directly with business subject matter experts using a method of their choice
-8. IT Projects release working IT products in production at minimum every 6 months
-9. IT Projects start only when the following is true:
-      - Metrics of business outcomes are defined and approved by ESDC’s Chief Architect
-      - The business sponsor commits the availability of, at minimum, one business subject matter experts throughout the IT Project
-      - The business sponsor commits the availability of, at minimum, one policy expert throughout the IT Project
-      - The business sponsor commits the availability of a sample of end users throughout the IT Project, unless the end users are citizens
-      - IITB identified a single lead responsible for the delivery of the IT Solution and its transition into service operations
-10. IT Projects are assigned to Development Value Streams
-11. IT Projects report on the Development Value Stream's Key Performance Indicators (KPIs)
-12. IT Projects follow the IITB Agile Governance Framework
+During a buy decision, assessment factors should include:
 
-### Finance
+- degree of customization required (significant customization suggests a build decision is more appropriate)
+- exit costs and exit challenges,
+- whether the vendor will agree to the GC Terms and Conditions.
 
-1. IT Projects’ sizes are no greater than Small, as defined by the [Policy on Project and Programme Management (PPPM)](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Policy%20on%20Project%20and%20Programme%20Management.pdf)
-2. IT Project costs includes a budget for IT Products lifecycle management, in addition to their operations
-3. IT Projects do not use cost recovery codes, they fund IT Product cost centres
-4. IT Products use a showback billing model from their own cost centres pool
+The department should not offload its responsibility to Canadians through offloading risk to vendors. Furthermore, through large purchases the government is outsourcing expertise required to deliver on its mandate. Lastly, doing so introduces additional context switches (or handoffs) between organizations, reducing the government's agility to implement its own policy changes, and limits its ability to respond to emergency situations.
 
-### Architecture
+As per the [Directive on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602), when buy decisions are made, they will prioritize Software as a Service (SaaS) over purchases requiring the maintenance of physical, Platform as a Service (PaaS) or Infrastructure as a Service (Iaas). When selecting which cloud services to leverage, the [Government of Canada Right Cloud Selection Guidance](https://www.canada.ca/en/government/system/digital-government/modern-emerging-technologies/cloud-services/government-canada-right-cloud-selection-guidance.html) will be adhered to. Further consideration should be made with respect to the softwares use of Open Source Software (OSS). When considering COTS, the [Software Licencing Supply Arrangement](https://www.tpsgc-pwgsc.gc.ca/app-acq/cral-sarc/lgcl-ctgr-eng.html) will be used. Preference shall be given in the following order[^1] in addition to the aforementioned cloud prioritization:
 
-1. IT Solutions use loose coupling architectures
-2. IT Products do not depend on other products to run in production
-3. IT Products can test, deploy, and make technical changes without dependencies on other product teams
-4. DevOps teams have the authority to choose their IT Products technical stacks, unless the technical stacks are in the retirement or contained categories
-5. IT Products expose their functionality and data via APIs
+1. OSS using open standards
+1. OSS
+1. OSS + Closed COTS using open standards
+1. OSS + Closed COTS - (be aware of lock-in)
+1. Closed COTS using open standards - (be aware of lock-in)
+1. Closed COTS - (be aware of lock-in)
 
-### Product Management
+#### Risk Managing the Obtention of Software
 
-1. IT Products are associated to a capability as defined by the ESDC Business Capability Model
-2. IT Products have a single Product Owner
-3. IT Products are managed by a Product Manager
-4. The Product Owner may also be the Product Manager
-5. DevOps teams are comprised of 9 members maximum
-6. IT Products have their own cost centre codes, funded by the Product Owner or the Project Sponsor
-7. DevOps teams support their IT Products in production and are accountable for their uptime
-8. IT Products backlog items are categories as non-discretionary or discretionary
-9. IT Products discretionary backlog items are prioritized against the portfolio of products within their respective ESDC Business Capability Model
+The Strategy looks at risk managing the obtention of software over following dogmatic rules to purchase or build software (e.g. "SaaS first" does not mean SaaS always, "buy what we can" does not mean buying because it's available). Instead, the Strategy will use such policy instruments as intended by the policy author and its authority to inform decisions for long term sustainability and user needs.
 
-### DevOps
+The risk management for software acquisition is based on the following formula:
 
-1. DevOps teams use a pipeline to control the release process from commit to production
-2. The pipeline that DevOps teams use is trusted to meet the required Governance checklist in order to be able to release directly into production
-3. The DevOps pipeline allows for manual intervention, if required
-4. DevOps teams use build automation
-5. DevOps teams use test automation for:
-    - Unit testing
-    - Integration testing
-    - Security test automation
-    - Accessibility testing
-    - Performance testing
-    - Functional testing
-    - Smoke testing
-6. DevOps teams use Continuous Integration
-7. DevOps teams use Application Release Automation
-8. DevOps teams use a decentralized version control system
-9. DevOps teams use automated monitoring
+```Risk = Probability of change * impact```
 
-## Coherent set of actions
+_Where_
 
-The following are actions that needs to be performed in order to make the Target IT Solution Delivery Model operational.
+_Risk_ is the level of injury to ESDC (High, Medium, Low).
 
-The **Stakeholders** column represent the stakeholders that will participate in the execution of the action.
-The first Stakeholder in the list, in ***bold and italic***, is the Office of Primary Interest (OPI) is responsible to oversee its execution.
-For example, the action “Adjust IITB SDLC” is expected to involve the BPMO and Senior Advisors stakeholders, with BPMO taking the lead to coordinate and execute this action
+_Probability of change_ is the probability that a change will happen in the future (e.g. new feature need, version upgrade, customization, integration, vendor product discontinuity, vendor product roadmap change)
+
+_Impact_ is the impact on ESDC that the change will have, informed by the following:
+
+- Financial lost
+- Reputation lost
+- Time lost (responsiveness)
+- Legal implications
+
+![Quadrant identifying relation beween Probably of change and Impact on the Risk]()
+
+Based on the risk level, ESDC will adjust its decisions around acquiring software and services (build, buy, or adopt).
+
+Risk levels are heavily influenced by the capability being enabled by software. The following diagram helps visualize how this risk level varies according with the type of capabilities:
+
+![A 3-layered circle showing that risk increases from exterior to interior circles, the most exterior one being Productivity, the middle one being Corporate or Shared, and the innermost being Core to Mandate]()
+
+**Productivity** capabilities, such as collaboration tools, image editing and word processing present low risks to ESDC due to their commodity in the market, low change probability, and being at the perimeter of ESDC’s core mandate reducing their impact to the organization.
+
+**Corporate or Shared** capabilities, such as Financial Systems, HR Systems, Messaging Bus, Information management and Authentication Systems start increasing risks to ESDC due to their larger footprint in the organization, greater integration requirements, as well as their larger financial and time impacts affecting end users and taxpayers.
+
+**Core** capabilities, such as Employment Insurance, Pension, and Old Age Security are what differentiates ESDC from the large majority of institutions in the world. Software options in this niche market are scarce due to the unique mandate of ESDC. Change probability is high as those capabilities change as much as regulation changes. The impact of such changes has a ripple effect on the whole organization and affects ESDC’s reputation to keep up with citizen demands while maintaining its fiduciary responsibility.
+
+### Build
+
+The decision to build is made when the needs are related to a service tied to the departmental mandate. Decisions to build are for when there is high ambiguity due to likely future legislative changes to requirements.
+
+Build decisions include those built by service providers or suppliers as well government personnel. The requirement is that the system level architectural decisions and expertise remain within the Government of Canada to reduce risk by ensuring agility through leveraging iterative  contracting vehicles and reducing vendor lock-in.
+In contrast to traditional build decisions[^2], when the Government of Canada purchases resources from industry the Government of Canada will be the owner of the product itself -- responsible for the projects implementation and operations; overseeing teams supplied by vendors who provide the technical expertise[^3].This ensures that knowledge about the details and functioning of the system exist within the department[^4].
+Expertise and knowledge regarding implementation details of systems Canadians rely on must exist within the Government of Canada[^5].
+
+#### Alignment Actions
+
+##### 1. Build Mandate Related Services
+
+Leadership, policies, technology, and user needs change.
+The department needs to be in full control of its ability to deliver on its mandate.[^6]
+As discussed above risk to Canadians cannot be off loaded on to vendors through responsibility offloading (for further discussion please refer to ([Annex 1, Historical Context]()).
+To the contrary, attempting to offload responsibility to vendors introduces risk to the government, as such large projects take years to deliver any value to Canadians, and have an increased likelihood of failure[^7].
+
+For further discussion, reference [Annex 1, GC IT Project Analysis]().
+
+##### 2. Buy software development services over products
+
+This approach aligns with the Digital Operations Strategic Plan ([DOSP](https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html)) as it aligns with _An open, collaborative and accessible government_ and aligns with the Digital Standard _Collaborate widely_ by returning implementation details to the Government of Canada, granting the government full control over its ability to align to TBS direction and applicable legislation.
+Further, when coupled with an agile approach to procurement and loosely coupled solutions architecture, vendors become interchangeable, thereby reducing vendor lock in. Lastly, by limiting the size and scope of each iteration we are promoting modular architecture by having the structure of the teams mimic the desired modular structure of the software,.
+
+For details as to why the current approach to build vs buy decisions is out of alignment with GC direction, reference Annex 2.
+
+For further details regarding the increase of build decisions (based on the new definition of build, as defined in the Definitions section), reference Annex 3: Alignment.
+
+##### 3. Use Service Oriented Architecture (SOA)
+
+Given the aforementioned principle, Buy software services -- not products, when seeking a vendor to build a given component, industry best practices will be adhered to by following a Service Oriented Architecture. This equipes the department to be better able to align with the last principle outlined, Minimize the size, cost, and scale. By breaking up the monolithic solution into interchangeable sub-components, this increases the flexibility and scalability of the solutions, thereby improving the quality and reliability of digital services delivered to Canadians. By adhering to this approach enterprise software may have subsets of its functionality regularly updated to avoid requiring expensive protracted initiatives to revive expiring systems after decades of neglect due to the fear of complexity of the monolith.
+
+##### 4. Publish as open source
+
+By default, all work, wherever possible, will be released as open source. Given the government will be buying services rather than software, this approach promotes greater alignment with the Government of Canada direction, as outlined in Annex 3: Alignment. The Digital Standards promotes Working in the open by default, Using Open standards and solutions.
+
+Whether the solution is written by a team within the Government of Canada, or by a vendor, the code must be (except in the rare case where it is legally prohibited) will be published in the open. Proper security considerations must be taken prior to publishing code in the open, and teams are expected to work in tandem with, or acquire the necessary skills to, practice best practice while publishing code in the open. For further guidance on the use of Open Source, please reference to Annex 5, Use of Open Source.
+
+##### 5. Minimize the size, cost, and scale of work packages
+
+As discussed above, by increasing build decisions the government retains control over its ability to deliver on its mandate and removes context switches between organizations, resulting in system expertise leaving the government. In order to further reduce the risk of build decisions, small incremental projects are advised over large ones. By decreasing the size of projects we decrease risk by increasing the likelihood of success. Further, this method of delivery ensures business value is provided as early as possible. If no business value is provided, the project may be cancelled without having dedicated the total budget, or entire timeframe initially intended for its development. This approach also aligns with best practices for modern software delivery,. This paradigm removes the need for large scale and risky projects. Instead, using a modular approach to software design we are able to reduce the likelihood of failure, maintain agility to avoid vendor lock in, increase the vendor pool availability, and increase our adherence to direction from TBS by maintaining more control over the design decisions and implementation details of the solutions created on behalf of the government. As such, it is advised that when making build decisions, efforts be made for any given contract to be strictly less than $1 million, and any project is expected to have products able to deliver business value in strictly less than six months, ideally within weeks. Contracts strictly greater than $10 million should be exception cases for particularly complex systems.
+
+For further discussion, please reference Annex 1, specifically, GC IT Project Analysis.
+
+### Next Steps
+
+This strategy promotes increasing the control that the government has regarding the delivery of digital services pertaining to its mandate. In order to do so, the ratio of build vs buy decisions is expected to increase in favour of build decisions, as defined in the Annex 0: Definitions and elaborated upon in the Buy Software Services; Not Products section. Note that the ultimate goal is to increase agility through reusing existing solutions by leveraging OSS, which offers the opportunity to increase collaboration both between private and public sectors, as well as between government bodies.
+
+If Canada is to deliver modern digital services to Citizens then the dated model favouring buy decisions in an effort to offload risk pertaining to implementations of mandated government services. In order to promote these changes, this strategy is aimed at transitioning many buy decisions to a modified build decision, where the government will have an opportunity to maintain control over implementation details and keep the required expertise within the Government of Canada. However, if the goal is for the Government of Canada to be able to align with ever changing requirements, efforts should continue to be made to increase the government's capacity for in-house development,, insofar as doing so does not prevent alignment with government direction. In order to ensure that the department continues to improve its ability to maintain control of service delivery for the benefit of Canadians, the department should focus on increasing its core competencies in order to increase the rate at which it is able to deliver services to Canadians.
+
+Further, in alignment with Canada’s Cloud First Strategy and in order to gain from the benefits outlined in said strategy, modified builds should also leverage cloud technologies wherever possible. Given this, it is imperative that the department create an environment where vendors are able to build digital services leveraging modern technologies, such as cloud, in order to enable the digital delivery of services to Canadians.
+
+### Strategic Actions (In Progress)
+
+In the area of procurement
+
+- Develop and implement a streamlined/fast track process for low dollar value procurement of IT services with expertise in open source (to assist with open source ‘build’ work and to incentivize small companies to compete and better distribute GC contract dollars to small companies and individuals)
+- Pilot contract payment automation for low dollar value contracts (to incentivize small companies to compete)
+- Build expertise within IITB for breaking work down into small work packages and describing that work (so that when capacity is low, small contracts can be done by external services)
+
+Topics to consider:
+
+1. Procurement vehicles (e.g. agile procurement, DevExchange to favour smaller players, OSS support services)
+1. Legal (e.g. subscribing to SaaS and the T&Cs)
+1. Financial (services like SaaS are not capital expense, they are operational ones. This affects budgeting and I don't think Procurement/Finance is yet up to speed on the matter)
 
 <table>
   <tr>
-    <th>Outcome</th>
     <th>Action</th>
-    <th>Description</th>
+    <th>Team</th>
     <th>Stakeholders</th>
   </tr>
   <tr>
-    <td rowspan="7"><b>Governance</b></td>
-    <td>Review IT Project Governance decision chain</td>
-    <td>Review terms of reference of Governance committees involved in the IT Project PMLC and propose recommendations to allow the Target Delivery Model to be used</td>
+    <td>Create agile procurement process</td>
     <td>
-      <b><i>IITB Governance</i></b><br>
-      DGPOC<br>
-      OCMC<br>
-      ARC<br>
-      EARB (maybe)<br>
-      PPRC<br>
-      PPOC<br>
-      CIPSC<br>
-      IT Strategy
+      <ul>
+        <li>IT Strategy</li>
+        <li>Procurement Innovation</li>
+        <li>Others</li>
+      </ul>
+    </td>
+    <td>DOSP
+      <ul>
+        <li>#37 Section 4.3</li>
+        <li>#72 Section 6.2</li>
+      </ul>
     </td>
   </tr>
   <tr>
-    <td>Adjust IITB SDLC</td>
-    <td>Adjust IITB’s SDLC to include an option for the Target IT Solution Delivery Model</td>
+    <td>Create agile procurement Strategy</td>
     <td>
-    <b><i>BPMO</i></b><br>
-    Senior Advisors
+      <ul>
+        <li>IT Strategy</li>
+        <li>IITB Finance</li>
+        <li>CFOB</li>
+        <li>Others</li>
+      </ul>
     </td>
+    <td>DOSP
+      <ul>
+        <li>#37 Section 4.3</li>
+        <li>#72 Section 6.2</li>
+      </ul>
+    </td>
+  </tr>
+   <tr>
+    <td>Legal Framework for requiring code published as OSS</td>
+    <td></td>
+    <td></td>
+  </tr>
+   <tr>
+    <td>Finance Frameworks for Micro Procurement (or miniature procurement)
+    </td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <td>Review IT Project intake process</td>
-    <td>Review IT Project intake processes and stakeholders involved to adjust them for recognizing and allowing the Target IT Solution Delivery Model</td>
-    <td>
-      <b><i>ITSM</i></b><br>
-      BPMO<br>
-      BRM<br>
-      EA
-    </td>
+    <td>Training of relevant staff on SOA</td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <td>Produce a Project Eligibility Guidance</td>
-    <td>Produce a guidance document to help decision makers (e.g. DGPOC) in identifying project candidates that can be eligible to use the Target IT Solution Delivery Model while the organization is still in transit towards the Target state. The guidance document would be a checklist of criteria a project needs to comply with to be eligible.</td>
-    <td>
-    <b><i>IT Strategy</i></b><br>
-    BPMO<br>
-    EA<br>
-    BRM<br>
-    Senior Advisors<br>
-    CCoE
-    </td>
+    <td>Provide ESDC with means to purchase SaaS</td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <td>IITB Agile Governance Framework</td>
-    <td>Produce a standard framework for governing IT Projects under the Target IT Solution Delivery Model. A standard framework is needed to reduce confusion</td>
+    <td>Modernize Build vs Buy principle given Cloud First position</td>
     <td>
-    <b><i>BPMO</i></b><br>
-    Senior Advisors<br>
-    EA<br>
-    BRM<br>
-    IITB Governance
+      <ul>
+        <li>IT Strategy</li>
+        <li>IITB Finance</li>
+        <li>CFOB</li>
+        <li>Others</li>
+      </ul>
     </td>
+    <td></td>
   </tr>
-  <tr>
-    <td>Produce a Policy guidance document</td>
-    <td>Produce a guidance document as a supporting material to the Target IT Solution Delivery Model guiding policy to demonstrate what it looks like, and how teams being part in it can ensure their compliance to it</td>
-    <td>
-    <b><i>IT Strategy</i></b><br>
-  BPMO<br>
-  CCoE<br>
-  Senior Advisors
-    </td>
-  </tr>
-  <tr>
-    <td>Produce standard definition for “DevOps team”</td>
-    <td>Produce a standard definition listing the minimum requirements, roles, and responsibilities for a team to qualify as DevOps. This to reduce confusion and misuse of the term since the Guiding Policy allows more authority to such teams.
-<br><br>
-<a href="https://014gc-my.sharepoint.com/%3Aw%3A/g/personal/remy_bernard_hrsdc-rhdcc_gc_ca/EaU8oDNt7iJNj8Zy_M64TOkBVJBlFhQ2d_fzOuF2N6bt8A?e=F5HEeL">Draft located on Office 365</a>.
-</td>
-    <td>
-    <b><i>IT Strategy</i></b><br>
-  BPMO<br>
-  CCoE<br>
-  Senior Advisors<br>
-  Research &amp; Prototype<br>
-  Interoperability<br>
-  DTS
-    </td>
-  </tr>
-  <tr>
-    <td rowspan="4"><b>Compliance</b></td>
-    <td>Produce Target SA&A Process</td>
-    <td>Produce a Target SA&A Process that favours DevOps automation capabilities, product evolution, and the DevOps pipeline used</td>
-    <td>
-    <b><i>IT Security</i></b><br>
-    IITB Compliance unit<br>
-    Senior Advisors
-    </td>
-  </tr>
-  <tr>
-    <td>Produce Target Audit assessment process</td>
-    <td>Produce a Target Audit Process that favours DevOps automation capabilities, product evolution, and dedicated product teams.
-Audit processes in scope include internal ESDC Audit, not External auditing entities
-</td>
-    <td>
-    <b><i>IAERMB</i></b><Br>
-    IITB Compliance Unit<br>
-    Senior Advisors
-    </td>
-  </tr>
-  <tr>
-    <td>Produce Target Accessibility assessment process</td>
-    <td>Produce a Target Accessibility Process that favours DevOps automation capabilities, product evolution, and dedicated product teams</td>
-    <td>
-    <b><i>Accessibility</i></b><br>
-    BPMO<br>
-    Senior Advisors
-    </td>
-  </tr>
-  <tr>
-    <td>Produce Automated Testing guidance and standards</td>
-    <td>Provide guidance to DevOps team when using automated testing for the various types of tests in scope.
-Provide standards on acceptable thresholds for automating application releases between environments (up to, and including, production)
-</td>
-    <td>
-    <b><i>IT Strategy</i></b><br>
-IT Security<Br>
-Accessibility<br>
-Testing Services<br>
-Senior Advisors
-    </td>
-  </tr>  
-  <tr>
-    <td rowspan="3"><b>Finance</b></td>
-    <td>Investigate alternative funding models</td>
-    <td>
-    Engage with Finance Advisors to investigate alternative funding model while remaining compliant with the PPPM and Investment Management Policy. Such as what the Cloud CoE did with their showback model.<br><br>
-    Technical debt is a stakeholder because they are working on an evergreen funding model.
-    </td>
-    <td>
-    <b><i>IT Strategy</i></b><br>
-    CFOB<br>
-    EPMO<br>
-    Technical Debt<br>
-    EA
-    </td>
-  </tr>
-  <tr>
-    <td>Officialise approach to track efforts and financials</td>
-    <td>Produce approach to track efforts and financials spent on operational support activities VS changes / enhancements. Part of the IT Products funding model</td>
-    <Td>
-    <b><i>IT Strategy</i></b><br>
-    BPMO<br>
-    CFOB<br>
-    Technical Debt
-    </td>
-  </tr>
-  <Tr>
-    <td>Adjust the Cloud Funding Framework</td>
-    <td>Adjust the Cloud Funding Framework to allow enhancements funding for IT Products in production</td>
-    <td>
-    <b><i>CCoE</i></b>
-    </td>
-  </tr>
-  <tr>
-    <td rowspan="4"><b>Architecture</b></td>
-    <td>Get endorsement from EA</td>
-    <td>Engage with Enterprise Architecture, specifically Business Architecture, Solutions Architecture, and Technical Architecture teams to seek endorsement on the Target Delivery Model and their contribution</td>
-    <td>
-    <b><i>IT Strategy</i></b>
-    EA<br>
-    ARC<br>
-    Interoperability<br>
-    IITB Senior Advisors<br>
-    CDO
-    </td>
-  </tr>
-  <tr>
-    <td>Review technical brick process</td>
-    <td>Review technical bricks management process to allow IT Products teams to adopt non-standard technical stacks in addition to recommending emerging standards. Evaluate conditions and responsibilities of stakeholders regarding non-standard technical stacks.</td>
-    <td>
-    <b><i>Technical Architecture</i></b><br>
-    TSWG<br>
-    CCoE<br>
-    OCMC<br>
-    IT Strategy<br>
-    Senior Advisors<br>
-    EARB
-    </td>
-  </tr>
-  <tr>
-    <td>Define API approval process</td>
-    <td>Formally define API approval process to allow DevOps teams to expose their products functionality and data via APIs.
-Provide standards that DevOps teams are expected to comply with when releasing APIs, such as data exchange formats and <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604">mandatory procedures for API Assessments</a> (Directive on Service and Digital).
-</td>
-    <td>
-    <b><i>Interoperability</i></b><br>
-    EA<br>
-    Solutions Architecture<br>
-    CDO
-    </td>
-  </tr>
-  <tr>
-    <td>Produce Loose Coupling architecture guidance</td>
-    <td>Produce a guidance document to clarify and guide Architects in building IT solutions making use of loose coupling architecture principles that provide IT Product teams more autonomy (e.g. Micro-Services, <a href="https://12factor.net/">12-factor app</a>)</td>
-    <td>
-    <b><i>Solution Architecture</i></b>
-    </td>
-  </tr>
-  <tr>
-    <td rowspan="2"><b>Product Management</b></td>
-    <td>Produce a team lending model</td>
-    <td>Engage with the Resource Centre to provide an alternative means to deploy resources to projects, one that favours dedicated multi-disciplinary small teams over individuals</td>
-    <td>
-    <b><i>IT Strategy</i></b><br>
-    Resource Centre<br>
-    Senior Advisors<br>
-    Interoperability
-    </td>
-  </tr>
-  <tr>
-    <td>Create a matrix-based resource pool model</td>
-    <td>Create a model where specialized resources, Champions or SMEs, can be deployed in DevOps teams</td>
-    <Td>
-    <b><i>IT Strategy</i></b><br>
-    Resource Centre<br>
-    IT Security<br>
-    Accessibility<br>
-    Testing Services<br>
-    CCoE
-    </td>
-  </tr>
-  <tr>
-    <td rowspan="4"><b>DevOps</b></td>
-    <td>Get endorsement from Operations</td>
-    <td>Engage with Enterprise Operations and BOSS to get their endorsement in moving to a DevOps model, in parallel with the conventional ones</td>
-    <td>
-    <b><i>IT Strategy</i></b><br>
-    IT Security<br>
-    Release Services<br>
-    Testing Services<br>
-    Accessibility<br>
-    Environments
-    </td>
-  </tr>
-  <Tr>
-    <td>Get endorsement from SSC</td>
-    <td>Engage with SSC to get their endorsement in allowing access to deploy directly in production (on premise deployment model)</td>
-    <td>
-    <b><i>IT Strategy</i></b><br>
-  IT Security<br>
-  SSC
-    </td>
-  </tr>
-  <Tr>
-    <td>Produce DevOps ConOps guidelines</td>
-    <td>Produce a DevOps ConOps guidelines, including release processes and standards, on releasing code from commit to production (e.g. pre-prod environment, blue-green model)</td>
-    <td>
-    <B><i>CCoE</i></b><br>
-IITB Senior Advisors<br>
-IT Security<br>
-BPMO
-    </td>
-  </tr><Tr>
-    <td>Provide means for DevOps teams to experiment with new tools</td>
-    <td>Leverage the SAFER LAB, Virtual Desktop Image, and Technical Architecture standards to provide provide means for DevOps teams to install and try out new innovative tools for experimentation, with eventual rapid update in the Technical Bricks</td>
-    <td>
-    <b><i>IT Strategy</i></b><br>
-CCoE<Br>
-Research &amp; Prototype<br>
-IT Security<br>
-IT Environment<br>
-TSWG
-    </td>
-  </tr>
-  </table>
-
-## Measuring the Strategy's success
-
-This Strategy ‘s success will be measured by comparing the following metrics against the conventional IT project methodology.
-
-The metrics are defined as follows:
-
-1. *Lead time for change*: the time code changes take to go from check-in to release in production
-2. *Deployment frequency*: the rate at which software is deployed to production or released to end users
-3. *Change fail*: the change failure rate measured by how often deployment failures occur in production that require immediate remedy
-4. *Time to restore*: the time it takes from detecting a user impacting incident to remediating it
-5. *Client satisfaction*: the general level of contentment, by applications within the APM portfolio, that a client is satisfied with the IT product
-
-<table>
-<tr>
-    <th rowspan="2">Metric</th>
-    <th colspan="2">Collection Method</th>
-</tr>
-<tr>
-    <th>Target Model</th>
-    <th>Conventional Model</th>
-</tr>
-<tr>
-    <td>1. Lead time for change</td>
-    <td>
-    <i>Automatic</i><br>
-    Using DevOps team's own pipeline metrics
-    </td>
-    <td>
-    <i>Manually</i><br>
-    Using Release team's statistics per change request
-    </td>
-</tr>
-<tr>
-    <td>2. Deployment frequency</td>
-    <td>
-    <i>Automatic</i><br>
-    Using the DevOps team's continuous delivery pipelines
-    </td>
-    <td>
-    <i>Manually</i><br>
-    Using Release Process team metrics
-    </td>
-</tr>
-<tr>
-    <td>3. Change failure rate</td>
-    <td>
-    <i>Automatic</i><br>
-    TBD
-    </td>
-    <td>
-    <i>Manually</i><br>
-    Using the Release Process team's change debrief log
-    </td>
-</tr>
-<tr>
-    <td>4. Time to restore service</td>
-    <td>
-    <i>Automatic</i><br>
-    Using the DevOps team's incident tracking tool – time incident submitted to time incident closed
-    </td>
-    <td>
-    <i>Automatic</i><br>
-    Using the Service Desk incident tracking tool – time incident submitted to time incident closed
-    </td>
-</tr>
-<tr>
-    <td>5. Client satisfaction</td>
-    <td>
-    <i>Manually</i><br>
-    BRM's client survey
-    </td>
-    <td>
-    <i>Manually</i><br>
-    BRM's client survey
-    </td>
-</tr>
 </table>
 
-*Manually*: the collection of data requires manual intervention (e.g. surveys using the SimpleSurvey software, interviews, emails, spreadsheet updates).
+### Conclusion
 
-*Automatic*: the collection of data is performed automatically, usually involving programmatic means (e.g. events triggered by git repository when a new commit is performed and updates a master dashboard “view”).
+With the exception of well established software for generic or peripheral needs of the department, there is little distinction between build vs buy. The question becomes build it oneself, or have someone else build it. Even traditional services delivered through SaaS, such as email, require configuration (build) for their implementation. Further, even when service providers are to build the solution, given SOA, the department should conduct alpha (the initial design which takes place early exploratory and testing phases) product design so as to be able to design the solution in such a way that it can be managed as separable subsystems,. In either case, implementation and support decisions will need to be made, and standards will need to be abided by in order to ensure that the Crown remains in control of all code produced, and that the Crown does not find itself locked in to any particular service provider. This strategy is intended to return control of implementation of services back to the department thereby permitting increased alignment with the Government of Canada direction, and increase the quality, and rate by which, digital services are delivered to Canadians. The intent is to replace dated approaches to software delivery in favour of practices aligned with industry best practice in order to promote the department's digital transformation and keep pace with the rising expectations of Canadian citizens with respect to digital services.
 
-**NOTE:** the four first metrics (a, b, c, and d) are the [4 key metrics as defined by the DevOps Research Assessment institute (DORA)](https://www.thoughtworks.com/radar/techniques/four-key-metrics)
+## Alignment
 
-## Appendix A - Business Case (Diagnostic)
+### Digital Standards
 
-As explain in our [ESDC IT Strategy overview](https://sara-sabr.github.io/ITStrategy/esdc-it-strategy.html), the digital world is highly complex and uncertain. The [Policy on service and digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603), reflecting citizen's expectations requires ESDC to review services delivered to clients periodically. With the ubiquitous nature of technology, any changes to ESDC services will require implicating IT teams.
+- Design with users
+- Iterate and improve frequently
+- Work in the open by default
+- Use open standards and solutions
+- Empower staff to deliver better services
 
-The [GC Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html) form the foundation of the government's shift to becoming more agile, open, and user-focused. At the same time, the [Directive on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601) requires departments to align to the [GC Architecture Standards](https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards) by means of its [mandatory procedures for Enterprise Architecture Assessment](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602). This creates a conundrum for organizations: **“How do we reconcile the requirement of being agile with the one of thinking Enterprise”?**
+### Digital Operations Strategic Plan (DOSP)**
 
-This strategy looks at solving this challenge.
+- A service-oriented government with a user-centred
+- An open, collaborative and accessible government
+- Modern technology and modern information practices
+- Good digital governance
 
-The use of technology is costly and risky. The conventional methods of delivering IT solutions seeks to reduce those costs and risks with advance planning and rigid plan execution. This may work when the future is predictable, but not when it is complex and uncertain.
+### Digital Nations Charter
 
-This complexity and uncertainty warrants organizations to move towards a more empirical cycle of trying, observing, and correcting. It is not just the execution phase of a project that needs to be ”agile”, it's the project's scope itself. The IT Project is the iteration step the organization is looking for as a means to become agile. This requires reviewing the relationship ESDC has with the use of technology and the interactions between IT teams.
+- User needs - the design of public services for the citizen
+- Open source - future Government systems, tradecraft, manuals and standards are created as open source and are shareable between participants
+- Open standards - technology requires interoperability and so a - clear commitment to a credible royalty free open standards policy is needed
+- Open markets
 
-This reality around the need to reduce risks and revisit the relationship stakeholders have with technology, is well explained in:
+### Policy on Service and Digital
 
-1. The [GC Digital Operations Strategic Plan 2018-2022](https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html), especially Chapter 1 on user-centred and service orientation, Chapter 4.3 (Procurement Modernization),  and Chapter 6 (good digital governance)
-2. This [18F](https://www.youtube.com/watch?v=g-h6CtSwk30) presentation given at the Michigan Senate Appropriations Committee on February 26th, 2020.
-3. [Chapter 3 of the 2006 Auditor General report](https://www.oag-bvg.gc.ca/internet/English/parl_oag_200611_03_e_14971.html) on Large Information Technology Projects
-4. [Chapter 1 of the 2010 Spring Auditor General report](https://www.oag-bvg.gc.ca/internet/English/parl_oag_201004_01_e_33714.html) on Aging Information Technology Systems
-5. [Chapter 2 of the 2011 June Auditor General status report](https://www.oag-bvg.gc.ca/internet/English/parl_oag_201106_02_e_35370.html) on Large Information Technology Projects
-6. [Report 5 of the 2015 Spring Auditor General report](https://www.oag-bvg.gc.ca/internet/English/parl_oag_201504_05_e_40351.html) on Information Technology Investments by the Canadian Border Services Agency
-7. [Report 1 of the 2018 Spring Auditor General report](https://www.oag-bvg.gc.ca/internet/English/parl_oag_201805_01_e_43033.html) on Building and Implementing the Phoenix Pay System
-8. The [Standish Group 2003-2013 study](https://18f.gsa.gov/2019/04/09/why-we-love-modular-contracting/) of 3,555 projects with labour costs of at least $10 million USD showed that 6.4% were successful, 52% over budget, behind schedule, or did not meet user expectations, and 41.4% failed .
-9. The [House of Commons questions](https://large-government-of-canada-it-projects.github.io) from June 2016 and May 2019 regarding ongoing or planned IT projects over $1M . Statistics includes :
-    - Of the 94 projects that contain sufficient data to compare schedules: 9% are on schedule, 4% are ahead of schedule, and 87% are behind schedule
-    - Of the 97 projects that contain sufficient data to compare budgets: 26% are within 10% original estimates, 28% are between 10% and 50% above their original estimates, 28% are above 50% of their original estimates, and 19% are below 10% of their original estimates.
+- Objectives and expected results: Service design and delivery is client-centric by design
 
-In the House of Commons questions data, ESDC has 52 projects listed but only 6 of them have sufficient data to compare either their schedule or budget estimates: 5 are behind schedule, and 5 are over budget.
+### Directive on Service and Digital - Appendix A: Mandatory Procedures for Enterprise Architecture Assessment
 
-The [2019-2020 February (P11) Monthly Project and Programme Investment Portfolio Dashboard](http://dialogue/grp/IPPST/Financials%20Limited%20Access/Monthly%20Project%20Portfolio%20Dashboard%20-%20January%202019-2020%20(P10).xlsx) of ESDC's EPMO  lists 53 active projects. 45% of them are deemed healthy (green), 19% are deemed of concerns (yellow), and 34% are unhealthy (red). Looking deeper, it's worth noting the following:
-    - that 38 of the 53 active projects are in the Execution stage and that 55% of them are either of concerns (yellow) or unhealthy (red)
-    - that, generally, the IITB component of those ESDC projects are healthier than the overall Departmental project umbrella
+- A.2.3.2.1 Focus on the needs of users, using agile, iterative, and user-centred methods
+- Application Architecture: Use Open Standards and Solutions by Default
+- Application Architecture: Enable  Interoperability
 
-IITB’s [BPMO Project Portfolio dashboard](http://dialogue/grp/ITPM-GPTI/PPDMLibrary/BRM-RPT-PDM-ProjectPortfolioDashboard20200217.xlsm) also tracks lite projects, branch initiatives, and A-based investments (smaller in size than the ones tracked by the EPMO). The February 2020 statistics show a total of 26 active projects of this category. 69% of them are deemed healthy (green), 15% are deemed of concerns (yellow), and 15% are deemed unhealthy (red).
+### Government of Canada Architectural Standards
 
-IITB has made efforts to modernize its management of technology, as is showcased in the [IITB News Kudo's Corner](http://esdc.prv/en/iitb/corporate/news/archives.shtml) and its [IITB Way Forward plan](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx). However, ESDC's relationship with technology spans beyond IITB’s influence.
+- Enable Interoperability
 
-Moving ESDC towards being an agile organization requires moving towards a model that enables smaller, more frequent software deployments. To make more frequent software deployments requires revisiting software development and management practices as a whole.
+For at length discussion regarding how this strategy improves alignment to the aforementioned policy instruments, reference [this complementary material](https://docs.google.com/document/d/18byeCbXBQBR1yFS3c4ySB00FhaRcxIrQUl87mReRFH8/edit?usp=sharing).
 
-## Appendix B - Traceability Matrix
+## Annex 0: Definitions
 
-The following traceability matrix is used to show alignment with various strategies, plans, and policy instruments already in progress.
+### Build
 
-<table>
-<tr>****
-    <th>Strategy element</th>
-    <th>Aligns with</th>
-</tr>
-<tr>
-    <td><b>Governance, Compliance, and Reporting</b></td>
-    <td>
-<a href="https://sara-sabr.github.io/ITStrategy/strategy-summary.html">Strategy Map</a>/Meaningful work<br>
-<a href="https://sara-sabr.github.io/ITStrategy/strategy-summary.html">Strategy Map</a>/Lean Change Approval<br>
-<a href="https://sara-sabr.github.io/ITStrategy/strategy-summary.html">Strategy Map</a>/Continuous Feedback Loops<br>
-<a href="https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html">GC Digital Standards</a>/design with users<br>
-<a href="https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html">GC Digital Standards</a>/iterate and improve frequently<br>
-<a href="https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards">GC Architecture Standards</a>/Business Architecture<br>
-<a href="https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards">GC Architecture Standards</a>/Security Architecture & Privacy<br>
-<a href="https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html">GC DOSP</a>/Chapter 1 user-centred<br>
-<a href="https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html">GC DOSP</a>/Chapter 6 digital governance<br>
-<a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603">TB Policy on Service and Digital</a>/4.2 client-centric service<br>
-<a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601">TB Directive on Service and Digital</a>/Strategic IT Management<br>
-<a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental IMIT Plan/19-20 Plans/IITB Moving Forward v2.docx">IITB Way Forward</a>/1. Adjust IITB leadership<br>
-<a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental IMIT Plan/19-20 Plans/IITB Moving Forward v2.docx">IITB Way Forward</a>/6a. Strengthen IM/IT Strategy<br>
-<a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental IMIT Plan/19-20 Plans/IITB Moving Forward v2.docx">IITB Way Forward</a>/6f. formalize requirements mgt framework<br>
-<a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental IMIT Plan/19-20 Plans/ESDC IT Plan 2019-22 - FINAL.pdf">IT Plan</a>/Section II/Foundational
-    </td>
-</tr>
-<tr>
-  <td><b>Finance</b></td>
-  <td>
-  <a href="https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html">GC Digital Standards</a>/iterate and improve frequently<br>
-<a href="https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html">GC DOSP</a>/Chapter 4.3 Procurement modernization<br>
-<a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603">TB Policy on Service and Digital</a>/4.2 client-centric service<br>
-<a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603">TB Policy on Service and Digital</a>/Supporting workforce capacity and capability<br>
-<a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental IMIT Plan/19-20 Plans/IITB Moving Forward v2.docx">IITB Way Forward</a>/6d. Separate programme/project<br>
-<a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental IMIT Plan/19-20 Plans/IITB Moving Forward v2.docx">IITB Way Forward</a>/8. Technical debt strategy
-  </td>
-</tr>
-<tr>
-  <td><b>Architecture</b></td>
-  <td>
-  <a href="https://sara-sabr.github.io/ITStrategy/strategy-summary.html">Strategy Map</a>/Lean Architecture<br>
-<a href="https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html">GC Digital Standards</a>/iterate and improve frequently<br>
-<a href="https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards">GC Architecture Standards</a>/Application Architecture<br>
-<a href="https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards">GC Architecture Standards</a>/Security Architecture & Privacy<br>
-<a href="https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html">GC DOSP</a>/Chapter 3.2 Any-platform, any-device<br>
-<a href="https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html">GC DOSP</a>/Chapter 4.3 Procurement modernization<br>
-<a href="https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html">GC DOSP</a>/Chapter 4.4 IT Modernization<br>
-<a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental IMIT Plan/19-20 Plans/IITB Moving Forward v2.docx">IITB Way Forward</a>/6a. Strengthen Enterprise Architecture practice<br>
-<a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental IMIT Plan/19-20 Plans/IITB Moving Forward v2.docx">IITB Way Forward</a>/6e. Enhance app development
-  </td>
-</tr>
-<tr>
-  <td><b>Product Management</b></td>
-  <td>
-  <a href="https://sara-sabr.github.io/ITStrategy/strategy-summary.html">Strategy Map</a>/Cross Functional <br>
-<a href="https://sara-sabr.github.io/ITStrategy/strategy-summary.html">Strategy Map</a>/Continuous Improvement<br>
-<a href="https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html">GC Digital Standards</a>/iterate and improve frequently<br>
-<a href="https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html">GC Digital Standards</a>/address security and privacy risks<br>
-<a href="https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html">GC Digital Standards</a>/build accessibility from the start<br>
-<a href="https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards">GC Architecture Standards</a>/Business Architecture<br>
-<a href="https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards">GC Architecture Standards</a>/Security Architecture & Privacy<br>
-<a href="https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html">GC DOSP</a>/Chapter 2.3 Accessibility and inclusion<br>
-<a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603">TB Policy on Service and Digital</a>/Supporting workforce capacity and capability<br>
-<a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental IMIT Plan/19-20 Plans/IITB Moving Forward v2.docx">IITB Way Forward</a>/6d. Separate programme/project<br>
-<a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental IMIT Plan/19-20 Plans/IITB Moving Forward v2.docx">IITB Way Forward</a>/6e. Enhance app development
-  </td>
-</tr>
-<tr>
-  <td><b>DevOps</b></td>
-  <td>
-  <a href="https://sara-sabr.github.io/ITStrategy/strategy-summary.html">Strategy Map</a>/Continuous Integration<br>
-<a href="https://sara-sabr.github.io/ITStrategy/strategy-summary.html">Strategy Map</a>/Automated Deployments<br>
-<a href="https://sara-sabr.github.io/ITStrategy/strategy-summary.html">Strategy Map</a>/Cross Functional teams<br>
-<a href="https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html">GC Digital Standards</a>/address security and privacy risks<br>
-<a href="https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards">GC Architecture Standards</a>/Technology Architecture<br>
-<a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental IMIT Plan/19-20 Plans/IITB Moving Forward v2.docx">IITB Way Forward</a>/6e. Enhance app development<br>
-<a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental IMIT Plan/19-20 Plans/IITB Moving Forward v2.docx">IITB Way Forward</a>/6g. Modernize IM/IT testing regime<br>
-IT Plan/Section II/Foundational
-  </td>
-</tr>
-</table>
+A process whereby the department remains the authority on high level architectural decisions of the solution, or where the department maintains the legal and technical ability to alter the source of the application as needed.
 
-## Appendix C - References
+### Buy
 
-- ESDC [Policy on Program and Project Management (PPPM)](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Policy%20on%20Project%20and%20Programme%20Management.pdf)
-- ESDC [Directive on Project Management](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Directive%20on%20Project%20Management.pdf)
-- ESDC [Directive on Benefits Management](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Directive%20on%20Benefits%20Management.pdf)
-- ESDC [Project Management Life Cycle](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Policy%20on%20Project%20and%20Programme%20Management.pdf)
-- IITB [Governance Structure](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/SitePages/Governance.aspx)
-- IT Security SA&A Process
-- [SDLC Process](onenote:http://dialogue/grp/PR6893344/OneNote/AppDevSA/02-Development%20%28In%20Progress%29/AppDev%20Roadmap.one#Outcomes%20and%20Dependencies%20Overview&section-id={5E16E60C-310B-49EF-8451-88E0CE4DA968}%26page-id={67E8C1D8-F39B-498E-A809-EEAAB9BDAC88}%26object-id={636B6DD3-FBD6-0F8E-30F2-FD3A0BC5F22E}&2E) (current and proposed alternate by Senior Advisors+BPMO)
-- [Team Compositions being investigated](https://014gc.sharepoint.com/u:/r/sites/AppDevSASharePoint/Shared%20Documents/Presentations/Structure.vsdx?d=w6db29c1b95504032a0aba15b098ab9ed&csf=1&web=1&e=K9rDQ2) by Senior Advisors
-- ESDC [Procurement Policies](http://iservice.prv/eng/finance/purchasing/policy.shtml)
-- TBS [Directive on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601)
-- TBS [Directive on Security Management](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32611)
-- [Scale Agile Framework (SAFe)](https://www.scaledagileframework.com/)
-- [Disciplined Agile (DA)](https://www.pmi.org/disciplined-agile)
-- [Large-Scale Scrum](https://less.works/)
-- [Good Strategy, Bad Strategy](http://goodbadstrategy.com/)
-- [How to write rules that people want to follow](https://www.chapters.indigo.ca/en-ca/books/how-to-write-rules-that/9781988749020-item.html)
+Application architecture is designed outside of the Government of Canada, and a completed product is purchased from a vendor, or support is purchased for a solution developed externally to the department or Government of Canada.
 
-## Appendix D - Definitions
-<!-- markdownlint-disable MD036 -->
+### Open Source Software
 
-**[DevOps team](https://014gc-my.sharepoint.com/:w:/g/personal/remy_bernard_hrsdc-rhdcc_gc_ca/EaU8oDNt7iJNj8Zy_M64TOkBVJBlFhQ2d_fzOuF2N6bt8A?e=F5HEeL)**
+Software with its source code made available with a license in which the copyright holder provides the rights to study, change, and distribute the software to anyone and for any purpose.
+The name used by the Open Source Initiative (OSI). Open source software is defined in the Open Source Definition by ten criteria.
 
-A cross functional, multidisciplinary team that emphasize the collaboration and communication of both software developers and information technology (IT) professionals while automating the process of software delivery and infrastructure changes. A DevOps team complies with the [following standard IITB definition](https://014gc-my.sharepoint.com/:w:/g/personal/remy_bernard_hrsdc-rhdcc_gc_ca/EaU8oDNt7iJNj8Zy_M64TOkBVJBlFhQ2d_fzOuF2N6bt8A?e=F5HEeL).
+- [Open First Whitepaper: Open Source Software Use](https://www.canada.ca/en/government/system/digital-government/open-source-software/open-first-whitepaper/open-first-whitepaper-use.html#definitions)
 
-A copy of the Office 365 version is [available here]({{ site.baseurl }}/assets/files/standard-devops-team-definition.docx).
+### Open standards
 
-**[Decentralized Version Control System (DVCS)](https://www.atlassian.com/blog/software-teams/version-control-centralized-dvcs)**
+Open standards are a set of rules designed to do a specific job in technology.
+Open standards refer to file formats, protocols and application interfaces that can be implemented by everyone (in open source and proprietary software alike) since the specifications are available at no cost, and since their development and standardization is open and transparent. This standardization work is done by specialized agencies that are usually either government agencies or organizations created by professionals from a given industry sector. Examples of such organizations include the Internet Engineering Task Force (IETF), the International Organization for Standardization (ISO) and the Organization for the Advancement of Structured Information Standards (OASIS).
 
-Centralized version control systems are based on the idea that there is a single “central” copy of a software project somewhere (most likely on a server), and developers make code changes directly on this central copy.
+- [Open First Whitepaper: Open Standards](https://www.canada.ca/en/government/system/digital-government/open-source-software/open-first-whitepaper/open-first-whitepaper-standards.html)
 
-A decentralized version control system (DVCS) do not necessarily rely on a central server to store all the versions of a software project's files. Instead, every developer “clones” a copy of a repository and has the full history of the project on their own hard drive. This copy (or “clone”) has all of the metadata of the original. In a DVCS, developers typically will make code changes on their local copy, test them on their local copy, and “push” them to a central server containing the “master” copy the software project is intended to use.
+### Closed COTS
 
-The three most popular DVCS are Mercurial, Git, and Bazaar.
+Commercial Of The Self (COTS) software where the source code for said product is [not open source](#open-source-software).
 
-**Development Value Stream**
+### Open COTS
 
-The series of steps *and people who develop* that ESDC uses to implement IT Solutions enabling the enterprise to carry out its business operations. The people a development value stream uses are a set of DevOps teams.
+Commercial Of The Self (COTS) software where the source code for said product is [open source](#open-source-software).
 
-Organizing portfolios around development value streams enables visualizing the flow of work to produce solution, reduces handoffs and delays, allows faster learning and shorter time to market, supports leaner development and budgeting methods.
+## Annex 1: Context
 
-**IT Product**
+### Historical Context
 
-A software application as defined by the Application Portfolio Management (APM) program. This  software application may be constructed by other piece of softwares (COTS, Open Source, custom built) however we understand the scope of an IT Product as the one defined by the APM program.
+The Canadian government’s rationale for procuring 3rd party software solutions and support has historically been based on reducing risk and cost for taxpayers.
 
-A “working IT Product” is a version of the IT Product which allows DevOps teams to collect the maximum amount of validated learning about clients with the least effort. A working IT Product must be able to be used by end-users and provide DevOps teams with observation of end-users behaviours.
+However many recent large IT software procurements by the GC have proven that offloading risk to a third party is a fallacy and that the predicted cost savings to taxpayers have not materialized.  Part of this problem is with the procurement process. With the abillity to increase the value of a contract by up to 50% without retendering, contractors can submit “suicide bids” that they know are much too low.  This makes the contracted option initially on paper look better when compared with the costs to developing in house.
 
-For the scope of this Strategy, Operating Systems are NOT defined as IT products. Therefore should an IT Product depend on an Operating System to run in production, it is compliance with this Guiding Policy.
+Time and again we have seen costs balloon on IT contracts.  The Phoenix pay project started at $309M and is expected to now cost over $2.6B.  The Email transformation initiative started at $x and was $100M by the time it was suspended.  The contract for the content management system solution for the Canada.ca project started at $1.54M and was $14.9M by the end.
 
-**IT Project**
+Though IT projects don’t just end up over budget due to suicide bids.  They can end up over budget due to a lack of strong integration with internal policy and subject matter experts on the project team.  Without the input from these experts, projects end up not delivering on functionality. Fixing systems that don’t meet functional requirements, comes at a cost, eats into the predicted cost savings for the new software solution.  ETI was supposed to save $50M/year but was only completed up to 20% so any savings achieved are reduced by at least that amount.  Coupled with the budget overruns, it would take 10+ years to achieve a return on investment now. Phoenix was expected to save $70M a year.  Even if all those savings have been achieved, the increased cost means that the return on investment will take 37 years. The phoenix project is another example of this. It was launched with many important pay processing functions missing.  Had the project been done in house, and/or with a tighter coupling with the subject matter experts, it is likely that a stronger case could have been made to not go forward without those functions.
 
-A temporary endeavour undertaken to create a unique technology product, service, or result. The temporary nature of IT projects indicates that an IT project has a definite beginning and end.
+Further, offloading of risk to the taxpayer is not solely about the build decision itself but rather the ongoing operation. Often traditional build projects include a significant component of ongoing run and support. As such the ongoing support costs, and risk of being required to support companies solely due to severe vendor lock-in.
 
-This definition is a modified version for the [ESDC’s Directive on Project Management](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Directive%20on%20Project%20Management.pdf) to include the IT aspect.
+### GC IT Project Analysis
 
-**IT Product Owner**
+#### GC IT Projects are large
 
-A person who represents the business or user community and is responsible for working with that community to determine what features will be in the product release
+In May 2019, in response to a written question in the House of Commons, departments self-reported 463 IT projects with budgets of more than $1M.  The total budget allocated to all of these projects was $7B. Of these projects, 83% of the total budget was with projects having a total budget of $10M or more.
 
-**IT Product Manager**
+#### GC IT Projects take a long time to complete
 
-A person who manages the evolution of the IT product based on the IT Product Owner's features lists, IT Product's technical stack maintenance, and managing the rollout of new features. The IT Product manager prioritizes the work for the DevOps team, phases solution delivery to reduce impact to end-users, and manages changes by coordinating with the IT Product Owner.
+Of the IT projects reported in May 2019, 45% of the total budget for the 463 projects was with projects that would take more than 2 years to complete.  
 
-**Conventional IT Solution Delivery Model**
+#### GC IT Projects are frequently completed overtime and or over budget
 
-For this Strategy, we define the conventional IT Solution Delivery Model as the current status quo.
+Budgets for IT software contracts are underestimated to a greater degree than other contracts. Contract history data shows that software contracts which have been amended up in value, have been amended upwards by 343%. By contrast, non-software contracts which have been amended up in value have been amended upward in value by 163%.  
 
-The conventional model follows the PMLC gated process and favours advanced planning, rigid plan execution based on committed scope, timeline, and costs, and will report on those commitments to determine the health of the IT project.
+GC IT project data indicates that IT project budgets are frequently underestimated. Of the IT projects in the GC that were reported in 2016, 65% of these projects that were still underway in 2019 were now over budget. On average these projects were over budget by ~160% with 3 of the 98 projects over budget by more than $150M each.
 
-In the conventional model, IT Teams are organized by functions and expecting hand-offs of work throughout the development chain to perform their functional tasks. These work hand-offs are scoped by the team's functions, not the project's overall outcome.
+Of the 98 GC IT Projects that were reported in 2016 and still underway in 2019, 84% were now behind schedule. GC IT Projects that are smaller in budget are more likely to be completed on time or stay on schedule.  Of the projects from 2016, only 35% of projects over $100M were completed or were on or ahead of schedule by 2019.  Compared with 70% of the 2016 projects which were smaller than $10M.
 
-In the conventional model, the Business Realization is expected to be realized as the IT Project closes and the business operations are changed with the new set of capabilities provided by the IT Project. The Business Realization plan expects the business owner to monitor and report discrepancies between planned and actual benefits. Discrepancies are handled by change requirements or new projects.
+## Annex 5: Guidance
 
-Example of a use case:
+### Use of Open Source
 
-**Target IT Solution Delivery Model**
+## References
 
-The Target IT Solution Delivery Model has the same objective as the conventional one: deliver business value for money and reducing the risk with the use of technology. Contrary to the conventional model, it will do so with:
-
-- Limiting the size of IT Projects
-- Defining IT Project in its entirety as the iteration step towards an organizational business goal
-- Requiring commitments from business sponsors throughout the execution of the IT Project
-- Favouring DevOps mentality to improve information flow and accelerate delivery (i.e. using delivery teams as opposed to a series of distributed functional teams)
-- Measuring the business value obtained over time as opposed to strict schedule, cost, and scope estimates
-
-Example of a use case:
-
-**Showback billing model**
-
-Heavily influenced by the [draft Cloud Funding Model](https://dialogue/grp/BU6518687/Strategies%20and%20Governance/Cloud%20Funding%20Model%20-%20New%20Version%204.pptx) from the Cloud CoE.
-
-_Showback_ is a method of showing our clients how much they have spent on what, by who and when, with great details.  When sources of centralized funding are sufficient through a centrally managed cost pool (CMCP), this model proves to be the most efficient especially through approved project management processes and governance
-
-This compared to a _charge back model_: a showback with invoicing.  In other words, it is analogous to cost recovery. That means a chargeback can drive all the same outcomes as a showback, but it adds the ability to enforce accountability with real invoices and guide usage behavior through strategic pricing. Funding is also mostly decentralized.
-
-A showback billing model will require the _provisioning of a CMCP for IT Products to use_. This Strategy focuses on reporting value over time as opposed to strict cost estimate adherence. In this strategy, it is expected to have IITB and CFOB work together for during the following actions (listed in section 3. Coherent set of actions):
-
-- Investigate alternative funding models
-- Officialise approach to track efforts and financials
-
-## Appendix E - Acronym List Definition
-
-| Acronym | Definition                                |
-|---------| ------------------------------------------|
-| ARC     | Architecture Review Committee             |
-| BPMO    | Branch Project Management Office (IITB)   |
-| BRM     | Business Relationship Management          |
-| CCoE    | Cloud Community of Excellence             |
-| CDO     | Chief Data Office                         |
-| CFOB    | Chief Financial Officer Branch            |
-| CIPSC   | Cloud Implementation Project Steering Committee|
-| DGPOC   | Director General Project Oversight Committee|
-| EA      | Enterprise Architecture                   |
-| EARB    | Enterprise Architecture Review Board      |
-| EPMO    | Enterprise Project Management Office      |
-| IAERMB  | Internal Audit and Enterprise Risk Management Branch (formally Internal Audit Services Branch)|
-| OCMC    | Operations Change Management Committee    |
-| PMLC    | Project Management Life Cycle as defined by CFOB|
-| PMP     | Project Management Plan                   |
-| PPOC    | Project Portfolio Operations Committee    |
-| PPPM    | Policy on Project and Program Management  |
-| PPRC    | Portfolio Review Committee                |
-| TSWG    | Technical Standards Working Group         |
-
-## Inline references <!-- omit in toc -->
-
-[^1]: [DORA State of DevOps 2019](https://services.google.com/fh/files/misc/state-of-devops-2019.pdf) pages 40, 51, and 53
+[^1]: Directive on Service and Digital: Mandatory procedures for Enterprise Architecture Assessment https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602
+[^2]: Reference the traditional buy definition in [Annex 0: Definitions](#definitions).
+[^3]: NA.
+[^4]: NA.
+[^5]: NA.
+[^6]: NA.
+[^7]: NA.
+[^8]: Na.
+[^9]: NA.
+[^10]:
+[^11]:
+[^12]:
+[^13]:
+[^14]:
+[^15]:
+[^16]:
+[^17]:
+[^18]:
+[^19]:
+[^20]:
+[^21]:
+[^22]:
+[^23]:
+[^24]:
+[^25]:
+[^26]:
+[^27]:
+[^28]:
+[^29]:
+[^30]: <https://large-government-of-canada-it-projects.github.io/>
