@@ -13,7 +13,7 @@ permalink: /strategy-build-vs-buy-explained.html
 <!-- cSpell:ignoreRegExp /\<[^\>]+\>/ -->
 ## {{ page.title }} <!-- omit in toc -->
 
-Written by Jayson McIntosh and Rachel Muston - Reviews by IT Strategy team
+Written by Jayson McIntosh, Rachel Muston, and Guillaume Charest - Reviews by IT Strategy team
 
 <!-- markdownlint-disable MD001 -->
 ##### Table of Content <!-- omit in toc -->
