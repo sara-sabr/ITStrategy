@@ -15,9 +15,65 @@ permalink: /strategy-build-vs-buy-alignment.html
 
 Written by Jayson McIntosh and Rachel Muston - Reviews by IT Strategy team
 
+<!-- markdownlint-disable MD001 -->
+##### Table of Content <!-- omit in toc -->
+<!-- markdownlint-enable MD001 -->
+
+- [Context](#context)
+- [Current State -- Lack of Alignment](#current-state----lack-of-alignment)
+  - [Digital Standards](#digital-standards)
+    - [1. Design with users](#1-design-with-users)
+    - [2. Iterate and improve frequently](#2-iterate-and-improve-frequently)
+    - [3. Work in the open by default](#3-work-in-the-open-by-default)
+    - [4. Use open standards and solutions](#4-use-open-standards-and-solutions)
+    - [7. Empower staff to deliver better services](#7-empower-staff-to-deliver-better-services)
+  - [Digital Operations Strategic Plan (DOSP)](#digital-operations-strategic-plan-dosp)
+    - [1. A service-oriented government with a user-centred](#1-a-service-oriented-government-with-a-user-centred)
+    - [2. An open, collaborative and accessible government](#2-an-open-collaborative-and-accessible-government)
+    - [4. Modern technology and modern information practices](#4-modern-technology-and-modern-information-practices)
+    - [6. Good digital governance](#6-good-digital-governance)
+  - [D9 Charter](#d9-charter)
+    - [User needs](#user-needs)
+    - [Open source](#open-source)
+    - [Open standards](#open-standards)
+    - [Open markets](#open-markets)
+    - [Open government](#open-government)
+  - [Policy on Service and Digital](#policy-on-service-and-digital)
+  - [Directive on Service and Digital - Appendix A: Mandatory Procedures for Enterprise Architecture Assessment](#directive-on-service-and-digital---appendix-a-mandatory-procedures-for-enterprise-architecture-assessment)
+    - [A.2.3.2.1 Focus on the needs of users, using agile, iterative, and user-centred methods](#a2321-focus-on-the-needs-of-users-using-agile-iterative-and-user-centred-methods)
+    - [Application Architecture: Use Open Standards and Solutions by Default](#application-architecture-use-open-standards-and-solutions-by-default)
+    - [Application Architecture: Enable  Interoperability](#application-architecture-enable-interoperability)
+- [Solution](#solution)
+- [Alignment](#alignment)
+  - [10 Digital Standards](#10-digital-standards)
+    - [Design with users](#design-with-users)
+    - [Iterate and improve frequently](#iterate-and-improve-frequently)
+    - [Use open standards and solutions](#use-open-standards-and-solutions)
+    - [Work in the open by default](#work-in-the-open-by-default)
+    - [Collaborate widely](#collaborate-widely)
+    - [Empower staff to deliver better services](#empower-staff-to-deliver-better-services)
+  - [Digital Operations Strategic Plan](#digital-operations-strategic-plan)
+    - [A service-oriented government with a user-centred](#a-service-oriented-government-with-a-user-centred)
+    - [An open, collaborative and accessible government](#an-open-collaborative-and-accessible-government)
+    - [Modern technology and modern information practices](#modern-technology-and-modern-information-practices)
+    - [Good digital governance](#good-digital-governance)
+  - [Alignment with D9 Charter](#alignment-with-d9-charter)
+    - [User needs](#user-needs-1)
+    - [Open standards](#open-standards-1)
+    - [Open source](#open-source-1)
+    - [Open markets](#open-markets-1)
+    - [Open government](#open-government-1)
+  - [Policy on Service and Digital](#policy-on-service-and-digital-1)
+  - [Directive on Service and Digital - Appendix A: Mandatory Procedures for Enterprise Architecture Assessment](#directive-on-service-and-digital---appendix-a-mandatory-procedures-for-enterprise-architecture-assessment-1)
+    - [Business Architecture: Design for users first and deliver with multidisciplinary teams](#business-architecture-design-for-users-first-and-deliver-with-multidisciplinary-teams)
+    - [Application Architecture: Use Open Standards and Solutions by Default](#application-architecture-use-open-standards-and-solutions-by-default-1)
+    - [Application Architecture: Enable Interoperability](#application-architecture-enable-interoperability-1)
+  - [Government of Canada Architectural Standards](#government-of-canada-architectural-standards)
+    - [Enable Interoperability](#enable-interoperability)
+
 ## Context
 
-This document is complementary content for the Build vs Buy Strategy.
+This document is complementary content for the [Build vs Buy Strategy](strategy-build-vs-buy.html).
 
 ## Current State -- Lack of Alignment
 
@@ -119,11 +175,11 @@ For further discussion please reference Work in the open by default and Use open
 
 Reference the D9 Charter alignment section on Open Markets. Further, existing solutions limit interoperability by only being able to support interoperability implemented and designed by the vendors. Further, through the leveraging of proprietary solutions and standards interoperability may be limited by, or require, proprietary standards to be used, which is at odds with the Digital Standard on using Open standards and solutions, whose message is reiterated in all documents referenced in this strategy.
 
-### Solution
+## Solution
 
 An agile approach to obtaining software.
 
-Taking an agile approach to software acquisition allows us to redefine the build versus buy dichotomy, better align to direction from TBS and industry best practice, modernize our software procurement process, reduce risk, and deliver high quality digital services to Canadians in less time. In order to promote the shift towards an agile approach to IT service delivery and procurement, this Build versus Buy Strategy will focus on putting a focus on shrinking large and long term purchases related to critical systems required to deliver on our important mandate.  Further, it promotes the reuse of existing solutions, whereby the government can improve existing solutions to meet its needs. Through this approach, both build and buy decisions will be reduced. For the exception cases, which will be bought, fall under a specified subset of common, non-mission critical, internal processes.
+Taking an agile approach to obtaining software allows us to redefine the build versus buy dichotomy, better align to direction from TBS and industry best practice, modernize our software procurement process, reduce risk, and deliver high quality digital services to Canadians in less time. In order to promote the shift towards an agile approach to IT service delivery and procurement, this Build versus Buy Strategy will focus on putting a focus on shrinking large and long term purchases related to critical systems required to deliver on our important mandate.  Further, it promotes the reuse of existing solutions, whereby the government can improve existing solutions to meet its needs. Through this approach, both build and buy decisions will be reduced. For the exception cases, which will be bought, fall under a specified subset of common, non-mission critical, internal processes.
 
 In summary, the approach outlined in the subsequent section is intended to result in the following:
 
