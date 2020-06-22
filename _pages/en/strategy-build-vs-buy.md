@@ -14,7 +14,7 @@ permalink: /strategy-build-vs-buy.html
 <!-- cSpell:ignoreRegExp /\<[^\>]+\>/ -->
 ## {{ page.title }} <!-- omit in toc -->
 
-Written by Jayson McIntosh (lead pen), Rachel Muston, and Guillaume Charest - Reviews by IT Strategy team
+Written by Jayson McIntosh, Rachel Muston, and Guillaume Charest - Reviews by IT Strategy team
 
 <style>
 table, th, td {
@@ -27,6 +27,13 @@ th {
 </style>
 
 ***This is a DRAFT strategy.***
+
+<div class="alert alert-info">
+  This strategy is accompanied by two documents: <a href="strategy-build-vs-buy-guidance.html">Guidance</a> and  <a href="strategy-build-vs-buy-alignment.html">Alignment</a>.
+</div>
+<div class="alert alert-info">
+  <strong>This is a DRAFT strategy</strong>. <a href="target-solution-delivery-model-strategy-areas-of-concerns.html">Concerns have been raised</a> by stakeholders as part of the peer review process and are being looked at.
+</div>
 
 <!-- markdownlint-disable MD036 -->
 >_Note 1: Its authoritative source and latest version of this Strategy will be shared on ESDC's internal network (link upcoming)_
