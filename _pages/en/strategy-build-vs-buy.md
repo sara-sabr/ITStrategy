@@ -77,7 +77,8 @@ _Note 3: This version is the preliminary form of the document and will be shortl
 
 The creation of this document was requested by the Director General of Strategy, Architecture and Business Relationships (SABR) within the Innovation, Information and Technology Branch (IITB) within Employment and Social Development Canada (ESDC) to guide future technical software procurement and implementation decisions at the enterprise level.
 
-This strategy focuses on accounting for risk within the build versus buy decision, and emphasizes that solutions are not built nor bought; components are. One must break down a solution into its components through solutions architecture in order for the build versus buy decisions to be made for each component, taking risk of mandate delivery in the decision for each component.
+This strategy focuses on accounting for risk within the build versus buy decision, and emphasizes that solutions are not built nor bought; components are
+One must break down a solution into its components through solutions architecture in order for the build versus buy decisions to be made for each component, taking risk of mandate delivery in the decision for each component.
 
 ### Intended Audience
 
@@ -89,7 +90,8 @@ This document is intended as guidance for the Enterprise Architecture Review Boa
 
 Looking for a systemic and overarching approach to buy vs build of solutions at the organizational level means bypassing the whole concept of solution architecture, where the required experts of the organization, both from business lines, finance, security, information technology, etc., come together to figure out the best possible way of accomplishing its mission through leveraging its various resources including people, tools, processes and rules.
 
-A solution is by default built, whether by a single person, multiple teams or by a third party. As such, the questions to ask are more akin to:
+A solution is by default built, whether by a single person, multiple teams or by a third party.
+As such, the questions to ask are more akin to:
 “What software component(s) are required to enable a given capability?”,
 “For each of those component(s), does one need to purchase a commercial component, adopt an open source one, or build one oneself?”, and
 “How much organizational risk am I willing to delegate to a 3rd party?”.
@@ -111,7 +113,8 @@ The below model explains, in a visual manner, these relationships.
 - Do we currently have the skill sets within the organisation to design, build and operate this solution?
 - Do we currently have the capacity within the organisation to design, build and operate this solution?
 
-These last questions however do not necessarily mean that the technical questions of a solutions architecture should not be asked subsequently. Any solution designed, developed and delivered by a third party should still be abiding by the same principles solutions built within ESDC so that once the transfer to the operations is completed, the organization maintains a high amount of control and flexibility in maintaining and enhancing the solution while limiting its lock-in situations.
+These last questions however do not necessarily mean that the technical questions of a solutions architecture should not be asked subsequently.
+Any solution designed, developed and delivered by a third party should still be abiding by the same principles solutions built within ESDC so that once the transfer to the operations is completed, the organization maintains a high amount of control and flexibility in maintaining and enhancing the solution while limiting its lock-in situations.
 
 As such, if the organization is not in a position to design, build and operate the solution itself, the third party putting the solution together for the benefit of ESDC should have clear directives to align with our own architectural principles.
 
@@ -125,9 +128,15 @@ During a buy decision, assessment factors should include:
 - exit costs and exit challenges,
 - whether the vendor will agree to the GC Terms and Conditions.
 
-The department should not offload its responsibility to Canadians through offloading risk to vendors. Furthermore, through large purchases the government is outsourcing expertise required to deliver on its mandate. Lastly, doing so introduces additional context switches (or handoffs) between organizations, reducing the government's agility to implement its own policy changes, and limits its ability to respond to emergency situations.
+The department should not offload its responsibility to Canadians through offloading risk to vendors.
+Furthermore, through large purchases the government is outsourcing expertise required to deliver on its mandate.
+Lastly, doing so introduces additional context switches (or handoffs) between organizations, reducing the government's agility to implement its own policy changes, and limits its ability to respond to emergency situations.
 
-As per the [Directive on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602), when buy decisions are made, they will prioritize Software as a Service (SaaS) over purchases requiring the maintenance of physical, Platform as a Service (PaaS) or Infrastructure as a Service (Iaas). When selecting which cloud services to leverage, the [Government of Canada Right Cloud Selection Guidance](https://www.canada.ca/en/government/system/digital-government/modern-emerging-technologies/cloud-services/government-canada-right-cloud-selection-guidance.html) will be adhered to. Further consideration should be made with respect to the softwares use of Open Source Software (OSS). When considering COTS, the [Software Licencing Supply Arrangement](https://www.tpsgc-pwgsc.gc.ca/app-acq/cral-sarc/lgcl-ctgr-eng.html) will be used. Preference shall be given in the following order[^1] in addition to the aforementioned cloud prioritization:
+As per the [Directive on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602), when buy decisions are made, they will prioritize Software as a Service (SaaS) over purchases requiring the maintenance of physical, Platform as a Service (PaaS) or Infrastructure as a Service (Iaas).
+When selecting which cloud services to leverage, the [Government of Canada Right Cloud Selection Guidance](https://www.canada.ca/en/government/system/digital-government/modern-emerging-technologies/cloud-services/government-canada-right-cloud-selection-guidance.html) will be adhered to.
+Further consideration should be made with respect to the softwares use of Open Source Software (OSS).
+When considering COTS, the [Software Licencing Supply Arrangement](https://www.tpsgc-pwgsc.gc.ca/app-acq/cral-sarc/lgcl-ctgr-eng.html) will be used.
+Preference shall be given in the following order[^1] in addition to the aforementioned cloud prioritization:
 
 1. OSS using open standards
 1. OSS
@@ -138,7 +147,8 @@ As per the [Directive on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-
 
 #### Risk Managing the Obtention of Software
 
-The Strategy looks at risk managing the obtention of software over following dogmatic rules to purchase or build software (e.g. "SaaS first" does not mean SaaS always, "buy what we can" does not mean buying because it's available). Instead, the Strategy will use such policy instruments as intended by the policy author and its authority to inform decisions for long term sustainability and user needs.
+The Strategy looks at risk managing the obtention of software over following dogmatic rules to purchase or build software (e.g. "SaaS first" does not mean SaaS always, "buy what we can" does not mean buying because it's available).
+Instead, the Strategy will use such policy instruments as intended by the policy author and its authority to inform decisions for long term sustainability and user needs.
 
 The risk management for software acquisition is based on the following formula:
 
@@ -161,7 +171,8 @@ _Impact_ is the impact on ESDC that the change will have, informed by the follow
 
 Based on the risk level, ESDC will adjust its decisions around acquiring software and services (build, buy, or adopt).
 
-Risk levels are heavily influenced by the capability being enabled by software. The following diagram helps visualize how this risk level varies according with the type of capabilities:
+Risk levels are heavily influenced by the capability being enabled by software.
+The following diagram helps visualize how this risk level varies according with the type of capabilities:
 
 ![A 3-layered circle showing that risk increases from exterior to interior circles, the most exterior one being Productivity, the middle one being Corporate or Shared, and the innermost being Core to Mandate]()
 
@@ -169,13 +180,18 @@ Risk levels are heavily influenced by the capability being enabled by software. 
 
 **Corporate or Shared** capabilities, such as Financial Systems, HR Systems, Messaging Bus, Information management and Authentication Systems start increasing risks to ESDC due to their larger footprint in the organization, greater integration requirements, as well as their larger financial and time impacts affecting end users and taxpayers.
 
-**Core** capabilities, such as Employment Insurance, Pension, and Old Age Security are what differentiates ESDC from the large majority of institutions in the world. Software options in this niche market are scarce due to the unique mandate of ESDC. Change probability is high as those capabilities change as much as regulation changes. The impact of such changes has a ripple effect on the whole organization and affects ESDC’s reputation to keep up with citizen demands while maintaining its fiduciary responsibility.
+**Core** capabilities, such as Employment Insurance, Pension, and Old Age Security are what differentiates ESDC from the large majority of institutions in the world.
+Software options in this niche market are scarce due to the unique mandate of ESDC.
+Change probability is high as those capabilities change as much as regulation changes.
+The impact of such changes has a ripple effect on the whole organization and affects ESDC’s reputation to keep up with citizen demands while maintaining its fiduciary responsibility.
 
 ### Build
 
-The decision to build is made when the needs are related to a service tied to the departmental mandate. Decisions to build are for when there is high ambiguity due to likely future legislative changes to requirements.
+The decision to build is made when the needs are related to a service tied to the departmental mandate.
+Decisions to build are for when there is high ambiguity due to likely future legislative changes to requirements.
 
-Build decisions include those built by service providers or suppliers as well government personnel. The requirement is that the system level architectural decisions and expertise remain within the Government of Canada to reduce risk by ensuring agility through leveraging iterative  contracting vehicles and reducing vendor lock-in.
+Build decisions include those built by service providers or suppliers as well government personnel.
+The requirement is that the system level architectural decisions and expertise remain within the Government of Canada to reduce risk by ensuring agility through leveraging iterative  contracting vehicles and reducing vendor lock-in.
 In contrast to traditional build decisions[^2], when the Government of Canada purchases resources from industry the Government of Canada will be the owner of the product itself -- responsible for the projects implementation and operations; overseeing teams supplied by vendors who provide the technical expertise[^3].This ensures that knowledge about the details and functioning of the system exist within the department[^4].
 Expertise and knowledge regarding implementation details of systems Canadians rely on must exist within the Government of Canada[^5].
 
@@ -184,7 +200,7 @@ Expertise and knowledge regarding implementation details of systems Canadians re
 ##### 1. Build Mandate Related Services
 
 Leadership, policies, technology, and user needs change.
-The department needs to be in full control of its ability to deliver on its mandate.[^6]
+The department needs to be in full control of its ability to deliver on its mandate[^6].
 As discussed above risk to Canadians cannot be off loaded on to vendors through responsibility offloading (for further discussion please refer to ([Annex 1, Historical Context](#historical-context)).
 To the contrary, attempting to offload responsibility to vendors introduces risk to the government, as such large projects take years to deliver any value to Canadians, and have an increased likelihood of failure[^7].
 
@@ -193,7 +209,8 @@ For further discussion, reference [Annex 1, GC IT Project Analysis](#gc-it-proje
 ##### 2. Buy software development services over products
 
 This approach aligns with the Digital Operations Strategic Plan ([DOSP](https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html)) as it aligns with _An open, collaborative and accessible government_ and aligns with the Digital Standard _Collaborate widely_ by returning implementation details to the Government of Canada, granting the government full control over its ability to align to TBS direction and applicable legislation.
-Further, when coupled with an agile approach to procurement[^8] and loosely coupled solutions architecture, vendors become interchangeable, thereby reducing vendor lock in. Lastly, by limiting the size and scope of each iteration we are promoting modular architecture by having the structure of the teams mimic the desired modular structure of the software[^9]<sup>,</sup>[^10].
+Further, when coupled with an agile approach to procurement[^8] and loosely coupled solutions architecture, vendors become interchangeable, thereby reducing vendor lock in.
+Lastly, by limiting the size and scope of each iteration we are promoting modular architecture by having the structure of the teams mimic the desired modular structure of the software[^9]<sup>,</sup>[^10].
 
 For details as to why the current approach to build vs buy decisions is out of alignment with GC direction, reference Annex 2.
 
@@ -213,7 +230,8 @@ Given the government will be buying services rather than software, this approach
 The Digital Standards promotes _Working in the open by default, Using Open standards and solutions_.
 
 Whether the solution is written by a team within the Government of Canada, or by a vendor, the code must be (except in the rare case where it is legally prohibited) will be published in the open.
-Proper security considerations must be taken prior to publishing code in the open, and teams are expected to work in tandem with, or acquire the necessary skills to, practice best practice while publishing code in the open. For further guidance on the use of Open Source, please reference to Annex 5, Use of Open Source.
+Proper security considerations must be taken prior to publishing code in the open, and teams are expected to work in tandem with, or acquire the necessary skills to, practice best practice while publishing code in the open.
+For further guidance on the use of Open Source, please reference to Annex 5, Use of Open Source.
 
 ##### 5. Minimize the size, cost, and scale of work packages
 
@@ -237,9 +255,13 @@ This strategy promotes increasing the control that the government has regarding 
 In order to do so, the ratio of build vs buy decisions is expected to increase in favour of build decisions, as defined in the [Annex 0: Definitions](#annex-0-definitions) and elaborated upon in the [Buy Software Services; Not Products](#2-buy-software-development-services-over-products) section.
 Note that the ultimate goal is to increase agility through reusing existing solutions by leveraging OSS, which offers the opportunity to increase collaboration both between private and public sectors, as well as between government bodies[^19].
 
-If Canada is to deliver modern digital services to Citizens then the dated model favouring buy decisions in an effort to offload risk pertaining to implementations of mandated government services. In order to promote these changes, this strategy is aimed at transitioning many buy decisions to a modified build decision, where the government will have an opportunity to maintain control over implementation details and keep the required expertise within the Government of Canada. However, if the goal is for the Government of Canada to be able to align with ever changing requirements, efforts should continue to be made to increase the government's capacity for in-house development[^20]<sup>,</sup>[^21], insofar as doing so does not prevent alignment with government direction. In order to ensure that the department continues to improve its ability to maintain control of service delivery for the benefit of Canadians, the department should focus on increasing its core competencies[^22] in order to increase the rate at which it is able to deliver services to Canadians.
+If Canada is to deliver modern digital services to Citizens then the dated model favouring buy decisions in an effort to offload risk pertaining to implementations of mandated government services.
+In order to promote these changes, this strategy is aimed at transitioning many buy decisions to a modified build decision, where the government will have an opportunity to maintain control over implementation details and keep the required expertise within the Government of Canada.
+However, if the goal is for the Government of Canada to be able to align with ever changing requirements, efforts should continue to be made to increase the government's capacity for in-house development[^20]<sup>,</sup>[^21], insofar as doing so does not prevent alignment with government direction.
+In order to ensure that the department continues to improve its ability to maintain control of service delivery for the benefit of Canadians, the department should focus on increasing its core competencies[^22] in order to increase the rate at which it is able to deliver services to Canadians.
 
-Further, in alignment with Canada’s Cloud First Strategy and in order to gain from the benefits outlined in said strategy, modified builds should also leverage cloud technologies wherever possible. Given this, it is imperative that the department create an environment where vendors are able to build digital services leveraging modern technologies, such as cloud, in order to enable the digital delivery of services to Canadians.
+Further, in alignment with Canada’s Cloud First Strategy and in order to gain from the benefits outlined in said strategy, modified builds should also leverage cloud technologies wherever possible.
+Given this, it is imperative that the department create an environment where vendors are able to build digital services leveraging modern technologies, such as cloud, in order to enable the digital delivery of services to Canadians.
 
 ### Strategic Actions (In Progress)
 
@@ -331,7 +353,13 @@ Topics to consider:
 
 ### Conclusion
 
-With the exception of well established software for generic or peripheral needs of the department, there is little distinction between build vs buy. The question becomes build it oneself, or have someone else build it. Even traditional services delivered through SaaS, such as email, require configuration (build) for their implementation[^23]. Further, even when service providers are to build the solution, given SOA, the department should conduct alpha (the initial design which takes place early exploratory and testing phases) product design so as to be able to design the solution in such a way that it can be managed as separable subsystems[^24]<sup>,</sup>[^25]. In either case, implementation and support decisions will need to be made, and standards will need to be abided by in order to ensure that the Crown remains in control of all code produced, and that the Crown does not find itself locked in to any particular service provider. This strategy is intended to return control of implementation of services back to the department thereby permitting increased alignment with the Government of Canada direction, and increase the quality, and rate by which, digital services are delivered to Canadians. The intent is to replace dated approaches to software delivery in favour of practices aligned with industry best practice in order to promote the department's digital transformation and keep pace with the rising expectations of Canadian citizens with respect to digital services.
+With the exception of well established software for generic or peripheral needs of the department, there is little distinction between build vs buy.
+The question becomes build it oneself, or have someone else build it.
+Even traditional services delivered through SaaS, such as email, require configuration (build) for their implementation[^23].
+Further, even when service providers are to build the solution, given SOA, the department should conduct alpha (the initial design which takes place early exploratory and testing phases) product design so as to be able to design the solution in such a way that it can be managed as separable subsystems[^24]<sup>,</sup>[^25].
+In either case, implementation and support decisions will need to be made, and standards will need to be abided by in order to ensure that the Crown remains in control of all code produced, and that the Crown does not find itself locked in to any particular service provider.
+This strategy is intended to return control of implementation of services back to the department thereby permitting increased alignment with the Government of Canada direction, and increase the quality, and rate by which, digital services are delivered to Canadians.
+The intent is to replace dated approaches to software delivery in favour of practices aligned with industry best practice in order to promote the department's digital transformation and keep pace with the rising expectations of Canadian citizens with respect to digital services.
 
 ## Alignment
 
@@ -386,14 +414,17 @@ Application architecture is designed outside of the Government of Canada, and a 
 ### Open Source Software
 
 Software with its source code made available with a license in which the copyright holder provides the rights to study, change, and distribute the software to anyone and for any purpose.
-The name used by the Open Source Initiative (OSI). Open source software is defined in the Open Source Definition by ten criteria.
+The name used by the Open Source Initiative (OSI).
+Open source software is defined in the Open Source Definition by ten criteria.
 
 - [Open First Whitepaper: Open Source Software Use](https://www.canada.ca/en/government/system/digital-government/open-source-software/open-first-whitepaper/open-first-whitepaper-use.html#definitions)
 
 ### Open standards
 
 Open standards are a set of rules designed to do a specific job in technology.
-Open standards refer to file formats, protocols and application interfaces that can be implemented by everyone (in open source and proprietary software alike) since the specifications are available at no cost, and since their development and standardization is open and transparent. This standardization work is done by specialized agencies that are usually either government agencies or organizations created by professionals from a given industry sector. Examples of such organizations include the Internet Engineering Task Force (IETF), the International Organization for Standardization (ISO) and the Organization for the Advancement of Structured Information Standards (OASIS).
+Open standards refer to file formats, protocols and application interfaces that can be implemented by everyone (in open source and proprietary software alike) since the specifications are available at no cost, and since their development and standardization is open and transparent.
+This standardization work is done by specialized agencies that are usually either government agencies or organizations created by professionals from a given industry sector.
+Examples of such organizations include the Internet Engineering Task Force (IETF), the International Organization for Standardization (ISO) and the Organization for the Advancement of Structured Information Standards (OASIS).
 
 - [Open First Whitepaper: Open Standards](https://www.canada.ca/en/government/system/digital-government/open-source-software/open-first-whitepaper/open-first-whitepaper-standards.html)
 
@@ -411,31 +442,58 @@ Commercial Of The Self (COTS) software where the source code for said product is
 
 The Canadian government’s rationale for procuring 3rd party software solutions and support has historically been based on reducing risk and cost for taxpayers.
 
-However many recent large IT software procurements by the GC have proven that offloading risk to a third party is a fallacy and that the predicted cost savings to taxpayers have not materialized.  Part of this problem is with the procurement process. With the abillity to increase the value of a contract by up to 50% without retendering, contractors can submit “suicide bids” that they know are much too low.  This makes the contracted option initially on paper look better when compared with the costs to developing in house.
+However many recent large IT software procurements by the GC have proven that offloading risk to a third party is a fallacy and that the predicted cost savings to taxpayers have not materialized.
+Part of this problem is with the procurement process.
+With the abillity to increase the value of a contract by up to 50% without retendering, contractors can submit “suicide bids” that they know are much too low.
+This makes the contracted option initially on paper look better when compared with the costs to developing in house.
 
-Time and again we have seen costs balloon on IT contracts.  The Phoenix pay project started at $309M and is expected to now cost over $2.6B.  The Email transformation initiative started at $x and was $100M by the time it was suspended.  The contract for the content management system solution for the Canada.ca project started at $1.54M and was $14.9M by the end.
+Time and again we have seen costs balloon on IT contracts.
+The Phoenix pay project started at $309M and is expected to now cost over $2.6B.
+The Email transformation initiative started at $x and was $100M by the time it was suspended.
+The contract for the content management system solution for the Canada.ca project started at $1.54M and was $14.9M by the end.
 
-Though IT projects don’t just end up over budget due to suicide bids.  They can end up over budget due to a lack of strong integration with internal policy and subject matter experts on the project team.  Without the input from these experts, projects end up not delivering on functionality. Fixing systems that don’t meet functional requirements, comes at a cost, eats into the predicted cost savings for the new software solution.  ETI was supposed to save $50M/year but was only completed up to 20% so any savings achieved are reduced by at least that amount.  Coupled with the budget overruns, it would take 10+ years to achieve a return on investment now. Phoenix was expected to save $70M a year.  Even if all those savings have been achieved, the increased cost means that the return on investment will take 37 years. The phoenix project is another example of this. It was launched with many important pay processing functions missing.  Had the project been done in house, and/or with a tighter coupling with the subject matter experts, it is likely that a stronger case could have been made to not go forward without those functions.
+Though IT projects don’t just end up over budget due to suicide bids.
+They can end up over budget due to a lack of strong integration with internal policy and subject matter experts on the project team.
+Without the input from these experts, projects end up not delivering on functionality.
+Fixing systems that don’t meet functional requirements, comes at a cost, eats into the predicted cost savings for the new software solution.
+ETI was supposed to save $50M/year but was only completed up to 20% so any savings achieved are reduced by at least that amount.
+Coupled with the budget overruns, it would take 10+ years to achieve a return on investment now.
+Phoenix was expected to save $70M a year.
+Even if all those savings have been achieved, the increased cost means that the return on investment will take 37 years.
+The phoenix project is another example of this.
+It was launched with many important pay processing functions missing.
+Had the project been done in house, and/or with a tighter coupling with the subject matter experts, it is likely that a stronger case could have been made to not go forward without those functions.
 
-Further, offloading of risk to the taxpayer is not solely about the build decision itself but rather the ongoing operation. Often traditional build projects include a significant component of ongoing run and support. As such the ongoing support costs, and risk of being required to support companies solely due to severe vendor lock-in.
+Further, offloading of risk to the taxpayer is not solely about the build decision itself but rather the ongoing operation.
+Often traditional build projects include a significant component of ongoing run and support.
+As such the ongoing support costs, and risk of being required to support companies solely due to severe vendor lock-in.
 
 ### GC IT Project Analysis
 
 #### GC IT Projects are large
 
-In May 2019, in response to a written question in the House of Commons[^26], departments self-reported 463 IT projects with budgets of more than $1M[^27].  The total budget allocated to all of these projects was $7B. Of these projects, 83% of the total budget was with projects having a total budget of $10M or more[^28].
+In May 2019, in response to a written question in the House of Commons[^26], departments self-reported 463 IT projects with budgets of more than $1M[^27].
+The total budget allocated to all of these projects was $7B.
+Of these projects, 83% of the total budget was with projects having a total budget of $10M or more[^28].
 
 #### GC IT Projects take a long time to complete
 
-Of the IT projects reported in May 2019, 45% of the total budget for the 463 projects was with projects that would take more than 2 years to complete.  
+Of the IT projects reported in May 2019, 45% of the total budget for the 463 projects was with projects that would take more than 2 years to complete.
 
 #### GC IT Projects are frequently completed overtime and or over budget
 
-Budgets for IT software contracts are underestimated to a greater degree than other contracts. Contract history data shows that software contracts which have been amended up in value, have been amended upwards by 343%. By contrast, non-software contracts which have been amended up in value have been amended upward in value by 163%.  
+Budgets for IT software contracts are underestimated to a greater degree than other contracts.
+Contract history data shows that software contracts which have been amended up in value, have been amended upwards by 343%.
+By contrast, non-software contracts which have been amended up in value have been amended upward in value by 163%.
 
-GC IT project data indicates that IT project budgets are frequently underestimated. Of the IT projects in the GC that were reported in 2016, 65% of these projects that were still underway in 2019 were now over budget[^29]. On average these projects were over budget by ~160% with 3 of the 98 projects over budget by more than $150M each.
+GC IT project data indicates that IT project budgets are frequently underestimated.
+Of the IT projects in the GC that were reported in 2016, 65% of these projects that were still underway in 2019 were now over budget[^29].
+On average these projects were over budget by ~160% with 3 of the 98 projects over budget by more than $150M each.
 
-Of the 98 GC IT Projects that were reported in 2016 and still underway in 2019, 84% were now behind schedule. GC IT Projects that are smaller in budget are more likely to be completed on time or stay on schedule.  Of the projects from 2016, only 35% of projects over $100M were completed or were on or ahead of schedule by 2019.  Compared with 70% of the 2016 projects which were smaller than $10M[^30].
+Of the 98 GC IT Projects that were reported in 2016 and still underway in 2019, 84% were now behind schedule.
+GC IT Projects that are smaller in budget are more likely to be completed on time or stay on schedule.
+Of the projects from 2016, only 35% of projects over $100M were completed or were on or ahead of schedule by 2019.
+Compared with 70% of the 2016 projects which were smaller than $10M[^30].
 
 ## Annex 5: Guidance
 
@@ -446,14 +504,14 @@ Of the 98 GC IT Projects that were reported in 2016 and still underway in 2019, 
 [^1]: Directive on Service and Digital: Mandatory procedures for Enterprise Architecture Assessment https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602
 [^2]: Reference the traditional buy definition in [Annex 0: Definitions](#definitions).
 [^3]: [18F](https://18f.gov/) in [De-risking custom technology projects](https://github.com/18F/technology-budgeting/blob/master/handbook.md#hire-tech-talent-in-house) writes, “The product owner is the key person for any software project, and must be a government employee.”
-[^4]: Pia Andrews writes in [What improving IT procurement in the public sector looks like: navigating, balancing, and initiating procurement conversations to avoid sprinting off cliffs](https://www.themandarin.com.au/118548-improving-it-procurement-public-sector-navigating-balancing-initiating-procurement-conversations/), identifies a challenge for government in procurement arrangements as being “the lack of subject matter expertise at key decision points in sourcing. … You must have actual technologists involved in the process, and the requirements must be informed by great service design and testing, otherwise you are just taking a gamble.”
+[^4]: Pia Andrews writes in [What improving IT procurement in the public sector looks like: navigating, balancing, and initiating procurement conversations to avoid sprinting off cliffs](https://www.themandarin.com.au/118548-improving-it-procurement-public-sector-navigating-balancing-initiating-procurement-conversations/), identifies a challenge for government in procurement arrangements as being “the lack of subject matter expertise at key decision points in sourcing. [...] You must have actual technologists involved in the process, and the requirements must be informed by great service design and testing, otherwise you are just taking a gamble.”
 [^5]: The Professional Institute of the Public Service of Canada observes in their article, [Symptoms of outsourcing IT work – knowledge loss and the transfer of skills](https://pipsc.ca/news-issues/outsourcing/part-one-real-cost-outsourcing/symptoms#_ftn2), that “As the government outsources more and more IT functions, they become more reliant on private contractors to run their own systems. Over time, institutional knowledge and expertise become concentrated within private contractors instead of within the government. The institutional knowledge that accumulates with private contractors makes it difficult to change service providers when contracts end and even more difficult to bring the services back in-house.”
-[^6]: Pia Andrews writes in [What improving IT procurement in the public sector looks like: navigating, balancing, and initiating procurement conversations to avoid sprinting off cliffs](https://www.themandarin.com.au/118548-improving-it-procurement-public-sector-navigating-balancing-initiating-procurement-conversations/), writes “consider whether what you are doing is commodity or domain-specific and whether it is well defined or relatively ambiguous... you don’t want to jump straight to pure COTS for domain-specific functions or where there is high ambiguity... also want to consider whether what you are doing should be considered as digital public infrastructure”
+[^6]: Pia Andrews writes in [What improving IT procurement in the public sector looks like: navigating, balancing, and initiating procurement conversations to avoid sprinting off cliffs](https://www.themandarin.com.au/118548-improving-it-procurement-public-sector-navigating-balancing-initiating-procurement-conversations/), writes “consider whether what you are doing is commodity or domain-specific and whether it is well defined or relatively ambiguous [...] you don’t want to jump straight to pure COTS for domain-specific functions or where there is high ambiguity [...] also want to consider whether what you are doing should be considered as digital public infrastructure”
 [^7]: A survey conducted by the Standish Group, the CHAOS Report, observers that projects costing more than $10 million are significantly less likely to succeed, at an 8% success rate for projects over 10 million dollars. Conversely, projects under $1 million have a success rate of 70%.
 [^8]: For more on agile procurement, we suggest reading the Canadianized of the 18F’s [De-risking custom technology projects](https://github.com/18F/technology-budgeting/blob/master/handbook.md)
 [^9]: For further discussions please reference The Reverse Conway Maneuver as discussed in Team Topologies and Accelerate, which writes, “Our research lends support to what is sometimes called the “inverse Conway maneuver,” which states that organizations should evolve their team and organizational structure to achieve the desired architecture.”
 [^10]: For further discussion on how this aligns with GC Direction, please reference Annex 3: Digital Standards, Iterative and improve frequently (TBC).
-[^11]: For further discussion, please refer to [Minimize the size, cost, and scale section](#5-minimize-the-size-cost-and-scale-of-work-packages) below
+[^11]: For further discussion, please refer to [Minimize the size, cost, and scale section](#5-minimize-the-size-cost-and-scale-of-work-packages) below.
 [^12]: In the DevOps Handbook they refer to Randy Shoup, former Engineering Director for Google App Engine who observed that “organizations with these types of service-oriented architectures, such as Google and Amazon, have incredible flexibility and scalability”.
 [^13]: The CBC reported that “Officials briefing Trudeau after his party's re-election noted "mission-critical" systems and applications are "rusting out and at risk of failure," requiring immediate attention from his government. Some systems are pushing 60 years old and built on "outdated technology" that can no longer be maintained.”
 [^14]: In the Prime Ministers, [Minister of Digital Government Mandate Letter](https://pm.gc.ca/en/mandate-letters/2019/12/13/minister-digital-government-mandate-letter) “the use and development of open source products and open data” is encouraged, and it is written that, “I also expect us to continue to raise the bar on openness, effectiveness and transparency in government”.
