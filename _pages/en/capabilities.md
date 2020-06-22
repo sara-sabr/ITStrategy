@@ -12,7 +12,11 @@ permalink: /high-performing-it-capabilities.html
 
 The [State of DevOps Report](https://cloud.google.com/devops/state-of-devops/) has been published annually since 2014, as part of the DevOps Research and Assessment (DORA), a six-year research program that has validated a number of technical, process, measurement, and cultural [capabilities to drive higher software delivery and organizational performance](https://cloud.google.com/devops/#devops-capabilities).
 
-A [Quick Check of software delivery performance in ESDC and IITB](https://www.devops-research.com/performance.html?leadtime=2&deployfreq=2&ttr=4&chgfail=5&industry=government) show that we are low performers in lead time for changes, deployment frequency, time to restore service and change fail rate.
+A [Quick Check of software delivery performance in ESDC and IITB](https://www.devops-research.com/performance.html?leadtime=2&deployfreq=2&ttr=4&chgfail=5&industry=government) show that we are low performers in general and is inline with results of internal assessments.
+
+- Low (1 to 6 months) in lead time for changes and deployment frequency.
+- Medium-high (1-7 days) in time to restore service
+- High-medium (16 to 30%) in change fail rate.
 
 ### Lead time
 
