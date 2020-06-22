@@ -46,8 +46,10 @@ th {
 <!-- markdownlint-disable MD001 -->
 ##### Table of Content <!-- omit in toc -->
 <!-- markdownlint-enable MD001 -->
-- [About this document](#about-this-document)
-  - [Intended Audience](#intended-audience)
+- [Introduction](#introduction)
+  - [Purpose](#purpose)
+  - [Target Audience](#target-audience)
+  - [Business Case](#business-case)
 - [The Strategy](#the-strategy)
   - [Buy vs Build: oversimplifying solutions architecture](#buy-vs-build-oversimplifying-solutions-architecture)
     - [Explanation](#explanation)
@@ -88,16 +90,42 @@ th {
   - [Use of Open Source](#use-of-open-source)
 - [References](#references)
 
-## About this document
+## Introduction
 
-The creation of this document was requested by the Director General of Strategy, Architecture and Business Relationships (SABR) within the Innovation, Information and Technology Branch (IITB) within Employment and Social Development Canada (ESDC) to guide future technical software procurement and implementation decisions at the enterprise level.
+### Purpose
 
-This strategy focuses on accounting for risk within the build versus buy decision, and emphasizes that solutions are not built nor bought; components are
-One must break down a solution into its components through solutions architecture in order for the build versus buy decisions to be made for each component, taking risk of mandate delivery in the decision for each component.
+To provide IITB with a build versus buy assessment framework.
 
-### Intended Audience
+The strategy includes:
 
-This document is intended as guidance for the Enterprise Architecture Review Board (EARB).
+1. A **guiding policy**, which serves to set automatic decisions that defines the build versus buy assessment framework
+2. A **coherent set of actions** (an action plan), which serve to operationalize the build versus buy assessment framework.
+
+The intent behind this strategy is to communicate a decision by the CIO (not yet approved) on a path forward (the Guiding Policy), and what investments are needed to operationalize that decision (the coherent set of actions).
+
+### Target Audience
+
+This **strategy document** is targeted to stakeholders involved in determining whether to build or to buy software components.
+More specifically, stakeholders involved in architecting solutions, defining technology standards, developing, delivering, operationalizing and maintaining IT Solutions (such as Enterprise Architecture, Enterprise Operations, etc.).
+This includes both IITB and non-IITB stakeholders (such as from Business Functions, SSPB, CDO, ISB, IAERMB, and SSC).
+The list of stakeholders are listed in section [Coherent set of actions](#coherent-set-of-actions) and are expected to participate in the execution stage of this strategy necessary to operationalize the Guiding Policy.
+
+The **Guiding Policy**, once operationalized, will target stakeholders involved when the need for an IT Solution is raised, when the IT Solution is conceptualized, architected, developed, delivered, operationalized, and maintained.
+All ESDC personnel involved in the exploration of IT Solutions and in IT investment decisions are expected to adhere to this policy.
+
+### Business Case
+
+Moving to the digital age requires improving IT's responsiveness and promoting a shared accountability with ESDC stakeholders on the use of technology.
+
+To improve IT's responsiveness, we must find ways to reduce risks associated with its use as well as with the ways we obtain it.
+This strategy proposes moving ESDC to the point where the complexity of IT Solutions is properly understood and investment decisions are taken with flexibility, interchangeability, and interoperability in mind throughout the entire lifecycle of an IT Solution, not only at the initial stage.
+The benefits to increase the flexibility and interoperability of IT Solutions architectures as well as reusability and scalability of its IT Products are expected to reduce risk [^1], reduce technical debt over time, increase client satisfaction, and increase overall confidence in the department and its staff.
+
+This strategy capitalizes on existing IT initiatives (such as the [IITB Way Forward](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx)) to compliment them by adding attention to them, as well as complimenting them with new activities.
+
+This strategy's goal is to define a build versus buy framework, and provide a roadmap in getting to the adoption of this framework.
+
+More details in [Annex A](#appendix-a---business-case-diagnostic).
 
 ## The Strategy
 
