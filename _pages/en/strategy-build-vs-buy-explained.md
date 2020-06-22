@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "Build versus Buy - Alignment"
-ref: build-vs-buy-alignment
+title: "Build versus Buy - Explained"
+ref: build-vs-buy-explained
 lang: en
 status: posted
 version: 0.01
 date: "2020-06-22"
-permalink: /strategy-build-vs-buy-alignment.html
+permalink: /strategy-build-vs-buy-explained.html
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- the below cSpell statement says to ignore any text between HTML tags. E.g. it will ignore "th rowspan='2'" in this string: <th rowspan='2'> -->
@@ -120,7 +120,7 @@ The agile methodology is the approach taken by an overwhelming majority of those
 
 #### 6. Good digital governance
 
-Under this theme the DOSP reads that this includes, “[ensuring that] we have proper project oversight and strategic prioritization, and that we learn from past mistakes and build on past successes”. The current approach to purchasing large enterprise software locks in the Government of Canada into lengthy and risky contracts. As was demonstrated by the Phoenix Project (further discussed below, please reference Historical Context), the risk associated with digital projects is increased through the use of lengthy large and expensive projects with substantial vendors.
+Under this theme the DOSP reads that this includes, “[ensuring that] we have proper project oversight and strategic prioritization, and that we learn from past mistakes and build on past successes”. The current approach to purchasing large enterprise software locks in the Government of Canada into lengthy and risky contracts. As was demonstrated by the Phoenix Project (further discussed, please reference [Historical Context](strategy-build-vs-buy.html#historical-context)), the risk associated with digital projects is increased through the use of lengthy large and expensive projects with substantial vendors.
 
 ### D9 Charter
 
@@ -130,7 +130,7 @@ Under this theme the DOSP reads that this includes, “[ensuring that] we have p
 
 With the current large acquisition model of government often the developers gather requirements through waterfall oriented requirements documents. In many cases, even those generating the requirements have not been generated through direct interaction with users, which is at odds with the suggested approach by this principle.
 
-The intent of this principle is outlined in the American Digital Services Playbook which reads, under Understand what people need, that “ The needs of people — not constraints of government structures or silos — should inform technical and design decisions. We need to continually test the products we build with real people to keep us honest about what is important.” Further, the Service design playbook from the Government of Ontario under About service design states that ‘Service design is a process that involves … testing a service regularly with the people who will use it”. Our current approach to purchasing solutions is at odds with modernizing digital service delivery efforts and this principle.
+The intent of this principle is outlined in the [American Digital Services Playbook](https://playbook.cio.gov/#play1) which reads, under Understand what people need, that “ The needs of people — not constraints of government structures or silos — should inform technical and design decisions. We need to continually test the products we build with real people to keep us honest about what is important.” Further, the [Service design playbook](https://www.ontario.ca/page/service-design-playbook#section-0) from the Government of Ontario under About service design states that ‘Service design is a process that involves … testing a service regularly with the people who will use it”. Our current approach to purchasing solutions is at odds with modernizing digital service delivery efforts and this principle.
 
 #### Open source
 
@@ -146,11 +146,11 @@ For further discussion please reference Work in the open by default and Use open
 
 #### Open markets
 
-Presently the department's approach is at odds with open markets, instead favouring large established vendors. In an attempt (as discussed in the Historical Context section) to offload risk governments often insist that vendors are able to guarantee prolonged contract support and are able to host the software on the government's behalf. While not accomplishing its goal, as the government still suffers the impact from failed projects, it also has the added byproduct of excluding most software vendors who are not in the hosting business[^5]. Further, the current waterfall style requirements documents is not longer considered industry best practice, and the use of which will become a barrier of entry to many software vendors who have the skills needed to deliver modern digital services[^6]<sup>,</sup>[^7]<sup>,</sup>[^8].
+Presently the department's approach is at odds with open markets, instead favouring large established vendors. In an attempt (as discussed in the [Historical Context](strategy-build-vs-buy.html#historical-context) section) to offload risk governments often insist that vendors are able to guarantee prolonged contract support and are able to host the software on the government's behalf. While not accomplishing its goal, as the government still suffers the impact from failed projects, it also has the added byproduct of excluding most software vendors who are not in the hosting business[^5]. Further, the current waterfall style requirements documents is not longer considered industry best practice, and the use of which will become a barrier of entry to many software vendors who have the skills needed to deliver modern digital services[^6]<sup>,</sup>[^7]<sup>,</sup>[^8].
 
 #### Open government
 
-Through the heavy use of proprietary software with requirements that isolate most Canadian software vendors from helping deliver services to Canadians (as outlined above), the department is closing its doors to most Canadian software vendors -- at odds with this principle. Further, through the use of proprietary software rather than the use of open source, and open solutions and standards, as is called for in the DOSP and Digital Standards, the government is reducing the transparency that is called for in Canada's 2018-2020 National Action Plan on Open Government.
+Through the heavy use of proprietary software with requirements that isolate most Canadian software vendors from helping deliver services to Canadians (as outlined above), the department is closing its doors to most Canadian software vendors -- at odds with this principle. Further, through the use of proprietary software rather than the use of open source, and open solutions and standards, as is called for in the DOSP and Digital Standards, the government is reducing the transparency that is called for in [Canada's 2018-2020 National Action Plan on Open Government](https://open.canada.ca/en/content/canadas-2018-2020-national-action-plan-open-government#toc7).
 
 ### Policy on Service and Digital
 
@@ -166,7 +166,7 @@ For further details relating to how the current approach to software acquisition
 
 #### A.2.3.2.1 Focus on the needs of users, using agile, iterative, and user-centred methods
 
-For further discussion on needs of users reference Design with users above in the Digital Standards.
+For further discussion on needs of users reference Design with users above in the [Digital Standards](#digital-standards).
 
 #### Application Architecture: Use Open Standards and Solutions by Default
 
@@ -174,7 +174,7 @@ For further discussion please reference Work in the open by default and Use open
 
 #### Application Architecture: Enable  Interoperability
 
-Reference the D9 Charter alignment section on Open Markets. Further, existing solutions limit interoperability by only being able to support interoperability implemented and designed by the vendors. Further, through the leveraging of proprietary solutions and standards interoperability may be limited by, or require, proprietary standards to be used, which is at odds with the Digital Standard on using Open standards and solutions, whose message is reiterated in all documents referenced in this strategy.
+Reference the [D9 Charter](#alignment-with-d9-charter) alignment section on Open Markets. Further, existing solutions limit interoperability by only being able to support interoperability implemented and designed by the vendors. Further, through the leveraging of proprietary solutions and standards interoperability may be limited by, or require, proprietary standards to be used, which is at odds with the Digital Standard on using Open standards and solutions, whose message is reiterated in all documents referenced in this strategy.
 
 ## Solution
 
@@ -223,7 +223,7 @@ This is the first theme listed among the six and is described as follows, “A s
 
 This approach is directly aligned with this theme, as it will deliver value regularly to users, allowing for user feedback to validate the hypotheses inherently built in to any solution[^16]. This strategy, in alignment with this theme, prioritizes user engagement and the delivery of business value over drawn out procurement and governance processes that delay both the delivery of value to Canadians and increase risk through big-bang approaches to service delivery.
 
-Furthermore, Canadian governmental organizations are beholden to various legislation which, by maintaining control over implementation details, the department maintains control over. For example, the Official Languages Act and the Accessible Canada Act. Additionally, when coupled with 10 Digital Standards: Work in the open by default it offers the opportunity for impacted Canadians to offer contributions back to the systems that impact their lives.
+Furthermore, Canadian governmental organizations are beholden to various legislation which, by maintaining control over implementation details, the department maintains control over. For example, the [Official Languages Act](https://laws-lois.justice.gc.ca/eng/acts/o-3.01/) and the [Accessible Canada Act](https://laws-lois.justice.gc.ca/eng/acts/A-0.6/). Additionally, when coupled with 10 Digital Standards: Work in the open by default it offers the opportunity for impacted Canadians to offer contributions back to the systems that impact their lives.
 
 #### An open, collaborative and accessible government
 
