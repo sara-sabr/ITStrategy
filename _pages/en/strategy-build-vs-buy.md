@@ -5,7 +5,8 @@ ref: build-vs-buy
 lang: en
 status: posted
 sections: Strategies
-version: 0.1
+version: 0.01
+date: "2020-06-22"
 permalink: /strategy-build-vs-buy.html
 ---
 <!-- markdownlint-disable MD033 -->
