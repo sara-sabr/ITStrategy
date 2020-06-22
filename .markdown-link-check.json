@@ -74,6 +74,12 @@
     },
     {
       "pattern": "http://srmis-sigdi-iagent.prv"      
+    },
+    {
+      "pattern": "https://www.linkedin.com/in/boris-lublinsky-b6a4a"
+    },
+    {
+      "pattern": "https://www.tpsgc-pwgsc.gc.ca/app-acq/cral-sarc/lgcl-ctgr-eng.html"
     }
   ]
 }
