@@ -162,9 +162,180 @@ Given the aforementioned principle, Buy software services -- not products, when 
 
 ##### 4. Publish as open source
 
+By default, all work, wherever possible, will be released as open source. Given the government will be buying services rather than software, this approach promotes greater alignment with the Government of Canada direction, as outlined in Annex 3: Alignment. The Digital Standards promotes Working in the open by default, Using Open standards and solutions. 
 
+Whether the solution is written by a team within the Government of Canada, or by a vendor, the code must be (except in the rare case where it is legally prohibited) will be published in the open. Proper security considerations must be taken prior to publishing code in the open, and teams are expected to work in tandem with, or acquire the necessary skills to, practice best practice while publishing code in the open. For further guidance on the use of Open Source, please reference to Annex 5, Use of Open Source.
 
-## Definitions
+##### 5. Minimize the size, cost, and scale of work packages
+
+As discussed above, by increasing build decisions the government retains control over its ability to deliver on its mandate and removes context switches between organizations, resulting in system expertise leaving the government. In order to further reduce the risk of build decisions, small incremental projects are advised over large ones. By decreasing the size of projects we decrease risk by increasing the likelihood of success. Further, this method of delivery ensures business value is provided as early as possible. If no business value is provided, the project may be cancelled without having dedicated the total budget, or entire timeframe initially intended for its development. This approach also aligns with best practices for modern software delivery,. This paradigm removes the need for large scale and risky projects. Instead, using a modular approach to software design we are able to reduce the likelihood of failure, maintain agility to avoid vendor lock in, increase the vendor pool availability, and increase our adherence to direction from TBS by maintaining more control over the design decisions and implementation details of the solutions created on behalf of the government. As such, it is advised that when making build decisions, efforts be made for any given contract to be strictly less than $1 million, and any project is expected to have products able to deliver business value in strictly less than six months, ideally within weeks. Contracts strictly greater than $10 million should be exception cases for particularly complex systems.
+
+For further discussion, please reference Annex 1, specifically, GC IT Project Analysis.
+
+### Next Steps
+
+This strategy promotes increasing the control that the government has regarding the delivery of digital services pertaining to its mandate. In order to do so, the ratio of build vs buy decisions is expected to increase in favour of build decisions, as defined in the Annex 0: Definitions and elaborated upon in the Buy Software Services; Not Products section. Note that the ultimate goal is to increase agility through reusing existing solutions by leveraging OSS, which offers the opportunity to increase collaboration both between private and public sectors, as well as between government bodies.
+
+If Canada is to deliver modern digital services to Citizens then the dated model favouring buy decisions in an effort to offload risk pertaining to implementations of mandated government services. In order to promote these changes, this strategy is aimed at transitioning many buy decisions to a modified build decision, where the government will have an opportunity to maintain control over implementation details and keep the required expertise within the Government of Canada. However, if the goal is for the Government of Canada to be able to align with ever changing requirements, efforts should continue to be made to increase the government's capacity for in-house development,, insofar as doing so does not prevent alignment with government direction. In order to ensure that the department continues to improve its ability to maintain control of service delivery for the benefit of Canadians, the department should focus on increasing its core competencies in order to increase the rate at which it is able to deliver services to Canadians. 
+
+Further, in alignment with Canada’s Cloud First Strategy and in order to gain from the benefits outlined in said strategy, modified builds should also leverage cloud technologies wherever possible. Given this, it is imperative that the department create an environment where vendors are able to build digital services leveraging modern technologies, such as cloud, in order to enable the digital delivery of services to Canadians.
+
+### Strategic Actions (In Progress)
+
+In the area of procurement
+
+- Develop and implement a streamlined/fast track process for low dollar value procurement of IT services with expertise in open source (to assist with open source ‘build’ work and to incentivize small companies to compete and better distribute GC contract dollars to small companies and individuals)
+- Pilot contract payment automation for low dollar value contracts (to incentivize small companies to compete)
+- Build expertise within IITB for breaking work down into small work packages and describing that work (so that when capacity is low, small contracts can be done by external services)
+
+Topics to consider:
+
+1. Procurement vehicles (e.g. agile procurement, DevExchange to favour smaller players, OSS support services)
+1. Legal (e.g. subscribing to SaaS and the T&Cs)
+1. Financial (services like SaaS are not capital expense, they are operational ones. This affects budgeting and I don't think Procurement/Finance is yet up to speed on the matter)
+
+<table>
+  <tr>
+    <th>Action</th>
+    <th>Team</th>
+    <th>Stakeholders</th>
+  </tr>
+  <tr>
+    <td>Create agile procurement process</td>
+    <td>
+      <ul>
+        <li>IT Strategy</li>
+        <li>Procurement Innovation</li>
+        <li>Others</li>
+      </ul>
+    </td>
+    <td>DOSP
+      <ul>
+        <li>#37 Section 4.3</li>
+        <li>#72 Section 6.2</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Create agile procurement Strategy</td>
+    <td>
+      <ul>
+        <li>IT Strategy</li>
+        <li>IITB Finance</li>
+        <li>CFOB</li>
+        <li>Others</li>
+      </ul>
+    </td>
+    <td>DOSP
+      <ul>
+        <li>#37 Section 4.3</li>
+        <li>#72 Section 6.2</li>
+      </ul>
+    </td>
+  </tr>
+   <tr>
+    <td>Legal Framework for requiring code published as OSS</td>
+    <td></td>
+    <td></td>
+  </tr>
+   <tr>
+    <td>Finance Frameworks for Micro Procurement (or miniature procurement)
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Training of relevant staff on SOA</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Provide ESDC with means to purchase SaaS</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Modernize Build vs Buy principle given Cloud First position</td>
+    <td>
+      <ul>
+        <li>IT Strategy</li>
+        <li>IITB Finance</li>
+        <li>CFOB</li>
+        <li>Others</li>
+      </ul>
+    </td>
+    <td></td>
+  </tr>
+</table>
+
+### Conclusion
+
+With the exception of well established software for generic or peripheral needs of the department, there is little distinction between build vs buy. The question becomes build it oneself, or have someone else build it. Even traditional services delivered through SaaS, such as email, require configuration (build) for their implementation. Further, even when service providers are to build the solution, given SOA, the department should conduct alpha (the initial design which takes place early exploratory and testing phases) product design so as to be able to design the solution in such a way that it can be managed as separable subsystems,. In either case, implementation and support decisions will need to be made, and standards will need to be abided by in order to ensure that the Crown remains in control of all code produced, and that the Crown does not find itself locked in to any particular service provider. This strategy is intended to return control of implementation of services back to the department thereby permitting increased alignment with the Government of Canada direction, and increase the quality, and rate by which, digital services are delivered to Canadians. The intent is to replace dated approaches to software delivery in favour of practices aligned with industry best practice in order to promote the department's digital transformation and keep pace with the rising expectations of Canadian citizens with respect to digital services.
+
+## Alignment
+
+### Digital Standards
+
+- Design with users
+- Iterate and improve frequently
+- Work in the open by default
+- Use open standards and solutions
+- Empower staff to deliver better services
+
+### Digital Operations Strategic Plan (DOSP)**
+
+- A service-oriented government with a user-centred 
+- An open, collaborative and accessible government
+- Modern technology and modern information practices
+- Good digital governance
+
+### Digital Nations Charter
+
+- User needs - the design of public services for the citizen
+- Open source - future Government systems, tradecraft, manuals and standards are created as open source and are shareable between participants
+- Open standards - technology requires interoperability and so a - clear commitment to a credible royalty free open standards policy is needed
+- Open markets
+
+### Policy on Service and Digital
+
+- Objectives and expected results: Service design and delivery is client-centric by design
+
+### Directive on Service and Digital - Appendix A: Mandatory Procedures for Enterprise Architecture Assessment
+
+- A.2.3.2.1 Focus on the needs of users, using agile, iterative, and user-centred methods
+- Application Architecture: Use Open Standards and Solutions by Default
+- Application Architecture: Enable  Interoperability
+
+### Government of Canada Architectural Standards
+
+- Enable Interoperability
+
+For at length discussion regarding how this strategy improves alignment to the aforementioned policy instruments, reference [this complementary material](https://docs.google.com/document/d/18byeCbXBQBR1yFS3c4ySB00FhaRcxIrQUl87mReRFH8/edit?usp=sharing).
+
+## Annex 0: Definitions
+
+### Build
+
+A process whereby the department remains the authority on high level architectural decisions of the solution, or where the department maintains the legal and technical ability to alter the source of the application as needed.
+
+### Buy
+
+Application architecture is designed outside of the Government of Canada, and a completed product is purchased from a vendor, or support is purchased for a solution developed externally to the department or Government of Canada.
+
+### Open Source Software
+
+Software with its source code made available with a license in which the copyright holder provides the rights to study, change, and distribute the software to anyone and for any purpose.
+The name used by the Open Source Initiative (OSI). Open source software is defined in the Open Source Definition by ten criteria.
+
+- [Open First Whitepaper: Open Source Software Use](https://www.canada.ca/en/government/system/digital-government/open-source-software/open-first-whitepaper/open-first-whitepaper-use.html#definitions)
+
+### Open standards
+Open standards are a set of rules designed to do a specific job in technology. Open standards refer to file formats, protocols and application interfaces that can be implemented by everyone (in open source and proprietary software alike) since the specifications are available at no cost, and since their development and standardization is open and transparent. This standardization work is done by specialized agencies that are usually either government agencies or organizations created by professionals from a given industry sector. Examples of such organizations include the Internet Engineering Task Force (IETF), the International Organization for Standardization (ISO) and the Organization for the Advancement of Structured Information Standards (OASIS).
+Open First Whitepaper: Open Standards
+Closed COTS
+Commercial Of The Self (COTS) software where the source code for said product is not open source.
+Open COTS
+Commercial Of The Self (COTS) software where the source code for said product is open source.
 
 ## References
 
