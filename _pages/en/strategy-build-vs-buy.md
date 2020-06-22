@@ -50,8 +50,14 @@ th {
   - [Purpose](#purpose)
   - [Target Audience](#target-audience)
   - [Business Case](#business-case)
-- [The Strategy](#the-strategy)
-  - [Buy vs Build: oversimplifying solutions architecture](#buy-vs-build-oversimplifying-solutions-architecture)
+- [Guiding Policy](#guiding-policy)
+  - [Governance, Compliance, and Reporting](#governance-compliance-and-reporting)
+  - [Finance](#finance)
+  - [Architecture](#architecture)
+- [Coherent set of actions](#coherent-set-of-actions)
+- [Measuring the Strategy's success](#measuring-the-strategys-success)
+- [Appendix A - Business Case (Diagnostic)](#appendix-a---business-case-diagnostic)
+  - [Buy vs Build Dichotomy: oversimplifying solutions architecture](#buy-vs-build-dichotomy-oversimplifying-solutions-architecture)
     - [Explanation](#explanation)
     - [Additional considerations](#additional-considerations)
   - [Buy](#buy)
@@ -119,7 +125,7 @@ Moving to the digital age requires improving IT's responsiveness and promoting a
 
 To improve IT's responsiveness, we must find ways to reduce risks associated with its use as well as with the ways we obtain it.
 This strategy proposes moving ESDC to the point where the complexity of IT Solutions is properly understood and investment decisions are taken with flexibility, interchangeability, and interoperability in mind throughout the entire lifecycle of an IT Solution, not only at the initial stage.
-The benefits to increase the flexibility and interoperability of IT Solutions architectures as well as reusability and scalability of its IT Products are expected to reduce risk [^1], reduce technical debt over time, increase client satisfaction, and increase overall confidence in the department and its staff.
+The benefits to increasing the flexibility and interoperability of IT Solutions architectures as well as reusability and scalability of its IT Products are expected to reduce risk [^1], reduce technical debt over time, increase client satisfaction, and increase overall confidence in the department and its staff.
 
 This strategy capitalizes on existing IT initiatives (such as the [IITB Way Forward](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx)) to compliment them by adding attention to them, as well as complimenting them with new activities.
 
@@ -127,11 +133,84 @@ This strategy's goal is to define a build versus buy framework, and provide a ro
 
 More details in [Annex A](#appendix-a---business-case-diagnostic).
 
-## The Strategy
+## Guiding Policy
 
-### Buy vs Build: oversimplifying solutions architecture
+The following policy reflects the decision adopted by the **CIO of ESDC** (approval by CIO not yet obtained) when deciding whether an IT solution should be built or bought.
+Each policy statement is a declaration of that decision and has received the endorsement of its associated area of governance body (endorsements not yet obtained, see section [coherent set of actions](#coherent-set-of-actions)).
 
-Looking for a systemic and overarching approach to buy vs build of solutions at the organizational level means bypassing the whole concept of solution architecture, where the required experts of the organization, both from business lines, finance, security, information technology, etc., come together to figure out the best possible way of accomplishing its mission through leveraging its various resources including people, tools, processes and rules.
+This policy becomes active when IT Solutions are to be obtained, whether delivered by IITB or by a third party provider.
+Once active, all teams involved in the project, and the IT products involved in the IT solution, must comply with this guiding policy.
+
+This Guiding Policy has been prepared by taking into consideration alignment and compliance with existing policy instruments and does not replace them.
+Stakeholders are expected to still comply with existing policy instruments including, but not limited to:
+
+- ESDC [Policy on Project and Programme Management (PPPM)](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Policy%20on%20Project%20and%20Programme%20Management.pdf)
+- ESDC [Directive on Project Management](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Policy%20on%20Project%20and%20Programme%20Management.pdf)
+- ESDC Information Management Policy (being drafted)
+- ESDC [Procurement Policies](http://iservice.prv/eng/finance/purchasing/policy.shtml)
+- ESDC Security Policy (being drafted)
+- TBS [Directive on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601)
+- TBS [Directive on Security Management](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32611)
+
+### Governance, Compliance, and Reporting
+
+1. IT Solutions are understood as a collection of IT Products and as such, each IT Product must be assessed on its own as well as the sum of all the IT Products composing the IT Solution.
+2. Complex and core to mandate IT Solutions are designed internally to ESDC.
+   - Small and iterative IT Projects are favored (see [Targed Solution Delivery Model](strategy-target-solution-delivery-model.html)) to deliver the IT Products that will be components to the IT Solution.
+   - IT Solutions Architecture is a key partner throughout the lifecycle of the IT Solutions but IT Products teams have authority to operate and take responsibility for their own products.
+   - Leveraging external third party integrators is allowed but Solutions Architecture remains in control to ESDC.
+   - IT Solutions are architected iteratively over time, with each gate and iteration providing additional information as to choosing the best IT Products to compose them (see [Targed Solution Delivery Model](strategy-target-solution-delivery-model.html)).
+3. Complex but not core to mandate IT Solutions are designed internally
+4. Non-complex and not core to mandate IT Solutions may be designed and delivered by third party integrators.
+5. IT Solutions, whether built internally or built by a third party and delivered as a set of prepackaged COTS to configure and/or as software as a service, adhere to the Architectural principles as listed in section [Architecture](#architecture)
+6. IT Solutions must provide their overall and individual IT products metrics internally to ESDC. Metrics are comprised of the following:
+   - Accessibility test results
+   - Integration testing results
+   - Security test results
+   - API consumption statistics
+   - Production deployment audit traces
+   - Availability statistics
+7. Security Assessment & Authority (SA&A) uses the Target-SA&A methodology
+8. Accessibility Assessment uses the Target-Accessibility methodology
+9. Audit Assessment uses the Target-Audit methodology
+10. IT Solutions reuse existing IT Products, including:
+    - Internally developed software
+    - Open Source Software (internally and externally developed)
+    - Third party Services (SaaS, PaaS, and IaaS) and COTS
+
+### Finance
+
+1. IT Solutions sizes are minimized as much as possible
+2. IT Solutions leverage existing, reusable, scalable and approved IT Products to minimize cost when possible
+   - IT Products requiring purchased licences are not deemed as reusable or scalable for the purpose of this criterion.
+3. IT Solutions, once in production, have dedicated and recurring budgets to support their evolution over their lifecycle, and are managed in tandem by the primary business owner and the dedicated IT Products teams.
+   - The IT Products teams are responsible for maintaining their own products as part of the IT Solutions. (see [Targed Solution Delivery Model](strategy-target-solution-delivery-model.html))
+   - A same team managing an IT Product may provide service to multiple IT Solutions; IT Products are thus required to have a scalable and easily adaptable financial model supporting multiple business owners if required (similar to SaaS pay as you use or yearly subscriptions per users, etc.).
+
+### Architecture
+
+1. IT Solutions are aligned with the Digital Standards and the Digital Operations Strategic Plan. As such, IT Solutions are built or bought using IT Products that meet the following criteria:
+   - Designed with users
+   - Iterative and improved frequently
+   - Uses Open Standards and Solutions
+   - Open by default
+   - Designed, developed, delivered and maintained by widely collaborating, both internally and externally
+2. IT Solutions are also required to be designed with a Service Oriented Architecture approach so that its components (IT Products) meet the following criteria:
+   - Interoperable
+   - Reusable
+   - Scalable
+   - Interchangeable
+3. IT Solutions are to leverage Cloud as a preferred delivery option for its IT Products
+
+## Coherent set of actions
+
+## Measuring the Strategy's success
+
+## Appendix A - Business Case (Diagnostic)
+
+### Buy vs Build Dichotomy: oversimplifying solutions architecture
+
+Looking for a systemic and overarching approach to buy vs build of solutions at the organizational level means bypassing the concept of solution architecture, where the required experts of the organization, both from business lines, finance, security, information technology, etc., come together to figure out the best possible way of accomplishing its mission through leveraging its various resources including people, tools, processes and rules.
 
 A solution is by default built, whether by a single person, multiple teams or by a third party.
 As such, the questions to ask are more akin to:
@@ -163,7 +242,12 @@ As such, if the organization is not in a position to design, build and operate t
 
 ### Buy
 
-The buy decision should be reserved for when the needs are non-domain specific, repeatable, well-defined, and unlikely to change due to legislative changes.
+The buy decision should be reserved for when the needs are:
+
+- non-domain specific,
+- repeatable,
+- well-defined,
+- and unlikely to change due to legislative changes.
 
 During a buy decision, assessment factors should include:
 
@@ -212,7 +296,7 @@ The risk management for software acquisition is based on the following formula:
 
 ![Quadrant identifying relation between Probability of change and Impact on the Risk](assets/images/strategy-build-buy-risk-quadrant.png){:height="50%" width="50%" style="display:block;margin-left:auto;margin-right:auto"}
 
-Based on the risk level, ESDC will adjust its decisions around acquiring software and services (build, buy, or adopt).
+Based on the risk level, ESDC will adjust its decisions around obtaining software and services (build, buy, or adopt).
 
 Risk levels are heavily influenced by the capability being enabled by software.
 The following diagram helps visualize how this risk level varies according with the type of capabilities:
@@ -242,9 +326,9 @@ Expertise and knowledge regarding implementation details of systems Canadians re
 
 ##### 1. Build Mandate Related Services
 
-Leadership, policies, technology, and user needs change.
-The department needs to be in full control of its ability to deliver on its mandate[^6].
-As discussed above risk to Canadians cannot be off loaded on to vendors through responsibility offloading (for further discussion please refer to ([Annex 1, Historical Context](#historical-context)).
+Leadership, policies, technology, and user needs change over time.
+The department needs to be in full control of its ability to deliver on its mandate[^6] while adjusting to said changes.
+As discussed above, risk to Canadians cannot be off loaded on to vendors through responsibility offloading (for further discussion please refer to ([Annex 1, Historical Context](#historical-context)).
 To the contrary, attempting to offload responsibility to vendors introduces risk to the government, as such large projects take years to deliver any value to Canadians, and have an increased likelihood of failure[^7].
 
 For further discussion, reference [Annex 1, GC IT Project Analysis](#gc-it-project-analysis).
