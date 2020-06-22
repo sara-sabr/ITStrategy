@@ -29,7 +29,7 @@ th {
 ***This is a DRAFT strategy.***
 
 <div class="alert alert-info">
-  This strategy is accompanied by two documents: <a href="strategy-build-vs-buy-guidance.html">Guidance</a> and  <a href="strategy-build-vs-buy-alignment.html">Alignment</a>.
+  This strategy is accompanied by two documents: <a href="strategy-build-vs-buy-guidance.html">Guidance</a> and  <a href="strategy-build-vs-buy-explained.html">Alignment</a>.
 </div>
 <div class="alert alert-info">
   <strong>This is a DRAFT strategy</strong>. <a href="target-solution-delivery-model-strategy-areas-of-concerns.html">Concerns have been raised</a> by stakeholders as part of the peer review process and are being looked at.
