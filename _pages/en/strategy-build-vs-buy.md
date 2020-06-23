@@ -78,7 +78,7 @@ The intent behind this strategy is to communicate a decision by the CIO (not yet
 ### Target Audience
 
 This **strategy document** is targeted to stakeholders involved in determining whether to build or to buy software components.
-More specifically, stakeholders involved in architecting solutions, defining technology standards, developing, delivering, operationalizing and maintaining IT Solutions (such as Enterprise Architecture, Enterprise Operations, etc.).
+More specifically, stakeholders involved in architecting solutions, defining technology standards, developing, delivering, operationalizing and maintaining IT Solutions (such as Enterprise Architecture, Enterprise Operations, etc.) and guiding committees such as Enterprise Architecture Review Board.
 This includes both IITB and non-IITB stakeholders (such as from Business Functions, SSPB, CDO, ISB, IAERMB, and SSC).
 The list of stakeholders are listed in section [Coherent set of actions](#coherent-set-of-actions) and are expected to participate in the execution stage of this strategy necessary to operationalize the Guiding Policy.
 
