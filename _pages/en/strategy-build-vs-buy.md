@@ -123,13 +123,13 @@ Stakeholders are expected to still comply with existing policy instruments inclu
 1. IT Solutions are understood as a collection of IT Products and as such, each IT Product must be assessed on its own as well as the sum of all the IT Products composing the IT Solution.
 2. IT Solutions are obtained in a way that minimizes the risks to the department and to its ability to Canadians (see [Risk Managing the Obtention of Software](#risk-managing-the-obtention-of-software)). As such:
    1. Complex and core to mandate IT Solutions are designed internally to ESDC.
-      - Small and iterative IT Projects are favored (see [Targed Solution Delivery Model](strategy-target-solution-delivery-model.html)) to deliver the IT Products that will be components to the IT Solution.
+      - Small and iterative IT Projects are favoured (see [Target Solution Delivery Model](strategy-target-solution-delivery-model.html)) to deliver the IT Products that will be components to the IT Solution.
       - IT Solutions Architecture is a key partner throughout the lifecycle of the IT Solutions but IT Products teams have authority to operate and take responsibility for their own products.
-      - IT Solutions are architected iteratively over time, with each gate and iteration providing additional information as to choosing the best IT Products to compose them (see [Targed Solution Delivery Model](strategy-target-solution-delivery-model.html)).
+      - IT Solutions are architected iteratively over time, with each gate and iteration providing additional information as to choosing the best IT Products to compose them (see [Target Solution Delivery Model](strategy-target-solution-delivery-model.html)).
       - Leveraging external third party integrators is supported but IT Solutions Architecture remains in control to ESDC throughout its lifecycle and abides by its [Architectural Principles](#architecture).
    2. Complex but not core to mandate IT Solutions are designed internally.
    3. Non-complex and not core to mandate IT Solutions may be designed and delivered by third party integrators.
-3. IT Solutions, whether built internally or built by a third party and delivered as a set of prepackaged COTS to configure and/or as software as a service, adhere to the Architectural principles as listed in section [Architecture](#architecture)
+3. IT Solutions, whether built internally or built by a third party and delivered as a set of pre-packaged COTS to configure and/or as software as a service, adhere to the Architectural principles as listed in section [Architecture](#architecture)
 4. IT Solutions must provide their overall and individual IT products metrics internally to ESDC. Metrics are comprised of the following:
    - Accessibility test results
    - Integration testing results
@@ -151,7 +151,7 @@ Stakeholders are expected to still comply with existing policy instruments inclu
 2. IT Solutions leverage existing, reusable, scalable and approved IT Products to minimize cost when possible
    - IT Products requiring purchased licences are not deemed as reusable or scalable for the purpose of this criterion.
 3. IT Solutions, once in production, have dedicated and recurring budgets to support their evolution over their lifecycle, and are managed in tandem by the primary business owner and the dedicated IT Products teams.
-   - The IT Products teams are responsible for maintaining their own products as part of the IT Solutions. (see [Targed Solution Delivery Model](strategy-target-solution-delivery-model.html))
+   - The IT Products teams are responsible for maintaining their own products as part of the IT Solutions. (see [Target Solution Delivery Model](strategy-target-solution-delivery-model.html))
    - A same team managing an IT Product may provide service to multiple IT Solutions; IT Products are thus required to have a scalable and easily adaptable financial model supporting multiple business owners if required (similar to SaaS pay as you use or yearly subscriptions per users, etc.).
 
 ### Architecture
@@ -335,7 +335,7 @@ For further guidance on the use of Open Source, please reference to Annex 5, Use
 
 As discussed above, by increasing build decisions the government retains control over its ability to deliver on its mandate and removes context switches between organizations, resulting in minimizing system expertise leaving the government.
 In order to further reduce the risk of build decisions, small incremental projects are advised over large ones.
-By decreasing the size of projects we decrease risk by increasing the likelihood of success (see [Targed Solution Delivery Model](strategy-target-solution-delivery-model.html)).
+By decreasing the size of projects we decrease risk by increasing the likelihood of success (see [Target Solution Delivery Model](strategy-target-solution-delivery-model.html)).
 
 Further, this method of delivery ensures business value is provided as early as possible.
 If no business value is provided, the project may be cancelled without having dedicated the total budget, or entire time frame initially intended for its development.
