@@ -59,8 +59,8 @@ th {
 - [Measuring the Strategy's success](#measuring-the-strategys-success)
 - [Appendix A - Business Case (Diagnostic)](#appendix-a---business-case-diagnostic)
 - [Appendix B - Traceability Matrix](#appendix-b---traceability-matrix)
-- [Appendix D - Definitions](#appendix-d---definitions)
 - [Appendix C - Context](#appendix-c---context)
+- [Appendix D - Definitions](#appendix-d---definitions)
 - [Appendix E - References](#appendix-e---references)
 
 ## Introduction
@@ -352,61 +352,6 @@ The intent is to replace dated approaches to software delivery in favour of prac
 
 ## Appendix B - Traceability Matrix
 
-## Appendix D - Definitions
-
-### IT Solution<!-- omit in toc -->
-
-An IT Solution is the combination of 1 or many IT Products, which are in turn comprised of 1 or many Software and/or Hardware, obtained through many possible ways: built internally, obtained as open source, provided by a company as an executable application under a proprietary licence, as a standalone device, or used as a service through a subscription model.
-
-See the following standard IITB definition.
-
-The below model explains, in a visual manner, these relationships.
-
-![An UML diagram representing the hierarchical relation of an IT Solution and its components.](assets/images/strategy-build-buy-uml-it-solution.png){:height="100%" width="100%"}
-
-Description of the model:
-
-- An IT Solution is comprised of 1 or many IT component(s)
-- An IT component is comprised of 1 or many Software which can be either a service subscription, an Open Source Software, a 3rd party COTS, or a custom build one
-- A Software is deployed on an infrastructure that can either be on premise (SSC Data Centres), on a public cloud provider's infrastructure (as a IaaS, PaaS, or SaaS model), or as a hybrid version that combines both on premise and public cloud provider.
-
-### Build<!-- omit in toc -->
-
-A process whereby the department remains the authority on high level architectural decisions of the solution, or where the department maintains the legal and technical ability to alter the source of the application as needed.
-
-### Buy<!-- omit in toc -->
-
-Application architecture is designed outside of the Government of Canada, and a completed product is purchased from a vendor, or support is purchased for a solution developed externally to the department or Government of Canada.
-
-### Complex IT Solutions<!-- omit in toc -->
-
-A complex IT Solution is when not all requirements are known or key elements may only be found later by experimentation and user research.
-
-### Open Source Software<!-- omit in toc -->
-
-Software with its source code made available with a license in which the copyright holder provides the rights to study, change, and distribute the software to anyone and for any purpose.
-The name used by the Open Source Initiative (OSI).
-Open source software is defined in the Open Source Definition by ten criteria.
-
-- [Open First White paper: Open Source Software Use](https://www.canada.ca/en/government/system/digital-government/open-source-software/open-first-whitepaper/open-first-whitepaper-use.html#definitions)
-
-### Open standards<!-- omit in toc -->
-
-Open standards are a set of rules designed to do a specific job in technology.
-Open standards refer to file formats, protocols and application interfaces that can be implemented by everyone (in open source and proprietary software alike) since the specifications are available at no cost, and since their development and standardization is open and transparent.
-This standardization work is done by specialized agencies that are usually either government agencies or organizations created by professionals from a given industry sector.
-Examples of such organizations include the Internet Engineering Task Force (IETF), the International Organization for Standardization (ISO) and the Organization for the Advancement of Structured Information Standards (OASIS).
-
-- [Open First White paper: Open Standards](https://www.canada.ca/en/government/system/digital-government/open-source-software/open-first-whitepaper/open-first-whitepaper-standards.html)
-
-### Closed COTS<!-- omit in toc -->
-
-Commercial Of The Self (COTS) software where the source code for said product is [not open source](#open-source-software).
-
-### Open COTS<!-- omit in toc -->
-
-Commercial Of The Self (COTS) software where the source code for said product is [open source](#open-source-software).
-
 ## Appendix C - Context
 
 ### Historical Context<!-- omit in toc -->
@@ -465,6 +410,61 @@ Of the 98 GC IT Projects that were reported in 2016 and still underway in 2019, 
 GC IT Projects that are smaller in budget are more likely to be completed on time or stay on schedule.
 Of the projects from 2016, only 35% of projects over $100M were completed or were on or ahead of schedule by 2019.
 Compared with 70% of the 2016 projects which were smaller than $10M[^30].
+
+## Appendix D - Definitions
+
+### IT Solution<!-- omit in toc -->
+
+An IT Solution is the combination of 1 or many IT Products, which are in turn comprised of 1 or many Software and/or Hardware, obtained through many possible ways: built internally, obtained as open source, provided by a company as an executable application under a proprietary licence, as a standalone device, or used as a service through a subscription model.
+
+See the following standard IITB definition.
+
+The below model explains, in a visual manner, these relationships.
+
+![An UML diagram representing the hierarchical relation of an IT Solution and its components.](assets/images/strategy-build-buy-uml-it-solution.png){:height="100%" width="100%"}
+
+Description of the model:
+
+- An IT Solution is comprised of 1 or many IT component(s)
+- An IT component is comprised of 1 or many Software which can be either a service subscription, an Open Source Software, a 3rd party COTS, or a custom build one
+- A Software is deployed on an infrastructure that can either be on premise (SSC Data Centres), on a public cloud provider's infrastructure (as a IaaS, PaaS, or SaaS model), or as a hybrid version that combines both on premise and public cloud provider.
+
+### Build<!-- omit in toc -->
+
+A process whereby the department remains the authority on high level architectural decisions of the solution, or where the department maintains the legal and technical ability to alter the source of the application as needed.
+
+### Buy<!-- omit in toc -->
+
+Application architecture is designed outside of the Government of Canada, and a completed product is purchased from a vendor, or support is purchased for a solution developed externally to the department or Government of Canada.
+
+### Complex IT Solutions<!-- omit in toc -->
+
+A complex IT Solution is when not all requirements are known or key elements may only be found later by experimentation and user research.
+
+### Open Source Software<!-- omit in toc -->
+
+Software with its source code made available with a license in which the copyright holder provides the rights to study, change, and distribute the software to anyone and for any purpose.
+The name used by the Open Source Initiative (OSI).
+Open source software is defined in the Open Source Definition by ten criteria.
+
+- [Open First White paper: Open Source Software Use](https://www.canada.ca/en/government/system/digital-government/open-source-software/open-first-whitepaper/open-first-whitepaper-use.html#definitions)
+
+### Open standards<!-- omit in toc -->
+
+Open standards are a set of rules designed to do a specific job in technology.
+Open standards refer to file formats, protocols and application interfaces that can be implemented by everyone (in open source and proprietary software alike) since the specifications are available at no cost, and since their development and standardization is open and transparent.
+This standardization work is done by specialized agencies that are usually either government agencies or organizations created by professionals from a given industry sector.
+Examples of such organizations include the Internet Engineering Task Force (IETF), the International Organization for Standardization (ISO) and the Organization for the Advancement of Structured Information Standards (OASIS).
+
+- [Open First White paper: Open Standards](https://www.canada.ca/en/government/system/digital-government/open-source-software/open-first-whitepaper/open-first-whitepaper-standards.html)
+
+### Closed COTS<!-- omit in toc -->
+
+Commercial Of The Self (COTS) software where the source code for said product is [not open source](#open-source-software).
+
+### Open COTS<!-- omit in toc -->
+
+Commercial Of The Self (COTS) software where the source code for said product is [open source](#open-source-software).
 
 ## Appendix E - References
 
