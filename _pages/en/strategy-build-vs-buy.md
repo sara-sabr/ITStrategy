@@ -14,8 +14,6 @@ permalink: /strategy-build-vs-buy.html
 <!-- cSpell:ignoreRegExp /\<[^\>]+\>/ -->
 ## {{ page.title }}<!-- omit in toc -->
 
-Written by Jayson McIntosh, Rachel Muston, and Guillaume Charest - Reviews by IT Strategy team
-
 <style>
 table, th, td {
   border: 1px solid black;
