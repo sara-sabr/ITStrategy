@@ -53,7 +53,7 @@ This document will be updated throughout the elaboration of the above strategy.
   - [2.9. Risk to project management overhead](#29-risk-to-project-management-overhead)
   - [2.10. Risk to capability-based planning ability](#210-risk-to-capability-based-planning-ability)
   - [2.11. Risk to enterprise reference data model and standard compliance](#211-risk-to-enterprise-reference-data-model-and-standard-compliance)
-  - [2.12. Confusion between Development Value Stream and Business Architecture’s definition of Value Stream](#212-confusion-between-development-value-stream-and-business-architectures-definition-of-value-stream)
+  - [2.12. Confusion between Development Value Stream and Business Architecture's definition of Value Stream](#212-confusion-between-development-value-stream-and-business-architectures-definition-of-value-stream)
 - [Appendix A - Archived](#appendix-a---archived)
 
 ## 1. Document Purpose
@@ -350,7 +350,7 @@ Moving towards a more decentralized and distributed means of decision making pre
 
 In the case of the Data Analytics team, direct access to a database as opposed to an API (exposing data meant for consumption by a User Interface or another functional API) is necessary due to the broad nature of analytics and its need to vast amount of data. An API may be build, per product, for the sole purpose of accessing the database content but:
 
-1. It’s unlikely a Product will have it built as it will require more costs to do
+1. It's unlikely a Product will have it built as it will require more costs to do
 2. Performance hits are expected
 3. The number of APIs to consume and reconstruct data will increase complexity of Data Analytics solutions
 
@@ -366,11 +366,11 @@ TBD. Current thoughts are:
 - Improving ability to course correct by investing in monitoring (e.g. automated compliance and data collection on software health) and faster ability to release to production (pipelines).
 - Seeking faster end-user feedback as a means to motivate change (e.g. end-users of APIs -developers - see inconsistencies in the data model of different APIs and push those DevOps teams responsible to publish the APIs to adhere to a common schema for an improved Dev Experience).
 
-### 2.12. Confusion between Development Value Stream and Business Architecture’s definition of Value Stream
+### 2.12. Confusion between Development Value Stream and Business Architecture's definition of Value Stream
 
 #### 2.12.1. Summary <!-- omit in toc -->
 
-The term "value stream" has a specific meaning in the context of Business Architecture (it is broken down into "value stages" which are further broken down into "business capabilities"). The strategy uses [the SAFe meaning](https://www.scaledagileframework.com/value-streams/) behind “development value stream” which may create conflict with Business Architecture’s terminology.
+The term "value stream" has a specific meaning in the context of Business Architecture (it is broken down into "value stages" which are further broken down into "business capabilities"). The strategy uses [the SAFe meaning](https://www.scaledagileframework.com/value-streams/) behind “development value stream” which may create conflict with Business Architecture's terminology.
 
 #### 2.11.2. Raised by stakeholder(s) <!-- omit in toc -->
 
