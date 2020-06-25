@@ -200,8 +200,8 @@ In large and complex solutions, these questions shouldn't be asked at the soluti
 
 #### Additional considerations<!-- omit in toc -->
 
-- Does the organization currently have the skill sets within the organisation to design, build and operate this solution?
-- Does the organization currently have the capacity within the organisation to design, build and operate this solution?
+- Does the organization currently have the skill sets within the organisation to architect, design, build and operate this solution?
+- Does the organization currently have the capacity within the organisation to architect, design, build and operate this solution?
 
 These last questions however do not necessarily mean that the technical questions of a solutions architecture should not be asked subsequently.
 Any solution designed, developed and delivered by a third party should still be abiding by the same principles solutions built within ESDC have to so that once it is operationalized, the organization maintains a high amount of control and flexibility in maintaining and enhancing the solution while limiting its lock-in situations.
