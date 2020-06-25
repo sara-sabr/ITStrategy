@@ -152,6 +152,7 @@ Stakeholders are expected to still comply with existing policy instruments inclu
 ### Legal
 
 1. IT Solutions use the ESDC Software Legal Terms Guidance
+2. IT Solutions and IT Products comply with the ESDC OSS Framework
 
 ### Architecture
 
@@ -250,6 +251,7 @@ The following diagram helps visualize how this risk level varies according with 
 Software options in this niche market are scarce due to the unique mandate of ESDC.
 Change probability is high as those capabilities change as much as regulation changes.
 The impact of such changes has a ripple effect on the whole organization and affects ESDC’s reputation to keep up with citizen demands while maintaining its fiduciary responsibility.
+
 ##### 4. Publish as open source<!-- omit in toc -->
 
 By default, all work, wherever possible, will be released as open source.
