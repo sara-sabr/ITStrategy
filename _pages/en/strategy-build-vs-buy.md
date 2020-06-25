@@ -116,7 +116,7 @@ Stakeholders are expected to still comply with existing policy instruments inclu
 ### Governance, Compliance, and Reporting
 
 1. IT Solutions are understood as a collection of IT Products and as such, each IT Product must be assessed on its own as well as the sum of all the IT Products composing the IT Solution.
-2. IT Solutions are obtained in a way that minimizes the risks to the department and to its ability to Canadians (see [Risk Managing the Obtention of Software](#risk-managing-the-obtention-of-software)). As such:
+2. IT Solutions are obtained in a way that minimizes the risks to the department and to its ability to serve Canadians (see [Risk Managing the Obtention of Software](#risk-managing-the-obtention-of-software)). As such:
    1. Complex and core to mandate IT Solutions are designed internally to ESDC.
       - Small and iterative IT Projects are favoured (see [Target Solution Delivery Model](strategy-target-solution-delivery-model.html)) to deliver the IT Products that will be components to the IT Solution.
       - IT Solutions Architecture is a key partner throughout the lifecycle of the IT Solutions but IT Products teams have authority to operate and take responsibility for their own products.
