@@ -89,7 +89,7 @@ All ESDC personnel involved in the exploration of IT Solutions and in IT investm
 
 Moving to the digital age requires improving IT's responsiveness and promoting a shared accountability with ESDC stakeholders on the use of technology.
 
-To improve IT's responsiveness, we must find ways to reduce risks associated with its use as well as with the ways we obtain it.
+To improve IT's responsiveness, ways must be found to reduce risks associated with its use as well as with the ways it is obtained.
 This strategy proposes moving ESDC to the point where the complexity of IT Solutions is properly understood and investment decisions are taken with flexibility, interchangeability, and interoperability in mind throughout the entire lifecycle of an IT Solution, not only at the initial stage.
 The benefits to increasing the flexibility and interoperability of IT Solutions architectures as well as reusability and scalability of its IT Products are expected to reduce risk [^1], reduce technical debt over time, increase client satisfaction, and increase overall confidence in the department and its staff.
 
@@ -199,8 +199,8 @@ The below model explains, in a visual manner, these relationships.
 
 #### Additional considerations<!-- omit in toc -->
 
-- Do we currently have the skill sets within the organisation to design, build and operate this solution?
-- Do we currently have the capacity within the organisation to design, build and operate this solution?
+- Does the organization currently have the skill sets within the organisation to design, build and operate this solution?
+- Does the organization currently have the capacity within the organisation to design, build and operate this solution?
 
 These last questions however do not necessarily mean that the technical questions of a solutions architecture should not be asked subsequently.
 Any solution designed, developed and delivered by a third party should still be abiding by the same principles solutions built within ESDC have to so that once it is operationalized, the organization maintains a high amount of control and flexibility in maintaining and enhancing the solution while limiting its lock-in situations.
@@ -264,8 +264,8 @@ The risk management for software acquisition is based on the following formula:
 ![A graphic with 4 quadrants identifying relation between Probability of change and Impact on the Risk; as impact and probability of change increase, so does the risk and vice versa.](assets/images/strategy-build-buy-risk-quadrant.png){:height="50%" width="50%" style="display:block;margin-left:auto;margin-right:auto"}
 
 Another link could be made to assess the risk in relation to the probability of change: the complexity of a solution.
-In other words, the least we understand the needs the more chances there are that changes will occur in the future, thus increasing the risks to the organization.
-Since large IT Projects often lead to the discovery of new needs, or request for changes along the way, it means that those projects are complex and as such present higher risks.
+In other words, the less static the needs are then the higher the chances are that unaccounted changes will become requirements in the future, thus increasing the risks to the organization.
+Large IT projects are often subject to changes in requirements, such as changes in legislation. In addition to the complexity of the systems themselves, this means that large projects present higher risk to the organization not being able to deliver on its mandate.
 
 Based on the risk level, ESDC will adjust its decisions around obtaining software and services (build, buy, or adopt).
 
@@ -308,7 +308,7 @@ For further discussion, reference [Annex 1, GC IT Project Analysis](#gc-it-proje
 
 This approach aligns with the Digital Operations Strategic Plan ([DOSP](https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html)) as it aligns with _An open, collaborative and accessible government_ and aligns with the Digital Standard _Collaborate widely_ by returning implementation details to the Government of Canada, granting the government full control over its ability to align to TBS direction and applicable legislation.
 Further, when coupled with an agile approach to procurement[^8] and loosely coupled solutions architecture, vendors become interchangeable, thereby reducing vendor lock in.
-Lastly, by limiting the size and scope of each iteration we are promoting modular architecture by having the structure of the teams mimic the desired modular structure of the software[^9]<sup>,</sup>[^10].
+Lastly, by limiting the size and scope of each iteration modular architecture is promoted by having the structure of the teams mimic the desired modular structure of the software[^9]<sup>,</sup>[^10].
 
 For details as to why the current approach to build vs buy decisions is out of alignment with GC direction, reference Annex 2.
 
@@ -335,7 +335,7 @@ For further guidance on the use of Open Source, please reference to Annex 5, Use
 
 As discussed above, by increasing build decisions the government retains control over its ability to deliver on its mandate and removes context switches between organizations, resulting in minimizing system expertise leaving the government.
 In order to further reduce the risk of build decisions, small incremental projects are advised over large ones.
-By decreasing the size of projects we decrease risk by increasing the likelihood of success (see [Target Solution Delivery Model](strategy-target-solution-delivery-model.html)).
+By decreasing the size of projects risk is decreased by increasing the likelihood of success (see [Target Solution Delivery Model](strategy-target-solution-delivery-model.html)).
 
 Further, this method of delivery ensures business value is provided as early as possible.
 If no business value is provided, the project may be cancelled without having dedicated the total budget, or entire time frame initially intended for its development.
@@ -511,7 +511,7 @@ Part of this problem is with the procurement process.
 With the ability to increase the value of a contract by up to 50% without tendering again, contractors can submit “suicide bids” that they know are much too low.
 This makes the contracted option initially on paper look better when compared with the costs to developing in house.
 
-Time and again we have seen costs balloon on IT contracts.
+Time and again balling balloon on IT contracts have been observed.
 The Phoenix pay project started at $309M and is expected to now cost over $2.6B.
 The Email transformation initiative started at $x and was $100M by the time it was suspended.
 The contract for the content management system solution for the Canada.ca project started at $1.54M and was $14.9M by the end.
@@ -568,7 +568,7 @@ Compared with 70% of the 2016 projects which were smaller than $10M[^30].
 [^5]: The Professional Institute of the Public Service of Canada observes in their article, [Symptoms of outsourcing IT work – knowledge loss and the transfer of skills](https://pipsc.ca/news-issues/outsourcing/part-one-real-cost-outsourcing/symptoms#_ftn2), that “As the government outsources more and more IT functions, they become more reliant on private contractors to run their own systems. Over time, institutional knowledge and expertise become concentrated within private contractors instead of within the government. The institutional knowledge that accumulates with private contractors makes it difficult to change service providers when contracts end and even more difficult to bring the services back in-house.”
 [^6]: Pia Andrews writes in [What improving IT procurement in the public sector looks like: navigating, balancing, and initiating procurement conversations to avoid sprinting off cliffs](https://www.themandarin.com.au/118548-improving-it-procurement-public-sector-navigating-balancing-initiating-procurement-conversations/), writes “consider whether what you are doing is commodity or domain-specific and whether it is well defined or relatively ambiguous [...] you don't want to jump straight to pure COTS for domain-specific functions or where there is high ambiguity [...] also want to consider whether what you are doing should be considered as digital public infrastructure”
 [^7]: A survey conducted by the Standish Group, the CHAOS Report, observers that projects costing more than $10 million are significantly less likely to succeed, at an 8% success rate for projects over 10 million dollars. Conversely, projects under $1 million have a success rate of 70%.
-[^8]: For more on agile procurement, we suggest reading the adapted for Canada version of the 18F’s [De-risking custom technology projects](https://github.com/18F/technology-budgeting/blob/master/handbook.md)
+[^8]: For more on agile procurement, suggested reading is the adapted for Canada version of the 18F’s [De-risking custom technology projects](https://github.com/18F/technology-budgeting/blob/master/handbook.md)
 [^9]: For further discussions please reference The Reverse Conway Maneuver as discussed in Team Topologies and Accelerate, which writes, “Our research lends support to what is sometimes called the “inverse Conway maneuver,” which states that organizations should evolve their team and organizational structure to achieve the desired architecture.”
 [^10]: For further discussion on how this aligns with GC Direction, please reference Annex 3: Digital Standards, Iterative and improve frequently (TBC).
 [^11]: For further discussion, please refer to [Minimize the size, cost, and scale section](#5-minimize-the-size-cost-and-scale-of-work-packages) below.
