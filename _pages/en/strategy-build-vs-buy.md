@@ -156,20 +156,21 @@ Stakeholders are expected to still comply with existing policy instruments inclu
 ### Architecture
 
 1. IT Solutions and IT products loose coupling boundaries are at the Business Capability Model level.
-2. IT Solutions architecture use Lock-In Assessment Framework
+   1. Duplication of IT Products or IT Solutions is acceptable as long as they are for different business capabilities.
+2. IT Products are risk assessed for Lock-In situations with the IT Products risk assessment framework
 
 ## Coherent set of actions
 
 - Define the <EARB standard definition of IT Solutions>
-  - Senior Advisors, Solution Architecture. Business Architecture, Technical Architecture
-- Produce IT Solution Risk Assessment Framework (leverage ESDC Business Capability Model)
+  - Senior Advisors, Architecture teams (Business Arch, EA, Solution Arc, Technical Arc), Senior Advisors, ARC, Technical Standards Working Group (TSWG), and ultimately EARB
+- Produce IT Solution Risk Assessment Framework (leverage ESDC Business Capability Model, etc.)
+  - Same as above with the addition of CDO, EOps
+- Produce IT Product Risk Assessment Framework (E.g.: Technology and Vendor lock-in, maintenance, customization, etc.)
   - <!-- #TODO: Add list of stakeholders -->
-- Operational Expense vs Capital Expense Financial Framework
+- Produce Operational Expense vs Capital Expense Financial Framework
   - Cloud CoE, CFOB, IITB Finance, etc.
 - Software Legal Terms Guidance for OSS adoption, Cloud Subscriptions, Shared risk and responsibility
   - Legal, CCoE, CFOB IPPM, TBS Procurement
-- Dependency Risk Assessment Framework
-  - <!-- #TODO: Add list of stakeholders -->
 - Endorsement of the ESDC OSS Framework (Add Link)
 
 ## Measuring the Strategy's success
@@ -205,38 +206,6 @@ These last questions however do not necessarily mean that the technical question
 Any solution designed, developed and delivered by a third party should still be abiding by the same principles solutions built within ESDC have to so that once it is operationalized, the organization maintains a high amount of control and flexibility in maintaining and enhancing the solution while limiting its lock-in situations.
 
 As such, if the organization is not in a position to design, build and operate the solution itself, the third party putting the solution together for the benefit of ESDC should have clear directives to align with our own architectural principles.
-
-### Buy<!-- omit in toc -->
-
-The buy decision should be reserved for when the needs are:
-
-- non-domain specific,
-- repeatable,
-- well-defined,
-- and unlikely to change due to legislative changes.
-
-During a buy decision, assessment factors should include:
-
-- degree of customization required (significant customization suggests a build decision is more appropriate)
-- exit costs and exit challenges,
-- whether the vendor will agree to the GC Terms and Conditions.
-
-The department should not offload its responsibility to Canadians through offloading risk to vendors.
-Furthermore, through large purchases the government is outsourcing expertise required to deliver on its mandate.
-Lastly, doing so introduces additional context switches (or handoffs) between organizations, reducing the government's agility to implement its own policy changes, and limits its ability to respond to emergency situations.
-
-As per the [Directive on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602), when buy decisions are made, they will prioritize Software as a Service (SaaS) over purchases requiring the maintenance of physical, Platform as a Service (PaaS) or Infrastructure as a Service (IaaS).
-When selecting which cloud services to leverage, the [Government of Canada Right Cloud Selection Guidance](https://www.canada.ca/en/government/system/digital-government/modern-emerging-technologies/cloud-services/government-canada-right-cloud-selection-guidance.html) will be adhered to.
-Further consideration should be made with respect to the softwares use of Open Source Software (OSS).
-When considering COTS, the [Software Licencing Supply Arrangement](https://www.tpsgc-pwgsc.gc.ca/app-acq/cral-sarc/lgcl-ctgr-eng.html) will be used.
-Preference shall be given in the following order[^1] in addition to the aforementioned cloud prioritization:
-
-1. OSS using open standards
-1. OSS
-1. OSS + Closed COTS using open standards
-1. OSS + Closed COTS - (be aware of lock-in)
-1. Closed COTS using open standards - (be aware of lock-in)
-1. Closed COTS - (be aware of lock-in)
 
 #### Risk Managing the Obtention of Software<!-- omit in toc -->
 
