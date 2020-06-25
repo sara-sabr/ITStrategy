@@ -182,7 +182,7 @@ As such, it is critical for the organization to ensure that core to mandate IT S
 
 ### Build vs Buy : Oversimplified Dichotomy<!-- omit in toc -->
 
-Looking for a systemic and overarching approach to buy vs build of solutions at the organizational level means bypassing the concept of solution architecture, where the required experts of the organization, both from business lines, finance, security, information technology, etc., come together to figure out the best possible way of accomplishing its mission through leveraging its various resources including people, tools, processes and rules.
+Looking for a systemic and overarching answer and approach to the question "Should the IT Solution be built or bought?" at the organizational level means bypassing the concept of solution architecture, where the required experts of the organization, both from business lines, finance, security, information technology, etc., come together to figure out the best possible way of accomplishing its mission through leveraging its various resources including people, tools, processes and rules.
 
 A solution is by default built, whether by a single person, multiple teams or by a third party.
 As such, the questions to ask are more akin to:
@@ -191,16 +191,6 @@ As such, the questions to ask are more akin to:
 “How much organizational risk am I willing to delegate to a 3rd party?”.
 
 In large and complex solutions, these questions shouldn't be asked at the solution level but for each component of said solution, taking in account multiple factors and criteria that will be explored below.
-
-The below model explains, in a visual manner, these relationships.
-
-![An UML diagram representing the hierarchical relation of an IT Solution and its components.](assets/images/strategy-build-buy-uml-it-solution.png){:height="100%" width="100%"}
-
-#### Explanation<!-- omit in toc -->
-
-- An IT Solution is comprised of 1 or many IT component(s)
-- An IT component is comprised of 1 or many Software which can be either a service subscription, an Open Source Software, a 3rd party COTS, or a custom build one
-- A Software is deployed on an infrastructure that can either be on premise (SSC Data Centres), on a public cloud provider's infrastructure (as a IaaS, PaaS, or SaaS model), or as a hybrid version that combines both on premise and public cloud provider.
 
 #### Additional considerations<!-- omit in toc -->
 
@@ -467,6 +457,22 @@ The intent is to replace dated approaches to software delivery in favour of prac
 ## Appendix B - Traceability Matrix
 
 ## Appendix D - Definitions
+
+### IT Solution<!-- omit in toc -->
+
+An IT Solution is the combination of 1 or many IT Products, which are in turn comprised of 1 or many Software and/or Hardware, obtained through many possible ways: built internally, obtained as open source, provided by a company as a licenced executable application, as a standalone device, or used as a service through a subscription model.
+
+See the following standard IITB definition.
+
+The below model explains, in a visual manner, these relationships.
+
+![An UML diagram representing the hierarchical relation of an IT Solution and its components.](assets/images/strategy-build-buy-uml-it-solution.png){:height="100%" width="100%"}
+
+Description of the model:
+
+- An IT Solution is comprised of 1 or many IT component(s)
+- An IT component is comprised of 1 or many Software which can be either a service subscription, an Open Source Software, a 3rd party COTS, or a custom build one
+- A Software is deployed on an infrastructure that can either be on premise (SSC Data Centres), on a public cloud provider's infrastructure (as a IaaS, PaaS, or SaaS model), or as a hybrid version that combines both on premise and public cloud provider.
 
 ### Build<!-- omit in toc -->
 
