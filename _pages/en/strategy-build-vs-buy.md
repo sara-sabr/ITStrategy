@@ -99,7 +99,7 @@ More details in [Annex A](#appendix-a---business-case-diagnostic).
 The following policy reflects the decision adopted by the **CIO of ESDC** (approval by CIO not yet obtained) when deciding whether an IT solution should be built or bought.
 Each policy statement is a declaration of that decision and has received the endorsement of its associated area of governance body (endorsements not yet obtained, see section [coherent set of actions](#coherent-set-of-actions)).
 
-This policy becomes active when IT Solutions are to be obtained, whether delivered by IITB or by a third party provider.
+This policy becomes active when IT Solutions are to be obtained, whether delivered by ESDC or by a third party provider.
 Once active, all teams involved in the project, and the IT products involved in the IT solution, must comply with this guiding policy.
 
 This Guiding Policy has been prepared by taking into consideration alignment and compliance with existing policy instruments and does not replace them.
@@ -115,8 +115,10 @@ Stakeholders are expected to still comply with existing policy instruments inclu
 
 ### Governance, Compliance, and Reporting
 
-1. IT Solutions are understood as a collection of IT Products and as such, each IT Product must be assessed on its own as well as the sum of all the IT Products composing the IT Solution.
-2. IT Solutions are obtained in a way that minimizes the risks to the department and to its ability to serve Canadians (see [Risk Managing the Obtention of Software](#risk-managing-the-obtention-of-software)). As such:
+1. IT Solutions are broken down into manageable parts (IT Products)
+2. Each IT Product must be assessed on its own as well as a part of overall the IT Solution.
+3. IT Products may be bought, built, or adopted (e.g. Open Source Software)
+4. IT Solutions are obtained in a way that minimizes the risks to the department and to its ability to serve Canadians (see [Risk Managing the Obtention of Software](#risk-managing-the-obtention-of-software)). As such:
    1. Complex and core to mandate IT Solutions are designed internally to ESDC.
       - Small and iterative IT Projects are favoured (see [Target Solution Delivery Model](strategy-target-solution-delivery-model.html)) to deliver the IT Products that will be components to the IT Solution.
       - IT Solutions Architecture is a key partner throughout the lifecycle of the IT Solutions but IT Products teams have authority to operate and take responsibility for their own products.
@@ -124,18 +126,18 @@ Stakeholders are expected to still comply with existing policy instruments inclu
       - Leveraging external third party integrators is supported but IT Solutions Architecture remains in control to ESDC throughout its lifecycle and abides by its [Architectural Principles](#architecture).
    2. Complex but not core to mandate IT Solutions are designed internally.
    3. Non-complex and not core to mandate IT Solutions may be designed and delivered by third party integrators.
-3. IT Solutions, whether built internally or built by a third party and delivered as a set of pre-packaged COTS to configure and/or as software as a service, adhere to the Architectural principles as listed in section [Architecture](#architecture)
-4. IT Solutions must provide their overall and individual IT products metrics internally to ESDC. Metrics are comprised of the following:
+5. IT Solutions, whether built internally or built by a third party and delivered as a set of pre-packaged COTS to configure and/or as software as a service, adhere to the Architectural principles as listed in section [Architecture](#architecture)
+6. IT Solutions must provide their overall and individual IT products metrics internally to ESDC. Metrics are comprised of the following:
    - Accessibility test results
    - Integration testing results
    - Security test results
    - API consumption statistics
    - Production deployment audit traces
    - Availability statistics
-5. Security Assessment & Authority (SA&A) uses the Target-SA&A methodology
-6. Accessibility Assessment uses the Target-Accessibility methodology
-7. Audit Assessment uses the Target-Audit methodology
-8. IT Solutions reuse existing IT Products, including:
+7. Security Assessment & Authority (SA&A) uses the Target-SA&A methodology
+8. Accessibility Assessment uses the Target-Accessibility methodology
+9.  Audit Assessment uses the Target-Audit methodology
+10. IT Solutions reuse existing IT Products, including:
     - Internally developed software
     - Open Source Software (internally and externally developed)
     - Third party Services (SaaS, PaaS, and IaaS) and COTS
