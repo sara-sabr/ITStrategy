@@ -48,7 +48,6 @@ th {
 - [Guiding Policy](#guiding-policy)
   - [Governance, Compliance, and Reporting](#governance-compliance-and-reporting)
   - [Finance](#finance)
-  - [Architecture](#architecture)
 - [Coherent set of actions](#coherent-set-of-actions)
 - [Measuring the Strategy's success](#measuring-the-strategys-success)
 - [Appendix A - Business Case (Diagnostic)](#appendix-a---business-case-diagnostic)
@@ -110,8 +109,10 @@ Stakeholders are expected to still comply with existing policy instruments inclu
 - ESDC Information Management Policy (being drafted)
 - ESDC [Procurement Policies](http://iservice.prv/eng/finance/purchasing/policy.shtml)
 - ESDC Security Policy (being drafted)
+- ESDC [Target Solution Delivery Model](strategy-target-solution-delivery-model.html)
 - TBS [Directive on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601)
 - TBS [Directive on Security Management](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32611)
+- GC [Architecture Principles Standards](https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards)
 
 ### Governance, Compliance, and Reporting
 
@@ -121,50 +122,25 @@ Stakeholders are expected to still comply with existing policy instruments inclu
 4. IT Solutions are assessed against the IT Solutions risk assessment framework (see [Risk Managing the Obtention of Software](#risk-managing-the-obtention-of-software)).
   As such:
    1. Complex and core to mandate IT Solutions are architected internally to ESDC.
-      - Small and iterative IT Projects are favoured (see [Target Solution Delivery Model](strategy-target-solution-delivery-model.html)) to deliver the IT Products that will be components to the IT Solution.
-      - IT Solutions are architected iteratively over time, with each gate and iteration providing additional information as to choosing the best IT Products to compose them (see [Target Solution Delivery Model](strategy-target-solution-delivery-model.html)).
-      - Leveraging external third party integrators is supported but IT Solutions Architecture remains in control to ESDC throughout its lifecycle and abides by its [Architectural Principles](#architecture).
-   2. Complex but not core to mandate IT Solutions are architected internally.
-   3. Non-complex and not core to mandate IT Solutions may be architected and delivered by third party integrators.
-5. IT Solutions, whether built internally or built by a third party and delivered as a set of pre-packaged COTS to configure and/or as software as a service, adhere to the Architectural principles as listed in section [Architecture](#architecture)
-6. IT Solutions must provide their overall and individual IT products metrics internally to ESDC. Metrics are comprised of the following:
+   2. Non-complex and not core to mandate IT Solutions may be architected and delivered by third party integrators and/or vendors.
+5. IT Solutions must provide their overall and individual IT products metrics internally to ESDC. Metrics are comprised of the following:
    - Accessibility test results
    - Integration testing results
    - Security test results
    - API consumption statistics
    - Production deployment audit traces
    - Availability statistics
-7. Security Assessment & Authority (SA&A) uses the Target-SA&A methodology
-8. Accessibility Assessment uses the Target-Accessibility methodology
-9. Audit Assessment uses the Target-Audit methodology
-10. IT Solutions reuse existing IT Products, including:
+6. Security Assessment & Authority (SA&A) uses the Target-SA&A methodology
+7. Accessibility Assessment uses the Target-Accessibility methodology
+8. Audit Assessment uses the Target-Audit methodology
+9. IT Solutions reuse existing IT Products, including:
     - Internally developed software
     - Open Source Software (internally and externally developed)
-    - Third party Services (SaaS, PaaS, and IaaS) and COTS
+    - Third party Services and Products (SaaS, PaaS, and IaaS) and COTS
 
 ### Finance
 
-1. IT Solutions sizes are minimized as much as possible
-2. IT Solutions leverage existing, reusable, scalable and approved IT Products to minimize cost when possible
-   - IT Products requiring purchased licences are not deemed as reusable or scalable for the purpose of this criterion.
-3. IT Solutions, once in production, have dedicated and recurring budgets to support their evolution over their lifecycle, and are managed in tandem by the primary business owner and the dedicated IT Products teams.
-   - The IT Products teams are responsible for maintaining their own products as part of the IT Solutions. (see [Target Solution Delivery Model](strategy-target-solution-delivery-model.html))
-   - A same team managing an IT Product may provide service to multiple IT Solutions; IT Products are thus required to have a scalable and easily adaptable financial model supporting multiple business owners if required (similar to SaaS pay as you use or yearly subscriptions per users, etc.).
-
-### Architecture
-
-1. IT Solutions are aligned with the Digital Standards and the Digital Operations Strategic Plan. As such, IT Solutions are built or bought using IT Products that meet the following criteria:
-   - Designed with users
-   - Iterative and improved frequently
-   - Uses Open Standards and Solutions
-   - Open by default
-   - Designed, developed, delivered and maintained by widely collaborating, both internally and externally
-2. IT Solutions are also required to be designed with a Service Oriented Architecture approach so that its components (IT Products) meet the following criteria:
-   - Interoperable
-   - Reusable
-   - Scalable
-   - Interchangeable
-3. IT Solutions are to leverage Cloud as a preferred delivery option for its IT Products
+1. IT Solutions financial requirements are defined by the Operational Expense vs Capital Expense Framework
 
 ## Coherent set of actions
 
@@ -174,9 +150,16 @@ Solution Architecture
 Business Architecture
 Technical Architecture
 
-Produce IT Solution Risk Assessment Framework (leverage ESDC Business Capacbility Model)
+Produce IT Solution Risk Assessment Framework (leverage ESDC Business Capability Model)
 
 Stakeholders TBC
+
+Operational Expense vs Capital Expense Financial Framework
+Cloud CoE, CFOB, IITB Finance, etc.
+<!--
+#TODO: Add list of 
+
+-->
 
 ## Measuring the Strategy's success
 
@@ -470,7 +453,7 @@ The intent is to replace dated approaches to software delivery in favour of prac
 
 ### IT Solution<!-- omit in toc -->
 
-An IT Solution is the combination of 1 or many IT Products, which are in turn comprised of 1 or many Software and/or Hardware, obtained through many possible ways: built internally, obtained as open source, provided by a company as a licenced executable application, as a standalone device, or used as a service through a subscription model.
+An IT Solution is the combination of 1 or many IT Products, which are in turn comprised of 1 or many Software and/or Hardware, obtained through many possible ways: built internally, obtained as open source, provided by a company as an executable application under a proprietary licence, as a standalone device, or used as a service through a subscription model.
 
 See the following standard IITB definition.
 
