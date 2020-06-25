@@ -118,14 +118,14 @@ Stakeholders are expected to still comply with existing policy instruments inclu
 1. IT Solutions are broken down into manageable parts (IT Products)
 2. Each IT Product must be assessed on its own as well as a part of overall the IT Solution.
 3. IT Products may be bought, built, or adopted (e.g. Open Source Software)
-4. IT Solutions are obtained in a way that minimizes the risks to the department and to its ability to serve Canadians (see [Risk Managing the Obtention of Software](#risk-managing-the-obtention-of-software)). As such:
-   1. Complex and core to mandate IT Solutions are designed internally to ESDC.
+4. IT Solutions are assessed against the IT Solutions risk assessment framework (see [Risk Managing the Obtention of Software](#risk-managing-the-obtention-of-software)).
+  As such:
+   1. Complex and core to mandate IT Solutions are architected internally to ESDC.
       - Small and iterative IT Projects are favoured (see [Target Solution Delivery Model](strategy-target-solution-delivery-model.html)) to deliver the IT Products that will be components to the IT Solution.
-      - IT Solutions Architecture is a key partner throughout the lifecycle of the IT Solutions but IT Products teams have authority to operate and take responsibility for their own products.
       - IT Solutions are architected iteratively over time, with each gate and iteration providing additional information as to choosing the best IT Products to compose them (see [Target Solution Delivery Model](strategy-target-solution-delivery-model.html)).
       - Leveraging external third party integrators is supported but IT Solutions Architecture remains in control to ESDC throughout its lifecycle and abides by its [Architectural Principles](#architecture).
-   2. Complex but not core to mandate IT Solutions are designed internally.
-   3. Non-complex and not core to mandate IT Solutions may be designed and delivered by third party integrators.
+   2. Complex but not core to mandate IT Solutions are architected internally.
+   3. Non-complex and not core to mandate IT Solutions may be architected and delivered by third party integrators.
 5. IT Solutions, whether built internally or built by a third party and delivered as a set of pre-packaged COTS to configure and/or as software as a service, adhere to the Architectural principles as listed in section [Architecture](#architecture)
 6. IT Solutions must provide their overall and individual IT products metrics internally to ESDC. Metrics are comprised of the following:
    - Accessibility test results
@@ -136,7 +136,7 @@ Stakeholders are expected to still comply with existing policy instruments inclu
    - Availability statistics
 7. Security Assessment & Authority (SA&A) uses the Target-SA&A methodology
 8. Accessibility Assessment uses the Target-Accessibility methodology
-9.  Audit Assessment uses the Target-Audit methodology
+9. Audit Assessment uses the Target-Audit methodology
 10. IT Solutions reuse existing IT Products, including:
     - Internally developed software
     - Open Source Software (internally and externally developed)
@@ -168,11 +168,15 @@ Stakeholders are expected to still comply with existing policy instruments inclu
 
 ## Coherent set of actions
 
- Define the <EARB standard definition of IT Solutions>
- Senior Advisors
- Solution Architecture
- Business Architecture
- Technical Architecture
+Define the <EARB standard definition of IT Solutions>
+Senior Advisors
+Solution Architecture
+Business Architecture
+Technical Architecture
+
+Produce IT Solution Risk Assessment Framework (leverage ESDC Business Capacbility Model)
+
+Stakeholders TBC
 
 ## Measuring the Strategy's success
 
