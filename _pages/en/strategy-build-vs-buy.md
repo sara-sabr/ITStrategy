@@ -53,6 +53,8 @@ th {
 - [Guiding Policy](#guiding-policy)
   - [Governance, Compliance, and Reporting](#governance-compliance-and-reporting)
   - [Finance](#finance)
+  - [Legal](#legal)
+  - [Architecture](#architecture)
 - [Coherent set of actions](#coherent-set-of-actions)
 - [Measuring the Strategy's success](#measuring-the-strategys-success)
 - [Appendix A - Business Case (Diagnostic)](#appendix-a---business-case-diagnostic)
@@ -147,24 +149,28 @@ Stakeholders are expected to still comply with existing policy instruments inclu
 
 1. IT Solutions financial requirements are defined by the Operational Expense vs Capital Expense Framework
 
+### Legal
+
+1. IT Solutions use the ESDC Software Legal Terms Guidance
+
+### Architecture
+
+1. IT Solutions and IT products loose coupling boundaries are at the Business Capability Model level.
+2. IT Solutions architecture use Lock-In Assessment Framework
+
 ## Coherent set of actions
 
-Define the <EARB standard definition of IT Solutions>
-Senior Advisors
-Solution Architecture
-Business Architecture
-Technical Architecture
-
-Produce IT Solution Risk Assessment Framework (leverage ESDC Business Capability Model)
-
-Stakeholders TBC
-
-Operational Expense vs Capital Expense Financial Framework
-Cloud CoE, CFOB, IITB Finance, etc.
-<!--
-#TODO: Add list of 
-
--->
+- Define the <EARB standard definition of IT Solutions>
+  - Senior Advisors, Solution Architecture. Business Architecture, Technical Architecture
+- Produce IT Solution Risk Assessment Framework (leverage ESDC Business Capability Model)
+  - <!-- #TODO: Add list of stakeholders -->
+- Operational Expense vs Capital Expense Financial Framework
+  - Cloud CoE, CFOB, IITB Finance, etc.
+- Software Legal Terms Guidance for OSS adoption, Cloud Subscriptions, Shared risk and responsibility
+  - Legal, CCoE, CFOB IPPM, TBS Procurement
+- Dependency Risk Assessment Framework
+  - <!-- #TODO: Add list of stakeholders -->
+- Endorsement of the ESDC OSS Framework (Add Link)
 
 ## Measuring the Strategy's success
 
