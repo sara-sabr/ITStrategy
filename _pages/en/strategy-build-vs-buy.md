@@ -168,6 +168,12 @@ Stakeholders are expected to still comply with existing policy instruments inclu
 
 ## Coherent set of actions
 
+ Define the <EARB standard definition of IT Solutions>
+ Senior Advisors
+ Solution Architecture
+ Business Architecture
+ Technical Architecture
+
 ## Measuring the Strategy's success
 
 ## Appendix A - Business Case (Diagnostic)
