@@ -176,7 +176,7 @@ The assumed reasoning behind this overarching strategy [TBC] is that by leveragi
 
 This oversimplified approach unfortunately doesn't take in account the fact that as an organization, ESDC is subject to multiple and fast paced changes, whether at the legal, political, organizational or technological levels.
 
-As such, it is critical for the organization to ensure that core to mandate IT Solutions remain flexible to adjust to the fast paced changes while also minimizing the risk of said changes by adopopting loosely coupled architectures and smaller sized work packages (see [Target Solution Delivery Model](strategy-target-solution-delivery-model.html)).
+As such, it is critical for the organization to ensure that core to mandate IT Solutions remain flexible to adjust to the fast paced changes while also minimizing the risk of said changes by adopting loosely coupled architectures and smaller sized work packages (see [Target Solution Delivery Model](strategy-target-solution-delivery-model.html)).
 
 ### Build vs Buy : Oversimplified Dichotomy<!-- omit in toc -->
 
