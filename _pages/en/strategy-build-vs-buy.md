@@ -98,7 +98,7 @@ This strategy capitalizes on existing IT initiatives (such as the [IITB Way Forw
 
 This strategy's goal is to define a build versus buy framework, and provide a roadmap in getting to the adoption of this framework.
 
-More details in [Annex A](#appendix-a---business-case-diagnostic).
+More details in [Appendix A](#appendix-a---business-case-diagnostic).
 
 ## Guiding Policy
 
