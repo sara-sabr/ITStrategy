@@ -170,6 +170,14 @@ Stakeholders are expected to still comply with existing policy instruments inclu
 
 ## Appendix A - Business Case (Diagnostic)
 
+The current approach to obtaining IT Solutions is to "Buy what we can, Build what we must".
+
+The assumed reasoning behind this overarching strategy [TBC] is that by leveraging a third party, risks and responsibility of an IT Solutions are handled by a company who has more resources and technical expertise to produce and maintain software.
+
+This oversimplified approach unfortunately doesn't take in account the fact that as an organization, ESDC is subject to multiple and fast paced changes, whether at the legal, political, organizational or technological levels.
+
+As such, it is critical for the organization to ensure that core to mandate IT Solutions remain flexible to adjust to the fast paced changes while also minimizing the risk of said changes by adopopting loosely coupled architectures and smaller sized work packages (see [Target Solution Delivery Model](strategy-target-solution-delivery-model.html)).
+
 ### Build vs Buy : Oversimplified Dichotomy<!-- omit in toc -->
 
 Looking for a systemic and overarching approach to buy vs build of solutions at the organizational level means bypassing the concept of solution architecture, where the required experts of the organization, both from business lines, finance, security, information technology, etc., come together to figure out the best possible way of accomplishing its mission through leveraging its various resources including people, tools, processes and rules.
