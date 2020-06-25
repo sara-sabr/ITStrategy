@@ -250,45 +250,6 @@ The following diagram helps visualize how this risk level varies according with 
 Software options in this niche market are scarce due to the unique mandate of ESDC.
 Change probability is high as those capabilities change as much as regulation changes.
 The impact of such changes has a ripple effect on the whole organization and affects ESDC’s reputation to keep up with citizen demands while maintaining its fiduciary responsibility.
-
-### Build<!-- omit in toc -->
-
-The decision to build is made when the needs are related to a service tied to the departmental mandate.
-Decisions to build are for when there is high ambiguity due to likely future legislative changes to requirements.
-
-Build decisions include those built by service providers or suppliers as well government personnel.
-The requirement is that the system level architectural decisions and expertise remain within the Government of Canada to reduce risk by ensuring agility through leveraging iterative  contracting vehicles and reducing vendor lock-in.
-In contrast to traditional build decisions[^2], when the Government of Canada purchases resources from industry the Government of Canada will be the owner of the product itself -- responsible for the projects implementation and operations; overseeing teams supplied by vendors who provide the technical expertise[^3].This ensures that knowledge about the details and functioning of the system exist within the department[^4].
-Expertise and knowledge regarding implementation details of systems Canadians rely on must exist within the Government of Canada[^5].
-
-#### Alignment Actions<!-- omit in toc -->
-
-##### 1. Build Mandate Related Services<!-- omit in toc -->
-
-Leadership, policies, technology, and user needs change over time.
-The department needs to be in full control of its ability to deliver on its mandate[^6] while adjusting to said changes.
-As discussed above, risk to Canadians cannot be off loaded on to vendors through responsibility offloading (for further discussion please refer to ([Appendix C - Context, Historical Context](#historical-context)).
-To the contrary, attempting to offload responsibility to vendors introduces risk to the government, as such large projects take years to deliver any value to Canadians, and have an increased likelihood of failure[^7].
-
-For further discussion, reference [Annex 1, GC IT Project Analysis](#gc-it-project-analysis).
-
-##### 2. Buy software development services over products<!-- omit in toc -->
-
-This approach aligns with the Digital Operations Strategic Plan ([DOSP](https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html)) as it aligns with _An open, collaborative and accessible government_ and aligns with the Digital Standard _Collaborate widely_ by returning implementation details to the Government of Canada, granting the government full control over its ability to align to TBS direction and applicable legislation.
-Further, when coupled with an agile approach to procurement[^8] and loosely coupled solutions architecture, vendors become interchangeable, thereby reducing vendor lock in.
-Lastly, by limiting the size and scope of each iteration modular architecture is promoted by having the structure of the teams mimic the desired modular structure of the software[^9]<sup>,</sup>[^10].
-
-For details as to why the current approach to build vs buy decisions is out of alignment with GC direction, reference Annex 2.
-
-For further details regarding the increase of build decisions (based on the new definition of build, as defined in the Definitions section), reference Annex 3: Alignment.
-
-##### 3. Use Service Oriented Architecture (SOA)<!-- omit in toc -->
-
-Given the aforementioned principle, Buy software services -- not products, when seeking a vendor to build a given component, industry best practices[^11] will be adhered to by following a Service Oriented Architecture.
-This equips the department to be better able to align with the last principle outlined, _Minimize the size, cost, and scale_.
-By breaking up the monolithic solution into interchangeable sub-components, this increases the flexibility and scalability of the solutions, thereby improving the quality and reliability[^12] of digital services delivered to Canadians.
-By adhering to this approach enterprise software may have subsets of its functionality regularly updated to avoid requiring expensive protracted initiatives to revive expiring systems after decades of neglect due to the fear of complexity of the monolith[^13].
-
 ##### 4. Publish as open source<!-- omit in toc -->
 
 By default, all work, wherever possible, will be released as open source.
@@ -298,36 +259,6 @@ The Digital Standards promotes _Working in the open by default, Using Open stand
 Whether the solution is written by a team within the Government of Canada, or by a vendor, the code must be (except in the rare case where it is legally prohibited) will be published in the open.
 Proper security considerations must be taken prior to publishing code in the open, and teams are expected to work in tandem with, or acquire the necessary skills to, practice best practice while publishing code in the open.
 For further guidance on the use of Open Source, please reference to Annex 5, Use of Open Source.
-
-##### 5. Minimize the size, cost, and scale of work packages<!-- omit in toc -->
-
-As discussed above, by increasing build decisions the government retains control over its ability to deliver on its mandate and removes context switches between organizations, resulting in minimizing system expertise leaving the government.
-In order to further reduce the risk of build decisions, small incremental projects are advised over large ones.
-By decreasing the size of projects risk is decreased by increasing the likelihood of success (see [Target Solution Delivery Model](strategy-target-solution-delivery-model.html)).
-
-Further, this method of delivery ensures business value is provided as early as possible.
-If no business value is provided, the project may be cancelled without having dedicated the total budget, or entire time frame initially intended for its development.
-This approach also aligns with best practices for modern software delivery[^15]<sup>,</sup>[^16].
-This paradigm removes the need for large scale and risky projects.
-Instead, using a modular approach to software design it is possible to reduce the likelihood of failure[^17], maintain agility to avoid vendor lock in, increase the vendor pool availability, and increase our adherence to direction from TBS by maintaining more control over the design decisions and implementation details of the solutions created on behalf of the government.
-As such, it is advised that when making build decisions, efforts be made for any given contract to be strictly less than $1 million, and any project is expected to have products able to deliver business value in strictly less than six months, ideally within weeks.
-Contracts strictly greater than $10 million should be exception cases for particularly complex systems[^18].
-
-For further discussion, please reference [Annex 1](#annex-1-context), specifically, [GC IT Project Analysis](#gc-it-project-analysis).
-
-### Next Steps<!-- omit in toc -->
-
-This strategy promotes increasing the control that the government has regarding the delivery of digital services pertaining to its mandate.
-In order to do so, the ratio of build vs buy decisions is expected to increase in favour of build decisions, as defined in the [Annex 0: Definitions](#annex-0-definitions) and elaborated upon in the [Buy Software Services; Not Products](#2-buy-software-development-services-over-products) section.
-Note that the ultimate goal is to increase agility through reusing existing solutions by leveraging OSS, which offers the opportunity to increase collaboration both between private and public sectors, as well as between government bodies[^19].
-
-If Canada is to deliver modern digital services to Citizens then the dated model favouring the oversimplified buy decisions in an effort to offload risk pertaining to implementations of mandated government services should be ceased.
-In order to promote these changes, this strategy is aimed at transitioning many buy decisions to a modified build decision, where the government will have an opportunity to maintain control over implementation details and keep the required expertise within the Government of Canada.
-However, if the goal is for the Government of Canada to be able to align with ever changing requirements, efforts should continue to be made to increase the government's capacity for in-house development[^20]<sup>,</sup>[^21], insofar as doing so does not prevent alignment with government direction.
-In order to ensure that the department continues to improve its ability to maintain control of service delivery for the benefit of Canadians, the department should focus on increasing its core competencies[^22] in order to increase the rate at which it is able to deliver services to Canadians.
-
-Further, in alignment with Canada's Cloud First Strategy and in order to gain from the benefits outlined in said strategy, modified builds should also leverage cloud technologies wherever possible.
-Given this, it is imperative that the department create an environment where vendors are able to build digital services leveraging modern technologies, such as cloud, in order to enable the digital delivery of services to Canadians.
 
 ### Strategic Actions (In Progress)<!-- omit in toc -->
 
