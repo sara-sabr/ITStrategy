@@ -252,16 +252,6 @@ Software options in this niche market are scarce due to the unique mandate of ES
 Change probability is high as those capabilities change as much as regulation changes.
 The impact of such changes has a ripple effect on the whole organization and affects ESDC’s reputation to keep up with citizen demands while maintaining its fiduciary responsibility.
 
-##### 4. Publish as open source<!-- omit in toc -->
-
-By default, all work, wherever possible, will be released as open source.
-Given the government will be buying services rather than software, this approach promotes greater alignment with the Government of Canada direction[^14], as outlined in Annex 3: Alignment (TBC).
-The Digital Standards promotes _Working in the open by default, Using Open standards and solutions_.
-
-Whether the solution is written by a team within the Government of Canada, or by a vendor, the code must be (except in the rare case where it is legally prohibited) will be published in the open.
-Proper security considerations must be taken prior to publishing code in the open, and teams are expected to work in tandem with, or acquire the necessary skills to, practice best practice while publishing code in the open.
-For further guidance on the use of Open Source, please reference to Annex 5, Use of Open Source.
-
 ### Strategic Actions (In Progress)<!-- omit in toc -->
 
 In the area of procurement
