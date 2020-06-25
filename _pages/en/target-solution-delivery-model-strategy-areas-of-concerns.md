@@ -35,6 +35,8 @@ This document will be updated throughout the elaboration of the above strategy.
 | 0.3 | 2020-05-11 | Removed Bi-Modal overhead as the strategy has been renamed to Target Model |
 | 0.4 | 2020-05-22 | Added concerns raised during presentations to IITB districts (BOSS, BSIM, Enterprise Ops) |
 | 0.5 | 2020-06-12 | Moved clarity of "IT Product" concern to RESOLVED |
+| 0.6 | 2020-06-18 | Moved "ERP Solutions" concerned to RESOLVED |
+| 0.7 | 2020-06-23 | Added "Development Value Stream" vs Business Architecture's "Value Stream" |
 
 **Table of Content**
 
@@ -343,9 +345,13 @@ TBD. The current thinking is to improve the organization's monitoring ability by
 
 #### 2.11.1. Summary <!-- omit in toc -->
 
-Moving towards a more decentralized and distributed means of decision making presents a risk that incorrect decisions may occur affecting data management across the enterprise.
-The risk involved duplication of data, incoherence to data consumers, and degradation of data quality.
-Over the years, IITB has spent efforts centralizing certain functions to achieve efficiencies and be able to do more with less.
+Moving towards a more decentralized and distributed means of decision making presents a risk that incorrect decisions may occur affecting data management across the enterprise. The risk involved duplication of data, incoherence to data consumers, and degradation of data quality.  Over the years, IITB has spent efforts centralizing certain functions to achieve efficiencies and be able to do more with less.
+
+In the case of the Data Analytics team, direct access to a database as opposed to an API (exposing data meant for consumption by a User Interface or another functional API) is necessary due to the broad nature of analytics and its need to vast amount of data. An API may be build, per product, for the sole purpose of accessing the database content but:
+
+1. It’s unlikely a Product will have it built as it will require more costs to do
+2. Performance hits are expected
+3. The number of APIs to consume and reconstruct data will increase complexity of Data Analytics solutions
 
 #### 2.11.2. Raised by stakeholder(s) <!-- omit in toc -->
 
