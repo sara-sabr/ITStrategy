@@ -1,4 +1,4 @@
-﻿{
+{
   "version": "0.1",
   "language": "fr",
   "words": [
@@ -11,8 +11,18 @@
     "ccvp",
     "Smes",
     "Oecd’s",
+    "Muston",
     "mydir",
     "charest",
+    "incentivize",
+    "reusability",
+    "tradecraft",
+    "maneuver",
+    "Shoup",
+    "Versioning",
+    "Lublinsky",
+    "sessional",
+    "licencing",
     "pandu",
     "appgate",
     "shopify",
@@ -385,10 +395,30 @@
     "siloed",
     "practiced",
     "Odoo",
+    "incentivize",
+    "siloes",
+    "situates",
+    "Ssc's",
+    "INET",
+    "incentivize",
+    "versioning",
+    "Po's",
+    "downstream",
+    "tradeoff",
+    "upskill",
+    "ERPs",
+    "Blackbox",
+    "BSIM",
+    "stakeholder's",
+    "analyze",
+    "projectization",
+    "upscale",
     "slideshare"
   ],
   "flagWords": [],
-  "import": ["./node_modules/cspell-dict-fr-fr/cspell-ext.json"],
+  "import": [
+    "./node_modules/cspell-dict-fr-fr/cspell-ext.json"
+  ],
   "dictionaries": [
     "fr-fr",
     "en-gb",
@@ -398,5 +428,7 @@
     "html",
     "css"
   ],
-  "ignoreRegExpList": ["]\\(([^\\)]+)\\)"]
+  "ignoreRegExpList": [
+    "]\\(([^\\)]+)\\)"
+  ]
 }
