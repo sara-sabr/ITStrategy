@@ -38,6 +38,11 @@ th {
 >_Note 3: This version is the preliminary form of the document and will be shortly updated with a re-framed scope based on consultations._
 <!-- markdownlint-enable MD036 -->
 
+**Change log**
+
+|Version|Date of Change|Change Description|
+|0.1|2020-06-22|First Draft, moved from working document to web page|
+
 <!-- markdownlint-disable MD001 -->
 ##### Table of Content<!-- omit in toc -->
 <!-- markdownlint-enable MD001 -->
