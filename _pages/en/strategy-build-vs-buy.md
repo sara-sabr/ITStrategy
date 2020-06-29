@@ -162,7 +162,7 @@ Stakeholders are expected to still comply with existing policy instruments inclu
 
 ## Coherent set of actions
 
-- Define the <EARB standard definition of IT Solutions>
+- Define the EARB standard definition of IT Solutions
   - Senior Advisors, Architecture teams (Business Arch, EA, Solution Arc, Technical Arc), Senior Advisors, ARC, Technical Standards Working Group (TSWG), and ultimately EARB
 - Produce IT Solution Risk Assessment Framework (leverage ESDC Business Capability Model, etc.)
   - Same as above with the addition of CDO, EOps
