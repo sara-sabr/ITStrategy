@@ -162,17 +162,96 @@ Stakeholders are expected to still comply with existing policy instruments inclu
 
 ## Coherent set of actions
 
-- Define the EARB standard definition of IT Solutions
-  - Senior Advisors, Architecture teams (Business Arch, EA, Solution Arc, Technical Arc), Senior Advisors, ARC, Technical Standards Working Group (TSWG), and ultimately EARB
-- Produce IT Solution Risk Assessment Framework (leverage ESDC Business Capability Model, etc.)
-  - Same as above with the addition of CDO, EOps
-- Produce IT Product Risk Assessment Framework (E.g.: Technology and Vendor lock-in, maintenance, customization, etc.)
-  - <!-- #TODO: Add list of stakeholders -->
-- Produce Operational Expense vs Capital Expense Financial Framework
-  - Cloud CoE, CFOB, IITB Finance, etc.
-- Software Legal Terms Guidance for OSS adoption, Cloud Subscriptions, Shared risk and responsibility
-  - Legal, CCoE, CFOB IPPM, TBS Procurement
-- Endorsement of the ESDC OSS Framework (Add Link)
+<table>
+  <tr>
+    <th>Outcome</th>
+    <th>Action</th>
+    <th>Description</th>
+    <th>Stakeholders</th>
+  </tr>
+  <tr>
+    <td rowspan="4"><b>Governance</b></td>
+    <td>Produce the EARB standard definition of IT Solutions</td>
+    <td>Define the IT Solution concept and scope for use and assessment by EARB and IITB teams.</td>
+    <td>
+      <b><i>Architecture Teams</i></b><br>
+      (includes: Enterprise, Business, Solution, and Technical Architecture)<br>
+      Senior Advisors<br>
+      IT Strategy<br>
+      ARC<br>
+      Technical Standards Working Group (TSWG)<br>
+      EARB
+    </td>
+  </tr>
+  <tr>
+    <td>Produce IT Solution Risk Assessment Framework</td>
+    <td>Produce an IT Solution Risk Assessment Framework that favours and incentivises flexible and interoperable IT solutions, service oriented architecture, and reusable IT Products as components.<br>
+    ESDC Business Capability Model should be leveraged to help define IT Solution concept boundaries.
+    </td>
+    <td>
+      <b><i>Architecture Teams</i></b><br>
+      (includes: Enterprise, Business, Solution, and Technical Architecture)<br>
+      Senior Advisors<br>
+      IT Strategy<br>
+      Enterprise Ops<br>
+      CDO<br>
+      ARC<br>
+      Technical Standards Working Group (TSWG)<br>
+      EARB
+    </td>
+  </tr>
+  <tr>
+    <td>Produce IT Product Risk Assessment Framework</td>
+    <td>Produce an IT Solution Risk Assessment Framework that favours and incentivises IT Products that meet the Architectural Standards.<br>
+    <br>
+    Key IT Products criteria to keep in mind:<br>
+    Favours: flexible, interchangeable, interoperable, reusable, scalable, and that can support self-serve for development teams<br>
+    Reduces: lock-in situations, whether contractual or technological, maintenance, customization, etc.
+    </td>
+    <td>
+      <b><i>Architecture Teams</i></b><br>
+      (includes: Enterprise, Business, Solution, and Technical Architecture)<br>
+      Senior Advisors<br>
+      IT Strategy<br>
+      Enterprise Ops<br>
+      CDO<br>
+      ARC<br>
+      Technical Standards Working Group (TSWG)<br>
+      EARB</td>
+  </tr>
+  </tr>
+    <td>Endorse the ESDC OSS Framework</td>
+    <td>Officially review the ESDC OSS Framework and endorse it.
+    </td>
+    <td><b><i>EARB</i></b><br>
+    Legal<br>
+    IT Strategy
+    </td>
+  </tr>
+  <tr>
+    <td rowspan="1"><b>Finance</b></td>
+    <td>Produce IT Products Operational vs Capital Expense Financial Framework</td>
+    <td>Produce an Operational vs Capital Expense Financial Framework to provide guidance on use and budgeting of services as ongoing IT products within IT Solutions architecture<br>
+    Leverage the Cloud CoE showback model to help explain use of services as part of an IT Solution and IT Products costing vs project budgeting.</td>
+    <td><b><i>Cloud CoE</i></b><br>
+    IITB Finance<br>
+    CFOB<br>
+    IT Strategy
+    </td>
+  </tr>
+  <tr>
+    <td rowspan="1"><b>Legal</b></td>
+    <td>Produce an ESDC Software Legal Terms Guidance</td>
+    <td>Produce an ESDC Software Legal Terms Guidance to support the adoption of OSS, help manage the legal complexities of Cloud subscriptions and support teams in assessing the shared risk and responsibilities
+    </td>
+    <td><b><i>Legal</i></b><br>
+    Cloud CoE<br>
+    CFOB IPPM<br>
+    TBS Procurement<br>
+    IT Strategy
+    </td>
+  </tr>
+</table>
 
 ## Measuring the Strategy's success
 
