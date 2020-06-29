@@ -219,7 +219,7 @@ Stakeholders are expected to still comply with existing policy instruments inclu
       Technical Standards Working Group (TSWG)<br>
       EARB</td>
   </tr>
-  </tr>
+  <tr>
     <td>Endorse the ESDC OSS Framework</td>
     <td>Officially review the ESDC OSS Framework and endorse it.
     </td>
