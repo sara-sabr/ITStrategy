@@ -331,103 +331,13 @@ Software options in this niche market are scarce due to the unique mandate of ES
 Change probability is high as those capabilities change as much as regulation changes.
 The impact of such changes has a ripple effect on the whole organization and affects ESDC’s reputation to keep up with citizen demands while maintaining its fiduciary responsibility.
 
-### Strategic Actions (In Progress)<!-- omit in toc -->
-
-In the area of procurement
-
-- Develop and implement a streamlined/fast track process for low dollar value procurement of IT services with expertise in open source (to assist with open source ‘build’ work and to incentivize small companies to compete and better distribute GC contract dollars to small companies and individuals)
-- Pilot contract payment automation for low dollar value contracts (to incentivize small companies to compete)
-- Build expertise within IITB for breaking work down into small work packages and describing that work (so that when capacity is low, small contracts can be done by external services)
-
-Topics to consider:
-
-1. Procurement vehicles (e.g. agile procurement, DevExchange to favour smaller players, OSS support services)
-1. Legal (e.g. subscribing to SaaS and the T&Cs)
-1. Financial (services like SaaS are not capital expense, they are operational ones. This affects budgeting and I don't think Procurement/Finance is yet up to speed on the matter)
-
-<table>
-  <tr>
-    <th>Action</th>
-    <th>Team</th>
-    <th>Stakeholders</th>
-  </tr>
-  <tr>
-    <td>Create agile procurement process</td>
-    <td>
-      <ul>
-        <li>IT Strategy</li>
-        <li>Procurement Innovation</li>
-        <li>Others</li>
-      </ul>
-    </td>
-    <td>DOSP
-      <ul>
-        <li>#37 Section 4.3</li>
-        <li>#72 Section 6.2</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>Create agile procurement Strategy</td>
-    <td>
-      <ul>
-        <li>IT Strategy</li>
-        <li>IITB Finance</li>
-        <li>CFOB</li>
-        <li>Others</li>
-      </ul>
-    </td>
-    <td>DOSP
-      <ul>
-        <li>#37 Section 4.3</li>
-        <li>#72 Section 6.2</li>
-      </ul>
-    </td>
-  </tr>
-   <tr>
-    <td>Legal Framework for requiring code published as OSS</td>
-    <td></td>
-    <td></td>
-  </tr>
-   <tr>
-    <td>Finance Frameworks for Micro Procurement (or miniature procurement)
-    </td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Training of relevant staff on SOA</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Provide ESDC with means to purchase SaaS</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Modernize Build vs Buy principle given Cloud First position</td>
-    <td>
-      <ul>
-        <li>IT Strategy</li>
-        <li>IITB Finance</li>
-        <li>CFOB</li>
-        <li>Others</li>
-      </ul>
-    </td>
-    <td></td>
-  </tr>
-</table>
-
 ### Conclusion<!-- omit in toc -->
 
 With the exception of well established software for generic or peripheral needs of the department, there is little distinction between build vs buy.
-The question becomes build it oneself, or have someone else build it.
-Even traditional services delivered through SaaS, such as email, require configuration (build) for their implementation[^23].
-Further, even when service providers are to build the solution, given SOA, the department should conduct alpha (the initial design which takes place early exploratory and testing phases) product design so as to be able to design the solution in such a way that it can be managed as separable subsystems[^24]<sup>,</sup>[^25].
-In either case, implementation and support decisions will need to be made, and standards will need to be abided by in order to ensure that the Crown remains in control of all code produced, and that the Crown does not find itself locked in to any particular service provider.
+The question becomes whether the organization could and should build it itself, or have someone else build it.
+Even traditional services delivered through SaaS, such as email, require considerable configuration (build) for their implementation[^23] and continuous maintenance.
 This strategy is intended to return control of implementation of services back to the department thereby permitting increased alignment with the Government of Canada direction, and increase the quality, and rate by which, digital services are delivered to Canadians.
-The intent is to replace dated approaches to software delivery in favour of practices aligned with industry best practice in order to promote the department's digital transformation and keep pace with the rising expectations of Canadian citizens with respect to digital services.
+The intent is to replace dated approaches to IT solutions delivery in favour of practices aligned with industry best practice in order to promote the department's digital transformation and keep pace with the rising expectations of Canadian citizens with respect to digital services.
 
 ## Appendix B - Traceability Matrix
 
