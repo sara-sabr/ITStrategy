@@ -4,12 +4,13 @@
     fr: Ensemble cohérent de mesures
     en: Coherent set of actions
   dimensions:
-    rows: 7
+    hrows: 1
+    rows: 6
     columns: 4
   rows:
   - row:
     position: 0
-    rowspan: null
+    rowspan: 1
     headers: true
     cols:
     - col:
@@ -65,7 +66,8 @@
       data:
         list: false
         fr: 
-        en: Define the IT Solution concept and scope for use and assessment by EARB and IITB teams.  
+        en: >
+          Define the IT Solution concept and scope for use and assessment by EARB and IITB teams.  
     - col:
       position: 3
       colspan: null
@@ -90,7 +92,7 @@
           position: 3
   - row:
     position: 1
-    rowspan: 4
+    rowspan: 1
     headers: false
     cols:
     - col:
@@ -105,8 +107,9 @@
       colspan: null
       data:
         list: false
-        fr: null
-        en: "Produce an IT Solution Risk Assessment Framework that favours and incentivizes flexible and interoperable IT solutions, service oriented architecture, and reusable IT Products as components.<br><br>ESDC Business Capability Model should be leveraged to help define IT Solution concept boundaries." 
+        fr: 
+        en: >
+          "Produce an IT Solution Risk Assessment Framework that favours and incentivizes flexible and interoperable IT solutions, service oriented architecture, and reusable IT Products as components.<br><br>ESDC Business Capability Model should be leveraged to help define IT Solution concept boundaries." 
     - col:
       position: 3
       colspan: null
