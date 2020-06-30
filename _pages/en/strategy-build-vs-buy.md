@@ -290,7 +290,7 @@ As such, if the organization is not in a position to design, build and operate t
 The Strategy looks at risk managing the obtention of software over following dogmatic rules to purchase or build software (e.g. "SaaS first" does not mean SaaS always, "buy what we can" does not mean buying because it's available).
 Instead, the Strategy will use such policy instruments as intended by the policy author and its authority to inform decisions for long term sustainability and user needs.
 
-The risk management for software acquisition is based on the following formula:
+The risk management for obtaining software is based on the following formula:
 
 >Risk = Probability of change * impact
 >
