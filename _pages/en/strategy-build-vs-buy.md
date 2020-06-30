@@ -34,8 +34,6 @@ th {
 >_Note 1: Its authoritative source and latest version of this Strategy will be shared on ESDC's internal network (link upcoming)_
 >
 >_Note 2: This page will link to internal ESDC documents, which are unfortunately only accessible within ESDC corporate network._
->
->_Note 3: This version is the preliminary form of the document and will be shortly updated with a reframed scope based on consultations._
 
 **Change log**
 <!-- markdownlint-enable MD036 -->
