@@ -5,12 +5,12 @@
     en: Coherent set of actions
   headers:
     - text:
-        fr:
-        en:
+        fr: Résultat
+        en: Outcome
       order: 1
     - text:
-        fr:
-        en:
+        fr: 
+        en: 
       order: 2
     - text:
         fr:
@@ -26,8 +26,8 @@
   - column:
     group_order: 1   
     name:
-      fr: Résultat
-      en: Outcome
+      fr: 
+      en: 
 - table:
   id: 002
   name:
