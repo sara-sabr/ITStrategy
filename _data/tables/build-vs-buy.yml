@@ -1,0 +1,42 @@
+- table:
+  id: 001
+  name:
+    fr: Ensemble cohérent de mesures
+    en: Coherent set of actions
+  headers:
+    - text:
+        fr: Résultat
+        en: Outcome
+      order: 1
+    - text:
+        fr: Mesure
+        en: Action
+      order: 2
+    - text:
+        fr: Description
+        en: Description
+      order: 3
+    - text:
+        fr: Parties prenantes
+        en: Stakeholders
+      order: 4
+  rows:
+  - row: 
+    text:
+      fr: Gouvernance
+      en: Governance
+    order: 1
+    rowspan: 4
+    colspan: null
+  - row: 
+    text:
+      fr: 
+      en: Produce the EARB standard definition of IT Solutions
+    order: 1
+    rowspan: null
+    colspan: null
+- table:
+  id: 002
+  name:
+    fr:
+    en:
