@@ -131,7 +131,6 @@ GC IT Projects that are smaller in budget are more likely to be completed on tim
 Of the projects from 2016, only 35% of projects over $100M were completed or were on or ahead of schedule by 2019.
 Compared with 70% of the 2016 projects which were smaller than $10M[^30].
 
-
 ## Current State -- Lack of Alignment
 
 This section outlines how the current approach to the build versus buy question is out of alignment with GC direction.

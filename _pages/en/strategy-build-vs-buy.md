@@ -184,7 +184,7 @@ Stakeholders are expected to still comply with existing policy instruments inclu
   </tr>
   <tr>
     <td>Produce IT Solution Risk Assessment Framework</td>
-    <td>Produce an IT Solution Risk Assessment Framework that favours and incentivises flexible and interoperable IT solutions, service oriented architecture, and reusable IT Products as components.<br>
+    <td>Produce an IT Solution Risk Assessment Framework that favours and incentivizes flexible and interoperable IT solutions, service oriented architecture, and reusable IT Products as components.<br>
     ESDC Business Capability Model should be leveraged to help define IT Solution concept boundaries.
     </td>
     <td>
@@ -201,7 +201,7 @@ Stakeholders are expected to still comply with existing policy instruments inclu
   </tr>
   <tr>
     <td>Produce IT Product Risk Assessment Framework</td>
-    <td>Produce an IT Solution Risk Assessment Framework that favours and incentivises IT Products that meet the Architectural Standards.<br>
+    <td>Produce an IT Solution Risk Assessment Framework that favours and incentivizes IT Products that meet the Architectural Standards.<br>
     <br>
     Key IT Products criteria to keep in mind:<br>
     Favours: flexible, interchangeable, interoperable, reusable, scalable, and that can support self-serve for development teams<br>
