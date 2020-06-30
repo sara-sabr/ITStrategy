@@ -156,7 +156,7 @@ Stakeholders are expected to still comply with existing policy instruments inclu
 ### Architecture
 
 1. IT Solutions and IT products loose coupling boundaries are at the Business Capability Model level.
-   1. Duplication of IT Products or IT Solutions is acceptable as long as they are for different business capabilities.
+   - Duplication of IT Products or IT Solutions is supported as long as they are for different business capabilities.
 2. IT Products are risk assessed for Lock-In situations with the IT Products risk assessment framework
 
 ## Coherent set of actions
