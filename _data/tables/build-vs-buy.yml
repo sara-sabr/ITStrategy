@@ -3,38 +3,129 @@
   name:
     fr: Ensemble cohérent de mesures
     en: Coherent set of actions
-  headers:
-    - text:
+  rows:
+  - row:
+    position: 0
+    rowspan: null
+    headers: true
+    cols:
+    - col:
+      position: 0
+      colspan: null
+      data:
+        list: false
         fr: Résultat
         en: Outcome
-      order: 1
-    - text:
+    - col:
+      position: 1
+      colspan: null
+      data:
+        list: false
         fr: Mesure
         en: Action
-      order: 2
-    - text:
+    - col:
+      position: 2
+      colspan: null
+      data:
+        list: false
         fr: Description
-        en: Description
-      order: 3
-    - text:
+        en: Description  
+    - col:
+      position: 3
+      colspan: null
+      data:
+        list: false
         fr: Parties prenantes
-        en: Stakeholders
-      order: 4
-  rows:
-  - row: 
-    text:
-      fr: Gouvernance
-      en: Governance
-    order: 1
+        en: Stakeholders 
+  - row:
+    position: 1
     rowspan: 4
-    colspan: null
-  - row: 
-    text:
-      fr: 
-      en: Produce the EARB standard definition of IT Solutions
-    order: 1
-    rowspan: null
-    colspan: null
+    headers: false
+    cols:
+    - col:
+      position: 0
+      colspan: null
+      data:
+        list: false
+        fr: Gouvernance
+        en: Governance
+    - col:
+      position: 1
+      colspan: null
+      data:
+        list: false
+        fr: 
+        en: Produce the EARB standard definition of IT Solutions
+    - col:
+      position: 2
+      colspan: null
+      data:
+        list: false
+        fr: 
+        en: Define the IT Solution concept and scope for use and assessment by EARB and IITB teams.  
+    - col:
+      position: 3
+      colspan: null
+      data:
+        list: true
+        items:
+        - item:
+            fr: Équipes d'architecture
+            en: Architecture Teams
+          position: 0
+        - item:
+            fr:
+            en: Senior Advisors
+          position: 1
+        - item:
+            fr:
+            en: IT Strategy
+          position: 2
+        - item:
+            fr:
+            en: ARC
+          position: 3
+  - row:
+    position: 1
+    rowspan: 4
+    headers: false
+    cols:
+    - col:
+      position: 1
+      colspan: null
+      data:
+        list: false
+        fr: 
+        en: Produce IT Solution Risk Assessment Framework
+    - col:
+      position: 2
+      colspan: null
+      data:
+        list: false
+        fr: null
+        en: "Produce an IT Solution Risk Assessment Framework that favours and incentivizes flexible and interoperable IT solutions, service oriented architecture, and reusable IT Products as components.<br><br>ESDC Business Capability Model should be leveraged to help define IT Solution concept boundaries." 
+    - col:
+      position: 3
+      colspan: null
+      data:
+        list: true
+        items:
+        - item:
+            fr: Équipes d'architecture
+            en: Architecture Teams
+          position: 0
+        - item:
+            fr:
+            en: Senior Advisors
+          position: 1
+        - item:
+            fr:
+            en: IT Strategy
+          position: 2
+        - item:
+            fr:
+            en: ARC
+          position: 3
 - table:
   id: 002
   name:
