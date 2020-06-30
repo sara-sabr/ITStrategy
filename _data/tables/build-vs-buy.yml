@@ -43,11 +43,11 @@
         en: Stakeholders 
   - row:
     position: 1
-    rowspan: 4
     headers: false
     cols:
     - col:
       position: 0
+      rowspan: 4
       colspan: null
       data:
         list: false
@@ -55,6 +55,7 @@
         en: Governance
     - col:
       position: 1
+      rowspan: null
       colspan: null
       data:
         list: false
@@ -62,6 +63,7 @@
         en: Produce the EARB standard definition of IT Solutions
     - col:
       position: 2
+      rowspan: null
       colspan: null
       data:
         list: false
@@ -70,13 +72,15 @@
           Define the IT Solution concept and scope for use and assessment by EARB and IITB teams.  
     - col:
       position: 3
+      rowspan: null
       colspan: null
       data:
         list: true
         items:
         - item:
             fr: Équipes d'architecture
-            en: Architecture Teams
+            en: >
+              <strong>Architecture Teams</strong> Includes
           position: 0
         - item:
             fr:
@@ -92,12 +96,12 @@
           position: 3
   - row:
     position: 1
-    rowspan: 1
     headers: false
     cols:
     - col:
       position: 1
       colspan: null
+      rowspan: null
       data:
         list: false
         fr: 
@@ -105,6 +109,7 @@
     - col:
       position: 2
       colspan: null
+      rowspan: null
       data:
         list: false
         fr: 
@@ -113,6 +118,7 @@
     - col:
       position: 3
       colspan: null
+      rowspan: null
       data:
         list: true
         items:
