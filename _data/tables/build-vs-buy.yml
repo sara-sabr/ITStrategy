@@ -3,6 +3,9 @@
   name:
     fr: Ensemble cohérent de mesures
     en: Coherent set of actions
+  dimensions:
+    rows: 7
+    columns: 4
   rows:
   - row:
     position: 0
