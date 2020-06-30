@@ -74,6 +74,64 @@ permalink: /strategy-build-vs-buy-explained.html
 
 This document is complementary content for the [Build vs Buy Strategy](strategy-build-vs-buy.html).
 
+### Historical Context<!-- omit in toc -->
+
+The Canadian government's rationale for procuring 3rd party software solutions and support has historically been based on reducing risk and cost for taxpayers.
+
+However many recent large IT software procurements by the GC have proven that offloading risk to a third party is a fallacy and that the predicted cost savings to taxpayers have not materialized.
+Part of this problem is with the procurement process.
+With the ability to increase the value of a contract by up to 50% without tendering again, contractors can submit “suicide bids” that they know are much too low.
+This makes the contracted option initially on paper look better when compared with the costs to developing in house.
+
+Time and again balling balloon on IT contracts have been observed.
+The Phoenix pay project started at $309M and is expected to now cost over $2.6B.
+The Email transformation initiative started at $x and was $100M by the time it was suspended.
+The contract for the content management system solution for the Canada.ca project started at $1.54M and was $14.9M by the end.
+
+Though IT projects don't just end up over budget due to suicide bids.
+They can end up over budget due to a lack of strong integration with internal policy and subject matter experts on the project team.
+Without the input from these experts, projects end up not delivering on functionality.
+Fixing systems that don't meet functional requirements, comes at a cost, eats into the predicted cost savings for the new software solution.
+ETI was supposed to save $50M/year but was only completed up to 20% so any savings achieved are reduced by at least that amount.
+Coupled with the budget overruns, it would take 10+ years to achieve a return on investment now.
+Phoenix was expected to save $70M a year.
+Even if all those savings have been achieved, the increased cost means that the return on investment will take 37 years.
+The phoenix project is another example of this.
+It was launched with many important pay processing functions missing.
+Had the project been done in house, and/or with a tighter coupling with the subject matter experts, it is likely that a stronger case could have been made to not go forward without those functions.
+
+Further, offloading of risk to the taxpayer is not solely about the build decision itself but rather the ongoing operation.
+Often traditional build projects include a significant component of ongoing run and support.
+As such the ongoing support costs, and risk of being required to support companies solely due to severe vendor lock-in.
+
+### GC IT Project Analysis<!-- omit in toc -->
+
+#### GC IT Projects are large<!-- omit in toc -->
+
+In May 2019, in response to a written question in the House of Commons[^26], departments self-reported 463 IT projects with budgets of more than $1M[^27].
+The total budget allocated to all of these projects was $7B.
+Of these projects, 83% of the total budget was with projects having a total budget of $10M or more[^28].
+
+#### GC IT Projects take a long time to complete<!-- omit in toc -->
+
+Of the IT projects reported in May 2019, 45% of the total budget for the 463 projects was with projects that would take more than 2 years to complete.
+
+#### GC IT Projects are frequently completed overtime and or over budget<!-- omit in toc -->
+
+Budgets for IT software contracts are underestimated to a greater degree than other contracts.
+Contract history data shows that software contracts which have been amended up in value, have been amended upwards by 343%.
+By contrast, non-software contracts which have been amended up in value have been amended upward in value by 163%.
+
+GC IT project data indicates that IT project budgets are frequently underestimated.
+Of the IT projects in the GC that were reported in 2016, 65% of these projects that were still underway in 2019 were now over budget[^29].
+On average these projects were over budget by ~160% with 3 of the 98 projects over budget by more than $150M each.
+
+Of the 98 GC IT Projects that were reported in 2016 and still underway in 2019, 84% were now behind schedule.
+GC IT Projects that are smaller in budget are more likely to be completed on time or stay on schedule.
+Of the projects from 2016, only 35% of projects over $100M were completed or were on or ahead of schedule by 2019.
+Compared with 70% of the 2016 projects which were smaller than $10M[^30].
+
+
 ## Current State -- Lack of Alignment
 
 This section outlines how the current approach to the build versus buy question is out of alignment with GC direction.
