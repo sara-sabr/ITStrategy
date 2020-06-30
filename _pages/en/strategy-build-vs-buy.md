@@ -35,7 +35,7 @@ th {
 >
 >_Note 2: This page will link to internal ESDC documents, which are unfortunately only accessible within ESDC corporate network._
 >
->_Note 3: This version is the preliminary form of the document and will be shortly updated with a re-framed scope based on consultations._
+>_Note 3: This version is the preliminary form of the document and will be shortly updated with a reframed scope based on consultations._
 
 **Change log**
 <!-- markdownlint-enable MD036 -->
@@ -91,7 +91,7 @@ All ESDC personnel involved in the exploration of IT Solutions and in IT investm
 Moving to the digital age requires improving IT's responsiveness and promoting a shared accountability with ESDC stakeholders on the use of technology.
 
 This strategy proposes moving ESDC to the point where the complexity of IT Solutions is properly understood and investment decisions are taken with flexibility, interchangeability, and interoperability in mind throughout the entire lifecycle of an IT Solution, not only at the initial stage.
-The benefits to increasing the flexibility and interoperability of IT Solutions architectures as well as reusability and scalability of its IT Products are expected to reduce risk [^1], reduce technical debt over time, increase client satisfaction, and increase overall confidence in the department and its staff.
+The benefits to increasing the flexibility and interoperability of IT Solutions architectures as well as reusability and scaleability of its IT Products are expected to reduce risk [^1], reduce technical debt over time, increase client satisfaction, and increase overall confidence in the department and its staff.
 
 This strategy capitalizes on existing IT initiatives (such as the [IITB Way Forward](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx)) to compliment them by adding attention to them, as well as complimenting them with new activities.
 
@@ -104,7 +104,7 @@ More details in [Appendix A](#appendix-a---business-case-diagnostic).
 The following policy reflects the decision adopted by the **CIO of ESDC** (approval by CIO not yet obtained) when deciding whether an IT solution should be built or bought.
 Each policy statement is a declaration of that decision and has received the endorsement of its associated area of governance body (endorsements not yet obtained, see section [coherent set of actions](#coherent-set-of-actions)).
 
-This policy becomes active when IT Solutions are to be obtained, whether delivered by ESDC or by a third party provider.
+This policy becomes active when IT Solutions are to be obtained, whether delivered by ESDC or by a third-party provider.
 Once active, all teams involved in the project, and the IT products involved in the IT solution, must comply with this guiding policy.
 
 This Guiding Policy has been prepared by taking into consideration alignment and compliance with existing policy instruments and does not replace them.
@@ -182,7 +182,7 @@ Stakeholders are expected to still comply with existing policy instruments inclu
   </tr>
   <tr>
     <td>Produce IT Solution Risk Assessment Framework</td>
-    <td>Produce an IT Solution Risk Assessment Framework that favours and incentivizes flexible and interoperable IT solutions, service oriented architecture, and reusable IT Products as components.<br>
+    <td>Produce an IT Solution Risk Assessment Framework that favours and incentivizes flexible and interoperable IT solutions, service-oriented architecture, and reusable IT Products as components.<br>
     ESDC Business Capability Model should be leveraged to help define IT Solution concept boundaries.
     </td>
     <td>
@@ -258,9 +258,9 @@ The current approach to obtaining IT Solutions is to "Buy what we can, Build wha
 
 The assumed reasoning behind this overarching strategy [TBC] is that by leveraging a third party, risks and responsibility of an IT Solutions are handled by a company who has more resources and technical expertise to produce and maintain software.
 
-This oversimplified approach unfortunately doesn't take in account the fact that as an organization, ESDC is subject to multiple and fast paced changes, whether at the legal, political, organizational or technological levels.
+This oversimplified approach unfortunately doesn't atake in account the fact that as an organization, ESDC is subject to multiple and fast paced changes, whether at the legal, political, organizational or technological levels.
 
-As such, it is critical for the organization to ensure that core to mandate IT Solutions remain flexible to adjust to the fast paced changes while also minimizing the risk of said changes by adopting loosely coupled architectures and smaller sized work packages (see [Target Solution Delivery Model](strategy-target-solution-delivery-model.html)).
+As such, it is critical for the organization to ensure that core to mandate IT Solutions remain flexible to adjust to the fast-paced changes while also minimizing the risk of said changes by adopting loosely coupled architectures and smaller sized work packages (see [Target Solution Delivery Model](strategy-target-solution-delivery-model.html)).
 
 ### Build vs Buy : Oversimplified Dichotomy<!-- omit in toc -->
 
@@ -276,10 +276,10 @@ In large and complex solutions, these questions shouldn't be asked at the soluti
 
 #### Additional considerations<!-- omit in toc -->
 
-- Does the organization currently have the skill sets within the organisation to architect, design, build and operate this solution?
-- Does the organization currently have the capacity within the organisation to architect, design, build and operate this solution?
+- Does the organization currently have the skill sets within the organization to architect, design, build and operate this solution?
+- Does the organization currently have the capacity within the organization to architect, design, build and operate this solution?
 
-These last questions however do not necessarily mean that the technical questions of a solutions architecture should not be asked subsequently.
+These last questions, however, do not necessarily mean that the technical questions of a solutions architecture should not be asked subsequently.
 Any solution designed, developed and delivered by a third party should still be abiding by the same principles solutions built within ESDC have to so that once it is operationalized, the organization maintains a high amount of control and flexibility in maintaining and enhancing the solution while limiting its lock-in situations.
 
 As such, if the organization is not in a position to design, build and operate the solution itself, the third party putting the solution together for the benefit of ESDC should have clear directives to align with our own architectural principles.
@@ -287,7 +287,7 @@ As such, if the organization is not in a position to design, build and operate t
 #### Risk Managing the Obtention of Software<!-- omit in toc -->
 
 The Strategy looks at risk managing the obtention of software over following dogmatic rules to purchase or build software (e.g. "SaaS first" does not mean SaaS always, "buy what we can" does not mean buying because it's available).
-Instead, the Strategy will use such policy instruments as intended by the policy author and its authority to inform decisions for long term sustainability and user needs.
+Instead, the Strategy will use such policy instruments as intended by the policy author and its authority to inform decisions for long-term sustainability and user needs.
 
 The risk management for obtaining software is based on the following formula:
 
@@ -297,7 +297,7 @@ The risk management for obtaining software is based on the following formula:
 >
 >_Risk_ is the level of injury to ESDC (High, Medium, Low).
 >
->_Probability of change_ is the probability that a change will happen in the future (e.g. new feature need, version upgrade, customization, integration, vendor product discontinuity, vendor product roadmap change)
+>_Probability of change_ is the probability that a change will happen in the future (e.g., new feature need, version upgrade, customization, integration, vendor product discontinuity, vendor product roadmap change)
 >
 >_Impact_ is the impact on ESDC that the change will have, informed by the following:
 >
@@ -330,7 +330,7 @@ The impact of such changes has a ripple effect on the whole organization and aff
 
 ### Conclusion<!-- omit in toc -->
 
-With the exception of well established software for generic or peripheral needs of the department, there is little distinction between build vs buy.
+With the exception of well-established software for generic or peripheral needs of the department, there is little distinction between build vs buy.
 The question becomes whether the organization could and should build it itself, or have someone else build it.
 Even traditional services delivered through SaaS, such as email, require considerable configuration (build) for their implementation[^23] and continuous maintenance.
 This strategy is intended to return control of implementation of services back to the department thereby permitting increased alignment with the Government of Canada direction, and increase the quality, and rate by which, digital services are delivered to Canadians.
@@ -430,7 +430,7 @@ An IT Solution is the combination of 1 or many IT Products, which are in turn co
 
 See the following standard IITB definition.
 
-The below model explains, in a visual manner, these relationships.
+The model below explains, in a visual manner, these relationships.
 
 ![An UML diagram representing the hierarchical relation of an IT Solution and its components.](assets/images/strategy-build-buy-uml-it-solution.png){:height="100%" width="100%"}
 
@@ -452,7 +452,7 @@ Therefore should an IT Product depend on an Operating System to run in productio
 
 ### Build<!-- omit in toc -->
 
-A process whereby the department remains the authority on high level architectural decisions of the IT solution, or where the department maintains the legal and technical ability to alter the source of the application as needed.
+A process whereby the department remains the authority on high-level architectural decisions of the IT solution, or where the department maintains the legal and technical ability to alter the source of the application as needed.
 
 ### Buy<!-- omit in toc -->
 
@@ -464,7 +464,7 @@ A complex IT Solution is when not all requirements are known or key elements may
 
 ### Open Source Software<!-- omit in toc -->
 
-Software with its source code made available with a license in which the copyright holder provides the rights to study, change, and distribute the software to anyone and for any purpose.
+Software with its source code made available with a licence in which the copyright holder provides the rights to study, change, and distribute the software to anyone and for any purpose.
 The name used by the Open Source Initiative (OSI).
 Open source software is defined in the Open Source Definition by ten criteria.
 
@@ -495,15 +495,15 @@ Commercial Off-The-Self (COTS) software where the source code for said product i
 [^4]: Pia Andrews writes in [What improving IT procurement in the public sector looks like: navigating, balancing, and initiating procurement conversations to avoid sprinting off cliffs](https://www.themandarin.com.au/118548-improving-it-procurement-public-sector-navigating-balancing-initiating-procurement-conversations/), identifies a challenge for government in procurement arrangements as being “the lack of subject matter expertise at key decision points in sourcing. [...] You must have actual technologists involved in the process, and the requirements must be informed by great service design and testing, otherwise you are just taking a gamble.”
 [^5]: The Professional Institute of the Public Service of Canada observes in their article, [Symptoms of outsourcing IT work – knowledge loss and the transfer of skills](https://pipsc.ca/news-issues/outsourcing/part-one-real-cost-outsourcing/symptoms#_ftn2), that “As the government outsources more and more IT functions, they become more reliant on private contractors to run their own systems. Over time, institutional knowledge and expertise become concentrated within private contractors instead of within the government. The institutional knowledge that accumulates with private contractors makes it difficult to change service providers when contracts end and even more difficult to bring the services back in-house.”
 [^6]: Pia Andrews writes in [What improving IT procurement in the public sector looks like: navigating, balancing, and initiating procurement conversations to avoid sprinting off cliffs](https://www.themandarin.com.au/118548-improving-it-procurement-public-sector-navigating-balancing-initiating-procurement-conversations/), writes “consider whether what you are doing is commodity or domain-specific and whether it is well defined or relatively ambiguous [...] you don't want to jump straight to pure COTS for domain-specific functions or where there is high ambiguity [...] also want to consider whether what you are doing should be considered as digital public infrastructure”
-[^7]: A survey conducted by the Standish Group, the CHAOS Report, observers that projects costing more than $10 million are significantly less likely to succeed, at an 8% success rate for projects over 10 million dollars. Conversely, projects under $1 million have a success rate of 70%.
+[^7]: A survey conducted by the Standish Group, the CHAOS Report, observes that projects costing more than $10 million are significantly less likely to succeed, at an 8% success rate for projects over 10 million dollars. Conversely, projects under $1 million have a success rate of 70%.
 [^8]: For more on agile procurement, suggested reading is the adapted for Canada version of the 18F’s [De-risking custom technology projects](https://github.com/18F/technology-budgeting/blob/master/handbook.md)
 [^9]: For further discussions please reference The Reverse Conway Maneuver as discussed in Team Topologies and Accelerate, which writes, “Our research lends support to what is sometimes called the “inverse Conway maneuver,” which states that organizations should evolve their team and organizational structure to achieve the desired architecture.”
 [^10]: For further discussion on how this aligns with GC Direction, please reference Annex 3: Digital Standards, Iterative and improve frequently (TBC).
 [^11]: For further discussion, please refer to [Minimize the size, cost, and scale section](#5-minimize-the-size-cost-and-scale-of-work-packages) below.
-[^12]: In the DevOps Handbook they refer to Randy Shoup, former Engineering Director for Google App Engine who observed that “organizations with these types of service-oriented architectures, such as Google and Amazon, have incredible flexibility and scalability”.
+[^12]: In the DevOps Handbook they refer to Randy Shoup, former Engineering Director for Google App Engine who observed that “organizations with these types of service-oriented architectures, such as Google and Amazon, have incredible flexibility and scaleability”.
 [^13]: The CBC reported that “Officials briefing Trudeau after his party's re-election noted "mission-critical" systems and applications are "rusting out and at risk of failure," requiring immediate attention from his government. Some systems are pushing 60 years old and built on "outdated technology" that can no longer be maintained.”
 [^14]: In the Prime Ministers, [Minister of Digital Government Mandate Letter](https://pm.gc.ca/en/mandate-letters/2019/12/13/minister-digital-government-mandate-letter) “the use and development of open source products and open data” is encouraged, and it is written that, “I also expect us to continue to raise the bar on openness, effectiveness and transparency in government”.
-[^15]: In Amazon Web Services (AWS) [Well-Architected Framework: General Design Principles](https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf), they write that, “In a traditional environment, architectural decisions are often implemented as static, one time events, with few major versions of a system during its lifetime. As a business and its context continue to change, these initial decisions might hinder the system's ability to deliver changing business requirements”
+[^15]: In Amazon Web Services (AWS) [Well-Architected Framework: General Design Principles](https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf), they write that, “In a traditional environment, architectural decisions are often implemented as static, one-time events, with few major versions of a system during its lifetime. As a business and its context continue to change, these initial decisions might hinder the system's ability to deliver changing business requirements”
 [^16]: In [Versioning in SOA](https://docs.microsoft.com/en-us/previous-versions/bb491124(v=msdn.10)?redirectedfrom=MSDN) by [Boris Lublinsky](https://www.linkedin.com/in/boris-lublinsky-b6a4a) he writes, “In the era of monolithic applications, changes were dealt with on an application-by-application basis. Implementation of change, whether for a new business or infrastructure—for example, the introduction of a security policy or requirement, or moving an application to a new software platform—was done for an application as a whole, consuming significant amounts of time and money to complete. On the other hand, because each application was developed by a single team and independent, this approach allowed changes to be contained. As a new version of an application was introduced, the previous version came out of use and could be disposed.”
 [^17]: Reference the aforementioned CHAOS Report conducted by the Standish Group.
 [^18]: [18F](https://18f.gov/) in [De-risking custom technology projects](https://github.com/18F/technology-budgeting/blob/master/handbook.md#hire-tech-talent-in-house), “The greater the amount of money spent on a software project, the greater the odds of failure. As a general rule, plan to spend no more than $10 million on an entire project.10 (There are rare exceptions for extraordinarily complex systems like unemployment insurance, Medicaid Eligibility & Enrollment, and Medicaid Management Information Systems.)”
@@ -511,7 +511,7 @@ Commercial Off-The-Self (COTS) software where the source code for said product i
 [^20]: The DORA 2018 report writes that, “Analysis shows that low-performing teams are … 3.2 times more likely to use outsourcing of any of the following functions: application development, IT operations work, or testing and QA. This suggests that outsourcing by function is rarely adopted by elite performers”
 [^21]: Accelerate observes that, “low performers were more likely to say that the software they were building—or the set of services they had to interact with—was custom software developed by another company (e.g., an outsourcing partner). Low performers were also more likely to be working on mainframe systems”, and concludes that “The fact that low performers were more likely to be using—or integrating against—custom software developed by another company underlines the importance of bringing this capability in-house.”
 [^22]: In Accelerate they recommend the four following metrics: delivery lead time, deployment frequency, time to restore service, and change fail rate. For further discussion refer to the [DORA reports](https://cloud.google.com/devops/).
-[^23]: Pia Andrews, in [What improving IT procurement in the public sector looks like: navigating, balancing, and initiating procurement conversations to avoid sprinting off cliffs](https://www.themandarin.com.au/118548-improving-it-procurement-public-sector-navigating-balancing-initiating-procurement-conversations/), writes that many COTS implementations “require significant customisation, configuration, integration, or modifications to actually implement a COTS product into production.”
+[^23]: Pia Andrews, in [What improving IT procurement in the public sector looks like: navigating, balancing, and initiating procurement conversations to avoid sprinting off cliffs](https://www.themandarin.com.au/118548-improving-it-procurement-public-sector-navigating-balancing-initiating-procurement-conversations/), writes that many COTS implementations “require significant customization, configuration, integration, or modifications to actually implement a COTS product into production.”
 [^24]: Pia Andrews, in [What improving IT procurement in the public sector looks like: navigating, balancing, and initiating procurement conversations to avoid sprinting off cliffs](https://www.themandarin.com.au/118548-improving-it-procurement-public-sector-navigating-balancing-initiating-procurement-conversations/), suggests doing “service or system design prior to choosing a solution to buy or build. If not, your choice may not be fit for purpose. Testing is critical before you commit, which is why it is worth spending small on discovery and alpha stages before doing a full business case.”
 [^25]: For further discussion regarding how to split a system into subsystems, refer to [Team Topologies book](https://teamtopologies.com/) and their discussion on ‘fracture planes’.
 [^26]: The responses to the question were collected in the [sessional paper 8555-421-2460](https://large-government-of-canada-it-projects.github.io/pdf/8555-421-2460.pdf). Sessional papers are public information; they can be requested by emailing the Library of Parliament
