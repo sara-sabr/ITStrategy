@@ -1,19 +1,16 @@
-{%- assign table = site.data.tables.build-vs-buy[0] -%}
-{%- assign colNumber = table.dimensions.columns | minus: 1 -%}
-{%- assign rowNumber = table.dimensions.rows | minus: 1-%}
-{%- assign hrowNumber = table.dimensions.hrows | minus: 1-%}
-{%- assign rowStart = table.dimensions.hrowNumber -%}
 
-<p>Number of columns: {{hrowNumber}}</p>
+{%- assign table = site.data.tables.build-vs-buy[0] -%}
+{%- assign headerRows = table.rows | where: "headers", true -%}
+{%- assign dataRows = table.rows | where: "headers", false -%}
 
 <table class="display">
-  {% if table.dimensions.hrows > 0 %}
+  {% if headerRows %}
   <thead>
-    {%for i in (0..hrowNumber) %}
+    {%for row in headerRows %}
     <tr>
-      {% for j in (0..colNumber) %}
+      {% for col in row.cols %}
       <th>
-        {{ table.rows[i].cols[j].data.[page.lang]}}
+         {{ col.data.[page.lang]}}
       </th>
       {% endfor %}
     </tr>
@@ -21,10 +18,31 @@
   </thead>
   {% endif %}
   <tbody>
-    {% for row in table.rows | where: "headers", false %}
-    <tr aria-rowspan="{{row.rowspan}}">
+    {% for row in dataRows %}
+    <tr>
       {% for col in row.cols %}
-      <td>{{col.data[page.lang]}}</td>
+      {%- if col.rowspan != null -%}
+      {%- assign rowspanValue = {{col.rowspan}} -%}
+      {%- else-%}
+      {%- assign rowspanValue = 1 -%}
+      {%- endif-%}
+      {%- if col.colspan != null -%}
+      {%- assign colspanValue = {{col.colspan}} -%}
+      {%- else-%}
+      {%- assign colspanValue = 1 -%}
+      {%- endif-%}
+      <td rowspan="{{rowspanValue}}" colspan="{{colspanValue}}">
+        {% if col.data.list == true %}
+        {%- assign items = col.data.items -%}
+        <ul>
+          {% for entry in items %}
+          <li class="table-list">{{entry.item[page.lang]}}</li>
+          {%- endfor %}
+        </ul>
+        {% else %}
+        {{ col.data.[page.lang]}}
+        {% endif %}
+      </td>
       {% endfor %}
     </tr>
     {% endfor %}
