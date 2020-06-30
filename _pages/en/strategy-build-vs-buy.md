@@ -123,9 +123,9 @@ Stakeholders are expected to still comply with existing policy instruments inclu
 1. IT Solutions are broken down into manageable parts (IT Products)
 2. Each IT Product must be assessed on its own as well as a part of overall the IT Solution.
 3. IT Products may be bought, built, or adopted (e.g. Open Source Software)
-4. IT Solutions are assessed against the IT Solutions risk assessment framework (see [Risk Managing the Obtention of Software](#risk-managing-the-obtention-of-software)).
+4. IT Solutions are assessed against the IT Solutions Risk Assessment Framework (see [Risk Managing the Obtention of Software](#risk-managing-the-obtention-of-software)).
   As such:
-   1. Complex and core to mandate IT Solutions are architected internally to ESDC.
+   1. Complex and core to mandate IT Solutions are architected and delivered internally by ESDC employees but may leverage third party IT Products as components.
    2. Non-complex and not core to mandate IT Solutions may be architected and delivered by third party integrators and/or vendors.
 5. IT Solutions must provide their overall and individual IT products metrics internally to ESDC. Metrics are comprised of the following:
    - Accessibility test results
