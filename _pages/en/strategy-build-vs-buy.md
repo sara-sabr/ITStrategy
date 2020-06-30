@@ -351,21 +351,21 @@ The following traceability matrix is used to show alignment with various strateg
 <tr>
     <td><b>Governance, Compliance, and Reporting</b></td>
     <td>
-<a href="https://sara-sabr.github.io/ITStrategy/strategy-summary.html">Strategy Map</a>/Meaningful work<br>
-<a href="https://sara-sabr.github.io/ITStrategy/strategy-summary.html">Strategy Map</a>/Lean Change Approval<br>
-<a href="https://sara-sabr.github.io/ITStrategy/strategy-summary.html">Strategy Map</a>/Continuous Feedback Loops<br>
-<a href="https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html">GC Digital Standards</a>/design with users<br>
-<a href="https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html">GC Digital Standards</a>/iterate and improve frequently<br>
-<a href="https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards">GC Architecture Standards</a>/Business Architecture<br>
-<a href="https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards">GC Architecture Standards</a>/Security Architecture & Privacy<br>
-<a href="https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html">GC DOSP</a>/Chapter 1 user-centred<br>
-<a href="https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html">GC DOSP</a>/Chapter 6 digital governance<br>
-<a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603">TB Policy on Service and Digital</a>/4.2 client-centric service<br>
-<a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601">TB Directive on Service and Digital</a>/Strategic IT Management<br>
-<a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental IMIT Plan/19-20 Plans/IITB Moving Forward v2.docx">IITB Way Forward</a>/1. Adjust IITB leadership<br>
-<a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental IMIT Plan/19-20 Plans/IITB Moving Forward v2.docx">IITB Way Forward</a>/6a. Strengthen IM/IT Strategy<br>
-<a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental IMIT Plan/19-20 Plans/IITB Moving Forward v2.docx">IITB Way Forward</a>/6f. formalize requirements mgt framework<br>
-<a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental IMIT Plan/19-20 Plans/ESDC IT Plan 2019-22 - FINAL.pdf">IT Plan</a>/Section II/Foundational
+<a href="https://sara-sabr.github.io/ITStrategy/strategy-summary.html" target="_blank">Strategy Map</a>/Meaningful work<br>
+<a href="https://sara-sabr.github.io/ITStrategy/strategy-summary.html" target="_blank">Strategy Map</a>/Lean Change Approval<br>
+<a href="https://sara-sabr.github.io/ITStrategy/strategy-summary.html" target="_blank">Strategy Map</a>/Continuous Feedback Loops<br>
+<a href="https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html" target="_blank">GC Digital Standards</a>/design with users<br>
+<a href="https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html" target="_blank">GC Digital Standards</a>/iterate and improve frequently<br>
+<a href="https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards" target="_blank">GC Architecture Standards</a>/Business Architecture<br>
+<a href="https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards" target="_blank">GC Architecture Standards</a>/Security Architecture & Privacy<br>
+<a href="https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html" target="_blank">GC DOSP</a>/Chapter 1 user-centred<br>
+<a href="https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html" target="_blank">GC DOSP</a>/Chapter 6 digital governance<br>
+<a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603" target="_blank">TB Policy on Service and Digital</a>/4.2 client-centric service<br>
+<a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601" target="_blank">TB Directive on Service and Digital</a>/Strategic IT Management<br>
+<a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental IMIT Plan/19-20 Plans/IITB Moving Forward v2.docx" target="_blank">IITB Way Forward</a>/1. Adjust IITB leadership<br>
+<a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental IMIT Plan/19-20 Plans/IITB Moving Forward v2.docx" target="_blank">IITB Way Forward</a>/6a. Strengthen IM/IT Strategy<br>
+<a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental IMIT Plan/19-20 Plans/IITB Moving Forward v2.docx" target="_blank">IITB Way Forward</a>/6f. formalize requirements mgt framework<br>
+<a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental IMIT Plan/19-20 Plans/ESDC IT Plan 2019-22 - FINAL.pdf" target="_blank">IT Plan</a>/Section II/Foundational
     </td>
 </tr>
 <tr>
