@@ -41,7 +41,8 @@ th {
 <!-- markdownlint-enable MD036 -->
 
 |Version|Date of Change|Change Description|
-|0.1|2020-06-22|First Draft, moved from working document to web page|
+|0.01|2020-06-22|First Draft, moved from working document to web page|
+|0.02|2020-06-30|Created list of guiding policy rules, Removed duplicate content, Created separate documents for context, Cleaned up definitions|
 
 <!-- markdownlint-disable MD001 -->
 ##### Table of Content<!-- omit in toc -->
