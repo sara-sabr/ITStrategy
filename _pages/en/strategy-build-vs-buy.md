@@ -5,8 +5,8 @@ ref: build-vs-buy
 lang: en
 status: posted
 sections: Strategies
-version: 0.01
-date: "2020-06-22"
+version: 0.02
+date: "2020-06-30"
 permalink: /strategy-build-vs-buy.html
 ---
 <!-- markdownlint-disable MD033 -->
@@ -440,6 +440,16 @@ Description of the model:
 - An IT Solution is comprised of 1 or many IT component(s)
 - An IT component is comprised of 1 or many Software which can be either a service subscription, an Open Source Software, a 3rd party COTS, or a custom build one
 - A Software is deployed on an infrastructure that can either be on premise (SSC Data Centres), on a public cloud provider's infrastructure (as a IaaS, PaaS, or SaaS model), or as a hybrid version that combines both on premise and public cloud provider.
+
+### IT Product<!-- omit in toc -->
+
+The combination of software, infrastructure, and their configuration.
+An IT Product is akin to an “application” as defined by the [Application Portfolio Management (APM)](https://www.gcpedia.gc.ca/wiki/OCIO_Application_Portfolio_Management) program.
+An IT Product may have one or many software (e.g. COTS, Open Source libraries, Open Source Software, Custom build software).
+Each of those software are deployed in one or many infrastructure (on premise, on the public cloud, or a combination of the two making it a hybrid deployment).
+
+For the scope of this Strategy, Operating Systems are NOT defined as IT products.
+Therefore should an IT Product depend on an Operating System to run in production, it is compliance with this Guiding Policy.
 
 ### Build<!-- omit in toc -->
 
