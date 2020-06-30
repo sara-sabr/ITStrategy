@@ -13,8 +13,6 @@ permalink: /strategy-build-vs-buy-guidance.html
 <!-- cSpell:ignoreRegExp /\<[^\>]+\>/ -->
 ## {{ page.title }} <!-- omit in toc -->
 
-Written by Jayson McIntosh and Rachel Muston - Reviews by IT Strategy team
-
 <!-- markdownlint-disable MD001 -->
 ##### Table of Content <!-- omit in toc -->
 <!-- markdownlint-enable MD001 -->
@@ -24,3 +22,5 @@ Written by Jayson McIntosh and Rachel Muston - Reviews by IT Strategy team
 ## Context
 
 This document is complementary content for the [Build vs Buy Strategy](strategy-build-vs-buy.html).
+
+[UPCOMING]
