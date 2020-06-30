@@ -59,7 +59,6 @@ th {
 - [Measuring the Strategy's success](#measuring-the-strategys-success)
 - [Appendix A - Business Case (Diagnostic)](#appendix-a---business-case-diagnostic)
 - [Appendix B - Traceability Matrix](#appendix-b---traceability-matrix)
-- [Appendix C - Context](#appendix-c---context)
 - [Appendix D - Definitions](#appendix-d---definitions)
 - [Appendix E - References](#appendix-e---references)
 
@@ -425,8 +424,6 @@ IT Plan/Section II/Foundational
 </tr>
 </table>
 
-## Appendix C - Context
-
 ## Appendix D - Definitions
 
 ### IT Solution<!-- omit in toc -->
@@ -447,11 +444,11 @@ Description of the model:
 
 ### Build<!-- omit in toc -->
 
-A process whereby the department remains the authority on high level architectural decisions of the solution, or where the department maintains the legal and technical ability to alter the source of the application as needed.
+A process whereby the department remains the authority on high level architectural decisions of the IT solution, or where the department maintains the legal and technical ability to alter the source of the application as needed.
 
 ### Buy<!-- omit in toc -->
 
-Application architecture is designed outside of the Government of Canada, and a completed product is purchased from a vendor, or support is purchased for a solution developed externally to the department or Government of Canada.
+Application architecture is conceived outside of the Government of Canada, and a completed IT Solution is purchased from a vendor, or support is purchased for a solution developed externally to the department or Government of Canada.
 
 ### Complex IT Solutions<!-- omit in toc -->
 
@@ -476,11 +473,11 @@ Examples of such organizations include the Internet Engineering Task Force (IETF
 
 ### Closed COTS<!-- omit in toc -->
 
-Commercial Of The Self (COTS) software where the source code for said product is [not open source](#open-source-software).
+Commercial Off-The-Self (COTS) software where the source code for said product is [not open source](#open-source-software).
 
 ### Open COTS<!-- omit in toc -->
 
-Commercial Of The Self (COTS) software where the source code for said product is [open source](#open-source-software).
+Commercial Off-The-Self (COTS) software where the source code for said product is [open source](#open-source-software).
 
 ## Appendix E - References
 
