@@ -3,10 +3,12 @@
 
   Inspired by https://idratherbewriting.com/blog/single-sourcing-data-into-table-templates-jekyll/
 -->
-{%- assign id = include.id -%}
+{%- assign element-id = include.element-id -%}
 {%- assign table-id = include.table-id -%}
-{%- assign tableFileParam = {{include.file}}-%}
-{%- assign table = site.data.tables.[tableFileParam][0] -%}
+{%- assign tables-file = {{include.file}}-%}
+{%- assign table-data = site.data.tables.[tables-file] -%}
+{%- assign table-data-filtered = table-data | where: "id", {{table-id}} -%} 
+{%- assign table = table-data-filtered[0] %}
 {%- assign headerRows = table.rows | where: "headers", true -%}
 {%- assign dataRows = table.rows | where: "headers", false -%}
 
@@ -16,7 +18,7 @@
     {%for row in headerRows %}
     <tr>
       {% for col in row.cols %}
-      <th>
+      <th scope="col">
          {{ col.data.[page.lang]}}
       </th>
       {% endfor %}
