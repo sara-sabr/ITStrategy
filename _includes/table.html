@@ -12,7 +12,7 @@
 {%- assign headerRows = table.rows | where: "headers", true -%}
 {%- assign dataRows = table.rows | where: "headers", false -%}
 
-<table class="display" id="{{id}}">
+<table class="display" id="{{element-id}}">
   {% if headerRows %}
   <thead>
     {%for row in headerRows %}
