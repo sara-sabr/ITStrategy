@@ -1,5 +1,5 @@
 - table:
-  id: 001
+  id: t001
   name:
     fr: Ensemble cohérent de mesures
     en: Coherent set of actions
@@ -139,7 +139,7 @@
             en: ARC
           position: 3
 - table:
-  id: 002
+  id: t002
   name:
-    fr:
-    en:
+    fr: Test
+    en: Test
