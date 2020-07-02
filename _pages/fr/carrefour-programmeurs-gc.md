@@ -14,7 +14,7 @@ Les entrepreneurs n'avaient pas besoin d'une autorisation de sécurité car tous
 L'un des principaux objectifs du Carrefour des programmeurs du GC était de distribuer l'argent des contrats du GC à ceux qui n'en obtiendraient pas normalement (p. ex., les étudiants, les petites entreprises, comme celles qui ne se trouvent pas dans la région de la Capitale-Nationale).
 L'initiative a été inspirée par le BC Developers Exchange, qui a évolué pour devenir le [Digital Marketplace](https://digital.gov.bc.ca/marketplace) offrant des contrats jusqu'à 70 000 dollars (et même 2 millions de dollars pour fournir une équipe agile).
 
-Pour plus d'informations, voir le [dépôt GitHub](https://github.com/canada-ca/devex) et cet [article du Canadian Government Executive (anglais)](https://canadiangovernmentexecutive.ca/dig/24_03/28/).
+Pour plus d'informations, voir le [dépôt GitHub (anglais)](https://github.com/canada-ca/devex) et cet [article du Canadian Government Executive (anglais)](https://canadiangovernmentexecutive.ca/dig/24_03/28/).
 
 L'équipe Stratégie TI de EDSC étudie actuellement la possibilité de relancer CarrefourProgGC (ou quelque chose de similaire) dans le cadre d'une stratégie plus large d'acquisition en TI.
 Jusqu'à présent, notre travail a porté sur les points suivants :
@@ -24,7 +24,7 @@ L'une des problématiques de l'itération 1.0 de CarrefourProgGC était que les 
 Pour l'itération 2.0, nous voudrions avoir un processus simplifié, avec plus d'automatisation et moins de temps passé entre la description du besoin et la réalisation du travail.
 À cette fin, nous avons contacté des experts en matière d'acquisition de EDSC, de SPAC et du Service numérique canadien.
 Nous avons produit une [présentation (anglais)](https://docs.google.com/presentation/d/1guX117_Cl6vGrfGb8E8En5gLLzjJDLFBxnJR1whDb-w/edit?usp=sharing) pour fournir des informations de base en vue de ces discussions.
-Elles nous aident à formuler notre [énoncé du problème](https://docs.google.com/document/d/1dpsXvXY_iHsgJAAPQzrX8gOhm5ttC_JCCGZKvWRWQZk/edit) pour comprendre si CarrefourProgGC est une bonne solution pour contribuer à l'innovation en matière d'acquisition dans le domaine des TIs.
+Elles nous aident à formuler notre [énoncé du problème (anglais)](https://docs.google.com/document/d/1dpsXvXY_iHsgJAAPQzrX8gOhm5ttC_JCCGZKvWRWQZk/edit) pour comprendre si CarrefourProgGC est une bonne solution pour contribuer à l'innovation en matière d'acquisition dans le domaine des TIs.
 
 - **Documenter les cas d'utilisation**  
 Vous avez besoin de faire des acquisitions rapides? Avez-vous des ensembles de travaux que vous pourriez publier sous forme de contrats de 10 000 $ ou moins? Nous rencontrons des personnes pour leur poser ces questions.
@@ -44,7 +44,7 @@ Travailler avec les équipes ministérielles responsables des achats à créer u
 Une fois qu'il sera opérationnel, un propriétaire de produit sera nécessaire, ainsi que des personnes pour fournir un soutien technique continu.
 Un soutien sera également nécessaire pour aider les employés du GC à rédiger et à gérer leurs offres de contrat, ainsi qu'un soutien aux fournisseurs qui pourraient avoir besoin d'aide pour répondre aux offres.
 Le BC Developers Exchange est un excellent exemple pour évaluer le nombre de personnes nécessaires pour faire fonctionner une plateforme de micro-acquisitions.
-Nous sommes en train de documenter les [besoins opérationnels](https://docs.google.com/document/d/11CQBSzSRiVCzzoM6_uYrVu8p-CgWEzKkgaq9FLW1Xm4/edit?usp=sharing) en vue d'un éventuel redémarrage du Carrefour des programmeurs du GC.
+Nous sommes en train de documenter les [besoins opérationnels (anglais)](https://docs.google.com/document/d/11CQBSzSRiVCzzoM6_uYrVu8p-CgWEzKkgaq9FLW1Xm4/edit?usp=sharing) en vue d'un éventuel redémarrage du Carrefour des programmeurs du GC.
 
 ### Autres organisations gouvernementales qui ont expérimenté les micro-acquisitions
 
