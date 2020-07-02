@@ -33,17 +33,7 @@
     {% for row in dataRows %}
     <tr>
       {% for col in row.cols %}
-      {%- if col.rowspan != null -%}
-      {%- assign rowspanValue = {{col.rowspan}} -%}
-      {%- else-%}
-      {%- assign rowspanValue = 1 -%}
-      {%- endif-%}
-      {%- if col.colspan != null -%}
-      {%- assign colspanValue = {{col.colspan}} -%}
-      {%- else-%}
-      {%- assign colspanValue = 1 -%}
-      {%- endif-%}
-      <td rowspan="{{rowspanValue}}" colspan="{{colspanValue}}">
+      <td>
         {% if col.data.list == true %}
         {%- assign items = col.data.items -%}
         <ul>
