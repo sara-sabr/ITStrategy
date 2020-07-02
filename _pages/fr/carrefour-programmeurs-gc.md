@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Carrefour des programmeurs du GC
-ref: CarrefourProgGC
+ref: GCDevEx
 lang: fr
 status: posted
 sections: Travail en cours
