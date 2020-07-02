@@ -3,13 +3,9 @@ $(document).ready(function () {
   const parameters = (pageLang) => {
     var pageLang = document.getElementsByTagName("html")[0].getAttribute('lang');
     var parametersValues = {
-      "columnDefs": [{
-        "visible": false
-      }],
-      "order": [
-        [3, 'asc']
-      ],
-      "displayLength": 25,
+      "rowGroup": {
+        "dataSrc": 0
+      },
       "scrollX": true
     }
     if (pageLang == 'fr') {
@@ -47,6 +43,6 @@ $(document).ready(function () {
     return parametersValues;
   };
 
-  $("#bvb-actions").DataTable(parameters())
+  $('table.display').DataTable(parameters());
 
 });
