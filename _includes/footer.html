@@ -24,6 +24,15 @@
   integrity="sha512-T970v+zvIZu3UugrSpRoyYt0K0VknTDg2G0/hH7ZmeNjMAfymSRoY+CajxepI0k6VMFBXxgsBhk4W2r7NFg6ag=="
   crossorigin="anonymous"></script>
 
+{%- if page.datatable-ids.size > 0 -%}
+{%- assign count = 0 -%}
+{%- assign datatable-ids = page.datatable-ids | split: ', ' -%}
+{% for element-id in datatable-ids %}
+ <script src="assets/js/datatable.js" class="datatable" tableID="{{element-id | json}}">
+    console.log(datatable)</script>
+{% endfor %}
+{%- endif -%}
+
 <script>
   $("table").addClass("table");
   $("blockquote").addClass("blockquote");
