@@ -1,9 +1,16 @@
 
-{%- assign table = site.data.tables.build-vs-buy[0] -%}
+<!--
+
+  Inspired by https://idratherbewriting.com/blog/single-sourcing-data-into-table-templates-jekyll/
+-->
+{%- assign id = include.id -%}
+{%- assign table-id = include.table-id -%}
+{%- assign tableFileParam = {{include.file}}-%}
+{%- assign table = site.data.tables.[tableFileParam][0] -%}
 {%- assign headerRows = table.rows | where: "headers", true -%}
 {%- assign dataRows = table.rows | where: "headers", false -%}
 
-<table class="display">
+<table class="display" id="{{id}}">
   {% if headerRows %}
   <thead>
     {%for row in headerRows %}
