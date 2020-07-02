@@ -34,7 +34,7 @@ If you are interested in sharing your thoughts (even if you wouldn't use it and 
 For some examples of [GCDevEx use cases](https://github.com/canada-ca/devex/issues?q=is%3Aissue+is%3Aopen+%2410K+project+idea), check out the ones Mike Gifford documented back in 2018 and recently updated them to identify those that are still needed.
 
 - **Thinking about the technical aspects**  
-Since GCDevEx was last online, the BCDevExchange has had many changes (the GCDevEx repo is over 2000 commits behind the BC Developers Exchange repo.
+Since GCDevEx was last online, the BCDevExchange has had many changes (the GCDevEx repo is over 2000 commits behind the BC Developers Exchange repo).
 Questions we are asking:
 Does the GCDevEx site meet our current requirements?
 Given that the BC Developers Exchange repo is no longer being maintained should GCDevEx still be based on this code?
@@ -50,14 +50,14 @@ Once it is up and running, a product owner will be required, as well as people t
 
 ### Other government organizations who have experimented with micro-procurement
 
-- The BC Government runs the  [Digital Marketplace](https://digital.gov.bc.ca/marketplace), previously led by the team from the  [BC Developers Exchange](https://bcdevexchange.org/)
+- The BC Government runs the  [Digital Marketplace](https://digital.gov.bc.ca/marketplace), previously led by the team from the  [BC Developers Exchange](https://bcdevexchange.org)
 - The US government via 18F launched the Micro-Purchase platform in 2015.
 For more info: description of their [micro-purchasing experiment](https://18f.gsa.gov/2015/10/13/open-source-micropurchasing/), and this [blog post](https://18f.gsa.gov/2016/01/15/micro-purchase-auctions-round-2-what-we-learned/) of their lessons learned)
 
 ### Now is a good time to revisit micro-procurement and a GC Developers Exchange type solution in the GC
 
-- The [Internal Blueprint 2020 Red Tape Reduction Report](https://internal-red-tape-reduction-report.github.io/) was recently posted online which highlights low dollar value procurement as an area of opportunity for red-tape reduction
-- [GC policy instruments](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602) direct GC developers to use open standards and solutions by default.
+- The [Internal Blueprint 2020 Red Tape Reduction Report](https://internal-red-tape-reduction-report.github.io) was recently posted online which highlights low dollar value procurement as an area of opportunity for red-tape reduction
+- [GC policy instruments](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602#claA.2.3.8) direct GC developers to use open standards and solutions by default.
 - Many folks are currently unemployed or underemployed (including students) due to COVID
 - Virtual work allows maintaining of physical distancing and positions folks to work asynchronously (e.g., around child care)
 - The work ties into the IT Strategy team's mandate to find and solve problems!
