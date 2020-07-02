@@ -11,7 +11,7 @@ Le Carrefour des programmeurs du GC (CarrefourProgGC) a été initialement lanc�
 Il s'agissait d'un site web destiné à faciliter les micro-acquisitions au sein du GC.
 Tous les contrats portaient sur du code source ouvert et avaient une valeur de 10 000 dollars ou moins.
 Les entrepreneurs n'avaient pas besoin d'une autorisation de sécurité car tous les travaux étaient non classifiés et virtuels.
-L'un des principaux objectifs du Carrefour des programmeurs du GC était de distribuer l'argent des contrats du GC à ceux qui n'en n'obtiendraient pas normalement (p. ex., les étudiants, les petites entreprises, comme celles qui ne se trouvent pas dans la région de la Capitale-Nationale).
+L'un des principaux objectifs du Carrefour des programmeurs du GC était de distribuer l'argent des contrats du GC à ceux qui n'en obtiendraient pas normalement (p. ex., les étudiants, les petites entreprises, comme celles qui ne se trouvent pas dans la région de la Capitale-Nationale).
 L'initiative a été inspirée par le BC Developers Exchange, qui a évolué pour devenir le [Digital Marketplace](https://digital.gov.bc.ca/marketplace) offrant des contrats jusqu'à 70 000 dollars (et même 2 millions de dollars pour fournir une équipe agile).
 
 Pour plus d'informations, voir le [dépôt GitHub](https://github.com/canada-ca/devex) et cet [article du Canadian Government Executive (anglais)](https://canadiangovernmentexecutive.ca/dig/24_03/28/).
@@ -57,7 +57,7 @@ Pour plus d'informations : description de leur [expérimentation de micro-achat 
 - Le [rapport interne sur la réduction des formalités administratives d'Objectif 2020 (anglais)](https://internal-red-tape-reduction-report.github.io) a récemment été publié et souligne que les acquisitions de faible valeur constituent un domaine dans lequel il est possible de réduire les formalités administratives
 - [Les politiques du GC](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32602#claA.2.3.8) demandent aux développeurs du GC d'utiliser par défaut des normes et des solutions ouvertes
 - De nombreuses personnes sont actuellement au chômage ou sous-employées (y compris des étudiants) en raison de COVID
-- Le travail virtuel permet de maintenir une distance physique et de positionner les gens pour qu'ils travaillent de manière asynchrone (p.ex., en s'occupant d'enfants)
+- Le travail virtuel permet de maintenir une distance physique et de travailler de manière asynchrone (p. ex., tout en s'occupant d'enfants à la maison)
 - Ce travail est lié au mandat de l'équipe de Stratégie TI de trouver et résoudre des problèmes!
 - CarrefourProgGC pourrait aider à l'adoption de logiciels libres
 - CarrefourProgGC pourrait être particulièrement utile à ceux qui travaillent de manière agile ou itérative
