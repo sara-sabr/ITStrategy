@@ -48,13 +48,13 @@ Once it is up and running, a product owner will be required, as well as people t
  The BC Developers Exchange is a great example when considering the number of people required to make a micro-procurement platform run.
  We are currently documenting the [operational needs](https://docs.google.com/document/d/11CQBSzSRiVCzzoM6_uYrVu8p-CgWEzKkgaq9FLW1Xm4/edit?usp=sharing) of a possible reboot of the GC Developers Exchange.
 
-### Other government organizations who have experimented with micro-procurement
+#### Other government organizations who have experimented with micro-procurement
 
 - The BC Government runs the  [Digital Marketplace](https://digital.gov.bc.ca/marketplace), previously led by the team from the  [BC Developers Exchange](https://bcdevexchange.org)
 - The US government via 18F launched the Micro-Purchase platform in 2015.
 For more info: description of their [micro-purchasing experiment](https://18f.gsa.gov/2015/10/13/open-source-micropurchasing/), and this [blog post](https://18f.gsa.gov/2016/01/15/micro-purchase-auctions-round-2-what-we-learned/) of their lessons learned)
 
-### Now is a good time to revisit micro-procurement and a GC Developers Exchange type solution in the GC
+#### Now is a good time to revisit micro-procurement and a GC Developers Exchange type solution in the GC
 
 - The [Internal Blueprint 2020 Red Tape Reduction Report](https://internal-red-tape-reduction-report.github.io) was recently posted online which highlights low dollar value procurement as an area of opportunity for red-tape reduction
 - [GC policy instruments](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602#claA.2.3.8) direct GC developers to use open standards and solutions by default.

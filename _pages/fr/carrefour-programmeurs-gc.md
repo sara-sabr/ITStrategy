@@ -49,13 +49,13 @@ Un soutien sera également nécessaire pour aider les employés du GC à rédige
 Le BC Developers Exchange est un excellent exemple pour évaluer le nombre de personnes nécessaires pour faire fonctionner une plateforme de micro-acquisitions.
 Nous sommes en train de documenter les [besoins opérationnels (anglais)](https://docs.google.com/document/d/11CQBSzSRiVCzzoM6_uYrVu8p-CgWEzKkgaq9FLW1Xm4/edit?usp=sharing) en vue d'un éventuel redémarrage du Carrefour des programmeurs du GC.
 
-### Autres organisations gouvernementales qui ont expérimenté les micro-acquisitions
+#### Autres organisations gouvernementales qui ont expérimenté les micro-acquisitions
 
 - Le gouvernement de la Colombie-Britannique gère le [Digital Marketplace](https://digital.gov.bc.ca/marketplace), précédemment dirigé par l'équipe du [BC Developers Exchange](https://bcdevexchange.org)
 - Le gouvernement américain, via 18F, a lancé la plateforme Micro-Purchase en 2015.
 Pour plus d'informations : description de leur [expérimentation de micro-achat (anglais)](https://18f.gsa.gov/2015/10/13/open-source-micropurchasing/), et ce [billet de blogue (anglais)](https://18f.gsa.gov/2016/01/15/micro-purchase-auctions-round-2-what-we-learned/) de leurs leçons apprises)
 
-### C'est le bon moment pour réexaminer les micro-acquisitions et une solution de type Carrefour des programmeurs au GC
+#### C'est le bon moment pour réexaminer les micro-acquisitions et une solution de type Carrefour des programmeurs au GC
 
 - Le [rapport interne sur la réduction des formalités administratives d'Objectif 2020 (anglais)](https://internal-red-tape-reduction-report.github.io) a récemment été publié et souligne que les acquisitions de faible valeur constituent un domaine dans lequel il est possible de réduire les formalités administratives
 - [Les politiques du GC](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32602#claA.2.3.8) demandent aux développeurs du GC d'utiliser par défaut des normes et des solutions ouvertes
