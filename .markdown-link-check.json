@@ -80,6 +80,9 @@
     },
     {
       "pattern": "https://www.tpsgc-pwgsc.gc.ca/app-acq/cral-sarc/lgcl-ctgr-eng.html"
+    },
+    {
+      "pattern": "https://www.surveymonkey.com"
     }
   ]
 }
