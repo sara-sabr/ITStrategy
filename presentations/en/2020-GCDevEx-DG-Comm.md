@@ -3,7 +3,7 @@
 .reveal section img { background:none; border:none; box-shadow:none; }
 </style>
 
-# Modernizing procurement for digital work
+# Micro-procurement for digital work
 
 ESDC IT Strategy team
 
@@ -13,16 +13,15 @@ ESDC IT Strategy team
 
 ## Why look at an alternate way to procure digital work?
 
-- lot of time spent on formalizing small IT contracts
-  - keeping procurement officers busy
+- Lot of time spent on formalizing small IT contracts
 - Getting external help for ad-hoc development work is cumbersome
-  - hindering our ability to deliver high-quality IT solutions
 - Limited choice of external expertise
-  - barriers exist for small suppliers to access GC contract $
-  
----
 
-## De-centralized procurement
+Note:
+
+- keeping procurement officers busy
+- hindering our ability to deliver high-quality IT solutions
+- barriers exist for small suppliers to access GC contract $
 
 ---
 
@@ -33,7 +32,7 @@ ESDC IT Strategy team
 - Gartner
 - TBS Procurement policy team
 - Canadian Digital Service
-  
+
 ---
 
 ## What sort of contracts are we talking about?
@@ -55,19 +54,18 @@ You notice a bug in an open source component of an application.  You post a desc
 
 ---
 
-## What does this look like?
+## What sort of changes are we talking about?
 
-- Back-end procurement process simplified:
+Back-end:
+
+- procurement process simplified:
   - Fewer approvals required
   - Automation
 - Culture change: priority given to procurement and invoicing activities
 
----
+Front end
 
-## If this is a good idea, why hasn't anyone in the GC done this yet?
-
-- takes commitment from two teams: IT and Finance
-- fear of making a mistake/losing delegated authority/getting fired
+- Web tool for posting opportunities
 
 ---
 
@@ -75,16 +73,28 @@ You notice a bug in an open source component of an application.  You post a desc
 
 - US Government
 - BC Government
-- The QC Government
+- QC Government
   
 Note:
 
-- US Government has a Micro-purchase threshold that they just increased to
+- US Government has a Micro-purchase threshold that they just increased to $10K
+- BC Government
+
+---
+
+## If this is a good idea, why aren't we doing this in the GC?
+
+- takes commitment from two teams: IT and Finance
+- fear of making a mistake/losing delegated authority/getting fired
 
 ---
 
 ## The GC Developers Exchange
-  
+
+---
+
+## What about Legal and IP?
+
 ---
 
 ## What's Next?
@@ -131,3 +141,6 @@ Note:
 
 Q: Can GC employees bid on GCDevEx opportunities?
 A: No
+
+Q: How is this different from Talent Cloud? Could we use their platform?
+A:
