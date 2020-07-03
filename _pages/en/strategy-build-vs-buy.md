@@ -27,7 +27,7 @@ th {
 ***This is a DRAFT strategy.***
 
 <div class="alert alert-info">
-  This strategy is accompanied by two documents: <a href="strategy-build-vs-buy-guidance.html">Guidance</a> and  <a href="strategy-build-vs-buy-explained.html">Alignment</a>.
+  This strategy is accompanied by two documents: <a href="strategy-build-vs-buy-guidance.html">Guidance</a> and  <a href="strategy-build-vs-buy-explained.html">Explanation</a>.
 </div>
 
 <!-- markdownlint-disable MD036 -->
@@ -65,20 +65,20 @@ th {
 
 ### Purpose
 
-To provide IITB with a build versus buy assessment framework.
+To provide IITB with a Build Versus Buy Assessment Framework.
 
 The strategy includes:
 
-1. A **guiding policy**, which serves to set automatic decisions that defines the build versus buy assessment framework
-2. A **coherent set of actions** (an action plan), which serve to operationalize the build versus buy assessment framework.
+1. A **guiding policy**, which serves to set automatic decisions that defines the Build Versus Buy Assessment Framework
+2. A **coherent set of actions** (an action plan), which serve to operationalize the Build Versus Buy Assessment Framework.
 
 The intent behind this strategy is to communicate a decision by the CIO (not yet approved) on a path forward (the Guiding Policy), and what investments are needed to operationalize that decision (the coherent set of actions).
 
 ### Target Audience
 
-This **strategy document** is targeted to stakeholders involved in determining whether to build or to buy software components.
-More specifically, stakeholders involved in architecting solutions, defining technology standards, developing, delivering, operationalizing and maintaining IT Solutions (such as Enterprise Architecture, Enterprise Operations, etc.) and guiding committees such as Enterprise Architecture Review Board.
-This includes both IITB and non-IITB stakeholders (such as from Business Functions, SSPB, CDO, ISB, IAERMB, and SSC).
+This **strategy document** is targeted to stakeholders involved in determining whether to build or to buy IT Solutions and Products.
+More specifically, stakeholders involved in architecting IT solutions, defining technology standards, developing, delivering, operationalizing and maintaining IT Solutions (such as Enterprise Architecture, Enterprise Operations, etc.) and guiding committees such as the Architecture Review Committee and the Enterprise Architecture Review Board.
+This includes both IITB and non-IITB stakeholders (such as Business Functions, SSPB, CDO, ISB, IAERMB, and SSC).
 The list of stakeholders are listed in section [Coherent set of actions](#coherent-set-of-actions) and are expected to participate in the execution stage of this strategy necessary to operationalize the Guiding Policy.
 
 The **Guiding Policy**, once operationalized, will target stakeholders involved when the need for an IT Solution is raised, when the IT Solution is conceptualized, architected, developed, delivered, operationalized, and maintained.
@@ -88,12 +88,12 @@ All ESDC personnel involved in the exploration of IT Solutions and in IT investm
 
 Moving to the digital age requires improving IT's responsiveness and promoting a shared accountability with ESDC stakeholders on the use of technology.
 
-This strategy proposes moving ESDC to the point where the complexity of IT Solutions is properly understood and investment decisions are taken with flexibility, interchangeability, and interoperability in mind throughout the entire lifecycle of an IT Solution, not only at the initial stage.
-The benefits to increasing the flexibility and interoperability of IT Solutions architectures as well as reusability and scalability of its IT Products are expected to reduce risk [^1], reduce technical debt over time, increase client satisfaction, and increase overall confidence in the department and its staff.
+This strategy proposes moving ESDC to the point where all stakeholders understand that IT Solutions are complex and investment decisions are taken with flexibility, interchangeability, and interoperability in mind throughout the entire lifecycle of an IT Solution, not only at the initial stage.
+The benefits to the adoption of this Strategy are expected to reduce risk [^1], reduce technical debt over time, increase client satisfaction, and increase overall confidence in the department and its staff.
 
 This strategy capitalizes on existing IT initiatives (such as the [IITB Way Forward](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx)) to compliment them by adding attention to them, as well as complimenting them with new activities.
 
-This strategy's goal is to define a build versus buy framework, and provide a roadmap in getting to the adoption of this framework.
+This strategy's goal is to define a Build Versus Buy Assessment Framework, and provide a roadmap in getting to the adoption of this framework.
 
 More details in [Appendix A](#appendix-a---business-case-diagnostic).
 
@@ -119,26 +119,27 @@ Stakeholders are expected to still comply with existing policy instruments inclu
 ### Governance, Compliance, and Reporting
 
 1. IT Solutions are broken down into manageable parts (IT Products)
-2. Each IT Product must be assessed on its own as well as a part of overall the IT Solution.
-3. IT Products may be bought, built, or adopted (e.g. Open Source Software)
-4. IT Solutions are assessed against the IT Solutions Risk Assessment Framework (see [Risk Managing the Obtention of Software](#risk-managing-the-obtention-of-software)).
+2. IT Products may be bought, built, or adopted (e.g. Open Source Software)
+3. IT Solutions are assessed against the IT Solutions Risk Assessment Framework (see [Risk Managing the Obtention of Software](#risk-managing-the-obtention-of-software)).
   As such:
    1. Complex and core to mandate IT Solutions are architected and delivered internally by ESDC employees but may leverage third party IT Products as components.
    2. Non-complex and not core to mandate IT Solutions may be architected and delivered by third party integrators and/or vendors.
-5. IT Solutions must provide their overall and individual IT products metrics internally to ESDC. Metrics are comprised of the following:
+4. IT Solutions must provide their overall and individual IT products metrics internally to ESDC. Metrics are comprised of the following:
    - Accessibility test results
    - Integration testing results
    - Security test results
    - API consumption statistics
    - Production deployment audit traces
    - Availability statistics
-6. Security Assessment & Authority (SA&A) uses the Target-SA&A methodology
-7. Accessibility Assessment uses the Target-Accessibility methodology
-8. Audit Assessment uses the Target-Audit methodology
-9. IT Solutions reuse existing IT Products, including:
+5. Security Assessment & Authority (SA&A) uses the Target-SA&A methodology
+6. Accessibility Assessment uses the Target-Accessibility methodology
+7. Audit Assessment uses the Target-Audit methodology
+8. IT Solutions reuse existing IT Products, including:
     - Internally developed software
     - Open Source Software (internally and externally developed)
     - Third party Services and Products (SaaS, PaaS, and IaaS) and COTS
+9. IT Solutions capabilities for which existing IT Products are not available can built internally or contracted for
+    - When an IT Product is built internally or obtained through contract, it must be developed in the open and released as open source software as much as possible.
 
 ### Finance
 
@@ -258,7 +259,7 @@ The assumed reasoning behind this overarching strategy [TBC] is that by leveragi
 
 This oversimplified approach unfortunately doesn't take in account the fact that as an organization, ESDC is subject to multiple and fast paced changes, whether at the legal, political, organizational or technological levels.
 
-As such, it is critical for the organization to ensure that core to mandate IT Solutions remain flexible to adjust to the fast-paced changes while also minimizing the risk of said changes by adopting loosely coupled architectures and smaller sized work packages (see [Target Solution Delivery Model](strategy-target-solution-delivery-model.html)).
+As such, it is critical for the organization to ensure that core to mandate IT Solutions remain highly flexible and adaptable to adjust to the fast-paced changes while also minimizing the risk of said changes by adopting loosely coupled architectures and smaller sized work packages (see [Target Solution Delivery Model](strategy-target-solution-delivery-model.html)).
 
 ### Build vs Buy : Oversimplified Dichotomy<!-- omit in toc -->
 
@@ -266,16 +267,17 @@ Looking for a systemic and overarching answer and approach to the question "Shou
 
 A solution is by default built, whether by a single person, multiple teams or by a third party.
 As such, the questions to ask are more akin to:
-“What software component(s) are required to enable a given capability?”,
-“For each of those component(s), does one need to purchase a commercial component, adopt an open source one, or build one oneself?”, and
-“How much organizational risk am I willing to delegate to a 3rd party?”.
+
+- “What software component(s) are required to enable a given capability?”,
+- “For each of those component(s), is the best course of action adopting an open source component, purchasing the rights to use a commercial product or service, or building it internally?”, and
+- “How much organizational risk is the organization willing to delegate to a 3rd party for a product or service for which the future roadmap is not under the organization's control?”.
 
 In large and complex solutions, these questions shouldn't be asked at the solution level but for each component of said solution, taking in account multiple factors and criteria that will be explored below.
 
 #### Additional considerations<!-- omit in toc -->
 
-- Does the organization currently have the skill sets within the organization to architect, design, build and operate this solution?
-- Does the organization currently have the capacity within the organization to architect, design, build and operate this solution?
+- Does the organization currently have the skill sets internally to architect, design, build and operate this solution?
+- Does the organization currently have the capacity internally to architect, design, build and operate this solution?
 
 These last questions, however, do not necessarily mean that the technical questions of a solutions architecture should not be asked subsequently.
 Any solution designed, developed and delivered by a third party should still be abiding by the same principles solutions built within ESDC have to so that once it is operationalized, the organization maintains a high amount of control and flexibility in maintaining and enhancing the solution while limiting its lock-in situations.
