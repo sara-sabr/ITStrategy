@@ -133,6 +133,60 @@
       data:
         list: false
         fr: 
+        en: Produce IT Product Risk Assessment Framework
+    - col:
+      data:
+        list: false
+        fr: 
+        en: |
+          Produce an IT Product Risk Assessment Framework that favours and incentivizes meeting the GC Architectural Standards.
+          ESDC Business Capability Model should be leveraged to help define IT Solution concept boundaries.
+          <br><br>
+          Key IT Products criteria to keep in mind:<br>
+          <strong>Favours</strong>: flexible, interchangeable, interoperable, reusable, scalable, and that can support self-serve for development teams<br>
+          <strong>Reduces</strong>: lock-in situations, whether contractual or technological, maintenance, customization, etc.
+    - col:
+      data:
+        list: true
+        items:
+        - item:
+            fr: <strong>Équipes d'architecture</strong>
+            en: |
+              <strong>Architecture Teams</strong>
+              <br>(Includes: Enterprise, Business, Solution, and Technical Architecture)
+        - item:
+            fr:
+            en: Senior Advisors
+        - item:
+            fr:
+            en: IT Strategy
+        - item:
+            fr:
+            en: Enterprise Ops
+        - item:
+            fr:
+            en: CDO
+        - item:
+            fr:
+            en: Technical Standards Working Group (TSWG)
+        - item:
+            fr:
+            en: ARC
+        - item:
+            fr:
+            en: EARB
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Gouvernance
+        en: Governance
+    - col:
+      data:
+        list: false
+        fr: 
         en: Endorse the ESDC OSS Framework
     - col:
       data:
