@@ -5,6 +5,7 @@ ref: build-vs-buy
 lang: en
 status: posted
 sections: Strategies
+datatable-ids: bvb-actions
 version: 0.02
 date: "2020-06-30"
 permalink: /strategy-build-vs-buy.html
@@ -13,16 +14,6 @@ permalink: /strategy-build-vs-buy.html
 <!-- the below cSpell statement says to ignore any text between HTML tags. E.g. it will ignore "th rowspan='2'" in this string: <th rowspan='2'> -->
 <!-- cSpell:ignoreRegExp /\<[^\>]+\>/ -->
 ## {{ page.title }}<!-- omit in toc -->
-
-<style>
-table, th, td {
-  border: 1px solid black;
-}
-
-th {
-  background-color: #ccccff;
-}
-</style>
 
 ***This is a DRAFT strategy.***
 
@@ -156,6 +147,8 @@ Stakeholders are expected to still comply with existing policy instruments inclu
 2. IT Products are risk assessed for Lock-In situations with the IT Products risk assessment framework
 
 ## Coherent set of actions
+
+{% include table.html table-id="t001" element-id="bvb-actions" file="build-vs-buy"%}
 
 <table>
   <tr>
