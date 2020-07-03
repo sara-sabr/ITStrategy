@@ -5,7 +5,7 @@ ref: GCDevEx
 lang: fr
 status: posted
 sections: Travail en cours
-permalink: /Carrefours-programmeurs-GC.html
+permalink: /carrefour-programmeurs-GC.html
 ---
 
 ### Carrefour des programmeurs du GC
