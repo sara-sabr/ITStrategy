@@ -3,6 +3,9 @@ $(document).ready(function () {
   const parameters = (pageLang) => {
     var pageLang = document.getElementsByTagName("html")[0].getAttribute('lang');
     var parametersValues = {
+      "order": [
+        [0, 'asc']
+      ],
       "rowGroup": {
         "dataSrc": 0
       },
