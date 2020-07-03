@@ -7,7 +7,7 @@ status: posted
 sections: Work In Progress
 permalink: /GCDevelopers-Exchange.html
 ---
-## GC Developers Exchange
+### GC Developers Exchange
 
 The GC Developers Exchange (GCDevEx) was originally launched in 2017.
 It was a website to facilitate micro-procurement in the GC.
