@@ -350,7 +350,7 @@ An IT Product may have one or many software (e.g. COTS, Open Source libraries, O
 Each of those software are deployed in one or many infrastructure (on premise, on the public cloud, or a combination of the two making it a hybrid deployment).
 
 For the scope of this Strategy, Operating Systems are NOT defined as IT products.
-Therefore should an IT Product depend on an Operating System to run in production, it is compliance with this Guiding Policy.
+Therefore should an IT Product depend on an Operating System to run in production, it is in compliance with this Guiding Policy.
 
 ### Build<!-- omit in toc -->
 
@@ -358,7 +358,7 @@ A process whereby the department remains the authority on high-level architectur
 
 ### Buy<!-- omit in toc -->
 
-Application architecture is conceived outside of the Government of Canada, and a completed IT Solution is purchased from a vendor, or support is purchased for a solution developed externally to the department or Government of Canada.
+Application architecture is conceived outside of the Government of Canada, and a completed IT Solution or IT Product is purchased from a vendor, or support is purchased for a solution developed externally to the department or Government of Canada.
 
 ### Complex IT Solutions<!-- omit in toc -->
 
