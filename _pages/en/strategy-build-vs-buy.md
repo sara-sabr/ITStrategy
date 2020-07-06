@@ -5,6 +5,7 @@ ref: build-vs-buy
 lang: en
 status: posted
 sections: Strategies
+datatable-ids: bvb-actions
 version: 0.02
 date: "2020-06-30"
 permalink: /strategy-build-vs-buy.html
@@ -13,16 +14,6 @@ permalink: /strategy-build-vs-buy.html
 <!-- the below cSpell statement says to ignore any text between HTML tags. E.g. it will ignore "th rowspan='2'" in this string: <th rowspan='2'> -->
 <!-- cSpell:ignoreRegExp /\<[^\>]+\>/ -->
 ## {{ page.title }}<!-- omit in toc -->
-
-<style>
-table, th, td {
-  border: 1px solid black;
-}
-
-th {
-  background-color: #ccccff;
-}
-</style>
 
 ***This is a DRAFT strategy.***
 
@@ -158,96 +149,7 @@ Stakeholders are expected to still comply with existing policy instruments inclu
 
 ## Coherent set of actions
 
-<table>
-  <tr>
-    <th>Outcome</th>
-    <th>Action</th>
-    <th>Description</th>
-    <th>Stakeholders</th>
-  </tr>
-  <tr>
-    <td rowspan="4"><b>Governance</b></td>
-    <td>Produce the EARB standard definition of IT Solutions</td>
-    <td>Define the IT Solution concept and scope for use and assessment by EARB and IITB teams.</td>
-    <td>
-      <b><i>Architecture Teams</i></b><br>
-      (includes: Enterprise, Business, Solution, and Technical Architecture)<br>
-      Senior Advisors<br>
-      IT Strategy<br>
-      ARC<br>
-      Technical Standards Working Group (TSWG)<br>
-      EARB
-    </td>
-  </tr>
-  <tr>
-    <td>Produce IT Solution Risk Assessment Framework</td>
-    <td>Produce an IT Solution Risk Assessment Framework that favours and incentivizes flexible and interoperable IT solutions, service-oriented architecture, and reusable IT Products as components.<br>
-    ESDC Business Capability Model should be leveraged to help define IT Solution concept boundaries.
-    </td>
-    <td>
-      <b><i>Architecture Teams</i></b><br>
-      (includes: Enterprise, Business, Solution, and Technical Architecture)<br>
-      Senior Advisors<br>
-      IT Strategy<br>
-      Enterprise Ops<br>
-      CDO<br>
-      ARC<br>
-      Technical Standards Working Group (TSWG)<br>
-      EARB
-    </td>
-  </tr>
-  <tr>
-    <td>Produce IT Product Risk Assessment Framework</td>
-    <td>Produce an IT Solution Risk Assessment Framework that favours and incentivizes IT Products that meet the Architectural Standards.<br>
-    <br>
-    Key IT Products criteria to keep in mind:<br>
-    Favours: flexible, interchangeable, interoperable, reusable, scalable, and that can support self-serve for development teams<br>
-    Reduces: lock-in situations, whether contractual or technological, maintenance, customization, etc.
-    </td>
-    <td>
-      <b><i>Architecture Teams</i></b><br>
-      (includes: Enterprise, Business, Solution, and Technical Architecture)<br>
-      Senior Advisors<br>
-      IT Strategy<br>
-      Enterprise Ops<br>
-      CDO<br>
-      ARC<br>
-      Technical Standards Working Group (TSWG)<br>
-      EARB</td>
-  </tr>
-  <tr>
-    <td>Endorse the ESDC OSS Framework</td>
-    <td>Officially review the ESDC OSS Framework and endorse it.
-    </td>
-    <td><b><i>EARB</i></b><br>
-    Legal<br>
-    IT Strategy
-    </td>
-  </tr>
-  <tr>
-    <td rowspan="1"><b>Finance</b></td>
-    <td>Produce IT Products Operational vs Capital Expense Financial Framework</td>
-    <td>Produce an Operational vs Capital Expense Financial Framework to provide guidance on use and budgeting of services as ongoing IT products within IT Solutions architecture<br>
-    Leverage the Cloud CoE showback model to help explain use of services as part of an IT Solution and IT Products costing vs project budgeting.</td>
-    <td><b><i>Cloud CoE</i></b><br>
-    IITB Finance<br>
-    CFOB<br>
-    IT Strategy
-    </td>
-  </tr>
-  <tr>
-    <td rowspan="1"><b>Legal</b></td>
-    <td>Produce an ESDC Software Legal Terms Guidance</td>
-    <td>Produce an ESDC Software Legal Terms Guidance to support the adoption of OSS, help manage the legal complexities of Cloud subscriptions and support teams in assessing the shared risk and responsibilities
-    </td>
-    <td><b><i>Legal</i></b><br>
-    Cloud CoE<br>
-    CFOB IPPM<br>
-    TBS Procurement<br>
-    IT Strategy
-    </td>
-  </tr>
-</table>
+{% include table.html table-id="t001" element-id="bvb-actions" file="build-vs-buy"%}
 
 ## Measuring the Strategy's success
 
@@ -332,7 +234,7 @@ The impact of such changes has a ripple effect on the whole organization and aff
 
 With the exception of well-established software for generic or peripheral needs of the department, there is little distinction between build vs buy.
 The question becomes whether the organization could and should build it itself, or have someone else build it.
-Even traditional services delivered through SaaS, such as email, require considerable configuration (build) for their implementation[^23] and continuous maintenance.
+Even traditional services delivered through SaaS, such as email, require considerable configuration (build) for their implementation[^2] and continuous maintenance.
 This strategy is intended to return control of implementation of services back to the department thereby permitting increased alignment with the Government of Canada direction, and increase the quality, and rate by which, digital services are delivered to Canadians.
 The intent is to replace dated approaches to IT solutions delivery in favour of practices aligned with industry best practice in order to promote the department's digital transformation and keep pace with the rising expectations of Canadian citizens with respect to digital services.
 
@@ -489,33 +391,5 @@ Commercial Off-The-Self (COTS) software where the source code for said product i
 
 ## Appendix E - References
 
-[^1]: Directive on Service and Digital: Mandatory procedures for Enterprise Architecture Assessment https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602
-[^2]: Reference the traditional buy definition in [Annex 0: Definitions](#definitions).
-[^3]: [18F](https://18f.gov/) in [De-risking custom technology projects](https://github.com/18F/technology-budgeting/blob/master/handbook.md#hire-tech-talent-in-house) writes, “The product owner is the key person for any software project, and must be a government employee.”
-[^4]: Pia Andrews writes in [What improving IT procurement in the public sector looks like: navigating, balancing, and initiating procurement conversations to avoid sprinting off cliffs](https://www.themandarin.com.au/118548-improving-it-procurement-public-sector-navigating-balancing-initiating-procurement-conversations/), identifies a challenge for government in procurement arrangements as being “the lack of subject matter expertise at key decision points in sourcing. [...] You must have actual technologists involved in the process, and the requirements must be informed by great service design and testing, otherwise you are just taking a gamble.”
-[^5]: The Professional Institute of the Public Service of Canada observes in their article, [Symptoms of outsourcing IT work – knowledge loss and the transfer of skills](https://pipsc.ca/news-issues/outsourcing/part-one-real-cost-outsourcing/symptoms#_ftn2), that “As the government outsources more and more IT functions, they become more reliant on private contractors to run their own systems. Over time, institutional knowledge and expertise become concentrated within private contractors instead of within the government. The institutional knowledge that accumulates with private contractors makes it difficult to change service providers when contracts end and even more difficult to bring the services back in-house.”
-[^6]: Pia Andrews writes in [What improving IT procurement in the public sector looks like: navigating, balancing, and initiating procurement conversations to avoid sprinting off cliffs](https://www.themandarin.com.au/118548-improving-it-procurement-public-sector-navigating-balancing-initiating-procurement-conversations/), writes “consider whether what you are doing is commodity or domain-specific and whether it is well defined or relatively ambiguous [...] you don't want to jump straight to pure COTS for domain-specific functions or where there is high ambiguity [...] also want to consider whether what you are doing should be considered as digital public infrastructure”
-[^7]: A survey conducted by the Standish Group, the CHAOS Report, observes that projects costing more than $10 million are significantly less likely to succeed, at an 8% success rate for projects over 10 million dollars. Conversely, projects under $1 million have a success rate of 70%.
-[^8]: For more on agile procurement, suggested reading is the adapted for Canada version of the 18F’s [De-risking custom technology projects](https://github.com/18F/technology-budgeting/blob/master/handbook.md)
-[^9]: For further discussions please reference The Reverse Conway Maneuver as discussed in Team Topologies and Accelerate, which writes, “Our research lends support to what is sometimes called the “inverse Conway maneuver,” which states that organizations should evolve their team and organizational structure to achieve the desired architecture.”
-[^10]: For further discussion on how this aligns with GC Direction, please reference Annex 3: Digital Standards, Iterative and improve frequently (TBC).
-[^11]: For further discussion, please refer to [Minimize the size, cost, and scale section](#5-minimize-the-size-cost-and-scale-of-work-packages) below.
-[^12]: In the DevOps Handbook they refer to Randy Shoup, former Engineering Director for Google App Engine who observed that “organizations with these types of service-oriented architectures, such as Google and Amazon, have incredible flexibility and scalability”.
-[^13]: The CBC reported that “Officials briefing Trudeau after his party's re-election noted "mission-critical" systems and applications are "rusting out and at risk of failure," requiring immediate attention from his government. Some systems are pushing 60 years old and built on "outdated technology" that can no longer be maintained.”
-[^14]: In the Prime Ministers, [Minister of Digital Government Mandate Letter](https://pm.gc.ca/en/mandate-letters/2019/12/13/minister-digital-government-mandate-letter) “the use and development of open source products and open data” is encouraged, and it is written that, “I also expect us to continue to raise the bar on openness, effectiveness and transparency in government”.
-[^15]: In Amazon Web Services (AWS) [Well-Architected Framework: General Design Principles](https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf), they write that, “In a traditional environment, architectural decisions are often implemented as static, one-time events, with few major versions of a system during its lifetime. As a business and its context continue to change, these initial decisions might hinder the system's ability to deliver changing business requirements”
-[^16]: In [Versioning in SOA](https://docs.microsoft.com/en-us/previous-versions/bb491124(v=msdn.10)?redirectedfrom=MSDN) by [Boris Lublinsky](https://www.linkedin.com/in/boris-lublinsky-b6a4a) he writes, “In the era of monolithic applications, changes were dealt with on an application-by-application basis. Implementation of change, whether for a new business or infrastructure—for example, the introduction of a security policy or requirement, or moving an application to a new software platform—was done for an application as a whole, consuming significant amounts of time and money to complete. On the other hand, because each application was developed by a single team and independent, this approach allowed changes to be contained. As a new version of an application was introduced, the previous version came out of use and could be disposed.”
-[^17]: Reference the aforementioned CHAOS Report conducted by the Standish Group.
-[^18]: [18F](https://18f.gov/) in [De-risking custom technology projects](https://github.com/18F/technology-budgeting/blob/master/handbook.md#hire-tech-talent-in-house), “The greater the amount of money spent on a software project, the greater the odds of failure. As a general rule, plan to spend no more than $10 million on an entire project.10 (There are rare exceptions for extraordinarily complex systems like unemployment insurance, Medicaid Eligibility & Enrollment, and Medicaid Management Information Systems.)”
-[^19]: As per Directive on Service and Digital - Appendix A: Mandatory Procedures for Enterprise Architecture Assessment: A.2.3.9 Maximize Reuse
-[^20]: The DORA 2018 report writes that, “Analysis shows that low-performing teams are … 3.2 times more likely to use outsourcing of any of the following functions: application development, IT operations work, or testing and QA. This suggests that outsourcing by function is rarely adopted by elite performers”
-[^21]: Accelerate observes that, “low performers were more likely to say that the software they were building—or the set of services they had to interact with—was custom software developed by another company (e.g., an outsourcing partner). Low performers were also more likely to be working on mainframe systems”, and concludes that “The fact that low performers were more likely to be using—or integrating against—custom software developed by another company underlines the importance of bringing this capability in-house.”
-[^22]: In Accelerate they recommend the four following metrics: delivery lead time, deployment frequency, time to restore service, and change fail rate. For further discussion refer to the [DORA reports](https://cloud.google.com/devops/).
-[^23]: Pia Andrews, in [What improving IT procurement in the public sector looks like: navigating, balancing, and initiating procurement conversations to avoid sprinting off cliffs](https://www.themandarin.com.au/118548-improving-it-procurement-public-sector-navigating-balancing-initiating-procurement-conversations/), writes that many COTS implementations “require significant customization, configuration, integration, or modifications to actually implement a COTS product into production.”
-[^24]: Pia Andrews, in [What improving IT procurement in the public sector looks like: navigating, balancing, and initiating procurement conversations to avoid sprinting off cliffs](https://www.themandarin.com.au/118548-improving-it-procurement-public-sector-navigating-balancing-initiating-procurement-conversations/), suggests doing “service or system design prior to choosing a solution to buy or build. If not, your choice may not be fit for purpose. Testing is critical before you commit, which is why it is worth spending small on discovery and alpha stages before doing a full business case.”
-[^25]: For further discussion regarding how to split a system into subsystems, refer to [Team Topologies book](https://teamtopologies.com/) and their discussion on ‘fracture planes’.
-[^26]: The responses to the question were collected in the [sessional paper 8555-421-2460](https://large-government-of-canada-it-projects.github.io/pdf/8555-421-2460.pdf). Sessional papers are public information; they can be requested by emailing the Library of Parliament
-[^27]: <https://large-government-of-canada-it-projects.github.io/2019/>
-[^28]: (TBC)
-[^29]: (TBC)
-[^30]: <https://large-government-of-canada-it-projects.github.io/>
+[^1]: Directive on Service and Digital: Mandatory procedures for Enterprise Architecture Assessment <https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602>
+[^2]: Pia Andrews, in [What improving IT procurement in the public sector looks like: navigating, balancing, and initiating procurement conversations to avoid sprinting off cliffs](https://www.themandarin.com.au/118548-improving-it-procurement-public-sector-navigating-balancing-initiating-procurement-conversations/), writes that many COTS implementations “require significant customization, configuration, integration, or modifications to actually implement a COTS product into production.”
