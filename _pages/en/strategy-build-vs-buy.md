@@ -110,7 +110,7 @@ Stakeholders are expected to still comply with existing policy instruments inclu
 ### Governance, Compliance, and Reporting
 
 1. IT Solutions are broken down into manageable parts (IT Products)
-2. IT Products may be bought, built, or adopted (e.g. Open Source Software)
+2. IT Products may be adopted, bought, or built.
 3. IT Solutions are assessed against the IT Solutions Risk Assessment Framework (see [Risk Managing the Obtention of Software](#risk-managing-the-obtention-of-software)).
   As such:
    1. Complex and core to mandate IT Solutions are architected and delivered internally by ESDC employees but may leverage third party IT Products as components.
