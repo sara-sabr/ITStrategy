@@ -193,11 +193,10 @@
         list: false
         fr: 
         en: |
-          Produce a Framework to help teams explaining why the software development they does not align with the Open by default policy.
+          Produce a Framework to help teams explain why the software development they do does not align with the Open by default policy.
+          <br><br>
           The framework helps teams and product owners understand how most of their work may be released as open source and favours and incentivizes
           working in the open. Any work that really can't be done in the open will then be supported through the framework.
-          <br><br>
-          ESDC Business Capability Model should be leveraged to help define IT Solution concept boundaries.
     - col:
       data:
         list: true
