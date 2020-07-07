@@ -32,6 +32,7 @@ permalink: /strategy-build-vs-buy.html
 |Version|Date of Change|Change Description|
 |0.01|2020-06-22|First Draft, moved from working document to web page|
 |0.02|2020-06-30|Created list of guiding policy rules, Removed duplicate content, Created separate documents for context, Cleaned up definitions|
+|0.03|2020-07-06|Simplify set of guiding policy rules|
 
 <!-- markdownlint-disable MD001 -->
 ##### Table of Content<!-- omit in toc -->
