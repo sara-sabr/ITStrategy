@@ -25,6 +25,13 @@ permalink: /strategy-build-vs-buy.html
 >_Note 1: Its authoritative source and latest version of this Strategy will be shared on ESDC's internal network (link upcoming)_
 >
 >_Note 2: This page will link to internal ESDC documents, which are unfortunately only accessible within ESDC corporate network._
+>
+>_Note 3: Assumptions_
+> When writing this strategy, we established the following assumptions:
+>
+>- Investment gate has already been approved; the need for an IT solution is acknowledged, whether built or bought
+>- This is not a software request
+>- A comprehensive enterprise view of services is available for all teams, business and IT alike
 
 **Change log**
 <!-- markdownlint-enable MD036 -->
@@ -32,6 +39,9 @@ permalink: /strategy-build-vs-buy.html
 |Version|Date of Change|Change Description|
 |0.01|2020-06-22|First Draft, moved from working document to web page|
 |0.02|2020-06-30|Created list of guiding policy rules, Removed duplicate content, Created separate documents for context, Cleaned up definitions|
+|0.03|||
+|0.04||Add Assumptions|
+
 
 <!-- markdownlint-disable MD001 -->
 ##### Table of Content<!-- omit in toc -->
@@ -67,7 +77,7 @@ The intent behind this strategy is to communicate a decision by the CIO (not yet
 
 ### Target Audience
 
-This **strategy document** is targeted to stakeholders involved in determining whether to build or to buy IT Solutions and Products.
+This **strategy document** is targeted to stakeholders involved in determining whether to build or to buy an IT Solution that has been approved.
 More specifically, stakeholders involved in architecting IT solutions, defining technology standards, developing, delivering, operationalizing and maintaining IT Solutions (such as Enterprise Architecture, Enterprise Operations, etc.) and guiding committees such as the Architecture Review Committee and the Enterprise Architecture Review Board.
 This includes both IITB and non-IITB stakeholders (such as Business Functions, SSPB, CDO, ISB, IAERMB, and SSC).
 The list of stakeholders are listed in section [Coherent set of actions](#coherent-set-of-actions) and are expected to participate in the execution stage of this strategy necessary to operationalize the Guiding Policy.
