@@ -28,7 +28,7 @@ permalink: /strategy-build-vs-buy.html
 >
 >_Note 3: Assumptions when reading this document_
 >
->- The decision to invest time and resources for an IT solution has already been taken but it has not been decided whether or not it will be built or bought.
+>- The decision to invest time and resources for an IT solution has already been taken but it has not been decided whether it will be built or bought.
 >- This is not a software request (e.g.: I want to use this neat SaaS)
 >- A comprehensive enterprise view of services is available for all teams, business and IT alike
 >- Service Oriented Architecture is well understood and applied across IITB
