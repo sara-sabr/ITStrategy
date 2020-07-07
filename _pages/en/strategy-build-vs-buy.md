@@ -6,8 +6,8 @@ lang: en
 status: posted
 sections: Strategies
 datatable-ids: bvb-actions
-version: 0.03
-date: "2020-07-06"
+version: 0.04
+date: "2020-07-07"
 permalink: /strategy-build-vs-buy.html
 ---
 <!-- markdownlint-disable MD033 -->
@@ -40,7 +40,7 @@ permalink: /strategy-build-vs-buy.html
 |0.01|2020-06-22|First Draft, moved from working document to web page|
 |0.02|2020-06-30|Created list of guiding policy rules, Removed duplicate content, Created separate documents for context, Cleaned up definitions|
 |0.03|2020-07-06|Simplify set of guiding policy rules|
-|0.04||Add Assumptions|
+|0.04|2020-07-07|Add Assumptions to notes|
 
 <!-- markdownlint-disable MD001 -->
 ##### Table of Content<!-- omit in toc -->
