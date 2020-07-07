@@ -26,12 +26,12 @@ permalink: /strategy-build-vs-buy.html
 >
 >_Note 2: This page will link to internal ESDC documents, which are unfortunately only accessible within ESDC corporate network._
 >
->_Note 3: Assumptions_
-> When writing this strategy, we established the following assumptions:
+>_Note 3: Assumptions when reading this document_
 >
->- Investment gate has already been approved; the need for an IT solution is acknowledged, whether built or bought
->- This is not a software request
+>- The decision to invest time and resources for an IT solution has already been taken but it has not been decided whether or not it will be built or bought.
+>- This is not a software request (e.g.: I want to use this neat SaaS)
 >- A comprehensive enterprise view of services is available for all teams, business and IT alike
+>- Service Oriented Architecture is well understood and applied across IITB
 
 **Change log**
 <!-- markdownlint-enable MD036 -->
@@ -141,6 +141,8 @@ Stakeholders are expected to still comply with existing policy instruments inclu
 8. IT Solutions capabilities for which existing IT Products are not available or do not meet the needs can be built internally or contracted for to a third party.
     - When an IT Product is built internally, or when its custom development is obtained through contracting with a third party, it must be developed in the open and released as open source software by default, in accordance to the ESDC Open Source Framework.
     - Exceptions may be sought through the Closed-Source Application Development Framework
+9. IT Product / IT Solution maintenance and support may be done in-house or outsourced to a 3rd party vendor
+10. Outsourced maintenance and support may be given to a 3rd party different than the one providing the software licence.
 
 ### Finance
 
