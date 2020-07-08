@@ -107,7 +107,7 @@ Note:
 
 Note:
 
-- Lots of folks to learn from including: many external companies (e.g. Bug Bounty Programs and https://goquotes.ca/) 
+- Lots of folks to learn from including: many external companies (e.g. Bug Bounty Programs and https://goquotes.ca/)
 - US Government has a Micro-purchase threshold that they just increased to $10K
 - BC Government has the BC Developers Exchange which recently became the 'Digital Marketplace'
 - QC Government - Gabriel looking into this.
