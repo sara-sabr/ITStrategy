@@ -61,7 +61,7 @@ Note:
 
 ---
 
-<img src="assets/images/GCDevEx-presentation.png" alt="Add alt text" height="85%" width="85%">
+<img src="assets/images/GCDevEx-presentation.png" alt="Add alt text">
 
 Note:
 
