@@ -61,7 +61,9 @@ Note:
 
 ---
 
-## Example:
+<img src="assets/images/GCDevEx-presentation.png" alt="Add alt text" height="85%" width="85%">
+
+Note:
 
 You notice a bug in an open source component of an application.  You post a description of the bug online with a dollar value of what you would pay to fix the bug. Within 24 hours you have folks from across the country who have said they can fix it.  You look at their GitHub profile to verify that they have the skills and experience needed to fix the bug. You tell them to go for it.  They submit the code 24 hours after that. You check the code against acceptance criteria (including security), and if it is ok, you pull the code and provide payment.
 
