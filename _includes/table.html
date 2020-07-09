@@ -14,8 +14,13 @@
 {%- assign table = table-data-filtered[0] %}
 {%- assign headerRows = table.rows | where: "headers", true -%}
 {%- assign dataRows = table.rows | where: "headers", false -%}
+{%- assign datatable = table.datatable -%}
 
+{% if datatable %}
 <table class="display" id="{{element-id}}">
+{% else %}
+<table id="{{element-id}}">
+{% endif %}
   {% if headerRows %}
   <thead>
     {%for row in headerRows %}
@@ -42,7 +47,7 @@
           {%- endfor %}
         </ul>
         {% else %}
-        {{ col.data.[page.lang]}}
+        {{ items[0].item[page.lang]}}
         {% endif %}
       </td>
       {% endfor %}
