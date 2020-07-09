@@ -1,4 +1,3 @@
-
 <!--
   Reusable function to generate tables in markdown documents.
   
@@ -27,7 +26,7 @@
     <tr>
       {% for col in row.cols %}
       <th scope="col">
-         {{ col.data.[page.lang]}}
+         {{ col.data[page.lang]}}
       </th>
       {% endfor %}
     </tr>
@@ -47,7 +46,7 @@
           {%- endfor %}
         </ul>
         {% else %}
-        {{ items[0].item[page.lang]}}
+        {{ col.data[page.lang]}}
         {% endif %}
       </td>
       {% endfor %}
