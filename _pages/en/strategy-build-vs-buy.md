@@ -164,6 +164,8 @@ Stakeholders are expected to still comply with existing policy instruments inclu
 
 ## Measuring the Strategy's success
 
+[Upcoming]
+
 ## Appendix A - Business Case (Diagnostic)
 
 The current approach to obtaining IT Solutions is to "Buy what we can, Build what we must".
@@ -174,9 +176,9 @@ This oversimplified approach unfortunately doesn't take in account the fact that
 
 As such, it is critical for the organization to ensure that core to mandate IT Solutions remain highly flexible and adaptable to adjust to the fast-paced changes while also minimizing the risk of said changes by adopting loosely coupled architectures and smaller sized work packages (see [Target Solution Delivery Model](strategy-target-solution-delivery-model.html)).
 
-### Build vs Buy : Oversimplified Dichotomy<!-- omit in toc -->
+### Build vs Buy : Oversimplified Question<!-- omit in toc -->
 
-Looking for a systemic and overarching answer and approach to the question "Should the IT Solution be built or bought?" at the organizational level means bypassing the concept of solution architecture, where the required experts of the organization, both from business lines, finance, security, information technology, etc., come together to figure out the best possible way of accomplishing its mission through leveraging its various resources including people, tools, processes and rules.
+Looking for a default answer and approach to the question "Should an IT Solution be built or bought?" at the organizational level is a mental shortcut that bypasses the concept of solution architecture, where the required experts of the organization, both from business lines, finance, security, information technology, etc., come together to figure out the best possible way of accomplishing its mission through leveraging its various resources including people, tools, processes and rules.
 
 A solution is by default built, whether by a single person, multiple teams or by a third party.
 As such, the questions to ask are more akin to:
@@ -186,6 +188,11 @@ As such, the questions to ask are more akin to:
 - “How much organizational risk is the organization willing to delegate to a 3rd party for a product or service for which the future roadmap is not under the organization's control?”.
 
 In large and complex solutions, these questions shouldn't be asked at the solution level but for each component of said solution, taking in account multiple factors and criteria that will be explored below.
+
+Even when an IT Solution is bought, it is never a plug and play situation, whether it consists in COTS or SaaS.
+The organization's IT teams need to obtain, configure and adapt the purchased IT Products to fit with the rest of the organization's IT infrastructure, services, and rules.
+
+Maintenance of IT Solutions should thus be considered separately from the obtained solution as it may require work from personel within the organization as well as the involvement of 3rd party personel, whether it was a vendor or even a community of dedicated volunteers in the case of an open source solution.
 
 #### Additional considerations<!-- omit in toc -->
 
