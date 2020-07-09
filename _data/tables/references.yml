@@ -1,0 +1,73 @@
+- table:
+  id: t001
+  name:
+    fr: Liens spécifiques à EDSC et au GC
+    en: ESDC and GoC Specific Links
+  datatable: false
+  rows:
+  - row:
+    headers: true
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Liens spécifiques à EDSC et au GC
+        en: ESDC and GoC Specific Links
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: true
+        items:
+        - item:
+            fr: 
+            en: |
+              <a href="http://esdc.prv/en/department/ibp/index.shtml" target="_blank">ESDC strategic Framework</a>
+        - item:
+            fr: |
+              <a href="" target="_blank"></a>
+            en: |
+              <a href="http://esdc.prv/en/department/service-strategy/index.shtml" target="_blank">ESDC Service transformation Strategy</a>
+        - item:
+            fr: |
+              <a href="" target="_blank"></a>
+            en: |
+              <a href="http://esdc.prv/en/department/changes_desda.shtml" target="_blank">Recent changes to the ESDC's mandate</a>
+        - item:
+            fr: |
+              <a href="" target="_blank"></a>
+            en: |
+              <a href="https://www.canada.ca/en/employment-social-development/corporate/reports/departmental-plan.html" target="_blank">ESDC's departmental plans</a>
+        - item:
+            fr: |
+              <a href="" target="_blank"></a>
+            en: |
+              <a href="ESDC Network Use Directive" target="_blank"></a>
+        - item:
+            fr: |
+              <a href="" target="_blank"></a>
+            en: |
+              <a href="" target="_blank"></a>
+        - item:
+            fr: |
+              <a href="" target="_blank"></a>
+            en: |
+              <a href="" target="_blank"></a>
+- table:
+  id: t002
+  name:
+    fr: Test
+    en: Test
+  rows:
+  - row:
+    headers: true
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Liens spécifiques à EDSC et au GC
+        en: ESDC and GoC Specific Links
+  - row:
+    headers: false
+    cols:
