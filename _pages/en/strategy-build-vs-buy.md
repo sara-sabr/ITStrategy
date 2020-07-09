@@ -192,7 +192,7 @@ In large and complex solutions, these questions shouldn't be asked at the soluti
 Even when an IT Solution is bought, it is never a plug and play situation, whether it consists in COTS or SaaS.
 The organization's IT teams need to obtain, configure and adapt the purchased IT Products to fit with the rest of the organization's IT infrastructure, services, and rules.
 
-Maintenance of IT Solutions should thus be considered separately from the obtained solution as it may require work from personel within the organization as well as the involvement of 3rd party personel, whether it was a vendor or even a community of dedicated volunteers in the case of an open source solution.
+Maintenance of IT Solutions should thus be considered separately from the obtained solution as it may require work from personnel within the organization as well as the involvement of 3rd party personnel, whether it was a vendor or even a community of dedicated volunteers in the case of an open source solution.
 
 #### Additional considerations<!-- omit in toc -->
 
