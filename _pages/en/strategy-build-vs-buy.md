@@ -7,7 +7,7 @@ status: posted
 sections: Strategies
 datatable-ids: bvb-actions
 version: 0.04
-date: "2020-07-07"
+date: "2020-07-09"
 permalink: /strategy-build-vs-buy.html
 ---
 <!-- markdownlint-disable MD033 -->
