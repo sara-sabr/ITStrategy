@@ -118,7 +118,7 @@ Stakeholders are expected to still comply with existing policy instruments inclu
 
 ### Governance, Compliance, and Reporting
 
-1. IT Solutions are broken down into manageable parts (IT Products)
+1. IT Solutions are broken down into manageable parts (IT Products) in line with the [Business Capability Model](https://gcconnex.gc.ca/file/group/21723432/all#33319941)
 2. IT Solutions are assessed against the IT Solutions Risk Assessment Framework (see [Risk Managing the Obtention of Software](#risk-managing-the-obtention-of-software)).
   As such:
    1. Complex and core to mandate IT Solutions are architected and delivered internally by ESDC employees but may leverage third party IT Products as components.
