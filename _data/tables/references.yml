@@ -6,14 +6,6 @@
   datatable: false
   rows:
   - row:
-    headers: true
-    cols:
-    - col:
-      data:
-        list: false
-        fr: Liens spécifiques à EDSC et au GC
-        en: ESDC and GoC Specific Links
-  - row:
     headers: false
     cols:
     - col:
@@ -43,22 +35,67 @@
             fr: |
               <a href="" target="_blank"></a>
             en: |
-              <a href="ESDC Network Use Directive" target="_blank"></a>
+              <a href="http://iservice.prv/eng/is/security/tools_and_resources/toolkit/network_use_directive.shtml" target="_blank">ESDC Network Use Directive</a>
         - item:
             fr: |
               <a href="" target="_blank"></a>
             en: |
-              <a href="" target="_blank"></a>
+              <a href="http://iservice.prv/eng/is/security/classification/classification_tool.shtml" target="_blank">ESDC Information Classification Tool</a>
         - item:
             fr: |
               <a href="" target="_blank"></a>
             en: |
+              <a href="http://esdc.prv/en/stay_connected/social_media.shtml" target="_blank">ESDC Social Media Guidelines for Employees</a>
+        - item:
+            fr: |
               <a href="" target="_blank"></a>
+            en: |
+              <a href="http://esdc.prv/en/stay_connected/handbook.shtml" target="_blank">ESDC Handbook for the Personal and Official Use of the Internet</a>
+        - item:
+            fr: |
+              <a href="" target="_blank"></a>
+            en: |
+              <a href="http://dialogue/grp/ITSecurity-SecuriteTI/Site/Exceptions.aspx" target="_blank">ESDC IT Security Exception Requests</a>
+        - item:
+            fr: |
+              <a href="" target="_blank"></a>
+            en: |
+              <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32588" target="_blank">TB Direction on Enabling Access to Web Services: Policy Implementation Notice</a>
+        - item:
+            fr: |
+              <a href="" target="_blank"></a>
+            en: |
+              <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=27122" target="_blank">TB Policy on Acceptable Network and Device Use</a>
+        - item:
+            fr: |
+              <a href="" target="_blank"></a>
+            en: |
+              <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249" target="_blank">TB Directive on Management of Information Technology</a>
+        - item:
+            fr: |
+              <a href="" target="_blank"></a>
+            en: |
+              <a href="http://dialogue/grp/BU6810070/Shared%20Documents/Reference%20Materials/Policy%20on%20service%20and%20digital.docx" target="_blank">TB Policy on service and digital</a>
+              <br>
+              (<a href="https://gccollab.ca/groups/profile/588431/endigital-numu00e9riquefrdigital-numu00e9rique" target="_blank">GCCollab group</a>)          
+        - item:
+            fr: |
+              <a href="" target="_blank"></a>
+            en: |
+              <a href="http://dialogue/grp/BU6810070/Shared%20Documents/Reference%20Materials/Directive%20on%20service%20and%20digital.docx" target="_blank">TB Directive on service and digital</a>
+              <br>
+              (<a href="https://gccollab.ca/groups/profile/588431/endigital-numu00e9riquefrdigital-numu00e9rique" target="_blank">GCCollab group</a>)
+        - item:
+            fr: |
+              <a href="" target="_blank"></a>
+            en: |
+              <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32611&section=procedure&p=B" target="_blank">TB Directive on Security Management</a>
 - table:
   id: t002
   name:
-    fr: Test
-    en: Test
+    fr: Outils
+    en: Tools
+  datatable: true
   rows:
   - row:
     headers: true
@@ -66,8 +103,63 @@
     - col:
       data:
         list: false
-        fr: Liens spécifiques à EDSC et au GC
-        en: ESDC and GoC Specific Links
+        fr: Catégorie
+        en: Category
+    - col:
+      data:
+        list: false
+        fr: Fonction
+        en: Function
+    - col:
+      data:
+        list: false
+        fr: Nom
+        en: Name
+    - col:
+      data:
+        list: false
+        fr: Type
+        en: Type
+    - col:
+      data:
+        list: false
+        fr: Logiciel libre
+        en: Open source software
+    - col:
+      data:
+        list: false
+        fr: Logiciel en modèle SaaS
+        en: Software as a Service (SaaS)
   - row:
     headers: false
     cols:
+    - col:
+      data:
+        list: false
+        fr: Gouvernance
+        en: Governance
+    - col:
+      data:
+        list: false
+        fr: <a href="" target="_blank">Réseau social
+        en: Social Network
+    - col:
+      data:
+        list: false
+        fr: <a href="https://gccollab.ca/splash/" target="_blank">GCCollab</a>
+        en: <a href="https://gccollab.ca/splash/" target="_blank">GCCollab</a>
+    - col:
+      data:
+        list: false
+        fr: Interne au Gouvernement du Canada
+        en: Internal to Government of Canada
+    - col:
+      data:
+        list: false
+        fr: true
+        en: true
+    - col:
+      data:
+        list: false
+        fr: true
+        en: true
