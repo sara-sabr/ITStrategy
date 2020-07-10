@@ -22,7 +22,7 @@ permalink: /strategy-build-vs-buy.html
 </div>
 
 <!-- markdownlint-disable MD036 -->
->_Note 1: Its authoritative source and latest version of this Strategy will be shared on ESDC's internal network (link upcoming)_
+>_Note 1: The authoritative source and latest version of this Strategy material will be shared on our [internal workspace](https://014gc.sharepoint.com/sites/strategyBuildvsBuy)_
 >
 >_Note 2: This page will link to internal ESDC documents, which are unfortunately only accessible within ESDC corporate network._
 
