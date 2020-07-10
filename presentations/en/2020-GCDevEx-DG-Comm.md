@@ -61,6 +61,8 @@ Note:
 
 ---
 
+## What if...
+
 <img src="assets/images/GCDevEx-presentation.png" alt="Add alt text">
 
 Note:
