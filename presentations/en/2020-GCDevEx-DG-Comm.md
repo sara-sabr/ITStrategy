@@ -43,6 +43,12 @@ ESDC IT Strategy team:
 
 Red tape reduction initiative:
 
+--
+
+## In the GC, each LDV procurement takes approximately
+
+<img src="assets/images/67-working-days.png" alt="Add alt text">
+
 ---
 
 ## What sort of contracts are we talking about?
