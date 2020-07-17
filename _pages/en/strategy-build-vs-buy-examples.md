@@ -40,7 +40,7 @@ The basic premise of the Build vs Buy strategy is to change the way we evaluate 
 
 ![A decision tree breaking down the logical steps required to decide whether or not to build or buy an IT Product](assets/images/strategy-build-vs-buy-solution-breakdown.png)
 
-It is important as well to not think of IT products in a monolithic sense. Oftentimes, IT solutions consist of many different components. The decision of  whether to build vs buy should not be made on the solution as whole but rather the individual parts. There are exceptions to this as with everything such as in the case of simple software/ solution requests (i.e. a kanban board to manage a backlog in a project).
+It is important as well to not think of IT products in a monolithic sense. Often times, IT solutions consist of many different components. The decision of  whether to build vs buy should not be made on the solution as whole but rather the individual parts. There are exceptions to this as with everything such as in the case of simple software/ solution requests (i.e. a kanban board to manage a backlog in a project).
 
 The decision tree above was made to help you visualize the Build vs Buy framework and the decision making steps when creating a generic solution when responding to a need. Note when looking at this diagram you should bare in mind the following assumptions
 
