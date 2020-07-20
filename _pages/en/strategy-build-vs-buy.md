@@ -88,8 +88,14 @@ All ESDC personnel involved in the exploration of IT Solutions and in IT investm
 
 Moving to the digital age requires improving IT's responsiveness and promoting a shared accountability with ESDC stakeholders on the use of technology.
 
+Yet, the current principle when obtaining IT Solutions is to "Buy what we can, Build what we must".
+The assumed reasoning behind this overarching strategy [TBC] is that by leveraging a third party, risks and responsibilities of an IT Solutions are handled by a company who has more resources and technical expertise to produce and maintain software.
+
+This oversimplified approach unfortunately doesn't take in account the fact that as an organization, ESDC is subject to multiple and fast paced changes, whether at the legal, political, organizational or technological levels.
+As such, it is critical for the organization to ensure that core to mandate or complex IT Solutions remain highly flexible and adaptable to adjust to the fast-paced changes while also minimizing the risk of said changes by adopting loosely coupled architectures and smaller sized work packages (see [Target Solution Delivery Model](strategy-target-solution-delivery-model.html) for proposed ways to support such an approach).
+
 This strategy proposes moving ESDC to the point where all stakeholders understand that IT Solutions are complex and investment decisions have to be taken with flexibility, interchangeability, and interoperability in mind **throughout the entire lifecycle** of an IT Solution, not only at the initial stage.
-The benefits to the adoption of this Strategy are expected to reduce risk [^1], reduce technical debt over time, increase client satisfaction, and increase overall confidence in the department and its staff.
+The benefits to the adoption of this Strategy are expected to reduce risk [^1], reduce technical debt over time, increase client satisfaction, and increase overall confidence in the department and its staff, for both net new or enhancements to IT Solutions.
 
 This strategy capitalizes on existing IT initiatives (such as the [IITB Way Forward](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx)) to compliment them by adding attention to them, as well as complimenting them with new activities.
 
