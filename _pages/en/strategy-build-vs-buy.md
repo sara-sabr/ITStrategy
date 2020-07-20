@@ -89,10 +89,10 @@ All ESDC personnel involved in the exploration of IT Solutions and in IT investm
 Moving to the digital age requires improving IT's responsiveness and promoting a shared accountability with ESDC stakeholders on the use of technology.
 
 Yet, the current principle when obtaining IT Solutions is to "Buy what we can, Build what we must".
-The assumed reasoning behind this overarching strategy [TBC] is that by leveraging a third party, risks and responsibilities of an IT Solutions are handled by a company who has more resources and technical expertise to produce and maintain software.
+The assumed reasoning behind this overarching principle [TBC] is that by leveraging a third party, risks and responsibilities of an IT Solutions are handled by a company who has more resources and technical expertise to produce and maintain software.
 
-This oversimplified approach unfortunately doesn't take in account the fact that as an organization, ESDC is subject to multiple and fast paced changes, whether at the legal, political, organizational or technological levels.
-As such, it is critical for the organization to ensure that core to mandate or complex IT Solutions remain highly flexible and adaptable to adjust to the fast-paced changes while also minimizing the risk of said changes by adopting loosely coupled architectures and smaller sized work packages (see [Target Solution Delivery Model](strategy-target-solution-delivery-model.html) for proposed ways to support such an approach).
+This principle unfortunately is leading to an oversimplified approach that doesn't take in account the fact that, as an organization, ESDC is subject to multiple and fast-paced changes, whether at the legal, political, organizational or technological levels.
+As such, it is critical for the organization to ensure that core to mandate or complex IT Solutions remain highly flexible and adaptable to adjust to the pressing changes while also minimizing the risk of said changes by adopting loosely coupled architectures and smaller sized work packages (see [Target Solution Delivery Model](strategy-target-solution-delivery-model.html) for proposed ways to support such an approach).
 
 This strategy proposes moving ESDC to the point where all stakeholders understand that IT Solutions are complex and investment decisions have to be taken with flexibility, interchangeability, and interoperability in mind **throughout the entire lifecycle** of an IT Solution, not only at the initial stage.
 The benefits to the adoption of this Strategy are expected to reduce risk [^1], reduce technical debt over time, increase client satisfaction, and increase overall confidence in the department and its staff, for both net new or enhancements to IT Solutions.
@@ -143,7 +143,7 @@ Stakeholders are expected to still comply with existing policy instruments inclu
     - Internally developed software
     - Open Source Software (internally and externally developed and maintained)
     - Third party Services and Products (SaaS, PaaS, IaaS, etc.) and COTS
-8. IT Solutions capabilities for which existing IT Products are not available or do not meet the needs can be built internally or contracted for to a third party.
+8. IT Solutions capabilities for which existing IT Products are not readily available or do not meet the needs can be built internally or their development contracted for to a third party.
     - When an IT Product is built internally, or when its custom development is obtained through contracting with a third party, it must be developed in the open and released as open source software by default, in accordance to the ESDC Open Source Framework.
     - Exceptions may be sought through the Closed-Source Application Development Framework
 9. IT Product / IT Solution maintenance and support may be done in-house or outsourced to a 3rd party vendor
