@@ -39,7 +39,7 @@ Depuis la dernière mise en ligne de CarrefourProgGC, BCDevExchange a connu de n
 Les questions que nous posons :
 Le site CarrefourProgGC répond-il à nos exigences actuelles?
 Étant donné que le dépôt BC Developers Exchange n'est plus maintenu, CarrefourProgGC devrait-il toujours être basé sur ce code?
-Pendant que nous évaluons ces aspects, nous avons mis en place un [site de développement de BC Developers Exchange à des fins de test (anglais)](https://dev.devex.smellems.com).
+Pendant que nous évaluons ces aspects, nous avons mis en place un site de développement de BC Developers Exchange à des fins de test.
 
 - **Documenter ce qui serait nécessaire pour rendre le service opérationnel**  
 L'opérationnalisation de la micro-acquisition au GC n'est pas aussi simple que de mettre en place un site Web.

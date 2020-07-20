@@ -38,7 +38,7 @@ Since GCDevEx was last online, the BCDevExchange has had many changes (the GCDev
 Questions we are asking:
 Does the GCDevEx site meet our current requirements?
 Given that the BC Developers Exchange repo is no longer being maintained should GCDevEx still be based on this code?
-While working through these questions we stood up a working [dev version of the BC Developers Exchange for testing](https://dev.devex.smellems.com/).
+While working through these questions we stood up a working dev version of the BC Developers Exchange for testing.
 
 - **Documenting what would be needed to operationalize**  
 Operationalizing micro-procurement in the GC is not as simple as standing up an application.
