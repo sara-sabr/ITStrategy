@@ -102,38 +102,6 @@ li:first-child .dropdown-menu {
   min-width: 250px;
 }
 
-/*============= RESETS =============*/
-
-/*-- iPhone X Remove Gutters --*/
-html {
-  padding: env(safe-area-inset);
-}
-
-/*-- Prevent Horizontal Scrolling & Font Style --*/
-html,
-body {
-  overflow-x: hidden;
-  font-family: 'Lato', sans-serif;
-  color: #505962;
-}
-
-.text-splash {
-  color: #1EBBA3;
-}
-
-/*--- Nav Scrolling Offset --*/
-.offset:before {
-  content: "";
-  height: 4rem;
-  display: block;
-  margin-top: -4rem;
-}
-
-/*--- Extra Bootstrap Column Padding --*/
-[class*="col-"] {
-  padding: 1rem;
-}
-
 /*============= NAVIGATION =============*/
 .navbar-brand img {
   height: 2rem;
