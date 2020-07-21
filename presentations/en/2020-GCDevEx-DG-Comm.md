@@ -30,9 +30,11 @@ Note:
 - ESDC IT Strategy team
 - Red tape reduction initiative
 - Gartner
-- TBS Procurement policy team
-- Canadian Digital Service
 - Office of the Procurement Ombudsman (Canada)
+- TBS Procurement policy team
+- Office of Small and Medium Enterprise (PSPC)
+- Canadian Digital Service
+- Freelancers & Small and medium enterprises themselves
 
 Note:
 
@@ -47,7 +49,7 @@ Red tape reduction initiative:
 
 ## In the GC, each LDV procurement takes approximately
 
-<img src="assets/images/67-working-days.png" alt="Add alt text">
+<img src="assets/images/67-working-days.png" alt="This image shows the following statistics: it takes 7 people, 8 days of touch time and 15 weeks to complete the average Low Dollar Value procurement in the GC.  This results in an 11% flow efficiency rate and 67 working days of wait time">
 
 ---
 
@@ -69,7 +71,7 @@ Note:
 
 ## What if...
 
-<img src="assets/images/GCDevEx-presentation.png" alt="Add alt text">
+<img src="assets/images/GCDevEx-presentation.png" alt="This image shows a process flow scenario where the entire procurement takes only 72 hours.  Process items are shown using circles.  The first two process items of finding the bug and posting the opportunity are completed within 24 hours, the next two process items of bid received, and supplier selected are completed 24 hours after that, and finally the last two process items of Code submitted and checked and Code accepted and payment issued are completed in the last 24 hours">
 
 Note:
 
@@ -83,7 +85,7 @@ You notice a bug in an open source component of an application.  You post a desc
 
 ## What sort of changes are we talking about?
 
-- procurement process for LDV simplified:
+- Procurement process for LDV simplified:
   - Fewer approvals required
   - Automation
 - Culture change: priority given to procurement and invoicing activities
@@ -136,9 +138,12 @@ Note:
 
 ---
 
-## What about Legal and IP?
+## What about:
 
-Add content here after talking to IP folks
+- IP and copyright?
+- Security of the code?
+
+Note:
 
 ---
 
@@ -153,43 +158,30 @@ Add content here after talking to IP folks
 
 ---
 
-## Additional Reading
-
-- [Experimenting with the Micro-Purchase Threshold](https://digital.gov/2020/04/24/experimenting-with-micropurchase-threshold/)
-
----
-
 ## Questions?
 
----
+--
 
-### Contact Us
+## Contact Us
 
 - EDSC.DGIIT.StrategieTI-ITStrategy.IITB.ESDC@hrsdc-rhdcc.gc.ca
 - https://sara-sabr.github.io/ITStrategy
 - https://sara-sabr.slack.com
 
----
+--
 
-### More info
+## More info
 
 - [GC Developers Exchange brief background](https://sara-sabr.github.io/ITStrategy/GCDevelopers-Exchange.html)
 - Business case for pilot to simplify micro-procurement of open source code (to come)
-
----
-
-## Reference Slides
-
----
-
-## Use Cases
-
----
+- [Experimenting with the Micro-Purchase Threshold](https://digital.gov/2020/04/24/experimenting-with-micropurchase-threshold/)
+  
+--
 
 ## Frequently asked questions
 
 Q: Can GC employees bid on GCDevEx opportunities?
-A: No
+A: Yes but they can't get paid for them ($ would transfer to their organization).
 
 Q: How is this different from Talent Cloud? Could we use their platform?
-A:
+A: Talent cloud is focused on HR processes, and GCDevEx is focused on procurement processes, so while there are synergies its not a perfect fit.
