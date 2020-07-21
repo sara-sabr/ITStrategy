@@ -145,7 +145,7 @@ Stakeholders are expected to still comply with existing policy instruments inclu
     - Third party Services and Products (SaaS, PaaS, IaaS, etc.) and COTS
 8. IT Solutions capabilities for which existing IT Products are not readily available or do not meet the needs can be built internally or their development contracted for to a third party.
     - When an IT Product is built internally, or when its custom development is obtained through contracting with a third party, it must be developed in the open and released as open source software by default, in accordance to the ESDC Open Source Framework.
-    - Exceptions may be sought through the Closed-Source Application Development Framework
+    - Exceptions may be sought on a per case basis.
 9. IT Product / IT Solution maintenance and support may be done in-house or outsourced to a 3rd party vendor
 10. Outsourced maintenance and support may be given to a 3rd party different than the one providing the software licence.
 
