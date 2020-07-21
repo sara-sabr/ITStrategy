@@ -70,7 +70,7 @@
       "pattern": "https://www.pcloud.com"
     },
     {
-      "pattern": "https://pm.gc.ca/en/mandate-letters/minister-digital-government-mandate-letter"
+      "pattern": "https://pm.gc.ca/"
     },
     {
       "pattern": "http://srmis-sigdi-iagent.prv"      
@@ -80,6 +80,9 @@
     },
     {
       "pattern": "https://www.tpsgc-pwgsc.gc.ca/app-acq/cral-sarc/lgcl-ctgr-eng.html"
+    },
+    {
+      "pattern": "https://www.surveymonkey.com"
     }
   ]
 }

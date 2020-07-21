@@ -9,6 +9,7 @@
     "développer",
     "IRCTC",
     "ccvp",
+    "datatable",
     "Smes",
     "Oecd’s",
     "Muston",
@@ -415,7 +416,9 @@
     "versioning",
     "Po's",
     "downstream",
+    "shortcut",
     "tradeoff",
+    "extendable",
     "upskill",
     "ERPs",
     "Blackbox",
@@ -425,7 +428,8 @@
     "projectization",
     "upscale",
     "slideshare",
-    "Gartner"
+    "Gartner",
+    "SPAC"
   ],
   "flagWords": [],
   "import": [

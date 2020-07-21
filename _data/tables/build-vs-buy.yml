@@ -1,0 +1,340 @@
+- table:
+  id: t001
+  name:
+    fr: Ensemble cohérent de mesures
+    en: Coherent set of actions
+  rows:
+  - row:
+    headers: true
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Résultat
+        en: Outcome
+    - col:
+      data:
+        list: false
+        fr: Mesure
+        en: Action
+    - col:
+      data:
+        list: false
+        fr: Description
+        en: Description  
+    - col:
+      data:
+        list: false
+        fr: Parties prenantes
+        en: Stakeholders 
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Gouvernance
+        en: Governance
+    - col:
+      data:
+        list: false
+        fr: 
+        en: Produce the EARB standard definition of IT Solutions
+    - col:
+      data:
+        list: false
+        fr: 
+        en: |
+          Define the IT Solution concept and scope for use and assessment by EARB and IITB teams.
+    - col:
+      data:
+        list: true
+        items:
+        - item:
+            fr: <strong>Équipes d'architecture</strong>
+            en: |
+              <strong>Architecture Teams</strong>
+              <br>(Includes: Enterprise, Business, Solution, and Technical Architecture)
+        - item:
+            fr:
+            en: Senior Advisors
+        - item:
+            fr:
+            en: IT Strategy
+        - item:
+            fr:
+            en: Technical Standards Working Group (TSWG)
+        - item:
+            fr:
+            en: ARC
+        - item:
+            fr:
+            en: EARB
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Gouvernance
+        en: Governance
+    - col:
+      data:
+        list: false
+        fr: 
+        en: Produce IT Solution Risk Assessment Framework
+    - col:
+      data:
+        list: false
+        fr: 
+        en: |
+          Produce an IT Solution Risk Assessment Framework that favours and incentivizes flexible and interoperable IT solutions, service oriented architecture, and reusable IT Products as components.
+          <br><br>
+          ESDC Business Capability Model should be leveraged to help define IT Solution concept boundaries.
+    - col:
+      data:
+        list: true
+        items:
+        - item:
+            fr: <strong>Équipes d'architecture</strong>
+            en: |
+              <strong>Architecture Teams</strong>
+              <br>(Includes: Enterprise, Business, Solution, and Technical Architecture)
+        - item:
+            fr:
+            en: Senior Advisors
+        - item:
+            fr:
+            en: IT Strategy
+        - item:
+            fr:
+            en: Enterprise Ops
+        - item:
+            fr:
+            en: CDO
+        - item:
+            fr:
+            en: Technical Standards Working Group (TSWG)
+        - item:
+            fr:
+            en: ARC
+        - item:
+            fr:
+            en: EARB
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Gouvernance
+        en: Governance
+    - col:
+      data:
+        list: false
+        fr: 
+        en: Produce IT Product Risk Assessment Framework
+    - col:
+      data:
+        list: false
+        fr: 
+        en: |
+          Produce an IT Product Risk Assessment Framework that favours and incentivizes meeting the GC Architectural Standards.
+          ESDC Business Capability Model should be leveraged to help define IT Solution concept boundaries.
+          <br><br>
+          Key IT Products criteria to keep in mind:<br>
+          <strong>Favours</strong>: flexible, interchangeable, interoperable, reusable, scalable, and that can support self-serve for development teams<br>
+          <strong>Reduces</strong>: lock-in situations, whether contractual or technological, maintenance, customization, etc.
+    - col:
+      data:
+        list: true
+        items:
+        - item:
+            fr: <strong>Équipes d'architecture</strong>
+            en: |
+              <strong>Architecture Teams</strong>
+              <br>(Includes: Enterprise, Business, Solution, and Technical Architecture)
+        - item:
+            fr:
+            en: Senior Advisors
+        - item:
+            fr:
+            en: IT Strategy
+        - item:
+            fr:
+            en: Enterprise Ops
+        - item:
+            fr:
+            en: CDO
+        - item:
+            fr:
+            en: Technical Standards Working Group (TSWG)
+        - item:
+            fr:
+            en: ARC
+        - item:
+            fr:
+            en: EARB
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Gouvernance
+        en: Governance
+    - col:
+      data:
+        list: false
+        fr: 
+        en: Produce the Closed-Source Application Development Framework
+    - col:
+      data:
+        list: false
+        fr: 
+        en: |
+          Produce a Framework to help teams explain why the software development they do does not align with the Open by default policy.
+          <br><br>
+          The framework helps teams and product owners understand how most of their work may be released as open source and favours and incentivizes
+          working in the open. Any work that really can't be done in the open will then be supported through the framework.
+    - col:
+      data:
+        list: true
+        items:
+        - item:
+            fr: <strong>Équipes d'architecture</strong>
+            en: |
+              <strong>Architecture Teams</strong>
+              <br>(Includes: Enterprise, Business, Solution, and Technical Architecture)
+        - item:
+            fr:
+            en: Senior Advisors
+        - item:
+            fr:
+            en: IT Strategy
+        - item:
+            fr:
+            en: Enterprise Ops
+        - item:
+            fr:
+            en: CDO
+        - item:
+            fr:
+            en: Technical Standards Working Group (TSWG)
+        - item:
+            fr:
+            en: ARC
+        - item:
+            fr:
+            en: EARB
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Gouvernance
+        en: Governance
+    - col:
+      data:
+        list: false
+        fr: 
+        en: Endorse the ESDC OSS Framework
+    - col:
+      data:
+        list: false
+        fr: 
+        en: |
+            Officially review the ESDC OSS Framework and endorse it. 
+    - col:
+      data:
+        list: true
+        items:
+        - item:
+            fr:
+            en: EARB
+        - item:
+            fr:
+            en: Legal
+        - item:
+            fr:
+            en: IT Strategy
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Finance
+        en: Finance
+    - col:
+      data:
+        list: false
+        fr: 
+        en: Produce IT Products Operational vs Capital Expense Financial Framework
+    - col:
+      data:
+        list: false
+        fr: 
+        en: |
+            Produce an Operational vs Capital Expense Financial Framework to provide guidance on use and budgeting of services as ongoing IT products within IT Solutions architecture<br>
+            Leverage the Cloud CoE showback model to help explain use of services as part of an IT Solution and IT Products costing vs project budgeting. 
+    - col:
+      data:
+        list: true
+        items:
+        - item:
+            fr:
+            en: Cloud CoE
+        - item:
+            fr:
+            en: IITB Finance
+        - item:
+            fr:
+            en: CFOB
+        - item:
+            fr:
+            en: IT Strategy
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Légal
+        en: Legal
+    - col:
+      data:
+        list: false
+        fr: 
+        en: Produce an ESDC Software Legal Terms Guidance
+    - col:
+      data:
+        list: false
+        fr: 
+        en: |
+            Produce an ESDC Software Legal Terms Guidance to support the adoption of OSS, help manage the legal complexities of Cloud subscriptions and support teams in assessing the shared risk and responsibilities 
+    - col:
+      data:
+        list: true
+        items:
+        - item:
+            fr:
+            en: <strong>Legal</strong>
+        - item:
+            fr:
+            en: Cloud CoE
+        - item:
+            fr:
+            en: CFOB IPPM
+        - item:
+            fr:
+            en: TBS Procurement
+        - item:
+            fr:
+            en: IT Strategy
+- table:
+  id: t002
+  name:
+    fr: Test
+    en: Test
