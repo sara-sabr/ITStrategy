@@ -8,8 +8,6 @@ sections: Work In Progress
 permalink: /quarterly-delivery.html
 ---
 
-## Project Quarterly Delivery
-
 All new projects must deliver a functional product at the end of each quarter, at the absolute latest.
 
 In modern IT literature organizations should be aiming to deliver software into production within minutes. In [*War And Peace And IT*](https://itrevolution.com/book/war-and-peace-and-it/) by [Mark Schwartz](https://itrevolution.com/faculty/mark-schwartz/), ex-CIO of US Citizenship and Immigration Services and currently a Strategist for Amazon Web Services, he writes that business or mission needs should be met in hours or days.

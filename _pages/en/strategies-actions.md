@@ -4,11 +4,9 @@ title: IT Strategies and Actions
 ref: strategies
 lang: en
 status: posted
-sections: Ready For Use
+sections: Strategies
 permalink: /strategies-actions.html
 ---
-
-## IT Strategies and Actions
 
 This document is intended to provide an overview of of the cultural, process, and technical changes (and respective measurements) which our quarterly strategies will be promoting.
 
@@ -17,7 +15,7 @@ This document is intended to provide an overview of of the cultural, process, an
 - [IITB Teams Must](#iitb-teams-must)
 - [Appendix A - Details of GC Information Technology Direction](#appendix-A---Details-of-GC-Information-Technology-Direction)
 
-### Approach
+## Approach
 
 The IT Strategy team will not create a 5 or 10 year plan to transform the organization.
 For details on the objectives, see [Medium Term](it-picture-medium-term.html) and [Long Term](it-picture-long-term.html) IT Pictures.
@@ -31,7 +29,7 @@ Below is a list of strategies and actions that could be used as quarterly strate
 
 The first quarterly strategy for Q1 (2020-04 to 2020-06) will be (Draft) [20% of time to learn, automate and improve](https://sara-sabr.github.io/ITStrategy/strategy-learning-automating-improving.html).
 
-### Goals
+## Goals
 
 - Continuous learning, automation and improvements
 - Reduce lead time for changes and delivery of services/devices
@@ -42,24 +40,24 @@ The first quarterly strategy for Q1 (2020-04 to 2020-06) will be (Draft) [20% of
 - Expose internal and external (all) services as APIs
 - Teams interact through automated digital services
 
-#### Goals for IT development and operation teams
+### Goals for IT development and operation teams
 
 - On demand deployment
 - Recover from incidents/errors in less than 1 day
 - Less than 15% of changes cause incidents/errors
 
-#### Goals for IT service teams
+### Goals for IT service teams
 
 - Self service
   - To enable rapid feedback
   - Create automated processes to realize efficiencies
   - Enable streamlined responsible distributed decision making
 
-### IITB Teams Must
+## IITB Teams Must
 
 **Starting now! For all projects and teams!**
 
-#### Align with GC IT Policy and Direction
+### Align with GC IT Policy and Direction
 
 - [Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html)
 - [Digital Operations Strategic Plan: 2018-2022](https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html)
@@ -70,7 +68,7 @@ The first quarterly strategy for Q1 (2020-04 to 2020-06) will be (Draft) [20% of
 
 Consult [Appendix A](#appendix-A---Details-of-GC-Information-Technology-Direction) for details.
 
-#### Cultural
+### Cultural
 
 - **IT teams must use about 10% of their time to learn/try new technologies, attend events/conferences, and stay up to date on trends and technologies related to their work**
   - _Make it a requirement in performance agreements of directors, managers and team leads_
@@ -103,7 +101,7 @@ Consult [Appendix A](#appendix-A---Details-of-GC-Information-Technology-Directio
 - Build multidisciplinary teams capable of delivering services from start to end of life
 - Encourages collaboration and fosters a culture of flexibility, mobility and well-being
 
-#### Process
+### Process
 
 - **IT teams must use about 10% of their time for improving existing processes and automation of testing, deployments and other manual processes**
   - _Make it a requirement in performance agreements of managers and team leads_
@@ -136,7 +134,7 @@ Consult [Appendix A](#appendix-A---Details-of-GC-Information-Technology-Directio
   - Promote continuous departmental improvement by creating a venue where teams can learn from experts in modern IT delivery best practices and principles
   - Invest in teams staying up to date and continually improving their tools and the way they work
 
-#### Technical
+### Technical
 
 - **IT teams must save all projects artifacts to a version control system**
   - _Help SSC GCcode become officially supported_
@@ -157,13 +155,13 @@ Consult [Appendix A](#appendix-A---Details-of-GC-Information-Technology-Directio
 - Security must be involved from the start and in all phase of projects
 - Security must develop automated tests
 
-#### Measurement
+### Measurement
 
 - IT teams must collect data throughout the value stream
 - IT teams must establish Work In Progress (WIP) limits based on team capacity and cognitive load
 - IT teams must make collected data and project status visible to the business
 
-### Appendix A - Details of GC Information Technology Direction
+## Appendix A - Details of GC Information Technology Direction
 
 - [Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html)
   - Design with users

@@ -4,11 +4,9 @@ title: Tendances et besoins futurs
 ref: trends
 lang: fr
 status: posted
-sections: Travaux en cours
+sections: Archives
 permalink: /tendances.html
 ---
-
-## {{ page.title }}
 
 - UnGC
   - Cela va-t-il se produire ? Si oui, quand ?

@@ -4,11 +4,9 @@ title: Strategy Map
 ref: summary
 lang: en
 status: posted
-sections: Ready For Use
+sections: Archives
 permalink: /strategy-summary.html
 ---
-
-## {{ page.title }}
 
 This is our strategy map that shows the capabilities that IITB and ESDC need to continuously improve as well as the evolution towards the government as a service (OneGC) vision included in the [Digital Operations Strategic Plan: 2018-2022](https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html) and the [Policy on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603).
 

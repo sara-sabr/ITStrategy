@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Granting access to Web tools at ESDC
+title: Granting More Open Access to the Internet for IITB Employees
 ref: web-services-access
 lang: en
 status: posted
@@ -8,76 +8,75 @@ sections: Work In Progress
 permalink: /web-services-access.html
 ---
 
-## Granting access to Web tools at ESDC
+## Summary
 
-### Purpose
-
-To seek endorsement for granting access to more Web tools or Software as a Service (SaaS) for IITB employees, as a step toward broader open access to the Internet for all ESDC employees.
-
-### Background
-
-The upcoming [Policy on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603) replaces the [Policy on Acceptable Network and Device Use (PANDU)](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=27122) but keeps the intent to "provide open access to Internet tools and services to support public servants in their work duties, enhance collaboration and networking with their peers".
-The policy applies only to unclassified interactions (data, information, code, etc.).
-
-### Issue
-
-ESDC is currently blocking access to some popular and useful collaboration Web tools like Google Docs, Google Hangouts and OneDrive.
-Even though TBS policy recommends open access to these tools by default, ESDC's rationale for blocking them is primarily to prevent an accidental leak of protected information by employees.
-
-A proposed mitigation item to reduce this risk is to augment the Data Loss Prevention (DLP) capability with a tool that enforces classification of documents and emails.
-However, as the evaluated options to date are costly, implementation is not being considered for the short term.
-
-The following Web tools can already be accessed on the ESDC network and are being used by employees (See [Appendix B](#appendix-b---web-tools-already-accessible)).
-
-### Considerations
-
-Departments are leveraging Web tools to collaborate and engage with citizens and public administrations both in Canada and across the globe.
+Departments are leveraging Web tools or Software as a Service (SaaS) to collaborate and engage with citizens and public administrations both in Canada and across the globe.
 For example, the latest Open Government Plan and Service and Digital Target Architecture from TBS were shared as drafts for consultation and comments on Google Docs.
+Many teams are also using Slack or GCmessage to communicate internally and across departments.
 The GC Digital Academy and Free Agents, as well as other groups, frequently use Google Forms for registration.
 
-In order to improve ESDC's ability to leverage current Web tools, a balanced approach is proposed for granting access to additional Web tools (See [Appendix A](#appendix-a---web-tools-to-grant-access)) only for IITB employees in the short term, as a step toward broader access in ESDC.
-As IITB employees generally don't deal with protected information and are well informed and trained on the management of information, the risk would be minimal.
-In addition, the benefits should bring great value such as enhancing collaboration and efficiency, increasing job satisfaction and helping attract and retain IT talent.
+In order to improve ESDC's ability to leverage current Web tools, a more open access to Web tools or Software as a Service (SaaS) for IITB employees is recommended, as a step toward broader open access to the Internet for more ESDC employees.
 
-### Recommendations
+IITB employees produce the software and tools needed by ESDC Staff to perform their duties.
+IITB employees work description does not require them to process client files like ESDC front staff do.
+Producing the software and tools require important amount of collaboration between teams in order to remain responsive to client's need.
+In addition, the benefits should bring great value such as enhancing collaboration and efficiency, increasing job satisfaction and helping attract and retain IT talent.
+It would also avoid having to use workarounds or alternative sites.
+
+[Appendix B](#appendix-b---web-tools-already-accessible) lists Web tools already accessible on the ESDC network and used by employees.
+
+## Background
+
+The Government of Canada recognizes that Security must be handled with user experience in mind, and that public servants require the right tools to do their work.
+Otherwise the government is at risk of falling behind citizen's expectations.
+This is highlighted in the 2018 [Direction on Enabling Web Access to Web Services: Policy Implementation Notice](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32588) that provides direction to departments on enabling access to web services, in accordance with the [Policy on Acceptable Network and Device Use (PANDU)](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=27122).
+The upcoming [Policy](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603) and [Directive on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601) replaces the PANDU but keeps the intent to "provide open access to Internet tools and services to support public servants in their work duties, enhance collaboration and networking with their peers".
+See the [Appendix C: Examples of Acceptable Network and Device Use](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32605).
+
+This is also supported by the [Values and ethics of the public service](https://www.canada.ca/en/government/publicservice/values.html) and [ESDC Code of conduct](https://www.canada.ca/en/employment-social-development/corporate/code-conduct.html) in particular [Section D) Stewardship on the use of Electronic Networks](https://www.canada.ca/en/employment-social-development/corporate/code-conduct.html#a3.4)
+
+## Current Status
+
+ESDC is currently blocking access to some popular and useful collaboration Web tools and SaaS like Google Docs, Google Hangouts and OneDrive (see [Appendix A](#appendix-a---web-tools-currently-blocked)).
+The rationale for blocking them is primarily to prevent an accidental leak of protected information by employees.
+
+A proposed mitigation item to reduce this risk is to augment the Data Loss Prevention (DLP) capability with a tool that enforces classification of documents and emails.
+However, implementation is not being considered for the short term.
+
+A firewall upgrade is underway and configuration for categories and sites blocked or unblocked will be documented and reviewed.
+
+## Recommendations
 
 To support the adoption of the new [Policy on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603), ESDC needs to:
 
-- Grant access to additional Web tools (see [Appendix A](#appendix-a---web-tools-to-grant-access)) for IITB employees, as a step toward broader open access to the Internet for ESDC employees;
-- Perform an evaluation of security monitoring tools, active at the source (application and database) and the perimeter (DLP), to mitigate future risks associated with broader open access to the Internet; and
+- Grant access to the following Web site categories (or related categories) for IITB employees: Instant Messaging, Document Editing, Web Conferencing and Email and File Storage;
+- Ensure IITB employees' understanding of document classification and that Web tools available on the Internet are only to be used with unclassified data and information;
+- Perform an evaluation of security monitoring and classification tools to mitigate future risks associated with broader open access to the Internet; and
 - Review access rights to data and information.
 
-### Next Steps
+## Appendix A - Web Tools Currently Blocked
 
-The IT Strategy team will work with teams in IITB to:
-
-- Ensure the following Web tools (see [Appendix A](#appendix-a---web-tools-to-grant-access)) are functional on the network for IITB employees;
-- Ensure IITB employees' understanding of document classification and that Web tools available on the Internet are only to be used with unclassified data and information; and
-- Assist with an options analysis of document classification tools.
-
-## Appendix A - Web tools to grant access
-
-### Instant Messaging (room-based)
+## Instant Messaging
 
 **Benefit:** Access and search more than 10k messages (limitation of Slack free plan), Encrypt storage of messages, Get real-time updates on website (e.g. notifications)
 
 | Name            | URL           | Notes  |
 | ----------- |:-------------:| ------:|
-| Hack Chat | https://hack.chat |  |
 | Gitter | https://gitter.im |  |
 | Riot IM | https://riot.im | Client for Matrix homeserver |
 | RocketChat | https://open.rocket.chat |  |
-| Slack | https://slack.com | Websockets blocked |
+| ... |  |  |
 
-### Document Editing
+## Document Editing
 
 **Benefit:** Share, review and co-create documents with stakeholders (e.g. other departments, governments, private sector)
 
 | Name        | URL           | Notes  |
 | ----------- |:-------------:| ------:|
 | Google Docs (incl. Sheets, Slides, Forms) | https://docs.google.com |  |
+| ... |  |  |
 
-### Web Conferencing
+## Web Conferencing
 
 **Benefit:** Meet virtually with external stakeholders without installing or running a plugin (with sometimes limited success)
 
@@ -86,29 +85,22 @@ The IT Strategy team will work with teams in IITB to:
 | BlueJeans | https://www.bluejeans.com |  |
 | Google Hangouts | https://hangouts.google.com |  |
 | Jitsi Meet | https://meet.jit.si |  |
+| ... |  |  |
 
-### Version Control System (VCS) and Project Management
-
-**Benefit:** Authenticate with SSH keys (better security), Get real-time updates on website (Issues, Pull Requests, Kanban Board, etc.)
-
-| Name        | URL           | Notes  |
-| ----------- |:-------------:| ------:|
-| Github | https://github.com | Websockets and SSH blocked |
-
-### Email
+## Email
 
 **Benefit:** Improve work–life balance (without having to find workarounds)
 
 | Name        | URL           | Notes  |
 | ----------- |:-------------:| ------:|
+| Fastmail | https://www.fastmail.com |  |
 | Google Mail | https://mail.google.com |  |
+| Mailbox.org | https://mailbox.org |  |
 | Outlook | https://outlook.live.com |  |
 | Yahoo Mail | https://mail.yahoo.com |  |
-| Fastmail | https://www.fastmail.com |  |
-| Mailbox.org | https://mailbox.org |  |
-| Posteo | https://posteo.de |  |
+| ... |  |  |
 
-### File Storage
+## File Storage
 
 **Benefit:** Share and collaborate on documents with external stakeholders
 
@@ -117,31 +109,25 @@ The IT Strategy team will work with teams in IITB to:
 | Dropbox | https://www.dropbox.com |  |
 | Framadrop | https://framadrop.org |  |
 | Google Drive | https://drive.google.com |  |
-| OneDrive | https://onedrive.live.com |  |
+| OneDrive | https://onedrive.live.com | Required for Office365 |
 | pCloud | https://www.pcloud.com |  |
+| ... |  |  |
 
-### Online Learning and Sandbox
+## Appendix B - Web Tools Already Accessible
 
-**Benefit:** Experiment and learn modern technologies
+**Note:** Websockets, 3rd party cookies blocked and SSH blocked
 
-| Name        | URL           | Notes  |
-| ----------- |:-------------:| ------:|
-| Docker Playground | https://labs.play-with-docker.com | Websockets blocked |
-
-## Appendix B - Web tools already accessible
-
-Note: Inconsistent browser configurations (Websockets, 3rd party cookies blocked), SSH blocked
-
-### Instant Messaging (room-based)
+## Instant Messaging (room-based)
 
 | Name        | URL           | Notes  |
 | ----------- |:-------------:| ------:|
-| Librem One Chat | https://chat.librem.one | Homeserver only, requires client |
-| Matrix.org | https://matrix.org | Homeserver only, requires client |
+| Librem One Chat | https://chat.librem.one | Homeserver only, requires client (riot.im) |
+| Matrix.org | https://matrix.org | Homeserver only, requires client (riot.im) |
+| Slack | https://slack.com | Websockets blocked |
 | Zulip | https://zulipchat.com |  |
 | ... |  |  |
 
-### Document Editing
+## Document Editing
 
 | Name        | URL           | Notes  |
 | ----------- |:-------------:| ------:|
@@ -150,45 +136,47 @@ Note: Inconsistent browser configurations (Websockets, 3rd party cookies blocked
 | Zoho | https://www.zoho.com |  |
 | ... |  |  |
 
-### Web Conferencing
+## Web Conferencing
 
 | Name        | URL           | Notes  |
 | ----------- |:-------------:| ------:|
 | Zoom | https://zoom.us |  |
 | ... |  |  |
 
-### Version Control System (VCS) and Project Management
+## Version Control System (VCS) and Project Management
 
 | Name        | URL           | Notes  |
 | ----------- |:-------------:| ------:|
 | Bitbucket | https://bitbucket.org |  |
 | Framagit | https://framagit.org |  |
-| Gitlab | https://gitlab.com |  |
+| GitHub | https://github.com | Websockets and SSH blocked |
+| GitLab | https://gitlab.com |  |
 | ... |  |  |
 
-### Project Management and Kanban
+## Project Management and Kanban
 
 | Name        | URL           | Notes  |
 | ----------- |:-------------:| ------:|
 | Smartsheets | https://www.smartsheet.com |  |
-| Trello | https://trello.com |  |
 | Taiga | https://taiga.io |  |
+| Trello | https://trello.com |  |
 | ZenHub | https://www.zenhub.com |  |
 | Zube | https://zube.io | Websockets blocked |
 | ... |  |  |
 
-### Online Learning and Sandbox
+## Online Learning and Sandbox
 
 | Name        | URL           | Notes  |
 | ----------- |:-------------:| ------:|
 | Coursera | https://www.coursera.org |  |
-| Edx | https://www.edx.org |  |
 | Docker Classroom | https://training.play-with-docker.com |  |
+| Docker Playground | https://labs.play-with-docker.com | Websockets blocked |
+| Edx | https://www.edx.org |  |
 | Udacity | https://www.udacity.com/ |  |
 | Udemy | https://www.udemy.com/ |  |
 | ... |  |  |
 
-### Package/Image Registry
+## Package/Image Registry
 
 | Name        | URL           | Notes  |
 | ----------- |:-------------:| ------:|
@@ -198,7 +186,7 @@ Note: Inconsistent browser configurations (Websockets, 3rd party cookies blocked
 | Ruby Gems | https://rubygems.org |  |
 | ... |  |  |
 
-### Social Networks
+## Social Networks
 
 | Name        | URL           | Notes  |
 | ----------- |:-------------:| ------:|
@@ -209,7 +197,7 @@ Note: Inconsistent browser configurations (Websockets, 3rd party cookies blocked
 | Twitter | https://twitter.com |  |
 | ... |  |  |
 
-### Streaming
+## Streaming
 
 | Name        | URL           | Notes  |
 | ----------- |:-------------:| ------:|
@@ -217,7 +205,7 @@ Note: Inconsistent browser configurations (Websockets, 3rd party cookies blocked
 | YouTube | https://www.youtube.com |  |
 | ... |  |  |
 
-### Other
+## Other
 
 | Name        | URL           | Notes  |
 | ----------- |:-------------:| ------:|

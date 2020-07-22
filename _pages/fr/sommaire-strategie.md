@@ -4,11 +4,9 @@ title: Carte de stratégies
 ref: summary
 lang: fr
 status: posted
-sections: Prêt à utiliser
+sections: Archives
 permalink: /sommaire-strategie.html
 ---
-
-## {{ page.title }}
 
 Voici notre carte stratégique qui montre les capacités que la DGIIT et EDSC doivent continuellement améliorer ainsi que l'évolution vers la vision du gouvernement en tant que service (OneGC) incluse dans le [Plan stratégique des opérations numériques de 2018 à 2022](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/plan-strategique-operations-numerique-2018-2022.html) et dans la [Politique sur les services et le numérique](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32603).
 

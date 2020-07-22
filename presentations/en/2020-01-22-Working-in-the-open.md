@@ -82,7 +82,6 @@ Note:
 - Trust
   - You trust your team
   - You trust this is good for the public
-- [Accountability](https://product-guide.18f.gov/working-in-a-way-that-reflects-our-values/working-in-the-open/)
 
 ---
 
@@ -169,7 +168,7 @@ To be agile, in an unpredictable world
 Note:
 
 - Encourages good practice (people will see your work!)
-  - In software development, improve security, accountability and sustainability (see [Working in the Open from 18F Product Guide](https://product-guide.18f.gov/working-in-a-way-that-reflects-our-values/working-in-the-open/))
+  - In software development, improve security, accountability and sustainability
 
 ---
 

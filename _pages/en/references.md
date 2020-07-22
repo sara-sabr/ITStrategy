@@ -8,17 +8,13 @@ sections: About us
 permalink: /references-en.html
 ---
 
-<!-- markdownlint-disable MD025-->
-
-# {{ page.title }}
-
-<!-- markdownlint-enable MD025 -->
-
 The following are reference materials for the IT Strategy team to use.
 
 These materials are meant to be sources of inspiration, guidance, or policies that we need to consider when crafting our strategies.
 
-Some of that content may only be available on GC/ESDC network so if the link doesn't work externally, we apologize for the inconvenience!
+Some of that content may only be available on GC/ESDC network so if the link doesn't work externally, we apologize for the inconvenience.
+
+Don't hesitate to send us proposals of books, articles, videos or even policies!
 
 ## ESDC and GoC Specifics
 
@@ -36,6 +32,137 @@ Some of that content may only be available on GC/ESDC network so if the link doe
 - [TB Directive on Management of Information Technology](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249)
 - [TB Policy on service and digital](http://dialogue/grp/BU6810070/Shared%20Documents/Reference%20Materials/Policy%20on%20service%20and%20digital.docx) ([GCCollab group](https://gccollab.ca/groups/profile/588431/endigital-numu00e9riquefrdigital-numu00e9rique))
 - [TB Directive on service and digital](http://dialogue/grp/BU6810070/Shared%20Documents/Reference%20Materials/Directive%20on%20service%20and%20digital.docx) ([GCCollab group](https://gccollab.ca/groups/profile/588431/endigital-numu00e9riquefrdigital-numu00e9rique))
+- [TB Directive on Security Management](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32611&section=procedure&p=B)
+
+## Tools
+
+These tools are all publicly available, meaning information should be transitory and no protected information should be sent or discussed. They are intended for informal collaboration and information sharing.
+
+For further guidance on working in the open, please refer to the following blog on [Working in the Open](https://sara-sabr.github.io/ITStrategy/2019/11/19/working-in-the-open-part-1.html).
+
+### Collaboration
+
+#### Government of Canada Specific
+
+- [GCcollab](https://gccollab.ca)
+- [GCmessage](https://message.gccollab.ca)
+
+#### Videoconferencing
+
+- [Jitsi Meet](https://meet.jit.si) (no account needed)
+- [BigBlueButton](https://demo.bigbluebutton.org)
+- [Zoom](https://zoom.us)
+- [Google Hangouts](https://hangouts.google.com)
+- [Skype](https://www.skype.com)
+- [Blue Jeans](https://www.bluejeans.com)
+
+#### Instant Messaging - Channel-based
+
+- [Slack](https://slack.com): Can be used with work e-mail, though may require access to email to create account
+- [Riot (Matrix)](https://riot.im/app/): Decentralized IM and can have E2E encrypted messages
+- [Rocket Chat](https://open.rocket.chat)
+- [Gitter](https://gitter.im): For developers and users of GitHub repositories
+- [Framateam](https://framateam.org)
+
+#### Instant Messaging - One-to-One (or Many)
+
+- [Signal](https://signal.org): Encrypted
+- [Jami](https://jami.net): Decentralized & Encrypted
+- [WhatsApp](https://www.whatsapp.com): Has videoconferencing
+
+#### Text Editor (real-time)
+
+- [Framapad](https://framapad.org) (no account needed)
+- [CryptPad](https://cryptpad.fr): For text, presentation, spreadsheet, etc. - encrypted (account optional)
+- [HackMD](https://hackmd.io): Markdown (account optional)
+
+#### Task Management (Kanban)
+
+- [Trello](https://trello.com)
+- [Framaboard](https://framaboard.org)
+
+#### Whiteboard
+
+- [Web Whiteboard](https://www.webwhiteboard.com) (no account needed)
+- [Miro Board](https://miro.com)
+- [Framamemo](https://framemo.org): Post-it notes
+
+#### Mindmap
+
+- [Coggle](https://coggle.it)
+- [Framindmap](https://framindmap.org)
+
+#### Project Management
+
+- [Asana](https://asana.com)
+- [Taiga](https://taiga.io)
+
+#### Ad-hoc Document Sharing (no account needed)
+
+- [Framadrop](https://framadrop.org): Large files
+- [Framabin](https://framabin.org): Text
+- [Framapic](https://framapic.org): Image
+- [Framalink](https://frama.link): Url shortener
+
+#### Survey
+
+- [Framadate](https://framadate.org): Vote for a date of something else
+- [Framavox](https://framavox.org)
+
+#### Forms
+
+- [Framaforms](https://framaforms.org)
+
+#### Hangout Space
+
+- [Web Whiteboard](https://www.webwhiteboard.com) (no account needed)
+- [Miro Board](https://miro.com)
+- [Framamemo](https://framemo.org): Post-it notes
+
+#### Mindmap
+
+- [Coggle](https://coggle.it)
+- [Framindmap](https://framindmap.org)
+
+#### Project Management
+
+- [Asana](https://asana.com)
+- [Taiga](https://taiga.io)
+
+#### Ad-hoc Document Sharing (no account needed)
+
+- [Framadrop](https://framadrop.org): Large files
+- [Framabin](https://framabin.org): Text
+- [Framapic](https://framapic.org): Image
+- [Framalink](https://frama.link): Url shortener
+
+#### Survey
+
+- [Framadate](https://framadate.org): Vote for a date of something else
+- [Framavox](https://framavox.org)
+
+#### Forms
+
+- [Framaforms](https://framaforms.org)
+
+#### Hangout Space
+
+- [Hubs by Mozilla](https://hubs.mozilla.com/#/) (no account needed)
+
+#### Development
+
+- [GitHub](https://github.com)
+- [GitLab](https://about.gitlab.com)
+- [Framagit](https://framagit.org)
+- [VS Code Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare): Visual Studio Live Share enables you to collaboratively edit and debug with others in real time
+
+#### Design Tools
+
+- [Draw.io](https://app.diagrams.net) (no account needed)
+- [Canva](https://www.canva.com): Design infographics, cards etc
+- [XD](https://www.adobe.com/ca/products/xd/details.html) High fidelity mock up tool with collaborative features
+- [Figma](https://www.figma.com) An interface design application that runs in the browser
+- [Sketch](https://www.sketch.com) creates, prototypes, collaborates and turns ideas into incredible products with the definitive platform for digital design.
 
 ## General
 
@@ -71,7 +198,6 @@ Some of that content may only be available on GC/ESDC network so if the link doe
 ## FWD50
 
 - [2018 list of presentations](https://2018.fwd50.com/)
-- [2018 Digital Social Innovation presentation from Digital Minister of Taiwan](https://www.slideshare.net/FWD50/fwd50-2018-digital-social-innovation)
 
 ## Talks
 
@@ -114,13 +240,32 @@ Many IT Revolution books have audio samples of the opening chapters available on
 
 ## Learning Resources
 
+### Cloud
+
+- [AWS Certifications](https://aws.amazon.com/certification/): A host of AWS Certifications including Solutions Architecture, SysOps Administrator, DevOps Engineer, Machine Learning Speciality, Big Data, and more. Lots of online material available to study including [AWS Tutorial Series](https://www.youtube.com/channel/UClLLJjpSWRRa1BosQrNVDjA) and their own documentation such as the [AWS Well-Architected Framework](https://aws.amazon.com/architecture/well-architected/). The most popular certification is the [Associate Solutions Architecture Certification](https://aws.amazon.com/certification/certified-solutions-architect-associate/) and a free online course for it can be found [here](https://www.youtube.com/watch?v=Ia-UEYYR44s&list=WL&index=28&t=615s).
+- [Azure Certifications](https://www.microsoft.com/en-us/learning/azure-exams.aspx): Offers a list of certifications and associated online training to prepare. For example, courses on [Developing Solutions for Microsoft Azure](https://docs.microsoft.com/fr-fr/learn/certifications/exams/az-204?wt.mc_id=learningredirect_certs-web-wwl) which is followed by a "Ways to prepare" section with content available to study.
+
+### General
+
 - [MOOC](https://www.mooc.org/): Massive Open Online Courses (MOOCs) are free online courses available for anyone to enroll. MOOCs provide an affordable and flexible way to learn new skills, advance your career and deliver quality educational experiences at scale.
 - [Coursera](https://www.coursera.org/): Develop your skills with online courses, certificates and diplomas offered by the best universities and companies in the world
 - [Udemy](https://www.udemy.com/): Online learning platform aimed at professional adults and students that has more than 50 million students and 57,000 instructors teaching courses in over 65 languages
-- [Brilliant](https://brilliant.org/daily-problems/): Brilliant creates a culture of learning around inquiry, curiosity, and openness to failure. All of our courses are written with these principles of learning in mind. Has great courses from mathematical foundations to quantum computing and neural networks. Has a mobile application as well.
-- [Khan Academy](https://khanacademy.org): Khan Academy is a non-profit educational organization that produces short lessons in the form of videos covering a wide variety of topics. [Also available in french](https://fr.khanacademy.org/).
-- [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw): Combination of math and entertainment. The goal is for explanations to be driven by animations and for difficult problems to be made simple with changes in perspective. Has videos on [blockchain](https://www.youtube.com/watch?v=bBC-nXj3Ng4&t=1s), and [neural networks](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi), for example.
+- [Khan Academy](https://www.khanacademy.org): Khan Academy is a non-profit educational organization that produces short lessons in the form of videos covering a wide variety of topics. [Also available in french](https://fr.khanacademy.org/).
+
+### Language
+
+- [Speaker](https://www.spreaker.com/show/government-french-oral-training)
+- [Canada School of Public Service - Language maintenance tools](https://www.csps-efpc.gc.ca/lt/index-eng.aspx)
+- [Public Service Commission - Self-assessment tests](https://www.canada.ca/en/public-service-commission/services/second-language-testing-public-service/self-assessment-tests.html)
+
+#### Programming
+
 - [Derek Banas](https://www.youtube.com/channel/UCwRXb5dUK4cvsHbx-rGzSgw): Great fundamentals programming tutorials for many languages and tools including Java, PHP, Python, C++, Javascript, MySQL, and more!
+
+#### Math / Logic
+
+- [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw): Combination of math and entertainment. The goal is for explanations to be driven by animations and for difficult problems to be made simple with changes in perspective. Has videos on [blockchain](https://www.youtube.com/watch?v=bBC-nXj3Ng4&t=1s), and [Neural Networks](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi), for example.
+- [Brilliant](https://brilliant.org/daily-problems/): Brilliant creates a culture of learning around inquiry, curiosity, and openness to failure. All of our courses are written with these principles of learning in mind. Has great courses from mathematical foundations to quantum computing and neural networks. Has a mobile application as well.
 
 ## Related to Strategies
 

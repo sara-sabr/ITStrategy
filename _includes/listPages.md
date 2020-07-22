@@ -20,3 +20,8 @@
 
 {%- endif -%}
 {%- endfor -%}
+
+### Archives
+
+- **[Archives](archives{%- if page.lang == "fr" -%}-fr{%- endif -%}.html)**
+

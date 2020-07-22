@@ -16,6 +16,12 @@
       "pattern": "http://dialogue"
     },
     {
+      "pattern": "https://dialogue"
+    },
+    {
+      "pattern": "https://014gc.sharepoint.com"
+    },
+    {
       "pattern": "https://gcconnex.gc.ca"
     },
     {
@@ -47,6 +53,36 @@
     },
     {
       "pattern": "https://esdc.sabacloud.com"
+    },
+    {
+      "pattern": "https://www.canva.com"
+    },
+    {
+      "pattern": "https://meet.jit.si"
+    },
+    {
+      "pattern": "https://framavox.org"
+    },
+    {
+      "pattern": "https://open.canada.ca"
+    },
+    {
+      "pattern": "https://www.pcloud.com"
+    },
+    {
+      "pattern": "https://pm.gc.ca/"
+    },
+    {
+      "pattern": "http://srmis-sigdi-iagent.prv"      
+    },
+    {
+      "pattern": "https://www.linkedin.com/in/boris-lublinsky-b6a4a"
+    },
+    {
+      "pattern": "https://www.tpsgc-pwgsc.gc.ca/app-acq/cral-sarc/lgcl-ctgr-eng.html"
+    },
+    {
+      "pattern": "https://www.surveymonkey.com"
     }
   ]
 }
