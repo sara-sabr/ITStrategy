@@ -10,7 +10,7 @@ permalink: /human-development-life-cycle.html
 
 The vision of Human Development Life Cycle (HDLC) is when the government of canada can follow a citizens from cradle to grave, providing services through modern technologies and interacting seamlessly with them through digital infrastructure.
 
-### What can prevent implementation of HDLC
+## What can prevent implementation of HDLC
 
 1. The ability to freely collect information as it is governed by existing laws and regulations, such as
     - Privacy Act
@@ -18,7 +18,7 @@ The vision of Human Development Life Cycle (HDLC) is when the government of cana
     - Provincial privacy laws
 2. Technologies such as block chain may threaten the current centralized model of data management which could challenge the proposed implementation of the HDLC which requires data to be freely available and exchangeable between many levels of government. More research required in this area.
 
-### Advantages of decentralizing data outside of government
+## Advantages of decentralizing data outside of government
 
 - Leverage private sector resources and capabilities (Ex: Facebook's ability to attract users)
 - Increased public choice (citizens opt what data to make available)
@@ -26,7 +26,7 @@ The vision of Human Development Life Cycle (HDLC) is when the government of cana
 - Improves the ability to gain a complete picture of all data held about an individual, within the legal boundaries provided
 - Using AI learn to predict correct information based on a plethora of information available (public or otherwise)
 
-### Disadvantages of decentralizing data outside of government
+## Disadvantages of decentralizing data outside of government
 
 - Frequent and constant interoperability endpoint updates required
 - Higher complexity for data correlation due to lack of unified interoperability standards
@@ -34,7 +34,7 @@ The vision of Human Development Life Cycle (HDLC) is when the government of cana
 - Data duplication which complicates data management (four primary addresses for one person)
 - Higher complexity of Identity Management (possible AI application - facial recognition on profile pictures)
 
-### A Story of The Singh family's Human Development Lifecycle (HDLC)
+## A Story of The Singh family's Human Development Lifecycle (HDLC)
 
 Maman and Papa Singh found out that they're pregnant May 1st, 2019 after confirming the news with their family doctor. At their preferred banking institution, an account is opened with a deposit equal to their *parental benefits*.
 

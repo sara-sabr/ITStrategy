@@ -16,7 +16,7 @@ IT Strategies are meant to move the Innovation and Information Technology Branch
 - Be efficient in managing its operations
 - Be connected with IM/IT partners and suppliers
 
-### 1. **Percentage of ESDC Services consumable by APIs**
+## 1. **Percentage of ESDC Services consumable by APIs**
 
 ESDC services provided to the public or to other departments will need to be delivered digitally. This means via APIs. This transformation to digital will be measured by the rate at which analogue services are changed to digital ones.
 
@@ -24,7 +24,7 @@ The indicator will be measured by using [ESDC's Service Catalogue](https://www.c
 
 `service API percentage = digital services / total services`  
 
-### 2. **Rate of decrease in processing time of ESDC Services**
+## 2. **Rate of decrease in processing time of ESDC Services**
 
 The processing time of ESDC services that are provided to the public, to other departments, or to other groups within ESDC, will be an indication of improvement. The measurement will be the reduction in time, not the time itself, focusing on continuous improvement rather than a hard target.
 
@@ -32,7 +32,7 @@ The indicator will be measured by using [ESDC's Service Catalogue](https://www.c
 
 `rate of service improvement = (processing time year_n - processing time year_n-1) / processing time year_n-1`
 
-### 3. **Reduction in toil of IITB and ESDC Services**
+## 3. **Reduction in toil of IITB and ESDC Services**
 
 Toil is the kind of work tied to running a production service that tends to be manual, repetitive, automatable, tactical devoid of enduring value, and that scales linearly as a service grows. Processing time of ESDC services may decrease by increasing manual labour but that would defeat the purpose of digital and jeopardize the service's sustainability.
 
@@ -48,13 +48,13 @@ For service requests (e.g. Helpdesk):
 
 For the development side, there would be multiple metrics, most of them being influenced by the evolution toward DevOps:
 
-#### Throughput
+### Throughput
 
 - `release ratio = code deployments / dev personnel`
 - `lead time for changes ratio =  time from code commit to running in production / dev personnel`
 - `test ratio = tests done / dev personnel`
 
-#### Stability
+### Stability
 
 - `time to restore ratio = time to restore service when incident occurs / dev personnel`
 - `change fail rate ratio = % of changes resulting in degraded service or remediation required / dev personnel`
@@ -71,7 +71,7 @@ And finally, for each of these ratios, we measure the rate at which they increas
 
 `rate of X = (ratio x year_n - ratio x year_n-1) / ratio x year_n-1`
 
-### 4. **Availability uptime of ESDC core systems**
+## 4. **Availability uptime of ESDC core systems**
 
 Moving IITB into a service-oriented organization will require IITB to manage the complexity and growth of its services pro-actively. The measurement of availability is driven by time loss whereas the measurement of reliability is driven by the frequency and impact of failures. This indicator focuses on availability as it's what clients of the service are concerned with. The ***service's*** maximum allowable downtime, as agreed by the BCP Business Impact Analysis exercise, will be used to assess IITB's service availability. The Core systems will be the ones flagged as *high business value* within [ESDC's Application Portfolio Management (APM) program](http://dialogue/grp/PR6303013/APM_Program/default.aspx).
 
@@ -81,7 +81,7 @@ Moving IITB into a service-oriented organization will require IITB to manage the
 
 *Note:* Services are never expected to be up 100% of the time. [See here](http://www.gcpedia.gc.ca/wiki/OCIO_Application_Portfolio_Management/Application_Portfolio_Management_User_Guide#Application_Mission_Criticality_and_Critical_Services) for more details.
 
-### 5. **Quality Work**
+## 5. **Quality Work**
 
 This indicator monitors how time is spent in order to measure the quality of work.
 
@@ -96,19 +96,19 @@ And the improvement comes from more time being spent on Projects rather than Cha
 
 `quality of work ratio = (projects work / changes or unplanned work) / dev personnel`
 
-### 6. **Reduction in cyber incidents**
+## 6. **Reduction in cyber incidents**
 
 This indicator will monitor the number of cyber-incidents across ESDC and measure the rate at which they decrease.
 
 `rate of cyber incidents = (incidents year_n - incidents year_n-1) / incidents year_n-1`
 
-### 7. **Increase cyber resilience**
+## 7. **Increase cyber resilience**
 
 Cyber resilience is the ability to quickly mitigate and remediate a breach, whether it be from human error or insecure software resulting in operational disruption, data theft or public trust degradation. Cyber resilience will be measured by a decrease rate of intrusion, which is a complex measurement using security frameworks like the [Mitre Att&amp;ck Matrix](https://attack.mitre.org/).
 
 `rate of cyber resilience = TBD`
 
-### 8. **Client Satisfaction of IITB Services**
+## 8. **Client Satisfaction of IITB Services**
 
 This indicator will use a yearly client survey to capture client satisfaction. Clients are lines of businesses across ESDC. This indicator will be qualitative in nature as client opinions are subjective, and will be used to assessed the perceptions of IITB across ESDC. Note that this survey is different than IITB's APM Program. While the APM program assesses specific applications performance, this Client Satisfaction survey is to assess IITB's overall perception.
 

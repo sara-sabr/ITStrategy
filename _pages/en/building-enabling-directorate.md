@@ -8,11 +8,11 @@ sections: Archives
 permalink: /building-enabling-directorate.html
 ---
 
-### Update (26/20/2020)
+## Update (26/20/2020)
 
 Since reviewing the content of the book and relevant literature, and taking a course on the subject, this approach is no longer advisable. As such, it is being moved into the archive section.
 
-### Problem Statement
+## Problem Statement
 
 In [Team Topologies](https://itrevolution.com/book/team-topologies/) they write that organizations should organize themselves by nesting the four team definitions.
 
@@ -28,15 +28,15 @@ The SABR directorate contains multiple divisions underneath, one of which is the
 The IT Strategy team is an enabling team within an enabling team, and has other sibling teams that are also enabling teams.
 That being the case, how would one synchronize activities of the entire SABR directorate? Say the director was to offer their services to a team elsewhere in the organization, how best to manage and coordinate the work between the series of enabling teams within a given directorate? That is the question this document is intending to answer.
 
-### Proposal
+## Proposal
 
 This proposal looks at setting SABR as an enabling team for IITB.
 The model used for SABR may be applied elsewhere within IITB in the future.
 However the remainder for this document will focus on SABR and its divisions.
 
-#### Organizational
+### Organizational
 
-##### Internal Interactions
+#### Internal Interactions
 
 The teams may remain in their present functional structure for now, which aligns well with the governments expected structure for the sake of processes such as the Public Service Performance Management (PSPM).
 
@@ -62,11 +62,11 @@ Thirdly, an enabling team need not commit all of their time to being an enabling
 For example, in the case of the IT Strategy team they are also responsible for setting the IT strategies for the department, and thus cannot dedicate 100%(-20%) of their time to their enabling function.
 In this particular case, for example, we recommend that the IT Strategy spend a maximum of (100-20)/2 percent of their time on enabling other teams.
 
-##### External Interactions
+#### External Interactions
 
 This is an initial proposal and is intended to allow for iterations to refine and modify the process as needed.
 
-###### Interactions
+##### Interactions
 
 The book Team Topologies, referenced below, recommends that Enabling Teams whom could work with other teams via the collaboration or facilitation collaboration types for a period (potentially a few months) in order to assist them with onboarding new technologies and approaches, and improving their existing processes and procedures.
 
@@ -105,7 +105,7 @@ Between teams and other teams
 
 ---
 
-###### Tooling
+##### Tooling
 
 The amount of collaboration between the enabling teams and the enabled teams should vary significantly during the time which the enabling team is paired with the enabled team
 
@@ -115,15 +115,15 @@ The amount of collaboration between the enabling teams and the enabled teams sho
 As such, collaboration tools that allow for the rapid creation and disintegration should be leveraged
 An example of a viable tool for such a requirement would be Slack, where groups can be created and disposed of with relative ease.
 
-#### Process
+### Process
 
-##### Teams Iterative Process
+#### Teams Iterative Process
 
 - All teams within the division (under a single director) have synchronized sprints
 - Representatives from each enabling team within the enabling division meet prior to the synchronized sprint planning for the director to set division-level priorities
 - During the synchronized sprint planning meetings, ensure division-level priorities are broken down into manageable tasks
 
-##### Engaging the Enabling Teams
+#### Engaging the Enabling Teams
 
 - Potential teams to be enabled should contact the enabling teams
 - An item is created on the kanban board of the enabling team
@@ -132,6 +132,6 @@ An example of a viable tool for such a requirement would be Slack, where groups 
 
 _Note: It is important that the enabling teams have open kanban boards so that teams who have requested their attention can see where their tasks have been prioritized relative to others, or can see work in progress as the interaction takes place between the two teams._
 
-### References
+## References
 
 [Team Topologies](https://itrevolution.com/book/team-topologies/)

@@ -27,16 +27,16 @@ Enable the strategic value of IT within ESDC by reducing its risks and increasin
 
 ## Team's Guiding Principles
 
-### Work collaboratively
+## Work collaboratively
 
 Collaborate with anyone and everyone who can _add value_.
 This includes, but is not limited to, all Canadians, levels of government, departments, private sector organizations, and governments.
 
-### Continuous learning
+## Continuous learning
 
 Learning is a core part of daily activities to ensure up to date, modern, and well-researched direction.
 
-### Lead by Example
+## Lead by Example
 
 By using the approaches and technologies we champion, we are able to better respond and anticipate potential challenges.
 We also experiment with modern ways of working in order to demonstrate their value and effectiveness.

@@ -16,7 +16,7 @@ permalink: /perspectives-ti-moyen-terme.html
   - [Données de mesure](#données-de-mesure)
 - [Lectures complémentaires](#lectures-complémentaires-1)
 
-### À l'échelle du GC
+## À l'échelle du GC
 
 Les éléments fondamentaux de la vision du « Gouvernement en tant que service » sont disponibles et en production, le tout selon le [Plan stratégique des opérations numériques : Calendrier 2018-2022](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/plan-strategique-operations-numerique-2018-2022.html#ToC15). Cela comprend :
 
@@ -35,7 +35,7 @@ EDSC (surtout la DGIIT, bien qu'elle ait également influencé d'autres directio
 EDSC est un leader au sein du Conseil et des grappes d'UnGC.
 Sa propre initiative de transformation numérique se déroule bien, la Modernisation du versement des prestations (MVP) et la transformation des services avancent conformément au plan.
 
-### TI au sein d'EDSC
+## TI au sein d'EDSC
 
 Les TI sont utilisées comme un atout stratégique en vue d'améliorer les services aux citoyens et ne sont plus considérées comme une fonction « secondaire ».
 Les secteurs de services d'EDSC comprennent le coût et les risques liés à l'exploitation des TI et ont commencé à partager leur responsabilité en utilisant une gouvernance et une méthode d'investissement différentes pour réduire les risques liés aux TI.
@@ -48,7 +48,7 @@ L'objectif a été d'augmenter continuellement la fréquence des prestations de 
 La transformation en amélioration continue concerne tous les domaines dont la TI est responsable.
 Cela comprend les applications (la livraison de logiciels, les opérations) et l'infrastructure (les dispositifs d'utilisateur, les services, les réseaux).
 
-#### Dimension culturelle
+### Dimension culturelle
 
 Les employés estiment que leur travail est significatif et qu'il tire parti de leur expertise.
 Ils ont les outils et les ressources nécessaires pour faire le travail.
@@ -74,12 +74,12 @@ La responsabilité de la construction, du déploiement et de l'entretien des sys
 
 Dans l'ensemble, les employés qui travaillent en TI à EDSC sont plus heureux, plus productifs et plus à jour sur la technologie, ce qui les rend mieux placés pour répondre aux besoins changeants du Ministère afin qu'il puisse offrir des services plus efficaces aux Canadiens.
 
-##### Lectures complémentaires
+#### Lectures complémentaires
 
 - [Article : A typology of organisational cultures](https://qualitysafety.bmj.com/content/qhc/13/suppl_2/ii22.full.pdf) (« Une typologie des cultures organisationnelles », en anglais)
 - [Texte : Team Topologies](https://itrevolution.com/book/team-topologies/) (« Les topologies des équipes », en anglais)
 
-#### Processus
+### Processus
 
 Les processus habilitent les équipes interfonctionnelles et leur permettent de [travailler sur de nouvelles idées](https://cloud.google.com/solutions/devops/devops-process-team-experimentation) dans la poursuite d'objectifs commerciaux qui résolvent des problèmes importants.
 L'information est traitée comme un bien de l'entreprise - elle est ouverte par défaut, facilement consultable, sécurisée et non dupliquée.
@@ -96,7 +96,7 @@ La gouvernance passe à la Lean Project Management (gestion de projet Lean) où 
 La gestion des investissements d'EDSC permet les investissements plus petits et plus itératifs dans les TI.
 L'harmonisation des systèmes de contrôle visant l'atteinte des résultats souhaités sert de mesure de projet plutôt que de s'appuyer sur la réalisation des tâches.
 
-#### Questions techniques
+### Questions techniques
 
 [Les équipes sont en mesure](https://cloud.google.com/solutions/devops/devops-tech-architecture) de fournir un environnement ou un dispositif de manière automatisée, et savent que tout nouvel environnement ou dispositif généré à partir de la même configuration est identique.
 Les services de production peuvent être restaurés de façon répétée et prévisible, même lorsque des événements catastrophiques se produisent.
@@ -128,7 +128,7 @@ L'architecture d'entreprise doit coder et utiliser des solutions de contrôle de
 Les testeurs doivent coder et utiliser des solutions de contrôle de version publiques ou gouvernementales.
 Les opérations doivent coder et utiliser des solutions de contrôle de version publiques ou pangouvernementales.
 
-#### Données de mesure
+### Données de mesure
 
 Les équipes de TI utilisent des logiciels qui [recueillent des données tout au long de la chaîne de valeur](https://cloud.google.com/solutions/devops/devops-measurement-monitoring-systems) et les [regroupent pour servir différents publics](https://cloud.google.com/solutions/devops/devops-measurement-visual-management).
 
@@ -141,7 +141,7 @@ Après le diagnostic des incidents, les indices qui auraient pu prédire l'évé
 Les applications qui sont associées aux services des secteurs d'activité fournissent des mesures de la santé globale des services du Ministère aux Canadiens.
 Les mesures de rendement des secteurs d'activité servent de repères et la responsabilité de l'incidence des TI sur le mandat d'EDSC est partagée.
 
-### Lectures complémentaires
+## Lectures complémentaires
 
 - [Texte : The DevOps Handbook](https://itrevolution.com/book/the-devops-handbook/) (« Le guide Devops », en anglais)
 - [Texte : Project to Product](https://itrevolution.com/book/project-to-product/) (« Du projet au produit », en anglais)

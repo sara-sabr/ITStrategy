@@ -12,7 +12,7 @@ ESDC is a large department (~28 000 employees) of the GC that includes 2 portfol
 
 These profiles are to help categorize employees and determine their IT and business needs when creating a [long term](it-picture-long-term.md) and [medium term](it-picture-medium-term.md) visions as well as strategies to get there.
 
-### Profiles
+## Profiles
 
 - Management - Manager and above
 - Power users - Development, system/database administration, analytics/reporting
@@ -22,7 +22,7 @@ These profiles are to help categorize employees and determine their IT and busin
 - Special needs/Accessible - worker with disabilities in the workplace who requires a client's need assessment and awareness services   for adaptive technology
 - Remote/Field - Primarily works out of the office, however, may work remotely
 
-#### Management - Manager and above
+### Management - Manager and above
 
 Goals:
 
@@ -46,9 +46,9 @@ Problems:
 - Danger of accidental or intentional leak from inside
 - But intrusion from outside is not more risk
 
-#### Power users - Development, system/database administration, analytics/reporting
+### Power users - Development, system/database administration, analytics/reporting
 
-#### Client services - Work directly with the public
+### Client services - Work directly with the public
 
 Goals:
 
@@ -74,7 +74,7 @@ Problems:
 - Printer problems (Xerox)
 - IT Services can only be served virtually – takes a long time to receive a response even with a follow-up – the status of the ticket can suddenly be “resolved”  
 
-#### General users - Usually at their desk - IT Advisor
+### General users - Usually at their desk - IT Advisor
 
 Goals:
 
@@ -109,7 +109,7 @@ Problems:
 - Open source vulnerabilities
 - App team must have someone dedicated to integrate the security tools in their pipelines
 
-#### General users - Usually at their desk - Non-IT (Business) Advisor
+### General users - Usually at their desk - Non-IT (Business) Advisor
 
 Goals :
 
@@ -140,4 +140,4 @@ Problems:
 How do you give everyone the maximum attention when you have to manage more than one account?
 - No direct or positional authority over the IT department
 
-#### Special needs - Non-standard devices and tools
+### Special needs - Non-standard devices and tools

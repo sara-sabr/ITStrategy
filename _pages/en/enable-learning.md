@@ -14,7 +14,7 @@ permalink: /enable-learning.html
    3. [Compliance with Collective Agreement](#compliance-with-collective-agreement)
    4. [What Kind of Learning](#what-kind-of-learning)
 
-### Management must enable daily learning within their teams
+## Management must enable daily learning within their teams
 
 Activities which align to this include, though are not limited to
 
@@ -29,7 +29,7 @@ This approach aligns with section [18.04, part a, item 3, of the Computer System
 
 > carry out research in the employee's field of specialization not specifically related to his assigned work projects when, in the opinion of the Employer, such research is needed to enable the employee to fill his present role more adequately;
 
-### Informal Learning
+## Informal Learning
 
 There's 2 main categories of employee learning:
 
@@ -55,9 +55,9 @@ Some examples of informal learning:
 - Seeking advice from peers; and
 - Participation in communities of practice.
 
-### Compliance with Collective Agreement
+## Compliance with Collective Agreement
 
-#### 18.03 Attendance at conferences, conventions and courses
+### 18.03 Attendance at conferences, conventions and courses
 
 Career development refers to an activity which is, in the opinion of the Employer, likely to be of assistance to the employee in furthering career development and to the organization in achieving its goals. The following activities shall be deemed to be part of career development:
 
@@ -67,15 +67,15 @@ Career development refers to an activity which is, in the opinion of the Employe
 
 To assist the department in promoting a modern environment which enables a culture of learning to flourish within Employment Services and Development Canada and the Government of Canada at large the following assumption (Option 1) should be explicitly validated or Option 2 should be added as an item under section a under 18.03 Attendance at conferences, conventions and courses
 
-##### Option 1
+#### Option 1
 
 Interpret *study session* to include self directed study
 
-##### Option 2
+#### Option 2
 
 Propose a 4th line entry explicitly outlining that career development includes time given by the employer for the employee to dedicate a specific amount of time to continuous learning and continuous improvement within their domain.
 
-### What Kind of Learning
+## What Kind of Learning
 
 [The last two decades have witnessed major advances in artificial intelligence (AI) and
 robotics. Future progress is expected to be even more spectacular and many commentators predict that these technologies will transform work around the world (Brynjolfsson
