@@ -9,7 +9,6 @@ permalink: /target-solution-delivery-model-strategy-explained.html
 ---
 <!--markdownlint-disable MD026-->
 <!--markdownlint-disable MD036-->
-## {{ page.title }} <!-- omit in toc -->
 
 **The Strategy:** [see here for the strategy](strategy-target-solution-delivery-model.html) that this areas of concern document refers to
 

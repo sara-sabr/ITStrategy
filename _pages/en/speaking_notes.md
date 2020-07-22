@@ -8,8 +8,6 @@ sections: Archives
 permalink: /feedback-speaking-notes.html
 ---
 
-## {{ page.title }}
-
 {{ site.thisPageHasMoved[page.lang] }}
 
 [Working in the open and the ways you can contribute]({{ site.baseurl }}/how-to-contribute.html)

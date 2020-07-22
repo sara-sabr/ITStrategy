@@ -8,8 +8,6 @@ sections: Archives
 permalink: /tendances.html
 ---
 
-## {{ page.title }}
-
 - UnGC
   - Cela va-t-il se produire ? Si oui, quand ?
 - API Store
