@@ -7,9 +7,6 @@ status: posted
 sections: "À propos de nous"
 permalink: /references-fr.html
 ---
-<!-- markdownlint-disable MD025-->
-# {{ page.title }}
-<!-- markdownlint-enable MD025 -->
 
 Le matériel de référence présent sur cette page est utilisé par l'équipe de Stratégie TI.
 
