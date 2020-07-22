@@ -28,6 +28,9 @@ body>.container {
   line-height: 1.2;
 }
 
+footer {
+  margin-bottom: 1em;
+}
 /*============= RESETS =============*/
 
 /*-- iPhone X Remove Gutters --*/
