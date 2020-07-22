@@ -8,8 +8,6 @@ sections: Archives
 permalink: /comment-contribuer.html
 ---
 
-## {{ page.title }}
-
 L'équipe de la stratégie TI de EDSC travaille ouvertement et accueille favorablement la rétroaction informelle du travail en cours.
 La contribution au travail en cours qui est produit ouvertement diffère des examens officiels des comités que la plupart des employés du gouvernement connaissent bien.
 

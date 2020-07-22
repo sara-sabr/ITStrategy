@@ -8,8 +8,6 @@ sections: Travail en cours
 permalink: /carrefour-programmeurs-GC.html
 ---
 
-### Carrefour des programmeurs du GC
-
 Le Carrefour des programmeurs du GC (CarrefourProgGC) a été initialement lancé en 2017.
 Il s'agissait d'un site web destiné à faciliter les micro-acquisitions au sein du GC.
 Tous les contrats portaient sur du code source ouvert et avaient une valeur de 10 000 dollars ou moins.

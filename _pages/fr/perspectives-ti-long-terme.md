@@ -1,14 +1,12 @@
 ---
 layout: default
-title: Perspectives des TI à long terme
+title: Perspectives des TI à long terme - 2030
 ref: it-picture-long-term
 lang: fr
 status: posted
 sections: Vision
 permalink: /perspectives-ti-long-terme.html
 ---
-
-## Perspectives des TI à long terme - 2030
 
 - [À l'échelle du GC](#à-léchelle-du-gc)
 - [TI au sein d'EDSC](#ti-au-sein-dedsc)

@@ -8,8 +8,6 @@ sections: Archives
 permalink: /building-enabling-directorate.html
 ---
 
-## {{ page.title }}
-
 ### Update (26/20/2020)
 
 Since reviewing the content of the book and relevant literature, and taking a course on the subject, this approach is no longer advisable. As such, it is being moved into the archive section.

@@ -8,8 +8,6 @@ sections: Strategies
 permalink: /strategies-actions.html
 ---
 
-## IT Strategies and Actions
-
 This document is intended to provide an overview of of the cultural, process, and technical changes (and respective measurements) which our quarterly strategies will be promoting.
 
 - [Approach](#approach)

@@ -8,8 +8,6 @@ sections: Archives
 permalink: /how-to-contribute.html
 ---
 
-## {{ page.title }}
-
 The ESDC IT Strategy team is working in the open and welcomes informal feedbacks while work is still in progress.
 Contributing to work in progress, that is produced "in the open", differs from formal committee reviews that most government employees are familiar with.
 

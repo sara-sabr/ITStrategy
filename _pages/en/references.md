@@ -8,10 +8,6 @@ sections: About us
 permalink: /references-en.html
 ---
 
-<!-- markdownlint-disable MD025-->
-# {{ page.title }}
-<!-- markdownlint-enable MD025 -->
-
 The following are reference materials for the IT Strategy team to use.
 
 These materials are meant to be sources of inspiration, guidance, or policies that we need to consider when crafting our strategies.

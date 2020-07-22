@@ -14,8 +14,6 @@ permalink: /enable-learning.html
    3. [Compliance with Collective Agreement](#compliance-with-collective-agreement)
    4. [What Kind of Learning](#what-kind-of-learning)
 
-## Enable Learning
-
 ### Management must enable daily learning within their teams
 
 Activities which align to this include, though are not limited to

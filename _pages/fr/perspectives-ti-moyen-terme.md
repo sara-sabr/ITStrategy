@@ -1,14 +1,12 @@
 ---
 layout: default
-title: Perspectives des TI à moyen terme
+title: Perspectives des TI à moyen terme - 2025
 ref: it-picture-medium-term
 lang: fr
 status: posted
 sections: Vision
 permalink: /perspectives-ti-moyen-terme.html
 ---
-
-## Perspectives des TI à moyen terme - 2025
 
 - [À l'échelle du GC](#à-léchelle-du-gc)
 - [TI au sein d'EDSC](#ti-au-sein-dedsc)

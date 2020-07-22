@@ -8,8 +8,6 @@ sections: Work In Progress
 permalink: /web-services-access.html
 ---
 
-## Granting More Open Access to the Internet for IITB Employees
-
 ### Summary
 
 Departments are leveraging Web tools or Software as a Service (SaaS) to collaborate and engage with citizens and public administrations both in Canada and across the globe.

@@ -1,14 +1,12 @@
 ---
 layout: default
-title: Long Term IT Picture
+title: Long Term IT Picture - 2030
 ref: it-picture-long-term
 lang: en
 status: posted
 sections: Vision
 permalink: /it-picture-long-term.html
 ---
-
-## Long Term IT Picture - 2030
 
 - [GC Wide](#gc-wide)
 - [IT within ESDC](#it-within-esdc)

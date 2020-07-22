@@ -8,8 +8,6 @@ sections: Work In Progress
 permalink: /service-culture.html
 ---
 
-## Service Culture
-
 ### Everyone is a Client
 
 It is commonplace to refer to your end users as clients, though we rarely refer to those we work with as clients -- though we should. In our Service Culture, everyone who uses the work you produce, especially those directly adjacent to you in the value stream, are your clients.

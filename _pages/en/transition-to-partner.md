@@ -8,8 +8,6 @@ sections: Work In Progress
 permalink: /transition-to-partner.html
 ---
 
-## A Strategy to transition IITB to an ESDC partner
-
 This document articulates a strategy and roadmap for moving IITB into a partner role for ESDC's service delivery capability.
 
 The primary strategic goal of this transformation is to enable more rapid delivery of business-focused services at ESDC.

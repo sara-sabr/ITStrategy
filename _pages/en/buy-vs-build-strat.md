@@ -8,8 +8,6 @@ sections: Archives
 permalink: /buy-vs-build-start.html
 ---
 
-## {{ page.title }}
-
 ### Order of Preference
 
 <!--markdownlint-disable MD033-->
