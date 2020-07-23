@@ -142,8 +142,15 @@ Note:
 
 - IP and copyright?
 - Security of the code?
+- Contract splitting?
+- Unions?
 
 Note:
+
+- For IP and Copyright, we are working with lawyers at ISED who work on IP policy
+- Automated security checks, what else?
+- Because each contract is part of a bid process, it is not contract splitting. Contract splitting is intentionally giving multiple contracts for the same project to the same company without a competition
+- We plan to talk to the union committee to get their thoughts however our feeling is that this should not be a concern as it is not 'more outsourcing' and it provides a way to bring new knowledge in to upskill current public servants in modern tools and techniques.
 
 ---
 
