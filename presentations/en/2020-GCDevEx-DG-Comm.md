@@ -115,11 +115,11 @@ Note:
 
 - US Government
 - BC Government
-- QC Government
+- QC Government (TBC)
 
 Note:
 
-- Lots of folks to learn from including: many external companies (e.g. Bug Bounty Programs and https://goquotes.ca/)
+- Lots of folks to learn from including: many external companies (e.g. Bug Bounty Programs and [goquotes.ca](https://goquotes.ca))
 - US Government has a Micro-purchase threshold that they just increased to $10K
 - BC Government has the BC Developers Exchange which recently became the 'Digital Marketplace'
 - QC Government - Gabriel looking into this.
@@ -135,6 +135,8 @@ Note:
 ---
 
 ## The GC Developers Exchange
+
+<img src="assets/images/gcdevex.jfif" alt="This image shows the former GC Developers Exchange website">
 
 ---
 
@@ -181,7 +183,7 @@ Note:
 
 - [GC Developers Exchange brief background](https://sara-sabr.github.io/ITStrategy/GCDevelopers-Exchange.html)
 - Business case for pilot to simplify micro-procurement of open source code (to come)
-- [Experimenting with the Micro-Purchase Threshold](https://digital.gov/2020/04/24/experimenting-with-micropurchase-threshold/)
+- [US GSA - Experimenting with the Micro-Purchase Threshold](https://digital.gov/2020/04/24/experimenting-with-micropurchase-threshold/)
   
 --
 
@@ -191,4 +193,4 @@ Q: Can GC employees bid on GCDevEx opportunities?
 A: Yes but they can't get paid for them ($ would transfer to their organization).
 
 Q: How is this different from Talent Cloud? Could we use their platform?
-A: Talent cloud is focused on HR processes, and GCDevEx is focused on procurement processes, so while there are synergies its not a perfect fit.
+A: Talent cloud is focused on HR processes, and GCDevEx is focused on procurement processes, so while there are synergies it's not a perfect fit.

@@ -8,10 +8,6 @@ sections: About us
 permalink: /references-en.html
 ---
 
-<!-- markdownlint-disable MD025-->
-# {{ page.title }}
-<!-- markdownlint-enable MD025 -->
-
 The following are reference materials for the IT Strategy team to use.
 
 These materials are meant to be sources of inspiration, guidance, or policies that we need to consider when crafting our strategies.
@@ -254,7 +250,7 @@ Many IT Revolution books have audio samples of the opening chapters available on
 - [MOOC](https://www.mooc.org/): Massive Open Online Courses (MOOCs) are free online courses available for anyone to enroll. MOOCs provide an affordable and flexible way to learn new skills, advance your career and deliver quality educational experiences at scale.
 - [Coursera](https://www.coursera.org/): Develop your skills with online courses, certificates and diplomas offered by the best universities and companies in the world
 - [Udemy](https://www.udemy.com/): Online learning platform aimed at professional adults and students that has more than 50 million students and 57,000 instructors teaching courses in over 65 languages
-- [Khan Academy](https://khanacademy.org): Khan Academy is a non-profit educational organization that produces short lessons in the form of videos covering a wide variety of topics. [Also available in french](https://fr.khanacademy.org/).
+- [Khan Academy](https://www.khanacademy.org): Khan Academy is a non-profit educational organization that produces short lessons in the form of videos covering a wide variety of topics. [Also available in french](https://fr.khanacademy.org/).
 
 ### Language
 

@@ -1,14 +1,12 @@
 ---
 layout: default
-title: Medium Term IT Picture
+title: Medium Term IT Picture - 2025
 ref: it-picture-medium-term
 lang: en
 status: posted
 sections: Vision
 permalink: /it-picture-medium-term.html
 ---
-
-## Medium Term IT Picture - 2025
 
 - [GC Wide](#gc-wide)
 - [IT within ESDC](#it-within-esdc)

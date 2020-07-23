@@ -8,10 +8,6 @@ sections: Exercises, "Open Source Software"
 permalink: /exercises-oss-jekyll.html
 ---
 
-<!-- markdownlint-disable MD025-->
-# Jekyll Exercise Instructions
-<!-- markdownlint-enable MD025-->
-
 >_(The exercise below is adapted from Davy De Waele's [blog post](https://ddewaele.github.io/running-jekyll-in-docker/) explaining how to run Jekyll in Docker. © 2018 Davy De Waele)_
 
 - [Prerequisites](#prerequisites)

@@ -1,4 +1,5 @@
 <header>
+  <a href="#maincontent" class="skiptocontent">{{site.data.i18n.general.head.skipToContent[page.lang]}}</a>
   <nav class="navbar navbar-expand-md navbar-light fixed-top bg-light">
     <div class="container-fluid">
     <a aria-label="Home" class="navbar-brand" href="{% if page.lang == 'en' %}{{ site.baseurl }}/{{ site.index.en }}{% else %}{{ site.baseurl }}/{{ site.index.fr }}{% endif %}"><span class="fas fa-home" aria-hidden="true"></span></a>
@@ -16,10 +17,10 @@
         {%- assign dropdown_id = "navbarDropdownAbout" -%}
         {% include dropdown.html %}
 
-        <!--Vison-->
+        <!--Vision-->
         {%- assign dropdown_section=site.sectionsList[page.lang][0]-%}
         {%- assign dropdown_title=dropdown_section-%}
-        {%- assign dropdown_id = "navbarDropdownAbout" -%}
+        {%- assign dropdown_id = "navbarDropdownVision" -%}
         {% include dropdown.html %}
 
         <!--Our Strategies - Nos stratégies-->

@@ -11,8 +11,6 @@ permalink: /archives.html
 
 {%- if aPage.size > 0 -%}
 
-### Archives
-
 <!-- markdownlint-disable MD033 -->
 <ul>
   {%- for page in aPage -%}

@@ -69,14 +69,14 @@ The above communication work will require to make relevant and transparent messa
 
 ## Communications Methods
 
-### CIO
+## CIO
 
 1. Director and Director General feedback/updates
 1. [Peer review process](#peer-review)
 1. Send [briefing note](#briefing-note) to CIO
 1. Publish on Intranet
 
-### CIO Executive Committee
+## CIO Executive Committee
 
 Requires wider consultation and presentation to DG Committee leading to ensure the means to build trust and gain acceptance from the senior management.
 Use for quarterly strategies and actions as well as other changes that require wider consultation.
@@ -97,63 +97,63 @@ Follow these steps:
 1. Present to CIO Executive Committee
 1. Published on Intranet
 
-### SABR DGO
+## SABR DGO
 
 Endorsement or approval will be done via email (reply from DG to email request from IT Strategy team)
 
-### IT Strategy Director
+## IT Strategy Director
 
 Endorsement or approval will be done via email (reply from DG to email request from IT Strategy team)
 
-### IITB Governance Committees
+## IITB Governance Committees
 
 The following [IITB committees](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Governance%20-%20Supporting%20Documents/IITB%20Integrated%20Forward%20Agenda.docx) may be used as part of communication efforts.
 Governance Committees follow an approach of "item type" which are either to inform, to consult, or to approve (http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/default.aspx).
 
-#### Workforce Management Committee
+### Workforce Management Committee
 
 The WMC advises and supports the ADM on integrated HR management strategies and provides oversight on staffing and HR planning matters. To that end, it considers regional and national directions, policies and directives, available resources, and expressed needs before making recommendations on decisions regarding regional issues and files. The WMC also discusses matters of common interest to management and the unions.
 
-#### DG Committee
+### DG Committee
 
 The IITB DG committee oversees the implementation and execution of the branch's vision to deliver efficient, reliable and secure services and solutions for clients. The committee also provides oversight, advice and guidance on the effective management of the IITB portfolio, programs and projects.
 
-#### Cloud Implementation Project Steering Committee (CIPSC)
+### Cloud Implementation Project Steering Committee (CIPSC)
 
 The CIPSC is an oversight committee created to guide the project team and project lifecycle of ESDC cloud implementation by reviewing project status and providing the first line of governance for prioritization, direction, resources, risk/issue management and change management to ensure the Cloud Implementation Plan (CIP) is progressing as planned.
 
-#### Project Portfolio Review Committee (PPRC)
+### Project Portfolio Review Committee (PPRC)
 
 The responsibility of providing governance, oversight, advice, and guidance on the effective management of the IITB portfolio, programs and projects.  Furthermore, PPRC is mandated to make decisions with respect to the branch's internal standards, policies and processes for investment planning, as well as act as the steering committee for the work being undertaken to establish a mature and robust Project Management function within IITB.
 
-#### Change Advisory Board (CAB)
+### Change Advisory Board (CAB)
 
 A sub-committee to the Operations and Change-Management Committee (OCMC), is mandated with the responsibility to analyse upcoming changes and release schedules for potential impacts that require additional oversight or intervention.
 
-#### Architecture Review Committee (ARC)
+### Architecture Review Committee (ARC)
 
 Ensures that departmental planning directives and priorities are aligned to GOC and HRSDC Enterprise Architecture.
 
-#### Project Portfolio Operations Committee (PPOC)
+### Project Portfolio Operations Committee (PPOC)
 
 The PPOC, a sub-committee to the Project Portfolio Review Committee (PPRC), is mandated with the responsibility to support the PPRC in their role of providing governance, oversight, advice and guidance on the effective management of the IITB portfolio, programs and projects by ensuring they are resourced with the appropriate skills and technology.
 
-#### Technical Debt Advisory Committee (TDAC)
+### Technical Debt Advisory Committee (TDAC)
 
 Mandated with the responsibility of providing advice and guidance to the ESDC Chief Information Officer (CIO) on aging Information Technology challenges as it relates to people, process, and technology.
 
-#### National Union Management Committee (NUMCC)
+### National Union Management Committee (NUMCC)
 
 Purpose : Provide a forum for meaningful and timely consultation between employer and bargaining agent representatives
 on strategic direction and issues of region-wide importance.
 
-#### Enterprise Architecture Review Board (EARB)
+### Enterprise Architecture Review Board (EARB)
 
 information to be filled.
 
 Engagement with the above committees need to follow [specific process guidelines](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Governance%20-%20Supporting%20Documents/IITB%20Integrated%20Forward%20Agenda.docx).
 
-### IITB Forums
+## IITB Forums
 
 The following IITB forums may be used as part of communication efforts:
 
@@ -178,7 +178,7 @@ Upcoming Showcase : Continuous Learning - April 24th
 A discussion group which initiates and promotes development standards within the IITB development community by hosting monthly Development Community of Practice (Dev CoP) sessions, where members can meet, exchange ideas, collaborate and grow towards a common vision.
 Useful links : GCpedia (http://www.gcpedia.gc.ca/wiki/ESDC_Development_Community), GCconnex (Dev CoP GCconnex group: ESDC - Development Community Dev CoP)
 
-### Subject Matter Experts (SMEs) Teams
+## Subject Matter Experts (SMEs) Teams
 
 Subject Matter Teams may be involved when endorsements from specific subject matters are required.
 Endorsements from those subject matter teams may be obtained via peer reviews or presentations followed by email endorsements.
@@ -193,7 +193,7 @@ The teams are:
 7. IITB Communications
 8. IITB Change Management
 
-### Peer Review
+## Peer Review
 
 1. Send a draft document to targeted stakeholders to seek comments. Provide a feedback deadline
 2. Dispose of comments by making changes to the draft document, and record both the comment and the disposition (accepted, dismissed, modified)
@@ -203,17 +203,17 @@ The teams are:
 Peer Reviews are meant to track feedback received, and the disposition of those feedback.
 A record of those feedbacks and dispositions must be kept (so if senior management asks what team X said about a strategy, we can show them)
 
-### Briefing Note
+## Briefing Note
 
 Can be sent directly to DG, CIO or DM, using organization reporting structure (hierarchy).
 Use for information or to avoid going up through committees for Endorsement.
 
-### Public Sector Communities
+## Public Sector Communities
 
 1. GCDevopsLeague
 2. [Agora Open Source Software Focus Group](https://gcconnex.gc.ca/groups/profile/23631661/agora-open-source-software-focus-group-groupe-discussion-logiciels-libres-agora)
 
-### Corporate Messages (Emails)
+## Corporate Messages (Emails)
 
 Corporate  messages are used to convey important departmental messages to all IITB messages.
 
@@ -221,7 +221,7 @@ Corporate  messages are used to convey important departmental messages to all II
 - Quarterly emails from DG about strategies and actions
 - IITB Newsletter
 
-### Newsletters
+## Newsletters
 
 1- IITB Newsletter
 Newsletter accessible to IITB employees. IITB News is posted weekly, on Mondays.
@@ -239,7 +239,7 @@ Requires to submit 4-6 weeks before posting dates.
 Audience : ESDC Employees
 Compass is published in January, April, July and October
 
-### Professional Networks
+## Professional Networks
 
 1- Change Agents Networks (CAN meeting)
 Change agents are responsible for ensuring that the impact of any change within the branch is understood and proactively dealt with from a people and organizational perspective. They share information with their management.
@@ -264,13 +264,13 @@ Activities include Brainstorming sessions :
 - Creating a culture of learning for administrative professionals
 - Creating opportunities and mobility
 
-### Blogs
+## Blogs
 
 - [IT Strategy](https://sara-sabr.github.io/ITStrategy/) Website
 - IITB Blog
 - iService
 
-### Social Media
+## Social Media
 
 - Linkedin
 - [GCDevopsLeague](https://twitter.com/GCDevOpsLeague1) Twitter
@@ -280,7 +280,7 @@ Activities include Brainstorming sessions :
 - [ESDC Innovation Network](https://gccollab.ca/groups/profile/2851590/enesdc-innovation-networkfr)
 Innovation Network is a consultative body that provides a forum to share, discuss, develop and advance innovative projects and initiatives within the department. The Network seeks to share information on ongoing innovative projects and identify opportunities for advancing innovation within the department.
 
-### Custom Metrics
+## Custom Metrics
 
 Feedback will inform how we move forward with quarterly strategies and actions as well as other initiatives.
 
