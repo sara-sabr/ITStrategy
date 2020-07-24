@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Build versus Buy"
+title: "Strategy Adopt, Buy, Build"
 ref: build-vs-buy
 lang: en
 status: posted
@@ -185,14 +185,25 @@ As such, it is critical for the organization to ensure that core to mandate IT S
 
 Looking for a default answer and approach to the question "Should an IT Solution be built or bought?" at the organizational level is a mental shortcut that bypasses the concept of solution architecture, where the required experts of the organization, both from business lines, finance, security, information technology, etc., come together to figure out the best possible way of accomplishing its mission through leveraging its various resources including people, tools, processes and rules.
 
-A solution is by default built, whether by a single person, multiple teams or by a third party.
+An IT solution is by default built, whether by a single person, multiple teams or by a third party, and it will most often consist in an assemblage of many components, known as IT Products in this document.
+
+The model below explains, in a visual manner, these relationships.
+
+![An UML diagram representing the hierarchical relation of an IT Solution and its components.](assets/images/strategy-build-buy-uml-it-solution.png){:height="100%" width="100%"}
+
+Description of the model:
+
+- An IT Solution is comprised of 1 or many IT component(s)
+- An IT component is comprised of 1 or many Software which can be either a service subscription, an Open Source Software, a 3rd party COTS, or a custom build one
+- A Software is deployed on an infrastructure that can either be on premise (SSC Data Centres), on a public cloud provider's infrastructure (as a IaaS, PaaS, or SaaS model), or as a hybrid version that combines both on premise and public cloud provider.
+
 As such, the questions to ask are more akin to:
 
 - “What software component(s) are required to enable a given capability?”,
 - “For each of those component(s), is the best course of action adopting an open source component, purchasing the rights to use a commercial product or service, or building it internally?”, and
 - “How much organizational risk is the organization willing to delegate to a 3rd party for a product or service for which the future roadmap is not under the organization's control?”.
 
-In large and complex solutions, these questions shouldn't be asked at the solution level but for each component of said solution, taking in account multiple factors and criteria that will be explored below.
+In large and complex solutions, these questions shouldn't be asked at the solution level but also for each component of said solution, taking in account multiple factors and criteria that will be explored below.
 
 Even when an IT Solution is bought, it is never a plug and play situation, whether it consists in COTS or SaaS.
 The organization's IT teams need to obtain, configure and adapt the purchased IT Products to fit with the rest of the organization's IT infrastructure, services, and rules.
@@ -349,68 +360,52 @@ IT Plan/Section II/Foundational
 
 ## Appendix D - Definitions
 
-### IT Solution<!-- omit in toc -->
+IT Solution
+: An IT Solution is the combination of 1 or many IT Products, which are in turn comprised of 1 or many Software and/or Hardware, obtained through many possible ways: built internally, obtained as open source, provided by a company as an executable application under a proprietary licence, as a standalone device, or used as a service through a subscription model. (See the following standard IITB definition.)
 
-An IT Solution is the combination of 1 or many IT Products, which are in turn comprised of 1 or many Software and/or Hardware, obtained through many possible ways: built internally, obtained as open source, provided by a company as an executable application under a proprietary licence, as a standalone device, or used as a service through a subscription model.
-
-See the following standard IITB definition.
-
-The model below explains, in a visual manner, these relationships.
-
-![An UML diagram representing the hierarchical relation of an IT Solution and its components.](assets/images/strategy-build-buy-uml-it-solution.png){:height="100%" width="100%"}
-
-Description of the model:
-
-- An IT Solution is comprised of 1 or many IT component(s)
-- An IT component is comprised of 1 or many Software which can be either a service subscription, an Open Source Software, a 3rd party COTS, or a custom build one
-- A Software is deployed on an infrastructure that can either be on premise (SSC Data Centres), on a public cloud provider's infrastructure (as a IaaS, PaaS, or SaaS model), or as a hybrid version that combines both on premise and public cloud provider.
-
-### IT Product<!-- omit in toc -->
-
-The combination of software, infrastructure, and their configuration.
+IT Product
+: The combination of software, infrastructure, and their configuration.
 An IT Product is akin to an “application” as defined by the [Application Portfolio Management (APM)](https://www.gcpedia.gc.ca/wiki/OCIO_Application_Portfolio_Management) program.
 An IT Product may have one or many software (e.g. COTS, Open Source libraries, Open Source Software, Custom build software).
 Each of those software are deployed in one or many infrastructure (on premise, on the public cloud, or a combination of the two making it a hybrid deployment).
-
 For the scope of this Strategy, Operating Systems are NOT defined as IT products.
 Therefore should an IT Product depend on an Operating System to run in production, it is in compliance with this Guiding Policy.
 
-### Build<!-- omit in toc -->
+Adopt
+: A process by which the department obtains an IT Product and uses it as is, by either configuring it or not.
+The architecture of the IT Product is managed externally, there is no custom code generated to use the IT product, maintenance may be provided by a community in the case of Open Source Software or by a company in the case of a free XaaS.
+There is no exchange of money in this model.
 
-A process whereby the department remains the authority on high-level architectural decisions of the IT solution, or where the department maintains the legal and technical ability to alter the source of the application as needed.
+Build
+: A process whereby the department remains the authority on high-level architectural decisions of the IT solution or IT Product, or where the department maintains the ability to alter the source code of the application as needed.
+It could imply assembling multiple components adopted or bought but custom code is required at some point; maintenance of the custom code is the department's responsibility.
+Custom code may be contracted for or written internally.
 
-### Buy<!-- omit in toc -->
+Buy
+: Application architecture is conceived outside of the Government of Canada, and a completed IT Solution or IT Product is purchased from a vendor, or support is purchased for a solution developed externally to the department or Government of Canada.
+There is exchange of money between the department and a non-governmental third party.
 
-Application architecture is conceived outside of the Government of Canada, and a completed IT Solution or IT Product is purchased from a vendor, or support is purchased for a solution developed externally to the department or Government of Canada.
+Complex IT Solutions
+: A complex IT Solution is when not all requirements are known or key elements may only be found later by experimentation and user research.
 
-### Complex IT Solutions<!-- omit in toc -->
-
-A complex IT Solution is when not all requirements are known or key elements may only be found later by experimentation and user research.
-
-### Open Source Software<!-- omit in toc -->
-
-Software with its source code made available with a licence in which the copyright holder provides the rights to study, change, and distribute the software to anyone and for any purpose.
+Open Source Software
+: Software with its source code made available with a licence in which the copyright holder provides the rights to study, change, and distribute the software to anyone and for any purpose.
 The name used by the Open Source Initiative (OSI).
 Open source software is defined in the Open Source Definition by ten criteria.
+:- [Open First White paper: Open Source Software Use](https://www.canada.ca/en/government/system/digital-government/open-source-software/open-first-whitepaper/open-first-whitepaper-use.html#definitions)
 
-- [Open First White paper: Open Source Software Use](https://www.canada.ca/en/government/system/digital-government/open-source-software/open-first-whitepaper/open-first-whitepaper-use.html#definitions)
-
-### Open standards<!-- omit in toc -->
-
-Open standards are a set of rules designed to do a specific job in technology.
+Open standards
+: Open standards are a set of rules designed to do a specific job in technology.
 Open standards refer to file formats, protocols and application interfaces that can be implemented by everyone (in open source and proprietary software alike) since the specifications are available at no cost, and since their development and standardization is open and transparent.
 This standardization work is done by specialized agencies that are usually either government agencies or organizations created by professionals from a given industry sector.
 Examples of such organizations include the Internet Engineering Task Force (IETF), the International Organization for Standardization (ISO) and the Organization for the Advancement of Structured Information Standards (OASIS).
+: - [Open First White paper: Open Standards](https://www.canada.ca/en/government/system/digital-government/open-source-software/open-first-whitepaper/open-first-whitepaper-standards.html)
 
-- [Open First White paper: Open Standards](https://www.canada.ca/en/government/system/digital-government/open-source-software/open-first-whitepaper/open-first-whitepaper-standards.html)
+Closed COTS
+: Commercial Off-The-Self (COTS) software where the source code for said product is [not open source](#open-source-software).
 
-### Closed COTS<!-- omit in toc -->
-
-Commercial Off-The-Self (COTS) software where the source code for said product is [not open source](#open-source-software).
-
-### Open COTS<!-- omit in toc -->
-
-Commercial Off-The-Self (COTS) software where the source code for said product is [open source](#open-source-software).
+Open COTS
+: Commercial Off-The-Self (COTS) software where the source code for said product is [open source](#open-source-software).
 
 ## Appendix E - References
 
