@@ -56,6 +56,7 @@ permalink: /strategy-build-vs-buy.html
 - [Coherent set of actions](#coherent-set-of-actions)
 - [Measuring the Strategy's success](#measuring-the-strategys-success)
 - [Appendix A - Business Case (Diagnostic)](#appendix-a---business-case-diagnostic)
+  - [Mapping the relation between Adopting, Buying and Building](#mapping-the-relation-between-adopting-buying-and-building)
 - [Appendix B - Traceability Matrix](#appendix-b---traceability-matrix)
 - [Appendix D - Definitions](#appendix-d---definitions)
 - [Appendix E - References](#appendix-e---references)
@@ -263,6 +264,25 @@ The following diagram helps visualize how this risk level varies according with 
 Software options in this niche market are scarce due to the unique mandate of ESDC.
 Change probability is high as those capabilities change as much as regulation changes.
 The impact of such changes has a ripple effect on the whole organization and affects ESDC’s reputation to keep up with citizen demands while maintaining its fiduciary responsibility.
+
+### Mapping the relation between Adopting, Buying and Building
+
+To better understand how an IT Solution is obtained and how the nuance between adopting, buying and building are subtle, the table below aims to depict the various criteria used to define each concept, given an IT solution is broken down into manageable IT Products:
+
+| Ways of obtaining IT Products and their characteristics | Adopt | Buy | Build |
+|---|---|---|---|
+| Already exists | Yes | Yes | No |
+| Architecture | External | External | Internal |
+| Configurable | Yes | Yes | Depends |
+| Customized code | No | No | Yes |
+| Exchange of money required to have right to use | No | Yes | Depends |
+| Influence on IT Product roadmap | Depends | Limited | High |
+| Bug / Security Fixes | External and Internal (not considered custom code to submit a fix upstream) | External | Internal |
+| Deploy patches | Internal | Depends (XaaS vs on Prem) | Internal |
+| Feature Enhancements | Depends (OSS Yes - SaaS No) | No control | Full control |
+| Training material | Depends | Depends | Internal |
+| Liability | TBC | External | Internal |
+| Warranties | Depends | External | Internal |
 
 ### Conclusion<!-- omit in toc -->
 
