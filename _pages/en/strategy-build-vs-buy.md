@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Strategy Adopt, Buy, Build"
+title: "Adopt, Buy, Build"
 ref: build-vs-buy
 lang: en
 status: posted
