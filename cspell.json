@@ -1,4 +1,4 @@
-﻿{
+{
   "version": "0.1",
   "language": "fr",
   "words": [
@@ -9,16 +9,38 @@
     "développer",
     "IRCTC",
     "ccvp",
+    "datatable",
     "Smes",
     "Oecd’s",
+    "Muston",
     "mydir",
+    "IPPM",
     "charest",
+    "incentivize",
+    "reusability",
+    "tradecraft",
+    "maneuver",
+    "Shoup",
+    "Versioning",
+    "Lublinsky",
+    "sessional",
+    "licencing",
     "pandu",
     "appgate",
     "shopify",
     "stratégie",
     "repurposing",
     "mentorships",
+    "byproduct",
+    "demos",
+    "earbs",
+    "uscis",
+    "intrax",
+    "auctiva",
+    "Schlesinger",
+    "cmmi",
+    "evms",
+    "Overflow's",
     "toolsets",
     "Tful",
     "Wierda",
@@ -384,10 +406,34 @@
     "specialties",
     "siloed",
     "practiced",
-    "Odoo"
+    "Odoo",
+    "incentivize",
+    "siloes",
+    "situates",
+    "Ssc's",
+    "INET",
+    "incentivize",
+    "versioning",
+    "Po's",
+    "downstream",
+    "shortcut",
+    "tradeoff",
+    "extendable",
+    "upskill",
+    "ERPs",
+    "Blackbox",
+    "BSIM",
+    "stakeholder's",
+    "analyze",
+    "projectization",
+    "upscale",
+    "slideshare",
+    "SPAC"
   ],
   "flagWords": [],
-  "import": ["./node_modules/cspell-dict-fr-fr/cspell-ext.json"],
+  "import": [
+    "./node_modules/cspell-dict-fr-fr/cspell-ext.json"
+  ],
   "dictionaries": [
     "fr-fr",
     "en-gb",
@@ -397,5 +443,7 @@
     "html",
     "css"
   ],
-  "ignoreRegExpList": ["]\\(([^\\)]+)\\)"]
+  "ignoreRegExpList": [
+    "]\\(([^\\)]+)\\)"
+  ]
 }

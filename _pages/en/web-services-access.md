@@ -8,9 +8,7 @@ sections: Work In Progress
 permalink: /web-services-access.html
 ---
 
-## Granting More Open Access to the Internet for IITB Employees
-
-### Summary
+## Summary
 
 Departments are leveraging Web tools or Software as a Service (SaaS) to collaborate and engage with citizens and public administrations both in Canada and across the globe.
 For example, the latest Open Government Plan and Service and Digital Target Architecture from TBS were shared as drafts for consultation and comments on Google Docs.
@@ -27,7 +25,7 @@ It would also avoid having to use workarounds or alternative sites.
 
 [Appendix B](#appendix-b---web-tools-already-accessible) lists Web tools already accessible on the ESDC network and used by employees.
 
-### Background
+## Background
 
 The Government of Canada recognizes that Security must be handled with user experience in mind, and that public servants require the right tools to do their work.
 Otherwise the government is at risk of falling behind citizen's expectations.
@@ -37,7 +35,7 @@ See the [Appendix C: Examples of Acceptable Network and Device Use](https://www.
 
 This is also supported by the [Values and ethics of the public service](https://www.canada.ca/en/government/publicservice/values.html) and [ESDC Code of conduct](https://www.canada.ca/en/employment-social-development/corporate/code-conduct.html) in particular [Section D) Stewardship on the use of Electronic Networks](https://www.canada.ca/en/employment-social-development/corporate/code-conduct.html#a3.4)
 
-### Current Status
+## Current Status
 
 ESDC is currently blocking access to some popular and useful collaboration Web tools and SaaS like Google Docs, Google Hangouts and OneDrive (see [Appendix A](#appendix-a---web-tools-currently-blocked)).
 The rationale for blocking them is primarily to prevent an accidental leak of protected information by employees.
@@ -47,7 +45,7 @@ However, implementation is not being considered for the short term.
 
 A firewall upgrade is underway and configuration for categories and sites blocked or unblocked will be documented and reviewed.
 
-### Recommendations
+## Recommendations
 
 To support the adoption of the new [Policy on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603), ESDC needs to:
 
@@ -58,19 +56,18 @@ To support the adoption of the new [Policy on Service and Digital](https://www.t
 
 ## Appendix A - Web Tools Currently Blocked
 
-### Instant Messaging
+## Instant Messaging
 
 **Benefit:** Access and search more than 10k messages (limitation of Slack free plan), Encrypt storage of messages, Get real-time updates on website (e.g. notifications)
 
 | Name            | URL           | Notes  |
 | ----------- |:-------------:| ------:|
-| Hack Chat | https://hack.chat |  |
 | Gitter | https://gitter.im |  |
 | Riot IM | https://riot.im | Client for Matrix homeserver |
 | RocketChat | https://open.rocket.chat |  |
 | ... |  |  |
 
-### Document Editing
+## Document Editing
 
 **Benefit:** Share, review and co-create documents with stakeholders (e.g. other departments, governments, private sector)
 
@@ -79,7 +76,7 @@ To support the adoption of the new [Policy on Service and Digital](https://www.t
 | Google Docs (incl. Sheets, Slides, Forms) | https://docs.google.com |  |
 | ... |  |  |
 
-### Web Conferencing
+## Web Conferencing
 
 **Benefit:** Meet virtually with external stakeholders without installing or running a plugin (with sometimes limited success)
 
@@ -90,7 +87,7 @@ To support the adoption of the new [Policy on Service and Digital](https://www.t
 | Jitsi Meet | https://meet.jit.si |  |
 | ... |  |  |
 
-### Email
+## Email
 
 **Benefit:** Improve work–life balance (without having to find workarounds)
 
@@ -100,11 +97,10 @@ To support the adoption of the new [Policy on Service and Digital](https://www.t
 | Google Mail | https://mail.google.com |  |
 | Mailbox.org | https://mailbox.org |  |
 | Outlook | https://outlook.live.com |  |
-| Posteo | https://posteo.de |  |
 | Yahoo Mail | https://mail.yahoo.com |  |
 | ... |  |  |
 
-### File Storage
+## File Storage
 
 **Benefit:** Share and collaborate on documents with external stakeholders
 
@@ -121,7 +117,7 @@ To support the adoption of the new [Policy on Service and Digital](https://www.t
 
 **Note:** Websockets, 3rd party cookies blocked and SSH blocked
 
-### Instant Messaging (room-based)
+## Instant Messaging (room-based)
 
 | Name        | URL           | Notes  |
 | ----------- |:-------------:| ------:|
@@ -131,7 +127,7 @@ To support the adoption of the new [Policy on Service and Digital](https://www.t
 | Zulip | https://zulipchat.com |  |
 | ... |  |  |
 
-### Document Editing
+## Document Editing
 
 | Name        | URL           | Notes  |
 | ----------- |:-------------:| ------:|
@@ -140,14 +136,14 @@ To support the adoption of the new [Policy on Service and Digital](https://www.t
 | Zoho | https://www.zoho.com |  |
 | ... |  |  |
 
-### Web Conferencing
+## Web Conferencing
 
 | Name        | URL           | Notes  |
 | ----------- |:-------------:| ------:|
 | Zoom | https://zoom.us |  |
 | ... |  |  |
 
-### Version Control System (VCS) and Project Management
+## Version Control System (VCS) and Project Management
 
 | Name        | URL           | Notes  |
 | ----------- |:-------------:| ------:|
@@ -157,7 +153,7 @@ To support the adoption of the new [Policy on Service and Digital](https://www.t
 | GitLab | https://gitlab.com |  |
 | ... |  |  |
 
-### Project Management and Kanban
+## Project Management and Kanban
 
 | Name        | URL           | Notes  |
 | ----------- |:-------------:| ------:|
@@ -168,7 +164,7 @@ To support the adoption of the new [Policy on Service and Digital](https://www.t
 | Zube | https://zube.io | Websockets blocked |
 | ... |  |  |
 
-### Online Learning and Sandbox
+## Online Learning and Sandbox
 
 | Name        | URL           | Notes  |
 | ----------- |:-------------:| ------:|
@@ -180,7 +176,7 @@ To support the adoption of the new [Policy on Service and Digital](https://www.t
 | Udemy | https://www.udemy.com/ |  |
 | ... |  |  |
 
-### Package/Image Registry
+## Package/Image Registry
 
 | Name        | URL           | Notes  |
 | ----------- |:-------------:| ------:|
@@ -190,7 +186,7 @@ To support the adoption of the new [Policy on Service and Digital](https://www.t
 | Ruby Gems | https://rubygems.org |  |
 | ... |  |  |
 
-### Social Networks
+## Social Networks
 
 | Name        | URL           | Notes  |
 | ----------- |:-------------:| ------:|
@@ -201,7 +197,7 @@ To support the adoption of the new [Policy on Service and Digital](https://www.t
 | Twitter | https://twitter.com |  |
 | ... |  |  |
 
-### Streaming
+## Streaming
 
 | Name        | URL           | Notes  |
 | ----------- |:-------------:| ------:|
@@ -209,7 +205,7 @@ To support the adoption of the new [Policy on Service and Digital](https://www.t
 | YouTube | https://www.youtube.com |  |
 | ... |  |  |
 
-### Other
+## Other
 
 | Name        | URL           | Notes  |
 | ----------- |:-------------:| ------:|

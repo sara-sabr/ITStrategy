@@ -8,8 +8,6 @@ sections: "À propos de nous"
 permalink: /mandat.html
 ---
 
-## {{ page.title }}
-
 ## Vision (image du futur)
 
 L'[Expérience Canadienne](human-development-life-cycle.html), c'est lorsque les Canadiens profitent de façon transparente des services du gouvernement fédéral grâce aux technologies modernes.
