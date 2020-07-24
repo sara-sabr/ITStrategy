@@ -56,8 +56,7 @@ permalink: /strategy-build-vs-buy.html
 - [Coherent set of actions](#coherent-set-of-actions)
 - [Measuring the Strategy's success](#measuring-the-strategys-success)
 - [Appendix A - Business Case (Diagnostic)](#appendix-a---business-case-diagnostic)
-    - [Mapping the relation between Adopting, Buying and Building](#mapping-the-relation-between-adopting-buying-and-building)
-- [Appendix B - Traceability Matrix](#appendix-b---traceability-matrix)
+- [Appendix B - Traceability Matrix (Update coming soon)](#appendix-b---traceability-matrix-update-coming-soon)
 - [Appendix D - Definitions](#appendix-d---definitions)
 - [Appendix E - References](#appendix-e---references)
 
@@ -204,7 +203,7 @@ As such, the questions to ask are more akin to:
 - “For each of those component(s), is the best course of action adopting an open source component, purchasing the rights to use a commercial product or service, or building it internally?”, and
 - “How much organizational risk is the organization willing to delegate to a 3rd party for a product or service for which the future roadmap is not under the organization's control?”.
 
-In large and complex solutions, these questions shouldn't be asked at the solution level but also for each component of said solution, taking in account multiple factors and criteria that will be explored below.
+In large and complex solutions, these questions shouldn't onlybe asked at the solution level but also for each component of said solution, taking in account multiple factors and criteria that will be explored below.
 
 Even when an IT Solution is bought, it is never a plug and play situation, whether it consists in COTS or SaaS.
 The organization's IT teams need to obtain, configure and adapt the purchased IT Products to fit with the rest of the organization's IT infrastructure, services, and rules.
@@ -265,9 +264,9 @@ Software options in this niche market are scarce due to the unique mandate of ES
 Change probability is high as those capabilities change as much as regulation changes.
 The impact of such changes has a ripple effect on the whole organization and affects ESDC’s reputation to keep up with citizen demands while maintaining its fiduciary responsibility.
 
-#### Mapping the relation between Adopting, Buying and Building
+#### Mapping the relation between Adopting, Buying and Building<!-- omit in toc -->
 
-To better understand how an IT Solution is obtained and how the nuance between adopting, buying and building are subtle, the table below aims to depict the various criteria used to define each concept, given an IT solution is broken down into manageable IT Products:
+To better understand how an IT Solution is obtained and how the nuance between adopting, buying and building is subtle, the table below aims to depict the various characteristics used to define each concept, given that an IT solution is broken down into manageable IT Products:
 
 | Ways of obtaining IT Products and their characteristics | Adopt | Buy | Build |
 |---|---|---|---|
@@ -292,7 +291,7 @@ Even traditional services delivered through SaaS, such as email, require conside
 This strategy is intended to return control of implementation of services back to the department thereby permitting increased alignment with the Government of Canada direction, and increase the quality, and rate by which, digital services are delivered to Canadians.
 The intent is to replace dated approaches to IT solutions delivery in favour of practices aligned with industry best practice in order to promote the department's digital transformation and keep pace with the rising expectations of Canadian citizens with respect to digital services.
 
-## Appendix B - Traceability Matrix
+## Appendix B - Traceability Matrix (Update coming soon)
 
 The following traceability matrix is used to show alignment with various strategies, plans, and policy instruments already in progress.
 
@@ -361,19 +360,6 @@ The following traceability matrix is used to show alignment with various strateg
 <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603">TB Policy on Service and Digital</a>/Supporting workforce capacity and capability<br>
 <a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental IMIT Plan/19-20 Plans/IITB Moving Forward v2.docx">IITB Way Forward</a>/6d. Separate programme/project<br>
 <a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental IMIT Plan/19-20 Plans/IITB Moving Forward v2.docx">IITB Way Forward</a>/6e. Enhance app development
-  </td>
-</tr>
-<tr>
-  <td><b>DevOps</b></td>
-  <td>
-  <a href="https://sara-sabr.github.io/ITStrategy/strategy-summary.html">Strategy Map</a>/Continuous Integration<br>
-<a href="https://sara-sabr.github.io/ITStrategy/strategy-summary.html">Strategy Map</a>/Automated Deployments<br>
-<a href="https://sara-sabr.github.io/ITStrategy/strategy-summary.html">Strategy Map</a>/Cross Functional teams<br>
-<a href="https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html">GC Digital Standards</a>/address security and privacy risks<br>
-<a href="https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards">GC Architecture Standards</a>/Technology Architecture<br>
-<a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental IMIT Plan/19-20 Plans/IITB Moving Forward v2.docx">IITB Way Forward</a>/6e. Enhance app development<br>
-<a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental IMIT Plan/19-20 Plans/IITB Moving Forward v2.docx">IITB Way Forward</a>/6g. Modernize IM/IT testing regime<br>
-IT Plan/Section II/Foundational
   </td>
 </tr>
 </table>
