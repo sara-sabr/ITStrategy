@@ -203,7 +203,7 @@ As such, the questions to ask are more akin to:
 - “For each of those component(s), is the best course of action adopting an open source component, purchasing the rights to use a commercial product or service, or building it internally?”, and
 - “How much organizational risk is the organization willing to delegate to a 3rd party for a product or service for which the future roadmap is not under the organization's control?”.
 
-In large and complex solutions, these questions shouldn't onlybe asked at the solution level but also for each component of said solution, taking in account multiple factors and criteria that will be explored below.
+In large and complex solutions, these questions shouldn't only be asked at the solution level but also for each component of said solution, taking in account multiple factors and criteria that will be explored below.
 
 Even when an IT Solution is bought, it is never a plug and play situation, whether it consists in COTS or SaaS.
 The organization's IT teams need to obtain, configure and adapt the purchased IT Products to fit with the rest of the organization's IT infrastructure, services, and rules.
@@ -277,7 +277,7 @@ To better understand how an IT Solution is obtained and how the nuance between a
 | Exchange of money required to have right to use | No | Yes | Depends |
 | Influence on IT Product roadmap | Depends | Limited | High |
 | Bug / Security Fixes | External and Internal (not considered custom code to submit a fix upstream) | External | Internal |
-| Deploy patches | Internal | Depends (XaaS vs on Prem) | Internal |
+| Deploy patches | Internal | Depends (XaaS vs on premise) | Internal |
 | Feature Enhancements | Depends (OSS Yes - SaaS No) | No control | Full control |
 | Training material | Depends | Depends | Internal |
 | Liability | TBC | External | Internal |
