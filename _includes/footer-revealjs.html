@@ -1,7 +1,6 @@
-<script src="https://cdn.jsdelivr.net/npm/reveal.js@4.0.2/dist/reveal.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/reveal.js@4.0.2/plugin/markdown/markdown.min.js"></script>
-
-<script src="/ITStrategy/assets/js/notes.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/reveal.js@4.0.2/dist/reveal.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/reveal.js@4.0.2/plugin/markdown/markdown.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/reveal.js@4.0.2/plugin/notes/notes.js"></script>
 
 <script>
   var params = new URLSearchParams(window.location.search);
@@ -9,13 +8,14 @@
   {
 	  Reveal.initialize({
 		  pdfSeparateFragments: false,
-		  showNotes: "separate-page"
+		  showNotes: "separate-page",
+		  plugins: [ RevealMarkdown ]
 	  });
   } else if (params.get("print-pdf") !== null) {
 	  Reveal.initialize({
 		  pdfSeparateFragments: false
 	  });
   } else {
-  	Reveal.initialize();
+  	Reveal.initialize({plugins: [ RevealMarkdown ]});
   }
 </script>
