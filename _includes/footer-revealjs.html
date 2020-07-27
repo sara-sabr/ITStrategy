@@ -13,9 +13,10 @@
 	  });
   } else if (params.get("print-pdf") !== null) {
 	  Reveal.initialize({
-		  pdfSeparateFragments: false
+		  pdfSeparateFragments: false,
+		  plugins: [ RevealMarkdown, RevealNotes ]
 	  });
   } else {
-  	Reveal.initialize({plugins: [ RevealMarkdown ]});
+  	Reveal.initialize({plugins: [ RevealMarkdown, RevealNotes ]});
   }
 </script>
