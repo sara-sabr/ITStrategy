@@ -373,7 +373,7 @@ c. Less than I would like
 
 3. How do you gather and measure feedback from users?
 a. Manual testing, user acceptance testing or general acceptance criteria
-b. Direct email/phone/list-serv/web contact form, web meetings, or chat room
+b. Direct email/phone/web contact form, web meetings, or chat room
 c. In-product qualitative feedback (e.g. Send-a-Smile) and survey such as Net Promoter Score (NPS)
 d. Usage telemetry is gathered with real user monitoring at 100% sampling
 e. None of the above/not applicable
