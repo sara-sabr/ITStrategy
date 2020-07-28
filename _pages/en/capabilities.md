@@ -203,79 +203,80 @@ How to measure?
 #### 3.1.2. Indicators
 
 1. What is the purpose of the monitor and control phase in your team?
-a. To monitor the project team
-b. To measure the performance of the new process after the execution phase
-c. To control the project team's performance
-d. To monitor and control the planning and initiating phases
+a. Elite: To measure the performance of the new process after the execution phase
+b. High: To monitor and control the planning and initiating phases
+c. Medium: To monitor the project team
+d. Low: To control the project team's performance
 
 2. What are the main steps involved in planning and implementing a monitoring protocol in your team?
-a. Complete background tasks
-b. Develop objectives
-c. Design and implement management
-d. Design the monitoring methodology
-e. Implement monitoring as a pilot study
-f. Implement monitoring
-g. Report and use results
-h. None of the above/not applicable
+a. High: Complete background tasks
+b. Elite: Develop objectives
+c. High: Design and implement management
+d. High: Design the monitoring methodology
+e. Medium: Implement monitoring as a pilot study
+f. Elite: Implement monitoring
+g. Elite: Report and use results
+h. Low: None of the above/not applicable
 
 3. Which step in planning and implementing a monitoring protocol in your team takes the most time?
-a. Complete background tasks
-b. Develop objectives
-c. Design and implement management
-d. Design the monitoring methodology
-e. Implement monitoring as a pilot study
-f. Implement monitoring
-g. Report and use results
-h. None of the above/not applicable
+a. Low: Complete background tasks
+b. Medium: Develop objectives
+c. High: Design and implement management
+d. High: Design the monitoring methodology
+e. Medium: Implement monitoring as a pilot study
+f. Elite: Implement monitoring
+g. Elite: Report and use results
+h. Low: None of the above/not applicable
 
 4. What instrumentation do you use to monitor applications running in production?
-a. Availability monitoring via pinging or synthetic transactions
-b. Performance monitoring of the servers and infrastructure
-c. Real user monitoring
-d. Multi-tier views of end-to-end transactions including processing and network combined
-e. None of the above/not applicable
+a. High: Availability monitoring via pinging or synthetic transactions
+b. High: Performance monitoring of the servers and infrastructure
+c. Elite: Real user monitoring
+d. Elite: Multi-tier views of end-to-end transactions including processing and network combined
+e. Low: None of the above/not applicable
 
 5. How fast your team reacts to alerts when the system approaches critical thresholds or goes down?
-a. When the threshold reaches 25%
-b. When the threshold reaches 50%
-c. When the threshold reaches 75%
-d. When the threshold reaches 85%
-e. When the threshold reaches 95%
+a. Elite: When the threshold reaches 25%
+b. High: When the threshold reaches 50%
+c. Medium: When the threshold reaches 75%
+d. Low: When the threshold reaches 85%
+e. Low: When the threshold reaches 95%
 
 6. How is the monitoring process executed in your team?
-a. Monitoring one or two areas at a time
-b. Monitoring the full software development
+a. Elite: Monitoring one or two areas at a time
+b. Medium: Monitoring the full software development
+c. Low: We are not monitoring
 
 7. Which tool do you use to share collected data in your team?
-a. Google docs
-b. Sharepoint
-c. Email
-d. Office 365
-e. Slack
-f. None of the above/not applicable
+a. Medium: Google docs
+b. High: Sharepoint
+c. Medium: Email
+d. Elite: Office 365
+e. Low: Slack
+f. Low: None of the above/not applicable
 
 8. What has the most impact to make a business decision in your team?
-a. Data from application performance monitoring tools
-b. Data from infrastructure monitoring tool
-c. Outside perspective
-d. Previous decision mistakes
-e. Your gut instinct
-f. None of the above/not applicable
+a. Elite: Data from application performance monitoring tools
+b. Elite: Data from infrastructure monitoring tool
+c. High: Outside perspective
+d. High: Previous decision mistakes
+e. Medium: Your gut instinct
+f. Low: None of the above/not applicable
 
 9. How usually  accurate and relevant  is the data to your goal of the team?
-a. Very Frequently
-b. Frequently
-c. Occasionally
-d. Rarely
-e. Very Rarely
-f. Never
+a. Elite: Very Frequently
+b. High: Frequently
+c. Medium: Occasionally
+d. Medium: Rarely
+e. Low: Very Rarely
+f. Low: Never
 
 10. How often you felt guilty of seeing the data you wish was there instead of what is really in front of you?
-a. Always
-b. Very Often
-c. Sometimes
-d. Rarely
-e. Never
+a. Low: Always
+b. Low: Very Often
+c. Medium: Sometimes
+d. High: Rarely
+e. Elite: Never
 
 #### 3.1.3 Goals
 
@@ -286,60 +287,63 @@ e. Never
 #### 3.2.2. Indicators
 
 1. How often your team monitors the stability and security of your IT system
-a. Very Frequently
-b. Frequently
-c. Occasionally
-d. Rarely
-e. Very Rarely
-f. Never
+a. Elite: Very Frequently
+b. High: Frequently
+c. Medium: Occasionally
+d. Low: Rarely
+e. Low: Very Rarely
+f. Low: Never
 
 2. How do you notify your team about failure alerts?
-a. Via email
-b. Via PR in Github
-c. Via Slack
-d. None of the above/not applicable
+a. Elite: Via email
+b. High: Via PR in Github
+c. High: Via Slack
+d. Medium: Via Trello board
+e. Medium: Via phone call
+f. Low: None of the above/not applicable
 
 3. How often do you  face the situation when your team finds out from customers that your application or service is down?
-a. Always
-b. Very Often
-c. Sometimes
-d. Rarely
-e. Never
+a. Low: Always
+b. Low: Very Often
+c. Medium: Sometimes
+d. High: Rarely
+e. Elite: Never
 
 4. How long does it take to fix the problem?
-a. More than I would like
-b. About right
-c. Less than I would like
+a. Elite: Less than I expect 
+b. High: About right
+c. Medium: More than I expect
+d. Low: We never fix it
 
 ### 3.3 Work in process limits
 
 #### 3.3.2. Indicators
 
 1. Are people in your team often assigned to work on multiple tasks ? If yes , what is the main reason?
-a. Too much work
-b. Not enough people in the team
-c. Not the right skill sets in the team
-d. It usually doesn't happen
+a. Elite: It usually doesn't happen
+b. High: Too much work
+c. Medium: Not enough people in the team
+d. Low: Not the right skill sets in the team
 
 2. How often does your team discover invisible work when it is not expected ?
-a. Almost always
-b. Often
-c. Sometimes
-d. Seldom
-e. Never
+a. Low: Almost always
+b. Low: Often
+c. Medium: Sometimes
+d. High: Seldom
+e. Elite: Never
 
 3. How visible is your work to the other teams and stakeholders?
-a. Very good
-b. Good
-c. Fair
-d. Poor
-e. Very poor
+a. Elite: Very good
+b. High: Good
+c. Medium: Fair
+d. Low: Poor
+e. Low: Very poor
 
 4. How often project team meetings are held ?
-a. Every day
-b. Three times a week
-c. Once a week
-d. Randomly
+a. Elite: Every day
+b. High: Three times a week
+c. Low: Once a week
+d. Medium: Randomly
 
 ### 3.4 Visual management capabilities
 
