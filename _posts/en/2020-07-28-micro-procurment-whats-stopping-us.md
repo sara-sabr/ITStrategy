@@ -13,6 +13,7 @@ The Government of Canada (GC) buys a lot of stuff. In 2016, the total spent by t
 
 <!--more-->
 
+To ensure that purchasing is working well across the GC, procurement teams are working hard on modernization efforts including the development of an [electronic procurement system](https://buyandsell.gc.ca/initiatives-and-programs/the-electronic-procurement-solution/about), enabling agile procurement, [social procurement pilots](https://buyandsell.gc.ca/procurement-data/tender-notice/PW-18-00828087) and [contract language simplification](https://www.tpsgc-pwgsc.gc.ca/app-acq/ma-bb/simpcont-simpcont-eng.html). Interestingly, Low Dollar Value (LDV) procurements don’t seem to make the list for procurement modernization priorities. This could be because these procurements are low risk and generally don’t make headline news. However for this same reason they provide the perfect opportunity for procurement and IT experimentation.
 
 Imagine that you manage an IT product and a team member notices a bug in one of the open source components, but doesn’t have time to fix it. What if you could post an opportunity for someone to fix that bug for $2K, select someone to do the work and receive the fixed and tested code within a matter of days?
 
