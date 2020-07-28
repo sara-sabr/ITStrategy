@@ -274,8 +274,6 @@ b. Monitoring the full software development
 
 7. What method or tool do you use to display your data?
 
-______________________________________________________
-
 8. Which tool do you use to share collected data in your team?
 a. Google docs
 b. Sharepoint
@@ -289,8 +287,8 @@ a. Data from application performance monitoring tools
 b. Data from infrastructure monitoring tool
 c. Outside perspective
 d. Previous decision mistakes
-f. Your gut instinct
-g. None of the above/not applicable
+e. Your gut instinct
+f. None of the above/not applicable
 
 10. How usually  accurate and relevant  is the data to your team’s goal ?
 a. Very Frequently
@@ -331,8 +329,6 @@ d. Rarely
 e. Never
 
 15. What  indicators could have predicted the incident ?
-
-_______________________________________________________
 
 16. How long does it take to fix the problem?
 a. More than I would like
