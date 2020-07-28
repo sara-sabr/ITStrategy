@@ -194,39 +194,13 @@ How to measure?
 
 ## 3. Measurement Capabilities
 
-..
+### 3.1 Monitoring systems to inform business decisions
 
-## 4. Cultural capabilities
+#### 3.1.1 Outcomes
 
-### 4.2 Westrum organizational culture
+...
 
-#### 4.2.1 Outcomes
-
-Create a [generative culture](https://cloud.google.com/solutions/devops/devops-culture-westrum-organizational-culture) that fosters information flow and trust by examining the six aspects of the Westrum model of organizational culture.
-
-#### 4.2.2. Indicators
-
-Present these measures together (un-labelled and untitled) with responses ranging from Strongly Disagree (=1) to Neither Agree nor Disagree (=4) to Strongly Agree (=7).
-They are a latent construct, which means you can average their scores to provide a single score for your Westrum culture metric.
-
-- On my team, information is actively sought.
-- Messengers are not punished when they deliver news of failures or other bad news.
-- On my team, responsibilities are shared.
-- On my team, cross-functional collaboration is encouraged and rewarded.
-- On my team, failure causes inquiry.
-- On my team, new ideas are welcomed.
-
-Measure with survey of IITB employees.
-
-#### 4.2.3 Goals
-
-- Westrum culture metric > 35
-
-### Assessment tool survey questions
-
-#### Section 3. DevOps measurement
-
-##### Monitoring systems to inform business decisions
+#### 3.1.2. Indicators
 
 1. What is the purpose of the monitor and control phase in your team?
 a. To monitor the project team
@@ -303,7 +277,13 @@ c. Sometimes
 d. Rarely
 e. Never
 
-##### Proactive failure notification
+#### 3.1.3 Goals
+
+...
+
+### 3.2 Proactive failure notification
+
+#### 3.2.2. Indicators
 
 1. How often your team monitors the stability and security of your IT system
 a. Very Frequently
@@ -331,7 +311,9 @@ a. More than I would like
 b. About right
 c. Less than I would like
 
-##### Work in process limits
+### 3.3 Work in process limits
+
+#### 3.3.2. Indicators
 
 1. Are people in your team often assigned to work on multiple tasks ? If yes , what is the main reason?
 a. Too much work
@@ -359,7 +341,9 @@ b. Three times a week
 c. Once a week
 d. Randomly
 
-###### Visual management capabilities
+### 3.4 Visual management capabilities
+
+#### 3.4.2. Indicators
 
 1. What type of tools do you use to manage the work at various stages of a process?
 a. Card walls
@@ -377,3 +361,29 @@ b. Direct email/phone/web contact form, web meetings, or chat room
 c. In-product qualitative feedback (e.g. Send-a-Smile) and survey such as Net Promoter Score (NPS)
 d. Usage telemetry is gathered with real user monitoring at 100% sampling
 e. None of the above/not applicable
+
+## 4. Cultural capabilities
+
+### 4.2 Westrum organizational culture
+
+#### 4.2.1 Outcomes
+
+Create a [generative culture](https://cloud.google.com/solutions/devops/devops-culture-westrum-organizational-culture) that fosters information flow and trust by examining the six aspects of the Westrum model of organizational culture.
+
+#### 4.2.2. Indicators
+
+Present these measures together (un-labelled and untitled) with responses ranging from Strongly Disagree (=1) to Neither Agree nor Disagree (=4) to Strongly Agree (=7).
+They are a latent construct, which means you can average their scores to provide a single score for your Westrum culture metric.
+
+- On my team, information is actively sought.
+- Messengers are not punished when they deliver news of failures or other bad news.
+- On my team, responsibilities are shared.
+- On my team, cross-functional collaboration is encouraged and rewarded.
+- On my team, failure causes inquiry.
+- On my team, new ideas are welcomed.
+
+Measure with survey of IITB employees.
+
+#### 4.2.3 Goals
+
+- Westrum culture metric > 35
