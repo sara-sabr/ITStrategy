@@ -102,7 +102,7 @@ Preference is given to open source solutions as they offer the benefits of SaaS 
 
 ## Compliance Assurance
 
-The above prioritization aligns with [Government of Canada Cloud Adoption Strategy: 2018 update](https://www.canada.ca/en/government/system/digital-government/modern-emerging-technologies/cloud-services/government-canada-cloud-adoption-strategy.html), which reads:
+The above prioritization aligns with [Government of Canada Cloud Adoption Strategy: 2018 update](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/cloud-services/government-canada-cloud-adoption-strategy.html), which reads:
 
 <!--markdownlint-disable MD029-->
 > 3. Departmental and agency CIOs will select one of the following cloud service models, in the following order of priority:  
@@ -118,6 +118,6 @@ Open Standards: A publicly available set of specifications describing the charac
 
 ## Further Reading
 
-[Government of Canada Right Cloud Selection Guidance](https://www.canada.ca/en/government/system/digital-government/modern-emerging-technologies/cloud-services/government-canada-right-cloud-selection-guidance.html)
+[Government of Canada Right Cloud Selection Guidance](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/cloud-services/government-canada-right-cloud-selection-guidance.html)
 
-[Government of Canada Cloud Adoption Strategy: 2018 update](https://www.canada.ca/en/government/system/digital-government/modern-emerging-technologies/cloud-services/government-canada-cloud-adoption-strategy.html)
+[Government of Canada Cloud Adoption Strategy: 2018 update](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/cloud-services/government-canada-cloud-adoption-strategy.html)
