@@ -222,7 +222,7 @@ Measure with survey of IITB employees.
 
 - Westrum culture metric > 35
 
-### Assesment tool survey questions
+### Assessment tool survey questions
 
 #### Section 3. DevOps measurement
 
@@ -288,7 +288,7 @@ d. Previous decision mistakes
 e. Your gut instinct
 f. None of the above/not applicable
 
-9. How usually  accurate and relevant  is the data to your team’s goal ?
+9. How usually  accurate and relevant  is the data to your goal of the team?
 a. Very Frequently
 b. Frequently
 c. Occasionally
@@ -296,7 +296,7 @@ d. Rarely
 e. Very Rarely
 f. Never
 
-10. How often you felt guilty of seeing the data you wish was there instead of what’s really in front of you?
+10. How often you felt guilty of seeing the data you wish was there instead of what is really in front of you?
 a. Always
 b. Very Often
 c. Sometimes
@@ -373,7 +373,7 @@ c. Less than I would like
 
 3. How do you gather and measure feedback from users?
 a. Manual testing, user acceptance testing or general acceptance criteria
-b. Direct email/phone/listserv/web contact form, web meetings, or chat room
+b. Direct email/phone/list-serv/web contact form, web meetings, or chat room
 c. In-product qualitative feedback (e.g. Send-a-Smile) and survey such as Net Promoter Score (NPS)
 d. Usage telemetry is gathered with real user monitoring at 100% sampling
 e. None of the above/not applicable
