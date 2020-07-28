@@ -242,9 +242,9 @@ d. Design the monitoring methodology
 e. Implement monitoring as a pilot study
 f. Implement monitoring
 g. Report and use results
-h. None of the above/not applicable 
+h. None of the above/not applicable
 
-3.  Which step in planning and implementing a monitoring protocol in your team takes the most time?
+3. Which step in planning and implementing a monitoring protocol in your team takes the most time?
 a. Complete background tasks
 b. Develop objectives
 c. Design and implement management
@@ -252,7 +252,7 @@ d. Design the monitoring methodology
 e. Implement monitoring as a pilot study
 f. Implement monitoring
 g. Report and use results
-h. None of the above/not applicable 
+h. None of the above/not applicable
 
 4. What instrumentation do you use to monitor applications running in production?
 a. Availability monitoring via pinging or synthetic transactions
@@ -261,7 +261,7 @@ c. Real user monitoring
 d. Multi-tier views of end-to-end transactions including processing and network combined
 e. None of the above/not applicable
 
-5. How fast your team reacts to alerts when the system approaches critical thresholds or goes down? 
+5. How fast your team reacts to alerts when the system approaches critical thresholds or goes down?
 a. When the threshold reaches 25%
 b. When the threshold reaches 50%
 c. When the threshold reaches 75%
