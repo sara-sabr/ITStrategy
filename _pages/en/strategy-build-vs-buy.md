@@ -396,7 +396,7 @@ Open standards refer to file formats, protocols and application interfaces that 
 This standardization work is done by specialized agencies that are usually either government agencies or organizations created by professionals from a given industry sector.
 Examples of such organizations include the Internet Engineering Task Force (IETF), the International Organization for Standardization (ISO) and the Organization for the Advancement of Structured Information Standards (OASIS).
 
-- [Open First White paper: Open Standards](https://www.canada.ca/en/government/system/digital-government/open-source-software/open-first-whitepaper/open-first-whitepaper-standards.html)
+- [Open First White paper: Open Standards](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/open-source-software/open-first-whitepaper.html)
 
 ### Closed COTS<!-- omit in toc -->
 
