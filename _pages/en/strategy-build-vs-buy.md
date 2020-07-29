@@ -159,7 +159,9 @@ Stakeholders are expected to still comply with existing policy instruments inclu
 
 ### Build vs Buy : Oversimplified Question<!-- omit in toc -->
 
-Looking for a default answer and approach to the question "Should an IT Solution be built or bought?" at the organizational level is a mental shortcut that bypasses the concept of solution architecture, where the required experts of the organization, both from business lines, finance, security, information technology, etc., come together to figure out the best possible way of accomplishing its mission through leveraging its various resources including people, tools, processes and rules.
+The creation of this strategy document stems from a request to help IITB decide whether it should prioritize buying an IT Solution over building one.
+
+Looking for a default answer and approach to the question "Should an IT Solution be built or bought?" at the organizational level is a mental shortcut that bypasses [GC Mandatory Procedures for Enterprise Architecture Assessment](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602) as well as the concepts of solution architecture, where the relevant experts of the organization, both from business lines, finance, security, information technology, etc., come together to figure out the best possible way of accomplishing its mission while leveraging its various resources, including people, tools, processes, and rules.
 
 An IT solution is by default built, whether by a single person, multiple teams or by a third party, and it will most often consist in an assemblage of many components, known as IT Products in this document.
 
@@ -191,8 +193,12 @@ Maintenance of IT Solutions should thus be considered separately from the obtain
 - Does the organization currently have the skill sets internally to architect, design, build and operate this solution?
 - Does the organization currently have the capacity internally to architect, design, build and operate this solution?
 
-These last questions, however, do not necessarily mean that the technical questions of a solutions architecture should not be asked subsequently.
-Any solution designed, developed and delivered by a third party should still be abiding by the same principles solutions built within ESDC have to so that once it is operationalized, the organization maintains a high amount of control and flexibility in maintaining and enhancing the solution while limiting its lock-in situations.
+These last questions, however, do not necessarily mean that the questions mentioned in the precendent section should not be asked subsequently.
+It is possible that the organization does not possess the staff with the required skill set or sufficient capacity to deliver internally the IT Solution at a specific point in time.
+When that is the case, proper talent acquisition, retention, and training efforts are required.
+
+Leveraging external resources is a valuable option, as long as the organization ensures that internal capacity and training is planned for.
+And, any solution designed, developed, and delivered by a third party should still be abiding by the same principles required for solutions built within ESDC so that once it is operationalized, the organization retains a high level of control and flexibility in maintaining and enhancing the solution while limiting its lock-in situations.
 
 As such, if the organization is not in a position to design, build and operate the solution itself, the third party putting the solution together for the benefit of ESDC should have clear directives to align with our own architectural principles.
 
@@ -222,9 +228,10 @@ The risk management for obtaining software is based on the following formula:
 
 Another link could be made to assess the risk in relation to the probability of change: the complexity of a solution.
 In other words, the less static the needs are then the higher the chances are that unaccounted changes will become requirements in the future, thus increasing the risks to the organization.
-Large IT projects are often subject to changes in requirements, such as changes in legislation. In addition to the complexity of the systems themselves, this means that large projects present higher risk to the organization not being able to deliver on its mandate.
+Large IT projects are often subject to changes in requirements, such as changes in legislation and unknown requirements at the onset of the project.
+In addition to the complexity of the systems themselves, this means that large projects present higher risk to the organization not being able to deliver on its mandate.
 
-Based on the risk level, ESDC will adjust its decisions around obtaining software and services (build, buy, or adopt).
+Based on the risk level, ESDC will adjust its decisions around obtaining software and services (build, buy, or adopt) as well as how the maintenance of those IT Solutions are handled.
 
 Risk levels are heavily influenced by the capability being enabled by software.
 The following diagram helps visualize how this risk level varies according with the type of capabilities:
@@ -253,11 +260,13 @@ To better understand how an IT Solution is obtained and how the nuance between a
 | Exchange of money required to have right to use | No | Yes | Depends |
 | Influence on IT Product roadmap | Depends | Limited | High |
 | Bug / Security Fixes | External and Internal (not considered custom code to submit a fix upstream) | External | Internal |
-| Deploy patches | Internal | Depends (XaaS vs on premise) | Internal |
+| Deploy patches | Depends | Depends (XaaS vs on premise) | Internal |
 | Feature Enhancements | Depends (OSS Yes - SaaS No) | No control | Full control |
 | Training material | Depends | Depends | Internal |
 | Liability | TBC | External | Internal |
 | Warranties | Depends | External | Internal |
+
+> Note the table above is not an exhaustive list but merely an example to showcase the large spectrum of nuances needed to be analyzed when assessing whether an IT Solution or Product should be adopted, bought or built.
 
 ### Conclusion<!-- omit in toc -->
 
