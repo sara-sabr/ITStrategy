@@ -27,8 +27,8 @@ permalink: /strategy-build-vs-buy.html
 >
 >_Note 3: Assumptions when reading this document_
 >
->- The decision to invest time and resources for an IT solution has already been taken but it has not been decided whether it will be built or bought.
->- This is not a software request (e.g.: I want to use this neat SaaS)
+>- The decision to invest time and resources for an IT solution has already been taken but it has not been decided whether it will be adopted, built or bought.
+>- This is not a software request (e.g.: I want to use this SaaS)
 >- A comprehensive enterprise view of services is available for all teams, business and IT alike
 >- Service Oriented Architecture is well understood and applied across IITB
 
@@ -75,10 +75,10 @@ The intent behind this strategy is to communicate a decision by the CIO (not yet
 
 ### Target Audience
 
-This **strategy document** is targeted to stakeholders involved in determining whether to adopt, buy, or build an IT Solution that has been approved as outcome of an initiative.
-More specifically, stakeholders involved in architecting IT solutions, defining technology standards, developing, delivering, operationalizing and maintaining IT Solutions (such as Enterprise Architecture, Enterprise Operations, etc.) and guiding committees such as the Architecture Review Committee and the Enterprise Architecture Review Board.
+This **strategy document** is targeted to stakeholders involved in determining whether to adopt, buy, or build an IT Solution that has been approved as an outcome of an initiative.
+More specifically, stakeholders involved in architecting IT solutions, defining technology standards, developing, delivering, operationalizing and maintaining IT Solutions (such as Enterprise Architecture, Enterprise Operations, etc.) and guiding committees such as the Architecture Review Committee (ARC) and the Enterprise Architecture Review Board (EARB).
 This includes both IITB and non-IITB stakeholders (such as Business Functions, SSPB, CDO, ISB, IAERMB, and SSC).
-The list of stakeholders are listed in section [Coherent set of actions](#coherent-set-of-actions) and are expected to participate in the execution stage of this strategy necessary to operationalize the Guiding Policy.
+The list of stakeholders are listed in [Coherent set of actions](#coherent-set-of-actions) and are expected to participate in the execution stage of this strategy necessary to operationalize the Guiding Policy.
 
 The **Guiding Policy**, once operationalized, will target stakeholders involved when the need for an IT Solution is raised, as well as when the IT Solution is conceptualized, architected, developed, delivered, operationalized, and maintained.
 All ESDC personnel involved in the exploration of IT Solutions and in IT investment decisions are expected to adhere to this policy.
@@ -87,10 +87,10 @@ All ESDC personnel involved in the exploration of IT Solutions and in IT investm
 
 Moving to the digital age requires improving IT's responsiveness and promoting a shared accountability with ESDC stakeholders on the use of technology.
 
-Yet, the current principle when obtaining IT Solutions is to "Buy what we can, Build what we must".
+Yet, the current principle when obtaining IT Solutions is to "Buy what we can, Build what we must."
 The assumed reasoning behind this overarching principle is that by purchasing an IT Solution from a third party, risks and responsibilities of its operations are handled by a company who has more resources and technical expertise to produce and maintain software.
 
-This principle unfortunately is leading to an oversimplified approach that doesn't take in account that, as an organization, ESDC is subject to multiple and fast-paced changes, whether at the legal, political, organizational or technological levels.
+This principle unfortunately is leading to an oversimplified approach that doesn't take into account that, as an organization, ESDC is subject to multiple and fast-paced changes, whether at the legal, political, organizational or technological levels.
 As such, it is critical for the organization to ensure that core to mandate or complex IT Solutions remain highly flexible and adaptable to adjust to the pressing changes while also minimizing the risk of those changes by adopting loosely coupled architectures and smaller sized work packages (see [Target Solution Delivery Model](strategy-target-solution-delivery-model.html) for proposed ways to support such an approach).
 
 This strategy proposes moving ESDC to the point where all stakeholders understand that IT Solutions are complex and investment decisions have to be taken with flexibility, interchangeability, and interoperability in mind **throughout the entire lifecycle** of an IT Solution, not only at the initial stage.
@@ -105,7 +105,7 @@ More details in [Appendix A](#appendix-a---business-case-diagnostic).
 ## Guiding Policy
 
 The following policy reflects the decision adopted by the **CIO of ESDC** (approval by CIO not yet obtained) when deciding whether an IT solution should be obtained by adopting, buying or building it.
-Each policy statement is a declaration of that decision and has received the endorsement of its associated area of governance body (endorsements not yet obtained, see section [coherent set of actions](#coherent-set-of-actions)).
+Each policy statement is a declaration of that decision and has received the endorsement of its associated area of governance body (endorsements not yet obtained, see [Coherent set of actions](#coherent-set-of-actions)).
 
 This policy becomes active when IT Solutions are to be obtained, whether delivered by ESDC or by a third-party provider.
 Once active, all teams involved in the project, and the IT products involved in the IT Solution, must comply with this guiding policy.
@@ -116,17 +116,17 @@ Stakeholders are expected to still comply with existing policy instruments inclu
 - ESDC Information Management Policy (being drafted)
 - ESDC [Procurement Policies](http://iservice.prv/eng/finance/purchasing/policy.shtml)
 - ESDC Security Policy (being drafted)
-- ESDC [Target Solution Delivery Model](strategy-target-solution-delivery-model.html)
+- ESDC [Target Solution Delivery Model](strategy-target-solution-delivery-model.html) (draft in consultation)
 - TBS [Directive on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601)
 - TBS [Directive on Security Management](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32611)
 - GC [Architecture Principles Standards](https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards)
 
 ### Governance, Compliance, and Reporting
 
-1. IT Solutions are broken down into manageable parts (IT Products) in line with the [Business Capability Model](https://gcconnex.gc.ca/file/group/21723432/all#33319941)
-2. IT Solutions are assessed against the IT Solutions Risk Assessment Framework (see [Risk Managing the Obtention of Software](#risk-managing-the-obtention-of-software)).
+1. IT Solutions are broken down into manageable parts (IT Products) in line with the [GC Business Capability Model](https://gcconnex.gc.ca/file/group/21723432/al#3l3319941)
+2. IT Solutions are assessed against the IT Solutions Risk Assessment Framework (to be created - see [Coherent set of actions](#coherent-set-of-actions) and read [Risk Managing the Obtention of Software](#risk-managing-the-obtention-of-software)).
   As such:
-   1. Complex and core to mandate IT Solutions are architected and delivered internally by ESDC employees but may leverage third party IT Products as components.
+   1. Complex and core to mandate IT Solutions are architected and delivered internally by ESDC employees, but may leverage third party IT Products as components.
    2. Non-complex and not core to mandate IT Solutions may be architected and delivered by third party integrators and/or vendors.
 3. IT Solutions must provide their overall and individual IT products metrics internally to ESDC. Metrics are comprised of the following:
    - Accessibility test results
@@ -135,33 +135,32 @@ Stakeholders are expected to still comply with existing policy instruments inclu
    - API consumption statistics
    - Production deployment audit traces
    - Availability statistics
-4. Security Assessment & Authority (SA&A) uses the Target-SA&A methodology
-5. Accessibility Assessment uses the Target-Accessibility methodology
-6. Audit Assessment uses the Target-Audit methodology
+4. Security Assessment & Authority (SA&A) uses the Target SA&A methodology (to be created - see <a href="strategy-target-solution-delivery-model.html#coherent-set-of-actions">Target IT Solution Delivery Model - Coherent set of actions</a>)
+5. Accessibility Assessment uses the Target Accessibility methodology (to be created - see <a href="strategy-target-solution-delivery-model.html#coherent-set-of-actions">Target IT Solution Delivery Model - Coherent set of actions</a>)
+6. Audit Assessment uses the Target Audit methodology (to be created - see <a href="strategy-target-solution-delivery-model.html#coherent-set-of-actions">Target IT Solution Delivery Model - Coherent set of actions</a>)
 7. IT Solutions reuse existing IT Products, including:
     - Internally developed software
     - Open Source Software (internally and externally developed and maintained)
     - Third party Services and Products (SaaS, PaaS, IaaS, etc.) and COTS
-8. IT Solutions capabilities for which existing IT Products are not readily available or do not meet the needs can be built internally or their development contracted for to a third party.
-    - When an IT Product is built internally, or when its custom development is obtained through contracting with a third party, it must be developed in the open and released as open source software by default, in accordance to the ESDC Open Source Framework.
-    - Exceptions may be sought on a per case basis.
-9. IT Product / IT Solution maintenance and support may be done in-house or outsourced to a 3rd party vendor
-10. Outsourced maintenance and support may be given to a 3rd party different than the one providing the software licence.
+8. IT Solutions capabilities for which existing IT Products are not readily available or do not meet the needs can be built internally or their development contracted to a third party.
+    - When an IT Product is built internally, or when its custom development is obtained through contracting with a third party, it must be developed in the open and released as open source software by default, in accordance with the ESDC Open Source Software Management Framework.
+    - Exceptions may be sought on a per-case basis.
+9. IT Product / IT Solution maintenance and support may be done in-house or outsourced to a third party vendor (which may be different from the one providing the software licence)
 
 ### Finance
 
-1. IT Solutions financial requirements are defined by the Operational Expense vs Capital Expense Framework
+1. IT Solutions financial requirements are defined by the Operational Expense vs Capital Expense Framework (to be created - see [Coherent set of actions](#coherent-set-of-actions))
 
 ### Legal
 
-1. IT Solutions use the ESDC Software Legal Terms Guidance
-2. IT Solutions and IT Products comply with the ESDC OSS Framework
+1. IT Solutions use the ESDC Software Legal Terms Guidance (to be created - see [Coherent set of actions](#coherent-set-of-actions))
+2. IT Solutions and IT Products comply with the ESDC OSS Management Framework
 
 ### Architecture
 
 1. IT Solutions and IT products loose coupling boundaries are at the Business Capability Model level.
    - Duplication of IT Products or IT Solutions is supported as long as they are for different business capabilities.
-2. IT Products are risk assessed for Lock-In situations with the IT Products risk assessment framework
+2. IT Products are risk assessed for lock-in situations with the IT Products risk assessment framework (to be created - see [Coherent set of actions](#coherent-set-of-actions))
 
 ## Coherent set of actions
 
@@ -173,11 +172,11 @@ Stakeholders are expected to still comply with existing policy instruments inclu
 
 ## Appendix A - Business Case (Diagnostic)
 
-The current approach to obtaining IT Solutions is to "Buy what we can, Build what we must".
+The current approach to obtaining IT Solutions is to "Buy what we can, Build what we must."
 
 The assumed reasoning behind this overarching strategy [TBC] is that by leveraging a third party, risks and responsibility of an IT Solutions are handled by a company who has more resources and technical expertise to produce and maintain software.
 
-This oversimplified approach unfortunately doesn't take in account the fact that as an organization, ESDC is subject to multiple and fast paced changes, whether at the legal, political, organizational or technological levels.
+This oversimplified approach unfortunately doesn't take into account the fact that as an organization, ESDC is subject to multiple and fast paced changes, whether at the legal, political, organizational or technological levels.
 
 As such, it is critical for the organization to ensure that core to mandate IT Solutions remain highly flexible and adaptable to adjust to the fast-paced changes while also minimizing the risk of said changes by adopting loosely coupled architectures and smaller sized work packages (see [Target Solution Delivery Model](strategy-target-solution-delivery-model.html)).
 
@@ -203,12 +202,12 @@ As such, the questions to ask are more akin to:
 - “For each of those component(s), is the best course of action adopting an open source component, purchasing the rights to use a commercial product or service, or building it internally?”, and
 - “How much organizational risk is the organization willing to delegate to a 3rd party for a product or service for which the future roadmap is not under the organization's control?”.
 
-In large and complex solutions, these questions shouldn't only be asked at the solution level but also for each component of said solution, taking in account multiple factors and criteria that will be explored below.
+In large and complex solutions, these questions shouldn't only be asked at the solution level but also for each component of said solution, taking into account multiple factors and criteria that will be explored below.
 
-Even when an IT Solution is said to be bought, it is never a plug and play situation, whether it consists in COTS or SaaS.
+Even when an IT Solution is said to be bought, it is never a plug-and-play situation, whether it consists in COTS or SaaS.
 The organization's IT teams need to obtain, configure and adapt the purchased IT Products to fit with the rest of the organization's IT infrastructure, services, and rules.
 
-Maintenance of IT Solutions should also be considered separately from the obtained solution as it may require work from personnel within the organization as well as the involvement of 3rd party personnel, whether it was a vendor or even a community of dedicated volunteers in the case of an open source solution.
+Maintenance of IT Solutions should thus be considered separately from the obtained solution as it may require work from personnel within the organization as well as the involvement of 3rd party personnel, whether it was a vendor or even a community of dedicated volunteers in the case of an open source solution.
 
 #### Additional considerations<!-- omit in toc -->
 
@@ -222,7 +221,7 @@ As such, if the organization is not in a position to design, build and operate t
 
 #### Risk Managing the Obtention of Software<!-- omit in toc -->
 
-The Strategy looks at risk managing the obtention of software over following dogmatic rules to purchase or build software (e.g. "SaaS first" does not mean SaaS always, "buy what we can" does not mean buying because it's available).
+The Strategy looks at risk managing the obtention of software over following dogmatic rules to purchase or build software (e.g. "SaaS first" does not mean SaaS always, "Buy what we can" does not mean buying because it's available).
 Instead, the Strategy will use such policy instruments as intended by the policy author and its authority to inform decisions for long-term sustainability and user needs.
 
 The risk management for obtaining software is based on the following formula:
