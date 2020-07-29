@@ -207,6 +207,7 @@ How to measure?
    b. To monitor and control the planning and initiating phases  
    c. To monitor the project team  
    d. To control the project team's performance  
+   e. None of the above/not applicable  
 
 - What are the main steps involved in planning and implementing a monitoring protocol in your team?  
    a. Complete background tasks  
@@ -344,6 +345,7 @@ How to measure?
   b. Three times a week  
   c. Once a week  
   d. Randomly  
+  e. None of the above/not applicable  
 
 ### 3.4 Visual management capabilities  
 
@@ -367,6 +369,7 @@ How to measure?
   c. In-product qualitative feedback (e.g. Send-a-Smile) and survey such as Net Promoter Score (NPS)  
   d. Usage telemetry is gathered with real user monitoring at 100% sampling  
   e. None of the above/not applicable  
+
 
 ## 4. Cultural capabilities
 
