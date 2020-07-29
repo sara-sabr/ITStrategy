@@ -193,7 +193,7 @@ Maintenance of IT Solutions should thus be considered separately from the obtain
 - Does the organization currently have the skill sets internally to architect, design, build and operate this solution?
 - Does the organization currently have the capacity internally to architect, design, build and operate this solution?
 
-These last questions, however, do not necessarily mean that the questions mentioned in the precendent section should not be asked subsequently.
+These last questions, however, do not necessarily mean that the questions mentioned in the precedent section should not be asked subsequently.
 It is possible that the organization does not possess the staff with the required skill set or sufficient capacity to deliver internally the IT Solution at a specific point in time.
 When that is the case, proper talent acquisition, retention, and training efforts are required.
 
@@ -383,14 +383,14 @@ Open Source Software
 : Software with its source code made available with a licence in which the copyright holder provides the rights to study, change, and distribute the software to anyone and for any purpose.
 The name used by the Open Source Initiative (OSI).
 Open source software is defined in the Open Source Definition by ten criteria.
-:- [Open First White paper: Open Source Software Use](https://www.canada.ca/en/government/system/digital-government/open-source-software/open-first-whitepaper/open-first-whitepaper-use.html#definitions)
+:- [Open First White paper: Open Source Software Use](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/open-source-software/open-first-whitepaper/open-first-whitepaper-use.html#definitions)
 
 Open standards
 : Open standards are a set of rules designed to do a specific job in technology.
 Open standards refer to file formats, protocols and application interfaces that can be implemented by everyone (in open source and proprietary software alike) since the specifications are available at no cost, and since their development and standardization is open and transparent.
 This standardization work is done by specialized agencies that are usually either government agencies or organizations created by professionals from a given industry sector.
 Examples of such organizations include the Internet Engineering Task Force (IETF), the International Organization for Standardization (ISO) and the Organization for the Advancement of Structured Information Standards (OASIS).
-: - [Open First White paper: Open Standards](https://www.canada.ca/en/government/system/digital-government/open-source-software/open-first-whitepaper/open-first-whitepaper-standards.html)
+: - [Open First White paper: Open Standards](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/open-source-software/open-first-whitepaper/open-first-whitepaper-standards.html)
 
 Closed COTS
 : Commercial Off-The-Self (COTS) software where the source code for said product is [not open source](#open-source-software).
