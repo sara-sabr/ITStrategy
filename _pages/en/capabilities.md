@@ -350,21 +350,23 @@ d. Medium: Randomly
 #### 3.4.2. Indicators
 
 1. What type of tools do you use to manage the work at various stages of a process?
-a. Card walls
-b. Storyboards
-c. Kanban boards
+a. Medium: Card walls
+b. High: Storyboards
+c. Elite: Kanban boards
+d. Low: We do not use any tools
+e. Low: None of the above/not applicable
 
 2. How long does it take to complete a project backlog?
-a. More than I would like
-b. About right
-c. Less than I would like
+a. Low: More than I would expect
+b. High: About right
+c. Elite: Less than I would expect
 
 3. How do you gather and measure feedback from users?
-a. Manual testing, user acceptance testing or general acceptance criteria
-b. Direct email/phone/web contact form, web meetings, or chat room
-c. In-product qualitative feedback (e.g. Send-a-Smile) and survey such as Net Promoter Score (NPS)
-d. Usage telemetry is gathered with real user monitoring at 100% sampling
-e. None of the above/not applicable
+a. Elite: Manual testing, user acceptance testing or general acceptance criteria
+b. High: Direct email/phone/web contact form, web meetings, or chat room
+c. Medium: In-product qualitative feedback (e.g. Send-a-Smile) and survey such as Net Promoter Score (NPS)
+d. Medium: Usage telemetry is gathered with real user monitoring at 100% sampling
+e. Low: None of the above/not applicable
 
 ## 4. Cultural capabilities
 
