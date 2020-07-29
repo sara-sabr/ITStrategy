@@ -286,13 +286,13 @@ How to measure?
 
 #### 3.2.2. Indicators
 
-- How often your team monitors the stability and security of your IT system
-   a. Very Frequently
-   b. Frequently
-   c. Occasionally
-   d. Rarely
-   e. Very Rarely
-   f. Never
+1. How often your team monitors the stability and security of your IT system
+   - Very Frequently
+   - Frequently
+   - Occasionally
+   - Rarely
+   - Very Rarely
+   - Never
 
 - How do you notify your team about failure alerts?
    a. Via email
