@@ -371,7 +371,6 @@ How to measure?
   d. Usage telemetry is gathered with real user monitoring at 100% sampling  
   e. None of the above/not applicable  
 
-
 ## 4. Cultural capabilities
 
 ### 4.2 Westrum organizational culture
