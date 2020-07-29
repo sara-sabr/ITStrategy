@@ -68,17 +68,17 @@ To provide IITB with a Adopt, Buy, and Build Assessment Framework.
 
 The strategy includes:
 
-1. A **guiding policy**, which serves to set automatic decisions that defines the Adopt, Buy, and Build Assessment Framework
-2. A **coherent set of actions** (an action plan), which serve to operationalize the Adopt, Buy, and Build Assessment Framework.
+1. A **guiding policy**, which serves to clarify potential gaps in the application of the GC Enterprise Architecture Mandatory Procedures
+2. A **coherent set of actions** (an action plan), which serve to operationalize the application of the GC Enterprise Architecture Mandatory Procedures within the ESDC IITB context.
 
 The intent behind this strategy is to communicate a decision by the CIO (not yet approved) on a path forward (the Guiding Policy), and what investments are needed to operationalize that decision (the coherent set of actions).
 
 ### Target Audience
 
-This **strategy document** is targeted to stakeholders involved in determining whether to adopt, buy, or build an IT Solution that has been approved as an outcome of an initiative.
+This **strategy document** is targeted to stakeholders involved in obtaining an IT Solution as an outcome of an initiative as defined in the PPPM.
 More specifically, stakeholders involved in architecting IT solutions, defining technology standards, developing, delivering, operationalizing and maintaining IT Solutions (such as Enterprise Architecture, Enterprise Operations, etc.) and guiding committees such as the Architecture Review Committee (ARC) and the Enterprise Architecture Review Board (EARB).
-This includes both IITB and non-IITB stakeholders (such as Business Functions, SSPB, CDO, ISB, IAERMB, and SSC).
-The list of stakeholders are listed in [Coherent set of actions](#coherent-set-of-actions) and are expected to participate in the execution stage of this strategy necessary to operationalize the Guiding Policy.
+This includes both IITB and non-IITB stakeholders such as, but not limited to, Business Functions, SSPB, CDO, ISB, IAERMB, and SSC.
+The list of stakeholders are listed in the [Coherent set of actions](#coherent-set-of-actions) and are expected to participate in the execution stage of this strategy necessary to operationalize the Guiding Policy.
 
 The **Guiding Policy**, once operationalized, will target stakeholders involved when the need for an IT Solution is raised, as well as when the IT Solution is conceptualized, architected, developed, delivered, operationalized, and maintained.
 All ESDC personnel involved in the exploration of IT Solutions and in IT investment decisions are expected to adhere to this policy.
@@ -90,7 +90,7 @@ Moving to the digital age requires improving IT's responsiveness and promoting a
 Yet, the current principle when obtaining IT Solutions is to "Buy what we can, Build what we must."
 The assumed reasoning behind this overarching principle is that by purchasing an IT Solution from a third party, risks and responsibilities of its operations are handled by a company who has more resources and technical expertise to produce and maintain software.
 
-This principle unfortunately is leading to an oversimplified approach that doesn't take into account that, as an organization, ESDC is subject to multiple and fast-paced changes, whether at the legal, political, organizational or technological levels.
+This principle unfortunately is leading to an oversimplified approach that doesn't take into account that, as an government department, ESDC is subject to multiple and fast-paced changes, whether at the [legal, political, organizational or technological levels](https://www.canada.ca/en/employment-social-development/corporate/reports/departmental-plan/2020-2021.html#h2.2-3.2), that impacts its ability to deliver on its mandate.
 As such, it is critical for the organization to ensure that core to mandate or complex IT Solutions remain highly flexible and adaptable to adjust to the pressing changes while also minimizing the risk of those changes by adopting loosely coupled architectures and smaller sized work packages (see [Target Solution Delivery Model](strategy-target-solution-delivery-model.html) for proposed ways to support such an approach).
 
 This strategy proposes moving ESDC to the point where all stakeholders understand that IT Solutions are complex and investment decisions have to be taken with flexibility, interchangeability, and interoperability in mind **throughout the entire lifecycle** of an IT Solution, not only at the initial stage.
@@ -145,7 +145,8 @@ Stakeholders are expected to still comply with existing policy instruments inclu
 8. IT Solutions capabilities for which existing IT Products are not readily available or do not meet the needs can be built internally or their development contracted to a third party.
     - When an IT Product is built internally, or when its custom development is obtained through contracting with a third party, it must be developed in the open and released as open source software by default, in accordance with the ESDC Open Source Software Management Framework.
     - Exceptions may be sought on a per-case basis.
-9. IT Product / IT Solution maintenance and support may be done in-house or outsourced to a third party vendor (which may be different from the one providing the software licence)
+9. IT Product / IT Solution maintenance and support may be done in-house or outsourced to a 3rd party vendor
+10. Outsourced maintenance and support may be given to a 3rd party different than the one providing the software licence.
 
 ### Finance
 
