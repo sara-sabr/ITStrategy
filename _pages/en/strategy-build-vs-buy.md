@@ -129,28 +129,8 @@ Stakeholders are expected to still comply with existing policy instruments inclu
 
 1. IT Solutions are broken down into manageable parts (IT Products) in line with the [GC Business Capability Model](https://gcconnex.gc.ca/file/group/21723432/al#3l3319941)
 2. IT Solutions are assessed against the IT Solutions Risk Assessment Framework (to be created - see [Coherent set of actions](#coherent-set-of-actions) and read [Risk Managing the Obtention of Software](#risk-managing-the-obtention-of-software)).
-  As such:
-   1. Complex and core to mandate IT Solutions are architected and delivered internally by ESDC employees, but may leverage third party IT Products as components.
-   2. Non-complex and not core to mandate IT Solutions may be architected and delivered by third party integrators and/or vendors.
-3. IT Solutions must provide their overall and individual IT products metrics internally to ESDC. Metrics are comprised of the following:
-   - Accessibility test results
-   - Integration testing results
-   - Security test results
-   - API consumption statistics
-   - Production deployment audit traces
-   - Availability statistics
-4. Security Assessment & Authority (SA&A) uses the Target SA&A methodology (to be created - see <a href="strategy-target-solution-delivery-model.html#coherent-set-of-actions">Target IT Solution Delivery Model - Coherent set of actions</a>)
-5. Accessibility Assessment uses the Target Accessibility methodology (to be created - see <a href="strategy-target-solution-delivery-model.html#coherent-set-of-actions">Target IT Solution Delivery Model - Coherent set of actions</a>)
-6. Audit Assessment uses the Target Audit methodology (to be created - see <a href="strategy-target-solution-delivery-model.html#coherent-set-of-actions">Target IT Solution Delivery Model - Coherent set of actions</a>)
-7. IT Solutions reuse existing IT Products, including:
-    - Internally developed software
-    - Open Source Software (internally and externally developed and maintained)
-    - Third party Services and Products (SaaS, PaaS, IaaS, etc.) and COTS
-8. IT Solutions capabilities for which existing IT Products are not readily available or do not meet the needs can be built internally or their development contracted to a third party.
-    - When an IT Product is built internally, or when its custom development is obtained through contracting with a third party, it must be developed in the open and released as open source software by default, in accordance with the ESDC Open Source Software Management Framework.
-    - Exceptions may be sought on a per-case basis.
-9. IT Product / IT Solution maintenance and support may be done in-house or outsourced to a 3rd party vendor
-10. Outsourced maintenance and support may be given to a 3rd party different than the one providing the software licence.
+3. IT Product / IT Solution maintenance and support may be done in-house or outsourced to a 3rd party vendor
+4. Outsourced maintenance and support may be given to a 3rd party different than the one providing the software licence.
 
 ### Finance
 
