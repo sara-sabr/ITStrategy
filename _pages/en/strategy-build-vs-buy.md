@@ -66,12 +66,12 @@ permalink: /strategy-build-vs-buy.html
 
 ### Purpose
 
-To provide IITB with a Adopt, Buy, and Build Assessment Framework.
+To provide IITB with an overarching strategy in the application of the GC Enterprise Architecture Mandatory Principles in the context of obtaining IT Solutions.
 
 The strategy includes:
 
-1. A **guiding policy**, which serves to clarify potential gaps in the application of the GC Enterprise Architecture Mandatory Procedures
-2. A **coherent set of actions** (an action plan), which serve to operationalize the application of the GC Enterprise Architecture Mandatory Procedures within the ESDC IITB context.
+1. A **guiding policy**, which serves to clarify the application of the GC Enterprise Architecture Mandatory Procedures for obtaining IT Solutions.
+2. A **coherent set of actions** (an action plan), which serve to operationalize the application of the GC Enterprise Architecture Mandatory Procedures for obtaining an IT Solution within the ESDC IITB context.
 
 The intent behind this strategy is to communicate a decision by the CIO (not yet approved) on a path forward (the Guiding Policy), and what investments are needed to operationalize that decision (the coherent set of actions).
 
@@ -177,9 +177,9 @@ Stakeholders are expected to still comply with existing policy instruments inclu
 
 The current approach to obtaining IT Solutions is to "Buy what we can, Build what we must."
 
-The assumed reasoning behind this overarching strategy [TBC] is that by leveraging a third party, risks and responsibility of an IT Solutions are handled by a company who has more resources and technical expertise to produce and maintain software.
+The assumed reasoning behind this overarching principle is that by leveraging a third party, risks and responsibility of an IT Solutions are handled by a company who has more resources and technical expertise to produce and maintain software.
 
-This oversimplified approach unfortunately doesn't take into account the fact that as an organization, ESDC is subject to multiple and fast paced changes, whether at the legal, political, organizational or technological levels.
+This oversimplified approach unfortunately doesn't take into account the fact that, as an organization, ESDC is subject to multiple and fast paced changes, whether at the [legal, political, organizational or technological levels](), that may impact its ability to deliver on its mandate.
 
 As such, it is critical for the organization to ensure that core to mandate IT Solutions remain highly flexible and adaptable to adjust to the fast-paced changes while also minimizing the risk of said changes by adopting loosely coupled architectures and smaller sized work packages (see [Target Solution Delivery Model](strategy-target-solution-delivery-model.html)).
 
