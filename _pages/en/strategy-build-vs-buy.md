@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Adopt, Buy, Build"
+title: "Adopt, Buy, and Build"
 ref: build-vs-buy
 lang: en
 status: posted
@@ -64,18 +64,18 @@ permalink: /strategy-build-vs-buy.html
 
 ### Purpose
 
-To provide IITB with a Build Versus Buy Assessment Framework.
+To provide IITB with a Adopt, Buy, and Build Assessment Framework.
 
 The strategy includes:
 
-1. A **guiding policy**, which serves to set automatic decisions that defines the Build Versus Buy Assessment Framework
-2. A **coherent set of actions** (an action plan), which serve to operationalize the Build Versus Buy Assessment Framework.
+1. A **guiding policy**, which serves to set automatic decisions that defines the Adopt, Buy, and Build Assessment Framework
+2. A **coherent set of actions** (an action plan), which serve to operationalize the Adopt, Buy, and Build Assessment Framework.
 
 The intent behind this strategy is to communicate a decision by the CIO (not yet approved) on a path forward (the Guiding Policy), and what investments are needed to operationalize that decision (the coherent set of actions).
 
 ### Target Audience
 
-This **strategy document** is targeted to stakeholders involved in determining whether to build or to buy an IT Solution that has been approved.
+This **strategy document** is targeted to stakeholders involved in determining whether to adopt, buy, or build an IT Solution that has been approved as outcome of an initiative.
 More specifically, stakeholders involved in architecting IT solutions, defining technology standards, developing, delivering, operationalizing and maintaining IT Solutions (such as Enterprise Architecture, Enterprise Operations, etc.) and guiding committees such as the Architecture Review Committee and the Enterprise Architecture Review Board.
 This includes both IITB and non-IITB stakeholders (such as Business Functions, SSPB, CDO, ISB, IAERMB, and SSC).
 The list of stakeholders are listed in section [Coherent set of actions](#coherent-set-of-actions) and are expected to participate in the execution stage of this strategy necessary to operationalize the Guiding Policy.
@@ -88,27 +88,27 @@ All ESDC personnel involved in the exploration of IT Solutions and in IT investm
 Moving to the digital age requires improving IT's responsiveness and promoting a shared accountability with ESDC stakeholders on the use of technology.
 
 Yet, the current principle when obtaining IT Solutions is to "Buy what we can, Build what we must".
-The assumed reasoning behind this overarching principle [TBC] is that by leveraging a third party, risks and responsibilities of an IT Solutions are handled by a company who has more resources and technical expertise to produce and maintain software.
+The assumed reasoning behind this overarching principle is that by purchasing an IT Solution from a third party, risks and responsibilities of its operations are handled by a company who has more resources and technical expertise to produce and maintain software.
 
-This principle unfortunately is leading to an oversimplified approach that doesn't take in account the fact that, as an organization, ESDC is subject to multiple and fast-paced changes, whether at the legal, political, organizational or technological levels.
-As such, it is critical for the organization to ensure that core to mandate or complex IT Solutions remain highly flexible and adaptable to adjust to the pressing changes while also minimizing the risk of said changes by adopting loosely coupled architectures and smaller sized work packages (see [Target Solution Delivery Model](strategy-target-solution-delivery-model.html) for proposed ways to support such an approach).
+This principle unfortunately is leading to an oversimplified approach that doesn't take in account that, as an organization, ESDC is subject to multiple and fast-paced changes, whether at the legal, political, organizational or technological levels.
+As such, it is critical for the organization to ensure that core to mandate or complex IT Solutions remain highly flexible and adaptable to adjust to the pressing changes while also minimizing the risk of those changes by adopting loosely coupled architectures and smaller sized work packages (see [Target Solution Delivery Model](strategy-target-solution-delivery-model.html) for proposed ways to support such an approach).
 
 This strategy proposes moving ESDC to the point where all stakeholders understand that IT Solutions are complex and investment decisions have to be taken with flexibility, interchangeability, and interoperability in mind **throughout the entire lifecycle** of an IT Solution, not only at the initial stage.
 The benefits to the adoption of this Strategy are expected to reduce risk [^1], reduce technical debt over time, increase client satisfaction, and increase overall confidence in the department and its staff, for both net new or enhancements to IT Solutions.
 
-This strategy capitalizes on existing IT initiatives (such as the [IITB Way Forward](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx)) to compliment them by adding attention to them, as well as complimenting them with new activities.
+This strategy capitalizes on existing IT initiatives (such as the [IITB Way Forward](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx)) to complement them by adding attention to them, as well as supporting them with new activities.
 
-This strategy's goal is to define a Build Versus Buy Assessment Framework, and provide a roadmap in getting to the adoption of this framework.
+This strategy's goal is to define an Adopt, Buy and Build Assessment Framework, and provide a roadmap in getting to the adoption of this framework.
 
 More details in [Appendix A](#appendix-a---business-case-diagnostic).
 
 ## Guiding Policy
 
-The following policy reflects the decision adopted by the **CIO of ESDC** (approval by CIO not yet obtained) when deciding whether an IT solution should be built or bought.
+The following policy reflects the decision adopted by the **CIO of ESDC** (approval by CIO not yet obtained) when deciding whether an IT solution should be obtained by adopting, buying or building it.
 Each policy statement is a declaration of that decision and has received the endorsement of its associated area of governance body (endorsements not yet obtained, see section [coherent set of actions](#coherent-set-of-actions)).
 
 This policy becomes active when IT Solutions are to be obtained, whether delivered by ESDC or by a third-party provider.
-Once active, all teams involved in the project, and the IT products involved in the IT solution, must comply with this guiding policy.
+Once active, all teams involved in the project, and the IT products involved in the IT Solution, must comply with this guiding policy.
 
 This Guiding Policy has been prepared by taking into consideration alignment and compliance with existing policy instruments and does not replace them.
 Stakeholders are expected to still comply with existing policy instruments including, but not limited to:
@@ -205,10 +205,10 @@ As such, the questions to ask are more akin to:
 
 In large and complex solutions, these questions shouldn't only be asked at the solution level but also for each component of said solution, taking in account multiple factors and criteria that will be explored below.
 
-Even when an IT Solution is bought, it is never a plug and play situation, whether it consists in COTS or SaaS.
+Even when an IT Solution is said to be bought, it is never a plug and play situation, whether it consists in COTS or SaaS.
 The organization's IT teams need to obtain, configure and adapt the purchased IT Products to fit with the rest of the organization's IT infrastructure, services, and rules.
 
-Maintenance of IT Solutions should thus be considered separately from the obtained solution as it may require work from personnel within the organization as well as the involvement of 3rd party personnel, whether it was a vendor or even a community of dedicated volunteers in the case of an open source solution.
+Maintenance of IT Solutions should also be considered separately from the obtained solution as it may require work from personnel within the organization as well as the involvement of 3rd party personnel, whether it was a vendor or even a community of dedicated volunteers in the case of an open source solution.
 
 #### Additional considerations<!-- omit in toc -->
 
