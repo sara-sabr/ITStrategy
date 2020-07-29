@@ -202,9 +202,8 @@ How to measure?
 
 #### 3.1.2. Indicators
 
-1. What is the purpose of the monitor and control phase in your team?
-
-   a.To measure the performance of the new process after the execution phase  
+1. What is the purpose of the monitor and control phase in your team?  
+   a. To measure the performance of the new process after the execution phase  
    b. To monitor and control the planning and initiating phases  
    c. To monitor the project team  
    d. To control the project team's performance  
