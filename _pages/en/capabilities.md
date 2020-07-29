@@ -310,7 +310,7 @@ d. High: Rarely
 e. Elite: Never
 
 4. How long does it take to fix the problem?
-a. Elite: Less than I expect 
+a. Elite: Less than I expect
 b. High: About right
 c. Medium: More than I expect
 d. Low: We never fix it
