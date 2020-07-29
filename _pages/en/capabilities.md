@@ -179,7 +179,7 @@ How to measure?
 #### 2.2.2. Indicators
 
 - What percentage of changes do not require a manual change approval to be promoted to production?
-- what percentage of low-, medium-, and high-risk changes require a manual change approval to be promoted to production?
+- What percentage of low-, medium-, and high-risk changes require a manual change approval to be promoted to production?
 - What amount of time do changes spend waiting for approval from external bodies?
 - What percentage of changes are managed by peer-review?
 
@@ -192,181 +192,183 @@ How to measure?
 - Changes spend [1-7] days waiting for approval from external bodies
 - 10% of changes are managed by peer-review
 
-## 3. Measurement Capabilities
+## 3. Measurement Capabilities  
 
-### 3.1 Monitoring systems to inform business decisions
+### 3.1 Monitoring systems to inform business decisions  
 
-#### 3.1.1 Outcomes
-
-...
-
-#### 3.1.2. Indicators
-
-1. What is the purpose of the monitor and control phase in your team?
-a. Elite: To measure the performance of the new process after the execution phase
-b. High: To monitor and control the planning and initiating phases
-c. Medium: To monitor the project team
-d. Low: To control the project team's performance
-
-2. What are the main steps involved in planning and implementing a monitoring protocol in your team?
-a. High: Complete background tasks
-b. Elite: Develop objectives
-c. High: Design and implement management
-d. High: Design the monitoring methodology
-e. Medium: Implement monitoring as a pilot study
-f. Elite: Implement monitoring
-g. Elite: Report and use results
-h. Low: None of the above/not applicable
-
-3. Which step in planning and implementing a monitoring protocol in your team takes the most time?
-a. Low: Complete background tasks
-b. Medium: Develop objectives
-c. High: Design and implement management
-d. High: Design the monitoring methodology
-e. Medium: Implement monitoring as a pilot study
-f. Elite: Implement monitoring
-g. Elite: Report and use results
-h. Low: None of the above/not applicable
-
-4. What instrumentation do you use to monitor applications running in production?
-a. High: Availability monitoring via pinging or synthetic transactions
-b. High: Performance monitoring of the servers and infrastructure
-c. Elite: Real user monitoring
-d. Elite: Multi-tier views of end-to-end transactions including processing and network combined
-e. Low: None of the above/not applicable
-
-5. How fast your team reacts to alerts when the system approaches critical thresholds or goes down?
-a. Elite: When the threshold reaches 25%
-b. High: When the threshold reaches 50%
-c. Medium: When the threshold reaches 75%
-d. Low: When the threshold reaches 85%
-e. Low: When the threshold reaches 95%
-
-6. How is the monitoring process executed in your team?
-a. Elite: Monitoring one or two areas at a time
-b. Medium: Monitoring the full software development
-c. Low: We are not monitoring
-
-7. Which tool do you use to share collected data in your team?
-a. Medium: Google docs
-b. High: Sharepoint
-c. Medium: Email
-d. Elite: Office 365
-e. Low: Slack
-f. Low: None of the above/not applicable
-
-8. What has the most impact to make a business decision in your team?
-a. Elite: Data from application performance monitoring tools
-b. Elite: Data from infrastructure monitoring tool
-c. High: Outside perspective
-d. High: Previous decision mistakes
-e. Medium: Your gut instinct
-f. Low: None of the above/not applicable
-
-9. How usually  accurate and relevant  is the data to your goal of the team?
-a. Elite: Very Frequently
-b. High: Frequently
-c. Medium: Occasionally
-d. Medium: Rarely
-e. Low: Very Rarely
-f. Low: Never
-
-10. How often you felt guilty of seeing the data you wish was there instead of what is really in front of you?
-a. Low: Always
-b. Low: Very Often
-c. Medium: Sometimes
-d. High: Rarely
-e. Elite: Never
-
-#### 3.1.3 Goals
+#### 3.1.1 Outcomes  
 
 ...
 
-### 3.2 Proactive failure notification
+#### 3.1.2. Indicators  
 
-#### 3.2.2. Indicators
+- What is the purpose of the monitor and control phase in your team?  
+   a. To measure the performance of the new process after the execution phase  
+   b. To monitor and control the planning and initiating phases  
+   c. To monitor the project team  
+   d. To control the project team's performance  
+   e. None of the above/not applicable  
 
-1. How often your team monitors the stability and security of your IT system
-a. Elite: Very Frequently
-b. High: Frequently
-c. Medium: Occasionally
-d. Low: Rarely
-e. Low: Very Rarely
-f. Low: Never
+- What are the main steps involved in planning and implementing a monitoring protocol in your team?  
+   a. Complete background tasks  
+   b. Develop objectives  
+   c. Design and implement management  
+   d. Design the monitoring methodology  
+   e. Implement monitoring as a pilot study  
+   f. Implement monitoring  
+   g. Report and use results  
+   h. None of the above/not applicable  
 
-2. How do you notify your team about failure alerts?
-a. Elite: Via email
-b. High: Via PR in Github
-c. High: Via Slack
-d. Medium: Via Trello board
-e. Medium: Via phone call
-f. Low: None of the above/not applicable
+- Which step in planning and implementing a monitoring protocol in your team takes the most time?  
+   a. Complete background tasks  
+   b. Develop objectives  
+   c. Design and implement management  
+   d. Design the monitoring methodology  
+   e. Implement monitoring as a pilot study  
+   f. Implement monitoring  
+   g. Report and use results  
+   h. None of the above/not applicable  
 
-3. How often do you  face the situation when your team finds out from customers that your application or service is down?
-a. Low: Always
-b. Low: Very Often
-c. Medium: Sometimes
-d. High: Rarely
-e. Elite: Never
+- What instrumentation do you use to monitor applications running in production?  
+   a. Availability monitoring via pinging or synthetic transactions  
+   b. Performance monitoring of the servers and infrastructure  
+   c. Real user monitoring  
+   d. Multi-tier views of end-to-end transactions including processing and network combined  
+   e. None of the above/not applicable  
 
-4. How long does it take to fix the problem?
-a. Elite: Less than I expect
-b. High: About right
-c. Medium: More than I expect
-d. Low: We never fix it
+- How fast your team reacts to alerts when the system approaches critical thresholds or goes down?  
+   a. When the threshold reaches 25%  
+   b. When the threshold reaches 50%  
+   c. When the threshold reaches 75%  
+   d. When the threshold reaches 85%  
+   e. When the threshold reaches 95%  
 
-### 3.3 Work in process limits
+- How is the monitoring process executed in your team?  
+   a. Monitoring one or two areas at a time  
+   b. Monitoring the full software development  
+   c. We are not monitoring  
 
-#### 3.3.2. Indicators
+- Which tool do you use to share collected data in your team?  
+   a. Google docs  
+   b. Sharepoint  
+   c. Email  
+   d. Office 365  
+   e. Slack  
+   f. None of the above/not applicable  
 
-1. Are people in your team often assigned to work on multiple tasks ? If yes , what is the main reason?
-a. Elite: It usually doesn't happen
-b. High: Too much work
-c. Medium: Not enough people in the team
-d. Low: Not the right skill sets in the team
+- What has the most impact to make a business decision in your team?  
+   a. Data from application performance monitoring tools  
+   b. Data from infrastructure monitoring tool  
+   c. Outside perspective  
+   d. Previous decision mistakes  
+   e. Your gut instinct  
+   f. None of the above/not applicable  
 
-2. How often does your team discover invisible work when it is not expected ?
-a. Low: Almost always
-b. Low: Often
-c. Medium: Sometimes
-d. High: Seldom
-e. Elite: Never
+- How usually  accurate and relevant  is the data to your goal of the team?  
+   a. Very Frequently  
+   b. Frequently  
+   c. Occasionally  
+   d. Rarely  
+   e. Very Rarely  
+   f. Never  
 
-3. How visible is your work to the other teams and stakeholders?
-a. Elite: Very good
-b. High: Good
-c. Medium: Fair
-d. Low: Poor
-e. Low: Very poor
+- How often you felt guilty of seeing the data you wish was there instead of what is really in front of you?  
+   a. Always  
+   b. Very Often  
+   c. Sometimes  
+   d. Rarely  
+   e. Never  
 
-4. How often project team meetings are held ?
-a. Elite: Every day
-b. High: Three times a week
-c. Low: Once a week
-d. Medium: Randomly
+#### 3.1.3 Goals  
 
-### 3.4 Visual management capabilities
+...
 
-#### 3.4.2. Indicators
+### 3.2 Proactive failure notification  
 
-1. What type of tools do you use to manage the work at various stages of a process?
-a. Medium: Card walls
-b. High: Storyboards
-c. Elite: Kanban boards
-d. Low: We do not use any tools
-e. Low: None of the above/not applicable
+#### 3.2.2. Indicators  
 
-2. How long does it take to complete a project backlog?
-a. Low: More than I would expect
-b. High: About right
-c. Elite: Less than I would expect
+- How often your team monitors the stability and security of your IT system  
+   a. Very Frequently  
+   b. Frequently  
+   c. Occasionally  
+   d. Rarely  
+   e. Very Rarely  
+   f. Never  
 
-3. How do you gather and measure feedback from users?
-a. Elite: Manual testing, user acceptance testing or general acceptance criteria
-b. High: Direct email/phone/web contact form, web meetings, or chat room
-c. Medium: In-product qualitative feedback (e.g. Send-a-Smile) and survey such as Net Promoter Score (NPS)
-d. Medium: Usage telemetry is gathered with real user monitoring at 100% sampling
-e. Low: None of the above/not applicable
+- How do you notify your team about failure alerts?  
+   a. Via email  
+   b. Via PR in Github  
+   c. Via Slack  
+   d. Via Trello board  
+   e. Via phone call  
+   f. None of the above/not applicable  
+
+- How often do you  face the situation when your team finds out from customers that your application or service is down?  
+  a. Always  
+  b. Very Often  
+  c. Sometimes  
+  d. Rarely  
+  e. Never  
+
+- How long does it take to fix the problem?  
+  a. Less than I expect  
+  b. About right  
+  c. More than I expect  
+  d. We never fix it  
+
+### 3.3 Work in process limits  
+
+#### 3.3.2. Indicators  
+
+- Are people in your team often assigned to work on multiple tasks ? If yes , what is the main reason?  
+  a. It usually doesn't happen  
+  b. Too much work  
+  c. Not enough people in the team  
+  d. Not the right skill sets in the team  
+
+- How often does your team discover invisible work when it is not expected ?  
+  a. Almost always  
+  b. Often  
+  c. Sometimes  
+  d. Seldom  
+  e. Never  
+
+- How visible is your work to the other teams and stakeholders?  
+  a. Very good  
+  b. Good  
+  c. Fair  
+  d. Poor  
+  e. Very poor  
+
+- How often project team meetings are held ?  
+  a. Every day  
+  b. Three times a week  
+  c. Once a week  
+  d. Randomly  
+  e. None of the above/not applicable  
+
+### 3.4 Visual management capabilities  
+
+#### 3.4.2. Indicators  
+
+- What type of tools do you use to manage the work at various stages of a process?  
+  a. Card walls  
+  b. Storyboards  
+  c. Kanban boards  
+  d. We do not use any tools  
+  e. None of the above/not applicable  
+
+- How long does it take to complete a project backlog?  
+  a. More than I would expect  
+  b. About right  
+  c. Less than I would expect  
+
+- How do you gather and measure feedback from users?  
+  a. Manual testing, user acceptance testing or general acceptance criteria  
+  b. Direct email/phone/web contact form, web meetings, or chat room  
+  c. In-product qualitative feedback (e.g. Send-a-Smile) and survey such as Net Promoter Score (NPS)  
+  d. Usage telemetry is gathered with real user monitoring at 100% sampling  
+  e. None of the above/not applicable  
 
 ## 4. Cultural capabilities
 
