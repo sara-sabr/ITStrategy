@@ -90,13 +90,13 @@ potential to be leveraged as a recruitment tool.
 
 Micro-procurement could also improve diversity in GC IT contracting. The [data](https://www.ic.gc.ca/eic/site/061.nsf/vwapj/SFGSME-EFCPME_2017_eng_public.pdf/$file/
 SFGSME-EFCPME_2017_eng_public.pdf) from the [2017 Survey on Financing and Growth for Small and Medium Enterprises](https://www150.statcan.gc.ca/n1/daily-quotidien/181116/dq181116c-eng.
-htm) show that 95% of Small and Medium Enterprises (SME's) surveyed did not sell to the federal government.  While supply arrangements and standing offers are helpful, they can sometimes
+htm) show that 95% of Small and Medium Enterprises (SMEs) surveyed did not sell to the federal government.  While supply arrangements and standing offers are helpful, they can sometimes
 2017-2018/index-eng.html) to the Office of the Procurement Ombudsman. While we have nothing against companies in the NCR, equity in the supply chain is extremely
 important, and research shows that when more diverse voices are heard, the [chance of innovation is greater](https://hbr.org/2013/12/how-diversity-can-drive-innovation). With a
 simplified bid process, and targeted engagement, micro-procurement provides an opportunity for the GC to gain access to expertise in small and medium businesses run by those who are
 Black, Indigenous or people of colour, as well as those with disabilities, women, LGBTQ+, and freelancers and companies outside the NCR. Within the Government of Canada the [Office of
 Small and Medium Enterprise](https://www.tpsgc-pwgsc.gc.ca/app-acq/pme-sme/index-eng.html) advocates for and encourages SME participation in GC procurement. They work to understand the
-barriers that SME's face in doing business with the GC and run regular [webinars](https://buyandsell.gc.ca/event-calendar) to help SMEs navigate the various procurement processes. Folks
+barriers that SMEs face in doing business with the GC and run regular [webinars](https://buyandsell.gc.ca/event-calendar) to help SMEs navigate the various procurement processes. Folks
 from this organization have been extremely generous in sharing their knowledge and expertize with us.
 
 Enabling micro-procurement for digital work could help move the government towards modern solutions, enable faster deployments, increase the GC's uptake of open source, help upskill our
