@@ -69,7 +69,7 @@ The US gov has a [simplified process for all micro-purchases](https://acquisitio
 their Deputy Heads to delegate authority for micro-purchasing. Many groups within the US government have experimented with using this process to purchase open source code including the
 [IT Modernization CoE](https://digital.gov/2020/04/24/experimenting-with-micropurchase-threshold/), the [Department of Veterans' Affairs](https://github.com/department-of-veterans-affairs/VA-Micropurchase-Repo), and [18F](https://github.com/18f/micropurchase-archive).
 
-The Government of Canada has already dipped its toe into micro-procurement for open source code with the 2017 launch of the pilot [GC Developers Exchange](https://github.com/canada-ca/devex) by Privy Council Office (in partnership with TBS and PSPC). All contracts awarded via GCDevEx were $10K and under, and were for virtual and unclassified work only (eliminating the
+The GC has already dipped its toe into micro-procurement for open source code with the 2017 launch of the pilot [GC Developers Exchange](https://github.com/canada-ca/devex) by Privy Council Office (in partnership with TBS and PSPC). All contracts awarded via GCDevEx were $10K and under, and were for virtual and unclassified work only (eliminating the
 need for a security check). The GCDevEx pilot created many [lessons learned](https://github.com/canada-ca/devex/issues/51), but ultimately went offline as it did not include simplified
 back-end procurement processes and it struggled to find a new lead following the completion of the pilot by PCO.
 
@@ -79,14 +79,14 @@ could, as a result, increase the uptake of open source use in the GC (the use of
 
 Micro-procurement of open source code could help us upskill GC IT employees. Strategic procurement of open source code can bring knowledge into IT teams that is not currently there.
 Folks would be contracted to solve problems for us and when they turn over the code, we learn from them in almost a train the trainer sort of way. This would enable us to build capacity
-in house and embed modern tools and practices in the GC. Further, contributions to Government of Canada open source projects, or open source projects being leveraged by the GC, has the
+in house and embed modern tools and practices in the GC. Further, contributions to GC open source projects, or open source projects being leveraged by the GC, has the
 potential to be leveraged as a recruitment tool.
 
 Micro-procurement could also improve diversity in GC IT contracting. The [data](https://www.ic.gc.ca/eic/site/061.nsf/vwapj/SFGSME-EFCPME_2017_eng_public.pdf/$file/SFGSME-EFCPME_2017_eng_public.pdf) from the [2017 Survey on Financing and Growth for Small and Medium Enterprises](https://www150.statcan.gc.ca/n1/daily-quotidien/181116/dq181116c-eng.htm) show that 95% of Small and Medium Enterprises (SMEs) surveyed did not sell to the federal government.  While supply arrangements and standing offers are helpful, they can sometimes
 2017-2018/index-eng.html) to the Office of the Procurement Ombudsman. While we have nothing against companies in the NCR, equity in the supply chain is extremely
 important, and research shows that when more diverse voices are heard, the [chance of innovation is greater](https://hbr.org/2013/12/how-diversity-can-drive-innovation). With a
 simplified bid process, and targeted engagement, micro-procurement provides an opportunity for the GC to gain access to expertise in small and medium businesses run by those who are
-Black, Indigenous or people of colour, as well as those with disabilities, women, LGBTQ+, and freelancers and companies outside the NCR. Within the Government of Canada the [Office of
+Black, Indigenous or people of colour, as well as those with disabilities, women, LGBTQ+, and freelancers and companies outside the NCR. Within the GC the [Office of
 Small and Medium Enterprise](https://www.tpsgc-pwgsc.gc.ca/app-acq/pme-sme/index-eng.html) advocates for and encourages SME participation in GC procurement. They work to understand the
 barriers that SMEs face in doing business with the GC and run regular [webinars](https://buyandsell.gc.ca/event-calendar) to help SMEs navigate the various procurement processes. Folks
 from this organization have been extremely generous in sharing their knowledge and expertize with us.
