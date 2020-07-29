@@ -35,11 +35,13 @@ permalink: /strategy-build-vs-buy.html
 **Change log**
 <!-- markdownlint-enable MD036 -->
 
-|Version|Date of Change|Change Description|
-|0.01|2020-06-22|First Draft, moved from working document to web page|
-|0.02|2020-06-30|Created list of guiding policy rules, Removed duplicate content, Created separate documents for context, Cleaned up definitions|
-|0.03|2020-07-06|Simplify set of guiding policy rules|
-|0.04|2020-07-17|Add Assumptions to notes, clarify Appendix A - Business Case, Dispose of first round of comments|
+| Version | Date of Change | Change Description                                                                                                                         |
+|:------- | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| 0.01    | 2020-06-22     | First Draft, moved from working document to web page                                                                                       |
+| 0.02    | 2020-06-30     | Created list of guiding policy rules, Removed duplicate content, Created separate documents for context, Cleaned up definitions            |
+| 0.03    | 2020-07-06     | Simplify set of guiding policy rules                                                                                                       |
+| 0.04    | 2020-07-17     | Add Assumptions to notes, clarify Appendix A - Business Case, Dispose of first round of comments                                           |
+| 0.05    | 2020-07-29     | Dispose v0.04 feedback, simplify rules, address duplication of content, realign strategy with Enterprise Architecture Mandatory Procedures |
 
 <!-- markdownlint-disable MD001 -->
 ##### Table of Content<!-- omit in toc -->
