@@ -106,10 +106,10 @@ More details in [Appendix A](#appendix-a---business-case-diagnostic).
 
 ## Guiding Policy
 
-The following policy reflects the decision adopted by the **CIO of ESDC** (approval by CIO not yet obtained) when deciding whether an IT solution should be obtained by adopting, buying or building it.
+The following policy reflects the decision adopted by the **CIO of ESDC** (approval by CIO not yet obtained) when assessing the most appropriate way of obtaining an IT solution, whether by adopting, buying or building it.
 Each policy statement is a declaration of that decision and has received the endorsement of its associated area of governance body (endorsements not yet obtained, see [Coherent set of actions](#coherent-set-of-actions)).
 
-This policy becomes active when IT Solutions are to be obtained, whether delivered by ESDC or by a third-party provider.
+This policy becomes active when an ESDC initiative requires for an IT Solutions to be obtained, whether delivered by ESDC or by a third-party provider.
 Once active, all teams involved in the project, and the IT products involved in the IT Solution, must comply with this guiding policy.
 
 This Guiding Policy has been prepared by taking into consideration alignment and compliance with existing policy instruments and does not replace them.
@@ -119,7 +119,9 @@ Stakeholders are expected to still comply with existing policy instruments inclu
 - ESDC [Procurement Policies](http://iservice.prv/eng/finance/purchasing/policy.shtml)
 - ESDC Security Policy (being drafted)
 - ESDC [Target Solution Delivery Model](strategy-target-solution-delivery-model.html) (draft in consultation)
-- TBS [Directive on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601)
+- TBS [Directive on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601); and specifically:
+  - [Appendix A: Mandatory Procedures for Enterprise Architecture Assessment](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602)
+  - [Appendix B: Mandatory Procedures on Application Programming Interfaces](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604)
 - TBS [Directive on Security Management](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32611)
 - GC [Architecture Principles Standards](https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards)
 
@@ -174,14 +176,6 @@ Stakeholders are expected to still comply with existing policy instruments inclu
 [Upcoming]
 
 ## Appendix A - Business Case (Diagnostic)
-
-The current approach to obtaining IT Solutions is to "Buy what we can, Build what we must."
-
-The assumed reasoning behind this overarching principle is that by leveraging a third party, risks and responsibility of an IT Solutions are handled by a company who has more resources and technical expertise to produce and maintain software.
-
-This oversimplified approach unfortunately doesn't take into account the fact that, as an organization, ESDC is subject to multiple and fast paced changes, whether at the [legal, political, organizational or technological levels](), that may impact its ability to deliver on its mandate.
-
-As such, it is critical for the organization to ensure that core to mandate IT Solutions remain highly flexible and adaptable to adjust to the fast-paced changes while also minimizing the risk of said changes by adopting loosely coupled architectures and smaller sized work packages (see [Target Solution Delivery Model](strategy-target-solution-delivery-model.html)).
 
 ### Build vs Buy : Oversimplified Question<!-- omit in toc -->
 
