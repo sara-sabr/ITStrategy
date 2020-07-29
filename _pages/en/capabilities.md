@@ -192,181 +192,181 @@ How to measure?
 - Changes spend [1-7] days waiting for approval from external bodies
 - 10% of changes are managed by peer-review
 
-## 3. Measurement Capabilities
+## 3. Measurement Capabilities  
 
-### 3.1 Monitoring systems to inform business decisions
+### 3.1 Monitoring systems to inform business decisions  
 
-#### 3.1.1 Outcomes
+#### 3.1.1 Outcomes  
 
 ...
 
-#### 3.1.2. Indicators
+#### 3.1.2. Indicators  
 
-1. What is the purpose of the monitor and control phase in your team?  
+- What is the purpose of the monitor and control phase in your team?  
    a. To measure the performance of the new process after the execution phase  
    b. To monitor and control the planning and initiating phases  
    c. To monitor the project team  
    d. To control the project team's performance  
 
-- What are the main steps involved in planning and implementing a monitoring protocol in your team?
-   a. Complete background tasks
-   b. Develop objectives
-   c. Design and implement management
-   d. Design the monitoring methodology
-   e. Implement monitoring as a pilot study
-   f. Implement monitoring
-   g. Report and use results
-   h. None of the above/not applicable
+- What are the main steps involved in planning and implementing a monitoring protocol in your team?  
+   a. Complete background tasks  
+   b. Develop objectives  
+   c. Design and implement management  
+   d. Design the monitoring methodology  
+   e. Implement monitoring as a pilot study  
+   f. Implement monitoring  
+   g. Report and use results  
+   h. None of the above/not applicable  
 
-- Which step in planning and implementing a monitoring protocol in your team takes the most time?
-   a. Complete background tasks
-   b. Develop objectives
-   c. Design and implement management
-   d. Design the monitoring methodology
-   e. Implement monitoring as a pilot study
-   f. Implement monitoring
-   g. Report and use results
-   h. None of the above/not applicable
+- Which step in planning and implementing a monitoring protocol in your team takes the most time?  
+   a. Complete background tasks  
+   b. Develop objectives  
+   c. Design and implement management  
+   d. Design the monitoring methodology  
+   e. Implement monitoring as a pilot study  
+   f. Implement monitoring  
+   g. Report and use results  
+   h. None of the above/not applicable  
 
-- What instrumentation do you use to monitor applications running in production?
-   a. Availability monitoring via pinging or synthetic transactions
-   b. Performance monitoring of the servers and infrastructure
-   c. Real user monitoring
-   d. Multi-tier views of end-to-end transactions including processing and network combined
-   e. None of the above/not applicable
+- What instrumentation do you use to monitor applications running in production?  
+   a. Availability monitoring via pinging or synthetic transactions  
+   b. Performance monitoring of the servers and infrastructure  
+   c. Real user monitoring  
+   d. Multi-tier views of end-to-end transactions including processing and network combined  
+   e. None of the above/not applicable  
 
-- How fast your team reacts to alerts when the system approaches critical thresholds or goes down?
-   a. When the threshold reaches 25%
-   b. When the threshold reaches 50%
-   c. When the threshold reaches 75%
-   d. When the threshold reaches 85%
-   e. When the threshold reaches 95%
+- How fast your team reacts to alerts when the system approaches critical thresholds or goes down?  
+   a. When the threshold reaches 25%  
+   b. When the threshold reaches 50%  
+   c. When the threshold reaches 75%  
+   d. When the threshold reaches 85%  
+   e. When the threshold reaches 95%  
 
-- How is the monitoring process executed in your team?
-   a. Monitoring one or two areas at a time
-   b. Monitoring the full software development
-   c. We are not monitoring
+- How is the monitoring process executed in your team?  
+   a. Monitoring one or two areas at a time  
+   b. Monitoring the full software development  
+   c. We are not monitoring  
 
-- Which tool do you use to share collected data in your team?
-   a. Google docs
-   b. Sharepoint
-   c. Email
-   d. Office 365
-   e. Slack
-   f. None of the above/not applicable
+- Which tool do you use to share collected data in your team?  
+   a. Google docs  
+   b. Sharepoint  
+   c. Email  
+   d. Office 365  
+   e. Slack  
+   f. None of the above/not applicable  
 
-- What has the most impact to make a business decision in your team?
-   a. Data from application performance monitoring tools
-   b. Data from infrastructure monitoring tool
-   c. Outside perspective
-   d. Previous decision mistakes
-   e. Your gut instinct
-   f. None of the above/not applicable
+- What has the most impact to make a business decision in your team?  
+   a. Data from application performance monitoring tools  
+   b. Data from infrastructure monitoring tool  
+   c. Outside perspective  
+   d. Previous decision mistakes  
+   e. Your gut instinct  
+   f. None of the above/not applicable  
 
-- How usually  accurate and relevant  is the data to your goal of the team?
-   a. Very Frequently
-   b. Frequently
-   c. Occasionally
-   d. Rarely
-   e. Very Rarely
-   f. Never
+- How usually  accurate and relevant  is the data to your goal of the team?  
+   a. Very Frequently  
+   b. Frequently  
+   c. Occasionally  
+   d. Rarely  
+   e. Very Rarely  
+   f. Never  
 
-- How often you felt guilty of seeing the data you wish was there instead of what is really in front of you?
-   a. Always
-   b. Very Often
-   c. Sometimes
-   d. Rarely
-   e. Never
+- How often you felt guilty of seeing the data you wish was there instead of what is really in front of you?  
+   a. Always  
+   b. Very Often  
+   c. Sometimes  
+   d. Rarely  
+   e. Never  
 
-#### 3.1.3 Goals
+#### 3.1.3 Goals  
 
 ...
 
-### 3.2 Proactive failure notification
+### 3.2 Proactive failure notification  
 
-#### 3.2.2. Indicators
+#### 3.2.2. Indicators  
 
-1. How often your team monitors the stability and security of your IT system
-   - Very Frequently
-   - Frequently
-   - Occasionally
-   - Rarely
-   - Very Rarely
-   - Never
+- How often your team monitors the stability and security of your IT system  
+   a. Very Frequently  
+   b. Frequently  
+   c. Occasionally  
+   d. Rarely  
+   e. Very Rarely  
+   f. Never  
 
-- How do you notify your team about failure alerts?
-   a. Via email
-   b. Via PR in Github
-   c. Via Slack
-   d. Via Trello board
-   e. Via phone call
-   f. None of the above/not applicable
+- How do you notify your team about failure alerts?  
+   a. Via email  
+   b. Via PR in Github  
+   c. Via Slack  
+   d. Via Trello board  
+   e. Via phone call  
+   f. None of the above/not applicable  
 
-- How often do you  face the situation when your team finds out from customers that your application or service is down?
-  a. Always
-  b. Very Often
-  c. Sometimes
-  d. Rarely
-  e. Never
+- How often do you  face the situation when your team finds out from customers that your application or service is down?  
+  a. Always  
+  b. Very Often  
+  c. Sometimes  
+  d. Rarely  
+  e. Never  
 
-- How long does it take to fix the problem?
-  a. Less than I expect
-  b. About right
-  c. More than I expect
-  d. We never fix it
+- How long does it take to fix the problem?  
+  a. Less than I expect  
+  b. About right  
+  c. More than I expect  
+  d. We never fix it  
 
-### 3.3 Work in process limits
+### 3.3 Work in process limits  
 
-#### 3.3.2. Indicators
+#### 3.3.2. Indicators  
 
-- Are people in your team often assigned to work on multiple tasks ? If yes , what is the main reason?
-  a. It usually doesn't happen
-  b. Too much work
-  c. Not enough people in the team
-  d. Not the right skill sets in the team
+- Are people in your team often assigned to work on multiple tasks ? If yes , what is the main reason?  
+  a. It usually doesn't happen  
+  b. Too much work  
+  c. Not enough people in the team  
+  d. Not the right skill sets in the team  
 
-- How often does your team discover invisible work when it is not expected ?
-  a. Almost always
-  b. Often
-  c. Sometimes
-  d. Seldom
-  e. Never
+- How often does your team discover invisible work when it is not expected ?  
+  a. Almost always  
+  b. Often  
+  c. Sometimes  
+  d. Seldom  
+  e. Never  
 
-- How visible is your work to the other teams and stakeholders?
-  a. Very good
-  b. Good
-  c. Fair
-  d. Poor
-  e. Very poor
+- How visible is your work to the other teams and stakeholders?  
+  a. Very good  
+  b. Good  
+  c. Fair  
+  d. Poor  
+  e. Very poor  
 
-- How often project team meetings are held ?
-  a. Every day
-  b. Three times a week
-  c. Once a week
-  d. Randomly
+- How often project team meetings are held ?  
+  a. Every day  
+  b. Three times a week  
+  c. Once a week  
+  d. Randomly  
 
-### 3.4 Visual management capabilities
+### 3.4 Visual management capabilities  
 
-#### 3.4.2. Indicators
+#### 3.4.2. Indicators  
 
-- What type of tools do you use to manage the work at various stages of a process?
-  a. Card walls
-  b. Storyboards
-  c. Kanban boards
-  d. We do not use any tools
-  e. None of the above/not applicable
+- What type of tools do you use to manage the work at various stages of a process?  
+  a. Card walls  
+  b. Storyboards  
+  c. Kanban boards  
+  d. We do not use any tools  
+  e. None of the above/not applicable  
 
-- How long does it take to complete a project backlog?
-  a. More than I would expect
-  b. About right
-  c. Less than I would expect
+- How long does it take to complete a project backlog?  
+  a. More than I would expect  
+  b. About right  
+  c. Less than I would expect  
 
-- How do you gather and measure feedback from users?
-  a. Manual testing, user acceptance testing or general acceptance criteria
-  b. Direct email/phone/web contact form, web meetings, or chat room
-  c. In-product qualitative feedback (e.g. Send-a-Smile) and survey such as Net Promoter Score (NPS)
-  d. Usage telemetry is gathered with real user monitoring at 100% sampling
-  e. None of the above/not applicable
+- How do you gather and measure feedback from users?  
+  a. Manual testing, user acceptance testing or general acceptance criteria  
+  b. Direct email/phone/web contact form, web meetings, or chat room  
+  c. In-product qualitative feedback (e.g. Send-a-Smile) and survey such as Net Promoter Score (NPS)  
+  d. Usage telemetry is gathered with real user monitoring at 100% sampling  
+  e. None of the above/not applicable  
 
 ## 4. Cultural capabilities
 
