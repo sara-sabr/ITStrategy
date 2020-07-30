@@ -27,7 +27,7 @@ However, for this same reason they provide the perfect opportunity for procureme
 
 <p class="tab">
   Imagine that you manage an IT product and a team member notices a bug in one of the open source components, but doesn't have time to fix it.
-  What if you could post an opportunity for someone to fix that bug for $2K, select someone to do the work and receive the fixed and tested code within a matter of days?
+  What if you could post an opportunity to fix that bug for $2K, select someone to do the work and receive the fixed and tested code within a matter of days?
 </p>
 
 For the GC, Low Dollar Value is defined within PSPC's [Supply Manual](https://buyandsell.gc.ca/policy-and-guidelines/supply-manual/section/3/60) as contracts where the value is $25K or less for goods or $40K or less for services.
@@ -57,7 +57,7 @@ We need to transfer ownership of these low-risk procurements to the lines of bus
 In their [Procurement in 2020 and Beyond](https://www.gartner.com/en/procurement-operations/trends/procurement-in-2020?) report, Gartner recommends 5 shifts regarding digital procurement.
 One of these involves shifting the ownership for low and mid-tier purchases away from corporate procurement teams so that they can focus primarily on strategic, high value, high-risk purchases.
 To ensure lines of business feel confident in taking this on, the process should be simplified and automated as much as possible.
-Simplifying GC procurement processes has long been identified as a need including the recommendation from the 2020 Red Tape Reduction Report of establishing “a fast track process for service contracts under $10,000”.
+Simplifying GC procurement processes has long been identified as a need, including the recommendation from the 2020 Red Tape Reduction Report of establishing “a fast track process for service contracts under $10,000”.
 
 Procurement in the GC is governed by a complex set of policies and procedures to protect the government and suppliers. The good news is that there is policy flexibility when it comes to LDV procurement. As part of an effort to explore significant and recurring issues in federal procurement, the Office of the Procurement Ombudsman released a report on [Low Dollar Value Contracting](http://opo-boa.gc.ca/documents/faiblevaleur-dollarvalue-eng.pdf) in 2019.
 In this report they advised that “The regulatory and policy framework for federal contracting allows federal organizations the flexibility to develop their own frameworks to govern LDV contracting.”  Conversations with the folks working on the [procurement policy reset](https://www.gcpedia.gc.ca/wiki/Procurement_Policy_Division,_Treasury_Board_of_Canada_Secretariat/Policy_Suite_Reset) (internal GC link) at TBS have also confirmed that there is nothing in the current policy instruments that prevent establishing a simplified process for LDV purchases.
@@ -75,7 +75,7 @@ Equally, we need to think about how our procurement processes help or hinder the
   What if you could quickly and easily pay someone to fix the accessibility issues so that you could choose that open source solution and move forward without delay? If this existed would you be more likely to consider using open source solutions?
 </p>
 
-Private industry has been doing low dollar value purchases of code, including [bug bounty initiatives](https://www.itworldcanada.com/article/bug-bounty-programs-growing-stronger/413203) for some time.
+Private industry has been doing low dollar value purchases of code, including [bug bounty initiatives](https://www.itworldcanada.com/article/bug-bounty-programs-growing-stronger/413203), for some time.
 Other governments have been working on this as well.
 The BC government has had a great deal of success with the [BCDevExchange](https://bcdevexchange.org/) 'Code with Us' program.
 This program has since expanded in scope (to contracts up to $70K) and evolved into the [Digital Marketplace](https://digital.gov.bc.ca/marketplace) platform.
