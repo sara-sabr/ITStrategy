@@ -16,7 +16,7 @@ In this first post, we'll look at: some context, the connection between IT trans
 ***
 
 The Government of Canada (GC) buys a lot of stuff.
-In 2016, the total spent by the GC on goods and services was ~$15.9B.
+In 2016, the total spent by the GC on goods and services was ≈$15.9B.
 From an IT point of view, this spending can include big-ticket items like new data centres and new national applications costing tens of millions of dollars, but can also include low dollar value items like paying someone to build a small prototype or a subscription to Survey Monkey.
 
 To ensure that purchasing is working well across the GC, procurement teams are working hard on modernization efforts including the
