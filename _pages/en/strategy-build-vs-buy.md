@@ -120,8 +120,8 @@ Stakeholders are expected to still comply with existing policy instruments inclu
 - ESDC Security Policy (being drafted)
 - ESDC [Target Solution Delivery Model](strategy-target-solution-delivery-model.html) (draft in consultation)
 - TBS [Directive on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601); and specifically:
-  - [Appendix A: Mandatory Procedures for Enterprise Architecture Assessment](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602)
-  - [Appendix B: Mandatory Procedures on Application Programming Interfaces](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604)
+    - [Appendix A: Mandatory Procedures for Enterprise Architecture Assessment](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602)
+    - [Appendix B: Mandatory Procedures on Application Programming Interfaces](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604)
 - TBS [Directive on Security Management](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32611)
 - GC [Architecture Principles Standards](https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards)
 
@@ -130,7 +130,7 @@ Stakeholders are expected to still comply with existing policy instruments inclu
 1. IT Solutions are broken down into manageable parts (IT Products) in line with the [GC Business Capability Model](https://gcconnex.gc.ca/file/group/21723432/al#3l3319941)
 2. IT Solutions are assessed against the IT Solutions Risk Assessment Framework (to be created - see [Coherent set of actions](#coherent-set-of-actions) and read [Risk Managing the Obtention of Software](#risk-managing-the-obtention-of-software)).
 3. IT Product / IT Solution maintenance and support may be done in-house or outsourced to a 3rd party vendor
-4. Outsourced maintenance and support may be given to a 3rd party different than the one providing the software licence.
+   - Outsourced maintenance and support may be given to a 3rd party different than the one providing the software licence.
 
 ### Finance
 
@@ -161,7 +161,7 @@ Stakeholders are expected to still comply with existing policy instruments inclu
 
 The creation of this strategy document stems from a request to help IITB decide whether it should prioritize buying an IT Solution over building one.
 
-Looking for a default answer and approach to the question "Should an IT Solution be built or bought?" at the organizational level is a mental shortcut that bypasses [GC Mandatory Procedures for Enterprise Architecture Assessment](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602) as well as the concepts of solution architecture, where the relevant experts of the organization, both from business lines, finance, security, information technology, etc., come together to figure out the best possible way of accomplishing its mission while leveraging its various resources, including people, tools, processes, and rules.
+Looking for a default answer and approach to the question "Should an IT Solution be built or bought?" at the organizational level is a mental shortcut that bypasses [GC Mandatory Procedures for Enterprise Architecture Assessment](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602) as well as the concepts of solution architecture, where the relevant experts of the organization, both from business lines, finance, security, information technology, etc., work together to design a solution while leveraging various resources, including people, tools, processes, and rules.
 
 An IT solution is by default built, whether by a single person, multiple teams or by a third party, and it will most often consist in an assemblage of many components, known as IT Products in this document.
 
@@ -172,28 +172,27 @@ The model below explains, in a visual manner, these relationships.
 Description of the model:
 
 - An IT Solution is comprised of 1 or many IT component(s)
-- An IT component is comprised of 1 or many Software which can be either a service subscription, an Open Source Software, a 3rd party COTS, or a custom build one
-- A Software is deployed on an infrastructure that can either be on premise (SSC Data Centres), on a public cloud provider's infrastructure (as a IaaS, PaaS, or SaaS model), or as a hybrid version that combines both on premise and public cloud provider.
+- An IT component is comprised of 1 or many Software which can be either an open source software, a service subscription, a 3rd party COTS or a custom built one.
+- A Software is deployed on an infrastructure that can either be on premise (SSC Data Centres), on a public cloud provider's infrastructure (as a IaaS, PaaS, or SaaS model) or as a hybrid version that combines both on premise and public cloud provider.
 
 As such, the questions to ask are more akin to:
 
-- “What software component(s) are required to enable a given capability?”,
-- “For each of those component(s), is the best course of action adopting an open source component, purchasing the rights to use a commercial product or service, or building it internally?”, and
-- “How much organizational risk is the organization willing to delegate to a 3rd party for a product or service for which the future roadmap is not under the organization's control?”.
+- “What software component(s) are required to enable a given capability?”;
+- “For each of those component(s), is the best course of action adopting an open source component, purchasing the rights to use a commercial product or service, or building it internally?”; and
+- “How much organizational risk is the organization willing to delegate to a 3rd party for a product or service (e.g., when the product/service roadmap is not under the organization's control?)”.
 
 In large and complex solutions, these questions shouldn't only be asked at the solution level but also for each component of said solution, taking into account multiple factors and criteria that will be explored below.
 
-Even when an IT Solution is said to be bought, it is never a plug-and-play situation, whether it consists in COTS or SaaS.
+Even when an IT Solution is said to be bought, it is never a plug-and-play situation, whether it consists of COTS or SaaS.
 The organization's IT teams need to obtain, configure and adapt the purchased IT Products to fit with the rest of the organization's IT infrastructure, services, and rules.
 
-Maintenance of IT Solutions should thus be considered separately from the obtained solution as it may require work from personnel within the organization as well as the involvement of 3rd party personnel, whether it was a vendor or even a community of dedicated volunteers in the case of an open source solution.
+Maintenance of IT Solutions should thus be considered separately from the obtained solution as it may require work from internal staff as well as the involvement of 3rd party personnel, whether it is a vendor or a community in the case of an open source software.
 
 #### Additional considerations<!-- omit in toc -->
 
-- Does the organization currently have the skill sets internally to architect, design, build and operate this solution?
-- Does the organization currently have the capacity internally to architect, design, build and operate this solution?
+- Does the organization have the **skill set** and **capacity** to architect, design, build and operate this solution?
 
-These last questions, however, do not necessarily mean that the questions mentioned in the precedent section should not be asked subsequently.
+However, this does not mean that the questions of the precedent section should not be asked subsequently.
 It is possible that the organization does not possess the staff with the required skill set or sufficient capacity to deliver internally the IT Solution at a specific point in time.
 When that is the case, proper talent acquisition, retention, and training efforts are required.
 
@@ -243,7 +242,7 @@ The following diagram helps visualize how this risk level varies according with 
 **Corporate or Shared** capabilities, such as Financial Systems, HR Systems, Messaging Bus, Information management and Authentication Systems start increasing risks to ESDC due to their larger footprint in the organization, greater integration requirements, as well as their larger financial and time impacts affecting end users and taxpayers.
 
 **Core** capabilities, such as Employment Insurance, Pension, and Old Age Security are what differentiates ESDC from the large majority of institutions in the world.
-Software options in this niche market are scarce due to the unique mandate of ESDC.
+Software options in this niche market are scarce due to the unique mandate of ESDC and even if there were commercial offerings, the commoditized nature of these solutions means that ESDC has limited influence on the upstream version of the software, thus increasing the risks to the organization by locking itself with a unique solution and vendor.
 Change probability is high as those capabilities change as much as regulation changes.
 The impact of such changes has a ripple effect on the whole organization and affects ESDC’s reputation to keep up with citizen demands while maintaining its fiduciary responsibility.
 
@@ -383,14 +382,14 @@ Open Source Software
 : Software with its source code made available with a licence in which the copyright holder provides the rights to study, change, and distribute the software to anyone and for any purpose.
 The name used by the Open Source Initiative (OSI).
 Open source software is defined in the Open Source Definition by ten criteria.
-:- [Open First White paper: Open Source Software Use](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/open-source-software/open-first-whitepaper/open-first-whitepaper-use.html#definitions)
+:- [Open First White paper: Open Source Software Use](https://www.canada.ca/en/government/system/digital-government/open-source-software/open-first-whitepaper/open-first-whitepaper-use.html#definitions)
 
 Open standards
 : Open standards are a set of rules designed to do a specific job in technology.
 Open standards refer to file formats, protocols and application interfaces that can be implemented by everyone (in open source and proprietary software alike) since the specifications are available at no cost, and since their development and standardization is open and transparent.
 This standardization work is done by specialized agencies that are usually either government agencies or organizations created by professionals from a given industry sector.
 Examples of such organizations include the Internet Engineering Task Force (IETF), the International Organization for Standardization (ISO) and the Organization for the Advancement of Structured Information Standards (OASIS).
-: - [Open First White paper: Open Standards](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/open-source-software/open-first-whitepaper/open-first-whitepaper-standards.html)
+: - [Open First White paper: Open Standards](https://www.canada.ca/en/government/system/digital-government/open-source-software/open-first-whitepaper/open-first-whitepaper-standards.html)
 
 Closed COTS
 : Commercial Off-The-Self (COTS) software where the source code for said product is [not open source](#open-source-software).
