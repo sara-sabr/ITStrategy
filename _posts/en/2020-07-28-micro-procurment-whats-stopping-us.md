@@ -10,7 +10,8 @@ In 2016, the total spent by the GC on goods and services was ~$16 billion.
 From an IT point of view, this spending can include big-ticket items like new data centres and new national applications costing tens of millions of dollars, but can also include low dollar value items like paying someone to build a small prototype over the course of a few days. This is part one of a series looking at how micro-procurements can bring IT and procurement folks together to enable agile, rapid, and scalable digital work."
 ---
 <!--markdownlint-disable MD033-->
-This is part one of a two part series looking at micro-procurement for digital work. In this first post, we'll look at: some context, the connection between IT transformation and procurement, as well as how, in addition to helping us deploy faster, micro-procurement could increase open source uptake in the GC, improve diversity in GC IT contracting and help GC IT employees acquire new skills by bringing in modern tools and practices.
+This is part one of a two part series looking at micro-procurement for digital work.
+In this first post, we'll look at: some context, the connection between IT transformation and procurement, as well as how, in addition to helping us deploy faster, micro-procurement could increase open source uptake in the GC, improve diversity in GC IT contracting and help GC IT employees acquire new skills by bringing in modern tools and practices.
 
 ***
 
@@ -24,8 +25,10 @@ Interestingly, Low Dollar Value (LDV) procurements don't seem to make the list f
 This could be because these procurements are low risk and generally don't make headline news.
 However, for this same reason they provide the perfect opportunity for procurement and IT experimentation.
 
-<p class="tab">Imagine that you manage an IT product and a team member notices a bug in one of the open source components, but doesn't have time to fix it.
-What if you could post an opportunity for someone to fix that bug for $2K, select someone to do the work and receive the fixed and tested code within a matter of days?</p>
+<p class="tab">
+  Imagine that you manage an IT product and a team member notices a bug in one of the open source components, but doesn't have time to fix it.
+  What if you could post an opportunity for someone to fix that bug for $2K, select someone to do the work and receive the fixed and tested code within a matter of days?
+</p>
 
 For the GC, Low Dollar Value is defined within PSPC's [Supply Manual](https://buyandsell.gc.ca/policy-and-guidelines/supply-manual/section/3/60) as contracts where the value is $25K or less for goods or $40K or less for services.
 Most of the spending on goods and services in the GC is on LDV items.
@@ -41,7 +44,7 @@ TBS reports that 92% of 2016 contracts for goods and services were under $25K.
 For more, see the [2016 Purchasing Activity Report](https://www.canada.ca/en/treasury-board-secretariat/corporate/reports/contracting-data/2016-purchasing-activity-report.html).*
 
 However, as the [2020 Red Tape Reduction Report](https://internal-red-tape-reduction-report.github.io/) identified, the work to put LDV contracts in place in the GC [takes a long time and has a lot of touchpoints](https://internal-red-tape-reduction-report.github.io/img/022-2.jpg).
- And therein lies a real opportunity.
+And therein lies a real opportunity.
 With 15 weeks from start to finish and 8 days of 'touch time', the flow efficiency rate (the percentage of time tasks are being worked on compared with the total time they spend in the work stream) is only 11% for the average LDV contract in the GC (based on those departments who participated in the development of the report).
 There are also a lot of hands involved.
 On average 7 people are involved in a LDV purchase.
@@ -57,20 +60,23 @@ To ensure lines of business feel confident in taking this on, the process should
 Simplifying GC procurement processes has long been identified as a need including the recommendation from the 2020 Red Tape Reduction Report of establishing “a fast track process for service contracts under $10,000”.
 
 Procurement in the GC is governed by a complex set of policies and procedures to protect the government and suppliers. The good news is that there is policy flexibility when it comes to LDV procurement. As part of an effort to explore significant and recurring issues in federal procurement, the Office of the Procurement Ombudsman released a report on [Low Dollar Value Contracting](http://opo-boa.gc.ca/documents/faiblevaleur-dollarvalue-eng.pdf) in 2019.
- In this report they advised that “The regulatory and policy framework for federal contracting allows federal organizations the flexibility to develop their own frameworks to govern LDV contracting.”  Conversations with the folks working on the [procurement policy reset](https://www.gcpedia.gc.ca/wiki/Procurement_Policy_Division,_Treasury_Board_of_Canada_Secretariat/Policy_Suite_Reset) (internal GC link) at TBS have also confirmed that there is nothing in the current policy instruments that prevent establishing a simplified process for LDV purchases.
+In this report they advised that “The regulatory and policy framework for federal contracting allows federal organizations the flexibility to develop their own frameworks to govern LDV contracting.”  Conversations with the folks working on the [procurement policy reset](https://www.gcpedia.gc.ca/wiki/Procurement_Policy_Division,_Treasury_Board_of_Canada_Secretariat/Policy_Suite_Reset) (internal GC link) at TBS have also confirmed that there is nothing in the current policy instruments that prevent establishing a simplified process for LDV purchases.
 
 While having a simplified process for low dollar value procurement would be good for the GC in general, it would be especially useful for IT.
 IT modernization depends on procurement modernization.
 One can't move forward without the other.
 We can't work in an agile or DevOps way if procurement processes still follow waterfall.
-[The Digital Operations Strategic Plan](https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html) highlights this, “If modern technology is an essential enabler for digital government, procurement modernization is an equally essential enabler of modern technology.”  Equally, we need to think about how our procurement processes help or hinder the uptake of [open source in the GC](https://digital.canada.ca/2020/02/24/why-open-source-matters/).
+[The Digital Operations Strategic Plan](https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html) highlights this, “If modern technology is an essential enabler for digital government, procurement modernization is an equally essential enabler of modern technology.”
+Equally, we need to think about how our procurement processes help or hinder the uptake of [open source in the GC](https://digital.canada.ca/2020/02/24/why-open-source-matters/).
 
-<p class="tab">Instead of the example above regarding finding and fixing a bug, imagine that you need a small IT solution.
- You find an open source application that would meet your needs but it does not meet GC accessibility requirements.
-What if you could quickly and easily pay someone to fix the accessibility issues so that you could choose that open source solution and move forward without delay?  If this existed would you be more likely to consider using open source solutions?</p>
+<p class="tab">
+  Instead of the example above regarding finding and fixing a bug, imagine that you need a small IT solution.
+  You find an open source application that would meet your needs but it does not meet GC accessibility requirements.
+  What if you could quickly and easily pay someone to fix the accessibility issues so that you could choose that open source solution and move forward without delay? If this existed would you be more likely to consider using open source solutions?
+</p>
 
 Private industry has been doing low dollar value purchases of code, including [bug bounty initiatives](https://www.itworldcanada.com/article/bug-bounty-programs-growing-stronger/413203) for some time.
- Other governments have been working on this as well.
+Other governments have been working on this as well.
 The BC government has had a great deal of success with the [BCDevExchange](https://bcdevexchange.org/) 'Code with Us' program.
 This program has since expanded in scope (to contracts up to $70K) and evolved into the [Digital Marketplace](https://digital.gov.bc.ca/marketplace) platform.
 
@@ -99,7 +105,10 @@ Further, contributions to GC open source projects, or open source projects being
 
 Micro-procurement could also improve diversity in GC IT contracting.
 The [data](https://www.ic.gc.ca/eic/site/061.nsf/vwapj/SFGSME-EFCPME_2017_eng_public.pdf/$file/SFGSME-EFCPME_2017_eng_public.pdf) from the [2017 Survey on Financing and Growth for Small and Medium Enterprises](https://www150.statcan.gc.ca/n1/daily-quotidien/181116/dq181116c-eng.htm) show that 95% of Small and Medium Enterprises (SMEs) surveyed did not sell to the federal government.
- Luckily the [Office of Small and Medium Enterprise](https://www.tpsgc-pwgsc.gc.ca/app-acq/pme-sme/index-eng.html) at PSPC advocates for and encourages SME participation in GC procurement (including running regular [webinars](https://buyandsell.gc.ca/event-calendar) to help SMEs navigate the various procurement processes). But GC procurement processes are complex and [suppliers have told](http://opo-boa.gc.ca/rapports-reports/2017-2018/index-eng.html) the Office of the Procurement Ombudsman that supply arrangements and standing offers "can sometimes be cumbersome to use and difficult to qualify for. They also seem to disproportionately favour suppliers located in the National Capital Region". While we have nothing against companies in the NCR, equity in the supply chain is extremely important, and research shows that when more diverse voices are heard, the [chance of innovation is greater](https://hbr.org/2013/12/how-diversity-can-drive-innovation). With a simplified procurement process, unclassified work that can be done from anywhere, and targeted engagement to under-represented supplier groups, micro-procurement could open up access to start-ups, digital freelancers, Computer Science students and recent graduates who normally wouldn't bid on GC IT contracts or work for the government.
+Luckily the [Office of Small and Medium Enterprise](https://www.tpsgc-pwgsc.gc.ca/app-acq/pme-sme/index-eng.html) at PSPC advocates for and encourages SME participation in GC procurement (including running regular [webinars](https://buyandsell.gc.ca/event-calendar) to help SMEs navigate the various procurement processes). But GC procurement processes are complex and [suppliers have told](http://opo-boa.gc.ca/rapports-reports/2017-2018/index-eng.html) the Office of the Procurement Ombudsman that supply arrangements and standing offers "can sometimes be cumbersome to use and difficult to qualify for.
+They also seem to disproportionately favour suppliers located in the National Capital Region".
+While we have nothing against companies in the NCR, equity in the supply chain is extremely important, and research shows that when more diverse voices are heard, the [chance of innovation is greater](https://hbr.org/2013/12/how-diversity-can-drive-innovation).
+With a simplified procurement process, unclassified work that can be done from anywhere, and targeted engagement to under-represented supplier groups, micro-procurement could open up access to start-ups, digital freelancers, Computer Science students and recent graduates who normally wouldn't bid on GC IT contracts or work for the government.
 
 Enabling micro-procurement for digital work could help move the government towards modern solutions, enable faster deployments, increase the GC's uptake of open source, help upskill our IT employees and improve diversity in GC purchasing.
 
