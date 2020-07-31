@@ -1,14 +1,12 @@
 ---
 layout: default
-title: Stratégie Q1 2020 - Amélioration et apprentissage continus
-ref: strategy-q1-2020
+title: Stratégie - Amélioration et apprentissage continus
+ref: strategy-continuous-improvement
 lang: fr
 status: posted
 sections: Archives
 permalink: /strategie-amelioration-apprentissage.html
 ---
-
-## Stratégie Q1 2020 - Amélioration et apprentissage continus
 
 Les actions suivantes s'appliquent pour le 1er trimestre de l'année fiscale 2020-2021 (avril 2020 à juin 2020).
 

@@ -1,4 +1,4 @@
-## Reveal.js Notes plugin
+# Reveal.js Notes plugin
 
 `notes.js` and `notes.html` need to be hosted locally to open the speaking notes popup on the site.
 

@@ -20,8 +20,6 @@ th {
 }
 </style>
 
-## {{ page.title }} <!-- omit in toc -->
-
 **The Strategy:** [see here for the strategy](strategy-target-solution-delivery-model.html) that this areas of concern document refers to
 
 This document will be updated throughout the elaboration of the above strategy.
