@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Micro-procurement for digital work: part one"
+title:  "Better tech through micro-procurement: part one"
 ref: working-in-the-open-p1
 lang: en
 author: "Rachel Muston, in collaboration with the IT Strategy team, and procurement experts at ESDC and TBS"
@@ -109,8 +109,8 @@ The [data](https://www.ic.gc.ca/eic/site/061.nsf/vwapj/SFGSME-EFCPME_2017_eng_pu
 Luckily the [Office of Small and Medium Enterprise](https://www.tpsgc-pwgsc.gc.ca/app-acq/pme-sme/index-eng.html) at PSPC advocates for and encourages SME participation in GC procurement (including running regular [webinars](https://buyandsell.gc.ca/event-calendar) to help SMEs navigate the various procurement processes). But GC procurement processes are complex and [suppliers have told](http://opo-boa.gc.ca/rapports-reports/2017-2018/index-eng.html) the Office of the Procurement Ombudsman that supply arrangements and standing offers "can sometimes be cumbersome to use and difficult to qualify for.
 They also seem to disproportionately favour suppliers located in the National Capital Region".
 While we have nothing against companies in the NCR, equity in the supply chain is extremely important, and research shows that when more diverse voices are heard, the [chance of innovation is greater](https://hbr.org/2013/12/how-diversity-can-drive-innovation).
-With a simplified procurement process, unclassified work that can be done from anywhere, and targeted engagement to under-represented supplier groups, micro-procurement could open up access to start-ups, digital freelancers, Computer Science students and recent graduates who normally wouldn't think of bidding on GC IT contracts or working for the government.
+With a simplified procurement process, unclassified work that can be done from anywhere, and targeted engagement to under-represented supplier groups (e.g. businesses led by those with disabilities as well as Indigenous, Black, LGBTQ+, POC and women-owned businesses), micro-procurement could open up access to start-ups, digital freelancers, Computer Science students and recent graduates who normally wouldn't think of bidding on GC IT contracts or working for the government.
 
 Enabling micro-procurement for digital work could help move the government towards modern solutions, enable faster deployments, increase the GC's uptake of open source, help upskill our IT employees and improve diversity in GC purchasing.
 
-So what's stopping us?
+So what's stopping us? Find out in part two!
