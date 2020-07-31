@@ -33,6 +33,60 @@ Often when we talk about policy we use complex language in order to effectively 
 
 The scope of this document is to provide you with different examples or scenarios which will help you to put the Build vs Buy strategy into context. It is not meant as a definitive guide. There are many different considerations and many different variables when it comes to decision making around whether to build or buy a solution or a component thereof. As such, we will be making a core set of assumptions that may not be applicable to your precise situation. Please refer to the actual strategy document for more detailed information.
 
+### Use Cases
+
+It not often the case that we will just buy something or just build something.
+It's most often a combination of the 3.
+The following use cases show that some solutions can be classified in diferent ocation depending how to implement and by who.
+
+![Basic Venn diagram with 3 overlapping circles for Adopt, Build and Buy. The middle is the intersection of all 3 (Adopt ^ Buy ^ Build)](assets/images/adopt-build-buy-venn.png)
+
+#### Web browser (Firefox, Chrome, Edge, IE, ..)
+
+Adopt
+
+- IITB makes it available to all ESDC users
+- IITB keep it up to date
+- IITB provides support (service desk)
+
+#### SaaS (Mailchimp, Trello, Github, ..)
+
+Adopt
+
+- Users using free version with configuration only; User self supports
+
+Adopt ^ Build
+
+- Same as "Adopt"
+- develop custom integrations using the API (in-house)
+
+Adopt ^ Buy
+
+- Pay for additionnal features, with configuration only
+- User self supports
+- IITB tracks use
+
+Adopt ^ Buy ^ Build
+
+- Same as "Adopt ^ Buy"
+- develop custom integrations using the API (in-house or 3rd party)
+
+#### Multi Benefit Delivery Management System *
+
+Adopt ^ Build
+
+- Use existing OSS components
+- IITB has teams assembling and supporting the solution
+- Develop custom business rules, extentions or integrations (in-house)
+
+Adopt ^ Buy ^ Build
+
+- Pay for licences and/or support
+- IITB has teams supporting the solution in collaboration with vendor
+- Develop custom business rules, extentions or integrations (in-house or 3rd party)
+
+\* Core to mandate or requirement likely to change - the increased risk to ESDC leads us to mitigate against lock-in even more, by strictly following the Mandatory API and EA assessment procedures in the Directive on Service and Digital.
+
 ### A Summary of The Build vs Buy Strategy
 
 The basic premise of the Build vs Buy strategy is to change the way we evaluate risk when it comes to delivering IT solutions. Automatically deferring to buying solutions presents a large risk when the requirements for the solution being delivered will change frequently ( e.g. Solution is core to the mandate). Likewise, just building all solutions may present a risk of unnecessary burdens to teams when the requirements are fairly stable and unlikely to change. A balance needs to be created in order to reduce risk while delivering on required solutions to our partners and citizens.
