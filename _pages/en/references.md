@@ -73,7 +73,7 @@ For further guidance on working in the open, please refer to the following blog 
 #### Text Editor (real-time)
 
 - [Framapad](https://framapad.org) (no account needed)
-- [CryptPad](https://cryptpad.fr): For text, presentation, spreadsheet, etc. - encrypted (account optional)
+- [Wikimedia Etherpad](https://etherpad.wikimedia.org/): Real-time collaboration for text editing, open to everyone to read and write (No account)
 - [HackMD](https://hackmd.io): Markdown (account optional)
 
 #### Task Management (Kanban)

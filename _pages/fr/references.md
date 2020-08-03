@@ -71,7 +71,7 @@ Pour de plus amples informations sur le travail en mode ouvert, veuillez consult
 ### Éditeur de texte (en temps réel)
 
 - [Framapad](https://framapad.org) (pas besoin de compte)
-- [CryptPad](https://cryptpad.fr) : Pour texte, présentation, tableur, etc. - crypté (compte facultatif)
+- [Wikimedia Etherpad](https://etherpad.wikimedia.org/) : Pour éditer du texte de façon collaborative, en temps réel; ouvert à tout le monde pour lire et écrire (pas de compte)
 - [HackMD](https://hackmd.io) : Pour documents Markdown (compte facultatif)
 
 ### Gestion des tâches (Kanban)
