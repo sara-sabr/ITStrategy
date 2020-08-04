@@ -174,7 +174,7 @@ How to measure?
 
 #### 2.2.1 Outcomes
 
-...
+....
 
 #### 2.2.2. Indicators
 
@@ -198,7 +198,7 @@ How to measure?
 
 #### 3.1.1 Outcomes  
 
-...
+....
 
 #### 3.1.2. Indicators  
 
@@ -372,9 +372,181 @@ How to measure?
 
 ## 4. Cultural capabilities
 
-### 4.2 Westrum organizational culture
+### 4.1. Job satisfaction
 
-#### 4.2.1 Outcomes
+#### 4.1.1. Outcomes
+
+...
+
+#### 4.1.2. Indicators
+
+- What should an employer do to help your team to be more successful at the job?  
+  a. Understand goals of your team  
+  b. Learn boss' likes and dislikes  
+  c. Get to know your colleagues better  
+  d. Have a positive attitude  
+  e. Accept feedback gracefully  
+  f. Be a professional  
+  g. Take Initiative and be a problem solver  
+  h. Stretch skill set  
+  i. Volunteer for new projects  
+  j. None of the above/not applicable  
+  
+- What should a good  manager do to support you?  
+  a. Be consistent with meaningful communication  
+  b. Give recognition and praise  
+  c. Provide feedback, mentorship, and training  
+  d. Create a work culture by design  
+  e. Create a safe space for failure  
+  f. Provide strong leadership and a clear vision  
+  g. Demonstrate good problem solving  
+  h. Avoid micromanaging  
+  i. Be an effective decision maker  
+  j. Put people first  
+  k. Be honest  
+  l. Be dedicated and balanced  
+  m. None of the above/not applicable  
+
+- What keeps employees happy and productive in your team?  
+  a. Feeling valued  
+  b. Creating a productive atmosphere  
+  c. Prioritizing work-life balance  
+  d. Making employees part of the big picture  
+  e. Being  transparent and honest  
+  f. Encouraging communication in common areas  
+  g. Creating a career pathway  
+  h. Promoting a positive work environment  
+  i. Building employees up  
+  j. Always saying 'thank you.'  
+  k. Recognizing and rewarding employees frequently  
+  l. None of the above/not applicable  
+
+- How does your team make an employee feel valued?  
+  a. Provide them with the recognition they deserve  
+  b. Give employees plenty of positive feedback  
+  c. Solicit their opinion and utilize it as often as possible  
+  d. Communicate well, and frequently  
+  e. Give direct compensation or benefits  
+  f. Give the benefits they want  
+  g. Provide ways for other employees to give praise and recognition  
+  h. Show appreciation  
+  i. Provide public recognition when appropriate  
+  j. Provide work that gives the right level of challenge, showing that you trust their capabilities  
+  k. Say 'thank you.'  
+  l. Celebrate work anniversaries  
+  m. Invest in their continued development  
+  n. None of the above/not applicable  
+
+- What is the way to manage your team through change?  
+  a. Activate change management  
+  b. Set the direction  
+  c. Engage your team  
+  d. Empower decision-making  
+  e. Leverage talent  
+  f. Keep the team moving forward  
+  g. Share success  
+  h. Communicate clearly  
+  i. Set realistic objectives  
+  j. Manage expectations  
+  k. Understanding the final goal  
+  l. Developing a plan  
+  m. Being positive during change  
+  n. Guarding the team  
+  o. None of the above/not applicable  
+
+### 4.2 Westrum organizational culture  
+
+#### 4.2.2. Indicators  
+
+- My team has enough support (or appropriate support)  from leaders and managers for the necessary culture shift and transformation  
+  a. Strongly Agree  
+  b. Agree  
+  c. Undecided  
+  d. Disagree  
+  e. Strongly Disagree  
+
+- My team culture interacts with the broader organizational culture  
+  a. Strongly Agree  
+  b. Agree  
+  c. Undecided  
+  d. Disagree  
+  e. Strongly Disagree  
+
+- Failures are  treated in my team  as opportunities to improve and learn  
+  a. Strongly Agree  
+  b. Agree  
+  c. Undecided  
+  d. Disagree  
+  e. Strongly Disagree  
+
+- My team is allowed and encouraged  to experiment and try new things  
+  a. Strongly Agree  
+  b. Agree  
+  c. Undecided  
+  d. Disagree  
+  e. Strongly Disagree  
+
+### 4.3. Learning culture  
+
+#### 4.3.2. Indicators  
+
+- My team views learning as an investment for growth  
+  a. Strongly Agree  
+  b. Agree  
+  c. Undecided  
+  d. Disagree  
+  e. Strongly Disagree  
+
+- Learning completely avoided in my  team  
+  a. Strongly Agree  
+  b. Agree  
+  c. Undecided  
+  d. Disagree  
+  e. Strongly Disagree  
+
+- My  team has the resources to engage in informal learning and the space to explore ideas  
+  a. Strongly Agree  
+  b. Agree  
+  c. Undecided  
+  d. Disagree  
+  e. Strongly Disagree  
+
+- My team has a regular cadence of opportunities for employees to share their knowledge  
+  a. Strongly Agree  
+  b. Agree  
+  c. Undecided  
+  d. Disagree  
+  e. Strongly Disagree  
+
+- In my team resources are available for continued education  
+  a. Strongly Agree  
+  b. Agree  
+  c. Undecided  
+  d. Disagree  
+  e. Strongly Disagree  
+
+- My team has regular lunchtime meetings where one person presents about a project they are working on in a new tech, or something they are investigating  
+  a. Strongly Agree  
+  b. Agree  
+  c. Undecided  
+  d. Disagree  
+  e. Strongly Disagree  
+
+- When employees in my team  attend conferences, we have them share the new experience through presentations or trip reports  
+  a. Strongly Agree  
+  b. Agree  
+  c. Undecided  
+  d. Disagree  
+  e. Strongly Disagree  
+
+- In my team we encourage people to get certifications or external trainings, and help them by covering costs of external trainings and forming study groups that are a part of normal work activity  
+  a. Strongly Agree  
+  b. Agree  
+  c. Undecided  
+  d. Disagree  
+  e. Strongly Disagree  
+
+#### 4.2.1 Outcomes  
 
 Create a [generative culture](https://cloud.google.com/solutions/devops/devops-culture-westrum-organizational-culture) that fosters information flow and trust by examining the six aspects of the Westrum model of organizational culture.
 
