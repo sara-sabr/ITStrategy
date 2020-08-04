@@ -357,7 +357,7 @@ Therefore should an IT Product depend on an Operating System to run in productio
 Adopt
 : A process by which the department obtains an IT Product that is made available and is in used at least once outside the organization.
 It may consist of Open Source Software, proprietary software, and XaaS, used as is, without code customization.
-(the inspiration for this definition is derived from the US Department of Defense OSS FAQ.)
+(the inspiration for this definition is derived from the [US Department of Defence OSS FAQ](https://dodcio.defense.gov/Open-Source-Software-FAQ/#Q:_Is_open_source_software_commercial_software.3F_Is_it_COTS.3F) where they define OSS as COTS.)
 
 Build
 : A process whereby the department produces, or contracts a third party to produce, custom code that is not part of any existing IT Product available and used outside the organization.
@@ -377,14 +377,14 @@ Open Source Software
 : Software with its source code made available with a licence in which the copyright holder provides the rights to study, change, and distribute the software to anyone and for any purpose.
 The name used by the Open Source Initiative (OSI).
 Open source software is defined in the Open Source Definition by ten criteria.
-: - [Open First White paper: Open Source Software Use](https://www.canada.ca/en/government/system/digital-government/open-source-software/open-first-whitepaper/open-first-whitepaper-use.html#definitions)
+: - [Open First White paper: Open Source Software Use](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/open-source-software/open-first-whitepaper/open-first-whitepaper-use.html#definitions)
 
 Open standards
 : Open standards are a set of rules designed to do a specific job in technology.
 Open standards refer to file formats, protocols and application interfaces that can be implemented by everyone (in open source and proprietary software alike) since the specifications are available at no cost, and since their development and standardization is open and transparent.
 This standardization work is done by specialized agencies that are usually either government agencies or organizations created by professionals from a given industry sector.
 Examples of such organizations include the Internet Engineering Task Force (IETF), the International Organization for Standardization (ISO) and the Organization for the Advancement of Structured Information Standards (OASIS).
-: - [Open First White paper: Open Standards](https://www.canada.ca/en/government/system/digital-government/open-source-software/open-first-whitepaper/open-first-whitepaper-standards.html)
+: - [Open First White paper: Open Standards](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/open-source-software/open-first-whitepaper/open-first-whitepaper-standards.html)
 
 Closed COTS
 : Commercial Off-The-Self (COTS) software where the source code for said product is [not open source](#open-source-software).

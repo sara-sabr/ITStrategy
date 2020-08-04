@@ -19,6 +19,10 @@ permalink: /strategy-build-vs-buy-examples.html
 - [Context](#context)
 - [Introduction](#introduction)
   - [Scope of This Document](#scope-of-this-document)
+  - [Use Cases](#use-cases)
+    - [Web browser (Firefox, Chrome, Edge, IE, ..)](#web-browser-firefox-chrome-edge-ie-)
+    - [SaaS (Mailchimp, Trello, Github, ..)](#saas-mailchimp-trello-github-)
+    - [Multi Benefit Delivery Management System *](#multi-benefit-delivery-management-system-)
   - [A Summary of The Build vs Buy Strategy](#a-summary-of-the-build-vs-buy-strategy)
 
 ## Context
@@ -35,9 +39,9 @@ The scope of this document is to provide you with different examples or scenario
 
 ### Use Cases
 
-It not often the case that we will just buy something or just build something.
+Most of the time, we will not only adopt, buy, or build something.
 It's most often a combination of the 3.
-The following use cases show that some solutions can be classified in diferent ocation depending how to implement and by who.
+The following use cases show that some solutions can be classified in different locations of the diagram depending on how they are implemented and by who.
 
 ![Basic Venn diagram with 3 overlapping circles for Adopt, Build and Buy. The middle is the intersection of all 3 (Adopt ^ Buy ^ Build)](assets/images/adopt-build-buy-venn.png)
 
@@ -62,7 +66,7 @@ Adopt ^ Build
 
 Adopt ^ Buy
 
-- Pay for additionnal features, with configuration only
+- Pay for additional features, with configuration only
 - User self supports
 - IITB tracks use
 
@@ -77,13 +81,13 @@ Adopt ^ Build
 
 - Use existing OSS components
 - IITB has teams assembling and supporting the solution
-- Develop custom business rules, extentions or integrations (in-house)
+- Develop custom business rules, extensions or integrations (in-house)
 
 Adopt ^ Buy ^ Build
 
 - Pay for licences and/or support
 - IITB has teams supporting the solution in collaboration with vendor
-- Develop custom business rules, extentions or integrations (in-house or 3rd party)
+- Develop custom business rules, extensions or integrations (in-house or 3rd party)
 
 \* Core to mandate or requirement likely to change - the increased risk to ESDC leads us to mitigate against lock-in even more, by strictly following the Mandatory API and EA assessment procedures in the Directive on Service and Digital.
 
