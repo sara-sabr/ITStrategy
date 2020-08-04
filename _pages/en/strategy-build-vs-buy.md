@@ -66,12 +66,12 @@ permalink: /strategy-build-vs-buy.html
 
 ### Purpose
 
-To provide IITB with an overarching strategy in the application of the GC Enterprise Architecture Mandatory Principles in the context of obtaining IT Solutions.
+To provide IITB with an overarching strategy in the application of the [GC Mandatory Procedures for Enterprise Architecture Assessments](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602) and the [Mandatory Procedures on Application Programming Interfaces](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604), in the context of obtaining IT Solutions.
 
 The strategy includes:
 
-1. A **guiding policy**, which serves to clarify the application of the GC Enterprise Architecture Mandatory Procedures for obtaining IT Solutions.
-2. A **coherent set of actions** (an action plan), which serve to operationalize the application of the GC Enterprise Architecture Mandatory Procedures for obtaining an IT Solution within the ESDC IITB context.
+1. A **guiding policy**, which serves to clarify the application of the GC Mandatory Procedures for [Enterprise Architecture Assessments](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602) and [on Application Programming Interfaces](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604) when obtaining IT Solutions in ESDC.
+2. A **coherent set of actions** (an action plan), which serve to operationalize the application of the GC Mandatory Procedures for [Enterprise Architecture Assessments](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602) and [on Application Programming Interfaces](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604) when obtaining IT Solutions in ESDC.
 
 The intent behind this strategy is to communicate a decision by the CIO (not yet approved) on a path forward (the Guiding Policy), and what investments are needed to operationalize that decision (the coherent set of actions).
 
@@ -98,9 +98,9 @@ As such, it is critical for the organization to ensure that core to mandate or c
 This strategy proposes moving ESDC to the point where all stakeholders understand that IT Solutions are complex and investment decisions have to be taken with flexibility, interchangeability, and interoperability in mind **throughout the entire lifecycle** of an IT Solution, not only at the initial stage.
 The benefits to the adoption of this Strategy are expected to reduce risk [^1], reduce technical debt over time, increase client satisfaction, and increase overall confidence in the department and its staff, for both net new or enhancements to IT Solutions.
 
-This strategy capitalizes on existing IT initiatives (such as the [IITB Way Forward](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx)) to complement them by adding attention to them, as well as supporting them with new activities (see [Coherent set of actions](#coherent-set-of-actions)).
+This strategy capitalizes on existing IT initiatives (such as the [IITB Way Forward](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx)) to complement them, as well as supporting them with new activities (see [Coherent set of actions](#coherent-set-of-actions)).
 
-This strategy's goal is to clarify the application of the GC Enterprise Architecture Mandatory Procedures for obtaining IT Solutions within ESDC IITB context, and provide a roadmap in getting to the adoption of this framework.
+This strategy's goal is to clarify the application of the GC Mandatory Procedures for [Enterprise Architecture Assessments](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602) and [on Application Programming Interfaces](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604) when obtaining IT Solutions within ESDC IITB context, and provide a roadmap in getting to the adoption of this framework.
 
 More details in [Appendix A](#appendix-a---business-case-diagnostic).
 
@@ -120,8 +120,8 @@ Stakeholders are expected to still comply with existing policy instruments inclu
 - ESDC Security Policy (being drafted)
 - ESDC [Target Solution Delivery Model](strategy-target-solution-delivery-model.html) (draft in consultation)
 - TBS [Directive on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601); and specifically:
-    - [Appendix A: Mandatory Procedures for Enterprise Architecture Assessment](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602)
-    - [Appendix B: Mandatory Procedures on Application Programming Interfaces](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604)
+  - [Appendix A: Mandatory Procedures for Enterprise Architecture Assessment](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602)
+  - [Appendix B: Mandatory Procedures on Application Programming Interfaces](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604)
 - TBS [Directive on Security Management](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32611)
 - GC [Architecture Principles Standards](https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards)
 
@@ -153,7 +153,21 @@ Stakeholders are expected to still comply with existing policy instruments inclu
 
 ## Measuring the Strategy's success
 
-[Upcoming]
+This Strategy's success will be measured by comparing the following metrics against the key elements of the GC Mandatory Procedures for [Enterprise Architecture Assessments](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602) and [on Application Programming Interfaces](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604).
+
+- Adoption/Building
+  - Increase adoption of open source software components
+  - Increase contributions to third party OSS projects
+  - Decrease number of forked versions of OSS unaligned with upstream or without contributions of changes
+  - Increase number of internal projects released as OSS
+  - Increase external contributions to ESDC OSS projects
+- Buy
+  - Decrease lock-in situations (need to define how measure)
+  - Decrease use of non-interoperable and exclusive:
+    - file formats
+    - APIs
+    - data-exports
+  - Increase transfer of systems runtime to third party Cloud service providers (Cloud First Strategy)
 
 ## Appendix A - Business Case (Diagnostic)
 
@@ -161,7 +175,7 @@ Stakeholders are expected to still comply with existing policy instruments inclu
 
 The creation of this strategy document stems from a request to help IITB decide whether it should prioritize buying an IT Solution over building one.
 
-Looking for a default answer and approach to the question "Should an IT Solution be built or bought?" at the organizational level is a mental shortcut that bypasses [GC Mandatory Procedures for Enterprise Architecture Assessment](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602) as well as the concepts of solution architecture, where the relevant experts of the organization, both from business lines, finance, security, information technology, etc., work together to design a solution while leveraging various resources, including people, tools, processes, and rules.
+Looking for a default answer and approach to the question "Should an IT Solution be built or bought?" at the organizational level is a mental shortcut that bypasses GC Mandatory Procedures for [Enterprise Architecture Assessments](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602) and [on Application Programming Interfaces](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604) as well as the concepts of solution architecture, where the relevant experts of the organization, both from business lines, finance, security, information technology, etc., work together to design a solution while leveraging various resources, including people, tools, processes, and rules.
 
 An IT solution is by default built, whether by a single person, multiple teams or by a third party, and it will most often consist in an assemblage of many components, known as IT Products in this document.
 
@@ -245,27 +259,6 @@ The following diagram helps visualize how this risk level varies according with 
 Software options in this niche market are scarce due to the unique mandate of ESDC and even if there were commercial offerings, the commoditized nature of these solutions means that ESDC has limited influence on the upstream version of the software, thus increasing the risks to the organization by locking itself with a unique solution and vendor.
 Change probability is high as those capabilities change as much as regulation changes.
 The impact of such changes has a ripple effect on the whole organization and affects ESDC’s reputation to keep up with citizen demands while maintaining its fiduciary responsibility.
-
-#### Mapping the relation between Adopting, Buying and Building<!-- omit in toc -->
-
-To better understand how an IT Solution is obtained and how the nuance between adopting, buying and building is subtle, the table below aims to depict the various characteristics used to define each concept, given that an IT solution is broken down into manageable IT Products:
-
-| Ways of obtaining IT Products and their characteristics | Adopt | Buy | Build |
-|---|---|---|---|
-| Already exists | Yes | Yes | No |
-| Architecture | External | External | Internal |
-| Configurable | Yes | Yes | Depends |
-| Customized code | No | No | Yes |
-| Exchange of money required to have right to use | No | Yes | Depends |
-| Influence on IT Product roadmap | Depends | Limited | High |
-| Bug / Security Fixes | External and Internal (not considered custom code to submit a fix upstream) | External | Internal |
-| Deploy patches | Depends | Depends (XaaS vs on premise) | Internal |
-| Feature Enhancements | Depends (OSS Yes - SaaS No) | No control | Full control |
-| Training material | Depends | Depends | Internal |
-| Liability | TBC | External | Internal |
-| Warranties | Depends | External | Internal |
-
-> Note the table above is not an exhaustive list but merely an example to showcase the large spectrum of nuances needed to be analyzed when assessing whether an IT Solution or Product should be adopted, bought or built.
 
 ### Conclusion<!-- omit in toc -->
 
@@ -362,18 +355,20 @@ For the scope of this Strategy, Operating Systems are NOT defined as IT products
 Therefore should an IT Product depend on an Operating System to run in production, it is in compliance with this Guiding Policy.
 
 Adopt
-: A process by which the department obtains an IT Product and uses it as is, by either configuring it or not.
-The architecture of the IT Product is managed externally, there is no custom code generated to use the IT product, maintenance may be provided by a community in the case of Open Source Software or by a company in the case of a free XaaS.
-There is no exchange of money in this model.
+: A process by which the department obtains an IT Product that is made available and is in used at least once outside the organization.
+It may consist of Open Source Software, proprietary software, and XaaS, used as is, without code customization.
+(the inspiration for this definition is derived from the US Department of Defense OSS FAQ.)
 
 Build
-: A process whereby the department remains the authority on high-level architectural decisions of the IT solution or IT Product, or where the department maintains the ability to alter the source code of the application as needed.
-It could imply assembling multiple components adopted or bought but custom code is required at some point; maintenance of the custom code is the department's responsibility.
-Custom code may be contracted for or written internally.
+: A process whereby the department produces, or contracts a third party to produce, custom code that is not part of any existing IT Product available and used outside the organization.
+When contracted for, the terms and conditions contracted for may vary and impact the ability of the department to alter the code in the future.
 
 Buy
-: Application architecture is conceived outside of the Government of Canada, and a completed IT Solution or IT Product is purchased from a vendor, or support is purchased for a solution developed externally to the department or Government of Canada.
-There is exchange of money between the department and a non-governmental third party.
+: A process by which the department exchanges money for one or many of the following
+: - Rights to use an IT Product under certain terms and conditions
+: - Additional features not provided in IT Products by default
+: - Services, including but not limited to: infrastructure as a service, platform as a service, software as a service, security patches, features enhancements, training, IT Product integration, professional advice, etc.
+: - Warranties and liabilities
 
 Complex IT Solutions
 : A complex IT Solution is when not all requirements are known or key elements may only be found later by experimentation and user research.
@@ -382,7 +377,7 @@ Open Source Software
 : Software with its source code made available with a licence in which the copyright holder provides the rights to study, change, and distribute the software to anyone and for any purpose.
 The name used by the Open Source Initiative (OSI).
 Open source software is defined in the Open Source Definition by ten criteria.
-:- [Open First White paper: Open Source Software Use](https://www.canada.ca/en/government/system/digital-government/open-source-software/open-first-whitepaper/open-first-whitepaper-use.html#definitions)
+: - [Open First White paper: Open Source Software Use](https://www.canada.ca/en/government/system/digital-government/open-source-software/open-first-whitepaper/open-first-whitepaper-use.html#definitions)
 
 Open standards
 : Open standards are a set of rules designed to do a specific job in technology.
@@ -396,6 +391,27 @@ Closed COTS
 
 Open COTS
 : Commercial Off-The-Self (COTS) software where the source code for said product is [open source](#open-source-software).
+
+#### Mapping the relation between Adopting, Buying and Building<!-- omit in toc -->
+
+To better understand how an IT Solution is obtained and how the nuance between adopting, buying and building is subtle, the table below aims to depict the various characteristics used to define each concept, given that an IT solution is broken down into manageable IT Products:
+
+| Ways of obtaining IT Products and their characteristics | Adopt | Buy | Build |
+|---|---|---|---|
+| Already exists | Yes | Yes | No |
+| Architecture | External | External | Internal |
+| Configurable | Yes | Yes | Depends |
+| Customized code | No | No | Yes |
+| Exchange of money required to have right to use | No | Yes | Depends |
+| Influence on IT Product roadmap | Depends | Limited | High |
+| Bug / Security Fixes | External and Internal (not considered custom code to submit a fix upstream) | External | Internal |
+| Deploy patches | Depends | Depends (XaaS vs on premise) | Internal |
+| Feature Enhancements | Depends (OSS Yes - SaaS No) | No control | Full control |
+| Training material | Depends | Depends | Internal |
+| Liability | TBC | External | Internal |
+| Warranties | Depends | External | Internal |
+
+> Note the table above is not an exhaustive list but merely an example to showcase the large spectrum of nuances needed to be analyzed when assessing whether an IT Solution or Product should be adopted, bought or built.
 
 ## Appendix E - References
 
