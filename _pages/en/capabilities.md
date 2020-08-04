@@ -287,14 +287,14 @@ How to measure?
 
 #### 3.2.2. Indicators  
 
-- How often your team monitors the stability and security of your IT system  
+- How often your team monitors the stability and security of your IT system
    a. Very Frequently  
    b. Frequently  
    c. Occasionally  
    d. Rarely  
    e. Very Rarely  
    f. Never  
-
+   
 - How do you notify your team about failure alerts?  
    a. Via email  
    b. Via PR in Github  
@@ -314,7 +314,8 @@ How to measure?
   a. Less than I expect  
   b. About right  
   c. More than I expect  
-  d. We never fix it  
+  d. We never fix it 
+
 
 ### 3.3 Work in process limits  
 
@@ -369,10 +370,14 @@ How to measure?
   c. In-product qualitative feedback (e.g. Send-a-Smile) and survey such as Net Promoter Score (NPS)  
   d. Usage telemetry is gathered with real user monitoring at 100% sampling  
   e. None of the above/not applicable  
+ 
+
 
 ## 4. Cultural capabilities
 
+
 ### 4.1. Job satisfaction
+
 
 #### 4.1.1. Outcomes
 
