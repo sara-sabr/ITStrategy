@@ -395,7 +395,7 @@ How to measure?
 - What should a good  manager do to support you?  
   a. Be consistent with meaningful communication  
   b. Give recognition and praise  
-  c. Provide feedback, mentorship, and training  
+  c. Provide feedback and training  
   d. Create a work culture by design  
   e. Create a safe space for failure  
   f. Provide strong leadership and a clear vision  
