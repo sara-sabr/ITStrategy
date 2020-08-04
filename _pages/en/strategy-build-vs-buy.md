@@ -392,27 +392,6 @@ Closed COTS
 Open COTS
 : Commercial Off-The-Self (COTS) software where the source code for said product is [open source](#open-source-software).
 
-#### Mapping the relation between Adopting, Buying and Building<!-- omit in toc -->
-
-To better understand how an IT Solution is obtained and how the nuance between adopting, buying and building is subtle, the table below aims to depict the various characteristics used to define each concept, given that an IT solution is broken down into manageable IT Products:
-
-| Ways of obtaining IT Products and their characteristics | Adopt | Buy | Build |
-|---|---|---|---|
-| Already exists | Yes | Yes | No |
-| Architecture | External | External | Internal |
-| Configurable | Yes | Yes | Depends |
-| Customized code | No | No | Yes |
-| Exchange of money required to have right to use | No | Yes | Depends |
-| Influence on IT Product roadmap | Depends | Limited | High |
-| Bug / Security Fixes | External and Internal (not considered custom code to submit a fix upstream) | External | Internal |
-| Deploy patches | Depends | Depends (XaaS vs on premise) | Internal |
-| Feature Enhancements | Depends (OSS Yes - SaaS No) | No control | Full control |
-| Training material | Depends | Depends | Internal |
-| Liability | TBC | External | Internal |
-| Warranties | Depends | External | Internal |
-
-> Note the table above is not an exhaustive list but merely an example to showcase the large spectrum of nuances needed to be analyzed when assessing whether an IT Solution or Product should be adopted, bought or built.
-
 ## Appendix E - References
 
 [^1]: Directive on Service and Digital: Mandatory procedures for Enterprise Architecture Assessment <https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602>
