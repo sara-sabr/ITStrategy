@@ -150,9 +150,849 @@
       data:
         list: false
         fr: |
-          Réseau social interne au Gouvernement du Canada, permettant la collaboration entre les employées des ministères ainsi qu'avec des membres de la communauté universitaire canadienne.
+          Réseau social interne au Gouvernement du Canada, permettant la collaboration entre les membres de la fonction publique des ministères du GC ainsi qu'avec des membres de la communauté scientifique universitaire canadienne. Instance de Elgg.
         en: |
-          Social network internal to Government of Canada, enabling collaboration between employees of various departments as well as with members of the Canadian university communities. 
+          Social network internal to Government of Canada, enabling collaboration between employees of various GoC departments as well as with members of the Canadian university communities. Elgg instance.
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: Yes
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: Yes
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Messagerie instantannée - Canaux
+        en: Instant Messaging - Channel-based
+    - col:
+      data:
+        list: false
+        fr: <a href="https://message.gccollab.ca/" target="_blank">GCmessage</a>
+        en: <a href="https://message.gccollab.ca/" target="_blank">GCmessage</a>
+    - col:
+      data:
+        list: false
+        fr: |
+          Messagerie instantannée utilisant des canaux de discussions, permettant la collaboration et les discussions entre les membres de la fonction publique des ministères du GC ainsi qu'avec des membres de la communauté scientifique universitaire canadienne. Instance de Rocket Chat.
+        en: |
+          Channel-based instant messaging internal to Government of Canada, enabling collaboration and discussions between employees of various GoC departments as well as with members of the Canadian university communities. Rocket Chat instance.
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: Yes
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: Yes
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Messagerie instantannée - Canaux
+        en: Instant Messaging - Channel-based
+    - col:
+      data:
+        list: false
+        fr: <a href="https://slack.com/intl/fr-ca/" target="_blank">Slack</a>
+        en: <a href="https://slack.com/intl/en-ca/" target="_blank">Slack</a>
+    - col:
+      data:
+        list: false
+        fr: |
+          Service de messagerie par canaux; un compte peut être créé le courrier électronique professionnel
+        en: |
+          Channel-based instant messaging service; an account can be created using the professional email address.
+    - col:
+      data:
+        list: false
+        fr: Non
+        en: No
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: Yes
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Messagerie instantannée - Canaux
+        en: Instant Messaging - Channel-based
+    - col:
+      data:
+        list: false
+        fr: <a href="https://element.io/" target="_blank">Element</a> (anciennement Riot)
+        en: <a href="https://element.io/" target="_blank">Element</a> (formerly Riot)
+    - col:
+      data:
+        list: false
+        fr: |
+          Service décentralisée de messagerie instantannée sécurisée tout-en-un supportant les messages encryptés de bout en bout pour les équipes, les amis et les organisations. Anciennement connue sous le nom de Riot, elle fait partie du réseau ouvert <a href="https://matrix.org/" target="_blank">Matrix</a>. 
+        en: |
+          All-in-one secure decentralized IM service supporting E2E encrypted messages for teams, friends and organisations. Formerly known as Riot, part of the open <a href="https://matrix.org/" target="_blank">Matrix</a> network. 
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: Yes
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: Yes
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Messagerie instantannée - Canaux
+        en: Instant Messaging - Channel-based
+    - col:
+      data:
+        list: false
+        fr: <a href="https://open.rocket.chat/" target="_blank">Rocket Chat</a>
+        en: <a href="https://open.rocket.chat/" target="_blank">Rocket Chat</a>
+    - col:
+      data:
+        list: false
+        fr: |
+          Centre de communication soutenant les discussions basées sur les canaux. Utilisé pour GCmessage.
+        en: |
+          Communication Hub supporting channel-based discussions. Used to power GCmessage.
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: Yes
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: Yes
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: <a href="https://gitter.im/" target="_blank">Gitter</a>
+        en: <a href="https://gitter.im/" target="_blank">Gitter</a>
+    - col:
+      data:
+        list: false
+        fr: |
+          Plate-forme de discussion et de résautage qui aide à gérer, développer et relier des communautés en associant messagerie, contenu et découverte.
+        en: |
+          A discussion and networking platform that helps manage, develop and connect communities by combining messaging, content and discovery.
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: Yes
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: Yes
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Messagerie instantannée - Canaux
+        en: Instant Messaging - Channel-based
+    - col:
+      data:
+        list: false
+        fr: <a href="https://framateam.org/login" target="_blank">Framateam</a>
+        en: <a href="https://framateam.org/login" target="_blank">Framateam</a>
+    - col:
+      data:
+        list: false
+        fr: |
+          Service de messagerie instantannée libre qui permet de communiquer avec son équipe en notifiant ses collègues, de conserver ses conversations et d’y faire des recherches.
+        en: |
+          Free instant messaging service that allows you to communicate with your team by notifying your colleagues, keep track of your conversations and do research.
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: Yes
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: Yes
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Messagerie instantanée - Un à un (ou plusieurs)
+        en: Instant Messaging - One-to-One (or Many)
+    - col:
+      data:
+        list: false
+        fr: <a href="https://signal.org/fr/" target="_blank">Signal</a>
+        en: <a href="https://signal.org/en/" target="_blank">Signal</a>
+    - col:
+      data:
+        list: false
+        fr: |
+          Service de messagerie instantannée encryptée.
+        en: |
+          Encrypted instant messaging service.
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: Yes
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: Yes
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Messagerie instantanée - Un à un (ou plusieurs)
+        en: Instant Messaging - One-to-One (or Many)
+    - col:
+      data:
+        list: false
+        fr: <a href="https://jami.net" target="_blank">Jami</a>
+        en: <a href="https://jami.net" target="_blank">Jami</a>
+    - col:
+      data:
+        list: false
+        fr: |
+          Application de messagerie instantannée décentralisée et encryptée.
+        en: |
+          Decentralized and encrypted instant messaging application.
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: Yes
+    - col:
+      data:
+        list: false
+        fr: Non
+        en: No
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: <a href="https://www.whatsapp.com/?lang=fr" target="_blank">WhatsApp</a>
+        en: <a href="https://www.whatsapp.com/?lang=en" target="_blank">WhatsApp</a>
+    - col:
+      data:
+        list: false
+        fr: |
+          Service de messagerie instantannée; supporte la vidéoconférence.
+        en: |
+          Instant messaging service; supports videoconferencing.
+    - col:
+      data:
+        list: false
+        fr: Non
+        en: No
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: Yes
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: <a href="" target="_blank"></a>
+        en: <a href="" target="_blank"></a>
+    - col:
+      data:
+        list: false
+        fr: |
+          <desc>
+        en: |
+          <desc>
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: Yes
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: Yes
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: <a href="" target="_blank"></a>
+        en: <a href="" target="_blank"></a>
+    - col:
+      data:
+        list: false
+        fr: |
+          <desc>
+        en: |
+          <desc>
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: Yes
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: Yes
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: <a href="" target="_blank"></a>
+        en: <a href="" target="_blank"></a>
+    - col:
+      data:
+        list: false
+        fr: |
+          <desc>
+        en: |
+          <desc>
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: Yes
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: Yes
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: <a href="" target="_blank"></a>
+        en: <a href="" target="_blank"></a>
+    - col:
+      data:
+        list: false
+        fr: |
+          <desc>
+        en: |
+          <desc>
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: Yes
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: Yes
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: <a href="" target="_blank"></a>
+        en: <a href="" target="_blank"></a>
+    - col:
+      data:
+        list: false
+        fr: |
+          <desc>
+        en: |
+          <desc>
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: Yes
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: Yes
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: <a href="" target="_blank"></a>
+        en: <a href="" target="_blank"></a>
+    - col:
+      data:
+        list: false
+        fr: |
+          <desc>
+        en: |
+          <desc>
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: Yes
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: Yes
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: <a href="" target="_blank"></a>
+        en: <a href="" target="_blank"></a>
+    - col:
+      data:
+        list: false
+        fr: |
+          <desc>
+        en: |
+          <desc>
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: Yes
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: Yes
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: <a href="" target="_blank"></a>
+        en: <a href="" target="_blank"></a>
+    - col:
+      data:
+        list: false
+        fr: |
+          <desc>
+        en: |
+          <desc>
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: Yes
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: Yes
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: <a href="" target="_blank"></a>
+        en: <a href="" target="_blank"></a>
+    - col:
+      data:
+        list: false
+        fr: |
+          <desc>
+        en: |
+          <desc>
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: Yes
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: Yes
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: <a href="" target="_blank"></a>
+        en: <a href="" target="_blank"></a>
+    - col:
+      data:
+        list: false
+        fr: |
+          <desc>
+        en: |
+          <desc>
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: Yes
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: Yes
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: <a href="" target="_blank"></a>
+        en: <a href="" target="_blank"></a>
+    - col:
+      data:
+        list: false
+        fr: |
+          <desc>
+        en: |
+          <desc>
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: Yes
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: Yes
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: <a href="" target="_blank"></a>
+        en: <a href="" target="_blank"></a>
+    - col:
+      data:
+        list: false
+        fr: |
+          <desc>
+        en: |
+          <desc>
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: Yes
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: Yes
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: <a href="" target="_blank"></a>
+        en: <a href="" target="_blank"></a>
+    - col:
+      data:
+        list: false
+        fr: |
+          <desc>
+        en: |
+          <desc>
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: Yes
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: Yes
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: <a href="" target="_blank"></a>
+        en: <a href="" target="_blank"></a>
+    - col:
+      data:
+        list: false
+        fr: |
+          <desc>
+        en: |
+          <desc>
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: Yes
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: Yes
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: <a href="" target="_blank"></a>
+        en: <a href="" target="_blank"></a>
+    - col:
+      data:
+        list: false
+        fr: |
+          <desc>
+        en: |
+          <desc>
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: Yes
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: Yes
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: <a href="" target="_blank"></a>
+        en: <a href="" target="_blank"></a>
+    - col:
+      data:
+        list: false
+        fr: |
+          <desc>
+        en: |
+          <desc>
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: Yes
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: Yes
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: <a href="" target="_blank"></a>
+        en: <a href="" target="_blank"></a>
+    - col:
+      data:
+        list: false
+        fr: |
+          <desc>
+        en: |
+          <desc>
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: Yes
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: Yes
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: <a href="" target="_blank"></a>
+        en: <a href="" target="_blank"></a>
+    - col:
+      data:
+        list: false
+        fr: |
+          <desc>
+        en: |
+          <desc>
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: Yes
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: Yes
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: <a href="" target="_blank"></a>
+        en: <a href="" target="_blank"></a>
+    - col:
+      data:
+        list: false
+        fr: |
+          <desc>
+        en: |
+          <desc>
     - col:
       data:
         list: false
