@@ -91,8 +91,8 @@ For questions that are on a scale from 1-7, if they answer the ‘ideal’ choic
 
 - For questions that are on a sliding percentage scale, the question is worth the selected slider percentage (p) times 7
   - If the ideal score is 100% then: S = p*7
-  - If the ideal score is 0, then: S = |1-p| * 7
-    - |x| = absolute value of x (Ie: |-x| == x == |x| )
+  - If the ideal score is 0, then: S = \|1-p\| * 7
+    - \|x\| = absolute value of x (Ie: \|-x\| == x == \|x\| )
 
 - For questions that have x options, then the scoring is (where X is the selected answer & N is the number of questions)
   - Where the Nth question is the ideal selection: S = X/N * 7
