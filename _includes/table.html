@@ -1,3 +1,4 @@
+{% comment %}
 <!--
   Reusable function to generate tables in markdown documents.
   
@@ -5,28 +6,25 @@
   
   Inspired by https://idratherbewriting.com/blog/single-sourcing-data-into-table-templates-jekyll/
 -->
+{% endcomment %}
+
 {%- assign element-id = include.element-id -%}
 {%- assign table-id = include.table-id -%}
 {%- assign tables-file = {{include.file}}-%}
 {%- assign table-data = site.data.tables.[tables-file] -%}
-{%- assign table-data-filtered = table-data | where: "id", {{table-id}} -%} 
+{%- assign table-data-filtered = table-data | where: "id", {{table-id}} -%}
 {%- assign table = table-data-filtered[0] %}
 {%- assign headerRows = table.rows | where: "headers", true -%}
 {%- assign dataRows = table.rows | where: "headers", false -%}
-{%- assign datatable = table.datatable -%}
 
-{% if datatable %}
 <table class="display" id="{{element-id}}">
-{% else %}
-<table id="{{element-id}}">
-{% endif %}
   {% if headerRows %}
   <thead>
     {%for row in headerRows %}
     <tr>
       {% for col in row.cols %}
       <th scope="col">
-         {{ col.data[page.lang]}}
+        {{ col.data.[page.lang]}}
       </th>
       {% endfor %}
     </tr>
@@ -46,7 +44,7 @@
           {%- endfor %}
         </ul>
         {% else %}
-        {{ col.data[page.lang]}}
+        {{ col.data.[page.lang]}}
         {% endif %}
       </td>
       {% endfor %}
