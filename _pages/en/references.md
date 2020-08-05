@@ -8,9 +8,6 @@ sections: About us
 permalink: /references-en.html
 ---
 {%- assign tables = site.data.tables.references -%}
-<!-- markdownlint-disable MD025-->
-# {{ page.title }}
-<!-- markdownlint-enable MD025 -->
 
 The following are reference materials for the IT Strategy team to use.
 
