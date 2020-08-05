@@ -456,6 +456,10 @@ How to measure?
 
 ### 4.2 Westrum organizational culture  
 
+#### 4.2.1 Outcomes  
+
+Create a [generative culture](https://cloud.google.com/solutions/devops/devops-culture-westrum-organizational-culture) that fosters information flow and trust by examining the six aspects of the Westrum model of organizational culture.
+
 #### 4.2.2. Indicators  
 
 - My team has enough support (or appropriate support)  from leaders and managers for the necessary culture shift and transformation  
@@ -485,6 +489,21 @@ How to measure?
   c. Undecided  
   d. Disagree  
   e. Strongly Disagree  
+
+##### DORA method
+
+Present these measures together (un-labelled and untitled) with responses ranging from Strongly Disagree (=1) to Neither Agree nor Disagree (=4) to Strongly Agree (=7).
+They are a latent construct, which means you can average their scores to provide a single score for your Westrum culture metric.
+
+- On my team, information is actively sought.
+- Messengers are not punished when they deliver news of failures or other bad news.
+- On my team, responsibilities are shared.
+- On my team, cross-functional collaboration is encouraged and rewarded.
+- On my team, failure causes inquiry.
+- On my team, new ideas are welcomed.
+
+Measure with survey of IITB employees.
+Aim for a Westrum culture metric > 35
 
 ### 4.3. Learning culture  
 
@@ -545,25 +564,3 @@ How to measure?
   c. Undecided  
   d. Disagree  
   e. Strongly Disagree  
-
-#### 4.2.1 Outcomes  
-
-Create a [generative culture](https://cloud.google.com/solutions/devops/devops-culture-westrum-organizational-culture) that fosters information flow and trust by examining the six aspects of the Westrum model of organizational culture.
-
-#### 4.2.2. Indicators
-
-Present these measures together (un-labelled and untitled) with responses ranging from Strongly Disagree (=1) to Neither Agree nor Disagree (=4) to Strongly Agree (=7).
-They are a latent construct, which means you can average their scores to provide a single score for your Westrum culture metric.
-
-- On my team, information is actively sought.
-- Messengers are not punished when they deliver news of failures or other bad news.
-- On my team, responsibilities are shared.
-- On my team, cross-functional collaboration is encouraged and rewarded.
-- On my team, failure causes inquiry.
-- On my team, new ideas are welcomed.
-
-Measure with survey of IITB employees.
-
-#### 4.2.3 Goals
-
-- Westrum culture metric > 35
