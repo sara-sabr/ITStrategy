@@ -155,13 +155,6 @@ What percentage of code commits result in a software build without manual interv
 - Percentage slider
   - Ideal: 0%
 
-What percentage of code commits result in automated tests being run without manual intervention?
-- Percentage slider
-  - Ideal: 100%
-
-What percentage of automated builds and tests that are executed successfully every day?
-- Percentage slider
-  - Ideal: 100%
 
 Are builds available to testers?
 - 1 -> 7 (builds are easily made available to testers -> builds are not completely unavailable to testers)
@@ -301,3 +294,395 @@ Security reviews are captured at each of the stages of the software development 
 InfoSec supplies development teams and operational teams with an ample number of approved libraries, packages, and toolchains 
 - 1-7 (strongly agree, strongly disagree)
   - Ideal: Strongly agree (1)
+
+## 2. Process Capabilities
+
+### 2.2 Streamlining change approval
+
+#### 2.2.1 Outcomes
+
+....
+
+#### 2.2.2. Indicators
+
+- What percentage of changes do not require a manual change approval to be promoted to production?
+- What percentage of low-, medium-, and high-risk changes require a manual change approval to be promoted to production?
+- What amount of time do changes spend waiting for approval from external bodies?
+- What percentage of changes are managed by peer-review?
+
+#### 2.2.3 Goals
+
+- 90% of changes do not require a manual change approval to be promoted to production
+- 100% of low-risk changes require a manual change approval to be promoted to production
+- 90% of medium-risk changes require a manual change approval to be promoted to production
+- 75% of high-risk changes require a manual change approval to be promoted to production
+- Changes spend [1-7] days waiting for approval from external bodies
+- 10% of changes are managed by peer-review
+
+## 3. Measurement Capabilities  
+
+### 3.1 Monitoring systems to inform business decisions  
+
+#### 3.1.1 Outcomes  
+
+....
+
+#### 3.1.2. Indicators  
+
+- What is the purpose of the monitor and control phase in your team?  
+   a. To measure the performance of the new process after the execution phase  
+   b. To monitor and control the planning and initiating phases  
+   c. To monitor the project team  
+   d. To control the project team's performance  
+   e. None of the above/not applicable  
+
+- What are the main steps involved in planning and implementing a monitoring protocol in your team?  
+   a. Complete background tasks  
+   b. Develop objectives  
+   c. Design and implement management  
+   d. Design the monitoring methodology  
+   e. Implement monitoring as a pilot study  
+   f. Implement monitoring  
+   g. Report and use results  
+   h. None of the above/not applicable  
+
+- Which step in planning and implementing a monitoring protocol in your team takes the most time?  
+   a. Complete background tasks  
+   b. Develop objectives  
+   c. Design and implement management  
+   d. Design the monitoring methodology  
+   e. Implement monitoring as a pilot study  
+   f. Implement monitoring  
+   g. Report and use results  
+   h. None of the above/not applicable  
+
+- What instrumentation do you use to monitor applications running in production?  
+   a. Availability monitoring via pinging or synthetic transactions  
+   b. Performance monitoring of the servers and infrastructure  
+   c. Real user monitoring  
+   d. Multi-tier views of end-to-end transactions including processing and network combined  
+   e. None of the above/not applicable  
+
+- How fast your team reacts to alerts when the system approaches critical thresholds or goes down?  
+   a. When the threshold reaches 25%  
+   b. When the threshold reaches 50%  
+   c. When the threshold reaches 75%  
+   d. When the threshold reaches 85%  
+   e. When the threshold reaches 95%  
+
+- How is the monitoring process executed in your team?  
+   a. Monitoring one or two areas at a time  
+   b. Monitoring the full software development  
+   c. We are not monitoring  
+
+- Which tool do you use to share collected data in your team?  
+   a. Google docs  
+   b. Sharepoint  
+   c. Email  
+   d. Office 365  
+   e. Slack  
+   f. None of the above/not applicable  
+
+- What has the most impact to make a business decision in your team?  
+   a. Data from application performance monitoring tools  
+   b. Data from infrastructure monitoring tool  
+   c. Outside perspective  
+   d. Previous decision mistakes  
+   e. Your gut instinct  
+   f. None of the above/not applicable  
+
+- How usually  accurate and relevant  is the data to your goal of the team?  
+   a. Very Frequently  
+   b. Frequently  
+   c. Occasionally  
+   d. Rarely  
+   e. Very Rarely  
+   f. Never  
+
+- How often you felt guilty of seeing the data you wish was there instead of what is really in front of you?  
+   a. Always  
+   b. Very Often  
+   c. Sometimes  
+   d. Rarely  
+   e. Never  
+
+#### 3.1.3 Goals  
+
+...
+
+### 3.2 Proactive failure notification  
+
+#### 3.2.2. Indicators  
+
+- How often your team monitors the stability and security of your IT system?  
+   a. Very Frequently  
+   b. Frequently  
+   c. Occasionally  
+   d. Rarely  
+   e. Very Rarely  
+   f. Never  
+
+- How do you notify your team about failure alerts?  
+   a. Via email  
+   b. Via PR in Github  
+   c. Via Slack  
+   d. Via Trello board  
+   e. Via phone call  
+   f. None of the above/not applicable  
+
+- How often do you  face the situation when your team finds out from customers that your application or service is down?  
+  a. Always  
+  b. Very Often  
+  c. Sometimes  
+  d. Rarely  
+  e. Never  
+
+- How long does it take to fix the problem?  
+  a. Less than I expect  
+  b. About right  
+  c. More than I expect  
+  d. We never fix it  
+
+### 3.3 Work in process limits  
+
+#### 3.3.2. Indicators  
+
+- Are people in your team often assigned to work on multiple tasks ? If yes , what is the main reason?  
+  a. It usually doesn't happen  
+  b. Too much work  
+  c. Not enough people in the team  
+  d. Not the right skill sets in the team  
+
+- How often does your team discover invisible work when it is not expected ?  
+  a. Almost always  
+  b. Often  
+  c. Sometimes  
+  d. Seldom  
+  e. Never  
+
+- How visible is your work to the other teams and stakeholders?  
+  a. Very good  
+  b. Good  
+  c. Fair  
+  d. Poor  
+  e. Very poor  
+
+- How often project team meetings are held ?  
+  a. Every day  
+  b. Three times a week  
+  c. Once a week  
+  d. Randomly  
+  e. None of the above/not applicable  
+
+### 3.4 Visual management capabilities  
+
+#### 3.4.2. Indicators  
+
+- What type of tools do you use to manage the work at various stages of a process?  
+  a. Card walls  
+  b. Storyboards  
+  c. Kanban boards  
+  d. We do not use any tools  
+  e. None of the above/not applicable  
+
+- How long does it take to complete a project backlog?  
+  a. More than I would expect  
+  b. About right  
+  c. Less than I would expect  
+
+- How do you gather and measure feedback from users?  
+  a. Manual testing, user acceptance testing or general acceptance criteria  
+  b. Direct email/phone/web contact form, web meetings, or chat room  
+  c. In-product qualitative feedback (e.g. Send-a-Smile) and survey such as Net Promoter Score (NPS)  
+  d. Usage telemetry is gathered with real user monitoring at 100% sampling  
+  e. None of the above/not applicable  
+
+## 4. Cultural capabilities  
+
+### 4.1. Job satisfaction  
+
+#### 4.1.1. Outcomes  
+
+...
+
+#### 4.1.2. Indicators  
+
+- What should an employer do to help your team to be more successful at the job?  
+  a. Understand goals of your team  
+  b. Learn boss' likes and dislikes  
+  c. Get to know your colleagues better  
+  d. Have a positive attitude  
+  e. Accept feedback gracefully  
+  f. Be a professional  
+  g. Take Initiative and be a problem solver  
+  h. Stretch skill set  
+  i. Volunteer for new projects  
+  j. None of the above/not applicable  
+  
+- What should a good  manager do to support you?  
+  a. Be consistent with meaningful communication  
+  b. Give recognition and praise  
+  c. Provide feedback and training  
+  d. Create a work culture by design  
+  e. Create a safe space for failure  
+  f. Provide strong leadership and a clear vision  
+  g. Demonstrate good problem solving  
+  h. Avoid micromanaging  
+  i. Be an effective decision maker  
+  j. Put people first  
+  k. Be honest  
+  l. Be dedicated and balanced  
+  m. None of the above/not applicable  
+
+- What keeps employees happy and productive in your team?  
+  a. Feeling valued  
+  b. Creating a productive atmosphere  
+  c. Prioritizing work-life balance  
+  d. Making employees part of the big picture  
+  e. Being  transparent and honest  
+  f. Encouraging communication in common areas  
+  g. Creating a career pathway  
+  h. Promoting a positive work environment  
+  i. Building employees up  
+  j. Always saying 'thank you.'  
+  k. Recognizing and rewarding employees frequently  
+  l. None of the above/not applicable  
+
+- How does your team make an employee feel valued?  
+  a. Provide them with the recognition they deserve  
+  b. Give employees plenty of positive feedback  
+  c. Solicit their opinion and utilize it as often as possible  
+  d. Communicate well, and frequently  
+  e. Give direct compensation or benefits  
+  f. Give the benefits they want  
+  g. Provide ways for other employees to give praise and recognition  
+  h. Show appreciation  
+  i. Provide public recognition when appropriate  
+  j. Provide work that gives the right level of challenge, showing that you trust their capabilities  
+  k. Say 'thank you.'  
+  l. Celebrate work anniversaries  
+  m. Invest in their continued development  
+  n. None of the above/not applicable  
+
+- What is the way to manage your team through change?  
+  a. Activate change management  
+  b. Set the direction  
+  c. Engage your team  
+  d. Empower decision-making  
+  e. Leverage talent  
+  f. Keep the team moving forward  
+  g. Share success  
+  h. Communicate clearly  
+  i. Set realistic objectives  
+  j. Manage expectations  
+  k. Understanding the final goal  
+  l. Developing a plan  
+  m. Being positive during change  
+  n. Guarding the team  
+  o. None of the above/not applicable  
+
+### 4.2 Westrum organizational culture  
+
+#### 4.2.1 Outcomes  
+
+What percentage of code commits result in automated tests being run without manual intervention?
+- Percentage slider
+  - Ideal: 100%
+
+What percentage of automated builds and tests that are executed successfully every day?
+- Percentage slider
+  - Ideal: 100%
+#### 4.2.2. Indicators  
+
+- My team has enough support (or appropriate support)  from leaders and managers for the necessary culture shift and transformation  
+  a. Strongly Agree  
+  b. Agree  
+  c. Undecided  
+  d. Disagree  
+  e. Strongly Disagree  
+
+- My team culture interacts with the broader organizational culture  
+  a. Strongly Agree  
+  b. Agree  
+  c. Undecided  
+  d. Disagree  
+  e. Strongly Disagree  
+
+- Failures are  treated in my team  as opportunities to improve and learn  
+  a. Strongly Agree  
+  b. Agree  
+  c. Undecided  
+  d. Disagree  
+  e. Strongly Disagree  
+
+- My team is allowed and encouraged  to experiment and try new things  
+  a. Strongly Agree  
+  b. Agree  
+  c. Undecided  
+  d. Disagree  
+  e. Strongly Disagree  
+
+##### DORA method
+
+Measure with survey of IITB employees.
+Aim for a Westrum culture metric > 35
+
+### 4.3. Learning culture  
+
+#### 4.3.2. Indicators  
+
+- My team views learning as an investment for growth  
+  a. Strongly Agree  
+  b. Agree  
+  c. Undecided  
+  d. Disagree  
+  e. Strongly Disagree  
+
+- Learning completely avoided in my  team  
+  a. Strongly Agree  
+  b. Agree  
+  c. Undecided  
+  d. Disagree  
+  e. Strongly Disagree  
+
+- My  team has the resources to engage in informal learning and the space to explore ideas  
+  a. Strongly Agree  
+  b. Agree  
+  c. Undecided  
+  d. Disagree  
+  e. Strongly Disagree  
+
+- My team has a regular cadence of opportunities for employees to share their knowledge  
+  a. Strongly Agree  
+  b. Agree  
+  c. Undecided  
+  d. Disagree  
+  e. Strongly Disagree  
+
+- In my team resources are available for continued education  
+  a. Strongly Agree  
+  b. Agree  
+  c. Undecided  
+  d. Disagree  
+  e. Strongly Disagree  
+
+- My team has regular lunchtime meetings where one person presents about a project they are working on in a new tech, or something they are investigating  
+  a. Strongly Agree  
+  b. Agree  
+  c. Undecided  
+  d. Disagree  
+  e. Strongly Disagree  
+
+- When employees in my team  attend conferences, we have them share the new experience through presentations or trip reports  
+  a. Strongly Agree  
+  b. Agree  
+  c. Undecided  
+  d. Disagree  
+  e. Strongly Disagree  
+
+- In my team we encourage people to get certifications or external trainings, and help them by covering costs of external trainings and forming study groups that are a part of normal work activity  
+  a. Strongly Agree  
+  b. Agree  
+  c. Undecided  
+  d. Disagree  
+  e. Strongly Disagree  
