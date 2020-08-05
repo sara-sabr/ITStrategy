@@ -1,22 +1,29 @@
-<script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.8.0/js/reveal.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.8.0/plugin/markdown/marked.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.8.0/plugin/markdown/markdown.min.js"></script>
-
-<script src="/ITStrategy/assets/js/notes.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/reveal.js@4.0.2/dist/reveal.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/reveal.js@4.0.2/plugin/markdown/markdown.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/reveal.js@4.0.2/plugin/notes/notes.js"></script>
 
 <script>
-  var params = new URLSearchParams(window.location.search);
-  if (params.get("shownotes") !== null)
-  {
-	  Reveal.initialize({
-		  pdfSeparateFragments: false,
-		  showNotes: "separate-page"
-	  });
-  } else if (params.get("print-pdf") !== null) {
-	  Reveal.initialize({
-		  pdfSeparateFragments: false
-	  });
-  } else {
-  	Reveal.initialize();
-  }
+var params = new URLSearchParams(window.location.search);
+if (params.get("print-pdf") !== null)
+{
+	if (params.get("shownotes") !== null)
+  	{
+		Reveal.initialize(
+	  	{
+			pdfSeparateFragments: false,
+			showNotes: "separate-page",
+			plugins: [ RevealMarkdown ]
+	  	});
+  	} else
+	{
+		Reveal.initialize(
+	  	{
+			pdfSeparateFragments: false,
+			plugins: [ RevealMarkdown ]
+		});
+	}
+} else
+{
+	Reveal.initialize({plugins: [ RevealMarkdown, RevealNotes ]});
+}
 </script>
