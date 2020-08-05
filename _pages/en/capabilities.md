@@ -287,7 +287,7 @@ How to measure?
 
 #### 3.2.2. Indicators  
 
-- How often your team monitors the stability and security of your IT system  
+- How often your team monitors the stability and security of your IT system?  
    a. Very Frequently  
    b. Frequently  
    c. Occasionally  
