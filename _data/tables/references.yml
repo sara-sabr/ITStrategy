@@ -409,8 +409,8 @@
     - col:
       data:
         list: false
-        fr: 
-        en: 
+        fr: Messagerie instantanée - Un à un (ou plusieurs)
+        en: Instant Messaging - One-to-One (or Many)
     - col:
       data:
         list: false
@@ -439,20 +439,20 @@
     - col:
       data:
         list: false
-        fr: 
-        en: 
+        fr: Vidéoconférence
+        en: Videoconferencing
     - col:
       data:
         list: false
-        fr: <a href="" target="_blank"></a>
-        en: <a href="" target="_blank"></a>
+        fr: <a href="https://meet.jit.si/" target="_blank">Jitsi Meet</a>
+        en: <a href="https://meet.jit.si/" target="_blank">Jitsi Meet</a>
     - col:
       data:
         list: false
         fr: |
-          <desc>
+          Ne nécessite pas de compte
         en: |
-          <desc>
+          No account needed
     - col:
       data:
         list: false
@@ -469,20 +469,20 @@
     - col:
       data:
         list: false
-        fr: 
-        en: 
+        fr: Vidéoconférence
+        en: Videoconferencing
     - col:
       data:
         list: false
-        fr: <a href="" target="_blank"></a>
-        en: <a href="" target="_blank"></a>
+        fr: <a href="https://demo.bigbluebutton.org/" target="_blank">BigBlueButton</a>
+        en: <a href="https://demo.bigbluebutton.org/" target="_blank">BigBlueButton</a>
     - col:
       data:
         list: false
         fr: |
-          <desc>
+          
         en: |
-          <desc>
+          
     - col:
       data:
         list: false
@@ -499,25 +499,25 @@
     - col:
       data:
         list: false
-        fr: 
-        en: 
+        fr: Vidéoconférence
+        en: Videoconferencing
     - col:
       data:
         list: false
-        fr: <a href="" target="_blank"></a>
-        en: <a href="" target="_blank"></a>
+        fr: <a href="https://zoom.us/" target="_blank">Zoom</a>
+        en: <a href="https://zoom.us/" target="_blank">Zoom</a>
     - col:
       data:
         list: false
         fr: |
-          <desc>
+          
         en: |
-          <desc>
+          
     - col:
       data:
         list: false
-        fr: Oui
-        en: "Yes"
+        fr: Non
+        en: "No"
     - col:
       data:
         list: false
@@ -529,13 +529,13 @@
     - col:
       data:
         list: false
-        fr: 
-        en: 
+        fr: Vidéoconférence
+        en: Videoconferencing
     - col:
       data:
         list: false
-        fr: <a href="" target="_blank"></a>
-        en: <a href="" target="_blank"></a>
+        fr: <a href="https://meet.google.com/" target="_blank">Google Meet</a>
+        en: <a href="https://meet.google.com/" target="_blank">Google Meet</a>
     - col:
       data:
         list: false
@@ -546,8 +546,8 @@
     - col:
       data:
         list: false
-        fr: Oui
-        en: "Yes"
+        fr: Non
+        en: "No"
     - col:
       data:
         list: false
@@ -559,25 +559,25 @@
     - col:
       data:
         list: false
-        fr: 
-        en: 
+        fr: Vidéoconférence
+        en: Videoconferencing
     - col:
       data:
         list: false
-        fr: <a href="" target="_blank"></a>
-        en: <a href="" target="_blank"></a>
+        fr: <a href="https://www.skype.com/" target="_blank">Skype</a>
+        en: <a href="https://www.skype.com/" target="_blank">Skype</a>
     - col:
       data:
         list: false
         fr: |
-          <desc>
+          
         en: |
-          <desc>
+          
     - col:
       data:
         list: false
-        fr: Oui
-        en: "Yes"
+        fr: Non
+        en: "No"
     - col:
       data:
         list: false
@@ -589,25 +589,25 @@
     - col:
       data:
         list: false
-        fr: 
-        en: 
+        fr: Vidéoconférence
+        en: Videoconferencing
     - col:
       data:
         list: false
-        fr: <a href="" target="_blank"></a>
-        en: <a href="" target="_blank"></a>
+        fr: <a href="https://www.bluejeans.com/fr" target="_blank">Blue Jeans</a>
+        en: <a href="https://www.bluejeans.com/" target="_blank">Blue Jeans</a>
     - col:
       data:
         list: false
         fr: |
-          <desc>
+          
         en: |
-          <desc>
+          
     - col:
       data:
         list: false
-        fr: Oui
-        en: "Yes"
+        fr: Non
+        en: "No"
     - col:
       data:
         list: false
