@@ -192,112 +192,112 @@ How long do tests and build take?
 - Between one month and six months
 
 ### Deployment Automation
-Points: 21 
+Points: 21
 
-How many manual steps are in your deployment process? 
-- Ideal: 0 
-- 1-5 
-- 5-25 
-- 25+ 
+How many manual steps are in your deployment process?
+- Ideal: 0
+- 1-5
+- 5-25
+- 25+
 
-What percentage of the deployment steps are automated? 
-- Percentage slider 
-  - Ideal: 100% 
+What percentage of the deployment steps are automated?
+- Percentage slider
+  - Ideal: 100%
 
-How much time spent is spent on delays in the deployment pipeline?  
-- Ideal: Less than a day 
-- Between one day and one week 
-- Between one week and one month 
-- Between one month and six months 
+How much time spent is spent on delays in the deployment pipeline?
+- Ideal: Less than a day
+- Between one day and one week
+- Between one week and one month
+- Between one month and six months
 
-### Trunk-based development 
-Points: 28 
+### Trunk-based development
+Points: 28
 
-For your main application, how many active branches on the application's code repository? 
-- Idea: Three or fewer active branches 
-- Three to five active branches 
-- Five to ten active branches 
-- More than ten active branche 
+For your main application, how many active branches on the application's code repository?
+- Idea: Three or fewer active branches
+- Three to five active branches
+- Five to ten active branches
+- More than ten active branche
 
-How often does your team do code freezes for their main application? 
-- 1-7 scale (never to regularly) 
-  - Ideal: Never 
+How often does your team do code freezes for their main application?
+- 1-7 scale (never to regularly)
+  - Ideal: Never
 
-How often does your team merge branches or forks into the trunk (master)? 
-- 1-7 scale (at least once a day to once or twice a year, or longer) 
-  - Ideal: At least once a day (1) 
+How often does your team merge branches or forks into the trunk (master)?
+- 1-7 scale (at least once a day to once or twice a year, or longer)
+  - Ideal: At least once a day (1)
 
-How often are code reviews completed and approved? 
-- 1-7 scale (as part of daily work to never) 
-  - Ideal: As part of daily work (1) 
+How often are code reviews completed and approved?
+- 1-7 scale (as part of daily work to never)
+  - Ideal: As part of daily work (1)
 
-### Test automation 
-Total Points: 35 
+### Test automation
+Total Points: 35
 
-What percentage of accpetance tests are written by developers? 
-- 1-7 (all to none) 
-  - Ideal: all (1) 
+What percentage of accpetance tests are written by developers?
+- 1-7 (all to none)
+  - Ideal: all (1)
 
-How often are bugs found during testing phases? 
-- 1-7 (often to rarely) 
-  - Ideal: Often (1) 
+How often are bugs found during testing phases?
+- 1-7 (often to rarely)
+  - Ideal: Often (1)
 
-How often are bugs found via exploratory testing, or in production? 
-- 1-7 (often to rarely) 
-  - Ideal: Rarely (7) 
+How often are bugs found via exploratory testing, or in production?
+- 1-7 (often to rarely)
+  - Ideal: Rarely (7)
 
-How often do automated tests accurately reflect a defect in the system? 
-- 1-7 (often to rarely or there are no automated tests) 
-  - Idea: Often (1) 
+How often do automated tests accurately reflect a defect in the system?
+- 1-7 (often to rarely or there are no automated tests)
+  - Idea: Often (1)
 
-How many test suites run in pipeline triggers? 
-- 1-7 (All test suites run in every pipeline trigger -> no test suits run or there are no pipeline triggers) 
-  - Ideal: All test suites run in every pipeline trigger (1) 
+How many test suites run in pipeline triggers?
+- 1-7 (All test suites run in every pipeline trigger -> no test suits run or there are no pipeline triggers)
+  - Ideal: All test suites run in every pipeline trigger (1)
 
-### Architecture 
-Points: 7 
+### Architecture
+Points: 7
 
-Our main application is broken down into independently operable sub-components? 
-- 1-7 (strongly agree to strongly disagree) 
-  - Ideal: strongly agree (1) 
+Our main application is broken down into independently operable sub-components?
+- 1-7 (strongly agree to strongly disagree)
+  - Ideal: strongly agree (1)
 
-### Empowering teams 
-Points: 7 
+### Empowering teams
+Points: 7
  
-I have influence over the tech stack that I work with 
-- 1-7 (strongly agree, strongly disagree) 
-  - Ideal: Strongly agree (1) 
+I have influence over the tech stack that I work with
+- 1-7 (strongly agree, strongly disagree)
+  - Ideal: Strongly agree (1)
 
-### Test data management 
-Points: 21 
+### Test data management
+Points: 21
 
-Adequate test data is available to run full automated test suites 
-- 1 –7 (strongly agree, strongly disagree) 
-  - Ideal: Strongly agree (1) 
+Adequate test data is available to run full automated test suites
+- 1 –7 (strongly agree, strongly disagree)
+  - Ideal: Strongly agree (1)
 
-Test data for automated test suites can be acquired on demand 
-- 1-7 (strongly agree, strongly disagree) 
-  - Ideal: Strongly agree (1) 
+Test data for automated test suites can be acquired on demand
+- 1-7 (strongly agree, strongly disagree)
+  - Ideal: Strongly agree (1)
 
-Test data doesn't limit or constrain the automated tests that teams can run 
-- 1-7 (strongly agree, strongly disagree) 
-  - Ideal: Strongly agree (1) 
+Test data doesn't limit or constrain the automated tests that teams can run
+- 1-7 (strongly agree, strongly disagree)
+  - Ideal: Strongly agree (1)
 
-### Shift left on Security 
-Points: 28 
+### Shift left on Security
+Points: 28
 
-What percentage of features undergo security review early in the design process? 
-- Percentage slider 
-  - Idea: 100% 
+What percentage of features undergo security review early in the design process?
+- Percentage slider
+  - Idea: 100%
 
-Security reviews slow down the development cycle 
-- 1-7 (strongly agree, strongly disagree) 
-  - Ideal: Strongly disagree (7) 
+Security reviews slow down the development cycle
+- 1-7 (strongly agree, strongly disagree)
+  - Ideal: Strongly disagree (7)
 
-Security reviews are captured at each of the stages of the software development lifecycle (design, develop, test, and release) 
-- 1-7 (strongly agree, strongly disagree) 
-  - Ideal: Strongly agree (1) 
+Security reviews are captured at each of the stages of the software development lifecycle (design, develop, test, and release)
+- 1-7 (strongly agree, strongly disagree)
+  - Ideal: Strongly agree (1)
 
 InfoSec supplies development teams and operational teams with an ample number of approved libraries, packages, and toolchains 
-- 1-7 (strongly agree, strongly disagree) 
-  - Ideal: Strongly agree (1) 
+- 1-7 (strongly agree, strongly disagree)
+  - Ideal: Strongly agree (1)
