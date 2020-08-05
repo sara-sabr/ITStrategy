@@ -94,8 +94,15 @@
 - table:
   id: t002
   name:
-    fr: Outils
-    en: Tools
+    fr: Outils et Services
+    en: Tools and Services
+  description:
+    fr: |
+      Ces outils sont tous accessibles au public, ce qui signifie que les informations doivent être transitoires et qu’aucune information protégée ne doit être envoyée ou discutée. Ils sont destinés à la collaboration informelle et au partage d’information.
+      Pour de plus amples informations sur le travail en mode ouvert, veuillez consulter le blogue suivant sur <a href="https://sara-sabr.github.io/ITStrategy/2019/11/19/travailler-ouvertement-partie-1.html" target="_blank">Travailler ouvertement</a>.
+    en: |
+      These tools are all publicly available, meaning information should be transitory and no protected information should be sent or discussed. They are intended for informal collaboration and information sharing.
+      For further guidance on working in the open, please refer to the following blog on <a href="https://sara-sabr.github.io/ITStrategy/2019/11/19/working-in-the-open-part-1.html" target="_blank">Working in the Open</a>.
   datatable: true
   rows:
   - row:
@@ -109,18 +116,13 @@
     - col:
       data:
         list: false
-        fr: Fonction
-        en: Function
-    - col:
-      data:
-        list: false
         fr: Nom
         en: Name
     - col:
       data:
         list: false
-        fr: Type
-        en: Type
+        fr: Description
+        en: Description
     - col:
       data:
         list: false
@@ -137,12 +139,7 @@
     - col:
       data:
         list: false
-        fr: Gouvernance
-        en: Governance
-    - col:
-      data:
-        list: false
-        fr: <a href="" target="_blank">Réseau social
+        fr: Réseau social
         en: Social Network
     - col:
       data:
@@ -152,15 +149,17 @@
     - col:
       data:
         list: false
-        fr: Interne au Gouvernement du Canada
-        en: Internal to Government of Canada
+        fr: |
+          Réseau social interne au Gouvernement du Canada, permettant la collaboration entre les employées des ministères ainsi qu'avec des membres de la communauté universitaire canadienne.
+        en: |
+          Social network internal to Government of Canada, enabling collaboration between employees of various departments as well as with members of the Canadian university communities. 
     - col:
       data:
         list: false
-        fr: true
-        en: true
+        fr: Oui
+        en: Yes
     - col:
       data:
         list: false
-        fr: true
-        en: true
+        fr: Oui
+        en: Yes
