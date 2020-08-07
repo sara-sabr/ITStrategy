@@ -1,50 +1,566 @@
 ---
 layout: default
-title: High Performing IT Capabilities
+title: High Performing DevOps Capabilities
 ref: it-capabilities
 lang: en
 status: posted
-sections: Archives
+sections: Work In Progress
 permalink: /high-performing-it-capabilities.html
 ---
 
-## High Performing IT Capabilities
+The [State of DevOps Report](https://cloud.google.com/devops/state-of-devops/) has been published annually since 2014, as part of the DevOps Research and Assessment (DORA), a six-year research program that has validated a number of technical, process, measurement, and cultural [capabilities to drive higher software delivery and organizational performance](https://cloud.google.com/devops/#devops-capabilities).
 
-A DevOps Research and Assessment (DORA) [Quick Check of software delivery performance in ESDC and IITB](https://beta.devops-research.com/performance.html?leadtime=1&deployfreq=1&ttr=3&chgfail=4&industry=government) show that we are low performers for deployment frequency, lead time for changes, time to restore service and change fail rate.
+A [Quick Check of software delivery performance in ESDC and IITB](https://www.devops-research.com/performance.html?leadtime=2&deployfreq=2&ttr=4&chgfail=5&industry=government) show that we are low performers in general and is inline with results of internal assessments.
 
-The [State of DevOps Report](https://cloud.google.com/devops/state-of-devops/) has been published annually since 2014, as part of the DORA, a six-year research program that has validated a number of technical, process, measurement, and cultural [capabilities to drive higher software delivery and organizational performance](https://cloud.google.com/devops/#devops-capabilities).
+- Low (1 to 6 months) in lead time for changes and deployment frequency.
+- Medium-high (1-7 days) in time to restore service
+- High-medium (16 to 30%) in change fail rate.
 
-IITB and ESDC must continuously improve these capabilities:
+## Lead time
 
-### Technical
+For the primary application or service you work on, what is your lead time for changes (i.e., how long does it take to go from code committed to code successfully running in production)?
 
-- Version control
-- Continuous integration
-- Deployment automation
-- Trunk-based development
-- Test automation
-- Architecture
-- Empowering teams to choose tools
-- Test data management
-- Shifting left on security
+## Deploy frequency
 
-### Process
+For the primary application or service you work on, how often does your organization deploy code to production or release it to end users?
 
-- Team experimentation
-- Streamlining change approval
-- Customer feedback
-- Visibility of work in the value stream
-- Working in small batches
+## Time to restore
 
-### Measurement
+For the primary application or service you work on, how long does it generally take to restore service when a service incident or a defect that impacts users occurs (e.g., unplanned outage, service impairment)?
 
-- Monitoring systems to inform business decisions
-- Proactive failure notification
-- Work in process limits
-- Visual management capabilities
+## Change fail percentage
 
-### Cultural
+For the primary application or service you work on, what percentage of changes to production or releases to users result in degraded service (e.g., lead to service impairment or service outage) and subsequently require remediation (e.g., require a patch, rollback, fix forward, patch)?
 
-- Job satisfaction
-- Westrum organizational culture
-- Learning culture
+## Goals
+
+High software delivery performance
+
+- Lead time [1-7] days
+- Deploy frequency [1-7] days
+- Time to restore [1-24] hours
+- Change fail percentage [0-15] %
+
+[Continuous improvement](https://cloud.google.com/solutions/devops/devops-culture-transform) of the following capabilities:
+
+- [Technical Capabilities](#1-technical-capabilities)
+  - [Version control](#11-version-control)
+  - [Continuous integration](#12-continuous-integration)
+  - Deployment automation
+  - Trunk-based development
+  - Test automation
+  - Architecture
+  - Empowering teams to choose tools
+  - Test data management
+  - Shifting left on security
+- [Process Capabilities](#2-process-capabilities)
+  - Team experimentation
+  - [Streamlining change approval](#22-streamlining-change-approval)
+  - Customer feedback
+  - Visibility of work in the value stream
+  - Working in small batches
+- [Measurement Capabilities](#3-measurement-capabilities)
+  - Monitoring systems to inform business decisions
+  - Proactive failure notification
+  - Work in process limits
+  - Visual management capabilities
+- [Cultural Capabilities](#4-cultural-capabilities)
+  - Job satisfaction
+  - [Westrum organizational culture](#42-westrum-organizational-culture)
+  - Learning culture
+
+## 1. Technical Capabilities
+
+### 1.1 Version control
+
+#### 1.1.1. Outcomes
+
+Teams use version control for source code, test and deployment scripts, infrastructure and application configuration information, and the many libraries and packages they depend upon.
+
+Best practice requires the ability to reproduce all testing and production environments, including the software deployed on them, in a fully automated fashion by using scripts, source code, and configuration information that's stored in version control systems.
+
+#### 1.1.2. Indicators
+
+Application code
+
+- What percentage of application code do you store in version control?
+- How easily and quickly can a team recover application code from the version control system?
+
+System configurations
+
+- What percentage of system configurations do you store in version control?
+- How easily and quickly can teams reconfigure systems from version control?
+
+Application configuration
+
+- What percentage of application configurations do you store in version control?
+- How easily and quickly can teams reconfigure applications from code in the version control system?
+
+Scripts for automating build and configuration
+
+- What percentage do you store in version control?
+- How quickly and easily can you re-provision systems by using scripts from version control?
+
+Others
+
+- What's the biggest blocker to the fast flow of changes from version control to production?
+- Are your builds too slow?
+- Is it hard to re-create deployable packages?
+- Is it difficult to create production-like test environments?
+
+How to measure?
+
+#### 1.1.3 Goals
+
+- 100% of application code stored in version control system
+- 100% of system configurations stored in version control system
+- 100% of application configurations stored in version control system
+- 100% of scripts for automating build and configuration stored in version control system
+
+#### 1.1.4. How to improve
+
+- Save all the things in version control - not just application code and dependencies
+- Ensure that every commit to version control triggers the automated creation of packages that can be deployed to any environment using only information in version control.
+- Make it possible to create production-like test environments on demand using only scripts and configuration information from version control, and to create packages using the automated process described in the previous approach.
+- Work in the open on Github, Gitlab, NPM, Docker Hub, ..
+- Work on shared GC version control system (GCcode)
+- Work on official internal ESDC version control system (TFS, Azure Dev,,)
+
+### 1.2 Continuous integration
+
+#### 1.2.1 Outcomes
+
+Teams must integrate all their work into the main version of the code base on a regular basis.
+Changes must trigger automated builds of the software and a series of automated tests that provide feedback in a few minutes.
+Builds should be numbered and repeatable.
+
+Tests should run successfully at least once a day.
+The system should also make the status visible to the team.
+
+#### 1.2.2. Indicators
+
+- What percentage of code commits result in a software build without manual intervention?
+- What percentage of code commits result in a suite of automated tests being run without manual intervention?
+- What percentage of automated builds and tests that are executed successfully every day?
+- Are builds available to testers?
+- What percentage of tests provide feedback that is available to developers within a day?
+- How long does it takes between the build breaking and having it fixed, either with a check-in that fixes the problem, or by reverting the breaking change?
+- Are builds numbered and repeatable?
+- Are automated tests run every day?
+- How long do tests and build take?
+
+How to measure?
+
+#### 1.2.3 Goals
+
+- All code commits result in a software build without manual intervention
+- All code commits result in a suite of automated tests being run without manual intervention
+- 85% of automated builds and tests that are executed successfully every day
+- All tests provide feedback that is available to developers within a day
+- Fixing build or failing tests takes [1-24] hours
+
+#### 1.2.4. How to improve
+
+- Use version control
+- Remove manual build steps - automate
+- Trigger quick tests on every change (unit tests) for quick feedback
+- Make fixing a broken build a priority
+- Limit tests to 10 minutes
+- Merge changes frequently into trunk
+
+## 2. Process Capabilities
+
+### 2.2 Streamlining change approval
+
+#### 2.2.1 Outcomes
+
+....
+
+#### 2.2.2. Indicators
+
+- What percentage of changes do not require a manual change approval to be promoted to production?
+- What percentage of low-, medium-, and high-risk changes require a manual change approval to be promoted to production?
+- What amount of time do changes spend waiting for approval from external bodies?
+- What percentage of changes are managed by peer-review?
+
+#### 2.2.3 Goals
+
+- 90% of changes do not require a manual change approval to be promoted to production
+- 100% of low-risk changes require a manual change approval to be promoted to production
+- 90% of medium-risk changes require a manual change approval to be promoted to production
+- 75% of high-risk changes require a manual change approval to be promoted to production
+- Changes spend [1-7] days waiting for approval from external bodies
+- 10% of changes are managed by peer-review
+
+## 3. Measurement Capabilities  
+
+### 3.1 Monitoring systems to inform business decisions  
+
+#### 3.1.1 Outcomes  
+
+....
+
+#### 3.1.2. Indicators  
+
+- What is the purpose of the monitor and control phase in your team?  
+   a. To measure the performance of the new process after the execution phase  
+   b. To monitor and control the planning and initiating phases  
+   c. To monitor the project team  
+   d. To control the project team's performance  
+   e. None of the above/not applicable  
+
+- What are the main steps involved in planning and implementing a monitoring protocol in your team?  
+   a. Complete background tasks  
+   b. Develop objectives  
+   c. Design and implement management  
+   d. Design the monitoring methodology  
+   e. Implement monitoring as a pilot study  
+   f. Implement monitoring  
+   g. Report and use results  
+   h. None of the above/not applicable  
+
+- Which step in planning and implementing a monitoring protocol in your team takes the most time?  
+   a. Complete background tasks  
+   b. Develop objectives  
+   c. Design and implement management  
+   d. Design the monitoring methodology  
+   e. Implement monitoring as a pilot study  
+   f. Implement monitoring  
+   g. Report and use results  
+   h. None of the above/not applicable  
+
+- What instrumentation do you use to monitor applications running in production?  
+   a. Availability monitoring via pinging or synthetic transactions  
+   b. Performance monitoring of the servers and infrastructure  
+   c. Real user monitoring  
+   d. Multi-tier views of end-to-end transactions including processing and network combined  
+   e. None of the above/not applicable  
+
+- How fast your team reacts to alerts when the system approaches critical thresholds or goes down?  
+   a. When the threshold reaches 25%  
+   b. When the threshold reaches 50%  
+   c. When the threshold reaches 75%  
+   d. When the threshold reaches 85%  
+   e. When the threshold reaches 95%  
+
+- How is the monitoring process executed in your team?  
+   a. Monitoring one or two areas at a time  
+   b. Monitoring the full software development  
+   c. We are not monitoring  
+
+- Which tool do you use to share collected data in your team?  
+   a. Google docs  
+   b. Sharepoint  
+   c. Email  
+   d. Office 365  
+   e. Slack  
+   f. None of the above/not applicable  
+
+- What has the most impact to make a business decision in your team?  
+   a. Data from application performance monitoring tools  
+   b. Data from infrastructure monitoring tool  
+   c. Outside perspective  
+   d. Previous decision mistakes  
+   e. Your gut instinct  
+   f. None of the above/not applicable  
+
+- How usually  accurate and relevant  is the data to your goal of the team?  
+   a. Very Frequently  
+   b. Frequently  
+   c. Occasionally  
+   d. Rarely  
+   e. Very Rarely  
+   f. Never  
+
+- How often you felt guilty of seeing the data you wish was there instead of what is really in front of you?  
+   a. Always  
+   b. Very Often  
+   c. Sometimes  
+   d. Rarely  
+   e. Never  
+
+#### 3.1.3 Goals  
+
+...
+
+### 3.2 Proactive failure notification  
+
+#### 3.2.2. Indicators  
+
+- How often your team monitors the stability and security of your IT system?  
+   a. Very Frequently  
+   b. Frequently  
+   c. Occasionally  
+   d. Rarely  
+   e. Very Rarely  
+   f. Never  
+
+- How do you notify your team about failure alerts?  
+   a. Via email  
+   b. Via PR in Github  
+   c. Via Slack  
+   d. Via Trello board  
+   e. Via phone call  
+   f. None of the above/not applicable  
+
+- How often do you  face the situation when your team finds out from customers that your application or service is down?  
+  a. Always  
+  b. Very Often  
+  c. Sometimes  
+  d. Rarely  
+  e. Never  
+
+- How long does it take to fix the problem?  
+  a. Less than I expect  
+  b. About right  
+  c. More than I expect  
+  d. We never fix it  
+
+### 3.3 Work in process limits  
+
+#### 3.3.2. Indicators  
+
+- Are people in your team often assigned to work on multiple tasks ? If yes , what is the main reason?  
+  a. It usually doesn't happen  
+  b. Too much work  
+  c. Not enough people in the team  
+  d. Not the right skill sets in the team  
+
+- How often does your team discover invisible work when it is not expected ?  
+  a. Almost always  
+  b. Often  
+  c. Sometimes  
+  d. Seldom  
+  e. Never  
+
+- How visible is your work to the other teams and stakeholders?  
+  a. Very good  
+  b. Good  
+  c. Fair  
+  d. Poor  
+  e. Very poor  
+
+- How often project team meetings are held ?  
+  a. Every day  
+  b. Three times a week  
+  c. Once a week  
+  d. Randomly  
+  e. None of the above/not applicable  
+
+### 3.4 Visual management capabilities  
+
+#### 3.4.2. Indicators  
+
+- What type of tools do you use to manage the work at various stages of a process?  
+  a. Card walls  
+  b. Storyboards  
+  c. Kanban boards  
+  d. We do not use any tools  
+  e. None of the above/not applicable  
+
+- How long does it take to complete a project backlog?  
+  a. More than I would expect  
+  b. About right  
+  c. Less than I would expect  
+
+- How do you gather and measure feedback from users?  
+  a. Manual testing, user acceptance testing or general acceptance criteria  
+  b. Direct email/phone/web contact form, web meetings, or chat room  
+  c. In-product qualitative feedback (e.g. Send-a-Smile) and survey such as Net Promoter Score (NPS)  
+  d. Usage telemetry is gathered with real user monitoring at 100% sampling  
+  e. None of the above/not applicable  
+
+## 4. Cultural capabilities  
+
+### 4.1. Job satisfaction  
+
+#### 4.1.1. Outcomes  
+
+...
+
+#### 4.1.2. Indicators  
+
+- What should an employer do to help your team to be more successful at the job?  
+  a. Understand goals of your team  
+  b. Learn boss' likes and dislikes  
+  c. Get to know your colleagues better  
+  d. Have a positive attitude  
+  e. Accept feedback gracefully  
+  f. Be a professional  
+  g. Take Initiative and be a problem solver  
+  h. Stretch skill set  
+  i. Volunteer for new projects  
+  j. None of the above/not applicable  
+  
+- What should a good  manager do to support you?  
+  a. Be consistent with meaningful communication  
+  b. Give recognition and praise  
+  c. Provide feedback and training  
+  d. Create a work culture by design  
+  e. Create a safe space for failure  
+  f. Provide strong leadership and a clear vision  
+  g. Demonstrate good problem solving  
+  h. Avoid micromanaging  
+  i. Be an effective decision maker  
+  j. Put people first  
+  k. Be honest  
+  l. Be dedicated and balanced  
+  m. None of the above/not applicable  
+
+- What keeps employees happy and productive in your team?  
+  a. Feeling valued  
+  b. Creating a productive atmosphere  
+  c. Prioritizing work-life balance  
+  d. Making employees part of the big picture  
+  e. Being  transparent and honest  
+  f. Encouraging communication in common areas  
+  g. Creating a career pathway  
+  h. Promoting a positive work environment  
+  i. Building employees up  
+  j. Always saying 'thank you.'  
+  k. Recognizing and rewarding employees frequently  
+  l. None of the above/not applicable  
+
+- How does your team make an employee feel valued?  
+  a. Provide them with the recognition they deserve  
+  b. Give employees plenty of positive feedback  
+  c. Solicit their opinion and utilize it as often as possible  
+  d. Communicate well, and frequently  
+  e. Give direct compensation or benefits  
+  f. Give the benefits they want  
+  g. Provide ways for other employees to give praise and recognition  
+  h. Show appreciation  
+  i. Provide public recognition when appropriate  
+  j. Provide work that gives the right level of challenge, showing that you trust their capabilities  
+  k. Say 'thank you.'  
+  l. Celebrate work anniversaries  
+  m. Invest in their continued development  
+  n. None of the above/not applicable  
+
+- What is the way to manage your team through change?  
+  a. Activate change management  
+  b. Set the direction  
+  c. Engage your team  
+  d. Empower decision-making  
+  e. Leverage talent  
+  f. Keep the team moving forward  
+  g. Share success  
+  h. Communicate clearly  
+  i. Set realistic objectives  
+  j. Manage expectations  
+  k. Understanding the final goal  
+  l. Developing a plan  
+  m. Being positive during change  
+  n. Guarding the team  
+  o. None of the above/not applicable  
+
+### 4.2 Westrum organizational culture  
+
+#### 4.2.1 Outcomes  
+
+Create a [generative culture](https://cloud.google.com/solutions/devops/devops-culture-westrum-organizational-culture) that fosters information flow and trust by examining the six aspects of the Westrum model of organizational culture.
+
+#### 4.2.2. Indicators  
+
+- My team has enough support (or appropriate support)  from leaders and managers for the necessary culture shift and transformation  
+  a. Strongly Agree  
+  b. Agree  
+  c. Undecided  
+  d. Disagree  
+  e. Strongly Disagree  
+
+- My team culture interacts with the broader organizational culture  
+  a. Strongly Agree  
+  b. Agree  
+  c. Undecided  
+  d. Disagree  
+  e. Strongly Disagree  
+
+- Failures are  treated in my team  as opportunities to improve and learn  
+  a. Strongly Agree  
+  b. Agree  
+  c. Undecided  
+  d. Disagree  
+  e. Strongly Disagree  
+
+- My team is allowed and encouraged  to experiment and try new things  
+  a. Strongly Agree  
+  b. Agree  
+  c. Undecided  
+  d. Disagree  
+  e. Strongly Disagree  
+
+##### DORA method
+
+Present these measures together (un-labelled and untitled) with responses ranging from Strongly Disagree (=1) to Neither Agree nor Disagree (=4) to Strongly Agree (=7).
+They are a latent construct, which means you can average their scores to provide a single score for your Westrum culture metric.
+
+- On my team, information is actively sought.
+- Messengers are not punished when they deliver news of failures or other bad news.
+- On my team, responsibilities are shared.
+- On my team, cross-functional collaboration is encouraged and rewarded.
+- On my team, failure causes inquiry.
+- On my team, new ideas are welcomed.
+
+Measure with survey of IITB employees.
+Aim for a Westrum culture metric > 35
+
+### 4.3. Learning culture  
+
+#### 4.3.2. Indicators  
+
+- My team views learning as an investment for growth  
+  a. Strongly Agree  
+  b. Agree  
+  c. Undecided  
+  d. Disagree  
+  e. Strongly Disagree  
+
+- Learning completely avoided in my  team  
+  a. Strongly Agree  
+  b. Agree  
+  c. Undecided  
+  d. Disagree  
+  e. Strongly Disagree  
+
+- My  team has the resources to engage in informal learning and the space to explore ideas  
+  a. Strongly Agree  
+  b. Agree  
+  c. Undecided  
+  d. Disagree  
+  e. Strongly Disagree  
+
+- My team has a regular cadence of opportunities for employees to share their knowledge  
+  a. Strongly Agree  
+  b. Agree  
+  c. Undecided  
+  d. Disagree  
+  e. Strongly Disagree  
+
+- In my team resources are available for continued education  
+  a. Strongly Agree  
+  b. Agree  
+  c. Undecided  
+  d. Disagree  
+  e. Strongly Disagree  
+
+- My team has regular lunchtime meetings where one person presents about a project they are working on in a new tech, or something they are investigating  
+  a. Strongly Agree  
+  b. Agree  
+  c. Undecided  
+  d. Disagree  
+  e. Strongly Disagree  
+
+- When employees in my team  attend conferences, we have them share the new experience through presentations or trip reports  
+  a. Strongly Agree  
+  b. Agree  
+  c. Undecided  
+  d. Disagree  
+  e. Strongly Disagree  
+
+- In my team we encourage people to get certifications or external trainings, and help them by covering costs of external trainings and forming study groups that are a part of normal work activity  
+  a. Strongly Agree  
+  b. Agree  
+  c. Undecided  
+  d. Disagree  
+  e. Strongly Disagree  

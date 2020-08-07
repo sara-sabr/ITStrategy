@@ -171,4 +171,4 @@ Thanks for reading!
 - [The DevOps Handbook](https://itrevolution.com/book/the-devops-handbook/)
 - [Team Topologies](https://itrevolution.com/book/team-topologies/)
 - [Phoenix Project](https://itrevolution.com/book/the-phoenix-project/)
-- [Khan Academy](https://khanacademy.org)
+- [Khan Academy](https://www.khanacademy.org)

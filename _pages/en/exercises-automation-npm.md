@@ -7,9 +7,6 @@ status: posted
 sections: Exercises, "Open Source Software", Automation
 permalink: /exercises-automation-npm.html
 ---
-<!-- markdownlint-disable MD025-->
-# NPM Automation Exercise Instructions
-<!-- markdownlint-enable MD025-->
 
 ## Initiate NPM
 

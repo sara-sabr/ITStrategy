@@ -6,25 +6,31 @@ lang: en
 status: posted
 sections: Strategies
 datatable-ids: bvb-actions
-version: 0.03
-date: "2020-07-06"
+version: 0.04
+date: "2020-07-17"
 permalink: /strategy-build-vs-buy.html
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- the below cSpell statement says to ignore any text between HTML tags. E.g. it will ignore "th rowspan='2'" in this string: <th rowspan='2'> -->
 <!-- cSpell:ignoreRegExp /\<[^\>]+\>/ -->
-## {{ page.title }}<!-- omit in toc -->
 
 ***This is a DRAFT strategy.***
 
 <div class="alert alert-info">
-  This strategy is accompanied by two documents: <a href="strategy-build-vs-buy-guidance.html">Guidance</a> and  <a href="strategy-build-vs-buy-explained.html">Explanation</a>.
+  This strategy is accompanied by three documents: <a href="strategy-build-vs-buy-guidance.html" target="_blank">Guidance</a>, <a href="strategy-build-vs-buy-explained.html" target="_blank">Explanation</a>, and <a href="strategy-build-vs-buy-examples.html" target="_blank">Examples</a>.
 </div>
 
 <!-- markdownlint-disable MD036 -->
->_Note 1: Its authoritative source and latest version of this Strategy will be shared on ESDC's internal network (link upcoming)_
+>_Note 1: The authoritative source and latest version of this Strategy material will be shared on our [internal workspace](https://014gc.sharepoint.com/sites/strategyBuildvsBuy)_
 >
 >_Note 2: This page will link to internal ESDC documents, which are unfortunately only accessible within ESDC corporate network._
+>
+>_Note 3: Assumptions when reading this document_
+>
+>- The decision to invest time and resources for an IT solution has already been taken but it has not been decided whether it will be built or bought.
+>- This is not a software request (e.g.: I want to use this neat SaaS)
+>- A comprehensive enterprise view of services is available for all teams, business and IT alike
+>- Service Oriented Architecture is well understood and applied across IITB
 
 **Change log**
 <!-- markdownlint-enable MD036 -->
@@ -33,6 +39,7 @@ permalink: /strategy-build-vs-buy.html
 |0.01|2020-06-22|First Draft, moved from working document to web page|
 |0.02|2020-06-30|Created list of guiding policy rules, Removed duplicate content, Created separate documents for context, Cleaned up definitions|
 |0.03|2020-07-06|Simplify set of guiding policy rules|
+|0.04|2020-07-17|Add Assumptions to notes, clarify Appendix A - Business Case, Dispose of first round of comments|
 
 <!-- markdownlint-disable MD001 -->
 ##### Table of Content<!-- omit in toc -->
@@ -68,7 +75,7 @@ The intent behind this strategy is to communicate a decision by the CIO (not yet
 
 ### Target Audience
 
-This **strategy document** is targeted to stakeholders involved in determining whether to build or to buy IT Solutions and Products.
+This **strategy document** is targeted to stakeholders involved in determining whether to build or to buy an IT Solution that has been approved.
 More specifically, stakeholders involved in architecting IT solutions, defining technology standards, developing, delivering, operationalizing and maintaining IT Solutions (such as Enterprise Architecture, Enterprise Operations, etc.) and guiding committees such as the Architecture Review Committee and the Enterprise Architecture Review Board.
 This includes both IITB and non-IITB stakeholders (such as Business Functions, SSPB, CDO, ISB, IAERMB, and SSC).
 The list of stakeholders are listed in section [Coherent set of actions](#coherent-set-of-actions) and are expected to participate in the execution stage of this strategy necessary to operationalize the Guiding Policy.
@@ -80,7 +87,7 @@ All ESDC personnel involved in the exploration of IT Solutions and in IT investm
 
 Moving to the digital age requires improving IT's responsiveness and promoting a shared accountability with ESDC stakeholders on the use of technology.
 
-This strategy proposes moving ESDC to the point where all stakeholders understand that IT Solutions are complex and investment decisions are taken with flexibility, interchangeability, and interoperability in mind throughout the entire lifecycle of an IT Solution, not only at the initial stage.
+This strategy proposes moving ESDC to the point where all stakeholders understand that IT Solutions are complex and investment decisions have to be taken with flexibility, interchangeability, and interoperability in mind **throughout the entire lifecycle** of an IT Solution, not only at the initial stage.
 The benefits to the adoption of this Strategy are expected to reduce risk [^1], reduce technical debt over time, increase client satisfaction, and increase overall confidence in the department and its staff.
 
 This strategy capitalizes on existing IT initiatives (such as the [IITB Way Forward](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx)) to compliment them by adding attention to them, as well as complimenting them with new activities.
@@ -110,7 +117,7 @@ Stakeholders are expected to still comply with existing policy instruments inclu
 
 ### Governance, Compliance, and Reporting
 
-1. IT Solutions are broken down into manageable parts (IT Products)
+1. IT Solutions are broken down into manageable parts (IT Products) in line with the [Business Capability Model](https://gcconnex.gc.ca/file/group/21723432/all#33319941)
 2. IT Solutions are assessed against the IT Solutions Risk Assessment Framework (see [Risk Managing the Obtention of Software](#risk-managing-the-obtention-of-software)).
   As such:
    1. Complex and core to mandate IT Solutions are architected and delivered internally by ESDC employees but may leverage third party IT Products as components.
@@ -132,6 +139,8 @@ Stakeholders are expected to still comply with existing policy instruments inclu
 8. IT Solutions capabilities for which existing IT Products are not available or do not meet the needs can be built internally or contracted for to a third party.
     - When an IT Product is built internally, or when its custom development is obtained through contracting with a third party, it must be developed in the open and released as open source software by default, in accordance to the ESDC Open Source Framework.
     - Exceptions may be sought through the Closed-Source Application Development Framework
+9. IT Product / IT Solution maintenance and support may be done in-house or outsourced to a 3rd party vendor
+10. Outsourced maintenance and support may be given to a 3rd party different than the one providing the software licence.
 
 ### Finance
 
@@ -154,6 +163,8 @@ Stakeholders are expected to still comply with existing policy instruments inclu
 
 ## Measuring the Strategy's success
 
+[Upcoming]
+
 ## Appendix A - Business Case (Diagnostic)
 
 The current approach to obtaining IT Solutions is to "Buy what we can, Build what we must".
@@ -164,9 +175,9 @@ This oversimplified approach unfortunately doesn't take in account the fact that
 
 As such, it is critical for the organization to ensure that core to mandate IT Solutions remain highly flexible and adaptable to adjust to the fast-paced changes while also minimizing the risk of said changes by adopting loosely coupled architectures and smaller sized work packages (see [Target Solution Delivery Model](strategy-target-solution-delivery-model.html)).
 
-### Build vs Buy : Oversimplified Dichotomy<!-- omit in toc -->
+### Build vs Buy : Oversimplified Question<!-- omit in toc -->
 
-Looking for a systemic and overarching answer and approach to the question "Should the IT Solution be built or bought?" at the organizational level means bypassing the concept of solution architecture, where the required experts of the organization, both from business lines, finance, security, information technology, etc., come together to figure out the best possible way of accomplishing its mission through leveraging its various resources including people, tools, processes and rules.
+Looking for a default answer and approach to the question "Should an IT Solution be built or bought?" at the organizational level is a mental shortcut that bypasses the concept of solution architecture, where the required experts of the organization, both from business lines, finance, security, information technology, etc., come together to figure out the best possible way of accomplishing its mission through leveraging its various resources including people, tools, processes and rules.
 
 A solution is by default built, whether by a single person, multiple teams or by a third party.
 As such, the questions to ask are more akin to:
@@ -176,6 +187,11 @@ As such, the questions to ask are more akin to:
 - “How much organizational risk is the organization willing to delegate to a 3rd party for a product or service for which the future roadmap is not under the organization's control?”.
 
 In large and complex solutions, these questions shouldn't be asked at the solution level but for each component of said solution, taking in account multiple factors and criteria that will be explored below.
+
+Even when an IT Solution is bought, it is never a plug and play situation, whether it consists in COTS or SaaS.
+The organization's IT teams need to obtain, configure and adapt the purchased IT Products to fit with the rest of the organization's IT infrastructure, services, and rules.
+
+Maintenance of IT Solutions should thus be considered separately from the obtained solution as it may require work from personnel within the organization as well as the involvement of 3rd party personnel, whether it was a vendor or even a community of dedicated volunteers in the case of an open source solution.
 
 #### Additional considerations<!-- omit in toc -->
 
@@ -380,7 +396,7 @@ Open standards refer to file formats, protocols and application interfaces that 
 This standardization work is done by specialized agencies that are usually either government agencies or organizations created by professionals from a given industry sector.
 Examples of such organizations include the Internet Engineering Task Force (IETF), the International Organization for Standardization (ISO) and the Organization for the Advancement of Structured Information Standards (OASIS).
 
-- [Open First White paper: Open Standards](https://www.canada.ca/en/government/system/digital-government/open-source-software/open-first-whitepaper/open-first-whitepaper-standards.html)
+- [Open First White paper: Open Standards](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/open-source-software/open-first-whitepaper.html)
 
 ### Closed COTS<!-- omit in toc -->
 
