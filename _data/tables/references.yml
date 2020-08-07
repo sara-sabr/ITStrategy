@@ -289,8 +289,8 @@
     - col:
       data:
         list: false
-        fr: 
-        en: 
+        fr: Messagerie instantannée - Canaux
+        en: Instant Messaging - Channel-based
     - col:
       data:
         list: false
