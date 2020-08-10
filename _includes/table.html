@@ -17,7 +17,11 @@
 {%- assign headerRows = table.rows | where: "headers", true -%}
 {%- assign dataRows = table.rows | where: "headers", false -%}
 
+{%- if table.datatable == true-%}
 <table class="display" id="{{element-id}}">
+{%else%}
+<table id="{{element-id}}">
+{%- endif -%}
   {% if headerRows %}
   <thead>
     {%for row in headerRows %}
