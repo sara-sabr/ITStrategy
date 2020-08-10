@@ -5,6 +5,7 @@ ref: references
 lang: fr
 status: posted
 sections: "À propos de nous"
+datatable-ids: references-tools
 permalink: /references-fr.html
 ---
 {%- assign tables = site.data.tables.references -%}
