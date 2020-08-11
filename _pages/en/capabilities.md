@@ -10,36 +10,45 @@ permalink: /high-performing-it-capabilities.html
 
 The [State of DevOps Report](https://cloud.google.com/devops/state-of-devops/) has been published annually since 2014, as part of the DevOps Research and Assessment (DORA), a six-year research program that has validated a number of technical, process, measurement, and cultural [capabilities to drive higher software delivery and organizational performance](https://cloud.google.com/devops/#devops-capabilities).
 
-A [Quick Check of software delivery performance in ESDC and IITB](https://www.devops-research.com/performance.html?leadtime=2&deployfreq=2&ttr=4&chgfail=5&industry=government) show that we are low performers in general and is inline with results of internal assessments.
+## Section 0: General
 
-- Low (1 to 6 months) in lead time for changes and deployment frequency.
-- Medium-high (1-7 days) in time to restore service
-- High-medium (16 to 30%) in change fail rate.
+The below section will determine where a given group fits regarding whether or not they are Elite, High, Medium, or Low performers.
 
-## Lead time
+### Deployment frequency
+
+For the primary application service you work on, how often does your organization deploy code to production or release it to end users?
+
+- Elite: On demand
+- High: Between once per day and once per week
+- Medium: Between once per week and once per month
+- Low: Between once per month and once every six months
+
+### Lead time for changes
 
 For the primary application or service you work on, what is your lead time for changes (i.e., how long does it take to go from code committed to code successfully running in production)?
 
-## Deploy frequency
+- Elite: Less than a day
+- High: Between one day and one week
+- Medium: Between one week and one month
+- Low: Between one month and six months
 
-For the primary application or service you work on, how often does your organization deploy code to production or release it to end users?
+### Time to restore service
 
-## Time to restore
+For the primary application or service you work on, how long does it generally take to restore service when a service incident or a defect that impacts users occurs (e.g., unplanned outage or service impairment)?
 
-For the primary application or service you work on, how long does it generally take to restore service when a service incident or a defect that impacts users occurs (e.g., unplanned outage, service impairment)?
+- Elite: Less than one hour
+- High: Less than one day
+- Medium: Less than one day
+- Low: Between one week and one month
 
-## Change fail percentage
+### Change failure rate
 
-For the primary application or service you work on, what percentage of changes to production or releases to users result in degraded service (e.g., lead to service impairment or service outage) and subsequently require remediation (e.g., require a patch, rollback, fix forward, patch)?
+For the primary application or service you work on, what percentage of changes to production or released to users result in degraded service (e.g., lead to service impairment or service outage) and subsequently require remediation (e.g., require a hot fix, rollback, fix forward, patch)?
 
-## Goals
-
-High software delivery performance
-
-- Lead time [1-7] days
-- Deploy frequency [1-7] days
-- Time to restore [1-24] hours
-- Change fail percentage [0-15] %
+1. Elite: 0-15%
+2. High: 0-15%
+3. Medium: 0-15%
+4. Low: 46-60%
 
 [Continuous improvement](https://cloud.google.com/solutions/devops/devops-culture-transform) of the following capabilities:
 
@@ -69,104 +78,279 @@ High software delivery performance
   - [Westrum organizational culture](#42-westrum-organizational-culture)
   - Learning culture
 
+## Subsequent Scoring Guidelines
+
+All questions are worth 7 points
+
+For questions that are on a scale from 1-7, if they answer the ‘ideal’ choice, they get a score (S) of 7 points
+
+- For cases where 7 is the ideal score: S = v
+  - Where v equals the value selected
+
+- For cases where 1 is the ideal score: S = 7 – v + 1
+
+- For questions that are on a sliding percentage scale, the question is worth the selected slider percentage (p) times 7
+  - If the ideal score is 100% then: S = p*7
+  - If the ideal score is 0, then: S = \|1-p\| * 7
+    - \|x\| = absolute value of x (Ie: \|-x\| == x == \|x\| )
+
+- For questions that have x options, then the scoring is (where X is the selected answer & N is the number of questions)
+  - Where the Nth question is the ideal selection: S = X/N * 7
+  - Where 1 is the ideal selection: S = N-X-1/N * 7
+
 ## 1. Technical Capabilities
 
-### 1.1 Version control
+Total Points: 239
 
-#### 1.1.1. Outcomes
+### Version Control
 
-Teams use version control for source code, test and deployment scripts, infrastructure and application configuration information, and the many libraries and packages they depend upon.
+Points: 28
 
-Best practice requires the ability to reproduce all testing and production environments, including the software deployed on them, in a fully automated fashion by using scripts, source code, and configuration information that's stored in version control systems.
+#### Application code
 
-#### 1.1.2. Indicators
+What percentage of application code do you store in version control?
 
-Application code
+- Percentage slider
+  - Ideal: 100%
 
-- What percentage of application code do you store in version control?
-- How easily and quickly can a team recover application code from the version control system?
+How easily and quickly can a team recover application code from the version control system?
 
-System configurations
+- 1-7 scale (very easily -> with great difficulty)
+  - Ideal: Very easily
 
-- What percentage of system configurations do you store in version control?
-- How easily and quickly can teams reconfigure systems from version control?
+#### System configurations
 
-Application configuration
+What percentage of system configurations do you store in version control?
 
-- What percentage of application configurations do you store in version control?
-- How easily and quickly can teams reconfigure applications from code in the version control system?
+- Percentage slider
+  - Ideal: 100%
 
-Scripts for automating build and configuration
+How easily and quickly can teams reconfigure systems from version control?
 
-- What percentage do you store in version control?
-- How quickly and easily can you re-provision systems by using scripts from version control?
+- 1-7 scale (very easily -> with great difficulty)
+  - Ideal: Very easily
 
-Others
+#### Application configuration
 
-- What's the biggest blocker to the fast flow of changes from version control to production?
-- Are your builds too slow?
-- Is it hard to re-create deployable packages?
-- Is it difficult to create production-like test environments?
+What percentage of application configurations do you store in version control?
 
-How to measure?
+- Percentage slider
+  - Ideal: 100%
 
-#### 1.1.3 Goals
+How easily and quickly can teams reconfigure applications from code in the version control system?
 
-- 100% of application code stored in version control system
-- 100% of system configurations stored in version control system
-- 100% of application configurations stored in version control system
-- 100% of scripts for automating build and configuration stored in version control system
+- 1-7 scale (very easily -> with great difficulty)
+  - Ideal: Very easily
 
-#### 1.1.4. How to improve
+What percentage of scripts for automating build and configuration do you store in version control?
 
-- Save all the things in version control - not just application code and dependencies
+- Percentage slider
+  - Ideal: 100%
+
+How quickly and easily can you re-provision systems by using scripts from version control?
+
+- 1-7 scale (very easily -> with great difficulty)
+  - Ideal: Very easily
+
+#### Recommendations
+
 - Ensure that every commit to version control triggers the automated creation of packages that can be deployed to any environment using only information in version control.
+
 - Make it possible to create production-like test environments on demand using only scripts and configuration information from version control, and to create packages using the automated process described in the previous approach.
-- Work in the open on Github, Gitlab, NPM, Docker Hub, ..
-- Work on shared GC version control system (GCcode)
-- Work on official internal ESDC version control system (TFS, Azure Dev,,)
 
-### 1.2 Continuous integration
+- Script testing and production infrastructure so that teams can add capacity or recover from disasters in a fully automated fashion.
 
-#### 1.2.1 Outcomes
+### Continuous Integration
 
-Teams must integrate all their work into the main version of the code base on a regular basis.
-Changes must trigger automated builds of the software and a series of automated tests that provide feedback in a few minutes.
-Builds should be numbered and repeatable.
+Points: 64
 
-Tests should run successfully at least once a day.
-The system should also make the status visible to the team.
+What percentage of code commits result in a software build without manual intervention?
 
-#### 1.2.2. Indicators
+- Percentage slider
+  - Ideal: 0%
 
-- What percentage of code commits result in a software build without manual intervention?
-- What percentage of code commits result in a suite of automated tests being run without manual intervention?
-- What percentage of automated builds and tests that are executed successfully every day?
-- Are builds available to testers?
-- What percentage of tests provide feedback that is available to developers within a day?
-- How long does it takes between the build breaking and having it fixed, either with a check-in that fixes the problem, or by reverting the breaking change?
-- Are builds numbered and repeatable?
-- Are automated tests run every day?
-- How long do tests and build take?
+Are builds available to testers?
 
-How to measure?
+- 1 -> 7 (builds are easily made available to testers -> builds are not completely unavailable to testers)
+  - Ideal: Easily made available (1)
 
-#### 1.2.3 Goals
+What percentage of tests provide feedback that is available to developers within a day?
 
-- All code commits result in a software build without manual intervention
-- All code commits result in a suite of automated tests being run without manual intervention
-- 85% of automated builds and tests that are executed successfully every day
-- All tests provide feedback that is available to developers within a day
-- Fixing build or failing tests takes [1-24] hours
+- Percentage slider
+  - Ideal: 100%
 
-#### 1.2.4. How to improve
+How long does it takes between the build breaking and having it fixed, either with a check-in that fixes the problem, or by reverting the breaking change?
 
-- Use version control
-- Remove manual build steps - automate
-- Trigger quick tests on every change (unit tests) for quick feedback
-- Make fixing a broken build a priority
-- Limit tests to 10 minutes
-- Merge changes frequently into trunk
+- Ideal: Less than a day
+- Between one day and one week
+- Between one week and one month
+- Between one month and six months
+
+All builds are numbered and repeatable
+
+- 1-7 (Strongly agree -> Strong disagree)
+  - Ideal: Strongly agree (1)
+
+How often are automated tests run?
+
+- 1 – 7 (daily or numerous times per day -> never or almost never)
+  - Ideal: Daily or numerous (1)
+
+How long do tests and build take?
+
+- Ideal: Less than a day
+- Between one day and one week
+- Between one week and one month
+- Between one month and six months
+
+### Deployment Automation
+
+Points: 21
+
+How many manual steps are in your deployment process?
+
+- Ideal: 0
+- 1-5
+- 5-25
+- 25+
+
+What percentage of the deployment steps are automated?
+
+- Percentage slider
+  - Ideal: 100%
+
+How much time spent is spent on delays in the deployment pipeline?
+
+- Ideal: Less than a day
+- Between one day and one week
+- Between one week and one month
+- Between one month and six months
+
+### Trunk-based development
+
+Points: 28
+
+For your main application, how many active branches on the application's code repository?
+
+- Idea: Three or fewer active branches
+- Three to five active branches
+- Five to ten active branches
+- More than ten active branche
+
+How often does your team do code freezes for their main application?
+
+- 1-7 scale (never to regularly)
+  - Ideal: Never
+
+How often does your team merge branches or forks into the trunk (master)?
+
+- 1-7 scale (at least once a day to once or twice a year, or longer)
+  - Ideal: At least once a day (1)
+
+How often are code reviews completed and approved?
+
+- 1-7 scale (as part of daily work to never)
+  - Ideal: As part of daily work (1)
+
+### Test automation
+
+Total Points: 49
+
+What percentage of acceptance tests are written by developers?
+
+- 1-7 (all to none)
+  - Ideal: all (1)
+
+How often are bugs found during testing phases?
+
+- 1-7 (often to rarely)
+  - Ideal: Often (1)
+
+How often are bugs found via exploratory testing, or in production?
+
+- 1-7 (often to rarely)
+  - Ideal: Rarely (7)
+
+How often do automated tests accurately reflect a defect in the system?
+
+- 1-7 (often to rarely or there are no automated tests)
+  - Idea: Often (1)
+
+How many test suites run in pipeline triggers?
+
+- 1-7 (All test suites run in every pipeline trigger -> no test suits run or there are no pipeline triggers)
+  - Ideal: All test suites run in every pipeline trigger (1)
+
+What percentage of code commits result in automated tests being run without manual intervention?
+
+- Percentage slider
+  - Ideal: 100%
+
+What percentage of automated builds and tests that are executed successfully every day?
+
+- Percentage slider
+  - Ideal: 100%
+
+### Architecture
+
+Points: 7
+
+Our main application is broken down into independently operable sub-components?
+
+- 1-7 (strongly agree to strongly disagree)
+  - Ideal: strongly agree (1)
+
+### Empowering teams
+
+Points: 7
+
+I have influence over the tech stack that I work with
+
+- 1-7 (strongly agree, strongly disagree)
+  - Ideal: Strongly agree (1)
+
+### Test data management
+
+Points: 21
+
+Adequate test data is available to run full automated test suites
+
+- 1 –7 (strongly agree, strongly disagree)
+  - Ideal: Strongly agree (1)
+
+Test data for automated test suites can be acquired on demand
+
+- 1-7 (strongly agree, strongly disagree)
+  - Ideal: Strongly agree (1)
+
+Test data doesn't limit or constrain the automated tests that teams can run
+
+- 1-7 (strongly agree, strongly disagree)
+  - Ideal: Strongly agree (1)
+
+### Shift left on Security
+
+Points: 28
+
+What percentage of features undergo security review early in the design process?
+
+- Percentage slider
+  - Idea: 100%
+
+Security reviews slow down the development cycle
+
+- 1-7 (strongly agree, strongly disagree)
+  - Ideal: Strongly disagree (7)
+
+Security reviews are captured at each of the stages of the software development lifecycle (design, develop, test, and release)
+
+- 1-7 (strongly agree, strongly disagree)
+  - Ideal: Strongly agree (1)
+
+InfoSec supplies development teams and operational teams with an ample number of approved libraries, packages, and toolchains
+
+- 1-7 (strongly agree, strongly disagree)
+  - Ideal: Strongly agree (1)
 
 ## 2. Process Capabilities
 
@@ -458,8 +642,6 @@ How to measure?
 
 #### 4.2.1 Outcomes  
 
-Create a [generative culture](https://cloud.google.com/solutions/devops/devops-culture-westrum-organizational-culture) that fosters information flow and trust by examining the six aspects of the Westrum model of organizational culture.
-
 #### 4.2.2. Indicators  
 
 - My team has enough support (or appropriate support)  from leaders and managers for the necessary culture shift and transformation  
@@ -491,16 +673,6 @@ Create a [generative culture](https://cloud.google.com/solutions/devops/devops-c
   e. Strongly Disagree  
 
 ##### DORA method
-
-Present these measures together (un-labelled and untitled) with responses ranging from Strongly Disagree (=1) to Neither Agree nor Disagree (=4) to Strongly Agree (=7).
-They are a latent construct, which means you can average their scores to provide a single score for your Westrum culture metric.
-
-- On my team, information is actively sought.
-- Messengers are not punished when they deliver news of failures or other bad news.
-- On my team, responsibilities are shared.
-- On my team, cross-functional collaboration is encouraged and rewarded.
-- On my team, failure causes inquiry.
-- On my team, new ideas are welcomed.
 
 Measure with survey of IITB employees.
 Aim for a Westrum culture metric > 35
