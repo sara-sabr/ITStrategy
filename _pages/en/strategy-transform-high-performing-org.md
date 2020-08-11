@@ -5,7 +5,6 @@ ref: transform-high-performing-org
 lang: en
 status: posted
 sections: Strategies
-datatable-ids: bvb-actions
 permalink: /strategy-transform-high-performing-org.html
 ---
 <!-- the below cSpell statement says to ignore any text between HTML tags. E.g. it will ignore "th rowspan='2'" in this string: <th rowspan='2'> -->
