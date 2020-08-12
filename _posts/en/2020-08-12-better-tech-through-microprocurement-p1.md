@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Better tech through micro-procurement: part one"
-ref: working-in-the-open-p1
+ref: microprocurement-p1
 lang: en
-author: "Rachel Muston, in collaboration with the IT Strategy team, and procurement experts at ESDC and TBS"
-date: "2020-07-28"
+author: "Rachel Muston, in collaboration with the IT Strategy team, and procurement experts at ESDC, and TBS"
+date: "2020-08-12"
 excerpt: "The Government of Canada (GC) buys a lot of stuff.
 In 2016, the total spent by the GC on goods and services was ~$16 billion.
 From an IT point of view, this spending can include big-ticket items like new data centres and new national applications costing tens of millions of dollars, but can also include low dollar value items like paying someone to build a small prototype over the course of a few days. This is part one of a series looking at how micro-procurements can bring IT and procurement folks together to enable agile, rapid, and scalable digital work."
