@@ -66,7 +66,7 @@ permalink: /strategy-build-vs-buy.html
 
 ### Purpose
 
-To provide IITB with an overarching strategy in the application of the [GC Mandatory Procedures for Enterprise Architecture Assessments](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602) and the [Mandatory Procedures on Application Programming Interfaces](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604), in the context of obtaining IT Solutions.
+To provide IITB with an overarching strategy in the application of the [GC Mandatory Procedures for Enterprise Architecture Assessments](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602) and the [Mandatory Procedures on Application Programming Interfaces](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604), in the context of obtaining new IT Solutions and assessing enhancements to existing IT Solutions.
 
 The strategy includes:
 
