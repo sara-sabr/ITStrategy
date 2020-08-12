@@ -15,7 +15,7 @@
 {%- assign dataRows = table.rows | where: "headers", false -%}
 {%- assign table-list = page.datatable-ids | split:"," -%}
 
-{%- if page.datatable-ids contains table-id -%}
+{%- if page.datatable-ids contains table-id and headerRows.size > 0-%}
 <table class="display" id="{{table-id}}">
 {%else%}
 <table id="{{table-id}}">
