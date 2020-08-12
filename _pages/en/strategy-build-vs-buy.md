@@ -5,7 +5,7 @@ ref: build-vs-buy
 lang: en
 status: posted
 sections: Strategies
-datatable-ids: bvb-actions
+datatable-ids: t001
 version: 0.04
 date: "2020-07-17"
 permalink: /strategy-build-vs-buy.html
@@ -149,7 +149,7 @@ Stakeholders are expected to still comply with existing policy instruments inclu
 
 ## Coherent set of actions
 
-{% include table.html table-id="t001" element-id="bvb-actions" file="build-vs-buy"%}
+{% include table.html table-id="t001" file="build-vs-buy"%}
 
 ## Measuring the Strategy's success
 
