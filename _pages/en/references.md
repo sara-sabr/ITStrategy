@@ -4,7 +4,7 @@ title: References
 ref: references
 lang: en
 status: posted
-datatable-ids: references-tools
+datatable-ids: t001, t002
 sections: About us
 permalink: /references-en.html
 ---
@@ -20,13 +20,13 @@ Don't hesitate to send us proposals of books, articles, videos or even policies!
 
 ## {{ tables[0].name[page.lang] }}
 
-{% include table.html table-id="t001" element-id="references-gc-links" file="references"%}
+{% include table.html table-id="t001" file="references"%}
 
 ## {{ tables[1].name[page.lang ]}}
 
 {{ tables[1].description[page.lang ]}}
 
-{% include table.html table-id="t002" element-id="references-tools" file="references"%}
+{% include table.html table-id="t002" file="references"%}
 
 ## General
 

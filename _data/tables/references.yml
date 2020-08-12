@@ -3,7 +3,6 @@
   name:
     fr: Liens spécifiques à EDSC et au GC
     en: ESDC and GoC Specific Links
-  datatable: false
   rows:
   - row:
     headers: false
@@ -103,7 +102,6 @@
     en: |
       These tools are all publicly available, meaning information should be transitory and no protected information should be sent or discussed. They are intended for informal collaboration and information sharing.
       For further guidance on working in the open, please refer to the following blog on <a href="https://sara-sabr.github.io/ITStrategy/2019/11/19/working-in-the-open-part-1.html" target="_blank">Working in the Open</a>.
-  datatable: true
   rows:
   - row:
     headers: true
