@@ -5,7 +5,7 @@ ref: references
 lang: fr
 status: posted
 sections: "À propos de nous"
-datatable-ids: references-tools
+datatable-ids: t002
 permalink: /references-fr.html
 ---
 {%- assign tables = site.data.tables.references -%}
@@ -20,13 +20,13 @@ N'hésitez pas à nous envoyer des propositions de livres, articles, vidéos ou 
 
 ## {{ tables[0].name[page.lang] }}
 
-{% include table.html table-id="t001" element-id="references-gc-links" file="references"%}
+{% include table.html table-id="t001" file="references"%}
 
 ## {{ tables[1].name[page.lang ]}}
 
 {{ tables[1].description[page.lang ]}}
 
-{% include table.html table-id="t002" element-id="references-tools" file="references"%}
+{% include table.html table-id="t002" file="references"%}
 
 ## Général
 

@@ -4,7 +4,7 @@ title: References
 ref: references
 lang: en
 status: posted
-datatable-ids: t001, t002
+datatable-ids: t002
 sections: About us
 permalink: /references-en.html
 ---
