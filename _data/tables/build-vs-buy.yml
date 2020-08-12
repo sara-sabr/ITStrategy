@@ -89,6 +89,8 @@
         fr: 
         en: |
           Produce an IT Solution Risk Assessment Framework that favours and incentivizes flexible and interoperable IT solutions, service oriented architecture, and reusable IT Products as components.
+          <br>
+          The Framework should also increase the level of IT Solutions using Open Standards over Proprietary ones. 
           <br><br>
           ESDC Business Capability Model should be leveraged to help define IT Solution concept boundaries.
     - col:
@@ -219,21 +221,21 @@
       data:
         list: false
         fr: 
-        en: Produce IT Products Operational vs Capital Expense Financial Framework
+        en: Produce IT Products Management Framework
     - col:
       data:
         list: false
         fr: 
         en: |
-            Produce an Operational vs Capital Expense Financial Framework to provide guidance on use and budgeting of services as ongoing IT products within IT Solutions architecture<br>
-            Leverage the Cloud CoE showback model to help explain use of services as part of an IT Solution and IT Products costing vs project budgeting. 
+            Produce an IT Product Management Framework, providing guidance on Operational vs Capital Expense Financial management to support this management model in ESDC lead initiatives<br>
+            Leverage the Cloud CoE showback model to help explain use of services as part of an IT Solution and IT Products costing vs project budgeting.
     - col:
       data:
         list: true
         items:
         - item:
             fr:
-            en: Cloud CoE
+            en: <strong>Cloud CoE</strong>
         - item:
             fr:
             en: IITB Finance
@@ -281,6 +283,12 @@
         - item:
             fr:
             en: IT Strategy
+        - item:
+            fr: 
+            en: PSPC
+        - item:
+            fr: 
+            en: SSC
 - table:
   id: t002
   name:
