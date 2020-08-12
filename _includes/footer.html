@@ -23,12 +23,7 @@
   integrity="sha256-hJ44ymhBmRPJKIaKRf3DSX5uiFEZ9xB/qx8cNbJvIMU=" crossorigin="anonymous"></script>
 
 {%- if page.datatable-ids.size > 0 -%}
-{%- assign count = 0 -%}
-{%- assign datatable-ids = page.datatable-ids | split: ', ' -%}
-{% for element-id in datatable-ids %}
- <script src="assets/js/datatable.js" class="datatable" id="{{element-id | json}}">
-    console.log(datatable)</script>
-{% endfor %}
+ <script src="assets/js/datatable.js"></script>
 {%- endif -%}
 
 <script>

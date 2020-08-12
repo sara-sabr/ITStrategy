@@ -1,28 +1,32 @@
-
-<!--
+{% comment %}
   Reusable function to generate tables in markdown documents.
   
   See Contributing.md for details.
   
   Inspired by https://idratherbewriting.com/blog/single-sourcing-data-into-table-templates-jekyll/
--->
-{%- assign element-id = include.element-id -%}
+{% endcomment %}
+
 {%- assign table-id = include.table-id -%}
 {%- assign tables-file = {{include.file}}-%}
 {%- assign table-data = site.data.tables.[tables-file] -%}
-{%- assign table-data-filtered = table-data | where: "id", {{table-id}} -%} 
+{%- assign table-data-filtered = table-data | where: "id", {{table-id}} -%}
 {%- assign table = table-data-filtered[0] %}
 {%- assign headerRows = table.rows | where: "headers", true -%}
 {%- assign dataRows = table.rows | where: "headers", false -%}
+{%- assign table-list = page.datatable-ids | split:"," -%}
 
-<table class="display" id="{{element-id}}">
+{%- if page.datatable-ids contains table-id and headerRows.size > 0-%}
+<table class="display" id="{{table-id}}">
+{%else%}
+<table id="{{table-id}}">
+{%- endif -%}
   {% if headerRows %}
   <thead>
     {%for row in headerRows %}
     <tr>
       {% for col in row.cols %}
       <th scope="col">
-         {{ col.data.[page.lang]}}
+        {{ col.data.[page.lang]}}
       </th>
       {% endfor %}
     </tr>

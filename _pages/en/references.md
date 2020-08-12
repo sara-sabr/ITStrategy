@@ -4,9 +4,11 @@ title: References
 ref: references
 lang: en
 status: posted
+datatable-ids: t002
 sections: About us
 permalink: /references-en.html
 ---
+{%- assign tables = site.data.tables.references -%}
 
 The following are reference materials for the IT Strategy team to use.
 
@@ -16,153 +18,15 @@ Some of that content may only be available on GC/ESDC network so if the link doe
 
 Don't hesitate to send us proposals of books, articles, videos or even policies!
 
-## ESDC and GoC Specifics
+## {{ tables[0].name[page.lang] }}
 
-- [ESDC strategic Framework](http://esdc.prv/en/department/ibp/index.shtml)
-- [ESDC Service transformation Strategy](http://esdc.prv/en/department/service-strategy/index.shtml)
-- [Recent changes to the ESDC's mandate](http://esdc.prv/en/department/changes_desda.shtml)
-- [ESDC's departmental plans](https://www.canada.ca/en/employment-social-development/corporate/reports/departmental-plan.html)
-- [ESDC Network Use Directive](http://iservice.prv/eng/is/security/tools_and_resources/toolkit/network_use_directive.shtml)
-- [ESDC Information Classification Tool](http://iservice.prv/eng/is/security/classification/classification_tool.shtml)
-- [ESDC Social Media Guidelines for Employees](http://esdc.prv/en/stay_connected/social_media.shtml)
-- [ESDC Handbook for the Personal and Official Use of the Internet](http://esdc.prv/en/stay_connected/handbook.shtml)
-- [ESDC IT Security Exception Requests](http://dialogue/grp/ITSecurity-SecuriteTI/Site/Exceptions.aspx)
-- [TB Direction on Enabling Access to Web Services: Policy Implementation Notice](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32588)
-- [TB Policy on Acceptable Network and Device Use](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=27122)
-- [TB Directive on Management of Information Technology](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249)
-- [TB Policy on service and digital](http://dialogue/grp/BU6810070/Shared%20Documents/Reference%20Materials/Policy%20on%20service%20and%20digital.docx) ([GCCollab group](https://gccollab.ca/groups/profile/588431/endigital-numu00e9riquefrdigital-numu00e9rique))
-- [TB Directive on service and digital](http://dialogue/grp/BU6810070/Shared%20Documents/Reference%20Materials/Directive%20on%20service%20and%20digital.docx) ([GCCollab group](https://gccollab.ca/groups/profile/588431/endigital-numu00e9riquefrdigital-numu00e9rique))
-- [TB Directive on Security Management](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32611&section=procedure&p=B)
+{% include table.html table-id="t001" file="references"%}
 
-## Tools
+## {{ tables[1].name[page.lang ]}}
 
-These tools are all publicly available, meaning information should be transitory and no protected information should be sent or discussed. They are intended for informal collaboration and information sharing.
+{{ tables[1].description[page.lang ]}}
 
-For further guidance on working in the open, please refer to the following blog on [Working in the Open](https://sara-sabr.github.io/ITStrategy/2019/11/19/working-in-the-open-part-1.html).
-
-### Collaboration
-
-#### Government of Canada Specific
-
-- [GCcollab](https://gccollab.ca)
-- [GCmessage](https://message.gccollab.ca)
-
-#### Videoconferencing
-
-- [Jitsi Meet](https://meet.jit.si) (no account needed)
-- [BigBlueButton](https://demo.bigbluebutton.org)
-- [Zoom](https://zoom.us)
-- [Google Hangouts](https://hangouts.google.com)
-- [Skype](https://www.skype.com)
-- [Blue Jeans](https://www.bluejeans.com)
-
-#### Instant Messaging - Channel-based
-
-- [Slack](https://slack.com): Can be used with work e-mail, though may require access to email to create account
-- [Riot (Matrix)](https://riot.im/app/): Decentralized IM and can have E2E encrypted messages
-- [Rocket Chat](https://open.rocket.chat)
-- [Gitter](https://gitter.im): For developers and users of GitHub repositories
-- [Framateam](https://framateam.org)
-
-#### Instant Messaging - One-to-One (or Many)
-
-- [Signal](https://signal.org): Encrypted
-- [Jami](https://jami.net): Decentralized & Encrypted
-- [WhatsApp](https://www.whatsapp.com): Has videoconferencing
-
-#### Text Editor (real-time)
-
-- [Framapad](https://framapad.org) (no account needed)
-- [Wikimedia Etherpad](https://etherpad.wikimedia.org/): Real-time collaboration for text editing, open to everyone to read and write (No account)
-- [HackMD](https://hackmd.io): Markdown (account optional)
-
-#### Task Management (Kanban)
-
-- [Trello](https://trello.com)
-- [Framaboard](https://framaboard.org)
-
-#### Whiteboard
-
-- [Web Whiteboard](https://www.webwhiteboard.com) (no account needed)
-- [Miro Board](https://miro.com)
-- [Framamemo](https://framemo.org): Post-it notes
-
-#### Mindmap
-
-- [Coggle](https://coggle.it)
-- [Framindmap](https://framindmap.org)
-
-#### Project Management
-
-- [Asana](https://asana.com)
-- [Taiga](https://taiga.io)
-
-#### Ad-hoc Document Sharing (no account needed)
-
-- [Framadrop](https://framadrop.org): Large files
-- [Framabin](https://framabin.org): Text
-- [Framapic](https://framapic.org): Image
-- [Framalink](https://frama.link): Url shortener
-
-#### Survey
-
-- [Framadate](https://framadate.org): Vote for a date of something else
-- [Framavox](https://framavox.org)
-
-#### Forms
-
-- [Framaforms](https://framaforms.org)
-
-#### Hangout Space
-
-- [Web Whiteboard](https://www.webwhiteboard.com) (no account needed)
-- [Miro Board](https://miro.com)
-- [Framamemo](https://framemo.org): Post-it notes
-
-#### Mindmap
-
-- [Coggle](https://coggle.it)
-- [Framindmap](https://framindmap.org)
-
-#### Project Management
-
-- [Asana](https://asana.com)
-- [Taiga](https://taiga.io)
-
-#### Ad-hoc Document Sharing (no account needed)
-
-- [Framadrop](https://framadrop.org): Large files
-- [Framabin](https://framabin.org): Text
-- [Framapic](https://framapic.org): Image
-- [Framalink](https://frama.link): Url shortener
-
-#### Survey
-
-- [Framadate](https://framadate.org): Vote for a date of something else
-- [Framavox](https://framavox.org)
-
-#### Forms
-
-- [Framaforms](https://framaforms.org)
-
-#### Hangout Space
-
-- [Hubs by Mozilla](https://hubs.mozilla.com/#/) (no account needed)
-
-#### Development
-
-- [GitHub](https://github.com)
-- [GitLab](https://about.gitlab.com)
-- [Framagit](https://framagit.org)
-- [VS Code Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare): Visual Studio Live Share enables you to collaboratively edit and debug with others in real time
-
-#### Design Tools
-
-- [Draw.io](https://app.diagrams.net) (no account needed)
-- [Canva](https://www.canva.com): Design infographics, cards etc
-- [XD](https://www.adobe.com/ca/products/xd/details.html) High fidelity mock up tool with collaborative features
-- [Figma](https://www.figma.com) An interface design application that runs in the browser
-- [Sketch](https://www.sketch.com) creates, prototypes, collaborates and turns ideas into incredible products with the definitive platform for digital design.
+{% include table.html table-id="t002" file="references"%}
 
 ## General
 
