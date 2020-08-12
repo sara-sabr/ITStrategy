@@ -189,6 +189,60 @@
       data:
         list: false
         fr: 
+        en: Review IITB Governance Structure and ToRs
+    - col:
+      data:
+        list: false
+        fr: 
+        en: |
+          Review the current IITB Governance Structure and committees Terms of References to identify potential gaps and conflicts with the desired outcomes of this strategy.
+          <br>
+          Then, adjust governance and committees ToRs to be aligned with the desired outomes.
+    - col:
+      data:
+        list: true
+        items:
+        - item:
+            fr: <strong>Équipes d'architecture</strong>
+            en: |
+              <strong>Architecture Teams</strong>
+              <br>(Includes: Enterprise, Business, Solution, and Technical Architecture)
+        - item:
+            fr:
+            en: IT Strategy
+        - item:
+            fr:
+            en: ADMO
+        - item:
+            fr:
+            en: DG Committee
+        - item:
+            fr:
+            en: Senior Advisors
+        - item:
+            fr:
+            en: OCMC
+        - item:
+            fr:
+            en: Technical Standards Working Group (TSWG)
+        - item:
+            fr:
+            en: ARC
+        - item:
+            fr:
+            en: EARB
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Gouvernance
+        en: Governance
+    - col:
+      data:
+        list: false
+        fr: 
         en: Endorse the ESDC OSS Framework
     - col:
       data:
