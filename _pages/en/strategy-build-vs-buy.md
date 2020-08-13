@@ -17,7 +17,7 @@ permalink: /strategy-build-vs-buy.html
 ***This is a DRAFT strategy.***
 
 <div class="alert alert-info">
-  This strategy is accompanied by three documents: <a href="strategy-build-vs-buy-guidance.html" target="_blank">Guidance</a>, <a href="strategy-build-vs-buy-explained.html" target="_blank">Explanation</a>, and <a href="strategy-build-vs-buy-examples.html" target="_blank">Examples</a>.
+  This strategy is accompanied by the following document: <a href="strategy-build-vs-buy-explained.html" target="_blank">Explanation</a>.
 </div>
 
 <!-- markdownlint-disable MD036 -->
