@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Meilleure technologie grâce au micro-approvisionnement : première partie"
-ref: microprocurement-p1
+ref: micro-procurement-p1
 lang: fr
 author: "Rachel Muston, en collaboration avec l’équipe de la stratégie de TI et les experts en approvisionnement d’EDSC et du SCT"
 date: "2020-08-12"
@@ -89,7 +89,7 @@ Depuis, la portée de ce programme a été élargie (jusqu'à 70 000 $ pour les
 Le gouvernement américain a mis en place un processus [simplifié pour tous les micro-achats](https://acquisition.gov/content/part-13-simplified-acquisition-procedures#i1111868) \[en anglais\] qui, entre autres, encourage notamment les administrateurs généraux à déléguer les pouvoirs de micro-achat.
 De nombreux groupes au sein du gouvernement américain ont fait l'expérience de l'utilisation de ce processus dans le but d'acheter des codes de source ouverte, y compris le [IT Modernization CoE](https://digital.gov/2020/04/24/experimenting-with-micropurchase-threshold/) \[en anglais\], le [Département des Anciens combattants](https://github.com/department-of-veterans-affairs/VA-Micropurchase-Repo) \[en anglais\], et [18 F](https://github.com/18f/micropurchase-archive) \[en anglais\].
 
-Le GC s'est également lancé timidement dans le microprocessus d'approvisionnement d'un code source ouvert avec le lancement en 2017 du projet pilote [Échange de développeurs du GC](https://github.com/canada-ca/devex) \[en anglais\] par le Bureau du Conseil privé (en partenariat avec le SCT et SPAC).
+Le GC s'est également lancé timidement dans le micro-processus d'approvisionnement d'un code source ouvert avec le lancement en 2017 du projet pilote [Échange de développeurs du GC](https://github.com/canada-ca/devex) \[en anglais\] par le Bureau du Conseil privé (en partenariat avec le SCT et SPAC).
 Tous les contrats attribués par l'entremise de GCDevEx étaient d'une valeur de 10 000 $ et moins et portaient uniquement des travaux virtuels et non classifiés (ce qui éliminait la nécessité d'une vérification de la sécurité chez le fournisseur).
 Le projet pilote GCDevEx a permis de cerner un grand nombre de [leçons](https://github.com/canada-ca/devex/issues/51), mais a fini par être mis hors ligne, car il n'incluait pas de processus d'approvisionnement administratif simplifiés et il a été difficile de trouver un nouveau responsable après l'achèvement du projet pilote par le BCP.
 

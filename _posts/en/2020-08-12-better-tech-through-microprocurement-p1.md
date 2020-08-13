@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Better tech through micro-procurement: part one"
-ref: microprocurement-p1
+ref: micro-procurement-p1
 lang: en
 author: "Rachel Muston, in collaboration with the IT Strategy team, and procurement experts at ESDC, and TBS"
 date: "2020-08-12"
