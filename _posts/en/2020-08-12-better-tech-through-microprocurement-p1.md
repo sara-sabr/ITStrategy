@@ -31,7 +31,7 @@ However, for this same reason they provide the perfect opportunity for procureme
 </p>
 
 For the GC, Low Dollar Value is defined within PSPC's [Supply Manual](https://buyandsell.gc.ca/policy-and-guidelines/supply-manual/section/3/60) as contracts where the value is $25K or less for goods or $40K or less for services.
-The vast majority of contracts awarded for goods and services in the GC is on LDV items.
+The vast majority of contracts awarded for goods and services in the GC is for LDV items.
 TBS reports that 92% of 2016 contracts for goods and services were under $25K.
 
 |                 | **Total Contracts** | **Total Value ($B)** |
