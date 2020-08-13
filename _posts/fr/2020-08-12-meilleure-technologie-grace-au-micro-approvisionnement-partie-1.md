@@ -25,12 +25,13 @@ Cela pourrait être dû au fait que ces approvisionnements présentent un faible
 Toutefois, pour la même raison, ils offrent l'occasion d'acquérir et d'expérimenter des produits de TI.
 
 <p class="tab">
-Imaginez que vous gérez un produit de TI et qu'un membre de l'équipe remarque un bogue dans l'une des composantes de source ouverte, mais n'a pas le temps de le régler.
+Imaginez que vous gérez un produit de TI et qu'un membre de l'équipe remarque un bogue mineur dans l'une des composantes de source ouverte.
+Résoudre le bogue améliorerait l'utilisation, mais l'équipe est déjà à capacité.
 Que se passerait-il si vous pouviez afficher une occasion de corriger ce bogue pour 2 000 $, choisir une personne pour faire le travail et recevoir le code corrigé et testé dans un délai de quelques jours ?
 </p>
 
 Pour le GC, les marchés de faible valeur sont définis dans le [Guide des approvisionnements](https://achatsetventes.gc.ca/politiques-et-lignes-directrices/guide-des-approvisionnements/section/3/60) de SPAC comme des marchés dont la valeur est de 25 000 $ ou moins pour des biens, ou de 40 000 $ ou moins pour des services.
-La majorité du budget de dépenses en biens et services au GC porte sur des articles de faible valeur.
+La majorité des contrats en biens et services octroyés par le GC porte sur des articles de faible valeur.
 Le SCT signale que, en 2016, 92 % des marchés de biens et services étaient de moins de 25 000 $.
 
 |                              | **Nombre total de marchés** | **Valeur totale (G$)** |
