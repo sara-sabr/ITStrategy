@@ -103,7 +103,7 @@ Stakeholders are expected to still comply with existing policy instruments inclu
 ### Governance, Compliance, and Reporting
 
 1. IT Solutions are broken down into manageable parts (IT Products) in line with the [GoC Business Capability Model](https://gcconnex.gc.ca/file/group/21723432/al#3l3319941)
-2. IT Solutions are assessed against the IT Solutions Risk Assessment Framework (to be created - see [Coherent set of actions](#coherent-set-of-actions) and read [Risk Managing the Obtention of Software](#risk-managing-the-obtention-of-software)).
+2. IT Solutions are assessed against the IT Solutions Risk Assessment Framework (to be created - see [Coherent set of actions](#coherent-set-of-actions) and read [Managing the Risks of Obtaining of Software](#managing-the-risks-of-obtaining-of-software)).
 3. IT Product / IT Solution maintenance and support may be done in-house or outsourced to a 3rd party vendor
    - Outsourced maintenance and support may be given to a 3rd party different than the one providing the software licence.
 
@@ -192,7 +192,7 @@ As such, if the organization is not in a position to design, build and operate t
 
 #### Risk Managing the Obtention of Software<!-- omit in toc -->
 
-The Strategy looks at risk managing the obtention of software over following dogmatic rules to purchase or build software (e.g. "SaaS first" does not mean SaaS always, "Buy what we can" does not mean buying because it's available).
+The Strategy looks at managing the risks related to obtaining software over following dogmatic rules to purchase or build software (e.g. "SaaS first" does not mean SaaS always, "Buy what we can" does not mean buying because it's available).
 Instead, the Strategy will use such policy instruments as intended by the policy author and its authority to inform decisions for long-term sustainability and user needs.
 
 The risk management for obtaining software is based on the following formula:
