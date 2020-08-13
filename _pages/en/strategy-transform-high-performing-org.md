@@ -60,6 +60,7 @@ This strategy's goal is to clarify the application and alignment to the [GC Digi
 ### Governance, Compliance, and Reporting
 
 - IITB teams use up to 20% of time at work to the improvement of daily work to help IITB achieve the following
+  - [Westrum culture metric](https://cloud.google.com/solutions/devops/devops-culture-westrum-organizational-culture#how_to_measure_organizational_culture) > 35
   - Lead time for change [1-24] hours
   - Deploy frequency [1-24] hours or on demand
   - Time to restore service [1-24] hours
