@@ -16,39 +16,12 @@ permalink: /strategy-build-vs-buy.html
 
 ***This is a DRAFT strategy.***
 
-<div class="alert alert-info">
-  This strategy is accompanied by the following document: <a href="strategy-build-vs-buy-explained.html" target="_blank">Explanation</a>.
-</div>
-
-<!-- markdownlint-disable MD036 -->
->_Note 1: The authoritative source and latest version of this Strategy material will be shared on our [internal workspace](https://014gc.sharepoint.com/sites/strategyBuildvsBuy)_
->
->_Note 2: This page will link to internal ESDC documents, which are unfortunately only accessible within ESDC corporate network._
->
->_Note 3: Assumptions when reading this document_
->
->- The decision to invest time and resources for an IT solution has already been taken but it has not been decided whether it will be adopted, built or bought.
->- This is not a software request (e.g.: I want to use this SaaS)
->- A comprehensive enterprise view of services is available for all teams, business and IT alike
->- Service Oriented Architecture is well understood and applied across IITB
-
-**Change log**
-<!-- markdownlint-enable MD036 -->
-
-| Version | Date of Change | Change Description                                                                                                                         |
-|:------- | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| 0.01    | 2020-06-22     | First Draft, moved from working document to web page                                                                                       |
-| 0.02    | 2020-06-30     | Created list of guiding policy rules, Removed duplicate content, Created separate documents for context, Cleaned up definitions            |
-| 0.03    | 2020-07-06     | Simplify set of guiding policy rules                                                                                                       |
-| 0.04    | 2020-07-17     | Add Assumptions to notes, clarify Appendix A - Business Case, Dispose of first round of comments                                           |
-| 0.05    | 2020-07-29     | Dispose v0.04 feedback, simplify rules, address duplication of content, realign strategy with Enterprise Architecture Mandatory Procedures |
-
 <!-- markdownlint-disable MD001 -->
 ##### Table of Content<!-- omit in toc -->
 <!-- markdownlint-enable MD001 -->
 - [Introduction](#introduction)
   - [Purpose](#purpose)
-  - [Target Audience](#target-audience)
+  - [Targeted Stakeholders](#targeted-stakeholders)
   - [Business Case](#business-case)
 - [Guiding Policy](#guiding-policy)
   - [Governance, Compliance, and Reporting](#governance-compliance-and-reporting)
@@ -60,24 +33,25 @@ permalink: /strategy-build-vs-buy.html
 - [Appendix A - Business Case (Diagnostic)](#appendix-a---business-case-diagnostic)
 - [Appendix B - Traceability Matrix (Update coming soon)](#appendix-b---traceability-matrix-update-coming-soon)
 - [Appendix D - Definitions](#appendix-d---definitions)
-- [Appendix E - References](#appendix-e---references)
+- [Appendix E - Notes and Change Log](#appendix-e---notes-and-change-log)
+- [Appendix F - References](#appendix-f---references)
 
 ## Introduction
 
 ### Purpose
 
-To provide IITB with an overarching strategy in the application of the [GC Mandatory Procedures for Enterprise Architecture Assessments](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602) and the [Mandatory Procedures on Application Programming Interfaces](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604), in the context of obtaining new IT Solutions and assessing enhancements to existing IT Solutions.
+To provide the Innovation, Information, and Technology Branch with an overarching strategy in the application of the [Government of Canada (GoC) Mandatory Procedures for Enterprise Architecture Assessments](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602) and the [Mandatory Procedures on Application Programming Interfaces](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604), in the context of obtaining new Information Technology (IT) Solutions and assessing enhancements to existing IT Solutions.
 
 The strategy includes:
 
-1. A **guiding policy**, which serves to clarify the application of the GC Mandatory Procedures for [Enterprise Architecture Assessments](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602) and [on Application Programming Interfaces](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604) when obtaining IT Solutions in ESDC.
-2. A **coherent set of actions** (an action plan), which serve to operationalize the application of the GC Mandatory Procedures for [Enterprise Architecture Assessments](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602) and [on Application Programming Interfaces](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604) when obtaining IT Solutions in ESDC.
+1. A **guiding policy**, which serves to clarify the application of the GoC Mandatory Procedures for [Enterprise Architecture Assessments](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602) and [on Application Programming Interfaces](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604) when obtaining IT Solutions in ESDC.
+2. A **coherent set of actions** (an action plan), which serve to operationalize the application of the GoC Mandatory Procedures for [Enterprise Architecture Assessments](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602) and [on Application Programming Interfaces](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604) when obtaining IT Solutions in ESDC.
 
 The intent behind this strategy is to communicate a decision by the CIO (not yet approved) on a path forward (the Guiding Policy), and what investments are needed to operationalize that decision (the coherent set of actions).
 
-### Target Audience
+### Targeted Stakeholders
 
-This **strategy document** is targeted to stakeholders involved in obtaining an IT Solution as an outcome of an initiative as defined in the PPPM.
+This **strategy document** is targeted to stakeholders involved in obtaining an IT Solution as an outcome of an initiative as defined in the Policy on Project and Programme Management (PPPM).
 More specifically, stakeholders involved in architecting IT solutions, defining technology standards, developing, delivering, operationalizing and maintaining IT Solutions (such as Enterprise Architecture, Enterprise Operations, etc.) and guiding committees such as the Architecture Review Committee (ARC) and the Enterprise Architecture Review Board (EARB).
 This includes both IITB and non-IITB stakeholders such as, but not limited to, Business Functions, SSPB, CDO, ISB, IAERMB, and SSC.
 The list of stakeholders are listed in the [Coherent set of actions](#coherent-set-of-actions) and are expected to participate in the execution stage of this strategy necessary to operationalize the Guiding Policy.
@@ -100,7 +74,7 @@ The benefits to the adoption of this Strategy are expected to reduce risk [^1], 
 
 This strategy capitalizes on existing IT initiatives (such as the [IITB Way Forward](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx)) to complement them, as well as supporting them with new activities (see [Coherent set of actions](#coherent-set-of-actions)).
 
-This strategy's goal is to clarify the application of the GC Mandatory Procedures for [Enterprise Architecture Assessments](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602) and [on Application Programming Interfaces](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604) when obtaining IT Solutions within ESDC IITB context, and provide a roadmap in getting to the adoption of this framework.
+This strategy's goal is to clarify the application of the GoC Mandatory Procedures for [Enterprise Architecture Assessments](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602) and [on Application Programming Interfaces](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604) when obtaining IT Solutions within ESDC IITB context, and provide a roadmap in getting to the adoption of this framework.
 
 More details in [Appendix A](#appendix-a---business-case-diagnostic).
 
@@ -115,6 +89,7 @@ Once active, all teams involved in the project, and the IT products involved in 
 This Guiding Policy has been prepared by taking into consideration alignment and compliance with existing policy instruments and does not replace them.
 Stakeholders are expected to still comply with existing policy instruments including, but not limited to:
 
+- ESDC [Policy on Project and Programme Management (PPPM)](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Policy%20on%20Project%20and%20Programme%20Management.pdf)
 - ESDC Information Management Policy (being drafted)
 - ESDC [Procurement Policies](http://iservice.prv/eng/finance/purchasing/policy.shtml)
 - ESDC Security Policy (being drafted)
@@ -123,11 +98,11 @@ Stakeholders are expected to still comply with existing policy instruments inclu
   - [Appendix A: Mandatory Procedures for Enterprise Architecture Assessment](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602)
   - [Appendix B: Mandatory Procedures on Application Programming Interfaces](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604)
 - TBS [Directive on Security Management](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32611)
-- GC [Architecture Principles Standards](https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards)
+- GoC [Architecture Principles Standards](https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards)
 
 ### Governance, Compliance, and Reporting
 
-1. IT Solutions are broken down into manageable parts (IT Products) in line with the [GC Business Capability Model](https://gcconnex.gc.ca/file/group/21723432/al#3l3319941)
+1. IT Solutions are broken down into manageable parts (IT Products) in line with the [GoC Business Capability Model](https://gcconnex.gc.ca/file/group/21723432/al#3l3319941)
 2. IT Solutions are assessed against the IT Solutions Risk Assessment Framework (to be created - see [Coherent set of actions](#coherent-set-of-actions) and read [Risk Managing the Obtention of Software](#risk-managing-the-obtention-of-software)).
 3. IT Product / IT Solution maintenance and support may be done in-house or outsourced to a 3rd party vendor
    - Outsourced maintenance and support may be given to a 3rd party different than the one providing the software licence.
@@ -153,7 +128,7 @@ Stakeholders are expected to still comply with existing policy instruments inclu
 
 ## Measuring the Strategy's success
 
-This Strategy's success will be measured by comparing the following metrics against the key elements of the GC Mandatory Procedures for [Enterprise Architecture Assessments](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602) and [on Application Programming Interfaces](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604).
+This Strategy's success will be measured by comparing the following metrics against the key elements of the GoC Mandatory Procedures for [Enterprise Architecture Assessments](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602) and [on Application Programming Interfaces](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604).
 
 - Adoption/Building
   - Increase adoption of open source software components
@@ -175,7 +150,7 @@ This Strategy's success will be measured by comparing the following metrics agai
 
 The creation of this strategy document stems from a request to help IITB decide whether it should prioritize buying an IT Solution over building one.
 
-Looking for a default answer and approach to the question "Should an IT Solution be built or bought?" at the organizational level is a mental shortcut that bypasses GC Mandatory Procedures for [Enterprise Architecture Assessments](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602) and [on Application Programming Interfaces](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604) as well as the concepts of solution architecture, where the relevant experts of the organization, both from business lines, finance, security, information technology, etc., work together to design a solution while leveraging various resources, including people, tools, processes, and rules.
+Looking for a default answer and approach to the question "Should an IT Solution be built or bought?" at the organizational level is a mental shortcut that bypasses GoC Mandatory Procedures for [Enterprise Architecture Assessments](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602) and [on Application Programming Interfaces](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604) as well as the concepts of solution architecture, where the relevant experts of the organization, both from business lines, finance, security, information technology, etc., work together to design a solution while leveraging various resources, including people, tools, processes, and rules.
 
 An IT solution is by default built, whether by a single person, multiple teams or by a third party, and it will most often consist in an assemblage of many components, known as IT Products in this document.
 
@@ -283,12 +258,12 @@ The following traceability matrix is used to show alignment with various strateg
 <a href="https://sara-sabr.github.io/ITStrategy/strategy-summary.html" target="_blank">Strategy Map</a>/Meaningful work<br>
 <a href="https://sara-sabr.github.io/ITStrategy/strategy-summary.html" target="_blank">Strategy Map</a>/Lean Change Approval<br>
 <a href="https://sara-sabr.github.io/ITStrategy/strategy-summary.html" target="_blank">Strategy Map</a>/Continuous Feedback Loops<br>
-<a href="https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html" target="_blank">GC Digital Standards</a>/design with users<br>
-<a href="https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html" target="_blank">GC Digital Standards</a>/iterate and improve frequently<br>
-<a href="https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards" target="_blank">GC Architecture Standards</a>/Business Architecture<br>
-<a href="https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards" target="_blank">GC Architecture Standards</a>/Security Architecture & Privacy<br>
-<a href="https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html" target="_blank">GC DOSP</a>/Chapter 1 user-centred<br>
-<a href="https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html" target="_blank">GC DOSP</a>/Chapter 6 digital governance<br>
+<a href="https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html" target="_blank">GoC Digital Standards</a>/design with users<br>
+<a href="https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html" target="_blank">GoC Digital Standards</a>/iterate and improve frequently<br>
+<a href="https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards" target="_blank">GoC Architecture Standards</a>/Business Architecture<br>
+<a href="https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards" target="_blank">GoC Architecture Standards</a>/Security Architecture & Privacy<br>
+<a href="https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html" target="_blank">GoC DOSP</a>/Chapter 1 user-centred<br>
+<a href="https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html" target="_blank">GoC DOSP</a>/Chapter 6 digital governance<br>
 <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603" target="_blank">TB Policy on Service and Digital</a>/4.2 client-centric service<br>
 <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601" target="_blank">TB Directive on Service and Digital</a>/Strategic IT Management<br>
 <a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental IMIT Plan/19-20 Plans/IITB Moving Forward v2.docx" target="_blank">IITB Way Forward</a>/1. Adjust IITB leadership<br>
@@ -300,8 +275,8 @@ The following traceability matrix is used to show alignment with various strateg
 <tr>
   <td><b>Finance</b></td>
   <td>
-  <a href="https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html">GC Digital Standards</a>/iterate and improve frequently<br>
-<a href="https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html">GC DOSP</a>/Chapter 4.3 Procurement modernization<br>
+  <a href="https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html">GoC Digital Standards</a>/iterate and improve frequently<br>
+<a href="https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html">GoC DOSP</a>/Chapter 4.3 Procurement modernization<br>
 <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603">TB Policy on Service and Digital</a>/4.2 client-centric service<br>
 <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603">TB Policy on Service and Digital</a>/Supporting workforce capacity and capability<br>
 <a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental IMIT Plan/19-20 Plans/IITB Moving Forward v2.docx">IITB Way Forward</a>/6d. Separate programme/project<br>
@@ -312,13 +287,13 @@ The following traceability matrix is used to show alignment with various strateg
   <td><b>Architecture</b></td>
   <td>
   <a href="https://sara-sabr.github.io/ITStrategy/strategy-summary.html">Strategy Map</a>/Lean Architecture<br>
-<a href="https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html">GC Digital Standards</a>/iterate and improve frequently<br>
-<a href="https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards">GC Architecture Standards</a>/Information Architecture<br>
-<a href="https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards">GC Architecture Standards</a>/Application Architecture<br>
-<a href="https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards">GC Architecture Standards</a>/Security Architecture & Privacy<br>
-<a href="https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html">GC DOSP</a>/Chapter 3.2 Any-platform, any-device<br>
-<a href="https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html">GC DOSP</a>/Chapter 4.3 Procurement modernization<br>
-<a href="https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html">GC DOSP</a>/Chapter 4.4 IT Modernization<br>
+<a href="https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html">GoC Digital Standards</a>/iterate and improve frequently<br>
+<a href="https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards">GoC Architecture Standards</a>/Information Architecture<br>
+<a href="https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards">GoC Architecture Standards</a>/Application Architecture<br>
+<a href="https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards">GoC Architecture Standards</a>/Security Architecture & Privacy<br>
+<a href="https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html">GoC DOSP</a>/Chapter 3.2 Any-platform, any-device<br>
+<a href="https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html">GoC DOSP</a>/Chapter 4.3 Procurement modernization<br>
+<a href="https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html">GoC DOSP</a>/Chapter 4.4 IT Modernization<br>
 <a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental IMIT Plan/19-20 Plans/IITB Moving Forward v2.docx">IITB Way Forward</a>/6a. Strengthen Enterprise Architecture practice<br>
 <a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental IMIT Plan/19-20 Plans/IITB Moving Forward v2.docx">IITB Way Forward</a>/6e. Enhance app development
   </td>
@@ -328,12 +303,12 @@ The following traceability matrix is used to show alignment with various strateg
   <td>
   <a href="https://sara-sabr.github.io/ITStrategy/strategy-summary.html">Strategy Map</a>/Cross Functional <br>
 <a href="https://sara-sabr.github.io/ITStrategy/strategy-summary.html">Strategy Map</a>/Continuous Improvement<br>
-<a href="https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html">GC Digital Standards</a>/iterate and improve frequently<br>
-<a href="https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html">GC Digital Standards</a>/address security and privacy risks<br>
-<a href="https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html">GC Digital Standards</a>/build accessibility from the start<br>
-<a href="https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards">GC Architecture Standards</a>/Business Architecture<br>
-<a href="https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards">GC Architecture Standards</a>/Security Architecture & Privacy<br>
-<a href="https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html">GC DOSP</a>/Chapter 2.3 Accessibility and inclusion<br>
+<a href="https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html">GoC Digital Standards</a>/iterate and improve frequently<br>
+<a href="https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html">GoC Digital Standards</a>/address security and privacy risks<br>
+<a href="https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html">GoC Digital Standards</a>/build accessibility from the start<br>
+<a href="https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards">GoC Architecture Standards</a>/Business Architecture<br>
+<a href="https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards">GoC Architecture Standards</a>/Security Architecture & Privacy<br>
+<a href="https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html">GoC DOSP</a>/Chapter 2.3 Accessibility and inclusion<br>
 <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603">TB Policy on Service and Digital</a>/Supporting workforce capacity and capability<br>
 <a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental IMIT Plan/19-20 Plans/IITB Moving Forward v2.docx">IITB Way Forward</a>/6d. Separate programme/project<br>
 <a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental IMIT Plan/19-20 Plans/IITB Moving Forward v2.docx">IITB Way Forward</a>/6e. Enhance app development
@@ -392,7 +367,36 @@ Closed COTS
 Open COTS
 : Commercial Off-The-Self (COTS) software where the source code for said product is [open source](#open-source-software).
 
-## Appendix E - References
+## Appendix E - Notes and Change Log
+
+<div class="alert alert-info">
+  This strategy is accompanied by the following document: <a href="strategy-build-vs-buy-explained.html" target="_blank">Explanation</a>.
+</div>
+
+<!-- markdownlint-disable MD036 -->
+>_Note 1: The authoritative source and latest version of this Strategy material will be shared on our [internal workspace](https://014gc.sharepoint.com/sites/strategyBuildvsBuy)_
+>
+>_Note 2: This page will link to internal ESDC documents, which are unfortunately only accessible within ESDC corporate network._
+>
+>_Note 3: Assumptions when reading this document_
+>
+>- The decision to invest time and resources for an IT solution has already been taken but it has not been decided whether it will be adopted, built or bought.
+>- This is not a software request (e.g.: I want to use this SaaS)
+>- A comprehensive enterprise view of services is available for all teams, business and IT alike
+>- Service Oriented Architecture is well understood and applied across IITB
+
+**Change log**
+<!-- markdownlint-enable MD036 -->
+
+| Version | Date of Change | Change Description                                                                                                                         |
+|:------- | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| 0.01    | 2020-06-22     | First Draft, moved from working document to web page                                                                                       |
+| 0.02    | 2020-06-30     | Created list of guiding policy rules, Removed duplicate content, Created separate documents for context, Cleaned up definitions            |
+| 0.03    | 2020-07-06     | Simplify set of guiding policy rules                                                                                                       |
+| 0.04    | 2020-07-17     | Add Assumptions to notes, clarify Appendix A - Business Case, Dispose of first round of comments                                           |
+| 0.05    | 2020-07-29     | Dispose v0.04 feedback, simplify rules, address duplication of content, realign strategy with Enterprise Architecture Mandatory Procedures |
+
+## Appendix F - References
 
 [^1]: Directive on Service and Digital: Mandatory procedures for Enterprise Architecture Assessment <https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602>
 [^2]: Pia Andrews, in [What improving IT procurement in the public sector looks like: navigating, balancing, and initiating procurement conversations to avoid sprinting off cliffs](https://www.themandarin.com.au/118548-improving-it-procurement-public-sector-navigating-balancing-initiating-procurement-conversations/), writes that many COTS implementations “require significant customization, configuration, integration, or modifications to actually implement a COTS product into production.”
