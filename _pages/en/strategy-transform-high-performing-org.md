@@ -26,29 +26,34 @@ permalink: /strategy-transform-high-performing-org.html
 
 ### Purpose
 
-To provide IITB with a strategy to transform into a high performing organization through the continuous improvement of daily Work.
+To provide Information and Technology Branch (IITB) with a strategy to transform into a high performing organization through the continuous improvement of daily Work.
 The strategy includes:
 
-- A guiding policy, which serves to set automatic decisions that defines the continuous improvement strategy
-- A coherent set of actions (an action plan), which serve to operationalize the continuous improvement strategy
+1. A **guiding policy**, which serves to clarify the application and alignment to the [GC Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html) and the [Directive on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601) to transform IITB into a high performing organization through the continuous improvement of daily Work.
+2. A **coherent set of actions** (an action plan), which serve to operationalize the continuous improvement transformation.
 
-The intent behind this strategy is to communicate a decision by the CIO (not yet approved) on a path forward (the Guiding Policy), and what investments are needed to operationalize that decision (the coherent set of actions).
+The intent behind this strategy is to communicate a decision by the Chief Information Officer (CIO) on a path forward (the Guiding Policy), and what investments are needed to operationalize that decision (the coherent set of actions).
 
-### Target Audience
+### Targeted Stakeholders
 
-This strategy document is targeted to stakeholders involved in determining how IITB can continue to meet the needs of the department (ESDC) and Canadians. More specifically ...  This includes both IITB and non-IITB stakeholders (such as from CFOB, IAERMB, and SSC). The list of stakeholders are listed in section Coherent set of actions and are expected to participate in the execution stage of this strategy necessary to operationalize the Guiding Policy.
+This **strategy document** is targeted to all stakeholders involved in the day to day operation of IITB.
+This includes both IITB and non-IITB stakeholders such as, but not limited to, Business Functions, Strategic and Service Policy Branch (SSPB), Chief Data Officer (CDO), Integrity Service Branch (ISB), Internal Audit Services Branch, and Shared-Services Canada (SSC).
+The list of stakeholders are listed in the [Coherent set of actions](#coherent-set-of-actions) and are expected to participate in the execution stage of this strategy necessary to operationalize the Guiding Policy.
 
-The Guiding Policy, once operationalized, will target all ESDC personnel involved in IT projects, resources and investments.  All teams within IITB are expected to adhere to this policy.
+The **Guiding Policy**, once operationalized, will target stakeholders to always be improving.
+All Employment and Social Development Canada (ESDC) personnel involved in the activities of IITB are expected to adhere to this policy.
 
 ### Business Case
 
-Moving to the digital age requires improving IT’s responsiveness and promoting a shared accountability with ESDC stakeholders on the use of technology.
+Moving to the digital age requires improving IT's responsiveness and promoting a shared accountability with ESDC stakeholders on the use of technology.
 
-To improve IT’s responsiveness, ways must be found to reduce risks associated with its use. This strategy proposes moving ESDC to the point where same day software deployments are possible and a common practice by continuously improving processes inline with the objectives of the branch (IITB) to become a high performing IT organization. The benefits to frequent small deployments, using automated methods, are expected to reduce risk 1, reduce technical debt, increase client satisfaction, and increase overall confidence in the department and its staff.
+The [GC Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html) and the [Directive on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601) as well as the [Digital Operations Strategic Plan: 2018-2022](https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html) set a direction for departments to focus on user needs, reuse existing business capabilities, use modern technologies, be agile, work in the open, ..
 
-This strategy capitalizes on existing IT initiatives (such as the IITB Way Forward) to compliment them by adding attention to them, as well as complimenting them with new activities.
+The benefits to the adoption of this Strategy are expected to reduce risk [^1], reduce technical debt over time, increase client satisfaction, and increase overall confidence in the department and its staff to support the needs of ESDC.
 
-This strategy’s goal is to define a continuous improvement strategy, and provide a roadmap in getting to the adoption of this strategy.
+This strategy capitalizes on existing IT initiatives (such as the [IITB Way Forward](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx)) to complement them, as well as supporting them with new activities (see [Coherent set of actions](#coherent-set-of-actions)).
+
+This strategy's goal is to clarify the application and alignment to the [GC Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html) and the [Directive on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601) to transform IITB into a high performing organization through the continuous improvement of daily Work.
 
 ## Guiding Policy
 
