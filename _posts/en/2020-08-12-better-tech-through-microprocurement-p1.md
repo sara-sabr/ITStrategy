@@ -26,12 +26,12 @@ This could be because these procurements are low risk and generally don't make h
 However, for this same reason they provide the perfect opportunity for procurement and IT experimentation.
 
 <p class="tab">
-  Imagine that you manage an IT product and a team member notices a bug in one of the open source components, but doesn't have time to fix it.
+  Imagine that you manage an IT product and a team member notices a non-critical bug in one of the open source components. Fixing it would improve usability however the team is currently at capacity.
   What if you could post an opportunity to fix that bug for $2K, select someone to do the work and receive the fixed and tested code within a matter of days?
 </p>
 
 For the GC, Low Dollar Value is defined within PSPC's [Supply Manual](https://buyandsell.gc.ca/policy-and-guidelines/supply-manual/section/3/60) as contracts where the value is $25K or less for goods or $40K or less for services.
-Most of the spending on goods and services in the GC is on LDV items.
+The vast majority of contracts awarded for goods and services in the GC is on LDV items.
 TBS reports that 92% of 2016 contracts for goods and services were under $25K.
 
 |                 | **Total Contracts** | **Total Value ($B)** |
