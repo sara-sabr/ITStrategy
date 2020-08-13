@@ -26,7 +26,8 @@ This could be because these procurements are low risk and generally don't make h
 However, for this same reason they provide the perfect opportunity for procurement and IT experimentation.
 
 <p class="tab">
-  Imagine that you manage an IT product and a team member notices a non-critical bug in one of the open source components. Fixing it would improve usability however the team is currently at capacity.
+  Imagine that you manage an IT product and a team member notices a non-critical bug in one of the open source components.
+  Fixing it would improve usability however the team is currently at capacity.
   What if you could post an opportunity to fix that bug for $2K, select someone to do the work and receive the fixed and tested code within a matter of days?
 </p>
 
