@@ -48,7 +48,7 @@ However, as the [2020 Red Tape Reduction Report](https://internal-red-tape-reduc
 And therein lies a real opportunity.
 With 15 weeks from start to finish and 8 days of 'touch time', the flow efficiency rate (the percentage of time tasks are being worked on compared with the total time they spend in the work stream) is only 11% for the average LDV contract in the GC (based on those departments who participated in the development of the report).
 There are also a lot of hands involved.
-On average 7 people from procurement, the line of business and the suppliers are involved in a LDV purchase.
+On average 7 people including those from procurement, the line of business and the suppliers, are involved in a LDV purchase.
 More hands = more waiting.
 On average there are 67 business days during the LDV purchase process where no one is working on the file.
 
