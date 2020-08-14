@@ -113,6 +113,7 @@ Stakeholders are expected to still comply with existing policy instruments inclu
 ### Finance
 
 1. IT Solutions financial requirements are aligned to Product Management Framework (to be created - see [Coherent set of actions](#coherent-set-of-actions))
+2. IT Solutions are assessed against the Total Cost of Ownership Framework (to be created - see [Coherent set of actions](#coherent-set-of-actions))
 
 ### Legal
 
