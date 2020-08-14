@@ -54,7 +54,7 @@
             fr: <strong>Équipes d'architecture</strong>
             en: |
               <strong>Architecture Teams</strong>
-              <br>(Includes: Enterprise, Business, Solution, and Technical Architecture)
+              <br>(Includes: Enterprise, Business, Data, Information, Solution, Technical, IT Security, and Security Architecture)
         - item:
             fr:
             en: Senior Advisors
@@ -101,7 +101,7 @@
             fr: <strong>Équipes d'architecture</strong>
             en: |
               <strong>Architecture Teams</strong>
-              <br>(Includes: Enterprise, Business, Solution, and Technical Architecture)
+              <br>(Includes: Enterprise, Business, Data, Information, Solution, Technical, IT Security, and Security Architecture)
         - item:
             fr:
             en: Senior Advisors
@@ -155,7 +155,7 @@
             fr: <strong>Équipes d'architecture</strong>
             en: |
               <strong>Architecture Teams</strong>
-              <br>(Includes: Enterprise, Business, Solution, and Technical Architecture)
+              <br>(Includes: Enterprise, Business, Data, Information, Solution, Technical, IT Security, and Security Architecture)
         - item:
             fr:
             en: Senior Advisors
@@ -206,7 +206,7 @@
             fr: <strong>Équipes d'architecture</strong>
             en: |
               <strong>Architecture Teams</strong>
-              <br>(Includes: Enterprise, Business, Solution, and Technical Architecture)
+              <br>(Includes: Enterprise, Business, Data, Information, Solution, Technical, IT Security, and Security Architecture)
         - item:
             fr:
             en: IT Strategy
@@ -290,6 +290,43 @@
         - item:
             fr:
             en: <strong>Cloud CoE</strong>
+        - item:
+            fr:
+            en: IITB Finance
+        - item:
+            fr:
+            en: CFOB
+        - item:
+            fr:
+            en: IT Strategy
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Finance
+        en: Finance
+    - col:
+      data:
+        list: false
+        fr: 
+        en: Produce Total Cost of Ownership Framework
+    - col:
+      data:
+        list: false
+        fr: 
+        en: |
+            Produce a Total Cost of Ownership Framework to provide guidance on assessing the full lifecycle costs of adopting IT Solutions (acquisition, operation and end-of-life)
+    - col:
+      data:
+        list: true
+        items:
+        - item:
+            fr: <strong>Équipes d'architecture</strong>
+            en: |
+              <strong>Architecture Teams</strong>
+              <br>(Includes: Enterprise, Business, Data, Information, Solution, Technical, IT Security, and Security Architecture)
         - item:
             fr:
             en: IITB Finance
