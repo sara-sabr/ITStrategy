@@ -30,16 +30,20 @@ This document is complementary content for the [Build vs Buy Strategy](strategy-
 
 ## Introduction
 
-Often when we talk about policy we use complex language in order to effectively encompass all ideas and information to the user. As a result however, this makes policy difficult to digest and comprehend. The goal of the IITB Build vs Buy strategy is to provide a new way of thinking about IT procurement and risk management. As such, the following scenarios were created in order to help the user put the framework into context.
+Often when talking about policy, it seems complex language is used in order to effectively encompass all ideas and information to the user. However, this can result in policy that is difficult to digest and comprehend. The goal of the IITB Build vs Buy strategy is to provide a new way of thinking about IT procurement and risk management. As such, the following scenarios were created in order to help the user put the framework into context.
 
 ### Scope of This Document
 
-The scope of this document is to provide you with different examples or scenarios which will help you to put the Adopt, Buy, Build strategy into context. It is not meant as a definitive guide. There are many different considerations and many different variables when it comes to decision making around whether to build or buy a solution or a component thereof. As such, we will be making a core set of assumptions that may not be applicable to your precise situation. Please refer to the actual strategy document for more detailed information.
+The scope of this document is to provide different examples or scenarios which will help put the Adopt, Buy, Build strategy into context.
+It is not meant as a definitive guide.
+There are many different considerations and many different variables when it comes to decision making around whether to build or buy a solution or a component thereof.
+As such, the examples below are created by making a core set of assumptions that may not be applicable to any precise situation.
+Please refer to the actual strategy document for more detailed information.
 
 ### Use Cases
 
-Most of the time, we will not only adopt, buy, or build something.
-It's most often a combination of the 3.
+Most of the time, obtaining an IT solution is not only adopting, buying, or building something.
+It's often some permutation of the 3.
 The following use cases show that some solutions can be classified in different locations of the diagram depending on how they are implemented and by who.
 
 ![Basic Venn diagram with 3 overlapping circles for Adopt, Build and Buy. The middle is the intersection of all 3 (Adopt ^ Buy ^ Build)](assets/images/adopt-build-buy-venn.png)
