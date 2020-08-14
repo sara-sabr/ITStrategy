@@ -30,7 +30,10 @@ This document is complementary content for the [Build vs Buy Strategy](strategy-
 
 ## Introduction
 
-Often when talking about policy, it seems complex language is used in order to effectively encompass all ideas and information to the user. However, this can result in policy that is difficult to digest and comprehend. The goal of the IITB Build vs Buy strategy is to provide a new way of thinking about IT procurement and risk management. As such, the following scenarios were created in order to help the user put the framework into context.
+Often when talking about policy, it seems complex language is used in order to effectively encompass all ideas and information to the user.
+However, this can result in policy that is difficult to digest and comprehend.
+The goal of the IITB Build vs Buy strategy is to provide a new way of thinking about IT procurement and risk management.
+As such, the following scenarios were created in order to help the user put the framework into context.
 
 ### Scope of This Document
 
