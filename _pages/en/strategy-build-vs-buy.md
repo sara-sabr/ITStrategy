@@ -74,9 +74,8 @@ This principle unfortunately is leading to an oversimplified approach that doesn
 As such, it is critical for the organization to ensure that core to mandate or complex IT Solutions remain highly flexible and adaptable to adjust to the pressing changes while also minimizing the risk of those changes by adopting loosely coupled architectures and smaller sized work packages (see [Target Solution Delivery Model](strategy-target-solution-delivery-model.html) for proposed ways to support such an approach).
 
 This strategy proposes moving ESDC to the point where all stakeholders understand that IT Solutions are complex and investment decisions have to be taken with flexibility, interchangeability, and interoperability in mind **throughout the entire lifecycle** of an IT Solution, not only at the initial stage.
-The benefits to the adoption of this Strategy are expected to reduce risk [^1], reduce technical debt over time, increase client satisfaction, and increase overall confidence in the department and its staff, for both net new or enhancements to IT Solutions.
 
-This strategy capitalizes on existing IT initiatives (such as the [IITB Way Forward](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx)) to complement them, as well as supporting them with new activities (see [Coherent set of actions](#coherent-set-of-actions)).
+This strategy complements existing IT initiatives (such as the [IITB Way Forward](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx)) as well as supports them with new activities (see [Coherent set of actions](#coherent-set-of-actions)).
 
 This strategy's goal is to clarify the application of the GoC Mandatory Procedures for [Enterprise Architecture Assessments](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602) and [on Application Programming Interfaces](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604) when obtaining IT Solutions within ESDC IITB context, and provide a roadmap in getting to the adoption of this framework.
 
@@ -87,7 +86,7 @@ More details in [Appendix A](#appendix-a---business-case-diagnostic).
 The following policy reflects the decision adopted by the **CIO of ESDC** (approval by CIO not yet obtained) when assessing the most appropriate way of obtaining an IT solution, whether by adopting, buying or building it.
 Each policy statement is a declaration of that decision and has received the endorsement of its associated area of governance body (endorsements not yet obtained, see [Coherent set of actions](#coherent-set-of-actions)).
 
-This policy becomes active when an ESDC initiative requires for an IT Solutions to be obtained, whether delivered by ESDC or by a third-party provider.
+This policy becomes active when an ESDC initiative requires that an IT Solution be obtained, whether delivered by ESDC or by a third-party provider.
 Once active, all teams involved in the project, and the IT products involved in the IT Solution, must comply with this guiding policy.
 
 This Guiding Policy has been prepared by taking into consideration alignment and compliance with existing policy instruments and does not replace them.
@@ -146,7 +145,9 @@ This Strategy's success will be measured by comparing the following metrics agai
     - file formats
     - APIs
     - data-exports
-  - Increase transfer of systems runtime to third party Cloud service providers (Cloud First Strategy)
+  - Increase number of workloads migrated to cloud environments (Cloud First Strategy)
+- Applicable to all scenarios
+  - Increased speed and flexibility for changes
 
 ## Appendix A - Business Case (Diagnostic)
 
@@ -243,7 +244,7 @@ The impact of such changes has a ripple effect on the whole organization and aff
 
 With the exception of well-established software for generic or peripheral needs of the department, there is little distinction between build vs buy.
 The question becomes whether the organization could and should build it itself, or have someone else build it.
-Even traditional services delivered through SaaS, such as email, require considerable configuration (build) for their implementation[^2] and continuous maintenance.
+Even traditional services delivered through SaaS, such as email, require considerable configuration (build) for their implementation[^1] and continuous maintenance.
 This strategy is intended to return control of implementation of services back to the department thereby permitting increased alignment with the Government of Canada direction, and increase the quality, and rate by which, digital services are delivered to Canadians.
 The intent is to replace dated approaches to IT solutions delivery in favour of practices aligned with industry best practice in order to promote the department's digital transformation and keep pace with the rising expectations of Canadian citizens with respect to digital services.
 
@@ -398,5 +399,4 @@ Note 3: Assumptions when reading this document
 
 ## Appendix F - References
 
-[^1]: Directive on Service and Digital: Mandatory procedures for Enterprise Architecture Assessment <https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602>
-[^2]: Pia Andrews, in [What improving IT procurement in the public sector looks like: navigating, balancing, and initiating procurement conversations to avoid sprinting off cliffs](https://www.themandarin.com.au/118548-improving-it-procurement-public-sector-navigating-balancing-initiating-procurement-conversations/), writes that many COTS implementations “require significant customization, configuration, integration, or modifications to actually implement a COTS product into production.”
+[^1]: Pia Andrews, in [What improving IT procurement in the public sector looks like: navigating, balancing, and initiating procurement conversations to avoid sprinting off cliffs](https://www.themandarin.com.au/118548-improving-it-procurement-public-sector-navigating-balancing-initiating-procurement-conversations/), writes that many COTS implementations “require significant customization, configuration, integration, or modifications to actually implement a COTS product into production.”
