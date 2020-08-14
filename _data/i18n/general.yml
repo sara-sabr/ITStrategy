@@ -21,14 +21,17 @@ nav:
     en: home.html
     fr: accueil.html
   sectionsList:
-    en: ["About us", "Ready For Use", "Trends", "Under Review", "Work In Progress", "Archives"]
-    fr: ["À propos de nous", "Prêt à utiliser", "Tendances", "En révision", "Travaux en cours", "Archives"]
+    en: ["Vision", "Strategies", "Supporting Documents", "Analysis", "Work In Progress"]
+    fr: ["Vision", "Stratégies", "Documents à l'appui", "Analyses", "Travail en cours"]
   blogPosts:
     en: Our Blog Posts
     fr: Nos billets
   docsTitle:
     en: Our Documents
     fr: Nos documents
+  strategies:
+    en: Strategies
+    fr: Stratégies
   presentations:
     en: Our Presentations
     fr: Nos présentations
@@ -75,6 +78,14 @@ notices:
   printPDFNotice:
     en: Note that the printable version only works with modern browsers. Internet Explorer is not supported.
     fr: Notez que la version imprimable ne fonctionne qu'avec des navigateurs modernes. Internet Explorer n'est pas supporté.
+  thisPageHasMoved:
+    en: "This page has been modified and can now be found at the following link:"
+    fr: "Cette page a été modifiée et peut maintenant être trouvée au lien suivant:"
+
+content:
+  docVersionNumber:
+    en: Document Version
+    fr: Version du document
   thisPageHasMoved:
     en: "This page has been modified and can now be found at the following link:"
     fr: "Cette page a été modifiée et peut maintenant être trouvée au lien suivant:"
