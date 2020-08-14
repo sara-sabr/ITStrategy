@@ -16,6 +16,10 @@ permalink: /strategy-build-vs-buy.html
 
 ***This is a DRAFT strategy.***
 
+<div class="alert alert-info">
+  This strategy is accompanied by the following document: <a href="strategy-build-vs-buy-explained.html" target="_blank">Explanation</a>.
+</div>
+
 <!-- markdownlint-disable MD001 -->
 ##### Table of Content<!-- omit in toc -->
 <!-- markdownlint-enable MD001 -->
@@ -369,24 +373,20 @@ Open COTS
 
 ## Appendix E - Notes and Change Log
 
-<div class="alert alert-info">
-  This strategy is accompanied by the following document: <a href="strategy-build-vs-buy-explained.html" target="_blank">Explanation</a>.
-</div>
+### Notes<!-- omit in toc -->
 
-<!-- markdownlint-disable MD036 -->
->_Note 1: The authoritative source and latest version of this Strategy material will be shared on our [internal workspace](https://014gc.sharepoint.com/sites/strategyBuildvsBuy)_
->
->_Note 2: This page will link to internal ESDC documents, which are unfortunately only accessible within ESDC corporate network._
->
->_Note 3: Assumptions when reading this document_
->
->- The decision to invest time and resources for an IT solution has already been taken but it has not been decided whether it will be adopted, built or bought.
->- This is not a software request (e.g.: I want to use this SaaS)
->- A comprehensive enterprise view of services is available for all teams, business and IT alike
->- Service Oriented Architecture is well understood and applied across IITB
+Note 1: The authoritative source and latest version of this Strategy material will be shared on our [internal workspace](https://014gc.sharepoint.com/sites/strategyBuildvsBuy)
 
-**Change log**
-<!-- markdownlint-enable MD036 -->
+Note 2: This page will link to internal ESDC documents, which are unfortunately only accessible within ESDC corporate network.
+
+Note 3: Assumptions when reading this document
+
+- The decision to invest time and resources for an IT solution has already been taken but it has not been decided whether it will be adopted, built or bought.
+- This is not a software request (e.g.: I want to use this SaaS)
+- A comprehensive enterprise view of services is available for all teams, business and IT alike
+- Service Oriented Architecture is well understood and applied across IITB
+
+### Change log<!-- omit in toc -->
 
 | Version | Date of Change | Change Description                                                                                                                         |
 |:------- | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
