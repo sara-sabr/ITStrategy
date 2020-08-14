@@ -3,7 +3,7 @@ layout: post
 title:  "Better tech through micro-procurement: part one"
 ref: micro-procurement-p1
 lang: en
-author: "Rachel Muston, in collaboration with the IT Strategy team, and procurement experts at ESDC, and TBS"
+author: "Rachel Muston, in collaboration with the IT Strategy team, and procurement experts at ESDC, TBS and PSPC as well as open source experts at CDS"
 date: "2020-08-12"
 excerpt: "The Government of Canada (GC) buys a lot of stuff.
 In 2016, the total spent by the GC on goods and services was ~$16 billion.
@@ -75,7 +75,8 @@ We need to work together.
 <p class="tab">
   Instead of the example above regarding finding and fixing a bug, imagine that you need a small IT solution.
   You find an open source application that would meet your needs but it doesn't meet GC accessibility requirements.
-  What if you could quickly and easily pay someone to fix the accessibility issues so that you could choose that open source solution and move forward without delay? If this existed would you be more likely to consider using open source solutions?
+  What if you could quickly and easily pay someone to fix the accessibility issues so that you could choose that open source solution and move forward without delay?
+  If this existed would you be more likely to consider using open source solutions?
 </p>
 
 Private industry has been doing low dollar value purchases of code, including [bug bounty initiatives](https://www.itworldcanada.com/article/bug-bounty-programs-growing-stronger/413203), for some time.
