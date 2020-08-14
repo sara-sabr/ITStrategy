@@ -59,15 +59,19 @@ This strategy's goal is to clarify the application and alignment to the [GC Digi
 
 ### Governance, Compliance, and Reporting
 
-- IITB teams use up to 20% of time at work to the improvement of daily work to help IITB achieve the following
-  - [Westrum culture metric](https://cloud.google.com/solutions/devops/devops-culture-westrum-organizational-culture#how_to_measure_organizational_culture) > 35
-  - Lead time for change [1-24] hours
-  - Deploy frequency [1-24] hours or on demand
-  - Time to restore service [1-24] hours
-- Teams are responsible for defining metrics for their team and measuring themselves against said metrics. Said metrics should be tied to the metrics of their direct report, from Team Leaders, to the CIO
-  - Metrics must be objective
-  - One must be able to fail meeting the metric/objective
-  - Metrics must be able to generated in an automate fashion
+IITB teams continuously work to the improve their daily work to help IITB achieve the following
+
+- [Westrum culture metric](https://cloud.google.com/solutions/devops/devops-culture-westrum-organizational-culture#how_to_measure_organizational_culture) > 35
+- Lead time for change [1-24] hours
+- Deploy frequency [1-24] hours or on demand
+- Time to restore service [1-24] hours
+- Change failure rate < 15%
+
+IITB teams seek to understand the current condition, set measurable targets for a future date and experiment with ways to achieve these targets until the future date is reached.
+When the results have been captured and new targets are set, repeat the process.
+
+IITB teams define metrics for their team and measure themselves against them.
+Metrics must be tied to the metrics of their direct report, from Team Leaders, to the CIO.
 
 ## Coherent set of actions
 

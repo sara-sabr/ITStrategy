@@ -26,35 +26,12 @@
       data:
         list: false
         fr: Parties prenantes
-        en: Stakeholders 
-  - row:
-    headers: false
-    cols:
+        en: Stakeholders
     - col:
       data:
         list: false
-        fr: Gouvernance
-        en: Governance
-    - col:
-      data:
-        list: false
-        fr: 
-        en: Establish communication plan and change management for continuous improvement in (and around) IITB
-    - col:
-      data:
-        list: false
-        fr: 
-        en: 
-    - col:
-      data:
-        list: true
-        items:
-        - item:
-            fr: <strong>BOP</strong>
-            en: <strong>BOP</strong>
-        - item:
-            fr: Stratégie TI
-            en: IT Strategy
+        fr: Roadmap
+        en: Roadmap
   - row:
     headers: false
     cols:
@@ -72,7 +49,7 @@
       data:
         list: false
         fr: 
-        en: 
+        en: To help teams understand the current condition and set measurable targets, the self assessment tool will guide teams toward ways to improve based on an evaluation of diferent capabilities linked to high performing organizations.
     - col:
       data:
         list: true
@@ -83,6 +60,77 @@
         - item:
             fr: R&P
             en: R&P
+    - col:
+      data:
+        list: false
+        fr: 2020-2021 Q2
+        en: 2020-2021 Q2
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Gouvernance
+        en: Governance
+    - col:
+      data:
+        list: false
+        fr: 
+        en: Define how DGs will guide their teams to achieve the goals of the Guiding Policy
+    - col:
+      data:
+        list: false
+        fr: 
+        en: The goals of the Guiding Policy is to move towards a Generative (Westrum) culture; to reduce lead time, change failure rate and time to restore service; while increassing deployement frequency. DGs will need to identify how their teams can contribute to the improvement of these metrics, by defining and improving their own metrics.
+    - col:
+      data:
+        list: true
+        items:
+        - item:
+            fr: <strong>CIOEC</strong>
+            en: <strong>CIOEC</strong>
+        - item:
+            fr: Stratégie TI
+            en: IT Strategy
+    - col:
+      data:
+        list: false
+        fr: 2020-2021 Q3
+        en: 2020-2021 Q3
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Gouvernance
+        en: Governance
+    - col:
+      data:
+        list: false
+        fr: 
+        en: Establish communication plan and change management for continuous improvement in (and around) IITB
+    - col:
+      data:
+        list: false
+        fr: 
+        en: Communicating the intended outcome to IITB employees will be very important for this transformation to succeed.
+    - col:
+      data:
+        list: true
+        items:
+        - item:
+            fr: <strong>BOP</strong>
+            en: <strong>BOP</strong>
+        - item:
+            fr: Stratégie TI
+            en: IT Strategy
+    - col:
+      data:
+        list: false
+        fr: 2020-2021 Q3
+        en: 2020-2021 Q3
   - row:
     headers: false
     cols:
@@ -100,7 +148,7 @@
       data:
         list: false
         fr: 
-        en: 
+        en: Grassroot initiative provides IITB employees with a way to get approval to experiment with new way of working or improvements. PoC is for teams outside of IITB to request that IITB investigate possible solutions before it submits an official project.
     - col:
       data:
         list: true
@@ -117,6 +165,11 @@
         - item:
             fr: BOP
             en: BOP
+    - col:
+      data:
+        list: false
+        fr: 2020-2021 Q3
+        en: 2020-2021 Q3
   - row:
     headers: false
     cols:
@@ -148,34 +201,11 @@
         - item:
             fr: EO
             en: EO
-  - row:
-    headers: false
-    cols:
     - col:
       data:
         list: false
-        fr: Gouvernance
-        en: Governance
-    - col:
-      data:
-        list: false
-        fr: 
-        en: Teams develop key metrics to be measured upon, to be approved by EA (or exec mgmt)
-    - col:
-      data:
-        list: false
-        fr: 
-        en: 
-    - col:
-      data:
-        list: true
-        items:
-        - item:
-            fr: AE
-            en: EA
-        - item:
-            fr: Stratégie TI
-            en: IT Strategy
+        fr: 2020-2021 Q3
+        en: 2020-2021 Q3
   - row:
     headers: false
     cols:
@@ -193,14 +223,49 @@
       data:
         list: false
         fr: 
+        en: Could be only sharepoint site to start.
+    - col:
+      data:
+        list: true
+        items:
+        - item:
+            fr: <strong>R&P</strong>
+            en: <strong>R&P</strong>
+        - item:
+            fr: Stratégie TI
+            en: IT Strategy
+    - col:
+      data:
+        list: false
+        fr: 2020-2021 Q3
+        en: 2020-2021 Q3
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Gouvernance
+        en: Governance
+    - col:
+      data:
+        list: false
+        fr: 
+        en: Analyze progress and key metrics from teams to update this stratgegy quarterly
+    - col:
+      data:
+        list: false
+        fr: 
         en: 
     - col:
       data:
         list: true
         items:
         - item:
-            fr: R&P
-            en: R&P
-        - item:
-            fr: Stratégie TI
-            en: IT Strategy
+            fr: <strong>Stratégie TI</strong>
+            en: <strong>IT Strategy</strong>
+    - col:
+      data:
+        list: false
+        fr: 2020-2021 Q4
+        en: 2020-2021 Q4
