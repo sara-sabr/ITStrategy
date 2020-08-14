@@ -10,7 +10,7 @@
     <main role="main" class="container">
       <section class="jumbotron d-print-none">
         <p class="site-title">{{ site.title[page.lang] }}</p>
-        <p class="site-subtitle">{{ site.subtitle[page.lang] }}</p>
+        <p class="site-subtitle">{{ site.data.i18n.general.head.subtitle[page.lang] }}</p>
       </section>
       <article id="maincontent">
       {% if page.layout == "default" %}

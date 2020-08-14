@@ -1,11 +1,11 @@
 <head>
   {%- if page.lang -%}
-  <title>{{ site.title[page.lang] }}</title>
+  <title>{{page.title}} - {{ site.data.i18n.general.head.title[page.lang] }}</title>
   {%- endif -%}
 
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description[page.lang] }}{% endif %}">
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.data.i18n.general.head.description[page.lang] }}{% endif %}">
 
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.0.2/dist/reveal.css">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.0.2/dist/theme/moon.css">
