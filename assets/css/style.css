@@ -634,3 +634,7 @@ code {
 .icon-linkedin:before {
   content: "\eac9";
 }
+.tab { margin-left: 40px;
+margin-right: 60px;
+text-align: justify;
+text-justify: inter-word; }
