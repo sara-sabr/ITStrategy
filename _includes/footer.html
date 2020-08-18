@@ -3,6 +3,7 @@
     <span class="text-muted"><a class="text-dark" target="_blank"
         href="https://github.com/sara-sabr/ITStrategy/tree/master/{{ page.path }}">{{ site.viewOnGithub[page.lang] }}</a></span>
   </div>
+  <div class="container">{{ site.data.i18n.general.footer.copyright[page.lang] }}</div>
 </footer>
 
 <script src="https://code.jquery.com/jquery-3.4.1.slim.js"
@@ -23,12 +24,7 @@
   integrity="sha256-hJ44ymhBmRPJKIaKRf3DSX5uiFEZ9xB/qx8cNbJvIMU=" crossorigin="anonymous"></script>
 
 {%- if page.datatable-ids.size > 0 -%}
-{%- assign count = 0 -%}
-{%- assign datatable-ids = page.datatable-ids | split: ', ' -%}
-{% for element-id in datatable-ids %}
- <script src="assets/js/datatable.js" class="datatable" id="{{element-id | json}}">
-    console.log(datatable)</script>
-{% endfor %}
+ <script src="assets/js/datatable.js"></script>
 {%- endif -%}
 
 <script>

@@ -1,0 +1,102 @@
+---
+layout: default
+title: "Strategy to Transform IITB into a High Performing Organization (Continuous Improvement)"
+ref: transform-high-performing-org
+lang: en
+status: posted
+sections: Strategies
+permalink: /strategy-transform-high-performing-org.html
+---
+<!-- the below cSpell statement says to ignore any text between HTML tags. E.g. it will ignore "th rowspan='2'" in this string: <th rowspan='2'> -->
+<!-- cSpell:ignoreRegExp /\<[^\>]+\>/ -->
+
+- [Introduction](#introduction)
+  - [Purpose](#purpose)
+  - [Target Audience](#target-audience)
+  - [Business Case](#business-case)
+- [Guiding Policy](#guiding-policy)
+  - [Governance, Compliance, and Reporting](#governance-compliance-and-reporting)
+  - [Finance](#finance)
+  - [Legal](#legal)
+  - [Architecture](#architecture)
+- [Coherent set of actions](#coherent-set-of-actions)
+- [Measuring the Strategy's success](#measuring-the-strategys-success)
+
+## Introduction
+
+### Purpose
+
+To provide Information and Technology Branch (IITB) with a strategy to transform into a high performing organization through the continuous improvement of daily Work.
+The strategy includes:
+
+1. A **guiding policy**, which serves to clarify the application and alignment to the [GC Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html) and the [Directive on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601) to transform IITB into a high performing organization through the continuous improvement of daily Work.
+2. A **coherent set of actions** (an action plan), which serve to operationalize the continuous improvement transformation.
+
+The intent behind this strategy is to communicate a decision by the Chief Information Officer (CIO) on a path forward (the Guiding Policy), and what investments are needed to operationalize that decision (the coherent set of actions).
+
+### Targeted Stakeholders
+
+This **strategy document** is targeted to all stakeholders involved in the day to day operation of IITB.
+This includes both IITB and non-IITB stakeholders such as, but not limited to, Business Functions, Strategic and Service Policy Branch (SSPB), Chief Data Officer (CDO), Integrity Service Branch (ISB), Internal Audit Services Branch, and Shared-Services Canada (SSC).
+The list of stakeholders are listed in the [Coherent set of actions](#coherent-set-of-actions) and are expected to participate in the execution stage of this strategy necessary to operationalize the Guiding Policy.
+
+The **Guiding Policy**, once operationalized, will target stakeholders to always be improving.
+All Employment and Social Development Canada (ESDC) personnel involved in the activities of IITB are expected to adhere to this policy.
+
+### Business Case
+
+Moving to the digital age requires improving IT's responsiveness and promoting a shared accountability with ESDC stakeholders on the use of technology.
+
+The [GC Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html) and the [Directive on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601) as well as the [Digital Operations Strategic Plan: 2018-2022](https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html) set a direction for departments to focus on user needs, reuse existing business capabilities, use modern technologies, be agile, work in the open, ..
+
+The benefits to the adoption of this Strategy are expected to reduce risk [^1], reduce technical debt over time, increase client satisfaction, and increase overall confidence in the department and its staff to support the needs of ESDC.
+
+This strategy capitalizes on existing IT initiatives (such as the [IITB Way Forward](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx)) to complement them, as well as supporting them with new activities (see [Coherent set of actions](#coherent-set-of-actions)).
+
+This strategy's goal is to clarify the application and alignment to the [GC Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html) and the [Directive on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601) to transform IITB into a high performing organization through the continuous improvement of daily Work.
+
+## Guiding Policy
+
+### Governance, Compliance, and Reporting
+
+- IITB teams use up to 20% of time at work to the improvement of daily work to help IITB achieve the following
+  - [Westrum culture metric](https://cloud.google.com/solutions/devops/devops-culture-westrum-organizational-culture#how_to_measure_organizational_culture) > 35
+  - Lead time for change [1-24] hours
+  - Deploy frequency [1-24] hours or on demand
+  - Time to restore service [1-24] hours
+- Teams are responsible for defining metrics for their team and measuring themselves against said metrics. Said metrics should be tied to the metrics of their direct report, from Team Leaders, to the CIO
+  - Metrics must be objective
+  - One must be able to fail meeting the metric/objective
+  - Metrics must be able to generated in an automate fashion
+
+## Coherent set of actions
+
+{% include table.html table-id="t001" element-id="hpo-actions" file="transform-high-performing-org"%}
+
+## Measuring the Strategy’s success
+
+[Upcoming]
+
+## Appendix B - Traceability Matrix
+
+The following traceability matrix is used to show alignment with various strategies, plans, and policy instruments already in progress.
+
+<!-- markdownlint-disable MD033 -->
+<table>
+  <tr>
+    <th>Strategy element</th>
+    <th>Aligns with</th>
+  </tr>
+  <tr>
+    <td><b>Governance, Compliance, and Reporting</b></td>
+    <td>
+      <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603" target="_blank">GC Policy on Service and Digital</a>/4.2.1.5 Ensuring that services are reviewed to identify opportunities for improvement<br>
+      <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601" target="_blank">GC Directive on Service and Digital</a>/4.5 Supporting workforce capacity and capability<br>
+      <a href="https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html" target="_blank">GC Digital Standards</a>/iterate and improve frequently<br>
+      <a href="https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html" target="_blank">GC DOSP</a>/1.1 Service improvement<br>
+      <a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental IMIT Plan/19-20 Plans/IITB Moving Forward v2.docx" target="_blank">IITB Way Forward</a>/1. Adjust IITB leadership<br>
+      <a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental IMIT Plan/19-20 Plans/IITB Moving Forward v2.docx" target="_blank">IITB Way Forward</a>/6. Execute service improvements and service delivery evolution projects<br>
+    </td>
+  </tr>
+</table>
+<!-- markdownlint-enable MD033 -->

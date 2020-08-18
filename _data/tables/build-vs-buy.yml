@@ -54,7 +54,7 @@
             fr: <strong>Équipes d'architecture</strong>
             en: |
               <strong>Architecture Teams</strong>
-              <br>(Includes: Enterprise, Business, Solution, and Technical Architecture)
+              <br>(Includes: Enterprise, Business, Data, Information, Solution, Technical, IT Security, and Security Architecture)
         - item:
             fr:
             en: Senior Advisors
@@ -89,6 +89,8 @@
         fr: 
         en: |
           Produce an IT Solution Risk Assessment Framework that favours and incentivizes flexible and interoperable IT solutions, service oriented architecture, and reusable IT Products as components.
+          <br>
+          The Framework should also increase the level of IT Solutions using Open Standards over Proprietary ones. 
           <br><br>
           ESDC Business Capability Model should be leveraged to help define IT Solution concept boundaries.
     - col:
@@ -99,7 +101,7 @@
             fr: <strong>Équipes d'architecture</strong>
             en: |
               <strong>Architecture Teams</strong>
-              <br>(Includes: Enterprise, Business, Solution, and Technical Architecture)
+              <br>(Includes: Enterprise, Business, Data, Information, Solution, Technical, IT Security, and Security Architecture)
         - item:
             fr:
             en: Senior Advisors
@@ -153,7 +155,7 @@
             fr: <strong>Équipes d'architecture</strong>
             en: |
               <strong>Architecture Teams</strong>
-              <br>(Includes: Enterprise, Business, Solution, and Technical Architecture)
+              <br>(Includes: Enterprise, Business, Data, Information, Solution, Technical, IT Security, and Security Architecture)
         - item:
             fr:
             en: Senior Advisors
@@ -187,16 +189,15 @@
       data:
         list: false
         fr: 
-        en: Produce the Closed-Source Application Development Framework
+        en: Review IITB Governance Structure and ToRs
     - col:
       data:
         list: false
         fr: 
         en: |
-          Produce a Framework to help teams explain why the software development they do does not align with the Open by default policy.
-          <br><br>
-          The framework helps teams and product owners understand how most of their work may be released as open source and favours and incentivizes
-          working in the open. Any work that really can't be done in the open will then be supported through the framework.
+          Review the current IITB Governance Structure and committees Terms of References to identify potential gaps and conflicts with the desired outcomes of this strategy.
+          <br>
+          Then, adjust governance and committees ToRs to be aligned with the desired outomes.
     - col:
       data:
         list: true
@@ -205,19 +206,22 @@
             fr: <strong>Équipes d'architecture</strong>
             en: |
               <strong>Architecture Teams</strong>
-              <br>(Includes: Enterprise, Business, Solution, and Technical Architecture)
-        - item:
-            fr:
-            en: Senior Advisors
+              <br>(Includes: Enterprise, Business, Data, Information, Solution, Technical, IT Security, and Security Architecture)
         - item:
             fr:
             en: IT Strategy
         - item:
             fr:
-            en: Enterprise Ops
+            en: ADMO
         - item:
             fr:
-            en: CDO
+            en: DG Committee
+        - item:
+            fr:
+            en: Senior Advisors
+        - item:
+            fr:
+            en: OCMC
         - item:
             fr:
             en: Technical Standards Working Group (TSWG)
@@ -271,21 +275,58 @@
       data:
         list: false
         fr: 
-        en: Produce IT Products Operational vs Capital Expense Financial Framework
+        en: Produce IT Products Management Framework
     - col:
       data:
         list: false
         fr: 
         en: |
-            Produce an Operational vs Capital Expense Financial Framework to provide guidance on use and budgeting of services as ongoing IT products within IT Solutions architecture<br>
-            Leverage the Cloud CoE showback model to help explain use of services as part of an IT Solution and IT Products costing vs project budgeting. 
+            Produce an IT Product Management Framework, providing guidance on Operational vs Capital Expense Financial management to support this management model in ESDC lead initiatives<br>
+            Leverage the Cloud CoE showback model to help explain use of services as part of an IT Solution and IT Products costing vs project budgeting.
     - col:
       data:
         list: true
         items:
         - item:
             fr:
-            en: Cloud CoE
+            en: <strong>Cloud CoE</strong>
+        - item:
+            fr:
+            en: IITB Finance
+        - item:
+            fr:
+            en: CFOB
+        - item:
+            fr:
+            en: IT Strategy
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Finance
+        en: Finance
+    - col:
+      data:
+        list: false
+        fr: 
+        en: Produce Total Cost of Ownership Framework
+    - col:
+      data:
+        list: false
+        fr: 
+        en: |
+            Produce a Total Cost of Ownership Framework to provide guidance on assessing the full lifecycle costs of adopting IT Solutions (acquisition, operation and end-of-life)
+    - col:
+      data:
+        list: true
+        items:
+        - item:
+            fr: <strong>Équipes d'architecture</strong>
+            en: |
+              <strong>Architecture Teams</strong>
+              <br>(Includes: Enterprise, Business, Data, Information, Solution, Technical, IT Security, and Security Architecture)
         - item:
             fr:
             en: IITB Finance
@@ -333,6 +374,12 @@
         - item:
             fr:
             en: IT Strategy
+        - item:
+            fr: 
+            en: PSPC
+        - item:
+            fr: 
+            en: SSC
 - table:
   id: t002
   name:
