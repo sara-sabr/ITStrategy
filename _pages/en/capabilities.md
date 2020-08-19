@@ -386,82 +386,78 @@ InfoSec supplies development teams and operational teams with an ample number of
 
 #### 3.1.2. Indicators  
 
-- What is the purpose of the monitor and control phase in your team?  
-   a. To measure the performance of the new process after the execution phase  
-   b. To monitor and control the planning and initiating phases  
-   c. To monitor the project team  
-   d. To control the project team's performance  
-   e. None of the above/not applicable  
+1-7 (strongly agree to strongly disagree)
+Ideal: Strongly agree (1)
 
-- What are the main steps involved in planning and implementing a monitoring protocol in your team?  
-   a. Complete background tasks  
-   b. Develop objectives  
-   c. Design and implement management  
-   d. Design the monitoring methodology  
-   e. Implement monitoring as a pilot study  
-   f. Implement monitoring  
-   g. Report and use results  
-   h. None of the above/not applicable  
+- In my team monitoring and controlling phase is mostly to track applications and infrastructure in order to guide business decisions  
+  a. Strongly Agree (1)  
+  b. Agree  
+  c. Undecided  
+  d. Disagree  
+  e. Strongly Disagree (7)  
 
-- Which step in planning and implementing a monitoring protocol in your team takes the most time?  
-   a. Complete background tasks  
-   b. Develop objectives  
-   c. Design and implement management  
-   d. Design the monitoring methodology  
-   e. Implement monitoring as a pilot study  
-   f. Implement monitoring  
-   g. Report and use results  
-   h. None of the above/not applicable  
+1-7 (very frequently to never)  
+Ideal: Very Frequently (1)  
 
-- What instrumentation do you use to monitor applications running in production?  
-   a. Availability monitoring via pinging or synthetic transactions  
-   b. Performance monitoring of the servers and infrastructure  
-   c. Real user monitoring  
-   d. Multi-tier views of end-to-end transactions including processing and network combined  
-   e. None of the above/not applicable  
+- Does monitoring in your team give rapid feedback which helps quickly find and fix problems early in the software development lifecycle?  
+  a. Very Frequently (1)  
+  b. Frequently  
+  c. Occasionally  
+  d. Rarely  
+  e. Very Rarely  
+  f. Never (7)  
+
+- In my team the knowledge gained from application monitoring is shared across organization to help people and systems improve  
+  a. Very Frequently (1)  
+  b. Frequently  
+  c. Occasionally  
+  d. Rarely  
+  e. Very Rarely  
+  f. Never (7)  
+
+- In my team collected data is always accessible to different audiences (visibility into development work, testing, QA, and IT operations) to help them make decisions  
+  a. Strongly Agree (1)  
+  b. Agree  
+  c. Undecided  
+  d. Disagree  
+  e. Strongly Disagree (7)  
+
+  1-7
+  1 - Ideal
+
+- When monitoring a system,  my team is ...  
+  a. Monitoring reactively. (Only getting alerted when the system goes down, but not using monitoring data to help alert when the system approaches critical thresholds)  
+  b. Monitoring too small a scope. (Monitoring one or two areas rather than the full software development and delivery pipeline)  
+  c. Focusing on local optimizations. (Focusing on reducing the response time for one service's storage needs without evaluating whether the broader infrastructure could also benefit from the same improvement)  
+  d. Monitoring everything  
+  e. Taking a thoughtful approach to monitoring which usually draws attention to key areas (1)  
+  f. We do not do system  monitoring (7)  
 
 - How fast your team reacts to alerts when the system approaches critical thresholds or goes down?  
-   a. When the threshold reaches 25%  
-   b. When the threshold reaches 50%  
-   c. When the threshold reaches 75%  
-   d. When the threshold reaches 85%  
-   e. When the threshold reaches 95%  
-
-- How is the monitoring process executed in your team?  
-   a. Monitoring one or two areas at a time  
-   b. Monitoring the full software development  
-   c. We are not monitoring  
+  Percentage slider  
+  Ideal: up to 25%  
 
 - Which tool do you use to share collected data in your team?  
-   a. Google docs  
-   b. Sharepoint  
-   c. Email  
-   d. Office 365  
-   e. Slack  
-   f. None of the above/not applicable  
+  a. Google docs (Medium)  
+  b. Email (Medium)  
+  c. Office 365 (Elite)  
+  d. Slack (High)  
+  e. None of the above/not applicable (Low)
 
-- What has the most impact to make a business decision in your team?  
-   a. Data from application performance monitoring tools  
-   b. Data from infrastructure monitoring tool  
-   c. Outside perspective  
-   d. Previous decision mistakes  
-   e. Your gut instinct  
-   f. None of the above/not applicable  
-
-- How usually  accurate and relevant  is the data to your goal of the team?  
-   a. Very Frequently  
-   b. Frequently  
-   c. Occasionally  
-   d. Rarely  
-   e. Very Rarely  
-   f. Never  
+- How usually accurate and relevant is the data to your goal of the team?  
+  a. Very Frequently (1)  
+  b. Frequently  
+  c. Occasionally  
+  d. Rarely  
+  e. Very Rarely  
+  f. Never (7)
 
 - How often you felt guilty of seeing the data you wish was there instead of what is really in front of you?  
-   a. Always  
-   b. Very Often  
-   c. Sometimes  
-   d. Rarely  
-   e. Never  
+  a. Always (7)  
+  b. Very Often  
+  c. Sometimes  
+  d. Rarely  
+  e. Never (1)  
 
 #### 3.1.3 Goals  
 
@@ -471,88 +467,174 @@ InfoSec supplies development teams and operational teams with an ample number of
 
 #### 3.2.2. Indicators  
 
-- How often your team monitors the stability and security of your IT system?  
-   a. Very Frequently  
-   b. Frequently  
-   c. Occasionally  
-   d. Rarely  
-   e. Very Rarely  
-   f. Never  
+1-7 (very frequently to never)  
+Ideal: Very Frequently (1)  
 
-- How do you notify your team about failure alerts?  
-   a. Via email  
-   b. Via PR in Github  
-   c. Via Slack  
-   d. Via Trello board  
-   e. Via phone call  
-   f. None of the above/not applicable  
+- How often your team monitors the stability and security of your IT system?  
+  a. Very Frequently (1)  
+  b. Frequently  
+  c. Occasionally  
+  d. Rarely  
+  e. Very Rarely  
+  f. Never (7)  
+
+Ideal: Never (1)  
 
 - How often do you  face the situation when your team finds out from customers that your application or service is down?  
-  a. Always  
+  a. Always (7)  
   b. Very Often  
   c. Sometimes  
   d. Rarely  
-  e. Never  
+  e. Never (1)  
+  
+- How do you notify your team about failure alerts?  
+  a. Via email (High)  
+  b. Via PR in Github (Elite)  
+  c. Via Slack (Elite)  
+  d. Via Trello board (Medium)  
+  e. Via phone call (Low)  
+  f. None of the above/not applicable (Low)  
 
 - How long does it take to fix the problem?  
-  a. Less than I expect  
+  a. Less than I expect (1)  
   b. About right  
   c. More than I expect  
-  d. We never fix it  
+  d. We never fix it (7)  
 
 ### 3.3 Work in process limits  
 
 #### 3.3.2. Indicators  
 
 - Are people in your team often assigned to work on multiple tasks ? If yes , what is the main reason?  
-  a. It usually doesn't happen  
-  b. Too much work  
-  c. Not enough people in the team  
-  d. Not the right skill sets in the team  
+  a. It usually doesn't happen (Elite)  
+  b. Too much work  (High)  
+  c. Not enough people in the team  (Medium)  
+  d. Not the right skill sets in the team (Low)  
+
+1-7 (very frequently to never)  
+Ideal: Very Frequently (1)  
+
+- When faced with too much work and too few people to do it, we prioritize work and focus on completing a small number of high-priority tasks  
+   a. Very Frequently (1)  
+   b. Frequently  
+   c. Occasionally  
+   d. Rarely  
+   e. Very Rarely  
+   f. Never (7)  
 
 - How often does your team discover invisible work when it is not expected ?  
-  a. Almost always  
+  a. Almost always (7)  
   b. Often  
   c. Sometimes  
   d. Seldom  
-  e. Never  
+  e. Never (7)  
+
+- In my team we do not require people to split their time between multiple tasks  
+  a. Strongly Agree (1)  
+  b. Agree  
+  c. Undecided  
+  d. Disagree  
+  e. Strongly Disagree (7)  
 
 - How visible is your work to the other teams and stakeholders?  
-  a. Very good  
+  a. Very good (1)  
   b. Good  
   c. Fair  
   d. Poor  
-  e. Very poor  
+  e. Very poor (7)  
 
 - How often project team meetings are held ?  
-  a. Every day  
-  b. Three times a week  
-  c. Once a week  
-  d. Randomly  
-  e. None of the above/not applicable  
+  a. Every day  (Elite)  
+  b. Three times a week (High)  
+  c. Once a week (Medium)  
+  d. Randomly (Medium)  
+  e. None of the above/not applicable (Low)  
 
 ### 3.4 Visual management capabilities  
 
 #### 3.4.2. Indicators  
 
-- What type of tools do you use to manage the work at various stages of a process?  
-  a. Card walls  
-  b. Storyboards  
-  c. Kanban boards  
-  d. We do not use any tools  
-  e. None of the above/not applicable  
+- My team uses visual displays and dashboards that are common in the context of software delivery to manage the work at various stages of a process  
+   a. Very Frequently (1)  
+   b. Frequently  
+   c. Occasionally  
+   d. Rarely  
+   e. Very Rarely  
+   f. Never (7)  
 
 - How long does it take to complete a project backlog?  
-  a. More than I would expect  
+  a. More than I would expect (7)  
   b. About right  
-  c. Less than I would expect  
+  c. Less than I would expect (1)  
 
-- How do you gather and measure feedback from users?  
-  a. Manual testing, user acceptance testing or general acceptance criteria  
-  b. Direct email/phone/web contact form, web meetings, or chat room  
-  c. In-product qualitative feedback (e.g. Send-a-Smile) and survey such as Net Promoter Score (NPS)  
-  d. Usage telemetry is gathered with real user monitoring at 100% sampling  
-  e. None of the above/not applicable  
+- How often your team receives a feedback that created displays are complex, hard to understand, or do not provide actionable information?  
+   a. Very Frequently (7)  
+   b. Frequently  
+   c. Occasionally  
+   d. Rarely  
+   e. Very Rarely  
+   f. Never (1)  
+
+- In my team visual displays are up to date and the information contributing to measurable improvement is towards a goal that the team cares about  
+  a. Strongly Agree (1)  
+  b. Agree  
+  c. Undecided  
+  d. Disagree  
+  e. Strongly Disagree (7)  
+
+- When looking at visual management displays I see the key process metrics my team cares about  
+  a. Strongly Agree (1)  
+  b. Agree  
+  c. Undecided  
+  d. Disagree  
+  e. Strongly Disagree (7)  
+
+### 3.5. Monitoring and observability
+
+#### 3.5.2. Indicators
+
+- My team is reporting on the overall health of systems (Are my systems functioning? Do my systems have sufficient resources available?)  
+   a. Very Frequently (1)  
+   b. Frequently  
+   c. Occasionally  
+   d. Rarely  
+   e. Very Rarely  
+   f. Never (7)
+
+- My team is reporting on system state as experienced by customers (Do my customers know if my system is down and have a bad experience?)  
+  a. Strongly Agree (1)  
+  b. Agree  
+  c. Undecided  
+  d. Disagree  
+  e. Strongly Disagree (7)  
+
+- My team has a tooling to help to understand and debug systems in production  
+  a. Strongly Agree (1)
+  b. Agree  
+  c. Undecided  
+  d. Disagree  
+  e. Strongly Disagree (7)  
+
+- My team has tooling to find information about things we did not previously know  
+  a. Strongly Agree (1)  
+  b. Agree  
+  c. Undecided  
+  d. Disagree  
+  e. Strongly Disagree (1)  
+
+- My team has access to tools and data that help trace, understand, and diagnose infrastructure problems in  production environment, including interactions between services  
+  a. Strongly Agree (1)  
+  b. Agree  
+  c. Undecided  
+  d. Disagree  
+  e. Strongly Disagree (7)  
+
+- In my team a single monitoring person is solely responsible for the system monitoring and observability  
+  a. Strongly Agree (7)  
+  b. Agree  
+  c. Undecided  
+  d. Disagree  
+  e. Strongly Disagree (1)  
 
 ## 4. Cultural capabilities  
 
@@ -564,79 +646,26 @@ InfoSec supplies development teams and operational teams with an ample number of
 
 #### 4.1.2. Indicators  
 
-- What should an employer do to help your team to be more successful at the job?  
-  a. Understand goals of your team  
-  b. Learn boss' likes and dislikes  
-  c. Get to know your colleagues better  
-  d. Have a positive attitude  
-  e. Accept feedback gracefully  
-  f. Be a professional  
-  g. Take Initiative and be a problem solver  
-  h. Stretch skill set  
-  i. Volunteer for new projects  
-  j. None of the above/not applicable  
-  
-- What should a good  manager do to support you?  
-  a. Be consistent with meaningful communication  
-  b. Give recognition and praise  
-  c. Provide feedback and training  
-  d. Create a work culture by design  
-  e. Create a safe space for failure  
-  f. Provide strong leadership and a clear vision  
-  g. Demonstrate good problem solving  
-  h. Avoid micromanaging  
-  i. Be an effective decision maker  
-  j. Put people first  
-  k. Be honest  
-  l. Be dedicated and balanced  
-  m. None of the above/not applicable  
+- In my team employees feel supported by each other  
+  a. Strongly Agree (1)  
+  b. Agree  
+  c. Undecided  
+  d. Disagree  
+  e. Strongly Disagree (7)  
 
-- What keeps employees happy and productive in your team?  
-  a. Feeling valued  
-  b. Creating a productive atmosphere  
-  c. Prioritizing work-life balance  
-  d. Making employees part of the big picture  
-  e. Being  transparent and honest  
-  f. Encouraging communication in common areas  
-  g. Creating a career pathway  
-  h. Promoting a positive work environment  
-  i. Building employees up  
-  j. Always saying 'thank you.'  
-  k. Recognizing and rewarding employees frequently  
-  l. None of the above/not applicable  
+- In my team employees feel their feedback is valued  
+  a. Strongly Agree (1)  
+  b. Agree  
+  c. Undecided  
+  d. Disagree  
+  e. Strongly Disagree  (7)  
 
-- How does your team make an employee feel valued?  
-  a. Provide them with the recognition they deserve  
-  b. Give employees plenty of positive feedback  
-  c. Solicit their opinion and utilize it as often as possible  
-  d. Communicate well, and frequently  
-  e. Give direct compensation or benefits  
-  f. Give the benefits they want  
-  g. Provide ways for other employees to give praise and recognition  
-  h. Show appreciation  
-  i. Provide public recognition when appropriate  
-  j. Provide work that gives the right level of challenge, showing that you trust their capabilities  
-  k. Say 'thank you.'  
-  l. Celebrate work anniversaries  
-  m. Invest in their continued development  
-  n. None of the above/not applicable  
-
-- What is the way to manage your team through change?  
-  a. Activate change management  
-  b. Set the direction  
-  c. Engage your team  
-  d. Empower decision-making  
-  e. Leverage talent  
-  f. Keep the team moving forward  
-  g. Share success  
-  h. Communicate clearly  
-  i. Set realistic objectives  
-  j. Manage expectations  
-  k. Understanding the final goal  
-  l. Developing a plan  
-  m. Being positive during change  
-  n. Guarding the team  
-  o. None of the above/not applicable  
+- In my team employees are given meaningful work that leverages their expertise  
+  a. Strongly Agree (1)  
+  b. Agree  
+  c. Undecided  
+  d. Disagree  
+  e. Strongly Disagree  (7)  
 
 ### 4.2 Westrum organizational culture  
 
@@ -644,33 +673,33 @@ InfoSec supplies development teams and operational teams with an ample number of
 
 #### 4.2.2. Indicators  
 
-- My team has enough support (or appropriate support)  from leaders and managers for the necessary culture shift and transformation  
-  a. Strongly Agree  
+- My team has enough support (or appropriate support) from leaders and managers for the necessary culture shift and transformation  
+  a. Strongly Agree (1)  
   b. Agree  
   c. Undecided  
   d. Disagree  
-  e. Strongly Disagree  
+  e. Strongly Disagree (7)
 
 - My team culture interacts with the broader organizational culture  
-  a. Strongly Agree  
+  a. Strongly Agree (1)  
   b. Agree  
   c. Undecided  
   d. Disagree  
-  e. Strongly Disagree  
+  e. Strongly Disagree (7)  
 
 - Failures are  treated in my team  as opportunities to improve and learn  
-  a. Strongly Agree  
+  a. Strongly Agree (1)  
   b. Agree  
   c. Undecided  
   d. Disagree  
-  e. Strongly Disagree  
+  e. Strongly Disagree (7)  
 
-- My team is allowed and encouraged  to experiment and try new things  
-  a. Strongly Agree  
+- My team is allowed and encouraged to experiment and try new things  
+  a. Strongly Agree (1)  
   b. Agree  
   c. Undecided  
   d. Disagree  
-  e. Strongly Disagree  
+  e. Strongly Disagree (7)  
 
 ##### DORA method
 
@@ -682,57 +711,57 @@ Aim for a Westrum culture metric > 35
 #### 4.3.2. Indicators  
 
 - My team views learning as an investment for growth  
-  a. Strongly Agree  
+  a. Strongly Agree (1)  
   b. Agree  
   c. Undecided  
   d. Disagree  
-  e. Strongly Disagree  
+  e. Strongly Disagree (7)  
 
 - Learning completely avoided in my  team  
-  a. Strongly Agree  
+  a. Strongly Agree (7)  
   b. Agree  
   c. Undecided  
   d. Disagree  
-  e. Strongly Disagree  
+  e. Strongly Disagree (1)  
 
 - My  team has the resources to engage in informal learning and the space to explore ideas  
-  a. Strongly Agree  
+  a. Strongly Agree (1)  
   b. Agree  
   c. Undecided  
   d. Disagree  
-  e. Strongly Disagree  
+  e. Strongly Disagree (7)
 
 - My team has a regular cadence of opportunities for employees to share their knowledge  
-  a. Strongly Agree  
+  a. Strongly Agree (7)  
   b. Agree  
   c. Undecided  
   d. Disagree  
-  e. Strongly Disagree  
+  e. Strongly Disagree (1)  
 
 - In my team resources are available for continued education  
-  a. Strongly Agree  
+  a. Strongly Agree (1)  
   b. Agree  
   c. Undecided  
   d. Disagree  
-  e. Strongly Disagree  
+  e. Strongly Disagree (7)  
 
 - My team has regular lunchtime meetings where one person presents about a project they are working on in a new tech, or something they are investigating  
-  a. Strongly Agree  
+  a. Strongly Agree (1)  
   b. Agree  
   c. Undecided  
   d. Disagree  
-  e. Strongly Disagree  
+  e. Strongly Disagree (7)  
 
 - When employees in my team  attend conferences, we have them share the new experience through presentations or trip reports  
-  a. Strongly Agree  
+  a. Strongly Agree (1)  
   b. Agree  
   c. Undecided  
   d. Disagree  
-  e. Strongly Disagree  
+  e. Strongly Disagree (7)  
 
 - In my team we encourage people to get certifications or external trainings, and help them by covering costs of external trainings and forming study groups that are a part of normal work activity  
-  a. Strongly Agree  
+  a. Strongly Agree (1)  
   b. Agree  
   c. Undecided  
   d. Disagree  
-  e. Strongly Disagree  
+  e. Strongly Disagree (7) 
