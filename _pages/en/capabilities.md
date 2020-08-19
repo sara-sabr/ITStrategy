@@ -764,4 +764,4 @@ Aim for a Westrum culture metric > 35
   b. Agree  
   c. Undecided  
   d. Disagree  
-  e. Strongly Disagree (7) 
+  e. Strongly Disagree (7)  
