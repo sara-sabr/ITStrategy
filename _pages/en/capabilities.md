@@ -386,7 +386,7 @@ InfoSec supplies development teams and operational teams with an ample number of
 
 #### 3.1.2. Indicators  
 
-1-7 (strongly agree to strongly disagree)
+1-7 (strongly agree to strongly disagree)  
 Ideal: Strongly agree (1)
 
 - In my team monitoring and controlling phase is mostly to track applications and infrastructure in order to guide business decisions  
@@ -422,8 +422,8 @@ Ideal: Very Frequently (1)
   d. Disagree  
   e. Strongly Disagree (7)  
 
-  1-7
-  1 - Ideal
+  1-7  
+  Ideal: 1  
 
 - When monitoring a system,  my team is ...  
   a. Monitoring reactively. (Only getting alerted when the system goes down, but not using monitoring data to help alert when the system approaches critical thresholds)  
