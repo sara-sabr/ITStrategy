@@ -42,6 +42,9 @@ In this document you will find the following sections:
   - [Reveal.js Presentations](#revealjs-presentations)
   - [Hacker Slides](#hacker-slides)
   - [Useful Docker Commands](#useful-docker-commands)
+  - [Converting files (using Pandoc)](#converting-files-using-pandoc)
+    - [Converting from md to docx](#converting-from-md-to-docx)
+    - [Converting from docx to md](#converting-from-docx-to-md)
 
 ## Cloning The Project Locally
 
@@ -437,3 +440,19 @@ In the example above, that would be:
 ```bash
 docker container kill 1c7651744d2b
 ```
+
+## Converting files (using Pandoc)
+
+Pandoc is a tool that converts from and to various types of files including markdown, Word, HTML, EPUB. To use, first download the [installer](https://pandoc.org/installing.html). Note that pandoc is a command line tool. There is no graphical user interface.
+
+### Converting from md to docx
+
+If a page needs to be sent to translation it needs to be sent in .docx format.  To quickly convert a file from md to docx, make sure you are in the directory where your local repo is saved, and use the following command line:
+*pandoc -t docx IN.md -o OUT.docx*
+
+The docx file will be saved in the file structure of your local repo. You can copy it from there into an email to the translation company.
+
+### Converting from docx to md
+
+This is most useful after receiving a translated file from the translation company for a French page. To quickly convert a Word document to a markdown file,copy the docx file to the directory where your local repo is saved.  Then, make sure you are in the directory where your local repo is saved, and use the following command line:
+*pandoc -t gfm --wrap=none -s IN.docx -o OUT.md*
