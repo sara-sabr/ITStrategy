@@ -384,7 +384,7 @@ InfoSec supplies development teams and operational teams with an ample number of
 
 ....
 
-#### 3.1.2. Indicators   
+#### 3.1.2. Indicators  
 
 - In my team data from application performance monitoring tools is used to make business decisions  
   a. Strongly Agree (Ideal)  
@@ -398,7 +398,7 @@ InfoSec supplies development teams and operational teams with an ample number of
   b. Agree  
   c. Undecided  
   d. Disagree  
-  e. Strongly Disagree   
+  e. Strongly Disagree  
 
 - Does monitoring in your team give rapid feedback which helps quickly find and fix problems early in the software development lifecycle?  
   a. Very Frequently (Ideal)  
@@ -449,7 +449,7 @@ InfoSec supplies development teams and operational teams with an ample number of
 
 ### 3.2 Proactive failure notification  
 
-#### 3.2.2. Indicators    
+#### 3.2.2. Indicators  
 
 - When you are notified that your application or service is down, how often does this information come from a customer?  
   a. Always  
@@ -469,7 +469,7 @@ InfoSec supplies development teams and operational teams with an ample number of
 #### 3.3.2. Indicators  
 
 - People on my team are often assigned to work on multiple mutually exclusive tasks  
-  a. Strongly Agree    
+  a. Strongly Agree  
   b. Agree  
   c. Undecided  
   d. Disagree  
@@ -515,7 +515,7 @@ InfoSec supplies development teams and operational teams with an ample number of
 
 #### 3.4.2. Indicators  
 
-- My team uses visual displays and dashboards to manage the work at various stages of a process    
+- My team uses visual displays and dashboards to manage the work at various stages of a process  
    a. Very Frequently (Ideal)  
    b. Frequently  
    c. Occasionally  
@@ -574,7 +574,7 @@ InfoSec supplies development teams and operational teams with an ample number of
   b. Agree  
   c. Undecided  
   d. Disagree  
-  e. Strongly Disagree   
+  e. Strongly Disagree  
 
 - My team has access to tools and data that help trace, understand, and diagnose infrastructure problems in  production environment, including interactions between services  
   a. Strongly Agree (Ideal)  
