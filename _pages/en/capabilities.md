@@ -387,20 +387,20 @@ InfoSec supplies development teams and operational teams with an ample number of
 #### 3.1.2. Indicators  
 
 1-7 (strongly agree to strongly disagree)  
-Ideal: Strongly agree (1)
+Ideal: Strongly agree  
 
 - In my team monitoring and controlling phase is mostly to track applications and infrastructure in order to guide business decisions  
-  a. Strongly Agree (1)  
+  a. Strongly Agree (Ideal)  
   b. Agree  
   c. Undecided  
   d. Disagree  
   e. Strongly Disagree    
 
 1-7 (very frequently to never)  
-Ideal: Very Frequently (1)  
+Ideal: Very Frequently    
 
 - Does monitoring in your team give rapid feedback which helps quickly find and fix problems early in the software development lifecycle?  
-  a. Very Frequently (1)  
+  a. Very Frequently (Ideal)    
   b. Frequently  
   c. Occasionally  
   d. Rarely  
@@ -408,7 +408,7 @@ Ideal: Very Frequently (1)
   f. Never    
 
 - In my team the knowledge gained from application monitoring is shared across organization to help people and systems improve  
-  a. Very Frequently (1)  
+  a. Very Frequently (Ideal)  
   b. Frequently  
   c. Occasionally  
   d. Rarely  
@@ -416,7 +416,7 @@ Ideal: Very Frequently (1)
   f. Never    
 
 - In my team collected data is always accessible to different audiences (visibility into development work, testing, QA, and IT operations) to help them make decisions  
-  a. Strongly Agree (1)  
+  a. Strongly Agree (Ideal)  
   b. Agree  
   c. Undecided  
   d. Disagree  
@@ -427,22 +427,15 @@ Ideal: Very Frequently (1)
   b. Monitoring too small a scope. (Monitoring one or two areas rather than the full software development and delivery pipeline)  
   c. Focusing on local optimizations. (Focusing on reducing the response time for one service's storage needs without evaluating whether the broader infrastructure could also benefit from the same improvement)  
   d. Monitoring everything  
-  e. Taking a thoughtful approach to monitoring which usually draws attention to key areas (Elite)   
+  e. Taking a thoughtful approach to monitoring which usually draws attention to key areas (Ideal)   
   f. We do not do system  monitoring    
 
 - How fast your team reacts to alerts when the system approaches critical thresholds or goes down?  
   Percentage slider  
   Ideal: up to 25%  
 
-- Which tool do you use to share collected data in your team?  
-  a. Google docs (Medium)  
-  b. Email (Medium)  
-  c. Office 365 (Elite)  
-  d. Slack (High)  
-  e. None of the above/not applicable (Low)
-
 - How usually accurate and relevant is the data to your goal of the team?  
-  a. Very Frequently (1)  
+  a. Very Frequently (Ideal)  
   b. Frequently  
   c. Occasionally  
   d. Rarely  
@@ -454,7 +447,7 @@ Ideal: Very Frequently (1)
   b. Very Often  
   c. Sometimes  
   d. Rarely  
-  e. Never (Elite)    
+  e. Never (Ideal)    
 
 #### 3.1.3 Goals  
 
@@ -463,37 +456,26 @@ Ideal: Very Frequently (1)
 ### 3.2 Proactive failure notification  
 
 #### 3.2.2. Indicators  
-
-1-7 (very frequently to never)  
-Ideal: Very Frequently (1)  
+ 
+Ideal: Very Frequently    
 
 - How often your team monitors the stability and security of your IT system?  
-  a. Very Frequently (1)  
+  a. Very Frequently (Ideal)  
   b. Frequently  
   c. Occasionally  
   d. Rarely  
   e. Very Rarely  
-  f. Never    
-
-Ideal: Never (1)  
+  f. Never      
 
 - How often do you  face the situation when your team finds out from customers that your application or service is down?  
   a. Always    
   b. Very Often  
   c. Sometimes  
   d. Rarely  
-  e. Never (1)  
-  
-- How do you notify your team about failure alerts?  
-  a. Via email (High)  
-  b. Via PR in Github (Elite)  
-  c. Via Slack (Elite)  
-  d. Via Trello board (Medium)  
-  e. Via phone call (Low)  
-  f. None of the above/not applicable (Low)  
+  e. Never (Ideal)    
 
 - How long does it take to fix the problem?  
-  a. Less than I expect (1)  
+  a. Less than I expect (Ideal)  
   b. About right  
   c. More than I expect  
   d. We never fix it    
@@ -503,16 +485,15 @@ Ideal: Never (1)
 #### 3.3.2. Indicators  
 
 - Are people in your team often assigned to work on multiple tasks ? If yes , what is the main reason?  
-  a. It usually doesn't happen (Elite)  
-  b. Too much work  (High)  
-  c. Not enough people in the team  (Medium)  
-  d. Not the right skill sets in the team (Low)  
-
-1-7 (very frequently to never)  
+  a. It usually doesn't happen (Ideal)  
+  b. Too much work    
+  c. Not enough people in the team    
+  d. Not the right skill sets in the team    
+ 
 Ideal: Very Frequently (1)  
 
 - When faced with too much work and too few people to do it, we prioritize work and focus on completing a small number of high-priority tasks  
-   a. Very Frequently (1)  
+   a. Very Frequently (Ideal)    
    b. Frequently  
    c. Occasionally  
    d. Rarely  
@@ -524,35 +505,35 @@ Ideal: Very Frequently (1)
   b. Often  
   c. Sometimes  
   d. Seldom  
-  e. Never (1)    
+  e. Never (Ideal)  
 
 - In my team we do not require people to split their time between multiple tasks  
-  a. Strongly Agree (1)  
+  a. Strongly Agree (Ideal)  
   b. Agree  
   c. Undecided  
   d. Disagree  
   e. Strongly Disagree    
 
 - How visible is your work to the other teams and stakeholders?  
-  a. Very good (1)  
+  a. Very good (Ideal)  
   b. Good  
   c. Fair  
   d. Poor  
   e. Very poor    
 
 - How often project team meetings are held ?  
-  a. Every day  (Elite)  
-  b. Three times a week (High)  
-  c. Once a week (Medium)  
-  d. Randomly (Medium)  
-  e. None of the above/not applicable (Low)  
+  a. Every day  (Ideal)  
+  b. Three times a week    
+  c. Once a week    
+  d. Randomly   
+  e. None of the above/not applicable    
 
 ### 3.4 Visual management capabilities  
 
 #### 3.4.2. Indicators  
 
 - My team uses visual displays and dashboards that are common in the context of software delivery to manage the work at various stages of a process  
-   a. Very Frequently (1)  
+   a. Very Frequently (Ideal)  
    b. Frequently  
    c. Occasionally  
    d. Rarely  
@@ -562,7 +543,7 @@ Ideal: Very Frequently (1)
 - How long does it take to complete a project backlog?  
   a. More than I would expect    
   b. About right  
-  c. Less than I would expect (1)  
+  c. Less than I would expect (Ideal)  
 
 - How often your team receives a feedback that created displays are complex, hard to understand, or do not provide actionable information?  
    a. Very Frequently    
@@ -570,17 +551,17 @@ Ideal: Very Frequently (1)
    c. Occasionally  
    d. Rarely  
    e. Very Rarely  
-   f. Never (1)  
+   f. Never (Ideal)  
 
 - In my team visual displays are up to date and the information contributing to measurable improvement is towards a goal that the team cares about  
-  a. Strongly Agree (1)  
+  a. Strongly Agree (Ideal)  
   b. Agree  
   c. Undecided  
   d. Disagree  
   e. Strongly Disagree    
 
 - When looking at visual management displays I see the key process metrics my team cares about  
-  a. Strongly Agree (1)  
+  a. Strongly Agree (Ideal)  
   b. Agree  
   c. Undecided  
   d. Disagree  
@@ -591,7 +572,7 @@ Ideal: Very Frequently (1)
 #### 3.5.2. Indicators
 
 - My team is reporting on the overall health of systems (Are my systems functioning? Do my systems have sufficient resources available?)  
-   a. Very Frequently (1)  
+   a. Very Frequently (Ideal)  
    b. Frequently  
    c. Occasionally  
    d. Rarely  
@@ -599,28 +580,28 @@ Ideal: Very Frequently (1)
    f. Never  
 
 - My team is reporting on system state as experienced by customers (Do my customers know if my system is down and have a bad experience?)  
-  a. Strongly Agree (1)  
+  a. Strongly Agree (Ideal)  
   b. Agree  
   c. Undecided  
   d. Disagree  
   e. Strongly Disagree    
 
 - My team has a tooling to help to understand and debug systems in production  
-  a. Strongly Agree (1)
+  a. Strongly Agree (Ideal)  
   b. Agree  
   c. Undecided  
   d. Disagree  
   e. Strongly Disagree    
 
 - My team has tooling to find information about things we did not previously know  
-  a. Strongly Agree (1)  
+  a. Strongly Agree (Ideal)  
   b. Agree  
   c. Undecided  
   d. Disagree  
   e. Strongly Disagree    
 
 - My team has access to tools and data that help trace, understand, and diagnose infrastructure problems in  production environment, including interactions between services  
-  a. Strongly Agree (1)  
+  a. Strongly Agree (Ideal)  
   b. Agree  
   c. Undecided  
   d. Disagree  
@@ -631,7 +612,7 @@ Ideal: Very Frequently (1)
   b. Agree  
   c. Undecided  
   d. Disagree  
-  e. Strongly Disagree (1)  
+  e. Strongly Disagree (Ideal)  
 
 ## 4. Cultural capabilities  
 
@@ -644,21 +625,21 @@ Ideal: Very Frequently (1)
 #### 4.1.2. Indicators  
 
 - In my team employees feel supported by each other  
-  a. Strongly Agree (1)  
+  a. Strongly Agree (Ideal)  
   b. Agree  
   c. Undecided  
   d. Disagree  
   e. Strongly Disagree    
 
 - In my team employees feel their feedback is valued  
-  a. Strongly Agree (1)  
+  a. Strongly Agree (Ideal)  
   b. Agree  
   c. Undecided  
   d. Disagree  
   e. Strongly Disagree    
 
 - In my team employees are given meaningful work that leverages their expertise  
-  a. Strongly Agree (1)  
+  a. Strongly Agree (Ideal)  
   b. Agree  
   c. Undecided  
   d. Disagree  
@@ -671,28 +652,28 @@ Ideal: Very Frequently (1)
 #### 4.2.2. Indicators  
 
 - My team has enough support (or appropriate support) from leaders and managers for the necessary culture shift and transformation  
-  a. Strongly Agree (1)  
+  a. Strongly Agree (Ideal)  
   b. Agree  
   c. Undecided  
   d. Disagree  
   e. Strongly Disagree  
 
 - My team culture interacts with the broader organizational culture  
-  a. Strongly Agree (1)  
+  a. Strongly Agree (Ideal)  
   b. Agree  
   c. Undecided  
   d. Disagree  
   e. Strongly Disagree    
 
 - Failures are  treated in my team  as opportunities to improve and learn  
-  a. Strongly Agree (1)  
+  a. Strongly Agree (Ideal)  
   b. Agree  
   c. Undecided  
   d. Disagree  
   e. Strongly Disagree    
 
 - My team is allowed and encouraged to experiment and try new things  
-  a. Strongly Agree (1)  
+  a. Strongly Agree (Ideal)  
   b. Agree  
   c. Undecided  
   d. Disagree  
@@ -708,7 +689,7 @@ Aim for a Westrum culture metric > 35
 #### 4.3.2. Indicators  
 
 - My team views learning as an investment for growth  
-  a. Strongly Agree (1)  
+  a. Strongly Agree (Ideal)  
   b. Agree  
   c. Undecided  
   d. Disagree  
@@ -719,45 +700,45 @@ Aim for a Westrum culture metric > 35
   b. Agree  
   c. Undecided  
   d. Disagree  
-  e. Strongly Disagree (1)  
+  e. Strongly Disagree (Ideal)  
 
 - My  team has the resources to engage in informal learning and the space to explore ideas  
-  a. Strongly Agree (1)  
+  a. Strongly Agree (Ideal)  
   b. Agree  
   c. Undecided  
   d. Disagree  
   e. Strongly Disagree  
 
 - My team has a regular cadence of opportunities for employees to share their knowledge  
-  a. Strongly Agree (1)  
+  a. Strongly Agree (Ideal)  
   b. Agree  
   c. Undecided  
   d. Disagree  
   e. Strongly Disagree    
 
 - In my team resources are available for continued education  
-  a. Strongly Agree (1)  
+  a. Strongly Agree (Ideal)  
   b. Agree  
   c. Undecided  
   d. Disagree  
   e. Strongly Disagree    
 
 - My team has regular lunchtime meetings where one person presents about a project they are working on in a new tech, or something they are investigating  
-  a. Strongly Agree (1)  
+  a. Strongly Agree (Ideal)  
   b. Agree  
   c. Undecided  
   d. Disagree  
   e. Strongly Disagree    
 
 - When employees in my team  attend conferences, we have them share the new experience through presentations or trip reports  
-  a. Strongly Agree (1)  
+  a. Strongly Agree (Ideal)  
   b. Agree  
   c. Undecided  
   d. Disagree  
   e. Strongly Disagree    
 
 - In my team we encourage people to get certifications or external trainings, and help them by covering costs of external trainings and forming study groups that are a part of normal work activity  
-  a. Strongly Agree (1)  
+  a. Strongly Agree (Ideal)  
   b. Agree  
   c. Undecided  
   d. Disagree  
