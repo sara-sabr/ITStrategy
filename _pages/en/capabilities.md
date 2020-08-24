@@ -423,13 +423,12 @@ InfoSec supplies development teams and operational teams with an ample number of
   d. Disagree  
   e. Strongly Disagree  
 
-- When monitoring a system,  my team is ...  
-  a. We do not do system monitoring  
-  b. Taking a thoughtful approach to monitoring which usually draws attention to key areas  
-  c. Monitoring too small a scope. (Monitoring one or two areas rather than the full software development and delivery pipeline)  
-  d. Focusing on local optimizations. (Focusing on reducing the response time for one service storage needs without evaluating whether the broader infrastructure could also benefit from the same improvement)  
-  e. Monitoring everything  
-  f. Monitoring reactively. (Only getting alerted when the system goes down, but not using monitoring data to help alert when the system approaches critical thresholds) (Ideal)  
+- Our team monitors by taking a thoughtful approach to monitoring which usually draws attention to key areas   
+    a. Strongly Agree (Ideal)  
+    b. Agree  
+    c. Undecided  
+    d. Disagree  
+    e. Strongly Disagree  
 
 - How fast your team reacts to alerts when the system approaches critical thresholds or goes down?  
   Percentage slider  
