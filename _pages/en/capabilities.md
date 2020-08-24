@@ -488,9 +488,7 @@ Ideal: Very Frequently
   a. It usually doesn't happen (Ideal)  
   b. Too much work    
   c. Not enough people in the team    
-  d. Not the right skill sets in the team    
- 
-Ideal: Very Frequently (1)  
+  d. Not the right skill sets in the team   
 
 - When faced with too much work and too few people to do it, we prioritize work and focus on completing a small number of high-priority tasks  
    a. Very Frequently (Ideal)    
