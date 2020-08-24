@@ -389,7 +389,7 @@ InfoSec supplies development teams and operational teams with an ample number of
 1-7 (strongly agree to strongly disagree)  
 Ideal: Strongly agree  
 
-- In my team monitoring and controlling phase is mostly to track applications and infrastructure in order to guide business decisions  
+- In my team data from application performance monitoring tools is used to make business decisions  
   a. Strongly Agree (Ideal)  
   b. Agree  
   c. Undecided  
