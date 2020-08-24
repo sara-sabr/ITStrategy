@@ -420,7 +420,7 @@ Ideal: Very Frequently
   b. Agree  
   c. Undecided  
   d. Disagree  
-  e. Strongly Disagree   
+  e. Strongly Disagree  
 
 - When monitoring a system,  my team is ...  
   a. Monitoring reactively. (Only getting alerted when the system goes down, but not using monitoring data to help alert when the system approaches critical thresholds)  
@@ -521,7 +521,7 @@ Ideal: Very Frequently
 
 - How often project team meetings are held ?  
   a. Every day  (Ideal)  
-  b. Three times a week   
+  b. Three times a week  
   c. Once a week  
   d. Randomly  
   e. None of the above/not applicable  
