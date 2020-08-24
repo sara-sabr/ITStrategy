@@ -423,7 +423,7 @@ InfoSec supplies development teams and operational teams with an ample number of
   d. Disagree  
   e. Strongly Disagree  
 
-- Our team monitors by taking a thoughtful approach to monitoring which usually draws attention to key areas   
+- Our team monitors by taking a thoughtful approach to monitoring which usually draws attention to key areas  
     a. Strongly Agree (Ideal)  
     b. Agree  
     c. Undecided  
