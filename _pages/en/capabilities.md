@@ -396,6 +396,13 @@ Ideal: Strongly agree
   d. Disagree  
   e. Strongly Disagree  
 
+- In my team data from infrastructure monitoring tools is used to make business decisions  
+  a. Strongly Agree (Ideal)  
+  b. Agree  
+  c. Undecided  
+  d. Disagree  
+  e. Strongly Disagree  
+
 1-7 (very frequently to never)  
 Ideal: Very Frequently  
 
