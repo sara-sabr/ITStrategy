@@ -384,10 +384,7 @@ InfoSec supplies development teams and operational teams with an ample number of
 
 ....
 
-#### 3.1.2. Indicators  
-
-1-7 (strongly agree to strongly disagree)  
-Ideal: Strongly agree  
+#### 3.1.2. Indicators   
 
 - In my team data from application performance monitoring tools is used to make business decisions  
   a. Strongly Agree (Ideal)  
@@ -401,10 +398,7 @@ Ideal: Strongly agree
   b. Agree  
   c. Undecided  
   d. Disagree  
-  e. Strongly Disagree  
-
-1-7 (very frequently to never)  
-Ideal: Very Frequently  
+  e. Strongly Disagree   
 
 - Does monitoring in your team give rapid feedback which helps quickly find and fix problems early in the software development lifecycle?  
   a. Very Frequently (Ideal)  
@@ -441,20 +435,13 @@ Ideal: Very Frequently
   Percentage slider  
   Ideal: up to 25%  
 
-- How usually accurate and relevant is the data to your goal of the team?  
+- Generally, how accurate and relevant is the data to the team?  
   a. Very Frequently (Ideal)  
   b. Frequently  
   c. Occasionally  
   d. Rarely  
   e. Very Rarely  
   f. Never  
-
-- How often you felt guilty of seeing the data you wish was there instead of what is really in front of you?  
-  a. Always  
-  b. Very Often  
-  c. Sometimes  
-  d. Rarely  
-  e. Never (Ideal)  
 
 #### 3.1.3 Goals  
 
@@ -462,40 +449,31 @@ Ideal: Very Frequently
 
 ### 3.2 Proactive failure notification  
 
-#### 3.2.2. Indicators  
+#### 3.2.2. Indicators    
 
-Ideal: Very Frequently  
-
-- How often your team monitors the stability and security of your IT system?  
-  a. Very Frequently (Ideal)  
-  b. Frequently  
-  c. Occasionally  
-  d. Rarely  
-  e. Very Rarely  
-  f. Never  
-
-- How often do you  face the situation when your team finds out from customers that your application or service is down?  
+- When you are notified that your application or service is down, how often does this information come from a customer?  
   a. Always  
   b. Very Often  
   c. Sometimes  
   d. Rarely  
   e. Never (Ideal)  
 
-- How long does it take to fix the problem?  
-  a. Less than I expect (Ideal)  
-  b. About right  
-  c. More than I expect  
-  d. We never fix it  
+- When a critical problem with the application is identified how often does it take, on average, for the fix to be on production?  
+  a. A day or less (Ideal)  
+  b. More than a day, less than a week  
+  c. Between one week and one month  
+  d. More than a month  
 
 ### 3.3 Work in process limits  
 
 #### 3.3.2. Indicators  
 
-- Are people in your team often assigned to work on multiple tasks ? If yes , what is the main reason?  
-  a. It usually doesn't happen (Ideal)  
-  b. Too much work  
-  c. Not enough people in the team  
-  d. Not the right skill sets in the team  
+- People on my team are often assigned to work on multiple mutually exclusive tasks  
+  a. Strongly Agree    
+  b. Agree  
+  c. Undecided  
+  d. Disagree  
+  e. Strongly Disagree  (Ideal)  
 
 - When faced with too much work and too few people to do it, we prioritize work and focus on completing a small number of high-priority tasks  
    a. Very Frequently (Ideal)  
@@ -537,7 +515,7 @@ Ideal: Very Frequently
 
 #### 3.4.2. Indicators  
 
-- My team uses visual displays and dashboards that are common in the context of software delivery to manage the work at various stages of a process  
+- My team uses visual displays and dashboards to manage the work at various stages of a process    
    a. Very Frequently (Ideal)  
    b. Frequently  
    c. Occasionally  
@@ -550,7 +528,7 @@ Ideal: Very Frequently
   b. About right  
   c. Less than I would expect (Ideal)  
 
-- How often your team receives a feedback that created displays are complex, hard to understand, or do not provide actionable information?  
+- How often does your team receive feedback that displays are complex, hard to understand, or do not provide actionable information?  
    a. Very Frequently  
    b. Frequently  
    c. Occasionally  
@@ -596,14 +574,7 @@ Ideal: Very Frequently
   b. Agree  
   c. Undecided  
   d. Disagree  
-  e. Strongly Disagree  
-
-- My team has tooling to find information about things we did not previously know  
-  a. Strongly Agree (Ideal)  
-  b. Agree  
-  c. Undecided  
-  d. Disagree  
-  e. Strongly Disagree  
+  e. Strongly Disagree   
 
 - My team has access to tools and data that help trace, understand, and diagnose infrastructure problems in  production environment, including interactions between services  
   a. Strongly Agree (Ideal)  
@@ -722,13 +693,6 @@ Aim for a Westrum culture metric > 35
   e. Strongly Disagree  
 
 - In my team resources are available for continued education  
-  a. Strongly Agree (Ideal)  
-  b. Agree  
-  c. Undecided  
-  d. Disagree  
-  e. Strongly Disagree  
-
-- My team has regular lunchtime meetings where one person presents about a project they are working on in a new tech, or something they are investigating  
   a. Strongly Agree (Ideal)  
   b. Agree  
   c. Undecided  
