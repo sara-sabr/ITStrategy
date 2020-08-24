@@ -394,18 +394,18 @@ Ideal: Strongly agree
   b. Agree  
   c. Undecided  
   d. Disagree  
-  e. Strongly Disagree    
+  e. Strongly Disagree  
 
 1-7 (very frequently to never)  
-Ideal: Very Frequently    
+Ideal: Very Frequently  
 
 - Does monitoring in your team give rapid feedback which helps quickly find and fix problems early in the software development lifecycle?  
-  a. Very Frequently (Ideal)    
+  a. Very Frequently (Ideal)  
   b. Frequently  
   c. Occasionally  
   d. Rarely  
   e. Very Rarely  
-  f. Never    
+  f. Never  
 
 - In my team the knowledge gained from application monitoring is shared across organization to help people and systems improve  
   a. Very Frequently (Ideal)  
@@ -413,22 +413,22 @@ Ideal: Very Frequently
   c. Occasionally  
   d. Rarely  
   e. Very Rarely  
-  f. Never    
+  f. Never  
 
 - In my team collected data is always accessible to different audiences (visibility into development work, testing, QA, and IT operations) to help them make decisions  
   a. Strongly Agree (Ideal)  
   b. Agree  
   c. Undecided  
   d. Disagree  
-  e. Strongly Disagree      
+  e. Strongly Disagree   
 
 - When monitoring a system,  my team is ...  
   a. Monitoring reactively. (Only getting alerted when the system goes down, but not using monitoring data to help alert when the system approaches critical thresholds)  
   b. Monitoring too small a scope. (Monitoring one or two areas rather than the full software development and delivery pipeline)  
   c. Focusing on local optimizations. (Focusing on reducing the response time for one service's storage needs without evaluating whether the broader infrastructure could also benefit from the same improvement)  
   d. Monitoring everything  
-  e. Taking a thoughtful approach to monitoring which usually draws attention to key areas (Ideal)   
-  f. We do not do system  monitoring    
+  e. Taking a thoughtful approach to monitoring which usually draws attention to key areas (Ideal)  
+  f. We do not do system  monitoring  
 
 - How fast your team reacts to alerts when the system approaches critical thresholds or goes down?  
   Percentage slider  
@@ -443,11 +443,11 @@ Ideal: Very Frequently
   f. Never  
 
 - How often you felt guilty of seeing the data you wish was there instead of what is really in front of you?  
-  a. Always    
+  a. Always  
   b. Very Often  
   c. Sometimes  
   d. Rarely  
-  e. Never (Ideal)    
+  e. Never (Ideal)  
 
 #### 3.1.3 Goals  
 
@@ -456,8 +456,8 @@ Ideal: Very Frequently
 ### 3.2 Proactive failure notification  
 
 #### 3.2.2. Indicators  
- 
-Ideal: Very Frequently    
+
+Ideal: Very Frequently  
 
 - How often your team monitors the stability and security of your IT system?  
   a. Very Frequently (Ideal)  
@@ -465,20 +465,20 @@ Ideal: Very Frequently
   c. Occasionally  
   d. Rarely  
   e. Very Rarely  
-  f. Never      
+  f. Never  
 
 - How often do you  face the situation when your team finds out from customers that your application or service is down?  
-  a. Always    
+  a. Always  
   b. Very Often  
   c. Sometimes  
   d. Rarely  
-  e. Never (Ideal)    
+  e. Never (Ideal)  
 
 - How long does it take to fix the problem?  
   a. Less than I expect (Ideal)  
   b. About right  
   c. More than I expect  
-  d. We never fix it    
+  d. We never fix it  
 
 ### 3.3 Work in process limits  
 
@@ -486,20 +486,20 @@ Ideal: Very Frequently
 
 - Are people in your team often assigned to work on multiple tasks ? If yes , what is the main reason?  
   a. It usually doesn't happen (Ideal)  
-  b. Too much work    
-  c. Not enough people in the team    
-  d. Not the right skill sets in the team   
+  b. Too much work  
+  c. Not enough people in the team  
+  d. Not the right skill sets in the team  
 
 - When faced with too much work and too few people to do it, we prioritize work and focus on completing a small number of high-priority tasks  
-   a. Very Frequently (Ideal)    
+   a. Very Frequently (Ideal)  
    b. Frequently  
    c. Occasionally  
    d. Rarely  
    e. Very Rarely  
-   f. Never    
+   f. Never  
 
 - How often does your team discover invisible work when it is not expected ?  
-  a. Almost always    
+  a. Almost always  
   b. Often  
   c. Sometimes  
   d. Seldom  
@@ -510,21 +510,21 @@ Ideal: Very Frequently
   b. Agree  
   c. Undecided  
   d. Disagree  
-  e. Strongly Disagree    
+  e. Strongly Disagree  
 
 - How visible is your work to the other teams and stakeholders?  
   a. Very good (Ideal)  
   b. Good  
   c. Fair  
   d. Poor  
-  e. Very poor    
+  e. Very poor  
 
 - How often project team meetings are held ?  
   a. Every day  (Ideal)  
-  b. Three times a week    
-  c. Once a week    
-  d. Randomly   
-  e. None of the above/not applicable    
+  b. Three times a week   
+  c. Once a week  
+  d. Randomly  
+  e. None of the above/not applicable  
 
 ### 3.4 Visual management capabilities  
 
@@ -536,15 +536,15 @@ Ideal: Very Frequently
    c. Occasionally  
    d. Rarely  
    e. Very Rarely  
-   f. Never    
+   f. Never  
 
 - How long does it take to complete a project backlog?  
-  a. More than I would expect    
+  a. More than I would expect  
   b. About right  
   c. Less than I would expect (Ideal)  
 
 - How often your team receives a feedback that created displays are complex, hard to understand, or do not provide actionable information?  
-   a. Very Frequently    
+   a. Very Frequently  
    b. Frequently  
    c. Occasionally  
    d. Rarely  
@@ -556,14 +556,14 @@ Ideal: Very Frequently
   b. Agree  
   c. Undecided  
   d. Disagree  
-  e. Strongly Disagree    
+  e. Strongly Disagree  
 
 - When looking at visual management displays I see the key process metrics my team cares about  
   a. Strongly Agree (Ideal)  
   b. Agree  
   c. Undecided  
   d. Disagree  
-  e. Strongly Disagree    
+  e. Strongly Disagree  
 
 ### 3.5. Monitoring and observability
 
@@ -582,31 +582,31 @@ Ideal: Very Frequently
   b. Agree  
   c. Undecided  
   d. Disagree  
-  e. Strongly Disagree    
+  e. Strongly Disagree  
 
 - My team has a tooling to help to understand and debug systems in production  
   a. Strongly Agree (Ideal)  
   b. Agree  
   c. Undecided  
   d. Disagree  
-  e. Strongly Disagree    
+  e. Strongly Disagree  
 
 - My team has tooling to find information about things we did not previously know  
   a. Strongly Agree (Ideal)  
   b. Agree  
   c. Undecided  
   d. Disagree  
-  e. Strongly Disagree    
+  e. Strongly Disagree  
 
 - My team has access to tools and data that help trace, understand, and diagnose infrastructure problems in  production environment, including interactions between services  
   a. Strongly Agree (Ideal)  
   b. Agree  
   c. Undecided  
   d. Disagree  
-  e. Strongly Disagree    
+  e. Strongly Disagree  
 
 - In my team a single monitoring person is solely responsible for the system monitoring and observability  
-  a. Strongly Agree    
+  a. Strongly Agree  
   b. Agree  
   c. Undecided  
   d. Disagree  
@@ -627,21 +627,21 @@ Ideal: Very Frequently
   b. Agree  
   c. Undecided  
   d. Disagree  
-  e. Strongly Disagree    
+  e. Strongly Disagree  
 
 - In my team employees feel their feedback is valued  
   a. Strongly Agree (Ideal)  
   b. Agree  
   c. Undecided  
   d. Disagree  
-  e. Strongly Disagree    
+  e. Strongly Disagree  
 
 - In my team employees are given meaningful work that leverages their expertise  
   a. Strongly Agree (Ideal)  
   b. Agree  
   c. Undecided  
   d. Disagree  
-  e. Strongly Disagree    
+  e. Strongly Disagree  
 
 ### 4.2 Westrum organizational culture  
 
@@ -661,21 +661,21 @@ Ideal: Very Frequently
   b. Agree  
   c. Undecided  
   d. Disagree  
-  e. Strongly Disagree    
+  e. Strongly Disagree  
 
 - Failures are  treated in my team  as opportunities to improve and learn  
   a. Strongly Agree (Ideal)  
   b. Agree  
   c. Undecided  
   d. Disagree  
-  e. Strongly Disagree    
+  e. Strongly Disagree  
 
 - My team is allowed and encouraged to experiment and try new things  
   a. Strongly Agree (Ideal)  
   b. Agree  
   c. Undecided  
   d. Disagree  
-  e. Strongly Disagree    
+  e. Strongly Disagree  
 
 ##### DORA method
 
@@ -691,10 +691,10 @@ Aim for a Westrum culture metric > 35
   b. Agree  
   c. Undecided  
   d. Disagree  
-  e. Strongly Disagree    
+  e. Strongly Disagree  
 
 - Learning completely avoided in my  team  
-  a. Strongly Agree    
+  a. Strongly Agree  
   b. Agree  
   c. Undecided  
   d. Disagree  
@@ -712,32 +712,32 @@ Aim for a Westrum culture metric > 35
   b. Agree  
   c. Undecided  
   d. Disagree  
-  e. Strongly Disagree    
+  e. Strongly Disagree  
 
 - In my team resources are available for continued education  
   a. Strongly Agree (Ideal)  
   b. Agree  
   c. Undecided  
   d. Disagree  
-  e. Strongly Disagree    
+  e. Strongly Disagree  
 
 - My team has regular lunchtime meetings where one person presents about a project they are working on in a new tech, or something they are investigating  
   a. Strongly Agree (Ideal)  
   b. Agree  
   c. Undecided  
   d. Disagree  
-  e. Strongly Disagree    
+  e. Strongly Disagree  
 
 - When employees in my team  attend conferences, we have them share the new experience through presentations or trip reports  
   a. Strongly Agree (Ideal)  
   b. Agree  
   c. Undecided  
   d. Disagree  
-  e. Strongly Disagree    
+  e. Strongly Disagree  
 
 - In my team we encourage people to get certifications or external trainings, and help them by covering costs of external trainings and forming study groups that are a part of normal work activity  
   a. Strongly Agree (Ideal)  
   b. Agree  
   c. Undecided  
   d. Disagree  
-  e. Strongly Disagree    
+  e. Strongly Disagree  
