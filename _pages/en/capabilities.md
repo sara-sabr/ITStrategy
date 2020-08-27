@@ -354,12 +354,31 @@ InfoSec supplies development teams and operational teams with an ample number of
 
 ## 2. Process Capabilities
 
+### 2.1 Team experimentation
+The questionnaire will assess the team's capacity of independtly bringing new ideas, drafting and modifying specifications and stories during development without seeking approval from outside teams
+
+Is it safe for your team to take reasonable risks?
+Do you provide environment where your teams can be innovative?
+Do your teams have the authority to create and change specifications as part of the development process without requiring approval
+
 ### 2.2 Streamlining change approval
 
+- what is the frequency of releases
+a. Weekly 
+b. Monthly 
+c. Quarterly
+acljanslkcnalkc
+
+Every change passes the automated tests is deployed to production automatically 
 #### 2.2.1 Outcomes
 
-....
-
+Recommended questions : 
+Can your changes be approved for release within the team?
+Can your low risk changes be released with confidence straight away after a set of automated tests has been performed only requiring manual approval for high risk changes?
+Are you confident you can get changes on production in a timely manner?
+Are the steps to release well known, documented and easy to follow?
+Can you deploy significant changes without approval of top management?
+Can you do releases without approval or coordination with other teams?
 #### 2.2.2. Indicators
 
 - What percentage of changes do not require a manual change approval to be promoted to production?
@@ -375,6 +394,27 @@ InfoSec supplies development teams and operational teams with an ample number of
 - 75% of high-risk changes require a manual change approval to be promoted to production
 - Changes spend [1-7] days waiting for approval from external bodies
 - 10% of changes are managed by peer-review
+
+  ## 2.3 Customer feedback
+  This feedback can be gathered through two methods: structured and unstructured. The structured method is applied through surveys, questionnaires and focus groups. However unstructured feedback, which is delivered through Twitter, Facebook, etc., is often neglected
+
+Do you actively seek customer feedback and incorporate it into the workflow and design of your product?
+
+
+Do those with development and operations responsibilities share tools?
+  ## 2.4 Visibility of work in the value stream
+The team understands how work moves through the business from idea to customer, including products or features.
+The team has visibility into the flow of this work.
+The flow of work, including its current state, is shown on visual displays or dashboards.
+Information about the flow of product development work across the whole value stream is readily available.
+  ## 2.5 Working in small batches
+
+Can you effectively slice your work in small batches and allocate it to various members of the team?
+Can these batches be treated as a unit or MVP to be deployed?
+
+Outcomes : It reduces the time it takes to get feedback on changes, making it easier to triage and remediate problems.
+It increases efficiency and motivation.
+It prevents your organization from succumbing to the sunk-cost fallacy.
 
 ## 3. Measurement Capabilities  
 
