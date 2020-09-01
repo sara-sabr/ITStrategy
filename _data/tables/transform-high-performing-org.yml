@@ -44,12 +44,12 @@
       data:
         list: false
         fr: 
-        en: Develop a self assessement tool based on capabilities of high performing organizations and PwC recommendations
+        en: Develop a self-assessment tool based on capabilities of high-performing organizations and PwC recommendations
     - col:
       data:
         list: false
         fr: 
-        en: To help teams understand the current condition and set measurable targets, the self assessment tool will guide teams toward ways to improve based on an evaluation of diferent capabilities linked to high performing organizations.
+        en: To help teams understand the current condition and set measurable targets, the self-assessment tool will guide teams toward ways to improve based on an evaluation of different capabilities linked to high-performing organizations.
     - col:
       data:
         list: true
@@ -82,7 +82,7 @@
       data:
         list: false
         fr: 
-        en: The goals of the Guiding Policy is to move towards a Generative (Westrum) culture; to reduce lead time, change failure rate and time to restore service; while increassing deployement frequency. DGs will need to identify how their teams can contribute to the improvement of these metrics, by defining and improving their own metrics.
+        en: The goals of the Guiding Policy is to move toward a Generative (Westrum) culture; to reduce lead time, change failure rate and time to restore service; while increasing deployment frequency. DGs will need to identify how their teams can contribute to the improvement of these metrics, by defining and improving their own metrics.
     - col:
       data:
         list: true
@@ -143,12 +143,12 @@
       data:
         list: false
         fr: 
-        en: Promote ways for users to propose innovation and experimentation (Grassroots, PoC, ..)
+        en: Promote ways for users to propose innovation and experimentation (Grassroots, PoC...)
     - col:
       data:
         list: false
         fr: 
-        en: Grassroot initiative provides IITB employees with a way to get approval to experiment with new way of working or improvements. PoC is for teams outside of IITB to request that IITB investigate possible solutions before it submits an official project.
+        en: Grassroots initiative provides IITB employees with a way to get approval to experiment with new ways of working or improvements. PoC is for teams outside of IITB to request that IITB investigates possible solutions before they propose an official project.
     - col:
       data:
         list: true
@@ -182,7 +182,7 @@
       data:
         list: false
         fr: 
-        en: Provide guidelines and environments to experiment (SAFER lab, Cloud, Virtual desktops, ..)
+        en: Provide guidelines and environments to experiment (SAFER lab, Cloud, Virtual Desktops, ..)
     - col:
       data:
         list: false
@@ -218,12 +218,12 @@
       data:
         list: false
         fr: 
-        en: Create system to store and analyze key metrics from teams
+        en: Create platform to store and analyze key metrics of teams
     - col:
       data:
         list: false
         fr: 
-        en: Could be only sharepoint site to start.
+        en: Could be only SharePoint sites to start.
     - col:
       data:
         list: true
@@ -251,7 +251,7 @@
       data:
         list: false
         fr: 
-        en: Analyze progress and key metrics from teams to update this stratgegy quarterly
+        en: Analyze progress and key metrics of teams to update this strategy quarterly
     - col:
       data:
         list: false
