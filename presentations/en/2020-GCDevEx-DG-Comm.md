@@ -197,8 +197,8 @@ Note:
 
 Note:
 
-- The GC Developers Exchange was the GC's first experiment with micro-procurement for open source code. 
-  - It was launched in 2017 by Privy Council Office (in partnership with TBS and PSPC). 
+- The GC Developers Exchange was the GC's first experiment with micro-procurement for open source code.
+  - It was launched in 2017 by Privy Council Office (in partnership with TBS and PSPC).
   - All contracts awarded via GCDevEx were $10K and under, and were for virtual and unclassified work only (eliminating the need for a supplier security check).
 - The GCDevEx pilot created many lessons learned:
   - a **simplified backend processes is required** not just a front end to connect the GC with developers,
