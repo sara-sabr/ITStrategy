@@ -40,7 +40,9 @@ Note:
 
 ESDC IT Strategy team:
 
-- Procurement is a key piece of the puzzle that will take us to where we want to go. ​This initiative is aligned with our Target Solution Delivery Model, Build vs. Buy Strategy and our continuous improvement strategy (because its not just about speed, micro-procurement for open source code can also help us to continually improve by pushing us towards modern technologies and tools.​)
+- Procurement is a key piece of the puzzle that will take us to where we want to go. ​
+- This initiative is aligned with our "Target Solution Delivery Model", "Adopt, Build, Buy", and "Continuous Improvement" strategies
+  - Because its not just about speed, micro-procurement for open source code can also help us to continually improve by pushing us towards modern technologies and tools.​
 
 Red tape reduction initiative:
 
@@ -48,7 +50,7 @@ Red tape reduction initiative:
 
 Gartner:
 
-- In their Procurement in 2020 and Beyond report, Gartner recommends shifting the ownership for low and mid-tier purchases away from corporate procurement teams so that they can focus primarily on strategic, high value, high-risk purchases
+- In their Procurement in 2020 and Beyond report, Gartner recommends **shifting the ownership for low and mid-tier purchases away from corporate procurement teams so that they can focus primarily on strategic, high value, high-risk purchases**
   
 Office of the Procurement Ombudsman:
 
@@ -57,19 +59,21 @@ Office of the Procurement Ombudsman:
 
 Office of Small and Medium Enterprise (at PSPC):
 
-- advocates for and encourages SME participation in GC procurement (including running regular webinars to help SMEs navigate the various procurement processes). We have had a number of conversations with them (they have offered to held with design for the next version of GCDevEx)
+- advocates for and encourages SME participation in GC procurement (including running regular webinars to help SMEs navigate the various procurement processes).
+- We have had a number of conversations with them and they have offered to help with design for the next version of GCDevEx.
   
 Freelancers and small businesses:
 
-- suppliers have told the Office of the Procurement Ombudsman that supply arrangements and standing offers “can sometimes be cumbersome to use and difficult to qualify for. They also seem to disproportionately favour suppliers located in the National Capital Region”.
+- Suppliers have told the Office of the Procurement Ombudsman that supply arrangements and standing offers “can sometimes be cumbersome to use and difficult to qualify for. They also seem to disproportionately favour suppliers located in the National Capital Region”.
 
 Canadian Digital Service:
 
 - licence all their work as open source and are strong advocates for open source in the GC. They had initially planned to lead a re-launch of the GC Developers Exchange (originally launched in 2017) but they are at capacity and cannot proceed. However they have been providing guidance.
+- More recently, applicants to the CDS have mentioned the fact that the COVID Alert app had been released as open source to explain their sudden interest in joining their ranks.
 
 TBS procurement policy team:
 
-We have engaged this team and they confirmed that there is nothing in the current policy instruments that prevents establishing a simplified process for LDV purchases.  They are currently doing a policy reset.
+- We have engaged this team and they confirmed that there is nothing in the current policy instruments that prevents establishing a simplified process for LDV purchases.  They are currently doing a policy reset.
 
 --
 
@@ -103,7 +107,7 @@ The Red Tape Reduction Report included some analysis of current processes and ti
 Note:
 
 - Risk is very low on LDV​ especially if under the proactive disclosure threshold of $10K
-- LDV procurements go though many of the same steps as >$1M​
+- LDV procurements go through many of the same steps as >$1M​
 - Opportunity to better distribute GC contract $
 - Big contracts will always go to big companies.  But with small contracts that the big players are less interested in, there is an opportunity to make it easier for folks other than the usual suspects to get contracts.​
 
@@ -133,12 +137,15 @@ Note:
 - access to developers who wouldn’t normally bid on GC IT contracts
 - reduced workload burden on ESDC procurement officers
 - increased knowledge of modern software/tools by IITB employees
-- increased capabilities around agile including breaking work up into smaller chunks
+- increased capabilities around agile including breaking work up into smaller chunks (NOT CONTRACT SPLITTING)
 
 Note:
 
-- Strategic procurement of open source code can bring knowledge into IT teams that is not currently there. Suppliers will be contracted to solve problems and when they turn over the open source code, ESDC IT teams will be able to learn from suppliers in almost a train the trainer sort of way. This would enable IITB to build capacity in-house and embed modern tools and practices within IITB teams. Further, contributions to GC open source projects, or open source projects being leveraged by the GC, has the potential to be leveraged as a recruitment tool for IITB.
-- re: access to developers: 95% of SMEs surveyed in 2017 do not see the GC as a buyer. Through a simplified and expedited process that reduces the barriers that these organizations (including startups) and freelancers face, and a targeted communications strategy (to diverse businesses such as those that are Black, and Indigenous led), this pilot is expected to increase access to IT talent that the GC is currently missing out on
+- Strategic procurement of open source code can bring knowledge into IT teams that is not currently there.
+- Suppliers will be contracted to solve problems and when they turn over the open source code, ESDC IT teams will be able to learn from suppliers in almost a train the trainer sort of way. This would enable IITB to build capacity in-house and embed modern tools and practices within IITB teams.
+- Further, contributions to GC open source projects, or open source projects being leveraged by the GC, has the **potential to be leveraged as a recruitment tool** for IITB. (CDS has experienced this with COVID Alert)
+- Regarding access to developers 95% of SMEs surveyed in 2017 do not see the GC as a buyer.
+  - Through a **simplified and expedited** process that **reduces the barriers** that these organizations (including startups) and freelancers face, and a **targeted communications strategy** (to diverse businesses such as those that are Black, and Indigenous led), this pilot is **expected to increase access to IT talent that the GC is currently missing out on**
 
 ---
 
@@ -154,7 +161,7 @@ Note:
 
 - there is strong alignment to ESDC mandate of "works to improve the standard of living and quality of life for all Canadians. We do this by promoting a labour force that is highly skilled. We also promote an efficient and inclusive labour market."
 - DOSP – Procurement Modernization, Agility, Open Source​
-- Digital Nations Charter commitment (formerly D9) – Open Markets ​
+- Digital Nations Charter commitment (formerly D9) – Open Standards, Open Source, Open Markets, Open Government ​
 - Directive on Service and Digital – Open First​
 - ESDC Investment plan (2017-18 to 2022-23) – Use OSS​
 
@@ -190,8 +197,13 @@ Note:
 
 Note:
 
-- The GC Developers Exchange was the GC's first experiment with micro-procurement for open source code. It was launched in 2017 by Privy Council Office (in partnership with TBS and PSPC). All contracts awarded via GCDevEx were $10K and under, and were for virtual and unclassified work only (eliminating the need for a supplier security check).
-- The GCDevEx pilot created many lessons learned: a simplified backend processes is required not just a front end to connect the GC with developers, GC isn't used to breaking work into smaller chunks, the proposal process needs to be easier (no more than 2 hrs of work)
+- The GC Developers Exchange was the GC's first experiment with micro-procurement for open source code. 
+  - It was launched in 2017 by Privy Council Office (in partnership with TBS and PSPC). 
+  - All contracts awarded via GCDevEx were $10K and under, and were for virtual and unclassified work only (eliminating the need for a supplier security check).
+- The GCDevEx pilot created many lessons learned:
+  - a **simplified backend processes is required** not just a front end to connect the GC with developers,
+  - GC isn't used to breaking work into smaller chunks,
+  - the proposal creation process needs to be easier (no more than 2 hrs of work)
 - It ultimately went offline as it did not include simplified back-end procurement processes and it struggled to find a new lead following the completion of the pilot by PCO
 
 ---
@@ -205,10 +217,11 @@ Note:
 
 Note:
 
-- For IP and Copyright, we are working with lawyers at ISED who work on IP policy
-- Automated security checks?
+- For IP and Copyright, we are working with lawyers at ISED who work on IP policy as well as our own ESDC IP CoE
+- Automated security checks and audit functionalities are common place in the industry, can leverage existing solutions.
 - Will be working with CFOB to mitigate the risk of contract splitting (likely through a combo of education, audit, and perhaps a limit on re-use of certain suppliers - similar to the way some supply arrangements work)
 - We are also working with CFOB on this and the system would include similar questions that must be answered during any procurement (e.g. confirm that capacity does not exist in house).  We intend to go the National Union Management Committee to be completely transparent about this pilot.
+- Possibility to integrate auditing methodologies and tools in the backend process.
 
 ---
 
