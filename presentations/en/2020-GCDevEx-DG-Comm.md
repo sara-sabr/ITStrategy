@@ -111,7 +111,7 @@ Note:
 
 ## What if...
 
-<img src="assets/images/GCDevEx-presentation.png" alt="This image shows a process flow scenario where the entire procurement takes only 72 hours.  Process items are shown using circles.  The first two process items of finding the bug and posting the opportunity are completed within 24 hours, the next two process items of bid received, and supplier selected are completed 24 hours after that, and finally the last two process items of Code submitted and checked and Code accepted and payment issued are completed in the last 24 hours">
+<img src="assets/images/GCDevEx-Presentation.PNG" alt="This image shows a process flow scenario where the entire procurement takes only 72 hours.  Process items are shown using circles.  The first two process items of finding the bug and posting the opportunity are completed within 24 hours, the next two process items of bid received, and supplier selected are completed 24 hours after that, and finally the last two process items of Code submitted and checked and Code accepted and payment issued are completed in the last 24 hours">
 
 Note:
 
