@@ -77,7 +77,7 @@
       data:
         list: false
         fr: 
-        en: Define how DGs will guide their teams to achieve the goals of the Guiding Policy
+        en: DGs define their own continuous improvement metrics to achieve the goals of the Guiding Policy
     - col:
       data:
         list: false
@@ -251,7 +251,7 @@
       data:
         list: false
         fr: 
-        en: Analyze progress and key metrics of teams to update this strategy quarterly
+        en: Reassess metrics and their respective impacts on a bi-annual basis
     - col:
       data:
         list: false
