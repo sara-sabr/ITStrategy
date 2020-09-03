@@ -357,64 +357,205 @@ InfoSec supplies development teams and operational teams with an ample number of
 ### 2.1 Team experimentation
 The questionnaire will assess the team's capacity of independtly bringing new ideas, drafting and modifying specifications and stories during development without seeking approval from outside teams
 
-Is it safe for your team to take reasonable risks?
-Do you provide environment where your teams can be innovative?
-Do your teams have the authority to create and change specifications as part of the development process without requiring approval
+Teams feel enpowered to work on new ideas and continually improve solutions to foster experimentation. 
+  a. Strongly Agree (Ideal)  
+  b. Agree  
+  c. Undecided  
+  d. Disagree  
+  e. Strongly Disagree Teams have the authority to create and change specifications as part of the development process without requiring approval
+  a. Strongly Agree (Ideal)  
+  b. Agree  
+  c. Undecided  
+  d. Disagree  
+  e. Strongly Disagree
+Teams works in an environnent where they can be innovative. For example, modifying to stories and specifications during development. 
+  a. Strongly Agree (Ideal)  
+  b. Agree  
+  c. Undecided  
+  d. Disagree  
+  e. Strongly Disagree 
+Team members are able to foster a culture of continual experimentation.
+  a. Strongly Agree (Ideal)  
+  b. Agree  
+  c. Undecided  
+  d. Disagree  
+  e. Strongly Disagree
+ Teams find ways to continously improve includes creating proofs of concept individually or with others, integrating to improve processes, and incorporating automated testing and scripted build and deployment processes. 
+  a. Strongly Agree (Ideal)  
+  b. Agree  
+  c. Undecided  
+  d. Disagree  
+  e. Strongly Disagree
+Tools and platforms are agreed upon by the team and tailored to the needs of the project.
+   a. Very Frequently (Ideal)  
+   b. Frequently  
+   c. Occasionally  
+   d. Rarely  
+   e. Very Rarely  
+   f. Never
+Teams promote team development and handle cross-functional activities.
+   a. Very Frequently (Ideal)  
+   b. Frequently  
+   c. Occasionally  
+   d. Rarely  
+   e. Very Rarely  
+   f. Never
 
 ### 2.2 Streamlining change approval
-
-- what is the frequency of releases
-a. Weekly 
-b. Monthly 
-c. Quarterly
-acljanslkcnalkc
-
-Every change passes the automated tests is deployed to production automatically 
-#### 2.2.1 Outcomes
-
-Recommended questions : 
-Can your changes be approved for release within the team?
-Can your low risk changes be released with confidence straight away after a set of automated tests has been performed only requiring manual approval for high risk changes?
-Are you confident you can get changes on production in a timely manner?
-Are the steps to release well known, documented and easy to follow?
-Can you deploy significant changes without approval of top management?
-Can you do releases without approval or coordination with other teams?
-#### 2.2.2. Indicators
-
-- What percentage of changes do not require a manual change approval to be promoted to production?
-- What percentage of low-, medium-, and high-risk changes require a manual change approval to be promoted to production?
-- What amount of time do changes spend waiting for approval from external bodies?
-- What percentage of changes are managed by peer-review?
-
-#### 2.2.3 Goals
-
-- 90% of changes do not require a manual change approval to be promoted to production
-- 100% of low-risk changes require a manual change approval to be promoted to production
-- 90% of medium-risk changes require a manual change approval to be promoted to production
-- 75% of high-risk changes require a manual change approval to be promoted to production
-- Changes spend [1-7] days waiting for approval from external bodies
-- 10% of changes are managed by peer-review
-
+Teams execute peer review which includes reviews, comments, and approvals captured in the team's development platform as part of the development process.
+   a. Very Frequently (Ideal)  
+   b. Frequently  
+   c. Occasionally  
+   d. Rarely  
+   e. Very Rarely  
+   f. Never
+What amount of time do changes spend waiting for approval from external bodies? (If applicable)
+   a. 24 hours 
+   b. One week (Ideal) 
+   c. 2 weeks
+   d. One month
+   e. At the reviewers convenience  
+   f. No deadline 
+Teams rely on peer review to move forward in production annd manage changes.
+  a. Strongly Agree 
+  b. Agree  
+  c. Undecided  
+  d. Disagree  
+  e. Strongly Disagree (Ideal) 
+Teams carry out a manual change approval to be promoted to production. 
+  a. Strongly Agree 
+  b. Agree  
+  c. Undecided  
+  d. Disagree  
+  e. Strongly Disagree (Ideal)   
+Teams employ continuous testing, continuous integration, and comprehensive monitoring and observability to rapidly detect, prevent, and correct bad changes.
+   a. Very Frequently (Ideal)  
+   b. Frequently  
+   c. Occasionally  
+   d. Rarely  
+   e. Very Rarely  
+   f. Never
+Teams consider the development platform as a product by evaluating the changes on multiple axes, including security, performance,and stability, as well as defects.
+   a. Very Frequently (Ideal)  
+   b. Frequently  
+   c. Occasionally  
+   d. Rarely  
+   e. Very Rarely  
+   f. Never
+Teams study the change process end-to-end, identifying bottlenecks, and experimenting with ways to shift validations into the development platform. 
+   a. Very Frequently (Ideal)  
+   b. Frequently  
+   c. Occasionally  
+   d. Rarely  
+   e. Very Rarely  
+   f. Never
+Additional processes are added at the best interest of the software delivery process when faced with stability problems  in production.
+   a. Very Frequently (Ideal)  
+   b. Frequently  
+   c. Occasionally  
+   d. Rarely  
+   e. Very Rarely  
+   f. Never (Ideal)
   ## 2.3 Customer feedback
   This feedback can be gathered through two methods: structured and unstructured. The structured method is applied through surveys, questionnaires and focus groups. However unstructured feedback, which is delivered through Twitter, Facebook, etc., is often neglected
 
-Do you actively seek customer feedback and incorporate it into the workflow and design of your product?
-
-
-Do those with development and operations responsibilities share tools?
+How actively do you collect customer feedback on product and features quality?
+   a. Very Frequently (Ideal)  
+   b. Frequently  
+   c. Occasionally  
+   d. Rarely  
+   e. Very Rarely  
+   f. Never 
+Do you establish key metrics on customer satisfaction before gathering information from the customers? (Metrics)
+   a. Very Frequently (Ideal)  
+   b. Frequently  
+   c. Occasionally  
+   d. Rarely  
+   e. Very Rarely  
+   f. Never 
+After seeking customer feedbacks, the team utilizes the response to understand the pain points and find solutions quickly.
+  a. Strongly Agree (Ideal)  
+  b. Agree  
+  c. Undecided  
+  d. Disagree  
+  e. Strongly Disagree  
   ## 2.4 Visibility of work in the value stream
-The team understands how work moves through the business from idea to customer, including products or features.
-The team has visibility into the flow of this work.
-The flow of work, including its current state, is shown on visual displays or dashboards.
-Information about the flow of product development work across the whole value stream is readily available.
+Current or recent value streams are available in the orgarnizations to help teams fully understand the current situation, from the customer point of view, align on the problem across all roles in the organization.
+  a. Strongly Agree (Ideal)  
+  b. Agree  
+  c. Undecided  
+  d. Disagree  
+  e. Strongly Disagree  
+Teams are able to use value streams to gain insight and guide necessary improvements to ensure you have the bandwidth to support functionality and the documentation to put it into place.
+  a. Strongly Agree (Ideal)  
+  b. Agree  
+  c. Undecided  
+  d. Disagree  
+  e. Strongly Disagree  
+Everyone in the organization have access to a visual display that shows what they're working on and the status of their work.
+  a. Strongly Agree (Ideal)  
+  b. Agree  
+  c. Undecided  
+  d. Disagree  
+  e. Strongly Disagree  
+Lead time, process time and %C/A are metrics to analyze the state of work within the value stream and information to determine barriers to flow and each process block. 
+   a. Very Frequently (Ideal)  
+   b. Frequently  
+   c. Occasionally  
+   d. Rarely  
+   e. Very Rarely  
+   f. Never 
+Teams continously improve business processes by identifying and eliminating waste.
+   a. Very Frequently (Ideal)  
+   b. Frequently  
+   c. Occasionally  
+   d. Rarely  
+   e. Very Rarely  
+   f. Never 
   ## 2.5 Working in small batches
-
-Can you effectively slice your work in small batches and allocate it to various members of the team?
-Can these batches be treated as a unit or MVP to be deployed?
-
-Outcomes : It reduces the time it takes to get feedback on changes, making it easier to triage and remediate problems.
-It increases efficiency and motivation.
-It prevents your organization from succumbing to the sunk-cost fallacy.
+Teams focus on building, testing, and releasing code changes to an (production or testing) environment in small batches.
+   a. Very Frequently (Ideal)  
+   b. Frequently  
+   c. Occasionally  
+   d. Rarely  
+   e. Very Rarely  
+   f. Never 
+Teams use “loosely coupled” architecture where they release and make changes independent of one another with continuous delivery 
+   a. Very Frequently (Ideal)  
+   b. Frequently  
+   c. Occasionally  
+   d. Rarely  
+   e. Very Rarely  
+   f. Never  
+What is the frequency of releases
+a. Weekly (Ideal)
+b. Monthly 
+c. Quarterly
+Every change passes the automated tests is deployed to production automatically
+  a. Strongly Agree (Ideal)  
+  b. Agree  
+  c. Undecided  
+  d. Disagree  
+  e. Strongly Disagree 
+Following production release, teams are able to amplify feedback from users quickly using techniques(ex: AB testing) and enable short lead times faster.
+  a. Strongly Agree (Ideal)  
+  b. Agree  
+  c. Undecided  
+  d. Disagree  
+  e. Strongly Disagree 
+  Following production release, teams are able to evaluate the results and fix bugs rapidly. 
+   a. Very Frequently (Ideal)  
+   b. Frequently  
+   c. Occasionally  
+   d. Rarely  
+   e. Very Rarely  
+   f. Never 
+Teams look into automated testing (and automated builds) for quality assurance on the efficiency of successful test automation and deployment-ready software.  
+  a. Strongly Agree (Ideal)  
+  b. Agree  
+  c. Undecided  
+  d. Disagree  
+  e. Strongly Disagree 
 
 ## 3. Measurement Capabilities  
 
