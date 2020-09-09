@@ -22,14 +22,14 @@
     (function(){
       // get language setting from localstorage if it exists
       var localStorageLang = localStorage.getItem("language")
-      if (localStorageLang && localStorageLang === "{{ site.language.en }}"){
+      if (localStorageLang && localStorageLang === "{{ site.data.i18n.general.language.en }}"){
         window.location.replace(
-          "./{{ site.index.en }}"
+          "./{{ site.data.i18n.general.nav.index.en }}"
         )
       }
-      else if (localStorageLang && localStorageLang === "{{ site.language.fr }}"){
+      else if (localStorageLang && localStorageLang === "{{ site.data.i18n.general.language.fr }}"){
         window.location.replace(
-          "./{{ site.index.fr }}"
+          "./{{ site.data.i18n.general.nav.index.fr }}"
         )
       }
   
