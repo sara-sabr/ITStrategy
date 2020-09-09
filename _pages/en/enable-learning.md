@@ -37,7 +37,7 @@ There's 2 main categories of employee learning:
 - Informal Learning
 
 Formal training being a mature and well-recognized practice, ESDC will need to focus on understanding and encouraging informal learning among employees.
-Especially as [recent estimates suggest](https://www.groupoe.com/images/Accelerating_On-the-Job-Learning_-_White_Paper.pdf) that between 70% to 80% of job-related knowledge isn't learned in formal training but rather **informally** on-the-job.
+Especially as [recent estimates suggest](https://www.groupoe.com/wp-content/uploads/2020/08/Accelerating_On-the-Job-Learning_-_White_Paper.pdf) that between 70% to 80% of job-related knowledge isn't learned in formal training but rather **informally** on-the-job.
 We observe that formal training hasn't been designed to provide employees with the "on demand" learning they need to maintain current knowledge and proficiency.
 
 > **Informal learning** is any learning that is not formal learning or non-formal learning, such as self-directed learning or learning from experience. [...] it has no set objective in terms of learning outcomes and is never intentional from the learner's standpoint. [...] this includes heuristic language building, socialization, enculturation, and play.

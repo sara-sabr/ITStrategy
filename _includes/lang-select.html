@@ -12,9 +12,9 @@
       var selectedLanguage = src.innerText.trim()
 
     
-      if (selectedLanguage === "{{ site.language.en }}"){
+      if (selectedLanguage === "{{ site.data.i18n.general.language.en }}"){
         localStorage.setItem(
-          "language", "{{ site.language.en }}"
+          "language", "{{ site.data.i18n.general.language.en }}"
         )
 
         
@@ -25,15 +25,15 @@
         }
         else {
             window.location.replace(
-                "./{{ site.index.en }}"
+                "./{{ site.data.i18n.general.nav.index.en }}"
             )
 
         }
       }
 
-      else if ( selectedLanguage === "{{ site.language.fr }}" ){
+      else if ( selectedLanguage === "{{ site.data.i18n.general.language.fr }}" ){
         localStorage.setItem(
-          "language", "{{ site.language.fr }}"
+          "language", "{{ site.data.i18n.general.language.fr }}"
         )
 
         if (src.attributes.hasOwnProperty("href") && src.attributes.href.value !== ""){
@@ -43,7 +43,7 @@
         }
         else {
             window.location.replace(
-                "./{{ site.index.fr }}"
+                "./{{ site.data.i18n.general.nav.index.fr }}"
             )
 
         }
