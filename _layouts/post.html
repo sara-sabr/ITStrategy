@@ -2,12 +2,12 @@
 layout: default
 ---
 <h2>{{ page.title }}</h2>
-<p>{{ page.date | date: "%Y-%m-%d" }} - {{ site.writtenBy[page.lang] }} {{ page.author }}</p>
+<p>{{ page.date | date: "%Y-%m-%d" }} - {{ site.data.i18n.general.blogs.writtenBy[page.lang] }} {{ page.author }}</p>
 
 {% assign modifiedDate = page.last_modified | date: "%Y-%m-%d" %}
 
 {% if modifiedDate %}
-    <p class="font-italic">{{ site.lastModified[page.lang] }}: {{ modifiedDate }}</p>
+    <p class="font-italic">{{ site.data.i18n.general.blogs.lastModified[page.lang] }}: {{ modifiedDate }}</p>
 {% endif %}
 
 {{ content }}

@@ -1,4 +1,4 @@
-{% assign sections = site.sectionsList[page.lang] %}
+{% assign sections = site.data.i18n.general.nav.sectionsList[page.lang] %}
 {% for section in sections %}
 {% assign aPage = site.pages | where:"sections", section | where:"lang", page.lang | sort: "title" %}
 
