@@ -1,15 +1,15 @@
 <head>
   {%- if page.lang -%}
-  <title>{{ site.title[page.lang] }}</title>
+  <title>{{page.title}} - {{ site.data.i18n.general.head.title[page.lang] }}</title>
   {%- endif -%}
   {%- if page.ref == "splash" -%}
-  <title>{{ site.title.en }} - {{ site.title.fr }}</title>
+  <title>{{ site.data.i18n.general.head.title.en }} - {{ site.data.i18n.general.head.title.fr }}</title>
   {%- endif -%}
 
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta name="description"
-    content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description[page.lang] }}{% endif %}">
+    content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.data.i18n.general.head.description[page.lang] }}{% endif %}">
 
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-152866056-1"></script>

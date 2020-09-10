@@ -33,7 +33,7 @@ This is highlighted in the 2018 [Direction on Enabling Web Access to Web Service
 The upcoming [Policy](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603) and [Directive on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601) replaces the PANDU but keeps the intent to "provide open access to Internet tools and services to support public servants in their work duties, enhance collaboration and networking with their peers".
 See the [Appendix C: Examples of Acceptable Network and Device Use](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32605).
 
-This is also supported by the [Values and ethics of the public service](https://www.canada.ca/en/government/publicservice/values.html) and [ESDC Code of conduct](https://www.canada.ca/en/employment-social-development/corporate/code-conduct.html) in particular [Section D) Stewardship on the use of Electronic Networks](https://www.canada.ca/en/employment-social-development/corporate/code-conduct.html#a3.4)
+This is also supported by the [Values and ethics of the public service](https://www.canada.ca/en/government/publicservice/values.html).
 
 ## Current Status
 

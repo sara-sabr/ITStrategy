@@ -2,7 +2,7 @@
   <a href="#maincontent" class="skiptocontent">{{site.data.i18n.general.head.skipToContent[page.lang]}}</a>
   <nav class="navbar navbar-expand-md navbar-light fixed-top bg-light">
     <div class="container-fluid">
-    <a aria-label="Home" class="navbar-brand" href="{% if page.lang == 'en' %}{{ site.baseurl }}/{{ site.index.en }}{% else %}{{ site.baseurl }}/{{ site.index.fr }}{% endif %}"><span class="fas fa-home" aria-hidden="true"></span></a>
+    <a aria-label="Home" class="navbar-brand" href="{% if page.lang == 'en' %}{{ site.baseurl }}/{{ site.data.i18n.general.nav.index.en }}{% else %}{{ site.baseurl }}/{{ site.data.i18n.general.nav.index.fr }}{% endif %}"><span class="fas fa-home" aria-hidden="true"></span></a>
 
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#Menu1" aria-controls="Menu1" aria-expanded="false" aria-label="Toggle navigation">
       <span class="custom-toggler-icon"><i class="fas fa-bars"></i></span>
@@ -12,34 +12,34 @@
       <!-- Menu -->
       <ul class="navbar-nav ml-auto">
         <!--About Us - A propos de nous-->
-        {%- assign dropdown_section=site.pagesAbout[page.lang]-%}
+        {%- assign dropdown_section=site.data.i18n.general.nav.pagesAbout[page.lang]-%}
         {%- assign dropdown_title=dropdown_section-%}
         {%- assign dropdown_id = "navbarDropdownAbout" -%}
         {% include dropdown.html %}
 
         <!--Vision-->
-        {%- assign dropdown_section=site.sectionsList[page.lang][0]-%}
+        {%- assign dropdown_section=site.data.i18n.general.nav.sectionsList[page.lang][0]-%}
         {%- assign dropdown_title=dropdown_section-%}
         {%- assign dropdown_id = "navbarDropdownVision" -%}
         {% include dropdown.html %}
 
         <!--Our Strategies - Nos stratégies-->
-        {%- assign dropdown_section=site.sectionsList[page.lang][1]-%}
-        {%- assign dropdown_title=site.strategies[page.lang]-%}
+        {%- assign dropdown_section=site.data.i18n.general.nav.sectionsList[page.lang][1]-%}
+        {%- assign dropdown_title=site.data.i18n.general.nav.strategies[page.lang]-%}
         {%- assign dropdown_id = "navbarDropdownStrategies" -%}
         {% include dropdown.html %}
 
         {%- assign pages=site.pages | where:"ref", "documents" | sort: 'lang' -%}
         {%- for my_page in pages -%}
           {% if my_page.lang == page.lang %}
-            <li class="nav-item"><a class="nav-link" lang="{{ my_page.lang }}" hreflang="{{ my_page.lang }}" href="{{ my_page.url | prepend: site.baseurl }}">{{ site.docsTitle[my_page.lang] }}</a></li>
+            <li class="nav-item"><a class="nav-link" lang="{{ my_page.lang }}" hreflang="{{ my_page.lang }}" href="{{ my_page.url | prepend: site.baseurl }}">{{ site.data.i18n.general.nav.docsTitle[my_page.lang] }}</a></li>
           {%- endif -%}
         {%- endfor -%}
 
         {%- assign pages=site.pages | where:"ref", "blog-posts" | sort: 'lang' -%}
         {%- for my_page in pages -%}
           {% if my_page.lang == page.lang %}
-            <li class="nav-item"><a class="nav-link" lang="{{ my_page.lang }}" hreflang="{{ my_page.lang }}" href="{{ my_page.url | prepend: site.baseurl }}">{{ site.blogPosts[my_page.lang] }}</a></li>
+            <li class="nav-item"><a class="nav-link" lang="{{ my_page.lang }}" hreflang="{{ my_page.lang }}" href="{{ my_page.url | prepend: site.baseurl }}">{{ site.data.i18n.general.nav.blogPosts[my_page.lang] }}</a></li>
           {%- endif -%}
         {%- endfor -%}
       </ul>
@@ -52,7 +52,7 @@
           {% if my_post.lang != page.lang %}
             <li class="nav-item lang-select-container" >
                 <button href="{{ my_post.url | prepend: site.baseurl }}" class= "lang-select" onclick="selectLanguage(this)">
-                  {{ site.language[my_post.lang] }}
+                  {{ site.data.i18n.general.language[my_post.lang] }}
                 </button>
             </li>
           {%- endif -%}
@@ -63,7 +63,7 @@
           {% if my_page.lang != page.lang %}
             <li class="nav-item lang-select-container" >
                 <button href="{{ my_page.url | prepend: site.baseurl }}" class= "lang-select" onclick="selectLanguage(this)">
-                  {{ site.language[my_page.lang] }}
+                  {{ site.data.i18n.general.language[my_page.lang] }}
                 </button>
             </li>
           {%- endif -%}
