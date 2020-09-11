@@ -27,14 +27,14 @@ Note:
 
 ## Why look at an alternate way to procure digital work?
 
-- Lot of time spent on formalizing small contracts
-- Getting external help for ad-hoc development work is cumbersome
+- Lots of time spent on formalizing small contracts
+- Getting external help for ad hoc development work is cumbersome
 - Limited choice of external expertise
 
 Note:
 
-- while small contracts are low dollar value and low risk, they take up the time of procurement officers whose expertise is needed for complex and high risk procurements.
-- although procurement processes at ESDC are becoming streamlined (including initiatives like contract on demand), getting external help for small pieces of ad-hoc development work (say to fix a bug or to build a small prototype) still takes weeks. In the world of open source, where the code is freely available to anyone to fix and access immediately, and when IT is moving towards a DevOps/agile way of working  (where changes to IT systems can, and should, be made daily, it is necessary to have a procurement process that can move equally as fast. Without fast procurement we hinder our ability to deliver high-quality IT solutions.
+- while small contracts are low dollar value and low risk, they take up the time of procurement officers whose expertise is needed for complex and high-risk procurement.
+- although procurement processes at ESDC are becoming streamlined (including initiatives like contract on demand), getting external help for small pieces of ad hoc development work (say to fix a bug or to build a small prototype) still takes weeks. In the world of open source, where the code is freely available to anyone to fix and access immediately, and when IT is moving towards a DevOps/agile way of working  (where changes to IT systems can, and should, be made daily, it is necessary to have a procurement process that can move equally as fast. Without fast procurement we hinder our ability to deliver high-quality IT solutions.
 - Supply arrangements and contract on demand are great but mostly for larger companies, those in the NCR and those who regularly get GC contracts. Barriers exist for freelancers and startups to access GC contract $.
 
 ---
@@ -56,7 +56,7 @@ ESDC IT Strategy team:
 
 - Procurement is a key piece of the puzzle that will take us to where we want to go. ​
 - This initiative is aligned with our "Target Solution Delivery Model", "Adopt, Build, Buy", and "Continuous Improvement" strategies
-  - The tie in with continuous improvment is because microprocurement for OSS is not just about speed, it can also help us to continually improve by pushing us towards modern technologies and tools.​
+  - The tie-in with continuous improvement is because microprocurement for OSS is not just about speed, it can also help us to continually improve by pushing us towards modern technologies and tools.​
 
 Red tape reduction initiative:
 
@@ -70,7 +70,7 @@ Those are the drivers, and then some stakeholders who also care are:
 Office of the Procurement Ombudsman:
 
 - As part of an effort to explore significant and recurring issues in federal procurement, the Office of the Procurement Ombudsman released a report on Low Dollar Value Contracting in 2019.
-- They care about this as they help canadian businesses. They investigate complaints and provide dispute resolution services to businesses for GC contracts up to $105K. They also review widespread federal contracting issues and provide recommendations on how to improve them. With the limit of $105K, they primarily work with small businesses.
+- They care about this as they help Canadian businesses. They investigate complaints and provide dispute resolution services to businesses for GC contracts up to $105K. They also review widespread federal contracting issues and provide recommendations on how to improve them. With the limit of $105K, they primarily work with small businesses.
 
 Office of Small and Medium Enterprise (at PSPC):
 
@@ -83,7 +83,7 @@ Freelancers and small businesses:
 
 Canadian Digital Service:
 
-- licence all their work as open source and are strong advocates for open source in the GC. They had initially planned to lead a re-launch of the GC Developers Exchange (originally launched in 2017) but they are at capacity and cannot proceed. However they have been providing guidance.
+- licence all their work as open source and are strong advocates for open source in the GC. They had initially planned to lead a relaunch of the GC Developers Exchange (originally launched in 2017) but they are at capacity and cannot proceed. However they have been providing guidance.
 - More recently, applicants to the CDS have mentioned the fact that the COVID Alert app had been released as open source to explain their sudden interest in joining their ranks.
 
 TBS procurement policy team:
@@ -98,7 +98,7 @@ TBS procurement policy team:
 
 Note:
 
-The Red Tape Reduction Report included some analysis of current processes and timelines for LDV procurements and determined that based on the departments that participated.....
+The Red Tape Reduction Report included some analysis of current processes and timelines for LDV procurement and determined that based on the departments that participated.....
 These stats led them to their recommendation to fast track contracts under $10K
 7 people across groups including the contract owner as well as the suppliers
 
@@ -116,10 +116,10 @@ Note:
 
 Solution has 2 components:
 
-1. a simplified back end procurement process for open source code. Why open source code only ... an area where we could use procurement to advance the GC agenda (use open source code). But if successful this could be broadened to other coding or work packages in IT and beyond.
+1. a simplified back-end procurement process for open source code. Why open source code only ... an area where we could use procurement to advance the GC agenda (use open source code). But if successful this could be broadened to other coding or work packages in IT and beyond.
 2. a front end to facilitate sharing contract opportunities and finding talent
 
-we are proposing that this initiative be a pilot for one year and then re-assess
+we are proposing that this initiative be a pilot for one year and then reassess
 
 ---
 
@@ -129,7 +129,7 @@ we are proposing that this initiative be a pilot for one year and then re-assess
 - Work that can be done remotely
 - Work that is unclassified
 - Open source code
-- All work is done on on an open repository (e.g. GitHub, GitLab)
+- All work is done in an open repository (e.g., GitHub, GitLab)
 - ESDC only (at this time)
 
 Note:
@@ -194,7 +194,7 @@ Note:
 - Digital operations strategic plan – which speaks to the need for Procurement Modernization for IT specifically, Agility, and Open Source​
 - Digital Nations Charter commitment (formerly D9) – Open Standards, Open Source, Open Markets, Open Government ​ and which Canada is a signatory
 - Directive on Service and Digital – Open First​
-- ESDC Investment plan (2017-18 to 2022-23) – Emphasises the use of OSS​
+- ESDC Investment plan (2017-18 to 2022-23) – Emphasizes the use of OSS​
 
 ---
 
@@ -208,9 +208,9 @@ Note:
 Note:
 
 - Lots of folks for us to learn from who are already doing this
-- many external companies (e.g. Bug Bounty Programs and [goquotes.ca](https://goquotes.ca))
+- many external companies (e.g., Bug Bounty Programs and [goquotes.ca](https://goquotes.ca))
 - US Government has a Micro-purchase threshold that they just increased to $10K and a number of teams are experimenting with this threshold around the procurement of open source code
-- BC Government has the BC Developers Exchange which is their micro-procurement platform.  They have had this for many years. They started small and ultimate went up to $70K for their micro-procurement 'code with us' plaftform and as much as $2M for their associated 'sprint with us' platform. They have really led the way and we are connected with them and learning from them.
+- BC Government has the BC Developers Exchange which is their micro-procurement platform.  They have had this for many years. They started small and ultimate went up to $70K for their micro-procurement 'code with us' platform and as much as $2M for their associated 'sprint with us' platform. They have really led the way and we are connected with them and learning from them.
 - QC Government - had conversations with them...they are also looking at implementing micro-procurement of open source code
 
 ---
@@ -239,7 +239,7 @@ Note:
   - It was built on code that was forked from the BC Developers Exchange
   - All contracts awarded via GCDevEx were $10K and under, and were for virtual and unclassified work only (eliminating the need for a supplier security check).
 - The GCDevEx pilot created many lessons learned:
-  - a **simplified backend processes is required** not just a front end to connect the GC with developers,
+  - a **simplified back-end process is required** not just a front end to connect the GC with developers,
   - GC isn't used to breaking work into smaller chunks,
   - the proposal creation process needs to be easier (no more than 2 hrs of work)
 - It ultimately went offline as it did not include simplified back-end procurement processes and it struggled to find a new lead following the completion of the pilot by PCO
@@ -258,8 +258,8 @@ Note:
 - IP and Copyright around GC procurement of open source code is a relatively new area so we are working with lawyers at ISED who work on IP policy as well as our own ESDC IP CoE and we are making in roads with PSPC as we know that their lawyers will need to approve the contract terms and conditions for this initiative.
 - Envision some QA of code that is submitted (would include security).  Ultimately it would be great to have automated security checks and audit functionalities.  These are common place in the industry, so we can leverage existing solutions.
 - Will be working with CFOB to mitigate the risk of contract splitting (likely through a combo of education, audit, and perhaps a limit on re-use of certain suppliers - similar to the way some supply arrangements work)
-- We are also working with CFOB on this.  One suggestion so far has been that any micro-procurement contract would include similar questions that must be answered during any procurement (e.g. confirm that capacity does not exist in house).  We intend to go the National Union Management Committee to be completely transparent about this pilot.
-- Possibility to integrate auditing methodologies and tools in the backend process.
+- We are also working with CFOB on this.  One suggestion so far has been that any micro-procurement contract would include similar questions that must be answered during any procurement (e.g., confirm that capacity does not exist in-house).  We intend to go the National Union Management Committee to be completely transparent about this pilot.
+- Possibility to integrate auditing methodologies and tools in the back-end process.
 
 ---
 
