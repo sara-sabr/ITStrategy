@@ -56,7 +56,7 @@ ESDC IT Strategy team:
 
 - Procurement is a key piece of the puzzle that will take us to where we want to go. ​
 - This initiative is aligned with our "Target Solution Delivery Model", "Adopt, Build, Buy", and "Continuous Improvement" strategies
-  - The tie-in with continuous improvement is because microprocurement for OSS is not just about speed, it can also help us to continually improve by pushing us towards modern technologies and tools.​
+  - The tie-in with continuous improvement is because micro-procurement for OSS is not just about speed, it can also help us to continually improve by pushing us towards modern technologies and tools.​
 
 Red tape reduction initiative:
 
@@ -182,7 +182,7 @@ Note:
 ## Alignment
 
 - ESDC Mandate
-- DOSP
+- Digital Operations Strategic Plan
 - Digital Nations Charter commitment
 - Directive on Service and Digital
 - ESDC Investment Plan
@@ -191,8 +191,8 @@ Note:
 
 - as mentioned, lots of people see the benefits of having separate processes micro-procurement
 - there is strong alignment to policy and mandate... ESDC's mandate of "works to improve the standard of living and quality of life for all Canadians. We do this by promoting a labour force that is highly skilled. We also promote an efficient and inclusive labour market." makes ESDC a good fit to lead this initiative
-- Digital operations strategic plan – which speaks to the need for Procurement Modernization for IT specifically, Agility, and Open Source​
-- Digital Nations Charter commitment (formerly D9) – Open Standards, Open Source, Open Markets, Open Government ​ and which Canada is a signatory
+- Digital Operations Strategic Plan – which speaks to the need for Procurement Modernization for IT specifically, Agility, and Open Source​
+- Digital Nations Charter commitment (formerly D9) – Open Standards, Open Source, Open Markets, Open Government, and which Canada is a signatory
 - Directive on Service and Digital – Open First​
 - ESDC Investment plan (2017-18 to 2022-23) – Emphasizes the use of OSS​
 
@@ -203,14 +203,14 @@ Note:
 - Private industry
 - US Government
 - BC Government
-- QC Government
+- QC Government (in development)
 
 Note:
 
 - Lots of folks for us to learn from who are already doing this
 - many external companies (e.g., Bug Bounty Programs and [goquotes.ca](https://goquotes.ca))
 - US Government has a Micro-purchase threshold that they just increased to $10K and a number of teams are experimenting with this threshold around the procurement of open source code
-- BC Government has the BC Developers Exchange which is their micro-procurement platform.  They have had this for many years. They started small and ultimate went up to $70K for their micro-procurement 'code with us' platform and as much as $2M for their associated 'sprint with us' platform. They have really led the way and we are connected with them and learning from them.
+- BC Government has the BC Developers Exchange which is their micro-procurement platform.  They have had this for many years. They started small and ultimately went up to $70K for their micro-procurement 'Code with us' platform and as much as $2M for their associated 'Sprint with us' platform. They have really led the way and we are connected with them and learning from them.
 - QC Government - had conversations with them...they are also looking at implementing micro-procurement of open source code
 
 ---
@@ -294,7 +294,7 @@ Note:
 - [GC Developers Exchange brief background](https://sara-sabr.github.io/ITStrategy/GCDevelopers-Exchange.html)
 - [Better tech through micro-procurement (blog post)](https://sara-sabr.github.io/ITStrategy/2020/08/12/better-tech-through-microprocurement-p1.html)
 - [Business case](https://docs.google.com/document/d/1dpsXvXY_iHsgJAAPQzrX8gOhm5ttC_JCCGZKvWRWQZk/edit?usp=sharing) for pilot to simplify micro-procurement of open source code
-- [US GSA - Experimenting with the Micro-Purchase Threshold](https://digital.gov/2020/04/24/experimenting-with-micropurchase-threshold/)
+- [U.S. GSA - Experimenting with the Micro-Purchase Threshold](https://digital.gov/2020/04/24/experimenting-with-micropurchase-threshold/)
 
 --
 
