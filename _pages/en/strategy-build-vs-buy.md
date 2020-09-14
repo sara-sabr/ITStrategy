@@ -377,11 +377,9 @@ Open COTS
 
 ### Notes<!-- omit in toc -->
 
-Note 1: The authoritative source and latest version of this Strategy material will be shared on our [internal workspace](https://014gc.sharepoint.com/sites/strategyBuildvsBuy)
+Note 1: This page will link to internal ESDC documents, which are unfortunately only accessible within ESDC corporate network.
 
-Note 2: This page will link to internal ESDC documents, which are unfortunately only accessible within ESDC corporate network.
-
-Note 3: Assumptions when reading this document
+Note 2: Assumptions when reading this document
 
 - The decision to invest time and resources for an IT solution has already been taken but it has not been decided whether it will be adopted, built or bought.
 - This is not a software request (e.g.: I want to use this SaaS)
