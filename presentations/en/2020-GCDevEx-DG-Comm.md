@@ -34,7 +34,7 @@ Note:
 Note:
 
 - while small contracts are low dollar value and low risk, they take up the time of procurement officers whose expertise is needed for complex and high-risk procurement.
-- although procurement processes at ESDC are becoming streamlined (including initiatives like contract on demand), getting external help for small pieces of ad hoc development work (say to fix a bug or to build a small prototype) still takes weeks. In the world of open source, where the code is freely available to anyone to fix and access immediately, and when IT is moving towards a DevOps/agile way of working  (where changes to IT systems can, and should, be made daily, it is necessary to have a procurement process that can move equally as fast. Without fast procurement we hinder our ability to deliver high-quality IT solutions.
+- although procurement processes at ESDC are becoming streamlined (including initiatives like contract on demand), getting external help for small pieces of ad hoc development work (say to fix a bug or to build a small prototype) still takes weeks. In the world of open source, where the code is freely available to anyone to fix and access immediately, and when IT is moving towards a DevOps/agile way of working (where changes to IT systems can, and should, be made daily), it is necessary to have a procurement process that can move equally as fast. Without fast procurement we hinder our ability to deliver high-quality IT solutions.
 - Supply arrangements and contract on demand are great but mostly for larger companies, those in the NCR and those who regularly get GC contracts. Barriers exist for freelancers and startups to access GC contract $.
 
 ---
@@ -67,6 +67,7 @@ Gartner:
 - In their Procurement in 2020 and Beyond report, Gartner recommends **shifting the ownership for low and mid-tier purchases away from corporate procurement teams so that they can focus primarily on strategic, high value, high-risk purchases**
 
 Those are the drivers, and then some stakeholders who also care are:
+
 Office of the Procurement Ombudsman:
 
 - As part of an effort to explore significant and recurring issues in federal procurement, the Office of the Procurement Ombudsman released a report on Low Dollar Value Contracting in 2019.
@@ -171,7 +172,7 @@ Note:
 Note:
 
 - simplifying the procurement of open source will encourage the use of open source (bit of a chicken/egg situation)
-- Regarding access to developers 95% of SMEs surveyed in 2017 do not see the GC as a buyer.
+- Regarding access to developers, 95% of SMEs surveyed in 2017 do not see the GC as a buyer.
   - Through a **simplified and expedited** process that **reduces the barriers** that these organizations (including startups) and freelancers face, and a **targeted communications strategy** (to diverse businesses such as those that are Black, and Indigenous led), this pilot is **expected to increase access to IT talent that the GC is currently missing out on**
 - reduced workload burden on procurement officers - we propose that they will help put guardrails in place but largely be uninvolved in the micro-procurement process
 - Strategic procurement of open source code can bring knowledge into IT teams that is not currently there. Suppliers will be contracted to solve problems and when they turn over the open source code, ESDC IT teams will be able to learn from suppliers in almost a train the trainer sort of way. This would enable IITB to build capacity in-house and embed modern tools and practices within IITB teams.
@@ -208,7 +209,7 @@ Note:
 Note:
 
 - Lots of folks for us to learn from who are already doing this
-- many external companies (e.g., Bug Bounty Programs and [goquotes.ca](https://goquotes.ca))
+- Many external companies (e.g., Bug Bounty Programs and [goquotes.ca](https://goquotes.ca))
 - US Government has a Micro-purchase threshold that they just increased to $10K and a number of teams are experimenting with this threshold around the procurement of open source code
 - BC Government has the BC Developers Exchange which is their micro-procurement platform.  They have had this for many years. They started small and ultimately went up to $70K for their micro-procurement 'Code with us' platform and as much as $2M for their associated 'Sprint with us' platform. They have really led the way and we are connected with them and learning from them.
 - QC Government - had conversations with them...they are also looking at implementing micro-procurement of open source code
@@ -224,7 +225,7 @@ Note:
 Note:
 
 - Procurement has a lot of rules.  And the fear around making a mistake tends to create a fairly risk averse situation around procurement.  
-- we have experimented with micro-procurement for open source code in the GC
+- We have experimented with micro-procurement for open source code in the GC
 
 ---
 
@@ -236,7 +237,7 @@ Note:
 
 - The GC Developers Exchange was the GC's first experiment with micro-procurement for open source code.
   - It was launched in 2017 by Privy Council Office (in partnership with TBS and PSPC).
-  - It was built on code that was forked from the BC Developers Exchange
+  - It was built on code that was forked from the BC Developers Exchange.
   - All contracts awarded via GCDevEx were $10K and under, and were for virtual and unclassified work only (eliminating the need for a supplier security check).
 - The GCDevEx pilot created many lessons learned:
   - a **simplified back-end process is required** not just a front end to connect the GC with developers,
@@ -273,7 +274,7 @@ Note:
 
 Note:
 
-- Robert MacGillivary who is the director responsible for the procurement innovation team has agreed to co-sponsor the business case
+- Robert MacGillivary, who is the director responsible for the procurement innovation team, has agreed to co-sponsor the business case
 
 ---
 
