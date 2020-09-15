@@ -293,9 +293,9 @@ Note:
 ## More info
 
 - [GC Developers Exchange brief background](https://sara-sabr.github.io/ITStrategy/GCDevelopers-Exchange.html)
-- [Better tech through micro-procurement (blog post)](https://sara-sabr.github.io/ITStrategy/2020/08/12/better-tech-through-microprocurement-p1.html)
+- [Better tech through micro-procurement](https://sara-sabr.github.io/ITStrategy/2020/08/12/better-tech-through-microprocurement-p1.html) (blog post)
 - [Business case](https://docs.google.com/document/d/1dpsXvXY_iHsgJAAPQzrX8gOhm5ttC_JCCGZKvWRWQZk/edit?usp=sharing) for pilot to simplify micro-procurement of open source code
-- [U.S. GSA - Experimenting with the Micro-Purchase Threshold](https://digital.gov/2020/04/24/experimenting-with-micropurchase-threshold/)
+- [US GSA - Experimenting with the Micro-Purchase Threshold](https://digital.gov/2020/04/24/experimenting-with-micropurchase-threshold/)
 
 --
 
