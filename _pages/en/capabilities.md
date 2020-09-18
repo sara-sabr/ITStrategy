@@ -357,40 +357,42 @@ InfoSec supplies development teams and operational teams with an ample number of
 ### 2.1 Team experimentation
 The questionnaire will assess the team's capacity of independtly bringing new ideas, drafting and modifying specifications and stories during development without seeking approval from outside teams  
 
-1. Teams feel enpowered to work on new ideas and continually improve solutions to foster experimentation. 
+1. Teams feel enpowered to work on new ideas and continually improve solutions to foster experimentation.  
   a. Strongly Agree (Ideal)  
   b. Agree  
   c. Undecided  
   d. Disagree  
-  e. Strongly Disagree Teams have the authority to create and change specifications as part of the development process without requiring approval
+  e. Strongly Disagree  
+  
+  2. Teams have the authority to create and change specifications as part of the development process without requiring approval
   a. Strongly Agree (Ideal)  
   b. Agree  
   c. Undecided  
   d. Disagree  
   e. Strongly Disagree  
 
-2. Teams works in an environnent where they can be innovative. For example, modifying to stories and specifications during development. 
+3. Teams works in an environnent where they can be innovative. For example, modifying to stories and specifications during development. 
   a. Strongly Agree (Ideal)  
   b. Agree  
   c. Undecided  
   d. Disagree  
   e. Strongly Disagree  
 
-3. Team members are able to foster a culture of continual experimentation.  
+4. Team members are able to foster a culture of continual experimentation.  
   a. Strongly Agree (Ideal)  
   b. Agree  
   c. Undecided  
   d. Disagree  
   e. Strongly Disagree  
 
- 4. Teams find ways to continously improve includes creating proofs of concept individually or with others, integrating to improve processes, and incorporating automated testing and scripted build and deployment processes.  
+ 5. Teams find ways to continously improve includes creating proofs of concept individually or with others, integrating to improve processes, and incorporating automated testing and scripted build and deployment processes.  
   a. Strongly Agree (Ideal)  
   b. Agree  
   c. Undecided  
   d. Disagree  
   e. Strongly Disagree  
 
-5. Tools and platforms are agreed upon by the team and tailored to the needs of the project.  
+6. Tools and platforms are agreed upon by the team and tailored to the needs of the project.  
    a. Very Frequently (Ideal)  
    b. Frequently  
    c. Occasionally  
@@ -398,7 +400,7 @@ The questionnaire will assess the team's capacity of independtly bringing new id
    e. Very Rarely  
    f. Never  
 
-6. Teams promote team development and handle cross-functional activities.  
+7. Teams promote team development and handle cross-functional activities.  
    a. Very Frequently (Ideal)  
    b. Frequently  
    c. Occasionally  
@@ -406,7 +408,7 @@ The questionnaire will assess the team's capacity of independtly bringing new id
    e. Very Rarely  
    f. Never  
 
-### 2.2 Streamlining change approval  
+### 2.2. Streamlining change approval  
 
 1. Teams execute peer review which includes reviews, comments, and approvals captured in the team's development platform as part of the development process.  
    a. Very Frequently (Ideal)  
@@ -417,22 +419,22 @@ The questionnaire will assess the team's capacity of independtly bringing new id
    f. Never  
 
 2. What amount of time do changes spend waiting for approval from external bodies? (If applicable)  
-   a. 24 hours 
-   b. One week (Ideal) 
-   c. 2 weeks
-   d. One month
-   e. At the reviewers convenience  
+   a. 24 hours  
+   b. One week (Ideal)  
+   c. 2 weeks  
+   d. One month  
+   e. At the reviewers convenience    
    f. No deadline  
 
 3. Teams rely on peer review to move forward in production annd manage changes.  
-  a. Strongly Agree 
+  a. Strongly Agree  
   b. Agree  
   c. Undecided  
   d. Disagree  
   e. Strongly Disagree (Ideal)  
 
 4. Teams carry out a manual change approval to be promoted to production.  
-  a. Strongly Agree 
+  a. Strongly Agree  
   b. Agree  
   c. Undecided  
   d. Disagree  
@@ -468,9 +470,9 @@ The questionnaire will assess the team's capacity of independtly bringing new id
    c. Occasionally  
    d. Rarely  
    e. Very Rarely  
-   f. Never (Ideal)  
+   f. Never (Ideal)    
 
-  ### 2.3 Customer feedback
+  ### 2.3. Customer feedback
   This feedback can be gathered through two methods: structured and unstructured. The structured method is applied through surveys, questionnaires and focus groups. However unstructured feedback, which is delivered through Twitter, Facebook, etc., is often neglected
 
 1. How actively do you collect customer feedback on product and features quality?  
@@ -496,83 +498,94 @@ The questionnaire will assess the team's capacity of independtly bringing new id
   d. Disagree  
   e. Strongly Disagree  
 
-### 2.4 Visibility of work in the value stream  
-Current or recent value streams are available in the orgarnizations to help teams fully understand the current situation, from the customer point of view, align on the problem across all roles in the organization.
+### 2.4. Visibility of work in the value stream  
+
+1. Current or recent value streams are available in the orgarnizations to help teams fully understand the current situation, from the customer point of view, align on the problem across all roles in the organization.  
   a. Strongly Agree (Ideal)  
   b. Agree  
   c. Undecided  
   d. Disagree  
   e. Strongly Disagree  
-Teams are able to use value streams to gain insight and guide necessary improvements to ensure you have the bandwidth to support functionality and the documentation to put it into place.
+
+2. Teams are able to use value streams to gain insight and guide necessary improvements to ensure you have the bandwidth to support functionality and the documentation to put it into place.  
   a. Strongly Agree (Ideal)  
   b. Agree  
   c. Undecided  
   d. Disagree  
   e. Strongly Disagree  
-Everyone in the organization have access to a visual display that shows what they're working on and the status of their work.
+
+3. Everyone in the organization have access to a visual display that shows what they're working on and the status of their work.  
   a. Strongly Agree (Ideal)  
   b. Agree  
   c. Undecided  
   d. Disagree  
   e. Strongly Disagree  
-Lead time, process time and %C/A are metrics to analyze the state of work within the value stream and information to determine barriers to flow and each process block. 
-   a. Very Frequently (Ideal)  
-   b. Frequently  
-   c. Occasionally  
-   d. Rarely  
-   e. Very Rarely  
-   f. Never 
-Teams continously improve business processes by identifying and eliminating waste.
-   a. Very Frequently (Ideal)  
-   b. Frequently  
-   c. Occasionally  
-   d. Rarely  
-   e. Very Rarely  
-   f. Never 
-  ## 2.5 Working in small batches
-Teams focus on building, testing, and releasing code changes to an (production or testing) environment in small batches.
-   a. Very Frequently (Ideal)  
-   b. Frequently  
-   c. Occasionally  
-   d. Rarely  
-   e. Very Rarely  
-   f. Never 
-Teams use “loosely coupled” architecture where they release and make changes independent of one another with continuous delivery 
+
+4. Lead time, process time and %C/A are metrics to analyze the state of work within the value stream and information to determine barriers to flow and each process block.  
    a. Very Frequently (Ideal)  
    b. Frequently  
    c. Occasionally  
    d. Rarely  
    e. Very Rarely  
    f. Never  
-What is the frequency of releases
-a. Weekly (Ideal)
-b. Monthly 
-c. Quarterly
-Every change passes the automated tests is deployed to production automatically
-  a. Strongly Agree (Ideal)  
-  b. Agree  
-  c. Undecided  
-  d. Disagree  
-  e. Strongly Disagree 
-Following production release, teams are able to amplify feedback from users quickly using techniques(ex: AB testing) and enable short lead times faster.
-  a. Strongly Agree (Ideal)  
-  b. Agree  
-  c. Undecided  
-  d. Disagree  
-  e. Strongly Disagree 
-  Following production release, teams are able to evaluate the results and fix bugs rapidly. 
+
+5. Teams continously improve business processes by identifying and eliminating waste.  
    a. Very Frequently (Ideal)  
    b. Frequently  
    c. Occasionally  
    d. Rarely  
    e. Very Rarely  
-   f. Never 
-Teams look into automated testing (and automated builds) for quality assurance on the efficiency of successful test automation and deployment-ready software.  
+   f. Never  
+
+### 2.5 Working in small batches  
+1. Teams focus on building, testing, and releasing code changes to an (production or testing) environment in small batches.  
+   a. Very Frequently (Ideal)  
+   b. Frequently  
+   c. Occasionally  
+   d. Rarely  
+   e. Very Rarely  
+   f. Never  
+
+2. Teams use “loosely coupled” architecture where they release and make changes independent of one another with continuous delivery  
+   a. Very Frequently (Ideal)  
+   b. Frequently  
+   c. Occasionally  
+   d. Rarely  
+   e. Very Rarely  
+   f. Never   
+3. What is the frequency of releases  
+   a. Weekly (Ideal)  
+   b. Monthly  
+   c. Quarterly   
+
+4. Every change passes the automated tests is deployed to production automatically  
   a. Strongly Agree (Ideal)  
   b. Agree  
   c. Undecided  
   d. Disagree  
-  e. Strongly Disagree 
+  e. Strongly Disagree  
+
+5. Following production release, teams are able to amplify feedback from users quickly using techniques(ex: AB testing) and enable short lead times faster.  
+  a. Strongly Agree (Ideal)  
+  b. Agree  
+  c. Undecided  
+  d. Disagree  
+  e. Strongly Disagree  
+
+6. Following production release, teams are able to evaluate the results and fix bugs rapidly.  
+   a. Very Frequently (Ideal)  
+   b. Frequently  
+   c. Occasionally  
+   d. Rarely  
+   e. Very Rarely  
+   f. Never  
+
+7. Teams look into automated testing (and automated builds) for quality assurance on the efficiency of successful test automation and deployment-ready software.  
+  a. Strongly Agree (Ideal)  
+  b. Agree  
+  c. Undecided  
+  d. Disagree  
+  e. Strongly Disagree  
 
 ## 3. Measurement Capabilities  
 
