@@ -470,9 +470,9 @@ The questionnaire will assess the team's capacity of independtly bringing new id
    c. Occasionally  
    d. Rarely  
    e. Very Rarely  
-   f. Never (Ideal)    
-
-  ### 2.3. Customer feedback
+   f. Never (Ideal)  
+  
+  ### 2.3. Customer feedback  
   This feedback can be gathered through two methods: structured and unstructured. The structured method is applied through surveys, questionnaires and focus groups. However unstructured feedback, which is delivered through Twitter, Facebook, etc., is often neglected
 
 1. How actively do you collect customer feedback on product and features quality?  
