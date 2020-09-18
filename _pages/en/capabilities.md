@@ -355,9 +355,9 @@ InfoSec supplies development teams and operational teams with an ample number of
 ## 2. Process Capabilities
 
 ### 2.1 Team experimentation
-The questionnaire will assess the team's capacity of independtly bringing new ideas, drafting and modifying specifications and stories during development without seeking approval from outside teams
+The questionnaire will assess the team's capacity of independtly bringing new ideas, drafting and modifying specifications and stories during development without seeking approval from outside teams  
 
-Teams feel enpowered to work on new ideas and continually improve solutions to foster experimentation. 
+1. Teams feel enpowered to work on new ideas and continually improve solutions to foster experimentation. 
   a. Strongly Agree (Ideal)  
   b. Agree  
   c. Undecided  
@@ -367,119 +367,136 @@ Teams feel enpowered to work on new ideas and continually improve solutions to f
   b. Agree  
   c. Undecided  
   d. Disagree  
-  e. Strongly Disagree
-Teams works in an environnent where they can be innovative. For example, modifying to stories and specifications during development. 
-  a. Strongly Agree (Ideal)  
-  b. Agree  
-  c. Undecided  
-  d. Disagree  
-  e. Strongly Disagree 
-Team members are able to foster a culture of continual experimentation.
-  a. Strongly Agree (Ideal)  
-  b. Agree  
-  c. Undecided  
-  d. Disagree  
-  e. Strongly Disagree
- Teams find ways to continously improve includes creating proofs of concept individually or with others, integrating to improve processes, and incorporating automated testing and scripted build and deployment processes. 
-  a. Strongly Agree (Ideal)  
-  b. Agree  
-  c. Undecided  
-  d. Disagree  
-  e. Strongly Disagree
-Tools and platforms are agreed upon by the team and tailored to the needs of the project.
-   a. Very Frequently (Ideal)  
-   b. Frequently  
-   c. Occasionally  
-   d. Rarely  
-   e. Very Rarely  
-   f. Never
-Teams promote team development and handle cross-functional activities.
-   a. Very Frequently (Ideal)  
-   b. Frequently  
-   c. Occasionally  
-   d. Rarely  
-   e. Very Rarely  
-   f. Never
+  e. Strongly Disagree  
 
-### 2.2 Streamlining change approval
-Teams execute peer review which includes reviews, comments, and approvals captured in the team's development platform as part of the development process.
-   a. Very Frequently (Ideal)  
-   b. Frequently  
-   c. Occasionally  
-   d. Rarely  
-   e. Very Rarely  
-   f. Never
-What amount of time do changes spend waiting for approval from external bodies? (If applicable)
-   a. 24 hours 
-   b. One week (Ideal) 
-   c. 2 weeks
-   d. One month
-   e. At the reviewers convenience  
-   f. No deadline 
-Teams rely on peer review to move forward in production annd manage changes.
-  a. Strongly Agree 
-  b. Agree  
-  c. Undecided  
-  d. Disagree  
-  e. Strongly Disagree (Ideal) 
-Teams carry out a manual change approval to be promoted to production. 
-  a. Strongly Agree 
-  b. Agree  
-  c. Undecided  
-  d. Disagree  
-  e. Strongly Disagree (Ideal)   
-Teams employ continuous testing, continuous integration, and comprehensive monitoring and observability to rapidly detect, prevent, and correct bad changes.
-   a. Very Frequently (Ideal)  
-   b. Frequently  
-   c. Occasionally  
-   d. Rarely  
-   e. Very Rarely  
-   f. Never
-Teams consider the development platform as a product by evaluating the changes on multiple axes, including security, performance,and stability, as well as defects.
-   a. Very Frequently (Ideal)  
-   b. Frequently  
-   c. Occasionally  
-   d. Rarely  
-   e. Very Rarely  
-   f. Never
-Teams study the change process end-to-end, identifying bottlenecks, and experimenting with ways to shift validations into the development platform. 
-   a. Very Frequently (Ideal)  
-   b. Frequently  
-   c. Occasionally  
-   d. Rarely  
-   e. Very Rarely  
-   f. Never
-Additional processes are added at the best interest of the software delivery process when faced with stability problems  in production.
-   a. Very Frequently (Ideal)  
-   b. Frequently  
-   c. Occasionally  
-   d. Rarely  
-   e. Very Rarely  
-   f. Never (Ideal)
-  ## 2.3 Customer feedback
-  This feedback can be gathered through two methods: structured and unstructured. The structured method is applied through surveys, questionnaires and focus groups. However unstructured feedback, which is delivered through Twitter, Facebook, etc., is often neglected
-
-How actively do you collect customer feedback on product and features quality?
-   a. Very Frequently (Ideal)  
-   b. Frequently  
-   c. Occasionally  
-   d. Rarely  
-   e. Very Rarely  
-   f. Never 
-Do you establish key metrics on customer satisfaction before gathering information from the customers? (Metrics)
-   a. Very Frequently (Ideal)  
-   b. Frequently  
-   c. Occasionally  
-   d. Rarely  
-   e. Very Rarely  
-   f. Never 
-After seeking customer feedbacks, the team utilizes the response to understand the pain points and find solutions quickly.
+2. Teams works in an environnent where they can be innovative. For example, modifying to stories and specifications during development. 
   a. Strongly Agree (Ideal)  
   b. Agree  
   c. Undecided  
   d. Disagree  
   e. Strongly Disagree  
-  ## 2.4 Visibility of work in the value stream
+
+3. Team members are able to foster a culture of continual experimentation.  
+  a. Strongly Agree (Ideal)  
+  b. Agree  
+  c. Undecided  
+  d. Disagree  
+  e. Strongly Disagree  
+
+ 4. Teams find ways to continously improve includes creating proofs of concept individually or with others, integrating to improve processes, and incorporating automated testing and scripted build and deployment processes.  
+  a. Strongly Agree (Ideal)  
+  b. Agree  
+  c. Undecided  
+  d. Disagree  
+  e. Strongly Disagree  
+
+5. Tools and platforms are agreed upon by the team and tailored to the needs of the project.  
+   a. Very Frequently (Ideal)  
+   b. Frequently  
+   c. Occasionally  
+   d. Rarely  
+   e. Very Rarely  
+   f. Never  
+
+6. Teams promote team development and handle cross-functional activities.  
+   a. Very Frequently (Ideal)  
+   b. Frequently  
+   c. Occasionally  
+   d. Rarely  
+   e. Very Rarely  
+   f. Never  
+
+### 2.2 Streamlining change approval  
+
+1. Teams execute peer review which includes reviews, comments, and approvals captured in the team's development platform as part of the development process.  
+   a. Very Frequently (Ideal)  
+   b. Frequently  
+   c. Occasionally  
+   d. Rarely  
+   e. Very Rarely  
+   f. Never  
+
+2. What amount of time do changes spend waiting for approval from external bodies? (If applicable)  
+   a. 24 hours 
+   b. One week (Ideal) 
+   c. 2 weeks
+   d. One month
+   e. At the reviewers convenience  
+   f. No deadline  
+
+3. Teams rely on peer review to move forward in production annd manage changes.  
+  a. Strongly Agree 
+  b. Agree  
+  c. Undecided  
+  d. Disagree  
+  e. Strongly Disagree (Ideal)  
+
+4. Teams carry out a manual change approval to be promoted to production.  
+  a. Strongly Agree 
+  b. Agree  
+  c. Undecided  
+  d. Disagree  
+  e. Strongly Disagree (Ideal)  
+
+5. Teams employ continuous testing, continuous integration, and comprehensive monitoring and observability to rapidly detect, prevent, and correct bad changes.  
+   a. Very Frequently (Ideal)  
+   b. Frequently  
+   c. Occasionally  
+   d. Rarely  
+   e. Very Rarely  
+   f. Never  
+
+6. Teams consider the development platform as a product by evaluating the changes on multiple axes, including security, performance,and stability, as well as defects.  
+   a. Very Frequently (Ideal)  
+   b. Frequently  
+   c. Occasionally  
+   d. Rarely  
+   e. Very Rarely  
+   f. Never  
+
+7. Teams study the change process end-to-end, identifying bottlenecks, and experimenting with ways to shift validations into the development platform.  
+   a. Very Frequently (Ideal)  
+   b. Frequently  
+   c. Occasionally  
+   d. Rarely  
+   e. Very Rarely  
+   f. Never  
+
+8. Additional processes are added at the best interest of the software delivery process when faced with stability problems  in production.  
+   a. Very Frequently (Ideal)  
+   b. Frequently  
+   c. Occasionally  
+   d. Rarely  
+   e. Very Rarely  
+   f. Never (Ideal)  
+
+  ### 2.3 Customer feedback
+  This feedback can be gathered through two methods: structured and unstructured. The structured method is applied through surveys, questionnaires and focus groups. However unstructured feedback, which is delivered through Twitter, Facebook, etc., is often neglected
+
+1. How actively do you collect customer feedback on product and features quality?  
+   a. Very Frequently (Ideal)  
+   b. Frequently  
+   c. Occasionally  
+   d. Rarely  
+   e. Very Rarely  
+   f. Never  
+
+2. Do you establish key metrics on customer satisfaction before gathering information from the customers? (Metrics)  
+   a. Very Frequently (Ideal)  
+   b. Frequently  
+   c. Occasionally  
+   d. Rarely  
+   e. Very Rarely  
+   f. Never  
+
+3. After seeking customer feedbacks, the team utilizes the response to understand the pain points and find solutions quickly.  
+  a. Strongly Agree (Ideal)  
+  b. Agree  
+  c. Undecided  
+  d. Disagree  
+  e. Strongly Disagree  
+
+### 2.4 Visibility of work in the value stream  
 Current or recent value streams are available in the orgarnizations to help teams fully understand the current situation, from the customer point of view, align on the problem across all roles in the organization.
   a. Strongly Agree (Ideal)  
   b. Agree  
