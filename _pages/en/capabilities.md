@@ -108,253 +108,215 @@ Points: 28
 
 #### Application code
 
-What percentage of application code do you store in version control?
+What percentage of application code do you store in version control?  
+- Percentage slider  
+- Ideal: 100%  
 
-- Percentage slider
-  - Ideal: 100%
-
-How easily and quickly can a team recover application code from the version control system?
-
-- 1-7 scale (very easily -> with great difficulty)
-  - Ideal: Very easily
+How easily and quickly can a team recover application code from the version control system?  
+- 1-7 scale (very easily -> with great difficulty)  
+- Ideal: Very easily  
 
 #### System configurations
 
-What percentage of system configurations do you store in version control?
+What percentage of system configurations do you store in version control?  
+- Percentage slider  
+- Ideal: 100%  
 
-- Percentage slider
-  - Ideal: 100%
-
-How easily and quickly can teams reconfigure systems from version control?
-
-- 1-7 scale (very easily -> with great difficulty)
-  - Ideal: Very easily
+How easily and quickly can teams reconfigure systems from version control?  
+- 1-7 scale (very easily -> with great difficulty)  
+- Ideal: Very easily  
 
 #### Application configuration
 
-What percentage of application configurations do you store in version control?
+What percentage of application configurations do you store in version control?  
+- Percentage slider  
+  - Ideal: 100%  
 
-- Percentage slider
-  - Ideal: 100%
+How easily and quickly can teams reconfigure applications from code in the version control system?  
+- 1-7 scale (very easily -> with great difficulty)  
+- Ideal: Very easily  
 
-How easily and quickly can teams reconfigure applications from code in the version control system?
+What percentage of scripts for automating build and configuration do you store in version control?  
+- Percentage slider  
+- Ideal: 100%  
 
-- 1-7 scale (very easily -> with great difficulty)
-  - Ideal: Very easily
+How quickly and easily can you re-provision systems by using scripts from version control?  
+- 1-7 scale (very easily -> with great difficulty)  
+- Ideal: Very easily  
 
-What percentage of scripts for automating build and configuration do you store in version control?
+#### Recommendations  
 
-- Percentage slider
-  - Ideal: 100%
+- Ensure that every commit to version control triggers the automated creation of packages that can be deployed to any environment using only information in version control.  
 
-How quickly and easily can you re-provision systems by using scripts from version control?
+- Make it possible to create production-like test environments on demand using only scripts and configuration information from version control, and to create packages using the automated process described in the previous approach.  
 
-- 1-7 scale (very easily -> with great difficulty)
-  - Ideal: Very easily
-
-#### Recommendations
-
-- Ensure that every commit to version control triggers the automated creation of packages that can be deployed to any environment using only information in version control.
-
-- Make it possible to create production-like test environments on demand using only scripts and configuration information from version control, and to create packages using the automated process described in the previous approach.
-
-- Script testing and production infrastructure so that teams can add capacity or recover from disasters in a fully automated fashion.
+- Script testing and production infrastructure so that teams can add capacity or recover from disasters in a fully automated fashion.  
 
 ### Continuous Integration
 
 Points: 64
 
 What percentage of code commits result in a software build without manual intervention?
+- Percentage slider  
+- Ideal: 0%  
 
-- Percentage slider
-  - Ideal: 0%
+Are builds available to testers?  
+- 1 -> 7 (builds are easily made available to testers -> builds are not completely unavailable to testers)  
+- Ideal: Easily made available (1)  
 
-Are builds available to testers?
+What percentage of tests provide feedback that is available to developers within a day?  
+- Percentage slider  
+- Ideal: 100%  
 
-- 1 -> 7 (builds are easily made available to testers -> builds are not completely unavailable to testers)
-  - Ideal: Easily made available (1)
+How long does it takes between the build breaking and having it fixed, either with a check-in that fixes the problem, or by reverting the breaking change?  
+- Ideal: Less than a day  
+- Between one day and one week  
+- Between one week and one month  
+- Between one month and six months  
 
-What percentage of tests provide feedback that is available to developers within a day?
+All builds are numbered and repeatable  
+- 1-7 (Strongly agree -> Strong disagree)  
+- Ideal: Strongly agree (1)  
 
-- Percentage slider
-  - Ideal: 100%
+How often are automated tests run?  
+- 1 – 7 (daily or numerous times per day -> never or almost never)  
+- Ideal: Daily or numerous (1)  
 
-How long does it takes between the build breaking and having it fixed, either with a check-in that fixes the problem, or by reverting the breaking change?
-
-- Ideal: Less than a day
-- Between one day and one week
-- Between one week and one month
-- Between one month and six months
-
-All builds are numbered and repeatable
-
-- 1-7 (Strongly agree -> Strong disagree)
-  - Ideal: Strongly agree (1)
-
-How often are automated tests run?
-
-- 1 – 7 (daily or numerous times per day -> never or almost never)
-  - Ideal: Daily or numerous (1)
-
-How long do tests and build take?
-
-- Ideal: Less than a day
-- Between one day and one week
-- Between one week and one month
-- Between one month and six months
+How long do tests and build take?  
+- Ideal: Less than a day  
+- Between one day and one week  
+- Between one week and one month  
+- Between one month and six months  
 
 ### Deployment Automation
 
 Points: 21
 
-How many manual steps are in your deployment process?
+How many manual steps are in your deployment process?  
+- Ideal: 0  
+- 1-5  
+- 5-25  
+- 25+  
 
-- Ideal: 0
-- 1-5
-- 5-25
-- 25+
+What percentage of the deployment steps are automated?  
+- Percentage slider  
+- Ideal: 100%  
 
-What percentage of the deployment steps are automated?
-
-- Percentage slider
-  - Ideal: 100%
-
-How much time spent is spent on delays in the deployment pipeline?
-
-- Ideal: Less than a day
-- Between one day and one week
-- Between one week and one month
-- Between one month and six months
+How much time spent is spent on delays in the deployment pipeline?  
+- Ideal: Less than a day  
+- Between one day and one week  
+- Between one week and one month  
+- Between one month and six months  
 
 ### Trunk-based development
 
 Points: 28
 
-For your main application, how many active branches on the application's code repository?
+For your main application, how many active branches on the application's code repository?  
+- Idea: Three or fewer active branches  
+- Three to five active branches  
+- Five to ten active branches  
+- More than ten active branche  
 
-- Idea: Three or fewer active branches
-- Three to five active branches
-- Five to ten active branches
-- More than ten active branche
+How often does your team do code freezes for their main application?  
+- 1-7 scale (never to regularly)  
+- Ideal: Never  
 
-How often does your team do code freezes for their main application?
+How often does your team merge branches or forks into the trunk (master)?  
+- 1-7 scale (at least once a day to once or twice a year, or longer)  
+- Ideal: At least once a day (1)  
 
-- 1-7 scale (never to regularly)
-  - Ideal: Never
-
-How often does your team merge branches or forks into the trunk (master)?
-
-- 1-7 scale (at least once a day to once or twice a year, or longer)
-  - Ideal: At least once a day (1)
-
-How often are code reviews completed and approved?
-
-- 1-7 scale (as part of daily work to never)
-  - Ideal: As part of daily work (1)
+How often are code reviews completed and approved?  
+- 1-7 scale (as part of daily work to never)  
+- Ideal: As part of daily work (1)  
 
 ### Test automation
 
 Total Points: 49
 
-What percentage of acceptance tests are written by developers?
+What percentage of acceptance tests are written by developers?  
+- 1-7 (all to none)  
+- Ideal: all (1)  
 
-- 1-7 (all to none)
-  - Ideal: all (1)
-
-How often are bugs found during testing phases?
-
+How often are bugs found during testing phases?  
 - 1-7 (often to rarely)
-  - Ideal: Often (1)
+- Ideal: Often (1)  
 
-How often are bugs found via exploratory testing, or in production?
+How often are bugs found via exploratory testing, or in production?  
+- 1-7 (often to rarely)  
+- Ideal: Rarely (7)  
 
-- 1-7 (often to rarely)
-  - Ideal: Rarely (7)
+How often do automated tests accurately reflect a defect in the system?  
+- 1-7 (often to rarely or there are no automated tests)  
+- Idea: Often (1)  
 
-How often do automated tests accurately reflect a defect in the system?
+How many test suites run in pipeline triggers?  
+- 1-7 (All test suites run in every pipeline trigger -> no test suits run or there are no pipeline triggers)  
+- Ideal: All test suites run in every pipeline trigger (1)  
 
-- 1-7 (often to rarely or there are no automated tests)
-  - Idea: Often (1)
+What percentage of code commits result in automated tests being run without manual intervention?  
+- Percentage slider  
+- Ideal: 100%  
 
-How many test suites run in pipeline triggers?
-
-- 1-7 (All test suites run in every pipeline trigger -> no test suits run or there are no pipeline triggers)
-  - Ideal: All test suites run in every pipeline trigger (1)
-
-What percentage of code commits result in automated tests being run without manual intervention?
-
-- Percentage slider
-  - Ideal: 100%
-
-What percentage of automated builds and tests that are executed successfully every day?
-
-- Percentage slider
-  - Ideal: 100%
+What percentage of automated builds and tests that are executed successfully every day?  
+- Percentage slider  
+- Ideal: 100%  
 
 ### Architecture
 
 Points: 7
 
-Our main application is broken down into independently operable sub-components?
-
-- 1-7 (strongly agree to strongly disagree)
-  - Ideal: strongly agree (1)
+Our main application is broken down into independently operable sub-components?  
+- 1-7 (strongly agree to strongly disagree)   
+- Ideal: strongly agree (1)  
 
 ### Empowering teams
 
 Points: 7
 
-I have influence over the tech stack that I work with
-
-- 1-7 (strongly agree, strongly disagree)
-  - Ideal: Strongly agree (1)
+I have influence over the tech stack that I work with  
+- 1-7 (strongly agree, strongly disagree)  
+- Ideal: Strongly agree (1)  
 
 ### Test data management
 
 Points: 21
 
-Adequate test data is available to run full automated test suites
+Adequate test data is available to run full automated test suites  
+- 1 –7 (strongly agree, strongly disagree)  
+- Ideal: Strongly agree (1)  
 
-- 1 –7 (strongly agree, strongly disagree)
-  - Ideal: Strongly agree (1)
+Test data for automated test suites can be acquired on demand  
+- 1-7 (strongly agree, strongly disagree)  
+- Ideal: Strongly agree (1)  
 
-Test data for automated test suites can be acquired on demand
-
+Test data doesn't limit or constrain the automated tests that teams can run  
 - 1-7 (strongly agree, strongly disagree)
-  - Ideal: Strongly agree (1)
-
-Test data doesn't limit or constrain the automated tests that teams can run
-
-- 1-7 (strongly agree, strongly disagree)
-  - Ideal: Strongly agree (1)
+- Ideal: Strongly agree (1)
 
 ### Shift left on Security
 
 Points: 28
 
-What percentage of features undergo security review early in the design process?
+What percentage of features undergo security review early in the design process?  
+- Percentage slider  
+- Idea: 100%  
 
-- Percentage slider
-  - Idea: 100%
+Security reviews slow down the development cycle  
+- 1-7 (strongly agree, strongly disagree)  
+- Ideal: Strongly disagree (7)  
 
-Security reviews slow down the development cycle
+Security reviews are captured at each of the stages of the software development lifecycle (design, develop, test, and release)  
+- 1-7 (strongly agree, strongly disagree)  
+- Ideal: Strongly agree (1)  
 
-- 1-7 (strongly agree, strongly disagree)
-  - Ideal: Strongly disagree (7)
+InfoSec supplies development teams and operational teams with an ample number of approved libraries, packages, and toolchains  
+- 1-7 (strongly agree, strongly disagree)  
+- Ideal: Strongly agree (1)  
 
-Security reviews are captured at each of the stages of the software development lifecycle (design, develop, test, and release)
+## 2. Process Capabilities  
 
-- 1-7 (strongly agree, strongly disagree)
-  - Ideal: Strongly agree (1)
-
-InfoSec supplies development teams and operational teams with an ample number of approved libraries, packages, and toolchains
-
-- 1-7 (strongly agree, strongly disagree)
-  - Ideal: Strongly agree (1)
-
-## 2. Process Capabilities
-
-### 2.1 Team experimentation
+### 2.1 Team experimentation  
 The questionnaire will assess the team's capacity of independtly bringing new ideas, drafting and modifying specifications and stories during development without seeking approval from outside teams  
 
 1. Teams feel enpowered to work on new ideas and continually improve solutions to foster experimentation.  
