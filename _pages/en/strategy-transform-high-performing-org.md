@@ -12,15 +12,13 @@ permalink: /strategy-transform-high-performing-org.html
 
 - [Introduction](#introduction)
   - [Purpose](#purpose)
-  - [Target Audience](#target-audience)
+  - [Targeted Stakeholders](#targeted-stakeholders)
   - [Business Case](#business-case)
 - [Guiding Policy](#guiding-policy)
   - [Governance, Compliance, and Reporting](#governance-compliance-and-reporting)
-  - [Finance](#finance)
-  - [Legal](#legal)
-  - [Architecture](#architecture)
 - [Coherent set of actions](#coherent-set-of-actions)
 - [Measuring the Strategy's success](#measuring-the-strategys-success)
+- [Appendix B - Traceability Matrix](#appendix-b---traceability-matrix)
 
 ## Introduction
 
@@ -77,7 +75,7 @@ Metrics must be tied to the metrics of their direct report, from Team Leaders, t
 
 {% include table.html table-id="t001" element-id="hpo-actions" file="transform-high-performing-org"%}
 
-## Measuring the Strategy’s success
+## Measuring the Strategy's success
 
 [Upcoming]
 
