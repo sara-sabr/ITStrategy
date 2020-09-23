@@ -25,6 +25,11 @@
     - col:
       data:
         list: false
+        fr: Lead
+        en: Lead 
+    - col:
+      data:
+        list: false
         fr: Parties prenantes
         en: Stakeholders 
   - row:
@@ -48,16 +53,18 @@
           Define the IT Solution concept and scope for use and assessment by EARB and IITB teams.
     - col:
       data:
+        list: false
+        fr: <strong>Équipes d'architecture</strong>
+        en: |
+          <strong>Architecture Teams</strong>
+          <br>(Includes: Enterprise, Business, Data, Information, Solution, Technical, IT Security, and Security Architecture)
+    - col:
+      data:
         list: true
         items:
         - item:
-            fr: <strong>Équipes d'architecture</strong>
-            en: |
-              <strong>Architecture Teams</strong>
-              <br>(Includes: Enterprise, Business, Data, Information, Solution, Technical, IT Security, and Security Architecture)
-        - item:
             fr:
-            en: Senior Advisors
+            en: Senior Application Development Advisors
         - item:
             fr:
             en: IT Strategy
@@ -95,16 +102,18 @@
           ESDC Business Capability Model should be leveraged to help define IT Solution concept boundaries.
     - col:
       data:
+        list: false
+        fr: <strong>Équipes d'architecture</strong>
+        en: |
+          <strong>Architecture Teams</strong>
+          <br>(Includes: Enterprise, Business, Data, Information, Solution, Technical, IT Security, and Security Architecture)
+    - col:
+      data:
         list: true
         items:
         - item:
-            fr: <strong>Équipes d'architecture</strong>
-            en: |
-              <strong>Architecture Teams</strong>
-              <br>(Includes: Enterprise, Business, Data, Information, Solution, Technical, IT Security, and Security Architecture)
-        - item:
             fr:
-            en: Senior Advisors
+            en: Senior Application Development Advisors
         - item:
             fr:
             en: IT Strategy
@@ -149,16 +158,18 @@
           <strong>Reduces</strong>: lock-in situations, whether contractual or technological, maintenance, customization, etc.
     - col:
       data:
+        list: false
+        fr: <strong>Équipes d'architecture</strong>
+        en: |
+          <strong>Architecture Teams</strong>
+          <br>(Includes: Enterprise, Business, Data, Information, Solution, Technical, IT Security, and Security Architecture)
+    - col:
+      data:
         list: true
         items:
         - item:
-            fr: <strong>Équipes d'architecture</strong>
-            en: |
-              <strong>Architecture Teams</strong>
-              <br>(Includes: Enterprise, Business, Data, Information, Solution, Technical, IT Security, and Security Architecture)
-        - item:
             fr:
-            en: Senior Advisors
+            en: Senior Application Development Advisors
         - item:
             fr:
             en: IT Strategy
@@ -200,13 +211,15 @@
           Then, adjust governance and committees ToRs to be aligned with the desired outomes.
     - col:
       data:
+        list: false
+        fr: <strong>Équipes d'architecture</strong>
+        en: |
+          <strong>Architecture Teams</strong>
+          <br>(Includes: Enterprise, Business, Data, Information, Solution, Technical, IT Security, and Security Architecture)
+    - col:
+      data:
         list: true
         items:
-        - item:
-            fr: <strong>Équipes d'architecture</strong>
-            en: |
-              <strong>Architecture Teams</strong>
-              <br>(Includes: Enterprise, Business, Data, Information, Solution, Technical, IT Security, and Security Architecture)
         - item:
             fr:
             en: IT Strategy
@@ -218,7 +231,7 @@
             en: DG Committee
         - item:
             fr:
-            en: Senior Advisors
+            en: Senior Application Development Advisors
         - item:
             fr:
             en: OCMC
@@ -252,11 +265,14 @@
             Officially review the ESDC OSS Framework and endorse it. 
     - col:
       data:
+        list: false
+        fr: <strong>Architecture Technologique</strong>
+        en: |
+          <strong>Technology Architecture</strong>
+    - col:
+      data:
         list: true
         items:
-        - item:
-            fr:
-            en: EARB
         - item:
             fr:
             en: Legal
@@ -285,11 +301,17 @@
             Leverage the Cloud CoE showback model to help explain use of services as part of an IT Solution and IT Products costing vs project budgeting.
     - col:
       data:
+        list: false
+        fr: <strong>À confirmer</strong>
+        en: |
+          <strong>TBC</strong>
+    - col:
+      data:
         list: true
         items:
         - item:
             fr:
-            en: <strong>Cloud CoE</strong>
+            en: Cloud CoE
         - item:
             fr:
             en: IITB Finance
@@ -320,13 +342,15 @@
             Produce a Total Cost of Ownership Framework to provide guidance on assessing the full lifecycle costs of adopting IT Solutions (acquisition, operation and end-of-life)
     - col:
       data:
+        list: false
+        fr: <strong>Équipes d'architecture</strong>
+        en: |
+          <strong>Architecture Teams</strong>
+          <br>(Includes: Enterprise, Business, Data, Information, Solution, Technical, IT Security, and Security Architecture)
+    - col:
+      data:
         list: true
         items:
-        - item:
-            fr: <strong>Équipes d'architecture</strong>
-            en: |
-              <strong>Architecture Teams</strong>
-              <br>(Includes: Enterprise, Business, Data, Information, Solution, Technical, IT Security, and Security Architecture)
         - item:
             fr:
             en: IITB Finance
@@ -357,11 +381,14 @@
             Produce an ESDC Software Legal Terms Guidance to support the adoption of OSS, help manage the legal complexities of Cloud subscriptions and support teams in assessing the shared risk and responsibilities 
     - col:
       data:
+        list: false
+        fr: <strong>Services Légaux</strong>
+        en: |
+          <strong>Legal Services</strong>
+    - col:
+      data:
         list: true
         items:
-        - item:
-            fr:
-            en: <strong>Legal</strong>
         - item:
             fr:
             en: Cloud CoE

@@ -7,7 +7,7 @@ status: posted
 sections: Strategies
 datatable-ids: t001
 version: 0.05
-date: "2020-07-29"
+date: "2020-09-23"
 permalink: /strategy-build-vs-buy.html
 ---
 <!-- markdownlint-disable MD033 -->
@@ -196,7 +196,7 @@ And, any solution designed, developed, and delivered by a third party should sti
 
 As such, if the organization is not in a position to design, build and operate the solution itself, the third party putting the solution together for the benefit of ESDC should have clear directives to align with our own architectural principles.
 
-#### Risk Managing the Obtention of Software<!-- omit in toc -->
+#### Managing the Risks related to Obtaining Software<!-- omit in toc -->
 
 The Strategy looks at managing the risks related to obtaining software over following dogmatic rules to purchase or build software (e.g. "SaaS first" does not mean SaaS always, "Buy what we can" does not mean buying because it's available).
 Instead, the Strategy will use such policy instruments as intended by the policy author and its authority to inform decisions for long-term sustainability and user needs.
@@ -394,7 +394,7 @@ Note 2: Assumptions when reading this document
 | 0.02    | 2020-06-30     | Created list of guiding policy rules, Removed duplicate content, Created separate documents for context, Cleaned up definitions            |
 | 0.03    | 2020-07-06     | Simplify set of guiding policy rules                                                                                                       |
 | 0.04    | 2020-07-17     | Add Assumptions to notes, clarify Appendix A - Business Case, Dispose of first round of comments                                           |
-| 0.05    | 2020-07-29     | Dispose v0.04 feedback, simplify rules, address duplication of content, realign strategy with Enterprise Architecture Mandatory Procedures |
+| 0.05    | 2020-07-29     | Dispose v0.04 feedback, simplify rules, address duplication of content, realign strategy with Enterprise Architecture Mandatory Procedures, Clarify lead vs stakeholder on actions |
 
 ## Appendix F - References
 
