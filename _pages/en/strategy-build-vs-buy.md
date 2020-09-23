@@ -196,7 +196,7 @@ And, any solution designed, developed, and delivered by a third party should sti
 
 As such, if the organization is not in a position to design, build and operate the solution itself, the third party putting the solution together for the benefit of ESDC should have clear directives to align with our own architectural principles.
 
-#### Risk Managing the Obtention of Software<!-- omit in toc -->
+#### Managing the Risks related to Obtaining Software<!-- omit in toc -->
 
 The Strategy looks at managing the risks related to obtaining software over following dogmatic rules to purchase or build software (e.g. "SaaS first" does not mean SaaS always, "Buy what we can" does not mean buying because it's available).
 Instead, the Strategy will use such policy instruments as intended by the policy author and its authority to inform decisions for long-term sustainability and user needs.
