@@ -13,42 +13,40 @@ Questions will measure and support the [Continuous Improvement](https://cloud.go
 
 ## Question Types
 
-Do you agreed with ..? [1-7]
+**Do you agreed with** [1-7]
 
 1. Strongly Disagree
-2.  
-3.  
+2. .
+3. .
 4. Neither Agree nor Disagree
-5.  
-6.  
+5. .
+6. .
 7. Strongly Agree
 
-Percentage [0-100]
-
-How much time ..?
+**How much time** [time]
 
 - More than one week
 - One day to one week
 - Less than one day
 
+**Percentage** [%]
+
+- 0 to 100
+
 ## Table of Content
 
 - [Technical Capabilities](#1-technical-capabilities)
-  - [Version control](#11-version-control)
-  - [Continuous integration](#12-continuous-integration)
-  - Deployment automation
-  - Trunk-based development
-  - Test automation
-  - Architecture
-  - Empowering teams to choose tools
-  - Test data management
-  - Shifting left on security
+  - [Version Control and Code Maintainability](#11-version-control-and-code-maintainability)
+  - [Continuous Integration and Deployment](#12-continuous-integration-and-deployment)
+  - [Continuous testing](#13-continuous-testing)
+  - [Architecture](#14-architecture)
+  - [Cloud infrastructure](#14-cloud-infrastructure)
 - [Process Capabilities](#2-process-capabilities)
-  - Team experimentation
+  - [Team experimentation](#21-team-experimentation)
   - [Streamlining change approval](#22-streamlining-change-approval)
-  - Customer feedback
-  - Visibility of work in the value stream
-  - Working in small batches
+  - [Customer feedback](#23-customer-feedback)
+  - [Visibility of work in the value stream](#24-visibility-of-work-in-the-value-stream)
+  - [Working in small batches](#25-working-in-small-batches)
 - [Measurement Capabilities](#3-measurement-capabilities)
   - Monitoring systems to inform business decisions
   - Proactive failure notification
@@ -63,13 +61,13 @@ How much time ..?
 
 ### 1.1. Version Control and Code Maintainability
 
-- What % of application code do you store in version control?
+- What % of application code do you store in version control? [%]
 - My team can recover application code from the version control system. [1-7]
-- What % of system configurations do you store in version control?
+- What % of system configurations do you store in version control? [%]
 - My team can reconfigure systems from version control. [1-7]
-- What % of application configurations do you store in version control?
+- What % of application configurations do you store in version control? [%]
 - My team can reconfigure applications from code in the version control system. [1-7]
-- What % of scripts for automating build and configuration do you store in version control?
+- What % of scripts for automating build and configuration do you store in version control? [%]
 - My team can re-provision systems by using scripts from version control. [1-7]
 - It is easy for us to change code maintained by other teams if we need to. [1-7]
 - It is easy to find examples in our codebase. [1-7]
@@ -92,7 +90,7 @@ Average of "Do you agreed with" questions
 - Medium: 4-5
 - High: 6-7
 
-#### Recomendations
+#### Recommendations
 
 IF < High
 
@@ -102,24 +100,24 @@ IF < High
 ### 1.2. Continuous Integration and Deployment
 
 - Code commits trigger a build of the software. [1-7]
-- The % of code commits that result in a software build without manual intervention.
+- The % of code commits that result in a software build without manual intervention. [%]
 - Code commits trigger a series of automated tests. [1-7]
-- The % of code commits that result in a suite of automated tests being run without manual intervention.
+- The % of code commits that result in a suite of automated tests being run without manual intervention. [%]
 - Automated builds and tests are executed successfully every day. [1-7]
-- The % of automated builds and the percentage of automated tests that are executed successfully every day.
+- The % of automated builds and the percentage of automated tests that are executed successfully every day. [%]
 - Current builds are available to testers for exploratory testing. [1-7]
 - Developers get feedback from the acceptance and performance tests every day. [1-7]
-- The % of tests that provide feedback that is available to developers within a day.
+- The % of tests that provide feedback that is available to developers within a day. [%]
 - Broken builds are fixed immediately [1-7]
-- How much time between the build breaking and having it fixed, either with a check-in that fixes the problem, or by reverting the breaking change.
-- The % of automation in your deployment pipeline
+- How much time between the build breaking and having it fixed, either with a check-in that fixes the problem, or by reverting the breaking change. [time]
+- The % of automation in your deployment pipeline [%]
 - How much time spent on delays in the deployment pipeline?
 - Adequate test data is available to run full automated test suites. [1-7]
 - Test data for automated test suites can be acquired on demand. [1-7]
 - Test data doesn’t limit or constrain the automated tests that teams can run. [1-7]
-- The % of features that undergo security review early in the design process.
+- The % of features that undergo security review early in the design process. [%]
 - Security reviews DO NOT slow down the development cycle. [0-7]
-- The % of security requirements that are included in the automated testing process.
+- The % of security requirements that are included in the automated testing process. [%]
 - Security supplies teams with an ample number of approved libraries, packages, and toolchains for use. [0-7]
 
 #### Scoring
@@ -142,7 +140,7 @@ Average of "How much time" questions
 - One day to one week (Medium)
 - Less than one day (High)
 
-#### Recomendations
+#### Recommendations
 
 IF < High
 
@@ -159,7 +157,7 @@ IF < High
 - Test failures are likely to indicate a real defect. [0-7]
 - It is easy for developers to fix acceptance test failures. [0-7]
 - Developers use their own development environment to reproduce acceptance failures. [0-7]
-- Automated tests are seamlessly integrated into our software delivery toolchain. [0-7]
+- Automated tests are seamlessly integrated into our software delivery tech bricks. [0-7]
 - We continuously review and improve our test suite to better find defects and keep complexity and cost under control. [0-7]
 - We have the test data necessary to run our tests easily at every step. [0-7]
 - Testers work alongside developers throughout the software development and delivery process. [0-7]
@@ -175,7 +173,7 @@ Average of "Do you agreed with" questions
 - Medium: 4-5
 - High: 6-7
 
-#### Recomendations
+#### Recommendations
 
 IF < High
 
@@ -199,7 +197,7 @@ Average of "Do you agreed with" questions
 - Medium: 4-5
 - High: 6-7
 
-#### Recomendations
+#### Recommendations
 
 IF < High
 
@@ -223,250 +221,139 @@ Average of "Do you agreed with" questions
 - Medium: 4-5
 - High: 6-7
 
-#### Recomendations
+#### Recommendations
 
 IF < High
 
 - https://cloud.google.com/solutions/devops/devops-tech-cloud-infrastructure
 
-
 ## 2. Process Capabilities
 
-### 2.1 Team experimentation
+### 2.1. Team experimentation
 
-The questionnaire will assess the team's capacity of independently bringing new ideas, drafting and modifying specifications and stories during development without seeking approval from outside teams
+- My team feels empowered to work on new ideas and continually improve solutions to foster experimentation. [0-7]
+- My team has the authority to create and change specifications as part of the development process without requiring approval. [0-7]
+- My team works in an environnent where they can be innovative. For example, modifying to stories and specifications during development. [0-7]
+- Team members are able to foster a culture of continual experimentation. [0-7]
+- My team finds ways to continuously improve includes creating proofs of concept individually or with others, integrating to improve processes, and incorporating automated testing and scripted build and deployment processes. [0-7]
+- Tools and platforms are agreed upon by the team and tailored to the needs of the project. [0-7]
+- My team promotes team development and handle cross-functional activities. [0-7]
 
-1. Teams feel empowered to work on new ideas and continually improve solutions to foster experimentation.
-  a. Strongly Agree (Ideal)
-  b. Agree
-  c. Undecided
-  d. Disagree
-  e. Strongly Disagree
+#### Scoring
 
-2. Teams have the authority to create and change specifications as part of the development process without requiring approval
-  a. Strongly Agree (Ideal)
-  b. Agree
-  c. Undecided
-  d. Disagree
-  e. Strongly Disagree
+Average of "Do you agreed with" questions
 
-3. Teams works in an environnent where they can be innovative. For example, modifying to stories and specifications during development.
-  a. Strongly Agree (Ideal)
-  b. Agree
-  c. Undecided
-  d. Disagree
-  e. Strongly Disagree
+- Low: 1-3
+- Medium: 4-5
+- High: 6-7
 
-4. Team members are able to foster a culture of continual experimentation.
-  a. Strongly Agree (Ideal)
-  b. Agree
-  c. Undecided
-  d. Disagree
-  e. Strongly Disagree
+#### Recommendations
 
-5. Teams find ways to continuously improve includes creating proofs of concept individually or with others, integrating to improve processes, and incorporating automated testing and scripted build and deployment processes.
-  a. Strongly Agree (Ideal)
-  b. Agree
-  c. Undecided
-  d. Disagree
-  e. Strongly Disagree
+IF < High
 
-6. Tools and platforms are agreed upon by the team and tailored to the needs of the project.
-   a. Very Frequently (Ideal)
-   b. Frequently
-   c. Occasionally
-   d. Rarely
-   e. Very Rarely
-   f. Never
-
-7. Teams promote team development and handle cross-functional activities.
-   a. Very Frequently (Ideal)
-   b. Frequently
-   c. Occasionally
-   d. Rarely
-   e. Very Rarely
-   f. Never
+- https://cloud.google.com/solutions/devops/devops-process-team-experimentation
 
 ### 2.2. Streamlining change approval
 
-1. Teams execute peer review which includes reviews, comments, and approvals captured in the team's development platform as part of the development process.
-   a. Very Frequently (Ideal)
-   b. Frequently
-   c. Occasionally
-   d. Rarely
-   e. Very Rarely
-   f. Never
+- My team executes peer review which includes reviews, comments, and approvals captured in the team's development platform as part of the development process. [0-7]
+- How much time do changes spend waiting for approval from external bodies? [time]
+- My team doesn't rely on peer review to move forward in production and manage changes. [0-7]
+- My team doesn't carry out a manual change approval to be promoted to production. [0-7]
+- My team employs continuous testing, continuous integration, and comprehensive monitoring and observability to rapidly detect, prevent, and correct bad changes. [0-7]
+- My team considers the development platform as a product by evaluating the changes on multiple axes, including security, performance,and stability, as well as defects. [0-7]
+- My team studies the change process end-to-end, identifying bottlenecks, and experimenting with ways to shift validations into the development platform. [0-7]
+- My team is confident we can get changes through the approval process in a timely manner and know the steps it takes to go from "submitted" to "accepted". [0-7]
 
-2. What amount of time do changes spend waiting for approval from external bodies? (If applicable)
-   a. 24 hours
-   b. One week (Ideal)
-   c. 2 weeks
-   d. One month
-   e. At the reviewers convenience
-   f. No deadline
+#### Scoring
 
-3. Teams rely on peer review to move forward in production and manage changes.
-  a. Strongly Agree
-  b. Agree
-  c. Undecided
-  d. Disagree
-  e. Strongly Disagree (Ideal)
+Average of "Do you agreed with" questions
 
-4. Teams carry out a manual change approval to be promoted to production.
-  a. Strongly Agree
-  b. Agree
-  c. Undecided
-  d. Disagree
-  e. Strongly Disagree (Ideal)
+- Low: 1-3
+- Medium: 4-5
+- High: 6-7
 
-5. Teams employ continuous testing, continuous integration, and comprehensive monitoring and observability to rapidly detect, prevent, and correct bad changes.
-   a. Very Frequently (Ideal)
-   b. Frequently
-   c. Occasionally
-   d. Rarely
-   e. Very Rarely
-   f. Never
+Answer of "How much time" questions
 
-6. Teams consider the development platform as a product by evaluating the changes on multiple axes, including security, performance,and stability, as well as defects.
-   a. Very Frequently (Ideal)
-   b. Frequently
-   c. Occasionally
-   d. Rarely
-   e. Very Rarely
-   f. Never
+- More than one week (Low)
+- One day to one week (Medium)
+- Less than one day (High)
 
-7. Teams study the change process end-to-end, identifying bottlenecks, and experimenting with ways to shift validations into the development platform.
-   a. Very Frequently (Ideal)
-   b. Frequently
-   c. Occasionally
-   d. Rarely
-   e. Very Rarely
-   f. Never
+#### Recommendations
 
-8. Additional processes are added at the best interest of the software delivery process when faced with stability problems  in production.
-   a. Very Frequently (Ideal)
-   b. Frequently
-   c. Occasionally
-   d. Rarely
-   e. Very Rarely
-   f. Never (Ideal)
+IF < High
+
+- https://cloud.google.com/solutions/devops/devops-process-streamlining-change-approval
 
 ### 2.3. Customer feedback
 
-  This feedback can be gathered through two methods: structured and unstructured. The structured method is applied through surveys, questionnaires and focus groups. However unstructured feedback, which is delivered through Twitter, Facebook, etc., is often neglected
+- My team actively collects customer feedback on product and features quality. [0-7]
+- My team establishes key metrics on customer satisfaction before gathering information from the customers. [0-7]
+- After seeking customer feedbacks, the team utilizes the response to understand the pain points and find solutions quickly. [0-7]
 
-1. How actively do you collect customer feedback on product and features quality?
-   a. Very Frequently (Ideal)
-   b. Frequently
-   c. Occasionally
-   d. Rarely
-   e. Very Rarely
-   f. Never
+#### Scoring
 
-2. Do you establish key metrics on customer satisfaction before gathering information from the customers? (Metrics)
-   a. Very Frequently (Ideal)
-   b. Frequently
-   c. Occasionally
-   d. Rarely
-   e. Very Rarely
-   f. Never
+Average of "Do you agreed with" questions
 
-3. After seeking customer feedbacks, the team utilizes the response to understand the pain points and find solutions quickly.
-  a. Strongly Agree (Ideal)
-  b. Agree
-  c. Undecided
-  d. Disagree
-  e. Strongly Disagree
+- Low: 1-3
+- Medium: 4-5
+- High: 6-7
+
+#### Recommendations
+
+IF < High
+
+- https://cloud.google.com/solutions/devops/devops-process-customer-feedback
 
 ### 2.4. Visibility of work in the value stream
 
-1. Current or recent value streams are available in the organizations to help teams fully understand the current situation, from the customer point of view, align on the problem across all roles in the organization.
-  a. Strongly Agree (Ideal)
-  b. Agree
-  c. Undecided
-  d. Disagree
-  e. Strongly Disagree
+- Current or recent value streams are available in the organizations to help my team fully understand the current situation, from the customer point of view, align on the problem across all roles in the organization. [0-7]
+- My team is able to use value streams to gain insight and guide necessary improvements to ensure you have the bandwidth to support functionality and the documentation to put it into place. [0-7]
+- Everyone in the organization have access to a visual display that shows what they're working on and the status of their work. [0-7]
+- Lead time, process time and %C/A are metrics to analyze the state of work within the value stream and information to determine barriers to flow and each process block. [0-7]
+- My team continuously improve business processes by identifying and eliminating waste. [0-7]
 
-2. Teams are able to use value streams to gain insight and guide necessary improvements to ensure you have the bandwidth to support functionality and the documentation to put it into place.
-  a. Strongly Agree (Ideal)
-  b. Agree
-  c. Undecided
-  d. Disagree
-  e. Strongly Disagree
+#### Scoring
 
-3. Everyone in the organization have access to a visual display that shows what they're working on and the status of their work.
-  a. Strongly Agree (Ideal)
-  b. Agree
-  c. Undecided
-  d. Disagree
-  e. Strongly Disagree
+Average of "Do you agreed with" questions
 
-4. Lead time, process time and %C/A are metrics to analyze the state of work within the value stream and information to determine barriers to flow and each process block.
-   a. Very Frequently (Ideal)
-   b. Frequently
-   c. Occasionally
-   d. Rarely
-   e. Very Rarely
-   f. Never
+- Low: 1-3
+- Medium: 4-5
+- High: 6-7
 
-5. Teams continuously improve business processes by identifying and eliminating waste.
-   a. Very Frequently (Ideal)
-   b. Frequently
-   c. Occasionally
-   d. Rarely
-   e. Very Rarely
-   f. Never
+#### Recommendations
+
+IF < High
+
+- https://cloud.google.com/solutions/devops/devops-process-work-visibility-in-value-stream
 
 ### 2.5 Working in small batches
 
-1. Teams focus on building, testing, and releasing code changes to an (production or testing) environment in small batches.
-   a. Very Frequently (Ideal)
-   b. Frequently
-   c. Occasionally
-   d. Rarely
-   e. Very Rarely
-   f. Never
+- My team focuses on building, testing, and releasing code changes to an (production or testing) environment in small batches. [0-7]
+- My team uses "loosely coupled" architecture where they release and make changes independent of one another with continuous delivery. [0-7]
+- How much time between releases? [time]
+- Every change that passes the automated tests is deployed to production automatically. [0-7]
+- Following production release, my team is able to amplify feedback from users quickly using techniques (ex: AB testing) and enable short lead times faster. [0-7]
+- Following production release, my team is able to evaluate the results and fix bugs rapidly. [0-7]
 
-2. Teams use “loosely coupled” architecture where they release and make changes independent of one another with continuous delivery
-   a. Very Frequently (Ideal)
-   b. Frequently
-   c. Occasionally
-   d. Rarely
-   e. Very Rarely
-   f. Never
-3. What is the frequency of releases
-   a. Weekly (Ideal)
-   b. Monthly
-   c. Quarterly
+#### Scoring
 
-4. Every change passes the automated tests is deployed to production automatically
-  a. Strongly Agree (Ideal)
-  b. Agree
-  c. Undecided
-  d. Disagree
-  e. Strongly Disagree
+Average of "Do you agreed with" questions
 
-5. Following production release, teams are able to amplify feedback from users quickly using techniques(ex: AB testing) and enable short lead times faster.
-  a. Strongly Agree (Ideal)
-  b. Agree
-  c. Undecided
-  d. Disagree
-  e. Strongly Disagree
+- Low: 1-3
+- Medium: 4-5
+- High: 6-7
 
-6. Following production release, teams are able to evaluate the results and fix bugs rapidly.
-   a. Very Frequently (Ideal)
-   b. Frequently
-   c. Occasionally
-   d. Rarely
-   e. Very Rarely
-   f. Never
+Answer of "How much time" questions
 
-7. Teams look into automated testing (and automated builds) for quality assurance on the efficiency of successful test automation and deployment-ready software.
-  a. Strongly Agree (Ideal)
-  b. Agree
-  c. Undecided
-  d. Disagree
-  e. Strongly Disagree
+- More than one week (Low)
+- One day to one week (Medium)
+- Less than one day (High)
+
+#### Recommendations
+
+IF < High
+
+- https://cloud.google.com/solutions/devops/devops-process-working-in-small-batches
 
 ## 3. Measurement Capabilities
 
@@ -803,42 +690,3 @@ Aim for a Westrum culture metric > 35
   c. Undecided
   d. Disagree
   e. Strongly Disagree
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Subsequent Scoring Guidelines
-
-All questions are worth 7 points
-
-For questions that are on a scale from 1-7, if they answer the ‘ideal’ choice, they get a score (S) of 7 points
-
-- For cases where 7 is the ideal score: S = v
-  - Where v equals the value selected
-
-- For cases where 1 is the ideal score: S = 7 – v + 1
-
-- For questions that are on a sliding percentage scale, the question is worth the selected slider percentage (p) times 7
-  - If the ideal score is 100% then: S = p*7
-  - If the ideal score is 0, then: S = \|1-p\| * 7
-    - \|x\| = absolute value of x (Ie: \|-x\| == x == \|x\| )
-
-- For questions that have x options, then the scoring is (where X is the selected answer & N is the number of questions)
-  - Where the Nth question is the ideal selection: S = X/N * 7
-  - Where 1 is the ideal selection: S = N-X-1/N * 7
