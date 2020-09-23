@@ -1,6 +1,6 @@
 ---
 layout: default
-title: High Performing DevOps Capabilities
+title: High Performing Digital Capabilities
 ref: it-capabilities
 lang: en
 status: posted
@@ -8,49 +8,30 @@ sections: Work In Progress
 permalink: /high-performing-it-capabilities.html
 ---
 
-The [State of DevOps Report](https://cloud.google.com/devops/state-of-devops/) has been published annually since 2014, as part of the DevOps Research and Assessment (DORA), a six-year research program that has validated a number of technical, process, measurement, and cultural [capabilities to drive higher software delivery and organizational performance](https://cloud.google.com/devops/#devops-capabilities).
+The [State of DevOps Report](https://cloud.google.com/devops/state-of-devops/) has been published annually since 2014, as part of the DevOps Research and Assessment (DORA), a six-year research program that has validated a number of technical, process, measurement, and cultural capabilities to drive higher software delivery and organizational performance.
+Questions will measure and support the [Continuous Improvement](https://cloud.google.com/solutions/devops/devops-culture-transform) of these capabilities in IITB and ESDC.
 
-## Section 0: General
+## Question Types
 
-The below section will determine where a given group fits regarding whether or not they are Elite, High, Medium, or Low performers.
+Do you agreed with ..? [1-7]
 
-### Deployment frequency
+1. Strongly Disagree
+2.  
+3.  
+4. Neither Agree nor Disagree
+5.  
+6.  
+7. Strongly Agree
 
-For the primary application service you work on, how often does your organization deploy code to production or release it to end users?
+Percentage [0-100]
 
-- Elite: On demand
-- High: Between once per day and once per week
-- Medium: Between once per week and once per month
-- Low: Between once per month and once every six months
+How much time ..?
 
-### Lead time for changes
+- More than one week
+- One day to one week
+- Less than one day
 
-For the primary application or service you work on, what is your lead time for changes (i.e., how long does it take to go from code committed to code successfully running in production)?
-
-- Elite: Less than a day
-- High: Between one day and one week
-- Medium: Between one week and one month
-- Low: Between one month and six months
-
-### Time to restore service
-
-For the primary application or service you work on, how long does it generally take to restore service when a service incident or a defect that impacts users occurs (e.g., unplanned outage or service impairment)?
-
-- Elite: Less than one hour
-- High: Less than one day
-- Medium: Less than one day
-- Low: Between one week and one month
-
-### Change failure rate
-
-For the primary application or service you work on, what percentage of changes to production or released to users result in degraded service (e.g., lead to service impairment or service outage) and subsequently require remediation (e.g., require a hot fix, rollback, fix forward, patch)?
-
-1. Elite: 0-15%
-2. High: 0-15%
-3. Medium: 0-15%
-4. Low: 46-60%
-
-[Continuous improvement](https://cloud.google.com/solutions/devops/devops-culture-transform) of the following capabilities:
+## Table of Content
 
 - [Technical Capabilities](#1-technical-capabilities)
   - [Version control](#11-version-control)
@@ -78,279 +59,176 @@ For the primary application or service you work on, what percentage of changes t
   - [Westrum organizational culture](#42-westrum-organizational-culture)
   - Learning culture
 
-## Subsequent Scoring Guidelines
-
-All questions are worth 7 points
-
-For questions that are on a scale from 1-7, if they answer the ‘ideal’ choice, they get a score (S) of 7 points
-
-- For cases where 7 is the ideal score: S = v
-  - Where v equals the value selected
-
-- For cases where 1 is the ideal score: S = 7 – v + 1
-
-- For questions that are on a sliding percentage scale, the question is worth the selected slider percentage (p) times 7
-  - If the ideal score is 100% then: S = p*7
-  - If the ideal score is 0, then: S = \|1-p\| * 7
-    - \|x\| = absolute value of x (Ie: \|-x\| == x == \|x\| )
-
-- For questions that have x options, then the scoring is (where X is the selected answer & N is the number of questions)
-  - Where the Nth question is the ideal selection: S = X/N * 7
-  - Where 1 is the ideal selection: S = N-X-1/N * 7
-
 ## 1. Technical Capabilities
 
-Total Points: 239
+### 1.1. Version Control and Code Maintainability
+
+- What % of application code do you store in version control?
+- My team can recover application code from the version control system. [1-7]
+- What % of system configurations do you store in version control?
+- My team can reconfigure systems from version control. [1-7]
+- What % of application configurations do you store in version control?
+- My team can reconfigure applications from code in the version control system. [1-7]
+- What % of scripts for automating build and configuration do you store in version control?
+- My team can re-provision systems by using scripts from version control. [1-7]
+- It is easy for us to change code maintained by other teams if we need to. [1-7]
+- It is easy to find examples in our codebase. [1-7]
+- It is easy to reuse other people’s code. [1-7]
+- It is easy to add new dependencies to a project. [1-7]
+- It is easy to migrate to a new version of a dependency. [1-7]
+- Dependencies are stable and rarely break teams' code. [1-7]
+
+#### Scoring
+
+Average of Percentage questions
+
+- Low: 0-49%
+- Medium: 50-89%
+- High: 90-100%
 
-### Version Control
+Average of "Do you agreed with" questions
+
+- Low: 1-3
+- Medium: 4-5
+- High: 6-7
+
+#### Recomendations
 
-Points: 28
+IF < High
 
-#### Application code
+- https://cloud.google.com/solutions/devops/devops-tech-version-control
+- https://cloud.google.com/solutions/devops/devops-tech-code-maintainability
+
+### 1.2. Continuous Integration and Deployment
 
-What percentage of application code do you store in version control?
+- Code commits trigger a build of the software. [1-7]
+- The % of code commits that result in a software build without manual intervention.
+- Code commits trigger a series of automated tests. [1-7]
+- The % of code commits that result in a suite of automated tests being run without manual intervention.
+- Automated builds and tests are executed successfully every day. [1-7]
+- The % of automated builds and the percentage of automated tests that are executed successfully every day.
+- Current builds are available to testers for exploratory testing. [1-7]
+- Developers get feedback from the acceptance and performance tests every day. [1-7]
+- The % of tests that provide feedback that is available to developers within a day.
+- Broken builds are fixed immediately [1-7]
+- How much time between the build breaking and having it fixed, either with a check-in that fixes the problem, or by reverting the breaking change.
+- The % of automation in your deployment pipeline
+- How much time spent on delays in the deployment pipeline?
+- Adequate test data is available to run full automated test suites. [1-7]
+- Test data for automated test suites can be acquired on demand. [1-7]
+- Test data doesn’t limit or constrain the automated tests that teams can run. [1-7]
+- The % of features that undergo security review early in the design process.
+- Security reviews DO NOT slow down the development cycle. [0-7]
+- The % of security requirements that are included in the automated testing process.
+- Security supplies teams with an ample number of approved libraries, packages, and toolchains for use. [0-7]
 
-- Percentage slider
-- Ideal: 100%
+#### Scoring
 
-How easily and quickly can a team recover application code from the version control system?
+Average of Percentage questions
 
-- 1-7 scale (very easily -> with great difficulty)
-- Ideal: Very easily
+- Low: 0-49%
+- Medium: 50-89%
+- High: 90-100%
 
-#### System configurations
+Average of "Do you agreed with" questions
 
-What percentage of system configurations do you store in version control?
+- Low: 1-3
+- Medium: 4-5
+- High: 6-7
 
-- Percentage slider
-- Ideal: 100%
+Average of "How much time" questions
 
-How easily and quickly can teams reconfigure systems from version control?
+- More than one week (Low)
+- One day to one week (Medium)
+- Less than one day (High)
 
-- 1-7 scale (very easily -> with great difficulty)
-- Ideal: Very easily
+#### Recomendations
 
-#### Application configuration
+IF < High
 
-What percentage of application configurations do you store in version control?
+- https://cloud.google.com/solutions/devops/devops-tech-continuous-integration
+- https://cloud.google.com/solutions/devops/devops-tech-deployment-automation
+- https://cloud.google.com/solutions/devops/devops-tech-test-data-management
+- https://cloud.google.com/solutions/devops/devops-tech-shifting-left-on-security
+- https://cloud.google.com/solutions/devops/devops-tech-continuous-delivery
 
-- Percentage slider
-  - Ideal: 100%
+### 1.3. Continuous testing
 
-How easily and quickly can teams reconfigure applications from code in the version control system?
+- Developers primarily create and maintain acceptance tests. [0-7]
+- When the automated tests pass, I am confident the software is releasable. [0-7]
+- Test failures are likely to indicate a real defect. [0-7]
+- It is easy for developers to fix acceptance test failures. [0-7]
+- Developers use their own development environment to reproduce acceptance failures. [0-7]
+- Automated tests are seamlessly integrated into our software delivery toolchain. [0-7]
+- We continuously review and improve our test suite to better find defects and keep complexity and cost under control. [0-7]
+- We have the test data necessary to run our tests easily at every step. [0-7]
+- Testers work alongside developers throughout the software development and delivery process. [0-7]
+- Manual test activities such as exploratory testing, usability testing, and acceptance testing are performed continuously throughout the delivery process. [0-7]
+- Developers practice test-driven development by writing unit tests before writing production code for all changes to the codebase. [0-7]
+- I can get feedback from automated tests in less than ten minutes both on local workstation and from the CI server. [0-7]
 
-- 1-7 scale (very easily -> with great difficulty)
-- Ideal: Very easily
+#### Scoring
 
-What percentage of scripts for automating build and configuration do you store in version control?
+Average of "Do you agreed with" questions
 
-- Percentage slider
-- Ideal: 100%
+- Low: 1-3
+- Medium: 4-5
+- High: 6-7
 
-How quickly and easily can you re-provision systems by using scripts from version control?
+#### Recomendations
 
-- 1-7 scale (very easily -> with great difficulty)
-- Ideal: Very easily
+IF < High
 
-#### Recommendations
+- https://cloud.google.com/solutions/devops/devops-tech-test-automation
+- https://cloud.google.com/solutions/devops/devops-tech-continuous-delivery
 
-- Ensure that every commit to version control triggers the automated creation of packages that can be deployed to any environment using only information in version control.
+### 1.4. Architecture
 
-- Make it possible to create production-like test environments on demand using only scripts and configuration information from version control, and to create packages using the automated process described in the previous approach.
+- My team can make large-scale changes to the design of their systems without the permission of somebody outside the team or depending on other teams. [0-7]
+- My team are able to complete work without needing fine-grained communication and coordination with people outside the team. [0-7]
+- My team deploy and release their product or service on demand, independently of the services it depends on or of other services that depend on it. [0-7]
+- My team do most of their testing on demand, without requiring an integrated test environment. [0-7]
+- My team can deploy during normal business hours with negligible downtime. [0-7]
+- My team feels that we're empowered to choose tools. [0-7]
 
-- Script testing and production infrastructure so that teams can add capacity or recover from disasters in a fully automated fashion.
+#### Scoring
 
-### Continuous Integration
+Average of "Do you agreed with" questions
 
-Points: 64
+- Low: 1-3
+- Medium: 4-5
+- High: 6-7
 
-What percentage of code commits result in a software build without manual intervention?
+#### Recomendations
 
-- Percentage slider
-- Ideal: 0%
+IF < High
 
-Are builds available to testers?
+- https://cloud.google.com/solutions/devops/devops-tech-architecture
+- https://cloud.google.com/solutions/devops/devops-tech-teams-empowered-to-choose-tools
+- https://cloud.google.com/solutions/devops/devops-tech-continuous-delivery
 
-- 1 -> 7 (builds are easily made available to testers -> builds are not completely unavailable to testers)
-- Ideal: Easily made available (1)
+### 1.5. Cloud infrastructure
 
-What percentage of tests provide feedback that is available to developers within a day?
+- Once I have access, I can independently provision and configure the cloud resources and capabilities required for my product or service on demand without raising tickets or requiring human interaction. [0-7]
+- The service or product that I primarily work on is designed to be accessed from a broad range of devices (e.g. smartphones, tablets, laptops) over the network without the need for proprietary plug-ins or protocols. [0-7]
+- The cloud my product or service runs on serves multiple teams and applications, with compute and infrastructure resources dynamically assigned and re-assigned based on demand. [0-7]
+- I can dynamically increase or decrease the cloud resources available for the service or product that I primarily support based on demand. [0-7]
+- I can monitor or control the quantity and/or cost of cloud resources used by the service or product that I primarily support. [0-7]
 
-- Percentage slider
-- Ideal: 100%
+#### Scoring
 
-How long does it takes between the build breaking and having it fixed, either with a check-in that fixes the problem, or by reverting the breaking change?
+Average of "Do you agreed with" questions
 
-- Ideal: Less than a day
-- Between one day and one week
-- Between one week and one month
-- Between one month and six months
+- Low: 1-3
+- Medium: 4-5
+- High: 6-7
 
-All builds are numbered and repeatable
+#### Recomendations
 
-- 1-7 (Strongly agree -> Strong disagree)
-- Ideal: Strongly agree (1)
+IF < High
 
-How often are automated tests run?
+- https://cloud.google.com/solutions/devops/devops-tech-cloud-infrastructure
 
-- 1 – 7 (daily or numerous times per day -> never or almost never)
-- Ideal: Daily or numerous (1)
-
-How long do tests and build take?
-
-- Ideal: Less than a day
-- Between one day and one week
-- Between one week and one month
-- Between one month and six months
-
-### Deployment Automation
-
-Points: 21
-
-How many manual steps are in your deployment process?
-
-- Ideal: 0
-- 1-5
-- 5-25
-- 25+
-
-What percentage of the deployment steps are automated?
-
-- Percentage slider
-- Ideal: 100%
-
-How much time spent is spent on delays in the deployment pipeline?
-
-- Ideal: Less than a day
-- Between one day and one week
-- Between one week and one month
-- Between one month and six months
-
-### Trunk-based development
-
-Points: 28
-
-For your main application, how many active branches on the application's code repository?
-
-- Idea: Three or fewer active branches
-- Three to five active branches
-- Five to ten active branches
-- More than ten active branche
-
-How often does your team do code freezes for their main application?
-
-- 1-7 scale (never to regularly)
-- Ideal: Never
-
-How often does your team merge branches or forks into the trunk (master)?
-
-- 1-7 scale (at least once a day to once or twice a year, or longer)
-- Ideal: At least once a day (1)
-
-How often are code reviews completed and approved?
-
-- 1-7 scale (as part of daily work to never)
-- Ideal: As part of daily work (1)
-
-### Test automation
-
-Total Points: 49
-
-What percentage of acceptance tests are written by developers?
-
-- 1-7 (all to none)
-- Ideal: all (1)
-
-How often are bugs found during testing phases?
-
-- 1-7 (often to rarely)
-- Ideal: Often (1)
-
-How often are bugs found via exploratory testing, or in production?
-
-- 1-7 (often to rarely)
-- Ideal: Rarely (7)
-
-How often do automated tests accurately reflect a defect in the system?
-
-- 1-7 (often to rarely or there are no automated tests)
-- Idea: Often (1)
-
-How many test suites run in pipeline triggers?
-
-- 1-7 (All test suites run in every pipeline trigger -> no test suits run or there are no pipeline triggers)
-- Ideal: All test suites run in every pipeline trigger (1)
-
-What percentage of code commits result in automated tests being run without manual intervention?
-
-- Percentage slider
-- Ideal: 100%
-
-What percentage of automated builds and tests that are executed successfully every day?
-
-- Percentage slider
-- Ideal: 100%
-
-### Architecture
-
-Points: 7
-
-Our main application is broken down into independently operable sub-components?
-
-- 1-7 (strongly agree to strongly disagree)
-- Ideal: strongly agree (1)
-
-### Empowering teams
-
-Points: 7
-
-I have influence over the tech stack that I work with
-
-- 1-7 (strongly agree, strongly disagree)
-- Ideal: Strongly agree (1)
-
-### Test data management
-
-Points: 21
-
-Adequate test data is available to run full automated test suites
-
-- 1 –7 (strongly agree, strongly disagree)
-- Ideal: Strongly agree (1)
-
-Test data for automated test suites can be acquired on demand
-
-- 1-7 (strongly agree, strongly disagree)
-- Ideal: Strongly agree (1)
-
-Test data doesn't limit or constrain the automated tests that teams can run
-
-- 1-7 (strongly agree, strongly disagree)
-- Ideal: Strongly agree (1)
-
-### Shift left on Security
-
-Points: 28
-
-What percentage of features undergo security review early in the design process?
-
-- Percentage slider
-- Idea: 100%
-
-Security reviews slow down the development cycle
-
-- 1-7 (strongly agree, strongly disagree)
-- Ideal: Strongly disagree (7)
-
-Security reviews are captured at each of the stages of the software development lifecycle (design, develop, test, and release)
-
-- 1-7 (strongly agree, strongly disagree)
-- Ideal: Strongly agree (1)
-
-InfoSec supplies development teams and operational teams with an ample number of approved libraries, packages, and toolchains
-
-- 1-7 (strongly agree, strongly disagree)
-- Ideal: Strongly agree (1)
 
 ## 2. Process Capabilities
 
@@ -924,4 +802,43 @@ Aim for a Westrum culture metric > 35
   b. Agree
   c. Undecided
   d. Disagree
-  e. Strongly Disagree  
+  e. Strongly Disagree
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Subsequent Scoring Guidelines
+
+All questions are worth 7 points
+
+For questions that are on a scale from 1-7, if they answer the ‘ideal’ choice, they get a score (S) of 7 points
+
+- For cases where 7 is the ideal score: S = v
+  - Where v equals the value selected
+
+- For cases where 1 is the ideal score: S = 7 – v + 1
+
+- For questions that are on a sliding percentage scale, the question is worth the selected slider percentage (p) times 7
+  - If the ideal score is 100% then: S = p*7
+  - If the ideal score is 0, then: S = \|1-p\| * 7
+    - \|x\| = absolute value of x (Ie: \|-x\| == x == \|x\| )
+
+- For questions that have x options, then the scoring is (where X is the selected answer & N is the number of questions)
+  - Where the Nth question is the ideal selection: S = X/N * 7
+  - Where 1 is the ideal selection: S = N-X-1/N * 7
