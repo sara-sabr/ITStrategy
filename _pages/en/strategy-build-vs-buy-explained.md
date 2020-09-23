@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Build versus Buy - Explained"
+title: "Adopt, Buy, Build - Explained"
 ref: build-vs-buy-explained
 lang: en
 status: posted
