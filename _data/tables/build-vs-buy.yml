@@ -266,9 +266,9 @@
     - col:
       data:
         list: false
-        fr: <strong>EARB</strong>
+        fr: <strong>Architecture Technologique</strong>
         en: |
-          <strong>EARB</strong>
+          <strong>Technology Architecture</strong>
     - col:
       data:
         list: true
