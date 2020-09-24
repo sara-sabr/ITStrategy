@@ -55,11 +55,9 @@ Questions will measure and support the [Continuous Improvement](https://cloud.go
 - [Cultural Capabilities](#4-cultural-capabilities)
   - Job satisfaction
   - [Westrum organizational culture](#42-westrum-organizational-culture)
-  - Learning culture
+  - Learning culture  
 
-### 1. Technical Capabilities
-
-## SECTION 1. VERSION CONTROL AND CODE MAINTAINABILITY  
+### SECTION 1. VERSION CONTROL AND CODE MAINTAINABILITY  
 
 - What % of application code do you store in version control? [%]
 - My team can recover application code from the version control system. [1-7]
@@ -92,7 +90,7 @@ IF < High
 https://cloud.google.com/solutions/devops/devops-tech-version-control  
 https://cloud.google.com/solutions/devops/devops-tech-code-maintainability  
 
-## SECTION 2.  CONTINUOUS INTEGRATION AND DEPLOYMENT  
+### SECTION 2.  CONTINUOUS INTEGRATION AND DEPLOYMENT  
 
 - Code commits trigger a build of the software. [1-7]
 - The % of code commits that result in a software build without manual intervention. [%]
@@ -139,7 +137,7 @@ https://cloud.google.com/solutions/devops/devops-tech-test-data-management
 https://cloud.google.com/solutions/devops/devops-tech-shifting-left-on-security  
 https://cloud.google.com/solutions/devops/devops-tech-continuous-delivery  
 
-## SECTION 3. CONTINUOUS TESTING  
+### SECTION 3. CONTINUOUS TESTING  
 
 - Developers primarily create and maintain acceptance tests. [1-7]  
 - When the automated tests pass, I am confident the software is releasable. [1-7]  
@@ -165,7 +163,7 @@ IF < High
 https://cloud.google.com/solutions/devops/devops-tech-test-automation  
 https://cloud.google.com/solutions/devops/devops-tech-continuous-delivery  
 
-## SECTION 4. ARCHITECTURE    
+### SECTION 4. ARCHITECTURE    
 
 - My team can make large-scale changes to the design of their systems without the permission of somebody outside the team or depending on other teams. [1-7]  
 - My team are able to complete work without needing fine-grained communication and coordination with people outside the team. [1-7]  
@@ -186,7 +184,7 @@ IF < High
 - https://cloud.google.com/solutions/devops/devops-tech-teams-empowered-to-choose-tools  
 - https://cloud.google.com/solutions/devops/devops-tech-continuous-delivery  
 
-## SECTION 5. CLOUD INFRASTRUCTURE  
+### SECTION 5. CLOUD INFRASTRUCTURE  
 
 - Once I have access, I can independently provision and configure the cloud resources and capabilities required for my product or service on demand without raising tickets or requiring human interaction. [1-7]  
 - The service or product that I primarily work on is designed to be accessed from a broad range of devices (e.g. smartphones, tablets, laptops) over the network without the need for proprietary plug-ins or protocols. [1-7]  
@@ -203,8 +201,6 @@ Average of "Do you agreed with" questions
 #### Recommendations  
 IF < High  
 https://cloud.google.com/solutions/devops/devops-tech-cloud-infrastructure  
-
-### 2. Process Capabilities  
 
 ## SECTION 6. TEAM EXPERIMENTATION AND STREAMLINING CHANGE APPROVAL    
 
@@ -250,7 +246,7 @@ Answer of "How much time" questions
 IF < High  
 https://cloud.google.com/solutions/devops/devops-process-streamlining-change-approval  
 
-## SECTION 7. CUSTOMER FEEDBACK AND WORK VISIBILITY 
+### SECTION 7. CUSTOMER FEEDBACK AND WORK VISIBILITY 
 
 - My team actively collects customer feedback on product and features quality. [1-7]  
 - My team establishes key metrics on customer satisfaction before gathering information from the customers. [1-7]  
@@ -302,11 +298,9 @@ Answer of "How much time" questions
 
 #### Recommendations  
 IF < High  
-https://cloud.google.com/solutions/devops/devops-process-working-in-small-batches
+https://cloud.google.com/solutions/devops/devops-process-working-in-small-batches  
 
-### 3. Measurement Capabilities
-
-## Section 8. DATA APPLICATION MONITORING   
+### Section 8. DATA APPLICATION MONITORING  
 
 - In my team data from application performance monitoring tools is used to make business decisions [1-7]  
 - In my team data from infrastructure monitoring tools is used to make business decisions [1-7]  
@@ -345,7 +339,7 @@ Refer to https://cloud.google.com/solutions/devops/devops-measurement-monitoring
 IF < High  
 Refer to https://cloud.google.com/solutions/devops/devops-measurement-monitoring-and-observability  
 
-## Section 9. WORK IN PROCESS LIMITS AND VISUAL MANAGEMENT  
+### Section 9. WORK IN PROCESS LIMITS AND VISUAL MANAGEMENT  
 
 - People on my team are often assigned to work on multiple mutually exclusive tasks [1-7]  
 - When faced with too much work and too few people to do it, we prioritize work and focus on completing a small number of high-priority tasks [1-7]  
@@ -389,7 +383,7 @@ IF < High
 Refer to:  https://cloud.google.com/solutions/devops/devops-measurement-visual-management  
 
 
-## Section 10. CULTURAL CAPABILITIES  
+### Section 10. CULTURAL CAPABILITIES  
 
 - In my team employees feel supported by each other [1-7]  
 - In my team employees feel their feedback is valued [1-7]  
@@ -428,7 +422,7 @@ Refer to https://cloud.google.com/solutions/devops/devops-culture-westrum-organi
 IF < High  
 Refer to https://cloud.google.com/solutions/devops/devops-culture-learning-culture  
 
-## Section 11. TRANSFORMATIONAL LEADERSHIP  
+### Section 11. TRANSFORMATIONAL LEADERSHIP  
 
 - In my team we clearly understand what our current and target conditions are [1-7]  
 - My teams expects to achieve about 80% of the goals for the next iteration [1-7]  
