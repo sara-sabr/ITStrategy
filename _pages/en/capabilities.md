@@ -524,5 +524,35 @@ Refer to https://cloud.google.com/solutions/devops/devops-culture-westrum-organi
 
 Refer to https://cloud.google.com/solutions/devops/devops-culture-learning-culture  
 
-## Section TRANSFORMATIONAL LEADERSHIP 
+## Section TRANSFORMATIONAL LEADERSHIP  
 
+1. In my team we clearly understand what our current and target conditions are [1-7]  
+
+2. My teams expects to achieve about 80% of the goals for the next iteration [1-7]  
+
+3. In my team we do not have many obstacles that are preventing us from reaching the target condition [1-7]  
+
+4. In my team we clearly understand what is our next step and which outcomes to expect [1-7]  
+
+5. My team is running experiments on a daily basis to try to move toward the target conditions or key results [1-7]  
+
+6. My team doesnt spend too much time trying to set the perfect objectives but focuses on executing the process [1-7]  
+
+7. The outcomes that my team is working towards match up clearly to the purpose and mission of the organization [1-7]  
+
+8. My team is expected to rapidly change the way we work and then continue on with the work as usual [1-7]  
+
+9. New process implementation does not  cause stress and productivity lost in my team (people learn new ways of working, often while they are still delivering on existing commitments) [1-7]  
+
+10. My team clearly understands where they and  the organization are going, and where they want to be in five years [1-7]  
+
+11. In my team leaders say positive things that make employees proud to be a part of their organization, and encourage people to see changing conditions as situations full of opportunities [1-7]  
+
+12. My team often thinks about old problems in new ways and  rethink some of their basic assumptions about their work,  ideas  force team members to rethink some things that they have never questioned before [1-7]  
+
+13. Team leaders consider others' personal feelings before acting; behave in a manner which is thoughtful of others' personal needs; see that the interests of team members are given due consideration [1-7]  
+
+14. My team leaders commend team members when they do a better than average job; acknowledges improvement in quality of team members' work; personally compliments team members when they do outstanding work [1-7]  
+
+Refer to https://cloud.google.com/solutions/devops/devops-culture-transform  
+Refer to https://cloud.google.com/solutions/devops/devops-culture-transformational-leadership  
