@@ -357,336 +357,251 @@ IF < High
 
 ## 3. Measurement Capabilities
 
-### 3.1 Monitoring systems to inform business decisions
-
-#### 3.1.1 Outcomes
-
-....
-
-#### 3.1.2. Indicators
-
-- In my team data from application performance monitoring tools is used to make business decisions
-  a. Strongly Agree (Ideal)
-  b. Agree
-  c. Undecided
-  d. Disagree
-  e. Strongly Disagree
-
-- In my team data from infrastructure monitoring tools is used to make business decisions
-  a. Strongly Agree (Ideal)
-  b. Agree
-  c. Undecided
-  d. Disagree
-  e. Strongly Disagree
-
-- Does monitoring in your team give rapid feedback which helps quickly find and fix problems early in the software development lifecycle?
-  a. Very Frequently (Ideal)
-  b. Frequently
-  c. Occasionally
-  d. Rarely
-  e. Very Rarely
-  f. Never
-
-- In my team the knowledge gained from application monitoring is shared across organization to help people and systems improve
-  a. Very Frequently (Ideal)
-  b. Frequently
-  c. Occasionally
-  d. Rarely
-  e. Very Rarely
-  f. Never
-
-- In my team collected data is always accessible to different audiences (visibility into development work, testing, QA, and IT operations) to help them make decisions
-  a. Strongly Agree (Ideal)
-  b. Agree
-  c. Undecided
-  d. Disagree
-  e. Strongly Disagree
-
-- Our team monitors by taking a thoughtful approach to monitoring which usually draws attention to key areas
-    a. Strongly Agree (Ideal)
-    b. Agree
-    c. Undecided
-    d. Disagree
-    e. Strongly Disagree
-
-- How fast your team reacts to alerts when the system approaches critical thresholds or goes down?
-  Percentage slider
-  Ideal: up to 25%
-
-- Generally, how accurate and relevant is the data to the team?
-  a. Very Frequently (Ideal)
-  b. Frequently
-  c. Occasionally
-  d. Rarely
-  e. Very Rarely
-  f. Never
-
-#### 3.1.3 Goals
-
-...
-
-### 3.2 Proactive failure notification
-
-#### 3.2.2. Indicators
-
-- When you are notified that your application or service is down, how often does this information come from a customer?
-  a. Always
-  b. Very Often
-  c. Sometimes
-  d. Rarely
-  e. Never (Ideal)
-
-- When a critical problem with the application is identified how often does it take, on average, for the fix to be on production?
-  a. A day or less (Ideal)
-  b. More than a day, less than a week
-  c. Between one week and one month
-  d. More than a month
-
-### 3.3 Work in process limits
-
-#### 3.3.2. Indicators
-
-- People on my team are often assigned to work on multiple mutually exclusive tasks
-  a. Strongly Agree
-  b. Agree
-  c. Undecided
-  d. Disagree
-  e. Strongly Disagree  (Ideal)
-
-- When faced with too much work and too few people to do it, we prioritize work and focus on completing a small number of high-priority tasks
-   a. Very Frequently (Ideal)
-   b. Frequently
-   c. Occasionally
-   d. Rarely
-   e. Very Rarely
-   f. Never
-
-- How often does your team discover invisible work when it is not expected ?
-  a. Almost always
-  b. Often
-  c. Sometimes
-  d. Seldom
-  e. Never (Ideal)
-
-- In my team we do not require people to split their time between multiple tasks
-  a. Strongly Agree (Ideal)
-  b. Agree
-  c. Undecided
-  d. Disagree
-  e. Strongly Disagree
-
-- How visible is your work to the other teams and stakeholders?
-  a. Very good (Ideal)
-  b. Good
-  c. Fair
-  d. Poor
-  e. Very poor
-
-- How often project team meetings are held ?
-  a. Every day  (Ideal)
-  b. Three times a week
-  c. Once a week
-  d. Randomly
-  e. None of the above/not applicable
-
-### 3.4 Visual management capabilities
-
-#### 3.4.2. Indicators
-
-- My team uses visual displays and dashboards to manage the work at various stages of a process
-   a. Very Frequently (Ideal)
-   b. Frequently
-   c. Occasionally
-   d. Rarely
-   e. Very Rarely
-   f. Never
-
-- How long does it take to complete a project backlog?
-  a. More than I would expect
-  b. About right
-  c. Less than I would expect (Ideal)
-
-- How often does your team receive feedback that displays are complex, hard to understand, or do not provide actionable information?
-   a. Very Frequently
-   b. Frequently
-   c. Occasionally
-   d. Rarely
-   e. Very Rarely
-   f. Never (Ideal)
-
-- In my team visual displays are up to date and the information contributing to measurable improvement is towards a goal that the team cares about
-  a. Strongly Agree (Ideal)
-  b. Agree
-  c. Undecided
-  d. Disagree
-  e. Strongly Disagree
-
-- When looking at visual management displays I see the key process metrics my team cares about
-  a. Strongly Agree (Ideal)
-  b. Agree
-  c. Undecided
-  d. Disagree
-  e. Strongly Disagree
-
-### 3.5. Monitoring and observability
-
-#### 3.5.2. Indicators
-
-- My team is reporting on the overall health of systems (Are my systems functioning? Do my systems have sufficient resources available?)
-   a. Very Frequently (Ideal)
-   b. Frequently
-   c. Occasionally
-   d. Rarely
-   e. Very Rarely
-   f. Never
-
-- My team is reporting on system state as experienced by customers (Do my customers know if my system is down and have a bad experience?)
-  a. Strongly Agree (Ideal)
-  b. Agree
-  c. Undecided
-  d. Disagree
-  e. Strongly Disagree
-
-- My team has a tooling to help to understand and debug systems in production
-  a. Strongly Agree (Ideal)
-  b. Agree
-  c. Undecided
-  d. Disagree
-  e. Strongly Disagree
-
-- My team has access to tools and data that help trace, understand, and diagnose infrastructure problems in  production environment, including interactions between services
-  a. Strongly Agree (Ideal)
-  b. Agree
-  c. Undecided
-  d. Disagree
-  e. Strongly Disagree
-
-- In my team a single monitoring person is solely responsible for the system monitoring and observability
-  a. Strongly Agree
-  b. Agree
-  c. Undecided
-  d. Disagree
-  e. Strongly Disagree (Ideal)
-
-## 4. Cultural capabilities
-
-### 4.1. Job satisfaction
-
-#### 4.1.1. Outcomes
-
-...
-
-#### 4.1.2. Indicators
-
-- In my team employees feel supported by each other
-  a. Strongly Agree (Ideal)
-  b. Agree
-  c. Undecided
-  d. Disagree
-  e. Strongly Disagree
-
-- In my team employees feel their feedback is valued
-  a. Strongly Agree (Ideal)
-  b. Agree
-  c. Undecided
-  d. Disagree
-  e. Strongly Disagree
-
-- In my team employees are given meaningful work that leverages their expertise
-  a. Strongly Agree (Ideal)
-  b. Agree
-  c. Undecided
-  d. Disagree
-  e. Strongly Disagree
-
-### 4.2 Westrum organizational culture
-
-#### 4.2.1 Outcomes
-
-#### 4.2.2. Indicators
-
-- My team has enough support (or appropriate support) from leaders and managers for the necessary culture shift and transformation
-  a. Strongly Agree (Ideal)
-  b. Agree
-  c. Undecided
-  d. Disagree
-  e. Strongly Disagree
-
-- My team culture interacts with the broader organizational culture
-  a. Strongly Agree (Ideal)
-  b. Agree
-  c. Undecided
-  d. Disagree
-  e. Strongly Disagree
-
-- Failures are  treated in my team  as opportunities to improve and learn
-  a. Strongly Agree (Ideal)
-  b. Agree
-  c. Undecided
-  d. Disagree
-  e. Strongly Disagree
-
-- My team is allowed and encouraged to experiment and try new things
-  a. Strongly Agree (Ideal)
-  b. Agree
-  c. Undecided
-  d. Disagree
-  e. Strongly Disagree
-
-##### DORA method
-
-Measure with survey of IITB employees.
-Aim for a Westrum culture metric > 35
-
-### 4.3. Learning culture
-
-#### 4.3.2. Indicators
-
-- My team views learning as an investment for growth
-  a. Strongly Agree (Ideal)
-  b. Agree
-  c. Undecided
-  d. Disagree
-  e. Strongly Disagree
-
-- Learning completely avoided in my  team
-  a. Strongly Agree
-  b. Agree
-  c. Undecided
-  d. Disagree
-  e. Strongly Disagree (Ideal)
-
-- My  team has the resources to engage in informal learning and the space to explore ideas
-  a. Strongly Agree (Ideal)
-  b. Agree
-  c. Undecided
-  d. Disagree
-  e. Strongly Disagree
-
-- My team has a regular cadence of opportunities for employees to share their knowledge
-  a. Strongly Agree (Ideal)
-  b. Agree
-  c. Undecided
-  d. Disagree
-  e. Strongly Disagree
-
-- In my team resources are available for continued education
-  a. Strongly Agree (Ideal)
-  b. Agree
-  c. Undecided
-  d. Disagree
-  e. Strongly Disagree
-
-- When employees in my team  attend conferences, we have them share the new experience through presentations or trip reports
-  a. Strongly Agree (Ideal)
-  b. Agree
-  c. Undecided
-  d. Disagree
-  e. Strongly Disagree
-
-- In my team we encourage people to get certifications or external trainings, and help them by covering costs of external trainings and forming study groups that are a part of normal work activity
-  a. Strongly Agree (Ideal)
-  b. Agree
-  c. Undecided
-  d. Disagree
-  e. Strongly Disagree
+### Section. Data Application monitoring
+
+#### 3.1 Monitoring systems to inform business decisions  
+
+1. In my team data from application performance monitoring tools is used to make business decisions [1-7]  
+
+2. In my team data from infrastructure monitoring tools is used to make business decisions [1-7]  
+
+3. Does monitoring in your team give rapid feedback which helps quickly find and fix problems early in the software development lifecycle? [1-7]  
+
+4. In my team the knowledge gained from application monitoring is shared across organization to help people and systems improve [1-7]  
+
+5. In my team collected data is always accessible to different audiences (visibility into development work, testing, QA, and IT operations) to help them make decisions [1-7]  
+
+6. Our team monitors by taking a thoughtful approach to monitoring which usually draws attention to key areas [1-7]  
+
+#### Scoring
+
+Average of "Do you agreed with" questions
+
+- Low: 1-3
+- Medium: 4-5
+- High: 6-7
+
+7. How fast your team reacts to alerts when the system approaches critical thresholds or goes down? [Percentage slider]  
+
+#### Scoring
+
+Average of Percentage questions
+
+- Low: 76-100%
+- Medium: 26-75%
+- High: 0-25%
+
+8.Generally, how accurate and relevant is the data to the team? [1-7]  
+
+IF < High  
+Refer to https://cloud.google.com/solutions/devops/devops-measurement-monitoring-systems  
+
+
+#### 3.5. Monitoring and observability
+
+9. My team is reporting on the overall health of systems (Are my systems functioning? Do my systems have sufficient resources available?) [1-7]  
+
+10. My team is reporting on system state as experienced by customers (Do my customers know if my system is down and have a bad experience?) [1-7]  
+
+11. My team has a tooling to help to understand and debug systems in production [1-7]  
+
+12. My team has access to tools and data that help trace, understand, and diagnose infrastructure problems in production environment, including interactions between services [1-7]  
+
+13. In my team a single monitoring person is solely responsible for the system monitoring and observability [1-7]  
+
+IF < High  
+Refer to https://cloud.google.com/solutions/devops/devops-measurement-monitoring-and-observability  
+
+## Section. WORK IN PROCESS LIMITS AND VISUAL MANAGEMENT  
+
+#### 3.3 Work in process limits
+1. People on my team are often assigned to work on multiple mutually exclusive tasks [1-7]  
+
+2. When faced with too much work and too few people to do it, we prioritize work and focus on completing a small number of high-priority tasks [1-7]  
+
+3. My team often discovers invisible work when it is not expected  
+
+#### Scoring
+
+Average of "Do you agreed with" questions  
+- High: 1-3
+- Medium: 4-5
+- Low: 6-7  
+
+4. In my team we do not require people to split their time between multiple tasks [1-7]  
+
+5. Our team work is visible to other teams and stakeholders? [1-7]  
+
+6. How often project team meetings are held ?  
+
+#### Scoring  
+
+Answer of "How much time" questions
+
+- Once a week, Never (Low)
+- Three times a week, Randomly (Medium)
+- Every day  (High)  
+
+Refer to https://cloud.google.com/solutions/devops/devops-measurement-wip-limits
+
+3.4 Visual management capabilities
+7. My team uses visual displays and dashboards to manage the work at various stages of a process [1-7]  
+
+8. How long does it take to complete a project backlog?  
+
+#### Scoring  
+
+Answer of "How much time" questions
+
+- More than I would expect (Low)
+- About right (Medium)
+- Less than I would expect  (High)  
+
+9. How often does your team receive feedback that displays are complex, hard to understand, or do not provide actionable information? [1-7]  
+
+10. In my team visual displays are up to date and the information contributing to measurable improvement is towards a goal that the team cares about [1-7]  
+
+11. When looking at visual management displays I see the key process metrics my team cares about [1-7]  
+
+IF < High  
+Refer to:  https://cloud.google.com/solutions/devops/devops-measurement-visual-management  
+
+
+## Section CULTURAL CAPABILITIES 
+
+### 4. Cultural capabilities
+
+#### 4.1. Job satisfaction
+
+1. In my team employees feel supported by each other [1-7]  
+
+2. In my team employees feel their feedback is valued [1-7]  
+
+3. In my team employees are given meaningful work that leverages their expertise [1-7]  
+
+Refer to https://cloud.google.com/solutions/devops/devops-culture-job-satisfaction
+
+#### 4.2 Westrum organizational culture  
+
+4. My team has enough support (or appropriate support) from leaders and managers for the necessary culture shift and transformation [1-7]  
+
+5. My team culture interacts with the broader organizational culture
+a. Strongly Agree (Ideal)
+b. Agree
+c. Undecided
+d. Disagree
+e. Strongly Disagree
+
+6. Failures are treated in my team as opportunities to improve and learn
+a. Strongly Agree (Ideal)
+b. Agree
+c. Undecided
+d. Disagree
+e. Strongly Disagree
+
+7. My team is allowed and encouraged to experiment and try new things
+a. Strongly Agree (Ideal)
+b. Agree
+c. Undecided
+d. Disagree
+e. Strongly Disagree
+
+
+8. On my team, information is actively sought
+a. Strongly Agree (Ideal)
+b. Agree
+c. Undecided
+d. Disagree
+e. Strongly Disagree
+
+9. Messengers are not punished when they deliver news of failures or other bad news
+a. Strongly Agree (Ideal)
+b. Agree
+c. Undecided
+d. Disagree
+e. Strongly Disagree
+
+10. On my team, responsibilities are shared
+a. Strongly Agree (Ideal)
+b. Agree
+c. Undecided
+d. Disagree
+e. Strongly Disagree
+
+11. On my team, cross-functional collaboration is encouraged and rewarded
+a. Strongly Agree (Ideal)
+b. Agree
+c. Undecided
+d. Disagree
+e. Strongly Disagree
+
+12. On my team, failure causes inquiry
+a. Strongly Agree (Ideal)
+b. Agree
+c. Undecided
+d. Disagree
+e. Strongly Disagree
+
+13. On my team, new ideas are welcomed.
+a. Strongly Agree (Ideal)
+b. Agree
+c. Undecided
+d. Disagree
+e. Strongly Disagree
+
+
+Refer to https://cloud.google.com/solutions/devops/devops-culture-westrum-organizational-culture
+
+
+
+4.3. Learning culture
+14. My team views learning as an investment for growth
+a. Strongly Agree (Ideal)
+b. Agree
+c. Undecided
+d. Disagree
+e. Strongly Disagree
+
+15. Learning is not completely avoided in my team
+a. Strongly Agree (Ideal)
+b. Agree
+c. Undecided
+d. Disagree
+e. Strongly Disagree 
+
+16. My team has the resources to engage in informal learning and the space to explore ideas
+a. Strongly Agree (Ideal)
+b. Agree
+c. Undecided
+d. Disagree
+e. Strongly Disagree
+
+17. My team has a regular cadence of opportunities for employees to share their knowledge
+a. Strongly Agree (Ideal)
+b. Agree
+c. Undecided
+d. Disagree
+e. Strongly Disagree
+
+18. In my team resources are available for continued education
+a. Strongly Agree (Ideal)
+b. Agree
+c. Undecided
+d. Disagree
+e. Strongly Disagree
+
+19. When employees in my team attend conferences, we have them share the new experience through presentations or trip reports
+a. Strongly Agree (Ideal)
+b. Agree
+c. Undecided
+d. Disagree
+e. Strongly Disagree
+
+20. In my team we encourage people to get certifications or external trainings, and help them by covering costs of external trainings and forming study groups that are a part of normal work activity
+a. Strongly Agree (Ideal)
+b. Agree
+c. Undecided
+d. Disagree
+e. Strongly Disagree
+
+Refer to https://cloud.google.com/solutions/devops/devops-culture-learning-culture
