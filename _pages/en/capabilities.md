@@ -485,123 +485,44 @@ Refer to https://cloud.google.com/solutions/devops/devops-culture-job-satisfacti
 
 4. My team has enough support (or appropriate support) from leaders and managers for the necessary culture shift and transformation [1-7]  
 
-5. My team culture interacts with the broader organizational culture
-a. Strongly Agree (Ideal)
-b. Agree
-c. Undecided
-d. Disagree
-e. Strongly Disagree
+5. My team culture interacts with the broader organizational culture [1-7]  
 
-6. Failures are treated in my team as opportunities to improve and learn
-a. Strongly Agree (Ideal)
-b. Agree
-c. Undecided
-d. Disagree
-e. Strongly Disagree
+6. Failures are treated in my team as opportunities to improve and learn [1-7]  
 
-7. My team is allowed and encouraged to experiment and try new things
-a. Strongly Agree (Ideal)
-b. Agree
-c. Undecided
-d. Disagree
-e. Strongly Disagree
+7. My team is allowed and encouraged to experiment and try new things [1-7]  
 
+8. On my team, information is actively sought [1-7]  
 
-8. On my team, information is actively sought
-a. Strongly Agree (Ideal)
-b. Agree
-c. Undecided
-d. Disagree
-e. Strongly Disagree
+9. Messengers are not punished when they deliver news of failures or other bad news [1-7]  
 
-9. Messengers are not punished when they deliver news of failures or other bad news
-a. Strongly Agree (Ideal)
-b. Agree
-c. Undecided
-d. Disagree
-e. Strongly Disagree
+10. On my team, responsibilities are shared [1-7]  
 
-10. On my team, responsibilities are shared
-a. Strongly Agree (Ideal)
-b. Agree
-c. Undecided
-d. Disagree
-e. Strongly Disagree
+11. On my team, cross-functional collaboration is encouraged and rewarded [1-7]  
 
-11. On my team, cross-functional collaboration is encouraged and rewarded
-a. Strongly Agree (Ideal)
-b. Agree
-c. Undecided
-d. Disagree
-e. Strongly Disagree
+12. On my team, failure causes inquiry [1-7]  
 
-12. On my team, failure causes inquiry
-a. Strongly Agree (Ideal)
-b. Agree
-c. Undecided
-d. Disagree
-e. Strongly Disagree
-
-13. On my team, new ideas are welcomed.
-a. Strongly Agree (Ideal)
-b. Agree
-c. Undecided
-d. Disagree
-e. Strongly Disagree
+13. On my team, new ideas are welcomed [1-7]  
 
 
 Refer to https://cloud.google.com/solutions/devops/devops-culture-westrum-organizational-culture
 
+#### 4.3. Learning culture  
 
+14. My team views learning as an investment for growth [1-7]  
 
-4.3. Learning culture
-14. My team views learning as an investment for growth
-a. Strongly Agree (Ideal)
-b. Agree
-c. Undecided
-d. Disagree
-e. Strongly Disagree
+15. Learning is not completely avoided in my team [1-7]   
 
-15. Learning is not completely avoided in my team
-a. Strongly Agree (Ideal)
-b. Agree
-c. Undecided
-d. Disagree
-e. Strongly Disagree 
+16. My team has the resources to engage in informal learning and the space to explore ideas [1-7]  
 
-16. My team has the resources to engage in informal learning and the space to explore ideas
-a. Strongly Agree (Ideal)
-b. Agree
-c. Undecided
-d. Disagree
-e. Strongly Disagree
+17. My team has a regular cadence of opportunities for employees to share their knowledge [1-7]  
 
-17. My team has a regular cadence of opportunities for employees to share their knowledge
-a. Strongly Agree (Ideal)
-b. Agree
-c. Undecided
-d. Disagree
-e. Strongly Disagree
+18. In my team resources are available for continued education [1-7]  
 
-18. In my team resources are available for continued education
-a. Strongly Agree (Ideal)
-b. Agree
-c. Undecided
-d. Disagree
-e. Strongly Disagree
+19. When employees in my team attend conferences, we have them share the new experience through presentations or trip reports [1-7]  
 
-19. When employees in my team attend conferences, we have them share the new experience through presentations or trip reports
-a. Strongly Agree (Ideal)
-b. Agree
-c. Undecided
-d. Disagree
-e. Strongly Disagree
+20. In my team we encourage people to get certifications or external trainings, and help them by covering costs of external trainings and forming study groups that are a part of normal work activity [1-7]  
 
-20. In my team we encourage people to get certifications or external trainings, and help them by covering costs of external trainings and forming study groups that are a part of normal work activity
-a. Strongly Agree (Ideal)
-b. Agree
-c. Undecided
-d. Disagree
-e. Strongly Disagree
+Refer to https://cloud.google.com/solutions/devops/devops-culture-learning-culture  
 
-Refer to https://cloud.google.com/solutions/devops/devops-culture-learning-culture
+## Section TRANSFORMATIONAL LEADERSHIP 
+
