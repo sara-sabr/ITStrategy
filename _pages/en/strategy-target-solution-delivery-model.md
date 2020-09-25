@@ -453,7 +453,7 @@ Provide standards that DevOps teams are expected to comply with when releasing s
     </td>
   </tr>
   <tr>
-    <td rowspan="3"><b>DevOps</b></td>
+    <td rowspan="4"><b>DevOps</b></td>
     <td>Get endorsement from SSC</td>
     <td>Engage with SSC to get their endorsement in allowing access to deploy directly in production (on premise deployment model)</td>
     <td>
@@ -462,11 +462,24 @@ Provide standards that DevOps teams are expected to comply with when releasing s
     SSC
     </td>
   </tr>
+  <tr>
+    <td>Create DevOps CoE</td>
+    <td>Create a DevOps CoE team responsible to implement the Solution Delivery Model within IITB, supporting teams across the branch in achieving same day deployments.</td>
+    <td>
+    <b><i>IT Research &amp; Prototype</i></b><br>
+CCoE<Br>
+IITB Senior Advisors
+IT Strategy
+IT Security<br>
+IT Environment<br>
+TSWG
+    </td>
+  </tr>
   <Tr>
     <td>Produce DevOps ConOps guidelines</td>
     <td>Produce a DevOps ConOps guidelines, including release processes and standards, on releasing code from commit to production (e.g. pre-prod environment, blue-green model)</td>
     <td>
-    <B><i>CCoE</i></b><br>
+    <B><i>DevOps CoE</i></b><br>
 IITB Senior Advisors<br>
 IT Security<br>
 BPMO
