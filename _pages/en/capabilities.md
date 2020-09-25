@@ -48,7 +48,7 @@ Questions will measure and support the [Continuous Improvement](https://cloud.go
 - Measurement Capabilities
   - [Section 9. Work in Process Limits and Visual Management](#section-9-work-in-process-limits-and-visual-management)
 - Cultural Capabilities
-  - [Section 10. Learning and Generative Culture](#section-10-culture)
+  - [Section 10. Learning and Generative Culture](#section-10-learning-and-generative-culture)
   - [Section 11. Transformational Leadership](#section-11-transformational-leadership)
 
 ### SECTION 1. VERSION CONTROL AND CODE MAINTAINABILITY
