@@ -467,9 +467,9 @@ Provide standards that DevOps teams are expected to comply with when releasing s
     <td>Create a DevOps CoE team responsible to implement the Solution Delivery Model within IITB, supporting teams across the branch in achieving same day deployments.</td>
     <td>
     <b><i>IT Research &amp; Prototype</i></b><br>
-CCoE<Br>
-IITB Senior Advisors
-IT Strategy
+CCoE<br>
+IITB Senior Advisors<br>
+IT Strategy<br>
 IT Security<br>
 IT Environment<br>
 TSWG
