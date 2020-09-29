@@ -1457,3 +1457,93 @@
         list: false
         fr: Non
         en: "No"
+
+
+- table:
+  id: t003
+  name:
+    fr: Général
+    en: General
+  description:
+    fr: |
+      Une liste de ressources intéressantes et pertinentes pour une organisation numérique.
+    en: |
+      A list of interesting and useful resources for a digital organization. 
+  rows:
+  - row:
+    headers: true
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Type
+        en: Type
+    - col:
+      data:
+        list: false
+        fr: Nom
+        en: Name
+    - col:
+      data:
+        list: false
+        fr: Description
+        en: Description
+    - col:
+      data:
+        list: false
+        fr: Sujet
+        en: Topic
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Baladodiffusion
+        en: Podcast
+    - col:
+      data:
+        list: false
+        fr: <a href="https://softwareengineeringdaily.com" target="_blank">Software Engineering Daily (Anglais)</a>
+        en: <a href="https://softwareengineeringdaily.com" target="_blank">Software Engineering Daily</a>
+    - col:
+      data:
+        list: false
+        fr: |
+          Interviews quotidiennes sur des sujets techniques liés aux logiciels
+        en: |
+          Daily interviews about technical software topics
+    - col:
+      data:
+        list: false
+        fr: |
+          Innovation
+        en: |
+          Innovation
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Baladodiffusion
+        en: Podcast
+    - col:
+      data:
+        list: false
+        fr: <a href="https://www.darpa.mil/about-us/about-darpa" target="_blank">DARPA (Anglais)</a>
+        en: <a href="https://www.darpa.mil/about-us/about-darpa" target="_blank">DARPA</a>
+    - col:
+      data:
+        list: false
+        fr: |
+          Mission : “réaliser des investissements essentiels dans des technologies de pointe pour la sécurité nationale”
+        en: |
+          Mission is “to make pivotal investments in breakthrough technologies for national security”
+    - col:
+      data:
+        list: false
+        fr: |
+          Innovation
+        en: |
+          Innovation  
