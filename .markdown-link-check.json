@@ -84,6 +84,9 @@
     {
       "pattern": "https://www.surveymonkey.com"
     },
+    {
+      "pattern": "https://labs.play-with-docker.com"
+    },
    {
       "pattern": "https://www.tpsgc-pwgsc.gc.ca/app-acq/ma-bb/appagile-proagile-fra.html"
    },
