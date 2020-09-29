@@ -4,7 +4,7 @@ title: References
 ref: references
 lang: en
 status: posted
-datatable-ids: t002
+datatable-ids: t002, t003
 sections: About us
 permalink: /references-en.html
 ---
@@ -27,6 +27,12 @@ Don't hesitate to send us proposals of books, articles, videos or even policies!
 {{ tables[1].description[page.lang ]}}
 
 {% include table.html table-id="t002" file="references"%}
+
+## {{ tables[2].name[page.lang ]}}
+
+{{ tables[2].description[page.lang ]}}
+
+{% include table.html table-id="t003" file="references"%}
 
 ## General
 
