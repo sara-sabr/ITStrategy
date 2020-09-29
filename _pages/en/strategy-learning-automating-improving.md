@@ -1,14 +1,12 @@
 ---
 layout: default
-title: Q1 Strategy - Continuous Improvement and Learning
-ref: strategy-q1-2020
+title: Strategy - Continuous Improvement and Learning
+ref: strategy-continuous-improvement
 lang: en
 status: posted
 sections: Archives
 permalink: /strategy-learning-automating-improving.html
 ---
-
-## {{ page.title }} <!-- omit in toc -->
 
 The following actions apply for the 1st quarter of the 2020-2021 fiscal year (April 2020 to June 2020).
 

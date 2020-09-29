@@ -1,4 +1,32 @@
 /*============= GENERAL =============*/
+/*Source: https://accessibility.oit.ncsu.edu/it-accessibility-at-nc-state/developers/accessibility-handbook/mouse-and-keyboard-events/skip-to-main-content/*/
+
+a.skiptocontent {
+    left:-999px;
+    position:absolute;
+    top:auto;
+    width:1px;
+    height:1px;
+    overflow:hidden;
+    z-index:-999;
+}
+
+a.skiptocontent:focus, .skiptocontent:active {
+    color: #fff;
+    background-color:#000;
+    left: auto;
+    top: auto;
+    width: 30%;
+    height: auto;
+    overflow:auto;
+    margin: 10px 35%;
+    padding:5px;
+    border-radius: 15px;
+    border:4px solid yellow;
+    text-align:center;
+    font-size:1.2em;
+    z-index:1040;
+}
 
 .jumbotron {
   padding: .5rem;
@@ -16,11 +44,21 @@ body>.container {
   padding: 60px 10px 0;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  padding-top: 66px;
-  margin-top: -66px;
+.site-title {
+  font-size: 3rem;
+  font-weight: 300;
+  line-height: 1.2;
+  margin-bottom: 8px;
 }
 
+.site-subtitle {
+  font-size: 1.5rem;
+  line-height: 1.2;
+}
+
+footer {
+  margin-bottom: 1em;
+}
 /*============= RESETS =============*/
 
 /*-- iPhone X Remove Gutters --*/
@@ -66,74 +104,6 @@ body {
   font-size: .9rem;
   transition: background-color .5s ease;
   border-bottom: 2px solid #e9ecef;
-}
-
-.navbar-nav li {
-  padding-right: .8rem;
-}
-
-.navbar-nav .nav-link {
-  color: white;
-  padding-top: .8rem;
-}
-
-.navbar-nav .nav-link.active,
-.navbar-nav .nav-link:hover {
-  color: #1EBBA3;
-}
-
-.dropdown .dropdown-toggle {
-  color: #545454 !important;
-}
-
-li:first-child .dropdown-menu {
-  min-width: 250px;
-}
-
-/*============= RESETS =============*/
-
-/*-- iPhone X Remove Gutters --*/
-html {
-  padding: env(safe-area-inset);
-}
-
-/*-- Prevent Horizontal Scrolling & Font Style --*/
-html,
-body {
-  overflow-x: hidden;
-  font-family: 'Lato', sans-serif;
-  color: #505962;
-}
-
-.text-splash {
-  color: #1EBBA3;
-}
-
-/*--- Nav Scrolling Offset --*/
-.offset:before {
-  content: "";
-  height: 4rem;
-  display: block;
-  margin-top: -4rem;
-}
-
-/*--- Extra Bootstrap Column Padding --*/
-[class*="col-"] {
-  padding: 1rem;
-}
-
-/*============= NAVIGATION =============*/
-.navbar-brand img {
-  height: 2rem;
-}
-
-.navbar {
-  padding: .7rem 1rem;
-  text-transform: uppercase;
-  font-weight: 700;
-  letter-spacing: .1rem;
-  font-size: .9rem;
-  transition: background-color .5s ease;
 }
 
 .navbar-nav li {
@@ -664,3 +634,7 @@ code {
 .icon-linkedin:before {
   content: "\eac9";
 }
+.tab { margin-left: 40px;
+margin-right: 60px;
+text-align: justify;
+text-justify: inter-word; }

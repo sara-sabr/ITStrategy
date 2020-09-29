@@ -1,0 +1,414 @@
+- table:
+  id: t001
+  name:
+    fr: Ensemble cohérent de mesures
+    en: Coherent set of actions
+  rows:
+  - row:
+    headers: true
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Résultat
+        en: Outcome
+    - col:
+      data:
+        list: false
+        fr: Mesure
+        en: Action
+    - col:
+      data:
+        list: false
+        fr: Description
+        en: Description  
+    - col:
+      data:
+        list: false
+        fr: Lead
+        en: Lead 
+    - col:
+      data:
+        list: false
+        fr: Parties prenantes
+        en: Stakeholders 
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Gouvernance
+        en: Governance
+    - col:
+      data:
+        list: false
+        fr: 
+        en: Produce the EARB standard definition of IT Solutions
+    - col:
+      data:
+        list: false
+        fr: 
+        en: |
+          Define the IT Solution concept and scope for use and assessment by EARB and IITB teams.
+    - col:
+      data:
+        list: false
+        fr: <strong>Équipes d'architecture</strong>
+        en: |
+          <strong>Architecture Teams</strong>
+          <br>(Includes: Enterprise, Business, Data, Information, Solution, Technical, IT Security, and Security Architecture)
+    - col:
+      data:
+        list: true
+        items:
+        - item:
+            fr:
+            en: Senior Application Development Advisors
+        - item:
+            fr:
+            en: IT Strategy
+        - item:
+            fr:
+            en: Technical Standards Working Group (TSWG)
+        - item:
+            fr:
+            en: ARC
+        - item:
+            fr:
+            en: EARB
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Gouvernance
+        en: Governance
+    - col:
+      data:
+        list: false
+        fr: 
+        en: Produce IT Solution Risk Assessment Framework
+    - col:
+      data:
+        list: false
+        fr: 
+        en: |
+          Produce an IT Solution Risk Assessment Framework that favours and incentivizes flexible and interoperable IT solutions, service oriented architecture, and reusable IT Products as components.
+          <br>
+          The Framework should also increase the level of IT Solutions using Open Standards over Proprietary ones. 
+          <br><br>
+          ESDC Business Capability Model should be leveraged to help define IT Solution concept boundaries.
+    - col:
+      data:
+        list: false
+        fr: <strong>Équipes d'architecture</strong>
+        en: |
+          <strong>Architecture Teams</strong>
+          <br>(Includes: Enterprise, Business, Data, Information, Solution, Technical, IT Security, and Security Architecture)
+    - col:
+      data:
+        list: true
+        items:
+        - item:
+            fr:
+            en: Senior Application Development Advisors
+        - item:
+            fr:
+            en: IT Strategy
+        - item:
+            fr:
+            en: Enterprise Ops
+        - item:
+            fr:
+            en: CDO
+        - item:
+            fr:
+            en: Technical Standards Working Group (TSWG)
+        - item:
+            fr:
+            en: ARC
+        - item:
+            fr:
+            en: EARB
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Gouvernance
+        en: Governance
+    - col:
+      data:
+        list: false
+        fr: 
+        en: Produce IT Product Risk Assessment Framework
+    - col:
+      data:
+        list: false
+        fr: 
+        en: |
+          Produce an IT Product Risk Assessment Framework that favours and incentivizes meeting the GC Architectural Standards.
+          ESDC Business Capability Model should be leveraged to help define IT Solution concept boundaries.
+          <br><br>
+          Key IT Products criteria to keep in mind:<br>
+          <strong>Favours</strong>: flexible, interchangeable, interoperable, reusable, scalable, and that can support self-serve for development teams<br>
+          <strong>Reduces</strong>: lock-in situations, whether contractual or technological, maintenance, customization, etc.
+    - col:
+      data:
+        list: false
+        fr: <strong>Équipes d'architecture</strong>
+        en: |
+          <strong>Architecture Teams</strong>
+          <br>(Includes: Enterprise, Business, Data, Information, Solution, Technical, IT Security, and Security Architecture)
+    - col:
+      data:
+        list: true
+        items:
+        - item:
+            fr:
+            en: Senior Application Development Advisors
+        - item:
+            fr:
+            en: IT Strategy
+        - item:
+            fr:
+            en: Enterprise Ops
+        - item:
+            fr:
+            en: CDO
+        - item:
+            fr:
+            en: Technical Standards Working Group (TSWG)
+        - item:
+            fr:
+            en: ARC
+        - item:
+            fr:
+            en: EARB
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Gouvernance
+        en: Governance
+    - col:
+      data:
+        list: false
+        fr: 
+        en: Review IITB Governance Structure and ToRs
+    - col:
+      data:
+        list: false
+        fr: 
+        en: |
+          Review the current IITB Governance Structure and committees Terms of References to identify potential gaps and conflicts with the desired outcomes of this strategy.
+          <br>
+          Then, adjust governance and committees ToRs to be aligned with the desired outomes.
+    - col:
+      data:
+        list: false
+        fr: <strong>Équipes d'architecture</strong>
+        en: |
+          <strong>Architecture Teams</strong>
+          <br>(Includes: Enterprise, Business, Data, Information, Solution, Technical, IT Security, and Security Architecture)
+    - col:
+      data:
+        list: true
+        items:
+        - item:
+            fr:
+            en: IT Strategy
+        - item:
+            fr:
+            en: ADMO
+        - item:
+            fr:
+            en: DG Committee
+        - item:
+            fr:
+            en: Senior Application Development Advisors
+        - item:
+            fr:
+            en: OCMC
+        - item:
+            fr:
+            en: Technical Standards Working Group (TSWG)
+        - item:
+            fr:
+            en: ARC
+        - item:
+            fr:
+            en: EARB
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Gouvernance
+        en: Governance
+    - col:
+      data:
+        list: false
+        fr: 
+        en: Endorse the ESDC OSS Framework
+    - col:
+      data:
+        list: false
+        fr: 
+        en: |
+            Officially review the ESDC OSS Framework and endorse it. 
+    - col:
+      data:
+        list: false
+        fr: <strong>Architecture Technologique</strong>
+        en: |
+          <strong>Technology Architecture</strong>
+    - col:
+      data:
+        list: true
+        items:
+        - item:
+            fr:
+            en: Legal
+        - item:
+            fr:
+            en: IT Strategy
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Finance
+        en: Finance
+    - col:
+      data:
+        list: false
+        fr: 
+        en: Produce IT Products Management Framework
+    - col:
+      data:
+        list: false
+        fr: 
+        en: |
+            Produce an IT Product Management Framework, providing guidance on Operational vs Capital Expense Financial management to support this management model in ESDC lead initiatives<br>
+            Leverage the Cloud CoE showback model to help explain use of services as part of an IT Solution and IT Products costing vs project budgeting.
+    - col:
+      data:
+        list: false
+        fr: <strong>À confirmer</strong>
+        en: |
+          <strong>TBC</strong>
+    - col:
+      data:
+        list: true
+        items:
+        - item:
+            fr:
+            en: Cloud CoE
+        - item:
+            fr:
+            en: IITB Finance
+        - item:
+            fr:
+            en: CFOB
+        - item:
+            fr:
+            en: IT Strategy
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Finance
+        en: Finance
+    - col:
+      data:
+        list: false
+        fr: 
+        en: Produce Total Cost of Ownership Framework
+    - col:
+      data:
+        list: false
+        fr: 
+        en: |
+            Produce a Total Cost of Ownership Framework to provide guidance on assessing the full lifecycle costs of adopting IT Solutions (acquisition, operation and end-of-life)
+    - col:
+      data:
+        list: false
+        fr: <strong>Équipes d'architecture</strong>
+        en: |
+          <strong>Architecture Teams</strong>
+          <br>(Includes: Enterprise, Business, Data, Information, Solution, Technical, IT Security, and Security Architecture)
+    - col:
+      data:
+        list: true
+        items:
+        - item:
+            fr:
+            en: IITB Finance
+        - item:
+            fr:
+            en: CFOB
+        - item:
+            fr:
+            en: IT Strategy
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Légal
+        en: Legal
+    - col:
+      data:
+        list: false
+        fr: 
+        en: Produce an ESDC Software Legal Terms Guidance
+    - col:
+      data:
+        list: false
+        fr: 
+        en: |
+            Produce an ESDC Software Legal Terms Guidance to support the adoption of OSS, help manage the legal complexities of Cloud subscriptions and support teams in assessing the shared risk and responsibilities 
+    - col:
+      data:
+        list: false
+        fr: <strong>Services Légaux</strong>
+        en: |
+          <strong>Legal Services</strong>
+    - col:
+      data:
+        list: true
+        items:
+        - item:
+            fr:
+            en: Cloud CoE
+        - item:
+            fr:
+            en: CFOB IPPM
+        - item:
+            fr:
+            en: TBS Procurement
+        - item:
+            fr:
+            en: IT Strategy
+        - item:
+            fr: 
+            en: PSPC
+        - item:
+            fr: 
+            en: SSC
+- table:
+  id: t002
+  name:
+    fr: Test
+    en: Test

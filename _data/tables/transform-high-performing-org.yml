@@ -1,0 +1,271 @@
+- table:
+  id: t001
+  name:
+    fr: Ensemble cohérent de mesures
+    en: Coherent set of actions
+  rows:
+  - row:
+    headers: true
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Résultat
+        en: Outcome
+    - col:
+      data:
+        list: false
+        fr: Mesure
+        en: Action
+    - col:
+      data:
+        list: false
+        fr: Description
+        en: Description  
+    - col:
+      data:
+        list: false
+        fr: Parties prenantes
+        en: Stakeholders
+    - col:
+      data:
+        list: false
+        fr: Roadmap
+        en: Roadmap
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Gouvernance
+        en: Governance
+    - col:
+      data:
+        list: false
+        fr: 
+        en: Develop a self-assessment tool based on capabilities of high-performing organizations and PwC recommendations
+    - col:
+      data:
+        list: false
+        fr: 
+        en: To help teams understand the current condition and set measurable targets, the self-assessment tool will guide teams toward ways to improve based on an evaluation of different capabilities linked to high-performing organizations.
+    - col:
+      data:
+        list: true
+        items:
+        - item:
+            fr: <strong>Stratégie TI</strong>
+            en: <strong>IT Strategy</strong>
+        - item:
+            fr: R&P
+            en: R&P
+    - col:
+      data:
+        list: false
+        fr: 2020-2021 Q2
+        en: 2020-2021 Q2
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Gouvernance
+        en: Governance
+    - col:
+      data:
+        list: false
+        fr: 
+        en: DGs define their own continuous improvement metrics to achieve the goals of the Guiding Policy
+    - col:
+      data:
+        list: false
+        fr: 
+        en: The goals of the Guiding Policy is to move toward a Generative (Westrum) culture; to reduce lead time, change failure rate and time to restore service; while increasing deployment frequency. DGs will need to identify how their teams can contribute to the improvement of these metrics, by defining and improving their own metrics.
+    - col:
+      data:
+        list: true
+        items:
+        - item:
+            fr: <strong>CIOEC</strong>
+            en: <strong>CIOEC</strong>
+        - item:
+            fr: Stratégie TI
+            en: IT Strategy
+    - col:
+      data:
+        list: false
+        fr: 2020-2021 Q3
+        en: 2020-2021 Q3
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Gouvernance
+        en: Governance
+    - col:
+      data:
+        list: false
+        fr: 
+        en: Establish communication plan and change management for continuous improvement in (and around) IITB
+    - col:
+      data:
+        list: false
+        fr: 
+        en: Communicating the intended outcome to IITB employees will be very important for this transformation to succeed.
+    - col:
+      data:
+        list: true
+        items:
+        - item:
+            fr: <strong>BOP</strong>
+            en: <strong>BOP</strong>
+        - item:
+            fr: Stratégie TI
+            en: IT Strategy
+    - col:
+      data:
+        list: false
+        fr: 2020-2021 Q3
+        en: 2020-2021 Q3
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Gouvernance
+        en: Governance
+    - col:
+      data:
+        list: false
+        fr: 
+        en: Promote ways for users to propose innovation and experimentation (Grassroots, PoC...)
+    - col:
+      data:
+        list: false
+        fr: 
+        en: Grassroots initiative provides IITB employees with a way to get approval to experiment with new ways of working or improvements. PoC is for teams outside of IITB to request that IITB investigates possible solutions before they propose an official project.
+    - col:
+      data:
+        list: true
+        items:
+        - item:
+            fr: <strong>BPMO</strong>
+            en: <strong>BPMO</strong>
+        - item:
+            fr: AE
+            en: EA
+        - item:
+            fr: Enterprise Ops
+            en: Enterprise Ops
+        - item:
+            fr: BOP
+            en: BOP
+    - col:
+      data:
+        list: false
+        fr: 2020-2021 Q3
+        en: 2020-2021 Q3
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Gouvernance
+        en: Governance
+    - col:
+      data:
+        list: false
+        fr: 
+        en: Provide guidelines and environments to experiment (SAFER lab, Cloud, Virtual Desktops, ..)
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: true
+        items:
+        - item:
+            fr: <strong>CCoE</strong>
+            en: <strong>CCoE</strong>
+        - item:
+            fr: AE
+            en: EA
+        - item:
+            fr: EO
+            en: EO
+    - col:
+      data:
+        list: false
+        fr: 2020-2021 Q3
+        en: 2020-2021 Q3
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Gouvernance
+        en: Governance
+    - col:
+      data:
+        list: false
+        fr: 
+        en: Create platform to store and analyze key metrics of teams
+    - col:
+      data:
+        list: false
+        fr: 
+        en: Could be only SharePoint sites to start.
+    - col:
+      data:
+        list: true
+        items:
+        - item:
+            fr: <strong>R&P</strong>
+            en: <strong>R&P</strong>
+        - item:
+            fr: Stratégie TI
+            en: IT Strategy
+    - col:
+      data:
+        list: false
+        fr: 2020-2021 Q3
+        en: 2020-2021 Q3
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Gouvernance
+        en: Governance
+    - col:
+      data:
+        list: false
+        fr: 
+        en: Reassess metrics and their respective impacts on a bi-annual basis
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: true
+        items:
+        - item:
+            fr: <strong>Stratégie TI</strong>
+            en: <strong>IT Strategy</strong>
+    - col:
+      data:
+        list: false
+        fr: 2020-2021 Q4
+        en: 2020-2021 Q4

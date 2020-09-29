@@ -60,7 +60,7 @@ COTS is defined as per [US DoD FAQ](https://dodcio.defense.gov/Open-Source-Softw
 
 All of [ESDC's services](https://www.canada.ca/en/employment-social-development/corporate/portfolio/service-canada/programs.html) are delivered through technology with a large majority running on the public cloud to seek benefits of [rapid elasticity, broad internet access, and up to date security patching](https://doi.org/10.6028/NIST.SP.800-145).
 This includes up to Protected B data.
-Platform as a Service (PaaS) and Software as a Service (SaaS) delivery [cloud models are preferred](https://www.canada.ca/en/government/system/digital-government/modern-emerging-technologies/cloud-services/government-canada-cloud-adoption-strategy.html), leaving Infrastructure as a Service (IaaS) on exception basis only.
+Platform as a Service (PaaS) and Software as a Service (SaaS) delivery [cloud models are preferred](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/cloud-services/government-canada-cloud-adoption-strategy.html), leaving Infrastructure as a Service (IaaS) on exception basis only.
 
 ESDC's IT Solutions can only "talk" to each other via **APIs** allowing channel-agnostic services and communications.
 ESDC's APIs are all published on the Government of Canada's **API Store**, enabling the private industry and the public to build mobile applications, websites, applications, and voice assistant compatibility devices, to deliver a variety of user experiences to citizens.

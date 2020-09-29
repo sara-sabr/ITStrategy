@@ -5,11 +5,10 @@ ref: references
 lang: fr
 status: posted
 sections: "À propos de nous"
+datatable-ids: t002
 permalink: /references-fr.html
 ---
-<!-- markdownlint-disable MD025-->
-# {{ page.title }}
-<!-- markdownlint-enable MD025 -->
+{%- assign tables = site.data.tables.references -%}
 
 Le matériel de référence présent sur cette page est utilisé par l'équipe de Stratégie TI.
 
@@ -19,119 +18,15 @@ Certain du contenu pourrait être disponible uniquement sur le réseau du GC/EDS
 
 N'hésitez pas à nous envoyer des propositions de livres, articles, vidéos ou même des politiques!
 
-## Spécifique à EDSC et au GC
+## {{ tables[0].name[page.lang] }}
 
-- [Cadre stratégique d'EDSC](http://esdc.prv/fr/ministere/pai/index.shtml)
-- [Stratégie de transformation de service d'ESDC](http://esdc.prv/fr/ministere/service-strategique/index.shtml)
-- [Changements récents au mandat d'EDSC](http://esdc.prv/fr/ministere/changements_lmdes.shtml)
-- [Plans ministériels d'EDSC](https://www.canada.ca/fr/emploi-developpement-social/ministere/rapports/plan-ministeriel.html)
-- [Directive sur l'utilisation du réseau d'EDSC](http://iservice.prv/fra/si/securite/outils_et_ressources/trousse_outils/edsc_directive_utilisation_reseau.shtml)
-- [Outil de classification de l'information d'EDSC](http://iservice.prv/fra/si/securite/classification/outil_classification.shtml)
-- [Guide d'utilisation des médias sociaux à l'intention des employés d'EDSC](http://esdc.prv/fr/restez_branche/medias_sociaux.shtml)
-- [Guide sur l'utilisation personnelle et officielle d'Internet d'EDSC](http://esdc.prv/fr/restez_branche/manuel.shtml)
-- [Demandes d’exception de sécurité TI d'EDSC](http://dialogue/grp/ITSecurity-SecuriteTI/Site/Exceptions.aspx)
-- [Orientation sur l’habilitation de l’accès aux services Web : Avis de mise en œuvre de la politique](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32588)
-- [Politique sur l'utilisation acceptable des dispositifs et des réseaux](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=27122)
-- [Directive sur la gestion des technologies de l'information](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=15249)
-- [Politique sur les services et le numérique du CT](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32603) ([GCCollab group](https://gccollab.ca/groups/profile/588431/endigital-numu00e9riquefrdigital-numu00e9rique))
-- [Directive sur les services et le numérique du CT](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32601) ([GCCollab group](https://gccollab.ca/groups/profile/588431/endigital-numu00e9riquefrdigital-numu00e9rique))
-- [Directive sur la gestion de la sécurité du CT](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32611)
+{% include table.html table-id="t001" file="references"%}
 
-## Outils
+## {{ tables[1].name[page.lang ]}}
 
-Ces outils sont tous accessibles au public, ce qui signifie que les informations doivent être transitoires et qu'aucune information protégée ne doit être envoyée ou discutée. Ils sont destinés à la collaboration informelle et au partage d'information.
+{{ tables[1].description[page.lang ]}}
 
-Pour de plus amples informations sur le travail en mode ouvert, veuillez consulter le blogue suivant sur [Travailler ouvertement](https://sara-sabr.github.io/ITStrategy/2019/11/19/travailler-ouvertement-partie-1.html).
-
-### Spécifique au gouvernement du Canada
-
-- [GCcollab](https://gccollab.ca)
-- [GCmessage](https://message.gccollab.ca)
-
-### Vidéoconférence
-
-- [Jitsi Meet](https://meet.jit.si) (pas de compte nécessaire)
-- [BigBlueButton](https://demo.bigbluebutton.org)
-- [Zoom](https://zoom.us)
-- [Google Hangouts](https://hangouts.google.com)
-- [Skype](https://www.skype.com)
-- [Blue Jeans](https://www.bluejeans.com)
-
-### Messagerie instantanée - Canal
-
-- [Slack](https://slack.com) : Peut être utilisé avec le courrier électronique professionnel, mais peut nécessiter l'accès au courriel pour créer un compte
-- [Riot (Matrix)](https://riot.im/app/) : Décentralisée et supporte les messages encryptés de bout en bout
-- [Rocket Chat](https://open.rocket.chat)
-- [Gitter](https://gitter.im) : Pour les développeurs et les utilisateurs des dépôts GitHub
-- [Framateam](https://framateam.org)
-
-### Messagerie instantanée - Un à un (ou plusieurs)
-
-- [Signal](https://signal.org) : Encrypté
-- [Jami](https://jami.net) : Décentralisé et encrypté
-- [WhatsApp](https://www.whatsapp.com) : Supporte la vidéoconférence
-
-### Éditeur de texte (en temps réel)
-
-- [Framapad](https://framapad.org) (pas besoin de compte)
-- [CryptPad](https://cryptpad.fr) : Pour texte, présentation, tableur, etc. - crypté (compte facultatif)
-- [HackMD](https://hackmd.io) : Pour documents Markdown (compte facultatif)
-
-### Gestion des tâches (Kanban)
-
-- [Trello](https://trello.com)
-- [Framaboard](https://framaboard.org)
-
-### Tableau blanc
-
-- [Web Whiteboard](https://www.webwhiteboard.com) (pas besoin de compte)
-- [Miro Board](https://miro.com)
-- [Framemo](https://framemo.org) : Post-it
-
-### Carte mentale
-
-- [Coggle](https://coggle.it)
-- [Framindmap](https://framindmap.org)
-
-### Gestion de projet
-
-- [Asana](https://asana.com)
-- [Taïga](https://taiga.io)
-
-### Partage de documents ad hoc (pas besoin de compte)
-
-- [Framadrop](https://framadrop.org) : Fichiers volumineux
-- [Framabin](https://framabin.org) : Texte
-- [Framapic](https://framapic.org) : Image
-- [Framalink](https://frama.link) : Raccourcisseur de liens
-
-### Enquête
-
-- [Framadate](https://framadate.org) : Voter pour une date ou d'autre chose
-- [Framavox](https://framavox.org)
-
-### Formulaires
-
-- [Framaforms](https://framaforms.org)
-
-### Hangout Space
-
-- [Hubs by Mozilla](https://hubs.mozilla.com/#/) (pas besoin de compte)
-
-### Développement
-
-- [GitHub](https://github.com)
-- [GitLab](https://about.gitlab.com)
-- [Framagit](https://framagit.org)
-- [VS Code Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) : Visual Studio Live Share permet d'éditer et de déboguer en collaboration avec d'autres personnes en temps réel
-
-### Conception
-
-- [Draw.io](https://app.diagrams.net) (pas besoin de compte)
-- [Canva](https://www.canva.com) : Conception d'infographies, de cartes, etc.
-- [XD](https://www.adobe.com/ca/products/xd/details.html) Outil de simulation haute fidélité avec fonctions de collaboration
-- [Figma](https://www.figma.com) Une application de conception d'interface qui s'exécute dans le navigateur
-- [Sketch](https://www.sketch.com) créer, prototyper, collaborer et transformer les idées en produits incroyables avec la plateforme définitive de conception numérique.
+{% include table.html table-id="t002" file="references"%}
 
 ## Général
 

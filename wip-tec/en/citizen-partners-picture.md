@@ -1,4 +1,4 @@
-## IT Picture - Medium Term
+# IT Picture - Medium Term
 
 This is a working document to help the IT Strategy team create a picture of what IT will look in the **medium term** for ESDC in line with the organization's [Vision](https://www.canada.ca/en/employment-social-development/news/2018/01/backgrounder_oldagesecurityoasautomaticenrolment.html).
 
@@ -7,19 +7,28 @@ In the following sections, we're trying to take the perspectives of different au
 1. **The Citizen**: their experience with ESDC due to adoption of technology in ESDC service delivery
 2. **Private Sector**: their relationship with ESDC in partnering with ESDC to improve service delivery
 
-- [Citizen](#citizen)
-  - [Service performance improvements](#service-performance-improvements)
-  - [Service Experience Improvements](#service-experience-improvements)
-  - [Service Centres and Outreach](#service-centres-and-outreach)
-- [External Partners](#external-partners)
-  - [Any platform, any device, 3rd party integration](#any-platform-any-device-3rd-party-integration)
-  - [Open Collaboration](#open-collaboration)
+- [IT Picture - Medium Term](#it-picture---medium-term)
+  - [Citizen](#citizen)
+    - [Service performance improvements](#service-performance-improvements)
+    - [Service Experience Improvements](#service-experience-improvements)
+    - [Service Centres and Outreach](#service-centres-and-outreach)
+  - [External Partners](#external-partners)
+    - [Any platform, any device, 3rd party integration](#any-platform-any-device-3rd-party-integration)
+    - [Open Collaboration](#open-collaboration)
+  - [IT Picture - Long Term](#it-picture---long-term)
+    - [Citizen](#citizen-1)
+      - [Automatic Enrollment and Delivery](#automatic-enrollment-and-delivery)
+      - [Self-Service](#self-service)
+      - [Service Centres and Outreach](#service-centres-and-outreach-1)
+    - [External Partners](#external-partners-1)
+      - [Any platform, any device, 3rd party integration](#any-platform-any-device-3rd-party-integration-1)
+      - [Open Collaboration](#open-collaboration-1)
 
-### Citizen
+## Citizen
 
 TODO: Some risks are identified towards services to citizens [here](https://www.canada.ca/en/employment-social-development/corporate/reports/departmental-plan/2018-2019/mandate-role-operating-context-risks.html#h2.3)
 
-#### Service performance improvements
+### Service performance improvements
 
 In line with ESDC's Vision to modernize its services to Canadians (e.g.: Service Transformation Plan, Workforce Transformation Plan and Benefit Delivery Modernization activities), the technological changes made to ESDC will offer Citizens services performance improvements:
 
@@ -33,7 +42,7 @@ In line with ESDC's Vision to modernize its services to Canadians (e.g.: Service
 
 Technology in services is seeing constant improvements in terms of stability, with fewer service outages and shorter wait times, as ESDC's IT infrastructure is being modernized, the Benefits Delivery Modernization (BDM) agile project has made significant iterations over 5 years, and ESDC's Transformation agenda is well underway.
 
-#### Service Experience Improvements
+### Service Experience Improvements
 
 Technology is being used to improve service experience for the citizen.
 Through technology, citizens are offered improved user experiences as identified in ESDC's [Service Transformation Agenda](http://esdc.prv/en/department/service-strategy/corner/transformation-agenda/index.shtml).
@@ -51,7 +60,7 @@ These channels may be ESDC's website, the beginning of the GC services portal, S
 
 This is inline the OneGC vision, that includes "Tell us once", "Sign-in Canada" and the services portal, presented in the [GC Digital Operation Strategic Plan 2018-2022](https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html#ToC15).
 
-#### Service Centres and Outreach
+### Service Centres and Outreach
 
 - Service Canada agents focus on interacting through outreach by default, leading to more personalized service, closer to the needs of clients and increased support and identification of eligible citizens that are isolated or can't access digital services on their own.
 - Repetitive processes are handled through automation
@@ -59,11 +68,11 @@ This is inline the OneGC vision, that includes "Tell us once", "Sign-in Canada" 
 
 TODO: use the list of major projects as input to describe the business outcomes for citizens (e.g. central login, service improvement)
 
-### External Partners
+## External Partners
 
 - By External Partners, we mean for profit companies, not for profit organizations, academia, private citizens and other jurisdictions such as provinces, cities, schools, etc.
 
-#### Any platform, any device, 3rd party integration
+### Any platform, any device, 3rd party integration
 
 - External partners are strongly encouraged to innovate using ESDC APIs published on the GC Open [API Store](https://api.canada.ca/) and ESDC's datasets published on the [Open Government Portal](https://open.canada.ca/en)
 - They are able to view some of the source code that is being used to run their automated services, as ESDC started publishing their source code under open source licences and working in the open
@@ -71,7 +80,7 @@ TODO: use the list of major projects as input to describe the business outcomes 
 - Transparency, accountability, and monitoring is built into all automated processes.
 External partners are respecting citizens' privacy when they use ESDC's services (i.e. no data mining or selling).
 
-#### Open Collaboration
+### Open Collaboration
 
 ESDC's culture is embracing openness and transparency, understanding that ESDC acts as the steward of the data, not the owner.
 The citizen is the owner of the data.
@@ -94,13 +103,22 @@ In the following sections, we're trying to take the perspectives of different au
 1. **The Citizen**: their experience with ESDC due to adoption of technology in ESDC service delivery
 2. **Private Sector**: their relationship with ESDC in partnering with ESDC to improve service delivery
 
-- [Citizen](#citizen)
-  - [Automatic Enrollment and Delivery](#automatic-enrollment-and-delivery)
-  - [Self-Service](#self-service)
-  - [Service Centres and Outreach](#service-centres-and-outreach)
-- [External Partners](#external-partners)
-  - [Any platform, any device, 3rd party integration](#any-platform-any-device-3rd-party-integration)
-  - [Open Collaboration](#open-collaboration)
+- [IT Picture - Medium Term](#it-picture---medium-term)
+  - [Citizen](#citizen)
+    - [Service performance improvements](#service-performance-improvements)
+    - [Service Experience Improvements](#service-experience-improvements)
+    - [Service Centres and Outreach](#service-centres-and-outreach)
+  - [External Partners](#external-partners)
+    - [Any platform, any device, 3rd party integration](#any-platform-any-device-3rd-party-integration)
+    - [Open Collaboration](#open-collaboration)
+  - [IT Picture - Long Term](#it-picture---long-term)
+    - [Citizen](#citizen-1)
+      - [Automatic Enrollment and Delivery](#automatic-enrollment-and-delivery)
+      - [Self-Service](#self-service)
+      - [Service Centres and Outreach](#service-centres-and-outreach-1)
+    - [External Partners](#external-partners-1)
+      - [Any platform, any device, 3rd party integration](#any-platform-any-device-3rd-party-integration-1)
+      - [Open Collaboration](#open-collaboration-1)
 
 ### Citizen
 

@@ -1,0 +1,56 @@
+{% comment %}
+  Reusable function to generate tables in markdown documents.
+  
+  See Contributing.md for details.
+  
+  Inspired by https://idratherbewriting.com/blog/single-sourcing-data-into-table-templates-jekyll/
+{% endcomment %}
+
+{%- assign table-id = include.table-id -%}
+{%- assign tables-file = {{include.file}}-%}
+{%- assign table-data = site.data.tables.[tables-file] -%}
+{%- assign table-data-filtered = table-data | where: "id", {{table-id}} -%}
+{%- assign table = table-data-filtered[0] %}
+{%- assign headerRows = table.rows | where: "headers", true -%}
+{%- assign dataRows = table.rows | where: "headers", false -%}
+{%- assign table-list = page.datatable-ids | split:"," -%}
+
+{%- if page.datatable-ids contains table-id and headerRows.size > 0-%}
+<table class="display" id="{{table-id}}">
+{%else%}
+<table id="{{table-id}}">
+{%- endif -%}
+  {% if headerRows %}
+  <thead>
+    {%for row in headerRows %}
+    <tr>
+      {% for col in row.cols %}
+      <th scope="col">
+        {{ col.data.[page.lang]}}
+      </th>
+      {% endfor %}
+    </tr>
+    {% endfor %}
+  </thead>
+  {% endif %}
+  <tbody>
+    {% for row in dataRows %}
+    <tr>
+      {% for col in row.cols %}
+      <td>
+        {% if col.data.list == true %}
+        {%- assign items = col.data.items -%}
+        <ul>
+          {% for entry in items %}
+          <li class="table-list">{{entry.item[page.lang]}}</li>
+          {%- endfor %}
+        </ul>
+        {% else %}
+        {{ col.data.[page.lang]}}
+        {% endif %}
+      </td>
+      {% endfor %}
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>

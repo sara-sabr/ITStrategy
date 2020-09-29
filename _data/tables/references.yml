@@ -1,0 +1,1459 @@
+- table:
+  id: t001
+  name:
+    fr: Liens spécifiques à EDSC et au GC
+    en: ESDC and GoC Specific Links
+  rows:
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: true
+        items:
+        - item:
+            fr: |
+              <a href="http://esdc.prv/fr/ministere/pai/index.shtml" target="_blank">Cadre stratégique d’EDSC</a>
+            en: |
+              <a href="http://esdc.prv/en/department/ibp/index.shtml" target="_blank">ESDC strategic Framework</a>
+        - item:
+            fr: |
+              <a href="http://esdc.prv/fr/ministere/service-strategique/index.shtml" target="_blank">Stratégie de transformation de service d’ESDC</a>
+            en: |
+              <a href="http://esdc.prv/en/department/service-strategy/index.shtml" target="_blank">ESDC Service transformation Strategy</a>
+        - item:
+            fr: |
+              <a href="http://esdc.prv/fr/ministere/changements_lmdes.shtml" target="_blank">Changements récents au mandat d’EDSC</a>
+            en: |
+              <a href="http://esdc.prv/en/department/changes_desda.shtml" target="_blank">Recent changes to the ESDC's mandate</a>
+        - item:
+            fr: |
+              <a href="https://www.canada.ca/fr/emploi-developpement-social/ministere/rapports/plan-ministeriel.html" target="_blank">Plans ministériels d’EDSC</a>
+            en: |
+              <a href="https://www.canada.ca/en/employment-social-development/corporate/reports/departmental-plan.html" target="_blank">ESDC's departmental plans</a>
+        - item:
+            fr: |
+              <a href="http://iservice.prv/fra/si/securite/outils_et_ressources/trousse_outils/edsc_directive_utilisation_reseau.shtml" target="_blank">Directive sur l’utilisation du réseau d’EDSC</a>
+            en: |
+              <a href="http://iservice.prv/eng/is/security/tools_and_resources/toolkit/network_use_directive.shtml" target="_blank">ESDC Network Use Directive</a>
+        - item:
+            fr: |
+              <a href="http://iservice.prv/fra/si/securite/classification/outil_classification.shtml" target="_blank">Outil de classification de l’information d’EDSC</a>
+            en: |
+              <a href="http://iservice.prv/eng/is/security/classification/classification_tool.shtml" target="_blank">ESDC Information Classification Tool</a>
+        - item:
+            fr: |
+              <a href="http://esdc.prv/fr/restez_branche/medias_sociaux.shtml" target="_blank">Guide d’utilisation des médias sociaux à l’intention des employés d’EDSC</a>
+            en: |
+              <a href="http://esdc.prv/en/stay_connected/social_media.shtml" target="_blank">ESDC Social Media Guidelines for Employees</a>
+        - item:
+            fr: |
+              <a href="http://esdc.prv/fr/restez_branche/manuel.shtml" target="_blank">Guide sur l’utilisation personnelle et officielle d’Internet d’EDSC</a>
+            en: |
+              <a href="http://esdc.prv/en/stay_connected/handbook.shtml" target="_blank">ESDC Handbook for the Personal and Official Use of the Internet</a>
+        - item:
+            fr: |
+              <a href="http://dialogue/grp/ITSecurity-SecuriteTI/Site/Exceptions.aspx" target="_blank">Demandes d’exception de sécurité TI d’EDSC</a>
+            en: |
+              <a href="http://dialogue/grp/ITSecurity-SecuriteTI/Site/Exceptions.aspx" target="_blank">ESDC IT Security Exception Requests</a>
+        - item:
+            fr: |
+              <a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32588" target="_blank">Orientation sur l’habilitation de l’accès aux services Web : Avis de mise en œuvre de la politique</a>
+            en: |
+              <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32588" target="_blank">TB Direction on Enabling Access to Web Services: Policy Implementation Notice</a>
+        - item:
+            fr: |
+              <a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=27122" target="_blank">Politique sur l’utilisation acceptable des dispositifs et des réseaux</a>
+            en: |
+              <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=27122" target="_blank">TB Policy on Acceptable Network and Device Use</a>
+        - item:
+            fr: |
+              <a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=15249" target="_blank">Directive sur la gestion des technologies de l’information</a>
+            en: |
+              <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249" target="_blank">TB Directive on Management of Information Technology</a>
+        - item:
+            fr: |
+              <a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32603" target="_blank">Politique sur les services et le numérique du CT</a> <a href="https://gccollab.ca/groups/profile/588431/endigital-numu00e9riquefrdigital-numu00e9rique" target="_blank">(GCCollab group)</a>
+            en: |
+              <a href="http://dialogue/grp/BU6810070/Shared%20Documents/Reference%20Materials/Policy%20on%20service%20and%20digital.docx" target="_blank">TB Policy on service and digital</a>
+              <br>
+              (<a href="https://gccollab.ca/groups/profile/588431/endigital-numu00e9riquefrdigital-numu00e9rique" target="_blank">GCCollab group</a>)          
+        - item:
+            fr: |
+              <a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32601" target="_blank">Directive sur les services et le numérique du CT</a> <a href="https://gccollab.ca/groups/profile/588431/endigital-numu00e9riquefrdigital-numu00e9rique" target="_blank">(GCCollab group)</a>
+            en: |
+              <a href="http://dialogue/grp/BU6810070/Shared%20Documents/Reference%20Materials/Directive%20on%20service%20and%20digital.docx" target="_blank">TB Directive on service and digital</a>
+              <br>
+              (<a href="https://gccollab.ca/groups/profile/588431/endigital-numu00e9riquefrdigital-numu00e9rique" target="_blank">GCCollab group</a>)
+        - item:
+            fr: |
+              <a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32611" target="_blank">Directive sur la gestion de la sécurité du CT</a>
+            en: |
+              <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32611&section=procedure&p=B" target="_blank">TB Directive on Security Management</a>
+- table:
+  id: t002
+  name:
+    fr: Outils et Services
+    en: Tools and Services
+  description:
+    fr: |
+      Ces outils sont tous accessibles au public, ce qui signifie que les informations doivent être transitoires et qu’aucune information protégée ne doit être envoyée ou discutée. Ils sont destinés à la collaboration informelle et au partage d’information.
+      Pour de plus amples informations sur le travail en mode ouvert, veuillez consulter le blogue suivant sur <a href="https://sara-sabr.github.io/ITStrategy/2019/11/19/travailler-ouvertement-partie-1.html" target="_blank">Travailler ouvertement</a>.
+    en: |
+      These tools are all publicly available, meaning information should be transitory and no protected information should be sent or discussed. They are intended for informal collaboration and information sharing.
+      For further guidance on working in the open, please refer to the following blog on <a href="https://sara-sabr.github.io/ITStrategy/2019/11/19/working-in-the-open-part-1.html" target="_blank">Working in the Open</a>.
+  rows:
+  - row:
+    headers: true
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Catégorie
+        en: Category
+    - col:
+      data:
+        list: false
+        fr: Nom
+        en: Name
+    - col:
+      data:
+        list: false
+        fr: Description
+        en: Description
+    - col:
+      data:
+        list: false
+        fr: Logiciel libre
+        en: Open source software
+    - col:
+      data:
+        list: false
+        fr: Logiciel en modèle SaaS
+        en: Software as a Service (SaaS)
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Réseau social
+        en: Social Network
+    - col:
+      data:
+        list: false
+        fr: <a href="https://gccollab.ca/splash/" target="_blank">GCCollab</a>
+        en: <a href="https://gccollab.ca/splash/" target="_blank">GCCollab</a>
+    - col:
+      data:
+        list: false
+        fr: |
+          Réseau social interne au Gouvernement du Canada, permettant la collaboration entre les membres de la fonction publique des ministères du GC ainsi qu'avec des membres de la communauté scientifique universitaire canadienne. Instance de Elgg.
+        en: |
+          Social network internal to Government of Canada, enabling collaboration between employees of various GoC departments as well as with members of the Canadian university communities. Elgg instance.
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: "Yes"
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: "Yes"
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Messagerie instantannée - Canaux
+        en: Instant Messaging - Channel-based
+    - col:
+      data:
+        list: false
+        fr: <a href="https://message.gccollab.ca/" target="_blank">GCmessage</a>
+        en: <a href="https://message.gccollab.ca/" target="_blank">GCmessage</a>
+    - col:
+      data:
+        list: false
+        fr: |
+          Messagerie instantannée utilisant des canaux de discussions, permettant la collaboration et les discussions entre les membres de la fonction publique des ministères du GC ainsi qu'avec des membres de la communauté scientifique universitaire canadienne. Instance de Rocket Chat.
+        en: |
+          Channel-based instant messaging internal to Government of Canada, enabling collaboration and discussions between employees of various GoC departments as well as with members of the Canadian university communities. Rocket Chat instance.
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: "Yes"
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: "Yes"
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Messagerie instantannée - Canaux
+        en: Instant Messaging - Channel-based
+    - col:
+      data:
+        list: false
+        fr: <a href="https://slack.com/intl/fr-ca/" target="_blank">Slack</a>
+        en: <a href="https://slack.com/intl/en-ca/" target="_blank">Slack</a>
+    - col:
+      data:
+        list: false
+        fr: |
+          Service de messagerie par canaux; un compte peut être créé le courrier électronique professionnel
+        en: |
+          Channel-based instant messaging service; an account can be created using the professional email address.
+    - col:
+      data:
+        list: false
+        fr: Non
+        en: "No"
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: "Yes"
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Messagerie instantannée - Canaux
+        en: Instant Messaging - Channel-based
+    - col:
+      data:
+        list: false
+        fr: <a href="https://element.io/" target="_blank">Element</a> (anciennement Riot)
+        en: <a href="https://element.io/" target="_blank">Element</a> (formerly Riot)
+    - col:
+      data:
+        list: false
+        fr: |
+          Service décentralisée de messagerie instantannée sécurisée tout-en-un supportant les messages encryptés de bout en bout pour les équipes, les amis et les organisations. Anciennement connue sous le nom de Riot, elle fait partie du réseau ouvert <a href="https://matrix.org/" target="_blank">Matrix</a>. 
+        en: |
+          All-in-one secure decentralized IM service supporting E2E encrypted messages for teams, friends and organisations. Formerly known as Riot, part of the open <a href="https://matrix.org/" target="_blank">Matrix</a> network. 
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: "Yes"
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: "Yes"
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Messagerie instantannée - Canaux
+        en: Instant Messaging - Channel-based
+    - col:
+      data:
+        list: false
+        fr: <a href="https://open.rocket.chat/" target="_blank">Rocket Chat</a>
+        en: <a href="https://open.rocket.chat/" target="_blank">Rocket Chat</a>
+    - col:
+      data:
+        list: false
+        fr: |
+          Centre de communication soutenant les discussions basées sur les canaux. Utilisé pour GCmessage.
+        en: |
+          Communication Hub supporting channel-based discussions. Used to power GCmessage.
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: "Yes"
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: "Yes"
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Messagerie instantannée - Canaux
+        en: Instant Messaging - Channel-based
+    - col:
+      data:
+        list: false
+        fr: <a href="https://gitter.im/" target="_blank">Gitter</a>
+        en: <a href="https://gitter.im/" target="_blank">Gitter</a>
+    - col:
+      data:
+        list: false
+        fr: |
+          Plate-forme de discussion et de résautage qui aide à gérer, développer et relier des communautés en associant messagerie, contenu et découverte.
+        en: |
+          A discussion and networking platform that helps manage, develop and connect communities by combining messaging, content and discovery.
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: "Yes"
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: "Yes"
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Messagerie instantannée - Canaux
+        en: Instant Messaging - Channel-based
+    - col:
+      data:
+        list: false
+        fr: <a href="https://framateam.org/login" target="_blank">Framateam</a>
+        en: <a href="https://framateam.org/login" target="_blank">Framateam</a>
+    - col:
+      data:
+        list: false
+        fr: |
+          Service de messagerie instantannée libre qui permet de communiquer avec son équipe en notifiant ses collègues, de conserver ses conversations et d’y faire des recherches.
+        en: |
+          Free instant messaging service that allows you to communicate with your team by notifying your colleagues, keep track of your conversations and do research.
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: "Yes"
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: "Yes"
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Messagerie instantanée - Un à un (ou plusieurs)
+        en: Instant Messaging - One-to-One (or Many)
+    - col:
+      data:
+        list: false
+        fr: <a href="https://signal.org/fr/" target="_blank">Signal</a>
+        en: <a href="https://signal.org/en/" target="_blank">Signal</a>
+    - col:
+      data:
+        list: false
+        fr: |
+          Service de messagerie instantannée encryptée.
+        en: |
+          Encrypted instant messaging service.
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: "Yes"
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: "Yes"
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Messagerie instantanée - Un à un (ou plusieurs)
+        en: Instant Messaging - One-to-One (or Many)
+    - col:
+      data:
+        list: false
+        fr: <a href="https://jami.net" target="_blank">Jami</a>
+        en: <a href="https://jami.net" target="_blank">Jami</a>
+    - col:
+      data:
+        list: false
+        fr: |
+          Application de messagerie instantannée décentralisée et encryptée.
+        en: |
+          Decentralized and encrypted instant messaging application.
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: "Yes"
+    - col:
+      data:
+        list: false
+        fr: Non
+        en: "No"
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Messagerie instantanée - Un à un (ou plusieurs)
+        en: Instant Messaging - One-to-One (or Many)
+    - col:
+      data:
+        list: false
+        fr: <a href="https://www.whatsapp.com/?lang=fr" target="_blank">WhatsApp</a>
+        en: <a href="https://www.whatsapp.com/?lang=en" target="_blank">WhatsApp</a>
+    - col:
+      data:
+        list: false
+        fr: |
+          Service de messagerie instantannée; supporte la vidéoconférence.
+        en: |
+          Instant messaging service; supports videoconferencing.
+    - col:
+      data:
+        list: false
+        fr: Non
+        en: "No"
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: "Yes"
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Vidéoconférence
+        en: Videoconferencing
+    - col:
+      data:
+        list: false
+        fr: <a href="https://meet.jit.si/" target="_blank">Jitsi Meet</a>
+        en: <a href="https://meet.jit.si/" target="_blank">Jitsi Meet</a>
+    - col:
+      data:
+        list: false
+        fr: |
+          Ne nécessite pas de compte
+        en: |
+          No account needed
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: "Yes"
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: "Yes"
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Vidéoconférence
+        en: Videoconferencing
+    - col:
+      data:
+        list: false
+        fr: <a href="https://demo.bigbluebutton.org/" target="_blank">BigBlueButton</a>
+        en: <a href="https://demo.bigbluebutton.org/" target="_blank">BigBlueButton</a>
+    - col:
+      data:
+        list: false
+        fr: "-"
+        en: "-"
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: "Yes"
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: "Yes"
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Vidéoconférence
+        en: Videoconferencing
+    - col:
+      data:
+        list: false
+        fr: <a href="https://zoom.us/" target="_blank">Zoom</a>
+        en: <a href="https://zoom.us/" target="_blank">Zoom</a>
+    - col:
+      data:
+        list: false
+        fr: "-"
+        en: "-"
+    - col:
+      data:
+        list: false
+        fr: Non
+        en: "No"
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: "Yes"
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Vidéoconférence
+        en: Videoconferencing
+    - col:
+      data:
+        list: false
+        fr: <a href="https://meet.google.com/" target="_blank">Google Meet</a>
+        en: <a href="https://meet.google.com/" target="_blank">Google Meet</a>
+    - col:
+      data:
+        list: false
+        fr: "-"
+        en: "-"
+    - col:
+      data:
+        list: false
+        fr: Non
+        en: "No"
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: "Yes"
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Vidéoconférence
+        en: Videoconferencing
+    - col:
+      data:
+        list: false
+        fr: <a href="https://www.skype.com/" target="_blank">Skype</a>
+        en: <a href="https://www.skype.com/" target="_blank">Skype</a>
+    - col:
+      data:
+        list: false
+        fr: "-"
+        en: "-"
+    - col:
+      data:
+        list: false
+        fr: Non
+        en: "No"
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: "Yes"
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Vidéoconférence
+        en: Videoconferencing
+    - col:
+      data:
+        list: false
+        fr: <a href="https://www.bluejeans.com/fr" target="_blank">Blue Jeans</a>
+        en: <a href="https://www.bluejeans.com/" target="_blank">Blue Jeans</a>
+    - col:
+      data:
+        list: false
+        fr: "-"
+        en: "-"
+    - col:
+      data:
+        list: false
+        fr: Non
+        en: "No"
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: "Yes"
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Éditeur de texte (en temps réel)
+        en: Text Editor (real-time)
+    - col:
+      data:
+        list: false
+        fr: <a href="https://framapad.org/" target="_blank">Framapad</a>
+        en: <a href="https://framapad.org/" target="_blank">Framapad</a>
+    - col:
+      data:
+        list: false
+        fr: |
+          Collaboration en temps réel pour l'édition de texte, offre des pads ouverts et privés ; aucun compte n'est requis pour les pads ouverts.
+        en: |
+          Real-time collaboration for text editing, offers open and private pads; no account required for open pads.
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: "Yes"
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: "Yes"
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Éditeur de texte (en temps réel)
+        en: Text Editor (real-time)
+    - col:
+      data:
+        list: false
+        fr: <a href="https://etherpad.wikimedia.org/" target="_blank">Wikimedia Etherpad</a>
+        en: <a href="https://etherpad.wikimedia.org/" target="_blank">Wikimedia Etherpad</a>
+    - col:
+      data:
+        list: false
+        fr: |
+          Service de collaboration en temps réel pour l'édition de textes, ouvert à tous pour lire et écrire (n'offre pas de comptes)
+        en: |
+          Real-time collaboration service for text editing, open to everyone to read and write (Doesn't offer accounts)
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: "Yes"
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: "Yes"
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Éditeur de texte (en temps réel)
+        en: Text Editor (real-time)
+    - col:
+      data:
+        list: false
+        fr: <a href="" target="_blank">HackMD</a>
+        en: <a href="" target="_blank">HackMD</a>
+    - col:
+      data:
+        list: false
+        fr: |
+          Service de collaboration en temps réel pour l'édition de documents Markdown, offre des notes ouvertes et privées ; compte non requis pour l'utilisation de base.
+        en: |
+          Real-time collaboration service for Markdown document editing, offers open and private notes; account not required for basic usage.
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: "Yes"
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: "Yes"
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Gestion des tâches (Kanban)
+        en: Task Management (Kanban)
+    - col:
+      data:
+        list: false
+        fr: <a href="https://trello.com/fr" target="_blank">Trello</a>
+        en: <a href="https://trello.com/en" target="_blank">Trello</a>
+    - col:
+      data:
+        list: false
+        fr: "-"
+        en: "-"
+    - col:
+      data:
+        list: false
+        fr: Non
+        en: "No"
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: "Yes"
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Tableau blanc
+        en: Whiteboard
+    - col:
+      data:
+        list: false
+        fr: <a href="https://miro.com/" target="_blank">Miro</a>
+        en: <a href="https://miro.com/" target="_blank">Miro</a>
+    - col:
+      data:
+        list: false
+        fr: "-"
+        en: "-"
+    - col:
+      data:
+        list: false
+        fr: Non
+        en: "No"
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: "Yes"
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Tableau blanc
+        en: Whiteboard
+    - col:
+      data:
+        list: false
+        fr: <a href="" target="_blank">Framamemo</a>
+        en: <a href="" target="_blank">Framamemo</a>
+    - col:
+      data:
+        list: false
+        fr: |
+          Service offrant la prise de notes sous forme de "Post-it"
+        en: |
+          Service offering "Post-it" type of notes
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: "Yes"
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: "Yes"
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Cartographie cognitive
+        en: Mindmap
+    - col:
+      data:
+        list: false
+        fr: <a href="https://coggle.it/" target="_blank">Coggle</a>
+        en: <a href="https://coggle.it/" target="_blank">Coggle</a>
+    - col:
+      data:
+        list: false
+        fr: |
+          Service de cartographie cognitive; requiert un compte.
+        en: |
+          Mindmap service; requires account.
+    - col:
+      data:
+        list: false
+        fr: No
+        en: "No"
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: "Yes"
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Cartographie cognitive
+        en: Mindmap
+    - col:
+      data:
+        list: false
+        fr: <a href="https://framindmap.org/c/login" target="_blank">Framindmap</a>
+        en: <a href="https://framindmap.org/c/login" target="_blank">Framindmap</a>
+    - col:
+      data:
+        list: false
+        fr: "-"
+        en: "-"
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: "Yes"
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: "Yes"
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Cartographie cognitive
+        en: Mindmap
+    - col:
+      data:
+        list: false
+        fr: <a href="https://www.freeplane.org/wiki/index.php/Home" target="_blank">Freeplane</a>
+        en: <a href="https://www.freeplane.org/wiki/index.php/Home" target="_blank">Freeplane</a>
+    - col:
+      data:
+        list: false
+        fr: |
+          Application de cartographie cognitive.
+        en: |
+          Mindmap desktop application.
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: "Yes"
+    - col:
+      data:
+        list: false
+        fr: Non
+        en: "no"
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Gestion de projet
+        en: Project Management
+    - col:
+      data:
+        list: false
+        fr: <a href="https://asana.com/fr" target="_blank">Asana</a>
+        en: <a href="https://asana.com/home" target="_blank">Asana</a>
+    - col:
+      data:
+        list: false
+        fr: "-"
+        en: "-"
+    - col:
+      data:
+        list: false
+        fr: Non
+        en: "No"
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: "Yes"
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Gestion de projet
+        en: Project Management
+    - col:
+      data:
+        list: false
+        fr: <a href="https://taiga.io/" target="_blank">Taiga</a>
+        en: <a href="https://taiga.io/" target="_blank">Taiga</a>
+    - col:
+      data:
+        list: false
+        fr: "-"
+        en: "-"
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: "Yes"
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: "Yes"
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Partage de documents ad hoc
+        en: Ad-hoc Document Sharing
+    - col:
+      data:
+        list: false
+        fr: <a href="https://framadrop.org/" target="_blank">Framadrop</a>
+        en: <a href="https://framadrop.org/" target="_blank">Framadrop</a>
+    - col:
+      data:
+        list: false
+        fr: |
+          Large fichiers; pas de compte requis.
+        en: |
+          Large files; no account needed.
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: "Yes"
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: "Yes"
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Partage de documents ad hoc
+        en: Ad-hoc Document Sharing
+    - col:
+      data:
+        list: false
+        fr: <a href="https://framabin.org/" target="_blank">Framabin</a>
+        en: <a href="https://framabin.org/" target="_blank">Framabin</a>
+    - col:
+      data:
+        list: false
+        fr: |
+          Texte; pas de compte requis.
+        en: |
+          Text; no account needed.
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: "Yes"
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: "Yes"
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Partage de documents ad hoc
+        en: Ad-hoc Document Sharing
+    - col:
+      data:
+        list: false
+        fr: <a href="https://framapic.org/" target="_blank">Framapic</a>
+        en: <a href="https://framapic.org/" target="_blank">Framapic</a>
+    - col:
+      data:
+        list: false
+        fr: |
+          Images; pas de compte requis.
+        en: |
+          Images; no account needed.
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: "Yes"
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: "Yes"
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Partage de documents ad hoc
+        en: Ad-hoc Document Sharing
+    - col:
+      data:
+        list: false
+        fr: <a href="https://frama.link/" target="_blank">Framalink</a>
+        en: <a href="https://frama.link/" target="_blank">Framalink</a>
+    - col:
+      data:
+        list: false
+        fr: |
+          Raccourcisseur de liens; pas de compte requis.
+        en: |
+          URL shortener; no account needed.
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: "Yes"
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: "Yes"
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Sondage
+        en: Survey
+    - col:
+      data:
+        list: false
+        fr: <a href="https://framadate.org/" target="_blank">Framadate</a>
+        en: <a href="https://framadate.org/" target="_blank">Framadate</a>
+    - col:
+      data:
+        list: false
+        fr: |
+          Service de vote simple, pour des dates ou des choix multiples.
+        en: |
+          Simple voting service, for dates or multiple choices.
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: "Yes"
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: "Yes"
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Sondage
+        en: Survey
+    - col:
+      data:
+        list: false
+        fr: <a href="https://framavox.org/" target="_blank">Framavox</a>
+        en: <a href="https://framavox.org/" target="_blank">Framavox</a>
+    - col:
+      data:
+        list: false
+        fr: |
+          Service de gestion communautaire et décisionnelle, offrant de multiples types de mécanismes de vote ainsi que des fils de discussion.
+        en: |
+          Community and decision management service, offering multiple types of voting mechanisms as well as discussion threads.
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: "Yes"
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: "Yes"
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Formulaires
+        en: Forms
+    - col:
+      data:
+        list: false
+        fr: <a href="https://framaforms.org/" target="_blank">Framaforms</a>
+        en: <a href="https://framaforms.org/" target="_blank">Framaforms</a>
+    - col:
+      data:
+        list: false
+        fr: "-"
+        en: "-"
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: "Yes"
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: "Yes"
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Espace de rencontre
+        en: Hangout Space
+    - col:
+      data:
+        list: false
+        fr: <a href="https://hubs.mozilla.com/#/" target="_blank">Hubs by Mozilla</a>
+        en: <a href="https://hubs.mozilla.com/#/" target="_blank">Hubs by Mozilla</a>
+    - col:
+      data:
+        list: false
+        fr: "-"
+        en: "-"
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: "Yes"
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: "Yes"
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Développement
+        en: Development
+    - col:
+      data:
+        list: false
+        fr: <a href="https://github.com/" target="_blank">GitHub</a>
+        en: <a href="https://github.com/" target="_blank">GitHub</a>
+    - col:
+      data:
+        list: false
+        fr: |
+          Service de contrôle de version décentralisé.
+        en: |
+          Decentralized version control service.
+    - col:
+      data:
+        list: false
+        fr: Non
+        en: "No"
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: "Yes"
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Développement
+        en: Development
+    - col:
+      data:
+        list: false
+        fr: <a href="https://about.gitlab.com/" target="_blank">GitLab</a>
+        en: <a href="https://about.gitlab.com/" target="_blank">GitLab</a>
+    - col:
+      data:
+        list: false
+        fr: |
+          Service de contrôle de version décentralisé.
+        en: |
+          Decentralized version control service.
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: "Yes"
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: "Yes"
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Développement
+        en: Development
+    - col:
+      data:
+        list: false
+        fr: <a href="https://framagit.org/" target="_blank">Framagit</a>
+        en: <a href="https://framagit.org/" target="_blank">Framagit</a>
+    - col:
+      data:
+        list: false
+        fr: |
+          Service de contrôle de version décentralisé.
+        en: |
+          Decentralized version control service.
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: "Yes"
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: "Yes"
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Développement
+        en: Development
+    - col:
+      data:
+        list: false
+        fr: <a href="https://code.visualstudio.com/" target="_blank">VS Code</a>
+        en: <a href="https://code.visualstudio.com/" target="_blank">VS Code</a>
+    - col:
+      data:
+        list: false
+        fr: |
+          Éditeur de code hautement personnalisable.
+        en: |
+          Highly customizable code editor.
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: "Yes"
+    - col:
+      data:
+        list: false
+        fr: Non
+        en: "No"
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Développement
+        en: Development
+    - col:
+      data:
+        list: false
+        fr: <a href="https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare" target="_blank">VS Code Live Share</a>
+        en: <a href="https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare" target="_blank">VS Code Live Share</a>
+    - col:
+      data:
+        list: false
+        fr: |
+          Visual Studio Live Share permet d’éditer et de déboguer en collaboration avec d’autres personnes en temps réel
+        en: |
+          Visual Studio Live Share enables you to collaboratively edit and debug with others in real time
+    - col:
+      data:
+        list: false
+        fr: Non
+        en: "No"
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: "Yes"
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Design
+        en: Design
+    - col:
+      data:
+        list: false
+        fr: <a href="https://app.diagrams.net/" target="_blank">Draw.io</a>
+        en: <a href="https://app.diagrams.net/" target="_blank">Draw.io</a>
+    - col:
+      data:
+        list: false
+        fr: |
+          Pas de compte requis
+        en: |
+          No account required
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: "Yes"
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: "Yes"
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Design
+        en: Design
+    - col:
+      data:
+        list: false
+        fr: <a href="https://www.canva.com/" target="_blank">Canva</a>
+        en: <a href="https://www.canva.com/" target="_blank">Canva</a>
+    - col:
+      data:
+        list: false
+        fr: |
+          Concevoir des infographies, des cartes, etc.
+        en: |
+          Design infographics, cards, etc.
+    - col:
+      data:
+        list: false
+        fr: Non
+        en: "No"
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: "Yes"
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Design
+        en: Design
+    - col:
+      data:
+        list: false
+        fr: <a href="https://www.adobe.com/ca/products/xd/details.html" target="_blank">XD</a>
+        en: <a href="https://www.adobe.com/ca/products/xd/details.html" target="_blank">XD</a>
+    - col:
+      data:
+        list: false
+        fr: |
+          Outil de simulation haute fidélité avec fonctions de collaboration
+        en: |
+          High fidelity mock up tool with collaborative features
+    - col:
+      data:
+        list: false
+        fr: Non
+        en: "No"
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: "Yes"
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Design
+        en: Design
+    - col:
+      data:
+        list: false
+        fr: <a href="https://www.figma.com/" target="_blank">Figma</a>
+        en: <a href="https://www.figma.com/" target="_blank">Figma</a>
+    - col:
+      data:
+        list: false
+        fr: |
+          Une application de conception d’interface qui s’exécute dans le navigateur
+        en: |
+          An interface design application that runs in the browser
+    - col:
+      data:
+        list: false
+        fr: Non
+        en: "No"
+    - col:
+      data:
+        list: false
+        fr: Oui
+        en: "Yes"
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Design
+        en: Design
+    - col:
+      data:
+        list: false
+        fr: <a href="https://www.sketch.com/" target="_blank">Sketch</a>
+        en: <a href="https://www.sketch.com/" target="_blank">Sketch</a>
+    - col:
+      data:
+        list: false
+        fr: |
+          Une application pour créer, prototyper, collaborer et convertir des idées en produits réels.
+        en: |
+          An application for creating, prototyping, collaborating and converting ideas into real products.
+    - col:
+      data:
+        list: false
+        fr: Non
+        en: "No"
+    - col:
+      data:
+        list: false
+        fr: Non
+        en: "No"
