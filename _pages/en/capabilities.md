@@ -33,6 +33,26 @@ Questions will measure and support the [Continuous Improvement](https://cloud.go
 
 - 0 to 100
 
+### Scoring
+
+Average of Percentage questions
+
+- Low: 0-49%
+- Medium: 50-89%
+- High: 90-100%
+
+Average of "Do you agreed with" questions
+
+- Low: 1-3
+- Medium: 4-5
+- High: 6-7
+
+Average of "How much time" questions
+
+- Low: More than one week
+- Medium: One day to one week
+- High: Less than one day
+
 ## Table of Content
 
 - Technical Capabilities
@@ -68,20 +88,6 @@ Questions will measure and support the [Continuous Improvement](https://cloud.go
 - It is easy to migrate to a new version of a dependency. [1-7]
 - Dependencies are stable and rarely break teams' code. [1-7]
 
-#### Scoring
-
-Average of Percentage questions
-
-- Low: 0-49%
-- Medium: 50-89%
-- High: 90-100%
-
-Average of "Do you agreed with" questions
-
-- Low: 1-3
-- Medium: 4-5
-- High: 6-7
-
 #### Recommendations
 
 IF < High
@@ -112,26 +118,6 @@ IF < High
 - The % of security requirements that are included in the automated testing process. [%]
 - Security supplies teams with an ample number of approved libraries, packages, and toolchains for use. [1-7]
 
-#### Scoring
-
-Average of Percentage questions
-
-- Low: 0-49%
-- Medium: 50-89%
-- High: 90-100%
-
-Average of "Do you agreed with" questions
-
-- Low: 1-3
-- Medium: 4-5
-- High: 6-7
-
-Average of "How much time" questions
-
-- Low: More than one week
-- Medium: One day to one week
-- High: Less than one day
-
 #### Recommendations
 
 IF < High
@@ -157,14 +143,6 @@ IF < High
 - Developers practice test-driven development by writing unit tests before writing production code for all changes to the codebase. [1-7]
 - I can get feedback from automated tests in less than ten minutes both on local workstation and from the CI server. [1-7]
 
-#### Scoring
-
-Average of "Do you agreed with" questions
-
-- Low: 1-3
-- Medium: 4-5
-- High: 6-7
-
 #### Recommendations
 
 IF < High
@@ -181,14 +159,6 @@ IF < High
 - My team can deploy during normal business hours with negligible downtime. [1-7]
 - My team feels that we're empowered to choose tools. [1-7]
 
-#### Scoring
-
-Average of "Do you agreed with" questions
-
-- Low: 1-3
-- Medium: 4-5
-- High: 6-7
-
 #### Recommendations
 
 IF < High
@@ -204,14 +174,6 @@ IF < High
 - The cloud my product or service runs on serves multiple teams and applications, with compute and infrastructure resources dynamically assigned and re-assigned based on demand. [1-7]
 - I can dynamically increase or decrease the cloud resources available for the service or product that I primarily support based on demand. [1-7]
 - I can monitor or control the quantity and/or cost of cloud resources used by the service or product that I primarily support. [1-7]
-
-#### Scoring
-
-Average of "Do you agreed with" questions
-
-- Low: 1-3
-- Medium: 4-5
-- High: 6-7
 
 #### Recommendations
 
@@ -240,20 +202,6 @@ IF < High
 - My team studies the change process end-to-end, identifying bottlenecks, and experimenting with ways to shift validations into the development platform. [1-7]
 - My team continuously improve business processes by identifying and eliminating waste. [1-7]
 
-#### Scoring
-
-Average of "Do you agreed with" questions
-
-- Low: 1-3
-- Medium: 4-5
-- High: 6-7
-
-Average of "How much time" questions
-
-- More than one week (Low)
-- One day to one week (Medium)
-- Less than one day (High)
-
 #### Recommendations
 
 IF < High
@@ -274,14 +222,6 @@ IF < High
 - Following production release, my team is able to amplify feedback from users quickly using techniques (ex: AB testing) and enable short lead times faster. [1-7]
 - Following production release, my team is able to evaluate the results and fix bugs rapidly. [1-7]
 - Feedback received is simple, easy to understand and provides actionable information. [1-7]
-
-#### Scoring
-
-Average of "Do you agreed with" questions
-
-- Low: 1-3
-- Medium: 4-5
-- High: 6-7
 
 #### Recommendations
 
@@ -304,14 +244,6 @@ IF < High
 - My team has a tooling to help to understand and debug systems in production [1-7]
 - My team has access to tools and data that help trace, understand, and diagnose infrastructure problems in production environment, including interactions between services [1-7]
 
-#### Scoring
-
-Average of "Do you agreed with" questions
-
-- Low: 1-3
-- Medium: 4-5
-- High: 6-7
-
 #### Recommendations
 
 IF < High
@@ -330,20 +262,6 @@ IF < High
 - How much time does it take to complete a project backlog item? [time]
 - In my team visual displays are up to date and the information contributing to measurable improvement is towards a goal that the team cares about. [1-7]
 - When looking at visual management displays I see the key process metrics my team cares about. [1-7]
-
-#### Scoring
-
-Average of "Do you agreed with" questions
-
-- Low: 1-3
-- Medium: 4-5
-- High: 6-7
-
-Average of "How much time" questions
-
-- More than one week (Medium)
-- One day to one week (High)
-- Less than one day
 
 #### Recommendations
 
@@ -374,14 +292,6 @@ IF < High
 - When employees in my team attend conferences, we have them share the new experience through presentations or trip reports. [1-7]
 - In my team we encourage people to get certifications or external trainings, and help them by covering costs of external trainings and forming study groups that are a part of normal work activity. [1-7]
 
-#### Scoring
-
-Average of "Do you agreed with" questions
-
-- Low: 1-3
-- Medium: 4-5
-- High: 6-7
-
 #### Recommendations
 
 IF < High
@@ -408,14 +318,6 @@ IF < High
 - Leaders commend team members when they do a better than average job and acknowledge improvement in quality of team members' work. [1-7]
 - Leaders personally compliments team members when they do outstanding work. [1-7]
 - My team is able to describe the vision for IITB in a consistent way without having to look it up. [1-7]
-
-#### Scoring
-
-Average of "Do you agreed with" questions
-
-- Low: 1-3
-- Medium: 4-5
-- High: 6-7
 
 #### Recommendations
 
