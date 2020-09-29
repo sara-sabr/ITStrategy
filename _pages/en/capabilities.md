@@ -13,7 +13,7 @@ Questions will measure and support the [Continuous Improvement](https://cloud.go
 
 ## Question Types
 
-**Do you agreed with** [1-7]
+**Do you agreed with...** [1-7]
 
 1. Strongly Disagree
 2. .
@@ -49,7 +49,7 @@ Questions will measure and support the [Continuous Improvement](https://cloud.go
   - [Section 9. Work in Process Limits and Visual Management](#section-9-work-in-process-limits-and-visual-management)
 - Cultural Capabilities
   - [Section 10. Learning and Generative Culture](#section-10-learning-and-generative-culture)
-  - [Section 11. Transformational Leadership](#section-11-transformational-leadership)
+  - [Section 11. Transformation and Transformational Leadership](#section-11-transformation-and-transformational-leadership)
 
 ### SECTION 1. VERSION CONTROL AND CODE MAINTAINABILITY
 
@@ -93,7 +93,7 @@ IF < High
 
 - Code commits trigger a build of the software. [1-7]
 - The % of code commits that result in a software build without manual intervention. [%]
-- Code commits trigger a series of automated tests. [1-7]
+- Code commits trigger a suite of automated tests. [1-7]
 - The % of code commits that result in a suite of automated tests being run without manual intervention. [%]
 - Automated builds and tests are executed successfully every day. [1-7]
 - The % of automated builds and the percentage of automated tests that are executed successfully every day. [%]
@@ -103,7 +103,7 @@ IF < High
 - Broken builds are fixed immediately [1-7]
 - How much time between the build breaking and having it fixed, either with a check-in that fixes the problem, or by reverting the breaking change. [time]
 - The % of automation in your deployment pipeline [%]
-- How much time spent on delays in the deployment pipeline?
+- How much time spent on delays in the deployment pipeline? [time]
 - Adequate test data is available to run full automated test suites. [1-7]
 - Test data for automated test suites can be acquired on demand. [1-7]
 - Test data doesn’t limit or constrain the automated tests that teams can run. [1-7]
@@ -128,9 +128,9 @@ Average of "Do you agreed with" questions
 
 Average of "How much time" questions
 
-- More than one week (Low)
-- One day to one week (Medium)
-- Less than one day (High)
+- Low: More than one week
+- Medium: One day to one week
+- High: Less than one day
 
 #### Recommendations
 
@@ -221,21 +221,24 @@ IF < High
 
 ### SECTION 6. TEAM EXPERIMENTATION AND STREAMLINING CHANGE APPROVAL
 
-- My team feels empowered to work on new ideas and continually improve solutions to foster experimentation. [1-7]
-- My team has the authority to create and change specifications as part of the development process without requiring approval. [1-7]
-- My team works in an environnent where they can be innovative. For example, modifying to stories and specifications during development. [1-7]
-- Team members are able to foster a culture of continual experimentation. [1-7]
-- My team finds ways to continuously improve includes creating proofs of concept individually or with others, integrating to improve processes, and incorporating automated testing and scripted build and deployment processes. [1-7]
+- My team is able to work on new ideas and experiment. [1-7]
+- My team is able to do work without having to ask for permission. [1-7]
+- My team is able to make changes to user needs and specifications during a project. [1-7]
+- My team is able to make changes without having to ask for permission. [1-7]
+- Changes can be promoted to production without manual change approvals. [1-7]
+- The % of changes that do (or do not) require a manual change to be promoted to production. [%]
+- Production changes don't need to be approved by an external body before deployment or implementation. [1-7]
+- The amount of time changes spend waiting for approval from external bodies. [time]
+- The % of changes that are managed by peer-review. [%]
+- My team has a clear understanding of the process to get changes approved for implementation. [1-7]
+- My team is confident they can get changes through the approval process in a timely manner and know the steps it takes to go from "submitted" to "accepted". [1-7]
 - Tools and platforms are agreed upon by the team and tailored to the needs of the project. [1-7]
 - My team promotes team development and handle cross-functional activities. [1-7]
-- My team executes peer review which includes reviews, comments, and approvals captured in the team's development platform as part of the development process. [1-7]
+- My team executes peer review which includes reviews, comments, and approvals captured as part of the development process. [1-7]
 - How much time do changes spend waiting for approval from external bodies? [time]
-- My team doesn't rely on peer review to move forward in production and manage changes. [1-7]
-- My team doesn't carry out a manual change approval to be promoted to production. [1-7]
-- My team employs continuous testing, continuous integration, and comprehensive monitoring and observability to rapidly detect, prevent, and correct bad changes. [1-7]
 - My team considers the development platform as a product by evaluating the changes on multiple axes, including security, performance,and stability, as well as defects. [1-7]
 - My team studies the change process end-to-end, identifying bottlenecks, and experimenting with ways to shift validations into the development platform. [1-7]
-- My team is confident we can get changes through the approval process in a timely manner and know the steps it takes to go from "submitted" to "accepted". [1-7]
+- My team continuously improve business processes by identifying and eliminating waste. [1-7]
 
 #### Scoring
 
@@ -267,12 +270,10 @@ IF < High
 - My team is able to use value streams to gain insight and guide necessary improvements to ensure you have the bandwidth to support functionality and the documentation to put it into place. [1-7]
 - Everyone in the organization have access to a visual display that shows what they're working on and the status of their work. [1-7]
 - Lead time, process time and %C/A are metrics to analyze the state of work within the value stream and information to determine barriers to flow and each process block. [1-7]
-- My team continuously improve business processes by identifying and eliminating waste. [1-7]
 - My team focuses on building, testing, and releasing code changes to an (production or testing) environment in small batches. [1-7]
-- My team uses "loosely coupled" architecture where they release and make changes independent of one another with continuous delivery. [1-7]
-- Every change that passes the automated tests is deployed to production automatically. [1-7]
 - Following production release, my team is able to amplify feedback from users quickly using techniques (ex: AB testing) and enable short lead times faster. [1-7]
 - Following production release, my team is able to evaluate the results and fix bugs rapidly. [1-7]
+- Feedback received is simple, easy to understand and provides actionable information. [1-7]
 
 #### Scoring
 
@@ -294,15 +295,14 @@ IF < High
 
 - In my team data from application performance monitoring tools is used to make business decisions [1-7]
 - In my team data from infrastructure monitoring tools is used to make business decisions [1-7]
-- Does monitoring in your team give rapid feedback which helps quickly find and fix problems early in the software development lifecycle? [1-7]
-- In my team the knowledge gained from application monitoring is shared across organization to help people and systems improve [1-7]
-- In my team collected data is always accessible to different audiences (visibility into development work, testing, QA, and IT operations) to help them make decisions [1-7]
-- Our team monitors by taking a thoughtful approach to monitoring which usually draws attention to key areas [1-7]
-- My team is reporting on the overall health of systems (Are my systems functioning? Do my systems have sufficient resources available?) [1-7]
-- My team is reporting on system state as experienced by customers (Do my customers know if my system is down and have a bad experience?) [1-7]
+- Monitoring in my team gives rapid feedback which helps quickly find and fix problems early in the project lifecycle? [1-7]
+- In my team the knowledge gained from application monitoring is shared across organization to help people and systems improve. [1-7]
+- In my team collected data is always accessible to different audiences to help them make decisions. [1-7]
+- Our team monitors by taking a thoughtful approach to monitoring which usually draws attention to key areas. [1-7]
+- My team is reporting on the overall health of systems (Are my systems functioning? Do my systems have sufficient resources available?). [1-7]
+- My team is reporting on system state as experienced by customers (Do my customers know if my system is down and how do we know if they have a bad experience?) [1-7]
 - My team has a tooling to help to understand and debug systems in production [1-7]
 - My team has access to tools and data that help trace, understand, and diagnose infrastructure problems in production environment, including interactions between services [1-7]
-- In my team a single monitoring person is solely responsible for the system monitoring and observability [1-7]
 
 #### Scoring
 
@@ -321,16 +321,15 @@ IF < High
 
 ### Section 9. WORK IN PROCESS LIMITS AND VISUAL MANAGEMENT
 
-- People on my team are not often assigned to work on multiple mutually exclusive tasks [1-7]
-- When faced with too much work and too few people to do it, we prioritize work and focus on completing a small number of high-priority tasks [1-7]
-- My team often discovers invisible work when it is not expected [1-7]
-- In my team we do not require people to split their time between multiple tasks [1-7]
+- People on my team are not often assigned to work on multiple mutually exclusive tasks. [1-7]
+- When faced with too much work and too few people to do it, we prioritize work and focus on completing a small number of high-priority tasks. [1-7]
+- My team often discovers invisible work when it is not expected. [1-7]
+- In my team we do not require people to split their time between multiple tasks. [1-7]
 - Our team work is visible to other teams and stakeholders? [1-7]
-- My team uses visual displays and dashboards to manage the work at various stages of a process [1-7]
-- How much time does it take to complete a project backlog item?
-- How often does your team receive feedback that are complex, hard to understand, or do not provide actionable information? [1-7]
-- In my team visual displays are up to date and the information contributing to measurable improvement is towards a goal that the team cares about [1-7]
-- When looking at visual management displays I see the key process metrics my team cares about [1-7]
+- My team uses visual displays and dashboards to manage the work at various stages of a process. [1-7]
+- How much time does it take to complete a project backlog item? [time]
+- In my team visual displays are up to date and the information contributing to measurable improvement is towards a goal that the team cares about. [1-7]
+- When looking at visual management displays I see the key process metrics my team cares about. [1-7]
 
 #### Scoring
 
@@ -355,26 +354,25 @@ IF < High
 
 ### Section 10. LEARNING AND GENERATIVE CULTURE
 
-- In my team employees feel supported by each other [1-7]
-- In my team employees feel their feedback is valued [1-7]
-- In my team employees are given meaningful work that leverages their expertise [1-7]
-- My team has enough support (or appropriate support) from leaders and managers for the necessary culture shift and transformation [1-7]
-- My team culture interacts with the broader organizational culture [1-7]
-- Failures are treated in my team as opportunities to improve and learn [1-7]
-- My team is allowed and encouraged to experiment and try new things [1-7]
+- In my team employees feel supported by each other. [1-7]
+- In my team employees feel their feedback is valued. [1-7]
+- In my team employees are given meaningful work that leverages their expertise. [1-7]
+- My team has support from leaders and managers for the necessary culture shift and transformation. [1-7]
+- My team culture interacts with the broader organizational culture. [1-7]
+- In my team failures are treated as opportunities to improve and learn. [1-7]
+- My team is allowed and encouraged to experiment and try new things. [1-7]
 - On my team, information is actively sought [1-7]
-- Messengers are not punished when they deliver news of failures or other bad news [1-7]
-- On my team, responsibilities are shared [1-7]
-- On my team, cross-functional collaboration is encouraged and rewarded [1-7]
-- On my team, failure causes inquiry [1-7]
-- On my team, new ideas are welcomed [1-7]
-- My team views learning as an investment for growth [1-7]
-- Learning is not completely avoided in my team [1-7]
-- My team has the resources to engage in informal learning and the space to explore ideas [1-7]
-- My team has a regular cadence of opportunities for employees to share their knowledge [1-7]
-- In my team resources are available for continued education [1-7]
-- When employees in my team attend conferences, we have them share the new experience through presentations or trip reports [1-7]
-- In my team we encourage people to get certifications or external trainings, and help them by covering costs of external trainings and forming study groups that are a part of normal work activity [1-7]
+- Messengers are not punished when they deliver news of failures or other bad news. [1-7]
+- On my team, responsibilities are shared. [1-7]
+- On my team, cross-functional collaboration is encouraged and rewarded. [1-7]
+- On my team, failure causes inquiry. [1-7]
+- On my team, new ideas are welcomed. [1-7]
+- My team views learning as a priority and an investment for growth. [1-7]
+- My team has the resources to engage in informal learning and the space to explore ideas. [1-7]
+- My team has a regular cadence of opportunities for employees to share their knowledge. [1-7]
+- In my team resources are available for continued education. [1-7]
+- When employees in my team attend conferences, we have them share the new experience through presentations or trip reports. [1-7]
+- In my team we encourage people to get certifications or external trainings, and help them by covering costs of external trainings and forming study groups that are a part of normal work activity. [1-7]
 
 #### Scoring
 
@@ -392,22 +390,24 @@ IF < High
 - https://cloud.google.com/solutions/devops/devops-culture-westrum-organizational-culture
 - https://cloud.google.com/solutions/devops/devops-culture-learning-culture
 
-### Section 11. TRANSFORMATIONAL LEADERSHIP
+### Section 11. TRANSFORMATION AND TRANSFORMATIONAL LEADERSHIP
 
-- In my team we clearly understand what our current and target conditions are [1-7]
-- My teams expects to achieve about 80% of the goals for the next iteration [1-7]
-- In my team we do not have many obstacles that are preventing us from reaching the target condition [1-7]
-- In my team we clearly understand what is our next step and which outcomes to expect [1-7]
+- My team understands clearly what the current and target conditions are. [1-7]
 - My team is running experiments on a daily basis to try to move toward the target conditions or key results [1-7]
-- My team doesn't spend too much time trying to set the perfect objectives but focuses on executing the process [1-7]
 - The outcomes that my team is working towards match up clearly to the purpose and mission of the organization [1-7]
-- My team is expected to rapidly change the way we work and then continue on with the work as usual [1-7]
-- New process implementation does not cause stress and productivity lost in my team (people learn new ways of working, often while they are still delivering on existing commitments) [1-7]
-- My team clearly understands where they and the organization are going, and where they want to be in five years [1-7]
-- In my team leaders say positive things that make employees proud to be a part of their organization, and encourage people to see changing conditions as situations full of opportunities [1-7]
-- My team often thinks about old problems in new ways and  rethink some of their basic assumptions about their work,  ideas  force team members to rethink some things that they have never questioned before [1-7]
-- Team leaders consider others' personal feelings before acting; behave in a manner which is thoughtful of others' personal needs; see that the interests of team members are given due consideration [1-7]
-- My team leaders commend team members when they do a better than average job; acknowledges improvement in quality of team members' work; personally compliments team members when they do outstanding work [1-7]
+- Leaders understand clearly where my team and the organization are going, and where they want the team to be in five years. [1-7]
+- My team understands clearly where they and the organization are going, and where they want the team to be in five years. [1-7]
+- Leaders say positive things about the team. [1-7]
+- Leaders say things that make employees proud to be a part of their organization. [1-7]
+- Leaders encourage people to see changing conditions as situations full of opportunities. [1-7]
+- Leaders challenge team members to think about old problems in new ways and to rethink some of their basic assumptions about their work. [1-7]
+- Leaders have ideas that force team members to rethink some things that they have never questioned before. [1-7]
+- Leaders consider others' personal feelings before acting. [1-7]
+- Leaders behave in a manner which is thoughtful of others' personal needs. [1-7]
+- Leaders see that the interests of team members are given due consideration. [1-7]
+- Leaders commend team members when they do a better than average job and acknowledge improvement in quality of team members' work. [1-7]
+- Leaders personally compliments team members when they do outstanding work. [1-7]
+- My team is able to describe the vision for IITB in a consistent way without having to look it up. [1-7]
 
 #### Scoring
 
