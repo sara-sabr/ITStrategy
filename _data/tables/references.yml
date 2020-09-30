@@ -2210,8 +2210,35 @@
         - col:
           data:
             list: false
-            fr: Ressource d'apprentissage
-            en: Learning Resource
+            fr: Rapport
+            en: Report
+        - col:
+          data:
+            list: false
+            fr: <a href="https://www.weforum.org/whitepapers/accelerating-workforce-reskilling-for-the-fourth-industrial-revolution" target="_blank">World Economic Forum - Accelerating Workforce Reskilling for the Fourth Industrial Revolution</a> (Anglais)
+            en: <a href="https://www.weforum.org/whitepapers/accelerating-workforce-reskilling-for-the-fourth-industrial-revolution" target="_blank">World Economic Forum - Accelerating Workforce Reskilling for the Fourth Industrial Revolution</a>
+        - col:
+          data:
+            list: false
+            fr: |
+              35 % des compétences exigées pour les emplois dans les différents secteurs changeront d'ici 2020
+            en: |
+              35% of the skills demanded for jobs across industries will change by 2020
+        - col:
+          data:
+            list: false
+            fr: |
+              Culture d'apprentissage, Organisation hautement performante, Stratégie
+            en: |
+              Learning Culture, High Performing Organization, Strategy
+    - row:
+      headers: false
+      cols:
+        - col:
+          data:
+            list: false
+            fr: Rapport
+            en: Report
         - col:
           data:
             list: false
@@ -2221,16 +2248,126 @@
           data:
             list: false
             fr: |
-              Description
+              
             en: |
-              Description
+              
         - col:
           data:
             list: false
             fr: |
-              Sujet
+              Culture d'apprentissage, Organisation hautement performante, Stratégie
             en: |
-              Sujet
+              Learning Culture, High Performing Organization, Strategy
+    - row:
+      headers: false
+      cols:
+        - col:
+          data:
+            list: false
+            fr: Rapport
+            en: Report
+        - col:
+          data:
+            list: false
+            fr: <a href="https://learning.linkedin.com/resources/workplace-learning-report-2018" target="_blank">LinkedIn Workplace Learning & Development Report 2018</a> (Anglais)
+            en: <a href="https://learning.linkedin.com/resources/workplace-learning-report-2018" target="_blank">LinkedIn Workplace Learning & Development Report 2018</a>
+        - col:
+          data:
+            list: false
+            fr: |
+              Sondage d'environ 4,000 professionnels par rapport à l'apprentissage et au développement dans le milieu de travail. "Le défi numéro 1 du développement des talents est de faire en sorte que les employés prennent le temps d'apprendre"
+            en: |
+              Survey of approximately 4,000 professionals regarding learning and development in the workplace. "The #1 challenge for talent development is getting employees to make time for learning"
+        - col:
+          data:
+            list: false
+            fr: |
+              Culture d'apprentissage, Organisation hautement performante, Stratégie
+            en: |
+              Learning Culture, High Performing Organization, Strategy
+    - row:
+      headers: false
+      cols:
+        - col:
+          data:
+            list: false
+            fr: Rapport
+            en: Report
+        - col:
+          data:
+            list: false
+            fr: |
+              <a href="https://www.findcourses.com/prof-dev/l-d-articles/download-us-ld-report-19-15209" target="_blank">U.S. L&D Report: 2019: Learning Trends and Benchmarks</a> (Anglais)
+            en: |
+              <a href="https://www.findcourses.com/prof-dev/l-d-articles/download-us-ld-report-19-15209" target="_blank">U.S. L&D Report: 2019: Learning Trends and Benchmarks</a>
+        - col:
+          data:
+            list: false
+            fr: |
+              Tendance sur l'apprentissage dans le milieu de travail. <a href="https://www.findcourses.com/file/3296/download" target="_blank">Lien</a> pour le rapport PDF sans s’enregistrer.
+            en: |
+              Learning trends in the workplace. <a href="https://www.findcourses.com/file/3296/download" target="_blank">Link</a> to PDF without registration.
+        - col:
+          data:
+            list: false
+            fr: |
+              Culture d'apprentissage, Organisation hautement performante, Stratégie
+            en: |
+              Learning Culture, High Performing Organization, Strategy
+    - row:
+      headers: false
+      cols:
+        - col:
+          data:
+            list: false
+            fr: Article
+            en: Article
+        - col:
+          data:
+            list: false
+            fr: <a href="https://www.hrci.org/community/blogs-and-announcements/hr-leads-business-blog/hr-leads-business/2018/05/01/6-guidelines-for-building-a-learning-culture" target="_blank">HR Certification Institute - 6 Guidelines for Building a Learning Culture</a> (Anglais)
+            en: <a href="https://www.hrci.org/community/blogs-and-announcements/hr-leads-business-blog/hr-leads-business/2018/05/01/6-guidelines-for-building-a-learning-culture" target="_blank">HR Certification Institute - 6 Guidelines for Building a Learning Culture</a>
+        - col:
+          data:
+            list: false
+            fr: |
+              
+            en: |
+              
+        - col:
+          data:
+            list: false
+            fr: |
+              Culture d'apprentissage, Organisation hautement performante, Stratégie
+            en: |
+              Learning Culture, High Performing Organization, Strategy
+    - row:
+      headers: false
+      cols:
+        - col:
+          data:
+            list: false
+            fr: Article
+            en: Article
+        - col:
+          data:
+            list: false
+            fr: <a href="https://www.anneloehr.com/2018/09/06/eight-steps-to-build-a-learning-culture-in-your-organization/" target="_blank">Eight Steps to Build a Learning Culture in Your Organization</a> (Anglais)
+            en: <a href="https://www.anneloehr.com/2018/09/06/eight-steps-to-build-a-learning-culture-in-your-organization/" target="_blank">Eight Steps to Build a Learning Culture in Your Organization</a>
+        - col:
+          data:
+            list: false
+            fr: |
+              
+            en: |
+              
+        - col:
+          data:
+            list: false
+            fr: |
+              Culture d'apprentissage, Organisation hautement performante, Stratégie
+            en: |
+              Learning Culture, High Performing Organization, Strategy
 
 - table:
   id: t004
@@ -2912,3 +3049,44 @@
               Se concentre fortement sur la <a href="https://itrevolution.com/conways-law/" target="_blank">loi de Conway</a> (Anglais) et suggère comment les organisations peuvent mieux gérer les équipes au sein des organisations.
             en: |
               Focuses heavily on <a href="https://itrevolution.com/conways-law/" target="_blank">Conway’s Law</a> and suggests how organizations can better manage teams within organizations.
+    - row:
+      headers: false
+      cols:
+        - col:
+          data:
+            list: false
+            fr: |
+              <a href="https://www.td.org/books/atds-guide-to-talent-development" target="_blank"> ATD’s Foundations of Talent Development: Launching, Leveraging, and Leading Your Organization's TD Effort </a>
+            en: |
+              <a href="https://www.td.org/books/atds-guide-to-talent-development" target="_blank"> ATD’s Foundations of Talent Development: Launching, Leveraging, and Leading Your Organization's TD Effort </a>
+        - col:
+          data:
+            list: false
+            fr: Elaine Biech
+            en: Elaine Biech
+        - col:
+          data:
+            list: false
+            fr: 2018
+            en: 2018
+        - col:
+          data:
+            list: false
+            fr: <a href="https://www.td.org/" target="_blank">ATD Press</a>
+            en: <a href="https://www.td.org/" target="_blank">ATD Press</a>
+        - col:
+          data:
+            list: false
+            fr: Anglais
+            en: English
+        - col:
+          data:
+            list: false
+            fr: |
+              Les entreprises les plus performantes ont presque cinq fois plus de chances que les moins performantes d'avoir une culture d'apprentissage étendue.
+              Les employés des entreprises très performantes partagent leurs connaissances avec leurs collègues à un rythme quatre fois plus élevé que celui des employés des entreprises moins performantes.
+            en: |
+              Top-performing companies are almost five times more likely than lower performers to have extensive learning cultures.
+              Employees in high-performing organizations share knowledge with their colleagues at a rate four times greater than that of workers in lower-performing firms.
+              
+
