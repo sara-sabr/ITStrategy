@@ -34,7 +34,6 @@ Don't hesitate to send us proposals of books, articles, videos or even policies!
 
 {% include table.html table-id="t003" file="references"%}
 
-
 ### Books
 
 | Title                                                                                                                                                                      | Author                                            | Published | Publisher                                               | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
