@@ -34,55 +34,6 @@ N'hésitez pas à nous envoyer des propositions de livres, articles, vidéos ou 
 
 {% include table.html table-id="t003" file="references"%}
 
-## Général
-
-### Balados
-
-- [Software Engineering Daily](https://softwareengineeringdaily.com) (Anglais): Interviews quotidiennes sur des sujets techniques liés aux logiciels
-
-### Articles
-
-- [DARPA](https://www.darpa.mil/about-us/about-darpa) (Anglais): Mission : "réaliser des investissements essentiels dans des technologies de pointe pour la sécurité nationale"
-- [Horizons de politiques Canada](https://horizons.gc.ca/fr/a-propos-de-nous/): Organisation au sein de la fonction publique fédérale qui mène des activités de prospectives. Leur mandat est d’aider le gouvernement du Canada à créer des programmes et des politiques axés sur l’avenir qui sont plus solides et plus résilients malgré les changements perturbateurs à l’horizon. (contenu spécifique disponible à l'interne dans [SharePoint](http://dialogue/grp/BU6810070/Shared%20Documents/Forms/AllItems.aspx?RootFolder=%2Fgrp%2FBU6810070%2FShared%20Documents%2FReference%20Materials&FolderCTID=0x012000750E51FFC3799647B0714B66227C003A&View={DA914447-F5A7-44BD-89E1-9ECB3B44185A}&InitialTabId=Ribbon%2EDocument&VisibilityContext=WSSTabPersistence) (Anglais))
-
-## Autres pays
-
-- [Digital Taiwan (DIGI Taiwan)](https://digi.taiwan.gov.tw/) (Anglais): Pour accélérer l'innovation industrielle, créer un Taiwan intelligent
-- [Lignes directrices de l'Italie sur l'acquisition et la réutilisation de logiciels pour les administrations publiques](https://docs.italia.it/italia/developers-italia/gl-acquisition-and-reuse-software-for-pa-docs/en/master/) (Anglais et Italien)
-- [Australia Digital Transformation Strategy](https://www.dta.gov.au/digital-transformation-strategy) (Anglais)
-- [US Digital Services Playbook](https://playbook.cio.gov/) (Anglais)
-- [Enterprise DevSecOpsReference Design (2019)](https://dodcio.defense.gov/Portals/0/Documents/DoD%20Enterprise%20DevSecOps%20Reference%20Design%20v1.0_Public%20Release.pdf?ver=2019-09-26-115824-583) (Anglais)
-
-## Intelligence Artificielle
-
-### Balados
-
-- [Balado sur l'intelligence artificielle](https://lexfridman.com/ai/) (Anglais) : Balado animé par Lex Fridman qui fait des recherches sur l'intelligence artificielle centrée sur l'homme, l'apprentissage profond, les véhicules autonomes et la robotique au MIT et au-delà
-
-### Articles
-
-- [Medium Article - An overview of National AI Strategies](https://medium.com/politics-ai/an-overview-of-national-ai-strategies-2a70ec6edfd) (Anglais): sommaire des stratégies IA de 26 pays. Le Canada figure dans cette liste.
-- [Medium Article - Open sourcing policy models - Australian data sharing agreement with LinkedIn](https://medium.com/fwd50/open-sourcing-policy-models-our-conversation-with-dr-audrey-lobo-pulo-e56afcdc59e9) (Anglais)
-- [Finland AI Strategy](http://dialogue/grp/BU6810070/Shared%20Documents/Reference%20Materials/Finland%20AI%20Strategy.pdf) (Anglais)
-
-## FWD50
-
-- [Liste des présentations 2018](https://2018.fwd50.com/)
-
-## Conférence
-
-### Sécurité
-
-- [Black Hat USA 2019 Keynote : Every Security Team is a Software Team Now par Dino Dai Zovi](https://www.youtube.com/watch?v=8armE3Wz0jk) (Anglais) : [Conférencier principal de Blackhat](https://www.blackhat.com/)
-
-### Innovation
-
-- [Borrowing Brilliance: The Six Steps to Business Innovation by Building on the Ideas of Others](https://www.youtube.com/watch?v=0VmYzCXD8I8&t=2s) (Anglais) : Conférence résumant le livre "Borrowing Brilliance" de David Murray
-
-### Infrastructure
-
-- [Mastering Chaos - A Netflix Guide to Microservices](https://www.youtube.com/watch?v=CZ3wIuvmHeM) (Anglais) : Une excellente conférence du directeur de l'ingénierie des opérations sur les microservices chez Netflix
-
 ### Livres
 
 |Titre|Auteure/Auteur|Année de publication|Éditrice/Éditeur|Description|

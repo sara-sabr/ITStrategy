@@ -34,54 +34,6 @@ Don't hesitate to send us proposals of books, articles, videos or even policies!
 
 {% include table.html table-id="t003" file="references"%}
 
-## General
-
-### Podcasts
-
-- [Software Engineering Daily](https://softwareengineeringdaily.com/): Daily interviews about technical software topics
-
-### Articles
-
-- [DARPA](https://www.darpa.mil/about-us/about-darpa): Mission is "to make pivotal investments in breakthrough technologies for national security"
-- [Policy Horizons Canada](https://horizons.gc.ca/en/about-us/): Federal government organization that conducts foresight. Mandate is to help the GC develop future-oriented policy and programs that are more robust and resilient in the face of disruptive change on the horizon. (specific content available on [SharePoint](http://dialogue/grp/BU6810070/Shared%20Documents/Forms/AllItems.aspx?RootFolder=%2Fgrp%2FBU6810070%2FShared%20Documents%2FReference%20Materials&FolderCTID=0x012000750E51FFC3799647B0714B66227C003A&View={DA914447-F5A7-44BD-89E1-9ECB3B44185A}&InitialTabId=Ribbon%2EDocument&VisibilityContext=WSSTabPersistence)))
-
-## Other Countries
-
-- [Digital Taiwan (DIGI Taiwan)](https://digi.taiwan.gov.tw/): To accelerate industrial innovation, to create smart Taiwan
-- [Italy Guidelines on the acquisition and reuse of software for public administrations](https://docs.italia.it/italia/developers-italia/gl-acquisition-and-reuse-software-for-pa-docs/en/master/)
-- [Australia Digital Transformation Strategy](https://www.dta.gov.au/digital-transformation-strategy)
-- [US Digital Services Playbook](https://playbook.cio.gov/)
-- [Enterprise DevSecOpsReference Design (2019)](https://dodcio.defense.gov/Portals/0/Documents/DoD%20Enterprise%20DevSecOps%20Reference%20Design%20v1.0_Public%20Release.pdf?ver=2019-09-26-115824-583)
-
-## Artificial Intelligence
-
-### Podcasts
-
-- [Artificial Intelligence Podcast](https://lexfridman.com/ai/): Podcast hosted by Lex Fridman who researches human-centered AI, deep learning, autonomous vehicles & robotics at MIT and beyond
-
-### Articles
-
-- [Medium Article - An overview of National AI Strategies](https://medium.com/politics-ai/an-overview-of-national-ai-strategies-2a70ec6edfd): summary of 26 countries' AI strategies. Canada amongst that list
-- [Medium Article - Open sourcing policy models - Australian data sharing agreement with LinkedIn](https://medium.com/fwd50/open-sourcing-policy-models-our-conversation-with-dr-audrey-lobo-pulo-e56afcdc59e9)
-- [Finland AI Strategy](http://dialogue/grp/BU6810070/Shared%20Documents/Reference%20Materials/Finland%20AI%20Strategy.pdf)
-
-## FWD50
-
-- [2018 list of presentations](https://2018.fwd50.com/)
-
-## Talks
-
-### Security
-
-- [Black Hat USA 2019 Keynote: Every Security Team is a Software Team Now by Dino Dai Zovi](https://www.youtube.com/watch?v=8armE3Wz0jk): [Keynote speaker from Blackhat](https://www.blackhat.com/)
-
-### Innovation
-
-- [Borrowing Brilliance: The Six Steps to Business Innovation by Building on the Ideas of Others](https://www.youtube.com/watch?v=0VmYzCXD8I8&t=2s): Talk summarizing the book Borrowing Brilliance by David Murray
-
-### Infrastructure
-
-- [Mastering Chaos - A Netflix Guide to Microservices](https://www.youtube.com/watch?v=CZ3wIuvmHeM): An excellent talk by Director of Operations Engineering about Microservices at Netflix
 
 ### Books
 
