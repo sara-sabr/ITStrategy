@@ -173,7 +173,7 @@
         - col:
           data:
             list: false
-            fr: Messagerie instantannée - Canaux
+            fr: Messagerie instantanée - Canaux
             en: Instant Messaging - Channel-based
         - col:
           data:
@@ -184,7 +184,7 @@
           data:
             list: false
             fr: |
-              Messagerie instantannée utilisant des canaux de discussions, permettant la collaboration et les discussions entre les membres de la fonction publique des ministères du GC ainsi qu'avec des membres de la communauté scientifique universitaire canadienne. Instance de Rocket Chat.
+              Messagerie instantanée utilisant des canaux de discussions, permettant la collaboration et les discussions entre les membres de la fonction publique des ministères du GC ainsi qu'avec des membres de la communauté scientifique universitaire canadienne. Instance de Rocket Chat.
             en: |
               Channel-based instant messaging internal to Government of Canada, enabling collaboration and discussions between employees of various GoC departments as well as with members of the Canadian university communities. Rocket Chat instance.
         - col:
@@ -203,7 +203,7 @@
         - col:
           data:
             list: false
-            fr: Messagerie instantannée - Canaux
+            fr: Messagerie instantanée - Canaux
             en: Instant Messaging - Channel-based
         - col:
           data:
@@ -233,7 +233,7 @@
         - col:
           data:
             list: false
-            fr: Messagerie instantannée - Canaux
+            fr: Messagerie instantanée - Canaux
             en: Instant Messaging - Channel-based
         - col:
           data:
@@ -244,7 +244,7 @@
           data:
             list: false
             fr: |
-              Service décentralisée de messagerie instantannée sécurisée tout-en-un supportant les messages encryptés de bout en bout pour les équipes, les amis et les organisations. Anciennement connue sous le nom de Riot, elle fait partie du réseau ouvert <a href="https://matrix.org/" target="_blank">Matrix</a>.
+              Service décentralisée de messagerie instantanée sécurisée tout-en-un supportant les messages encryptés de bout en bout pour les équipes, les amis et les organisations. Anciennement connue sous le nom de Riot, elle fait partie du réseau ouvert <a href="https://matrix.org/" target="_blank">Matrix</a>.
             en: |
               All-in-one secure decentralized IM service supporting E2E encrypted messages for teams, friends and organisations. Formerly known as Riot, part of the open <a href="https://matrix.org/" target="_blank">Matrix</a> network.
         - col:
@@ -263,7 +263,7 @@
         - col:
           data:
             list: false
-            fr: Messagerie instantannée - Canaux
+            fr: Messagerie instantanée - Canaux
             en: Instant Messaging - Channel-based
         - col:
           data:
@@ -293,7 +293,7 @@
         - col:
           data:
             list: false
-            fr: Messagerie instantannée - Canaux
+            fr: Messagerie instantanée - Canaux
             en: Instant Messaging - Channel-based
         - col:
           data:
@@ -304,7 +304,7 @@
           data:
             list: false
             fr: |
-              Plate-forme de discussion et de résautage qui aide à gérer, développer et relier des communautés en associant messagerie, contenu et découverte.
+              Plate-forme de discussion et de réseautage qui aide à gérer, développer et relier des communautés en associant messagerie, contenu et découverte.
             en: |
               A discussion and networking platform that helps manage, develop and connect communities by combining messaging, content and discovery.
         - col:
@@ -323,7 +323,7 @@
         - col:
           data:
             list: false
-            fr: Messagerie instantannée - Canaux
+            fr: Messagerie instantanée - Canaux
             en: Instant Messaging - Channel-based
         - col:
           data:
@@ -334,7 +334,7 @@
           data:
             list: false
             fr: |
-              Service de messagerie instantannée libre qui permet de communiquer avec son équipe en notifiant ses collègues, de conserver ses conversations et d’y faire des recherches.
+              Service de messagerie instantanée libre qui permet de communiquer avec son équipe en notifiant ses collègues, de conserver ses conversations et d’y faire des recherches.
             en: |
               Free instant messaging service that allows you to communicate with your team by notifying your colleagues, keep track of your conversations and do research.
         - col:
@@ -364,7 +364,7 @@
           data:
             list: false
             fr: |
-              Service de messagerie instantannée encryptée.
+              Service de messagerie instantanée encryptée.
             en: |
               Encrypted instant messaging service.
         - col:
@@ -394,7 +394,7 @@
           data:
             list: false
             fr: |
-              Application de messagerie instantannée décentralisée et encryptée.
+              Application de messagerie instantanée décentralisée et encryptée.
             en: |
               Decentralized and encrypted instant messaging application.
         - col:
@@ -424,7 +424,7 @@
           data:
             list: false
             fr: |
-              Service de messagerie instantannée; supporte la vidéoconférence.
+              Service de messagerie instantanée; supporte la vidéoconférence.
             en: |
               Instant messaging service; supports videoconferencing.
         - col:
@@ -2834,7 +2834,7 @@
           data:
             list: false
             fr: |
-              Les organisations qui réussissent ont besoin d’un leadership ouvert. Le monde a changé. Les entreprises qui veulent croître (et réussir) ne peuvent pas fonctionner dans le passé. The Open Organization s’adresse aux dirigeants qui veulent créer des environnements d’affaires qui peuvent réagir rapidement dans le monde d’aujourd’hui où les activités se déroulent à un rythme effréné. C’est pour ceux qui veulent encourager les meilleures idées, entendre des conseils honnêtes et attirer (et retenir) les talents les plus brillants.
+              Les organisations qui réussissent ont besoin d’un leadership ouvert. Le monde a changé. Les entreprises qui veulent croître (et réussir) ne peuvent pas fonctionner dans le passé. The Open Organization s’adresse aux dirigeants qui veulent créer des environnements d’affaires qui peuvent réagir rapidement dans le monde d’aujourd'hui où les activités se déroulent à un rythme effréné. C’est pour ceux qui veulent encourager les meilleures idées, entendre des conseils honnêtes et attirer (et retenir) les talents les plus brillants.
             en: |
               Successful organizations need open leadership. The world has changed. Companies that want to grow (and succeed) can’t operate in the past. The Open Organization is for leaders who want to create business environments that can respond quickly in today’s fast-paced world. It’s for those who want to encourage the best ideas, hear honest advice, and attract (and retain) the brightest talent.
     - row:
@@ -3056,9 +3056,9 @@
           data:
             list: false
             fr: |
-              <a href="https://www.td.org/books/atds-guide-to-talent-development" target="_blank"> ATD’s Foundations of Talent Development: Launching, Leveraging, and Leading Your Organization's TD Effort </a>
+              <a href="https://www.td.org/books/atds-guide-to-talent-development" target="_blank"> ATD's Foundations of Talent Development: Launching, Leveraging, and Leading Your Organization's TD Effort </a>
             en: |
-              <a href="https://www.td.org/books/atds-guide-to-talent-development" target="_blank"> ATD’s Foundations of Talent Development: Launching, Leveraging, and Leading Your Organization's TD Effort </a>
+              <a href="https://www.td.org/books/atds-guide-to-talent-development" target="_blank"> ATD's Foundations of Talent Development: Launching, Leveraging, and Leading Your Organization's TD Effort </a>
         - col:
           data:
             list: false
