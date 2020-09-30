@@ -1504,7 +1504,7 @@
     - col:
       data:
         list: false
-        fr: <a href="https://softwareengineeringdaily.com" target="_blank">Software Engineering Daily (Anglais)</a>
+        fr: <a href="https://softwareengineeringdaily.com" target="_blank">Software Engineering Daily</a> (Anglais)
         en: <a href="https://softwareengineeringdaily.com" target="_blank">Software Engineering Daily</a>
     - col:
       data:
@@ -1517,21 +1517,21 @@
       data:
         list: false
         fr: |
-          Innovation
+          Génie logiciel, Innovation
         en: |
-          Innovation
+          Software Engineering, Innovation
   - row:
     headers: false
     cols:
     - col:
       data:
         list: false
-        fr: Baladodiffusion
-        en: Podcast
+        fr: Site Web
+        en: Website
     - col:
       data:
         list: false
-        fr: <a href="https://www.darpa.mil/about-us/about-darpa" target="_blank">DARPA (Anglais)</a>
+        fr: <a href="https://www.darpa.mil/about-us/about-darpa" target="_blank">DARPA</a> (Anglais)
         en: <a href="https://www.darpa.mil/about-us/about-darpa" target="_blank">DARPA</a>
     - col:
       data:
@@ -1544,6 +1544,400 @@
       data:
         list: false
         fr: |
-          Innovation
+          Innovation, Sécurité, Organisation
         en: |
-          Innovation  
+          Innovation, Security, Organization
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Site Web
+        en: Website
+    - col:
+      data:
+        list: false
+        fr: <a href="https://horizons.gc.ca/fr/a-propos-de-nous/" target="_blank">Horizons de politiques Canada</a>
+        en: <a href="https://horizons.gc.ca/en/about-us/" target="_blank">Policy Horizons Canada</a>
+    - col:
+      data:
+        list: false
+        fr: |
+          Organisation au sein de la fonction publique fédérale qui mène des activités de prospectives. Leur mandat est d’aider le gouvernement du Canada à créer des programmes et des politiques axés sur l’avenir qui sont plus solides et plus résilients malgré les changements perturbateurs à l’horizon. (contenu spécifique disponible à l'interne dans <a href="http://dialogue/grp/BU6810070/Shared%20Documents/Forms/AllItems.aspx?RootFolder=%2Fgrp%2FBU6810070%2FShared%20Documents%2FReference%20Materials&FolderCTID=0x012000750E51FFC3799647B0714B66227C003A&View={DA914447-F5A7-44BD-89E1-9ECB3B44185A}&InitialTabId=Ribbon%2EDocument&VisibilityContext=WSSTabPersistence" target="_blank">SharePoint</a> (Anglais))
+        en: |
+          Federal government organization that conducts foresight. Mandate is to help the GC develop future-oriented policy and programs that are more robust and resilient in the face of disruptive change on the horizon. (specific content available on <a href="http://dialogue/grp/BU6810070/Shared%20Documents/Forms/AllItems.aspx?RootFolder=%2Fgrp%2FBU6810070%2FShared%20Documents%2FReference%20Materials&FolderCTID=0x012000750E51FFC3799647B0714B66227C003A&View={DA914447-F5A7-44BD-89E1-9ECB3B44185A}&InitialTabId=Ribbon%2EDocument&VisibilityContext=WSSTabPersistence" target="_blank">SharePoint</a>)
+    - col:
+      data:
+        list: false
+        fr: |
+          Politiques, Innovation, Organisation
+        en: |
+          Policies, Innovation, Organization
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Site Web
+        en: Website
+    - col:
+      data:
+        list: false
+        fr: <a href="https://digi.taiwan.gov.tw/" target="_blank">Digital Taiwan (DIGI Taiwan)</a> (Anglais)
+        en: <a href="https://digi.taiwan.gov.tw/" target="_blank">Digital Taiwan (DIGI Taiwan)</a>
+    - col:
+      data:
+        list: false
+        fr: |
+          Pour accélérer l'innovation industrielle, créer un Taiwan intelligent
+        en: |
+          To accelerate industrial innovation, to create smart Taiwan
+    - col:
+      data:
+        list: false
+        fr: |
+          Autres Pays, Services Numériques, Innovation
+        en: |
+          Other Countries, Digital Services, Innovation
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Site Web
+        en: Website
+    - col:
+      data:
+        list: false
+        fr: <a href="https://docs.italia.it/italia/developers-italia/gl-acquisition-and-reuse-software-for-pa-docs/en/master/" target="_blank">Lignes directrices de l'Italie sur l'acquisition et la réutilisation de logiciels pour les administrations publiques</a> (Anglais et Italien)
+        en: <a href="https://docs.italia.it/italia/developers-italia/gl-acquisition-and-reuse-software-for-pa-docs/en/master/" target="_blank">Italy Guidelines on the acquisition and reuse of software for public administrations</a>
+    - col:
+      data:
+        list: false
+        fr: |
+          Lignes directrices de l'Italie
+        en: |
+          Italy's Guidelines
+    - col:
+      data:
+        list: false
+        fr: |
+          Autres Pays, Acquisition Logiciels, Lignes Directrices
+        en: |
+          Other Countries, Software Acquisition, Guidelines
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Site Web
+        en: Website
+    - col:
+      data:
+        list: false
+        fr: <a href="https://www.dta.gov.au/digital-transformation-strategy" target="_blank">Australia Digital Transformation Strategy</a> (Anglais)
+        en: <a href="https://www.dta.gov.au/digital-transformation-strategy" target="_blank">Australia Digital Transformation Strategy</a>
+    - col:
+      data:
+        list: false
+        fr: |
+          Site de la stratégie transformationnelle pour un gouvernement numérique de l'Australie
+        en: |
+          Australia's website on Digital Transformation Strategy
+    - col:
+      data:
+        list: false
+        fr: |
+          Autres Pays, Stratégies
+        en: |
+          Other Countries, Strategies
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Site Web
+        en: Website
+    - col:
+      data:
+        list: false
+        fr: <a href="https://playbook.cio.gov/" target="_blank">US Digital Services Playbook</a> (Anglais)
+        en: <a href="https://playbook.cio.gov/" target="_blank">US Digital Services Playbook</a>
+    - col:
+      data:
+        list: false
+        fr: |
+          Site web présentant le playbook du Service numérique des États-Unis d'Amérique 
+        en: |
+          Website presenting the US Digital Services Playbook
+    - col:
+      data:
+        list: false
+        fr: |
+          Autres Pays, Playbook
+        en: |
+          Other Countries, Playbook
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Document
+        en: Document
+    - col:
+      data:
+        list: false
+        fr: <a href="https://dodcio.defense.gov/Portals/0/Documents/DoD%20Enterprise%20DevSecOps%20Reference%20Design%20v1.0_Public%20Release.pdf?ver=2019-09-26-115824-583" target="_blank">Enterprise DevSecOpsReference Design (2019)</a> (Anglais)
+        en: <a href="https://dodcio.defense.gov/Portals/0/Documents/DoD%20Enterprise%20DevSecOps%20Reference%20Design%20v1.0_Public%20Release.pdf?ver=2019-09-26-115824-583" target="_blank">Enterprise DevSecOpsReference Design (2019)</a>
+    - col:
+      data:
+        list: false
+        fr: |
+          Document présentant le design de référence pour un modèle DevSecOps d'entreprise pour le Département de la Défense américaine.
+        en: |
+          Document presenting the DevSecOps entreprise reference design for the United States of America Department of Defence.
+    - col:
+      data:
+        list: false
+        fr: |
+          Autres Pays, DevSecOps
+        en: |
+          Other Countries, DevSecOps
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Baladodiffusion
+        en: Podcast
+    - col:
+      data:
+        list: false
+        fr: <a href="https://lexfridman.com/ai/" target="_blank">Lex Fridman Podcast</a> (Anglais)
+        en: <a href="https://lexfridman.com/ai/" target="_blank">Lex Fridman Podcast</a>
+    - col:
+      data:
+        list: false
+        fr: |
+          Balado animé par Lex Fridman qui fait des recherches sur l'intelligence artificielle centrée sur l'homme, l'apprentissage profond, les véhicules autonomes et la robotique au MIT et au-delà
+        en: |
+          Podcast hosted by Lex Fridman who researches human-centered AI, deep learning, autonomous vehicles & robotics at MIT and beyond
+    - col:
+      data:
+        list: false
+        fr: |
+          Intelligence Artificielle
+        en: |
+          Artificial Intelligence
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Article
+        en: Article
+    - col:
+      data:
+        list: false
+        fr: <a href="https://medium.com/politics-ai/an-overview-of-national-ai-strategies-2a70ec6edfd" target="_blank">An overview of National AI Strategies</a> (Anglais)
+        en: <a href="https://medium.com/politics-ai/an-overview-of-national-ai-strategies-2a70ec6edfd" target="_blank">An overview of National AI Strategies</a>
+    - col:
+      data:
+        list: false
+        fr: |
+          Sommaire des stratégies en Intelligence Artificielle de 26 pays. Le Canada figure dans cette liste.
+        en: |
+          Summary of 26 countries' Artificial Intelligence strategies. Canada amongst that list.
+    - col:
+      data:
+        list: false
+        fr: |
+          Intelligence Artificielle
+        en: |
+          Artificial Intelligence
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Article
+        en: Article
+    - col:
+      data:
+        list: false
+        fr: <a href="https://medium.com/fwd50/open-sourcing-policy-models-our-conversation-with-dr-audrey-lobo-pulo-e56afcdc59e9" target="_blank">Open sourcing policy models - Australian data sharing agreement with LinkedIn</a> (Anglais)
+        en: <a href="https://medium.com/fwd50/open-sourcing-policy-models-our-conversation-with-dr-audrey-lobo-pulo-e56afcdc59e9" target="_blank">Open sourcing policy models - Australian data sharing agreement with LinkedIn</a>
+    - col:
+      data:
+        list: false
+        fr: |
+          Article Medium de FWD50 passant en revue la façon dont les modèles "logiciels libres" sont utilisés dans les gouvernements pour informer les politiques publiques.
+        en: |
+          FWD50 Medium Article going over how open source models are used in government to inform public policies.
+    - col:
+      data:
+        list: false
+        fr: |
+          Intelligence Artificielle, Logiciels Libres, FWD50
+        en: |
+          Artificial Intelligence, Open Source Software, FWD50
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Document
+        en: Document
+    - col:
+      data:
+        list: false
+        fr: <a href="http://dialogue/grp/BU6810070/Shared%20Documents/Reference%20Materials/Finland%20AI%20Strategy.pdf" target="_blank">Finland AI Strategy</a> (Anglais)
+        en: <a href="http://dialogue/grp/BU6810070/Shared%20Documents/Reference%20Materials/Finland%20AI%20Strategy.pdf" target="_blank">Finland AI Strategy</a>
+    - col:
+      data:
+        list: false
+        fr: |
+          Document présentant la stratégie Intelligence Artificielle pour le gouvernement de la Finlande
+        en: |
+          Document presenting Finland's Artificial Intelligence Strategy
+    - col:
+      data:
+        list: false
+        fr: |
+          Autres Pays, Intelligence Artificielle
+        en: |
+          Other Countries, Artificial Intelligence
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Vidéo
+        en: Video
+    - col:
+      data:
+        list: false
+        fr: |
+          <a href="https://www.youtube.com/watch?v=8armE3Wz0jk" target="_blank">Black Hat USA 2019 Keynote : Every Security Team is a Software Team Now par Dino Dai Zovi</a> (Anglais)
+        en: |
+          <a href="https://www.youtube.com/watch?v=8armE3Wz0jk" target="_blank">Black Hat USA 2019 Keynote : Every Security Team is a Software Team Now par Dino Dai Zovi</a>
+    - col:
+      data:
+        list: false
+        fr: |
+          Conférencier principal de <a href="https://www.blackhat.com/" target="_blank">Blackhat</a> 2019.
+        en: |
+          Keynote speaker from <a href="https://www.blackhat.com/" target="_blank">Blackhat</a> 2019.
+    - col:
+      data:
+        list: false
+        fr: |
+          Sécurité, Logiciels
+        en: |
+          Security, Software
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Vidéo
+        en: Video
+    - col:
+      data:
+        list: false
+        fr: |
+          <a href="https://www.youtube.com/watch?v=0VmYzCXD8I8&t=2s" target="_blank">Borrowing Brilliance: The Six Steps to Business Innovation by Building on the Ideas of Others</a> (Anglais)
+        en: |
+          <a href="https://www.youtube.com/watch?v=0VmYzCXD8I8&t=2s" target="_blank">Borrowing Brilliance: The Six Steps to Business Innovation by Building on the Ideas of Others</a>
+    - col:
+      data:
+        list: false
+        fr: |
+          Présentation résumant le livre “Borrowing Brilliance” de David Murray
+        en: |
+          Talk summarizing the book Borrowing Brilliance by David Murray
+    - col:
+      data:
+        list: false
+        fr: |
+          Résumé de livre, Innovation
+        en: |
+          Book Summary, Innovation
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Vidéo
+        en: Video
+    - col:
+      data:
+        list: false
+        fr: <a href="" target="_blank">Mastering Chaos - A Netflix Guide to Microservices</a> (Anglais)
+        en: <a href="" target="_blank">Mastering Chaos - A Netflix Guide to Microservices</a>
+    - col:
+      data:
+        list: false
+        fr: |
+          Une excellente présentation du directeur de l’ingénierie des opérations sur les microservices chez Netflix
+        en: |
+          An excellent talk by Director of Operations Engineering about Microservices at Netflix
+    - col:
+      data:
+        list: false
+        fr: |
+          Microservices, Opérations, Ingénierie
+        en: |
+          Microservices, Operations, Engineering
+
+- table:
+  id: t004
+  name:
+    fr: Livres
+    en: Books
+  description:
+    fr: |
+      
+    en: |
+       
+  rows:
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: <a href="" target="_blank"></a>
+        en: <a href="" target="_blank"></a>
+    - col:
+      data:
+        list: false
+        fr: |
+          
+        en: |
+          
+    - col:
+      data:
+        list: false
+        fr: |
+          
+        en: |
+          
