@@ -40,35 +40,6 @@ Don't hesitate to send us proposals of books, articles, videos or even policies!
 
 {% include table.html table-id="t004" file="references"%}
 
-## Learning Resources
-
-### Cloud
-
-- [AWS Certifications](https://aws.amazon.com/certification/): A host of AWS Certifications including Solutions Architecture, SysOps Administrator, DevOps Engineer, Machine Learning Speciality, Big Data, and more. Lots of online material available to study including [AWS Tutorial Series](https://www.youtube.com/channel/UClLLJjpSWRRa1BosQrNVDjA) and their own documentation such as the [AWS Well-Architected Framework](https://aws.amazon.com/architecture/well-architected/). The most popular certification is the [Associate Solutions Architecture Certification](https://aws.amazon.com/certification/certified-solutions-architect-associate/) and a free online course for it can be found [here](https://www.youtube.com/watch?v=Ia-UEYYR44s&list=WL&index=28&t=615s).
-- [Azure Certifications](https://www.microsoft.com/en-us/learning/azure-exams.aspx): Offers a list of certifications and associated online training to prepare. For example, courses on [Developing Solutions for Microsoft Azure](https://docs.microsoft.com/fr-fr/learn/certifications/exams/az-204?wt.mc_id=learningredirect_certs-web-wwl) which is followed by a "Ways to prepare" section with content available to study.
-
-### General
-
-- [MOOC](https://www.mooc.org/): Massive Open Online Courses (MOOCs) are free online courses available for anyone to enroll. MOOCs provide an affordable and flexible way to learn new skills, advance your career and deliver quality educational experiences at scale.
-- [Coursera](https://www.coursera.org/): Develop your skills with online courses, certificates and diplomas offered by the best universities and companies in the world
-- [Udemy](https://www.udemy.com/): Online learning platform aimed at professional adults and students that has more than 50 million students and 57,000 instructors teaching courses in over 65 languages
-- [Khan Academy](https://www.khanacademy.org): Khan Academy is a non-profit educational organization that produces short lessons in the form of videos covering a wide variety of topics. [Also available in french](https://fr.khanacademy.org/).
-
-### Language
-
-- [Speaker](https://www.spreaker.com/show/government-french-oral-training)
-- [Canada School of Public Service - Language maintenance tools](https://www.csps-efpc.gc.ca/lt/index-eng.aspx)
-- [Public Service Commission - Self-assessment tests](https://www.canada.ca/en/public-service-commission/services/second-language-testing-public-service/self-assessment-tests.html)
-
-#### Programming
-
-- [Derek Banas](https://www.youtube.com/channel/UCwRXb5dUK4cvsHbx-rGzSgw): Great fundamentals programming tutorials for many languages and tools including Java, PHP, Python, C++, Javascript, MySQL, and more!
-
-#### Math / Logic
-
-- [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw): Combination of math and entertainment. The goal is for explanations to be driven by animations and for difficult problems to be made simple with changes in perspective. Has videos on [blockchain](https://www.youtube.com/watch?v=bBC-nXj3Ng4&t=1s), and [Neural Networks](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi), for example.
-- [Brilliant](https://brilliant.org/daily-problems/): Brilliant creates a culture of learning around inquiry, curiosity, and openness to failure. All of our courses are written with these principles of learning in mind. Has great courses from mathematical foundations to quantum computing and neural networks. Has a mobile application as well.
-
 ## Related to Strategies
 
 ### Q1 Strategy - Continuous Improvement and Learning

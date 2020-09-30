@@ -40,52 +40,9 @@ N'hésitez pas à nous envoyer des propositions de livres, articles, vidéos ou 
 
 {% include table.html table-id="t004" file="references"%}
 
-## Ressources d'apprentissage
-
-### Infonuagique
-
-- [Certifications AWS](https://aws.amazon.com/fr/certification/) : Toute une série de certifications AWS, dont celles d'architecte de solutions, d'administrateur SysOps, d'ingénieur DevOps, de spécialiste en apprentissage machine, de spécialiste des données volumineuses, etc. De nombreux documents en ligne sont disponibles pour l'étude, notamment [AWS Tutorial Series](https://www.youtube.com/channel/UClLLJjpSWRRa1BosQrNVDjA) (Anglais) et leur propre documentation, comme le [Framework correctement architecturé](https://aws.amazon.com/fr/architecture/well-architected/) (Anglais). La certification la plus populaire est la [certification Architecte de solutions certifié AWS Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/) et un cours en ligne gratuit est disponible [ici](https://www.youtube.com/watch?v=Ia-UEYYR44s&list=WL&index=28&t=615s) (Anglais).
-- [Certifications Azure](https://www.microsoft.com/fr-fr/learning/azure-exams.aspx) : Propose une liste de certifications et de formations en ligne pour se préparer. Par exemple, des cours sur [Developing Solutions for Microsoft Azure](https://docs.microsoft.com/fr-fr/learn/certifications/exams/az-204?wt.mc_id=learningredirect_certs-web-wwl) (Anglais) qui est suivi d'une section "Ways to prepare" avec du contenu à étudier.
-
-### Général
-
-- [MOOC](https://www.mooc.org/) (Anglais) : Les cours en ligne ouverts à tous (MOOC) sont des cours en ligne gratuits auxquels tout le monde peut s'inscrire. Les MOOCs constituent un moyen abordable et flexible d'acquérir de nouvelles compétences, de faire progresser votre carrière et de proposer des expériences éducatives de qualité à grande échelle.
-- [Coursera](https://www.coursera.org/) (Anglais) : Développez vos compétences grâce à des cours en ligne, des certificats et des diplômes proposés par les meilleures universités et entreprises du monde
-- [Udemy](https://www.udemy.com/) (Anglais) : Plateforme d'apprentissage en ligne destinée aux adultes professionnels et aux étudiants, qui compte plus de 50 millions d'étudiants et 57 000 instructeurs donnant des cours dans plus de 65 langues
-- [Khan Academy](https://fr.khanacademy.org) : La Khan Academy est une organisation éducative à but non lucratif qui produit de courtes leçons sous forme de vidéos couvrant une grande variété de sujets...
-
-### Langue
-
-- [École de la fonction publique du Canada - Outils de maintien des acquis linguistiques](https://www.csps-efpc.gc.ca/lt/index-fra.aspx)
-- [Commission de la fonction publique - Tests d’autoévaluation](https://www.canada.ca/fr/commission-fonction-publique/services/evaluation-langue-seconde/tests-autoevaluation.html)
-
-### Fondements techniques
-
-#### Programmation
-
-- [Derek Banas](https://www.youtube.com/channel/UCwRXb5dUK4cvsHbx-rGzSgw) (Anglais) : De superbes tutoriels de programmation de base pour de nombreux langages et outils, dont Java, PHP, Python, C++, Javascript, MySQL, et bien d'autres !
-
-#### Mathématique / Logique
-
-- [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) (Anglais) : Combinaison de mathématiques et de divertissement. L'objectif est que les explications soient motivées par des animations et que les problèmes difficiles soient rendus simples grâce à des changements de perspective. Propose des vidéos sur [blockchain](https://www.youtube.com/watch?v=bBC-nXj3Ng4&t=1s) (Anglais), et [neural networks](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) (Anglais), par exemple.
-- [Brillant](https://brilliant.org/daily-problems/) (Anglais) : Brilliant crée une culture de l'apprentissage autour de la recherche, de la curiosité et de l'ouverture à l'échec. Tous nos cours sont rédigés en tenant compte de ces principes d'apprentissage. Propose des cours de qualité, des fondements mathématiques à l'informatique quantique et aux réseaux de neurones. A également une application mobile.
-
 ## Reliées aux Stratégies
 
 ### Stratégie Q1 - Amélioration et apprentissage continus
-
-[IITB Operational Staffing Plan 2018-2019](http://dialogue/grp/WM-Gde/Operational%20Staffing%20Plan/PMD%20OSP%20Library/2018-19_Operational_Staffing_Plan_IITB.docx) (Interne - Anglais)  
-_Collaborate with the business side of ESDC to exchange resources temporarily so as to learn and share knowledge in various areas e.g. finance, human resources (HR), business relationship management (BRM), project management, etc.;_
-
-[The DevOps Handbook](https://books.google.ca/books?id=ui8hDgAAQBAJ&lpg=PP1&dq=DevOps%20Handbook&hl=fr&pg=PT110#v=onepage&q&f=false) (Livre - Anglais)  
-_We will actively manage this technical debt by ensuring that we invest at least 20% of all Development and Operations cycles on refactoring, investing in automation work and architecture and non-functional requirements (NFRs, sometimes referred to as the "ilities"), such as maintainability, manageability. scalability, reliability. testability, deployability, and security._
-
-[Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://books.google.ca/books?id=Kax-DwAAQBAJ&lpg=PP1&dq=Accelerate&hl=fr&pg=PP1#v=snippet&q=20%25&f=false) (book) (Livre - Anglais)  
-_**Relentlessly pursue continuous improvement.** The most important characteristic of high-performing teams is that they are never satisfied: they always strive to get better. High performers make improvement part of everybody's daily work._  
-[...]  
-_At the heart of Lean management is giving employees the necessary time and resources to improve their own work. This means creating a work environment that supports experimentation, failure, and learning, and allows employees to make decisions that affect their jobs. This also means creating space for employees to do new, creative, value-add work during the work week—and not just expecting them to devote extra time after hours._  
-[...]  
-_A fixed percentage of each squad's and chapter's time is allocated for improvement. Jordi says that the squads think of improvement activities as just regular work._
 
 [ATD's Foundations of Talent Development: Launching, Leveraging, and Leading Your Organization's TD Effort (2018)](https://books.google.ca/books?id=RJZqDwAAQBAJ&pg=PT46&lpg=PT46&dq=Top-performing+organizations+are+five+times+more+likely+to+have+learning+cultures&source=bl&ots=oM8YINBtTj&sig=ACfU3U1afkdRT2gGpcxRA4h-yUbgukNHyQ&hl=fr&sa=X&ved=2ahUKEwj7zoK588znAhUQhuAKHa5HBAwQ6AEwDHoECAkQAQ#v=onepage&q=Top-performing%20organizations%20are%20five%20times%20more%20likely%20to%20have%20learning%20cultures&f=false) (Livre - Anglais)
 
