@@ -1910,33 +1910,676 @@
     en: Books
   description:
     fr: |
-
+      Liste de livres lus par les membres de l'équipe et qui ont été utilisés comme référence pour leurs travaux. Certains livres de cette liste ont également été introduits à l'équipe par d'autres fonctionnaires ainsi que par des membres du public.
     en: |
-
+      List of books read by the team members and used for their work. Some of the books listed have also been introduced to the team by other public servants as well as from the members of the public.
   rows:
+    - row:
+      headers: true
+      cols:
+        - col:
+          data:
+            list: false
+            fr: Titre
+            en: Title
+        - col:
+          data:
+            list: false
+            fr: Auteure / Auteur
+            en: Author
+        - col:
+          data:
+            list: false
+            fr: Année de publication
+            en: Published
+        - col:
+          data:
+            list: false
+            fr: Éditrice / Éditeur
+            en: Publisher
+        - col:
+          data:
+            list: false
+            fr: Langue
+            en: Language
+        - col:
+          data:
+            list: false
+            fr: Description
+            en: Description
     - row:
       headers: false
       cols:
         - col:
           data:
             list: false
-            fr:
+            fr: <a href="https://en.wikipedia.org/wiki/Crossing_the_Chasm" target="_blank">Crossing the Chasm</a>
+            en: <a href="https://en.wikipedia.org/wiki/Crossing_the_Chasm" target="_blank">Crossing the Chasm</a>
+        - col:
+          data:
+            list: false
+            fr: Geoffrey A. Moore
+            en: Geoffrey A. Moore
+        - col:
+          data:
+            list: false
+            fr: 2014
+            en: 2014
+        - col:
+          data:
+            list: false
+            fr: HarperCollins Canada
+            en: HarperCollins Canada
+        - col:
+          data:
+            list: false
+            fr: Anglais
+            en: English
+        - col:
+          data:
+            list: false
+            fr: |
+              Mise à l’échelle et adoption de la technologie pour les entreprises en démarrage
+            en: |
+              Scaling up and technology adoption for startups
+    - row:
+      headers: false
+      cols:
+        - col:
+          data:
+            list: false
+            fr: <a href="http://goodbadstrategy.com/" target="_blank">Good Strategy Bad Strategy</a>
+            en: <a href="http://goodbadstrategy.com/" target="_blank">Good Strategy Bad Strategy</a>
+        - col:
+          data:
+            list: false
+            fr: Richard Rumelt
+            en: Richard Rumelt
+        - col:
+          data:
+            list: false
+            fr: 2011
+            en: 2011
+        - col:
+          data:
+            list: false
+            fr: Éditrice
+            en: Publisher
+        - col:
+          data:
+            list: false
+            fr: Anglais
+            en: English
+        - col:
+          data:
+            list: false
+            fr: |
+              Clarifie la pensée confuse qui sous-tend trop de stratégies et fournit un moyen clair de créer et de mettre en œuvre une stratégie puissante axée sur l’action. Un bon résumé du livre peut être trouvé <a href="https://jlzych.com/2018/06/27/notes-from-good-strategy-bad-strategy/" target="_blank">ici</a>.<br>Aussi disponible en format <a href="https://www.wiaudiobooks.com/product/good-strategy-bad-strategy-audiobook/" target="_blank">livre audio</a> (Anglais).
+            en: |
+              Clarifies the muddled thinking underlying too many strategies and provides a clear way to create and implement a powerful action-oriented strategy. A good summary of the book can be <a href="https://jlzych.com/2018/06/27/notes-from-good-strategy-bad-strategy/" target="_blank">found here</a><br>Also available as an <a href="https://www.wiaudiobooks.com/product/good-strategy-bad-strategy-audiobook/" target="_blank">audiobook</a>
+    - row:
+      headers: false
+      cols:
+        - col:
+          data:
+            list: false
+            fr: <a href="https://itrevolution.com/book/accelerate/" target="_blank">Accelerate</a>
+            en: <a href="https://itrevolution.com/book/accelerate/" target="_blank">Accelerate</a>
+        - col:
+          data:
+            list: false
+            fr: Nicole Forsgren, Jez Humble, Gene Kim
+            en: Nicole Forsgren, Jez Humble, Gene Kim
+        - col:
+          data:
+            list: false
+            fr: 2018
+            en: 2018
+        - col:
+          data:
+            list: false
+            fr: <a href="https://itrevolution.com/devops-books/" target="_blank">IT Revolution</a>
+            en: <a href="https://itrevolution.com/devops-books/" target="_blank">IT Revolution</a>
+        - col:
+          data:
+            list: false
+            fr: Anglais
+            en: English
+        - col:
+          data:
+            list: false
+            fr: |
+              La science des logiciels optimisés et DevOps : créer et développer des organisations technologiques hautement performantes.<br>Aussi disponible en format <a href="https://soundcloud.com/itrevolution/sets/accelerate-the-science-of" target="_blank">livre audio</a> (Anglais).
+            en: |
+              The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations<br>Also available as an <a href="https://soundcloud.com/itrevolution/sets/accelerate-the-science-of" target="_blank">audiobook</a>
+    - row:
+      headers: false
+      cols:
+        - col:
+          data:
+            list: false
+            fr: <a href="https://www.goodreads.com/en/book/show/1523368.Project_Retrospectives" target="_blank">Project Retrospectives</a>
             en:
         - col:
           data:
             list: false
-            fr: <a href="" target="_blank"></a>
-            en: <a href="" target="_blank"></a>
+            fr: Norm Kerth
+            en: Norm Kerth
+        - col:
+          data:
+            list: false
+            fr: 2001
+            en: 2001
+        - col:
+          data:
+            list: false
+            fr: Dorset House Publishing Company, Incorporated
+            en: Dorset House Publishing Company, Incorporated
+        - col:
+          data:
+            list: false
+            fr: Anglais
+            en: English
         - col:
           data:
             list: false
             fr: |
-
+              
             en: |
-
+              
+    - row:
+      headers: false
+      cols:
+        - col:
+          data:
+            list: false
+            fr: <a href="https://econpapers.repec.org/article/eeeaosoci/v_3a32_3ay_3a2007_3ai_3a7-8_3ap_3a757-788.htm" target="_blank">An empirical analysis of the levers of control framework</a>
+            en: <a href="https://econpapers.repec.org/article/eeeaosoci/v_3a32_3ay_3a2007_3ai_3a7-8_3ap_3a757-788.htm" target="_blank">An empirical analysis of the levers of control framework</a>
+        - col:
+          data:
+            list: false
+            fr: Sally K. Widener
+            en: Sally K. Widener
+        - col:
+          data:
+            list: false
+            fr: 2007
+            en: 2007
+        - col:
+          data:
+            list: false
+            fr: Elsevier
+            en: Elsevier
+        - col:
+          data:
+            list: false
+            fr: Anglais
+            en: English
         - col:
           data:
             list: false
             fr: |
-
+              
             en: |
+              
+    - row:
+      headers: false
+      cols:
+        - col:
+          data:
+            list: false
+            fr: |
+              <a href="https://econpapers.repec.org/article/eeeaosoci/v_3a29_3ay_3a2004_3ai_3a3-4_3ap_3a243-267.htm" target="_blank">Implementing performance measurement innovations: evidence from government </a>
+            en: |
+              <a href="https://econpapers.repec.org/article/eeeaosoci/v_3a29_3ay_3a2004_3ai_3a3-4_3ap_3a243-267.htm" target="_blank">Implementing performance measurement innovations: evidence from government </a>
+        - col:
+          data:
+            list: false
+            fr: Ken S. Cavalluzzo and Christopher D. Ittner
+            en: Ken S. Cavalluzzo and Christopher D. Ittner
+        - col:
+          data:
+            list: false
+            fr: 2004
+            en: 2004
+        - col:
+          data:
+            list: false
+            fr: Elsevier
+            en: Elsevier
+        - col:
+          data:
+            list: false
+            fr: Anglais
+            en: English
+        - col:
+          data:
+            list: false
+            fr: |
+              
+            en: |
+              
+    - row:
+      headers: false
+      cols:
+        - col:
+          data:
+            list: false
+            fr: |
+              <a href="https://www.goodreads.com/en/book/show/714348.Quality_Software_Management" target="_blank">Quality Software Management: Systems Thinking</a>
+            en: |
+              <a href="https://www.goodreads.com/en/book/show/714348.Quality_Software_Management" target="_blank">Quality Software Management: Systems Thinking</a>
+        - col:
+          data:
+            list: false
+            fr: Gerald M. Weinberg
+            en: Gerald M. Weinberg
+        - col:
+          data:
+            list: false
+            fr: 1992
+            en: 1992
+        - col:
+          data:
+            list: false
+            fr: Dorset House Publishing Company, Incorporated
+            en: Dorset House Publishing Company, Incorporated
+        - col:
+          data:
+            list: false
+            fr: Anglais
+            en: English
+        - col:
+          data:
+            list: false
+            fr: |
+              S’attaque à la première exigence du développement d’un logiciel de qualité : apprendre à penser correctement - sur les problèmes, les solutions et la qualité elle-même.
+            en: |
+              Tackles the first requirement for developing quality software: learning to think correctly – about problems, solutions, and quality itself.
+    - row:
+      headers: false
+      cols:
+        - col:
+          data:
+            list: false
+            fr: <a href="https://itrevolution.com/book/the-phoenix-project/" target="_blank">The Phoenix Project</a>
+            en: <a href="https://itrevolution.com/book/the-phoenix-project/" target="_blank">The Phoenix Project</a>
+        - col:
+          data:
+            list: false
+            fr: Kevin Behr, George Spafford, Gene Kim
+            en: Kevin Behr, George Spafford, Gene Kim
+        - col:
+          data:
+            list: false
+            fr: 2013
+            en: 2013
+        - col:
+          data:
+            list: false
+            fr: <a href="https://itrevolution.com/devops-books/" target="_blank">IT Revolution</a>
+            en: <a href="https://itrevolution.com/devops-books/" target="_blank">IT Revolution</a>
+        - col:
+          data:
+            list: false
+            fr: Anglais
+            en: English
+        - col:
+          data:
+            list: false
+            fr: |
+              Un roman sur les technologies de l’information, les DevOps et l’aide à votre entreprise pour gagner.<br>Partie 1 disponible en format <a href="https://soundcloud.com/itrevolution/sets/the-phoenix-project-part-2" target="_blank">livre audio</a> (Anglais).
+            en: |
+              A Novel about IT, DevOps, and Helping Your Business Win.<br>Part 1 available as an <a href="https://soundcloud.com/itrevolution/sets/the-phoenix-project-part-2" target="_blank">audiobook</a>
+    - row:
+      headers: false
+      cols:
+        - col:
+          data:
+            list: false
+            fr: <a href="https://itrevolution.com/book/the-devops-handbook/" target="_blank">The DevOps Handbook</a>
+            en: <a href="https://itrevolution.com/book/the-devops-handbook/" target="_blank">The DevOps Handbook</a>
+        - col:
+          data:
+            list: false
+            fr: Gene Kim, Jez Humble, John Willis, Patrick Debois
+            en: Gene Kim, Jez Humble, John Willis, Patrick Debois
+        - col:
+          data:
+            list: false
+            fr: 2016
+            en: 2016
+        - col:
+          data:
+            list: false
+            fr: <a href="https://itrevolution.com/devops-books/" target="_blank">IT Revolution</a>
+            en: <a href="https://itrevolution.com/devops-books/" target="_blank">IT Revolution</a>
+        - col:
+          data:
+            list: false
+            fr: Anglais
+            en: English
+        - col:
+          data:
+            list: false
+            fr: |
+              Comment créer une agilité, une fiabilité et une sécurité de classe mondiale dans les organisations technologiques.<br>Disponible en format <a href="https://soundcloud.com/itrevolution/sets/the-devops-handbook" target="_blank">livre audio</a> (Anglais).
+            en: |
+              How to Create World-Class Agility, Reliability, and Security in Technology Organizations.<br>Available as an <a href="https://soundcloud.com/itrevolution/sets/the-devops-handbook" target="_blank">audiobook</a>
+    - row:
+      headers: false
+      cols:
+        - col:
+          data:
+            list: false
+            fr: <a href="https://itrevolution.com/book/the-unicorn-project/" target="_blank">The Unicorn Project</a>
+            en: <a href="https://itrevolution.com/book/the-unicorn-project/" target="_blank">The Unicorn Project</a>
+        - col:
+          data:
+            list: false
+            fr: Gene Kim
+            en: Gene Kim
+        - col:
+          data:
+            list: false
+            fr: 2019
+            en: 2019
+        - col:
+          data:
+            list: false
+            fr: <a href="https://itrevolution.com/devops-books/" target="_blank">IT Revolution</a>
+            en: <a href="https://itrevolution.com/devops-books/" target="_blank">IT Revolution</a>
+        - col:
+          data:
+            list: false
+            fr: Anglais
+            en: English
+        - col:
+          data:
+            list: false
+            fr: |
+              C’est l’histoire de développeurs rebelles et de chefs d’entreprise qui travaillent ensemble et se battent contre le temps pour innover, survivre et prospérer dans une période d’incertitude sans précédent… et d’opportunités.
+            en: |
+              This is a story about rebel developers and business leaders working together and racing against time to innovate, survive, and thrive in a time of unprecedented uncertainty…and opportunity.
+    - row:
+      headers: false
+      cols:
+        - col:
+          data:
+            list: false
+            fr: <a href="https://itrevolution.com/book/war-and-peace-and-it/" target="_blank">War and Peace and IT</a>
+            en: <a href="https://itrevolution.com/book/war-and-peace-and-it/" target="_blank">War and Peace and IT</a>
+        - col:
+          data:
+            list: false
+            fr: Mark Schwartz
+            en: Mark Schwartz
+        - col:
+          data:
+            list: false
+            fr: 2019
+            en: 2019
+        - col:
+          data:
+            list: false
+            fr: <a href="https://itrevolution.com/devops-books/" target="_blank">IT Revolution</a>
+            en: <a href="https://itrevolution.com/devops-books/" target="_blank">IT Revolution</a>
+        - col:
+          data:
+            list: false
+            fr: Anglais
+            en: English
+        - col:
+          data:
+            list: false
+            fr: |
+              Il est temps de changer non seulement la relation de l’entreprise avec la technologie, mais aussi sa relation avec les technologues. Pour accélérer, les entreprises doivent mettre la technologie au cœur de leur travail, car tout comme la technologie cause cette perturbation, c’est la technologie qui fournit la solution.<br>Disponible en format <a href="https://soundcloud.com/itrevolution/sets/war-and-peace-and-it" target="_blank">livre audio</a> (Anglais).
+            en: |
+              It is time to change not only the enterprise’s relationship with technology, but its relationship with technologists. To accelerate, enterprises must bring technology to the heart of their work, for just as technology is causing this disruption, it is technology that provides the solution.<br>Available as an <a href="https://soundcloud.com/itrevolution/sets/war-and-peace-and-it" target="_blank">audiobook</a>
+    - row:
+      headers: false
+      cols:
+        - col:
+          data:
+            list: false
+            fr: <a href="https://www.redhat.com/en/explore/the-open-organization-book" target="_blank">The Open Organization</a>
+            en: <a href="https://www.redhat.com/en/explore/the-open-organization-book" target="_blank">The Open Organization</a>
+        - col:
+          data:
+            list: false
+            fr: Jim Whitehurst, CEO RedHat
+            en: Jim Whitehurst, CEO RedHat
+        - col:
+          data:
+            list: false
+            fr: 2015
+            en: 2015
+        - col:
+          data:
+            list: false
+            fr: Harvard Business Review Press
+            en: Harvard Business Review Press
+        - col:
+          data:
+            list: false
+            fr: Anglais
+            en: English
+        - col:
+          data:
+            list: false
+            fr: |
+              Les organisations qui réussissent ont besoin d’un leadership ouvert. Le monde a changé. Les entreprises qui veulent croître (et réussir) ne peuvent pas fonctionner dans le passé. L’organisation ouverte s’adresse aux dirigeants qui veulent créer des environnements d’affaires qui peuvent réagir rapidement dans le monde d’aujourd’hui où les activités se déroulent à un rythme effréné. C’est pour ceux qui veulent encourager les meilleures idées, entendre des conseils honnêtes et attirer (et retenir) les talents les plus brillants.
+            en: |
+              Successful organizations need open leadership. The world has changed. Companies that want to grow (and succeed) can’t operate in the past. The Open Organization is for leaders who want to create business environments that can respond quickly in today’s fast-paced world. It’s for those who want to encourage the best ideas, hear honest advice, and attract (and retain) the brightest talent.
+    - row:
+      headers: false
+      cols:
+        - col:
+          data:
+            list: false
+            fr: <a href="https://ea.rna.nl/the-book/" target="_blank">Chess and the art of enterprise architecture</a>
+            en: <a href="https://ea.rna.nl/the-book/" target="_blank">Chess and the art of enterprise architecture</a>
+        - col:
+          data:
+            list: false
+            fr: Gerben Wierda
+            en: Gerben Wierda
+        - col:
+          data:
+            list: false
+            fr: 2015
+            en: 2015
+        - col:
+          data:
+            list: false
+            fr: R&A
+            en: R&A
+        - col:
+          data:
+            list: false
+            fr: Anglais
+            en: English
+        - col:
+          data:
+            list: false
+            fr: |
+              L’architecture d’entreprise est la discipline qui consiste à gérer les complexités de l’environnement commercial et informatique. Il existe depuis les années 1980, lorsque, pour la première fois, des ordinateurs ont été connectés en réseau, et le problème déjà sérieux (et non résolu) de la complexité des programmes informatiques pour des besoins commerciaux relativement simples est devenu l’énorme problème des grands réseaux dans des environnements commerciaux complexes. En dépit des nombreuses “ meilleures pratiques “ et “ cadres “ qui ont été introduits, l’architecture d’entreprise n’est pas un grand succès. Après trente ans, nous avons toujours les mêmes problèmes. Le chaos est encore partout. Les projets échouent encore beaucoup trop souvent. Dans cet ouvrage, les hypothèses (cachées) qui sous-tendent les approches existantes de l’architecture d’entreprise sont remises en question, et une perspective plus réaliste qui nous aide à combattre les complexités et les imprévisibilités des environnements informatiques actuels des entreprises est décrite.
+            en: |
+              Enterprise Architecture is the discipline of managing the complexities of the Business-IT landscape. It has been around since the 1980’s, when for the first time computers were connected in networks, and the already serious (and unsolved) problem of the complexity of computer programs for relatively simple business needs turned into the huge problem of large networks of them in complex business landscapes. In spite of many ‘best practices’ and ‘frameworks’ that have been introduced, Enterprise Architecture is not a great success. After thirty years, we still have the same problems. Chaos is still everywhere. Projects still fail far too often. In this book, (hidden) assumptions behind the existing approaches to enterprise architecture are challenged, and a more realistic perspective that helps us battle the complexities and unpredictabilities of today’s Business-IT landscapes is described.
+    - row:
+      headers: false
+      cols:
+        - col:
+          data:
+            list: false
+            fr: <a href="https://itrevolution.com/book/the-art-of-business-value/" target="_blank">The Art of Business Value</a>
+            en: <a href="https://itrevolution.com/book/the-art-of-business-value/" target="_blank">The Art of Business Value</a>
+        - col:
+          data:
+            list: false
+            fr: Mark Schwarts
+            en: Mark Schwarts
+        - col:
+          data:
+            list: false
+            fr: 2016
+            en: 2016
+        - col:
+          data:
+            list: false
+            fr: <a href="https://itrevolution.com/devops-books/" target="_blank">IT Revolution</a>
+            en: <a href="https://itrevolution.com/devops-books/" target="_blank">IT Revolution</a>
+        - col:
+          data:
+            list: false
+            fr: Anglais
+            en: English
+        - col:
+          data:
+            list: false
+            fr: |
+              Mark Schwartz, DPI iconoclaste, ludique et provocateur, explore ce que signifie la valeur commerciale, pourquoi elle est importante et comment elle devrait affecter vos pratiques de développement et de livraison de logiciels.<br>Disponible en format <a href="https://soundcloud.com/itrevolution/sets/the-art-of-business-value" target="_blank">livre audio</a> (Anglais).
+            en: |
+              Playful and thought-provoking, iconoclastic CIO Mark Schwartz explores what business value means, why it matters, and how it should affect your software development and delivery practices.<br>Available as an <a href="https://soundcloud.com/itrevolution/sets/the-art-of-business-value" target="_blank">audiobook</a>
+    - row:
+      headers: false
+      cols:
+        - col:
+          data:
+            list: false
+            fr: <a href="https://itrevolution.com/book/seat-at-the-table/" target="_blank">A seat at the table</a>
+            en: <a href="https://itrevolution.com/book/seat-at-the-table/" target="_blank">A seat at the table</a>
+        - col:
+          data:
+            list: false
+            fr: Mark Schwartz
+            en: Mark Schwartz
+        - col:
+          data:
+            list: false
+            fr: 2017
+            en: 2017
+        - col:
+          data:
+            list: false
+            fr: <a href="https://itrevolution.com/devops-books/" target="_blank">IT Revolution</a>
+            en: <a href="https://itrevolution.com/devops-books/" target="_blank">IT Revolution</a>
+        - col:
+          data:
+            list: false
+            fr: Anglais
+            en: English
+        - col:
+          data:
+            list: false
+            fr: |
+              Mark Schwartz, DPI iconoclaste, révèle comment les dirigeants des TI doivent se défaire de leurs anciennes attitudes et hypothèses et réclamer leur place légitime à la table des exécutifs.<br>Disponible en format <a href="https://soundcloud.com/itrevolution/sets/a-seat-at-the-table-it-leadership-in-the-age-of-agility" target="_blank">livre audio</a> (Anglais).
+            en: |
+              Iconoclastic CIO Mark Schwartz reveals how IT leaders must throw off the old attitudes and assumptions and claim their rightful seat at the C-suite table.<br>Available as an <a href="https://soundcloud.com/itrevolution/sets/a-seat-at-the-table-it-leadership-in-the-age-of-agility" target="_blank">audiobook</a>
+    - row:
+      headers: false
+      cols:
+        - col:
+          data:
+            list: false
+            fr: <a href="https://projecttoproduct.org/" target="_blank">Project to Product</a>
+            en:
+        - col:
+          data:
+            list: false
+            fr: Mik Kersten
+            en: Mik Kersten
+        - col:
+          data:
+            list: false
+            fr: 2018
+            en: 2018
+        - col:
+          data:
+            list: false
+            fr: <a href="https://itrevolution.com/devops-books/" target="_blank">IT Revolution</a>
+            en: <a href="https://itrevolution.com/devops-books/" target="_blank">IT Revolution</a>
+        - col:
+          data:
+            list: false
+            fr: Anglais
+            en: English
+        - col:
+          data:
+            list: false
+            fr: |
+              Explique pourquoi le modèle de projet est dépassé et suggère le <a href="https://flowframework.org/" target="">Flow Framework</a> (Anglais) pour passer à un modèle de livraison basé sur le produit
+            en: |
+              Explains why the project model is dated and suggests the <a href="https://flowframework.org/" target="">Flow Framework</a> to transition to a product based delivery model
+    - row:
+      headers: false
+      cols:
+        - col:
+          data:
+            list: false
+            fr: |
+              <a href="https://www.goodreads.com/book/show/23995360-superforecasting" target="_blank">Superforecasting: The Art and Science of Prediction</a>
+            en: |
+              <a href="https://www.goodreads.com/book/show/23995360-superforecasting" target="_blank">Superforecasting: The Art and Science of Prediction</a>
+        - col:
+          data:
+            list: false
+            fr: Philip E. Tetlock (Author), Dan Gardner
+            en: Philip E. Tetlock (Author), Dan Gardner
+        - col:
+          data:
+            list: false
+            fr: 2016
+            en: 2016
+        - col:
+          data:
+            list: false
+            fr: Broadway Books
+            en: Broadway Books
+        - col:
+          data:
+            list: false
+            fr: Anglais
+            en: English
+        - col:
+          data:
+            list: false
+            fr: |
+              Tout le monde aurait intérêt à voir plus loin dans l’avenir, que ce soit pour acheter des actions, élaborer une politique, lancer un nouveau produit ou simplement planifier les repas de la semaine. Malheureusement, les gens ont tendance à être de mauvais prévisionnistes. Comme l’a montré Philip Tetlock, professeur à Wharton, dans une étude marquante de 2005, même les prévisions des experts ne sont que légèrement meilleures que le hasard. Cependant, une conclusion importante et sous-estimée de cette étude est que certains experts ont une réelle capacité de prévision, et Tetlock a passé la dernière décennie à essayer de comprendre pourquoi. Qu’est-ce qui fait que certaines personnes sont si douées ? Et ce talent peut-il être enseigné ?
+            en: |
+              Everyone would benefit from seeing further into the future, whether buying stocks, crafting policy, launching a new product, or simply planning the week’s meals. Unfortunately, people tend to be terrible forecasters. As Wharton professor Philip Tetlock showed in a landmark 2005 study, even experts’ predictions are only slightly better than chance. However, an important and underreported conclusion of that study was that some experts do have real foresight, and Tetlock has spent the past decade trying to figure out why. What makes some people so good? And can this talent be taught?
+    - row:
+      headers: false
+      cols:
+        - col:
+          data:
+            list: false
+            fr: <a href="https://teamtopologies.com/" target="_blank">Topologies d’équipe</a>
+            en: <a href="https://teamtopologies.com/" target="_blank">Team Topologies</a>
+        - col:
+          data:
+            list: false
+            fr: Matthew Skelton & Manuel Pais
+            en: Matthew Skelton & Manuel Pais
+        - col:
+          data:
+            list: false
+            fr: 2019
+            en: 2019
+        - col:
+          data:
+            list: false
+            fr: <a href="https://itrevolution.com/devops-books/" target="_blank">IT Revolution</a>
+            en: <a href="https://itrevolution.com/devops-books/" target="_blank">IT Revolution</a>
+        - col:
+          data:
+            list: false
+            fr: Anglais
+            en: English
+        - col:
+          data:
+            list: false
+            fr: |
+              Se concentre fortement sur la <a href="https://itrevolution.com/conways-law/" target="_blank">loi de Conway</a> (Anglais) et suggère comment les organisations peuvent mieux gérer les équipes au sein des organisations.
+            en: |
+              Focuses heavily on <a href="https://itrevolution.com/conways-law/" target="_blank">Conway’s Law</a> and suggests how organizations can better manage teams within organizations.
