@@ -1,11 +1,11 @@
 ---
 layout: default
-title: GC Developers Exchange
-ref: GCDevEx
+title: Micro-procurement pilot
+ref: Micro-procurement
 lang: en
 status: posted
 sections: Work In Progress
-permalink: /GCDevelopers-Exchange.html
+permalink: /Micro-procurement.html
 ---
 
 The GC Developers Exchange (GCDevEx) was originally launched in 2017.
@@ -17,30 +17,28 @@ The initiative was originally inspired by the BC Developers Exchange, which as e
 
 For more info, see the [GitHub repository](https://github.com/canada-ca/devex) and this [Canadian Government Executive article](https://canadiangovernmentexecutive.ca/dig/24_03/28/).
 
-The IT Strategy team at ESDC is currently looking at the possibility of relaunching GCDevEx (or something like it) as part of a broader IT sourcing strategy.
+The IT Strategy team at ESDC is currently looking at the possibility of launching a similar micro-procurement pilot as part of a broader IT sourcing strategy.
 Our investigations have included the following so far:
 
 ## Talking to Procurement experts
 
 One of the challenges with iteration 1.0 of GCDevEx was that the backend procurement processes did not change.
- For iteration 2.0 we would want to see streamlined procurement process with more automation and less time between describing the need and getting the work done.
+ For the ESDC micro-procurement pilot we would want to see streamlined procurement process with more automation and less time between describing the need and getting the work done.
 To that end, we have been connecting with procurement subject matter experts at ESDC, PSPC and the Canadian Digital Service.
 We have developed a [deck](https://docs.google.com/presentation/d/1guX117_Cl6vGrfGb8E8En5gLLzjJDLFBxnJR1whDb-w/edit?usp=sharing) to provide some background prior to these conversations.
- These discussions are helping us to frame our [problem statement](https://docs.google.com/document/d/1dpsXvXY_iHsgJAAPQzrX8gOhm5ttC_JCCGZKvWRWQZk/edit) to understand whether GCDevEx is the right solution to help with procurement innovation in IT.
+ These discussions are helping us to frame our [problem statement](https://docs.google.com/document/d/1dpsXvXY_iHsgJAAPQzrX8gOhm5ttC_JCCGZKvWRWQZk/edit) to understand whether a micro-procurement initiative is the right solution to help with procurement innovation in IT.
 
 ## Capturing use cases
 
 Do you have a need for rapid procurement? Do you have work packages you could put out for procurement that could be done for $10K or less? We are meeting with folks to ask these questions.
 If you are interested in sharing your thoughts (even if you wouldn't use it and you want to tell us why), then get in touch!  We can be reached by [email](mailto:EDSC.DGIIT.StrategieTI-ITStrategy.IITB.ESDC@hrsdc-rhdcc.gc.ca).
-For some examples of [GCDevEx use cases](https://github.com/canada-ca/devex/issues?q=is%3Aissue+is%3Aopen+%2410K+project+idea), check out the ones Mike Gifford documented back in 2018 and recently updated them to identify those that are still needed.
+For some examples of [Micro-procurement use cases](https://github.com/canada-ca/devex/issues?q=is%3Aissue+is%3Aopen+%2410K+project+idea), check out the ones Mike Gifford documented back in 2018 and recently updated them to identify those that are still needed.
 
 ## Thinking about the technical aspects
 
-Since GCDevEx was last online, the BCDevExchange has had many changes (the GCDevEx repo is over 2000 commits behind the BC Developers Exchange repo).
-Questions we are asking:
-Does the GCDevEx site meet our current requirements?
-Given that the BC Developers Exchange repo is no longer being maintained should GCDevEx still be based on this code?
-While working through these questions we stood up a working dev version of the BC Developers Exchange for testing.
+Since GCDevEx was last online, the BCDevExchange has become the [BC Digital Marketplace](https://digital.gov.bc.ca/marketplace). The code for this marketplace is openly available on the digital marketplace repository on GitHub.
+
+We are currently investigating at a high level, whether ESDC should fork the BC Digital Marketplace code and also what the solution architecture could look like if ESDC were to launch a micro-procurement initiative.
 
 ## Documenting what would be needed to operationalize
 
@@ -64,5 +62,7 @@ For more info: description of their [micro-purchasing experiment](https://18f.gs
 - Many folks are currently unemployed or underemployed (including students) due to COVID
 - Virtual work allows maintaining of physical distancing and positions folks to work asynchronously (e.g., around child care)
 - The work ties into the IT Strategy team's mandate to find and solve problems!
-- GCDevEx could help with the adoption of open source software
-- GCDevEx could be especially useful for those working in an agile or iterative way
+- Micro-procurement could help with the adoption of open source software
+- Micro-procurement could be especially useful for those working in an agile or iterative way
+
+For more, see our blog post on [micro-procurement for digital work](https://sara-sabr.github.io/ITStrategy/2020/08/12/better-tech-through-microprocurement-p1.html) and this presentation on the [proposed micro-procurement initiative](https://sara-sabr.github.io/ITStrategy/presentation.html?markdown=en/2020-GCDevEx-DG-Comm.md) at ESDC.
