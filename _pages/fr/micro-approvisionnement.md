@@ -41,7 +41,8 @@ Pour quelques exemples de [cas d'utilisation de micro-approvisionnement (anglais
 
 ### Penser aux aspects techniques
 
-Depuis la dernière mise en ligne de CarrefourProgGC, BCDevExchange est devenu le [BC Digital Marketplace (anglais)](https://digital.gov.bc.ca/marketplace)  Le code de ce marché est ouvertement disponible sur le [Digital Marketplace dépôt (anglais)](https://github.com/bcgov/digital_marketplace) sur GitHub.
+Depuis la dernière mise en ligne de CarrefourProgGC, BCDevExchange est devenu le [BC Digital Marketplace (anglais)](https://digital.gov.bc.ca/marketplace).
+Le code de ce marché est ouvertement disponible sur le [Digital Marketplace dépôt (anglais)](https://github.com/bcgov/digital_marketplace) sur GitHub.
 
 Nous recherchons actuellement à un niveau élevé si EDSC devrait utiliser le code du BC Digital Marketplace et à quoi pourrait ressembler l'architecture de la solution si EDSC devait lancer une initiative de micro-approvisionnement
 
@@ -67,7 +68,7 @@ Pour plus d'informations : description de leur [expérimentation de micro-achat 
 - De nombreuses personnes sont actuellement au chômage ou sous-employées (y compris des étudiants) en raison de COVID
 - Le travail virtuel permet de maintenir une distance physique et de travailler de manière asynchrone (p. ex., tout en s'occupant d'enfants à la maison)
 - Ce travail est lié au mandat de l'équipe de Stratégie TI de trouver et résoudre des problèmes!
-- Micro-approvisionnement pourrait aider à l'adoption de logiciels libres
-- Micro-approvisionnement pourrait être particulièrement utile à ceux qui travaillent de manière agile ou itérative
+- Le micro-approvisionnement pourrait aider à l'adoption de logiciels libres
+- Le micro-approvisionnement pourrait être particulièrement utile à ceux qui travaillent de manière agile ou itérative
 
 Pour en savoir plus, consultez notre article de blog [Meilleure technologie grâce au micro-approvisionnement](https://sara-sabr.github.io/ITStrategy/2020/08/12/meilleure-technologie-grace-au-micro-approvisionnement-partie-1.html) et cette présentation sur le pilote micro-approvisionnement à EDSC

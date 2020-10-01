@@ -5,7 +5,7 @@ ref: Micro-procurement
 lang: en
 status: posted
 sections: Work In Progress
-permalink: /Micro-procurement.html
+permalink: /micro-procurement.html
 ---
 
 The IT Strategy team at ESDC is currently looking at the possibility of launching a  micro-procurement pilot as part of a broader IT sourcing strategy.
@@ -41,7 +41,8 @@ For some examples of [Micro-procurement use cases](https://github.com/canada-ca/
 
 ### Thinking about the technical aspects
 
-Since GCDevEx was last online, the BCDevExchange has become the [BC Digital Marketplace](https://digital.gov.bc.ca/marketplace). The code for this marketplace is openly available on the [Digital Marketplace repository](https://github.com/bcgov/digital_marketplace) on GitHub.
+Since GCDevEx was last online, the BCDevExchange has become the [BC Digital Marketplace](https://digital.gov.bc.ca/marketplace).
+The code for this marketplace is openly available on the [Digital Marketplace repository](https://github.com/bcgov/digital_marketplace) on GitHub.
 
 We are currently investigating at a high level, whether ESDC should fork the BC Digital Marketplace code and also what the solution architecture could look like if ESDC were to launch a micro-procurement initiative.
 
