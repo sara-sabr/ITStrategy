@@ -2974,9 +2974,9 @@
           data:
             list: false
             fr: |
-              Explique pourquoi le modèle de projet est dépassé et suggère le <a href="https://flowframework.org/" target="">Flow Framework</a> (Anglais) pour passer à un modèle de livraison basé sur le produit
+              Explique pourquoi le modèle de projet est dépassé et suggère le <a href="https://flowframework.org/" target="_blank">Flow Framework</a> (Anglais) pour passer à un modèle de livraison basé sur le produit
             en: |
-              Explains why the project model is dated and suggests the <a href="https://flowframework.org/" target="">Flow Framework</a> to transition to a product based delivery model
+              Explains why the project model is dated and suggests the <a href="https://flowframework.org/" target="_blank">Flow Framework</a> to transition to a product based delivery model
     - row:
       headers: false
       cols:
