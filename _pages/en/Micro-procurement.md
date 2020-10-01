@@ -70,4 +70,4 @@ For more info: description of their [micro-purchasing experiment](https://18f.gs
 - Micro-procurement could help with the adoption of open source software
 - Micro-procurement could be especially useful for those working in an agile or iterative way
 
-For more, see our blog post on [micro-procurement for digital work](https://sara-sabr.github.io/ITStrategy/2020/08/12/better-tech-through-microprocurement-p1.html) and this presentation on the [proposed micro-procurement initiative](https://sara-sabr.github.io/ITStrategy/presentation.html?markdown=en/2020-GCDevEx-DG-Comm.md) at ESDC.
+For more, see our blog post [Better tech through micro-procurement](https://sara-sabr.github.io/ITStrategy/2020/08/12/better-tech-through-microprocurement-p1.html) and this presentation on the [proposed micro-procurement pilot](https://sara-sabr.github.io/ITStrategy/presentation.html?markdown=en/2020-GCDevEx-DG-Comm.md) at ESDC.
