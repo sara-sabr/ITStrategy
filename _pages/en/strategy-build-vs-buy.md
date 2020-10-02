@@ -107,8 +107,8 @@ Stakeholders are expected to still comply with existing policy instruments inclu
 
 1. IT Solutions are broken down into manageable parts (IT Products) in line with the [GoC Business Capability Model](https://gcconnex.gc.ca/file/group/21723432/al#3l3319941)
 2. IT Solutions are assessed against the IT Solutions Risk Assessment Framework (to be created - see [Coherent set of actions](#coherent-set-of-actions) and read [Managing the Risks of Acquiring of Software](#managing-the-risks-of-acquiring-of-software)).
-3. IT Product / IT Solution maintenance and support may be done in-house or outsourced to a 3rd party vendor
-   - Outsourced maintenance and support may be given to a 3rd party different than the one providing the software licence.
+3. IT Product / IT Solution maintenance and support may be done in-house or outsourced to a third-party vendor
+   - Outsourced maintenance and support may be given to a third party different than the one providing the software licence.
 
 ### Finance
 
@@ -136,7 +136,7 @@ This Strategy's success will be measured by comparing the following metrics agai
 
 - Adoption/Building
   - Increase adoption of open source software components
-  - Increase contributions to third party OSS projects
+  - Increase contributions to third-party OSS projects
   - Decrease number of forked versions of OSS unaligned with upstream or without contributions of changes
   - Increase number of internal projects released as OSS
   - Increase external contributions to ESDC OSS projects
@@ -167,25 +167,32 @@ The model below explains, in a visual manner, these relationships.
 Description of the model:
 
 - An IT Solution is comprised of 1 or many IT component(s)
-- An IT component is comprised of 1 or many Software which can be either an open source software, a service subscription, a 3rd party COTS or a custom built one.
+- An IT component is comprised of 1 or many Software which can be either an open source software, a service subscription, a third-party COTS or a custom built one.
 - A Software is deployed on an infrastructure that can either be on premise (SSC Data Centres), on a public cloud provider's infrastructure (as a IaaS, PaaS, or SaaS model) or as a hybrid version that combines both on premise and public cloud provider.
 
 As such, the questions to ask are more akin to:
 
 - “What software component(s) are required to enable a given capability?”;
 - “For each of those component(s), is the best course of action adopting an open source component, purchasing the rights to use a commercial product or service, or building it internally?”; and
-- “How much organizational risk is the organization willing to delegate to a 3rd party for a product or service (e.g., when the product/service roadmap is not under the organization's control?)”.
+- “How much organizational risk is the organization willing to delegate to a third party for a product or service (e.g., when the product/service roadmap is not under the organization's control?)”.
 
 In large and complex solutions, these questions shouldn't only be asked at the solution level but also for each component of said solution, taking into account multiple factors and criteria that will be explored below.
 
 Even when an IT Solution is said to be bought, it is never a plug-and-play situation, whether it consists of COTS or SaaS.
 The organization's IT teams need to acquire, configure and adapt the purchased IT Products to fit with the rest of the organization's IT infrastructure, services, and rules.
 
-Maintenance of IT Solutions should thus be considered separately from the acquired solution as it may require work from internal staff as well as the involvement of 3rd party personnel, whether it is a vendor or a community in the case of an open source software.
+Maintenance of IT Solutions should thus be considered separately from the acquired solution as it may require work from internal staff as well as the involvement of third-party personnel, whether it is a vendor or a community in the case of an open source software.
 
-#### Additional considerations<!-- omit in toc -->
+### Contextual Factors<!-- omit in toc -->
+
+It is important to consider various contextual factors when making decisions, e.g.:
 
 - Does the organization have the **skill set** and **capacity** to architect, design, build and operate this solution?
+- For a given option, what will be the required **profiles** of resources?
+E.g., building internally will need strong capacity in development and project management, while buying is more dependent on procurement, legal and vendor management.
+One of option over the other does not necessarily equate to a grow or reduction in staff, sometimes it simply means an exchange in internal skills.
+- How can the decision aligns with the organization's **business strategies**?
+E.g., is the direction to further grow internal capacity or outsource some new initiatives to third party integrators? Is lead time for delivery of the solution an important factor?
 
 However, this does not mean that the questions of the precedent section should not be asked subsequently.
 It is possible that the organization does not possess the staff with the required skill set or sufficient capacity to deliver internally the IT Solution at a specific point in time.
@@ -196,7 +203,13 @@ And, any solution designed, developed, and delivered by a third party should sti
 
 As such, if the organization is not in a position to design, build and operate the solution itself, the third party putting the solution together for the benefit of ESDC should have clear directives to align with our own architectural principles.
 
-#### Managing the Risks related to Acquiring Software<!-- omit in toc -->
+### Additional Considerations<!-- omit in toc -->
+
+- How much control is preferred over the **frequency of upgrades** or **technology obsolecence** of an option?
+- Do the components of a given option adhere to the organization's **technology standards**?
+- What level of **maturity** is sought for a given component?
+
+### Managing the Risks related to Acquiring Software<!-- omit in toc -->
 
 The Strategy looks at managing the risks related to acquiring software over following dogmatic rules to purchase or build software (e.g. "SaaS first" does not mean SaaS always, "Buy what we can" does not mean buying because it's available).
 Instead, the Strategy will use such policy instruments as intended by the policy author and its authority to inform decisions for long-term sustainability and user needs.
@@ -240,6 +253,12 @@ The following diagram helps visualize how this risk level varies according with 
 Software options in this niche market are scarce due to the unique mandate of ESDC and even if there were commercial offerings, the commoditized nature of these solutions means that ESDC has limited influence on the upstream version of the software, thus increasing the risks to the organization by locking itself with a unique solution and vendor.
 Change probability is high as those capabilities change as much as regulation changes.
 The impact of such changes has a ripple effect on the whole organization and affects ESDC’s reputation to keep up with citizen demands while maintaining its fiduciary responsibility.
+
+As well, other types of risks should be taken into account, e.g. related to:
+
+- **Implementation** – Unexpected delays, technology immaturity, user resistance to adopt the new system
+- **Intellectual Property** – Compliance with licencing requirements
+- **Third Party Viability** – Third party going out of business, or changing direction subsequent to a new ownership
 
 ### Conclusion<!-- omit in toc -->
 
