@@ -44,18 +44,18 @@ permalink: /strategy-build-vs-buy.html
 
 ### Purpose
 
-To provide the Innovation, Information, and Technology Branch (IITB) with an overarching strategy in the application of the [Government of Canada (GoC) Mandatory Procedures for Enterprise Architecture Assessments](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602) and the [Mandatory Procedures on Application Programming Interfaces](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604), in the context of obtaining new Information Technology (IT) Solutions and assessing enhancements to existing IT Solutions.
+To provide the Innovation, Information, and Technology Branch (IITB) with an overarching strategy in the application of the [Government of Canada (GoC) Mandatory Procedures for Enterprise Architecture Assessments](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602) and the [Mandatory Procedures on Application Programming Interfaces](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604), in the context of acquiring new Information Technology (IT) Solutions and assessing enhancements to existing IT Solutions.
 
 The strategy includes:
 
-1. A **guiding policy**, which serves to clarify the application of the GoC Mandatory Procedures for [Enterprise Architecture Assessments](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602) and [on Application Programming Interfaces](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604) when obtaining new or enhancing existing IT Solutions in Employment and Social Development Canada (ESDC).
-2. A **coherent set of actions** (an action plan), which serve to operationalize the application of the GoC Mandatory Procedures for [Enterprise Architecture Assessments](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602) and [on Application Programming Interfaces](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604) when obtaining new or enhancing existing IT Solutions in ESDC.
+1. A **guiding policy**, which serves to clarify the application of the GoC Mandatory Procedures for [Enterprise Architecture Assessments](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602) and [on Application Programming Interfaces](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604) when acquiring new or enhancing existing IT Solutions in Employment and Social Development Canada (ESDC).
+2. A **coherent set of actions** (an action plan), which serve to operationalize the application of the GoC Mandatory Procedures for [Enterprise Architecture Assessments](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602) and [on Application Programming Interfaces](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604) when acquiring new or enhancing existing IT Solutions in ESDC.
 
 The intent behind this strategy is to communicate a decision by the Chief Information Officer (CIO) (not yet approved) on a path forward (the Guiding Policy), and what investments are needed to operationalize that decision (the coherent set of actions).
 
 ### Targeted Stakeholders
 
-This **strategy document** is targeted to stakeholders involved in obtaining an IT Solution as an outcome of an initiative as defined in the Policy on Project and Programme Management (PPPM).
+This **strategy document** is targeted to stakeholders involved in acquiring an IT Solution as an outcome of an initiative as defined in the Policy on Project and Programme Management (PPPM).
 More specifically, stakeholders involved in architecting IT solutions, defining technology standards, developing, delivering, operationalizing and maintaining IT Solutions (such as Enterprise Architecture, Enterprise Operations, etc.) and guiding committees such as the Architecture Review Committee (ARC) and the Enterprise Architecture Review Board (EARB).
 This includes both IITB and non-IITB stakeholders such as, but not limited to, Business Functions, Strategic and Service Policy Branch (SSPB), Chief Data Officer (CDO), Integrity Service Branch (ISB), Internal Audit Services Branch (IASB), and Shared-Services Canada (SSC).
 The list of stakeholders are listed in the [Coherent set of actions](#coherent-set-of-actions) and are expected to participate in the execution stage of this strategy necessary to operationalize the Guiding Policy.
@@ -67,7 +67,7 @@ All ESDC personnel involved in the exploration of IT Solutions and in IT investm
 
 Moving to the digital age requires improving IT's responsiveness and promoting a shared accountability with ESDC stakeholders on the use of technology.
 
-Yet, the current principle when obtaining IT Solutions is to "Buy what we can, Build what we must."
+Yet, the current principle when acquiring IT Solutions is to "Buy what we can, Build what we must."
 The assumed reasoning behind this overarching principle is that by purchasing an IT Solution from a third party, risks and responsibilities of its operations are handled by a company who has more resources and technical expertise to produce and maintain software.
 
 This principle unfortunately is leading to an oversimplified approach that doesn't take into account that, as a government department, ESDC is subject to multiple and fast-paced changes, whether at the [legal, political, organizational or technological levels](https://www.canada.ca/en/employment-social-development/corporate/reports/departmental-plan/2020-2021.html#h2.2-3.2), that impacts its ability to deliver on its mandate.
@@ -77,13 +77,13 @@ This strategy proposes moving ESDC to the point where all stakeholders understan
 
 This strategy complements existing IT initiatives (such as the [IITB Way Forward](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx)) as well as supports them with new activities (see [Coherent set of actions](#coherent-set-of-actions)).
 
-This strategy's goal is to clarify the application of the GoC Mandatory Procedures for [Enterprise Architecture Assessments](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602) and [on Application Programming Interfaces](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604) when obtaining IT Solutions within ESDC IITB context, and provide a roadmap in getting to the adoption of this framework.
+This strategy's goal is to clarify the application of the GoC Mandatory Procedures for [Enterprise Architecture Assessments](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602) and [on Application Programming Interfaces](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604) when acquiring IT Solutions within ESDC IITB context, and provide a roadmap in getting to the adoption of this framework.
 
 More details in [Appendix A](#appendix-a---business-case-diagnostic).
 
 ## Guiding Policy
 
-The following policy reflects the decision adopted by the **CIO of ESDC** (approval by CIO not yet obtained) when assessing the most appropriate way of obtaining an IT solution, whether by adopting, buying or building it.
+The following policy reflects the decision adopted by the **CIO of ESDC** (approval by CIO not yet obtained) when assessing the most appropriate way of acquiring an IT solution, whether by adopting, buying or building it.
 Each policy statement is a declaration of that decision and has received the endorsement of its associated area of governance body (endorsements not yet obtained, see [Coherent set of actions](#coherent-set-of-actions)).
 
 This policy becomes active when an ESDC initiative requires that an IT Solution be obtained, whether delivered by ESDC or by a third-party provider.
@@ -106,7 +106,7 @@ Stakeholders are expected to still comply with existing policy instruments inclu
 ### Governance, Compliance, and Reporting
 
 1. IT Solutions are broken down into manageable parts (IT Products) in line with the [GoC Business Capability Model](https://gcconnex.gc.ca/file/group/21723432/al#3l3319941)
-2. IT Solutions are assessed against the IT Solutions Risk Assessment Framework (to be created - see [Coherent set of actions](#coherent-set-of-actions) and read [Managing the Risks of Obtaining of Software](#managing-the-risks-of-obtaining-of-software)).
+2. IT Solutions are assessed against the IT Solutions Risk Assessment Framework (to be created - see [Coherent set of actions](#coherent-set-of-actions) and read [Managing the Risks of Acquiring of Software](#managing-the-risks-of-acquiring-of-software)).
 3. IT Product / IT Solution maintenance and support may be done in-house or outsourced to a 3rd party vendor
    - Outsourced maintenance and support may be given to a 3rd party different than the one providing the software licence.
 
@@ -196,12 +196,12 @@ And, any solution designed, developed, and delivered by a third party should sti
 
 As such, if the organization is not in a position to design, build and operate the solution itself, the third party putting the solution together for the benefit of ESDC should have clear directives to align with our own architectural principles.
 
-#### Managing the Risks related to Obtaining Software<!-- omit in toc -->
+#### Managing the Risks related to Acquiring Software<!-- omit in toc -->
 
-The Strategy looks at managing the risks related to obtaining software over following dogmatic rules to purchase or build software (e.g. "SaaS first" does not mean SaaS always, "Buy what we can" does not mean buying because it's available).
+The Strategy looks at managing the risks related to acquiring software over following dogmatic rules to purchase or build software (e.g. "SaaS first" does not mean SaaS always, "Buy what we can" does not mean buying because it's available).
 Instead, the Strategy will use such policy instruments as intended by the policy author and its authority to inform decisions for long-term sustainability and user needs.
 
-The risk management for obtaining software is based on the following formula:
+The risk management for acquiring software is based on the following formula:
 
 >Risk = Probability of change * impact
 >
@@ -225,7 +225,7 @@ In other words, the less static the needs are then the higher the chances are th
 Large IT projects are often subject to changes in requirements, such as changes in legislation and unknown requirements at the onset of the project.
 In addition to the complexity of the systems themselves, this means that large projects present higher risk to the organization not being able to deliver on its mandate.
 
-Based on the risk level, ESDC will adjust its decisions around obtaining software and services (build, buy, or adopt) as well as how the maintenance of those IT Solutions are handled.
+Based on the risk level, ESDC will adjust its decisions around acquiring software and services (build, buy, or adopt) as well as how the maintenance of those IT Solutions are handled.
 
 Risk levels are heavily influenced by the capability being enabled by software.
 The following diagram helps visualize how this risk level varies according with the type of capabilities:
