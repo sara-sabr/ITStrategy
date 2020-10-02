@@ -48,8 +48,8 @@ To provide the Innovation, Information, and Technology Branch (IITB) with an ove
 
 The strategy includes:
 
-1. A **guiding policy**, which serves to clarify the application of the GoC Mandatory Procedures for [Enterprise Architecture Assessments](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602) and [on Application Programming Interfaces](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604) when acquiring new or enhancing existing IT Solutions in Employment and Social Development Canada (ESDC).
-2. A **coherent set of actions** (an action plan), which serve to operationalize the application of the GoC Mandatory Procedures for [Enterprise Architecture Assessments](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602) and [on Application Programming Interfaces](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604) when acquiring new or enhancing existing IT Solutions in ESDC.
+1. A **guiding policy**, which serves to clarify the application of the GoC Mandatory Procedures for [Enterprise Architecture Assessments](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602) and on [Application Programming Interfaces](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604) when acquiring new or enhancing existing IT Solutions in Employment and Social Development Canada (ESDC).
+2. A **coherent set of actions** (an action plan), which serve to operationalize the application of the GoC Mandatory Procedures for [Enterprise Architecture Assessments](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602) and on [Application Programming Interfaces](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604) when acquiring new or enhancing existing IT Solutions in ESDC.
 
 The intent behind this strategy is to communicate a decision by the Chief Information Officer (CIO) (not yet approved) on a path forward (the Guiding Policy), and what investments are needed to operationalize that decision (the coherent set of actions).
 
@@ -77,7 +77,7 @@ This strategy proposes moving ESDC to the point where all stakeholders understan
 
 This strategy complements existing IT initiatives (such as the [IITB Way Forward](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx)) as well as supports them with new activities (see [Coherent set of actions](#coherent-set-of-actions)).
 
-This strategy's goal is to clarify the application of the GoC Mandatory Procedures for [Enterprise Architecture Assessments](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602) and [on Application Programming Interfaces](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604) when acquiring IT Solutions within ESDC IITB context, and provide a roadmap in getting to the adoption of this framework.
+This strategy's goal is to clarify the application of the GoC Mandatory Procedures for [Enterprise Architecture Assessments](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602) and on [Application Programming Interfaces](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604) when acquiring IT Solutions within ESDC IITB context, and provide a roadmap in getting to the adoption of this framework.
 
 More details in [Appendix A](#appendix-a---business-case-diagnostic).
 
@@ -132,7 +132,7 @@ Stakeholders are expected to still comply with existing policy instruments inclu
 
 ## Measuring the Strategy's success
 
-This Strategy's success will be measured by comparing the following metrics against the key elements of the GoC Mandatory Procedures for [Enterprise Architecture Assessments](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602) and [on Application Programming Interfaces](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604).
+This Strategy's success will be measured by comparing the following metrics against the key elements of the GoC Mandatory Procedures for [Enterprise Architecture Assessments](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602) and on [Application Programming Interfaces](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604).
 
 - Adoption/Building
   - Increase adoption of open source software components
@@ -156,7 +156,7 @@ This Strategy's success will be measured by comparing the following metrics agai
 
 The creation of this strategy document stems from a request to help IITB decide whether it should prioritize buying an IT Solution over building one.
 
-Looking for a default answer and approach to the question "Should an IT Solution be built or bought?" at the organizational level is a mental shortcut that bypasses GoC Mandatory Procedures for [Enterprise Architecture Assessments](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602) and [on Application Programming Interfaces](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604) as well as the concepts of solution architecture, where the relevant experts of the organization, both from business lines, finance, security, information technology, etc., work together to design a solution while leveraging various resources, including people, tools, processes, and rules.
+Looking for a default answer and approach to the question "Should an IT Solution be built or bought?" at the organizational level is a mental shortcut that bypasses GoC Mandatory Procedures for [Enterprise Architecture Assessments](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602) and on [Application Programming Interfaces](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604) as well as the concepts of solution architecture, where the relevant experts of the organization, both from business lines, finance, security, information technology, etc., work together to design a solution while leveraging various resources, including people, tools, processes, and rules.
 
 An IT solution is by default built, whether by a single person, multiple teams or by a third party, and it will most often consist in an assemblage of many components, known as IT Products in this document.
 
