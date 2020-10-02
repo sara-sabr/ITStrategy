@@ -45,7 +45,7 @@ Please refer to the actual strategy document for more detailed information.
 
 ### Use Cases
 
-Most of the time, obtaining an IT solution is not only adopting, buying, or building something.
+Most of the time, acquiring an IT solution is not only adopting, buying, or building something.
 It's often some permutation of the 3.
 The following use cases show that some solutions can be classified in different locations of the diagram depending on how they are implemented and by who.
 

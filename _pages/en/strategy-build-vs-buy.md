@@ -86,7 +86,7 @@ More details in [Appendix A](#appendix-a---business-case-diagnostic).
 The following policy reflects the decision adopted by the **CIO of ESDC** (approval by CIO not yet obtained) when assessing the most appropriate way of acquiring an IT solution, whether by adopting, buying or building it.
 Each policy statement is a declaration of that decision and has received the endorsement of its associated area of governance body (endorsements not yet obtained, see [Coherent set of actions](#coherent-set-of-actions)).
 
-This policy becomes active when an ESDC initiative requires that an IT Solution be obtained, whether delivered by ESDC or by a third-party provider.
+This policy becomes active when an ESDC initiative requires that an IT Solution be acquired, whether delivered by ESDC or by a third-party provider.
 Once active, all teams involved in the project, and the IT products involved in the IT Solution, must comply with this guiding policy.
 
 This Guiding Policy has been prepared by taking into consideration alignment and compliance with existing policy instruments and does not replace them.
@@ -179,9 +179,9 @@ As such, the questions to ask are more akin to:
 In large and complex solutions, these questions shouldn't only be asked at the solution level but also for each component of said solution, taking into account multiple factors and criteria that will be explored below.
 
 Even when an IT Solution is said to be bought, it is never a plug-and-play situation, whether it consists of COTS or SaaS.
-The organization's IT teams need to obtain, configure and adapt the purchased IT Products to fit with the rest of the organization's IT infrastructure, services, and rules.
+The organization's IT teams need to acquire, configure and adapt the purchased IT Products to fit with the rest of the organization's IT infrastructure, services, and rules.
 
-Maintenance of IT Solutions should thus be considered separately from the obtained solution as it may require work from internal staff as well as the involvement of 3rd party personnel, whether it is a vendor or a community in the case of an open source software.
+Maintenance of IT Solutions should thus be considered separately from the acquired solution as it may require work from internal staff as well as the involvement of 3rd party personnel, whether it is a vendor or a community in the case of an open source software.
 
 #### Additional considerations<!-- omit in toc -->
 
@@ -325,7 +325,7 @@ The following traceability matrix is used to show alignment with various strateg
 ## Appendix D - Definitions
 
 IT Solution
-: An IT Solution is the combination of 1 or many IT Products, which are in turn comprised of 1 or many Software and/or Hardware, obtained through many possible ways: built internally, obtained as open source, provided by a company as an executable application under a proprietary licence, as a standalone device, or used as a service through a subscription model. (See the following standard IITB definition.)
+: An IT Solution is the combination of 1 or many IT Products, which are in turn comprised of 1 or many Software and/or Hardware, acquired through many possible ways: built internally, acquired as open source, provided by a company as an executable application under a proprietary licence, as a standalone device, or used as a service through a subscription model. (See the following standard IITB definition.)
 
 IT Product
 : The combination of software, infrastructure, and their configuration.
@@ -336,7 +336,7 @@ For the scope of this Strategy, Operating Systems are NOT defined as IT products
 Therefore should an IT Product depend on an Operating System to run in production, it is in compliance with this Guiding Policy.
 
 Adopt
-: A process by which the department obtains an IT Product that is made available and is in used at least once outside the organization.
+: A process by which the department acquires an IT Product that is made available and is in used at least once outside the organization.
 It may consist of Open Source Software, proprietary software, and XaaS, used as is, without code customization.
 (the inspiration for this definition is derived from the [US Department of Defence OSS FAQ](https://dodcio.defense.gov/Open-Source-Software-FAQ/#Q:_Is_open_source_software_commercial_software.3F_Is_it_COTS.3F) where they define OSS as COTS.)
 
