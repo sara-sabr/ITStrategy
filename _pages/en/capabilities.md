@@ -249,12 +249,38 @@ To learn more, read [DORA capability catalog](https://cloud.google.com/solutions
 - Following production release, my team is able to evaluate the results and fix bugs rapidly. [1-7]
 - Feedback received is simple, easy to understand and provides actionable information. [1-7]
 
-#### Recommendations
+#### Recommendations  
+DevOps Research and Assessment (DORA) research shows that teams achieve higher performance when they work in organizations which use the following pattern in order to maximize their chances of successfully solving customer problems:  
+- Gather customer feedback first, before defining any potential features.  
+- Validate that you're solving a real problem.  
+- Iterate on a solution that actually solves that problem (and nothing more).  
+- Ensure the solution results in a viable business (for example, the cost is less than the anticipated revenue).
+- Track key metrics to gauge success (for example, AARRR).  
+- Iterate through the above to improve those metrics.  
+Success requires you to not only deploy and release software quickly, but to address customer needs better, smarter, and faster. Increased engagement with customers and participation in product management processes contributes to stronger identification with your organization's goals and values.  
+**Ways to improve customer feedback**
+The field of user experience design (UX) provides a framework for understanding improvement. Many organizations treat UX as just making a product UI look good. However, UX is about whether you're solving a real problem for users; more broadly, UX is about every experience a user has when they interact with your organization. It cannot be overemphasized how critical good UX is to building successful products and services.  
+It's essential to build customer feedback gathering into the delivery process. Every significant feature you build should start by considering the problem to be solved. This should include performing user research to determine possible solutions and select a candidate. User research should be analyzed before a single line of code is written.  
+For early-lifecycle products, teams should adopt the ideas put forward in the lean startup movement to validate the underlying business model of the product before any code is written. You should validate that you're solving a real problem, and then iterate on a solution that solves the problem while providing a viable business model.  
+You should follow a similar pattern for existing products that are implementing a new solution to a known business problem. When the solution design has been validated, you should create a prototype so that you can perform further research and testing. Only when testing validates that the feature achieves your goal should the full production feature be completed.
+Many organizations skip all of this work and fail. However, even strictly following these steps does not guarantee success. The point of this effort is to do as much as possible to minimize the risk of failure.  
 
-IF < High
+To learn more, read [DORA capability catalog](https://cloud.google.com/solutions/devops/devops-process-customer-feedback)  
 
-- https://cloud.google.com/solutions/devops/devops-process-customer-feedback
-- https://cloud.google.com/solutions/devops/devops-process-work-visibility-in-value-stream
+Visibility of work represents the extent to which teams have a good understanding of the flow of work from the business all the way through to customers, and whether they have visibility into this flow, including the status of products and features. Visibility of work is part of a wider group of capabilities that represent lean product management; these capabilities include working in small batches, team experimentation, and visibility into customer feedback.  Teams that are proficient at this capability have the following characteristics:
+- The team understands **how work moves** through the business from idea to customer, including products or features.
+- The team has visibility into the **flow of this work**.  
+- The flow of work, including its current state, is **shown on visual displays** or dashboards.  
+- **Information about the flow** of product development work across the whole value stream is readily available.  
+
+According to DevOps Research and Assessment (DORA) research to improve work visibility you should:  
+- **Provide tools for visualizing and recording workflow.** Start with making sure the team has visual management displays that show their work and its flow through the part of the value stream that is closest to them, including both the upstream and downstream parts of the process. Record how long it takes work to get through the process, and how often rework must be performed because the team didn't get it right the first time. This will uncover your early and best opportunities for improvement at the team level.  
+- **Create a value stream map.** Work with other teams to perform a value-stream mapping exercise to discover how work flows from idea to customer outcome, and report the VSM metrics (lead time, process time, %C/A) for each process block. Have the team prepare a future-state value stream map and work to implement it.  
+- **Share artifacts.** Make sure the artifacts from these exercises are available to everyone in the organization, and that they are updated at least annually.  
+
+To learn more, read [DORA capability catalog](https://cloud.google.com/solutions/devops/devops-process-work-visibility-in-value-stream)  
+
+
 - https://cloud.google.com/solutions/devops/devops-process-working-in-small-batches
 
 ### Section 8. DATA APPLICATION MONITORING
