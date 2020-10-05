@@ -219,7 +219,7 @@ To free your teams to find the best solutions, try some of these suggestions:
 - **Encourage teams to iterate on and continually improve solutions to foster experimentation.** Many times the first solution to a problem isn't the best. Improvements to one service or feature often yield improvements in others.  
 - **Allow developers and operators to talk to and observe customers.** This kind of interaction provides more context and information that teams can use to solve problems and develop new ideas.  
 
-To learn more, read [DORA capability catalog](https://cloud.google.com/solutions/devops/devops-process-team-experimentation)  
+Learn more about [Team experimentation...](https://cloud.google.com/solutions/devops/devops-process-team-experimentation)  
 
 Heavyweight approaches tend to slow down the delivery process leading to the release of larger batches less frequently, with an accompanying higher impact on the production system that is likely to be associated with higher levels of risk and thus higher change fail rates. To implement a change approval process DORA's research recommends for teams to:
 - Use peer review to meet the goal of segregation of duties, with reviews, comments, and approvals captured in the team's development platform as part of the development process.  
@@ -233,7 +233,7 @@ Your goal should be to make your regular change management process fast and reli
 - Looking at the change process end-to-end, identifying bottlenecks, and experimenting with ways to shift validations into the development platform.  
 - Implementing information security controls at the platform and infrastructure layer and in the development tool chain, rather than reviewing them manually as part of the software delivery process.  
 
-To learn more, read [DORA capability catalog](https://cloud.google.com/solutions/devops/devops-process-streamlining-change-approval) 
+Learn more about [Streamlining change approval...](https://cloud.google.com/solutions/devops/devops-process-streamlining-change-approval) 
 
 ### SECTION 7. CUSTOMER FEEDBACK AND WORK VISIBILITY
 
@@ -257,15 +257,14 @@ DevOps Research and Assessment (DORA) research shows that teams achieve higher p
 - Ensure the solution results in a viable business (for example, the cost is less than the anticipated revenue).
 - Track key metrics to gauge success (for example, AARRR).  
 - Iterate through the above to improve those metrics.  
+
 Success requires you to not only deploy and release software quickly, but to address customer needs better, smarter, and faster. Increased engagement with customers and participation in product management processes contributes to stronger identification with your organization's goals and values.  
-**Ways to improve customer feedback**
-The field of user experience design (UX) provides a framework for understanding improvement. Many organizations treat UX as just making a product UI look good. However, UX is about whether you're solving a real problem for users; more broadly, UX is about every experience a user has when they interact with your organization. It cannot be overemphasized how critical good UX is to building successful products and services.  
-It's essential to build customer feedback gathering into the delivery process. Every significant feature you build should start by considering the problem to be solved. This should include performing user research to determine possible solutions and select a candidate. User research should be analyzed before a single line of code is written.  
-For early-lifecycle products, teams should adopt the ideas put forward in the lean startup movement to validate the underlying business model of the product before any code is written. You should validate that you're solving a real problem, and then iterate on a solution that solves the problem while providing a viable business model.  
-You should follow a similar pattern for existing products that are implementing a new solution to a known business problem. When the solution design has been validated, you should create a prototype so that you can perform further research and testing. Only when testing validates that the feature achieves your goal should the full production feature be completed.
+
+**Ways to improve customer feedback.**  
+The field of user experience design (UX) provides a framework for understanding improvement. Many organizations treat UX as just making a product UI look good. However, UX is about whether you're solving a real problem for users; more broadly, UX is about every experience a user has when they interact with your organization. It cannot be overemphasized how critical good UX is to building successful products and services. It's essential to build customer feedback gathering into the delivery process. Every significant feature you build should start by considering the problem to be solved. This should include performing user research to determine possible solutions and select a candidate. User research should be analyzed before a single line of code is written. For early-lifecycle products, teams should adopt the ideas put forward in the lean startup movement to validate the underlying business model of the product before any code is written. You should validate that you're solving a real problem, and then iterate on a solution that solves the problem while providing a viable business model. You should follow a similar pattern for existing products that are implementing a new solution to a known business problem. When the solution design has been validated, you should create a prototype so that you can perform further research and testing. Only when testing validates that the feature achieves your goal should the full production feature be completed.  
 Many organizations skip all of this work and fail. However, even strictly following these steps does not guarantee success. The point of this effort is to do as much as possible to minimize the risk of failure.  
 
-To learn more, read [DORA capability catalog](https://cloud.google.com/solutions/devops/devops-process-customer-feedback)  
+Learn more about [Customer feedback...](https://cloud.google.com/solutions/devops/devops-process-customer-feedback)  
 
 Visibility of work represents the extent to which teams have a good understanding of the flow of work from the business all the way through to customers, and whether they have visibility into this flow, including the status of products and features. Visibility of work is part of a wider group of capabilities that represent lean product management; these capabilities include working in small batches, team experimentation, and visibility into customer feedback.  Teams that are proficient at this capability have the following characteristics:
 - The team understands **how work moves** through the business from idea to customer, including products or features.
@@ -278,10 +277,25 @@ According to DevOps Research and Assessment (DORA) research to improve work visi
 - **Create a value stream map.** Work with other teams to perform a value-stream mapping exercise to discover how work flows from idea to customer outcome, and report the VSM metrics (lead time, process time, %C/A) for each process block. Have the team prepare a future-state value stream map and work to implement it.  
 - **Share artifacts.** Make sure the artifacts from these exercises are available to everyone in the organization, and that they are updated at least annually.  
 
-To learn more, read [DORA capability catalog](https://cloud.google.com/solutions/devops/devops-process-work-visibility-in-value-stream)  
+Learn more about [Visibility of work in the value stream...](https://cloud.google.com/solutions/devops/devops-process-work-visibility-in-value-stream)  
 
+Working in small batches is an essential principle in any discipline where feedback loops are important, or you want to learn quickly from your decisions. Working in small batches allows you to rapidly test hypotheses about whether a particular improvement is likely to have the effect you want, and if not, lets you course correct or revisit assumptions.  Working in small batches has many benefits:  
+- It reduces the time it takes to get feedback on changes, making it easier to triage and remediate problems.  
+- It increases efficiency and motivation.  
+- It prevents your organization from succumbing to the sunk-cost fallacy.  
 
-- https://cloud.google.com/solutions/devops/devops-process-working-in-small-batches
+When you plan new features, try to break them down into work units that can be completed independently and in short timeframes. We recommend that each feature or batch of work follow the agile concept of the INVEST principle:
+- **Independent.** Make batches of work as independent as possible from other batches, so that teams can work on them in any order, and deploy and validate them independent of other batches of work.  
+- **Negotiable.** Each batch of work is iterable and can be renegotiated as feedback is received.  
+Valuable. Discrete batches of work are usable and provide value to the stakeholders.  
+- **Estimable.** Enough information exists about the batches of work that you can easily estimate the scope.  
+- **Small.** During a sprint, you should be able to complete batches of work in small increments of time, meaning hours to a couple days.  
+- **Testable.** Each batch of work can be tested, monitored, and verified as working in the way users expect.  
+
+When features are of an appropriate size, you can split the development of the feature into even smaller batches. This process can be difficult and requires experience to develop. Ideally, your developers should be checking multiple small releasable changes into trunk at least once per day. The key is to start development at the service or API layer, not at the UI layer. In this way, you can make additions to the API that won't initially be available to users of the app, and check those changes into trunk. You can launch these changes to production without making them visible to users. This approach, called dark launching, allows developers to check in code for small batches that have been completed, but for features that are not yet fully complete. You can then run automated tests against these changes to prove that they behave in the expected way. This way, teams are still working quickly and developing off of trunk and not long-lived feature branches. You can also dark launch changes by using a feature toggle, which is a conditional statement based on configuration settings. For example, you can make UI elements visible or invisible, or you can enable or disable service logic. Feature-toggle configuration might be read either at deploy time or runtime. You can use these configuration settings to switch the behavior of new code further down the stack. You can also use similar technique known as branch by abstraction to make larger-scale changes to the system while continuing to develop and release off-trunk without the use of long-lived feature branches.  
+In this approach, batches of work aren't complete until they're deployed to production and the feedback process has begun to validate the changes. Feedback comes from many sources and in many forms, including users, system monitoring, quality assurance, and automated tests. Your goal is to optimize for speed so that you reduce the cycle time to get changes into the hands of users. This way, you can validate your hypothesis as quickly as possible.  
+
+Learn more about [Working in small batches...](https://cloud.google.com/solutions/devops/devops-process-working-in-small-batches)
 
 ### Section 8. DATA APPLICATION MONITORING
 
@@ -296,12 +310,34 @@ To learn more, read [DORA capability catalog](https://cloud.google.com/solutions
 - My team has a tooling to help to understand and debug systems in production [1-7]
 - My team has access to tools and data that help trace, understand, and diagnose infrastructure problems in production environment, including interactions between services [1-7]
 
-#### Recommendations
+#### Recommendations  
+Monitoring is the process of collecting, analyzing, and using information to track applications and infrastructure in order to guide business decisions. Monitoring is a key capability because it gives you insight into your systems and your work. Properly implemented, monitoring also gives you rapid feedback so that you can quickly find and fix problems early in the software development lifecycle. Monitoring also helps you communicate information about your systems to people in other areas of the software development and delivery pipeline, and to other parts of the business.  
+Based on DevOps Research and Assessment (DORA) research the following elements are key to effective monitoring:
+- Collecting data from key areas throughout the value chain, including application performance and infrastructure.  
+- Using the collected data to make business decisions.  
 
-IF < High
+To improve your monitoring effectiveness, we recommend that you focus your efforts on two main areas:
+- **Collecting data from key areas throughout the value chain.**  
+By analyzing the data that you collect and doing a gap analysis, you can help ensure that you collect the right data for your organization.
+- **Using the collected data to make business decisions.**   
+The data that you collect should drive value across the organization, and the metrics that you select must be meaningful to your organization. Meaningful data can be used by many teams, from DevOps to Finance. It's also important to find the right medium to display the monitoring information. Different uses for the information demand different presentation choices. Real-time dashboards might be most useful to the DevOps team, while regularly generated business reports might be useful for metrics measured over a longer period. The most important thing is to ensure the data is available, shared, and used to guide decisions. If the best you can do to kick things off is a shared spreadsheet, use that. Then graduate to fancy dashboards later. Don't let perfect be the enemy of good enough.  
 
-- https://cloud.google.com/solutions/devops/devops-measurement-monitoring-systems
-- https://cloud.google.com/solutions/devops/devops-measurement-monitoring-and-observability
+Learn more about [Monitoring systems to inform business decisions](https://cloud.google.com/solutions/devops/devops-measurement-monitoring-systems)  
+
+Good monitoring is a staple of high-performing teams. DevOps Research and Assessment (DORA) research shows that a comprehensive monitoring and observability solution, along with a number of other technical practices, positively contributes to continuous delivery. DORA's research defined these terms as follows:  
+**Monitoring** is tooling or a technical solution that allows teams to watch and understand the state of their systems. Monitoring is based on gathering predefined sets of metrics or logs.  
+**Observability** is tooling or a technical solution that allows teams to actively debug their system. Observability is based on exploring properties and patterns not defined in advance.  
+
+To do a good job with monitoring and observability, your teams should have the following:
+- Reporting on the overall health of systems (Are my systems functioning? Do my systems have sufficient resources available?).  
+- Reporting on system state as experienced by customers (Do my customers know if my system is down and have a bad experience?).  
+- Monitoring for key business and systems metrics.  
+- Tooling to help you understand and debug your systems in production.  
+- Tooling to find information about things you did not previously know (that is, you can identify unknown unknowns).  
+- Access to tools and data that help trace, understand, and diagnose infrastructure problems in your production environment, including interactions between services.  
+Here are a few keys to effective implementation of monitoring and observability. First, your monitoring should tell you what is broken and help you understand why, before too much damage is done. The key metric in the event of an outage or service degradation is time-to-restore (TTR). A key contributor to TTR is the ability to rapidly understand what broke and the quickest path to restoring service (which may not involve immediately remediating the underlying problems).  
+
+Learn more about [Monitoring and observability...](https://cloud.google.com/solutions/devops/devops-measurement-monitoring-and-observability)  
 
 ### Section 9. WORK IN PROCESS LIMITS AND VISUAL MANAGEMENT
 
@@ -315,12 +351,47 @@ IF < High
 - In my team visual displays are up to date and the information contributing to measurable improvement is towards a goal that the team cares about. [1-7]
 - When looking at visual management displays I see the key process metrics my team cares about. [1-7]
 
-#### Recommendations
+#### Recommendations  
 
-IF < High
+When faced with too much work and too few people to do it, rookie managers assign people to work on multiple tasks in the hope of increasing throughput. Unfortunately, the result is that tasks take longer to get done, and the team burns out in the process. Instead, you should do the following:  
+- Prioritize work.  
+- Limit how much people work on.  
+- Focus on completing a small number of high-priority tasks.  
 
-- https://cloud.google.com/solutions/devops/devops-measurement-wip-limits
-- https://cloud.google.com/solutions/devops/devops-measurement-visual-management
+**How to implement work in process limits:**  
+- **Use a storyboard.** In technology, our inventory is invisible. There's no shop floor with piles of work or assembly line where we can see the progression of work. A simple way to see inventory is to write all the work the team is doing on index cards and stick them on a board. In agile methods, this is called creating a storyboard.  
+- **Specify limits.** For each column on the board, specify the WIP limit, or how many cards can be in that column at one time. After the WIP limit is reached, no more cards can be added to the column, and the team must wait for a card to move to the next column before pulling the highest priority one from the previous column. Only by imposing WIP limits and following this pull-based process do you actually create a Kanban board.  
+- **Determine WIP limits by team capacity.** For example, if you have four pairs of developers, don't allow more than four cards in the "in development" column.  
+- **Stick to the limits.** WIP limits can result in teams sitting idle, waiting for other tasks to be completed. Don't increase WIP limits at this point. Instead, work to improve your processes to address the factors that are contributing to these delays. For example, if you're waiting for an environment to test your work, you might offer to help the team that prepares environments improve or streamline their process.  
+
+**Ways to improve work in process limits.**  
+- **Make your work visible.** As you do this, try to surface all of your work, making all of it visible, to several teams and stakeholders. (See visual displays for details).  
+- **Set WIP limits that match your team's capacity for work.**
+Account for activities like production support, meeting time and technical debt. Don't allow more WIP in any given part of the process than you have people to work on tasks. Don't require people to split their time between multiple tasks. When a particular piece of work is completed, move the card representing that work to the next column, and pull the highest priority piece of work waiting in the queue.
+- **Set up a weekly meeting for stakeholders to prioritize all work in order.** Let stakeholders know that if they don't attend, their work won't get done.  
+- **Work to increase flow.** Measure the lead time of work through the system. Record the date that work started on a card and the date work ended. From this information, you can create a running frequency histogram, which shows the number of days work takes to go through the system. This data will allow you to calculate the mean lead time, as well as variability, with the goal of having low variability: high variability means you are not scoping projects well or have significant constraints outside of your team. High variability also means your estimates and predictions about future work will not be as reliable.  
+- **Improve work processes.** Reduce hand-offs, simplify and automate tasks, and think about how to collaborate better to get work done. After you've removed some obstacles and things feel comfortable, reduce your WIP limits to reveal the next set of obstacles. The ideal is single-piece flow, which means that work flows from idea to customer with minimal wait time or rework. This ideal may not be achievable, but it acts as a "true north" to guide the way in a process of continuous improvement.  
+
+Learn more about [Work in process limits...](https://cloud.google.com/solutions/devops/devops-measurement-wip-limits)
+
+Visual management boards can create a shared understanding of where the team is in terms of its operational effectiveness. They can also help identify and remove obstacles in the path to higher performance.  
+**How to implement visual management.**  
+There are many kinds of visual displays and dashboards that are common in the context of software delivery:  
+- **Card walls, storyboards or Kanban boards,** either physical or virtual, with index cards that represent in-progress work items.  
+- **Dashboards or other visual indicators,** such as continuous integration systems with monitors or traffic lights to show whether the build is passing or failing. Effective visual displays are created, updated, and perhaps discarded by teams in response to issues that the team is currently interested in addressing.  
+- **Burn-up or burn-down charts** (for example, cumulative flow diagrams) showing the cumulative status of all work being done. These allow the team to project how long it will take to complete the current backlog.  
+- **Deployment pipeline monitors** showing what the latest deployable build is, and whether stages in the pipeline are failing, such as acceptance tests or performance tests.  
+- **Monitors showing production telemetry,** such as the number of requests being received, latency statistics, cumulative 404 and 500 errors, and which pages are most popular.  
+
+The goal of visual management tools is to provide fast, easy-to-understand feedback so you can build quality into the product. This feedback helps the team identify defects in the product and understand whether some part of the system is not performing effectively, which helps them address the problem. In order to be effective, such systems must do the following:
+- **Reflect information that the team cares about and will act on.** Having build monitors does no good if teams don't care whether the display shows an issue (for example, showing that the build status is red, meaning broken), and won't actually act on this information by swarming to fix the issue.  
+- **Be easy to understand.** It should be possible to tell at a glance from across the room whether something needs attention. If there is a problem, teams should know how to perform further diagnosis or fix the problem.  
+- **Give the team information that is relevant to their work.** While it's important to collect as much data as possible about the team's work, the display should present only data that is relevant to the team's goals. In the face of information overload, particularly information that cannot be acted upon, people ignore visual management displays; the displays just become noise. The additional data can be accessed and used by the team when they are swarming to fix the problem.  
+- **Be updated as part of daily work.** If the team lets the data go stale or become inaccurate, they will ignore the visual displays, and the displays will no longer be a useful beacon when important issues arise. If displays are currently displaying stale or inaccurate data, investigate the cause: is the data not related to the team's goals? What data would make the display an important and compelling information source for the team?  
+
+Teams shouldn't get caught up in aspects of visual displays that aren't critical. For example, visual management displays don't need to be electronic. Physical card walls or kanban boards can be easier to manage and understand, particularly if the team is all in one location. These displays can also help develop valuable team rituals such as physically standing in front of the board to pick up work and move it around. A whiteboard with some key project information that is updated daily by the team is often preferable to an electronic system that's hard to understand, difficult to update, or doesn't have necessary information.  
+
+Learn more about [Visual management capabilities...](https://cloud.google.com/solutions/devops/devops-measurement-visual-management)  
 
 ### Section 10. LEARNING AND GENERATIVE CULTURE
 
