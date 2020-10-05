@@ -202,12 +202,38 @@ IF < High
 - My team studies the change process end-to-end, identifying bottlenecks, and experimenting with ways to shift validations into the development platform. [1-7]
 - My team continuously improve business processes by identifying and eliminating waste. [1-7]
 
-#### Recommendations
+#### Recommendations  
+For your organization to fully benefit from modern software development techniques, you must empower your teams to experiment.  
+**How to implement team experimentation**  
+DevOps Research and Assessment (DORA) research identifies three key components to team experimentation that drive software delivery performance:
+- The ability to work on new ideas independently, without having to get permission from outside of the team.  
+- The ability to write and change specifications during development.  
+- The ability to make changes to stories and specifications without having to get permission from outside of the team.  
+Based on these abilities, the following practices can help improve your team experimentation:
+- **Empower teams.** Empower teams and allow them to work on new ideas in pursuit of business goals that solve important problems.  
+- **Provide information and context.** Providing teams with information and context lets teams make informed decisions about the right work to do. Measuring organizational outcomes provides information critical to making the best decisions, so teams are able to achieve expected outcomes and solve problems.  
+- **Leave the details to those doing the work.** Allow your teams to change stories, specifications, and technologies when they decide it's appropriate. Understand and acknowledge that they are the experts, and empower them to make the technical decisions necessary to get the work done. In the highest-performing teams and organizations, teams are allowed to make informed decisions about the tools and technologies they use.  
 
-IF < High
+To free your teams to find the best solutions, try some of these suggestions:
+- **Hold regular hackathons.** Hackathons are opportunities for the team to experiment and to work with and share ideas. They also have the added benefit of letting your team work with new technologies and tools.  
+- **Encourage teams to iterate on and continually improve solutions to foster experimentation.** Many times the first solution to a problem isn't the best. Improvements to one service or feature often yield improvements in others.  
+- **Allow developers and operators to talk to and observe customers.** This kind of interaction provides more context and information that teams can use to solve problems and develop new ideas.  
 
-- https://cloud.google.com/solutions/devops/devops-process-team-experimentation
-- https://cloud.google.com/solutions/devops/devops-process-streamlining-change-approval
+To learn more, read [DORA capability catalog](https://cloud.google.com/solutions/devops/devops-process-team-experimentation)  
+
+Heavyweight approaches tend to slow down the delivery process leading to the release of larger batches less frequently, with an accompanying higher impact on the production system that is likely to be associated with higher levels of risk and thus higher change fail rates. To implement a change approval process DORA's research recommends for teams to:
+- Use peer review to meet the goal of segregation of duties, with reviews, comments, and approvals captured in the team's development platform as part of the development process.  
+- Employ continuous testing, continuous integration, and comprehensive monitoring and observability to rapidly detect, prevent, and correct bad changes.  
+- Treat your development platform as a product that makes it easy for developers to get fast feedback on the impact of their changes on multiple axes, including security, performance, and stability, as well as defects.  
+
+Your goal should be to make your regular change management process fast and reliable enough that you can use it to make emergency changes too. To improve your change approval processes, focus on implementing the following:
+- Moving to a peer-review based process for individual changes, enforced at code check-in time, and supported by automated tests.  
+- Finding ways to discover problems such as regressions, performance problems, and security issues in an automated fashion as soon as possible after changes are committed.  
+- Performing ongoing analysis to detect and flag high risk changes early on so that they can be subjected to additional scrutiny.  
+- Looking at the change process end-to-end, identifying bottlenecks, and experimenting with ways to shift validations into the development platform.  
+- Implementing information security controls at the platform and infrastructure layer and in the development tool chain, rather than reviewing them manually as part of the software delivery process.  
+
+To learn more, read [DORA capability catalog](https://cloud.google.com/solutions/devops/devops-process-streamlining-change-approval) 
 
 ### SECTION 7. CUSTOMER FEEDBACK AND WORK VISIBILITY
 
