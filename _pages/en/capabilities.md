@@ -480,7 +480,19 @@ Learn more about [Learning culture...](https://cloud.google.com/solutions/devops
 
 #### Recommendations
 
-IF < High
+All organizations are complex, and every organization has different goals, a different starting point, and their own ways of approaching challenges. Prescriptions that work in one organization might not show the same results in another organization. However, your organization can follow some general principles in order to increase your chances of success.  
+*Improvement work is never done.* High-performing organizations are never satisfied with their performance and are always trying to get better at what they do. Improvement work is ongoing and baked into the daily work of teams. People in these organizations understand that failing to change is as risky as change, and they don't use "that's the way we've always done it" as a justification for resisting change. However that doesn't mean taking an undisciplined approach to change. Change management should be performed in a scientific way in pursuit of a measurable team or organizational goal.  
 
-- https://cloud.google.com/solutions/devops/devops-culture-transform
-- https://cloud.google.com/solutions/devops/devops-culture-transformational-leadership
+*Leaders and teams agree on and communicate measurable outcomes, and teams determine how to achieve them.* It's essential that everybody in the organization knows the measurable business and organizational outcomes that they are working towards. These outcomes should be short (a few sentences at most) at the organizational level, and match up clearly to the purpose and mission of the organization. At the level of an individual business unit, the outcomes should fit on a single page. The organizational outcomes should be decided by leaders and teams working together, although leaders have the ultimate authority. At lower levels of the organization, goals are stated in more detail and with shorter horizons.  
+
+However, it should be up to teams to decide how they go about achieving these outcomes, for these reasons:  
+- Under conditions of uncertainty, it's impossible to decide the best course of action through planning alone. That doesn't mean some level of planning isn't important. But teams should be prepared to alter or even rewrite the plan based on what they discover when trying to execute it.  
+- When people are told both what to do and how to do it, they lose their autonomy and a chance to harness their ingenuity. Not only does this produce worse outcomes, it also leads to disengaged employees.  
+- Problem-solving is critical in helping employees develop new skills and capabilities. Organizations should give teams problems to solve, not tasks to execute.   
+
+*Large-scale change is achieved iteratively and incrementally.* The annual budgeting cycle tends to drive organizations towards a project-based model in which work of all kinds is tied to expensive projects that take a long time to deliver. With few exceptions, it's better to break work down into smaller pieces that can be delivered incrementally. Working in small batches delivers a host of benefits. The most important is that it lets organizations correct course based on what they discover. This avoids wasting time and money doing work that doesn't deliver the expected benefits.  
+
+Moving from a project paradigm to the product paradigm is a long-term trend that will take most industries years to execute, but it's clear that this is the future. Even the US federal government has successfully experimented with modular contracting to pursue a more iterative, incremental approach to delivering large pieces of work.
+The issues that apply to delivering projects also apply to transformation. Organizations should find ways to achieve quick wins, share learning, and help other teams experiment with these new ideas.  
+
+Learn more about [Transformational leadership...](https://cloud.google.com/solutions/devops/devops-culture-transformational-leadership) and [How to transform...](https://cloud.google.com/solutions/devops/devops-culture-transform)  
