@@ -415,13 +415,49 @@ Learn more about [Visual management capabilities...](https://cloud.google.com/so
 - When employees in my team attend conferences, we have them share the new experience through presentations or trip reports. [1-7]
 - In my team we encourage people to get certifications or external trainings, and help them by covering costs of external trainings and forming study groups that are a part of normal work activity. [1-7]
 
-#### Recommendations
+#### Recommendations  
 
-IF < High
+Early analysis performed by DevOps Research and Assessment (DORA) found that job satisfaction is a predictor of organizational performance. Having engaged employees doing meaningful work drives business value. Everybody knows how job satisfaction feels. It's about doing work that's challenging and meaningful, and being empowered to exercise skills and judgment. Where there's job satisfaction, employees bring the best of themselves to work: their engagement, their creativity, and their strongest thinking. The result is more innovation in any area of the business, including technology.  
+*DORA research on job satisfaction recommends the following key actions:*  
+- **Give employees the tools and resources needed to do their work.** Employees must have the tools necessary to get their work done, and teams that can decide which tools they use do better at continuous delivery. Teams that can choose their own tools make these choices based on how they work, and on the tasks they need to perform. No one knows better than practitioners what they need to be effective, so it's not surprising that practitioner tool choice helps to drive better outcomes. Employees must also have the resources necessary to do their work. Those might be technical resources, such as access to servers or environments necessary to develop and test, or resources needed to learn and develop new skills, such as access to course materials and budget to attend trainings or technical conferences.  
+- **Give employees meaningful work that leverages their expertise.**  
+The importance of meaningful work can't be overstated. In some studies, employees have rated the importance of meaningful work just as highly as the importance of salary. Meaningful work makes a difference and is often very personal.  
 
-- https://cloud.google.com/solutions/devops/devops-culture-job-satisfaction
-- https://cloud.google.com/solutions/devops/devops-culture-westrum-organizational-culture
-- https://cloud.google.com/solutions/devops/devops-culture-learning-culture
+Learn more about [Job satisfaction...](https://cloud.google.com/solutions/devops/devops-culture-job-satisfaction)
+
+DORA research shows that changing the way people work changes culture; this is echoed in the work of John Shook, who spoke of his experiences in transforming culture: "The way to change culture is not to first change how people think, but instead to start by changing how people behave—what they do." This is seen in the technical, lean, and product management capabilities they have researched that influence culture. In addition, teams can identify helpful practices to create a generative culture that fosters information flow and trust by examining the six aspects of *Westrum's model of organizational culture, focusing on those behaviors seen in the generative culture:*  
+- High cooperation. 
+- Messengers are trained. 
+- Risks are shared. 
+- Bridging is encouraged. 
+- Failure leads to inquiry. 
+- Novelty is implemented.  
+
+*Based on these aspects, here are some practices you can implement to improve your culture:*  
+- **High cooperation.** Create cross-functional teams that include representatives from each functional area of the software delivery process (business analysts, developers, quality engineers, ops, security, and so on). This practice lets everyone share the responsibility for building, deploying, and maintaining a product. It's also important that there is good cooperation within the team.  
+- **Train the messengers.** This means we want people to bring us bad news so we can make things better. Hold blameless postmortems. By removing blame, you remove fear; and by removing fear, you enable teams to surface problems and solve them more effectively. Also create and foster an environment where it is safe to take smart risks and fail, so that anyone can surface problems at any time—even without the ceremony of a postmortem.  
+- **Share risks.** Along with this, encourage shared responsibilities. Quality, availability, reliability and security are everyone's job. One way to improve the quality of your services is to ensure that developers share responsibility for maintaining their code in production. The improvement in collaboration that comes from sharing responsibility inherently reduces risk: The more eyes on the software delivery process, the more you'll avoid errors in process or planning. Automation also reduces risk, and with the right tool choice, can enable collaboration.  
+- **Encourage bridging.** Break down silos. In addition to creating cross-functional teams, techniques for breaking down silos include co-locating ops with the dev team; including ops in planning throughout the software delivery lifecycle; and implementing ChatOps. Another tip is to identify someone in the organization whose work you don't understand (or whose work frustrates you, like procurement) and invite them to coffee or lunch. Informal discussions help foster better communication, and you may understand why they do what they do—and you can come up with creative solutions together.  
+- **Let failure lead to inquiry.** Again, hold blameless postmortems. The response to failure shapes the culture of an organization. Blaming individuals for failures creates a negative culture. If instead, failures lead you to ask questions about what caused the failures and how you can keep them from happening again in the future, you've improved your technical system, your processes, and your culture.  
+- **Implement novelty.** Encourage experimentation. Giving employees freedom to explore new ideas can lead to great outcomes. Some companies give engineers time each week for experimentation. Others host internal hack days or mini-conferences to share ideas and collaborate. Many new features and products began this way. When you release your employees from habitual pathways and repetitive tasks, they can generate enormous value for your organization. And remember that novelty isn't limited to new products and features. Also encourage and reward improvements in process and ideas that help foster collaboration.  
+
+Learn more about [Westrum organizational culture...](https://cloud.google.com/solutions/devops/devops-culture-westrum-organizational-culture)
+
+Research from the DevOps Research and Assessment (DORA) (PDF) team shows that you can help your organization create a climate for learning by viewing learning as the key to improvement and as an investment. Some steps you can take to directly support learning include:  
+- **Create a training budget, and advocate for it internally.** Emphasize how much the organization values a climate of learning by putting resources behind formal education opportunities.  
+- **Ensure that your team has the resources to engage in informal learning and the space to explore ideas.** Learning often happens outside of formal education. Some companies, like 3M and Google, set aside a portion of time for focused free-thinking and exploration of side projects.  
+- **Make it safe to fail.** If failure is punished, people won't try new things. Treat failures as opportunities to learn, and hold blameless post-mortems to work out how to improve processes and systems. Help people feel comfortable taking reasonable risks, and create a culture of innovation.  
+- **Create opportunities and spaces to share information.** Whether you hold weekly lightning talks or offer resources for monthly lunch-and-learns, set up a regular cadence of opportunities for employees to share their knowledge.  
+- **Make resources available for continued education.** For example, attending conferences is important for both exposure to new technology and case studies, as well as networking with peers.  
+
+*Ways to improve your learning culture.*  
+Continuing to build a climate for learning is directly related to how an organization encourages and invests in learning. Here are some ways an organization can show that learning is important and necessary for growth:  
+- **Have regular lunchtime meetings ("brownbags") where one person presents about a project they are working on in a new tech, or something they are investigating.** Rotate the presentations among team members and reward people for presenting.  
+- **When people attend conferences, have them share the new ideas through presentations or trip reports.** You can even host regular meetups or mini-conferences to increase networking and exposure to new technologies and ideas.  
+- **Encourage people to get certifications or external trainings.** You can help with this by covering costs of external trainings and forming study groups that are a part of normal work activity.  
+
+Learn more about [Learning culture...](https://cloud.google.com/solutions/devops/devops-culture-learning-culture)  
+
 
 ### Section 11. TRANSFORMATION AND TRANSFORMATIONAL LEADERSHIP
 
