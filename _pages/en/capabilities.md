@@ -205,12 +205,12 @@ IF < High
 #### Recommendations  
 
 For your organization to fully benefit from modern software development techniques, you must empower your teams to experiment.  
-**How to implement team experimentation**  
+
+**How to implement team experimentation.**  
 
 DevOps Research and Assessment (DORA) research identifies three key components to team experimentation that drive software delivery performance:  
 
 - The ability to work on new ideas independently, without having to get permission from outside of the team.  
-
 - The ability to write and change specifications during development.  
 - The ability to make changes to stories and specifications without having to get permission from outside of the team.  
 Based on these abilities, the following practices can help improve your team experimentation:
@@ -221,7 +221,6 @@ Based on these abilities, the following practices can help improve your team exp
 To free your teams to find the best solutions, try some of these suggestions:  
 
 - **Hold regular hackathons.** Hackathons are opportunities for the team to experiment and to work with and share ideas. They also have the added benefit of letting your team work with new technologies and tools.  
-
 - **Encourage teams to iterate on and continually improve solutions to foster experimentation.** Many times the first solution to a problem isn't the best. Improvements to one service or feature often yield improvements in others.  
 - **Allow developers and operators to talk to and observe customers.** This kind of interaction provides more context and information that teams can use to solve problems and develop new ideas.  
 
@@ -398,11 +397,12 @@ Account for activities like production support, meeting time and technical debt.
 Learn more about [Work in process limits...](https://cloud.google.com/solutions/devops/devops-measurement-wip-limits)
 
 Visual management boards can create a shared understanding of where the team is in terms of its operational effectiveness. They can also help identify and remove obstacles in the path to higher performance.  
+
 **How to implement visual management.**  
+
 There are many kinds of visual displays and dashboards that are common in the context of software delivery:  
 
 - **Card walls, storyboards or Kanban boards,** either physical or virtual, with index cards that represent in-progress work items.  
-
 - **Dashboards or other visual indicators,** such as continuous integration systems with monitors or traffic lights to show whether the build is passing or failing. Effective visual displays are created, updated, and perhaps discarded by teams in response to issues that the team is currently interested in addressing.  
 - **Burn-up or burn-down charts** (for example, cumulative flow diagrams) showing the cumulative status of all work being done. These allow the team to project how long it will take to complete the current backlog.  
 - **Deployment pipeline monitors** showing what the latest deployable build is, and whether stages in the pipeline are failing, such as acceptance tests or performance tests.  
@@ -465,10 +465,10 @@ DORA research shows that changing the way people work changes culture; this is e
 *Based on these aspects, here are some practices you can implement to improve your culture:*  
 
 - **High cooperation.** Create cross-functional teams that include representatives from each functional area of the software delivery process (business analysts, developers, quality engineers, ops, security, and so on). This practice lets everyone share the responsibility for building, deploying, and maintaining a product. It's also important that there is good cooperation within the team.  
-- **Train the messengers.** This means we want people to bring us bad news so we can make things better. Hold blameless postmortems. By removing blame, you remove fear; and by removing fear, you enable teams to surface problems and solve them more effectively. Also create and foster an environment where it is safe to take smart risks and fail, so that anyone can surface problems at any time—even without the ceremony of a postmortem.  
+- **Train the messengers.** This means we want people to bring us bad news so we can make things better. Hold blameless post mortems. By removing blame, you remove fear; and by removing fear, you enable teams to surface problems and solve them more effectively. Also create and foster an environment where it is safe to take smart risks and fail, so that anyone can surface problems at any time—even without the ceremony of a post mortem.  
 - **Share risks.** Along with this, encourage shared responsibilities. Quality, availability, reliability and security are everyone's job. One way to improve the quality of your services is to ensure that developers share responsibility for maintaining their code in production. The improvement in collaboration that comes from sharing responsibility inherently reduces risk: The more eyes on the software delivery process, the more you'll avoid errors in process or planning. Automation also reduces risk, and with the right tool choice, can enable collaboration.  
 - **Encourage bridging.** Break down silos. In addition to creating cross-functional teams, techniques for breaking down silos include co-locating ops with the dev team; including ops in planning throughout the software delivery lifecycle; and implementing ChatOps. Another tip is to identify someone in the organization whose work you don't understand (or whose work frustrates you, like procurement) and invite them to coffee or lunch. Informal discussions help foster better communication, and you may understand why they do what they do—and you can come up with creative solutions together.  
-- **Let failure lead to inquiry.** Again, hold blameless postmortems. The response to failure shapes the culture of an organization. Blaming individuals for failures creates a negative culture. If instead, failures lead you to ask questions about what caused the failures and how you can keep them from happening again in the future, you've improved your technical system, your processes, and your culture.  
+- **Let failure lead to inquiry.** Again, hold blameless post mortems. The response to failure shapes the culture of an organization. Blaming individuals for failures creates a negative culture. If instead, failures lead you to ask questions about what caused the failures and how you can keep them from happening again in the future, you've improved your technical system, your processes, and your culture.  
 - **Implement novelty.** Encourage experimentation. Giving employees freedom to explore new ideas can lead to great outcomes. Some companies give engineers time each week for experimentation. Others host internal hack days or mini-conferences to share ideas and collaborate. Many new features and products began this way. When you release your employees from habitual pathways and repetitive tasks, they can generate enormous value for your organization. And remember that novelty isn't limited to new products and features. Also encourage and reward improvements in process and ideas that help foster collaboration.  
 
 Learn more about [Westrum organizational culture...](https://cloud.google.com/solutions/devops/devops-culture-westrum-organizational-culture)
@@ -484,7 +484,7 @@ Research from the DevOps Research and Assessment (DORA) (PDF) team shows that yo
 *Ways to improve your learning culture.*  
 Continuing to build a climate for learning is directly related to how an organization encourages and invests in learning. Here are some ways an organization can show that learning is important and necessary for growth:  
 
-- **Have regular lunchtime meetings ("brownbags") where one person presents about a project they are working on in a new tech, or something they are investigating.** Rotate the presentations among team members and reward people for presenting.  
+- **Have regular lunchtime meetings ("brown bags") where one person presents about a project they are working on in a new tech, or something they are investigating.** Rotate the presentations among team members and reward people for presenting.  
 - **When people attend conferences, have them share the new ideas through presentations or trip reports.** You can even host regular meetups or mini-conferences to increase networking and exposure to new technologies and ideas.  
 - **Encourage people to get certifications or external trainings.** You can help with this by covering costs of external trainings and forming study groups that are a part of normal work activity.  
 
