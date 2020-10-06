@@ -260,6 +260,51 @@ As well, other types of risks should be taken into account, e.g. related to:
 - **Intellectual Property** – Compliance with licencing requirements
 - **Third Party Viability** – Third party going out of business, or changing direction subsequent to a new ownership
 
+### Evaluating the Total Cost of Ownership<!-- omit in toc -->
+
+An assessment of the estimated Total Cost of Ownership of potential suitable options should be done to help guide acquisition decision-making.
+It is necessary to quantify and compare costs and it provides an opportunity to identify, explore and challenge any assumptions and biases.
+
+Here are some cost items that should be considered:
+
+#### Acquisition
+
+- Upfront evaluation
+- Decision and negotiation
+- Licenses
+- Infrastructure (virtual or physical)
+- Customization, integration and development
+- Migration (data and users)
+- Training
+
+### Operation
+
+- Use
+- Maintenance (e.g. Helpdesk, Service and software engineering, vendor relations)
+- Upgrades
+- Support services
+- Infrastructure
+- Scaling
+- Customization, integration and development
+- Depreciation
+
+### End of Life
+
+- Disposal
+- Migration (data and users)
+
+### Other
+
+- Opportunity or compliance (e.g. missing a market opportunity, not complying with regulations, decreased customer satisfaction) 
+- Costs incurred with another party to ensure the ability to meet Service Level Agreement (SLA) targets
+- Unplanned (e.g. unanticipated expenditure through compliance auditing and under-licensing)
+
+It may not be possible to calculate exact figures for all of the items, and an assessment of high/medium/low may be more realistic.
+This should not pose a problem so long as the same criteria are used to evaluate all options within an acquisition.
+
+But remember, Value for Money is not solely concerned with the financial cost of a solution.
+The cheaper option may not always be the better one.
+
 ### Conclusion<!-- omit in toc -->
 
 With the exception of well-established software for generic or peripheral needs of the department, there is little distinction between build vs buy.
