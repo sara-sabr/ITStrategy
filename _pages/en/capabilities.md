@@ -368,7 +368,7 @@ Continuing to build a climate for learning is directly related to how an organiz
 - **Have regular lunchtime meetings ("brown bags") where one person presents about a project they are working on in a new tech, or something they are investigating.** Rotate the presentations among team members and reward people for presenting.  
 - **When people attend conferences, have them share the new ideas through presentations or trip reports.** You can even host regular meetups or mini-conferences to increase networking and exposure to new technologies and ideas.  
 - **Encourage people to get certifications or external trainings.** You can help with this by covering costs of external trainings and forming study groups that are a part of normal work activity.  
-*Learn more about [Learning culture...](https://cloud.google.com/solutions/devops/devops-culture-learning-culture)*   
+*Learn more about [Learning culture...](https://cloud.google.com/solutions/devops/devops-culture-learning-culture)*  
 
 ### Section 11. TRANSFORMATION AND TRANSFORMATIONAL LEADERSHIP
 
