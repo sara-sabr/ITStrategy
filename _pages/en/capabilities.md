@@ -304,7 +304,7 @@ Here are a few keys to effective implementation of monitoring and observability.
 
 #### Recommendations  
 
-When faced with too much work and too few people to do it, DORA resommends ways to improve **work in process limits.**  
+When faced with too much work and too few people to do it, DORA recommends ways to improve **work in process limits.**  
 
 - **Make your work visible.** As you do this, try to surface all of your work, making all of it visible, to several teams and stakeholders. (See visual displays for details).  
 - **Set WIP limits that match your team's capacity for work.**  
