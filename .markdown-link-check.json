@@ -104,6 +104,9 @@
    },
    {
      "pattern": "https://www.tpsgc-pwgsc.gc.ca/app-acq/pme-sme/index-eng.html"
+   },
+   {
+     "pattern": "https://www.udemy.com"
    }
   ]
 }
