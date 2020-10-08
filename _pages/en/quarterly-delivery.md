@@ -7,15 +7,66 @@ status: posted
 sections: Work In Progress
 permalink: /quarterly-delivery.html
 ---
+<!-- markdownlint-disable MD033 -->
+<!-- the below cSpell statement says to ignore any text between HTML tags. E.g. it will ignore "th rowspan='2'" in this string: <th rowspan='2'> -->
+<!-- cSpell:ignoreRegExp /\<[^\>]+\>/ -->
+
+<style>
+table, th, td {
+  border: 1px solid black;
+}
+
+th {
+  background-color: #a9a9a9;
+  font-weight: bold;
+  color:white;
+}
+</style>
 
 All new projects must deliver a functional product at the end of each quarter, at the absolute latest.
 
 In modern IT literature organizations should be aiming to deliver software into production within minutes. In [*War And Peace And IT*](https://itrevolution.com/book/war-and-peace-and-it/) by [Mark Schwartz](https://itrevolution.com/faculty/mark-schwartz/), ex-CIO of US Citizenship and Immigration Services and currently a Strategist for Amazon Web Services, he writes that business or mission needs should be met in hours or days.
 It is in this spirit that IITB make it a top priority to deploy solutions to production quarterly, at the very least, as soon as possible, permitting us to achieve the long term aims.
 
-In the [DORA State of DevOps](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=2ahUKEwiGzKvWsoDkAhVOTt8KHVTvDBoQFjACegQIAhAC&url=http%3A%2F%2Fcloudplatformonline.com%2Frs%2F248-TPC-286%2Fimages%2FDORA-State%2520of%2520DevOps.pdf&usg=AOvVaw3Igoh1u4hGjIr7p9jV1_Ae) report on page 14 they define categories of performance as follows
+In the [DORA State of DevOps](http://cloudplatformonline.com/rs/248-TPC-286/images/DORA-State%20of%20DevOps.pdf) report on page 14 they define categories of performance as follows:
 
-![A table from the DORA State of DevOps report showing different categories of operation (Elite, High, Medium and Low) for the aspects of software delivery performance (Deployment Frequency, Lead Time for Changes, Time to Restore Services and Change Failure Rate )](../../assets/images/aspectOfSoftwareDeliveryPerformance.PNG)
+<table>
+  <tr>
+    <th>Aspect of Software Delivery Performance</th>
+    <th style="background-color: #32cd32; font-weight: bold; color:black;">Elite</th>
+    <th>High</th>
+    <th>Medium</th>
+    <th>Low</th>
+  </tr>
+  <tr>
+    <td><b>Deployment frequency</b><br>For the primary application or service you work on, how often does your organization deploy code?</td>
+    <td>On-demand (multiple deploys per day)</td>
+    <td>Between once per hour and once per day</td>
+    <td>Between once per week and once per month</td>
+    <td>Between once per week and once per month</td>
+  </tr>
+  <tr>
+    <td><b>Lead time for changes</b><br>For the primary application or service you work on, what is your lead time for changes (i.e., how long does it take to go from code commit to code successfully running in production)?</td>
+    <td>Less than one hour</td>
+    <td>Between one day and one week</td>
+    <td>Between one week and one month</td>
+    <td>Between one month and six months</td>
+  </tr>
+  <tr>
+    <td><b>Time to restore service</b><br> For the primary application or service you work on, how long does it generally take to restore service when a service incident occurs (e.g., unplanned outage, service impairment)?</td>
+    <td>Less than one hour</td>
+    <td>Less than one day</td>
+    <td>Less than one day</td>
+    <td>Between one week and one month</td>
+  </tr>
+  <tr>
+    <td><b>Change failure rate</b><br>For the primary application or service you work on, what percentage of changes results either in degraded service or subsequently requires remediation (e.g., leads to service impairment, service outage, requires a hot-fix, rollback, fix forward, patch)?</td>
+    <td>0-15%</td>
+    <td>0-15%</td>
+    <td>0-15%</td>
+    <td>46-60%</td>
+  </tr>
+</table>
 
 Of respondents
 
