@@ -83,7 +83,7 @@ Average of "How much time" questions
 - My team can re-provision systems by using scripts from version control. [1-7]
 - It is easy for us to change code maintained by other teams if we need to. [1-7]
 - It is easy to find examples in our codebase. [1-7]
-- It is easy to reuse other people code. [1-7]
+- It is easy to reuse other people's code. [1-7]
 - It is easy to add new dependencies to a project. [1-7]
 - It is easy to migrate to a new version of a dependency. [1-7]
 - Dependencies are stable and rarely break teams' code. [1-7]
