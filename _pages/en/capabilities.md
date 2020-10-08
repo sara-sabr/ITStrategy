@@ -15,7 +15,7 @@ Questions will measure and support the [Continuous Improvement](https://cloud.go
 
 **Do you agreed with...** [1-7]
 
-1. Strongly Disagree
+1. Strongly Disagree  
 2. .
 3. .
 4. Neither Agree nor Disagree
@@ -88,9 +88,7 @@ Average of "How much time" questions
 - It is easy to migrate to a new version of a dependency. [1-7]
 - Dependencies are stable and rarely break teams' code. [1-7]
 
-#### Recommendations
-
-IF < High
+#### Recommendations  
 
 - https://cloud.google.com/solutions/devops/devops-tech-version-control
 - https://cloud.google.com/solutions/devops/devops-tech-code-maintainability
@@ -118,9 +116,7 @@ IF < High
 - The % of security requirements that are included in the automated testing process. [%]
 - Security supplies teams with an ample number of approved libraries, packages, and toolchains for use. [1-7]
 
-#### Recommendations
-
-IF < High
+#### Recommendations  
 
 - https://cloud.google.com/solutions/devops/devops-tech-continuous-integration
 - https://cloud.google.com/solutions/devops/devops-tech-deployment-automation
@@ -143,12 +139,10 @@ IF < High
 - Developers practice test-driven development by writing unit tests before writing production code for all changes to the codebase. [1-7]
 - I can get feedback from automated tests in less than ten minutes both on local workstation and from the CI server. [1-7]
 
-#### Recommendations
+#### Recommendations  
 
-IF < High
-
-- https://cloud.google.com/solutions/devops/devops-tech-test-automation
-- https://cloud.google.com/solutions/devops/devops-tech-continuous-delivery
+- https://cloud.google.com/solutions/devops/devops-tech-test-automation  
+- https://cloud.google.com/solutions/devops/devops-tech-continuous-delivery  
 
 ### SECTION 4. ARCHITECTURE
 
