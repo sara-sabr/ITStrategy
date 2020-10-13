@@ -19,11 +19,11 @@ Luckily with desmos the heavy lifting is done for us.
 If you haven't already done so, click [here](https://www.desmos.com/calculator/ouestfova3) for an example.
 You should see something as follows
 
-![Area between curves]({{ site.baseurl }}/assets/images/areaundercurve.PNG)
+![The image shows the correlation between how much time a person can loose when choosing to invest in continuous learning. The first line represents 20% investment of time for a 10% trade off. The second line represents 30% investment of time for a 20% trade off.]({{ site.baseurl }}/assets/images/areaundercurve.PNG)
 
 What are we seeing here? If you hover over where the two lines intercept, you will see that the x value is 6.192, which is the same 6.192 you will see in the integral
 
-![Area under curve function]({{ site.baseurl }}/assets/images/integralareaundercurve.PNG)
+![The image shows an integral which displays a number, ~18.075. This is the calculation of the area under the curve f(x) between two lines that represent time investment in continuous learning, x=0 and x=6.192. ]({{ site.baseurl }}/assets/images/integralareaundercurve.PNG)
 
 Line 3 should read
 
