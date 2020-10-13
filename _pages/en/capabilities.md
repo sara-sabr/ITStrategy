@@ -232,7 +232,14 @@ To improve your **change approval processes**, focus on implementing the followi
 
 #### Recommendations
 
-Increased engagement with customers and participation in product management processes contributes to stronger identification with your organization's goals and values. Ways to improve **customer feedback.** The field of user experience design (UX) provides a framework for understanding improvement. Many organizations treat UX as just making a product UI look good. However, UX is about whether you're solving a real problem for users; more broadly, UX is about every experience a user has when they interact with your organization. It cannot be overemphasized how critical good UX is to building successful products and services. It's essential to build customer feedback gathering into the delivery process. Every significant feature you build should start by considering the problem to be solved. This should include performing user research to determine possible solutions and select a candidate. User research should be analyzed before a single line of code is written. For early-lifecycle products, teams should adopt the ideas put forward in the lean startup movement to validate the underlying business model of the product before any code is written. You should validate that you're solving a real problem, and then iterate on a solution that solves the problem while providing a viable business model. You should follow a similar pattern for existing products that are implementing a new solution to a known business problem. When the solution design has been validated, you should create a prototype so that you can perform further research and testing. Only when testing validates that the feature achieves your goal should the full production feature be completed.
+Increased engagement with customers and participation in product management processes contributes to stronger identification with your organization's goals and values. A team should use the following pattern in order to maximize their chances of successfully solving **customer problems**:  
+
+- Gather customer feedback first, before defining any potential features.  
+- Validate that you're solving a real problem.  
+- Iterate on a solution that actually solves that problem (and nothing more).  
+- Ensure the solution results in a viable business (for example, the cost is less than the anticipated revenue).  
+- Track key metrics to gauge success.  
+- Iterate through the above to improve those metrics.  
 
 *Learn more about [Customer feedback...](https://cloud.google.com/solutions/devops/devops-process-customer-feedback)*
 
@@ -245,7 +252,7 @@ To improve **work visibility** you should:
 *Learn more about [Visibility of work in the value stream](https://cloud.google.com/solutions/devops/devops-process-work-visibility-in-value-stream)*
 
 **Working in small batches** is an essential principle in any discipline where feedback loops are important, or you want to learn quickly from your decisions.
-Research recommends that each feature or batch of work follow the agile concept of the INVEST principle:
+Research recommends that each feature or batch of work follow the agile concept:  
 
 - **Independent.** Make batches of work as independent as possible from other batches, so that teams can work on them in any order, and deploy and validate them independent of other batches of work.
 - **Negotiable.** Each batch of work is iterable and can be renegotiated as feedback is received.
