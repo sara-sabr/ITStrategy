@@ -153,9 +153,7 @@ Average of "How much time" questions
 - My team can deploy during normal business hours with negligible downtime. [1-7]
 - My team feels that we're empowered to choose tools. [1-7]
 
-#### Recommendations
-
-IF < High
+#### Recommendations  
 
 - https://cloud.google.com/solutions/devops/devops-tech-architecture
 - https://cloud.google.com/solutions/devops/devops-tech-teams-empowered-to-choose-tools
@@ -169,9 +167,7 @@ IF < High
 - I can dynamically increase or decrease the cloud resources available for the service or product that I primarily support based on demand. [1-7]
 - I can monitor or control the quantity and/or cost of cloud resources used by the service or product that I primarily support. [1-7]
 
-#### Recommendations
-
-IF < High
+#### Recommendations  
 
 - https://cloud.google.com/solutions/devops/devops-tech-cloud-infrastructure
 
@@ -251,8 +247,7 @@ To improve **work visibility** you should:
 
 *Learn more about [Visibility of work in the value stream](https://cloud.google.com/solutions/devops/devops-process-work-visibility-in-value-stream)*
 
-**Working in small batches** is an essential principle in any discipline where feedback loops are important, or you want to learn quickly from your decisions.
-Research recommends that each feature or batch of work follow the agile concept:  
+**Working in small batches** is an essential principle in any discipline where feedback loops are important, or you want to learn quickly from your decisions. Research recommends that each feature or batch of work follow the agile concept:  
 
 - **Independent.** Make batches of work as independent as possible from other batches, so that teams can work on them in any order, and deploy and validate them independent of other batches of work.
 - **Negotiable.** Each batch of work is iterable and can be renegotiated as feedback is received.
