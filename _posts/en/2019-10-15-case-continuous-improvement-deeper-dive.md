@@ -7,6 +7,7 @@ author: "Jayson McIntosh, in collaboration with the IT Strategy Team"
 date: "2019-11-13"
 excerpt_separator: <!--more-->
 ---
+
 In my [previous post]({{ site.baseurl }}/2019/10/15/case-continuous-improvement.html), I have tried to use maths to prove that continuous improvement would provide greater value than the status quo to any organization were they to embed the practice in their way of working.
 In this post, I propose the reader a deeper dive and some potential improvements over this analysis.
 <!--more-->
@@ -23,7 +24,11 @@ You should see something as follows
 
 What are we seeing here? If you hover over where the two lines intercept, you will see that the x value is 6.192, which is the same 6.192 you will see in the integral
 
-![The image shows an integral which displays a number, ~18.075. This is the calculation of the area under the curve f(x) between two lines that represent time investment in continuous learning, x=0 and x=6.192. ]({{ site.baseurl }}/assets/images/integralareaundercurve.PNG)
+$$
+\begin{align*}
+\int_0^{6.192} f(x) \,dx=18.0750720063
+\end{align*}
+$$
 
 Line 3 should read
 
@@ -35,7 +40,7 @@ And you should see that one line 1 and 2 we have defined f(x) and F(x), respecti
 A small detail we glanced over before is the { x > 0 }, which is specifying to only draw the line where x > 0 (to prevent the lines from going past the x-axis which adds noise to our graph).
 
 You will also notice that in our picture of the integral is displayed a number, ~18.075. This is the area under the curve *f(x)* between x=0 and x=6.192.
-Next we find the area under F(x) (which was equal x), which is *(width * height) / 2* (the area of a triangle), which is ~19.17.
+Next we find the area under F(x) (which was equal x), which is *(width x height) / 2* (the area of a triangle), which is ~19.17.
 Then, on line 8, we substract the integral from the triangle to find the area of the curve that is under F(x) which is not under f(x).
 In our case, this turns out to be
 
