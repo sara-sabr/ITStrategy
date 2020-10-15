@@ -20,7 +20,7 @@ Luckily with desmos the heavy lifting is done for us.
 If you haven't already done so, click [here](https://www.desmos.com/calculator/ouestfova3) for an example.
 You should see something as follows
 
-![The image shows the correlation between how much time a person can loose when choosing to invest in continuous learning. The first line represents 20% investment of time for a 10% trade off. The second line represents 30% investment of time for a 20% trade off.]({{ site.baseurl }}/assets/images/areaundercurve.PNG)
+![This image is a 2D line chart with an x axis going from 0 to 8 and a y axis going from 0 to 8. There are two lines on the chart; a red line, that represents 20% investment of time for a 10% trade off, and a blue line, represents 30% investment of time for a 20% trade off. Both start at point 0,0. The blue line is straight and ends at point x=8, y=8. The red line is curved and ends at x=~7.75, y=8. The two lines intersect at point 6.192. The area under the curve (between points 0,0 and the intersection at point 6.192) is coloured in green.]({{ site.baseurl }}/assets/images/areaundercurve.PNG)
 
 What are we seeing here? If you hover over where the two lines intercept, you will see that the x value is 6.192, which is the same 6.192 you will see in the integral
 
