@@ -49,7 +49,7 @@ Si ça sonnait un peu mathématique ou jargon, on va l'expliquer plus en détail
 
 Si nous traçons f(x) = x nous obtiendrons une ligne comme suit
 
-![Graphique de f(x) = x]({{ site.baseurl }}/assets/images/graphx.PNG)
+![Cette image est un graphique linéaire qui permet de suivre le nombre d'unités produites sur des périodes courtes et longues. Le graphique avec un axe x allant de 0 à 6 et un axe y allant de 0 à 6.  Il fournit l'axe Y comme unités produites et l'axe X comme temps.  Il y a une ligne droite rouge sur le graphique qui commence au point 0 et va jusqu'au point x=6, y=6. Le graphique avec la ligne droite montre que plus x augmente, plus y augmente régulièrement.]({{ site.baseurl }}/assets/images/graphx.PNG)
 
 Nous définissons l'axe des y (l'axe vertical) comme étant l'unité totale de la valeur d'affaires produite, et l'axe des x comme étant l'axe du temps.
 La ligne représente alors le total des unités de la valeur d'affaires produites sur une certaine unité de temps.
