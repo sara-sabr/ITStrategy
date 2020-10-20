@@ -44,7 +44,7 @@ If that sounded a little math-y or jargon-y, we'll walk through it below.
 
 If we graph f(x) = x we will get a line as follows
 
-![Graph of f(x) = x]({{ site.baseurl }}/assets/images/graphx.PNG)
+![This image is a line graph that is tracking how many units produced over short and long periods of time. The chart with an x axis going from 0 to 6 and a y axis going from 0 to 6.  It outputs the Y axis as units produced and X as time.  There is one red straight line on the chart that starts at point 0 and goes up until point x=6, y=6. The graph with the straign line demonstrates that as x increases, y steadily increases.]({{ site.baseurl }}/assets/images/graphx.PNG)
 
 We are defining y-axis (the vertical one) as the total units of business value produced, and the x-axis to be time.
 The line then is the total units of business value produced over some unit of time.
