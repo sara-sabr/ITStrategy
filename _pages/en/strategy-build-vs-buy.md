@@ -35,7 +35,7 @@ permalink: /strategy-build-vs-buy.html
 - [Coherent set of actions](#coherent-set-of-actions)
 - [Measuring the Strategy's success](#measuring-the-strategys-success)
 - [Appendix A - Business Case (Diagnostic)](#appendix-a---business-case-diagnostic)
-    - [Acquisition](#acquisition)
+  - [Acquisition](#acquisition)
   - [Operation](#operation)
   - [End of Life](#end-of-life)
   - [Other](#other)
@@ -271,7 +271,7 @@ It is necessary to quantify and compare costs and it provides an opportunity to 
 
 Here are some cost items that should be considered:
 
-#### Acquisition
+### Acquisition
 
 - Upfront evaluation
 - Decision and negotiation
