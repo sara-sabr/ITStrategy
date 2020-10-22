@@ -146,7 +146,10 @@
         en: |
           Produce an IT Solution Risk Assessment Framework that favours and incentivizes flexible and interoperable IT solutions, service oriented architecture, and reusable IT Products as components.
           <br>
-          The Framework should also increase the level of IT Solutions using Open Standards over Proprietary ones. 
+          The Framework should also increase the level of IT Solutions using Open Standards over Proprietary ones and include two critical aspects:
+          <br>
+          <br>- 1)	Doing the right things - delivering value and contributing to realization of departmental / GC outcomes
+          <br>- 2)	Doing it right way – aligning to the business and IT standards, guard rails, etc.
           <br><br>
           ESDC Business Capability Model should be leveraged to help define IT Solution concept boundaries.
     - col:
@@ -205,6 +208,11 @@
           Key IT Products criteria to keep in mind:<br>
           <strong>Favours</strong>: flexible, interchangeable, interoperable, reusable, scalable, and that can support self-serve for development teams<br>
           <strong>Reduces</strong>: lock-in situations, whether contractual or technological, maintenance, customization, etc.
+          <br><br>
+          The Framework should also increase the level of IT Solutions using Open Standards over Proprietary ones and include two critical aspects:
+          <br>
+          <br>- 1)	Doing the right things - delivering value and contributing to realization of departmental / GC outcomes
+          <br>- 2)	Doing it right way – aligning to the business and IT standards, guard rails, etc.
     - col:
       data:
         list: false
