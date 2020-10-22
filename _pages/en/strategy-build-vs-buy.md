@@ -113,8 +113,9 @@ Stakeholders are expected to still comply with existing policy instruments inclu
 
 ### Governance, Compliance, and Reporting
 
-1. IT Solutions are broken down into manageable parts (IT Products) in line with the the [ESDC Business Capability Model](), whichever is most relevant.
+1. IT Solutions are broken down into manageable parts (IT Products) in line with the the ESDC Business Capability Model, whichever is most relevant.
 2. IT Solutions are assessed against the IT Solutions Risk Assessment Framework (to be created - see [Coherent set of actions](#coherent-set-of-actions) and read [Managing the Risks of Acquiring of Software](#managing-the-risks-of-acquiring-of-software)).
+   - Adoption of existing IT Solutions and IT Products, internal or external, are favoured over purchasing or building them, in line with their specific risk profile and total cost of ownership.
 3. IT Product / IT Solution maintenance and support may be done in-house or outsourced to a third-party vendor
    - Outsourced maintenance and support may be given to a third party different than the one providing the software licence.
 
@@ -130,8 +131,9 @@ Stakeholders are expected to still comply with existing policy instruments inclu
 
 ### Architecture
 
-1. IT Solutions and IT products loose coupling boundaries are at a minimum at the ESDC Business Capability Model level.
-   - Duplication of IT Products or IT Solutions is supported as long as they are for different business capabilities.
+1. IT Solutions and IT products loose coupling boundaries are at intersection of value stream, value stage and business capability (ESDC Business Capability Model).
+   - Duplication of IT Solutions or IT Products is supported as long as they are for different business capabilities.
+   - Boundary of IT Solutions and IT Products are to be application capabilities so that they can enable business capabilities.
 2. IT Products are risk assessed for lock-in situations with the IT Products risk assessment framework (to be created - see [Coherent set of actions](#coherent-set-of-actions))
 
 ## Coherent set of actions
@@ -142,21 +144,28 @@ Stakeholders are expected to still comply with existing policy instruments inclu
 
 This Strategy's success will be measured by comparing the following metrics against the key elements of the GoC Mandatory Procedures for [Enterprise Architecture Assessments](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602) and on [Application Programming Interfaces](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604).
 
-- Adoption/Building
-  - Increase adoption of open source software components
-  - Increase contributions to third-party OSS projects
-  - Decrease number of forked versions of OSS unaligned with upstream or without contributions of changes
-  - Increase number of internal projects released as OSS
-  - Increase external contributions to ESDC OSS projects
-- Buy
-  - Decrease lock-in situations (need to define how measure)
-  - Decrease use of non-interoperable and exclusive:
-    - file formats
-    - APIs
-    - data-exports
-  - Increase number of workloads migrated to cloud environments (Cloud First Strategy)
+- Adopting existing IT Solutions and IT Products
+  - Increased ratio of open source software solutions and products used in production compared to purchased or internally developed ones.
+  - Increased contributions to third-party OSS projects instead of internally maintained changes.
+  - Decreased ratio of forked versions of third-party OSS unaligned with upstream or without contributions of changes.
+  - Increased number of contributions to ESDC OSS projects from the community.
+- Buying IT Solutions and IT Products
+  - Decreased ratio of IT Solutions and IT Products in used in production by ESDC for which the department can not make software changes due to:
+    - Contract obligations with vendors
+    - Intellectual property limitations
+    - Proprietary and closed formats
+  - Decreased ratio of IT Solutions and IT Products for which the department can not choose a service integrator and/or a software maintainer other than the group that provides the software licence.
+  - Decreased use of IT Solutions and IT Products for which there are non-interoperable and exclusive:
+    - File formats
+    - Application Programming Interfaces
+    - Data exports
+- Building IT Solutions and IT Products
+  - Increased ratio of internally built projects released as OSS
 - Applicable to all scenarios
-  - Increased speed and flexibility for changes
+  - Increased number of decoupled IT Solutions and IT Products
+  - Increased number of APIs accessible for reuse throughout ESDC IT Solutions and IT Products
+  - Increase number of IT Solutions and Products migrated to cloud environments (Cloud First Strategy)
+  - Increased speed and flexibility for software changes deployed to productions for IT Solutions and IT Products (see )
 
 ## Appendix A - Business Case (Diagnostic)
 
