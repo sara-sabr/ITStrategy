@@ -35,6 +35,10 @@ permalink: /strategy-build-vs-buy.html
 - [Coherent set of actions](#coherent-set-of-actions)
 - [Measuring the Strategy's success](#measuring-the-strategys-success)
 - [Appendix A - Business Case (Diagnostic)](#appendix-a---business-case-diagnostic)
+    - [Acquisition](#acquisition)
+  - [Operation](#operation)
+  - [End of Life](#end-of-life)
+  - [Other](#other)
 - [Appendix B - Traceability Matrix (Update coming soon)](#appendix-b---traceability-matrix-update-coming-soon)
 - [Appendix D - Definitions](#appendix-d---definitions)
 - [Appendix E - Notes and Change Log](#appendix-e---notes-and-change-log)
@@ -295,7 +299,7 @@ Here are some cost items that should be considered:
 
 ### Other
 
-- Opportunity or compliance (e.g. missing a market opportunity, not complying with regulations, decreased customer satisfaction) 
+- Opportunity or compliance (e.g. missing a market opportunity, not complying with regulations, decreased customer satisfaction)
 - Costs incurred with another party to ensure the ability to meet Service Level Agreement (SLA) targets
 - Unplanned (e.g. unanticipated expenditure through compliance auditing and under-licensing)
 
