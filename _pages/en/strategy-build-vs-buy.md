@@ -39,7 +39,7 @@ permalink: /strategy-build-vs-buy.html
   - [Operation](#operation)
   - [End of Life](#end-of-life)
   - [Other](#other)
-- [Appendix B - Traceability Matrix (Update coming soon)](#appendix-b---traceability-matrix-update-coming-soon)
+- [Appendix B - Traceability Matrix](#appendix-b---traceability-matrix)
 - [Appendix D - Definitions](#appendix-d---definitions)
 - [Appendix E - Notes and Change Log](#appendix-e---notes-and-change-log)
 - [Appendix F - References](#appendix-f---references)
@@ -330,12 +330,12 @@ Even traditional services delivered through SaaS, such as email, require conside
 This strategy is intended to return control of implementation of services back to the department thereby permitting increased alignment with the Government of Canada direction, and increase the quality, and rate by which, digital services are delivered to Canadians.
 The intent is to replace dated approaches to IT solutions delivery in favour of practices aligned with industry best practice in order to promote the department's digital transformation and keep pace with the rising expectations of Canadian citizens with respect to digital services.
 
-## Appendix B - Traceability Matrix (Update coming soon)
+## Appendix B - Traceability Matrix
 
 The following traceability matrix is used to show alignment with various strategies, plans, and policy instruments already in progress.
 
 <table>
-<tr>****
+<tr>
     <th>Strategy element</th>
     <th>Aligns with</th>
 </tr>
@@ -356,7 +356,12 @@ The following traceability matrix is used to show alignment with various strateg
 <a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental IMIT Plan/19-20 Plans/IITB Moving Forward v2.docx" target="_blank">IITB Way Forward</a>/1. Adjust IITB leadership<br>
 <a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental IMIT Plan/19-20 Plans/IITB Moving Forward v2.docx" target="_blank">IITB Way Forward</a>/6a. Strengthen IM/IT Strategy<br>
 <a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental IMIT Plan/19-20 Plans/IITB Moving Forward v2.docx" target="_blank">IITB Way Forward</a>/6f. formalize requirements mgt framework<br>
-<a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental IMIT Plan/19-20 Plans/ESDC IT Plan 2019-22 - FINAL.pdf" target="_blank">IT Plan</a>/Section II/Foundational
+<a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental IMIT Plan/19-20 Plans/ESDC IT Plan 2019-22 - FINAL.pdf" target="_blank">IT Plan</a>/Section II/Foundational<br>
+Departmental Value Stream Model<br>
+Departmental Business Capability Model<br>
+Departmental Application Capability Model<br>
+ESDC EA Architectural Principles<br>
+ESDC Technology Standards (aka Technical Bricks)<br>
     </td>
 </tr>
 <tr>
