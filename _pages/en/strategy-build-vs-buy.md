@@ -209,7 +209,7 @@ As such, if the organization is not in a position to design, build and operate t
 
 ### Additional Considerations<!-- omit in toc -->
 
-- How much control is preferred over the **frequency of upgrades** or **technology obsolecence** of an option?
+- How much control is preferred over the **frequency of upgrades** or **technology obsolescence** of an option?
 - Do the components of a given option adhere to the organization's **technology standards**?
 - What level of **maturity** is sought for a given component?
 
