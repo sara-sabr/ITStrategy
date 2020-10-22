@@ -74,7 +74,7 @@
         - item:
             fr:
             en: ARC
-        - item:
+        - item:            
             fr:
             en: EARB
   - row:
@@ -258,6 +258,7 @@
           Review the current IITB Governance Structure and committees Terms of References to identify potential gaps and conflicts with the desired outcomes of this strategy.
           <br>
           Then, adjust governance and committees ToRs to be aligned with the desired outcomes.
+          <br><strong>Note:</strong> This action is dependent on the completion of the action: "Produce IT Products Management Framework" to be developed under the leadership of IITB Finance.
     - col:
       data:
         list: false
@@ -312,6 +313,8 @@
         fr: 
         en: |
             Officially review the ESDC OSS Framework and endorse it. 
+            <br>
+            Presentation already done at ARC and endorsement received. Continue to full governance approval.
     - col:
       data:
         list: false
@@ -334,8 +337,8 @@
     - col:
       data:
         list: false
-        fr: Finance
-        en: Finance
+        fr: Gouvernance
+        en: Governance
     - col:
       data:
         list: false
@@ -351,22 +354,25 @@
     - col:
       data:
         list: false
-        fr: <strong>À confirmer</strong>
+        fr: <strong>IITB Finance</strong>
         en: |
-          <strong>TBC</strong>
+          <strong>IITB Finance</strong>
     - col:
       data:
         list: true
         items:
         - item:
             fr:
-            en: Cloud CoE
+            en: BPMO
         - item:
             fr:
             en: IITB Finance
         - item:
             fr:
-            en: CFOB
+            en: BSIM
+        - item:
+            fr:
+            en: BOSS
         - item:
             fr:
             en: IT Strategy
