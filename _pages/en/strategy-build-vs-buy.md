@@ -122,7 +122,7 @@ Stakeholders are expected to still comply with existing policy instruments inclu
 ### Legal
 
 1. IT Solutions use the ESDC Software Legal Terms Guidance (to be created - see [Coherent set of actions](#coherent-set-of-actions))
-2. IT Solutions and IT Products comply with the ESDC OSS Management Framework
+2. IT Solutions and IT Products comply with the ESDC Open Source Software Management Framework when applicable.
 
 ### Architecture
 
