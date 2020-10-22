@@ -471,6 +471,44 @@
         - item:
             fr: 
             en: SSC
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Architectural
+        en: Architectural
+    - col:
+      data:
+        list: false
+        fr: 
+        en: |
+          Realign Cloud Assessment Framework (CAF) with current Strategy
+    - col:
+      data:
+        list: false
+        fr: 
+        en: |
+          The CAF will need to take IT Solutions and IT Products risk assessment prior to evaluating the cloud fitness. 
+    - col:
+      data:
+        list: false
+        fr: <strong>Cloud CoE</strong>
+        en: |
+          <strong>Cloud CoE</strong>
+    - col:
+      data:
+        list: true
+        items:
+        - item:
+            fr:
+            en: IT Strategy
+        - item:
+            fr:
+            en: |
+              <strong>Architecture Teams</strong>
+              <br>(Includes: Enterprise, Business, Data, Information, Solution, Technical, IT Security, and Security Architecture)
 - table:
   id: t002
   name:
