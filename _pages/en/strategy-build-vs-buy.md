@@ -144,12 +144,22 @@ Stakeholders are expected to still comply with existing policy instruments inclu
 
 This Strategy's success will be measured by comparing the following metrics against the key elements of the GoC Mandatory Procedures for [Enterprise Architecture Assessments](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602) and on [Application Programming Interfaces](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604).
 
-- Adopting existing IT Solutions and IT Products
+Specific to Mandatory Procedures for Enterprise Architecture:
+
+- Upcoming
+
+Specific to Mandatory Procedures for Application Programming Interface:
+
+- Upcoming
+
+Specific to acquisition of new or enhancements to IT Solutions and IT Products:
+
+- Adopting
   - Increased ratio of open source software solutions and products used in production compared to purchased or internally developed ones.
   - Increased contributions to third-party OSS projects instead of internally maintained changes.
   - Decreased ratio of forked versions of third-party OSS unaligned with upstream or without contributions of changes.
   - Increased number of contributions to ESDC OSS projects from the community.
-- Buying IT Solutions and IT Products
+- Buying
   - Decreased ratio of IT Solutions and IT Products in used in production by ESDC for which the department can not make software changes due to:
     - Contract obligations with vendors
     - Intellectual property limitations
@@ -159,7 +169,7 @@ This Strategy's success will be measured by comparing the following metrics agai
     - File formats
     - Application Programming Interfaces
     - Data exports
-- Building IT Solutions and IT Products
+- Building
   - Increased ratio of internally built projects released as OSS
 - Applicable to all scenarios
   - Increased number of decoupled IT Solutions and IT Products
