@@ -55,7 +55,7 @@ The strategy includes:
 1. A **guiding policy**, which serves to clarify the application of the GoC Mandatory Procedures for [Enterprise Architecture Assessments](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602) and on [Application Programming Interfaces](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604) when acquiring new or enhancing existing IT Solutions in Employment and Social Development Canada (ESDC).
 2. A **coherent set of actions** (an action plan), which serve to operationalize the application of the GoC Mandatory Procedures for [Enterprise Architecture Assessments](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602) and on [Application Programming Interfaces](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604) when acquiring new or enhancing existing IT Solutions in ESDC.
 
-The intent behind this strategy is to communicate a decision by the Chief Information Officer (CIO) (not yet approved) on a path forward (the Guiding Policy), and what investments are needed to operationalize that decision (the coherent set of actions).
+The intent behind this strategy is to communicate a decision by the ESDC Chief Information Officer (CIO) (not yet approved) on a path forward (the Guiding Policy), and what investments are needed to operationalize that decision (the coherent set of actions).
 
 ### Targeted Stakeholders
 
@@ -81,7 +81,7 @@ This strategy proposes moving ESDC to the point where all stakeholders understan
 
 This strategy complements existing IT initiatives (such as the [IITB Way Forward](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx)) as well as supports them with new activities (see [Coherent set of actions](#coherent-set-of-actions)).
 
-This strategy's goal is to clarify the application of the GoC Mandatory Procedures for [Enterprise Architecture Assessments](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602) and on [Application Programming Interfaces](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604) when acquiring IT Solutions within ESDC IITB context, and provide a roadmap in getting to the adoption of this framework.
+This strategy's goal is to clarify the application of the GoC Mandatory Procedures for [Enterprise Architecture Assessments](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602) and on [Application Programming Interfaces](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604) when acquiring new or enhancing existing IT Solutions and IT products within ESDC IITB context, and provide actions items to enable the adoption of this guiding policy.
 
 More details in [Appendix A](#appendix-a---business-case-diagnostic).
 
@@ -109,7 +109,8 @@ Stakeholders are expected to still comply with existing policy instruments inclu
   - ESDC Information Management Policy (being drafted)
   - ESDC [Procurement Policies](http://iservice.prv/eng/finance/purchasing/policy.shtml)
   - ESDC Security Policy (being drafted)
-  - ESDC [Target Solution Delivery Model](strategy-target-solution-delivery-model.html) (draft in consultation)
+  - ESDC [Target Solution Delivery Model](strategy-target-solution-delivery-model.html) Strategy (draft in consultation)
+  - ESDC Data Strategy
 
 ### Governance, Compliance, and Reporting
 
@@ -174,7 +175,7 @@ Specific to acquisition of new or enhancements to IT Solutions and IT Products:
 - Applicable to all scenarios
   - Increased number of decoupled IT Solutions and IT Products
   - Increased number of APIs accessible for reuse throughout ESDC IT Solutions and IT Products
-  - Increase number of IT Solutions and Products migrated to cloud environments (Cloud First Strategy)
+  - Increased number of IT Solutions and Products migrated to and operated on cloud environments (Cloud First Strategy)
   - Increased speed and flexibility for software changes deployed to productions for IT Solutions and IT Products (see )
 
 ## Appendix A - Business Case (Diagnostic)
