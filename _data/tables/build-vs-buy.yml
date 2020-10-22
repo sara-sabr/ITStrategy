@@ -57,7 +57,7 @@
         fr: <strong>Équipes d'architecture</strong>
         en: |
           <strong>Architecture Teams</strong>
-          <br>(Includes: Enterprise, Business, Data, Information, Solution, Technical, IT Security, and Security Architecture)
+          <br>(Includes: Enterprise, Business, Data, Information, Solution, Technical, IT Security, Security Architecture, and Cloud team)
     - col:
       data:
         list: true
@@ -158,7 +158,7 @@
         fr: <strong>Équipes d'architecture</strong>
         en: |
           <strong>Architecture Teams</strong>
-          <br>(Includes: Enterprise, Business, Data, Information, Solution, Technical, IT Security, and Security Architecture)
+          <br>(Includes: Enterprise, Business, Data, Information, Solution, Technical, IT Security, Security Architecture, and Cloud team)
     - col:
       data:
         list: true
@@ -219,7 +219,7 @@
         fr: <strong>Équipes d'architecture</strong>
         en: |
           <strong>Architecture Teams</strong>
-          <br>(Includes: Enterprise, Business, Data, Information, Solution, Technical, IT Security, and Security Architecture)
+          <br>(Includes: Enterprise, Business, Data, Information, Solution, Technical, IT Security, Security Architecture, and Cloud team)
     - col:
       data:
         list: true
@@ -274,7 +274,7 @@
         fr: <strong>Équipes d'architecture</strong>
         en: |
           <strong>Architecture Teams</strong>
-          <br>(Includes: Enterprise, Business, Data, Information, Solution, Technical, IT Security, and Security Architecture)
+          <br>(Includes: Enterprise, Business, Data, Information, Solution, Technical, IT Security, Security Architecture, and Cloud team)
     - col:
       data:
         list: true
@@ -410,7 +410,7 @@
         fr: <strong>Équipes d'architecture</strong>
         en: |
           <strong>Architecture Teams</strong>
-          <br>(Includes: Enterprise, Business, Data, Information, Solution, Technical, IT Security, and Security Architecture)
+          <br>(Includes: Enterprise, Business, Data, Information, Solution, Technical, IT Security, Security Architecture, and Cloud team)
     - col:
       data:
         list: true
