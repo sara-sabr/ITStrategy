@@ -113,7 +113,7 @@ Stakeholders are expected to still comply with existing policy instruments inclu
 
 ### Governance, Compliance, and Reporting
 
-1. IT Solutions are broken down into manageable parts (IT Products) in line with the [GoC Business Capability Model](https://gcconnex.gc.ca/file/group/21723432/al#3l3319941)
+1. IT Solutions are broken down into manageable parts (IT Products) in line with the the [ESDC Business Capability Model](), whichever is most relevant.
 2. IT Solutions are assessed against the IT Solutions Risk Assessment Framework (to be created - see [Coherent set of actions](#coherent-set-of-actions) and read [Managing the Risks of Acquiring of Software](#managing-the-risks-of-acquiring-of-software)).
 3. IT Product / IT Solution maintenance and support may be done in-house or outsourced to a third-party vendor
    - Outsourced maintenance and support may be given to a third party different than the one providing the software licence.
@@ -130,7 +130,7 @@ Stakeholders are expected to still comply with existing policy instruments inclu
 
 ### Architecture
 
-1. IT Solutions and IT products loose coupling boundaries are at the Business Capability Model level.
+1. IT Solutions and IT products loose coupling boundaries are at a minimum at the ESDC Business Capability Model level.
    - Duplication of IT Products or IT Solutions is supported as long as they are for different business capabilities.
 2. IT Products are risk assessed for lock-in situations with the IT Products risk assessment framework (to be created - see [Coherent set of actions](#coherent-set-of-actions))
 
