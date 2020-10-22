@@ -96,16 +96,20 @@ Once active, all teams involved in the project, and the IT products involved in 
 This Guiding Policy has been prepared by taking into consideration alignment and compliance with existing policy instruments and does not replace them.
 Stakeholders are expected to still comply with existing policy instruments including, but not limited to:
 
-- ESDC [Policy on Project and Programme Management (PPPM)](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Policy%20on%20Project%20and%20Programme%20Management.pdf)
-- ESDC Information Management Policy (being drafted)
-- ESDC [Procurement Policies](http://iservice.prv/eng/finance/purchasing/policy.shtml)
-- ESDC Security Policy (being drafted)
-- ESDC [Target Solution Delivery Model](strategy-target-solution-delivery-model.html) (draft in consultation)
-- TBS [Directive on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601); and specifically:
-  - [Appendix A: Mandatory Procedures for Enterprise Architecture Assessment](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602)
-  - [Appendix B: Mandatory Procedures on Application Programming Interfaces](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604)
-- TBS [Directive on Security Management](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32611)
-- GoC [Architecture Principles Standards](https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards)
+- Government of Canada (GoC)
+  - [Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html)
+- Treasury Board of Canada Secretariat (TBS)
+  - TBS [Directive on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601); and specifically:
+    - [Appendix A: Mandatory Procedures for Enterprise Architecture Assessment](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602)
+    - [Appendix B: Mandatory Procedures on Application Programming Interfaces](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604)
+  - TBS [Directive on Security Management](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32611)
+  - GoC [Architecture Principles Standards](https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards)
+- Employment and Social Development Canada (ESDC)
+  - ESDC [Policy on Project and Programme Management (PPPM)](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Policy%20on%20Project%20and%20Programme%20Management.pdf)
+  - ESDC Information Management Policy (being drafted)
+  - ESDC [Procurement Policies](http://iservice.prv/eng/finance/purchasing/policy.shtml)
+  - ESDC Security Policy (being drafted)
+  - ESDC [Target Solution Delivery Model](strategy-target-solution-delivery-model.html) (draft in consultation)
 
 ### Governance, Compliance, and Reporting
 
