@@ -118,7 +118,7 @@ Stakeholders are expected to still comply with existing policy instruments inclu
 2. IT Solutions are assessed against the IT Solutions Risk Assessment Framework (to be created - see [Coherent set of actions](#coherent-set-of-actions) and read [Managing the Risks of Acquiring of Software](#managing-the-risks-of-acquiring-of-software)).
    - Adoption of existing IT Solutions and IT Products, internal or external, are favoured over purchasing or building them, in line with their specific risk profile and total cost of ownership.
 3. IT Product / IT Solution maintenance and support may be done in-house or outsourced to a third-party vendor
-   - Outsourced maintenance and support may be given to a third party different than the one providing the software licence.
+   - Outsourced maintenance and support may be provided by a third party different than the one providing the software licence.
 
 ### Finance
 
@@ -353,9 +353,6 @@ The following traceability matrix is used to show alignment with various strateg
 <tr>
     <td><b>Governance, Compliance, and Reporting</b></td>
     <td>
-<a href="https://sara-sabr.github.io/ITStrategy/strategy-summary.html" target="_blank">Strategy Map</a>/Meaningful work<br>
-<a href="https://sara-sabr.github.io/ITStrategy/strategy-summary.html" target="_blank">Strategy Map</a>/Lean Change Approval<br>
-<a href="https://sara-sabr.github.io/ITStrategy/strategy-summary.html" target="_blank">Strategy Map</a>/Continuous Feedback Loops<br>
 <a href="https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html" target="_blank">GoC Digital Standards</a>/design with users<br>
 <a href="https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html" target="_blank">GoC Digital Standards</a>/iterate and improve frequently<br>
 <a href="https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards" target="_blank">GoC Architecture Standards</a>/Business Architecture<br>
