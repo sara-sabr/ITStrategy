@@ -75,6 +75,12 @@ Yet, the current principle when acquiring IT Solutions is to "Buy what we can, B
 The assumed reasoning behind this overarching principle is that by purchasing an IT Solution from a third party, risks and responsibilities of its operations are handled by a company who has more resources and technical expertise to produce and maintain software.
 
 This principle unfortunately is leading to an oversimplified approach that doesn't take into account that, as a government department, ESDC is subject to multiple and fast-paced changes, whether at the [legal, political, organizational or technological levels](https://www.canada.ca/en/employment-social-development/corporate/reports/departmental-plan/2020-2021.html#h2.2-3.2), that impacts its ability to deliver on its mandate.
+Acquiring IT Solutions and Products can be accomplished using various methods and the acquisition is only a small part of the actual work required to be able to operate and maintain said technology.
+Adopting existing third party solutions such as community based open source software, or sometimes free software-as-a-service (SaaS), is an option often overlooked because of the lack of contractual support, warranties, indemnifications, etc.
+But those extra services are not part of the actual software, they are services that the government representatives have become used to bundle as part of the rights to use the software.
+They can be acquired in other ways.
+By cementing all these extra services and agreements together with the rights to use a software, the organization locks itself in long term contractual obligations as well as with proprietary technologies and formats, making it very hard to course correct rapidly when required afterwards.
+
 As such, it is critical for the organization to ensure that core to mandate or complex IT Solutions remain highly flexible and adaptable to adjust to the pressing changes while also minimizing the risk of those changes by adopting loosely coupled architectures and smaller sized work packages (see [Target Solution Delivery Model](strategy-target-solution-delivery-model.html) for proposed ways to support such an approach).
 
 This strategy proposes moving ESDC to the point where all stakeholders understand that IT Solutions are complex and investment decisions have to be taken with flexibility, interchangeability, and interoperability in mind **throughout the entire lifecycle** of an IT Solution, not only at the initial stage.
