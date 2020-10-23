@@ -6,8 +6,8 @@ lang: en
 status: posted
 sections: Strategies
 datatable-ids: t001
-version: 0.05
-date: "2020-09-23"
+version: 0.06
+date: "2020-10-22"
 permalink: /strategy-build-vs-buy.html
 ---
 <!-- markdownlint-disable MD033 -->
@@ -492,6 +492,7 @@ Note 2: Assumptions when reading this document
 | 0.03    | 2020-07-06     | Simplify set of guiding policy rules                                                                                                       |
 | 0.04    | 2020-07-17     | Add Assumptions to notes, clarify Appendix A - Business Case, Dispose of first round of comments                                           |
 | 0.05    | 2020-07-29     | Dispose v0.04 feedback, simplify rules, address duplication of content, realign strategy with Enterprise Architecture Mandatory Procedures, Clarify lead vs stakeholder on actions |
+| 0.06    | 2020-07-29 | Dispose v0.05 feedback from Enterprise Architecture teams, clarify guiding policies, add actions items |
 
 ## Appendix F - References
 
