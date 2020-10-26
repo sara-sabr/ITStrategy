@@ -78,7 +78,9 @@ x * [some percentage of productivity lost]
 Or, to be more succinct, we can replace [some percentage of productivity lost] with *l*.
 Then we will have
 
+<!-- markdownlint-disable MD037 -->
 x * *l*, where *l* is the amount of time spent per day on improving.
+<!-- markdownlint-enable MD037 -->
 
 With this addition, we have
 
