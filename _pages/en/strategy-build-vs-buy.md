@@ -179,10 +179,10 @@ Specific to acquisition of new or enhancements to IT Solutions and IT Products:
 - Building
   - Increased ratio of internally built projects released as OSS
 - Applicable to all scenarios
-  - Increased number of decoupled IT Solutions and IT Products
+  - Increased ratio of decoupled IT Solutions and IT Products compared to baseline
   - Increased number of APIs accessible for reuse throughout ESDC IT Solutions and IT Products
   - Increased number of IT Solutions and Products migrated to and operated on cloud environments (Cloud First Strategy)
-  - Increased speed and flexibility for software changes deployed to productions for IT Solutions and IT Products (see )
+  - Increased speed and flexibility for software changes deployed to productions for IT Solutions and IT Products (see Target Solution Delivery Model)
 
 ## Appendix A - Business Case (Diagnostic)
 
