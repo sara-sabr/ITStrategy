@@ -49,7 +49,7 @@ Si ça sonnait un peu mathématique ou jargon, on va l'expliquer plus en détail
 
 Si nous traçons f(x) = x nous obtiendrons une ligne comme suit
 
-![Cette image est un graphique linéaire qui permet de suivre le nombre d'unités produites sur des périodes courtes et longues. Le graphique avec un axe x allant de 0 à 6 et un axe y allant de 0 à 6.  Il fournit l'axe Y comme unités produites et l'axe X comme temps.  Il y a une ligne droite rouge sur le graphique qui commence au point 0 et va jusqu'au point x=6, y=6. Le graphique avec la ligne droite montre que plus x augmente, plus y augmente régulièrement.]({{ site.baseurl }}/assets/images/graphx.PNG)
+![Cette image est celle d'un graphique linéaire. Elle a un axe x allant de 0 à 6 et un axe y allant de 0 à 6. Il y a une ligne droite rouge sur le graphique qui commence au point 0,0 et va jusqu'au point x=6, y=6]({{ site.baseurl }}/assets/images/graphx.PNG)
 
 Nous définissons l'axe des y (l'axe vertical) comme étant l'unité totale de la valeur d'affaires produite, et l'axe des x comme étant l'axe du temps.
 La ligne représente alors le total des unités de la valeur d'affaires produites sur une certaine unité de temps.
@@ -71,7 +71,7 @@ f(x) = x<sup>2</sup>
 
 ![Cette image est un graphique linéaire représentant la fonction f(x) = x^2.
 Il a un axe X allant de 0 à 4 et un axe Y allant de 0 à 8.
-Il y a une ligne rouge sur le graphique qui commence à (0,0) et monte exponentiellement jusqu'à (2,83, 8)]({{ site.baseurl }}/assets/images/drawgraphx2.PNG)
+Il y a une ligne rouge courbe sur le graphique qui commence à (0,0) et monte exponentiellement jusqu'à (2,83, 8)]({{ site.baseurl }}/assets/images/drawgraphx2.PNG)
 
 La chose la plus évidente que nous remarquons est que la fonction exponentielle croît beaucoup plus vite.
 On peut toutefois exposer le fait qu'il y a une perte initiale de productivité si l'on passe du temps à s'améliorer plutôt qu'à *faire son travail*, alors nous devons le prendre en compte.
@@ -99,7 +99,7 @@ Supposons que nous avons consacré 20 % de notre journée à l'amélioration con
 Et qu'Ensuite, nous perdons 20 % de notre productivité par mois.
 
 ![Cette image est un graphique linéaire représentant la fonction f(x) = x2 - (x*l) avec un axe X allant de -2 à 2 et un axe Y allant de 0 à 6.25.
-Il y a une ligne rouge sur le graphique qui commence à (0,0) et augmente exponentiellement jusqu'à environ (2.25, 6.25)]({{ site.baseurl }}/assets/images/graphx2minusxl.PNG)
+Il y a une ligne rouge courbe sur le graphique qui commence à (0,0) et augmente exponentiellement jusqu'à environ (2.25, 6.25)]({{ site.baseurl }}/assets/images/graphx2minusxl.PNG)
 
 Remarquez en bas que la courbe s'aplatit légèrement.
 Cette baisse de productivité est toujours présente puisque x (le temps) augmente.
@@ -164,7 +164,7 @@ f(x) = x<sup>1.1</sup> - (x*.2)
 Et si nous traçons ce graphique, nous obtenons la courbe suivante
 
 ![Cette image est un graphique linéaire représentant la fonction f(x) = x^(1.1) - (x*.2) avec un axe X allant de -5 à 25 et un axe Y allant de 0 à 30.
-Il y a une ligne rouge sur le graphique qui commence à (0,0) et augmente exponentiellement jusqu'à environ (25, 29.5)]({{ site.baseurl }}/assets/images/fullfunction.PNG)
+Il y a une ligne rouge droite sur le graphique qui commence à (0,0) et augmente exponentiellement jusqu'à environ (25, 29.5)]({{ site.baseurl }}/assets/images/fullfunction.PNG)
 
 Super!
 Quelle est la prochaine étape?
