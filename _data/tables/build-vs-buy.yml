@@ -144,12 +144,12 @@
         list: false
         fr: 
         en: |
-          Produce an IT Solution Risk Assessment Framework that favours and incentivizes flexible and interoperable IT solutions, service oriented architecture, and reusable IT Products as components. This is required in order to support the organization in adapting itself to continuous fast-paced from various levels such as, but not limited to, political, legal, organizational, technological, geolocation, and social.
+          Produce an IT Solution Risk Assessment Framework that favours and incentivizes flexible and interoperable IT solutions, service-oriented architecture, and reusable IT Products as components. This is required in order to support the organization in adapting itself to continuous fast-paced from various levels such as, but not limited to, political, legal, organizational, technological, geolocation, and social.
           <br>
           The Framework should also increase the level of IT Solutions using Open Standards over Proprietary ones and include two critical aspects:
           <br>
-          <br>- 1)	Doing the right things - delivering value and contributing to realization of departmental / GC outcomes
-          <br>- 2)	Doing it right way – aligning to the business and IT standards, guard rails, etc.
+          <br>- 1)  Doing the right things – delivering value and contributing to realization of departmental / GC outcomes
+          <br>- 2)  Doing it the right way – aligning to the business and IT standards, guardrails, etc.
           <br><br>
           ESDC Business Capability Model should be leveraged to help define IT Solution concept boundaries.<br>
           The IT Solution Risk Assessment Framework should also take in the internal IT operations as one of the critical dimensions to consider when assessing the risk to the organization.
@@ -212,8 +212,8 @@
           <br><br>
           The Framework should also increase the level of IT Products using Open Standards over Proprietary ones and include two critical aspects:
           <br>
-          <br>- 1)	Doing the right things - delivering value and contributing to realization of departmental / GC outcomes
-          <br>- 2)	Doing it right way – aligning to the business and IT standards, guard rails, etc.
+          <br>- 1)  Doing the right things – delivering value and contributing to realization of departmental / GC outcomes
+          <br>- 2)  Doing it the right way – aligning to the business and IT standards, guardrails, etc.
           The IT Product Risk Assessment Framework should also take in the internal IT operations as one of the critical dimensions to consider when assessing the risk to the organization.
     - col:
       data:
@@ -444,7 +444,7 @@
         list: false
         fr: 
         en: |
-            Produce an ESDC Software Legal Terms Guidance to support the adoption of OSS, help manage the legal complexities of Cloud subscriptions and support teams in assessing the shared risk and responsibilities 
+            Produce an ESDC Software Legal Terms Guidance to support the adoption of OSS, help manage the legal complexities of Cloud subscriptions and support teams in assessing the shared risk and responsibilities. 
     - col:
       data:
         list: false
