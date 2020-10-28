@@ -188,23 +188,20 @@ Stakeholders are expected to still comply with existing policy instruments inclu
 
 The following are actions that needs to be performed in order to make the Target IT Solution Delivery Model operational.
 
-The **Stakeholders** column represent the stakeholders that will participate in the execution of the action.
-The first Stakeholder in the list, in ***bold and italic***, is the Office of Primary Interest (OPI) is responsible to oversee its execution.
-For example, the action “Adjust IITB SDLC” is expected to involve the BPMO and Senior Advisors stakeholders, with BPMO taking the lead to coordinate and execute this action
-
 <table>
   <tr>
-    <th>Outcome</th>
+    <th>Policy Category</th>
     <th>Action</th>
     <th>Description</th>
-    <th>Stakeholders</th>
+    <th>Lead</th>
+    <th>Contributor(s)</th>
   </tr>
   <tr>
     <td rowspan="8"><b>Governance</b></td>
     <td>Review IT Project Governance decision chain</td>
     <td>Review terms of reference of Governance committees involved in the IT Project PMLC and propose recommendations to allow the Target Delivery Model to be used</td>
+    <td><b><i>IITB Governance</i></b></td>
     <td>
-      <b><i>IITB Governance</i></b><br>
       DGPOC<br>
       OCMC<br>
       ARC<br>
@@ -218,16 +215,16 @@ For example, the action “Adjust IITB SDLC” is expected to involve the BPMO a
   <tr>
     <td>Adjust IITB SDLC</td>
     <td>Adjust IITB’s SDLC to include an option for the Target IT Solution Delivery Model</td>
-    <td>
-    <b><i>BPMO</i></b><br>
-    Senior Advisors
-    </td>
+    <td><b><i>BPMO</i></b></td>
+    <td>Senior Advisors</td>
   </tr>
   <tr>
     <td>Review IT Project intake process</td>
     <td>Review IT Project intake processes and stakeholders involved to adjust them for recognizing and allowing the Target IT Solution Delivery Model</td>
     <td>
-      <b><i>ITSM</i></b><br>
+      <b><i>ITSM</i></b>
+    </td>
+    <td>
       BPMO<br>
       BRM<br>
       EA
@@ -239,8 +236,10 @@ For example, the action “Adjust IITB SDLC” is expected to involve the BPMO a
     Produce a guidance document to help decision makers (e.g. DGPOC) in identifying projects that may be allowed to deviate from this Target IT Solution Delivery Model. The guidance document would be a checklist of criteria a project needs to  seek exception.
     </td>
     <td>
-    <b><i>IT Strategy</i></b><br>
-    BPMO<br>
+    <b><i>BPMO</i></b>
+    </td>
+    <td>
+    IT Strategy<br>
     EA<br>
     BRM<br>
     Senior Advisors<br>
@@ -251,7 +250,9 @@ For example, the action “Adjust IITB SDLC” is expected to involve the BPMO a
     <td>IITB Agile Governance Framework</td>
     <td>Produce a standard framework for governing IT Projects under the Target IT Solution Delivery Model. A standard framework is needed to reduce confusion, ensure coherence between teams, and ensure governance remains lightweight in order to provide space for agility.</td>
     <td>
-    <b><i>BPMO</i></b><br>
+    <b><i>BPMO</i></b>
+    </td>
+    <td>
     Senior Advisors<br>
     EA<br>
     BRM<br>
@@ -262,18 +263,22 @@ For example, the action “Adjust IITB SDLC” is expected to involve the BPMO a
     <td>Produce a Policy guidance document</td>
     <td>Produce a guidance document as a supporting material to the Target IT Solution Delivery Model guiding policy to demonstrate what it looks like, and how teams being part in it can ensure their compliance to it</td>
     <td>
-    <b><i>IT Strategy</i></b><br>
+    <b><i>IT Strategy</i></b>
+    </td>
+    <td>
   BPMO<br>
   CCoE<br>
   Senior Advisors
     </td>
   </tr>
   <tr>
-    <td>Produce a standard definition for _IT Product_ and _IT Solution_</td>
+    <td>Produce a standard definition for <i>IT Product</i> and <i>IT Solution</i></td>
     <td>Produce a standard definition for the terms IT Product and IT Solutions to avoid confusion between stakeholders.
     </td>
     <td>
-    <b><i>IT Strategy</i></b><br>
+    <b><i>TSDM Change Mgt team</i></b>
+    </td>
+    <td>
   Enterprise Architecture<br>
   Technical Architecture<br>
   TSWG<br>
@@ -287,7 +292,9 @@ For example, the action “Adjust IITB SDLC” is expected to involve the BPMO a
 <a href="{{ site.baseurl }}/assets/files/standard-devops-team-definition.docx">Draft copy (main document on Office 365 available to ESDC staff)</a>.
 </td>
     <td>
-    <b><i>IT Strategy</i></b><br>
+    <b><i>TSDM Change Mgt team</i></b>
+    </td>
+    <td>
   BPMO<br>
   CCoE<br>
   Senior Advisors<br>
@@ -301,7 +308,9 @@ For example, the action “Adjust IITB SDLC” is expected to involve the BPMO a
     <td>Produce Target SA&A Process</td>
     <td>Produce a Target SA&A Process that favours and incentivize DevOps automation capabilities, test results, and product evolution.</td>
     <td>
-    <b><i>IT Security</i></b><br>
+    <b><i>IT Security</i></b>
+    </td>
+    <td>
     IITB Compliance unit<br>
     Senior Advisors
     </td>
@@ -312,7 +321,9 @@ For example, the action “Adjust IITB SDLC” is expected to involve the BPMO a
 Audit processes in scope include internal ESDC Audit, not External auditing entities
 </td>
     <td>
-    <b><i>IAERMB</i></b><Br>
+    <b><i>IAERMB</i></b>
+    </td>
+    <td>
     IITB Compliance Unit<br>
     Senior Advisors
     </td>
@@ -321,7 +332,9 @@ Audit processes in scope include internal ESDC Audit, not External auditing enti
     <td>Produce Target Accessibility assessment process</td>
     <td>Produce a Target Accessibility Process that favours and incentivize DevOps automation capabilities, test results, and product evolution.</td>
     <td>
-    <b><i>Accessibility</i></b><br>
+    <b><i>Accessibility</i></b>
+    </td>
+    <td>
     BPMO<br>
     Senior Advisors
     </td>
@@ -332,7 +345,9 @@ Audit processes in scope include internal ESDC Audit, not External auditing enti
 Provide standards on acceptable thresholds for automating application releases between environments (up to, and including, production)
 </td>
     <td>
-    <b><i>IT Strategy</i></b><br>
+    <b><i>TSDM Change Mgt team</i></b>
+    </td>
+    <td>
 IT Security<Br>
 Accessibility<br>
 Testing Services<br>
@@ -347,7 +362,10 @@ Senior Advisors
     Technical debt is a stakeholder because they are working on an evergreen funding model.
     </td>
     <td>
-    <b><i>IT Strategy</i></b><br>
+    <b><i>TSDM Change Mgt team</i></b>
+    </td>
+    <td>
+    IITB Finance Management<br>
     CFOB<br>
     EPMO<br>
     Technical Debt<br>
@@ -358,7 +376,9 @@ Senior Advisors
     <td>Officialise approach to track efforts and financials</td>
     <td>Produce approach to track efforts and financials spent on operational support activities VS changes / enhancements. Part of the IT Products funding model</td>
     <Td>
-    <b><i>IT Strategy</i></b><br>
+    <b><i>TSDM Change Mgt team</i></b>
+    </td>
+    <td>
     BPMO<br>
     CFOB<br>
     Technical Debt
@@ -370,13 +390,16 @@ Senior Advisors
     <td>
     <b><i>CCoE</i></b>
     </td>
+    <td>IITB Finance Management</td>
   </tr>
   <tr>
     <td rowspan="5"><b>Architecture</b></td>
     <td>Review technical brick process</td>
     <td>Review technical bricks management process to allow IT Products teams to adopt non-standard technical stacks in addition to recommending emerging standards. Evaluate conditions and responsibilities of stakeholders regarding non-standard technical stacks, as well as where the needs for approval are warranted.</td>
     <td>
-    <b><i>Technical Architecture</i></b><br>
+    <b><i>Technical Architecture</i></b>
+    </td>
+    <td>
     TSWG<br>
     CCoE<br>
     OCMC<br>
@@ -391,7 +414,9 @@ Senior Advisors
 Provide standards that DevOps teams are expected to comply with when releasing secure APIs, such as data exchange formats, reference data model, security controls, and <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604">mandatory procedures for API Assessments</a> (Directive on Service and Digital).
 </td>
     <td>
-    <b><i>Interoperability</i></b><br>
+    <b><i>Interoperability</i></b>
+    </td>
+    <td>
     EA<br>
     Solutions Architecture<br>
     CDO
@@ -401,7 +426,9 @@ Provide standards that DevOps teams are expected to comply with when releasing s
     <td>Define Target Architecture Vision for Legacy Environments</td>
     <td>Define the target architecture vision for legacy environments to enable the transition towards BDM and the Target IT Solution Delivery Model. The Target Architecture Vision is to provide direction and set reasonable expectations for DevOps teams in a legacy environment. Its content is to provide a conceptual view of the layered architectures (presentation, integration, system/applications, information/data, networking, and security)</td>
     <td>
-    <b><i>Enterprise Architecture</i></b><br>
+    <b><i>Enterprise Architecture</i></b>
+    </td>
+    <td>
     Technical Debt<br>
     Solution Architecture<br>
     Technical Architecture
@@ -412,7 +439,9 @@ Provide standards that DevOps teams are expected to comply with when releasing s
     <td>Define expectations towards Technology Platform(s) that DevOps teams will leverage via APIs. The technology platform(s) will be re-usable IT Products dedicated to provide foundational capabilities for IT Solutions (IT solutions = multiple IT Products architected together). Technology Platform components are still expected to be supported by their own DevOps teams
 </td>
     <td>
-    <b><i>Technical Architecture</i></b><br>
+    <b><i>Technical Architecture</i></b>
+    </td>
+    <td>
     Solution Architecture<br>
     CCoE<br>
     IT Security<br>
@@ -424,7 +453,9 @@ Provide standards that DevOps teams are expected to comply with when releasing s
     <td>Produce Loose Coupling architecture guidance</td>
     <td>Produce a guidance document to clarify and guide Architects in building IT solutions making use of loose coupling architecture principles that provide IT Product teams more autonomy (e.g. Micro-Services, <a href="https://12factor.net/">12-factor app</a>) while adhering to data management expectations.</td>
     <td>
-    <b><i>Solution Architecture</i></b><br>
+    <b><i>Solution Architecture</i></b>
+    </td>
+    <td>
     DAS<br>
     CDO
     </td>
@@ -434,8 +465,9 @@ Provide standards that DevOps teams are expected to comply with when releasing s
     <td>Produce a team lending model</td>
     <td>Engage with the Resource Centre to provide an alternative means to deploy resources to projects, one that favours dedicated multi-disciplinary small teams over individuals, as well as producing enabling teams responsible to accelerate other teams transition towards DevOps (see definition of “DevOps team” and the different types of teams)</td>
     <td>
-    <b><i>IT Strategy</i></b><br>
-    Resource Centre<br>
+    <b><i>Resource Centre</i></b>
+    </td>
+    <td>
     Senior Advisors<br>
     DTS
     </td>
@@ -444,7 +476,9 @@ Provide standards that DevOps teams are expected to comply with when releasing s
     <td>Create a matrix-based resource pool model</td>
     <td>Create a model where specialized resources, Champions or SMEs, can be deployed in DevOps teams</td>
     <Td>
-    <b><i>IT Strategy</i></b><br>
+    <b><i>TSDM Change Mgt team</i></b>
+    </td>
+    <td>
     Resource Centre<br>
     IT Security<br>
     Accessibility<br>
@@ -457,7 +491,9 @@ Provide standards that DevOps teams are expected to comply with when releasing s
     <td>Get endorsement from SSC</td>
     <td>Engage with SSC to get their endorsement in allowing access to deploy directly in production (on premise deployment model)</td>
     <td>
-    <b><i>IT Strategy</i></b><br>
+    <b><i>TSDM Change Mgt team</i></b>
+    </td>
+    <td>
     IT Security<br>
     SSC
     </td>
@@ -466,7 +502,10 @@ Provide standards that DevOps teams are expected to comply with when releasing s
     <td>Create DevOps CoE</td>
     <td>Create a DevOps CoE team responsible to implement the Solution Delivery Model within IITB, supporting teams across the branch in achieving same day deployments.</td>
     <td>
-    <b><i>IT Research &amp; Prototype</i></b><br>
+    <b><i>TSDM Change Mgt team</i></b>
+    </td>
+    <td>
+IT Research &amp; Prototype<br>
 CCoE<br>
 IITB Senior Advisors<br>
 IT Strategy<br>
@@ -479,7 +518,9 @@ TSWG
     <td>Produce DevOps ConOps guidelines</td>
     <td>Produce a DevOps ConOps guidelines, including release processes and standards, on releasing code from commit to production (e.g. pre-prod environment, blue-green model)</td>
     <td>
-    <B><i>DevOps CoE</i></b><br>
+    <B><i>DevOps CoE</i></b>
+    </td>
+    <td>
 IITB Senior Advisors<br>
 IT Security<br>
 BPMO
@@ -488,7 +529,9 @@ BPMO
     <td>Provide means for DevOps teams to experiment with new tools</td>
     <td>Leverage the SAFER LAB, Virtual Desktop Image, and Technical Architecture standards to provide provide means for DevOps teams to install and try out new innovative tools for experimentation, with eventual rapid update in the Technical Bricks</td>
     <td>
-    <b><i>IT Strategy</i></b><br>
+    <b><i>IT Research &amp; Prototype</i></b>
+    </td>
+    <td>
 CCoE<Br>
 Research &amp; Prototype<br>
 IT Security<br>
@@ -873,6 +916,7 @@ In this strategy, it is expected to have IITB and CFOB work together for during 
 | PPOC    | Project Portfolio Operations Committee    |
 | PPPM    | Policy on Project and Program Management  |
 | PPRC    | Portfolio Review Committee                |
+| TSDM    | Target Solution Delivery Model            |
 | TSWG    | Technical Standards Working Group         |
 
 ## Inline references <!-- omit in toc -->
