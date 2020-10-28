@@ -164,7 +164,7 @@ f(x) = x<sup>1.1</sup> - (x*.2)
 Et si nous traçons ce graphique, nous obtenons la courbe suivante
 
 ![Cette image est un graphique linéaire représentant la fonction f(x) = x^(1.1) - (x*.2) avec un axe X allant de -5 à 25 et un axe Y allant de 0 à 30.
-Il y a une ligne rouge droite sur le graphique qui commence à (0,0) et augmente exponentiellement jusqu'à environ (25, 29.5)]({{ site.baseurl }}/assets/images/fullfunction.PNG)
+Il y a une ligne rouge droite sur le graphique qui commence à (0,0) et augmente exponentiellement jusqu'à environ (25, 29.5). Deux lignes se croisent sur le (5.2, 5.2)]({{ site.baseurl }}/assets/images/fullfunction.PNG)
 
 Super!
 Quelle est la prochaine étape?
