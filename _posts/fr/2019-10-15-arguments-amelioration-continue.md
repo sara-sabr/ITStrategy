@@ -52,8 +52,8 @@ Si nous traçons f(x) = x nous obtiendrons une ligne comme suit
 ![Cette image est celle d'un graphique linéaire. Elle a un axe x allant de 0 à 6 et un axe y allant de 0 à 6. Il y a une ligne droite rouge sur le graphique qui commence au point 0,0 et va jusqu'au point x=6, y=6]({{ site.baseurl }}/assets/images/graphx.PNG)
 
 Nous définissons l'axe des y (l'axe vertical) comme étant l'unité totale de la valeur d'affaires produite, et l'axe des x comme étant l'axe du temps.
-La ligne représente alors le total des unités de la valeur d'affaires produites sur une certaine unité de temps.
-Pour les besoins de cet exemple, disons que chaque augmentation de x est d'un mois.
+La ligne représente alors le total des unités de la valeur d'affaires produites sur une certaine unité de temps.  
+Pour les besoins de cet exemple, disons que chaque augmentation de x est d'un mois.  
 
 Cette ligne suppose que, semaine après semaine, l'équipe continue à faire son travail "comme d'habitude", ou la fameuse approche "nous l'avons toujours fait comme ça".
 Avec cette approche, l'équipe produira (en moyenne) les mêmes unités de valeur d'affaires chaque semaine.
