@@ -21,7 +21,7 @@ permalink: /strategy-build-vs-buy.html
 </div>
 
 <!-- markdownlint-disable MD001 -->
-##### Table of Content<!-- omit in toc -->
+##### Table of Content <!-- omit in toc -->
 <!-- markdownlint-enable MD001 -->
 - [Introduction](#introduction)
   - [Purpose](#purpose)
@@ -35,14 +35,10 @@ permalink: /strategy-build-vs-buy.html
 - [Coherent set of actions](#coherent-set-of-actions)
 - [Measuring the Strategy's success](#measuring-the-strategys-success)
 - [Appendix A - Business Case (Diagnostic)](#appendix-a---business-case-diagnostic)
-  - [Acquisition](#acquisition)
-  - [Operation](#operation)
-  - [End of Life](#end-of-life)
-  - [Other](#other)
 - [Appendix B - Traceability Matrix](#appendix-b---traceability-matrix)
+- [Appendix C - References](#appendix-c---references)
 - [Appendix D - Definitions](#appendix-d---definitions)
-- [Appendix E - Notes and Change Log](#appendix-e---notes-and-change-log)
-- [Appendix F - References](#appendix-f---references)
+- [Appendix E - Notes and Changelog](#appendix-e---notes-and-changelog)
 
 ## Introduction
 
@@ -76,10 +72,10 @@ The assumed reasoning behind this overarching principle is that by purchasing an
 
 This principle unfortunately is leading to an oversimplified approach that doesn't take into account that, as a government department, ESDC is subject to multiple and fast-paced changes, whether at the [legal, political, organizational or technological levels](https://www.canada.ca/en/employment-social-development/corporate/reports/departmental-plan/2020-2021.html#h2.2-3.2), that impacts its ability to deliver on its mandate.
 Acquiring IT Solutions and Products can be accomplished using various methods and the acquisition is only a small part of the actual work required to be able to operate and maintain said technology.
-Adopting existing third party solutions such as community based open source software, or sometimes free software-as-a-service (SaaS), is an option often overlooked because of the lack of contractual support, warranties, indemnifications, etc.
+Adopting existing third-party solutions such as community-based open source software, or sometimes free software-as-a-service (SaaS), is an option often overlooked because of the lack of contractual support, warranties, indemnifications, etc.
 But those extra services are not part of the actual software, they are services that the government representatives have become used to bundle as part of the rights to use the software.
 They can be acquired in other ways.
-By cementing all these extra services and agreements together with the rights to use a software, the organization locks itself in long term contractual obligations as well as with proprietary technologies and formats, making it very hard to course correct rapidly when required afterwards.
+By cementing all these extra services and agreements together with the rights to use a software, the organization locks itself in long-term contractual obligations as well as with proprietary technologies and formats, making it very hard to course correct rapidly when required afterwards.
 
 As such, it is critical for the organization to ensure that core to mandate or complex IT Solutions remain highly flexible and adaptable to adjust to the pressing changes while also minimizing the risk of those changes by adopting loosely coupled architectures and smaller sized work packages (see [Target Solution Delivery Model](strategy-target-solution-delivery-model.html) for proposed ways to support such an approach).
 
@@ -138,7 +134,7 @@ Stakeholders are expected to still comply with existing policy instruments inclu
 
 ### Architecture
 
-1. IT Solutions and IT products loose coupling boundaries are at intersection of value stream, value stage and business capability (ESDC Business Capability Model).
+1. IT Solutions and IT products loose coupling boundaries are at the intersection of value stream, value stage and business capability (ESDC Business Capability Model).
    - Duplication of IT Solutions or IT Products is supported as long as they are for different business capabilities.
    - Boundary of IT Solutions and IT Products are to be application capabilities so that they can enable business capabilities.
 2. IT Products are risk assessed for lock-in situations with the IT Products risk assessment framework (to be created - see [Coherent set of actions](#coherent-set-of-actions))
@@ -151,42 +147,49 @@ Stakeholders are expected to still comply with existing policy instruments inclu
 
 This Strategy's success will be measured by comparing the following metrics against the key elements of the GoC Mandatory Procedures for [Enterprise Architecture Assessments](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602) and on [Application Programming Interfaces](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604).
 
-Specific to Mandatory Procedures for Enterprise Architecture:
+### Specific to Enterprise Architecture Assessments <!-- omit in toc -->
 
-- Upcoming
+- _Upcoming_
 
-Specific to Mandatory Procedures for Application Programming Interface:
+### Specific to Application Programming Interfaces <!-- omit in toc -->
 
-- Upcoming
+- _Upcoming_
 
-Specific to acquisition of new or enhancements to IT Solutions and IT Products:
+### Specific to Acquisition of new or enhancements to IT Solutions and IT Products <!-- omit in toc -->
 
-- Adopting
-  - Increased ratio of open source software solutions and products used in production compared to purchased or internally developed ones.
-  - Increased contributions to third-party OSS projects instead of internally maintained changes.
-  - Decreased ratio of forked versions of third-party OSS unaligned with upstream or without contributions of changes.
-  - Increased number of contributions to ESDC OSS projects from the community.
-- Buying
-  - Decreased ratio of IT Solutions and IT Products in used in production by ESDC for which the department can not make software changes due to:
-    - Contract obligations with vendors
-    - Intellectual property limitations
-    - Proprietary and closed formats
-  - Decreased ratio of IT Solutions and IT Products for which the department can not choose a service integrator and/or a software maintainer other than the group that provides the software licence.
-  - Decreased use of IT Solutions and IT Products for which there are non-interoperable and exclusive:
-    - File formats
-    - Application Programming Interfaces
-    - Data exports
-- Building
-  - Increased ratio of internally built projects released as OSS
-- Applicable to all scenarios
-  - Increased ratio of decoupled IT Solutions and IT Products compared to baseline
-  - Increased number of APIs accessible for reuse throughout ESDC IT Solutions and IT Products
-  - Increased number of IT Solutions and Products migrated to and operated on cloud environments (Cloud First Strategy)
-  - Increased speed and flexibility for software changes deployed to productions for IT Solutions and IT Products (see Target Solution Delivery Model)
+#### Adopting <!-- omit in toc -->
+
+- Increased ratio of open source software solutions and products used in production compared to purchased or internally developed ones.
+- Increased contributions to third-party OSS projects instead of internally maintained changes.
+- Decreased ratio of forked versions of third-party OSS unaligned with upstream or without contributions of changes.
+- Increased number of contributions to ESDC OSS projects from the community.
+
+#### Buying <!-- omit in toc -->
+
+- Decreased ratio of IT Solutions and IT Products used in production by ESDC for which the department cannot make software changes due to:
+  - Contract obligations with vendors
+  - Intellectual property limitations
+  - Proprietary and closed formats
+- Decreased ratio of IT Solutions and IT Products for which the department cannot choose a service integrator and/or a software maintainer other than the group that provides the software licence.
+- Decreased use of IT Solutions and IT Products for which there are non-interoperable and exclusive:
+  - File formats
+  - Application Programming Interfaces
+  - Data exports
+
+#### Building <!-- omit in toc -->
+
+- Increased ratio of internally built projects released as OSS
+
+#### Applicable to all scenarios <!-- omit in toc -->
+
+- Increased ratio of decoupled IT Solutions and IT Products compared to baseline
+- Increased number of APIs accessible for reuse throughout ESDC IT Solutions and IT Products
+- Increased number of IT Solutions and Products migrated to and operated on cloud environments (Cloud First Strategy)
+- Increased speed and flexibility for software changes deployed to productions for IT Solutions and IT Products (see Target Solution Delivery Model)
 
 ## Appendix A - Business Case (Diagnostic)
 
-### Build vs Buy : Oversimplified Question<!-- omit in toc -->
+### Build vs Buy : Oversimplified Question <!-- omit in toc -->
 
 The creation of this strategy document stems from a request to help IITB decide whether it should prioritize buying an IT Solution over building one.
 
@@ -201,7 +204,7 @@ The model below explains, in a visual manner, these relationships.
 Description of the model:
 
 - An IT Solution is comprised of 1 or many IT component(s)
-- An IT component is comprised of 1 or many Software which can be either an open source software, a service subscription, a third-party COTS or a custom built one.
+- An IT component is comprised of 1 or many software which can be either an open source software, a service subscription, a third-party COTS or a custom-built one.
 - A Software is deployed on an infrastructure that can either be on premise (SSC Data Centres), on a public cloud provider's infrastructure (as a IaaS, PaaS, or SaaS model) or as a hybrid version that combines both on premise and public cloud provider.
 
 As such, the questions to ask are more akin to:
@@ -217,16 +220,16 @@ The organization's IT teams need to acquire, configure and adapt the purchased I
 
 Maintenance of IT Solutions should thus be considered separately from the acquired solution as it may require work from internal staff as well as the involvement of third-party personnel, whether it is a vendor or a community in the case of an open source software.
 
-### Contextual Factors<!-- omit in toc -->
+### Contextual Factors <!-- omit in toc -->
 
 It is important to consider various contextual factors when making decisions, e.g.:
 
 - Does the organization have the **skill set** and **capacity** to architect, design, build and operate this solution?
 - For a given option, what will be the required **profiles** of resources?
-E.g., building internally will need strong capacity in development and project management, while buying is more dependent on procurement, legal and vendor management.
+e.g., building internally will need strong capacity in development and project management, while buying is more dependent on procurement, legal and vendor management.
 One of option over the other does not necessarily equate to a grow or reduction in staff, sometimes it simply means an exchange in internal skills.
-- How can the decision aligns with the organization's **business strategies**?
-E.g., is the direction to further grow internal capacity or outsource some new initiatives to third party integrators? Is lead time for delivery of the solution an important factor?
+- How can the decision align with the organization's **business strategies**?
+e.g., is the direction to further grow internal capacity or outsource some new initiatives to third party integrators? Is lead time for delivery of the solution an important factor?
 
 However, this does not mean that the questions of the precedent section should not be asked subsequently.
 It is possible that the organization does not possess the staff with the required skill set or sufficient capacity to deliver internally the IT Solution at a specific point in time.
@@ -237,13 +240,13 @@ And, any solution designed, developed, and delivered by a third party should sti
 
 As such, if the organization is not in a position to design, build and operate the solution itself, the third party putting the solution together for the benefit of ESDC should have clear directives to align with our own architectural principles.
 
-### Additional Considerations<!-- omit in toc -->
+### Additional Considerations <!-- omit in toc -->
 
 - How much control is preferred over the **frequency of upgrades** or **technology obsolescence** of an option?
 - Do the components of a given option adhere to the organization's **technology standards**?
 - What level of **maturity** is sought for a given component?
 
-### Managing the Risks related to Acquiring Software<!-- omit in toc -->
+### Managing the Risks related to Acquiring Software <!-- omit in toc -->
 
 The Strategy looks at managing the risks related to acquiring software over following dogmatic rules to purchase or build software (e.g. "SaaS first" does not mean SaaS always, "Buy what we can" does not mean buying because it's available).
 Instead, the Strategy will use such policy instruments as intended by the policy author and its authority to inform decisions for long-term sustainability and user needs.
@@ -294,14 +297,14 @@ As well, other types of risks should be taken into account, e.g. related to:
 - **Intellectual Property** – Compliance with licencing requirements
 - **Third Party Viability** – Third party going out of business, or changing direction subsequent to a new ownership
 
-### Evaluating the Total Cost of Ownership<!-- omit in toc -->
+### Evaluating the Total Cost of Ownership <!-- omit in toc -->
 
 An assessment of the estimated Total Cost of Ownership of potential suitable options should be done to help guide acquisition decision-making.
 It is necessary to quantify and compare costs and it provides an opportunity to identify, explore and challenge any assumptions and biases.
 
 Here are some cost items that should be considered:
 
-### Acquisition
+### Acquisition <!-- omit in toc -->
 
 - Upfront evaluation
 - Decision and negotiation
@@ -311,10 +314,10 @@ Here are some cost items that should be considered:
 - Migration (data and users)
 - Training
 
-### Operation
+### Operation <!-- omit in toc -->
 
 - Use
-- Maintenance (e.g. Helpdesk, Service and software engineering, vendor relations)
+- Maintenance (e.g., Helpdesk, Service and software engineering, vendor relations)
 - Upgrades
 - Support services
 - Infrastructure
@@ -322,16 +325,16 @@ Here are some cost items that should be considered:
 - Customization, integration and development
 - Depreciation
 
-### End of Life
+### End of Life <!-- omit in toc -->
 
 - Disposal
 - Migration (data and users)
 
-### Other
+### Other<!-- omit in toc -->
 
-- Opportunity or compliance (e.g. missing a market opportunity, not complying with regulations, decreased customer satisfaction)
+- Opportunity or compliance (e.g., missing a market opportunity, not complying with regulations, decreased customer satisfaction)
 - Costs incurred with another party to ensure the ability to meet Service Level Agreement (SLA) targets
-- Unplanned (e.g. unanticipated expenditure through compliance auditing and under-licensing)
+- Unplanned (e.g., unanticipated expenditure through compliance auditing and underlicensing)
 
 It may not be possible to calculate exact figures for all of the items, and an assessment of high/medium/low may be more realistic.
 This should not pose a problem so long as the same criteria are used to evaluate all options within an acquisition.
@@ -339,7 +342,7 @@ This should not pose a problem so long as the same criteria are used to evaluate
 But remember, Value for Money is not solely concerned with the financial cost of a solution.
 The cheaper option may not always be the better one.
 
-### Conclusion<!-- omit in toc -->
+### Conclusion <!-- omit in toc -->
 
 With the exception of well-established software for generic or peripheral needs of the department, there is little distinction between build vs buy.
 The question becomes whether the organization could and should build it itself, or have someone else build it.
@@ -422,6 +425,10 @@ ESDC Technology Standards (aka Technical Bricks)<br>
 </tr>
 </table>
 
+## Appendix C - References
+
+[^1]: Pia Andrews, in [What improving IT procurement in the public sector looks like: navigating, balancing, and initiating procurement conversations to avoid sprinting off cliffs](https://www.themandarin.com.au/118548-improving-it-procurement-public-sector-navigating-balancing-initiating-procurement-conversations/), writes that many COTS implementations “require significant customization, configuration, integration, or modifications to actually implement a COTS product into production.”
+
 ## Appendix D - Definitions
 
 IT Solution
@@ -430,7 +437,7 @@ IT Solution
 IT Product
 : The combination of software, infrastructure, and their configuration.
 An IT Product is akin to an “application” as defined by the [Application Portfolio Management (APM)](https://www.gcpedia.gc.ca/wiki/OCIO_Application_Portfolio_Management) program.
-An IT Product may have one or many software (e.g. COTS, Open Source libraries, Open Source Software, Custom build software).
+An IT Product may have one or many software (e.g., COTS, open source libraries, open source software, custom-built software).
 Each of those software are deployed in one or many infrastructure (on premise, on the public cloud, or a combination of the two making it a hybrid deployment).
 For the scope of this Strategy, Operating Systems are NOT defined as IT products.
 Therefore should an IT Product depend on an Operating System to run in production, it is in compliance with this Guiding Policy.
@@ -438,7 +445,7 @@ Therefore should an IT Product depend on an Operating System to run in productio
 Adopt
 : A process by which the department acquires an IT Product that is made available and is in used at least once outside the organization.
 It may consist of Open Source Software, proprietary software, and XaaS, used as is, without code customization.
-(the inspiration for this definition is derived from the [US Department of Defence OSS FAQ](https://dodcio.defense.gov/Open-Source-Software-FAQ/#Q:_Is_open_source_software_commercial_software.3F_Is_it_COTS.3F) where they define OSS as COTS.)
+(the inspiration for this definition is derived from the [US Department of Defense OSS FAQ](https://dodcio.defense.gov/Open-Source-Software-FAQ/#Q:_Is_open_source_software_commercial_software.3F_Is_it_COTS.3F) where they define OSS as COTS.)
 
 Build
 : A process whereby the department produces, or contracts a third party to produce, custom code that is not part of any existing IT Product available and used outside the organization.
@@ -473,9 +480,9 @@ Closed COTS
 Open COTS
 : Commercial Off-The-Self (COTS) software where the source code for said product is [open source](#open-source-software).
 
-## Appendix E - Notes and Change Log
+## Appendix E - Notes and Changelog
 
-### Notes<!-- omit in toc -->
+### Notes <!-- omit in toc -->
 
 Note 1: This page will link to internal ESDC documents, which are unfortunately only accessible within ESDC corporate network.
 
@@ -486,17 +493,13 @@ Note 2: Assumptions when reading this document
 - A comprehensive enterprise view of services is available for all teams, business and IT alike
 - Service Oriented Architecture is well understood and applied across IITB
 
-### Change log<!-- omit in toc -->
+### Changelog <!-- omit in toc -->
 
 | Version | Date of Change | Change Description                                                                                                                         |
 |:------- | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| 0.01    | 2020-06-22     | First Draft, moved from working document to web page                                                                                       |
-| 0.02    | 2020-06-30     | Created list of guiding policy rules, Removed duplicate content, Created separate documents for context, Cleaned up definitions            |
-| 0.03    | 2020-07-06     | Simplify set of guiding policy rules                                                                                                       |
-| 0.04    | 2020-07-17     | Add Assumptions to notes, clarify Appendix A - Business Case, Dispose of first round of comments                                           |
-| 0.05    | 2020-07-29     | Dispose v0.04 feedback, simplify rules, address duplication of content, realign strategy with Enterprise Architecture Mandatory Procedures, Clarify lead vs stakeholder on actions |
-| 0.06    | 2020-07-29 | Dispose v0.05 feedback from Enterprise Architecture teams, clarify guiding policies, add actions items |
-
-## Appendix F - References
-
-[^1]: Pia Andrews, in [What improving IT procurement in the public sector looks like: navigating, balancing, and initiating procurement conversations to avoid sprinting off cliffs](https://www.themandarin.com.au/118548-improving-it-procurement-public-sector-navigating-balancing-initiating-procurement-conversations/), writes that many COTS implementations “require significant customization, configuration, integration, or modifications to actually implement a COTS product into production.”
+| 0.01 | 2020-06-22 | First Draft, moved from working document to web page |
+| 0.02 | 2020-06-30 | Created list of guiding policy rules, Removed duplicate content, Created separate documents for context, Cleaned up definitions |
+| 0.03 | 2020-07-06 | Simplify set of guiding policy rules |
+| 0.04 | 2020-07-17 | Add Assumptions to notes, clarify Appendix A - Business Case, Dispose of first round of comments |
+| 0.05 | 2020-07-29 | Dispose v0.04 feedback, simplify rules, address duplication of content, realign strategy with Enterprise Architecture Mandatory Procedures, Clarify lead vs stakeholder on actions |
+| 0.06 | 2020-07-29 | Dispose v0.05 feedback from Enterprise Architecture teams, clarify guiding policies, add actions items |
