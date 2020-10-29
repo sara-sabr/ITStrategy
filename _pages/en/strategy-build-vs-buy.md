@@ -120,7 +120,7 @@ Stakeholders are expected to still comply with existing policy instruments inclu
 
 ### Governance, Compliance, and Reporting
 
-1. IT Solutions are broken down into manageable parts (IT Products) in line with the the ESDC Business Capability Model, whichever is most relevant.
+1. IT Solutions are broken down into manageable parts (IT Products) in line with the the ESDC Business Capability Model or the GoC Business Capability Model, whichever is most relevant.
 2. IT Solutions are assessed against the IT Solutions Risk Assessment Framework (to be created - see [Coherent set of actions](#coherent-set-of-actions) and read [Managing the Risks of Acquiring of Software](#managing-the-risks-of-acquiring-of-software)).
    - Adoption of existing IT Solutions and IT Products, internal or external, are favoured over purchasing or building them, in line with their specific risk profile and total cost of ownership.
 3. IT Product / IT Solution maintenance and support may be done in-house or outsourced to a third-party vendor
