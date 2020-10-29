@@ -7,7 +7,7 @@ status: posted
 sections: Strategies
 datatable-ids: t001
 version: 0.06
-date: "2020-10-22"
+date: "2020-10-29"
 permalink: /strategy-build-vs-buy.html
 ---
 <!-- markdownlint-disable MD033 -->
