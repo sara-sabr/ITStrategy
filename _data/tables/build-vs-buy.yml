@@ -89,55 +89,6 @@
       data:
         list: false
         fr: 
-        en: Update Strategy based on upcoming revision of the Mandatory Procedures on EA and API 
-    - col:
-      data:
-        list: false
-        fr: 
-        en: |
-          Continuously update the strategy to align with the Mandatory procredures on Enterprise Architecture and Application Programming Interface Annexes of the Directive on Service and Digital.
-    - col:
-      data:
-        list: false
-        fr: <strong></strong>
-        en: |
-          <strong>IT Strategy</strong>
-    - col:
-      data:
-        list: true
-        items:
-        - item:
-            fr: 
-            en: |
-              <strong>Architecture Teams</strong>
-              <br>(Includes: Enterprise, Business, Data, Information, Solution, Technical, IT Security, and Security Architecture)     
-        - item:
-            fr:
-            en: Senior Application Development Advisors
-        - item:
-            fr:
-            en: IT Strategy
-        - item:
-            fr:
-            en: Technical Standards Working Group (TSWG)
-        - item:
-            fr:
-            en: ARC
-        - item:
-            fr:
-            en: EARB
-  - row:
-    headers: false
-    cols:
-    - col:
-      data:
-        list: false
-        fr: Gouvernance
-        en: Governance
-    - col:
-      data:
-        list: false
-        fr: 
         en: Produce IT Solution Risk Assessment Framework
     - col:
       data:
