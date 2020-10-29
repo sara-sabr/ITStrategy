@@ -334,7 +334,7 @@ Here are some cost items that should be considered:
 
 - Opportunity or compliance (e.g., missing a market opportunity, not complying with regulations, decreased customer satisfaction)
 - Costs incurred with another party to ensure the ability to meet Service Level Agreement (SLA) targets
-- Unplanned (e.g., unanticipated expenditure through compliance auditing and underlicensing)
+- Unplanned (e.g., unanticipated expenditure through compliance auditing and under provisioning of licences)
 
 It may not be possible to calculate exact figures for all of the items, and an assessment of high/medium/low may be more realistic.
 This should not pose a problem so long as the same criteria are used to evaluate all options within an acquisition.
