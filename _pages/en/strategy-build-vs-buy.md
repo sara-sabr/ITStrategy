@@ -70,20 +70,20 @@ Moving to the digital age requires improving IT's responsiveness and promoting a
 Yet, the current principle when acquiring IT Solutions is to "Buy what we can, Build what we must."
 The assumed reasoning behind this overarching principle is that by purchasing an IT Solution from a third party, risks and responsibilities of its operations are handled by a company who has more resources and technical expertise to produce and maintain software.
 
-This principle unfortunately is leading to an oversimplified approach that doesn't take into account that, as a government department, ESDC is subject to multiple and fast-paced changes, whether at the [legal, political, organizational or technological levels](https://www.canada.ca/en/employment-social-development/corporate/reports/departmental-plan/2020-2021.html#h2.2-3.2), that impacts its ability to deliver on its mandate.
+This principle is leading to an oversimplified approach that doesn't take into account that, as a government department, ESDC is subject to multiple and fast-paced changes, whether at the [legal, political, organizational or technological levels](https://www.canada.ca/en/employment-social-development/corporate/reports/departmental-plan/2020-2021.html#h2.2-3.2), that impacts its ability to deliver on its mandate.
 Acquiring IT Solutions and Products can be accomplished using various methods and the acquisition is only a small part of the actual work required to be able to operate and maintain said technology.
 Adopting existing third-party solutions such as community-based open source software, or sometimes free software-as-a-service (SaaS), is an option often overlooked because of the lack of contractual support, warranties, indemnifications, etc.
 But those extra services are not part of the actual software, they are services that the government representatives have become used to bundle as part of the rights to use the software.
 They can be acquired in other ways.
-By cementing all these extra services and agreements together with the rights to use a software, the organization locks itself in long-term contractual obligations as well as with proprietary technologies and formats, making it very hard to course correct rapidly when required afterwards.
+By cementing all these extra services and agreements together with the rights to use a software, the organization locks itself in long-term contractual obligations as well as with proprietary technologies and formats, making it very hard to course correct rapidly when required.
 
-As such, it is critical for the organization to ensure that core to mandate or complex IT Solutions remain highly flexible and adaptable to adjust to the pressing changes while also minimizing the risk of those changes by adopting loosely coupled architectures and smaller sized work packages (see [Target Solution Delivery Model](strategy-target-solution-delivery-model.html) for proposed ways to support such an approach).
+As such, it is critical for the organization to ensure that core-to-mandate or complex IT Solutions remain highly flexible and adaptable to adjust to the pressing changes while also minimizing the risk of those changes by adopting loosely coupled architectures and smaller sized work packages (see [Target Solution Delivery Model](strategy-target-solution-delivery-model.html) for proposed ways to support such an approach).
 
 This strategy proposes moving ESDC to the point where all stakeholders understand that IT Solutions are complex and investment decisions have to be taken with flexibility, interchangeability, and interoperability in mind **throughout the entire lifecycle** of an IT Solution, not only at the initial stage.
 
 This strategy complements existing IT initiatives (such as the [IITB Way Forward](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx)) as well as supports them with new activities (see [Coherent set of actions](#coherent-set-of-actions)).
 
-This strategy's goal is to clarify the application of the GoC Mandatory Procedures for [Enterprise Architecture Assessments](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602) and on [Application Programming Interfaces](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604) when acquiring new or enhancing existing IT Solutions and IT products within ESDC IITB context, and provide actions items to enable the adoption of this guiding policy.
+This strategy's goal is to clarify the application of the GoC Mandatory Procedures for [Enterprise Architecture Assessments](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602) and on [Application Programming Interfaces](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604) when acquiring new or enhancing existing IT Solutions and IT products within ESDC IITB context.
 
 More details in [Appendix A](#appendix-a---business-case-diagnostic).
 
@@ -159,7 +159,7 @@ This Strategy's success will be measured by comparing the following metrics agai
 
 #### Adopting <!-- omit in toc -->
 
-- Increased ratio of open source software solutions and products used in production compared to purchased or internally developed ones.
+- Increased ratio of open source software solutions and products used in production compared to purchased or internally developed ones that are not shareable and reusable.
 - Increased contributions to third-party OSS projects instead of internally maintained changes.
 - Decreased ratio of forked versions of third-party OSS unaligned with upstream or without contributions of changes.
 - Increased number of contributions to ESDC OSS projects from the community.
@@ -227,7 +227,7 @@ It is important to consider various contextual factors when making decisions, e.
 - Does the organization have the **skill set** and **capacity** to architect, design, build and operate this solution?
 - For a given option, what will be the required **profiles** of resources?
 e.g., building internally will need strong capacity in development and project management, while buying is more dependent on procurement, legal and vendor management.
-One of option over the other does not necessarily equate to a grow or reduction in staff, sometimes it simply means an exchange in internal skills.
+One option over the other does not necessarily equate to a grow or reduction in staff, sometimes it simply means an exchange in internal skills.
 - How can the decision align with the organization's **business strategies**?
 e.g., is the direction to further grow internal capacity or outsource some new initiatives to third party integrators? Is lead time for delivery of the solution an important factor?
 
@@ -432,7 +432,7 @@ ESDC Technology Standards (aka Technical Bricks)<br>
 ## Appendix D - Definitions
 
 IT Solution
-: An IT Solution is the combination of 1 or many IT Products, which are in turn comprised of 1 or many Software and/or Hardware, acquired through many possible ways: built internally, acquired as open source, provided by a company as an executable application under a proprietary licence, as a standalone device, or used as a service through a subscription model. (See the following standard IITB definition.)
+: An IT Solution is the combination of one or many IT Products, which are in turn comprised of one or many Software and/or Hardware, acquired through many possible ways: built internally, acquired as open source, provided by a company as an executable application under a proprietary licence, as a standalone device, or used as a service through a subscription model. (See the following standard IITB definition.)
 
 IT Product
 : The combination of software, infrastructure, and their configuration.
