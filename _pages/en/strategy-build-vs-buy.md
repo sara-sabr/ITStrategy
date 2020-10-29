@@ -183,7 +183,7 @@ This Strategy's success will be measured by comparing the following metrics agai
 #### Applicable to all scenarios <!-- omit in toc -->
 
 - Increased ratio of decoupled IT Solutions and IT Products compared to baseline
-- Increased number of APIs accessible for reuse throughout ESDC IT Solutions and IT Products
+- Increased number of APIs discoverable, and accessible, for reuse throughout ESDC IT Solutions and IT Products
 - Increased number of IT Solutions and Products migrated to and operated on cloud environments (Cloud First Strategy)
 - Increased speed and flexibility for software changes deployed to productions for IT Solutions and IT Products (see Target Solution Delivery Model)
 
