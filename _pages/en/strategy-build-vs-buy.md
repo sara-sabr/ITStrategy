@@ -59,7 +59,7 @@ The intent behind this strategy is to communicate a decision by the ESDC Chief I
 
 ### Targeted Stakeholders
 
-This **strategy document** is targeted to stakeholders involved in acquiring an IT Solution as an outcome of an initiative as defined in the Policy on Project and Programme Management (PPPM).
+This **strategy document** is targeted to stakeholders involved in acquiring an IT Solution to help fulfill outcomes of an IT-enabled initiative as defined in a Project or Programme Business Case.
 More specifically, stakeholders involved in architecting IT solutions, defining technology standards, developing, delivering, operationalizing and maintaining IT Solutions (such as Enterprise Architecture, Enterprise Operations, etc.) and guiding committees such as the Architecture Review Committee (ARC) and the Enterprise Architecture Review Board (EARB).
 This includes both IITB and non-IITB stakeholders such as, but not limited to, Business Functions, Strategic and Service Policy Branch (SSPB), Chief Data Officer (CDO), Integrity Service Branch (ISB), Internal Audit Services Branch (IASB), and Shared-Services Canada (SSC).
 The list of stakeholders are listed in the [Coherent set of actions](#coherent-set-of-actions) and are expected to participate in the execution stage of this strategy necessary to operationalize the Guiding Policy.
