@@ -276,7 +276,9 @@ The risk management for acquiring software is based on the following formula:
 >- Time lost (responsiveness)
 >- Legal implications
 
-![A graphic with 4 quadrants identifying relation between Probability of change and Impact on the Risk; as impact and probability of change increase, so does the risk and vice versa.](assets/images/strategy-build-buy-risk-quadrant.png){:height="50%" width="50%" style="display:block;margin-left:auto;margin-right:auto"}
+![A graphic with 4 quadrants identifying relation between Probability of change and Impact on the Risk.
+There are 2 axis: the horizontal axis is "Probability of change" with an arrow towards the right and the vertical axis is "Impact" with an arrow towards the top.
+The quadrants titles are: top left "Medium"; top right "High"; bottom left "Low"; bottom right "Medium".](assets/images/strategy-build-buy-risk-quadrant.png){:height="50%" width="50%" style="display:block;margin-left:auto;margin-right:auto"}
 
 Another link could be made to assess the risk in relation to the probability of change: the complexity of a solution.
 In other words, the less static the needs are then the higher the chances are that unaccounted changes will become requirements in the future, thus increasing the risks to the organization.
