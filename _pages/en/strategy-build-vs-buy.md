@@ -199,7 +199,15 @@ An IT solution is by default built, whether by a single person, multiple teams o
 
 The model below explains, in a visual manner, these relationships.
 
-![An UML diagram representing the hierarchical relation of an IT Solution and its components.](assets/images/strategy-build-buy-uml-it-solution.png){:height="100%" width="100%"}
+![An UML diagram representing the hierarchical relation of an IT Solution and its components.
+There are 5 rectangles on the diagram connected by relationship lines.
+The first rectangle to the left is titled "IT Solution".
+It is connected to a second rectangle, titled "IT Product", located on its right by a relationship line; the end of the line starting from the "IT Solution" rectangle has a "1" and the other end has "1...*" and a small white diamond.
+The "IT Product" rectangle is connected to a third rectangle, titled "Software", located on its right by a relationship line; the end of the line starting from the "IT Product" rectangle has a "1" and the other end has a "1...*" and a small white diamond.
+The "Software" rectangle has two relationships connections.
+The first connection is to a rectangle, titled "Configuration", located below the "Software" rectangle; the end of the line starting from the "Software" rectangle has a "1" and the other end has a "1...*" and a small black diamond.
+The second connection is to another rectangle, titled "Infrastructure", located to the right of the "Software" rectangle; the end of the line starting from the "Software" rectangle has a "1" and the other end has a "1...*" and a small white diamond.
+There is one last connection, linking the "Infrastructure" and "Configuration" rectangles; the end of the line starting from the "Infrastructure" rectangle has a "1" and the other end has a "1...*" and a small black diamond.](assets/images/strategy-build-buy-uml-it-solution.png){:height="100%" width="100%"}
 
 Description of the model:
 
