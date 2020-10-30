@@ -290,7 +290,7 @@ Based on the risk level, ESDC will adjust its decisions around acquiring softwar
 Risk levels are heavily influenced by the capability being enabled by software.
 The following diagram helps visualize how this risk level varies according with the type of capabilities:
 
-![A 3-layered circle with an arrow pointing from the outmost circle crossing all the way towards the middle circle.
+![A 3-layered circle with an arrow pointing from the external circle crossing all the way towards the internal circle.
 The external circle is called "Productivity", the middle circle is called "Corporate or Shared" and the internal circle is called "Core to Mandate"](assets/images/strategy-build-buy-risk-circle.png){:height="50%" width="50%" style="display:block;margin-left:auto;margin-right:auto"}
 
 **Productivity** capabilities, such as collaboration tools, image editing and word processing present low risks to ESDC due to their commodity in the market, low change probability, and being at the perimeter of ESDC’s core mandate reducing their impact to the organization.
