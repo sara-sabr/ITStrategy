@@ -818,7 +818,8 @@ Organizing portfolios around development value streams enables visualizing the f
 An IT solution is a combination of one or more IT Products.
 It produces the environment within which end-users operates.
 
-![How IT Solutions, IT Products, software, and infrastructure relate to each other]({{ site.baseurl }}/assets/images/itsolution-itproduct-model.png)
+![Below is a flowchart with five elements connected to each other.  The flowchart has the following elements displayed in the box: IT Solution, IT Component, Software, Infractructure. The flow goes from left to right and connects those elements with an arror. The Configuration element is located below the Software and Infrastructure elements, the latters are pointing to it from both sides. ]({{ site.baseurl }}/assets/images/itsolution-itproduct-model.png)
+Figure 1:
 
 **IT Product**
 
@@ -833,7 +834,8 @@ A working IT Product must be able to be used by end-users and provide DevOps tea
 For the scope of this Strategy, Operating Systems are NOT defined as IT products.
 Therefore should an IT Product depend on an Operating System to run in production, it is compliance with this Guiding Policy.
 
-![How IT Solutions, IT Products, software, and infrastructure relate to each other]({{ site.baseurl }}/assets/images/itsolution-itproduct-model.png)
+![Below is a flowchart with five elements connected to each other.  The flowchart has the following elements displayed in the box: IT Solution, IT Component, Software, Infractructure. The flow goes from left to right and connects those elements with an arror. The Configuration element is located below the Software and Infrastructure elements, the latters are pointing to it from both sides.]({{ site.baseurl }}/assets/images/itsolution-itproduct-model.png)
+Figure 2:
 
 **IT Project**
 
