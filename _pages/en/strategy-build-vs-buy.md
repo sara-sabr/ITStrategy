@@ -199,7 +199,15 @@ An IT solution is by default built, whether by a single person, multiple teams o
 
 The model below explains, in a visual manner, these relationships.
 
-![An UML diagram representing the hierarchical relation of an IT Solution and its components.](assets/images/strategy-build-buy-uml-it-solution.png){:height="100%" width="100%"}
+![An UML diagram representing the hierarchical relation of an IT Solution and its components.
+There are 5 rectangles on the diagram connected by relationship lines.
+The first rectangle to the left is titled "IT Solution".
+It is connected to a second rectangle, titled "IT Product", located on its right by a relationship line; the end of the line starting from the "IT Solution" rectangle has a "1" and the other end has "1...*" and a small white diamond.
+The "IT Product" rectangle is connected to a third rectangle, titled "Software", located on its right by a relationship line; the end of the line starting from the "IT Product" rectangle has a "1" and the other end has a "1...*" and a small white diamond.
+The "Software" rectangle has two relationships connections.
+The first connection is to a rectangle, titled "Configuration", located below the "Software" rectangle; the end of the line starting from the "Software" rectangle has a "1" and the other end has a "1...*" and a small black diamond.
+The second connection is to another rectangle, titled "Infrastructure", located to the right of the "Software" rectangle; the end of the line starting from the "Software" rectangle has a "1" and the other end has a "1...*" and a small white diamond.
+There is one last connection, linking the "Infrastructure" and "Configuration" rectangles; the end of the line starting from the "Infrastructure" rectangle has a "1" and the other end has a "1...*" and a small black diamond.](assets/images/strategy-build-buy-uml-it-solution.png){:height="100%" width="100%"}
 
 Description of the model:
 
@@ -268,7 +276,9 @@ The risk management for acquiring software is based on the following formula:
 >- Time lost (responsiveness)
 >- Legal implications
 
-![A graphic with 4 quadrants identifying relation between Probability of change and Impact on the Risk; as impact and probability of change increase, so does the risk and vice versa.](assets/images/strategy-build-buy-risk-quadrant.png){:height="50%" width="50%" style="display:block;margin-left:auto;margin-right:auto"}
+![A graphic with 4 quadrants identifying relation between Probability of change and Impact on the Risk.
+There are 2 axis: the horizontal axis is "Probability of change" with an arrow towards the right and the vertical axis is "Impact" with an arrow towards the top.
+The quadrants titles are: top left "Medium"; top right "High"; bottom left "Low"; bottom right "Medium".](assets/images/strategy-build-buy-risk-quadrant.png){:height="50%" width="50%" style="display:block;margin-left:auto;margin-right:auto"}
 
 Another link could be made to assess the risk in relation to the probability of change: the complexity of a solution.
 In other words, the less static the needs are then the higher the chances are that unaccounted changes will become requirements in the future, thus increasing the risks to the organization.
@@ -280,7 +290,9 @@ Based on the risk level, ESDC will adjust its decisions around acquiring softwar
 Risk levels are heavily influenced by the capability being enabled by software.
 The following diagram helps visualize how this risk level varies according with the type of capabilities:
 
-![A 3-layered circle showing that risk increases from exterior to interior circles, the most exterior one being Productivity, the middle one being Corporate or Shared, and the innermost being Core to Mandate](assets/images/strategy-build-buy-risk-circle.png){:height="50%" width="50%" style="display:block;margin-left:auto;margin-right:auto"}
+![A 3-layered circle.
+The external circle is called "Productivity", the middle circle is called "Corporate or Shared" and the internal circle is called "Core to Mandate".
+There is an arrow that starts at the external circle which points towards the inner circle and has the text "Risk increases" on it.](assets/images/strategy-build-buy-risk-circle.png){:height="50%" width="50%" style="display:block;margin-left:auto;margin-right:auto"}
 
 **Productivity** capabilities, such as collaboration tools, image editing and word processing present low risks to ESDC due to their commodity in the market, low change probability, and being at the perimeter of ESDC’s core mandate reducing their impact to the organization.
 
