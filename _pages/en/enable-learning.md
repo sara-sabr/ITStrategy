@@ -8,11 +8,13 @@ categories: Work In Progress
 permalink: /enable-learning.html
 ---
 
-1. [Enable Learning](#enable-learning)
-   1. [Management must enable daily learning within their teams](#management-must-enable-daily-learning-within-their-teams)
-   2. [Informal Learning](#informal-learning)
-   3. [Compliance with Collective Agreement](#compliance-with-collective-agreement)
-   4. [What Kind of Learning](#what-kind-of-learning)
+- [Management must enable daily learning within their teams](#management-must-enable-daily-learning-within-their-teams)
+- [Informal Learning](#informal-learning)
+- [Compliance with Collective Agreement](#compliance-with-collective-agreement)
+  - [18.03 Attendance at conferences, conventions and courses](#1803-attendance-at-conferences-conventions-and-courses)
+    - [Option 1](#option-1)
+    - [Option 2](#option-2)
+- [What Kind of Learning](#what-kind-of-learning)
 
 ## Management must enable daily learning within their teams
 
@@ -89,7 +91,7 @@ As automation becomes ever more present and widespread organizations, especially
 
 ___
 
-The emphasis on these types of skills is echoed by many, for example, HBR Ascend published [The 4 Essential Skills to Future-Proof Your Career](https://hbrascend.org/topics/the-4-essential-skills-to-future-proof-your-career/) they suggest the following skills
+The emphasis on these types of skills is echoed by many, for example, HBR Ascend published [The 4 Essential Skills to Future-Proof Your Career](https://www.linkedin.com/pulse/4-essential-skills-future-proof-your-career-calvin-lee?articleId=6567985312277061632) they suggest the following skills
 
 - Curiosity
 - Confidence
