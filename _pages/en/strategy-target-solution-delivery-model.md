@@ -816,12 +816,13 @@ Organizing portfolios around development value streams enables visualizing the f
 **IT Solution**
 
 An IT solution is a combination of one or more IT Products.
-It produces the environment within which end-users operates.
+It produces the environment within which end-users operates.  
 
-![Below is a flowchart with five elements connected to each other.  The flowchart has the following elements displayed in the box: IT Solution, IT Component, Software, Infractructure. The flow goes from left to right and connects those elements with an arror. The Configuration element is located below the Software and Infrastructure elements, the latters are pointing to it from both sides. ]({{ site.baseurl }}/assets/images/itsolution-itproduct-model.png)
-Figure 1:
+Figure 1. Relationship Model between the different software elements (part 1).  
 
-**IT Product**
+![Below is a flowchart with five elements connected to each other.  The flowchart has the following elements displayed in the box: IT Solution, IT Component, Software, Infrastructure. The flow goes from left to right and connects those elements with an arrow. The Configuration element is located below the Software and Infrastructure elements, the latter are pointing to it from both sides. ]({{ site.baseurl }}/assets/images/itsolution-itproduct-model.png)
+
+**IT Product**  
 
 The combination of software, infrastructure, and their configuration.
 An IT Product is akin to an “application” as defined by the [Application Portfolio Management (APM)](https://www.gcpedia.gc.ca/wiki/OCIO_Application_Portfolio_Management) program.
@@ -832,10 +833,11 @@ A “working IT Product” is a version of the IT Product which allows DevOps te
 A working IT Product must be able to be used by end-users and provide DevOps teams with observation of end-users behaviours.
 
 For the scope of this Strategy, Operating Systems are NOT defined as IT products.
-Therefore should an IT Product depend on an Operating System to run in production, it is compliance with this Guiding Policy.
+Therefore should an IT Product depend on an Operating System to run in production, it is compliance with this Guiding Policy.  
 
-![Below is a flowchart with five elements connected to each other.  The flowchart has the following elements displayed in the box: IT Solution, IT Component, Software, Infractructure. The flow goes from left to right and connects those elements with an arror. The Configuration element is located below the Software and Infrastructure elements, the latters are pointing to it from both sides.]({{ site.baseurl }}/assets/images/itsolution-itproduct-model.png)
-Figure 2:
+Figure 2. Relationship Model between the different software elements (part 2).  
+
+![Below is a flowchart with five elements connected to each other.  The flowchart has the following elements displayed in the box: IT Solution, IT Component, Software, Infrastructure. The flow goes from left to right and connects those elements with an arrow. The Configuration element is located below the Software and Infrastructure elements, the latter are pointing to it from both sides.]({{ site.baseurl }}/assets/images/itsolution-itproduct-model.png)
 
 **IT Project**
 
