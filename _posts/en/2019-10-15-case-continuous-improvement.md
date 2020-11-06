@@ -44,7 +44,7 @@ If that sounded a little math-y or jargon-y, we'll walk through it below.
 
 If we graph f(x) = x we will get a line as follows
 
-![Graph of f(x) = x]({{ site.baseurl }}/assets/images/graphx.PNG)
+![This is image is of a line graph. It has an x axis going from 0 to 6 and a y axis going from 0 to 6. There is one red straight line on the chart that starts at point 0,0 and goes up until point x=6, y=6.]({{ site.baseurl }}/assets/images/graphx.PNG)
 
 We are defining y-axis (the vertical one) as the total units of business value produced, and the x-axis to be time.
 The line then is the total units of business value produced over some unit of time.
@@ -63,7 +63,9 @@ This should give us an exponential curve, which looks something like this
 f(x) = x<sup>2</sup>
 <!-- markdownlint-enable MD033 -->
 
-![Graph of f(x) = x^2]({{ site.baseurl }}/assets/images/drawgraphx2.PNG)
+![This is an image of a line graph representing the function f(x) = x^2.
+It has an X axis going from 0 to 4 and an Y axis going from 0 to 8.
+There is one curved red line on the chart that starts at (0,0) and goes up exponentially to (2.83, 8)]({{ site.baseurl }}/assets/images/drawgraphx2.PNG)
 
 The most obvious thing we notice is that the exponential function grows much faster.
 One may counter, however, that there is an initial loss of productivity if one spends time improving rather than actually *doing work*, so we must account for this.
@@ -76,7 +78,9 @@ x * [some percentage of productivity lost]
 Or, to be more succinct, we can replace [some percentage of productivity lost] with *l*.
 Then we will have
 
+<!-- markdownlint-disable MD037 -->
 x * *l*, where *l* is the amount of time spent per day on improving.
+<!-- markdownlint-enable MD037 -->
 
 With this addition, we have
 
@@ -87,7 +91,9 @@ f(x) = x<sup>2</sup> - (x*l)
 What happens when we graph this? Well, let's assume we spent 20% of our day on continuous improvement.
 Then we lose 20% of our productivity per month.
 
-![Graph of f(x) = x^2]({{ site.baseurl }}/assets/images/graphx2minusxl.PNG)
+![This is an image of a line graph representing the function f(x) = x2 - (x*l).
+It has an X axis going from -2 to 2 and an Y axis going from 0 to 6.25.
+There is one red curved line on the chart that starts at (0,0) and goes up exponentially to approximately (2.25, 6.25)]({{ site.baseurl }}/assets/images/graphx2minusxl.PNG)
 
 Notice at the bottom that the curve flattens out slightly.
 This decrease in productivity is always present as x (the amount of time) increases.
@@ -149,11 +155,14 @@ f(x) = x<sup>1.1</sup> - (x*.2)
 
 And if we graph this, we will get the following curve
 
-![f(x) = x^(1.1) - (x*l)]({{ site.baseurl }}/assets/images/fullfunction.PNG)
+![This is an image of a line graph representing the function f(x) = x^(1.1) - (x*.2).
+It has an X axis going from -5 to 25 and an Y axis going from 0 to 30.
+There is one straight red line on the chart that starts at (0,0) and goes up exponentially to approximately (25, 29.5)]({{ site.baseurl }}/assets/images/fullfunction.PNG)
 
 Great! What's next? Well, let's say we compare that with a team that does not continually improve, and continues to grind through, day to day, doing things "as they've always done them".
 
-![Compare curves]({{ site.baseurl }}/assets/images/comparecurves1.PNG)
+![This is an image of a line graph representing the function f(x) = x^(1.1) - (x*.2) compared with the function f(x) = x. It has an X axis going from 0 to 15 and an Y axis going from 0 to 15. There is one straight red line on the chart that starts at (0,0) and goes up exponentially to approximately (14, 16).
+There is one straight blue line on the chart that starts at (0,0) and goes straight to (15,15). Two lines cross over on the (5.2, 5.2)]({{ site.baseurl }}/assets/images/comparecurves1.PNG)
 
 We can see that the red line, which represents the team that continually improves for 20% of their day for a small 10% return in productivity will be more productive in about 6 months (or 6.192 months, to be exact).
 Even if you reduced the productivity gained by half (to 5%, or 0.05), you would still find that before 39 months is up the team that continuously improves will inevitably end up outperforming the team who does not.

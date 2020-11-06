@@ -10,6 +10,7 @@
     "IRCTC",
     "ccvp",
     "datatable",
+    "defense",
     "Smes",
     "Oecd’s",
     "Muston",
@@ -447,7 +448,10 @@
     "SME's",
     "LGBTQ",
     "webinars",
-    "GC"
+    "GC",
+    "blogs",
+    "TSDM"
+
   ],
   "flagWords": [],
   "import": [
