@@ -45,8 +45,8 @@ Please refer to the actual strategy document for more detailed information.
 
 ### Use Cases
 
-Most of the time, obtaining an IT solution is not only adopting, buying, or building something.
-It's often some permutation of the 3.
+Most of the time, acquiring an IT solution is not only adopting, buying, or building something.
+It's often some permutation of the three.
 The following use cases show that some solutions can be classified in different locations of the diagram depending on how they are implemented and by who.
 
 ![Basic Venn diagram with 3 overlapping circles for Adopt, Build and Buy. The middle is the intersection of all 3 (Adopt ^ Buy ^ Build)](assets/images/adopt-build-buy-venn.png)
