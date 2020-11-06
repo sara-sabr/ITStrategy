@@ -11,6 +11,8 @@ permalink: /strategy-version-control-systems.html
 ---
 
 <!-- markdownlint-disable MD033 -->
+<!-- the below cSpell statement says to ignore any text between HTML tags. E.g. it will ignore "th rowspan='2'" in this string: <th rowspan='2'> -->
+<!-- cSpell:ignoreRegExp /\<[^\>]+\>/ -->
 
 <style>
 table, th, td {
@@ -152,7 +154,7 @@ The following are actions that need to be performed in order to make the Version
   </tr>
   <tr>
     <td>Finalize endorsement of ESDC OSS Management Framework</td>
-    <td>Endorse the operationalization of the framework</td>
+    <td>Endorse the implementation of the framework</td>
     <td><b>EA</b></td>
     <td>
     Senior Mgmt<br>
