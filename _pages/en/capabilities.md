@@ -89,9 +89,18 @@ Average of "How much time" questions
 - Dependencies are stable and rarely break teams' code. [1-7]
 
 #### Recommendations
+The following practices can improve the **version control** :
+-**Automated creation of packages***. Verify every commit to version control lead to the automated creation of packages that can be deployed to any environment using only information in version control.
+-**Use Scripts and configuration information**. Enable the use of scripts and configuration information from version control in a production-like test environments. 
 
-- https://cloud.google.com/solutions/devops/devops-tech-version-control
-- https://cloud.google.com/solutions/devops/devops-tech-code-maintainability
+*Learn more about [Version Control](https://cloud.google.com/solutions/devops/devops-tech-version-control)*
+
+To improve the **code maintainability**, the following considerations are required to review
+-**Team collaboration**. Teams need to access and recommend changes to each other. This helps transfer knowledge and unblock teams to make changes to other parts of the codebases.
+-**Traceability**. It is essential to rapidly trace packages or deployments to its version in the event of an incident. This is crucial to make change to any changes to debug problems triggered by a dependency in the codebase. 
+-**Code quality**. Run cross-team code maintenance to improve internal quality and reduce people to refactor the codes. This requires making changes to multiple parts of the codebase. 
+
+*Learn more about [Code Maintanibility](https://cloud.google.com/solutions/devops/devops-tech-code-maintainability)*
 
 ### SECTION 2. CONTINUOUS INTEGRATION AND DEPLOYMENT
 
@@ -118,11 +127,36 @@ Average of "How much time" questions
 
 #### Recommendations
 
-- https://cloud.google.com/solutions/devops/devops-tech-continuous-integration
-- https://cloud.google.com/solutions/devops/devops-tech-deployment-automation
-- https://cloud.google.com/solutions/devops/devops-tech-test-data-management
-- https://cloud.google.com/solutions/devops/devops-tech-shifting-left-on-security
-- https://cloud.google.com/solutions/devops/devops-tech-continuous-delivery
+The following elements can improve the **Continuous Integration**
+-**Automated Build Process**. Having automated scripts that has the ability to create packages and be deployed in any environment.  The CI packages built must be authoritative and used in downstream processes. The builds should also be run daily as well as numbered and repeatable. 
+-**A suite of automated tests**. To ensure the reliability the high-value functionality of your system, start writing a set of unit and acceptance test (if not done). This will guide to identify the issue if the test fail and to ensure all new functionality will not cause serious problems with the system.The tests should be rapidly done run daily. 
+*System run the build and automated tests* The system status of the tests should be visible to the team. Avoid the use of email notification. Chat systems are a more popular way to notify the team. 
+
+*Learn more about [Continuous Integration](https://cloud.google.com/solutions/devops/devops-tech-deployment-automation)*
+
+To improve the **deployment automation**, Document existing deployment process and incrementality simplify and automate the deployment. The following actions are required for this approach:
+•	Packaging code in ways suitable for deployment.
+•	Creating pre-configured virtual machine images or containers.
+•	Automating the deployment and configuration of middleware.
+•	Copying packages or files into the production environment.
+•	Restarting servers, applications, or services.
+•	Generating configuration files from templates.
+•	Running automated deployment tests to make sure the system is working and correctly configured.
+•	Running testing procedures.
+•	Scripting and automating database migrations.
+*Learn more about [Deployment Automation](https://cloud.google.com/solutions/devops/devops-tech-test-automation)*
+
+The following practices can effectively and efficiently improve the **Test Data Management**: 
+- **Unit Tests**. With the exception of the codes being tested, units test should be independent of one another and in any part of the system. The tests should not dependent of external data and make up for the majority of the test. It’s crucial to have well-written unit test to run well-designed codebase. 
+- **Minimize reliance and isolate test data**. Due to API and interfaces evolve, updates or re-creating related test data. As test data involves careful and ongoing maintenance, it must minimize the amount of test data required to run automated tests. Make sure that data consumed by a particular test is explicitly associated with that test, and isn't modified by other tests or processes.
+- **Make test data readily available** Running tests from a copy of a full production database can cause risk. The data can become out of date and contain sensitive information. To run test rapidly, Identify relevant sections of data required. Export these sections regularly and make them easily available to tests.
+*Learn more about [Test Data Management](https://cloud.google.com/solutions/devops/devops-tech-test-data-management)*
+
+The following practices can improve the **Security quality**: .
+**Get InfoSec involved in software design**. When a project design begins, a security review can be added as a gating factor for releasing the design to the development stage. This change might require developer training. 
+**Develop security-approved tools**. Providing developers with preapproved libraries and tools that include input from the InfoSec team can help standardize developer code. Using standard code will simplify InfoSec team to review the code. Standard code allows automated testing to check that developer are using preapproved libraries. This can also help scale the input and influence from InfoSec, because that team is typically understaffed compared to developers and testers.
+**Develop automated testing** Building security tests into the automated testing process means that code can be continuously tested at scale without requiring a manual review. Automated testing does require you to design and develop automated security tests, both initially and as an on-going effort as new security tests are identified. This is another opportunity to scale the input from the InfoSec team.
+*Learn more about [Security Quality](https://cloud.google.com/solutions/devops/devops-tech-shifting-left-on-security)*
 
 ### SECTION 3. CONTINUOUS TESTING
 
@@ -141,8 +175,23 @@ Average of "How much time" questions
 
 #### Recommendations
 
-- https://cloud.google.com/solutions/devops/devops-tech-test-automation
-- https://cloud.google.com/solutions/devops/devops-tech-continuous-delivery
+To improve the quality of evaluating the functionality and architecture of the system, it important to consider the organizational and technical components: 
+Organizational 
+- Allow testers to work alongside developers throughout the sotware development and delivery process. 
+- Perform manual test activities such as exploratory testing, usability testing, and acceptance testing throughout the delivery process.
+
+Technical
+Building and maintaining a set of key automated test suites such as Units Tests and acceptance tests. 
+If you have limited test automation, start building a skeleton deployment pipeline which includes: 
+    1. Single unit test
+    2. Single acceptance test
+    3. Automated deployments scripts for a exploratory test environements
+    4. Increase test coverage and extend the deployments product as the product or service evolves
+
+Please note, write your **unit tests** before writing code to improve the code are testable and the tests are maintainable. Also,write a small number of **acceptance tests** for the high-value functionality. Make sure you require developers to write unit and acceptance tests for any new functionality, and any functionality you are changing.
+
+*Learn more about [Continuous Testing](https://cloud.google.com/solutions/devops/devops-tech-test-automation)*
+
 
 ### SECTION 4. ARCHITECTURE
 
@@ -154,10 +203,26 @@ Average of "How much time" questions
 - My team feels that we're empowered to choose tools. [1-7]
 
 #### Recommendations  
+To improve the developer productivity and improve deployment outcomes, the following are recommendations to make **architectural improvement**: 
+- **Evolutionary architecture** . An iterative approach to improving the design of your enterprise system. This will lead successful products and services to re-architect during their lifecycle due to the changing requirements placed on them.
 
-- https://cloud.google.com/solutions/devops/devops-tech-architecture
-- https://cloud.google.com/solutions/devops/devops-tech-teams-empowered-to-choose-tools
-- https://cloud.google.com/solutions/devops/devops-tech-continuous-delivery
+Before transforming a functionality into a service, they need to consist of the traits below:  
+•	Implements a single business function or capability.
+•	Performs its function with minimal interaction with other services.
+•	Is built, scaled, and deployed independently from other services.
+•	Interacts with other services by using lightweight communication methods, for example, a message bus or HTTP endpoints.
+•	Can be implemented with different tools, programming languages, data stores, and so on
+
+*Learn more about [Architecture](https://cloud.google.com/solutions/devops/devops-tech-architecture)*
+
+To make sure **the team is empowered** to make the tool and technology decisions, the following are recommendations for teams to work on the best tools at work : 
+- **Team members discuss current tools**. During assessments, encourage team members to critically evaluate the efficiency of the current tools with their current workload. 
+- **Proactively investigate new tools for new projects**. Members of the teams can experiment and propose new tools to determine whether those tools can complement in the daily work. Try implementing a key piece of the new system using both existing and proposed technologies to see whether the expected benefits materialize. Make sure to have an understand of the cost, licensing, support and infrastructure to support the tools. 
+- **Schedule time to experiment with new tools** Hold sessions (such as hackathons) where teams can play around with new projects and new technologies. Not all tools will be kept as a result of these experiments. This will help explore with new technologies to identify the benefits and complexities in the long-term
+- **Hold regular presentations to discuss new tools** Host organized meetings (such as lunch meetings) where new tech is presented and discussed. Informal meetings can also be made where one person does a presentation about a project they are working on in a new tech, or something they are investigating. These presentations are not limited. They can be within your team members, other people in the organization and outside the organization. 
+
+*To learn more about [Enpoweiring teams to choose tools](https://cloud.google.com/solutions/devops/devops-tech-teams-empowered-to-choose-tools)*
+
 
 ### SECTION 5. CLOUD INFRASTRUCTURE
 
@@ -168,8 +233,12 @@ Average of "How much time" questions
 - I can monitor or control the quantity and/or cost of cloud resources used by the service or product that I primarily support. [1-7]
 
 #### Recommendations  
+To achieve more rapid, reliable releases, and higher levels of availability, velocity, and reliability of the **Cloud Infrastructure**, the key actions need to be executed to imp
+**Close collaboration** with developers, operations teams, information security, procurement, and finance. This will assist in identifily and resolve any concerns or conflicts to substantial changes in adopting cloud-native processes and practices.
 
-- https://cloud.google.com/solutions/devops/devops-tech-cloud-infrastructure
+**Adopting Infrastructure-as-code** .This allows Infrastructure configuration to run version control, and developers can provision environments, make configuration changes, and execute deployments through an automated mechanism. Additional, consider the requirements to be assessed such as the engineering effort and process change, including changing policies for implementing information security controls. 
+
+To learn more about [Cloud Infrastructure](https://cloud.google.com/solutions/devops/devops-tech-cloud-infrastructure)
 
 ### SECTION 6. TEAM EXPERIMENTATION AND STREAMLINING CHANGE APPROVAL
 
