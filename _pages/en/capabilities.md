@@ -103,7 +103,7 @@ To improve the **code maintainability**, the following considerations are requir
 -**Traceability**. It is essential to rapidly trace packages or deployments to its version in the event of an incident. This is crucial to make change to any changes to debug problems triggered by a dependency in the codebase.
 -**Code quality**. Run cross-team code maintenance to improve internal quality and reduce people to refactor the codes. This requires making changes to multiple parts of the codebase.
 
-*Learn more about [Code Maintanibility](https://cloud.google.com/solutions/devops/devops-tech-code-maintainability)*
+*Learn more about [Code Maintainability](https://cloud.google.com/solutions/devops/devops-tech-code-maintainability)*
 
 ### SECTION 2. CONTINUOUS INTEGRATION AND DEPLOYMENT
 
@@ -189,7 +189,7 @@ To improve the quality of evaluating the functionality and architecture of the s
 
 Organizational
 
-- Allow testers to work alongside developers throughout the sotware development and delivery process.
+- Allow testers to work alongside developers throughout the software development and delivery process.
 - Perform manual test activities such as exploratory testing, usability testing, and acceptance testing throughout the delivery process.
 
 Technical
@@ -198,7 +198,7 @@ Building and maintaining a set of key automated test suites such as Units Tests 
 If you have limited test automation, start building a skeleton deployment pipeline which includes:
     1. Single unit test
     2. Single acceptance test
-    3. Automated deployments scripts for a exploratory test environements
+    3. Automated deployments scripts for a exploratory test environments
     4. Increase test coverage and extend the deployments product as the product or service evolves
 
 Please note, write your **unit tests** before writing code to improve the code are testable and the tests are maintainable. Also,write a small number of **acceptance tests** for the high-value functionality. Make sure you require developers to write unit and acceptance tests for any new functionality, and any functionality you are changing.
@@ -237,7 +237,7 @@ To make sure **the team is empowered** to make the tool and technology decisions
 - **Schedule time to experiment with new tools**. Hold sessions (such as hackathons) where teams can play around with new projects and new technologies. Not all tools will be kept as a result of these experiments. This will help explore with new technologies to identify the benefits and complexities in the long-term
 - **Hold regular presentations to discuss new tools**. Host organized meetings (such as lunch meetings) where new tech is presented and discussed. Informal meetings can also be made where one person does a presentation about a project they are working on in a new tech, or something they are investigating. These presentations are not limited. They can be within your team members, other people in the organization and outside the organization.
 
-*To learn more about [Enpoweiring teams to choose tools](https://cloud.google.com/solutions/devops/devops-tech-teams-empowered-to-choose-tools)*
+*To learn more about [Empowering teams to choose tools](https://cloud.google.com/solutions/devops/devops-tech-teams-empowered-to-choose-tools)*
 
 ### SECTION 5. CLOUD INFRASTRUCTURE
 
@@ -250,7 +250,7 @@ To make sure **the team is empowered** to make the tool and technology decisions
 #### Recommendations
 
 To achieve more rapid, reliable releases, and higher levels of availability, velocity, and reliability of the **Cloud Infrastructure**, the key actions need to be executed to imp
-**Close collaboration** with developers, operations teams, information security, procurement, and finance. This will assist in identifily and resolve any concerns or conflicts to substantial changes in adopting cloud-native processes and practices.
+**Close collaboration** with developers, operations teams, information security, procurement, and finance. This will assist to identify and resolve any concerns or conflicts to substantial changes in adopting cloud-native processes and practices.
 
 **Adopting Infrastructure-as-code** .This allows Infrastructure configuration to run version control, and developers can provision environments, make configuration changes, and execute deployments through an automated mechanism. Additional, consider the requirements to be assessed such as the engineering effort and process change, including changing policies for implementing information security controls.
 
