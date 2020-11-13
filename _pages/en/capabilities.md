@@ -90,16 +90,17 @@ Average of "How much time" questions
 
 #### Recommendations
 
-The following practices can improve the **version control**:
+According to the [DORA DevOps capabilities guides](https://cloud.google.com/solutions/devops/capabilities), the following practices can improve the **version control**:
 
-- **Automated creation of packages**. Verify every commit to version control lead to the automated creation of packages that can be deployed to any environment using only information in version control.
-- **Use Scripts and configuration information**. Enable the use of scripts and configuration information from version control in a production-like test environments.
+> - Ensure that every commit to version control triggers the automated creation of packages that can be deployed to any environment using only information in version control.
+> - Make it possible to create production-like test environments on demand using only scripts and configuration information from version control, and to create packages using the automated process described in the previous approach.
+> - Script testing and production infrastructure so that teams can add capacity or recover from disasters in a fully automated fashion.
 
 *Learn more about [Version Control](https://cloud.google.com/solutions/devops/devops-tech-version-control)*
 
-To improve the **code maintainability**, the following considerations are required to review:
+According to the [DORA DevOps capabilities guides](https://cloud.google.com/solutions/devops/capabilities), the following practices can improve the **code maintainability**:
 
--**Team collaboration**. Teams need to access and recommend changes to each other. This helps transfer knowledge and unblock teams to make changes to other parts of the codebases.
+-**Team collaboration**. Teams need to access and recommend changes to each other. This helps transfer of knowledge and unblocks teams to make changes to other parts of the codebases.
 -**Traceability**. It is essential to rapidly trace packages or deployments to its version in the event of an incident. This is crucial to make change to any changes to debug problems triggered by a dependency in the codebase.
 -**Code quality**. Run cross-team code maintenance to improve internal quality and reduce people to refactor the codes. This requires making changes to multiple parts of the codebase.
 
@@ -130,7 +131,7 @@ To improve the **code maintainability**, the following considerations are requir
 
 #### Recommendations
 
-The following elements can improve the **Continuous Integration**:
+According to the [DORA DevOps capabilities guides](https://cloud.google.com/solutions/devops/capabilities), the following practices can improve the **Continuous Integration**:
 
 - **Automated Build Process**. Having automated scripts that has the ability to create packages and be deployed in any environment. The CI packages built must be authoritative and used in downstream processes. The builds should also be run daily as well as numbered and repeatable.
 - **A suite of automated tests**. To ensure the reliability the high-value functionality of your system, start writing a set of unit and acceptance test (if not done). This will guide to identify the issue if the test fail and to ensure all new functionality will not cause serious problems with the system.The tests should be rapidly done run daily.
@@ -138,7 +139,8 @@ The following elements can improve the **Continuous Integration**:
 
 *Learn more about [Continuous Integration](https://cloud.google.com/solutions/devops/devops-tech-deployment-automation)*
 
-To improve the **deployment automation**, Document existing deployment process and incrementality simplify and automate the deployment.
+According to the [DORA DevOps capabilities guides](https://cloud.google.com/solutions/devops/capabilities), to improve the **deployment automation**, teams should document existing deployment processes and incrementality simplify and automate them.
+
 The following actions are required for this approach:
 
 - Packaging code in ways suitable for deployment.
@@ -153,11 +155,24 @@ The following actions are required for this approach:
 
 *Learn more about [Deployment Automation](https://cloud.google.com/solutions/devops/devops-tech-test-automation)*
 
-The following practices can effectively and efficiently improve the **Test Data Management**:
+According to the [DORA DevOps capabilities guides](https://cloud.google.com/solutions/devops/capabilities), the following practices can effectively and efficiently improve the **Test Data Management**:
 
-- **Unit Tests**. With the exception of the codes being tested, units test should be independent of one another and in any part of the system. The tests should not dependent of external data and make up for the majority of the test. It’s crucial to have well-written unit test to run well-designed codebase.
-- **Minimize reliance and isolate test data**. Due to API and interfaces evolve, updates or re-creating related test data. As test data involves careful and ongoing maintenance, it must minimize the amount of test data required to run automated tests. Make sure that data consumed by a particular test is explicitly associated with that test, and isn't modified by other tests or processes.
-- **Make test data readily available** Running tests from a copy of a full production database can cause risk. The data can become out of date and contain sensitive information. To run test rapidly, Identify relevant sections of data required. Export these sections regularly and make them easily available to tests.
+> 1. Favor unit tests.
+Unit tests should be independent of each other and any other part of the system except the code being tested.
+Unit tests should not depend on external data. As defined by the test automation pyramid, unit tests should make up the majority of your tests. Well-written unit tests that run against a well-designed codebase are much easier to triage and cheaper to maintain than higher-level tests. Increasing the coverage of your unit tests can help minimize your reliance on higher-level tests that consume external data.
+> ![Test automation pyramid.](assets/images/devops-tech-test-automation-pyramid.svg){:height="80%" width="80%"}
+> 2. Minimize reliance on test data. Test data requires careful and ongoing maintenance. As your APIs and interfaces evolve, you must update or re-create related test data. This process represents a cost that can negatively impact team velocity. Hence, it's good practice to minimize the amount of test data needed to run automated tests.
+> 3. Isolate your test data. Run your tests in well-defined environments with controlled inputs and expected outputs that can be compared to actual outputs. Make sure that data consumed by a particular test is explicitly associated with that test, and isn't modified by other tests or processes. Wherever possible, your tests should create the necessary state themselves as part of setup, using the application's APIs. Isolating your test data is also a prerequisite for tests to run in parallel.
+> 4. Minimize reliance on test data stored in databases.
+>  Maintaining test data stored in databases can be particularly challenging for the following reasons:
+    - **Poor test isolation**.
+    Databases store data durably; any changes to the data will persist across tests unless explicitly reset.
+    Less reliable test inputs make test isolation more difficult, and can prevent parallelization.
+    - **Performance impact**.
+    Speed of execution is a key requirement for automated tests.
+    Interacting with a database is typically slower and more cumbersome than interacting with locally stored data.
+    Favor in-memory databases where appropriate.
+> 5. Make test data readily available. Running tests against a copy of a full production database introduces risk. It can be challenging and slow to get the data refreshed. As a result, the data can become out of date. Production data can also contain sensitive information. Instead, identify relevant sections of data that the tests require. Export these sections regularly and make them easily available to tests.
 
 *Learn more about [Test Data Management](https://cloud.google.com/solutions/devops/devops-tech-test-data-management)*
 
