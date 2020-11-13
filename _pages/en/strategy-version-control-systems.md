@@ -143,6 +143,15 @@ The following are actions that need to be performed in order to make the Version
   </tr>
   <tr>
     <td rowspan="3"><b>Architecture</b></td>
+    <td>Finalize endorsement of ESDC OSS Management Framework</td>
+    <td>Endorse the implementation of the framework (already in progress)</td>
+    <td><b>EA</b></td>
+    <td>
+    Senior Mgmt<br>
+    ?<br>
+    </td>
+  </tr>
+  <tr>
     <td>Update ESDC OSS Management Framework</td>
     <td>Update ESDC OSS Management Framework to reflect the expected usage and capabilities of each approved VCS</td>
     <td><b>EA</b></td>
@@ -153,20 +162,16 @@ The following are actions that need to be performed in order to make the Version
     </td>
   </tr>
   <tr>
-    <td>Finalize endorsement of ESDC OSS Management Framework</td>
-    <td>Endorse the implementation of the framework</td>
-    <td><b>EA</b></td>
-    <td>
-    Senior Mgmt<br>
-    ?<br>
-    </td>
-  </tr>
-  <tr>
     <td>Define best practices and standards</td>
     <td>Define best practices, standards and procedures for using Git-based version control systems</td>
     <td><b>DevCoP</b></td>
     <td>
       EA<br>
+      Senior Advisors<br>
+      Enterprise Ops<br>
+      BIS<br>
+      APM<br>
+      ITSM<br>
       ?<br>
     </td>
   </tr>
@@ -198,9 +203,13 @@ The following are actions that need to be performed in order to make the Version
     <td>GCcode:<br>
     Enable connectivity to the Internet</td>
     <td>Enable projects in GCcode to deploy to public cloud service providers</td>
-    <td><b>SSC</b></td>
+    <td><b>DevOps CoE</b></td>
     <td>
+      DevCoP<br>
       Cloud CoE<br>
+      SSC<br>
+      Senior Advisors<br>
+      IT Security<br>
       ?
     </td>
   </tr>
@@ -215,9 +224,10 @@ The following are actions that need to be performed in order to make the Version
       <li>Continuous Deployment (CD)</li>
     </ul>
     </td>
-    <td><b>SSC</b></td>
+    <td><b>DevOps CoE</b></td>
     <td>
-    DevCoP<br>
+    SSC<br>
+    DevCoE<br>
     ?
     </td>
   </tr>
