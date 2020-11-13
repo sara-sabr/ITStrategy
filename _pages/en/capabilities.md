@@ -90,14 +90,14 @@ Average of "How much time" questions
 
 #### Recommendations
 
-The following practices can improve the **version control** :
+The following practices can improve the **version control**:
 
 - **Automated creation of packages**. Verify every commit to version control lead to the automated creation of packages that can be deployed to any environment using only information in version control.
 - **Use Scripts and configuration information**. Enable the use of scripts and configuration information from version control in a production-like test environments.
 
 *Learn more about [Version Control](https://cloud.google.com/solutions/devops/devops-tech-version-control)*
 
-To improve the **code maintainability**, the following considerations are required to review
+To improve the **code maintainability**, the following considerations are required to review:
 
 -**Team collaboration**. Teams need to access and recommend changes to each other. This helps transfer knowledge and unblock teams to make changes to other parts of the codebases.
 -**Traceability**. It is essential to rapidly trace packages or deployments to its version in the event of an incident. This is crucial to make change to any changes to debug problems triggered by a dependency in the codebase.
@@ -130,7 +130,7 @@ To improve the **code maintainability**, the following considerations are requir
 
 #### Recommendations
 
-The following elements can improve the **Continuous Integration**
+The following elements can improve the **Continuous Integration**:
 
 - **Automated Build Process**. Having automated scripts that has the ability to create packages and be deployed in any environment. The CI packages built must be authoritative and used in downstream processes. The builds should also be run daily as well as numbered and repeatable.
 - **A suite of automated tests**. To ensure the reliability the high-value functionality of your system, start writing a set of unit and acceptance test (if not done). This will guide to identify the issue if the test fail and to ensure all new functionality will not cause serious problems with the system.The tests should be rapidly done run daily.
@@ -138,7 +138,8 @@ The following elements can improve the **Continuous Integration**
 
 *Learn more about [Continuous Integration](https://cloud.google.com/solutions/devops/devops-tech-deployment-automation)*
 
-To improve the **deployment automation**, Document existing deployment process and incrementality simplify and automate the deployment. The following actions are required for this approach:
+To improve the **deployment automation**, Document existing deployment process and incrementality simplify and automate the deployment.
+The following actions are required for this approach:
 
 - Packaging code in ways suitable for deployment.
 - Creating pre-configured virtual machine images or containers.
@@ -196,12 +197,14 @@ Technical
 
 Building and maintaining a set of key automated test suites such as Units Tests and acceptance tests.
 If you have limited test automation, start building a skeleton deployment pipeline which includes:
-    1. Single unit test
-    2. Single acceptance test
-    3. Automated deployments scripts for a exploratory test environments
-    4. Increase test coverage and extend the deployments product as the product or service evolves
 
-Please note, write your **unit tests** before writing code to improve the code are testable and the tests are maintainable. Also,write a small number of **acceptance tests** for the high-value functionality. Make sure you require developers to write unit and acceptance tests for any new functionality, and any functionality you are changing.
+- Single unit test
+- Single acceptance test
+- Automated deployments scripts for a exploratory test environments
+- Increase test coverage and extend the deployments product as the product or service evolves
+
+Please note, write your **unit tests** before writing code to improve the code are testable and the tests are maintainable.
+Also, write a small number of **acceptance tests** for the high-value functionality. Make sure you require developers to write unit and acceptance tests for any new functionality, and any functionality you are changing.
 
 *Learn more about [Continuous Testing](https://cloud.google.com/solutions/devops/devops-tech-test-automation)*
 
@@ -237,7 +240,7 @@ To make sure **the team is empowered** to make the tool and technology decisions
 - **Schedule time to experiment with new tools**. Hold sessions (such as hackathons) where teams can play around with new projects and new technologies. Not all tools will be kept as a result of these experiments. This will help explore with new technologies to identify the benefits and complexities in the long-term
 - **Hold regular presentations to discuss new tools**. Host organized meetings (such as lunch meetings) where new tech is presented and discussed. Informal meetings can also be made where one person does a presentation about a project they are working on in a new tech, or something they are investigating. These presentations are not limited. They can be within your team members, other people in the organization and outside the organization.
 
-*To learn more about [Empowering teams to choose tools](https://cloud.google.com/solutions/devops/devops-tech-teams-empowered-to-choose-tools)*
+*Learn more about [Empowering teams to choose tools](https://cloud.google.com/solutions/devops/devops-tech-teams-empowered-to-choose-tools)*
 
 ### SECTION 5. CLOUD INFRASTRUCTURE
 
@@ -250,11 +253,11 @@ To make sure **the team is empowered** to make the tool and technology decisions
 #### Recommendations
 
 To achieve more rapid, reliable releases, and higher levels of availability, velocity, and reliability of the **Cloud Infrastructure**, the key actions below need to be considered:
-**Close collaboration** with developers, operations teams, information security, procurement, and finance. This will assist to identify and resolve any concerns or conflicts to substantial changes in adopting cloud-native processes and practices.
 
-**Adopting Infrastructure-as-code** .This allows Infrastructure configuration to run version control, and developers can provision environments, make configuration changes, and execute deployments through an automated mechanism. Additional, consider the requirements to be assessed such as the engineering effort and process change, including changing policies for implementing information security controls.
+- **Close collaboration** with developers, operations teams, information security, procurement, and finance. This will assist to identify and resolve any concerns or conflicts to substantial changes in adopting cloud-native processes and practices.
+- **Adopting Infrastructure-as-code** .This allows Infrastructure configuration to run version control, and developers can provision environments, make configuration changes, and execute deployments through an automated mechanism. Additional, consider the requirements to be assessed such as the engineering effort and process change, including changing policies for implementing information security controls.
 
-To learn more about [Cloud Infrastructure](https://cloud.google.com/solutions/devops/devops-tech-cloud-infrastructure)
+*To learn more about [Cloud Infrastructure](https://cloud.google.com/solutions/devops/devops-tech-cloud-infrastructure)*
 
 ### SECTION 6. TEAM EXPERIMENTATION AND STREAMLINING CHANGE APPROVAL
 
