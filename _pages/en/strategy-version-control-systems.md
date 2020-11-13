@@ -77,11 +77,12 @@ The benefits for the organization are numerous:
 
 - Reduce development **costs** through collaboration and platform consolidation;
 - Strengthen **relationships** between IT and business through a common platform;
-- **Discover, share and reuse** code across GC departments;
+- **Find, discover, reuse and share** code quickly and efficiently across GC departments;
 - Enhance **planning and tracking** of feature development through a single view;
 - **Accelerate** development and deployment cycles;
 - Increase software **transparency**;
-- Improve the **quality and security** of code with automated testing and through external contributions (by working in the open);
+- Improve the **quality and security** of code through continuous automated testing and external contributions (by working in the open);
+- Ensure compliance with **Information Management** policies with lifecycle management;
 - Attract IT **talent**;
 - Reduce vendor **lock-in** by increasing capacity to support source code; and
 - Obtain metrics/statistics for **reporting** and continuous improvement.
