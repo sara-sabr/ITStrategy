@@ -90,7 +90,7 @@ Average of "How much time" questions
 
 #### Recommendations
 
-According to the [DORA DevOps capabilities guides](https://cloud.google.com/solutions/devops/capabilities), the following practices can improve the **version control**:
+This excerpt from to the [DORA DevOps capabilities guides](https://cloud.google.com/solutions/devops/capabilities) indicates that the following practices can improve the **version control**:
 
 > - Ensure that every commit to version control triggers the automated creation of packages that can be deployed to any environment using only information in version control.
 > - Make it possible to create production-like test environments on demand using only scripts and configuration information from version control, and to create packages using the automated process described in the previous approach.
@@ -98,11 +98,11 @@ According to the [DORA DevOps capabilities guides](https://cloud.google.com/solu
 
 *Learn more about [Version Control](https://cloud.google.com/solutions/devops/devops-tech-version-control)*
 
-According to the [DORA DevOps capabilities guides](https://cloud.google.com/solutions/devops/capabilities), the following practices can improve the **code maintainability**:
+Based on the [DORA DevOps capabilities guides](https://cloud.google.com/solutions/devops/capabilities), the following practices can improve the **code maintainability**:
 
--**Team collaboration**. Teams need to access and recommend changes to each other. This helps transfer of knowledge and unblocks teams to make changes to other parts of the codebases.
--**Traceability**. It is essential to rapidly trace packages or deployments to its version in the event of an incident. This is crucial to make change to any changes to debug problems triggered by a dependency in the codebase.
--**Code quality**. Run cross-team code maintenance to improve internal quality and reduce people to refactor the codes. This requires making changes to multiple parts of the codebase.
+- **Team collaboration**. Teams need to access and recommend changes to each other. This helps transfer of knowledge and unblocks teams to make changes to other parts of the codebases.
+- **Traceability**. It is essential to rapidly trace packages or deployments to its version in the event of an incident. This is crucial to make change to any changes to debug problems triggered by a dependency in the codebase.
+- **Code quality**. Run cross-team code maintenance to improve internal quality and reduce people to refactor the codes. This requires making changes to multiple parts of the codebase.
 
 *Learn more about [Code Maintainability](https://cloud.google.com/solutions/devops/devops-tech-code-maintainability)*
 
@@ -131,7 +131,7 @@ According to the [DORA DevOps capabilities guides](https://cloud.google.com/solu
 
 #### Recommendations
 
-According to the [DORA DevOps capabilities guides](https://cloud.google.com/solutions/devops/capabilities), the following practices can improve the **Continuous Integration**:
+Based on the [DORA DevOps capabilities guides](https://cloud.google.com/solutions/devops/capabilities), the following practices can improve the **Continuous Integration**:
 
 - **Automated Build Process**. Having automated scripts that has the ability to create packages and be deployed in any environment. The CI packages built must be authoritative and used in downstream processes. The builds should also be run daily as well as numbered and repeatable.
 - **A suite of automated tests**. To ensure the reliability the high-value functionality of your system, start writing a set of unit and acceptance test (if not done). This will guide to identify the issue if the test fail and to ensure all new functionality will not cause serious problems with the system.The tests should be rapidly done run daily.
@@ -139,7 +139,7 @@ According to the [DORA DevOps capabilities guides](https://cloud.google.com/solu
 
 *Learn more about [Continuous Integration](https://cloud.google.com/solutions/devops/devops-tech-deployment-automation)*
 
-According to the [DORA DevOps capabilities guides](https://cloud.google.com/solutions/devops/capabilities), to improve the **deployment automation**, teams should document existing deployment processes and incrementality simplify and automate them.
+Based on the [DORA DevOps capabilities guides](https://cloud.google.com/solutions/devops/capabilities), to improve the **deployment automation**, teams should document existing deployment processes and incrementality simplify and automate them.
 
 The following actions are required for this approach:
 
@@ -155,12 +155,12 @@ The following actions are required for this approach:
 
 *Learn more about [Deployment Automation](https://cloud.google.com/solutions/devops/devops-tech-test-automation)*
 
-According to the [DORA DevOps capabilities guides](https://cloud.google.com/solutions/devops/capabilities), the following practices can effectively and efficiently improve the **Test Data Management**:
+This excerpt from to the [DORA DevOps capabilities guides](https://cloud.google.com/solutions/devops/capabilities) indicates that the following practices can effectively and efficiently improve the **Test Data Management**:
 
 > 1. Favor unit tests.
 Unit tests should be independent of each other and any other part of the system except the code being tested.
 Unit tests should not depend on external data. As defined by the test automation pyramid, unit tests should make up the majority of your tests. Well-written unit tests that run against a well-designed codebase are much easier to triage and cheaper to maintain than higher-level tests. Increasing the coverage of your unit tests can help minimize your reliance on higher-level tests that consume external data.
-> ![Test automation pyramid.](assets/images/devops-tech-test-automation-pyramid.svg){:height="80%" width="80%"}
+> ![Test automation pyramid.](assets/images/devops-tech-test-automation-pyramid.svg){:height="80%" width="80%" margin-top="2em" margin-bottom="2em"}
 > 2. Minimize reliance on test data. Test data requires careful and ongoing maintenance. As your APIs and interfaces evolve, you must update or re-create related test data. This process represents a cost that can negatively impact team velocity. Hence, it's good practice to minimize the amount of test data needed to run automated tests.
 > 3. Isolate your test data. Run your tests in well-defined environments with controlled inputs and expected outputs that can be compared to actual outputs. Make sure that data consumed by a particular test is explicitly associated with that test, and isn't modified by other tests or processes. Wherever possible, your tests should create the necessary state themselves as part of setup, using the application's APIs. Isolating your test data is also a prerequisite for tests to run in parallel.
 > 4. Minimize reliance on test data stored in databases.
@@ -176,11 +176,19 @@ Unit tests should not depend on external data. As defined by the test automation
 
 *Learn more about [Test Data Management](https://cloud.google.com/solutions/devops/devops-tech-test-data-management)*
 
-The following practices can improve the **Security quality**:
+This excerpt from to the [DORA DevOps capabilities guides](https://cloud.google.com/solutions/devops/capabilities) indicates that the following practices can improve the **Security quality**:
 
-- **Get InfoSec involved in software design**. When a project design begins, a security review can be added as a gating factor for releasing the design to the development stage. This change might require developer training.
-- **Develop security-approved tools**. Providing developers with preapproved libraries and tools that include input from the InfoSec team can help standardize developer code. Using standard code will simplify InfoSec team to review the code. Standard code allows automated testing to check that developer are using preapproved libraries. This can also help scale the input and influence from InfoSec, because that team is typically understaffed compared to developers and testers.
-- **Develop automated testing** Building security tests into the automated testing process means that code can be continuously tested at scale without requiring a manual review. Automated testing does require you to design and develop automated security tests, both initially and as an on-going effort as new security tests are identified. This is another opportunity to scale the input from the InfoSec team.
+>- **Conduct security reviews**.
+  Conduct a security review for all major features while ensuring that the security review process doesn't slow down development.
+>- **Build preapproved code**.
+  Have the InfoSec team build preapproved, easy-to-consume libraries, packages, toolchains, and processes for developers and IT operations to use in their work.
+>- **Integrate security review into every phase**.
+  Integrate InfoSec into the daily work of the entire software delivery lifecycle.
+  This includes having the InfoSec team provide input during the design of the application, attending software demos, and providing feedback during demos.
+>- **Test for security**.
+  Test security requirements as a part of the automated testing process including areas where preapproved code should be used.
+>- **Invite InfoSec to demos**.
+  If you include the InfoSec team in your application demos, they can spot security-related weaknesses early, which gives the team ample time to fix.
 
 *Learn more about [Security Quality](https://cloud.google.com/solutions/devops/devops-tech-shifting-left-on-security)*
 
