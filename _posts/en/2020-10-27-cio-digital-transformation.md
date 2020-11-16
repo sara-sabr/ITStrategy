@@ -22,7 +22,7 @@ th {
 }
 </style>
 
-In this blog, we explain that its CIOs and CFOs that will bring a Digital Transformation vision into a reality. Although Digital Transformation deals a lot with changing business operations, if technology releases are not able to push through, that vision will remain a dream and will not manifest itself. We will show how critical CFOs are in allowing technology to respond faster to continuous business changes.
+In this blog, we suggest that it will be CIOs and CFOs that will bring a Digital Transformation vision into a reality. Although Digital Transformation deals a lot with changing business operations, if technology releases are not able to push through, that vision will remain a dream and will not manifest itself. We will show how critical CFOs are in allowing technology to respond faster to continuous business changes, and how the Cloud and DevOps are opportunities that cannot be overlooked.
 
 <!--more-->
 
@@ -59,9 +59,9 @@ As the Policy's requirements target Deputy Heads, we look at its associated [Dir
 
 &#42; The four mandatory procedures are: [Enterprise Architecture Assessment](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602), [Application Programming Interface](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604), [Privacy and Monitoring of Network and Device Use Information Notices](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32607), and [IT Security Controls](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32611)
 
-With such strong a strong focus on CIOs, the TB Policy on Service and Digital formally recognizes the **ubiquitous nature of technology in delivering services** to Canadians. Technology is no longer a back-office function. It's at the core of service delivery. Anyone working in technology already knew that, but they now have the attention of **elected officials**.
+With such a focus on CIOs, TB formally recognizes the **ubiquitous nature of technology in delivering services** to Canadians. Because CIOs are accountable for such a large number of requirements, we claim they also need to be in a position to determine _how_ technology investments are to be managed.
 
-This means that in order for policy makers to affect Canadians, they will need to go through technology delivery. If technology is not responsive enough, the lag between Policy making and service delivery directly impacts departments ability to fulfill their mandates. Policy makers looking for data to inform their evidence-based decision making (user feedback loops) will be stored in databases, managed by software.
+Technology is no longer a back-office function. It's at the core of service delivery. Anyone working in technology already knew that[^1], but they now have the attention of **elected officials**. This means that in order for policy makers to affect Canadians, they will need to go through technology delivery. If technology is not responsive enough, the lag between Policy making and service delivery will directly impact departments ability to fulfill their mandates. Policy makers looking for data to inform their evidence-based decision making (i.e. user feedback loops) will be stored in databases, managed by software. At ESDC, we find this articulated as the [Business Delivery Modernization's (BDM) 2nd main objective: Policy Agility](http://blogs-blogues.prv/ntn-bnt/bdm-not-just-another-acronym-its-an-initiative-transforming-service-delivery-as-we-know-it/).
 
 <div style="display: block; width: inherit; text-align: center;">
     <a href="/ITStrategy/assets/images/digital_feedback_loop.png" style="display: block">
@@ -73,62 +73,67 @@ This means that in order for policy makers to affect Canadians, they will need t
     <small>The feedback loop policy makers need pass through technology</small>
 </div>
 
-This lag in responsiveness happened in the past, impacted elected officials, and made [front-page news](https://www.cbc.ca/news/politics/federal-it-systems-critical-failure-1.5448871). This inadequate relationship organizations have with technology is documented in [Auditor General](https://sara-sabr.github.io/ITStrategy/2020/04/21/how-is-the-public-service-managing-large-IT-project.html) reports that, [even 10 years ago](https://www.oag-bvg.gc.ca/internet/English/parl_oag_201004_01_e_33714.html), recognized the critical nature technology plays in servicing Canadians.  
+This lag in responsiveness impacted elected officials in the past and made [front-page news](https://www.cbc.ca/news/politics/federal-it-systems-critical-failure-1.5448871). This inadequate relationship organizations have with technology is documented in [Auditor General](/ITStrategy/2020/04/21/how-is-the-public-service-managing-large-IT-project.html) reports that, [even 10 years ago](https://www.oag-bvg.gc.ca/internet/English/parl_oag_201004_01_e_33714.html), recognized the critical nature technology plays in servicing Canadians.  
 
-We want to look at this relationship with technology closer.
+We want to look at this relationship with technology closer, and how things have changed that presents new opportunities for us.
 
 ## How Are We Managing Technology Investments
 
-Using technology is risky and costly.
+Using technology is a risky and costly investment.
 
-At ESDC, we have a [Policy on Project and Program Management (PPPM)](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Policy%20on%20Project%20and%20Programme%20Management.pdf) that complies with the [TB Policy on Planning and Management of Investments](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32593). This financial policy instrument governs how investments are to be managed in the department and we narrow it to achieve to broad goals:
+The [TB Policy on Planning and Management of Investments](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32593) governs how departments are expected to manage investments, like technology, "to ensure that these activities provide value for money and demonstrate sound stewardship in program delivery". It's associated [Directive on the Management of Projects and Programmes](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32594) is where we find the notorious project gating process "so that the expected benefits and results are realized for Canadians".
+
+We will narrow the goals of these financial policy instruments to two main ones:
 
 1. Managing **risks**
 2. Placing investments where there are **benefits**
 
-We want to look closer at &#35;1 especially when our [2019-2020 Departmental Plan](https://www.canada.ca/en/employment-social-development/corporate/reports/departmental-plan/2019-2020.html) states that "_The Department [...] recognizes recognizes that one of the biggest risks it faces is a failure to take risks._"[^1]. The PPPM is where the [Project Lifecycle framework (PMLC)](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Project%20Life%20Cycle.pdf) takes its root from (a framework to guide the management of projects).
+We want to look closer at &#35;1 especially when our [2019-2020 Departmental Plan](https://www.canada.ca/en/employment-social-development/corporate/reports/departmental-plan/2019-2020.html) states that "_The Department [...] recognizes recognizes that one of the biggest risks it faces is a failure to take risks._"[^2].
 
-The current method to manage technology investments seeks a **predictable future** to a high degree. But moving to digital, this future becomes highly complex and is anything but predictable. This should warrant us to find new methods of managing technology investments: one that rewards an empirical cycle of trying, observing, and correcting. [^2]
+The current gated method to manage technology investments seeks a **high degree of future predictability**. Before work on software can start, we seek clarity on requirements and the effort needed to fulfill them. This usually takes form in producing mulitple documents, aggregated as an overall plan before approval to execute can be obtained. There was a time when this made perfect sense as it was expensive and time consuming to procure servers, code software changes in a procedural language, test those changes on dedicated testing servers (sometimes shared with other software projects so risks of project collisions needed to be managed), burn the updated software onto a disc along with installation procedures for someone else to execute (so segregation of duties can be respected), and expect downtime when those changes are being applied. If a client changed her mind during this execution phase, the impact to the project was high.
 
-The current method will start with a **business case** which sets expectations for **benefits realization**. But we should not see it as such. We should instead see it as a **hypothesis**. We _think_ we will obtain certain benefits. But we cannot be sure until we try it. Between the business case and the benefits realization, you will have the technology portion where IT personnel is asked to provide **estimates** (how long and how costly this idea will be). But anyone in the technology field will tell you those are not estimates. They are **commitments**. Should such estimates change (and they will), it is too often perceived as a _failure to plan_.
+In the last two decades we've seen a consistent and exponential increase in technology demands to conduct business operations[^3]. Departmental IT shops inadvertently became bottle necks as each demand required its own advance planning efforts, often requiring multiple proposals to compete with one another for IT's attention.
 
-In the end, this method of managing technology investments:
+This created an adverse effect: **promoting feature bloating**.
 
-- Produces **21 to 34** project documents,
-- Requires **48 to 58** project management activities, and
-- Involves **21 to 24** stakeholders &#42;
+The above methodology of advance planning can be burdensome. Lines of Business (LOB) will wait until they accumulate sufficient changes that warrant the effort of going through the process. This will increase the size of technology projects and trigger the immune system of the organization because large projects are risky and historically have had low success rates:
 
-&#42; we've added 10 more stakeholders than what is listed in the PMLC because our [Senior Advisors mapping of the software release process](onenote:http://dialogue/grp/PR6893344/OneNote/AppDevSA/02-Development%20(In%20Progress)/AppDev%20Roadmap.one#Outcomes%20and%20Dependencies%20Overview&section-id={5E16E60C-310B-49EF-8451-88E0CE4DA968}&page-id={67E8C1D8-F39B-498E-A809-EEAAB9BDAC88}&object-id={636B6DD3-FBD6-0F8E-30F2-FD3A0BC5F22E}&2E) shows us there are more IT personnel involved.
-
-In this method, we raise two important observations:
-
-1) The definition of success (what outcomes are we looking to gain, and how will they be measured) are hidden in one of the 21 to 34 documents: the **business case**
-2) The **client** (the user or her representation) is not involved throughout the project
-
-The above methodology has an adverse effect: it **promotes feature bloating**.
-
-Lines of Business (LOB) will wait until they accumulate sufficient changes that warrant the burden of going through this waterfall process. This will increase the size of technology projects and trigger the immune system of the organization because large technology projects are risky:
+- The [Standish Group](https://18f.gsa.gov/2019/04/09/why-we-love-modular-contracting/) studied 3,555 projects from 2003 to 2012 with labour cost of at least $10 million USD and found that only **6.4&#37;** of them were successful.
+- [5 Auditor General Reports](https://sara-sabr.github.io/ITStrategy/2020/04/21/how-is-the-public-service-managing-large-IT-project.html) raised attention on the difficulty large technology projects have, with one mentioning the above Standish Group report and commenting "_We are concerned that although research clearly indicates that small IT projects are more likely to succeed than large ones, departments and agencies are again undertaking large IT projects_"[^4]. These 5 Auditor General Reports are: [2006 Novembre](https://www.oag-bvg.gc.ca/internet/English/parl_oag_200611_03_e_14971.html), [2010 Spring](https://www.oag-bvg.gc.ca/internet/English/parl_oag_201004_01_e_33714.html), [2011 June](https://www.oag-bvg.gc.ca/internet/English/parl_oag_201106_02_e_35370.html), [2015 Spring](https://www.oag-bvg.gc.ca/internet/English/parl_oag_201504_05_e_40351.html), and [2018 Spring](https://www.oag-bvg.gc.ca/internet/English/parl_oag_201805_01_e_43033.html).
+- The Canadian [House of Commons asked questions in 2016 and in 2019](https://large-government-of-canada-it-projects.github.io/) on ongoing or planned IT Projects over $1M CAD. The dataset shows that 87% of them are behind schedule and 56% over budget.
 
 Large technology projects risks **locking** the organization into a potentially bad idea (hypothesis) for too long.
 
-Large technology projects **clogs** the organization's limited resources. As we commit resources to one large hypothesis, the other LOBs are waiting for their turn as they are being told "not enough capacity". This further promotes feature bloating since LOBs wait sometimes for _years_ until they have a chance to get IT's attention. And once they do, don't you DARE ask them to compromise on their requirements. They've been waiting for 7 years!!! Not to mention that one of those business cases waiting is **Technical Debt Remediation**: unattractive, technical-lingo filled proposals asking for funds without augmenting any features to end-users. Technical Debt somehow has to compete with feature rich and attractive investment proposals. It's a loosing battle that is too often passed on as a problem for a next senior leader to deal with.
+Large technology projects **clogs** the organization's limited resources. As we commit resources to one large hypothesis, the other LOBs are waiting for their turn until enough capacity is available. One of those LOBs is IT itself with its **Technical Debt Remediation**: unattractive, technical-lingo filled proposals asking for funds without augmenting any features to end-users. Technical Debt unfortunately needs to compete with feature rich and attractive investment proposals.
 
-Large technology projects have a **very low success rate**. Here are some statistics:
-
-- The [Standish Group](https://18f.gsa.gov/2019/04/09/why-we-love-modular-contracting/) studied 3,555 projects from 2003 to 2012 with labour cost of at least $10 million USD and found that only **6.4&#37;** of them were successful.
-- [5 Auditor General Reports](https://sara-sabr.github.io/ITStrategy/2020/04/21/how-is-the-public-service-managing-large-IT-project.html) raised attention on large technology projects in difficulty, with one mentioning the above Standish Group report and commenting "_We are concerned that although research clearly indicates that small IT projects are more likely to succeed than large ones, departments and agencies are again undertaking large IT projects_"[^3]. These 5 Auditor General Reports are: [2006 Novembre](https://www.oag-bvg.gc.ca/internet/English/parl_oag_200611_03_e_14971.html), [2010 Spring](https://www.oag-bvg.gc.ca/internet/English/parl_oag_201004_01_e_33714.html), [2011 June](https://www.oag-bvg.gc.ca/internet/English/parl_oag_201106_02_e_35370.html), [2015 Spring](https://www.oag-bvg.gc.ca/internet/English/parl_oag_201504_05_e_40351.html), and [2018 Spring](https://www.oag-bvg.gc.ca/internet/English/parl_oag_201805_01_e_43033.html).
-- Canadian [House of Commons questions from 2016 and 2019](https://large-government-of-canada-it-projects.github.io/) on ongoing or planned IT Projects over $1M CAD shows that 87% of them are behind schedule and 56% over budget.
-- A review the IT Strategy team did of an [internal Enterprise Project Management Office](http://dialogue/grp/IPPST/Financials%20Limited%20Access/Monthly%20Project%20Portfolio%20Dashboard%20-%20January%202019-2020%20(P10).xlsx) sample dashboard found that more than half of large scale projects are yellow or red during the execution phase (in trouble). We are not surprised of this information as all the advance planning done pre-execution, sometimes years in advance, is now facing reality and requires to be adjusted.
-
-Large technology projects **impedes** the organization to iterate on its policies.
+Ultimately, large technology projects **impedes** the organization to iterate on its policies.
 
 > Only **successful projects, in production**, enable the organization to gain **empirical evidence** necessary for their **evidence-based decision making**.
 
-The above feature bloating effect is also seen with **procurement activities**: the production of large Request For Proposals (RFPs). Are we really surprised that only a handful of large private suppliers can be eligible to, and willing to bid on, government technology RFPs?
+## Opportunities for change
 
-## Recommendations
+The digital world brings a high level of complexity and uncertainty with it. This should warrant us to seek very different approach to carrying out initiatives. A predictable world rewards advanced planning and rigid plan execution. But a complex and uncertain world rewards an empirical cycle of trying, observing, and correcting.[^5]
 
-Risk Management is an expertise of the CFO and new methods of developing technology have surfaced (e.g. [Cloud and DevOps](https://youtu.be/2BM0xYfcexY?t=940)) that warrants CIOs and CFOs working together in adjusting risk management methodologies.
+New methods of developing software are made available, mainly [Cloud and DevOps](https://youtu.be/2BM0xYfcexY?t=940), that warrants us adjusting our investment management methods. With Cloud and DevOps, the time consuming efforts of procuring servers, coding, testing, and releasing to production mentioned above are dramatically reduced. An opportunity exists to then leverage this speed to more accurately inform planning decisions. The conventional sequential thinking of planning, then executing, changes to one that is cyclical. Planning and Execution become symbiotic where both inform each other over smaller time horizon periods.
+
+(image of planning and execution phase in cycle)
+
+The result enables the use of emperical data to make planning decisions. Through execution, we can inform the next planning time horizon for the initiative. We can measure progress through actual working software, as opposed to planning documents often containing many assumptions. We can make _"Decisions \[...\] based on an assessment of full life-cycle costs and demonstrate value for money and sound stewardship;"_[^7].
+
+This opportunity is available should we first understand how different software is from other types of investments. Mainly that software often consists of an assemblage of many components[^6], each potentially able to work independently from each other. Breaking large IT Solutions into more manageable parts (whether called IT Products or Applications, sometimes [compared to Lego blocks](https://youtu.be/g-h6CtSwk30?t=212)) means work can start by multiple and different teams without the need to have figured out the whole puzzle set in advance or how to solve it in one piece. If you heard the term "Monolith", it's what we strive to go away from as they impede our ability to respond fast.
+
+The above planning-execution cycle should be allowed as per the following [TB Directive on Management of Projects and Programmes](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32594) requirements:
+
+> (welcome change) 4.2.6 Ensuring where business change is required to achieve the business outcomes, that the project and programme scope of work includes all the activities and outputs necessary to bring about this change
+> (be iterative and agile) 4.2.8 Applying as appropriate, incremental, iterative, agile, and user-centric principles and methods to the planning, definition, and implementation of the project
+> (make evidence-based decisions) 4.2.18 Establishing a project gating plan at the outset of the project, consistent with the department's framework, that; (4.2.18.1) Documents the decisions that will be taken at each gate, the evidence and information required in support of the gate decisions, the criteria used to assess the evidence, and the gate governance
+
+The above 3 requirements communicate that:
+
+1. Change will happen, and that we must accept and adapt to it
+2. To make evidence-based decisions we need emperical evidence. Such evidence can only be obtained by execution. In a sense, the planning phase of a Project needs the Execution phase's data to make informed decisions.
+
+## Some Work In Progress at ESDC Fostering these Opportunities
 
 The ESDC IT Strategy team is currently working on a set of strategies to move the organization towards reducing risks associated with technology in order to accelerate business flexibility.
 
@@ -139,6 +144,10 @@ The ESDC IT Strategy team is currently working on a set of strategies to move th
 
 ## References
 
-[^1]: [2019-2020 ESDC Departmental Plan](https://www.canada.ca/en/employment-social-development/corporate/reports/departmental-plan/2019-2020.html), page 11
-[^2]: Mark Schwartz, [_War and Peace and IT_](https://itrevolution.com/war-and-peace-and-it/), IT Revolution, 2019, page 30
-[^3]: Auditor General Report, [2006 Novembre, Chapter 3 - Large IT Projects](https://www.oag-bvg.gc.ca/internet/English/parl_oag_200611_03_e_14971.html), reviews of previous recommendations section, &#34;3.22
+[^1]: There are 6 Auditor General Reports highlighting the struggles of delivering large IT-enabled projects and how those struggles impacts both business operations and trusts in government. We've written a [blog about it here](/2020/04/21/how-is-the-public-service-managing-large-IT-project.html).
+[^2]: [2019-2020 ESDC Departmental Plan](https://www.canada.ca/en/employment-social-development/corporate/reports/departmental-plan/2019-2020.html), page 11
+[^3]: Auditor General Report, [2006 Novembre, Chapter 3 - Larget IT Projects](https://www.oag-bvg.gc.ca/internet/English/parl_oag_200611_03_e_14971.html), _"The many large information technology projects now under way across the federal government are no longer only about introducing new computer hardware, software, or systems. They are meant to help departments change the way they do business—for example, by introducing new processes and modernizing work practices"_
+[^4]: Auditor General Report, [2006 Novembre, Chapter 3 - Large IT Projects](https://www.oag-bvg.gc.ca/internet/English/parl_oag_200611_03_e_14971.html), reviews of previous recommendations section, &#35;3.22
+[^5]: Mark Schwartz, [_War and Peace and IT_](https://itrevolution.com/war-and-peace-and-it/), IT Revolution, 2019, page 30
+[^6]: Appendix A - Business Case (Diagnosis) of the [Adobt, Build, Buy Strategy](/ITStrategy/strategy-build-vs-buy.html#appendix-a---business-case-diagnostic)
+[^7]: [TB Policy on the Planning and Management of Investments](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32593) Expected result &#35;3.2.2
