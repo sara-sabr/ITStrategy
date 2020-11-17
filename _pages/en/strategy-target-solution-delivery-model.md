@@ -79,7 +79,7 @@ The **Guiding Policy**, once operationalized, will target stakeholders involved 
 
 ### Business Case (Strategic Context)
 
-Moving to the digital age exposes the ubiquitous nature of technology in delivering services to Canadians. As such, for ESDC to iterate on its policies and service offerings[^1], it will need to involve IT. In order to better deliver services to Canadians, we need to improve IT’s responsiveness otherwise the feedback loop between policy makers and Canadians will be too long, affecting ESDC’s ability to iterate on its policy making and become an agile organization.
+Moving to the digital age exposes the ubiquitous nature of technology in delivering services to Canadians. As such, for ESDC to iterate on its policies and service offerings[^1], it will need to involve IT. In order to better deliver services to Canadians, we need to improve IT's responsiveness otherwise the feedback loop between policy makers and Canadians will be too long, affecting ESDC's ability to iterate on its policy making and become an agile organization.
 
 ![An image showing 3 icons: Policy Makers, Technology, and Canadians. Between each icons, there's a relationship displayed as such: Policy Makers must use Technology to implement their policies, Technology is used to delivery services to Canadians, Canadians provide feedback to Policy Makers]({{ site.baseurl }}/assets/images/policy_through_technology.png)
 *Figure 1. In the Digital age, technology is between Policy Makers and Canadians*
@@ -87,7 +87,7 @@ Moving to the digital age exposes the ubiquitous nature of technology in deliver
 > ESDC requires **production deployments** to gain the **empirical evidence** needed for **evidence-based decision making**.
 
 ESDC is not a new department. It has accumulated a [significant amount of technical debt](http://www.oag-bvg.gc.ca/internet/English/parl_oag_201004_01_e_33714.html)[^2] over its decades that affects the responsiveness of IT.
-ESDC’s [application portfolio contains more than 500 applications](https://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/ESDC%20IT%20Plan%202019-22%20-%20FINAL.pdf)[^3], 101 of which are mission critical and depend on legacy technologies (aged custom build applications and a mainframe).
+ESDC's [application portfolio contains more than 500 applications](https://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/ESDC%20IT%20Plan%202019-22%20-%20FINAL.pdf)[^3], 101 of which are mission critical and depend on legacy technologies (aged custom build applications and a mainframe).
 In response to limitations of the antiquated IT systems, ESDC has started investing in a [Business Delivery Modernization](https://www.canada.ca/en/employment-social-development/corporate/reports/departmental-plan/2019-2020/planned-results.html#h2.04) Programme[^4].
 
 But using IT is a risky and costly investment[^5].
@@ -107,7 +107,7 @@ In short, this strategy seeks to change organizational conditions so that ESDC c
 
 This strategy will capitalize on existing IT initiatives (such as the [IITB Way Forward](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx), the PwC Independent Study, its Cloud Operations framework, and Technical Debt remediation programme) by adding attention to them and complementing them with new activities.
 
-This strategy’s goal is to define what the Target State of IT Solution Delivery is, and provide a roadmap in getting to this target state.
+This strategy's goal is to define what the Target State of IT Solution Delivery is, and provide a roadmap in getting to this target state.
 
 [Appendix A - Business Case (Diagnostic)](#appendix-a---business-case-diagnostic) explains the challenges holding us from achieving same day software delivery.
 
@@ -129,7 +129,7 @@ Stakeholders are expected to still comply with existing policy instruments inclu
 - ESDC [Data Strategy](https://www.gcpedia.gc.ca/wiki/CDO_Resources)
 - TB [Directive on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601)
 - TB [Directive on Security Management](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32611)
-- TB [Direciive on Automated Decision Making](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32592)
+- TB [Directive on Automated Decision Making](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32592)
 
 ### Governance, Compliance, and Reporting
 
@@ -144,8 +144,8 @@ Stakeholders are expected to still comply with existing policy instruments inclu
 9. Automated Decision Systems Assessment uses the \<_Target ADS Assessment methodology_\>
 10. IT-Enabled Projects produce production-ready IT Products at minimum every 6 months
 11. IT-Enabled Projects start when the minimum IT-Enabled project intake conditions are met, as defined by the \<_IT-enabled project intake condition standard_\>
-12.	IT-Enabled Projects follow the \<_IT-Enabled Project Agile Governance Framework_\>
-13.	IT-Enabled Projects report on Key Performance Indicators (KPIs) as defined in the \<_IT-Enabled Project Agile Governance Framework_\>
+12. IT-Enabled Projects follow the \<_IT-Enabled Project Agile Governance Framework_\>
+13. IT-Enabled Projects report on Key Performance Indicators (KPIs) as defined in the \<_IT-Enabled Project Agile Governance Framework_\>
 
 ### Capacity Planning
 
@@ -224,7 +224,7 @@ The following are actions that needs to be performed in order to make the Target
   </tr>
   <tr>
     <td>Adjust IITB SDLC</td>
-    <td>Adjust IITB’s SDLC to fit within the new IT-Enabled Agile Governance Framework</td>
+    <td>Adjust IITB's SDLC to fit within the new IT-Enabled Agile Governance Framework</td>
     <td><b><i>BPMO</i></b></td>
     <td>Senior Advisors</td>
   </tr>
@@ -232,7 +232,7 @@ The following are actions that needs to be performed in order to make the Target
     <td>Produce IT-enabled project intake condition standard</td>
     <td>
 Produce a list of conditions that IT-Enabled projects must meet with before project intake can accept them. E.g.<Br>
-<li>Metrics of business outcomes are defined and approved by ESDC’s Chief Architect</li>
+<li>Metrics of business outcomes are defined and approved by ESDC's Chief Architect</li>
 <li>The business sponsor commits the availability of, at minimum, one business subject matter expert throughout the IT Project</li>
 <li>The business sponsor commits the availability of, at minimum, one policy expert throughout the IT Project</li>
 <li>The business sponsor commits the availability of a sample of end users throughout the IT Project</li>
@@ -311,7 +311,7 @@ Similarly to draft BDM Digital Experience and Client Data (DECD) <a href="https:
 <li>Integration testing results</li>
 <li>Security test results</li>
 <li>Production deployment audit traces</li>
-<li>IT Product’s backlog items in scope of the DevOps team’s cadence</li>
+<li>IT Product's backlog items in scope of the DevOps team's cadence</li>
 <li>Average Pull Request Review Turnaround</li>
 <li>Performance testing results</li>
     </td>
@@ -330,8 +330,8 @@ CCoE
     <td>
     Produce a minimum list of production metrics that IT Products must publish. The purpose of these metrics is to provide insights on the health and behaviours of IT Products once in production. These insights are intended to be used for further IT Product enhancements. E.g.:
 <li>API consumption statistics</li>
-<li>IT Product’s availability statistics</li>
-<li>IT Product’s automated decision effectiveness and efficiency (if eligible)</li>
+<li>IT Product's availability statistics</li>
+<li>IT Product's automated decision effectiveness and efficiency (if eligible)</li>
 </td>
 <td><b><i>TSDM Change Mg team</i></b></td>
 <td>
@@ -456,7 +456,7 @@ Provide standards that DevOps teams are expected to comply with when releasing s
   <tr>
     <td>Define Target Architecture Vision for Legacy Environments</td>
     <td>
-    Define the target architecture vision for legacy environments to enable the transition towards BDM and the Target IT Solution Delivery Model. The Target Architecture Vision is to provide direction and set reasonable expectations for DevOps teams in a legacy environment. Its content is to provide a conceptual view of the layered architectures (presentation, integration, system/applic<a href="https://dzone.com/articles/monolith-to-microservices-using-the-strangler-patt">strangler patterns</a>
+    Define the target architecture vision for legacy environments to enable the transition towards BDM and the Target IT Solution Delivery Model. The Target Architecture Vision is to provide direction and set reasonable expectations for DevOps teams in a legacy environment. Its content is to provide a conceptual view of the layered architectures(presentation, integration, system/applications, information/data, networking, and security) and offer project teams with reference architectures to implement<a href="https://dzone.com/articles/monolith-to-microservices-using-the-strangler-patt">strangler patterns</a>
     </td>
     <td>
     <b><i>Enterprise Architecture</i></b>
@@ -669,7 +669,7 @@ The metrics are defined as follows:
 
 ## Approach to implementation (Multi-staged)
 
-It is understood that the strategy’s ambition will not be implemented in a big bang approach or in a couple of years. The approach to its implementation will be that of an iterative one towards the target state using three stages:
+It is understood that the strategy's ambition will not be implemented in a big bang approach or in a couple of years. The approach to its implementation will be that of an iterative one towards the target state using three stages:
 
 1. **Stage 1: Foundation and awareness**
     - Expose existing ESDC IT teams already working close or at the Target State by promoting their visibility in the organization and granting them the authority to operate under the Target State (e.g. teams in the CPP-E project).
@@ -680,7 +680,7 @@ It is understood that the strategy’s ambition will not be implemented in a big
     - Raise Awareness on the need for System Administrators to move towards Site Reliability Engineers
 2. **Stage 2: Infrastructure and Legacy readiness**
     - Identify 2 IT-enabled Projects touching Legacy systems for piloting and scope them towards the Target State direction (as per the Target Architecture Vision for Legacy)
-    - Provide common DevOps pipelines for IT teams to use (funded, SA&A’ed, and adopted as Technical Standards)
+    - Provide common DevOps pipelines for IT teams to use (funded, passed SA&A, and adopted as Technical Standards)
     - Experiment with non-production environments, for legacy systems, in the public cloud (e.g. testing environments)
 3. **Stage 3: Scale**
     - Identify “Platform teams” that provides services to DevOps teams, through tooling and APIs
@@ -692,19 +692,19 @@ It is understood that the strategy’s ambition will not be implemented in a big
 
 ## Appendix A - Diagnostic (challenges holding us back)
 
-The [Policy on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603), reflecting citizen’s expectations requires ESDC to review services delivered to clients periodically. With the ubiquitous nature of technology, any changes to ESDC services will require implicating IT teams.
+The [Policy on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603), reflecting citizen's expectations requires ESDC to review services delivered to clients periodically. With the ubiquitous nature of technology, any changes to ESDC services will require implicating IT teams.
 
 The [Directive on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601) highlights how departmental CIOs have a major say on how departments are to digital transform .
 
 | Official      | &#37; of Total Reqs | Mandatory Procedures (4) reqs[^13] |
 |---------------------------------------------------------------------|
-| CIO           | 84&#37;             | 229                           |
+| ***CIO***           | ***84&#37;***             | ***229***                           |
 | Service       | 10&#37;             | 0                             |
 | Cyber Security| 6&#37;              | 74                            |
 
 The current methods of managing IT investments is guided by the following ESDC financial policy instrument: [Policy on Project and Programme Management (PPPM)](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Policy%20on%20Project%20and%20Programme%20Management.pdf). This is the Policy that produced the [Standard on Project Management](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Standard%20on$20Project%20Management.pdf) which describes the key requirements for ESDC personnel operating in a project environment. The current standard seek to manage risks and costs with advanced planning and rigid plan execution. The gating approach to project management requires project teams to seek permission to continue. This permission is granted when sufficient evidence of due diligence and an accurate picture of the future is provided. This may work when the future is predictable, but not when it is complex and uncertain. Its adverse affect is promoting feature bloating as the burden of going through the process of seeking permission before proceeding makes it a deterrent to deploy small changes.
 
-Moving to a highly integrated, complex, and uncertain world that is Digital warrant us to move towards a more empirical cycle of trying, observing, and course correcting. The relationship between the Planning and Execution Phase becomes cyclical. It’s through execution that we gain the necessary empirical evidence to inform our Planning estimates and decide on course corrections. Recent software development practices, mainly Cloud and DevOps, have permitted us to move towards this approach. IT no longer requires lengthy wait time to procure servers, to develop large code bases, and to seek large capital investments for infrastructure. Cloud has commoditized IT infrastructure enabling ESDC to rapidly develop, test, and deploy software.
+Moving to a highly integrated, complex, and uncertain world that is Digital warrant us to move towards a more empirical cycle of trying, observing, and course correcting. The relationship between the Planning and Execution Phase becomes cyclical. It's through execution that we gain the necessary empirical evidence to inform our Planning estimates and decide on course corrections. Recent software development practices, mainly Cloud and DevOps, have permitted us to move towards this approach. IT no longer requires lengthy wait time to procure servers, to develop large code bases, and to seek large capital investments for infrastructure. Cloud has commoditized IT infrastructure enabling ESDC to rapidly develop, test, and deploy software.
 
 In addition, the software world is moving away from [Monolith-types of solutions](https://medium.com/koderlabs/introduction-to-monolithic-architecture-and-microservices-architecture-b211a5955c63) (large code bases that provides many capabilities but become bottlenecks and single-points of failures in the IT ecosystem as the many IT teams needed to perform work collide).
 
@@ -716,7 +716,7 @@ The [TB Directive on the Management of Projects and Programmes](https://www.tbs-
 
 The above 3 requirements from the TB Directive indicates that departments must accept and adapt to change, as well as make evidence-based decision making (like planning decisions). Such evidence can only be obtained by execution.
 
-IITB has made efforts to modernize its management of technology, as is showcased in the [IITB News Kudo’s Corner](http://esdc.prv/en/iitb/corporate/news/archives.shtml)[^14]  and its [IITB Way Forward](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental IMIT Plan/19-20 Plans/IITB Moving Forward v2.docx)[^15] plan. However, ESDC’s relationship with technology spans beyond IITB’s influence.
+IITB has made efforts to modernize its management of technology, as is showcased in the [IITB News Kudo's Corner](http://esdc.prv/en/iitb/corporate/news/archives.shtml)[^14]  and its [IITB Way Forward](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental IMIT Plan/19-20 Plans/IITB Moving Forward v2.docx)[^15] plan. However, ESDC's relationship with technology spans beyond IITB's influence.
 
 Moving ESDC towards being an agile organization requires moving towards a model that enables smaller, more frequent software deployments as they are enabling the organization to gain empirical evidence necessary to make evidence-based decision making.
 
@@ -820,7 +820,7 @@ PwC Independent Study/3.2
 - TB [Directive on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601)
 - TB [Directive on Security Management](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32611)
 - TB [Directive on the Management of Projects and Programmes](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32594)
--	TB [Directive on Automated Decision-Making](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32592)
+- TB [Directive on Automated Decision-Making](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32592)
 - [Scale Agile Framework (SAFe)](https://www.scaledagileframework.com/)
 - [Disciplined Agile (DA)](https://www.pmi.org/disciplined-agile)
 - [Large-Scale Scrum](https://less.works/)
@@ -887,7 +887,7 @@ Figure 2. Relationship Model between the different software elements (part 2).
 A temporary endeavour undertaken to create a unique technology product, service, or result.
 The temporary nature of IT-Enabled projects indicates that it has a definite beginning and end.
 
-This definition is a modified version for the [ESDC’s Directive on Project Management](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Directive%20on%20Project%20Management.pdf) to include the IT aspect.
+This definition is a modified version for the [ESDC's Directive on Project Management](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Directive%20on%20Project%20Management.pdf) to include the IT aspect.
 
 **IT Product Owner**
 
@@ -953,7 +953,7 @@ The following are statistics and references regarding the problems and success r
 
 **1) Standish Group study**
 
-The Standish Group, a research advisory organization that focuses on software development performance[^16], found that “of 3,555 projects from 2003 to 2012 that had labor costs of at least $10 million, only 6.4% were successful. The Standish data showed that 52% of the large projects were “challenged” meaning they were over budget, behind schedule or didn’t meet user expectations. The remaining 41.4% were failures — they were either abandoned or started anew from scratch."[^17]
+The Standish Group, a research advisory organization that focuses on software development performance[^16], found that “of 3,555 projects from 2003 to 2012 that had labor costs of at least $10 million, only 6.4% were successful. The Standish data showed that 52% of the large projects were “challenged” meaning they were over budget, behind schedule or didn't meet user expectations. The remaining 41.4% were failures — they were either abandoned or started anew from scratch."[^17]
 
 The standish group study and results were also mentioned in Chapter 3 of the Novembre 2006 Report of the Auditor General of Canada (statements 3.5 and 3.6). See point 3 below
 
@@ -1000,26 +1000,26 @@ The audit focused on whether Public Services and Procurement Canada (PSPC) effec
 
 The report concludes that “the Phoenix project was an incomprehensible failure of project management and oversight. Phoenix executives prioritized certain aspects, such as schedule and budget, over other critical ones, such as functionality and security. Phoenix executives did not understand the importance of warnings that the Miramichi Pay Centre, departments and agencies, and the new system were not ready. They did not provide complete and accurate information to deputy ministers and associate deputy ministers of departments and agencies, including the Deputy Minister of Public Services and Procurement, when briefing them on Phoenix readiness for implementation. In our opinion, the decision by Phoenix executives to implement Phoenix was unreasonable according to the information available at the time. As a result, Phoenix has not met user needs, has cost the federal government hundreds of millions of dollars, and has financially affected tens of thousands of its employees.”.
 
-**8) 18F’s February 2020 [presentation at Michigan Senate Appropriations Committee](https://www.youtube.com/watch?v=g-h6CtSwk30)[^24]**
+**8) 18F's February 2020 [presentation at Michigan Senate Appropriations Committee](https://www.youtube.com/watch?v=g-h6CtSwk30)[^24]**
 
-On February 2020, 18F (the U.S. equivalent of the Canadian Digital Service) did a presentation at Michigan’s Senate Appropriations Committee. 18F was created in 2014 by the Presidential Innovation Fellows (PIF, established in 2012 by the White House) to improve and modernize government technology[^25]. The presentation focused on technology procurement and its challenges. In short, government departments are unable to adequately frame the problem into manageable parts and, as such, are locking themselves into lengthy, large, and complicated contracts with vendors.
+On February 2020, 18F (the U.S. equivalent of the Canadian Digital Service) did a presentation at Michigan's Senate Appropriations Committee. 18F was created in 2014 by the Presidential Innovation Fellows (PIF, established in 2012 by the White House) to improve and modernize government technology[^25]. The presentation focused on technology procurement and its challenges. In short, government departments are unable to adequately frame the problem into manageable parts and, as such, are locking themselves into lengthy, large, and complicated contracts with vendors.
 
 ## Inline references <!-- omit in toc -->
 
-[^1]: Business Delivery Modernization’s (BDM) [2nd main objective: Policy agility](http://blogs-blogues.prv/ntn-bnt/bdm-not-just-another-acronym-its-an-initiative-transforming-service-delivery-as-we-know-it/)
+[^1]: Business Delivery Modernization's (BDM) [2nd main objective: Policy agility](http://blogs-blogues.prv/ntn-bnt/bdm-not-just-another-acronym-its-an-initiative-transforming-service-delivery-as-we-know-it/)
 [^2]: [2010 Sprint Report](http://www.oag-bvg.gc.ca/internet/English/parl_oag_201004_01_e_33714.html) of the Auditor General of Canada
 [^3]: [2019-2022 ESDC IT Plan](https://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/ESDC%20IT%20Plan%202019-22%20-%20FINAL.pdf)
-[^4]: [2019-2020 ESDC Departmental Plan’s result](https://www.canada.ca/en/employment-social-development/corporate/reports/departmental-plan/2019-2020/planned-results.html#h2.04)
+[^4]: [2019-2020 ESDC Departmental Plan's result](https://www.canada.ca/en/employment-social-development/corporate/reports/departmental-plan/2019-2020/planned-results.html#h2.04)
 [^5]: See Appendix F on large IT-enabled project statistics
 [^6]: [How is the Public Service Managing Large IT Projects?](https://sara-sabr.github.io/ITStrategy/2020/04/21/how-is-the-public-service-managing-large-IT-project.html), a synthesis of 6 Auditor General of Canada reports
 [^7]: Mark Schwartz, War & Peace & IT
-[^8]: Referencing ESDC’s [Policy on Programme and Project Management](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Policy%20on%20Project%20and%20Programme%20Management.pdf)’s 2 key objectives: #2 (focus on benefits), and #4 (intention to reduce risks)
+[^8]: Referencing ESDC's [Policy on Programme and Project Management](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Policy%20on%20Project%20and%20Programme%20Management.pdf)'s 2 key objectives: #2 (focus on benefits), and #4 (intention to reduce risks)
 [^9]: [DORA State of DevOps 2019](https://services.google.com/fh/files/misc/state-of-devops-2019.pdf) pages 40, 51, and 53
 [^10]: [Enabling conditions, not just heroics](https://honeygolightly.medium.com/enabling-conditions-not-just-heroics-110a2faba643), Honey Dacaney, Nov 2020
 [^11]: [Team Topology](https://teamtopologies.com/), 2019, by Matthew Skelton and Manuel Pais
 [^12]: From an [analysis](https://dialogue/grp/BU6810070/Versioned%20Library%20for%20collaboration/Policy_on_service_and_digital_analysis.xlsx) by the IT Strategy team
 [^13]: The four mandatory procedures are: [Enterprise Architecture Assessment](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602), [APIs](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604), [Privacy and Monitoring of Networks](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32607), and [IT Security Controls](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32611)
-[^14]: [IITB News Kudo’s Corner](http://esdc.prv/en/iitb/corporate/news/archives.shtml)
+[^14]: [IITB News Kudo's Corner](http://esdc.prv/en/iitb/corporate/news/archives.shtml)
 [^15]: [IITB Way Forward](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx)
 [^16]: [About the Standish Group](https://standishgroup.com/about)
 [^17]: [Why we love modular contracting](https://18f.gsa.gov/2019/04/09/why-we-love-modular-contracting/), by 18f
@@ -1029,5 +1029,5 @@ On February 2020, 18F (the U.S. equivalent of the Canadian Digital Service) did 
 [^21]: [2011 June Status Report of the Auditor General of Canada](https://www.oag-bvg.gc.ca/internet/English/parl_oag_201106_02_e_35370.html)
 [^22]: [2015 Spring Reports of the Auditor General of Canada](https://www.oag-bvg.gc.ca/internet/English/parl_oag_201504_05_e_40351.html)
 [^23]: [2018 sprint Reports of the Auditor General of Canada](https://www.oag-bvg.gc.ca/internet/English/parl_oag_201805_01_e_43033.html)
-[^24]: 18F’s February 2020 [presentation at Michigan Senate Appropriations Committee](https://www.youtube.com/watch?v=g-h6CtSwk30)
+[^24]: 18F's February 2020 [presentation at Michigan Senate Appropriations Committee](https://www.youtube.com/watch?v=g-h6CtSwk30)
 [^25]: [About 18f](https://18f.gsa.gov/about/)
