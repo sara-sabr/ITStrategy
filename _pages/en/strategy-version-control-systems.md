@@ -128,7 +128,16 @@ Stakeholders are expected to still comply with existing policy instruments inclu
     - Wiki (documentation);
     - Build and Test Automation (e.g., security-related); and
     - Deployment to internal or external platforms.
-4. Make their projects in the VCS open by default.
+4. Make their projects in the VCS open by default and adhere to best practices such as:
+    - Project space is easily discoverable;
+    - There's a clear process to support and encourage external contributions (other employees, public);
+    - Code of conduct is present;
+    - Security disclosure process is in place for vulnerabilities;
+    - Documentation (at least minimal) is published and maintained, and translated at each release (TBD);
+    - Classified information and secrets are kept in proper tools and never hardcoded in the source code;
+    - Source code security and compliance is automatically assessed on a continuous basis with tools and services; and
+    - An up-to-date bill of materials is continuously generated and made available.
+    - _For more details, consult the [Guide for Publishing Open Source Code](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/open-source-software/guide-for-publishing-open-source-code.html)._
 
 ## Coherent set of actions
 
