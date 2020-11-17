@@ -209,7 +209,7 @@ This excerpt from to the [DORA DevOps capabilities guides](https://cloud.google.
 
 #### Recommendations
 
-To improve the quality of evaluating the functionality and architecture of the system, it important to consider the organizational and technical components:
+Based on the [DORA DevOps capabilities guides](https://cloud.google.com/solutions/devops/capabilities), the following concepts can improve the quality of evaluating the functionality and architecture of the system, it's important to consider the organizational and technical components:
 
 Organizational
 
@@ -226,8 +226,11 @@ If you have limited test automation, start building a skeleton deployment pipeli
 - Automated deployments scripts for a exploratory test environments
 - Increase test coverage and extend the deployments product as the product or service evolves
 
-Please note, write your **unit tests** before writing code to improve the code are testable and the tests are maintainable.
-Also, write a small number of **acceptance tests** for the high-value functionality. Make sure you require developers to write unit and acceptance tests for any new functionality, and any functionality you are changing.
+It is also recommended to write your **unit tests** before writing code to improve the code are testable and the tests are maintainable.
+
+Finally, you can write a small number of **acceptance tests** for the high-value functionality.
+
+Make sure you require developers to write unit and acceptance tests for any new functionality, and any functionality you are changing.
 
 *Learn more about [Continuous Testing](https://cloud.google.com/solutions/devops/devops-tech-test-automation)*
 
@@ -242,7 +245,7 @@ Also, write a small number of **acceptance tests** for the high-value functional
 
 #### Recommendations
 
-To improve the developer productivity and improve deployment outcomes, the following are recommendations to make **architectural improvement**:
+Based on the [DORA DevOps capabilities guides](https://cloud.google.com/solutions/devops/capabilities), the following recommendations can improve the developer productivity, deployment outcomes and overall **architecture**:
 
 - **Evolutionary architecture**. An iterative approach to improving the design of your enterprise system. This will lead successful products and services to re-architect during their lifecycle due to the changing requirements placed on them.
 
@@ -256,12 +259,25 @@ Before transforming a functionality into a service, they need to consist of the 
 
 *Learn more about [Architecture](https://cloud.google.com/solutions/devops/devops-tech-architecture)*
 
-To make sure **the team is empowered** to make the tool and technology decisions, the following are recommendations for teams to work on the best tools at work:
+The following excerpt from the [DORA DevOps capabilities guides](https://cloud.google.com/solutions/devops/capabilities) provides recommendations to make sure **the team is empowered** to make tool and technology decisions:
 
-- **Team members discuss current tools**. During assessments, encourage team members to critically evaluate the efficiency of the current tools with their current workload.
-- **Proactively investigate new tools for new projects**. Members of the teams can experiment and propose new tools to determine whether those tools can complement in the daily work. Try implementing a key piece of the new system using both existing and proposed technologies to see whether the expected benefits materialize. Make sure to have an understand of the cost, licensing, support and infrastructure to support the tools.
-- **Schedule time to experiment with new tools**. Hold sessions (such as hackathons) where teams can play around with new projects and new technologies. Not all tools will be kept as a result of these experiments. This will help explore with new technologies to identify the benefits and complexities in the long-term
-- **Hold regular presentations to discuss new tools**. Host organized meetings (such as lunch meetings) where new tech is presented and discussed. Informal meetings can also be made where one person does a presentation about a project they are working on in a new tech, or something they are investigating. These presentations are not limited. They can be within your team members, other people in the organization and outside the organization.
+>- **Periodically assess the tech stack**.
+  During assessments, encourage team members to critically evaluate how well the current tools address requirements.
+  Additionally, during these reviews, discuss issues with the existing tools and potential new tool experimentation can be discussed and planned.
+>- **Proactively investigate new tools for new projects**.
+  Have members of the teams think about and experiment with new tools to determine whether those tools are worth supporting.
+  Try implementing a key piece of the new system using both existing and proposed technologies to see whether the expected benefits materialize.
+  When you select technologies, have a good understanding of the costs associated with the technology. These might include licensing, support, and the infrastructure required to run the tools. You might also need to hire more people to help with adopting and maintaining the technology.
+>- **Schedule time to experiment with new tools**.
+  Periodically, hold sessions (such as hackathons) where teams can play around with new projects and new technologies.
+  Not all tools will be kept as a result of these experiments.
+  But the important point is that you're easing these new technologies into your stack or decide they aren't appropriate.
+ >- **Hold regular presentations to discuss new tools**.
+  Sponsor organized meetings (such as lunch meetings) where new tech is presented and discussed.
+  They can be informal meetings where one person does a presentation about a project they are working on in a new tech, or something they are investigating.
+  Informal meetings like these are a good way for the group to talk about new technologies and stay up to date.
+  A good approach is to rotate the presentations, with team members taking turns presenting Or you can invite people from other teams or someone from outside of the company to present.
+  Including people from outside the organization can be particularly helpful, because if they have experience with a tool, they can discuss hidden costs and complexities that will only be apparent after longer-term use.
 
 *Learn more about [Empowering teams to choose tools](https://cloud.google.com/solutions/devops/devops-tech-teams-empowered-to-choose-tools)*
 
@@ -275,7 +291,7 @@ To make sure **the team is empowered** to make the tool and technology decisions
 
 #### Recommendations
 
-To achieve more rapid, reliable releases, and higher levels of availability, velocity, and reliability of the **Cloud Infrastructure**, the key actions below need to be considered:
+Based on the [DORA DevOps capabilities guides](https://cloud.google.com/solutions/devops/capabilities),to achieve more rapid, reliable releases, and higher levels of availability, velocity, and reliability of the **Cloud Infrastructure**, the key actions below need to be considered:
 
 - **Close collaboration** with developers, operations teams, information security, procurement, and finance. This will assist to identify and resolve any concerns or conflicts to substantial changes in adopting cloud-native processes and practices.
 - **Adopting Infrastructure-as-code** .This allows Infrastructure configuration to run version control, and developers can provision environments, make configuration changes, and execute deployments through an automated mechanism. Additional, consider the requirements to be assessed such as the engineering effort and process change, including changing policies for implementing information security controls.
@@ -305,21 +321,21 @@ To achieve more rapid, reliable releases, and higher levels of availability, vel
 
 #### Recommendations
 
-The following practices can improve your **team experimentation**:
+The following excerpt of the [DORA DevOps capabilities guides](https://cloud.google.com/solutions/devops/capabilities) indicates that the following practices can improve your **team experimentation**:
 
-- **Hold regular hackathons.** Hackathons are opportunities for the team to experiment and to work with and share ideas. They also have the added benefit of letting your team work with new technologies and tools.
-- **Encourage teams to iterate on and continually improve solutions to foster experimentation.** Many times the first solution to a problem isn't the best. Improvements to one service or feature often yield improvements in others.
-- **Allow developers and operators to talk to and observe customers.** This kind of interaction provides more context and information that teams can use to solve problems and develop new ideas.
+>- **Hold regular hackathons.** Hackathons are opportunities for the team to experiment and to work with and share ideas. They also have the added benefit of letting your team work with new technologies and tools.
+>- **Encourage teams to iterate on and continually improve solutions to foster experimentation.** Many times the first solution to a problem isn't the best. Improvements to one service or feature often yield improvements in others.
+>- **Allow developers and operators to talk to and observe customers.** This kind of interaction provides more context and information that teams can use to solve problems and develop new ideas.
 
 *Learn more about [Team experimentation](https://cloud.google.com/solutions/devops/devops-process-team-experimentation)*
 
-To improve your **change approval processes**, focus on implementing the following:
+This excerpt of the [DORA DevOps capabilities guides](https://cloud.google.com/solutions/devops/capabilities) indicates that to improve your **change approval processes**, focus on implementing the following:
 
-- Moving to a peer-review based process for individual changes, enforced at code check-in time, and supported by automated tests.
-- Finding ways to discover problems such as regressions, performance problems, and security issues in an automated fashion as soon as possible after changes are committed.
-- Performing ongoing analysis to detect and flag high risk changes early on so that they can be subjected to additional scrutiny.
-- Looking at the change process end-to-end, identifying bottlenecks, and experimenting with ways to shift validations into the development platform.
-- Implementing information security controls at the platform and infrastructure layer and in the development tool chain, rather than reviewing them manually as part of the software delivery process.
+>1. Moving to a peer-review based process for individual changes, enforced at code check-in time, and supported by automated tests.
+>1. Finding ways to discover problems such as regressions, performance problems, and security issues in an automated fashion as soon as possible after changes are committed.
+>1. Performing ongoing analysis to detect and flag high risk changes early on so that they can be subjected to additional scrutiny.
+>1. Looking at the change process end-to-end, identifying bottlenecks, and experimenting with ways to shift validations into the development platform.
+>1. Implementing information security controls at the platform and infrastructure layer and in the development tool chain, rather than reviewing them manually as part of the software delivery process.
 
 *Learn more about [Streamlining change approval](https://cloud.google.com/solutions/devops/devops-process-streamlining-change-approval)*
 
@@ -339,7 +355,9 @@ To improve your **change approval processes**, focus on implementing the followi
 
 #### Recommendations
 
-Increased engagement with customers and participation in product management processes contributes to stronger identification with your organization's goals and values. A team should use the following pattern in order to maximize their chances of successfully solving **customer problems**:
+Increased engagement with customers and participation in product management processes contributes to stronger identification with your organization's goals and values.
+
+Based on the [DORA DevOps capabilities guides](https://cloud.google.com/solutions/devops/capabilities), a team should use the following pattern in order to maximize their chances of successfully solving **customer problems**:
 
 - Gather customer feedback first, before defining any potential features.
 - Validate that you're solving a real problem.
@@ -350,7 +368,7 @@ Increased engagement with customers and participation in product management proc
 
 *Learn more about [Customer feedback...](https://cloud.google.com/solutions/devops/devops-process-customer-feedback)*
 
-To improve **work visibility** you should:
+The following excerpt of the [DORA DevOps capabilities guides](https://cloud.google.com/solutions/devops/capabilities) o improve **work visibility** you should:
 
 - **Provide tools for visualizing and recording workflow.** Start with making sure the team has visual management displays that show their work and its flow through the part of the value stream that is closest to them, including both the upstream and downstream parts of the process. Record how long it takes work to get through the process, and how often rework must be performed because the team didn't get it right the first time. This will uncover your early and best opportunities for improvement at the team level.
 - **Create a value stream map.** Work with other teams to perform a value-stream mapping exercise to discover how work flows from idea to customer outcome, and report the VSM metrics (lead time, process time, %C/A) for each process block. Have the team prepare a future-state value stream map and work to implement it.
