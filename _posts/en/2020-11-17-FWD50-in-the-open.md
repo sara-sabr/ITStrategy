@@ -5,17 +5,17 @@ ref: FWD50-2020
 lang: en
 author: "Rachel Muston and Guillaume Charest"
 date: "2020-11-20"
-excerpt: "FWD50 looked very different this year. But there was still a lot of passion and will to continuously improve government!"
+excerpt: "FWD50 looked very different this year. But, there was still a lot of passion and will from participants to continuously improve government!"
 ---
 <!--markdownlint-disable MD033-->
 
 FWD50 looked very different this year.
 From Nov 3-9, attendees and presenters joined the conference virtually, trading the magnificent [Pavillon Aberdeen](https://ottawa.ca/en/lansdowne#h3) for their couches and home offices.
-The virtual platform used was [Grip](https://grip.events/), which provided agenda information and the ability for the user to build up their schedule to maximize their time for the four-day conference.
+The virtual platform used to recreate the level of energy found in person was [Grip](https://grip.events/), which provided agenda information and the ability for the users to build up their schedule and setup impromptu networking opportunities to maximize their time during the four-day conference.
 
-Each session had a [Vimeo](https://vimeo.com) channel where folks could watch the sessions with closed captioning and workshops used dedicated [Zoom](https://zoom.us/) rooms to provide interactives features to the participants.
+Each session had a [Vimeo](https://vimeo.com) channel where folks could watch the video with closed captioning and workshops used dedicated [Zoom](https://zoom.us/) rooms to provide interactives features to the participants.
 
-On the side of each session display, a text chat feature allowed participants to share information with each other and ask questions, which opened up really interesting discussions and further improved networking opportunities.
+On the side of each session display, a text chat feature allowed participants to share information with each other and ask questions to the presenters, which opened up really interesting discussions and further improved networking opportunities.
 
 During each session, there was also an opportunity for the users to tag a presenter to ask to network with them later.
 
@@ -35,7 +35,7 @@ Some of the presenters have made their presentations or details of their present
 - Ann-Marie Cavanagh, Deputy Government Chief Digital Office and Deputy Chief Executive Digital Public Service, New Zealand, shared her governments [Digital Strategy](https://www.digital.govt.nz/digital-government/strategy/strategy-summary/strategy-for-a-digital-public-service/) and [Digital Inclusion Outcomes Framework](https://www.digital.govt.nz/dmsdocument/167~digital-inclusion-outcomes-framework/html) during her talk on COVID-19 and Economic Recovery: New Zealand's lessons learnt on digital inclusion and resilience.
 - The folks who participated on the Can the Platform Be Of Service? - The Commitment To Person-centred Design When Adopting Tech Models In The Public Sector, made the highlights of their presentation available in this ['Can the platform be of service' miro board](https://miro.com/app/board/o9J_kg8Sr3c=/).
 
-In a great example of the community working openly, a google doc was spontaneously created by a FWD50 attendee to capture all the books that were mentioned by speakers. This [list of books](https://docs.google.com/document/d/1Kyq80aMy_a6wnOdaHgzYLqSaqKfmjMmBdDnXKy6N4YQ/edit#heading=h.kr7a4cpsy27s) was shared with all attendees and anyone could add to it when a book was mentioned.
+In a great example of the community working openly, a Google Document was spontaneously created by a FWD50 attendee to capture all the books that were mentioned by speakers. This [list of books](https://docs.google.com/document/d/1Kyq80aMy_a6wnOdaHgzYLqSaqKfmjMmBdDnXKy6N4YQ/edit#heading=h.kr7a4cpsy27s) was shared with all attendees and anyone could add to it when a book was mentioned.
 
 Some articles and other documents/tools that were shared by speakers include:
 
@@ -57,10 +57,11 @@ There were many people who were live-tweeting the event under the #FWD50 hashtag
 - [Rob Butler](https://twitter.com/search?q=(%23fwd50)%20(from%3A@RobButler)%20since%3A2020-11-01&src=typed_query&f=live)
 - [Thom Kearney](https://twitter.com/search?q=(%23fwd50)%20(from%3A@thomkearney)%20since%3A2020-11-01&src=typed_query&f=live)
 
-Note: There many others so feel free to let us know of them!
+*Note: There many others out there so feel free to let us know of them so that we can update the list!*
 
-As always with FWD50 it is impossible to leave this conference without finding new interesting people to follow.
-Some of our new follows include:
+As always with FWD50, it is impossible to leave this conference without finding new interesting people to follow.
+Some of these include:
 
-- Yin Yin Lu
-  
+- [Yin Yin Lu](https://twitter.com/Yinneth), a self-proclaimed Rhetoric Doctor, shared with the audience how communication science could very well be more important than political science. She was funny, witty and very engaging with the participants!
+- [Dr. Julia Glidden](https://twitter.com/JuliaGlidden), from Microsoft, who shared how many of the things we are now seeing emerge in the government were concepts she and her peers were trying to promote more than a decade ago!
+- Our very own Minister of Digital Government, the [Honourable Joyce Murray](https://twitter.com/JoyceMurray), provided a thoughtful keynote and encouraged us to continue our journey towards a truly digital government.
