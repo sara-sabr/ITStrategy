@@ -64,4 +64,4 @@ Some of these include:
 
 - [Yin Yin Lu](https://twitter.com/Yinneth), a self-proclaimed Rhetoric Doctor, shared with the audience how communication science could very well be more important than political science. She was funny, witty and very engaging with the participants!
 - [Dr. Julia Glidden](https://twitter.com/JuliaGlidden), from Microsoft, who shared how many of the things we are now seeing emerge in the government were concepts she and her peers were trying to promote more than a decade ago!
-- Our very own Minister of Digital Government, the [Honourable Joyce Murray](https://twitter.com/JoyceMurray), provided a thoughtful keynote and encouraged us to continue our journey towards a truly digital government.
+- Our very own Minister of Digital Government, the [Honourable Joyce Murray](https://twitter.com/JoyceMurray), provided a thoughtful [keynote](https://player.vimeo.com/video/473572261#t=35m) and encouraged us to continue our journey towards a truly digital government by building on the critical experience acquired throughout the COVID-19 pandemic.
