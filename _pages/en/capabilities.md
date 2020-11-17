@@ -464,23 +464,45 @@ Here are a few key measures to validate an effective implementation of monitorin
 
 #### Recommendations
 
-When faced with too much work and too few people to do it, here are ways to improve **work in process limits.**
+This excerpt from the [DORA DevOps capabilities guides](https://cloud.google.com/solutions/devops/capabilities) explains improve **work in process limits** when faced with too much work and too few people to do it:
 
-- **Make your work visible.** As you do this, try to surface all of your work, making all of it visible, to several teams and stakeholders. (See visual displays for details).
-- **Set WIP limits that match your team's capacity for work.**
-Account for activities like production support, meeting time and technical debt. Don't allow more WIP in any given part of the process than you have people to work on tasks. Don't require people to split their time between multiple tasks. When a particular piece of work is completed, move the card representing that work to the next column, and pull the highest priority piece of work waiting in the queue.
-- **Set up a weekly meeting for stakeholders to prioritize all work in order.** Let stakeholders know that if they don't attend, their work won't get done.
-- **Work to increase flow.** Measure the lead time of work through the system. Record the date that work started on a card and the date work ended. From this information, you can create a running frequency histogram, which shows the number of days work takes to go through the system. This data will allow you to calculate the mean lead time, as well as variability, with the goal of having low variability: high variability means you are not scoping projects well or have significant constraints outside of your team. High variability also means your estimates and predictions about future work will not be as reliable.
-- **Improve work processes.** Reduce hand-offs, simplify and automate tasks, and think about how to collaborate better to get work done. After you've removed some obstacles and things feel comfortable, reduce your WIP limits to reveal the next set of obstacles. The ideal is single-piece flow, which means that work flows from idea to customer with minimal wait time or rework. This ideal may not be achievable, but it acts as a "true north" to guide the way in a process of continuous improvement.
+>- **Make your work visible.**
+  As you do this, try to surface all of your work, making all of it visible, to several teams and stakeholders. (See [visual displays](https://cloud.google.com/solutions/devops/devops-measurement-visual-management) for details).
+>- **Set WIP limits that match your team's capacity for work.**
+>   - Account for activities like production support, meeting time and technical debt.
+>   - Don't allow more WIP in any given part of the process than you have people to work on tasks.
+>   - Don't require people to split their time between multiple tasks.
+>   - When a particular piece of work is completed, move the card representing that work to the next column, and pull the highest priority piece of work waiting in the queue.
+>- **Set up a weekly meeting for stakeholders to prioritize all work in order.**
+  Let stakeholders know that if they don't attend, their work won't get done.
+>- **Work to increase flow.**
+  Measure the lead time of work through the system.
+  Record the date that work started on a card and the date work ended.
+  From this information, you can create a running frequency histogram, which shows the number of days work takes to go through the system.
+  This data will allow you to calculate the mean lead time, as well as variability, with the goal of having low variability: high variability means you are not scoping projects well or have significant constraints outside of your team. High variability also means your estimates and predictions about future work will not be as reliable.
+>- **Improve work processes.**
+  Reduce hand-offs, simplify and automate tasks, and think about how to collaborate better to get work done.
+  After you've removed some obstacles and things feel comfortable, reduce your WIP limits to reveal the next set of obstacles.
+  The ideal is single-piece flow, which means that work flows from idea to customer with minimal wait time or rework.
+  This ideal may not be achievable, but it acts as a "true north" to guide the way in a process of continuous improvement.
 
 *Learn more about [Work in process limits...](https://cloud.google.com/solutions/devops/devops-measurement-wip-limits)*
 
-In order to be effective in **visual management**, systems must do the following:
+This excerpt from the [DORA DevOps capabilities guides](https://cloud.google.com/solutions/devops/capabilities) explains that to improve effectiveness in **visual management**, systems must do the following:
 
-- **Reflect information that the team cares about and will act on.** Having build monitors does no good if teams don't care whether the display shows an issue (for example, showing that the build status is red, meaning broken), and won't actually act on this information by swarming to fix the issue.
-- **Be easy to understand.** It should be possible to tell at a glance from across the room whether something needs attention. If there is a problem, teams should know how to perform further diagnosis or fix the problem.
-- **Give the team information that is relevant to their work.** While it's important to collect as much data as possible about the team's work, the display should present only data that is relevant to the team's goals. In the face of information overload, particularly information that cannot be acted upon, people ignore visual management displays; the displays just become noise. The additional data can be accessed and used by the team when they are swarming to fix the problem.
-- **Be updated as part of daily work.** If the team lets the data go stale or become inaccurate, they will ignore the visual displays, and the displays will no longer be a useful beacon when important issues arise. If displays are currently displaying stale or inaccurate data, investigate the cause: is the data not related to the team's goals? What data would make the display an important and compelling information source for the team?
+>- **Reflect information that the team cares about and will act on.**
+  Having build monitors does no good if teams don't care whether the display shows an issue (for example, showing that the build status is red, meaning broken), and won't actually act on this information by swarming to fix the issue.
+>- **Be easy to understand.**
+  It should be possible to tell at a glance from across the room whether something needs attention.
+  If there is a problem, teams should know how to perform further diagnosis or fix the problem.
+>- **Give the team information that is relevant to their work.**
+  While it's important to collect as much data as possible about the team's work, the display should present only data that is relevant to the team's goals.
+  In the face of information overload, particularly information that cannot be acted upon, people ignore visual management displays; the displays just become noise.
+  The additional data can be accessed and used by the team when they are swarming to fix the problem.
+>- **Be updated as part of daily work.**
+  If the team lets the data go stale or become inaccurate, they will ignore the visual displays, and the displays will no longer be a useful beacon when important issues arise.
+  If displays are currently displaying stale or inaccurate data, investigate the cause: is the data not related to the team's goals?
+  What data would make the display an important and compelling information source for the team?
 
 *Learn more about [Visual management capabilities...](https://cloud.google.com/solutions/devops/devops-measurement-visual-management)*
 
