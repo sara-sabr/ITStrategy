@@ -368,7 +368,7 @@ Based on the [DORA DevOps capabilities guides](https://cloud.google.com/solution
 
 *Learn more about [Customer feedback...](https://cloud.google.com/solutions/devops/devops-process-customer-feedback)*
 
-The following excerpt of the [DORA DevOps capabilities guides](https://cloud.google.com/solutions/devops/capabilities) o improve **work visibility** you should:
+The following excerpt of the [DORA DevOps capabilities guides](https://cloud.google.com/solutions/devops/capabilities) proposes that to improve **work visibility** you should:
 
 - **Provide tools for visualizing and recording workflow.** Start with making sure the team has visual management displays that show their work and its flow through the part of the value stream that is closest to them, including both the upstream and downstream parts of the process. Record how long it takes work to get through the process, and how often rework must be performed because the team didn't get it right the first time. This will uncover your early and best opportunities for improvement at the team level.
 - **Create a value stream map.** Work with other teams to perform a value-stream mapping exercise to discover how work flows from idea to customer outcome, and report the VSM metrics (lead time, process time, %C/A) for each process block. Have the team prepare a future-state value stream map and work to implement it.
@@ -402,14 +402,24 @@ The following excerpt of the [DORA DevOps capabilities guides](https://cloud.goo
 
 #### Recommendations
 
-To improve team **monitoring effectiveness**, focus efforts on two main areas:
+This excerpt from the [DORA DevOps capabilities guides](https://cloud.google.com/solutions/devops/capabilities) indicates that in order to improve team **monitoring effectiveness**, you should focus efforts on two main areas:
 
-- **Collecting data from key areas throughout the value chain.** By analysing the data that you collect and doing a gap analysis, you can help ensure that you collect the right data for your organization.
-- **Using the collected data to make business decisions.** The data that you collect should drive value across the organization, and the metrics that you select must be meaningful to your organization. Meaningful data can be used by many teams, from DevOps to Finance. It's also important to find the right medium to display the monitoring information. Different uses for the information demand different presentation choices. Real-time dashboards might be most useful to the DevOps team, while regularly generated business reports might be useful for metrics measured over a longer period. The most important thing is to ensure the data is available, shared, and used to guide decisions. If the best you can do to kick things off is a shared spreadsheet, use that. Then graduate to fancy dashboards later. Don't let perfect be the enemy of good enough.
+>- **Collecting data from key areas throughout the value chain.**
+  By analysing the data that you collect and doing a gap analysis, you can help ensure that you collect the right data for your organization.
+>- **Using the collected data to make business decisions.**
+  The data that you collect should drive value across the organization, and the metrics that you select must be meaningful to your organization.
+  Meaningful data can be used by many teams, from DevOps to Finance.
+  It's also important to find the right medium to display the monitoring information.
+  Different uses for the information demand different presentation choices.
+  Real-time dashboards might be most useful to the DevOps team, while regularly generated business reports might be useful for metrics measured over a longer period.
+  The most important thing is to ensure the data is available, shared, and used to guide decisions.
+  If the best you can do to kick things off is a shared spreadsheet, use that.
+  Then graduate to fancy dashboards later.
+  Don't let perfect be the enemy of good enough.
 
 *Learn more about [Monitoring systems to inform business decisions](https://cloud.google.com/solutions/devops/devops-measurement-monitoring-systems)*
 
-To do a good job with **monitoring and observability**, your teams should have the following:
+Based on the [DORA DevOps capabilities guides](https://cloud.google.com/solutions/devops/capabilities), to improve **monitoring and observability**, your teams should have the following:
 
 - Reporting on the overall health of systems (Are my systems functioning? Do my systems have sufficient resources available?).
 - Reporting on system state as experienced by customers (Do my customers know if my system is down and have a bad experience?).
@@ -418,10 +428,11 @@ To do a good job with **monitoring and observability**, your teams should have t
 - Tooling to find information about things you did not previously know (that is, you can identify unknown unknowns).
 - Access to tools and data that help trace, understand, and diagnose infrastructure problems in your production environment, including interactions between services.
 
-Here are a few keys to effective implementation of monitoring and observability.
-First, your monitoring should tell you what is broken and help you understand why, before too much damage is done.
-The key metric in the event of an outage or service degradation is time-to-restore (TTR).
-A key contributor to TTR is the ability to rapidly understand what broke and the quickest path to restoring service (which may not involve immediately remediating the underlying problems).
+Here are a few key measures to validate an effective implementation of monitoring and observability.
+
+- Your monitoring should tell you what is broken and help you understand why, before too much damage is done.
+- The key metric in the event of an outage or service degradation is time-to-restore (TTR).
+- A key contributor to TTR is the ability to rapidly understand what broke and the quickest path to restoring service (which may not involve immediately remediating the underlying problems).
 
 *Learn more about [Monitoring and observability](https://cloud.google.com/solutions/devops/devops-measurement-monitoring-and-observability)*
 
