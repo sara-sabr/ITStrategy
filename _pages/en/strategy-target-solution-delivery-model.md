@@ -816,11 +816,13 @@ Organizing portfolios around development value streams enables visualizing the f
 **IT Solution**
 
 An IT solution is a combination of one or more IT Products.
-It produces the environment within which end-users operates.
+It produces the environment within which end-users operates.  
 
-![How IT Solutions, IT Products, software, and infrastructure relate to each other]({{ site.baseurl }}/assets/images/itsolution-itproduct-model.png)
+Figure 1. Relationship Model between the different software elements (part 1).  
 
-**IT Product**
+![An UML diagram representing the hierarchical relation of an IT Solution and its components. There are 5 rectangles on the diagram connected by relationship lines. The first rectangle to the left is titled IT Solution. It is connected to a second rectangle, titled IT Product, located on its right by a relationship line; the end of the line starting from the IT Solution rectangle has a 1 and the other end has 1... and a small white diamond. The IT Product rectangle is connected to a third rectangle, titled Software, located on its right by a relationship line; the end of the line starting from the IT Product rectangle has a 1 and the other end has a 1... and a small white diamond. The Software rectangle has two relationships connections. The first connection is to a rectangle, titled Configuration, located below the Software rectangle; the end of the line starting from the Software rectangle has a 1 and the other end has a 1... and a small black diamond. The second connection is to another rectangle, titled Infrastructure, located to the right of the Software rectangle; the end of the line starting from the Software rectangle has a 1 and the other end has a 1... and a small white diamond. There is one last connection, linking the Infrastructure and Configuration rectangles; the end of the line starting from the Infrastructure rectangle has a 1 and the other end has a 1... and a small black diamond.]({{ site.baseurl }}/assets/images/itsolution-itproduct-model.png)
+
+**IT Product**  
 
 The combination of software, infrastructure, and their configuration.
 An IT Product is akin to an “application” as defined by the [Application Portfolio Management (APM)](https://www.gcpedia.gc.ca/wiki/OCIO_Application_Portfolio_Management) program.
@@ -831,9 +833,11 @@ A “working IT Product” is a version of the IT Product which allows DevOps te
 A working IT Product must be able to be used by end-users and provide DevOps teams with observation of end-users behaviours.
 
 For the scope of this Strategy, Operating Systems are NOT defined as IT products.
-Therefore should an IT Product depend on an Operating System to run in production, it is compliance with this Guiding Policy.
+Therefore should an IT Product depend on an Operating System to run in production, it is compliance with this Guiding Policy.  
 
-![How IT Solutions, IT Products, software, and infrastructure relate to each other]({{ site.baseurl }}/assets/images/itsolution-itproduct-model.png)
+Figure 2. Relationship Model between the different software elements (part 2).  
+
+![An UML diagram representing the hierarchical relation of an IT Solution and its components. There are 5 rectangles on the diagram connected by relationship lines. The first rectangle to the left is titled IT Solution. It is connected to a second rectangle, titled IT Product, located on its right by a relationship line; the end of the line starting from the IT Solution rectangle has a 1 and the other end has 1... and a small white diamond. The IT Product rectangle is connected to a third rectangle, titled Software, located on its right by a relationship line; the end of the line starting from the IT Product rectangle has a 1 and the other end has a 1... and a small white diamond. The Software rectangle has two relationships connections. The first connection is to a rectangle, titled Configuration, located below the Software rectangle; the end of the line starting from the Software rectangle has a 1 and the other end has a 1... and a small black diamond. The second connection is to another rectangle, titled Infrastructure, located to the right of the Software rectangle; the end of the line starting from the Software rectangle has a 1 and the other end has a 1... and a small white diamond. There is one last connection,linking the Infrastructure and Configuration rectangles; the end of the line starting from the Infrastructure rectangle has a 1... and the other end has a 1... and a small black diamond.]({{ site.baseurl }}/assets/images/itsolution-itproduct-model.png)
 
 **IT Project**
 

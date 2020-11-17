@@ -19,6 +19,8 @@
     "charest",
     "admo",
     "freeplane",
+    "favor",
+    "parallelization",
     "elsevier",
     "biech",
     "elgg",
@@ -451,7 +453,9 @@
     "GC",
     "blogs",
     "TSDM",
-     "Mgmt"
+    "Mgmt",
+    "codebases",
+    "incrementality"
   ],
   "flagWords": [],
   "import": [
