@@ -47,15 +47,15 @@ Some articles and other documents/tools that were shared by speakers include:
 
 There were many people who were live-tweeting the event under the #FWD50 hashtag. But if going through that feels overwhelming, then there were some standout live tweeters who's FWD50 feeds are worth checking out:
 
-- [Sean Boots](https://twitter.com/search?q=Sean%20boots%20and%20fwd50&src=typed_query)
-- [Kofi Arthiabah](https://twitter.com/search?q=Kofi%20Arthiabah%20-%20TC%20and%20FWD50&src=typed_query)
-- [Andee Pittman](https://twitter.com/search?q=Andee%20Pittman%20(she%2Fthey)%20AND%20fwd50&src=typed_query)
-- Amanda Bernardo
-- Ioana Finichiu
-- Andrea Hill
-- Mélanie Copeland
-- Rob Butler
-- Thom Kearney
+- [Sean Boots](https://twitter.com/search?q=(%23fwd50)%20(from%3Asboots)%20since%3A2020-11-01&src=typed_query&f=live)
+- [Kofi Arthiabah](https://twitter.com/search?q=(%23fwd50)%20(from%3A@arthiak_tc)%20since%3A2020-11-01&src=typed_query&f=live)
+- [Andee Pittman](https://twitter.com/search?q=(%23fwd50)%20(from%3A@andeepittmanux)%20since%3A2020-11-01&src=typed_query&f=live)
+- [Amanda Bernardo](https://twitter.com/search?q=(%23fwd50)%20(from%3A@AmandaBernardo)%20since%3A2020-11-01&src=typed_query&f=live)
+- [Ioana Finichiu](https://twitter.com/search?q=(%23fwd50)%20(from%3A@IFiniq)%20since%3A2020-11-01&src=typed_query&f=live)
+- [Andrea Hill](https://twitter.com/search?q=(%23fwd50)%20(from%3A@afhill)%20since%3A2020-11-01&src=typed_query&f=live)
+- [Mélanie Copeland](https://twitter.com/search?q=(%23fwd50)%20(from%3A@Copeland309)%20since%3A2020-11-01&src=typed_query&f=live)
+- [Rob Butler](https://twitter.com/search?q=(%23fwd50)%20(from%3A@RobButler)%20since%3A2020-11-01&src=typed_query&f=live)
+- [Thom Kearney](https://twitter.com/search?q=(%23fwd50)%20(from%3A@thomkearney)%20since%3A2020-11-01&src=typed_query&f=live)
 
 Note: There many others so feel free to let us know of them!
 
