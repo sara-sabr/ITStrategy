@@ -117,7 +117,7 @@ Stakeholders are expected to still comply with existing policy instruments inclu
 
 ### Development and Operations Teams (incl. SSC) <!-- omit in toc -->
 
-1. Use a Git-based Version Control System (VCS) among the following options, in that order of preference:
+1. Use a DevOps platform, that includes a Git-based Version Control System (VCS), among the following options, in that order of preference:
    - Public (Unclassified): **[GitHub](https://github.com)** or another [approved public platform (internal)](https://dialogue/grp/TAWS-ATST/Technology_Standards/Brick%20Repository/Software%20Version%20and%20Source%20Code%20Management.mht)
    - Interdepartmental (up to Protected A): **[GCcode (internal)](https://gccode.ssc-spc.gc.ca)**
    - Internal (up to Protected B): **[Azure DevOps](https://azure.microsoft.com/en-ca/services/devops/)**
