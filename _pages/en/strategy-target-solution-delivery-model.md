@@ -687,9 +687,8 @@ It is understood that the strategy’s ambition will not be implemented in a big
     - Identify “Complicated subsystem teams” that provide specialized expertise to DevOps teams (e.g. mainframes, complex mathematics, analytics)
     - Produce IITB organizational structure (multi-functional teams oriented), and its associated Financial Model
 4. **Stage 4: Normalize and manage Legacy**
-    -- Mandate all greenfield IT-Enabled Projects (not touching legacy infrastructures) to operate under the Target State Model
+    - Mandate all greenfield IT-Enabled Projects (not touching legacy infrastructures) to operate under the Target State Model
     - Mandate all brownfield IT-Enabled Projects (touching legacy infrastructures) to scope them towards the Target State direction (as per the Target Architecture Vision for Legacy)
-    - Use the exception eligibility as the only instrument to operate outside of the Target State
 
 ## Appendix A - Diagnostic (challenges holding us back)
 
