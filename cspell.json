@@ -455,7 +455,8 @@
     "TSDM",
     "Mgmt",
     "codebases",
-    "incrementality"
+    "incrementality",
+    "hardcoded"
   ],
   "flagWords": [],
   "import": [
