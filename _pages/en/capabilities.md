@@ -88,7 +88,7 @@ Average of "How much time" questions
 - It is easy to migrate to a new version of a dependency. [1-7]
 - Dependencies are stable and rarely break teams' code. [1-7]
 
-#### Recommendations
+#### SECTION 1. Recommendations
 
 This excerpt from to the [DORA DevOps capabilities guides](https://cloud.google.com/solutions/devops/capabilities) indicates that the following practices can improve the **version control**:
 
@@ -129,7 +129,7 @@ Based on the [DORA DevOps capabilities guides](https://cloud.google.com/solution
 - The % of security requirements that are included in the automated testing process. [%]
 - Security supplies teams with an ample number of approved libraries, packages, and toolchains for use. [1-7]
 
-#### Recommendations
+#### SECTION 2. Recommendations
 
 Based on the [DORA DevOps capabilities guides](https://cloud.google.com/solutions/devops/capabilities), the following practices can improve the **Continuous Integration**:
 
@@ -221,7 +221,7 @@ This excerpt from to the [DORA DevOps capabilities guides](https://cloud.google.
 - Developers practice test-driven development by writing unit tests before writing production code for all changes to the codebase. [1-7]
 - I can get feedback from automated tests in less than ten minutes both on local workstation and from the CI server. [1-7]
 
-#### Recommendations
+#### SECTION 3. Recommendations
 
 Based on the [DORA DevOps capabilities guides](https://cloud.google.com/solutions/devops/capabilities), the following concepts can improve the quality of evaluating the functionality and architecture of the system, it's important to consider the organizational and technical components:
 
@@ -257,7 +257,7 @@ Make sure you require developers to write unit and acceptance tests for any new 
 - My team can deploy during normal business hours with negligible downtime. [1-7]
 - My team feels that we're empowered to choose tools. [1-7]
 
-#### Recommendations
+#### SECTION 4. Recommendations
 
 Based on the [DORA DevOps capabilities guides](https://cloud.google.com/solutions/devops/capabilities), the following recommendations can improve the developer productivity, deployment outcomes and overall **architecture**:
 
@@ -303,7 +303,7 @@ The following excerpt from the [DORA DevOps capabilities guides](https://cloud.g
 - I can dynamically increase or decrease the cloud resources available for the service or product that I primarily support based on demand. [1-7]
 - I can monitor or control the quantity and/or cost of cloud resources used by the service or product that I primarily support. [1-7]
 
-#### Recommendations
+#### SECTION 5. Recommendations
 
 Based on the [DORA DevOps capabilities guides](https://cloud.google.com/solutions/devops/capabilities),to achieve more rapid, reliable releases, and higher levels of availability, velocity, and reliability of the **Cloud Infrastructure**, the key actions below need to be considered:
 
@@ -333,7 +333,7 @@ Based on the [DORA DevOps capabilities guides](https://cloud.google.com/solution
 - My team studies the change process end-to-end, identifying bottlenecks, and experimenting with ways to shift validations into the development platform. [1-7]
 - My team continuously improve business processes by identifying and eliminating waste. [1-7]
 
-#### Recommendations
+#### SECTION 6. Recommendations
 
 The following excerpt of the [DORA DevOps capabilities guides](https://cloud.google.com/solutions/devops/capabilities) indicates that the following practices can improve your **team experimentation**:
 
@@ -367,7 +367,7 @@ This excerpt of the [DORA DevOps capabilities guides](https://cloud.google.com/s
 - Following production release, my team is able to evaluate the results and fix bugs rapidly. [1-7]
 - Feedback received is simple, easy to understand and provides actionable information. [1-7]
 
-#### Recommendations
+#### SECTION 7. Recommendations
 
 Increased engagement with customers and participation in product management processes contributes to stronger identification with your organization's goals and values.
 
@@ -414,7 +414,7 @@ The following excerpt of the [DORA DevOps capabilities guides](https://cloud.goo
 - My team has a tooling to help to understand and debug systems in production [1-7]
 - My team has access to tools and data that help trace, understand, and diagnose infrastructure problems in production environment, including interactions between services [1-7]
 
-#### Recommendations
+#### Section 8. Recommendations
 
 This excerpt from the [DORA DevOps capabilities guides](https://cloud.google.com/solutions/devops/capabilities) indicates that in order to improve team **monitoring effectiveness**, you should focus efforts on two main areas:
 
@@ -462,7 +462,7 @@ Here are a few key measures to validate an effective implementation of monitorin
 - In my team visual displays are up to date and the information contributing to measurable improvement is towards a goal that the team cares about. [1-7]
 - When looking at visual management displays I see the key process metrics my team cares about. [1-7]
 
-#### Recommendations
+#### Section 9. Recommendations
 
 This excerpt from the [DORA DevOps capabilities guides](https://cloud.google.com/solutions/devops/capabilities) explains improve **work in process limits** when faced with too much work and too few people to do it:
 
@@ -528,7 +528,7 @@ This excerpt from the [DORA DevOps capabilities guides](https://cloud.google.com
 - When employees in my team attend conferences, we have them share the new experience through presentations or trip reports. [1-7]
 - In my team we encourage people to get certifications or external trainings, and help them by covering costs of external trainings and forming study groups that are a part of normal work activity. [1-7]
 
-#### Recommendations
+#### Section 10. Recommendations
 
 This excerpt from the [DORA DevOps capabilities guides](https://cloud.google.com/solutions/devops/capabilities) indicates that in order to improve **employees job satisfaction**, the following key actions should be taken:
 
@@ -615,7 +615,7 @@ Continuing to build a climate for learning is directly related to how an organiz
 - Leaders personally compliments team members when they do outstanding work. [1-7]
 - My team is able to describe the vision for IITB in a consistent way without having to look it up. [1-7]
 
-#### Recommendations
+#### Section 11. Recommendations
 
 Your organization can follow some general principles in order to increase your chances of success in **transformational leadership**. This excerpt from the [DORA DevOps capabilities guides](https://cloud.google.com/solutions/devops/capabilities) presents some key principles:
 
