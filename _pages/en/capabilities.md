@@ -530,30 +530,69 @@ This excerpt from the [DORA DevOps capabilities guides](https://cloud.google.com
 
 #### Recommendations
 
-To improve **employees job satisfaction** take the following key actions:
+This excerpt from the [DORA DevOps capabilities guides](https://cloud.google.com/solutions/devops/capabilities) indicates that in order to improve **employees job satisfaction**, the following key actions should be taken:
 
-- **Give employees the tools and resources needed to do their work.** Employees must have the tools necessary to get their work done, and teams that can decide which tools they use do better at continuous delivery. Teams that can choose their own tools make these choices based on how they work, and on the tasks they need to perform. No one knows better than practitioners what they need to be effective, so it's not surprising that practitioner tool choice helps to drive better outcomes. Employees must also have the resources necessary to do their work. Those might be technical resources, such as access to servers or environments necessary to develop and test, or resources needed to learn and develop new skills, such as access to course materials and budget to attend trainings or technical conferences.
-- **Give employees meaningful work that leverages their expertise.**
-The importance of meaningful work can't be overstated. In some studies, employees have rated the importance of meaningful work just as highly as the importance of salary. Meaningful work makes a difference and is often very personal.
+>- **Give employees the tools and resources needed to do their work.**
+  Employees must have the tools necessary to get their work done, and teams that can decide which tools they use do better at continuous delivery.
+  Teams that can choose their own tools make these choices based on how they work, and on the tasks they need to perform.
+  No one knows better than practitioners what they need to be effective, so it's not surprising that practitioner tool choice helps to drive better outcomes.
+  Employees must also have the resources necessary to do their work.
+  Those might be technical resources, such as access to servers or environments necessary to develop and test, or resources needed to learn and develop new skills, such as access to course materials and budget to attend trainings or technical conferences.
+>- **Give employees meaningful work that leverages their expertise.**
+  The importance of meaningful work can't be overstated.
+  In some studies, employees have rated the importance of meaningful work just as highly as the importance of salary.
+  Meaningful work makes a difference and is often very personal.
 
 *Learn more about [Job satisfaction](https://cloud.google.com/solutions/devops/devops-culture-job-satisfaction)*
 
-**To change the way people work** here are some practices you can implement to improve your culture:
+This excerpt from the [DORA DevOps capabilities guides](https://cloud.google.com/solutions/devops/capabilities) suggests that in order **to change the way people work**, the following practices can be implemented to improve your organizational culture:
 
-- **High cooperation.** Create cross-functional teams that include representatives from each functional area of the software delivery process (business analysts, developers, quality engineers, ops, security, and so on). This practice lets everyone share the responsibility for building, deploying, and maintaining a product. It's also important that there is good cooperation within the team.
-- **Train the messengers.** This means we want people to bring us bad news so we can make things better. Hold blameless post mortems. By removing blame, you remove fear; and by removing fear, you enable teams to surface problems and solve them more effectively. Also create and foster an environment where it is safe to take smart risks and fail, so that anyone can surface problems at any time—even without the ceremony of a post mortem.
-- **Share risks.** Along with this, encourage shared responsibilities. Quality, availability, reliability and security are everyone's job. One way to improve the quality of your services is to ensure that developers share responsibility for maintaining their code in production. The improvement in collaboration that comes from sharing responsibility inherently reduces risk: The more eyes on the software delivery process, the more you'll avoid errors in process or planning. Automation also reduces risk, and with the right tool choice, can enable collaboration.
-- **Encourage bridging.** Break down silos. In addition to creating cross-functional teams, techniques for breaking down silos include co-locating ops with the dev team; including ops in planning throughout the software delivery lifecycle; and implementing ChatOps. Another tip is to identify someone in the organization whose work you don't understand (or whose work frustrates you, like procurement) and invite them to coffee or lunch. Informal discussions help foster better communication, and you may understand why they do what they do—and you can come up with creative solutions together.
-- **Let failure lead to inquiry.** Again, hold blameless post mortems. The response to failure shapes the culture of an organization. Blaming individuals for failures creates a negative culture. If instead, failures lead you to ask questions about what caused the failures and how you can keep them from happening again in the future, you've improved your technical system, your processes, and your culture.
-- **Implement novelty.** Encourage experimentation. Giving employees freedom to explore new ideas can lead to great outcomes. Some companies give engineers time each week for experimentation. Others host internal hack days or mini-conferences to share ideas and collaborate. Many new features and products began this way. When you release your employees from habitual pathways and repetitive tasks, they can generate enormous value for your organization. And remember that novelty isn't limited to new products and features. Also encourage and reward improvements in process and ideas that help foster collaboration.
+>- **High cooperation.**
+  Create cross-functional teams that include representatives from each functional area of the software delivery process (business analysts, developers, quality engineers, ops, security, and so on).
+  This practice lets everyone share the responsibility for building, deploying, and maintaining a product.
+  It's also important that there is good cooperation within the team.
+>- **Train the messengers.**
+  This means we want people to bring us bad news so we can make things better.
+  Hold blameless post mortems.
+  By removing blame, you remove fear; and by removing fear, you enable teams to surface problems and solve them more effectively.
+  Also create and foster an environment where it is safe to take smart risks and fail, so that anyone can surface problems at any time—even without the ceremony of a post mortem.
+>- **Share risks.**
+  Along with this, encourage shared responsibilities.
+  Quality, availability, reliability and security are everyone's job.
+  One way to improve the quality of your services is to ensure that developers share responsibility for maintaining their code in production.
+  The improvement in collaboration that comes from sharing responsibility inherently reduces risk:
+  The more eyes on the software delivery process, the more you'll avoid errors in process or planning.
+  Automation also reduces risk, and with the right tool choice, can enable collaboration.
+>- **Encourage bridging.**
+  Break down silos.
+  In addition to creating cross-functional teams, techniques for breaking down silos include co-locating ops with the dev team; including ops in planning throughout the software delivery lifecycle; and implementing ChatOps.
+  Another tip is to identify someone in the organization whose work you don't understand (or whose work frustrates you, like procurement) and invite them to coffee or lunch.
+  Informal discussions help foster better communication, and you may understand why they do what they do—and you can come up with creative solutions together.
+>- **Let failure lead to inquiry.**
+  Again, hold blameless post mortems.
+  The response to failure shapes the culture of an organization.
+  Blaming individuals for failures creates a negative culture.
+  If instead, failures lead you to ask questions about what caused the failures and how you can keep them from happening again in the future, you've improved your technical system, your processes, and your culture.
+>- **Implement novelty.**
+  Encourage experimentation.
+  Giving employees freedom to explore new ideas can lead to great outcomes.
+  Some companies give engineers time each week for experimentation.
+  Others host internal hack days or mini-conferences to share ideas and collaborate.
+  Many new features and products began this way.
+  When you release your employees from habitual pathways and repetitive tasks, they can generate enormous value for your organization.
+  And remember that novelty isn't limited to new products and features.
+  Also encourage and reward improvements in process and ideas that help foster collaboration.
 
 *Learn more about [Westrum organizational culture](https://cloud.google.com/solutions/devops/devops-culture-westrum-organizational-culture)*
 
-Continuing to build a climate for learning is directly related to how an organization encourages and invests in learning. Here are some ways an organization can show that learning is important and necessary for growth:
+Continuing to build a climate for learning is directly related to how an organization encourages and invests in learning. This excerpt from the [DORA DevOps capabilities guides](https://cloud.google.com/solutions/devops/capabilities) presents some ways an organization can show that learning is important and necessary for growth:
 
-- **Have regular lunchtime meetings ("brown bags") where one person presents about a project they are working on in a new tech, or something they are investigating.** Rotate the presentations among team members and reward people for presenting.
-- **When people attend conferences, have them share the new ideas through presentations or trip reports.** You can even host regular meetups or mini-conferences to increase networking and exposure to new technologies and ideas.
-- **Encourage people to get certifications or external trainings.** You can help with this by covering costs of external trainings and forming study groups that are a part of normal work activity.
+>- **Have regular lunchtime meetings ("brown bags") where one person presents about a project they are working on in a new tech, or something they are investigating.**
+  Rotate the presentations among team members and reward people for presenting.
+>- **When people attend conferences, have them share the new ideas through presentations or trip reports.**
+  You can even host regular meetups or mini-conferences to increase networking and exposure to new technologies and ideas.
+>- **Encourage people to get certifications or external trainings.**
+  You can help with this by covering costs of external trainings and forming study groups that are a part of normal work activity.
 
 *Learn more about [Learning culture](https://cloud.google.com/solutions/devops/devops-culture-learning-culture)*
 
