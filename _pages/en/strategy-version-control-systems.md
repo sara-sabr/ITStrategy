@@ -338,7 +338,7 @@ Version Control System (VCS)
 : There are 2 types of VCS:
 
 - **Centralized** VCS are based on the idea that there is a single “central” copy of a software project somewhere (most likely on a server), and developers make code changes directly on this central copy.
-- **Decentralized** VCS (DVCS) do not necessarily rely on a central server to store all the versions of a software project's files.
+- **Distributed** VCS (DVCS) do not necessarily rely on a central server to store all the versions of a software project's files.
 Instead, every developer “clones” a copy of a repository and has the full history of the project on its own hard drive.
 This copy (or “clone”) has all of the metadata of the original.
 In a DVCS, developers typically will make code changes on their local copy, test them on their local copy, and “push” them to a central server containing the “master” copy the software project is intended to use.
