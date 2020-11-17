@@ -5,12 +5,12 @@ ref: FWD50-2020
 lang: en
 author: "Rachel Muston and Guillaume Charest"
 date: "2020-11-20"
-excerpt: "FWD50 looked very different this year. But there was still a lot of passion and will to continuously improve governement!"
+excerpt: "FWD50 looked very different this year. But there was still a lot of passion and will to continuously improve government!"
 ---
 <!--markdownlint-disable MD033-->
 
 FWD50 looked very different this year.
-From Nov 3-9, attendees and presenters joined the conference virtually, trading the magnificent [Pavillon Abeerdeen](https://ottawa.ca/en/lansdowne#h3) for their couches and home offices.
+From Nov 3-9, attendees and presenters joined the conference virtually, trading the magnificent [Pavillon Aberdeen](https://ottawa.ca/en/lansdowne#h3) for their couches and home offices.
 The virtual platform used was [Grip](https://grip.events/), which provided agenda information and the ability for the user to build up their schedule to maximize their time for the four-day conference.
 
 Each session had a [Vimeo](https://vimeo.com) channel where folks could watch the sessions with closed captioning and workshops used dedicated [Zoom](https://zoom.us/) rooms to provide interactives features to the participants.
@@ -30,8 +30,8 @@ Some of the presenters have made their presentations or details of their present
 
 - Pia Andrews presented on [The Crisis Paradox For Leadership: Balancing Urgency and Importance](https://t.co/RELqF74GgK?amp=1)
 - Honey Ducanay's part of the Delivering of the Speed of Need workshop entitled [Enabling conditions, not just heroics](https://t.co/a7u53IwYqs) is available on her blog
-- Also from the 'Delivering at the Speed of Need workshop, the panelists made their [cheatsheet on delivering at the speed of need](https://docs.google.com/presentation/d/1gL57LdKFFZOm5ngL1HqHubzzG80aLewDcJY8hTDqsaQ/edit#slide=id.p) openly available
-- Simon Wardley’s FWD50 presentation isn’t public but a lot of [his presentations](https://wardley-maps-community.github.io/awesome-wardley-maps/) are openly available as is his book [Wardley maps: The use of topographical intelligence in business strategy](https://medium.com/wardleymaps/on-being-lost-2ef5f05eb1ec). He also shared a link to a random [strategy generator](http://strategy-madlibs.herokuapp.com/) (the code for which is on GitHub code) which made a lot of us on the IT Strategy team chuckle as each refresh gives a new buzz-wordy nonsense strategy.
+- Also from the 'Delivering at the Speed of Need workshop, the panelists made their [cheat sheet on delivering at the speed of need](https://docs.google.com/presentation/d/1gL57LdKFFZOm5ngL1HqHubzzG80aLewDcJY8hTDqsaQ/edit#slide=id.p) openly available
+- Simon Wardley's FWD50 presentation isn't public but a lot of [his presentations](https://wardley-maps-community.github.io/awesome-wardley-maps/) are openly available as is his book [Wardley maps: The use of topographical intelligence in business strategy](https://medium.com/wardleymaps/on-being-lost-2ef5f05eb1ec). He also shared a link to a random [strategy generator](http://strategy-madlibs.herokuapp.com/) (the code for which is on GitHub code) which made a lot of us on the IT Strategy team chuckle as each refresh gives a new buzz-wordy nonsense strategy.
 - Ann-Marie Cavanagh, Deputy Government Chief Digital Office and Deputy Chief Executive Digital Public Service, New Zealand, shared her governments [Digital Strategy](https://www.digital.govt.nz/digital-government/strategy/strategy-summary/strategy-for-a-digital-public-service/) and [Digital Inclusion Outcomes Framework](https://www.digital.govt.nz/dmsdocument/167~digital-inclusion-outcomes-framework/html) during her talk on COVID-19 and Economic Recovery: New Zealand's lessons learnt on digital inclusion and resilience.
 - The folks who participated on the Can the Platform Be Of Service? - The Commitment To Person-centred Design When Adopting Tech Models In The Public Sector, made the highlights of their presentation available in this ['Can the platform be of service' miro board](https://miro.com/app/board/o9J_kg8Sr3c=/).
 
@@ -43,7 +43,7 @@ Some articles and other documents/tools that were shared by speakers include:
 - https://hbr.org/2014/08/curiosity-is-as-important-as-intelligence
 - https://aws.amazon.com/government-education/government/open-government-solutions/
 - https://futurice.com/ia-design-kit
-- publicsectornetwork.co
+- [https://publicsectornetwork.co/](https://publicsectornetwork.co/)
 
 There were many people who were live-tweeting the event under the #FWD50 hashtag. But if going through that feels overwhelming, then there were some standout live tweeters who's FWD50 feeds are worth checking out:
 
@@ -51,15 +51,16 @@ There were many people who were live-tweeting the event under the #FWD50 hashtag
 - [Kofi Arthiabah](https://twitter.com/search?q=Kofi%20Arthiabah%20-%20TC%20and%20FWD50&src=typed_query)
 - [Andee Pittman](https://twitter.com/search?q=Andee%20Pittman%20(she%2Fthey)%20AND%20fwd50&src=typed_query)
 - Amanda Bernardo
-- Iona finichu
+- Ioana Finichiu
 - Andrea Hill
 - Mélanie Copeland
 - Rob Butler
 - Thom Kearney
 
-**note to Guilaume, is there a way to get just the above folks fwd50 tweets AND display them in chronological order? Also, is this a good list? I want it to be diverse.
+Note: There many others so feel free to let us know of them!
 
-As always with FWD50 it is impossible to leave this conference without finding new interesting people to follow.  Some of our new follows include:
+As always with FWD50 it is impossible to leave this conference without finding new interesting people to follow.
+Some of our new follows include:
 
-- add twitter handles with names and what they do here
+- Yin Yin Lu
   
