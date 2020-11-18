@@ -694,11 +694,11 @@ It is understood that the strategy's ambition will not be implemented in a big b
 
 The [Policy on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603), reflecting citizen's expectations requires ESDC to review services delivered to clients periodically. With the ubiquitous nature of technology, any changes to ESDC services will require implicating IT teams.
 
-The [Directive on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601) highlights how departmental CIOs have a major say on how departments are to digital transform .
+The [Directive on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601) highlights how **departmental CIOs (and CDOs) have a major say** on how departments are to digital transform .
 
 | Official      | &#37; of Total Reqs | Mandatory Procedures (4) reqs[^13] |
 |---------------------------------------------------------------------|
-| ***CIO***           | ***84&#37;***             | ***229***                           |
+| ***CIO (with CDO)***  | ***84&#37;***             | ***229***       |
 | Service       | 10&#37;             | 0                             |
 | Cyber Security| 6&#37;              | 74                            |
 
