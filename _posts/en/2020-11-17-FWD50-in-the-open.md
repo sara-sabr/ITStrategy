@@ -28,12 +28,12 @@ And the good news is that while a paid ticket was required to attend, a lot of c
 
 Some of the presenters have made their presentations or details of their presentation open:
 
-- Pia Andrews presented on [The Crisis Paradox For Leadership: Balancing Urgency and Importance](https://t.co/RELqF74GgK?amp=1)
-- Honey Ducanay's part of the Delivering of the Speed of Need workshop entitled [Enabling conditions, not just heroics](https://t.co/a7u53IwYqs) is available on her blog
-- Also from the 'Delivering at the Speed of Need workshop, the panelists made their [cheat sheet on delivering at the speed of need](https://docs.google.com/presentation/d/1gL57LdKFFZOm5ngL1HqHubzzG80aLewDcJY8hTDqsaQ/edit#slide=id.p) openly available
+- [Pia Andrews](https://twitter.com/piacandrews?lang=en) presented on [The Crisis Paradox For Leadership: Balancing Urgency and Importance](https://t.co/RELqF74GgK?amp=1)
+- [Honey Ducanay's](https://twitter.com/honeygolightly?lang=en) part of the Delivering of the Speed of Need workshop entitled [Enabling conditions, not just heroics](https://t.co/a7u53IwYqs) is available on her blog
+- Also from the 'Delivering at the Speed of Need workshop, panelists [Katherine Benjamin](https://twitter.com/mskatiebenjamin), Honey Ducanay and [Katy Lalonde](https://twitter.com/katylalonde) made their [cheat sheet on delivering at the speed of need](https://docs.google.com/presentation/d/1gL57LdKFFZOm5ngL1HqHubzzG80aLewDcJY8hTDqsaQ/edit#slide=id.p) openly available
 - Simon Wardley's FWD50 presentation isn't public but a lot of [his presentations](https://wardley-maps-community.github.io/awesome-wardley-maps/) are openly available as is his book [Wardley maps: The use of topographical intelligence in business strategy](https://medium.com/wardleymaps/on-being-lost-2ef5f05eb1ec). He also shared a link to a random [strategy generator](http://strategy-madlibs.herokuapp.com/) (the code for which is on GitHub code) which made a lot of us on the IT Strategy team chuckle as each refresh gives a new buzz-wordy nonsense strategy.
 - Ann-Marie Cavanagh, Deputy Government Chief Digital Office and Deputy Chief Executive Digital Public Service, New Zealand, shared her governments [Digital Strategy](https://www.digital.govt.nz/digital-government/strategy/strategy-summary/strategy-for-a-digital-public-service/) and [Digital Inclusion Outcomes Framework](https://www.digital.govt.nz/dmsdocument/167~digital-inclusion-outcomes-framework/html) during her talk on COVID-19 and Economic Recovery: New Zealand's lessons learnt on digital inclusion and resilience.
-- The folks who participated on the Can the Platform Be Of Service? - The Commitment To Person-centred Design When Adopting Tech Models In The Public Sector, made the highlights of their presentation available in this ['Can the platform be of service' miro board](https://miro.com/app/board/o9J_kg8Sr3c=/).
+- The panelists on 'Can the Platform Be Of Service? - The Commitment To Person-centred Design When Adopting Tech Models In The Public Sector', made the highlights of their presentation available in this ['Can the platform be of service' miro board](https://miro.com/app/board/o9J_kg8Sr3c=/).
 
 In a great example of the community working openly, a Google Document was spontaneously created by a FWD50 attendee to capture all the books that were mentioned by speakers. This [list of books](https://docs.google.com/document/d/1Kyq80aMy_a6wnOdaHgzYLqSaqKfmjMmBdDnXKy6N4YQ/edit#heading=h.kr7a4cpsy27s) was shared with all attendees and anyone could add to it when a book was mentioned.
 
@@ -61,7 +61,7 @@ There were many people who were live-tweeting the event under the [#FWD50](https
 
 In addition to live tweeting, Sean Boots recently published a great blog post with reflections on his FWD50 experience called [Government is actually a big tech company, they just don’t know it yet](https://sboots.ca/2020/11/16/government-is-actually-a-big-tech-company/).
 
-As always with FWD50, it is impossible to leave this conference without finding new interesting people to follow.
+As always with FWD50, it is impossible to leave this conference without finding new interesting people to follow.  In addition to all the presenters listed above, we are also following:
 Some of these include:
 
 - [Yin Yin Lu](https://twitter.com/Yinneth), a self-proclaimed Rhetoric Doctor, shared with the audience how communication science could very well be more important than political science. She was funny, witty and very engaging with the participants!
