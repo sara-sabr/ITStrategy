@@ -9,7 +9,7 @@ excerpt: "FWD50 looked very different this year. But, there was still a lot of p
 ---
 <!--markdownlint-disable MD033-->
 
-FWD50 looked very different this year.
+[FWD50](https://fwd50.com/) looked very different this year.
 From Nov 3-9, attendees and presenters joined the conference virtually, trading the magnificent [Pavillion Aberdeen](https://ottawa.ca/en/lansdowne#h3) for their couches and home offices.
 The virtual platform used to recreate the level of energy found in-person was [Grip](https://grip.events/), which provided agenda information and the ability for the users to build up their schedule and setup impromptu networking opportunities to maximize their time during the four-day conference.
 
