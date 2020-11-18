@@ -4,7 +4,7 @@ title:  "FWD50 in the open"
 ref: FWD50-2020
 lang: en
 author: "Rachel Muston and Guillaume Charest"
-date: "2020-11-20"
+date: "2020-11-18"
 excerpt: "FWD50 looked very different this year. But, there was still a lot of passion and will from participants to continuously improve government!"
 ---
 <!--markdownlint-disable MD033-->
