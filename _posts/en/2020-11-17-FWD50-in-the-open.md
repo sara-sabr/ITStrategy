@@ -22,7 +22,7 @@ During each session, there was also an opportunity for the users to tag a presen
 Outside the main platform, there were virtual break out rooms where the participants could move their avatar to bump into friends and new acquaintances alike and have the sort of spontaneous conversations that happen at in-person conferences.
 The services used to create those virtual rooms were [Kumospace](https://www.kumospace.com/) and [Wonder](https://www.wonder.me/).
 
-The FWD50 team were very upfront at the beginning to say that there will likely be some hiccups along the way, and while there was one or two minor ones, the conference went very smoothly.
+The [FWD50 team](https://fwd50.com/about/#team) were very upfront at the beginning to say that there will likely be some hiccups along the way, and while there was one or two minor ones, the conference went very smoothly.
 
 And the good news is that while a paid ticket was required to attend, a lot of content was and still is freely available.
 
