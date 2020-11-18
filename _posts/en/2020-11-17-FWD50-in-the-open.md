@@ -11,9 +11,9 @@ excerpt: "FWD50 looked very different this year. But, there was still a lot of p
 
 FWD50 looked very different this year.
 From Nov 3-9, attendees and presenters joined the conference virtually, trading the magnificent [Pavillon Aberdeen](https://ottawa.ca/en/lansdowne#h3) for their couches and home offices.
-The virtual platform used to recreate the level of energy found in person was [Grip](https://grip.events/), which provided agenda information and the ability for the users to build up their schedule and setup impromptu networking opportunities to maximize their time during the four-day conference.
+The virtual platform used to recreate the level of energy found in-person was [Grip](https://grip.events/), which provided agenda information and the ability for the users to build up their schedule and setup impromptu networking opportunities to maximize their time during the four-day conference.
 
-Each session had a [Vimeo](https://vimeo.com) channel where folks could watch the video with closed captioning and workshops used dedicated [Zoom](https://zoom.us/) rooms to provide interactives features to the participants.
+Each session had a [Vimeo](https://vimeo.com) channel where folks could watch the video with closed captioning and workshops used dedicated [Zoom](https://zoom.us/) rooms to provide interactive features to the participants.
 
 On the side of each session display, a text chat feature allowed participants to share information with each other and ask questions to the presenters, which opened up really interesting discussions and further improved networking opportunities.
 
@@ -39,25 +39,27 @@ In a great example of the community working openly, a Google Document was sponta
 
 Some articles and other documents/tools that were shared by speakers include:
 
-- https://www.bennettinstitute.cam.ac.uk/news/new-research-identifies-effective-international-co/
-- https://hbr.org/2014/08/curiosity-is-as-important-as-intelligence
-- https://aws.amazon.com/government-education/government/open-government-solutions/
-- https://futurice.com/ia-design-kit
-- [https://publicsectornetwork.co/](https://publicsectornetwork.co/)
+- Article from the Bennett Institute: [New research identifies effective international cooperation for digital governance](https://www.bennettinstitute.cam.ac.uk/news/new-research-identifies-effective-international-co/)
+- Article from the Harvard Business Review: [Curiosity Is as Important as Intelligence](https://hbr.org/2014/08/curiosity-is-as-important-as-intelligence)
+- Amazon's listing of open code: [Open Government Solutions](https://aws.amazon.com/government-education/government/open-government-solutions/).  (this is not dissimilar to the Government of Canada's [Open Resource Exchange](https://code.open.canada.ca/en/index.html))
+- [Ramy Nasser](https://twitter.com/ramynassar) and [Rebecca Kain](https://twitter.com/rebeccalkain) referenced the [Intelligence Augmentation Design Toolkit](https://futurice.com/ia-design-kit) in their workshop on Creating Resident-Centric AI Solutions Using Design Thinking.
+- The [Pubic Sector Network](https://publicsectornetwork.co/) is a social learning platform that exists to help government around the globe break down silos, collaborate, and work together for better outcomes for citizens.
 
-There were many people who were live-tweeting the event under the #FWD50 hashtag. But if going through that feels overwhelming, then there were some standout live tweeters who's FWD50 feeds are worth checking out:
+There were many people who were live-tweeting the event under the [#FWD50](https://twitter.com/search?q=(%23FWD50)%20since%3A2020-11-03&src=typed_query) hashtag. But if going through all of those tweets feels overwhelming, then there were some standout live tweeters who's FWD50 feeds are worth checking out:
 
-- [Sean Boots](https://twitter.com/search?q=(%23fwd50)%20(from%3Asboots)%20since%3A2020-11-01&src=typed_query&f=live)
 - [Kofi Arthiabah](https://twitter.com/search?q=(%23fwd50)%20(from%3A@arthiak_tc)%20since%3A2020-11-01&src=typed_query&f=live)
 - [Andee Pittman](https://twitter.com/search?q=(%23fwd50)%20(from%3A@andeepittmanux)%20since%3A2020-11-01&src=typed_query&f=live)
 - [Amanda Bernardo](https://twitter.com/search?q=(%23fwd50)%20(from%3A@AmandaBernardo)%20since%3A2020-11-01&src=typed_query&f=live)
 - [Ioana Finichiu](https://twitter.com/search?q=(%23fwd50)%20(from%3A@IFiniq)%20since%3A2020-11-01&src=typed_query&f=live)
+- [Sean Boots](https://twitter.com/search?q=(%23fwd50)%20(from%3Asboots)%20since%3A2020-11-01&src=typed_query&f=live)
 - [Andrea Hill](https://twitter.com/search?q=(%23fwd50)%20(from%3A@afhill)%20since%3A2020-11-01&src=typed_query&f=live)
 - [Mélanie Copeland](https://twitter.com/search?q=(%23fwd50)%20(from%3A@Copeland309)%20since%3A2020-11-01&src=typed_query&f=live)
 - [Rob Butler](https://twitter.com/search?q=(%23fwd50)%20(from%3A@RobButler)%20since%3A2020-11-01&src=typed_query&f=live)
 - [Thom Kearney](https://twitter.com/search?q=(%23fwd50)%20(from%3A@thomkearney)%20since%3A2020-11-01&src=typed_query&f=live)
 
 *Note: There many others out there so feel free to let us know of them so that we can update the list!*
+
+In addition to live tweeting, Sean Boots recently published a great blog post with reflections on his FWD50 experience called [Government is actually a big tech company, they just don’t know it yet](https://sboots.ca/2020/11/16/government-is-actually-a-big-tech-company/).
 
 As always with FWD50, it is impossible to leave this conference without finding new interesting people to follow.
 Some of these include:
