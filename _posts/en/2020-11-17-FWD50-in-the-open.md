@@ -61,9 +61,9 @@ There were many people who were live-tweeting the event under the [#FWD50](https
 
 In addition to live tweeting, Sean Boots recently published a great blog post with reflections on his FWD50 experience called [Government is actually a big tech company, they just don’t know it yet](https://sboots.ca/2020/11/16/government-is-actually-a-big-tech-company/).
 
-As always with FWD50, it is impossible to leave this conference without finding new interesting people to follow.  In addition to all the presenters listed above, we are also following:
-Some of these include:
+Lastly, as always with FWD50, it is impossible to leave this conference without finding new, interesting people to follow.  In addition to the presenters we've linked above, some of our new follows include:
 
 - [Yin Yin Lu](https://twitter.com/Yinneth), a self-proclaimed Rhetoric Doctor, shared with the audience how communication science could very well be more important than political science. She was funny, witty and very engaging with the participants!
+- [Denise Williams](https://twitter.com/quwutsunn?lang=en) shared the important work of the [First Nations Technology Council](https://technologycouncil.ca/) and their education programs which are enabling Indigenous communities to fully utilize technology and ensuring that Indigenous voices are actively shaping the technology sector.
 - [Dr. Julia Glidden](https://twitter.com/JuliaGlidden), from Microsoft, who shared how many of the things we are now seeing emerge in the government were concepts she and her peers were trying to promote more than a decade ago!
 - Our very own Minister of Digital Government, the [Honourable Joyce Murray](https://twitter.com/JoyceMurray), provided a thoughtful [keynote](https://player.vimeo.com/video/473572261#t=35m) and encouraged us to continue our journey towards a truly digital government by building on the critical experience acquired throughout the COVID-19 pandemic.
