@@ -27,7 +27,7 @@ img + em { display: inline-block; }
   <strong>This is a DRAFT strategy</strong>. <a href="target-solution-delivery-model-strategy-areas-of-concerns.html">Concerns have been raised</a> by stakeholders as part of the peer review process and are being looked at.
 </div>
 
-_Note 1: Its authoritative source and latest version of this Strategy is on [ESDC's internal network]([https://dialogue/grp/BU6810070/SitePages/strategyAlternateDeliveryModel.aspx](https://014gc.sharepoint.com/sites/TargetITSolutionDeliveryModel))_
+_Note 1: Its authoritative source and latest version of this Strategy is on [ESDC's internal network](https://014gc.sharepoint.com/sites/TargetITSolutionDeliveryModel)_
 
 _Note 2: This page will link to internal ESDC documents, which are unfortunately only accessible within ESDC corporate network._
 
