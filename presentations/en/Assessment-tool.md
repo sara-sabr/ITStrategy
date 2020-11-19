@@ -2,65 +2,42 @@
 
 ## Capabilities of high performing IT organizations
 
-December 2020
+SABR - IT Strategy - 2020-12
 
 ---
 
 ## Plan
 
-- DevOps Research Assessment (DORA)
-- Transform into high performing IT org
-- PwC Recommendations
-- GC/ESDC Policies and Directives
-- Assessment tool
-- Demo
+- DevOps Research & Assessment (DORA)
+- How to transform into high performing IT
+- Assessment Tool
+  - Demo
 
 ---
 
-## DORA
+## DevOps Research & Assessment
 
-DevOps Research Assessment...
+The State of DevOps research program represents six years of research and data from over 31,000 professionals worldwide.
+It is the longest running academically rigorous research investigation of its kind, providing an independent view into the practices and **capabilities that drive high performance in technology** delivery and ultimately organizational outcomes.
 
-**Capabilities of high performing IT organizations**
-
---
-
-### Culture
-
-- Learning culture
-- Job satisfaction
-- Generative (Westrum) organizational culture
+[State of DevOps 2019](https://cloud.google.com/devops/state-of-devops)
 
 --
 
-### Measurement
+### Capabilities
 
-- Monitoring systems to inform business decisions
-- Proactive failure notifictation
+#### Technical - Process - Measurement - Cultural
 
---
-
-### Process
-
-- Team experimentation
-- Customer feedback
-- Working in small batches
-- Visibility of work in the value stream
-- Streamlining change approval
-
---
-
-### Technical
-
-- Version control
-- Trunk-based development
-- Empowering teams to choose tools
-- Shifting left on security
-- Continuous integration
-- Test automation
-- Test data management
-- Architecture
-- Deployment automation
+- Version Control and Code Maintainability
+- Continuous Integration and Deployment
+- Continuous Testing
+- Architecture and Cloud Infrastructure
+- Experimentation and Streamlining Change Approval
+- Customer Feedback and Work Visibility
+- Data Application Monitoring
+- Work in Process Limits and Visual Management
+- Learning and Generative Culture
+- Transformational Leadership
 
 ---
 
@@ -70,7 +47,16 @@ DevOps Research Assessment...
 
 https://cloud.google.com/solutions/devops/devops-culture-transform
 
-Image..
+--
+
+### Replace with visual
+
+1. Org sets aspirational goal
+2. Teams assess current condition
+3. Teams sets measurable targets for a future date
+4. Teams look for with ways to achieve goals (PCDA)
+5. Teams run experiments daily to move towards the target conditions
+6. Results are captured, new targets are set, repeat the process.
 
 --
 
@@ -82,7 +68,7 @@ This is an aspirational, system-level goal, for example
 - Lead time for change [1-24] hours
 - Deploy frequency [1-24] hours or on demand
 - Time to restore service [1-24] hours
-- Westrum (Generative) Culture mitric > x
+- [Generative (Westrum) Culture](https://cloud.google.com/solutions/devops/devops-culture-westrum-organizational-culture)
 
 --
 
@@ -98,6 +84,8 @@ Understand the current condition
 
 Set measurable targets for a future date.
 
+- What are your "sprints"?
+- 1, 2 or 3 weeks
 - Quarterly
 
 --
@@ -153,11 +141,13 @@ time to complete..
 
 ### Benefits
 
-- 
+- ..
 
 --
 
 ### Tested with
+
+- IITB Teams
 
 "quote" - someone
 
