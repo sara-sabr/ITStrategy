@@ -82,7 +82,7 @@ All ESDC personnel involved in IT investment decisions are expected to adhere to
 
 Moving to the digital age exposes the ubiquitous nature of technology in delivering services to Canadians.
 As such, for ESDC to iterate on its policies and service offerings[^1], it will need to involve IT.
-In order to better deliver services to Canadians, we need to improve IT's responsiveness otherwise the feedback loop between policy makers and Canadians will be too long, affecting ESDC's ability to iterate on its policy making and become an agile organization.
+In order to better deliver services to Canadians, we need to improve IT's responsiveness, otherwise the feedback loop between policy makers and Canadians will be too long, affecting ESDC's ability to iterate on its policy making and become an agile organization.
 
 ![An image showing 3 icons: Policy Makers, Technology, and Canadians. Between each icon, there's a relationship displayed as such: Policy Makers must use Technology to implement their policies, Technology is used to delivery services to Canadians, Canadians provide feedback to Policy Makers]({{ site.baseurl }}/assets/images/policy_through_technology.png)
 *Figure 1. In the Digital age, technology is between Policy Makers and Canadians*
@@ -91,7 +91,7 @@ In order to better deliver services to Canadians, we need to improve IT's respon
 
 ESDC is not a new department.
 It has accumulated a [significant amount of technical debt](http://www.oag-bvg.gc.ca/internet/English/parl_oag_201004_01_e_33714.html)[^2] over its decades that affects the responsiveness of IT.
-ESDC's [application portfolio contains more than 500 applications](https://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/ESDC%20IT%20Plan%202019-22%20-%20FINAL.pdf)[^3], 101 of which are mission critical and depend on legacy technologies (aged custom build applications and a mainframe).
+ESDC's [application portfolio contains more than 500 applications](https://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/ESDC%20IT%20Plan%202019-22%20-%20FINAL.pdf)[^3], 101 of which are mission critical and depend on legacy technologies (aged custom-built applications and a mainframe).
 In response to limitations of the antiquated IT systems, ESDC has started investing in a [Business Delivery Modernization](https://www.canada.ca/en/employment-social-development/corporate/reports/departmental-plan/2019-2020/planned-results.html#h2.04) Programme[^4].
 
 But using IT is a risky and costly investment[^5].
@@ -112,7 +112,7 @@ This strategy seeks to improve the above two goals by proposing moving ESDC to t
 The benefits to frequent small deployments, using automated methods, are expected to reduce risk[^9], reduce technical debt, increase client satisfaction, and increase overall confidence in the department and its staff.
 This is now possible with the adoption of Cloud technologies and DevOps practices.
 
-In short, this strategy seeks to change organizational conditions so that ESDC can succeed its digital transformation[^10].
+In short, this strategy seeks to change organizational conditions so that ESDC can successfully achieve its digital transformation[^10].
 
 This strategy will capitalize on existing IT initiatives (such as the [IITB Way Forward](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx), the PwC Independent Study, its Cloud Operations framework, and Technical Debt remediation programme) by adding attention to them and complementing them with new activities.
 
@@ -216,7 +216,7 @@ The following are actions that need to be performed in order to make the Target 
     <td>
     Review terms of reference of Governance committees involved in the IT-Enabled Project PMLC and propose recommendations to allow the Target State to operate. e.g.:<br>
 <li>Move away from gating and towards monitoring and course corrections</li>
-<li>Allowing automatic decision-making depending on guardrails conditions (e.g., small changes on existing IT Products</li>
+<li>Allowing automatic decision-making depending on guardrails conditions (e.g., small changes to existing IT Products</li>
     </td>
     <td><b><i>IITB Governance</i></b></td>
     <td>
@@ -240,7 +240,7 @@ The following are actions that need to be performed in order to make the Target 
   <tr>
     <td>Produce IT-enabled project intake condition standard</td>
     <td>
-Produce a list of conditions that IT-Enabled projects must meet with before project intake can accept them. e.g.<Br>
+Produce a list of conditions that IT-Enabled projects must meet before project intake can accept them. e.g.<Br>
 <li>Metrics of business outcomes are defined and approved by ESDC's Chief Architect</li>
 <li>The business sponsor commits the availability of, at minimum, one business subject matter expert throughout the IT Project</li>
 <li>The business sponsor commits the availability of, at minimum, one policy expert throughout the IT Project</li>
@@ -315,7 +315,7 @@ Similarly to draft BDM Digital Experience and Client Data (DECD) <a href="https:
   <tr>
     <td>Produce standard development metrics for DevOps teams</td>
     <td>
-    Produce a minimum list of development metrics that DevOps teams must publish on. The purpose of these metrics is to provide insights on the development maturity of teams and quality assurance levels of IT Products before they reach production. e.g.:<br>
+    Produce a minimum list of development metrics that DevOps teams must publish on. The purpose of these metrics is to provide insights into the development maturity of teams and quality assurance levels of IT Products before they reach production. e.g.:<br>
 <li>Accessibility test results</li>
 <li>Integration testing results</li>
 <li>Security test results</li>
@@ -324,7 +324,7 @@ Similarly to draft BDM Digital Experience and Client Data (DECD) <a href="https:
 <li>Average Pull Request Review Turnaround</li>
 <li>Performance testing results</li>
     </td>
-    <td><b><i>TSDM Change Mg team</i></b></td>
+    <td><b><i>TSDM Change Mgmt team</i></b></td>
     <td>
     Senior Advisors<br>
 DTS<br>
@@ -465,7 +465,7 @@ Provide standards that DevOps teams are expected to comply with when releasing s
   <tr>
     <td>Define Target Architecture Vision for Legacy Environments</td>
     <td>
-    Define the target architecture vision for legacy environments to enable the transition towards BDM and the Target IT Solution Delivery Model. The Target Architecture Vision is to provide direction and set reasonable expectations for DevOps teams in a legacy environment. Its content is to provide a conceptual view of the layered architectures(presentation, integration, system/applications, information/data, networking, and security) and offer project teams with reference architectures to implement<a href="https://dzone.com/articles/monolith-to-microservices-using-the-strangler-patt">strangler patterns</a>
+    Define the target architecture vision for legacy environments to enable the transition towards BDM and the Target IT Solution Delivery Model. The Target Architecture Vision is to provide direction and set reasonable expectations for DevOps teams in a legacy environment. Its content is to provide a conceptual view of the layered architectures(presentation, integration, system/applications, information/data, networking, and security) and reference architectures that project teams can implement (see <a href="https://dzone.com/articles/monolith-to-microservices-using-the-strangler-patt">strangler patterns</a>).
     </td>
     <td>
     <b><i>Enterprise Architecture</i></b>
@@ -479,7 +479,7 @@ Provide standards that DevOps teams are expected to comply with when releasing s
   </tr>
   <tr>
     <td>Produce ESDC Legacy Systems Standard List</td>
-    <td>Produce an official list of systems deemed “Legacy” from the APM portfolio. This standard list is used by the Architecture 7) guiding policy statement </td>
+    <td>Produce an official list of systems deemed “Legacy” from the APM portfolio. This standard list is used by the 7<sup>th</sup> Architecture guiding policy statement </td>
     <td><b><i>Enterprise Architecture</i></b></td>
     <td>Technical Debt</td>
   </tr>
@@ -682,21 +682,21 @@ It is understood that the strategy's ambition will not be implemented in a big b
 The approach to its implementation will be that of an iterative one towards the target state using three stages:
 
 1. **Stage 1: Foundation and awareness**
-    - Expose existing ESDC IT teams already working close or at the Target State by promoting their visibility in the organization and granting them the authority to operate under the Target State (e.g., teams in the CPP-E project).
+    - Expose existing ESDC IT teams already working close to or at the Target State by promoting their visibility in the organization and granting them the authority to operate under the Target State (e.g., teams in the CPP-E project).
     - Sanction 1 IT Product to operate under the new Target State model
     - Sanction 1 IT-Enabled Project to operate under the new Target State model
     - Build a temporary, funded, DevOps Community of Excellence (3-year life) that will act as change agents and coaches for existing ESDC IT teams towards their DevOps adoption
     - Identify “Champions” by functions.
-    These champions provide coaching and mentoring to other teams (i.e., the start of “enabling teams” that the Team Topology[^11]  concept refers to)
-    - Raise Awareness on the need for System Administrators to move towards Site Reliability Engineers
+    These champions provide coaching and mentoring to other teams (i.e., the start of “enabling teams” that the Team Topology[^11] concept refers to)
+    - Raise Awareness on the need for System Administrators to move towards becoming Site Reliability Engineers
 2. **Stage 2: Infrastructure and Legacy readiness**
     - Identify 2 IT-enabled projects touching legacy systems for piloting and scope them towards the Target State direction (as per the Target Architecture Vision for Legacy)
     - Provide common DevOps pipelines for IT teams to use (funded, passed SA&A, and adopted as Technical Standards)
     - Experiment with non-production environments, for legacy systems, in the public cloud (e.g., testing environments)
 3. **Stage 3: Scale**
-    - Identify “Platform teams” that provides services to DevOps teams, through tooling and APIs
+    - Identify “Platform teams” that provide services to DevOps teams, through tooling and APIs
     - Identify “Complicated subsystem teams” that provide specialized expertise to DevOps teams (e.g., mainframes, complex mathematics, analytics)
-    - Produce IITB organizational structure (multi-functional teams oriented), and its associated Financial Model
+    - Produce IITB Organizational Structure (multi-functional teams oriented), and its associated Financial Model
 4. **Stage 4: Normalize and manage Legacy**
     - Mandate all greenfield IT-Enabled Projects (not touching legacy infrastructures) to operate under the Target State Model
     - Mandate all brownfield IT-Enabled Projects (touching legacy infrastructures) to scope them towards the Target State direction (as per the Target Architecture Vision for Legacy)
@@ -720,16 +720,16 @@ The current standard seek to manage risks and costs with advanced planning and r
 The gating approach to project management requires project teams to seek permission to continue.
 This permission is granted when sufficient evidence of due diligence and an accurate picture of the future is provided.
 This may work when the future is predictable, but not when it is complex and uncertain.
-Its adverse effect is promoting feature bloating as the burden of going through the process of seeking permission before proceeding makes it a deterrent to deploy small changes.
+Its adverse effect is promoting feature bloating, as the burden of going through the process of seeking permission before proceeding makes it a deterrent to deploy small changes.
 
-Moving to a highly integrated, complex, and uncertain world that is Digital warrant us to move towards a more empirical cycle of trying, observing, and course correcting.
+Moving to a highly integrated, complex, and uncertain world that is Digital warrants us to move towards a more empirical cycle of trying, observing, and course correcting.
 The relationship between the Planning and Execution Phase becomes cyclical.
 It's through execution that we gain the necessary empirical evidence to inform our Planning estimates and decide on course corrections.
 Recent software development practices, mainly Cloud and DevOps, have permitted us to move towards this approach.
 IT no longer requires lengthy wait time to procure servers, to develop large code bases, and to seek large capital investments for infrastructure.
-Cloud has commoditized IT infrastructure enabling ESDC to rapidly develop, test, and deploy software.
+Cloud has commoditized IT infrastructure, enabling ESDC to rapidly develop, test, and deploy software.
 
-In addition, the software world is moving away from [Monolith-types of solutions](https://medium.com/koderlabs/introduction-to-monolithic-architecture-and-microservices-architecture-b211a5955c63) (large code bases that provides many capabilities but become bottlenecks and single points of failures in the IT ecosystem as the many IT teams needed to perform work collide).
+In addition, the software world is moving away from [Monolith-types of solutions](https://medium.com/koderlabs/introduction-to-monolithic-architecture-and-microservices-architecture-b211a5955c63) (large code bases that provides many capabilities but become bottlenecks and single points of failures in the IT ecosystem, as the many IT teams needed to perform work collide).
 
 The [TB Directive on the Management of Projects and Programmes](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32594) makes room for the above approach:
 
@@ -737,7 +737,7 @@ The [TB Directive on the Management of Projects and Programmes](https://www.tbs-
 - [The Project Sponsor is responsible for:] 4.2.8 Applying as appropriate, incremental, iterative, agile, and user-centric principles and methods to the planning, definition, and implementation of the project
 - [The Project Sponsor is responsible for:] 4.2.18 Establishing a project gating plan at the outset of the project, consistent with the department's framework, that [4.2.18.1] Documents the decisions that will be taken at each gate, the evidence and information required in support of the gate decisions, the criteria used to assess the evidence, and the gate governance
 
-The above 3 requirements from the TB Directive indicates that departments must accept and adapt to change, as well as make evidence-based decision-making (like planning decisions).
+The above 3 requirements from the TB Directive indicate that departments must accept and adapt to change, as well as make evidence-based decision-making (like planning decisions).
 Such evidence can only be obtained by execution.
 
 IITB has made efforts to modernize its management of technology, as is showcased in the [IITB News Kudo's Corner](http://esdc.prv/en/iitb/corporate/news/archives.shtml)[^14]  and its [IITB Way Forward](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental IMIT Plan/19-20 Plans/IITB Moving Forward v2.docx)[^15] plan.
@@ -984,7 +984,7 @@ The Standish Group, a research advisory organization that focuses on software de
 The Standish data showed that 52% of the large projects were “challenged” meaning they were over budget, behind schedule or didn't meet user expectations.
 The remaining 41.4% were failures — they were either abandoned or started anew from scratch."[^17]
 
-The standish group study and results were also mentioned in Chapter 3 of the Novembre 2006 Report of the Auditor General of Canada (statements 3.5 and 3.6).
+The standish group study and results were also mentioned in Chapter 3 of the November 2006 Report of the Auditor General of Canada (statements 3.5 and 3.6).
 See point 3 below
 
 **2) 2016 and 2019 House of Commons Questions (projects of more than $1M)**
@@ -1001,16 +1001,16 @@ We find that:
 
 The audit sampled seven projects and assessed them against four key criteria (governance, business case, organizational capacity, and project management).
 
-In statements 3.5 and 3.6, the report highlights the Standish Group study (1) above) on the low success rate of large IT projects.
+In statements 3.5 and 3.6, the report highlights the Standish Group study (see 1) above) on the low success rate of large IT projects.
 It also refers a 2000 report in which it highlights a trend that is emerging in IT projects: “most new projects fit within its "Recipe for Success," which limits the size of projects to six months and six people”.
 
 The report concluded that, overall, the government had made little progress since the last audit (1997), had not adequately explained the results expected to be achieved as part of a business case, and not adequately assessed their capacity to take on high-risk IT projects.
-However, the report does conclude that 4/7 sampled projects were well managed.
+However, the report does conclude that 4/7 of the sampled projects were well managed.
 
 **4) 2010 Spring Report of the Auditor General of Canada[^20]**
 
 The report examined whether five of the government entities with the largest IT expenditures have adequately identified and managed risks related to aging IT systems.
-All of them indicated that aging IT is a significant risk and the majority included it in their corporate risk profile (i.e., ESDC is one of them).
+All of them indicated that aging IT is a significant risk and the majority included it in their corporate risk profile (ESDC is one of them).
 
 The report indicated that investment plans are not supported by a funding strategy where sufficient source of funds are provided to complete all initiatives necessary to manage aging IT.
 In 2008, HRSDC prepared a Long-Term Capital Plan consisting of 20 projects and initiatives costing $947.4 million over 5 years.
@@ -1027,7 +1027,7 @@ It found that government made unsatisfactory progress on its commitments in resp
 
 **6) Report 5 – 2015 Spring Report of the Auditor General of Canada (IT investments by CBSA)[^22]**
 
-This report presents the results of a performance audit, an independent, objective, and systematic assessment of how well government is managing its activities, responsibilities, and resource.
+This report presents the results of a performance audit, being an independent, objective, and systematic assessment of how well government is managing its activities, responsibilities, and resource.
 
 Overall the report found that CBSA “had significant challenges in managing its information technology (IT) portfolio in a way that ensured it could deliver IT projects that meet requirements and deliver expected benefits.”
 
@@ -1047,7 +1047,7 @@ As a result, Phoenix has not met user needs, has cost the federal government hun
 On February 2020, 18F (the U.S. equivalent of the Canadian Digital Service) did a presentation at Michigan's Senate Appropriations Committee.
 18F was created in 2014 by the Presidential Innovation Fellows (PIF, established in 2012 by the White House) to improve and modernize government technology[^25].
 The presentation focused on technology procurement and its challenges.
-In short, government departments are unable to adequately frame the problem into manageable parts and, as such, are locking themselves into lengthy, large, and complicated contracts with vendors.
+In short, government departments are unable to adequately frame problems into manageable parts and, as such, are locking themselves into lengthy, large, and complicated contracts with vendors.
 
 ## Inline references <!-- omit in toc -->
 
