@@ -84,10 +84,10 @@ Moving to the digital age exposes the ubiquitous nature of technology in deliver
 As such, for ESDC to iterate on its policies and service offerings[^1], it will need to involve IT.
 In order to better deliver services to Canadians, we need to improve IT's responsiveness otherwise the feedback loop between policy makers and Canadians will be too long, affecting ESDC's ability to iterate on its policy making and become an agile organization.
 
-![An image showing 3 icons: Policy Makers, Technology, and Canadians. Between each icons, there's a relationship displayed as such: Policy Makers must use Technology to implement their policies, Technology is used to delivery services to Canadians, Canadians provide feedback to Policy Makers]({{ site.baseurl }}/assets/images/policy_through_technology.png)
+![An image showing 3 icons: Policy Makers, Technology, and Canadians. Between each icon, there's a relationship displayed as such: Policy Makers must use Technology to implement their policies, Technology is used to delivery services to Canadians, Canadians provide feedback to Policy Makers]({{ site.baseurl }}/assets/images/policy_through_technology.png)
 *Figure 1. In the Digital age, technology is between Policy Makers and Canadians*
 
-> ESDC requires **production deployments** to gain the **empirical evidence** needed for **evidence-based decision making**.
+> ESDC requires **production deployments** to gain the **empirical evidence** needed for **evidence-based decision-making**.
 
 ESDC is not a new department.
 It has accumulated a [significant amount of technical debt](http://www.oag-bvg.gc.ca/internet/English/parl_oag_201004_01_e_33714.html)[^2] over its decades that affects the responsiveness of IT.
@@ -103,7 +103,7 @@ However, to work effectively in the digital world, you must first accept complex
 A predictable world rewards advanced planning and rigid plan execution.
 But a complex and uncertain world rewards an empirical cycle of trying, observing, and correcting.[^7]
 
-The current methods of managing IT investments seeks two broad goals[^8]:
+The current methods of managing IT investments seek two broad goals[^8]:
 
 1. Managing risks associated with IT investments
 2. Placing investments where there is benefits
@@ -158,7 +158,7 @@ Stakeholders are expected to still comply with existing policy instruments inclu
 
 ### Capacity Planning
 
-1. Capacity Planning uses DevOps teams as units (i.e. not individuals)
+1. Capacity Planning uses DevOps teams as units (i.e., not individuals)
 2. IT-Enabled Projects are assigned a combination of pre-defined DevOps team(s)
 
 ### Architecture
@@ -200,7 +200,7 @@ Stakeholders are expected to still comply with existing policy instruments inclu
 
 ## Coherent set of actions
 
-The following are actions that needs to be performed in order to make the Target IT Solution Delivery Model operational.
+The following are actions that need to be performed in order to make the Target IT Solution Delivery Model operational.
 
 <table>
   <tr>
@@ -214,9 +214,9 @@ The following are actions that needs to be performed in order to make the Target
     <td rowspan="9"><b>Governance</b></td>
     <td>Review IT Project Governance decision chain</td>
     <td>
-    Review terms of reference of Governance committees involved in the IT-Enabled Project PMLC and propose recommendations to allow the Target State to operate. E.g.:<br>
+    Review terms of reference of Governance committees involved in the IT-Enabled Project PMLC and propose recommendations to allow the Target State to operate. e.g.:<br>
 <li>Move away from gating and towards monitoring and course corrections</li>
-<li>Allowing automatic decision making depending on guardrails conditions (e.g. small changes on existing IT Products</li>
+<li>Allowing automatic decision-making depending on guardrails conditions (e.g., small changes on existing IT Products</li>
     </td>
     <td><b><i>IITB Governance</i></b></td>
     <td>
@@ -240,7 +240,7 @@ The following are actions that needs to be performed in order to make the Target
   <tr>
     <td>Produce IT-enabled project intake condition standard</td>
     <td>
-Produce a list of conditions that IT-Enabled projects must meet with before project intake can accept them. E.g.<Br>
+Produce a list of conditions that IT-Enabled projects must meet with before project intake can accept them. e.g.<Br>
 <li>Metrics of business outcomes are defined and approved by ESDC's Chief Architect</li>
 <li>The business sponsor commits the availability of, at minimum, one business subject matter expert throughout the IT Project</li>
 <li>The business sponsor commits the availability of, at minimum, one policy expert throughout the IT Project</li>
@@ -315,7 +315,7 @@ Similarly to draft BDM Digital Experience and Client Data (DECD) <a href="https:
   <tr>
     <td>Produce standard development metrics for DevOps teams</td>
     <td>
-    Produce a minimum list of development metrics that DevOps teams must publish on. The purpose of these metrics is to provide insights on the development maturity of teams and quality assurance levels of IT Products before they reach production. E.g.:<br>
+    Produce a minimum list of development metrics that DevOps teams must publish on. The purpose of these metrics is to provide insights on the development maturity of teams and quality assurance levels of IT Products before they reach production. e.g.:<br>
 <li>Accessibility test results</li>
 <li>Integration testing results</li>
 <li>Security test results</li>
@@ -337,7 +337,7 @@ CCoE
   <tr>
     <td>Produce standard production metrics for IT Products </td>
     <td>
-    Produce a minimum list of production metrics that IT Products must publish. The purpose of these metrics is to provide insights on the health and behaviours of IT Products once in production. These insights are intended to be used for further IT Product enhancements. E.g.:
+    Produce a minimum list of production metrics that IT Products must publish. The purpose of these metrics is to provide insights on the health and behaviours of IT Products once in production. These insights are intended to be used for further IT Product enhancements. e.g.:
 <li>API consumption statistics</li>
 <li>IT Product's availability statistics</li>
 <li>IT Product's automated decision effectiveness and efficiency (if eligible)</li>
@@ -409,7 +409,7 @@ Audit processes in scope include internal ESDC Audit, not External auditing enti
   </tr>
   <tr>
     <td>Produce Target ADS Assessment Methodology</td>
-    <td>Produce the Target Automated Decision System Assessment Methodology to assure any software intended for automated decision making complies with the Directive on Automated Decision-Making, including Privacy and Legal controls that can be automated.</td>
+    <td>Produce the Target Automated Decision System Assessment Methodology to assure any software intended for automated decision-making complies with the Directive on Automated Decision-Making, including Privacy and Legal controls that can be automated.</td>
     <td><b><i>AI CoE</i></b></td>
     <td>
     CDO<br>
@@ -485,7 +485,7 @@ Provide standards that DevOps teams are expected to comply with when releasing s
   </tr>
   <tr>
     <td>Produce Loose Coupling architecture guidance</td>
-    <td>Produce a guidance document to clarify and guide Architects in building IT solutions making use of loose coupling architecture principles that provide IT Product teams more autonomy (e.g. Micro-Services, <a href="https://12factor.net/">12-factor app</a>) while adhering to data management expectations.</td>
+    <td>Produce a guidance document to clarify and guide Architects in building IT solutions making use of loose coupling architecture principles that provide IT Product teams more autonomy (e.g., Micro-Services, <a href="https://12factor.net/">12-factor app</a>) while adhering to data management expectations.</td>
     <td>
     <b><i>Solution Architecture</i></b>
     </td>
@@ -499,7 +499,7 @@ Provide standards that DevOps teams are expected to comply with when releasing s
   <tr>
     <td rowspan="3"><b>Product Management</b></td>
     <td>Produce a team lending model</td>
-    <td>Engage with the Resource Centre to provide an alternative means to deploy resources to projects, one that favours dedicated multi-disciplinary small teams over individuals, as well as producing enabling teams responsible to accelerate other teams transition towards DevOps (see definition of “DevOps team” and the different types of teams)</td>
+    <td>Engage with the Resource Centre to provide an alternative means to deploy resources to projects, one that favours dedicated multidisciplinary small teams over individuals, as well as producing enabling teams responsible to accelerate other teams' transition towards DevOps (see definition of “DevOps team” and the different types of teams)</td>
     <td>
     <b><i>Resource Centre</i></b>
     </td>
@@ -547,8 +547,8 @@ Enterprise Architecture
   <tr>
     <td>Produce standard change management criteria</td>
     <td>
-    Produce a standard change management criteria that all Pipelines must comply with, at minimum, before they can automatically promote code in the pre-production and production environments. E.g.<br>
-<li>Based by IT Product (i.e. GUI, APIs, Automated Decision Making)</li>
+    Produce a standard change management criteria that all Pipelines must comply with, at minimum, before they can automatically promote code in the pre-production and production environments. e.g.<br>
+<li>Based by IT Product (i.e., GUI, APIs, Automated Decision Making)</li>
 <li>Major vs Minor releases and level of approvals needed</li>
 <li>Approval checkpoints for seeking automated release</li>
     </td>
@@ -565,7 +565,7 @@ IITB Compliance Unit
   </tr>
   <Tr>
     <td>Produce DevOps ConOps guidelines</td>
-    <td>Produce a DevOps ConOps guidelines, including release processes and standards, on releasing code from commit to production (e.g. pre-prod environment, blue-green model)</td>
+    <td>Produce a DevOps ConOps guidelines, including release processes and standards, on releasing code from commit to production (e.g., pre-prod environment, blue-green model)</td>
     <td>
     <B><i>CCoE</i></b>
     </td>
@@ -578,7 +578,7 @@ Cloud Ops
   </tr>
   <Tr>
     <td>Provide means for DevOps teams to experiment with new tools</td>
-    <td>Leverage the SAFER LAB, Virtual Desktop Image, and Technical Architecture standards to provide provide means for DevOps teams to install and try out new innovative tools for experimentation, with eventual rapid update in the Technical Bricks</td>
+    <td>Leverage the SAFER LAB, Virtual Desktop Image, and Technical Architecture standards to provide means for DevOps teams to install and try out new innovative tools for experimentation, with eventual rapid update in the Technical Bricks</td>
     <td>
     <b><i>IT Research &amp; Prototype</i></b>
     </td>
@@ -594,7 +594,7 @@ TSWG
 
 ## Measuring the Strategy's success
 
-This Strategy ‘s success will be measured by comparing the following metrics against the conventional IT project methodology.
+This Strategy‘s success will be measured by comparing the following metrics against the conventional IT project methodology.
 
 The metrics are defined as follows:
 
@@ -670,9 +670,9 @@ The metrics are defined as follows:
 </tr>
 </table>
 
-*Manually*: the collection of data requires manual intervention (e.g. surveys using the SimpleSurvey software, interviews, emails, spreadsheet updates).
+*Manually*: the collection of data requires manual intervention (e.g., surveys using the SimpleSurvey software, interviews, emails, spreadsheet updates).
 
-*Automatic*: the collection of data is performed automatically, usually involving programmatic means (e.g. events triggered by git repository when a new commit is performed and updates a master dashboard “view”).
+*Automatic*: the collection of data is performed automatically, usually involving programmatic means (e.g., events triggered by git repository when a new commit is performed and updates a master dashboard “view”).
 
 **NOTE:** the four first metrics (a, b, c, and d) are the [4 key metrics as defined by the DevOps Research Assessment institute (DORA)](https://www.thoughtworks.com/radar/techniques/four-key-metrics)
 
@@ -682,20 +682,20 @@ It is understood that the strategy's ambition will not be implemented in a big b
 The approach to its implementation will be that of an iterative one towards the target state using three stages:
 
 1. **Stage 1: Foundation and awareness**
-    - Expose existing ESDC IT teams already working close or at the Target State by promoting their visibility in the organization and granting them the authority to operate under the Target State (e.g. teams in the CPP-E project).
+    - Expose existing ESDC IT teams already working close or at the Target State by promoting their visibility in the organization and granting them the authority to operate under the Target State (e.g., teams in the CPP-E project).
     - Sanction 1 IT Product to operate under the new Target State model
     - Sanction 1 IT-Enabled Project to operate under the new Target State model
-    - Build a temporary, funded, DevOps Community of Excellence (3 year life) that will act as change agents and coaches for existing ESDC IT teams towards their DevOps adoption
+    - Build a temporary, funded, DevOps Community of Excellence (3-year life) that will act as change agents and coaches for existing ESDC IT teams towards their DevOps adoption
     - Identify “Champions” by functions.
-    These champions provide coaching and mentoring to other teams (i.e. the start of “enabling teams” that the Team Topology[^11]  concept refers to)
+    These champions provide coaching and mentoring to other teams (i.e., the start of “enabling teams” that the Team Topology[^11]  concept refers to)
     - Raise Awareness on the need for System Administrators to move towards Site Reliability Engineers
 2. **Stage 2: Infrastructure and Legacy readiness**
-    - Identify 2 IT-enabled Projects touching Legacy systems for piloting and scope them towards the Target State direction (as per the Target Architecture Vision for Legacy)
+    - Identify 2 IT-enabled projects touching legacy systems for piloting and scope them towards the Target State direction (as per the Target Architecture Vision for Legacy)
     - Provide common DevOps pipelines for IT teams to use (funded, passed SA&A, and adopted as Technical Standards)
-    - Experiment with non-production environments, for legacy systems, in the public cloud (e.g. testing environments)
+    - Experiment with non-production environments, for legacy systems, in the public cloud (e.g., testing environments)
 3. **Stage 3: Scale**
     - Identify “Platform teams” that provides services to DevOps teams, through tooling and APIs
-    - Identify “Complicated subsystem teams” that provide specialized expertise to DevOps teams (e.g. mainframes, complex mathematics, analytics)
+    - Identify “Complicated subsystem teams” that provide specialized expertise to DevOps teams (e.g., mainframes, complex mathematics, analytics)
     - Produce IITB organizational structure (multi-functional teams oriented), and its associated Financial Model
 4. **Stage 4: Normalize and manage Legacy**
     - Mandate all greenfield IT-Enabled Projects (not touching legacy infrastructures) to operate under the Target State Model
@@ -703,7 +703,7 @@ The approach to its implementation will be that of an iterative one towards the 
 
 ## Appendix A - Diagnostic (challenges holding us back)
 
-The [Policy on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603), reflecting citizen's expectations requires ESDC to review services delivered to clients periodically.
+The [Policy on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603), reflecting citizens' expectations, requires ESDC to review services delivered to clients periodically.
 With the ubiquitous nature of technology, any changes to ESDC services will require implicating IT teams.
 
 The [Directive on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601) highlights how **departmental CIOs (and CDOs) have a major say** on how departments are to digital transform .
@@ -720,7 +720,7 @@ The current standard seek to manage risks and costs with advanced planning and r
 The gating approach to project management requires project teams to seek permission to continue.
 This permission is granted when sufficient evidence of due diligence and an accurate picture of the future is provided.
 This may work when the future is predictable, but not when it is complex and uncertain.
-Its adverse affect is promoting feature bloating as the burden of going through the process of seeking permission before proceeding makes it a deterrent to deploy small changes.
+Its adverse effect is promoting feature bloating as the burden of going through the process of seeking permission before proceeding makes it a deterrent to deploy small changes.
 
 Moving to a highly integrated, complex, and uncertain world that is Digital warrant us to move towards a more empirical cycle of trying, observing, and course correcting.
 The relationship between the Planning and Execution Phase becomes cyclical.
@@ -729,7 +729,7 @@ Recent software development practices, mainly Cloud and DevOps, have permitted u
 IT no longer requires lengthy wait time to procure servers, to develop large code bases, and to seek large capital investments for infrastructure.
 Cloud has commoditized IT infrastructure enabling ESDC to rapidly develop, test, and deploy software.
 
-In addition, the software world is moving away from [Monolith-types of solutions](https://medium.com/koderlabs/introduction-to-monolithic-architecture-and-microservices-architecture-b211a5955c63) (large code bases that provides many capabilities but become bottlenecks and single-points of failures in the IT ecosystem as the many IT teams needed to perform work collide).
+In addition, the software world is moving away from [Monolith-types of solutions](https://medium.com/koderlabs/introduction-to-monolithic-architecture-and-microservices-architecture-b211a5955c63) (large code bases that provides many capabilities but become bottlenecks and single points of failures in the IT ecosystem as the many IT teams needed to perform work collide).
 
 The [TB Directive on the Management of Projects and Programmes](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32594) makes room for the above approach:
 
@@ -737,13 +737,13 @@ The [TB Directive on the Management of Projects and Programmes](https://www.tbs-
 - [The Project Sponsor is responsible for:] 4.2.8 Applying as appropriate, incremental, iterative, agile, and user-centric principles and methods to the planning, definition, and implementation of the project
 - [The Project Sponsor is responsible for:] 4.2.18 Establishing a project gating plan at the outset of the project, consistent with the department's framework, that [4.2.18.1] Documents the decisions that will be taken at each gate, the evidence and information required in support of the gate decisions, the criteria used to assess the evidence, and the gate governance
 
-The above 3 requirements from the TB Directive indicates that departments must accept and adapt to change, as well as make evidence-based decision making (like planning decisions).
+The above 3 requirements from the TB Directive indicates that departments must accept and adapt to change, as well as make evidence-based decision-making (like planning decisions).
 Such evidence can only be obtained by execution.
 
 IITB has made efforts to modernize its management of technology, as is showcased in the [IITB News Kudo's Corner](http://esdc.prv/en/iitb/corporate/news/archives.shtml)[^14]  and its [IITB Way Forward](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental IMIT Plan/19-20 Plans/IITB Moving Forward v2.docx)[^15] plan.
 However, ESDC's relationship with technology spans beyond IITB's influence.
 
-Moving ESDC towards being an agile organization requires moving towards a model that enables smaller, more frequent software deployments as they are enabling the organization to gain empirical evidence necessary to make evidence-based decision making.
+Moving ESDC towards being an agile organization requires moving towards a model that enables smaller, more frequent software deployments as they are enabling the organization to gain empirical evidence necessary to make evidence-based decision-making.
 
 ## Appendix B - Traceability Matrix
 
@@ -885,7 +885,7 @@ Organizing portfolios around development value streams enables visualizing the f
 **IT Solution**
 
 An IT solution is a combination of one or more IT Products.
-It produces the environment within which end-users operates.
+It produces the environment within which end users operate.
 
 Figure 1. Relationship Model between the different software elements (part 1).
 
@@ -895,11 +895,11 @@ Figure 1. Relationship Model between the different software elements (part 1).
 
 The combination of software, infrastructure, and their configuration.
 An IT Product is akin to an “application” as defined by the [Application Portfolio Management (APM)](https://www.gcpedia.gc.ca/wiki/OCIO_Application_Portfolio_Management) program.
-An IT Product may have one or many software (e.g. COTS, Open Source libraries, Open Source Software, Custom build software).
-Each of those software are deployed in one or many infrastructure (on premise, on the public cloud, or a combination of the two making it a hybrid deployment).
+An IT Product may have one or many software (e.g., COTS, Open Source libraries, Open Source Software, Custom build software).
+Each of those software is deployed in one or many infrastructure (on premise, on the public cloud, or a combination of the two making it a hybrid deployment).
 
 A “working IT Product” is a version of the IT Product which allows DevOps teams to collect the maximum amount of validated learning about clients with the least effort.
-A working IT Product must be able to be used by end-users and provide DevOps teams with observation of end-users behaviours.
+A working IT Product must be able to be used by end users and provide DevOps teams with observation of end-users behaviours.
 
 For the scope of this Strategy, Operating Systems are NOT defined as IT products.
 Therefore should an IT Product depend on an Operating System to run in production, it is compliance with this Guiding Policy.
@@ -922,7 +922,7 @@ A person who represents the business or user community and is responsible for wo
 **IT Product teams**
 
 Comprises of a set of DevOps teams that are needed to operate and maintain the suite of software the given IT Product is made of.
-Managers and orchestrators (e.g. lead architect) are also part of an IT Product team.
+Managers and orchestrators (e.g., lead architect) are also part of an IT Product team.
 
 **Conventional IT Solution Delivery Model**
 
@@ -945,7 +945,7 @@ Contrary to the conventional model, it will do so with:
 - Limiting the size of IT Projects
 - Defining IT Project in its entirety as the iteration step towards an organizational business goal
 - Requiring commitments from business sponsors throughout the execution of the IT Project
-- Favouring DevOps mentality to improve information flow and accelerate delivery (i.e. using delivery teams as opposed to a series of distributed functional teams)
+- Favouring DevOps mentality to improve information flow and accelerate delivery (i.e., using delivery teams as opposed to a series of distributed functional teams)
 - Measuring the business value obtained over time as opposed to strict schedule, cost, and scope estimates
 
 ## Appendix E - Acronym List Definition
@@ -976,11 +976,11 @@ Contrary to the conventional model, it will do so with:
 
 ## Appendix F - Statistics regarding Large IT-Enabled Projects
 
-The following are statistics and references regarding the problems and success rates of large IT-enabled Projects.
+The following are statistics and references regarding the problems and success rates of large IT-enabled projects.
 
 **1) Standish Group study**
 
-The Standish Group, a research advisory organization that focuses on software development performance[^16], found that “of 3,555 projects from 2003 to 2012 that had labor costs of at least $10 million, only 6.4% were successful.
+The Standish Group, a research advisory organization that focuses on software development performance[^16], found that “of 3,555 projects from 2003 to 2012 that had labour costs of at least $10 million, only 6.4% were successful.
 The Standish data showed that 52% of the large projects were “challenged” meaning they were over budget, behind schedule or didn't meet user expectations.
 The remaining 41.4% were failures — they were either abandoned or started anew from scratch."[^17]
 
@@ -1010,7 +1010,7 @@ However, the report does conclude that 4/7 sampled projects were well managed.
 **4) 2010 Spring Report of the Auditor General of Canada[^20]**
 
 The report examined whether five of the government entities with the largest IT expenditures have adequately identified and managed risks related to aging IT systems.
-All of them indicated that aging IT is a significant risk and the majority included it in their corporate risk profile (i.e. ESDC is one of them).
+All of them indicated that aging IT is a significant risk and the majority included it in their corporate risk profile (i.e., ESDC is one of them).
 
 The report indicated that investment plans are not supported by a funding strategy where sufficient source of funds are provided to complete all initiatives necessary to manage aging IT.
 In 2008, HRSDC prepared a Long-Term Capital Plan consisting of 20 projects and initiatives costing $947.4 million over 5 years.
@@ -1040,7 +1040,7 @@ Phoenix executives prioritized certain aspects, such as schedule and budget, ove
 Phoenix executives did not understand the importance of warnings that the Miramichi Pay Centre, departments and agencies, and the new system were not ready.
 They did not provide complete and accurate information to deputy ministers and associate deputy ministers of departments and agencies, including the Deputy Minister of Public Services and Procurement, when briefing them on Phoenix readiness for implementation.
 In our opinion, the decision by Phoenix executives to implement Phoenix was unreasonable according to the information available at the time.
-As a result, Phoenix has not met user needs, has cost the federal government hundreds of millions of dollars, and has financially affected tens of thousands of its employees.”.
+As a result, Phoenix has not met user needs, has cost the federal government hundreds of millions of dollars, and has financially affected tens of thousands of its employees.”
 
 **8) 18F's February 2020 [presentation at Michigan Senate Appropriations Committee](https://www.youtube.com/watch?v=g-h6CtSwk30)[^24]**
 
