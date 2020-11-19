@@ -70,6 +70,8 @@ DevOps Research Assessment...
 
 https://cloud.google.com/solutions/devops/devops-culture-transform
 
+Image..
+
 --
 
 ### Step 1
@@ -80,6 +82,7 @@ This is an aspirational, system-level goal, for example
 - Lead time for change [1-24] hours
 - Deploy frequency [1-24] hours or on demand
 - Time to restore service [1-24] hours
+- Westrum (Generative) Culture mitric > x
 
 --
 
@@ -129,33 +132,34 @@ When the results have been captured and new targets are set, repeat the process.
 
 ---
 
-## PwC Recommendations
-
-Not published yet...
-
-Will be added to assessment tool to promote continuous improvement
-
----
-
-## GC/ESDC Policies and Directives
-
-- GC
-  - Digital Standards
-  - Policy and Directive on Service and Digital
-  - Mandatory EA Assessment Procedures
-- ESDC
-  - IITB Wa Forward
-  - IT Plan
-  - Target SDM
-  - Adopt, Buy or Build Strategy
-
----
-
 ## Assessment tool
 
 Promote continuous improvement towards the goal
 
 For IITB teams to identify area to improve and get recomendations on how to get started
+
+number of questions
+
+time to complete..
+
+--
+
+### Sections
+
+- Cultural
+- Technical
+
+--
+
+### Benefits
+
+- 
+
+--
+
+### Tested with
+
+"quote" - someone
 
 --
 
@@ -166,6 +170,14 @@ For IITB teams to identify area to improve and get recomendations on how to get 
 - Survey.js
 - Typescript
 - Vue
+
+Open source: https://github.com/sara-sabr/dora-js
+
+---
+
+## Demo
+
+https://sara-sabr.github.io/dora-js/
 
 ---
 
