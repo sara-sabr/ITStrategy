@@ -60,7 +60,7 @@ There were many people who were live-tweeting the event under the [#FWD50](https
 
 In addition to live tweeting, Sean Boots recently published a great blog post with reflections on his FWD50 experience called [Government is actually a big tech company, they just don’t know it yet](https://sboots.ca/2020/11/16/government-is-actually-a-big-tech-company/).
 
-While the videos from the 2020 FWD50 sessions are not freely available, the FWD50 team has a YouTube page which includes some great free content such as: 
+While the videos from the 2020 FWD50 sessions are not freely available, the FWD50 team has a YouTube page which includes some great free content such as:
 
 - a video series made in partnership with the Canada School of Public service called [FWDThinking](https://www.youtube.com/playlist?list=PLHorZlq6n3CHYJKzyGU51l0-GHWuZ2Khg).  These videos feature the world's notable public servants, policy-makers and technologists in digital government.
 - [Industry Innovations](https://www.youtube.com/playlist?list=PLHorZlq6n3CEMaLSfzjldgoAOATYw5zQ0), a collection of breakout sessions, fireside chats and case studies from the private sector
