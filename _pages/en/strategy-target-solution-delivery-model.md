@@ -81,16 +81,16 @@ All ESDC personnel involved in IT investment decisions are expected to adhere to
 ### Business Case (Strategic Context)
 
 Moving to the digital age exposes the ubiquitous nature of technology in delivering services to Canadians.
-As such, for ESDC to iterate on its policies and service offerings[^1], it will need to involve IT.
+As such, for ESDC to iterate on its policies and service offerings[^1], it will need to make changes to its technologies.
 In order to better deliver services to Canadians, we need to improve IT's responsiveness, otherwise the feedback loop between policy makers and Canadians will be too long, affecting ESDC's ability to iterate on its policy making and become an agile organization.
 
-![An image showing 3 icons: Policy Makers, Technology, and Canadians. Between each icon, there's a relationship displayed as such: Policy Makers must use Technology to implement their policies, Technology is used to delivery services to Canadians, Canadians provide feedback to Policy Makers]({{ site.baseurl }}/assets/images/policy_through_technology.png)
+![This image depicts a feedback process loop. The image shows three icons: Policy Makers, Technology and Canadians. Between each icon there is an arrow showing a relationship as follows: Policy Makers must use Technology to implement their policies, Technology is then used to deliver services to Canadians, and after interacting with a service, Canadians provide their feedback to Policy Makers]({{ site.baseurl }}/assets/images/policy_through_technology.png)
 *Figure 1. In the Digital age, technology is between Policy Makers and Canadians*
 
 > ESDC requires **production deployments** to gain the **empirical evidence** needed for **evidence-based decision-making**.
 
 ESDC is not a new department.
-It has accumulated a [significant amount of technical debt](http://www.oag-bvg.gc.ca/internet/English/parl_oag_201004_01_e_33714.html)[^2] over its decades that affects the responsiveness of IT.
+It has accumulated a [significant amount of technical debt](http://www.oag-bvg.gc.ca/internet/English/parl_oag_201004_01_e_33714.html)[^2] over its decades of operation that affects the responsiveness of IT.
 ESDC's [application portfolio contains more than 500 applications](https://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/ESDC%20IT%20Plan%202019-22%20-%20FINAL.pdf)[^3], 101 of which are mission critical and depend on legacy technologies (aged custom-built applications and a mainframe).
 In response to limitations of the antiquated IT systems, ESDC has started investing in a [Business Delivery Modernization](https://www.canada.ca/en/employment-social-development/corporate/reports/departmental-plan/2019-2020/planned-results.html#h2.04) Programme[^4].
 
@@ -729,7 +729,7 @@ Recent software development practices, mainly Cloud and DevOps, have permitted u
 IT no longer requires lengthy wait time to procure servers, to develop large code bases, and to seek large capital investments for infrastructure.
 Cloud has commoditized IT infrastructure, enabling ESDC to rapidly develop, test, and deploy software.
 
-In addition, the software world is moving away from [Monolith-types of solutions](https://medium.com/koderlabs/introduction-to-monolithic-architecture-and-microservices-architecture-b211a5955c63) (large code bases that provides many capabilities but become bottlenecks and single points of failures in the IT ecosystem, as the many IT teams needed to perform work collide).
+In addition, the software world is moving away from [Monolith-types of solutions](https://medium.com/koderlabs/introduction-to-monolithic-architecture-and-microservices-architecture-b211a5955c63) (large code base that provides many capabilities but become bottlenecks and single points of failures in the IT ecosystem, as the many IT teams needed to perform work collide).
 
 The [TB Directive on the Management of Projects and Programmes](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32594) makes room for the above approach:
 
@@ -737,13 +737,13 @@ The [TB Directive on the Management of Projects and Programmes](https://www.tbs-
 - [The Project Sponsor is responsible for:] 4.2.8 Applying as appropriate, incremental, iterative, agile, and user-centric principles and methods to the planning, definition, and implementation of the project
 - [The Project Sponsor is responsible for:] 4.2.18 Establishing a project gating plan at the outset of the project, consistent with the department's framework, that [4.2.18.1] Documents the decisions that will be taken at each gate, the evidence and information required in support of the gate decisions, the criteria used to assess the evidence, and the gate governance
 
-The above 3 requirements from the TB Directive indicate that departments must accept and adapt to change, as well as make evidence-based decision-making (like planning decisions).
+The above three requirements from the TB Directive indicate that departments must accept and adapt to change, as well as make evidence-based decisions (like planning decisions).
 Such evidence can only be obtained by execution.
 
 IITB has made efforts to modernize its management of technology, as is showcased in the [IITB News Kudo's Corner](http://esdc.prv/en/iitb/corporate/news/archives.shtml)[^14]  and its [IITB Way Forward](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental IMIT Plan/19-20 Plans/IITB Moving Forward v2.docx)[^15] plan.
 However, ESDC's relationship with technology spans beyond IITB's influence.
 
-Moving ESDC towards being an agile organization requires moving towards a model that enables smaller, more frequent software deployments as they are enabling the organization to gain empirical evidence necessary to make evidence-based decision-making.
+Moving ESDC towards being an agile organization requires moving towards a model that enables smaller, more frequent software deployments as they are enabling the organization to gain empirical evidence necessary to make evidence-based decisions.
 
 ## Appendix B - Traceability Matrix
 
@@ -911,7 +911,7 @@ Figure 2. Relationship Model between the different software elements (part 2).
 **IT-Enabled Project**
 
 A temporary endeavour undertaken to create a unique technology product, service, or result.
-The temporary nature of IT-Enabled projects indicates that it has a definite beginning and end.
+The temporary nature of IT-Enabled projects indicates that they have a definite beginning and end.
 
 This definition is a modified version for the [ESDC's Directive on Project Management](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Directive%20on%20Project%20Management.pdf) to include the IT aspect.
 
@@ -989,7 +989,7 @@ See point 3 below
 
 **2) 2016 and 2019 House of Commons Questions (projects of more than $1M)**
 
-The Canadian Digital Service (CDS) [released a dataset](https://large-government-of-canada-it-projects.github.io/)[^18] collected in response to two written questions in the House of Commons, from June 2016 and May 2019.
+Thanks to an [Ottawa Civic Tech](https://ottawacivictech.ca/) project, a [dataset on large government IT projects](https://large-government-of-canada-it-projects.github.io/)[^18] was released with responses collected from two written questions in the House of Commons, from June 2016 and May 2019.
 Each question asked federal government departments to report ongoing or planned IT projects over $1M.
 
 We find that:
