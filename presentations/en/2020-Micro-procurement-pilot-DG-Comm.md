@@ -21,21 +21,21 @@ To share with you and get your comments on:
 Note:
 
 - we are here to share with you the work we have been doing to understand the micro-procurement landscape as well as our proposal for how to we could facilitate micro-procurement for digital work
-- we are working with the procurement innovation team in CFOB on this initiative and are very interested to get your comments on this as we are looking to move this forward
+- we are working in joint partnership with the procurement innovation team in CFOB on this initiative and are very interested to get your comments on this as we are looking to move this forward
 
 ---
 
 ## Why look at an alternate way to procure digital work?
 
+- Barriers to suppliers means reduced access to talent
 - Lots of time spent on formalizing small contracts
 - Getting external help for ad hoc development work is cumbersome
-- Limited choice of external expertise
 
 Note:
 
+- 95% of small and medium enterprises don't see the GC as a client.  In a recent procurement ombudsman report GC standing offers and supply arrangements are 'cumbersome to use and difficult to qualify for. They also seem to disproportionately favour suppliers in the NCR'. As a result, the GC doesn't get the opportunity to benefit from many of the amazing developer talent that exists in Canada.
 - while small contracts are low dollar value and low risk, they take up the time of procurement officers whose expertise is needed for complex and high-risk procurement.
 - although procurement processes at ESDC are becoming streamlined (including initiatives like contract on demand), getting external help for small pieces of ad hoc development work (say to fix a bug or to build a small prototype) still takes weeks. In the world of open source, where the code is freely available to anyone to fix and access immediately, and when IT is moving towards a DevOps/agile way of working (where changes to IT systems can, and should, be made daily), it is necessary to have a procurement process that can move equally as fast. Without fast procurement we hinder our ability to deliver high-quality IT solutions.
-- Supply arrangements and contract on demand are great but mostly for larger companies, those in the NCR and those who regularly get GC contracts. Barriers exist for freelancers and startups to access GC contract $.
 
 ---
 
@@ -109,7 +109,7 @@ These stats led them to their recommendation to fast track contracts under $10K
 
 1. A simplified micro-procurement process for open source code
    (few approvals required, less paperwork, more automation)
-2. A website to share opportunities, find talent and complete contracts
+2. A website to share opportunities, and find talent
 
 Pilot for one year and then reassess
 
@@ -117,7 +117,7 @@ Note:
 
 Solution has 2 components:
 
-1. A simplified back-end procurement process for open source code. Why open source code only ... an area where we could use procurement to advance the GC agenda (use open source code). But if successful this could be broadened to other coding or work packages in IT and beyond.
+1. A simplified back-end procurement process for code licenced as open source. Why open source code only ... but that doesn't mean that only folks who are currently using open source solutions or running systems built on open source code could benefit. This pilot could also be used to procure code for proprietary systems such as pipeline scripts to automate processes.
 2. A front end to facilitate sharing contract opportunities and finding talent
 
 we are proposing that this initiative be a pilot for one year and then reassess
@@ -163,18 +163,18 @@ Note:
 
 ## What do we expect to achieve?
 
-- Increased use of open source at ESDC
 - Access to developers who wouldn’t normally bid on GC IT contracts
 - Reduced workload burden on ESDC procurement officers
+- Increased working in the open
 - Increased knowledge of modern software/tools by IITB employees
 - Increased capabilities around agile including breaking work up into smaller chunks (NOT CONTRACT SPLITTING)
 
 Note:
 
-- simplifying the procurement of open source will encourage the use of open source (bit of a chicken/egg situation)
 - Regarding access to developers, 95% of SMEs surveyed in 2017 do not see the GC as a buyer.
   - Through a **simplified and expedited** process that **reduces the barriers** that these organizations (including startups) and freelancers face, and a **targeted communications strategy** (to diverse businesses such as those that are Black, and Indigenous led), this pilot is **expected to increase access to IT talent that the GC is currently missing out on**
 - reduced workload burden on procurement officers - we propose that they will help put guardrails in place but largely be uninvolved in the micro-procurement process
+- all procured code will be licenced as open source. Could also be a nudge for some teams to open up some of their code in order to easily work with contractors.
 - Strategic procurement of open source code can bring knowledge into IT teams that is not currently there. Suppliers will be contracted to solve problems and when they turn over the open source code, ESDC IT teams will be able to learn from suppliers in almost a train the trainer sort of way. This would enable IITB to build capacity in-house and embed modern tools and practices within IITB teams.
 - Further, contributions to GC open source projects, or open source projects being leveraged by the GC, has the **potential to be leveraged as a recruitment tool** for IITB. (CDS has experienced this with COVID Alert)
 
@@ -259,6 +259,7 @@ Note:
 
 - Will be working with CFOB to mitigate the risk of contract splitting (likely through a combo of education, audit, and perhaps a limit on re-use of certain suppliers - similar to the way some supply arrangements work)- IP and Copyright around GC procurement of open source code is a relatively new area so we are working with lawyers at ISED who work on IP policy as well as our own ESDC IP CoE and we are making in roads with PSPC as we know that their lawyers will need to approve the contract terms and conditions for this initiative.
 - There will be QA of code that is submitted.  When it comes to security, we will be evaluating GitHub's new Code Scanning feature. We've talked to CDS about this as they also only use open source code.... "we had Semmle's previous offering LGTM as a requirement for all CDS OS projects, and so will transition it all over to this (code scanning). It really helps with catching errors." (would include security).  Ultimately it would be great to have automated security checks and audit functionalities.  These are common place in the industry, so we can leverage existing solutions.
+- The micro-procurements are intended to supplement the work of employees in short bursts, where the employees have access to specialized resources to help them solve small problems. Once these barriers have been removed, employees can progress with their work.
 - We are also working with CFOB on this.  One suggestion so far has been that any micro-procurement contract would include similar questions that must be answered during any procurement (e.g., confirm that capacity does not exist in-house).  We intend to go the National Union Management Committee to be completely transparent about this pilot.
 - Possibility to integrate auditing methodologies and tools in the back-end process.
 
@@ -266,15 +267,15 @@ Note:
 
 ## What's Next?
 
-- Obtain approval on the business case (being co-sponsored by CFOB)
-- Launch the micro-procurement pilot
-  - Work with CFOB on a streamlined process for procurement and payment
-  - Design and build the website
-  - Promote to diverse suppliers
+- Move through the lite project process
+  - EA review
+  - BMPO endorsement
+  - Executive sponsors endorsement (IITB and CFOB)
+  - PPOC endorsement
 
 Note:
 
-- Robert MacGillivary, who is the director responsible for the procurement innovation team, has agreed to co-sponsor the business case
+- This pilot is being proposed as a joint initiative with CFOB. We have been working with the procurement innovation team on this and they are on board and have briefed up to the CFO.
 
 ---
 

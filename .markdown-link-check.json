@@ -4,6 +4,9 @@
       "pattern": "http://esdc.prv"
     },
     {
+      "pattern": "https://www.pmi.org/disciplined-agile"
+    },
+    {
       "pattern": "http://edsc.prv"
     },
     {
@@ -107,6 +110,9 @@
    },
    {
      "pattern": "https://www.udemy.com"
+   },
+   {
+     "pattern": "http://blogs-blogues.prv"
    }
   ]
 }

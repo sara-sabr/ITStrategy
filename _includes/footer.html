@@ -31,4 +31,11 @@
   $("table").addClass("table");
   $("blockquote").addClass("blockquote");
   hljs.initHighlightingOnLoad();
+
+  var divs = $("div div.highlight");
+  var i;
+  for (i = 0; i < divs.length; i++) {
+    divs[i].setAttribute("tabindex", "0");
+  }
+
 </script>
