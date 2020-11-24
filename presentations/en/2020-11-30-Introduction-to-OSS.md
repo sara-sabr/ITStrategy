@@ -8,11 +8,13 @@ Guillaume Charest, ESDC - [@GuillCharest](https://twitter.com/GuillCharest)
 
 ## Definitions
 
-In order to understand Open Source Software, we need to understand fundamental concepts of Information Technology
+In order to understand Open Source Software, we need to understand a few fundamental concepts
 
 Note:
 
 - We're going over these concepts so that we all start at the same page
+- If you know this stuff, awesome, you can help others understand
+- If you don't know this stuff, that's absolutely OK, we'll try to come out with a common understanding
 
 --
 
@@ -20,9 +22,11 @@ Note:
 
 >An electronic device for storing and processing data, typically in binary form, according to instructions given to it in a variable program.
 
+Oxford English Dictionary
+
 --
 
-![A computer model with its components displayed, mother board, processor, memory, hard drive, case, monitor, mouse, keyboard]()
+![A computer model with its components displayed separately, mother board, processor, memory, hard drive, case, monitor, mouse, keyboard](assets/images/intro-oss-computer.png)
 
 Note:
 
@@ -70,7 +74,15 @@ Note:
 
 Note:
 
-- It's the version of the program that is saved on your computer and will be processed
+- It's the version of the program that is saved, that is installed on your computer and will be processed
+- It's the actual asset that we buy licences and subscriptions for and that we receive a copy
+- IMPORTANT: training material, patches, bug and security fixes, phone and email support, knowledge base, warranties, etc. are NOT the software.
+
+--
+
+### Source Code vs Software
+
+![A visual representation of Source Code versus Software.](assets/images/intro-oss-sourcecode-software-en.png)
 
 --
 
@@ -81,41 +93,23 @@ The version of the software that is being processed by the computer
 Note:
 
 - The software is loaded from your hard drive into the memory
+  - If MS Word crashes, you most likely lost your work, right?
+  - Yet you still can fire up the same app again...
 - You can then interact with the application thanks to the processing capabilities of the computer
   - Click on buttons
   - Load data e.g.: user name and password to login; a filled out form data; etc.
   - Transform data: spreadsheet formulas to analyze budget proposals; filter for specific patterns; slice and dice data reports, etc.
   - Save data: once completed, save the analysis into a shareable format on your hard drive so that others can pick up where you left.
 
----
-
-So, what is open source software?
-
-Note:
-
 --
 
 ### Simplified View
 
-![software simplified view](assets/images/algo-code-soft.png)
-
----
-
-## Copyright
-
->Copyright is the exclusive legal right to produce, reproduce, publish or perform an original literary, artistic, dramatic or musical work.
-
-Source: [Canadian Intellectual Property Office - What is copyright?](https://www.ic.gc.ca/eic/site/cipointernet-internetopic.nsf/eng/wr03719.html?Open&wt_src=cipo-cpyrght-main)
+![software simplified view](assets/images/intro-oss-simplified-view-en.png)
 
 --
 
-See also [A guide to copyright](https://www.ic.gc.ca/eic/site/cipointernet-internetopic.nsf/eng/h_wr02281.html)
-
---
-
-### Copyright & Licences
-
-Software licences give you certain rights under certain conditions
+So, what is Open Source Software?
 
 ---
 
@@ -149,6 +143,34 @@ If you only have access to the source code.
 
 >You **must** have the rights based on an open source licence.
 
+Note:
+
+- Example would be GC department procuring a custom software by a 3rd party and requiring access to the source code but NOT the rights to modify and distribute
+- ISED Policy on Title to Intellectual Property Arising Under Crown Procurement Contracts states that:
+  - By default, the Contractor is to own the Foreground IP arising under Crown Procurement Contracts [...].
+
+---
+
+## Copyright
+
+>Copyright is the exclusive legal right to produce, reproduce, publish or perform an original literary, artistic, dramatic or musical work.
+
+Source: [Canadian Intellectual Property Office - What is copyright?](https://www.ic.gc.ca/eic/site/cipointernet-internetopic.nsf/eng/wr03719.html?Open&wt_src=cipo-cpyrght-main)
+
+--
+
+See also [A guide to copyright](https://www.ic.gc.ca/eic/site/cipointernet-internetopic.nsf/eng/h_wr02281.html)
+
+--
+
+### Copyright & Licences
+
+Software licences give you certain rights under certain conditions
+
+Note:
+
+- Mentioned examples of proprietary software before and conditions under which we can use them
+
 ---
 
 ## Types of Open Source Licences
@@ -165,88 +187,46 @@ If you only have access to the source code.
 
 >Allow you to do the same but require you to redistribute on the same conditions under which you obtained it.
 
----
-
-## First Task
-
-Find if the licence is permissive or reciprocal
-
-(10 minutes)
-
 --
 
-Choose an Open Source Licence:
+### Popular OSS Licences
 
-* MIT License (Expat)
-* Apache License 2.0 (Apache-2.0)
-* BSD 3-Clause License (Revised)
-* Mozilla Public License 2.0 (MPL-2.0)
-* GNU General Public License v3 (GPL-3)
-* GNU Affero General Public License v3 (AGPL-3.0)
+- MIT License (Expat)
+- Apache License 2.0 (Apache-2.0)
+- BSD 3-Clause License (Revised)
+- Mozilla Public License 2.0 (MPL-2.0)
+- GNU General Public License v3 (GPL-3)
+- GNU Affero General Public License v3 (AGPL-3.0)
 
 Use [TL;DR Legal](https://tldrlegal.com)
 
 Note:
 
-* Find out if it's a permissive or reciprocal licence
-* Provide the main conditions under which you can use it
-
---
-
-> Why bother?
-
-It looks like a lot of work...
-
----
-
-## Second Task
-
-Build a basic website supporting blog posts.
-
-(15 minutes)
-
---
-
-The application should have:
-
-* A homepage
-* A basic blog post
-
-(Don't worry about the look and feel)
-
---
-
-You can type out your HTML/CSS if you want.
-
-Or you can use [Jekyll](https://jekyllrb.com/) or [Hugo](https://gohugo.io/)
-
---
-
-[Jekyll Instructions](exercises-oss-jekyll.html)
-
-[Hugo Instructions](exercises-oss-hugo.html)
+- 3 top ones are permissive
+- 3 bottom ones are reciprocal
 
 ---
 
 ## Why
 
-Directive on Management of IT and upcoming Directive on Service and Digital (April 1st, 2020)
+Policy and Directive on Service and Digital (April 1st, 2020)
 
 --
 
 But also:
 
-* Don't start with a blank canvas, focus on the added value
-* Speed up development time by reusing existing solutions to common problems
-* Leverage a large community of peers to enhance quality and for wider maintenance
-* Build on top of giants' shoulders and communities
+- Don't start with a blank canvas, focus on the added value
+- Speed up development time by reusing existing solutions to common problems
+- Leverage a large community of peers to enhance quality and for wider maintenance
+- Build on top of giants' shoulders and communities
 
 Note:
 
 How big is your team? As of 2019-10-10:
 
-* Jekyll: 864 contributors
-* Hugo: 588 contributors
+- Jekyll: 864 contributors
+- Hugo: 588 contributors
+- Linux: 20 000+ authors
 
 --
 
@@ -278,10 +258,11 @@ HelpNetSecurity - [The percentage of open source code in proprietary apps is ris
 
 Note:
 
-* Doesn't mean to stop purchasing software licences
-* Modern software development is about reusing powerful OSS
-  * Components
-  * Frameworks
+- Doesn't mean to stop purchasing software licences
+- Modern software development is about reusing powerful OSS
+  - Components
+  - Frameworks
+  - Fully fledged OSS products, COTS-like
 
 --
 
@@ -299,56 +280,56 @@ Writing good code takes a lot of time
 
 By using:
 
-* Package Managers
-  * NPM, Anaconda, Maven, CocoaPods, RubyGems, etc.
-* Frameworks
-  * Bootstrap, Spring, React.js, Spark, Django, .NET, etc.
-* Social Development Platforms
-  * GitHub, GitLab, BitBucket, GCcode*
+- Package Managers
+  - NPM, Anaconda, Maven, CocoaPods, RubyGems, etc.
+- Frameworks
+  - Bootstrap, Spring, React.js, Spark, Django, .NET, etc.
+- Social Development Platforms
+  - GitHub, GitLab, BitBucket, GCcode*
 
 --
 
 ### Support Models
 
-* In-house
-* Professional Services
+- In-house
+- Professional Services
 
 ---
 
 ## Be secure
   
-* Know your dependencies
-* Assess the components
-* Patch your stuff!
+- Know your dependencies
+- Assess the components
+- Patch your stuff!
 
 Note:
 
-* Equifax could have [prevented data breach](https://www.wired.com/story/equifax-breach-no-excuse/) if it had patched it's software
-* Vulnerability was known for 6 weeks and a patch was available
+- Equifax could have [prevented data breach](https://www.wired.com/story/equifax-breach-no-excuse/) if it had patched it's software
+  - Vulnerability was known for 6 weeks and a patch was available
 
 --
 
 ### Resources
 
-* MITRE's [Common Vulnerabilities and Exposures (CVE)](https://cve.mitre.org/)
-* [U.S. National Vulnerability Database (NVD)](https://nvd.nist.gov/)
+- MITRE's [Common Vulnerabilities and Exposures (CVE)](https://cve.mitre.org/)
+- [U.S. National Vulnerability Database (NVD)](https://nvd.nist.gov/)
 
 --
 
 ### Tools
 
-* FOSSA
-* JFrog X-Ray
-* Sonatype
-* Synopsys
-* Etc.
+- FOSSA
+- JFrog X-Ray
+- Sonatype
+- Synopsys
+- Many others
 
 ---
 
 ## Be Compliant
 
-* Know your dependencies
-* Comply with T&Cs of the licences
+- Know your dependencies
+- Comply with T&Cs of the licences
 
 --
 
@@ -370,7 +351,7 @@ Within GC departments != Distribution
 
 But
 
-An external website will be considered distribution
+An external website will be considered distribution under certain licences
 
 --
 
