@@ -455,8 +455,16 @@
     "TSDM",
     "codebases",
     "incrementality",
-    "BDM"
-
+    "BDM",
+    "ICAAD",
+    "Reqs",
+    "Orchestrators",
+    "Labor",
+    "Miramichi",
+    "Dacaney",
+    "CDO",
+    "CDOs",
+    "Mgmt"
   ],
   "flagWords": [],
   "import": [
