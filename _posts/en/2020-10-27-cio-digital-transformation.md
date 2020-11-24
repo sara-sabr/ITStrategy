@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CIOs and CFOS will be the ones making digital transformation a reality"
+title: "CIOs and CFOS are essentials in making digital transformation a reality"
 ref: cio-digital-transformation
 lang: en
 author: "Rémy Bernard, in collaboration with the IT Strategy team"
@@ -11,6 +11,7 @@ excerpt_separator: <!--more-->
 <!-- markdownlint-disable MD033 -->
 <!-- the below cSpell statement says to ignore any text between HTML tags. E.g. it will ignore "th rowspan='2'" in this string: <th rowspan='2'> -->
 <!-- cSpell:ignoreRegExp /\<[^\>]+\>/ -->
+<!-- The img + em {} stylecheet selector is a hack to add caption to an image in markdown without using plugin: https://stackoverflow.com/questions/19331362/using-an-image-caption-in-markdown-jekyll -->
 
 <style>
 table, th, td {
@@ -20,9 +21,11 @@ table, th, td {
 th {
   background-color: #ccccff;
 }
+
+img + em { display: inline-block; }
 </style>
 
-In this blog, we suggest that it will be CIOs and CFOs that will bring a Digital Transformation vision into a reality. Although Digital Transformation deals a lot with changing business operations, if technology releases are not able to push through, that vision will remain a dream and will not manifest itself. We will show how critical CFOs are in allowing technology to respond faster to continuous business changes, and how the Cloud and DevOps are opportunities that cannot be overlooked.
+In this blog, we suggest that it will be Chief Information Officers (CIOs) and Chief Financial Officers (CFOs) that will bring a Digital Transformation vision into a reality. Although Digital Transformation deals a lot with changing business operations, if technology releases are not able to push through, that vision will remain a dream and will not manifest itself. We will show how critical CFOs are in allowing technology to respond faster to continuous business changes, and how the Cloud and DevOps are opportunities that cannot be overlooked.
 
 <!--more-->
 
@@ -32,7 +35,7 @@ _Note: This blog will link to internal ESDC documents, which are unfortunately o
 
 On April 1, 2020, [Treasury Board's (TB) Policy on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603) came into effect which serves "_as an integrated set of rules that articulate how Government of Canada organizations manage service delivery, information and data, information technology, and cyber security in the digital era_". The Policy supports the [mandate of the Minister for Digital Government](https://pm.gc.ca/en/mandate-letters/2019/12/13/minister-digital-government-mandate-letter) and is guided by a commitment to the guiding principles and best practices of the [Government of Canada Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html).
 
-As the Policy's requirements target Deputy Heads, we look at its associated [Directive](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601) for requirements targeting the senior officials designated to be responsible for leading particular functions (i.e. CIO, Service, and Cyber Security). Here are some statistics the IT Strategy team did ([link to source data](/assets/files/Policy_on_service_and_digital_analysis.xlsx)):
+As the Policy's requirements target Deputy Heads, we look at its associated [Directive](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601) for requirements targeting the senior officials designated to be responsible for leading particular functions (i.e. IM/IT, Service, and Cyber Security). Here are some statistics the IT Strategy team did ([link to source data](/assets/files/Policy_on_service_and_digital_analysis.xlsx)):
 
 <table>
   <tr>
@@ -61,21 +64,21 @@ As the Policy's requirements target Deputy Heads, we look at its associated [Dir
 
 With such a focus on CIOs, TB formally recognizes the **ubiquitous nature of technology in delivering services** to Canadians. Because CIOs are accountable for such a large number of requirements, we claim they also need to be in a position to determine _how_ technology investments are to be managed.
 
-Technology is no longer a back-office function. It's at the core of service delivery. Anyone working in technology already knew that[^1], but they now have the attention of **elected officials**. This means that in order for policy makers to affect Canadians, they will need to go through technology delivery. If technology is not responsive enough, the lag between Policy making and service delivery will directly impact departments ability to fulfill their mandates. Policy makers looking for data to inform their evidence-based decision making (i.e. user feedback loops) will be stored in databases, managed by software. At ESDC, we find this articulated as the [Business Delivery Modernization's (BDM) 2nd main objective: Policy Agility](http://blogs-blogues.prv/ntn-bnt/bdm-not-just-another-acronym-its-an-initiative-transforming-service-delivery-as-we-know-it/).
+Technology is no longer a back-office function. It's at the core of service delivery. Anyone working in technology already knew that[^1], but they now have the attention of **elected officials**. This means that in order for policy makers to affect Canadians, they will need to go through technology delivery. If technology is not responsive enough, the lag between Policy making and service delivery will directly impact the ability of departments to fulfill their mandates. Policy makers looking for data to inform their evidence-based decisions (i.e. user feedback loops) will be stored in databases, managed by software. At ESDC, we find this articulated as the [Business Delivery Modernization's (BDM) 2nd main objective: Policy Agility](http://blogs-blogues.prv/ntn-bnt/bdm-not-just-another-acronym-its-an-initiative-transforming-service-delivery-as-we-know-it/).
 
-<div style="display: block; width: inherit; text-align: center;">
+<div style="display: block; width: inherit; text-align: center; line-height: 3;">
     <a href="/ITStrategy/assets/images/digital_feedback_loop.png" style="display: block">
-        <img src = "/ITStrategy/assets/images/digital_feedback_loop.png"
-        alt = "The feedback loop policy makers need pass through technology."
+        <img src = "{{ site.baseurl }}/assets/images/digital_feedback_loop.png"
+        alt = "This image depicts a feedback process loop. The image shows three icons: Policy Makers, Technology and Canadians. Between each icon there is an arrow showing a relationship as follows: Policy Makers must use Technology to implement their policies, Technology is then used to deliver services to Canadians, and after interacting with a service, Canadians provide their feedback to Policy Makers."
         style="width: 500px; height: inherit;"
         />
     </a>
-    <small>The feedback loop policy makers need pass through technology</small>
+    <small>Figure 1. The feedback loop policy makers need pass through technology</small>
 </div>
 
-This lag in responsiveness impacted elected officials in the past and made [front-page news](https://www.cbc.ca/news/politics/federal-it-systems-critical-failure-1.5448871). This inadequate relationship organizations have with technology is documented in [Auditor General](/ITStrategy/2020/04/21/how-is-the-public-service-managing-large-IT-project.html) reports that, [even 10 years ago](https://www.oag-bvg.gc.ca/internet/English/parl_oag_201004_01_e_33714.html), recognized the critical nature technology plays in servicing Canadians.  
+This lag in responsiveness is not new and impacted elected officials in the past which made [front-page news](https://www.cbc.ca/news/politics/federal-it-systems-critical-failure-1.5448871). This inadequate relationship organizations have with technology is documented in [Auditor General](/ITStrategy/2020/04/21/how-is-the-public-service-managing-large-IT-project.html) reports that, [even 10 years ago](https://www.oag-bvg.gc.ca/internet/English/parl_oag_201004_01_e_33714.html), recognized the critical nature technology plays in servicing Canadians.  
 
-We want to look at this relationship with technology closer, and how things have changed that presents new opportunities for us.
+We want to look at this relationship with technology closer, and how things have changed in the last few years that presents new opportunities for us (hint: [it's Cloud and DevOps](https://youtu.be/2BM0xYfcexY?t=584)).
 
 ## How Are We Managing Technology Investments
 
@@ -92,23 +95,29 @@ We want to look closer at &#35;1 especially when our [2019-2020 Departmental Pla
 
 The current gated method to manage technology investments seeks a **high degree of future predictability**. Before work on software can start, we seek clarity on requirements and the effort needed to fulfill them. This usually takes form in producing mulitple documents, aggregated as an overall plan before approval to execute can be obtained. There was a time when this made perfect sense as it was expensive and time consuming to procure servers, code software changes in a procedural language, test those changes on dedicated testing servers (sometimes shared with other software projects so risks of project collisions needed to be managed), burn the updated software onto a disc along with installation procedures for someone else to execute (so segregation of duties can be respected), and expect downtime when those changes are being applied. If a client changed her mind during this execution phase, the impact to the project was high.
 
-In the last two decades we've seen a consistent and exponential increase in technology demands to conduct business operations[^3]. Departmental IT shops inadvertently became bottle necks as each demand required its own advance planning efforts, often requiring multiple proposals to compete with one another for IT's attention.
+<div style="display: block; width: inherit; text-align: center; line-height: 3;">
+    <a href="/ITStrategy/assets/images/digital_feedback_loop.png" style="display: block">
+        <img src = "{{ site.baseurl }}/assets/images/pmlc_current_model.png"
+        alt = "This image depicts a the current Project Management Lifecycle. It shows 4 steps (Inception, Planning, Execution, and Closure). Each of the steps are in sequence where, to start the Execution step, we are expected to finish the Planning step. At each step, there is an increasing amount of documentations being produced and stakeholders involved. Culminating to the Execution step where IT personnel are to execute and make the software changes. The client is shown at the beginning and at the end of the process, but not in the middle of it."
+        style="width: 500px; height: inherit;"
+        />
+    </a>
+    <small>Figure 2. A high-level view and interpretation of the current Project Management Lifecycle using gated decision points</small>
+</div>
 
-This created an adverse effect: **promoting feature bloating**.
+The bigger the project is, the further into the future we require to foresee. The approach comes with a few adverse effects:
 
-The above methodology of advance planning can be burdensome. Lines of Business (LOB) will wait until they accumulate sufficient changes that warrant the effort of going through the process. This will increase the size of technology projects and trigger the immune system of the organization because large projects are risky and historically have had low success rates:
+1. ***it promotes feature bloating***: The [burden of projectization]({{ site.baseurl }}/2019/12/20/why-we-are-promoting-risks.html) is too great for small iterations. Statistics and reports exist[^3] regarding the low success rate of large projects. Though we think those are not about success rates, they are about the reality that change is invetibable and having such foresight is extremely rare.
 
-- The [Standish Group](https://18f.gsa.gov/2019/04/09/why-we-love-modular-contracting/) studied 3,555 projects from 2003 to 2012 with labour cost of at least $10 million USD and found that only **6.4&#37;** of them were successful.
-- [5 Auditor General Reports](https://sara-sabr.github.io/ITStrategy/2020/04/21/how-is-the-public-service-managing-large-IT-project.html) raised attention on the difficulty large technology projects have, with one mentioning the above Standish Group report and commenting "_We are concerned that although research clearly indicates that small IT projects are more likely to succeed than large ones, departments and agencies are again undertaking large IT projects_"[^4]. These 5 Auditor General Reports are: [2006 Novembre](https://www.oag-bvg.gc.ca/internet/English/parl_oag_200611_03_e_14971.html), [2010 Spring](https://www.oag-bvg.gc.ca/internet/English/parl_oag_201004_01_e_33714.html), [2011 June](https://www.oag-bvg.gc.ca/internet/English/parl_oag_201106_02_e_35370.html), [2015 Spring](https://www.oag-bvg.gc.ca/internet/English/parl_oag_201504_05_e_40351.html), and [2018 Spring](https://www.oag-bvg.gc.ca/internet/English/parl_oag_201805_01_e_43033.html).
-- The Canadian [House of Commons asked questions in 2016 and in 2019](https://large-government-of-canada-it-projects.github.io/) on ongoing or planned IT Projects over $1M CAD. The dataset shows that 87% of them are behind schedule and 56% over budget.
+2. ***a business case is not an expectation, its a hypothesis***: The benefits realization at the end of a project is not a sure thing. It may be negative. The longer the organization is locked in a project, the greater the risk being locked into a potentially bad idea.
 
-Large technology projects risks **locking** the organization into a potentially bad idea (hypothesis) for too long.
+3. ***the client is not sufficiently involved***: The client sponsor gets involved at the beginning and the end of the project, but not enough *during* it. In late planning and execution stages we too often make use of proxies like detailed requirements (written with an attempt to communicate the will of the client, and then interpretted by a reader).
 
-Large technology projects **clogs** the organization's limited resources. As we commit resources to one large hypothesis, the other LOBs are waiting for their turn until enough capacity is available. One of those LOBs is IT itself with its **Technical Debt Remediation**: unattractive, technical-lingo filled proposals asking for funds without augmenting any features to end-users. Technical Debt unfortunately needs to compete with feature rich and attractive investment proposals.
+4. ***it puts IT in a passive state***: "I need requirements" is something you probably heard your IT teams say to you. This should not be surprising as we are framing ourselves to behave as such. The Execution being after planning, we are not sufficiently incentivized to pro-actively act and engage our lines of businesses team members. The [Government's pandemic response](https://nationalpost.com/opinion/john-ivison-amid-staggering-unemployment-rate-public-servants-processing-ei-claims-are-the-unsung-heroes) is an exception to this statement where personnel worked creatively together in a time of crisis.
 
-Ultimately, large technology projects **impedes** the organization to iterate on its policies.
+5. ***progression is measured with memos, instead of working software***: If after 18 months of work and $2M spent we do not have working software to show for, would we consider it a good investment?
 
-> Only **successful projects, in production**, enable the organization to gain **empirical evidence** necessary for their **evidence-based decision making**.
+> Only **successful projects, in production**, enable the organization to gain **empirical evidence** necessary for their **evidence-based decisions**.
 
 ## Opportunities for change
 
@@ -146,6 +155,7 @@ The ESDC IT Strategy team is currently working on a set of strategies to move th
 
 [^1]: There are 6 Auditor General Reports highlighting the struggles of delivering large IT-enabled projects and how those struggles impacts both business operations and trusts in government. We've written a [blog about it here](/2020/04/21/how-is-the-public-service-managing-large-IT-project.html).
 [^2]: [2019-2020 ESDC Departmental Plan](https://www.canada.ca/en/employment-social-development/corporate/reports/departmental-plan/2019-2020.html), page 11
+[^3]: The [Standish Group Study](https://18f.gsa.gov/2019/04/09/why-we-love-modular-contracting/), 5 Auditor General Reports ([2006 Novembre](https://www.oag-bvg.gc.ca/internet/English/parl_oag_200611_03_e_14971.html), [2010 Spring](https://www.oag-bvg.gc.ca/internet/English/parl_oag_201004_01_e_33714.html), [2011 June](https://www.oag-bvg.gc.ca/internet/English/parl_oag_201106_02_e_35370.html), [2015 Spring](https://www.oag-bvg.gc.ca/internet/English/parl_oag_201504_05_e_40351.html), [2018 Spring](https://www.oag-bvg.gc.ca/internet/English/parl_oag_201805_01_e_43033.html)), and the [June 2016 and May 2019 House of Commons questions](https://large-government-of-canada-it-projects.github.io/) on large IT projects over $1M
 [^3]: Auditor General Report, [2006 Novembre, Chapter 3 - Larget IT Projects](https://www.oag-bvg.gc.ca/internet/English/parl_oag_200611_03_e_14971.html), _"The many large information technology projects now under way across the federal government are no longer only about introducing new computer hardware, software, or systems. They are meant to help departments change the way they do business—for example, by introducing new processes and modernizing work practices"_
 [^4]: Auditor General Report, [2006 Novembre, Chapter 3 - Large IT Projects](https://www.oag-bvg.gc.ca/internet/English/parl_oag_200611_03_e_14971.html), reviews of previous recommendations section, &#35;3.22
 [^5]: Mark Schwartz, [_War and Peace and IT_](https://itrevolution.com/war-and-peace-and-it/), IT Revolution, 2019, page 30
