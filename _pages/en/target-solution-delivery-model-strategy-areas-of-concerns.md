@@ -174,7 +174,7 @@ An analysis needs to take place to highlight if this model is in alignment with:
 
 - ESDC [Directive on Project Management](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Directive%20on%20Project%20Management.pdf)
 - ESDC [Directive on Programme Management](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Directive%20On%20Programme%20Management.pdf)
-- ESDC [Policy on Project and Programme Management (PPPM)](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All Documents/Policy%20on%20Project%20and%20Programme%20Management.pdf)
+- ESDC [Policy on Project and Programme Management (PPPM)]([https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Policy%20on%20Project%20and%20Programme%20Management.pdf](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Policy%20on%20Project%20and%20Programme%20Management.pdf))
 - TBS [Directive on the Management of Projects and Programme](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32594)
 - TBS [Policy on Planning and Management of Investments](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32593)
 
@@ -206,7 +206,7 @@ If DevOps teams are responsible to maintain their IT Products in production, hav
 
 The approach and intent in 3 points:
 
-1. **Expertise shared amongst members**.
+1. **Expertise shared amongst members**  
 It is expected that DevOps teams do not have a single member responsible for a given function.
 It is always the team, as a whole, that is responsible.
 The strategy focuses on using champions where the team has a member who is particularly focused on a specific competency (e.g., accessibility).
@@ -216,12 +216,12 @@ The champion will also address issues that are submitted.
 As a result of this approach, even if the champion is to leave the team, the team should have learned enough from the champion, and have enough work documented, that it is able to address the issues created by the champion.
 The focus is always to upskill the team, and build upon and improve, its skill set.
 
-2. **Meritocracy and maturity levels**.
+2. **Meritocracy and maturity levels**  
 Different DevOps teams will have different expertise level.
 The meritocracy approach recognizes the different levels of maturity between teams and, with this level of maturity, the level of trust the organization should allocate.
 We are currently looking at a meritocracy approach that favours and incentivize continuous learning for DevOps teams.
 
-3. **Management of personnel**.
+3. **Management of personnel**  
 Details on this piece has not yet been figured out and will need to be looked at closely.
 In the beginning, it is foreseen that we will have cross-functional teams (i.e., members from different functional specifications assembled as a single team), but the target state looks at embedded members with a shared skill set (skill set at the team level, not individually assigned to members).
 This target state is different than our current functional organization setting.
@@ -277,6 +277,7 @@ Current thoughts are on:
 This to provide direction and set reasonable expectations for DevOps teams working on non-cloud environments.
 This Target Architecture vision is meant to provide with reference architectures and baked-in requirements in the scope of IT-enabled Projects that touch mainframe programs.
 e.g., an integration layer to expose certain functions and data via publicly available APIs that other IT solutions can consume (i.e., the “[strangler pattern](https://dzone.com/articles/monolith-to-microservices-using-the-strangler-patt)” that you may have heard about).
+
 - Identify a pilot project during the implementation of the strategy to test its feasibility.
 
 ### 2.8. Legislative level and mandated deadlines
@@ -298,6 +299,7 @@ Current thoughts are on:
 We do not mean to improvise our way to delivery.
 But the gating process in the PMLC that requires us to seek permission to work needs to change towards allowing starting the work, evaluating our progress through actual technical changes, and adjusting our planning efforts with this empirical evidence.
 So planning and setting expectations to senior management is used with tangible progression of software changes (through changes that do not necessarily reach production yet).
+
 - The ability to deploy software changes faster makes it possible for legislation changes to be felt by end users faster (BDM objective #2: Policy Agility).
 This is the feedback loop between Canadians and Policy Makers (or legislators) that can be shortened.
 
