@@ -32,7 +32,7 @@ This document will be updated throughout the elaboration of the above strategy.
 | ----------- | ------------------ | -------------------------------------------------------------------------- |
 | 0.1 | 2020-04-20 | First draft, based on strategy version 0.2 peer review comments            |
 | 0.2 | 2020-05-04 | Updated from 2<sup>nd</sup> SABR team peer review                          |
-| 0.3 | 2020-05-11 | Removed Bi-Modal overhead as the strategy has been renamed to Target Model |
+| 0.3 | 2020-05-11 | Removed Bimodal overhead as the strategy has been renamed to Target Model |
 | 0.4 | 2020-05-22 | Added concerns raised during presentations to IITB districts (BOSS, BSIM, Enterprise Ops) |
 | 0.5 | 2020-06-12 | Moved clarity of "IT Product" concern to RESOLVED |
 | 0.6 | 2020-06-18 | Moved "ERP Solutions" concerned to RESOLVED |
@@ -60,12 +60,12 @@ To document the areas of concerns stakeholders raised during the elaboration (pe
 
 Why?
 
-With that many stakeholders involved in the elaboration and affected by the strategy, two realities need to be managed:
+With that many stakeholders involved in the elaboration and impacted by the strategy, two realities need to be managed:
 
-1. Important feedbacks risk being lost during peer reviews, and
+1. Important feedback risk being lost during peer reviews; and
 2. Consensus is unlikely.
 
-During the strategy's peer review process, important feedbacks that are unable to be addressed at that time need to be tracked so the continuing elaboration of the strategy does not forget them.
+During the strategy's peer review process, important feedback that is unable to be addressed at that time needs to be tracked, so that the continuing elaboration of the strategy takes it into account.
 A strategy is words on a page.
 If stakeholders do not buy into it, things won't change.
 
@@ -79,7 +79,7 @@ To maintain transparency amongst stakeholders and to the authority of this strat
 
 #### 2.1.1. Summary <!-- omit in toc -->
 
-Allowing DevOps teams to choose their technical stacks negates the principle of standard and could proliferate technologies across the enterprise, making it more costly and risky for ESDC to sustain their long-term operations, maintenance, and sustainability.
+Allowing DevOps teams to choose their technical stacks negates the principle of Standards and could proliferate technologies across the enterprise, making it more costly and risky for ESDC to sustain their long-term operations, maintenance, and sustainability.
 
 #### 2.1.2. Raised by stakeholder(s) <!-- omit in toc -->
 
@@ -89,28 +89,31 @@ Allowing DevOps teams to choose their technical stacks negates the principle of 
 
 #### 2.1.3. What is being done about this concern <!-- omit in toc -->
 
-DevOps teams choosing their technical stacks are still expected to provide a level of assurance in terms of maintaining the technical stack over time, IT security, and funding requirements.
+DevOps teams choosing their technical stacks are still expected to provide a level of assurance in terms of maintaining the technical stack over time, including addressing IT security and funding requirements.
 Existing processes are expected to be used to provide this assurance level.
 The strategy seeks to adjust them by bringing attention to the following:
 
-a) Standards should be looked at with different scope: ESDC Employee and IT Personnel.
-As IT Personnel require the necessary tools to build/configure solutions for ESDC Employees and/or Canadians.
-
-b) Technical Stacks become obsolete much faster now (~2 years) and require revisiting standards much more often, this revisit warrants more engagement with DevOps teams.
-
-c) Use empirical evidence to make decisions, by allowing DevOps team to experiment, trying them out up to, and including, in production.
-Monitoring their emerging adoption and allowing room to scale to the enterprise level.
-
-d) Favour Open Source Software libraries and public cloud service subscriptions, over proprietary software licences to avoid lengthy procurement and funding battles.
+<ol type="a">
+  <li>Standards should be looked at with different scope: ESDC Employee and IT Personnel.
+  As IT Personnel require the necessary tools to build/configure solutions for ESDC Employees and/or Canadians.</li>
+  <br>
+  <li>Technical stacks become obsolete much faster now (~2 years) and require revisiting standards much more often.
+  This revisit warrants more engagement with DevOps teams.</li>
+  <br>
+  <li>Use empirical evidence to make decisions, by allowing DevOps team to experiment with technical stacks, trying them out up to, and including, in production.
+  Monitoring their emerging adoption and giving room to scale to the enterprise level.</li>
+  <br>
+  <li>Favour Open Source Software libraries and public cloud service subscriptions, over proprietary software licences, to avoid lengthy procurement and funding battles.</li>
+</ol>
 
 IT-enabled Projects will still engage with Enterprise Architecture at the planning stage to identify existing and reusable investments (e.g., IT Solutions) to be in scope for the IT Project.
-What the strategy seeks is to provide is more autonomy to DevOps teams in choosing the technical stack making up these individual, reusable, investments.
+What the strategy seeks is to provide more autonomy to DevOps teams in choosing technical stacks and making up these individual, reusable, investments.
 
 ### 2.2. Managing this strategy initiative to completion
 
 #### 2.2.1. Summary <!-- omit in toc -->
 
-Once the Strategy is approved, who will Project Manage the list of initiatives, coordinating and following up with the respective teams to see the strategy to completion?
+Once the Strategy is approved, who will Project Manage the list of initiatives, coordinating and following up with the respective teams to drive the strategy toward completion?
 
 #### 2.2.2. Raised by stakeholder(s) <!-- omit in toc -->
 
@@ -126,12 +129,12 @@ Investigating hiring project managers from the IITB Resource Centre or transferr
 
 #### 2.3.1. Summary <!-- omit in toc -->
 
-The strategy looks at enabling IT Product changes without the burden of having lines of business going through a project lifecycle.
-It is currently expected that Product Owners would be managing the priorities for an IT Product backlog that DevOps team (with the Product Manager) executes.
+The strategy looks at enabling IT Product changes without the burden of having lines of business go through a project lifecycle.
+It is currently expected that a Product Owner would be managing the priorities for an IT Product backlog that a DevOps team (with the Product Manager) execute.
 
-However, if the Product Owner is from the line of business, it will challenge timely management of technical debt due to its technical nature that a line of business would not see or expected to comprehend.
+However, if the Product Owner is from the line of business, it will make timely management of technical debt challenging due to its technical nature (that a line of business would not see or be expected to comprehend).
 
-In addition, some while some features are non-discretionary (e.g., legal requirements) others are (e.g., user interface changes).
+In addition, while some features are non-discretionary (e.g., legal requirements) others are (e.g., user interface changes).
 While there needs to be oversight to track effort allocation, it's unclear how this oversight would not create a different but equal type of burden than that of creating a project.
 
 #### 2.3.2. Raised by stakeholder(s) <!-- omit in toc -->
@@ -143,13 +146,9 @@ While there needs to be oversight to track effort allocation, it's unclear how t
 
 #### 2.3.3. What is being done about this concern <!-- omit in toc -->
 
-The following 3 main elements the strategy strives to address this concern:
+The following 3 main elements of the strategy strive to address this concern:
 
-1. Adequate training for the Product Owner (PO) role
-2. Mandate Loose Coupling Architectures
-3. Move to capability-based planning and Product Management
-
-(1) Adequate training for the Product Owner (PO) role, and the relationship with DevOps Teams, in addressing technical debt, discretionary, and non-discretionary requirements.
+1. **Adequate training for the Product Owner (PO) role**, and its relationship with DevOps Teams, in addressing technical debt and requirements (discretionary and non-discretionary).
 While technical debt is an important consideration, on the other hand, if DevOps teams are able to create their own prioritization, they often fall victim to over engineering the IT Product.
 The PO will likely push back against technical debt to make room for features.
 It then becomes the DevOps teams' role to sell the value add of paying down technical debt.
@@ -158,14 +157,14 @@ All IT Products have some technical debt, it is a balance between delivering val
 This is why continuous improvement is important, and should be built into each sprint, while ensuring a focus on delivering value to users.
 POs are also expected to differentiate between discretionary features (e.g., user interface changes) vs non-discretionary (e.g., changes in regulations) as they ultimately hold accountability for the IT Product's compliance with the different regulations and policies.
 
-(2) Loose Coupling Architectures are meant to keep overall solutions more flexible to change by breaking it down into smaller, more manageable, and independent IT Products (i.e., IT Products that can run in production without dependencies on others).
-See Adopt, Build, Buy for more details.
+2. **Mandated Loose Coupling Architectures** are meant to keep overall solutions more flexible to changes by breaking them down into smaller, more manageable, and independent IT Products (i.e., IT Products that can run in production without dependencies on others).
+See [Adopt, Buy, and Build Strategy](https://sara-sabr.github.io/ITStrategy/strategy-build-vs-buy.html) for more details.
 As a result, a non-discretionary change (e.g., regulation change) is not expected to impact a large number of IT Products.
 For example, User Interfaces IT Products (e.g., Web Portals) may not be impacted by regulation changes, but business rules engines and claim processing IT Products are.
 
-(3) Moving to capability-based planning (i.e., putting conditions for IT-enabled project intake where outcomes and metrics need to be approved by the Chief Architect before work can start) is expected to influence where attentions need to be placed.
-This attention feeds in the different IT Products backlog based on capabilities required to change or improved in order to fulfill the desired outcomes mentioned in the Business Case.
-Enterprise Architecture moves to a strategic position, guiding investment decisions, and moves away from their execution.
+3. **Moving to Capability-based Planning and Product Management** (i.e., putting conditions for IT-enabled project intake where outcomes and metrics need to be approved by the Chief Architect before work can start) is expected to influence where attention needs to be focused.
+This attention feeds in the different IT Product backlogs based on capabilities required to change or improved in order to fulfill the desired outcomes mentioned in the Business Case.
+Enterprise Architecture moves to a strategic position, guiding investment decisions and moving away from their execution.
 
 ### 2.4. Alignment and Gap analysis with Policy and Directive (Investment & Project Management)
 
@@ -197,7 +196,7 @@ The Strategy expects strong partnership with CFOB IPPM colleagues to resolve thi
 
 #### 2.5.1. Summary <!-- omit in toc -->
 
-If DevOps teams are responsible to maintain their IT Products in production, have the authority to choose their technical stacks, and expected to have cross-functional skill sets (e.g., UX, Security, and enough technical expertise to maintain their solutions in production), how do we mitigate the turn over risk that such expertise leaves a team?
+If DevOps teams are responsible to maintain their IT Products in production, have the authority to choose their technical stacks, and are expected to have cross-functional skill sets (e.g., UX, Security, and enough technical expertise to maintain their solutions in production), how do we mitigate the turnover risk that such expertise leaves a team?
 
 #### 2.5.2. Raised by stakeholder(s) <!-- omit in toc -->
 
@@ -207,24 +206,24 @@ If DevOps teams are responsible to maintain their IT Products in production, hav
 
 The approach and intent in 3 points:
 
-**(1) Expertise shared amongst members**.
+1. **Expertise shared amongst members**.
 It is expected that DevOps teams do not have a single member responsible for a given function.
 It is always the team, as a whole, that is responsible.
 The strategy focuses on using champions where the team has a member who is particularly focused on a specific competency (e.g., accessibility).
 The champion’s role is not to be *responsible* for accessibility, the champion is responsible for upskilling the team regarding accessibility.
-The champion will, for example, document the toolsets and approaches they are using, open tasks and issues in the IT Product's backlog, and document their findings.
-The champion will also be closing the issues they open.
-As a result of this approach, even if the champion is to leave the team, the team should have learned enough from the champion, and have enough work documented, that the rest of the team is able to address the issues created by the champion.
-The focus is always to upskill the team, and build upon and improve, their skillset.
+The champion will, for example, document the toolsets and approaches the team is using, open tasks and issues in the IT Product's backlog, and document findings.
+The champion will also address issues that are submitted.
+As a result of this approach, even if the champion is to leave the team, the team should have learned enough from the champion, and have enough work documented, that it is able to address the issues created by the champion.
+The focus is always to upskill the team, and build upon and improve, its skill set.
 
-**(2) Meritocracy and maturity levels**.
+2. **Meritocracy and maturity levels**.
 Different DevOps teams will have different expertise level.
-We are currently looking at a meritocracy approach that favours and incentivize continuous learning for DevOps teams.
 The meritocracy approach recognizes the different levels of maturity between teams and, with this level of maturity, the level of trust the organization should allocate.
+We are currently looking at a meritocracy approach that favours and incentivize continuous learning for DevOps teams.
 
-**(3) Management of personnel**.
+3. **Management of personnel**.
 Details on this piece has not yet been figured out and will need to be looked at closely.
-In the beginning, it is foreseen that we will have cross-functional teams (i.e., members from different functional specifications assembled as a single team), but the target state looks at embedded members with a shared skillset (skillset at the team level, not individually assigned to members).
+In the beginning, it is foreseen that we will have cross-functional teams (i.e., members from different functional specifications assembled as a single team), but the target state looks at embedded members with a shared skill set (skill set at the team level, not individually assigned to members).
 This target state is different than our current functional organization setting.
 
 ### 2.6. Risk to enterprise reference data model and standard compliance
@@ -249,13 +248,13 @@ An API may be built, per product, for the sole purpose of accessing the database
 #### 2.6.3. What is being done about this concern <!-- omit in toc -->
 
 This concern is not addressed at the strategy level (guiding policy) but needs to be reminded during its implementation.
-The following three careful considerations are necessary:
+The following two careful considerations are necessary:
 
-(1) Data Architecture may be too much of a specialized expertise to realistically be embedded within all DevOps team members (like coding, testing, and securing).
+1. Data Architecture may be too much of a specialized expertise to realistically be embedded within all DevOps team members (like coding, testing, and securing).
 As such, Data Architects would be individuals with membership on multiple DevOps teams and retain this specialized skill, especially for modelling API schemas and relational databases.
 This consideration regards the [DevOps teams standard definition](https://014gc.sharepoint.com/:w:/r/sites/TargetITSolutionDeliveryModel/_layouts/15/Doc.aspx?sourcedoc=%7BD84FE929-6C0B-469F-B2D4-2D3ECADEBF4F%7D&file=standard-devops-team-definition.docx&action=default&mobileredirect=true)  (one action in the section 3. Coherent set of actions).
 
-(2) IT Products must be architected with the notion that large amount of certain data may be required to be consumed by a specialized function (Data Analytics).
+2. IT Products must be architected with the notion that large amount of certain data may be required to be consumed by a specialized function (Data Analytics).
 Restful APIs do not provide the necessary performance requirement to transfer such large amount of data.
 Other protocols, such as Secure File Transfer Protocol (sFTP) or some of the [public cloud provider's services designed for such](https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-plan-input-import-export.html).
 
@@ -277,8 +276,8 @@ Current thoughts are on:
 - Defining a Target Architecture Vision for legacy transitioning environments.
 This to provide direction and set reasonable expectations for DevOps teams working on non-cloud environments.
 This Target Architecture vision is meant to provide with reference architectures and baked-in requirements in the scope of IT-enabled Projects that touch mainframe programs.
-e.g., an integration layer to expose certain functions and data via publicly available APIs that other IT solutions can consume (i.e., the “strangler pattern” that you may have heard about).
-- Identify a pilot project during the implementation of the strategy to see its feasibility.
+e.g., an integration layer to expose certain functions and data via publicly available APIs that other IT solutions can consume (i.e., the “[strangler pattern](https://dzone.com/articles/monolith-to-microservices-using-the-strangler-patt)” that you may have heard about).
+- Identify a pilot project during the implementation of the strategy to test its feasibility.
 
 ### 2.8. Legislative level and mandated deadlines
 
@@ -295,10 +294,10 @@ How will this strategy be addressed at the legislative level?
 
 Current thoughts are on:
 
-- The strategy seeks to move away from advanced planning and rigid plan execution; instead move towards an empirical cycle of trying, observing, and course correcting.
+- The strategy seeks to move away from advance planning and rigid plan execution; instead moving towards an empirical cycle of trying, observing, and course correcting.
 We do not mean to improvise our way to delivery.
 But the gating process in the PMLC that requires us to seek permission to work needs to change towards allowing starting the work, evaluating our progress through actual technical changes, and adjusting our planning efforts with this empirical evidence.
-So planning and setting expectations to senior management is used with tangible progression of software changes (though changes that do not necessarily reach production yet).
+So planning and setting expectations to senior management is used with tangible progression of software changes (through changes that do not necessarily reach production yet).
 - The ability to deploy software changes faster makes it possible for legislation changes to be felt by end users faster (BDM objective #2: Policy Agility).
 This is the feedback loop between Canadians and Policy Makers (or legislators) that can be shortened.
 
@@ -309,7 +308,7 @@ This is the feedback loop between Canadians and Policy Makers (or legislators) t
 The Strategy calls for multi-skilled, small (max 9 members), DevOps teams.
 Being multi-skilled, this means the team members do not perform one specific function like coding, testing, or architecting.
 All members are expected to have those skills and keep them up to date.
-This differs from the functional matrix-style team composition we have right now (supporting functional divisions that assigns personnel to cross-functional teams).
+This differs from the functional matrix-style team composition we have right now (supporting functional divisions that assign personnel to cross-functional teams).
 
 #### 2.9.2. Raised by stakeholder(s) <!-- omit in toc -->
 
@@ -329,9 +328,9 @@ This appendix lists the concerns that have been addressed and removed from this 
     <th>Description of what was done to address</th>
   </tr>
   <tr>
-    <td>Bi-Modal management overhead</td>
+    <td>Bimodal management overhead</td>
     <td>The original strategy's language called for a bimodal approach: using two different models in parallel to compare their performance before moving to a single one.<br><br>The strategy's language has been changed to define a Target Model and offer a path towards the Target Model.
-There is no intent in managing to modes of operation, only that there will be a transition period towards the Target State</td>
+There is no intent in managing two modes of operation, only that there will be a transition period towards the Target State</td>
   </tr>
   <tr>
     <td>Stage of the PMLC to choose this alternate model and under whose authority</td>
@@ -347,7 +346,7 @@ e.g., does MS Office constitute an IT Product? If taking the direction of the AP
 <br><br>
 Raised by BSIM, BOSS, Senior Advisors
 <Br><Br>
-Adding 3. Coherent set of actions / Governance / Produce standard definition of “IT Product” and “IT Solutions”.
+Adding in section "3. Coherent set of actions" the action "Governance / Produce standard definition of IT Product and IT Solutions”.
 This definition needs endorsements from more than one stakeholder.
     </td>
   </tr>
@@ -359,8 +358,8 @@ How are ERP like SAP and PeopleSoft fit in this Target Model? Especially that Li
 Raised by BOSS
 <br><br>
 After speaking with the ERP team, they are in fact well under way and aligned with the proposed Model.
-They are able to do same day software changes already, though rare.
-They do weekly or biweekly changes, have different teams responsible to assure segregation of duties and capabilities (E.g. platform teams vs development team).
+They are able to do same day software changes already, though it is rare.
+They do weekly or biweekly changes, have different teams responsible to assure segregation of duties and capabilities (e.g., platform team vs development team).
 They have worked, over the years, to obtain a level of autonomy and have demonstrated through their historical track records that this autonomy does not increases risk.
     </td>
   </tr>
@@ -400,7 +399,7 @@ Certain capabilities, such as user profile management, may serve multiple IT sol
 These foundational, and underlying, capabilities are not “owned” by a particular line of business or single solutions.
 Moving to Product Management enables the sustained evolution of those foundational capabilities without the need to seek permission to do so, reducing the lag in changes or battle to find which project is expected to fund a change.
 Adopting DevOps speeds up change release to production.
-Changed in governance moves the Chief Architect upstream in the investment decision process to educate stakeholders on foundational capabilities serving them, and the need to evolve them to meet changing needs.<br>
+Changes in governance move the Chief Architect upstream in the investment decision process to educate stakeholders on foundational capabilities serving them, and the need to evolve them to meet changing needs.<br>
 <br>
 (3) Rapid Elasticity is part of the architecture of a solution component, especially one serving a foundational capability.
 Using the cloud, virtual instances of solution components can be spun up within milliseconds automatically based on increased demands.
@@ -412,7 +411,7 @@ To use the cloud properly, solution component must be architected properly.
     <td>
 2.2.1 Summary<br>
 We cannot tax financials to a project once it is closed.
-Yet, software maintenance is not just operational costs, it's managing the technical debt and its evolution from end-user feedbacks without the burden of creating projects.<br>
+Yet, software maintenance is not just operational costs, it's managing the technical debt and its evolution from end-user feedback without the burden of creating projects.<br>
 <br>
 2.2.2 Raised by stakeholder(s)<br>
 - BPMO<br>
@@ -428,7 +427,7 @@ Instead, the strategy focuses on the following 2 elements for sustaining an IT P
 2) Moving to capability-based planning<br>
 <br>
 (1) Moving to Product Management enables the sustained evolution of IT Products without the need to seek permission to do so, reducing the lag in changes or battle to find which project is expected to fund a change.
-IT Products backlogs are managed by both a clear IT Product owner and the enabling IT Teams existing capacity or by seeking additional ones (e.g., consultants).
+IT Products backlogs are managed by both a clear IT Product owner and the enabling IT Teams existing capacity or by seeking additional ones (e.g., hire staff or consultants).
 Adopting DevOps practices expedite changes to production, reducing the lag and effort between a software change and its deployment to production.<br>
 <br>
 (2) Moving to capability-based planning is enabled by changing existing governance.
@@ -439,7 +438,7 @@ The Chief Architect moves upstream in the investment decision process to educate
     <td>(2.6) Approach to IT Capacity planning</td>
     <td>
 2.6.1 Summary<br>
-With moving towards a more agile method of working, that is to have Product Owners and Development teams communicating directly and allowed to make changes to their IT Products, how will IITB manage its IT capacity planning?<br>
+With moving towards a more agile method of working, that is to have Product Owners and Development teams communicate directly and allowed to make changes to their IT Products, how will IITB manage its IT capacity planning?<br>
 <Br>
 2.6.2 Raised by stakeholder(s)<br>
 - BPMO<br>
@@ -457,16 +456,17 @@ Three thoughts on the matter:<br>
 DevOps teams continuously improve so they should not be idle.<br>
 <br>
 (2) Adding more teams to IT Products X, Y, and Z does not necessarily increase throughput as the changes required are in the software (i.e., code base, and configuration settings).
-Adding more teams to work on a code base does not resolve the fact that it's the code base that needs changing.
+Adding more teams to work on a code base does not change the fact that it's the code base that needs changing.
 Code base is the smallest denomination of a deployable unit of software.<br>
 <Br>
 (3) Exceptionally, DevOps teams may be shifted to other IT Products, especially as integration capabilities are expected to be in higher demands.
 Integration capabilities produce other software components to interact with other IT Products (e.g., publicly facing APIs).
-The constraints here is to maintain a level of consistency for technical stacks amongst new DevOps teams assigned so they can more quickly get up to speed.<br">
+The constraints here are to maintain a level of consistency in technical stacks, so that newly assigned DevOps teams can more quickly get up to speed.<br">
 <br>
-Ensure the following actions address this concern:<br>
-3. set of Coherent Action / Governance / Produce a Policy guidance document activity<br>
-3. set of Coherent Action / Governance / IITB Agile Governance Framework<Br>
+Ensure the following Coherent Actions address this concern:<br>
+<ul>
+<li>Governance / Produce a Policy guidance document activity</li>
+<li>Governance / IITB Agile Governance Framework</li>
     </td>
   </tr>
   <tr>
@@ -485,7 +485,7 @@ If so, this creates a risk of too much overhead for IT Teams to handle and may r
 2.9.3 What is being done about this concern<br>
 <br>
 This guiding policy requirement has been removed.
-Ultimately, it's not the limit of project funding we want to limit, it's the approach to its execution that needs to change (from a gated, advanced planning, approach, to an empirical cycle of trying, monitoring, and course correcting).
+Ultimately, it's not the limit of project funding we want to limit, it's the approach to its execution that needs to change (from a gated, advance planning, approach, to an empirical cycle of trying, monitoring, and course correcting).
     </td>
   </tr>
   <tr>
@@ -505,13 +505,13 @@ In hindsight, the organization may have preferred to use that $2.5M towards tran
 2.10.3 What is being done about this concern<br>
 <br>
 This guiding policy requirement has been removed.
-Ultimately, it's not the limit of project funding we want to limit, it's the approach to its execution that needs to change (from a gated, advanced planning, approach, to an empirical cycle of trying, monitoring, and course correcting).<br>
+Ultimately, it's not the limit of project funding we want to limit, it's the approach to its execution that needs to change (from a gated, advance planning, approach, to an empirical cycle of trying, monitoring, and course correcting).<br>
 <br>
-The strategy also seeks to place the Chief Architect in a position of authority for sanctioning the defined outcomes and metrics of the Business Case, as a condition for IT-enabled Project
+The strategy also seeks to place the Chief Architect in a position of authority for sanctioning the defined outcomes and metrics of the Business Case, as a condition for IT-enabled Project.
     </td>
   </tr>
   <tr>
-    <Td>(2.12) Confusion between Development Value Stream and Business Architecture's definition of Value Stream</td>
+    <td>(2.12) Confusion between Development Value Stream and Business Architecture's definition of Value Stream</td>
     <Td>
 2.12.1 Summary<br>
 <br>
@@ -520,12 +520,12 @@ The strategy uses the SAFe meaning behind “development value stream” which m
 <br>
 2.12.2 Raised by stakeholder(s)<br>
 - Technical Debt (APM)<br>
-- <br>
+<br>
 2.12.3 What is being done about this concern<br>
 <br>
 This guiding policy statement was removed.
 Instead, the Strategy will remain at the “Agile Governance Framework”.
-Development Value Streams (or such concepts) will be addressed as part of this 3. Coherent set of action / Governance / IT Agile Governance Framework
+Development Value Streams (or such concepts) will be addressed as part of the Coherent Action "Governance / IT Agile Governance Framework".
     </td>
   </tr>
 </table>
