@@ -32,52 +32,64 @@ Questions will measure and support the [Continuous Improvement](https://cloud.go
 
 ### WHAT IS AN ASSESSMENT TOOL
 
-An Assessment tool is a roadmap that helps to prospect self-improvement, uncover team challenges and opportunities through  capabilities, identifies priorities and tracks the progress.  It is easy to use and produce credible results. The tool provides the ability to review team performance and guide to achieve a desired outcome. It is a tool to drive technology performance improvement in the organization.  The Assessment tool is a survey that will help to measure team performance, understand strength and give recommendations on areas of improvement. It doesnt collect any data and the responses stay anonymous. 
-The tool will show the areas where the competencies of your team don’t reach the level required to reach team goals.  When gaps don’t get addressed, they tend to get bigger, eventually causing teams to collapse.
-Provided recommendations for each section will fill the gaps in your team that allows them to grow and reach required goals. Received score and recommendations can be saved by a user in order to come back and take the survey again. When you compare the competencies defined in the first assessment to the results you received in the second, you will find how your team performance progressed. The process can be repeated until desired outcomes of team performance achieved. 
+An Assessment tool is a roadmap that helps to prospect self-improvement, uncover team challenges and opportunities through  capabilities, identifies priorities and tracks the progress.  It is easy to use and produce credible results. The tool provides the ability to review team performance and guide to achieve a desired outcome. It is a tool to drive technology performance improvement in the organization.  The Assessment tool is a survey that will help to measure team performance, understand strength and give recommendations on areas of improvement. It does not collect any data and the responses stay anonymous. The tool will show the areas where the competencies of your team do not reach the level required to reach team goals.  When gaps do not get addressed, they tend to get bigger, eventually causing teams to collapse. Provided recommendations for each section will fill the gaps in your team that allows them to grow and reach required goals. Received score and recommendations can be saved by a user in order to come back and take the survey again. When you compare the competencies defined in the first assessment to the results you received in the second, you will find how your team performance progressed. The process can be repeated until desired outcomes of team performance achieved.  
 
 #### What is the problem and solution  
-To manage today business enviroment challenges organizations need the ability to deliver software with speed and stability. It will help to improve technology and organizational performance.  
 
-#### Who is it for   
+To manage today business environment challenges organizations need the ability to deliver software with speed and stability. It will help to improve technology and organizational performance.  
+
+#### Who is it for  
+
 IT teams in IITB but any Dev team can benefit from this tool.  
 
-#### What is the purpose of the Assessment tool 
+#### What is the purpose of the Assessment tool  
+
 Based on the analysis of the answers, IT teams within the organization can see whether it is moving in the right direction. DevOps assessment tool helps to better understand strengths and needs, outline current maturity and identify a road map of improvement area.  
 For better outcomes use this path for continuous integration and delivery:  
 ![A graphic with 4 circles demonstrating assessment cycle process. There are 4 circles connected with an arrow  in clockwise direction.
-The circle titles are: top "Assess"; right "Analyze"; bottom "Implement"; left "Improve".](assets/images/assessment_process_improvement.png){:height="100%" width="100%" style="display:block;margin-left:auto;margin-right:auto"}
+The circle titles are: top "Assess"; right "Analyze"; bottom "Implement"; left "Improve".](assets/images/assessment_process_improvement.png){:height="100%" width="100%" style="display:block;margin-left:auto;margin-right:auto"}  
+
 #### Assessment tool process  
-Our process includes:   
+
+Our process includes:  
+
 - Invitation to take a survey  
 - Choose a section to be assessed
 - Take a survey on selected section  
 - Receive score (Beginner, Intermediate, Advanced)  
 - Read recommendation on how to improve  
 - Implement recommendations  
-- Come back and re-take the survey to see the progress 
-<<include an image>>
+- Come back and re-take the survey to see the progress  
 
-#### Survey questions
+![A graphic with 11 elements demonstrating assessment process flow. It expands from left to right. The first element is an envelop icon with the text "IT teams receive a link to take an advantage of the assessment tool" connected to a surveyor filling out a survey icon with the text "Survey taking" which is connected next to a paper with check marks icon represented as a survey with the text "Scoring based on responses". The survey icon is connected to 3 circles. The circle titles are: top "High 90-100%" which is connected to thumps up icon with text "Your team is doing well! Keep going!"; middle "Medium 50-89%" which is connected to the icon with a box and two arrows above with the text "There is a room for your team to improve"; bottom: "Low 0-49%" which is connected to an icon with two boxes with a space between and arrow down above the space with the text "Fill your team performance gaps with new learning opportunities". The last two circles with the title "Low" and "Medium" with the following icons are connected to the icon with the paper and magnifying glass on it. This icon has a text "Recommendations on where and how to improve". At the end, all of three circles with following icons are connected to a floppy disk icon with the text "Save results".
+](assets/images/assessment_tool_process.png){:height="100%" width="100%" style="display:block;margin-left:auto;margin-right:auto"}
+
+#### Survey questions  
+
 Questions cover User Research, Development, Testing, Automation, Deployment, Management and Monitoring, which are all  part of any product development cycle.  The survey includes questions mostly about team experimentation, visibility of work, visual management and monitoring, learning culture and continuous improvement.  It has 11 sections, each of them will take approx. 10-15 minutes to answer. A user can be assessed on any section of the choice and get the results immediately.  
 
 #### Scoring  
+
 Each survey section will provide a score which will help you to get an idea of where you and your team is and where your team can be on  DevOps journey.  
-Average of Percentage questions:
+Average of Percentage questions:  
+
 - Low: 0-49%  
 - Medium: 50-89%  
 - High: 90-100%  
+
 When complete, the assessment results are immediately available on the page followed by recommendations.  
 
-#### Recommendations
+#### Recommendations  
+
 To achieve goals of efficient cooperation, collaboration, and bug-free code each section provides recommendations on how to improve and what actions to take.  
 
 #### Alignment  
 
 #### Supporting quotes  
 
+### SURVEY QUESTIONS AND RECOMMENDATIONS  
 
-### SECTION 1. VERSION CONTROL AND CODE MAINTAINABILITY
+### SECTION 1. VERSION CONTROL AND CODE MAINTAINABILITY  
 
 - What % of application code do you store in version control? [%]
 - My team can recover application code from the version control system. [1-7]
