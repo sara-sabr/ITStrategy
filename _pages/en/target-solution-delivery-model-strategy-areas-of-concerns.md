@@ -130,7 +130,7 @@ Investigating hiring project managers from the IITB Resource Centre or transferr
 #### 2.3.1. Summary <!-- omit in toc -->
 
 The strategy looks at enabling IT Product changes without the burden of having lines of business go through a project lifecycle.
-It is currently expected that a Product Owner would be managing the priorities for an IT Product backlog that a DevOps team (with the Product Manager) execute.
+It is currently expected that a Product Owner would be managing the priorities for an IT Product backlog that a DevOps team (with the Product Manager) executes.
 
 However, if the Product Owner is from the line of business, it will make timely management of technical debt challenging due to its technical nature (that a line of business would not see or be expected to comprehend).
 
@@ -353,7 +353,7 @@ This definition needs endorsements from more than one stakeholder.
   <tr>
       <td>Enterprise Resource Planning (ERP) solutions</td>
     <td>
-How are ERP like SAP and PeopleSoft fit in this Target Model? Especially that Lines of Businesses are currently developing and testing the IT Solutions for ERP while the Strategy calls for DevOps teams to do those functions.
+How are ERPs like SAP and PeopleSoft fit in this Target Model? Especially that Lines of Businesses are currently developing and testing the IT Solutions for ERP while the Strategy calls for DevOps teams to do those functions.
 <br><br>
 Raised by BOSS
 <br><br>
