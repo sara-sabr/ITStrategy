@@ -9,53 +9,12 @@ permalink: /high-performing-it-capabilities.html
 ---
 
 The [State of DevOps Report](https://cloud.google.com/devops/state-of-devops/) has been published annually since 2014, as part of the DevOps Research and Assessment (DORA), a six-year research program that has validated a number of technical, process, measurement, and cultural capabilities to drive higher software delivery and organizational performance.
-Questions will measure and support the [Continuous Improvement](https://cloud.google.com/solutions/devops/devops-culture-transform) of these capabilities in IITB and ESDC.
-
-## Question Types
-
-**Do you agreed with...** [1-7]
-
-1. Strongly Disagree
-2. .
-3. .
-4. Neither Agree nor Disagree
-5. .
-6. .
-7. Strongly Agree
-
-**How much time** [time]
-
-- More than one week
-- One day to one week
-- Less than one day
-
-**Percentage** [%]
-
-- 0 to 100
-
-### Scoring
-
-Average of Percentage questions
-
-- Low: 0-49%
-- Medium: 50-89%
-- High: 90-100%
-
-Average of "Do you agreed with" questions
-
-- Low: 1-3
-- Medium: 4-5
-- High: 6-7
-
-Average of "How much time" questions
-
-- Low: More than one week
-- Medium: One day to one week
-- High: Less than one day
+Questions will measure and support the [Continuous Improvement](https://cloud.google.com/solutions/devops/devops-culture-transform) of these capabilities in IITB and ESDC.  
 
 ## Table of Content
 
 - Technical Capabilities
+  - [What is an Assessment tool] (#)
   - [Section 1. Version Control and Code Maintainability](#section-1-version-control-and-code-maintainability)
   - [Section 2. Continuous Integration and Deployment](#section-2-continuous-integration-and-deployment)
   - [Section 3. Continuous testing](#section-3-continuous-testing)
@@ -70,6 +29,54 @@ Average of "How much time" questions
 - Cultural Capabilities
   - [Section 10. Learning and Generative Culture](#section-10-learning-and-generative-culture)
   - [Section 11. Transformation and Transformational Leadership](#section-11-transformation-and-transformational-leadership)
+
+### What is an Assessment tool 
+
+An Assesment tool is a roadmap that helps to prospect self-improvement, uncover team challenges and opportunities through  capabilities, identifies priorities and tracks the progress.  It is easy to use and produce credible results. The tool provides the ability to review team performance and guide to achieve a desired outcome. It is a tool to drive technology performance improvement in the organization. 
+The Assesment tool is a survey that will help to measure team performance, understand strength and give recommendations on areas of improvement. It doesnt collect any data and the responses stay anonymous. 
+The tool will show the areas where the competencies of your team don’t reach the level required to reach team goals.  When gaps don’t get addressed, they tend to get bigger, eventually causing teams to collapse.
+Provided recommendations for each section will fill the gaps in your team that allows them to grow and reach required goals. Received score and recommendations can be saved by a user in order to come back and take the survey again. When you compare the competencies defined in the first assessment to the results you received in second, you will find how your team performance progressed. The process can be repeated until desired outcomes of team performance achieved. 
+
+#### What is the problem and solution  
+To manage today's business enviroment challenges organizations need the ability to deliver software with speed and stability. It will help to improve technology and organizational performance.  
+
+#### Who is it for   
+IT teams in IITB but any Dev team can benefit from this tool  
+
+#### What is the purpose of Assesment tool 
+Based on the analysis of the answers, IT teams within the organization can see whether it is moving in the right direction. DevOps assessment tool helps to better understand strengths and needs, outline current maturity and identify a road map of improvement area.  
+For better outcomes use this path for continuous integration and delivery:
+<<Image>>
+
+#### Assesment tool process  
+Our process includes:   
+- Invitation to take a survey  
+- Choice of section to be assesed
+- Take a survey on selected section  
+- Receive score (Beginner, Intermediate, Advanced)  
+- Read recommendation on how to improve  
+- Implement recommendarions  
+- Come back a re-take the survey in 6 month  
+<<include an image>>
+
+#### Survey questions
+Questions cover User Research, Development, Testing, Automation, Deployment, Management and Monitoring  , which are all  part of any product development cycle.  The survey includes questions mostly about team experimentation, visibility of work, visual management and monitoring, learning culture and continuous improvement.  It has 11 sections, each of them will take approx. 10-15 minutes to answer. A user can be assesed on any section of the choice and get the results immediately.  
+
+#### Scoring  
+Each survey section will provide a score which will help you to get an idea of where you and your team is and where your team can be on  DevOps journey.  
+Average of Percentage questions:
+- Low: 0-49%  
+- Medium: 50-89%  
+- High: 90-100%  
+When complete, the assessment results are immediately available on the page followed by recommendations.  
+
+#### Recommendations
+To achieve goals of efficient cooperation, collaboration, and bug-free code each section provides recommendations on how to improve and what actions to take.  
+
+#### Alignment.
+
+#### Supporting quotes.  
+
 
 ### SECTION 1. VERSION CONTROL AND CODE MAINTAINABILITY
 
