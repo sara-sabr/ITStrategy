@@ -403,7 +403,7 @@ Moving to Product Management enables the sustained evolution of those foundation
 Adopting DevOps speeds up change release to production.
 Changes in governance move the Chief Architect upstream in the investment decision process to educate stakeholders on foundational capabilities serving them, and the need to evolve them to meet changing needs.<br>
 <br>
-(3) Rapid Elasticity is part of the architecture of a solution component, especially one serving a foundational capability.
+(3) Working software is much easier to produce using Cloud technologies and DevOps methodologies. In addition, working software in production can quickly react to changing conditions (such as increased load). Rapid Elasticity is part of the architecture of a solution component, especially one serving a foundational capability.
 Using the cloud, virtual instances of solution components can be spun up within milliseconds automatically based on increased demands.
 To use the cloud properly, solution component must be architected properly.
     </td>
