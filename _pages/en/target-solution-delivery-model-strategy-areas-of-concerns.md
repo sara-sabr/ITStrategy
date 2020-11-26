@@ -255,8 +255,9 @@ As such, Data Architects would be individuals with membership on multiple DevOps
 This consideration regards the [DevOps teams standard definition](https://014gc.sharepoint.com/:w:/r/sites/TargetITSolutionDeliveryModel/_layouts/15/Doc.aspx?sourcedoc=%7BD84FE929-6C0B-469F-B2D4-2D3ECADEBF4F%7D&file=standard-devops-team-definition.docx&action=default&mobileredirect=true)  (one action in the section 3. Coherent set of actions).
 
 2. IT Products must be architected with the notion that large amount of certain data may be required to be consumed by a specialized function (Data Analytics).
-Restful APIs do not provide the necessary performance requirement to transfer such large amount of data.
-Other protocols, such as Secure File Transfer Protocol (sFTP) or some of the [public cloud provider's services designed for such](https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-plan-input-import-export.html).
+Restful APIs do not provide the necessary performance requirement to transfer large amount of data.
+Options may be to export the database in the cloud environment, and analyze its content using cloud tools.
+Or to analyze locally, we can download the export through electronic transfer, or even actual physical transport of storage devices for very large amount of data (e.g., example of service from [AWS](https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-plan-input-import-export.html).
 
 ### 2.7. Fit of the mainframe programme within the Strategy
 
