@@ -284,8 +284,8 @@ e.g., an integration layer to expose certain functions and data via publicly ava
 
 #### 2.8.1. Summary <!-- omit in toc -->
 
-The EI world deals with large legislative projects where the work typically starts before gaining official approvals to meet the mandated deadlines.
-How will this strategy be addressed at the legislative level?
+The EI world deals with large legislative projects where, in alignment with the spirit of the strategy, the work typically starts before gaining official approvals to meet the mandated deadlines.
+Still, how will this strategy address the legislative context as a whole?
 
 #### 2.8.2. Raised by stakeholder(s) <!-- omit in toc -->
 
