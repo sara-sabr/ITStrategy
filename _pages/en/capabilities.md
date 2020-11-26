@@ -109,6 +109,7 @@ Questions cover User Research, Development, Testing, Automation, Deployment, Man
 The survey includes questions mostly about team experimentation, visibility of work, visual management and monitoring, learning culture and continuous improvement.
 It has 11 sections, each of them will take approximately 10-15 minutes to answer.
 A user can be assessed on any section of the choice and get the results immediately.
+Please note that the IT Strategy team recommends that teams complete all sections at least once to establish a full baseline.  
 
 #### Scoring  
 
