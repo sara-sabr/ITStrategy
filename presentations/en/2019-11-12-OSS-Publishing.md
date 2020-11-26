@@ -130,7 +130,7 @@ Inbound vs Outbound
 
 --
 
-![due diligence](assets/images/due-diligence.png)
+![due diligence](assets/images/intro-oss-due-diligence.png)
 
 Heather Meeker, _Open (Source) for Business: A Practical Guide to Open Source Software Licensing_, 54.
 
