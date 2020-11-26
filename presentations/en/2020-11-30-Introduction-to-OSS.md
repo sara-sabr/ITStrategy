@@ -20,16 +20,11 @@ Note:
 
 ### Computer
 
->An electronic device for storing and processing data, typically in binary form, according to instructions given to it in a variable program.
-
-Oxford English Dictionary
-
---
-
 ![A computer model with its components displayed separately, mother board, processor, memory, hard drive, case, monitor, mouse, keyboard](assets/images/intro-oss-computer.png)
 
 Note:
 
+- Oxford English Dictionary: An electronic device for storing and processing data, typically in binary form, according to instructions given to it in a variable program.
 - Components that provide computing capabilities needed to execute software
   - Data is saved on the hard drive, including the programs you have "installed"
   - When you need the programs to run, they are loaded in the memory by the processor
@@ -41,38 +36,63 @@ Note:
 
 ### Algorithm
 
+If a departmental project seeks approval authority limit above $2.5 million, ensure that:
+
+1. The department's capacity to manage projects and programmes is accurately assessed using the Organizational Project Management Capacity Assessment (OPMCA) Tool; and
+2. The resulting capacity class is submitted for consideration of the Treasury Board at least once every three years, normally as part of the consideration of the department's investment plan;
+
+Note:
+
+- A business process is, in a way, an algorithm (if you do that, then this happens)
+
 >"A procedure for solving a mathematical problem [...] in a finite number of steps that frequently involves repetition of an operation"
 >
 >**Broadly**: "A step-by-step procedure for solving a problem or accomplishing some end"[^fn]
 
 [^fn]: https://www.merriam-webster.com/dictionary/algorithm
 
-Note:
-
-- A business process is, in a way, an algorithm (if you do that, then this happens)
-
 --
 
 ### Source Code
 
->Source code is the version of a computer program as it is originally written (i.e., typed into a computer) by a human in a programming language.[^fn]
+```python
+if approval_authority > 2500000:
 
-[^fn]:"http://www.linfo.org/object_code.html"
+    # launches the OPMCA tool and saves the results in capacity_class
+    capacity_class = opmca_tool()
+
+    # this will submit the value of capacity_class to TBS
+    submit_capacity_class_tbs(capacity_class)
+```
 
 Note:
 
 - It is the translation of an algorithm into a human readable, structured code.
 - Examples include: C, C++, C#, COBOL, Fortran, Javascript, Python, Visual Basic, etc.
 
+>Source code is the version of a computer program as it is originally written (i.e., typed into a computer) by a human in a programming language.[^fn]
+
+[^fn]:"http://www.linfo.org/object_code.html"
+
 --
 
 ### Software
 
+```text
+00100110001001100001100010001101000110001000110101100010001101
+00011000100011010010011000011000100011001100010001101010001101
+```
+
+![An image combining three items to represent software installation.
+Starting from the left: a Compact Disc, an operating system window and an arrow pointing down.
+Author: Adrien Coquet, https://thenounproject.com/coquet_adrien/
+Source: https://thenounproject.com/term/install/2218950/ accessed 2020-11-26](assets/images/intro-oss-soft-install.png){:height="50%" width="50%"}
+
+Note:
+
 >Object code [Software] is the output of a compiler after it processes source code.[^fn]
 
 [^fn]:"http://www.linfo.org/object_code.html"
-
-Note:
 
 - It's the version of the program that is saved, that is installed on your computer and will be processed
 - It's the actual asset that we buy licences and subscriptions for and that we receive a copy
@@ -80,24 +100,21 @@ Note:
 
 --
 
-### Source Code vs Software
-
-![A visual representation of Source Code versus Software.](assets/images/intro-oss-sourcecode-software-en.png)
-
---
-
 ### Process
 
-The version of the software that is being processed by the computer
+![A laptop with two operating systems program windows and a hand with its index pointing one of the windows.
+Author: Mohamed Assan
+Source: https://pxhere.com/fr/photo/1565823 accessed 2020-11-26](assets/images/intro-oss-process.png)
 
 Note:
+The version of the software that is being processed by the computer
 
 - The software is loaded from your hard drive into the memory
   - If MS Word crashes, you most likely lost your work, right?
   - Yet you still can fire up the same app again...
 - You can then interact with the application thanks to the processing capabilities of the computer
   - Click on buttons
-  - Load data e.g.: user name and password to login; a filled out form data; etc.
+  - Input data: user name and password to login; display a filled out form data; etc.
   - Transform data: spreadsheet formulas to analyze budget proposals; filter for specific patterns; slice and dice data reports, etc.
   - Save data: once completed, save the analysis into a shareable format on your hard drive so that others can pick up where you left.
 
@@ -106,6 +123,33 @@ Note:
 ### Simplified View
 
 ![software simplified view](assets/images/intro-oss-simplified-view-en.png)
+
+--
+
+## Copyright
+
+>Copyright is the exclusive legal right to produce, reproduce, publish or perform an original literary, artistic, dramatic or musical work.
+
+Source: [Canadian Intellectual Property Office - What is copyright?](https://www.ic.gc.ca/eic/site/cipointernet-internetopic.nsf/eng/wr03719.html?Open&wt_src=cipo-cpyrght-main)
+
+Note:
+
+- Software is something that someone has written.
+- It is copyright protected by the law
+
+--
+
+## Licence
+
+>A licence allows someone else to use a work for certain purposes and under certain conditions. The copyright owner still retains ownership.
+
+Source: [Canadian Intellectual Property Office - A guide to copyright](https://www.ic.gc.ca/eic/site/cipointernet-internetopic.nsf/eng/h_wr02281.html#assignmentsLicences)
+
+Note:
+
+- Buy software --> Buy licences or subscriptions, not the copyright
+- Bug Fixes, Security Patches, Training material, Warranties, etc. are not the software
+  - They are additional contractual agreements negotiated
 
 --
 
@@ -119,9 +163,23 @@ So, what is Open Source Software?
 
 For the purpose of the Government of Canada, we consider the Open Source Initiative's [definition](https://opensource.org/docs/definition.php) the current standard.
 
+Note:
+
+- Anyone can write a licence with the T&Cs they want for work they have created
+- Focus on **industry recognized**
+- OSI is
+  - non-profit corporation
+  - board composed of elected experts from the industry
+  - educate the public
+  - encourage the software community
+  - assist attorneys to craft open source licenses
+  - advocate for open source principles
+
 --
 
 ### Basic Rights
+
+All recognized licences provide at least the right to:
 
 1. Use the software as you wish
 2. Study the source code
@@ -132,8 +190,19 @@ For the purpose of the Government of Canada, we consider the Open Source Initiat
 
 ### Conditions
 
+Some conditions may apply
+
 1. Notice
 2. Derived work's licence
+3. As is, without warranties*
+
+Note:
+
+- When you distribute software with an OSS licence you have to:
+  - Notify the recipient that there are open source licences applied to it
+  - Possibly apply the same licence under which you obtain the software
+- *The **licence** itself usually doesn't provide any warranties
+  - Doesn't mean you can't seek contractual warranties from a third party
 
 --
 
@@ -149,43 +218,38 @@ Note:
 - ISED Policy on Title to Intellectual Property Arising Under Crown Procurement Contracts states that:
   - By default, the Contractor is to own the Foreground IP arising under Crown Procurement Contracts [...].
 
----
-
-## Copyright
-
->Copyright is the exclusive legal right to produce, reproduce, publish or perform an original literary, artistic, dramatic or musical work.
-
-Source: [Canadian Intellectual Property Office - What is copyright?](https://www.ic.gc.ca/eic/site/cipointernet-internetopic.nsf/eng/wr03719.html?Open&wt_src=cipo-cpyrght-main)
-
 --
 
-See also [A guide to copyright](https://www.ic.gc.ca/eic/site/cipointernet-internetopic.nsf/eng/h_wr02281.html)
+## Types of Open Source Licences
 
---
-
-### Copyright & Licences
-
-Software licences give you certain rights under certain conditions
+Permissive vs Reciprocal
 
 Note:
 
-- Mentioned examples of proprietary software before and conditions under which we can use them
-
----
-
-## Types of Open Source Licences
+- As discussed, you have the right to
+  - Use as you wish
+  - Study the code
+  - Modify the code
+  - Distrubute the original and modified code
 
 --
 
 ### Permissive
 
->Allows you to do what you want with it and distribute it under different conditions than you obtained it.
+Distribute it under different conditions than you obtained it.
 
 --
 
 ### Reciprocal (Copyleft)
 
->Allow you to do the same but require you to redistribute on the same conditions under which you obtained it.
+Distribute under the same conditions that you obtained it.
+
+Note:
+
+- Again, nuance depending on specific licences
+  - Scope of distribution concept
+  - Derivative work (GPL)
+  - Original work (MPL)
 
 --
 
@@ -202,18 +266,22 @@ Use [TL;DR Legal](https://tldrlegal.com)
 
 Note:
 
-- 3 top ones are permissive
-- 3 bottom ones are reciprocal
+- 3 top ones are permissive yet have different clauses
+- 3 bottom ones are reciprocal yet have different "strengths"
 
----
+--
 
 ## Why
 
 Policy and Directive on Service and Digital (April 1st, 2020)
 
+Note:
+
+- Not an appealing reason in itself
+
 --
 
-But also:
+But mainly because:
 
 - Don't start with a blank canvas, focus on the added value
 - Speed up development time by reusing existing solutions to common problems
@@ -240,9 +308,13 @@ Startups combine open source software components and focus on added value
 
 --
 
+> The number of open source components in the codebase of **proprietary** applications keeps rising
+
 [2018 Open Source Security and Risk Analysis](https://www.synopsys.com/content/dam/synopsys/sig-assets/reports/2018-ossra.pdf), Synopsys Center for Open Source Research & Innovation
 
-> The number of open source components in the codebase of *proprietary* applications keeps rising
+Note:
+
+This means software you purchase licences for actively contain open source software components
 
 --
 
@@ -252,14 +324,16 @@ HelpNetSecurity, May 22, 2018 - [The percentage of open source code in proprieta
 
 --
 
-> The average percentage of open source in the codebases of the applications scanned grew from 36% last year to 57%, suggesting that a large number of applications now contain much more open source than proprietary code.
+> The average percentage of open source in the codebases of the applications scanned grew **from 36% last year to 57%**, suggesting that a large number of applications now contain much more open source than proprietary code.
 
 HelpNetSecurity - [The percentage of open source code in proprietary apps is rising](https://www.helpnetsecurity.com/2018/05/22/open-source-code-security-risk/)
 
 Note:
 
+- In 2018, **percentage** of source code of proprietary applications being **OSS doubled** over the course of 1 year
 - Doesn't mean to stop purchasing software licences
-- Modern software development is about reusing powerful OSS
+  - Understand that OSS is in pretty much all software we use today
+- Modern software development and operations is about reusing powerful OSS
   - Components
   - Frameworks
   - Fully fledged OSS products, COTS-like
@@ -355,7 +429,7 @@ An external website will be considered distribution under certain licences
 
 --
 
-![software architecture](assets/images/soft-arch.png)
+![software architecture](assets/images/intro-oss-soft-arch.png)
 
 --
 
