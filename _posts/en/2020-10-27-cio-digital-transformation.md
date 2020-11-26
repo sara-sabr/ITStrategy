@@ -157,7 +157,7 @@ The above planning-execution symbiotic relationship *should* be allowed as per t
 >
 > **(make evidence-based decisions)** 4.2.18 Establishing a project gating plan at the outset of the project, consistent with the department's framework, that; (4.2.18.1) Documents the decisions that will be taken at each gate, the evidence and information required in support of the gate decisions, the criteria used to assess the evidence, and the gate governance
 
-Currently, TB only provides directives and guidance regarding Project and Programme Management, leaving departments by themselves in adapting existing **Project Management** practices to a **Product world**. This is where we see a strenghtening of the **CFO - CIO** relationship.
+Currently, TB only provides directives and guidance regarding Project and Programme Management, leaving departments by themselves in adapting existing **Project Management** practices to a **Product world**. This is where we see a strengthening of the **CFO - CIO** relationship.
 
 The ESDC IT Strategy team is interested in finding other departments looking at the same challenges, whether they are working towards solving them or even have found the solution.
 
