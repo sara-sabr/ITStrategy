@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "CIOs and CFOS are essentials in making digital transformation a reality"
+title: "CIOs and CFOs are essential in making digital transformation a reality"
 ref: cio-digital-transformation
 lang: en
 author: "Rémy Bernard, in collaboration with the IT Strategy team"
 date: "2020-10-27"
-last_modified: "2020-10-27"
+last_modified: "2020-11-25"
 excerpt_separator: <!--more-->
 ---
 <!-- markdownlint-disable MD033 -->
@@ -25,7 +25,7 @@ th {
 img + em { display: inline-block; }
 </style>
 
-In this blog, we suggest that it will be Chief Information Officers (CIOs) and Chief Financial Officers (CFOs) that will bring a Digital Transformation vision into a reality. Although Digital Transformation deals a lot with changing business operations, if technology releases are not able to push through, that vision will remain a dream and will not manifest itself. We will show how critical CFOs are in allowing technology to respond faster to continuous business changes, and how the Cloud and DevOps are opportunities that cannot be overlooked.
+In this blog, we suggest that Chief Information Officers (CIOs) and Chief Financial Officers (CFOs) are essential in bring a Digital Transformation vision into a reality. Although Digital Transformation deals a lot with changing business operations, if technology releases are not able to push through, that vision will remain a dream and will not manifest itself. We will show how critical CFOs are in allowing technology to respond faster to continuous business changes, and how Cloud and DevOps are opportunities that cannot be overlooked.
 
 <!--more-->
 
@@ -62,7 +62,7 @@ As the Policy's requirements target Deputy Heads, we look at its associated [Dir
 
 &#42; The four mandatory procedures are: [Enterprise Architecture Assessment](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602), [Application Programming Interface](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604), [Privacy and Monitoring of Network and Device Use Information Notices](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32607), and [IT Security Controls](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32611)
 
-With such a focus on CIOs, TB formally recognizes the **ubiquitous nature of technology in delivering services** to Canadians. Because CIOs are accountable for such a large number of requirements, we claim they also need to be in a position to determine _how_ technology investments are to be managed.
+With such a focus on CIOs and CDOs, TB formally recognizes the **ubiquitous nature of technology in delivering services** to Canadians. Because CIOs and CDOs are accountable for such a large number of requirements, we claim they also need to be in a position to determine _how_ technology investments are to be managed.
 
 Technology is no longer a back-office function. It's at the core of service delivery. Anyone working in technology already knew that[^1], but they now have the attention of **elected officials**. This means that in order for policy makers to affect Canadians, they will need to go through technology delivery. If technology is not responsive enough, the lag between Policy making and service delivery will directly impact the ability of departments to fulfill their mandates. Policy makers looking for data to inform their evidence-based decisions (i.e. user feedback loops) will be stored in databases, managed by software. At ESDC, we find this articulated as the [Business Delivery Modernization's (BDM) 2nd main objective: Policy Agility](http://blogs-blogues.prv/ntn-bnt/bdm-not-just-another-acronym-its-an-initiative-transforming-service-delivery-as-we-know-it/).
 
@@ -76,88 +76,118 @@ Technology is no longer a back-office function. It's at the core of service deli
     <small>Figure 1. The feedback loop policy makers need pass through technology</small>
 </div>
 
-This lag in responsiveness is not new and impacted elected officials in the past which made [front-page news](https://www.cbc.ca/news/politics/federal-it-systems-critical-failure-1.5448871). This inadequate relationship organizations have with technology is documented in [Auditor General](/ITStrategy/2020/04/21/how-is-the-public-service-managing-large-IT-project.html) reports that, [even 10 years ago](https://www.oag-bvg.gc.ca/internet/English/parl_oag_201004_01_e_33714.html), recognized the critical nature technology plays in servicing Canadians.  
+This lag in responsiveness is not new and impacted elected officials in the past which made [front-page news](https://www.cbc.ca/news/politics/federal-it-systems-critical-failure-1.5448871). This inadequate relationship organizations have with technology is documented in [Auditor General reports](/ITStrategy/2020/04/21/how-is-the-public-service-managing-large-IT-project.html) that, [even 10 years ago](https://www.oag-bvg.gc.ca/internet/English/parl_oag_201004_01_e_33714.html), recognized the critical nature technology plays in servicing Canadians.  
 
-We want to look at this relationship with technology closer, and how things have changed in the last few years that presents new opportunities for us (hint: [it's Cloud and DevOps](https://youtu.be/2BM0xYfcexY?t=584)).
+We want to look at this relationship with technology closer, and how things have changed in the last few years that presents new opportunities for us (hint: [we'll be talking Cloud and DevOps](https://youtu.be/2BM0xYfcexY?t=584)).
 
 ## How Are We Managing Technology Investments
 
 Using technology is a risky and costly investment.
 
-The [TB Policy on Planning and Management of Investments](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32593) governs how departments are expected to manage investments, like technology, "to ensure that these activities provide value for money and demonstrate sound stewardship in program delivery". It's associated [Directive on the Management of Projects and Programmes](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32594) is where we find the notorious project gating process "so that the expected benefits and results are realized for Canadians".
+The [TB Policy on Planning and Management of Investments](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32593) governs how departments are expected to manage investments, like technology, "_to ensure that these activities provide value for money and demonstrate sound stewardship in program delivery_". It's associated [Directive on the Management of Projects and Programmes](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32594) is where we find the notorious project gating process "_so that the expected benefits and results are realized for Canadians_".
 
-We will narrow the goals of these financial policy instruments to two main ones:
+We narrow the goals of these financial policy instruments to two main ones:
 
 1. Managing **risks**
 2. Placing investments where there are **benefits**
 
-We want to look closer at &#35;1 especially when our [2019-2020 Departmental Plan](https://www.canada.ca/en/employment-social-development/corporate/reports/departmental-plan/2019-2020.html) states that "_The Department [...] recognizes recognizes that one of the biggest risks it faces is a failure to take risks._"[^2].
+We want to look closer at &#35;1 especially when our [2019-2020 Departmental Plan](https://www.canada.ca/en/employment-social-development/corporate/reports/departmental-plan/2019-2020.html) states that "_The Department [...] recognizes that one of the biggest risks it faces is a failure to take risks._"[^2].
 
-The current gated method to manage technology investments seeks a **high degree of future predictability**. Before work on software can start, we seek clarity on requirements and the effort needed to fulfill them. This usually takes form in producing mulitple documents, aggregated as an overall plan before approval to execute can be obtained. There was a time when this made perfect sense as it was expensive and time consuming to procure servers, code software changes in a procedural language, test those changes on dedicated testing servers (sometimes shared with other software projects so risks of project collisions needed to be managed), burn the updated software onto a disc along with installation procedures for someone else to execute (so segregation of duties can be respected), and expect downtime when those changes are being applied. If a client changed her mind during this execution phase, the impact to the project was high.
+The current gated method to manage technology investments seeks a **high degree of future predictability**. Before work on software can start, we seek clarity on requirements and the effort needed to fulfill them. This usually takes form in producing multiple documents, aggregated as an overall plan before approval to execute can be obtained. There was a time when this made perfect sense as it was expensive and time consuming to procure servers, code software changes in a procedural language, test those changes on dedicated testing servers (sometimes shared with other software projects so risks of project collisions needed to be managed), burn the updated software onto a disc along with installation procedures for someone else to execute (so segregation of duties can be respected), and expect downtime when those changes are being applied. If a client changed her mind during this execution phase, the impact to the project was high.
 
 <div style="display: block; width: inherit; text-align: center; line-height: 3;">
     <a href="/ITStrategy/assets/images/digital_feedback_loop.png" style="display: block">
         <img src = "{{ site.baseurl }}/assets/images/pmlc_current_model.png"
         alt = "This image depicts a the current Project Management Lifecycle. It shows 4 steps (Inception, Planning, Execution, and Closure). Each of the steps are in sequence where, to start the Execution step, we are expected to finish the Planning step. At each step, there is an increasing amount of documentations being produced and stakeholders involved. Culminating to the Execution step where IT personnel are to execute and make the software changes. The client is shown at the beginning and at the end of the process, but not in the middle of it."
-        style="width: 500px; height: inherit;"
+        style="width: 700px; height: inherit;"
         />
     </a>
     <small>Figure 2. A high-level view and interpretation of the current Project Management Lifecycle using gated decision points</small>
 </div>
 
-The bigger the project is, the further into the future we require to foresee. The approach comes with a few adverse effects:
+The bigger the project, the further into the future we require to foresee. This approach comes with a few adverse effects:
 
-1. ***it promotes feature bloating***: The [burden of projectization]({{ site.baseurl }}/2019/12/20/why-we-are-promoting-risks.html) is too great for small iterations. Statistics and reports exist[^3] regarding the low success rate of large projects. Though we think those are not about success rates, they are about the reality that change is invetibable and having such foresight is extremely rare.
+1. ***it promotes feature bloating***: The [burden of projectization]({{ site.baseurl }}/2019/12/20/why-we-are-promoting-risks.html) is too great for small iterations which incentivizes the accumulation of changes until we have enough to go through the projectization process, resulting in bigger projects. There are statistics and reports regarding the low success rates of large projects[^3]. Though we think those are not necessarily about success rates, they are about the reality that change is inevitable, that having such foresight is extremely rare, and that it is nearly impossible to plan that far into the future.
 
-2. ***a business case is not an expectation, its a hypothesis***: The benefits realization at the end of a project is not a sure thing. It may be negative. The longer the organization is locked in a project, the greater the risk being locked into a potentially bad idea.
+2. ***a business case is thought of as an expectation, instead of a hypothesis***: The benefits realization at the end of a project is not a sure thing. A project may be delivered on time, on budget, as per requirements, but [yield negative outcomes](https://sencanada.ca/content/sen/committee/421/NFFN/reports/NFFN_Phoenix_Report_32_WEB_e.pdf). The longer the organization is locked in a project, the greater the risk being locked into a potentially bad idea.
 
-3. ***the client is not sufficiently involved***: The client sponsor gets involved at the beginning and the end of the project, but not enough *during* it. In late planning and execution stages we too often make use of proxies like detailed requirements (written with an attempt to communicate the will of the client, and then interpretted by a reader).
+3. ***the client is not sufficiently involved***: The client sponsoring the initiative gets involved at the beginning and the end of the project, but not enough *during* it. In late planning and execution stages, proxies like detailed requirements (written with an attempt to communicate the needs of the client, and then interpreted by a reader) are used instead of active engagements with the client to resolve ambiguity, conflicting rules, intended user experience, and prioritization of work.
 
-4. ***it puts IT in a passive state***: "I need requirements" is something you probably heard your IT teams say to you. This should not be surprising as we are framing ourselves to behave as such. The Execution being after planning, we are not sufficiently incentivized to pro-actively act and engage our lines of businesses team members. The [Government's pandemic response](https://nationalpost.com/opinion/john-ivison-amid-staggering-unemployment-rate-public-servants-processing-ei-claims-are-the-unsung-heroes) is an exception to this statement where personnel worked creatively together in a time of crisis.
+4. ***it puts IT in a passive state***: "_I need requirements_" is something you probably heard your IT teams say to you. This should not be surprising as we are framing the organization to behave as such. The Execution being after Planning, we are not sufficiently incentivized to pro-actively act and engage our lines of businesses team members. The [Government's pandemic response](https://nationalpost.com/opinion/john-ivison-amid-staggering-unemployment-rate-public-servants-processing-ei-claims-are-the-unsung-heroes) is an exception to this statement where personnel worked creatively together in a time of crisis.
 
-5. ***progression is measured with memos, instead of working software***: If after 18 months of work and $2M spent we do not have working software to show for, would we consider it a good investment?
+5. ***progression is measured with documents, instead of working software***: If after 18 months of work and $2M spent we do not have working software to show for, would we consider it a good investment?
 
 > Only **successful projects, in production**, enable the organization to gain **empirical evidence** necessary for their **evidence-based decisions**.
 
 ## Opportunities for change
 
-The digital world brings a high level of complexity and uncertainty with it. This should warrant us to seek very different approach to carrying out initiatives. A predictable world rewards advanced planning and rigid plan execution. But a complex and uncertain world rewards an empirical cycle of trying, observing, and correcting.[^5]
+The digital world brings a high level of complexity and uncertainty with it. This should warrant us to seek very different approach to carrying out initiatives. A predictable world rewards advanced planning and rigid plan execution. But a complex and uncertain world rewards an empirical cycle of trying, observing, and correcting.[^4]
 
-New methods of developing software are made available, mainly [Cloud and DevOps](https://youtu.be/2BM0xYfcexY?t=940), that warrants us adjusting our investment management methods. With Cloud and DevOps, the time consuming efforts of procuring servers, coding, testing, and releasing to production mentioned above are dramatically reduced. An opportunity exists to then leverage this speed to more accurately inform planning decisions. The conventional sequential thinking of planning, then executing, changes to one that is cyclical. Planning and Execution become symbiotic where both inform each other over smaller time horizon periods.
+New methods of developing software are made available, mainly [Cloud and DevOps](https://youtu.be/2BM0xYfcexY?t=940), that warrants us adjusting our investment management methods. With Cloud and DevOps, the time consuming efforts of procuring servers, coding, testing, and releasing to production mentioned above are dramatically reduced. An opportunity exists to leverage this speed, try things out before we commit to them, and more accurately inform planning decisions.
 
-(image of planning and execution phase in cycle)
+The conventional sequential thinking of planning, then executing, changes to one that is cyclical. Planning and Execution become symbiotic where both inform each other over smaller time horizon periods.
 
-The result enables the use of emperical data to make planning decisions. Through execution, we can inform the next planning time horizon for the initiative. We can measure progress through actual working software, as opposed to planning documents often containing many assumptions. We can make _"Decisions \[...\] based on an assessment of full life-cycle costs and demonstrate value for money and sound stewardship;"_[^7].
+<div style="display: block; width: inherit; text-align: center; line-height: 3;">
+    <a href="/ITStrategy/assets/images/digital_feedback_loop.png" style="display: block">
+        <img src = "{{ site.baseurl }}/assets/images/pmlc_with_product_management.png"
+        alt = "This image the Project Management Lifecycle adaptaed for Product Management. It shows 3 steps (Inception, Planning + Execution, and Closure). The difference with the previous picture is that the Planning and Execution stage work together. There is a client at the beginning of the Planning stage communicating with two Product Owners. This client acts as a project sponsor that is communicating changes to two Product Owners. Each of the Product Owners then work with their product team members to prioritize work over a series of iterations. In the diagram, the first product has 3 iterations in the course of 18 months, while the second product has two. The diagram communicates that the clients is heavily involved during both planning and execution of the project, as well as being able to have production ready software throughout the 18 months journey."
+        style="width: 700px; height: inherit;"
+        />
+    </a>
+    <small>Figure 3. A Project Management practice adapted to Product Management and DevOps</small>
+</div>
 
-This opportunity is available should we first understand how different software is from other types of investments. Mainly that software often consists of an assemblage of many components[^6], each potentially able to work independently from each other. Breaking large IT Solutions into more manageable parts (whether called IT Products or Applications, sometimes [compared to Lego blocks](https://youtu.be/g-h6CtSwk30?t=212)) means work can start by multiple and different teams without the need to have figured out the whole puzzle set in advance or how to solve it in one piece. If you heard the term "[Monolith](https://medium.com/koderlabs/introduction-to-monolithic-architecture-and-microservices-architecture-b211a5955c63)", it's what we strive to go away from as they impede our ability to respond fast.
+The result enables the use of empirical data to make planning decisions. Through execution, we can inform the next planning time horizon for the initiative. We can measure progress through actual working software, as opposed to planning documents often containing many assumptions. We can make _"Decisions \[...\] based on an assessment of full life-cycle costs and demonstrate value for money and sound stewardship;"_[^5].
 
-The above planning-execution cycle should be allowed as per the following [TB Directive on Management of Projects and Programmes](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32594) requirements:
+In the first example above (Figure 2), we obtained one software release after 18 months. Whereas in the second example (Figure 3), we *could* have had five releases in that same amount of time (should we have decided to release them in production). Through each iteration, the Client, the Product Owner, and the Product Teams all learned a little bit more about the user needs, the complexities of adapting the software to those needs, and the technical debt accumulated throughout that time. This information is used as empirical evidence to plan with more accuracy the next iteration cycle.
 
-> (welcome change) 4.2.6 Ensuring where business change is required to achieve the business outcomes, that the project and programme scope of work includes all the activities and outputs necessary to bring about this change
-> (be iterative and agile) 4.2.8 Applying as appropriate, incremental, iterative, agile, and user-centric principles and methods to the planning, definition, and implementation of the project
-> (make evidence-based decisions) 4.2.18 Establishing a project gating plan at the outset of the project, consistent with the department's framework, that; (4.2.18.1) Documents the decisions that will be taken at each gate, the evidence and information required in support of the gate decisions, the criteria used to assess the evidence, and the gate governance
+These fast Product iterations are enabled by DevOps (powered by cloud technologies).
 
-The above 3 requirements communicate that:
+<div style="display: block; width: inherit; text-align: center; line-height: 3;">
+    <a href="/ITStrategy/assets/images/digital_feedback_loop.png" style="display: block">
+        <img src = "{{ site.baseurl }}/assets/images/product_management_with_devops.png"
+        alt = "This image expands the view of Product Management shown in the previous image. We see the Product Owner and the Product team on the left side, and a series of pipeline on the right side. The pipeline is showing a series of steps necessary for software production (version control, build, unit testing, deployment, auto testing, deployment nto production, and monitoring). At each of those steps, we see a pipe coming out of it and going back to the beginning. This shows a potential exit path for the Product Team that includes new information. Around the pipeline, we have the other IT Personnel involved like Quality Assurance, Accessibility, and IT Security that may not be members of the product team per say, but add their controls into the DevOps pipeline using scripts."
+        style="width: 700px; height: inherit;"
+        />
+    </a>
+    <small>Figure 4. The DevOps pipeline as part of Product Management</small>
+</div>
+
+This opportunity is available should we first understand how different software is from other types of investments. Mainly that software consists of an assemblage of many components[^6], each potentially able to work independently from each other, and that provide services to one another (we then start seeing that **machines are also users**). Breaking large IT Solutions into more manageable parts (whether called IT Products or Applications, sometimes [compared to Lego blocks](https://youtu.be/g-h6CtSwk30?t=212)) means work can start by multiple teams without the need to have figured out the whole puzzle in advance or how to solve the problem in one single piece. If you heard the term "[Monolith](https://medium.com/koderlabs/introduction-to-monolithic-architecture-and-microservices-architecture-b211a5955c63)", it's what we strive to move away from as they impede our ability to respond fast and are too often the cause of project collisions.
+
+Those finer, more manageable and [loosely-couple parts](https://cloud.google.com/solutions/devops/devops-tech-architecture), make it possible to change technical decisions; whether it is to change a vendor to another one, change a configuration without impacting another system down the road, or assign multiple teams to work in parallel.
+
+The above planning-execution symbiotic relationship *should* be allowed as per the following [TB Directive on Management of Projects and Programmes](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32594) requirements:
+
+> **(welcome change)** 4.2.6 Ensuring where business change is required to achieve the business outcomes, that the project and programme scope of work includes all the activities and outputs necessary to bring about this change
+>
+> **(be iterative and agile)** 4.2.8 Applying as appropriate, incremental, iterative, agile, and user-centric principles and methods to the planning, definition, and implementation of the project
+>
+> **(make evidence-based decisions)** 4.2.18 Establishing a project gating plan at the outset of the project, consistent with the department's framework, that; (4.2.18.1) Documents the decisions that will be taken at each gate, the evidence and information required in support of the gate decisions, the criteria used to assess the evidence, and the gate governance
+
+We interpret the above 3 requirements as:
 
 1. Change will happen, and that we must accept and adapt to it
-2. To make evidence-based decisions we need emperical evidence. Such evidence can only be obtained by execution. In a sense, the planning phase of a Project needs the Execution phase's data to make informed decisions.
+2. To make evidence-based decisions we need empirical evidence. Such evidence can only be obtained by execution. In a sense, the planning phase of a Project needs the Execution phase's data to make decisions.
+
+Currently, TB only provides directives and guidance regarding Project and Programme Management, leaving departments by themselves in adapting existing Project Management practices to a **Product world**.
+
+The ESDC IT Strategy team is interested in finding other departments looking at the same challenges, whether they are working towards solving them or even have found the solution.
 
 ## Some Work In Progress at ESDC Fostering these Opportunities
 
 The ESDC IT Strategy team is currently working on a set of strategies to move the organization towards reducing risks associated with technology in order to accelerate business flexibility.
 
-1. [Target IT Solution Delivery Model](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html): a strategy to move the organization towards **same day software deployment**. This requires focusing on loose coupling architectures and changing governance processes to provide more autonomy to IT teams, moving to Product Management with a supporting funding model and clear business shared accountability defined, adopting DevOps, and setting clear conditions for IT project intakes with an ability for the CIO to say "_No_".
+1. [Target IT Solution Delivery Model](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html): a strategy to move the organization towards **same day software deployment** in order to dramatically improve **service delivery agility**. This requires focusing on loose coupling architectures and changing governance processes to provide more autonomy to IT teams, changing existing Project Management practices to be adapted for Product Management, adopting DevOps, setting clear conditions for IT project intakes and scope expectations with an ability for the CIO to say "_No_".
 2. [Adopt, Build, Buy](https://sara-sabr.github.io/ITStrategy/strategy-build-vs-buy.html): a strategy that seeks to resolve the oversimplification approach of _buying_ or _building_ software. The strategy proposes moving ESDC to the point where all stakeholders understand that IT Solutions are complex and investment decisions have to be taken with flexibility, interchangeability, and interoperability in mind throughout the **entire lifecycle of an IT Solution**, not only at the initial stage.
 3. [Continuous Improvement](https://sara-sabr.github.io/ITStrategy/strategy-transform-high-performing-org.html): a strategy to transform ESDC into a high-performing organization through the continuous improvement of daily work. Influenced by the [DevOps Research and Assessment (DORA) DevOps capabilities](https://cloud.google.com/devops/).
 4. [Micro-Procurement (GCDevExchange 2.0)](https://014gc.sharepoint.com/sites/GCDevEx): a strategy that seeks to provide the department and suppliers with a light-weight, low dollar value (&lt; $10k) contract amount, procurement process. Resulting work from such contract is to be made available under an Open Source licence.
 
 ## References
 
-[^1]: There are 6 Auditor General Reports highlighting the struggles of delivering large IT-enabled projects and how those struggles impacts both business operations and trusts in government. We've written a [blog about it here](/2020/04/21/how-is-the-public-service-managing-large-IT-project.html).
-[^2]: [2019-2020 ESDC Departmental Plan](https://www.canada.ca/en/employment-social-development/corporate/reports/departmental-plan/2019-2020.html), page 11
-[^3]: The [Standish Group Study](https://18f.gsa.gov/2019/04/09/why-we-love-modular-contracting/), 5 Auditor General Reports ([2006 Novembre](https://www.oag-bvg.gc.ca/internet/English/parl_oag_200611_03_e_14971.html), [2010 Spring](https://www.oag-bvg.gc.ca/internet/English/parl_oag_201004_01_e_33714.html), [2011 June](https://www.oag-bvg.gc.ca/internet/English/parl_oag_201106_02_e_35370.html), [2015 Spring](https://www.oag-bvg.gc.ca/internet/English/parl_oag_201504_05_e_40351.html), [2018 Spring](https://www.oag-bvg.gc.ca/internet/English/parl_oag_201805_01_e_43033.html)), and the [June 2016 and May 2019 House of Commons questions](https://large-government-of-canada-it-projects.github.io/) on large IT projects over $1M
-[^3]: Auditor General Report, [2006 Novembre, Chapter 3 - Larget IT Projects](https://www.oag-bvg.gc.ca/internet/English/parl_oag_200611_03_e_14971.html), _"The many large information technology projects now under way across the federal government are no longer only about introducing new computer hardware, software, or systems. They are meant to help departments change the way they do business—for example, by introducing new processes and modernizing work practices"_
-[^4]: Auditor General Report, [2006 Novembre, Chapter 3 - Large IT Projects](https://www.oag-bvg.gc.ca/internet/English/parl_oag_200611_03_e_14971.html), reviews of previous recommendations section, &#35;3.22
-[^5]: Mark Schwartz, [_War and Peace and IT_](https://itrevolution.com/war-and-peace-and-it/), IT Revolution, 2019, page 30
-[^6]: Appendix A - Business Case (Diagnosis) of the [Adobt, Build, Buy Strategy](/ITStrategy/strategy-build-vs-buy.html#appendix-a---business-case-diagnostic)
-[^7]: [TB Policy on the Planning and Management of Investments](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32593) Expected result &#35;3.2.2
+[^1]: There are 6 Auditor General Reports highlighting the struggles of delivering large IT-enabled projects and how those struggles impacts both business operations and trusts in government. We've written a [_blog about it here_](/2020/04/21/how-is-the-public-service-managing-large-IT-project.html).
+[^2]: [_2019-2020 ESDC Departmental Plan_](https://www.canada.ca/en/employment-social-development/corporate/reports/departmental-plan/2019-2020.html), page 11
+[^3]: The [_Standish Group Study_](https://18f.gsa.gov/2019/04/09/why-we-love-modular-contracting/), 5 Auditor General Reports ([_2006 Novembre_](https://www.oag-bvg.gc.ca/internet/English/parl_oag_200611_03_e_14971.html), [_2010 Spring_](https://www.oag-bvg.gc.ca/internet/English/parl_oag_201004_01_e_33714.html), [_2011 June_](https://www.oag-bvg.gc.ca/internet/English/parl_oag_201106_02_e_35370.html), [_2015 Spring_](https://www.oag-bvg.gc.ca/internet/English/parl_oag_201504_05_e_40351.html), [_2018 Spring_](https://www.oag-bvg.gc.ca/internet/English/parl_oag_201805_01_e_43033.html)), and the [_June 2016 and May 2019 House of Commons questions_](https://large-government-of-canada-it-projects.github.io/) on large IT projects over $1M
+[^4]: Mark Schwartz, [_War and Peace and IT_](https://itrevolution.com/war-and-peace-and-it/), IT Revolution, 2019, page 30
+[^5]: [_TB Policy on the Planning and Management of Investments_](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32593) Expected result &#35;3.2.2
+[^6]: Appendix A - Business Case (Diagnosis) of the [_Adopt, Build, Buy Strategy_](/ITStrategy/strategy-build-vs-buy.html#appendix-a---business-case-diagnostic)
