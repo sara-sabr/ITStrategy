@@ -70,7 +70,7 @@ It will help to improve technology and organizational performance.
 
 #### Who is it for
 
-IT teams in IITB but any Dev team can benefit from this tool.
+All teams in IITB looking to continuously improve themselves and support the improvement efforts of their peers.
 
 #### What is the purpose of the Assessment tool  
 
@@ -86,7 +86,7 @@ The circle titles are: top "Assess"; right "Analyze"; bottom "Implement"; left "
 Our process includes:  
 
 - Invitation to take a survey  
-- Choose a section to be assessed
+- Choose a topic to self-assess  
 - Take a survey on selected section  
 - Receive score (Beginner, Intermediate, Advanced)  
 - Read recommendation on how to improve  
