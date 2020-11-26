@@ -455,6 +455,7 @@
     "TSDM",
     "codebases",
     "incrementality",
+    "BDM",
     "ICAAD",
     "Reqs",
     "Orchestrators",
@@ -464,7 +465,6 @@
     "CDO",
     "CDOs",
     "Mgmt"
-
   ],
   "flagWords": [],
   "import": [
