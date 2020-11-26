@@ -458,6 +458,7 @@
     "RFPs",
     "codebases",
     "incrementality",
+    "BDM",
     "ICAAD",
     "Reqs",
     "Orchestrators",
@@ -468,7 +469,6 @@
     "CDOs",
     "Mgmt",
     "incentivized"
-
   ],
   "flagWords": [],
   "import": [
