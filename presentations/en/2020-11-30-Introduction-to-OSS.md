@@ -201,7 +201,7 @@ Note:
 - When you distribute software with an OSS licence you have to:
   - Notify the recipient that there are open source licences applied to it
   - Possibly apply the same licence under which you obtain the software
-- *The **licence** itself usually doesn't provide any warranties
+- \*The **licence** itself usually doesn't provide any warranties
   - Doesn't mean you can't seek contractual warranties from a third party
 
 --
@@ -238,6 +238,14 @@ Note:
 
 Distribute it under different conditions than you obtained it.
 
+Note:
+
+- You could
+  - Take an OSS project as a starting point
+  - Make modifications or build around it
+  - Distribute the resulting solution under the licence of your choice
+- Still need to provide notice of the OSS components used
+
 --
 
 ### Reciprocal (Copyleft)
@@ -249,7 +257,7 @@ Note:
 - Again, nuance depending on specific licences
   - Scope of distribution concept
   - Derivative work (GPL)
-  - Original work (MPL)
+  - Original work only (MPL)
 
 --
 
@@ -271,7 +279,86 @@ Note:
 
 --
 
+### Rights and Responsibilities
+
+Inbound vs Outbound
+
+--
+
+The terms and conditions under which you will be **distributing your software** must not exceed the terms and conditions associated with the licences of the software you will be using in your project.
+
+Note:
+
+Seems complex but important to understand what **distributing your software** means
+
+--
+
+### Software distribution
+
+Between GC departments is **not** considered distribution
+
+BUT
+
+An application accessed via a network will be considered distribution under certain licences
+
+Note:
+
+- Technically, we're all the same legal entity, the Crown
+- A web site consists of files and applications located on a distant computer that you access on your own via a wide network, the Internet.
+  - To use it, you need to download those files and application, thus it is a form of distribution
+
+--
+
+![software architecture](assets/images/intro-oss-soft-arch.png)
+
+--
+
+![due diligence](assets/images/intro-oss-due-diligence.png)
+
+Heather Meeker, _Open (Source) for Business: A Practical Guide to Open Source Software Licensing_, 51-56.
+
+--
+
+![non compliant example](assets/images/intro-oss-apache2-gpl-error.png)
+
+Heather Meeker, _Open (Source) for Business: A Practical Guide to Open Source Software Licensing_, 51-56.
+
+--
+
+![compliant example](assets/images/intro-oss-apache2-gpl-ok.png)
+
+Heather Meeker, _Open (Source) for Business: A Practical Guide to Open Source Software Licensing_, 51-56.
+
+--
+
+[Guide for Using Open Source Software](https://canada-ca.github.io/open-source-logiciel-libre/en/guides/using-open-source-software.html)
+
+[Use Open Source Software Without Modification](https://canada-ca.github.io/open-source-logiciel-libre/en/guides/using-open-source-software.html#use-open-source-software-without-modification)
+
+[Use Open Source Software With Modifications](https://canada-ca.github.io/open-source-logiciel-libre/en/guides/using-open-source-software.html#use-open-source-software-with-modifications)
+
+--
+
+[Don’t Copy and Locally Modify Open Source Software](https://canada-ca.github.io/open-source-logiciel-libre/en/guides/using-open-source-software.html#dont-fork-open-source-software)
+
+> Where possible, use open source software without modification or contribute them back.
+
+Note:
+
+The reason it that you end up taking on the burden of maintaining a separate version of the software, just like we do when we customize a proprietary application.
+This will most likely end with more work for the organization and increase risks of failure upon future updates and upgrades.
+
+<!--markdownlint-enable MD035-->
+
+---
+
 ## Why
+
+Note:
+
+Why should we care?
+
+--
 
 Policy and Directive on Service and Digital (April 1st, 2020)
 
@@ -288,23 +375,18 @@ But mainly because:
 - Leverage a large community of peers to enhance quality and for wider maintenance
 - Build on top of giants' shoulders and communities
 
-Note:
-
-How big is your team? As of 2019-10-10:
-
-- Jekyll: 864 contributors
-- Hugo: 588 contributors
-- Linux: 20 000+ authors
-
 --
 
 > Aspiring to world class is not enough, when everyone else starts there
 
-Jeff McAffer, formerly Director of Microsoft's Open Source Program Office
+Jeff McAffer, formerly Director of Microsoft's Open Source Program Office, GC Open First Day 2018
 
 Note:
 
-Startups combine open source software components and focus on added value
+- Startups combine open source software components and focus on added value
+- Today, Microsoft is one of the largest OSS corporate contributors in the world
+  - Yet, it once was prohibited to use OSS internally
+  - 2016 saw a shift with the new CEO openly embracing OSS culture
 
 --
 
@@ -314,7 +396,8 @@ Startups combine open source software components and focus on added value
 
 Note:
 
-This means software you purchase licences for actively contain open source software components
+- This means software you purchase licences for right now have open source software components in them
+- Although you probably don't now it
 
 --
 
@@ -330,7 +413,7 @@ HelpNetSecurity - [The percentage of open source code in proprietary apps is ris
 
 Note:
 
-- In 2018, **percentage** of source code of proprietary applications being **OSS doubled** over the course of 1 year
+- In 2018, analysis of proprietary application source code showed that the **percentage** of it being **OSS found online doubled over the course of 1 year**
 - Doesn't mean to stop purchasing software licences
   - Understand that OSS is in pretty much all software we use today
 - Modern software development and operations is about reusing powerful OSS
@@ -342,39 +425,91 @@ Note:
 
 >It's all about software engineering economics
 
-Stephen Walli, Principal Program Manager at Microsoft
+Stephen Walli, Principal Program Manager at Microsoft, GC Open First Day 2018
 
 Note:
 
-Writing good code takes a lot of time
+- Writing good code takes a lot of time
+- Embracing OSS as a way of working increases capacity beyond the limits of your team's actual size
+- How big is your team today? As of 2019-10-10:
+  - Jekyll: 864 contributors
+  - Hugo: 588 contributors
+  - Linux: 20 000+ authors
 
 ---
 
-## How
-
-By using:
-
-- Package Managers
-  - NPM, Anaconda, Maven, CocoaPods, RubyGems, etc.
-- Frameworks
-  - Bootstrap, Spring, React.js, Spark, Django, .NET, etc.
-- Social Development Platforms
-  - GitHub, GitLab, BitBucket, GCcode*
+## Risks
 
 --
 
-### Support Models
+### Software is provided as is
 
-- In-house
-- Professional Services
+No Warranties
+No official 24/7 Support or Helpdesk
+Documentation
+Training
+Accessibility
+Official languages
 
----
+Note:
 
-## Be secure
-  
-- Know your dependencies
-- Assess the components
-- Patch your stuff!
+When assessing an open source software, you evaluate same things as proprietery plus:
+
+- Source code (scans, tests, etc.)
+- Documentation quality
+- Project activity (is it actively maintained)
+- Community health (participation and management)
+
+--
+
+### Mitigation
+
+- Build internal capacity with training and by hiring professionals
+- Introduce a framework to assess the maturity of an OSS
+- Procure support and complementary services
+
+Note:
+
+- Training for OSS doesn't require expensive certification programs:
+  - You can dive right in, the code is all there for you to analyse and try
+- There's an OSS framework going to governance approval process right now
+- There's litterally no barrier to entry for any company wishing to offer services
+
+--
+
+### Security
+
+>- Everyone can see the code! It must be dangerous...*
+>- Anyone could change the code to introduce vulnerabilities**
+>- There's no company to support it, there's no way to fix security vulnerabilities***
+
+Note:
+
+- \* Two key things to remember:
+  - State sponsored actors and malevolent hackers have swath of tools to scan for known vulnerabilities and common programming flaws
+- \*\* Remember that software is not the source code! (Three degrees of separation)
+  - Source code must be translated
+  - The software needs to be installed
+  - The process needs to be launched
+- \*\*\* That's actually not true
+  - Mature and well maintained OSS project actually provide patches more often than many proprietary counterparts
+  - You could even fix the issue yourself and submit it to the project maintainers
+  - Some OSS are actually released **by** companies
+
+--
+
+### Safety
+
+- Automated code scanning
+  - Common programming flaws
+  - Known vulnerabilities
+  - Legal compliance
+  - Organization policy application
+- Security best practices
+  - Patch known vulnerabilities**
+  - Access management
+  - Secrets management (never in source code)
+- Certified code signature to ensure authenticity
 
 Note:
 
@@ -383,88 +518,61 @@ Note:
 
 --
 
-### Resources
+### Modern services
 
-- MITRE's [Common Vulnerabilities and Exposures (CVE)](https://cve.mitre.org/)
-- [U.S. National Vulnerability Database (NVD)](https://nvd.nist.gov/)
+Private companies now offer:
 
---
+- Source code security analysis
+- Asset management for OSS
+  - Security and legal compliance
+  - Internal policy enforcement
+- Certified open source components (version, source, warranties, etc.)
 
-### Tools
+Note:
 
 - FOSSA
 - JFrog X-Ray
 - Sonatype
 - Synopsys
-- Many others
-
----
-
-## Be Compliant
-
-- Know your dependencies
-- Comply with T&Cs of the licences
+- Whitesource
+- Many, many more
 
 --
 
-### Rights and Responsibilities
+### Public Resources
 
-Inbound vs Outbound
-
---
-
-The terms and conditions under which you will be distributing your software must not exceed the terms and conditions associated with the licences of the software you will be using in your project.
-
-> "Say what?"
-
---
-
-### Project distribution
-
-Within GC departments != Distribution
-
-But
-
-An external website will be considered distribution under certain licences
-
---
-
-![software architecture](assets/images/intro-oss-soft-arch.png)
-
---
-
-![due diligence](assets/images/due-diligence.png)
-
-Heather Meeker, _Open (Source) for Business: A Practical Guide to Open Source Software Licensing_, 51-56.
-
---
-
-![non compliant example](assets/images/apache2-gpl-error.png)
-
-Heather Meeker, _Open (Source) for Business: A Practical Guide to Open Source Software Licensing_, 51-56.
-
---
-
-![compliant example](assets/images/apache2-gpl-ok.png)
-
-Heather Meeker, _Open (Source) for Business: A Practical Guide to Open Source Software Licensing_, 51-56.
-
---
-
-[Guide for Using Open Source Software](https://canada-ca.github.io/open-source-logiciel-libre/en/guides/using-open-source-software.html)
-
-[Use Open Source Software Without Modification](https://canada-ca.github.io/open-source-logiciel-libre/en/guides/using-open-source-software.html#use-open-source-software-without-modification)
-
-[Use Open Source Software With Modifications](https://canada-ca.github.io/open-source-logiciel-libre/en/guides/using-open-source-software.html#use-open-source-software-with-modifications)
-
---
-
-[Don’t Fork Open Source Software](https://canada-ca.github.io/open-source-logiciel-libre/en/guides/using-open-source-software.html#dont-fork-open-source-software)
-
-> Where possible, use open source software without modification or contribute them back.
+- MITRE's [Common Vulnerabilities and Exposures (CVE)](https://cve.mitre.org/)
+- [U.S. National Vulnerability Database (NVD)](https://nvd.nist.gov/)
 
 Note:
 
-More to be discussed in Contributing to a 3rd party project
+Security vulnerabilities and their fixes are continuously published
 
-<!--markdownlint-enable MD035-->
+---
+
+### How do we get Open Source Software
+
+By using:
+
+- Package Managers
+  - NPM, Anaconda, Maven, CocoaPods, RubyGems, etc.
+- Frameworks
+  - Bootstrap, Spring, React.js, Spark, Django, .NET, etc.
+- Social Coding Platforms
+  - GitHub, GitLab, BitBucket, GCcode*
+- Internet
+  - Projects' website provide documentation and download options
+- Companies
+  - Procurement process for a solution
+  - Software as a service
+
+--
+
+## Social Coding Platforms
+
+Micro-acquisition aims to leverage these platforms
+
+- Work in the open by default
+- Provides many security and compliance features
+- Helps community build around projects
+- Opportunities for outsiders to speed up understanding of the code
