@@ -2,10 +2,10 @@
 layout: post
 title:  "Pleins feux sur le FWD50"
 ref: FWD50-2020
-lang: FR
+lang: fr
 author: "Rachel Muston et Guillaume Charest en collaboration avec l'équipe de Stratégie TI"
 date: "2020-11-27"
-excerpt: "Le a été très différent cette année. But, there was still a lot of passion and will from participants to continuously improve government!"
+excerpt: "Le FWD50 a été très différent cette année. Mais il y avait encore beaucoup de passion et de volonté de la part des participants pour améliorer continuellement le gouvernement ! Ce billet de blog présente quelques-unes des technologies utilisées pour réunir les participants de FWD50 ainsi que le contenu de FWD50 qui a été mis à disposition par les présentateurs et les participants."
 ---
 <!--markdownlint-disable MD033-->
 Le [FWD50](https://fwd50.com/) a été très différent cette année.
@@ -28,8 +28,7 @@ La bonne nouvelle, c’est que même s’il fallait payer son billet pour assist
 Certains conférenciers ont rendu leur présentation ou les détails de leur présentation accessibles à tous :
 
 - [Pia Andrews](https://twitter.com/piacandrews?lang=en) ‒ [Le paradoxe de la crise en matière de leadership : équilibrer l’urgence et l’importance](https://t.co/RELqF74GgK?amp=1).
-- [Honey Dacanay](https://twitter.com/honeygolightly?lang=en) ‒ sa partie de l’atelier « Deliver at the Speed of Need » intitulée [« Enabling conditions, not just heroics »](https://t.co/a7u53IwYqs) est disponible sur son blogue.
-- Également dans le cadre de l’atelier « Delivering at the Speed of Need », la panéliste [Katy Lalonde](https://twitter.com/katylalonde) a résumé sa présentation dans ce [fil de discussion](https://twitter.com/katylalonde/status/1324010162798120962) :
+- Les panelistes [Katherine Benjamin](https://twitter.com/mskatiebenjamin), [Honey Dacanay](https://twitter.com/honeygolightly?lang=en), et [Katy Lalonde](https://twitter.com/katylalonde) ont fait un [cheat sheet](https://docs.google.com/presentation/d/1gL57LdKFFZOm5ngL1HqHubzzG80aLewDcJY8hTDqsaQ/edit#slide=id.p) de nos atelier « Delivering at the Speed of Need » librement accessible. Également de cet atelier, Honey Dacanay a partagé sa présentation «[Enabling conditions, not just heroics](https://t.co/a7u53IwYqs) sur son blogue et Katy Lalonde a résumé sa présentation dans ce [fil de discussion](https://twitter.com/katylalonde/status/1324010162798120962).
 - La présentation de Simon Wardley dans le cadre de FWD50 n’a pas été rendue publique, mais bon nombre de [ses présentations](https://wardley-maps-community.github.io/awesome-wardley-maps/) sont librement accessibles, tout comme son livre intitulé [*Wardley maps :* *The use of topographical intelligence in business strategy*](https://medium.com/wardleymaps/on-being-lost-2ef5f05eb1ec). Il a également partagé un lien menant à un [générateur de stratégies](http://strategy-madlibs.herokuapp.com/) aléatoires (dont le code figure sur GitHub) qui nous a bien fait rigoler au sein de l’équipe des stratégies de TI, car chaque actualisation permet de générer une stratégie au nom totalement insensé.
 - [Ann-Marie Cavanagh](https://fwd50.com/fr/speaker/ann-marie-cavanagh/), que vous pouvez suivre sur [Twitter](https://twitter.com/amqcs), est dirigeante déléguée du bureau numérique du gouvernement et directrice générale déléguée des services publics numériques en Nouvelle-Zélande. Elle a abordé la question de la [stratégie numérique](https://www.digital.govt.nz/digital-government/strategy/strategy-summary/strategy-for-a-digital-public-service/) et du [cadre des résultats en matière d’inclusion numérique](https://www.digital.govt.nz/dmsdocument/167~digital-inclusion-outcomes-framework/html) de son gouvernement pendant son exposé sur la COVID-19 et la reprise économique intitulé « COVID-19 and Economic Recovery : New Zealand’s lessons learnt on digital inclusion and resilience. »
 
@@ -71,4 +70,3 @@ Enfin, comme c’est toujours le cas au FWD50, il est impossible de conclure l�
 - [Denise Williams](https://twitter.com/quwutsunn?lang=en) a partagé de l’information sur l’important travail effectué par le [First Nations Technology Council](https://technologycouncil.ca/) et ses programmes d’éducation qui permettent aux communautés autochtones d’utiliser pleinement la technologie et de faire en sorte que les Autochtones participent activement au secteur des technologies.
 - [Julia Glidden](https://twitter.com/JuliaGlidden), de Microsoft, nous a expliqué que plusieurs des concepts qui émergent depuis peu au gouvernement sont des concepts qu’elle et ses pairs essayaient de promouvoir il y a plus de dix ans!
 - Notre propre ministre du Gouvernement numérique, l’[honorable Joyce Murray](https://twitter.com/JoyceMurray), a livré une [allocution](https://player.vimeo.com/video/473572261#t=35m) réfléchie et nous a encouragés à poursuivre notre cheminement vers un gouvernement véritablement numérique en misant sur l’expérience essentielle acquise durant la pandémie de COVID-19.
-- [Katherine Benjamin](https://twitter.com/mskatiebenjamin), DPT déléguée des Services numériques \[@NYC\_CTO\](https://twitter.com/NYC\_CTO), faisait partie de l’équipe qui a livré l’excellent atelier intitulé « Delivering at the Speed of Need ». Elle s’est également jointe, à titre de conférencière, à une discussion de groupe très animée intitulée « Can the Platform be of Service? ».
