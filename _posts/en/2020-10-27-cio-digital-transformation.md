@@ -25,7 +25,7 @@ th {
 img + em { display: inline-block; }
 </style>
 
-In this blog, we suggest that Chief Information Officers (CIOs) and Chief Financial Officers (CFOs) are essential in bring a Digital Transformation vision into a reality.
+In this blog, we suggest that Chief Information Officers (CIOs) and Chief Financial Officers (CFOs) are essential to bring a Digital Transformation vision into a reality.
 Although Digital Transformation deals a lot with changing business operations, if technology releases are not able to push through, that vision will remain a dream and will not manifest itself.
 We will show how critical CFOs are in allowing technology to respond faster to continuous business changes, and how Cloud and DevOps are opportunities that cannot be overlooked.
 
@@ -35,7 +35,7 @@ _Note: This blog will link to internal ESDC documents, which are unfortunately o
 
 ## What Digital Transformation Entails
 
-On April 1, 2020, [Treasury Board's (TB) Policy on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603) came into effect which serves "_as an integrated set of rules that articulate how Government of Canada organizations manage service delivery, information and data, information technology, and cyber security in the digital era_."
+On April 1, 2020, [Treasury Board's (TB) Policy on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603) came into effect, which serves "_as an integrated set of rules that articulate how Government of Canada organizations manage service delivery, information and data, information technology, and cyber security in the digital era_."
 The Policy supports the [mandate of the Minister for Digital Government](https://pm.gc.ca/en/mandate-letters/2019/12/13/minister-digital-government-mandate-letter) and is guided by a commitment to the guiding principles and best practices of the [Government of Canada Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html).
 
 As the Policy's requirements target Deputy Heads, we look at its associated [Directive](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601) for requirements targeting the senior officials designated to be responsible for leading particular functions (i.e., IM/IT, Service, and Cyber Security).
@@ -67,8 +67,9 @@ Here are some statistics the IT Strategy team did ([link to source data](/assets
 With such a focus on CIOs and CDOs, TB formally recognizes the **ubiquitous nature of technology in delivering services** to Canadians.
 Because CIOs and CDOs are accountable for such a large number of requirements, we claim they also need to be in a position to determine _how_ technology investments are to be managed (a domain historically attributed to CFOs).
 **Elected officials** now recognize that technology is at the core of service delivery.
-This means that in order for policy-makers to affect Canadians, they will need to go through technology delivery.
-If technology is not responsive enough, the lag between Policy making and service delivery will directly impact the ability of departments to fulfill their mandates (which did happen in the past and made [front-page news](https://www.cbc.ca/news/politics/federal-it-systems-critical-failure-1.5448871)).Policy makers looking for data to inform their evidence-based decisions (i.e., user feedback loops) will be stored in databases, managed by software.
+This means that in order for policy makers to affect Canadians, they will need to go through technology delivery.
+If technology is not responsive enough, the lag between policy making and service delivery will directly impact the ability of departments to fulfill their mandates (which did happen in the past and made [front-page news](https://www.cbc.ca/news/politics/federal-it-systems-critical-failure-1.5448871)).
+Policy makers looking for data to inform their evidence-based decisions (i.e., user feedback loops) will be stored in databases, managed by software.
 
 At ESDC, we find the above explanation articulated as the [Business Delivery Modernization's (BDM) 2nd main objective: Policy Agility](http://blogs-blogues.prv/ntn-bnt/bdm-not-just-another-acronym-its-an-initiative-transforming-service-delivery-as-we-know-it/).
 
@@ -79,7 +80,7 @@ At ESDC, we find the above explanation articulated as the [Business Delivery Mod
         style="width: 500px; height: inherit;"
         />
     </a>
-    <small>Figure 1. The feedback loop policy-makers need pass through technology</small>
+    <small>Figure 1. The feedback loop policy makers need pass through technology</small>
 </div>
 
 We want to look at this relationship with technology closer, and how things have changed in the last few years that present new opportunities for us (hint: [we'll be talking Cloud and DevOps](https://youtu.be/2BM0xYfcexY?t=584)).
