@@ -110,6 +110,9 @@
    },
    {
      "pattern": "https://www.udemy.com"
+   },
+   {
+     "pattern": "http://blogs-blogues.prv"
    }
   ]
 }

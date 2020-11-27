@@ -19,6 +19,8 @@
     "charest",
     "admo",
     "freeplane",
+    "favor",
+    "parallelization",
     "elsevier",
     "biech",
     "elgg",
@@ -478,9 +480,18 @@
     "Dacanay",
     "Dacanay's",
     "panelist",
-    "DCTO"
-
-
+    "DCTO",
+    "codebases",
+    "incrementality",
+    "BDM",
+    "ICAAD",
+    "Reqs",
+    "Orchestrators",
+    "Labor",
+    "Miramichi",
+    "CDO",
+    "CDOs",
+    "Mgmt"
   ],
   "flagWords": [],
   "import": [
