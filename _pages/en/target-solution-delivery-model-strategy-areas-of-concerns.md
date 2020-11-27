@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Target IT Solution Delivery Model Strategy - Outstanding feedbacks 
+title: Target IT Solution Delivery Model Strategy - Outstanding feedback 
 ref: target-solution-delivery-model-strategy-explained-areas-of-concerns
 lang: en
 status: posted
@@ -22,7 +22,7 @@ th {
 }
 </style>
 
-**The Strategy:** [see here for the strategy](strategy-target-solution-delivery-model.html) that these feedbacks refers to.
+**The Strategy:** [see here for the strategy](strategy-target-solution-delivery-model.html) that the feedback refers to.
 
 This document will be updated throughout the elaboration of the above strategy.
 
@@ -56,7 +56,7 @@ This document will be updated throughout the elaboration of the above strategy.
 
 ## 1. Document Purpose
 
-To document outstanding feedbacks raised during the elaboration (peer reviewing) of the Target IT Solution Delivery Model Strategy.
+To document outstanding feedback raised during the elaboration (peer reviewing) of the Target IT Solution Delivery Model Strategy.
 
 Why?
 
