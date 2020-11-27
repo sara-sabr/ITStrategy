@@ -40,7 +40,7 @@ Some articles and other documents/tools that were shared by speakers include:
 - Article from the Bennett Institute: [New research identifies effective international cooperation for digital governance](https://www.bennettinstitute.cam.ac.uk/news/new-research-identifies-effective-international-co/)
 - Article from the Harvard Business Review: [Curiosity Is as Important as Intelligence](https://hbr.org/2014/08/curiosity-is-as-important-as-intelligence)
 - Amazon's listing of open code: [Open Government Solutions](https://aws.amazon.com/government-education/government/open-government-solutions/).  (which seems not dissimilar to the Government of Canada's [Open Resource Exchange](https://code.open.canada.ca/en/index.html))
-- [Ramy Nasser](https://twitter.com/ramynassar) and [Rebecca Kain](https://twitter.com/rebeccalkain) referenced the [Intelligence Augmentation Design Toolkit](https://futurice.com/ia-design-kit) in their workshop on Creating Resident-Centric AI Solutions Using Design Thinking.
+- [Ramy Nassar](https://twitter.com/ramynassar) and [Rebecca Kain](https://twitter.com/rebeccalkain) referenced the [Intelligence Augmentation Design Toolkit](https://futurice.com/ia-design-kit) in their workshop on Creating Resident-Centric AI Solutions Using Design Thinking.
 - The [Pubic Sector Network](https://publicsectornetwork.co/) is a social learning platform that exists to help government around the globe break down silos, collaborate, and work together for better outcomes for citizens.
 
 There were many people who were live-tweeting the event under the [#FWD50](https://twitter.com/search?q=(%23FWD50)%20since%3A2020-11-03&src=typed_query) hashtag. But if going through all of those tweets feels overwhelming, then there were some standout live tweeters who's FWD50 feeds are worth checking out:
@@ -57,7 +57,7 @@ There were many people who were live-tweeting the event under the [#FWD50](https
 
 *Note: There many others out there so feel free to let us know of them so that we can update the list!*
 
-In addition to live tweeting, Sean Boots recently published a great blog post with reflections on his FWD50 experience called [Government is actually a big tech company, they just don’t know it yet](https://sboots.ca/2020/11/16/government-is-actually-a-big-tech-company/).
+In addition to live tweeting, Sean Boots recently published a great blog post with reflections on his FWD50 experience called [Government is actually a big tech company, they just don't know it yet](https://sboots.ca/2020/11/16/government-is-actually-a-big-tech-company/).
 
 While the videos from the 2020 FWD50 sessions are not freely available, the FWD50 team has a YouTube page which includes some great free content such as:
 
