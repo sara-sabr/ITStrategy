@@ -35,7 +35,8 @@ Il a également partagé un lien menant à un [générateur de stratégies](http
 - [Ann-Marie Cavanagh](https://fwd50.com/fr/speaker/ann-marie-cavanagh/), que vous pouvez suivre sur [Twitter](https://twitter.com/amqcs), est dirigeante déléguée du bureau numérique du gouvernement et directrice générale déléguée des services publics numériques en Nouvelle-Zélande.
 Elle a abordé la question de la [stratégie numérique](https://www.digital.govt.nz/digital-government/strategy/strategy-summary/strategy-for-a-digital-public-service/) et du [cadre des résultats en matière d’inclusion numérique](https://www.digital.govt.nz/dmsdocument/167~digital-inclusion-outcomes-framework/html) de son gouvernement pendant son exposé sur la COVID-19 et la reprise économique intitulé « COVID-19 and Economic Recovery : New Zealand's lessons learnt on digital inclusion and resilience. »
 
-Dans un excellent exemple de communauté travaillant ouvertement, un document Google a été créé spontanément par un participant de FWD50 afin de recenser tous les livres mentionnés par les conférenciers. Cette [liste de livres](https://docs.google.com/document/d/1Kyq80aMy_a6wnOdaHgzYLqSaqKfmjMmBdDnXKy6N4YQ/edit#heading=h.kr7a4cpsy27s) a été communiquée à tous les participants et n’importe qui pouvait y faire des ajouts.
+Dans un excellent exemple de communauté travaillant ouvertement, un document Google a été créé spontanément par un participant de FWD50 afin de recenser tous les livres mentionnés par les conférenciers
+Cette [liste de livres](https://docs.google.com/document/d/1Kyq80aMy_a6wnOdaHgzYLqSaqKfmjMmBdDnXKy6N4YQ/edit#heading=h.kr7a4cpsy27s) a été communiquée à tous les participants et n’importe qui pouvait y faire des ajouts.
 
 Voici certains articles et autres documents/outils qui ont été mentionnés par les conférenciers :
 
@@ -64,12 +65,15 @@ En plus de ses gazouillis en direct, Sean Boots a récemment publié un excellen
 
 Bien que les vidéos des séances du FWD50 2020 ne soient pas disponibles gratuitement, l’équipe du FWD50 dispose d’une page YouTube offrant du contenu gratuit intéressant, notamment :
 
-- Une série de vidéos réalisée en partenariat avec l’École de la fonction publique du Canada intitulée [« FWDThinking »](https://www.youtube.com/playlist?list=PLHorZlq6n3CHYJKzyGU51l0-GHWuZ2Khg). Ces vidéos mettent en vedette des fonctionnaires, des décideurs et des technologues reconnus mondialement dans le secteur des gouvernements numériques.
+- Une série de vidéos réalisée en partenariat avec l’École de la fonction publique du Canada intitulée [« FWDThinking »](https://www.youtube.com/playlist?list=PLHorZlq6n3CHYJKzyGU51l0-GHWuZ2Khg).
+Ces vidéos mettent en vedette des fonctionnaires, des décideurs et des technologues reconnus mondialement dans le secteur des gouvernements numériques.
 - [Innovations de l’industrie](https://www.youtube.com/playlist?list=PLHorZlq6n3CEMaLSfzjldgoAOATYw5zQ0), une série de séances en petits groupes, de conversations informelles et d’études de cas du secteur privé.
 
-Enfin, comme c’est toujours le cas au FWD50, il est impossible de conclure l’événement sans trouver de nouvelles personnes intéressantes à suivre. En plus des présentateurs susmentionnés, voici certains de nos nouveaux coups de cœur :
+Enfin, comme c’est toujours le cas au FWD50, il est impossible de conclure l’événement sans trouver de nouvelles personnes intéressantes à suivre.
+En plus des présentateurs susmentionnés, voici certains de nos nouveaux coups de cœur :
 
-- [Yin Yin Lu](https://twitter.com/Yinneth), docteure en rhétorique autoproclamée, a expliqué à l’auditoire que la science des communications pourrait très bien être plus importante que la science politique. Elle était amusante, pleine d’esprit et très affable avec les participants!
+- [Yin Yin Lu](https://twitter.com/Yinneth), docteure en rhétorique autoproclamée, a expliqué à l’auditoire que la science des communications pourrait très bien être plus importante que la science politique.
+Elle était amusante, pleine d’esprit et très affable avec les participants!
 - [Denise Williams](https://twitter.com/quwutsunn?lang=en) a partagé de l’information sur l’important travail effectué par le [First Nations Technology Council](https://technologycouncil.ca/) et ses programmes d’éducation qui permettent aux communautés autochtones d’utiliser pleinement la technologie et de faire en sorte que les Autochtones participent activement au secteur des technologies.
 - [Julia Glidden](https://twitter.com/JuliaGlidden), de Microsoft, nous a expliqué que plusieurs des concepts qui émergent depuis peu au gouvernement sont des concepts qu’elle et ses pairs essayaient de promouvoir il y a plus de dix ans!
 - Notre propre ministre du Gouvernement numérique, l’[honorable Joyce Murray](https://twitter.com/JoyceMurray), a livré une [allocution](https://player.vimeo.com/video/473572261#t=35m) réfléchie et nous a encouragés à poursuivre notre cheminement vers un gouvernement véritablement numérique en misant sur l’expérience essentielle acquise durant la pandémie de COVID-19.
