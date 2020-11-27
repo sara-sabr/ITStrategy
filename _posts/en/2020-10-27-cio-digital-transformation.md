@@ -9,7 +9,7 @@ last_modified: "2020-11-25"
 excerpt_separator: <!--more-->
 ---
 <!-- markdownlint-disable MD033 -->
-<!-- the below cSpell statement says to ignore any text between HTML tags. E.g. it will ignore "th rowspan='2'" in this string: <th rowspan='2'> -->
+<!-- the below cSpell statement says to ignore any text between HTML tags. e.g., it will ignore "th rowspan='2'" in this string: <th rowspan='2'> -->
 <!-- cSpell:ignoreRegExp /\<[^\>]+\>/ -->
 <!-- The img + em {} stylecheet selector is a hack to add caption to an image in markdown without using plugin: https://stackoverflow.com/questions/19331362/using-an-image-caption-in-markdown-jekyll -->
 
@@ -35,10 +35,10 @@ _Note: This blog will link to internal ESDC documents, which are unfortunately o
 
 ## What Digital Transformation Entails
 
-On April 1, 2020, [Treasury Board's (TB) Policy on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603) came into effect which serves "_as an integrated set of rules that articulate how Government of Canada organizations manage service delivery, information and data, information technology, and cyber security in the digital era_".
+On April 1, 2020, [Treasury Board's (TB) Policy on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603) came into effect which serves "_as an integrated set of rules that articulate how Government of Canada organizations manage service delivery, information and data, information technology, and cyber security in the digital era_."
 The Policy supports the [mandate of the Minister for Digital Government](https://pm.gc.ca/en/mandate-letters/2019/12/13/minister-digital-government-mandate-letter) and is guided by a commitment to the guiding principles and best practices of the [Government of Canada Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html).
 
-As the Policy's requirements target Deputy Heads, we look at its associated [Directive](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601) for requirements targeting the senior officials designated to be responsible for leading particular functions (i.e. IM/IT, Service, and Cyber Security).
+As the Policy's requirements target Deputy Heads, we look at its associated [Directive](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601) for requirements targeting the senior officials designated to be responsible for leading particular functions (i.e., IM/IT, Service, and Cyber Security).
 Here are some statistics the IT Strategy team did ([link to source data](/assets/files/Policy_on_service_and_digital_analysis.xlsx)):
 
 <table>
@@ -67,8 +67,8 @@ Here are some statistics the IT Strategy team did ([link to source data](/assets
 With such a focus on CIOs and CDOs, TB formally recognizes the **ubiquitous nature of technology in delivering services** to Canadians.
 Because CIOs and CDOs are accountable for such a large number of requirements, we claim they also need to be in a position to determine _how_ technology investments are to be managed (a domain historically attributed to CFOs).
 **Elected officials** now recognize that technology is at the core of service delivery.
-This means that in order for policy makers to affect Canadians, they will need to go through technology delivery.
-If technology is not responsive enough, the lag between Policy making and service delivery will directly impact the ability of departments to fulfill their mandates (which did happened in the past and made [front-page news](https://www.cbc.ca/news/politics/federal-it-systems-critical-failure-1.5448871)).Policy makers looking for data to inform their evidence-based decisions (i.e. user feedback loops) will be stored in databases, managed by software.
+This means that in order for policy-makers to affect Canadians, they will need to go through technology delivery.
+If technology is not responsive enough, the lag between Policy making and service delivery will directly impact the ability of departments to fulfill their mandates (which did happen in the past and made [front-page news](https://www.cbc.ca/news/politics/federal-it-systems-critical-failure-1.5448871)).Policy makers looking for data to inform their evidence-based decisions (i.e., user feedback loops) will be stored in databases, managed by software.
 
 At ESDC, we find the above explanation articulated as the [Business Delivery Modernization's (BDM) 2nd main objective: Policy Agility](http://blogs-blogues.prv/ntn-bnt/bdm-not-just-another-acronym-its-an-initiative-transforming-service-delivery-as-we-know-it/).
 
@@ -79,17 +79,17 @@ At ESDC, we find the above explanation articulated as the [Business Delivery Mod
         style="width: 500px; height: inherit;"
         />
     </a>
-    <small>Figure 1. The feedback loop policy makers need pass through technology</small>
+    <small>Figure 1. The feedback loop policy-makers need pass through technology</small>
 </div>
 
-We want to look at this relationship with technology closer, and how things have changed in the last few years that presents new opportunities for us (hint: [we'll be talking Cloud and DevOps](https://youtu.be/2BM0xYfcexY?t=584)).
+We want to look at this relationship with technology closer, and how things have changed in the last few years that present new opportunities for us (hint: [we'll be talking Cloud and DevOps](https://youtu.be/2BM0xYfcexY?t=584)).
 
 ## How Are We Managing Technology Investments
 
 Using technology is a risky and costly investment.
 
-**CFOs** look at the [TB Policy on Planning and Management of Investments](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32593) to establish investment management governance "_to ensure that these activities provide value for money and demonstrate sound stewardship in program delivery_".
-The Policy's associated [Directive on the Management of Projects and Programmes](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32594) is where we find the notorious project gating process "_so that the expected benefits and results are realized for Canadians_".
+**CFOs** look at the [TB Policy on Planning and Management of Investments](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32593) to establish investment management governance "_to ensure that these activities provide value for money and demonstrate sound stewardship in program delivery_."
+The Policy's associated [Directive on the Management of Projects and Programmes](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32594) is where we find the notorious project gating process "_so that the expected benefits and results are realized for Canadians_."
 
 We narrow the goals of these financial policy instruments to two main ones:
 
@@ -107,7 +107,7 @@ If a client changed her mind during this execution phase, the impact to the proj
 <div style="display: block; width: inherit; text-align: center; line-height: 3;">
     <a href="/ITStrategy/assets/images/digital_feedback_loop.png" style="display: block">
         <img src = "{{ site.baseurl }}/assets/images/pmlc_current_model.png"
-        alt = "This image depicts a the current Project Management Lifecycle. It shows 4 steps (Inception, Planning, Execution, and Closure). Each of the steps are in sequence where, to start the Execution step, we are expected to finish the Planning step. At each step, there is an increasing amount of documentations being produced and stakeholders involved. Culminating to the Execution step where IT personnel are to execute and make the software changes. The client is shown at the beginning and at the end of the process, but not in the middle of it."
+        alt = "This image depicts the current Project Management Lifecycle. It shows 4 steps (Inception, Planning, Execution, and Closure). Each of the steps is in sequence where, to start the Execution step, we are expected to finish the Planning step. At each step, there is an increasing amount of documentation being produced and stakeholders involved. Culminating to the Execution step where IT personnel are to execute and make the software changes. The client is shown at the beginning and at the end of the process, but not in the middle of it."
         style="width: 700px; height: inherit;"
         />
     </a>
@@ -140,7 +140,7 @@ A predictable world rewards advanced planning and rigid plan execution.
 But a complex and uncertain world rewards an empirical cycle of trying, observing, and correcting.[^3]
 
 New methods of developing software are made available, mainly [Cloud and DevOps](https://youtu.be/2BM0xYfcexY?t=940), that warrants us adjusting our investment management methods.
-With Cloud and DevOps, the time consuming efforts of procuring servers, coding, testing, and releasing to production mentioned above are dramatically reduced.
+With Cloud and DevOps, the time-consuming efforts of procuring servers, coding, testing, and releasing to production mentioned above are dramatically reduced.
 An opportunity exists to leverage this speed, try things out before we commit to them, and more accurately inform planning decisions.
 
 The conventional sequential thinking of planning, then executing, changes to one that is cyclical.
@@ -149,7 +149,7 @@ Planning and Execution become symbiotic where both inform each other over smalle
 <div style="display: block; width: inherit; text-align: center; line-height: 3;">
     <a href="/ITStrategy/assets/images/digital_feedback_loop.png" style="display: block">
         <img src = "{{ site.baseurl }}/assets/images/pmlc_with_product_management.png"
-        alt = "This image the Project Management Lifecycle adaptaed for Product Management. It shows 3 steps (Inception, Planning + Execution, and Closure). The difference with the previous picture is that the Planning and Execution stage work together. There is a client at the beginning of the Planning stage communicating with two Product Owners. This client acts as a project sponsor that is communicating changes to two Product Owners. Each of the Product Owners then work with their product team members to prioritize work over a series of iterations. In the diagram, the first product has 3 iterations in the course of 18 months, while the second product has two. The diagram communicates that the clients is heavily involved during both planning and execution of the project, as well as being able to have production ready software throughout the 18 months journey."
+        alt = "This image is the Project Management Lifecycle adapted for Product Management. It shows 3 steps (Inception, Planning + Execution, and Closure). The difference with the previous picture is that the Planning and Execution stage work together. There is a client at the beginning of the Planning stage communicating with two Product Owners. This client acts as a project sponsor that is communicating changes to two Product Owners. Each of the Product Owners then works with their product team members to prioritize work over a series of iterations. In the diagram, the first product has 3 iterations in the course of 18 months, while the second product has two. The diagram communicates that the client is heavily involved during both planning and execution of the project, as well as being able to have production ready software throughout the 18-month journey."
         style="width: 700px; height: inherit;"
         />
     </a>
@@ -171,7 +171,7 @@ These fast Product iterations are enabled by DevOps (powered by cloud technologi
 <div style="display: block; width: inherit; text-align: center; line-height: 3;">
     <a href="/ITStrategy/assets/images/digital_feedback_loop.png" style="display: block">
         <img src = "{{ site.baseurl }}/assets/images/product_management_with_devops.png"
-        alt = "This image expands the view of Product Management shown in the previous image. We see the Product Owner and the Product team on the left side, and a series of pipeline on the right side. The pipeline is showing a series of steps necessary for software production (version control, build, unit testing, deployment, auto testing, deployment nto production, and monitoring). At each of those steps, we see a pipe coming out of it and going back to the beginning. This shows a potential exit path for the Product Team that includes new information. Around the pipeline, we have the other IT Personnel involved like Quality Assurance, Accessibility, and IT Security that may not be members of the product team per say, but add their controls into the DevOps pipeline using scripts."
+        alt = "This image expands the view of Product Management shown in the previous image. We see the Product Owner and the Product team on the left side, and a series of pipeline on the right side. The pipeline is showing a series of steps necessary for software production (version control, build, unit testing, deployment, auto testing, deployment to production, and monitoring). At each of those steps, we see a pipe coming out of it and going back to the beginning. This shows a potential exit path for the Product Team that includes new information. Around the pipeline, we have the other IT Personnel involved like Quality Assurance, Accessibility, and IT Security that may not be members of the product team per se, but add their controls into the DevOps pipeline using scripts."
         style="width: 500px; height: inherit;"
         />
     </a>
@@ -179,7 +179,7 @@ These fast Product iterations are enabled by DevOps (powered by cloud technologi
 </div>
 
 This opportunity is available should we first understand how different software is from other types of investments.
-Mainly that software consists of an assemblage of many components[^5], each potentially able to work independently from each other, and that provide services to one another (we then start seeing that **machines are also users**).
+Mainly that software consists of an assemblage of many components[^5], each potentially able to work independently from each other, and that provides services to one another (we then start seeing that **machines are also users**).
 Breaking large IT Solutions into more manageable parts (whether called IT Products or Applications, sometimes [compared to Lego blocks](https://youtu.be/g-h6CtSwk30?t=212)) means work can start by multiple teams without the need to have figured out the whole puzzle in advance or how to solve the problem in one single piece.
 If you heard the term "[Monolith](https://medium.com/koderlabs/introduction-to-monolithic-architecture-and-microservices-architecture-b211a5955c63)", it's what we strive to move away from as they impede our ability to respond fast and are too often the cause of project collisions.
 
