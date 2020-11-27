@@ -69,7 +69,7 @@ Because CIOs and CDOs are accountable for such a large number of requirements, w
 **Elected officials** now recognize that technology is at the core of service delivery.
 This means that in order for policy makers to affect Canadians, they will need to go through technology delivery.
 If technology is not responsive enough, the lag between policy making and service delivery will directly impact the ability of departments to fulfill their mandates (which did happen in the past and made [front-page news](https://www.cbc.ca/news/politics/federal-it-systems-critical-failure-1.5448871)).
-Policy makers looking for data to inform their evidence-based decisions (i.e., user feedback loops) will be stored in databases, managed by software.
+Policy makers looking for data to inform their evidence-based decisions (i.e., user feedback loops) will find it stored in databases, managed by software.
 
 At ESDC, we find the above explanation articulated as the [Business Delivery Modernization's (BDM) 2<sup>nd</sup> main objective: Policy Agility](http://blogs-blogues.prv/ntn-bnt/bdm-not-just-another-acronym-its-an-initiative-transforming-service-delivery-as-we-know-it/).
 
