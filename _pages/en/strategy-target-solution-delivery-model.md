@@ -24,7 +24,7 @@ img + em { display: inline-block; }
 </style>
 
 <div class="alert alert-warning">
-  <strong>This is a DRAFT strategy</strong>. <a href="target-solution-delivery-model-strategy-areas-of-concerns.html">Concerns have been raised</a> by stakeholders as part of the peer review process and are being looked at.
+  <strong>This is a DRAFT strategy</strong>. It is currently in the peer review process. As <a href="target-solution-delivery-model-strategy-areas-of-concerns.html">feedback comes in</a> the strategy will be updated accordingly.
 </div>
 
 _Note 1: Its authoritative source and latest version of this Strategy is on [ESDC's internal network](https://014gc.sharepoint.com/sites/TargetITSolutionDeliveryModel)_
