@@ -119,6 +119,9 @@
    },
    {
      "pattern": "https://gccollab.ca"
+   },
+   {
+     "pattern": "http://opo-boa.gc.ca"
    }
   ]
 }
