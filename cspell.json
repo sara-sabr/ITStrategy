@@ -453,6 +453,9 @@
     "GC",
     "blogs",
     "TSDM",
+    "CFOs",
+    "Reqs",
+    "RFPs",
     "codebases",
     "incrementality",
     "BDM",
@@ -464,7 +467,13 @@
     "Dacanay",
     "CDO",
     "CDOs",
-    "Mgmt"
+    "Mgmt",
+    "incentivized",
+    "DPIs",
+    "DPFs",
+    "extrants",
+    "Lorsqu'un",
+    "d'ensemble"
   ],
   "flagWords": [],
   "import": [
