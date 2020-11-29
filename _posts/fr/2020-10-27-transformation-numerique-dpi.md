@@ -25,7 +25,7 @@ th {
 img + em { display: inline-block; }
 </style>
 
-Dans ce blogue, nous suggérons que les dirigeant principaux de l’information (DPI) et les dirigeants principaux des finances (DPF) sont essentiels pour amener une vision de transformation numérique en réalité.
+Dans ce blogue, nous suggérons que les dirigeant principaux de l’information (DPI) et les dirigeants principaux des finances (DPF) sont essentiels pour amener une vision de transformation numérique en une réalité.
 Bien que la transformation numérique affecte de beaucoup les opérations d'affaires, si les changements technologiques ne peuvent se produire, cette vision ne restera qu'un rêve et ne se manifestera pas.
 Nous montrerons à quel point les DPF sont essentiels pour permettre à la technologie de répondre plus rapidement aux changements continus de l'entreprise, et comment l'infonuagique et DevOps sont des opportunités qui ne peuvent pas être négligées.
 
@@ -64,155 +64,158 @@ Voici quelques statistiques réalisées par l'équipe de la stratégie TI ([lien
     <td>74</td>
   </tr>
 </table>
-&ast; Dirigeante principale des données
+&#42; Dirigeante principale des données
 
 En mettant ainsi l'accent sur les DPI et les DPD, le CT reconnaît officiellement la **nature omniprésente de la technologie dans la prestation de services** aux Canadiens.
 Étant donné que les DPI et les DPD sont responsables d'un si grand nombre d'exigences, nous affirmons qu'ils doivent également être en mesure de déterminer _comment_ les investissements technologiques doivent être gérés (un domaine historiquement attribué aux DPF).
+
 **Les élus** reconnaissent maintenant que la technologie est au cœur de la prestation de services.
 Cela signifie que pour que les décideurs politiques aient un impact sur les Canadiens, ils devront passer par la prestation de technologies.
 Si la technologie n'est pas suffisamment réactive, le décalage entre l'élaboration des politiques et la prestation des services aura un impact direct sur la capacité des ministères à remplir leur mandat (ce qui s'est produit dans le passé et a fait la [une des journaux](https://www.cbc.ca/news/politics/federal-it-systems-critical-failure-1.5448871)).
 Les décideurs politiques à la recherche de données pour appuyer leurs décisions fondées sur des faits (c'est-à-dire la rétroaction des utilisateurs de services) les trouveront stockées dans des bases de données, gérées par des logiciels.
 
-À EDSC, nous trouvons l'explication ci-haut articulée comme [2<sup>ème</sup> objectif du programme de Modernisation du versement des prestations (MVP): Soupless des politiques](http://blogs-blogues.prv/ntn-bnt/bdm-not-just-another-acronym-its-an-initiative-transforming-service-delivery-as-we-know-it/?lang=fr).
+À EDSC, nous trouvons l'explication ci-haut articulée comme [2<sup>ème</sup> objectif du programme de Modernisation du versement des prestations (MVP): Souplesse des politiques](http://blogs-blogues.prv/ntn-bnt/bdm-not-just-another-acronym-its-an-initiative-transforming-service-delivery-as-we-know-it/?lang=fr).
 
 <div style="display: block; width: inherit; text-align: center; line-height: 3;">
-    <a href="/ITStrategy/assets/images/digital_feedback_loop-fr.png" style="display: block">
-        <img src = "{{ site.baseurl }}/assets/images/digital_feedback_loop.png"
+    <a href="{{ site.baseurl }}/assets/images/digital_feedback_loop-fr.png" style="display: block">
+        <img src = "{{ site.baseurl }}/assets/images/digital_feedback_loop-fr.png"
         alt = "Cette image représente une boucle de processus de rétroaction. L'image montre trois icônes : Les décideurs politiques, la technologie et les Canadiens. Entre chaque icône, il y a une flèche montrant la relation suivante : Les décideurs politiques doivent utiliser la technologie pour mettre en œuvre leurs politiques, la technologie est ensuite utilisée pour fournir des services aux Canadiens, et après avoir interagi avec un service, les Canadiens donnent leur avis aux décideurs politiques."
         style="width: 500px; height: inherit;"
         />
     </a>
-    <small>Figure 1.La rétroaction que les décideurs poligiques ont besoin passe par la technologie</small>
+    <small>Figure 1. La rétroaction que les décideurs politiques ont besoin passe par la technologie</small>
 </div>
 
 Nous voulons examiner de plus près cette relation avec la technologie, et comment les choses ont changé ces dernières années qui nous offrent de nouvelles opportunités (indice : [nous parlerons d'Infonuagique et de DevOps](https://youtu.be/2BM0xYfcexY?t=584)).
 
-## How Are We Managing Technology Investments
+## Comment gérons-nous les investissements technologiques
 
-Using technology is a risky and costly investment.
+L'utilisation de la technologie est un investissement risqué et coûteux.
 
-**CFOs** look at the [TB Policy on Planning and Management of Investments](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32593) to establish investment management governance "_to ensure that these activities provide value for money and demonstrate sound stewardship in program delivery_."
-The Policy's associated [Directive on the Management of Projects and Programmes](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32594) is where we find the notorious project gating process "_so that the expected benefits and results are realized for Canadians_."
+Les **DPFs** examinent la [politique du CT sur la planification et la gestion des investissements](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32593) pour établir la gouvernance de la gestion des investissements "_afin d’assurer que ces activités permettent une optimisation des ressources et démontrent une bonne gestion dans le cadre de la prestation des programmes_".
+La [Directive sur la gestion de projets et programmes](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32594) est l'un des documents associés à la politique, où l'on trouve les fameux points de contrôle des projets "_afin d’obtenir les avantages et les résultats attendus pour les Canadiens_".
 
-We narrow the goals of these financial policy instruments to two main ones:
+Nous réduisons les objectifs de ces instruments de politique financière aux deux suivants :
 
-1. Managing **risks**
-2. Placing investments where there are **benefits**
+1. Gérer les **risques**
+2. Placer les investissements là où il y a des **avantages**
 
-We want to look closer at &#35;1 especially when our [2019-2020 Departmental Plan](https://www.canada.ca/en/employment-social-development/corporate/reports/departmental-plan/2019-2020.html) states that "_The Department [...] recognizes that one of the biggest risks it faces is a failure to take risks._"[^1].
+Nous voulons examiner de plus près &#35;1 surtout lorsque notre [Plan ministériel 2019-2020](https://www.canada.ca/fr/emploi-developpement-social/ministere/rapports/plan-ministeriel/2019-2020.html) indique que "_Le Ministère est conscient que l’un des plus grands risques auxquels il est confronté est celui de ne pas prendre de risques._"[^1]
 
-The current gated method to manage technology investments seeks a **high degree of future predictability**.
-Before work on software can start, we seek clarity on requirements and the effort needed to fulfill them.
-This usually takes form in producing multiple documents, aggregated as an overall plan before approval to execute can be obtained.
-There was a time when this made perfect sense as it was expensive and time consuming to procure servers, code software changes in a procedural language, test those changes on dedicated testing servers (sometimes shared with other software projects so that risks of project collisions be managed), burn the updated software on a disc along with installation procedures for someone else to execute (so segregation of duties can be respected), and expect downtime when those changes are being applied.
-If a client changed his mind during this execution phase, the impact to the project was high.
+La méthode actuelle de gestion des investissements technologiques par points de contrôle vise un **degré élevé de prévisibilité future**.
+Avant que les travaux sur les logiciels puissent commencer, nous cherchons à clarifier les exigences et l'effort nécessaire pour les satisfaire.
+Cela prend généralement forme d'une production de plusieurs documents, regroupés en un plan global avant que l'autorisation d'exécution ne soit obtenue.
+Il fut un temps où cela était parfaitement logique car il était coûteux et long de se procurer des serveurs, de coder les modifications de logiciels dans un langage procédural, de tester ces modifications sur des serveurs de test dédiés (parfois partagés avec d'autres projets et, donc, les risques de collision entre ses projets devaient aussi être gérés), de graver les logiciels mis à jour sur un disque avec les procédures d'installation pour que quelqu'un d'autre les exécute (afin de respecter la séparation des tâches), et de s'attendre à des temps d'arrêt lorsque ces modifications sont appliquées.
+Si un client changeait d'avis pendant cette phase d'exécution, l'impact sur le projet était élevé.
 
 <div style="display: block; width: inherit; text-align: center; line-height: 3;">
-    <a href="/ITStrategy/assets/images/digital_feedback_loop.png" style="display: block">
-        <img src = "{{ site.baseurl }}/assets/images/pmlc_current_model.png"
-        alt = "This image depicts the current Project Management Lifecycle. It shows 4 steps (Inception, Planning, Execution, and Closure). Each of the steps is in sequence where, to start the Execution step, we are expected to finish the Planning step. At each step, there is an increasing amount of documentation being produced and stakeholders involved. Culminating to the Execution step where IT personnel are to execute and make the software changes. The client is shown at the beginning and at the end of the process, but not in the middle of it."
+    <a href="/ITStrategy/assets/images/digital_feedback_loop-fr.png" style="display: block">
+        <img src = "{{ site.baseurl }}/assets/images/pmlc_current_model-fr.png"
+        alt = "Cette image représente le cycle de vie actuel de la gestion de projet. Elle montre 4 étapes (création, planification, exécution et clôture). Chacune de ces étapes se déroule dans l'ordre où, pour commencer l'étape d'exécution, nous sommes censés terminer l'étape de planification. À chaque étape, un nombre croissant de documents sont produits et de parties prenantes sont impliquées. Le processus arrive à l'étape d'exécution oû le personnel fait les modifications demandées. Le client est représenté au début et à la fin du processus, mais pas au milieu."
         style="width: 700px; height: inherit;"
         />
     </a>
-    <small>Figure 2. A high-level view and interpretation of the current Project Management Lifecycle using gated decision points</small>
+    <small>Figure 2. Une vue et une interprétation de haut niveau du cycle de vie actuel de la gestion de projet en utilisant des points de contrôle</small>
 </div>
 
-The bigger the project, the further into the future we require to foresee.
-This approach comes with a few challenges:
+Plus le projet est important, plus éloigné est l'avenir qui nous est requis de prévoir.
+Cette approche s'accompagne de quelques défis :
 
-1. ***Accurate foresight is extremely rare***: There are statistics and reports regarding the low success rates of large projects[^2].
-Though we think those are not necessarily about success rates.
-They are about the reality that change is inevitable, that having such foresight is extremely rare, and that it is nearly impossible to plan that far into the future.
+1. ***Une prévision précise est extrêmement rare*** : Il existe des statistiques et des rapports concernant les faibles taux de réussite des gros projets [^2].
+Bien que nous pensions qu'il ne s'agit pas nécessairement de taux de réussite.
+Il s'agit de la réalité que le changement est inévitable, qu'il est extrêmement rare de disposer d'une telle prévision et qu'il est presque impossible de planifier aussi loin dans l'avenir.
 
-2. ***A business case is thought of as an expectation, instead of a hypothesis***: The benefits realization at the end of a project is not a sure thing.
-A project may be delivered on time, on budget, as per requirements, but [yield negative outcomes](https://sencanada.ca/content/sen/committee/421/NFFN/reports/NFFN_Phoenix_Report_32_WEB_e.pdf).
-The longer the organization is locked in a project, the greater the risk of being locked into a potentially bad idea.
+2. ***Une analyse de rentabilisation est considérée comme une attente, plutôt qu'une hypothèse*** : La réalisation des avantages à la fin d'un projet n'est pas une chose sûre.
+Un projet peut être livré dans les délais, dans le respect du budget, conformément aux exigences, mais [produire des résultats négatifs](https://sencanada.ca/content/sen/committee/421/NFFN/reports/NFFN_Ph%C3%A9nix_rapport32_WEB_f.pdf).
+Plus longtemps l'organisation s'immobilise dans un projet, plus grand est le risque de s'immobiliser dans une idée potentiellement mauvaise.
 
-3. ***It puts IT in a passive state***: "_I need requirements_" is something you probably heard your IT teams say to you.
-This should not be surprising as we are framing the organization to behave as such.
-The [Government's pandemic response](https://nationalpost.com/opinion/john-ivison-amid-staggering-unemployment-rate-public-servants-processing-ei-claims-are-the-unsung-heroes) is an exception to this statement where personnel worked creatively together in a time of crisis.
+3. ***Il met les TI dans un état passif*** : "J'ai besoin des exigences", est quelque chose que vous avez probablement entendu vos équipes informatiques vous dire.
+Cela ne devrait pas être surprenant, l'organisation est encadrée pour qu'elle se comporte comme telle.
+La [réponse du gouvernement à la pandémie](https://nationalpost.com/opinion/john-ivison-amid-staggering-unemployment-rate-public-servants-processing-ei-claims-are-the-unsung-heroes) est une exception à cette déclaration, où le personnel a travaillé de manière créative en temps de crise.
 
-4. ***Progression is measured with documents, instead of working software***: If after 18 months of work and $2M spent we do not have working software to show for, would we consider it a good investment?
+4. ***La progression est mesurée à l'aide de documents, au lieu de logiciels fonctionnels*** : Si après 18 mois de travail et 2 millions de dollars dépensés, nous n'avons pas de logiciel fonctionnel à démontrer, considérerions-nous que c'est un bon investissement?
 
-> Only **successful projects, in production**, enable the organization to gain **empirical evidence** necessary for their **evidence-based decisions**.
+> Seuls les **projets réussis, en production**, permettent à l'organisation d'obtenir les **preuves empiriques** nécessaires à ses **décisions fondées sur des faits**.
 
-## Opportunities for change
+## Opportunités de changement
 
-The digital world brings a high level of complexity and uncertainty with it.
-This should warrant us to seek very different approach to carrying out initiatives.
-A predictable world rewards advance planning and rigid plan execution.
-But a complex and uncertain world rewards an empirical cycle of trying, observing, and correcting.[^3]
+Le monde numérique comporte un niveau élevé de complexité et d'incertitude.
+Cela devrait nous inciter à rechercher une approche très différente pour la réalisation des initiatives.
+Un monde prévisible récompense la planification préalable et l'exécution rigide des plans.
+Mais un monde complexe et incertain récompense un cycle empirique d'essai, d'observation et de correction [^3].
 
-New methods of developing software are available, mainly [Cloud and DevOps](https://youtu.be/2BM0xYfcexY?t=940), that warrants us adjusting our investment management methods.
-With them, the time-consuming efforts of procuring servers, coding, testing, and releasing to production mentioned above are dramatically reduced.
-An opportunity exists to leverage this speed, try things out before we commit to them, and more accurately inform planning decisions.
+De nouvelles méthodes de développement de logiciels sont disponibles, principalement [l'Infonuagique et DevOps](https://youtu.be/2BM0xYfcexY?t=940), qui nous justifie d'adapter nos méthodes de gestion des investissements.
+Grâce à elles, les efforts fastidieux d'acquisition de serveurs, de codage, de test et de mise en production mentionnés ci-dessus sont considérablement réduits.
+Il est possible de tirer parti de cette rapidité, de faire des essais avant de s'engager et d'informer plus précisément les décisions de planification.
 
-The conventional sequential thinking of planning, then executing, changes to one that is cyclical.
-Planning and Execution become symbiotic where both inform each other over smaller time horizon periods.
+La pensée séquentielle classique de la planification, puis de l'exécution, se transforme en une pensée cyclique.
+La planification et l'exécution deviennent une symbiose où les deux s'informent mutuellement sur des périodes plus courtes.
 
 <div style="display: block; width: inherit; text-align: center; line-height: 3;">
-    <a href="/ITStrategy/assets/images/digital_feedback_loop.png" style="display: block">
-        <img src = "{{ site.baseurl }}/assets/images/pmlc_with_product_management.png"
-        alt = "This image is the Project Management Lifecycle adapted for Product Management. It shows 3 steps (Inception, Planning + Execution, and Closure). The difference with the previous picture is that the Planning and Execution stage work together. There is a client at the beginning of the Planning stage communicating with two Product Owners. This client acts as a project sponsor that is communicating changes to two Product Owners. Each of the Product Owners then works with their product team members to prioritize work over a series of iterations. In the diagram, the first product has 3 iterations in the course of 18 months, while the second product has two. The diagram communicates that the client is heavily involved during both planning and execution of the project, as well as being able to have production-ready software throughout the 18-month journey."
+    <a href="/ITStrategy/assets/images/digital_feedback_loop-fr.png" style="display: block">
+        <img src = "{{ site.baseurl }}/assets/images/pmlc_with_product_management-fr.png"
+        alt = "Cette image est le cycle de vie de la gestion de projet adapté à la gestion de produit. Elle montre 3 étapes (création, planification + exécution et clôture). La différence avec l'image précédente est que les étapes de planification et d'exécution fonctionnent ensemble. Au début de la phase de planification, un client communique avec deux responsables de produits. Ce client agit en tant que promoteur du projet qui communique les changements à deux responsables de produits. Chacun des responables de produit travaille ensuite avec les membres de son équipe de produit pour établir les priorités de travail sur une série d'itérations. Dans le diagramme, le premier produit a 3 itérations au cours de 18 mois, tandis que le second en a deux. Le diagramme montre que le client est fortement impliqué dans la planification et l'exécution du projet, et qu'il peut disposer d'un logiciel prêt pour la production tout au long des 18 mois."
         style="width: 700px; height: inherit;"
         />
     </a>
-    <small>Figure 3. A Project Management practice adapted to Product Management and DevOps</small>
+    <small>Figure 3. Une méthode de gestion de projet adaptée à la gestion de produit et DevOps</small>
 </div>
 
-The result enables the use of empirical data to make planning decisions.
-Through execution, we can inform the next planning time horizon for the initiative.
-We can measure progress through actual working software, as opposed to planning documents often containing many assumptions.
-We can make _"Decisions \[...\] based on an assessment of full life-cycle costs and demonstrate value for money and sound stewardship;"_[^4].
+Le résultat permet l'utilisation de données empiriques pour prendre des décisions de planification.
+Grâce à l'exécution, nous pouvons informer le prochain horizon de planification de l'initiative.
+Nous pouvons mesurer les progrès grâce à un logiciel fonctionnel réel, par opposition aux documents de planification qui contiennent souvent de nombreuses hypothèses.
+Nous pouvons prendre des _"décisions \[s'appuyant\] sur une évaluation de la totalité des coûts du cycle de vie et \[démontrer\] une optimisation des ressources et une intendance saine_"[^4].
 
-In the first example above (Figure 2), we obtained one software release after 18 months.
-Whereas in the second example (Figure 3), we *could* have had five releases in that same amount of time (should we have decided to release them in production).
-Through each iteration, the Client, the Product Owner, and the Product Teams all learned a little bit more about the user needs, the complexities of adapting the software to those needs, and the technical debt accumulated throughout that time.
-This information is used as empirical evidence to plan with more accuracy the next iteration cycle.
+Dans le premier exemple ci-dessus (figure 2), nous avons obtenu une version du logiciel après 18 mois.
+Dans le deuxième exemple (figure 3), nous *pourrions* avoir obtenu cinq versions dans le même laps de temps (si nous avions décidé de les mettre en production).
+À chaque itération, le client, le responsable du produit et les équipes produit ont tous appris un peu plus sur les besoins des utilisateurs, la complexité de l'adaptation du logiciel à ces besoins et la dette technique accumulée pendant tout ce temps.
+Ces informations sont utilisées comme preuves empiriques pour planifier avec plus de précision le prochain cycle d'itération.
 
-These fast Product iterations are enabled by DevOps (powered by cloud technologies).
+Ces itérations rapides de produits sont permis par DevOps (alimenté par les technologies infonuagiques).
 
 <div style="display: block; width: inherit; text-align: center; line-height: 3;">
-    <a href="/ITStrategy/assets/images/digital_feedback_loop.png" style="display: block">
-        <img src = "{{ site.baseurl }}/assets/images/product_management_with_devops.png"
-        alt = "This image expands the view of Product Management shown in the previous image. We see the Product Owner and the Product team on the left side, and a series of pipeline on the right side. The pipeline is showing a series of steps necessary for software production (version control, build, unit testing, deployment, auto testing, deployment to production, and monitoring). At each of those steps, we see a pipe coming out of it and going back to the beginning. This shows a potential exit path for the Product Team that includes new information. Around the pipeline, we have the other IT Personnel involved like Quality Assurance, Accessibility, and IT Security that may not be members of the product team per se, but add their controls to the DevOps pipeline using scripts."
+    <a href="/ITStrategy/assets/images/digital_feedback_loop-fr.png" style="display: block">
+        <img src = "{{ site.baseurl }}/assets/images/product_management_with_devops-fr.png"
+        alt = "Cette image élargit la vue de la gestion des produits présentée dans l'image précédente. Nous voyons le responsable et l'équipe du produit sur le côté gauche, et une série de tuyaux sur le côté droit (pipeline). Le pipeline montre une série d'étapes nécessaires à la production de logiciels (contrôle de version, construction, test unitaire, déploiement, test automatique, déploiement en production et surveillance). À chacune de ces étapes, nous voyons un tuyau qui en sort et qui revient au début. Cela montre un chemin de sortie potentiel pour l'équipe produit qui inclut de nouvelles informations. Autour du pipeline, nous avons les autres professionels informatique impliqués comme l'assurance de la qualité, l'accessibilité et la sécurité informatique qui ne sont pas membres de l'équipe produit en soi, mais qui ajoutent leurs contrôles au pipeline DevOps à l'aide de scripts automatisés."
         style="width: 500px; height: inherit;"
         />
     </a>
-    <small>Figure 4. The DevOps pipeline as part of Product Management</small>
+    <small>Figure 4. La pipeline DevOps faisant parti de la gestion de produit</small>
 </div>
 
-This opportunity is available should we first understand how different software is from other types of investments.
-Mainly that software consists of an assemblage of many components[^5], each potentially able to work independently from each other, and that provides services to one another (we then start seeing that **machines are also users**).
-Breaking large IT Solutions into more manageable parts (whether called IT Products or Applications, sometimes [compared to Lego blocks](https://youtu.be/g-h6CtSwk30?t=212)) means work by multiple teams can start without the need to have figured out the whole puzzle in advance or how to solve the problem in one single piece.
-If you heard the term "[Monolith](https://medium.com/koderlabs/introduction-to-monolithic-architecture-and-microservices-architecture-b211a5955c63)", it's what we strive to move away from as it impedes our ability to respond fast and is too often the cause of project collisions.
+Cette possibilité est offerte si nous comprenons d'abord en quoi les logiciels sont différents des autres types d'investissements.
+Principalement, que le logiciel consiste en un assemblage de nombreux composants[^5], chacun potentiellement capable de fonctionner indépendamment des autres, et qui fournit des services les uns aux autres (on commence alors à voir que les **machines sont aussi des utilisateurs**).
+La décomposition de grandes solutions technologiques en parties plus faciles à gérer (qu'elles soient appelées produits ou applications, parfois [comparés aux blocs Lego](https://youtu.be/g-h6CtSwk30?t=212)) signifie que le travail de plusieurs équipes peut commencer sans qu'il soit nécessaire d'avoir résolu l'ensemble du casse-tête à l'avance ou de devoir résoudre le problème en une seule pièce.
+Si vous avez entendu le terme "[Monolithe](https://medium.com/koderlabs/introduction-to-monolithic-architecture-and-microservices-architecture-b211a5955c63)", c'est ce dont nous nous efforçons de nous éloigner car il entrave notre capacité à réagir rapidement et est trop souvent la cause de collisions entre projets.
 
-The above planning-execution symbiotic relationship *should* be allowed as per the following [TB Directive on Management of Projects and Programmes](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32594) requirements:
+La relation symbiotique planification-exécution ci-dessus *devrait* être autorisée conformément aux exigences suivantes de la [directive du CT sur la gestion des projets et programmes](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32594) :
 
-> **(welcome change)** 4.2.6 Ensuring where business change is required to achieve the business outcomes, that the project and programme scope of work includes all the activities and outputs necessary to bring about this change
+> **(favoriser le changement)** 4.2.6 Lorsqu'un changement opérationnel est nécessaire afin d'atteindre les résultats opérationnels, s'assurer que la portée des travaux des projets et des programmes comprenne l'ensemble des activités et des extrants requis en vue de concrétiser le changement
 >
-> **(be iterative and agile)** 4.2.8 Applying as appropriate, incremental, iterative, agile, and user-centric principles and methods to the planning, definition, and implementation of the project
+> **(itératifs et Agile)** 4.2.8 Appliquer, selon le cas, des méthodes et des principes incrémentiels, itératifs, souples \[_Agile_\] et axés sur les utilisateurs pour la planification, la définition et la mise en œuvre du projet
 >
-> **(make evidence-based decisions)** 4.2.18 Establishing a project gating plan at the outset of the project, consistent with the department's framework, that; (4.2.18.1) Documents the decisions that will be taken at each gate, the evidence and information required in support of the gate decisions, the criteria used to assess the evidence, and the gate governance
+> **(décisions fondées sur des faits)** 4.2.18 Mettre en place, dès le début du projet, un plan des points de contrôle du projet conforme au cadre ministériel qui; (4.2.18.1) documente les décisions qui seront prises à chaque point de contrôle, les éléments probants et les renseignements requis à l'appui des décisions aux points de contrôle, les critères utilisés pour évaluer les éléments probants et la gouvernance des points de contrôle
 
-Currently, TB only provides directives and guidance regarding Project and Programme Management, leaving departments by themselves in adapting existing **Project Management** practices to a **Product world**.
-This is where we see a strengthening of the **CFO - CIO** relationship.
+Actuellement, le CT ne fournit que des directives et lignes directrices concernant la gestion des projets et des programmes, laissant aux ministères le soin d'adapter eux-mêmes les pratiques de **gestion de projets** à un **monde de produits**.
+C'est là que nous constatons un renforcement de la relation **DPF - DPI**.
 
-The ESDC IT Strategy team is interested in finding other departments looking at the same challenges, whether they are working towards solving them or even have found the solution.
+L'équipe de stratégie TI de EDSC souhaite trouver d'autres ministères qui se penchent sur les mêmes problèmes, qu'ils s'efforcent de les résoudre ou même qu'ils aient trouvé des solutions.
 
-## Some Work In Progress at ESDC Fostering these Opportunities
+## Quelques travaux en cours à l'EDSC pour favoriser ces opportunités
 
-The ESDC IT Strategy team is currently working on a set of strategies to move the organization towards reducing risks associated with technology in order to accelerate business flexibility.
+L'équipe de stratégie TI de EDSC travaille actuellement sur un ensemble de stratégies visant à faire évoluer l'organisation vers une réduction des risques liés à la technologie afin d'accélérer la flexibilité de l'entreprise.
+
+(Documents présentement disponibles en anglais seulement)
 
 1. [Target IT Solution Delivery Model](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html): a strategy to move the organization towards **same day software deployment** in order to dramatically improve **service delivery agility**.
 2. [Adopt, Build, Buy](https://sara-sabr.github.io/ITStrategy/strategy-build-vs-buy.html): a strategy that seeks to resolve the oversimplification approach of _buying_ or _building_ software.
 3. [Continuous Improvement](https://sara-sabr.github.io/ITStrategy/strategy-transform-high-performing-org.html): a strategy to transform ESDC into a high-performing organization through the continuous improvement of daily work.
 4. [Micro-Acquisition (GCDevExchange 2.0)](https://014gc.sharepoint.com/sites/GCDevEx): a strategy that seeks to provide the department and suppliers with a lightweight, low dollar value (&lt; $10k) contract amount, acquisition process.
 
-## References
+## Références
 
-[^1]: [_2019-2020 ESDC Departmental Plan_](https://www.canada.ca/en/employment-social-development/corporate/reports/departmental-plan/2019-2020.html), page 11
-[^2]: The [_Standish Group Study_](https://18f.gsa.gov/2019/04/09/why-we-love-modular-contracting/), 5 Auditor General Reports ([_2006 Novembre_](https://www.oag-bvg.gc.ca/internet/English/parl_oag_200611_03_e_14971.html), [_2010 Spring_](https://www.oag-bvg.gc.ca/internet/English/parl_oag_201004_01_e_33714.html), [_2011 June_](https://www.oag-bvg.gc.ca/internet/English/parl_oag_201106_02_e_35370.html), [_2015 Spring_](https://www.oag-bvg.gc.ca/internet/English/parl_oag_201504_05_e_40351.html), [_2018 Spring_](https://www.oag-bvg.gc.ca/internet/English/parl_oag_201805_01_e_43033.html)), and the [_June 2016 and May 2019 House of Commons questions_](https://large-government-of-canada-it-projects.github.io/) on large IT projects over $1M
+[^1]: [_Plan ministériel de 2019–2020 d'EDSC_](https://www.canada.ca/fr/emploi-developpement-social/ministere/rapports/plan-ministeriel/2019-2020.html), page 11
+[^2]: The [_Standish Group Study_](https://18f.gsa.gov/2019/04/09/why-we-love-modular-contracting/), 5 rapports de la vérificatrice générale du Canada ([_Novembre 2006_](https://www.oag-bvg.gc.ca/internet/Francais/parl_oag_200611_03_f_14971.html), [_Printemps 2010_](https://www.oag-bvg.gc.ca/internet/Francais/parl_oag_201004_01_f_33714.html), [_Juin 2011_](https://www.oag-bvg.gc.ca/internet/Francais/parl_oag_201106_02_f_35370.html), [_Printemps 2015_](https://www.oag-bvg.gc.ca/internet/Francais/parl_oag_201504_05_f_40351.html), [_Printemps 2018_](https://www.oag-bvg.gc.ca/internet/Francais/parl_oag_201805_01_f_43033.html)), et les [_questions de la chambre des communes de juin 2016 et mai 2019_](https://large-government-of-canada-it-projects.github.io/) sur les projets TI de plus d'un million de dollars
 [^3]: Mark Schwartz, [_War and Peace and IT_](https://itrevolution.com/war-and-peace-and-it/), IT Revolution, 2019, page 30
-[^4]: [_TB Policy on the Planning and Management of Investments_](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32593) Expected result &#35;3.2.2
-[^5]: Appendix A - Business Case (Diagnosis) of the [_Adopt, Build, Buy Strategy_](/ITStrategy/strategy-build-vs-buy.html#appendix-a---business-case-diagnostic)
+[^4]: [_Politique du CT sur la planification et la gestion des investissements_](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32593) Résultats attendus &#35;3.2.2
+[^5]: Appendix A - Business Case (Diagnosis) de la stratégie [_Adopt, Build, Buy_](/ITStrategy/strategy-build-vs-buy.html#appendix-a---business-case-diagnostic)

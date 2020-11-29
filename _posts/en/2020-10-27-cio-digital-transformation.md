@@ -66,6 +66,7 @@ Here are some statistics the IT Strategy team did ([link to source data](/assets
 
 With such a focus on CIOs and CDOs, TB formally recognizes the **ubiquitous nature of technology in delivering services** to Canadians.
 Because CIOs and CDOs are accountable for such a large number of requirements, we claim they also need to be in a position to determine _how_ technology investments are to be managed (a domain historically attributed to CFOs).
+
 **Elected officials** now recognize that technology is at the core of service delivery.
 This means that in order for policy makers to affect Canadians, they will need to go through technology delivery.
 If technology is not responsive enough, the lag between policy making and service delivery will directly impact the ability of departments to fulfill their mandates (which did happen in the past and made [front-page news](https://www.cbc.ca/news/politics/federal-it-systems-critical-failure-1.5448871)).
@@ -102,7 +103,7 @@ We want to look closer at &#35;1 especially when our [2019-2020 Departmental Pla
 The current gated method to manage technology investments seeks a **high degree of future predictability**.
 Before work on software can start, we seek clarity on requirements and the effort needed to fulfill them.
 This usually takes form in producing multiple documents, aggregated as an overall plan before approval to execute can be obtained.
-There was a time when this made perfect sense as it was expensive and time consuming to procure servers, code software changes in a procedural language, test those changes on dedicated testing servers (sometimes shared with other software projects so that risks of project collisions be managed), burn the updated software on a disc along with installation procedures for someone else to execute (so segregation of duties can be respected), and expect downtime when those changes are being applied.
+There was a time when this made perfect sense as it was expensive and time consuming to procure servers, code software changes in a procedural language, test those changes on dedicated testing servers (sometimes shared with other software projects so that risks of project collisions also needs to be managed), burn the updated software on a disc along with installation procedures for someone else to execute (so segregation of duties can be respected), and expect downtime when those changes are being applied.
 If a client changed his mind during this execution phase, the impact to the project was high.
 
 <div style="display: block; width: inherit; text-align: center; line-height: 3;">

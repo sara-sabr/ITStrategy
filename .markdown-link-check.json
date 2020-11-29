@@ -116,6 +116,9 @@
    },
    {
      "pattern": "https://wiki.gccollab.ca"
+   },
+   {
+     "pattern": "https://gccollab.ca"
    }
   ]
 }
