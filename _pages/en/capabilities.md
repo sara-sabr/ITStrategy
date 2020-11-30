@@ -111,14 +111,49 @@ It has 11 sections, each of them will take approximately 10-15 minutes to answer
 A user can be assessed on any section of the choice and get the results immediately.
 Please note that the IT Strategy team recommends that teams complete all sections at least once to establish a full baseline.  
 
+##### Question Types
+
+**Do you agreed with...** [1-7]
+
+1. Strongly Disagree
+2. .
+3. .
+4. Neither Agree nor Disagree
+5. .
+6. .
+7. Strongly Agree
+
+**How much time** [time]
+
+- More than one week
+- One day to one week
+- Less than one day
+
+**Percentage** [%]
+
+- 0 to 100
+
 #### Scoring  
 
 Each survey section will provide a score which will help you to get an idea of where you and your team is and where your team can be on  DevOps journey.
-Average of Percentage questions:  
 
-- Low: 0-49%  
-- Medium: 50-89%  
-- High: 90-100%  
+Average of Percentage questions
+
+- Low: 0-49%
+- Medium: 50-89%
+- High: 90-100%
+
+Average of "Do you agreed with" questions
+
+- Low: 1-3
+- Medium: 4-5
+- High: 6-7
+
+Average of "How much time" questions
+
+- Low: More than one week
+- Medium: One day to one week
+- High: Less than one day
 
 When complete, the assessment results are immediately available on the page followed by recommendations.
 
