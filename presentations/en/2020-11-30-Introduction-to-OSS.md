@@ -516,20 +516,24 @@ Note:
   - Legal compliance
   - Organization policy application
 - Security best practices
-  - Patch known vulnerabilities**
-  - Access management
-  - Secrets management (never in source code)
+  - Patch known vulnerabilities*
+  - Secrets Management
+    - Passwords, Keys, etc.
+  - Strong Access Management
 - Certified code signature to ensure authenticity
 
 Note:
 
 - Equifax could have [prevented data breach](https://www.wired.com/story/equifax-breach-no-excuse/) if it had patched it's software
   - Vulnerability was known for 6 weeks and a patch was available
-- 
+- Software for which we do not have access to the code is not necessarily more secure
+  - A certicate or a warranty from the vendor does not make the software secure
+  - There are tools and techniques to run large series of tests to detect security vulnerabilities against closed-source software (penetration testing, social engineering)
+  - More people looking at the code means more fixes issued faster
 
 --
 
-### Modern services
+### Modern Security Services
 
 Private companies now offer:
 
@@ -543,7 +547,7 @@ Note:
 
 - FOSSA
 - JFrog X-Ray
-- Sonatype
+- Sonatype (we are currently using this internally)
 - Synopsys
 - Whitesource
 - Many, many more
@@ -565,17 +569,17 @@ Security vulnerabilities and their fixes are continuously published
 
 By using:
 
-- Package Managers
-  - NPM, Anaconda, Maven, CocoaPods, RubyGems, etc.
-- Frameworks
-  - Bootstrap, Spring, React.js, Spark, Django, .NET, etc.
-- Social Coding Platforms
-  - GitHub, GitLab, BitBucket, GCcode*
 - Internet
-  - Projects' website provide documentation and download options
+  - Project's website provide documentation and download options
 - Companies
   - Procurement process for a solution
   - Software as a service
+- Package Managers (developers)
+  - NPM, Anaconda, Maven, CocoaPods, RubyGems, etc.
+- Frameworks (developers)
+  - Bootstrap, Spring, React.js, Spark, Django, .NET, etc.
+- Social Coding Platforms
+  - GitHub, GitLab, BitBucket, GCcode*
 
 --
 
