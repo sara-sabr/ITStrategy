@@ -1,4 +1,4 @@
-# Introduction to Open Source
+# Introduction to Open Source Software
 
 Guillaume Charest, ESDC - [@GuillCharest](https://twitter.com/GuillCharest)
 
@@ -8,7 +8,7 @@ Guillaume Charest, ESDC - [@GuillCharest](https://twitter.com/GuillCharest)
 
 ## Definitions
 
-In order to understand Open Source Software, we need to understand a few fundamental concepts
+In order to understand Open Source Software (OSS), we need to understand a few fundamental concepts
 
 Note:
 
@@ -68,11 +68,8 @@ if approval_authority > 2500000:
 Note:
 
 - It is the translation of an algorithm into a human readable, structured code.
+  - Copyrighted material
 - Examples include: C, C++, C#, COBOL, Fortran, Javascript, Python, Visual Basic, etc.
-
->Source code is the version of a computer program as it is originally written (i.e., typed into a computer) by a human in a programming language.[^fn]
-
-[^fn]:"http://www.linfo.org/object_code.html"
 
 --
 
@@ -90,10 +87,6 @@ Source: https://thenounproject.com/term/install/2218950/ accessed 2020-11-26](as
 
 Note:
 
->Object code [Software] is the output of a compiler after it processes source code.[^fn]
-
-[^fn]:"http://www.linfo.org/object_code.html"
-
 - It's the version of the program that is saved, that is installed on your computer and will be processed
 - It's the actual asset that we buy licences and subscriptions for and that we receive a copy
 - IMPORTANT: training material, patches, bug and security fixes, phone and email support, knowledge base, warranties, etc. are NOT the software.
@@ -109,14 +102,14 @@ Source: https://pxhere.com/fr/photo/1565823 accessed 2020-11-26](assets/images/i
 Note:
 The version of the software that is being processed by the computer
 
-- The software is loaded from your hard drive into the memory
-  - If MS Word crashes, you most likely lost your work, right?
-  - Yet you still can fire up the same app again...
 - You can then interact with the application thanks to the processing capabilities of the computer
   - Click on buttons
-  - Input data: user name and password to login; display a filled out form data; etc.
-  - Transform data: spreadsheet formulas to analyze budget proposals; filter for specific patterns; slice and dice data reports, etc.
-  - Save data: once completed, save the analysis into a shareable format on your hard drive so that others can pick up where you left.
+  - Input data: user name and password to login; enter values in form; etc.
+  - Transform data: spreadsheet formulas to analyze and rearrange data in budget proposals; filter for specific patterns; slice and dice data reports, etc.
+  - Save data: once completed, save the work into a shareable format as a file on your hard drive so that others can use it when shared.
+- The software is loaded from your hard drive into the memory
+  - If MS Word crashes, you most likely lost your work, right?
+  - Yet you can still fire up the same app again...
 
 --
 
@@ -126,7 +119,7 @@ The version of the software that is being processed by the computer
 
 --
 
-## Copyright
+### Copyright
 
 >Copyright is the exclusive legal right to produce, reproduce, publish or perform an original literary, artistic, dramatic or musical work.
 
@@ -139,7 +132,7 @@ Note:
 
 --
 
-## Licence
+### Licence
 
 >A licence allows someone else to use a work for certain purposes and under certain conditions. The copyright owner still retains ownership.
 
@@ -220,7 +213,7 @@ Note:
 
 --
 
-## Types of Open Source Licences
+### Types of Open Source Licences
 
 Permissive vs Reciprocal
 
@@ -341,7 +334,7 @@ Heather Meeker, _Open (Source) for Business: A Practical Guide to Open Source So
 
 [Don’t Copy and Locally Modify Open Source Software](https://canada-ca.github.io/open-source-logiciel-libre/en/guides/using-open-source-software.html#dont-fork-open-source-software)
 
-> Where possible, use open source software without modification or contribute them back.
+> Where possible, use OSS without modification or contribute them back.
 
 Note:
 
@@ -383,10 +376,11 @@ Jeff McAffer, formerly Director of Microsoft's Open Source Program Office, GC Op
 
 Note:
 
-- Startups combine open source software components and focus on added value
+- Startups combine OSS components and focus on added value
 - Today, Microsoft is one of the largest OSS corporate contributors in the world
   - Yet, it once was prohibited to use OSS internally
-  - 2016 saw a shift with the new CEO openly embracing OSS culture
+  - 2016 saw a major shift with the new CEO openly embracing OSS culture
+  - Not suddenly altruistic, simply better software economics
 
 --
 
@@ -396,7 +390,7 @@ Note:
 
 Note:
 
-- This means software you purchase licences for right now have open source software components in them
+- This means software you purchase licences for right now have OSS components in them
 - Although you probably don't now it
 
 --
@@ -438,46 +432,62 @@ Note:
 
 ---
 
-## Risks
+## Risks and Perceptions of Risks
 
 --
 
-### Software is provided as is
+### Perceptions
 
-No Warranties
-No official 24/7 Support or Helpdesk
-Documentation
-Training
-Accessibility
-Official languages
+- "Someone wrote that in their basement"
+- "You're on your own!"
+- No Warranties
+- No Official 24/7 Support or Helpdesk
+- No Documentation
+- No Training
+- Not Accessibility Compliant
+- Not Available in both Official Languages
 
 Note:
 
-When assessing an open source software, you evaluate same things as proprietery plus:
-
-- Source code (scans, tests, etc.)
-- Documentation quality
-- Project activity (is it actively maintained)
-- Community health (participation and management)
+- First, that's not true.
+OSS is software that has an OSS licence to it.
+  - MS Word could be OSS if Microsoft wished so, it depends on the company's business model
+- There's good and bad software, period.
+- Need to assess all software for what they are and surrounding services. For OSS, same as proprietary plus assess:
+  - Source code (scans, tests, etc.)
+  - Documentation quality
+  - Project activity (is it actively maintained)
+  - Community health (participation and management)
 
 --
 
-### Mitigation
+### Reality
 
+- Very large companies release and maintain mature OSS
+  - Offer support services around OSS products
+  - Provide SaaS using OSS
+- Go for tender for support and complementary services
+  - We do so with real property maintenance...
 - Build internal capacity with training and by hiring professionals
-- Introduce a framework to assess the maturity of an OSS
-- Procure support and complementary services
+  - Same as with proprietary solutions
+  - Plus access to the actual technology without spending a single dime
+- Introduce a framework to assess the maturity and compliance of an OSS
 
 Note:
 
-- Training for OSS doesn't require expensive certification programs:
+- OSS released by Private sector:
+  - Facebook --> React.js, React Native, GraphQL
+  - Google --> Android, Chromium, TensorFlow (machine learning)
+  - Microsoft is one of the largest contributors in the world
+- Training for OSS doesn't always require expensive certification programs:
   - You can dive right in, the code is all there for you to analyse and try
+  - There are still professional courses available if that's how you work
 - There's an OSS framework going to governance approval process right now
 - There's litterally no barrier to entry for any company wishing to offer services
 
 --
 
-### Security
+### Security Myths
 
 >- Everyone can see the code! It must be dangerous...*
 >- Anyone could change the code to introduce vulnerabilities**
@@ -498,7 +508,7 @@ Note:
 
 --
 
-### Safety
+### Safety by Design
 
 - Automated code scanning
   - Common programming flaws
@@ -515,6 +525,7 @@ Note:
 
 - Equifax could have [prevented data breach](https://www.wired.com/story/equifax-breach-no-excuse/) if it had patched it's software
   - Vulnerability was known for 6 weeks and a patch was available
+- 
 
 --
 
@@ -526,7 +537,7 @@ Private companies now offer:
 - Asset management for OSS
   - Security and legal compliance
   - Internal policy enforcement
-- Certified open source components (version, source, warranties, etc.)
+- Certified OSS components (version, source, warranties, etc.)
 
 Note:
 
