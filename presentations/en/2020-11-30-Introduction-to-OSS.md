@@ -638,6 +638,7 @@ Note:
 - May raise a few flags here for IP ownership and complexities.
 - To align with ISED Policy on Title to Intellectual Property Arising Under Crown Procurement Contracts
   - Micro-acquisition would by default let the copyright with the contributor
+- Source: https://opensource.com/article/18/3/cla-vs-dco-whats-difference
 
 --
 
