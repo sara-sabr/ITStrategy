@@ -463,15 +463,12 @@ OSS is software that has an OSS licence to it.
 
 ### Reality
 
-- Very large companies release and maintain mature OSS
+- Large companies release and maintain mature OSS
   - Offer support services around OSS products
-  - Provide SaaS using OSS
-- Go for tender for support and complementary services
-  - We do so with real property maintenance...
 - Build internal capacity with training and by hiring professionals
   - Same as with proprietary solutions
-  - Plus access to the actual technology without spending a single dime
-- Introduce a framework to assess the maturity and compliance of an OSS
+  - Access to the inner workings
+- Framework to assess the maturity and compliance of an OSS
 
 Note:
 
@@ -479,6 +476,9 @@ Note:
   - Facebook --> React.js, React Native, GraphQL
   - Google --> Android, Chromium, TensorFlow (machine learning)
   - Microsoft is one of the largest contributors in the world
+- Go to tender for support and maintenance services
+  - It's OK for real property why not for IT?
+  - If IP related: OSS enables this by supporting everyone to make changes
 - Training for OSS doesn't always require expensive certification programs:
   - You can dive right in, the code is all there for you to analyse and try
   - There are still professional courses available if that's how you work
@@ -496,7 +496,7 @@ Note:
 Note:
 
 - \* Two key things to remember:
-  - State sponsored actors and malevolent hackers have swath of tools to scan for known vulnerabilities and common programming flaws
+  - State sponsored actors and malevolent hackers have a large array of tools to scan for known vulnerabilities and common programming flaws
 - \*\* Remember that software is not the source code! (Three degrees of separation)
   - Source code must be translated
   - The software needs to be installed
