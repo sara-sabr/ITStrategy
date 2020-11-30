@@ -272,6 +272,23 @@ Note:
 
 --
 
+### Licences Copyright
+
+>Licences can't be modified or translated:
+>_They are copyrighted material_
+
+Note:
+
+- You may apply the licence as is to your project
+- Changing any of the content means it's no longer the same licence
+  - Includes translating it's content
+- Crafting your own licence is possible (Open Government Licence)
+  - Risk community will be hesitant to contribute
+    - Not sure about the scope of your licence
+    - Compatibility with other licences, etc.
+
+--
+
 ### Rights and Responsibilities
 
 Inbound vs Outbound
@@ -286,7 +303,7 @@ Seems complex but important to understand what **distributing your software** me
 
 --
 
-### Software distribution
+### Software Distribution
 
 Between GC departments is **not** considered distribution
 
@@ -565,25 +582,36 @@ Security vulnerabilities and their fixes are continuously published
 
 ---
 
-### How do we get Open Source Software
+## How do we get Open Source Software
 
-By using:
+--
+
+### Everyone
+
+Via:
 
 - Internet
   - Project's website provide documentation and download options
 - Companies
   - Procurement process for a solution
   - Software as a service
-- Package Managers (developers)
+
+--
+
+### If you're a developer
+
+By using:
+
+- Package Managers
   - NPM, Anaconda, Maven, CocoaPods, RubyGems, etc.
-- Frameworks (developers)
+- Frameworks
   - Bootstrap, Spring, React.js, Spark, Django, .NET, etc.
 - Social Coding Platforms
   - GitHub, GitLab, BitBucket, GCcode*
 
 --
 
-## Social Coding Platforms
+### Social Coding Platforms
 
 Micro-acquisition aims to leverage these platforms
 
@@ -591,3 +619,52 @@ Micro-acquisition aims to leverage these platforms
 - Provides many security and compliance features
 - Helps community build around projects
 - Opportunities for outsiders to speed up understanding of the code
+
+Note:
+
+- Over last 20 years, maturity of OSS practice and culture has been increasing.
+- Part of the fabric of modern technology: it's all around you, in every piece of tech you own
+
+--
+
+### Contributions
+
+When contributing to an OSS project, copyright remains with the contributor but they submit their work under the project's chosen licence.
+
+Two ways to usually "[...] say that the contributor is allowed to make the contribution and that the project has the right to distribute it under its license."
+
+Note:
+
+- May raise a few flags here for IP ownership and complexities.
+- To align with ISED Policy on Title to Intellectual Property Arising Under Crown Procurement Contracts
+  - Micro-acquisition would by default let the copyright with the contributor
+
+--
+
+### Contributor Licence Agreement
+
+Some projects put legal terms into a contract to "sign" before accepting a contribution
+
+Note:
+
+- Can be a bit complex but automated
+- Not for simple developers unless very well explained
+- Used to be an indicator of serious projects
+- Could go as far as requesting transfer of the foreground IP
+  - Easier to manage the licencing by the project owners but
+    - Barrier to entry
+    - Liable since you own the IP
+  - Not aligned with ISED Policy on IP
+
+--
+
+### Developer Certificate of Origin
+
+- Developer signs the commit of the contribution
+- Lightweight
+
+Note:
+
+- Means that:
+  - They have the right to submit that work
+  - The project has the right to use and distribute it
