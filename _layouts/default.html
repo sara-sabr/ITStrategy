@@ -16,7 +16,7 @@
       {% if page.layout == "default" %}
       {% unless page.ref == "home" %}
         <h1>{{ page.title }}</h1>
-        {% include versioning.md %}
+        <p>{% include versioning.md %}</p>
       {% endunless %}
       {% endif %}
       
