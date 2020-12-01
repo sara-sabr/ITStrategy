@@ -48,7 +48,13 @@ body>.container {
   font-size: 20px;
 }
 
-#maincontent h1, #maincontent h2, #maincontent h3, #maincontent h4, #maincontent h5, #maincontent p, #maincontent blockquote, #maincontent .alert, #maincontent img, #maincontent dl, #maincontent ol, #maincontent ul, #maincontent details, #maincontent code {
+.version, .author {
+  font-size: 16px;
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+#maincontent h1, #maincontent h2, #maincontent h3, #maincontent h4, #maincontent h5, #maincontent p, #maincontent blockquote, #maincontent .alert, #maincontent img, #maincontent dl, #maincontent ol, #maincontent ul, #maincontent details, #maincontent code, #maincontent .version, #maincontent .author {
   max-width: 680px;
   margin-left: auto;
   margin-right: auto;
