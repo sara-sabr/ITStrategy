@@ -3,8 +3,8 @@ layout: post
 title:  "FWD50 in the open"
 ref: FWD50-2020
 lang: en
-author: "Rachel Muston and Guillaume Charest"
-date: "2020-11-27"
+author: "Rachel Muston and Guillaume Charest, in collaboration with the IT Strategy team"
+date: "2020-12-01"
 excerpt: "FWD50 looked very different this year. But, there was still a lot of passion and will from participants to continuously improve government! This blog post shares some of the technologies used to bring FWD50 attendees together as well as the FWD50 content that has been made openly available by presenters and participants."
 ---
 <!--markdownlint-disable MD033-->

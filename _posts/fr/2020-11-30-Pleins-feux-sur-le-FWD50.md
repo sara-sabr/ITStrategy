@@ -4,7 +4,7 @@ title:  "Pleins feux sur le FWD50"
 ref: FWD50-2020
 lang: fr
 author: "Rachel Muston et Guillaume Charest en collaboration avec l'équipe de Stratégie TI"
-date: "2020-11-27"
+date: "2020-12-01"
 excerpt: "Le FWD50 a été très différent cette année. Mais il y avait encore beaucoup de passion et de volonté de la part des participants pour améliorer continuellement le gouvernement ! Ce billet de blogue présente quelques-unes des technologies utilisées pour réunir les participants de FWD50 ainsi que le contenu de FWD50 qui a été mis à disposition par les présentateurs et les participants."
 ---
 <!--markdownlint-disable MD033-->
