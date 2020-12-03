@@ -15,43 +15,43 @@ Teams are invited to complete the survey every 6 (six) to 12 (twelve) months to 
 The survey has 6 question types that will be repeated throughout the exercise to gather the appropriate information.
 The question types can be found below.  
 **For consideration by the team.** The survey is modular and you have the option to complete one or more capabilities (sections).
-Please note that the IT Strategy team recommends that teams complete all capabilities at least once to establish a full baseline. 
+Please note that the IT Strategy team recommends that teams complete all capabilities at least once to establish a full baseline.
 
 ## Table of Content  
 
-  - [WHAT IS AN ASSESSMENT TOOL](#what-is-an-assessment-tool)
-    - [What is the problem and solution](#what-is-the-problem-and-solution)
-    - [Who is it for](#who-is-it-for)
-    - [What is the purpose of the Assessment tool](#what-is-the-purpose-of-the-assessment-tool)
-    - [Assessment tool process](#assessment-tool-process)
-    - [Survey questions](#survey-questions)
-    - [Scoring](#scoring)
-    - [Recommendations](#recommendations)
-    - [Alignment](#alignment)
-    - [Supporting quotes](#supporting-quotes)
-  - [SURVEY QUESTIONS AND RECOMMENDATIONS](#survey-questions-and-recommendations)
+- [WHAT IS AN ASSESSMENT TOOL](#what-is-an-assessment-tool)
+  - [What is the problem and solution](#what-is-the-problem-and-solution)
+  - [Who is it for](#who-is-it-for)
+  - [What is the purpose of the Assessment tool](#what-is-the-purpose-of-the-assessment-tool)
+  - [Assessment tool process](#assessment-tool-process)
+  - [Survey questions](#survey-questions)
+  - [Scoring](#scoring)
+  - [Recommendations](#recommendations)
+  - [Alignment](#alignment)
+  - [Supporting quotes](#supporting-quotes)
+- [SURVEY QUESTIONS AND RECOMMENDATIONS](#survey-questions-and-recommendations)
   - [SECTION 1. VERSION CONTROL AND CODE MAINTAINABILITY](#section-1-version-control-and-code-maintainability)
-    - [SECTION 1. Recommendations](#section-1-recommendations)
+  - [SECTION 1. Recommendations](#section-1-recommendations)
   - [SECTION 2. CONTINUOUS INTEGRATION AND DEPLOYMENT](#section-2-continuous-integration-and-deployment)
-    - [SECTION 2. Recommendations](#section-2-recommendations)
+  - [SECTION 2. Recommendations](#section-2-recommendations)
   - [SECTION 3. CONTINUOUS TESTING](#section-3-continuous-testing)
-    - [SECTION 3. Recommendations](#section-3-recommendations)
+  - [SECTION 3. Recommendations](#section-3-recommendations)
   - [SECTION 4. ARCHITECTURE](#section-4-architecture)
-    - [SECTION 4. Recommendations](#section-4-recommendations)
+  - [SECTION 4. Recommendations](#section-4-recommendations)
   - [SECTION 5. CLOUD INFRASTRUCTURE](#section-5-cloud-infrastructure)
-    - [SECTION 5. Recommendations](#section-5-recommendations)
+  - [SECTION 5. Recommendations](#section-5-recommendations)
   - [SECTION 6. TEAM EXPERIMENTATION AND STREAMLINING CHANGE APPROVAL](#section-6-team-experimentation-and-streamlining-change-approval)
-    - [SECTION 6. Recommendations](#section-6-recommendations)
+  - [SECTION 6. Recommendations](#section-6-recommendations)
   - [SECTION 7. CUSTOMER FEEDBACK AND WORK VISIBILITY](#section-7-customer-feedback-and-work-visibility)
-    - [SECTION 7. Recommendations](#section-7-recommendations)
+  - [SECTION 7. Recommendations](#section-7-recommendations)
   - [Section 8. DATA APPLICATION MONITORING](#section-8-data-application-monitoring)
-    - [Section 8. Recommendations](#section-8-recommendations)
+  - [Section 8. Recommendations](#section-8-recommendations)
   - [Section 9. WORK IN PROCESS LIMITS AND VISUAL MANAGEMENT](#section-9-work-in-process-limits-and-visual-management)
-    - [Section 9. Recommendations](#section-9-recommendations)
+  - [Section 9. Recommendations](#section-9-recommendations)
   - [Section 10. LEARNING AND GENERATIVE CULTURE](#section-10-learning-and-generative-culture)
-    - [Section 10. Recommendations](#section-10-recommendations)
+  - [Section 10. Recommendations](#section-10-recommendations)
   - [Section 11. TRANSFORMATION AND TRANSFORMATIONAL LEADERSHIP](#section-11-transformation-and-transformational-leadership)
-    - [Section 11. Recommendations](#section-11-recommendations)
+  - [Section 11. Recommendations](#section-11-recommendations)
 
 ### WHAT IS AN ASSESSMENT TOOL
 
@@ -189,7 +189,7 @@ Based on the [DORA DevOps capabilities guides](https://cloud.google.com/solution
 
 - In my team, code commits trigger a build of the software.
 - In my team, code commits trigger a suite of automated tests.
-- In my team, automated builds and tests are executed successfully every day. 
+- In my team, automated builds and tests are executed successfully every day.
 - In my team, current builds are available to testers for exploratory testing.
 - In my team, developers get feedback from the acceptance and performance tests every day.
 - In my team, adequate test data is available to run full automated test suites.
@@ -197,7 +197,7 @@ Based on the [DORA DevOps capabilities guides](https://cloud.google.com/solution
 - Test data does not limit or constrain the automated tests that my team can run.
 - In my team, features undergo security review early in the design process.
 - In my team, security reviews do not slow down the development cycle.
-- In my team, security requirements are included in the automated testing process. 
+- In my team, security requirements are included in the automated testing process.
 
 #### **Recommendations**
 
@@ -389,7 +389,7 @@ Based on the [DORA DevOps capabilities guides](https://cloud.google.com/solution
 - My team is able to do work and make changes without having to ask for permission.
 - My team is able to make changes to user needs and specifications during a project.
 - Changes in my team can be promoted to production without manual change approvals.
-- My team has a clear understanding of the process to get changes approved for implementation. 
+- My team has a clear understanding of the process to get changes approved for implementation.
 - My team is confident they can get changes through the approval process in a timely manner and knows the steps it takes to go from "submitted" to "accepted".
 - Tools and platforms are agreed upon by my team and tailored to the needs of the project.
 - My team promotes team development and handle cross-functional activities.
@@ -507,7 +507,7 @@ Here are a few key measures to validate an effective implementation of monitorin
 
 ### Section 9. WORK IN PROCESS LIMITS AND VISUAL MANAGEMENT
 
-- People on my team are not often assigned to work on multiple mutually exclusive tasks. 
+- People on my team are not often assigned to work on multiple mutually exclusive tasks.
 - When faced with too much work and too few people to do it, my team prioritize work and focus on completing a small number of high-priority tasks.
 - My team often discovers invisible work when it is not expected.
 - Our team work is visible to other teams and stakeholders.
@@ -649,7 +649,7 @@ Continuing to build a climate for learning is directly related to how an organiz
 - Leaders understand clearly where my team and the organization are going, and where they want the team to be in five years.
 - Leaders say positive things about my team and make employees proud to be a part of their organization.
 - Leaders challenge team members to think about old problems in new ways and to rethink some of their basic assumptions about their work.
-- Leaders behave in a manner which is thoughtful of my team member intersts and personal needs.
+- Leaders behave in a manner which is thoughtful of my team member interests and personal needs.
 
 #### **Recommendations**
 
