@@ -8,18 +8,17 @@ sections: Work In Progress
 permalink: /high-performing-it-capabilities.html
 ---
 
-The following survey is based on the [State of DevOps Report](https://cloud.google.com/devops/state-of-devops/) has been published annually since 2014, as part of the DevOps Research and Assessment (DORA).
+The following survey is based on the [State of DevOps Report](https://cloud.google.com/devops/state-of-devops/) that has been published annually since 2014, as part of the DevOps Research and Assessment (DORA).
 This six-year research program has validated a number of technical, process, measurement, and cultural capabilities to drive higher software delivery and organizational performance.
 The survey questions will measure and support the [Continuous Improvement](https://cloud.google.com/solutions/devops/devops-culture-transform) of these capabilities in IITB and ESDC.
 Teams are invited to complete the survey every 6 (six) to 12 (twelve) months to measure the success of their activities.
 The survey has 6 question types that will be repeated throughout the exercise to gather the appropriate information.
-The question types can be found below. 
-**For consideration by the team:** The survey is modular and you have the option to complete one or more capabilities.
+The question types can be found below.  
+**For consideration by the team.** The survey is modular and you have the option to complete one or more capabilities (sections).
 Please note that the IT Strategy team recommends that teams complete all capabilities at least once to establish a full baseline. 
 
 ## Table of Content  
 
-- [Table of Content](#table-of-content)
   - [WHAT IS AN ASSESSMENT TOOL](#what-is-an-assessment-tool)
     - [What is the problem and solution](#what-is-the-problem-and-solution)
     - [Who is it for](#who-is-it-for)
@@ -157,16 +156,16 @@ To achieve goals of efficient cooperation, collaboration, and bug-free code each
 
 ### SURVEY QUESTIONS AND RECOMMENDATIONS  
 
-### SECTION 1. VERSION CONTROL AND CODE MAINTAINABILITY  
+### Section 1. VERSION CONTROL AND CODE MAINTAINABILITY  
 
-- My team can recover application code from the version control system. [1-7]
-- My team can reconfigure systems from files in the version control system. [1-7]
-- It is easy for us to change code maintained by other teams if we need to. [1-7]
-- It is easy to find examples in our codebase. [1-7]
-- It is easy to reuse other people's code. [1-7]
-- It is easy to add new dependencies to a project. [1-7]
-- It is easy to migrate to a new version of a dependency. [1-7]
-- Dependencies are stable and rarely break teams' code. [1-7]
+- My team can recover application code from the version control system.
+- My team can reconfigure systems from files in the version control system.
+- It is easy for my team to change code maintained by other teams if we need to.
+- It is easy for my team to find examples in our codebase.
+- It is easy for my team to reuse other people's code.
+- It is easy for my team to add new dependencies to a project.
+- It is easy for my team to migrate to a new version of a dependency.
+- Dependencies are stable and rarely break my teams' code.
 
 #### **Recommendations**
 
@@ -186,19 +185,19 @@ Based on the [DORA DevOps capabilities guides](https://cloud.google.com/solution
 
 *Learn more about [Code Maintainability](https://cloud.google.com/solutions/devops/devops-tech-code-maintainability)*
 
-### SECTION 2. CONTINUOUS INTEGRATION AND DEPLOYMENT
+### Section 2. CONTINUOUS INTEGRATION AND DEPLOYMENT
 
-- Code commits trigger a build of the software. [1-7] 
-- Code commits trigger a suite of automated tests. [1-7] 
-- Automated builds and tests are executed successfully every day. [1-7] 
-- Current builds are available to testers for exploratory testing. [1-7]
-- Developers get feedback from the acceptance and performance tests every day. [1-7] 
-- Adequate test data is available to run full automated test suites. [1-7] 
-- Test data can be acquired on demand. [1-7] 
-- Test data does not limit or constrain the automated tests that teams can run. [1-7] 
-- Features undergo security review early in the design process. [1-7] 
-- Security reviews do not slow down the development cycle. [1-7] 
-- Security requirements are included in the automated testing process. [1-7] 
+- In my team, code commits trigger a build of the software.
+- In my team, code commits trigger a suite of automated tests.
+- In my team, automated builds and tests are executed successfully every day. 
+- In my team, current builds are available to testers for exploratory testing.
+- In my team, developers get feedback from the acceptance and performance tests every day.
+- In my team, adequate test data is available to run full automated test suites.
+- In my team, test data can be acquired on demand.
+- Test data does not limit or constrain the automated tests that my team can run.
+- In my team, features undergo security review early in the design process.
+- In my team, security reviews do not slow down the development cycle.
+- In my team, security requirements are included in the automated testing process. 
 
 #### **Recommendations**
 
@@ -277,20 +276,20 @@ This excerpt from to the [DORA DevOps capabilities guides](https://cloud.google.
 
 *Learn more about [Security Quality](https://cloud.google.com/solutions/devops/devops-tech-shifting-left-on-security)*
 
-### SECTION 3. CONTINUOUS TESTING
+### Section 3. CONTINUOUS TESTING
 
-- Developers primarily create and maintain acceptance tests. [1-7]
-- When the automated tests pass, I am confident the software is releasable. [1-7]
-- Test failures are likely to indicate a real defect. [1-7]
-- It is easy for developers to fix acceptance test failures. [1-7]
-- Developers use their own development environment to reproduce acceptance failures. [1-7]
-- Automated tests are seamlessly integrated into our software delivery tech bricks. [1-7]
-- We continuously review and improve our test suite to better find defects and keep complexity and cost under control. [1-7]
-- We have the test data necessary to run our tests easily at every step. [1-7]
-- Testers work alongside developers throughout the software development and delivery process. [1-7]
-- Manual test activities such as exploratory testing, usability testing, and acceptance testing are performed continuously throughout the delivery process. [1-7]
-- Developers practice test-driven development by writing unit tests before writing production code for all changes to the codebase. [1-7]
-- I can get feedback from automated tests in less than ten minutes both on local workstation and from the CI server. [1-7]
+- In my team, developers primarily create and maintain acceptance tests.
+- When the automated tests pass, my team is confident the software is releasable.
+- In my team, test failures are likely to indicate a real defect.
+- It is easy for developers in my team to fix acceptance test failures.
+- Developers in my team use their own development environment to reproduce acceptance failures.
+- Automated tests in my team are seamlessly integrated into our software delivery tech bricks.
+- My team continuously review and improve our test suite to better find defects and keep complexity and cost under control.
+- My team has the test data necessary to run our tests easily at every step.
+- Testers in my team work alongside developers throughout the software development and delivery process.
+- Manual test activities such as exploratory testing, usability testing, and acceptance testing are performed continuously in my team throughout the delivery process.
+- Developers in my team practice test-driven development by writing unit tests before writing production code for all changes to the codebase.
+- My team can get feedback from automated tests in less than ten minutes both on local workstation and from the CI server.
 
 #### **Recommendations**
 
@@ -319,15 +318,15 @@ Make sure you require developers to write unit and acceptance tests for any new 
 
 *Learn more about [Continuous Testing](https://cloud.google.com/solutions/devops/devops-tech-test-automation)*
 
-### SECTION 4. ARCHITECTURE
+### Section 4. ARCHITECTURE
 
-- My team can make large-scale changes to the design of their systems without the permission of somebody outside the team or depending on other teams. [1-7]
-- My team is able to complete work without needing fine-grained communication and coordination with people outside the team. [1-7]
-- My team deploys and releases their product or service on demand, independently of the services it depends on or of other services that depend on it. [1-7]
-- My team does most of their testing on demand, without requiring an integrated test environment. [1-7]
-- My team can deploy during normal business hours with negligible downtime. [1-7]
-- My team feels that we're empowered to choose tools. [1-7] 
-- My team proactively investigates new tools for new projects. [1-7] 
+- My team can make large-scale changes to the design of their systems without the permission of somebody outside the team or depending on other teams.
+- My team is able to complete work without needing fine-grained communication and coordination with people outside the team.
+- My team deploys and releases their product or service on demand, independently of the services it depends on or of other services that depend on it.
+- My team does most of their testing on demand, without requiring an integrated test environment.
+- My team can deploy during normal business hours with negligible downtime.
+- My team feels that we are empowered to choose tools.
+- My team proactively investigates new tools for new projects.
 
 #### **Recommendations**
 
@@ -367,13 +366,13 @@ The following excerpt from the [DORA DevOps capabilities guides](https://cloud.g
 
 *Learn more about [Empowering teams to choose tools](https://cloud.google.com/solutions/devops/devops-tech-teams-empowered-to-choose-tools)*
 
-### SECTION 5. CLOUD INFRASTRUCTURE
+### Section 5. CLOUD INFRASTRUCTURE
 
-- Once my team has access, we can independently provision and configure the cloud resources and capabilities required for our product or service on demand without raising tickets or requiring human interaction. [1-7]
-- The service or product that my team primarily works on is designed to be accessed from a broad range of devices (e.g. smartphones, tablets, laptops) over the network without the need for proprietary plug-ins or protocols. [1-7]
-- The cloud my team's product or service runs on serves multiple teams and applications, with compute and infrastructure resources dynamically assigned and re-assigned based on demand. [1-7]
-- My team can dynamically increase or decrease the cloud resources available for the service or product that I primarily support based on demand. [1-7]
-- My team can monitor or control the quantity and/or cost of cloud resources used by the service or product that I primarily support. [1-7]
+- Once my team has access, we can independently provision and configure the cloud resources and capabilities required for our product or service on demand without raising tickets or requiring human interaction.
+- The service or product that my team primarily works on is designed to be accessed from a broad range of devices (e.g. smartphones, tablets, laptops) over the network without the need for proprietary plug-ins or protocols.
+- The cloud my team's product or service runs on serves multiple teams and applications, with compute and infrastructure resources dynamically assigned and re-assigned based on demand.
+- My team can dynamically increase or decrease the cloud resources available for the service or product that we primarily support based on demand.
+- My team can monitor or control the quantity and/or cost of cloud resources used by the service or product that we primarily support.
 
 #### **Recommendations**
 
@@ -384,19 +383,19 @@ Based on the [DORA DevOps capabilities guides](https://cloud.google.com/solution
 
 *To learn more about [Cloud Infrastructure](https://cloud.google.com/solutions/devops/devops-tech-cloud-infrastructure)*
 
-### SECTION 6. TEAM EXPERIMENTATION AND STREAMLINING CHANGE APPROVAL
+### Section 6. TEAM EXPERIMENTATION AND STREAMLINING CHANGE APPROVAL
 
-- My team is able to work on new ideas and experiment. [1-7] 
-- My team is able to do work and make changes without having to ask for permission. [1-7] 
-- My team is able to make changes to user needs and specifications during a project. [1-7] 
-- Changes can be promoted to production without manual change approvals. [1-7] 
-- My team has a clear understanding of the process to get changes approved for implementation. [1-7] 
-- My team is confident they can get changes through the approval process in a timely manner and know the steps it takes to go from "submitted" to "accepted". [1-7]
-- Tools and platforms are agreed upon by the team and tailored to the needs of the project. [1-7]
-- My team promotes team development and handle cross-functional activities. [1-7]
-- My team executes peer review which includes reviews, comments, and approvals captured as part of the development process. [1-7] 
-- My team considers the development platform as a product by evaluating the changes on multiple axes, including security, performance,and stability, as well as defects. [1-7] 
-- My team continuously improve business processes by identifying and eliminating bottlenecks. [1-7]
+- My team is able to work on new ideas and experiment.
+- My team is able to do work and make changes without having to ask for permission.
+- My team is able to make changes to user needs and specifications during a project.
+- Changes in my team can be promoted to production without manual change approvals.
+- My team has a clear understanding of the process to get changes approved for implementation. 
+- My team is confident they can get changes through the approval process in a timely manner and knows the steps it takes to go from "submitted" to "accepted".
+- Tools and platforms are agreed upon by my team and tailored to the needs of the project.
+- My team promotes team development and handle cross-functional activities.
+- My team executes peer review which includes reviews, comments, and approvals captured as part of the development process.
+- My team considers the development platform as a product by evaluating the changes on multiple axes, including security, performance,and stability, as well as defects.
+- My team continuously improve business processes by identifying and eliminating bottlenecks.
 
 #### **Recommendations**
 
@@ -418,15 +417,15 @@ This excerpt of the [DORA DevOps capabilities guides](https://cloud.google.com/s
 
 *Learn more about [Streamlining change approval](https://cloud.google.com/solutions/devops/devops-process-streamlining-change-approval)*
 
-### SECTION 7. CUSTOMER FEEDBACK AND WORK VISIBILITY
+### Section 7. CUSTOMER FEEDBACK AND WORK VISIBILITY
 
-- My team actively collects customer feedback on product and features quality. [1-7]
-- My team establishes key metrics on customer satisfaction before gathering information from the customers. [1-7]
-- After seeking customer feedbacks, the team utilizes the response to understand the pain points and find solutions quickly. [1-7] 
-- My team is able to use value streams to gain insight and guide necessary improvements to ensure you have the bandwidth to support functionality and the documentation to put it into place. [1-7] 
-- My team focuses on building, testing, and releasing code changes to an (production or testing) environment in small batches. [1-7]
-- Following production release, my team is able to amplify feedback from users quickly using techniques (ex: AB testing) and enable short lead times faster. [1-7] 
-- Feedback received is simple, easy to understand and provides actionable information. [1-7] 
+- My team actively collects customer feedback on product and features quality.
+- My team establishes key metrics on customer satisfaction before gathering information from the customers.
+- After seeking customer feedback, my team utilizes the response to understand the pain points and find solutions quickly.
+- My team is able to use value streams to gain insight and guide necessary improvements to ensure we have the bandwidth to support functionality and the documentation to put it into place.
+- My team focuses on building, testing, and releasing code changes to an (production or testing) environment in small batches.
+- Following production release, my team is able to amplify feedback from users quickly using techniques (ex: AB testing) and enable short lead times faster.
+- Feedback received is simple, easy to understand and provides actionable information in my team.
 
 #### **Recommendations**
 
@@ -464,11 +463,11 @@ The following excerpt of the [DORA DevOps capabilities guides](https://cloud.goo
 
 ### Section 8. DATA APPLICATION MONITORING
 
-- In my team data from application performance monitoring tools is used to make business decisions [1-7] 
-- In my team data from infrastructure monitoring tools is used to make business decisions [1-7] 
-- Monitoring in my team gives rapid feedback which helps quickly find and fix problems early in the project lifecycle? [1-7] 
-- In my team the knowledge gained from application monitoring is shared across organization to help people and systems improve. [1-7] 
-- My team has access to tools and data that help trace, understand, and diagnose infrastructure problems in production environment, including interactions between services [1-7] 
+- In my team, data from application performance monitoring tools is used to make business decisions.
+- In my team, data from infrastructure monitoring tools is used to make business decisions.
+- Monitoring in my team gives rapid feedback which helps quickly find and fix problems early in the project lifecycle.
+- In my team, the knowledge gained from application monitoring is shared across organization to help people and systems improve.
+- My team has access to tools and data that help trace, understand, and diagnose infrastructure problems in production environment, including interactions between services.
 
 #### **Recommendations**
 
@@ -508,13 +507,13 @@ Here are a few key measures to validate an effective implementation of monitorin
 
 ### Section 9. WORK IN PROCESS LIMITS AND VISUAL MANAGEMENT
 
-- People on my team are not often assigned to work on multiple mutually exclusive tasks. [1-7] 
-- When faced with too much work and too few people to do it, we prioritize work and focus on completing a small number of high-priority tasks. [1-7] 
-- My team often discovers invisible work when it is not expected. [1-7]
-- Our team work is visible to other teams and stakeholders. [1-7]
-- My team uses visual displays and dashboards to manage the work at various stages of a process. [1-7]
-- In my team visual displays are up to date and the information contributing to measurable improvement is towards a goal that the team cares about. [1-7]
-- When looking at visual management displays I see the key process metrics my team cares about. [1-7]
+- People on my team are not often assigned to work on multiple mutually exclusive tasks. 
+- When faced with too much work and too few people to do it, my team prioritize work and focus on completing a small number of high-priority tasks.
+- My team often discovers invisible work when it is not expected.
+- Our team work is visible to other teams and stakeholders.
+- My team uses visual displays and dashboards to manage the work at various stages of a process.
+- In my team, visual displays are up to date and the information contributing to measurable improvement is towards a goal that the team cares about.
+- When looking at visual management displays we see the key process metrics my team cares about.
 
 #### **Recommendations**
 
@@ -562,18 +561,18 @@ This excerpt from the [DORA DevOps capabilities guides](https://cloud.google.com
 
 ### Section 10. LEARNING AND GENERATIVE CULTURE
 
-- In my team employees feel supported by each other. [1-7]
-- In my team employees feel their feedback is valued. [1-7]
-- In my team employees are given meaningful work that leverages their expertise. [1-7]
-- My team culture interacts with the broader organizational culture. [1-7]
-- In my team failures are treated as opportunities to improve and learn. [1-7]
-- My team is allowed and encouraged to experiment and try new things. [1-7]
-- On my team, information is actively sought [1-7]
-- Messengers are not punished when they deliver news of failures or other bad news. [1-7]
-- On my team, responsibilities are shared. [1-7]
-- On my team, cross-functional collaboration is encouraged and rewarded. [1-7]
-- My team views learning as a priority and an investment for growth, has the resources to engage in informal learning and the space to explore ideas. [1-7]
-- My team has a regular cadence of opportunities for employees to share their knowledge. [1-7]
+- In my team, employees feel supported by each other.
+- In my team, employees feel their feedback is valued.
+- In my team, employees are given meaningful work that leverages their expertise.
+- My team culture interacts with the broader organizational culture.
+- In my team, failures are treated as opportunities to improve and learn.
+- My team is allowed and encouraged to experiment and try new things.
+- In my team, information is actively sought.
+- In my team, messengers are not punished when they deliver news of failures or other bad news.
+- In my team, responsibilities are shared.
+- In my team, cross-functional collaboration is encouraged and rewarded.
+- My team views learning as a priority and an investment for growth, has the resources to engage in informal learning and the space to explore ideas.
+- My team has a regular cadence of opportunities for employees to share their knowledge.
 
 #### **Recommendations**
 
@@ -645,12 +644,12 @@ Continuing to build a climate for learning is directly related to how an organiz
 
 ### Section 11. TRANSFORMATION AND TRANSFORMATIONAL LEADERSHIP
 
-- My team understands clearly the current/target conditions, up to 5 (five) years in the future, and produces outcomes that match up with the purpose of the organization. [1-7]
-- My team is running experiments on a daily basis to try to move toward the target conditions or key results [1-7]
-- Leaders understand clearly where my team and the organization are going, and where they want the team to be in five years. [1-7]
-- Leaders say positive things about the team and make employees proud to be a part of their organization. [1-7]
-- Leaders challenge team members to think about old problems in new ways and to rethink some of their basic assumptions about their work. [1-7]
-- Leaders behave in a manner which is thoughtful of team member intersts and personal needs. [1-7]
+- My team understands clearly the current/target conditions, up to 5 (five) years in the future, and produces outcomes that match up with the purpose of the organization.
+- My team is running experiments on a daily basis to try to move toward the target conditions or key results.
+- Leaders understand clearly where my team and the organization are going, and where they want the team to be in five years.
+- Leaders say positive things about my team and make employees proud to be a part of their organization.
+- Leaders challenge team members to think about old problems in new ways and to rethink some of their basic assumptions about their work.
+- Leaders behave in a manner which is thoughtful of my team member intersts and personal needs.
 
 #### **Recommendations**
 
