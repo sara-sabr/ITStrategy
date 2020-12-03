@@ -73,3 +73,12 @@
   interests: Free (open source) software, DevOps, enterprise architecture
   interets: Logiciels libres, DevOps, architecture d'entreprise
   picture_path: assets/images/profile-sebastien.jpg
+- name: Philipe Girard
+  title: Manager
+  titre: Gestionnaire
+  email: philipe.girard@hrsdc-rhdcc.gc.ca
+  couriel: philipe.girard@rhdcc-hrsdc.gc.ca
+  github: remyb2canada
+  interests: Upcoming!
+  interets: À venir!
+  picture_path: assets/images/profile-phil.png
