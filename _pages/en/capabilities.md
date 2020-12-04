@@ -485,7 +485,7 @@ The following excerpt of the [DORA DevOps capabilities guides](https://cloud.goo
 ### Section 8. DATA APPLICATION MONITORING
 
 How do you watch and understand your systems at work?
-Please rate how strongly you agree or disagree with the following statements:
+Please rate how strongly you agree or disagree with the following statements.
 On my team:
 
 - We have a solution in place to report on the overall health of systems (e.g, are my systems functioning? / do my systems have sufficient resources available?).
