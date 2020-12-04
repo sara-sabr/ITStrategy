@@ -227,41 +227,6 @@ The following actions are required for this approach:
 
 *Learn more about [Deployment Automation](https://cloud.google.com/solutions/devops/devops-tech-test-automation)*
 
-This excerpt from to the [DORA DevOps capabilities guides](https://cloud.google.com/solutions/devops/capabilities) indicates that the following practices can effectively and efficiently improve the **Test Data Management**:
-
-> 1. Favor unit tests.
-Unit tests should be independent of each other and any other part of the system except the code being tested.
-Unit tests should not depend on external data. As defined by the test automation pyramid, unit tests should make up the majority of your tests. Well-written unit tests that run against a well-designed codebase are much easier to triage and cheaper to maintain than higher-level tests. Increasing the coverage of your unit tests can help minimize your reliance on higher-level tests that consume external data.
-> ![Test automation pyramid.](assets/images/devops-tech-test-automation-pyramid.svg){:height="80%" width="80%" margin-top="2em" margin-bottom="2em"}
-> 2. Minimize reliance on test data.
-  Test data requires careful and ongoing maintenance.
-  As your APIs and interfaces evolve, you must update or re-create related test data.
-  This process represents a cost that can negatively impact team velocity.
-  Hence, it's good practice to minimize the amount of test data needed to run automated tests.
-> 3. Isolate your test data.
-  Run your tests in well-defined environments with controlled inputs and expected outputs that can be compared to actual outputs.
-  Make sure that data consumed by a particular test is explicitly associated with that test, and isn't modified by other tests or processes.
-  Wherever possible, your tests should create the necessary state themselves as part of setup, using the application's APIs.
-  Isolating your test data is also a prerequisite for tests to run in parallel.
-> 4. Minimize reliance on test data stored in databases.
-  Maintaining test data stored in databases can be particularly challenging for the following reasons:
->    1. **Poor test isolation**.
-    Databases store data durably; any changes to the data will persist across tests unless explicitly reset.
-    Less reliable test inputs make test isolation more difficult, and can prevent parallelization.
->    2. **Performance impact**.
-    Speed of execution is a key requirement for automated tests.
-    Interacting with a database is typically slower and more cumbersome than interacting with locally stored data.
-    Favor in-memory databases where appropriate.
-> 5. Make test data readily available.
-  Running tests against a copy of a full production database introduces risk.
-  It can be challenging and slow to get the data refreshed.
-  As a result, the data can become out of date.
-  Production data can also contain sensitive information.
-  Instead, identify relevant sections of data that the tests require.
-  Export these sections regularly and make them easily available to tests.
-
-*Learn more about [Test Data Management](https://cloud.google.com/solutions/devops/devops-tech-test-data-management)*
-
 This excerpt from to the [DORA DevOps capabilities guides](https://cloud.google.com/solutions/devops/capabilities) indicates that the following practices can improve the **Security quality**:
 
 >- **Conduct security reviews**.
@@ -323,6 +288,41 @@ Finally, you can write a small number of **acceptance tests** for the high-value
 Make sure you require developers to write unit and acceptance tests for any new functionality, and any functionality you are changing.
 
 *Learn more about [Continuous Testing](https://cloud.google.com/solutions/devops/devops-tech-test-automation)*
+
+This excerpt from to the [DORA DevOps capabilities guides](https://cloud.google.com/solutions/devops/capabilities) indicates that the following practices can effectively and efficiently improve the **Test Data Management**:
+
+> 1. Favor unit tests.
+Unit tests should be independent of each other and any other part of the system except the code being tested.
+Unit tests should not depend on external data. As defined by the test automation pyramid, unit tests should make up the majority of your tests. Well-written unit tests that run against a well-designed codebase are much easier to triage and cheaper to maintain than higher-level tests. Increasing the coverage of your unit tests can help minimize your reliance on higher-level tests that consume external data.
+> ![Test automation pyramid.](assets/images/devops-tech-test-automation-pyramid.svg){:height="80%" width="80%" margin-top="2em" margin-bottom="2em"}
+> 2. Minimize reliance on test data.
+  Test data requires careful and ongoing maintenance.
+  As your APIs and interfaces evolve, you must update or re-create related test data.
+  This process represents a cost that can negatively impact team velocity.
+  Hence, it's good practice to minimize the amount of test data needed to run automated tests.
+> 3. Isolate your test data.
+  Run your tests in well-defined environments with controlled inputs and expected outputs that can be compared to actual outputs.
+  Make sure that data consumed by a particular test is explicitly associated with that test, and isn't modified by other tests or processes.
+  Wherever possible, your tests should create the necessary state themselves as part of setup, using the application's APIs.
+  Isolating your test data is also a prerequisite for tests to run in parallel.
+> 4. Minimize reliance on test data stored in databases.
+  Maintaining test data stored in databases can be particularly challenging for the following reasons:
+>    1. **Poor test isolation**.
+    Databases store data durably; any changes to the data will persist across tests unless explicitly reset.
+    Less reliable test inputs make test isolation more difficult, and can prevent parallelization.
+>    2. **Performance impact**.
+    Speed of execution is a key requirement for automated tests.
+    Interacting with a database is typically slower and more cumbersome than interacting with locally stored data.
+    Favor in-memory databases where appropriate.
+> 5. Make test data readily available.
+  Running tests against a copy of a full production database introduces risk.
+  It can be challenging and slow to get the data refreshed.
+  As a result, the data can become out of date.
+  Production data can also contain sensitive information.
+  Instead, identify relevant sections of data that the tests require.
+  Export these sections regularly and make them easily available to tests.
+
+*Learn more about [Test Data Management](https://cloud.google.com/solutions/devops/devops-tech-test-data-management)*
 
 ### Section 4. ARCHITECTURE
 
