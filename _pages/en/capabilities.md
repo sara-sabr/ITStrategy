@@ -604,8 +604,6 @@ Please rate how strongly you agree or disagree with the following statements as 
 - Messengers are not punished when they deliver news of failures or other bad news.
 - Responsibilities are shared.
 - Cross-functional collaboration is encouraged and rewarded.
-- Failure causes inquiry.
-- New ideas are welcomed.
 - Failures are treated primarily as opportunities to improve the system.
 - Employees feel supported by each other and that their feedback is valued.
 - Employees are given meaningful work that leverages their expertise.
