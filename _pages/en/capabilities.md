@@ -438,15 +438,15 @@ Please rate how strongly you agree or disagree with the following statements.
 On my team:
 
 - We actively collect customer feedback on product and features quality.
-- We establishe key metrics on customer satisfaction before gathering information from the customers.
+- We establish key metrics on customer satisfaction before gathering information from the customers.
 - After seeking customer feedback, we utilizes the response to understand the pain points and find solutions quickly.
 - We are able to use value streams to gain insight and guide necessary improvements to ensure we have the bandwidth to support functionality and the documentation to put it into place.
-- We focuse on building, testing, and releasing code changes to an (production or testing) environment in small batches.
+- We focus on building, testing, and releasing code changes to an (production or testing) environment in small batches.
 - Following production release, we are able to amplify feedback from users quickly using techniques (ex: AB testing) and enable short lead times faster.
 - Feedback received is simple, easy to understand and provides actionable information.
 - Our features are sliced in a way that lend themselves to frequent production releases.
 - Our features are decomposed in a way that allows a developer to complete the work in a week or less.
-- Our work is decomposed into features that allow for minimum viable products (MVPs) and rapid development, rather than complex and lengthy processes (an MVP has just enough features to get validated learning about the product & its continued development).
+- Our work is decomposed into features that allow for minimum viable products (MVP) and rapid development, rather than complex and lengthy processes (an MVP has just enough features to get validated learning about the product & its continued development).
 
 #### **Recommendations**
 
