@@ -496,7 +496,6 @@ On my team:
 - We have access to tools and data which help us trace, understand, and diagnose infrastructure problems in our production environment, including interactions between services.
 - Data from infrastructure and application performance monitoring tools is used to make business decisions.
 - Monitoring gives rapid feedback which helps quickly find and fix problems early in the project lifecycle.
-- The knowledge gained from application monitoring is shared across organization to help people and systems improve.
 
 #### **Recommendations**
 
