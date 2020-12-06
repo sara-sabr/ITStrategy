@@ -48,8 +48,8 @@ Run a one-year experimental pilot for purchases of $10K or less for custom code 
 
 ## Additional Materials  
 
-- Presentation <to come>
+- Presentation *to come*
 
-- Business case <to come>
+- Business case *to come*
 
 - [Micro-procurement blog post](2020/08/12/better-tech-through-microprocurement-p1.html)
