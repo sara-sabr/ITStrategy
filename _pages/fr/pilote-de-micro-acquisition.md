@@ -1,15 +1,16 @@
 ---
 layout: default
-title: Pilot de micro-acquisition
+title: Pilote de micro-acquisition
 ref: Micro-acquisition
-lang: en
+lang: fr
 status: posted
 sections: Work In Progress
-permalink: /micro-acquisition.html
+permalink: /pilote-de-micro-acquisition.html
 ---
+
 ## Déclaration de problème  
 
-De nombreuses avancées ont été réalisées pour moderniser les achats informatiques au CESD, comme la capacité à la demande. Cependant, lorsqu'il s'agit de coder, de développer et de travailler en public, il existe encore des problèmes d'approvisionnement :
+De nombreuses avancées ont été réalisées pour moderniser les achats informatiques au EDSC, comme la capacité à la demande. Cependant, lorsqu'il s'agit de coder, de développer et de travailler en public, il existe encore des problèmes d'approvisionnement :
 
 - Les jeunes entreprises et les indépendants possédant une expertise technologique de pointe peuvent rencontrer des obstacles pour accéder aux marchés publics
 
@@ -37,20 +38,18 @@ Mener un projet pilote expérimental d'un an pour des achats de 10 000 dollars o
 
 - Participation et accès accrus aux développeurs qui ne soumissionneraient pas normalement pour les contrats de TI du GC
 
-- Augmentation du travail au grand jour par le CESD
+- Augmentation du travail au grand jour par le EDSC
 
-- Réduction de la charge de travail des responsables des achats du CESD en leur permettant de se concentrer sur des achats plus complexes
+- Réduction de la charge de travail des responsables des achats du EDSC en leur permettant de se concentrer sur des achats plus complexes
 
-- Renforcement des capacités du CESD en matière d'agilité, notamment en divisant le travail en petits morceaux qui permettent d'obtenir des logiciels et des performances organisationnelles élevées
+- Renforcement des capacités du EDSC en matière d'agilité, notamment en divisant le travail en petits morceaux qui permettent d'obtenir des logiciels et des performances organisationnelles élevées
 
 - Accroître la rapidité de paiement des fournisseurs
 
 ## Matériel supplémentaire  
 
-- [Présentation](2020-Micro-Acquisition-Pilot.html)
+- [Présentation](2020-Micro-Acquisition-Pilot.html) - en anglais seulement
 
-- Dossier commercial *à venir
+- Dossier commercial - à venir
 
-- [Article de blog sur les microprocessus](2020/08/12/better-tech-through-microprocurement-p1.html)
-
-Traduit avec www.DeepL.com/Translator (version gratuite)
+- [Article de blog sur les microprocessus](2020/08/12/meilleure-technologie-grace-au-micro-approvisionnement-partie-1.html)
