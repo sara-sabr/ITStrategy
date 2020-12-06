@@ -48,7 +48,7 @@ Run a one-year experimental pilot for purchases of $10K or less for custom code 
 
 ## Additional Materials  
 
-- Presentation *to come*
+- [Presentation](2020-Micro-Acquisition-Pilot.html)
 
 - Business case *to come*
 
