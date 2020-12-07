@@ -4,7 +4,7 @@ title: Pilote de micro-acquisition
 ref: Micro-acquisition
 lang: fr
 status: posted
-sections: Work In Progress
+sections: Travail en cours
 permalink: /pilote-de-micro-acquisition.html
 ---
 

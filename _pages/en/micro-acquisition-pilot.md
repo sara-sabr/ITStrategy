@@ -5,7 +5,7 @@ ref: Micro-acquisition
 lang: en
 status: posted
 sections: Work In Progress
-permalink: /micro-acquisition.html
+permalink: /micro-acquisition-pilot.html
 ---
 
 ## Problem Statement  
