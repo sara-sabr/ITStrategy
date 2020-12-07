@@ -21,7 +21,7 @@ De nombreuses avancées ont été réalisées pour moderniser les achats informa
 
 Mener un projet pilote expérimental d'un an pour des achats de 10 000 dollars ou moins de code personnalisé sous licence open source :
 
-- Les possibilités de micro-acquisitions sont largement diffusées auprès des fournisseurs et les barrières à l'entrée (telles que les années d'expérience, la nécessité de se préqualifier, l'habilitation de sécurité) sont supprimées/réduites
+- Les possibilités de micro-acquisitions sont largement diffusées auprès des fournisseurs et les barrières à l'entrée (telles que les années d'expérience, la nécessité de se pré-qualifier, l'habilitation de sécurité) sont supprimées/réduites
 - Des garde-fous sont mis en place afin que les équipes puissent réaliser les micro-acquisitions sans avoir besoin du soutien des responsables des achats
 - Tous les codes acquis par micro-acquisition sont partagés sur des dépôts ouverts et rendus visibles au GC et au public pour permettre leur réutilisation
 - Les équipes informatiques sont en mesure d'effectuer des achats pour répondre aux besoins de capacité à court terme et apporter de nouvelles connaissances à l'organisation informatique
@@ -39,4 +39,4 @@ Mener un projet pilote expérimental d'un an pour des achats de 10 000 dollars o
 
 - [Présentation](2020-Micro-Acquisition-Pilot.html) - en anglais seulement
 - Dossier commercial - à venir
-- [Article de blog sur les microprocessus](2020/08/12/meilleure-technologie-grace-au-micro-approvisionnement-partie-1.html)
+- [Article de blog sur les micro-processus](2020/08/12/meilleure-technologie-grace-au-micro-approvisionnement-partie-1.html)
