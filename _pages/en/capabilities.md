@@ -187,7 +187,7 @@ Based on the [DORA DevOps capabilities guides](https://cloud.google.com/solution
 
 ### Section 2. CONTINUOUS INTEGRATION AND DEPLOYMENT
 
-*Description: Learn about common mistakes, ways to measure, and how to improve on your continuous integration efforts. 
+*Description: Learn about common mistakes, ways to measure, and how to improve on your continuous integration efforts.
 Best practices and approaches for deployment automation and reducing manual intervention in the release process.*
 
 Please rate how strongly you agree or disagree with the following statements.
@@ -251,7 +251,7 @@ This excerpt from to the [DORA DevOps capabilities guides](https://cloud.google.
 
 ### Section 3. CONTINUOUS TESTING
 
-*Description: Improve software quality by building reliable automates test suits and performing all kinds of testing throughout the software delivery lifecycle. 
+*Description: Improve software quality by building reliable automates test suits and performing all kinds of testing throughout the software delivery lifecycle.
 Make deploying software a reliable, low-risk process that can be performed on demand at any time.*
 
 Please rate how strongly you agree or disagree with the following statements.
@@ -335,8 +335,8 @@ Unit tests should not depend on external data. As defined by the test automation
 
 ### Section 4. ARCHITECTURE
 
-*Description: Learn about moving from a tightly coupled architecture to service-oriented and microservice architectures without re-architecting everything at once. 
-Empower teams to make informed decisions on tools and technologies. 
+*Description: Learn about moving from a tightly coupled architecture to service-oriented and microservice architectures without re-architecting everything at once.
+Empower teams to make informed decisions on tools and technologies.
 Learn how these decisions drive more effective software delivery.*
 
 Please rate how strongly you agree or disagree with the following statements.
