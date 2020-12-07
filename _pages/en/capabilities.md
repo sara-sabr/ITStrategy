@@ -335,7 +335,7 @@ Unit tests should not depend on external data. As defined by the test automation
 
 ### Section 4. ARCHITECTURE
 
-*Description: Learn about moving from a tightly coupled architecture to service-oriented and microservice architectures without re-architecting everything at once.
+*Description: Learn about moving from a tightly coupled architecture to service-oriented and micro service architectures without re-architecting everything at once.
 Empower teams to make informed decisions on tools and technologies.
 Learn how these decisions drive more effective software delivery.*
 
@@ -343,7 +343,7 @@ Please rate how strongly you agree or disagree with the following statements.
 For the primary application or service my team works on:
 
 - We can make large-scale changes to the design of our system without the permission of somebody outside the team or creating significant work for other teams.
-- To complete our work, we don’t need to communicate and coordinate with people outside the team.
+- To complete our work, we do not need to communicate and coordinate with people outside the team.
 - We can deploy and release our product or service on demand, independently of other services it depends upon.
 - We can do most of our testing on demand, without requiring an integrated test environment.
 - We perform deployments during normal business hours with negligible downtime.
@@ -505,7 +505,7 @@ The following excerpt of the [DORA DevOps capabilities guides](https://cloud.goo
 
 ### Section 8. DATA APPLICATION MONITORING
 
-*Description: Improve monitoring across infrastructure platforms, middlewear, and the application tier, so you can provide fast feedback to developers.
+*Description: Improve monitoring across infrastructure platforms and the application tier, so you can provide fast feedback to developers.
 Learn how to build tooling to help you to understand and debug your production system.*
 
 How do you watch and understand your systems at work?
@@ -559,7 +559,7 @@ Here are a few key measures to validate an effective implementation of monitorin
 
 ### Section 9. WORK IN PROCESS LIMITS AND VISUAL MANAGEMENT
 
-*Description: Proirotize work, limit the amount of things that people are working on, and focus on getting a small number of high-prority tasks done. Learn about the principles of visual mangement to promote information sharing, get a common understanding of where the team is, and how to improve.*
+*Description: Prioritize work, limit the amount of things that people are working on, and focus on getting a small number of high-priority tasks done. Learn about the principles of visual management to promote information sharing, get a common understanding of where the team is, and how to improve.*
 
 Please rate how strongly you agree or disagree with the following statements.
 On my team:
