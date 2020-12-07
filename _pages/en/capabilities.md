@@ -152,7 +152,7 @@ To achieve goals of efficient cooperation, collaboration, and bug-free code each
 
 ### Section 1. VERSION CONTROL AND CODE MAINTAINABILITY
 
-*Description: Learn how to implement the right version control practices for reproducibility and traceability.
+*Description: Learn how to implement better version control practices for reproducibility and traceability.
 Make it easy for developers to find, reuse, and change code, and keep dependencies up-to-date.*
 
 Please rate how strongly you agree or disagree with the following statements.
@@ -251,7 +251,7 @@ This excerpt from to the [DORA DevOps capabilities guides](https://cloud.google.
 
 ### Section 3. CONTINUOUS TESTING
 
-*Description: Improve software quality by building reliable automates test suits and performing all kinds of testing throughout the software delivery lifecycle.
+*Description: Improve software quality by building reliable automated test suits and performing all kinds of testing throughout the software delivery lifecycle.
 Make deploying software a reliable, low-risk process that can be performed on demand at any time.*
 
 Please rate how strongly you agree or disagree with the following statements.
