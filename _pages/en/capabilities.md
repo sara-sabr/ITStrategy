@@ -186,6 +186,7 @@ Based on the [DORA DevOps capabilities guides](https://cloud.google.com/solution
 *Learn more about [Code Maintainability](https://cloud.google.com/solutions/devops/devops-tech-code-maintainability)*
 
 ### Section 2. CONTINUOUS INTEGRATION AND DEPLOYMENT
+
 *Description: Learn about common mistakes, ways to measure, and how to improve on your continuous integration efforts. 
 Best practices and approaches for deployment automation and reducing manual intervention in the release process.*
 
@@ -249,6 +250,7 @@ This excerpt from to the [DORA DevOps capabilities guides](https://cloud.google.
 *Learn more about [Security Quality](https://cloud.google.com/solutions/devops/devops-tech-shifting-left-on-security)*
 
 ### Section 3. CONTINUOUS TESTING
+
 *Description: Improve software quality by building reliable automates test suits and performing all kinds of testing throughout the software delivery lifecycle. 
 Make deploying software a reliable, low-risk process that can be performed on demand at any time.*
 
@@ -332,6 +334,7 @@ Unit tests should not depend on external data. As defined by the test automation
 *Learn more about [Test Data Management](https://cloud.google.com/solutions/devops/devops-tech-test-data-management)*
 
 ### Section 4. ARCHITECTURE
+
 *Description: Learn about moving from a tightly coupled architecture to service-oriented and microservice architectures without re-architecting everything at once. 
 Empower teams to make informed decisions on tools and technologies. 
 Learn how these decisions drive more effective software delivery.*
@@ -408,7 +411,8 @@ Based on the [DORA DevOps capabilities guides](https://cloud.google.com/solution
 *To learn more about [Cloud Infrastructure](https://cloud.google.com/solutions/devops/devops-tech-cloud-infrastructure)*
 
 ### Section 6. TEAM EXPERIMENTATION AND STREAMLINING CHANGE APPROVAL
-*Description: Innovate faster by building empowered teams that can try out new ideas without approval from people outside the team. 
+
+*Description: Innovate faster by building empowered teams that can try out new ideas without approval from people outside the team.
 Replace heavyweight change-approval process with peer review, to get the benefits of a more reliable, compliant release process without sacrificing speed.*
 
 Please rate how strongly you agree or disagree with the following statements.
@@ -448,7 +452,7 @@ This excerpt of the [DORA DevOps capabilities guides](https://cloud.google.com/s
 
 ### Section 7. CUSTOMER FEEDBACK AND WORK VISIBILITY
 
-*Description: Drive better organizational outcomes by gathering customer feedback and incorporating it into product and feature design. 
+*Description: Drive better organizational outcomes by gathering customer feedback and incorporating it into product and feature design.
 Understand and visualize the flow of work from idea to customer outcome in order to drive higher performance.*
 
 Please rate how strongly you agree or disagree with the following statements.
