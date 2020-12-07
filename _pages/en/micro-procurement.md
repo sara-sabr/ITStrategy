@@ -5,7 +5,7 @@ ref: Micro-procurement
 lang: en
 status: posted
 permalink: /micro-procurement.html
-redirect_to: /micro-acquisition.html
+redirect_to: /micro-acquisition-pilot.html
 ---
 <!--markdownlint-disable MD022-->
 {% include page-redirect.md %}
