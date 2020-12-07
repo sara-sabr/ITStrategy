@@ -15,7 +15,7 @@ Many advancements have been made to modernize IT Procurement at ESDC, such as Ca
 - Start-ups and freelancers with the latest technology expertise can face barriers in accessing GC contracts
 - Low dollar value contracts go through the same processes as larger, more risky and complex procurements
 - Procurement officers face capacity issues particularly now during COVID
-- Sharing and re-using of code is not the norm
+- Sharing and reusing of code is not the norm
 
 ## Objectives
 
@@ -24,7 +24,7 @@ Run a one-year experimental pilot for purchases of $10K or less for custom code 
 - Opportunities for micro-acquisitions are widely publicized to suppliers and barriers to entry (such as years of experience, needing to pre-qualify, security clearance) are removed/reduced
 - Guardrails are put in place so that teams can complete the micro-acquisitions without needing the support of procurement officers
 - All code procured via micro-acquisition is shared on open repositories and made visible to the GC and the public to enable re-use
-- IT teams are able to make purchases to address short term capacity requirements and bring new knowledge into the IT organization
+- IT teams are able to make purchases to address short-term capacity requirements and bring new knowledge into the IT organization
 - Payment is made by credit card/PayPal
 
 ## Expected Results  
