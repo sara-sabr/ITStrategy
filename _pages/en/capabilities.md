@@ -152,6 +152,9 @@ To achieve goals of efficient cooperation, collaboration, and bug-free code each
 
 ### Section 1. VERSION CONTROL AND CODE MAINTAINABILITY
 
+*Description: Learn how to implement the right version control practices for reproducibility and traceability.
+Make it easy for developers to find, reuse, and change code, and keep dependencies up-to-date.*
+
 Please rate how strongly you agree or disagree with the following statements.
 For the primary application or service my team works on:
 
@@ -183,6 +186,8 @@ Based on the [DORA DevOps capabilities guides](https://cloud.google.com/solution
 *Learn more about [Code Maintainability](https://cloud.google.com/solutions/devops/devops-tech-code-maintainability)*
 
 ### Section 2. CONTINUOUS INTEGRATION AND DEPLOYMENT
+*Description: Learn about common mistakes, ways to measure, and how to improve on your continuous integration efforts. 
+Best practices and approaches for deployment automation and reducing manual intervention in the release process.*
 
 Please rate how strongly you agree or disagree with the following statements.
 For the primary application or service my team works on:
@@ -244,6 +249,8 @@ This excerpt from to the [DORA DevOps capabilities guides](https://cloud.google.
 *Learn more about [Security Quality](https://cloud.google.com/solutions/devops/devops-tech-shifting-left-on-security)*
 
 ### Section 3. CONTINUOUS TESTING
+*Description: Improve software quality by building reliable automates test suits and performing all kinds of testing throughout the software delivery lifecycle. 
+Make deploying software a reliable, low-risk process that can be performed on demand at any time.*
 
 Please rate how strongly you agree or disagree with the following statements.
 For the primary application or service my team works on:
@@ -325,6 +332,9 @@ Unit tests should not depend on external data. As defined by the test automation
 *Learn more about [Test Data Management](https://cloud.google.com/solutions/devops/devops-tech-test-data-management)*
 
 ### Section 4. ARCHITECTURE
+*Description: Learn about moving from a tightly coupled architecture to service-oriented and microservice architectures without re-architecting everything at once. 
+Empower teams to make informed decisions on tools and technologies. 
+Learn how these decisions drive more effective software delivery.*
 
 Please rate how strongly you agree or disagree with the following statements.
 For the primary application or service my team works on:
@@ -377,6 +387,8 @@ The following excerpt from the [DORA DevOps capabilities guides](https://cloud.g
 
 ### Section 5. CLOUD INFRASTRUCTURE
 
+*Description: Find out how to manage cloud infrastructure effectively so you can achieve higher levels of agility, availability, and cost visibility.*
+
 Please rate how strongly you agree or disagree with the following statements.
 On my team:
 
@@ -396,6 +408,8 @@ Based on the [DORA DevOps capabilities guides](https://cloud.google.com/solution
 *To learn more about [Cloud Infrastructure](https://cloud.google.com/solutions/devops/devops-tech-cloud-infrastructure)*
 
 ### Section 6. TEAM EXPERIMENTATION AND STREAMLINING CHANGE APPROVAL
+*Description: Innovate faster by building empowered teams that can try out new ideas without approval from people outside the team. 
+Replace heavyweight change-approval process with peer review, to get the benefits of a more reliable, compliant release process without sacrificing speed.*
 
 Please rate how strongly you agree or disagree with the following statements.
 On my team:
@@ -433,6 +447,9 @@ This excerpt of the [DORA DevOps capabilities guides](https://cloud.google.com/s
 *Learn more about [Streamlining change approval](https://cloud.google.com/solutions/devops/devops-process-streamlining-change-approval)*
 
 ### Section 7. CUSTOMER FEEDBACK AND WORK VISIBILITY
+
+*Description: Drive better organizational outcomes by gathering customer feedback and incorporating it into product and feature design. 
+Understand and visualize the flow of work from idea to customer outcome in order to drive higher performance.*
 
 Please rate how strongly you agree or disagree with the following statements.
 On my team:
@@ -484,6 +501,9 @@ The following excerpt of the [DORA DevOps capabilities guides](https://cloud.goo
 
 ### Section 8. DATA APPLICATION MONITORING
 
+*Description: Improve monitoring across infrastructure platforms, middlewear, and the application tier, so you can provide fast feedback to developers.
+Learn how to build tooling to help you to understand and debug your production system.*
+
 How do you watch and understand your systems at work?
 Please rate how strongly you agree or disagree with the following statements.
 On my team:
@@ -534,6 +554,8 @@ Here are a few key measures to validate an effective implementation of monitorin
 *Learn more about [Monitoring and observability](https://cloud.google.com/solutions/devops/devops-measurement-monitoring-and-observability)*
 
 ### Section 9. WORK IN PROCESS LIMITS AND VISUAL MANAGEMENT
+
+*Description: Proirotize work, limit the amount of things that people are working on, and focus on getting a small number of high-prority tasks done. Learn about the principles of visual mangement to promote information sharing, get a common understanding of where the team is, and how to improve.*
 
 Please rate how strongly you agree or disagree with the following statements.
 On my team:
@@ -592,6 +614,9 @@ This excerpt from the [DORA DevOps capabilities guides](https://cloud.google.com
 *Learn more about [Visual management capabilities...](https://cloud.google.com/solutions/devops/devops-measurement-visual-management)*
 
 ### Section 10. LEARNING AND GENERATIVE CULTURE
+
+*Description: Discover how growing a generative, high-trust culture drives better organizational and software delivery performance.
+Grow a learning culture and understand its impact on your organization performance.*
 
 Please rate how strongly you agree or disagree with the following statements as descriptive of your team and the organization:
 
@@ -677,6 +702,8 @@ Continuing to build a climate for learning is directly related to how an organiz
 *Learn more about [Learning culture](https://cloud.google.com/solutions/devops/devops-culture-learning-culture)*
 
 ### Section 11. TRANSFORMATION AND TRANSFORMATIONAL LEADERSHIP
+
+*Description: Learn how effective leaders influence software delivery performance by driving the adoption of technical and product management capabilities.*
 
 Please rate how strongly you agree or disagree with the following statements as descriptive of your team and the organization:
 
