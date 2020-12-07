@@ -12,3 +12,6 @@ url: "https://sara-sabr.github.io/"
 markdown: kramdown
 include: ["_pages"]
 exclude: ["wip-tec", "CONTRIBUTING.md", "cspell.json", "LICENSE", "link-check.js", "package.json", "package-lock.json", "README.md", "node_modules"]
+
+plugins:
+  - jekyll-redirect-from
