@@ -11,7 +11,7 @@ permalink: /pilote-de-micro-acquisition.html
 ## Énoncé du problème  
 
 De nombreuses avancées ont été réalisées pour moderniser les achats informatiques à EDSC, comme la "capacité à la demande".
-Cependant, lorsqu'il s'agit de coder, de développer et de travailler ouvertement, il existe encore des problèmes d'approvisionnement :
+Cependant, lorsqu'il s'agit de coder, développer et travailler ouvertement, il existe encore des problèmes d'approvisionnement :
 
 - Les jeunes entreprises et les travailleurs autonomes possédant une expertise technologique de pointe peuvent rencontrer des obstacles pour accéder aux marchés publics
 - Les marchés de faible valeur suivent les mêmes processus que les marchés plus importants, plus risqués et plus complexes
@@ -23,7 +23,7 @@ Cependant, lorsqu'il s'agit de coder, de développer et de travailler ouvertemen
 Mener un projet pilote expérimental d'un an pour des achats de 10 000 dollars ou moins de code sur mesure sous licence libre :
 
 - Les possibilités de micro-acquisitions sont largement diffusées auprès des fournisseurs et les barrières à l'entrée (telles que les années d'expérience, la nécessité de se préqualifier, l'attestation de sécurité) sont supprimées/réduites
-- Des garde-fous sont mis en place afin que les équipes puissent réaliser les micro-acquisitions sans avoir besoin du soutien des responsables des achats
+- Des garde-fous sont mis en place afin que les équipes puissent effectuer les micro-acquisitions sans avoir besoin du soutien des responsables des achats
 - Tout le code acheté par micro-acquisition est partagé dans des dépôts ouverts et visibles au GC et au public pour permettre sa réutilisation
 - Les équipes informatiques sont en mesure d'effectuer des achats pour répondre aux besoins de capacité à court terme et apporter de nouvelles connaissances à l'intérieur de l'organisation TI
 - Le paiement est effectué par carte de crédit/PayPal
