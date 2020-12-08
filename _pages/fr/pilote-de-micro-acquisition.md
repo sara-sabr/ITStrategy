@@ -40,4 +40,4 @@ Mener un projet pilote expérimental d'un an pour des achats de 10 000 dollars o
 
 - [Présentation](2020-Micro-Acquisition-Pilot.html) - en anglais seulement
 - Analyse de rentabilisation *à venir*
-- [Article de blogue](2020/08/12/meilleure-technologie-grace-au-micro-approvisionnement-partie-1.html)
+- [Billet de blogue](2020/08/12/meilleure-technologie-grace-au-micro-approvisionnement-partie-1.html)
