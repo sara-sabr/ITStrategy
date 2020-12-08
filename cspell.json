@@ -495,7 +495,8 @@
     "Lorsqu'un",
     "d'ensemble",
     "pilote",
-    "approvisionnement"
+    "approvisionnement",
+    "préqualifier"
   ],
   "flagWords": [],
   "import": [
@@ -508,8 +509,7 @@
     "typescript",
     "softwareterms",
     "html",
-    "css",
-    "préqualifier"
+    "css"
   ],
   "ignoreRegExpList": [
     "]\\(([^\\)]+)\\)"
