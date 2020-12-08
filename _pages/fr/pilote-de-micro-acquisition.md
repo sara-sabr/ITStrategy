@@ -36,7 +36,7 @@ Mener un projet pilote expérimental d'un an pour des achats de 10 000 dollars o
 - Renforcement des capacités d'EDSC en matière d'agilité, notamment en divisant le travail en petits morceaux, ce qui conduit vers des livraisons de logiciels et performances organisationnelles élevées
 - Accroître la rapidité de paiement des fournisseurs
 
-## Ressources additionnelles 
+## Ressources additionnelles
 
 - [Présentation]({{ site.baseurl }}/presentation.html?markdown=en/2020-Micro-Acquisition-Pilot.md) [en anglais]
 - Analyse de rentabilisation [à venir]
