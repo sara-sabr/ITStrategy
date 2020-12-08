@@ -8,7 +8,7 @@ sections: Travail en cours
 permalink: /pilote-de-micro-acquisition.html
 ---
 
-## Problème  
+## Énoncé du problème  
 
 De nombreuses avancées ont été réalisées pour moderniser les achats informatiques à EDSC, comme la "capacité à la demande".
 Cependant, lorsqu'il s'agit de coder, de développer et de travailler ouvertement, il existe encore des problèmes d'approvisionnement :
