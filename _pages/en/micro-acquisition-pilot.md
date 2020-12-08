@@ -10,7 +10,8 @@ permalink: /micro-acquisition.html
 
 ## Problem Statement  
 
-Many advancements have been made to modernize IT Procurement at ESDC, such as Capacity on Demand. However, when it comes to coding, development and working in the open, there are still procurement challenges that exist:
+Many advancements have been made to modernize IT Procurement at ESDC, such as Capacity on Demand.
+However, when it comes to coding, development and working in the open, there are still procurement challenges that exist:
 
 - Start-ups and freelancers with the latest technology expertise can face barriers in accessing GC contracts
 - Low dollar value contracts go through the same processes as larger, more risky and complex procurements

@@ -10,7 +10,8 @@ permalink: /pilote-de-micro-acquisition.html
 
 ## Problème  
 
-De nombreuses avancées ont été réalisées pour moderniser les achats informatiques à EDSC, comme la "capacité à la demande". Cependant, lorsqu'il s'agit de coder, de développer et de travailler ouvertement, il existe encore des problèmes d'approvisionnement :
+De nombreuses avancées ont été réalisées pour moderniser les achats informatiques à EDSC, comme la "capacité à la demande".
+Cependant, lorsqu'il s'agit de coder, de développer et de travailler ouvertement, il existe encore des problèmes d'approvisionnement :
 
 - Les jeunes entreprises et les travailleurs autonomes possédant une expertise technologique de pointe peuvent rencontrer des obstacles pour accéder aux marchés publics
 - Les marchés de faible valeur suivent les mêmes processus que les marchés plus importants, plus risqués et plus complexes
