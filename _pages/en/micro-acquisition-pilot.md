@@ -38,6 +38,6 @@ Run a one-year experimental pilot for purchases of $10K or less for custom code 
 
 ## Additional Materials  
 
-- [Presentation](2020-Micro-Acquisition-Pilot.html)
+- [Presentation]({{ site.baseurl }}/presentation.html?markdown=en/2020-Micro-Acquisition-Pilot.md)
 - Business case *to come*
 - [Blog post](2020/08/12/better-tech-through-microprocurement-p1.html)
