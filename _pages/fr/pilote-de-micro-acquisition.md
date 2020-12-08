@@ -32,7 +32,7 @@ Mener un projet pilote expérimental d'un an pour des achats de 10 000 dollars o
 - Participation et accès accrus aux développeurs qui ne soumissionneraient normalement pas aux contrats de TI du GC
 - Augmentation du travail en mode ouvert à EDSC
 - Réduction de la charge de travail des responsables des achats d'EDSC en leur permettant de se concentrer sur des achats plus complexes
-- Renforcement des capacités d'EDSC en matière d'agilité, notamment en divisant le travail en petits morceaux, ce qui conduit vers des livraisons de logiciels et performances organisationnelles élevées.
+- Renforcement des capacités d'EDSC en matière d'agilité, notamment en divisant le travail en petits morceaux, ce qui conduit vers des livraisons de logiciels et performances organisationnelles élevées
 - Accroître la rapidité de paiement des fournisseurs
 
 ## Ressources additionnelles 
