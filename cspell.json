@@ -508,7 +508,8 @@
     "typescript",
     "softwareterms",
     "html",
-    "css"
+    "css",
+    "préqualifier"
   ],
   "ignoreRegExpList": [
     "]\\(([^\\)]+)\\)"
