@@ -3,7 +3,7 @@ layout: post
 title:  "Better tech through micro-procurement: part two"
 ref: micro-procurement-p2
 lang: en
-author: "Rachel Muston, in collaboration with the IT Strategy team, and procurement experts at ESDC
+author: "Rachel Muston, in collaboration with the IT Strategy team, and procurement experts at ESDC"
 date: "2020-10-02"
 ---
 <!--markdownlint-disable MD033-->
