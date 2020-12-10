@@ -11,9 +11,9 @@ This is our first status update for the Micro-Acquisition Pilot that we are work
 
 ## Approvals and Governance
 
-- The pilot is being co-sponsored by the Innovation and Information Technology Branch (IITB) and Chief Financial Officer Branch (CFOB) at ESDC. The CFOB team have briefed up to the CFO.
+- The pilot is being co-sponsored by the Innovation and Information Technology Branch (IITB) and Chief Financial Officer Branch (CFOB) at ESDC. The CFOB team has briefed up to the CFO.
 
-- Both ESDC CFOB and IITB have committed FTE resources to the one year pilot as part of the project documents currently going for approval
+- Both ESDC CFOB and IITB have committed FTE resources to the one-year pilot as part of the project documents currently going for approval
 
 ## Process
 
@@ -41,6 +41,6 @@ We are also looking to follow the lead of the BC Dev Exchange and establish anon
 
 The BC Dev Exchange has been working with provincial governments who also want to establish micro-procurement initiatives. To better collaboratively develop tools technologies and generally support one another, the BC Dev Exchange team has suggested establishing a working group.
 
-- We have been connected with the team at SSC who are working on the [GC Digital Marketplace](https://technationportal.ca/) with the company TechNation. This Marketplace an inventory of small and medium Canadian tech businesses with 'products or services that are procurement-ready'.
+- We have been connected with the team at SSC who is working on the [GC Digital Marketplace](https://technationportal.ca/) with the company TechNation. This Marketplace an inventory of small and medium Canadian tech businesses with 'products or services that are procurement-ready'.
 
 - We are connected with the Office of Small and Medium Enterprise at PSPC and they have confirmed that they will be able to help us during design to ensure we don’t inadvertently add barriers to suppliers, and with communications of our opportunities via their supplier channels.
