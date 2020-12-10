@@ -4,7 +4,7 @@ title:  "Better tech through micro-procurement: part two"
 ref: micro-procurement-p2
 lang: en
 author: "Rachel Muston, in collaboration with the IT Strategy team, and procurement experts at ESDC"
-date: "2020-10-02"
+date: "2020-12-04"
 ---
 <!--markdownlint-disable MD033-->
 This is part two of a two part series looking at micro-procurement for digital work.
