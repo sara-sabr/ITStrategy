@@ -4,7 +4,7 @@ title: Target IT Solution Delivery Model Strategy - Explained
 ref: target-solution-delivery-model-strategy-explained
 lang: en
 status: posted
-sections: Supporting Documents
+sections: Archives
 permalink: /target-solution-delivery-model-strategy-explained.html
 ---
 <!--markdownlint-disable MD026-->
