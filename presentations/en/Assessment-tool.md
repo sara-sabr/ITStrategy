@@ -8,20 +8,23 @@ SABR - IT Strategy - 2020-12
 
 ## Plan
 
-- DevOps Research & Assessment (DORA)
+- DevOps Research & Assessment
 - How to transform into high performing IT
 - Assessment Tool
   - Demo
 
 ---
 
-## DevOps Research & Assessment
+## DevOps Research & Assessment (DORA)
 
-The State of DevOps research program represents six years of research and data from over 31,000 professionals worldwide.
+Identified **capabilities that drive high performance in technology** delivery and ultimately organizational outcomes.
 
-It is the longest running academically rigorous research investigation of its kind, providing an independent view into the practices and **capabilities that drive high performance in technology** delivery and ultimately organizational outcomes.
+[2019 State of DevOps Report](https://cloud.google.com/devops/state-of-devops)
 
-[State of DevOps 2019](https://cloud.google.com/devops/state-of-devops)
+Note:
+
+- Over six years of research
+- Data from over 31,000 professionals worldwide
 
 --
 
@@ -58,10 +61,10 @@ https://cloud.google.com/solutions/devops/devops-culture-transform
 
 ### IITB Aspirational Goal
 
-Direction (a "true north") at the branch level.
+#### Direction (a "true north")
 
-- Lead time for change [1-24] hours
-- Deploy frequency [1-24] hours or on demand
+- Lead time for changes [1-24] hours
+- Change or deploy frequency [1-24] hours or on demand
 - Time to restore service [1-24] hours
 - [Generative (Westrum) Culture](https://cloud.google.com/solutions/devops/devops-culture-westrum-organizational-culture)
 
@@ -102,17 +105,19 @@ time to complete..
 
 ### Sections
 
-Technical - Process - Measurement - Cultural
+Cultural - Process - Measurement -  - Technical
 
-- Version Control and Code Maintainability
-- Continuous Testng, Integration and Deployment
-- Architecture and Cloud Infrastructure
+- Transformational Leadership
+- Learning and Generative Culture
 - Experimentation and Streamlining Change Approval
 - Customer Feedback and Work Visibility
 - Data Application Monitoring
 - Work in Process Limits and Visual Management
-- Learning and Generative Culture
-- Transformational Leadership
+- Version Control and Code Maintainability
+- Continuous Testng, Integration and Deployment
+- Architecture and Cloud Infrastructure
+
+
 
 --
 
