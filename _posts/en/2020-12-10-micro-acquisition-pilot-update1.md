@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Micro-Acquisition Pilot status update 1"
+title:  "Micro-Acquisition Pilot – Status Update 1"
 ref: micro-acquisition-update1
 lang: en
 author: "Rachel Muston, in collaboration with the IT Strategy team and Micro-Acquisition Pilot team members"
