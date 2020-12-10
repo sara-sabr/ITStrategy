@@ -38,6 +38,7 @@ We will continue to provide updates as the project progresses.
 - We may experience delays due to backlogs in the project approval process
 
 ## Collaborative efforts
+
 ### BCDevExchange
 
 - We are working with the [BCDevExchange](https://bcdevexchange.org) team to help us develop a "bid evaluation process" which is both fair to suppliers and not onerous on ESDC clients.
