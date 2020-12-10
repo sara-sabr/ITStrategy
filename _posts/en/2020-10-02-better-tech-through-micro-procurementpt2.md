@@ -8,7 +8,7 @@ date: "2020-10-02"
 ---
 <!--markdownlint-disable MD033-->
 This is part two of a two part series looking at micro-procurement for digital work.
-In this second post, we look at what makes implementing micro-procurement challenging, as well as a sneek peek at what we are planning at ESDC
+In this second post, we look at what makes implementing micro-procurement challenging, as well as a sneak peek at what we are planning at ESDC.
 
 ***
 
@@ -34,8 +34,6 @@ Lastly and certainly not least, any systems change requires breaking down siloes
 Setting up a process and system for micro-procurement of open source code, by necessity, involves folks from both the CIO and the CFO branches of a department.  
 Working together across branches in the GC can be hard.  We need to learn to speak each others languages, and we need to be flexible. But it is so worth it.
 
-(link to the article that Sean posted about - understanding why the wall is there before you tear it down).  Address existential threat of automation, and shifting LDV procurement to lines of business.
-
 ## Now what?
 
-Knowing and understanding these challenges has helped us move forward with a [Micro-Acquisition Pilot](micro-acquisition-pilot.md) at ESDC. in the early stages and we are prgamatically containing our excitement however we are happy to say that we are moving the initiative forward in partnership with the procurement innovation team at ESDC. From the startTogether we are working on a streamlined process specifically for micro-procurements. This process will also result in rapid payment of suppliers as we have been given the ok to pay suppliers by credit card once the code has been delivered and assessed to meet criteria.
+Knowing and understanding these challenges has helped us move forward with a [Micro-Acquisition Pilot](micro-acquisition-pilot.md) at ESDC. We are in the early stages but we are happy to say that we are moving the initiative forward in partnership with ESDC's Procurement Innovation Team. Together we are working on a streamlined process specifically for micro-procurements and on developing guardrails to enable teams to complete micro-procurements without procurement officer intervention. We'll be working in the open and sharing updates as the pilot moves along.
