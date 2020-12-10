@@ -46,7 +46,7 @@ It has cautioned us against going priced-based and this matches the research we 
 We are also looking to follow its lead and establish anonymous bid evaluation.
 
 - The BCDevExchange has been working with provincial governments who also want to establish micro-acquisition initiatives.
-To better collaboratively develop tools technologies and generally support one another, the BCDevExchange team has suggested establishing a working group.
+To better collaboratively develop tools and generally support each other, the BCDevExchange team has suggested establishing a micro-procurement working group that would include members from provincial governments and the federal government.
 
 ### Shared Services Canada (SSC)
 
