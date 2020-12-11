@@ -27,7 +27,7 @@ As a result, across the GC, smaller, low-risk procurements usually go through th
 In order for micro-procurement to be possible, we (IT) must break our work out into small chunks.
 We aren't used to doing this.
 We have been grouping tasks together into large projects for many years.
- We do that for many reasons:
+We do that for many reasons:
 
 - we follow a project management process with extensive governance which intentionally or unintentionally encourages grouping tasks together into one large project
 - the procurement process is unclear to many in IT and as a result often seen as painful.
