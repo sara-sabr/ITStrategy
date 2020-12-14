@@ -14,7 +14,8 @@ In this second post, we look at what can make implementing micro-procurement cha
 
 ## What’s stopping the GC from doing micro-procurement of digital work
 
-The web of procurement rules is real. Procurement officers with extensive training help us navigate that web.
+The web of procurement rules is real.
+Procurement officers with extensive training help us navigate that web.
 They help ensure that things are done by the book and no-one loses their financial signing authority or worse, gets fired.
 Like all policy, though, procurement policy is open to interpretation and because of this, appetite for risk (by that procurement officer, procurement team, CFO or Deputy Head) can be a factor in implementing any procurement innovation.
 It can be seen as less risky to do things the way they have always been done.
@@ -23,7 +24,8 @@ But as the Office of the Procurement Ombudsman pointed out in their most recent 
 
 There is another challenge related to procurement policy.
 We know that flexibility exists within GC procurement policy to establish a simplified process for LDV procurements.
-However this flexibility exists because policy doesn't explicitly say it cannot be done. As a result, there is very little guidance on how to do micro-procurement within the policy documents or at the departmental level.
+However this flexibility exists because policy doesn't explicitly say it cannot be done.
+As a result, there is very little guidance on how to do micro-procurement within the policy documents or at the departmental level.
 The Office of the Procurement Ombudsman noted this in their [2019 Low Dollar Value Report](http://opo-boa.gc.ca/faiblevaleur-dollarvalue-eng.html) stating that "The audit found that despite adopting the Government of Canada’s contracting policies, TBS's internal process was not supported by a sufficiently articulated policy framework specific to LDV contracting "particularly for non-expert contracting authorities."
 
 Departmental procurement rules can also create barriers to establishing micro-procurement initiatives in the GC.
@@ -44,6 +46,7 @@ We need to learn to speak each other’s languages, and we need to be flexible.
 
 ## Our plans at ESDC
 
-Understanding these challenges has helped us move forward with a [Micro-Acquisition Pilot](https://sara-sabr.github.io/ITStrategy/micro-acquisition-pilot.html) at ESDC. We are extremely lucky at ESDC to have an amazing procurement innovation team who we (IT Strategy) are working with in partnership on the pilot.
+Understanding these challenges has helped us move forward with a [Micro-Acquisition Pilot](https://sara-sabr.github.io/ITStrategy/micro-acquisition-pilot.html) at ESDC.
+We are extremely lucky at ESDC to have an amazing procurement innovation team who we (IT Strategy) are working with in partnership on the pilot.
 Together we are developing a streamlined micro-procurement process and are building guardrails to enable teams to complete micro-procurements (within the scope of the pilot) without procurement officer intervention.
 We'll be working in the open and sharing updates as the pilot moves along.
