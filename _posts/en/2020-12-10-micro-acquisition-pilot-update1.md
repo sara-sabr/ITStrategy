@@ -7,7 +7,7 @@ author: "Rachel Muston, in collaboration with the IT Strategy team and Micro-Acq
 date: "2020-12-10"
 ---
 
-This is our first status update for the Micro-Acquisition Pilot that we are working on at ESDC.
+This is our first status update for the [Micro-Acquisition Pilot](https://sara-sabr.github.io/ITStrategy/micro-acquisition-pilot.html) that we are working on at ESDC.
 We will continue to provide updates as the project progresses.
 
 ## Approvals and Governance
