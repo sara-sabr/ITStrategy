@@ -37,7 +37,8 @@ When looking into establishing a micro-procurement initiative in the GC, a good 
 On the IT side, in order for micro-procurement of digital work to be possible, we must break our work out into small chunks.
 This creates a challenge because we aren't used to working like that.
 We have been grouping IT tasks together into large IT projects for many years.
-ESDC's draft [Target Solution Delivery Model](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html) suggests that "In order to better deliver services to Canadians, we need to improve IT’s responsiveness, otherwise the feedback loop between policy makers and Canadians will be too long, affecting ESDC’s ability to iterate on its policy making and become an agile organization." As we move towards an agile/DevOps way of working, with same day deployments, the need for smaller work packages (and being able to procure these smaller work packages) increases.
+ESDC's draft [Target Solution Delivery Model](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html) suggests that "In order to better deliver services to Canadians, we need to improve IT’s responsiveness, otherwise the feedback loop between policy makers and Canadians will be too long, affecting ESDC’s ability to iterate on its policy making and become an agile organization."
+As we move towards an agile/DevOps way of working, with same day deployments, the need for smaller work packages (and being able to procure these smaller work packages) increases.
 
 Lastly, and certainly not least, any systems change requires breaking down silos and working together towards that change.
 Setting up a process and system for micro-procurement of digital work, by necessity, involves folks from both the CIO and the CFO branches of a department.
