@@ -34,9 +34,9 @@ This is especially true of rules around credit card use.
 Policy doesn't dictate things like credit card limits and individual transaction limits, but departmental rules do.
 When looking into establishing a micro-procurement initiative in the GC, a good first step would be to learn your department's rules around credit card use.
 
-On the IT side, in order for micro-procurement of digital work to be possible, we must break our work out into small chunks.
+On the IT side, in order for micro-procurement of digital work (specifically source code) to be possible, we must break our work out into small blocks of, reusable code.
 This creates a challenge because we aren't used to working like that.
-We have been grouping IT tasks together into large IT projects for many years.
+We have been grouping coding tasks together into large software delivery projects for many years.
 ESDC's draft [Target Solution Delivery Model](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#business-case-strategic-context) suggests that "In order to better deliver services to Canadians, we need to improve IT’s responsiveness, otherwise the feedback loop between policy makers and Canadians will be too long, affecting ESDC’s ability to iterate on its policy making and become an agile organization."
 As we move towards an agile/DevOps way of working, with same day deployments, the need for smaller work packages (and being able to procure these smaller work packages) increases.
 
