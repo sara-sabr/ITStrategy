@@ -23,7 +23,7 @@ Related, a "fear of audit" was noted in the [Internal Red Tape Reduction report]
 But as the Office of the Procurement Ombudsman pointed out in their most recent [annual report](http://opo-boa.gc.ca/rapports-reports/2019-2020/index-eng.html#s1-1), simplifying and streamlining procurement in the GC "may require a higher degree of risk tolerance.”
 
 There is another challenge related to procurement policy.
-We know that flexibility exists within GC procurement policy to establish a simplified process for LDV procurements.
+We know that flexibility exists within GC procurement policy to establish a simplified process for Low Dollar Value (LDV) procurements.
 However, this flexibility exists because policy doesn't explicitly say it cannot be done.
 As a result, there is very little guidance on how to do micro-procurement within the policy documents or at the departmental level.
 The Office of the Procurement Ombudsman noted this in their [2019 Low Dollar Value Report](http://opo-boa.gc.ca/faiblevaleur-dollarvalue-eng.html#s4.2) stating that "The audit found that despite adopting the Government of Canada’s contracting policies, TBS's internal process was not supported by a sufficiently articulated policy framework specific to LDV contracting "particularly for non-expert contracting authorities."
@@ -41,13 +41,13 @@ ESDC's draft [Target Solution Delivery Model](https://sara-sabr.github.io/ITStra
 As we move towards an agile/DevOps way of working, with same day deployments, the need for smaller work packages (and being able to procure these smaller work packages) increases.
 
 Lastly, and certainly not least, any systems change requires breaking down silos and working together towards that change.
-Setting up a process and system for micro-procurement of digital work, by necessity, involves folks from both the CIO and the CFO branches of a department.
+Setting up a process and system for micro-procurement of digital work, by necessity, involves peers from both the CIO and the CFO branches of a department.
 Working together across branches in the GC can be hard.
 We need to learn to speak each other’s languages, and we need to be flexible.
 
 ## Our plans at ESDC
 
-Understanding these challenges has helped us move forward with a [Micro-Acquisition Pilot](https://sara-sabr.github.io/ITStrategy/micro-acquisition-pilot.html) at ESDC.
+Understanding these challenges has helped us move forward with a [Micro-Acquisition Pilot](https://sara-sabr.github.io/ITStrategy/micro-acquisition-pilot.html).
 We are extremely lucky at ESDC to have an amazing procurement innovation team who we (IT Strategy) are working with in partnership on the pilot.
 Together we are developing a streamlined micro-procurement process and are building guardrails to enable teams to complete micro-procurements (within the scope of the pilot) without procurement officer intervention.
 We'll be working in the open and sharing updates as the pilot moves along.
