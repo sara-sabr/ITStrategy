@@ -316,12 +316,6 @@ a.btn:focus {
 
 /*============= FEATURES SECTION =============*/
 
-section:before {
-  height: 54px;
-  content: "";
-  display:block;
-}
-
 .content {
   position: absolute;
   top: 55px;
