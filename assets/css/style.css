@@ -59,6 +59,13 @@ body>.container {
 footer {
   margin-bottom: 1em;
 }
+
+/* Fix anchor scrolling */
+h1, h2, h3, h4, h5, h6 {
+  padding-top: 66px;
+  margin-top: -66px;
+}
+
 /*============= RESETS =============*/
 
 /*-- iPhone X Remove Gutters --*/
@@ -308,6 +315,12 @@ a.btn:focus {
 }
 
 /*============= FEATURES SECTION =============*/
+
+section:before {
+  height: 54px;
+  content: "";
+  display:block;
+}
 
 .content {
   position: absolute;
