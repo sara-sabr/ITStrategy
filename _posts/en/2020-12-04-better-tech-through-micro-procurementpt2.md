@@ -24,14 +24,14 @@ But as the Office of the Procurement Ombudsman pointed out in their most recent 
 
 There is another challenge related to procurement policy.
 We know that flexibility exists within GC procurement policy to establish a simplified process for LDV procurements.
-However this flexibility exists because policy doesn't explicitly say it cannot be done.
+However, this flexibility exists because policy doesn't explicitly say it cannot be done.
 As a result, there is very little guidance on how to do micro-procurement within the policy documents or at the departmental level.
 The Office of the Procurement Ombudsman noted this in their [2019 Low Dollar Value Report](http://opo-boa.gc.ca/faiblevaleur-dollarvalue-eng.html) stating that "The audit found that despite adopting the Government of Canada’s contracting policies, TBS's internal process was not supported by a sufficiently articulated policy framework specific to LDV contracting "particularly for non-expert contracting authorities."
 
 Departmental procurement rules can also create barriers to establishing micro-procurement initiatives in the GC.
 Unlike policy, departmental procurement rules can vary widely from department to department.
 This is especially true of rules around credit card use.
-Policy doesn't dictate things like credit card limits and individual transaction limits but departmental rules do.
+Policy doesn't dictate things like credit card limits and individual transaction limits, but departmental rules do.
 When looking into establishing a micro-procurement initiative in the GC, a good first step would be to learn your department's rules around credit card use.
 
 On the IT side, in order for micro-procurement of digital work to be possible, we must break our work out into small chunks.
