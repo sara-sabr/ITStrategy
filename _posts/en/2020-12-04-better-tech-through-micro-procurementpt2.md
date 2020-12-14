@@ -19,14 +19,14 @@ Procurement officers with extensive training help us navigate that web.
 They help ensure that things are done by the book and no-one loses their financial signing authority or worse, gets fired.
 Like all policy, though, procurement policy is open to interpretation and because of this, appetite for risk (by that procurement officer, procurement team, CFO or Deputy Head) can be a factor in implementing any procurement innovation.
 It can be seen as less risky to do things the way they have always been done.
-Related, a "fear of audit" was noted in the [Internal Red Tape Reduction report](https://internal-red-tape-reduction-report.github.io/chapter-3/#root-causes) as a driver of "the need to document every step of the process, which, in turn, drives the heavy paperwork, all in paper format."
-But as the Office of the Procurement Ombudsman pointed out in their most recent [annual report](http://opo-boa.gc.ca/rapports-reports/2019-2020/index-eng.html), simplifying and streamlining procurement in the GC "may require a higher degree of risk tolerance.”
+Related, a "fear of audit" was noted in the [Internal Red Tape Reduction report](https://internal-red-tape-reduction-report.github.io/chapter-3/#roles-and-expectations-are-unmet) as a driver of "the need to document every step of the process, which, in turn, drives the heavy paperwork, all in paper format."
+But as the Office of the Procurement Ombudsman pointed out in their most recent [annual report](http://opo-boa.gc.ca/rapports-reports/2019-2020/index-eng.html#s1-1), simplifying and streamlining procurement in the GC "may require a higher degree of risk tolerance.”
 
 There is another challenge related to procurement policy.
 We know that flexibility exists within GC procurement policy to establish a simplified process for LDV procurements.
 However, this flexibility exists because policy doesn't explicitly say it cannot be done.
 As a result, there is very little guidance on how to do micro-procurement within the policy documents or at the departmental level.
-The Office of the Procurement Ombudsman noted this in their [2019 Low Dollar Value Report](http://opo-boa.gc.ca/faiblevaleur-dollarvalue-eng.html) stating that "The audit found that despite adopting the Government of Canada’s contracting policies, TBS's internal process was not supported by a sufficiently articulated policy framework specific to LDV contracting "particularly for non-expert contracting authorities."
+The Office of the Procurement Ombudsman noted this in their [2019 Low Dollar Value Report](http://opo-boa.gc.ca/faiblevaleur-dollarvalue-eng.html#s4.2) stating that "The audit found that despite adopting the Government of Canada’s contracting policies, TBS's internal process was not supported by a sufficiently articulated policy framework specific to LDV contracting "particularly for non-expert contracting authorities."
 
 Departmental procurement rules can also create barriers to establishing micro-procurement initiatives in the GC.
 Unlike policy, departmental procurement rules can vary widely from department to department.
@@ -37,7 +37,7 @@ When looking into establishing a micro-procurement initiative in the GC, a good 
 On the IT side, in order for micro-procurement of digital work to be possible, we must break our work out into small chunks.
 This creates a challenge because we aren't used to working like that.
 We have been grouping IT tasks together into large IT projects for many years.
-ESDC's draft [Target Solution Delivery Model](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html) suggests that "In order to better deliver services to Canadians, we need to improve IT’s responsiveness, otherwise the feedback loop between policy makers and Canadians will be too long, affecting ESDC’s ability to iterate on its policy making and become an agile organization."
+ESDC's draft [Target Solution Delivery Model](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#business-case-strategic-context) suggests that "In order to better deliver services to Canadians, we need to improve IT’s responsiveness, otherwise the feedback loop between policy makers and Canadians will be too long, affecting ESDC’s ability to iterate on its policy making and become an agile organization."
 As we move towards an agile/DevOps way of working, with same day deployments, the need for smaller work packages (and being able to procure these smaller work packages) increases.
 
 Lastly, and certainly not least, any systems change requires breaking down silos and working together towards that change.
