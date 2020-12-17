@@ -34,6 +34,7 @@ Note:
 - Lots of time spent formalizing low dollar value contracts
 - Procurement officers face capacity issues
 - Sharing and reusing code is not the norm
+- Technical skills gaps exist
 
 Note:
 
@@ -41,6 +42,7 @@ Note:
 - low dollar value contracts go through the same process as larger, more risky and complex procurements. Although procurement processes at ESDC are becoming streamlined (including initiatives like contract on demand), getting external help for small pieces of ad hoc development work (say to fix a bug or to build a small prototype) still takes weeks. In the world of open source, where the code is freely available to anyone to fix and access immediately, and when IT is moving towards a DevOps/agile way of working (where changes to IT systems can, and should, be made daily), it is necessary to have a procurement process that can move equally as fast. Without fast procurement we hinder our ability to deliver high-quality IT solutions.
 - procurement officers are facing even more capacity issues now during COVID. In their Procurement in 2020 and Beyond report, Gartner recommends 5 shifts regarding digital procurement. One of these involves shifting the ownership for low and mid-tier purchases away from corporate procurement teams so that they can focus primarily on strategic, high value, high-risk purchases.
 - Does the way we procure impact the sharing of digital work? Even though a lot of custom code is procured with the IP transferring to the GC (yes?). Code is not often shared within a department or with other departments.
+- Eg. a team that wants to automate their work but doesn't know scripting
 
 - but what about existing procurement vehicles?  Yep....ProServices is a great supply arrangement from PSPC but getting on the pre-approved list of suppliers takes time (often 6 months) and has requirements that create barriers to those who are newly working in the field of IT or in the gig economy.
 - Capacity on Demand contracts are an excellent procurement innovation that once set up allows procurement to happen in weeks however the contracts are established with a single company which often means freelancers and start-ups are less likely to bid.
@@ -109,8 +111,8 @@ Note:
 <table>
  <tr>
    <th>Fiscal Year</th>
-   <th>IITB Salary</th>
-   <th>CFOB Salary</th>
+   <th>IITB Salary*</th>
+   <th>CFOB Salary*</th>
    <th>Total Salary</th>
    <th>Non-Salary</th>
    <th>Total</th>
@@ -141,9 +143,10 @@ Note:
  </tr>
 </table>
 
+<*> Existing resources. No new salary costs.
+
 Note:
 
-- Salary costs are existing salary
 - Salary costs are direct costs only and the non-salary costs are the direct non-salary costs.  Not included in this table are the indirect non-salary costs from the costing worksheet (e.g. EBP and other indirect costs)
 - only new funding being sought is the $50K for 2021-22 to be used by SABR to complete micro-procurements and also to provide a float to pay suppliers where a budget transfer is required.
 
@@ -166,11 +169,12 @@ Note:
 
 ## Solution Architecture and Design
 
-- stand-alone website to post opportunities
-- hosting via GitHub pages
-- procured code will be shared on open repositories
+All existing products and/or Approved Tech Bricks
 
-Actual procurement and payment will be done via existing systems (e.g. SAP)
+- Stand-alone website to post opportunities
+- Hosting via GitHub pages
+- Procured code will be shared on open repositories
+- Actual procurement and payment will be done via existing systems (e.g. SAP)
 
 Note:
 
@@ -191,14 +195,21 @@ Note: we are really glad to be partnering with CFOB on this.
 
 ---
 
-## What about:
+## Minimizing Risk
 
-- Contract splitting?
-- IP and copyright?
-- Security of the code?
-- Concerns from Unions?
+- Partnership with CFOB
+- Automated security code checking
+- Taking lessons learned from others who have done micro-procurement
+- Table-top exercise
+- Using standard safeguards against outsourcing
 
 Note:
+
+- to help us navigate through procurement rules and legal considerations - contract splitting training, monitoring and auditing, legal terms and conditions (including IP)
+- passing the security code check will be built into the acceptance criteria. You don't pass, you don't get paid.
+- Industry (bug bounty), US, BC, GCDevEx
+- run through scenarios using personas to test processes, roles/responsibilities, and to refine artefacts.
+- standard checklist saying that 'this is a stand-alone piece of work, no internal capacity exists'
 
 - Will be working with CFOB to mitigate the risk of contract splitting (likely through a combo of education, and audit
 - IP and Copyright around GC procurement of open source code is a relatively new area so we are working with the IP CoE within CFOB and lawyers at ISED who work on IP policy. But the general direction we are going in is that the supplier holds the IP but that they licence the work as open source so that the GC (and anyone) can re-use it.
