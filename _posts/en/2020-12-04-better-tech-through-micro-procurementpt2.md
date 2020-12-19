@@ -26,7 +26,7 @@ There is another challenge related to procurement policy.
 We know that flexibility exists within GC procurement policy to establish a simplified process for Low Dollar Value (LDV) procurements.
 However, this flexibility exists because policy doesn't explicitly say it cannot be done.
 As a result, there is very little guidance on how to do micro-procurement within the policy documents or at the departmental level.
-The Office of the Procurement Ombudsman noted this in their [2019 Low Dollar Value Report](http://opo-boa.gc.ca/faiblevaleur-dollarvalue-eng.html#s4.2) stating that "The audit found that despite adopting the Government of Canada’s contracting policies, TBS's internal process was not supported by a sufficiently articulated policy framework specific to LDV contracting "particularly for non-expert contracting authorities."
+The Office of the Procurement Ombudsman noted this in their [2019 Low Dollar Value Report](http://opo-boa.gc.ca/faiblevaleur-dollarvalue-eng.html#s4.2) stating that "The audit found that despite adopting the Government of Canada’s contracting policies, TBS's internal process was not supported by a sufficiently articulated policy framework specific to LDV contracting ‘particularly for non-expert contracting authorities.’"
 
 Departmental procurement rules can also create barriers to establishing micro-procurement initiatives in the GC.
 Unlike policy, departmental procurement rules can vary widely from department to department.
