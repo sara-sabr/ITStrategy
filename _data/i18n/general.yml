@@ -24,11 +24,11 @@ nav:
     en: ["Vision", "Strategies", "Supporting Documents", "Analysis", "Work In Progress"]
     fr: ["Vision", "Stratégies", "Documents à l'appui", "Analyses", "Travail en cours"]
   blogPosts:
-    en: Our Blog Posts
-    fr: Nos billets
+    en: Blog
+    fr: Blogue
   docsTitle:
-    en: Our Documents
-    fr: Nos documents
+    en: Documents
+    fr:  Documents
   strategies:
     en: Strategies
     fr: Stratégies
