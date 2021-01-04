@@ -128,7 +128,8 @@ Stakeholders are expected to still comply with existing policy instruments inclu
     - Wiki (documentation);
     - Build and Test Automation (e.g., security-related); and
     - Deployment to internal or external platforms.
-4. Make their projects in the VCS open by default and adhere to best practices such as:
+4. Make their projects in the VCS open by default, including for contributions.
+5. Adhere to best practices defined in ESDC OSS Management Framework and GC [Guide for Publishing Open Source Code](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/open-source-software/guide-for-publishing-open-source-code.html), such as:
     - Project space is easily discoverable;
     - There's a clear process to support and encourage external contributions (other employees, public);
     - Code of conduct is present;
@@ -137,7 +138,6 @@ Stakeholders are expected to still comply with existing policy instruments inclu
     - Classified information and secrets are kept in proper tools and never hardcoded in the source code;
     - Source code security and compliance is automatically assessed on a continuous basis with tools and services; and
     - An up-to-date bill of materials is continuously generated and made available.
-    - _For more details, consult the [Guide for Publishing Open Source Code](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/open-source-software/guide-for-publishing-open-source-code.html)._
 
 ## Coherent set of actions
 
@@ -163,7 +163,7 @@ The following are actions that need to be performed in order to make the Version
   </tr>
   <tr>
     <td>Update ESDC OSS Management Framework</td>
-    <td>Update ESDC OSS Management Framework to reflect the expected usage and capabilities of each approved VCS</td>
+    <td>Update ESDC OSS Management Framework with best practices on publishing open source code, and by describing the capabilities and expected usage of each approved VCS</td>
     <td><b>EA</b></td>
     <td>
     DevCoP<br>
@@ -332,7 +332,30 @@ The metrics are defined as follows:
 
 *Automatic*: the collection of data is performed automatically, usually involving programmatic means (e.g., events triggered by a Git repository when a new commit is performed, which updates a master dashboard “view”).
 
-## Appendix A - Definitions
+## Appendix A - Traceability Matrix
+
+The following traceability matrix is used to show alignment with various strategies, plans, and policy instruments already in progress.
+
+[Government of Canada Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html) / Work in the open by default
+
+[GC Architecture Standards](https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards) / Application Architecture
+
+[Directive on Service and Digital - Appendix A: Mandatory Procedures for Enterprise Architecture Assessment](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602)
+- [A.2.3.8](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602#claA.2.3.8) Use Open Standards and Solutions by Default
+- [A.2.3.9](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602#claA.2.3.9) Maximize Reuse
+
+[IITB Way Forward](https://dialogue/grp/BU7117710/StrategicPolicy/IITB%20Way%20Forward/PMB_Presentation_IITBWayForward_v10_forPMB.pptx) / Strengthen IM/IT services and enhance the ESDC employee experience
+
+[Digital Operations Strategic Plan: 2018-2022](https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html)
+- [Strategic Action #40 Section 4.4](https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html#ToC10_4) / Introduce a strategy for use of open source software and open standards
+
+[Digital Nations Charter](https://www.canada.ca/en/government/system/digital-government/improving-digital-services/digital9charter.html) / 3.4. Open source
+
+[ESDC Information Strategy 2018-2023](https://dialogue/grp/GCDocs/Strategic%20Direction/IM%20Strategy%20and%20Plan/For%20Deputy%20Minister%20Approval%20-%20Final%20IM%20Strategy%20and%20Roadmap/ESDC%20Information%20Strategy%202018-2023%20FINAL%20ENG.pdf) / Principle 3. Information is Optimized for Use and Reuse
+
+ _ESDC's PwC Independent Study (upcoming)_ / Information Management
+
+## Appendix B - Definitions
 
 Version Control System (VCS)
 : There are 2 types of VCS:
