@@ -117,7 +117,7 @@ Stakeholders are expected to still comply with existing policy instruments inclu
 
 ### Development and Operations Teams (incl. SSC) <!-- omit in toc -->
 
-1. Use a DevOps platform, that includes a Git-based Version Control System (VCS), among the following options, in that order of preference:
+1. Use a DevOps platform with a Git-based Version Control System (VCS) among the following options, in that order of preference:
    - Public (Unclassified): **[GitHub](https://github.com)** or another [approved public platform (internal)](https://dialogue/grp/TAWS-ATST/Technology_Standards/Brick%20Repository/Software%20Version%20and%20Source%20Code%20Management.mht)
    - Interdepartmental (up to Protected A): **[GCcode (internal)](https://gccode.ssc-spc.gc.ca)**
    - Internal (up to Protected B): **[Azure DevOps](https://azure.microsoft.com/en-ca/services/devops/)**
@@ -266,14 +266,13 @@ The following are actions that need to be performed in order to make the Version
 
 ## Measuring the Strategy's success
 
-This Strategy's success will be measured by comparing the following metrics against the conventional IT project methodology.
+This Strategy's success will be measured by tracking the following metrics of VCS usage:
 
-The metrics are defined as follows:
-
-1. *Number of ESDC projects (open vs closed) and users in each VCS*
-1. *Level of activity of ESDC projects (e.g., issues, commits, integrations) in each VCS*
-1. *User Satisfaction*
-1. *?*
+1. *Number of projects and users (compared to total)*
+2. *Percentage of team's code, configuration or scripts stored*
+3. *How easily and quickly can teams leverage VCS in their work (high, medium, low)*
+4. *Level of activity of projects (issues, commits, deployments, etc. - high, medium, low)*
+5. *User Satisfaction (high, medium, low)*
 
 <table>
 <tr>
@@ -285,45 +284,52 @@ The metrics are defined as follows:
     <th>Conventional Model</th>
 </tr>
 <tr>
-    <td>Number of ESDC projects (open vs closed) and users in each VCS</td>
+    <td>Number of projects and users (compared to total)</td>
     <td>
     <i>Automatic</i><br>
-    Automatically fetch metrics from platforms
     </td>
     <td>
     <i>Manual</i><br>
-    Manually copy metrics from platforms
     </td>
 </tr>
 <tr>
-    <td>Level of activity of ESDC projects (e.g., issues, commits, integrations) in each VCS</td>
+    <td>Percentage of team's code, configuration or scripts stored</td>
     <td>
     <i>Automatic</i><br>
-    Automatically fetch metrics from platforms
     </td>
     <td>
     <i>Manual</i><br>
-    Manually copy metrics from platforms
     </td>
 </tr>
 <tr>
-    <td>User Satisfaction</td>
+    <td>How easily and quickly can teams leverage VCS in their work (high, medium, low)</td>
     <td>
     <i>Manual</i><br>
-    Client survey
+    (Survey)
     </td>
     <td>
     <i>Manual</i><br>
-    Client survey
+    (Survey)
     </td>
 </tr>
 <tr>
-    <td>?</td>
+    <td>Level of activity of projects (issues, commits, deployments, etc. - high, medium, low)</td>
     <td>
-    TBC
+    <i>Automatic</i><br>
     </td>
     <td>
-    TBC
+    <i>Manual</i><br>
+    </td>
+</tr>
+<tr>
+    <td>User Satisfaction (high, medium, low)</td>
+    <td>
+    <i>Manual</i><br>
+    (Survey)
+    </td>
+    <td>
+    <i>Manual</i><br>
+    (Survey)
     </td>
 </tr>
 </table>
@@ -331,6 +337,8 @@ The metrics are defined as follows:
 *Manual*: the collection of data requires manual intervention (e.g., surveys, interviews, emails, spreadsheet updates).
 
 *Automatic*: the collection of data is performed automatically, usually involving programmatic means (e.g., events triggered by a Git repository when a new commit is performed, which updates a master dashboard “view”).
+
+Some of the metrics are based on [DORA DevOps Research](https://cloud.google.com/solutions/devops/devops-tech-version-control#ways_to_measure_version_control).
 
 ## Appendix A - Traceability Matrix
 
@@ -341,12 +349,14 @@ The following traceability matrix is used to show alignment with various strateg
 [GC Architecture Standards](https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards) / Application Architecture
 
 [Directive on Service and Digital - Appendix A: Mandatory Procedures for Enterprise Architecture Assessment](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602)
+
 - [A.2.3.8](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602#claA.2.3.8) Use Open Standards and Solutions by Default
 - [A.2.3.9](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602#claA.2.3.9) Maximize Reuse
 
 [IITB Way Forward](https://dialogue/grp/BU7117710/StrategicPolicy/IITB%20Way%20Forward/PMB_Presentation_IITBWayForward_v10_forPMB.pptx) / Strengthen IM/IT services and enhance the ESDC employee experience
 
 [Digital Operations Strategic Plan: 2018-2022](https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html)
+
 - [Strategic Action #40 Section 4.4](https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html#ToC10_4) / Introduce a strategy for use of open source software and open standards
 
 [Digital Nations Charter](https://www.canada.ca/en/government/system/digital-government/improving-digital-services/digital9charter.html) / 3.4. Open source
@@ -357,33 +367,36 @@ The following traceability matrix is used to show alignment with various strateg
 
 ## Appendix B - Definitions
 
-Version Control System (VCS)
-: There are 2 types of VCS:
+**Version Control System (VCS)**  
+There are 2 types of VCS:
 
-- **Centralized** VCS are based on the idea that there is a single “central” copy of a software project somewhere (most likely on a server), and developers make code changes directly on this central copy.
-- **Distributed** VCS (DVCS) do not necessarily rely on a central server to store all the versions of a software project's files.
+Centralized:  
+VCS are based on the idea that there is a single “central” copy of a software project somewhere (most likely on a server), and developers make code changes directly on this central copy.
+
+Distributed:  
+VCS (DVCS) do not necessarily rely on a central server to store all the versions of a software project's files.
 Instead, every developer “clones” a copy of a repository and has the full history of the project on its own hard drive.
 This copy (or “clone”) has all of the metadata of the original.
 In a DVCS, developers typically will make code changes on their local copy, test them on their local copy, and “push” them to a central server containing the “master” copy the software project is intended to use.
 
-IT Solution
-: An IT Solution is the combination of 1 or many IT Products, which are in turn comprised of 1 or many Software and/or Hardware, obtained through many possible ways: built internally, obtained as open source, provided by a company as an executable application under a proprietary licence, as a standalone device, or used as a service through a subscription model.
+**IT Solution**  
+An IT Solution is the combination of 1 or many IT Products, which are in turn comprised of 1 or many Software and/or Hardware, obtained through many possible ways: built internally, obtained as open source, provided by a company as an executable application under a proprietary licence, as a standalone device, or used as a service through a subscription model.
 
-IT Product
-: The combination of software, infrastructure, and their configuration.
+**IT Product**  
+The combination of software, infrastructure, and their configuration.
 An IT Product is akin to an “application” as defined by the [Application Portfolio Management (APM)](https://www.gcpedia.gc.ca/wiki/OCIO_Application_Portfolio_Management) program.
-An IT Product may have one or many software (e.g. COTS, Open Source libraries, Open Source Software, Custom build software).
+An IT Product may have one or many software (e.g., COTS, open source libraries, open source software, custom-built software).
 Each of those software are deployed in one or many infrastructure (on premise, on the public cloud, or a combination of the two making it a hybrid deployment).
 For the scope of this Strategy, Operating Systems are NOT defined as IT products.
 Therefore should an IT Product depend on an Operating System to run in production, it is in compliance with this Guiding Policy.
 
-## Appendix B - Acronym List Definition
+## Appendix C - Acronym List Definition
 
 | Acronym | Definition |
 |---------| ------------------------------------------|
-| ARC | Architecture Review Committee |
-| CCoE | Cloud Centre of Expertise |
-| DevCoP | Development Community of Practice |
-| EA | Enterprise Architecture |
-| IITB | Innovation, Information and Technology Branch |
-| SSC | Shared Services Canada |
+| **ARC** | Architecture Review Committee |
+| **CCoE** | Cloud Centre of Expertise |
+| **DevCoP** | Development Community of Practice |
+| **EA** | Enterprise Architecture |
+| **IITB** | Innovation, Information and Technology Branch |
+| **SSC** | Shared Services Canada |
