@@ -4,7 +4,7 @@ title:  "Micro-Acquisition Pilot: Status Update 1"
 ref: micro-acquisition-update1
 lang: en
 author: "Rachel Muston, in collaboration with the IT Strategy team and Micro-Acquisition Pilot team members"
-date: "2020-12-10"
+date: "2021-01-05"
 ---
 
 This is our first status update for the [Micro-Acquisition Pilot](https://sara-sabr.github.io/ITStrategy/micro-acquisition-pilot.html) that we are working on at ESDC.
@@ -42,15 +42,15 @@ We will continue to provide updates as the project progresses.
 ### BCDevExchange
 
 - We are working with the [BCDevExchange](https://bcdevexchange.org) team to help us develop a "bid evaluation process" which is both fair to suppliers and not onerous on ESDC clients.
-It has cautioned us against going priced-based and this matches the research we have done re: the US' experience in micro-purchasing (leads to $1 bids from larger companies to eliminate smaller companies from winning).
-We are also looking to follow its lead and establish anonymous bid evaluation.
+They have cautioned us against going priced-based and this matches the research we have done re: the US' experience in micro-purchasing (leads to $1 bids from larger companies to eliminate smaller companies from winning).
+We are also looking to follow the BCDevExchange's lead and establish anonymous bid evaluation.
 
 - The BCDevExchange has been working with provincial governments who also want to establish micro-acquisition initiatives.
 To better collaboratively develop tools and generally support each other, the BCDevExchange team has suggested establishing a micro-procurement working group that would include members from provincial governments and the federal government.
 
 ### Shared Services Canada (SSC)
 
-- We have been connected with the team at SSC who is working on the [GC Digital Marketplace](https://technationportal.ca) with the company TechNation.
+- We are connected with the team at SSC who is working on the [GC Digital Marketplace](https://technationportal.ca) with the company TechNation.
   This Marketplace is an inventory of small and medium Canadian tech businesses with "products or services that are procurement-ready."
 
 ### Public Services and Procurement Canada (PSPC)
