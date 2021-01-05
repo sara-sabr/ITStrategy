@@ -32,8 +32,8 @@
   "devDependencies": {
     "chalk": "^2.4.2",
     "cspell": "^3.2.8",
-    "cspell-dict-fr-fr": "^1.2.12",
-    "editorconfig-checker": "^3.1.0",
+    "cspell-dict-fr-fr": "^1.2.13",
+    "editorconfig-checker": "^3.3.0",
     "glob": "^7.1.6",
     "license-compatibility-checker": "^0.3.4",
     "licensee": "^7.0.3",
