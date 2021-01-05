@@ -43,7 +43,7 @@ We will continue to provide updates as the project progresses.
 
 - We are working with the [BCDevExchange](https://bcdevexchange.org) team to help us develop a "bid evaluation process" which is both fair to suppliers and not onerous on ESDC clients.
 They have cautioned us against going priced-based and this matches the research we have done re: the US' experience in micro-purchasing (leads to $1 bids from larger companies to eliminate smaller companies from winning).
-We are also looking to follow the BCDevExchange's lead and establish anonymous bid evaluation.
+We are also looking to follow the lead of the BCDevExchange and establish anonymous bid evaluation.
 
 - The BCDevExchange has been working with provincial governments who also want to establish micro-acquisition initiatives.
 To better collaboratively develop tools and generally support each other, the BCDevExchange team has suggested establishing a micro-procurement working group that would include members from provincial governments and the federal government.

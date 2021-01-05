@@ -3,7 +3,7 @@ layout: post
 title:  "Pilote de micro-acquisition : mise à jour du statut 1"
 ref: micro-acquisition-update1
 lang: fr
-author: "Ecrit par Rachel Muston, en collaboration avec l'équipe de la stratégie TI et les membres de l'équipe du projet pilote de micro-acquisition."
+author: "Écrit par Rachel Muston, en collaboration avec l'équipe de la stratégie TI et les membres de l'équipe du projet pilote de micro-acquisition."
 date: "2021-01-05"
 ---
 
@@ -12,7 +12,7 @@ Nous continuerons à fournir des mises à jour au fur et à mesure de l'avanceme
 
 ## Approbations et gouvernance
 
-- Le projet pilote est coparrainé par la Direction générale de l'innovation, de l'information et de la technologie (DGIIT) et la Direction générale du dirigeant principal des finances (DGDPF) d'EDSC.
+- Le pilote est coparrainé par la Direction générale de l'innovation, de l'information et de la technologie (DGIIT) et la Direction générale du dirigeant principal des finances (DGDPF) d'EDSC.
 L'équipe de la DGDPF a informé le dirigeant principal des finances (DPF).
 
 - La DGDPF d'EDSC et la DGIIT ont tous les deux engagé des ressources ETP pour le projet pilote d'une durée d'un an dans le cadre des documents de projet en cours d'approbation.
