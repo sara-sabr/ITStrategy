@@ -1,13 +1,16 @@
 ---
 layout: default
 ---
-<h2>{{ page.title }}</h2>
-<div class="author">{{ page.date | date: "%Y-%m-%d" }} - {{ site.data.i18n.general.blogs.writtenBy[page.lang] }} {{ page.author }}</div>
 
-{% assign modifiedDate = page.last_modified | date: "%Y-%m-%d" %}
+<div class="blog">
+    <h1>{{ page.title }}</h1>
+    <div class="author">{{ page.date | date: "%Y-%m-%d" }} - {{ site.data.i18n.general.blogs.writtenBy[page.lang] }} {{ page.author }}</div>
 
-{% if modifiedDate %}
-    <p class="author font-italic">{{ site.data.i18n.general.blogs.lastModified[page.lang] }}: {{ modifiedDate }}</p>
-{% endif %}
+    {% assign modifiedDate = page.last_modified | date: "%Y-%m-%d" %}
 
-{{ content }}
+    {% if modifiedDate %}
+        <p class="author font-italic">{{ site.data.i18n.general.blogs.lastModified[page.lang] }}: {{ modifiedDate }}</p>
+    {% endif %}
+
+    {{ content }}
+</div>

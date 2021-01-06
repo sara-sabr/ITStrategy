@@ -113,6 +113,15 @@
    },
    {
      "pattern": "http://blogs-blogues.prv"
+   },
+   {
+     "pattern": "https://wiki.gccollab.ca"
+   },
+   {
+     "pattern": "https://gccollab.ca"
+   },
+   {
+     "pattern": "http://opo-boa.gc.ca"
    }
   ]
 }

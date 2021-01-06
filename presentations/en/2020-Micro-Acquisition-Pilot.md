@@ -3,11 +3,9 @@
 .reveal section img { background:none; border:none; box-shadow:none; }
 </style>
 
-# Micro-procurement for digital work
+# Micro-Acquisition for digital work
 
 ESDC IT Strategy team
-
-@DG Committee (date tbd)
 
 ---
 
@@ -15,8 +13,8 @@ ESDC IT Strategy team
 
 To share with you and get your comments on:
 
-- Our research on micro-procurement
-- Our proposal - a micro-procurement pilot for digital work at ESDC
+- Our research on low dollar value procurement
+- Our proposal - a Micro-Acquisition Pilot for digital work at ESDC
 
 Note:
 
@@ -107,11 +105,11 @@ These stats led them to their recommendation to fast track contracts under $10K
 
 ## Proposed solution
 
-1. A simplified micro-procurement process for open source code
+A one year Micro-Acquisition Pilot consisting of:
+
+1. A simplified procurement process
    (few approvals required, less paperwork, more automation)
 2. A website to share opportunities, and find talent
-
-Pilot for one year and then reassess
 
 Note:
 
@@ -129,7 +127,7 @@ we are proposing that this initiative be a pilot for one year and then reassess
 - $10K and under
 - Work that can be done remotely
 - Work that is unclassified
-- Open source code
+- Work that is licenced as open source
 - All work is done in an open repository (e.g., GitHub, GitLab)
 - ESDC only (at this time)
 
@@ -293,8 +291,8 @@ Note:
 
 ## More info
 
-- [Micro-procurement pilot page](https://sara-sabr.github.io/ITStrategy/micro-procurement.html)
-- [Better tech through micro-procurement](https://sara-sabr.github.io/ITStrategy/2020/08/12/better-tech-through-microprocurement-p1.html) (blog post)
+- [Micro-Acquisition Pilot page](micro-acquisition-pilot.html)
+- [Better tech through micro-procurement](2020/08/12/better-tech-through-microprocurement-p1.html) (blog post)
 - [Business case (ESDC only)](https://014gc.sharepoint.com/:w:/r/sites/GCDevEx/Shared%20Documents/Business%20Case_%20Micro-procurement_pilot.docx?d=wc7a97aad25884ad78c77096c8357638a&csf=1&web=1&e=neLbxM) for pilot to simplify micro-procurement of open source code
 - [US GSA - Experimenting with the Micro-Purchase Threshold](https://digital.gov/2020/04/24/experimenting-with-micropurchase-threshold/)
 

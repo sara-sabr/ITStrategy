@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Target IT Solution Delivery Model Strategy - Areas of concerns 
+title: Target IT Solution Delivery Model Strategy - Outstanding feedback 
 ref: target-solution-delivery-model-strategy-explained-areas-of-concerns
 lang: en
 status: posted
@@ -22,7 +22,7 @@ th {
 }
 </style>
 
-**The Strategy:** [see here for the strategy](strategy-target-solution-delivery-model.html) that this areas of concern document refers to
+**The Strategy:** [see here for the strategy](strategy-target-solution-delivery-model.html) that the feedback refers to.
 
 This document will be updated throughout the elaboration of the above strategy.
 
@@ -56,7 +56,7 @@ This document will be updated throughout the elaboration of the above strategy.
 
 ## 1. Document Purpose
 
-To document the areas of concerns stakeholders raised during the elaboration (peer reviewing) of the Target IT Solution Delivery Model Strategy.
+To document outstanding feedback raised during the elaboration (peer reviewing) of the Target IT Solution Delivery Model Strategy.
 
 Why?
 
@@ -210,7 +210,7 @@ The approach and intent in 3 points:
 It is expected that DevOps teams do not have a single member responsible for a given function.
 It is always the team, as a whole, that is responsible.
 The strategy focuses on using champions where the team has a member who is particularly focused on a specific competency (e.g., accessibility).
-The champion’s role is not to be *responsible* for accessibility, the champion is responsible for upskilling the team regarding accessibility.
+The champion's role is not to be *responsible* for accessibility, the champion is responsible for upskilling the team regarding accessibility.
 The champion will, for example, document the toolsets and approaches the team is using, open tasks and issues in the IT Product's backlog, and document findings.
 The champion will also address issues that are submitted.
 As a result of this approach, even if the champion is to leave the team, the team should have learned enough from the champion, and have enough work documented, that it is able to address the issues created by the champion.

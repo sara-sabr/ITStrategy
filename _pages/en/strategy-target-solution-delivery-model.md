@@ -24,7 +24,7 @@ img + em { display: inline-block; }
 </style>
 
 <div class="alert alert-warning">
-  <strong>This is a DRAFT strategy</strong>. <a href="target-solution-delivery-model-strategy-areas-of-concerns.html">Concerns have been raised</a> by stakeholders as part of the peer review process and are being looked at.
+  <strong>This is a DRAFT strategy</strong>. It is currently in the peer review process. As <a href="target-solution-delivery-model-strategy-areas-of-concerns.html">feedback comes in</a> the strategy will be updated accordingly.
 </div>
 
 _Note 1: Its authoritative source and latest version of this Strategy is on [ESDC's internal network](https://014gc.sharepoint.com/sites/TargetITSolutionDeliveryModel)_
@@ -1060,7 +1060,7 @@ In short, government departments are unable to adequately frame problems into ma
 [^7]: Mark Schwartz, War & Peace & IT
 [^8]: Referencing ESDC's [Policy on Programme and Project Management](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Policy%20on%20Project%20and%20Programme%20Management.pdf)'s 2 key objectives: #2 (focus on benefits), and #4 (intention to reduce risks)
 [^9]: [DORA State of DevOps 2019](https://services.google.com/fh/files/misc/state-of-devops-2019.pdf) pages 40, 51, and 53
-[^10]: [Enabling conditions, not just heroics](https://honeygolightly.medium.com/enabling-conditions-not-just-heroics-110a2faba643), Honey Dacaney, Nov 2020
+[^10]: [Enabling conditions, not just heroics](https://honeygolightly.medium.com/enabling-conditions-not-just-heroics-110a2faba643), Honey Dacanay, Nov 2020
 [^11]: [Team Topology](https://teamtopologies.com/), 2019, by Matthew Skelton and Manuel Pais
 [^12]: From an [analysis](https://dialogue/grp/BU6810070/Versioned%20Library%20for%20collaboration/Policy_on_service_and_digital_analysis.xlsx) by the IT Strategy team
 [^13]: The four mandatory procedures are: [Enterprise Architecture Assessment](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602), [APIs](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604), [Privacy and Monitoring of Networks](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32607), and [IT Security Controls](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32611)
