@@ -2,7 +2,7 @@
 layout: default
 ---
 <div class="blog">
-    <h2>{{ page.title }}</h2>
+    <h1>{{ page.title }}</h1>
     <div class="author">{{ page.date | date: "%Y-%m-%d" }} - {{ site.data.i18n.general.blogs.writtenBy[page.lang] }} {{ page.author }}</div>
 
     {% assign modifiedDate = page.last_modified | date: "%Y-%m-%d" %}
