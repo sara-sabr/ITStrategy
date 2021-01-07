@@ -6,9 +6,11 @@ lang: fr
 author: "Écrit par Rachel Muston, en collaboration avec l'équipe de la stratégie TI et les membres de l'équipe du projet pilote de micro-acquisition."
 date: "2021-01-05"
 ---
-
+<!--markdownlint-disable MD033-->
 Il s'agit de notre première mise à jour de l'état d'avancement du [pilote de micro-acquisition](https://sara-sabr.github.io/ITStrategy/pilote-de-micro-acquisition.html) auquel nous travaillons à EDSC.
 Nous continuerons à fournir des mises à jour au fur et à mesure de l'avancement du projet.
+
+***
 
 ## Approbations et gouvernance
 
@@ -16,6 +18,8 @@ Nous continuerons à fournir des mises à jour au fur et à mesure de l'avanceme
 L'équipe de la DGDPF a informé le dirigeant principal des finances (DPF).
 
 - La DGDPF et la DGIIT d'EDSC ont toutes les deux engagé des ressources temps plein au projet pilote d'une durée d'un an dans le cadre des documents de projet en cours d'approbation.
+
+&nbsp;
 
 ## Processus
 
@@ -27,15 +31,21 @@ L'équipe de la DGDPF a informé le dirigeant principal des finances (DPF).
 
   - **Versement plus rapide des paiements** aux fournisseurs.
 
+&nbsp;
+
 ## Échéancier
 
 - Une date officielle de lancement opérationnel est prévue pour mai 2021 afin de garantir un délai suffisant pour concevoir et mettre à l'essai le processus, le site Web et les communications.
 
 - Nous rencontrons des clients potentiels (au sein d'EDSC) en vue d'évaluer leurs besoins et de les aider à planifier leur budget pour le prochain exercice.
 
+&nbsp;
+
 ## Défis éventuels
 
 - Nous pourrions connaître des retards en raison de nombreuses demandes dans le processus d'approbation des projets.
+
+&nbsp;
 
 ## Efforts de collaboration
 

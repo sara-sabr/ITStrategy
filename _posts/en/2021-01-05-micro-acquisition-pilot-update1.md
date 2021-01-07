@@ -6,10 +6,11 @@ lang: en
 author: "Rachel Muston, in collaboration with the IT Strategy team and Micro-Acquisition Pilot team members"
 date: "2021-01-05"
 ---
-
+<!--markdownlint-disable MD033-->
 This is our first status update for the [Micro-Acquisition Pilot](https://sara-sabr.github.io/ITStrategy/micro-acquisition-pilot.html) that we are working on at ESDC.
-
 We will continue to provide updates as the project progresses.
+
+***
 
 ## Approvals and Governance
 
@@ -17,6 +18,8 @@ We will continue to provide updates as the project progresses.
   The CFOB team has briefed up to the CFO.
 
 - Both ESDC CFOB and IITB have committed FTE resources to the one-year pilot as part of the project documents currently going for approval
+
+&nbsp;
 
 ## Process
 
@@ -28,15 +31,21 @@ We will continue to provide updates as the project progresses.
 
   - **Faster payment** to suppliers
 
+&nbsp;
+
 ## Timeline
 
 - An official go live date is targeted for May 2021 to ensure adequate time to design and test the process, website, and communications
 
 - We are meeting with potential clients (within ESDC) to assess their requirements and help them plan their budget for next Fiscal Year
 
+&nbsp;
+
 ## Possible Challenges
 
 - We may experience delays due to backlogs in the project approval process
+
+&nbsp;
 
 ## Collaborative efforts
 
