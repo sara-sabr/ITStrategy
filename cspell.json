@@ -474,6 +474,7 @@
     "GC",
     "blogs",
     "TSDM",
+    "hardcoded",
     "CFOs",
     "Reqs",
     "RFPs",
@@ -511,6 +512,9 @@
     "gcdevex",
     "jfif",
     "personas"
+    "TBS's",
+    "tolérence",
+    "lorsqu'on"
   ],
   "flagWords": [],
   "import": [
