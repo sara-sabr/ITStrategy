@@ -8,6 +8,7 @@ date: "2021-01-05"
 ---
 
 This is our first status update for the [Micro-Acquisition Pilot](https://sara-sabr.github.io/ITStrategy/micro-acquisition-pilot.html) that we are working on at ESDC.
+
 We will continue to provide updates as the project progresses.
 
 ## Approvals and Governance
@@ -42,6 +43,7 @@ We will continue to provide updates as the project progresses.
 ### BCDevExchange
 
 - We are working with the [BCDevExchange](https://bcdevexchange.org) team to help us develop a "bid evaluation process" which is both fair to suppliers and not onerous on ESDC clients.
+
 They have cautioned us against going priced-based and this matches the research we have done re: the US' experience in micro-purchasing (leads to $1 bids from larger companies to eliminate smaller companies from winning).
 We are also looking to follow the lead of the BCDevExchange and establish anonymous bid evaluation.
 
@@ -51,6 +53,7 @@ To better collaboratively develop tools and generally support each other, the BC
 ### Shared Services Canada (SSC)
 
 - We are connected with the team at SSC who is working on the [GC Digital Marketplace](https://technationportal.ca) with the company TechNation.
+
   This Marketplace is an inventory of small and medium Canadian tech businesses with "products or services that are procurement-ready."
 
 ### Public Services and Procurement Canada (PSPC)
