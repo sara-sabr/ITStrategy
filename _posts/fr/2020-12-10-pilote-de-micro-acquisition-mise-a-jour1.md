@@ -50,7 +50,7 @@ Afin de mieux développer des outils en collaboration et de généralement se so
 
 ### Services partagés Canada (SPC)
 
-- Nous avons été mis en contact avec l'équipe de SPC, qui collabore avec la compagnie TechNation sur le [Marché numérique du GC](https://technationportal.ca/).
+- Nous avons été mis en contact avec l'équipe de SPC qui collabore avec la compagnie TechNation sur le [Marché numérique du GC](https://technationportal.ca/).
 Ce Marché constitue un inventaire des petites et moyennes entreprises de technologie canadiennes ayant des « produits ou services prêts à être acquis ».
 
 ### Services publics et Approvisionnement Canada (SPAC)
