@@ -7,7 +7,6 @@ author: "Rachel Muston, en collaboration avec l'équipe de la stratégie TI et l
 date: "2020-12-18"
 ---
 <!--markdownlint-disable MD033-->
-
 Il s'agit de la deuxième partie d'une série de deux billets portant sur le micro-approvisionnement de travail numérique.
 Dans ce deuxième article, nous examinons ce qui peut rendre la mise en œuvre du micro-approvisionnement difficile, ainsi qu'un aperçu de ce que nous planifions à EDSC.
 
