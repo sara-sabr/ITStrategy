@@ -271,5 +271,5 @@ Note:
 ## More info
 
 - [Micro-Acquisition Pilot page](micro-acquisition-pilot.html)
-- [Better tech through micro-procurement pt1](2020/08/12/better-tech-through-microprocurement-p1.html) and [pt2](/2020/12/18/better-tech-through-micro-procurementpt2.html) (blog posts)
+- [Better tech through micro-procurement pt1](2020/08/12/better-tech-through-microprocurement-p1.html) and [pt2](2020/12/18/better-tech-through-micro-procurementpt2.html) (blog posts)
 - [US GSA - Experimenting with the Micro-Purchase Threshold](https://digital.gov/2020/04/24/experimenting-with-micropurchase-threshold/)
