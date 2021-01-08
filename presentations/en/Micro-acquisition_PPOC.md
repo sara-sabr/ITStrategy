@@ -45,7 +45,7 @@ Note:
 - Eg. a team that wants to automate their work but doesn't know scripting
 
 - but what about existing procurement vehicles?  Yep....ProServices is a great supply arrangement from PSPC but getting on the pre-approved list of suppliers takes time (often 6 months) and has requirements that create barriers to those who are newly working in the field of IT or in the gig economy.
-- Capacity on Demand contracts are an excellent procurement innovation that once set up allows procurement to happen in weeks however the contracts are established with a single company which often means freelancers and start-ups are less likely to bid.
+- Capacity on Demand contracts are an excellent procurement innovation that once set up allows procurement to happen in weeks, however, the contracts are established with a single company which often means freelancers and start-ups are less likely to bid.
 
 ---
 
@@ -83,7 +83,7 @@ Note:
 
 Note:
 
-- there is strong alignment to policy and mandate for this experimental pilot ESDC's mandate of "works to improve the standard of living and quality of life for all Canadians. We do this by promoting a labour force that is highly skilled. We also promote an efficient and inclusive labour market." makes ESDC a good fit to lead this initiative. Especially during COVID when many are facing unemployment and underemployment.
+- there is strong alignment to policy and mandate for this experimental pilot ESDC's mandate of "works to improve the standard of living and quality of life for all Canadians. We do this by promoting a labour force that is highly skilled. We also promote an efficient and inclusive labour market." It makes ESDC a good fit to lead this initiative. Especially during COVID when many are facing unemployment and underemployment.
 - Digital Operations Strategic Plan – which speaks to the need for Procurement Modernization for IT specifically, Agility, and Open Source​
 - Digital Nations Charter commitment (formerly D9) – Open Standards, Open Source, Open Markets, Open Government, and which Canada is a signatory
 - Directive on Service and Digital – Open First​
@@ -102,7 +102,7 @@ Note:
 Note:
 
 - reduced burden on procurement officers means they can focus on high risk, complex procurements
-- breaking work out into smaller work packages enables same day delivery and drives high organizational performance
+- breaking work out into smaller work packages enables same-day delivery and drives high organizational performance
 
 ---
 
@@ -159,7 +159,7 @@ Note:
 - **May week 1:** Development complete
 - **May week 3:** Stakeholders sign off
 - **May 2021 to May 2022:** pilot in operation
-- **June 2022:** project close-out
+- **June 2022:** project closeout
 
 Note:
 
@@ -174,7 +174,7 @@ All existing products and/or Approved Tech Bricks
 - Stand-alone website to post opportunities
 - Hosting via GitHub pages
 - Procured code will be shared on open repositories
-- Actual procurement and payment will be done via existing systems (e.g. SAP)
+- Actual procurement and payment will be done via existing systems (e.g., SAP)
 
 Note:
 
@@ -187,8 +187,8 @@ Note:
 
 ## The non-technical build
 
-1. Simplified procurement processes - e.g. Payment via credit card/PayPal
-2. Procurement guardrails (e.g. contract splitting)
+1. Simplified procurement processes - e.g., Payment via credit card/PayPal
+2. Procurement guardrails (e.g., contract splitting)
 3. Develop generic terms and conditions
 
 Note: we are really glad to be partnering with CFOB on this.
@@ -200,7 +200,7 @@ Note: we are really glad to be partnering with CFOB on this.
 - Partnership with CFOB
 - Automated security code checking
 - Taking lessons learned from others who have done micro-procurement
-- Table-top exercise
+- Tabletop exercise
 - Using standard safeguards against outsourcing
 
 Note:
@@ -214,7 +214,7 @@ Note:
 - Will be working with CFOB to mitigate the risk of contract splitting (likely through a combo of education, and audit
 - IP and Copyright around GC procurement of open source code is a relatively new area so we are working with the IP CoE within CFOB and lawyers at ISED who work on IP policy. But the general direction we are going in is that the supplier holds the IP but that they licence the work as open source so that the GC (and anyone) can re-use it.
 - There will be QA of code that is submitted.  Passing security screening will be one of the acceptance criteria (need to pass in order to get paid). Various options to look at including automated tools (e.g. for code on GitHub, they have a code scanning feature). We've talked to CDS about this as they also only use open source code.... "we had Semmle's previous offering "LGTM" as a requirement for all CDS OS projects, and so will transition it all over to this (code scanning)".  
-- Re: unions... we firmly believe that this is not about increasing outsourcing.  The micro-procurements are intended to supplement the work of employees in short bursts where capacity (from time, knowledge etc.) issues exist. Once these barriers have been removed, employees can progress with their work.
+- Re: unions... we firmly believe that this is not about increasing outsourcing.  The micro-procurements are intended to supplement the work of employees in short bursts where capacity (from time, knowledge, etc.) issues exist. Once these barriers have been removed, employees can progress with their work.
 - We are also working with CFOB on this.  One suggestion so far has been that any micro-procurement contract would include similar questions that must be answered during any procurement (e.g., confirm that capacity does not exist in-house).  It has been suggested that we go the National Union Management Committee to be completely transparent about this pilot and we are looking into this.
 
 ---
