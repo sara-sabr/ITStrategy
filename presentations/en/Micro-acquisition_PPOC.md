@@ -19,7 +19,7 @@ Initial presentation for approval
 - **Client Lead:** Matthew Diedrick, Hugo Desgent-Barbe
 - **BRM Contact:** Amos Lee
 - **EA Contact:** Erin Rowlinson
-- **Others:** Suppliers, ESDC clients, Office of Small and Medium Enterprise (PSPC), PSPC Legal (*)
+- **Others:** Suppliers, ESDC clients, Office of Small and Medium Enterprise (PSPC), ESDC/PSPC Legal
 
 Note:
 
@@ -122,7 +122,7 @@ Note:
    <td>$81K</td>
    <td>$15K</td>
    <td>$96K</td>
-   <td>$0.015</td>
+   <td>$0.015K</td>
    <td>$96K</td>
  </tr>
  <tr>
@@ -172,7 +172,7 @@ Note:
 All existing products and/or Approved Tech Bricks
 
 - Stand-alone website to post opportunities
-- Hosting via GitHub pages
+- Free hosting via GitHub pages
 - Procured code will be shared on open repositories
 - Actual procurement and payment will be done via existing systems (e.g., SAP)
 
