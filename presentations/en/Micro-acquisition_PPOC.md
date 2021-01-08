@@ -154,12 +154,12 @@ Note:
 
 ## Project schedule/milestones
 
-- **Jan. week 1:** approvals
-- **Jan. week 3:** mock-up approved
+- **Jan. week 1:** Approvals
+- **Jan. week 3:** Mock-up approved
 - **May week 1:** Development complete
 - **May week 3:** Stakeholders sign off
-- **May 2021 to May 2022:** pilot in operation
-- **June 2022:** project closeout
+- **May 2021 to May 2022:** Pilot in operation
+- **June 2022:** Project closeout
 
 Note:
 
@@ -187,7 +187,8 @@ Note:
 
 ## The non-technical build
 
-1. Simplified procurement processes - e.g., Payment via credit card/PayPal
+1. Simplified procurement processes -  
+    e.g., Payment via credit card/PayPal
 2. Procurement guardrails (e.g., contract splitting)
 3. Develop generic terms and conditions
 
@@ -270,5 +271,5 @@ Note:
 ## More info
 
 - [Micro-Acquisition Pilot page](micro-acquisition-pilot.html)
-- [Better tech through micro-procurement pt1](2020/08/12/better-tech-through-microprocurement-p1.html) (blog post)
+- [Better tech through micro-procurement pt1](2020/08/12/better-tech-through-microprocurement-p1.html) and [pt2](/2020/12/18/better-tech-through-micro-procurementpt2.html) (blog posts)
 - [US GSA - Experimenting with the Micro-Purchase Threshold](https://digital.gov/2020/04/24/experimenting-with-micropurchase-threshold/)
