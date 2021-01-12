@@ -114,7 +114,7 @@ To support the adoption of the new [Policy on Service and Digital](https://www.t
 
 | Name        | URL           | Notes  |
 | ----------- |:-------------:| ------:|
-| Element | https://element.io | Web client for Matrix homeservers |
+| Element | https://element.io | Web client for Matrix homeserver |
 | Librem One Chat | https://chat.librem.one | Homeserver only, requires client (Element) |
 | Matrix.org | https://matrix.org | Homeserver only, requires client (Element) |
 | Slack | https://slack.com |  |
@@ -127,7 +127,7 @@ To support the adoption of the new [Policy on Service and Digital](https://www.t
 
 | Name        | URL           | Notes  |
 | ----------- |:-------------:| ------:|
-| Microsoft 365 (Word, Excel, Powerpoint, OneNote) | https://www.office.com |  |
+| Microsoft 365 (Word, Excel, PowerPoint, OneNote) | https://www.office.com |  |
 | Google Docs (Docs, Sheets, Slides, Forms) | https://docs.google.com |  |
 | Framapad |  https://framapad.org |  |
 | Wikimedia Etherpad | https://etherpad.wikimedia.org |  |
