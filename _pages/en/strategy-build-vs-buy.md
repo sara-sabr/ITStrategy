@@ -86,10 +86,9 @@ The list of stakeholders are listed in the [Coherent set of actions](#coherent-s
 The **Guiding Policy**, once operationalized, will target stakeholders involved when the need for an IT Solution is raised, as well as when the IT Solution is conceptualized, architected, developed, delivered, operationalized, and maintained.
 All ESDC personnel involved in the exploration of IT Solutions and in IT investment decisions are expected to adhere to this policy.
 
-
 ## Guiding Policy
 
-The following policy reflects the decision adopted by the **CIO of ESDC** (approval by CIO not yet obtained) when assessing the most appropriate way of acquiring an IT solution, whether by adopting, buying or building it.
+The following policy reflects the decision adopted by the **CIO of ESDC** (approval by CIO in principle, now requires endorsement at EARB) when assessing the most appropriate way of acquiring an IT solution, whether by adopting, buying or building it.
 Each policy statement is a declaration of that decision and has received the endorsement of its associated area of governance body (endorsements not yet obtained, see [Coherent set of actions](#coherent-set-of-actions)).
 
 This policy becomes active when an ESDC initiative requires that an IT Solution be acquired, whether delivered by ESDC or by a third-party provider.
@@ -118,7 +117,6 @@ Stakeholders are expected to still comply with existing policy instruments inclu
 
 1. IT Solutions are broken down into manageable parts (IT Products) in line with the the ESDC Business Capability Model or the GoC Business Capability Model, whichever is most relevant.
 2. IT Solutions are assessed against the IT Solutions Risk Assessment Framework (to be created - see [Coherent set of actions](#coherent-set-of-actions) and read [Managing the Risks of Acquiring of Software](#managing-the-risks-related-to-acquiring-software-)).
-   - Adoption of existing IT Solutions and IT Products, internal or external, are favoured over purchasing or building them, in line with their specific risk profile and total cost of ownership.
 3. IT Product / IT Solution maintenance and support may be done in-house or outsourced to a third-party vendor
    - Outsourced maintenance and support may be provided by a third party different than the one providing the software licence.
 
@@ -137,7 +135,8 @@ Stakeholders are expected to still comply with existing policy instruments inclu
 1. IT Solutions and IT products loose coupling boundaries are at the intersection of value stream, value stage and business capability (ESDC Business Capability Model).
    - Duplication of IT Solutions or IT Products is supported as long as they are for different business capabilities.
    - Boundary of IT Solutions and IT Products are to be application capabilities so that they can enable business capabilities.
-2. IT Products are risk assessed for lock-in situations with the IT Products risk assessment framework (to be created - see [Coherent set of actions](#coherent-set-of-actions))
+   - Adoption of existing IT Solutions and IT Products, internal or external, are favoured over purchasing new ones or building them from the ground up, in line with their specific risk profile and total cost of ownership.
+2. IT Solutions and IT Products are risk assessed for lock-in situations with their specific risk assessment frameworks (to be created - see [Coherent set of actions](#coherent-set-of-actions))
 
 ## Coherent set of actions
 
