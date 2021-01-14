@@ -84,7 +84,7 @@ DevOps assessment tool helps to better understand strengths and needs, outline c
 For better outcomes use this path for continuous integration and delivery:
 ![A graphic with 4 circles demonstrating assessment cycle process.
 There are 4 circles connected with an arrow  in clockwise direction.
-The circle titles are: top "Assess"; right "Analyze"; bottom "Implement"; left "Improve".](assets/images/assessment_process_improvement.png){:height="100%" width="100%" style="display:block;margin-left:auto;margin-right:auto"}
+The circle titles are: top "Assess"; right "Analyze"; bottom "Implement"; left "Improve".](assets/images/assessment_process_improvement.png){:style="display:block;margin-left:auto;margin-right:auto"}
 
 #### Assessment tool process
 
@@ -106,7 +106,7 @@ The circle titles are: top "High 90-100%" which is connected to thumps up icon w
 The last two circles with the title "Low" and "Medium" with the following icons are connected to the icon with the paper and magnifying glass on it.
 This icon has a text "Recommendations on where and how to improve".
 At the end, all of three circles with following icons are connected to a floppy disk icon with the text "Save results".
-](assets/images/assessment_tool_process.png){:height="100%" width="100%" style="display:block;margin-left:auto;margin-right:auto"}
+](assets/images/assessment_tool_process.png){:style="display:block;margin-left:auto;margin-right:auto"}
 
 #### Survey questions
 
