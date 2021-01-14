@@ -59,6 +59,12 @@ body>.container {
 footer {
   margin-bottom: 1em;
 }
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
 /*============= RESETS =============*/
 
 /*-- iPhone X Remove Gutters --*/
