@@ -1,6 +1,6 @@
 # IT Strategy
 
-[![Build Status](https://travis-ci.com/sara-sabr/ITStrategy.svg?branch=master)](https://travis-ci.com/sara-sabr/ITStrategy)
+[![Build Status](https://github.com/sara-sabr/ITStrategy/workflows/Node.js%20CI/badge.svg)](https://github.com/sara-sabr/ITStrategy/actions?query=workflow%3A%22Node.js+CI%22)
 
 ([Français](#strategie-ti))
 
