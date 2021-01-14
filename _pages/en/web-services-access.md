@@ -4,7 +4,7 @@ title: Granting More Open Access to the Internet for IITB Employees
 ref: web-services-access
 lang: en
 status: posted
-sections: Work In Progress
+sections: Archives
 permalink: /web-services-access.html
 ---
 
@@ -62,9 +62,7 @@ To support the adoption of the new [Policy on Service and Digital](https://www.t
 
 | Name            | URL           | Notes  |
 | ----------- |:-------------:| ------:|
-| Gitter | https://gitter.im |  |
-| Riot IM | https://riot.im | Client for Matrix homeserver |
-| RocketChat | https://open.rocket.chat |  |
+| Hack Chat | https://hack.chat |  |
 | ... |  |  |
 
 ## Document Editing
@@ -73,7 +71,6 @@ To support the adoption of the new [Policy on Service and Digital](https://www.t
 
 | Name        | URL           | Notes  |
 | ----------- |:-------------:| ------:|
-| Google Docs (incl. Sheets, Slides, Forms) | https://docs.google.com |  |
 | ... |  |  |
 
 ## Web Conferencing
@@ -82,9 +79,6 @@ To support the adoption of the new [Policy on Service and Digital](https://www.t
 
 | Name        | URL           | Notes  |
 | ----------- |:-------------:| ------:|
-| BlueJeans | https://www.bluejeans.com |  |
-| Google Hangouts | https://hangouts.google.com |  |
-| Jitsi Meet | https://meet.jit.si |  |
 | ... |  |  |
 
 ## Email
@@ -96,7 +90,7 @@ To support the adoption of the new [Policy on Service and Digital](https://www.t
 | Fastmail | https://www.fastmail.com |  |
 | Google Mail | https://mail.google.com |  |
 | Mailbox.org | https://mailbox.org |  |
-| Outlook | https://outlook.live.com |  |
+| Outlook | https://outlook.live.com | Personal accounts |
 | Yahoo Mail | https://mail.yahoo.com |  |
 | ... |  |  |
 
@@ -107,23 +101,25 @@ To support the adoption of the new [Policy on Service and Digital](https://www.t
 | Name        | URL           | Notes  |
 | ----------- |:-------------:| ------:|
 | Dropbox | https://www.dropbox.com |  |
-| Framadrop | https://framadrop.org |  |
 | Google Drive | https://drive.google.com |  |
-| OneDrive | https://onedrive.live.com | Required for Office365 |
+| OneDrive | https://onedrive.live.com | Personal accounts |
 | pCloud | https://www.pcloud.com |  |
 | ... |  |  |
 
 ## Appendix B - Web Tools Already Accessible
 
-**Note:** Websockets, 3rd party cookies blocked and SSH blocked
+**Note:** 3rd party cookies blocked and SSH blocked
 
-## Instant Messaging (room-based)
+## Instant Messaging
 
 | Name        | URL           | Notes  |
 | ----------- |:-------------:| ------:|
-| Librem One Chat | https://chat.librem.one | Homeserver only, requires client (riot.im) |
-| Matrix.org | https://matrix.org | Homeserver only, requires client (riot.im) |
-| Slack | https://slack.com | Websockets blocked |
+| Element | https://element.io | Web client for Matrix homeserver |
+| Librem One Chat | https://chat.librem.one | Homeserver only, requires client (Element) |
+| Matrix.org | https://matrix.org | Homeserver only, requires client (Element) |
+| Slack | https://slack.com |  |
+| RocketChat | https://open.rocket.chat |  |
+| Gitter | https://gitter.im |  |
 | Zulip | https://zulipchat.com |  |
 | ... |  |  |
 
@@ -131,8 +127,10 @@ To support the adoption of the new [Policy on Service and Digital](https://www.t
 
 | Name        | URL           | Notes  |
 | ----------- |:-------------:| ------:|
+| Microsoft 365 (Word, Excel, PowerPoint, OneNote) | https://www.office.com |  |
+| Google Docs (Docs, Sheets, Slides, Forms) | https://docs.google.com |  |
 | Framapad |  https://framapad.org |  |
-| Office365 (pilot) | https://www.office.com |  |
+| Wikimedia Etherpad | https://etherpad.wikimedia.org |  |
 | Zoho | https://www.zoho.com |  |
 | ... |  |  |
 
@@ -140,7 +138,20 @@ To support the adoption of the new [Policy on Service and Digital](https://www.t
 
 | Name        | URL           | Notes  |
 | ----------- |:-------------:| ------:|
+| Microsoft 365 (Teams) | https://www.office.com |  |
+| Jitsi Meet | https://meet.jit.si |  |
+| Google Meet | https://meet.google.com |  |
+| Google Hangouts | https://hangouts.google.com |  |
+| BlueJeans | https://www.bluejeans.com |  |
 | Zoom | https://zoom.us |  |
+| ... |  |  |
+
+## File Storage
+
+| Name        | URL           | Notes  |
+| ----------- |:-------------:| ------:|
+| Infini Drop | https://drop.infini.fr |  |
+| Framadrop | https://framadrop.org/lufi |  |
 | ... |  |  |
 
 ## Version Control System (VCS) and Project Management
@@ -149,7 +160,7 @@ To support the adoption of the new [Policy on Service and Digital](https://www.t
 | ----------- |:-------------:| ------:|
 | Bitbucket | https://bitbucket.org |  |
 | Framagit | https://framagit.org |  |
-| GitHub | https://github.com | Websockets and SSH blocked |
+| GitHub | https://github.com | SSH blocked |
 | GitLab | https://gitlab.com |  |
 | ... |  |  |
 
@@ -161,7 +172,7 @@ To support the adoption of the new [Policy on Service and Digital](https://www.t
 | Taiga | https://taiga.io |  |
 | Trello | https://trello.com |  |
 | ZenHub | https://www.zenhub.com |  |
-| Zube | https://zube.io | Websockets blocked |
+| Zube | https://zube.io |  |
 | ... |  |  |
 
 ## Online Learning and Sandbox
@@ -170,7 +181,7 @@ To support the adoption of the new [Policy on Service and Digital](https://www.t
 | ----------- |:-------------:| ------:|
 | Coursera | https://www.coursera.org |  |
 | Docker Classroom | https://training.play-with-docker.com |  |
-| Docker Playground | https://labs.play-with-docker.com | Websockets blocked |
+| Docker Playground | https://labs.play-with-docker.com |  |
 | Edx | https://www.edx.org |  |
 | Udacity | https://www.udacity.com/ |  |
 | Udemy | https://www.udemy.com/ |  |
@@ -193,8 +204,8 @@ To support the adoption of the new [Policy on Service and Digital](https://www.t
 | Facebook | https://www.facebook.com |  |
 | Librem One | https://social.librem.one |  |
 | Linkedin | https://www.linkedin.com |  |
-| Mastodon | https://mastodon.social |  |
 | Twitter | https://twitter.com |  |
+| Mastodon | https://mastodon.online |  |
 | ... |  |  |
 
 ## Streaming
