@@ -6,8 +6,8 @@ lang: en
 status: posted
 sections: Strategies
 datatable-ids: t001
-version: 0.06
-date: "2020-10-29"
+version: 0.07
+date: "2021-01-14"
 permalink: /strategy-build-vs-buy.html
 ---
 <!-- markdownlint-disable MD033 -->
@@ -23,15 +23,9 @@ permalink: /strategy-build-vs-buy.html
 <!-- markdownlint-disable MD001 -->
 ##### Table of Content <!-- omit in toc -->
 <!-- markdownlint-enable MD001 -->
+- [Executive Summary](#executive-summary)
 - [Introduction](#introduction)
-  - [Purpose](#purpose)
-  - [Targeted Stakeholders](#targeted-stakeholders)
-  - [Business Case](#business-case)
 - [Guiding Policy](#guiding-policy)
-  - [Governance, Compliance, and Reporting](#governance-compliance-and-reporting)
-  - [Finance](#finance)
-  - [Legal](#legal)
-  - [Architecture](#architecture)
 - [Coherent set of actions](#coherent-set-of-actions)
 - [Measuring the Strategy's success](#measuring-the-strategys-success)
 - [Appendix A - Business Case (Diagnostic)](#appendix-a---business-case-diagnostic)
@@ -39,6 +33,35 @@ permalink: /strategy-build-vs-buy.html
 - [Appendix C - References](#appendix-c---references)
 - [Appendix D - Definitions](#appendix-d---definitions)
 - [Appendix E - Notes and Changelog](#appendix-e---notes-and-changelog)
+
+## Executive Summary
+
+Moving to the digital age requires improving IT's responsiveness and promoting a shared accountability with ESDC stakeholders on the use of technology.
+
+Yet, the current principle when acquiring IT Solutions is to "Buy what we can, Build what we must."
+The assumed reasoning behind this overarching principle is that by purchasing an IT Solution from a third party, risks, responsibilities, and liabilities of its operations are handled by a company who has more resources and technical expertise to produce and maintain software.
+
+This principle is leading to an oversimplified approach that doesn't take into account that, as a government department, ESDC is subject to multiple and fast-paced changes, whether at the [legal, political, organizational or technological levels](https://www.canada.ca/en/employment-social-development/corporate/reports/departmental-plan/2020-2021.html#h2.2-3.2), that impacts its ability to deliver on its mandate.
+Acquiring IT Solutions and Products can be accomplished using various methods and the acquisition is only a small part of the actual work required to be able to operate and maintain said technology.
+Adopting existing third-party solutions such as community-based open source software, or sometimes free software-as-a-service (SaaS), is an option often overlooked because of the belief that there is a lack of contractual support, warranties, indemnifications, etc.
+But those extra services are not part of the actual technology itself, they are services that the government representatives have become used to bundle as part of the rights to use the software via the contracting processes.
+These services can be acquired for community-based open source software as well, if required.
+But by conflating all these extra services and agreements together with the rights to use a software-based technology, the organization locks itself in long-term contractual obligations as well as with proprietary technologies and formats, making it very hard to course correct rapidly when required in the future.
+
+Flexibility, interoperability and loose coupling of IT solutions are necessary because, once acquired, the technology needs to be integrated in the organization's IT environment, configured to the needs of the users in a way that meets compliance and regulatory requirements, and continuously updated with patches and newest releases, etc.
+In addition to maintaining the technology itself, the acquiring organization needs to ensure its new and existing users are continuously trained, that its processes are properly adapted to the new capabilities and ways of working of the technology, that it has access to a sufficient pool of knowledgeable and dedicated personnel to maintain the technology, and that compliance to regulations and policies is maintained throughout the lifecycle of the IT Solution.
+
+As such, it is critical for the organization to ensure that core-to-mandate or complex IT Solutions remain highly flexible and adaptable to adjust to the pressing changes while also minimizing the risks of those changes by adopting loosely coupled architectures and smaller sized work packages (see [Target Solution Delivery Model](strategy-target-solution-delivery-model.html) for proposed ways to support such an approach).
+
+This strategy proposes moving ESDC to the point where all stakeholders understand that IT Solutions are complex and investment decisions have to be taken with flexibility, interchangeability, and interoperability in mind **throughout the entire lifecycle** of an IT Solution, not only at the initial stage.
+
+This strategy complements existing IT initiatives (such as the [IITB Way Forward](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx)) as well as supports them with new activities (see [Coherent set of actions](#coherent-set-of-actions)).
+
+This strategy's goal is to clarify the application of the GoC Mandatory Procedures for [Enterprise Architecture Assessments](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602) and on [Application Programming Interfaces](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604) when acquiring new or enhancing existing IT Solutions and IT products within ESDC IITB context.
+
+Finally, this strategy aims to highlight how an oversimplified "Buy vs Build" decision at one point in time may have important and critical impacts on the ability of the organization to deliver on its mandate.
+
+More details in [Appendix A](#appendix-a---business-case-diagnostic).
 
 ## Introduction
 
@@ -63,29 +86,6 @@ The list of stakeholders are listed in the [Coherent set of actions](#coherent-s
 The **Guiding Policy**, once operationalized, will target stakeholders involved when the need for an IT Solution is raised, as well as when the IT Solution is conceptualized, architected, developed, delivered, operationalized, and maintained.
 All ESDC personnel involved in the exploration of IT Solutions and in IT investment decisions are expected to adhere to this policy.
 
-### Business Case
-
-Moving to the digital age requires improving IT's responsiveness and promoting a shared accountability with ESDC stakeholders on the use of technology.
-
-Yet, the current principle when acquiring IT Solutions is to "Buy what we can, Build what we must."
-The assumed reasoning behind this overarching principle is that by purchasing an IT Solution from a third party, risks and responsibilities of its operations are handled by a company who has more resources and technical expertise to produce and maintain software.
-
-This principle is leading to an oversimplified approach that doesn't take into account that, as a government department, ESDC is subject to multiple and fast-paced changes, whether at the [legal, political, organizational or technological levels](https://www.canada.ca/en/employment-social-development/corporate/reports/departmental-plan/2020-2021.html#h2.2-3.2), that impacts its ability to deliver on its mandate.
-Acquiring IT Solutions and Products can be accomplished using various methods and the acquisition is only a small part of the actual work required to be able to operate and maintain said technology.
-Adopting existing third-party solutions such as community-based open source software, or sometimes free software-as-a-service (SaaS), is an option often overlooked because of the lack of contractual support, warranties, indemnifications, etc.
-But those extra services are not part of the actual software, they are services that the government representatives have become used to bundle as part of the rights to use the software.
-They can be acquired in other ways.
-By cementing all these extra services and agreements together with the rights to use a software, the organization locks itself in long-term contractual obligations as well as with proprietary technologies and formats, making it very hard to course correct rapidly when required.
-
-As such, it is critical for the organization to ensure that core-to-mandate or complex IT Solutions remain highly flexible and adaptable to adjust to the pressing changes while also minimizing the risk of those changes by adopting loosely coupled architectures and smaller sized work packages (see [Target Solution Delivery Model](strategy-target-solution-delivery-model.html) for proposed ways to support such an approach).
-
-This strategy proposes moving ESDC to the point where all stakeholders understand that IT Solutions are complex and investment decisions have to be taken with flexibility, interchangeability, and interoperability in mind **throughout the entire lifecycle** of an IT Solution, not only at the initial stage.
-
-This strategy complements existing IT initiatives (such as the [IITB Way Forward](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx)) as well as supports them with new activities (see [Coherent set of actions](#coherent-set-of-actions)).
-
-This strategy's goal is to clarify the application of the GoC Mandatory Procedures for [Enterprise Architecture Assessments](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602) and on [Application Programming Interfaces](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604) when acquiring new or enhancing existing IT Solutions and IT products within ESDC IITB context.
-
-More details in [Appendix A](#appendix-a---business-case-diagnostic).
 
 ## Guiding Policy
 
@@ -221,7 +221,7 @@ As such, the questions to ask are more akin to:
 - “For each of those component(s), is the best course of action adopting an open source component, purchasing the rights to use a commercial product or service, or building it internally?”; and
 - “How much organizational risk is the organization willing to delegate to a third party for a product or service (e.g., when the product/service roadmap is not under the organization's control?)”.
 
-In large and complex solutions, these questions shouldn't only be asked at the solution level but also for each component of said solution, taking into account multiple factors and criteria that will be explored below.
+In large and complex solutions, these questions should not only be asked at the solution level but also for each component of said solution, taking into account multiple factors and criteria that will be explored below.
 
 Even when an IT Solution is said to be bought, it is never a plug-and-play situation, whether it consists of COTS or SaaS.
 The organization's IT teams need to acquire, configure and adapt the purchased IT Products to fit with the rest of the organization's IT infrastructure, services, and rules.
@@ -267,7 +267,7 @@ The risk management for acquiring software is based on the following formula:
 >
 >_Risk_ is the level of injury to ESDC (High, Medium, Low).
 >
->_Probability of change_ is the probability that a change will happen in the future (e.g., new feature need, version upgrade, customization, integration, vendor product discontinuity, vendor product roadmap change)
+>_Probability of change_ is the probability that a change will happen in the future (e.g., new feature need, new legislation changes processes or rules, version upgrade, customization, integration, vendor product discontinuity, vendor product roadmap change, etc.)
 >
 >_Impact_ is the impact on ESDC that the change will have, informed by the following:
 >
@@ -305,9 +305,9 @@ The impact of such changes has a ripple effect on the whole organization and aff
 
 As well, other types of risks should be taken into account, e.g. related to:
 
-- **Implementation** – Unexpected delays, technology immaturity, user resistance to adopt the new system
-- **Intellectual Property** – Compliance with licencing requirements
-- **Third Party Viability** – Third party going out of business, or changing direction subsequent to a new ownership
+- **Implementation** – Unexpected delays, technology immaturity, user resistance to adopt the new system, etc.
+- **Intellectual Property** – Compliance with licencing requirements, inability to make specific business or technological decisions due to licencing constraints, etc.
+- **Third Party Viability** – Third party going out of business, change in roadmap direction subsequent to a new ownership, etc.
 
 ### Evaluating the Total Cost of Ownership <!-- omit in toc -->
 
