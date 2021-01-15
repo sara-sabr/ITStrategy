@@ -115,7 +115,7 @@ Stakeholders are expected to still comply with existing policy instruments inclu
 
 ### Governance, Compliance, and Reporting
 
-1. IT Solutions are broken down into manageable parts (IT Products) in line with the the ESDC Business Capability Model or the GoC Business Capability Model, whichever is most relevant.
+1. IT Solutions are broken down into manageable parts (IT Products) in line with the ESDC Business Capability Model or the GoC Business Capability Model, whichever is most relevant.
 2. IT Solutions are assessed against the IT Solutions Risk Assessment Framework (to be created - see [Coherent set of actions](#coherent-set-of-actions) and read [Managing the Risks of Acquiring of Software](#managing-the-risks-related-to-acquiring-software-)).
 3. IT Product / IT Solution maintenance and support may be done in-house or outsourced to a third-party vendor
    - Outsourced maintenance and support may be provided by a third party different than the one providing the software licence.
@@ -302,7 +302,7 @@ Software options in this niche market are scarce due to the unique mandate of ES
 Change probability is high as those capabilities change as much as regulation changes.
 The impact of such changes has a ripple effect on the whole organization and affects ESDC’s reputation to keep up with citizen demands while maintaining its fiduciary responsibility.
 
-As well, other types of risks should be taken into account, e.g. related to:
+As well, other types of risks should be taken into account, e.g., related to:
 
 - **Implementation** – Unexpected delays, technology immaturity, user resistance to adopt the new system, etc.
 - **Intellectual Property** – Compliance with licencing requirements, inability to make specific business or technological decisions due to licencing constraints, etc.
