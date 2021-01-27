@@ -1,11 +1,11 @@
 ---
 layout: default
-title: High Performing Digital Capabilities
-ref: it-capabilities
+title: Capabilities Assessment Tool
+ref: capabilities-assessment-tool
 lang: en
 status: posted
 sections: Work In Progress
-permalink: /high-performing-it-capabilities.html
+permalink: /capabilities-assessment-tool.html
 ---
 
 The following survey is based on the [State of DevOps Report](https://cloud.google.com/devops/state-of-devops/) that has been published annually since 2014, as part of the DevOps Research and Assessment (DORA).

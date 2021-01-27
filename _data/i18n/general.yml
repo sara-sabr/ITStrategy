@@ -21,11 +21,11 @@ nav:
     en: home.html
     fr: accueil.html
   sectionsList:
-    en: ["Vision", "Strategies", "Supporting Documents", "Analysis", "Work In Progress"]
-    fr: ["Vision", "Stratégies", "Documents à l'appui", "Analyses", "Travail en cours"]
+    en: ["Vision", "Strategies", "Supporting Documents", "Work In Progress"]
+    fr: ["Vision", "Stratégies", "Documents à l'appui", "Travail en cours"]
   blogPosts:
-    en: Our Blog Posts
-    fr: Nos billets
+    en: Blog
+    fr: Blogue
   docsTitle:
     en: Our Documents
     fr: Nos documents

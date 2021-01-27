@@ -1,10 +1,10 @@
 ---
 layout: default
-title: ESDC IT Strategy
+title: Our Approach to Strategy
 ref: esdc-it-strategy
 lang: en
 status: posted
-sections: Strategies
+sections: Vision
 permalink: /esdc-it-strategy.html
 ---
 
