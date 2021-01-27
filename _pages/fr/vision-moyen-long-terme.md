@@ -1,22 +1,20 @@
 ---
 layout: default
-title: Perspectives des TI à moyen terme - 2025
-ref: it-picture-medium-term
+title: Vision des technologies de l'information
+ref: vision-medium-long-term
 lang: fr
 status: posted
 sections: Vision
-permalink: /perspectives-ti-moyen-terme.html
+permalink: /vision-moyen-long-terme.html
 ---
 
-- [À l'échelle du GC](#à-léchelle-du-gc)
-- [TI au sein d'EDSC](#ti-au-sein-dedsc)
-  - [Dimension culturelle](#dimension-culturelle)
-  - [Processus](#processus)
-  - [Questions techniques](#questions-techniques)
-  - [Données de mesure](#données-de-mesure)
-- [Lectures complémentaires](#lectures-complémentaires-1)
+- [Vision moyen terme - 2025](#vision-moyen-terme---2025)
+- [Vision long terme - 2030](#vision-long-terme---2030)
+- [Lectures complémentaires](#lectures-complémentaires)
 
-## À l'échelle du GC
+## Vision moyen terme - 2025
+
+### À l'échelle du GC
 
 Les éléments fondamentaux de la vision du « Gouvernement en tant que service » sont disponibles et en production, le tout selon le [Plan stratégique des opérations numériques : Calendrier 2018-2022](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/plan-strategique-operations-numerique-2018-2022.html#ToC15). Cela comprend :
 
@@ -35,7 +33,7 @@ EDSC (surtout la DGIIT, bien qu'elle ait également influencé d'autres directio
 EDSC est un leader au sein du Conseil et des grappes d'UnGC.
 Sa propre initiative de transformation numérique se déroule bien, la Modernisation du versement des prestations (MVP) et la transformation des services avancent conformément au plan.
 
-## TI au sein d'EDSC
+### TI au sein d'EDSC
 
 Les TI sont utilisées comme un atout stratégique en vue d'améliorer les services aux citoyens et ne sont plus considérées comme une fonction « secondaire ».
 Les secteurs de services d'EDSC comprennent le coût et les risques liés à l'exploitation des TI et ont commencé à partager leur responsabilité en utilisant une gouvernance et une méthode d'investissement différentes pour réduire les risques liés aux TI.
@@ -48,7 +46,7 @@ L'objectif a été d'augmenter continuellement la fréquence des prestations de 
 La transformation en amélioration continue concerne tous les domaines dont la TI est responsable.
 Cela comprend les applications (la livraison de logiciels, les opérations) et l'infrastructure (les dispositifs d'utilisateur, les services, les réseaux).
 
-### Dimension culturelle
+#### Dimension culturelle
 
 Les employés estiment que leur travail est significatif et qu'il tire parti de leur expertise.
 Ils ont les outils et les ressources nécessaires pour faire le travail.
@@ -74,12 +72,7 @@ La responsabilité de la construction, du déploiement et de l'entretien des sys
 
 Dans l'ensemble, les employés qui travaillent en TI à EDSC sont plus heureux, plus productifs et plus à jour sur la technologie, ce qui les rend mieux placés pour répondre aux besoins changeants du Ministère afin qu'il puisse offrir des services plus efficaces aux Canadiens.
 
-#### Lectures complémentaires
-
-- [Article : A typology of organisational cultures](https://qualitysafety.bmj.com/content/qhc/13/suppl_2/ii22.full.pdf) (« Une typologie des cultures organisationnelles », en anglais)
-- [Texte : Team Topologies](https://itrevolution.com/book/team-topologies/) (« Les topologies des équipes », en anglais)
-
-### Processus
+#### Processus
 
 Les processus habilitent les équipes interfonctionnelles et leur permettent de [travailler sur de nouvelles idées](https://cloud.google.com/solutions/devops/devops-process-team-experimentation) dans la poursuite d'objectifs commerciaux qui résolvent des problèmes importants.
 L'information est traitée comme un bien de l'entreprise - elle est ouverte par défaut, facilement consultable, sécurisée et non dupliquée.
@@ -96,7 +89,7 @@ La gouvernance passe à la Lean Project Management (gestion de projet Lean) où 
 La gestion des investissements d'EDSC permet les investissements plus petits et plus itératifs dans les TI.
 L'harmonisation des systèmes de contrôle visant l'atteinte des résultats souhaités sert de mesure de projet plutôt que de s'appuyer sur la réalisation des tâches.
 
-### Questions techniques
+#### Questions techniques
 
 [Les équipes sont en mesure](https://cloud.google.com/solutions/devops/devops-tech-architecture) de fournir un environnement ou un dispositif de manière automatisée, et savent que tout nouvel environnement ou dispositif généré à partir de la même configuration est identique.
 Les services de production peuvent être restaurés de façon répétée et prévisible, même lorsque des événements catastrophiques se produisent.
@@ -128,7 +121,7 @@ L'architecture d'entreprise doit coder et utiliser des solutions de contrôle de
 Les testeurs doivent coder et utiliser des solutions de contrôle de version publiques ou gouvernementales.
 Les opérations doivent coder et utiliser des solutions de contrôle de version publiques ou pangouvernementales.
 
-### Données de mesure
+#### Données de mesure
 
 Les équipes de TI utilisent des logiciels qui [recueillent des données tout au long de la chaîne de valeur](https://cloud.google.com/solutions/devops/devops-measurement-monitoring-systems) et les [regroupent pour servir différents publics](https://cloud.google.com/solutions/devops/devops-measurement-visual-management).
 
@@ -141,8 +134,31 @@ Après le diagnostic des incidents, les indices qui auraient pu prédire l'évé
 Les applications qui sont associées aux services des secteurs d'activité fournissent des mesures de la santé globale des services du Ministère aux Canadiens.
 Les mesures de rendement des secteurs d'activité servent de repères et la responsabilité de l'incidence des TI sur le mandat d'EDSC est partagée.
 
+## Vision long terme - 2030
+
+### À l'échelle du GC
+
+En tirant parti de la [Perspective des TI à moyen terme - 2025](perspectives-ti-moyen-terme.html), le [Plan stratégique des opérations numériques Calendrier 2018-2022](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/plan-strategique-operations-numerique-2018-2022.htm) et la [Politique sur les services et le numérique](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32603), la prestation numérique des services et des avantages du GC sont automatisés et intégrés à la vie des Canadiens.
+La plupart des Canadiens utilisent une identité numérique fiable pour obtenir leurs services directement du GC ou des nombreux partenaires qui ont intégré les services du GC à leur offre.
+
+Les ministères et organismes du GC sont des organisations agiles, modernes, ouvertes et très performantes.
+Les données, les informations et le code de programmation sont partagés et la collaboration à l’interne et à l’externe est la norme pour tous les types de travail.
+
+EDSC est un leader dans le « nouveau » GC numérique et encourage d’autres organismes à créer une culture d’apprentissage, à être agile et à automatiser dans la mesure du possible.
+La MVP a mis en place une plateforme consolidée des avantages qui s’aligne sur le modèle plus large du « Gouvernement en tant que service » du GC.
+
+### TI au sein d'EDSC
+
+La [transformation](https://cloud.google.com/solutions/devops/devops-culture-transform) d'amélioration continue de la Stratégie de TI d’EDSC s’est poursuivie (consultez la [Perspective des TI à moyen terme - 2025](perspectives-ti-moyen-terme.html)) afin d’améliorer les capacités et de suivre les recommandations de DevOps Research and Assessment (DORA) et du [Rapport annuel sur l’état de DevOps]((https://cloud.google.com/devops/)).
+
+La prestation des TI est rapide, fiable et sécurisée en ce qui concerne les applications (la livraison de logiciels, les opérations) et l’infrastructure (les dispositifs utilisateurs, les services, les réseaux).
+Comme toujours, l’objectif est d’augmenter continuellement la fréquence de la prestation des services tout en réduisant les délais, le temps de rétablissement des services en cas panne ainsi que le taux de défaillance.
+
 ## Lectures complémentaires
 
+- [Article : A typology of organisational cultures](https://qualitysafety.bmj.com/content/qhc/13/suppl_2/ii22.full.pdf) (« Une typologie des cultures organisationnelles », en anglais)
+- [Texte : Team Topologies](https://itrevolution.com/book/team-topologies/) (« Les topologies des équipes », en anglais)
+- [Texte: Accelerate](https://itrevolution.com/book/accelerate/) (« Accélérer », en anglais)
 - [Texte : The DevOps Handbook](https://itrevolution.com/book/the-devops-handbook/) (« Le guide Devops », en anglais)
 - [Texte : Project to Product](https://itrevolution.com/book/project-to-product/) (« Du projet au produit », en anglais)
 - [Texte : War And Peace And IT](https://itrevolution.com/book/war-and-peace-and-it/) (« La guerre, la paix et les TI », en anglais)
