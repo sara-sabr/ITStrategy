@@ -4,7 +4,7 @@ title: IT Strategies and Actions
 ref: strategies
 lang: en
 status: posted
-sections: Strategies
+sections: Archives
 permalink: /strategies-actions.html
 ---
 

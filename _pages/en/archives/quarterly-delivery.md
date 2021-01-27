@@ -4,7 +4,7 @@ title: Quarterly Delivery
 ref: quarterly-delivery
 lang: en
 status: posted
-sections: Work In Progress
+sections: Archives
 permalink: /quarterly-delivery.html
 ---
 <!-- markdownlint-disable MD033 -->
