@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Strategy to Transform IITB into a High-Performing Organization (Continuous Improvement)"
+title: "Continuous Improvement Transformation"
 ref: transform-high-performing-org
 lang: en
 status: posted

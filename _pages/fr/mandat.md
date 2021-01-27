@@ -4,7 +4,7 @@ title: Mandat
 ref: mandate
 lang: fr
 status: posted
-sections: "À propos de nous"
+sections: Vision
 permalink: /mandat.html
 ---
 

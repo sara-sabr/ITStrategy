@@ -4,7 +4,7 @@ title: Mandate
 ref: mandate
 lang: en
 status: posted
-sections: "About us"
+sections: Vision
 permalink: /mandate.html
 ---
 
