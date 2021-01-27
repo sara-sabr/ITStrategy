@@ -1,22 +1,20 @@
 ---
 layout: default
-title: Medium Term IT Picture - 2025
-ref: it-picture-medium-term
+title: Information Technology Vision
+ref: vision-medium-long-term
 lang: en
 status: posted
 sections: Vision
-permalink: /it-picture-medium-term.html
+permalink: /vision-medium-long-term.html
 ---
 
-- [GC Wide](#gc-wide)
-- [IT within ESDC](#it-within-esdc)
-  - [Cultural](#cultural)
-  - [Process](#process)
-  - [Technical](#technical)
-  - [Measurement](#measurement)
-- [Additional Reading](#additional-reading-1)
+- [Medium Term Vision - 2025](#medium-term-vision---2025)
+- [Long Term Vision - 2030](#long-term-vision---2030)
+- [Additional Reading](#additional-reading)
 
-## GC Wide
+## Medium Term Vision - 2025
+
+### GC Wide
 
 The foundational pieces for "Government as a service" vision are available and in production, based on the [Digital Operations Strategic Plan: 2018-2022 Timeline](https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html#ToC15). This includes:
 
@@ -35,7 +33,7 @@ ESDC (especially IITB though it has influenced other branches as well) has seen 
 ESDC is a leader in OneGC Council and Clusters.
 Its own digital transformation initiative is going well with Benefits Delivery Modernization (BDM) and the Service Transformation progressing according to plan.
 
-## IT within ESDC
+### IT within ESDC
 
 IT is used as a strategic asset to improve services to citizens and is no longer seen as a "back-end" function.
 ESDC service lines understand the cost and risks of leveraging IT and have started to share its accountability by using a different governance and investment method as a means to reduce IT-related risks.
@@ -48,7 +46,7 @@ The goal has been to continuously increase frequency of delivery while reducing 
 The continuous improvement transformation is for all things that IT is responsible for.
 This includes applications (software delivery, operations) and infrastructure (user devices, services, networks).
 
-### Cultural
+#### Cultural
 
 Employees feel that their work is meaningful and leverages their expertise.
 They have the tools and resources necessary to get work done.
@@ -74,12 +72,7 @@ Responsibility for building, deploying and maintaining systems, is shared by cro
 
 Overall employees working in IT at ESDC are [happier](https://cloud.google.com/solutions/devops/devops-culture-job-satisfaction), more productive and more up to date on technology, making them better able to support the evolving needs of the department so that it can deliver more efficient services to Canadians.
 
-#### Additional Reading
-
-- [Article: A typology of organisational cultures](https://qualitysafety.bmj.com/content/qhc/13/suppl_2/ii22.full.pdf)
-- [Book: Team Topologies](https://itrevolution.com/book/team-topologies/)
-
-### Process
+#### Process
 
 Processes empower cross-functional teams and allow them to [work on new ideas](https://cloud.google.com/solutions/devops/devops-process-team-experimentation) in pursuit of business goals that solve important problems.
 Information is treated as a corporate asset -- it is open by default, easily searchable, secure and not duplicated.
@@ -96,7 +89,7 @@ Governance is moving to Lean Project Management where desired outcomes are state
 ESDC investment management enables this by allowing smaller, more iterative investments in IT.
 Monitoring towards achievement of desired outcomes is used as project metrics as opposed to task completion.
 
-### Technical
+#### Technical
 
 [Teams are able](https://cloud.google.com/solutions/devops/devops-tech-architecture) to provision an environment or device in an automated fashion, and know that any new environment or device generated from the same configuration is identical.
 Production services can be restored repeatedly and predictably even when catastrophic events occur.
@@ -128,7 +121,7 @@ Enterprise Architecture must code and use public or government wide version cont
 Testers must code and use public or government wide version control solutions.
 Operations must code and use public or government wide version control solutions.
 
-### Measurement
+#### Measurement
 
 IT teams use software that [collect data throughout the value chain](https://cloud.google.com/solutions/devops/devops-measurement-monitoring-systems) and [aggregates it to serve different audiences](https://cloud.google.com/solutions/devops/devops-measurement-visual-management).
 
@@ -141,8 +134,31 @@ Following the diagnosis of incidents, indicators that could have predicted the i
 Applications, mapped to business line services, provide metrics on the overall health of the department's services to Canadians.
 Business line performance metrics are used as benchmarks and the accountability of IT's impact to ESDC's mandate is shared.
 
+## Long Term Vision - 2030
+
+### GC Wide
+
+Building on the [Medium Term IT Picture - 2025](it-picture-medium-term.html), the [Digital Operations Strategic Plan: 2018-2022 Timeline](https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html#ToC15) and the [Policy on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603), digital delivery of services and benefits from the GC are automated and integrated in the lives of Canadians.
+Most Canadians use a trusted digital identity to get their services directly from the GC or with many partners that have integrated GC services into their offerings.
+
+Departments and agencies of the GC are agile, modern, open and high performing organizations.
+Data, information and code is shared and collaboration both internally and externally is the norm for all types of work.
+
+ESDC is a leader in the "new" digital GC and influences other organizations to create a learning culture, be agile and automate where possible.
+BDM has delivered a consolidated benefits platform that is aligned with the wider GC "Government as a service" model.
+
+### IT within ESDC
+
+The ESDC IT Strategy continuous improvement [transformation](https://cloud.google.com/solutions/devops/devops-culture-transform) has continued (See [Medium Term IT Picture - 2025](it-picture-medium-term.html)) to improve the capabilities and follow recommendations from the DevOps Research and Assessment (DORA) and the annual [State of DevOps Report](https://cloud.google.com/devops/).
+
+IT delivery is fast, reliable and secure for applications (software delivery, operations) and for infrastructure (user devices, services, networks).
+The goal is still to continuously increase frequency of delivery while reducing the lead time, the time to restore service when an incident occurs and the rate of failure.
+
 ## Additional Reading
 
+- [Article: A typology of organisational cultures](https://qualitysafety.bmj.com/content/qhc/13/suppl_2/ii22.full.pdf)
+- [Book: Team Topologies](https://itrevolution.com/book/team-topologies/)
+- [Book: Accelerate](https://itrevolution.com/book/accelerate/)
 - [Book: The DevOps Handbook](https://itrevolution.com/book/the-devops-handbook/)
 - [Book: Project to Product](https://itrevolution.com/book/project-to-product/)
 - [Book: War And Peace And IT](https://itrevolution.com/book/war-and-peace-and-it/)
