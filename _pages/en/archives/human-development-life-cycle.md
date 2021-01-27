@@ -4,7 +4,7 @@ title: Human Development Life Cycle
 ref: hdlc
 lang: en
 status: posted
-sections: Vision
+sections: Archives
 permalink: /human-development-life-cycle.html
 ---
 
