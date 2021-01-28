@@ -21,20 +21,23 @@ nav:
     en: home.html
     fr: accueil.html
   sectionsList:
-    en: ["Vision", "Strategies", "Supporting Documents", "Work In Progress"]
-    fr: ["Vision", "Stratégies", "Documents à l'appui", "Travail en cours"]
+    en: ["Strategies", "Supporting Documents", "Work In Progress"]
+    fr: ["Stratégies", "Documents à l'appui", "Travail en cours"]
   blogPosts:
     en: Blog
     fr: Blogue
   docsTitle:
-    en: Our Documents
-    fr: Nos documents
+    en: Documents
+    fr: Documents
   strategies:
     en: Strategies
     fr: Stratégies
+  vision:
+    en: Vision
+    fr: Vision
   presentations:
-    en: Our Presentations
-    fr: Nos présentations
+    en: Presentations
+    fr: Présentations
   pagesAbout:
     en: About us
     fr: À propos de nous

@@ -18,21 +18,22 @@
         {% include dropdown.html %}
 
         <!--Vision-->
-        {%- assign dropdown_section=site.data.i18n.general.nav.sectionsList[page.lang][0]-%}
+        {%- assign dropdown_section=site.data.i18n.general.nav.vision[page.lang]-%}
         {%- assign dropdown_title=dropdown_section-%}
         {%- assign dropdown_id = "navbarDropdownVision" -%}
         {% include dropdown.html %}
 
-        <!--Our Strategies - Nos stratégies-->
-        {%- assign dropdown_section=site.data.i18n.general.nav.sectionsList[page.lang][1]-%}
-        {%- assign dropdown_title=site.data.i18n.general.nav.strategies[page.lang]-%}
-        {%- assign dropdown_id = "navbarDropdownStrategies" -%}
-        {% include dropdown.html %}
-
-        {%- assign pages=site.pages | where:"ref", "documents" | sort: 'lang' -%}
+        {%- assign pages=site.pages | where:"ref", "strategies" | sort: 'lang' -%}
         {%- for my_page in pages -%}
           {% if my_page.lang == page.lang %}
-            <li class="nav-item"><a class="nav-link" lang="{{ my_page.lang }}" hreflang="{{ my_page.lang }}" href="{{ my_page.url | prepend: site.baseurl }}">{{ site.data.i18n.general.nav.docsTitle[my_page.lang] }}</a></li>
+            <li class="nav-item"><a class="nav-link" lang="{{ my_page.lang }}" hreflang="{{ my_page.lang }}" href="{{ my_page.url | prepend: site.baseurl }}">{{ site.data.i18n.general.nav.strategies[my_page.lang] }}</a></li>
+          {%- endif -%}
+        {%- endfor -%}
+
+        {%- assign pages=site.pages | where:"ref", "presentations" | sort: 'lang' -%}
+        {%- for my_page in pages -%}
+          {% if my_page.lang == page.lang %}
+            <li class="nav-item"><a class="nav-link" lang="{{ my_page.lang }}" hreflang="{{ my_page.lang }}" href="{{ my_page.url | prepend: site.baseurl }}">{{ site.data.i18n.general.nav.presentations[my_page.lang] }}</a></li>
           {%- endif -%}
         {%- endfor -%}
 

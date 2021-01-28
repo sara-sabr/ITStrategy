@@ -1,7 +1,7 @@
 ---
 layout: default
 title: IT Strategies and Actions
-ref: strategies
+ref: strategies-actions
 lang: en
 status: posted
 sections: Archives
