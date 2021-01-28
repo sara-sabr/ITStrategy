@@ -1,5 +1,3 @@
-### {{ site.data.i18n.general.nav.presentations[page.lang] }}
-
 _{{ site.data.i18n.general.notices.printPDFNotice[page.lang] }}_
 
 <ul class="post-list">
