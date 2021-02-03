@@ -47,7 +47,7 @@ Promote continuous improvement through the use of a **DevOps Self Assessment Too
 
 ### Continuous Improvement Transformation
 
-<img src="assets/images/AssessmentTool1.png" alt="">
+<img src="assets/images/AssessmentTool1.png" alt="This image shows how to improve the team following improvement transformation. There are five stages of improvement: 1. Setting goals - where IITB sets aspirational goal. 2. Current condition - where teams seek to understand the current condition. 3. Measurable targets - where teams set measurable targets for a future date. 4. Running experiments -where teams run experiments on a dialy basis to move towards the target conditions, using PDCA (Plan, Do, Check, Act) method. 5. New targets - where teams captures, set new targets and going to repat the process 2-3 times. The image also demonstrates PDCA method. Plan - determine the expected outcome. Do - perform the experiment. Check- study the rrsults. Act - decide what to do next.">
 
 ---
 
