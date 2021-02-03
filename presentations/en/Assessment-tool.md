@@ -45,17 +45,9 @@ Promote continuous improvement through the use of a **DevOps Self Assessment Too
 
 --
 
-### __ Replace with visual __
+### Continuous Improvement Transformation
 
-1. IITB sets aspirational goal
-2. Teams seek to understand the current condition
-3. Teams sets measurable targets for a future date
-4. Teams run experiments on a daily basis to move towards the target conditions, using PDCA method:
-   1. **Plan** : determine the expected outcome.
-   2. **Do** : perform the experiment.
-   3. **Check** : study the results.
-   4. **Act** : decide what to do next.
-5. Teams captured, set new targets, repeat 2-5.
+<img src="assets/images/AssessmentTool1.png" alt="">
 
 ---
 
