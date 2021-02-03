@@ -1,10 +1,32 @@
-<footer class="footer d-print-none">
-  <div class="container">
-    <span class="text-muted"><a class="text-dark" target="_blank"
-        href="https://github.com/sara-sabr/ITStrategy/tree/master/{{ page.path }}">{{ site.data.i18n.general.footer.viewOnGithub[page.lang] }}</a></span>
+
+
+  <footer class="pt-4 my-md-5 pt-md-5 border-top">
+  <div class="row">
+    <div class="col-6 col-md">
+      <ul class="list-unstyled text-small">
+        <li><a class="text-muted" href="#">About us</a></li>
+        <li><a class="text-muted" href="#">Contact us</a></li>
+      </ul>
+    </div>
+    <div class="col-6 col-md">
+      <ul class="list-unstyled text-small">
+        <li><a class="text-muted" href="./archives{%- if page.lang == 'fr' -%}-fr{%- endif -%}.html">Archives</a></li>
+      </ul>
+    </div>
+    <div class="col-6 col-md">
+      <ul class="list-unstyled text-small">
+        <li><a class="text-muted" target="_blank" href="https://github.com/sara-sabr/ITStrategy/tree/master/{{ page.path }}">{{ site.data.i18n.general.footer.viewOnGithub[page.lang] }}</a></li>
+      </ul>
+    </div>
+    <div class="col-12 col-md">
+      <p>{{ site.data.i18n.general.footer.copyright[page.lang] }}</p>
+    </div>
   </div>
-  <div class="container">{{ site.data.i18n.general.footer.copyright[page.lang] }}</div>
-</footer>
+  </footer>
+
+</div>
+
+{% include lang-select.html %}
 
 <script src="https://code.jquery.com/jquery-3.4.1.slim.js"
   integrity="sha256-BTlTdQO9/fascB1drekrDVkaKd9PkwBymMlHOiG+qLI=" crossorigin="anonymous"></script>
@@ -37,5 +59,4 @@
   for (i = 0; i < divs.length; i++) {
     divs[i].setAttribute("tabindex", "0");
   }
-
 </script>
