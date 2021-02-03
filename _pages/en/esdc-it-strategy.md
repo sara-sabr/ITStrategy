@@ -4,7 +4,7 @@ title: Our Approach to Strategy
 ref: esdc-it-strategy
 lang: en
 status: posted
-sections: Vision
+sections: Mission
 permalink: /esdc-it-strategy.html
 ---
 

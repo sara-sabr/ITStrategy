@@ -4,7 +4,7 @@ title: Vision des technologies de l'information
 ref: vision-medium-long-term
 lang: fr
 status: posted
-sections: Vision
+sections: Mission
 permalink: /vision-moyen-long-terme.html
 ---
 

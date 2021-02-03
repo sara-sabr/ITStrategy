@@ -4,7 +4,7 @@ title: Communications Strategy
 ref: strategy-communications
 lang: en
 status: posted
-sections: Vision
+sections: Mission
 permalink: /strategy-communications.html
 ---
 

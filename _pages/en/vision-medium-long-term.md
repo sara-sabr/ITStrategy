@@ -4,7 +4,7 @@ title: Information Technology Vision
 ref: vision-medium-long-term
 lang: en
 status: posted
-sections: Vision
+sections: Mission
 permalink: /vision-medium-long-term.html
 ---
 
