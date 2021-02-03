@@ -3,8 +3,7 @@
 {% assign aPage = site.pages | where:"sections", section | where:"lang", page.lang | sort: "title" %}
 
 {%- if aPage.size > 0 -%}
-
-### {{ section }}
+{%- if section != "Strategies" and section != "Stratégies" -%}<h3>{{ section }}</h3>{%- endif -%}
 
 <ul>
   {%- for page in aPage -%}

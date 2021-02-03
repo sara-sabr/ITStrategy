@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Documents
+title: Stratégies
 lang: fr
 ref: strategies
 status: posted
