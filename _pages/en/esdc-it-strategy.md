@@ -2,6 +2,7 @@
 layout: default
 title: Our Approach to Strategy
 ref: esdc-it-strategy
+order: 3
 lang: en
 status: posted
 sections: Mission

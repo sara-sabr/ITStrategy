@@ -2,6 +2,7 @@
 layout: default
 title: Communications Strategy
 ref: strategy-communications
+order: 4
 lang: en
 status: posted
 sections: Mission

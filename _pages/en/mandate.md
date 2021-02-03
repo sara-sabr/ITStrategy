@@ -2,6 +2,7 @@
 layout: default
 title: Mandate
 ref: mandate
+order: 1
 lang: en
 status: posted
 sections: Mission
