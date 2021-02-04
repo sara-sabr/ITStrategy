@@ -1,37 +1,39 @@
+{%- assign pages=site.pages | where:"ref", "archives" | sort: 'lang' -%}
+{%- for my_page in pages -%}
+  {% if my_page.lang == page.lang %}
+    <div class="container">
+      <p class="text-right">
+        <a class="text-muted" target="_blank" href="https://github.com/sara-sabr/ITStrategy/tree/master/{{ page.path }}">{{ site.data.i18n.general.footer.viewOnGithub[page.lang] }}</a>
+      </p>
+    </div>
+  {%- endif -%}
+{%- endfor -%}
+
 <footer class="pt-4 my-md-5 pt-md-5 border-top">
-<div class="row">
-  <div class="col-6 col-md">
-    <ul class="list-unstyled text-small">
-      {%- assign pages=site.pages | where:"ref", "about-us" | sort: 'lang' -%}
+  <div class="container">
+    <ul class="list-inline">
+
+      {%- assign pages=site.pages | where:"ref", "contact-us" | sort: 'lang' -%}
       {%- for my_page in pages -%}
         {% if my_page.lang == page.lang %}
-          <li><a class="text-muted" href="{{ my_page.url | prepend: site.baseurl }}">{{ site.data.i18n.general.nav.pagesAbout[my_page.lang] }}</a></li>
+          <li class="list-inline-item">
+            <a class="text-muted" href="{{ my_page.url | prepend: site.baseurl }}">{{ site.data.i18n.general.nav.pagesContact[my_page.lang] }}</a>
+          </li>
         {%- endif -%}
       {%- endfor -%}
 
-      <li><a class="text-muted" href="#">Contact us</a></li>
-
-    </ul>
-  </div>
-  <div class="col-6 col-md">
-    <ul class="list-unstyled text-small">
       {%- assign pages=site.pages | where:"ref", "archives" | sort: 'lang' -%}
       {%- for my_page in pages -%}
         {% if my_page.lang == page.lang %}
-          <li><a class="text-muted" href="{{ my_page.url | prepend: site.baseurl }}">{{ site.data.i18n.general.nav.pagesArchive[my_page.lang] }}</a></li>
+          <li class="list-inline-item">
+            <a class="text-muted" href="{{ my_page.url | prepend: site.baseurl }}">{{ site.data.i18n.general.nav.pagesArchive[my_page.lang] }}</a>
+          </li>
         {%- endif -%}
       {%- endfor -%}
+
     </ul>
-  </div>
-  <div class="col-6 col-md">
-    <ul class="list-unstyled text-small">
-      <li><a class="text-muted" target="_blank" href="https://github.com/sara-sabr/ITStrategy/tree/master/{{ page.path }}">{{ site.data.i18n.general.footer.viewOnGithub[page.lang] }}</a></li>
-    </ul>
-  </div>
-  <div class="col-12 col-md">
     <p>{{ site.data.i18n.general.footer.copyright[page.lang] }}</p>
   </div>
-</div>
 </footer>
 
 {% include lang-select.html %}
