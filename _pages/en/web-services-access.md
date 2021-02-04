@@ -3,7 +3,7 @@ layout: default
 title: Granting More Open Access to the Internet for IITB Employees
 ref: web-services-access
 lang: en
-status: Work Stopped;warning
+status: On hold;warning
 sections: Grassroots
 permalink: /web-services-access.html
 ---

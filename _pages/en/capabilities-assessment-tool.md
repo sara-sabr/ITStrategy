@@ -3,7 +3,7 @@ layout: default
 title: Capabilities Assessment Tool
 ref: capabilities-assessment-tool
 lang: en
-status: Work in Progress;primary
+status: In Progress;primary
 sections: Pilots
 permalink: /capabilities-assessment-tool.html
 ---

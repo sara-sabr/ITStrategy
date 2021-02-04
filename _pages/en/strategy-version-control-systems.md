@@ -3,7 +3,7 @@ layout: default
 title: Version Control Systems Strategy
 ref: version-control-systems
 lang: en
-status: Work Stopped;warning
+status: On hold;warning
 sections: Grassroots
 version: 0.01
 date: "2020-11-05"
