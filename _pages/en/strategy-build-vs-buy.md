@@ -3,7 +3,7 @@ layout: default
 title: "Adopt, Buy, and Build"
 ref: build-vs-buy
 lang: en
-status: Work in Progress;primary
+status: In Progress;primary
 sections: Strategies
 datatable-ids: t001
 version: 0.06

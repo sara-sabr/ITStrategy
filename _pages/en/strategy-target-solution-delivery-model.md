@@ -3,7 +3,7 @@ layout: default
 title: Target IT Solution Delivery Model
 ref: target-solution-delivery-model
 lang: en
-status: Work in Progress;primary
+status: In Progress;primary
 sections: Strategies
 permalink: /strategy-target-solution-delivery-model.html
 ---
