@@ -3,7 +3,8 @@ layout: default
 title: "Adopt, Buy, Build - Explained"
 ref: build-vs-buy-explained
 lang: en
-status: posted
+status: Work in Progress;primary
+sections: Supporting Documents
 version: 0.01
 date: "2020-09-23"
 permalink: /strategy-build-vs-buy-explained.html

@@ -3,8 +3,8 @@ layout: default
 title: Version Control Systems Strategy
 ref: version-control-systems
 lang: en
-status: posted
-sections: Archives
+status: Work Stopped;warning
+sections: Grassroots
 version: 0.01
 date: "2020-11-05"
 permalink: /strategy-version-control-systems.html
