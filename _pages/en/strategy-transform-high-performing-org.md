@@ -3,7 +3,7 @@ layout: default
 title: "Continuous Improvement Transformation"
 ref: transform-high-performing-org
 lang: en
-status: posted
+status: Future work;secondary
 sections: Strategies
 permalink: /strategy-transform-high-performing-org.html
 ---
