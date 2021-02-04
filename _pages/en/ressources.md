@@ -1,11 +1,11 @@
 ---
 layout: default
-title: References
-ref: references
+title: Ressources
+ref: ressources
 lang: en
 datatable-ids: t002, t003, t004
 sections: About us
-permalink: /references-en.html
+permalink: /ressources.html
 ---
 {%- assign tables = site.data.tables.references -%}
 
