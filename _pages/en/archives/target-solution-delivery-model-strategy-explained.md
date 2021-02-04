@@ -3,7 +3,6 @@ layout: default
 title: Target IT Solution Delivery Model Strategy - Explained
 ref: target-solution-delivery-model-strategy-explained
 lang: en
-status: posted
 sections: Archives
 permalink: /target-solution-delivery-model-strategy-explained.html
 ---

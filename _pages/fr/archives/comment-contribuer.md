@@ -3,7 +3,6 @@ layout: default
 title: Travailler ouvertement
 ref: how-to-contribute
 lang: fr
-status: posted
 sections: Archives
 permalink: /comment-contribuer.html
 ---

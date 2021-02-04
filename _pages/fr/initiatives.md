@@ -3,7 +3,6 @@ layout: default
 title: Initiatives
 lang: fr
 ref: initiatives
-status: posted
 permalink: /initiatives-fr.html
 ---
 

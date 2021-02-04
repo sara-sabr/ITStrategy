@@ -3,7 +3,6 @@ layout: default
 title: Rétroaction sur les stratégie de TI
 ref: feedback-speaking-notes
 lang: fr
-status: archived
 sections: Archives
 permalink: /notes-allocution-retroaction.html
 ---

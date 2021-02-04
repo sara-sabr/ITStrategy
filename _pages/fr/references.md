@@ -3,8 +3,6 @@ layout: default
 title: Références
 ref: references
 lang: fr
-status: posted
-sections: "À propos de nous"
 datatable-ids: t002, t003, t004
 permalink: /references-fr.html
 ---

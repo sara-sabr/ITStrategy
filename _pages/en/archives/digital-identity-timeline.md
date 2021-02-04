@@ -3,7 +3,6 @@ layout: default
 title: Digital Identity Timeline
 ref: digital-id-timeline
 lang: en
-status: posted
 sections: Archives
 permalink: /digital-identity-timeline.html
 ---

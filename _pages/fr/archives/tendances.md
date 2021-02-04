@@ -3,7 +3,6 @@ layout: default
 title: Tendances et besoins futurs
 ref: trends
 lang: fr
-status: posted
 sections: Archives
 permalink: /tendances.html
 ---

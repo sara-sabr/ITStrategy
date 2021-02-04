@@ -3,7 +3,7 @@ layout: default
 title: Pilote de micro-acquisition
 ref: Micro-acquisition
 lang: fr
-status: posted
+status: Travaux en cours;primary
 sections: Pilotes
 permalink: /pilote-de-micro-acquisition.html
 ---

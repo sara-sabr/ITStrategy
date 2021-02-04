@@ -3,7 +3,6 @@ layout: default
 title: Stratégie - Amélioration et apprentissage continus
 ref: strategy-continuous-improvement
 lang: fr
-status: posted
 sections: Archives
 permalink: /strategie-amelioration-apprentissage.html
 ---

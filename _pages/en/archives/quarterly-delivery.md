@@ -3,7 +3,6 @@ layout: default
 title: Quarterly Delivery
 ref: quarterly-delivery
 lang: en
-status: posted
 sections: Archives
 permalink: /quarterly-delivery.html
 ---

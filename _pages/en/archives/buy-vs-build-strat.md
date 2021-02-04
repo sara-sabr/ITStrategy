@@ -3,7 +3,6 @@ layout: default
 title: User Build vs Buy Strategy
 ref: buy-vs-build
 lang: en
-status: posted
 sections: Archives
 permalink: /buy-vs-build-start.html
 ---

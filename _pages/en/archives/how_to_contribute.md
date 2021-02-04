@@ -3,7 +3,6 @@ layout: default
 title: Working in the Open
 ref: how-to-contribute
 lang: en
-status: posted
 sections: Archives
 permalink: /how-to-contribute.html
 ---

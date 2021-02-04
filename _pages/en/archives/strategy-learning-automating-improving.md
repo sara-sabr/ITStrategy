@@ -3,7 +3,6 @@ layout: default
 title: Strategy - Continuous Improvement and Learning
 ref: strategy-continuous-improvement
 lang: en
-status: posted
 sections: Archives
 permalink: /strategy-learning-automating-improving.html
 ---

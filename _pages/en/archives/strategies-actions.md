@@ -3,7 +3,6 @@ layout: default
 title: IT Strategies and Actions
 ref: strategies-actions
 lang: en
-status: posted
 sections: Archives
 permalink: /strategies-actions.html
 ---

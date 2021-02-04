@@ -3,7 +3,7 @@ layout: default
 title: A Strategy to transition IITB to an ESDC partner
 ref: transition-to-partner
 lang: en
-status: posted
+
 sections: Archives
 permalink: /transition-to-partner.html
 ---

@@ -3,7 +3,6 @@ layout: default
 title: Key Performance Indicators
 ref: kpi
 lang: en
-status: posted
 sections: Archives
 permalink: /iitb-kpi.html
 ---

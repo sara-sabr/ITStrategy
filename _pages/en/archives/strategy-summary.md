@@ -3,7 +3,6 @@ layout: default
 title: Strategy Map
 ref: summary
 lang: en
-status: posted
 sections: Archives
 permalink: /strategy-summary.html
 ---
