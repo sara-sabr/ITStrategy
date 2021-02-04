@@ -11,6 +11,14 @@
       <div class="collapse navbar-collapse" id="Menu1">
       <!-- Menu -->
       <ul class="navbar-nav ml-auto">
+
+        {%- assign pages=site.pages | where:"ref", "about-us" | sort: 'lang' -%}
+        {%- for my_page in pages -%}
+          {% if my_page.lang == page.lang %}
+            <li class="nav-item"><a class="nav-link" lang="{{ my_page.lang }}" hreflang="{{ my_page.lang }}" href="{{ my_page.url | prepend: site.baseurl }}">{{ site.data.i18n.general.nav.pagesAbout[my_page.lang] }}</a></li>
+          {%- endif -%}
+        {%- endfor -%}
+
         <!--Mission-->
         {%- assign dropdown_section=site.data.i18n.general.nav.mission[page.lang]-%}
         {%- assign dropdown_title=dropdown_section-%}
