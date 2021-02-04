@@ -16,6 +16,7 @@
   {%- if aPage.size > 0 -%}
       <div class="{%- if section == sections[0] -%}tab-pane fade show active{%- else -%}tab-pane fade{%- endif -%}"
           id="{{ section | slugify }}" role="tabpanel" aria-labelledby="{{ section | slugify }}-tab">
+        <br/>
         <ul>
           {%- for page in aPage -%}
             {%- assign status-alert = page.status | split: ";" -%}
