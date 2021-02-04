@@ -3,7 +3,6 @@ layout: default
 title: Enable Learning
 ref: learning
 lang: en
-status: posted
 categories: Archives
 permalink: /enable-learning.html
 ---

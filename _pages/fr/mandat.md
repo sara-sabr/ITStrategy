@@ -4,7 +4,6 @@ title: Mandat
 ref: mandate
 order: 1
 lang: fr
-status: posted
 sections: Mission
 permalink: /mandat.html
 ---

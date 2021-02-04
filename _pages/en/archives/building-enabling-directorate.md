@@ -3,7 +3,6 @@ layout: default
 title: Building Nested Enabling Teams
 ref: enabling-directorate
 lang: en
-status: posted
 sections: Archives
 permalink: /building-enabling-directorate.html
 ---

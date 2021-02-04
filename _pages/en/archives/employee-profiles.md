@@ -3,7 +3,6 @@ layout: default
 title: Employee Profiles
 ref: employee-profiles
 lang: en
-status: posted
 sections: Archives
 permalink: /employee-profiles.html
 ---

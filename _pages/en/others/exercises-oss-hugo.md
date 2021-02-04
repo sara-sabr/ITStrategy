@@ -3,7 +3,6 @@ layout: default
 title: Hugo Exercise Instructions
 ref: exercises-oss-hugo
 lang: en
-status: posted
 sections: Exercises, "Open Source Software"
 permalink: /exercises-oss-hugo.html
 ---

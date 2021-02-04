@@ -3,7 +3,6 @@ layout: default
 title: Jekyll Exercise Instructions
 ref: exercises-oss-jekyll
 lang: en
-status: posted
 sections: Exercises, "Open Source Software"
 permalink: /exercises-oss-jekyll.html
 ---

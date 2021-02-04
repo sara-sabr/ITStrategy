@@ -3,7 +3,6 @@ layout: default
 title: Archives
 lang: en
 ref: archives
-status: posted
 permalink: /archives.html
 ---
 

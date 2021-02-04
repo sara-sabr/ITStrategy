@@ -3,7 +3,6 @@ layout: default
 title: Service Culture
 ref: service-culture
 lang: en
-status: posted
 sections: Archives
 permalink: /service-culture.html
 ---

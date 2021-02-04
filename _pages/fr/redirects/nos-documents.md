@@ -3,7 +3,6 @@ layout: default
 title: Documents
 lang: fr
 ref: documents
-status: posted
 permalink: /documents-et-presentations.html
 redirect_to: /strategies-fr.html
 ---

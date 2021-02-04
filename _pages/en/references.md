@@ -3,7 +3,6 @@ layout: default
 title: References
 ref: references
 lang: en
-status: posted
 datatable-ids: t002, t003, t004
 sections: About us
 permalink: /references-en.html

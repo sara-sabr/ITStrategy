@@ -3,7 +3,6 @@ layout: default
 title: NPM Automation Exercise Instructions
 ref: exercises-automation-npm
 lang: en
-status: posted
 sections: Exercises, "Open Source Software", Automation
 permalink: /exercises-automation-npm.html
 ---
