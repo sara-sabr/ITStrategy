@@ -1,10 +1,8 @@
 {%- assign pages=site.pages | where:"ref", "archives" | sort: 'lang' -%}
 {%- for my_page in pages -%}
   {% if my_page.lang == page.lang %}
-    <div class="container">
-      <p class="text-right">
-        <a class="text-muted" target="_blank" href="https://github.com/sara-sabr/ITStrategy/tree/master/{{ page.path }}">{{ site.data.i18n.general.footer.viewOnGithub[page.lang] }}</a>
-      </p>
+    <div class="container text-right">
+      <a class="text-muted" target="_blank" href="https://github.com/sara-sabr/ITStrategy/tree/master/{{ page.path }}">{{ site.data.i18n.general.footer.viewOnGithub[page.lang] }}</a>
     </div>
   {%- endif -%}
 {%- endfor -%}
