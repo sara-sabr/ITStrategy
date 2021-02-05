@@ -15,3 +15,7 @@ exclude: ["wip-tec", "CONTRIBUTING.md", "cspell.json", "LICENSE", "link-check.js
 
 plugins:
   - jekyll-redirect-from
+
+sass:
+  sass_dir: assets/css
+  style: compressed
