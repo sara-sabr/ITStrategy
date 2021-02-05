@@ -65,6 +65,12 @@ nav:
   pagesOther:
     en: Other
     fr: Autre
+  sharepointSite:
+    en: Sharepoint
+    fr: Sharepoint
+  esdcIntranet:
+    en: ESDC Intranet
+    fr: Intranet EDSC
 
 blogs:
   writtenBy:
