@@ -20,24 +20,39 @@ nav:
   index:
     en: home.html
     fr: accueil.html
-  sectionsList:
-    en: ["Vision", "Strategies", "Supporting Documents", "Analysis", "Work In Progress"]
-    fr: ["Vision", "Stratégies", "Documents à l'appui", "Analyses", "Travail en cours"]
+  strategiesSectionsList:
+    en: ["Strategies", "Supporting Documents"]
+    fr: ["Stratégies", "Documents à l'appui"]
+  initiativesSectionsList:
+    en: ["Pilots", "Grassroots"]
+    fr: ["Pilotes", "Grassroots"]
   blogPosts:
-    en: Our Blog Posts
-    fr: Nos billets
+    en: Blog
+    fr: Blogue
   docsTitle:
-    en: Our Documents
-    fr: Nos documents
+    en: Documents
+    fr: Documents
   strategies:
     en: Strategies
     fr: Stratégies
+  initiatives:
+    en: Initiatives
+    fr: Initiatives
+  mission:
+    en: Mission
+    fr: Mission
+  resources:
+    en: Resources
+    fr: Ressources
   presentations:
-    en: Our Presentations
-    fr: Nos présentations
+    en: Presentations
+    fr: Présentations
   pagesAbout:
     en: About us
     fr: À propos de nous
+  pagesContact:
+    en: Contact us
+    fr: Contactez nous
   pagesWIP:
     en: Work In Progress
     fr: Travaux en cours
@@ -50,6 +65,12 @@ nav:
   pagesOther:
     en: Other
     fr: Autre
+  sharepointSite:
+    en: Sharepoint
+    fr: Sharepoint
+  esdcIntranet:
+    en: ESDC Intranet
+    fr: Intranet EDSC
 
 blogs:
   writtenBy:
@@ -92,8 +113,8 @@ content:
 
 footer:
   viewOnGithub:
-    en: View on GitHub
-    fr: Voir dans GitHub
+    en: View this page on GitHub
+    fr: Voir cette page dans GitHub
   copyright:
     en: Copyright © Her Majesty the Queen in Right of Canada, as represented by the Minister of Employment and Social Development Canada, 2019-2020.
     fr: Droit d’auteur © Sa Majesté la Reine du chef du Canada, représentée par le ministre de Emploi et Développement social Canada, 2019-2020
