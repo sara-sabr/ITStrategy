@@ -3,7 +3,6 @@ layout: default
 title: Target IT Solution Delivery Model Strategy - Outstanding feedback 
 ref: target-solution-delivery-model-strategy-explained-areas-of-concerns
 lang: en
-status: posted
 sections: Supporting Documents
 permalink: /target-solution-delivery-model-strategy-areas-of-concerns.html
 ---

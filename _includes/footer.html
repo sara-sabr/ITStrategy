@@ -1,10 +1,48 @@
-<footer class="footer d-print-none">
+{%- assign pages=site.pages | where:"ref", "archives" | sort: 'lang' -%}
+{%- for my_page in pages -%}
+  {% if my_page.lang == page.lang %}
+    <div class="container text-right">
+      <a class="text-muted" target="_blank" href="https://github.com/sara-sabr/ITStrategy/tree/master/{{ page.path }}">{{ site.data.i18n.general.footer.viewOnGithub[page.lang] }}</a>
+    </div>
+  {%- endif -%}
+{%- endfor -%}
+
+<footer class="pt-4 my-md-5 pt-md-5 border-top">
   <div class="container">
-    <span class="text-muted"><a class="text-dark" target="_blank"
-        href="https://github.com/sara-sabr/ITStrategy/tree/master/{{ page.path }}">{{ site.data.i18n.general.footer.viewOnGithub[page.lang] }}</a></span>
+    <ul class="list-inline">
+
+      {%- assign pages=site.pages | where:"ref", "contact-us" | sort: 'lang' -%}
+      {%- for my_page in pages -%}
+        {% if my_page.lang == page.lang %}
+          <li class="list-inline-item">
+            <a class="text-muted" href="{{ my_page.url | prepend: site.baseurl }}">{{ site.data.i18n.general.nav.pagesContact[my_page.lang] }}</a>
+          </li>
+        {%- endif -%}
+      {%- endfor -%}
+
+      {%- assign pages=site.pages | where:"ref", "archives" | sort: 'lang' -%}
+      {%- for my_page in pages -%}
+        {% if my_page.lang == page.lang %}
+          <li class="list-inline-item">
+            <a class="text-muted" href="{{ my_page.url | prepend: site.baseurl }}">{{ site.data.i18n.general.nav.pagesArchive[my_page.lang] }}</a>
+          </li>
+        {%- endif -%}
+      {%- endfor -%}
+
+      <li class="list-inline-item">
+        <a class="text-muted" target="_blank" href="https://014gc.sharepoint.com/sites/IITBStrategy">{{ site.data.i18n.general.nav.sharepointSite[page.lang] }}</a>
+      </li>
+
+      <li class="list-inline-item">
+        <a class="text-muted" target="_blank" href="http://esdc.prv/{{ page.lang }}/index.shtml">{{ site.data.i18n.general.nav.esdcIntranet[page.lang] }}</a>
+      </li>
+
+    </ul>
+    <p>{{ site.data.i18n.general.footer.copyright[page.lang] }}</p>
   </div>
-  <div class="container">{{ site.data.i18n.general.footer.copyright[page.lang] }}</div>
 </footer>
+
+{% include lang-select.html %}
 
 <script src="https://code.jquery.com/jquery-3.4.1.slim.js"
   integrity="sha256-BTlTdQO9/fascB1drekrDVkaKd9PkwBymMlHOiG+qLI=" crossorigin="anonymous"></script>
@@ -37,5 +75,4 @@
   for (i = 0; i < divs.length; i++) {
     divs[i].setAttribute("tabindex", "0");
   }
-
 </script>
