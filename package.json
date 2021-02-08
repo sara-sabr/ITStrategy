@@ -30,7 +30,6 @@
   },
   "homepage": "https://github.com/sara-sabr/ITStrategy#readme",
   "devDependencies": {
-    "bootstrap": "4.3.1",
     "chalk": "^2.4.2",
     "cspell": "^3.2.8",
     "cspell-dict-fr-fr": "^1.2.13",
