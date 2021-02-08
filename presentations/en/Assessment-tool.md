@@ -75,9 +75,9 @@ Teams are encouraged to fill out every section, but it is possible to fill out i
 
 --
 
-## How does it work, continued
+## How does it work?
 
-Process diagram
+<img src="assets/images/Process.png" alt="">
 
 [Demo](https://sara-sabr.github.io/dora-js/)
 
