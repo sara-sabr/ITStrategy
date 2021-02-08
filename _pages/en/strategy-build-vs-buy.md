@@ -3,7 +3,7 @@ layout: default
 title: "Adopt, Buy, and Build"
 ref: build-vs-buy
 lang: en
-status: posted
+status: In Progress;primary
 sections: Strategies
 datatable-ids: t001
 version: 0.06
@@ -207,7 +207,7 @@ The "IT Product" rectangle is connected to a third rectangle, titled "Software",
 The "Software" rectangle has two relationships connections.
 The first connection is to a rectangle, titled "Configuration", located below the "Software" rectangle; the end of the line starting from the "Software" rectangle has a "1" and the other end has a "1...*" and a small black diamond.
 The second connection is to another rectangle, titled "Infrastructure", located to the right of the "Software" rectangle; the end of the line starting from the "Software" rectangle has a "1" and the other end has a "1...*" and a small white diamond.
-There is one last connection, linking the "Infrastructure" and "Configuration" rectangles; the end of the line starting from the "Infrastructure" rectangle has a "1" and the other end has a "1...*" and a small black diamond.](assets/images/strategy-build-buy-uml-it-solution.png){:height="100%" width="100%"}
+There is one last connection, linking the "Infrastructure" and "Configuration" rectangles; the end of the line starting from the "Infrastructure" rectangle has a "1" and the other end has a "1...*" and a small black diamond.](assets/images/strategy-build-buy-uml-it-solution.png)
 
 Description of the model:
 

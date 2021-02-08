@@ -179,7 +179,6 @@ layout: default
 title: Mandat (Ébauche)
 ref: mandate
 lang: fr
-status: posted
 permalink: "/mandat.html"
 ---
 ```
