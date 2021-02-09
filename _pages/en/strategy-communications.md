@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Team's Communications Strategy
+title: Communications Strategy
 ref: strategy-communications
+order: 4
 lang: en
-status: posted
-sections: Work In Progress
+sections: Mission
 permalink: /strategy-communications.html
 ---
 

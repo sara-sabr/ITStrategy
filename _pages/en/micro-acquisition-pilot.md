@@ -3,8 +3,8 @@ layout: default
 title: Micro-Acquisition Pilot
 ref: Micro-acquisition
 lang: en
-status: posted
-sections: Work In Progress
+status: In Progress;primary
+sections: Pilots
 permalink: /micro-acquisition-pilot.html
 ---
 
