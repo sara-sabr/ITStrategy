@@ -86,13 +86,9 @@ Teams are encouraged to fill out every section, but it is possible to fill out i
 
 ---
 
-## How long does it take and how often should I use it?
+## TIME?
 
-The complete assessment takes under an hour, each sections takes 3-5 minutes.
-
-</br>
-
-We recommend that you use the self assessment tool every 6-12 months to measure your teams progress and to reestablish your baseline.
+<img src="assets/images/sections.png" alt="The image shows how many sections has a survey. The survey has eveven sections. Teams are encouraged to fill out every section. It is possible to to fill out individual sections independently. How long does it take? The complete assessment takes under an hour. Each section takes 3-5 minutes. How often to use it? We recommend to use DevOps Self-Assessment tool every 6-12 month to measure teams progress and to reestablish baseline.">
 
 ---
 
