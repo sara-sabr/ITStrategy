@@ -67,4 +67,4 @@ To better collaboratively develop tools and generally support each other, the BC
 
 ### Public Services and Procurement Canada (PSPC)
 
-- We are connected with the Office of Small and Medium Enterprise (OSME) at PSPC and it has confirmed that it will be able to help us during design to ensure we don’t inadvertently add barriers to suppliers, and with communications of our opportunities via their supplier channels.
+- We are connected with the Office of Small and Medium Enterprise (OSME) at PSPC and it has confirmed that it will be able to help us during design to ensure we don't inadvertently add barriers to suppliers, and with communications of our opportunities via their supplier channels.
