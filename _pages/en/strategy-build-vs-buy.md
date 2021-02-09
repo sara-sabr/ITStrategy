@@ -7,7 +7,7 @@ status: In Progress;primary
 sections: Strategies
 datatable-ids: t001
 version: 0.07
-date: "2021-01-14"
+date: "2021-02-09"
 permalink: /strategy-build-vs-buy.html
 ---
 <!-- markdownlint-disable MD033 -->
@@ -23,16 +23,22 @@ permalink: /strategy-build-vs-buy.html
 <!-- markdownlint-disable MD001 -->
 ##### Table of Content <!-- omit in toc -->
 <!-- markdownlint-enable MD001 -->
-- [Executive Summary](#executive-summary)
-- [Introduction](#introduction)
-- [Guiding Policy](#guiding-policy)
-- [Coherent set of actions](#coherent-set-of-actions)
-- [Measuring the Strategy's success](#measuring-the-strategys-success)
-- [Appendix A - Business Case (Diagnostic)](#appendix-a---business-case-diagnostic)
-- [Appendix B - Traceability Matrix](#appendix-b---traceability-matrix)
-- [Appendix C - References](#appendix-c---references)
-- [Appendix D - Definitions](#appendix-d---definitions)
-- [Appendix E - Notes and Changelog](#appendix-e---notes-and-changelog)
+1. [Executive Summary](#executive-summary)
+2. [Introduction](#introduction)
+   1. [Purpose](#purpose)
+   2. [Targeted Stakeholders](#targeted-stakeholders)
+3. [Guiding Policy](#guiding-policy)
+   1. [Governance, Compliance, and Reporting](#governance-compliance-and-reporting)
+   2. [Finance](#finance)
+   3. [Legal](#legal)
+   4. [Architecture](#architecture)
+4. [Coherent set of actions](#coherent-set-of-actions)
+5. [Measuring the Strategy's success](#measuring-the-strategys-success)
+6. [Appendix A - Business Case (Diagnostic)](#appendix-a---business-case-diagnostic)
+7. [Appendix B - Traceability Matrix](#appendix-b---traceability-matrix)
+8. [Appendix C - References](#appendix-c---references)
+9. [Appendix D - Definitions](#appendix-d---definitions)
+10. [Appendix E - Notes and Changelog](#appendix-e---notes-and-changelog)
 
 ## Executive Summary
 
@@ -51,15 +57,13 @@ But by conflating all these extra services and agreements together with the righ
 Flexibility, interoperability and loose coupling of IT solutions are necessary because, once acquired, the technology needs to be integrated in the organization's IT environment, configured to the needs of the users in a way that meets compliance and regulatory requirements, and continuously updated with patches and newest releases, etc.
 In addition to maintaining the technology itself, the acquiring organization needs to ensure its new and existing users are continuously trained, that its processes are properly adapted to the new capabilities and ways of working of the technology, that it has access to a sufficient pool of knowledgeable and dedicated personnel to maintain the technology, and that compliance to regulations and policies is maintained throughout the lifecycle of the IT Solution.
 
-As such, it is critical for the organization to ensure that core-to-mandate or complex IT Solutions remain highly flexible and adaptable to adjust to the pressing changes while also minimizing the risks of those changes by adopting loosely coupled architectures and smaller sized work packages (see [Target Solution Delivery Model](strategy-target-solution-delivery-model.html) for proposed ways to support such an approach).
+As such, it is critical for ESDC to ensure that core-to-mandate or complex IT Solutions remain highly flexible and adaptable to protect ESDC from the impacts of future changes while also minimizing the risks of those changes by adopting loosely coupled architectures and smaller sized work packages (see [Target Solution Delivery Model](strategy-target-solution-delivery-model.html) for proposed ways to support such an approach).
 
 This strategy proposes moving ESDC to the point where all stakeholders understand that IT Solutions are complex and investment decisions have to be taken with flexibility, interchangeability, and interoperability in mind **throughout the entire lifecycle** of an IT Solution, not only at the initial stage.
 
-This strategy complements existing IT initiatives (such as the [IITB Way Forward](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx)) as well as supports them with new activities (see [Coherent set of actions](#coherent-set-of-actions)).
+This strategy complements existing IT initiatives by introducing a **guiding policy** to set a direction as well as supports them with a plan of 9 actions involving stakeholders in IITB, SSPB (CDO), CFOB, SSC, TBS, and PSPC (see [Coherent set of actions](#coherent-set-of-actions)).
 
-This strategy's goal is to clarify the application of the GoC Mandatory Procedures for [Enterprise Architecture Assessments](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602) and on [Application Programming Interfaces](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604) when acquiring new or enhancing existing IT Solutions and IT products within ESDC IITB context.
-
-Finally, this strategy aims to highlight how an oversimplified "Buy vs Build" decision at one point in time may have important and critical impacts on the ability of the organization to deliver on its mandate.
+This strategy's goal is to clarify the application of the GoC Mandatory Procedures for [Enterprise Architecture Assessments](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602) and on [Application Programming Interfaces](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604) when acquiring new or enhancing existing IT Solutions within ESDC IITB context.
 
 More details in [Appendix A](#appendix-a---business-case-diagnostic).
 
@@ -71,8 +75,8 @@ To provide the Innovation, Information, and Technology Branch (IITB) with an ove
 
 The strategy includes:
 
-1. A **guiding policy**, which serves to clarify the application of the GoC Mandatory Procedures for [Enterprise Architecture Assessments](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602) and on [Application Programming Interfaces](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604) when acquiring new or enhancing existing IT Solutions in Employment and Social Development Canada (ESDC).
-2. A **coherent set of actions** (an action plan), which serve to operationalize the application of the GoC Mandatory Procedures for [Enterprise Architecture Assessments](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602) and on [Application Programming Interfaces](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604) when acquiring new or enhancing existing IT Solutions in ESDC.
+1. A **guiding policy**, which serves to provide a direction to ESDC when applying the GoC Mandatory Procedures for [Enterprise Architecture Assessments](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602) and on [Application Programming Interfaces](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604) when acquiring new or enhancing existing IT Solutions in Employment and Social Development Canada (ESDC).
+2. A **coherent set of actions** (an action plan), which serve to operationalize the guiding policy.
 
 The intent behind this strategy is to communicate a decision by the ESDC Chief Information Officer (CIO) (not yet approved) on a path forward (the Guiding Policy), and what investments are needed to operationalize that decision (the coherent set of actions).
 
