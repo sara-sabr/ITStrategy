@@ -3,7 +3,7 @@ layout: default
 title: "Adopt, Buy, and Build"
 ref: build-vs-buy
 lang: en
-status: posted
+status: In Progress;primary
 sections: Strategies
 datatable-ids: t001
 version: 0.07
@@ -146,34 +146,34 @@ Stakeholders are expected to still comply with existing policy instruments inclu
 
 This Strategy's success will be measured by comparing the following metrics against the key elements of the GoC Mandatory Procedures for [Enterprise Architecture Assessments](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602) and on [Application Programming Interfaces](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604).
 
-### Specific to Enterprise Architecture Assessments <!-- omit in toc -->
+### Enable organizational (ESDC) agility <!-- omit in toc -->
 
-- _Upcoming_
+- All new complex or core-to-mandate IT Solutions and IT Products have been acquired under conditions that enable ESDC to make course corrections and design changes in the future as required (i.e.: There are no service agreements, contractual or intellectual property clauses, or technical constraints limiting ESDC to change in parts or in whole the IT Solutions and IT Products.)
 
-### Specific to Application Programming Interfaces <!-- omit in toc -->
+### Accelerate acquisition of IT Solutions and Products (OSS, XaaS, etc.)<!-- omit in toc -->
 
-- _Upcoming_
+- Time to identify, assess, test, certify and approve a new external IT product for use in ESDC is less than 5 business days.​
+- Time to provision a standalone desktop IT product or Software as a Service access already in the APM is less than 30 minutes.​
+- Time to deploy code changes for an IT Solutions from check-in to release in production is less than 2 business days.
 
-### Specific to Acquisition of new or enhancements to IT Solutions and IT Products <!-- omit in toc -->
-
-#### Adopting <!-- omit in toc -->
+### Increase reuse of existing IT Solutions and Products, internal and external<!-- omit in toc -->
 
 - Increased ratio of open source software solutions and products used in production compared to purchased or internally developed ones that are not shareable and reusable.
-- Increased contributions to third-party OSS projects instead of internally maintained changes.
-- Decreased ratio of forked versions of third-party OSS unaligned with upstream or without contributions of changes.
-- Increased number of contributions to ESDC OSS projects from the community.
+- ESDC developers and product owners contributes back to third-party OSS projects instead of internally maintaining changes.
+- ESDC developers fork versions of third-party OSS only if the proposed changes are not integrated in the upstream version.
+- When developing software:
+  - All dependencies are automatically scanned, documented and accounted for.
+  - A bill of material is automatically generated.
+  - Licence compliance policies are automatically applied.
 
-#### Buying <!-- omit in toc -->
+### Design cloud native Solutions<!-- omit in toc -->
 
-- Decreased ratio of IT Solutions and IT Products used in production by ESDC for which the department cannot make software changes due to:
-  - Contract obligations with vendors
-  - Intellectual property limitations
-  - Proprietary and closed formats
-- Decreased ratio of IT Solutions and IT Products for which the department cannot choose a service integrator and/or a software maintainer other than the group that provides the software licence.
-- Decreased use of IT Solutions and IT Products for which there are non-interoperable and exclusive:
-  - File formats
-  - Application Programming Interfaces
-  - Data exports
+- All new IT Solutions and IT Products can technically be deployed on premise or on any pre-approved cloud service provider.
+
+### Loosely coupled Architecture<!-- omit in toc -->
+
+- All new IT Solutions and Products support the reuse of their business capabilities as a service via APIs.
+- All enhancements to existing IT Solutions include as a deliverable an API for it's capabilities.
 
 #### Building <!-- omit in toc -->
 
@@ -206,7 +206,7 @@ The "IT Product" rectangle is connected to a third rectangle, titled "Software",
 The "Software" rectangle has two relationships connections.
 The first connection is to a rectangle, titled "Configuration", located below the "Software" rectangle; the end of the line starting from the "Software" rectangle has a "1" and the other end has a "1...*" and a small black diamond.
 The second connection is to another rectangle, titled "Infrastructure", located to the right of the "Software" rectangle; the end of the line starting from the "Software" rectangle has a "1" and the other end has a "1...*" and a small white diamond.
-There is one last connection, linking the "Infrastructure" and "Configuration" rectangles; the end of the line starting from the "Infrastructure" rectangle has a "1" and the other end has a "1...*" and a small black diamond.](assets/images/strategy-build-buy-uml-it-solution.png){:height="100%" width="100%"}
+There is one last connection, linking the "Infrastructure" and "Configuration" rectangles; the end of the line starting from the "Infrastructure" rectangle has a "1" and the other end has a "1...*" and a small black diamond.](assets/images/strategy-build-buy-uml-it-solution.png)
 
 Description of the model:
 

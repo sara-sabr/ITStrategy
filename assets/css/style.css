@@ -59,6 +59,12 @@ body>.container {
 footer {
   margin-bottom: 1em;
 }
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
 /*============= RESETS =============*/
 
 /*-- iPhone X Remove Gutters --*/
@@ -472,6 +478,15 @@ h3.heading {
     padding: .4rem .9rem;
     font-size: .9rem;
   }
+
+  .site-title {
+    font-size: 2rem;
+  }
+
+  .site-subtitle {
+    font-size: 1rem;
+  }
+
 }
 
 /* ----------------------------------------------

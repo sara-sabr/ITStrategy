@@ -2,9 +2,9 @@
 layout: default
 title: Mandat
 ref: mandate
+order: 1
 lang: fr
-status: posted
-sections: "À propos de nous"
+sections: Mission
 permalink: /mandat.html
 ---
 
