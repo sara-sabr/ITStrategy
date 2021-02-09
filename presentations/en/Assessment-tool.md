@@ -41,9 +41,6 @@ Promote continuous improvement through the use of a **DevOps Self Assessment Too
 - Encourage continuous improvement 
 - Aligned to Policy and Directive on Service and Digitl
 
-
-<img src="assets/images/two-dudes.png" alt="">
-
 --
 
 ### Continuous Improvement Transformation
@@ -67,9 +64,9 @@ More information: [2019 State of DevOps Report](https://cloud.google.com/devops/
 
 ---
 
-## Assessment process improvement methodology
+## Process improvement methodology
 
-<img src="assets/images/improvement_method.png" alt="">
+<img src="assets/images/improvement_method.png" alt="The image demonstrates assessment process methodology flow. It has five steps. Step 1. Assess your team performance and identify where it stands within DevOps. Step 2. Analyze and get your guidelines on how and what areas to improve. Step 3. Implement recommendations to achieve team desired outcomes. Step 4. Improve which means come back and re-take the survey to track your team progress.">
 
 ---
 
@@ -83,7 +80,7 @@ Teams are encouraged to fill out every section, but it is possible to fill out i
 
 ## How does it work?
 
-<img src="assets/images/Process.png" alt="">
+<img src="assets/images/Process.png" alt= "First, IT teams receive a link to take advantage of the DevOps Self-Assessment tool (example: IT Strategy website, email, coworker sharing. Then, the user is taking a survey after what it is scored based on responces. If the user scores high, which is 90-100%, the team is doing well. If the user scores medium, which is 50-89%, there is a room for the team to improve. If the user score low, which is 0-49%, the team needs to fill gaps with new learning opportunities. In all cases recommendations on where and how to improve will be provided. Finally, the user can save results.">
 
 [Demo](https://sara-sabr.github.io/dora-js/)
 
