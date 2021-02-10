@@ -6,15 +6,11 @@ lang: en
 permalink: /contact-us.html
 ---
 
+{{ site.data.i18n.general.notices.notice[page.lang]}}
 
-<!-- {{ site.data.i18n.general.notices.feedback[page.lang]}} -->
-<br/>
-All work found on this site are ideas and proposals from the IT Strategy team within ESDC. Content here does not represent the official stance of ESDC nor the Government of Canada at large.
-<br/>
-<br/>
-Got interested in our work or have new ideas? We would be happy to answer your questions and set up a meeting with you. Connect with us  through email.
-<br/>
-<br/>
-We encourage you to send us feedback on GitHub through Issues or Pull Requests. Look here on how to contribute.
+Got interested in our work or have new ideas?
+We would be happy to answer your questions and set up a meeting with you.
+Connect with us through [Email](mailto:EDSC.DGIIT.StrategieTI-ITStrategy.IITB.ESDC@hrsdc-rhdcc.gc.ca).
 
-
+We encourage you to send us feedback on [Github](https://github.com/sara-sabr/ITStrategy/) through Issues or Pull Requests, or simply by [Email](mailto:EDSC.DGIIT.StrategieTI-ITStrategy.IITB.ESDC@hrsdc-rhdcc.gc.ca).
+Look here on [how to contribute](how-to-contribute.html).
