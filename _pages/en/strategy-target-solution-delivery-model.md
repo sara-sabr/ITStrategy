@@ -72,7 +72,7 @@ The intent behind this strategy is to communicate a decision by the CIO (not yet
 
 This **strategy document** is targeted to stakeholders involved in determining how IT Solutions are delivered.
 More specifically, stakeholders involved in defining the rules for acquiring (whether building, buying, adopting, or configuring),  delivering, operationalizing, and maintaining IT Solutions (see [Appendix D](#appendix-d---definitions) for meaning).
-This includes both IITB and non-IITB stakeholders such as from CFOB, IAERMB, and SSC.
+This includes both IITB and non-IITB stakeholders such as from CFOB, IAERMB, CDO, and SSC.
 The list of stakeholders is listed in [Coherent set of actions](#coherent-set-of-actions) and are expected to participate in the implementation of this strategy.
 
 The **Guiding Policy**, once operationalized, will target stakeholders involved when IT-enabled Projects are conceptualized and created, when IT Solutions are architected, and when IT Products are developed, delivered, operationalized, and maintained.
@@ -112,7 +112,9 @@ This strategy seeks to improve the above two goals by proposing moving ESDC to t
 The benefits to frequent small deployments, using automated methods, are expected to reduce risk[^9], reduce technical debt, increase client satisfaction, and increase overall confidence in the department and its staff.
 This is now possible with the adoption of Cloud technologies and DevOps practices.
 
-In short, this strategy seeks to change organizational conditions so that ESDC can successfully achieve its digital transformation[^10].
+Moving to Digital increases focus on Data as being the asset the organization cares about. It is with Data that the organization will gain insights and inform its service improvement decisions[^10]. The ability to rapidly make software changes will require treating Data as a separate construct, not dependent on the software but rather being interfaced with it. See Appendix D (Definitions) for the relationships between IT Solution, Application, Software, and Data.
+
+In short, this strategy seeks to change organizational conditions so that ESDC can successfully achieve its digital transformation[^11].
 
 This strategy will capitalize on existing IT initiatives (such as the [IITB Way Forward](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx), the PwC Independent Study, its Cloud Operations framework, and Technical Debt remediation programme) by adding attention to them and complementing them with new activities.
 
@@ -154,7 +156,6 @@ Stakeholders are expected to still comply with existing policy instruments inclu
 10. IT-Enabled Projects produce production-ready IT Products at minimum every 6 months
 11. IT-Enabled Projects start when the minimum IT-Enabled project intake conditions are met, as defined by the \<_IT-enabled project intake condition standard_\>
 12. IT-Enabled Projects follow the \<_IT-Enabled Project Agile Governance Framework_\>
-13. IT-Enabled Projects report on Key Performance Indicators (KPIs) as defined in the \<_IT-Enabled Project Agile Governance Framework_\>
 
 ### Capacity Planning
 
@@ -163,27 +164,29 @@ Stakeholders are expected to still comply with existing policy instruments inclu
 
 ### Architecture
 
-1. IT Solutions use loose coupling architectures, as defined by the <_[Adopt, Build, Buy Strategy](https://sara-sabr.github.io/ITStrategy/strategy-build-vs-buy.html)_\>
-2. IT Products do not depend on other IT Products to run in production
-3. IT Products can test, deploy, and make technical changes without dependencies on other IT Product DevOps teams
-4. DevOps teams have the authority to choose their IT Products technical stacks, unless the technical stacks are in the Containment or Retirement category, as defined by the \<_[Technology Standards Management](https://sara-sabr.github.io/ITStrategy/strategy-build-vs-buy.html)_\>
-5. IT Products expose their functionalities and data via secure APIs
-6. IT-Enabled Projects affecting Legacy Systems are scoped to use the \<_strangler design pattern_\> in alignment with the \<_Target Architecture Vision for Legacy System_\>
-7. Legacy Systems are systems in the \<_ESDC Legacy Systems Standard List_\>
+1. IT Solutions are loosely coupled to Business Capabilities, as defined by the <_[Adopt, Build, Buy Strategy](https://sara-sabr.github.io/ITStrategy/strategy-build-vs-buy.html)_\>
+2. Applications, making up IT Solutions, are loosely coupled with the organization's Data
+3. Software components, making up Applications, are loosely coupled between them
+4. IT Products can test, deploy, and make technical changes without dependencies on other IT Product DevOps teams
+5. DevOps teams have the authority to choose their IT Products technical stacks, unless the technical stacks are in the Containment or Retirement category, as defined by the \<_[Technology Standards Management](https://sara-sabr.github.io/ITStrategy/strategy-build-vs-buy.html)_\>
+6. IT Products expose their functionalities and data via secure APIs
+7. IT-Enabled Projects affecting Legacy Applications are scoped to use the \<_strangler design pattern_\> in alignment with the \<_Target Architecture Vision for Legacy Applications\>
+8. Legacy Applications are systems in the \<_ESDC Legacy Applications Standard List_\>
 
 ### Product Management
 
-1. IT Products have a single Product Owner with the necessary authority to approve changes affecting their IT Product
-2. IT Products are supported by one or more DevOps teams
-3. IT-Enabled Projects fill backlogs of the IT Products in scope of the project
-4. DevOps teams support their IT Products in production and are accountable for their uptime
-5. IT Products backlog items are categorized as non-discretionary or discretionary
+1. IT Solutions and Applications are managed as Products (referred to as IT Products)
+2. IT Products have a single Product Owner with the necessary authority to approve changes affecting their IT Product
+3. IT Products are supported by one or more DevOps teams
+4. IT-Enabled Projects fill backlogs of the IT Products in scope of the project
+5. DevOps teams support their IT Products in production and are accountable for their uptime
+6. IT Products backlog items are categorized as non-discretionary or discretionary
 
 ### DevOps
 
 1. DevOps teams use a pipeline to control the release process from commit to production
 2. The DevOps pipeline allows for manual intervention, if required
-3. DevOps teams are comprised of 9 members maximum
+3. DevOps teams are comprised of 9 multi-disciplinary members maximum
 4. DevOps teams use build automation
 5. DevOps teams use test automation for:
     - Unit testing
@@ -211,7 +214,7 @@ The following are actions that need to be performed in order to make the Target 
     <th>Contributor(s)</th>
   </tr>
   <tr>
-    <td rowspan="9"><b>Governance</b></td>
+    <td rowspan="8"><b>Governance</b></td>
     <td>Review IT Project Governance decision chain</td>
     <td>
     Review terms of reference of Governance committees involved in the IT-Enabled Project PMLC and propose recommendations to allow the Target State to operate. e.g.:<br>
@@ -256,7 +259,8 @@ Produce a list of conditions that IT-Enabled projects must meet before project i
       BRM<br>
       Enterprise Architecture<br>
       Business Architecture<br>
-      CFOB IPPM
+      CFOB IPPM<br>
+      CDO
     </td>
   </tr>
   <tr>
@@ -291,27 +295,6 @@ Similarly to draft BDM Digital Experience and Client Data (DECD) <a href="https:
   CFOB IPPM
     </td>
   </tr>
-  <tr>
-    <td>Produce a standard definition for <i>IT Product</i> and <i>IT Solution</i></td>
-    <td>
-    Produce a standard definition for the terms IT Product and IT Solutions to avoid confusion between stakeholders. Expected to establish a consistent relationship between the terms:<br>
-<li>IT Solution</li>
-<li>IT Product</li>
-<li>Software</li>
-<li>Infrastructure</li>
-<li>APM Application</li>
-</td>
-    <td>
-    <b><i>TSDM Change Mgt team</i></b>
-    </td>
-    <td>
-  Enterprise Architecture<br>
-  Technical Architecture<br>
-  Technical Debt<br>
-  TSWG<br>
-  Senior Advisors
-    </td>
-  </tr>  
   <tr>
     <td>Produce standard development metrics for DevOps teams</td>
     <td>
@@ -478,14 +461,20 @@ Provide standards that DevOps teams are expected to comply with when releasing s
     </td>
   </tr>
   <tr>
-    <td>Produce ESDC Legacy Systems Standard List</td>
-    <td>Produce an official list of systems deemed “Legacy” from the APM portfolio. This standard list is used by the 7<sup>th</sup> Architecture guiding policy statement </td>
+    <td>Produce ESDC Legacy Application Standard List</td>
+    <td>Produce an official list of applications deemed “Legacy” from the APM portfolio. This standard list is used by the 7<sup>th</sup> Architecture guiding policy statement </td>
     <td><b><i>Enterprise Architecture</i></b></td>
     <td>Technical Debt</td>
   </tr>
   <tr>
     <td>Produce Loose Coupling architecture guidance</td>
-    <td>Produce a guidance document to clarify and guide Architects in building IT solutions making use of loose coupling architecture principles that provide IT Product teams more autonomy (e.g., Micro-Services, <a href="https://12factor.net/">12-factor app</a>) while adhering to data management expectations.</td>
+    <td>
+    Produce a guidance document to clarify and guide Architects and DevOps teams in building IT Solutions making use of loose coupling architecture principles that provide DevOps teams more autonomy. Two areas of loose coupling is meant to be addressed:<Br>
+    <br>
+    1. Between software components making up an Application (e.g. adopting [Micro-Services](https://www.martinfowler.com/microservices/), [12-factor app](https://12factor.net/) principles<br>
+    2. Between the Application and the organization’s Data (e.g. adopting [Database change management](https://cloud.google.com/solutions/devops/devops-tech-database-change-management) practices for DevOps, providing [Data Access Layers](https://www.gartner.com/document/3895919) to DevOps teams)<br>
+    <br>
+The guidance document is expected to include architecture and design patterns, principles, and sources of re-usable code snippets while maintaining adherence to data management expectations..</td>
     <td>
     <b><i>Solution Architecture</i></b>
     </td>
@@ -687,7 +676,7 @@ The approach to its implementation will be that of an iterative one towards the 
     - Sanction 1 IT-Enabled Project to operate under the new Target State model
     - Build a temporary, funded, DevOps Community of Excellence (3-year life) that will act as change agents and coaches for existing ESDC IT teams towards their DevOps adoption
     - Identify “Champions” by functions.
-    These champions provide coaching and mentoring to other teams (i.e., the start of “enabling teams” that the Team Topology[^11] concept refers to)
+    These champions provide coaching and mentoring to other teams (i.e., the start of “enabling teams” that the Team Topology[^12] concept refers to)
     - Raise Awareness on the need for System Administrators to move towards becoming Site Reliability Engineers
 2. **Stage 2: Infrastructure and Legacy readiness**
     - Identify 2 IT-enabled projects touching legacy systems for piloting and scope them towards the Target State direction (as per the Target Architecture Vision for Legacy)
@@ -708,7 +697,7 @@ With the ubiquitous nature of technology, any changes to ESDC services will requ
 
 The [Directive on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601) highlights how **departmental CIOs (and CDOs) have a major say** on how departments are to digital transform .
 
-| Official      | &#37; of Total Reqs | Mandatory Procedures (4) reqs[^13] |
+| Official      | &#37; of Total Reqs | Mandatory Procedures (4) reqs[^14] |
 |---------------------------------------------------------------------|
 | ***CIO (with CDO)***  | ***84&#37;***             | ***229***       |
 | Service       | 10&#37;             | 0                             |
@@ -729,7 +718,7 @@ Recent software development practices, mainly Cloud and DevOps, have permitted u
 IT no longer requires lengthy wait time to procure servers, to develop large code bases, and to seek large capital investments for infrastructure.
 Cloud has commoditized IT infrastructure, enabling ESDC to rapidly develop, test, and deploy software.
 
-In addition, the software world is moving away from [Monolith-types of solutions](https://medium.com/koderlabs/introduction-to-monolithic-architecture-and-microservices-architecture-b211a5955c63) (large code base that provides many capabilities but become bottlenecks and single points of failures in the IT ecosystem, as the many IT teams needed to perform work collide).
+In addition, the GC is moving away from [Monolith-types of solutions](https://medium.com/koderlabs/introduction-to-monolithic-architecture-and-microservices-architecture-b211a5955c63) (large code base that provides many capabilities but become bottlenecks and single points of failures in the IT ecosystem, as the many IT teams needed to perform work collide)[^15].
 
 The [TB Directive on the Management of Projects and Programmes](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32594) makes room for the above approach:
 
@@ -740,7 +729,7 @@ The [TB Directive on the Management of Projects and Programmes](https://www.tbs-
 The above three requirements from the TB Directive indicate that departments must accept and adapt to change, as well as make evidence-based decisions (like planning decisions).
 Such evidence can only be obtained by execution.
 
-IITB has made efforts to modernize its management of technology, as is showcased in the [IITB News Kudo's Corner](http://esdc.prv/en/iitb/corporate/news/archives.shtml)[^14]  and its [IITB Way Forward](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental IMIT Plan/19-20 Plans/IITB Moving Forward v2.docx)[^15] plan.
+IITB has made efforts to modernize its management of technology, as is showcased in the [IITB News Kudo's Corner](http://esdc.prv/en/iitb/corporate/news/archives.shtml)[^16]  and its [IITB Way Forward](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental IMIT Plan/19-20 Plans/IITB Moving Forward v2.docx)[^17] plan.
 However, ESDC's relationship with technology spans beyond IITB's influence.
 
 Moving ESDC towards being an agile organization requires moving towards a model that enables smaller, more frequent software deployments as they are enabling the organization to gain empirical evidence necessary to make evidence-based decisions.
@@ -882,31 +871,41 @@ The people a development value stream uses are a set of DevOps teams.
 
 Organizing portfolios around development value streams enables visualizing the flow of work to produce solution, reduces handoffs and delays, allows faster learning and shorter time to market, supports leaner development and budgeting methods.
 
-**IT Solution**
+**IT Solution, Application, Software, and Data**
 
-An IT solution is a combination of one or more IT Products.
-It produces the environment within which end users operate.
+A standard definition is expected to be produced by EARB (see the [_Adopt, Build, Buy strategy’s coherent set of actions_](https://sara-sabr.github.io/ITStrategy/strategy-build-vs-buy.html#coherent-set-of-actions)). Until this is complete, the following definition and relationships are being used.
 
-Figure 1. Relationship Model between the different software elements (part 1).
+![A UML diagram representing the relationships between the terms IT Solution, Application, Software, Infrastructure, Data, and IT Product. The digram shows that an IT Solution and an Application are part of the concept IT Product. And while an IT Solution is comprised of one ore more Applications, Applications can exist on their own without belonging to an IT Solution. An Application is made up of one or more Software components. An Application interacts with one or more Data Entities that are generalized from the Master Data. Software components may have dependicies between them. Software components are deployed to one or more Infrastructure. Both Software and Infrastructure make use of Configuration.]({{ site.baseurl }}/assets/images/itsolution-itproduct-model.png)
+*Figure 2 . Relationship Model between the different software elements*
 
-![An UML diagram representing the hierarchical relation of an IT Solution and its components. There are 5 rectangles on the diagram connected by relationship lines. The first rectangle to the left is titled IT Solution. It is connected to a second rectangle, titled IT Product, located on its right by a relationship line; the end of the line starting from the IT Solution rectangle has a 1 and the other end has 1... and a small white diamond. The IT Product rectangle is connected to a third rectangle, titled Software, located on its right by a relationship line; the end of the line starting from the IT Product rectangle has a 1 and the other end has a 1... and a small white diamond. The Software rectangle has two relationships connections. The first connection is to a rectangle, titled Configuration, located below the Software rectangle; the end of the line starting from the Software rectangle has a 1 and the other end has a 1... and a small black diamond. The second connection is to another rectangle, titled Infrastructure, located to the right of the Software rectangle; the end of the line starting from the Software rectangle has a 1 and the other end has a 1... and a small white diamond. There is one last connection, linking the Infrastructure and Configuration rectangles; the end of the line starting from the Infrastructure rectangle has a 1 and the other end has a 1... and a small black diamond.]({{ site.baseurl }}/assets/images/itsolution-itproduct-model.png)
+And _IT Solution_ is made up of one or more Application(s). It is essentially a grouping of Applications.
+
+An _Application_ is part of the [Application Portfolio Management Program (APM](https://www.gcpedia.gc.ca/wiki/OCIO_Application_Portfolio_Management)) and is made up of one or more software (more commonly referred to as software components).
+An Application also makes use of, or produces, Data by interfacing it with its software components.
+In an Application, software and data are separate constructs.
+
+A _software_ component is a single code base: a grouping of files (binary, or text that will be compiled into binaries) that will execute on an infrastructure.
+A software component may have dependencies on other software components.
+This is often the case with its libraries, other software components, that are built by other teams, adopted from Open Source Software licences, or purchased from a 3rd party vendor.
+It is expected that software will have at least one configuration setting (e.g. a file) specific to the environment it is deployed to.
+
+The _Infrastructure_ is where the software is deployed on.
+Traditionally, this would be a Server running an Operating System.
+In the public cloud, this can be containers or other Platforms as a Service.
+As per software, Infrastructures also make use of configuration settings.
+
+The _Data_ that an Application interfaces with, is part of the Master Data Management.
+It refers to the source of truth(s) for a particular Data Entity, has its confidentiality, integrity, and availability defined for this business context, and the end-user consent is made known to the Application.
 
 **IT Product**  
 
-The combination of software, infrastructure, and their configuration.
-An IT Product is akin to an “application” as defined by the [Application Portfolio Management (APM)](https://www.gcpedia.gc.ca/wiki/OCIO_Application_Portfolio_Management) program.
-An IT Product may have one or many software (e.g., COTS, Open Source libraries, Open Source Software, Custom build software).
-Each of those software is deployed in one or many infrastructure (on premise, on the public cloud, or a combination of the two making it a hybrid deployment).
+An IT Product consists of either an IT Solution or an Application.
+The decision to scope a Product towards an IT Solution or an Application depends on the organization’s particular business context.
 
-A “working IT Product” is a version of the IT Product which allows DevOps teams to collect the maximum amount of validated learning about clients with the least effort.
-A working IT Product must be able to be used by end users and provide DevOps teams with observation of end-users behaviours.
+Moving towards Product Management, the idea is that IT Solutions or Applications are designed to grow and change over time, unlike projects that have a single beginning, middle, and end.
+This communicates that IT Solutions and Applications will use different methods of investment management to continually improve.
 
-For the scope of this Strategy, Operating Systems are NOT defined as IT products.
-Therefore should an IT Product depend on an Operating System to run in production, it is compliance with this Guiding Policy.
-
-Figure 2. Relationship Model between the different software elements (part 2).
-
-![An UML diagram representing the hierarchical relation of an IT Solution and its components. There are 5 rectangles on the diagram connected by relationship lines. The first rectangle to the left is titled IT Solution. It is connected to a second rectangle, titled IT Product, located on its right by a relationship line; the end of the line starting from the IT Solution rectangle has a 1 and the other end has 1... and a small white diamond. The IT Product rectangle is connected to a third rectangle, titled Software, located on its right by a relationship line; the end of the line starting from the IT Product rectangle has a 1 and the other end has a 1... and a small white diamond. The Software rectangle has two relationships connections. The first connection is to a rectangle, titled Configuration, located below the Software rectangle; the end of the line starting from the Software rectangle has a 1 and the other end has a 1... and a small black diamond. The second connection is to another rectangle, titled Infrastructure, located to the right of the Software rectangle; the end of the line starting from the Software rectangle has a 1 and the other end has a 1... and a small white diamond. There is one last connection,linking the Infrastructure and Configuration rectangles; the end of the line starting from the Infrastructure rectangle has a 1... and the other end has a 1... and a small black diamond.]({{ site.baseurl }}/assets/images/itsolution-itproduct-model.png)
+The “IT Product” is the technical portion of a greater “Product” offering: the bundling of services offered to clients[^18].
 
 **IT-Enabled Project**
 
@@ -980,16 +979,16 @@ The following are statistics and references regarding the problems and success r
 
 **1) Standish Group study**
 
-The Standish Group, a research advisory organization that focuses on software development performance[^16], found that “of 3,555 projects from 2003 to 2012 that had labour costs of at least $10 million, only 6.4% were successful.
+The Standish Group, a research advisory organization that focuses on software development performance[^19], found that “of 3,555 projects from 2003 to 2012 that had labour costs of at least $10 million, only 6.4% were successful.
 The Standish data showed that 52% of the large projects were “challenged” meaning they were over budget, behind schedule or didn't meet user expectations.
-The remaining 41.4% were failures — they were either abandoned or started anew from scratch."[^17]
+The remaining 41.4% were failures — they were either abandoned or started anew from scratch."[^20]
 
 The standish group study and results were also mentioned in Chapter 3 of the November 2006 Report of the Auditor General of Canada (statements 3.5 and 3.6).
 See point 3 below
 
 **2) 2016 and 2019 House of Commons Questions (projects of more than $1M)**
 
-Thanks to an [Ottawa Civic Tech](https://ottawacivictech.ca/) project, a [dataset on large government IT projects](https://large-government-of-canada-it-projects.github.io/)[^18] was released with responses collected from two written questions in the House of Commons, from June 2016 and May 2019.
+Thanks to an [Ottawa Civic Tech](https://ottawacivictech.ca/) project, a [dataset on large government IT projects](https://large-government-of-canada-it-projects.github.io/)[^21] was released with responses collected from two written questions in the House of Commons, from June 2016 and May 2019.
 Each question asked federal government departments to report ongoing or planned IT projects over $1M.
 
 We find that:
@@ -997,7 +996,7 @@ We find that:
 - Of the 94 projects that contain sufficient data to compare schedules: 9% are on schedule, 4% are ahead of schedule, and 87% are behind schedule
 - Of the 97 projects that contain sufficient data to compare budgets: 26% are within 10% original estimates, 28% are between 10% and 50% above their original estimates, 28% are above 50% of their original estimates, and 19% are below 10% of their original estimates.
 
-**3) Chapter 3 of the Novembre 2006 Report of the Auditor General of Canada[^19]**
+**3) Chapter 3 of the Novembre 2006 Report of the Auditor General of Canada[^22]**
 
 The audit sampled seven projects and assessed them against four key criteria (governance, business case, organizational capacity, and project management).
 
@@ -1007,7 +1006,7 @@ It also refers a 2000 report in which it highlights a trend that is emerging in 
 The report concluded that, overall, the government had made little progress since the last audit (1997), had not adequately explained the results expected to be achieved as part of a business case, and not adequately assessed their capacity to take on high-risk IT projects.
 However, the report does conclude that 4/7 of the sampled projects were well managed.
 
-**4) 2010 Spring Report of the Auditor General of Canada[^20]**
+**4) 2010 Spring Report of the Auditor General of Canada[^23]**
 
 The report examined whether five of the government entities with the largest IT expenditures have adequately identified and managed risks related to aging IT systems.
 All of them indicated that aging IT is a significant risk and the majority included it in their corporate risk profile (ESDC is one of them).
@@ -1019,19 +1018,19 @@ The plan was not approved by senior management.
 The report indicated that the Chief Information Officer Branch (CIOB) at TBS has been aware of the significant risks of aging IT for over a decade.
 CIOB responded to the report stating it agrees with recommendations but that the responsibility of funding initiatives relies under departmental deputy heads, not CIOB.
 
-**5) Chapter 2 - June 2011 Status Report of the Auditor General of Canada (Large IT Projects)[^21]**
+**5) Chapter 2 - June 2011 Status Report of the Auditor General of Canada (Large IT Projects)[^24]**
 
 This report examined the progress from its 2006 report that examined seven large IT Projects, and selected a new project approved by the Treasury Board.
 
 It found that government made unsatisfactory progress on its commitments in response to the 2006 recommendations.
 
-**6) Report 5 – 2015 Spring Report of the Auditor General of Canada (IT investments by CBSA)[^22]**
+**6) Report 5 – 2015 Spring Report of the Auditor General of Canada (IT investments by CBSA)[^25]**
 
 This report presents the results of a performance audit, being an independent, objective, and systematic assessment of how well government is managing its activities, responsibilities, and resource.
 
 Overall the report found that CBSA “had significant challenges in managing its information technology (IT) portfolio in a way that ensured it could deliver IT projects that meet requirements and deliver expected benefits.”
 
-**7) Report 1 – 2018 Spring Report of the Auditor General of Canada (Building and Implementing the Phoenix Pay System)[^23]**
+**7) Report 1 – 2018 Spring Report of the Auditor General of Canada (Building and Implementing the Phoenix Pay System)[^26]**
 
 The audit focused on whether Public Services and Procurement Canada (PSPC) effectively and efficiently managed and oversaw the implementation of the new Phoenix pay system.
 
@@ -1042,12 +1041,18 @@ They did not provide complete and accurate information to deputy ministers and a
 In our opinion, the decision by Phoenix executives to implement Phoenix was unreasonable according to the information available at the time.
 As a result, Phoenix has not met user needs, has cost the federal government hundreds of millions of dollars, and has financially affected tens of thousands of its employees.”
 
-**8) 18F's February 2020 [presentation at Michigan Senate Appropriations Committee](https://www.youtube.com/watch?v=g-h6CtSwk30)[^24]**
+**8) 18F's February 2020 [presentation at Michigan Senate Appropriations Committee](https://www.youtube.com/watch?v=g-h6CtSwk30)[^27]**
 
 On February 2020, 18F (the U.S. equivalent of the Canadian Digital Service) did a presentation at Michigan's Senate Appropriations Committee.
-18F was created in 2014 by the Presidential Innovation Fellows (PIF, established in 2012 by the White House) to improve and modernize government technology[^25].
+18F was created in 2014 by the Presidential Innovation Fellows (PIF, established in 2012 by the White House) to improve and modernize government technology[^28].
 The presentation focused on technology procurement and its challenges.
 In short, government departments are unable to adequately frame problems into manageable parts and, as such, are locking themselves into lengthy, large, and complicated contracts with vendors.
+
+**9) [Delivering large-scale IT projects on time, on budget, and on value](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/delivering-large-scale-it-projects-on-time-on-budget-and-on-value?cid=soc-web), McKinsey Digital, 2012[^29]**
+
+A 2012 research, by McKinsey Digital in collaboration with the university of Oxford, on large IT Projects (greater than $15 million) suggests that 45% of them run over budget, 7% over time, and delivers 56% less value than predicted.
+Software projects run the highest risk of cost and schedule overruns.
+The research also founds that the longer a project is scheduled to last, the more likely it is that it will run over time and over budget. The research recommends four ways to improve project performance, two of which are building effective teams and using short delivery cycles.
 
 ## Inline references <!-- omit in toc -->
 
@@ -1060,19 +1065,23 @@ In short, government departments are unable to adequately frame problems into ma
 [^7]: Mark Schwartz, War & Peace & IT
 [^8]: Referencing ESDC's [Policy on Programme and Project Management](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Policy%20on%20Project%20and%20Programme%20Management.pdf)'s 2 key objectives: #2 (focus on benefits), and #4 (intention to reduce risks)
 [^9]: [DORA State of DevOps 2019](https://services.google.com/fh/files/misc/state-of-devops-2019.pdf) pages 40, 51, and 53
-[^10]: [Enabling conditions, not just heroics](https://honeygolightly.medium.com/enabling-conditions-not-just-heroics-110a2faba643), Honey Dacanay, Nov 2020
-[^11]: [Team Topology](https://teamtopologies.com/), 2019, by Matthew Skelton and Manuel Pais
-[^12]: From an [analysis](https://dialogue/grp/BU6810070/Versioned%20Library%20for%20collaboration/Policy_on_service_and_digital_analysis.xlsx) by the IT Strategy team
-[^13]: The four mandatory procedures are: [Enterprise Architecture Assessment](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602), [APIs](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604), [Privacy and Monitoring of Networks](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32607), and [IT Security Controls](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32611)
-[^14]: [IITB News Kudo's Corner](http://esdc.prv/en/iitb/corporate/news/archives.shtml)
-[^15]: [IITB Way Forward](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx)
-[^16]: [About the Standish Group](https://standishgroup.com/about)
-[^17]: [Why we love modular contracting](https://18f.gsa.gov/2019/04/09/why-we-love-modular-contracting/), by 18f
-[^18]: [Large Government of Canada IT projects](https://large-government-of-canada-it-projects.github.io/)
-[^19]: [2006 November Report of the Auditor General of Canada](https://www.oag-bvg.gc.ca/internet/English/parl_oag_200611_03_e_14971.html)
-[^20]: [2010 Spring Report of the Auditor General of Canada](https://www.oag-bvg.gc.ca/internet/English/parl_oag_201004_01_e_33714.html)
-[^21]: [2011 June Status Report of the Auditor General of Canada](https://www.oag-bvg.gc.ca/internet/English/parl_oag_201106_02_e_35370.html)
-[^22]: [2015 Spring Reports of the Auditor General of Canada](https://www.oag-bvg.gc.ca/internet/English/parl_oag_201504_05_e_40351.html)
-[^23]: [2018 sprint Reports of the Auditor General of Canada](https://www.oag-bvg.gc.ca/internet/English/parl_oag_201805_01_e_43033.html)
-[^24]: 18F's February 2020 [presentation at Michigan Senate Appropriations Committee](https://www.youtube.com/watch?v=g-h6CtSwk30)
-[^25]: [About 18f](https://18f.gsa.gov/about/)
+[^10]: See ESDC Chief Data Office [Data Strategy](https://www.gcpedia.gc.ca/wiki/CDO_Resources) on the use of Analytics to inform Service improvement Decisions
+[^11]: [Enabling conditions, not just heroics](https://honeygolightly.medium.com/enabling-conditions-not-just-heroics-110a2faba643), Honey Dacanay, Nov 2020
+[^12]: [Team Topology](https://teamtopologies.com/), 2019, by Matthew Skelton and Manuel Pais
+[^13]: From an [analysis](https://dialogue/grp/BU6810070/Versioned%20Library%20for%20collaboration/Policy_on_service_and_digital_analysis.xlsx) by the IT Strategy team
+[^14]: The four mandatory procedures are: [Enterprise Architecture Assessment](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602), [APIs](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604), [Privacy and Monitoring of Networks](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32607), and [IT Security Controls](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32611)
+[^15]: [IITB News Kudo's Corner](http://esdc.prv/en/iitb/corporate/news/archives.shtml)
+[^16]: See [TBS Service and Digital Target Enterprise Architecture](https://gccollab.ca/discussion/view/6671557/enservice-digital-target-enterprise-architecture-and-updates-to-the-enterprise-architecture-frameworkfrarchitecture-intu00e9gru00e9e-cible-des-services-et-du-numu00e9rique-et-mises-u00e0-jour-du-cadre-du2019architecture-intu00e9gru00e9e), moving towards micro-services as a means to better manage technical debt
+[^17]: [IITB Way Forward](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx)
+[^18]: This definition is reworded from [The Open Group’s Product standard definition](https://pubs.opengroup.org/architecture/o-aa-standard/#Product).
+[^19]: [About the Standish Group](https://standishgroup.com/about)
+[^20]: [Why we love modular contracting](https://18f.gsa.gov/2019/04/09/why-we-love-modular-contracting/), by 18f
+[^21]: [Large Government of Canada IT projects](https://large-government-of-canada-it-projects.github.io/)
+[^22]: [2006 November Report of the Auditor General of Canada](https://www.oag-bvg.gc.ca/internet/English/parl_oag_200611_03_e_14971.html)
+[^23]: [2010 Spring Report of the Auditor General of Canada](https://www.oag-bvg.gc.ca/internet/English/parl_oag_201004_01_e_33714.html)
+[^24]: [2011 June Status Report of the Auditor General of Canada](https://www.oag-bvg.gc.ca/internet/English/parl_oag_201106_02_e_35370.html)
+[^25]: [2015 Spring Reports of the Auditor General of Canada](https://www.oag-bvg.gc.ca/internet/English/parl_oag_201504_05_e_40351.html)
+[^26]: [2018 sprint Reports of the Auditor General of Canada](https://www.oag-bvg.gc.ca/internet/English/parl_oag_201805_01_e_43033.html)
+[^27]: 18F's February 2020 [presentation at Michigan Senate Appropriations Committee](https://www.youtube.com/watch?v=g-h6CtSwk30)
+[^28]: [About 18f](https://18f.gsa.gov/about/)
+[^29]: 
