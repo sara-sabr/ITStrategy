@@ -12,7 +12,7 @@ In this second post, we look at what can make implementing micro-procurement cha
 
 ***
 
-## What’s stopping the GC from doing micro-procurement of digital work
+## What's stopping the GC from doing micro-procurement of digital work
 
 The web of procurement rules is real.
 Procurement officers with extensive training help us navigate that web.
@@ -26,7 +26,7 @@ There is another challenge related to procurement policy.
 We know that flexibility exists within GC procurement policy to establish a simplified process for Low Dollar Value (LDV) procurements.
 However, this flexibility exists because policy doesn't explicitly say it cannot be done.
 As a result, there is very little guidance on how to do micro-procurement within the policy documents or at the departmental level.
-The Office of the Procurement Ombudsman noted this in their [2019 Low Dollar Value Report](http://opo-boa.gc.ca/faiblevaleur-dollarvalue-eng.html#s4.2) stating that "The audit found that despite adopting the Government of Canada’s contracting policies, TBS's internal process was not supported by a sufficiently articulated policy framework specific to LDV contracting ‘particularly for non-expert contracting authorities.’"
+The Office of the Procurement Ombudsman noted this in their [2019 Low Dollar Value Report](http://opo-boa.gc.ca/faiblevaleur-dollarvalue-eng.html#s4.2) stating that "The audit found that despite adopting the Government of Canada's contracting policies, TBS's internal process was not supported by a sufficiently articulated policy framework specific to LDV contracting ‘particularly for non-expert contracting authorities.’"
 
 Departmental procurement rules can also create barriers to establishing micro-procurement initiatives in the GC.
 Unlike policy, departmental procurement rules can vary widely from department to department.
@@ -37,13 +37,13 @@ When looking into establishing a micro-procurement initiative in the GC, a good 
 On the IT side, in order for micro-procurement of digital work (specifically source code) to be possible, we need to break our work out into small blocks of reusable code.
 This creates a challenge because in IT in the Government of Canada, we aren't used to working like that.
 We have been grouping coding tasks together into large software delivery projects for many years.
-ESDC's draft [Target Solution Delivery Model](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#business-case-strategic-context) suggests that "In order to better deliver services to Canadians, we need to improve IT’s responsiveness, otherwise the feedback loop between policy makers and Canadians will be too long, affecting ESDC’s ability to iterate on its policy making and become an agile organization."
+ESDC's draft [Target Solution Delivery Model](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#business-case-strategic-context) suggests that "In order to better deliver services to Canadians, we need to improve IT's responsiveness, otherwise the feedback loop between policy makers and Canadians will be too long, affecting ESDC’s ability to iterate on its policy making and become an agile organization."
 As we move towards an agile/DevOps way of working, with same day deployments, the need for smaller work packages (and being able to procure these smaller work packages) increases.
 
 Lastly, and certainly not least, any systems change requires breaking down silos and working together towards that change.
 Setting up a process and system for micro-procurement of digital work, by necessity, involves peers from both the CIO and the CFO branches of a department.
 Working together across branches in the GC can be hard.
-We need to learn to speak each other’s languages, and we need to be flexible.
+We need to learn to speak each other's languages, and we need to be flexible.
 
 ## Our plans at ESDC
 
