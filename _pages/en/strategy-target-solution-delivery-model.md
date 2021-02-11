@@ -472,7 +472,7 @@ Provide standards that DevOps teams are expected to comply with when releasing s
     Produce a guidance document to clarify and guide Architects and DevOps teams in building IT Solutions making use of loose coupling architecture principles that provide DevOps teams more autonomy. Two areas of loose coupling is meant to be addressed:<Br>
     <br>
     1. Between software components making up an Application (e.g. adopting <a href="https://www.martinfowler.com/microservices/">Micro-Services</a>, <a href="https://12factor.net/">12-factor app</a> principles<br>
-    2. Between the Application and the organization’s Data (e.g. adopting <a href="https://cloud.google.com/solutions/devops/devops-tech-database-change-management">Database change management</https://12factor.net/> practices for DevOps, providing <a hre="https://www.gartner.com/document/3895919">Data Access Layers</a> to DevOps teams)<br>
+    2. Between the Application and the organization’s Data (e.g. adopting <a href="https://cloud.google.com/solutions/devops/devops-tech-database-change-management">Database change management practices</a> for DevOps, providing <a href="https://www.gartner.com/document/3895919">Data Access Layers</a> to DevOps teams)<br>
     <br>
 The guidance document is expected to include architecture and design patterns, principles, and sources of re-usable code snippets while maintaining adherence to data management expectations..</td>
     <td>
