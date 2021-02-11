@@ -6,11 +6,9 @@ lang: en
 permalink: /contact-us.html
 ---
 
+Are you interested in our work, or have ideas to share?
+Or maybe you have questions or have found a typo on this site?
+Feel free to contact any of [us](about-us.html) directly, or send an [Email](mailto:EDSC.DGIIT.StrategieTI-ITStrategy.IITB.ESDC@hrsdc-rhdcc.gc.ca) to our generic inbox, or engage with us on [Github](https://github.com/sara-sabr/ITStrategy/) through [Issues](https://github.com/sara-sabr/ITStrategy/issues) or Pull Requests.
+Here is some information on [how to contribute](how-to-contribute.html).
+
 {{ site.data.i18n.general.notices.notice[page.lang]}}
-
-Got interested in our work or have new ideas?
-We would be happy to answer your questions and set up a meeting with you.
-Connect with us through [Email](mailto:EDSC.DGIIT.StrategieTI-ITStrategy.IITB.ESDC@hrsdc-rhdcc.gc.ca).
-
-We encourage you to send us feedback on [Github](https://github.com/sara-sabr/ITStrategy/) through Issues or Pull Requests, or simply by [Email](mailto:EDSC.DGIIT.StrategieTI-ITStrategy.IITB.ESDC@hrsdc-rhdcc.gc.ca).
-Look here on [how to contribute](how-to-contribute.html).
