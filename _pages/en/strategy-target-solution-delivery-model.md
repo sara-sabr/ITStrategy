@@ -875,7 +875,7 @@ Organizing portfolios around development value streams enables visualizing the f
 
 A standard definition is expected to be produced by EARB (see the [_Adopt, Build, Buy strategy’s coherent set of actions_](https://sara-sabr.github.io/ITStrategy/strategy-build-vs-buy.html#coherent-set-of-actions)). Until this is complete, the following definition and relationships are being used.
 
-![A UML diagram representing the relationships between the terms IT Solution, Application, Software, Infrastructure, Data, and IT Product. The digram shows that an IT Solution and an Application are part of the concept IT Product. And while an IT Solution is comprised of one ore more Applications, Applications can exist on their own without belonging to an IT Solution. An Application is made up of one or more Software components. An Application interacts with one or more Data Entities that are generalized from the Master Data. Software components may have dependicies between them. Software components are deployed to one or more Infrastructure. Both Software and Infrastructure make use of Configuration.]({{ site.baseurl }}/assets/images/itsolution-itproduct-model.png)
+![A UML diagram representing the relationships between the terms IT Solution, Application, Software, Infrastructure, Data, and IT Product. The digram shows that an IT Solution and an Application are part of the concept IT Product. And while an IT Solution is comprised of one ore more Applications, Applications can exist on their own without belonging to an IT Solution. An Application is made up of one or more Software components. An Application interacts with one or more Data Entities that are generalized from the Master Data. Software components may have dependencies between them. Software components are deployed to one or more Infrastructure. Both Software and Infrastructure make use of Configuration.]({{ site.baseurl }}/assets/images/itsolution-itproduct-model.png)
 *Figure 2 . Relationship Model between the different software elements*
 
 And _IT Solution_ is made up of one or more Application(s). It is essentially a grouping of Applications.
@@ -1084,4 +1084,4 @@ The research also founds that the longer a project is scheduled to last, the mor
 [^26]: [2018 sprint Reports of the Auditor General of Canada](https://www.oag-bvg.gc.ca/internet/English/parl_oag_201805_01_e_43033.html)
 [^27]: 18F's February 2020 [presentation at Michigan Senate Appropriations Committee](https://www.youtube.com/watch?v=g-h6CtSwk30)
 [^28]: [About 18f](https://18f.gsa.gov/about/)
-[^29]: 
+[^29]: See [this article](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/delivering-large-scale-it-projects-on-time-on-budget-and-on-value?cid=soc-web) from McKinsey Digital, 2012
