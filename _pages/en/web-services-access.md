@@ -3,8 +3,8 @@ layout: default
 title: Granting More Open Access to the Internet for IITB Employees
 ref: web-services-access
 lang: en
-status: posted
-sections: Archives
+status: On hold;warning
+sections: Grassroots
 permalink: /web-services-access.html
 ---
 
@@ -150,7 +150,6 @@ To support the adoption of the new [Policy on Service and Digital](https://www.t
 
 | Name        | URL           | Notes  |
 | ----------- |:-------------:| ------:|
-| Infini Drop | https://drop.infini.fr |  |
 | Framadrop | https://framadrop.org/lufi |  |
 | ... |  |  |
 

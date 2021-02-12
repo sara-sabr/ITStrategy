@@ -20,24 +20,39 @@ nav:
   index:
     en: home.html
     fr: accueil.html
-  sectionsList:
-    en: ["Vision", "Strategies", "Supporting Documents", "Analysis", "Work In Progress"]
-    fr: ["Vision", "Stratégies", "Documents à l'appui", "Analyses", "Travail en cours"]
+  strategiesSectionsList:
+    en: ["Strategies", "Supporting Documents"]
+    fr: ["Stratégies", "Documents à l'appui"]
+  initiativesSectionsList:
+    en: ["Pilots", "Grassroots"]
+    fr: ["Pilotes", "Grassroots"]
   blogPosts:
     en: Blog
     fr: Blogue
   docsTitle:
     en: Documents
-    fr:  Documents
+    fr: Documents
   strategies:
     en: Strategies
     fr: Stratégies
+  initiatives:
+    en: Initiatives
+    fr: Initiatives
+  mission:
+    en: Mission
+    fr: Mission
+  resources:
+    en: Resources
+    fr: Ressources
   presentations:
-    en: Our Presentations
-    fr: Nos présentations
+    en: Presentations
+    fr: Présentations
   pagesAbout:
     en: About us
     fr: À propos de nous
+  pagesContact:
+    en: Contact us
+    fr: Contactez nous
   pagesWIP:
     en: Work In Progress
     fr: Travaux en cours
@@ -50,6 +65,12 @@ nav:
   pagesOther:
     en: Other
     fr: Autre
+  sharepointSite:
+    en: Sharepoint
+    fr: Sharepoint
+  esdcIntranet:
+    en: ESDC Intranet
+    fr: Intranet EDSC
 
 blogs:
   writtenBy:
@@ -66,9 +87,6 @@ notices:
   notice:
     en: All work found on this site are ideas and proposals from the IT Strategy team within ESDC. Content here does not represent the official stance of ESDC nor the Government of Canada at large.
     fr: Tous les travaux présentés sur ce site sont des idées et des propositions de l'équipe de la stratégie informatique de EDSC. Le contenu présenté ici ne représente pas la position officielle de EDSC ni celle du gouvernement du Canada en général.
-  feedback:
-    en: We encourage you to send us feedback on <a class="alert-link" href="https://github.com/sara-sabr/ITStrategy/">GitHub</a> through Issues or Pull Requests, or simply by <a class="alert-link" href="mailto:EDSC.DGIIT.StrategieTI-ITStrategy.IITB.ESDC@hrsdc-rhdcc.gc.ca">email</a>. Look here on <a class="alert-link" href="how-to-contribute.html">how to contribute</a>.
-    fr: Nous vous encourageons à nous envoyer de la rétroaction dans <a class="alert-link" href="https://github.com/sara-sabr/ITStrategy/">GitHub</a> par le biais d'Enjeux (Issues) ou de "Pull Requests", ou bien simplement par <a class="alert-link" href="mailto:EDSC.DGIIT.StrategieTI-ITStrategy.IITB.ESDC@hrsdc-rhdcc.gc.ca">courriel</a>. Regardez ici pour savoir <a class="alert-link" href="comment-contribuer.html">comment contribuer</a>.
   printPDF:
     en: Printable version
     fr: Version imprimable
@@ -92,8 +110,8 @@ content:
 
 footer:
   viewOnGithub:
-    en: View on GitHub
-    fr: Voir dans GitHub
+    en: View this page on GitHub
+    fr: Voir cette page dans GitHub
   copyright:
     en: Copyright © Her Majesty the Queen in Right of Canada, as represented by the Minister of Employment and Social Development Canada, 2019-2020.
     fr: Droit d’auteur © Sa Majesté la Reine du chef du Canada, représentée par le ministre de Emploi et Développement social Canada, 2019-2020

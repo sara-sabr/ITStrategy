@@ -3,8 +3,8 @@ layout: default
 title: Version Control Systems Strategy
 ref: version-control-systems
 lang: en
-status: posted
-sections: Strategies
+status: On hold;warning
+sections: Grassroots
 version: 0.01
 date: "2020-11-05"
 permalink: /strategy-version-control-systems.html
@@ -31,15 +31,16 @@ th {
 <!-- markdownlint-disable MD001 -->
 ##### Table of Content <!-- omit in toc -->
 <!-- markdownlint-enable MD001 -->
-- [Introduction](#introduction)
-  - [Purpose](#purpose)
-  - [Target Audience](#target-audience)
-  - [Business Case](#business-case)
-- [Guiding Policy](#guiding-policy)
-- [Coherent set of actions](#coherent-set-of-actions)
-- [Measuring the Strategy's success](#measuring-the-strategys-success)
-- [Appendix A - Definitions](#appendix-a---definitions)
-- [Appendix B - Acronym List Definition](#appendix-b---acronym-list-definition)
+1. [Introduction](#introduction)
+   1. [Purpose](#purpose)
+   2. [Target Audience](#target-audience)
+   3. [Business Case](#business-case)
+2. [Guiding Policy](#guiding-policy)
+3. [Coherent set of actions](#coherent-set-of-actions)
+4. [Measuring the Strategy's success](#measuring-the-strategys-success)
+5. [Appendix A - Traceability Matrix](#appendix-a---traceability-matrix)
+6. [Appendix B - Definitions](#appendix-b---definitions)
+7. [Appendix C - Acronym List Definition](#appendix-c---acronym-list-definition)
 
 ## Introduction
 
@@ -95,7 +96,7 @@ The Architecture Review Committee (ARC) already endorsed the usage of 3 version 
 
 However, work remains in some areas to drive adoption.
 For instance, GCcode is not officially supported by SSC and lack some modern DevOps features (such as deployment to external cloud providers).
-This strategy’s goal is to define what the target state of the version control systems should be, and provide a roadmap in getting to this target state.
+This strategy's goal is to define what the target state of the version control systems should be, and provide a roadmap in getting to this target state.
 
 This strategy complements existing IT initiatives, such as [ESDC IITB Way Forward](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx), and supports them with new activities (see [Coherent set of actions](#coherent-set-of-actions)).
 
