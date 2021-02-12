@@ -176,7 +176,7 @@ Stakeholders are expected to still comply with existing policy instruments inclu
 ### Product Management
 
 1. IT Solutions and Applications are managed as Products (referred to as IT Products)
-2. IT Products have a single Product Owner with the necessary authority to approve changes affecting their IT Product
+2. IT Products have a single Product Owner with the necessary authority to approve changes to them
 3. IT Products are supported by one or more DevOps teams
 4. IT-Enabled Projects fill backlogs of the IT Products in scope of the project
 5. DevOps teams support their IT Products in production and are accountable for their uptime
