@@ -150,7 +150,6 @@ To support the adoption of the new [Policy on Service and Digital](https://www.t
 
 | Name        | URL           | Notes  |
 | ----------- |:-------------:| ------:|
-| Infini Drop | https://drop.infini.fr |  |
 | Framadrop | https://framadrop.org/lufi |  |
 | ... |  |  |
 

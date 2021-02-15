@@ -30,7 +30,7 @@ Run a one-year experimental pilot for purchases of $10K or less for custom code 
 
 ## Expected Results  
 
-- Increased participation and access to developers who wouldn’t normally bid on GC IT contracts
+- Increased participation and access to developers who wouldn't normally bid on GC IT contracts
 - Increased working in the open by ESDC
 - Reduced workload burden on ESDC procurement officers by allowing them to focus on more complex procurements
 - Increased ESDC capabilities around agile, including breaking work up into smaller chunks which drive high software delivery and organizational performance
