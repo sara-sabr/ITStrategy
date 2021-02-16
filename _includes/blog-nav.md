@@ -1,5 +1,5 @@
 <nav>
-<div class="post-nav" style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+<div class="border border-dark" style="display: flex; justify-content: space-between; flex-wrap: wrap;">
   {%- assign posts=site.posts | where:"lang", page.lang -%}
   {%- for post in posts -%}
     {%- unless post.draft -%} 
