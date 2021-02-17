@@ -75,4 +75,13 @@
   for (i = 0; i < divs.length; i++) {
     divs[i].setAttribute("tabindex", "0");
   }
+  
+  // Fix for text wrapping in menu
+  $(document).ready(function(){
+      $(document.body).css('padding-top', $('#topnavbar').height() - 25);
+      $(window).resize(function(){
+          $(document.body).css('padding-top', $('#topnavbar').height() - 25);
+      });
+  });
+
 </script>
