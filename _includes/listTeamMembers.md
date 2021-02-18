@@ -2,7 +2,7 @@
 
 {% for member in site.data.members %}
 <article class = "team-member">
-  <img src="{{member.picture_path}}" alt="photo of {{member.name}}">
+  <img src="{{member.picture_path}}" alt="{{ site.data.i18n.general.about.photoOf[page.lang] }} {{member.name}}">
   <h3>{{member.name}}</h3>
   {% if member.title %}
     <h4>{{member.title}}</h4>

@@ -23,5 +23,3 @@ Enfin, grâce à de nombreuses activités de consolidation d'équipe, nous avons
 ## L'équipe
 
 {% include listTeamMembers.md %}
-
-</section>
