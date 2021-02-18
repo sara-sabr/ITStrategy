@@ -87,9 +87,6 @@ notices:
   notice:
     en: All work found on this site are ideas and proposals from the IT Strategy team within ESDC. Content here does not represent the official stance of ESDC nor the Government of Canada at large.
     fr: Tous les travaux présentés sur ce site sont des idées et des propositions de l'équipe de la stratégie informatique de EDSC. Le contenu présenté ici ne représente pas la position officielle de EDSC ni celle du gouvernement du Canada en général.
-  feedback:
-    en: We encourage you to send us feedback on <a class="alert-link" href="https://github.com/sara-sabr/ITStrategy/">GitHub</a> through Issues or Pull Requests, or simply by <a class="alert-link" href="mailto:EDSC.DGIIT.StrategieTI-ITStrategy.IITB.ESDC@hrsdc-rhdcc.gc.ca">email</a>. Look here on <a class="alert-link" href="how-to-contribute.html">how to contribute</a>.
-    fr: Nous vous encourageons à nous envoyer de la rétroaction dans <a class="alert-link" href="https://github.com/sara-sabr/ITStrategy/">GitHub</a> par le biais d'Enjeux (Issues) ou de "Pull Requests", ou bien simplement par <a class="alert-link" href="mailto:EDSC.DGIIT.StrategieTI-ITStrategy.IITB.ESDC@hrsdc-rhdcc.gc.ca">courriel</a>. Regardez ici pour savoir <a class="alert-link" href="comment-contribuer.html">comment contribuer</a>.
   printPDF:
     en: Printable version
     fr: Version imprimable

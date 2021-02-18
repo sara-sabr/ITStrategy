@@ -46,6 +46,10 @@ a.skiptocontent:focus, .skiptocontent:active {
   border-radius: .25rem;
 }
 
+body {
+  padding-top: 17.4px;
+}
+
 body>.container {
   padding: 60px 10px 0;
 }
@@ -69,6 +73,12 @@ footer {
 img {
   max-width: 100%;
   height: auto;
+}
+  
+/* Fix anchor scrolling */
+h1, h2, h3, h4, h5, h6 {
+  padding-top: 66px;
+  margin-top: -66px;
 }
 
 /*============= RESETS =============*/
