@@ -28,7 +28,7 @@ However, if you're in a position where you need to quickly make a business case 
 That is what I will try to do here.
 Make a succinct argument using some simple math to demonstrate the value of continuous improvement.
 
-### TLDR
+## TLDR
 
 The TLDR of this article is that 'continuous', in more formal terms, means compounding.
 Or, depending on your preferred jargon, exponential.

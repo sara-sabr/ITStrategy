@@ -10,8 +10,8 @@
     - col:
       data:
         list: false
-        fr: Résultat
-        en: Outcome
+        fr: Catégorie de politique
+        en: Policy Category
     - col:
       data:
         list: false

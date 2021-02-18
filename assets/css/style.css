@@ -40,6 +40,10 @@ a.skiptocontent:focus, .skiptocontent:active {
   border-radius: .25rem;
 }
 
+body {
+  padding-top: 17.4px;
+}
+
 body>.container {
   padding: 60px 10px 0;
 }
@@ -97,6 +101,18 @@ body {
 footer {
   margin-bottom: 1em;
 }
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+  
+/* Fix anchor scrolling */
+h1, h2, h3, h4, h5, h6 {
+  padding-top: 66px;
+  margin-top: -66px;
+}
+
 /*============= RESETS =============*/
 
 /*-- iPhone X Remove Gutters --*/
@@ -510,6 +526,15 @@ h3.heading {
     padding: .4rem .9rem;
     font-size: .9rem;
   }
+
+  .site-title {
+    font-size: 2rem;
+  }
+
+  .site-subtitle {
+    font-size: 1rem;
+  }
+
 }
 
 /* ----------------------------------------------

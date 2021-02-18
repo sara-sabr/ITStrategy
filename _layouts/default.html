@@ -7,26 +7,26 @@
 
     {% include header.html %}
 
-    <main role="main" class="container">
+    <div class="container">
+    <main class="container">
       <section class="jumbotron d-print-none">
         <p class="site-title">{{ site.data.i18n.general.head.title[page.lang] }}</p>
         <p class="site-subtitle">{{ site.data.i18n.general.head.subtitle[page.lang] }}</p>
       </section>
       <article id="maincontent">
-      {% if page.layout == "default" %}
-      {% unless page.ref == "home" %}
+      {%- if page.layout == "default" -%}
+      {%- unless page.ref == "home" -%}
         <h1>{{ page.title }}</h1>
-        <div class= "version">{% include versioning.md %}</div>
-      {% endunless %}
-      {% endif %}
+        {% include versioning.md %}
+      {%- endunless -%}
+      {%- endif -%}
       
       {{ content }}
       </article>
-      {% include notice.html %}
     </main>
     
-    {% include lang-select.html %}
     {% include footer.html %}
+    </div>
 
   </body>
 

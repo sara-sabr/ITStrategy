@@ -3,8 +3,8 @@ layout: default
 title: Micro-Acquisition Pilot
 ref: Micro-acquisition
 lang: en
-status: posted
-sections: Work In Progress
+status: In Progress;primary
+sections: Pilots
 permalink: /micro-acquisition-pilot.html
 ---
 
@@ -30,7 +30,7 @@ Run a one-year experimental pilot for purchases of $10K or less for custom code 
 
 ## Expected Results  
 
-- Increased participation and access to developers who wouldn’t normally bid on GC IT contracts
+- Increased participation and access to developers who wouldn't normally bid on GC IT contracts
 - Increased working in the open by ESDC
 - Reduced workload burden on ESDC procurement officers by allowing them to focus on more complex procurements
 - Increased ESDC capabilities around agile, including breaking work up into smaller chunks which drive high software delivery and organizational performance
@@ -40,4 +40,5 @@ Run a one-year experimental pilot for purchases of $10K or less for custom code 
 
 - [Presentation]({{ site.baseurl }}/presentation.html?markdown=en/2020-Micro-Acquisition-Pilot.md)
 - Business case *to come*
-- [Blog post](2020/08/12/better-tech-through-microprocurement-p1.html)
+- Blog post ["Micro-Acquisition Pilot: Status Update 1"](https://sara-sabr.github.io/ITStrategy/2021/01/05/micro-acquisition-pilot-update1.html)
+- Blog post "Better tech through micro-procurement" [Part one](2020/08/12/better-tech-through-microprocurement-p1.html) and [Part two](https://sara-sabr.github.io/ITStrategy/2020/12/18/better-tech-through-micro-procurementpt2.html)

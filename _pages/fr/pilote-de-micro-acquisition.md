@@ -3,8 +3,8 @@ layout: default
 title: Pilote de micro-acquisition
 ref: Micro-acquisition
 lang: fr
-status: posted
-sections: Travail en cours
+status: Travaux en cours;primary
+sections: Pilotes
 permalink: /pilote-de-micro-acquisition.html
 ---
 
@@ -40,4 +40,5 @@ Mener un projet pilote expérimental d'un an pour des achats de 10 000 dollars o
 
 - [Présentation]({{ site.baseurl }}/presentation.html?markdown=en/2020-Micro-Acquisition-Pilot.md) [en anglais]
 - Analyse de rentabilisation [à venir]
-- [Billet de blogue](2020/08/12/meilleure-technologie-grace-au-micro-approvisionnement-partie-1.html)
+- Billet de blogue [<< Pilote de micro-acquisition : mise à jour du statut 1 >>](https://sara-sabr.github.io/ITStrategy/2021/01/05/pilote-de-micro-acquisition-mise-a-jour1.html)
+- Billet de blog << Meilleure technologie grâce au micro-approvisionnement >> [première partie](2020/08/12/meilleure-technologie-grace-au-micro-approvisionnement-partie-1.html) et [deuxième partie](https://sara-sabr.github.io/ITStrategy/2020/12/18/meilleure-technologie-grace-au-micro-approvisionnement-partie-2.html)
