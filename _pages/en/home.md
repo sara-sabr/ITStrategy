@@ -14,7 +14,7 @@ Our work is guided by understanding user needs, behaviours, pain points, and bui
 
 On our website we formulate **[strategies](strategies.md)** and design **[initiatives](initiatives.md)**.
 They will be reviewed and updated at least quarterly based on progress and effectiveness.
-Before you review our work you might want to see **[team's mission](mandate.md)**; where we go as a team and what is our goals.
+Before you review our work you might want to see **[our team's mandate](mandate.md)**, where you can learn about our mission, vision and the principles that guide our work.
 We set specific and challenging goals that leads us to higher performance to  be effective and work towards the same outcome.
 
 The content you will find on our website should be considered work in progress: there are no guarantees that the ideas and  proposals we are developing here in the open will be adopted by ESDC.
