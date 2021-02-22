@@ -83,6 +83,14 @@ blogs:
     en: Translated on
     fr: Traduit le
 
+about:
+  interests:
+    en: Interests
+    fr: Intérêts
+  photoOf:
+    en: Photo of
+    fr: Photo de
+
 notices:
   notice:
     en: All work found on this site are ideas and proposals from the IT Strategy team within ESDC. Content here does not represent the official stance of ESDC nor the Government of Canada at large.
