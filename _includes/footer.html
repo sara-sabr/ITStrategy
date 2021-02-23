@@ -1,10 +1,11 @@
 {%- assign pages=site.pages | where:"ref", "archives" | sort: 'lang' -%}
 {%- for my_page in pages -%}
-  {% if my_page.lang == page.lang %}
-    <div class="container text-right">
-      <a class="text-muted" target="_blank" href="https://github.com/sara-sabr/ITStrategy/tree/master/{{ page.path }}">{{ site.data.i18n.general.footer.viewOnGithub[page.lang] }}</a>
-    </div>
-  {%- endif -%}
+{% if my_page.lang == page.lang %}
+<div class="container text-right">
+  <a class="text-muted" target="_blank"
+    href="https://github.com/sara-sabr/ITStrategy/tree/master/{{ page.path }}">{{ site.data.i18n.general.footer.viewOnGithub[page.lang] }}</a>
+</div>
+{%- endif -%}
 {%- endfor -%}
 
 <footer class="pt-4 my-md-5 pt-md-5 border-top">
@@ -13,28 +14,32 @@
 
       {%- assign pages=site.pages | where:"ref", "contact-us" | sort: 'lang' -%}
       {%- for my_page in pages -%}
-        {% if my_page.lang == page.lang %}
-          <li class="list-inline-item">
-            <a class="text-muted" href="{{ my_page.url | prepend: site.baseurl }}">{{ site.data.i18n.general.nav.pagesContact[my_page.lang] }}</a>
-          </li>
-        {%- endif -%}
+      {% if my_page.lang == page.lang %}
+      <li class="list-inline-item">
+        <a class="text-muted"
+          href="{{ my_page.url | prepend: site.baseurl }}">{{ site.data.i18n.general.nav.pagesContact[my_page.lang] }}</a>
+      </li>
+      {%- endif -%}
       {%- endfor -%}
 
       {%- assign pages=site.pages | where:"ref", "archives" | sort: 'lang' -%}
       {%- for my_page in pages -%}
-        {% if my_page.lang == page.lang %}
-          <li class="list-inline-item">
-            <a class="text-muted" href="{{ my_page.url | prepend: site.baseurl }}">{{ site.data.i18n.general.nav.pagesArchive[my_page.lang] }}</a>
-          </li>
-        {%- endif -%}
+      {% if my_page.lang == page.lang %}
+      <li class="list-inline-item">
+        <a class="text-muted"
+          href="{{ my_page.url | prepend: site.baseurl }}">{{ site.data.i18n.general.nav.pagesArchive[my_page.lang] }}</a>
+      </li>
+      {%- endif -%}
       {%- endfor -%}
 
       <li class="list-inline-item">
-        <a class="text-muted" target="_blank" href="https://014gc.sharepoint.com/sites/IITBStrategy">{{ site.data.i18n.general.nav.sharepointSite[page.lang] }}</a>
+        <a class="text-muted" target="_blank"
+          href="https://014gc.sharepoint.com/sites/IITBStrategy">{{ site.data.i18n.general.nav.sharepointSite[page.lang] }}</a>
       </li>
 
       <li class="list-inline-item">
-        <a class="text-muted" target="_blank" href="http://esdc.prv/{{ page.lang }}/index.shtml">{{ site.data.i18n.general.nav.esdcIntranet[page.lang] }}</a>
+        <a class="text-muted" target="_blank"
+          href="http://esdc.prv/{{ page.lang }}/index.shtml">{{ site.data.i18n.general.nav.esdcIntranet[page.lang] }}</a>
       </li>
 
     </ul>
@@ -62,7 +67,7 @@
   integrity="sha256-hJ44ymhBmRPJKIaKRf3DSX5uiFEZ9xB/qx8cNbJvIMU=" crossorigin="anonymous"></script>
 
 {%- if page.datatable-ids.size > 0 -%}
- <script src="assets/js/datatable.js"></script>
+<script src="assets/js/datatable.js"></script>
 {%- endif -%}
 
 <script>
@@ -70,18 +75,28 @@
   $("blockquote").addClass("blockquote");
   hljs.initHighlightingOnLoad();
 
+
   var divs = $("div div.highlight");
   var i;
   for (i = 0; i < divs.length; i++) {
     divs[i].setAttribute("tabindex", "0");
   }
-  
-  // Fix for text wrapping in menu
-  $(document).ready(function(){
-      $(document.body).css('padding-top', $('#topnavbar').height() - 25);
-      $(window).resize(function(){
-          $(document.body).css('padding-top', $('#topnavbar').height() - 25);
-      });
+
+  const cards = document.querySelectorAll('.card');
+  cards.forEach(card => {
+    
+    card.addEventListener("click", e => {
+      let location = card.querySelector('.post-link').getAttribute("href");
+      open(location, "_self");
+    });
   });
 
+  // Fix for text wrapping in menu
+  $(document).ready(function () {
+    $(document.body).css('padding-top', $('#topnavbar').height() - 25);
+    $(window).resize(function () {
+      $(document.body).css('padding-top', $('#topnavbar').height() - 25);
+    });
+
+  });
 </script>
