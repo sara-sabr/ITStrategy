@@ -1,19 +1,19 @@
 {%- assign aPost = site.posts | where:"lang", page.lang -%}
 {% if aPost.size > 0%}
 
-### {{ site.data.i18n.general.nav.blogPosts[page.lang] }}
-
-  <ul class="post-list">
+<div class="card-deck">
     {% for post in aPost %}
-      <li>
-        <strong>
+  <div class="card" style="min-width: 20rem; margin-bottom: 15px;">
+      <div class="card-body">
+        <div class="card-title">
           <a class="post-link" href="{{ post.url | prepend: site.baseurl}}">{{ post.title }}</a>
-        </strong>
-        <br>{{ post.date | date: "%Y-%m-%d"}}
-        <p>
+        </div>
+        <div class="card-text">
         {{ post.excerpt | strip_html}}
-        </p>
-      </li>
+        </div>
+      </div>
+        <div class="card-footer">{{ post.date | date: "%Y-%m-%d"}}</div>
+  </div>
     {% endfor %}
-  </ul>
+</div>
 {% endif %}
