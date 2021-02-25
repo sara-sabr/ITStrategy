@@ -42,6 +42,7 @@ a.skiptocontent:focus, .skiptocontent:active {
 
 body {
   padding-top: 17.4px;
+  text-align:justify;
 }
 
 body>.container {
