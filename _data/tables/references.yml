@@ -413,36 +413,6 @@
         - col:
           data:
             list: false
-            fr: Messagerie instantanée - Un à un (ou plusieurs)
-            en: Instant Messaging - One-to-One (or Many)
-        - col:
-          data:
-            list: false
-            fr: <a href="https://www.whatsapp.com/?lang=fr" target="_blank">WhatsApp</a>
-            en: <a href="https://www.whatsapp.com/?lang=en" target="_blank">WhatsApp</a>
-        - col:
-          data:
-            list: false
-            fr: |
-              Service de messagerie instantanée; supporte la vidéoconférence.
-            en: |
-              Instant messaging service; supports videoconferencing.
-        - col:
-          data:
-            list: false
-            fr: Non
-            en: "No"
-        - col:
-          data:
-            list: false
-            fr: Oui
-            en: "Yes"
-    - row:
-      headers: false
-      cols:
-        - col:
-          data:
-            list: false
             fr: Vidéoconférence
             en: Videoconferencing
         - col:
