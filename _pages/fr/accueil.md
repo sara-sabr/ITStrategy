@@ -6,12 +6,20 @@ lang: fr
 permalink: /accueil.html
 ---
 
-Bienvenue dans notre espace de travail! En fait, il s'agit plutôt du site Web généré automatiquement à partir du contenu sur lequel nous travaillons depuis notre véritable [espace de travail](https://github.com/sara-sabr/ITStrategy)!
+Ce site web est une plateforme de collaboration où nous, stratégie TI d'EDSC, partageons nos plans pour faire entrer la Direction générale de l'innovation, de l'information et de la technologie (DGIIT) et Emploi et développement social Canada (EDSC) dans l'ère numérique.
 
-Selon l'avis qui peut être trouvé un peu partout dans notre site, tout ce que vous trouverez ici doit être considéré comme du travail en cours: il n'y a aucune garantie que les idées, les propositions et même les présentations que nous développons de façon ouverte seront un jour adoptées.
+Ici, nous partageons nos ébauches de stratégies, blogs, progrès, outils, informations et autres ressources pour soutenir la transformation numérique d'EDSC.
+Nous créons de multiples solutions potentielles, examinons la situation sous de multiples angles, exprimons nos opinions et idées professionnelles lors du diagnostic des problèmes.
+Notre travail est guidé par la compréhension des besoins des utilisateurs, de leurs comportements, des difficultés qu'ils rencontrent et par la recherche de solutions pour un segment spécifique d'utilisateurs.
 
-Vous pouvez consulter nos **[documents de travail]({{ site.baseurl }}/documents-et-presentations.html)**.
+Sur notre site web, nous élaborons des **[stratégies](strategies-fr.html)** et concevons des **[initiatives](initiatives-fr.md)**.
+Elles seront revues et mises à jour au moins tous les trimestres en fonction des progrès et de l'efficacité.
+Avant de passer en revue notre travail, vous voudrez peut-être voir la **[mission de l'équipe](mandat.html)** ; où nous allons en tant qu'équipe et quels sont nos objectifs.
+Nous nous fixons des objectifs spécifiques et ambitieux qui nous amènent à des performances plus élevées pour être efficaces et travailler vers le même résultat.
 
-Dans le cadre de notre travail, nous rédigerons également des [billets]({{ site.baseurl }}/nos-billets.html) sur divers thèmes visant à partager notre cheminement au cours de nos recherches, la lecture de livres ou simplement la découverte de sujets qui pourraient intéresser l'ensemble du gouvernement.
+Le contenu que vous trouverez sur notre site web doit être considéré comme du travail en cours : rien ne garantit que les idées et les propositions que nous développons ouvertement ici seront adoptées par EDSC.
+Nous partagerons également les résultats de nos recherches bibliographiques, de nos lectures ou simplement de nos découvertes qui pourraient intéresser l'ensemble du gouvernement.
 
-~ L'équipe Stratégie TI
+Si vous souhaitez proposer de nouveaux sujets ou des ajustements à ceux qui existent déjà, ainsi que de nouvelles sources de référence (par exemple, des articles, des études, des documents officiels), **[contactez nous](contactez-nous.html)** et nous faire part de vos réflexions et idées.
+
+> “Une bonne stratégie est une conception, et la conception consiste à assembler différentes pièces pour qu'elles fonctionnent comme un tout cohérent.” - Richard P. Rumelt
