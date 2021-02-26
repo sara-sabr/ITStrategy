@@ -22,4 +22,5 @@ We will also share findings upon researching literature, reading books or simply
 
 If you would like to suggest new topics or adjustments to existing ones, as well as new reference sources (e.g.,articles, studies, official documents), **[contact us](contact-us.html)** and let us know about your thoughts and ideas.
 
-> “Good strategy is design, and design is about fitting various pieces together so they work as a coherent whole.”<br/>- Richard P. Rumelt
+> “Good strategy is design, and design is about fitting various pieces together so they work as a coherent whole.”\
+\- Richard P. Rumelt

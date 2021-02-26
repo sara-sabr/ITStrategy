@@ -22,4 +22,5 @@ Nous partagerons également les résultats de nos recherches bibliographiques, d
 
 Si vous souhaitez proposer de nouveaux sujets ou des ajustements à ceux qui existent déjà, ainsi que de nouvelles sources de référence (par exemple, des articles, des études, des documents officiels), **[contactez nous](contactez-nous.html)** et nous faire part de vos réflexions et idées.
 
-> “Une bonne stratégie est une conception, et la conception consiste à assembler différentes pièces pour qu'elles fonctionnent comme un tout cohérent.” - Richard P. Rumelt
+> “Une bonne stratégie est une conception, et la conception consiste à assembler différentes pièces pour qu'elles fonctionnent comme un tout cohérent.”\
+\- Richard P. Rumelt
