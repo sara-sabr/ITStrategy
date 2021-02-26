@@ -14,7 +14,7 @@ Notre travail est guidé par la compréhension des besoins des utilisateurs, de 
 
 Sur notre site web, nous élaborons des **[stratégies](strategies-fr.html)** et concevons des **[initiatives](initiatives-fr.md)**.
 Elles seront revues et mises à jour au moins tous les trimestres en fonction des progrès et de l'efficacité.
-Avant de passer en revue notre travail, vous voudrez peut-être voir la **[mission de l'équipe](mandat.html)** ; où nous allons en tant qu'équipe et quels sont nos objectifs.
+Avant d'examiner notre travail, vous voudrez peut-être voir le **[mandat de notre équipe](mandat.html)**, où vous pourrez vous renseigner sur notre mission, notre vision et les principes qui guident notre travail.
 Nous nous fixons des objectifs spécifiques et ambitieux qui nous amènent à des performances plus élevées pour être efficaces et travailler vers le même résultat.
 
 Le contenu que vous trouverez sur notre site web doit être considéré comme du travail en cours : rien ne garantit que les idées et les propositions que nous développons ouvertement ici seront adoptées par EDSC.
