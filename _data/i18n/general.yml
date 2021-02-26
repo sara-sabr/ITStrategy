@@ -82,6 +82,12 @@ blogs:
   translationDate:
     en: Translated on
     fr: Traduit le
+  previous:
+    en: Previous
+    fr: Précédent
+  next:
+    en: Next
+    fr: Prochain
 
 notices:
   notice:
