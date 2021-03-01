@@ -183,16 +183,16 @@ Note:
 
 ## Project schedule/milestones
 
-- **Jan. week 1:** Approvals
-- **Jan. week 3:** Mock-up approved
-- **May week 1:** Development complete
-- **May week 3:** Stakeholders sign off
-- **May 2021 to May 2022:** Pilot in operation
+- **March 2021:** Project approval
+- **April 2021:** Mock-up approved
+- **May 2021:** Development and testing
+- **June 2021 - June 2022:** Pilot in operation
 - **June 2022:** Project closeout
+
 
 Note:
 
-- "development complete" includes not just the development of the technical solution but also the development of the processes, the generic terms and conditions, the user documentation, the audit and monitoring process, communication pieces
+- "development and testing" includes not just the development of the technical solution but also the development of the processes, the generic terms and conditions, the user documentation, the audit and monitoring process, communication pieces
 
 ---
 
@@ -202,7 +202,7 @@ All existing products and/or Approved Tech Bricks
 
 - Stand-alone website to post opportunities
 - Free hosting via GitHub pages
-- Procured code will be shared on open repositories
+- Procured code will be shared on GitHub or Gitlab
 - Actual procurement and payment will be done via existing systems (e.g., SAP)
 
 Note:
