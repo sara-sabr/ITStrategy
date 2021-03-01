@@ -7,13 +7,13 @@
 
 Lite-2020-0119
 
-Initial presentation for approval
+Proposal seeking approval
 
 ---
 
 ## Stakeholders
 
-- **Executive Sponsors:** Mathieu Leprohon (IITB) and Robert MacGillivary (CFOB)
+- **Executive Sponsors:** Martin Mondor (IITB) and Robert MacGillivary (CFOB)
 - **IITB Lead:** Martin Mondor
 - **Proposal Contact:** Rachel Muston
 - **Client Lead:** Matthew Diedrick, Hugo Desgent-Barbe
@@ -24,7 +24,28 @@ Initial presentation for approval
 Note:
 
 - this proposed pilot is being co-sponsored by IITB and CFOB
-- PSPC legal might be required as a stakeholder if we do not use standard clauses in our generic terms and conditions
+
+---
+
+## What is the Micro-Acquisition pilot?
+
+A one-year experimental pilot procurement vehicle for custom code licensed as open source. All work must:
+
+- Have a value of $10K or less
+- Be unclassified
+- Be virtual
+- Be done in an open repository (e.g., GitHub, GitLab)
+
+Note:
+
+- Risk is very low on Low Dollar Value procurements under the sole source threshold. Even more so for those​ under the proactive disclosure threshold of $10K
+- remote work - this goes without saying now because of COVID but the important point to note here is that in addition to physical access, no remote access to ESDC networks is required. Nor is the use for any ESDC devices. This along with the 'unclassified work only' requirement would mean that suppliers would not need to be GC security cleared.
+- only contracts initiated by ESDC
+- Opportunities for micro-acquisitions are widely publicized to suppliers and barriers to entry (such as years of experience, needing to pre-qualify, security clearance) are removed/reduced
+
+- Through a **simplified and expedited** process that **reduces the barriers** that these organizations (including start-ups) and freelancers face, and a **targeted communications strategy** (to diverse businesses such as those that are Black, and Indigenous led), this pilot is **expected to increase access to IT talent that the GC is currently missing out on**
+- Why do we want to do this?  Because strategic procurement of open source code can bring knowledge into IT teams that is not currently there. Suppliers can be contracted to solve problems and when they turn over the open source code, ESDC IT teams will be able to learn from suppliers in almost a train the trainer sort of way. This would enable IITB to build capacity in-house and embed modern tools and practices within IITB teams.
+- Further, contributions to GC open source projects, or open source projects being leveraged by the GC, has the **potential to be leveraged as a recruitment tool** for IITB. (CDS has experienced this with COVID Alert)
 
 ---
 
@@ -37,7 +58,7 @@ Note:
 - Technical skills gaps exist
 
 Note:
-
+- aka what is the problem that we are solving?
 - 95% of SMEs surveyed in 2017 do not see the GC as a buyer. In a recent procurement ombudsman report GC standing offers and supply arrangements are 'cumbersome to use and difficult to qualify for. They also seem to disproportionately favour suppliers in the NCR'. As a result, the GC doesn't get the opportunity to benefit from many of the amazing developer talent that exists in Canada.
 - low dollar value contracts go through the same process as larger, more risky and complex procurements. Although procurement processes at ESDC are becoming streamlined (including initiatives like contract on demand), getting external help for small pieces of ad hoc development work (say to fix a bug or to build a small prototype) still takes weeks. In the world of open source, where the code is freely available to anyone to fix and access immediately, and when IT is moving towards a DevOps/agile way of working (where changes to IT systems can, and should, be made daily), it is necessary to have a procurement process that can move equally as fast. Without fast procurement we hinder our ability to deliver high-quality IT solutions.
 - procurement officers are facing even more capacity issues now during COVID. In their Procurement in 2020 and Beyond report, Gartner recommends 5 shifts regarding digital procurement. One of these involves shifting the ownership for low and mid-tier purchases away from corporate procurement teams so that they can focus primarily on strategic, high value, high-risk purchases.
@@ -46,30 +67,6 @@ Note:
 
 - but what about existing procurement vehicles?  Yep....ProServices is a great supply arrangement from PSPC but getting on the pre-approved list of suppliers takes time (often 6 months) and has requirements that create barriers to those who are newly working in the field of IT or in the gig economy.
 - Capacity on Demand contracts are an excellent procurement innovation that once set up allows procurement to happen in weeks, however, the contracts are established with a single company which often means freelancers and start-ups are less likely to bid.
-
----
-
-## Proposed solution
-
-Run a one-year experimental pilot
-
-- Purchases of $10K or less
-- Custom code licensed as open source
-- Unclassified work only
-- Work that can be done remotely
-- All work is done in an open repository (e.g., GitHub, GitLab)
-- ESDC only (at this time)
-
-Note:
-
-- Risk is very low on Low Dollar Value procurements under the sole source threshold. Even more so for those​ under the proactive disclosure threshold of $10K
-- remote work - this goes without saying now because of COVID but the important point to note here is that in addition to physical access, no remote access to ESDC networks is required. Nor is the use for any ESDC devices. This along with the 'unclassified work only' requirement would mean that suppliers would not need to be GC security cleared.
-- only contracts initiated by ESDC
-- Opportunities for micro-acquisitions are widely publicized to suppliers and barriers to entry (such as years of experience, needing to pre-qualify, security clearance) are removed/reduced
-
-- Through a **simplified and expedited** process that **reduces the barriers** that these organizations (including start-ups) and freelancers face, and a **targeted communications strategy** (to diverse businesses such as those that are Black, and Indigenous led), this pilot is **expected to increase access to IT talent that the GC is currently missing out on**
-- Why do we want to do this?  Because strategic procurement of open source code can bring knowledge into IT teams that is not currently there. Suppliers can be contracted to solve problems and when they turn over the open source code, ESDC IT teams will be able to learn from suppliers in almost a train the trainer sort of way. This would enable IITB to build capacity in-house and embed modern tools and practices within IITB teams.
-- Further, contributions to GC open source projects, or open source projects being leveraged by the GC, has the **potential to be leveraged as a recruitment tool** for IITB. (CDS has experienced this with COVID Alert)
 
 ---
 
@@ -91,7 +88,7 @@ Note:
 
 ---
 
-## Expected Results
+## Expected Benefits
 
 - Increased participation and access to developers who wouldn’t normally bid on GC IT contracts
 - Increased working in the open by ESDC
@@ -111,27 +108,52 @@ Note:
 <table>
  <tr>
    <th>Fiscal Year</th>
-   <th>IITB Salary*</th>
-   <th>CFOB Salary*</th>
-   <th>Total Salary</th>
-   <th>Non-Salary</th>
+   <th>CS-02</th>
+   <th>CS-03</th>
+   <th>CS-04</th>
+   <th>PG-03</th>
+   <th>PG-05</th>
+   <th>EX-01</th>
+   <th>Total Sal</th>
+   <th>Total Non-Sal</th>
    <th>Total</th>
  </tr>
  <tr>
    <td>2020-21</td>
-   <td>$81K</td>
-   <td>$15K</td>
-   <td>$96K</td>
-   <td>$0.015K</td>
-   <td>$96K</td>
+   <td> -- </td>
+   <td>$10,768</td>
+   <td>$2,178</td>
+   <td>$476</td>
+   <td>$1,306</td>
+   <td>$799</td>
+   <td>$15,527</td>
+   <td>$58</td>
+   <td>$15,585</td>
+
  </tr>
  <tr>
    <td>2021-22</td>
-   <td>$147K</td>
-   <td>$3K</td>
-   <td>$150K</td>
-   <td>$50K</td>
-   <td>$200K</td>
+   <td>$35444</td>
+   <td>$141249</td>
+   <td>$21787</td>
+   <td>$2898</td>
+   <td>$9940</td>
+   <td> -- </td>
+   <td>$211,319</td>
+   <td>$57,064 </td>
+   <td>$268,383 </td>
+ </tr>
+   <tr>
+   <td>2022-23</td>
+   <td>$11,638</td>
+   <td>$33,571</td>
+   <td>$4,357</td>
+   <td>--</td>
+   <td>$1,326</td>
+   <td>$50,893</td>
+   <td>--</td>
+   <td>$50,893</td>
+
  </tr>
  <tr>
    <td>Total</td>
@@ -139,11 +161,18 @@ Note:
    <td></td>
    <td></td>
    <td></td>
-  <td>$296K</td>
+   <td></td>
+   <td></td>
+   <td></td>
+   <td>$334,861</td>
  </tr>
 </table>
 
-<*> Existing resources. No new salary costs.
+Notes: 
+- Salary is all existing resources. 
+- Does not include corporate costs from the CW
+- Link to Cost workbook
+
 
 Note:
 
