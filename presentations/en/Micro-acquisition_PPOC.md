@@ -1,7 +1,4 @@
-<!--markdownlint-disable MD001 MD033 MD026 MD036 -->
-<style>
-.reveal section img { background:none; border:none; box-shadow:none; }
-</style>
+<!--markdownlint-disable MD033 -->
 
 # Micro-Acquisition pilot
 
@@ -19,7 +16,7 @@ Proposal seeking approval
 - **Client Lead:** Matthew Diedrick, Hugo Desgent-Barbe
 - **BRM Contact:** Amos Lee
 - **EA Contact:** Erin Rowlinson
-- **Others:** Suppliers, ESDC clients, Office of Small and Medium Enterprise (PSPC), ESDC/PSPC Legal
+- **Others:** IITB Finance, Suppliers, ESDC clients, Office of Small and Medium Enterprise (PSPC)
 
 Note:
 
@@ -49,16 +46,19 @@ Note:
 
 ---
 
-## Why look at an alternate way to procure digital work?
+## Expected Benefits
 
-- Barriers to suppliers means reduced access to talent
-- Lots of time spent formalizing low dollar value contracts
-- Procurement officers face capacity issues
-- Sharing and reusing code is not the norm
-- Technical skills gaps exist
+- Increased participation and access to developers who wouldn’t normally bid on GC IT contracts
+- Increased working in the open by ESDC
+- Reduced workload burden on ESDC procurement officers
+- Increased ESDC capabilities around agile, including breaking work up into smaller chunks
+- Increased speed of payment of suppliers
 
 Note:
-- aka what is the problem that we are solving?
+
+- work on these notes (put them in order according to the benefit)
+- reduced burden on procurement officers means they can focus on high risk, complex procurements
+- breaking work out into smaller work packages enables same-day delivery and drives high organizational performance
 - 95% of SMEs surveyed in 2017 do not see the GC as a buyer. In a recent procurement ombudsman report GC standing offers and supply arrangements are 'cumbersome to use and difficult to qualify for. They also seem to disproportionately favour suppliers in the NCR'. As a result, the GC doesn't get the opportunity to benefit from many of the amazing developer talent that exists in Canada.
 - low dollar value contracts go through the same process as larger, more risky and complex procurements. Although procurement processes at ESDC are becoming streamlined (including initiatives like contract on demand), getting external help for small pieces of ad hoc development work (say to fix a bug or to build a small prototype) still takes weeks. In the world of open source, where the code is freely available to anyone to fix and access immediately, and when IT is moving towards a DevOps/agile way of working (where changes to IT systems can, and should, be made daily), it is necessary to have a procurement process that can move equally as fast. Without fast procurement we hinder our ability to deliver high-quality IT solutions.
 - procurement officers are facing even more capacity issues now during COVID. In their Procurement in 2020 and Beyond report, Gartner recommends 5 shifts regarding digital procurement. One of these involves shifting the ownership for low and mid-tier purchases away from corporate procurement teams so that they can focus primarily on strategic, high value, high-risk purchases.
@@ -88,24 +88,9 @@ Note:
 
 ---
 
-## Expected Benefits
-
-- Increased participation and access to developers who wouldn’t normally bid on GC IT contracts
-- Increased working in the open by ESDC
-- Reduced workload burden on ESDC procurement officers
-- Increased ESDC capabilities around agile, including breaking work up into smaller chunks
-- Increased speed of payment of suppliers
-
-Note:
-
-- reduced burden on procurement officers means they can focus on high risk, complex procurements
-- breaking work out into smaller work packages enables same-day delivery and drives high organizational performance
-
----
-
 ## Forecasted costs
 
-<table>
+<table style="font-size: 20px;">
  <tr>
    <th>Fiscal Year</th>
    <th>CS-02</th>
@@ -150,7 +135,8 @@ Note:
    <td>$4,357</td>
    <td>--</td>
    <td>$1,326</td>
-   <td>$50,893</td>
+   <td>--</td>
+   <td>--</td>
    <td>--</td>
    <td>$50,893</td>
 
@@ -164,20 +150,16 @@ Note:
    <td></td>
    <td></td>
    <td></td>
+   <td></td>
    <td>$334,861</td>
  </tr>
 </table>
 
-Notes: 
-- Salary is all existing resources. 
-- Does not include corporate costs from the CW
-- Link to Cost workbook
+<p style="font-size: 12px;">Notes:</p>
 
-
-Note:
-
-- Salary costs are direct costs only and the non-salary costs are the direct non-salary costs.  Not included in this table are the indirect non-salary costs from the costing worksheet (e.g. EBP and other indirect costs)
-- only new funding being sought is the $50K for 2021-22 to be used by SABR to complete micro-procurements and also to provide a float to pay suppliers where a budget transfer is required.
+- Salary = existing staff
+- Indirect costs included, corporate costs not included
+- New funding being sought for domain name and seed funding (non-IITB clients)
 
 ---
 
@@ -187,8 +169,7 @@ Note:
 - **April 2021:** Mock-up approved
 - **May 2021:** Development and testing
 - **June 2021 - June 2022:** Pilot in operation
-- **June 2022:** Project closeout
-
+- **June 2022:** Project close-out
 
 Note:
 
@@ -219,7 +200,7 @@ Note:
 1. Simplified procurement processes -  
     e.g., Payment via credit card/PayPal
 2. Procurement guardrails (e.g., contract splitting)
-3. Develop generic terms and conditions
+3. One page generic terms and conditions
 
 Note: we are really glad to be partnering with CFOB on this.
 
@@ -228,9 +209,9 @@ Note: we are really glad to be partnering with CFOB on this.
 ## Minimizing Risk
 
 - Partnership with CFOB
-- Automated security code checking
+- Quality Assurance on procured code
 - Taking lessons learned from others who have done micro-procurement
-- Tabletop exercise
+- Tabletop exercise with stakeholders using personas and scenarios
 - Using standard safeguards against outsourcing
 
 Note:
