@@ -155,11 +155,14 @@ Note:
  </tr>
 </table>
 
-<p style="font-size: 12px;">Notes:</p>
-
-- Salary = existing staff
-- Indirect costs included, corporate costs not included
-- New funding being sought for domain name and seed funding (non-IITB clients)
+<div style="font-size: 25px;">
+<p>Notes:</p>
+<ul>
+  <li>Salary = existing staff</li>
+  <li>Indirect costs included, corporate costs not included</li>
+  <li>New funding being sought for domain name and seed funding (non-IITB clients)</li>
+</ul>
+</div>
 
 ---
 
