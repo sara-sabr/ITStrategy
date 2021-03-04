@@ -35,10 +35,10 @@ A one-year experimental pilot procurement vehicle for custom code licensed as op
 
 Note:
 
-- Risk is very low on Low Dollar Value procurements under the sole source threshold. Even more so for those​ under the proactive disclosure threshold of $10K
+- Why $10K or less?  Risk is very low on Low Dollar Value procurements under the sole source threshold. Even more so for those​ under the proactive disclosure threshold of $10K
+- Opportunities for micro-acquisitions will reduce barriers for suppliers (e.g. security clearance is not required if the work is all unclassified)
 - remote work - this goes without saying now because of COVID but the important point to note here is that in addition to physical access, no remote access to ESDC networks is required. Nor is the use for any ESDC devices. This along with the 'unclassified work only' requirement would mean that suppliers would not need to be GC security cleared.
-- only contracts initiated by ESDC
-- Opportunities for micro-acquisitions are widely publicized to suppliers and barriers to entry (such as years of experience, needing to pre-qualify, security clearance) are removed/reduced
+- work is done openly so that all work is available for re-use
 
 - Through a **simplified and expedited** process that **reduces the barriers** that these organizations (including start-ups) and freelancers face, and a **targeted communications strategy** (to diverse businesses such as those that are Black, and Indigenous led), this pilot is **expected to increase access to IT talent that the GC is currently missing out on**
 - Why do we want to do this?  Because strategic procurement of open source code can bring knowledge into IT teams that is not currently there. Suppliers can be contracted to solve problems and when they turn over the open source code, ESDC IT teams will be able to learn from suppliers in almost a train the trainer sort of way. This would enable IITB to build capacity in-house and embed modern tools and practices within IITB teams.
@@ -56,14 +56,11 @@ Note:
 
 Note:
 
-- work on these notes (put them in order according to the benefit)
-- reduced burden on procurement officers means they can focus on high risk, complex procurements
-- breaking work out into smaller work packages enables same-day delivery and drives high organizational performance
 - 95% of SMEs surveyed in 2017 do not see the GC as a buyer. In a recent procurement ombudsman report GC standing offers and supply arrangements are 'cumbersome to use and difficult to qualify for. They also seem to disproportionately favour suppliers in the NCR'. As a result, the GC doesn't get the opportunity to benefit from many of the amazing developer talent that exists in Canada.
-- low dollar value contracts go through the same process as larger, more risky and complex procurements. Although procurement processes at ESDC are becoming streamlined (including initiatives like contract on demand), getting external help for small pieces of ad hoc development work (say to fix a bug or to build a small prototype) still takes weeks. In the world of open source, where the code is freely available to anyone to fix and access immediately, and when IT is moving towards a DevOps/agile way of working (where changes to IT systems can, and should, be made daily), it is necessary to have a procurement process that can move equally as fast. Without fast procurement we hinder our ability to deliver high-quality IT solutions.
+- We think that having a procurement vehicle that nudges folks towards working in the open open will help us move towards alignment with the digital standards. Often when custom code is procured, the government gains the rights to do what it wants with it, however typically code is not shared within ESDC or with other departments.
 - procurement officers are facing even more capacity issues now during COVID. In their Procurement in 2020 and Beyond report, Gartner recommends 5 shifts regarding digital procurement. One of these involves shifting the ownership for low and mid-tier purchases away from corporate procurement teams so that they can focus primarily on strategic, high value, high-risk purchases.
-- Does the way we procure impact the sharing of digital work? Even though a lot of custom code is procured with the IP transferring to the GC (yes?). Code is not often shared within a department or with other departments.
-- Eg. a team that wants to automate their work but doesn't know scripting
+- breaking work out into smaller work packages enables same-day delivery and drives high organizational performance
+- 30 days to pay is a barrier that prevents a lot of small suppliers from participating on GC contracts. We think that faster payment will encourage those who wouldn't normally to apply and in doing so will allow the GC to access a broader range of talent.
 
 - but what about existing procurement vehicles?  Yep....ProServices is a great supply arrangement from PSPC but getting on the pre-approved list of suppliers takes time (often 6 months) and has requirements that create barriers to those who are newly working in the field of IT or in the gig economy.
 - Capacity on Demand contracts are an excellent procurement innovation that once set up allows procurement to happen in weeks, however, the contracts are established with a single company which often means freelancers and start-ups are less likely to bid.
@@ -73,6 +70,7 @@ Note:
 ## Alignment
 
 - ESDC Mandate
+- Digital Standards
 - Digital Operations Strategic Plan
 - Digital Nations Charter commitment
 - Directive on Service and Digital
@@ -81,9 +79,10 @@ Note:
 Note:
 
 - there is strong alignment to policy and mandate for this experimental pilot ESDC's mandate of "works to improve the standard of living and quality of life for all Canadians. We do this by promoting a labour force that is highly skilled. We also promote an efficient and inclusive labour market." It makes ESDC a good fit to lead this initiative. Especially during COVID when many are facing unemployment and underemployment.
+- GC Digital Standards - Work in the open and use open standards and solutions. Work in the open = Make all new code developed in delivery of services open to the outside world for sharing and reuse under an open license
 - Digital Operations Strategic Plan – which speaks to the need for Procurement Modernization for IT specifically, Agility, and Open Source​
 - Digital Nations Charter commitment (formerly D9) – Open Standards, Open Source, Open Markets, Open Government, and which Canada is a signatory
-- Directive on Service and Digital – Open First​
+- Directive on Service and Digital – This directive includes mandatory procedures for EA assessment. These procedures include: "Where possible, use open standards and open source software first" and "If a custom-built application is the appropriate option, by default any source code written by the government must be released in an open format via Government of Canada websites and  services designated by the Treasury Board of Canada Secretariat" and "All source code must be released under an appropriate open source software license"
 - ESDC Investment plan (2017-18 to 2022-23) – Emphasizes the use of OSS​
 
 ---
@@ -160,7 +159,7 @@ Note:
 <ul>
   <li>Salary = existing staff</li>
   <li>Indirect costs included, corporate costs not included</li>
-  <li>New funding being sought for domain name and seed funding (non-IITB clients)</li>
+  <li>New non-sal budget being sought for domain name and seed funding</li>
 </ul>
 </div>
 
@@ -176,7 +175,7 @@ Note:
 
 Note:
 
-- "development and testing" includes not just the development of the technical solution but also the development of the processes, the generic terms and conditions, the user documentation, the audit and monitoring process, communication pieces
+- "development and testing" includes the development of the technical solution but also the development of the processes, the generic terms and conditions, the user documentation, the audit and monitoring process, and communication pieces
 
 ---
 
@@ -192,9 +191,8 @@ All existing products and/or Approved Tech Bricks
 Note:
 
 - Stand alone website to be accessible by the general public
-- Admin for the site (including the loading of opportunities will be done by the IT Strategy Team)
+- Build and Admin for the site to be done by the IT Strategy Team
 - All opportunities will be reviewed by both IT Strategy and initially CFOB to ensure rules are met
-- "open repositories" e.g. GitHub, GitLab
 
 ---
 
@@ -204,8 +202,6 @@ Note:
     e.g., Payment via credit card/PayPal
 2. Procurement guardrails (e.g., contract splitting)
 3. One page generic terms and conditions
-
-Note: we are really glad to be partnering with CFOB on this.
 
 ---
 
@@ -219,17 +215,11 @@ Note: we are really glad to be partnering with CFOB on this.
 
 Note:
 
-- to help us navigate through procurement rules and legal considerations - contract splitting training, monitoring and auditing, legal terms and conditions (including IP)
-- passing the security code check will be built into the acceptance criteria. You don't pass, you don't get paid.
+- to help us navigate through procurement rules and legal considerations - contract splitting (using a combo of education and audit), monitoring and auditing. With CFOB (their IP CoE) we are developing a one page terms and conditions document to cover IP concerns.
+- There will be QA of code that is submitted. If delivered code doesn't pass the documented acceptance criteria, suppliers will not be paid. Security screening will we one of the QA elements. Various options to look at including automated tools (e.g. for code on GitHub, they have a code scanning feature). We've talked to CDS about this as they also only use open source code.... "we had Semmle's previous offering "LGTM" as a requirement for all CDS OS projects, and so will transition it all over to this (code scanning)".  We are working with Solutions Architecture to think through standard acceptance criteria and guidance to ensure code meets quality standards as set out in gc directives and policies. We also have the opportunity through this procurement pilot to link up and promote things like Test Driven Development and DevOps.
 - Industry (bug bounty), US, BC, GCDevEx
-- run through scenarios using personas to test processes, roles/responsibilities, and to refine artefacts.
-- standard checklist saying that 'this is a stand-alone piece of work, no internal capacity exists'
-
-- Will be working with CFOB to mitigate the risk of contract splitting (likely through a combo of education, and audit
-- IP and Copyright around GC procurement of open source code is a relatively new area so we are working with the IP CoE within CFOB and lawyers at ISED who work on IP policy. But the general direction we are going in is that the supplier holds the IP but that they licence the work as open source so that the GC (and anyone) can re-use it.
-- There will be QA of code that is submitted.  Passing security screening will be one of the acceptance criteria (need to pass in order to get paid). Various options to look at including automated tools (e.g. for code on GitHub, they have a code scanning feature). We've talked to CDS about this as they also only use open source code.... "we had Semmle's previous offering "LGTM" as a requirement for all CDS OS projects, and so will transition it all over to this (code scanning)".  
-- Re: unions... we firmly believe that this is not about increasing outsourcing.  The micro-procurements are intended to supplement the work of employees in short bursts where capacity (from time, knowledge, etc.) issues exist. Once these barriers have been removed, employees can progress with their work.
-- We are also working with CFOB on this.  One suggestion so far has been that any micro-procurement contract would include similar questions that must be answered during any procurement (e.g., confirm that capacity does not exist in-house).  It has been suggested that we go the National Union Management Committee to be completely transparent about this pilot and we are looking into this.
+- tabletop exercise is important to ensure that we haven't inadvertently put up barriers to suppliers or clients
+- safeguards around outsourcing relates to concerns we might see from the Unions. We firmly believe that this is not about increasing outsourcing.  The micro-procurements are intended to supplement the work of employees in short bursts where capacity (from time, knowledge, etc.) issues exist. Once these barriers have been removed, employees can progress with their work. CFOB has advised that there is standard language that is often used in contracting to ease concerns about outsourcing (e.g., confirm that 'this is a standalone piece of work and no internal capacity exists).
 
 ---
 
