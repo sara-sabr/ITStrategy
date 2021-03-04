@@ -24,6 +24,7 @@ Note:
 
 ---
 
+<!-- markdownlint-disable MD026 -->
 ## What is the Micro-Acquisition pilot?
 
 A one-year experimental pilot procurement vehicle for custom code licensed as open source. All work must:
