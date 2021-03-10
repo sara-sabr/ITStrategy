@@ -1,0 +1,703 @@
+/*============= GENERAL =============*/
+/*Source: https://accessibility.oit.ncsu.edu/it-accessibility-at-nc-state/developers/accessibility-handbook/mouse-and-keyboard-events/skip-to-main-content/*/
+
+a.skiptocontent {
+    left:-999px;
+    position:absolute;
+    top:auto;
+    width:1px;
+    height:1px;
+    overflow:hidden;
+    z-index:-999;
+}
+
+a.skiptocontent:focus, .skiptocontent:active {
+    color: #fff;
+    background-color:#000;
+    left: auto;
+    top: auto;
+    width: 30%;
+    height: auto;
+    overflow:auto;
+    margin: 10px 35%;
+    padding:5px;
+    border-radius: 15px;
+    border:4px solid yellow;
+    text-align:center;
+    font-size:1.2em;
+    z-index:1040;
+}
+
+.jumbotron {
+  padding: .5rem;
+  margin-bottom: 1rem;
+  border-radius: 0;
+}
+
+.blockquote {
+  background-color: #e9ecef;
+  padding: .75rem 1.25rem;
+  border-radius: .25rem;
+}
+
+body {
+  padding-top: 17.4px;
+}
+
+body>.container {
+  padding: 60px 10px 0;
+}
+
+body {
+  font-size: 1.12rem;
+}
+
+.h1, h1 {
+  font-size: 2.62rem;
+}
+
+.h2, h2 {
+  font-size: 2.37rem;
+}
+
+.h3, h3 {
+  font-size: 1.56rem;
+}
+
+.h4, h4 {
+  font-size: 1.25rem;
+}
+
+.version, .author {
+  font-size: 1rem;
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+#maincontent h1, #maincontent h2, #maincontent h3, #maincontent h4, #maincontent h5, #maincontent p, #maincontent blockquote, #maincontent .alert, #maincontent img, #maincontent dl, #maincontent ol, #maincontent ul, #maincontent details, #maincontent code, #maincontent .version, #maincontent .author {
+  max-width: 615px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.table {
+  width: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.site-title {
+  font-size: 3rem;
+  font-weight: 300;
+  line-height: 1.2;
+  margin-bottom: 8px;
+}
+
+.site-subtitle {
+  font-size: 1.5rem;
+  line-height: 1.2;
+}
+
+footer {
+  margin-bottom: 1em;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+  
+/* Fix anchor scrolling */
+h1, h2, h3, h4, h5, h6 {
+  padding-top: 66px;
+  margin-top: -66px;
+}
+
+/*============= RESETS =============*/
+
+/*-- iPhone X Remove Gutters --*/
+html {
+  padding: env(safe-area-inset);
+}
+
+/*-- Prevent Horizontal Scrolling & Font Style --*/
+html,
+body {
+  overflow-x: hidden;
+  font-family: 'Lato', sans-serif;
+  color: #505962;
+}
+
+.text-splash {
+  color: #1EBBA3;
+}
+
+/*--- Nav Scrolling Offset --*/
+.offset:before {
+  content: "";
+  height: 4rem;
+  display: block;
+  margin-top: -4rem;
+}
+
+/*--- Extra Bootstrap Column Padding --*/
+[class*="col-"] {
+  padding: 1rem;
+}
+
+/*============= NAVIGATION =============*/
+.navbar-brand img {
+  height: 2rem;
+}
+
+.navbar {
+  padding: .7rem 1rem;
+  text-transform: uppercase;
+  font-weight: 700;
+  letter-spacing: .1rem;
+  font-size: .9rem;
+  transition: background-color .5s ease;
+  border-bottom: 2px solid #e9ecef;
+}
+
+.navbar-nav li {
+  padding-right: .8rem;
+}
+
+.navbar-nav .nav-link {
+  color: white;
+  padding-top: .8rem;
+}
+
+.navbar-nav .nav-link.active,
+.navbar-nav .nav-link:hover {
+  color: #1EBBA3;
+}
+
+.dropdown .dropdown-toggle {
+  color: #545454 !important;
+}
+
+li:first-child .dropdown-menu {
+  min-width: 250px;
+}
+
+li:nth-child(2) .dropdown-menu {
+  min-width: 320px;
+}
+
+.dropdown-menu a.dropdown-item {
+  white-space: normal;
+}
+
+.dropdown-menu .dropdown-item {
+  text-transform: initial;
+}
+
+.dropdown-menu .dropdown-item:hover {
+  background-color: #e9ecef;
+}
+
+li .nav-link {
+  color: #545454 !important;
+}
+
+main a {
+  color: #0054B3 !important;
+}
+
+.custom-toggler-icon {
+  color: white;
+  font-size: 1.6rem;
+}
+
+.navbar.solid,
+.navbar.solid-toggle {
+  background: rgba(0, 0, 0, .7) !important;
+  transition: background-color 1s ease;
+}
+
+.svg-inline--fa {
+  color: #505962;
+}
+
+/*-- Remove Button Outline --*/
+a.btn:focus {
+  transition: all .2s ease;
+}
+
+.lang-select-container{
+  height: 30px;
+}
+
+.lang-select {
+  background-color: black;
+  border: 0px;
+  height: inherit;
+  color: white;
+}
+
+.lang-select:hover{
+  -webkit-animation: scale-up-center 0.4s ease-in-out both;
+	        animation: scale-up-center 0.4s ease-in-out both;
+}
+
+/*============= LANDING PAGE =============*/
+
+/*--- Fixed Landing Page Section --*/
+.landing {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  display: table;
+  z-index: -1;
+}
+
+.home-wrap {
+  clip: rect(0, auto, auto, 0);
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+
+.home-inner {
+  background-image: url('../images/computer_main_page_background.jpg');
+  filter: blur(2px);
+  -webkit-filter: blur(2px);
+  position: fixed;
+  height: 100%;
+  width: 100%;
+  background-size: cover;
+  background-position: center center;
+  -webkit-transform: translateZ(0);
+  transform: translateZ(0);
+  will-change: transform;
+  display: table;
+}
+
+/*-- Landing Page Caption --*/
+.caption {
+  z-index: 1;
+  position: absolute;
+  top: 25%;
+  bottom: 25%;
+  width: 100%;
+  max-width: 100%;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+}
+
+.selection-container{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-content: center;
+  max-width: 600px;
+  padding: 20px;
+  background-color: rgba( 0,0, 0, 0.5);
+  border-radius: 10px;
+  height:  300px;
+}
+
+.selection{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex-wrap: wrap;
+  background-color: black;
+  opacity: 1;
+  width: 50%;
+  align-content: center;
+  margin: 5px;
+  border-radius: 10px;
+  color: white;
+  z-index: 2;
+  border: 1px solid black;
+}
+
+
+.selection-divider{
+  border-top: 1px solid rgb(137, 165, 184); 
+  width: 70%;
+  align-self: center;
+}
+
+.selection-button{
+  width: 100px;
+  align-self: center;
+}
+
+.caption h1 {
+  font-size: 4.5rem;
+  letter-spacing: .3rem;
+  text-shadow: .1rem .1rem .8rem black;
+  padding-bottom: 1rem;
+}
+
+.caption h3 {
+  font-size: 2.5rem;
+  text-shadow: .1rem .1rem .5rem black;
+  padding-bottom: 2rem;
+}
+
+.caption .btn-lg {
+  border-width: medium;
+  padding: .8rem 1.5rem;
+  font-size: 1.1rem;
+}
+
+.caption button {
+  background-color: rgb(137, 165, 184);
+  border: 0;
+}
+
+
+
+.caption button:hover {
+  background-color: #189582;
+  color: white;
+}
+
+/*============= FEATURES SECTION =============*/
+
+.content {
+  position: absolute;
+  top: 55px;
+  bottom: 0;
+  overflow-y: scroll;
+  width: 100%;
+}
+
+h3.heading {
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 1.9rem;
+  text-align: center;
+  margin-bottom: 1.9rem;
+}
+
+.heading-underline {
+  width: 3rem;
+  height: .2rem;
+  background-color: #1EBBA3;
+  margin: 0 auto 2rem;
+}
+
+.feature span {
+  color: #1EBBA3;
+  margin-bottom: .6rem;
+}
+
+.feature h3 {
+  text-transform: uppercase;
+  font-size: 1.3rem;
+  padding-bottom: .4rem;
+}
+
+/*============= MEDIA QUERIES =============*/
+/* Devices under 992px (lg) */
+@media (max-width: 991.98px) {
+  .caption h1 {
+    font-size: 3.5rem;
+    letter-spacing: .2rem;
+    padding-bottom: .8rem;
+  }
+
+  .caption h3 {
+    font-size: 2.2rem;
+    padding-bottom: 1.7rem;
+  }
+
+  .caption .btn-lg {
+    padding: .7rem 1.2rem;
+    font-size: 1rem;
+  }
+
+  .clients img {
+    max-width: 50%;
+    margin: 0 auto;
+  }
+}
+
+/* Devices under 768px (md) */
+@media (max-width: 767.98px) {
+  .caption h1 {
+    font-size: 2.7rem;
+    letter-spacing: .15rem;
+    padding-bottom: .5rem;
+  }
+  .selection-container{
+    flex-direction: column;
+    max-height: 500px;
+    justify-content: center;
+    align-content: center;
+    height: 500px;
+    padding: 20px;
+  }
+  .selection{
+    width: inherit;
+    height: 200px;
+    padding: 20px;
+  }
+
+  .caption h3 {
+    font-size: 1.7rem;
+    padding-bottom: 1.2rem;
+  }
+
+  .caption .btn-lg {
+    padding: .6rem 1.1rem;
+  }
+
+  #features h1 {
+    font-size: 2rem;
+  }
+
+  .fixed-dark {
+    background-image: url('../img/fixed/apple-mobile.jpg')
+  }
+
+  .fixed-light {
+    background-image: url('../img/fixed/office-mobile.jpg')
+  }
+
+  .top-scroll {
+    display: none !important;
+  }
+}
+
+/* Devices under 576px (sm) */
+@media (max-width: 575.98px) {
+  .caption h1 {
+    font-size: 1.9rem;
+    letter-spacing: .1rem;
+    padding-bottom: .4rem;
+  }
+
+  .caption h3 {
+    font-size: 1.2rem;
+    padding-bottom: 1rem;
+  }
+
+  .caption .btn-lg {
+    padding: .4rem .9rem;
+    font-size: .9rem;
+  }
+
+  .site-title {
+    font-size: 2rem;
+  }
+
+  .site-subtitle {
+    font-size: 1rem;
+  }
+
+}
+
+/* ----------------------------------------------
+ * Generated by Animista on 2020-1-27 14:49:17
+ * Licensed under FreeBSD License.
+ * See http://animista.net/license for more info. 
+ * w: http://animista.net, t: @cssanimista
+ * ---------------------------------------------- */
+
+/**
+ * ----------------------------------------
+ * animation scale-up-center
+ * ----------------------------------------
+ */
+ @-webkit-keyframes scale-up-center {
+  0% {
+    -webkit-transform: scale(1);
+            transform: scale(1);
+  }
+  100% {
+    -webkit-transform: scale(1.2);
+            transform: scale(1.2);
+  }
+}
+@keyframes scale-up-center {
+  0% {
+    -webkit-transform: scale(1);
+            transform: scale(1);
+  }
+  100% {
+    -webkit-transform: scale(1.2);
+            transform: scale(1.2);
+  }
+}
+
+@-webkit-keyframes scale-up-center-icon {
+  0% {
+    -webkit-transform: scale(1);
+            transform: scale(1);
+  }
+  100% {
+    -webkit-transform: scale(1.2);
+            transform: scale(1.2);
+  }
+}
+@keyframes scale-up-center-icon {
+  0% {
+    -webkit-transform: scale(1);
+            transform: scale(1);
+  }
+  100% {
+    -webkit-transform: scale(1.2);
+            transform: scale(1.2);
+  }
+}
+
+/* =============== TEAM PAGE ===================== */
+
+.team-container{
+  display: flex;
+  width: inherit;
+  flex-wrap: wrap;
+}
+
+.team-member{
+  display: flex;
+  flex-direction: column;
+  width: 33%;
+  padding: 20px 0px;
+}
+
+.team-content{
+  display: flex;
+  flex-direction: column;
+  padding: 0px 15px;
+  text-align: center;
+
+}
+
+.member-icon {
+  font-size: 1.3rem;
+  text-decoration: none !important;
+  color: #505962 !important ;
+}
+
+.member-icon:hover{
+  background-color: #c3e9e3;
+}
+/*
+.member-email:hover{
+  -webkit-animation: scale-up-center-icon 0.4s both;
+	        animation: scale-up-center-icon 0.4s both;
+}
+*/
+.team-member h3 {
+  text-align: center;
+}
+.team-member h4 {
+  font-size: 1.05rem;
+  text-align: center;
+}
+
+.team-member img{
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 100%;
+  width: 200px;
+  height: 200px;
+}
+
+
+@media (max-width: 800px) {
+  .team-container{
+    flex-direction: column;
+  }
+  .team-member{
+    width: inherit;
+  }
+  .team-content{
+    text-align: center;
+    padding: 0px 20px;
+  }
+}
+
+/*============ BOOTSTRAP BREAK POINTS:
+
+Extra small (xs) devices (portrait phones, less than 576px)
+No media query since this is the default in Bootstrap
+
+Small (sm) devices (landscape phones, 576px and up)
+@media (min-width: 576px) {
+  ...
+}
+
+768
+
+Medium (md) devices (tablets, 768px and up)
+@media (min-width: 768px) { ... }
+
+Large (lg) devices (desktops, 992px and up)
+@media (min-width: 992px) { ... }
+
+Extra (xl) large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { ... }
+
+=============*/
+
+
+/* BOOTSTRAP OVERRIDES */
+
+
+code {
+  /* overriden because of accessibility see #714 #740 #741 */
+  font-size: 87.5%;
+  color: #c6005b;
+  word-break: break-word;
+}
+
+
+/*================= ICONS ===========================*/
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon.eot?jdtzuh');
+  src:  url('../fonts/icomoon.eot?jdtzuh#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf?jdtzuh') format('truetype'),
+    url('../fonts/icomoon.woff?jdtzuh') format('woff'),
+    url('../fonts/icomoon.svg?jdtzuh#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-envelop:before {
+  content: "\e945";
+}
+/*.icon-envelop:hover{
+    background-color: #189582;
+}*/
+.icon-twitter:before {
+  content: "\ea96";
+}
+.icon-github:before {
+  content: "\eab0";
+}
+.icon-linkedin:before {
+  content: "\eac9";
+}
+.tab { margin-left: 40px;
+margin-right: 60px;
+text-align: justify;
+text-justify: inter-word; }
