@@ -1,8 +1,6 @@
 {%- assign aPost = site.posts | where:"lang", page.lang -%}
 {% if aPost.size > 0%}
 
-### {{ site.data.i18n.general.nav.blogPosts[page.lang] }}
-
   <ul class="post-list">
     {% for post in aPost %}
       <li>
