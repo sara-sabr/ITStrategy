@@ -8,22 +8,6 @@ Proposal seeking approval
 
 ---
 
-## Stakeholders
-
-- **Executive Sponsors:** Martin Mondor (IITB) and Robert MacGillivary (CFOB)
-- **IITB Lead:** Martin Mondor
-- **Proposal Contact:** Rachel Muston
-- **Client Lead:** Matthew Diedrick, Hugo Desgent-Barbe
-- **BRM Contact:** Amos Lee
-- **EA Contact:** Erin Rowlinson
-- **Others:** IITB Finance, Suppliers, ESDC clients, Office of Small and Medium Enterprise (PSPC)
-
-Note:
-
-- this proposed pilot is being co-sponsored by IITB and CFOB
-
----
-
 <!-- markdownlint-disable MD026 -->
 ## What is the Micro-Acquisition pilot?
 
