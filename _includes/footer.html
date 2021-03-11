@@ -82,13 +82,33 @@
     divs[i].setAttribute("tabindex", "0");
   }
 
+/** Inspiration/source for accessible cards: 
+https://inclusive-components.design/cards/ 
+Author: Heydon Pickering
+Twitter: https://twitter.com/heydonworks
+*/
+
   const cards = document.querySelectorAll('.card');
   cards.forEach(card => {
-    
-    card.addEventListener("click", e => {
-      let location = card.querySelector('.post-link').getAttribute("href");
-      open(location, "_self");
-    });
+      card.style.cursor = 'pointer';
+  })
+  Array.prototype.forEach.call(cards, card => {
+    //Source code from Heydon Pickering
+    let down, up, link = card.querySelector('h2 a');
+    card.onmousedown = () => down = +new Date();
+    card.onmouseup = () => {
+      up = +new Date();
+      if ((up - down) < 200) {
+        link.click();
+      }
+    }
+    //Add conditional styling: if JS disabled, not applied
+    card.onmouseover = () => {
+      card.style.border = "1px solid black";
+    }
+    card.onmouseout = () => {
+      card.style.border = "1px solid rgba(0,0,0,.125)";
+    }
   });
 
   // Fix for text wrapping in menu
