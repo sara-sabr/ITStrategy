@@ -178,66 +178,6 @@
         - col:
           data:
             list: false
-            fr: <a href="https://message.gccollab.ca/" target="_blank">GCmessage</a>
-            en: <a href="https://message.gccollab.ca/" target="_blank">GCmessage</a>
-        - col:
-          data:
-            list: false
-            fr: |
-              Messagerie instantanée utilisant des canaux de discussions, permettant la collaboration et les discussions entre les membres de la fonction publique des ministères du GC ainsi qu'avec des membres de la communauté scientifique universitaire canadienne. Instance de Rocket Chat.
-            en: |
-              Channel-based instant messaging internal to Government of Canada, enabling collaboration and discussions between employees of various GoC departments as well as with members of the Canadian university communities. Rocket Chat instance.
-        - col:
-          data:
-            list: false
-            fr: Oui
-            en: "Yes"
-        - col:
-          data:
-            list: false
-            fr: Oui
-            en: "Yes"
-    - row:
-      headers: false
-      cols:
-        - col:
-          data:
-            list: false
-            fr: Messagerie instantanée - Canaux
-            en: Instant Messaging - Channel-based
-        - col:
-          data:
-            list: false
-            fr: <a href="https://slack.com/intl/fr-ca/" target="_blank">Slack</a>
-            en: <a href="https://slack.com/intl/en-ca/" target="_blank">Slack</a>
-        - col:
-          data:
-            list: false
-            fr: |
-              Service de messagerie par canaux; un compte peut être créé le courrier électronique professionnel
-            en: |
-              Channel-based instant messaging service; an account can be created using the professional email address.
-        - col:
-          data:
-            list: false
-            fr: Non
-            en: "No"
-        - col:
-          data:
-            list: false
-            fr: Oui
-            en: "Yes"
-    - row:
-      headers: false
-      cols:
-        - col:
-          data:
-            list: false
-            fr: Messagerie instantanée - Canaux
-            en: Instant Messaging - Channel-based
-        - col:
-          data:
-            list: false
             fr: <a href="https://element.io/" target="_blank">Element</a> (anciennement Riot)
             en: <a href="https://element.io/" target="_blank">Element</a> (formerly Riot)
         - col:
@@ -268,15 +208,15 @@
         - col:
           data:
             list: false
-            fr: <a href="https://open.rocket.chat/" target="_blank">Rocket Chat</a>
-            en: <a href="https://open.rocket.chat/" target="_blank">Rocket Chat</a>
+            fr: <a href="https://framateam.org/login" target="_blank">Framateam</a>
+            en: <a href="https://framateam.org/login" target="_blank">Framateam</a>
         - col:
           data:
             list: false
             fr: |
-              Centre de communication soutenant les discussions basées sur les canaux. Utilisé pour GCmessage.
+              Service de messagerie instantanée libre qui permet de communiquer avec son équipe en notifiant ses collègues, de conserver ses conversations et d’y faire des recherches.
             en: |
-              Communication Hub supporting channel-based discussions. Used to power GCmessage.
+              Free instant messaging service that allows you to communicate with your team by notifying your colleagues, keep track of your conversations and do research.
         - col:
           data:
             list: false
@@ -328,15 +268,15 @@
         - col:
           data:
             list: false
-            fr: <a href="https://framateam.org/login" target="_blank">Framateam</a>
-            en: <a href="https://framateam.org/login" target="_blank">Framateam</a>
+            fr: <a href="https://message.gccollab.ca/" target="_blank">GCmessage</a>
+            en: <a href="https://message.gccollab.ca/" target="_blank">GCmessage</a>
         - col:
           data:
             list: false
             fr: |
-              Service de messagerie instantanée libre qui permet de communiquer avec son équipe en notifiant ses collègues, de conserver ses conversations et d’y faire des recherches.
+              Messagerie instantanée utilisant des canaux de discussions, permettant la collaboration et les discussions entre les membres de la fonction publique des ministères du GC ainsi qu'avec des membres de la communauté scientifique universitaire canadienne. Instance de Rocket Chat.
             en: |
-              Free instant messaging service that allows you to communicate with your team by notifying your colleagues, keep track of your conversations and do research.
+              Channel-based instant messaging internal to Government of Canada, enabling collaboration and discussions between employees of various GoC departments as well as with members of the Canadian university communities. Rocket Chat instance.
         - col:
           data:
             list: false
@@ -353,25 +293,55 @@
         - col:
           data:
             list: false
-            fr: Messagerie instantanée - Un à un (ou plusieurs)
-            en: Instant Messaging - One-to-One (or Many)
+            fr: Messagerie instantanée - Canaux
+            en: Instant Messaging - Channel-based
         - col:
           data:
             list: false
-            fr: <a href="https://signal.org/fr/" target="_blank">Signal</a>
-            en: <a href="https://signal.org/en/" target="_blank">Signal</a>
+            fr: <a href="https://open.rocket.chat/" target="_blank">Rocket Chat</a>
+            en: <a href="https://open.rocket.chat/" target="_blank">Rocket Chat</a>
         - col:
           data:
             list: false
             fr: |
-              Service de messagerie instantanée encryptée.
+              Centre de communication soutenant les discussions basées sur les canaux. Utilisé pour GCmessage.
             en: |
-              Encrypted instant messaging service.
+              Communication Hub supporting channel-based discussions. Used to power GCmessage.
         - col:
           data:
             list: false
             fr: Oui
             en: "Yes"
+        - col:
+          data:
+            list: false
+            fr: Oui
+            en: "Yes"
+    - row:
+      headers: false
+      cols:
+        - col:
+          data:
+            list: false
+            fr: Messagerie instantanée - Canaux
+            en: Instant Messaging - Channel-based
+        - col:
+          data:
+            list: false
+            fr: <a href="https://slack.com/intl/fr-ca/" target="_blank">Slack</a>
+            en: <a href="https://slack.com/intl/en-ca/" target="_blank">Slack</a>
+        - col:
+          data:
+            list: false
+            fr: |
+              Service de messagerie par canaux; un compte peut être créé le courrier électronique professionnel
+            en: |
+              Channel-based instant messaging service; an account can be created using the professional email address.
+        - col:
+          data:
+            list: false
+            fr: Non
+            en: "No"
         - col:
           data:
             list: false
@@ -418,20 +388,110 @@
         - col:
           data:
             list: false
-            fr: <a href="https://www.whatsapp.com/?lang=fr" target="_blank">WhatsApp</a>
-            en: <a href="https://www.whatsapp.com/?lang=en" target="_blank">WhatsApp</a>
+            fr: <a href="https://signal.org/fr/" target="_blank">Signal</a>
+            en: <a href="https://signal.org/en/" target="_blank">Signal</a>
         - col:
           data:
             list: false
             fr: |
-              Service de messagerie instantanée; supporte la vidéoconférence.
+              Service de messagerie instantanée encryptée.
             en: |
-              Instant messaging service; supports videoconferencing.
+              Encrypted instant messaging service.
         - col:
           data:
             list: false
-            fr: Non
-            en: "No"
+            fr: Oui
+            en: "Yes"
+        - col:
+          data:
+            list: false
+            fr: Oui
+            en: "Yes"
+    - row:
+      headers: false
+      cols:
+        - col:
+          data:
+            list: false
+            fr: Messagerie instantanée - Un à un (ou plusieurs)
+            en: Instant Messaging - One-to-One (or Many)
+        - col:
+          data:
+            list: false
+            fr: <a href="https://telegram.org" target="_blank">Telegram</a>
+            en: <a href="https://telegram.org" target="_blank">Telegram</a>
+        - col:
+          data:
+            list: false
+            fr: |
+              Service de messagerie instantanée encryptée (note: l'encryption n'est pas activée par défaut).
+            en: |
+              Encrypted instant messaging service (note: encryption is not enabled by default).
+        - col:
+          data:
+            list: false
+            fr: Oui
+            en: "Yes"
+        - col:
+          data:
+            list: false
+            fr: Oui
+            en: "Yes"
+    - row:
+      headers: false
+      cols:
+        - col:
+          data:
+            list: false
+            fr: Messagerie instantanée - Un à un (ou plusieurs)
+            en: Instant Messaging - One-to-One (or Many)
+        - col:
+          data:
+            list: false
+            fr: <a href="https://threema.ch" target="_blank">Threema</a>
+            en: <a href="https://threema.ch" target="_blank">Threema</a>
+        - col:
+          data:
+            list: false
+            fr: |
+              Service de messagerie instantanée encryptée. Pas besoin de fournir de no. de téléphone.
+            en: |
+              Encrypted instant messaging service. No need to provide a phone number.
+        - col:
+          data:
+            list: false
+            fr: Oui
+            en: "Yes"
+        - col:
+          data:
+            list: false
+            fr: Oui
+            en: "Yes"
+    - row:
+      headers: false
+      cols:
+        - col:
+          data:
+            list: false
+            fr: Messagerie instantanée - Un à un (ou plusieurs)
+            en: Instant Messaging - One-to-One (or Many)
+        - col:
+          data:
+            list: false
+            fr: <a href="https://wire.com" target="_blank">Wire</a>
+            en: <a href="https://wire.com" target="_blank">Wire</a>
+        - col:
+          data:
+            list: false
+            fr: |
+              Service de messagerie instantanée encryptée.
+            en: |
+              Encrypted instant messaging service.
+        - col:
+          data:
+            list: false
+            fr: Oui
+            en: "Yes"
         - col:
           data:
             list: false
