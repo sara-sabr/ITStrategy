@@ -49,7 +49,7 @@ body>.container {
 }
 
 body {
-  font-size: 1.12rem;
+  font-size: 1.2rem;
 }
 
 .h1, h1 {
@@ -75,7 +75,7 @@ body {
 }
 
 #maincontent h1, #maincontent h2, #maincontent h3, #maincontent h4, #maincontent h5, #maincontent p, #maincontent blockquote, #maincontent .alert, #maincontent img, #maincontent dl, #maincontent ol, #maincontent ul, #maincontent details, #maincontent code, #maincontent .version, #maincontent .author {
-  max-width: 615px;
+  max-width: 700px;
   margin-left: auto;
   margin-right: auto;
 }
