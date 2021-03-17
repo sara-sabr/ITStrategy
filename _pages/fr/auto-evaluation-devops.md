@@ -18,7 +18,7 @@ Faites l'[Auto-évaluation DevOps](https://sara-sabr.github.io/dora-js/) ou cont
 
 ## En quoi consiste l'outil d'évaluation
 
-L'outil d'évaluation est un plan d'action qui permet d'examiner soigneusement le potentiel d'autoamélioration, de mettre au jour les épreuves et possibilités de l'équipe par le truchement des capacités, de discerner les priorités et de suivre l'évolution des progrès.
+L'outil d'évaluation est un plan d'action qui permet d'examiner soigneusement le potentiel d'auto-amélioration, de mettre au jour les épreuves et possibilités de l'équipe par le truchement des capacités, de discerner les priorités et de suivre l'évolution des progrès.
 Il est convivial et ses résultats sont crédibles.
 Il permet d'examiner le rendement de l'équipe et de l'orienter vers l'atteinte du résultat espéré.
 Il favorise l'accélération du rendement technologique dans l'organisation.
@@ -83,11 +83,11 @@ Prenez note que l'équipe de la stratégie des TI recommande aux équipes de ré
 **Êtes-vous d'accord avec...** [1-7]
 
 1. Tout à fait en désaccord
-2.
-3.
+2. .
+3. .
 4. Ni d'accord ni en désaccord
-5.
-6.
+5. .
+6. .
 7. Tout à fait d'accord
 
 ### Cotation
