@@ -14,7 +14,7 @@ The survey questions will measure and support the [Continuous Improvement](https
 Teams are invited to complete the survey every 6 (six) to 12 (twelve) months to measure the success of their activities.
 The IT Strategy team recommends that teams complete all capabilities at least once to establish a full baseline.
 
-Take the [DevOps Self-Assessment](https://sara-sabr.github.io/dora-js/) or keep reading for more information.
+Take the [DevOps Self-Assessment](https://sara-sabr.github.io/auto-evaluation-devops-self-assessment/) or keep reading for more information.
 
 ## What is an assessment tool
 
