@@ -14,7 +14,7 @@ Les questions du sondage serviront à mesurer et à appuyer l'[amélioration con
 Les équipes sont priées de répondre au sondage tous les 6 (six) à 12 (douze) mois pour mesurer la réussite de leurs activités.
 L'équipe de la stratégie des TI recommande aux équipes de répondre à toutes les capacités pour déterminer la situation initiale et mesurer les progrès accomplis.
 
-Faites l'[Auto-évaluation DevOps](https://sara-sabr.github.io/dora-js/) ou continuez à lire pour plus d'informations.
+Faites l'[Auto-évaluation DevOps](https://sara-sabr.github.io/auto-evaluation-devops-self-assessment/?lang=fr) ou continuez à lire pour plus d'informations.
 
 ## En quoi consiste l'outil d'évaluation
 
