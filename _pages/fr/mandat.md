@@ -26,7 +26,7 @@ Favoriser la valeur stratégique des TI au sein de EDSC en réduisant leurs risq
 - Développer des stratégies de croissance de la transformation pour l'organisation
 - Aider l'organisation à adopter DevOps qui réduit considérablement les risques liés aux investissements technologiques et libère d'importantes capacités d'amélioration des services.
 - Livrer de la valeur très rapidement, en utilisant des délais très courts
-- Accélérer le temps pour l'organisation, appliquer des améliorations incrémentielles en réponse à l'évolution de l'environnement et créer un processus de développement simplifié.
+- Accélérer le temps pour organiser, appliquer des améliorations incrémentielles en réponse à l'évolution de l'environnement et créer un processus de développement simplifié.
 - Itérer et innover en permanence
 
 <!-- <img src="assets/images/our-vision.png" alt="team vision"> -->

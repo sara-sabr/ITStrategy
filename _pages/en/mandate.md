@@ -26,7 +26,7 @@ Enable the strategic value of IT within ESDC by reducing its risks and increasin
 - Develop transformation growth strategies for the organization
 - Help the organization to adopt DevOps that dramatically reduce risks associated with technology investments and unlock significant service improvement capabilities
 - Deliver value very quickly, using very short lead times
-- Speed up the time to organization, apply incremental improvements in response to the changing environment, and create a more streamlined development process
+- Speed up time to organize, apply incremental improvements in response to the changing environment, and create a more streamlined development process
 - Continuously iterate and innovate
 
 <!-- <img src="assets/images/our-vision.png" alt="team vision"> -->
