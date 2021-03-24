@@ -33,7 +33,7 @@ Enable the strategic value of IT within ESDC by reducing its risks and increasin
 
 ## Our Vision
 
-Our vision is to release changes of all kinds on demand quickly, safely, and sustainably so that [Canadians are benefiting seamlessly](human-development-life-cycle.html) of the federal government services through modern technologies.
+Our vision is to release changes of all kinds on demand quickly, safely, and sustainably so that Canadians are benefiting seamlessly of the federal government services through modern technologies.
 Continuous improvement transformation and GC wide "Government as a service" based on [GC Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html) and the [Directive on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601).
 See [Information Technology Vision](vision-medium-long-term.html).
 
