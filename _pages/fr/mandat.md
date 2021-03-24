@@ -23,11 +23,11 @@ Favoriser la valeur stratégique des TI au sein de EDSC en réduisant leurs risq
 
 ## Nos objectifs
 
-- Develop transformation growth strategies for the organization
-- Help the organization to adopt DevOps that dramatically reduce risks associated with technology investments and unlock significant service improvement capabilities
-- Deliver value very quickly, using very short lead times
-- Speed up the time to organization, apply incremental improvements in response to the changing environment, and create a more streamlined development process
-- Continuously iterate and innovate
+- Développer des stratégies de croissance de la transformation pour l'organisation
+- Aider l'organisation à adopter DevOps qui réduit considérablement les risques liés aux investissements technologiques et libère d'importantes capacités d'amélioration des services.
+- Livrer de la valeur très rapidement, en utilisant des délais très courts
+- Accélérer le temps pour l'organisation, appliquer des améliorations incrémentielles en réponse à l'évolution de l'environnement et créer un processus de développement simplifié.
+- Itérer et innover en permanence
 
 <!-- <img src="assets/images/our-vision.png" alt="team vision"> -->
 
@@ -53,11 +53,11 @@ L'apprentissage doit être au cœur de nos activités quotidiennes afin de nous 
 En utilisant les approches et les technologies que nous défendons, nous serons en mesure de mieux répondre aux défis auxquels nous serons confrontés et de mieux les anticiper.
 Nous expérimenterons également des méthodes de travail modernes afin de démontrer leur valeur et leur efficacité.
 
-### Teamwork
+### Travail d'équipe
 
-We swarm to solve problems and respond to requests, we have our own files but we also work across files sharing our expertise to help one another
+Nous travaillons en essaim pour résoudre les problèmes et répondre aux demandes, nous avons nos propres dossiers, mais nous travaillons également de manière transversale en partageant notre expertise pour nous entraider.
 
-### Working in the open
+### Travailler en toute transparence
 
-We strongly believe in sharing our work openly on this website.
-We include here not just final products but also products in development so that we can collaborate and improve our work and also so that our work can be re-used by anyone.
+Nous croyons fermement qu'il faut partager notre travail ouvertement sur ce site web.
+Nous incluons ici non seulement les produits finaux mais aussi les produits en cours de développement afin que nous puissions collaborer et améliorer notre travail et aussi afin que notre travail puisse être réutilisé par quiconque.
