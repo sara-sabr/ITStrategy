@@ -1,8 +1,8 @@
-# Assessment tool
+# DevOps Self-Assessment Tool
 
 ## Capabilities of high performing IT organizations
 
-SABR - IT Strategy - 2020-12
+SABR - IT Strategy - 2021-04
 
 ---
 
@@ -21,7 +21,7 @@ SABR - IT Strategy - 2020-12
 
 ---
 
-## Why are we here?
+## Why are we here
 
 Promote continuous improvement through the use of a **DevOps Self Assessment Tool**, that evaluates following capabilities: 
 
@@ -34,7 +34,8 @@ Promote continuous improvement through the use of a **DevOps Self Assessment Too
 
 ---
 
-## Why use the tool?
+## Why use the tool
+
 - Learn about DevOps
 - Help establish a baseline on level of readiness and maturity to adopt DevOps
 - Recommendations on where and what to improve based on assessment results 
@@ -51,16 +52,35 @@ Promote continuous improvement through the use of a **DevOps Self Assessment Too
 
 ## What is it based on?
 
-DevOps Research & Assessment (DORA)*
+[DevOps Research & Assessment (DORA)](https://www.devops-research.com/research.html)*
 
 - Over six years of research
 - Data from over 31,000 professionals worldwide
 
 Identifies **capabilities that drive high performance in technology** delivery and ultimately organizational outcomes.
 
-More information: [2019 State of DevOps Report](https://cloud.google.com/devops/state-of-devops)
-
 > \* Recently bought by Google
+
+--
+
+### IITB Aspirational Goal
+
+#### Direction (a "true north")
+
+- Lead time for changes [1-24] hours
+- Change or deploy frequency [1-24] hours or on demand
+- Time to restore service [1-24] hours
+- [Generative (Westrum) Culture](https://cloud.google.com/solutions/devops/devops-culture-westrum-organizational-culture)
+
+--
+
+### How to Transform
+
+#### Continuous Improvement
+
+- [Capabilities](https://cloud.google.com/solutions/devops/capabilities)
+- [Transformational Leadership](https://cloud.google.com/solutions/devops/devops-culture-transformational-leadership)
+- [How To Transform](https://cloud.google.com/solutions/devops/devops-culture-transform)
 
 ---
 
@@ -74,29 +94,27 @@ More information: [2019 State of DevOps Report](https://cloud.google.com/devops/
 
 Survey with 11 sections
 
-Teams are encouraged to fill out every section, but it is possible to fill out individual sections independently
+Teams are encouraged to fill out every section, but it is possible to fill out individual sections independently.
 
 --
 
-## How does it work?
-
 <img src="assets/images/Process.png" alt= "First, IT teams receive a link to take advantage of the DevOps Self-Assessment tool (example: IT Strategy website, email, coworker sharing. Then, the user is taking a survey after what it is scored based on responces. If the user scores high, which is 90-100%, the team is doing well. If the user scores medium, which is 50-89%, there is a room for the team to improve. If the user score low, which is 0-49%, the team needs to fill gaps with new learning opportunities. In all cases recommendations on where and how to improve will be provided. Finally, the user can save results.">
 
-[Demo](https://sara-sabr.github.io/dora-js/)
+[Demo](https://sara-sabr.github.io/auto-evaluation-devops-self-assessment/)
 
 ---
 
-## TIME?
+## How Much Time
 
 <img src="assets/images/sections.png" alt="The image shows how many sections has a survey. The survey has eveven sections. Teams are encouraged to fill out every section. It is possible to to fill out individual sections independently. How long does it take? The complete assessment takes under an hour. Each section takes 3-5 minutes. How often to use it? We recommend to use DevOps Self-Assessment tool every 6-12 month to measure teams progress and to reestablish baseline.">
 
 ---
 
-## When and how can I get it?
+## When and how can I get it
 
 # Now !!!
 
-https://sara-sabr.github.io/dora-js/
+[DevOps Self-Assessment](https://sara-sabr.github.io/auto-evaluation-devops-self-assessment/)
 
 Note:
 
@@ -127,25 +145,6 @@ Cultural - Process - Measurement - Technical
 
 ---
 
-## How to Transform
-
-### Continuous Improvement of Capabilities
-
-https://cloud.google.com/solutions/devops/devops-culture-transform
-
---
-
-### IITB Aspirational Goal
-
-#### Direction (a "true north")
-
-- Lead time for changes [1-24] hours
-- Change or deploy frequency [1-24] hours or on demand
-- Time to restore service [1-24] hours
-- [Generative (Westrum) Culture](https://cloud.google.com/solutions/devops/devops-culture-westrum-organizational-culture)
-
---
-
 ### Understand the current condition
 
 - [DORA DevOps Quick check](https://www.devops-research.com/quickcheck.html)
@@ -153,7 +152,7 @@ https://cloud.google.com/solutions/devops/devops-culture-transform
 - Value stream mapping
 - ..
 
---
+---
 
 ### Running experiments
 
