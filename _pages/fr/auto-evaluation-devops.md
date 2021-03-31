@@ -4,7 +4,7 @@ title: Auto-évaluation DevOps
 ref: devops-self-assessment
 lang: fr
 status: In Progress;primary
-sections: Pilots
+sections: Pilotes
 permalink: /auto-evaluation-devops.html
 ---
 
