@@ -23,10 +23,10 @@ SABR - IT Strategy - 2021-05
 
 Promote continuous improvement through the use of a **DevOps Self Assessment Tool**, that evaluates following capabilities: 
 
-- Technical
+- Cultural
 - Process
 - Measurement
-- Cultural
+- Technical
 
 > DevOps is beyond technical!
 
