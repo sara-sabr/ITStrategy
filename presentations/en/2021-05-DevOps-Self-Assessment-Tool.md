@@ -2,7 +2,7 @@
 
 ## Capabilities of high performing IT organizations
 
-SABR - IT Strategy - 2021-04
+SABR - IT Strategy - 2021-05
 
 ---
 
@@ -11,13 +11,11 @@ SABR - IT Strategy - 2021-04
 - Why are we here
 - Why use the tool
 - What is it based on
+- How to transform into high performing IT
 - How does it work
 - How long does it take and how often should I use it
 - When and how can I get it
-- DevOps Research & Assessment
-- How to transform into high performing IT
-- Assessment Tool
-  - Demo
+- Demo
 
 ---
 
@@ -39,14 +37,25 @@ Promote continuous improvement through the use of a **DevOps Self Assessment Too
 - Learn about DevOps
 - Help establish a baseline on level of readiness and maturity to adopt DevOps
 - Recommendations on where and what to improve based on assessment results 
-- Encourage continuous improvement 
-- Aligned to Policy and Directive on Service and Digitl
+- Continuous improvement 
+- Aligned to Policy and Directive on Service and Digital
 
 --
 
 ### Continuous Improvement Transformation
 
 <img src="assets/images/AssessmentTool1.png" alt="This image shows how to improve team transformation. There are five stages of improvement: 1. Setting goals - where IITB sets aspirational goal. 2. Current condition - where teams seek to understand the current condition. 3. Measurable targets - where teams set measurable targets for a future date. 4. Running experiments -where teams run experiments on a daily basis to move towards the target conditions, using PDCA (Plan, Do, Check, Act) method. 5. New targets - where teams capture, set new targets and going to repat the process 2-3 times. The image also demonstrates PDCA method. Plan - determine the expected outcome. Do - perform the experiment. Check- study the results. Act - decide what to do next.">
+
+--
+
+### IITB Aspirational Goal *
+
+#### Direction (a "true north")
+
+- Lead time for changes [1-24] hours
+- Change or deploy frequency [1-24] hours or on demand
+- Time to restore service [1-24] hours
+- [Generative (Westrum) Culture](https://cloud.google.com/solutions/devops/devops-culture-westrum-organizational-culture)
 
 ---
 
@@ -61,18 +70,7 @@ Identifies **capabilities that drive high performance in technology** delivery a
 
 > \* Recently bought by Google
 
---
-
-### IITB Aspirational Goal
-
-#### Direction (a "true north")
-
-- Lead time for changes [1-24] hours
-- Change or deploy frequency [1-24] hours or on demand
-- Time to restore service [1-24] hours
-- [Generative (Westrum) Culture](https://cloud.google.com/solutions/devops/devops-culture-westrum-organizational-culture)
-
---
+---
 
 ### How to Transform
 
@@ -82,11 +80,32 @@ Identifies **capabilities that drive high performance in technology** delivery a
 - [Transformational Leadership](https://cloud.google.com/solutions/devops/devops-culture-transformational-leadership)
 - [How To Transform](https://cloud.google.com/solutions/devops/devops-culture-transform)
 
----
+--
 
 ## Process improvement methodology
 
 <img src="assets/images/improvement_method.png" alt="The image demonstrates assessment process methodology flow. It has five steps. Step 1. Assess your team performance and identify where it stands within DevOps. Step 2. Analyze and get your guidelines on how and what areas to improve. Step 3. Implement recommendations to achieve team desired outcomes. Step 4. Improve which means come back and re-take the survey to track your team progress.">
+
+--
+
+### Understand the current condition
+
+- [DORA DevOps Quick check](https://www.devops-research.com/quickcheck.html)
+- [IT Strategy DevOps Assesment Tool](https://sara-sabr.github.io/dora-js/)
+- Value stream mapping
+- ..
+
+--
+
+### Running experiments
+
+#### Ask the following questions
+
+- What are the current and target conditions?
+- What obstacles do you think are preventing you from reaching the target condition?
+- Which one are you addressing now?
+- What is your next step? What outcomes do you expect?
+- When can the results be evaluated to see what can be learned from taking that step?
 
 ---
 
@@ -116,53 +135,12 @@ Teams are encouraged to fill out every section, but it is possible to fill out i
 
 [DevOps Self-Assessment](https://sara-sabr.github.io/auto-evaluation-devops-self-assessment/)
 
-Note:
-
 ---
+
+Demo
 
 Questions ?
 
 ---
 
 _fin
-
----
-
-### 11 Sections
-
-Cultural - Process - Measurement - Technical
-
-- Transformational Leadership
-- Learning and Generative Culture
-- Experimentation and Streamlining Change Approval
-- Customer Feedback and Work Visibility
-- Data Application Monitoring
-- Work in Process Limits and Visual Management
-- Version Control and Code Maintainability
-- Continuous Testng, Integration and Deployment
-- Architecture and Cloud Infrastructure
-- ..
-
----
-
-### Understand the current condition
-
-- [DORA DevOps Quick check](https://www.devops-research.com/quickcheck.html)
-- [IT Strategy DevOps Assesment Tool](https://sara-sabr.github.io/dora-js/)
-- Value stream mapping
-- ..
-
----
-
-### Running experiments
-
-#### Ask the following questions
-
-- What are the current and target conditions?
-- What obstacles do you think are preventing you from reaching the target condition?
-- Which one are you addressing now?
-- What is your next step? What outcomes do you expect?
-- When can the results be evaluated to see what can be learned from taking that step?
-
-
-
