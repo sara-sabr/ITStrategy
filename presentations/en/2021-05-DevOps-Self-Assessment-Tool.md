@@ -1,3 +1,5 @@
+<!--markdownlint-disable MD033-->
+
 # DevOps Self-Assessment Tool
 
 ## Capabilities of high performing IT organizations
@@ -21,7 +23,7 @@ SABR - IT Strategy - 2021-05
 
 ## Why are we here
 
-Promote continuous improvement through the use of a **DevOps Self Assessment Tool**, that evaluates following capabilities: 
+Promote continuous improvement through the use of a **DevOps Self Assessment Tool**, that evaluates following capabilities:
 
 - Cultural
 - Process
@@ -36,8 +38,8 @@ Promote continuous improvement through the use of a **DevOps Self Assessment Too
 
 - Learn about DevOps
 - Help establish a baseline on level of readiness and maturity to adopt DevOps
-- Recommendations on where and what to improve based on assessment results 
-- Continuous improvement 
+- Recommendations on where and what to improve based on assessment results
+- Continuous improvement
 - Aligned to Policy and Directive on Service and Digital
 
 --
@@ -59,7 +61,7 @@ Promote continuous improvement through the use of a **DevOps Self Assessment Too
 
 ---
 
-## What is it based on?
+## What is it based on
 
 [DevOps Research & Assessment (DORA)](https://www.devops-research.com/research.html)*
 
@@ -109,7 +111,7 @@ Identifies **capabilities that drive high performance in technology** delivery a
 
 ---
 
-## How does it work?
+## How does it work
 
 Survey with 11 sections
 
@@ -131,7 +133,7 @@ Teams are encouraged to fill out every section, but it is possible to fill out i
 
 ## When and how can I get it
 
-# Now !!!
+## Now
 
 [DevOps Self-Assessment](https://sara-sabr.github.io/auto-evaluation-devops-self-assessment/)
 
