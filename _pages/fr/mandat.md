@@ -8,20 +8,34 @@ sections: Mission
 permalink: /mandat.html
 ---
 
-## Vision (image du futur)
-
-L'[Expérience Canadienne](human-development-life-cycle.html), c'est lorsque les Canadiens profitent de façon transparente des services du gouvernement fédéral grâce aux technologies modernes.
-
-## Mission (raison d'être de l'équipe)
-
-Favoriser la valeur stratégique des TI au sein de EDSC en réduisant leurs risques afin d'accélérer la flexibilité de l'entreprise.
-
-## Mandat (l'autorité de l'équipe au sein de la DGTII)
-
 - Diagnostiquer les principaux problèmes organisationnels de EDSC, les gaspillages, les délais et les structures de gouvernance qui empêchent les changements de comportement souhaités
 - Recommander un plan d'action à tout organisme de gouvernance du EDSC pour l'adoption de nouvelles méthodes de gestion des risques liés aux TI.
 - Mesurer les progrès de l'adoption de la mise en œuvre des stratégies au sein des équipes des organismes de gouvernance de la DGIIT en tant qu'indicateur de rendement pour l'équipe de la stratégie TI.
 - Remettre en question la pensée et les approches actuelles
+
+<!-- <img src="assets/images/our-mission.png" alt="team mission"> -->
+
+## Notre mission
+
+Favoriser la valeur stratégique des TI au sein de EDSC en réduisant leurs risques afin d'accélérer la flexibilité de l'entreprise.
+
+<!-- <img src="assets/images/our-goals.png" alt="team goals"> -->
+
+## Nos objectifs
+
+- Développer des stratégies de croissance de la transformation pour l'organisation
+- Aider l'organisation à adopter DevOps qui réduit considérablement les risques liés aux investissements technologiques et libère d'importantes capacités d'amélioration des services.
+- Livrer de la valeur très rapidement, en utilisant des délais très courts
+- Accélérer le temps pour organiser, appliquer des améliorations incrémentielles en réponse à l'évolution de l'environnement et créer un processus de développement simplifié.
+- Itérer et innover en permanence
+
+<!-- <img src="assets/images/our-vision.png" alt="team vision"> -->
+
+## Notre vision
+
+Notre vision est de mettre en oeuvre des changements de toutes sortes sur demande, rapidement, en toute sécurité et de manière durable, afin que les Canadiens puissent bénéficier de manière transparente des services du gouvernement fédéral grâce aux technologies modernes.
+Transformation d'amélioration continue et "gouvernement en tant que service" à l'échelle du GC, sur la base des [Normes numériques du GC](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html) et de la [Directive sur les services et le numérique](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32601).
+Voir [Vision des technologies de l'information](vision-moyen-long-terme.html).
 
 ## Principes directeurs de l'équipe
 
@@ -39,12 +53,11 @@ L'apprentissage doit être au cœur de nos activités quotidiennes afin de nous 
 En utilisant les approches et les technologies que nous défendons, nous serons en mesure de mieux répondre aux défis auxquels nous serons confrontés et de mieux les anticiper.
 Nous expérimenterons également des méthodes de travail modernes afin de démontrer leur valeur et leur efficacité.
 
-## Ce que la "transformation numérique" veut dire pour nous
+### Travail d'équipe
 
-Les TI sont maintenant utilisées pour la prestation de services aux Canadiens. Si les TI échouent, l'entreprise échoue et vice versa. L'utilisation des TI n'est plus "un problème informatique" car elle a de réelles répercussions sur les citoyens. La TI ne peut plus être perçue comme une entreprise au sein d'une autre entreprise (ou d'un fournisseur externe), elle partage la responsabilité du mandat de l'organisation.
+Nous travaillons en essaim pour résoudre les problèmes et répondre aux demandes, nous avons nos propres dossiers, mais nous travaillons également de manière transversale en partageant notre expertise pour nous entraider.
 
-Les processus et méthodes informatiques actuels sont risqués et coûteux, ce qui se traduit par des contrôles de gouvernance et de conformité lourds. Nous devons changer notre façon de faire de la TI afin de réduire ses risques, d'améliorer la cybersécurité et d'accroître notre capacité à faire preuve de souplesse, de sorte que la TI puisse devenir un atout stratégique pour EDSC et pour l'expérience des citoyens. Les lignes de service doivent donc aussi accepter les risques et les coûts associés à l'utilisation des TI, car les TI sont la façon dont EDSC livre son mandat.
+### Travailler en toute transparence
 
-Voilà ce qu'est la transformation numérique.
-
-Il s'agit d'une aventure continue en raison de l'évolution rapide du monde des TI. Il n'a pas de fin. Ça ne s'arrête jamais.
+Nous croyons fermement qu'il faut partager notre travail ouvertement sur ce site web.
+Nous incluons ici non seulement les produits finaux mais aussi les produits en cours de développement afin que nous puissions collaborer et améliorer notre travail et aussi afin que notre travail puisse être réutilisé par quiconque.

@@ -152,10 +152,27 @@ This test runs the specified markdown files against a specified dictionary.
 
 This project uses [Jekyll](https://jekyllrb.com/), an open source static website and blogging platform, to render our Markdown files as web pages.
 
-You can run the website locally to see the output of the changes you made to your branch/fork by using the following command:
+You can run the website locally to see the output of the changes you made to your branch/fork:
+
+### With Docker
 
 ```bash
 docker run -p 4000:4000 -v $(pwd):/srv/jekyll -it --rm jekyll/jekyll jekyll serve
+```
+
+### With Ruby
+
+#### Initial installation
+
+```bash
+gem install jekyll bundler
+bundle install
+```
+
+#### Generate website
+
+```bash
+bundle exec jekyll serve
 ```
 
 The generated website will be available at : [http://localhost:4000/ITStrategy/](http://localhost:4000/ITStrategy/)

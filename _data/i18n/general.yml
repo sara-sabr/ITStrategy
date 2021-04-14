@@ -9,9 +9,6 @@ head:
   title:
     en: Information Technology Strategy Team
     fr: Équipe de la Stratégie des Technologies de l'information
-  subtitle:
-    en: Enable the strategic value of IT within ESDC by reducing its risks to accelerate business flexibility.
-    fr: Favoriser la valeur stratégique des TI au sein de EDSC en réduisant leurs risques afin d'accélérer la flexibilité de l'entreprise.
   skipToContent:
     en: Skip to main content
     fr: Aller au contenu principal
@@ -82,6 +79,14 @@ blogs:
   translationDate:
     en: Translated on
     fr: Traduit le
+
+about:
+  interests:
+    en: Interests
+    fr: Intérêts
+  photoOf:
+    en: Photo of
+    fr: Photo de
 
 notices:
   notice:
