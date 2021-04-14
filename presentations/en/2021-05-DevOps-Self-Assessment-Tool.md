@@ -93,7 +93,7 @@ Identifies **capabilities that drive high performance in technology** delivery a
 ### Understand the current condition
 
 - [DORA DevOps Quick check](https://www.devops-research.com/quickcheck.html)
-- [IT Strategy DevOps Assesment Tool](https://sara-sabr.github.io/dora-js/)
+- [IT Strategy DevOps Self-Assesment Tool](https://sara-sabr.github.io/auto-evaluation-devops-self-assessment/)
 - Value stream mapping
 - ..
 
