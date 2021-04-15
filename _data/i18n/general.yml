@@ -83,11 +83,11 @@ blogs:
     en: Translated on
     fr: Traduit le
   previous:
-    en: Previous
-    fr: Précédent
+    en: Previous blog
+    fr: Blogue précédent
   next:
-    en: Next
-    fr: Prochain
+    en: Next blog
+    fr: Prochain blogue
 
 notices:
   notice:
