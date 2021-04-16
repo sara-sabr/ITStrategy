@@ -1,22 +1,22 @@
 {%- if page.lang == "fr" -%}
-<script>
-  if(/MSIE \d|Trident.*rv:/.test(navigator.userAgent)) {
+  <script>
+    if(/MSIE \d|Trident.*rv:/.test(navigator.userAgent)) {
       alert("Nous recommandons d'utiliser Edge, Firefox et autres navigateurs modernes au lieu d'Internet Explorer. Nous allons maintenant ouvrir ce site dans Edge pour une expérience optimale.")
-    window.location = 'microsoft-edge:' + window.location;
-    setTimeout(function() {
-      window.location = 'https://go.microsoft.com/fwlink/?linkid=2135547';
-    }, 1);
-  }
+      window.location = 'microsoft-edge:' + window.location;
+      setTimeout(function() {
+        window.location = 'https://go.microsoft.com/fwlink/?linkid=2135547';
+      }, 1);
+    }
   </script>
- {%- else -%}
- <script>
-  if(/MSIE \d|Trident.*rv:/.test(navigator.userAgent)) {
+{%- else -%}
+  <script>
+    if(/MSIE \d|Trident.*rv:/.test(navigator.userAgent)) {
       alert("We recommend to use Edge, Firefox and other modern browsers instead of Internet Explorer. We'll now open this website in Edge for an optimal experience.")  
-    window.location = 'microsoft-edge:' + window.location;
-    setTimeout(function() {
-      window.location = 'https://go.microsoft.com/fwlink/?linkid=2135547';
-    }, 1);
-  }
+      window.location = 'microsoft-edge:' + window.location;
+      setTimeout(function() {
+        window.location = 'https://go.microsoft.com/fwlink/?linkid=2135547';
+      }, 1);
+    }
   </script>
 {%- endif -%}
 
