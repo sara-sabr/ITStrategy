@@ -10,6 +10,7 @@ permalink: /presentation.html
 </section>
 
 <script>
+
 function getUrlVars() {
     var vars = {};
     var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m,key,value) {
@@ -56,5 +57,18 @@ else{
 
 document.getElementsByTagName("head")[0].appendChild(title)
 document.getElementById("markdown-slides").setAttribute("data-markdown", "./presentations/" + markdown);
+
+if(/MSIE \d|Trident.*rv:/.test(navigator.userAgent)) {
+  if ( markdown.match("fr/")){
+    alert("Nous recommandons d'utiliser Edge, Firefox et autres navigateurs modernes au lieu d'Internet Explorer. Nous allons maintenant ouvrir ce site dans Edge pour une expérience optimale.")
+  }
+  else{
+    alert("We recommend Edge, Firefox and other modern browsers instead of Internet Explorer. We'll now open this website in Edge for an optimal experience.")  
+  }
+  window.location = 'microsoft-edge:' + window.location;
+  setTimeout(function() {
+    window.location = 'https://go.microsoft.com/fwlink/?linkid=2135547';
+  }, 1);
+}
 
 </script>
