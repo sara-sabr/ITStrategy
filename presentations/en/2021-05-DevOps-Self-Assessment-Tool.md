@@ -4,7 +4,9 @@
 
 ## Capabilities of high performing IT organizations
 
-DevOps @ ESDC - 2021-05
+IT Strategy & DevOps CoE
+
+May 2021
 
 ---
 
