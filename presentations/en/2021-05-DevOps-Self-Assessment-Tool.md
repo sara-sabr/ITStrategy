@@ -4,9 +4,7 @@
 
 ## Capabilities of high performing IT organizations
 
-IT Strategy & DevOps CoE
-
-May 2021
+IT Strategy & DevOps CoE - May 2021
 
 ---
 
@@ -40,9 +38,10 @@ Promote continuous improvement through the use of a **DevOps Self Assessment Too
 
 - Learn about DevOps
 - Gather data to assess, analyse, implement and improve DevOps maturity, year over year at ESDC
-- Get recommendations on what your team can do to improve based on assessment results
+- Get recommendations on what your team can do to improve your capabilities
    - DevOps guidance will continuously improve over time
-- Aligned to Policy and Directive on Service and Digital
+- GC Digital Standards
+- TBS Policy and Directive on Service and Digital
 
 --
 
@@ -52,20 +51,23 @@ Promote continuous improvement through the use of a **DevOps Self Assessment Too
 
 ## What is it based on
 
-[DevOps Research & Assessment (DORA)](https://www.devops-research.com/research.html)*
+[DevOps Research & Assessment (DORA)](https://www.devops-research.com/research.html)
 
-- Over seven years of research
-- Data from over 31,000 professionals worldwide
+- Over seven years data and statistical analysis
+  - State of DevOps Reports
+- Data from over 30000 professionals worldwide
 
 Identifies **capabilities that drive high performance in technology** delivery and ultimately organizational outcomes.
 
-> \* Recently bought by Google
+> Recently bought by Google
 
 --
 
 ### Why DORA
 
-- 
+- Longest running study of its kind
+- Serious university research program
+- Based on statistical analysis
 
 ---
 
@@ -141,7 +143,7 @@ Questions ?
 ### Other Links
 
 - [DORA Capabilities](https://cloud.google.com/solutions/devops/capabilities)
-- [DORA Transformational Leadership](https://cloud.google.com/solutions/devops/devops-culture-transformational-leadership)
+  - [DORA Transformational Leadership](https://cloud.google.com/solutions/devops/devops-culture-transformational-leadership)
 - [DORA DevOps Quick check](https://www.devops-research.com/quickcheck.html)
 - [Microsoft DevOps Self-Assessment](https://devopsassessment.net/)
 
