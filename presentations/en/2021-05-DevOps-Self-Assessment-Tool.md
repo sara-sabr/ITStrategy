@@ -4,7 +4,7 @@
 
 ## Capabilities of high performing IT organizations
 
-SABR - IT Strategy - 2021-05
+IT Strategy & DevOps CoE - May 2021
 
 ---
 
@@ -15,7 +15,7 @@ SABR - IT Strategy - 2021-05
 - What is it based on
 - How to transform into high performing IT
 - How does it work
-- How long does it take and how often should I use it
+- What is involved
 - When and how can I get it
 - Demo
 
@@ -37,10 +37,49 @@ Promote continuous improvement through the use of a **DevOps Self Assessment Too
 ## Why use the tool
 
 - Learn about DevOps
-- Help establish a baseline on level of readiness and maturity to adopt DevOps
-- Recommendations on where and what to improve based on assessment results
-- Continuous improvement
-- Aligned to Policy and Directive on Service and Digital
+- Gather data to assess, analyse, implement and improve DevOps maturity, year over year at ESDC
+- Get recommendations on what your team can do to improve your capabilities
+  - DevOps guidance will continuously improve over time
+- GC Digital Standards
+- TBS Policy and Directive on Service and Digital
+
+--
+
+<img src="assets/images/improvement_method.png" alt="The image demonstrates assessment process methodology flow. It has five steps. Step 1. Assess your team performance and identify where it stands within DevOps. Step 2. Analyze and get your guidelines on how and what areas to improve. Step 3. Implement recommendations to achieve team desired outcomes. Step 4. Improve which means come back and re-take the survey to track your team progress.">
+
+---
+
+## What is it based on
+
+[DevOps Research & Assessment (DORA)](https://www.devops-research.com/research.html)
+
+- Over seven years of data and statistical analysis
+  - State of DevOps Reports (2014 to 2021)
+- Data from over 31000 professionals worldwide
+
+Identifies **capabilities that drive high performance in technology** delivery and ultimately organizational outcomes.
+
+> Recently bought by Google
+
+--
+
+### Why DORA
+
+- Longest running study of its kind
+- Based on statistical analysis
+- Not only technical capabilities
+- Real IT Organizations
+
+---
+
+## How to Transform
+
+### Continuous Improvement
+
+1. Set goals and enable team experimentation
+2. Build community structures to spread knowledge
+
+[DORA How To Transform](https://cloud.google.com/solutions/devops/devops-culture-transform)
 
 --
 
@@ -59,73 +98,25 @@ Promote continuous improvement through the use of a **DevOps Self Assessment Too
 - Time to restore service [1-24] hours
 - [Generative (Westrum) Culture](https://cloud.google.com/solutions/devops/devops-culture-westrum-organizational-culture)
 
----
-
-## What is it based on
-
-[DevOps Research & Assessment (DORA)](https://www.devops-research.com/research.html)*
-
-- Over six years of research
-- Data from over 31,000 professionals worldwide
-
-Identifies **capabilities that drive high performance in technology** delivery and ultimately organizational outcomes.
-
-> \* Recently bought by Google
-
----
-
-### How to Transform
-
-#### Continuous Improvement
-
-- [Capabilities](https://cloud.google.com/solutions/devops/capabilities)
-- [Transformational Leadership](https://cloud.google.com/solutions/devops/devops-culture-transformational-leadership)
-- [How To Transform](https://cloud.google.com/solutions/devops/devops-culture-transform)
-
 --
 
-## Process improvement methodology
+### DevOps @ ESDC
 
-<img src="assets/images/improvement_method.png" alt="The image demonstrates assessment process methodology flow. It has five steps. Step 1. Assess your team performance and identify where it stands within DevOps. Step 2. Analyze and get your guidelines on how and what areas to improve. Step 3. Implement recommendations to achieve team desired outcomes. Step 4. Improve which means come back and re-take the survey to track your team progress.">
-
---
-
-### Understand the current condition
-
-- [DORA DevOps Quick check](https://www.devops-research.com/quickcheck.html)
-- [IT Strategy DevOps Self-Assesment Tool](https://sara-sabr.github.io/auto-evaluation-devops-self-assessment/)
-- Value stream mapping
-- ..
-
---
-
-### Running experiments
-
-#### Ask the following questions
-
-- What are the current and target conditions?
-- What obstacles do you think are preventing you from reaching the target condition?
-- Which one are you addressing now?
-- What is your next step? What outcomes do you expect?
-- When can the results be evaluated to see what can be learned from taking that step?
+- DevOps Centre of Engagement (CoE)
+- Target SDM & Adopt, Buy or Build Strategies
+- Grassroots initiatives & Proof of concepts
+- Cloud sandbox
+- Engagement Strategy for "transformation"
 
 ---
 
 ## How does it work
 
-Survey with 11 sections
-
-Teams are encouraged to fill out every section, but it is possible to fill out individual sections independently.
-
---
-
 <img src="assets/images/Process.png" alt= "First, IT teams receive a link to take advantage of the DevOps Self-Assessment tool (example: IT Strategy website, email, coworker sharing. Then, the user is taking a survey after what it is scored based on responces. If the user scores high, which is 90-100%, the team is doing well. If the user scores medium, which is 50-89%, there is a room for the team to improve. If the user score low, which is 0-49%, the team needs to fill gaps with new learning opportunities. In all cases recommendations on where and how to improve will be provided. Finally, the user can save results.">
-
-[Demo](https://sara-sabr.github.io/auto-evaluation-devops-self-assessment/)
 
 ---
 
-## How Much Time
+## What is involved
 
 <img src="assets/images/sections.png" alt="The image shows how many sections has a survey. The survey has eveven sections. Teams are encouraged to fill out every section. It is possible to to fill out individual sections independently. How long does it take? The complete assessment takes under an hour. Each section takes 3-5 minutes. How often to use it? We recommend to use DevOps Self-Assessment tool every 6-12 month to measure teams progress and to reestablish baseline.">
 
@@ -139,9 +130,28 @@ Teams are encouraged to fill out every section, but it is possible to fill out i
 
 ---
 
-Demo
+[Demo](https://sara-sabr.github.io/auto-evaluation-devops-self-assessment/)
 
 Questions ?
+
+---
+
+## UX testing
+
+- Positive feedback
+- Easy to use
+- Nice looking
+
+"This should be available to everyone" - UX tester
+
+---
+
+### Other Links
+
+- [DORA Capabilities](https://cloud.google.com/solutions/devops/capabilities)
+  - [DORA Transformational Leadership](https://cloud.google.com/solutions/devops/devops-culture-transformational-leadership)
+- [DORA DevOps Quick check](https://www.devops-research.com/quickcheck.html)
+- [Microsoft DevOps Self-Assessment](https://devopsassessment.net/)
 
 ---
 
