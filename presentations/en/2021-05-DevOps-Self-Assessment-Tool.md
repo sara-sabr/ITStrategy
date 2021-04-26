@@ -53,9 +53,9 @@ Promote continuous improvement through the use of a **DevOps Self Assessment Too
 
 [DevOps Research & Assessment (DORA)](https://www.devops-research.com/research.html)
 
-- Over seven years data and statistical analysis
-  - State of DevOps Reports
-- Data from over 30000 professionals worldwide
+- Over seven years of data and statistical analysis
+  - State of DevOps Reports (2014 to 2021)
+- Data from over 31000 professionals worldwide
 
 Identifies **capabilities that drive high performance in technology** delivery and ultimately organizational outcomes.
 
@@ -66,8 +66,9 @@ Identifies **capabilities that drive high performance in technology** delivery a
 ### Why DORA
 
 - Longest running study of its kind
-- Serious university research program
 - Based on statistical analysis
+- Not only technical capabilities
+- Real IT Organizations
 
 ---
 
@@ -75,7 +76,10 @@ Identifies **capabilities that drive high performance in technology** delivery a
 
 ### Continuous Improvement
 
-- [How To Transform](https://cloud.google.com/solutions/devops/devops-culture-transform)
+1. Set goals and enable team experimentation
+2. Build community structures to spread knowledge
+
+[DORA How To Transform](https://cloud.google.com/solutions/devops/devops-culture-transform)
 
 --
 
@@ -96,11 +100,13 @@ Identifies **capabilities that drive high performance in technology** delivery a
 
 --
 
-### DevOps @ EADC
+### DevOps @ ESDC
 
-- Engagement Strategy for "Digital transformation"
-- DevOps Centre of Engagement
-- Target SDM
+- DevOps Centre of Engagement (CoE)
+- Target SDM & Adopt, Buy or Build Strategies
+- Grassroots initiatives & Proof of concepts
+- Cloud sandbox
+- Engagement Strategy for "transformation"
 
 ---
 
