@@ -39,7 +39,7 @@ Promote continuous improvement through the use of a **DevOps Self Assessment Too
 - Learn about DevOps
 - Gather data to assess, analyse, implement and improve DevOps maturity, year over year at ESDC
 - Get recommendations on what your team can do to improve your capabilities
-   - DevOps guidance will continuously improve over time
+  - DevOps guidance will continuously improve over time
 - GC Digital Standards
 - TBS Policy and Directive on Service and Digital
 
