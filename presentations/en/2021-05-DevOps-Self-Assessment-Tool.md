@@ -20,7 +20,7 @@ DevOps CoE & IT Strategy - May 2021
 
 ## Why are we here
 
-- DevOps self-assessment tool
+**DevOps self-assessment tool**
 
 > Continuous improvement of capabilities that drive high performance in IT organizations.
 
@@ -44,14 +44,16 @@ Identifies **capabilities that drive high performance in IT** delivery and organ
 ### DORA/DevOps Capabilities
 
 - **Cultural**
- - Learning, Job satisfaction
+  - Learning, Job satisfaction
 - **Measurement**
- - Monitoring to inform business decisions
+  - Monitoring to inform business decisions
 - **Process**
+  - Experimentation
   - Streamlining change approval
 - **Technical**
   - CI/CD & Architecture
-  - OSS & Cloud infrastructure
+  - Cloud infrastructure & Testing
+  - Databases & Test data management
 
 ---
 
@@ -60,7 +62,8 @@ Identifies **capabilities that drive high performance in IT** delivery and organ
 ### Continuous Improvement
 
 - Set goals and enable team experimentation
-- Leaders and teams agree on and communicate measurable outcomes and teams determine how to achieve them
+- Leaders and teams agree on and communicate measurable outcomes
+  - Teams determine how to achieve them
 
 [DORA How To Transform](https://cloud.google.com/solutions/devops/devops-culture-transform)
 
@@ -113,7 +116,7 @@ Identifies **capabilities that drive high performance in IT** delivery and organ
 **UX tested with 8 users**
 
 - We received positive feedback
-- Future iteration based on user observations or comments
+- Future iteration will be based on user feedback
 
 > "I have to say I am quite impressed that in the GC someone is doing this kind of work." - Anonymous User
 
