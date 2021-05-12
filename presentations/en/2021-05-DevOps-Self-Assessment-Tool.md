@@ -20,7 +20,7 @@ DevOps CoE & IT Strategy - May 2021
 
 ## Why are we here
 
-**DevOps self-assessment tool**
+DevOps self-assessment tool
 
 > Continuous improvement of capabilities that drive high performance in IT organizations.
 
@@ -92,7 +92,7 @@ Identifies **capabilities that drive high performance in IT** delivery and organ
 
 - Learn about DevOps and IT Capabilities
 - Gather data to assess, analyse, implement and improve DevOps maturity, year over year at ESDC
-- Determine your teams' alignment to DORA 
+- Determine your teams' alignment to DORA
   - Get recommendations on what your team can do to improve its capabilities
 
 > DevOps objectives and guidance will continuously improve over time
@@ -113,7 +113,7 @@ Identifies **capabilities that drive high performance in IT** delivery and organ
 
 ## We've done our homework
 
-**UX tested with 8 users**
+UX tested with 8 users
 
 - We received positive feedback
 - Future iteration will be based on user feedback
