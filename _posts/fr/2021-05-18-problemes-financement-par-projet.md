@@ -79,7 +79,7 @@ Des décisions qui, pour être prises, s'attendent à ce que les estimations de 
 ## Des effets plus importants pour le ministère
 
 La gestion de projet est une méthode d'investissement destinée à être utilisée lorsqu'il y a une grande certitude dans un problème et un grand accord envers une solution[^8].
-Mais si nous n'en sommes pas sûrs, comme c'est le cas avec le passage au numérique où la "définition de fini" est prescrit par l'utilisateur final, quel instrument d'investissement pouvons-nous utiliser?
+Mais si nous n'en sommes pas sûrs, comme c'est le cas avec le passage au numérique où la "définition de fini" est prescrite par l'utilisateur final, quel instrument d'investissement pouvons-nous utiliser?
 
 De nombreuses sources soulignent le faible taux de réussite des grands projets axés sur les TI[^9]. Probablement dû au fait que nous quantifions le "succès" comme étant le respect des délais, du budget et des exigences, au lieu d'évaluer le logiciel aide le ministère à atteindre ses objectifs ou non.
 
