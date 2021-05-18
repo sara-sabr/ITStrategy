@@ -76,7 +76,7 @@ We will make more and more use of open standards and OSS – in areas where it i
 
 > ESDC leverages the transformative, innovative, and collaborative power of open standards and OSS, encouraging the sharing and reuse of solutions, knowledge and expertise, to deliver better Canadian services that enrich society and focus on lowering costs to that society.
 
-The title of this strategy, ‘Open First', points to a change in mindset whereby the development of software solutions takes account of openness, sharing and reuse, security, privacy, legal considerations and accessibility.
+The title of this strategy, ‘Open First', points to a change in mindset whereby the acquisition and development of software solutions takes account of openness, sharing and reuse, security, privacy, legal considerations and accessibility.
 It also indicates a commitment actively to support OSS developer communities
 
 ## 3. Commitment
@@ -161,7 +161,7 @@ Below are the six principles that govern the strategy:
 
 ### Current situation and lessons learned
 
-### The right balance
+TODO: OSS Framework has identified current state as (see Framework for more details) Mainly OSS is in use already but before Framework wasn't clear on how to maintain best practices. Framework approved but not implemented. 
 
 ### Open First Center of Enablement (CoE)
 
