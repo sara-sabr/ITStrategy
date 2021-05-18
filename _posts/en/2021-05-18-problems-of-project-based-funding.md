@@ -3,7 +3,7 @@ layout: post
 title: "The Problems with Project-Based funding for IT organizations"
 ref: problems-project-based-funding
 lang: en
-author: "Rémy Bernard, in collaboration with the IT Strategy team"
+author: "Rémy Bernard, en collaboration avec l'équipe de Stratégie TI"
 date: "2021-05-18"
 last_modified: "2021-05-18"
 excerpt_separator: <!--more-->
@@ -25,7 +25,9 @@ th {
 img + em { display: inline-block; }
 </style>
 
-In this blog, we highlight how the traditional project-based approach to funding and management of technology investments is hurting IT organizations and, as a consequence, departments' ability to [iterate and improve frequently](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html.
+6 min read <!-- used http://www.niram.org/read/ -->
+
+In this blog, we highlight how the traditional project-based approach to funding and management of technology investments is hurting IT organizations and, as a consequence, departments' ability to [iterate and improve frequently](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html).
 This is a continuation from a [previous blog](https://sara-sabr.github.io/ITStrategy/2020/10/27/cio-digital-transformation.html) where we suggested that Chief Financial Officers (CFOs) are essential in bringing a Digital Transformation vision into a reality.
 
 <!--more-->
