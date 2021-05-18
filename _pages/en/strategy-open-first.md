@@ -214,7 +214,7 @@ In addition, by simplifying the rules on sharing ESDC software and contributing 
 
 | Actions | Impact |
 |---|---|
-| Set up Open Source Programme Office | Expedite all activities in the action plan |
+| Set up Open First Center of Enablement | Expedite all activities in the action plan |
 | Set and promote the inner source default | Enable co-creation and collaboration |
 | Enhance the software repository | Enable co-creation and collaboration |
 | Revise software distribution practices | Process simplification; lower cost to society |
@@ -226,7 +226,7 @@ In addition, by simplifying the rules on sharing ESDC software and contributing 
 | Encourage and promote inner source | Instrumental to success of strategy and actions |
 
 These actions will provide the tools to reinforce and extend the open-source working culture.
-Our source code will gradually become available to all developer teams in the Commission.
+Our source code will gradually become available to all developer teams in ESDC and the Government of Canada.
 Once the legal barriers are removed, we will make an increasing number of our solutions publicly available.
 We will then also be able to contribute to the tools on which we depend.
 This will help prepare us to accept contributions to our own work from outside the organisation.
