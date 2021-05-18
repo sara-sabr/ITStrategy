@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Les problèmes du financement par projet pour les organisations informatiques"
+title: "Les problèmes du financement par projet pour les organisations TI"
 ref: problèmes-financement-par-projet
 lang: fr
 author: "Rémy Bernard, in collaboration with the IT Strategy team"
