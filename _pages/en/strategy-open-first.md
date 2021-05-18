@@ -126,13 +126,33 @@ This chapter sets out the key reasons and principles underlying the new strategy
 
 ### Progress towards digital autonomy
 
+Change is a constant the department has to continuously take into account when acquiring and developing software based solutions to offer services to its citizens.
+
+As such, it must integrate flexibility and course correction as part of its non-functional requirements.
+It must become digitally autonomous in its decisions while leveraging all possible options devising its solutions.
+
 ### Implementing the Policy on Service and Digital
+
+Canada has established clear vision and designed it policies to nudge departments towards it.
+By adopting this strategy, ESDC is taking another step in realizing the vision outlined by the governement.
 
 ### Sharing and reuse benefits all
 
+Working in the open, including software development, helps ensure that the resources used in the development of solutions for Canadians are 
+This approach also enables further collaboration across the multiple jurisdictions within the country and with private sector as well.
+
 ### Contribute to the knowledge society
 
+Work done in the open supports greater transparency and accountability, ensuring that citizens can trust the public service in doing due diligence.
+
+It helps contribute to the greater good by sharing knowledge and to ensure perenniality of investments done with our citizens money.
+
 ### Build a world class public service
+
+The rest of the world has realized the value of working in the open by default.
+Canada has a policy in line with the world's best approaches.
+
+By adopting this strategy, ESDC is taking a stand and moves towards a world class public service.
 
 ## 5. Governing Principles
 
@@ -147,9 +167,16 @@ Below are the six principles that govern the strategy:
 
 ### Open First
 
+By default, all work without classified information should be open.
+Security and privacy methods and tools should be made available for all to ensure that this practice can be accomplished with the least barriers as possible.
+
 ### Transform
 
+Culture change? Aligns with DevOps, digital standards, etc.
+
 ### Share
+
+At inception of the idea, make your work open and discoverable.
 
 ### Contribute
 
