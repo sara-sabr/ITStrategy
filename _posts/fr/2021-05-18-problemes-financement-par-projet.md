@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Les problèmes du financement par projet pour les organisations informatiques"
-ref: problemes-financement-par-projet
+ref: problèmes-financement-par-projet
 lang: fr
 author: "Rémy Bernard, in collaboration with the IT Strategy team"
 date: "2021-05-18"
@@ -28,7 +28,7 @@ img + em { display: inline-block; }
 6 min de lecture <!-- used http://www.niram.org/read/ -->
 
 Dans ce blog, nous soulignons comment l'approche traditionnelle basée sur les projets pour le financement et la gestion des investissements technologiques nuit aux organisations TI et, par conséquent, à la capacité des ministères à [effectuer régulièrement des itérations et des améliorations](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html).
-Il s'agit de la suite d'un [buillet précédent](https://sara-sabr.github.io/ITStrategy/2020/10/27/cio-digital-transformation.html) où nous avons suggéré que les directeurs principaux des finances (DPF) sont essentiels pour amener une vision de transformation numérique en une réalité.
+Il s'agit de la suite d'un [billet précédent](https://sara-sabr.github.io/ITStrategy/2020/10/27/cio-digital-transformation.html) où nous avons suggéré que les directeurs principaux des finances (DPF) sont essentiels pour amener une vision de transformation numérique en une réalité.
 
 <!--more-->
 
@@ -106,10 +106,10 @@ Un billet ultérieur sera publié pour partager nos réflexions sur le sujet de 
 [^2]: Il y avait 26 projets pour lesquels les données étaient suffisantes pour mesurer le délai moyen de démarrage de l'étape 4.
 [^3]: L'approbation des dépenses signifie que le travail proposé (incorporé comme présentation au CT) s'aligne sur les priorités parlementaires et fait partie du mécanisme par lequel le gouvernement montre qu'il est responsable devant un parlement démocratiquement élu. Voir cet [excellent cours en ligne](https://csps-efpc.gc.ca/catalogue/courses-fra.aspx?code=F112) sur le sujet.
 [^4]: De multiples ouvrages et recherches sur le sujet viennent appuyer cette affirmation, incluant [Team Topologies](https://teamtopologies.com/), [Project to Product](https://projecttoproduct.org/), [Leading the Transformation – Applying Agile and DevOps at Scale](https://itrevolution.com/about-the-book-leading-the-transformation/), et le [DevOps Research and Assessment (DORA) institute](https://www.devops-research.com/research.html)
-[^5]: Alors que de petites applications logicielles peuvent être gérées par une seule équipe, les applications à grande échelle nécessitent une collaboration avec d'autres équipes telles que la sécurité informatique, les professionnels des données, l'assurance qualité, l'équipe de la plateforme, l'ingénierie nuagique, les administrateurs système, et les architectes.
-[^6]: Les auteurs du livire [Leading the Transformation](https://itrevolution.com/about-the-book-leading-the-transformation/) suggèrent que les coûts des logiciels augmentent de 20 à 30 % en raison de cette méthode "waterfall".
+[^5]: Alors que de petites applications logicielles peuvent être gérées par une seule équipe, les applications à grande échelle nécessitent une collaboration avec d'autres équipes telles que la sécurité informatique, les professionnels des données, l'assurance qualité, l'équipe de la plateforme, l'ingénierie infonuagique, les administrateurs système, et les architectes.
+[^6]: Les auteurs du livre [Leading the Transformation](https://itrevolution.com/about-the-book-leading-the-transformation/) suggèrent que les coûts des logiciels augmentent de 20 à 30 % en raison de cette méthode "waterfall".
 [^7]: Le logiciel est un processus créatif où chaque nouveau problème à résoudre est différent des précédents. Un projet logiciel ne peut pas simplement être quantifié en termes de nombre de lignes de code, de nombre de défauts à corriger ou de nombre d'exigences. Si vous êtes un professionnel de l'informatique, vous le savez. Si ce n'est pas le cas, cela est souligné dans les livres et les recherches [Team Topologies](https://teamtopologies.com/), [Project to Product](https://projecttoproduct.org/), [Leading the Transformation – Applying Agile and DevOps at Scale](https://itrevolution.com/about-the-book-leading-the-transformation/), et le [DevOps Research and Assessment (DORA) institute](https://www.devops-research.com/research.html)
-[^8]: [What is Product Management in Government?](https://scottcolfer.com/2019/01/02/what-is-product-management.html) par Scott Colfer, chef de produit au gouvernment du Royaume-Uni
+[^8]: [What is Product Management in Government?](https://scottcolfer.com/2019/01/02/what-is-product-management.html) par Scott Colfer, chef de produit au gouvernement du Royaume-Uni
 [^9]: [L'étude CHAOS du Standish Group](https://standishgroup.com/sample_research_files/CHAOSReport2015-Final.pdf), 5 rapports du Vérificateur Général ([2006 Novembre](https://www.oag-bvg.gc.ca/internet/Francais/parl_oag_200611_03_f_14971.html), [2010 Spring](https://www.oag-bvg.gc.ca/internet/Francais/parl_oag_201004_01_f_33714.html), [2011 June](https://www.oag-bvg.gc.ca/internet/Francais/parl_oag_201106_02_f_35370.html), [2015 Spring](https://www.oag-bvg.gc.ca/internet/Francais/parl_oag_201504_05_f_40351.html), [2018 Spring](https://www.oag-bvg.gc.ca/internet/Francais/parl_oag_201805_01_f_43033.html)), [McKinsey Digital sur la livraison de projets TI d'envergures](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/delivering-large-scale-it-projects-on-time-on-budget-and-on-value?cid=soc-web), et les questions [de la chambre des communes de juin 2016 et mai 2019](https://large-government-of-canada-it-projects.github.io/) au sujet de projets TI de plus de 1 million de dollars
 [^10]: Ronny Kohavi et al, [Online Experiments at Microsoft](https://ai.stanford.edu/~ronnyk/ExPThinkWeek2009Public.pdf), 2009
 [^11]: Ronny Kohavi et al, [Online Experiments at Microsoft](https://ai.stanford.edu/~ronnyk/ExPThinkWeek2009Public.pdf), 2009, section 5.1
