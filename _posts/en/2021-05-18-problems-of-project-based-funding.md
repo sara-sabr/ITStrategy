@@ -25,8 +25,6 @@ th {
 img + em { display: inline-block; }
 </style>
 
-6 min read <!-- used http://www.niram.org/read/ -->
-
 In this blog, we highlight how the traditional project-based approach to funding and management of technology investments is hurting IT organizations and, as a consequence, departments' ability to [iterate and improve frequently](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html).
 This is a continuation from a [previous blog](https://sara-sabr.github.io/ITStrategy/2020/10/27/cio-digital-transformation.html) where we suggested that Chief Financial Officers (CFOs) are essential in bringing a Digital Transformation vision into a reality.
 

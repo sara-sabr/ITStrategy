@@ -25,8 +25,6 @@ th {
 img + em { display: inline-block; }
 </style>
 
-6 min de lecture <!-- used http://www.niram.org/read/ -->
-
 Dans ce blog, nous soulignons comment l'approche traditionnelle basée sur les projets pour le financement et la gestion des investissements technologiques nuit aux organisations TI et, par conséquent, à la capacité des ministères à [effectuer régulièrement des itérations et des améliorations](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html).
 Il s'agit de la suite d'un [billet précédent](https://sara-sabr.github.io/ITStrategy/2020/10/27/cio-digital-transformation.html) où nous avons suggéré que les directeurs principaux des finances (DPF) sont essentiels pour amener une vision de transformation numérique en une réalité.
 
