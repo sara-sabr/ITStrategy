@@ -31,16 +31,6 @@
   interests: Open Source Software, Accessibility, Inclusion, Community
   interets: Logiciels libres, Accessibilité, Inclusion, Communauté
   picture_path: assets/images/profile-guillaume.png
-- name: My Thuy Pham-Vo
-  title: Programmer Analyst
-  titre: Analyste programmeuse
-  email: mythuy.phamvo@hrsdc-rhdcc.gc.ca
-  couriel: mythuy.phamvo@rhdcc-hrsdc.gc.ca
-  github: myp192
-  linkedin: my-thuy-pham-vo-b4737612a
-  interests: Data analytics, Business Relations, Business Intelligence, Enterprise Architecture
-  interets: Analyses des données, Relations d'affaires, intelligence d'affaires, Architecture d'entreprise
-  picture_path: assets/images/profile-my.jpeg
 - name: Rachel Muston
   title: Advisor
   titre: Conseiller
@@ -79,6 +69,6 @@
   email: philipe.girard@hrsdc-rhdcc.gc.ca
   couriel: philipe.girard@rhdcc-hrsdc.gc.ca
   github: philipe-girard
-  interests: Upcoming!
-  interets: À venir!
-  picture_path: assets/images/profile-phil.png
+  interests: Sports, reading, family
+  interets: Sports, lecture, famille
+  picture_path: assets/images/profile-phil.jpg
