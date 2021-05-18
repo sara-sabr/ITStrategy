@@ -58,10 +58,10 @@ Cette équipe de produit dépensera beaucoup d'énergie à planifier les attente
 
 <!-- ajouter une image ici -->
 
-Lorsque la redéfinition des priorités au niveau de l'organisation se produit, un changement à grande échelle des demandes se produit.
+Lorsqu'une re-priorisation au niveau de l'organisation se produit, un changement à grande échelle des demandes se produit.
 La capacité interne limitée de l'organisation informatique doit être réajustée pour suivre ce nouvel ensemble de priorités.
 Cela entraîne généralement une réaffectation des fonds des services votés pour remplir les engagements pris à l'avance à l'égard des nouveaux projets prioritaires, car l'organisation TI ne peut pas attendre que de nouveaux fonds soient libérés (fonds provenant des programmes qui financent ces projets ou libérés par les présentations au CT).
-L'organisation de TI doit donc puiser dans les fonds dont elle dispose actuellement, soit dans le financement des programmes existants, soit dans la [niveau de références](https://www.oag-bvg.gc.ca/internet/Francais/parl_oag_200611_00_f_14968.html#ch0hd3d).
+L'organisation de TI doit donc puiser dans les fonds dont elle dispose actuellement, soit dans le financement des programmes existants, soit dans le [niveau de références](https://www.oag-bvg.gc.ca/internet/Francais/parl_oag_200611_00_f_14968.html#ch0hd3d).
 Le budget de base de l'organisation TI, qui finance sa main-d'œuvre salariale destinée à "maintenir les lumières allumées" (opérations de base), est alors fortement impliqué dans la réalisation du travail jusqu'à ce que le financement soit ajusté, que les processus de RH pour l'embauche de nouveaux postes soient terminés et que les processus d'approvisionnement pour l'acquisition de services soient terminés.
 
 <!-- autre image ici -->
