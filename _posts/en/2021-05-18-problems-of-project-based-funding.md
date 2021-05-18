@@ -25,7 +25,7 @@ th {
 img + em { display: inline-block; }
 </style>
 
-In this blog, we highlight how the traditional project-based approach to funding eand management of technology investments is hurting IT organizations and, as a consequence, departments' ability to [iterate and improve frequently](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html.
+In this blog, we highlight how the traditional project-based approach to funding and management of technology investments is hurting IT organizations and, as a consequence, departments' ability to [iterate and improve frequently](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html.
 This is a continuation from a [previous blog](https://sara-sabr.github.io/ITStrategy/2020/10/27/cio-digital-transformation.html) where we suggested that Chief Financial Officers (CFOs) are essential in bringing a Digital Transformation vision into a reality.
 
 <!--more-->
@@ -60,7 +60,7 @@ This product team will spend a great deal of energy on planning expectations of 
 
 When re-prioritization at the organization level occurs, a large-scale shift in demands occurs.
 The limited internal capacity of the IT organization needs to be re-adjusted to follow this new set of priorities.
-This usually results in A-Base funding re-allocation to fulfill pre-made commitments to the new priority projects  becausethe IT organization cannot wait for new funds to be released (funds from the programs funding these projects or released by TB subs).
+This usually results in A-Base funding re-allocation to fulfill pre-made commitments to the new priority projects  because the IT organization cannot wait for new funds to be released (funds from the programs funding these projects or released by TB subs).
 This leaves the IT organizations dipping into funds it currently has: either from existing program funding or [ARLU](https://www.oag-bvg.gc.ca/internet/English/parl_oag_200611_00_e_14968.html#ch0hd3d).
 The IT organization’s A-Base, funding its salary workforce meant to keep the lights on (operations), is then heavily involved in carrying the work until funding gets adjusted, HR processes for hiring new positions completes, and Procurement processes for acquiring services finishes.
 
