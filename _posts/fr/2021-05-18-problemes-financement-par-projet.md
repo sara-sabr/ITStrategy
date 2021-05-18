@@ -86,7 +86,7 @@ De nombreuses sources soulignent le faible taux de réussite des grands projets 
 Il y a un autre effet négatif de s'enfermer dans un délai de livraison trop long : 50% de tous les logiciels ne sont jamais utilisés ou n'atteignent pas leurs objectifs opérationnels[^10]. Même si les améliorations d'affaire devraient d'abord commencer par une recherche sur les utilisateurs, tant qu'une fonctionnalité n'est pas mise entre les mains de l'utilisateur, nous ne pouvons pas être sûrs à 100% de sa valeur.
 En fait, une recherche de Microsoft a montré que seulement environ 1/3 des fonctionnalités bien conçues et bien étudiées dans les produits matures apportent une valeur ajoutée aux organisations[^11].
 
-## PassaPasser à une méthode différente de gestion d'investissements pour logiciels
+## Passer à une méthode différente de gestion d'investissements pour logiciels
 
 Puisque nous nous attendons à ce que le passage au numérique signifie que les opérations d'affaires seront effectuées à l'aide de logiciels, il nous justifie de revoir la façon dont nous finançons les investissements en logiciels afin de permettre une rétroaction plus rapide entre les décideurs politiques et les utilisateurs finaux.
 Ceci afin de répondre à la [deuxième norme numérique du gouvernement du Canada](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html): effectuer régulièrement des itérations et des améliorations.
