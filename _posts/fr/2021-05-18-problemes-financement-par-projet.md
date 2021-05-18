@@ -100,6 +100,8 @@ Nous cherchons à voir si nous pouvons ajuster la boîte à outils de nos instru
 
 Un billet ultérieur sera publié pour partager nos réflexions sur le sujet de la gestion de produit et la façon dont nous pensons qu'elle pourrait être mise en œuvre dans le gouvernement...
 
+## Notes
+
 [^1]: Par "projet axé sur les TI", on entend un projet comportant une composante technologique. Le nombre 103 provient d'un capture du centre de projet datant du 2021-03-29 et comprend les projets dont le statut est approuvé (commencé ou non commencé) ou en attente.
 [^2]: Il y avait 26 projets pour lesquels les données étaient suffisantes pour mesurer le délai moyen de démarrage de l'étape 4.
 [^3]: L'approbation des dépenses signifie que le travail proposé (incorporé comme présentation au CT) s'aligne sur les priorités parlementaires et fait partie du mécanisme par lequel le gouvernement montre qu'il est responsable devant un parlement démocratiquement élu. Voir cet [excellent cours en ligne](https://csps-efpc.gc.ca/catalogue/courses-fra.aspx?code=F112) sur le sujet.

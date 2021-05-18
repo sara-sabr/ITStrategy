@@ -100,6 +100,8 @@ We are looking to see if we can adjust our investment management instruments too
 
 A subsequent blog will be posted to share our thoughts on the topic of product management and how it we think it could be implemented in government…
 
+## Notes
+
 [^1]: IT-Enabled means a project with a technology component. The 103 number comes from a 2021-03-29 snapshot and includes projects with a status of approved (started or not started) or on hold
 [^2]: There were 26 projects with sufficient data to measure the average time to start stage 4
 [^3]: Expenditure Approval means that the work proposed (packaged as a TB sub) aligns with parliamentary priorities and is part of the mechanism government can show accountability to a democratically elected parliament. See this [excellent online course](https://csps-efpc.gc.ca/Catalogue/courses-eng.aspx?code=F112) on the subject.
