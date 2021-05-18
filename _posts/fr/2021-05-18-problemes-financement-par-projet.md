@@ -81,7 +81,7 @@ Des décisions qui, pour être prises, s'attendent à ce que les estimations de 
 La gestion de projet est une méthode d'investissement destinée à être utilisée lorsqu'il y a une grande certitude dans un problème et un grand accord envers une solution[^8].
 Mais si nous n'en sommes pas sûrs, comme c'est le cas avec le passage au numérique où la "définition de fini" est prescrite par l'utilisateur final, quel instrument d'investissement pouvons-nous utiliser?
 
-De nombreuses sources soulignent le faible taux de réussite des grands projets axés sur les TI[^9]. Probablement dû au fait que nous quantifions le "succès" comme étant le respect des délais, du budget et des exigences, au lieu d'évaluer le logiciel aide le ministère à atteindre ses objectifs ou non.
+De nombreuses sources soulignent le faible taux de réussite des grands projets axés sur les TI[^9]. Probablement dû au fait que nous quantifions le "succès" comme étant le respect des délais, du budget et des exigences, au lieu d'évaluer si le logiciel aide le ministère à atteindre ses objectifs ou non.
 
 Il y a un autre effet négatif à s'enfermer dans un délai de livraison trop long : 50% de tous les logiciels ne sont jamais utilisés ou n'atteignent pas leurs objectifs opérationnels[^10]. Même si les améliorations d'affaire devraient d'abord commencer par une recherche sur les utilisateurs, tant qu'une fonctionnalité n'est pas mise entre les mains de l'utilisateur, nous ne pouvons pas être sûrs à 100% de sa valeur.
 En fait, une recherche de Microsoft a montré que seulement environ 1/3 des fonctionnalités bien conçues et bien étudiées dans les produits matures apportent une valeur ajoutée aux organisations[^11].
