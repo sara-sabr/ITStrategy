@@ -79,7 +79,7 @@ Le budget de base de l'organisation TI, qui finance sa main-d'œuvre salariale d
         style="width: 800px; height: inherit;"
         />
     </a>
-    <small>Figure 1. Une re-priorisation de projets oblige les équipes financées par les service votés à assumer la charge de travail jusqu'à ce que de nouveaux fonds soient disponibles pour augmenter la capacité interne.</small>
+    <small>Figure 2. Une re-priorisation de projets oblige les équipes financées par les service votés à assumer la charge de travail jusqu'à ce que de nouveaux fonds soient disponibles pour augmenter la capacité interne.</small>
 </div>
 
 De plus, il convient de noter que cet effort de planification préalable est réalisé en utilisant la capacité interne et finit par être partiellement gaspillé[^6].

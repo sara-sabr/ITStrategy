@@ -79,7 +79,7 @@ The IT organization’s A-Base, funding its salary workforce meant to keep the l
         style="width: 800px; height: inherit;"
         />
     </a>
-    <small>Figure 1. Re-prioritization of projects will require A-Base funded teams to take the load until new project funds are made available to increase internal capacity</small>
+    <small>Figure 2. Re-prioritization of projects will require A-Base funded teams to take the load until new project funds are made available to increase internal capacity</small>
 </div>
 
 Additionally, it's worth noting that this advance planning effort is done using internal capacity and ends up partially wasted[^6].
