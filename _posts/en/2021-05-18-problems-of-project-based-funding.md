@@ -57,13 +57,13 @@ An IT team responsible for a product is in a constant struggle to re-adjust its 
 This product team will spend a great deal of energy on planning expectations of work with other peer IT teams[^5] to be able to fulfil commitments it made to all these projects.
 
 <div style="display: block; width: inherit; text-align: center; line-height: 3;">
-    <a href="/ITStrategy/assets/images/image-placeholder.png" style="display: block">
+    <a href="/ITStrategy/assets/images/project-planning-effect-on-product-teams-en.png" style="display: block">
         <img src = "{{ site.baseurl }}/assets/images/project-planning-effect-on-product-teams-en.png"
-        alt = "This image depicts a feedback process loop. The image shows three icons: Policy Makers, Technology and Canadians. Between each icon there is an arrow showing a relationship as follows: Policy Makers must use Technology to implement their policies, Technology is then used to deliver services to Canadians, and after interacting with a service, Canadians provide their feedback to Policy Makers."
+        alt = "This image depicts the cognitive load of multiple projects hitting a product team, and that product team needing to coordinate and plan with other IT teams (that are part of the value stream). Ultimately, the product team is being asked to provide costing and scheduling estimates for each individual projects. Providing this information is also work."
         style="width: 500px; height: inherit;"
         />
     </a>
-    <small>Figure 1. The feedback loop policy makers need pass through technology</small>
+    <small>Figure 1. Multiple projects hitting the product team, requiring them to coordinate with the other teams involved in the value stream</small>
 </div>
 
 When re-prioritization at the organization level occurs, a large-scale shift in demands occurs.
@@ -72,7 +72,15 @@ This usually results in A-Base funding re-allocation to fulfill pre-made commitm
 This leaves the IT organizations dipping into funds it currently has: either from existing program funding or [ARLU](https://www.oag-bvg.gc.ca/internet/English/parl_oag_200611_00_e_14968.html#ch0hd3d).
 The IT organization’s A-Base, funding its salary workforce meant to keep the lights on (operations), is then heavily involved in carrying the work until funding gets adjusted, HR processes for hiring new positions completes, and Procurement processes for acquiring services finishes.
 
-<!-- other image here -->
+<div style="display: block; width: inherit; text-align: center; line-height: 3;">
+    <a href="/ITStrategy/assets/images/project-reprioritization-effects-en.png" style="display: block">
+        <img src = "{{ site.baseurl }}/assets/images/project-reprioritization-effects-en.png"
+        alt = "This image depicts the effects of re-prioritization has on IT teams. It involves having to re-do planning work, asking the A-Base funded teams to shift their attention to the new projects until new funds are made available to release the A-Base teams when the organization hired specialized staff meant for those projects."
+        style="width: 500px; height: inherit;"
+        />
+    </a>
+    <small>Figure 1. Re-prioritization of projects will require A-Base funded teams to take the load until new project funds are made available to increase internal capacity</small>
+</div>
 
 Additionally, it's worth noting that this advance planning effort is done using internal capacity and ends up partially wasted[^6].
 Doing extensive planning and design work that locks us into a rigidly defined feature set does not take advantage of the fact that software can be quickly and easily modified (if [well architected](https://cloud.google.com/architecture/devops/devops-tech-architecture)) to incorporate new functionality that we didn't even know about when we did the planning and scheduling several months prior.

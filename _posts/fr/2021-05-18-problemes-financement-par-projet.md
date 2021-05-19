@@ -56,7 +56,15 @@ Le problème survient lorsqu'une grande quantité de planification préalable, l
 Une équipe informatique responsable d'un produit doit constamment réajuster son travail en fonction de l'évolution de la demande, tout en fournissant des estimations de coûts à long terme pour ces projets individuels.
 Cette équipe de produit dépensera beaucoup d'énergie à planifier les attentes de travail avec d'autres équipes informatiques homologues[^5] pour être en mesure de respecter les engagements qu'elle a pris envers tous ces projets.
 
-<!-- ajouter une image ici -->
+<div style="display: block; width: inherit; text-align: center; line-height: 3;">
+    <a href="/ITStrategy/assets/images/image-placeholder.png" style="display: block">
+        <img src = "{{ site.baseurl }}/assets/images/project-planning-effect-on-product-teams-fr.png"
+        alt = "Cette image illustre les effets sur la charge cognitive d'une équipe de produit lorsque plusieurs projets la frappe. Cette équipe se doit de coordonner et planifier avec d'autres équipes informatiques (qui font partie du flux de valeur pour le produit). En fin de compte, on demande à l'équipe produit de fournir des estimations de coûts et de calendrier pour chaque projet individuel. Fournir ces informations est également un travail."
+        style="width: 500px; height: inherit;"
+        />
+    </a>
+    <small>Figure 1. De multiples projets convergent sur une équipe produit, lui demandant de coordonner le travail avec les autres équipes impliquées dans le flux de valeur du produit.</small>
+</div>
 
 Lorsqu'une re-priorisation au niveau de l'organisation se produit, un changement à grande échelle des demandes se produit.
 La capacité interne limitée de l'organisation informatique doit être réajustée pour suivre ce nouvel ensemble de priorités.
@@ -64,7 +72,15 @@ Cela entraîne généralement une réaffectation des fonds des services votés p
 L'organisation de TI doit donc puiser dans les fonds dont elle dispose actuellement, soit dans le financement des programmes existants, soit dans le [niveau de références](https://www.oag-bvg.gc.ca/internet/Francais/parl_oag_200611_00_f_14968.html#ch0hd3d).
 Le budget de base de l'organisation TI, qui finance sa main-d'œuvre salariale destinée à "maintenir les lumières allumées" (opérations de base), est alors fortement impliqué dans la réalisation du travail jusqu'à ce que le financement soit ajusté, que les processus de RH pour l'embauche de nouveaux postes soient terminés et que les processus d'approvisionnement pour l'acquisition de services soient terminés.
 
-<!-- autre image ici -->
+<div style="display: block; width: inherit; text-align: center; line-height: 3;">
+    <a href="/ITStrategy/assets/images/project-reprioritization-effects-fr.png" style="display: block">
+        <img src = "{{ site.baseurl }}/assets/images/project-reprioritization-effects-fr.png"
+        alt = "Cette image illustre les effets qu'une repriorisation a sur les équipes TI. Il s'agit de refaire le travail de planification, de demander aux équipes financées par les services votés de porter leur attention sur les nouveaux projets jusqu'à ce que de nouveaux fonds soient disponibles pour engager du personnel spécialisé et libérer les équipes financées par les services votés de ces priorités."
+        style="width: 500px; height: inherit;"
+        />
+    </a>
+    <small>Figure 1. Une repriorisation de projets oblige les équipes financées par les service votés à assumer la charge de travail jusqu'à ce que de nouveaux fonds soient disponibles pour augmenter la capacité interne.</small>
+</div>
 
 De plus, il convient de noter que cet effort de planification préalable est réalisé en utilisant la capacité interne et finit par être partiellement gaspillé[^6].
 Réaliser un travail de planification et de conception approfondi qui nous enferme dans un ensemble de fonctionnalités rigidement définies ne tire pas profit du fait que les logiciels peuvent être rapidement et facilement modifiés (s'ils sont [bien architecturés](https://cloud.google.com/architecture/devops/devops-tech-architecture)) pour intégrer de nouvelles fonctionnalités dont nous n'avions même pas connaissance lorsque nous avons réalisé la planification et l'échéancier plusieurs mois auparavant.
