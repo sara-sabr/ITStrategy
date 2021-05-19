@@ -3,7 +3,7 @@ layout: post
 title: "The Problems with Project-Based funding for IT organizations"
 ref: problems-project-based-funding
 lang: en
-author: "Rémy Bernard, en collaboration avec l'équipe de Stratégie TI"
+author: "Rémy Bernard, in collaboration with the IT Strategy team"
 date: "2021-05-18"
 last_modified: "2021-05-18"
 excerpt_separator: <!--more-->

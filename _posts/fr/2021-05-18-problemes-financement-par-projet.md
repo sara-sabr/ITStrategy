@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Les problèmes du financement par projet pour les organisations TI"
-ref: problèmes-financement-par-projet
+ref: problems-project-based-funding
 lang: fr
-author: "Rémy Bernard, in collaboration with the IT Strategy team"
+author: "Rémy Bernard, en collaboration avec l'équipe de Stratégie TI"
 date: "2021-05-18"
 last_modified: "2021-05-18"
 excerpt_separator: <!--more-->
