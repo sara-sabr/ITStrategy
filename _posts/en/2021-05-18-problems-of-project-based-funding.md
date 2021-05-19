@@ -56,7 +56,15 @@ The problem happens when you have a large amount of advance planning, bundling o
 An IT team responsible for a product is in a constant struggle to re-adjust its work based on changing demands in addition to providing long-term costing estimates to these individual projects.
 This product team will spend a great deal of energy on planning expectations of work with other peer IT teams[^5] to be able to fulfil commitments it made to all these projects.
 
-<!-- add image here -->
+<div style="display: block; width: inherit; text-align: center; line-height: 3;">
+    <a href="/ITStrategy/assets/images/image-placeholder.png" style="display: block">
+        <img src = "{{ site.baseurl }}/assets/images/project-planning-effect-on-product-teams-en.png"
+        alt = "This image depicts a feedback process loop. The image shows three icons: Policy Makers, Technology and Canadians. Between each icon there is an arrow showing a relationship as follows: Policy Makers must use Technology to implement their policies, Technology is then used to deliver services to Canadians, and after interacting with a service, Canadians provide their feedback to Policy Makers."
+        style="width: 500px; height: inherit;"
+        />
+    </a>
+    <small>Figure 1. The feedback loop policy makers need pass through technology</small>
+</div>
 
 When re-prioritization at the organization level occurs, a large-scale shift in demands occurs.
 The limited internal capacity of the IT organization needs to be re-adjusted to follow this new set of priorities.
