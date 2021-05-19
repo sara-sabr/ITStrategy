@@ -60,7 +60,7 @@ This product team will spend a great deal of energy on planning expectations of 
     <a href="/ITStrategy/assets/images/project-planning-effect-on-product-teams-en.png" style="display: block">
         <img src = "{{ site.baseurl }}/assets/images/project-planning-effect-on-product-teams-en.png"
         alt = "This image depicts the cognitive load of multiple projects hitting a product team, and that product team needing to coordinate and plan with other IT teams (that are part of the value stream). Ultimately, the product team is being asked to provide costing and scheduling estimates for each individual projects. Providing this information is also work."
-        style="width: 500px; height: inherit;"
+        style="width: 800px; height: inherit;"
         />
     </a>
     <small>Figure 1. Multiple projects hitting the product team, requiring them to coordinate with the other teams involved in the value stream</small>
@@ -75,8 +75,8 @@ The IT organization’s A-Base, funding its salary workforce meant to keep the l
 <div style="display: block; width: inherit; text-align: center; line-height: 3;">
     <a href="/ITStrategy/assets/images/project-reprioritization-effects-en.png" style="display: block">
         <img src = "{{ site.baseurl }}/assets/images/project-reprioritization-effects-en.png"
-        alt = "This image depicts the effects of re-prioritization has on IT teams. It involves having to re-do planning work, asking the A-Base funded teams to shift their attention to the new projects until new funds are made available to release the A-Base teams when the organization hired specialized staff meant for those projects."
-        style="width: 500px; height: inherit;"
+        alt = "This image depicts the effects of re-prioritization has on IT teams. It involves having to re-do planning work, asking the A-Base funded teams to shift their attention to the new projects until new funds are made available to hire specialized staff and release the A-Base team from those priorities"
+        style="width: 800px; height: inherit;"
         />
     </a>
     <small>Figure 1. Re-prioritization of projects will require A-Base funded teams to take the load until new project funds are made available to increase internal capacity</small>

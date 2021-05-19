@@ -46,7 +46,7 @@ Cela signifie que l'organisation TI, en moyenne, ne commence à développer et �
 
 ## Les effets des projets sur l'organisation informatique
 
-Nous comprenons que les présentation au CT sont nécessaires pour obtenir les autorisations de dépenses et un financement supplémentaire[^3].
+Nous comprenons que les présentations au CT sont nécessaires pour obtenir les autorisations de dépenses et un financement supplémentaire[^3].
 De plus, le logiciel étant essentiellement un processus de collaboration impliquant de nombreuses équipes[^4], la "projectisation" du travail (les procédures pour la conception d'un projet) est souvent considérée comme nécessaire pour formaliser les engagements entre les différentes équipes informatiques et coordonner ce travail jusqu'à son achèvement.
 
 Les projets sont donc utilisés pour obtenir des fonds.
@@ -60,7 +60,7 @@ Cette équipe de produit dépensera beaucoup d'énergie à planifier les attente
     <a href="/ITStrategy/assets/images/image-placeholder.png" style="display: block">
         <img src = "{{ site.baseurl }}/assets/images/project-planning-effect-on-product-teams-fr.png"
         alt = "Cette image illustre les effets sur la charge cognitive d'une équipe de produit lorsque plusieurs projets la frappe. Cette équipe se doit de coordonner et planifier avec d'autres équipes informatiques (qui font partie du flux de valeur pour le produit). En fin de compte, on demande à l'équipe produit de fournir des estimations de coûts et de calendrier pour chaque projet individuel. Fournir ces informations est également un travail."
-        style="width: 500px; height: inherit;"
+        style="width: 800px; height: inherit;"
         />
     </a>
     <small>Figure 1. De multiples projets convergent sur une équipe produit, lui demandant de coordonner le travail avec les autres équipes impliquées dans le flux de valeur du produit.</small>
@@ -69,14 +69,14 @@ Cette équipe de produit dépensera beaucoup d'énergie à planifier les attente
 Lorsqu'une re-priorisation au niveau de l'organisation se produit, un changement à grande échelle des demandes se produit.
 La capacité interne limitée de l'organisation informatique doit être réajustée pour suivre ce nouvel ensemble de priorités.
 Cela entraîne généralement une réaffectation des fonds des services votés pour remplir les engagements pris à l'avance à l'égard des nouveaux projets prioritaires, car l'organisation TI ne peut pas attendre que de nouveaux fonds soient libérés (fonds provenant des programmes qui financent ces projets ou libérés par les présentations au CT).
-L'organisation de TI doit donc puiser dans les fonds dont elle dispose actuellement, soit dans le financement des programmes existants, soit dans le [niveau de références](https://www.oag-bvg.gc.ca/internet/Francais/parl_oag_200611_00_f_14968.html#ch0hd3d).
+L'organisation TI doit donc puiser dans les fonds dont elle dispose actuellement, soit dans le financement des programmes existants, soit dans le [niveau de références](https://www.oag-bvg.gc.ca/internet/Francais/parl_oag_200611_00_f_14968.html#ch0hd3d).
 Le budget de base de l'organisation TI, qui finance sa main-d'œuvre salariale destinée à "maintenir les lumières allumées" (opérations de base), est alors fortement impliqué dans la réalisation du travail jusqu'à ce que le financement soit ajusté, que les processus de RH pour l'embauche de nouveaux postes soient terminés et que les processus d'approvisionnement pour l'acquisition de services soient terminés.
 
 <div style="display: block; width: inherit; text-align: center; line-height: 3;">
     <a href="/ITStrategy/assets/images/project-reprioritization-effects-fr.png" style="display: block">
         <img src = "{{ site.baseurl }}/assets/images/project-reprioritization-effects-fr.png"
         alt = "Cette image illustre les effets qu'une repriorisation a sur les équipes TI. Il s'agit de refaire le travail de planification, de demander aux équipes financées par les services votés de porter leur attention sur les nouveaux projets jusqu'à ce que de nouveaux fonds soient disponibles pour engager du personnel spécialisé et libérer les équipes financées par les services votés de ces priorités."
-        style="width: 500px; height: inherit;"
+        style="width: 800px; height: inherit;"
         />
     </a>
     <small>Figure 1. Une re-priorisation de projets oblige les équipes financées par les service votés à assumer la charge de travail jusqu'à ce que de nouveaux fonds soient disponibles pour augmenter la capacité interne.</small>
