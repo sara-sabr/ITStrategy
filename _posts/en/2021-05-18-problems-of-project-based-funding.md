@@ -104,7 +104,7 @@ In fact, a Microsoft research showed that only about 1/3 of well-designed, well-
 
 ## Moving to a different software investment management method
 
-Since we expect moving to Digital means business operations to be done with software, it warrants us to review how we fund software investments so to enable faster feedback loop between policy makers and end-users.
+Since we expect moving to Digital means business operations will be done with software, it warrants us to review how we fund software investments so to enable faster feedback loop between policy makers and end-users.
 This to meet the [Government of Canada’s second Digital Standard](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html): Iterate and improve frequently.
 
 We are looking at different methods favouring planning around product roadmaps, with stable funding for value streams made up of multi-disciplinary team members that can sustain demands and make timely decisions reflecting end-user needs, and a governance that measures progress through working software instead of planning documents.
