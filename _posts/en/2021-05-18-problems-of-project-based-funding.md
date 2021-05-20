@@ -59,7 +59,7 @@ This product team will spend a great deal of energy on planning expectations of 
 <div style="display: block; width: inherit; text-align: center; line-height: 3;">
     <a href="/ITStrategy/assets/images/project-planning-effect-on-product-teams-en.png" style="display: block">
         <img src = "{{ site.baseurl }}/assets/images/project-planning-effect-on-product-teams-en.png"
-        alt = "This image depicts the cognitive load of multiple projects hitting a product team, and that product team needing to coordinate and plan with other IT teams (that are part of the value stream). Ultimately, the product team is being asked to provide costing and scheduling estimates for each individual projects. Providing this information is also work."
+        alt = "This image has a silhouette of a senior leader in the top left. To the right of the senior leader silhouette there are 8 icons displayed in a vertical line representing 8 different projects. There are three arrows going from the vertical line of project icons towards a sideways profile of a head. The top of the head is opened as if on a hinge and to the right of the head there are 4 icons arranged in a vertical line of a person carrying a heavy box. There are coloured circles going from them to inside the open head. Underneath the open head are the words 'Product team'. Underneath the 4 icons to the right of the head are the words 'Value stream teams'."
         style="width: 800px; height: inherit;"
         />
     </a>
@@ -75,7 +75,7 @@ The IT organization’s A-Base, funding its salary workforce meant to keep the l
 <div style="display: block; width: inherit; text-align: center; line-height: 3;">
     <a href="/ITStrategy/assets/images/project-reprioritization-effects-en.png" style="display: block">
         <img src = "{{ site.baseurl }}/assets/images/project-reprioritization-effects-en.png"
-        alt = "This image depicts the effects of re-prioritization has on IT teams. It involves having to re-do planning work, asking the A-Base funded teams to shift their attention to the new projects until new funds are made available to hire specialized staff and release the A-Base team from those priorities"
+        alt = "This image depicts the effects of re-prioritization has on IT teams. It shows a clock-like circle image with, at each 7.5 min interval, a different image. At the noon position, it's the re-prioritization activity. At the 7.5 min, an image shows planning is re-done, at 15min, an image shows that funds are in transit and not yet available, at 22.5 min, an image shows 2 people carrying heavy boxes, at 30 min, an image shows that hiring process has started, at 37.5 min, an image shows the funds have arrived, at 45 min, an image shows a group of people with the saying 'specialized people hired', and at 52.5 min an image shows a person with a series of book with the saying 'learning curve'. until new funds are made available to hire specialized staff and release the A-Base team from those priorities"
         style="width: 800px; height: inherit;"
         />
     </a>
@@ -114,7 +114,7 @@ We require a broad set of skills working together in monitoring and continuously
 We must use public funds in a responsible way by navigating this uncertainty through smaller iterative steps, making course corrections using empirical evidence, and constantly providing value until the end user tells us our goal is achieved.
 We are looking to see if we can adjust our investment management instruments tool box, including how we submit TB Submissions, and release much needed internal IT capacity.
 
-A subsequent blog will be posted to share our thoughts on the topic of product management and how it we think it could be implemented in government…
+A subsequent blog will be posted to share our thoughts on the topic of product management and how it we think it could be implemented in government.
 
 ## Notes
 

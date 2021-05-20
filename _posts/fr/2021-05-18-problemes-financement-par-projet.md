@@ -59,12 +59,12 @@ Cette équipe de produit dépensera beaucoup d'énergie à planifier les attente
 <div style="display: block; width: inherit; text-align: center; line-height: 3;">
     <a href="/ITStrategy/assets/images/image-placeholder.png" style="display: block">
         <img src = "{{ site.baseurl }}/assets/images/project-planning-effect-on-product-teams-fr.png"
-        alt = "Cette image illustre les effets sur la charge cognitive d'une équipe de produit lorsque plusieurs projets la frappe. Cette équipe se doit de coordonner et planifier avec d'autres équipes informatiques (qui font partie du flux de valeur pour le produit). En fin de compte, on demande à l'équipe produit de fournir des estimations de coûts et de calendrier pour chaque projet individuel. Fournir ces informations est également un travail."
+        alt = "Cette image présente la silhouette d'un dirigeant en haut à gauche. À droite de la silhouette du dirigeant, huit icônes sont affichées sur une ligne verticale représentant huit projets différents. Trois flèches partent de la ligne verticale des icônes de projet vers le profil latéral d'une tête. Le sommet de la tête est ouvert comme sur une charnière et à droite de la tête se trouvent 4 icônes disposées en ligne verticale représentant une personne portant une lourde boîte. Des cercles de couleur partent de ces icônes et vont jusqu'à l'intérieur de la tête ouverte. Sous la tête ouverte figurent les mots 'Équipe de produit'. Sous les 4 icônes à droite de la tête se trouvent les mots 'Équipes du flux de valeur'."
         style="width: 800px; height: inherit;"
         />
     </a>
-    <small>Figure 1. De multiples projets convergent sur une équipe produit, lui demandant de coordonner le travail avec les autres équipes impliquées dans le flux de valeur du produit.</small>
 </div>
+<small>Figure 1. De multiples projets convergent sur une équipe produit, lui demandant de coordonner le travail avec les autres équipes impliquées dans le flux de valeur du produit.</small>
 
 Lorsqu'une re-priorisation au niveau de l'organisation se produit, un changement à grande échelle des demandes se produit.
 La capacité interne limitée de l'organisation informatique doit être réajustée pour suivre ce nouvel ensemble de priorités.
@@ -75,12 +75,12 @@ Le budget de base de l'organisation TI, qui finance sa main-d'œuvre salariale d
 <div style="display: block; width: inherit; text-align: center; line-height: 3;">
     <a href="/ITStrategy/assets/images/project-reprioritization-effects-fr.png" style="display: block">
         <img src = "{{ site.baseurl }}/assets/images/project-reprioritization-effects-fr.png"
-        alt = "Cette image illustre les effets qu'une repriorisation a sur les équipes TI. Il s'agit de refaire le travail de planification, de demander aux équipes financées par les services votés de porter leur attention sur les nouveaux projets jusqu'à ce que de nouveaux fonds soient disponibles pour engager du personnel spécialisé et libérer les équipes financées par les services votés de ces priorités."
+        alt = "Cette image illustre les effets d'une re-priorisation sur les équipes informatiques. Elle montre une image circulaire semblable à une horloge avec, à chaque intervalle de 7,5 minutes, une image différente. À midi, c'est l'activité de re-priorisation. À 7,5 minutes, une image montre que la planification est refaite, à 15 minutes, une image montre que les fonds sont en transit et ne sont pas encore disponibles, à 22,5 minutes, une image montre 2 personnes transportant de lourdes boîtes, à 30 minutes, une image montre que le processus d'embauche a commencé, à 37,5 minutes, une image montre que les fonds sont arrivés, à 45 minutes, une image montre un groupe de personnes avec la mention 'embauche de personnes spécialisées', et à 52,5 minutes, une image montre une personne avec une série de livres avec la mention 'courbe d'apprentissage'."
         style="width: 800px; height: inherit;"
         />
     </a>
-    <small>Figure 2. Une re-priorisation de projets oblige les équipes financées par les service votés à assumer la charge de travail jusqu'à ce que de nouveaux fonds soient disponibles pour augmenter la capacité interne.</small>
 </div>
+<small>Figure 2. Une re-priorisation de projets oblige les équipes financées par les service votés à assumer la charge de travail jusqu'à ce que de nouveaux fonds soient disponibles pour augmenter la capacité interne.</small>
 
 De plus, il convient de noter que cet effort de planification préalable est réalisé en utilisant la capacité interne et finit par être partiellement gaspillé[^6].
 Réaliser un travail de planification et de conception approfondi qui nous enferme dans un ensemble de fonctionnalités rigidement définies ne tire pas profit du fait que les logiciels peuvent être rapidement et facilement modifiés (s'ils sont [bien architecturés](https://cloud.google.com/architecture/devops/devops-tech-architecture)) pour intégrer de nouvelles fonctionnalités dont nous n'avions même pas connaissance lorsque nous avons réalisé la planification et l'échéancier plusieurs mois auparavant.
@@ -114,7 +114,7 @@ Nous avons besoin d'un large éventail de compétences qui travaillent ensemble 
 Nous devons utiliser les fonds publics de manière responsable en naviguant dans cette incertitude par le biais de petites étapes itératives, en apportant des corrections de trajectoire à l'aide de preuves empiriques et en fournissant constamment de la valeur jusqu'à ce que l'utilisateur final nous dise que notre objectif est atteint.
 Nous cherchons à voir si nous pouvons ajuster la boîte à outils de nos instruments de gestion des investissements, y compris la façon dont nous soumettons les présentations au CT, et libérer une capacité interne TI très nécessaire.
 
-Un billet ultérieur sera publié pour partager nos réflexions sur le sujet de la gestion de produit et la façon dont nous pensons qu'elle pourrait être mise en œuvre dans le gouvernement...
+Un billet ultérieur sera publié pour partager nos réflexions sur le sujet de la gestion de produit et la façon dont nous pensons qu'elle pourrait être mise en œuvre dans le gouvernement.
 
 ## Notes
 
