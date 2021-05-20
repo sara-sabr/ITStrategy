@@ -63,8 +63,8 @@ This product team will spend a great deal of energy on planning expectations of 
         style="width: 800px; height: inherit;"
         />
     </a>
-    <small>Figure 1. Multiple projects hitting the product team, requiring them to coordinate with the other teams involved in the value stream</small>
 </div>
+<small>Figure 1. Multiple projects hitting the product team, requiring them to coordinate with the other teams involved in the value stream</small>
 
 When re-prioritization at the organization level occurs, a large-scale shift in demands occurs.
 The limited internal capacity of the IT organization needs to be re-adjusted to follow this new set of priorities.
@@ -79,8 +79,8 @@ The IT organization’s A-Base, funding its salary workforce meant to keep the l
         style="width: 800px; height: inherit;"
         />
     </a>
-    <small>Figure 2. Re-prioritization of projects will require A-Base funded teams to take the load until new project funds are made available to increase internal capacity</small>
 </div>
+<small>Figure 2. Re-prioritization of projects will require A-Base funded teams to take the load until new project funds are made available to increase internal capacity</small>
 
 Additionally, it's worth noting that this advance planning effort is done using internal capacity and ends up partially wasted[^6].
 Doing extensive planning and design work that locks us into a rigidly defined feature set does not take advantage of the fact that software can be quickly and easily modified (if [well architected](https://cloud.google.com/architecture/devops/devops-tech-architecture)) to incorporate new functionality that we didn't even know about when we did the planning and scheduling several months prior.
