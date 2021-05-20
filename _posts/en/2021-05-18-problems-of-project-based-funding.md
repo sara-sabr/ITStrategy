@@ -75,7 +75,7 @@ The IT organization’s A-Base, funding its salary workforce meant to keep the l
 <div style="display: block; width: inherit; text-align: center; line-height: 3;">
     <a href="/ITStrategy/assets/images/project-reprioritization-effects-en.png" style="display: block">
         <img src = "{{ site.baseurl }}/assets/images/project-reprioritization-effects-en.png"
-        alt = "This image depicts the effects of re-prioritization has on IT teams. It shows a clock-like circle image with, at each 7.5 min interval, a different image. At the noon position, it's the re-prioritization activity. At the 7.5 min, an image shows planning is re-done, at 15min, an image shows that funds are in transit and not yet available, at 22.5 min, an image shows 2 people carrying heavy boxes, at 30 min, an image shows that hiring process has started, at 37.5 min, an image shows the funds have arrived, at 45 min, an image shows a group of people with the saying 'specialized people hired', and at 52.5 min an image shows a person with a series of book with the saying 'learning curve'. until new funds are made available to hire specialized staff and release the A-Base team from those priorities"
+        alt = "This image depicts the effects of re-prioritization has on IT teams. It shows a clock-like circle image with, at each 7.5 min interval, a different image. At the noon position, it's the re-prioritization activity. At the 7.5 min, an image shows planning is re-done, at 15min, an image shows that funds are in transit and not yet available, at 22.5 min, an image shows 2 people carrying heavy boxes, at 30 min, an image shows that hiring process has started, at 37.5 min, an image shows the funds have arrived, at 45 min, an image shows a group of people with the saying 'specialized people hired', and at 52.5 min an image shows a person with a series of book with the saying 'learning curve'."
         style="width: 800px; height: inherit;"
         />
     </a>
@@ -104,7 +104,7 @@ In fact, a Microsoft research showed that only about 1/3 of well-designed, well-
 
 ## Moving to a different software investment management method
 
-Since we expect moving to Digital will mean business operations will be done with software, it warrants us to review how we fund software investments so to enable faster feedback loop between policy makers and end-users.
+Since we expect moving to Digital means business operations to be done with software, it warrants us to review how we fund software investments so to enable faster feedback loop between policy makers and end-users.
 This to meet the [Government of Canada’s second Digital Standard](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html): Iterate and improve frequently.
 
 We are looking at different methods favouring planning around product roadmaps, with stable funding for value streams made up of multi-disciplinary team members that can sustain demands and make timely decisions reflecting end-user needs, and a governance that measures progress through working software instead of planning documents.
@@ -114,7 +114,7 @@ We require a broad set of skills working together in monitoring and continuously
 We must use public funds in a responsible way by navigating this uncertainty through smaller iterative steps, making course corrections using empirical evidence, and constantly providing value until the end user tells us our goal is achieved.
 We are looking to see if we can adjust our investment management instruments tool box, including how we submit TB Submissions, and release much needed internal IT capacity.
 
-A subsequent blog will be posted to share our thoughts on the topic of product management and how it we think it could be implemented in government.
+A subsequent blog will be posted to share our thoughts on the topic of product management and how we think it could be implemented in government.
 
 ## Notes
 
