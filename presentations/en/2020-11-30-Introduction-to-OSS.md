@@ -403,7 +403,7 @@ Note:
 
 > The number of open source components in the codebase of **proprietary** applications keeps rising
 
-[2018 Open Source Security and Risk Analysis](https://www.synopsys.com/content/dam/synopsys/sig-assets/reports/2018-ossra.pdf), Synopsys Center for Open Source Research & Innovation
+2018 Open Source Security and Risk Analysis, Synopsys Center for Open Source Research & Innovation
 
 Note:
 
