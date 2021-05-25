@@ -30,17 +30,16 @@
   },
   "homepage": "https://github.com/sara-sabr/ITStrategy#readme",
   "devDependencies": {
-    "chalk": "^2.4.2",
-    "cspell": "^3.2.8",
-    "cspell-dict-fr-fr": "^1.3.1",
-    "editorconfig-checker": "^3.3.0",
+    "@cspell/dict-fr-fr": "^1.2.21",
+    "chalk": "^4.1.1",
+    "cspell": "^5.4.1",
+    "editorconfig-checker": "^4.0.2",
     "glob": "^7.1.7",
-    "license-compatibility-checker": "^0.3.4",
-    "licensee": "^7.0.3",
+    "license-compatibility-checker": "^0.3.5",
+    "licensee": "^8.2.0",
     "markdown-link-check": "^3.8.7",
-    "markdownlint-cli": "^0.15.0",
+    "markdownlint-cli": "^0.27.0",
     "site-validator-cli": "^1.3.5",
-    "yaml": "^1.10.0"
-  },
-  "dependencies": {}
+    "yaml": "^1.10.2"
+  }
 }
