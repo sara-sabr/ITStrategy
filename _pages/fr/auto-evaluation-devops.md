@@ -8,7 +8,7 @@ sections: Pilotes
 permalink: /auto-evaluation-devops.html
 ---
 
-Le sondage suivant s'appuie sur le [Rapport sur l'état du DevOps] (https://cloud.google.com/devops/state-of-devops/) publié chaque année depuis 2014 par DevOps Research and Assessment (DORA).
+Le sondage suivant s'appuie sur le [Rapport sur l'état du DevOps](https://cloud.google.com/devops/state-of-devops/) publié chaque année depuis 2014 par DevOps Research and Assessment (DORA).
 Le programme de recherche DevOps, qui existe depuis six ans, a permis de valider plusieurs capacités techniques, de processus, de mesure et culturelles afin d'accélérer la livraison de logiciels et le rendement organisationnel.
 Les questions du sondage serviront à mesurer et à appuyer l'[amélioration continue](https://cloud.google.com/solutions/devops/devops-culture-transform) de ces capacités à la DGIIT et à EDSC.
 Les équipes sont priées de répondre au sondage tous les 6 (six) à 12 (douze) mois pour mesurer la réussite de leurs activités.
