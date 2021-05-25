@@ -10,15 +10,15 @@ permalink: /devops-self-assessment.html
 
 The following survey is based on the [State of DevOps Report](https://cloud.google.com/devops/state-of-devops/) that has been published annually since 2014, as part of the DevOps Research and Assessment (DORA).
 This six-year research program has validated a number of technical, process, measurement, and cultural capabilities to drive higher software delivery and organizational performance.
-The survey questions will measure and support the [Continuous Improvement](https://cloud.google.com/solutions/devops/devops-culture-transform) of these capabilities in IITB and ESDC.
+The survey questions will measure and support the [Continuous Improvement](https://cloud.google.com/architecture/devops/devops-culture-transform) of these capabilities in IITB and ESDC.
 Teams are invited to complete the survey every 6 (six) to 12 (twelve) months to measure the success of their activities.
 The IT Strategy team recommends that teams complete all capabilities at least once to establish a full baseline.
 
-Take the [DevOps Self-Assessment](https://sara-sabr.github.io/auto-evaluation-devops-self-assessment/) or keep reading for more information.
+Take the [DevOps Self-Assessment](https://sara-sabr.github.io/auto-evaluation-devops-self-assessment/#/) or keep reading for more information.
 
-## What is DevOps Self-Assessment tool
+## What is the DevOps Self-Assessment tool
 
-A DevOps Self-Assessment tool is a roadmap that helps to prospect self-improvement, uncover team challenges and opportunities through  capabilities, identifies priorities and tracks the progress.
+The DevOps Self-Assessment tool is a roadmap that helps to prospect self-improvement, uncover team challenges and opportunities through  capabilities, identifies priorities and tracks the progress.
 It is easy to use and produce credible results.
 The tool provides the ability to review team performance and guidelines to achieve a desired outcome.
 It drives technology performance improvement in the organization.  
@@ -26,7 +26,7 @@ The DevOps Self-Assessment tool is a questionnaire that will help to measure tea
 It will show the areas where the competencies of your team do not reach the level required to reach team goals.
 When gaps do not get addressed, they tend to get bigger, eventually causing teams to collapse.
 Provided recommendations for each section will fill the gaps in your team that allows them to grow and reach required goals.  
-Responses to the DevOps Self-Assessment will be stored locally on your computer (browser's cache), and the Government of Canada does not save any information. Received score and recommendations can be saved by a user in order to come back and take the survey again.
+Responses to the DevOps Self-Assessment will be stored locally on your computer (browser's cache), and the Government of Canada does not save any information.
 When you compare the competencies defined in the first assessment to the results you received in the second, you will find how your team performance progressed.
 The process can be repeated until desired outcomes of team performance achieved.
 
