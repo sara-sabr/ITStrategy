@@ -100,7 +100,7 @@ This strategy will be reviewed and updated quarterly based on effectiveness and 
 - Stay up to date on trends and technologies inside and outside the GC - [Digital Government](https://www.canada.ca/en/government/system/digital-government.html)
 - Teach yourself basic programming (e.g. .Net Core, Java, Python, JavaScript)
 - Experiment with cloud technologies - [Play with Docker](https://labs.play-with-docker.com/)
-- Take online courses - [edX](https://www.edx.org/), [Cousera](https://www.coursera.org/), [Udemy](https://www.udemy.com/), or search on [MOOC List](https://www.mooc-list.com/)
+- Take online courses - [edX](https://www.edx.org/), [Cousera](https://www.coursera.org/), [Udemy](https://www.udemy.com/), or search on MOOC List (```https://www.mooc-list.com```)
 - Study for certificates from certified Cloud Service Providers (e.g. [AWS](https://aws.amazon.com/certification/), [Azure](https://www.microsoft.com/en-us/learning/azure-exams.aspx))
 - Read books, articles or documentation - See our [References]({{ site.baseurl }}/references-en.html)
 - Attend events or conferences
