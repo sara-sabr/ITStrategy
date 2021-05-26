@@ -105,7 +105,8 @@ https://www.canada.ca/en/government/system/digital-government/improving-digital-
 
 ### Digital Standards
 
-https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html
+The [GC's Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html) form the foundation of the government's shift to becoming more agile, open, and user-focused.
+They will guide teams in designing digital services in a way that best serves Canadians.
 
 - Work in the open by default
 - Use open standards and solutions
@@ -121,9 +122,7 @@ https://www.canada.ca/en/government/system/digital-government/government-canada-
 
 ### Policy on Service and Digital
 
-https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603
-
-The Policy on Service and Digital and supporting instruments serve as an integrated set of rules that articulate how Government of Canada organizations manage service delivery, information and data, information technology, and cyber security in the digital era.
+The [Policy on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603) and supporting instruments serve as an integrated set of rules that articulate how Government of Canada organizations manage service delivery, information and data, information technology, and cyber security in the digital era.
 
 #### Directive on Service and Digital
 
@@ -131,7 +130,7 @@ https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601
 
 ##### Mandatory procedures for EA assessments
 
-https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602
+The [Mandatory procedures for EA assessments](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602) are to be used by departmental architecture review boards and the GC enterprise architectural review board (EARB) as an assessment framework to review digital initiatives to ensure the GC acts as a single enterprise and to ensure departmental alignment with the GC digital direction.
 
 - Data should only be purchased once and should align with international standards.
 - Data should be shared openly by default as per the Directive on Open Government.
@@ -257,7 +256,7 @@ Building a responsible open Canada is something we can only do ourselves and the
 
 A [Study on open source software governance at the European Commission](https://op.europa.eu/en/publication-detail/-/publication/1aa67278-5464-11ea-aece-01aa75ed71a1) shows that their open source strategy is in line with the best practices from public services and private companies.
 It confirms that the strengthened policy on the use of open source software is the norm nearly everywhere.
-The study’s high-level recommendations are:
+The study's high-level recommendations are:
 
 - emphasise the use and benefits of open source;
 - create a dedicated open source entity that fosters and measures strategy adoption;
@@ -289,10 +288,8 @@ Below are the six principles that govern the strategy:
 
 ### Open First
 
-- Data should be shared openly by default as per the Directive on Open Government
-- All source code must be released under an appropriate open source software license
-- Where possible, use open standards and open source software first
-- If an open source option is not available or does not meet user needs, favour platform-agnostic COTS over proprietary COTS, avoiding technology dependency, allowing for substitutability and interoperability
+> Where possible, use open standards and OSS first.
+> Work in the open by default
 
 The GC is an enthusiastic user of and contributor to OSS.
 This is reflected in its Digital Standards and Policy on Service and Digital, which encourages the IT community to tap into the growing potential of open standards and OSS as well as join forces with major commercial players and communities, and mobilise co-creation capacity to support departments in pioneering new solutions.
@@ -314,8 +311,8 @@ Open standards and OSS offer practical tools and methods for teams to work toget
 In these teams, which sometimes involve several directorates-general, developers look at software code written by their colleagues and try to insert new components.
 They combine parts, borrow tools and recipes, and together build and extend a collection of solutions they can use to run digital government solutions.
 
-‘Inner source’ (the creation of working cultures based on open source) will be promoted, in order to bring teams closer to open-source working methods and encourage sharing and reuse within the organisation.
-This is a step towards opening up more projects as open source and sharing them with the outside world.
+Inner source (the creation of working cultures based on open principles and share code within the organization) will be promoted, in order to bring teams closer to working in the open and encourage sharing and reuse within the organisation.
+This is a step towards opening up more projects as open source code and sharing them with the outside world.
 
 Note:
 
@@ -323,7 +320,8 @@ Culture change? Aligns with DevOps, digital standards, etc.
 
 ### Share
 
-> We share our code and enable incidental contributions to related open standards and OSS projects.
+> All source code must be released under an appropriate OSS license.
+> We enable incidental contributions to related open standards and OSS projects.
 
 Wherever it makes sense to do so, the ESDC will share the source code of its future IT projects.
 For publication of these projects, the OSS licences recommended by GC (MIT, Apache2, GPL3, AGPL3 or LGPL3) will be preferred.
@@ -362,7 +360,7 @@ ESDC already has experience in this area in our security teams and the Computer 
 
 ### Stay in control
 
-> We promote open standards and specifications that are implemented and distributed in OSS.
+> We promote open standards and specifications that are implemented and distributed in OSS as a way to avoid vendor lock-in.
 
 Interoperability is of utmost importance to the Commission and the Member States.
 The key to interoperability is the use of well-established standards and specifications.
@@ -374,7 +372,7 @@ They will allow the Commission to choose non-open technologies where there are g
 They give our developers the flexibility to gain expertise on the diversity of open-source platforms.
 In return, this is how the Commission will learn about innovative new solutions.
 
-The principles here are consistent with ‘state of the art’ policies in the Member States (see section 4.5. Theyare aligned with the EIF, in particular underlying principle 4 (reusability) and recommendation 6 (‘Reuse and share solutions, and cooperate in the development of joint solutions when implementing European public services’).
+The principles here are consistent with ‘state of the art' policies in the Member States (see section 4.5. Theyare aligned with the EIF, in particular underlying principle 4 (reusability) and recommendation 6 (‘Reuse and share solutions, and cooperate in the development of joint solutions when implementing European public services').
 They also uphold the principles of the 2014-2017 open source strategy, concentrating on making them actionable.
 
 ## 6. Implementing the Strategy
