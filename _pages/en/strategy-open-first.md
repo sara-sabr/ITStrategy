@@ -147,7 +147,12 @@ https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=28108
 
 ### ESDC OSS Framework
 
-The OSS Framework was endorsed ar ESDC EARB on ?
+The [ESDC OSS Framework (internal link)](https://dialogue/grp/CO7397744/MasterLib/ESDC%20Open%20Source%20Management%20Framework%20v%201.2.docx), endorsed ar ESDC EARB on March 16th 2020, provides guidance and sets direction around OSS product selection considerations and compliance obligations such as governance, code sharing, licensing and security to ESDC.
+It is also to provide a list of recommendations, considerations and procedures for the adoption, management and promotion of OSS as the primary option for future and next iteration solutions of ESDC/IITB information systems.
+
+- Define and focuse on the preferred areas of adoption, consider OSS in every aspect of the ICT Ecosystem+.
+- Implement a process for the sharing and re-use of developed OSS efforts within the department, GoC and OSS Community.
+- Establish an OSS Program Office with an OSS Management Compliance Officer to take on the responsibility and further define the process and reporting requirements to be able to recognize and address circumstances that arise from license auditing and compliance conditions.
 
 ## 4 Goals and Outcomes
 
@@ -288,7 +293,7 @@ In return, this is how ESDC will learn about innovative new solutions.
 
 The principles here are consistent with "state of the art" GC policies (see [Build a world class public service](#build-a-world-class-public-service).
 They are aligned with the [Mandatory Procedures for EA Assessment](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602) and the [Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html), in particular "maximize reuse", "work in the open by default" and "use open standards and OSS first".
-They also uphold the principles of the [ESDC OSS Framework](#), endorsed at EARB, concentrating on making them actionable.
+They also uphold the principles of the [ESDC OSS Framework](https://dialogue/grp/CO7397744/MasterLib/ESDC%20Open%20Source%20Management%20Framework%20v%201.2.docx), concentrating on making them actionable.
 
 Below are the six principles that govern this strategy:
 
