@@ -261,9 +261,7 @@ The study's high-level recommendations are:
 - manage legal/licence/intellectual property rights issues; and
 - enhance and develop the technical infrastructure and services.
 
-Note:
-
-The ESDC Open First Strategy builds on the GC Policy and Digital Standards and is in line with the EC open source strategy.
+The ESDC Open First Strategy is in line with the [EC Open Source Strategy 2020-2023](https://ec.europa.eu/info/sites/default/files/en_ec_open_source_strategy_2020-2023.pdf) builds on the GC Policy and the GC Digital Standards.
 
 The rest of the world has realized the value of working in the open by default.
 Canada has a policy in line with the world's best approaches.
