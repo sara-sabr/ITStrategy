@@ -278,7 +278,7 @@ By adopting this strategy, ESDC is taking a stand and moves towards a world clas
 ## 5. Governing Principles
 
 The Open First strategy supports the Canada's aims of radical transformation by simplifying and streamlining processes.
-It will help to make collaborative working methods the de-facto standard for the Commission's work internally and with others.
+It will help to make collaborative working methods the de-facto standard for the ESDC's work internally and with others.
 
 It is important to stress that the principles and the action plan relate to existing work processes.
 The use of OSS is commonplace across the GC and in many parts of the organisation (ESDC) there is an established OSS-like culture.
@@ -347,7 +347,7 @@ ESDC will seek to become an active contributing member of key communities where 
 On the basis of the principles set out here, we will build and maintain lasting, meaningful relationships with open standards and OSS communities, building on experience from CEF, the EU-free and open source software auditing (EU-FOSSA/EU-FOSSA2) project and the ISA2 programme.
 This will contribute to the viability of the ecosystem and facilitate product management and governance.
 
-In addition to sharing source code, the Commission should consider joining open-source programme boards and committees, devise systematic methods for targeted funding, work to improve security and find ways to help critical open-source projects become self-sustainable.
+In addition to sharing source code, ESDC should consider joining open-source programme boards and committees, devise systematic methods for targeted funding, work to improve security and find ways to help critical open-source projects become self-sustainable.
 
 ### Secure
 
@@ -362,18 +362,19 @@ ESDC already has experience in this area in our security teams and the Computer 
 
 > We promote open standards and specifications that are implemented and distributed in OSS as a way to avoid vendor lock-in.
 
-Interoperability is of utmost importance to the Commission and the Member States.
+Interoperability is of utmost importance to the ESDC and the GC.
 The key to interoperability is the use of well-established standards and specifications.
-To ensure our digital sovereignty and guarantee a level playing-field, for all future IT developments the Commission will promote standards and specifications that are implemented and distributed through open source software, and include this in its corporate governance approach.
+To ensure our digital sovereignty and guarantee a level playing-field, for all future IT developments ESDC will promote standards and specifications that are implemented and distributed through OSS, and include this in its corporate governance approach.
 
 The principles of this strategy will help us choose strategically between closely competing software solutions.
 They keep our options open.
-They will allow the Commission to choose non-open technologies where there are good reasons to do so, while encouraging us to plan for future open-source alternatives.
+They will allow ESDC to choose non-open technologies where there are good reasons to do so, while encouraging us to plan for future open standards and OSS alternatives.
 They give our developers the flexibility to gain expertise on the diversity of open-source platforms.
-In return, this is how the Commission will learn about innovative new solutions.
+In return, this is how ESDC will learn about innovative new solutions.
 
-The principles here are consistent with ‘state of the art' policies in the Member States (see section 4.5. Theyare aligned with the EIF, in particular underlying principle 4 (reusability) and recommendation 6 (‘Reuse and share solutions, and cooperate in the development of joint solutions when implementing European public services').
-They also uphold the principles of the 2014-2017 open source strategy, concentrating on making them actionable.
+The principles here are consistent with "state of the art" GC policies (see [Building a world class public service](#).
+They are aligned with the [Mandatory Procedures for EA Assessment](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602) and the [Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html), in particular "maximize reuse", "work in the open by default" and "use open standards and open source software first".
+They also uphold the principles of the [ESDC OSS Framework](#), concentrating on making them actionable.
 
 ## 6. Implementing the Strategy
 
