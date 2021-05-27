@@ -300,10 +300,7 @@ Below are the six principles that govern this strategy:
 The GC is an enthusiastic user of and contributor to OSS.
 This is reflected in its Digital Standards and Policy on Service and Digital, which encourages the IT community to tap into the growing potential of open standards and OSS as well as join forces with major commercial players and communities, and mobilise co-creation capacity to support departments in pioneering new solutions.
 
-Note:
-
-By default, all work without classified information should be open.
-Security and privacy methods and tools should be made available for all to ensure that this practice can be accomplished with the least barriers as possible.
+The GC [Guide for using OSS](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/open-source-software/guide-for-using-open-source-software.html) provides recomendations how to: actively and fairly consider Open Source Software; verify OSS ownership or licence; evaluate support options; use OSS with or without modification.
 
 ### Transform
 
@@ -321,10 +318,6 @@ They combine parts, borrow tools and recipes, and together build and extend a co
 Inner source (the creation of working cultures based on open principles and share code within the organization) will be promoted, in order to bring teams closer to working in the open and encourage sharing and reuse within the organisation.
 This is a step towards opening up more projects as open source code and sharing them with the outside world.
 
-Note:
-
-Culture change? Aligns with DevOps, digital standards, etc.
-
 ### Share
 
 > All source code must be released under an appropriate OSS license.
@@ -335,14 +328,12 @@ For publication of these projects, the OSS licences recommended by GC (MIT, Apac
 ESDC will focus these efforts on an ESDC-centric digital government code repository.
 In addition, our developers will be free to make occasional contributions to closely related open standards and OSS projects.
 
-The principles and actions of this  strategy will make it easier to obtain permission to share code with the outside world.
+The principles and actions of this strategy will make it easier to obtain permission to share code with the outside world.
 
 Currently, the paperwork involved in this process takes time to complete and this holds back many of our in-house projects.
 This situation needs to change.
 
-Note:
-
-At inception of the idea, make your work open and discoverable.
+The GC [Guide for publishing open source code](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/open-source-software/guide-for-publishing-open-source-code.html) provides recomendations how to: seek approvals, obtain rights to custom code in contracts; consider security implications; select OSS licence; select source code repository; add recommended files; publishing a legacy application.
 
 ### Contribute
 
@@ -356,6 +347,8 @@ This will contribute to the viability of the ecosystem and facilitate product ma
 
 In addition to sharing source code, ESDC should consider joining open-source programme boards and committees, devise systematic methods for targeted funding, work to improve security and find ways to help critical open-source projects become self-sustainable.
 
+The GC [Guide for Contributing to OSS](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/open-source-software/guide-for-contributing-to-open-source-software.html) provides recomendations how to: verify OSS licence; verify contributing process and policies; additional approvals; contribute to the project; contribute through professional services; publish contributions regardless of upstream acceptance.
+
 ### Secure
 
 > We make sure the code we use and the code we share is free from vulnerabilities by applying continuous security testing.
@@ -364,6 +357,10 @@ Following IT security best practices and monitoring security advisories, automat
 Likewise, we will thoroughly test the code that we intend to share.
 
 ESDC already has experience in this area in our security teams and the Computer Emergency Response Team for the institutions (CERT-EU), and from EU-FOSSA/EU-FOSSA2.
+
+Notes:
+
+Security and privacy methods and tools should be made available for all to ensure that this practice can be accomplished with the least barriers as possible.
 
 ### Stay in control
 
