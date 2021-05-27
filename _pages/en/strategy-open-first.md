@@ -193,18 +193,13 @@ The benefits of using open standards and OSS (the code or specification is publi
 The Policy on Service and Digital makes it clear that working in the open and collaborative working methods will be the norm within the GC's IT community to foster the sharing of code, data and solutions.
 The principal working methods encouraged by this open first strategy are open, inclusive and co-creative.
 
-To drive efficiencies across the GC, the Policy on Service and Digital hinges on the existence of the reusable solutions platform:
+To drive efficiencies across the GC, the Policy on Service and Digital and supporting instruments serve as an integrated set of rules that articulate how GC organizations manage service delivery, information and data, IT, and cyber security in the digital era.
 
-ORE ?
+The Policy on Service and Digital focuses on the client, ensuring proactive consideration at the design stage of key requirements of these functions in the development of operations and services.
+It establishes an enterprise-wide, integrated approach to governance, planning and management.
+Overall, the Policy on Service and Digital advances the delivery of services and the effectiveness of government operations through the strategic management of government information and data and leveraging of information technology, supporting the mandate of the Minister for Digital Government in leading the GC’s digital transition.
 
-> The platform will be built around a catalogue containing reusable building blocks and services, open-source solutions, a corporate architecture, standards, best practices, support and consult ancyservices.
-
-We have here a direct link between the Policy on Service and Digital and the open first strategy: the reusable solutions platform proves the benefits of a working culture based on the principles of open standards and OSS.
-
-Another key instrument in the Policy on Service and Digital is the Connecting Europe Facility (CEF);
-here too, the open first strategy provides an actionable link, able to take on board the lessons learned from CEF building blocks to build and foster communities around open source solutions.
-
-The Policy on Service and Digital refers to the vulnerability scanning of digital solutions and services, securing building blocks and patching procedures.
+The Directive on Service and Digital refers to cyber security of digital solutions and services.
 OSS code can be inspected in detail and is easily included in systematic vulnerability scanning.
 This is another practical link between the Policy on Service and Digital and the open first strategy.
 
