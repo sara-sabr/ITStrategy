@@ -197,7 +197,7 @@ To drive efficiencies across the GC, the Policy on Service and Digital hinges on
 
 ORE ?
 
-> The platform will be built around a catalogue containing reusable building blocks and services, open-source solutions, a corporate architecture, standards, best practices, support and consultancyservices.
+> The platform will be built around a catalogue containing reusable building blocks and services, open-source solutions, a corporate architecture, standards, best practices, support and consult ancyservices.
 
 We have here a direct link between the Policy on Service and Digital and the open first strategy: the reusable solutions platform proves the benefits of a working culture based on the principles of open standards and OSS.
 
@@ -211,7 +211,7 @@ This is another practical link between the Policy on Service and Digital and the
 Notes:
 
 Canada has established clear vision and designed it policies to nudge departments towards it.
-By adopting this strategy, ESDC is taking another step in realizing the vision outlined by the governement.
+By adopting this strategy, ESDC is taking another step in realizing the vision outlined by the government.
 
 ### Sharing and reuse benefits all
 
@@ -246,7 +246,7 @@ Note:
 
 Work done in the open supports greater transparency and accountability, ensuring that citizens can trust the public service in doing due diligence.
 
-It helps contribute to the greater good by sharing knowledge and to ensure perenniality of investments done with our citizens money.
+It helps contribute to the greater good by sharing knowledge and to ensure durability of investments done with our citizens money.
 
 ### Build a world class public service
 
@@ -353,7 +353,7 @@ In addition to sharing source code, the Commission should consider joining open-
 
 > We make sure the code we use and the code we share is free from vulnerabilities by applying continuous security testing.
 
-Following IT security best practices and monitoring security advisories, automated continuous security testing willbe in place to make sure that OSS components that we use in our applications are free from vulnerabilities.
+Following IT security best practices and monitoring security advisories, automated continuous security testing will be in place to make sure that OSS components that we use in our applications are free from vulnerabilities.
 Likewise, we will thoroughly test the code that we intend to share.
 
 ESDC already has experience in this area in our security teams and the Computer Emergency Response Team for the institutions (CERT-EU), and from EU-FOSSA/EU-FOSSA2.
