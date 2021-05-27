@@ -50,7 +50,7 @@ It cannot be controlled by any single person or entity with any vested interests
 - specifications and supporting material are freely available with limited restrictions; and
 - they are supported by the community and demonstrate independence or approved through due process by rough consensus among participants.
 
-Working across the ESDC, and joined by other GC departments, provicial Governments, companies and the public at large, we can build new, innovative digital solutions that support our common policies and activities, and work towards technological sovereignty.
+Working across the ESDC, and joined by other GC departments, provincial Governments, companies and the public at large, we can build new, innovative digital solutions that support our common policies and activities, and work towards technological sovereignty.
 
 Open standards and OSS allows for incremental innovation, based on the sharing of knowledge and skills.
 Openness increases trust in public services.
@@ -149,10 +149,11 @@ https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=28108
 
 The [ESDC OSS Framework (internal link)](https://dialogue/grp/CO7397744/MasterLib/ESDC%20Open%20Source%20Management%20Framework%20v%201.2.docx), endorsed ar ESDC EARB on March 16th 2020, provides guidance and sets direction around OSS product selection considerations and compliance obligations such as governance, code sharing, licensing and security to ESDC.
 It is also to provide a list of recommendations, considerations and procedures for the adoption, management and promotion of OSS as the primary option for future and next iteration solutions of ESDC/IITB information systems.
+Some short term recommendations are:
 
-- Define and focuse on the preferred areas of adoption, consider OSS in every aspect of the ICT Ecosystem+.
-- Implement a process for the sharing and re-use of developed OSS efforts within the department, GoC and OSS Community.
-- Establish an OSS Program Office with an OSS Management Compliance Officer to take on the responsibility and further define the process and reporting requirements to be able to recognize and address circumstances that arise from license auditing and compliance conditions.
+- Define and focus on the preferred areas of adoption, consider OSS in every aspect of the ICT Ecosystem+;
+- Implement a process for the sharing and re-use of developed OSS efforts within the department, GoC and OSS Community; and
+- Establish an OSS Program Office to take on the responsibility and further define the process and reporting requirements.
 
 ## 4 Goals and Outcomes
 
@@ -305,7 +306,7 @@ Below are the six principles that govern this strategy:
 The GC is an enthusiastic user of and contributor to OSS.
 This is reflected in its Digital Standards and Policy on Service and Digital, which encourages the IT community to tap into the growing potential of open standards and OSS as well as join forces with major commercial players and communities, and mobilise co-creation capacity to support departments in pioneering new solutions.
 
-The GC [Guide for using OSS](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/open-source-software/guide-for-using-open-source-software.html) provides recomendations how to: actively and fairly consider Open Source Software; verify OSS ownership or licence; evaluate support options; use OSS with or without modification.
+The GC [Guide for using OSS](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/open-source-software/guide-for-using-open-source-software.html) provides recommendations how to: actively and fairly consider Open Source Software; verify OSS ownership or licence; evaluate support options; use OSS with or without modification.
 
 ### Transform
 
@@ -338,7 +339,7 @@ The principles and actions of this strategy will make it easier to obtain permis
 Currently, the paperwork involved in this process takes time to complete and this holds back many of our in-house projects.
 This situation needs to change.
 
-The GC [Guide for publishing open source code](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/open-source-software/guide-for-publishing-open-source-code.html) provides recomendations how to: seek approvals, obtain rights to custom code in contracts; consider security implications; select OSS licence; select source code repository; add recommended files; publishing a legacy application.
+The GC [Guide for publishing open source code](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/open-source-software/guide-for-publishing-open-source-code.html) provides recommendations how to: seek approvals, obtain rights to custom code in contracts; consider security implications; select OSS licence; select source code repository; add recommended files; publishing a legacy application.
 
 ### Contribute
 
@@ -352,7 +353,7 @@ This will contribute to the viability of the ecosystem and facilitate product ma
 
 In addition to sharing source code, ESDC should consider joining open-source programme boards and committees, devise systematic methods for targeted funding, work to improve security and find ways to help critical open-source projects become self-sustainable.
 
-The GC [Guide for Contributing to OSS](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/open-source-software/guide-for-contributing-to-open-source-software.html) provides recomendations how to: verify OSS licence; verify contributing process and policies; additional approvals; contribute to the project; contribute through professional services; publish contributions regardless of upstream acceptance.
+The GC [Guide for Contributing to OSS](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/open-source-software/guide-for-contributing-to-open-source-software.html) provides recommendations how to: verify OSS licence; verify contributing process and policies; additional approvals; contribute to the project; contribute through professional services; publish contributions regardless of upstream acceptance.
 
 ### Secure
 
