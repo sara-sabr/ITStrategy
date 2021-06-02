@@ -8,26 +8,25 @@ sections: Pilotes
 permalink: /auto-evaluation-devops.html
 ---
 
-Le sondage suivant s'appuie sur le [Rapport sur l'état du DevOps] (https://cloud.google.com/devops/state-of-devops/) publié chaque année depuis 2014 par DevOps Research and Assessment (DORA).
+Le sondage suivant s'appuie sur le [Rapport sur l'état du DevOps](https://cloud.google.com/devops/state-of-devops/) publié chaque année depuis 2014 par DevOps Research and Assessment (DORA).
 Le programme de recherche DevOps, qui existe depuis six ans, a permis de valider plusieurs capacités techniques, de processus, de mesure et culturelles afin d'accélérer la livraison de logiciels et le rendement organisationnel.
-Les questions du sondage serviront à mesurer et à appuyer l'[amélioration continue](https://cloud.google.com/solutions/devops/devops-culture-transform) de ces capacités à la DGIIT et à EDSC.
+Les questions du sondage serviront à mesurer et à appuyer l'[amélioration continue](https://cloud.google.com/architecture/devops/devops-culture-transform) de ces capacités à la DGIIT et à EDSC.
 Les équipes sont priées de répondre au sondage tous les 6 (six) à 12 (douze) mois pour mesurer la réussite de leurs activités.
 L'équipe de la stratégie des TI recommande aux équipes de répondre à toutes les capacités pour déterminer la situation initiale et mesurer les progrès accomplis.
 
-Faites l'[Auto-évaluation DevOps](https://sara-sabr.github.io/auto-evaluation-devops-self-assessment/?lang=fr) ou continuez à lire pour plus d'informations.
+Faites l'[Auto-évaluation DevOps](https://sara-sabr.github.io/auto-evaluation-devops-self-assessment/#/?lang=fr) ou continuez à lire pour plus d'informations.
 
-## En quoi consiste l'outil d'évaluation
+## En quoi consiste l'outil d'auto-évaluation DevOps
 
-L'outil d'évaluation est un plan d'action qui permet d'examiner soigneusement le potentiel d'auto-amélioration, de mettre au jour les épreuves et possibilités de l'équipe par le truchement des capacités, de discerner les priorités et de suivre l'évolution des progrès.
+L'outil d'auto-évaluation DevOps est un plan d'action qui permet d'examiner soigneusement le potentiel d'auto-amélioration, de mettre au jour les épreuves et possibilités de l'équipe par le truchement des capacités, de discerner les priorités et de suivre l'évolution des progrès.
 Il est convivial et ses résultats sont crédibles.
 Il permet d'examiner le rendement de l'équipe et de l'orienter vers l'atteinte du résultat espéré.
 Il favorise l'accélération du rendement technologique dans l'organisation.
 Il prend la forme d'un sondage qui permettra de mesurer le rendement de l'équipe, de concevoir ses points forts et de donner des recommandations sur les points à améliorer.
 Aucune donnée n'est recueillie au cours du processus et la confidentialité des réponses est protégée.
-L'outil révélera les domaines dans lesquels les compétences de votre équipe sont en deçà du niveau requis pour atteindre ses objectifs.
+L'outil d'auto-évaluation DevOps révélera les domaines dans lesquels les compétences de votre équipe sont en deçà du niveau requis pour atteindre ses objectifs.
 Les insuffisances qui ne sont pas comblées ont tendance à s'aggraver, ce qui occasionne tôt ou tard l'effondrement des équipes.
 Les recommandations présentées à chaque section permettront à votre équipe de combler ses insuffisances pour ensuite progresser et atteindre les objectifs requis.
-L'utilisateur peut sauvegarder la note et les recommandations obtenues dans l'optique de revenir au sondage et y répondre de nouveau.
 Après avoir comparé les compétences définies dans la première évaluation avec les résultats obtenus dans la deuxième, vous verrez dans quelle mesure le rendement de votre équipe a progressé.
 Il est possible de répéter ce processus jusqu'à l'atteinte des résultats souhaités dans le rendement de l'équipe.
 
@@ -40,7 +39,7 @@ Cette faculté contribuera à améliorer le rendement de la technologie et des o
 
 Aux équipes de la DGIIT qui cherchent constamment à s'améliorer et à appuyer les initiatives d'amélioration de leurs homologues.
 
-### Quel est l'objectif de l'outil d'évaluation
+### Quel est l'objectif de l'outil d'auto-évaluation
 
 Après avoir analysé les réponses, les équipes de la TI dans l'organisation peuvent constater si cette dernière avance dans la bonne direction.
 L'outil d'évaluation DevOps permet de concevoir clairement les points forts et les besoins à combler, d'exposer le niveau actuel de maturité et de définir un plan d'action quant aux améliorations à apporter.
@@ -49,7 +48,7 @@ Pour obtenir de meilleurs résultats, servez-vous de la trajectoire ci-dessous, 
 Il y a 4 cercles reliés par une flèche allant dans le sens des aiguilles d'une montre.
 Les titres des cercles sont: haut "Assess"; droit "Analyze"; bas "Implement"; gauche "Improve".](assets/images/assessment_process_improvement.png){:style="display:block;margin-left:auto;margin-right:auto"}
 
-## Processus de l'outil d'évaluation
+## Processus de l'outil d'auto-évaluation DevOps
 
 Voici les étapes de notre processus :
 

@@ -13,6 +13,7 @@ Les stratégies et les actions seront révisées et mises à jour trimestriellem
 
 - [Objectifs](#objectifs)
 - [Actions](#actions)
+- [Résultats](#résultats)
 
 ### Objectifs
 
@@ -62,7 +63,7 @@ Codes CATS :
 - Se tenir au courant des tendances et des technologies à l'intérieur et à l'extérieur du GC
 - Apprendre la programmation de base (p.ex., .Net Core, Java, Python, JavaScript)
 - Expérimenter les technologies infonuagiques - [Play with Docker](https://labs.play-with-docker.com) (Anglais)
-- Suivre des cours en ligne - [edX](https://www.edx.org) (Anglais), [Cousera](https://www.coursera.org) (Anglais), [Udemy](https://www.udemy.com) (Anglais), ou faites une recherche sur [MOOC List](https://www.mooc-list.com) (Anglais)
+- Suivre des cours en ligne - [edX](https://www.edx.org) (Anglais), [Cousera](https://www.coursera.org) (Anglais), [Udemy](https://www.udemy.com) (Anglais), ou faites une recherche sur MOOC List (```https://www.mooc-list.com```) (Anglais)
 - Étudier pour les certifications des fournisseurs de services en infonuagique certifiés (p.ex., [AWS](https://aws.amazon.com/fr/certification/), [Azure](https://docs.microsoft.com/fr-ca/learn/certifications/browse/?products=azure)
 - Lire des livres, des articles ou de la documentation - Voir nos [Références]({{ site.baseurl }}/references-fr.html)
 - Assister à des événements ou des conférences
