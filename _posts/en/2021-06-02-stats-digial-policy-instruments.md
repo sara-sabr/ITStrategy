@@ -165,15 +165,31 @@ Below is the list of policy instruments that was analyzed to produce the above s
     <td class="level2">Directive on Security Management</td>
   </tr>
   <tr>
-    <td class="level3">Mandatory Procedures for EA Assessment</td>
+    <td class="level2">Directive on Open Government</td>
     <td class="level2">Directive on Identity Management</td>
   </tr>
   <tr>
-    <td class="level3">Mandatory Procedures on API</td>
-    <td class="level3">Standard on Security Categorization</td>
+    <td class="level2">Directive on Business Number</td>
+    <td class="level3">Mandatory Procedures for IT Security Control</td>
+  </tr>
+  <tr>
+    <td class="level2">Directive on Automated Decision-Making</td>
+    <td class="level3">Mandatory Procedures for IM Security Control</td>
+  </tr>
+  <tr>
+    <td class="level3">Mandatory Procedures for EA Assessment</td>
+    <td class="level3">Mandatory Procedures for Security Screening Control</td>
+  </tr>
+  <tr>
+    <td class="level3">Mandatory Procedures on API</td>  
+    <td class="level3">Mandatory Procedures for Security Event Management Control</td>
   </tr>
   <tr>
     <td class="level3">Mandatory Procedures for Privacy and Monitoring of Network and Device Use Information</td>
+    <td class="level3">Mandatory Procedures for Security Awareness and Training Control</td>
+  </tr>
+  <tr>
+    <td class="level3">Mandatory Release of Government Information</td>
     <td class="level3">Standard on Identity and Credential Assurance</td>
   </tr>
   <tr>
@@ -182,60 +198,44 @@ Below is the list of policy instruments that was analyzed to produce the above s
   </tr>
   <tr>
     <td class="level3">Standard on IT Provisions</td>
-    <td class="level3">Mandatory Procedures for IT Security Control</td>
+    <td class="level3">Standard on Security Categorization</td>
   </tr>
   <tr>
-    <td class="level2">Directive on Open Government</td>
-    <td class="level3">Mandatory Procedures for IM Security Control</td>
+    <td class="level3">Standard on EDRMS</td>
+    <td>&nbsp;</td>
   </tr>
   <tr>
-    <td class="level3">Mandatory Release of Government Information</td>
-    <td class="level3">Mandatory Procedures for Security Screening Control</td>
+    <td class="level3">Standard on Email Management</td>
+    <td>&nbsp;</td>
   </tr>
   <tr>
-    <td class="level2">Directive on Business Number</td>
-    <td class="level3">Mandatory Procedures for Security Event Management Control</td>
+    <td class="level3">Standard on Geospatial Data</td>
+    <td>&nbsp;</td>
   </tr>
   <tr>
-    <td class="level2">Directive on Automated Decision-Making</td>
-    <td class="level3">Mandatory Procedures for Security Awareness and Training Control</td>
+    <td class="level3">Standard on Metadata</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="level3">Standard on optimizing Websites and Apps for Mobile</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="level3">Standard on Web Accessibility</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="level3">Standard on Web Interoperability</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="level3">Standard on Web Usability</td>
+    <td>&nbsp;</td>
   </tr>
   <tr>
     <td class="level3">Impact Level Requirements</td>
     <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="level2">Standard on EDRMS</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="level2">Standard on Email Management</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="level2">Standard on Geospatial Data</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="level2">Standard on Metadata</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="level2">Standard on optimizing Websites and Apps for Mobile</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="level2">Standard on Web Accessibility</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="level2">Standard on Web Interoperability</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="level2">Standard on Web Usability</td>
-    <td>&nbsp;</td>
-  </tr>
+  </tr>  
 </table>
 
 ## Notes
