@@ -47,7 +47,7 @@ This blog highlights the amount of requirements that Treasury Board (TB) policy 
 <!--more-->
 
 A number of TB policy instruments were re-adjusted as part of the Policy Suite Reset exercise, some of which encompasses the broad "Digital" policy suite of instruments.
-We see a clear indication that **lines of business need to develop strong technical acumen** to understand digital and **plan their digital products roadmaps**.
+We see a clear indication that **lines of business need to develop strong technical acumen** to understand digital and **plan their digital [products roadmaps](https://www.pmi.org/disciplined-agile/process/product-management)**.
 We also see how **technologists need to foster greater empathy towards their business partners** regarding how technology is to enable all service delivery and how it affects the cyber security landscape of government.
 
 We've analyzed a total of 31 policy instruments (Policies, Directives, Standards, and Mandatory Procedures). Here are some statistics around the number of requirements each senior official is accountable for.
