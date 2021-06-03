@@ -1866,8 +1866,8 @@
     - col:
       data:
         list: false
-        fr: <strong>Grand Total</strong>
-        en: <strong>Grand Total</strong>
+        fr: <strong>(Grand Total)</strong>
+        en: <strong>(Grand Total)</strong>
     - col:
       data:
         list: false
