@@ -157,89 +157,85 @@ Below is the list of policy instruments that was analyzed to produce the above s
     <th colspan="2" style="background-color: gold; text-align: center;"><a href="https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html">Digital Standards</a></th>
   </tr>
   <tr>
-    <td class="level1" width="50%">Policy on Service and Digital</td>
-    <td class="level1" width="50%">Policy on Government Security</td>
+    <td class="level1" style="width: 50%">Policy on Service and Digital</td>
+    <td class="level1" style="width: 50%">Policy on Government Security</td>
   </tr>
   <tr>
     <td class="level2">Directive on Service and Digital</td>
     <td class="level2">Directive on Security Management</td>
   </tr>
   <tr>
-    <td class="level2">Directive on Open Government</td>
-    <td class="level2">Directive on Identity Management</td>
-  </tr>
-  <tr>
-    <td class="level2">Directive on Open Government</td>
-    <td class="level2">Directive on Identity Management</td>
-  </tr>
-  <tr>
-    <td class="level2">Directive on Business Number</td>
-    <td class="level3">Standard on Security Categorization</td>
-  </tr>
-  <tr>
-    <td class="level2">Directive on Automated Decision-Making</td>
-    <td class="level3">Standard on Identity and Credential Assurance</td>
-  </tr>
-  <tr>
-    <td class="level3">Standard on EDRMS</td>
-    <td class="level3">Standard on Security Event Reporting</td>
-  </tr>
-  <tr>
-    <td class="level3">Standard on Email Management</td>
-    <td class="level3">Mandatory Procedures for IT Security Control</td>
-  </tr>
-  <tr>
-    <td class="level3">Standard on Geospatial Data</td>
-    <td class="level3">Mandatory Procedures for IM Security Control</td>
-  </tr>
-  <tr>
-    <td class="level3">Standard on Metadata</td>
-    <td class="level3">Mandatory Procedures for Security Screening Control</td>
-  </tr>
-  <tr>
-    <td class="level3">Standard on optimizing Websites and Apps for Mobile</td>
-    <td class="level3">Mandatory Procedures for Security Event Management Control</td>
-  </tr>
-  <tr>
-    <td class="level3">Standard on Web Accessibility</td>
-    <td class="level3">Mandatory Procedures for Security Awareness and Training Control</td>
-  </tr>
-  <tr>
-    <td class="level3">Standard on Web Interoperability</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="level3">Standard on Web Usability</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="level3">Standard on IT User and Workpoint Profiles</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="level3">Standard on IT Provisions</td>
-    <td>&nbsp;</td>
-  </tr>  
-  <tr>
     <td class="level3">Mandatory Procedures for EA Assessment</td>
-    <td>&nbsp;</td>
+    <td class="level2">Directive on Identity Management</td>
   </tr>
   <tr>
     <td class="level3">Mandatory Procedures on API</td>
-    <td>&nbsp;</td>
+    <td class="level3">Standard on Security Categorization</td>
   </tr>
   <tr>
     <td class="level3">Mandatory Procedures for Privacy and Monitoring of Network and Device Use Information</td>
-    <td>&nbsp;</td>
+    <td class="level3">Standard on Identity and Credential Assurance</td>
+  </tr>
+  <tr>
+    <td class="level3">Standard on IT User and Workpoint Profiles</td>
+    <td class="level3">Standard on Security Event Reporting</td>
+  </tr>
+  <tr>
+    <td class="level3">Standard on IT Provisions</td>
+    <td class="level3">Mandatory Procedures for IT Security Control</td>
+  </tr>
+  <tr>
+    <td class="level2">Directive on Open Government</td>
+    <td class="level3">Mandatory Procedures for IM Security Control</td>
   </tr>
   <tr>
     <td class="level3">Mandatory Release of Government Information</td>
+    <td class="level3">Mandatory Procedures for Security Screening Control</td>
+  </tr>
+  <tr>
+    <td class="level2">Directive on Business Number</td>
+    <td class="level3">Mandatory Procedures for Security Event Management Control</td>
+  </tr>
+  <tr>
+    <td class="level2">Directive on Automated Decision-Making</td>
+    <td class="level3">Mandatory Procedures for Security Awareness and Training Control</td>
+  </tr>
+  <tr>
+    <td class="level3">Impact Level Requirements</td>
     <td>&nbsp;</td>
   </tr>
   <tr>
-    <td class="level3">AIA Appendix C - Impact Level Requirements</td>
+    <td class="level2">Standard on EDRMS</td>
     <td>&nbsp;</td>
-  </tr>  
+  </tr>
+  <tr>
+    <td class="level2">Standard on Email Management</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="level2">Standard on Geospatial Data</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="level2">Standard on Metadata</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="level2">Standard on optimizing Websites and Apps for Mobile</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="level2">Standard on Web Accessibility</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="level2">Standard on Web Interoperability</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="level2">Standard on Web Usability</td>
+    <td>&nbsp;</td>
+  </tr>
 </table>
 
 ## Notes
