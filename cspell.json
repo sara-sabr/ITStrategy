@@ -528,7 +528,9 @@
     "ARLU",
     "Colfer",
     "Kohavi",
-    "projectisation"
+    "projectisation",
+    "CCIGQ",
+    ""
   ],
   "flagWords": [],
   "import": ["node_modules/@cspell/dict-fr-fr/cspell-ext.json"],
