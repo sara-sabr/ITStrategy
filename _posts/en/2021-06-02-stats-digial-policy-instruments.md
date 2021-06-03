@@ -56,7 +56,7 @@ Some needed ESDC context (that may be different in other departments):
 
 - The person holding the role of CIO also holds the role of a Departmental Official responsible for Cyber Security (DOCS). As such, that person is effectively accountable for both CIO and DOCS requirements.
 - the Chief Security Officer (CSO) reports to the Assistant Deputy Minister (ADM) that is responsible for Identity Management (a different ADM than the one holding the role of CIO/DOCS). So in the statistics below, we have indicated that Identity Management requirements fall under the CSO.
-- The CIO is currently the one signin-off Algorithmic Impact Assessments (AIA), not the Business-level ADM. As such, we have indicated that the Directive on Automated Decision Making and its AIA requirements fall under the CIO.
+- The CIO is currently the one signing-off Algorithmic Impact Assessments (AIA), not the Business-level ADM. As such, we have indicated that the Directive on Automated Decision Making and its AIA requirements fall under the CIO.
 - Policy instruments do not mention the role of a Chief Data Officer (CDO). Instead they put the accountability of data under the CIO. At ESDC, we have a CDO that reports to a different ADM than the CIO. We have placed accountability to the CDO within the context of the Mandatory Procedures for Enterprise Architecture Assessment.
 
 ## Statistics
