@@ -348,7 +348,7 @@ By adopting this strategy, ESDC is taking a stand and moving towards a world cla
 
 Notes:
 
-Add Policy on Service and Digital's requirement 4.4.2.5 Open access to digital tools
+Add Policy on Service and Digital requirement 4.4.2.5 Open access to digital tools
 (language that the public service need access to modern tools, without extensive procurement barriers)
 
 ## 5. Governing Principles
@@ -443,7 +443,7 @@ ESDC already has experience in this area in our security teams and the Computer 
 
 Notes:
 
-ITSG-33 ??
+Security checklist (33)
 
 Security and privacy methods and tools should be made available for all to ensure that this practice can be accomplished with the least barriers as possible.
 
@@ -479,8 +479,8 @@ The OSS Framework didn't go deep enough IMHO, will need to:
   adding ESDC's contributions (e.g. WET). The CDO must also be doing lots on that front that warrants to be highlighted
 
 - 2007 - The first GC position on OSS
-- 2014 - WET-BOEW
-- 2015 - SSC Functionnal direction software strategy
+- 2014 - Web Experience Toolkit (WET)
+- 2015 - SSC Functional direction software strategy
 - 2016 - PCH Elements of a technical interoperability framework
 - 2018 - Open First Whitepaper
 - 2019 - Policy and Directive on Service and Digital
