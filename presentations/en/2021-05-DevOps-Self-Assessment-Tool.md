@@ -73,7 +73,7 @@ Identifies **capabilities that drive high performance in IT** delivery and organ
 
 ### Continuous Improvement Transformation
 
-<img src="https://sara-sabr.github.io/ITStrategy/assets/images/AssessmentTool1.png" alt="This image shows how to improve team transformation. There are five stages of improvement: 1. Setting goals - where IITB sets aspirational goal. 2. Current condition - where teams seek to understand the current condition. 3. Measurable targets - where teams set measurable targets for a future date. 4. Running experiments -where teams run experiments on a daily basis to move towards the target conditions, using PDCA (Plan, Do, Check, Act) method. 5. New targets - where teams capture, set new targets and going to repat the process 2-3 times. The image also demonstrates PDCA method. Plan - determine the expected outcome. Do - perform the experiment. Check- study the results. Act - decide what to do next.">
+<img src="https://sara-sabr.github.io/ITStrategy/assets/images/AssessmentTool1.png" alt="This image shows how to improve team transformation. There are five stages of improvement: 1. Setting goals - where IITB sets aspirational goals. 2. Current condition - where teams seek to understand the current condition. 3. Measurable targets - where teams set measurable targets for a future date. 4. Running experiments - where teams run experiments on a daily basis to move towards the target conditions, using PDCA (Plan, Do, Check, Act) method. 5. New targets - where teams capture, set new targets and going to repat the process 2-3 times. The image also demonstrates PDCA method. Plan - determine the expected outcome. Do - perform the experiment. Check- study the results. Act - decide what to do next.">
 
 --
 
@@ -92,7 +92,7 @@ Identifies **capabilities that drive high performance in IT** delivery and organ
 
 - Learn about DevOps and IT Capabilities
 - Gather data to assess, analyse, implement and improve DevOps maturity, year over year at ESDC
-- Determine your teams' alignment to DORA
+- Determine your team's alignment to DORA
   - Get recommendations on what your team can do to improve its capabilities
 
 > DevOps objectives and guidance will continuously improve over time
@@ -101,13 +101,13 @@ Identifies **capabilities that drive high performance in IT** delivery and organ
 
 ## How does it work
 
-<img src="https://sara-sabr.github.io/ITStrategy/assets/images/Process.png" alt= "First, IT teams receive a link to take advantage of the DevOps Self-Assessment tool (example: IT Strategy website, email, coworker sharing. Then, the user is taking a survey after what it is scored based on responces. If the user scores high, which is 90-100%, the team is doing well. If the user scores medium, which is 50-89%, there is a room for the team to improve. If the user score low, which is 0-49%, the team needs to fill gaps with new learning opportunities. In all cases recommendations on where and how to improve will be provided. Finally, the user can save results.">
+<img src="https://sara-sabr.github.io/ITStrategy/assets/images/Process.png" alt= "First, IT teams receive a link to take advantage of the DevOps Self-Assessment tool (example: IT Strategy website, email, coworker sharing). Then, the user fills in the tool to get a scored based on responces. If the user scores high, which is 90-100%, the team is doing well. If the user scores medium, which is 50-89%, there is a room for the team to improve. If the user score low, which is 0-49%, the team needs to fill gaps with new learning opportunities. In all cases recommendations on where and how to improve will be provided.">
 
 --
 
 ## What is involved
 
-<img src="https://sara-sabr.github.io/ITStrategy/assets/images/sections.png" alt="The image shows how many sections has a survey. The survey has eveven sections. Teams are encouraged to fill out every section. It is possible to to fill out individual sections independently. How long does it take? The complete assessment takes under an hour. Each section takes 3-5 minutes. How often to use it? We recommend to use DevOps Self-Assessment tool every 6-12 month to measure teams progress and to reestablish baseline.">
+<img src="https://sara-sabr.github.io/ITStrategy/assets/images/sections.png" alt="The image shows how many sections the tool has. The tool has eveven sections. Teams are encouraged to fill out every section. It is possible to to fill out individual sections independently. How long does it take? The complete assessment takes under an hour. Each section takes 3-5 minutes. How often to use it? We recommend to use DevOps Self-Assessment tool every 6-12 month to measure teams progress and to reestablish baseline.">
 
 ---
 
@@ -124,16 +124,15 @@ UX tested with 8 users
 
 Demo !
 
-[DevOps Self-Assessment Tool](https://sara-sabr.github.io/auto-evaluation-devops-self-assessment/)
+[DevOps Self-Assessment Tool](https://sara-sabr.github.io/auto-evaluation-devops-self-assessment/#/)
 
 Questions ?
-
-[Code on Github](https://github.com/sara-sabr/auto-evaluation-devops-self-assessment)
 
 ---
 
 ### Other Links
 
+- [DevOps Self-Assessment Tool - Code on Github](https://github.com/sara-sabr/auto-evaluation-devops-self-assessment)
 - [DORA Capabilities](https://cloud.google.com/architecture/devops/capabilities)
   - [DORA Transformational Leadership](https://cloud.google.com/architecture/devops/devops-culture-transformational-leadership)
 - [DORA DevOps Quick check](https://www.devops-research.com/quickcheck.html)
