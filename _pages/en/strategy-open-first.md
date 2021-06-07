@@ -5,6 +5,7 @@ ref: open-first-strategy
 lang: en
 status: In Progress;primary
 sections: Strategies
+version: 0.01
 permalink: /open-first-strategy.html
 ---
 <!-- the below cSpell statement says to ignore any text between HTML tags. E.g. it will ignore "th rowspan='2'" in this string: <th rowspan='2'> -->
