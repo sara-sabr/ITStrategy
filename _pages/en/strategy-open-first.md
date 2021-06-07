@@ -187,7 +187,7 @@ The [ESDC OSS Framework (internal link)](https://dialogue/grp/CO7397744/MasterLi
 It also provides a list of recommendations, considerations and procedures for the adoption, management and promotion of OSS as the primary option for future and next iteration solutions of ESDC/IITB information systems.
 Some short term recommendations are:
 
-- Define and focus on the preferred areas of adoption, consider OSS in every aspect of the ICT Ecosystem+;
+- Define and focus on the preferred areas of adoption, consider OSS in every aspect of the IMIT ecosystem;
 - Implement a process for the sharing and re-use of developed OSS efforts within the department, GoC and OSS Community; and
 - Establish an OSS Program Office to take on the responsibility and further define the process and reporting requirements.
 
@@ -221,7 +221,7 @@ and around the worlds' leading nations (ex.:
 [USA](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2016/m_16_21.pdf), ..)
 have adopted policies, directives or guidance on open standards and OSS.
 
-Properly implemented, the strategy, its governing principles and its action plan will help us build and deliver better ICT solutions and services, to leverage the innovative and collaborative power of open standards, OSS and working in the open.
+Properly implemented, the strategy, its governing principles and its action plan will help us build and deliver better IMIT solutions and services, to leverage the innovative and collaborative power of open standards, OSS and working in the open.
 They will make ESDC and the GC part of the OSS community, an agile contributor and active participant.
 By co-developing with other Canadian public-sector organisations and encouraging the sharing and reuse of our solutions, knowledge and expertise, we will deliver better services that enrich society and reduce its costs.
 
@@ -288,9 +288,20 @@ This is also in line with the Policy on Service and Digital and the Mandatory Pr
 - All source code must be released under an appropriate OSS license
 - Leverage and reuse existing solutions, components, and processes
 
+More importantly, leveraging open standards and OSS enables ESDC to work in the open by default, including in software development and service design, creating incredible opportunities for cross-jurisdictional cooperation for the improvement of services to Canadians.
+
+By adopting the OSS technologies and methodologies and ensuring that open standards and interoperability are mandatory to all its software enabled solutions, ESDC will be in a strategic position to share and leverage the knowledge of other departments and public services across the country.
+Even citizens and companies would have the opportunity to study and contribute to these initiatives in a truly transparent way.
+
+This is in line with industry best practices where companies have increasingly released as OSS software products, in parts or in whole, to realize economies of scale for software development and to focus on their core mandate.
+Any ancillary capabilities are opened up and built in the open to create a place where many can collaborate on commonly needed software solutions.
+
+Finally, this opens up new opportunities for smaller companies to get a foot in the door to do business with the GC since they wouldn't be written off de facto by the fact that only a few larger companies have acquired the rights to provide services related to proprietary software.
+
+```markdown
 Note:
 
-Working in the open, including software development, helps ensure that the resources used in the development of solutions for Canadians are
+~~Working in the open, including software development, helps ensure that the resources used in the development of solutions for Canadians are~~
 
 This approach also enables further collaboration across the multiple jurisdictions within the country and with private sector as well.
 
@@ -299,6 +310,7 @@ Economies of scale, working in the open leads to not only the product being reus
 This is more practical in the economics sense of the contributions models brought in by OSS and its associated methodologies.
 
 Maybe bold a bit, but we can state that this could result in promoting new commercial opportunities for Canadians (eg. support contracts) to the Gov and other business internationally.
+```
 
 ### Contribute to the knowledge society
 
