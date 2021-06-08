@@ -533,7 +533,8 @@
     "Kohavi",
     "projectisation",
     "DGSC",
-    "SGEDD"
+    "SGEDD",
+    "CCIGQ"
   ],
   "flagWords": [],
   "import": ["node_modules/@cspell/dict-fr-fr/cspell-ext.json"],
