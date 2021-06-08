@@ -11,6 +11,10 @@ permalink: /open-first-strategy.html
 <!-- the below cSpell statement says to ignore any text between HTML tags. E.g. it will ignore "th rowspan='2'" in this string: <th rowspan='2'> -->
 <!-- cSpell:ignoreRegExp /\<[^\>]+\>/ -->
 
+<div class="alert alert-primary" role="alert">
+  This strategy was strongly influenced by the <a class="alert-link" href="https://ec.europa.eu/info/departments/informatics/open-source-software-strategy_en">European Commission Open source software strategy 2020-2023</a>.
+</div>
+
 1. Introduction
 2. Vision
 3. Commitment
@@ -32,7 +36,7 @@ In all of this, open standards and open source software (OSS) have a role to pla
 Open standards are a set of rules designed to do a specific job in technology.
 They refer to file formats, protocols and application interfaces that can be implemented by everyone (in open source and proprietary software alike).
 
-Inspired by France's Référentiel Général d'Interopérabilité (RGI) or "General Guidelines for Interoperability", the Cadre Commun d'Interopérabilité du Gouvernement du Québec (CCIGQ) of the "Quebec government's common interoperability framework", the European Interoperability Framework (EIF) and the British Cabinet Office's Open Standards Principles, the following criteria define open standards:
+Inspired by France's [Référentiel Général d'Interopérabilité](https://www.numerique.gouv.fr/publications/interoperabilite/) or "General Guidelines for Interoperability", the Quebec government's [Cadre Commun d'Interopérabilité](https://www.tresor.gouv.qc.ca/ressources-informationnelles/architecture-dentreprise-gouvernementale/standards-et-normes/cadre-commun-dinteroperabilite/) or the "Common interoperability framework", the [European Interoperability Framework](https://ec.europa.eu/isa2/eif_en) and the British Cabinet Office's [Open Standards Principles](https://www.gov.uk/government/publications/open-standards-principles/open-standards-principles), the following criteria define open standards:
 
 - process for the standard's development is open and transparent to all interested parties and cannot be controlled by any single person or entity with any vested interests;
 - platform independent, vendor neutral and usable for multiple implementations;
@@ -40,12 +44,13 @@ Inspired by France's Référentiel Général d'Interopérabilité (RGI) or "Gene
 - supported by the community and demonstrate independence or approved through due process by rough consensus among participants.
 
 Free software is software that respects users' freedom and community.
-Free software is defined by four essential freedoms: to run the program, study how it works, modify it and redistribute it.
+It is defined by four essential freedoms: to run the program, study how it works, modify it and redistribute it.
 Access to the source code is a precondition for these freedoms and not the end goal itself.
+
 OSS is software where the source code is distributed and can be used, copied, studied and redistributed.
 Free software and OSS are equivalent but represent two different visions.
 
-All software licensed under an [Open Source Initiative approved license](https://opensource.org/licenses/alphabetical) or a [Free Software Foundation free software licence](https://www.gnu.org/licenses/license-list.html#SoftwareLicenses) is considered OSS and can be used by the GC.
+All software licensed under an [Open Source Initiative approved license](https://opensource.org/licenses/alphabetical) or a [Free Software Foundation free software licence](https://www.gnu.org/licenses/license-list.html#SoftwareLicenses) is considered OSS and can be used by the GC, based on the GC [Guide for using OSS](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/open-source-software/guide-for-using-open-source-software.html).
 
 ### Benefits of using open standards and OSS for ESDC and the GC
 
@@ -65,6 +70,21 @@ It cannot be controlled by any single person or entity with any vested interests
 - open standards are platform independent, vendor neutral and usable for multiple implementations;
 - specifications and supporting material are freely available with limited restrictions; and
 - they are supported by the community and demonstrate independence or approved through due process by rough consensus among participants.
+
+More information, benefits and risks of open standards and OSS are available in the [Open First Whitepaper](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/open-source-software/open-first-whitepaper.html), written by the Treasury Board of Canada Secretariat.
+These benefits include:
+
+- Avoiding Lock-in
+- Support for the Local Economy and Communities
+- Cost
+- Security - Reliance on Hardening, Not Obfuscation
+- Productivity Gains and Collaboration to Lower Development Costs
+- IT Talent and Job Satisfaction
+- Reduction in liability
+- Long-Term Feasibility
+- Public Benefits - Open Government
+- Economic Impact
+- Increase Use of Canadian Resources
 
 ### What this strategy seeks to accomplish
 
@@ -141,14 +161,6 @@ The Digital Standards include:
 - Use open standards and solutions
 - Collaborate widely
 
-### Digital Operations Strategic Plan: 2018-2022
-
-https://www.canada.ca/en/government/system/digital-government/government-canada-digital-operations-strategic-plans/digital-operations-strategic-plan-2018-2022.html
-
-- 2.1 Open government - Open data and Open by default
-- 2.2 Collaborating with Canadians
-- 4.4 IT Modernization - Introduce a strategy for use of OSS and open standards
-
 ### Policy on Service and Digital
 
 The [Policy on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603) and supporting instruments serve as an integrated set of rules that articulate how GC organizations manage service delivery, information and data, information technology, and cyber security in the digital era.
@@ -157,7 +169,7 @@ The [Policy on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?i
 
 #### Directive on Service and Digital
 
-The [Directive on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601) provides requirements for departments
+The [Directive on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601) provides requirements for departments to align to the Policy on Service and Digital.
 
 ##### Mandatory procedures for EA assessments
 
@@ -181,6 +193,25 @@ https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=28108
 
 - Maximizing the release of Government of Canada open data (structured data) and open information (unstructured documents and multi-media assets) under an open and unrestrictive licence.
 
+### Digital Operations Strategic Plan: 2018-2022
+
+The [Digital Operations Strategic Plan 2018-2022](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-operations-strategic-plans/digital-operations-strategic-plan-2018-2022.html) is the third iteration in the GC's strategic planning process for how we manage technology and technological change in government.
+It sets and provides insight into the government's digital direction.
+Departments and agencies, chief information officers (CIOs) and officials should consider it as direction from the CIO of Canada.
+In addition, while broader in scope, this Strategic Plan should be interpreted as the government's annual strategic plan for information management (IM) and information technology (IT) according to subsection 6.4.2 of the Policy on the Management of Information Technology.
+Some strategic actions are:
+
+- 2.1 Open government - Open data and Open by default
+- 2.2 Collaborating with Canadians
+- 4.4 IT Modernization - Introduce a strategy for use of OSS and open standards
+
+### Open First Whitepaper
+
+The [Open First Whitepaper](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/open-source-software/open-first-whitepaper.html) was written by the Treasury Board of Canada Secretariat to unpack and get into the details on the subject of "Open" in order to inform a few initiatives, including the new GC Enterprise Architecture Review Board (EARB) in setting standards (open standards, open source software (OSS)) that would influence our technological ecosystem as well as our Information Management - Information Technology (IM-IT) practices.
+
+The Whitepaper has sections on open standards, OSS use, OSS contribution, open markets and open culture.
+Definitions, benefits and risks are explored for each section.
+
 ### ESDC OSS Framework
 
 The [ESDC OSS Framework (internal link)](https://dialogue/grp/CO7397744/MasterLib/ESDC%20Open%20Source%20Management%20Framework%20v%201.2.docx), endorsed at ESDC EARB on March 16th 2020, provides guidance and sets direction around OSS product selection considerations and compliance obligations such as governance, code sharing, licensing and security to ESDC.
@@ -195,16 +226,9 @@ Some short term recommendations are:
 
 https://sara-sabr.github.io/ITStrategy/strategy-build-vs-buy.html
 
-### Open First Whitepaper
+### ESDC Target Solution Delivery Model
 
-The [Open First Whitepaper](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/open-source-software/open-first-whitepaper.html) was written and presented at the Open Source Advisory Board at TBS and at the GC EARB..
-
-### Others
-
-- [TSDM](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html)
-- IT Plan
-- Way Forward
-- ..
+https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html
 
 ## 4 Goals and Outcomes
 
@@ -507,7 +531,9 @@ In addition to this internal focus on an open working culture, the strategy and 
 
 With these internal and external activities, the strategy and action plan constitute practical instruments to help achieve the digital transformation of ESDC.
 
-### Open First Centre of Enablement (CoE)
+### Recomendation
+
+#### Open First Centre of Enablement (CoE)
 
 This strategy is firmly rooted in ESDC's and the wider GC policy context.
 For it to succeed, a proper enabling environment must be put in place to guide, encourage and nudge change across the organisation.
@@ -523,15 +549,34 @@ This will allow it to set priorities, measure outcomes and report on progress.
 IITB will make an annual budget request for the CoE and the action plan, to be reviewed and approved through the normal budgetary procedures.
 Using the existing corporate IT governance structures, IITB will report on, monitor and review the action plan, and deliver a mid-term review of progress and implementation of the strategy.
 
-### Actions and impact
+Based on the TODO Group (professional open source program networking group at The Linux Foundation) guide on [How to create an open source program](https://todogroup.org/guides/create-program/) the responsibilities of the Open First CoE include:
+
+- Clearly communicating the Open First strategy within and outside ESDC
+- Owning and overseeing the execution of the strategy and action plan
+- Facilitating the effective use of open standards and OSS in commercial products and services
+- Ensuring high-quality and frequent releases of code to open standards and OSS communities
+- Engaging with open communities and seeing that the organisation contributes back to other projects effectively
+- Fostering an open culture
+- Maintaining license compliance, reviews and oversight
+
+The following roles are recommended as a first version of the Open First CoE with 3 FTEs:
+
+1. Program Manager & Compliance Officer - should be empowered as an executive-level position with direct oversight and hands-on management of ESDC's interests in its Open First activities. That would give them the tools they need to lead the way inside ESDC toward its Open First goals and vision. Also tasked with the mission of ensuring open standards and OSS compliance.
+2. Legal Advisor - must have a say in the operations of the CoE to ensure compliance with laws, licensing agreements, and other legal details. Specific to open standards and OSS, the legal advisor needs to be responsible for ensuring that ESDC can consume code internally and contribute back to projects with acceptable terms.
+3. Evangelist & Developer Relations - work to build interest and enthusiasm within ESDC's developer community for specific projects, which can help grow the efforts and increase teamwork among engineers.
+
+The CoE will be responsible for, and expedite all activities in the action plan.
+
+#### Actions and impact
 
 The best way to lead is by example.
 This strategy will rapidly produce tangible evidence of the benefits of a working culture based on open principles.
 In addition, by simplifying the rules on sharing ESDC software and contributing to OSS projects, it will prove the value of open standards and OSS to the organisation and to society at large.
 
+These are the main actions:
+
 | Actions | Impact |
 |---|---|
-| Set up Open First CoE | Expedite all activities in the action plan |
 | Set, encourage and promote the inner source | Enable co-creation and collaboration |
 | Enhance the software repository | Enable co-creation and collaboration |
 | Revise software distribution practices | Process simplification; lower cost to society |
@@ -556,3 +601,28 @@ By balancing immediate technology needs and future flexibility, we can take acco
 
 To make sure these actions are executed in an organised, coordinated and scheduled manner, the strategy establishes a small CoE.
 It will liaise between projects, teams and subject-matter experts, and encourage the organisation on its path towards an open working culture.
+
+
+
+
+
+https://cnll.fr/news/etude-pac-logiciel-libre-2015-2020/
+Le revenu global généré par les logiciels libres en France représentait 4,1 milliards d’euros en 2015 (+33% par rapport à 2012).
+
+https://syntec-numerique.fr/actu-informatique/etude-sur-impact-logiciel-libre-open-source-en-france-en-2017-2021
+Les logiciels libres est une filière deux fois plus dynamique que l’ensemble du marché numérique français.
+Avec un taux de croissance annuel moyen de 8,1 % entre 2017 et 2020, le marché français du logiciel libre passera de 4,46 milliards d’euros en 2017 à 5,650 Mds d'euros dans trois ans, selon le cabinet d’études PAC.
+
+L’open source est un vecteur d’emploi très fort : L'open source représente à ce jour environ 50000 emplois en France dans le secteur du logiciel et des services.
+76% des entreprises sondées ont annoncé prévoir d’augmenter, par an, leur effectif de 20%, en particulier dans les métiers touchant à l’infrastructure, au développement et à l’expertise conseil.
+L’étude prévoit une augmentation annuelle de 3 à 4 000 créations de postes nets d’ici 2020.
+Elles se feront majoritairement sur des profils qualifiés (bac+3 et plus à 89%).
+
+    
+
+
+
+
+
+
+2012 - 
