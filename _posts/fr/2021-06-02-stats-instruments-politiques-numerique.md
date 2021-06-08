@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Un DPI est reponsable de 411 exigences"
+title: "Un DPI est responsable de 411 exigences"
 ref: stats-digital-policy-instruments
 lang: fr
 author: "Rémy Bernard, en collaboration avec l'équipe de Stratégie TI"
