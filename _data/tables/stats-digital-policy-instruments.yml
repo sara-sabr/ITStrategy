@@ -20,12 +20,12 @@
     - col:
       data:
         list: false
-        fr: CDO
+        fr: DPD
         en: CDO  
     - col:
       data:
         list: false
-        fr: CIO
+        fr: DPI
         en: CIO 
     - col:
       data:
@@ -35,27 +35,27 @@
     - col:
       data:
         list: false
-        fr: CSB(?)
+        fr: DGSC(?)
         en: CSB(?)
     - col:
       data:
         list: false
-        fr: CSO
+        fr: DPS
         en: CSO
     - col:
       data:
         list: false
-        fr: DOCS
+        fr: ARCS
         en: DOCS
     - col:
       data:
         list: false
-        fr: DM
+        fr: SM
         en: DM
     - col:
       data:
         list: false
-        fr: HR
+        fr: RH
         en: HR
     - col:
       data:
@@ -68,8 +68,8 @@
     - col:
       data:
         list: false
-        fr: Policy on Service and Digital
-        en: Policy on Service and Digital
+        fr: <a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32603">Politique sur les services et le numérique</a>
+        en: <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603">Policy on Service and Digital</a>
     - col:
       data:
         list: false
@@ -126,8 +126,8 @@
     - col:
       data:
         list: false
-        fr: Policy on Government Security
-        en: Policy on Government Security
+        fr: <a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=16578">Politique sur la sécurité du gouvernement</a>
+        en: <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=16578">Policy on Government Security</a>
     - col:
       data:
         list: false
@@ -184,8 +184,8 @@
     - col:
       data:
         list: false
-        fr: Directive on Service and Digital
-        en: Directive on Service and Digital
+        fr: <a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32601">Directive sur les services et le numérique</a>
+        en: <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601">Directive on Service and Digital</a>
     - col:
       data:
         list: false
@@ -242,8 +242,8 @@
     - col:
       data:
         list: false
-        fr: Directive on Security Management
-        en: Directive on Security Management
+        fr: <a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32611">Directive sur la gestion de la sécurité</a>
+        en: <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32611">Directive on Security Management</a>
     - col:
       data:
         list: false
@@ -300,8 +300,8 @@
     - col:
       data:
         list: false
-        fr: Directive on Open Government
-        en: Directive on Open Government
+        fr: <a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=28108">Directive sur le gouvernement ouvert</a>
+        en: <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=28108">Directive on Open Government</a>
     - col:
       data:
         list: false
@@ -358,8 +358,8 @@
     - col:
       data:
         list: false
-        fr: Directive on Identity Management
-        en: Directive on Identity Management
+        fr: <a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=16577">Directive sur la gestion de l'identité</a>
+        en: <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=16577">Directive on Identity Management</a>
     - col:
       data:
         list: false
@@ -416,8 +416,8 @@
     - col:
       data:
         list: false
-        fr: Directive on Business Number
-        en: Directive on Business Number
+        fr: <a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32579">Directive sur le numéro d’entreprise</a>
+        en: <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32579">Directive on Business Number</a>
     - col:
       data:
         list: false
@@ -474,8 +474,8 @@
     - col:
       data:
         list: false
-        fr: Directive on Automated Decision-Making
-        en: Directive on Automated Decision-Making
+        fr: <a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32592">Directive sur la prise de décisions automatisée</a>
+        en: <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32592">Directive on Automated Decision-Making</a>
     - col:
       data:
         list: false
@@ -532,8 +532,8 @@
     - col:
       data:
         list: false
-        fr: Standard on Web Usability
-        en: Standard on Web Usability
+        fr: <a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=24227">Norme sur la facilité d'emploi des sites Web</a>
+        en: <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=24227">Standard on Web Usability</a>
     - col:
       data:
         list: false
@@ -590,8 +590,8 @@
     - col:
       data:
         list: false
-        fr: Standard on Web Interoperability
-        en: Standard on Web Interoperability
+        fr: <a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=25875">Norme sur l’interopérabilité du Web</a>
+        en: <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=25875">Standard on Web Interoperability</a>
     - col:
       data:
         list: false
@@ -648,8 +648,8 @@
     - col:
       data:
         list: false
-        fr: Standard on Web Accessibility
-        en: Standard on Web Accessibility
+        fr: <a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=23601">Norme sur l'accessibilité des sites Web</a>
+        en: <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=23601">Standard on Web Accessibility</a>
     - col:
       data:
         list: false
@@ -706,8 +706,8 @@
     - col:
       data:
         list: false
-        fr: Standard on Security Event Reporting
-        en: Standard on Security Event Reporting
+        fr: <a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32613">Norme sur le signalement des événements de sécurité</a>
+        en: <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32613">Standard on Security Event Reporting</a>
     - col:
       data:
         list: false
@@ -764,8 +764,8 @@
     - col:
       data:
         list: false
-        fr: Standard on Security Categorization
-        en: Standard on Security Categorization
+        fr: <a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32614">Norme sur la catégorisation de sécurité</a>
+        en: <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32614">Standard on Security Categorization</a>
     - col:
       data:
         list: false
@@ -822,8 +822,8 @@
     - col:
       data:
         list: false
-        fr: Standard on optimizing Websites and Apps for Mobile
-        en: Standard on optimizing Websites and Apps for Mobile
+        fr: <a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=27088">Norme sur l’optimisation des sites Web et des applications pour appareils mobiles</a>
+        en: <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=27088">Standard on optimizing Websites and Apps for Mobile</a>
     - col:
       data:
         list: false
@@ -880,8 +880,8 @@
     - col:
       data:
         list: false
-        fr: Standard on Metadata
-        en: Standard on Metadata
+        fr: <a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=18909">Norme sur les métadonnées</a>
+        en: <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=18909">Standard on Metadata</a>
     - col:
       data:
         list: false
@@ -938,8 +938,8 @@
     - col:
       data:
         list: false
-        fr: Standard on IT User and Workpoint Profiles
-        en: Standard on IT User and Workpoint Profiles
+        fr: <a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32675">Norme sur les profils des utilisateurs et des points de travail pour la technologie de l’information</a>
+        en: <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32675">Standard on IT User and Workpoint Profiles</a>
     - col:
       data:
         list: false
@@ -996,8 +996,8 @@
     - col:
       data:
         list: false
-        fr: Standard on IT Provisions
-        en: Standard on IT Provisions
+        fr: <a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32674">Norme sur les dispositions relatives à la technologie de l’information</a>
+        en: <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32674">Standard on IT Provisions</a>
     - col:
       data:
         list: false
@@ -1054,8 +1054,8 @@
     - col:
       data:
         list: false
-        fr: Standard on Identity and Credential Assurance
-        en: Standard on Identity and Credential Assurance
+        fr: <a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32612">Norme sur l'assurance de l'identité et des justificatifs</a>
+        en: <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32612">Standard on Identity and Credential Assurance</a>
     - col:
       data:
         list: false
@@ -1112,8 +1112,8 @@
     - col:
       data:
         list: false
-        fr: Standard on Geospatial Data
-        en: Standard on Geospatial Data
+        fr: <a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=16553">Norme sur les données géospatiales</a>
+        en: <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=16553">Standard on Geospatial Data</a>
     - col:
       data:
         list: false
@@ -1170,8 +1170,8 @@
     - col:
       data:
         list: false
-        fr: Standard on Email Management
-        en: Standard on Email Management
+        fr: <a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=27600">Norme sur la gestion du courriel</a>
+        en: <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=27600">Standard on Email Management</a>
     - col:
       data:
         list: false
@@ -1228,8 +1228,8 @@
     - col:
       data:
         list: false
-        fr: Standard on EDRMS
-        en: Standard on EDRMS
+        fr: <a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=18910">Norme pour les (SGEDD)</a>
+        en: <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=18910">Standard on EDRMS</a>
     - col:
       data:
         list: false
@@ -1286,8 +1286,8 @@
     - col:
       data:
         list: false
-        fr: Mandatory Release of Government Information 
-        en: Mandatory Release of Government Information 
+        fr: <a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=28108">Émission obligatoire de l'information gouvernementale</a>
+        en: <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=28108">Mandatory Release of Government Information</a>
     - col:
       data:
         list: false
@@ -1344,8 +1344,8 @@
     - col:
       data:
         list: false
-        fr: Mandatory Procedures on API
-        en: Mandatory Procedures on API
+        fr: <a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32604">Procédures obligatoires sur les interfaces de programmation d’applications</a>
+        en: <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604">Mandatory Procedures on API</a>
     - col:
       data:
         list: false
@@ -1402,8 +1402,8 @@
     - col:
       data:
         list: false
-        fr: Mandatory Procedures for Security Screening Control
-        en: Mandatory Procedures for Security Screening Control
+        fr: <a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32611">Procédures obligatoires relatives aux mesures de filtrage de sécurité</a>
+        en: <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32611">Mandatory Procedures for Security Screening Control</a>
     - col:
       data:
         list: false
@@ -1460,8 +1460,8 @@
     - col:
       data:
         list: false
-        fr: Mandatory Procedures for Security Event Management Control
-        en: Mandatory Procedures for Security Event Management Control
+        fr: <a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32611">Procédures obligatoires relatives aux mesures de sécurité dans la gestion des événements</a>
+        en: <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32611">Mandatory Procedures for Security Event Management Control</a>
     - col:
       data:
         list: false
@@ -1518,8 +1518,8 @@
     - col:
       data:
         list: false
-        fr: Mandatory Procedures for Security Awareness and Training Control
-        en: Mandatory Procedures for Security Awareness and Training Control
+        fr: <a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32611">Procédures obligatoires relatives aux mesures de sécurité dans la sensibilisation et la formation</a>
+        en: <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32611">Mandatory Procedures for Security Awareness and Training Control</a>
     - col:
       data:
         list: false
@@ -1576,8 +1576,8 @@
     - col:
       data:
         list: false
-        fr: Mandatory Procedures for Privacy and Monitoring of Network and Device Use Information
-        en: Mandatory Procedures for Privacy and Monitoring of Network and Device Use Information
+        fr: <a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32607">Procédures obligatoires pour les avis liés à la protection des renseignements personnels et à la surveillance liées à l’utilisation des dispositifs et des réseaux</a>
+        en: <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32607">Mandatory Procedures for Privacy and Monitoring of Network and Device Use Information</a>
     - col:
       data:
         list: false
@@ -1634,8 +1634,8 @@
     - col:
       data:
         list: false
-        fr: Mandatory Procedures for IT Security Control
-        en: Mandatory Procedures for IT Security Control
+        fr: <a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32611">Procédures obligatoires relatives aux mesures de sécurité de la technologie de l’information</a>
+        en: <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32611">Mandatory Procedures for IT Security Control</a>
     - col:
       data:
         list: false
@@ -1692,8 +1692,8 @@
     - col:
       data:
         list: false
-        fr: Mandatory Procedures for IM Security Control
-        en: Mandatory Procedures for IM Security Control
+        fr: <a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32611">Procédures obligatoires relatives aux mesures de sécurité de la gestion de l’information</a>
+        en: <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32611">Mandatory Procedures for IM Security Control</a>
     - col:
       data:
         list: false
@@ -1750,8 +1750,8 @@
     - col:
       data:
         list: false
-        fr: Mandatory Procedures for EA Assessment
-        en: Mandatory Procedures for EA Assessment
+        fr: <a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32602">Procédures obligatoires pour l’évaluation de l’architecture intégrée</a>
+        en: <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602">Mandatory Procedures for EA Assessment</a>
     - col:
       data:
         list: false
@@ -1808,8 +1808,8 @@
     - col:
       data:
         list: false
-        fr: AIA Appendix C - Impact Level Requirements
-        en: AIA Appendix C - Impact Level Requirements
+        fr: <a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32592">Exigences par niveau d’incidence</a>
+        en: <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32592">AIA Appendix C - Impact Level Requirements</a>
     - col:
       data:
         list: false

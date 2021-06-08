@@ -242,12 +242,12 @@ Voici la liste des instruments de politiques qui ont été analysés pour produi
 
 ***Lexique***
 
-- **DPD**: Dirigeant Principal des Données
-- **DPI**:  Dirigeant Principal de l'Information
+- **ARCS**: Agent responsable de la fonction ministérielle de gestion de cyber sécurité
 - **COMS**: Chefs des communications
 - **DGSC**: Direction générale de service aux citoyens. Fait partie de Service Canada et où se trouve l'éditeur principal (voir [exigence 8.4 de cette directive](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=30682)).
+- **DPD**: Dirigeant Principal des Données
+- **DPI**:  Dirigeant Principal de l'Information
 - **DPS**: Dirigeant principal de la sécurité
-- **ARCS**: Agent responsable de la fonction ministérielle de gestion de cyber sécurité
-- **SM**: Sous Ministre (administrateur général)
 - **RH**: Gestionnaire des ressources humaines
 - **SERV**: Agent responsable de mener la fonction ministérielle de gestion des services
+- **SM**: Sous Ministre (administrateur général)

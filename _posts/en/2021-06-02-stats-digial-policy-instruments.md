@@ -157,83 +157,83 @@ Below is the list of policy instruments that was analyzed to produce the above s
     <th colspan="2" style="background-color: gold; text-align: center;"><a href="https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html">Digital Standards</a></th>
   </tr>
   <tr>
-    <td class="level1" style="width: 50%">Policy on Service and Digital</td>
-    <td class="level1" style="width: 50%">Policy on Government Security</td>
+    <td class="level1" style="width: 50%"><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603">Policy on Service and Digital</a></td>
+    <td class="level1" style="width: 50%"><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=16578">Policy on Government Security</a></td>
   </tr>
   <tr>
-    <td class="level2">Directive on Service and Digital</td>
-    <td class="level2">Directive on Security Management</td>
+    <td class="level2"><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601">Directive on Service and Digital</a></td>
+    <td class="level2"><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32611">Directive on Security Management</a></td>
   </tr>
   <tr>
-    <td class="level2">Directive on Open Government</td>
-    <td class="level2">Directive on Identity Management</td>
+    <td class="level2"><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=28108">Directive on Open Government</a></td>
+    <td class="level2"><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=16577">Directive on Identity Management</a></td>
   </tr>
   <tr>
-    <td class="level2">Directive on Business Number</td>
-    <td class="level3">Mandatory Procedures for IT Security Control</td>
+    <td class="level2"><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32579">Directive on Business Number</a></td>
+    <td class="level3"><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32611">Mandatory Procedures for IT Security Control</a></td>
   </tr>
   <tr>
-    <td class="level2">Directive on Automated Decision-Making</td>
-    <td class="level3">Mandatory Procedures for IM Security Control</td>
+    <td class="level2"><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32592">Directive on Automated Decision-Making</a></td>
+    <td class="level3"><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32611">Mandatory Procedures for IM Security Control</a></td>
   </tr>
   <tr>
-    <td class="level3">Mandatory Procedures for EA Assessment</td>
-    <td class="level3">Mandatory Procedures for Security Screening Control</td>
+    <td class="level3"><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602">Mandatory Procedures for EA Assessment</a></td>
+    <td class="level3"><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32611">Mandatory Procedures for Security Screening Control</a></td>
   </tr>
   <tr>
-    <td class="level3">Mandatory Procedures on API</td>  
-    <td class="level3">Mandatory Procedures for Security Event Management Control</td>
+    <td class="level3"><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604">Mandatory Procedures on API</a></td>  
+    <td class="level3"><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32611">Mandatory Procedures for Security Event Management Control</a></td>
   </tr>
   <tr>
-    <td class="level3">Mandatory Procedures for Privacy and Monitoring of Network and Device Use Information</td>
-    <td class="level3">Mandatory Procedures for Security Awareness and Training Control</td>
+    <td class="level3"><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32607">Mandatory Procedures for Privacy and Monitoring of Network and Device Use Information</a></td>
+    <td class="level3"><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32611">Mandatory Procedures for Security Awareness and Training Control</a></td>
   </tr>
   <tr>
-    <td class="level3">Mandatory Release of Government Information</td>
-    <td class="level3">Standard on Identity and Credential Assurance</td>
+    <td class="level3"><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=28108">Mandatory Release of Government Information</a></td>
+    <td class="level3"><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32612">Standard on Identity and Credential Assurance</a></td>
   </tr>
   <tr>
-    <td class="level3">Standard on IT User and Workpoint Profiles</td>
-    <td class="level3">Standard on Security Event Reporting</td>
+    <td class="level3"><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32675">Standard on IT User and Workpoint Profiles</a></td>
+    <td class="level3"><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32613">Standard on Security Event Reporting</a></td>
   </tr>
   <tr>
-    <td class="level3">Standard on IT Provisions</td>
-    <td class="level3">Standard on Security Categorization</td>
+    <td class="level3"><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32674">Standard on IT Provisions</a></td>
+    <td class="level3"><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32614">Standard on Security Categorization</a></td>
   </tr>
   <tr>
-    <td class="level3">Standard on EDRMS</td>
+    <td class="level3"><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=18910">Standard on EDRMS</a></td>
     <td>&nbsp;</td>
   </tr>
   <tr>
-    <td class="level3">Standard on Email Management</td>
+    <td class="level3"><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=27600">Standard on Email Management</a></td>
     <td>&nbsp;</td>
   </tr>
   <tr>
-    <td class="level3">Standard on Geospatial Data</td>
+    <td class="level3"><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=16553">Standard on Geospatial Data</a></td>
     <td>&nbsp;</td>
   </tr>
   <tr>
-    <td class="level3">Standard on Metadata</td>
+    <td class="level3"><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=18909">Standard on Metadata</a></td>
     <td>&nbsp;</td>
   </tr>
   <tr>
-    <td class="level3">Standard on optimizing Websites and Apps for Mobile</td>
+    <td class="level3"><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=27088">Standard on optimizing Websites and Apps for Mobile</a></td>
     <td>&nbsp;</td>
   </tr>
   <tr>
-    <td class="level3">Standard on Web Accessibility</td>
+    <td class="level3"><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=23601">Standard on Web Accessibility</a></td>
     <td>&nbsp;</td>
   </tr>
   <tr>
-    <td class="level3">Standard on Web Interoperability</td>
+    <td class="level3"><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=25875">Standard on Web Interoperability</a></td>
     <td>&nbsp;</td>
   </tr>
   <tr>
-    <td class="level3">Standard on Web Usability</td>
+    <td class="level3"><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=24227">Standard on Web Usability</a></td>
     <td>&nbsp;</td>
   </tr>
   <tr>
-    <td class="level3">Impact Level Requirements</td>
+    <td class="level3"><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32592">AIA Appendix C - Impact Level Requirements</a></td>
     <td>&nbsp;</td>
   </tr>  
 </table>
