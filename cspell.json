@@ -16,6 +16,9 @@
     "IRCTC",
     "ccvp",
     "datatable",
+    "EDRMS",
+    "workpoint",
+    "DECD",
     "defense",
     "Smes",
     "Oecd’s",
@@ -529,8 +532,10 @@
     "Colfer",
     "Kohavi",
     "projectisation",
-    "CCIGQ",
-    "CNLL"
+    "DGSC",
+    "SGEDD",
+    "CNLL",
+    "CCIGQ"
   ],
   "flagWords": [],
   "import": ["node_modules/@cspell/dict-fr-fr/cspell-ext.json"],
