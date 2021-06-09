@@ -603,8 +603,12 @@ To make sure these actions are executed in an organised, coordinated and schedul
 It will liaise between projects, teams and subject-matter experts, and encourage the organisation on its path towards an open working culture.
 
 
+Studies from the CNLL show that the market share for OSS related services in France has grown from 2.5 billion euros in 2012 to 4.5 billion euros in 2017 and was expected to approach 6 billion euros in 2020.
+This growth (~8% per year) is in part due to the Policies of the French Government that favor the use of open standards and OSS.
+But, the latest study also highlights that the French Government does not sufficiently encourage open standards and OSS, as provided for in the Law since 2016, particularly in terms of public procurement.
 
 
+Notes:
 
 https://cnll.fr/news/etude-pac-logiciel-libre-2015-2020/
 Le revenu global généré par les logiciels libres en France représentait 4,1 milliards d’euros en 2015 (+33% par rapport à 2012).
@@ -618,11 +622,9 @@ L’open source est un vecteur d’emploi très fort : L'open source représente
 L’étude prévoit une augmentation annuelle de 3 à 4 000 créations de postes nets d’ici 2020.
 Elles se feront majoritairement sur des profils qualifiés (bac+3 et plus à 89%).
 
-    
+Seuls 1/3 des dirigeants de la filière estiment que la France met en œuvre une stratégie industrielle open source pour reconquérir de la souveraineté numérique et 2/3 d’entre eux estiment que les administrations n’encouragent pas suffisamment les logiciels libres et les formats ouverts, comme le prévoit pourtant la Loi depuis 2016, en particulier au niveau de la commande publique.
 
-
-
-
-
-
-2012 - 
+2013 - 2.50 m euros
+2015 - 4.10 m euros
+2017 - 4.46 m euros
+2020 - 5.65 m euros
