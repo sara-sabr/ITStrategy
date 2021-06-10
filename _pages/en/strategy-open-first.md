@@ -73,7 +73,14 @@ It cannot be controlled by any single person or entity with any vested interests
 - they are supported by the community and demonstrate independence or approved through due process by rough consensus among participants.
 
 More information, benefits and risks of open standards and OSS are available in the [Open First Whitepaper](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/open-source-software/open-first-whitepaper.html), written by the Treasury Board of Canada Secretariat.
-These benefits include: Flexibility - avoiding lock-in; Support for the local economy and communities; Cost savings; Security - reliance on hardening, not obfuscation; Productivity gains and collaboration; IT talent and job satisfaction; Economic impact - increase use of Canadian resources.
+These benefits include:
+
+- Flexibility - avoiding lock-in;
+- Support for the local economy and communities;
+- Cost savings; Security - reliance on hardening, not obfuscation;
+- Productivity gains and collaboration;
+- IT talent and job satisfaction; and
+- Economic impact - increase use of Canadian resources.
 
 ### What this strategy seeks to accomplish
 
