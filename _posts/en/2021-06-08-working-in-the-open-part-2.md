@@ -102,10 +102,15 @@ Part of working in the open is accepting that we don't know everyting and that o
 When one goes into draft mode, it's easy to think that we can do better before getting feedback.
 In reality, chances are that contributions would not come before your product or document is actually mature enough!
 
-It may be hard for an external contributor to come in and 
-
 ### Be humble and open minded
 
-In fact, it may seem as more work to receive external contributions before a certain version is mature enough but it is worth taking the time to pool efforts into your work.
+Working in the open may seem like putting yourself out there, subject to criticism and judgement of others.
+
+But remember that no one knows everything.
+Opening up is an opportunity for you and your team to have others contribute to your work and to complement what you already know if they are interested in it..
+
+We often seek other teams feedback in an structured manner and that official process can still occur while receiving live feedback in between "versions" of the documents you produce.
 
 ### Manage the community
+
+In fact, it may seem as more work to receive external contributions before a certain version is mature enough but it is worth taking the time to pool efforts into your work.
