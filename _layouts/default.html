@@ -12,6 +12,11 @@
       <section class="jumbotron d-print-none">
         <p class="site-title">{{ site.data.i18n.general.head.title[page.lang] }}</p>
       </section>
+
+      {%- if page.sections == "Archives" -%}
+        <div class="alert alert-warning" role="alert">{{ site.data.i18n.general.notices.archived[page.lang] }}</div>
+      {%- endif -%}
+
       <article id="maincontent">
       {%- if page.layout == "default" -%}
       {%- unless page.ref == "home" -%}
