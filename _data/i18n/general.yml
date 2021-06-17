@@ -110,6 +110,9 @@ notices:
   thisPageHasMoved:
     en: "This page has been modified and can now be found at the following link:"
     fr: "Cette page a été modifiée et peut maintenant être trouvée au lien suivant:"
+  archived:
+    en: "This page has been archived."
+    fr: "Cette page a été archivée."
 
 content:
   docVersionNumber:
