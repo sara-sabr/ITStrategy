@@ -180,6 +180,7 @@ The [Mandatory procedures for EA assessments](https://www.tbs-sct.gc.ca/pol/doc-
 - All source code must be released under an appropriate OSS license.
 - Share code publicly when appropriate, and when not, share within the Government of Canada.
 - Design for cloud mobility and develop an exit strategy to avoid vendor lock-in.
+- Model business processes using Business Process Management Notation (BPMN), an open standard, to identify common enterprise processes.
 
 #### Directive on Open Government
 
@@ -192,6 +193,29 @@ The [Directive on Open Government](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id
 The objective of the [Directive on Automated Decision-Making](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32592) is to ensure that Automated Decision Systems are deployed in a manner that reduces risks to Canadians and federal institutions, and leads to more efficient, accurate, consistent, and interpretable decisions made pursuant to Canadian law.
 
 - Releasing the final results of Algorithmic Impact Assessments in an accessible format via GC websites and any other services designated by the Treasury Board of Canada Secretariat pursuant to the Directive on Open Government.
+
+#### Standard on Metadata
+
+The [Standard on Metadata](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=18909) aims to increase the use of standardized metadata and value domains in support of the management of information resources.
+Metadata requirements include open standards that should be used for record keeping, Web resource discovery and Web Content Management System (CMS):
+
+- ISO 23081 - Records management processes - Metadata for records
+- Dublin Core Metadata Initiative (DCMI) Metadata Terms
+- W3C Date and Time Formats
+- ISO 8601 (Date and time Format)
+- ISO 639-2 (Language codes)
+
+#### Standard on Web Interoperability
+
+The [Standard on Web Interoperability](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=25875) improves Canadians’ web experience by using technologies that support mobile devices and by making information technology easier to use in order to find government information.
+The following open standards are required to be used for all GC Web pages:
+
+- Web feed requirements: Atom Syndication Format
+- Character encoding requirements: UTF-8
+- Mark-up language requirements: HTML5 or later
+- HTML data requirements:
+  - HTML data syntax: RDFa 1.1 Lite or later
+  - Primary HTML data vocabulary: Schema.org
 
 ### Digital Operations Strategic Plan: 2018-2022
 
@@ -516,9 +540,9 @@ Since 2012, ESDC is responsible for the biggest collaborative OSS project led by
 The [Web Experience Toolkit](https://wet-boew.github.io/wet-boew/index-en.html) (WET) is an award-winning front-end framework for building websites that are accessible, usable, interoperable, mobile friendly and multilingual using a collection of flexible and themeable templates and reusable components.
 It's the theme being used today on most GC Websites including Canada.ca.
 
-Around the same time that TBS was writting the direction and guidance for open standards and OSS (2018-2019), the Technical Architecture team at ESDC were working on the ESDC OSS Management Framework.
+Around the same time that TBS was writing the direction and guidance for open standards and OSS (2018-2019), the Technical Architecture team at ESDC were working on the ESDC OSS Management Framework.
 The framework was endorsed at ESDC EARB on March 16th 2021.
-One of the main short term reccomendations was to establish an OSS Program Office to take on the responsibility and further define the process and reporting requirements.
+One of the main short term recommendations was to establish an OSS Program Office to take on the responsibility and further define the process and reporting requirements.
 No further actions have been taken since then.
 
 Some teams in IITB are working in the open (DTS, IT Strategy, ..) and some OSS are part of technical bricks or available, but it's still a minority.
