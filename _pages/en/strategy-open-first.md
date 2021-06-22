@@ -219,7 +219,7 @@ TBS also published Guides for [Using OSS](https://www.canada.ca/en/government/sy
 
 ### ESDC OSS Management Framework
 
-The [ESDC OSS Management Framework (internal link)](https://dialogue/grp/CO7397744/MasterLib/ESDC%20Open%20Source%20Management%20Framework%20v%201.2.docx), endorsed at ESDC EARB on March 16th 2020, provides guidance and sets direction around OSS product selection considerations and compliance obligations such as governance, code sharing, licensing and security to ESDC.
+The [ESDC OSS Management Framework (internal link)](https://dialogue/grp/CO7397744/MasterLib/ESDC%20Open%20Source%20Management%20Framework%20v%201.2.docx), endorsed at ESDC EARB on March 16th 2021, provides guidance and sets direction around OSS product selection considerations and compliance obligations such as governance, code sharing, licensing and security to ESDC.
 It also provides a list of recommendations, considerations and procedures for the adoption, management and promotion of OSS as the primary option for future and next iteration solutions of ESDC/IITB information systems.
 Some short term recommendations are:
 
@@ -517,7 +517,7 @@ The [Web Experience Toolkit](https://wet-boew.github.io/wet-boew/index-en.html) 
 It's the theme being used today on most GC Websites including Canada.ca.
 
 Around the same time that TBS was writting the direction and guidance for open standards and OSS (2018-2019), the Technical Architecture team at ESDC were working on the ESDC OSS Management Framework.
-The framework was endorsed at ESDC EARB on March 16th 2020.
+The framework was endorsed at ESDC EARB on March 16th 2021.
 One of the main short term reccomendations was to establish an OSS Program Office to take on the responsibility and further define the process and reporting requirements.
 No further actions have been taken since then.
 
