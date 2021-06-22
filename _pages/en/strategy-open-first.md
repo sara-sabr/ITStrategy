@@ -16,12 +16,12 @@ permalink: /open-first-strategy.html
   This strategy was strongly influenced by the <a class="alert-link" href="https://ec.europa.eu/info/departments/informatics/open-source-software-strategy_en">European Commission Open source software strategy 2020-2023</a>.
 </div>
 
-1. Introduction
-2. Vision
-3. Commitment
-4. Goals and outcomes
-5. Governing principles
-6. Implementing the strategy
+1. [Introduction](#1-introduction)
+2. [Vision](#2-vision)
+3. [Commitments](#3-commitments)
+4. [Goals and outcomes](#4-goals-and-outcomes)
+5. [Governing principles](#5-governing-principles)
+6. [Implementing the strategy](#6-implementing-the-strategy)
 
 ## 1. Introduction
 
@@ -117,7 +117,7 @@ As a strong supporter of the GC's vision of open standards and OSS, ESDC can pla
 The title of this strategy, "Open First", points to a change in mindset whereby the acquisition and development of software solutions takes account of openness, sharing and reuse, security, privacy, legal, accessibility, and achieving digital autonomy considerations.
 It also indicates a commitment to actively support developer communities.
 
-## 3. Commitment
+## 3. Commitments
 
 This section links this strategy to key GC and ESDC legislation, policies, directives, guidelines and more.
 
@@ -198,19 +198,24 @@ The objective of the [Directive on Automated Decision-Making](https://www.tbs-sc
 The [Digital Operations Strategic Plan 2018-2022](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-operations-strategic-plans/digital-operations-strategic-plan-2018-2022.html) is the third iteration in the GC's strategic planning process for how we manage technology and technological change in government.
 It sets and provides insight into the government's digital direction.
 Departments and agencies, chief information officers (CIOs) and officials should consider it as direction from the CIO of Canada.
-In addition, while broader in scope, this Strategic Plan should be interpreted as the government's annual strategic plan for information management (IM) and information technology (IT) according to subsection 6.4.2 of the Policy on the Management of Information Technology.
 Some strategic actions are:
 
 - 2.1 Open government - Open data and Open by default
 - 2.2 Collaborating with Canadians
-- 4.4 IT Modernization - Introduce a strategy for use of OSS and open standards
+- 4.4 IT Modernization - Introduce a strategy for use of OSS and open standards to set direction on the use and release of OSS and open standards that will be ratified using the GC EARB.
+
+The Digital Standards and the Mandatory procedures for EA assessments, part of the Directive on Service and Digital introduced the strategy and direction for open standards and OSS in the GC.
 
 ### Open First Whitepaper
 
-The [Open First Whitepaper](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/open-source-software/open-first-whitepaper.html) was written by the Treasury Board of Canada Secretariat to unpack and get into the details on the subject of "Open" in order to inform a few initiatives, including the new GC Enterprise Architecture Review Board (EARB) in setting standards (open standards, open source software (OSS)) that would influence our technological ecosystem as well as our Information Management - Information Technology (IM-IT) practices.
+The [Open First Whitepaper](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/open-source-software/open-first-whitepaper.html) was written by the Treasury Board of Canada Secretariat (TBS) to unpack and get into the details on the subject of "Open" in order to inform a few initiatives, including the new GC Enterprise Architecture Review Board (EARB) in setting standards (open standards, open source software (OSS)) that would influence our technological ecosystem as well as our Information Management - Information Technology (IM-IT) practices.
 
 The Whitepaper has sections on open standards, OSS use, OSS contribution, open markets and open culture.
 Definitions, benefits and risks are explored for each section.
+
+### OSS Guides
+
+TBS also published Guides for [Using OSS](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/open-source-software/guide-for-using-open-source-software.html), [Publishing Open Source Code](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/open-source-software/guide-for-publishing-open-source-code.html) and [Contributing to OSS](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/open-source-software/guide-for-contributing-to-open-source-software.html) on the Canada.ca Website under digital government innovations.
 
 ### ESDC OSS Management Framework
 
@@ -471,25 +476,52 @@ This "Open First" strategy will ensure that ESDC increases its use of OSS and op
 
 ### Current situation and lessons learned
 
-TODO: OSS Framework has identified current state as (see Framework for more details) Mainly OSS is in use already but before Framework wasn't clear on how to maintain best practices. Framework approved but not implemented.
+#### TBS and the Government of Canada
 
-Notes:
+The GC's interest in OSS goes back to the early 2000s when the open source movement mushroomed with the emergence of Mozilla, OpenOffice and investments in Linux development.
 
-I think having a baseline profile of what we have at ESDC for OSS would be useful here. I'm sure APM and the DLM has this info. We can position it in such a way that we currently use OSS for critical systems and we have learned that it not only works but we have an opportunity to grow the footprint.
+In 2004, the GC's position on OSS could be found on TBS’s website.
+It was based on the Federated Architecture Program (FAP), which had four principals that applied to OSS:
 
-The OSS Framework didn't go deep enough IMHO, will need to:
-  mention legal barriers (not understanding OSS licencing)
-  mention procurement barriers (no sufficient awareness that software delivery, integration, and support can be separated)
-  adding ESDC's contributions (e.g. WET). The CDO must also be doing lots on that front that warrants to be highlighted
+- reducing integration complexity;
+- ensuring security and confidentiality;
+- using proven standards and technology; and
+- the total cost of ownership.
 
-- 2007 - The first GC position on OSS
-- 2014 - Web Experience Toolkit (WET)
-- 2015 - SSC Functional direction software strategy
-- 2016 - PCH Elements of a technical interoperability framework
-- 2018 - Open First Whitepaper
-- 2019 - Policy and Directive on Service and Digital
+However, the FAP did not require the adoption or even the evaluation of solutions based on OSS.
+There were no directives or guidance in the GC for the use and publication of open standards and OSS.
 
-Agora, ..
+Some departments put in place their own guidelines or reports on open standards and OSS.
+In 2012, the National Research Council (NRC) published the [NRC OSS Guidelines](https://www.gcpedia.gc.ca/wiki/NRC_Open_Source_Software_Guidelines) for internal use.
+Also in 2012, Natural Resources Canada (NRCan) published an OSS Licensing Primer intended to inform on the importance of interoperability in licensing, and provide with the information and decision-making tools required to make optimal decisions on policy for free and open source use, development and release.
+In 2016, Canadian Heritage (PCH) published a report on the [Elements of a Technical Interoperability Framework](https://wiki.gccollab.ca/Elements_of_a_Technical_Interoperability_Framework_for_Canadian_Heritage) to start thinking about how they could increase interoperability and mitigate against vendor lock-in by using open standards and OSS.
+
+Shared Services Canada (SSC), organized two sessions on the topic of OSS with the Architecture Framework Advisory Committee (AFAC) to write a Draft Position on OSS including the following statements:
+
+- For all software acquisitions, open source solutions must be actively and fairly considered alongside proprietary ones;
+- Acquisition decisions will be made on the basis of best value and fit to the business requirement, taking account of the total lifetime cost of ownership of the solution, including exit and transition costs; and
+- Where there is no significant overall (full-lifecycle) cost difference between open source and non-open source products, open source will be selected on the basis of its additional inherent flexibility.
+
+SSC also published a Functional Direction Software Strategy for departments that included the following principles: Use OSS when feasible; if not, leverage commodity products, and use best value point solutions when deemed necessary.
+
+All these initiatives did not have much impact on the use of OSS and open standards in the GC.
+To benefit fully from the advantages of interoperability, strategies need to be implemented across the board, rather than separately in each individual department.
+
+Starting in 2016, there was renewed interest in open standards, OSS and working in the in the GC, leading to international partnerships, standards, policies, directive, mandatory procedures and guidance.
+See the [Commitments](#3-commitments) section of this strategy.
+
+#### ESDC
+
+Since 2012, ESDC is responsible for the biggest collaborative OSS project led by the GC.
+The [Web Experience Toolkit](https://wet-boew.github.io/wet-boew/index-en.html) (WET) is an award-winning front-end framework for building websites that are accessible, usable, interoperable, mobile friendly and multilingual using a collection of flexible and themeable templates and reusable components.
+It's the theme being used today on most GC Websites including Canada.ca.
+
+Around the same time that TBS was writting the direction and guidance for open standards and OSS (2018-2019), the Technical Architecture team at ESDC were working on the ESDC OSS Management Framework.
+The framework was endorsed at ESDC EARB on March 16th 2020.
+One of the main short term reccomendations was to establish an OSS Program Office to take on the responsibility and further define the process and reporting requirements.
+No further actions have been taken since then.
+
+Some teams in IITB are working in the open (DTS, IT Strategy, ..) and some OSS are part of technical bricks or available, but it's still a minority.
 
 ### The right balance
 
