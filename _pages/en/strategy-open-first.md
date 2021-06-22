@@ -180,6 +180,7 @@ The [Mandatory procedures for EA assessments](https://www.tbs-sct.gc.ca/pol/doc-
 - All source code must be released under an appropriate OSS license.
 - Share code publicly when appropriate, and when not, share within the Government of Canada.
 - Design for cloud mobility and develop an exit strategy to avoid vendor lock-in.
+- Model business processes using Business Process Management Notation (BPMN), an open standard, to identify common enterprise processes.
 
 #### Directive on Open Government
 
@@ -192,6 +193,29 @@ The [Directive on Open Government](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id
 The objective of the [Directive on Automated Decision-Making](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32592) is to ensure that Automated Decision Systems are deployed in a manner that reduces risks to Canadians and federal institutions, and leads to more efficient, accurate, consistent, and interpretable decisions made pursuant to Canadian law.
 
 - Releasing the final results of Algorithmic Impact Assessments in an accessible format via GC websites and any other services designated by the Treasury Board of Canada Secretariat pursuant to the Directive on Open Government.
+
+#### Standard on Metadata
+
+The [Standard on Metadata](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=18909) aims to increase the use of standardized metadata and value domains in support of the management of information resources.
+Metadata requirements include open standards that should be used for record keeping, Web resource discovery and Web Content Management System (CMS):
+
+- ISO 23081 - Records management processes - Metadata for records
+- Dublin Core Metadata Initiative (DCMI) Metadata Terms
+- W3C Date and Time Formats
+- ISO 8601 (Date and time Format)
+- ISO 639-2 (Language codes)
+
+#### Standard on Web Interoperability
+
+The [Standard on Web Interoperability](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=25875) improves Canadians’ web experience by using technologies that support mobile devices and by making information technology easier to use in order to find government information.
+The following open standards are required to be used for all GC Web pages:
+
+- Web feed requirements: Atom Syndication Format
+- Character encoding requirements: UTF-8
+- Mark-up language requirements: HTML5 or later
+- HTML data requirements:
+  - HTML data syntax: RDFa 1.1 Lite or later
+  - Primary HTML data vocabulary: Schema.org
 
 ### Digital Operations Strategic Plan: 2018-2022
 
