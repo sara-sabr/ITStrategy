@@ -513,12 +513,12 @@ See the [Commitments](#3-commitments) section of this strategy.
 #### ESDC
 
 Since 2012, ESDC is responsible for the biggest collaborative OSS project led by the GC.
-The [Web Experience Toolkit](https://wet-boew.github.io/wet-boew/index-en.html) (WET) is an award-winning front-end framework for building websites that are accessible, usable, interoperable, mobile friendly and multilingual using a collection of flexible and themeable templates and reusable components.
+The [Web Experience Toolkit](https://wet-boew.github.io/wet-boew/index-en.html) (WET) is an award-winning front-end framework for building websites that are accessible, usable, interoperable, mobile friendly and multilingual using a collection of flexible and theme-able templates and reusable components.
 It's the theme being used today on most GC Websites including Canada.ca.
 
-Around the same time that TBS was writting the direction and guidance for open standards and OSS (2018-2019), the Technical Architecture team at ESDC were working on the ESDC OSS Management Framework.
+Around the same time that TBS was writing the direction and guidance for open standards and OSS (2018-2019), the Technical Architecture team at ESDC were working on the ESDC OSS Management Framework.
 The framework was endorsed at ESDC EARB on March 16th 2021.
-One of the main short term reccomendations was to establish an OSS Program Office to take on the responsibility and further define the process and reporting requirements.
+One of the main short term recommendations was to establish an OSS Program Office to take on the responsibility and further define the process and reporting requirements.
 No further actions have been taken since then.
 
 Some teams in IITB are working in the open (DTS, IT Strategy, ..) and some OSS are part of technical bricks or available, but it's still a minority.
