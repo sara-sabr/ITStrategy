@@ -147,6 +147,24 @@ It includes the following:
 - Promote competition in digital markets, for all enterprises regardless of size, including in government procurement, encourage and support a dynamic start-up/scale-up culture in the digital and technology sectors, and promote sustainable economic growth through open markets.
 - Be a member of the Open Government Partnership, promote digital technologies to facilitate transparency and citizen participation, and use open licences to produce and consume open data.
 
+### Open Government Partnership
+
+The [Open Government Partnership](https://www.opengovpartnership.org/members/canada/) (OGP) is a global multilateral initiative with the core objective of securing solid commitments from governments to promote transparency, empower citizens, fight corruption, and harness new technologies to strengthen governance, in partnership with civil society and the private sector.
+
+Canada has been an active OGP member since 2012; its accomplishments in open government have been recognized on a global scale.
+In March 2017, Canada was elected to the Steering Committee of the OGP for a 3-year term.
+
+#### 2018-2020 National Action Plan on Open Government
+
+The most recent action plan, as part of our commitment to the OGP, is the [2018-2020 National Action Plan on Open Government](https://open.canada.ca/en/content/canadas-2018-2020-national-action-plan-open-government).
+These are some commitments:
+
+- Expand the Open by Default pilot project.
+- Ensure Canadians have access to open data on Government of Canada procurement.
+- Explore adoption of common contracting data standards across Canada.
+- Provide a plan for greater openness in federal science and research activities.
+- Prioritize open source code in developing digital solutions.
+
 ### Digital Standards
 
 The [GC's Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html) form the foundation of the government's shift to becoming more agile, open, and user-focused.
@@ -162,7 +180,7 @@ The Digital Standards include:
 The [Policy on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603) and supporting instruments serve as an integrated set of rules that articulate how GC organizations manage service delivery, information and data, information technology, and cyber security in the digital era.
 
 - The CIO of Canada is responsible for establishing [guidance](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/open-source-software.html) to support innovative practices and technologies, including open-source and open-standard applications, and agile application development.
-- Deputy heads are responsible for
+- Deputy heads are responsible for:
   - Maximizing the release of departmental information and data as an open resource, discoverable through the GC open government portal.
   - Open access to digital tools - Providing authorized users of the departmental electronic network and of departmental devices with open access to the Internet, including GC and external Web 2.0 tools and services that enhance productivity, communication and open collaboration.
 
@@ -515,7 +533,12 @@ It was based on the Federated Architecture Program (FAP), which had four princip
 However, the FAP did not require the adoption or even the evaluation of solutions based on OSS.
 There were no directives or guidance in the GC for the use and publication of open standards and OSS.
 
-Some departments put in place their own guidelines or reports on open standards and OSS.
+The GC published its first open Government action plan in 2012 and has an active open Government community across departments and agencies.
+The [Open Government Portal](https://open.canada.ca/en) hosts open data and open information (unstructured data) from the GC.
+Until more recently, the focus of open Government in the GC has been on releasing open dataset and documents, such as proactive disclosures.
+Even if source code could be considered as information, it was often overlooked maybe because it requires more technical skills to work on code in the open.
+
+For open standards and OSS, some departments put in place their own guidelines or reports.
 In 2012, the National Research Council (NRC) published the [NRC OSS Guidelines](https://www.gcpedia.gc.ca/wiki/NRC_Open_Source_Software_Guidelines) for internal use.
 Also in 2012, Natural Resources Canada (NRCan) published an OSS Licensing Primer intended to inform on the importance of interoperability in licensing, and provide with the information and decision-making tools required to make optimal decisions on policy for free and open source use, development and release.
 In 2016, Canadian Heritage (PCH) published a report on the [Elements of a Technical Interoperability Framework](https://wiki.gccollab.ca/Elements_of_a_Technical_Interoperability_Framework_for_Canadian_Heritage) to start thinking about how they could increase interoperability and mitigate against vendor lock-in by using open standards and OSS.
@@ -529,9 +552,11 @@ Shared Services Canada (SSC), organized two sessions on the topic of OSS with th
 SSC also published a Functional Direction Software Strategy for departments that included the following principles: Use OSS when feasible; if not, leverage commodity products, and use best value point solutions when deemed necessary.
 
 All these initiatives did not have much impact on the use of OSS and open standards in the GC.
-To benefit fully from the advantages of interoperability, strategies need to be implemented across the board, rather than separately in each individual department.
+To benefit fully from the advantages of interoperability and flexibility, strategies need to be implemented across the board, rather than separately in each individual department.
 
-Starting in 2016, there was renewed interest in open standards, OSS and working in the in the GC, leading to international partnerships, standards, policies, directive, mandatory procedures and guidance.
+Starting in 2016, there was renewed interest in open standards, OSS and working in the open in the GC.
+In December 2017, the GC EARB members endorsed the "formalization of a common GC-wide approach to the adoption of open source within government, resulting in a more robust open community within the GC".
+This led to international partnerships, standards, policies, directive, mandatory procedures and guidance being announced and published.
 See the [Commitments](#3-commitments) section of this strategy.
 
 #### ESDC
@@ -550,7 +575,7 @@ Some teams in IITB are working in the open (DTS, IT Strategy, ..) and some OSS a
 ### The right balance
 
 This strategy comes with an action plan that details how ESDC will encourage and leverage open standards and OSS development practices to co-create, share and reuse across the organisation.
-In addition to this internal focus on an open working culture, the strategy and action plan provide for increasing outreach to open standards and OSS communities and will help ESDC become a strong force in the community of Canadian public services actively involved in open standards and OSS.
+In addition to this internal focus on an open working culture, the strategy and action plan provide for increasing outreach to open standards and OSS communities and will help ESDC work in the open to become a strong force in the community of Canadian public administrations actively involved in open standards and OSS.
 
 With these internal and external activities, the strategy and action plan constitute practical instruments to help achieve the digital transformation of ESDC.
 
@@ -562,7 +587,7 @@ This strategy is firmly rooted in ESDC's and the wider GC policy context.
 For it to succeed, a proper enabling environment must be put in place to guide, encourage and nudge change across the organisation.
 
 The strategy and the action plan are inextricably linked.
-The pivotal point will be an Open First CoE that enjoys genuine political and organisational support, involving all branches within ESDC.
+**The pivotal point will be the creation of an Open First CoE that enjoys genuine political and organisational support, involving all branches within ESDC.**
 The CoE will act as facilitator for all activities outlined in the strategy and the action plan.
 It will assist subject-matter experts, encourage the branches within ESDC and help balance internal focus and external activities.
 
@@ -589,7 +614,7 @@ The following roles are recommended as a first version of the Open First CoE wit
 
 The CoE will expedite and be responsible for all activities in the action plan.
 
-#### Actions and impact
+#### Action plan and impact
 
 The best way to lead is by example.
 This strategy will rapidly produce tangible evidence of the benefits of a working culture based on open principles.
