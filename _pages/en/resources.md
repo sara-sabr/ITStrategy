@@ -13,8 +13,6 @@ The following are reference materials for the IT Strategy team to use.
 
 These materials are meant to be sources of inspiration, guidance, or policies that we need to consider when crafting our strategies.
 
-Some of that content may only be available on GC/ESDC network so if the link doesn't work externally, we apologize for the inconvenience.
-
 Don't hesitate to send us proposals of books, articles, videos or even policies!
 
 ## {{ tables[0].name[page.lang] }}
