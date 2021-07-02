@@ -90,10 +90,16 @@ But when needed, you can save sensitive information in the private folders and k
 
 ### Manage leaks
 
-In software development, we expect that there will be a security issue at some point, while continue to strive to minimize that eventuality.
+In software development, we expect that there will be a security issue at some point, while we continue to strive to minimize that eventuality.
+
+There are two primary angles that we can work on here: minimizing the scope and ensuring there is a clear remediation process.
+Other techniques may be used but these are two solid starting points.
+
+By minimizing the scope of what can be accessed, we minimize the risks associated with a leak.
+For example, let's say a user has access 
 
 By putting in place a remediation process, we ensure that even if there was to be a leak, appropriate mesures are in place to address it as quickly as possible.
-And we make sure that everyone know how to run through the process, if it's not fully automated.
+And we make sure that everyone knows how to run through the process, if it's not fully automated.
 
 ### Open up at inception
 
