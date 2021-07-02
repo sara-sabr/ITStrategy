@@ -1,9 +1,9 @@
 ---
 name: Accessibility Issue
-about: 'Create an issue to help us be accessible'
+about: Create an issue to help us be accessible
 title: 'Accessibility Issue: [ short title ] '
 labels: Accessibility
-assignees: Moro-Code, ElminaIusifova
+assignees: ElminaIusifova, Moro-Code
 
 ---
 
@@ -28,4 +28,3 @@ assignees: Moro-Code, ElminaIusifova
 
 
 **Additional information or thoughts**
-
