@@ -69,12 +69,17 @@ It is more applicable to the "machinerie" of government, when you continuously t
 Various jurisdictions have very similar needs and challenges, yet we work in isolation by default given our varied levels of responsibilities and mandates.
 There are many articles and research exploring this topic so here are a few links if you are interested.
 
+- [Government 2.0](https://www.oreilly.com/tim/gov2/){:target="_blank"} is a list of essays and interviews from Tim O'Reilly, who is known as the person to coin the term "Government as a platform".
 - [Common Components for #DigitalBC](https://jaimieboyd.medium.com/common-components-for-digitalbc-99e0cc2befb4){:target="_blank"}, a blog from Jaime Boyd, British Columbia's CIO, on re-usable building blocks, used together, or separately.
-- [Re-use existing common components to create your product or service.](https://digital.gov.bc.ca/common-components){:target="_blank"}
-- [A working definition of Government as a Platform](https://medium.com/digitalhks/a-working-definition-of-government-as-a-platform-1fa6ff2f8e8d){:target="_blank"}
-- [Lessons from Estonia on digital government](https://policyoptions.irpp.org/fr/magazines/february-2019/lessons-estonia-digital-government/){:target="_blank"}
+- [Re-use existing common components to create your product or service.](https://digital.gov.bc.ca/common-components){:target="_blank"} The British Columbia's Digital Common Components Catalogue
+- [Government as a Platform: the foundation for Digital Government and Gov 2.0](https://www.themandarin.com.au/118672-government-as-a-platform-the-foundation-for-digital-government-and-gov-2-0/){:target"_blank"} is an essay from Pia Andrews, presenting her vision of a Digital Government, a Government as a platform.
+  She also explores the API model for governments as well as the concepts of reusable components across services.
+  Pia is now working us in ESDC to navigate the complexities of modernizing our business delivery to citizens.
+- [A working definition of Government as a Platform](https://medium.com/digitalhks/a-working-definition-of-government-as-a-platform-1fa6ff2f8e8d){:target="_blank"}, is an essay from Richard Pope presenting how governments can become platforms from which citizen services can be designed by reusing components and services.
+- [Lessons from Estonia on digital government](https://policyoptions.irpp.org/fr/magazines/february-2019/lessons-estonia-digital-government/){:target="_blank"} is an essay from David Eaves on how Canada could learn from Estonia's journey by leveraging common building components for digital services, even if we consider the complexity tied to the legacy systems and policies that Canada has to deal with.
 - [Web Experience Toolkit](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/web-experience-toolkit.html){:target="_blank"} is a Government of Canada initiatives that "includes reusable components for building and maintaining innovative websites that are accessible, usable, and interoperable.
   These reusable components are open source software and free for use by departments and external Web communities."
+  It is a great example of how a team was able to work in the open to benefit the government as a whole but also the society itself.
 - [GC Service & Digital Target Enterprise Architecture](https://wiki.gccollab.ca/index.php?title=GC_Service_%26_Digital_Target_Enterprise_Architecture&mobileaction=toggle_view_desktop){:target="_target"}
 - [1988 National Bureau of Standards' Management Guide to
 Software Reuse](https://www.govinfo.gov/content/pkg/GOVPUB-C13-dca04f7b7fc21321e39de88b35b2f1d3/pdf/GOVPUB-C13-dca04f7b7fc21321e39de88b35b2f1d3.pdf) (PDF)
@@ -100,12 +105,6 @@ But when needed, you can save sensitive information in the private folders and k
 
 In software development, we expect that there will be a security issue at some point, while we continue to strive to minimize that eventuality.
 
-There are two primary angles that we can work on here: minimizing the scope and ensuring there is a clear remediation process.
-Other techniques may be used but these are two solid starting points.
-
-By minimizing the scope of what can be accessed, we minimize the risks associated with a leak.
-For example, let's say a user has access 
-
 By putting in place a remediation process, we ensure that even if there was to be a leak, appropriate mesures are in place to address it as quickly as possible.
 And we make sure that everyone knows how to run through the process, if it's not fully automated.
 
@@ -113,18 +112,44 @@ And we make sure that everyone knows how to run through the process, if it's not
 
 Part of working in the open is accepting that we don't know everything and that others may be able to jump in and help at any time.
 
-When one goes into draft mode, it's easy to think that we can do better before getting feedback.
-In reality, chances are that contributions would not come before your product or document is actually mature enough!
+When one goes into draft mode, it's easy to think that we can do better before getting feedback, so the initial reaction most people have is to wait until "it's good enough".
+
+If you are worried to be slowed down by feedback on a document that is barely an outline, you probably can comfort yourself with the thought that, in practice, chances are that contributions would not come before your product or document is actually mature enough!
+
+Plus, waiting too long may put you in the position where you have not set your mind into an open mode, continuously expecting someone to read it.
+That may lead you to add a review phase before opening up to ensure that no sensitive material has been included, instead of working from the start with that mindset.
 
 ### Be humble and open minded
 
 Working in the open may seem like putting yourself out there, subject to criticism and judgement of others.
 
 But remember that no one knows everything.
-Opening up is an opportunity for you and your team to have others contribute to your work and to complement what you already know if they are interested in it..
+Opening up is an opportunity for you and your team to have others contribute to your work and to complement what you already know if they are interested in it.
 
 We often seek other teams feedback in an structured manner and that official process can still occur while receiving live feedback in between "versions" of the documents you produce.
 
 ### Manage the community
 
-In fact, it may seem as more work to receive external contributions before a certain version is mature enough but it is worth taking the time to pool efforts into your work.
+An argument sometimes used for avoiding working in the open is that managing the community may end up being more work than what you get back.
+Or that receiving external contributions before a certain version is mature enough would slow you down.
+
+Based on our experience, small and continuous feedback makes the process much less cognitively intensive since contributions usually are smaller and can be more easily integrated in the workflow.
+And by continuously reviewing and integrating them, it helps minimize the disruption of the entire effort.
+
+```markdown
+Note: might remove the example.
+
+Imagine having a 10 pages document and having to wait for an official review by 3 other teams.
+You send them the version to review, they all go away for 5 business days and will come back with their feedback.
+
+You will then have to review all their comments and action them at the same time.
+There will most likely be conflicting ideas or priorities, inconsistencies in the proposed changes, etc.
+
+Instead, if you break down the work by smaller packages and have various subject matter experts comment or review specific portions continuously, the conflicting ideas could be discussed in their own threads, without impacting the rest of the work.
+```
+
+Encourage folks to comment, make sure you reply to them either by simply acknowledging you have read their contributions or by letting them know what will be done about it.
+
+Be welcoming, open minded, and inclusive.
+Not everyone has the same background and life experiences.
+We can learn from everyone and grow better together!
