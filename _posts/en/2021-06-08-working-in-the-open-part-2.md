@@ -11,7 +11,7 @@ This series of blog posts will explore the concept of "Working in the Open".
 In this second entry, we will attempt to explain how you can get started while respecting your duties as a public servant!
 <!--more-->
 
-In our previous entry, we explored why we should by default work in the open.
+In our previous entry, we explored what it meant to work in the open and why we should do so by default.
 This time, let's have a look at how we can accomplish this feat while ensuring we follow security and privacy best practices.
 
 _Note: The scope of this post will be more around everyday working in the open than software development.
@@ -22,7 +22,7 @@ We may take a deeper dive in this other topic in an upcoming blog post._
 It's worth taking a second to realize that not everyone is mentally and emotionally ready to open up to the whole world.
 Various reasons exist and we are not judging!
 
-To help folks slowly get comfortable with working in the open as well as part of its benefits, some organizations have taken the "Inner Source" road, opening up all workspaces to all their internal teams.
+As mentioned in our previous post, some organizations have taken the "Inner Source" road, opening up all workspaces to all their internal teams, to help folks slowly get comfortable with working in the open as well as reaping part of its benefits.
 Doing so helped identify what worked well and what challenges surfaced.
 It also helped figure out what mechanisms of control should be added to ensure that the organization kept a good hold on its information and how to better support their employees in adopting the best practices.
 
@@ -48,7 +48,7 @@ However, that doesn't mean you can't open up securely.
 A proper access management is required so that we can separate the two main types of users: your team's members and external contributors.
 The latter could be a person from within your organization or from the public.
 
-There may be more types of roles but these are the main buckets we think of when working in the open.
+There may be more types of roles available depending on the platforms, but these are the main buckets we think of when working in the open.
 
 Depending on the platform you use, various controls may be offered to let you share openly your documents and your work while remaining in control of its content.
 
@@ -69,7 +69,15 @@ It is more applicable to the "machinerie" of government, when you continuously t
 Various jurisdictions have very similar needs and challenges, yet we work in isolation by default given our varied levels of responsibilities and mandates.
 There are many articles and research exploring this topic so here are a few links if you are interested.
 
-(list a few articles)
+- [Common Components for #DigitalBC](https://jaimieboyd.medium.com/common-components-for-digitalbc-99e0cc2befb4){:target="_blank"}, a blog from Jaime Boyd, British Columbia's CIO, on re-usable building blocks, used together, or separately.
+- [Re-use existing common components to create your product or service.](https://digital.gov.bc.ca/common-components){:target="_blank"}
+- [A working definition of Government as a Platform](https://medium.com/digitalhks/a-working-definition-of-government-as-a-platform-1fa6ff2f8e8d){:target="_blank"}
+- [Lessons from Estonia on digital government](https://policyoptions.irpp.org/fr/magazines/february-2019/lessons-estonia-digital-government/){:target="_blank"}
+- [Web Experience Toolkit](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/web-experience-toolkit.html){:target="_blank"} is a Government of Canada initiatives that "includes reusable components for building and maintaining innovative websites that are accessible, usable, and interoperable.
+  These reusable components are open source software and free for use by departments and external Web communities."
+- [GC Service & Digital Target Enterprise Architecture](https://wiki.gccollab.ca/index.php?title=GC_Service_%26_Digital_Target_Enterprise_Architecture&mobileaction=toggle_view_desktop){:target="_target"}
+- [1988 National Bureau of Standards' Management Guide to
+Software Reuse](https://www.govinfo.gov/content/pkg/GOVPUB-C13-dca04f7b7fc21321e39de88b35b2f1d3/pdf/GOVPUB-C13-dca04f7b7fc21321e39de88b35b2f1d3.pdf) (PDF)
 
 Needless to say that public administrations in general are ripe for reusing solutions and ideas to increase the quality of their services to citizens.
 
