@@ -81,10 +81,10 @@ blogs:
     fr: Traduit le
   previous:
     en: Previous blog
-    fr: Blogue précédent
+    fr: Billet précédent
   next:
     en: Next blog
-    fr: Prochain blogue
+    fr: Prochain billet
 
 about:
   interests:
