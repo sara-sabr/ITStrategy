@@ -140,17 +140,6 @@ Working in the open doesn't mean there isn't an official review process to be do
 
 It simply provides an opportunity to address key elements earlier in your creation process and let your colleagues find out about your work faster.
 
-```markdown
-Note: might remove the example to avoide too long post.
-
-Imagine having a 10 pages document and having to wait for an official review by 3 other teams.
-You send them the version to review, they all go away for 5 business days and will come back with their feedback.
-
-You will then have to review all their comments and action them at the same time.
-There will most likely be conflicting ideas or priorities, inconsistencies in the proposed changes, etc.
-
-Instead, if you break down the work by smaller packages and have various subject matter experts comment or review specific portions continuously, the conflicting ideas could be discussed in their own threads, without impacting the rest of the work.
-```
 
 Encourage folks to comment, make sure you reply to them either by simply acknowledging you have read their contributions or by letting them know what will be done about it.
 
