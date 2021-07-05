@@ -11,7 +11,7 @@ This series of blog posts will explore the concept of "Working in the Open".
 In this second entry, we will attempt to explain how you can get started while respecting your duties as a public servant!
 <!--more-->
 
-In our previous entry, we explored what it meant to work in the open and why we should do so by default.
+In our [previous post]({{site.baseurl}}{% post_url 2019-11-19-working-in-the-open-part-1 %}), we explored what it meant to work in the open and why we should do so by default.
 This time, let's have a look at how we can accomplish this feat while ensuring we follow security and privacy best practices.
 
 _Note: The scope of this post will be more around everyday working in the open than software development.
@@ -22,7 +22,7 @@ We may take a deeper dive in this other topic in an upcoming blog post._
 It's worth taking a second to realize that not everyone is mentally and emotionally ready to open up to the whole world.
 Various reasons exist and we are not judging!
 
-As mentioned in our previous post, some organizations have taken the "Inner Source" road, opening up all workspaces to all their internal teams, to help folks slowly get comfortable with working in the open as well as reaping part of its benefits.
+As mentioned in our [previous post]({{site.baseurl}}{% post_url 2019-11-19-working-in-the-open-part-1 %}), some organizations have taken the "Inner Source" road, opening up all workspaces to all their internal teams, to help folks slowly get comfortable with working in the open as well as reaping part of its benefits.
 Doing so helped identify what worked well and what challenges surfaced.
 It also helped figure out what mechanisms of control should be added to ensure that the organization kept a good hold on its information and how to better support their employees in adopting the best practices.
 
@@ -136,8 +136,12 @@ Or that receiving external contributions before a certain version is mature enou
 Based on our experience, small and continuous feedback makes the process much less cognitively intensive since contributions usually are smaller and can be more easily integrated in the workflow.
 And by continuously reviewing and integrating them, it helps minimize the disruption of the entire effort.
 
+Working in the open doesn't mean there isn't an official review process to be done at each major revision.
+
+It simply provides an opportunity to address key elements earlier in your creation process and let your colleagues find out about your work faster.
+
 ```markdown
-Note: might remove the example.
+Note: might remove the example to avoide too long post.
 
 Imagine having a 10 pages document and having to wait for an official review by 3 other teams.
 You send them the version to review, they all go away for 5 business days and will come back with their feedback.
