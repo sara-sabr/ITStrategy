@@ -140,7 +140,6 @@ Working in the open doesn't mean there isn't an official review process to be do
 
 It simply provides an opportunity to address key elements earlier in your creation process and let your colleagues find out about your work faster.
 
-
 Encourage folks to comment, make sure you reply to them either by simply acknowledging you have read their contributions or by letting them know what will be done about it.
 
 Be welcoming, open minded, and inclusive.
