@@ -98,7 +98,7 @@ In a way, you change how you perceive your own work.
 It's a normal reaction to think that we can do better before getting feedback, which is why you may be tempted to wait until "it's good enough to share".
 But doing so may lead you to wait until very late in the creation process and you may actually never end up opening up for a variety of reasons.
 
-For example, you may have to go back and review the document to ensure you haven't inconciously added sensitive or classified information, which adds work and delays.
+For example, you may have to go back and review the document to ensure you haven't unconsciously added sensitive or classified information, which adds work and delays.
 Or, you may feel less receptive to feedback as you get closer to a final version of a document since you spent so much time aligning your ideas together and wordsmithing.
 Maybe you are worried that getting feedback on a document that is barely an outline will slow you down.
 
@@ -134,7 +134,7 @@ And encourage external folks to comment.
 Make sure you reply to them either by simply acknowledging you have read their contributions or by letting them know what will be done about it.
 
 Since we abide by a code of values and ethics, clearly outline what is tolerated and what is not.
-Be clear within your team that this is something that is benefitful and help new comers to feel comfortable with the process.
+Be clear within your team that this is something that is beneficial and help new comers to feel comfortable with the process.
 
 You may be surprised as to who ends up contributing!
 Be welcoming, open minded, and inclusive.
