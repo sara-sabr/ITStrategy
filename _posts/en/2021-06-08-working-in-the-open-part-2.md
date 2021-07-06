@@ -19,8 +19,8 @@ We may take a deeper dive in this other topic in an upcoming blog post._
 
 ## Inner Source vs Open Source
 
-It's worth taking a second to realize that not everyone is mentally and emotionally ready to open up to the whole world.
-Various reasons exist and we are not judging!
+It's worth reminding ourselves that not everyone is mentally and emotionally ready to open up to the whole world.
+Various reasons exist and we should not judge.
 
 As mentioned in our [previous post]({{site.baseurl}}{% post_url 2019-11-19-working-in-the-open-part-1 %}), some organizations have taken the "Inner Source" road, opening up all workspaces to all their internal teams, to help folks slowly get comfortable with working in the open as well as reaping part of its benefits.
 Doing so can help identify what works well and what challenges surfaces for your team and your organization.
@@ -30,17 +30,17 @@ If your team isn't fully ready to work in the open, try slowly opening up your w
 Don't wait until "that presentation is ready" before letting it be discoverable by others.
 You know you will not get around to it!
 
-## Set up your environment
+## Set up your Environment
 
 Your virtual workspace may consist of a variety of tools and platforms.
 
-Software developers and IT folks around the world may leverage social coding platforms such as Gitlab, Github, GCcode, etc., to collaborate widely with people around the world on source code.
+Software developers and IT folks may leverage social coding platforms such as Gitlab, Github, GCcode, etc., to collaborate widely with people around the world on source code.
 
 In the Government of Canada, most departments now use Microsoft 365 to varying degrees, which may include Teams, a collaboration platform that ties in multiple products and capabilities.
 
 Whether you are using the corporate collaboration platform or a 3rd party software as service to work in the open, there are a number of things to keep in mind.
 
-### Stay in control
+### Stay in Control
 
 Your workspace is a very important place: it contains your work and you have a responsibility to ensure its properly secured and controlled.
 However, that doesn't mean you can't open up securely.
@@ -57,17 +57,17 @@ In SharePoint, a platform most often available as "Inner Source" only, a team ca
 With most collaboration platforms, whether it's SharePoint, Google Documents, etc., there usually is an option to let external contributors consult your documents and add comments but prevent them from making changes directly.
 This way, you remain in control of the main version but you enable people to stop by and provide feedback on a continuous basis.
 
-### Ensure privacy
+### Ensure Privacy
 
 Public servants who work with citizen data must take great care regarding the privacy of that data and never share it publicly.
-
 Working in the open by default is not a concept that applies when working on a citizen's files and data.
+
 But it doesn't mean that even these teams can't work openly on improving their processes and sharing how they overcomed challenges.
 As public servants, we should continuously strive to improve our processes, look for new ways of solving issues, and share the results of our researches, as long as they are unclassified.
 
-### Manage secrets
+### Manage Secrets
 
-In software development, certain parts of the code may be a corporate secret, such as a private key to a computer resource, passwords, etc.
+In software development, certain parts of the final code may be a corporate secret, such as a private key to a computer resource, passwords, etc.
 
 These must never be included in the public source code itself but rather be managed separately.
 
@@ -77,60 +77,84 @@ This means that when a small part of your work must not be shared publicly, you 
 
 This way, the material that is unclassified can still be made available publicly and may be collectively worked on while the parts that are to be secured can be edited separately only by the select individuals who are authorized.
 
-### Manage leaks
+### Manage Leaks
 
 In software development, we expect that there will be a security issue at some point, while we continue to strive to minimize that eventuality.
 
 By putting in place a remediation process, we ensure that even if there was to be a leak, appropriate mesures are in place to address it as quickly as possible.
 And we make sure that everyone knows how to run through the process, if it's not fully automated.
 
-### Open up at inception
+In the optic of traditional text documents and presentations, reducing the amount of specific data used may help minimize the risks of leaks.
+However, someone could inadvertently type a password or personal information in a document.
+
+If that was the case, since it is not software related and automation may not be as easily possible, it would be important to have a clearly established protocol for your team members to address the data leak.
+
+### Open up at Inception
 
 Part of working in the open is accepting that we don't know everything and that others may be able to jump in and help at any time.
+By making your documents open at their inception, you put yourself in a mental state where you expect others to read and possibly participate from the get go.
+In a way, you change how you perceive your own work.
 
-When one goes into draft mode, it's easy to think that we can do better before getting feedback, so the initial reaction most people have is to wait until "it's good enough".
+It's a normal reaction to think that we can do better before getting feedback, which is why you may be tempted to wait until "it's good enough to share".
+But doing so may lead you to wait until very late in the creation process and you may actually never end up opening up for a variety of reasons.
 
-If you are worried that getting feedback on a document that is barely an outline will slow you down, you can comfort yourself with the thought that, in practice, chances are that contributions would not come before your product or document is actually mature enough!
+For example, you may have to go back and review the document to ensure you haven't inconciously added sensitive or classified information, which adds work and delays.
+Or, you may feel less receptive to feedback as you get closer to a final version of a document since you spent so much time aligning your ideas together and wordsmithing.
+Maybe you are worried that getting feedback on a document that is barely an outline will slow you down.
 
-Plus, waiting too long may put you in the position where you have not set your mind into an open mode, continuously expecting someone to read it.
-That may lead you to add a review phase before opening up to ensure that no sensitive material has been included, instead of working from the start with that mindset.
+As explained in our previous post, working in the open is a participatory approach which includes public reflection and documentation.
+The process itself is as important as the final document.
 
-### Be humble and open minded
+### Be Humble and Open Minded
 
 Working in the open may seem like putting yourself out there, subject to criticism and judgement of others.
 
 But remember that no one knows everything.
-Opening up is an opportunity for you and your team to have others contribute to your work and to complement what you already know if they are interested in it.
+Opening up is an opportunity for you and your team to share what you are working on and enable unique collaboration experiences with colleagues and citizens alike.
 
-We often seek other teams feedback in an structured manner and that official process can still occur while receiving live feedback in between "versions" of the documents you produce.
+This approach is what made open source software projects so powerful and adopted across the whole world.
+It is also a good way to align with the Directive on Open Government as mentioned earlier.
 
-### Manage the community
+Of course, the official review process can still occur for each major revision of your documents.
+You simply ensure that in between such versions, the creation process is done openly and enables folks from all backgrounds to contribute.
+
+### Manage the Community
 
 An argument sometimes used for avoiding working in the open is that managing the community may end up being more work than what you get back.
 Or that receiving external contributions before a certain version is mature enough would slow you down.
 
 Based on our experience, small and continuous feedback makes the process much less cognitively intensive since contributions usually are smaller and can be more easily integrated in the workflow.
-And by continuously reviewing and integrating them, it helps minimize the disruption of the entire effort.
+It also helps identify issues early on so that side discussions may occur on those specifically.
+And by continuously reviewing and integrating the feedback, it helps minimize the disruption of the entire creation effort.
 
-Working in the open doesn't mean there isn't an official review process to be done at each major revision.
+As mentioned before, this approach has to be participatory.
+It means that you have to set the stage, explain what you are trying to accomplish and welcome those contributions from all around.
 
-It simply provides an opportunity to address key elements earlier in your creation process and let your colleagues find out about your work faster.
+And encourage external folks to comment.
+Make sure you reply to them either by simply acknowledging you have read their contributions or by letting them know what will be done about it.
 
-Encourage folks to comment, make sure you reply to them either by simply acknowledging you have read their contributions or by letting them know what will be done about it.
+Since we abide by a code of values and ethics, clearly outline what is tolerated and what is not.
+Be clear within your team that this is something that is benefitful and help new comers to feel comfortable with the process.
+
+You may be surprised as to who ends up contributing!
+Be welcoming, open minded, and inclusive.
+Not everyone has the same background and life experiences.
+We can learn from everyone and grow better together!
+
+#### Further Readings
+
+This post is getting a bit long but working in the open is something we should all strive to get accustomed with.
+As public servants, this is a unique opportunity to change our mindset and get closer to the people we work for.
 
 In fact, there even is a policy instrument stating as much in the [Directive on Open Government](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=28108){:target="_blank"}:
 
 > The objective of the directive is to maximize the release of government information and data of business value to support transparency, accountability, citizen engagement, and socio-economic benefits through reuse, subject to applicable restrictions associated with privacy, confidentiality, and security.
 
-Various jurisdictions have very similar needs and challenges, yet we work in isolation by default given our varied levels of responsibilities, mandates, and legislations.
-But many business capabilities are very much the same:
-
-- Sign in to a government account
-  - Just look at [this list](https://www.canada.ca/en/government/sign-in-online-account.html){:target="_blank"} to realise that signing in is a very common need, just within the Government of Canada
-- Displaying web content in an accessible manner
-  - The Web Experience Toolkit is a great example of working together on 
+On the topic of reusability, which probably should be its own post, it's important to realize that various jurisdictions have very similar needs and challenges, yet we work in isolation by default given our varied levels of responsibilities, mandates, and legislations.
+A few examples could be around signing in a government account (or [many](https://www.canada.ca/en/government/sign-in-online-account.html){:target="_blank"}!), creating web forms, displaying web content in an accessible manner, etc.
 
 There are many articles and research exploring this topic so here are a few links if you are interested.
+Needless to say that public administrations in general are ripe for reusing solutions and ideas to increase the quality of their services to citizens!
 
 - [Government 2.0](https://www.oreilly.com/tim/gov2/){:target="_blank"} is a list of essays and interviews from Tim O'Reilly, who is known as the person to coin the term "Government as a platform".
 - [Common Components for #DigitalBC](https://jaimieboyd.medium.com/common-components-for-digitalbc-99e0cc2befb4){:target="_blank"}, a blog from Jaime Boyd, British Columbia's CIO, on re-usable building blocks, used together, or separately.
@@ -146,9 +170,3 @@ There are many articles and research exploring this topic so here are a few link
 - [GC Service & Digital Target Enterprise Architecture](https://wiki.gccollab.ca/index.php?title=GC_Service_%26_Digital_Target_Enterprise_Architecture&mobileaction=toggle_view_desktop){:target="_target"}
 - [1988 National Bureau of Standards' Management Guide to
 Software Reuse](https://www.govinfo.gov/content/pkg/GOVPUB-C13-dca04f7b7fc21321e39de88b35b2f1d3/pdf/GOVPUB-C13-dca04f7b7fc21321e39de88b35b2f1d3.pdf) (PDF)
-
-Needless to say that public administrations in general are ripe for reusing solutions and ideas to increase the quality of their services to citizens.
-
-Be welcoming, open minded, and inclusive.
-Not everyone has the same background and life experiences.
-We can learn from everyone and grow better together!
