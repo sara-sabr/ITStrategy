@@ -96,8 +96,8 @@ If that was the case, since it is not software related and automation may not be
 
 ### Open up at Inception
 
-Part of working in the open is accepting that we don't know everything and that others may be able to jump in and help at any time.
-By making your documents open at their inception, you put yourself in a mental state where you expect others to read and possibly participate from the get go.
+Part of working in the open is accepting that we don't know what others may be able to contribute to or when they would be able to jump in to help.
+By making your documents open at their inception, you put yourself from the get go in a mental state where you expect others to read and possibly participate whenever it makes sense for them, not just when you plan a formal review.
 In a way, you change how you perceive your own work.
 
 It's a normal reaction to think that we can do better before getting feedback, which is why you may be tempted to wait until "it's good enough to share".
@@ -105,7 +105,6 @@ But doing so may lead you to wait until very late in the creation process and yo
 
 For example, you may have to go back and review the document to ensure you haven't unconsciously added sensitive or classified information, which adds work and delays.
 Or, you may feel less receptive to feedback as you get closer to a final version of a document since you spent so much time aligning your ideas together and wordsmithing.
-Maybe you are worried that getting feedback on a document that is barely an outline will slow you down.
 
 As explained in our previous post, working in the open is a participatory approach which includes public reflection and documentation.
 The process itself is as important as the final document.
@@ -151,15 +150,12 @@ We can learn from everyone and grow better together!
 This post is getting a bit long but working in the open is something we should all strive to get accustomed with.
 As public servants, this is a unique opportunity to change our mindset and get closer to the people we work for.
 
-In fact, there even is a policy instrument stating as much in the [Directive on Open Government](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=28108){:target="_blank"}:
-
-> The objective of the directive is to maximize the release of government information and data of business value to support transparency, accountability, citizen engagement, and socio-economic benefits through reuse, subject to applicable restrictions associated with privacy, confidentiality, and security.
-
 On the topic of reusability, which probably should be its own post, it's important to realize that various jurisdictions have very similar needs and challenges, yet we work in isolation by default given our varied levels of responsibilities, mandates, and legislations.
 A few examples could be around signing in a government account (or [many](https://www.canada.ca/en/government/sign-in-online-account.html){:target="_blank"}!), creating web forms, displaying web content in an accessible manner, etc.
 
 There are many articles and research exploring this topic so here are a few links if you are interested.
 Needless to say that public administrations in general are ripe for reusing solutions and ideas to increase the quality of their services to citizens!
+Working in the open is essential to enable the discoverability of such reusable solutions!
 
 - [Government 2.0](https://www.oreilly.com/tim/gov2/){:target="_blank"} is a list of essays and interviews from Tim O'Reilly, who is known as the person to coin the term "Government as a platform".
 - [Common Components for #DigitalBC](https://jaimieboyd.medium.com/common-components-for-digitalbc-99e0cc2befb4){:target="_blank"}, a blog from Jaime Boyd, British Columbia's CIO, on re-usable building blocks, used together, or separately.
