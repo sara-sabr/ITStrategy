@@ -12,6 +12,10 @@ In this second entry, we will attempt to explain how you can get started while r
 <!--more-->
 
 In our [previous post]({{site.baseurl}}{% post_url 2019-11-19-working-in-the-open-part-1 %}), we explored what it meant to work in the open and why we should do so by default.
+Adding to our previous post's reasons to work in the open, we should mention that doing so is supported by the [Directive on Open Government](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=28108){:target="_blank"} and even the [Enterprise Architecture Framework](https://wiki.gccollab.ca/GC_Enterprise_Architecture/Framework){:target="_blank"} states that:
+
+> EA should "publish in the open all reusable common business capabilities, processes and enterprise solutions for others to develop and leverage cohesive horizontal enterprise services"
+
 This time, let's have a look at how we can accomplish this while ensuring we follow security and privacy best practices.
 
 _Note: The scope of this post will be more around everyday working in the open than software development.
@@ -23,7 +27,7 @@ It's worth reminding ourselves that not everyone is mentally and emotionally rea
 Various reasons exist and we should not judge.
 
 As mentioned in our [previous post]({{site.baseurl}}{% post_url 2019-11-19-working-in-the-open-part-1 %}), some organizations have taken the "Inner Source" road, opening up all workspaces to all their internal teams, to help folks slowly get comfortable with working in the open as well as reaping part of its benefits.
-Doing so can help identify what works well and what challenges surfaces for your team and your organization.
+Doing so can help identify what works well and what challenges surface for your team and your organization.
 It can also help figure out what mechanisms of control could be added to ensure that the organization keeps a good hold on its information and how to better support its employees in adopting the best practices.
 
 If your team isn't fully ready to work in the open, try slowly opening up your workspace to the rest of the organization by default.
@@ -54,8 +58,9 @@ Depending on the platform you use, various controls may be offered to let you op
 
 In SharePoint, a platform most often available as "Inner Source" only, a team can open up their workspace by default to their colleagues and create specific folders with more restricted access to privately work on documents only when absolutely required.
 
-With most collaboration platforms, whether it's SharePoint, Google Documents, etc., there usually is an option to let external contributors consult your documents and add comments but prevent them from making changes directly.
+With most collaboration platforms, whether it's SharePoint, Google Docs, etc., there usually is an option to let external contributors consult your documents and add comments but prevent them from making changes directly.
 This way, you remain in control of the main version but you enable people to stop by and provide feedback on a continuous basis.
+Additionally, such platforms usually offer a functionality that let the owner of the documents revert changes made by someone else, ensuring that only approved changes remain on your official versions that will be kept for information management purposes.
 
 ### Ensure Privacy
 
@@ -63,7 +68,7 @@ Public servants who work with citizen data must take great care regarding the pr
 Working in the open by default is not a concept that applies when working on a citizen's files and data.
 
 But it doesn't mean that even these teams can't work openly on improving their processes and sharing how they overcomed challenges.
-As public servants, we should continuously strive to improve our processes, look for new ways of solving issues, and share the results of our researches, as long as they are unclassified.
+As public servants, we should continuously strive to improve our processes, look for new ways of solving issues, and share the results of our research, as long as they are unclassified.
 
 ### Manage Secrets
 
@@ -84,10 +89,10 @@ In software development, we expect that there will be a security issue at some p
 By putting in place a remediation process, we ensure that even if there was to be a leak, appropriate mesures are in place to address it as quickly as possible.
 And we make sure that everyone knows how to run through the process, if it's not fully automated.
 
-In the optic of traditional text documents and presentations, reducing the amount of specific data used may help minimize the risks of leaks.
+For traditional text documents and presentations, reducing the amount of specific data used may help minimize the risks of leaks.
 However, someone could inadvertently type a password or personal information in a document.
 
-If that was the case, since it is not software related and automation may not be as easily possible, it would be important to have a clearly established protocol for your team members to address the data leak.
+If that was the case, since it is not software related and automation may not be as easily possible, it would be important that each member of your team is familiar with the departmental Directive on Privacy Breach and know exactly what to do and who to contact.
 
 ### Open up at Inception
 
