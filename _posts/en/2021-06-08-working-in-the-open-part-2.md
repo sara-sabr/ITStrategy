@@ -35,7 +35,7 @@ Don't wait until "that presentation is ready" before letting it be discoverable 
 You know you will not get around to it!
 
 If your team is ready to work in the open, publicly, then it is important to remember that work created by Government of Canada employees is subject to copyright as well.
-In our case, we need to appropriately identify that our work belongs to the Governement of Canada.
+In our case, we need to appropriately identify that our work belongs to the Government of Canada.
 The [Copyright](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/open-source-software/guide-for-publishing-open-source-code.html#toc04-5){:target="_blank"} section of the [Guide for Publishing Open Source Code](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/open-source-software/guide-for-publishing-open-source-code.html) indicates the following:
 
 > As per the [Crown Copyright Request](https://www.canada.ca/en/canadian-heritage/services/crown-copyright-request.html){:target="_blank"} article found on Canada.ca, the following structure should be applied for the Government of Canada Copyright notice.
@@ -45,7 +45,6 @@ The [Copyright](https://www.canada.ca/en/government/system/digital-government/di
   > ```
 >
 > Replace the (legal departmental name) and (year of publication) with the appropriate information.
-
 
 ## Set up your Environment
 
