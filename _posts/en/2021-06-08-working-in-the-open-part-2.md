@@ -34,6 +34,19 @@ If your team isn't fully ready to work in the open, try slowly opening up your w
 Don't wait until "that presentation is ready" before letting it be discoverable by others.
 You know you will not get around to it!
 
+If your team is ready to work in the open, publicly, then it is important to remember that work created by Government of Canada employees is subject to copyright as well.
+In our case, we need to appropriately identify that our work belongs to the Governement of Canada.
+The [Copyright](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/open-source-software/guide-for-publishing-open-source-code.html#toc04-5){:target="_blank"} section of the [Guide for Publishing Open Source Code](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/open-source-software/guide-for-publishing-open-source-code.html) indicates the following:
+
+> As per the [Crown Copyright Request](https://www.canada.ca/en/canadian-heritage/services/crown-copyright-request.html){:target="_blank"} article found on Canada.ca, the following structure should be applied for the Government of Canada Copyright notice.
+>
+  > ```text
+  > Copyright (c) Her Majesty the Queen in Right of Canada, as represented by the Minister of (legal departmental name), (year of publication).
+  > ```
+>
+> Replace the (legal departmental name) and (year of publication) with the appropriate information.
+
+
 ## Set up your Environment
 
 Your virtual workspace may consist of a variety of tools and platforms.
