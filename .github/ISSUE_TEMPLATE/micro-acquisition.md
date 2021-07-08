@@ -1,0 +1,10 @@
+---
+name: Micro-acquisition
+about: Issues related to the micro-acquisition pilot - Tâches liées au Pilote de micro-acquisition
+title: 'MA - '
+labels: micro-acquisitions
+assignees: RachelMuston
+
+---
+
+
