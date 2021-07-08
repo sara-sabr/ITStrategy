@@ -160,7 +160,7 @@ Send us an [email](mailto:"EDSC.DGIIT.StrategieTI-ITStrategy.IITB.ESDC@hrsdc-rhd
 
 ## Further Readings
 
-This post is getting a bit long but working in the open is something we should all strive to get accustomed with.
+This post was getting a bit long but working in the open is something we should all strive to get accustomed with.
 As public servants, this is a unique opportunity to change our mindset and get closer to the people we work for.
 
 On the topic of reusability, which probably should be its own post, it's important to realize that various jurisdictions have very similar needs and challenges, yet we work in isolation by default given our varied levels of responsibilities, mandates, and legislations.
