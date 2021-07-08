@@ -12,7 +12,7 @@ In this second entry, we will attempt to explain how you can get started while r
 <!--more-->
 
 In our [previous post]({{site.baseurl}}{% post_url 2019-11-19-working-in-the-open-part-1 %}), we explored what it meant to work in the open and why we should do so by default.
-Adding to our previous post's reasons to work in the open, we should mention that doing so is supported by the [Directive on Open Government](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=28108){:target="_blank"} and even the [Enterprise Architecture Framework](https://wiki.gccollab.ca/GC_Enterprise_Architecture/Framework){:target="_blank"} states that:
+Adding to our previous post's reasons to work in the open, we should mention that doing so is supported by the [Directive on Open Government](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=28108){:target="_blank"} and even the [GC Enterprise Architecture Framework](https://wiki.gccollab.ca/GC_Enterprise_Architecture/Framework){:target="_blank"} states that:
 
 > EA should "publish in the open all reusable common business capabilities, processes and enterprise solutions for others to develop and leverage cohesive horizontal enterprise services"
 
@@ -40,9 +40,7 @@ The [Copyright](https://www.canada.ca/en/government/system/digital-government/di
 
 > As per the [Crown Copyright Request](https://www.canada.ca/en/canadian-heritage/services/crown-copyright-request.html){:target="_blank"} article found on Canada.ca, the following structure should be applied for the Government of Canada Copyright notice.
 >
-  > ```text
-  > Copyright (c) Her Majesty the Queen in Right of Canada, as represented by the Minister of (legal departmental name), (year of publication).
-  > ```
+> _**Copyright (c) Her Majesty the Queen in Right of Canada, as represented by the Minister of (legal departmental name), (year of publication).**_
 >
 > Replace the (legal departmental name) and (year of publication) with the appropriate information.
 
@@ -157,7 +155,10 @@ Be welcoming, open minded, and inclusive.
 Not everyone has the same background and life experiences.
 We can learn from everyone and grow better together!
 
-#### Further Readings
+Are you working in the open?
+Send us an [email](mailto:"EDSC.DGIIT.StrategieTI-ITStrategy.IITB.ESDC@hrsdc-rhdcc.gc.ca") and let us know what works for you!
+
+## Further Readings
 
 This post is getting a bit long but working in the open is something we should all strive to get accustomed with.
 As public servants, this is a unique opportunity to change our mindset and get closer to the people we work for.
