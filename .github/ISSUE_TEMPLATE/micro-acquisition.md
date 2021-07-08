@@ -1,6 +1,6 @@
 ---
 name: Micro-acquisition
-about: Describe this issue template's purpose here.
+about: Issues related to the micro-acquisition pilot - Tâches liées au Pilote de micro-acquisition
 title: 'MA - '
 labels: micro-acquisitions
 assignees: RachelMuston
