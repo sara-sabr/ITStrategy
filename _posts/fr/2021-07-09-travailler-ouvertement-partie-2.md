@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Working in the Open: Part 2"
+title: "Travailler ouvertement: Partie 2"
 ref: working-in-the-open-p2
-lang: en
-author: "Guillaume Charest, in collaboration with the IT Strategy team"
+lang: fr
+author: "Guillaume Charest, en collaboration avec l'équipe de Stratégie TI"
 date: "2021-07-09"
 excerpt_separator: <!--more-->
 ---
@@ -12,175 +12,173 @@ Dans ce deuxième article, nous allons tenter de vous expliquer comment vous pou
 <!--more-->
 
 Dans notre [billet précédent]({{site.baseurl}}{% post_url 2019-11-19-travailler-ouvertement-partie-1 %}), nous avons exploré ce que signifiait travailler ouvertement et pourquoi nous devrions le faire par défaut.
-Pour compléter les raisons de travailler de façon ouverte évoquées dans notre précédent article, il est bon de mentionner que cette approche est soutenue par la [Directive sur le gouvernement ouvert](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=28108) et que même [cadre d'architecture d'entreprise du GC](https://wiki.gccollab.ca/GC_Enterprise_Architecture/Framework) (en anglais) indique que:
+Pour compléter les raisons de travailler de façon ouverte évoquées dans notre précédent article, il est bon de mentionner que cette approche est soutenue par la [Directive sur le gouvernement ouvert](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=28108) et que même le [cadre d'architecture d'entreprise du GC](https://wiki.gccollab.ca/GC_Enterprise_Architecture/Framework) (en anglais) indique que:
 
 > les architectes d'entreprise devraient "publier ouvertement toutes les capacités, processus et solutions d'entreprise communs réutilisables pour que d'autres puissent développer et exploiter des services d'entreprise horizontaux cohérents" (traduction libre)
 
-This time, let's have a look at how we can accomplish this while ensuring we follow security and privacy best practices.
+Cette fois, nous allons examiner comment nous pouvons parvenir à travailler ouvertement tout en veillant à respecter les meilleures pratiques en matière de sécurité et de confidentialité.
 
-_Note: The scope of this post will be more around everyday working in the open than software development.
-We may take a deeper dive in this other topic in an upcoming blog post._
+_Note: Ce billet portera davantage sur le travail quotidien que sur le développement de logiciels.
+Nous pourrons approfondir cet autre sujet dans un prochain billet._
 
-## Inner Source vs Open Source
+## Travailler ouvertement à l'interne
 
-It's worth reminding ourselves that not everyone is mentally and emotionally ready to open up to the whole world.
-Various reasons exist and we should not judge.
+Il est bon de se rappeler que tout le monde n'est pas prêt, mentalement et émotionnellement, à s'ouvrir au monde entier.
+Il existe diverses raisons et nous ne devons pas juger.
 
-As mentioned in our [previous post]({{site.baseurl}}{% post_url 2019-11-19-working-in-the-open-part-1 %}), some organizations have taken the "Inner Source" road, opening up all workspaces to all their internal teams, to help folks slowly get comfortable with working in the open as well as reaping part of its benefits.
-Doing so can help identify what works well and what challenges surface for your team and your organization.
-It can also help figure out what mechanisms of control could be added to ensure that the organization keeps a good hold on its information and how to better support its employees in adopting the best practices.
+Comme mentionné dans notre [précédent billet]({{site.baseurl}}{% post_url 2019-11-19-travailler-ouvertement-partie-1 %}), certaines organisations ont emprunté une approche graduelle, communément appelée "Inner Source", en ouvrant tous les espaces de travail à l'ensemble de leurs équipes internes, afin d'aider les gens à se familiariser progressivement avec le travail ouvert et à profiter d'une partie de ses avantages.
+Cette démarche peut aider à identifier ce qui fonctionne bien et les défis qui se présentent à votre équipe et à votre organisation.
+Cela peut également aider à déterminer quels mécanismes de contrôle pourraient être ajoutés pour garantir que l'organisation garde une bonne maîtrise de ses informations et comment mieux aider ses employés à adopter les meilleures pratiques.
 
-If your team isn't fully ready to work in the open, try slowly opening up your workspace to the rest of the organization by default.
-Don't wait until "that presentation is ready" before letting it be discoverable by others.
-You know you will not get around to it!
+Si votre équipe n'est pas tout à fait prête à travailler de façon ouverte, essayez d'ouvrir lentement votre espace de travail au reste de l'organisation, par défaut.
+N'attendez pas que "cette présentation soit prête" pour permettre aux autres de la découvrir.
+Vous savez que vous n'y arriverez jamais !
 
-If your team is ready to work in the open, publicly, then it is important to remember that work created by Government of Canada employees is subject to copyright as well.
-In our case, we need to appropriately identify that our work belongs to the Government of Canada.
-The [Copyright](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/open-source-software/guide-for-publishing-open-source-code.html#toc04-5){:target="_blank"} section of the [Guide for Publishing Open Source Code](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/open-source-software/guide-for-publishing-open-source-code.html) indicates the following:
+Si votre équipe est prête à travailler ouvertement, publiquement, il est important de se rappeler que le travail créé par les employés du gouvernement du Canada est également soumis au droit d'auteur.
+Dans notre cas, nous devons identifier de manière appropriée que notre travail appartient au gouvernement du Canada.
+La section [Droits d'auteur](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/innovations-gouvernementales-numeriques/logiciels-libres/guide-pour-la-publication-du-code-source-libre.html#toc04-5) du [Guide pour la publication du code source libre](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/innovations-gouvernementales-numeriques/logiciels-libres/guide-pour-la-publication-du-code-source-libre.html) indique ce qui suit:
 
-> As per the [Crown Copyright Request](https://www.canada.ca/en/canadian-heritage/services/crown-copyright-request.html){:target="_blank"} article found on Canada.ca, the following structure should be applied for the Government of Canada Copyright notice.
+> Selon l’article des [Demandes de droit d’auteur de la Couronne](https://www.canada.ca/fr/patrimoine-canadien/services/demandes-droit-auteur-couronne.html) trouvé sur Canada.ca, la structure suivante devrait être appliquée pour l’avis de droit d’auteur du gouvernement du Canada.
 >
-> _**Copyright (c) Her Majesty the Queen in Right of Canada, as represented by the Minister of (legal departmental name), (year of publication).**_
+> _**Droit d’auteur (c) Sa Majesté la Reine du chef du Canada, représentée par la ministre de (nom légal du ministère), (année de publication).**_
 >
-> Replace the (legal departmental name) and (year of publication) with the appropriate information.
+> Remplacer le (nom légal du ministère) et (année de publication) avec l’information appropriée.
 
-## Set up your Environment
+## Préparer votre environnement de travail
 
-Your virtual workspace may consist of a variety of tools and platforms.
+Votre espace de travail virtuel peut être constitué d'une variété d'outils et de plateformes.
 
-Software developers and IT folks may leverage social coding platforms such as Gitlab, Github, GCcode, etc., to collaborate widely with people around the world on source code.
+Les développeurs de logiciels et les informaticiens peuvent utiliser des plateformes de codage social telles que Gitlab, Github, GCcode, etc. pour collaborer largement avec des personnes du monde entier sur le code source.
 
-In the Government of Canada, most departments now use Microsoft 365 to varying degrees, which may include Teams, a collaboration platform that ties in multiple products and capabilities.
+Au gouvernement du Canada, la plupart des ministères utilisent maintenant Microsoft 365 à divers degrés, ce qui peut inclure Teams, une plateforme de collaboration qui relie plusieurs produits et capacités.
 
-Whether you are using the corporate collaboration platform or a 3rd party software as service to work in the open, there are a number of things to keep in mind.
+Que vous utilisiez la plateforme de collaboration de l'entreprise ou un logiciel tiers en tant que service pour travailler ouvertement, il y a un certain nombre de choses à garder à l'esprit.
 
-### Stay in Control
+### Rester en contrôle
 
-Your workspace is a very important place: it contains your work and you have a responsibility to ensure its properly secured and controlled.
-However, that doesn't mean you can't open up securely.
+Votre espace de travail est un lieu très important : il contient votre travail et vous avez la responsabilité de veiller à ce qu'il soit correctement sécurisé et contrôlé.
+Toutefois, cela ne signifie pas que vous ne pouvez pas l'ouvrir de manière sécurisée.
 
-Proper access management is required so that we can separate the two main types of users: your team's members and external contributors.
-The latter could be a person from within your organization or from the public.
+Une bonne gestion des accès est nécessaire pour pouvoir séparer les deux principaux types d'utilisateurs : les membres de votre équipe et les contributeurs externes.
+Ces derniers peuvent être des personnes de votre organisation ou du public.
 
-There may be more types of roles available depending on the platforms, but these are the main buckets we think of when working in the open.
+Il peut y avoir d'autres types de rôles disponibles en fonction des plates-formes, mais ce sont les principales catégories auxquelles nous pensons lorsque nous travaillons ouvertement.
 
-Depending on the platform you use, various controls may be offered to let you openly share your documents and your work while remaining in control of its content.
+Selon la plateforme que vous utilisez, divers contrôles peuvent être proposés pour vous permettre de partager ouvertement vos documents et votre travail tout en gardant le contrôle de son contenu.
 
-In SharePoint, a platform most often available as "Inner Source" only, a team can open up their workspace by default to their colleagues and create specific folders with more restricted access to privately work on documents only when absolutely required.
+Dans SharePoint, une plateforme le plus souvent disponible en tant que "Inner Source" uniquement, une équipe peut ouvrir son espace de travail par défaut à ses collègues et créer des dossiers spécifiques avec un accès plus restreint pour travailler en privé sur des documents uniquement lorsque cela est absolument nécessaire.
 
-With most collaboration platforms, whether it's SharePoint, Google Docs, etc., there usually is an option to let external contributors consult your documents and add comments but prevent them from making changes directly.
-This way, you remain in control of the main version but you enable people to stop by and provide feedback on a continuous basis.
-Additionally, such platforms usually offer a functionality that let the owner of the documents revert changes made by someone else, ensuring that only approved changes remain on your official versions that will be kept for information management purposes.
+Avec la plupart des plateformes de collaboration, qu'il s'agisse de SharePoint, Google Docs, etc., il existe généralement diverses options permettant aux contributeurs externes de consulter vos documents et d'ajouter des commentaires, mais les empêchant d'apporter des modifications directement au contenu.
+De plus, ces plateformes offrent généralement une fonctionnalité qui permet au propriétaire des documents de revenir sur les modifications apportées par quelqu'un d'autre, garantissant ainsi que seules les modifications approuvées restent sur vos versions officielles qui seront conservées à des fins de gestion de l'information.
 
-### Ensure Privacy
+### Assurer la vie privée
 
-Public servants who work with citizen data must take great care regarding the privacy of that data and never share it publicly.
-Working in the open by default is not a concept that applies when working on a citizen's files and data.
+Les fonctionnaires qui travaillent avec les données des citoyens doivent faire très attention à la confidentialité de ces données et ne jamais les partager publiquement.
+Travailler ouvertement par défaut n'est pas un concept qui s'applique lorsqu'on travaille sur les dossiers et les données d'un citoyen.
 
-But it doesn't mean that even these teams can't work openly on improving their processes and sharing how they overcomed challenges.
-As public servants, we should continuously strive to improve our processes, look for new ways of solving issues, and share the results of our research, as long as they are unclassified.
+Mais cela ne signifie pas que même ces équipes ne peuvent pas travailler ouvertement à l'amélioration de leurs processus et partager la façon dont elles ont surmonté leurs difficultés.
+En tant que fonctionnaires, nous devons nous efforcer en permanence d'améliorer nos processus, de rechercher de nouvelles façons de résoudre les problèmes et de partager les résultats de nos recherches, pour autant qu'ils ne soient pas classifiés.
 
-### Manage Secrets
+### Gérer les secrets
 
-In software development, certain parts of the final code may be a corporate secret, such as a private key to a computer resource, passwords, etc.
+Dans le développement de logiciels, certaines parties du code final peuvent être un secret d'entreprise, comme une clé privée d'une ressource informatique, des mots de passe, etc.
 
-These must never be included in the public source code itself but rather be managed separately.
+Ces éléments ne doivent jamais être inclus dans le code source public lui-même, mais être gérés séparément.
 
-Since, software source code is nothing more than structured text that can be understood by a computer, the same concept of pulling out secrets parts may be taken with other types of documents.
+Étant donné que le code source d'un logiciel est essentiellement un texte structuré qui peut être compris par un ordinateur, le même concept de retrait des parties secrètes peut être appliqué à d'autres types de documents.
 
-This means that when a small part of your work must not be shared publicly, you can exclude it and store it in a secure location instead of locking down the entire document.
+Cela signifie que lorsqu'une petite partie de votre travail ne doit pas être partagée publiquement, vous pouvez l'exclure et la stocker dans un endroit sécurisé au lieu de verrouiller l'ensemble du document.
 
-This way, the material that is unclassified can still be made available publicly and may be collectively worked on while the parts that are to be secured can be edited separately only by the select individuals who are authorized.
+De cette façon, le matériel non classifié peut toujours être mis à la disposition du public et faire l'objet d'un travail collectif, tandis que les parties qui doivent être sécurisées ne peuvent être modifiées séparément que par les personnes autorisées.
 
-### Manage Leaks
+### Gérer les fuites d'informations
 
-In software development, we expect that there will be a security issue at some point, while we continue to strive to minimize that eventuality.
+Dans le développement de logiciels, nous nous attendons à ce qu'il y ait un problème de sécurité à un moment donné, tout en continuant à nous efforcer de minimiser cette éventualité.
 
-By putting in place a remediation process, we ensure that even if there was to be a leak, appropriate mesures are in place to address it as quickly as possible.
-And we make sure that everyone knows how to run through the process, if it's not fully automated.
+En mettant en place un processus de remédiation, nous nous assurons que, même s'il devait y avoir une fuite, des mesures appropriées sont en place pour y remédier le plus rapidement possible.
+Et nous nous assurons que chacun sait comment exécuter le processus, s'il n'est pas entièrement automatisé.
 
-For traditional text documents and presentations, reducing the amount of specific data used may help minimize the risks of leaks.
-However, someone could inadvertently type a password or personal information in a document.
+Pour les documents texte et les présentations traditionnels, la réduction de la quantité de données spécifiques utilisées peut contribuer à minimiser les risques de fuites.
+Cependant, quelqu'un pourrait taper par inadvertance un mot de passe ou des informations personnelles dans un document.
 
-If that was the case, since it is not software related and automation may not be as easily possible, it would be important that each member of your team is familiar with the departmental Directive on Privacy Breach and know exactly what to do and who to contact.
+Si tel était le cas, puisque ce n'est pas lié à du développement logiciel et que l'automatisation de la remédiation n'est peut-être pas aussi facile ou même possible, il serait important que chaque membre de votre équipe connaisse la directive ministérielle sur les atteintes à la vie privée et sache exactement quoi faire et qui contacter.
 
-### Open up at Inception
+## Ouvrir dès le début
 
-Part of working in the open is accepting that we don't know what others may be able to contribute to or when they would be able to jump in to help.
-By making your documents open at their inception, you put yourself from the get go in a mental state where you expect others to read and possibly participate whenever it makes sense for them, not just when you plan a formal review.
-In a way, you change how you perceive your own work.
+Travailler ouvertement, c'est en partie accepter que l'on ne sait pas ce que les autres peuvent apporter ou quand ils peuvent intervenir pour aider.
+En rendant vos documents ouverts dès leur création, vous vous placez dès le départ dans un état d'esprit où vous vous attendez à ce que les autres les lisent et éventuellement participent quand cela a un sens pour eux, et non seulement lorsque vous prévoyez une révision formelle.
+D'une certaine manière, vous changez la façon dont vous percevez votre propre travail.
 
-It's a normal reaction to think that we can do better before getting feedback, which is why you may be tempted to wait until "it's good enough to share".
-But doing so may lead you to wait until very late in the creation process and you may actually never end up opening up for a variety of reasons.
+C'est une réaction normale de penser que l'on peut faire mieux avant d'avoir une rétroaction, c'est pourquoi vous pouvez être tenté d'attendre jusqu'à ce que "ce soit assez bon pour être partagé".
+Mais cette attitude peut vous conduire à attendre très tard dans le processus de création et vous risquez de ne jamais vous ouvrir, pour diverses raisons.
 
-For example, you may have to go back and review the document to ensure you haven't unconsciously added sensitive or classified information, which adds work and delays.
-Or, you may feel less receptive to feedback as you get closer to a final version of a document since you spent so much time aligning your ideas together and wordsmithing.
+Par exemple, vous devrez peut-être revenir en arrière et revoir le document pour vous assurer que vous n'avez pas inconsciemment ajouté des informations sensibles ou classifiées, ce qui représente un surcroît de travail et de retard.
+Ou encore, vous pouvez vous sentir moins réceptif aux commentaires à mesure que vous vous rapprochez de la version finale d'un document, car vous avez passé tellement de temps à rassembler vos idées et à peaufiner vos mots.
 
-As explained in our previous post, working in the open is a participatory approach which includes public reflection and documentation.
-The process itself is as important as the final document.
+Comme nous l'avons expliqué dans notre précédent billet, travailler ouvertement est une approche participative qui inclut une réflexion et une documentation publiques.
+Le processus lui-même est aussi important que le document final.
 
-### Be Humble and Open Minded
+### Être humble et ouvert d'esprit
 
-Working in the open may seem like putting yourself out there, subject to criticism and judgement of others.
+Travailler ouvertement peut donner l'impression que vous vous exposez aux critiques et au jugement des autres.
 
-But remember that no one knows everything.
-Opening up is an opportunity for you and your team to share what you are working on and enable unique collaboration experiences with colleagues and citizens alike.
+Mais n'oubliez pas que personne ne sait tout.
+L'ouverture est une occasion pour vous et votre équipe de partager ce sur quoi vous travaillez et de permettre des expériences de collaboration uniques avec vos collègues et les citoyens.
 
-This approach is what made open source software projects so powerful and adopted across the whole world.
-It is also a good way to align with the Directive on Open Government as mentioned earlier.
+Cette approche est ce qui a rendu les projets de logiciels libres si puissants et adoptés dans le monde entier.
+C'est également un bon moyen de s'aligner sur la directive sur le gouvernement ouvert mentionnée précédemment.
 
-Of course, the official review process can still occur for each major revision of your documents.
-You simply ensure that in between such versions, the creation process is done openly and enables folks from all backgrounds to contribute.
+Bien entendu, le processus de révision officiel peut toujours avoir lieu pour chaque révision majeure de vos documents.
+Vous devez simplement vous assurer qu'entre ces versions, le processus de création est ouvert et permet à des personnes de tous horizons de contribuer.
 
-### Manage the Community
+## Gérer la communauté
 
-An argument sometimes used for avoiding working in the open is that managing the community may end up being more work than what you get back.
-Or that receiving external contributions before a certain version is mature enough would slow you down.
+Un argument parfois utilisé pour éviter de travailler de manière ouverte est que la gestion de la communauté peut finir par représenter plus de travail que ce que vous obtenez en retour.
+Ou que le fait de recevoir des contributions externes avant qu'une certaine version soit suffisamment mature vous ralentirait.
 
-Based on our experience, small and continuous feedback makes the process much less cognitively intensive since contributions usually are smaller and can be more easily integrated in the workflow.
-It also helps identify issues early on so that side discussions may occur on those specifically.
-And by continuously reviewing and integrating the feedback, it helps minimize the disruption of the entire creation effort.
+D'après notre expérience, un processus de rétroaction continue et à petite échelle est beaucoup moins exigeant sur le plan cognitif, car les contributions sont généralement plus petites et peuvent être plus facilement intégrées dans le flux de travail.
+Cela permet également d'identifier les problèmes à un stade précoce afin que des discussions parallèles puissent avoir lieu sur ces points précis.
+Enfin, l'examen et l'intégration continus des commentaires permettent de minimiser les perturbations de l'ensemble de l'effort de création.
 
-As mentioned before, this approach has to be participatory.
-It means that you have to set the stage, explain what you are trying to accomplish and welcome those contributions from all around.
+Comme indiqué précédemment, cette approche doit être participative.
+Cela signifie que vous devez préparer le terrain, expliquer ce que vous essayez d'accomplir et accueillir les contributions de tout le monde.
 
-And encourage external folks to comment.
-Make sure you reply to them either by simply acknowledging you have read their contributions or by letting them know what will be done about it.
+Et encouragez les personnes extérieures à faire des commentaires.
+Assurez-vous de leur répondre, soit en reconnaissant simplement que vous avez lu leurs contributions, soit en leur faisant savoir ce qui sera fait.
 
-Since we abide by a code of values and ethics, clearly outline what is tolerated and what is not.
-Be clear within your team that this is something that is beneficial and help new comers to feel comfortable with the process.
+Puisque nous nous conformons à un code de valeurs et d'éthique, définissez clairement ce qui est toléré et ce qui ne l'est pas.
+Faites comprendre à votre équipe qu'il s'agit d'une démarche bénéfique et aidez les nouveaux venus à se sentir à l'aise avec le processus.
 
-You may be surprised as to who ends up contributing!
-Be welcoming, open minded, and inclusive.
-Not everyone has the same background and life experiences.
-We can learn from everyone and grow better together!
+Vous serez peut-être surpris de voir qui finira par contribuer !
+Soyez accueillant, ouvert d'esprit et inclusif.
+Tout le monde n'a pas les mêmes antécédents et les mêmes expériences de vie.
+Nous pouvons apprendre de chacun et progresser ensemble !
 
-Are you working in the open?
-Send us an [email](mailto:"EDSC.DGIIT.StrategieTI-ITStrategy.IITB.ESDC@hrsdc-rhdcc.gc.ca") and let us know what works for you!
+Travaillez-vous ouvertement ? Envoyez-nous un [courriel](mailto:"EDSC.DGIIT.StrategieTI-ITStrategy.IITB.ESDC@hrsdc-rhdcc.gc.ca") et laissez-nous savoir ce qui fonctionne pour vous!
 
-## Further Readings
+## Autres lectures
 
-This post was getting a bit long but working in the open is something we should all strive to get accustomed with.
-As public servants, this is a unique opportunity to change our mindset and get closer to the people we work for.
+Ce billet devenait un peu long, mais travailler ouvertement est une chose à laquelle nous devrions tous nous efforcer de nous habituer.
+En tant que fonctionnaires, c'est une occasion unique de changer notre état d'esprit et de nous rapprocher des personnes pour lesquelles nous travaillons, ainsi que d'augmenter les chances de réutiliser des idées et des solutions existantes au lieu de partir de zéro.
 
-On the topic of reusability, which probably should be its own post, it's important to realize that various jurisdictions have very similar needs and challenges, yet we work in isolation by default given our varied levels of responsibilities, mandates, and legislations.
-A few examples could be around signing in a government account (or [many](https://www.canada.ca/en/government/sign-in-online-account.html){:target="_blank"}!), creating web forms, displaying web content in an accessible manner, etc.
+En ce qui concerne la réutilisabilité, qui devrait probablement faire l'objet d'un article à part entière, il est important de réaliser que les différentes juridictions ont des besoins et des défis très similaires, mais que nous travaillons de manière isolée par défaut, étant donné nos différents niveaux de responsabilités, de mandats et de législations.
+Quelques exemples pourraient concerner la connexion à un compte gouvernemental (ou [plusieurs](https://www.canada.ca/fr/gouvernement/ouvrir-session-dossier-compte-en-ligne.html) !), la création de formulaires web, l'affichage de contenu web de manière accessible, etc.
 
-There are many articles and research exploring this topic so here are a few links if you are interested.
-Needless to say that public administrations in general are ripe for reusing solutions and ideas to increase the quality of their services to citizens!
-Working in the open is essential to enable the discoverability of such reusable solutions!
+Il existe de nombreux articles et recherches explorant ce sujet, voici donc quelques liens si vous êtes intéressés.
+Il va sans dire que les administrations publiques en général sont prêtes à réutiliser des solutions et des idées pour améliorer la qualité de leurs services aux citoyens !
+Il est essentiel de travailler de manière ouverte pour permettre la découverte de ces solutions réutilisables !
 
-- [Government 2.0](https://www.oreilly.com/tim/gov2/){:target="_blank"} is a list of essays and interviews from Tim O'Reilly, who is known as the person to coin the term "Government as a platform".
-- [Common Components for #DigitalBC](https://jaimieboyd.medium.com/common-components-for-digitalbc-99e0cc2befb4){:target="_blank"}, a blog from Jaime Boyd, British Columbia's CIO, on re-usable building blocks, used together, or separately.
-- [Re-use existing common components to create your product or service.](https://digital.gov.bc.ca/common-components){:target="_blank"} The British Columbia's Digital Common Components Catalogue
-- [Government as a Platform: the foundation for Digital Government and Gov 2.0](https://www.themandarin.com.au/118672-government-as-a-platform-the-foundation-for-digital-government-and-gov-2-0/){:target"_blank"} is an essay from Pia Andrews, presenting her vision of a Digital Government, a Government as a platform.
-  She also explores the API model for governments as well as the concepts of reusable components across services.
-  Pia is now working us in ESDC to navigate the complexities of modernizing our business delivery to citizens.
-- [A working definition of Government as a Platform](https://medium.com/digitalhks/a-working-definition-of-government-as-a-platform-1fa6ff2f8e8d){:target="_blank"}, is an essay from Richard Pope presenting how governments can become platforms from which citizen services can be designed by reusing components and services.
-- [Lessons from Estonia on digital government](https://policyoptions.irpp.org/fr/magazines/february-2019/lessons-estonia-digital-government/){:target="_blank"} is an essay from David Eaves on how Canada could learn from Estonia's journey by leveraging common building components for digital services, even if we consider the complexity tied to the legacy systems and policies that Canada has to deal with.
-- [Web Experience Toolkit](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/web-experience-toolkit.html){:target="_blank"} is a Government of Canada initiatives that "includes reusable components for building and maintaining innovative websites that are accessible, usable, and interoperable.
-  These reusable components are open source software and free for use by departments and external Web communities."
-  It is a great example of how a team was able to work in the open to benefit the government as a whole but also the society itself.
-- [GC Service & Digital Target Enterprise Architecture](https://wiki.gccollab.ca/index.php?title=GC_Service_%26_Digital_Target_Enterprise_Architecture&mobileaction=toggle_view_desktop){:target="_target"}
+- [Government 2.0](https://www.oreilly.com/tim/gov2/)(en anglais) est une liste d'essais et d'interviews de Tim O'Reilly, qui est connu pour avoir inventé le terme "Government as a platform".
+- [Common Components for #DigitalBC](https://jaimieboyd.medium.com/common-components-for-digitalbc-99e0cc2befb4) (en anglais), un billet de blog de Jaime Boyd, DSI de la Colombie-Britannique, sur les modules réutilisables, utilisés ensemble ou séparément.
+- [Re-use existing common components to create your product or service.](https://digital.gov.bc.ca/common-components) Le catalogue numérique des composantes communes de la Colombie-Britannique.
+- [Government as a Platform: the foundation for Digital Government and Gov 2.0](https://www.themandarin.com.au/118672-government-as-a-platform-the-foundation-for-digital-government-and-gov-2-0/) (en anglais) est un essai de Pia Andrews, qui présente sa vision d'un gouvernement numérique, un gouvernement en tant que plateforme.
+  Elle explore également le modèle API pour les gouvernements ainsi que les concepts de composantes réutilisables à travers les services.
+  Pia travaille actuellement au sein de EDSC pour naviguer dans les complexités de la modernisation de nos services aux citoyens.
+- [A working definition of Government as a Platform](https://medium.com/digitalhks/a-working-definition-of-government-as-a-platform-1fa6ff2f8e8d) (en anglais), est un essai de Richard Pope présentant la manière dont les gouvernements peuvent devenir des plateformes à partir desquelles les services aux citoyens peuvent être conçus en réutilisant des composantes et des services.
+- [Lessons from Estonia on digital government](https://policyoptions.irpp.org/fr/magazines/february-2019/lessons-estonia-digital-government/) (en anglais) est un essai de David Eaves sur la façon dont le Canada pourrait s'inspirer du parcours de l'Estonie en tirant parti d'éléments de construction communs pour les services numériques, même si nous tenons compte de la complexité liée aux systèmes et politiques hérités que le Canada doit gérer.
+- [Boîte à outils de l'expérience Web](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/web-experience-toolkit.html) est une initiative du gouvernement du Canada qui  "comprend différents composants réutilisables et prêts-à-utiliser pour la conception et la mise à jour de sites Web innovateurs qui sont à la fois accessibles, utilisables et interopérables.
+  Ces composants réutilisables sont des logiciels libres et gratuits mis à la disposition des ministères et des collectivités Web externes."
+  C'est un excellent exemple de la manière dont une équipe a pu travailler au grand jour au bénéfice du gouvernement dans son ensemble mais aussi de la société elle-même.
+- [GC Service & Digital Target Enterprise Architecture](https://wiki.gccollab.ca/GC_Service_%26_Digital_Target_Enterprise_Architecture) (en anglais)
 - [1988 National Bureau of Standards' Management Guide to
-Software Reuse](https://www.govinfo.gov/content/pkg/GOVPUB-C13-dca04f7b7fc21321e39de88b35b2f1d3/pdf/GOVPUB-C13-dca04f7b7fc21321e39de88b35b2f1d3.pdf) (PDF)
+Software Reuse](https://www.govinfo.gov/content/pkg/GOVPUB-C13-dca04f7b7fc21321e39de88b35b2f1d3/pdf/GOVPUB-C13-dca04f7b7fc21321e39de88b35b2f1d3.pdf) (en anglais, PDF 2.2 MB)
