@@ -158,7 +158,7 @@ Travaillez-vous ouvertement ? Envoyez-nous un [courriel](mailto:"EDSC.DGIIT.Stra
 
 ## Autres lectures
 
-Ce billet devenait un peu long, mais travailler ouvertement est une chose à laquelle nous devrions tous nous efforcer de nous habituer.
+Travailler ouvertement est une chose à laquelle nous devrions tous nous efforcer de nous habituer.
 En tant que fonctionnaires, c'est une occasion unique de changer notre état d'esprit et de nous rapprocher des personnes pour lesquelles nous travaillons, ainsi que d'augmenter les chances de réutiliser des idées et des solutions existantes au lieu de partir de zéro.
 
 En ce qui concerne la réutilisabilité, qui devrait probablement faire l'objet d'un article à part entière, il est important de réaliser que les différentes juridictions ont des besoins et des défis très similaires, mais que nous travaillons de manière isolée par défaut, étant donné nos différents niveaux de responsabilités, de mandats et de législations.
