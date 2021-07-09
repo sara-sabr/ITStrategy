@@ -12,7 +12,7 @@ In this second entry, we will attempt to explain how you can get started while r
 <!--more-->
 
 In our [previous post]({{site.baseurl}}{% post_url 2019-11-19-working-in-the-open-part-1 %}), we explored what it meant to work in the open and why we should do so by default.
-Adding to our previous post's reasons to work in the open, we should mention that doing so is supported by the [Directive on Open Government](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=28108){:target="_blank"} and even the [GC Enterprise Architecture Framework](https://wiki.gccollab.ca/GC_Enterprise_Architecture/Framework){:target="_blank"} states that:
+Adding to our previous post's reasons to work in the open, we should mention that doing so is supported by the [Directive on Open Government](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=28108) and even the [GC Enterprise Architecture Framework](https://wiki.gccollab.ca/GC_Enterprise_Architecture/Framework) states that:
 
 > EA should "publish in the open all reusable common business capabilities, processes and enterprise solutions for others to develop and leverage cohesive horizontal enterprise services"
 
@@ -36,9 +36,9 @@ You know you will not get around to it!
 
 If your team is ready to work in the open, publicly, then it is important to remember that work created by Government of Canada employees is subject to copyright as well.
 In our case, we need to appropriately identify that our work belongs to the Government of Canada.
-The [Copyright](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/open-source-software/guide-for-publishing-open-source-code.html#toc04-5){:target="_blank"} section of the [Guide for Publishing Open Source Code](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/open-source-software/guide-for-publishing-open-source-code.html) indicates the following:
+The [Copyright](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/open-source-software/guide-for-publishing-open-source-code.html#toc04-5) section of the [Guide for Publishing Open Source Code](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/open-source-software/guide-for-publishing-open-source-code.html) indicates the following:
 
-> As per the [Crown Copyright Request](https://www.canada.ca/en/canadian-heritage/services/crown-copyright-request.html){:target="_blank"} article found on Canada.ca, the following structure should be applied for the Government of Canada Copyright notice.
+> As per the [Crown Copyright Request](https://www.canada.ca/en/canadian-heritage/services/crown-copyright-request.html) article found on Canada.ca, the following structure should be applied for the Government of Canada Copyright notice.
 >
 > _**Copyright (c) Her Majesty the Queen in Right of Canada, as represented by the Minister of (legal departmental name), (year of publication).**_
 >
@@ -164,23 +164,23 @@ This post was getting a bit long but working in the open is something we should 
 As public servants, this is a unique opportunity to change our mindset and get closer to the people we work for.
 
 On the topic of reusability, which probably should be its own post, it's important to realize that various jurisdictions have very similar needs and challenges, yet we work in isolation by default given our varied levels of responsibilities, mandates, and legislations.
-A few examples could be around signing in a government account (or [many](https://www.canada.ca/en/government/sign-in-online-account.html){:target="_blank"}!), creating web forms, displaying web content in an accessible manner, etc.
+A few examples could be around signing in a government account (or [many](https://www.canada.ca/en/government/sign-in-online-account.html)!), creating web forms, displaying web content in an accessible manner, etc.
 
 There are many articles and research exploring this topic so here are a few links if you are interested.
 Needless to say that public administrations in general are ripe for reusing solutions and ideas to increase the quality of their services to citizens!
 Working in the open is essential to enable the discoverability of such reusable solutions!
 
-- [Government 2.0](https://www.oreilly.com/tim/gov2/){:target="_blank"} is a list of essays and interviews from Tim O'Reilly, who is known as the person to coin the term "Government as a platform".
-- [Common Components for #DigitalBC](https://jaimieboyd.medium.com/common-components-for-digitalbc-99e0cc2befb4){:target="_blank"}, a blog from Jaime Boyd, British Columbia's CIO, on re-usable building blocks, used together, or separately.
-- [Re-use existing common components to create your product or service.](https://digital.gov.bc.ca/common-components){:target="_blank"} The British Columbia's Digital Common Components Catalogue
+- [Government 2.0](https://www.oreilly.com/tim/gov2/) is a list of essays and interviews from Tim O'Reilly, who is known as the person to coin the term "Government as a platform".
+- [Common Components for #DigitalBC](https://jaimieboyd.medium.com/common-components-for-digitalbc-99e0cc2befb4), a blog from Jaime Boyd, British Columbia's CIO, on re-usable building blocks, used together, or separately.
+- [Re-use existing common components to create your product or service.](https://digital.gov.bc.ca/common-components) The British Columbia's Digital Common Components Catalogue
 - [Government as a Platform: the foundation for Digital Government and Gov 2.0](https://www.themandarin.com.au/118672-government-as-a-platform-the-foundation-for-digital-government-and-gov-2-0/){:target"_blank"} is an essay from Pia Andrews, presenting her vision of a Digital Government, a Government as a platform.
   She also explores the API model for governments as well as the concepts of reusable components across services.
   Pia is now working us in ESDC to navigate the complexities of modernizing our business delivery to citizens.
-- [A working definition of Government as a Platform](https://medium.com/digitalhks/a-working-definition-of-government-as-a-platform-1fa6ff2f8e8d){:target="_blank"}, is an essay from Richard Pope presenting how governments can become platforms from which citizen services can be designed by reusing components and services.
-- [Lessons from Estonia on digital government](https://policyoptions.irpp.org/fr/magazines/february-2019/lessons-estonia-digital-government/){:target="_blank"} is an essay from David Eaves on how Canada could learn from Estonia's journey by leveraging common building components for digital services, even if we consider the complexity tied to the legacy systems and policies that Canada has to deal with.
-- [Web Experience Toolkit](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/web-experience-toolkit.html){:target="_blank"} is a Government of Canada initiatives that "includes reusable components for building and maintaining innovative websites that are accessible, usable, and interoperable.
+- [A working definition of Government as a Platform](https://medium.com/digitalhks/a-working-definition-of-government-as-a-platform-1fa6ff2f8e8d), is an essay from Richard Pope presenting how governments can become platforms from which citizen services can be designed by reusing components and services.
+- [Lessons from Estonia on digital government](https://policyoptions.irpp.org/fr/magazines/february-2019/lessons-estonia-digital-government/) is an essay from David Eaves on how Canada could learn from Estonia's journey by leveraging common building components for digital services, even if we consider the complexity tied to the legacy systems and policies that Canada has to deal with.
+- [Web Experience Toolkit](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/web-experience-toolkit.html) is a Government of Canada initiatives that "includes reusable components for building and maintaining innovative websites that are accessible, usable, and interoperable.
   These reusable components are open source software and free for use by departments and external Web communities."
   It is a great example of how a team was able to work in the open to benefit the government as a whole but also the society itself.
-- [GC Service & Digital Target Enterprise Architecture](https://wiki.gccollab.ca/index.php?title=GC_Service_%26_Digital_Target_Enterprise_Architecture&mobileaction=toggle_view_desktop){:target="_target"}
+- [GC Service & Digital Target Enterprise Architecture](https://wiki.gccollab.ca/GC_Service_%26_Digital_Target_Enterprise_Architecture)
 - [1988 National Bureau of Standards' Management Guide to
-Software Reuse](https://www.govinfo.gov/content/pkg/GOVPUB-C13-dca04f7b7fc21321e39de88b35b2f1d3/pdf/GOVPUB-C13-dca04f7b7fc21321e39de88b35b2f1d3.pdf) (PDF)
+Software Reuse](https://www.govinfo.gov/content/pkg/GOVPUB-C13-dca04f7b7fc21321e39de88b35b2f1d3/pdf/GOVPUB-C13-dca04f7b7fc21321e39de88b35b2f1d3.pdf) (PDF 2.2 MB)
