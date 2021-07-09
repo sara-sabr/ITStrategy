@@ -4,7 +4,7 @@ title:  "Working in the Open: Part 2"
 ref: working-in-the-open-p2
 lang: en
 author: "Guillaume Charest, in collaboration with the IT Strategy team"
-date: "2021-06-08"
+date: "2021-07-09"
 excerpt_separator: <!--more-->
 ---
 This series of blog posts will explore the concept of "Working in the Open".
@@ -161,7 +161,7 @@ Send us an [email](mailto:"EDSC.DGIIT.StrategieTI-ITStrategy.IITB.ESDC@hrsdc-rhd
 ## Further Readings
 
 This post was getting a bit long but working in the open is something we should all strive to get accustomed with.
-As public servants, this is a unique opportunity to change our mindset and get closer to the people we work for.
+As public servants, this is a unique opportunity to change our mindset and get closer to the people we work for as well as to increase the chances of reusing existing ideas and solutions instead of starting from scratch.
 
 On the topic of reusability, which probably should be its own post, it's important to realize that various jurisdictions have very similar needs and challenges, yet we work in isolation by default given our varied levels of responsibilities, mandates, and legislations.
 A few examples could be around signing in a government account (or [many](https://www.canada.ca/en/government/sign-in-online-account.html)!), creating web forms, displaying web content in an accessible manner, etc.
