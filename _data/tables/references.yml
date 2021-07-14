@@ -2585,7 +2585,7 @@
           data:
             list: false
             fr: <a href="https://www.goodreads.com/en/book/show/1523368.Project_Retrospectives" target="_blank">Project Retrospectives</a>
-            en:
+            en: <a href="https://www.goodreads.com/en/book/show/1523368.Project_Retrospectives" target="_blank">Project Retrospectives</a>
         - col:
           data:
             list: false
@@ -3009,7 +3009,7 @@
           data:
             list: false
             fr: <a href="https://projecttoproduct.org/" target="_blank">Project to Product</a>
-            en:
+            en: <a href="https://projecttoproduct.org/" target="_blank">Project to Product</a>
         - col:
           data:
             list: false
