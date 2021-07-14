@@ -12,8 +12,6 @@ Le matériel de référence présent sur cette page est utilisé par l'équipe d
 
 Ces références ont comme objectif de servir d'inspiration, de guide ou sont même des politiques qui doivent être considérées lors de la création de nos stratégies.
 
-Certain du contenu pourrait être disponible uniquement sur le réseau du GC/EDSC, alors nous nous excusons si des liens ne fonctionnent pas à l'externe.
-
 N'hésitez pas à nous envoyer des propositions de livres, articles, vidéos ou même des politiques!
 
 ## {{ tables[0].name[page.lang] }}
