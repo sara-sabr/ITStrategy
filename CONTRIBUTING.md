@@ -156,8 +156,16 @@ You can run the website locally to see the output of the changes you made to you
 
 ### With Docker
 
+Linux/MacOS
+
 ```bash
 docker run -p 4000:4000 -v $(pwd):/srv/jekyll -it --rm jekyll/jekyll jekyll serve
+```
+
+Windows
+
+```powershell
+docker run -p 4000:4000 -v ${pwd}:/srv/jekyll -it --rm jekyll/jekyll jekyll serve
 ```
 
 ### With Ruby
