@@ -156,9 +156,22 @@ You can run the website locally to see the output of the changes you made to you
 
 ### With Docker
 
+Linux/MacOS
+
 ```bash
 docker run -p 4000:4000 -v $(pwd):/srv/jekyll -it --rm jekyll/jekyll jekyll serve
 ```
+
+Windows
+
+```powershell
+docker run -p 4000:4000 -v ${pwd}:/srv/jekyll -it --rm jekyll/jekyll jekyll serve
+```
+
+Known issues:
+
+- It is possible for some that the Jekyll Docker image cause problem with relative links.
+  If that's the case, try changing `jekyll/jekyll` with `jekyll/jekyll:3` to force the use of Jekyll version 3.
 
 ### With Ruby
 
