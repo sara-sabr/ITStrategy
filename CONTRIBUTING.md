@@ -168,6 +168,11 @@ Windows
 docker run -p 4000:4000 -v ${pwd}:/srv/jekyll -it --rm jekyll/jekyll jekyll serve
 ```
 
+Known issues:
+
+- It is possible for some that the Jekyll Docker image cause problem with relative links.
+  If that's the case, try changing `jekyll/jekyll` with `jekyll/jekyll:3` to force the use of Jekyll version 3.
+
 ### With Ruby
 
 #### Initial installation
