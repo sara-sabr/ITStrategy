@@ -7,6 +7,10 @@ status: In Progress;primary
 sections: Pilots
 permalink: /micro-acquisition-pilot.html
 ---
+<!-- markdownlint-disable MD033 -->
+<div class="alert alert-success">
+   <p>The Micro-Acquisition pilot is now live! The pilot will run until the end of June 2022. Visit the <a href="https://micro-acquisition.alpha.canada.ca/en/index.html">Micro-Acquisition website</a> to see opportunities, the user guide and frequently asked questions.</p>
+</div>
 
 ## Problem Statement  
 

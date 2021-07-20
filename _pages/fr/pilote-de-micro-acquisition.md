@@ -7,6 +7,10 @@ status: Travaux en cours;primary
 sections: Pilotes
 permalink: /pilote-de-micro-acquisition.html
 ---
+<!-- markdownlint-disable MD033 -->
+<div class="alert alert-success">
+   <p>Le pilote de micro-acquisition est désormais en ligne! Le pilote se déroulera jusqu'à la fin du mois de juin 2022. Visitez <a href="https://micro-acquisition.alpha.canada.ca/fr/index.html">le site web de Micro-Acquisition</a> pour voir les opportunités, le guide d'utilisation et la foire aux questions.</p>
+</div>
 
 ## Énoncé du problème  
 
