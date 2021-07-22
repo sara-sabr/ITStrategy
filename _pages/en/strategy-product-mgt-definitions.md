@@ -4,6 +4,7 @@ title: "Product - Inventory of Definitions"
 ref: product-inventory-definitions
 lang: en
 sections: Supporting Documents
+datatable-ids: t001
 version: 0.01
 date: "2021-07-22"
 permalink: /strategy-product-mgt-definitions.html
