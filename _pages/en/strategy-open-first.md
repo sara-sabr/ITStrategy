@@ -302,7 +302,7 @@ and around the worlds' leading nations (e.g.
 [UK](https://www.gov.uk/government/publications/open-standards-principles/open-standards-principles),
 [France](https://sill.etalab.gouv.fr/fr/software),
 [Italy](https://docs.italia.it/italia/developers-italia/gl-acquisition-and-reuse-software-for-pa-docs/en/stabile/index.html),
-[USA](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2016/m_16_21.pdf), ..)
+[USA](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2016/m_16_21.pdf), etc.)
 have adopted policies, directives or guidance on open standards and OSS.
 
 This strategy, its governing principles and its action plan will help us build and deliver IT solutions and services, that leverage the innovative and collaborative power of open standards, OSS and working in the open.
@@ -315,7 +315,7 @@ This section sets out the key reasons and principles underlying the new strategy
 
 ### Progress towards digital autonomy
 
-Change is constant at ESDC, and as a result, the acquisition and development of IT solutions must consider the flexibility needed to keep pace with legislative changes as well as emerging technologies to offer services that are alike commercial services (e.g. banks, social media, ..) internally and to citizens.
+Change is constant at ESDC, and as a result, the acquisition and development of IT solutions must consider the flexibility needed to keep pace with legislative changes as well as emerging technologies to offer services that are alike commercial services (e.g. banks, social media, etc.) internally and to citizens.
 
 This is reflected within the Prime Minister's mandate letter to the Minister of Digital Government where an emphasis on the use of open standards and OSS is made:
 
@@ -457,7 +457,7 @@ Ideally, this transformation will go beyond IT, so that we apply open methods wh
 
 Open standards and OSS offer practical tools and methods for teams to work together and co-create solutions, to share their expertise freely to obtain better results and have their solutions in actual use earlier.
 In these teams, developers look at software code written by colleagues and try to insert new components.
-They combine parts, borrow tools and recipes, and build an extended a collection of solutions to run digital government solutions.
+They combine parts, borrow tools and recipes, and build an extended collection of solutions to run digital government solutions.
 
 Inner source (the creation of working cultures based on open principles and share code within the organization) will be promoted, to bring teams closer to working in the open and encourage sharing and reuse within the organisation.
 This is a step towards opening up more projects as open source code and sharing them with the outside world.
