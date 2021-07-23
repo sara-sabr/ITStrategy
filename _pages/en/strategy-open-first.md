@@ -217,7 +217,7 @@ The [Directive on Open Government](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id
 #### Directive on Automated Decision-Making
 
 The objective of the [Directive on Automated Decision-Making](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32592) is to ensure that automated decision systems are deployed in a manner that reduces risks to Canadians and federal institutions.
-It is also intented to lead to more efficient, accurate, consistent, and interpretable decisions made pursuant to Canadian law.
+It is also intended to lead to more efficient, accurate, consistent, and interpretable decisions made pursuant to Canadian law.
 
 - Releasing the final results of Algorithmic Impact Assessments in an accessible format via GC websites and any other services designated by TBS pursuant to the Directive on Open Government.
 
