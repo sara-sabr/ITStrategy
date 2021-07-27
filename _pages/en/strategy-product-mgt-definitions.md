@@ -14,17 +14,17 @@ permalink: /strategy-product-mgt-definitions.html
 <!-- cSpell:ignoreRegExp /\<[^\>]+\>/ -->
 
 <!-- markdownlint-disable MD001 -->
-##### Table of Content <!-- omit in toc -->
+##### Table of Contents <!-- omit in toc -->
 <!-- markdownlint-enable MD001 -->
 
-- [ESDC Definition of Product](#esdc-definition-of-product)
-- [Inventory of known definitions](#inventory-of-known-definitions)
+- [ESDC Definition of "Product"](#esdc-definition-of-product)
+- [Inventory of known definitions of "Product"](#inventory-of-known-definitions-of-product)
 
 This document seeks to clarify what will be the definition of “Product” for ESDC.
 
 A clear definition, accepted by both “IT” and “The Business”, is necessary to set the right expectations, reduce confusion, and ensure alignment of efforts.
 
-## ESDC Definition of Product
+## ESDC Definition of "Product"
 
 3 reasons why there needs to be an IT “hook” in the definition:
 
@@ -36,13 +36,13 @@ The IT Strategy’s Product Management Strategy proposal considers the above thr
 
 May consider using a different term like “Digital Product”...
 
-| \# | Definition |
+| \# | Definition of "product" |
 | --------- | -------------------------------------------------------------------------- |
 | 1 | A solution that is developed to improve a business capability (internal product) or improve a user experience (external product).<br><br>A product enables one or more services.|
 | 2 |  |
 | 3 |  |
 
-## Inventory of known definitions
+## Inventory of known definitions of "Product"
 
 The below is an inventory of definitions from the industry and from Government sources.
 

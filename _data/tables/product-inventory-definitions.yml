@@ -15,8 +15,8 @@
     - col:
       data:
         list: false
-        fr: Définition
-        en: Definition
+        fr: Définition de "produit"
+        en: Definition of "product"
   - row:
     headers: false
     cols:
