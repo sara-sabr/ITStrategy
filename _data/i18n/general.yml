@@ -93,6 +93,9 @@ about:
   photoOf:
     en: Photo of
     fr: Photo de
+  title:
+    en: Title
+    fr: Titre
 
 notices:
   notice:
