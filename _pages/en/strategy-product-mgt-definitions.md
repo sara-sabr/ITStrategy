@@ -38,9 +38,8 @@ May consider using a different term like “Digital Product”...
 
 | \# | Definition |
 | --------- | -------------------------------------------------------------------------- |
-| 1 | A solution that is developed to improve a business capability (internal product) or improve a user experience (external product).<br><br>A product enables one or more services.|
-| 2 |  |
-| 3 |  |
+| 1 | (departmental level, mapped to the [PAA](https://www.canada.ca/en/employment-social-development/corporate/reports/departmental-plan/2018/supplementary-information.html#h2.2))<br>An offering, tangible or intangible, delivered to a Canadian as part of a departmental Program’s mandate<br><br>E.g. a licence, a benefit, a passport, a digital ID, a Grant, a Job Offering
+| 2 | (IT organization level)<br>A software or hardware solution that is developed to improve a business capability (internal product) or improve a user experience (external product).<br><br>A product enables one or more services.<br>(tailored from TBS definition, to make it more meaningful to ESDC)
 
 ## Inventory of known definitions
 
