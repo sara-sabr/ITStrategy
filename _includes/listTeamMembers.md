@@ -5,7 +5,7 @@
   <img src="{{member.picture_path}}" alt="{{ site.data.i18n.general.about.photoOf[page.lang] }} {{member.name}}">
   <h3>{{member.name}}</h3>
   {% if member.title %}
-    <h4>{{member.title}}</h4>
+    <h4>{{ member.title[page.lang] }}</h4>
   {% endif %}
   <div class = "team-content">
     <div>
@@ -21,7 +21,7 @@
       {% endif %}
     </div>
     {%- if member.interests -%}
-      <p>{{ site.data.i18n.general.about.interests[page.lang] }}: {{ member.interests }}</p>
+      <p>{{ site.data.i18n.general.about.interests[page.lang] }}: {{ member.interests[page.lang] }}</p>
     {%- endif -%}
   </div>
 </article>

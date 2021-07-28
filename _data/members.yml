@@ -1,74 +1,81 @@
 - name: Elmina Iusifova
-  title: Programmer Analyst
-  titre: Analyste programmeuse
+  title: 
+    en: Programmer Analyst
+    fr: Analyste programmeuse
   email: elmina.iusifova@hrsdc-rhdcc.gc.ca
-  couriel: elmina.iusifova@rhdcc-hrsdc.gc.ca
   twitter: Elmina65935561
   github: ElminaIusifova
   linkedin: elminaiusifova
-  interests: User Experience Design, User Interface Design, Communication, Front-end Development
-  interets: Conception de l’expérience utilisateur, Design d'interface, Communication, Développement d'applications client
+  interests: 
+    en: User Experience Design, User Interface Design, Communication, Front-end Development
+    fr: Conception de l’expérience utilisateur, Design d'interface, Communication, Développement d'applications client
   picture_path: assets/images/profile-elmina.jpg
 - name: Gabriel Cossette
-  title: Senior Advisor
-  titre: Conseiller principal
+  title: 
+    en: Senior Advisor
+    fr: Conseiller principal
   email: gabriel.cossette@hrsdc-rhdcc.gc.ca
-  couriel: gabriel.cossette@rhdcc-hrsdc.gc.ca
   twitter: gabrielcossette
   github: gabrielcossette
   linkedin: gabrielcossette
-  interests: Open Source Software, Ethical Computing, Architecture, Web, Community
-  interets: Logiciel libre, Informatique éthique, Architecture, Web, Communauté
+  interests: 
+    en: Open Source Software, Ethical Computing, Architecture, Web, Community
+    fr: Logiciel libre, Informatique éthique, Architecture, Web, Communauté
   picture_path: assets/images/profile-gabriel.png
 - name: Guillaume Charest
-  title: Senior Advisor
-  titre: Conseiller principal
+  title: 
+    en: Senior Advisor
+    fr: Conseiller principal
   email: guillaume.charest@hrsdc-rhdcc.gc.ca
-  couriel: guillaume.charest@rhdcc-hrsdc.gc.ca
   twitter: guillcharest
   github: gcharest
   linkedin: guillaumecharest
-  interests: Open Source Software, Accessibility, Inclusion, Community
-  interets: Logiciels libres, Accessibilité, Inclusion, Communauté
+  interests: 
+    en: Open Source Software, Accessibility, Inclusion, Community
+    fr: Logiciels libres, Accessibilité, Inclusion, Communauté
   picture_path: assets/images/profile-guillaume.png
 - name: Rachel Muston
-  title: Advisor
-  titre: Conseiller
+  title: 
+    en: Advisor
+    fr: Conseiller
   email: rachel.muston@hrsdc-rhdcc.gc.ca
-  couriel: rachel.muston@rhdcc-hrsdc.gc.ca
   twitter: rachelmuston
   github: rachelmuston
   linkedin: rachel-muston-a1b52829
-  interests: Social procurement, Working in the open, Accessibility
-  interets: Approvisionnement social, Travailler ouvertement, Accessibilité
+  interests: 
+    en: Social procurement, Working in the open, Accessibility
+    fr: Approvisionnement social, Travailler ouvertement, Accessibilité
   picture_path: assets/images/profile-rachel3.png
 - name: Rémy Bernard
-  title: Senior Advisor
-  titre: Conseiller principal
+  title: 
+    en: Senior Advisor
+    fr: Conseiller principal
   email: remy.bernard@hrsdc-rhdcc.gc.ca
-  couriel: remy.bernard@rhdcc-hrsdc.gc.ca
   twitter: remyb2
   github: remyb2canada
   linkedin: remybernard
-  interests: Architecture, Governance, Psychology, Ethical Computing, Community
-  interets: Architecture, gouvernance, psychologie, éthique informatique, communauté
+  interests: 
+    en: Architecture, Governance, Psychology, Ethical Computing, Community
+    fr: Architecture, gouvernance, psychologie, éthique informatique, communauté
   picture_path: assets/images/profile-remy.jpg
 - name: Sébastien Lemay
-  title: Technical Advisor
-  titre: Conseiller technique
+  title: 
+    en: Technical Advisor
+    fr: Conseiller technique
   email: sebastien.lemay@hrsdc-rhdcc.gc.ca
-  couriel: sebastien.lemay@rhdcc-hrsdc.gc.ca
   twitter: smellems
   github: smellems
-  interests: Free (open source) software, DevOps, enterprise architecture
-  interets: Logiciels libres, DevOps, architecture d'entreprise
+  interests: 
+    en: Free (open source) software, DevOps, enterprise architecture
+    fr: Logiciels libres, DevOps, architecture d'entreprise
   picture_path: assets/images/profile-sebastien.jpg
 - name: Philipe Girard
-  title: Manager
-  titre: Gestionnaire
+  title: 
+    en: Manager
+    fr: Gestionnaire
   email: philipe.girard@hrsdc-rhdcc.gc.ca
-  couriel: philipe.girard@rhdcc-hrsdc.gc.ca
   github: philipe-girard
-  interests: Sports, reading, family
-  interets: Sports, lecture, famille
+  interests: 
+    en: Sports, reading, family
+    fr: Sports, lecture, famille
   picture_path: assets/images/profile-phil.jpg
