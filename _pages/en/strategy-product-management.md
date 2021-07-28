@@ -16,17 +16,31 @@ permalink: /strategy-product-management.html
 
 ***This is a DRAFT strategy.***
 
-_Note 1: This page will link to internal ESDC and Government of Canada (GC) Network documents, which are unfortunately only accessible within ESDC or GC corporate network._
+_Note: This page will link to internal ESDC and Government of Canada (GC) Network documents, which are unfortunately only accessible within ESDC or GC corporate network._
 
 <!-- markdownlint-disable MD001 -->
 ##### Table of Content <!-- omit in toc -->
 <!-- markdownlint-enable MD001 -->
+- [Introduction](#introduction)
+  - [Purpose](#purpose)
+  - [Expected Benefits](#expected-benefits)
+  - [Scope and Target Audience](#scope-and-target-audience)
+- [Definition of Product](#definition-of-product)
+- [Why We Need This](#why-we-need-this)
+- [Conceptual Product Management Framework](#conceptual-product-management-framework)
+- [Phase 1 - Defining the Framework](#phase-1---defining-the-framework)
+- [Appendix A - Product Architectural Boundaries](#appendix-a---product-architectural-boundaries)
+- [Appendix B - List of Phase 1 Stakeholder](#appendix-b---list-of-phase-1-stakeholder)
+- [Appendix C - Change Log](#appendix-c---change-log)
+- [Notes](#notes)
 
 ## Introduction
 
 ### Purpose
 
 To provide the ESDC with a new type of investment: ***Products***[^1].
+
+This to raise awareness and provide incentives to ESDC Programs that they need to seek sufficient funding for their digital operations (rooted in the [Policy on Results](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=31300))
 
 Phase 1 of the strategy is a 1.5 year Branch Initiative, salary based, to produce an MVP Framework[^2] and evaluate it against 2 product candidates.
 
@@ -46,47 +60,138 @@ Once realized, we expect the following benefits to ESDC:
 The scope of this strategy remains within the authorities of the department
 (e.g. we are not seeking to change Treasury Board (TB) procedures or laws).
 
-The main Target Audience are the Chief Financial (CFO)[^3] and the Chief Information Officer (CIO)[^4] as the strategy seeks to make modifications in their respective domains.
-In addition, we are seeking contributions to teams involved in transformational change management.
+The main Target Audience for Phase 1 are the Chief Financial (CFO)[^3] and the Chief Information Officer (CIO)[^4] as the strategy seeks to make modifications in their respective domains.
+In addition, we are seeking contributions to teams involved in transformational change management for the greater awareness campaign.
 
-A complete list of the stakeholders are listed in Appendix X.
+A complete list of the stakeholders are listed in [Appendix B](#appendix-b---list-of-phase-1-stakeholder).
 
-### Disclaimer
+## Definition of Product
 
-![A warning sign](assets/images/warning.png){:style="float: left;vertical-align:middle;margin-left:auto;margin-right:auto;width:10%;"}
+We need to use two different levels for a product definition[^5]:
 
-We are ***NOT*** defining what product management is.
+***Departmental Level***: An offering, tangible or intangible, delivered to a Canadian as part of ESDC’s Program mandate.
 
-This has already been done[^5].
+(e.g. a licence, a benefit, a passport, a digital ID, a Grant, a Job Offering)
 
-We are defining ***what needs to change*** to implement it in a government department.
+_Note 1:_ Departmental products aligned to their [Program Alignement Architecture](https://www.canada.ca/en/employment-social-development/corporate/reports/departmental-plan/2018/supplementary-information.html#h2.2) and measured by their [departmental results framework](https://www.tbs-sct.gc.ca/ems-sgd/edb-bdd/index-eng.html#orgs/dept/128/infograph/results).
 
-## Our Definition of "Product"?
+***CIO Level***: A software or hardware solution that is developed to improve a business capability (internal product) or improve a user experience (external product).
 
-***A Software Solution***
+(e.g. Job Bank, MySCA, Payment Management System)
 
-(That is, one or more Applications as defined by the [Application Portfolio Management (APM) Program](https://www.gcpedia.gc.ca/wiki/OCIO_Application_Portfolio_Management))
+_Note 1:_ A software solution is one or more Applications as defined by the [Application Portfolio Management (APM) Program](https://www.gcpedia.gc.ca/wiki/OCIO_Application_Portfolio_Management)).
 
-A product has clear *Architectural Boundaries* (See Appendix X - Product's architectural boundaries).
-A product enables one or more service(s).
-
-We know this is an imperfect definition.
-Here is an inventory of 38 known definitions (from industry and government) to further the debate.
-For now, please let's start here.
-
-There are three reasons why we chose the above definition:
-
-1. Digital is not about technology. But *doing* Digital requires understanding technology. A definition cannot be so broad that it becomes meaningless to IT[^6],
-2. The [Policy on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603) sets requirements for the [departmental integrated planning](https://gcconnex.gc.ca/discussion/view/72865810/dpsd-guide-1-0-for-integrated-planning-guide-pmsn-1-0-pour-le-plan-integre?language=en) to identify which application in the APM portfolio is being invested in, and
-3. Software has a unique characteristic: its elasticity. This is what Cloud technology gives us and so warrants us to adjusting our planning methods to leverage it.[^7]
+_Note 2:_ A software solution has clear [Architectural Boundaries](#appendix-a---product-architectural-boundaries).
 
 ## Why We Need This
+
+To meet [Policy on Results](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=31300) expectations, ESDC Programs require a Digital Infrastructure.
+This because Canadian expectation have changed, as codified in the new [Policy on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603).
+
+Today, "Digital" is still considered an internal service in a departemental Program Alignment Architecture.
+This gap affects programs' ability to deliver and does not promote the needed _shared accountability_ between Program owners, the CIO, and the CFO.
+
+<div style="display: block; width: inherit; text-align: center; line-height: 3;">
+    <a href="/ITStrategy/assets/images/paa-products-value-stream.png" style="display: block">
+        <img src = "{{ site.baseurl }}/assets/images/paa-products-value-stream.png"
+        alt = "alt text here"
+        />
+    </a>
+    <small>Figure 1. Departmental products are tied to their PAA. And the CIO-level products are used in their value streams.</small>
+</div>
+
+A departmental product's value stream expects to leverage a Digital Infrastructure, either for its internal staff or as a delivery method to Canadians.
+This Digital Infrastructure is no longer just a back-office, but the **face of government for Canadians**.
+
+There are a few problems with our current mode of operations:
+
+1. Program renewals do not include sufficient attention to the digital infrastructure it now needs to operate. Digital is not just an internal service offering. It's a _["reset of policy, delivery, and evaluation"](https://honeygolightly.medium.com/asking-the-ultimate-awkward-question-a26bbb34ec61)_.
+2. Programs demand for digital infrastructure keeps increasing while CIOs and CFOs keep needing to prioritize their limitted A-Base resources, affecting Business and IT synergies.
+3. This prioritization of limitted resources is heavily dependent on timely funding allocation from programs to sustain the digital products it offers. Our current funding model does not allow rapid release of funds and the methods used to manage them ([projects and programmes](https://www.pmi.org/learning/library/understanding-difference-programs-versus-projects-6896?__cf_chl_captcha_tk__=c1224dbd65e78643d0456484bd199d5a79d2fd17-1624902677-0-AaoN7yeCB_TMnxYLJPT1WdqhcPQHnA558DylEslgDF0QMgV8yrXMgxjkk4oi8L_jmtnaKvoLR-y0yhsAGsYcH8jybaxrKQ2u58x25fLy9Hd2ROZkNTtPyWENTJej55zeEsQezu1xv5pNDHX4sT_Om79UHlcU2fnbtT7UOz0cYyjqmm4JvY3be4TzHLSQJgg_-tKadLJMsmdNN0XCTOEOQ2iPk9-Jc4YBYUjJIHc29HmzWvsndV9jCv5Jsb4Fv_kJGsSCKjJEm04KVrIZH0yIKd6jSFyujKNr_st0mgTT-GuEDIA89Dw_e6lXXdjTEXpFhy7hYtmR8QWdGf5wH58lXy55UBJp3TMDqyAKxqiYGDU8o0mC2nP4BFrj1aw_jqKs_CqDaiOr7xJvHPjwRinZkt7HgvhRGHENKRXA-89kHHrqF85z6PyUWTiW45n1Sw7c01vQj8ynGmklzh3EIBzb9v03aUyekIHTsEUJRYrPjqRaJf0J3p_Cw-rvsD9OskoTl4gUTiimGrFkLXqNNsFW4SalNEYD34ulJRPpK0lw0WnrcoiPoJmfsUEeqNskUTiRsYU_ci1G9-e_wxgGnj7aAFrb9aIZmb_4NlCCobz0AQelgQMLNVDyKVqVtarvhcMONnKxtAtRr85d92lt41DMDxgnY3ehmj7-6eqbNby-fXXivXlps-doXKwszyD-baMgiws7TSVZiwHLvM6yLI6BJCVolbUVsS59r0MdXzHiBz-I3lw9rnhsLvWSv6JB4-ksBUOI3qWtdsNe5rPR99LMWs8)) [promotes risky behaviours](/2019/12/20/why-we-are-promoting-risks.html).
+
+The [Policy on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603) requires _ALL ESDC SERVICES_ to continuously be improved.
+
+Digital converges multiple domains together: Policy, User Experience (UX), Delivery, and Technology.
+The traditional investment methods to formalize this engagement are with Projects and Programmes.
+We seek to add a new method: Products.
+
+<table>
+<tr>
+  <th>Method</th>
+  <th>What it's about</th>
+  <th>What it does</th>
+</tr>
+<tr>
+  <td>Project</td>
+  <td>
+    <ul>
+      <li>Temporary set of activities</li>
+      <li>Plan based</li>
+      <li><strong>Done = solution delivered</strong></li>
+    </ul>
+  </td>
+  <td>
+    <ul>
+      <li>No incentive to strategically plan</li>
+      <li>Motivates over embellishment</li>
+      <li>Insufficient context for decision making</li>
+</li>
+    </ul>
+  </td>
+</tr>
+<tr>
+  <td>Programme</td>
+  <td>
+    <ul>
+      <li>Wide ranging strategic activities</li>
+      <li>Series of projects</li>
+      <li><strong>Done = benefits realized</li>
+    </ul>  
+  </td>
+  <td>
+    <ul>
+      <li>Transformational in nature</li>
+      <li>Long time horizon</li>
+      <li>Focuses on strategic delivery of value</li>
+    </ul>
+  </td>
+</tr>
+<tr>
+  <td>Product</td>
+  <td>
+    <ul>
+      <li>Periodic set of activities</li>
+      <li>Roadmap based</li>
+      <li><strong>Done = users say so</strong> (Note 1)</li>
+    </ul>
+  </td>
+  <td>
+    <ul>
+      <li>Seeks to maintain the <strong>same individuals</strong> (Note 2)</li>
+      <li>Grants the team(s) <strong>blanket approval</strong> of priority and funding in a time horizon (Note 3)</li>
+      <li>Provides <strong>ongoing value</strong> to end-users (Note 4)</li>  
+    </ul>
+  </td>
+</tr>
+
+This new Product investment type is to give _sufficient incentive_ to Programs in incorporating digital as part of their periodic funding envelop review.
+The incentive offers more autonomy to operate as long as a Product Team can provide sufficient assurances to Governance  (See XXXXX).
+
+_Note 1:_ Programmes are typically used when there's a [level of ambiguity to manage](https://www.pmi.org/learning/library/understanding-difference-programs-versus-projects-6896?__cf_chl_captcha_tk__=c1224dbd65e78643d0456484bd199d5a79d2fd17-1624902677-0-AaoN7yeCB_TMnxYLJPT1WdqhcPQHnA558DylEslgDF0QMgV8yrXMgxjkk4oi8L_jmtnaKvoLR-y0yhsAGsYcH8jybaxrKQ2u58x25fLy9Hd2ROZkNTtPyWENTJej55zeEsQezu1xv5pNDHX4sT_Om79UHlcU2fnbtT7UOz0cYyjqmm4JvY3be4TzHLSQJgg_-tKadLJMsmdNN0XCTOEOQ2iPk9-Jc4YBYUjJIHc29HmzWvsndV9jCv5Jsb4Fv_kJGsSCKjJEm04KVrIZH0yIKd6jSFyujKNr_st0mgTT-GuEDIA89Dw_e6lXXdjTEXpFhy7hYtmR8QWdGf5wH58lXy55UBJp3TMDqyAKxqiYGDU8o0mC2nP4BFrj1aw_jqKs_CqDaiOr7xJvHPjwRinZkt7HgvhRGHENKRXA-89kHHrqF85z6PyUWTiW45n1Sw7c01vQj8ynGmklzh3EIBzb9v03aUyekIHTsEUJRYrPjqRaJf0J3p_Cw-rvsD9OskoTl4gUTiimGrFkLXqNNsFW4SalNEYD34ulJRPpK0lw0WnrcoiPoJmfsUEeqNskUTiRsYU_ci1G9-e_wxgGnj7aAFrb9aIZmb_4NlCCobz0AQelgQMLNVDyKVqVtarvhcMONnKxtAtRr85d92lt41DMDxgnY3ehmj7-6eqbNby-fXXivXlps-doXKwszyD-baMgiws7TSVZiwHLvM6yLI6BJCVolbUVsS59r0MdXzHiBz-I3lw9rnhsLvWSv6JB4-ksBUOI3qWtdsNe5rPR99LMWs8). However, the lag in establishing a programme inhibits the rapid cadence that continuous improvement of a product seeks, especially on the User Experience side. When a product is used, data is generated which can be analyzed to inform continuous improvement exercise. User Feedback is obtained and actioned. The improvement are often small enough that the effort to go through establishing a programme do not warrant it.
+
+_Note 2:_ Projectizing establishes a project team which is dispanded at the end of the project. The team members that obtained valuable corporate and product information move on to other activities. Even moving between Proofs of  Concepts, then Pilots, then Projects do not guarantee the same team members working on problems. This affects empathy to the end-users, productivity, happiness, and ultimately pace of delivery. It is what psychologist Bruce Tuckman coined the [forming, storming, norming, and performing lifecycle](https://www.mindtools.com/pages/article/newLDR_86.htm). The product-type investment method focuses on the people being part of the value stream and seeks to maintain their cohesiveness.
+
+_Note 3:_ The departments accepts to prioritize a product over a multi-year horizon by granting funding over more than one year. Teams do not have to go through committee year over year to re-seek prioritization and funding. There is an exit path for ESDC to still re-allocate funding elsewhere should priorities change without loosing its investment.
+
+_Note 4:_ The Product investment type expects rapid cadence of delivery to end-users. Planning stages do not last more than a few weeks so that changes in business operations (e.g. software release) are typically provided at least once per quarter.
+
+
 
 ## Conceptual Product Management Framework
 
 ## Phase 1 - Defining the Framework
 
-## Appendix A - Product's Architectural Boundaries
+## Appendix A - Product Architectural Boundaries
 
 - ***Business Alignment***, to the [Business Capability Model](https://dialogue/grp/EA-AE/SitePages/DBCM.aspx).
 - ***Information Profile***, defined by the following attributes:
@@ -96,7 +201,9 @@ There are three reasons why we chose the above definition:
 - ***Technology Standards***, defined by the following attributes:
   - Unacceptable technical stacks ([in containment or retirement](https://dialogue/grp/CO7397744/Lists/Standards%20Catalogue/AllItems.aspx))
 
-## Appendix - Change Log
+## Appendix B - List of Phase 1 Stakeholder
+
+## Appendix C - Change Log
 
 ## Notes
 
@@ -104,6 +211,4 @@ There are three reasons why we chose the above definition:
 [^2]: Framework = a directive, a set of standards (e.g. reporting), and a set of procedures (e.g. manoeuvring governance)
 [^3]: The main areas of the CFO's domain expertise are Enterprise Project Management, Financial Management, and Investment Performance Management.
 [^4]: The main areas of the CIO's domain expertise are Project Managament Office, Release Management (and ITSM), IT Security, and Enterprise Architecture.
-[^5]: See [PDMA's Body of Knowledge](https://www.pdma.org/page/npdp-bok-second-edition), [PMI.org](https://www.pmi.org/disciplined-agile/process/product-management), [Info-Tech Research Group](https://www.infotech.com/research/ss/transition-from-project-to-product-delivery), [Gartner](https://www.gartner.com/document/3811763), and [ESDC's Digital Experience and Client Data team](https://014gc.sharepoint.com/sites/DECD/SitePages/Delivery-Manual.aspx)
-[^6]: In this context, we are not talking about a pharmaceutical drug, a vaccine, a vessel, or a policy document. We are talking about software.
-[^7]: Concrete when poored is solid, it cannot be changed. A single 2x4 lumber when cut becomes two 2x4 lumbers. But software can be changed, adapted, and modified with minimal marginal cost (if [well architected](https://cloud.google.com/architecture/devops/devops-tech-architecture)).
+[^5]: See [this inventory]({{ site.baseurl }}/ITStrategy/ddd.html) of 38 known definitions from industry and government.
