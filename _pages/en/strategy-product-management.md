@@ -28,7 +28,10 @@ _Note: This page will link to internal ESDC and Government of Canada (GC) Networ
 - [Definition of Product](#definition-of-product)
 - [Why We Need This](#why-we-need-this)
 - [Conceptual Product Management Framework](#conceptual-product-management-framework)
-- [Phase 1 - Defining the Framework](#phase-1---defining-the-framework)
+  - [Seeking Product Status](#seeking-product-status)
+  - [Product Roadmap as the Investment Plan](#product-roadmap-as-the-investment-plan)
+  - [Key Metrics to Provide Assurances](#key-metrics-to-provide-assurances)
+- [Phase 1 - Defining and Evaluating the Framework](#phase-1---defining-and-evaluating-the-framework)
 - [Appendix A - Product Architectural Boundaries](#appendix-a---product-architectural-boundaries)
 - [Appendix B - List of Phase 1 Stakeholder](#appendix-b---list-of-phase-1-stakeholder)
 - [Appendix C - Change Log](#appendix-c---change-log)
@@ -173,9 +176,10 @@ We seek to add a new method: Products.
     </ul>
   </td>
 </tr>
+</table>
 
 This new Product investment type is to give _sufficient incentive_ to Programs in incorporating digital as part of their periodic funding envelop review.
-The incentive offers more autonomy to operate as long as a Product Team can provide sufficient assurances to Governance  (See XXXXX).
+The incentive offers more autonomy to operate as long as a Product Team can provide sufficient assurances to Governance (See XXXXX).
 
 _Note 1:_ Programmes are typically used when there's a [level of ambiguity to manage](https://www.pmi.org/learning/library/understanding-difference-programs-versus-projects-6896?__cf_chl_captcha_tk__=c1224dbd65e78643d0456484bd199d5a79d2fd17-1624902677-0-AaoN7yeCB_TMnxYLJPT1WdqhcPQHnA558DylEslgDF0QMgV8yrXMgxjkk4oi8L_jmtnaKvoLR-y0yhsAGsYcH8jybaxrKQ2u58x25fLy9Hd2ROZkNTtPyWENTJej55zeEsQezu1xv5pNDHX4sT_Om79UHlcU2fnbtT7UOz0cYyjqmm4JvY3be4TzHLSQJgg_-tKadLJMsmdNN0XCTOEOQ2iPk9-Jc4YBYUjJIHc29HmzWvsndV9jCv5Jsb4Fv_kJGsSCKjJEm04KVrIZH0yIKd6jSFyujKNr_st0mgTT-GuEDIA89Dw_e6lXXdjTEXpFhy7hYtmR8QWdGf5wH58lXy55UBJp3TMDqyAKxqiYGDU8o0mC2nP4BFrj1aw_jqKs_CqDaiOr7xJvHPjwRinZkt7HgvhRGHENKRXA-89kHHrqF85z6PyUWTiW45n1Sw7c01vQj8ynGmklzh3EIBzb9v03aUyekIHTsEUJRYrPjqRaJf0J3p_Cw-rvsD9OskoTl4gUTiimGrFkLXqNNsFW4SalNEYD34ulJRPpK0lw0WnrcoiPoJmfsUEeqNskUTiRsYU_ci1G9-e_wxgGnj7aAFrb9aIZmb_4NlCCobz0AQelgQMLNVDyKVqVtarvhcMONnKxtAtRr85d92lt41DMDxgnY3ehmj7-6eqbNby-fXXivXlps-doXKwszyD-baMgiws7TSVZiwHLvM6yLI6BJCVolbUVsS59r0MdXzHiBz-I3lw9rnhsLvWSv6JB4-ksBUOI3qWtdsNe5rPR99LMWs8). However, the lag in establishing a programme inhibits the rapid cadence that continuous improvement of a product seeks, especially on the User Experience side. When a product is used, data is generated which can be analyzed to inform continuous improvement exercise. User Feedback is obtained and actioned. The improvement are often small enough that the effort to go through establishing a programme do not warrant it.
 
@@ -185,11 +189,33 @@ _Note 3:_ The departments accepts to prioritize a product over a multi-year hori
 
 _Note 4:_ The Product investment type expects rapid cadence of delivery to end-users. Planning stages do not last more than a few weeks so that changes in business operations (e.g. software release) are typically provided at least once per quarter.
 
-
-
 ## Conceptual Product Management Framework
 
-## Phase 1 - Defining the Framework
+### Seeking Product Status
+
+A Program area (a Line of Business represented by an Associate Deputy Minister (ADM)) may request product status to the CFO and CIO.
+Having "product status" means obtaining blanket approval and funding over a time horizon for the particular product.
+A product managed as such do not need to obtain yearly funding and priority approval.
+
+1. A Line of Business (LOB) ADM presents a Business Case (the [Product's Roadmap](#product-roadmap-as-the-investment-plan)). This Business Case is _NOT_ your typical Business Case used to fund a project.
+2. The LOB ADM, CIO, and CFO get into a Memorandum Of Unserstanding (MOU) by identifying:
+   - source(s) of funds
+   - level of autonomy (See appendix XXX)
+   - expected budget
+   - the Product's Architectural Boundaries (see appendix YYY)
+   - the Product's Value Stream (see appendix ZZZ)
+   - the Product's internal governance structure
+   - the time horizon sought for the blanket approval of priority and funding (in years)
+3. The Major Projects and Investment Board (MPIB)[^6] oversees investment arrangements and progress reporting
+   - Includes TB submissions, review of product status, and reporting requirements
+
+### Product Roadmap as the Investment Plan
+
+
+### Key Metrics to Provide Assurances
+
+
+## Phase 1 - Defining and Evaluating the Framework
 
 ## Appendix A - Product Architectural Boundaries
 
@@ -212,3 +238,4 @@ _Note 4:_ The Product investment type expects rapid cadence of delivery to end-u
 [^3]: The main areas of the CFO's domain expertise are Enterprise Project Management, Financial Management, and Investment Performance Management.
 [^4]: The main areas of the CIO's domain expertise are Project Managament Office, Release Management (and ITSM), IT Security, and Enterprise Architecture.
 [^5]: See [this inventory]({{ site.baseurl }}/ITStrategy/ddd.html) of 38 known definitions from industry and government.
+[^6]: [MPIB](https://dialogue/grp/PEC-CEP/Committee%20Terms%20of%20Reference/MPIB%20-%20Major%20Projects%20and%20Investments%20Board%20(2).pdf) is a Tier 2 committee at ESDC chaired by the CFO.
