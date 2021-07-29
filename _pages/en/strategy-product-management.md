@@ -32,9 +32,12 @@ _Note: This page will link to internal ESDC and Government of Canada (GC) Networ
   - [Product Roadmap as the Investment Plan](#product-roadmap-as-the-investment-plan)
   - [Key Metrics to Provide Assurances](#key-metrics-to-provide-assurances)
 - [Phase 1 - Defining and Evaluating the Framework](#phase-1---defining-and-evaluating-the-framework)
-- [Appendix A - Product Architectural Boundaries](#appendix-a---product-architectural-boundaries)
-- [Appendix B - List of Phase 1 Stakeholder](#appendix-b---list-of-phase-1-stakeholder)
-- [Appendix C - Change Log](#appendix-c---change-log)
+- [Appendix A - List of Phase 1 Stakeholder](#appendix-a---list-of-phase-1-stakeholder)
+- [Appendix B - Product Architectural Boundaries](#appendix-b---product-architectural-boundaries)
+- [Appendix C - Leve of Autonomy](#appendix-c---leve-of-autonomy)
+- [Appendix D - Product Framework Overview](#appendix-d---product-framework-overview)
+- [Appendix E - Portfolio Management, a CFO's perspective](#appendix-e---portfolio-management-a-cfos-perspective)
+- [Appendix F - Change Log](#appendix-f---change-log)
 - [Notes](#notes)
 
 ## Introduction
@@ -66,7 +69,7 @@ The scope of this strategy remains within the authorities of the department
 The main Target Audience for Phase 1 are the Chief Financial (CFO)[^3] and the Chief Information Officer (CIO)[^4] as the strategy seeks to make modifications in their respective domains.
 In addition, we are seeking contributions to teams involved in transformational change management for the greater awareness campaign.
 
-A complete list of the stakeholders are listed in [Appendix B](#appendix-b---list-of-phase-1-stakeholder).
+A complete list of the stakeholders are listed in [Appendix A](#appendix-a---list-of-phase-1-stakeholder).
 
 ## Definition of Product
 
@@ -84,7 +87,7 @@ _Note 1:_ Departmental products aligned to their [Program Alignement Architectur
 
 _Note 1:_ A software solution is one or more Applications as defined by the [Application Portfolio Management (APM) Program](https://www.gcpedia.gc.ca/wiki/OCIO_Application_Portfolio_Management)).
 
-_Note 2:_ A software solution has clear [Architectural Boundaries](#appendix-a---product-architectural-boundaries).
+_Note 2:_ A software solution has clear [Architectural Boundaries](#appendix-b---product-architectural-boundaries).
 
 ## Why We Need This
 
@@ -122,7 +125,7 @@ We seek to add a new method: Products.
 <tr>
   <th>Method</th>
   <th>What it's about</th>
-  <th>What it does</th>
+  <th>Its effects</th>
 </tr>
 <tr>
   <td>Project</td>
@@ -138,7 +141,6 @@ We seek to add a new method: Products.
       <li>No incentive to strategically plan</li>
       <li>Motivates over embellishment</li>
       <li>Insufficient context for decision making</li>
-</li>
     </ul>
   </td>
 </tr>
@@ -148,7 +150,7 @@ We seek to add a new method: Products.
     <ul>
       <li>Wide ranging strategic activities</li>
       <li>Series of projects</li>
-      <li><strong>Done = benefits realized</li>
+      <li><strong>Done = benefits realized</strong></li>
     </ul>  
   </td>
   <td>
@@ -179,13 +181,13 @@ We seek to add a new method: Products.
 </table>
 
 This new Product investment type is to give _sufficient incentive_ to Programs in incorporating digital as part of their periodic funding envelop review.
-The incentive offers more autonomy to operate as long as a Product Team can provide sufficient assurances to Governance (See XXXXX).
+The incentive offers more autonomy to operate as long as a Product Team can provide [sufficient assurances to Governance](#key-metrics-to-provide-assurances).
 
-_Note 1:_ Programmes are typically used when there's a [level of ambiguity to manage](https://www.pmi.org/learning/library/understanding-difference-programs-versus-projects-6896?__cf_chl_captcha_tk__=c1224dbd65e78643d0456484bd199d5a79d2fd17-1624902677-0-AaoN7yeCB_TMnxYLJPT1WdqhcPQHnA558DylEslgDF0QMgV8yrXMgxjkk4oi8L_jmtnaKvoLR-y0yhsAGsYcH8jybaxrKQ2u58x25fLy9Hd2ROZkNTtPyWENTJej55zeEsQezu1xv5pNDHX4sT_Om79UHlcU2fnbtT7UOz0cYyjqmm4JvY3be4TzHLSQJgg_-tKadLJMsmdNN0XCTOEOQ2iPk9-Jc4YBYUjJIHc29HmzWvsndV9jCv5Jsb4Fv_kJGsSCKjJEm04KVrIZH0yIKd6jSFyujKNr_st0mgTT-GuEDIA89Dw_e6lXXdjTEXpFhy7hYtmR8QWdGf5wH58lXy55UBJp3TMDqyAKxqiYGDU8o0mC2nP4BFrj1aw_jqKs_CqDaiOr7xJvHPjwRinZkt7HgvhRGHENKRXA-89kHHrqF85z6PyUWTiW45n1Sw7c01vQj8ynGmklzh3EIBzb9v03aUyekIHTsEUJRYrPjqRaJf0J3p_Cw-rvsD9OskoTl4gUTiimGrFkLXqNNsFW4SalNEYD34ulJRPpK0lw0WnrcoiPoJmfsUEeqNskUTiRsYU_ci1G9-e_wxgGnj7aAFrb9aIZmb_4NlCCobz0AQelgQMLNVDyKVqVtarvhcMONnKxtAtRr85d92lt41DMDxgnY3ehmj7-6eqbNby-fXXivXlps-doXKwszyD-baMgiws7TSVZiwHLvM6yLI6BJCVolbUVsS59r0MdXzHiBz-I3lw9rnhsLvWSv6JB4-ksBUOI3qWtdsNe5rPR99LMWs8). However, the lag in establishing a programme inhibits the rapid cadence that continuous improvement of a product seeks, especially on the User Experience side. When a product is used, data is generated which can be analyzed to inform continuous improvement exercise. User Feedback is obtained and actioned. The improvement are often small enough that the effort to go through establishing a programme do not warrant it.
+_Note 1:_ Programmes are typically used when there's a [level of ambiguity to manage](https://www.pmi.org/learning/library/understanding-difference-programs-versus-projects-6896?__cf_chl_captcha_tk__=c1224dbd65e78643d0456484bd199d5a79d2fd17-1624902677-0-AaoN7yeCB_TMnxYLJPT1WdqhcPQHnA558DylEslgDF0QMgV8yrXMgxjkk4oi8L_jmtnaKvoLR-y0yhsAGsYcH8jybaxrKQ2u58x25fLy9Hd2ROZkNTtPyWENTJej55zeEsQezu1xv5pNDHX4sT_Om79UHlcU2fnbtT7UOz0cYyjqmm4JvY3be4TzHLSQJgg_-tKadLJMsmdNN0XCTOEOQ2iPk9-Jc4YBYUjJIHc29HmzWvsndV9jCv5Jsb4Fv_kJGsSCKjJEm04KVrIZH0yIKd6jSFyujKNr_st0mgTT-GuEDIA89Dw_e6lXXdjTEXpFhy7hYtmR8QWdGf5wH58lXy55UBJp3TMDqyAKxqiYGDU8o0mC2nP4BFrj1aw_jqKs_CqDaiOr7xJvHPjwRinZkt7HgvhRGHENKRXA-89kHHrqF85z6PyUWTiW45n1Sw7c01vQj8ynGmklzh3EIBzb9v03aUyekIHTsEUJRYrPjqRaJf0J3p_Cw-rvsD9OskoTl4gUTiimGrFkLXqNNsFW4SalNEYD34ulJRPpK0lw0WnrcoiPoJmfsUEeqNskUTiRsYU_ci1G9-e_wxgGnj7aAFrb9aIZmb_4NlCCobz0AQelgQMLNVDyKVqVtarvhcMONnKxtAtRr85d92lt41DMDxgnY3ehmj7-6eqbNby-fXXivXlps-doXKwszyD-baMgiws7TSVZiwHLvM6yLI6BJCVolbUVsS59r0MdXzHiBz-I3lw9rnhsLvWSv6JB4-ksBUOI3qWtdsNe5rPR99LMWs8). However, the lag in establishing a programme inhibits the rapid cadence that continuous improvement of a product seeks, especially on the User Experience side. When a product is used, data is generated which can be analyzed to inform continuous improvement activities. User Feedback is obtained and actioned. The improvement are often small enough that the effort to go through establishing a programme do not warrant it.
 
 _Note 2:_ Projectizing establishes a project team which is dispanded at the end of the project. The team members that obtained valuable corporate and product information move on to other activities. Even moving between Proofs of  Concepts, then Pilots, then Projects do not guarantee the same team members working on problems. This affects empathy to the end-users, productivity, happiness, and ultimately pace of delivery. It is what psychologist Bruce Tuckman coined the [forming, storming, norming, and performing lifecycle](https://www.mindtools.com/pages/article/newLDR_86.htm). The product-type investment method focuses on the people being part of the value stream and seeks to maintain their cohesiveness.
 
-_Note 3:_ The departments accepts to prioritize a product over a multi-year horizon by granting funding over more than one year. Teams do not have to go through committee year over year to re-seek prioritization and funding. There is an exit path for ESDC to still re-allocate funding elsewhere should priorities change without loosing its investment.
+_Note 3:_ The department accepts to prioritize a product over a multi-year horizon by granting funding over more than one year. Teams do not have to go through committees year over year to re-seek prioritization and funding therefore releasing internal capacity towards more meaningful work. There is an exit path for ESDC to still re-allocate funding elsewhere should priorities change without loosing its investment.
 
 _Note 4:_ The Product investment type expects rapid cadence of delivery to end-users. Planning stages do not last more than a few weeks so that changes in business operations (e.g. software release) are typically provided at least once per quarter.
 
@@ -197,7 +199,8 @@ A Program area (represented by an Associate Deputy Minister (ADM)) may request p
 Having "product status" means obtaining blanket approval and funding over a time horizon for the particular product.
 A product managed as such do not need to seek yearly funding and priority approval as it is provided on a multi-year horizon.
 
-1. A Line of Business (LOB) ADM presents a Business Case (the [Product's Roadmap](#product-roadmap-as-the-investment-plan)). This Business Case is _NOT_ your typical Business Case used to fund a project.
+1. A Line of Business (LOB) ADM presents a Business Case (the [Product's Roadmap](#product-roadmap-as-the-investment-plan)).
+   - This Business Case is _NOT_ your typical Business Case used to fund a project.
 2. The LOB ADM, CIO, and CFO get into a Memorandum Of Unserstanding (MOU) by identifying:
    - source(s) of funds
    - level of autonomy (See appendix XXX)
@@ -213,24 +216,6 @@ A product managed as such do not need to seek yearly funding and priority approv
 
 The Product's roadmap acts as the Investment Plan for the time horizon and is the basis for accountability.
 
-Business Outcomes are mini-business cases (typically 1 pager) and the definition of success for that roadmap step.
-Business Outcome deliveries also act as decision gates in the investment plan.
-
-The blanket approval over the time horizon give the product's value stream with stability.
-However, funding may be augmented based on the desired Business Outcome in the roadmap.
-This funding is not based on historical spending levels but on future need.
-
-The Roadmap **can and will be reprioritized**.
-New business outcomes may be added or shifted on its timeline due to experience gained with the product and to changes in departmental or portfolio priorities.
-
-The Roadmap is **reality** for the product team.
-Parallel projects feed the Product Roadmap's backlog and their schedule are expected to be adjusted based on the product roadmap's changes.
-This because it is unrealistic for a product team to manage multiple commitments (e.g. Windows server upgrade, WLM, Accessibility Compliance Project, Technical Debt Programme, one or two Business Enhancements, Benefits Delivery Modernization, etc.).
-Instead, those commitments are part of the Product's backlog and will be dealt with as part of the Product's roadmap.
-Should reality change (i.e. the product's roadmap), parallel projects absorb the change and adjust their schedules accordingly.
-Should those projects be sources of funds for a product, they are provided only when the Product business outcome plan includes requirements of such projects.
-
-
 <div style="display: block; width: inherit; text-align: center; line-height: 3;">
     <a href="/ITStrategy/assets/images/paa-products-value-stream.png" style="display: block">
         <img src = "{{ site.baseurl }}/assets/images/product-roadmap.png"
@@ -240,16 +225,49 @@ Should those projects be sources of funds for a product, they are provided only 
     <small>Figure 2. The Product's Roadmap as the Investment Plan.</small>
 </div>
 
+Business Outcomes are mini-business cases (typically 1 pager) and the definition of success for that roadmap step.
+Business Outcome deliveries also act as decision gates in the investment plan.
+
+The blanket approval over the time horizon gives the product's value stream stability.
+However, funding may be augmented based on the desired Business Outcome in the roadmap, at which point departmental governance needs to be engated.
+This funding is not based on historical spending levels but on future need.
+
+The Roadmap **can and will be reprioritized**.
+New business outcomes may be added or shifted on its timeline due to experience gained with the product and to changes in departmental or portfolio priorities.
+
+The Roadmap is **reality** for the product team.
+Parallel projects feed the Product Roadmap's backlog and their schedules are expected to be adjusted based on the changes in the product's roadmap.
+This because it is unrealistic for a product team to manage multiple commitments (e.g. Windows server upgrade, WLM, Accessibility Compliance Project, Technical Debt Programme, one or two Business Enhancements, Benefits Delivery Modernization, etc.).
+Instead, those commitments are part of the Product's backlog and will be dealt with as part of the Product's roadmap.
+Should reality change (e.g. new priority affecting a product's roadmap horizon), parallel projects absorb the change and adjust their schedules accordingly.
+Should those projects be sources of funds for a product, they are provided only when the Product business outcome plan includes requirements of such projects.
+
 _Note 1:_ It is expected that business outcomes are provided in short cadence (typically at least once per quarter). This so that the product-type investment is not held in a planning stage for too long and allows course correction within the time horizon.
 
+_Note 2:_ Work progress is tracked through [different key metrics](#key-metrics-to-provide-assurances)
+
+_Note 3:_ The short cadence requires moving towards Continuous Authority to Operate (ATOs)[^7] and Monitoring
+
+_Note 4:_ To accurately define business outcomes, LOBs are encouraged to partner with the Chief Data Officer (CDO) and the Business Architecture Alignment Office (BAAO).
 
 ### Key Metrics to Provide Assurances
 
+Achieving a Business Outcome may not be a straight path.
+Product freatures become hypothesis that must be validated before we can claim victory.
+This may include a series of A/B testing, experiments, using Analytics to interpret data and informing the next iteration of a product.
+
+In a project investment, a schedule is the assurance provided to governance.
+In a product status investment, these key metrics are the assurance.
+
+The Product Team is expected to produce the following 3 sets of key metrics.
+These metrics are consumed by the Product Team, the Business Sponsor, and Governance (DGPOC/MPIB)
 
 ## Phase 1 - Defining and Evaluating the Framework
 
 
-## Appendix A - Product Architectural Boundaries
+## Appendix A - List of Phase 1 Stakeholder
+
+## Appendix B - Product Architectural Boundaries
 
 - ***Business Alignment***, to the [Business Capability Model](https://dialogue/grp/EA-AE/SitePages/DBCM.aspx).
 - ***Information Profile***, defined by the following attributes:
@@ -259,9 +277,13 @@ _Note 1:_ It is expected that business outcomes are provided in short cadence (t
 - ***Technology Standards***, defined by the following attributes:
   - Unacceptable technical stacks ([in containment or retirement](https://dialogue/grp/CO7397744/Lists/Standards%20Catalogue/AllItems.aspx))
 
-## Appendix B - List of Phase 1 Stakeholder
+## Appendix C - Leve of Autonomy
 
-## Appendix C - Change Log
+## Appendix D - Product Framework Overview
+
+## Appendix E - Portfolio Management, a CFO's perspective
+
+## Appendix F - Change Log
 
 ## Notes
 
@@ -271,3 +293,4 @@ _Note 1:_ It is expected that business outcomes are provided in short cadence (t
 [^4]: The main areas of the CIO's domain expertise are Project Managament Office, Release Management (and ITSM), IT Security, and Enterprise Architecture.
 [^5]: See [this inventory]({{ site.baseurl }}/ITStrategy/ddd.html) of 38 known definitions from industry and government.
 [^6]: [MPIB](https://dialogue/grp/PEC-CEP/Committee%20Terms%20of%20Reference/MPIB%20-%20Major%20Projects%20and%20Investments%20Board%20(2).pdf) is a Tier 2 committee at ESDC chaired by the CFO.
+[^7]: cATOs are inspired by the [US Air Force's Platform One team](https://www.linkedin.com/feed/update/urn:li:share:6734861153765326848/), in the Chief Software Office. NIST and ITSG-33 do not have continuous types of controls. Will need to innovate while remaining in compliance.
