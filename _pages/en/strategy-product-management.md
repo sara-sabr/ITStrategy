@@ -193,9 +193,9 @@ _Note 4:_ The Product investment type expects rapid cadence of delivery to end-u
 
 ### Seeking Product Status
 
-A Program area (a Line of Business represented by an Associate Deputy Minister (ADM)) may request product status to the CFO and CIO.
+A Program area (represented by an Associate Deputy Minister (ADM)) may request product status to the CFO and CIO.
 Having "product status" means obtaining blanket approval and funding over a time horizon for the particular product.
-A product managed as such do not need to obtain yearly funding and priority approval.
+A product managed as such do not need to seek yearly funding and priority approval as it is provided on a multi-year horizon.
 
 1. A Line of Business (LOB) ADM presents a Business Case (the [Product's Roadmap](#product-roadmap-as-the-investment-plan)). This Business Case is _NOT_ your typical Business Case used to fund a project.
 2. The LOB ADM, CIO, and CFO get into a Memorandum Of Unserstanding (MOU) by identifying:
@@ -211,11 +211,43 @@ A product managed as such do not need to obtain yearly funding and priority appr
 
 ### Product Roadmap as the Investment Plan
 
+The Product's roadmap acts as the Investment Plan for the time horizon and is the basis for accountability.
+
+Business Outcomes are mini-business cases (typically 1 pager) and the definition of success for that roadmap step.
+Business Outcome deliveries also act as decision gates in the investment plan.
+
+The blanket approval over the time horizon give the product's value stream with stability.
+However, funding may be augmented based on the desired Business Outcome in the roadmap.
+This funding is not based on historical spending levels but on future need.
+
+The Roadmap **can and will be reprioritized**.
+New business outcomes may be added or shifted on its timeline due to experience gained with the product and to changes in departmental or portfolio priorities.
+
+The Roadmap is **reality** for the product team.
+Parallel projects feed the Product Roadmap's backlog and their schedule are expected to be adjusted based on the product roadmap's changes.
+This because it is unrealistic for a product team to manage multiple commitments (e.g. Windows server upgrade, WLM, Accessibility Compliance Project, Technical Debt Programme, one or two Business Enhancements, Benefits Delivery Modernization, etc.).
+Instead, those commitments are part of the Product's backlog and will be dealt with as part of the Product's roadmap.
+Should reality change (i.e. the product's roadmap), parallel projects absorb the change and adjust their schedules accordingly.
+Should those projects be sources of funds for a product, they are provided only when the Product business outcome plan includes requirements of such projects.
+
+
+<div style="display: block; width: inherit; text-align: center; line-height: 3;">
+    <a href="/ITStrategy/assets/images/paa-products-value-stream.png" style="display: block">
+        <img src = "{{ site.baseurl }}/assets/images/product-roadmap.png"
+        alt = "alt text here"
+        />
+    </a>
+    <small>Figure 2. The Product's Roadmap as the Investment Plan.</small>
+</div>
+
+_Note 1:_ It is expected that business outcomes are provided in short cadence (typically at least once per quarter). This so that the product-type investment is not held in a planning stage for too long and allows course correction within the time horizon.
+
 
 ### Key Metrics to Provide Assurances
 
 
 ## Phase 1 - Defining and Evaluating the Framework
+
 
 ## Appendix A - Product Architectural Boundaries
 
