@@ -31,7 +31,7 @@ _Note: This page will link to internal ESDC and Government of Canada (GC) Networ
   - [Seeking Product Status](#seeking-product-status)
   - [Product Roadmap as the Investment Plan](#product-roadmap-as-the-investment-plan)
   - [Key Metrics to Provide Assurances](#key-metrics-to-provide-assurances)
-- [Phase 1 - Defining and Evaluating the Framework](#phase-1---defining-and-evaluating-the-framework)
+- [Phase 1 Implementation](#phase-1-implementation)
   - [Approach](#approach)
   - [Workstreams](#workstreams)
 - [Appendix A - Product Architectural Boundaries](#appendix-a---product-architectural-boundaries)
@@ -189,7 +189,7 @@ _Note 1:_ Programmes are typically used when there's a [level of ambiguity to ma
 
 _Note 2:_ Projectizing establishes a project team which is disbanded at the end of the project. The team members that obtained valuable corporate and product information move on to other activities. Even moving between Proofs of  Concepts, then Pilots, then Projects do not guarantee the same team members working on problems. This affects empathy to the end-users, productivity, happiness, and ultimately pace of delivery. It is what psychologist Bruce Tuckman coined the [forming, storming, norming, and performing lifecycle](https://www.mindtools.com/pages/article/newLDR_86.htm). The product-type investment method focuses on the people being part of the value stream and seeks to maintain their cohesiveness.
 
-_Note 3:_ The department accepts to prioritize a product over a multi-year horizon by granting funding over more than one year. Teams do not have to go through committees year over year to re-seek prioritization and funding therefore releasing internal capacity towards more meaningful work. There is an exit path for ESDC to still reallocate funding elsewhere should priorities change without losing its investment.
+_Note 3:_ The department accepts to prioritize a product over a multi-year horizon by granting funding over more than one year. Teams do not have to go through committees year over year to re-seek prioritization and funding therefore releasing internal capacity towards more meaningful work. There is an exit path for ESDC to still reallocate funding (its product team) elsewhere should priorities change without losing its investment.
 
 _Note 4:_ The Product investment type expects rapid cadence of delivery to end users. Planning stages do not last more than a few weeks so that changes in business operations (e.g., software release) are typically provided at least once per quarter.
 
@@ -262,10 +262,7 @@ Product features are hypotheses that must be validated before we can claim victo
 This may include a series of A/B testing, experiments, Proof of Concepts, using Analytics to interpret data and informing the next iteration of a product.
 
 In a project-type investment, a schedule is the assurance provided to governance on progress because the planning phase a project sought certainty before execution can start.
-In a product-type investment, these three key metrics are the assurance.
-
-The Product Team is expected to produce the following three sets of key metrics.
-These metrics are consumed by the Product Team, the Business Sponsor, and Governance (DGPOC/MPIB)
+In a product-type investment, the following three key metrics are the assurance, expected to be produced by the Product team. These metrics are consumed by the Product Team, the Business Sponsor, and Governance (DGPOC/MPIB).
 
 <div style="display: block; width: inherit; text-align: center; line-height: 3;">
     <a href="/ITStrategy/assets/images/product-key-metrics.png" style="display: block">
@@ -276,12 +273,12 @@ These metrics are consumed by the Product Team, the Business Sponsor, and Govern
     <small>Figure 3. Three key metrics that Governance will use to measure progress.</small>
 </div>
 
-1. **Health Diagnostic** metrics are provided to address potential velocity issues (e.g., creeping technical debt, lack of personnel, conflict between teams affecting moral).
-2. **Workload distribution** that provides transparency. There are four types of work:
+1. **Health Diagnostic** metrics are provided to address potential velocity issues in the value stream (e.g., creeping technical debt, lack of personnel, conflict between teams affecting moral).
+2. **Workload distribution** are provided for transparency. There are four types of work:
    1. _Features_: What end-users see. A new function or ability.
    2. _Defects_: What end-users see. A broken function or ability.
    3. _Risks_: What end users DO NOT see. A compliance gap (e.g., cyber security, a11y).
-   4. _Debt_: What end users DO NOT see. A technical, process, or people debt (e.g., architecture refactoring, new API, investment in automation)
+   4. _Debt_: What end users DO NOT see. A technical/process/people debt (e.g., architecture refactoring, new API, investment in automation)
 3. **Business Results** is what the organization ultimately cares about. In the commercial world, it would be tied to profit. But in the public sector world, it is tied to a Program's mandate and [expected result](https://www.tbs-sct.gc.ca/ems-sgd/edb-bdd/index-eng.html#orgs/dept/128/infograph/results). The IT Branch can report on costs spent on the product as well as its [APM Assessment](https://www.gcpedia.gc.ca/wiki/OCIO_Application_Portfolio_Management). But ultimately, this metric is a business one and Program Owners are encouraged to partner with the CDO and the BAAO to help define them.
 
 In Figure 3, we can see that the workload distribution over a 12-month period shifted from focusing on new features, to fixing defects and addressing compliance risks, to remediating technical debt.
@@ -289,7 +286,7 @@ In Figure 3, we can see that the workload distribution over a 12-month period sh
 In a product-type investment, the **Product team decides** this workload distribution.
 Greater departmental governance _may_ intervene if necessary but the Product team uses its blanket authority to decide how best to distribute workload.
 
-## Phase 1 - Defining and Evaluating the Framework
+## Phase 1 Implementation
 
 ### Approach
 
@@ -301,7 +298,7 @@ To formalize engagement between stakeholders, a Branch Initiative sponsored by t
 
 ***Phase 1 Objectives (FY 21/22 and 22/23)***
 
-- Produce MVP framework and evaluate it against 2 product candidates
+- Produce MVP framework and evaluate it against 2 product candidates (one from A-Base sources of funds, the other from B-Base sources)
 - Produce a programme-like activity plan (informing next round of activities and stakeholders to realize benefits)
 
 ***Phase 2 Objectives (FY 23/24)***
@@ -341,6 +338,8 @@ _Note 2_: We seek one candidate funded with A-Base source and one candidate fund
 
 ## Appendix A - Product Architectural Boundaries
 
+A given Product has the following architectural boundaries, used by Enterprise Architecture to provide strategic advice:
+
 - ***Business Alignment***, to the [Business Capability Model](https://dialogue/grp/EA-AE/SitePages/DBCM.aspx).
 - ***Information Profile***, defined by the following attributes:
   - Privacy, manifested by a Privacy Impact Assessment, includes Retention and Disposition rules)
@@ -353,13 +352,27 @@ _Note 2_: We seek one candidate funded with A-Base source and one candidate fund
 
 The level of autonomy is inspired by the [CFO's financial delegation authority](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32584) and [Heads of HR delegation](https://www.canada.ca/en/public-service-commission/services/appointment-framework/delegation-overview/appointment-delegation-accountability-instrument.html).
 
-The Senior ADM of the IT Branch is both the CIO and the Departmental Official Responsible for Cyber Security (DOCS). This person is accountable to [509 policy requirements](https://sara-sabr.github.io/ITStrategy/2021/06/02/stats-digial-policy-instruments.html). It is our hypothesis that, in order to have sufficient assurance that policy requirements are met, CIOs and DOCS require IM/IT changes to pass through their central corporate release process, including architecture and security assessment. To further control these processes, IM/IT staff will be located under the CIO HR organization.
+The Senior ADM of the IT Branch is both the CIO and the Departmental Official Responsible for Cyber Security (DOCS). This person is accountable to [509 policy requirements](https://sara-sabr.github.io/ITStrategy/2021/06/02/stats-digial-policy-instruments.html). It is our hypothesis that, in order to have sufficient assurance that policy requirements are met, CIOs and DOCS require IM/IT changes to pass through their central corporate release process, including architecture and security assessments. To further control these processes, IM/IT staff will be located under the CIO HR organization.
 
 A level of autonomy may be provided to product teams by delegating some authorities to them.
 As per the Financial and HR delegations, this is not a simple form to fill out.
-It requires training and can have real consequences of non-compliance.
+It is expected to require training and can have real consequences of non-compliance.
 
-...
+| Policy / Corporate Area | Description                                                              |
+| ------------------------| ------------------------------------------------------------------------ |
+| Privacy                 | The Business ADM takes on the liability of a privacy incident for her product.<br>Assurances involves performing a Privacy Impact Assessment and interacting with the [Privacy Management Division](https://esdc.prv/en/csb/privacy-management.shtml)|
+| Cyber Security          | The Business ADM takes on the liability of a cyber security incident for her product.<br>Assurances involves applying [ITSG-33 controls](https://cyber.gc.ca/en/guidance/overview-itsg-33) on the product proportional to the Statement of Sensitivity and Statement of Acceptable Risks exercises.|
+| Ethics                  | The Business ADM takes on the liability of an ethics incident for her product.<br>Assurances involves producing an [Algorithmic Impact Assessment](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/algorithmic-impact-assessment.html) and meeting the [Directive on Automated Decision Making](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32592) requirements.|
+| Production Release      | The Business ADM takes on the liability of releasing her product in production by following ESDC’s [Software Release Process](https://014gc.sharepoint.com/:b:/r/sites/SDLCActionPlanTeam/Shared%20Documents/General/Software%20Development%20and%20Release%20Governance.pdf?csf=1&web=1&e=SdnmEy) (as per ITSM).<br>The CIO may establish a “capped size” for releases (to protect limited network bandwidth on premise and greater ESDC reputation) |
+| Corporate Services     | The Business ADM funds their own IT corporate services to function, including production and incident management operations |
+
+_Note 1:_ A delegation of all areas would indicate more than one CIO and DOCS reporting to the Deputy Head. Highly unlikely.
+
+_Note 2:_ A delegation in one area grants a Business ADM the ability to embed personnel of that area under its HR Org structure.
+
+_Note 3:_ Production Release process maps to the [IITB SDLC](https://014gc.sharepoint.com/:b:/r/sites/SDLCActionPlanTeam/Shared%20Documents/General/Software%20Development%20and%20Release%20Governance.pdf?csf=1&web=1&e=SdnmEy). Quality Assurances that the right stakeholders were involved throughout the s/w lifecycle before releasing to production.
+
+_Note 4:_ Corporate services include Funding for Cyber Security Operation Centre (CSOC), IT Security Assessment, Cloud Operations, Architecture Review, Service Desk, Laptops, VPNs.
 
 ## Appendix C - Product Framework Overview
 
@@ -426,7 +439,7 @@ Within the portfolio, budgets are distributed to products according to the portf
 [^2]: Framework = a directive, a set of standards (e.g., reporting), and a set of procedures (e.g., manoeuvring governance)
 [^3]: The main areas of the CFO's domain expertise are Enterprise Project Management, Financial Management, and Investment Performance Management.
 [^4]: The main areas of the CIO's domain expertise are Project Management Office, Release Management (and ITSM), IT Security, and Enterprise Architecture.
-[^5]: See [this inventory]({{ site.baseurl }}/ITStrategy/ddd.html) of 38 known definitions from industry and government.
+[^5]: See [this inventory]({{ site.baseurl }}/ITStrategy/strategy-product-mgt-definitions.html) of 38 known definitions from industry and government.
 [^6]: [MPIB](https://dialogue/grp/PEC-CEP/Committee%20Terms%20of%20Reference/MPIB%20-%20Major%20Projects%20and%20Investments%20Board%20(2).pdf) is a Tier 2 committee at ESDC chaired by the CFO.
 [^7]: cATOs are inspired by the [US Air Force's Platform One team](https://www.linkedin.com/feed/update/urn:li:share:6734861153765326848/), in the Chief Software Office. NIST and ITSG-33 do not have continuous types of controls. Will need to innovate while remaining in compliance.
 [^8]: Framework = a directive, a set of standards (e.g., report requirements), and a set of procedures
