@@ -32,11 +32,13 @@ _Note: This page will link to internal ESDC and Government of Canada (GC) Networ
   - [Product Roadmap as the Investment Plan](#product-roadmap-as-the-investment-plan)
   - [Key Metrics to Provide Assurances](#key-metrics-to-provide-assurances)
 - [Phase 1 - Defining and Evaluating the Framework](#phase-1---defining-and-evaluating-the-framework)
-- [Appendix A - List of Phase 1 Stakeholder](#appendix-a---list-of-phase-1-stakeholder)
+  - [Approach](#approach)
+  - [Workstreams](#workstreams)
 - [Appendix B - Product Architectural Boundaries](#appendix-b---product-architectural-boundaries)
-- [Appendix C - Leve of Autonomy](#appendix-c---leve-of-autonomy)
+- [Appendix C - Level of Autonomy](#appendix-c---level-of-autonomy)
 - [Appendix D - Product Framework Overview](#appendix-d---product-framework-overview)
 - [Appendix E - Portfolio Management, a CFO's perspective](#appendix-e---portfolio-management-a-cfos-perspective)
+- [Appendix F - Terms and Definitions](#appendix-f---terms-and-definitions)
 - [Appendix F - Change Log](#appendix-f---change-log)
 - [Notes](#notes)
 
@@ -252,20 +254,90 @@ _Note 4:_ To accurately define business outcomes, LOBs are encouraged to partner
 
 ### Key Metrics to Provide Assurances
 
+In a product-type investment, governance changes from an entity where one goes to seek permission to do work, to one that observes and _may_ interject _if necessary_.
+A product team has blanket authority to do work while providing departmental governance with information on their progress.
+
 Achieving a Business Outcome may not be a straight path.
-Product freatures become hypothesis that must be validated before we can claim victory.
-This may include a series of A/B testing, experiments, using Analytics to interpret data and informing the next iteration of a product.
+Product freatures are hypothesis that must be validated before we can claim victory.
+This may include a series of A/B testing, experiments, Proof of Concepts, using Analytics to interpret data and informing the next iteration of a product.
 
-In a project investment, a schedule is the assurance provided to governance.
-In a product status investment, these key metrics are the assurance.
+In a project-type investment, a schedule is the assurance provided to governance on progress because the planning phase a a project sought certainty before execution can start.
+In a product-type investment, these three key metrics are the assurance.
 
-The Product Team is expected to produce the following 3 sets of key metrics.
+The Product Team is expected to produce the following three sets of key metrics.
 These metrics are consumed by the Product Team, the Business Sponsor, and Governance (DGPOC/MPIB)
+
+<div style="display: block; width: inherit; text-align: center; line-height: 3;">
+    <a href="/ITStrategy/assets/images/product-key-metrics.png" style="display: block">
+        <img src = "{{ site.baseurl }}/assets/images/product-key-metrics.png"
+        alt = "alt text here"
+        />
+    </a>
+    <small>Figure 3. Three key metrics that Governance will use to measure progress.</small>
+</div>
+
+1. **Health Diagnostic** metrics are provided to address potential velocity issues (e.g. creeping technical debt, lack of personnel, conflict between teams affecting moral).
+2. **Workload distribution** that provides transparency. There are four types of work:
+   1. _Features_: What end-users see. A new function or ability.
+   2. _Defects_: What end-users see. A broken function or ability.
+   3. _Risks_: What end-users DO NOT see. A compliance gap (e.g. cyber security, a11y).
+   4. _Debt_: What end-users DO NOT see. A technical, process, or people debt (e.g. architecture refactoring, new API, investment in automation)
+3. **Business Results** is what the organization ultimately cares about. In the commercial world, it would be tied to profit. But in the public sector world, it is tied to a Program's mandate and [expected result](https://www.tbs-sct.gc.ca/ems-sgd/edb-bdd/index-eng.html#orgs/dept/128/infograph/results). The IT Branch can report on costs spent on the product as well as its [APM Assessment](https://www.gcpedia.gc.ca/wiki/OCIO_Application_Portfolio_Management). But ultimately, this metric is a business one and Program Owners are encouraged to partner with the CDO and the BAAO to help define them.
+
+In Figure 3, we can see that the workload distribution over a 12 month period shifted from focusing on new features, to fixing defects and addressing compliance risks, to remediating technical debt.
+
+In a produt-type investment, the **Product team decides** this workload distribution.
+Greater departmental governance _may_ intervene if necessary but the Product team uses its blanket authority to decide how best to distribute workload.
 
 ## Phase 1 - Defining and Evaluating the Framework
 
+### Approach
 
-## Appendix A - List of Phase 1 Stakeholder
+The strategey's approach in implementing product management in the department is to iterate on the framework[^8] by periodically evaluating it with product candidates.
+
+These evaluations will inform the framework's next iteration by providing it with empirical evidence of what works and doesn't work.
+
+To formalize engagement between stakeholders, a Branch Initiative sponsored by the DG of SABR will be used.
+
+***Phase 1 Objectives (FY 21/22 and 22/23)***
+
+- Produce MVP framework and evaluate it against 2 product candidates
+- Produce a programme-like activity plan (informing next round of activities and stakeholders to realize benefits)
+
+***Phase 2 Objectives (FY 23/24)***
+
+- TBD based on FY 22-23 programme-like activity plan
+
+<div style="display: block; width: inherit; text-align: center; line-height: 3;">
+    <a href="/ITStrategy/assets/images/strategy-product-mgt-phase-1.png" style="display: block">
+        <img src = "{{ site.baseurl }}/assets/images/strategy-product-mgt-phase-1.png"
+        alt = "alt text here"
+        />
+    </a>
+    <small>Figure 4. Phase 1 of the Strategy as a Branch Initiative.</small>
+</div>
+
+### Workstreams
+
+The following workstreams will be worked on during Phase 1, each with their own OPI and contributors.
+
+**Objective:** seek empirical evidence by evaluating 2 candidates to inform next steps
+**Expected Results:** clearer list of activities to perform (programme-like plan) with a more accurate level of efforts
+
+| Workstream              | OPI   | Contributors                         |
+| ----------------------- | ----- | -------------------------------------|
+| <strong>Investment Management</strong> | CFOB EPMO | IITB BPMO, IITB RM, IITB BRM, IITB IT Strategy |
+| <strong>Financial Management</strong> | IITB RM | IITB BPMO, CFOB FMAS |
+| <strong>People Management</strong> | IITB HR | IITB RM, IITB SAs |
+| <strong>Governance</strong> | IITB IT Strategy + CFOB EPMO | IITB BPMO, OCIO (Gov), IITB EA, IITB IM, IT Security (ATOs), IITB CM (Release Mgt) |
+| <strong>Outcome Measurement</strong> | CFOP IPM (Note 1) | SSPB CDO (?), TMB BAAO (?) |
+| <strong>Portfolio Management</strong> | IITB BPMO | IITB BRM, IITB RM, CFOB FMAS |
+| <strong>Change Management</strong> | IITB CM&C | IITB IT Strategy |
+| <strong>Coordination & Mgt of FY 22/23 initiative</strong> | IITB IT Strategy | IITB Resource Centre (?) |
+
+_Note 1_: Potential link with [ESDC Directive on Benefits Management](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Directive%20on%20Benefits%20Management.pdf)
+
+_Note 2_: We seek one candidate funded with A-Base source and one candidate funded with B-Base source.
 
 ## Appendix B - Product Architectural Boundaries
 
@@ -277,11 +349,70 @@ These metrics are consumed by the Product Team, the Business Sponsor, and Govern
 - ***Technology Standards***, defined by the following attributes:
   - Unacceptable technical stacks ([in containment or retirement](https://dialogue/grp/CO7397744/Lists/Standards%20Catalogue/AllItems.aspx))
 
-## Appendix C - Leve of Autonomy
+## Appendix C - Level of Autonomy
+
+The level of autonomy is inspired by the [CFO's financial delegation authority](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32584) and [Heads of HR delegation](https://www.canada.ca/en/public-service-commission/services/appointment-framework/delegation-overview/appointment-delegation-accountability-instrument.html).
+
+The Senior ADM of the IT Branch is both the CIO and the Departmental Official Responsible for Cyber Security (DOCS). This person is accountable to [509 policy requirements](https://sara-sabr.github.io/ITStrategy/2021/06/02/stats-digial-policy-instruments.html). It is our hypothesis that, in order to have sufficient assurance that policy requirements are met, CIOs and DOCS require IM/IT changes to pass through their central corporate processes. And to further control these processes, IM/IT staff will be located under the CIO HR organization.
+
+A level of autonomy may be provided to product teams by delegating some authorities to them.
+As per the Financial and HR delegations, this is not a simple form to fill out.
+It requires training and can have real consequences of non compliance.
+
+...
 
 ## Appendix D - Product Framework Overview
 
+<div style="display: block; width: inherit; text-align: center; line-height: 3;">
+    <a href="/ITStrategy/assets/images/product-management-framework-overview.png" style="display: block">
+        <img src = "{{ site.baseurl }}/assets/images/product-management-framework-overview.png"
+        alt = "alt text here"
+        />
+    </a>
+    <small>Figure 5. Overview of the Proposed Product Management Framework</small>
+</div>
+
 ## Appendix E - Portfolio Management, a CFO's perspective
+
+Periodic funding is allocated to portfolios based on departmental priorities.
+Within the portfolio, budgets are distributed to products according to the portfolio's own priorities.
+
+<div style="display: block; width: inherit; text-align: center; line-height: 3;">
+    <a href="/ITStrategy/assets/images/product-management-cfo-perspective.png" style="display: block">
+        <img src = "{{ site.baseurl }}/assets/images/product-management-cfo-perspective.png"
+        alt = "alt text here"
+        />
+    </a>
+    <small>Figure 6. Funding and budget distribution within a portfolio</small>
+</div>
+
+## Appendix F - Terms and Definitions
+
+| Term     | Definition                             |
+| -------- | -------------------------------------- |
+| a11y     | Accessibility |
+| AIA      | [Algorithmic Impact Assessment](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/algorithmic-impact-assessment.html) |
+| APM      | [Application Portfolio Management](https://www.gcpedia.gc.ca/wiki/OCIO_Application_Portfolio_Management) |
+| BAAO     | Business Architecture Alignment Office |
+| BPMO     | Branch Project Management Office |
+| BRM      | Business Relations MAnagement |
+| CDO      | Chief Data Office                      |
+| CFOB     | Chief Financial Officer Branch |
+| DGPOC    | Director General Project Oversight Commitee |
+| EPMO     | Enterprise Project Management Office |
+| FMAS     | Financial Management and Advisory Services |
+| IITB     | Innovation and Information Technology Branch |
+| IPM      | Investment and Performance Management |
+| MPIB     | Major Project and Investment Board |
+| OPI      | Office of Primary Interest |
+| PIA      | Privacy Impact Assessment |
+| RM       | Resource Management |
+| SAR      | Statement of Acceptable Risk |
+| SAs      | Senior Advisors |
+| SoS      | Statement of Sensitivity |
+| TB       | Treasury Board |
+| TBS      | Treasury Board Secretariat |
+| TMB      | Transformation MAnagement Branch |
 
 ## Appendix F - Change Log
 
@@ -294,3 +425,4 @@ These metrics are consumed by the Product Team, the Business Sponsor, and Govern
 [^5]: See [this inventory]({{ site.baseurl }}/ITStrategy/ddd.html) of 38 known definitions from industry and government.
 [^6]: [MPIB](https://dialogue/grp/PEC-CEP/Committee%20Terms%20of%20Reference/MPIB%20-%20Major%20Projects%20and%20Investments%20Board%20(2).pdf) is a Tier 2 committee at ESDC chaired by the CFO.
 [^7]: cATOs are inspired by the [US Air Force's Platform One team](https://www.linkedin.com/feed/update/urn:li:share:6734861153765326848/), in the Chief Software Office. NIST and ITSG-33 do not have continuous types of controls. Will need to innovate while remaining in compliance.
+[^8]: Framework = a directive, a set of standards (e.g. report requirements), and a set of procedures
