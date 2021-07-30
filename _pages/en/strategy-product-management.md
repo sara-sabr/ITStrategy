@@ -50,7 +50,7 @@ To provide the ESDC with a new type of investment: ***Products***[^1].
 
 This to raise awareness and provide incentives to ESDC Programs that they need to seek sufficient funding for their digital operations (rooted in the [Policy on Results](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=31300))
 
-Phase 1 of the strategy is a 1.5 year Branch Initiative, salary based, to produce an MVP Framework[^2] and evaluate it against 2 product candidates.
+Phase 1 of the strategy is a 1.5-year Branch Initiative, salary based, to produce an MVP Framework[^2] and evaluate it against 2 product candidates.
 
 ### Expected Benefits
 
@@ -66,9 +66,9 @@ Once realized, we expect the following benefits to ESDC:
 ### Scope and Target Audience
 
 The scope of this strategy remains within the authorities of the department
-(e.g. we are not seeking to change Treasury Board (TB) procedures or laws).
+(e.g., we are not seeking to change Treasury Board (TB) procedures or laws).
 
-The main Target Audience for Phase 1 are the Chief Financial (CFO)[^3] and the Chief Information Officer (CIO)[^4] as the strategy seeks to make modifications in their respective domains.
+The main Target Audience for Phase 1 is the Chief Financial (CFO)[^3] and the Chief Information Officer (CIO)[^4] as the strategy seeks to make modifications in their respective domains.
 In addition, we are seeking contributions to teams involved in transformational change management for the greater awareness campaign.
 
 A complete list of the stakeholders are listed in [Appendix A](#appendix-a---list-of-phase-1-stakeholder).
@@ -79,13 +79,13 @@ We need to use two different levels for a product definition[^5]:
 
 ***Departmental Level***: An offering, tangible or intangible, delivered to a Canadian as part of ESDC’s Program mandate.
 
-(e.g. a licence, a benefit, a passport, a digital ID, a Grant, a Job Offering)
+(e.g., a licence, a benefit, a passport, a digital ID, a Grant, a Job Offering)
 
 _Note 1:_ Departmental products aligned to their [Program Alignement Architecture](https://www.canada.ca/en/employment-social-development/corporate/reports/departmental-plan/2018/supplementary-information.html#h2.2) and measured by their [departmental results framework](https://www.tbs-sct.gc.ca/ems-sgd/edb-bdd/index-eng.html#orgs/dept/128/infograph/results).
 
 ***CIO Level***: A software or hardware solution that is developed to improve a business capability (internal product) or improve a user experience (external product).
 
-(e.g. Job Bank, MySCA, Payment Management System)
+(e.g., Job Bank, MySCA, Payment Management System)
 
 _Note 1:_ A software solution is one or more Applications as defined by the [Application Portfolio Management (APM) Program](https://www.gcpedia.gc.ca/wiki/OCIO_Application_Portfolio_Management)).
 
@@ -94,9 +94,9 @@ _Note 2:_ A software solution has clear [Architectural Boundaries](#appendix-b--
 ## Why We Need This
 
 To meet [Policy on Results](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=31300) expectations, ESDC Programs require a Digital Infrastructure.
-This because Canadian expectation have changed, as codified in the new [Policy on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603).
+This because Canadian expectations have changed, as codified in the new [Policy on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603).
 
-Today, "Digital" is still considered an internal service in a departemental Program Alignment Architecture.
+Today, "Digital" is still considered an internal service in a departmental Program Alignment Architecture.
 This gap affects programs' ability to deliver and does not promote the needed _shared accountability_ between Program owners, the CIO, and the CFO.
 
 <div style="display: block; width: inherit; text-align: center; line-height: 3;">
@@ -109,13 +109,13 @@ This gap affects programs' ability to deliver and does not promote the needed _s
 </div>
 
 A departmental product's value stream expects to leverage a Digital Infrastructure, either for its internal staff or as a delivery method to Canadians.
-This Digital Infrastructure is no longer just a back-office, but the **face of government for Canadians**.
+This Digital Infrastructure is no longer just a back office, but the **face of government for Canadians**.
 
 There are a few problems with our current mode of operations:
 
 1. Program renewals do not include sufficient attention to the digital infrastructure it now needs to operate. Digital is not just an internal service offering. It's a _["reset of policy, delivery, and evaluation"](https://honeygolightly.medium.com/asking-the-ultimate-awkward-question-a26bbb34ec61)_.
-2. Programs demand for digital infrastructure keeps increasing while CIOs and CFOs keep needing to prioritize their limitted A-Base resources, affecting Business and IT synergies.
-3. This prioritization of limitted resources is heavily dependent on timely funding allocation from programs to sustain the digital products it offers. Our current funding model does not allow rapid release of funds and the methods used to manage them ([projects and programmes](https://www.pmi.org/learning/library/understanding-difference-programs-versus-projects-6896?__cf_chl_captcha_tk__=c1224dbd65e78643d0456484bd199d5a79d2fd17-1624902677-0-AaoN7yeCB_TMnxYLJPT1WdqhcPQHnA558DylEslgDF0QMgV8yrXMgxjkk4oi8L_jmtnaKvoLR-y0yhsAGsYcH8jybaxrKQ2u58x25fLy9Hd2ROZkNTtPyWENTJej55zeEsQezu1xv5pNDHX4sT_Om79UHlcU2fnbtT7UOz0cYyjqmm4JvY3be4TzHLSQJgg_-tKadLJMsmdNN0XCTOEOQ2iPk9-Jc4YBYUjJIHc29HmzWvsndV9jCv5Jsb4Fv_kJGsSCKjJEm04KVrIZH0yIKd6jSFyujKNr_st0mgTT-GuEDIA89Dw_e6lXXdjTEXpFhy7hYtmR8QWdGf5wH58lXy55UBJp3TMDqyAKxqiYGDU8o0mC2nP4BFrj1aw_jqKs_CqDaiOr7xJvHPjwRinZkt7HgvhRGHENKRXA-89kHHrqF85z6PyUWTiW45n1Sw7c01vQj8ynGmklzh3EIBzb9v03aUyekIHTsEUJRYrPjqRaJf0J3p_Cw-rvsD9OskoTl4gUTiimGrFkLXqNNsFW4SalNEYD34ulJRPpK0lw0WnrcoiPoJmfsUEeqNskUTiRsYU_ci1G9-e_wxgGnj7aAFrb9aIZmb_4NlCCobz0AQelgQMLNVDyKVqVtarvhcMONnKxtAtRr85d92lt41DMDxgnY3ehmj7-6eqbNby-fXXivXlps-doXKwszyD-baMgiws7TSVZiwHLvM6yLI6BJCVolbUVsS59r0MdXzHiBz-I3lw9rnhsLvWSv6JB4-ksBUOI3qWtdsNe5rPR99LMWs8)) [promotes risky behaviours](/2019/12/20/why-we-are-promoting-risks.html).
+2. Programs demand for digital infrastructure keeps increasing while CIOs and CFOs keep needing to prioritize their limited A-Base resources, affecting Business and IT synergies.
+3. This prioritization of limited resources is heavily dependent on timely funding allocation from programs to sustain the digital products it offers. Our current funding model does not allow rapid release of funds and the methods used to manage them ([projects and programmes](https://www.pmi.org/learning/library/understanding-difference-programs-versus-projects-6896?__cf_chl_captcha_tk__=c1224dbd65e78643d0456484bd199d5a79d2fd17-1624902677-0-AaoN7yeCB_TMnxYLJPT1WdqhcPQHnA558DylEslgDF0QMgV8yrXMgxjkk4oi8L_jmtnaKvoLR-y0yhsAGsYcH8jybaxrKQ2u58x25fLy9Hd2ROZkNTtPyWENTJej55zeEsQezu1xv5pNDHX4sT_Om79UHlcU2fnbtT7UOz0cYyjqmm4JvY3be4TzHLSQJgg_-tKadLJMsmdNN0XCTOEOQ2iPk9-Jc4YBYUjJIHc29HmzWvsndV9jCv5Jsb4Fv_kJGsSCKjJEm04KVrIZH0yIKd6jSFyujKNr_st0mgTT-GuEDIA89Dw_e6lXXdjTEXpFhy7hYtmR8QWdGf5wH58lXy55UBJp3TMDqyAKxqiYGDU8o0mC2nP4BFrj1aw_jqKs_CqDaiOr7xJvHPjwRinZkt7HgvhRGHENKRXA-89kHHrqF85z6PyUWTiW45n1Sw7c01vQj8ynGmklzh3EIBzb9v03aUyekIHTsEUJRYrPjqRaJf0J3p_Cw-rvsD9OskoTl4gUTiimGrFkLXqNNsFW4SalNEYD34ulJRPpK0lw0WnrcoiPoJmfsUEeqNskUTiRsYU_ci1G9-e_wxgGnj7aAFrb9aIZmb_4NlCCobz0AQelgQMLNVDyKVqVtarvhcMONnKxtAtRr85d92lt41DMDxgnY3ehmj7-6eqbNby-fXXivXlps-doXKwszyD-baMgiws7TSVZiwHLvM6yLI6BJCVolbUVsS59r0MdXzHiBz-I3lw9rnhsLvWSv6JB4-ksBUOI3qWtdsNe5rPR99LMWs8)) [promotes risky behaviours](/2019/12/20/why-we-are-promoting-risks.html).
 
 The [Policy on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603) requires _ALL ESDC SERVICES_ to continuously be improved.
 
@@ -182,16 +182,16 @@ We seek to add a new method: Products.
 </tr>
 </table>
 
-This new Product investment type is to give _sufficient incentive_ to Programs in incorporating digital as part of their periodic funding envelop review.
+This new Product investment type is to give _sufficient incentive_ to Programs in incorporating digital as part of their periodic funding envelope review.
 The incentive offers more autonomy to operate as long as a Product Team can provide [sufficient assurances to Governance](#key-metrics-to-provide-assurances).
 
-_Note 1:_ Programmes are typically used when there's a [level of ambiguity to manage](https://www.pmi.org/learning/library/understanding-difference-programs-versus-projects-6896?__cf_chl_captcha_tk__=c1224dbd65e78643d0456484bd199d5a79d2fd17-1624902677-0-AaoN7yeCB_TMnxYLJPT1WdqhcPQHnA558DylEslgDF0QMgV8yrXMgxjkk4oi8L_jmtnaKvoLR-y0yhsAGsYcH8jybaxrKQ2u58x25fLy9Hd2ROZkNTtPyWENTJej55zeEsQezu1xv5pNDHX4sT_Om79UHlcU2fnbtT7UOz0cYyjqmm4JvY3be4TzHLSQJgg_-tKadLJMsmdNN0XCTOEOQ2iPk9-Jc4YBYUjJIHc29HmzWvsndV9jCv5Jsb4Fv_kJGsSCKjJEm04KVrIZH0yIKd6jSFyujKNr_st0mgTT-GuEDIA89Dw_e6lXXdjTEXpFhy7hYtmR8QWdGf5wH58lXy55UBJp3TMDqyAKxqiYGDU8o0mC2nP4BFrj1aw_jqKs_CqDaiOr7xJvHPjwRinZkt7HgvhRGHENKRXA-89kHHrqF85z6PyUWTiW45n1Sw7c01vQj8ynGmklzh3EIBzb9v03aUyekIHTsEUJRYrPjqRaJf0J3p_Cw-rvsD9OskoTl4gUTiimGrFkLXqNNsFW4SalNEYD34ulJRPpK0lw0WnrcoiPoJmfsUEeqNskUTiRsYU_ci1G9-e_wxgGnj7aAFrb9aIZmb_4NlCCobz0AQelgQMLNVDyKVqVtarvhcMONnKxtAtRr85d92lt41DMDxgnY3ehmj7-6eqbNby-fXXivXlps-doXKwszyD-baMgiws7TSVZiwHLvM6yLI6BJCVolbUVsS59r0MdXzHiBz-I3lw9rnhsLvWSv6JB4-ksBUOI3qWtdsNe5rPR99LMWs8). However, the lag in establishing a programme inhibits the rapid cadence that continuous improvement of a product seeks, especially on the User Experience side. When a product is used, data is generated which can be analyzed to inform continuous improvement activities. User Feedback is obtained and actioned. The improvement are often small enough that the effort to go through establishing a programme do not warrant it.
+_Note 1:_ Programmes are typically used when there's a [level of ambiguity to manage](https://www.pmi.org/learning/library/understanding-difference-programs-versus-projects-6896?__cf_chl_captcha_tk__=c1224dbd65e78643d0456484bd199d5a79d2fd17-1624902677-0-AaoN7yeCB_TMnxYLJPT1WdqhcPQHnA558DylEslgDF0QMgV8yrXMgxjkk4oi8L_jmtnaKvoLR-y0yhsAGsYcH8jybaxrKQ2u58x25fLy9Hd2ROZkNTtPyWENTJej55zeEsQezu1xv5pNDHX4sT_Om79UHlcU2fnbtT7UOz0cYyjqmm4JvY3be4TzHLSQJgg_-tKadLJMsmdNN0XCTOEOQ2iPk9-Jc4YBYUjJIHc29HmzWvsndV9jCv5Jsb4Fv_kJGsSCKjJEm04KVrIZH0yIKd6jSFyujKNr_st0mgTT-GuEDIA89Dw_e6lXXdjTEXpFhy7hYtmR8QWdGf5wH58lXy55UBJp3TMDqyAKxqiYGDU8o0mC2nP4BFrj1aw_jqKs_CqDaiOr7xJvHPjwRinZkt7HgvhRGHENKRXA-89kHHrqF85z6PyUWTiW45n1Sw7c01vQj8ynGmklzh3EIBzb9v03aUyekIHTsEUJRYrPjqRaJf0J3p_Cw-rvsD9OskoTl4gUTiimGrFkLXqNNsFW4SalNEYD34ulJRPpK0lw0WnrcoiPoJmfsUEeqNskUTiRsYU_ci1G9-e_wxgGnj7aAFrb9aIZmb_4NlCCobz0AQelgQMLNVDyKVqVtarvhcMONnKxtAtRr85d92lt41DMDxgnY3ehmj7-6eqbNby-fXXivXlps-doXKwszyD-baMgiws7TSVZiwHLvM6yLI6BJCVolbUVsS59r0MdXzHiBz-I3lw9rnhsLvWSv6JB4-ksBUOI3qWtdsNe5rPR99LMWs8). However, the lag in establishing a programme inhibits the rapid cadence that continuous improvement of a product seeks, especially on the User Experience side. When a product is used, data is generated which can be analyzed to inform continuous improvement activities. User Feedback is obtained and actioned. The improvements are often small enough that the effort to go through establishing a programme does not warrant it.
 
-_Note 2:_ Projectizing establishes a project team which is dispanded at the end of the project. The team members that obtained valuable corporate and product information move on to other activities. Even moving between Proofs of  Concepts, then Pilots, then Projects do not guarantee the same team members working on problems. This affects empathy to the end-users, productivity, happiness, and ultimately pace of delivery. It is what psychologist Bruce Tuckman coined the [forming, storming, norming, and performing lifecycle](https://www.mindtools.com/pages/article/newLDR_86.htm). The product-type investment method focuses on the people being part of the value stream and seeks to maintain their cohesiveness.
+_Note 2:_ Projectizing establishes a project team which is disbanded at the end of the project. The team members that obtained valuable corporate and product information move on to other activities. Even moving between Proofs of  Concepts, then Pilots, then Projects do not guarantee the same team members working on problems. This affects empathy to the end users, productivity, happiness, and ultimately pace of delivery. It is what psychologist Bruce Tuckman coined the [forming, storming, norming, and performing lifecycle](https://www.mindtools.com/pages/article/newLDR_86.htm). The product-type investment method focuses on the people being part of the value stream and seeks to maintain their cohesiveness.
 
-_Note 3:_ The department accepts to prioritize a product over a multi-year horizon by granting funding over more than one year. Teams do not have to go through committees year over year to re-seek prioritization and funding therefore releasing internal capacity towards more meaningful work. There is an exit path for ESDC to still re-allocate funding elsewhere should priorities change without loosing its investment.
+_Note 3:_ The department accepts to prioritize a product over a multi-year horizon by granting funding over more than one year. Teams do not have to go through committees year over year to re-seek prioritization and funding therefore releasing internal capacity towards more meaningful work. There is an exit path for ESDC to still reallocate funding elsewhere should priorities change without losing its investment.
 
-_Note 4:_ The Product investment type expects rapid cadence of delivery to end-users. Planning stages do not last more than a few weeks so that changes in business operations (e.g. software release) are typically provided at least once per quarter.
+_Note 4:_ The Product investment type expects rapid cadence of delivery to end users. Planning stages do not last more than a few weeks so that changes in business operations (e.g., software release) are typically provided at least once per quarter.
 
 ## Conceptual Product Management Framework
 
@@ -203,7 +203,7 @@ A product managed as such do not need to seek yearly funding and priority approv
 
 1. A Line of Business (LOB) ADM presents a Business Case (the [Product's Roadmap](#product-roadmap-as-the-investment-plan)).
    - This Business Case is _NOT_ your typical Business Case used to fund a project.
-2. The LOB ADM, CIO, and CFO get into a Memorandum Of Unserstanding (MOU) by identifying:
+2. The LOB ADM, CIO, and CFO get into a Memorandum of Understanding (MOU) by identifying:
    - source(s) of funds
    - level of autonomy (See appendix XXX)
    - expected budget
@@ -231,7 +231,7 @@ Business Outcomes are mini-business cases (typically 1 pager) and the definition
 Business Outcome deliveries also act as decision gates in the investment plan.
 
 The blanket approval over the time horizon gives the product's value stream stability.
-However, funding may be augmented based on the desired Business Outcome in the roadmap, at which point departmental governance needs to be engated.
+However, funding may be augmented based on the desired Business Outcome in the roadmap, at which point departmental governance needs to be engaged.
 This funding is not based on historical spending levels but on future need.
 
 The Roadmap **can and will be reprioritized**.
@@ -239,9 +239,9 @@ New business outcomes may be added or shifted on its timeline due to experience 
 
 The Roadmap is **reality** for the product team.
 Parallel projects feed the Product Roadmap's backlog and their schedules are expected to be adjusted based on the changes in the product's roadmap.
-This because it is unrealistic for a product team to manage multiple commitments (e.g. Windows server upgrade, WLM, Accessibility Compliance Project, Technical Debt Programme, one or two Business Enhancements, Benefits Delivery Modernization, etc.).
+This because it is unrealistic for a product team to manage multiple commitments (e.g., Windows server upgrade, WLM, Accessibility Compliance Project, Technical Debt Programme, one or two Business Enhancements, Benefits Delivery Modernization, etc.).
 Instead, those commitments are part of the Product's backlog and will be dealt with as part of the Product's roadmap.
-Should reality change (e.g. new priority affecting a product's roadmap horizon), parallel projects absorb the change and adjust their schedules accordingly.
+Should reality change (e.g., new priority affecting a product's roadmap horizon), parallel projects absorb the change and adjust their schedules accordingly.
 Should those projects be sources of funds for a product, they are provided only when the Product business outcome plan includes requirements of such projects.
 
 _Note 1:_ It is expected that business outcomes are provided in short cadence (typically at least once per quarter). This so that the product-type investment is not held in a planning stage for too long and allows course correction within the time horizon.
@@ -258,10 +258,10 @@ In a product-type investment, governance changes from an entity where one goes t
 A product team has blanket authority to do work while providing departmental governance with information on their progress.
 
 Achieving a Business Outcome may not be a straight path.
-Product freatures are hypothesis that must be validated before we can claim victory.
+Product features are hypotheses that must be validated before we can claim victory.
 This may include a series of A/B testing, experiments, Proof of Concepts, using Analytics to interpret data and informing the next iteration of a product.
 
-In a project-type investment, a schedule is the assurance provided to governance on progress because the planning phase a a project sought certainty before execution can start.
+In a project-type investment, a schedule is the assurance provided to governance on progress because the planning phase a project sought certainty before execution can start.
 In a product-type investment, these three key metrics are the assurance.
 
 The Product Team is expected to produce the following three sets of key metrics.
@@ -276,24 +276,24 @@ These metrics are consumed by the Product Team, the Business Sponsor, and Govern
     <small>Figure 3. Three key metrics that Governance will use to measure progress.</small>
 </div>
 
-1. **Health Diagnostic** metrics are provided to address potential velocity issues (e.g. creeping technical debt, lack of personnel, conflict between teams affecting moral).
+1. **Health Diagnostic** metrics are provided to address potential velocity issues (e.g., creeping technical debt, lack of personnel, conflict between teams affecting moral).
 2. **Workload distribution** that provides transparency. There are four types of work:
    1. _Features_: What end-users see. A new function or ability.
    2. _Defects_: What end-users see. A broken function or ability.
-   3. _Risks_: What end-users DO NOT see. A compliance gap (e.g. cyber security, a11y).
-   4. _Debt_: What end-users DO NOT see. A technical, process, or people debt (e.g. architecture refactoring, new API, investment in automation)
+   3. _Risks_: What end users DO NOT see. A compliance gap (e.g., cyber security, a11y).
+   4. _Debt_: What end users DO NOT see. A technical, process, or people debt (e.g., architecture refactoring, new API, investment in automation)
 3. **Business Results** is what the organization ultimately cares about. In the commercial world, it would be tied to profit. But in the public sector world, it is tied to a Program's mandate and [expected result](https://www.tbs-sct.gc.ca/ems-sgd/edb-bdd/index-eng.html#orgs/dept/128/infograph/results). The IT Branch can report on costs spent on the product as well as its [APM Assessment](https://www.gcpedia.gc.ca/wiki/OCIO_Application_Portfolio_Management). But ultimately, this metric is a business one and Program Owners are encouraged to partner with the CDO and the BAAO to help define them.
 
-In Figure 3, we can see that the workload distribution over a 12 month period shifted from focusing on new features, to fixing defects and addressing compliance risks, to remediating technical debt.
+In Figure 3, we can see that the workload distribution over a 12-month period shifted from focusing on new features, to fixing defects and addressing compliance risks, to remediating technical debt.
 
-In a produt-type investment, the **Product team decides** this workload distribution.
+In a product-type investment, the **Product team decides** this workload distribution.
 Greater departmental governance _may_ intervene if necessary but the Product team uses its blanket authority to decide how best to distribute workload.
 
 ## Phase 1 - Defining and Evaluating the Framework
 
 ### Approach
 
-The strategey's approach in implementing product management in the department is to iterate on the framework[^8] by periodically evaluating it with product candidates.
+The strategy's approach in implementing product management in the department is to iterate on the framework[^8] by periodically evaluating it with product candidates.
 
 These evaluations will inform the framework's next iteration by providing it with empirical evidence of what works and doesn't work.
 
@@ -357,7 +357,7 @@ The Senior ADM of the IT Branch is both the CIO and the Departmental Official Re
 
 A level of autonomy may be provided to product teams by delegating some authorities to them.
 As per the Financial and HR delegations, this is not a simple form to fill out.
-It requires training and can have real consequences of non compliance.
+It requires training and can have real consequences of non-compliance.
 
 ...
 
@@ -395,7 +395,7 @@ Within the portfolio, budgets are distributed to products according to the portf
 | APM      | [Application Portfolio Management](https://www.gcpedia.gc.ca/wiki/OCIO_Application_Portfolio_Management) |
 | BAAO     | Business Architecture Alignment Office |
 | BPMO     | Branch Project Management Office |
-| BRM      | Business Relations MAnagement |
+| BRM      | Business Relations Management |
 | CDO      | Chief Data Office                      |
 | CFOB     | Chief Financial Officer Branch |
 | DGPOC    | Director General Project Oversight Commitee |
@@ -412,17 +412,17 @@ Within the portfolio, budgets are distributed to products according to the portf
 | SoS      | Statement of Sensitivity |
 | TB       | Treasury Board |
 | TBS      | Treasury Board Secretariat |
-| TMB      | Transformation MAnagement Branch |
+| TMB      | Transformation Management Branch |
 
 ## Appendix F - Change Log
 
 ## Notes
 
 [^1]: ESDC currently recognizes 3 types of investment: assets, acquired services, and projects (see [ESDC's Guide to building a Business Case](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Guide%20to%20Building%20a%20Business%20Case.pdf))
-[^2]: Framework = a directive, a set of standards (e.g. reporting), and a set of procedures (e.g. manoeuvring governance)
+[^2]: Framework = a directive, a set of standards (e.g., reporting), and a set of procedures (e.g., manoeuvring governance)
 [^3]: The main areas of the CFO's domain expertise are Enterprise Project Management, Financial Management, and Investment Performance Management.
 [^4]: The main areas of the CIO's domain expertise are Project Managament Office, Release Management (and ITSM), IT Security, and Enterprise Architecture.
 [^5]: See [this inventory]({{ site.baseurl }}/ITStrategy/ddd.html) of 38 known definitions from industry and government.
 [^6]: [MPIB](https://dialogue/grp/PEC-CEP/Committee%20Terms%20of%20Reference/MPIB%20-%20Major%20Projects%20and%20Investments%20Board%20(2).pdf) is a Tier 2 committee at ESDC chaired by the CFO.
 [^7]: cATOs are inspired by the [US Air Force's Platform One team](https://www.linkedin.com/feed/update/urn:li:share:6734861153765326848/), in the Chief Software Office. NIST and ITSG-33 do not have continuous types of controls. Will need to innovate while remaining in compliance.
-[^8]: Framework = a directive, a set of standards (e.g. report requirements), and a set of procedures
+[^8]: Framework = a directive, a set of standards (e.g., report requirements), and a set of procedures
