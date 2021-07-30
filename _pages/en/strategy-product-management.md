@@ -34,11 +34,11 @@ _Note: This page will link to internal ESDC and Government of Canada (GC) Networ
 - [Phase 1 - Defining and Evaluating the Framework](#phase-1---defining-and-evaluating-the-framework)
   - [Approach](#approach)
   - [Workstreams](#workstreams)
-- [Appendix B - Product Architectural Boundaries](#appendix-b---product-architectural-boundaries)
-- [Appendix C - Level of Autonomy](#appendix-c---level-of-autonomy)
-- [Appendix D - Product Framework Overview](#appendix-d---product-framework-overview)
-- [Appendix E - Portfolio Management, a CFO's perspective](#appendix-e---portfolio-management-a-cfos-perspective)
-- [Appendix F - Terms and Definitions](#appendix-f---terms-and-definitions)
+- [Appendix A - Product Architectural Boundaries](#appendix-a---product-architectural-boundaries)
+- [Appendix B - Level of Autonomy](#appendix-b---level-of-autonomy)
+- [Appendix C - Product Framework Overview](#appendix-c---product-framework-overview)
+- [Appendix D - Portfolio Management, a CFO's perspective](#appendix-d---portfolio-management-a-cfos-perspective)
+- [Appendix E - Terms and Definitions](#appendix-e---terms-and-definitions)
 - [Appendix F - Change Log](#appendix-f---change-log)
 - [Notes](#notes)
 
@@ -71,7 +71,7 @@ The scope of this strategy remains within the authorities of the department
 The main Target Audience for Phase 1 are the Chief Financial (CFO)[^3] and the Chief Information Officer (CIO)[^4] as the strategy seeks to make modifications in their respective domains.
 In addition, we are seeking contributions to teams involved in transformational change management for the greater awareness campaign.
 
-A complete list of the stakeholders are listed in [Appendix A](#appendix-a---list-of-phase-1-stakeholder).
+A complete list of the stakeholders are listed [here](#workstreams).
 
 ## Definition of Product
 
@@ -89,14 +89,14 @@ _Note 1:_ Departmental products aligned to their [Program Alignement Architectur
 
 _Note 1:_ A software solution is one or more Applications as defined by the [Application Portfolio Management (APM) Program](https://www.gcpedia.gc.ca/wiki/OCIO_Application_Portfolio_Management)).
 
-_Note 2:_ A software solution has clear [Architectural Boundaries](#appendix-b---product-architectural-boundaries).
+_Note 2:_ A software solution has clear [Architectural Boundaries](#appendix-a---product-architectural-boundaries).
 
 ## Why We Need This
 
 To meet [Policy on Results](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=31300) expectations, ESDC Programs require a Digital Infrastructure.
 This because Canadian expectation have changed, as codified in the new [Policy on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603).
 
-Today, "Digital" is still considered an internal service in a departemental Program Alignment Architecture.
+Today, "Digital" is still considered an internal service in a departmental Program Alignment Architecture.
 This gap affects programs' ability to deliver and does not promote the needed _shared accountability_ between Program owners, the CIO, and the CFO.
 
 <div style="display: block; width: inherit; text-align: center; line-height: 3;">
@@ -114,8 +114,8 @@ This Digital Infrastructure is no longer just a back-office, but the **face of g
 There are a few problems with our current mode of operations:
 
 1. Program renewals do not include sufficient attention to the digital infrastructure it now needs to operate. Digital is not just an internal service offering. It's a _["reset of policy, delivery, and evaluation"](https://honeygolightly.medium.com/asking-the-ultimate-awkward-question-a26bbb34ec61)_.
-2. Programs demand for digital infrastructure keeps increasing while CIOs and CFOs keep needing to prioritize their limitted A-Base resources, affecting Business and IT synergies.
-3. This prioritization of limitted resources is heavily dependent on timely funding allocation from programs to sustain the digital products it offers. Our current funding model does not allow rapid release of funds and the methods used to manage them ([projects and programmes](https://www.pmi.org/learning/library/understanding-difference-programs-versus-projects-6896?__cf_chl_captcha_tk__=c1224dbd65e78643d0456484bd199d5a79d2fd17-1624902677-0-AaoN7yeCB_TMnxYLJPT1WdqhcPQHnA558DylEslgDF0QMgV8yrXMgxjkk4oi8L_jmtnaKvoLR-y0yhsAGsYcH8jybaxrKQ2u58x25fLy9Hd2ROZkNTtPyWENTJej55zeEsQezu1xv5pNDHX4sT_Om79UHlcU2fnbtT7UOz0cYyjqmm4JvY3be4TzHLSQJgg_-tKadLJMsmdNN0XCTOEOQ2iPk9-Jc4YBYUjJIHc29HmzWvsndV9jCv5Jsb4Fv_kJGsSCKjJEm04KVrIZH0yIKd6jSFyujKNr_st0mgTT-GuEDIA89Dw_e6lXXdjTEXpFhy7hYtmR8QWdGf5wH58lXy55UBJp3TMDqyAKxqiYGDU8o0mC2nP4BFrj1aw_jqKs_CqDaiOr7xJvHPjwRinZkt7HgvhRGHENKRXA-89kHHrqF85z6PyUWTiW45n1Sw7c01vQj8ynGmklzh3EIBzb9v03aUyekIHTsEUJRYrPjqRaJf0J3p_Cw-rvsD9OskoTl4gUTiimGrFkLXqNNsFW4SalNEYD34ulJRPpK0lw0WnrcoiPoJmfsUEeqNskUTiRsYU_ci1G9-e_wxgGnj7aAFrb9aIZmb_4NlCCobz0AQelgQMLNVDyKVqVtarvhcMONnKxtAtRr85d92lt41DMDxgnY3ehmj7-6eqbNby-fXXivXlps-doXKwszyD-baMgiws7TSVZiwHLvM6yLI6BJCVolbUVsS59r0MdXzHiBz-I3lw9rnhsLvWSv6JB4-ksBUOI3qWtdsNe5rPR99LMWs8)) [promotes risky behaviours](/2019/12/20/why-we-are-promoting-risks.html).
+2. Programs demand for digital infrastructure keeps increasing while CIOs and CFOs keep needing to prioritize their limited A-Base resources, affecting Business and IT synergies.
+3. This prioritization of limited resources is heavily dependent on timely funding allocation from programs to sustain the digital products it offers. Our current funding model does not allow rapid release of funds and the methods used to manage them ([projects and programmes](https://www.pmi.org/learning/library/understanding-difference-programs-versus-projects-6896?__cf_chl_captcha_tk__=c1224dbd65e78643d0456484bd199d5a79d2fd17-1624902677-0-AaoN7yeCB_TMnxYLJPT1WdqhcPQHnA558DylEslgDF0QMgV8yrXMgxjkk4oi8L_jmtnaKvoLR-y0yhsAGsYcH8jybaxrKQ2u58x25fLy9Hd2ROZkNTtPyWENTJej55zeEsQezu1xv5pNDHX4sT_Om79UHlcU2fnbtT7UOz0cYyjqmm4JvY3be4TzHLSQJgg_-tKadLJMsmdNN0XCTOEOQ2iPk9-Jc4YBYUjJIHc29HmzWvsndV9jCv5Jsb4Fv_kJGsSCKjJEm04KVrIZH0yIKd6jSFyujKNr_st0mgTT-GuEDIA89Dw_e6lXXdjTEXpFhy7hYtmR8QWdGf5wH58lXy55UBJp3TMDqyAKxqiYGDU8o0mC2nP4BFrj1aw_jqKs_CqDaiOr7xJvHPjwRinZkt7HgvhRGHENKRXA-89kHHrqF85z6PyUWTiW45n1Sw7c01vQj8ynGmklzh3EIBzb9v03aUyekIHTsEUJRYrPjqRaJf0J3p_Cw-rvsD9OskoTl4gUTiimGrFkLXqNNsFW4SalNEYD34ulJRPpK0lw0WnrcoiPoJmfsUEeqNskUTiRsYU_ci1G9-e_wxgGnj7aAFrb9aIZmb_4NlCCobz0AQelgQMLNVDyKVqVtarvhcMONnKxtAtRr85d92lt41DMDxgnY3ehmj7-6eqbNby-fXXivXlps-doXKwszyD-baMgiws7TSVZiwHLvM6yLI6BJCVolbUVsS59r0MdXzHiBz-I3lw9rnhsLvWSv6JB4-ksBUOI3qWtdsNe5rPR99LMWs8)) [promotes risky behaviours](/2019/12/20/why-we-are-promoting-risks.html).
 
 The [Policy on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603) requires _ALL ESDC SERVICES_ to continuously be improved.
 
@@ -187,7 +187,7 @@ The incentive offers more autonomy to operate as long as a Product Team can prov
 
 _Note 1:_ Programmes are typically used when there's a [level of ambiguity to manage](https://www.pmi.org/learning/library/understanding-difference-programs-versus-projects-6896?__cf_chl_captcha_tk__=c1224dbd65e78643d0456484bd199d5a79d2fd17-1624902677-0-AaoN7yeCB_TMnxYLJPT1WdqhcPQHnA558DylEslgDF0QMgV8yrXMgxjkk4oi8L_jmtnaKvoLR-y0yhsAGsYcH8jybaxrKQ2u58x25fLy9Hd2ROZkNTtPyWENTJej55zeEsQezu1xv5pNDHX4sT_Om79UHlcU2fnbtT7UOz0cYyjqmm4JvY3be4TzHLSQJgg_-tKadLJMsmdNN0XCTOEOQ2iPk9-Jc4YBYUjJIHc29HmzWvsndV9jCv5Jsb4Fv_kJGsSCKjJEm04KVrIZH0yIKd6jSFyujKNr_st0mgTT-GuEDIA89Dw_e6lXXdjTEXpFhy7hYtmR8QWdGf5wH58lXy55UBJp3TMDqyAKxqiYGDU8o0mC2nP4BFrj1aw_jqKs_CqDaiOr7xJvHPjwRinZkt7HgvhRGHENKRXA-89kHHrqF85z6PyUWTiW45n1Sw7c01vQj8ynGmklzh3EIBzb9v03aUyekIHTsEUJRYrPjqRaJf0J3p_Cw-rvsD9OskoTl4gUTiimGrFkLXqNNsFW4SalNEYD34ulJRPpK0lw0WnrcoiPoJmfsUEeqNskUTiRsYU_ci1G9-e_wxgGnj7aAFrb9aIZmb_4NlCCobz0AQelgQMLNVDyKVqVtarvhcMONnKxtAtRr85d92lt41DMDxgnY3ehmj7-6eqbNby-fXXivXlps-doXKwszyD-baMgiws7TSVZiwHLvM6yLI6BJCVolbUVsS59r0MdXzHiBz-I3lw9rnhsLvWSv6JB4-ksBUOI3qWtdsNe5rPR99LMWs8). However, the lag in establishing a programme inhibits the rapid cadence that continuous improvement of a product seeks, especially on the User Experience side. When a product is used, data is generated which can be analyzed to inform continuous improvement activities. User Feedback is obtained and actioned. The improvement are often small enough that the effort to go through establishing a programme do not warrant it.
 
-_Note 2:_ Projectizing establishes a project team which is dispanded at the end of the project. The team members that obtained valuable corporate and product information move on to other activities. Even moving between Proofs of  Concepts, then Pilots, then Projects do not guarantee the same team members working on problems. This affects empathy to the end-users, productivity, happiness, and ultimately pace of delivery. It is what psychologist Bruce Tuckman coined the [forming, storming, norming, and performing lifecycle](https://www.mindtools.com/pages/article/newLDR_86.htm). The product-type investment method focuses on the people being part of the value stream and seeks to maintain their cohesiveness.
+_Note 2:_ Projectizing establishes a project team which is disbanded at the end of the project. The team members that obtained valuable corporate and product information move on to other activities. Even moving between Proofs of  Concepts, then Pilots, then Projects do not guarantee the same team members working on problems. This affects empathy to the end-users, productivity, happiness, and ultimately pace of delivery. It is what psychologist Bruce Tuckman coined the [forming, storming, norming, and performing lifecycle](https://www.mindtools.com/pages/article/newLDR_86.htm). The product-type investment method focuses on the people being part of the value stream and seeks to maintain their cohesiveness.
 
 _Note 3:_ The department accepts to prioritize a product over a multi-year horizon by granting funding over more than one year. Teams do not have to go through committees year over year to re-seek prioritization and funding therefore releasing internal capacity towards more meaningful work. There is an exit path for ESDC to still re-allocate funding elsewhere should priorities change without loosing its investment.
 
@@ -203,12 +203,12 @@ A product managed as such do not need to seek yearly funding and priority approv
 
 1. A Line of Business (LOB) ADM presents a Business Case (the [Product's Roadmap](#product-roadmap-as-the-investment-plan)).
    - This Business Case is _NOT_ your typical Business Case used to fund a project.
-2. The LOB ADM, CIO, and CFO get into a Memorandum Of Unserstanding (MOU) by identifying:
+2. The LOB ADM, CIO, and CFO get into a Memorandum Of Understanding (MOU) by identifying:
    - source(s) of funds
-   - level of autonomy (See appendix XXX)
+   - [level of autonomy](#appendix-c---level-of-autonomy)
    - expected budget
-   - the Product's Architectural Boundaries (see appendix YYY)
-   - the Product's Value Stream (see appendix ZZZ)
+   - the [Product's Architectural Boundaries](#appendix-a---product-architectural-boundaries)
+   - the Product's Value Stream
    - the Product's internal governance structure
    - the time horizon sought for the blanket approval of priority and funding (in years)
 3. The Major Projects and Investment Board (MPIB)[^6] oversees investment arrangements and progress reporting
@@ -231,10 +231,10 @@ Business Outcomes are mini-business cases (typically 1 pager) and the definition
 Business Outcome deliveries also act as decision gates in the investment plan.
 
 The blanket approval over the time horizon gives the product's value stream stability.
-However, funding may be augmented based on the desired Business Outcome in the roadmap, at which point departmental governance needs to be engated.
+However, funding may be augmented based on the desired Business Outcome in the roadmap, at which point departmental governance needs to be engaged.
 This funding is not based on historical spending levels but on future need.
 
-The Roadmap **can and will be reprioritized**.
+The Roadmap **can and will be re-prioritized**.
 New business outcomes may be added or shifted on its timeline due to experience gained with the product and to changes in departmental or portfolio priorities.
 
 The Roadmap is **reality** for the product team.
@@ -258,7 +258,7 @@ In a product-type investment, governance changes from an entity where one goes t
 A product team has blanket authority to do work while providing departmental governance with information on their progress.
 
 Achieving a Business Outcome may not be a straight path.
-Product freatures are hypothesis that must be validated before we can claim victory.
+Product features are hypothesis that must be validated before we can claim victory.
 This may include a series of A/B testing, experiments, Proof of Concepts, using Analytics to interpret data and informing the next iteration of a product.
 
 In a project-type investment, a schedule is the assurance provided to governance on progress because the planning phase a a project sought certainty before execution can start.
@@ -286,14 +286,14 @@ These metrics are consumed by the Product Team, the Business Sponsor, and Govern
 
 In Figure 3, we can see that the workload distribution over a 12 month period shifted from focusing on new features, to fixing defects and addressing compliance risks, to remediating technical debt.
 
-In a produt-type investment, the **Product team decides** this workload distribution.
+In a product-type investment, the **Product team decides** this workload distribution.
 Greater departmental governance _may_ intervene if necessary but the Product team uses its blanket authority to decide how best to distribute workload.
 
 ## Phase 1 - Defining and Evaluating the Framework
 
 ### Approach
 
-The strategey's approach in implementing product management in the department is to iterate on the framework[^8] by periodically evaluating it with product candidates.
+The strategy's approach in implementing product management in the department is to iterate on the framework[^8] by periodically evaluating it with product candidates.
 
 These evaluations will inform the framework's next iteration by providing it with empirical evidence of what works and doesn't work.
 
@@ -330,7 +330,7 @@ The following workstreams will be worked on during Phase 1, each with their own 
 | <strong>Financial Management</strong> | IITB RM | IITB BPMO, CFOB FMAS |
 | <strong>People Management</strong> | IITB HR | IITB RM, IITB SAs |
 | <strong>Governance</strong> | IITB IT Strategy + CFOB EPMO | IITB BPMO, OCIO (Gov), IITB EA, IITB IM, IT Security (ATOs), IITB CM (Release Mgt) |
-| <strong>Outcome Measurement</strong> | CFOP IPM (Note 1) | SSPB CDO (?), TMB BAAO (?) |
+| <strong>Outcome Measurement</strong> | CFOB IPM (Note 1) | SSPB CDO (?), TMB BAAO (?) |
 | <strong>Portfolio Management</strong> | IITB BPMO | IITB BRM, IITB RM, CFOB FMAS |
 | <strong>Change Management</strong> | IITB CM&C | IITB IT Strategy |
 | <strong>Coordination & Mgt of FY 22/23 initiative</strong> | IITB IT Strategy | IITB Resource Centre (?) |
@@ -339,7 +339,7 @@ _Note 1_: Potential link with [ESDC Directive on Benefits Management](https://gp
 
 _Note 2_: We seek one candidate funded with A-Base source and one candidate funded with B-Base source.
 
-## Appendix B - Product Architectural Boundaries
+## Appendix A - Product Architectural Boundaries
 
 - ***Business Alignment***, to the [Business Capability Model](https://dialogue/grp/EA-AE/SitePages/DBCM.aspx).
 - ***Information Profile***, defined by the following attributes:
@@ -349,11 +349,11 @@ _Note 2_: We seek one candidate funded with A-Base source and one candidate fund
 - ***Technology Standards***, defined by the following attributes:
   - Unacceptable technical stacks ([in containment or retirement](https://dialogue/grp/CO7397744/Lists/Standards%20Catalogue/AllItems.aspx))
 
-## Appendix C - Level of Autonomy
+## Appendix B - Level of Autonomy
 
 The level of autonomy is inspired by the [CFO's financial delegation authority](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32584) and [Heads of HR delegation](https://www.canada.ca/en/public-service-commission/services/appointment-framework/delegation-overview/appointment-delegation-accountability-instrument.html).
 
-The Senior ADM of the IT Branch is both the CIO and the Departmental Official Responsible for Cyber Security (DOCS). This person is accountable to [509 policy requirements](https://sara-sabr.github.io/ITStrategy/2021/06/02/stats-digial-policy-instruments.html). It is our hypothesis that, in order to have sufficient assurance that policy requirements are met, CIOs and DOCS require IM/IT changes to pass through their central corporate processes. And to further control these processes, IM/IT staff will be located under the CIO HR organization.
+The Senior ADM of the IT Branch is both the CIO and the Departmental Official Responsible for Cyber Security (DOCS). This person is accountable to [509 policy requirements](https://sara-sabr.github.io/ITStrategy/2021/06/02/stats-digial-policy-instruments.html). It is our hypothesis that, in order to have sufficient assurance that policy requirements are met, CIOs and DOCS require IM/IT changes to pass through their central corporate release process, including architecture and security assessment. To further control these processes, IM/IT staff will be located under the CIO HR organization.
 
 A level of autonomy may be provided to product teams by delegating some authorities to them.
 As per the Financial and HR delegations, this is not a simple form to fill out.
@@ -361,7 +361,7 @@ It requires training and can have real consequences of non compliance.
 
 ...
 
-## Appendix D - Product Framework Overview
+## Appendix C - Product Framework Overview
 
 <div style="display: block; width: inherit; text-align: center; line-height: 3;">
     <a href="/ITStrategy/assets/images/product-management-framework-overview.png" style="display: block">
@@ -372,7 +372,7 @@ It requires training and can have real consequences of non compliance.
     <small>Figure 5. Overview of the Proposed Product Management Framework</small>
 </div>
 
-## Appendix E - Portfolio Management, a CFO's perspective
+## Appendix D - Portfolio Management, a CFO's perspective
 
 Periodic funding is allocated to portfolios based on departmental priorities.
 Within the portfolio, budgets are distributed to products according to the portfolio's own priorities.
@@ -386,7 +386,7 @@ Within the portfolio, budgets are distributed to products according to the portf
     <small>Figure 6. Funding and budget distribution within a portfolio</small>
 </div>
 
-## Appendix F - Terms and Definitions
+## Appendix E - Terms and Definitions
 
 | Term     | Definition                             |
 | -------- | -------------------------------------- |
@@ -398,7 +398,7 @@ Within the portfolio, budgets are distributed to products according to the portf
 | BRM      | Business Relations MAnagement |
 | CDO      | Chief Data Office                      |
 | CFOB     | Chief Financial Officer Branch |
-| DGPOC    | Director General Project Oversight Commitee |
+| DGPOC    | Director General Project Oversight Committee |
 | EPMO     | Enterprise Project Management Office |
 | FMAS     | Financial Management and Advisory Services |
 | IITB     | Innovation and Information Technology Branch |
@@ -416,12 +416,16 @@ Within the portfolio, budgets are distributed to products according to the portf
 
 ## Appendix F - Change Log
 
+| Version | Date of Change | Change Description |
+|:------- | -------------- | --------------------------------------------- |
+| 0.01    | 2021-07-30     | First Draft, moved from working document to web page |
+
 ## Notes
 
 [^1]: ESDC currently recognizes 3 types of investment: assets, acquired services, and projects (see [ESDC's Guide to building a Business Case](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Guide%20to%20Building%20a%20Business%20Case.pdf))
 [^2]: Framework = a directive, a set of standards (e.g. reporting), and a set of procedures (e.g. manoeuvring governance)
 [^3]: The main areas of the CFO's domain expertise are Enterprise Project Management, Financial Management, and Investment Performance Management.
-[^4]: The main areas of the CIO's domain expertise are Project Managament Office, Release Management (and ITSM), IT Security, and Enterprise Architecture.
+[^4]: The main areas of the CIO's domain expertise are Project Management Office, Release Management (and ITSM), IT Security, and Enterprise Architecture.
 [^5]: See [this inventory]({{ site.baseurl }}/ITStrategy/ddd.html) of 38 known definitions from industry and government.
 [^6]: [MPIB](https://dialogue/grp/PEC-CEP/Committee%20Terms%20of%20Reference/MPIB%20-%20Major%20Projects%20and%20Investments%20Board%20(2).pdf) is a Tier 2 committee at ESDC chaired by the CFO.
 [^7]: cATOs are inspired by the [US Air Force's Platform One team](https://www.linkedin.com/feed/update/urn:li:share:6734861153765326848/), in the Chief Software Office. NIST and ITSG-33 do not have continuous types of controls. Will need to innovate while remaining in compliance.

@@ -541,7 +541,15 @@
     "CNLL",
     "DCMI",
     "themeable",
-    "CCIGQ"
+    "CCIGQ",
+    "workstream",
+    "workstreams",
+    "Tuckman",
+    "MPIB",
+    "BAAO",
+    "FMAS",
+    "OCIO",
+    "ITSG"
   ],
   "flagWords": [],
   "import": ["node_modules/@cspell/dict-fr-fr/cspell-ext.json"],
