@@ -551,7 +551,8 @@
     "OCIO",
     "Tuckman",
     "BAAO",
-    "ITSG"
+    "ITSG",
+    "CSOC"
   ],
   "flagWords": [],
   "import": ["node_modules/@cspell/dict-fr-fr/cspell-ext.json"],
