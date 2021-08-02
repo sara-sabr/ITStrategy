@@ -553,7 +553,8 @@
     "BAAO",
     "ITSG",
     "CSOC",
-    "Roadmap's"
+    "Roadmap's",
+    "overembellishment"
   ],
   "flagWords": [],
   "import": ["node_modules/@cspell/dict-fr-fr/cspell-ext.json"],
