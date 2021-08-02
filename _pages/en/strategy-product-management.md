@@ -241,7 +241,7 @@ The Roadmap is **reality** for the product team.
 Parallel projects feed the Product Roadmap's backlog and their schedules are expected to be adjusted based on the changes in the product's roadmap.
 This is because it is unrealistic for a product team to manage multiple commitments (e.g., Windows server upgrade, WLM, Accessibility Compliance Project, Technical Debt Programme, one or two Business Enhancements, Benefits Delivery Modernization, etc.).
 Instead, those commitments are part of the Product's backlog and will be dealt with as part of the Product's roadmap.
-Should reality change (e.g., new priority affecting a product's roadmap horizon), parallel projects absorb the change and adjust their schedules accordingly.
+Should reality changes (e.g., new priority affecting a product's roadmap horizon), parallel projects absorb the change and adjust their schedules accordingly.
 Should those projects be sources of funds for a product, they are provided only when the Product business outcome plan includes requirements of such projects.
 
 _Note 1:_ It is expected that business outcomes are provided in short cadence (typically at least once per quarter). This so that the product-type investment is not held in a planning stage for too long and allows course correction within the time horizon.
@@ -261,7 +261,7 @@ Achieving a Business Outcome may not be a straight path.
 Product features are hypotheses that must be validated before we can claim victory.
 This may include a series of A/B testing, experiments, Proof of Concepts, using Analytics to interpret data and informing the next iteration of a product.
 
-In a project-type investment, a schedule is the assurance provided to governance on progress because the planning phase a project sought certainty before execution can start.
+In a project-type investment, a schedule is the assurance provided to governance on progress because the planning phase sought certainty before execution can start.
 In a product-type investment, the following three key metrics are the assurance, expected to be produced by the Product team. These metrics are consumed by the Product Team, the Business Sponsor, and Governance (DGPOC/MPIB).
 
 <div style="display: block; width: inherit; text-align: center; line-height: 3;">
