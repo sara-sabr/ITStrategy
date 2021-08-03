@@ -128,7 +128,8 @@ La présente politique d’orientation a été préparée en tenant compte de l�
 2.	Les solutions de TI et les produits de TI font l’objet d’une évaluation des risques dans les situations d’asservissement au moyen de leurs cadres d’évaluation des risques respectifs (à créer – voir [l’ensemble cohérent de mesures](#l’ensemble-cohérent-de-mesures))
 
 ## L’ensemble cohérent de mesures
-{% include table.html table-id="t001" file="build-vs-buy"%}
+
+{% include table.html table-id="t001" file="build-vs-buy"%} 
 
 ## Mesurer la réussite de la stratégie
 La réussite de cette stratégie sera mesurée en comparant les données suivantes aux éléments clés des procédures obligatoires du GC sur [les évaluations de l’architecture d’entreprise](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32602) et [les interfaces de programmation d’applications](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32604).
