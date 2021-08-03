@@ -10,7 +10,9 @@ version: 0.07
 date: "2021-02-09"
 permalink: /adopter-acheter-et-concevoir.html
 ---
-
+<!-- markdownlint-disable MD033 -->
+<!-- the below cSpell statement says to ignore any text between HTML tags. E.g. it will ignore "th rowspan='2'" in this string: <th rowspan='2'> -->
+<!-- cSpell:ignoreRegExp /\<[^\>]+\>/ -->
 
 ***Il s’agit d’une stratégie PROVISOIRE.***
 
@@ -22,28 +24,28 @@ permalink: /adopter-acheter-et-concevoir.html
 ##### Table des matières
  <!-- omit in toc -->
 <!-- markdownlint-enable MD001 -->
-1.	[Sommaire](#sommaire)
-2.	[Introduction](#introduction)
-    1.	[Objet](#objet)
-    2.	[Intervenants ciblés](#intervenants-ciblés)
-3.	[Politique d’orientation](#politique-d’orientation)
-    1.	[Gouvernance, conformité et rapports](#gouvernance-conformité-et-rapports)
-    2.	[Finances](#finances)
-    3.	[Juridique](#juridique)
-    4.	[Architecture](#architecture)
-4.	[Ensemble cohérent de mesures](#ensemble-cohérent-de-mesures)
-5.	[Mesurer la réussite de la stratégie](#mesurer-la-réussite-de-la-stratégie)
-6.	[Annexe A – Analyse de rentabilisation (diagnostic)](#annexe-a---analyse-de-rentabilisation-(diagnostic))
-7.	[Annexe B – Matrice de traçabilité](#annexe-b---matrice-de-traçabilité)
-8.	[Annexe C – Références](#annexe-c--–références)
-9.	[Annexe D – Définitions](#annexe-d--–définitions)
-10.	[Annexe E – Notes et registre des changements](#annexe-e--–notes-et-registre-des-changements)
-
+1. [Sommaire](#sommaire)
+2. [Introduction](#introduction)
+    1. [Objet](#objet)
+    2. [Intervenants ciblés](#intervenants-ciblés)
+3. [Politique d’orientation](#politique-d’orientation)
+    1. [Gouvernance, conformité et rapports](#gouvernance-conformité-et-rapports)
+    2. [Finances](#finances)
+    3. [Juridique](#juridique)
+    4. [Architecture](#architecture)
+4. [Ensemble cohérent de mesures](#ensemble-cohérent-de-mesures)
+5. [Mesurer la réussite de la stratégie](#mesurer-la-réussite-de-la-stratégie)
+6. [Annexe A – Analyse de rentabilisation (diagnostic)](#annexe-a---analyse-de-rentabilisation-(diagnostic))
+7. [Annexe B – Matrice de traçabilité](#annexe-b---matrice-de-traçabilité)
+8. [Annexe C – Références](#annexe-c--–références)
+9. [Annexe D – Définitions](#annexe-d--–définitions)
+10. [Annexe E – Notes et registre des changements](#annexe-e--–notes-et-registre-des-changements)
 
 ## Sommaire
+
 Pour passer à l’ère numérique, il faut améliorer la réactivité des TI et promouvoir une responsabilité partagée auprès des intervenants d’EDSC sur l’utilisation de la technologie.
 
-Pourtant, le principe qui prévaut actuellement lors de l’acquisition de solutions de TI est le suivant : achetons ce que nous pouvons acheter et créons ce que nous devons créer. 
+Pourtant, le principe qui prévaut actuellement lors de l’acquisition de solutions de TI est le suivant : achetons ce que nous pouvons acheter et créons ce que nous devons créer.
 Le raisonnement qui sous-tend ce principe fondamental est qu’en achetant une solution de TI auprès d’un tiers, les risques, les responsabilités et les obligations relatifs à l’exécution de ladite solution sont pris en charge par une entreprise qui possède davantage de ressources et d’expertise technique pour produire et entretenir des logiciels.
 
 Ce principe donne lieu à une approche trop simplifiée qui ne tient pas compte du fait qu’en tant que ministère gouvernemental, EDSC est assujetti à de multiples changements rapides, que ce soit aux [niveaux juridique, politique, organisationnel ou technologique](https://www.canada.ca/fr/emploi-developpement-social/ministere/rapports/plan-ministeriel/2020-2021.html), qui ont une incidence sur sa capacité de s’acquitter de son mandat.
@@ -72,16 +74,19 @@ Plus de détails à [l’annexe A](#l’annexe---a).
 
 Fournir à la Direction générale de l’innovation, de l’information et de la technologie (DGIIT) une stratégie globale pour l’application des [Procédures obligatoires du gouvernement du Canada (GC) sur les évaluations de l’architecture d’entreprise](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32602) et [les Procédures obligatoires sur les interfaces de programmation d’applications](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32604), dans le contexte de l’acquisition de nouvelles solutions de technologie de l’information (TI) et de l’évaluation des améliorations apportées aux solutions de TI existantes.
 Cette stratégie comprend :
-1.	**Une politique d’orientation** qui sert à orienter EDSC dans l’application des procédures obligatoires du GC sur [les évaluations de l’architecture d’entreprise](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32602) et [les interfaces de programmation d’applications](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32604) lors de l’acquisition ou de l’amélioration des solutions de TI existantes à Emploi et Développement social Canada (EDSC).
-2.	**Un ensemble cohérent de mesures** (un plan d’action) servant à opérationnaliser la politique d’orientation.
+
+1. **Une politique d’orientation** qui sert à orienter EDSC dans l’application des procédures obligatoires du GC sur [les évaluations de l’architecture d’entreprise](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32602) et [les interfaces de programmation d’applications](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32604) lors de l’acquisition ou de l’amélioration des solutions de TI existantes à Emploi et Développement social Canada (EDSC).
+2. **Un ensemble cohérent de mesures** (un plan d’action) servant à opérationnaliser la politique d’orientation.
 Cette stratégie vise à communiquer la décision du dirigeant principal de l’information (DPI) d’EDSC (qui n’a pas encore été approuvée) concernant la voie à suivre (la Politique d’orientation) et les investissements nécessaires pour opérationnaliser cette décision (ensemble cohérent de mesures).
 
 #### Intervenants ciblés
+
 Ce **document stratégique** s’adresse aux intervenants qui participent à l’acquisition d’une solution de TI pour aider à concrétiser les résultats d’une initiative axée sur les TI telle que définie dans l’analyse de rentabilisation d’un projet ou d’un programme. Plus précisément, les intervenants participant à l’architecture des solutions de TI, à la définition des normes technologiques, à l’élaboration, à la prestation, à l’opérationnalisation et à la tenue à jour des solutions de TI (comme l’architecture d’entreprise, les opérations d’entreprise, etc.), de même qu’aux comités directeurs comme le Comité d’examen de l’architecture (CEA) et le Conseil d’examen de l’architecture intégrée (CEAI). Cela comprend les intervenants qui font ou non partie de la DGIIT, y compris, sans toutefois s’y limiter, les fonctions opérationnelles, la Direction générale des politiques stratégiques et de service (DGPSS), le dirigeant principal des données (DPD), la Direction générale des services d’intégrité (DGSI), la Direction générale des services de vérification interne (DGSVI) et Services partagés Canada (SPC). Vous trouverez dans [l’ensemble cohérent de mesures](#coherent-set-of-actions) une liste des intervenants qui devraient participer à l’étape de l’exécution de cette stratégie en vue de la mise en œuvre de la politique d’orientation.
 
 Une fois qu’elle aura été mise en œuvre, **la politique d’orientation** ciblera les intervenants concernés lorsque le besoin d’une solution de TI sera soulevé, ainsi que lors de la conception, l’établissement de l’architecture, l’élaboration, la mise en œuvre, l’opérationnalisation et la mise à jour de la solution de TI. Tout le personnel d’EDSC qui participe à l’exploration des solutions de TI et aux décisions d’investissement en matière de TI doit se conformer à la présente politique.
 
 ### Politique d’orientation
+
 La politique suivante reflète la décision adoptée par **le DPI d’EDSC** (approbation de principe par le DPI; la décision doit maintenant être approuvée par le CEAI) au moment d’évaluer la façon la plus appropriée d’acquérir une solution de TI, que ce soit en l’adoptant, en l’achetant ou en la concevant. Chaque énoncé de politique représente une déclaration de cette décision et a reçu l’aval de son secteur de gouvernance connexe (les approbations n’ont pas encore été obtenues, voir [l’ensemble cohérent de mesures](#l’ensemble-cohérent-de-mesures)).
 
 Cette politique s’applique lorsqu’une initiative d’EDSC exige l’acquisition d’une solution de TI, qu’elle soit offerte par EDSC ou par un fournisseur tiers. Une fois l’initiative lancée, toutes les équipes participant au projet et les produits de TI faisant partie de la solution de TI doivent se conformer à cette politique d’orientation.
@@ -89,49 +94,52 @@ Cette politique s’applique lorsqu’une initiative d’EDSC exige l’acquisit
 La présente politique d’orientation a été préparée en tenant compte de l’harmonisation et de la conformité aux instruments de politique existants et ne vise pas à les remplacer. Les intervenants doivent continuer de se conformer aux instruments de politique existants, notamment :
 
 - les Normes numériques
-    - [du gouvernement du Canada](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html)
+  - [du gouvernement du Canada](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html)
 - Secrétariat du Conseil du Trésor (SCT)
-    - [la Directive sur les services et le numérique du Secrétariat du Conseil du Trésor](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32601) (SCT); et, en particulier :
-        - [l’Annexe A : Procédures obligatoires pour l’évaluation de l’architecture organisationnelle](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32602)
-        - [l’Annexe B : Procédures obligatoires sur les interfaces de programmation d’applications](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32604)
-    - [la Directive sur la gestion de la sécurité](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32611) du SCT
-    - [les Normes relatives aux principes d’architecture](https://wiki.gccollab.ca/GC_Enterprise_Architecture/Standards) du GC
+  - [la Directive sur les services et le numérique du Secrétariat du Conseil du Trésor](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32601) (SCT); et, en particulier :
+    - [l’Annexe A : Procédures obligatoires pour l’évaluation de l’architecture organisationnelle](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32602)
+    - [l’Annexe B : Procédures obligatoires sur les interfaces de programmation d’applications](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32604)
+  - [la Directive sur la gestion de la sécurité](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32611) du SCT
+  - [les Normes relatives aux principes d’architecture](https://wiki.gccollab.ca/GC_Enterprise_Architecture/Standards) du GC
 - Emploi et Développement social Canada (EDSC)
-    - [la Politique sur la gestion des projets et des programmes (PGPP) d’EDSC](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Policy%20on%20Project%20and%20Programme%20Management.pdf)
-    - la Politique de gestion de l’information d’EDSC (en cours de rédaction)
-    - [les Politiques d’approvisionnement d’EDSC](http://iservice.prv/fra/finance/achats/politique.shtml)
-    - la Politique de sécurité d’EDSC (en cours de rédaction)
-    - [la stratégie du Modèle de prestation de la solution cible d’EDSC](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html) (ébauche en cours de consultation)
-    - Stratégie de données d’EDSC
+  - [la Politique sur la gestion des projets et des programmes (PGPP) d’EDSC](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Policy%20on%20Project%20and%20Programme%20Management.pdf)
+  - la Politique de gestion de l’information d’EDSC (en cours de rédaction)
+  - [les Politiques d’approvisionnement d’EDSC](http://iservice.prv/fra/finance/achats/politique.shtml)
+  - la Politique de sécurité d’EDSC (en cours de rédaction)
+  - [la stratégie du Modèle de prestation de la solution cible d’EDSC](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html) (ébauche en cours de consultation)
+  - Stratégie de données d’EDSC
 
 ## Gouvernance, conformité et rapports
 
-1.	Les solutions de TI sont divisées en parties gérables (produits de TI), conformément au modèle des capacités opérationnelles d’EDSC ou au modèle des capacités opérationnelles du GC, selon le plus pertinent.
-2.	Les solutions de TI sont évaluées par rapport au cadre d’évaluation des risques liés aux solutions de TI (à créer – voir [l’ensemble cohérent de mesures](#l’ensemble-cohérent-de-mesures) et lire [la rubrique Gérer les risques liés à l’acquisition de logiciels](#la-rubrique-Gérer-les-risques-liés-à-l’acquisition-de-logiciels)).
-3.	La maintenance et le soutien des produits et des solutions de TI peuvent être effectués à l’interne ou confiés à un fournisseur tiers.
-- Les activités de maintenance et de soutien imparties à l’externe peuvent être exécutées par un tiers autre que celui qui fournit la licence du logiciel.
+1. Les solutions de TI sont divisées en parties gérables (produits de TI), conformément au modèle des capacités opérationnelles d’EDSC ou au modèle des capacités opérationnelles du GC, selon le plus pertinent.
+2. Les solutions de TI sont évaluées par rapport au cadre d’évaluation des risques liés aux solutions de TI (à créer – voir [l’ensemble cohérent de mesures](#l’ensemble-cohérent-de-mesures) et lire [la rubrique Gérer les risques liés à l’acquisition de logiciels](#la-rubrique-Gérer-les-risques-liés-à-l’acquisition-de-logiciels)).
+3. La maintenance et le soutien des produits et des solutions de TI peuvent être effectués à l’interne ou confiés à un fournisseur tiers.
+    - Les activités de maintenance et de soutien imparties à l’externe peuvent être exécutées par un tiers autre que celui qui fournit la licence du logiciel.
 
 ### Finances
 
-1.	Les exigences financières des solutions de TI sont harmonisées au cadre de gestion des produits (à créer – voir [l’ensemble cohérent de mesures](#l’ensemble-cohérent-de-mesures)).
-2.	Les solutions de TI sont évaluées par rapport au cadre du coût total de possession (à créer – voir [l’ensemble cohérent de mesures](#l’ensemble-cohérent-de-mesures)).
+1. Les exigences financières des solutions de TI sont harmonisées au cadre de gestion des produits (à créer – voir [l’ensemble cohérent de mesures](#l’ensemble-cohérent-de-mesures)).
+2. Les solutions de TI sont évaluées par rapport au cadre du coût total de possession (à créer – voir [l’ensemble cohérent de mesures](#l’ensemble-cohérent-de-mesures)).
 
 ### Juridique
-1.	Les solutions de TI s’appuient sur le Guide des termes juridiques relatifs aux logiciels d’EDSC (à créer – voir [l’ensemble cohérent de mesures](#l’ensemble-cohérent-de-mesures))
-2.	Les solutions et les produits de TI sont conformes au Cadre de gestion des logiciels de source ouverte d’EDSC, le cas échéant.
+
+1. Les solutions de TI s’appuient sur le Guide des termes juridiques relatifs aux logiciels d’EDSC (à créer – voir [l’ensemble cohérent de mesures](#l’ensemble-cohérent-de-mesures))
+2. Les solutions et les produits de TI sont conformes au Cadre de gestion des logiciels de source ouverte d’EDSC, le cas échéant.
 
 ### Architecture
-1.	Les limites de couplage libre des solutions de TI et des produits de TI sont à l’intersection de la chaîne de valeur, du stade de valeur et de la capacité opérationnelle (modèle de capacité opérationnelle d’EDSC).
-- Le dédoublement des solutions de TI ou des produits de TI est pris en charge à condition que ce soit pour différentes capacités opérationnelles.
-- Les limites des solutions de TI et les produits de TI doivent s’appliquer aux capacités d’application, en vue d’accroître les capacités opérationnelles.
-- L’adoption de solutions et de produits de TI existants, internes ou externes, est privilégiée par rapport à l’achat ou à la conception intégrale de nouvelles solutions, selon les profils de risque particuliers et les coûts totaux de possession.
-2.	Les solutions de TI et les produits de TI font l’objet d’une évaluation des risques dans les situations d’asservissement au moyen de leurs cadres d’évaluation des risques respectifs (à créer – voir [l’ensemble cohérent de mesures](#l’ensemble-cohérent-de-mesures))
+
+1. Les limites de couplage libre des solutions de TI et des produits de TI sont à l’intersection de la chaîne de valeur, du stade de valeur et de la capacité opérationnelle (modèle de capacité opérationnelle d’EDSC).
+    - Le dédoublement des solutions de TI ou des produits de TI est pris en charge à condition que ce soit pour différentes capacités opérationnelles.
+    - Les limites des solutions de TI et les produits de TI doivent s’appliquer aux capacités d’application, en vue d’accroître les capacités opérationnelles.
+    - L’adoption de solutions et de produits de TI existants, internes ou externes, est privilégiée par rapport à l’achat ou à la conception intégrale de nouvelles solutions, selon les profils de risque particuliers et les coûts totaux de possession.
+2. Les solutions de TI et les produits de TI font l’objet d’une évaluation des risques dans les situations d’asservissement au moyen de leurs cadres d’évaluation des risques respectifs (à créer – voir [l’ensemble cohérent de mesures](#l’ensemble-cohérent-de-mesures))
 
 ## L’ensemble cohérent de mesures
 
-{% include table.html table-id="t001" file="build-vs-buy"%} 
+{% include table.html table-id="t001" file="build-vs-buy"%}
 
 ## Mesurer la réussite de la stratégie
+
 La réussite de cette stratégie sera mesurée en comparant les données suivantes aux éléments clés des procédures obligatoires du GC sur [les évaluations de l’architecture d’entreprise](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32602) et [les interfaces de programmation d’applications](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32604).
 
 ### Favoriser la souplesse organisationnelle (EDSC)
@@ -139,19 +147,20 @@ La réussite de cette stratégie sera mesurée en comparant les données suivant
 - Toutes les nouvelles solutions et tous les nouveaux produits de TI complexes ou essentiels au mandat ont été acquis dans des conditions qui permettent à EDSC de corriger le tir et d’effectuer des changements au besoin (c.‑à‑d. qu’il n’y a pas d’ententes de service, de clauses contractuelles ou de propriété intellectuelle ou de contraintes techniques qui empêchent EDSC de modifier en tout ou en partie les solutions et les produits de TI.)
 
 ### Accélérer l’acquisition de solutions et de produits TI (LSO, XaaS, etc.)
+
 - Le temps requis pour identifier, évaluer, tester, certifier et approuver un nouveau produit de TI externe qui sera utilisé à EDSC est inférieur à 5 jours ouvrables.​
 - Il faut moins de 30 minutes pour fournir un produit de TI ou un logiciel en tant que service autonome qui figure déjà dans la GPA.​
 - Le délai de déploiement des changements de code pour une solution de TI, de l’étape de la vérification jusqu’à celle de la mise en production, est inférieur à 2 jours ouvrables.
 
-### Accroître la réutilisation des solutions et produits de TI existants, internes et externes.
+### Accroître la réutilisation des solutions et produits de TI existants, internes et externes
 
 - Ratio accru de solutions et de produits logiciels de source ouverte utilisés en production par rapport à ceux achetés ou développés à l’interne qui ne sont pas partageables et réutilisables.
 - Les développeurs et les propriétaires de produits d’EDSC contribuent aux projets de LSO de tiers au lieu d’effectuer les changements à l’interne.
 - Les développeurs d’EDSC ne créent de nouvelles versions de LSO de tiers que si les changements proposés ne sont pas intégrés à la version en amont.
 - Au moment de développer un logiciel :
-    - Toutes les dépendances sont automatiquement analysées, documentées et prises en compte.
-    - Une nomenclature est générée automatiquement.
-    - Les politiques de conformité des licences sont appliquées automatiquement.
+  - Toutes les dépendances sont automatiquement analysées, documentées et prises en compte.
+  - Une nomenclature est générée automatiquement.
+  - Les politiques de conformité des licences sont appliquées automatiquement.
 
 ### Créer des solutions conçues pour le nuage
 
@@ -173,7 +182,7 @@ La réussite de cette stratégie sera mesurée en comparant les données suivant
 - Augmentation du nombre de solutions et de produits de TI transférés et exploités dans des environnements infonuagiques (stratégie infonuagique privilégiée)
 - Rapidité et souplesse accrues pour les changements logiciels déployés aux fins de la production de solutions et de produits de TI (voir le modèle de prestation de la solution cible)
 
-# Annexe A – Analyse de rentabilisation (diagnostic)
+## Annexe A – Analyse de rentabilisation (diagnostic)
 
 ### Concevoir ou acheter : Une question trop simplifiée
 
@@ -194,7 +203,7 @@ The first connection is to a rectangle, titled "Configuration", located below th
 The second connection is to another rectangle, titled "Infrastructure", located to the right of the "Software" rectangle; the end of the line starting from the "Software" rectangle has a "1" and the other end has a "1...*" and a small white diamond.
 There is one last connection, linking the "Infrastructure" and "Configuration" rectangles; the end of the line starting from the "Infrastructure" rectangle has a "1" and the other end has a "1...*" and a small black diamond.](assets/images/strategy-build-buy-uml-it-solution.png)
 
-### Description du modèle :
+Description du modèle :
 
 - Une solution de TI comprend un ou plusieurs composants de TI
 - Un composant de TI comprend un ou plusieurs logiciels qui peuvent être soit un logiciel de source ouverte, un abonnement à un service, un logiciel commercial de tiers ou un logiciel personnalisé.
@@ -212,7 +221,7 @@ Même lorsqu’on dit qu’une solution de TI a été achetée, elle n’est jam
 
 La maintenance des solutions de TI devrait donc être traitée séparément de la solution acquise, car elle peut nécessiter l’intervention du personnel interne ainsi que la participation du personnel de tiers, qu’il s’agisse d’un fournisseur ou d’une collectivité dans le cas d’un logiciel de source ouverte.
 
-## Facteurs contextuels
+### Facteurs contextuels <!-- omit in toc -->
 
 Il est important de tenir compte de divers facteurs contextuels au moment de prendre des décisions, par exemple :
 
@@ -226,37 +235,35 @@ Le fait de tirer avantage de ressources externes représente une option valable,
 
 Par conséquent, si l’organisation n’est pas en mesure de concevoir, de créer et d’exploiter la solution elle-même, le tiers qui met la solution en place au nom d’EDSC devrait recevoir la consigne claire d’harmoniser sa solution en fonction de nos propres principes architecturaux.
 
-## Autres considérations
+### Autres considérations
 
 - Quel est le niveau de contrôle préférable quant à **la fréquence des mises à niveau** ou à **l’obsolescence technologique** d’une option?
 - Les composants d’une option donnée respectent-ils **les normes technologiques de l’organisation**?
 - Quel est le niveau de **maturité** recherché pour une composante donnée?
 
-## Gestion des risques liés à l’acquisition de logiciels
+### Gestion des risques liés à l’acquisition de logiciels
 
 La stratégie porte sur la gestion des risques liés à l’acquisition de logiciels plutôt que sur l’application de règles dogmatiques pour l’achat ou la création de logiciels (p. ex., « SaaS d’abord » ne signifie pas que l’on doit toujours opter pour une SaaS, « Achetons ce que nous pouvons acheter » ne signifie pas que nous devons acheter seulement parce que le produit est disponible). La stratégie utilisera plutôt les instruments stratégiques tel que prévu par l’auteur de la politique et son pouvoir d’éclairer les décisions relatives à la viabilité à long terme et aux besoins des utilisateurs.
 
 La gestion des risques liés à l’acquisition de logiciels repose sur la formule suivante :
 >
-Risque = Probabilité de changement * incidence
+>Risque = Probabilité de changement * incidence
 >
-*Où*
+>*Où*
 >
-*Le risque* est le niveau de préjudice pour EDSC (élevé, moyen ou faible).
-*La probabilité* de changement est la probabilité qu’un changement survienne à l’avenir (p. ex., besoin d’une nouvelle fonctionnalité, nouvelle législation, modification des processus ou des règles, mise à niveau de la version, personnalisation, intégration, discontinuité du produit du fournisseur, modification de la feuille de route du produit du fournisseur, etc.).
+>*Le risque* est le niveau de préjudice pour EDSC (élevé, moyen ou faible).
+>*La probabilité* de changement est la probabilité qu’un changement survienne à l’avenir (p. ex., besoin d’une nouvelle fonctionnalité, nouvelle législation, modification des processus ou des règles, mise à niveau de la version, personnalisation, intégration, discontinuité du produit du fournisseur, modification de la feuille de route du produit du fournisseur, etc.).
 >
-*L’incidence* est l’incidence que le changement aura sur EDSC, en tenant compte des éléments suivants :
-- Perte financière
-- Perte de réputation
-- Perte de temps (réactivité)
-- Conséquences juridiques
+>*L’incidence* est l’incidence que le changement aura sur EDSC, en tenant compte des éléments suivants :
 >
-
+>- Perte financière
+>- Perte de réputation
+>- Perte de temps (réactivité)
+>- Conséquences juridiques
 
 ![A graphic with 4 quadrants identifying relation between Probability of change and Impact on the Risk.
 There are 2 axis: the horizontal axis is "Probability of change" with an arrow towards the right and the vertical axis is "Impact" with an arrow towards the top.
 The quadrants titles are: top left "Medium"; top right "High"; bottom left "Low"; bottom right "Medium".](assets/images/strategy-build-buy-risk-quadrant.png){:height="50%" width="50%" style="display:block;margin-left:auto;margin-right:auto"}
-
 
 Un autre lien pourrait être établi pour évaluer le risque par rapport à la probabilité de changement : la complexité d’une solution. Autrement dit, moins les besoins sont statiques, plus les chances sont élevées que des changements non comptabilisés deviennent des exigences à l’avenir, ce qui augmente les risques pour l’organisation. Les grands projets de TI sont souvent assujettis à des changements au niveau des exigences, comme des modifications de la législation et des exigences inconnues au début du projet. En plus de la complexité des systèmes eux-mêmes, cela signifie que les grands projets présentent un risque plus élevé pour l’organisation de ne pas être en mesure de s’acquitter de son mandat.
 
@@ -266,7 +273,6 @@ La capacité du logiciel a une forte influence sur les niveaux de risque. Le dia
 ![A 3-layered circle.
 The external circle is called "Productivity", the middle circle is called "Corporate or Shared" and the internal circle is called "Core to Mandate".
 There is an arrow that starts at the external circle which points towards the inner circle and has the text "Risk increases" on it.](assets/images/strategy-build-buy-risk-circle.png){:height="50%" width="50%" style="display:block;margin-left:auto;margin-right:auto"}
-
 
 **Les capacités de productivité**, comme les outils de collaboration, l’édition d’images et le traitement de texte, présentent de faibles risques pour EDSC en raison de leur caractère commun sur le marché, leur faible probabilité de changement et leur présence dans le périmètre du mandat de base d’EDSC, ce qui réduit leur incidence sur l’organisation.
 
@@ -287,6 +293,7 @@ Une évaluation du coût total estimatif de possession des options pertinentes p
 Voici quelques éléments de coût qui devraient être pris en considération :
 
 ### Acquisition
+
 - Évaluation initiale
 - Décision et notification
 - Licences
@@ -307,10 +314,12 @@ Voici quelques éléments de coût qui devraient être pris en considération :
 - Dépréciation
 
 ### Fin de vie
+
 - Aliénation
 - Migration (données et utilisateurs)
 
 ### Autre
+
 - Occasion ou conformité (p. ex., rater une occasion sur le marché, ne pas se conformer à la réglementation, diminution de la satisfaction de la clientèle)
 - Coûts engagés auprès d’une autre partie pour assurer la capacité d’atteindre les objectifs des ententes sur les niveaux de service (ENS)
 - Imprévus (p. ex., dépenses imprévues découlant de la vérification de la conformité et de l’octroi de licences)
@@ -326,7 +335,6 @@ Toutefois, n’oubliez pas que l’optimisation des ressources ne tient pas uniq
 ## Annexe B – Matrice de traçabilité
 
 La matrice de traçabilité suivante est utilisée pour démontrer l’harmonisation avec divers plans, stratégies et instruments de politique déjà en cours.
-
 
 <table>
 <tr>
@@ -421,6 +429,7 @@ Processus par lequel le ministère produit ou confie à un tiers la production d
 ### Achat
 
 Processus par lequel le ministère échange des fonds pour faire l’acquisition d’un ou plusieurs des éléments suivants :
+
 - Droits d’utilisation d’un produit de TI selon certaines modalités
 - Fonctionnalités supplémentaires non offertes par défaut dans les produits de TI
 - Services, y compris, sans s’y limiter : infrastructure en tant que service, plateforme en tant que service, logiciel en tant que service, correctifs de sécurité, améliorations des fonctions, formation, intégration de produits de TI, conseils professionnels, etc.
@@ -450,12 +459,13 @@ Logiciel commercial (COTS) dont le code source n’est pas de source ouverte.
 
 Logiciel commercial (COTS) dont le code source est de source ouverte.
 
-
 ## Annexe E – Notes et registre des changements
 
 ### Notes
+
 Remarque 1 : cette page renferme des liens vers des documents internes d’EDSC, qui ne sont malheureusement accessibles que sur le réseau ministériel d’EDSC.
 Remarque 2 : Hypothèses à la lecture du présent document
+
 - La décision d’investir temps et ressources pour une solution de TI a déjà été prise, mais il n’a pas été décidé si elle sera adoptée, conçue ou achetée.
 - Il ne s’agit pas d’une demande de logiciel (p. ex., je veux utiliser ce logiciel en tant que service (SaaS)).
 - Une vision globale des services à l’échelle de l’entreprise est disponible pour toutes les équipes, l’organisation l’entreprise et les TI.
@@ -470,11 +480,4 @@ Remarque 2 : Hypothèses à la lecture du présent document
 | 0.05 | 2020-07-29 | Suppression la rétroaction sur la v0.04, simplification des règles, suppression du contenu en double, harmonisation de la stratégie avec les procédures obligatoires en matière d’architecture d’entreprise, clarification des points de vue des responsables et des intervenants par rapport aux mesures |
 | 0.06 | 2020-07-29 | Suppression la rétroaction sur la v0.05 des équipes d’architecture d’entreprise, clarification des politiques d’orientation, ajout des mesures de suivi |
 
-1.	Dans un article intitulé [What improving IT procurement in the public sector looks like: navigating, balancing, and initiating procurement conversations to avoid sprinting off cliffs](https://www.themandarin.com.au/118548-improving-it-procurement-public-sector-navigating-balancing-initiating-procurement-conversations/), Pia Andrews écrit que de nombreux logiciels commerciaux « nécessitent une personnalisation, une configuration, une intégration ou des modifications importantes pour offrir un produit commercial prêt à la mise en service. » 
-
-
-
-
-
-
-
+1. Dans un article intitulé [What improving IT procurement in the public sector looks like: navigating, balancing, and initiating procurement conversations to avoid sprinting off cliffs](https://www.themandarin.com.au/118548-improving-it-procurement-public-sector-navigating-balancing-initiating-procurement-conversations/), Pia Andrews écrit que de nombreux logiciels commerciaux « nécessitent une personnalisation, une configuration, une intégration ou des modifications importantes pour offrir un produit commercial prêt à la mise en service. »
