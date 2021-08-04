@@ -4,10 +4,16 @@
       "pattern": "http://esdc.prv"
     },
     {
+      "pattern": "https://esdc.prv"
+    },
+    {
       "pattern": "https://www.pmi.org/disciplined-agile"
     },
     {
       "pattern": "http://edsc.prv"
+    },
+    {
+      "pattern": "https://edsc.prv"
     },
     {
       "pattern": "http://www.esdc.prv"
@@ -122,6 +128,9 @@
    },
    {
      "pattern": "http://opo-boa.gc.ca"
-   }
+   },
+   {
+    "pattern": "https://www.pmi.org"
+  }
   ]
 }
