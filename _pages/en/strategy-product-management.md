@@ -68,7 +68,7 @@ Once realized, we expect the following benefits to ESDC:
 The scope of this strategy remains within the authorities of the department
 (e.g., we are not seeking to change Treasury Board (TB) procedures or laws).
 
-The main Target Audience for Phase 1 is the Chief Financial (CFO)[^3] and the Chief Information Officer (CIO)[^4] as the strategy seeks to make modifications in their respective domains.
+The main Target Audience for Phase 1 is the Chief Financial Officer (CFO)[^3] and the Chief Information Officer (CIO)[^4] as the strategy seeks to make modifications in their respective domains.
 In addition, we are seeking contributions to teams involved in transformational change management for the greater awareness campaign.
 
 A complete list of the stakeholders are listed [here](#workstreams).
@@ -379,7 +379,7 @@ The level of autonomy is inspired by the [CFO's financial delegation authority](
 
 The Senior ADM of the IT Branch is both the CIO and the Departmental Official Responsible for Cyber Security (DOCS).
 This person is accountable to [509 policy requirements](https://sara-sabr.github.io/ITStrategy/2021/06/02/stats-digial-policy-instruments.html).
-It is our hypothesis that, in order to have sufficient assurance that policy requirements are met, CIOs and DOCS require IM/IT changes to pass through their central corporate release process, including architecture and security assessments.
+In order to have sufficient assurance that policy requirements are met, CIOs and DOCS require IM/IT changes to pass through their central corporate release process, including architecture and security assessments.
 To further control these processes, IM/IT staff will be located under the CIO HR organization.
 
 A level of autonomy may be provided to product teams by delegating some authorities to them.
@@ -400,7 +400,7 @@ Highly unlikely.
 _Note 2:_ A delegation in one area grants a Business ADM the ability to embed personnel of that area under its HR Org structure.
 
 _Note 3:_ Production Release process maps to the [IITB SDLC](https://014gc.sharepoint.com/:b:/r/sites/SDLCActionPlanTeam/Shared%20Documents/General/Software%20Development%20and%20Release%20Governance.pdf?csf=1&web=1&e=SdnmEy).
-Quality Assurances that the right stakeholders were involved throughout the s/w lifecycle before releasing to production.
+Quality Assurance ensures that the right stakeholders were involved throughout the s/w lifecycle before releasing to production.
 
 _Note 4:_ Corporate services include Funding for Cyber Security Operation Centre (CSOC), IT Security Assessment, Cloud Operations, Architecture Review, Service Desk, Laptops, VPNs.
 
