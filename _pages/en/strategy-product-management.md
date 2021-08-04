@@ -217,7 +217,7 @@ A product managed as such do not need to seek yearly funding and priority approv
 
 1. A Line of Business (LOB) ADM or DG presents a _Simplified_ Business Case (the [Product's Roadmap](#product-roadmap-as-the-investment-plan)).
    - This Business Case is _NOT_ your typical Business Case used to fund a project.
-2. The LOB ADM, CIO, and CFO get into a Memorandum Of Understanding (MOU) by identifying:
+2. The LOB ADM/DG, CIO, and CFO get into a Memorandum Of Understanding (MOU) by identifying:
    - source(s) of funds
    - [level of autonomy](#appendix-c---level-of-autonomy)
    - expected budget
