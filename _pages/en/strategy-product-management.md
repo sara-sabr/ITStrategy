@@ -81,7 +81,7 @@ We need to use two different levels for a product definition[^5]:
 
 (e.g., a licence, a benefit, a passport, a digital ID, a Grant, a Job Offering)
 
-_Note 1:_ Departmental products aligned to their [Program Alignement Architecture](https://www.canada.ca/en/employment-social-development/corporate/reports/departmental-plan/2018/supplementary-information.html#h2.2) and measured by their [Departmental Results Framework](https://www.tbs-sct.gc.ca/ems-sgd/edb-bdd/index-eng.html#orgs/dept/128/infograph/results).
+_Note 1:_ Departmental products aligned to the [Departmental Results Framework (DRF)](https://dialogue/grp/WG6278300/SitePages/Departmental%20Results%20Framework%20-%20Cadre%20ministériel%20des%20résultats.aspx), in particular within the Program Inventory within the DRF.
 
 ***CIO Level***: A software or hardware solution that is developed to improve a business capability (internal product) or improve a user experience (external product).
 
@@ -105,7 +105,7 @@ This gap affects programs' ability to deliver and does not promote the needed _s
         alt = "alt text here"
         />
     </a>
-    <small>Figure 1. Departmental products are tied to their PAA. And the CIO-level products are used in their value streams.</small>
+    <small>Figure 1. Departmental products are tied to the Program Inventory. And the CIO-level products are used in their value streams.</small>
 </div>
 
 A departmental product's value stream expects to leverage a digital infrastructure, either for its internal staff or as a delivery method to Canadians.
@@ -171,13 +171,13 @@ We seek to add a new method: Products.
     <ul>
       <li>Periodic set of activities</li>
       <li>Roadmap based</li>
-      <li><strong>Done = users say so</strong> (Note 1)</li>
+      <li><strong>Done = meets objective(s)</strong> (Note 1)</li>
     </ul>
   </td>
   <td>
     <ul>
       <li>Seeks to maintain the <strong>same individuals</strong> (Note 2)</li>
-      <li>Grants the team(s) <strong>blanket approval</strong> of priority and funding in a time horizon (Note 3)</li>
+      <li>Grants the team(s) <strong>blanket approval</strong> of funding priority for objective in a time horizon (Note 3)</li>
       <li>Provides <strong>ongoing value</strong> to end users (Note 4)</li>  
     </ul>
   </td>
@@ -215,7 +215,7 @@ A Program area (represented by an Associate Deputy Minister (ADM)) may request p
 Having "product status" means obtaining blanket approval and funding over a time horizon for the particular product.
 A product managed as such do not need to seek yearly funding and priority approval as it is provided on a multi-year horizon.
 
-1. A Line of Business (LOB) ADM presents a Business Case (the [Product's Roadmap](#product-roadmap-as-the-investment-plan)).
+1. A Line of Business (LOB) ADM presents a _Simplified_ Business Case (the [Product's Roadmap](#product-roadmap-as-the-investment-plan)).
    - This Business Case is _NOT_ your typical Business Case used to fund a project.
 2. The LOB ADM, CIO, and CFO get into a Memorandum Of Understanding (MOU) by identifying:
    - source(s) of funds
@@ -442,6 +442,7 @@ Within the portfolio, budgets are distributed to products according to the portf
 | CDO      | Chief Data Office                      |
 | CFOB     | Chief Financial Officer Branch |
 | DGPOC    | Director General Project Oversight Committee |
+| DRF      | Departmental Results Framework |
 | EPMO     | Enterprise Project Management Office |
 | FMAS     | Financial Management and Advisory Services |
 | IITB     | Innovation and Information Technology Branch |
