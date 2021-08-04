@@ -420,8 +420,8 @@ _Note 4:_ Corporate services include Funding for Cyber Security Operation Centre
 
 ## Appendix D - Portfolio Management, a CFO's perspective
 
-Periodic funding is allocated to portfolios based on departmental priorities.
-Within the portfolio, budgets are distributed to products according to the portfolio's own priorities.
+The CFO allocates a budget to a portfolio based on departmental priorities, for a given time horizon (multi-year)
+Within the portfolio, the Program Official distributes her funds to products according to the portfolio's own priorities.
 
 <div style="display: block; width: inherit; text-align: center; line-height: 3;">
     <a href="/ITStrategy/assets/images/product-management-cfo-perspective.png" style="display: block">
