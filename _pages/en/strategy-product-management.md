@@ -372,7 +372,7 @@ A given Product has the following architectural boundaries, used by Enterprise A
 - ***Information Profile***, defined by the following attributes:
   - Privacy, manifested by a [Privacy Impact Assessment](https://www.priv.gc.ca/en/privacy-topics/privacy-impact-assessments/gd_exp_202003/#toc4) (includes Retention and Disposition rules)
   - Security, manifested by a Statement of Sensitivity and a Statement of Acceptable Risk
-  - Ethics, manifested by one or more Algorithmic Impact Assessment
+  - Ethics, manifested by one or more [Algorithmic Impact Assessment](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/algorithmic-impact-assessment.html)
 - ***Technology Standards***, defined by the following attribute:
   - Unacceptable technical stacks ([in containment or retirement](https://dialogue/grp/CO7397744/Lists/Standards%20Catalogue/AllItems.aspx))
 
