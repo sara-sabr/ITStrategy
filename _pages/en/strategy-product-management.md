@@ -429,7 +429,7 @@ Within the portfolio, the Program Official distributes her funds to products acc
         alt = "alt text here"
         />
     </a>
-    <small>Figure 6. Funding and budget distribution within a portfolio</small>
+    <small>Figure 6. Budget and funding distribution within a portfolio</small>
 </div>
 
 ## Appendix E - Value Stream Mapping
