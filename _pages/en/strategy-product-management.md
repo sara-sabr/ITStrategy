@@ -228,6 +228,8 @@ A product managed as such do not need to seek yearly funding and priority approv
 3. The Major Projects and Investment Board (MPIB)[^6] oversees investment arrangements and progress reporting
    - Includes TB submissions, review of product status, and reporting requirements
 
+_Note 1_: The LOB ADM/DG receives a known budget, but its funding distribution within her portfolio is managed by her.
+
 ### Product Roadmap as the Investment Plan
 
 The Product's roadmap acts as the Investment Plan for the time horizon and is the basis for accountability.
@@ -245,8 +247,8 @@ Business Outcomes are mini-business cases (typically 1 pager) and the definition
 Business Outcome deliveries also act as decision gates in the investment plan.
 
 The blanket approval over the time horizon gives the product's value stream stability.
-However, funding may be augmented based on the desired Business Outcome in the roadmap, at which point departmental governance needs to be engaged.
-This funding is not based on historical spending levels but on future need.
+A budget may be augmented based on the desired Business Outcome(s) in the roadmap, at which point departmental governance needs to be engaged since budgets are a CFO domain.
+This budget ask is not based on historical spending levels but on future need.
 
 The Roadmap **can and will be re-prioritized**.
 New business outcomes may be added or shifted on its timeline due to experience gained with the product and to changes in departmental or portfolio priorities.
