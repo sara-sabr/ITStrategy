@@ -215,7 +215,7 @@ A Program area (represented by a Director General (DG) or an Associate Deputy Mi
 Having "product status" means obtaining blanket funding priority over a time horizon for the particular product.
 A product managed as such do not need to seek yearly funding and priority approval as it is provided on a multi-year horizon.
 
-1. A Line of Business (LOB) ADM presents a _Simplified_ Business Case (the [Product's Roadmap](#product-roadmap-as-the-investment-plan)).
+1. A Line of Business (LOB) ADM or DG presents a _Simplified_ Business Case (the [Product's Roadmap](#product-roadmap-as-the-investment-plan)).
    - This Business Case is _NOT_ your typical Business Case used to fund a project.
 2. The LOB ADM, CIO, and CFO get into a Memorandum Of Understanding (MOU) by identifying:
    - source(s) of funds
