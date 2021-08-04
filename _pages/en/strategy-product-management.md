@@ -38,8 +38,9 @@ _Note: This page will link to internal ESDC and Government of Canada (GC) Networ
 - [Appendix B - Level of Autonomy](#appendix-b---level-of-autonomy)
 - [Appendix C - Product Framework Overview](#appendix-c---product-framework-overview)
 - [Appendix D - Portfolio Management, a CFO's perspective](#appendix-d---portfolio-management-a-cfos-perspective)
-- [Appendix E - Terms and Definitions](#appendix-e---terms-and-definitions)
-- [Appendix F - Change Log](#appendix-f---change-log)
+- [Appendix E - Value Stream Mapping](#appendix-e---value-stream-mapping)
+- [Appendix F - Terms and Definitions](#appendix-f---terms-and-definitions)
+- [Appendix G - Change Log](#appendix-g---change-log)
 - [Notes](#notes)
 
 ## Introduction
@@ -222,7 +223,7 @@ A product managed as such do not need to seek yearly funding and priority approv
    - [level of autonomy](#appendix-c---level-of-autonomy)
    - expected budget
    - the [Product's Architectural Boundaries](#appendix-a---product-architectural-boundaries)
-   - the Product's Value Stream
+   - the Product's [Value Stream](#appendix-e---value-stream-mapping)
    - the Product's internal governance structure
    - the time horizon sought for the blanket approval of priority and funding (in years)
 3. The Major Projects and Investment Board (MPIB)[^6] oversees investment arrangements and progress reporting
@@ -431,7 +432,24 @@ Within the portfolio, budgets are distributed to products according to the portf
     <small>Figure 6. Funding and budget distribution within a portfolio</small>
 </div>
 
-## Appendix E - Terms and Definitions
+## Appendix E - Value Stream Mapping
+
+Value Stream Mapping are about the individuals, irrelevant of where they fit within the org structure, that are part of the product delivery and operation (a grouping of cross-functional teams).
+
+Handoffs greatly reduced if all individuals are under a single “Product Manager”
+
+Value Stream Mapping for software delivery is an implementation of the [IITB SDLC](https://014gc.sharepoint.com/:b:/r/sites/SDLCActionPlanTeam/Shared%20Documents/General/Software%20Development%20and%20Release%20Governance.pdf?csf=1&web=1&e=SdnmEy)
+
+<div style="display: block; width: inherit; text-align: center; line-height: 3;">
+    <a href="/ITStrategy/assets/images/strategy-product-value-stream-mapping.png" style="display: block">
+        <img src = "{{ site.baseurl }}/assets/images/strategy-product-value-stream-mapping.png"
+        alt = "alt text here"
+        />
+    </a>
+    <small>Figure 7. Value Stream Mapping for Software Delivery</small>
+</div>
+
+## Appendix F - Terms and Definitions
 
 | Term     | Definition                             |
 | -------- | -------------------------------------- |
@@ -460,7 +478,7 @@ Within the portfolio, budgets are distributed to products according to the portf
 | TBS      | Treasury Board Secretariat |
 | TMB      | Transformation Management Branch |
 
-## Appendix F - Change Log
+## Appendix G - Change Log
 
 | Version | Date of Change | Change Description |
 |:------- | -------------- | --------------------------------------------- |
