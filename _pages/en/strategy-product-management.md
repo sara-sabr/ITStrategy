@@ -97,7 +97,7 @@ To meet [Policy on Results](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=31300)
 This because Canadian expectations have changed, as codified in the new [Policy on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603).
 
 Today, "Digital" is still considered an internal service in a departmental Program Alignment Architecture.
-This gap affects programs' ability to deliver and does not promote the needed _shared accountability_ between Program owners, the CIO, and the CFO.
+This gap affects programs' ability to deliver and does not promote the needed _shared accountability_ between Program Officials, the CIO, and the CFO.
 
 <div style="display: block; width: inherit; text-align: center; line-height: 3;">
     <a href="/ITStrategy/assets/images/paa-products-value-stream.png" style="display: block">
@@ -304,7 +304,7 @@ A technical/process/people debt (e.g., architecture refactoring, new API, invest
 In the commercial world, it would be tied to profit.
 But in the public sector world, it is tied to a Program's mandate and [expected result](https://www.tbs-sct.gc.ca/ems-sgd/edb-bdd/index-eng.html#orgs/dept/128/infograph/results).
 The IT Branch can report on costs spent on the product as well in its [APM Assessment](https://www.gcpedia.gc.ca/wiki/OCIO_Application_Portfolio_Management).
-But ultimately, this metric is a business one and Program Owners are encouraged to partner with the CDO and the BAAO to help define them.
+But ultimately, this metric is a business one and Program Officials are encouraged to partner with the CDO and the BAAO to help define them.
 
 In Figure 3, we can see that the workload distribution over a 12-month period shifted from focusing on new features, to fixing defects and addressing compliance risks, to remediating technical debt.
 
