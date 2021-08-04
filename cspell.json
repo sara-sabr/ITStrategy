@@ -541,7 +541,16 @@
     "CNLL",
     "DCMI",
     "themeable",
-    "CCIGQ"
+    "CCIGQ",
+    "DGPSS",
+    "BDPD",
+    "CEAI",
+    "DGSVI",
+    "lorsqu'une",
+    "lorsqu’on",
+    "PSON",
+    "GPSON",
+    "Interfonctionnel"
   ],
   "flagWords": [],
   "import": ["node_modules/@cspell/dict-fr-fr/cspell-ext.json"],
