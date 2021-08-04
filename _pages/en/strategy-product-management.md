@@ -211,7 +211,7 @@ Planning stages do not last more than a few weeks so that changes in business op
 
 ### Seeking Product Status
 
-A Program area (represented by an Associate Deputy Minister (ADM)) may request product status to the CFO and CIO.
+A Program area (represented by a Director General (DG) or an Associate Deputy Minister (ADM)) may request product status to the CFO and CIO.
 Having "product status" means obtaining blanket approval and funding over a time horizon for the particular product.
 A product managed as such do not need to seek yearly funding and priority approval as it is provided on a multi-year horizon.
 
