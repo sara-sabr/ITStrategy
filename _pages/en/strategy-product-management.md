@@ -38,8 +38,9 @@ _Note: This page will link to internal ESDC and Government of Canada (GC) Networ
 - [Appendix B - Level of Autonomy](#appendix-b---level-of-autonomy)
 - [Appendix C - Product Framework Overview](#appendix-c---product-framework-overview)
 - [Appendix D - Portfolio Management, a CFO's perspective](#appendix-d---portfolio-management-a-cfos-perspective)
-- [Appendix E - Terms and Definitions](#appendix-e---terms-and-definitions)
-- [Appendix F - Change Log](#appendix-f---change-log)
+- [Appendix E - Value Stream Mapping](#appendix-e---value-stream-mapping)
+- [Appendix F - Terms and Definitions](#appendix-f---terms-and-definitions)
+- [Appendix G - Change Log](#appendix-g---change-log)
 - [Notes](#notes)
 
 ## Introduction
@@ -97,12 +98,13 @@ To meet [Policy on Results](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=31300)
 This because Canadian expectations have changed, as codified in the new [Policy on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603).
 
 Today, "Digital" is still considered an internal service in a departmental Program Alignment Architecture.
-This gap affects programs' ability to deliver and does not promote the needed _shared accountability_ between Program owners, the CIO, and the CFO.
+This gap affects programs' ability to deliver and does not promote the needed _shared accountability_ between Program Officials, the CIO, and the CFO.
 
 <div style="display: block; width: inherit; text-align: center; line-height: 3;">
     <a href="/ITStrategy/assets/images/paa-products-value-stream.png" style="display: block">
         <img src = "{{ site.baseurl }}/assets/images/paa-products-value-stream.png"
-        alt = "alt text here"
+        alt = "The image shows the link between the IT Branch's budget and the departmental program products. On the left size, we have 3 product images to represent a Program's product offering to canadians. In the middle of the image, a single product's value stream is shown (ideate, create, release, operate steps). Each value stream step is linked to a digital infrastructure image (showing demand for a digital infrastructure). The digital infrastructure image is comprised of a series of CIO level products. This demand for digital infrastructure is shown as an arrow towards a final image representing the IT Branch's budget. This final image shows the branch's total budget ($231.6M) and how it is split into two: A-Base and B-Base. Finally, the image shows that each A-Base and B-Base sources of funds have only 10% dedicated to projects, the other 90% is for RUN activities."
+        style="max-width: 900px; height: inherit;"
         />
     </a>
     <small>Figure 1. Departmental products are tied to the Program Inventory. And the CIO-level products are used in their value streams.</small>
@@ -211,22 +213,24 @@ Planning stages do not last more than a few weeks so that changes in business op
 
 ### Seeking Product Status
 
-A Program area (represented by an Associate Deputy Minister (ADM)) may request product status to the CFO and CIO.
-Having "product status" means obtaining blanket approval and funding over a time horizon for the particular product.
+A Program area (represented by a Director General (DG) or an Associate Deputy Minister (ADM)) may request product status to the CFO and CIO.
+Having "product status" means obtaining blanket funding priority over a time horizon for the particular product.
 A product managed as such do not need to seek yearly funding and priority approval as it is provided on a multi-year horizon.
 
-1. A Line of Business (LOB) ADM presents a _Simplified_ Business Case (the [Product's Roadmap](#product-roadmap-as-the-investment-plan)).
+1. A Line of Business (LOB) ADM or DG presents a _Simplified_ Business Case (the [Product's Roadmap](#product-roadmap-as-the-investment-plan)).
    - This Business Case is _NOT_ your typical Business Case used to fund a project.
-2. The LOB ADM, CIO, and CFO get into a Memorandum Of Understanding (MOU) by identifying:
+2. The LOB ADM/DG, CIO, and CFO get into a Memorandum Of Understanding (MOU) by identifying:
    - source(s) of funds
    - [level of autonomy](#appendix-c---level-of-autonomy)
    - expected budget
    - the [Product's Architectural Boundaries](#appendix-a---product-architectural-boundaries)
-   - the Product's Value Stream
+   - the Product's [Value Stream](#appendix-e---value-stream-mapping)
    - the Product's internal governance structure
    - the time horizon sought for the blanket approval of priority and funding (in years)
 3. The Major Projects and Investment Board (MPIB)[^6] oversees investment arrangements and progress reporting
    - Includes TB submissions, review of product status, and reporting requirements
+
+_Note 1_: The LOB ADM/DG receives a known budget, but its funding distribution within her portfolio is managed by her.
 
 ### Product Roadmap as the Investment Plan
 
@@ -235,7 +239,8 @@ The Product's roadmap acts as the Investment Plan for the time horizon and is th
 <div style="display: block; width: inherit; text-align: center; line-height: 3;">
     <a href="/ITStrategy/assets/images/paa-products-value-stream.png" style="display: block">
         <img src = "{{ site.baseurl }}/assets/images/product-roadmap.png"
-        alt = "alt text here"
+        alt = "The image shows a road that, at its end, forks into two futures: Future A and Future B. On that road there are a series of Business Outcome flags. Each Business Outcome Flag includes a value and a cost (in sprints). One of the Business Outcome flag also has a 'must have by date' label. Under the road are time blocks: next three months, next three months, next six months, future."
+        style="max-width: 900px; height: inherit;"
         />
     </a>
     <small>Figure 2. The Product's Roadmap as the Investment Plan.</small>
@@ -245,8 +250,8 @@ Business Outcomes are mini-business cases (typically 1 pager) and the definition
 Business Outcome deliveries also act as decision gates in the investment plan.
 
 The blanket approval over the time horizon gives the product's value stream stability.
-However, funding may be augmented based on the desired Business Outcome in the roadmap, at which point departmental governance needs to be engaged.
-This funding is not based on historical spending levels but on future need.
+A budget may be augmented based on the desired Business Outcome(s) in the roadmap, at which point departmental governance needs to be engaged since budgets are a CFO domain.
+This budget ask is not based on historical spending levels but on future need.
 
 The Roadmap **can and will be re-prioritized**.
 New business outcomes may be added or shifted on its timeline due to experience gained with the product and to changes in departmental or portfolio priorities.
@@ -283,7 +288,8 @@ These metrics are consumed by the Product Team, the Business Sponsor, and Govern
 <div style="display: block; width: inherit; text-align: center; line-height: 3;">
     <a href="/ITStrategy/assets/images/product-key-metrics.png" style="display: block">
         <img src = "{{ site.baseurl }}/assets/images/product-key-metrics.png"
-        alt = "alt text here"
+        alt = "The image shows a grouping of 3 sub-image. The first one includes four squares corresponding to the diagnostic metrics: velocity, time to deliver (in days), load (in number of items), happiness (pourcentage of turn over and survey result). Each of the four squares also has a coloured arrow, either red or green to show whether that metric is improving or not. The second image is workload distribution. It shows a bar graphic of twleve bars, one for each month. Under the bar graphic is the legend for each work item: features, defects, risks, debt. The bar graphic has a colour for each of the work item. At the beginning, the bars show more features than the other work items. At the end of the graphic, the bars show more debt than other work items. The final image is the business results. This image includes three squares: one for value (showing number of claims and a APM+ value in percentage), one for costs (showing FTEs, infrastructure, and licence cost in dollars), one for Quality (showing number of incidents, escape defect ration in pourcentage, and APM+ condition."
+        style="max-width: 900px; height: inherit;"
         />
     </a>
     <small>Figure 3. Three key metrics that Governance will use to measure progress.</small>
@@ -304,7 +310,7 @@ A technical/process/people debt (e.g., architecture refactoring, new API, invest
 In the commercial world, it would be tied to profit.
 But in the public sector world, it is tied to a Program's mandate and [expected result](https://www.tbs-sct.gc.ca/ems-sgd/edb-bdd/index-eng.html#orgs/dept/128/infograph/results).
 The IT Branch can report on costs spent on the product as well in its [APM Assessment](https://www.gcpedia.gc.ca/wiki/OCIO_Application_Portfolio_Management).
-But ultimately, this metric is a business one and Program Owners are encouraged to partner with the CDO and the BAAO to help define them.
+But ultimately, this metric is a business one and Program Officials are encouraged to partner with the CDO and the BAAO to help define them.
 
 In Figure 3, we can see that the workload distribution over a 12-month period shifted from focusing on new features, to fixing defects and addressing compliance risks, to remediating technical debt.
 
@@ -333,7 +339,8 @@ To formalize engagement between stakeholders, a Branch Initiative sponsored by t
 <div style="display: block; width: inherit; text-align: center; line-height: 3;">
     <a href="/ITStrategy/assets/images/strategy-product-mgt-phase-1.png" style="display: block">
         <img src = "{{ site.baseurl }}/assets/images/strategy-product-mgt-phase-1.png"
-        alt = "alt text here"
+        alt = "The image is a timeline showing blocks of work over a 1.5 year period. On the left (starting Oct 2021) is the Start of the Branch Initiative with 'Product MVP Framework'. Near the middle  (starting Apr 2022) is the Start Framework Evaluation with 'Evaluate Product Candidates'. Within the 'Evaluate Product Candidates' is the start of 'Update Framework' that is followed by 'Producte Roadmap for Phase 2'. Closure of Phase 1 is timed with March 2023. At the bottom of the timeline are the dates for the beginning and end of the Branch Intiative: Oct 2021 (fiscal year 2021/2022), Apr 2022 (beginning of fiscal year 2022/2023), and Mar 2023 (end of fiscal year 2022/2023)."
+        style="max-width: 900px; height: inherit;"
         />
     </a>
     <small>Figure 4. Phase 1 of the Strategy as a Branch Initiative.</small>
@@ -369,7 +376,7 @@ A given Product has the following architectural boundaries, used by Enterprise A
 - ***Information Profile***, defined by the following attributes:
   - Privacy, manifested by a [Privacy Impact Assessment](https://www.priv.gc.ca/en/privacy-topics/privacy-impact-assessments/gd_exp_202003/#toc4) (includes Retention and Disposition rules)
   - Security, manifested by a Statement of Sensitivity and a Statement of Acceptable Risk
-  - Ethics, manifested by one or more Algorithmic Impact Assessment
+  - Ethics, manifested by one or more [Algorithmic Impact Assessment](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/algorithmic-impact-assessment.html)
 - ***Technology Standards***, defined by the following attribute:
   - Unacceptable technical stacks ([in containment or retirement](https://dialogue/grp/CO7397744/Lists/Standards%20Catalogue/AllItems.aspx))
 
@@ -409,7 +416,8 @@ _Note 4:_ Corporate services include Funding for Cyber Security Operation Centre
 <div style="display: block; width: inherit; text-align: center; line-height: 3;">
     <a href="/ITStrategy/assets/images/product-management-framework-overview.png" style="display: block">
         <img src = "{{ site.baseurl }}/assets/images/product-management-framework-overview.png"
-        alt = "alt text here"
+        alt = "The overview of the framework is comprised of five elements, displayed from left to right and including a text block under each one. The first is the Digital Product, with a text block having three bullets: Approved Boundaries determine level of autonomy, Product Roadmapping involving architecture domains, Clear ownership for prioritization decisions and accountability. The second is Standard sets of metrics showing a smaller image of Figure 3 above. The third is Value Stream (people) showing images of small teams interacting with each other over the four stages of value stream : ideate, create, release, operate. The value stream text block includes four bullets: Network of cross-functional teams involved in the delivery and operation of the product, maps to the IITB SDLC, maps to ITIL v4 Value Chain, Self-Organized (free to use which ever management method). The fourth is Governance (represented by an image of a table with people around it), its text block includes four bullets: Prioritizes Product's backlog and distributes workload, Defines release management guardrails, engaged in product roadmapping (e.g. ARC, IT Security, Privacy), Provides new funding and expenditure authorities. The final element is Portfolio (represented by four bags of money), its text box includes three bullets: Provides funding sources to Value Stream, Strategic Alignment of funds (prioritization), evaluates product's business value."
+        style="max-width: 900px; height: inherit;"
         />
     </a>
     <small>Figure 5. Overview of the Proposed Product Management Framework</small>
@@ -417,19 +425,38 @@ _Note 4:_ Corporate services include Funding for Cyber Security Operation Centre
 
 ## Appendix D - Portfolio Management, a CFO's perspective
 
-Periodic funding is allocated to portfolios based on departmental priorities.
-Within the portfolio, budgets are distributed to products according to the portfolio's own priorities.
+The CFO allocates a budget to a portfolio based on departmental priorities, for a given time horizon (multi-year)
+Within the portfolio, the Program Official distributes her funds to products according to the portfolio's own priorities.
 
 <div style="display: block; width: inherit; text-align: center; line-height: 3;">
     <a href="/ITStrategy/assets/images/product-management-cfo-perspective.png" style="display: block">
         <img src = "{{ site.baseurl }}/assets/images/product-management-cfo-perspective.png"
-        alt = "alt text here"
+        alt = "The image shows the relationships between the CFO, Program Officials, Teams, Roadmaps, and Stakeholders. On the left side is the CFO with a large bag of money, representing a program's portfolio budget. On the right of the CFO are three smaller bags of money (under a Program Official), representing funding for three products. The third smaller bag of money is bigger than the other two. On the right are teams. The two smaller bag of money have one team, the bigger bag of money (3rd product) has two teams. Next, on the right, are smaller version of figure 2 image (a product's roadmap that is a road forking at its end). Product number 3 (the bigger bag of money) has more than one roadmap. Finally, on the far right are images of Stakeholders."
+        style="max-width: 900px; height: inherit;"
         />
     </a>
-    <small>Figure 6. Funding and budget distribution within a portfolio</small>
+    <small>Figure 6. Budget and funding distribution within a portfolio</small>
 </div>
 
-## Appendix E - Terms and Definitions
+## Appendix E - Value Stream Mapping
+
+Value Stream Mapping are about the individuals, irrelevant of where they fit within the org structure, that are part of the product delivery and operation (a grouping of cross-functional teams).
+
+Handoffs greatly reduced if all individuals are under a single “Product Manager”
+
+Value Stream Mapping for software delivery is an implementation of the [IITB SDLC](https://014gc.sharepoint.com/:b:/r/sites/SDLCActionPlanTeam/Shared%20Documents/General/Software%20Development%20and%20Release%20Governance.pdf?csf=1&web=1&e=SdnmEy)
+
+<div style="display: block; width: inherit; text-align: center; line-height: 3;">
+    <a href="/ITStrategy/assets/images/strategy-product-value-stream-mapping.png" style="display: block">
+        <img src = "{{ site.baseurl }}/assets/images/strategy-product-value-stream-mapping.png"
+        alt = "The image includes three sub images. The first one is Value Stream (people) showing images of small teams interacting with each other over the four stages of value stream : ideate, create, release, operate. A downward arrow points to a second sub-image that is an overview of the IITB SDLC (a series of steps to deliver software, either waterfall, agile, or DevOps). The Value Stream sub-image has a second arrow that points to an org chart image. The org chart image has dark squares representing positions with some of the squares highlighted in red, representing the individuals that are part of the value stream."
+        style="max-width: 900px; height: inherit;"
+        />
+    </a>
+    <small>Figure 7. Value Stream Mapping for Software Delivery</small>
+</div>
+
+## Appendix F - Terms and Definitions
 
 | Term     | Definition                             |
 | -------- | -------------------------------------- |
@@ -458,7 +485,7 @@ Within the portfolio, budgets are distributed to products according to the portf
 | TBS      | Treasury Board Secretariat |
 | TMB      | Transformation Management Branch |
 
-## Appendix F - Change Log
+## Appendix G - Change Log
 
 | Version | Date of Change | Change Description |
 |:------- | -------------- | --------------------------------------------- |
@@ -470,7 +497,7 @@ Within the portfolio, budgets are distributed to products according to the portf
 [^2]: Framework = a directive, a set of standards (e.g., reporting), and a set of procedures (e.g., manoeuvring governance)
 [^3]: The main areas of the CFO's domain expertise are Enterprise Project Management, Financial Management, and Investment Performance Management.
 [^4]: The main areas of the CIO's domain expertise are Project Management Office, Release Management (and ITSM), IT Security, and Enterprise Architecture.
-[^5]: See [this inventory]({{ site.baseurl }}/ITStrategy/strategy-product-mgt-definitions.html) of 38 known definitions from industry and government.
+[^5]: See [this inventory]({{ site.baseurl }}/strategy-product-mgt-definitions.html) of 38 known definitions from industry and government.
 [^6]: [MPIB](https://dialogue/grp/PEC-CEP/Committee%20Terms%20of%20Reference/MPIB%20-%20Major%20Projects%20and%20Investments%20Board%20(2).pdf) is a Tier 2 committee at ESDC chaired by the CFO.
 [^7]: cATOs are inspired by the [US Air Force's Platform One team](https://www.linkedin.com/feed/update/urn:li:share:6734861153765326848/), in the Chief Software Office. NIST and ITSG-33 do not have continuous types of controls. Will need to innovate while remaining in compliance.
 [^8]: Framework = a directive, a set of standards (e.g., report requirements), and a set of procedures
