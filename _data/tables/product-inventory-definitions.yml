@@ -1,0 +1,513 @@
+- table:
+  id: t001
+  name:
+    fr: Inventaire des définitions pour le mot "produit"
+    en: Inventory of definitions for the word "product"
+  rows:
+  - row:
+    headers: true
+    cols:
+    - col:
+      data:
+        list: false
+        fr: Source
+        en: Source
+    - col:
+      data:
+        list: false
+        fr: Définition de "produit"
+        en: Definition of "product"
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: <a href="https://014gc.sharepoint.com/:p:/s/BDM-Advisor/Ed_aWH-zKItHo7pQ7UhtWlIBb11pOjsouMItofBIAkgBZg?e=7fkhQx">BAAO</a>
+        en: <a href="https://014gc.sharepoint.com/:p:/s/BDM-Advisor/Ed_aWH-zKItHo7pQ7UhtWlIBb11pOjsouMItofBIAkgBZg?e=7fkhQx">BAAO</a>
+    - col:
+      data:
+        list: false
+        fr: An aggregation of features (high level functional/non-functional requirements) that are aligned to capabilities. <br><br>A product supports the establishment and maturation of one or more capabilities.
+        en: An aggregation of features (high level functional/non-functional requirements) that are aligned to capabilities. <br><br>A product supports the establishment and maturation of one or more capabilities.
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: TBS (email)
+        en: TBS (email)
+    - col:
+      data:
+        list: false
+        fr: A solution or service that is developed to improve a business capability (internal products) or to improve a customer experience (external products). Examples could include an online payments service, digital ID, or a benefits portal
+        en: A solution or service that is developed to improve a business capability (internal products) or to improve a customer experience (external products). Examples could include an online payments service, digital ID, or a benefits portal
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: <a href="https://pubs.opengroup.org/architecture/o-aa-standard/#Product">The Open Group (Open Agile Architecture)</a>
+        en: <a href="https://pubs.opengroup.org/architecture/o-aa-standard/#Product">The Open Group (Open Agile Architecture)</a>
+    - col:
+      data:
+        list: false
+        fr: A bundle of services and/or goods offered to customers.
+        en: A bundle of services and/or goods offered to customers.
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: <a href="https://www.gartner.com/document/3979350?ref=solrAll&refval=281819687">Gartner Peer Connect (opinions of Gartner Clients)</a>
+        en: <a href="https://www.gartner.com/document/3979350?ref=solrAll&refval=281819687">Gartner Peer Connect (opinions of Gartner Clients)</a>
+    - col:
+      data:
+        list: false
+        fr: A product is an object or system made available for consumer use; it is anything that can be offered to a market to satisfy the desire or need of a customer<br><br>Service is a Product<br><br>To be a product, it must be packaged properly - definition, market demand, competitive environment, recommended solution, marketing material and sales methods, cost to implement and operate with ROI, profit and loss, future revenue, etc<br><Br>(pharmaceutical) Product is an item (medicine) made available to consumers to satisfy their desire or needs. It requires all round efforts to research, manufacture and market<br><br>(IT) A product is a solution (people, process and technology) that is managed as a collection of a backlog of changes and new features<br><br>A product is defined by its customer-centric inclination<br><br>A product is something that can be consumed by our audiences and we get paid for from them.
+        en: A product is an object or system made available for consumer use; it is anything that can be offered to a market to satisfy the desire or need of a customer<br><br>Service is a Product<br><br>To be a product, it must be packaged properly - definition, market demand, competitive environment, recommended solution, marketing material and sales methods, cost to implement and operate with ROI, profit and loss, future revenue, etc<br><Br>(pharmaceutical) Product is an item (medicine) made available to consumers to satisfy their desire or needs. It requires all round efforts to research, manufacture and market<br><br>(IT) A product is a solution (people, process and technology) that is managed as a collection of a backlog of changes and new features<br><br>A product is defined by its customer-centric inclination<br><br>A product is something that can be consumed by our audiences and we get paid for from them.
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: <a href="https://www.gartner.com/document/3571057">Gartner (G00319839)</a>
+        en: <a href="https://www.gartner.com/document/3571057">Gartner (G00319839)</a>
+    - col:
+      data:
+        list: false
+        fr: A Product includes 6 attributes :<br>-	Can serve external or internal customers<br>-	Delivers capabilities that customers value<br>-	Has a name and can be clearly defined<br>-	Can be a repeatable service<br>-	May be bought, sold or subscribed to<br>-	Probably has competition
+        en: A Product includes 6 attributes :<br>-	Can serve external or internal customers<br>-	Delivers capabilities that customers value<br>-	Has a name and can be clearly defined<br>-	Can be a repeatable service<br>-	May be bought, sold or subscribed to<br>-	Probably has competition
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: <a href="https://wiki.en.it-processmaps.com/index.php/ITIL_Glossary/_ITIL_Terms_P">ITIL</a>
+        en: <a href="https://wiki.en.it-processmaps.com/index.php/ITIL_Glossary/_ITIL_Terms_P">ITIL</a>
+    - col:
+      data:
+        list: false
+        fr: A configuration of resources, created by the organization, that will be potentially valuable for their customers (intro to ITIL4 course)
+        en: A configuration of resources, created by the organization, that will be potentially valuable for their customers (intro to ITIL4 course)
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: <a href="https://pubs.opengroup.org/it4it/refarch21/IT4ITv2.1.html">IT4IT</a>
+        en: <a href="https://pubs.opengroup.org/it4it/refarch21/IT4ITv2.1.html">IT4IT</a>
+    - col:
+      data:
+        list: false
+        fr: NIL
+        en: NIL
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: <a href="http://pmconnection.com/modules.php?name=Encyclopedia&op=content&tid=1240">PMBoK</a>
+        en: <a href="http://pmconnection.com/modules.php?name=Encyclopedia&op=content&tid=1240">PMBoK</a>
+    - col:
+      data:
+        list: false
+        fr: An artifact that is produced, is quantifiable, and can be either an end item in itself or a component item. Additional words for products are material and goods. Contrast with result.<br><br><a href="https://pmstudycircle.com/product-scope-vs-project-scope/">6th edition</a> - an artifact or a quantifiable that can either be an end item in itself or a component item. These items are also called materials or goods.
+        en: An artifact that is produced, is quantifiable, and can be either an end item in itself or a component item. Additional words for products are material and goods. Contrast with result.<br><br><a href="https://pmstudycircle.com/product-scope-vs-project-scope/">6th edition</a> - an artifact or a quantifiable that can either be an end item in itself or a component item. These items are also called materials or goods.
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: <a href="https://discovery.bmc.com/r/docs_bmc_com/cdm/BMC.CORE/class/BMC_Product.html">BMC Remedy (ITSM software)</a>
+        en: <a href="https://discovery.bmc.com/r/docs_bmc_com/cdm/BMC.CORE/class/BMC_Product.html">BMC Remedy (ITSM software)</a>
+    - col:
+      data:
+        list: false
+        fr: The BMC_Product class is the primary class used to model software products installed on a computer system in your organization
+        en: The BMC_Product class is the primary class used to model software products installed on a computer system in your organization
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: <a href="https://www.pmi.org/">PMI.org</a>
+        en: <a href="https://www.pmi.org/">PMI.org</a>
+    - col:
+      data:
+        list: false
+        fr: Refer to PMBoK
+        en: Refer to PMBoK
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: <a href="https://www.pdma.org/page/glossary_access2#P">PDMA.org (BoK 2nd edition)</a>
+        en: <a href="https://www.pdma.org/page/glossary_access2#P">PDMA.org (BoK 2nd edition)</a>
+    - col:
+      data:
+        list: false
+        fr: All goods, services, and knowledge sold. Products are bundles of attributes (features, functions, benefits, and uses) and can be either tangible, as in the case of physical goods, or intangible, as in the case of those associated with service benefits, or can be a combination of the two.
+        en: All goods, services, and knowledge sold. Products are bundles of attributes (features, functions, benefits, and uses) and can be either tangible, as in the case of physical goods, or intangible, as in the case of those associated with service benefits, or can be a combination of the two.
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: <a href="https://www.axelos.com/best-practice-solutions">MSP 5th edition</a>
+        en: <a href="https://www.axelos.com/best-practice-solutions">MSP 5th edition</a>
+    - col:
+      data:
+        list: false
+        fr: (Managing Successful Programmes)<br>An input or output, whether tangible or intangible, that can be described in advance, created and tested; also known as an output or deliverable.
+        en: (Managing Successful Programmes)<br>An input or output, whether tangible or intangible, that can be described in advance, created and tested; also known as an output or deliverable.
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: <a href="https://prince2.ca/prince2-and-pmbok-product-vs-work-package/">Prince2</a>
+        en: <a href="https://prince2.ca/prince2-and-pmbok-product-vs-work-package/">Prince2</a>
+    - col:
+      data:
+        list: false
+        fr: An input or output, whether tangible or intangible, that can be described in advance, created and tested.<br>PRINCE2 has two types of products<br><br>-	Management Products. This is what is produced to manage and control the project. The Project Brief, Project Initiation Document, Business Case and Project Plan are all examples of management Products.<br>-	Specialist Products. This is what is made by specialists in the projects. It can be the functional requirement specification, a web design, the database model, the curriculum for user training, the CAD model, a module of the software to be made.
+        en: An input or output, whether tangible or intangible, that can be described in advance, created and tested.<br>PRINCE2 has two types of products<br><br>-	Management Products. This is what is produced to manage and control the project. The Project Brief, Project Initiation Document, Business Case and Project Plan are all examples of management Products.<br>-	Specialist Products. This is what is made by specialists in the projects. It can be the functional requirement specification, a web design, the database model, the curriculum for user training, the CAD model, a module of the software to be made.
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: <a href="https://www.axelos.com/best-practice-solutions">MoR</a>
+        en: <a href="https://www.axelos.com/best-practice-solutions">MoR</a>
+    - col:
+      data:
+        list: false
+        fr: (Management of Risk)<br>links to Prince2/ITIL/PMBOK
+        en: (Management of Risk)<br>links to Prince2/ITIL/PMBOK      
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: <a href="https://www.axelos.com/best-practice-solutions">MoP</a>
+        en: <a href="https://www.axelos.com/best-practice-solutions">MoP</a>
+    - col:
+      data:
+        list: false
+        fr: (Management of Portfolios)<br>links to Prince2/ITIL/PMBOK
+        en: (Management of Portfolios)<br>links to Prince2/ITIL/PMBOK
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: <a href="https://www.axelos.com/best-practice-solutions">MoV</a>
+        en: <a href="https://www.axelos.com/best-practice-solutions">MoV</a>
+    - col:
+      data:
+        list: false
+        fr: (Management of Value)<br>links to Prince2/ITIL/PMBOK
+        en: (Management of Value)<br>links to Prince2/ITIL/PMBOK
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: <a href="https://www.axelos.com/best-practice-solutions">P3O</a>
+        en: <a href="https://www.axelos.com/best-practice-solutions">P3O</a>
+    - col:
+      data:
+        list: false
+        fr: (Portfolio, Programme, and Project Offices)<br>links to Prince2/ITIL/PMBOK
+        en: (Portfolio, Programme, and Project Offices)<br>links to Prince2/ITIL/PMBOK
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: <a href="https://www.axelos.com/best-practice-solutions">P3M3</a>
+        en: <a href="https://www.axelos.com/best-practice-solutions">P3<3</a>
+    - col:
+      data:
+        list: false
+        fr: (Portfolio, Programme, and Project Maturity Model)<br>links to Prince2/ITIL/PMBOK
+        en: (Portfolio, Programme, and Project Maturity Model)<br>links to Prince2/ITIL/PMBOK
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: <a href="https://www.praxiom.com/iso-definition.htm#Product">ISO 9001 (2015)</a>
+        en: <a href="https://www.praxiom.com/iso-definition.htm#Product">ISO 9001 (2015)</a>
+    - col:
+      data:
+        list: false
+        fr: A product is a tangible or intangible output that is the result of a process that does not include activities that are performed at the interface between the supplier (provider) and the customer.<br><br>Products can be tangible or intangible. According to a note to this definition, there are three generic product categories - hardware, processed materials, and software. Many products combine several of these categories. For example, an automobile (a product) combines hardware (e.g. tires), software (e.g. engine control algorithms), and processed materials (e.g. lubricants).
+        en: A product is a tangible or intangible output that is the result of a process that does not include activities that are performed at the interface between the supplier (provider) and the customer.<br><br>Products can be tangible or intangible. According to a note to this definition, there are three generic product categories - hardware, processed materials, and software. Many products combine several of these categories. For example, an automobile (a product) combines hardware (e.g. tires), software (e.g. engine control algorithms), and processed materials (e.g. lubricants).
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: <a href="https://www.iso.org/obp/ui/#iso:std:iso:9000:ed-4:v1:en">ISO 9000 (2015)</a>
+        en: <a href="https://www.iso.org/obp/ui/#iso:std:iso:9000:ed-4:v1:en">ISO 9000 (2015)</a>
+    - col:
+      data:
+        list: false
+        fr: <a href="https://www.iso.org/obp/ui/#iso:std:iso:9000:ed-4:v1:en:term:3.7.5">Output (3.7.5)</a> of an <a href="https://www.iso.org/obp/ui/#iso:std:iso:9000:ed-4:v1:en:term:3.2.1">organization (3.2.1)</a> that can be produced without any transaction taking place between the organization and the <a href="https://www.iso.org/obp/ui/#iso:std:iso:9000:ed-4:v1:en:term:3.2.4">customer (3.2.4)</a>.<br><br>Note 1 to entry :Production of a product is achieved without any transaction necessarily taking place between <a href="https://www.iso.org/obp/ui/#iso:std:iso:9000:ed-4:v1:en:term:3.2.5">provider (3.2.5)</a> and customer, but can often involve this service (3.7.7) element upon its delivery to the customer.<br>Note 2 to entry :The dominant element of a product is that it is generally tangible.<br>Note 3 to entry :Hardware is tangible and its amount is a countable <a href="https://www.iso.org/obp/ui/#iso:std:iso:9000:ed-4:v1:en:term:3.10.1">characteristic (3.10.1)</a> (e.g. tyres). Processed materials are tangible and their amount is a continuous characteristic (e.g. fuel and soft drinks). Hardware and processed materials are often referred to as goods. Software consists of <a href="https://www.iso.org/obp/ui/#iso:std:iso:9000:ed-4:v1:en:term:3.8.2">information (3.8.2)</a> regardless of delivery medium (e.g. computer programme, mobile phone app, instruction manual, dictionary content, musical composition copyright, driver's license).
+        en: <a href="https://www.iso.org/obp/ui/#iso:std:iso:9000:ed-4:v1:en:term:3.7.5">Output (3.7.5)</a> of an <a href="https://www.iso.org/obp/ui/#iso:std:iso:9000:ed-4:v1:en:term:3.2.1">organization (3.2.1)</a> that can be produced without any transaction taking place between the organization and the <a href="https://www.iso.org/obp/ui/#iso:std:iso:9000:ed-4:v1:en:term:3.2.4">customer (3.2.4)</a>.<br><br>Note 1 to entry :Production of a product is achieved without any transaction necessarily taking place between <a href="https://www.iso.org/obp/ui/#iso:std:iso:9000:ed-4:v1:en:term:3.2.5">provider (3.2.5)</a> and customer, but can often involve this service (3.7.7) element upon its delivery to the customer.<br>Note 2 to entry :The dominant element of a product is that it is generally tangible.<br>Note 3 to entry :Hardware is tangible and its amount is a countable <a href="https://www.iso.org/obp/ui/#iso:std:iso:9000:ed-4:v1:en:term:3.10.1">characteristic (3.10.1)</a> (e.g. tyres). Processed materials are tangible and their amount is a continuous characteristic (e.g. fuel and soft drinks). Hardware and processed materials are often referred to as goods. Software consists of <a href="https://www.iso.org/obp/ui/#iso:std:iso:9000:ed-4:v1:en:term:3.8.2">information (3.8.2)</a> regardless of delivery medium (e.g. computer programme, mobile phone app, instruction manual, dictionary content, musical composition copyright, driver's license).
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: <a href="https://csrc.nist.gov/glossary/term/product">NIST CSRC</a>
+        en: <a href="https://csrc.nist.gov/glossary/term/product">NIST CSRC</a>
+    - col:
+      data:
+        list: false
+        fr: Definitions from ISO sources<br>(ISO 9241-11:1998) Part of the equipment (hardware, software and materials) for which usability is to be specified or evaluated<br>(ISO/IEC 19770-2) A complete set of computer programs, procedures and associated documentation and data designed for delivery to a software consumer<br>(<a href="https://nvlpubs.nist.gov/nistpubs/ir/2016/NIST.IR.7511r4.pdf">SCAP</a>) A software application that has one or more capabilities<br>(ISO 9000) Result of a process. Note - A system as a “product” is what is delivered by systems engineering.
+        en: Definitions from ISO sources<br>(ISO 9241-11:1998) Part of the equipment (hardware, software and materials) for which usability is to be specified or evaluated<br>(ISO/IEC 19770-2) A complete set of computer programs, procedures and associated documentation and data designed for delivery to a software consumer<br>(<a href="https://nvlpubs.nist.gov/nistpubs/ir/2016/NIST.IR.7511r4.pdf">SCAP</a>) A software application that has one or more capabilities<br>(ISO 9000) Result of a process. Note - A system as a “product” is what is delivered by systems engineering. 
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: <a href="https://dictionary.cambridge.org/dictionary/english/product">Cambridge Dictionary</a>
+        en: <a href="https://dictionary.cambridge.org/dictionary/english/product">Cambridge Dictionary</a>
+    - col:
+      data:
+        list: false
+        fr: Something that is made to be sold, usually something that is produced by an industrial process or, less commonly, something that is grown or obtained through farming
+        en: Something that is made to be sold, usually something that is produced by an industrial process or, less commonly, something that is grown or obtained through farming
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: <a href="https://www.merriam-webster.com/dictionary/product">Merriam-Webster Dictionary</a>
+        en: <a href="https://www.merriam-webster.com/dictionary/product">Merriam-Webster Dictionary</a>
+    - col:
+      data:
+        list: false
+        fr: <b>1.</b> the number or expression resulting from the multiplication together of two or more numbers or expressions<br><b>2</b> a (1) - something produced especially - commodity sense 1<br>(2) - something (such as a service) that is marketed or sold as a commodity<br>b - something resulting from or necessarily following from a set of conditions a product of his environment<Br><b>3</b> - the amount, quantity, or total produced
+        en: <b>1.</b> the number or expression resulting from the multiplication together of two or more numbers or expressions<br><b>2</b> a (1) - something produced especially - commodity sense 1<br>(2) - something (such as a service) that is marketed or sold as a commodity<br>b - something resulting from or necessarily following from a set of conditions a product of his environment<Br><b>3</b> - the amount, quantity, or total produced
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: <a href="https://www.infotech.com/research/ss/transition-from-project-to-product-delivery">Info-Tech Research group</a>
+        en: <a href="https://www.infotech.com/research/ss/transition-from-project-to-product-delivery">Info-Tech Research group</a>
+    - col:
+      data:
+        list: false
+        fr: A product is generally viewed as an item, tangible or virtual, that is developed through a process and provides value to stakeholders and the market.<br><br>Do not expect a universal definition of a product. Everyone will have a different understanding of what a product is and will structure people, processes, and technologies according to that interpretation. Misunderstanding of product definitions within business and IT teams can lead to further confusion behind the rationale of product roadmaps.<br><br>Products are necessities for the continuing performance of business functions. Efficient delivery practices and effective product management and planning are inevitable as the business and technologies constantly evolve and change. <br><br>However, good product delivery and management practices are often an afterthought because these capabilities are viewed as low priority and embedded within other roles and responsibilities. Many organizations already adopting agile development lack core product practices that are foundational in this transition. 
+        en: A product is generally viewed as an item, tangible or virtual, that is developed through a process and provides value to stakeholders and the market.<br><br>Do not expect a universal definition of a product. Everyone will have a different understanding of what a product is and will structure people, processes, and technologies according to that interpretation. Misunderstanding of product definitions within business and IT teams can lead to further confusion behind the rationale of product roadmaps.<br><br>Products are necessities for the continuing performance of business functions. Efficient delivery practices and effective product management and planning are inevitable as the business and technologies constantly evolve and change. <br><br>However, good product delivery and management practices are often an afterthought because these capabilities are viewed as low priority and embedded within other roles and responsibilities. Many organizations already adopting agile development lack core product practices that are foundational in this transition. 
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: <a href="http://www.iso.org/obp">ISO Terms and Definitions</a>
+        en: <a href="http://www.iso.org/obp">ISO Terms and Definitions</a>
+    - col:
+      data:
+        list: false
+        fr: (from ISO/IEC JTC 1 <a href="https://www.iso.org/technical-committees.html">committee</a> - Information Technology)<br>- Result of a process (source <a href="https://www.iso.org/obp/ui#iso:std:iso-iec-ieee:26512:ed-2:v1:en:term:3.18">ISO/IEC/IEEE 15288</a>)<br>-	Complete set of software and documentation (source <a href="https://www.iso.org/obp/ui#iso:std:iso-iec:26514:ed-1:v1:en">ISO/IEC 26514:2008</a>)<br>-	Part of the equipment (hardware, software and materials) for which usability is to be specified or evaluated (source <a href="https://www.iso.org/obp/ui#iso:std:iso-iec:tr:25060:ed-1:v1:en">ISO 9241-11:1998</a>)<br>-	Artifact that is produced, is quantifiable and is deliverable to the user (3.20) as either an end item in itself or a component item (source  <a href="https://www.iso.org/obp/ui/#iso:std:iso-iec:25030:ed-2:v1:en">ISO/IEC 25060:2019</a>)<br>-	Artifact that is produced, is quantifiable, and can be either an end item in itself or a component item (source PMBoK fourth edition - 2008)<br><br>(from ISO/TC 37 5 <a href="https://www.iso.org/technical-committees.html">committee</a> - Language and Terminology)<br>Output of a process <br><br>(from ISO/TC 46 <a href="https://www.iso.org/technical-committees.html">committee</a> - Information and Documentation)<br>NIL<br><br>(from ISO/TC 258 <a href="https://www.iso.org/technical-committees.html">committee</a> - Project, Programme, and Portfolio Management)<br>NIL<br><br>(from ISO/TC 279 <a href="https://www.iso.org/technical-committees.html">committee</a> - Innovation Management)<br>NIL<br><br>(from ISO/TC 309 <a href="https://www.iso.org/technical-committees.html">committee</a> - Governance of organizations)<br>NIL<br><br>(from ISO/TC 335 <a href="https://www.iso.org/technical-committees.html">committee</a> - Guidelines for organizations to increase consumer understanding of online terms and conditions)<br>NIL
+        en: (from ISO/IEC JTC 1 <a href="https://www.iso.org/technical-committees.html">committee</a> - Information Technology)<br>- Result of a process (source <a href="https://www.iso.org/obp/ui#iso:std:iso-iec-ieee:26512:ed-2:v1:en:term:3.18">ISO/IEC/IEEE 15288</a>)<br>-	Complete set of software and documentation (source <a href="https://www.iso.org/obp/ui#iso:std:iso-iec:26514:ed-1:v1:en">ISO/IEC 26514:2008</a>)<br>-	Part of the equipment (hardware, software and materials) for which usability is to be specified or evaluated (source <a href="https://www.iso.org/obp/ui#iso:std:iso-iec:tr:25060:ed-1:v1:en">ISO 9241-11:1998</a>)<br>-	Artifact that is produced, is quantifiable and is deliverable to the user (3.20) as either an end item in itself or a component item (source  <a href="https://www.iso.org/obp/ui/#iso:std:iso-iec:25030:ed-2:v1:en">ISO/IEC 25060:2019</a>)<br>-	Artifact that is produced, is quantifiable, and can be either an end item in itself or a component item (source PMBoK fourth edition - 2008)<br><br>(from ISO/TC 37 5 <a href="https://www.iso.org/technical-committees.html">committee</a> - Language and Terminology)<br>Output of a process <br><br>(from ISO/TC 46 <a href="https://www.iso.org/technical-committees.html">committee</a> - Information and Documentation)<br>NIL<br><br>(from ISO/TC 258 <a href="https://www.iso.org/technical-committees.html">committee</a> - Project, Programme, and Portfolio Management)<br>NIL<br><br>(from ISO/TC 279 <a href="https://www.iso.org/technical-committees.html">committee</a> - Innovation Management)<br>NIL<br><br>(from ISO/TC 309 <a href="https://www.iso.org/technical-committees.html">committee</a> - Governance of organizations)<br>NIL<br><br>(from ISO/TC 335 <a href="https://www.iso.org/technical-committees.html">committee</a> - Guidelines for organizations to increase consumer understanding of online terms and conditions)<br>NIL 
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: <a href="https://www.praxiom.com/iso-20000-definitions.htm">ISO/IEC 20000</a>
+        en: <a href="https://www.praxiom.com/iso-20000-definitions.htm">ISO/IEC 20000</a>
+    - col:
+      data:
+        list: false
+        fr: (Information Technology – Service Management)<br>NIL
+        en: (Information Technology – Service Management)<br>NIL
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: <a href="https://www.praxiom.com/iso-27000-definitions.htm">ISO/IEC 27000</a>
+        en: <a href="https://www.praxiom.com/iso-27000-definitions.htm">ISO/IEC 27000</a>
+    - col:
+      data:
+        list: false
+        fr: (Information Technology – Security Techniques – Code of Practice for Information Security Controls)<br>NIL
+        en: (Information Technology – Security Techniques – Code of Practice for Information Security Controls)<br>NIL
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: <a href="https://www.iso.org/obp/ui/#iso:std:iso-iec:tr:38504:ed-1:v1:en">ISO/IEC 38500</a>
+        en: <a href="https://www.iso.org/obp/ui/#iso:std:iso-iec:tr:38504:ed-1:v1:en">ISO/IEC 38500</a>
+    - col:
+      data:
+        list: false
+        fr: (Corporate Governance of Information Technology)<br>NIL
+        en: (Corporate Governance of Information Technology)<br>NIL
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: <a href="https://www.iso.org/obp/ui#iso:std:iso-iec:26560:ed-1:v1:en:term:3.4">ISO/IEC 26560:2019</a>
+        en: <a href="https://www.iso.org/obp/ui#iso:std:iso-iec:26560:ed-1:v1:en:term:3.4">ISO/IEC 26560:2019</a>
+    - col:
+      data:
+        list: false
+        fr: (Software and systems engineering — Tools and methods for product line product management)<br>NIL
+        en: (Software and systems engineering — Tools and methods for product line product management)<br>NIL
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: <a href="https://www.iso.org/obp/ui/#iso:std:iso-iec:tr:38504:ed-1:v1:en">ISO/IEC 38504:2016</a>
+        en: <a href="https://www.iso.org/obp/ui/#iso:std:iso-iec:tr:38504:ed-1:v1:en">ISO/IEC 38504:2016</a>
+    - col:
+      data:
+        list: false
+        fr: (Governance of information technology — Guidance for principles-based standards in the governance of information technology)<br>NIL
+        en: (Governance of information technology — Guidance for principles-based standards in the governance of information technology)<br>NIL
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: <a href="https://www.iso.org/obp/ui#iso:std:iso-iec-ieee:26512:ed-2:v1:en:term:3.18">ISO/IEC 26512:2018</a>
+        en: <a href="https://www.iso.org/obp/ui#iso:std:iso-iec-ieee:26512:ed-2:v1:en:term:3.18">ISO/IEC 26512:2018</a>
+    - col:
+      data:
+        list: false
+        fr: (Systems and software engineering — Requirements for acquirers and suppliers of information for users)<br>Result of a process (SOURCE - ISO/IEC/IEEE 15288:2015)
+        en: (Systems and software engineering — Requirements for acquirers and suppliers of information for users)<br>Result of a process (SOURCE - ISO/IEC/IEEE 15288:2015)        
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: <a href="https://www.iso.org/obp/ui/#iso:std:iso-iec-ieee:15288:ed-1:v1:en">ISO/IEC/IEEE 15288:2015</a>
+        en: <a href="https://www.iso.org/obp/ui/#iso:std:iso-iec-ieee:15288:ed-1:v1:en">ISO/IEC/IEEE 15288:2015</a>
+    - col:
+      data:
+        list: false
+        fr: (Systems and software engineering — System life cycle processes)<br>Result of a process
+        en: (Systems and software engineering — System life cycle processes)<br>Result of a process        
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: <a href="https://www.iso.org/obp/ui#iso:std:iso-iec:26514:ed-1:v1:en">ISO/IEC 26514:2008</a>
+        en: <a href="https://www.iso.org/obp/ui#iso:std:iso-iec:26514:ed-1:v1:en">ISO/IEC 26514:2008</a>
+    - col:
+      data:
+        list: false
+        fr: (Systems and software engineering — Requirements for designers and developers of user documentation)<br>Complete set of software and documentation
+        en: (Systems and software engineering — Requirements for designers and developers of user documentation)<br>Complete set of software and documentation
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: <a href="https://www.iso.org/obp/ui#iso:std:iso-iec:tr:25060:ed-1:v1:en">ISO/IEC TR 25060:2010</a>
+        en: <a href="https://www.iso.org/obp/ui#iso:std:iso-iec:tr:25060:ed-1:v1:en">ISO/IEC TR 25060:2010</a>
+    - col:
+      data:
+        list: false
+        fr: (Systems and software engineering — Systems and software product Quality Requirements and Evaluation (SQuaRE) — Common Industry Format (CIF) for usability - General framework for usability-related information)<br>Part of the equipment (hardware, software and materials) for which usability is to be specified or evaluated [SOURCE - ISO 9241-11:1998]
+        en: (Systems and software engineering — Systems and software product Quality Requirements and Evaluation (SQuaRE) — Common Industry Format (CIF) for usability - General framework for usability-related information)<br>Part of the equipment (hardware, software and materials) for which usability is to be specified or evaluated [SOURCE - ISO 9241-11:1998]        
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: <a href="https://www.iso.org/obp/ui#iso:std:iso-iec-ieee:15026:-1:ed-1:v1:en">ISO/IEC/IEEE 15026-1:2019</a>
+        en: <a href="https://www.iso.org/obp/ui#iso:std:iso-iec-ieee:15026:-1:ed-1:v1:en">ISO/IEC/IEEE 15026-1:2019</a>
+    - col:
+      data:
+        list: false
+        fr: (Systems and software engineering — Systems and software assurance — Part 1 - Concepts and vocabulary)<br>Result of a process (3.2.1)<br><br>Note 1 to entry - There are four agreed generic product categories -hardware (e.g., engine mechanical part); software (e.g., computer program); services (e.g., transport); and processed materials (e.g., lubricant). Hardware and processed materials are generally tangible products, while software or services are generally intangible.<br>Note 2 to entry - Results could be components, systems (3.2.4), software, services, rules, documents, or many other items.<br>Note 3 to entry - The “result” could in some cases be many related individual results. However, claims (3.1.4) usually relate to specified versions of a product.<br>Note 4 to entry - The definition for this term can also be found in <a href="https://www.iso.org/obp/ui#iso:std:iso:9000:en">ISO 9000</a> and <a href="https://www.iso.org/obp/ui#iso:std:iso-iec-ieee:12207:en">ISO/IEC/IEEE 12207</a>.<br><br>[SOURCE - ISO/IEC/IEEE 15288:2015, 4.1.32, modified—Notes 2 to 4 to entry have been added.]
+        en: (Systems and software engineering — Systems and software assurance — Part 1 - Concepts and vocabulary)<br>Result of a process (3.2.1)<br><br>Note 1 to entry - There are four agreed generic product categories -hardware (e.g., engine mechanical part); software (e.g., computer program); services (e.g., transport); and processed materials (e.g., lubricant). Hardware and processed materials are generally tangible products, while software or services are generally intangible.<br>Note 2 to entry - Results could be components, systems (3.2.4), software, services, rules, documents, or many other items.<br>Note 3 to entry - The “result” could in some cases be many related individual results. However, claims (3.1.4) usually relate to specified versions of a product.<br>Note 4 to entry - The definition for this term can also be found in <a href="https://www.iso.org/obp/ui#iso:std:iso:9000:en">ISO 9000</a> and <a href="https://www.iso.org/obp/ui#iso:std:iso-iec-ieee:12207:en">ISO/IEC/IEEE 12207</a>.<br><br>[SOURCE - ISO/IEC/IEEE 15288:2015, 4.1.32, modified—Notes 2 to 4 to entry have been added.]
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: <a href="https://www.iso.org/obp/ui/#iso:std:iso-iec:25030:ed-2:v1:en">ISO/IEC 25030:2019 </a>
+        en: <a href="https://www.iso.org/obp/ui/#iso:std:iso-iec:25030:ed-2:v1:en">ISO/IEC 25030:2019 </a>
+    - col:
+      data:
+        list: false
+        fr: (Systems and software engineering — Systems and software quality requirements and evaluation (SQuaRE) — Quality requirements framework)<br>Artifact that is produced, is quantifiable and is deliverable to the user (3.20) as either an end item in itself or a component item<br><br>Note 1 to entry - This definition is adapted from A Guide to the Project Management Body of Knowledge (PMBOK) Fifth Edition.<br>Note 2 to entry - Product includes ICT products (3.8), software, and software components.
+        en: (Systems and software engineering — Systems and software quality requirements and evaluation (SQuaRE) — Quality requirements framework)<br>Artifact that is produced, is quantifiable and is deliverable to the user (3.20) as either an end item in itself or a component item<br><br>Note 1 to entry - This definition is adapted from A Guide to the Project Management Body of Knowledge (PMBOK) Fifth Edition.<br>Note 2 to entry - Product includes ICT products (3.8), software, and software components.
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: <a href="https://www.iso.org/obp/ui/#iso:std:iso-iec:25000:ed-2:v1:en">ISO/IEC 25000</a>
+        en: <a href="https://www.iso.org/obp/ui/#iso:std:iso-iec:25000:ed-2:v1:en">ISO/IEC 25000</a>
+    - col:
+      data:
+        list: false
+        fr: (Systems and software engineering — Systems and software Quality Requirements and Evaluation (SQuaRE) — Guide to SQuaRE)<br>artifact that is produced, is quantifiable, and can be either an end item in itself or a component item [SOURCE - Guide to the Project Management Body of Knowledge (PMBOK) Fourth Edition - 2008]<br><br>Note 1 to entry - ISO 9000:2005 defines four agreed generic product categories - hardware (e.g. engine mechanical part); software (e.g. computer program); services (e.g. transport); and processed materials (e.g. lubricant). Hardware and processed materials are generally tangible products, while software or services are generally intangible. Most products comprise elements belonging to different generic product categories. Whether the product is then called hardware, processed material, software, or service depends on the dominant element. Results could be components, systems, software, services, rules, documents, or many other items. The result could in some cases be many related individual results.
+        en: (Systems and software engineering — Systems and software Quality Requirements and Evaluation (SQuaRE) — Guide to SQuaRE)<br>artifact that is produced, is quantifiable, and can be either an end item in itself or a component item [SOURCE - Guide to the Project Management Body of Knowledge (PMBOK) Fourth Edition - 2008]<br><br>Note 1 to entry - ISO 9000:2005 defines four agreed generic product categories - hardware (e.g. engine mechanical part); software (e.g. computer program); services (e.g. transport); and processed materials (e.g. lubricant). Hardware and processed materials are generally tangible products, while software or services are generally intangible. Most products comprise elements belonging to different generic product categories. Whether the product is then called hardware, processed material, software, or service depends on the dominant element. Results could be components, systems, software, services, rules, documents, or many other items. The result could in some cases be many related individual results.  
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: <a href="https://www.iso.org/obp/ui/#iso:std:iso-iec:25000:ed-2:v1:en">ISO/IEC/IEEE 24765</a>
+        en: <a href="https://www.iso.org/obp/ui/#iso:std:iso-iec:25000:ed-2:v1:en">ISO/IEC/IEEE 24765</a>
+    - col:
+      data:
+        list: false
+        fr: (Systems and software engineering — Vocabulary)<br><br><b>1.</b> an artifact that is produced, is quantifiable, and can be either an end item in itself or a component item [A Guide to the Project Management Body of Knowledge (PMBOK® Guide) — Fifth Edition]<br><b>2.</b> complete set of computer programs, procedures, and associated documentation designed for delivery to a user [ISO/IEC 26513:2009 Systems and software engineering — Requirements for testers and reviewers of user documentation, 3.30]<br><b>3.</b> result of a process [ISO/IEC/IEEE 15939:2017 Systems and software engineering — Measurement process, 3.32; ISO/IEC TS 24748-1:2016 Systems and software engineering — Life cycle management — Part 1 - Guide for life cycle management, 2.34; ISO/IEC/IEEE 15288:2015 Systems and software engineering — System life cycle processes, 4.1.32]<br><b>4.</b> output of the software development activities (e.g., document, code, or model) <br><b>5.</b> part of the equipment (hardware, software and materials) for which usability is to be specified or evaluated [ISO/IEC TR 25060:2010 Systems and software engineering — Systems and software product Quality Requirements and Evaluation (SQuaRE) — Common Industry Format (CIF) for usability - General framework for usability-related information, 2.9]<br>cf. activity, deliverable, result<br><br>Note 1 to entry - Generic product categories are hardware (e.g., engine mechanical part); software (e.g., computer program); services (e.g., transport); and processed materials (e.g., lubricant). Hardware and processed materials are generally tangible products, while software or services are generally intangible. Most products comprise elements belonging to different generic product categories. Whether the product is then called hardware, processed material, software, or service depends on the dominant element. Results could be components, systems, software, services, rules, documents, or many other items. The result could in some cases be many related individual results.
+        en: (Systems and software engineering — Vocabulary)<br><br><b>1.</b> an artifact that is produced, is quantifiable, and can be either an end item in itself or a component item [A Guide to the Project Management Body of Knowledge (PMBOK® Guide) — Fifth Edition]<br><b>2.</b> complete set of computer programs, procedures, and associated documentation designed for delivery to a user [ISO/IEC 26513:2009 Systems and software engineering — Requirements for testers and reviewers of user documentation, 3.30]<br><b>3.</b> result of a process [ISO/IEC/IEEE 15939:2017 Systems and software engineering — Measurement process, 3.32; ISO/IEC TS 24748-1:2016 Systems and software engineering — Life cycle management — Part 1 - Guide for life cycle management, 2.34; ISO/IEC/IEEE 15288:2015 Systems and software engineering — System life cycle processes, 4.1.32]<br><b>4.</b> output of the software development activities (e.g., document, code, or model) <br><b>5.</b> part of the equipment (hardware, software and materials) for which usability is to be specified or evaluated [ISO/IEC TR 25060:2010 Systems and software engineering — Systems and software product Quality Requirements and Evaluation (SQuaRE) — Common Industry Format (CIF) for usability - General framework for usability-related information, 2.9]<br>cf. activity, deliverable, result<br><br>Note 1 to entry - Generic product categories are hardware (e.g., engine mechanical part); software (e.g., computer program); services (e.g., transport); and processed materials (e.g., lubricant). Hardware and processed materials are generally tangible products, while software or services are generally intangible. Most products comprise elements belonging to different generic product categories. Whether the product is then called hardware, processed material, software, or service depends on the dominant element. Results could be components, systems, software, services, rules, documents, or many other items. The result could in some cases be many related individual results.
