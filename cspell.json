@@ -563,7 +563,9 @@
     "ITSG",
     "CSOC",
     "Roadmap's",
-    "overembellishment"
+    "overembellishment",
+    "fonctionnalitées",
+    "L'incidence"
   ],
   "flagWords": [],
   "import": ["node_modules/@cspell/dict-fr-fr/cspell-ext.json"],
