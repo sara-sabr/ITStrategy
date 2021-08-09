@@ -49,7 +49,7 @@ The assumed reasoning behind this overarching principle is that by purchasing an
 
 This principle is leading to an oversimplified approach that doesn't take into account that, as a government department, ESDC is subject to multiple and fast-paced changes, whether at the [legal, political, organizational or technological levels](https://www.canada.ca/en/employment-social-development/corporate/reports/departmental-plan/2020-2021.html#h2.2-3.2), that impacts its ability to deliver on its mandate.
 Acquiring IT Solutions and Products can be accomplished using various methods and the acquisition is only a small part of the actual work required to be able to operate and maintain said technology.
-Adopting existing third-party solutions such as community-based open source software, or sometimes free software-as-a-service (SaaS), is an option often overlooked because of the belief that there is a lack of contractual support, warranties, indemnifications, etc.
+Adopting existing third-party solutions such as community-based open source software (OSS), or sometimes free software-as-a-service (SaaS), is an option often overlooked because of the belief that there is a lack of contractual support, warranties, indemnifications, etc.
 But those extra services are not part of the actual technology itself, they are services that the government representatives have become used to bundle as part of the rights to use the software via the contracting processes.
 These services can be acquired for community-based open source software as well, if required.
 But by conflating all these extra services and agreements together with the rights to use a software-based technology, the organization locks itself in long-term contractual obligations as well as with proprietary technologies and formats, making it very hard to course correct rapidly when required in the future.
@@ -154,13 +154,13 @@ This Strategy's success will be measured by comparing the following metrics agai
 
 - All new complex or core-to-mandate IT Solutions and IT Products have been acquired under conditions that enable ESDC to make course corrections and design changes in the future as required (i.e.: There are no service agreements, contractual or intellectual property clauses, or technical constraints limiting ESDC to change in parts or in whole the IT Solutions and IT Products.)
 
-### Accelerate acquisition of IT Solutions and Products (OSS, XaaS, etc.)<!-- omit in toc -->
+### Accelerate acquisition of IT Solutions and Products (OSS, XaaS, etc.) <!-- omit in toc -->
 
 - Time to identify, assess, test, certify and approve a new external IT product for use in ESDC is less than 5 business days.​
 - Time to provision a standalone desktop IT product or Software as a Service access already in the APM is less than 30 minutes.​
 - Time to deploy code changes for an IT Solutions from check-in to release in production is less than 2 business days.
 
-### Increase reuse of existing IT Solutions and Products, internal and external<!-- omit in toc -->
+### Increase reuse of existing IT Solutions and Products, internal and external <!-- omit in toc -->
 
 - Increased ratio of open source software solutions and products used in production compared to purchased or internally developed ones that are not shareable and reusable.
 - ESDC developers and product owners contributes back to third-party OSS projects instead of internally maintaining changes.
@@ -170,25 +170,25 @@ This Strategy's success will be measured by comparing the following metrics agai
   - A bill of material is automatically generated.
   - Licence compliance policies are automatically applied.
 
-### Design cloud native Solutions<!-- omit in toc -->
+### Design cloud native Solutions <!-- omit in toc -->
 
 - All new IT Solutions and IT Products can technically be deployed on premise or on any pre-approved cloud service provider.
 
-### Loosely coupled Architecture<!-- omit in toc -->
+### Loosely coupled Architecture <!-- omit in toc -->
 
 - All new IT Solutions and Products support the reuse of their business capabilities as a service via APIs.
 - All enhancements to existing IT Solutions include as a deliverable an API for its capabilities.
 
 #### Building <!-- omit in toc -->
 
-- Increased ratio of internally built projects released as OSS
+- Increased ratio of internally built projects released as OSS.
 
 #### Applicable to all scenarios <!-- omit in toc -->
 
-- Increased ratio of decoupled IT Solutions and IT Products compared to baseline
-- Increased number of APIs discoverable, and accessible, for reuse throughout ESDC IT Solutions and IT Products
-- Increased number of IT Solutions and Products migrated to and operated on cloud environments (Cloud First Strategy)
-- Increased speed and flexibility for software changes deployed to productions for IT Solutions and IT Products (see Target Solution Delivery Model)
+- Increased ratio of decoupled IT Solutions and IT Products compared to baseline.
+- Increased number of APIs discoverable, and accessible, for reuse throughout ESDC IT Solutions and IT Products.
+- Increased number of IT Solutions and Products migrated to and operated on cloud environments (Cloud First Strategy).
+- Increased speed and flexibility for software changes deployed to production for IT Solutions and IT Products (see Target Solution Delivery Model).
 
 ## Appendix A - Business Case (Diagnostic)
 
@@ -345,11 +345,11 @@ Here are some cost items that should be considered:
 - Disposal
 - Migration (data and users)
 
-### Other<!-- omit in toc -->
+### Other <!-- omit in toc -->
 
 - Opportunity or compliance (e.g., missing a market opportunity, not complying with regulations, decreased customer satisfaction)
 - Costs incurred with another party to ensure the ability to meet Service Level Agreement (SLA) targets
-- Unplanned (e.g., unanticipated expenditure through compliance auditing and under provisioning of licences)
+- Unplanned (e.g., unanticipated expenditure through compliance auditing and under-provisioning of licences)
 
 It may not be possible to calculate exact figures for all of the items, and an assessment of high/medium/low may be more realistic.
 This should not pose a problem so long as the same criteria are used to evaluate all options within an acquisition.
@@ -387,7 +387,7 @@ The following traceability matrix is used to show alignment with various strateg
 <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601" target="_blank">TB Directive on Service and Digital</a>/Strategic IT Management<br>
 <a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental IMIT Plan/19-20 Plans/IITB Moving Forward v2.docx" target="_blank">IITB Way Forward</a>/1. Adjust IITB leadership<br>
 <a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental IMIT Plan/19-20 Plans/IITB Moving Forward v2.docx" target="_blank">IITB Way Forward</a>/6a. Strengthen IM/IT Strategy<br>
-<a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental IMIT Plan/19-20 Plans/IITB Moving Forward v2.docx" target="_blank">IITB Way Forward</a>/6f. formalize requirements mgt framework<br>
+<a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental IMIT Plan/19-20 Plans/IITB Moving Forward v2.docx" target="_blank">IITB Way Forward</a>/6f. Formalize requirements mgt framework<br>
 <a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental IMIT Plan/19-20 Plans/ESDC IT Plan 2019-22 - FINAL.pdf" target="_blank">IT Plan</a>/Section II/Foundational<br>
 Departmental Value Stream Model<br>
 Departmental Business Capability Model<br>
