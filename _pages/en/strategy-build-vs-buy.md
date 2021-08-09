@@ -510,11 +510,11 @@ Note 2: Assumptions when reading this document
 
 ### Changelog <!-- omit in toc -->
 
-| Version | Date du changement | Description du changement                                                                                                                         |
-|:------- | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| 0.01 | 2020-06-22 | Première ébauche, transition d’un document de travail à une page Web |
-| 0.02 | 2020-06-30 | Création d’une liste de règles stratégiques en matière d’orientation, suppression du contenu en double, création de documents distincts pour mise en contexte, nettoyage des définitions |
-| 0.03 | 2020-07-06 | Simplification de l’ensemble des règles stratégiques en matière d’orientation |
-| 0.04 | 2020-07-17 | Ajout des hypothèses aux notes, clarification de l’annexe A – Analyse de rentabilisation, suppression de la première série de commentaires |
-| 0.05 | 2020-07-29 | Suppression la rétroaction sur la v0.04, simplification des règles, suppression du contenu en double, harmonisation de la stratégie avec les procédures obligatoires en matière d’architecture d’entreprise, clarification des points de vue des responsables et des intervenants par rapport aux mesures |
-| 0.06 | 2020-07-29 | Suppression la rétroaction sur la v0.05 des équipes d’architecture d’entreprise, clarification des politiques d’orientation, ajout des mesures de suivi |
+| Version | Date of Change | Change Description |
+| :------ | -------------- | ------------------ |
+| 0.01 | 2020-06-22 | First Draft, moved from working document to web page |
+| 0.02 | 2020-06-30 | Created list of guiding policy rules, Removed duplicate content, Created separate documents for context, Cleaned up definitions |
+| 0.03 | 2020-07-06 | Simplify set of guiding policy rules |
+| 0.04 | 2020-07-17 | Add Assumptions to notes, clarify Appendix A - Business Case, Dispose of first round of comments |
+| 0.05 | 2020-07-29 | Dispose v0.04 feedback, simplify rules, address duplication of content, realign strategy with Enterprise Architecture Mandatory Procedures, Clarify lead vs stakeholder on actions |
+| 0.06 | 2020-07-29 | Dispose v0.05 feedback from Enterprise Architecture teams, clarify guiding policies, add actions items |
