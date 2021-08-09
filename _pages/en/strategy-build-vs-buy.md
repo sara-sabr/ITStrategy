@@ -177,7 +177,7 @@ This Strategy's success will be measured by comparing the following metrics agai
 ### Loosely coupled Architecture<!-- omit in toc -->
 
 - All new IT Solutions and Products support the reuse of their business capabilities as a service via APIs.
-- All enhancements to existing IT Solutions include as a deliverable an API for it's capabilities.
+- All enhancements to existing IT Solutions include as a deliverable an API for its capabilities.
 
 #### Building <!-- omit in toc -->
 
@@ -447,7 +447,8 @@ ESDC Technology Standards (aka Technical Bricks)<br>
 ## Appendix D - Definitions
 
 IT Solution
-: An IT Solution is the combination of one or many IT Products, which are in turn comprised of one or many Software and/or Hardware, acquired through many possible ways: built internally, acquired as open source, provided by a company as an executable application under a proprietary licence, as a standalone device, or used as a service through a subscription model. (See the following standard IITB definition.)
+: An IT Solution is the combination of one or many IT Products, which are in turn comprised of one or many Software and/or Hardware, acquired through many possible ways: built internally, acquired as open source, provided by a company as an executable application under a proprietary licence, as a standalone device, or used as a service through a subscription model.
+(See the following standard IITB definition.)
 
 IT Product
 : The combination of software, infrastructure, and their configuration.
