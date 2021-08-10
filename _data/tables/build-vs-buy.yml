@@ -43,7 +43,7 @@
     - col:
       data:
         list: false
-        fr: Produire la définition normalisée des solutions de TI du CEAI
+        fr: Produire la définition normalisée du CEAI pour les solutions de TI 
         en: Produce the EARB standard definition of IT Solutions
     - col:
       data:
@@ -57,7 +57,7 @@
         list: false
         fr: |
           <strong>Équipes d'architecture</strong>
-          <br>(Incluant: Organisation, Opérations, Données, Information, Application/Solution, Technique, Sécurité des TI et Architecture de sécurité et Équipe de l’infonuagique)
+          <br>(Incluant: Entreprise, Opérations, Données, Information, Application/Solution, Technique, Sécurité des TI et Architecture de sécurité et Équipe de l’infonuagique)
         en: |
           <strong>Architecture Teams</strong>
           <br>(Includes: Enterprise, Business, Data, Information, Application/Solution, Technical, IT Security, Security Architecture, and Cloud team)
@@ -69,7 +69,7 @@
             fr: Conseillers principaux en développement d’applications
             en: Senior Application Development Advisors
         - item:
-            fr: Stratégie de TI
+            fr: Stratégie TI
             en: IT Strategy
         - item:
             fr: Groupe de travail sur les normes techniques (GTNT)
@@ -99,7 +99,7 @@
         fr: |
           Produire un cadre d’évaluation des risques liés aux solutions de TI qui favorise et encourage l’utilisation de solutions de TI souples et interopérables, une architecture axée sur les services et des produits de TI réutilisables comme composantes. Cela est nécessaire pour aider l’organisation à s’adapter à un rythme rapide continu à divers niveaux, notamment sur les plans politique, juridique, organisationnel, technologique, social et de la géolocalisation, pour ne nommer que ceux-là.
           <br>
-          Le cadre devrait également accroître le niveau de solutions de TI qui s’appuient sur des normes ouvertes plutôt que des normes exclusives, et inclure deux aspects essentiels :
+          Le cadre devrait également accroître le niveau de solutions de TI qui s’appuient sur des normes ouvertes plutôt que des normes propriétaires, et inclure deux aspects essentiels :
           <br>
           <br>- 1) Faire les bonnes choses – offrir une valeur et contribuer à la réalisation des résultats ministériels et du GC
           <br>- 2) Faire les choses de la bonne façon – s’harmoniser avec les normes opérationnelles et informatiques, les balises, etc.
@@ -121,7 +121,7 @@
         list: false
         fr: |
             <strong>Équipes d'architecture</strong>
-            <br> (Incluant : Organisation, Opérations, Données, Information, Application/Solution, Technique, Sécurité des TI et Architecture de sécurité et Équipe de l’infonuagique)
+            <br> (Incluant : Entreprise, Opérations, Données, Information, Application/Solution, Technique, Sécurité des TI et Architecture de sécurité et Équipe de l’infonuagique)
         en: |
           <strong>Architecture Teams</strong>
           <br>(Includes: Enterprise, Business, Data, Information, Application/Solution, Technical, IT Security, Security Architecture, and Cloud team)
@@ -130,7 +130,7 @@
         list: true
         items:
         - item:
-            fr: Stratégie de TI
+            fr: Stratégie TI
             en: IT Strategy
         - item:
             fr: Conseillers principaux en développement d’applications
@@ -171,9 +171,12 @@
           Le modèle de capacités opérationnelles d’EDSC devrait être utilisé pour aider à définir les limites du concept des solutions de TI.
           <br><br>
           Principaux critères des produits de TI qu’il faut garder à l’esprit :<br>
-          <br>Favorise <br>: souplesse, interchangeabilité, interopérabilité, réutilisabilité, adaptabilité et prise en charge du libre-service au profit d’autres équipes (fondé sur l’IPA)
-          <br>Réduit <br>: situations d’asservissement – contractuelles ou technologiques –, entretien, personnalisation, etc.Le cadre devrait également accroître le niveau de produits de TI qui s’appuient sur des normes ouvertes plutôt que des normes exclusives, et inclure deux aspects essentiels :
+          <strong>Favorise </strong>: souplesse, interchangeabilité, interopérabilité, réutilisabilité, adaptabilité et prise en charge du libre-service au profit d’autres équipes (fondé sur l’IPA)
+          <br>
+          <strong>Réduit </strong>: situations de verrouillage – contractuelles ou technologiques –, entretien, personnalisation, etc.
           <br><br>
+          Le cadre devrait également accroître le niveau de produits de TI qui s’appuient sur des normes ouvertes plutôt que des normes exclusives, et inclure deux aspects essentiels :
+          <br>
           <br>- 1) Faire les bonnes choses – offrir une valeur et contribuer à la réalisation des résultats ministériels et du GC
           <br>- 2) Faire les choses de la bonne façon – s’harmoniser avec les normes opérationnelles et informatiques, les balises, etc. 
           Le cadre d’évaluation des risques liés aux produits de TI devrait également tenir compte des opérations de TI internes comme étant l’une des dimensions essentielles à considérer pour évaluer les risques pour l’organisation.
@@ -195,7 +198,7 @@
         list: false
         fr: |
            <strong>Équipes d'architecture</strong>
-           <br>(Incluant : Organisation, Opérations, Données, Information, Application/Solution, Technique, Sécurité des TI et Architecture de sécurité et Équipe de l’infonuagique)
+           <br>(Incluant : Entreprise, Opérations, Données, Information, Application/Solution, Technique, Sécurité des TI et Architecture de sécurité et Équipe de l’infonuagique)
         en: |
           <strong>Architecture Teams</strong>
           <br>(Includes: Enterprise, Business, Data, Information, Application/Solution, Technical, IT Security, Security Architecture, and Cloud team)
@@ -207,7 +210,7 @@
             fr: Conseillers principaux en développement d’applications
             en: Senior Application Development Advisors
         - item:
-            fr: Stratégie de TI
+            fr: Stratégie TI
             en: IT Strategy
         - item:
             fr: Opérations d’entreprise
@@ -257,7 +260,7 @@
         list: false
         fr: |
           <strong>Équipes d'architecture</strong>
-          <br> (Incluant : Organisation, Opérations, Données, Information, Application/Solution, Technique, Sécurité des TI et Architecture de sécurité et Équipe de l’infonuagique)
+          <br> (Incluant : Entreprise, Opérations, Données, Information, Application/Solution, Technique, Sécurité des TI et Architecture de sécurité et Équipe de l’infonuagique)
         en: |
           <strong>Architecture Teams</strong>
           <br>(Includes: Enterprise, Business, Data, Information, Application/Solution, Technical, IT Security, Security Architecture, and Cloud team)
@@ -266,7 +269,7 @@
         list: true
         items:
         - item:
-            fr: Stratégie de TI
+            fr: Stratégie TI
             en: IT Strategy
         - item:
             fr: BSMA
@@ -300,13 +303,13 @@
     - col:
       data:
         list: false
-        fr: Faire approuver le cadre de logiciel de source ouverte (LSO) d’EDSC par le CEAI d’EDSC
+        fr: Faire approuver le cadre de logiciel libre (LL) d’EDSC par le CEAI d’EDSC
         en: Seek ESDC OSS Framework endorsement from ESDC EARB
     - col:
       data:
         list: false
         fr: |
-            Faire approuver le cadre de logiciel de source ouverte (LSO) d’EDSC par le CEAI d’EDSC
+            Faire approuver le cadre de logiciel libre (LL) d’EDSC par le CEAI d’EDSC
             <br>
             Présentation déjà faite au CEA et approbation obtenue. Passer à l’approbation finale de la gouvernance.
         en: |
@@ -328,7 +331,7 @@
             fr: Juridique
             en: Legal
         - item:
-            fr: Stratégie de TI
+            fr: Stratégie TI
             en: IT Strategy
   - row:
     headers: false
@@ -347,8 +350,8 @@
       data:
         list: false
         fr: |
-            Produire un cadre de gestion des produits de TI qui fournit des conseils sur la gestion opérationnelle par rapport à la gestion financière des dépenses en immobilisations, à l’appui de ce modèle de gestion dans les initiatives dirigées par EDSC.<br>
-            Tirer parti du modèle d’affichage des coûts du CE de l’infonuagique pour expliquer l’utilisation des services dans le cadre d’une solution de TI et de l’établissement des coûts des produits de TI par rapport à la budgétisation des projets.
+            Produire un cadre de gestion des produits de TI qui fournit des conseils sur la gestion opérationnelle par rapport à la gestion financière des dépenses en immobilisations, afin d'encourager ce modèle de gestion dans les initiatives dirigées par EDSC.<br>
+            Tirer parti du modèle d’affichage des coûts du CE de l’infonuagique pour expliquer l’utilisation des services dans le cadre d’une solution de TI et l’établissement des coûts des produits de TI par rapport à la budgétisation des projets.
         en: |
             Produce an IT Product Management Framework, providing guidance on Operational vs Capital Expense Financial management to support this management model in ESDC lead initiatives<br>
             Leverage the Cloud CoE showback model to help explain use of services as part of an IT Solution and IT Products costing vs project budgeting.
@@ -356,7 +359,7 @@
       data:
         list: false
         fr: |
-          <strong>IITB Finance</strong>
+          <strong>Finances de la DGIIT</strong>
         en: |
           <strong>IITB Finance</strong>
     - col:
@@ -376,7 +379,7 @@
             fr: OASS
             en: BOSS
         - item:
-            fr: Stratégie de TI
+            fr: Stratégie TI
             en: IT Strategy
   - row:
     headers: false
@@ -389,13 +392,13 @@
     - col:
       data:
         list: false
-        fr: Cadre du coût total de possession du produit
+        fr: Produire un cadre de coût total de possession
         en: Produce Total Cost of Ownership Framework
     - col:
       data:
         list: false
         fr: |
-            Produire un cadre du coût total de possession pour fournir des conseils sur l’évaluation des coûts du cycle de vie complet de l’adoption de solutions de TI (acquisition, exploitation et fin de vie)
+            Produire un cadre de coût total de possession pour fournir des conseils sur l’évaluation des coûts du cycle de vie complet de l’adoption de solutions de TI (acquisition, exploitation et fin de vie)
         en: |
             Produce a Total Cost of Ownership Framework to provide guidance on assessing the full lifecycle costs of adopting IT Solutions (acquisition, operation and end-of-life)
     - col:
@@ -403,7 +406,7 @@
         list: false
         fr: |
           <strong>Équipes d'architecture</strong>
-          <br>(Incluant : Organisation, Opérations, Données, Information, Application/Solution, Technique, Sécurité des TI et Architecture de sécurité et Équipe de l’infonuagique)
+          <br>(Incluant : Entreprise, Opérations, Données, Information, Application/Solution, Technique, Sécurité des TI et Architecture de sécurité et Équipe de l’infonuagique)
         en: |
           <strong>Architecture Teams</strong>
           <br>(Includes: Enterprise, Business, Data, Information, Application/Solution, Technical, IT Security, Security Architecture, and Cloud team)
@@ -418,7 +421,7 @@
             fr: DGDPF
             en: CFOB
         - item:
-            fr: Stratégie de TI
+            fr: Stratégie TI
             en: IT Strategy
   - row:
     headers: false
@@ -437,7 +440,7 @@
       data:
         list: false
         fr: |
-            Produire un Guide des termes juridiques relatifs aux logiciels d’EDSC pour appuyer l’adoption de LSO, aider à gérer les complexités juridiques des abonnements au nuage et aider les équipes à évaluer les risques et les responsabilités partagés.
+            Produire un Guide des termes juridiques relatifs aux logiciels d’EDSC pour appuyer l’adoption de LL, aider à gérer les complexités juridiques des abonnements dans l'infonuagique et aider les équipes à évaluer les risques et les responsabilités partagés.
         en: |
             Produce an ESDC Software Legal Terms Guidance to support the adoption of OSS, help manage the legal complexities of Cloud subscriptions and support teams in assessing the shared risk and responsibilities. 
     - col:
@@ -458,10 +461,10 @@
             fr: DGDPF-GIPA
             en: CFOB IPPM
         - item:
-            fr: Approvisionnement de SCT
+            fr: Approvisionnement du SCT
             en: TBS Procurement
         - item:
-            fr: Stratégie de TI
+            fr: Stratégie TI
             en: IT Strategy
         - item:
             fr: SPAC
@@ -488,14 +491,14 @@
       data:
         list: false
         fr: |
-          Le CEI devra s’appuyer au préalable sur des évaluations des risques liés aux solutions de TI et aux produits de TI avant de procéder à l’évaluation de la condition du nuage.
+          Le CEI devra s’appuyer au préalable sur des évaluations des risques liés aux solutions de TI et aux produits de TI avant de procéder à l’évaluation de la pertinence de l'infonuagique.
         en: |
           The CAF will need to take IT Solutions and IT Products risk assessment prior to evaluating the cloud fitness. 
     - col:
       data:
         list: false
         fr: |
-          <strong>Cloud CoE</strong>
+          <strong>Centre d’expertise (CE) de l’infonuagique</strong>
         en: |
           <strong>Cloud CoE</strong>
     - col:
@@ -503,12 +506,12 @@
         list: true
         items:
         - item:
-            fr: Stratégie de TI
+            fr: Stratégie TI
             en: IT Strategy
         - item:
             fr: |
               <strong> Équipes responsables de l’architecture</strong>
-              <br>(Incluant : Organisation, Opérations, Données, Information, Solution, Technique, Sécurité des TI et Architecture de sécurité)
+              <br>(Incluant : Entreprise, Opérations, Données, Information, Solution, Technique, Sécurité des TI et Architecture de sécurité)
             en: |
               <strong>Architecture Teams</strong>
               <br>(Includes: Enterprise, Business, Data, Information, Solution, Technical, IT Security, and Security Architecture)
