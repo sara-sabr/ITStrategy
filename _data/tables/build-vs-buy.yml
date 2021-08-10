@@ -57,7 +57,7 @@
         list: false
         fr: |
           <strong>Équipes d'architecture</strong>
-          <br>(Incluant: Entreprise, Opérations, Données, Information, Application/Solution, Technique, Sécurité des TI et Architecture de sécurité et Équipe de l’infonuagique)
+          <br>(Incluant : Entreprise, Opérations, Données, Information, Application/Solution, Technique, Sécurité des TI et Architecture de sécurité et Équipe de l’infonuagique)
         en: |
           <strong>Architecture Teams</strong>
           <br>(Includes: Enterprise, Business, Data, Information, Application/Solution, Technical, IT Security, Security Architecture, and Cloud team)
@@ -353,8 +353,8 @@
             Produire un cadre de gestion des produits de TI qui fournit des conseils sur la gestion opérationnelle par rapport à la gestion financière des dépenses en immobilisations, afin d'encourager ce modèle de gestion dans les initiatives dirigées par EDSC.<br>
             Tirer parti du modèle d’affichage des coûts du CE de l’infonuagique pour expliquer l’utilisation des services dans le cadre d’une solution de TI et l’établissement des coûts des produits de TI par rapport à la budgétisation des projets.
         en: |
-            Produce an IT Product Management Framework, providing guidance on Operational vs Capital Expense Financial management to support this management model in ESDC lead initiatives<br>
-            Leverage the Cloud CoE showback model to help explain use of services as part of an IT Solution and IT Products costing vs project budgeting.
+            Produce an IT Product Management Framework, providing guidance on Operational vs. Capital Expense Financial management to support this management model in ESDC lead initiatives<br>
+            Leverage the Cloud CoE showback model to help explain use of services as part of an IT Solution and IT Products costing vs. project budgeting.
     - col:
       data:
         list: false

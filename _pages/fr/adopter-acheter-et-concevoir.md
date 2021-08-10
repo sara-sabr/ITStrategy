@@ -176,8 +176,8 @@ La réussite de cette stratégie sera mesurée en comparant les données suivant
 
 ## Architecture à couplage libre <!-- omit in toc -->
 
-- Toutes les nouvelles solutions et nouveaux produits de TI favorisent la réutilisation de leurs capacités opérationnelles en tant que service au moyen d’IPA.
-- Toutes les améliorations apportées aux solutions de TI existantes comprennent comme produit livrable une IPA adaptée à ses fonctionnalitées.
+- Tous les nouveaux produits et nouvelles solutions de TI favorisent la réutilisation de leurs capacités opérationnelles en tant que service au moyen d’IPAs.
+- Toutes les améliorations apportées aux solutions de TI existantes comprennent comme produit livrable une IPA adaptée à ses fonctionnalités.
 
 ## Création <!-- omit in toc -->
 
@@ -186,7 +186,7 @@ La réussite de cette stratégie sera mesurée en comparant les données suivant
 ## Applicable à tous les scénarios <!-- omit in toc -->
 
 - Ratio accru de solutions et de produits de TI découplés par rapport à la base de référence.
-- Nombre accru d’IPA trouvables et accessibles aux fins de réutilisation dans l’ensemble des solutions et des produits de TI d’EDSC.
+- Nombre accru d’IPAs trouvables et accessibles aux fins de réutilisation dans l’ensemble des solutions et des produits de TI d’EDSC.
 - Augmentation du nombre de solutions et de produits de TI transférés et exploités dans des environnements infonuagiques (stratégie infonuagique privilégiée).
 - Rapidité et souplesse accrues pour les changements logiciels déployés en production reliées aux solutions et produits de TI (voir le modèle de prestation de la solution cible).
 
@@ -255,12 +255,12 @@ Par conséquent, si l’organisation n’est pas en mesure de concevoir, de cré
 
 - Quel est le niveau de contrôle préférable quant à **la fréquence des mises à niveau** ou à **l’obsolescence technologique** d’une option?
 - Les composants d’une option donnée respectent-ils **les normes technologiques de l’organisation**?
-- Quel est le niveau de **maturité** recherché pour une composant donné?
+- Quel est le niveau de **maturité** recherché pour un composant donné?
 
 ### Gestion des risques liés à l’acquisition de logiciels <!-- omit in toc -->
 
 La stratégie porte sur la gestion des risques liés à l’acquisition de logiciels plutôt que sur l’application de règles dogmatiques pour l’achat ou la création de logiciels (p. ex., « SaaS d’abord » ne signifie pas que l’on doit toujours opter pour un SaaS, « Achetons ce que nous pouvons acheter » ne signifie pas que nous devons acheter puisque le produit est disponible).
-La stratégie utilisera plutôt les outils politiques tel que prévu par l’auteur de la politique et son pouvoir d’éclairer les décisions relatives à la viabilité à long terme et aux besoins des utilisateurs.
+La stratégie utilisera plutôt les outils politiques comme prévus par l’auteur de la politique et son pouvoir d’éclairer les décisions relatives à la viabilité à long terme et aux besoins des utilisateurs.
 
 La gestion des risques liés à l’acquisition de logiciels repose sur la formule suivante :
 
@@ -454,7 +454,7 @@ Produits de TI
 : Combinaison de logiciel, d’infrastructure et de leur configuration.
 Un produit de TI s’apparente à une « application » telle que définie par [le programme de Gestion du portefeuille d’applications (GPA)](https://www.gcpedia.gc.ca/wiki/OCIO_Application_Portfolio_Management?setlang=fr&uselang=fr).
 Un produit de TI peut comporter un ou plusieurs logiciels (p. ex., logiciels commerciaux, bibliothèques libres, logiciels libres, logiciels conçus sur mesure).
-Chacun de ces logiciels est déployé dans une ou plusieurs infrastructures (sur place, dans l'infonuagique public ou une combinaison des deux – ce qu’on appelle déploiement hybride).
+Chacun de ces logiciels est déployé dans une ou plusieurs infrastructures (sur place, dans l'infonuagique publique ou une combinaison des deux – ce qu’on appelle déploiement hybride).
 Dans le cadre de la présente stratégie, les systèmes d’exploitation ne sont PAS définis comme des produits de TI.
 Par conséquent, si un produit de TI nécessite un système d’exploitation donné pour fonctionner, il est conforme à la présente politique.
 
