@@ -349,9 +349,9 @@ Voici quelques éléments de coût qui devraient être pris en considération :
 
 - Occasion ou conformité (p. ex., rater une occasion sur le marché, ne pas se conformer à la réglementation, diminution de la satisfaction de la clientèle)
 - Coûts engagés auprès d’un tiers pour assurer la capacité de rencontrer les ententes de niveau de service (ENS)
-- Imprévus (p. ex., dépenses imprévues découlant de la vérification de la conformité et de l’octroi insuffissant de licences)
+- Imprévus (p. ex., dépenses imprévues découlant de la vérification de la conformité et de l’octroi insuffisant de licences)
 
-Il peut s’avérer impossible de calculer les montan exacts pour tous ces éléments; la tenue d’une évaluation selon une échelle de type « Coûts élevés/moyens/faibles » pourrait être plus réaliste.
+Il peut s’avérer impossible de calculer les montants exacts pour tous ces éléments; la tenue d’une évaluation selon une échelle de type « Coûts élevés/moyens/faibles » pourrait être plus réaliste.
 Cela ne devrait pas poser de problème tant que les mêmes critères sont utilisés pour évaluer toutes les options d’une acquisition.
 
 Toutefois, n’oubliez pas que l’optimisation des ressources ne tient pas uniquement compte du coût financier d’une solution.
