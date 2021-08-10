@@ -17,7 +17,7 @@ permalink: /adopter-acheter-et-concevoir.html
 ***Il s’agit d’une stratégie PROVISOIRE.***
 
 <div class="alert alert-info">
-  Cette stratégie est accompagnée du document suivant : <a href="strategy-build-vs-buy-explained.html" target="_blank">Explication</a>.
+  Cette stratégie est accompagnée du document suivant : <a href="strategy-build-vs-buy-explained.html" target="_blank">Explication</a> (Anglais).
 </div>
 
 <!-- markdownlint-disable MD001 -->
@@ -25,20 +25,20 @@ permalink: /adopter-acheter-et-concevoir.html
 <!-- markdownlint-enable MD001 -->
 1. [Sommaire](#sommaire)
 2. [Introduction](#introduction)
-    1. [Objet](#objet)
-    2. [Intervenants ciblés](#intervenants-ciblés)
-3. [Politique d’orientation](#politique-d’orientation)
-    1. [Gouvernance, conformité et rapports](#gouvernance-conformité-et-rapports)
-    2. [Finances](#finances)
-    3. [Juridique](#juridique)
-    4. [Architecture](#architecture)
-4. [Ensemble cohérent de mesures](#ensemble-cohérent-de-mesures)
+   1. [Objet](#objet)
+   2. [Intervenants ciblés](#intervenants-ciblés)
+3. [Politique d’orientation](#politique-dorientation)
+   1. [Gouvernance, conformité et rapports](#gouvernance-conformité-et-rapports)
+   2. [Finances](#finances)
+   3. [Juridique](#juridique)
+   4. [Architecture](#architecture)
+4. [L’ensemble cohérent de mesures](#lensemble-cohérent-de-mesures)
 5. [Mesurer la réussite de la stratégie](#mesurer-la-réussite-de-la-stratégie)
-6. [Annexe A – Analyse de rentabilisation (diagnostic)](#annexe-a---analyse-de-rentabilisation-(diagnostic))
-7. [Annexe B – Matrice de traçabilité](#annexe-b---matrice-de-traçabilité)
-8. [Annexe C – Références](#annexe-c--–références)
-9. [Annexe D – Définitions](#annexe-d--–définitions)
-10. [Annexe E – Notes et registre des changements](#annexe-e--–notes-et-registre-des-changements)
+6. [Annexe A – Analyse de rentabilisation (diagnostic)](#annexe-a--analyse-de-rentabilisation-diagnostic)
+7. [Annexe B – Matrice de traçabilité](#annexe-b--matrice-de-traçabilité)
+8. [Annexe C – Autres références utiles](#annexe-c--autres-références-utiles)
+9. [Annexe D – Définitions](#annexe-d--définitions)
+10. [Annexe E – Notes et journal des changements](#annexe-e--notes-et-journal-des-changements)
 
 ## Sommaire
 
@@ -57,15 +57,15 @@ Mais en combinant tous ces services et accords supplémentaires aux droits d’u
 La souplesse, l’interopérabilité et le couplage libre des solutions de TI sont nécessaires parce que, une fois acquise, la technologie doit être intégrée à l’environnement de TI de l’organisation, configurée en fonction des besoins des utilisateurs d’une manière qui satisfait aux exigences de conformité et de réglementation, et continuellement mise à jour au moyen de correctifs et de nouvelles versions, etc.
 En plus d’assurer la maintenance de la technologie elle-même, l’organisation qui en fait l’acquisition doit veiller à ce que ses utilisateurs actuels et nouveaux reçoivent une formation continue, à ce que ses processus soient bien adaptés aux nouvelles fonctionnalités et méthodes de travail de la technologie, à avoir accès à un bassin suffisant d’employés compétents et dévoués pour assurer la maintenance de la technologie, et à se conformer aux règlements et aux politiques applicables tout au long du cycle de vie de la solution de TI.
 
-Par conséquent, EDSC doit absolument s’assurer que les solutions de TI complexes ou essentielles à la mission demeurent très souples et adaptables afin de se protéger contre les répercussions des changements futurs tout en minimisant les risques de ces changements, en adoptant des architectures à couplage libre et des blocs de travail de plus petite taille (voir [le Modèle de prestation de la solution cible](strategy-target-solution-delivery-model.html) pour connaître les façons proposées d’appuyer une telle approche).
+Par conséquent, EDSC doit absolument s’assurer que les solutions de TI complexes ou essentielles à la mission demeurent très souples et adaptables afin de se protéger contre les répercussions des changements futurs tout en minimisant les risques de ces changements, en adoptant des architectures à couplage libre et des blocs de travail de plus petite taille (voir [le Modèle de prestation de la solution cible](strategy-target-solution-delivery-model.html) (Anglais) pour connaître les façons proposées d’appuyer une telle approche).
 
 Cette stratégie propose de faire en sorte que tous les intervenants d’EDSC comprennent que les solutions de TI sont complexes et que les décisions d’investissement doivent être prises en tenant compte de la souplesse, de l’interchangeabilité et de l’interopérabilité tout au **long du cycle de vie** d’une solution de TI, et non seulement à l’étape initiale.
 
-Cette stratégie complémente les initiatives de TI existantes en introduisant **une politique d’orientation** visant à établir une direction et vient appuyer ces initiatives au moyen d’un plan en neuf étapes auxquelles participent des intervenants de la DGIIT, de la DGPSS (BDPD), de la DGDPF, de SPC, du SCT et de SPAC (voir [l’ensemble cohérent de mesures](#coherent-set-of-actions)).
+Cette stratégie complémente les initiatives de TI existantes en introduisant **une politique d’orientation** visant à établir une direction et vient appuyer ces initiatives au moyen d’un plan en neuf étapes auxquelles participent des intervenants de la DGIIT, de la DGPSS (BDPD), de la DGDPF, de SPC, du SCT et de SPAC (voir [l’ensemble cohérent de mesures](#lensemble-cohérent-de-mesures)).
 
 L’objectif de cette stratégie est de clarifier l’application des procédures obligatoires du GC sur [les évaluations de l’architecture d’entreprise](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32602) et [les interfaces de programmation d’applications](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32604) lors de l’acquisition de nouvelles solutions de TI ou de leur amélioration dans le contexte de la DGIIT d’EDSC.
 
-Plus de détails à [l’annexe A](#l’annexe---a).
+Plus de détails à [l’annexe A](#annexe-a--analyse-de-rentabilisation-diagnostic).
 
 ## Introduction
 
@@ -80,20 +80,20 @@ Cette stratégie comprend :
 
 Cette stratégie vise à communiquer la décision du dirigeant principal de l’information (DPI) d’EDSC (qui n’a pas encore été approuvée) concernant la voie à suivre (la Politique d’orientation) et les investissements nécessaires pour opérationnaliser cette décision (ensemble cohérent de mesures).
 
-#### Intervenants ciblés
+### Intervenants ciblés
 
 Ce **document stratégique** s’adresse aux intervenants qui participent à l’acquisition d’une solution de TI pour aider à concrétiser les résultats d’une initiative axée sur les TI telle que définie dans l’analyse de rentabilisation d’un projet ou d’un programme.
 Plus précisément, les intervenants participant à l’architecture des solutions de TI, à la définition des normes technologiques, à l’élaboration, à la prestation, à l’opérationnalisation et à la tenue à jour des solutions de TI (comme l’architecture d’entreprise, les opérations d’entreprise, etc.), de même qu’aux comités directeurs comme le Comité d’examen de l’architecture (CEA) et le Conseil d’examen de l’architecture intégrée (CEAI).
 Cela comprend les intervenants qui font ou non partie de la DGIIT, y compris, sans toutefois s’y limiter, les fonctions opérationnelles, la Direction générale des politiques stratégiques et de service (DGPSS), le dirigeant principal des données (DPD), la Direction générale des services d’intégrité (DGSI), la Direction générale des services de vérification interne (DGSVI) et Services partagés Canada (SPC).
-Vous trouverez dans [l’ensemble cohérent de mesures](#coherent-set-of-actions) une liste des intervenants qui devraient participer à l’étape de l’exécution de cette stratégie en vue de la mise en œuvre de la politique d’orientation.
+Vous trouverez dans [l’ensemble cohérent de mesures](#lensemble-cohérent-de-mesures) une liste des intervenants qui devraient participer à l’étape de l’exécution de cette stratégie en vue de la mise en œuvre de la politique d’orientation.
 
 Une fois qu’elle aura été mise en œuvre, **la politique d’orientation** ciblera les intervenants concernés lorsque le besoin d’une solution de TI sera soulevé, ainsi que lors de la conception, l’établissement de l’architecture, l’élaboration, la mise en œuvre, l’opérationnalisation et la mise à jour de la solution de TI.
 Tout le personnel d’EDSC qui participe à l’exploration des solutions de TI et aux décisions d’investissement en matière de TI doit se conformer à la présente politique.
 
-### Politique d’orientation
+## Politique d’orientation
 
 La politique suivante reflète la décision adoptée par **le DPI d’EDSC** (approbation de principe par le DPI; la décision doit maintenant être approuvée par le CEAI) au moment d’évaluer la façon la plus appropriée d’acquérir une solution de TI, que ce soit en l’adoptant, en l’achetant ou en la concevant.
-Chaque énoncé de politique représente une déclaration de cette décision et a reçu l’approbation de son secteur de gouvernance connexe (les approbations n’ont pas encore été obtenues, voir [l’ensemble cohérent de mesures](#l’ensemble-cohérent-de-mesures)).
+Chaque énoncé de politique représente une déclaration de cette décision et a reçu l’approbation de son secteur de gouvernance connexe (les approbations n’ont pas encore été obtenues, voir [l’ensemble cohérent de mesures](#lensemble-cohérent-de-mesures)).
 
 Cette politique s’applique lorsqu’une initiative d’EDSC exige l’acquisition d’une solution de TI, qu’elle soit offerte par EDSC ou par un fournisseur tiers.
 Une fois l’initiative lancée, toutes les équipes participant au projet et les produits de TI faisant partie de la solution de TI doivent se conformer à cette politique d’orientation.
@@ -117,21 +117,21 @@ Les intervenants doivent continuer de se conformer aux instruments de politique 
   - [la stratégie du Modèle de prestation de la solution cible d’EDSC](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html) (ébauche en cours de consultation)
   - Stratégie de données d’EDSC
 
-## Gouvernance, conformité et rapports
+### Gouvernance, conformité et rapports
 
 1. Les solutions de TI sont divisées en parties gérables (produits de TI), conformément au modèle des capacités opérationnelles d’EDSC ou au modèle des capacités opérationnelles du GC, selon le plus pertinent.
-2. Les solutions de TI sont évaluées par rapport au cadre d’évaluation des risques liés aux solutions de TI (à créer – voir [l’ensemble cohérent de mesures](#l’ensemble-cohérent-de-mesures) et lire [la rubrique Gérer les risques liés à l’acquisition de logiciels](#la-rubrique-Gérer-les-risques-liés-à-l’acquisition-de-logiciels)).
+2. Les solutions de TI sont évaluées par rapport au cadre d’évaluation des risques liés aux solutions de TI (à créer – voir [l’ensemble cohérent de mesures](#lensemble-cohérent-de-mesures) et lire [la rubrique Gestion des risques liés à l’acquisition de logiciels](#gestion-des-risques-liés-à-lacquisition-de-logiciels-)).
 3. La maintenance et le soutien des produits et des solutions de TI peuvent être effectués à l’interne ou confiés à un fournisseur tiers.
     - Les activités de maintenance et de soutien imparties à l’externe peuvent être exécutées par un tiers autre que celui qui fournit la licence du logiciel.
 
 ### Finances
 
-1. Les exigences financières des solutions de TI sont harmonisées au cadre de gestion des produits (à créer – voir [l’ensemble cohérent de mesures](#l’ensemble-cohérent-de-mesures)).
-2. Les solutions de TI sont évaluées par rapport au cadre du coût total de possession (à créer – voir [l’ensemble cohérent de mesures](#l’ensemble-cohérent-de-mesures)).
+1. Les exigences financières des solutions de TI sont harmonisées au cadre de gestion des produits (à créer – voir [l’ensemble cohérent de mesures](#lensemble-cohérent-de-mesures)).
+2. Les solutions de TI sont évaluées par rapport au cadre du coût total de possession (à créer – voir [l’ensemble cohérent de mesures](#lensemble-cohérent-de-mesures)).
 
 ### Juridique
 
-1. Les solutions de TI s’appuient sur le Guide des termes juridiques relatifs aux logiciels d’EDSC (à créer – voir [l’ensemble cohérent de mesures](#l’ensemble-cohérent-de-mesures))
+1. Les solutions de TI s’appuient sur le Guide des termes juridiques relatifs aux logiciels d’EDSC (à créer – voir [l’ensemble cohérent de mesures](#lensemble-cohérent-de-mesures))
 2. Les solutions et les produits de TI sont conformes au Cadre de gestion des logiciels libres d’EDSC, le cas échéant.
 
 ### Architecture
@@ -140,7 +140,7 @@ Les intervenants doivent continuer de se conformer aux instruments de politique 
     - Le dédoublement des solutions de TI ou des produits de TI est pris en charge à condition que ce soit pour différentes capacités opérationnelles.
     - Les limites des solutions de TI et des produits de TI doivent s’appliquer aux fonctionnalités d’application, en vue d’accroître les capacités opérationnelles.
     - L’adoption de solutions et de produits de TI existants, internes ou externes, est privilégiée par rapport à l’achat ou à la conception intégrale de nouvelles solutions, selon les profils de risque particuliers et les coûts totaux de possession.
-2. Les solutions de TI et les produits de TI font l’objet d’une évaluation des risques de verrouillage technologique au moyen de leurs cadres d’évaluation des risques respectifs (à créer – voir [l’ensemble cohérent de mesures](#l’ensemble-cohérent-de-mesures))
+2. Les solutions de TI et les produits de TI font l’objet d’une évaluation des risques de verrouillage technologique au moyen de leurs cadres d’évaluation des risques respectifs (à créer – voir [l’ensemble cohérent de mesures](#lensemble-cohérent-de-mesures))
 
 ## L’ensemble cohérent de mesures
 
