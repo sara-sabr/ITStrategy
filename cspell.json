@@ -565,7 +565,9 @@
     "Roadmap's",
     "overembellishment",
     "fonctionnalitées",
-    "L'incidence"
+    "L'incidence",
+    "insuffissant",
+    "montan"
   ],
   "flagWords": [],
   "import": ["node_modules/@cspell/dict-fr-fr/cspell-ext.json"],
