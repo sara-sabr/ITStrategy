@@ -26,6 +26,10 @@ In this document you will find the following sections:
       - [Link Checker](#link-checker)
       - [Spelling Checker](#spelling-checker)
   - [Local Website](#local-website)
+    - [With Docker](#with-docker)
+    - [With Ruby](#with-ruby)
+      - [Initial installation](#initial-installation)
+      - [Generate website](#generate-website)
   - [Jekyll Pages](#jekyll-pages)
     - [Layout](#layout)
     - [Title](#title)
@@ -482,6 +486,8 @@ If a page needs to be sent to translation it needs to be sent in .docx format.  
 pandoc -t docx IN.md -o OUT.docx
 ```
 
+Running this command takes the file IN.md and creates file OUT.docx. When using the above code, replace IN.md with the name of the markdown file you want to convert and replace OUT.docx with the name of the Word document you want to create.
+
 The docx file will be saved in the file structure of your local repo. You can copy it from there into an email to the translation company.
 
 ### Converting from Word to markdown (docx to md)
@@ -491,3 +497,5 @@ This is most useful after receiving a translated file from the translation compa
 ```bash
 pandoc -t gfm --wrap=none -s IN.docx -o OUT.md
 ```
+
+Running this command takes the file IN.docx and creates file OUT.md. When using the above code, replace IN.md with the name of the markdown file you want to convert and replace OUT.docx with the name of the Word document you want to create.
