@@ -3,8 +3,8 @@ layout: default
 title: Stratégie du modèle de prestation de la solution de TI cible – Rétroaction en suspens
 ref: target-solution-delivery-model-strategy-explained-areas-of-concerns
 lang: fr
-sections: Documents justificatifs
-permalink: /target-solution-delivery-model-strategy-areas-of-concerns.html
+sections: Documents à l'appui
+permalink: /stratégie-du-modèle-de-prestation-de-la-solution-de-TI-cible--Rétroaction-en-suspens.html
 ---
 <!--markdownlint-disable MD026-->
 <!--markdownlint-disable MD033-->
@@ -203,9 +203,13 @@ Tous les produits de TI accumulent, dans une certaine mesure, une dette techniqu
 C’est pourquoi l’amélioration continue est importante et devrait être intégrée à chaque sprint, tout en s’assurant d’offrir de la valeur aux utilisateurs.
 On s’attend également à ce que les RP fassent la distinction entre les fonctionnalités discrétionnaires (p. ex., les changements apportés à l’interface de l’utilisateur) et non discrétionnaires (p. ex., les changements apportés à la réglementation), car ce sont eux qui, en fin de compte, assument la responsabilité de faire en sorte que les produits de TI soient conformes aux différents règlements et politiques.
 
-1. Les **architectures de couplage libre obligatoires** visent à rendre les solutions globales plus souples aux changements en les décomposant en produits de TI plus petits, plus faciles à gérer et indépendants (c.‑à‑d. des produits de TI qui peuvent fonctionner de façon autonome dans un environnement de production). Consultez la [stratégie d’adoption, d’achat et de conception](adopter-acheter-et-concevoir.md) pour en savoir plus. Par conséquent, les changements non discrétionnaires (p. ex., un changement de réglementation) devraient ne pas avoir d’incidence sur un grand nombre de produits de TI. Par exemple, les produits de TI qui sont des interfaces-utilisateurs (p. ex., les portails Web) ne seront pas touchés par les changements apportés à la réglementation, mais les moteurs de règles opérationnelles et les outils de traitement des demandes le seront.
+2. Les **architectures de couplage libre obligatoires** visent à rendre les solutions globales plus souples aux changements en les décomposant en produits de TI plus petits, plus faciles à gérer et indépendants (c.‑à‑d. des produits de TI qui peuvent fonctionner de façon autonome dans un environnement de production).
+Consultez la [stratégie d’adoption, d’achat et de conception]({{ site.baseurl }}{% link _pages/fr/adopter-acheter-et-concevoir.md %}) pour en savoir plus. Par conséquent, les changements non discrétionnaires (p. ex., un changement de réglementation) devraient ne pas avoir d’incidence sur un grand nombre de produits de TI.
+Par exemple, les produits de TI qui sont des interfaces-utilisateurs (p. ex., les portails Web) ne seront pas touchés par les changements apportés à la réglementation, mais les moteurs de règles opérationnelles et les outils de traitement des demandes le seront.
 
-2. Le **passage à la planification et à la gestion des produits axées sur les capacités** (c.‑à‑d. l’établissement de conditions à la réception de projets axés sur la TI en vertu desquelles les résultats et les paramètres doivent être approuvés par l’architecte en chef avant le début des travaux) devrait avoir une incidence sur la détermination des éléments auxquels il faut prêter attention. Ces éléments s’inscrivent dans les différents arriérés de produits de TI en fonction des capacités requises pour apporter les changements ou les améliorations nécessaires, afin d’atteindre les résultats souhaités mentionnés dans l’analyse de rentabilisation. L’architecture d’entreprise adopte une position stratégique en guidant les décisions d’investissement et en se dissociant de leur exécution.
+3. Le **passage à la planification et à la gestion des produits axées sur les capacités** (c.‑à‑d. l’établissement de conditions à la réception de projets axés sur la TI en vertu desquelles les résultats et les paramètres doivent être approuvés par l’architecte en chef avant le début des travaux) devrait avoir une incidence sur la détermination des éléments auxquels il faut prêter attention.
+Ces éléments s’inscrivent dans les différents arriérés de produits de TI en fonction des capacités requises pour apporter les changements ou les améliorations nécessaires, afin d’atteindre les résultats souhaités mentionnés dans l’analyse de rentabilisation.
+L’architecture d’entreprise adopte une position stratégique en guidant les décisions d’investissement et en se dissociant de leur exécution.
 
 ### 2.4 Harmonisation et analyse des écarts avec les politiques et les directives (gestion des investissements et des projets)
 
@@ -356,8 +360,6 @@ Tous les membres doivent posséder ces compétences et les perfectionner. Cela e
 
 La présente annexe renferme une liste des préoccupations qui ont été abordées et supprimées du présent document.
 
-&lt;/tableau&gt;
-
 <table>
     <thead>
     <tr class="header">
@@ -474,7 +476,7 @@ La présente annexe renferme une liste des préoccupations qui ont été abordé
     </tr>
     <tr class="odd">
         <td>(2.6) Approche de planification des capacités de TI</td>
-        <td><p>2.6.1 Sommaire<br />
+        <td>2.6.1 Sommaire<br />
         Avec l’adoption d’une méthode de travail plus agile – c’est-à-dire que les responsables de produits et les équipes de développement communiquent directement et sont autorisés à apporter des changements à leurs produits de TI –, comment la DGIIT gérera-t-elle la planification de ses capacités de TI?<br />
         <br />
         2.6.2 Point soulevé par les intervenants<br />
@@ -498,7 +500,7 @@ La présente annexe renferme une liste des préoccupations qui ont été abordé
         (3) Exceptionnellement, les équipes DevOps peuvent être transférées vers d’autres produits de TI, d’autant plus que les capacités d’intégration devraient être davantage en demande.
         Les capacités d’intégration produisent d’autres composants logiciels qui interagissent avec d’autres produits de TI (p. ex., IPA accessibles au public).
         Les contraintes sont de maintenir un niveau de cohérence dans les combinaisons de technologies, afin que les équipes DevOps nouvellement affectées puissent mettre leurs connaissances à jour plus rapidement.&lt;br"&gt;<br />
-        Il faut s’assurer que les mesures cohérentes suivantes soient prises en réponse à cette préoccupation :</p>
+        Il faut s’assurer que les mesures cohérentes suivantes soient prises en réponse à cette préoccupation :
         <ul>
             <li><p>Gouvernance / Produire un document d’orientation stratégique</p></li>
             <li><p>Gouvernance / Cadre de gouvernance agile de la DGIIT</p></li>
