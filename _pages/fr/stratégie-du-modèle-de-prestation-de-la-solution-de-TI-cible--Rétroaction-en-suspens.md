@@ -205,7 +205,7 @@ On s'attend également à ce que les RP fassent la distinction entre les fonctio
 
 2. Les **architectures de couplage libre obligatoires** visent à rendre les solutions globales plus souples aux changements en les décomposant en produits de TI plus petits, plus faciles à gérer et indépendants (c.‑à‑d. des produits de TI qui peuvent fonctionner de façon autonome dans un environnement de production).
 Consultez la [stratégie d'adoption, d'achat et de conception]({{ site.baseurl }}{% link _pages/fr/adopter-acheter-et-concevoir.md %}) pour en savoir plus. Par conséquent, les changements non discrétionnaires (p. ex., un changement de réglementation) devraient ne pas avoir d'incidence sur un grand nombre de produits de TI.
-Par exemple, les produits de TI qui sont des interfaces-utilisateurs (p. ex., les portails Web) ne seront pas touchés par les changements apportés à la réglementation, mais les moteurs de règles opérationnelles et les outils de traitement des demandes le seront.
+Par exemple, les produits de TI qui sont des interfaces utilisateur (p. ex., les portails Web) ne seront pas touchés par les changements apportés à la réglementation, mais les moteurs de règles opérationnelles et les outils de traitement des demandes le seront.
 
 3. Le **passage à la planification et à la gestion des produits axées sur les capacités** (c.‑à‑d. l'établissement de conditions à la réception de projets axés sur la TI en vertu desquelles les résultats et les paramètres doivent être approuvés par l'architecte en chef avant le début des travaux) devrait avoir une incidence sur la détermination des éléments auxquels il faut prêter attention.
 Ces éléments s'inscrivent dans les différents arriérés de produits de TI en fonction des capacités requises pour apporter les changements ou les améliorations nécessaires, afin d'atteindre les résultats souhaités mentionnés dans l'analyse de rentabilisation.
@@ -277,7 +277,7 @@ Dans le cas de l'équipe de l'analyse des données, l'accès direct à une base 
 
 1. Il est peu probable qu'un produit conçoive une IPA, car cela entraînerait des coûts supplémentaires.
 2. On s'attend à ce que cela ait des répercussions sur le rendement.
-3. Le nombre d'IPA destinées à la consommation et à la reconstruction de données accroîtra la complexité des solutions d'analyse de données.
+3. Le nombre d'IPAs destinées à la consommation et à la reconstruction de données accroîtra la complexité des solutions d'analyse de données.
 
 #### 2.6.2 Point soulevé par les intervenants <!-- omit in toc -->
 
@@ -312,7 +312,7 @@ Les réflexions actuelles portent sur les sujets suivants :
 
 - Définir une vision de l'architecture cible pour les environnements de transition des systèmes existants.
 Cela permet de fournir une orientation et d'établir des attentes raisonnables pour les équipes DevOps qui travaillent dans des environnements non infonuagiques.
-La vision de l'architecture cible vise à fournir des architectures de référence et des exigences intégrées dans la portée des projets axés sur les TI qui touchent les programmes d'ordinateurs centraux, p. ex., une couche d'intégration pour exposer certaines fonctions et données au moyen d'IPA accessibles au public, que d'autres solutions TI peuvent utiliser (c.‑à‑d. le « [schéma en goulot d'étranglement (anglais seulement)](https://dzone.com/articles/monolith-to-microservices-using-the-strangler-patt) » dont vous avez peut-être entendu parler).
+La vision de l'architecture cible vise à fournir des architectures de référence et des exigences intégrées dans la portée des projets axés sur les TI qui touchent les programmes d'ordinateurs centraux, p. ex., une couche d'intégration pour exposer certaines fonctions et données au moyen d'IPAs accessibles au public, que d'autres solutions TI peuvent utiliser (c.‑à‑d. le « [schéma en goulot d'étranglement (anglais seulement)](https://dzone.com/articles/monolith-to-microservices-using-the-strangler-patt) » dont vous avez peut-être entendu parler).
 
 - Cerner un projet pilote durant la mise en œuvre de la stratégie pour en tester la faisabilité.
 
@@ -425,7 +425,7 @@ La présente annexe renferme une liste des préoccupations qui ont été abordé
         3) Mesure des progrès au moyen d'un logiciel fonctionnel et non d'une documentation exhaustive<br />
         <br />
         (1) Les architectures de couplage libre visent à rendre les solutions globales plus souples au changement en les divisant en composants plus petits, plus faciles à gérer et indépendants (composants individuels de logiciels ou de services infonuagiques).
-        On s'attend à ce que ces composants indépendants fonctionnent dans un environnement de production de manière autonome (dans la mesure du possible) et permettent d'accéder aux fonctions et aux données qu'ils renferment au moyen d'IPA bien définies.
+        On s'attend à ce que ces composants indépendants fonctionnent dans un environnement de production de manière autonome (dans la mesure du possible) et permettent d'accéder aux fonctions et aux données qu'ils renferment au moyen d'IPAs bien définies.
         Cela devrait augmenter le niveau de complexité de deux façons :<br />
         <br />
         A) Gestion des données : pour fonctionner de manière indépendante, les composants de la solution doivent disposer des données dont ils ont besoin pour fonctionner.
@@ -498,7 +498,7 @@ La présente annexe renferme une liste des préoccupations qui ont été abordé
         La base de codes est la plus petite dénomination d'une unité déployable de logiciels.<br />
         <br />
         (3) Exceptionnellement, les équipes DevOps peuvent être transférées vers d'autres produits de TI, d'autant plus que les capacités d'intégration devraient être davantage en demande.
-        Les capacités d'intégration produisent d'autres composants logiciels qui interagissent avec d'autres produits de TI (p. ex., IPA accessibles au public).
+        Les capacités d'intégration produisent d'autres composants logiciels qui interagissent avec d'autres produits de TI (p. ex., IPAs accessibles au public).
         Les contraintes sont de maintenir un niveau de cohérence dans les combinaisons de technologies, afin que les équipes DevOps nouvellement affectées puissent mettre leurs connaissances à jour plus rapidement.&lt;br"&gt;<br />
         Il faut s'assurer que les mesures cohérentes suivantes soient prises en réponse à cette préoccupation :
         <ul>
@@ -511,7 +511,7 @@ La présente annexe renferme une liste des préoccupations qui ont été abordé
         <td>(2.9) Risque relatif aux frais généraux de gestion de projet</td>
         <td>2.9.1 Sommaire<br />
         <br />
-        La stratégie vise à limiter la taille des projets aux petits projets et aux projets de taile inférieure.
+        La stratégie vise à limiter la taille des projets aux petits projets et aux projets de taille inférieure.
         Si une initiative requiert la diffusion de plusieurs versions dans l'environnement de production et dépasse le seuil de 2,5 M$, faut-il s'attendre à devoir de nouveau passer par le cycle de vie de gestion des projets pour les versions subséquentes?<br />
         <br />
         Si c'est le cas, les frais généraux encourus par les équipes de TI risquent d'être beaucoup trop élevés et cela risque de ralentir la prestation des services.<br />
