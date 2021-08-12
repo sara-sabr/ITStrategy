@@ -9,7 +9,8 @@ date: "2020-09-23"
 permalink: /adopter-acheter-et-batir-explication.html
 ---
 
-Table des matières
+### Table des matières
+
 - [Contexte](https://sara-sabr.github.io/ITStrategy/strategy-build-vs-buy-explained.html#context)
 - [Introduction](https://sara-sabr.github.io/ITStrategy/strategy-build-vs-buy-explained.html#introduction)
     - [Portée du présent document](https://sara-sabr.github.io/ITStrategy/strategy-build-vs-buy-explained.html#scope-of-this-document)
@@ -19,23 +20,28 @@ Table des matières
         - [Système de gestion du versement de prestations multiples](https://sara-sabr.github.io/ITStrategy/strategy-build-vs-buy-explained.html#multi-benefit-delivery-management-system)
 
 ## Contexte
+
 Le présent document se veut un complément à la [Stratégie de conception ou d’achat](https://sara-sabr.github.io/ITStrategy/strategy-build-vs-buy.html).
 
 ## Introduction
+
 Souvent, quand on parle de politique, on utilise un langage complexe de manière à englober efficacement toutes les idées et les renseignements pour l’utilisateur. Toutefois, cela peut donner lieu à des politiques difficiles à assimiler et à comprendre. L’objectif de la Stratégie de conception ou d’achat de la DGIIT est de présenter une nouvelle façon de penser en ce qui a trait à l’approvisionnement en TI et à la gestion des risques.
 Les scénarios suivants ont donc été créés pour aider l’utilisateur à mettre le cadre en contexte.
 
 ### Portée du présent document
+
 Le présent document vise à fournir différents exemples ou scénarios qui aideront à mettre en contexte la stratégie d’adoption, d’achat ou de conception.
 Il ne s’agit pas d’un guide définitif.
 Il existe de nombreux points à considérer et différentes variables quand il s’agit de décider s’il convient de concevoir ou d’acheter une solution ou un composant d’une solution. Par conséquent, les exemples qui suivent ont été créés en fonction d’un ensemble d’hypothèses de base qui peuvent ne pas s’appliquer à une situation précise. Veuillez consulter la documentation officielle de la stratégie pour obtenir de plus amples renseignements.
 
 ### Cas d’utilisation
+
 La plupart du temps, l’acquisition d’une solution de TI ne consiste pas seulement à adopter, acheter ou concevoir un produit. Il s’agit souvent d’une permutation des trois. Les cas d’utilisation suivants montrent que certaines solutions peuvent se retrouver à différents emplacements du diagramme, selon la façon dont elles sont mises en œuvre et par qui.
 
 ![Basic Venn diagram with 3 overlapping circles for Adopt, Build and Buy. The middle is the intersection of all 3 (Adopt ^ Buy ^ Build)](assets/images/adopt-build-buy-venn.png)
 
 ### Navigateur Web
+
 Voici quelques exemples : Firefox, Chrome, Edge, IE, etc.
 
 Adoption
