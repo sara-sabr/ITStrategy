@@ -82,7 +82,7 @@ Le passage à l’ère numérique met en évidence l’omniprésence de la techn
 
 EDSC a besoin de **déploiements de production** pour obtenir les **données empiriques** nécessaires à la **prise de décisions fondées sur des données probantes**.
 
-EDSC n’est pas un nouveau ministère. Il a accumulé une [dette technique importante](https://www.oag-bvg.gc.ca/internet/Francais/parl_oag_201004_01_f_33714.html)[^2](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:2) au cours de ses décennies d’activités, ce qui a une incidence sur la réactivité des TI. Le [portefeuille d’applications d’EDSC contient plus de 500 applications](https://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/ESDC%20IT%20Plan%202019-22%20-%20FINAL.pdf)[^3](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:3), dont 101 sont essentielles à la mission et reposent sur des technologies existantes (applications personnalisées et ordinateurs centraux désuets). En réponse aux limites des systèmes de TI désuets, EDSC a commencé à investir dans un programme de [modernisation de la prestation des activités](https://www.canada.ca/fr/emploi-developpement-social/ministere/rapports/plan-ministeriel/2019-2020/resultats-prevus.html#h2.04)[^4](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:4).
+EDSC n’est pas un nouveau ministère. Il a accumulé une [dette technique importante](https://www.oag-bvg.gc.ca/internet/Francais/parl_oag_201004_01_f_33714.html)[^2](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:2) au cours de ses décennies d’activités, ce qui a une incidence sur la réactivité des TI. Le [portefeuille d’applications d’EDSC contient plus de 500 applications (anglais seulement)](https://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/ESDC%20IT%20Plan%202019-22%20-%20FINAL.pdf)[^3](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:3), dont 101 sont essentielles à la mission et reposent sur des technologies existantes (applications personnalisées et ordinateurs centraux désuets). En réponse aux limites des systèmes de TI désuets, EDSC a commencé à investir dans un programme de [modernisation de la prestation des activités](https://www.canada.ca/fr/emploi-developpement-social/ministere/rapports/plan-ministeriel/2019-2020/resultats-prevus.html#h2.04)[^4](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:4).
 
 Toutefois, le recours aux TI est un investissement risqué et coûteux[^5](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:5).
 
@@ -101,7 +101,7 @@ Le passage au numérique permet de mettre davantage l’accent sur les données 
 
 Bref, cette stratégie vise à modifier les conditions organisationnelles de sorte qu’EDSC puisse réussir sa transformation numérique[^11](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:11).
 
-Cette stratégie misera sur les initiatives de TI existantes (comme [La voie à suivre pour la DGIIT](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx), l’étude indépendante de PwC, le cadre des opérations infonuagiques et le programme de redressement de la dette technique), en les mettant à l’avant-plan et en y intégrant de nouvelles activités.
+Cette stratégie misera sur les initiatives de TI existantes (comme [La voie à suivre pour la DGIIT (anglais seulement)](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx), l’étude indépendante de PwC, le cadre des opérations infonuagiques et le programme de redressement de la dette technique), en les mettant à l’avant-plan et en y intégrant de nouvelles activités.
 
 L’objectif de cette stratégie est de définir ce qu’est l’état cible de la prestation des solutions de TI et de présenter une feuille de route pour atteindre cet état cible.
 
@@ -115,11 +115,11 @@ Cette politique d’orientation s’appliquera lorsque des solutions de TI devro
 
 La présente politique d’orientation a été préparée en tenant compte de l’harmonisation et de la conformité aux instruments de politique existants et ne vise pas à les remplacer. Les intervenants doivent continuer de se conformer aux instruments de politique existants, notamment :
 
-- [Politique sur la gestion des projets et des programmes (PGPP)](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Policy%20on%20Project%20and%20Programme%20Management.pdf) d’EDSC
-- [Directive sur la gestion des programmes](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Directive%20On%20Programme%20Management.pdf) d’EDSC
-- [Directive sur la gestion des projets](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Directive%20On%20Project%20Management.pdf) d’EDSC
-- [Politiques d’approvisionnement](http://iservice.prv/eng/finance/purchasing/policy.shtml) d’EDSC
-- [Stratégie de données](https://www.gcpedia.gc.ca/wiki/CDO_Resources) d’EDSC
+- [Politique sur la gestion des projets et des programmes (PGPP) (anglais seulement)](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Policy%20on%20Project%20and%20Programme%20Management.pdf) d’EDSC
+- [Directive sur la gestion des programmes (anglais seulement)](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Directive%20On%20Programme%20Management.pdf) d’EDSC
+- [Directive sur la gestion des projets (anglais seulement)](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Directive%20On%20Project%20Management.pdf) d’EDSC
+- [Politiques d’approvisionnement (anglais seulement)](http://iservice.prv/eng/finance/purchasing/policy.shtml) d’EDSC
+- [Stratégie de données (anglais seulement)](https://www.gcpedia.gc.ca/wiki/CDO_Resources) d’EDSC
 - [Directive sur les services et le numérique](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32601) du CT
 - [Directive sur la gestion de la sécurité](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32611) du CT
 - [Directive sur la prise de décisions automatisée](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32592) du CT
@@ -249,7 +249,7 @@ Les mesures suivantes doivent être prises pour que le modèle de prestation de 
     <td>Produire un cadre normalisé pour régir les projets axés sur la TI conformément au modèle de prestation de la solution de TI cible. Un cadre normalisé est nécessaire pour réduire la confusion, assurer la cohérence entre les équipes et veiller à ce que la gouvernance demeure fluide, afin d’offrir une marge de manœuvre en matière de souplesse.
     On s’attend à ce que les chaînes de valeur du développement soient définies à même ce cadre, tout comme les IRC dont il faudra rendre compte.<br />
     <br />
-    Comme pour l’ébauche de l’expérience numérique et des données sur les clients (ENDC) de la MPA, <a href="https://014gc.sharepoint.com/:p:/r/sites/DECD/Shared%20Documents/Team%20-%20Digital%20Channel%20Strategy%20%26%20Oversight/Project%20Management%20Office/DECD%20Agile%20Governance.pptx?d=w831833ad477448d5bfa7662346319df6&amp;csf=1&amp;web=1&amp;e=CD3jWg"><u>vous trouverez de plus amples renseignements sur la gouvernance agile en cliquant ici</u></a>.</td>
+    Comme pour l’ébauche de l’expérience numérique et des données sur les clients (ENDC) de la MPA, <a href="https://014gc.sharepoint.com/:p:/r/sites/DECD/Shared%20Documents/Team%20-%20Digital%20Channel%20Strategy%20%26%20Oversight/Project%20Management%20Office/DECD%20Agile%20Governance.pptx?d=w831833ad477448d5bfa7662346319df6&amp;csf=1&amp;web=1&amp;e=CD3jWg">vous trouverez de plus amples renseignements sur la gouvernance agile en cliquant ici (anglais seulement)</a>.</td>
     <td><em><strong>BGPDG</strong></em></td>
     <td>Conseillers principaux<br />
     Architecture d’entreprise<br />
@@ -549,7 +549,7 @@ Les mesures sont définies comme suit :
 
 *Automatique*: la collecte de données est effectuée automatiquement, habituellement par des moyens programmatiques (p. ex., événements déclenchés dans un répertoire Git quand un nouvel engagement est pris et mises à jour de la « vue » globale du tableau de bord).
 
-**REMARQUE :** les quatre premières mesures (a, b, c et d) sont les [4 indicateurs clés définis par le DevOps Research Assessment Institute (DORA)](https://www.thoughtworks.com/radar/techniques/four-key-metrics).
+**REMARQUE :** les quatre premières mesures (a, b, c et d) sont les [4 indicateurs clés définis par le DevOps Research Assessment Institute (DORA) (anglais seulement)](https://www.thoughtworks.com/radar/techniques/four-key-metrics).
 
 Approche de mise en œuvre (en plusieurs étapes)
 
@@ -609,7 +609,7 @@ La [Directive sur la gestion de projets et programmes du CT](tbs-sct.gc.ca/pol/d
 
 Les trois exigences susmentionnées issues de la Directive du CT indiquent que les ministères doivent accepter le changement et s’y adapter, ainsi que prendre des décisions fondées sur des données probantes (comme les décisions de planification). De telles données probantes ne peuvent être obtenues que par l’exécution.
 
-La DGIIT a déployé des efforts pour moderniser sa gestion des technologies, comme en témoignent le [Coin des félicitations dans le Bulletin de nouvelles de la DGIIT](http://esdc.prv/en/iitb/corporate/news/archives.shtml)[^15](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:16) et le plan [La voie à suivre pour la DGIIT](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx)[^16](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:17). Toutefois, la relation d’EDSC avec la technologie dépasse l’influence de la DGIIT.
+La DGIIT a déployé des efforts pour moderniser sa gestion des technologies, comme en témoignent le [Coin des félicitations dans le Bulletin de nouvelles de la DGIIT (anglais seulement)](http://esdc.prv/en/iitb/corporate/news/archives.shtml)[^15](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:16) et le plan [La voie à suivre pour la DGIIT (anglais seulement)](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx)[^16](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:17). Toutefois, la relation d’EDSC avec la technologie dépasse l’influence de la DGIIT.
 
 Pour faire d’EDSC une organisation agile, il faut adopter un modèle qui permettra de déployer des logiciels plus petits et de manière plus fréquente, car ce sont ces déploiements qui permettront à l’organisation de recueillir les données empiriques nécessaires pour prendre des décisions fondées sur des données probantes.
 
@@ -617,81 +617,81 @@ Pour faire d’EDSC une organisation agile, il faut adopter un modèle qui perme
 
 La matrice de traçabilité suivante est utilisée pour démontrer l’harmonisation avec divers plans, stratégies et instruments de politique déjà en cours.
 
-<table><colgroup><col style="width: 29%" /><col style="width: 70%" /></colgroup><thead><tr class="header"><th><strong>Élément de la stratégie</strong></th><th><strong>qui s’harmonise avec</strong></th></tr></thead><tbody><tr class="odd"><td><strong>Gouvernance et conformité</strong></td><td><a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html"><u>Normes numériques du GC</u></a>/Conception avec les utilisateurs<br />
-<a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html"><u>Normes numériques du GC</u></a>/Itération et amélioration fréquentes<br />
-<a href="https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards">Normes d’architecture du GC</a>/Architecture opérationnelle<br />
-<a href="https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards">Normes d’architecture du GC</a>/Architecture de sécurité et protection des renseignements personnels<br />
+<table><colgroup><col style="width: 29%" /><col style="width: 70%" /></colgroup><thead><tr class="header"><th><strong>Élément de la stratégie</strong></th><th><strong>qui s’harmonise avec</strong></th></tr></thead><tbody><tr class="odd"><td><strong>Gouvernance et conformité</strong></td><td><a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html">Normes numériques du GC</a>/Conception avec les utilisateurs<br />
+<a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html">Normes numériques du GC</a>/Itération et amélioration fréquentes<br />
+<a href="https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards">Normes d’architecture du GC (anglais seulement)</a>/Architecture opérationnelle<br />
+<a href="https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards">Normes d’architecture du GC (anglais seulement)</a>/Architecture de sécurité et protection des renseignements personnels<br />
 <a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/plans-strategiques-operations-numeriques-gouvernement-canada/plan-strategique-operations-numerique-2018-2022.html">PSON du GC</a>/Chapitre 1 (Un gouvernement orienté vers les services et centré sur l’utilisateur)<br />
 <a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/plans-strategiques-operations-numeriques-gouvernement-canada/plan-strategique-operations-numerique-2018-2022.html">PSON du GC</a>/Chapitre 6 (Gouvernance numérique)<br />
 <a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32603">Politique sur les services et le numérique du CT</a>/4.2 Service axé sur le client<br />
 <a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32601">Directive sur les services et le numérique du CT</a>/Gestion stratégique de la TI<br />
 <a href="tbs-sct.gc.ca/pol/doc-fra.aspx?id=32594">Directive sur la gestion de projets et programmes du CT</a>/4.2.6, 4.2.8, 4.2.18<br />
-<a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx">Voie à suivre pour la DGIIT</a>/1. Ajuster leadership de la DGIIT<br />
-<a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx">Voie à suivre pour la DGIIT</a>/6a. Renforcer les services de GI-TI<br />
-<a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx">Voie à suivre pour la DGIIT</a>/6f. Officialiser le cadre de gestion des exigences<br />
-<a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/ESDC%20IT%20Plan%202019-22%20-%20FINAL.pdf">Plan de TI</a>/Section II/Fondements<br />
+<a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx">Voie à suivre pour la DGIIT (anglais seulement)</a>/1. Ajuster leadership de la DGIIT<br />
+<a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx">Voie à suivre pour la DGIIT (anglais seulement)</a>/6a. Renforcer les services de GI-TI<br />
+<a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx">Voie à suivre pour la DGIIT (anglais seulement)</a>/6f. Officialiser le cadre de gestion des exigences<br />
+<a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/ESDC%20IT%20Plan%202019-22%20-%20FINAL.pdf">Plan de TI (anglais seulement)</a>/Section II/Fondements<br />
 Étude indépendante de PwC/Recommandation 2.2<br />
 Étude indépendante de PwC/Recommandation 2.4</td></tr><tr class="even"><td><strong>Planification des capacités</strong></td><td><a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32601">Politique sur les services et le numérique du CT</a>/Soutenir la capacité et les compétences de l’effectif<br />
-Étude indépendante de PwC/Recommandation 2.2</td></tr><tr class="odd"><td><strong>Architecture</strong></td><td><a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html">Normes numériques du GC</a>/Itération et amélioration fréquentes<br />
-<a href="https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards">Normes d’architecture du GC</a>/Architecture d’information<br />
-<a href="https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards">Normes d’architecture du GC</a>/Architecture des applications<br />
-<a href="https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards">Normes d’architecture du GC</a>/Architecture de sécurité et protection des renseignements personnels<br />
+Étude indépendante de PwC/Recommandation 2.2</td></tr><tr class="odd"><td><strong>Architecture</strong></td><td><a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html">Normes numériques du GC (anglais seulement)</a>/Itération et amélioration fréquentes<br />
+<a href="https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards">Normes d’architecture du GC (anglais seulement)</a>/Architecture d’information<br />
+<a href="https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards">Normes d’architecture du GC (anglais seulement)</a>/Architecture des applications<br />
+<a href="https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards">Normes d’architecture du GC (anglais seulement)</a>/Architecture de sécurité et protection des renseignements personnels<br />
 <a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/plans-strategiques-operations-numeriques-gouvernement-canada/plan-strategique-operations-numerique-2018-2022.html">PSON du GC</a>/Chapitre 3.2 Connectivité universelle<br />
 <a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/plans-strategiques-operations-numeriques-gouvernement-canada/plan-strategique-operations-numerique-2018-2022.html">PSON du GC</a>/Chapitre 4.3 Modernisation de l’approvisionnement<br />
 <a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/plans-strategiques-operations-numeriques-gouvernement-canada/plan-strategique-operations-numerique-2018-2022.html">PSON du GC</a>/Chapitre 4.4 Modernisation de la TI<br />
-<a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx">Voie à suivre pour la DGIIT</a>/6a. Renforcer les pratiques d’architecture d’entreprise<br />
-<a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx">Voie à suivre pour la DGIIT</a>/6e. Améliorer le développement d’applications<br />
+<a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx">Voie à suivre pour la DGIIT (anglais seulement)</a>/6a. Renforcer les pratiques d’architecture d’entreprise<br />
+<a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx">Voie à suivre pour la DGIIT (anglais seulement)</a>/6e. Améliorer le développement d’applications<br />
 Étude indépendante de PwC/Recommandation 2.4<br />
-<a href="https://www.gcpedia.gc.ca/wiki/CDO_Resources">Stratégie de données d’EDSC</a>/Accès<br />
-<a href="https://www.gcpedia.gc.ca/wiki/CDO_Resources">Stratégie de données d’EDSC</a>/Gestion des données</td></tr><tr class="even"><td><strong>Gestion de produits</strong></td><td><a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html">Normes numériques du GC</a>/Itération et amélioration fréquentes<br />
+<a href="https://www.gcpedia.gc.ca/wiki/CDO_Resources">Stratégie de données d’EDSC (anglais seulement)</a>/Accès<br />
+<a href="https://www.gcpedia.gc.ca/wiki/CDO_Resources">Stratégie de données d’EDSC (anglais seulement)</a>/Gestion des données</td></tr><tr class="even"><td><strong>Gestion de produits</strong></td><td><a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html">Normes numériques du GC</a>/Itération et amélioration fréquentes<br />
 <a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html">Normes numériques du GC</a>/Gérer les risques en matière de sécurité et de protection des renseignements personnels<br />
 <a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html">Normes numériques du GC</a>/Intégrer l’accessibilité dès le départ<br />
-<a href="https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards">Normes d’architecture du GC</a>/Architecture opérationnelle<br />
-<a href="https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards">Normes d’architecture du GC</a>/Architecture de sécurité et protection des renseignements personnels<br />
+<a href="https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards">Normes d’architecture du GC (anglais seulement)</a>/Architecture opérationnelle<br />
+<a href="https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards">Normes d’architecture du GC (anglais seulement)</a>/Architecture de sécurité et protection des renseignements personnels<br />
 <a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/plans-strategiques-operations-numeriques-gouvernement-canada/plan-strategique-operations-numerique-2018-2022.html"><u>PSON du GC</u></a>/Chapitre 2.3 Accessibilité et inclusion<br />
 <a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32603">Politique sur les services et le numérique du CT</a>/Soutenir la capacité et les compétences de l’effectif<br />
-<a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx">Voie à suivre pour la DGIIT</a>/6d. Programme/projet distinct<br />
-<a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx">Voie à suivre pour la DGIIT</a>/6e. Améliorer le développement d’applications<br />
+<a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx">Voie à suivre pour la DGIIT (anglais seulement)</a>/6d. Programme/projet distinct<br />
+<a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx">Voie à suivre pour la DGIIT (anglais seulement)</a>/6e. Améliorer le développement d’applications<br />
 Étude indépendante de PwC/3.1</td></tr><tr class="odd"><td><strong>Développement et opérations (DevOps)</strong></td><td><a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html">Normes numériques du GC</a>/Gérer les risques en matière de sécurité et de protection des renseignements personnels<br />
-<a href="https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards">Normes d’architecture du GC</a>/Architecture de technologie<br />
+<a href="https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards">Normes d’architecture du GC (anglais seulement)</a>/Architecture de technologie<br />
 <a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/plans-strategiques-operations-numeriques-gouvernement-canada/plan-strategique-operations-numerique-2018-2022.html#ToC15">PSON du GC</a>/Annexe A, point 34<br />
 <a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/plans-strategiques-operations-numeriques-gouvernement-canada/plan-strategique-operations-numerique-2018-2022.html#ToC15">PSON du GC</a>/Annexe A, point 37<br />
 <a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/plans-strategiques-operations-numeriques-gouvernement-canada/plan-strategique-operations-numerique-2018-2022.html#ToC15">PSON du GC</a>/Annexe A, point 69<br />
-<a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx">Voie à suivre pour la DGIIT</a>/6e. Améliorer le développement d’applications<br />
-<a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx">Voie à suivre pour la DGIIT</a>/6g. Moderniser le régime d’essai de la GI/TI<br />
-<a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/ESDC%20IT%20Plan%202019-22%20-%20FINAL.pdf">Plan de TI</a>/Section II/Fondements<br />
+<a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx">Voie à suivre pour la DGIIT (anglais seulement)</a>/6e. Améliorer le développement d’applications<br />
+<a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx">Voie à suivre pour la DGIIT (anglais seulement)</a>/6g. Moderniser le régime d’essai de la GI/TI<br />
+<a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/ESDC%20IT%20Plan%202019-22%20-%20FINAL.pdf">Plan de TI (anglais seulement)</a>/Section II/Fondements<br />
 Étude indépendante de PwC/2.2<br />
 Étude indépendante de PwC/3.2</td></tr></tbody></table>
 
 ## Annexe C – Références
 
-- [Politique sur la gestion des projets et des programmes (PGPP)](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Policy%20on%20Project%20and%20Programme%20Management.pdf) d’EDSC
-- [Directive sur la gestion des projets](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Directive%20on%20Project%20Management.pdf) d’EDSC
-- [Directive de gestion des avantages](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Directive%20on%20Benefits%20Management.pdf) d’EDSC
-- [Cycle de vie de la gestion de projet](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Policy%20on%20Project%20and%20Programme%20Management.pdf) d’EDSC
-- [Stratégie de données](https://www.gcpedia.gc.ca/wiki/CDO_Resources) d’EDSC
-- [Structure de gouvernance](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/SitePages/Governance.aspx) de la DGIIT
+- [Politique sur la gestion des projets et des programmes (PGPP) (anglais seulement)](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Policy%20on%20Project%20and%20Programme%20Management.pdf) d’EDSC
+- [Directive sur la gestion des projets (anglais seulement)](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Directive%20on%20Project%20Management.pdf) d’EDSC
+- [Directive de gestion des avantages (anglais seulement)](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Directive%20on%20Benefits%20Management.pdf) d’EDSC
+- [Cycle de vie de la gestion de projet (anglais seulement)](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Policy%20on%20Project%20and%20Programme%20Management.pdf) d’EDSC
+- [Stratégie de données (anglais seulement)](https://www.gcpedia.gc.ca/wiki/CDO_Resources) d’EDSC
+- [Structure de gouvernance (anglais seulement)](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/SitePages/Governance.aspx) de la DGIIT
 - Processus d’EAS relatif à la sécurité des TI
-- [Processus du CVDL](onenote:http://dialogue/grp/PR6893344/OneNote/AppDevSA/02-Development%20%28In%20Progress%29/AppDev%20Roadmap.one#Outcomes%20and%20Dependencies%20Overview&section-id={5E16E60C-310B-49EF-8451-88E0CE4DA968}%26page-id={67E8C1D8-F39B-498E-A809-EEAAB9BDAC88}%26object-id={636B6DD3-FBD6-0F8E-30F2-FD3A0BC5F22E}&2E) (solution de rechange actuelle et proposée par les conseillers principaux et le BGPDG)
-- [Composition de l’équipe à l’étude](https://014gc.sharepoint.com/u:/r/sites/AppDevSASharePoint/Shared%20Documents/Presentations/Structure.vsdx?d=w6db29c1b95504032a0aba15b098ab9ed&csf=1&web=1&e=K9rDQ2) par les conseillers principaux
+- [Processus du CVDL (anglais seulement)](onenote:http://dialogue/grp/PR6893344/OneNote/AppDevSA/02-Development%20%28In%20Progress%29/AppDev%20Roadmap.one#Outcomes%20and%20Dependencies%20Overview&section-id={5E16E60C-310B-49EF-8451-88E0CE4DA968}%26page-id={67E8C1D8-F39B-498E-A809-EEAAB9BDAC88}%26object-id={636B6DD3-FBD6-0F8E-30F2-FD3A0BC5F22E}&2E) (solution de rechange actuelle et proposée par les conseillers principaux et le BGPDG)
+- [Composition de l’équipe à l’étude (anglais seulement)](https://014gc.sharepoint.com/u:/r/sites/AppDevSASharePoint/Shared%20Documents/Presentations/Structure.vsdx?d=w6db29c1b95504032a0aba15b098ab9ed&csf=1&web=1&e=K9rDQ2) par les conseillers principaux
 - [Politiques d’approvisionnement](http://iservice.prv/eng/finance/purchasing/policy.shtml) d’EDSC
 - [Directive sur les services et le numérique](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32601) du cT
 - [Directive sur la gestion de la sécurité](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32611) du cT
 - [Directive sur la gestion de projets et programmes](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32594) du CT
 - [Directive sur la prise de décisions automatisée](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32592) du CT
-- [SAFe (Scaled Agile Framework)](https://www.scaledagileframework.com/)
-- [Disciplined Agile (DA)](https://www.pmi.org/disciplined-agile)
-- [Large-Scale Scrum](https://less.works/)
-- [Good Strategy, Bad Strategy](http://goodbadstrategy.com/)
-- [How to write rules that people want to follow](https://www.chapters.indigo.ca/en-ca/books/how-to-write-rules-that/9781988749020-item.html)
+- [SAFe (Scaled Agile Framework) (anglais seulement)](https://www.scaledagileframework.com/)
+- [Disciplined Agile (DA) (anglais seulement)](https://www.pmi.org/disciplined-agile)
+- [Large-Scale Scrum (anglais seulement)](https://less.works/)
+- [Good Strategy, Bad Strategy (anglais seulement)](http://goodbadstrategy.com/)
+- [How to write rules that people want to follow (anglais seulement)](https://www.chapters.indigo.ca/en-ca/books/how-to-write-rules-that/9781988749020-item.html)
 
 ## Annexe D – Définitions
 
-**[Équipe DevOps](https://014gc-my.sharepoint.com/:w:/g/personal/remy_bernard_hrsdc-rhdcc_gc_ca/EaU8oDNt7iJNj8Zy_M64TOkBVJBlFhQ2d_fzOuF2N6bt8A?e=F5HEeL)**
+**[Équipe DevOps (anglais seulement)](https://014gc-my.sharepoint.com/:w:/g/personal/remy_bernard_hrsdc-rhdcc_gc_ca/EaU8oDNt7iJNj8Zy_M64TOkBVJBlFhQ2d_fzOuF2N6bt8A?e=F5HEeL)**
 
-Une équipe interfonctionnelle et multidisciplinaire qui met l’accent sur la collaboration et la communication des développeurs de logiciels et des professionnels des technologies de l’information (TI), tout en automatisant le processus de déploiement des logiciels et de modification de l’infrastructure. Une équipe DevOps correspond à la [définition normalisée suivante de la DGIIT](https://014gc-my.sharepoint.com/:w:/g/personal/remy_bernard_hrsdc-rhdcc_gc_ca/EaU8oDNt7iJNj8Zy_M64TOkBVJBlFhQ2d_fzOuF2N6bt8A?e=F5HEeL).
+Une équipe interfonctionnelle et multidisciplinaire qui met l’accent sur la collaboration et la communication des développeurs de logiciels et des professionnels des technologies de l’information (TI), tout en automatisant le processus de déploiement des logiciels et de modification de l’infrastructure. Une équipe DevOps correspond à la [définition normalisée suivante de la DGIIT (anglais seulement)](https://014gc-my.sharepoint.com/:w:/g/personal/remy_bernard_hrsdc-rhdcc_gc_ca/EaU8oDNt7iJNj8Zy_M64TOkBVJBlFhQ2d_fzOuF2N6bt8A?e=F5HEeL).
 
-Une copie de la version Office 365 est [disponible ici](https://sara-sabr.github.io/ITStrategy/assets/files/standard-devops-team-definition.docx).
+Une copie de la version Office 365 est [disponible ici (anglais seulement)](https://sara-sabr.github.io/ITStrategy/assets/files/standard-devops-team-definition.docx).
 
 **[Système de contrôle des versions décentralisé (DVCS)](canada.ca/fr/emploi-developpement-social/services/travailleurs-etrangers/fraude.html)**
 
@@ -717,7 +717,7 @@ Une définition normalisée devrait être élaborée par le CEAI (voir l’*[ens
 
 La *solution de TI* est composée d’une ou de plusieurs applications. Il s’agit essentiellement d’un regroupement d’applications.
 
-Une *application* s’inscrit dans le cadre du [Programme de gestion des portefeuilles d’applications (GPA)](https://www.gcpedia.gc.ca/wiki/OCIO_Application_Portfolio_Management)) et est constituée d’un ou de plusieurs logiciels (communément appelés composants logiciels). De plus, une application utilise ou produit des données en faisant office d’interface avec ses composants logiciels. Dans une application, les logiciels et les données sont des concepts distincts.
+Une *application* s’inscrit dans le cadre du [Programme de gestion des portefeuilles d’applications (GPA) (anglais seulement)](https://www.gcpedia.gc.ca/wiki/OCIO_Application_Portfolio_Management)) et est constituée d’un ou de plusieurs logiciels (communément appelés composants logiciels). De plus, une application utilise ou produit des données en faisant office d’interface avec ses composants logiciels. Dans une application, les logiciels et les données sont des concepts distincts.
 
 Un composant *logiciel* est une base de codes unique, un regroupement de fichiers (binaires ou texte qui sera compilé en binaire) qui seront exécutés dans une infrastructure. Un composant logiciel peut avoir des dépendances avec d’autres composants logiciels. C’est souvent le cas de ses bibliothèques – d’autres composants logiciels – qui sont conçues par d’autres équipes, adoptées à partir de licences de logiciels de source ouverte ou achetées auprès d’un fournisseur tiers. On s’attend à ce que le logiciel ait au moins un paramètre de configuration (p. ex., un fichier) propre à l’environnement dans lequel il est déployé.
 
@@ -737,7 +737,7 @@ Le « produit de TI » représente la partie technique d’un « produit » 
 
 Il s’agit d’un effort provisoire déployé pour créer un produit, un service ou un résultat unique. La nature temporaire des projets axés sur la TI fait en sorte que ceux-ci ont un début et une fin bien définis.
 
-Cette définition est tirée de la [Directive sur la gestion des projets d’EDSC](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Directive%20on%20Project%20Management.pdf) et a été modifiée afin de tenir compte de l’aspect des TI.
+Cette définition est tirée de la [Directive sur la gestion des projets d’EDSC (anglais seulement)](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Directive%20on%20Project%20Management.pdf) et a été modifiée afin de tenir compte de l’aspect des TI.
 
 ### Responsable de produit de TI
 
@@ -797,7 +797,7 @@ Le modèle de prestation de la solution de TI cible a le même objectif que le m
 
 Voici des statistiques et des références concernant les problèmes et les taux de réussite des grands projets axés sur la TI.
 
-### 1) Étude du Standish Group**
+### 1) Étude du Standish Group
 
 Le Standish Group, un organisme consultatif de recherche qui se concentre sur le rendement du développement de logiciels[^18](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:19), a constaté que « de 2003 à 2012, parmi les 3 555 projets recensés dont le coût de main-d’œuvre s’élevait à au moins 10 millions de dollars, seulement 6,4 % ont été fructueux. Les données du Standish Group ont montré que 52 % des grands projets étaient « remis en question », soit parce qu’ils dépassaient le budget, qu’ils étaient en retard ou qu’ils ne répondaient pas aux attentes des utilisateurs. Les 41,4 % restants étaient des échecs — c.‑à‑d. que ces projets ont été soit abandonnés, soit recréés à partir de zéro. »[^19](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:20)
 
@@ -805,7 +805,7 @@ L’étude et les résultats du Standish Group ont également été cités dans 
 
 ### 2) Questions à la Chambre des communes de 2016 et 2019 (projets de plus de 1 M$)
 
-Grâce à un projet d’[Ottawa Civic Tech](https://ottawacivictech.ca/), un [ensemble de données sur les grands projets de TI du gouvernement](https://large-government-of-canada-it-projects.github.io/)[^20](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:21) a été publié et les réponses à deux questions qui ont été posées à la Chambre des communes, en juin 2016 et en mai 2019, ont été consignées. Chaque question demandait aux ministères fédéraux de faire rapport sur les projets de TI, en cours ou prévus, d’une valeur supérieure à 1 M$.
+Grâce à un projet d’[Ottawa Civic Tech (anglais seulement)](https://ottawacivictech.ca/), un [ensemble de données sur les grands projets de TI du gouvernement (anglais seulement)](https://large-government-of-canada-it-projects.github.io/)[^20](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:21) a été publié et les réponses à deux questions qui ont été posées à la Chambre des communes, en juin 2016 et en mai 2019, ont été consignées. Chaque question demandait aux ministères fédéraux de faire rapport sur les projets de TI, en cours ou prévus, d’une valeur supérieure à 1 M$.
 
 Nous avons fait les constatations suivantes :
 
@@ -856,45 +856,45 @@ Selon une étude réalisée en 2012 par McKinsey Digital en collaboration avec l
 
 ## Références en ligne
 
-1. Modernisation de la prestation des activités (MPA) [2e objectif principal : Souplesse des politiques](http://blogs-blogues.prv/ntn-bnt/bdm-not-just-another-acronym-its-an-initiative-transforming-service-delivery-as-we-know-it/) [](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fnref:1)
+1. Modernisation de la prestation des activités (MPA) [2e objectif principal : Souplesse des politiques (anglais seulement)](http://blogs-blogues.prv/ntn-bnt/bdm-not-just-another-acronym-its-an-initiative-transforming-service-delivery-as-we-know-it/) [](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fnref:1)
 
 2. [Rapport du printemps 2010](https://www.oag-bvg.gc.ca/internet/Francais/parl_oag_201004_01_f_33714.html) de la vérificatrice générale du Canada [](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fnref:2)
 
-3. [Plan de TI 2019-2022 d’EDSC](https://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/ESDC%20IT%20Plan%202019-22%20-%20FINAL.pdf) [](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fnref:3)
+3. [Plan de TI 2019-2022 d’EDSC (anglais seulement)](https://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/ESDC%20IT%20Plan%202019-22%20-%20FINAL.pdf) [](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fnref:3)
 
 4. [Résultats du Plan ministériel 2019-2020 d’EDSC](https://www.canada.ca/fr/emploi-developpement-social/ministere/rapports/plan-ministeriel/2019-2020/resultats-prevus.html#h2.04) [](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fnref:4)
 
 5. Voir l’annexe F portant sur les statistiques sur les grands projets axés sur les TI [](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fnref:5)
 
-6. [How is the Public Service Managing Large IT Projects?](https://sara-sabr.github.io/ITStrategy/2020/04/21/how-is-the-public-service-managing-large-IT-project.html), une synthèse de six rapports de la vérificatrice générale/du vérificateur général du Canada [](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fnref:6)
+6. [How is the Public Service Managing Large IT Projects? (anglais seulement)](https://sara-sabr.github.io/ITStrategy/2020/04/21/how-is-the-public-service-managing-large-IT-project.html), une synthèse de six rapports de la vérificatrice générale/du vérificateur général du Canada [](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fnref:6)
 
 7. Mark Schwartz, War & Peace & IT [](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fnref:7)
 
-8. Renvoi à deux objectifs clés de la [Politique sur la gestion des projets et des programmes](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Policy%20on%20Project%20and%20Programme%20Management.pdf) d’EDSC : no2 (accent sur les avantages) et no 4 (intention de réduire les risques) [](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fnref:8)
+8. Renvoi à deux objectifs clés de la [Politique sur la gestion des projets et des programmes (anglais seulement)](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Policy%20on%20Project%20and%20Programme%20Management.pdf) d’EDSC : no2 (accent sur les avantages) et no 4 (intention de réduire les risques) [](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fnref:8)
 
-9. [DORA State of DevOps 2019](https://services.google.com/fh/files/misc/state-of-devops-2019.pdf), pages 40, 51 et 53 [](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fnref:9)
+9. [DORA State of DevOps 2019 (anglais seulement)](https://services.google.com/fh/files/misc/state-of-devops-2019.pdf), pages 40, 51 et 53 [](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fnref:9)
 
-10. Voir la [Stratégie de données](https://www.gcpedia.gc.ca/wiki/CDO_Resources) du Bureau du dirigeant principal des données d’EDSC concernant l’utilisation de l’analytique pour éclairer les décisions relatives à l’amélioration des services [](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fnref:10)
+10. Voir la [Stratégie de données (anglais seulement)](https://www.gcpedia.gc.ca/wiki/CDO_Resources) du Bureau du dirigeant principal des données d’EDSC concernant l’utilisation de l’analytique pour éclairer les décisions relatives à l’amélioration des services [](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fnref:10)
 
-11. [Enabling conditions, not just heroics](https://honeygolightly.medium.com/enabling-conditions-not-just-heroics-110a2faba643), Honey Dacanay, novembre 2020 [](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fnref:11)
+11. [Enabling conditions, not just heroics (anglais seulement)](https://honeygolightly.medium.com/enabling-conditions-not-just-heroics-110a2faba643), Honey Dacanay, novembre 2020 [](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fnref:11)
 
-12. [Team Topology](https://teamtopologies.com/), 2019, par Matthew Skelton et Manuel Pais [](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fnref:12)
+12. [Team Topology (anglais seulement)](https://teamtopologies.com/), 2019, par Matthew Skelton et Manuel Pais [](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fnref:12)
 
 13. Les quatre procédures obligatoires sont les suivantes : [Évaluation de l’architecture intégrée](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32602), [IPA](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32604), [Protection des renseignements personnels et surveillance liées à l’utilisation des dispositifs et des réseaux](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32607), [Contrôles de sécurité des TI](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32611)
 
-14. [Nouvelles de la DGIIT – Coin des félicitations](http://esdc.prv/en/iitb/corporate/news/archives.shtml)
+14. [Nouvelles de la DGIIT – Coin des félicitations (anglais seulement)](http://esdc.prv/en/iitb/corporate/news/archives.shtml)
 
 15. Voir l’[Architecture intégrée cible des services et du numérique du SCT](https://gccollab.ca/discussion/view/6671557/enservice-digital-target-enterprise-architecture-and-updates-to-the-enterprise-architecture-frameworkfrarchitecture-intu00e9gru00e9e-cible-des-services-et-du-numu00e9rique-et-mises-u00e0-jour-du-cadre-du2019architecture-intu00e9gru00e9e), qui tend vers les micro-services comme moyen de mieux gérer la dette technique.
 
-16. [Voie à suivre pour la DGIIT](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx) [](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fnref:17)
+16. [Voie à suivre pour la DGIIT (anglais seulement)](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx) [](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fnref:17)
 
-17. Cette définition a été reformulée et s’inspire de la [définition normalisée des produits de The Open Group](https://pubs.opengroup.org/architecture/o-aa-standard/#Product).
+17. Cette définition a été reformulée et s’inspire de la [définition normalisée des produits de The Open Group (anglais seulement)](https://pubs.opengroup.org/architecture/o-aa-standard/#Product).
 
-18. [À propos du Standish Group](https://standishgroup.com/about)
+18. [À propos du Standish Group (anglais seulement)](https://standishgroup.com/about)
 
-19. [Why we love modular contracting](https://18f.gsa.gov/2019/04/09/why-we-love-modular-contracting/), par 18F (https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fnref:20)
+19. [Why we love modular contracting (anglais seulement)](https://18f.gsa.gov/2019/04/09/why-we-love-modular-contracting/), par 18F (https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fnref:20)
 
-20. [Grands projets de TI du gouvernement du Canada](https://large-government-of-canada-it-projects.github.io/) (https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fnref:21)
+20. [Grands projets de TI du gouvernement du Canada (anglais seulement)](https://large-government-of-canada-it-projects.github.io/) (https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fnref:21)
 
 21. [Rapport de novembre 2006 de la vérificatrice générale du Canada](https://www.oag-bvg.gc.ca/internet/Francais/parl_oag_200611_03_f_14971.html) (https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fnref:22)
 
@@ -906,8 +906,8 @@ Selon une étude réalisée en 2012 par McKinsey Digital en collaboration avec l
 
 25. [Rapport Le Point de 2018 du vérificateur général du Canada](https://www.oag-bvg.gc.ca/internet/Francais/parl_oag_201805_01_f_43033.html) (https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fnref:26)
 
-26. Février 2020 – Présentation de 18F devant le [Michigan Senate Appropriations Committee](https://www.youtube.com/watch?v=g-h6CtSwk30) (https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fnref:27)
+26. Février 2020 – Présentation de 18F devant le [Michigan Senate Appropriations Committee (anglais seulement)](https://www.youtube.com/watch?v=g-h6CtSwk30) (https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fnref:27)
 
-27. [À propose de 18F](https://18f.gsa.gov/about/) (https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fnref:28)
+27. [À propose de 18F (anglais seulement)](https://18f.gsa.gov/about/) (https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fnref:28)
 
-28. Voir [cet article](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/delivering-large-scale-it-projects-on-time-on-budget-and-on-value?cid=soc-web) de McKinsey Digital, 2012 [](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fnref:29)
+28. Voir [cet article (anglais seulement)](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/delivering-large-scale-it-projects-on-time-on-budget-and-on-value?cid=soc-web) de McKinsey Digital, 2012 [](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fnref:29)
