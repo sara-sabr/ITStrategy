@@ -32,27 +32,28 @@ img + em { display: inline-block; }
 
 *Remarque 2 : cette page renferme des liens vers des documents internes d’EDSC, qui ne sont malheureusement accessibles que sur le réseau ministériel d’EDSC.*
 
-Table des matières
+**Table des matières**
 
-- [Introduction](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#introduction)
-  - [Objet](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#purpose)
-  - [Public cible](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#target-audience)
-  - [Analyse de rentabilisation (contexte stratégique)](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#business-case-strategic-context)
-- [Politique d’orientation](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#guiding-policy)
-  - [Gouvernance, conformité et rapports](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#governance-compliance-and-reporting)
-  - [Planification des capacités](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#capacity-planning)
-  - [Architecture](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#architecture)
-  - [Gestion de produits](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#product-management)
-  - [Développement et opérations (DevOps)](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#devops)
-- [Ensemble cohérent de mesures](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#coherent-set-of-actions)
-- [Mesurer la réussite de la stratégie](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#measuring-the-strategys-success)
-- [Approche en matière de mise en œuvre (en plusieurs étapes)](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#approach-to-implementation-multi-staged)
-- [Annexe A – Diagnostic (difficultés qui nous empêchent d’aller de l’avant)](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#appendix-a---diagnostic-challenges-holding-us-back)
-- [Annexe B – Matrice de traçabilité](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#appendix-b---traceability-matrix)
-- [Annexe C – Références](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#appendix-c---references)
-- [Annexe D – Définitions](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#appendix-d---definitions)
-- [Annexe E – Liste des acronymes et définitions](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#appendix-e---acronym-list-definition)
-- [Annexe F – Statistiques concernant les grands projets axés sur la TI](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#appendix-f---statistics-regarding-large-it-enabled-projects)
+- [Introduction](#introduction)
+  - [Objet](#objet)
+  - [Public cible](#public-cible)
+  - [Analyse de rentabilisation (contexte stratégique)](#analyse-de-rentabilisation-contexte-stratégique)
+- [Politique d’orientation](#politique-dorientation)
+  - [Gouvernance, conformité et rapports](#gouvernance-conformité-et-rapports)
+  - [Planification des capacités](#planification-des-capacités)
+  - [Architecture](#architecture)
+  - [Gestion de produits](#gestion-de-produits)
+  - [DevOps](#devops)
+- [Ensemble cohérent de mesures](#ensemble-cohérent-de-mesures)
+- [Mesurer la réussite de la stratégie](#mesurer-la-réussite-de-la-stratégie)
+- [Approche de mise en œuvre (en plusieurs étapes)](#approche-de-mise-en-œuvre-en-plusieurs-étapes)
+- [Annexe A – Diagnostic (difficultés qui nous empêchent d’aller de l’avant)](#annexe-a--diagnostic-difficultés-qui-nous-empêchent-daller-de-lavant)
+- [Annexe B – Matrice de traçabilité](#annexe-b--matrice-de-traçabilité)
+- [Annexe C – Références](#annexe-c--références)
+- [Annexe D – Définitions](#annexe-d--définitions)
+- [Annexe E – Liste des acronymes et définitions](#annexe-e--liste-des-acronymes-et-définitions)
+- [Annexe F – Statistiques concernant les grands projets axés sur la TI](#annexe-f--statistiques-concernant-les-grands-projets-axés-sur-la-ti)
+- [Références en ligne](#références-en-ligne)
 
 ## Introduction
 
@@ -107,7 +108,7 @@ L’objectif de cette stratégie est de définir ce qu’est l’état cible de 
 
 L’[annexe A – Analyse de rentabilisation (diagnostic)](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#appendix-a---business-case-diagnostic) explique les difficultés qui nous empêchent d’effectuer le déploiement des logiciels le jour même.
 
-Politique d’orientation
+## Politique d’orientation
 
 La politique suivante reflète la décision adoptée par le **DPI d’EDSC** (le DPI n’a pas encore donné son approbation) dans le cadre de l’utilisation du modèle de prestation de la solution de TI cible. Chaque énoncé stratégique représente une déclaration de cette décision et a reçu l’aval des secteurs de gouvernance concernés (les approbations n’ont pas encore été obtenues, voir l’[ensemble cohérent de mesures](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#coherent-set-of-actions)).
 
@@ -185,7 +186,7 @@ La présente politique d’orientation a été préparée en tenant compte de l�
 8. Les équipes DevOps ont recours à un système de contrôle des versions axé sur Git.
 9. Les équipes DevOps ont recours à la surveillance automatisée.
 
-### Ensemble cohérent de mesures
+## Ensemble cohérent de mesures
 
 Les mesures suivantes doivent être prises pour que le modèle de prestation de la solution de TI cible soit opérationnel.
 
@@ -478,7 +479,7 @@ Les mesures suivantes doivent être prises pour que le modèle de prestation de 
     </tbody>
 </table>
 
-### Mesurer la réussite de la stratégie
+## Mesurer la réussite de la stratégie
 
 Le succès de cette stratégie sera mesuré en comparant les mesures suivantes à la méthodologie conventionnelle propre aux projets de TI.
 
@@ -551,7 +552,7 @@ Les mesures sont définies comme suit :
 
 **REMARQUE :** les quatre premières mesures (a, b, c et d) sont les [4 indicateurs clés définis par le DevOps Research Assessment Institute (DORA) (anglais seulement)](https://www.thoughtworks.com/radar/techniques/four-key-metrics).
 
-Approche de mise en œuvre (en plusieurs étapes)
+## Approche de mise en œuvre (en plusieurs étapes)
 
 Il est entendu que l’ambition de la stratégie ne se concrétisera pas d’un seul coup ou dans quelques années. L’approche de mise en œuvre se fera de manière itérative, en vue d’atteindre l’état cible en trois étapes :
 
@@ -703,13 +704,13 @@ Les trois DVCS les plus populaires sont Mercurial, Git, et Bazaar.
 
 EDSC utilisera Git pour favoriser l’interopérabilité entre les répertoires de codes sources et acceptera le fait que le marché a évolué et préconise maintenant les répertoires de codes sources axés sur Git.
 
-### Chaîne de valeur de développement
+### Chaîne de valeur de développement <!-- omit in toc -->
 
 La série d’étapes *et de développeurs* qu’EDSC utilise pour mettre en œuvre des solutions de TI permettant à l’organisation de mener ses activités opérationnelles. Les personnes qui composent la chaîne de valeur du développement sont un ensemble d’équipes DevOps.
 
 L’organisation des portefeuilles axée sur les chaînes de valeur de développement permet de visualiser le flux du travail pour produire des solutions, réduire les transferts et les retards, accélérer l’apprentissage et raccourcir la période de mise en marché, et soutenir des méthodes de développement et de budgétisation plus simples.
 
-### Solution de TI, application, logiciel et données
+### Solution de TI, application, logiciel et données <!-- omit in toc -->
 
 Une définition normalisée devrait être élaborée par le CEAI (voir l’*[ensemble cohérent de mesures de la stratégie d’adoption, de conception et d’achat_](https://sara-sabr.github.io/ITStrategy/strategy-build-vs-buy.html#coherent-set-of-actions)*). Jusqu’à ce que cela soit terminé, la définition et les liens suivants seront utilisés.
 
@@ -725,7 +726,7 @@ L’*infrastructure* est l’endroit où le logiciel est déployé. Habituelleme
 
 Les *données* avec lesquelles une application interagit font partie intégrante de la gestion des données de référence. Il s’agit de la source de renseignements d’une entité de données particulière; la confidentialité, l’intégrité et la disponibilité des données sont définies pour un contexte opérationnel donné, et le consentement de l’utilisateur final est communiqué à l’application.
 
-### Produit de TI
+### Produit de TI <!-- omit in toc -->
 
 Un produit de TI se compose d’une solution de TI ou d’une application. La décision d’établir la portée d’un produit à l’égard d’une solution de TI ou d’une application dépend du contexte opérationnel particulier de l’organisation.
 
@@ -733,21 +734,21 @@ Dans le contexte de la gestion des produits, l’idée est que les solutions de 
 
 Le « produit de TI » représente la partie technique d’un « produit » plus grand – l’ensemble des services offerts aux clients[17](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:18).
 
-### Projet axé sur la TI
+### Projet axé sur la TI <!-- omit in toc -->
 
 Il s’agit d’un effort provisoire déployé pour créer un produit, un service ou un résultat unique. La nature temporaire des projets axés sur la TI fait en sorte que ceux-ci ont un début et une fin bien définis.
 
 Cette définition est tirée de la [Directive sur la gestion des projets d’EDSC (anglais seulement)](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Directive%20on%20Project%20Management.pdf) et a été modifiée afin de tenir compte de l’aspect des TI.
 
-### Responsable de produit de TI
+### Responsable de produit de TI <!-- omit in toc -->
 
 Personne qui représente l’organisation ou la communauté d’utilisateurs et qui est chargée de travailler avec ces personnes pour déterminer les fonctionnalités qui seront incluses dans la version du produit.
 
-### Équipes des produits TI
+### Équipes des produits TI <!-- omit in toc -->
 
 Comprend un ensemble d’équipes DevOps nécessaires à l’exploitation et à la maintenance de la suite de logiciels dont le produit de TI est composé. Les gestionnaires et les organisateurs (p. ex., architecte en chef) font également partie d’une équipe de produit de TI.
 
-### Modèle conventionnel de prestation des solutions de TI
+### Modèle conventionnel de prestation des solutions de TI <!-- omit in toc -->
 
 Aux fins de la présente stratégie, nous définissons le modèle conventionnel de prestation des solutions de TI comme étant le statu quo actuel.
 
@@ -757,7 +758,7 @@ Dans le modèle conventionnel, les équipes de TI sont organisées par fonction 
 
 Dans le modèle conventionnel, on s’attend à ce que les résultats opérationnels soient atteints à la fin du projet de TI et que les activités opérationnelles soient modifiées en fonction des nouvelles capacités établies par le projet de TI. En vertu du plan de réalisation des activités, le responsable opérationnel est tenu de surveiller et de signaler les écarts entre les avantages prévus et réels. Les écarts sont traités en fonction des exigences en matière de changement ou des nouveaux projets.
 
-### Modèle de prestation de la solution de TI cible
+### Modèle de prestation de la solution de TI cible <!-- omit in toc -->
 
 Le modèle de prestation de la solution de TI cible a le même objectif que le modèle conventionnel : optimiser les ressources et réduire les risques grâce à l’utilisation de la technologie. Contrairement au modèle conventionnel, ce modèle visera à :
 
@@ -797,13 +798,13 @@ Le modèle de prestation de la solution de TI cible a le même objectif que le m
 
 Voici des statistiques et des références concernant les problèmes et les taux de réussite des grands projets axés sur la TI.
 
-### 1) Étude du Standish Group
+### 1) Étude du Standish Group <!-- omit in toc -->
 
 Le Standish Group, un organisme consultatif de recherche qui se concentre sur le rendement du développement de logiciels[^18](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:19), a constaté que « de 2003 à 2012, parmi les 3 555 projets recensés dont le coût de main-d’œuvre s’élevait à au moins 10 millions de dollars, seulement 6,4 % ont été fructueux. Les données du Standish Group ont montré que 52 % des grands projets étaient « remis en question », soit parce qu’ils dépassaient le budget, qu’ils étaient en retard ou qu’ils ne répondaient pas aux attentes des utilisateurs. Les 41,4 % restants étaient des échecs — c.‑à‑d. que ces projets ont été soit abandonnés, soit recréés à partir de zéro. »[^19](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:20)
 
 L’étude et les résultats du Standish Group ont également été cités dans le chapitre 3 du rapport de novembre 2006 de la vérificatrice générale du Canada (énoncés 3.5 et 3.6). Voir le point 3 ci-dessous.
 
-### 2) Questions à la Chambre des communes de 2016 et 2019 (projets de plus de 1 M$)
+### 2) Questions à la Chambre des communes de 2016 et 2019 (projets de plus de 1 M$) <!-- omit in toc -->
 
 Grâce à un projet d’[Ottawa Civic Tech (anglais seulement)](https://ottawacivictech.ca/), un [ensemble de données sur les grands projets de TI du gouvernement (anglais seulement)](https://large-government-of-canada-it-projects.github.io/)[^20](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:21) a été publié et les réponses à deux questions qui ont été posées à la Chambre des communes, en juin 2016 et en mai 2019, ont été consignées. Chaque question demandait aux ministères fédéraux de faire rapport sur les projets de TI, en cours ou prévus, d’une valeur supérieure à 1 M$.
 
@@ -812,7 +813,7 @@ Nous avons fait les constatations suivantes :
 - Des 94 projets qui contiennent suffisamment de données pour comparer les échéanciers : 9 % respectent les échéanciers, 4 % sont en avance et 87 % sont en retard.
 - Des 97 projets qui contiennent suffisamment de données pour comparer les budgets : 26 % se situent à 10 % ou moins des estimations initiales, 28 % se situent entre 10 % et 50 % au-dessus des estimations initiales, 28 % se situent à plus de 50 % des estimations initiales et 19 % se situent à moins de 10 % des estimations initiales.
 
-### 3) Chapitre 3 du rapport de novembre 2006 de la vérificatrice générale du Canada[^21](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:22)
+### 3) Chapitre 3 du rapport de novembre 2006 de la vérificatrice générale du Canada[^21](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:22) <!-- omit in toc -->
 
 La vérification portait sur sept projets et les évaluait selon quatre critères clés (gouvernance, analyse de rentabilisation, capacité organisationnelle et gestion de projet).
 
@@ -820,7 +821,7 @@ Dans les énoncés 3.5 et 3.6, le rapport fait mention de l’étude du Standish
 
 Le rapport concluait que, dans l’ensemble, le gouvernement avait fait peu de progrès depuis la dernière vérification (1997), n’avait pas expliqué de façon adéquate les résultats attendus dans le cadre d’une analyse de rentabilisation et n’avait pas évalué de façon adéquate sa capacité de prendre en charge des projets de TI à risque élevé. Toutefois, le rapport conclut que 4/7 des projets échantillonnés étaient bien gérés.
 
-### 4) Rapport du printemps 2010 de la vérificatrice générale du Canada[22](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:23)
+### 4) Rapport du printemps 2010 de la vérificatrice générale du Canada[22](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:23) <!-- omit in toc -->
 
 Le rapport visait à déterminer si cinq des entités gouvernementales ayant les plus importantes dépenses en matière de TI avaient cerné et géré de façon adéquate les risques liés aux systèmes de TI vieillissants. Toutes les entités indiquaient que le vieillissement de la TI représentait un risque important et la majorité d’entre elles (dont EDSC) l’avaient inclus dans leur profil de risque organisationnel.
 
@@ -828,29 +829,29 @@ Le rapport stipulait que les plans d’investissement n’étaient pas appuyés 
 
 Le rapport indiquait que la Direction du dirigeant principal de l’information (DDPI) du SCT était au fait des risques importants liés au vieillissement de la TI depuis plus d’une décennie. La DDPI a répondu au rapport en affirmant qu’elle souscrivait aux recommandations, mais que la responsabilité des initiatives de financement relevait des administrateurs généraux des ministères et non de la DDPI.
 
-### 5) 2011 juin — Rapport Le Point de la vérificatrice générale du Canada, chapitre 2 (grands projets de TI)[23](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:24)
+### 5) 2011 juin — Rapport Le Point de la vérificatrice générale du Canada, chapitre 2 (grands projets de TI)[23](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:24) <!-- omit in toc -->
 
 Ce rapport portait sur les progrès accomplis depuis le rapport de 2006 portant sur sept grands projets de TI; un nouveau projet venait également d’être sélectionné et approuvé par le Conseil du Trésor.
 
 La conclusion était les progrès accomplis par le gouvernement en réponse aux recommandations de 2006 étaient insatisfaisants.
 
-### 6) Rapport 5 – Rapport du printemps 2015 du vérificateur général du Canada (investissements dans les TI de l’ASFC)[24](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:25)
+### 6) Rapport 5 – Rapport du printemps 2015 du vérificateur général du Canada (investissements dans les TI de l’ASFC)[24](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:25) <!-- omit in toc -->
 
 Ce rapport présentait les résultats d’une vérification du rendement, c’est-à-dire une évaluation indépendante, objective et systématique de la façon dont le gouvernement gère ses activités, ses responsabilités et ses ressources.
 
 Dans l’ensemble, le rapport a révélé que l’ASFC « avait été confrontée à des difficultés importantes en ce qui a trait à la gestion de son portefeuille d’investissements dans les technologies de l’information (TI) de manière à pouvoir assurer la mise en œuvre de projets en TI qui respectent les exigences établies et produisent les avantages escomptés. »
 
-### 7) Rapport 1 – Rapport du printemps 2018 du vérificateur général du Canada (création et déploiement du système de paye Phénix)[25](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:26)
+### 7) Rapport 1 – Rapport du printemps 2018 du vérificateur général du Canada (création et déploiement du système de paye Phénix)[25](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:26) <!-- omit in toc -->
 
 La vérification visait à déterminer si Services publics et Approvisionnement Canada (SPAC) gérait et supervisait de façon efficace et efficiente la mise en œuvre du nouveau système de paye Phénix.
 
 Le rapport a conclu que « le projet Phénix a été un échec incompréhensible de gestion et de surveillance de projet. Les cadres responsables de Phénix ont donné la priorité à certains aspects, comme les limites du budget et le calendrier, au détriment d’autres aspects essentiels tels que la fonctionnalité et la sécurité. Les cadres responsables de Phénix n’ont pas saisi l’importance des mises en garde indiquant que le Centre des services de paye de Miramichi, les ministères et organismes et le nouveau système n’étaient pas prêts. Ils n’ont pas communiqué une information complète et exacte aux sous-ministres et aux sous-ministres délégués des ministères et organismes, y compris au sous-ministre de Services publics et Approvisionnement Canada, lorsqu'ils les ont informés de l’état de préparation de Phénix en vue de sa mise en œuvre. À notre avis, la décision des cadres responsables de Phénix de mettre en œuvre Phénix était déraisonnable, compte tenu de l’information qui était disponible à ce moment-là. Le système n’a donc pas répondu aux besoins des utilisateurs, a coûté au gouvernement fédéral des centaines de millions de dollars et a causé des difficultés financières à des dizaines de milliers de ses employés. »
 
-### 8) Février 2020 – Présentation de 18F devant le [Michigan Senate Appropriations Committee](https://www.youtube.com/watch?v=g-h6CtSwk30)[26](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:27)
+### 8) Février 2020 – Présentation de 18F devant le [Michigan Senate Appropriations Committee](https://www.youtube.com/watch?v=g-h6CtSwk30)[26](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:27) <!-- omit in toc -->
 
 En février 2020, 18F (l’équivalent aux États-Unis du Service numérique canadien) a fait une présentation au Michigan Senate Appropriations Committee. 18F a été créé en 2014 par le programme Presidential Innovation Fellows (PIF, mis sur pied en 2012 par la Maison-Blanche) afin d’améliorer et de moderniser les technologies du gouvernement[27](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:28). La présentation portait sur l’approvisionnement technologique et les défis connexes. En bref, les ministères gouvernementaux ne sont pas en mesure d’encadrer adéquatement les problèmes en parties gérables et, par conséquent, s’engagent dans des contrats de longue durée, de grande envergure et complexes avec des fournisseurs.
 
-### 9) [Delivering large-scale IT projects on time, on budget, and on value](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/delivering-large-scale-it-projects-on-time-on-budget-and-on-value?cid=soc-web), McKinsey Digital, 2012[28](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:29)
+### 9) [Delivering large-scale IT projects on time, on budget, and on value](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/delivering-large-scale-it-projects-on-time-on-budget-and-on-value?cid=soc-web), McKinsey Digital, 2012[28](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:29) <!-- omit in toc -->
 
 Selon une étude réalisée en 2012 par McKinsey Digital en collaboration avec l’université d’Oxford, 45 % des grands projets de TI (plus de 15 millions de dollars) visés dépassent le budget prévu et 7 % dépassent les échéanciers fixés, et ces projets offrent 56 % moins de valeur que ce qui était prévu. Les projets logiciels présentent le risque le plus élevé de dépassement des coûts et des échéanciers. L’étude a aussi permis de constater que plus un projet doit durer longtemps, plus il est probable qu’il dépasse le budget et le temps impartis. On y recommande quatre façons d’améliorer le rendement des projets, y compris la constitution d’équipes efficaces et le recours à des cycles de prestation de courte durée.
 
