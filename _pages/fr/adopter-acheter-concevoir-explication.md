@@ -30,26 +30,29 @@ Le présent document se veut un complément à la [Stratégie de adopter, achete
 
 ## Introduction
 
-Souvent, quand on parle de politique, on utilise un langage complexe de manière à englober efficacement toutes les idées et les renseignements pour l’utilisateur. Toutefois, cela peut donner lieu à des politiques difficiles à assimiler et à comprendre. L’objectif de la Stratégie de conception ou d’achat de la DGIIT est de présenter une nouvelle façon de penser en ce qui a trait à l’approvisionnement en TI et à la gestion des risques.
+Souvent, quand on parle de politique, on utilise un langage complexe de manière à englober efficacement toutes les idées et les renseignements pour l’utilisateur.
+Toutefois, cela peut donner lieu à des politiques difficiles à assimiler et à comprendre. L’objectif de la Stratégie de conception ou d’achat de la DGIIT est de présenter une nouvelle façon de penser en ce qui a trait à l’approvisionnement en TI et à la gestion des risques.
 Les scénarios suivants ont donc été créés pour aider l’utilisateur à mettre le cadre en contexte.
 
 ### Portée du présent document
 
 Le présent document vise à fournir différents exemples ou scénarios qui aideront à mettre en contexte la stratégie d’adoption, d’achat ou de conception.
 Il ne s’agit pas d’un guide définitif.
-Il existe de nombreux points à considérer et différentes variables quand il s’agit de décider s’il convient de concevoir ou d’acheter une solution ou un composant d’une solution. Par conséquent, les exemples qui suivent ont été créés en fonction d’un ensemble d’hypothèses de base qui peuvent ne pas s’appliquer à une situation précise. Veuillez consulter la documentation officielle de la stratégie pour obtenir de plus amples renseignements.
+Il existe de nombreux points à considérer et différentes variables quand il s’agit de décider s’il convient de concevoir ou d’acheter une solution ou un composant d’une solution.
+Par conséquent, les exemples qui suivent ont été créés en fonction d’un ensemble d’hypothèses de base qui peuvent ne pas s’appliquer à une situation précise. Veuillez consulter la documentation officielle de la stratégie pour obtenir de plus amples renseignements.
 
 ### Cas d’utilisation
 
-La plupart du temps, l’acquisition d’une solution de TI ne consiste pas seulement à adopter, acheter ou concevoir un produit. Il s’agit souvent d’une permutation des trois. Les cas d’utilisation suivants montrent que certaines solutions peuvent se retrouver à différents emplacements du diagramme, selon la façon dont elles sont mises en œuvre et par qui.
+La plupart du temps, l’acquisition d’une solution de TI ne consiste pas seulement à adopter, acheter ou concevoir un produit.
+Il s’agit souvent d’une permutation des trois. Les cas d’utilisation suivants montrent que certaines solutions peuvent se retrouver à différents emplacements du diagramme, selon la façon dont elles sont mises en œuvre et par qui.
 
-![Basic Venn diagram with 3 overlapping circles for Adopt, Build and Buy. The middle is the intersection of all 3 (Adopt ^ Buy ^ Build)](assets/images/adopt-build-buy-venn.png)
+<!--![Basic Venn diagram with 3 overlapping circles for Adopt, Build and Buy. The middle is the intersection of all 3 (Adopt ^ Buy ^ Build)](assets/images/adopt-build-buy-venn.png)-->
 
 #### Navigateur Web
 
 Voici quelques exemples : Firefox, Chrome, Edge, IE, etc.
 
-Adoption
+Adopter
 
 - La DGIIT met la solution à la disposition de tous les utilisateurs d’EDSC.
 - La DGIIT tient la solution à jour.
@@ -59,22 +62,22 @@ Adoption
 
 Voici quelques exemples : Mailchimp, Trello, Github, etc.
 
-Adoption
+Adopter
 
 - Les utilisateurs utilisent une version gratuite avec configuration seulement; l’utilisateur se débrouille lui-même en matière de soutien
 
-Adoption ^ Conception
+Adopter ^ Concevoir
 
 - Identique à « Adoption »
 - élaborer des intégrations personnalisées au moyen de l’IPA (à l’interne)
 
-Adoption ^ Achat
+Adopter ^ Acheter
 
 - Payez pour des fonctionnalités supplémentaires, avec configuration seulement
 - L’utilisateur se débrouille lui-même en matière de soutien
 - La DGIIT assure un suivi de l’utilisation
 
-Adoption ^ Achat ^ Conception
+Adopter ^ Acheter ^ Concevoir
 
 - Identique à « Adoption ^ Achat »
 - élaborer des intégrations personnalisées au moyen de l’IPA (à l’interne ou en faisant appel à un tiers)
@@ -83,13 +86,13 @@ Adoption ^ Achat ^ Conception
 
 \* Essentiel au mandat ou exigence susceptible de changer – le risque accru pour EDSC nous amène à atténuer encore plus le risque d’asservissement en suivant rigoureusement les procédures d’évaluation obligatoires des IPA et des AE énoncées dans la Directive sur les services et le numérique.
 
-Adoption ^ Conception
+Adopter ^ Concevoir
 
 - Utiliser les composants de LSO existants
 - La DGIIT a des équipes responsables d’assembler et d’appuyer la solution
 - Élaborer des règles opérationnelles personnalisées, des extensions ou des intégrations (à l’interne)
 
-Adoption ^ Achat ^ Conception
+Adopter ^ Acheter ^ Concevoir
 
 - Payer des frais de licence et/ou de soutien
 - La DGIIT a des équipes qui appuient la solution en collaboration avec le fournisseur
