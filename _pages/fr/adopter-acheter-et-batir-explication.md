@@ -8,16 +8,21 @@ version: 0.01
 date: "2020-09-23"
 permalink: /adopter-acheter-et-batir-explication.html
 ---
+<!-- markdownlint-disable MD033 -->
+<!-- the below cSpell statement says to ignore any text between HTML tags. E.g. it will ignore "th rowspan='2'" in this string: <th rowspan='2'> -->
+<!-- cSpell:ignoreRegExp /\<[^\>]+\>/ -->
 
-### Table des matières
+<!-- markdownlint-disable MD001 -->
+##### Table des matières <!-- omit in toc -->
+<!-- markdownlint-enable MD001 -->
 
-- [Contexte](https://sara-sabr.github.io/ITStrategy/strategy-build-vs-buy-explained.html#context)
-- [Introduction](https://sara-sabr.github.io/ITStrategy/strategy-build-vs-buy-explained.html#introduction)
-  - [Portée du présent document](https://sara-sabr.github.io/ITStrategy/strategy-build-vs-buy-explained.html#scope-of-this-document)
-  - [Cas d’utilisation](https://sara-sabr.github.io/ITStrategy/strategy-build-vs-buy-explained.html#use-cases)
-    - [Navigateur Web](https://sara-sabr.github.io/ITStrategy/strategy-build-vs-buy-explained.html#web-browser)
-    - [Logiciel en tant que service (SaaS)](https://sara-sabr.github.io/ITStrategy/strategy-build-vs-buy-explained.html#saas)
-    - [Système de gestion du versement de prestations multiples](https://sara-sabr.github.io/ITStrategy/strategy-build-vs-buy-explained.html#multi-benefit-delivery-management-system)
+- [Contexte](#contexte)
+- [Introduction](#introduction)
+  - [Portée du présent document](#portée-du-présent-document)
+  - [Cas d’utilisation](#cas-dutilisation)
+    - [Navigateur Web](#navigateur-web)
+    - [SaaS](#saas)
+    - [Système de gestion du versement de prestations multiples](#système-de-gestion-du-versement-de-prestations-multiples)
 
 ## Contexte
 
@@ -40,7 +45,7 @@ La plupart du temps, l’acquisition d’une solution de TI ne consiste pas seul
 
 ![Basic Venn diagram with 3 overlapping circles for Adopt, Build and Buy. The middle is the intersection of all 3 (Adopt ^ Buy ^ Build)](assets/images/adopt-build-buy-venn.png)
 
-### Navigateur Web
+#### Navigateur Web
 
 Voici quelques exemples : Firefox, Chrome, Edge, IE, etc.
 
@@ -50,7 +55,7 @@ Adoption
 - La DGIIT tient la solution à jour.
 - La DGIIT fournit des services de soutien (de dépannage).
 
-### SaaS
+#### SaaS
 
 Voici quelques exemples : Mailchimp, Trello, Github, etc.
 
@@ -74,7 +79,8 @@ Adoption ^ Achat ^ Conception
 - Identique à « Adoption ^ Achat »
 - élaborer des intégrations personnalisées au moyen de l’IPA (à l’interne ou en faisant appel à un tiers)
 
-Système de gestion du versement de prestations multiples
+#### Système de gestion du versement de prestations multiples
+
 \* Essentiel au mandat ou exigence susceptible de changer – le risque accru pour EDSC nous amène à atténuer encore plus le risque d’asservissement en suivant rigoureusement les procédures d’évaluation obligatoires des IPA et des AE énoncées dans la Directive sur les services et le numérique.
 
 Adoption ^ Conception
