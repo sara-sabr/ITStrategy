@@ -131,7 +131,7 @@ La présente politique d’orientation a été préparée en tenant compte de l�
 2. La définition d’une équipe DevOps correspond à la \<[*définition normalisée de la DGIIT*](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#appendix-d---definitions)\>.
 3. Les pipelines DevOps satisfont aux \<*critères minimaux normalisés en matière de gestion du changement*\> en vue de promouvoir la mise en production et l’intégration des logiciels.
 4. Les équipes DevOps publient leurs mesures de développement à l’interne à EDSC, tel que défini dans les \<*mesures de développement normalisées pour les équipes DevOps*\>.
-5. Les produits de TI publient leurs paramètres de production à tout le moins à l’interne à EDSC, tel que défini dans les \<*mesures de production normalisés pour les produits de TI*\>.
+5. Les produits de TI publient leurs paramètres de production à tout le moins à l’interne à EDSC, tel que défini dans les \<*mesures de production normalisées pour les produits de TI*\>.
 6. Les évaluations et les autorisations de sécurité (EAS) s’appuient sur la \<*méthodologie de l’état cible et de l’EAS*\>.
 7. L’évaluation de l’accessibilité s’appuie sur la \<*méthodologie d’évaluation de l’état cible et de l’accessibilité*\>.
 8. L’évaluation de l’audit financier s’appuie sur la \<*méthodologie d’évaluation de l’état cible et des finances*\>.
@@ -152,7 +152,7 @@ La présente politique d’orientation a été préparée en tenant compte de l�
 3. Les composants logiciels, qui composent les applications, sont couplés librement entre eux.
 4. Les responsables des produits de TI peuvent effectuer des essais, déployer et apporter des changements techniques indépendamment des autres équipes de DevOps associées au produit de TI.
 5. Les équipes DevOps ont le pouvoir de choisir les combinaisons de technologies pour leurs produits de TI, à moins que ces combinaisons comprennent des technologies devant être confinées ou retirées, tel que défini dans la \<[*Gestion des normes technologiques*](https://sara-sabr.github.io/ITStrategy/strategy-build-vs-buy.html)\>
-6. Les produits de TI exposent leurs fonctionnalités et leurs données au moyen d’IPA sécurisées.
+6. Les produits de TI exposent leurs fonctionnalités et leurs données au moyen d’IPAs sécurisées.
 7. La portée des projets axés sur les TI qui ont une incidence sur les applications existantes est déterminée en fonction du \<*modèle de conception en goulot d’étranglement*\>, conformément à la \<\_vision de l’architecture cible pour les applications existantes>.
 8. Les applications existantes sont des systèmes énumérés dans la \<*liste normalisée des applications existantes d’EDSC*\>.
 
@@ -400,7 +400,7 @@ Les mesures suivantes doivent être prises pour que le modèle de prestation de 
     <td>Produire un document d’orientation pour éclairer et guider les équipes d’architectes et DevOps dans l’élaboration de solutions de TI au moyen de principes d’architecture de couplage libre, qui assurent aux équipes DevOps une plus grande autonomie.
     Il existe deux éléments propres au couplage libre qu’il faudra aborder :<br />
     <br />
-   1. Entre les composantes logicielles qui constituent une application (p. ex., adoption des principes propres aux <a href="https://www.martinfowler.com/microservices/">micro-services (anglais seulement)</a> et à l’<a href="https://12factor.net/">application 12 facteurs (anglais seulement)</a>).<br />
+   1. Entre les composantes logicielles qui constituent une application (p. ex., adoption des principes propres aux <a href="https://www.martinfowler.com/microservices/">microservices (anglais seulement)</a> et à l’<a href="https://12factor.net/">application 12 facteurs (anglais seulement)</a>).<br />
    2. Entre l’application et les données de l’organisation (p. ex., adoption de <a href="https://cloud.google.com/architecture/devops/devops-tech-database-change-management">pratiques de gestion des changements aux bases de données (anglais seulement)</a> pour les processus DevOps, instauration de <a href="https://www.gartner.com/document/3895919">couches d’accès aux données (anglais seulement)</a> aux équipes DevOps).<br />
     <br />
     Le document d’orientation devrait inclure des modèles d’architecture et de conception, des principes et des sources de bribes de code réutilisables qui permettront de satisfaire aux attentes en matière de gestion de données.</td>
@@ -574,7 +574,7 @@ Il est entendu que l’ambition de la stratégie ne se concrétisera pas d’un 
 3. **Étape 3 : Portée**
 
     - Désigner des « équipes de plateforme » pour fournir des services aux équipes DevOps, au moyen d’outils et d’IPA.
-    - Désigner des « équipes des sous-systèmes complexes » pour fournir une expertise spécialisée aux équipes DevOps (p. ex., ordinateurs centraux, mathématiques complexes, analytique).
+    - Désigner des « équipes des sous-systèmes complexes » pour fournir une expertise spécialisée aux équipes DevOps (p. ex., ordinateurs centraux, mathématiques complexes, analytiques).
     - Produire la structure organisationnelle de la DGIIT (axée sur les équipes multifonctionnelles) et son modèle financier connexe.
 
 4. **Étape 4 : Normalisation et gestion des systèmes existants**
@@ -633,7 +633,7 @@ La matrice de traçabilité suivante est utilisée pour démontrer l’harmonisa
 <a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/ESDC%20IT%20Plan%202019-22%20-%20FINAL.pdf">Plan de TI (anglais seulement)</a>/Section II/Fondements<br />
 Étude indépendante de PwC/Recommandation 2.2<br />
 Étude indépendante de PwC/Recommandation 2.4</td></tr><tr class="even"><td><strong>Planification des capacités</strong></td><td><a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32601">Politique sur les services et le numérique du CT</a>/Soutenir la capacité et les compétences de l’effectif<br />
-Étude indépendante de PwC/Recommandation 2.2</td></tr><tr class="odd"><td><strong>Architecture</strong></td><td><a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html">Normes numériques du GC (anglais seulement)</a>/Itération et amélioration fréquentes<br />
+Étude indépendante de PwC/Recommandation 2.2</td></tr><tr class="odd"><td><strong>Architecture</strong></td><td><a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html">Normes numériques du GC (anglais seulement)</a>/Itérations et améliorations fréquentes<br />
 <a href="https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards">Normes d’architecture du GC (anglais seulement)</a>/Architecture d’information<br />
 <a href="https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards">Normes d’architecture du GC (anglais seulement)</a>/Architecture des applications<br />
 <a href="https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards">Normes d’architecture du GC (anglais seulement)</a>/Architecture de sécurité et protection des renseignements personnels<br />
@@ -644,7 +644,7 @@ La matrice de traçabilité suivante est utilisée pour démontrer l’harmonisa
 <a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx">Voie à suivre pour la DGIIT (anglais seulement)</a>/6e. Améliorer le développement d’applications<br />
 Étude indépendante de PwC/Recommandation 2.4<br />
 <a href="https://www.gcpedia.gc.ca/wiki/CDO_Resources">Stratégie de données d’EDSC (anglais seulement)</a>/Accès<br />
-<a href="https://www.gcpedia.gc.ca/wiki/CDO_Resources">Stratégie de données d’EDSC (anglais seulement)</a>/Gestion des données</td></tr><tr class="even"><td><strong>Gestion de produits</strong></td><td><a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html">Normes numériques du GC</a>/Itération et amélioration fréquentes<br />
+<a href="https://www.gcpedia.gc.ca/wiki/CDO_Resources">Stratégie de données d’EDSC (anglais seulement)</a>/Gestion des données</td></tr><tr class="even"><td><strong>Gestion de produits</strong></td><td><a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html">Normes numériques du GC</a>/Itérations et améliorations fréquentes<br />
 <a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html">Normes numériques du GC</a>/Gérer les risques en matière de sécurité et de protection des renseignements personnels<br />
 <a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html">Normes numériques du GC</a>/Intégrer l’accessibilité dès le départ<br />
 <a href="https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards">Normes d’architecture du GC (anglais seulement)</a>/Architecture opérationnelle<br />
@@ -714,7 +714,7 @@ L’organisation des portefeuilles axée sur les chaînes de valeur de développ
 
 Une définition normalisée devrait être élaborée par le CEAI (voir l’*[ensemble cohérent de mesures de la stratégie d’adoption, de conception et d’achat_](https://sara-sabr.github.io/ITStrategy/strategy-build-vs-buy.html#coherent-set-of-actions)*). Jusqu’à ce que cela soit terminé, la définition et les liens suivants seront utilisés.
 
-![A UML diagram representing the relationships between the terms IT Solution, Application, Software, Infrastructure, Data, and IT Product. The digram shows that an IT Solution and an Application are part of the concept IT Product. And while an IT Solution is comprised of one ore more Applications, Applications can exist on their own without belonging to an IT Solution. An Application is made up of one or more Software components. An Application interacts with one or more Data Entities that are generalized from the Master Data. Software components may have dependencies between them. Software components are deployed to one or more Infrastructure. Both Software and Infrastructure make use of Configuration.]({{ site.baseurl }}/assets/images/itsolution-itproduct-model.png) *Figure 2. Modèle de relations entre les différents éléments logiciels*
+![A UML diagram representing the relationships between the terms IT Solution, Application, Software, Infrastructure, Data, and IT Product. The diagram shows that an IT Solution and an Application are part of the concept IT Product. And while an IT Solution is comprised of one ore more Applications, Applications can exist on their own without belonging to an IT Solution. An Application is made up of one or more Software components. An Application interacts with one or more Data Entities that are generalized from the Master Data. Software components may have dependencies between them. Software components are deployed to one or more Infrastructure. Both Software and Infrastructure make use of Configuration.]({{ site.baseurl }}/assets/images/itsolution-itproduct-model.png) *Figure 2. Modèle de relations entre les différents éléments logiciels*
 
 La *solution de TI* est composée d’une ou de plusieurs applications. Il s’agit essentiellement d’un regroupement d’applications.
 
@@ -746,7 +746,7 @@ Personne qui représente l’organisation ou la communauté d’utilisateurs et 
 
 ### Équipes des produits TI <!-- omit in toc -->
 
-Comprend un ensemble d’équipes DevOps nécessaires à l’exploitation et à la maintenance de la suite de logiciels dont le produit de TI est composé. Les gestionnaires et les organisateurs (p. ex., architecte en chef) font également partie d’une équipe de produit de TI.
+Comprends un ensemble d’équipes DevOps nécessaires à l’exploitation et à la maintenance de la suite de logiciels dont le produit de TI est composé. Les gestionnaires et les organisateurs (p. ex., architecte en chef) font également partie d’une équipe de produit de TI.
 
 ### Modèle conventionnel de prestation des solutions de TI <!-- omit in toc -->
 
@@ -849,7 +849,7 @@ Le rapport a conclu que « le projet Phénix a été un échec incompréhensibl
 
 ### 8) Février 2020 – Présentation de 18F devant le [Michigan Senate Appropriations Committee](https://www.youtube.com/watch?v=g-h6CtSwk30)[26](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:27) <!-- omit in toc -->
 
-En février 2020, 18F (l’équivalent aux États-Unis du Service numérique canadien) a fait une présentation au Michigan Senate Appropriations Committee. 18F a été créé en 2014 par le programme Presidential Innovation Fellows (PIF, mis sur pied en 2012 par la Maison-Blanche) afin d’améliorer et de moderniser les technologies du gouvernement[27](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:28). La présentation portait sur l’approvisionnement technologique et les défis connexes. En bref, les ministères gouvernementaux ne sont pas en mesure d’encadrer adéquatement les problèmes en parties gérables et, par conséquent, s’engagent dans des contrats de longue durée, de grande envergure et complexes avec des fournisseurs.
+En février 2020, 18F (l’équivalent aux États-Unis du Service numérique canadien) a fait une présentation au Michigan Senate Appropriations Committee. 18F a été créé en 2014 par le programme Presidential Innovation Fellows (PIF, mis sur pied en 2012 par la Maison-Blanche) afin d’améliorer et de moderniser les technologies du gouvernement[27](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:28). La présentation portait sur l’approvisionnement technologique et les défis connexes. En bref, les ministères gouvernementaux ne sont pas en mesure d’encadrer adéquatement les problèmes en partie gérables et, par conséquent, s’engagent dans des contrats de longue durée, de grande envergure et complexes avec des fournisseurs.
 
 ### 9) [Delivering large-scale IT projects on time, on budget, and on value](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/delivering-large-scale-it-projects-on-time-on-budget-and-on-value?cid=soc-web), McKinsey Digital, 2012[28](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:29) <!-- omit in toc -->
 
@@ -885,7 +885,7 @@ Selon une étude réalisée en 2012 par McKinsey Digital en collaboration avec l
 
 14. [Nouvelles de la DGIIT – Coin des félicitations (anglais seulement)](http://esdc.prv/en/iitb/corporate/news/archives.shtml)
 
-15. Voir l’[Architecture intégrée cible des services et du numérique du SCT](https://gccollab.ca/discussion/view/6671557/enservice-digital-target-enterprise-architecture-and-updates-to-the-enterprise-architecture-frameworkfrarchitecture-intu00e9gru00e9e-cible-des-services-et-du-numu00e9rique-et-mises-u00e0-jour-du-cadre-du2019architecture-intu00e9gru00e9e), qui tend vers les micro-services comme moyen de mieux gérer la dette technique.
+15. Voir l’[Architecture intégrée cible des services et du numérique du SCT](https://gccollab.ca/discussion/view/6671557/enservice-digital-target-enterprise-architecture-and-updates-to-the-enterprise-architecture-frameworkfrarchitecture-intu00e9gru00e9e-cible-des-services-et-du-numu00e9rique-et-mises-u00e0-jour-du-cadre-du2019architecture-intu00e9gru00e9e), qui tend vers les microservices comme moyen de mieux gérer la dette technique.
 
 16. [Voie à suivre pour la DGIIT (anglais seulement)](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx) [](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fnref:17)
 
