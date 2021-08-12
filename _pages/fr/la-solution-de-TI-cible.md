@@ -71,34 +71,53 @@ Cette stratégie vise à communiquer une décision du DPI (qui n’a pas encore 
 
 ### Public cible
 
-Le présent **document stratégique** s’adresse aux intervenants qui participent à la détermination de la façon dont les solutions de TI seront livrées. Plus précisément, elle s’adresse aux intervenants qui participent à la définition des règles d’acquisition (que ce soit par voie de conception, d’achat, d’adoption ou de configuration), la prestation, l’opérationnalisation et la maintenance des solutions de TI (voir l’[Annexe D](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#appendix-d---definitions) pour connaître la signification des termes). Cela comprend les intervenants de la DGIIT et ceux qui ne font pas partie de la DGIIT, comme la DGDPF, la DGVIGRE, le BDPD et SPC. Vous dans l’[ensemble cohérent des mesures](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#coherent-set-of-actions) une liste des intervenants qui devraient participer à la mise en œuvre de cette stratégie.
+Le présent **document stratégique** s’adresse aux intervenants qui participent à la détermination de la façon dont les solutions de TI seront livrées.
+Plus précisément, elle s’adresse aux intervenants qui participent à la définition des règles d’acquisition (que ce soit par voie de conception, d’achat, d’adoption ou de configuration), la prestation, l’opérationnalisation et la maintenance des solutions de TI (voir l’[Annexe D](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#appendix-d---definitions) pour connaître la signification des termes).
+Cela comprend les intervenants de la DGIIT et ceux qui ne font pas partie de la DGIIT, comme la DGDPF, la DGVIGRE, le BDPD et SPC.
+Vous dans l’[ensemble cohérent des mesures](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#coherent-set-of-actions) une liste des intervenants qui devraient participer à la mise en œuvre de cette stratégie.
 
-Une fois mise en œuvre, la **politique d’orientation** ciblera les intervenants concernés lorsque des projets axés sur les TI seront conceptualisés et créés, que des solutions de TI seront conçues et que des produits de TI seront élaborés, livrés, mis en œuvre et mis à niveau. Tous les membres du personnel d’EDSC qui prennent part aux décisions d’investissement en TI devront respecter la présente politique d’orientation.
+Une fois mise en œuvre, la **politique d’orientation** ciblera les intervenants concernés lorsque des projets axés sur les TI seront conceptualisés et créés, que des solutions de TI seront conçues et que des produits de TI seront élaborés, livrés, mis en œuvre et mis à niveau.
+Tous les membres du personnel d’EDSC qui prennent part aux décisions d’investissement en TI devront respecter la présente politique d’orientation.
 
 ### Analyse de rentabilisation (contexte stratégique)
 
-Le passage à l’ère numérique met en évidence l’omniprésence de la technologie dans la prestation des services aux Canadiens. Par conséquent, pour itérer ses politiques et ses offres de services[1](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:1), EDSC devra apporter des changements à ses technologies. Afin d’assurer une meilleure prestation de services aux Canadiens, nous devons améliorer la réactivité de la TI, sinon la boucle de rétroaction entre les décideurs et les Canadiens sera trop longue, ce qui aura des répercussions sur la capacité d’EDSC d’itérer sa capacité d’élaboration de politiques et de devenir une organisation agile.
+Le passage à l’ère numérique met en évidence l’omniprésence de la technologie dans la prestation des services aux Canadiens.
+Par conséquent, pour itérer ses politiques et ses offres de services[1](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:1), EDSC devra apporter des changements à ses technologies.
+Afin d’assurer une meilleure prestation de services aux Canadiens, nous devons améliorer la réactivité de la TI, sinon la boucle de rétroaction entre les décideurs et les Canadiens sera trop longue, ce qui aura des répercussions sur la capacité d’EDSC d’itérer sa capacité d’élaboration de politiques et de devenir une organisation agile.
 
-![This image depicts a feedback process loop. The image shows three icons: Policy Makers, Technology and Canadians. Between each icon there is an arrow showing a relationship as follows: Policy Makers must use Technology to implement their policies, Technology is then used to deliver services to Canadians, and after interacting with a service, Canadians provide their feedback to Policy Makers]({{ site.baseurl }}/assets/images/policy_through_technology.png) *Figure 1. À l’ère numérique, la technologie permet de relier les décideurs et les Canadiens*
+![This image depicts a feedback process loop.
+The image shows three icons: Policy Makers, Technology and Canadians.
+Between each icon there is an arrow showing a relationship as follows: Policy Makers must use Technology to implement their policies, Technology is then used to deliver services to Canadians, and after interacting with a service, Canadians provide their feedback to Policy Makers]({{ site.baseurl }}/assets/images/policy_through_technology.png) *Figure 1. À l’ère numérique, la technologie permet de relier les décideurs et les Canadiens*
 
 EDSC a besoin de **déploiements de production** pour obtenir les **données empiriques** nécessaires à la **prise de décisions fondées sur des données probantes**.
 
-EDSC n’est pas un nouveau ministère. Il a accumulé une [dette technique importante](https://www.oag-bvg.gc.ca/internet/Francais/parl_oag_201004_01_f_33714.html)[^2](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:2) au cours de ses décennies d’activités, ce qui a une incidence sur la réactivité des TI. Le [portefeuille d’applications d’EDSC contient plus de 500 applications (anglais seulement)](https://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/ESDC%20IT%20Plan%202019-22%20-%20FINAL.pdf)[^3](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:3), dont 101 sont essentielles à la mission et reposent sur des technologies existantes (applications personnalisées et ordinateurs centraux désuets). En réponse aux limites des systèmes de TI désuets, EDSC a commencé à investir dans un programme de [modernisation de la prestation des activités](https://www.canada.ca/fr/emploi-developpement-social/ministere/rapports/plan-ministeriel/2019-2020/resultats-prevus.html#h2.04)[^4](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:4).
+EDSC n’est pas un nouveau ministère.
+Il a accumulé une [dette technique importante](https://www.oag-bvg.gc.ca/internet/Francais/parl_oag_201004_01_f_33714.html)[^2](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:2) au cours de ses décennies d’activités, ce qui a une incidence sur la réactivité des TI.
+Le [portefeuille d’applications d’EDSC contient plus de 500 applications (anglais seulement)](https://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/ESDC%20IT%20Plan%202019-22%20-%20FINAL.pdf)[^3](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:3), dont 101 sont essentielles à la mission et reposent sur des technologies existantes (applications personnalisées et ordinateurs centraux désuets).
+En réponse aux limites des systèmes de TI désuets, EDSC a commencé à investir dans un programme de [modernisation de la prestation des activités](https://www.canada.ca/fr/emploi-developpement-social/ministere/rapports/plan-ministeriel/2019-2020/resultats-prevus.html#h2.04)[^4](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:4).
 
 Toutefois, le recours aux TI est un investissement risqué et coûteux[^5](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:5).
 
-La plupart des recommandations issues des audits externes[^6](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:6) sur la réduction des risques liés aux investissements dans la technologie semblent viser une gouvernance plus solide et plus disciplinée. Il est essentiel de pouvoir prévoir plus précisément ce que nous réserve l’avenir, afin de réduire les risques liés à ce type d’investissements.
+La plupart des recommandations issues des audits externes[^6](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:6) sur la réduction des risques liés aux investissements dans la technologie semblent viser une gouvernance plus solide et plus disciplinée.
+Il est essentiel de pouvoir prévoir plus précisément ce que nous réserve l’avenir, afin de réduire les risques liés à ce type d’investissements.
 
-Toutefois, pour travailler efficacement dans le monde numérique, il faut d’abord accepter la complexité et l’incertitude, ce qui exige une approche très différente pour mener à bien toute initiative. Un monde prévisible récompense la planification précoce et l’exécution rigide des plans. À l’inverse, un monde complexe et incertain récompense un cycle empirique d’essai, d’observation et de correction.[7](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:7)
+Toutefois, pour travailler efficacement dans le monde numérique, il faut d’abord accepter la complexité et l’incertitude, ce qui exige une approche très différente pour mener à bien toute initiative.
+Un monde prévisible récompense la planification précoce et l’exécution rigide des plans.
+À l’inverse, un monde complexe et incertain récompense un cycle empirique d’essai, d’observation et de correction.[7](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:7)
 
 Les méthodes actuelles de gestion des investissements en TI visent deux grands objectifs[8](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:8) :
 
 1. Gestion des risques liés aux investissements en TI
 2. Cibler les investissements là où il y a des avantages
 
-Cette stratégie vise à améliorer les deux objectifs susmentionnés en proposant de faire en sorte qu’EDSC soit en mesure de **déployer ses logiciels le jour même** et que cela devienne une pratique courante. Les avantages de petits déploiements fréquents au moyen de méthodes automatisées devraient permettre de réduire les risques[^9](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:9), d’atténuer la dette technique, d’accroître la satisfaction des clients et de rehausser la confiance globale envers le ministère et son personnel. Cela est maintenant possible grâce à l’adoption de technologies infonuagiques et de pratiques DevOps.
+Cette stratégie vise à améliorer les deux objectifs susmentionnés en proposant de faire en sorte qu’EDSC soit en mesure de **déployer ses logiciels le jour même** et que cela devienne une pratique courante.
+Les avantages de petits déploiements fréquents au moyen de méthodes automatisées devraient permettre de réduire les risques[^9](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:9), d’atténuer la dette technique, d’accroître la satisfaction des clients et de rehausser la confiance globale envers le ministère et son personnel.
+Cela est maintenant possible grâce à l’adoption de technologies infonuagiques et de pratiques DevOps.
 
-Le passage au numérique permet de mettre davantage l’accent sur les données comme étant l’actif dont l’organisation se soucie. C’est grâce aux données que l’organisation recueillera de l’information et éclairera ses décisions en matière d’amélioration des services[^10](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:10). Pour pouvoir apporter rapidement des changements sur le plan des logiciels, il faudra traiter les données comme un concept distinct, non pas dépendant des logiciels, mais plutôt interrelié à ceux-ci. Consultez l’annexe D (Définitions) pour connaître les liens qui existent entre une solution de TI, une application, un logiciel et des données.
+Le passage au numérique permet de mettre davantage l’accent sur les données comme étant l’actif dont l’organisation se soucie.
+C’est grâce aux données que l’organisation recueillera de l’information et éclairera ses décisions en matière d’amélioration des services[^10](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:10).
+Pour pouvoir apporter rapidement des changements sur le plan des logiciels, il faudra traiter les données comme un concept distinct, non pas dépendant des logiciels, mais plutôt interrelié à ceux-ci.
+Consultez l’annexe D (Définitions) pour connaître les liens qui existent entre une solution de TI, une application, un logiciel et des données.
 
 Bref, cette stratégie vise à modifier les conditions organisationnelles de sorte qu’EDSC puisse réussir sa transformation numérique[^11](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:11).
 
@@ -110,11 +129,14 @@ L’[annexe A – Analyse de rentabilisation (diagnostic)](https://sara-sabr.git
 
 ## Politique d’orientation
 
-La politique suivante reflète la décision adoptée par le **DPI d’EDSC** (le DPI n’a pas encore donné son approbation) dans le cadre de l’utilisation du modèle de prestation de la solution de TI cible. Chaque énoncé stratégique représente une déclaration de cette décision et a reçu l’aval des secteurs de gouvernance concernés (les approbations n’ont pas encore été obtenues, voir l’[ensemble cohérent de mesures](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#coherent-set-of-actions)).
+La politique suivante reflète la décision adoptée par le **DPI d’EDSC** (le DPI n’a pas encore donné son approbation) dans le cadre de l’utilisation du modèle de prestation de la solution de TI cible.
+Chaque énoncé stratégique représente une déclaration de cette décision et a reçu l’aval des secteurs de gouvernance concernés (les approbations n’ont pas encore été obtenues, voir l’[ensemble cohérent de mesures](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#coherent-set-of-actions)).
 
-Cette politique d’orientation s’appliquera lorsque des solutions de TI devront être mises en œuvre. Une fois qu’elle sera en vigueur, toutes les équipes participant au projet, ainsi que les produits de TI faisant partie de la solution de TI, devront s’y conformer.
+Cette politique d’orientation s’appliquera lorsque des solutions de TI devront être mises en œuvre.
+Une fois qu’elle sera en vigueur, toutes les équipes participant au projet, ainsi que les produits de TI faisant partie de la solution de TI, devront s’y conformer.
 
-La présente politique d’orientation a été préparée en tenant compte de l’harmonisation et de la conformité aux instruments de politique existants et ne vise pas à les remplacer. Les intervenants doivent continuer de se conformer aux instruments de politique existants, notamment :
+La présente politique d’orientation a été préparée en tenant compte de l’harmonisation et de la conformité aux instruments de politique existants et ne vise pas à les remplacer.
+Les intervenants doivent continuer de se conformer aux instruments de politique existants, notamment :
 
 - [Politique sur la gestion des projets et des programmes (PGPP) (anglais seulement)](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Policy%20on%20Project%20and%20Programme%20Management.pdf) d’EDSC
 - [Directive sur la gestion des programmes (anglais seulement)](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Directive%20On%20Programme%20Management.pdf) d’EDSC
@@ -554,7 +576,8 @@ Les mesures sont définies comme suit :
 
 ## Approche de mise en œuvre (en plusieurs étapes)
 
-Il est entendu que l’ambition de la stratégie ne se concrétisera pas d’un seul coup ou dans quelques années. L’approche de mise en œuvre se fera de manière itérative, en vue d’atteindre l’état cible en trois étapes :
+Il est entendu que l’ambition de la stratégie ne se concrétisera pas d’un seul coup ou dans quelques années.
+L’approche de mise en œuvre se fera de manière itérative, en vue d’atteindre l’état cible en trois étapes :
 
 1. **Étape 1 : Fondements et sensibilisation**
 
@@ -562,7 +585,9 @@ Il est entendu que l’ambition de la stratégie ne se concrétisera pas d’un 
     - Sanction 1 - Produit de TI fonctionnant selon le nouveau modèle d’état cible
     - Sanction 1 - Projet axé sur la TI fonctionnant selon le nouveau modèle d’état cible
     - Créer temporairement (sur une durée de trois ans) une communauté d’excellence DevOps financée, qui agira à titre d’agent de changement et d’encadrement pour les équipes de TI existantes d’EDSC en vue de l’adoption des processus DevOps.
-    - Désigner des « champions » par fonctions. Ces champions offriront des services d’encadrement et de mentorat à d’autres équipes (c.‑à‑d. que ce sera le début des « équipes habilitantes » auxquelles fait référence le concept de topologie d’équipe (Team Topology)[^12](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:12)).
+    - Désigner des « champions » par fonctions.
+Ces champions offriront des services d’encadrement et de mentorat à d’autres équipes (c.‑à‑d.
+que ce sera le début des « équipes habilitantes » auxquelles fait référence le concept de topologie d’équipe (Team Topology)[^12](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:12)).
     - Sensibiliser les parties intéressées au fait que les administrateurs de systèmes doivent adopter le rôle d’ingénieurs de la fiabilité des sites.
 
 2. **Étape 2 : État de préparation de l’infrastructure et des systèmes existants**
@@ -584,7 +609,8 @@ Il est entendu que l’ambition de la stratégie ne se concrétisera pas d’un 
 
 ## Annexe A – Diagnostic (difficultés qui nous empêchent d’aller de l’avant)
 
-En vertu de la [Politique sur les services et le numérique](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32603), qui reflète les attentes des citoyens, EDSC est tenu d’examiner périodiquement les services fournis aux clients. Étant donné la nature omniprésente de la technologie, tout changement aux services d’EDSC nécessitera la participation des équipes de TI.
+En vertu de la [Politique sur les services et le numérique](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32603), qui reflète les attentes des citoyens, EDSC est tenu d’examiner périodiquement les services fournis aux clients.
+Étant donné la nature omniprésente de la technologie, tout changement aux services d’EDSC nécessitera la participation des équipes de TI.
 
 La [Directive sur les services et le numérique](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32601) précise comment **les DPI (et les DPD) ministériels ont leur mot à dire** sur la façon dont les ministères procèdent à leur transformation numérique.
 
@@ -594,9 +620,20 @@ La [Directive sur les services et le numérique](https://www.tbs-sct.gc.ca/pol/d
 | Service                  | 10 %                        | 0                                                                                                                                                         |
 | Cybersécurité            | 6 %                         | 74                                                                                                                                                        |
 
-Les méthodes actuelles de gestion des investissements en TI sont guidées par l’instrument de politique financière d’EDSC suivant : [Politique sur la gestion des projets et des programmes (PGPP) (anglais seulement)](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Policy%20on%20Project%20and%20Programme%20Management.pdf). Il s’agit de la politique qui a donné lieu à la [Norme sur la gestion de projet (anglais seulement)](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Standard%20on$20Project%20Management.pdf), laquelle énonce les principales exigences pour le personnel d’EDSC qui travaille dans un environnement de projet. La norme actuelle vise à gérer les risques et les coûts grâce à une planification avancée et à une exécution rigoureuse du plan. L’approche par points de contrôle de la gestion de projet exige que les équipes de projet demandent l’autorisation avant de continuer. Cette autorisation est accordée lorsqu’une preuve suffisante de diligence raisonnable et un portrait fidèle de l’avenir sont fournis. Cela peut se faire lorsque l’avenir est prévisible, mais pas quand les étapes à venir sont complexes et incertaines. Son incidence négative favorise l’introduction de nouvelles caractéristiques, car le fardeau du processus de demande d’autorisation pour aller de l’avant fait en sorte qu’il est dissuasif de déployer de petits changements.
+Les méthodes actuelles de gestion des investissements en TI sont guidées par l’instrument de politique financière d’EDSC suivant : [Politique sur la gestion des projets et des programmes (PGPP) (anglais seulement)](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Policy%20on%20Project%20and%20Programme%20Management.pdf).
+Il s’agit de la politique qui a donné lieu à la [Norme sur la gestion de projet (anglais seulement)](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Standard%20on$20Project%20Management.pdf), laquelle énonce les principales exigences pour le personnel d’EDSC qui travaille dans un environnement de projet.
+La norme actuelle vise à gérer les risques et les coûts grâce à une planification avancée et à une exécution rigoureuse du plan.
+L’approche par points de contrôle de la gestion de projet exige que les équipes de projet demandent l’autorisation avant de continuer.
+Cette autorisation est accordée lorsqu’une preuve suffisante de diligence raisonnable et un portrait fidèle de l’avenir sont fournis.
+Cela peut se faire lorsque l’avenir est prévisible, mais pas quand les étapes à venir sont complexes et incertaines.
+Son incidence négative favorise l’introduction de nouvelles caractéristiques, car le fardeau du processus de demande d’autorisation pour aller de l’avant fait en sorte qu’il est dissuasif de déployer de petits changements.
 
-Le passage à ce monde hautement intégré, complexe et incertain qu’est le monde numérique nous oblige à opter pour un cycle d’essai, d’observation et de correction de trajectoire plus empirique. Le lien entre les phases de planification et d’exécution devient cyclique. C’est grâce à l’exécution que nous obtenons les données empiriques nécessaires pour éclairer nos estimations de planification et décider des correctifs à apporter. Les pratiques récentes en matière de développement de logiciels, principalement dans les domaines de l’infonuagique et de DevOps, nous ont permis d’adopter cette approche. Les équipes de TI n’ont plus besoin d’attendre pendant de longues périodes pour obtenir des serveurs, élaborer d’importantes bases de code et chercher de grands investissements en capital à des fins d’infrastructure. L’infonuagique a commercialisé l’infrastructure de TI, ce qui permet à EDSC de développer, de mettre à l’essai et de déployer rapidement des logiciels.
+Le passage à ce monde hautement intégré, complexe et incertain qu’est le monde numérique nous oblige à opter pour un cycle d’essai, d’observation et de correction de trajectoire plus empirique.
+Le lien entre les phases de planification et d’exécution devient cyclique.
+C’est grâce à l’exécution que nous obtenons les données empiriques nécessaires pour éclairer nos estimations de planification et décider des correctifs à apporter.
+Les pratiques récentes en matière de développement de logiciels, principalement dans les domaines de l’infonuagique et de DevOps, nous ont permis d’adopter cette approche.
+Les équipes de TI n’ont plus besoin d’attendre pendant de longues périodes pour obtenir des serveurs, élaborer d’importantes bases de code et chercher de grands investissements en capital à des fins d’infrastructure.
+L’infonuagique a commercialisé l’infrastructure de TI, ce qui permet à EDSC de développer, de mettre à l’essai et de déployer rapidement des logiciels.
 
 De plus, le GC s’éloigne des [solutions monolithiques (anglais seulement)](https://medium.com/koderlabs/introduction-to-monolithic-architecture-and-microservices-architecture-b211a5955c63) (vaste base de codes regroupant de nombreuses capacités, mais qui cause des goulots d’étranglement et des points de défaillance uniques dans l’écosystème des TI lorsque les nombreuses équipes de TI qui participent aux travaux entrent en collision)[^14](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:15).
 
@@ -608,9 +645,11 @@ La [Directive sur la gestion de projets et programmes du CT](tbs-sct.gc.ca/pol/d
 
 - \[Le promoteur de projet est responsable de :\] 4.2.18 Mettre en place, dès le début du projet, un plan des points de contrôle du projet conforme au cadre ministériel qui : \[4.2.18.1\] documente les décisions qui seront prises à chaque point de contrôle, les éléments probants et les renseignements requis à l’appui des décisions aux points de contrôle, les critères utilisés pour évaluer les éléments probants et la gouvernance des points de contrôle.
 
-Les trois exigences susmentionnées issues de la Directive du CT indiquent que les ministères doivent accepter le changement et s’y adapter, ainsi que prendre des décisions fondées sur des données probantes (comme les décisions de planification). De telles données probantes ne peuvent être obtenues que par l’exécution.
+Les trois exigences susmentionnées issues de la Directive du CT indiquent que les ministères doivent accepter le changement et s’y adapter, ainsi que prendre des décisions fondées sur des données probantes (comme les décisions de planification).
+De telles données probantes ne peuvent être obtenues que par l’exécution.
 
-La DGIIT a déployé des efforts pour moderniser sa gestion des technologies, comme en témoignent le [Coin des félicitations dans le Bulletin de nouvelles de la DGIIT (anglais seulement)](http://esdc.prv/en/iitb/corporate/news/archives.shtml)[^15](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:16) et le plan [La voie à suivre pour la DGIIT (anglais seulement)](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx)[^16](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:17). Toutefois, la relation d’EDSC avec la technologie dépasse l’influence de la DGIIT.
+La DGIIT a déployé des efforts pour moderniser sa gestion des technologies, comme en témoignent le [Coin des félicitations dans le Bulletin de nouvelles de la DGIIT (anglais seulement)](http://esdc.prv/en/iitb/corporate/news/archives.shtml)[^15](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:16) et le plan [La voie à suivre pour la DGIIT (anglais seulement)](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx)[^16](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:17).
+Toutefois, la relation d’EDSC avec la technologie dépasse l’influence de la DGIIT.
 
 Pour faire d’EDSC une organisation agile, il faut adopter un modèle qui permettra de déployer des logiciels plus petits et de manière plus fréquente, car ce sont ces déploiements qui permettront à l’organisation de recueillir les données empiriques nécessaires pour prendre des décisions fondées sur des données probantes.
 
@@ -690,7 +729,8 @@ La matrice de traçabilité suivante est utilisée pour démontrer l’harmonisa
 
 **[Équipe DevOps (anglais seulement)](https://014gc-my.sharepoint.com/:w:/g/personal/remy_bernard_hrsdc-rhdcc_gc_ca/EaU8oDNt7iJNj8Zy_M64TOkBVJBlFhQ2d_fzOuF2N6bt8A?e=F5HEeL)**
 
-Une équipe interfonctionnelle et multidisciplinaire qui met l’accent sur la collaboration et la communication des développeurs de logiciels et des professionnels des technologies de l’information (TI), tout en automatisant le processus de déploiement des logiciels et de modification de l’infrastructure. Une équipe DevOps correspond à la [définition normalisée suivante de la DGIIT (anglais seulement)](https://014gc-my.sharepoint.com/:w:/g/personal/remy_bernard_hrsdc-rhdcc_gc_ca/EaU8oDNt7iJNj8Zy_M64TOkBVJBlFhQ2d_fzOuF2N6bt8A?e=F5HEeL).
+Une équipe interfonctionnelle et multidisciplinaire qui met l’accent sur la collaboration et la communication des développeurs de logiciels et des professionnels des technologies de l’information (TI), tout en automatisant le processus de déploiement des logiciels et de modification de l’infrastructure.
+Une équipe DevOps correspond à la [définition normalisée suivante de la DGIIT (anglais seulement)](https://014gc-my.sharepoint.com/:w:/g/personal/remy_bernard_hrsdc-rhdcc_gc_ca/EaU8oDNt7iJNj8Zy_M64TOkBVJBlFhQ2d_fzOuF2N6bt8A?e=F5HEeL).
 
 Une copie de la version Office 365 est [disponible ici (anglais seulement)](https://sara-sabr.github.io/ITStrategy/assets/files/standard-devops-team-definition.docx).
 
@@ -698,7 +738,10 @@ Une copie de la version Office 365 est [disponible ici (anglais seulement)](http
 
 Les systèmes de contrôle des versions centralisés reposent sur l’idée qu’il n’y a qu’une seule copie « centrale » d’un projet de logiciel quelque part (probablement hébergée sur un serveur) et que les développeurs modifient le code directement sur cette copie centrale.
 
-Un système de contrôle de version décentralisé (DVCS) ne repose pas nécessairement sur un serveur central pour stocker toutes les versions des fichiers d’un projet de logiciel. Chaque développeur « clone » plutôt une copie d’un répertoire et stocke l’historique complet du projet sur son propre disque dur. Cette copie (ou « clone ») renferme toutes les métadonnées de l’original. Dans un DVCS, les développeurs apporteront habituellement des changements au code sur leur copie locale, mettront à l’essai ces changements au moyen de cette copie et les « transmettront » sur un serveur central hébergeant la copie « maîtresse » que le projet de logiciel est censé utiliser.
+Un système de contrôle de version décentralisé (DVCS) ne repose pas nécessairement sur un serveur central pour stocker toutes les versions des fichiers d’un projet de logiciel.
+Chaque développeur « clone » plutôt une copie d’un répertoire et stocke l’historique complet du projet sur son propre disque dur.
+Cette copie (ou « clone ») renferme toutes les métadonnées de l’original.
+Dans un DVCS, les développeurs apporteront habituellement des changements au code sur leur copie locale, mettront à l’essai ces changements au moyen de cette copie et les « transmettront » sur un serveur central hébergeant la copie « maîtresse » que le projet de logiciel est censé utiliser.
 
 Les trois DVCS les plus populaires sont Mercurial, Git, et Bazaar.
 
@@ -706,37 +749,59 @@ EDSC utilisera Git pour favoriser l’interopérabilité entre les répertoires 
 
 ### Chaîne de valeur de développement <!-- omit in toc -->
 
-La série d’étapes *et de développeurs* qu’EDSC utilise pour mettre en œuvre des solutions de TI permettant à l’organisation de mener ses activités opérationnelles. Les personnes qui composent la chaîne de valeur du développement sont un ensemble d’équipes DevOps.
+La série d’étapes *et de développeurs* qu’EDSC utilise pour mettre en œuvre des solutions de TI permettant à l’organisation de mener ses activités opérationnelles.
+Les personnes qui composent la chaîne de valeur du développement sont un ensemble d’équipes DevOps.
 
 L’organisation des portefeuilles axée sur les chaînes de valeur de développement permet de visualiser le flux du travail pour produire des solutions, réduire les transferts et les retards, accélérer l’apprentissage et raccourcir la période de mise en marché, et soutenir des méthodes de développement et de budgétisation plus simples.
 
 ### Solution de TI, application, logiciel et données <!-- omit in toc -->
 
-Une définition normalisée devrait être élaborée par le CEAI (voir l’*[ensemble cohérent de mesures de la stratégie d’adoption, de conception et d’achat_](https://sara-sabr.github.io/ITStrategy/strategy-build-vs-buy.html#coherent-set-of-actions)*). Jusqu’à ce que cela soit terminé, la définition et les liens suivants seront utilisés.
+Une définition normalisée devrait être élaborée par le CEAI (voir l’*[ensemble cohérent de mesures de la stratégie d’adoption, de conception et d’achat_](https://sara-sabr.github.io/ITStrategy/strategy-build-vs-buy.html#coherent-set-of-actions)*).
+Jusqu’à ce que cela soit terminé, la définition et les liens suivants seront utilisés.
 
-![A UML diagram representing the relationships between the terms IT Solution, Application, Software, Infrastructure, Data, and IT Product. The diagram shows that an IT Solution and an Application are part of the concept IT Product. And while an IT Solution is comprised of one ore more Applications, Applications can exist on their own without belonging to an IT Solution. An Application is made up of one or more Software components. An Application interacts with one or more Data Entities that are generalized from the Master Data. Software components may have dependencies between them. Software components are deployed to one or more Infrastructure. Both Software and Infrastructure make use of Configuration.]({{ site.baseurl }}/assets/images/itsolution-itproduct-model.png) *Figure 2. Modèle de relations entre les différents éléments logiciels*
+![A UML diagram representing the relationships between the terms IT Solution, Application, Software, Infrastructure, Data, and IT Product.
+The diagram shows that an IT Solution and an Application are part of the concept IT Product.
+And while an IT Solution is comprised of one ore more Applications, Applications can exist on their own without belonging to an IT Solution.
+An Application is made up of one or more Software components.
+An Application interacts with one or more Data Entities that are generalized from the Master Data.
+Software components may have dependencies between them.
+Software components are deployed to one or more Infrastructure.
+Both Software and Infrastructure make use of Configuration.]({{ site.baseurl }}/assets/images/itsolution-itproduct-model.png) *Figure 2. Modèle de relations entre les différents éléments logiciels*
 
-La *solution de TI* est composée d’une ou de plusieurs applications. Il s’agit essentiellement d’un regroupement d’applications.
+La *solution de TI* est composée d’une ou de plusieurs applications.
+Il s’agit essentiellement d’un regroupement d’applications.
 
-Une *application* s’inscrit dans le cadre du [Programme de gestion des portefeuilles d’applications (GPA) (anglais seulement)](https://www.gcpedia.gc.ca/wiki/OCIO_Application_Portfolio_Management)) et est constituée d’un ou de plusieurs logiciels (communément appelés composants logiciels). De plus, une application utilise ou produit des données en faisant office d’interface avec ses composants logiciels. Dans une application, les logiciels et les données sont des concepts distincts.
+Une *application* s’inscrit dans le cadre du [Programme de gestion des portefeuilles d’applications (GPA) (anglais seulement)](https://www.gcpedia.gc.ca/wiki/OCIO_Application_Portfolio_Management)) et est constituée d’un ou de plusieurs logiciels (communément appelés composants logiciels).
+De plus, une application utilise ou produit des données en faisant office d’interface avec ses composants logiciels.
+Dans une application, les logiciels et les données sont des concepts distincts.
 
-Un composant *logiciel* est une base de codes unique, un regroupement de fichiers (binaires ou texte qui sera compilé en binaire) qui seront exécutés dans une infrastructure. Un composant logiciel peut avoir des dépendances avec d’autres composants logiciels. C’est souvent le cas de ses bibliothèques – d’autres composants logiciels – qui sont conçues par d’autres équipes, adoptées à partir de licences de logiciels de source ouverte ou achetées auprès d’un fournisseur tiers. On s’attend à ce que le logiciel ait au moins un paramètre de configuration (p. ex., un fichier) propre à l’environnement dans lequel il est déployé.
+Un composant *logiciel* est une base de codes unique, un regroupement de fichiers (binaires ou texte qui sera compilé en binaire) qui seront exécutés dans une infrastructure.
+Un composant logiciel peut avoir des dépendances avec d’autres composants logiciels.
+C’est souvent le cas de ses bibliothèques – d’autres composants logiciels – qui sont conçues par d’autres équipes, adoptées à partir de licences de logiciels de source ouverte ou achetées auprès d’un fournisseur tiers.
+On s’attend à ce que le logiciel ait au moins un paramètre de configuration (p. ex., un fichier) propre à l’environnement dans lequel il est déployé.
 
-L’*infrastructure* est l’endroit où le logiciel est déployé. Habituellement, il s’agit d’un serveur exécutant un système d’exploitation. Dans le nuage public, il peut s’agir de conteneurs ou d’autres plateformes en tant que service. Comme les logiciels, les infrastructures utilisent également les paramètres de configuration.
+L’*infrastructure* est l’endroit où le logiciel est déployé.
+Habituellement, il s’agit d’un serveur exécutant un système d’exploitation.
+Dans le nuage public, il peut s’agir de conteneurs ou d’autres plateformes en tant que service.
+Comme les logiciels, les infrastructures utilisent également les paramètres de configuration.
 
-Les *données* avec lesquelles une application interagit font partie intégrante de la gestion des données de référence. Il s’agit de la source de renseignements d’une entité de données particulière; la confidentialité, l’intégrité et la disponibilité des données sont définies pour un contexte opérationnel donné, et le consentement de l’utilisateur final est communiqué à l’application.
+Les *données* avec lesquelles une application interagit font partie intégrante de la gestion des données de référence.
+Il s’agit de la source de renseignements d’une entité de données particulière; la confidentialité, l’intégrité et la disponibilité des données sont définies pour un contexte opérationnel donné, et le consentement de l’utilisateur final est communiqué à l’application.
 
 ### Produit de TI <!-- omit in toc -->
 
-Un produit de TI se compose d’une solution de TI ou d’une application. La décision d’établir la portée d’un produit à l’égard d’une solution de TI ou d’une application dépend du contexte opérationnel particulier de l’organisation.
+Un produit de TI se compose d’une solution de TI ou d’une application.
+La décision d’établir la portée d’un produit à l’égard d’une solution de TI ou d’une application dépend du contexte opérationnel particulier de l’organisation.
 
-Dans le contexte de la gestion des produits, l’idée est que les solutions de TI ou les applications sont conçues pour croître et évoluer au fil du temps, contrairement aux projets qui ont un seul début, un milieu et une fin. Cela démontre que les solutions de TI et les applications utiliseront différentes méthodes de gestion des investissements pour s’améliorer continuellement.
+Dans le contexte de la gestion des produits, l’idée est que les solutions de TI ou les applications sont conçues pour croître et évoluer au fil du temps, contrairement aux projets qui ont un seul début, un milieu et une fin.
+Cela démontre que les solutions de TI et les applications utiliseront différentes méthodes de gestion des investissements pour s’améliorer continuellement.
 
 Le « produit de TI » représente la partie technique d’un « produit » plus grand – l’ensemble des services offerts aux clients[17](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:18).
 
 ### Projet axé sur la TI <!-- omit in toc -->
 
-Il s’agit d’un effort provisoire déployé pour créer un produit, un service ou un résultat unique. La nature temporaire des projets axés sur la TI fait en sorte que ceux-ci ont un début et une fin bien définis.
+Il s’agit d’un effort provisoire déployé pour créer un produit, un service ou un résultat unique.
+La nature temporaire des projets axés sur la TI fait en sorte que ceux-ci ont un début et une fin bien définis.
 
 Cette définition est tirée de la [Directive sur la gestion des projets d’EDSC (anglais seulement)](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Directive%20on%20Project%20Management.pdf) et a été modifiée afin de tenir compte de l’aspect des TI.
 
@@ -746,7 +811,8 @@ Personne qui représente l’organisation ou la communauté d’utilisateurs et 
 
 ### Équipes des produits TI <!-- omit in toc -->
 
-Comprends un ensemble d’équipes DevOps nécessaires à l’exploitation et à la maintenance de la suite de logiciels dont le produit de TI est composé. Les gestionnaires et les organisateurs (p. ex., architecte en chef) font également partie d’une équipe de produit de TI.
+Comprends un ensemble d’équipes DevOps nécessaires à l’exploitation et à la maintenance de la suite de logiciels dont le produit de TI est composé.
+Les gestionnaires et les organisateurs (p. ex., architecte en chef) font également partie d’une équipe de produit de TI.
 
 ### Modèle conventionnel de prestation des solutions de TI <!-- omit in toc -->
 
@@ -754,13 +820,17 @@ Aux fins de la présente stratégie, nous définissons le modèle conventionnel 
 
 Le modèle conventionnel suit le processus par points de contrôle du CVGP et favorise la planification avancée et l’exécution rigoureuse d’un plan fondé sur la portée, l’échéancier et les coûts engagés, et rendra compte de ces engagements afin de déterminer l’état de santé des projets de TI.
 
-Dans le modèle conventionnel, les équipes de TI sont organisées par fonction et des transferts de charge de travail leur sont affectés tout au long de la chaîne de développement pour leur permettre d’accomplir leurs tâches fonctionnelles. Ces transferts sont définis en tenant compte des fonctions de l’équipe et non du résultat global du projet.
+Dans le modèle conventionnel, les équipes de TI sont organisées par fonction et des transferts de charge de travail leur sont affectés tout au long de la chaîne de développement pour leur permettre d’accomplir leurs tâches fonctionnelles.
+Ces transferts sont définis en tenant compte des fonctions de l’équipe et non du résultat global du projet.
 
-Dans le modèle conventionnel, on s’attend à ce que les résultats opérationnels soient atteints à la fin du projet de TI et que les activités opérationnelles soient modifiées en fonction des nouvelles capacités établies par le projet de TI. En vertu du plan de réalisation des activités, le responsable opérationnel est tenu de surveiller et de signaler les écarts entre les avantages prévus et réels. Les écarts sont traités en fonction des exigences en matière de changement ou des nouveaux projets.
+Dans le modèle conventionnel, on s’attend à ce que les résultats opérationnels soient atteints à la fin du projet de TI et que les activités opérationnelles soient modifiées en fonction des nouvelles capacités établies par le projet de TI.
+En vertu du plan de réalisation des activités, le responsable opérationnel est tenu de surveiller et de signaler les écarts entre les avantages prévus et réels.
+Les écarts sont traités en fonction des exigences en matière de changement ou des nouveaux projets.
 
 ### Modèle de prestation de la solution de TI cible <!-- omit in toc -->
 
-Le modèle de prestation de la solution de TI cible a le même objectif que le modèle conventionnel : optimiser les ressources et réduire les risques grâce à l’utilisation de la technologie. Contrairement au modèle conventionnel, ce modèle visera à :
+Le modèle de prestation de la solution de TI cible a le même objectif que le modèle conventionnel : optimiser les ressources et réduire les risques grâce à l’utilisation de la technologie.
+Contrairement au modèle conventionnel, ce modèle visera à :
 
 - limiter la taille des projets de TI;
 - définir les projets de TI dans leur intégralité, de l’étape de l’itération jusqu’à l’établissement des objectifs opérationnels de l’organisation;
@@ -800,13 +870,17 @@ Voici des statistiques et des références concernant les problèmes et les taux
 
 ### 1) Étude du Standish Group <!-- omit in toc -->
 
-Le Standish Group, un organisme consultatif de recherche qui se concentre sur le rendement du développement de logiciels[^18](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:19), a constaté que « de 2003 à 2012, parmi les 3 555 projets recensés dont le coût de main-d’œuvre s’élevait à au moins 10 millions de dollars, seulement 6,4 % ont été fructueux. Les données du Standish Group ont montré que 52 % des grands projets étaient « remis en question », soit parce qu’ils dépassaient le budget, qu’ils étaient en retard ou qu’ils ne répondaient pas aux attentes des utilisateurs. Les 41,4 % restants étaient des échecs — c.‑à‑d. que ces projets ont été soit abandonnés, soit recréés à partir de zéro. »[^19](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:20)
+Le Standish Group, un organisme consultatif de recherche qui se concentre sur le rendement du développement de logiciels[^18](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:19), a constaté que « de 2003 à 2012, parmi les 3 555 projets recensés dont le coût de main-d’œuvre s’élevait à au moins 10 millions de dollars, seulement 6,4 % ont été fructueux.
+Les données du Standish Group ont montré que 52 % des grands projets étaient « remis en question », soit parce qu’ils dépassaient le budget, qu’ils étaient en retard ou qu’ils ne répondaient pas aux attentes des utilisateurs.
+Les 41,4 % restants étaient des échecs — c.‑à‑d. que ces projets ont été soit abandonnés, soit recréés à partir de zéro. »[^19](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:20)
 
-L’étude et les résultats du Standish Group ont également été cités dans le chapitre 3 du rapport de novembre 2006 de la vérificatrice générale du Canada (énoncés 3.5 et 3.6). Voir le point 3 ci-dessous.
+L’étude et les résultats du Standish Group ont également été cités dans le chapitre 3 du rapport de novembre 2006 de la vérificatrice générale du Canada (énoncés 3.5 et 3.6).
+Voir le point 3 ci-dessous.
 
 ### 2) Questions à la Chambre des communes de 2016 et 2019 (projets de plus de 1 M$) <!-- omit in toc -->
 
-Grâce à un projet d’[Ottawa Civic Tech (anglais seulement)](https://ottawacivictech.ca/), un [ensemble de données sur les grands projets de TI du gouvernement (anglais seulement)](https://large-government-of-canada-it-projects.github.io/)[^20](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:21) a été publié et les réponses à deux questions qui ont été posées à la Chambre des communes, en juin 2016 et en mai 2019, ont été consignées. Chaque question demandait aux ministères fédéraux de faire rapport sur les projets de TI, en cours ou prévus, d’une valeur supérieure à 1 M$.
+Grâce à un projet d’[Ottawa Civic Tech (anglais seulement)](https://ottawacivictech.ca/), un [ensemble de données sur les grands projets de TI du gouvernement (anglais seulement)](https://large-government-of-canada-it-projects.github.io/)[^20](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:21) a été publié et les réponses à deux questions qui ont été posées à la Chambre des communes, en juin 2016 et en mai 2019, ont été consignées.
+Chaque question demandait aux ministères fédéraux de faire rapport sur les projets de TI, en cours ou prévus, d’une valeur supérieure à 1 M$.
 
 Nous avons fait les constatations suivantes :
 
@@ -817,17 +891,23 @@ Nous avons fait les constatations suivantes :
 
 La vérification portait sur sept projets et les évaluait selon quatre critères clés (gouvernance, analyse de rentabilisation, capacité organisationnelle et gestion de projet).
 
-Dans les énoncés 3.5 et 3.6, le rapport fait mention de l’étude du Standish Group (voir le point 1) ci-dessus) en ce qui a trait au faible taux de réussite des grands projets de TI. Il fait également référence à un rapport de 2000 selon lequel une tendance se dessinait dans les projets de TI : « pour la plupart des nouveaux projets on suivait sa recette du succès, c’est-à-dire limiter leur durée à six mois et le nombre d’intervenants à six. »
+Dans les énoncés 3.5 et 3.6, le rapport fait mention de l’étude du Standish Group (voir le point 1) ci-dessus) en ce qui a trait au faible taux de réussite des grands projets de TI.
+Il fait également référence à un rapport de 2000 selon lequel une tendance se dessinait dans les projets de TI : « pour la plupart des nouveaux projets on suivait sa recette du succès, c’est-à-dire limiter leur durée à six mois et le nombre d’intervenants à six. »
 
-Le rapport concluait que, dans l’ensemble, le gouvernement avait fait peu de progrès depuis la dernière vérification (1997), n’avait pas expliqué de façon adéquate les résultats attendus dans le cadre d’une analyse de rentabilisation et n’avait pas évalué de façon adéquate sa capacité de prendre en charge des projets de TI à risque élevé. Toutefois, le rapport conclut que 4/7 des projets échantillonnés étaient bien gérés.
+Le rapport concluait que, dans l’ensemble, le gouvernement avait fait peu de progrès depuis la dernière vérification (1997), n’avait pas expliqué de façon adéquate les résultats attendus dans le cadre d’une analyse de rentabilisation et n’avait pas évalué de façon adéquate sa capacité de prendre en charge des projets de TI à risque élevé.
+Toutefois, le rapport conclut que 4/7 des projets échantillonnés étaient bien gérés.
 
 ### 4) Rapport du printemps 2010 de la vérificatrice générale du Canada[22](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:23) <!-- omit in toc -->
 
-Le rapport visait à déterminer si cinq des entités gouvernementales ayant les plus importantes dépenses en matière de TI avaient cerné et géré de façon adéquate les risques liés aux systèmes de TI vieillissants. Toutes les entités indiquaient que le vieillissement de la TI représentait un risque important et la majorité d’entre elles (dont EDSC) l’avaient inclus dans leur profil de risque organisationnel.
+Le rapport visait à déterminer si cinq des entités gouvernementales ayant les plus importantes dépenses en matière de TI avaient cerné et géré de façon adéquate les risques liés aux systèmes de TI vieillissants.
+Toutes les entités indiquaient que le vieillissement de la TI représentait un risque important et la majorité d’entre elles (dont EDSC) l’avaient inclus dans leur profil de risque organisationnel.
 
-Le rapport stipulait que les plans d’investissement n’étaient pas appuyés par une stratégie de financement dans le cadre de laquelle des sources de fonds suffisantes étaient fournies pour mener à bien toutes les initiatives nécessaires à la gestion de la TI vieillissante. En 2008, RHDCC a préparé un plan d’investissement à long terme comprenant 20 projets et initiatives dont le coût s’élevait à 947,4 millions de dollars sur 5 ans. Le plan n’a pas été approuvé par la haute direction.
+Le rapport stipulait que les plans d’investissement n’étaient pas appuyés par une stratégie de financement dans le cadre de laquelle des sources de fonds suffisantes étaient fournies pour mener à bien toutes les initiatives nécessaires à la gestion de la TI vieillissante.
+En 2008, RHDCC a préparé un plan d’investissement à long terme comprenant 20 projets et initiatives dont le coût s’élevait à 947,4 millions de dollars sur 5 ans.
+Le plan n’a pas été approuvé par la haute direction.
 
-Le rapport indiquait que la Direction du dirigeant principal de l’information (DDPI) du SCT était au fait des risques importants liés au vieillissement de la TI depuis plus d’une décennie. La DDPI a répondu au rapport en affirmant qu’elle souscrivait aux recommandations, mais que la responsabilité des initiatives de financement relevait des administrateurs généraux des ministères et non de la DDPI.
+Le rapport indiquait que la Direction du dirigeant principal de l’information (DDPI) du SCT était au fait des risques importants liés au vieillissement de la TI depuis plus d’une décennie.
+La DDPI a répondu au rapport en affirmant qu’elle souscrivait aux recommandations, mais que la responsabilité des initiatives de financement relevait des administrateurs généraux des ministères et non de la DDPI.
 
 ### 5) 2011 juin — Rapport Le Point de la vérificatrice générale du Canada, chapitre 2 (grands projets de TI)[23](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:24) <!-- omit in toc -->
 
@@ -845,15 +925,26 @@ Dans l’ensemble, le rapport a révélé que l’ASFC « avait été confront�
 
 La vérification visait à déterminer si Services publics et Approvisionnement Canada (SPAC) gérait et supervisait de façon efficace et efficiente la mise en œuvre du nouveau système de paye Phénix.
 
-Le rapport a conclu que « le projet Phénix a été un échec incompréhensible de gestion et de surveillance de projet. Les cadres responsables de Phénix ont donné la priorité à certains aspects, comme les limites du budget et le calendrier, au détriment d’autres aspects essentiels tels que la fonctionnalité et la sécurité. Les cadres responsables de Phénix n’ont pas saisi l’importance des mises en garde indiquant que le Centre des services de paye de Miramichi, les ministères et organismes et le nouveau système n’étaient pas prêts. Ils n’ont pas communiqué une information complète et exacte aux sous-ministres et aux sous-ministres délégués des ministères et organismes, y compris au sous-ministre de Services publics et Approvisionnement Canada, lorsqu'ils les ont informés de l’état de préparation de Phénix en vue de sa mise en œuvre. À notre avis, la décision des cadres responsables de Phénix de mettre en œuvre Phénix était déraisonnable, compte tenu de l’information qui était disponible à ce moment-là. Le système n’a donc pas répondu aux besoins des utilisateurs, a coûté au gouvernement fédéral des centaines de millions de dollars et a causé des difficultés financières à des dizaines de milliers de ses employés. »
+Le rapport a conclu que « le projet Phénix a été un échec incompréhensible de gestion et de surveillance de projet.
+Les cadres responsables de Phénix ont donné la priorité à certains aspects, comme les limites du budget et le calendrier, au détriment d’autres aspects essentiels tels que la fonctionnalité et la sécurité.
+Les cadres responsables de Phénix n’ont pas saisi l’importance des mises en garde indiquant que le Centre des services de paye de Miramichi, les ministères et organismes et le nouveau système n’étaient pas prêts.
+Ils n’ont pas communiqué une information complète et exacte aux sous-ministres et aux sous-ministres délégués des ministères et organismes, y compris au sous-ministre de Services publics et Approvisionnement Canada, lorsqu'ils les ont informés de l’état de préparation de Phénix en vue de sa mise en œuvre.
+À notre avis, la décision des cadres responsables de Phénix de mettre en œuvre Phénix était déraisonnable, compte tenu de l’information qui était disponible à ce moment-là.
+Le système n’a donc pas répondu aux besoins des utilisateurs, a coûté au gouvernement fédéral des centaines de millions de dollars et a causé des difficultés financières à des dizaines de milliers de ses employés. »
 
 ### 8) Février 2020 – Présentation de 18F devant le [Michigan Senate Appropriations Committee](https://www.youtube.com/watch?v=g-h6CtSwk30)[26](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:27) <!-- omit in toc -->
 
-En février 2020, 18F (l’équivalent aux États-Unis du Service numérique canadien) a fait une présentation au Michigan Senate Appropriations Committee. 18F a été créé en 2014 par le programme Presidential Innovation Fellows (PIF, mis sur pied en 2012 par la Maison-Blanche) afin d’améliorer et de moderniser les technologies du gouvernement[27](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:28). La présentation portait sur l’approvisionnement technologique et les défis connexes. En bref, les ministères gouvernementaux ne sont pas en mesure d’encadrer adéquatement les problèmes en partie gérables et, par conséquent, s’engagent dans des contrats de longue durée, de grande envergure et complexes avec des fournisseurs.
+En février 2020, 18F (l’équivalent aux États-Unis du Service numérique canadien) a fait une présentation au Michigan Senate Appropriations Committee.
+18F a été créé en 2014 par le programme Presidential Innovation Fellows (PIF, mis sur pied en 2012 par la Maison-Blanche) afin d’améliorer et de moderniser les technologies du gouvernement[27](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:28).
+La présentation portait sur l’approvisionnement technologique et les défis connexes.
+En bref, les ministères gouvernementaux ne sont pas en mesure d’encadrer adéquatement les problèmes en partie gérables et, par conséquent, s’engagent dans des contrats de longue durée, de grande envergure et complexes avec des fournisseurs.
 
 ### 9) [Delivering large-scale IT projects on time, on budget, and on value](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/delivering-large-scale-it-projects-on-time-on-budget-and-on-value?cid=soc-web), McKinsey Digital, 2012[28](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:29) <!-- omit in toc -->
 
-Selon une étude réalisée en 2012 par McKinsey Digital en collaboration avec l’université d’Oxford, 45 % des grands projets de TI (plus de 15 millions de dollars) visés dépassent le budget prévu et 7 % dépassent les échéanciers fixés, et ces projets offrent 56 % moins de valeur que ce qui était prévu. Les projets logiciels présentent le risque le plus élevé de dépassement des coûts et des échéanciers. L’étude a aussi permis de constater que plus un projet doit durer longtemps, plus il est probable qu’il dépasse le budget et le temps impartis. On y recommande quatre façons d’améliorer le rendement des projets, y compris la constitution d’équipes efficaces et le recours à des cycles de prestation de courte durée.
+Selon une étude réalisée en 2012 par McKinsey Digital en collaboration avec l’université d’Oxford, 45 % des grands projets de TI (plus de 15 millions de dollars) visés dépassent le budget prévu et 7 % dépassent les échéanciers fixés, et ces projets offrent 56 % moins de valeur que ce qui était prévu.
+Les projets logiciels présentent le risque le plus élevé de dépassement des coûts et des échéanciers.
+L’étude a aussi permis de constater que plus un projet doit durer longtemps, plus il est probable qu’il dépasse le budget et le temps impartis.
+On y recommande quatre façons d’améliorer le rendement des projets, y compris la constitution d’équipes efficaces et le recours à des cycles de prestation de courte durée.
 
 ## Références en ligne
 
