@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "Adopter, acheter et bâtir – Explication"
+title: "Adopter, acheter, concevoir – Explication"
 ref: build-vs-buy-explained
 lang: fr
 sections: Documents à l'appui
 version: 0.01
 date: "2020-09-23"
-permalink: /adopter-acheter-et-batir-explication.html
+permalink: /adopter-acheter-concevoir-explication.html
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- the below cSpell statement says to ignore any text between HTML tags. E.g. it will ignore "th rowspan='2'" in this string: <th rowspan='2'> -->
@@ -26,7 +26,7 @@ permalink: /adopter-acheter-et-batir-explication.html
 
 ## Contexte
 
-Le présent document se veut un complément à la [Stratégie de conception ou d’achat](https://sara-sabr.github.io/ITStrategy/strategy-build-vs-buy.html).
+Le présent document se veut un complément à la [Stratégie de adopter, acheter, concevoir](adopter-acheter-et-concevoir.html).
 
 ## Introduction
 
