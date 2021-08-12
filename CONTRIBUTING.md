@@ -26,6 +26,10 @@ In this document you will find the following sections:
       - [Link Checker](#link-checker)
       - [Spelling Checker](#spelling-checker)
   - [Local Website](#local-website)
+    - [With Docker](#with-docker)
+    - [With Ruby](#with-ruby)
+      - [Initial installation](#initial-installation)
+      - [Generate website](#generate-website)
   - [Jekyll Pages](#jekyll-pages)
     - [Layout](#layout)
     - [Title](#title)
@@ -476,18 +480,22 @@ Pandoc is a tool that converts from and to various types of files including mark
 
 ### Converting from markdown to Word (md to docx)
 
-If a page needs to be sent to translation it needs to be sent in .docx format.  To quickly convert a file from md to docx, make sure you are in the directory where your local repo is saved, and use the following command line:
+If a page needs to be sent to translation it needs to be sent in .docx format.  To quickly convert a file from md to docx, navigate to the directory of your local version of the repository, and use the following command line:
 
 ```bash
 pandoc -t docx IN.md -o OUT.docx
 ```
 
+Running this command takes the file IN.md and creates file OUT.docx. When using the above code, replace IN.md with the name of the markdown file you want to convert and replace OUT.docx with the name of the Word document you want to create.
+
 The docx file will be saved in the file structure of your local repo. You can copy it from there into an email to the translation company.
 
 ### Converting from Word to markdown (docx to md)
 
-This is most useful after receiving a translated file from the translation company for a French page. To quickly convert a Word document to a markdown file, copy the docx file to the directory where your local repo is saved.  Then, make sure you are in the directory where your local repo is saved, and use the following command line:
+This is most useful after receiving a translated file from the translation company for a French page. To quickly convert a Word document to a markdown file, copy the docx file to the directory of your local repository.  Then, navigate to the directory of your local version of the repository, and use the following command line:
 
 ```bash
 pandoc -t gfm --wrap=none -s IN.docx -o OUT.md
 ```
+
+Running this command takes the file IN.docx and creates file OUT.md. When using the above code, replace IN.md with the name of the markdown file you want to convert and replace OUT.docx with the name of the Word document you want to create.
