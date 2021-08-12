@@ -13,11 +13,11 @@ permalink: /adopter-acheter-et-batir-explication.html
 
 - [Contexte](https://sara-sabr.github.io/ITStrategy/strategy-build-vs-buy-explained.html#context)
 - [Introduction](https://sara-sabr.github.io/ITStrategy/strategy-build-vs-buy-explained.html#introduction)
-    - [Portée du présent document](https://sara-sabr.github.io/ITStrategy/strategy-build-vs-buy-explained.html#scope-of-this-document)
-    - [Cas d’utilisation](https://sara-sabr.github.io/ITStrategy/strategy-build-vs-buy-explained.html#use-cases)
-        - [Navigateur Web](https://sara-sabr.github.io/ITStrategy/strategy-build-vs-buy-explained.html#web-browser)
-        - [Logiciel en tant que service (SaaS)](https://sara-sabr.github.io/ITStrategy/strategy-build-vs-buy-explained.html#saas)
-        - [Système de gestion du versement de prestations multiples](https://sara-sabr.github.io/ITStrategy/strategy-build-vs-buy-explained.html#multi-benefit-delivery-management-system)
+  - [Portée du présent document](https://sara-sabr.github.io/ITStrategy/strategy-build-vs-buy-explained.html#scope-of-this-document)
+  - [Cas d’utilisation](https://sara-sabr.github.io/ITStrategy/strategy-build-vs-buy-explained.html#use-cases)
+    - [Navigateur Web](https://sara-sabr.github.io/ITStrategy/strategy-build-vs-buy-explained.html#web-browser)
+    - [Logiciel en tant que service (SaaS)](https://sara-sabr.github.io/ITStrategy/strategy-build-vs-buy-explained.html#saas)
+    - [Système de gestion du versement de prestations multiples](https://sara-sabr.github.io/ITStrategy/strategy-build-vs-buy-explained.html#multi-benefit-delivery-management-system)
 
 ## Contexte
 
