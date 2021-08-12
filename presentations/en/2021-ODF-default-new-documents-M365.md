@@ -34,6 +34,8 @@ Minimal use of transitional standards and use of ODF in the future.
 
 > Use Open Standards and Open Source Software first
 
+https://code.open.canada.ca/en/open-standards.html
+
 ---
 
 ## MS Office Suite File Formats
@@ -58,8 +60,8 @@ Minimal use of transitional standards and use of ODF in the future.
 - **Transitional** : Non standard
 
 Starting with Office 2007, the OOXML Transitional file formats became the default.
-Office 2010 can open the OOXML Strict files, but it can only save documents using the Transitional schemas.
-Office 2013 and 2016 supports both opening and saving of Strict OOXML, but the default is still Transitional.
+Office 2010 could open OOXML Strict files, but could only save documents using the Transitional schemas.
+Office 2013 and 2016 support both opening and saving of Strict OOXML, but the default is still Transitional.
 
 ---
 
@@ -77,7 +79,8 @@ The same will be true of ODF 1.3, most ODF editors are able to read any version 
 
 ## M365 Office File Formats
 
-
+- Default is Transitional OOXML.
+- It's simple to add ODF templates for new documents
 
 ---
 
