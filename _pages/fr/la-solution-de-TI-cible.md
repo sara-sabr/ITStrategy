@@ -803,7 +803,7 @@ Le Standish Group, un organisme consultatif de recherche qui se concentre sur le
 
 L’étude et les résultats du Standish Group ont également été cités dans le chapitre 3 du rapport de novembre 2006 de la vérificatrice générale du Canada (énoncés 3.5 et 3.6). Voir le point 3 ci-dessous.
 
-### 2) Questions à la Chambre des communes de 2016 et 2019 (projets de plus de 1 M$)**
+### 2) Questions à la Chambre des communes de 2016 et 2019 (projets de plus de 1 M$)
 
 Grâce à un projet d’[Ottawa Civic Tech](https://ottawacivictech.ca/), un [ensemble de données sur les grands projets de TI du gouvernement](https://large-government-of-canada-it-projects.github.io/)[^20](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:21) a été publié et les réponses à deux questions qui ont été posées à la Chambre des communes, en juin 2016 et en mai 2019, ont été consignées. Chaque question demandait aux ministères fédéraux de faire rapport sur les projets de TI, en cours ou prévus, d’une valeur supérieure à 1 M$.
 
@@ -812,7 +812,7 @@ Nous avons fait les constatations suivantes :
 - Des 94 projets qui contiennent suffisamment de données pour comparer les échéanciers : 9 % respectent les échéanciers, 4 % sont en avance et 87 % sont en retard.
 - Des 97 projets qui contiennent suffisamment de données pour comparer les budgets : 26 % se situent à 10 % ou moins des estimations initiales, 28 % se situent entre 10 % et 50 % au-dessus des estimations initiales, 28 % se situent à plus de 50 % des estimations initiales et 19 % se situent à moins de 10 % des estimations initiales.
 
-**3) Chapitre 3 du rapport de novembre 2006 de la vérificatrice générale du Canada[21](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:22)**
+### 3) Chapitre 3 du rapport de novembre 2006 de la vérificatrice générale du Canada[^21](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:22)
 
 La vérification portait sur sept projets et les évaluait selon quatre critères clés (gouvernance, analyse de rentabilisation, capacité organisationnelle et gestion de projet).
 
@@ -820,7 +820,7 @@ Dans les énoncés 3.5 et 3.6, le rapport fait mention de l’étude du Standish
 
 Le rapport concluait que, dans l’ensemble, le gouvernement avait fait peu de progrès depuis la dernière vérification (1997), n’avait pas expliqué de façon adéquate les résultats attendus dans le cadre d’une analyse de rentabilisation et n’avait pas évalué de façon adéquate sa capacité de prendre en charge des projets de TI à risque élevé. Toutefois, le rapport conclut que 4/7 des projets échantillonnés étaient bien gérés.
 
-**4) Rapport du printemps 2010 de la vérificatrice générale du Canada[22](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:23)**
+### 4) Rapport du printemps 2010 de la vérificatrice générale du Canada[22](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:23)
 
 Le rapport visait à déterminer si cinq des entités gouvernementales ayant les plus importantes dépenses en matière de TI avaient cerné et géré de façon adéquate les risques liés aux systèmes de TI vieillissants. Toutes les entités indiquaient que le vieillissement de la TI représentait un risque important et la majorité d’entre elles (dont EDSC) l’avaient inclus dans leur profil de risque organisationnel.
 
@@ -828,29 +828,29 @@ Le rapport stipulait que les plans d’investissement n’étaient pas appuyés 
 
 Le rapport indiquait que la Direction du dirigeant principal de l’information (DDPI) du SCT était au fait des risques importants liés au vieillissement de la TI depuis plus d’une décennie. La DDPI a répondu au rapport en affirmant qu’elle souscrivait aux recommandations, mais que la responsabilité des initiatives de financement relevait des administrateurs généraux des ministères et non de la DDPI.
 
-**5) 2011 juin — Rapport Le Point de la vérificatrice générale du Canada, chapitre 2 (grands projets de TI)[23](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:24)**
+### 5) 2011 juin — Rapport Le Point de la vérificatrice générale du Canada, chapitre 2 (grands projets de TI)[23](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:24)
 
 Ce rapport portait sur les progrès accomplis depuis le rapport de 2006 portant sur sept grands projets de TI; un nouveau projet venait également d’être sélectionné et approuvé par le Conseil du Trésor.
 
 La conclusion était les progrès accomplis par le gouvernement en réponse aux recommandations de 2006 étaient insatisfaisants.
 
-**6) Rapport 5 – Rapport du printemps 2015 du vérificateur général du Canada (investissements dans les TI de l’ASFC)[24](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:25)**
+### 6) Rapport 5 – Rapport du printemps 2015 du vérificateur général du Canada (investissements dans les TI de l’ASFC)[24](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:25)
 
 Ce rapport présentait les résultats d’une vérification du rendement, c’est-à-dire une évaluation indépendante, objective et systématique de la façon dont le gouvernement gère ses activités, ses responsabilités et ses ressources.
 
 Dans l’ensemble, le rapport a révélé que l’ASFC « avait été confrontée à des difficultés importantes en ce qui a trait à la gestion de son portefeuille d’investissements dans les technologies de l’information (TI) de manière à pouvoir assurer la mise en œuvre de projets en TI qui respectent les exigences établies et produisent les avantages escomptés. »
 
-**7) Rapport 1 – Rapport du printemps 2018 du vérificateur général du Canada (création et déploiement du système de paye Phénix)[25](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:26)**
+### 7) Rapport 1 – Rapport du printemps 2018 du vérificateur général du Canada (création et déploiement du système de paye Phénix)[25](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:26)
 
 La vérification visait à déterminer si Services publics et Approvisionnement Canada (SPAC) gérait et supervisait de façon efficace et efficiente la mise en œuvre du nouveau système de paye Phénix.
 
 Le rapport a conclu que « le projet Phénix a été un échec incompréhensible de gestion et de surveillance de projet. Les cadres responsables de Phénix ont donné la priorité à certains aspects, comme les limites du budget et le calendrier, au détriment d’autres aspects essentiels tels que la fonctionnalité et la sécurité. Les cadres responsables de Phénix n’ont pas saisi l’importance des mises en garde indiquant que le Centre des services de paye de Miramichi, les ministères et organismes et le nouveau système n’étaient pas prêts. Ils n’ont pas communiqué une information complète et exacte aux sous-ministres et aux sous-ministres délégués des ministères et organismes, y compris au sous-ministre de Services publics et Approvisionnement Canada, lorsqu’ils les ont informés de l’état de préparation de Phénix en vue de sa mise en œuvre. À notre avis, la décision des cadres responsables de Phénix de mettre en œuvre Phénix était déraisonnable, compte tenu de l’information qui était disponible à ce moment-là. Le système n’a donc pas répondu aux besoins des utilisateurs, a coûté au gouvernement fédéral des centaines de millions de dollars et a causé des difficultés financières à des dizaines de milliers de ses employés. »
 
-**8) Février 2020 – Présentation de 18F devant le [Michigan Senate Appropriations Committee](https://www.youtube.com/watch?v=g-h6CtSwk30)[26](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:27)**
+### 8) Février 2020 – Présentation de 18F devant le [Michigan Senate Appropriations Committee](https://www.youtube.com/watch?v=g-h6CtSwk30)[26](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:27)
 
 En février 2020, 18F (l’équivalent aux États-Unis du Service numérique canadien) a fait une présentation au Michigan Senate Appropriations Committee. 18F a été créé en 2014 par le programme Presidential Innovation Fellows (PIF, mis sur pied en 2012 par la Maison-Blanche) afin d’améliorer et de moderniser les technologies du gouvernement[27](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:28). La présentation portait sur l’approvisionnement technologique et les défis connexes. En bref, les ministères gouvernementaux ne sont pas en mesure d’encadrer adéquatement les problèmes en parties gérables et, par conséquent, s’engagent dans des contrats de longue durée, de grande envergure et complexes avec des fournisseurs.
 
-**9) [Delivering large-scale IT projects on time, on budget, and on value](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/delivering-large-scale-it-projects-on-time-on-budget-and-on-value?cid=soc-web), McKinsey Digital, 2012[28](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:29)**
+### 9) [Delivering large-scale IT projects on time, on budget, and on value](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/delivering-large-scale-it-projects-on-time-on-budget-and-on-value?cid=soc-web), McKinsey Digital, 2012[28](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:29)
 
 Selon une étude réalisée en 2012 par McKinsey Digital en collaboration avec l’université d’Oxford, 45 % des grands projets de TI (plus de 15 millions de dollars) visés dépassent le budget prévu et 7 % dépassent les échéanciers fixés, et ces projets offrent 56 % moins de valeur que ce qui était prévu. Les projets logiciels présentent le risque le plus élevé de dépassement des coûts et des échéanciers. L’étude a aussi permis de constater que plus un projet doit durer longtemps, plus il est probable qu’il dépasse le budget et le temps impartis. On y recommande quatre façons d’améliorer le rendement des projets, y compris la constitution d’équipes efficaces et le recours à des cycles de prestation de courte durée.
 
