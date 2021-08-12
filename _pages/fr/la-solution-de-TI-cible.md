@@ -7,6 +7,11 @@ status: Travaux en cours;primary
 sections: Stratégies
 permalink: /la-solution-de-TI-cible.html
 ---
+<!-- markdownlint-disable MD033 -->
+<!-- the below cSpell statement says to ignore any text between HTML tags. E.g. it will ignore "th rowspan='2'" in this string: <th rowspan='2'> -->
+<!-- cSpell:ignoreRegExp /\<[^\>]+\>/ -->
+
+<!-- The img + em {} stylecheet selector is a hack to add caption to an image in markdown without using plugin: https://stackoverflow.com/questions/19331362/using-an-image-caption-in-markdown-jekyll -->
 
 <style>
 table, th, td {
@@ -29,16 +34,16 @@ img + em { display: inline-block; }
 
 Table des matières
 
--   [Introduction](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#introduction)
-    - [Objet](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#purpose)
-    - [Public cible](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#target-audience)
-    - [Analyse de rentabilisation (contexte stratégique)](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#business-case-strategic-context)
+- [Introduction](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#introduction)
+  - [Objet](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#purpose)
+  - [Public cible](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#target-audience)
+  - [Analyse de rentabilisation (contexte stratégique)](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#business-case-strategic-context)
 - [Politique d’orientation](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#guiding-policy)
-    - [Gouvernance, conformité et rapports](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#governance-compliance-and-reporting)
-    - [Planification des capacités](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#capacity-planning)
-    - [Architecture](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#architecture)
-    - [Gestion de produits](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#product-management)
-    - [Développement et opérations (DevOps)](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#devops)
+  - [Gouvernance, conformité et rapports](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#governance-compliance-and-reporting)
+  - [Planification des capacités](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#capacity-planning)
+  - [Architecture](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#architecture)
+  - [Gestion de produits](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#product-management)
+  - [Développement et opérations (DevOps)](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#devops)
 - [Ensemble cohérent de mesures](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#coherent-set-of-actions)
 - [Mesurer la réussite de la stratégie](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#measuring-the-strategys-success)
 - [Approche en matière de mise en œuvre (en plusieurs étapes)](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#approach-to-implementation-multi-staged)
@@ -65,7 +70,7 @@ Cette stratégie vise à communiquer une décision du DPI (qui n’a pas encore 
 
 ### Public cible
 
-Le présent **document stratégique** s’adresse aux intervenants qui participent à la détermination de la façon dont les solutions de TI seront livrées. Plus précisément, elle s’adresse aux intervenants qui participent à la définition des règles d’acquisition (que ce soit par voie de conception, d’achat, d’adoption ou de configuration), la prestation, l’opérationnalisation et la maintenance des solutions de TI (voir l’[<Annexe D](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#appendix-d---definitions) pour connaître la signification des termes). Cela comprend les intervenants de la DGIIT et ceux qui ne font pas partie de la DGIIT, comme la DGDPF, la DGVIGRE, le BDPD et SPC. Vous dans l’[ensemble cohérent des mesures](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#coherent-set-of-actions) une liste des intervenants qui devraient participer à la mise en œuvre de cette stratégie.
+Le présent **document stratégique** s’adresse aux intervenants qui participent à la détermination de la façon dont les solutions de TI seront livrées. Plus précisément, elle s’adresse aux intervenants qui participent à la définition des règles d’acquisition (que ce soit par voie de conception, d’achat, d’adoption ou de configuration), la prestation, l’opérationnalisation et la maintenance des solutions de TI (voir l’[Annexe D](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#appendix-d---definitions) pour connaître la signification des termes). Cela comprend les intervenants de la DGIIT et ceux qui ne font pas partie de la DGIIT, comme la DGDPF, la DGVIGRE, le BDPD et SPC. Vous dans l’[ensemble cohérent des mesures](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#coherent-set-of-actions) une liste des intervenants qui devraient participer à la mise en œuvre de cette stratégie.
 
 Une fois mise en œuvre, la **politique d’orientation** ciblera les intervenants concernés lorsque des projets axés sur les TI seront conceptualisés et créés, que des solutions de TI seront conçues et que des produits de TI seront élaborés, livrés, mis en œuvre et mis à niveau. Tous les membres du personnel d’EDSC qui prennent part aux décisions d’investissement en TI devront respecter la présente politique d’orientation.
 
@@ -77,24 +82,24 @@ Le passage à l’ère numérique met en évidence l’omniprésence de la techn
 
 EDSC a besoin de **déploiements de production** pour obtenir les **données empiriques** nécessaires à la **prise de décisions fondées sur des données probantes**.
 
-EDSC n’est pas un nouveau ministère. Il a accumulé une [dette technique importante](https://www.oag-bvg.gc.ca/internet/Francais/parl_oag_201004_01_f_33714.html)[2](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:2) au cours de ses décennies d’activités, ce qui a une incidence sur la réactivité des TI. Le [portefeuille d’applications d’EDSC contient plus de 500 applications](https://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/ESDC%20IT%20Plan%202019-22%20-%20FINAL.pdf)[<sup>3</sup>](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:3), dont 101 sont essentielles à la mission et reposent sur des technologies existantes (applications personnalisées et ordinateurs centraux désuets). En réponse aux limites des systèmes de TI désuets, EDSC a commencé à investir dans un programme de [modernisation de la prestation des activités](https://www.canada.ca/fr/emploi-developpement-social/ministere/rapports/plan-ministeriel/2019-2020/resultats-prevus.html#h2.04)[4](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:4).
+EDSC n’est pas un nouveau ministère. Il a accumulé une [dette technique importante](https://www.oag-bvg.gc.ca/internet/Francais/parl_oag_201004_01_f_33714.html)[^2](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:2) au cours de ses décennies d’activités, ce qui a une incidence sur la réactivité des TI. Le [portefeuille d’applications d’EDSC contient plus de 500 applications](https://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/ESDC%20IT%20Plan%202019-22%20-%20FINAL.pdf)[^3](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:3), dont 101 sont essentielles à la mission et reposent sur des technologies existantes (applications personnalisées et ordinateurs centraux désuets). En réponse aux limites des systèmes de TI désuets, EDSC a commencé à investir dans un programme de [modernisation de la prestation des activités](https://www.canada.ca/fr/emploi-developpement-social/ministere/rapports/plan-ministeriel/2019-2020/resultats-prevus.html#h2.04)[^4](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:4).
 
-Toutefois, le recours aux TI est un investissement risqué et coûteux[5](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:5).
+Toutefois, le recours aux TI est un investissement risqué et coûteux[^5](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:5).
 
-La plupart des recommandations issues des audits externes[6](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:6) sur la réduction des risques liés aux investissements dans la technologie semblent viser une gouvernance plus solide et plus disciplinée. Il est essentiel de pouvoir prévoir plus précisément ce que nous réserve l’avenir, afin de réduire les risques liés à ce type d’investissements.
+La plupart des recommandations issues des audits externes[^6](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:6) sur la réduction des risques liés aux investissements dans la technologie semblent viser une gouvernance plus solide et plus disciplinée. Il est essentiel de pouvoir prévoir plus précisément ce que nous réserve l’avenir, afin de réduire les risques liés à ce type d’investissements.
 
 Toutefois, pour travailler efficacement dans le monde numérique, il faut d’abord accepter la complexité et l’incertitude, ce qui exige une approche très différente pour mener à bien toute initiative. Un monde prévisible récompense la planification précoce et l’exécution rigide des plans. À l’inverse, un monde complexe et incertain récompense un cycle empirique d’essai, d’observation et de correction.[7](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:7)
 
 Les méthodes actuelles de gestion des investissements en TI visent deux grands objectifs[8](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:8) :
 
-1.  Gestion des risques liés aux investissements en TI
-2.  Cibler les investissements là où il y a des avantages
+1. Gestion des risques liés aux investissements en TI
+2. Cibler les investissements là où il y a des avantages
 
-Cette stratégie vise à améliorer les deux objectifs susmentionnés en proposant de faire en sorte qu’EDSC soit en mesure de **déployer ses logiciels le jour même** et que cela devienne une pratique courante. Les avantages de petits déploiements fréquents au moyen de méthodes automatisées devraient permettre de réduire les risques[9](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:9), d’atténuer la dette technique, d’accroître la satisfaction des clients et de rehausser la confiance globale envers le ministère et son personnel. Cela est maintenant possible grâce à l’adoption de technologies infonuagiques et de pratiques DevOps.
+Cette stratégie vise à améliorer les deux objectifs susmentionnés en proposant de faire en sorte qu’EDSC soit en mesure de **déployer ses logiciels le jour même** et que cela devienne une pratique courante. Les avantages de petits déploiements fréquents au moyen de méthodes automatisées devraient permettre de réduire les risques[^9](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:9), d’atténuer la dette technique, d’accroître la satisfaction des clients et de rehausser la confiance globale envers le ministère et son personnel. Cela est maintenant possible grâce à l’adoption de technologies infonuagiques et de pratiques DevOps.
 
-Le passage au numérique permet de mettre davantage l’accent sur les données comme étant l’actif dont l’organisation se soucie. C’est grâce aux données que l’organisation recueillera de l’information et éclairera ses décisions en matière d’amélioration des services[10](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:10). Pour pouvoir apporter rapidement des changements sur le plan des logiciels, il faudra traiter les données comme un concept distinct, non pas dépendant des logiciels, mais plutôt interrelié à ceux-ci. Consultez l’annexe D (Définitions) pour connaître les liens qui existent entre une solution de TI, une application, un logiciel et des données.
+Le passage au numérique permet de mettre davantage l’accent sur les données comme étant l’actif dont l’organisation se soucie. C’est grâce aux données que l’organisation recueillera de l’information et éclairera ses décisions en matière d’amélioration des services[^10](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:10). Pour pouvoir apporter rapidement des changements sur le plan des logiciels, il faudra traiter les données comme un concept distinct, non pas dépendant des logiciels, mais plutôt interrelié à ceux-ci. Consultez l’annexe D (Définitions) pour connaître les liens qui existent entre une solution de TI, une application, un logiciel et des données.
 
-Bref, cette stratégie vise à modifier les conditions organisationnelles de sorte qu’EDSC puisse réussir sa transformation numérique[<sup><u>11</u></sup>](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:11).
+Bref, cette stratégie vise à modifier les conditions organisationnelles de sorte qu’EDSC puisse réussir sa transformation numérique[^11](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:11).
 
 Cette stratégie misera sur les initiatives de TI existantes (comme [La voie à suivre pour la DGIIT](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx), l’étude indépendante de PwC, le cadre des opérations infonuagiques et le programme de redressement de la dette technique), en les mettant à l’avant-plan et en y intégrant de nouvelles activités.
 
@@ -184,94 +189,294 @@ La présente politique d’orientation a été préparée en tenant compte de l�
 
 Les mesures suivantes doivent être prises pour que le modèle de prestation de la solution de TI cible soit opérationnel.
 
-<table><colgroup><col style="width: 17%" /><col style="width: 17%" /><col style="width: 27%" /><col style="width: 17%" /><col style="width: 19%" /></colgroup><thead><tr class="header"><th><strong>Catégorie de politique</strong></th><th><strong>Mesure</strong></th><th><strong>Description</strong></th><th><strong>Responsable</strong></th><th><strong>Collaborateur(s)</strong></th></tr></thead><tbody><tr class="odd"><td rowspan="8"><strong>Gouvernance</strong></td><td>Examiner la chaîne de décision de la gouvernance des projets de TI</td><td><p>Examiner le mandat des comités de gouvernance participant au CVGP du projet axé sur la TI et proposer des recommandations pour veiller au bon fonctionnement de l’état cible, p. ex. :</p><p>Délaisser les points de contrôle et miser sur la surveillance et la prise de correctifs</p><p>Permettre la prise de décisions automatique selon les conditions des balises (p. ex., petits changements aux produits de TI existants)</p></td><td><em><strong>Gouvernance de la DGIIT</strong></em></td><td>CDGSP<br />
-COGC<br />
-CEA<br />
-CEAI (peut-être)<br />
-CEPP<br />
-COPP<br />
-CDPIN<br />
-Stratégie de TI<br />
-DGDPF-GIPA</td></tr><tr class="even"><td>Ajuster le CVDL de la DGIIT</td><td>Ajuster le CVDL de la DGIIT afin de l’intégrer au nouveau cadre de gouvernance agile axé sur la TI.</td><td><em><strong>BGPDG</strong></em></td><td>Conseillers principaux</td></tr><tr class="odd"><td>Produire une norme sur les conditions de réception des projets axés sur la TI</td><td><p>Dresser une liste des conditions que les projets axés sur la TI doivent respecter avant qu’ils puissent être acceptés.</p><p>Les mesures des résultats opérationnels sont définies et approuvées par l’architecte en chef d’EDSC.</p><p>Le promoteur opérationnel s’engage à avoir au moins un expert en la matière pendant toute la durée du projet de TI.</p><p>Le parrain opérationnel s’engage à avoir au moins un expert en politiques pendant toute la durée du projet de TI.</p><p>Le parrain opérationnel s’engage à assurer la disponibilité d’un échantillon d’utilisateurs finaux tout au long du projet de TI.</p><p>Si les utilisateurs finaux sont des citoyens, il est recommandé de recourir à des groupes de discussion.</p><p>La DGIIT a désigné un seul responsable de la prestation de la solution de TI et de la transition aux opérations de mise en service.</p></td><td><em><strong>GSTI</strong></em></td><td>BGPDG<br />
-GRO<br />
-Architecture d’entreprise<br />
-Architecture opérationnelle<br />
-DGDPF-GIPA<br />
-BDPD</td></tr><tr class="even"><td>Produire un cadre de gouvernance agile pour les projets axés sur la TI.</td><td>Produire un cadre normalisé pour régir les projets axés sur la TI conformément au modèle de prestation de la solution de TI cible. Un cadre normalisé est nécessaire pour réduire la confusion, assurer la cohérence entre les équipes et veiller à ce que la gouvernance demeure fluide, afin d’offrir une marge de manœuvre en matière de souplesse. On s’attend à ce que les chaînes de valeur du développement soient définies à même ce cadre, tout comme les IRC dont il faudra rendre compte.<br />
-<br />
-Comme pour l’ébauche de l’expérience numérique et des données sur les clients (ENDC) de la MPA, <a href="https://014gc.sharepoint.com/:p:/r/sites/DECD/Shared%20Documents/Team%20-%20Digital%20Channel%20Strategy%20%26%20Oversight/Project%20Management%20Office/DECD%20Agile%20Governance.pptx?d=w831833ad477448d5bfa7662346319df6&amp;csf=1&amp;web=1&amp;e=CD3jWg"><u>vous trouverez de plus amples renseignements sur la gouvernance agile en cliquant ici</u></a>.</td><td><em><strong>BGPDG</strong></em></td><td>Conseillers principaux<br />
-Architecture d’entreprise<br />
-GRO<br />
-Gouvernance de la DGIIT<br />
-DGDPF-GIPA</td></tr><tr class="odd"><td>Produire un document d’orientation stratégique</td><td>Produire un document d’orientation à titre de document d’appui à la politique d’orientation du modèle de prestation de la solution de TI cible pour démontrer à quoi celle-ci ressemble et comment les équipes qui y participent peuvent s’y conformer.</td><td><em><strong>Stratégie de TI</strong></em></td><td>BGPDG<br />
-CEI<br />
-Conseillers principaux<br />
-GRO<br />
-DGDPF-GIPA</td></tr><tr class="even"><td>Produire des mesures de développement normalisées pour les équipes DevOps.</td><td><p>Dresser une liste des mesures de développement minimales que les équipes DevOps doivent publier. L’objectif de ces mesures est de fournir un aperçu de la maturité du développement des équipes et des niveaux d’assurance de la qualité des produits de TI avant qu’ils soient mis en production, p. ex. :</p><p>Résultats des essais d’accessibilité</p><p>Résultats des essais d’intégration</p><p>Résultats des essais de sécurité</p><p>Pistes de vérification du déploiement de production</p><p>Arriéré des produits de TI faisant partie de la cadence de l’équipe DevOps</p><p>Délai moyen d’examen des demandes de retrait</p><p>Résultats des essais de rendement</p></td><td><em><strong>Équipe de gestion du changement (MPSC)</strong></em></td><td>Conseillers principaux<br />
-STN<br />
-Interopérabilité<br />
-BGPDG<br />
-Recherche et prototype<br />
-CEI</td></tr><tr class="odd"><td>Produire des mesures de production normalisées pour les produits de TI.</td><td><p>Dresser une liste des mesures de production minimales que les produits de TI doivent publier. Ces mesures visent à fournir un aperçu de la santé et des comportements des produits de TI une fois en production. Ces données permettront de continuer d’améliorer les produits de TI, p. ex. :</p><p>Statistiques sur la consommation d’IPA</p><p>Statistiques sur la disponibilité des produits de TI</p><p>Efficacité et efficience des décisions automatisées des produits de TI (s’il y a lieu)</p></td><td><em><strong>Équipe de gestion du changement (MPSC)</strong></em></td><td>Conseillers principaux<br />
-STN<br />
-Interopérabilité<br />
-BGPDG<br />
-Recherche et prototype<br />
-CEI</td></tr><tr class="even"><td>Produire une définition normalisée pour le terme « équipe DevOps ».</td><td>Produire une définition normalisée énumérant les exigences minimales, les rôles et les responsabilités pour qu’une équipe puisse être qualifiée « d’équipe DevOps ». Cela permet de réduire la confusion et l’utilisation erronée du terme puisque la politique d’orientation accorde plus de pouvoirs à ces équipes.<br />
-<br />
-<a href="https://sara-sabr.github.io/ITStrategy/assets/files/standard-devops-team-definition.docx"><u>Ébauche (document principal sur Office 365 mis à la disposition du personnel d’EDSC)</u></a>.</td><td><em><strong>Équipe de gestion du changement (MPSC)</strong></em></td><td>BGPDG<br />
-CEI<br />
-Conseillers principaux<br />
-Recherche et prototype<br />
-Interopérabilité<br />
-STN</td></tr><tr class="odd"><td rowspan="5"><strong>Conformité</strong></td><td>Produire un processus d’EAS cible.</td><td>Produire un processus d’EAS cible qui favorise et encourage les capacités d’automatisation du développement et des opérations (DevOps), les résultats des essais, l’évolution des produits et l’établissement d’un pipeline DevOps fiable.</td><td><em><strong>Sécurité des TI</strong></em></td><td>Unité de la conformité de la DGIIT<br />
-Conseillers principaux</td></tr><tr class="even"><td>Produire une méthodologie d’évaluation financière cible.</td><td>Produire une méthodologie d’évaluation financière cible qui favorise et encourage les capacités d’automatisation DevOps, les résultats des essais et l’évolution des produits.<br />
-Les processus de vérification visés comprennent la vérification interne d’EDSC et non les entités de vérification externe.</td><td><em><strong>DGVIGRE</strong></em></td><td>Unité de la conformité de la DGIIT<br />
-Conseillers principaux<br />
-DGDPF-DIRCM</td></tr><tr class="odd"><td>Produire une méthodologie d’évaluation de l’accessibilité cible.</td><td>Produire une méthodologie d’évaluation de l’accessibilité cible qui favorise et encourage les capacités d’automatisation DevOps, les résultats des essais et l’évolution des produits.</td><td><em><strong>Accessibilité</strong></em></td><td>BGPDG<br />
-Conseillers principaux</td></tr><tr class="even"><td>Produire une méthodologie d’évaluation du SDA cible.</td><td>Produire une méthodologie d’évaluation du système décisionnel automatisé cible pour s’assurer que tout logiciel doté de fonctionnalités de prise de décisions automatisée est conforme à la Directive sur la prise de décisions automatisée, y compris les contrôles relatifs à la vie privée et juridiques qui peuvent être automatisés.</td><td><em><strong>CEIA</strong></em></td><td>BDPD<br />
-Division de la gestion de la protection des renseignements personnels<br />
-Services juridiques</td></tr><tr class="odd"><td>Produire des directives et des normes sur les essais automatisés.</td><td>Guider les équipes DevOps dans le recours aux essais automatisés pour les différents types d’essais visés. Élaborer des normes sur les seuils acceptables pour l’automatisation des versions des applications entre les environnements (jusqu’à l’étape de la production inclusivement).</td><td><em><strong>Équipe de gestion du changement (MPSC)</strong></em></td><td>Sécurité des TI<br />
-Accessibilité<br />
-Services d’essai<br />
-Conseillers principaux</td></tr><tr class="even"><td rowspan="5"><strong>Architecture</strong></td><td>Passer en revue les briques techniques</td><td>Revoir le processus de gestion des briques techniques pour permettre aux équipes des produits de TI d’adopter des combinaisons de technologies atypiques, en plus de recommander des normes émergentes. Évaluer les conditions et les responsabilités des intervenants en ce qui concerne les combinaisons de technologies atypiques, ainsi que lorsque les besoins d’approbation sont justifiés.</td><td><em><strong>Architecture technique</strong></em></td><td>GTNT<br />
-CEI<br />
-COGC<br />
-Stratégie de TI<br />
-Conseillers principaux<br />
-CEAI</td></tr><tr class="odd"><td>Définir le processus d’approbation des IPA</td><td>Définir officiellement le processus d’approbation des IPA pour permettre aux équipes DevOps d’exposer la fonctionnalité et les données de leurs produits au moyen d’IPA sécurisées. Fournir les normes auxquelles les équipes DevOps doivent se conformer lors de la diffusion d’IPA sécurisées, comme les formats d’échange de données, les modèles de données de référence, les contrôles de sécurité et les <a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32604"><u>procédures obligatoires relatives aux évaluations d’IPA</u></a> (Directive sur les services et le numérique).</td><td><em><strong>Interopérabilité</strong></em></td><td>Architecture d’entreprise<br />
-Architecture de solutions<br />
-BDPD</td></tr><tr class="even"><td>Définir la vision de l’architecture cible pour les environnements existants.</td><td>Définir la vision de l’architecture cible pour les environnements existants afin de faciliter la transition vers la MPA et le modèle de prestation de la solution de TI cible. La vision de l’architecture cible consiste à fournir une orientation et à établir des attentes raisonnables pour les équipes DevOps dans un environnement existant. Son contenu vise à fournir un aperçu conceptuel des architectures multicouches (présentation, intégration, systèmes/applications, informations/données, réseautage et sécurité) et des architectures de référence que les équipes de projet peuvent mettre en œuvre (voir les <a href="https://dzone.com/articles/monolith-to-microservices-using-the-strangler-patt"><u>schémas en goulot d’étranglement</u></a>).</td><td><em><strong>Architecture d’entreprise</strong></em></td><td>Dette technique<br />
-Architecture de solutions<br />
-Architecture technique<br />
-Avantages BSI et solutions de gestion des cas</td></tr><tr class="odd"><td>Produire la liste normalisée des applications existantes d’EDSC</td><td>Produire une liste officielle des applications réputées « héritées » du portefeuille de la GPA. Cette liste normalisée est utilisée par l’énoncé de politique directeur de la 7<sup>e</sup> architecture.</td><td><em><strong>Architecture d’entreprise</strong></em></td><td>Dette technique</td></tr><tr class="even"><td>Produire un document d’orientation de l’architecture de couplage libre.</td><td>Produire un document d’orientation pour éclairer et guider les équipes d’architectes et DevOps dans l’élaboration de solutions de TI au moyen de principes d’architecture de couplage libre, qui assurent aux équipes DevOps une plus grande autonomie. Il existe deux éléments propres au couplage libre qu’il faudra aborder :<br />
-<br />
-1. Entre les composantes logicielles qui constituent une application (p. ex., adoption des principes propres aux <a href="https://www.martinfowler.com/microservices/"><u>micro-services</u></a> et à l’<a href="https://12factor.net/"><u>application 12 facteurs</u></a>).<br />
-2. Entre l’application et les données de l’organisation (p. ex., adoption de <a href="https://cloud.google.com/architecture/devops/devops-tech-database-change-management"><u>pratiques de gestion des changements aux bases de données</u></a> pour les processus DevOps, instauration de <a href="https://www.gartner.com/document/3895919"><u>couches d’accès aux données</u></a> aux équipes DevOps).<br />
-<br />
-Le document d’orientation devrait inclure des modèles d’architecture et de conception, des principes et des sources de bribes de code réutilisables qui permettront de satisfaire aux attentes en matière de gestion de données.</td><td><em><strong>Architecture de solutions</strong></em></td><td>SDA<br />
-BDPD<br />
-Conseillers principaux<br />
-Interopérabilité</td></tr><tr class="odd"><td rowspan="3"><strong>Gestion de produits</strong></td><td>Produire un modèle de prêt d’équipe.</td><td>Collaborer avec le Centre des ressources pour offrir un autre moyen de déployer des ressources dans le cadre de projets, un moyen qui favorise les petites équipes multidisciplinaires dédiées et non les personnes, ainsi que créer des équipes habilitantes responsables d’accélérer la transition des autres équipes vers les processus DevOps (voir la définition d’« équipe DevOps » et les différents types d’équipes).</td><td><em><strong>Centre de ressources</strong></em></td><td>Conseillers principaux<br />
-STN<br />
-Interopérabilité</td></tr><tr class="even"><td>Classifier les produits de TI et leurs responsables.</td><td>Classifier la liste officielle des produits de TI offerts et désigner un seul responsable pour chaque produit.</td><td><em><strong>À DÉT.</strong></em></td><td>Dette technique (GPA)<br />
-Architecture d’entreprise</td></tr><tr class="odd"><td>Créer un modèle matriciel de bassin de ressources.</td><td>Créer un modèle permettant d’affecter des ressources spécialisées, des champions ou des experts aux équipes DevOps.</td><td><em><strong>Équipe de gestion du changement (MPSC)</strong></em></td><td>Centre de ressources<br />
-Sécurité des TI<br />
-Accessibilité<br />
-Services d’essai<br />
-CEI</td></tr><tr class="even"><td rowspan="4"><strong>Développement et opérations (DevOps)</strong></td><td>Obtenir l’approbation de SPC.</td><td>Collaborer avec SPC en vue d’obtenir son approbation pour permettre le déploiement direct dans l’environnement de production (modèle de déploiement sur les lieux).</td><td><em><strong>Équipe de gestion du changement (MPSC)</strong></em></td><td>Sécurité des TI<br />
-SPC</td></tr><tr class="odd"><td>Produire des critères normalisés de gestion des changements.</td><td><p>Produire des critères normalisés de gestion des changements auxquels tous les pipelines doivent se conformer, à tout le moins, avant de pouvoir promouvoir automatiquement le code dans les environnements de préproduction et de production, p. ex. :</p><p>Axé sur les produits de TI (c.‑à‑d. GUI, IPA, prise de décisions automatisée)</p><p>Diffusions majeures ou mineures et niveaux d’approbation requis</p><p>Points de contrôle pour faire approuver la diffusion automatisée</p></td><td><em><strong>Équipe de gestion du changement (MPSC)</strong></em></td><td>Sécurité des TI<br />
-Accessibilité<br />
-Services d’essai<br />
-CEAI<br />
-Unité de la conformité de la DGIIT</td></tr><tr class="even"><td>Élaborer les lignes directrices ConOps-DevOps.</td><td>Élaborer des lignes directrices ConOps-DevOps, y compris des processus et des normes de diffusion, sur la diffusion du code de l’étape de l’engagement à celle de la production (p. ex., environnement de préproduction, modèle bleu-vert).</td><td><em><strong>CEI</strong></em></td><td>Conseillers principaux de la DGIIT<br />
-Sécurité des TI<br />
-BGPDG<br />
-Opérations infonuagiques</td></tr><tr class="odd"><td>Fournir aux équipes DevOps des moyens d’expérimenter de nouveaux outils.</td><td>Tirer parti du laboratoire SAFER, de l’image de bureau virtuel et des normes d’architecture technique pour offrir aux équipes DevOps des moyens d’installer et de mettre à l’essai de nouveaux outils novateurs à des fins d’expérimentation, en vue d’apporter éventuellement des mises à jour rapides aux briques techniques.</td><td><em><strong>Recherche et prototype en matière de TI</strong></em></td><td>CEI<br />
-Recherche et prototype<br />
-Sécurité des TI<br />
-Environnement de TI<br />
-GTNT</td></tr></tbody></table>
+<table>
+    <colgroup>
+        <col style="width: 17%" />
+        <col style="width: 17%" />
+        <col style="width: 27%" />
+        <col style="width: 17%" />
+        <col style="width: 19%" />
+    </colgroup>
+    <thead>
+    <tr class="header">
+        <th><strong>Catégorie de politique</strong></th>
+        <th><strong>Mesure</strong></th>
+        <th><strong>Description</strong></th>
+        <th><strong>Responsable</strong></th>
+        <th><strong>Collaborateur(s)</strong></th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr class="odd">
+    <td rowspan="8"><strong>Gouvernance</strong></td>
+    <td>Examiner la chaîne de décision de la gouvernance des projets de TI</td>
+    <td><p>Examiner le mandat des comités de gouvernance participant au CVGP du projet axé sur la TI et proposer des recommandations pour veiller au bon fonctionnement de l’état cible, p. ex. :</p><p>Délaisser les points de contrôle et miser sur la surveillance et la prise de correctifs</p><p>Permettre la prise de décisions automatique selon les conditions des balises (p. ex., petits changements aux produits de TI existants)</p></td>
+    <td><em><strong>Gouvernance de la DGIIT</strong></em></td>
+    <td>CDGSP<br />
+    COGC<br />
+    CEA<br />
+    CEAI (peut-être)<br />
+    CEPP<br />
+    COPP<br />
+    CDPIN<br />
+    Stratégie de TI<br />
+    DGDPF-GIPA</td>
+    </tr>
+    <tr class="even">
+    <td>Ajuster le CVDL de la DGIIT</td>
+    <td>Ajuster le CVDL de la DGIIT afin de l’intégrer au nouveau cadre de gouvernance agile axé sur la TI.</td>
+    <td><em><strong>BGPDG</strong></em></td>
+    <td>Conseillers principaux</td>
+    </tr>
+    <tr class="odd">
+    <td>Produire une norme sur les conditions de réception des projets axés sur la TI</td>
+    <td><p>Dresser une liste des conditions que les projets axés sur la TI doivent respecter avant qu’ils puissent être acceptés.</p>
+    <p>Les mesures des résultats opérationnels sont définies et approuvées par l’architecte en chef d’EDSC.</p>
+    <p>Le promoteur opérationnel s’engage à avoir au moins un expert en la matière pendant toute la durée du projet de TI.</p>
+    <p>Le parrain opérationnel s’engage à avoir au moins un expert en politiques pendant toute la durée du projet de TI.</p>
+    <p>Le parrain opérationnel s’engage à assurer la disponibilité d’un échantillon d’utilisateurs finaux tout au long du projet de TI.</p><p>Si les utilisateurs finaux sont des citoyens, il est recommandé de recourir à des groupes de discussion.</p>
+    <p>La DGIIT a désigné un seul responsable de la prestation de la solution de TI et de la transition aux opérations de mise en service.</p></td>
+    <td><em><strong>GSTI</strong></em></td>
+    <td>BGPDG<br />
+    GRO<br />
+    Architecture d’entreprise<br />
+    Architecture opérationnelle<br />
+    DGDPF-GIPA<br />
+    BDPD</td>
+    </tr>
+    <tr class="even">
+    <td>Produire un cadre de gouvernance agile pour les projets axés sur la TI.</td>
+    <td>Produire un cadre normalisé pour régir les projets axés sur la TI conformément au modèle de prestation de la solution de TI cible. Un cadre normalisé est nécessaire pour réduire la confusion, assurer la cohérence entre les équipes et veiller à ce que la gouvernance demeure fluide, afin d’offrir une marge de manœuvre en matière de souplesse.
+    On s’attend à ce que les chaînes de valeur du développement soient définies à même ce cadre, tout comme les IRC dont il faudra rendre compte.<br />
+    <br />
+    Comme pour l’ébauche de l’expérience numérique et des données sur les clients (ENDC) de la MPA, <a href="https://014gc.sharepoint.com/:p:/r/sites/DECD/Shared%20Documents/Team%20-%20Digital%20Channel%20Strategy%20%26%20Oversight/Project%20Management%20Office/DECD%20Agile%20Governance.pptx?d=w831833ad477448d5bfa7662346319df6&amp;csf=1&amp;web=1&amp;e=CD3jWg"><u>vous trouverez de plus amples renseignements sur la gouvernance agile en cliquant ici</u></a>.</td>
+    <td><em><strong>BGPDG</strong></em></td>
+    <td>Conseillers principaux<br />
+    Architecture d’entreprise<br />
+    GRO<br />
+    Gouvernance de la DGIIT<br />
+    DGDPF-GIPA</td>
+    </tr>
+    <tr class="odd">
+    <td>Produire un document d’orientation stratégique</td>
+    <td>Produire un document d’orientation à titre de document d’appui à la politique d’orientation du modèle de prestation de la solution de TI cible pour démontrer à quoi celle-ci ressemble et comment les équipes qui y participent peuvent s’y conformer.
+    </td>
+    <td><em><strong>Stratégie de TI</strong></em></td>
+    <td>BGPDG<br />
+    CEI<br />
+    Conseillers principaux<br />
+    GRO<br />
+    DGDPF-GIPA</td>
+    </tr>
+    <tr class="even">
+    <td>Produire des mesures de développement normalisées pour les équipes DevOps.</td>
+    <td><p>Dresser une liste des mesures de développement minimales que les équipes DevOps doivent publier. L’objectif de ces mesures est de fournir un aperçu de la maturité du développement des équipes et des niveaux d’assurance de la qualité des produits de TI avant qu’ils soient mis en production, p. ex. :</p>
+    <p>Résultats des essais d’accessibilité</p>
+    <p>Résultats des essais d’intégration</p>
+    <p>Résultats des essais de sécurité</p>
+    <p>Pistes de vérification du déploiement de production</p>
+    <p>Arriéré des produits de TI faisant partie de la cadence de l’équipe DevOps</p>
+    <p>Délai moyen d’examen des demandes de retrait</p>
+    <p>Résultats des essais de rendement</p>
+    </td>
+    <td><em><strong>Équipe de gestion du changement (MPSC)</strong></em></td>
+    <td>Conseillers principaux<br />
+    STN<br />
+    Interopérabilité<br />
+    BGPDG<br />
+    Recherche et prototype<br />
+    CEI</td>
+    </tr>
+    <tr class="odd">
+    <td>Produire des mesures de production normalisées pour les produits de TI.</td>
+    <td><p>Dresser une liste des mesures de production minimales que les produits de TI doivent publier. Ces mesures visent à fournir un aperçu de la santé et des comportements des produits de TI une fois en production.
+    Ces données permettront de continuer d’améliorer les produits de TI, p. ex. :</p>
+    <p>Statistiques sur la consommation d’IPA</p>
+    <p>Statistiques sur la disponibilité des produits de TI</p>
+    <p>Efficacité et efficience des décisions automatisées des produits de TI (s’il y a lieu)</p></td>
+    <td><em><strong>Équipe de gestion du changement (MPSC)</strong></em></td>
+    <td>Conseillers principaux<br />
+    STN<br />
+    Interopérabilité<br />
+    BGPDG<br />
+    Recherche et prototype<br />
+    CEI</td>
+    </tr>
+    <tr class="even">
+    <td>Produire une définition normalisée pour le terme « équipe DevOps ».</td>
+    <td>Produire une définition normalisée énumérant les exigences minimales, les rôles et les responsabilités pour qu’une équipe puisse être qualifiée « d’équipe DevOps ». Cela permet de réduire la confusion et l’utilisation erronée du terme puisque la politique d’orientation accorde plus de pouvoirs à ces équipes.<br />
+    <br />
+    <a href="{{ site.baseurl }}/assets/files/standard-devops-team-definition.docx">Ébauche (document principal sur Office 365 mis à la disposition du personnel d’EDSC, anglais seulement)</a>.</td>
+    <td><em><strong>Équipe de gestion du changement (MPSC)</strong></em></td>
+    <td>BGPDG<br />
+    CEI<br />
+    Conseillers principaux<br />
+    Recherche et prototype<br />
+    Interopérabilité<br />
+    STN</td>
+    </tr>
+    <tr class="odd">
+    <td rowspan="5"><strong>Conformité</strong></td>
+    <td>Produire un processus d’EAS cible.</td>
+    <td>Produire un processus d’EAS cible qui favorise et encourage les capacités d’automatisation du développement et des opérations (DevOps), les résultats des essais, l’évolution des produits et l’établissement d’un pipeline DevOps fiable.
+    </td>
+    <td><em><strong>Sécurité des TI</strong></em></td>
+    <td>Unité de la conformité de la DGIIT<br />
+    Conseillers principaux</td>
+    </tr>
+    <tr class="even">
+    <td>Produire une méthodologie d’évaluation financière cible.</td>
+    <td>Produire une méthodologie d’évaluation financière cible qui favorise et encourage les capacités d’automatisation DevOps, les résultats des essais et l’évolution des produits.<br />
+    Les processus de vérification visés comprennent la vérification interne d’EDSC et non les entités de vérification externe.
+    </td>
+    <td><em><strong>DGVIGRE</strong></em></td>
+    <td>Unité de la conformité de la DGIIT<br />
+    Conseillers principaux<br />
+    DGDPF-DIRCM</td>
+    </tr>
+    <tr class="odd">
+    <td>Produire une méthodologie d’évaluation de l’accessibilité cible.</td><
+    td>Produire une méthodologie d’évaluation de l’accessibilité cible qui favorise et encourage les capacités d’automatisation DevOps, les résultats des essais et l’évolution des produits.</td>
+    <td><em><strong>Accessibilité</strong></em></td>
+    <td>BGPDG<br />
+    Conseillers principaux</td>
+    </tr>
+    <tr class="even"><td>Produire une méthodologie d’évaluation du SDA cible.</td>
+    <td>Produire une méthodologie d’évaluation du système décisionnel automatisé cible pour s’assurer que tout logiciel doté de fonctionnalités de prise de décisions automatisée est conforme à la Directive sur la prise de décisions automatisée, y compris les contrôles relatifs à la vie privée et juridiques qui peuvent être automatisés.</td>
+    <td><em><strong>CEIA</strong></em></td>
+    <td>BDPD<br />
+    Division de la gestion de la protection des renseignements personnels<br />
+    Services juridiques</td>
+    </tr>
+    <tr class="odd">
+    <td>Produire des directives et des normes sur les essais automatisés.</td>
+    <td>Guider les équipes DevOps dans le recours aux essais automatisés pour les différents types d’essais visés. Élaborer des normes sur les seuils acceptables pour l’automatisation des versions des applications entre les environnements (jusqu’à l’étape de la production inclusivement).</td>
+    <td><em><strong>Équipe de gestion du changement (MPSC)</strong></em></td>
+    <td>Sécurité des TI<br />
+    Accessibilité<br />
+    Services d’essai<br />
+    Conseillers principaux</td>
+    </tr>
+    <tr class="even">
+    <td rowspan="5"><strong>Architecture</strong></td>
+    <td>Passer en revue les briques techniques</td>
+    <td>Revoir le processus de gestion des briques techniques pour permettre aux équipes des produits de TI d’adopter des combinaisons de technologies atypiques, en plus de recommander des normes émergentes.
+    Évaluer les conditions et les responsabilités des intervenants en ce qui concerne les combinaisons de technologies atypiques, ainsi que lorsque les besoins d’approbation sont justifiés.</td>
+    <td><em><strong>Architecture technique</strong></em></td>
+    <td>GTNT<br />
+    CEI<br />
+    COGC<br />
+    Stratégie de TI<br />
+    Conseillers principaux<br />
+    CEAI</td>
+    </tr>
+    <tr class="odd">
+    <td>Définir le processus d’approbation des IPA</td>
+    <td>Définir officiellement le processus d’approbation des IPA pour permettre aux équipes DevOps d’exposer la fonctionnalité et les données de leurs produits au moyen d’IPA sécurisées. Fournir les normes auxquelles les équipes DevOps doivent se conformer lors de la diffusion d’IPA sécurisées, comme les formats d’échange de données, les modèles de données de référence, les contrôles de sécurité et les <a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32604">procédures obligatoires relatives aux évaluations d’IPA</a> (Directive sur les services et le numérique).</td>
+    <td><em><strong>Interopérabilité</strong></em></td>
+    <td>Architecture d’entreprise<br />
+    Architecture de solutions<br />
+    BDPD</td>
+    </tr>
+    <tr class="even">
+    <td>Définir la vision de l’architecture cible pour les environnements existants.</td>
+    <td>Définir la vision de l’architecture cible pour les environnements existants afin de faciliter la transition vers la MPA et le modèle de prestation de la solution de TI cible.
+    La vision de l’architecture cible consiste à fournir une orientation et à établir des attentes raisonnables pour les équipes DevOps dans un environnement existant. Son contenu vise à fournir un aperçu conceptuel des architectures multicouches (présentation, intégration, systèmes/applications, informations/données, réseautage et sécurité) et des architectures de référence que les équipes de projet peuvent mettre en œuvre (voir les <a href="https://dzone.com/articles/monolith-to-microservices-using-the-strangler-patt">schémas en goulot d’étranglement (anglais seulement)</a>).</td>
+    <td><em><strong>Architecture d’entreprise</strong></em></td>
+    <td>Dette technique<br />
+    Architecture de solutions<br />
+    Architecture technique<br />
+    Avantages BSI et solutions de gestion des cas</td>
+    </tr>
+    <tr class="odd">
+    <td>Produire la liste normalisée des applications existantes d’EDSC</td>
+    <td>Produire une liste officielle des applications réputées « héritées » du portefeuille de la GPA. Cette liste normalisée est utilisée par l’énoncé de politique directeur de la 7<sup>e</sup> architecture.</td>
+    <td><em><strong>Architecture d’entreprise</strong></em></td>
+    <td>Dette technique</td>
+    </tr>
+    <tr class="even">
+    <td>Produire un document d’orientation de l’architecture de couplage libre.</td>
+    <td>Produire un document d’orientation pour éclairer et guider les équipes d’architectes et DevOps dans l’élaboration de solutions de TI au moyen de principes d’architecture de couplage libre, qui assurent aux équipes DevOps une plus grande autonomie.
+    Il existe deux éléments propres au couplage libre qu’il faudra aborder :<br />
+    <br />
+   1. Entre les composantes logicielles qui constituent une application (p. ex., adoption des principes propres aux <a href="https://www.martinfowler.com/microservices/">micro-services (anglais seulement)</a> et à l’<a href="https://12factor.net/">application 12 facteurs (anglais seulement)</a>).<br />
+   2. Entre l’application et les données de l’organisation (p. ex., adoption de <a href="https://cloud.google.com/architecture/devops/devops-tech-database-change-management">pratiques de gestion des changements aux bases de données (anglais seulement)</a> pour les processus DevOps, instauration de <a href="https://www.gartner.com/document/3895919">couches d’accès aux données (anglais seulement)</a> aux équipes DevOps).<br />
+    <br />
+    Le document d’orientation devrait inclure des modèles d’architecture et de conception, des principes et des sources de bribes de code réutilisables qui permettront de satisfaire aux attentes en matière de gestion de données.</td>
+    <td><em><strong>Architecture de solutions</strong></em></td>
+    <td>SDA<br />
+    BDPD<br />
+    Conseillers principaux<br />
+    Interopérabilité</td>
+    </tr>
+    <tr class="odd">
+    <td rowspan="3"><strong>Gestion de produits</strong></td>
+    <td>Produire un modèle de prêt d’équipe.</td>
+    <td>Collaborer avec le Centre des ressources pour offrir un autre moyen de déployer des ressources dans le cadre de projets, un moyen qui favorise les petites équipes multidisciplinaires dédiées et non les personnes, ainsi que créer des équipes habilitantes responsables d’accélérer la transition des autres équipes vers les processus DevOps (voir la définition d’« équipe DevOps » et les différents types d’équipes).</td>
+    <td><em><strong>Centre de ressources</strong></em></td>
+    <td>Conseillers principaux<br />
+    STN<br />
+    Interopérabilité</td>
+    </tr>
+    <tr class="even">
+    <td>Classifier les produits de TI et leurs responsables.</td>
+    <td>Classifier la liste officielle des produits de TI offerts et désigner un seul responsable pour chaque produit.
+    </td>
+    <td><em><strong>À DÉT.</strong></em></td>
+    <td>Dette technique (GPA)<br />
+    Architecture d’entreprise</td>
+    </tr>
+    <tr class="odd">
+    <td>Créer un modèle matriciel de bassin de ressources.</td>
+    <td>Créer un modèle permettant d’affecter des ressources spécialisées, des champions ou des experts aux équipes DevOps.
+    </td>
+    <td><em><strong>Équipe de gestion du changement (MPSC)</strong></em></td>
+    <td>Centre de ressources<br />
+    Sécurité des TI<br />
+    Accessibilité<br />
+    Services d’essai<br />
+    CEI</td>
+    </tr>
+    <tr class="even"><td rowspan="4"><strong>Développement et opérations (DevOps)</strong></td>
+    <td>Obtenir l’approbation de SPC.</td>
+    <td>Collaborer avec SPC en vue d’obtenir son approbation pour permettre le déploiement direct dans l’environnement de production (modèle de déploiement sur les lieux).</td>
+    <td><em><strong>Équipe de gestion du changement (MPSC)</strong></em></td>
+    <td>Sécurité des TI<br />
+    SPC</td>
+    </tr>
+    <tr class="odd">
+    <td>Produire des critères normalisés de gestion des changements.</td>
+    <td><p>Produire des critères normalisés de gestion des changements auxquels tous les pipelines doivent se conformer, à tout le moins, avant de pouvoir promouvoir automatiquement le code dans les environnements de préproduction et de production, p. ex. :</p><p>Axé sur les produits de TI (c.‑à‑d. GUI, IPA, prise de décisions automatisée)</p>
+    <p>Diffusions majeures ou mineures et niveaux d’approbation requis</p>
+    <p>Points de contrôle pour faire approuver la diffusion automatisée</p></td>
+    <td><em><strong>Équipe de gestion du changement (MPSC)</strong></em></td>
+    <td>Sécurité des TI<br />
+    Accessibilité<br />
+    Services d’essai<br />
+    CEAI<br />
+    Unité de la conformité de la DGIIT</td>
+    </tr>
+    <tr class="even">
+    <td>Élaborer les lignes directrices ConOps-DevOps.</td>
+    <td>Élaborer des lignes directrices ConOps-DevOps, y compris des processus et des normes de diffusion, sur la diffusion du code de l’étape de l’engagement à celle de la production (p. ex., environnement de préproduction, modèle bleu-vert).</td>
+    <td><em><strong>CEI</strong></em></td>
+    <td>Conseillers principaux de la DGIIT<br />
+    Sécurité des TI<br />
+    BGPDG<br />
+    Opérations infonuagiques</td>
+    </tr>
+    <tr class="odd">
+    <td>Fournir aux équipes DevOps des moyens d’expérimenter de nouveaux outils.</td>
+    <td>Tirer parti du laboratoire SAFER, de l’image de bureau virtuel et des normes d’architecture technique pour offrir aux équipes DevOps des moyens d’installer et de mettre à l’essai de nouveaux outils novateurs à des fins d’expérimentation, en vue d’apporter éventuellement des mises à jour rapides aux briques techniques.</td>
+    <td><em><strong>Recherche et prototype en matière de TI</strong></em></td>
+    <td>CEI<br />
+    Recherche et prototype<br />
+    Sécurité des TI<br />
+    Environnement de TI<br />
+    GTNT</td>
+    </tr>
+    </tbody>
+</table>
 
 ### Mesurer la réussite de la stratégie
 
@@ -279,27 +484,70 @@ Le succès de cette stratégie sera mesuré en comparant les mesures suivantes �
 
 Les mesures sont définies comme suit :
 
-1.  *Délai d’exécution des changements *: temps nécessaire pour modifier le code, de l’étape de la vérification à celle de la mise en production
-2.  *Fréquence de déploiement :* fréquence à laquelle le logiciel est déployé dans l’environnement de production ou diffusé aux utilisateurs finaux
-3.  *Échec des changements *: taux d’échec des changements, mesuré selon la fréquence des échecs de déploiement dans l’environnement de production, nécessitant une correction immédiate
-4.  *Délai de reprise *: temps qui s’écoule entre la détection d’un incident ayant une incidence sur les utilisateurs et la prise de correctifs
-5.  *Satisfaction des clients *: niveau général de satisfaction des clients à l’égard des applications faisant partie du portefeuille de la GPA et des produits de TI
+1. *Délai d’exécution des changements*: temps nécessaire pour modifier le code, de l’étape de la vérification à celle de la mise en production
+2. *Fréquence de déploiement :* fréquence à laquelle le logiciel est déployé dans l’environnement de production ou diffusé aux utilisateurs finaux
+3. *Échec des changements*: taux d’échec des changements, mesuré selon la fréquence des échecs de déploiement dans l’environnement de production, nécessitant une correction immédiate
+4. *Délai de reprise*: temps qui s’écoule entre la détection d’un incident ayant une incidence sur les utilisateurs et la prise de correctifs
+5. *Satisfaction des clients*: niveau général de satisfaction des clients à l’égard des applications faisant partie du portefeuille de la GPA et des produits de TI
 
-<table><colgroup><col style="width: 19%" /><col style="width: 39%" /><col style="width: 41%" /></colgroup><thead><tr class="header"><th rowspan="2"><strong>Mesure</strong></th><th colspan="2"><strong>Méthode de collecte</strong></th></tr><tr class="odd"><th><strong>Modèle cible</strong></th><th><strong>Modèle conventionnel</strong></th></tr></thead><tbody><tr class="odd"><td>1. Délai d’exécution des changements</td><td><em>Automatique</em><br />
-Utiliser les mesures du pipeline propre à l’équipe DevOps</td><td><em>Manuelle</em><br />
-Utiliser les statistiques de l’équipe responsable de la version, conformément à la demande de changement</td></tr><tr class="even"><td>2. Fréquence de déploiement</td><td><em>Automatique</em><br />
-Utiliser les pipelines de livraison continue de l’équipe DevOps</td><td><em>Manuelle</em><br />
-Utiliser les mesures de l’équipe responsable du processus de diffusion</td></tr><tr class="odd"><td>3. Taux d’échec des changements</td><td><em>Automatique</em><br />
-À dét.</td><td><em>Manuelle</em><br />
-Utiliser le registre de compte rendu des changements de l’équipe responsable du processus de diffusion</td></tr><tr class="even"><td>4. Temps nécessaire pour rétablir le service</td><td><em>Automatique</em><br />
-Utiliser l’outil de suivi des incidents de l’équipe DevOps – vérifier le temps qui s’est écoulé entre le signalement de l’incident et sa conclusion</td><td><em>Automatique</em><br />
-Utiliser l’outil de suivi des incidents du Centre d’assistance – vérifier le temps qui s’est écoulé entre le signalement de l’incident et sa conclusion</td></tr><tr class="odd"><td>5. Satisfaction des clients</td><td><em>Manuelle</em><br />
-Sondage auprès des clients de la GRO</td><td><em>Manuelle</em><br />
-Sondage auprès des clients de la GRO</td></tr></tbody></table>
+<table>
+    <colgroup>
+        <col style="width: 19%" />
+        <col style="width: 39%" />
+        <col style="width: 41%" />
+        </colgroup>
+    <thead>
+        <tr class="header">
+            <th rowspan="2"><strong>Mesure</strong></th>
+            <th colspan="2"><strong>Méthode de collecte</strong></th>
+        </tr>
+        <tr class="odd">
+            <th><strong>Modèle cible</strong></th>
+            <th><strong>Modèle conventionnel</strong></th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr class="odd">
+            <td>1. Délai d’exécution des changements</td>
+            <td><em>Automatique</em><br />
+            Utiliser les mesures du pipeline propre à l’équipe DevOps</td>
+            <td><em>Manuelle</em><br />
+            Utiliser les statistiques de l’équipe responsable de la version, conformément à la demande de changement</td>
+        </tr>
+        <tr class="even">
+            <td>2. Fréquence de déploiement</td>
+            <td><em>Automatique</em><br />
+            Utiliser les pipelines de livraison continue de l’équipe DevOps</td>
+            <td><em>Manuelle</em><br />
+            Utiliser les mesures de l’équipe responsable du processus de diffusion</td>
+        </tr>
+        <tr class="odd">
+            <td>3. Taux d’échec des changements</td>
+            <td><em>Automatique</em><br />
+            À dét.</td>
+            <td><em>Manuelle</em><br />
+            Utiliser le registre de compte rendu des changements de l’équipe responsable du processus de diffusion</td>
+        </tr>
+        <tr class="even">
+            <td>4. Temps nécessaire pour rétablir le service</td>
+            <td><em>Automatique</em><br />
+            Utiliser l’outil de suivi des incidents de l’équipe DevOps – vérifier le temps qui s’est écoulé entre le signalement de l’incident et sa conclusion</td>
+            <td><em>Automatique</em><br />
+            Utiliser l’outil de suivi des incidents du Centre d’assistance – vérifier le temps qui s’est écoulé entre le signalement de l’incident et sa conclusion</td>
+        </tr>
+        <tr class="odd">
+            <td>5. Satisfaction des clients</td>
+            <td><em>Manuelle</em><br />
+            Sondage auprès des clients de la GRO</td>
+            <td><em>Manuelle</em><br />
+            Sondage auprès des clients de la GRO</td>
+        </tr>
+    </tbody>
+</table>
 
-*Manuelle *: la collecte de données nécessite une intervention manuelle (p. ex., tenue de sondages au moyen du logiciel SimpleSurvey, entrevues, courriels, mises à jour de chiffriers).
+*Manuelle*: la collecte de données nécessite une intervention manuelle (p. ex., tenue de sondages au moyen du logiciel SimpleSurvey, entrevues, courriels, mises à jour de chiffriers).
 
-*Automatique *: la collecte de données est effectuée automatiquement, habituellement par des moyens programmatiques (p. ex., événements déclenchés dans un répertoire Git quand un nouvel engagement est pris et mises à jour de la « vue » globale du tableau de bord).
+*Automatique*: la collecte de données est effectuée automatiquement, habituellement par des moyens programmatiques (p. ex., événements déclenchés dans un répertoire Git quand un nouvel engagement est pris et mises à jour de la « vue » globale du tableau de bord).
 
 **REMARQUE :** les quatre premières mesures (a, b, c et d) sont les [4 indicateurs clés définis par le DevOps Research Assessment Institute (DORA)](https://www.thoughtworks.com/radar/techniques/four-key-metrics).
 
@@ -307,28 +555,28 @@ Approche de mise en œuvre (en plusieurs étapes)
 
 Il est entendu que l’ambition de la stratégie ne se concrétisera pas d’un seul coup ou dans quelques années. L’approche de mise en œuvre se fera de manière itérative, en vue d’atteindre l’état cible en trois étapes :
 
-1.  **Étape 1 : Fondements et sensibilisation**
+1. **Étape 1 : Fondements et sensibilisation**
 
     - Exposer les équipes de TI d’EDSC existantes qui ont déjà atteint ou presque l’état cible en favorisant leur visibilité au sein de l’organisation et en leur accordant le pouvoir de poursuivre leurs activités dans l’état cible (p. ex., équipes du projet de RPC-E).
     - Sanction 1 - Produit de TI fonctionnant selon le nouveau modèle d’état cible
     - Sanction 1 - Projet axé sur la TI fonctionnant selon le nouveau modèle d’état cibl
     - Créer temporairement (sur une durée de trois ans) une communauté d’excellence DevOps financée, qui agira à titre d’agent de changement et d’encadrement pour les équipes de TI existantes d’EDSC en vue de l’adoption des processus DevOps.
-    - Désigner des « champions » par fonctions. Ces champions offriront des services d’encadrement et de mentorat à d’autres équipes (c.‑à‑d. que ce sera le début des « équipes habilitantes » auxquelles fait référence le concept de topologie d’équipe (Team Topology)[12](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:12)).
+    - Désigner des « champions » par fonctions. Ces champions offriront des services d’encadrement et de mentorat à d’autres équipes (c.‑à‑d. que ce sera le début des « équipes habilitantes » auxquelles fait référence le concept de topologie d’équipe (Team Topology)[^12](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:12)).
     - Sensibiliser les parties intéressées au fait que les administrateurs de systèmes doivent adopter le rôle d’ingénieurs de la fiabilité des sites.
 
-2.  **Étape 2 : État de préparation de l’infrastructure et des systèmes existants**
+2. **Étape 2 : État de préparation de l’infrastructure et des systèmes existants**
 
     - Cerner deux projets axés sur la TI touchant des systèmes existants aux fins de mise à l’essai et les orienter en vue de leur permettre d’atteindre l’état cible (conformément à la vision de l’architecture cible pour les systèmes existants).
     - Fournir des pipelines DevOps communs que les équipes de TI pourront utiliser (financés, ayant passé le processus d’EAS et ayant été adoptés comme normes techniques).
     - Expérimenter avec des environnements hors production, pour les systèmes existants, dans le nuage public (p. ex., environnements d’essai).
 
-3.  **Étape 3 : Portée**
+3. **Étape 3 : Portée**
 
     - Désigner des « équipes de plateforme » pour fournir des services aux équipes DevOps, au moyen d’outils et d’IPA.
     - Désigner des « équipes des sous-systèmes complexes » pour fournir une expertise spécialisée aux équipes DevOps (p. ex., ordinateurs centraux, mathématiques complexes, analytique).
     - Produire la structure organisationnelle de la DGIIT (axée sur les équipes multifonctionnelles) et son modèle financier connexe.
 
-4.  **Étape 4 : Normalisation et gestion des systèmes existants**
+4. **Étape 4 : Normalisation et gestion des systèmes existants**
 
     - Obliger tous les nouveaux projets axés sur la TI (qui ne touchent pas aux infrastructures existantes) à se conformer au modèle d’état cible.
     - Obliger tous les projets axés sur la TI existants (qui touchent aux infrastructures existantes) à se réorienter pour atteindre le modèle d’état cible (conformément à la vision de l’architecture cible pour les systèmes existants).
@@ -339,17 +587,17 @@ En vertu de la [Politique sur les services et le numérique](https://www.tbs-sct
 
 La [Directive sur les services et le numérique](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32601) précise comment **les DPI (et les DPD) ministériels ont leur mot à dire** sur la façon dont les ministères procèdent à leur transformation numérique.
 
-| **Responsable**          | **% des exigences totales** | **Procédures obligatoires (4) requises[13](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:14)** |
+| *Responsable          | % des exigences totales | Procédures obligatoires (4) requises[^13] |
 |--------------------------|-----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ***DPI (avec le BDPD)*** | ***84 %***                  | ***229***                                                                                                                                                 |
 | Service                  | 10 %                        | 0                                                                                                                                                         |
 | Cybersécurité            | 6 %                         | 74                                                                                                                                                        |
 
-Les méthodes actuelles de gestion des investissements en TI sont guidées par l’instrument de politique financière d’EDSC suivant : [Politique sur la gestion des projets et des programmes (PGPP)](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Policy%20on%20Project%20and%20Programme%20Management.pdf). Il s’agit de la politique qui a donné lieu à la [Norme sur la gestion de projet](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Standard%20on$20Project%20Management.pdf), laquelle énonce les principales exigences pour le personnel d’EDSC qui travaille dans un environnement de projet. La norme actuelle vise à gérer les risques et les coûts grâce à une planification avancée et à une exécution rigoureuse du plan. L’approche par points de contrôle de la gestion de projet exige que les équipes de projet demandent l’autorisation avant de continuer. Cette autorisation est accordée lorsqu’une preuve suffisante de diligence raisonnable et un portrait fidèle de l’avenir sont fournis. Cela peut se faire lorsque l’avenir est prévisible, mais pas quand les étapes à venir sont complexes et incertaines. Son incidence négative favorise l’introduction de nouvelles caractéristiques, car le fardeau du processus de demande d’autorisation pour aller de l’avant fait en sorte qu’il est dissuasif de déployer de petits changements.
+Les méthodes actuelles de gestion des investissements en TI sont guidées par l’instrument de politique financière d’EDSC suivant : [Politique sur la gestion des projets et des programmes (PGPP) (anglais seuelment)](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Policy%20on%20Project%20and%20Programme%20Management.pdf). Il s’agit de la politique qui a donné lieu à la [Norme sur la gestion de projet (anglais seuelement)](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Standard%20on$20Project%20Management.pdf), laquelle énonce les principales exigences pour le personnel d’EDSC qui travaille dans un environnement de projet. La norme actuelle vise à gérer les risques et les coûts grâce à une planification avancée et à une exécution rigoureuse du plan. L’approche par points de contrôle de la gestion de projet exige que les équipes de projet demandent l’autorisation avant de continuer. Cette autorisation est accordée lorsqu’une preuve suffisante de diligence raisonnable et un portrait fidèle de l’avenir sont fournis. Cela peut se faire lorsque l’avenir est prévisible, mais pas quand les étapes à venir sont complexes et incertaines. Son incidence négative favorise l’introduction de nouvelles caractéristiques, car le fardeau du processus de demande d’autorisation pour aller de l’avant fait en sorte qu’il est dissuasif de déployer de petits changements.
 
 Le passage à ce monde hautement intégré, complexe et incertain qu’est le monde numérique nous oblige à opter pour un cycle d’essai, d’observation et de correction de trajectoire plus empirique. Le lien entre les phases de planification et d’exécution devient cyclique. C’est grâce à l’exécution que nous obtenons les données empiriques nécessaires pour éclairer nos estimations de planification et décider des correctifs à apporter. Les pratiques récentes en matière de développement de logiciels, principalement dans les domaines de l’infonuagique et de DevOps, nous ont permis d’adopter cette approche. Les équipes de TI n’ont plus besoin d’attendre pendant de longues périodes pour obtenir des serveurs, élaborer d’importantes bases de code et chercher de grands investissements en capital à des fins d’infrastructure. L’infonuagique a commercialisé l’infrastructure de TI, ce qui permet à EDSC de développer, de mettre à l’essai et de déployer rapidement des logiciels.
 
-De plus, le GC s’éloigne des [solutions monolithiques](https://medium.com/koderlabs/introduction-to-monolithic-architecture-and-microservices-architecture-b211a5955c63) (vaste base de codes regroupant de nombreuses capacités, mais qui cause des goulots d’étranglement et des points de défaillance uniques dans l’écosystème des TI lorsque les nombreuses équipes de TI qui participent aux travaux entrent en collision)[14](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:15).
+De plus, le GC s’éloigne des [solutions monolithiques (anglais seulement)](https://medium.com/koderlabs/introduction-to-monolithic-architecture-and-microservices-architecture-b211a5955c63) (vaste base de codes regroupant de nombreuses capacités, mais qui cause des goulots d’étranglement et des points de défaillance uniques dans l’écosystème des TI lorsque les nombreuses équipes de TI qui participent aux travaux entrent en collision)[^14](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:15).
 
 La [Directive sur la gestion de projets et programmes du CT](tbs-sct.gc.ca/pol/doc-fra.aspx?id=32594) laisse place à l’approche ci-dessus :
 
@@ -361,7 +609,7 @@ La [Directive sur la gestion de projets et programmes du CT](tbs-sct.gc.ca/pol/d
 
 Les trois exigences susmentionnées issues de la Directive du CT indiquent que les ministères doivent accepter le changement et s’y adapter, ainsi que prendre des décisions fondées sur des données probantes (comme les décisions de planification). De telles données probantes ne peuvent être obtenues que par l’exécution.
 
-La DGIIT a déployé des efforts pour moderniser sa gestion des technologies, comme en témoignent le [Coin des félicitations dans le Bulletin de nouvelles de la DGIIT](http://esdc.prv/en/iitb/corporate/news/archives.shtml)[15](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:16) et le plan [La voie à suivre pour la DGIIT](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx)[16](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:17). Toutefois, la relation d’EDSC avec la technologie dépasse l’influence de la DGIIT.
+La DGIIT a déployé des efforts pour moderniser sa gestion des technologies, comme en témoignent le [Coin des félicitations dans le Bulletin de nouvelles de la DGIIT](http://esdc.prv/en/iitb/corporate/news/archives.shtml)[^15](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:16) et le plan [La voie à suivre pour la DGIIT](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx)[^16](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:17). Toutefois, la relation d’EDSC avec la technologie dépasse l’influence de la DGIIT.
 
 Pour faire d’EDSC une organisation agile, il faut adopter un modèle qui permettra de déployer des logiciels plus petits et de manière plus fréquente, car ce sont ces déploiements qui permettront à l’organisation de recueillir les données empiriques nécessaires pour prendre des décisions fondées sur des données probantes.
 
@@ -439,13 +687,13 @@ La matrice de traçabilité suivante est utilisée pour démontrer l’harmonisa
 
 ## Annexe D – Définitions
 
-[**Équipe DevOps**](https://014gc-my.sharepoint.com/:w:/g/personal/remy_bernard_hrsdc-rhdcc_gc_ca/EaU8oDNt7iJNj8Zy_M64TOkBVJBlFhQ2d_fzOuF2N6bt8A?e=F5HEeL)
+**[Équipe DevOps](https://014gc-my.sharepoint.com/:w:/g/personal/remy_bernard_hrsdc-rhdcc_gc_ca/EaU8oDNt7iJNj8Zy_M64TOkBVJBlFhQ2d_fzOuF2N6bt8A?e=F5HEeL)**
 
 Une équipe interfonctionnelle et multidisciplinaire qui met l’accent sur la collaboration et la communication des développeurs de logiciels et des professionnels des technologies de l’information (TI), tout en automatisant le processus de déploiement des logiciels et de modification de l’infrastructure. Une équipe DevOps correspond à la [définition normalisée suivante de la DGIIT](https://014gc-my.sharepoint.com/:w:/g/personal/remy_bernard_hrsdc-rhdcc_gc_ca/EaU8oDNt7iJNj8Zy_M64TOkBVJBlFhQ2d_fzOuF2N6bt8A?e=F5HEeL).
 
 Une copie de la version Office 365 est [disponible ici](https://sara-sabr.github.io/ITStrategy/assets/files/standard-devops-team-definition.docx).
 
-[**Système de contrôle des versions décentralisé (DVCS)**](canada.ca/fr/emploi-developpement-social/services/travailleurs-etrangers/fraude.html)
+**[Système de contrôle des versions décentralisé (DVCS)](canada.ca/fr/emploi-developpement-social/services/travailleurs-etrangers/fraude.html)**
 
 Les systèmes de contrôle des versions centralisés reposent sur l’idée qu’il n’y a qu’une seule copie « centrale » d’un projet de logiciel quelque part (probablement hébergée sur un serveur) et que les développeurs modifient le code directement sur cette copie centrale.
 
@@ -463,7 +711,7 @@ L’organisation des portefeuilles axée sur les chaînes de valeur de développ
 
 ### Solution de TI, application, logiciel et données
 
-Une définition normalisée devrait être élaborée par le CEAI (voir l’[*ensemble cohérent de mesures de la stratégie d’adoption, de conception et d’achat*](https://sara-sabr.github.io/ITStrategy/strategy-build-vs-buy.html#coherent-set-of-actions)). Jusqu’à ce que cela soit terminé, la définition et les liens suivants seront utilisés.
+Une définition normalisée devrait être élaborée par le CEAI (voir l’*[ensemble cohérent de mesures de la stratégie d’adoption, de conception et d’achat_](https://sara-sabr.github.io/ITStrategy/strategy-build-vs-buy.html#coherent-set-of-actions)*). Jusqu’à ce que cela soit terminé, la définition et les liens suivants seront utilisés.
 
 ![A UML diagram representing the relationships between the terms IT Solution, Application, Software, Infrastructure, Data, and IT Product. The digram shows that an IT Solution and an Application are part of the concept IT Product. And while an IT Solution is comprised of one ore more Applications, Applications can exist on their own without belonging to an IT Solution. An Application is made up of one or more Software components. An Application interacts with one or more Data Entities that are generalized from the Master Data. Software components may have dependencies between them. Software components are deployed to one or more Infrastructure. Both Software and Infrastructure make use of Configuration.]({{ site.baseurl }}/assets/images/itsolution-itproduct-model.png) *Figure 2. Modèle de relations entre les différents éléments logiciels*
 
@@ -509,7 +757,7 @@ Dans le modèle conventionnel, les équipes de TI sont organisées par fonction 
 
 Dans le modèle conventionnel, on s’attend à ce que les résultats opérationnels soient atteints à la fin du projet de TI et que les activités opérationnelles soient modifiées en fonction des nouvelles capacités établies par le projet de TI. En vertu du plan de réalisation des activités, le responsable opérationnel est tenu de surveiller et de signaler les écarts entre les avantages prévus et réels. Les écarts sont traités en fonction des exigences en matière de changement ou des nouveaux projets.
 
-**Modèle de prestation de la solution de TI cible**
+### Modèle de prestation de la solution de TI cible
 
 Le modèle de prestation de la solution de TI cible a le même objectif que le modèle conventionnel : optimiser les ressources et réduire les risques grâce à l’utilisation de la technologie. Contrairement au modèle conventionnel, ce modèle visera à :
 
@@ -551,13 +799,13 @@ Voici des statistiques et des références concernant les problèmes et les taux
 
 ### 1) Étude du Standish Group**
 
-Le Standish Group, un organisme consultatif de recherche qui se concentre sur le rendement du développement de logiciels[18](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:19), a constaté que « de 2003 à 2012, parmi les 3 555 projets recensés dont le coût de main-d’œuvre s’élevait à au moins 10 millions de dollars, seulement 6,4 % ont été fructueux. Les données du Standish Group ont montré que 52 % des grands projets étaient « remis en question », soit parce qu’ils dépassaient le budget, qu’ils étaient en retard ou qu’ils ne répondaient pas aux attentes des utilisateurs. Les 41,4 % restants étaient des échecs — c.‑à‑d. que ces projets ont été soit abandonnés, soit recréés à partir de zéro. »[19](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:20)
+Le Standish Group, un organisme consultatif de recherche qui se concentre sur le rendement du développement de logiciels[^18](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:19), a constaté que « de 2003 à 2012, parmi les 3 555 projets recensés dont le coût de main-d’œuvre s’élevait à au moins 10 millions de dollars, seulement 6,4 % ont été fructueux. Les données du Standish Group ont montré que 52 % des grands projets étaient « remis en question », soit parce qu’ils dépassaient le budget, qu’ils étaient en retard ou qu’ils ne répondaient pas aux attentes des utilisateurs. Les 41,4 % restants étaient des échecs — c.‑à‑d. que ces projets ont été soit abandonnés, soit recréés à partir de zéro. »[^19](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:20)
 
 L’étude et les résultats du Standish Group ont également été cités dans le chapitre 3 du rapport de novembre 2006 de la vérificatrice générale du Canada (énoncés 3.5 et 3.6). Voir le point 3 ci-dessous.
 
 ### 2) Questions à la Chambre des communes de 2016 et 2019 (projets de plus de 1 M$)**
 
-Grâce à un projet d’[Ottawa Civic Tech](https://ottawacivictech.ca/), un [ensemble de données sur les grands projets de TI du gouvernement](https://large-government-of-canada-it-projects.github.io/)[20](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:21) a été publié et les réponses à deux questions qui ont été posées à la Chambre des communes, en juin 2016 et en mai 2019, ont été consignées. Chaque question demandait aux ministères fédéraux de faire rapport sur les projets de TI, en cours ou prévus, d’une valeur supérieure à 1 M$.
+Grâce à un projet d’[Ottawa Civic Tech](https://ottawacivictech.ca/), un [ensemble de données sur les grands projets de TI du gouvernement](https://large-government-of-canada-it-projects.github.io/)[^20](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:21) a été publié et les réponses à deux questions qui ont été posées à la Chambre des communes, en juin 2016 et en mai 2019, ont été consignées. Chaque question demandait aux ministères fédéraux de faire rapport sur les projets de TI, en cours ou prévus, d’une valeur supérieure à 1 M$.
 
 Nous avons fait les constatations suivantes :
 
