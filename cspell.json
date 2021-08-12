@@ -586,7 +586,15 @@
     "DDPI",
     "ASFC",
     "interfonctionnelle",
-    "BGPO"
+    "BGPO",
+    "OASS",
+    "SAGI"
+    "quoiqu'equivalent",
+    "suringénierie",
+    "taile",
+    "insuffissant",
+    "montan"
+
   ],
   "flagWords": [],
   "import": ["node_modules/@cspell/dict-fr-fr/cspell-ext.json"],
