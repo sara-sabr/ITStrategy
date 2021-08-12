@@ -32,8 +32,9 @@ img + em { display: inline-block; }
 
 *Remarque 2 : cette page renferme des liens vers des documents internes d’EDSC, qui ne sont malheureusement accessibles que sur le réseau ministériel d’EDSC.*
 
-**Table des matières**
+## Table des matières
 
+- [Table des matières](#table-des-matières)
 - [Introduction](#introduction)
   - [Objet](#objet)
   - [Public cible](#public-cible)
@@ -53,7 +54,6 @@ img + em { display: inline-block; }
 - [Annexe D – Définitions](#annexe-d--définitions)
 - [Annexe E – Liste des acronymes et définitions](#annexe-e--liste-des-acronymes-et-définitions)
 - [Annexe F – Statistiques concernant les grands projets axés sur la TI](#annexe-f--statistiques-concernant-les-grands-projets-axés-sur-la-ti)
-- [Références en ligne](#références-en-ligne)
 
 ## Introduction
 
@@ -71,34 +71,34 @@ Cette stratégie vise à communiquer une décision du DPI (qui n’a pas encore 
 
 ### Public cible
 
-Le présent **document stratégique** s’adresse aux intervenants qui participent à la détermination de la façon dont les solutions de TI seront livrées. Plus précisément, elle s’adresse aux intervenants qui participent à la définition des règles d’acquisition (que ce soit par voie de conception, d’achat, d’adoption ou de configuration), la prestation, l’opérationnalisation et la maintenance des solutions de TI (voir l’[Annexe D](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#appendix-d---definitions) pour connaître la signification des termes). Cela comprend les intervenants de la DGIIT et ceux qui ne font pas partie de la DGIIT, comme la DGDPF, la DGVIGRE, le BDPD et SPC. Vous dans l’[ensemble cohérent des mesures](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#coherent-set-of-actions) une liste des intervenants qui devraient participer à la mise en œuvre de cette stratégie.
+Le présent **document stratégique** s’adresse aux intervenants qui participent à la détermination de la façon dont les solutions de TI seront livrées. Plus précisément, elle s’adresse aux intervenants qui participent à la définition des règles d’acquisition (que ce soit par voie de conception, d’achat, d’adoption ou de configuration), la prestation, l’opérationnalisation et la maintenance des solutions de TI (voir l’[Annexe D](#appendix-d---definitions) pour connaître la signification des termes). Cela comprend les intervenants de la DGIIT et ceux qui ne font pas partie de la DGIIT, comme la DGDPF, la DGVIGRE, le BDPD et SPC. Vous dans l’[ensemble cohérent des mesures](#coherent-set-of-actions) une liste des intervenants qui devraient participer à la mise en œuvre de cette stratégie.
 
 Une fois mise en œuvre, la **politique d’orientation** ciblera les intervenants concernés lorsque des projets axés sur les TI seront conceptualisés et créés, que des solutions de TI seront conçues et que des produits de TI seront élaborés, livrés, mis en œuvre et mis à niveau. Tous les membres du personnel d’EDSC qui prennent part aux décisions d’investissement en TI devront respecter la présente politique d’orientation.
 
 ### Analyse de rentabilisation (contexte stratégique)
 
-Le passage à l’ère numérique met en évidence l’omniprésence de la technologie dans la prestation des services aux Canadiens. Par conséquent, pour itérer ses politiques et ses offres de services[1](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:1), EDSC devra apporter des changements à ses technologies. Afin d’assurer une meilleure prestation de services aux Canadiens, nous devons améliorer la réactivité de la TI, sinon la boucle de rétroaction entre les décideurs et les Canadiens sera trop longue, ce qui aura des répercussions sur la capacité d’EDSC d’itérer sa capacité d’élaboration de politiques et de devenir une organisation agile.
+Le passage à l’ère numérique met en évidence l’omniprésence de la technologie dans la prestation des services aux Canadiens. Par conséquent, pour itérer ses politiques et ses offres de services[^1], EDSC devra apporter des changements à ses technologies. Afin d’assurer une meilleure prestation de services aux Canadiens, nous devons améliorer la réactivité de la TI, sinon la boucle de rétroaction entre les décideurs et les Canadiens sera trop longue, ce qui aura des répercussions sur la capacité d’EDSC d’itérer sa capacité d’élaboration de politiques et de devenir une organisation agile.
 
 ![This image depicts a feedback process loop. The image shows three icons: Policy Makers, Technology and Canadians. Between each icon there is an arrow showing a relationship as follows: Policy Makers must use Technology to implement their policies, Technology is then used to deliver services to Canadians, and after interacting with a service, Canadians provide their feedback to Policy Makers]({{ site.baseurl }}/assets/images/policy_through_technology.png) *Figure 1. À l’ère numérique, la technologie permet de relier les décideurs et les Canadiens*
 
 EDSC a besoin de **déploiements de production** pour obtenir les **données empiriques** nécessaires à la **prise de décisions fondées sur des données probantes**.
 
-EDSC n’est pas un nouveau ministère. Il a accumulé une [dette technique importante](https://www.oag-bvg.gc.ca/internet/Francais/parl_oag_201004_01_f_33714.html)[^2](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:2) au cours de ses décennies d’activités, ce qui a une incidence sur la réactivité des TI. Le [portefeuille d’applications d’EDSC contient plus de 500 applications (anglais seulement)](https://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/ESDC%20IT%20Plan%202019-22%20-%20FINAL.pdf)[^3](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:3), dont 101 sont essentielles à la mission et reposent sur des technologies existantes (applications personnalisées et ordinateurs centraux désuets). En réponse aux limites des systèmes de TI désuets, EDSC a commencé à investir dans un programme de [modernisation de la prestation des activités](https://www.canada.ca/fr/emploi-developpement-social/ministere/rapports/plan-ministeriel/2019-2020/resultats-prevus.html#h2.04)[^4](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:4).
+EDSC n’est pas un nouveau ministère. Il a accumulé une [dette technique importante](https://www.oag-bvg.gc.ca/internet/Francais/parl_oag_201004_01_f_33714.html)[^2] au cours de ses décennies d’activités, ce qui a une incidence sur la réactivité des TI. Le [portefeuille d’applications d’EDSC contient plus de 500 applications (anglais seulement)](https://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/ESDC%20IT%20Plan%202019-22%20-%20FINAL.pdf)[^3], dont 101 sont essentielles à la mission et reposent sur des technologies existantes (applications personnalisées et ordinateurs centraux désuets). En réponse aux limites des systèmes de TI désuets, EDSC a commencé à investir dans un programme de [modernisation de la prestation des activités](https://www.canada.ca/fr/emploi-developpement-social/ministere/rapports/plan-ministeriel/2019-2020/resultats-prevus.html#h2.04)[^4].
 
-Toutefois, le recours aux TI est un investissement risqué et coûteux[^5](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:5).
+Toutefois, le recours aux TI est un investissement risqué et coûteux[^5].
 
-La plupart des recommandations issues des audits externes[^6](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:6) sur la réduction des risques liés aux investissements dans la technologie semblent viser une gouvernance plus solide et plus disciplinée. Il est essentiel de pouvoir prévoir plus précisément ce que nous réserve l’avenir, afin de réduire les risques liés à ce type d’investissements.
+La plupart des recommandations issues des audits externes[^6] sur la réduction des risques liés aux investissements dans la technologie semblent viser une gouvernance plus solide et plus disciplinée. Il est essentiel de pouvoir prévoir plus précisément ce que nous réserve l’avenir, afin de réduire les risques liés à ce type d’investissements.
 
-Toutefois, pour travailler efficacement dans le monde numérique, il faut d’abord accepter la complexité et l’incertitude, ce qui exige une approche très différente pour mener à bien toute initiative. Un monde prévisible récompense la planification précoce et l’exécution rigide des plans. À l’inverse, un monde complexe et incertain récompense un cycle empirique d’essai, d’observation et de correction.[7](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:7)
+Toutefois, pour travailler efficacement dans le monde numérique, il faut d’abord accepter la complexité et l’incertitude, ce qui exige une approche très différente pour mener à bien toute initiative. Un monde prévisible récompense la planification précoce et l’exécution rigide des plans. À l’inverse, un monde complexe et incertain récompense un cycle empirique d’essai, d’observation et de correction.[7]
 
-Les méthodes actuelles de gestion des investissements en TI visent deux grands objectifs[8](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:8) :
+Les méthodes actuelles de gestion des investissements en TI visent deux grands objectifs[8] :
 
 1. Gestion des risques liés aux investissements en TI
 2. Cibler les investissements là où il y a des avantages
 
-Cette stratégie vise à améliorer les deux objectifs susmentionnés en proposant de faire en sorte qu’EDSC soit en mesure de **déployer ses logiciels le jour même** et que cela devienne une pratique courante. Les avantages de petits déploiements fréquents au moyen de méthodes automatisées devraient permettre de réduire les risques[^9](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:9), d’atténuer la dette technique, d’accroître la satisfaction des clients et de rehausser la confiance globale envers le ministère et son personnel. Cela est maintenant possible grâce à l’adoption de technologies infonuagiques et de pratiques DevOps.
+Cette stratégie vise à améliorer les deux objectifs susmentionnés en proposant de faire en sorte qu’EDSC soit en mesure de **déployer ses logiciels le jour même** et que cela devienne une pratique courante. Les avantages de petits déploiements fréquents au moyen de méthodes automatisées devraient permettre de réduire les risques[^9], d’atténuer la dette technique, d’accroître la satisfaction des clients et de rehausser la confiance globale envers le ministère et son personnel. Cela est maintenant possible grâce à l’adoption de technologies infonuagiques et de pratiques DevOps.
 
-Le passage au numérique permet de mettre davantage l’accent sur les données comme étant l’actif dont l’organisation se soucie. C’est grâce aux données que l’organisation recueillera de l’information et éclairera ses décisions en matière d’amélioration des services[^10](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:10). Pour pouvoir apporter rapidement des changements sur le plan des logiciels, il faudra traiter les données comme un concept distinct, non pas dépendant des logiciels, mais plutôt interrelié à ceux-ci. Consultez l’annexe D (Définitions) pour connaître les liens qui existent entre une solution de TI, une application, un logiciel et des données.
+Le passage au numérique permet de mettre davantage l’accent sur les données comme étant l’actif dont l’organisation se soucie. C’est grâce aux données que l’organisation recueillera de l’information et éclairera ses décisions en matière d’amélioration des services[^10]. Pour pouvoir apporter rapidement des changements sur le plan des logiciels, il faudra traiter les données comme un concept distinct, non pas dépendant des logiciels, mais plutôt interrelié à ceux-ci. Consultez l’annexe D (Définitions) pour connaître les liens qui existent entre une solution de TI, une application, un logiciel et des données.
 
 Bref, cette stratégie vise à modifier les conditions organisationnelles de sorte qu’EDSC puisse réussir sa transformation numérique[^11](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:11).
 
@@ -813,7 +813,7 @@ Nous avons fait les constatations suivantes :
 - Des 94 projets qui contiennent suffisamment de données pour comparer les échéanciers : 9 % respectent les échéanciers, 4 % sont en avance et 87 % sont en retard.
 - Des 97 projets qui contiennent suffisamment de données pour comparer les budgets : 26 % se situent à 10 % ou moins des estimations initiales, 28 % se situent entre 10 % et 50 % au-dessus des estimations initiales, 28 % se situent à plus de 50 % des estimations initiales et 19 % se situent à moins de 10 % des estimations initiales.
 
-### 3) Chapitre 3 du rapport de novembre 2006 de la vérificatrice générale du Canada[^21](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:22) <!-- omit in toc -->
+### 3) Chapitre 3 du rapport de novembre 2006 de la vérificatrice générale du Canada[^22] <!-- omit in toc -->
 
 La vérification portait sur sept projets et les évaluait selon quatre critères clés (gouvernance, analyse de rentabilisation, capacité organisationnelle et gestion de projet).
 
@@ -821,7 +821,7 @@ Dans les énoncés 3.5 et 3.6, le rapport fait mention de l’étude du Standish
 
 Le rapport concluait que, dans l’ensemble, le gouvernement avait fait peu de progrès depuis la dernière vérification (1997), n’avait pas expliqué de façon adéquate les résultats attendus dans le cadre d’une analyse de rentabilisation et n’avait pas évalué de façon adéquate sa capacité de prendre en charge des projets de TI à risque élevé. Toutefois, le rapport conclut que 4/7 des projets échantillonnés étaient bien gérés.
 
-### 4) Rapport du printemps 2010 de la vérificatrice générale du Canada[22](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:23) <!-- omit in toc -->
+### 4) Rapport du printemps 2010 de la vérificatrice générale du Canada[^23] <!-- omit in toc -->
 
 Le rapport visait à déterminer si cinq des entités gouvernementales ayant les plus importantes dépenses en matière de TI avaient cerné et géré de façon adéquate les risques liés aux systèmes de TI vieillissants. Toutes les entités indiquaient que le vieillissement de la TI représentait un risque important et la majorité d’entre elles (dont EDSC) l’avaient inclus dans leur profil de risque organisationnel.
 
@@ -829,86 +829,60 @@ Le rapport stipulait que les plans d’investissement n’étaient pas appuyés 
 
 Le rapport indiquait que la Direction du dirigeant principal de l’information (DDPI) du SCT était au fait des risques importants liés au vieillissement de la TI depuis plus d’une décennie. La DDPI a répondu au rapport en affirmant qu’elle souscrivait aux recommandations, mais que la responsabilité des initiatives de financement relevait des administrateurs généraux des ministères et non de la DDPI.
 
-### 5) 2011 juin — Rapport Le Point de la vérificatrice générale du Canada, chapitre 2 (grands projets de TI)[23](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:24) <!-- omit in toc -->
+### 5) 2011 juin — Rapport Le Point de la vérificatrice générale du Canada, chapitre 2 (grands projets de TI)[^24] <!-- omit in toc -->
 
 Ce rapport portait sur les progrès accomplis depuis le rapport de 2006 portant sur sept grands projets de TI; un nouveau projet venait également d’être sélectionné et approuvé par le Conseil du Trésor.
 
 La conclusion était les progrès accomplis par le gouvernement en réponse aux recommandations de 2006 étaient insatisfaisants.
 
-### 6) Rapport 5 – Rapport du printemps 2015 du vérificateur général du Canada (investissements dans les TI de l’ASFC)[24](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:25) <!-- omit in toc -->
+### 6) Rapport 5 – Rapport du printemps 2015 du vérificateur général du Canada (investissements dans les TI de l’ASFC)[^25] <!-- omit in toc -->
 
 Ce rapport présentait les résultats d’une vérification du rendement, c’est-à-dire une évaluation indépendante, objective et systématique de la façon dont le gouvernement gère ses activités, ses responsabilités et ses ressources.
 
 Dans l’ensemble, le rapport a révélé que l’ASFC « avait été confrontée à des difficultés importantes en ce qui a trait à la gestion de son portefeuille d’investissements dans les technologies de l’information (TI) de manière à pouvoir assurer la mise en œuvre de projets en TI qui respectent les exigences établies et produisent les avantages escomptés. »
 
-### 7) Rapport 1 – Rapport du printemps 2018 du vérificateur général du Canada (création et déploiement du système de paye Phénix)[25](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:26) <!-- omit in toc -->
+### 7) Rapport 1 – Rapport du printemps 2018 du vérificateur général du Canada (création et déploiement du système de paye Phénix)[^26] <!-- omit in toc -->
 
 La vérification visait à déterminer si Services publics et Approvisionnement Canada (SPAC) gérait et supervisait de façon efficace et efficiente la mise en œuvre du nouveau système de paye Phénix.
 
 Le rapport a conclu que « le projet Phénix a été un échec incompréhensible de gestion et de surveillance de projet. Les cadres responsables de Phénix ont donné la priorité à certains aspects, comme les limites du budget et le calendrier, au détriment d’autres aspects essentiels tels que la fonctionnalité et la sécurité. Les cadres responsables de Phénix n’ont pas saisi l’importance des mises en garde indiquant que le Centre des services de paye de Miramichi, les ministères et organismes et le nouveau système n’étaient pas prêts. Ils n’ont pas communiqué une information complète et exacte aux sous-ministres et aux sous-ministres délégués des ministères et organismes, y compris au sous-ministre de Services publics et Approvisionnement Canada, lorsqu'ils les ont informés de l’état de préparation de Phénix en vue de sa mise en œuvre. À notre avis, la décision des cadres responsables de Phénix de mettre en œuvre Phénix était déraisonnable, compte tenu de l’information qui était disponible à ce moment-là. Le système n’a donc pas répondu aux besoins des utilisateurs, a coûté au gouvernement fédéral des centaines de millions de dollars et a causé des difficultés financières à des dizaines de milliers de ses employés. »
 
-### 8) Février 2020 – Présentation de 18F devant le [Michigan Senate Appropriations Committee](https://www.youtube.com/watch?v=g-h6CtSwk30)[26](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:27) <!-- omit in toc -->
+### 8) Février 2020 – Présentation de 18F devant le [Michigan Senate Appropriations Committee](https://www.youtube.com/watch?v=g-h6CtSwk30)[^27] <!-- omit in toc -->
 
-En février 2020, 18F (l’équivalent aux États-Unis du Service numérique canadien) a fait une présentation au Michigan Senate Appropriations Committee. 18F a été créé en 2014 par le programme Presidential Innovation Fellows (PIF, mis sur pied en 2012 par la Maison-Blanche) afin d’améliorer et de moderniser les technologies du gouvernement[27](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:28). La présentation portait sur l’approvisionnement technologique et les défis connexes. En bref, les ministères gouvernementaux ne sont pas en mesure d’encadrer adéquatement les problèmes en parties gérables et, par conséquent, s’engagent dans des contrats de longue durée, de grande envergure et complexes avec des fournisseurs.
+En février 2020, 18F (l’équivalent aux États-Unis du Service numérique canadien) a fait une présentation au Michigan Senate Appropriations Committee. 18F a été créé en 2014 par le programme Presidential Innovation Fellows (PIF, mis sur pied en 2012 par la Maison-Blanche) afin d’améliorer et de moderniser les technologies du gouvernement[^28]. La présentation portait sur l’approvisionnement technologique et les défis connexes. En bref, les ministères gouvernementaux ne sont pas en mesure d’encadrer adéquatement les problèmes en parties gérables et, par conséquent, s’engagent dans des contrats de longue durée, de grande envergure et complexes avec des fournisseurs.
 
-### 9) [Delivering large-scale IT projects on time, on budget, and on value](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/delivering-large-scale-it-projects-on-time-on-budget-and-on-value?cid=soc-web), McKinsey Digital, 2012[28](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:29) <!-- omit in toc -->
+### 9) [Delivering large-scale IT projects on time, on budget, and on value](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/delivering-large-scale-it-projects-on-time-on-budget-and-on-value?cid=soc-web), McKinsey Digital, 2012[^29] <!-- omit in toc -->
 
 Selon une étude réalisée en 2012 par McKinsey Digital en collaboration avec l’université d’Oxford, 45 % des grands projets de TI (plus de 15 millions de dollars) visés dépassent le budget prévu et 7 % dépassent les échéanciers fixés, et ces projets offrent 56 % moins de valeur que ce qui était prévu. Les projets logiciels présentent le risque le plus élevé de dépassement des coûts et des échéanciers. L’étude a aussi permis de constater que plus un projet doit durer longtemps, plus il est probable qu’il dépasse le budget et le temps impartis. On y recommande quatre façons d’améliorer le rendement des projets, y compris la constitution d’équipes efficaces et le recours à des cycles de prestation de courte durée.
 
-## Références en ligne
+## Références en ligne <!-- omit in toc -->
 
-1. Modernisation de la prestation des activités (MPA) [2e objectif principal : Souplesse des politiques (anglais seulement)](http://blogs-blogues.prv/ntn-bnt/bdm-not-just-another-acronym-its-an-initiative-transforming-service-delivery-as-we-know-it/) [](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fnref:1)
-
-2. [Rapport du printemps 2010](https://www.oag-bvg.gc.ca/internet/Francais/parl_oag_201004_01_f_33714.html) de la vérificatrice générale du Canada [](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fnref:2)
-
-3. [Plan de TI 2019-2022 d’EDSC (anglais seulement)](https://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/ESDC%20IT%20Plan%202019-22%20-%20FINAL.pdf) [](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fnref:3)
-
-4. [Résultats du Plan ministériel 2019-2020 d’EDSC](https://www.canada.ca/fr/emploi-developpement-social/ministere/rapports/plan-ministeriel/2019-2020/resultats-prevus.html#h2.04) [](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fnref:4)
-
-5. Voir l’annexe F portant sur les statistiques sur les grands projets axés sur les TI [](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fnref:5)
-
-6. [How is the Public Service Managing Large IT Projects? (anglais seulement)](https://sara-sabr.github.io/ITStrategy/2020/04/21/how-is-the-public-service-managing-large-IT-project.html), une synthèse de six rapports de la vérificatrice générale/du vérificateur général du Canada [](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fnref:6)
-
-7. Mark Schwartz, War & Peace & IT [](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fnref:7)
-
-8. Renvoi à deux objectifs clés de la [Politique sur la gestion des projets et des programmes (anglais seulement)](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Policy%20on%20Project%20and%20Programme%20Management.pdf) d’EDSC : no2 (accent sur les avantages) et no 4 (intention de réduire les risques) [](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fnref:8)
-
-9. [DORA State of DevOps 2019 (anglais seulement)](https://services.google.com/fh/files/misc/state-of-devops-2019.pdf), pages 40, 51 et 53 [](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fnref:9)
-
-10. Voir la [Stratégie de données (anglais seulement)](https://www.gcpedia.gc.ca/wiki/CDO_Resources) du Bureau du dirigeant principal des données d’EDSC concernant l’utilisation de l’analytique pour éclairer les décisions relatives à l’amélioration des services [](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fnref:10)
-
-11. [Enabling conditions, not just heroics (anglais seulement)](https://honeygolightly.medium.com/enabling-conditions-not-just-heroics-110a2faba643), Honey Dacanay, novembre 2020 [](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fnref:11)
-
-12. [Team Topology (anglais seulement)](https://teamtopologies.com/), 2019, par Matthew Skelton et Manuel Pais [](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fnref:12)
-
-13. Les quatre procédures obligatoires sont les suivantes : [Évaluation de l’architecture intégrée](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32602), [IPA](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32604), [Protection des renseignements personnels et surveillance liées à l’utilisation des dispositifs et des réseaux](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32607), [Contrôles de sécurité des TI](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32611)
-
-14. [Nouvelles de la DGIIT – Coin des félicitations (anglais seulement)](http://esdc.prv/en/iitb/corporate/news/archives.shtml)
-
-15. Voir l’[Architecture intégrée cible des services et du numérique du SCT](https://gccollab.ca/discussion/view/6671557/enservice-digital-target-enterprise-architecture-and-updates-to-the-enterprise-architecture-frameworkfrarchitecture-intu00e9gru00e9e-cible-des-services-et-du-numu00e9rique-et-mises-u00e0-jour-du-cadre-du2019architecture-intu00e9gru00e9e), qui tend vers les micro-services comme moyen de mieux gérer la dette technique.
-
-16. [Voie à suivre pour la DGIIT (anglais seulement)](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx) [](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fnref:17)
-
-17. Cette définition a été reformulée et s’inspire de la [définition normalisée des produits de The Open Group (anglais seulement)](https://pubs.opengroup.org/architecture/o-aa-standard/#Product).
-
-18. [À propos du Standish Group (anglais seulement)](https://standishgroup.com/about)
-
-19. [Why we love modular contracting (anglais seulement)](https://18f.gsa.gov/2019/04/09/why-we-love-modular-contracting/), par 18F (https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fnref:20)
-
-20. [Grands projets de TI du gouvernement du Canada (anglais seulement)](https://large-government-of-canada-it-projects.github.io/) (https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fnref:21)
-
-21. [Rapport de novembre 2006 de la vérificatrice générale du Canada](https://www.oag-bvg.gc.ca/internet/Francais/parl_oag_200611_03_f_14971.html) (https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fnref:22)
-
-22. [Rapport du printemps 2010 de la vérificatrice générale du Canada](https://www.oag-bvg.gc.ca/internet/Francais/parl_oag_201004_01_f_33714.html) (https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fnref:23)
-
-23. [Rapport Le Point de juin 2011 de la vérificatrice générale du Canada](https://www.oag-bvg.gc.ca/internet/Francais/parl_oag_201106_02_f_35370.html) (https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fnref:24)
-
-24. [Rapport du printemps 2015 du vérificateur général du Canada](https://www.oag-bvg.gc.ca/internet/Francais/parl_oag_201504_05_f_40351.html) (https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fnref:25)
-
-25. [Rapport Le Point de 2018 du vérificateur général du Canada](https://www.oag-bvg.gc.ca/internet/Francais/parl_oag_201805_01_f_43033.html) (https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fnref:26)
-
-26. Février 2020 – Présentation de 18F devant le [Michigan Senate Appropriations Committee (anglais seulement)](https://www.youtube.com/watch?v=g-h6CtSwk30) (https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fnref:27)
-
-27. [À propose de 18F (anglais seulement)](https://18f.gsa.gov/about/) (https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fnref:28)
-
-28. Voir [cet article (anglais seulement)](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/delivering-large-scale-it-projects-on-time-on-budget-and-on-value?cid=soc-web) de McKinsey Digital, 2012 [](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fnref:29)
+[^1]: Modernisation de la prestation des activités (MPA) [2e objectif principal : Souplesse des politiques (anglais seulement)](http://blogs-blogues.prv/ntn-bnt/bdm-not-just-another-acronym-its-an-initiative-transforming-service-delivery-as-we-know-it/)
+[^2]: [Rapport du printemps 2010](https://www.oag-bvg.gc.ca/internet/Francais/parl_oag_201004_01_f_33714.html) de la vérificatrice générale du Canada
+[^3]: [Plan de TI 2019-2022 d’EDSC (anglais seulement)](https://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/ESDC%20IT%20Plan%202019-22%20-%20FINAL.pdf)
+[^4]: [Résultats du Plan ministériel 2019-2020 d’EDSC](https://www.canada.ca/fr/emploi-developpement-social/ministere/rapports/plan-ministeriel/2019-2020/resultats-prevus.html#h2.04)
+[^5]: Voir l’annexe F portant sur les statistiques sur les grands projets axés sur les TI
+[^6]: [How is the Public Service Managing Large IT Projects? (anglais seulement)](https://sara-sabr.github.io/ITStrategy/2020/04/21/how-is-the-public-service-managing-large-IT-project.html), une synthèse de six rapports de la vérificatrice générale/du vérificateur général du Canada
+[^7]: Mark Schwartz, War & Peace & IT
+[^8]: Renvoi à deux objectifs clés de la [Politique sur la gestion des projets et des programmes (anglais seulement)](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Policy%20on%20Project%20and%20Programme%20Management.pdf) d’EDSC : no2 (accent sur les avantages) et no 4 (intention de réduire les risques)
+[^9]: [DORA State of DevOps 2019 (anglais seulement)](https://services.google.com/fh/files/misc/state-of-devops-2019.pdf), pages 40, 51 et 53
+[^10]: Voir la [Stratégie de données (anglais seulement)](https://www.gcpedia.gc.ca/wiki/CDO_Resources) du Bureau du dirigeant principal des données d’EDSC concernant l’utilisation de l’analytique pour éclairer les décisions relatives à l’amélioration des services
+[^11]: [Enabling conditions, not just heroics (anglais seulement)](https://honeygolightly.medium.com/enabling-conditions-not-just-heroics-110a2faba643), Honey Dacanay, novembre 2020
+[^12]: [Team Topology (anglais seulement)](https://teamtopologies.com/), 2019, par Matthew Skelton et Manuel Pais
+[^13]: From an [analysis (anglais seulement)](https://dialogue/grp/BU6810070/Versioned%20Library%20for%20collaboration/Policy_on_service_and_digital_analysis.xlsx) by the IT Strategy team
+[^14]: Les quatre procédures obligatoires sont les suivantes : [Évaluation de l’architecture intégrée](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32602), [IPA](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32604), [Protection des renseignements personnels et surveillance liées à l’utilisation des dispositifs et des réseaux](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32607), [Contrôles de sécurité des TI](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32611)
+[^15]: [Nouvelles de la DGIIT – Coin des félicitations (anglais seulement)](http://esdc.prv/en/iitb/corporate/news/archives.shtml)
+[^16]: Voir l’[Architecture intégrée cible des services et du numérique du SCT](https://gccollab.ca/discussion/view/6671557/enservice-digital-target-enterprise-architecture-and-updates-to-the-enterprise-architecture-frameworkfrarchitecture-intu00e9gru00e9e-cible-des-services-et-du-numu00e9rique-et-mises-u00e0-jour-du-cadre-du2019architecture-intu00e9gru00e9e), qui tend vers les micro-services comme moyen de mieux gérer la dette technique.
+[^17]: [Voie à suivre pour la DGIIT (anglais seulement)](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx)
+[^18]: Cette définition a été reformulée et s’inspire de la [définition normalisée des produits de The Open Group (anglais seulement)](https://pubs.opengroup.org/architecture/o-aa-standard/#Product).
+[^19]: [À propos du Standish Group (anglais seulement)](https://standishgroup.com/about)
+[^20]: [Why we love modular contracting (anglais seulement)](https://18f.gsa.gov/2019/04/09/why-we-love-modular-contracting/), par 18F
+[^21]: [Grands projets de TI du gouvernement du Canada (anglais seulement)](https://large-government-of-canada-it-projects.github.io/)
+[^22]: [Rapport de novembre 2006 de la vérificatrice générale du Canada](https://www.oag-bvg.gc.ca/internet/Francais/parl_oag_200611_03_f_14971.html)
+[^23]: [Rapport du printemps 2010 de la vérificatrice générale du Canada](https://www.oag-bvg.gc.ca/internet/Francais/parl_oag_201004_01_f_33714.html)
+[^24]: [Rapport Le Point de juin 2011 de la vérificatrice générale du Canada](https://www.oag-bvg.gc.ca/internet/Francais/parl_oag_201106_02_f_35370.html)
+[^25]: [Rapport du printemps 2015 du vérificateur général du Canada](https://www.oag-bvg.gc.ca/internet/Francais/parl_oag_201504_05_f_40351.html)
+[^26]: [Rapport Le Point de 2018 du vérificateur général du Canada](https://www.oag-bvg.gc.ca/internet/Francais/parl_oag_201805_01_f_43033.html)
+[^27]: Février 2020 – Présentation de 18F devant le [Michigan Senate Appropriations Committee (anglais seulement)](https://www.youtube.com/watch?v=g-h6CtSwk30)
+[^28]: [À propose de 18F (anglais seulement)](https://18f.gsa.gov/about/)
+[^29]: Voir [cet article (anglais seulement)](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/delivering-large-scale-it-projects-on-time-on-budget-and-on-value?cid=soc-web) de McKinsey Digital, 2012
