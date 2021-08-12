@@ -594,7 +594,6 @@
     "taile",
     "insuffissant",
     "montan"
-
   ],
   "flagWords": [],
   "import": ["node_modules/@cspell/dict-fr-fr/cspell-ext.json"],
