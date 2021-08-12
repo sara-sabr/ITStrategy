@@ -566,8 +566,18 @@
     "overembellishment",
     "fonctionnalitées",
     "L'incidence",
+    "OASS",
+    "SAGI",
+    "BGPDG",
+    "quoiqu'equivalent",
+    "suringénierie",
+    "GIPA",
+    "CVGP",
+    "habilitantes",
+    "taile",
     "insuffissant",
     "montan"
+
   ],
   "flagWords": [],
   "import": ["node_modules/@cspell/dict-fr-fr/cspell-ext.json"],
