@@ -584,7 +584,9 @@
     "habilitantes",
     "CGCO",
     "DDPI",
-    "ASFC"
+    "ASFC",
+    "interfonctionnelle",
+    "BGPO"
   ],
   "flagWords": [],
   "import": ["node_modules/@cspell/dict-fr-fr/cspell-ext.json"],
