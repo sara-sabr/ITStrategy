@@ -12,7 +12,6 @@ permalink: /la-solution-de-TI-cible.html
 <!-- cSpell:ignoreRegExp /\<[^\>]+\>/ -->
 
 <!-- The img + em {} stylecheet selector is a hack to add caption to an image in markdown without using plugin: https://stackoverflow.com/questions/19331362/using-an-image-caption-in-markdown-jekyll -->
-
 <style>
 table, th, td {
   border: 1px solid black;
@@ -25,16 +24,16 @@ img + em { display: inline-block; }
 </style>
 
 <div class="alert alert-warning">
-<strong>Il s’agit d’une stratégie PROVISOIRE</strong>. Elle fait actuellement l’objet d’un processus d’examen par les pairs. À mesure que de la <a href="https://sara-sabr.github.io/ITStrategy/target-solution-delivery-model-strategy-areas-of-concerns.html"> rétroaction sera recueillie</a>, la stratégie sera mise à jour en conséquence.
+<b>Il s’agit d’une stratégie PROVISOIRE</b>. Elle fait actuellement l’objet d’un processus d’examen par les pairs. À mesure que de la <a href="https://sara-sabr.github.io/ITStrategy/target-solution-delivery-model-strategy-areas-of-concerns.html"> rétroaction sera recueillie</a>, la stratégie sera mise à jour en conséquence.
 </div>
 
 *Remarque 1 : la source faisant autorité et la dernière version de la stratégie sont disponibles sur le [réseau interne d’EDSC](https://014gc.sharepoint.com/sites/TargetITSolutionDeliveryModel)*
 
 *Remarque 2 : cette page renferme des liens vers des documents internes d’EDSC, qui ne sont malheureusement accessibles que sur le réseau ministériel d’EDSC.*
 
-## Table des matières
-
-- [Table des matières](#table-des-matières)
+<!-- markdownlint-disable MD001 -->
+##### Table des matières
+<!-- markdownlint-enable MD001 -->
 - [Introduction](#introduction)
   - [Objet](#objet)
   - [Public cible](#public-cible)
@@ -85,21 +84,20 @@ Le passage à l’ère numérique met en évidence l’omniprésence de la techn
 Par conséquent, pour itérer ses politiques et ses offres de services[^1], EDSC devra apporter des changements à ses technologies.
 Afin d’assurer une meilleure prestation de services aux Canadiens, nous devons améliorer la réactivité de la TI, sinon la boucle de rétroaction entre les décideurs et les Canadiens sera trop longue, ce qui aura des répercussions sur la capacité d’EDSC d’itérer sa capacité d’élaboration de politiques et de devenir une organisation agile.
 
-<!--![This image depicts a feedback process loop.
-The image shows three icons: Policy Makers, Technology and Canadians.
-Between each icon there is an arrow showing a relationship as follows: Policy Makers must use Technology to implement their policies, Technology is then used to deliver services to Canadians, and after interacting with a service, Canadians provide their feedback to Policy Makers]({{ site.baseurl }}/assets/images/policy_through_technology.png) *Figure 1. À l’ère numérique, la technologie permet de relier les décideurs et les Canadiens* -->
+![This image depicts a feedback process loop. The image shows three icons: Policy Makers, Technology and Canadians. Between each icon there is an arrow showing a relationship as follows: Policy Makers must use Technology to implement their policies, Technology is then used to deliver services to Canadians, and after interacting with a service, Canadians provide their feedback to Policy Makers]({{ site.baseurl }}/assets/images/policy_through_technology.png)
+*Figure 1. À l’ère numérique, la technologie permet de relier les décideurs et les Canadiens*
 
-EDSC a besoin de **déploiements de production** pour obtenir les **données empiriques** nécessaires à la **prise de décisions fondées sur des données probantes**.
+> EDSC a besoin de **déploiements de production** pour obtenir les **données empiriques** nécessaires à la **prise de décisions fondées sur des données probantes**.
 
-EDSC n’est pas un nouveau ministère. Il a accumulé une [dette technique importante](https://www.oag-bvg.gc.ca/internet/Francais/parl_oag_201004_01_f_33714.html)[^2] au cours de ses décennies d’activités, ce qui a une incidence sur la réactivité des TI. Le [portefeuille d’applications d’EDSC contient plus de 500 applications (anglais seulement)](https://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/ESDC%20IT%20Plan%202019-22%20-%20FINAL.pdf)[^3], dont 101 sont essentielles à la mission et reposent sur des technologies existantes (applications personnalisées et ordinateurs centraux désuets). En réponse aux limites des systèmes de TI désuets, EDSC a commencé à investir dans un programme de [modernisation de la prestation des activités](https://www.canada.ca/fr/emploi-developpement-social/ministere/rapports/plan-ministeriel/2019-2020/resultats-prevus.html#h2.04)[^4].
 EDSC n’est pas un nouveau ministère.
-Il a accumulé une [dette technique importante](https://www.oag-bvg.gc.ca/internet/Francais/parl_oag_201004_01_f_33714.html)[^2](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:2) au cours de ses décennies d’activités, ce qui a une incidence sur la réactivité des TI.
-Le [portefeuille d’applications d’EDSC contient plus de 500 applications (anglais seulement)](https://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/ESDC%20IT%20Plan%202019-22%20-%20FINAL.pdf)[^3](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:3), dont 101 sont essentielles à la mission et reposent sur des technologies existantes (applications personnalisées et ordinateurs centraux désuets).
+Il a accumulé une [dette technique importante](https://www.oag-bvg.gc.ca/internet/Francais/parl_oag_201004_01_f_33714.html)[^2] au cours de ses décennies d’activités, ce qui a une incidence sur la réactivité des TI.
+Le [portefeuille d’applications d’EDSC contient plus de 500 applications (anglais seulement)](https://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/ESDC%20IT%20Plan%202019-22%20-%20FINAL.pdf)[^3], dont 101 sont essentielles à la mission et reposent sur des technologies existantes (applications personnalisées et ordinateurs centraux désuets).
 En réponse aux limites des systèmes de TI désuets, EDSC a commencé à investir dans un programme de [modernisation de la prestation des activités](https://www.canada.ca/fr/emploi-developpement-social/ministere/rapports/plan-ministeriel/2019-2020/resultats-prevus.html#h2.04)[^4].
 
 Toutefois, le recours aux TI est un investissement risqué et coûteux[^5].
 
-La plupart des recommandations issues des audits externes[^6] sur la réduction des risques liés aux investissements dans la technologie semblent viser une gouvernance plus solide et plus disciplinée. Il est essentiel de pouvoir prévoir plus précisément ce que nous réserve l’avenir, afin de réduire les risques liés à ce type d’investissements.
+La plupart des recommandations issues des audits externes[^6] sur la réduction des risques liés aux investissements dans la technologie semblent viser une gouvernance plus solide et plus disciplinée.
+Il est essentiel de pouvoir prévoir plus précisément ce que nous réserve l’avenir, afin de réduire les risques liés à ce type d’investissements.
 
 Toutefois, pour travailler efficacement dans le monde numérique, il faut d’abord accepter la complexité et l’incertitude, ce qui exige une approche très différente pour mener à bien toute initiative.
 Un monde prévisible récompense la planification précoce et l’exécution rigide des plans.
@@ -194,7 +192,6 @@ Les intervenants doivent continuer de se conformer aux instruments de politique 
 3. Les équipes DevOps comptent un maximum de neuf membres multidisciplinaires.
 4. Les équipes DevOps ont recours à l’automatisation des outils d’immotique.
 5. Les équipes DevOps ont recours à l’automatisation des essais pour :
-
     - Essais unitaires
     - Essais d’intégration
     - Automatisation des essais de sécurité
@@ -202,7 +199,6 @@ Les intervenants doivent continuer de se conformer aux instruments de politique 
     - Essais de rendement
     - Essais fonctionnels
     - Test de fumée
-
 6. Les équipes DevOps ont recours à l’intégration continue.
 7. Les équipes DevOps ont recours à l’automatisation du lancement des applications.
 8. Les équipes DevOps ont recours à un système de contrôle des versions axé sur Git.
@@ -213,293 +209,380 @@ Les intervenants doivent continuer de se conformer aux instruments de politique 
 Les mesures suivantes doivent être prises pour que le modèle de prestation de la solution de TI cible soit opérationnel.
 
 <table>
-    <colgroup>
-        <col style="width: 17%" />
-        <col style="width: 17%" />
-        <col style="width: 27%" />
-        <col style="width: 17%" />
-        <col style="width: 19%" />
-    </colgroup>
-    <thead>
-    <tr class="header">
-        <th><strong>Catégorie de politique</strong></th>
-        <th><strong>Mesure</strong></th>
-        <th><strong>Description</strong></th>
-        <th><strong>Responsable</strong></th>
-        <th><strong>Collaborateur(s)</strong></th>
+    <tr>
+        <th>Catégorie de politique</th>
+        <th>Mesure</th>
+        <th>Description</th>
+        <th>Responsable</th>
+        <th>Collaborateur(s)</th>
     </tr>
-    </thead>
-    <tbody>
-    <tr class="odd">
-    <td rowspan="8"><strong>Gouvernance</strong></td>
+    <tr>
+    <td rowspan="8"><b>Gouvernance</b></td>
     <td>Examiner la chaîne de décision de la gouvernance des projets de TI</td>
-    <td><p>Examiner le mandat des comités de gouvernance participant au CVGP du projet axé sur la TI et proposer des recommandations pour veiller au bon fonctionnement de l’état cible, p. ex. :</p><p>Délaisser les points de contrôle et miser sur la surveillance et la prise de correctifs</p><p>Permettre la prise de décisions automatique selon les conditions des balises (p. ex., petits changements aux produits de TI existants)</p></td>
-    <td><em><strong>Gouvernance de la DGIIT</strong></em></td>
-    <td>CDGSP<br />
-    COGC<br />
-    CEA<br />
-    CEAI (peut-être)<br />
-    CEPP<br />
-    COPP<br />
-    CDPIN<br />
-    Stratégie de TI<br />
-    DGDPF-GIPA</td>
+    <td>
+    Examiner le mandat des comités de gouvernance participant au CVGP du projet axé sur la TI et proposer des recommandations pour veiller au bon fonctionnement de l’état cible, p. ex. :<br>
+    <li>Délaisser les points de contrôle et miser sur la surveillance et la prise de correctifs</li>
+    <li>Permettre la prise de décisions automatique selon les conditions des balises (p. ex., petits changements aux produits de TI existants)</li>
+    </td>
+    <td><b><i>Gouvernance de la DGIIT</i></b></td>
+    <td>
+    CDGSP<br>
+    COGC<br>
+    CEA<br>
+    CEAI (peut-être)<br>
+    CEPP<br>
+    COPP<br>
+    CDPIN<br>
+    Stratégie de TI<br>
+    DGDPF-GIPA
+    </td>
     </tr>
-    <tr class="even">
+    <tr>
     <td>Ajuster le CVDL de la DGIIT</td>
     <td>Ajuster le CVDL de la DGIIT afin de l’intégrer au nouveau cadre de gouvernance agile axé sur la TI.</td>
-    <td><em><strong>BGPDG</strong></em></td>
+    <td><b><i>BGPDG</i></b></td>
     <td>Conseillers principaux</td>
     </tr>
-    <tr class="odd">
+    <td>
     <td>Produire une norme sur les conditions de réception des projets axés sur la TI</td>
-    <td><p>Dresser une liste des conditions que les projets axés sur la TI doivent respecter avant qu’ils puissent être acceptés.</p>
-    <p>Les mesures des résultats opérationnels sont définies et approuvées par l’architecte en chef d’EDSC.</p>
-    <p>Le promoteur opérationnel s’engage à avoir au moins un expert en la matière pendant toute la durée du projet de TI.</p>
-    <p>Le parrain opérationnel s’engage à avoir au moins un expert en politiques pendant toute la durée du projet de TI.</p>
-    <p>Le parrain opérationnel s’engage à assurer la disponibilité d’un échantillon d’utilisateurs finaux tout au long du projet de TI.</p><p>Si les utilisateurs finaux sont des citoyens, il est recommandé de recourir à des groupes de discussion.</p>
-    <p>La DGIIT a désigné un seul responsable de la prestation de la solution de TI et de la transition aux opérations de mise en service.</p></td>
-    <td><em><strong>GSTI</strong></em></td>
-    <td>BGPDG<br />
-    GRO<br />
-    Architecture d’entreprise<br />
-    Architecture opérationnelle<br />
-    DGDPF-GIPA<br />
-    BDPD</td>
+    <td>
+    Dresser une liste des conditions que les projets axés sur la TI doivent respecter avant qu’ils puissent être acceptés.<br>
+    <li>Les mesures des résultats opérationnels sont définies et approuvées par l’architecte en chef d’EDSC.</li>
+    <li>Le promoteur opérationnel s’engage à avoir au moins un expert en la matière pendant toute la durée du projet de TI.</li>
+    <li>Le parrain opérationnel s’engage à avoir au moins un expert en politiques pendant toute la durée du projet de TI.</li>
+    <li>Le parrain opérationnel s’engage à assurer la disponibilité d’un échantillon d’utilisateurs finaux tout au long du projet de TI.</li>
+    <li>Si les utilisateurs finaux sont des citoyens, il est recommandé de recourir à des groupes de discussion.</li>
+    <li>La DGIIT a désigné un seul responsable de la prestation de la solution de TI et de la transition aux opérations de mise en service.</li>
+    </td>
+    <td>
+    <b><i>GSTI</i></b>
+    </td>
+    <td>
+    BGPDG<br>
+    GRO<br>
+    Architecture d’entreprise<br>
+    Architecture opérationnelle<br>
+    DGDPF-GIPA<br>
+    BDPD
+    </td>
     </tr>
-    <tr class="even">
-    <td>Produire un cadre de gouvernance agile pour les projets axés sur la TI.</td>
-    <td>Produire un cadre normalisé pour régir les projets axés sur la TI conformément au modèle de prestation de la solution de TI cible. Un cadre normalisé est nécessaire pour réduire la confusion, assurer la cohérence entre les équipes et veiller à ce que la gouvernance demeure fluide, afin d’offrir une marge de manœuvre en matière de souplesse.
-    On s’attend à ce que les chaînes de valeur du développement soient définies à même ce cadre, tout comme les IRC dont il faudra rendre compte.<br />
-    <br />
-    Comme pour l’ébauche de l’expérience numérique et des données sur les clients (ENDC) de la MPA, <a href="https://014gc.sharepoint.com/:p:/r/sites/DECD/Shared%20Documents/Team%20-%20Digital%20Channel%20Strategy%20%26%20Oversight/Project%20Management%20Office/DECD%20Agile%20Governance.pptx?d=w831833ad477448d5bfa7662346319df6&amp;csf=1&amp;web=1&amp;e=CD3jWg">vous trouverez de plus amples renseignements sur la gouvernance agile en cliquant ici (anglais seulement)</a>.</td>
-    <td><em><strong>BGPDG</strong></em></td>
-    <td>Conseillers principaux<br />
-    Architecture d’entreprise<br />
-    GRO<br />
-    Gouvernance de la DGIIT<br />
-    DGDPF-GIPA</td>
+    <tr>
+        <td>Produire un cadre de gouvernance agile pour les projets axés sur la TI.</td>
+        <td>
+        Produire un cadre normalisé pour régir les projets axés sur la TI conformément au modèle de prestation de la solution de TI cible. Un cadre normalisé est nécessaire pour réduire la confusion, assurer la cohérence entre les équipes et veiller à ce que la gouvernance demeure fluide, afin d’offrir une marge de manœuvre en matière de souplesse. On s’attend à ce que les chaînes de valeur du développement soient définies à même ce cadre, tout comme les IRC dont il faudra rendre compte.
+    <br><br>
+    Comme pour l’ébauche de l’expérience numérique et des données sur les clients (ENDC) de la MPA, <a href="https://014gc.sharepoint.com/:p:/r/sites/DECD/Shared%20Documents/Team%20-%20Digital%20Channel%20Strategy%20%26%20Oversight/Project%20Management%20Office/DECD%20Agile%20Governance.pptx?d=w831833ad477448d5bfa7662346319df6&amp;csf=1&amp;web=1&amp;e=CD3jWg">vous trouverez de plus amples renseignements sur la gouvernance agile en cliquant ici (anglais seulement)</a>.
+    </td>
+    <td>
+    <b><i>BGPDG</i></b>
+    </td>
+    <td>
+    Conseillers principaux<br>
+    Architecture d’entreprise<br>
+    GRO<br>
+    Gouvernance de la DGIIT<br>
+    DGDPF-GIPA
+    </td>
     </tr>
-    <tr class="odd">
+    <tr>
     <td>Produire un document d’orientation stratégique</td>
-    <td>Produire un document d’orientation à titre de document d’appui à la politique d’orientation du modèle de prestation de la solution de TI cible pour démontrer à quoi celle-ci ressemble et comment les équipes qui y participent peuvent s’y conformer.
+    <td>Produire un document d’orientation à titre de document d’appui à la politique d’orientation du modèle de prestation de la solution de TI cible pour démontrer à quoi celle-ci ressemble et comment les équipes qui y participent peuvent s’y conformer.</td>
+    <td>
+    <b><i>Stratégie de TI</i></b>
     </td>
-    <td><em><strong>Stratégie de TI</strong></em></td>
-    <td>BGPDG<br />
-    CEI<br />
-    Conseillers principaux<br />
-    GRO<br />
-    DGDPF-GIPA</td>
+    <td>
+    BGPDG<br>
+    CEI<br>
+    Conseillers principaux<br>
+    GRO<br>
+    DGDPF-GIPA
+    </td>
     </tr>
-    <tr class="even">
+    <tr>
     <td>Produire des mesures de développement normalisées pour les équipes DevOps.</td>
-    <td><p>Dresser une liste des mesures de développement minimales que les équipes DevOps doivent publier. L’objectif de ces mesures est de fournir un aperçu de la maturité du développement des équipes et des niveaux d’assurance de la qualité des produits de TI avant qu’ils soient mis en production, p. ex. :</p>
-    <p>Résultats des essais d’accessibilité</p>
-    <p>Résultats des essais d’intégration</p>
-    <p>Résultats des essais de sécurité</p>
-    <p>Pistes de vérification du déploiement de production</p>
-    <p>Arriéré des produits de TI faisant partie de la cadence de l’équipe DevOps</p>
-    <p>Délai moyen d’examen des demandes de retrait</p>
-    <p>Résultats des essais de rendement</p>
+    <td>
+    Dresser une liste des mesures de développement minimales que les équipes DevOps doivent publier. L’objectif de ces mesures est de fournir un aperçu de la maturité du développement des équipes et des niveaux d’assurance de la qualité des produits de TI avant qu’ils soient mis en production, p. ex. :<br>
+    <li>Résultats des essais d’accessibilité</li>
+    <li>Résultats des essais d’intégration</li>
+    <li>Résultats des essais de sécurité</>
+    <li>Pistes de vérification du déploiement de production</li>
+    <li>Arriéré des produits de TI faisant partie de la cadence de l’équipe DevOps</li>
+    <li>Délai moyen d’examen des demandes de retrait</li>
+    <li>Résultats des essais de rendement</li>
     </td>
-    <td><em><strong>Équipe de gestion du changement (MPSC)</strong></em></td>
-    <td>Conseillers principaux<br />
-    STN<br />
-    Interopérabilité<br />
-    BGPDG<br />
-    Recherche et prototype<br />
-    CEI</td>
+    <td><b><i>Équipe de gestion du changement (MPSC)</i></b></td>
+    <td>
+    Conseillers principaux<br>
+    STN<br>
+    Interopérabilité<br>
+    BGPDG<br>
+    Recherche et prototype<br>
+    CEI
+    </td>
     </tr>
-    <tr class="odd">
+    <tr>
     <td>Produire des mesures de production normalisées pour les produits de TI.</td>
-    <td><p>Dresser une liste des mesures de production minimales que les produits de TI doivent publier. Ces mesures visent à fournir un aperçu de la santé et des comportements des produits de TI une fois en production.
-    Ces données permettront de continuer d’améliorer les produits de TI, p. ex. :</p>
-    <p>Statistiques sur la consommation d’IPA</p>
-    <p>Statistiques sur la disponibilité des produits de TI</p>
-    <p>Efficacité et efficience des décisions automatisées des produits de TI (s’il y a lieu)</p></td>
-    <td><em><strong>Équipe de gestion du changement (MPSC)</strong></em></td>
-    <td>Conseillers principaux<br />
-    STN<br />
-    Interopérabilité<br />
-    BGPDG<br />
-    Recherche et prototype<br />
-    CEI</td>
-    </tr>
-    <tr class="even">
-    <td>Produire une définition normalisée pour le terme « équipe DevOps ».</td>
-    <td>Produire une définition normalisée énumérant les exigences minimales, les rôles et les responsabilités pour qu’une équipe puisse être qualifiée « d’équipe DevOps ». Cela permet de réduire la confusion et l’utilisation erronée du terme puisque la politique d’orientation accorde plus de pouvoirs à ces équipes.<br />
-    <br />
-    <a href="{{ site.baseurl }}/assets/files/standard-devops-team-definition.docx">Ébauche (document principal sur Office 365 mis à la disposition du personnel d’EDSC, anglais seulement)</a>.</td>
-    <td><em><strong>Équipe de gestion du changement (MPSC)</strong></em></td>
-    <td>BGPDG<br />
-    CEI<br />
-    Conseillers principaux<br />
-    Recherche et prototype<br />
-    Interopérabilité<br />
-    STN</td>
-    </tr>
-    <tr class="odd">
-    <td rowspan="5"><strong>Conformité</strong></td>
-    <td>Produire un processus d’EAS cible.</td>
-    <td>Produire un processus d’EAS cible qui favorise et encourage les capacités d’automatisation du développement et des opérations (DevOps), les résultats des essais, l’évolution des produits et l’établissement d’un pipeline DevOps fiable.
+    <td>
+    Dresser une liste des mesures de production minimales que les produits de TI doivent publier. Ces mesures visent à fournir un aperçu de la santé et des comportements des produits de TI une fois en production. Ces données permettront de continuer d’améliorer les produits de TI, p. ex. :
+    <li>Statistiques sur la consommation d’IPA</li>
+    <li>Statistiques sur la disponibilité des produits de TI</li>
+    <li>Efficacité et efficience des décisions automatisées des produits de TI (s’il y a lieu)</li>
     </td>
-    <td><em><strong>Sécurité des TI</strong></em></td>
-    <td>Unité de la conformité de la DGIIT<br />
-    Conseillers principaux</td>
+    <td><b><i>Équipe de gestion du changement (MPSC)</i></b></td>
+    <td>
+    Conseillers principaux<br>
+    STN<br>
+    Interopérabilité<br>
+    BGPDG<br>
+    Recherche et prototype<br>
+    CEI
+    </td>
     </tr>
-    <tr class="even">
+    <tr>
+    <td>Produire une définition normalisée pour le terme « équipe DevOps ».</td>
+    <td>Produire une définition normalisée énumérant les exigences minimales, les rôles et les responsabilités pour qu’une équipe puisse être qualifiée « d’équipe DevOps ». Cela permet de réduire la confusion et l’utilisation erronée du terme puisque la politique d’orientation accorde plus de pouvoirs à ces équipes.
+    <br><br>
+    <a href="{{ site.baseurl }}/assets/files/standard-devops-team-definition.docx">Ébauche (document principal sur Office 365 mis à la disposition du personnel d’EDSC, anglais seulement)</a>.
+    </td>
+    <td>
+    <b><i>Équipe de gestion du changement (MPSC)</i></b>
+    </td>
+    <td>
+    BGPDG<br>
+    CEI<br>
+    Conseillers principaux<br>
+    Recherche et prototype<br>
+    Interopérabilité<br>
+    STN
+    </td>
+    </tr>
+    <tr>
+    <td rowspan="5"><b>Conformité</b></td>
+    <td>Produire un processus d’EAS cible.</td>
+    <td>Produire un processus d’EAS cible qui favorise et encourage les capacités d’automatisation du développement et des opérations (DevOps), les résultats des essais, l’évolution des produits et l’établissement d’un pipeline DevOps fiable.</td>
+    <td>
+    <b><i>Sécurité des TI</i></b>
+    </td>
+    <td>
+    Unité de la conformité de la DGIIT<br>
+    Conseillers principaux
+    </td>
+    </tr>
+    <tr>
     <td>Produire une méthodologie d’évaluation financière cible.</td>
-    <td>Produire une méthodologie d’évaluation financière cible qui favorise et encourage les capacités d’automatisation DevOps, les résultats des essais et l’évolution des produits.<br />
+    <td>Produire une méthodologie d’évaluation financière cible qui favorise et encourage les capacités d’automatisation DevOps, les résultats des essais et l’évolution des produits.<br>
     Les processus de vérification visés comprennent la vérification interne d’EDSC et non les entités de vérification externe.
     </td>
-    <td><em><strong>DGVIGRE</strong></em></td>
-    <td>Unité de la conformité de la DGIIT<br />
-    Conseillers principaux<br />
-    DGDPF-DIRCM</td>
+    <td>
+    <b><i>DGVIGRE</i></b>
+    </td>
+    <td>
+    Unité de la conformité de la DGIIT<br>
+    Conseillers principaux<br>
+    DGDPF-DIRCM
+    </td>
     </tr>
-    <tr class="odd">
-    <td>Produire une méthodologie d’évaluation de l’accessibilité cible.</td><
-    td>Produire une méthodologie d’évaluation de l’accessibilité cible qui favorise et encourage les capacités d’automatisation DevOps, les résultats des essais et l’évolution des produits.</td>
-    <td><em><strong>Accessibilité</strong></em></td>
-    <td>BGPDG<br />
-    Conseillers principaux</td>
+    <tr>
+    <td>Produire une méthodologie d’évaluation de l’accessibilité cible.</td>
+    <td>Produire une méthodologie d’évaluation de l’accessibilité cible qui favorise et encourage les capacités d’automatisation DevOps, les résultats des essais et l’évolution des produits.</td>
+    <td>
+    <b><i>Accessibilité</i></b>
+    </td>
+    <td>
+    BGPDG<br>
+    Conseillers principaux
+    </td>
     </tr>
-    <tr class="even"><td>Produire une méthodologie d’évaluation du SDA cible.</td>
+    <tr>
+    <td>Produire une méthodologie d’évaluation du SDA cible.</td>
     <td>Produire une méthodologie d’évaluation du système décisionnel automatisé cible pour s’assurer que tout logiciel doté de fonctionnalités de prise de décisions automatisée est conforme à la Directive sur la prise de décisions automatisée, y compris les contrôles relatifs à la vie privée et juridiques qui peuvent être automatisés.</td>
-    <td><em><strong>CEIA</strong></em></td>
-    <td>BDPD<br />
-    Division de la gestion de la protection des renseignements personnels<br />
-    Services juridiques</td>
+    <td><b><i>CEIA</i></b></td>
+    <td>
+    BDPD<br>
+    Division de la gestion de la protection des renseignements personnels<br>
+    Services juridiques
+    </td>
     </tr>
-    <tr class="odd">
+    <tr>
     <td>Produire des directives et des normes sur les essais automatisés.</td>
-    <td>Guider les équipes DevOps dans le recours aux essais automatisés pour les différents types d’essais visés. Élaborer des normes sur les seuils acceptables pour l’automatisation des versions des applications entre les environnements (jusqu’à l’étape de la production inclusivement).</td>
-    <td><em><strong>Équipe de gestion du changement (MPSC)</strong></em></td>
-    <td>Sécurité des TI<br />
-    Accessibilité<br />
-    Services d’essai<br />
-    Conseillers principaux</td>
+    <td>Guider les équipes DevOps dans le recours aux essais automatisés pour les différents types d’essais visés.
+    Élaborer des normes sur les seuils acceptables pour l’automatisation des versions des applications entre les environnements (jusqu’à l’étape de la production inclusivement).
+    </td>
+    <td>
+    <b><i>Équipe de gestion du changement (MPSC)</i></b>
+    </td>
+    <td>
+    Sécurité des TI<br>
+    Accessibilité<br>
+    Services d’essai<br>
+    Conseillers principaux
+    </td>
     </tr>
-    <tr class="even">
-    <td rowspan="5"><strong>Architecture</strong></td>
+    <tr>
+    <td rowspan="5"><b>Architecture</b></td>
     <td>Passer en revue les briques techniques</td>
-    <td>Revoir le processus de gestion des briques techniques pour permettre aux équipes des produits de TI d’adopter des combinaisons de technologies atypiques, en plus de recommander des normes émergentes.
-    Évaluer les conditions et les responsabilités des intervenants en ce qui concerne les combinaisons de technologies atypiques, ainsi que lorsque les besoins d’approbation sont justifiés.</td>
-    <td><em><strong>Architecture technique</strong></em></td>
-    <td>GTNT<br />
-    CEI<br />
-    COGC<br />
-    Stratégie de TI<br />
-    Conseillers principaux<br />
-    CEAI</td>
+    <td>Revoir le processus de gestion des briques techniques pour permettre aux équipes des produits de TI d’adopter des combinaisons de technologies atypiques, en plus de recommander des normes émergentes. Évaluer les conditions et les responsabilités des intervenants en ce qui concerne les combinaisons de technologies atypiques, ainsi que lorsque les besoins d’approbation sont justifiés.</td>
+    <td>
+    <b><i>Architecture technique</i></b>
+    </td>
+    <td>
+    GTNT<br>
+    CEI<br>
+    COGC<br>
+    Stratégie de TI<br>
+    Conseillers principaux<br>
+    CEAI
+    </td>
     </tr>
-    <tr class="odd">
+    <tr>
     <td>Définir le processus d’approbation des IPA</td>
-    <td>Définir officiellement le processus d’approbation des IPA pour permettre aux équipes DevOps d’exposer la fonctionnalité et les données de leurs produits au moyen d’IPA sécurisées. Fournir les normes auxquelles les équipes DevOps doivent se conformer lors de la diffusion d’IPA sécurisées, comme les formats d’échange de données, les modèles de données de référence, les contrôles de sécurité et les <a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32604">procédures obligatoires relatives aux évaluations d’IPA</a> (Directive sur les services et le numérique).</td>
-    <td><em><strong>Interopérabilité</strong></em></td>
-    <td>Architecture d’entreprise<br />
-    Architecture de solutions<br />
-    BDPD</td>
+    <td>Définir officiellement le processus d’approbation des IPA pour permettre aux équipes DevOps d’exposer la fonctionnalité et les données de leurs produits au moyen d’IPA sécurisées.
+    Fournir les normes auxquelles les équipes DevOps doivent se conformer lors de la diffusion d’IPA sécurisées, comme les formats d’échange de données, les modèles de données de référence, les contrôles de sécurité et les <a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32604">procédures obligatoires relatives aux évaluations d’IPA</a> (Directive sur les services et le numérique).
+    </td>
+    <td>
+    <b><i>Interopérabilité</i></b>
+    </td>
+    <td>
+    Architecture d’entreprise<br>
+    Architecture de solutions<br>
+    BDPD
+    </td>
     </tr>
-    <tr class="even">
+    <tr>
     <td>Définir la vision de l’architecture cible pour les environnements existants.</td>
-    <td>Définir la vision de l’architecture cible pour les environnements existants afin de faciliter la transition vers la MPA et le modèle de prestation de la solution de TI cible.
-    La vision de l’architecture cible consiste à fournir une orientation et à établir des attentes raisonnables pour les équipes DevOps dans un environnement existant. Son contenu vise à fournir un aperçu conceptuel des architectures multicouches (présentation, intégration, systèmes/applications, informations/données, réseautage et sécurité) et des architectures de référence que les équipes de projet peuvent mettre en œuvre (voir les <a href="https://dzone.com/articles/monolith-to-microservices-using-the-strangler-patt">schémas en goulot d’étranglement (anglais seulement)</a>).</td>
-    <td><em><strong>Architecture d’entreprise</strong></em></td>
-    <td>Dette technique<br />
-    Architecture de solutions<br />
-    Architecture technique<br />
-    Avantages BSI et solutions de gestion des cas</td>
+    <td>
+    Définir la vision de l’architecture cible pour les environnements existants afin de faciliter la transition vers la MPA et le modèle de prestation de la solution de TI cible. La vision de l’architecture cible consiste à fournir une orientation et à établir des attentes raisonnables pour les équipes DevOps dans un environnement existant. Son contenu vise à fournir un aperçu conceptuel des architectures multicouches (présentation, intégration, systèmes/applications, informations/données, réseautage et sécurité) et des architectures de référence que les équipes de projet peuvent mettre en œuvre (voir les <a href="https://dzone.com/articles/monolith-to-microservices-using-the-strangler-patt">schémas en goulot d’étranglement (anglais seulement)</a>).
+    </td>
+    <td>
+    <b><i>Architecture d’entreprise</i></b>
+    </td>
+    <td>
+    Dette technique<br>
+    Architecture de solutions<br>
+    Architecture technique<br>
+    Avantages BSI et solutions de gestion des cas
+    </td>
     </tr>
-    <tr class="odd">
+    <tr>
     <td>Produire la liste normalisée des applications existantes d’EDSC</td>
     <td>Produire une liste officielle des applications réputées « héritées » du portefeuille de la GPA. Cette liste normalisée est utilisée par l’énoncé de politique directeur de la 7<sup>e</sup> architecture.</td>
-    <td><em><strong>Architecture d’entreprise</strong></em></td>
+    <td><b><i>Architecture d’entreprise</i></b></td>
     <td>Dette technique</td>
     </tr>
-    <tr class="even">
+    <tr>
     <td>Produire un document d’orientation de l’architecture de couplage libre.</td>
-    <td>Produire un document d’orientation pour éclairer et guider les équipes d’architectes et DevOps dans l’élaboration de solutions de TI au moyen de principes d’architecture de couplage libre, qui assurent aux équipes DevOps une plus grande autonomie.
-    Il existe deux éléments propres au couplage libre qu’il faudra aborder :<br />
-    <br />
-   1. Entre les composantes logicielles qui constituent une application (p. ex., adoption des principes propres aux <a href="https://www.martinfowler.com/microservices/">microservices (anglais seulement)</a> et à l’<a href="https://12factor.net/">application 12 facteurs (anglais seulement)</a>).<br />
-   2. Entre l’application et les données de l’organisation (p. ex., adoption de <a href="https://cloud.google.com/architecture/devops/devops-tech-database-change-management">pratiques de gestion des changements aux bases de données (anglais seulement)</a> pour les processus DevOps, instauration de <a href="https://www.gartner.com/document/3895919">couches d’accès aux données (anglais seulement)</a> aux équipes DevOps).<br />
-    <br />
+    <td>
+    Produire un document d’orientation pour éclairer et guider les équipes d’architectes et DevOps dans l’élaboration de solutions de TI au moyen de principes d’architecture de couplage libre, qui assurent aux équipes DevOps une plus grande autonomie. Il existe deux éléments propres au couplage libre qu’il faudra aborder :<br>
+    <br>
+   1. Entre les composantes logicielles qui constituent une application (p. ex., adoption des principes propres aux <a href="https://www.martinfowler.com/microservices/">microservices (anglais seulement)</a> et à l’<a href="https://12factor.net/">application 12 facteurs (anglais seulement)</a>).<br>
+   2. Entre l’application et les données de l’organisation (p. ex., adoption de <a href="https://cloud.google.com/architecture/devops/devops-tech-database-change-management">pratiques de gestion des changements aux bases de données (anglais seulement)</a> pour les processus DevOps, instauration de <a href="https://www.gartner.com/document/3895919">couches d’accès aux données (anglais seulement)</a> aux équipes DevOps).<br>
+    <br>
     Le document d’orientation devrait inclure des modèles d’architecture et de conception, des principes et des sources de bribes de code réutilisables qui permettront de satisfaire aux attentes en matière de gestion de données.</td>
-    <td><em><strong>Architecture de solutions</strong></em></td>
-    <td>SDA<br />
-    BDPD<br />
-    Conseillers principaux<br />
-    Interopérabilité</td>
+    <td>
+    <b><i>Architecture de solutions</i></b>
+    </td>
+    <td>
+    SDA<br>
+    BDPD<br>
+    Conseillers principaux<br>
+    Interopérabilité
+    </td>
     </tr>
-    <tr class="odd">
-    <td rowspan="3"><strong>Gestion de produits</strong></td>
+    <tr>
+    <td rowspan="3"><b>Gestion de produits</b></td>
     <td>Produire un modèle de prêt d’équipe.</td>
     <td>Collaborer avec le Centre des ressources pour offrir un autre moyen de déployer des ressources dans le cadre de projets, un moyen qui favorise les petites équipes multidisciplinaires dédiées et non les personnes, ainsi que créer des équipes habilitantes responsables d’accélérer la transition des autres équipes vers les processus DevOps (voir la définition d’« équipe DevOps » et les différents types d’équipes).</td>
-    <td><em><strong>Centre de ressources</strong></em></td>
-    <td>Conseillers principaux<br />
-    STN<br />
-    Interopérabilité</td>
+    <td>
+    <b><i>Centre de ressources</i></b>
+    </td>
+    <td>
+    Conseillers principaux<br>
+    STN<br>
+    Interopérabilité
+    </td>
     </tr>
-    <tr class="even">
+    <tr>
     <td>Classifier les produits de TI et leurs responsables.</td>
-    <td>Classifier la liste officielle des produits de TI offerts et désigner un seul responsable pour chaque produit.
+    <td>Classifier la liste officielle des produits de TI offerts et désigner un seul responsable pour chaque produit.</td>
+    <td><b><i>À DÉT.</i></b></td>
+    <td>
+    Dette technique (GPA)<br>
+    Architecture d’entreprise
     </td>
-    <td><em><strong>À DÉT.</strong></em></td>
-    <td>Dette technique (GPA)<br />
-    Architecture d’entreprise</td>
     </tr>
-    <tr class="odd">
+    <tr>
     <td>Créer un modèle matriciel de bassin de ressources.</td>
-    <td>Créer un modèle permettant d’affecter des ressources spécialisées, des champions ou des experts aux équipes DevOps.
+    <td>Créer un modèle permettant d’affecter des ressources spécialisées, des champions ou des experts aux équipes DevOps.</td>
+    <td>
+    <b><i>Équipe de gestion du changement (MPSC)</i></b>
     </td>
-    <td><em><strong>Équipe de gestion du changement (MPSC)</strong></em></td>
-    <td>Centre de ressources<br />
-    Sécurité des TI<br />
-    Accessibilité<br />
-    Services d’essai<br />
-    CEI</td>
+    <td>
+    Centre de ressources<br>
+    Sécurité des TI<br>
+    Accessibilité<br>
+    Services d’essai<br>
+    CEI
+    </td>
     </tr>
-    <tr class="even"><td rowspan="4"><strong>Développement et opérations (DevOps)</strong></td>
+    <tr>
+    <td rowspan="4"><b>Développement et opérations (DevOps)</b></td>
     <td>Obtenir l’approbation de SPC.</td>
     <td>Collaborer avec SPC en vue d’obtenir son approbation pour permettre le déploiement direct dans l’environnement de production (modèle de déploiement sur les lieux).</td>
-    <td><em><strong>Équipe de gestion du changement (MPSC)</strong></em></td>
-    <td>Sécurité des TI<br />
-    SPC</td>
+    <td>
+    <b><i>Équipe de gestion du changement (MPSC)</i></b>
+    </td>
+    <td>
+    Sécurité des TI<br>
+    SPC
+    </td>
     </tr>
-    <tr class="odd">
+    <tr>
     <td>Produire des critères normalisés de gestion des changements.</td>
-    <td><p>Produire des critères normalisés de gestion des changements auxquels tous les pipelines doivent se conformer, à tout le moins, avant de pouvoir promouvoir automatiquement le code dans les environnements de préproduction et de production, p. ex. :</p><p>Axé sur les produits de TI (c.‑à‑d. GUI, IPA, prise de décisions automatisée)</p>
-    <p>Diffusions majeures ou mineures et niveaux d’approbation requis</p>
-    <p>Points de contrôle pour faire approuver la diffusion automatisée</p></td>
-    <td><em><strong>Équipe de gestion du changement (MPSC)</strong></em></td>
-    <td>Sécurité des TI<br />
-    Accessibilité<br />
-    Services d’essai<br />
-    CEAI<br />
-    Unité de la conformité de la DGIIT</td>
+    <td>
+    Produire des critères normalisés de gestion des changements auxquels tous les pipelines doivent se conformer, à tout le moins, avant de pouvoir promouvoir automatiquement le code dans les environnements de préproduction et de production, p. ex. :<br>
+    <li>Axé sur les produits de TI (c.‑à‑d. GUI, IPA, prise de décisions automatisée)</li>
+    <li>Diffusions majeures ou mineures et niveaux d’approbation requis</li>
+    <li>Points de contrôle pour faire approuver la diffusion automatisée</li>
+    </td>
+    <td>
+    <b><i>Équipe de gestion du changement (MPSC)</i></b>
+    </td>
+    <td>
+    Sécurité des TI<br>
+    Accessibilité<br>
+    Services d’essai<br>
+    CEAI<br>
+    Unité de la conformité de la DGIIT
+    </td>
     </tr>
-    <tr class="even">
+    <tr>
     <td>Élaborer les lignes directrices ConOps-DevOps.</td>
     <td>Élaborer des lignes directrices ConOps-DevOps, y compris des processus et des normes de diffusion, sur la diffusion du code de l’étape de l’engagement à celle de la production (p. ex., environnement de préproduction, modèle bleu-vert).</td>
-    <td><em><strong>CEI</strong></em></td>
-    <td>Conseillers principaux de la DGIIT<br />
-    Sécurité des TI<br />
-    BGPDG<br />
-    Opérations infonuagiques</td>
+    <td>
+    <b><i>CEI</i></b>
+    </td>
+    <td>
+    Conseillers principaux de la DGIIT<br>
+    Sécurité des TI<br>
+    BGPDG<br>
+    Opérations infonuagiques
+    </td>
     </tr>
-    <tr class="odd">
+    <tr>
     <td>Fournir aux équipes DevOps des moyens d’expérimenter de nouveaux outils.</td>
     <td>Tirer parti du laboratoire SAFER, de l’image de bureau virtuel et des normes d’architecture technique pour offrir aux équipes DevOps des moyens d’installer et de mettre à l’essai de nouveaux outils novateurs à des fins d’expérimentation, en vue d’apporter éventuellement des mises à jour rapides aux briques techniques.</td>
-    <td><em><strong>Recherche et prototype en matière de TI</strong></em></td>
-    <td>CEI<br />
-    Recherche et prototype<br />
-    Sécurité des TI<br />
-    Environnement de TI<br />
-    GTNT</td>
+    <td>
+    <b><i>Recherche et prototype en matière de TI</i></b>
+    </td>
+    <td>
+    CEI<br>
+    Recherche et prototype<br>
+    Sécurité des TI<br>
+    Environnement de TI<br>
+    GTNT
+    </td>
     </tr>
-    </tbody>
-</table>
+    </table>
 
 ## Mesurer la réussite de la stratégie
 
@@ -514,58 +597,69 @@ Les mesures sont définies comme suit :
 5. *Satisfaction des clients*: niveau général de satisfaction des clients à l’égard des applications faisant partie du portefeuille de la GPA et des produits de TI
 
 <table>
-    <colgroup>
-        <col style="width: 19%" />
-        <col style="width: 39%" />
-        <col style="width: 41%" />
-        </colgroup>
-    <thead>
-        <tr class="header">
-            <th rowspan="2"><strong>Mesure</strong></th>
-            <th colspan="2"><strong>Méthode de collecte</strong></th>
+        <tr>
+            <th rowspan="2"><b>Mesure</b></th>
+            <th colspan="2"><b>Méthode de collecte</b></th>
         </tr>
-        <tr class="odd">
-            <th><strong>Modèle cible</strong></th>
-            <th><strong>Modèle conventionnel</strong></th>
+        <tr>
+            <th><b>Modèle cible</b></th>
+            <th><b>Modèle conventionnel</b></th>
         </tr>
-        </thead>
-        <tbody>
-        <tr class="odd">
+        <tr>
             <td>1. Délai d’exécution des changements</td>
-            <td><em>Automatique</em><br />
-            Utiliser les mesures du pipeline propre à l’équipe DevOps</td>
-            <td><em>Manuelle</em><br />
-            Utiliser les statistiques de l’équipe responsable de la version, conformément à la demande de changement</td>
+            <td>
+            <i>Automatique</i><br>
+            Utiliser les mesures du pipeline propre à l’équipe DevOps
+            </td>
+            <td>
+            <i>Manuelle</i><br>
+            Utiliser les statistiques de l’équipe responsable de la version, conformément à la demande de changement
+            </td>
         </tr>
-        <tr class="even">
+        <tr>
             <td>2. Fréquence de déploiement</td>
-            <td><em>Automatique</em><br />
-            Utiliser les pipelines de livraison continue de l’équipe DevOps</td>
-            <td><em>Manuelle</em><br />
-            Utiliser les mesures de l’équipe responsable du processus de diffusion</td>
+            <td>
+            <i>Automatique</i><br>
+            Utiliser les pipelines de livraison continue de l’équipe DevOps
+            </td>
+            <td>
+            <i>Manuelle</i><br>
+            Utiliser les mesures de l’équipe responsable du processus de diffusion
+            </td>
         </tr>
-        <tr class="odd">
+        <tr>
             <td>3. Taux d’échec des changements</td>
-            <td><em>Automatique</em><br />
-            À dét.</td>
-            <td><em>Manuelle</em><br />
-            Utiliser le registre de compte rendu des changements de l’équipe responsable du processus de diffusion</td>
+            <td>
+            <i>Automatique</i><br>
+            À dét.
+            </td>
+            <td>
+            <i>Manuelle</i><br>
+            Utiliser le registre de compte rendu des changements de l’équipe responsable du processus de diffusion
+            </td>
         </tr>
-        <tr class="even">
+        <tr>
             <td>4. Temps nécessaire pour rétablir le service</td>
-            <td><em>Automatique</em><br />
-            Utiliser l’outil de suivi des incidents de l’équipe DevOps – vérifier le temps qui s’est écoulé entre le signalement de l’incident et sa conclusion</td>
-            <td><em>Automatique</em><br />
-            Utiliser l’outil de suivi des incidents du Centre d’assistance – vérifier le temps qui s’est écoulé entre le signalement de l’incident et sa conclusion</td>
+            <td>
+            <i>Automatique</i><br>
+            Utiliser l’outil de suivi des incidents de l’équipe DevOps – vérifier le temps qui s’est écoulé entre le signalement de l’incident et sa conclusion
+            </td>
+            <td>
+            <i>Automatique</i><br>
+            Utiliser l’outil de suivi des incidents du Centre d’assistance – vérifier le temps qui s’est écoulé entre le signalement de l’incident et sa conclusion
+            </td>
         </tr>
-        <tr class="odd">
+        <tr>
             <td>5. Satisfaction des clients</td>
-            <td><em>Manuelle</em><br />
-            Sondage auprès des clients de la GRO</td>
-            <td><em>Manuelle</em><br />
-            Sondage auprès des clients de la GRO</td>
+            <td>
+            <i>Manuelle</i><br>
+            Sondage auprès des clients de la GRO
+            </td>
+            <td>
+            <i>Manuelle</i><br>
+            Sondage auprès des clients de la GRO
+            </td>
         </tr>
-    </tbody>
 </table>
 
 *Manuelle*: la collecte de données nécessite une intervention manuelle (p. ex., tenue de sondages au moyen du logiciel SimpleSurvey, entrevues, courriels, mises à jour de chiffriers).
@@ -580,30 +674,22 @@ Il est entendu que l’ambition de la stratégie ne se concrétisera pas d’un 
 L’approche de mise en œuvre se fera de manière itérative, en vue d’atteindre l’état cible en trois étapes :
 
 1. **Étape 1 : Fondements et sensibilisation**
-
     - Exposer les équipes de TI d’EDSC existantes qui ont déjà atteint ou presque l’état cible en favorisant leur visibilité au sein de l’organisation et en leur accordant le pouvoir de poursuivre leurs activités dans l’état cible (p. ex., équipes du projet de RPC-E).
     - Sanction 1 - Produit de TI fonctionnant selon le nouveau modèle d’état cible
     - Sanction 1 - Projet axé sur la TI fonctionnant selon le nouveau modèle d’état cible
     - Créer temporairement (sur une durée de trois ans) une communauté d’excellence DevOps financée, qui agira à titre d’agent de changement et d’encadrement pour les équipes de TI existantes d’EDSC en vue de l’adoption des processus DevOps.
     - Désigner des « champions » par fonctions.
-Ces champions offriront des services d’encadrement et de mentorat à d’autres équipes (c.‑à‑d.
-que ce sera le début des « équipes habilitantes » auxquelles fait référence le concept de topologie d’équipe (Team Topology)[^12](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:12)).
+    Ces champions offriront des services d’encadrement et de mentorat à d’autres équipes (c.‑à‑d. que ce sera le début des « équipes habilitantes » auxquelles fait référence le concept de topologie d’équipe (Team Topology)[^12](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:12)).
     - Sensibiliser les parties intéressées au fait que les administrateurs de systèmes doivent adopter le rôle d’ingénieurs de la fiabilité des sites.
-
 2. **Étape 2 : État de préparation de l’infrastructure et des systèmes existants**
-
     - Cerner deux projets axés sur la TI touchant des systèmes existants aux fins de mise à l’essai et les orienter en vue de leur permettre d’atteindre l’état cible (conformément à la vision de l’architecture cible pour les systèmes existants).
     - Fournir des pipelines DevOps communs que les équipes de TI pourront utiliser (financés, ayant passé le processus d’EAS et ayant été adoptés comme normes techniques).
     - Expérimenter avec des environnements hors production, pour les systèmes existants, dans le nuage public (p. ex., environnements d’essai).
-
 3. **Étape 3 : Portée**
-
     - Désigner des « équipes de plateforme » pour fournir des services aux équipes DevOps, au moyen d’outils et d’IPA.
     - Désigner des « équipes des sous-systèmes complexes » pour fournir une expertise spécialisée aux équipes DevOps (p. ex., ordinateurs centraux, mathématiques complexes, analytiques).
     - Produire la structure organisationnelle de la DGIIT (axée sur les équipes multifonctionnelles) et son modèle financier connexe.
-
 4. **Étape 4 : Normalisation et gestion des systèmes existants**
-
     - Obliger tous les nouveaux projets axés sur la TI (qui ne touchent pas aux infrastructures existantes) à se conformer au modèle d’état cible.
     - Obliger tous les projets axés sur la TI existants (qui touchent aux infrastructures existantes) à se réorienter pour atteindre le modèle d’état cible (conformément à la vision de l’architecture cible pour les systèmes existants).
 
@@ -639,11 +725,9 @@ De plus, le GC s’éloigne des [solutions monolithiques (anglais seulement)](ht
 
 La [Directive sur la gestion de projets et programmes du CT](tbs-sct.gc.ca/pol/doc-fra.aspx?id=32594) laisse place à l’approche ci-dessus :
 
-- \[Le promoteur de projet est responsable de :\] 4.2.5 Maintenir des relations efficaces avec les intervenants externes clés, notamment avec les ministères concernés et les fournisseurs de services communs.
-
-- \[Le promoteur de projet est responsable de :\] 4.2.8 Appliquer, selon le cas, des méthodes et des principes incrémentiels, itératifs, souples et axés sur les utilisateurs pour la planification, la définition et la mise en œuvre du projet.
-
-- \[Le promoteur de projet est responsable de :\] 4.2.18 Mettre en place, dès le début du projet, un plan des points de contrôle du projet conforme au cadre ministériel qui : \[4.2.18.1\] documente les décisions qui seront prises à chaque point de contrôle, les éléments probants et les renseignements requis à l’appui des décisions aux points de contrôle, les critères utilisés pour évaluer les éléments probants et la gouvernance des points de contrôle.
+- [Le promoteur de projet est responsable de :] 4.2.5 Maintenir des relations efficaces avec les intervenants externes clés, notamment avec les ministères concernés et les fournisseurs de services communs.
+- [Le promoteur de projet est responsable de :] 4.2.8 Appliquer, selon le cas, des méthodes et des principes incrémentiels, itératifs, souples et axés sur les utilisateurs pour la planification, la définition et la mise en œuvre du projet.
+- [Le promoteur de projet est responsable de :] 4.2.18 Mettre en place, dès le début du projet, un plan des points de contrôle du projet conforme au cadre ministériel qui : [4.2.18.1] documente les décisions qui seront prises à chaque point de contrôle, les éléments probants et les renseignements requis à l’appui des décisions aux points de contrôle, les critères utilisés pour évaluer les éléments probants et la gouvernance des points de contrôle.
 
 Les trois exigences susmentionnées issues de la Directive du CT indiquent que les ministères doivent accepter le changement et s’y adapter, ainsi que prendre des décisions fondées sur des données probantes (comme les décisions de planification).
 De telles données probantes ne peuvent être obtenues que par l’exécution.
@@ -657,51 +741,86 @@ Pour faire d’EDSC une organisation agile, il faut adopter un modèle qui perme
 
 La matrice de traçabilité suivante est utilisée pour démontrer l’harmonisation avec divers plans, stratégies et instruments de politique déjà en cours.
 
-<table><colgroup><col style="width: 29%" /><col style="width: 70%" /></colgroup><thead><tr class="header"><th><strong>Élément de la stratégie</strong></th><th><strong>qui s’harmonise avec</strong></th></tr></thead><tbody><tr class="odd"><td><strong>Gouvernance et conformité</strong></td><td><a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html">Normes numériques du GC</a>/Conception avec les utilisateurs<br />
-<a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html">Normes numériques du GC</a>/Itération et amélioration fréquentes<br />
-<a href="https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards">Normes d’architecture du GC (anglais seulement)</a>/Architecture opérationnelle<br />
-<a href="https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards">Normes d’architecture du GC (anglais seulement)</a>/Architecture de sécurité et protection des renseignements personnels<br />
-<a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/plans-strategiques-operations-numeriques-gouvernement-canada/plan-strategique-operations-numerique-2018-2022.html">PSON du GC</a>/Chapitre 1 (Un gouvernement orienté vers les services et centré sur l’utilisateur)<br />
-<a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/plans-strategiques-operations-numeriques-gouvernement-canada/plan-strategique-operations-numerique-2018-2022.html">PSON du GC</a>/Chapitre 6 (Gouvernance numérique)<br />
-<a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32603">Politique sur les services et le numérique du CT</a>/4.2 Service axé sur le client<br />
-<a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32601">Directive sur les services et le numérique du CT</a>/Gestion stratégique de la TI<br />
-<a href="tbs-sct.gc.ca/pol/doc-fra.aspx?id=32594">Directive sur la gestion de projets et programmes du CT</a>/4.2.6, 4.2.8, 4.2.18<br />
-<a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx">Voie à suivre pour la DGIIT (anglais seulement)</a>/1. Ajuster leadership de la DGIIT<br />
-<a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx">Voie à suivre pour la DGIIT (anglais seulement)</a>/6a. Renforcer les services de GI-TI<br />
-<a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx">Voie à suivre pour la DGIIT (anglais seulement)</a>/6f. Officialiser le cadre de gestion des exigences<br />
-<a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/ESDC%20IT%20Plan%202019-22%20-%20FINAL.pdf">Plan de TI (anglais seulement)</a>/Section II/Fondements<br />
-Étude indépendante de PwC/Recommandation 2.2<br />
-Étude indépendante de PwC/Recommandation 2.4</td></tr><tr class="even"><td><strong>Planification des capacités</strong></td><td><a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32601">Politique sur les services et le numérique du CT</a>/Soutenir la capacité et les compétences de l’effectif<br />
-Étude indépendante de PwC/Recommandation 2.2</td></tr><tr class="odd"><td><strong>Architecture</strong></td><td><a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html">Normes numériques du GC (anglais seulement)</a>/Itérations et améliorations fréquentes<br />
-<a href="https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards">Normes d’architecture du GC (anglais seulement)</a>/Architecture d’information<br />
-<a href="https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards">Normes d’architecture du GC (anglais seulement)</a>/Architecture des applications<br />
-<a href="https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards">Normes d’architecture du GC (anglais seulement)</a>/Architecture de sécurité et protection des renseignements personnels<br />
-<a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/plans-strategiques-operations-numeriques-gouvernement-canada/plan-strategique-operations-numerique-2018-2022.html">PSON du GC</a>/Chapitre 3.2 Connectivité universelle<br />
-<a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/plans-strategiques-operations-numeriques-gouvernement-canada/plan-strategique-operations-numerique-2018-2022.html">PSON du GC</a>/Chapitre 4.3 Modernisation de l’approvisionnement<br />
-<a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/plans-strategiques-operations-numeriques-gouvernement-canada/plan-strategique-operations-numerique-2018-2022.html">PSON du GC</a>/Chapitre 4.4 Modernisation de la TI<br />
-<a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx">Voie à suivre pour la DGIIT (anglais seulement)</a>/6a. Renforcer les pratiques d’architecture d’entreprise<br />
-<a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx">Voie à suivre pour la DGIIT (anglais seulement)</a>/6e. Améliorer le développement d’applications<br />
-Étude indépendante de PwC/Recommandation 2.4<br />
-<a href="https://www.gcpedia.gc.ca/wiki/CDO_Resources">Stratégie de données d’EDSC (anglais seulement)</a>/Accès<br />
-<a href="https://www.gcpedia.gc.ca/wiki/CDO_Resources">Stratégie de données d’EDSC (anglais seulement)</a>/Gestion des données</td></tr><tr class="even"><td><strong>Gestion de produits</strong></td><td><a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html">Normes numériques du GC</a>/Itérations et améliorations fréquentes<br />
-<a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html">Normes numériques du GC</a>/Gérer les risques en matière de sécurité et de protection des renseignements personnels<br />
-<a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html">Normes numériques du GC</a>/Intégrer l’accessibilité dès le départ<br />
-<a href="https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards">Normes d’architecture du GC (anglais seulement)</a>/Architecture opérationnelle<br />
-<a href="https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards">Normes d’architecture du GC (anglais seulement)</a>/Architecture de sécurité et protection des renseignements personnels<br />
-<a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/plans-strategiques-operations-numeriques-gouvernement-canada/plan-strategique-operations-numerique-2018-2022.html"><u>PSON du GC</u></a>/Chapitre 2.3 Accessibilité et inclusion<br />
-<a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32603">Politique sur les services et le numérique du CT</a>/Soutenir la capacité et les compétences de l’effectif<br />
-<a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx">Voie à suivre pour la DGIIT (anglais seulement)</a>/6d. Programme/projet distinct<br />
-<a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx">Voie à suivre pour la DGIIT (anglais seulement)</a>/6e. Améliorer le développement d’applications<br />
-Étude indépendante de PwC/3.1</td></tr><tr class="odd"><td><strong>Développement et opérations (DevOps)</strong></td><td><a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html">Normes numériques du GC</a>/Gérer les risques en matière de sécurité et de protection des renseignements personnels<br />
-<a href="https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards">Normes d’architecture du GC (anglais seulement)</a>/Architecture de technologie<br />
-<a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/plans-strategiques-operations-numeriques-gouvernement-canada/plan-strategique-operations-numerique-2018-2022.html#ToC15">PSON du GC</a>/Annexe A, point 34<br />
-<a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/plans-strategiques-operations-numeriques-gouvernement-canada/plan-strategique-operations-numerique-2018-2022.html#ToC15">PSON du GC</a>/Annexe A, point 37<br />
-<a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/plans-strategiques-operations-numeriques-gouvernement-canada/plan-strategique-operations-numerique-2018-2022.html#ToC15">PSON du GC</a>/Annexe A, point 69<br />
-<a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx">Voie à suivre pour la DGIIT (anglais seulement)</a>/6e. Améliorer le développement d’applications<br />
-<a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx">Voie à suivre pour la DGIIT (anglais seulement)</a>/6g. Moderniser le régime d’essai de la GI/TI<br />
-<a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/ESDC%20IT%20Plan%202019-22%20-%20FINAL.pdf">Plan de TI (anglais seulement)</a>/Section II/Fondements<br />
-Étude indépendante de PwC/2.2<br />
-Étude indépendante de PwC/3.2</td></tr></tbody></table>
+<table>
+<tr>
+<th>Élément de la stratégie</th>
+<th>qui s’harmonise avec</th>
+</tr>
+<tr>
+<td><b>Gouvernance et conformité</b></td>
+<td>
+<a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html">Normes numériques du GC</a>/Conception avec les utilisateurs<br>
+<a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html">Normes numériques du GC</a>/Itération et amélioration fréquentes<br>
+<a href="https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards">Normes d’architecture du GC (anglais seulement)</a>/Architecture opérationnelle<br>
+<a href="https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards">Normes d’architecture du GC (anglais seulement)</a>/Architecture de sécurité et protection des renseignements personnels<br>
+<a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/plans-strategiques-operations-numeriques-gouvernement-canada/plan-strategique-operations-numerique-2018-2022.html">PSON du GC</a>/Chapitre 1 (Un gouvernement orienté vers les services et centré sur l’utilisateur)<br>
+<a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/plans-strategiques-operations-numeriques-gouvernement-canada/plan-strategique-operations-numerique-2018-2022.html">PSON du GC</a>/Chapitre 6 (Gouvernance numérique)<br>
+<a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32603">Politique sur les services et le numérique du CT</a>/4.2 Service axé sur le client<br>
+<a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32601">Directive sur les services et le numérique du CT</a>/Gestion stratégique de la TI<br>
+<a href="tbs-sct.gc.ca/pol/doc-fra.aspx?id=32594">Directive sur la gestion de projets et programmes du CT</a>/4.2.6, 4.2.8, 4.2.18<br>
+<a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx">Voie à suivre pour la DGIIT (anglais seulement)</a>/1. Ajuster leadership de la DGIIT<br>
+<a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx">Voie à suivre pour la DGIIT (anglais seulement)</a>/6a. Renforcer les services de GI-TI<br>
+<a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx">Voie à suivre pour la DGIIT (anglais seulement)</a>/6f. Officialiser le cadre de gestion des exigences<br>
+<a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/ESDC%20IT%20Plan%202019-22%20-%20FINAL.pdf">Plan de TI (anglais seulement)</a>/Section II/Fondements<br>
+Étude indépendante de PwC/Recommandation 2.2<br>
+Étude indépendante de PwC/Recommandation 2.4
+</td>
+</tr>
+<tr>
+<td><b>Planification des capacités</b></td>
+<td>
+<a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32601">Politique sur les services et le numérique du CT</a>/Soutenir la capacité et les compétences de l’effectif<br>
+Étude indépendante de PwC/Recommandation 2.2<br>
+</td>
+</tr>
+<tr>
+<td><b>Architecture</b></td>
+<td>
+<a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html">Normes numériques du GC (anglais seulement)</a>/Itérations et améliorations fréquentes<br>
+<a href="https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards">Normes d’architecture du GC (anglais seulement)</a>/Architecture d’information<br>
+<a href="https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards">Normes d’architecture du GC (anglais seulement)</a>/Architecture des applications<br>
+<a href="https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards">Normes d’architecture du GC (anglais seulement)</a>/Architecture de sécurité et protection des renseignements personnels<br>
+<a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/plans-strategiques-operations-numeriques-gouvernement-canada/plan-strategique-operations-numerique-2018-2022.html">PSON du GC</a>/Chapitre 3.2 Connectivité universelle<br>
+<a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/plans-strategiques-operations-numeriques-gouvernement-canada/plan-strategique-operations-numerique-2018-2022.html">PSON du GC</a>/Chapitre 4.3 Modernisation de l’approvisionnement<br>
+<a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/plans-strategiques-operations-numeriques-gouvernement-canada/plan-strategique-operations-numerique-2018-2022.html">PSON du GC</a>/Chapitre 4.4 Modernisation de la TI<br>
+<a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx">Voie à suivre pour la DGIIT (anglais seulement)</a>/6a. Renforcer les pratiques d’architecture d’entreprise<br>
+<a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx">Voie à suivre pour la DGIIT (anglais seulement)</a>/6e. Améliorer le développement d’applications<br>
+Étude indépendante de PwC/Recommandation 2.4<br>
+<a href="https://www.gcpedia.gc.ca/wiki/CDO_Resources">Stratégie de données d’EDSC (anglais seulement)</a>/Accès<br>
+<a href="https://www.gcpedia.gc.ca/wiki/CDO_Resources">Stratégie de données d’EDSC (anglais seulement)</a>/Gestion des données
+</td>
+</tr>
+<tr>
+<td><b>Gestion de produits</b></td>
+<td>
+<a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html">Normes numériques du GC</a>/Itérations et améliorations fréquentes<br>
+<a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html">Normes numériques du GC</a>/Gérer les risques en matière de sécurité et de protection des renseignements personnels<br>
+<a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html">Normes numériques du GC</a>/Intégrer l’accessibilité dès le départ<br>
+<a href="https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards">Normes d’architecture du GC (anglais seulement)</a>/Architecture opérationnelle<br>
+<a href="https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards">Normes d’architecture du GC (anglais seulement)</a>/Architecture de sécurité et protection des renseignements personnels<br>
+<a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/plans-strategiques-operations-numeriques-gouvernement-canada/plan-strategique-operations-numerique-2018-2022.html"><u>PSON du GC</u></a>/Chapitre 2.3 Accessibilité et inclusion<br>
+<a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32603">Politique sur les services et le numérique du CT</a>/Soutenir la capacité et les compétences de l’effectif<br>
+<a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx">Voie à suivre pour la DGIIT (anglais seulement)</a>/6d. Programme/projet distinct<br>
+<a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx">Voie à suivre pour la DGIIT (anglais seulement)</a>/6e. Améliorer le développement d’applications<br>
+Étude indépendante de PwC/3.1
+</td>
+</tr>
+<tr>
+<td><b>Développement et opérations (DevOps)</b></td>
+<td>
+<a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html">Normes numériques du GC</a>/Gérer les risques en matière de sécurité et de protection des renseignements personnels<br>
+<a href="https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards">Normes d’architecture du GC (anglais seulement)</a>/Architecture de technologie<br>
+<a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/plans-strategiques-operations-numeriques-gouvernement-canada/plan-strategique-operations-numerique-2018-2022.html#ToC15">PSON du GC</a>/Annexe A, point 34<br>
+<a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/plans-strategiques-operations-numeriques-gouvernement-canada/plan-strategique-operations-numerique-2018-2022.html#ToC15">PSON du GC</a>/Annexe A, point 37<br>
+<a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/plans-strategiques-operations-numeriques-gouvernement-canada/plan-strategique-operations-numerique-2018-2022.html#ToC15">PSON du GC</a>/Annexe A, point 69<br>
+<a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx">Voie à suivre pour la DGIIT (anglais seulement)</a>/6e. Améliorer le développement d’applications<br>
+<a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx">Voie à suivre pour la DGIIT (anglais seulement)</a>/6g. Moderniser le régime d’essai de la GI/TI<br>
+<a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/ESDC%20IT%20Plan%202019-22%20-%20FINAL.pdf">Plan de TI (anglais seulement)</a>/Section II/Fondements<br>
+Étude indépendante de PwC/2.2<br>
+Étude indépendante de PwC/3.2
+</td>
+</tr>
+</table>
 
 ## Annexe C – Références
 
@@ -726,6 +845,7 @@ La matrice de traçabilité suivante est utilisée pour démontrer l’harmonisa
 - [How to write rules that people want to follow (anglais seulement)](https://www.chapters.indigo.ca/en-ca/books/how-to-write-rules-that/9781988749020-item.html)
 
 ## Annexe D – Définitions
+<!-- markdownlint-disable MD036 -->
 
 **[Équipe DevOps (anglais seulement)](https://014gc-my.sharepoint.com/:w:/g/personal/remy_bernard_hrsdc-rhdcc_gc_ca/EaU8oDNt7iJNj8Zy_M64TOkBVJBlFhQ2d_fzOuF2N6bt8A?e=F5HEeL)**
 
@@ -747,26 +867,20 @@ Les trois DVCS les plus populaires sont Mercurial, Git, et Bazaar.
 
 EDSC utilisera Git pour favoriser l’interopérabilité entre les répertoires de codes sources et acceptera le fait que le marché a évolué et préconise maintenant les répertoires de codes sources axés sur Git.
 
-### Chaîne de valeur de développement <!-- omit in toc -->
+**Chaîne de valeur de développement**
 
 La série d’étapes *et de développeurs* qu’EDSC utilise pour mettre en œuvre des solutions de TI permettant à l’organisation de mener ses activités opérationnelles.
 Les personnes qui composent la chaîne de valeur du développement sont un ensemble d’équipes DevOps.
 
 L’organisation des portefeuilles axée sur les chaînes de valeur de développement permet de visualiser le flux du travail pour produire des solutions, réduire les transferts et les retards, accélérer l’apprentissage et raccourcir la période de mise en marché, et soutenir des méthodes de développement et de budgétisation plus simples.
 
-### Solution de TI, application, logiciel et données <!-- omit in toc -->
+**Solution de TI, application, logiciel et données**
 
 Une définition normalisée devrait être élaborée par le CEAI (voir l’*[ensemble cohérent de mesures de la stratégie d’adoption, de conception et d’achat_](https://sara-sabr.github.io/ITStrategy/strategy-build-vs-buy.html#coherent-set-of-actions)*).
 Jusqu’à ce que cela soit terminé, la définition et les liens suivants seront utilisés.
 
-![A UML diagram representing the relationships between the terms IT Solution, Application, Software, Infrastructure, Data, and IT Product.
-The diagram shows that an IT Solution and an Application are part of the concept IT Product.
-And while an IT Solution is comprised of one ore more Applications, Applications can exist on their own without belonging to an IT Solution.
-An Application is made up of one or more Software components.
-An Application interacts with one or more Data Entities that are generalized from the Master Data.
-Software components may have dependencies between them.
-Software components are deployed to one or more Infrastructure.
-Both Software and Infrastructure make use of Configuration.]({{ site.baseurl }}/assets/images/itsolution-itproduct-model.png) *Figure 2. Modèle de relations entre les différents éléments logiciels*
+![A UML diagram representing the relationships between the terms IT Solution, Application, Software, Infrastructure, Data, and IT Product. The diagram shows that an IT Solution and an Application are part of the concept IT Product. And while an IT Solution is comprised of one ore more Applications, Applications can exist on their own without belonging to an IT Solution. An Application is made up of one or more Software components. An Application interacts with one or more Data Entities that are generalized from the Master Data. Software components may have dependencies between them. Software components are deployed to one or more Infrastructure. Both Software and Infrastructure make use of Configuration.]({{ site.baseurl }}/assets/images/itsolution-itproduct-model.png)
+*Figure 2. Modèle de relations entre les différents éléments logiciels*
 
 La *solution de TI* est composée d’une ou de plusieurs applications.
 Il s’agit essentiellement d’un regroupement d’applications.
@@ -788,7 +902,7 @@ Comme les logiciels, les infrastructures utilisent également les paramètres de
 Les *données* avec lesquelles une application interagit font partie intégrante de la gestion des données de référence.
 Il s’agit de la source de renseignements d’une entité de données particulière; la confidentialité, l’intégrité et la disponibilité des données sont définies pour un contexte opérationnel donné, et le consentement de l’utilisateur final est communiqué à l’application.
 
-### Produit de TI <!-- omit in toc -->
+**Produit de TI**
 
 Un produit de TI se compose d’une solution de TI ou d’une application.
 La décision d’établir la portée d’un produit à l’égard d’une solution de TI ou d’une application dépend du contexte opérationnel particulier de l’organisation.
@@ -796,9 +910,9 @@ La décision d’établir la portée d’un produit à l’égard d’une soluti
 Dans le contexte de la gestion des produits, l’idée est que les solutions de TI ou les applications sont conçues pour croître et évoluer au fil du temps, contrairement aux projets qui ont un seul début, un milieu et une fin.
 Cela démontre que les solutions de TI et les applications utiliseront différentes méthodes de gestion des investissements pour s’améliorer continuellement.
 
-Le « produit de TI » représente la partie technique d’un « produit » plus grand – l’ensemble des services offerts aux clients[17](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:18).
+Le « produit de TI » représente la partie technique d’un « produit » plus grand – l’ensemble des services offerts aux clients[^18](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:18).
 
-### Projet axé sur la TI <!-- omit in toc -->
+**Projet axé sur la TI**
 
 Il s’agit d’un effort provisoire déployé pour créer un produit, un service ou un résultat unique.
 La nature temporaire des projets axés sur la TI fait en sorte que ceux-ci ont un début et une fin bien définis.
@@ -809,12 +923,12 @@ Cette définition est tirée de la [Directive sur la gestion des projets d’EDS
 
 Personne qui représente l’organisation ou la communauté d’utilisateurs et qui est chargée de travailler avec ces personnes pour déterminer les fonctionnalités qui seront incluses dans la version du produit.
 
-### Équipes des produits TI <!-- omit in toc -->
+**Équipes des produits TI**
 
 Comprends un ensemble d’équipes DevOps nécessaires à l’exploitation et à la maintenance de la suite de logiciels dont le produit de TI est composé.
 Les gestionnaires et les organisateurs (p. ex., architecte en chef) font également partie d’une équipe de produit de TI.
 
-### Modèle conventionnel de prestation des solutions de TI <!-- omit in toc -->
+**Modèle conventionnel de prestation des solutions de TI**
 
 Aux fins de la présente stratégie, nous définissons le modèle conventionnel de prestation des solutions de TI comme étant le statu quo actuel.
 
@@ -827,7 +941,7 @@ Dans le modèle conventionnel, on s’attend à ce que les résultats opération
 En vertu du plan de réalisation des activités, le responsable opérationnel est tenu de surveiller et de signaler les écarts entre les avantages prévus et réels.
 Les écarts sont traités en fonction des exigences en matière de changement ou des nouveaux projets.
 
-### Modèle de prestation de la solution de TI cible <!-- omit in toc -->
+**Modèle de prestation de la solution de TI cible**
 
 Le modèle de prestation de la solution de TI cible a le même objectif que le modèle conventionnel : optimiser les ressources et réduire les risques grâce à l’utilisation de la technologie.
 Contrairement au modèle conventionnel, ce modèle visera à :
@@ -840,7 +954,7 @@ Contrairement au modèle conventionnel, ce modèle visera à :
 
 ## Annexe E – Liste des acronymes et définitions
 
-| **Acronyme** | **Définition**                                                                                                                                                    |
+| Acronyme |Définition                                |
 |--------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | CEA          | Comité d’examen de l’architecture                                                                                                                                 |
 | BGPDG        | Bureau de gestion des projets de la Direction générale (DGIIT)                                                                                                    |
@@ -868,7 +982,7 @@ Contrairement au modèle conventionnel, ce modèle visera à :
 
 Voici des statistiques et des références concernant les problèmes et les taux de réussite des grands projets axés sur la TI.
 
-### 1) Étude du Standish Group <!-- omit in toc -->
+**1) Étude du Standish Group**
 
 Le Standish Group, un organisme consultatif de recherche qui se concentre sur le rendement du développement de logiciels[^19], a constaté que « de 2003 à 2012, parmi les 3 555 projets recensés dont le coût de main-d’œuvre s’élevait à au moins 10 millions de dollars, seulement 6,4 % ont été fructueux.
 Les données du Standish Group ont montré que 52 % des grands projets étaient « remis en question », soit parce qu’ils dépassaient le budget, qu’ils étaient en retard ou qu’ils ne répondaient pas aux attentes des utilisateurs.
@@ -877,7 +991,7 @@ Les 41,4 % restants étaient des échecs — c.‑à‑d. que ces projets ont �
 L’étude et les résultats du Standish Group ont également été cités dans le chapitre 3 du rapport de novembre 2006 de la vérificatrice générale du Canada (énoncés 3.5 et 3.6).
 Voir le point 3 ci-dessous.
 
-### 2) Questions à la Chambre des communes de 2016 et 2019 (projets de plus de 1 M$) <!-- omit in toc -->
+**2) Questions à la Chambre des communes de 2016 et 2019 (projets de plus de 1 M$)**
 
 Grâce à un projet d’[Ottawa Civic Tech (anglais seulement)](https://ottawacivictech.ca/), un [ensemble de données sur les grands projets de TI du gouvernement (anglais seulement)](https://large-government-of-canada-it-projects.github.io/)[^21] a été publié et les réponses à deux questions qui ont été posées à la Chambre des communes, en juin 2016 et en mai 2019, ont été consignées.
 Chaque question demandait aux ministères fédéraux de faire rapport sur les projets de TI, en cours ou prévus, d’une valeur supérieure à 1 M$.
@@ -887,7 +1001,7 @@ Nous avons fait les constatations suivantes :
 - Des 94 projets qui contiennent suffisamment de données pour comparer les échéanciers : 9 % respectent les échéanciers, 4 % sont en avance et 87 % sont en retard.
 - Des 97 projets qui contiennent suffisamment de données pour comparer les budgets : 26 % se situent à 10 % ou moins des estimations initiales, 28 % se situent entre 10 % et 50 % au-dessus des estimations initiales, 28 % se situent à plus de 50 % des estimations initiales et 19 % se situent à moins de 10 % des estimations initiales.
 
-### 3) Chapitre 3 du rapport de novembre 2006 de la vérificatrice générale du Canada[^22] <!-- omit in toc -->
+**3) Chapitre 3 du rapport de novembre 2006 de la vérificatrice générale du Canada[^22]**
 
 La vérification portait sur sept projets et les évaluait selon quatre critères clés (gouvernance, analyse de rentabilisation, capacité organisationnelle et gestion de projet).
 
@@ -897,7 +1011,7 @@ Il fait également référence à un rapport de 2000 selon lequel une tendance s
 Le rapport concluait que, dans l’ensemble, le gouvernement avait fait peu de progrès depuis la dernière vérification (1997), n’avait pas expliqué de façon adéquate les résultats attendus dans le cadre d’une analyse de rentabilisation et n’avait pas évalué de façon adéquate sa capacité de prendre en charge des projets de TI à risque élevé.
 Toutefois, le rapport conclut que 4/7 des projets échantillonnés étaient bien gérés.
 
-### 4) Rapport du printemps 2010 de la vérificatrice générale du Canada[^23] <!-- omit in toc -->
+**4) Rapport du printemps 2010 de la vérificatrice générale du Canada[^23]**
 
 Le rapport visait à déterminer si cinq des entités gouvernementales ayant les plus importantes dépenses en matière de TI avaient cerné et géré de façon adéquate les risques liés aux systèmes de TI vieillissants.
 Toutes les entités indiquaient que le vieillissement de la TI représentait un risque important et la majorité d’entre elles (dont EDSC) l’avaient inclus dans leur profil de risque organisationnel.
@@ -909,19 +1023,19 @@ Le plan n’a pas été approuvé par la haute direction.
 Le rapport indiquait que la Direction du dirigeant principal de l’information (DDPI) du SCT était au fait des risques importants liés au vieillissement de la TI depuis plus d’une décennie.
 La DDPI a répondu au rapport en affirmant qu’elle souscrivait aux recommandations, mais que la responsabilité des initiatives de financement relevait des administrateurs généraux des ministères et non de la DDPI.
 
-### 5) 2011 juin — Rapport Le Point de la vérificatrice générale du Canada, chapitre 2 (grands projets de TI)[^24] <!-- omit in toc -->
+**5) 2011 juin — Rapport Le Point de la vérificatrice générale du Canada, chapitre 2 (grands projets de TI)[^24]**
 
 Ce rapport portait sur les progrès accomplis depuis le rapport de 2006 portant sur sept grands projets de TI; un nouveau projet venait également d’être sélectionné et approuvé par le Conseil du Trésor.
 
 La conclusion était les progrès accomplis par le gouvernement en réponse aux recommandations de 2006 étaient insatisfaisants.
 
-### 6) Rapport 5 – Rapport du printemps 2015 du vérificateur général du Canada (investissements dans les TI de l’ASFC)[^25] <!-- omit in toc -->
+**6) Rapport 5 – Rapport du printemps 2015 du vérificateur général du Canada (investissements dans les TI de l’ASFC)[^25]**
 
 Ce rapport présentait les résultats d’une vérification du rendement, c’est-à-dire une évaluation indépendante, objective et systématique de la façon dont le gouvernement gère ses activités, ses responsabilités et ses ressources.
 
 Dans l’ensemble, le rapport a révélé que l’ASFC « avait été confrontée à des difficultés importantes en ce qui a trait à la gestion de son portefeuille d’investissements dans les technologies de l’information (TI) de manière à pouvoir assurer la mise en œuvre de projets en TI qui respectent les exigences établies et produisent les avantages escomptés. »
 
-### 7) Rapport 1 – Rapport du printemps 2018 du vérificateur général du Canada (création et déploiement du système de paye Phénix)[^26] <!-- omit in toc -->
+**7) Rapport 1 – Rapport du printemps 2018 du vérificateur général du Canada (création et déploiement du système de paye Phénix)[^26]**
 
 La vérification visait à déterminer si Services publics et Approvisionnement Canada (SPAC) gérait et supervisait de façon efficace et efficiente la mise en œuvre du nouveau système de paye Phénix.
 
@@ -932,14 +1046,14 @@ Ils n’ont pas communiqué une information complète et exacte aux sous-ministr
 À notre avis, la décision des cadres responsables de Phénix de mettre en œuvre Phénix était déraisonnable, compte tenu de l’information qui était disponible à ce moment-là.
 Le système n’a donc pas répondu aux besoins des utilisateurs, a coûté au gouvernement fédéral des centaines de millions de dollars et a causé des difficultés financières à des dizaines de milliers de ses employés. »
 
-### 8) Février 2020 – Présentation de 18F devant le [Michigan Senate Appropriations Committee](https://www.youtube.com/watch?v=g-h6CtSwk30)[^27] <!-- omit in toc -->
+**8) Février 2020 – Présentation de 18F devant le [Michigan Senate Appropriations Committee](https://www.youtube.com/watch?v=g-h6CtSwk30)[^27]**
 
 En février 2020, 18F (l’équivalent aux États-Unis du Service numérique canadien) a fait une présentation au Michigan Senate Appropriations Committee.
 18F a été créé en 2014 par le programme Presidential Innovation Fellows (PIF, mis sur pied en 2012 par la Maison-Blanche) afin d’améliorer et de moderniser les technologies du gouvernement[28].
 La présentation portait sur l’approvisionnement technologique et les défis connexes.
 En bref, les ministères gouvernementaux ne sont pas en mesure d’encadrer adéquatement les problèmes en partie gérables et, par conséquent, s’engagent dans des contrats de longue durée, de grande envergure et complexes avec des fournisseurs.
 
-### 9) [Delivering large-scale IT projects on time, on budget, and on value](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/delivering-large-scale-it-projects-on-time-on-budget-and-on-value?cid=soc-web), McKinsey Digital, 2012[^29] <!-- omit in toc -->
+**9) [Delivering large-scale IT projects on time, on budget, and on value](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/delivering-large-scale-it-projects-on-time-on-budget-and-on-value?cid=soc-web), McKinsey Digital, 2012[^29]**
 
 Selon une étude réalisée en 2012 par McKinsey Digital en collaboration avec l’université d’Oxford, 45 % des grands projets de TI (plus de 15 millions de dollars) visés dépassent le budget prévu et 7 % dépassent les échéanciers fixés, et ces projets offrent 56 % moins de valeur que ce qui était prévu.
 Les projets logiciels présentent le risque le plus élevé de dépassement des coûts et des échéanciers.
