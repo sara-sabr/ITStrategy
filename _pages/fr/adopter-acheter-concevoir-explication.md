@@ -26,7 +26,7 @@ permalink: /adopter-acheter-concevoir-explication.html
 
 ## Contexte
 
-Le présent document se veut un complément à la [Stratégie de adopter, acheter, concevoir](adopter-acheter-et-concevoir.html).
+Le présent document se veut un complément à la [Stratégie de Adopter, acheter et concevoir](adopter-acheter-et-concevoir.html).
 
 ## Introduction
 
@@ -37,7 +37,7 @@ Les scénarios suivants ont donc été créés pour aider l’utilisateur à met
 
 ### Portée du présent document
 
-Le présent document vise à fournir différents exemples ou scénarios qui aideront à mettre en contexte la stratégie d’adoption, d’achat ou de conception.
+Le présent document vise à fournir différents exemples ou scénarios qui aideront à mettre en contexte la stratégie d’adoption, d’achat et de conception.
 Il ne s’agit pas d’un guide définitif.
 Il existe de nombreux points à considérer et différentes variables quand il s’agit de décider s’il convient de concevoir ou d’acheter une solution ou un composant d’une solution.
 Par conséquent, les exemples qui suivent ont été créés en fonction d’un ensemble d’hypothèses de base qui peuvent ne pas s’appliquer à une situation précise.
@@ -49,7 +49,7 @@ La plupart du temps, l’acquisition d’une solution de TI ne consiste pas seul
 Il s’agit souvent d’une permutation des trois.
 Les cas d’utilisation suivants montrent que certaines solutions peuvent se retrouver à différents emplacements du diagramme, selon la façon dont elles sont mises en œuvre et par qui.
 
-<!--![Basic Venn diagram with 3 overlapping circles for Adopt, Build and Buy. The middle is the intersection of all 3 (Adopt ^ Buy ^ Build)](assets/images/adopt-build-buy-venn.png)-->
+<!--![Diagramme de Venn de base avec 3 cercles superposés pour Adopter, Concevoir et Acheter. Le milieu est l'intersection des 3 (Adopter ^ Acheter ^ Concevoir).](assets/images/adopt-build-buy-venn.png)-->
 
 #### Navigateur Web
 
@@ -87,16 +87,16 @@ Adopter ^ Acheter ^ Concevoir
 
 #### Système de gestion du versement de prestations multiples
 
-\* Essentiel au mandat ou exigence susceptible de changer – le risque accru pour EDSC nous amène à atténuer encore plus le risque d’asservissement en suivant rigoureusement les procédures d’évaluation obligatoires des IPA et des AE énoncées dans la Directive sur les services et le numérique.
+\* Essentiel au mandat ou exigence susceptible de changer – le risque accru pour EDSC nous amène à atténuer encore plus le risque de verrouillage en suivant rigoureusement les procédures obligatoires sur les IPAs et l'évaluation de l'AE dans la Directive sur les services et le numérique.
 
 Adopter ^ Concevoir
 
-- Utiliser les composants de LSO existants
-- La DGIIT a des équipes responsables d’assembler et d’appuyer la solution
+- Utiliser les composants de LL existants
+- La DGIIT a des équipes responsables d’assembler et de fournir le soutien de la solution
 - Élaborer des règles opérationnelles personnalisées, des extensions ou des intégrations (à l’interne)
 
 Adopter ^ Acheter ^ Concevoir
 
 - Payer des frais de licence et/ou de soutien
-- La DGIIT a des équipes qui appuient la solution en collaboration avec le fournisseur
+- La DGIIT a des équipes qui fournissent le soutien de la solution en collaboration avec le fournisseur
 - Élaborer des règles opérationnelles personnalisées, des extensions ou des intégrations (à l’interne ou en faisant appel à un tiers)
