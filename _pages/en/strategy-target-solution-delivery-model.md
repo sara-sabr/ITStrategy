@@ -112,7 +112,10 @@ This strategy seeks to improve the above two goals by proposing moving ESDC to t
 The benefits to frequent small deployments, using automated methods, are expected to reduce risk[^9], reduce technical debt, increase client satisfaction, and increase overall confidence in the department and its staff.
 This is now possible with the adoption of Cloud technologies and DevOps practices.
 
-Moving to Digital increases focus on Data as being the asset the organization cares about. It is with Data that the organization will gain insights and inform its service improvement decisions[^10]. The ability to rapidly make software changes will require treating Data as a separate construct, not dependent on the software but rather being interfaced with it. See Appendix D (Definitions) for the relationships between IT Solution, Application, Software, and Data.
+Moving to Digital increases focus on Data as being the asset the organization cares about.
+It is with Data that the organization will gain insights and inform its service improvement decisions[^10].
+The ability to rapidly make software changes will require treating Data as a separate construct, not dependent on the software but rather being interfaced with it.
+See Appendix D (Definitions) for the relationships between IT Solution, Application, Software, and Data.
 
 In short, this strategy seeks to change organizational conditions so that ESDC can successfully achieve its digital transformation[^11].
 
@@ -243,7 +246,7 @@ The following are actions that need to be performed in order to make the Target 
   <tr>
     <td>Produce IT-enabled project intake condition standard</td>
     <td>
-Produce a list of conditions that IT-Enabled projects must meet before project intake can accept them. e.g.<Br>
+Produce a list of conditions that IT-Enabled projects must meet before project intake can accept them. e.g.<br>
 <li>Metrics of business outcomes are defined and approved by ESDC's Chief Architect</li>
 <li>The business sponsor commits the availability of, at minimum, one business subject matter expert throughout the IT Project</li>
 <li>The business sponsor commits the availability of, at minimum, one policy expert throughout the IT Project</li>
@@ -290,7 +293,7 @@ Similarly to draft BDM Digital Experience and Client Data (DECD) <a href="https:
     <td>
   BPMO<br>
   CCoE<br>
-  Senior Advisors<Br>
+  Senior Advisors<br>
   BRM<br>
   CFOB IPPM
     </td>
@@ -312,7 +315,7 @@ Similarly to draft BDM Digital Experience and Client Data (DECD) <a href="https:
     Senior Advisors<br>
 DTS<br>
 Interoperability<br>
-BPMO<Br>
+BPMO<br>
 Research & Prototype<br>
 CCoE
     </td>
@@ -409,7 +412,7 @@ Provide standards on acceptable thresholds for automating application releases b
     <b><i>TSDM Change Mgt team</i></b>
     </td>
     <td>
-IT Security<Br>
+IT Security<br>
 Accessibility<br>
 Testing Services<br>
 Senior Advisors
@@ -469,7 +472,7 @@ Provide standards that DevOps teams are expected to comply with when releasing s
   <tr>
     <td>Produce Loose Coupling architecture guidance</td>
     <td>
-    Produce a guidance document to clarify and guide Architects and DevOps teams in building IT Solutions making use of loose coupling architecture principles that provide DevOps teams more autonomy. Two areas of loose coupling is meant to be addressed:<Br>
+    Produce a guidance document to clarify and guide Architects and DevOps teams in building IT Solutions making use of loose coupling architecture principles that provide DevOps teams more autonomy. Two areas of loose coupling is meant to be addressed:<br>
     <br>
     1. Between software components making up an Application (e.g. adopting <a href="https://www.martinfowler.com/microservices/">Micro-Services</a>, <a href="https://12factor.net/">12-factor app</a> principles<br>
     2. Between the Application and the organization’s Data (e.g. adopting <a href="https://cloud.google.com/solutions/devops/devops-tech-database-change-management">Database change management practices</a> for DevOps, providing <a href="https://www.gartner.com/document/3895919">Data Access Layers</a> to DevOps teams)<br>
@@ -480,7 +483,7 @@ The guidance document is expected to include architecture and design patterns, p
     </td>
     <td>
     DAS<br>
-    CDO<Br>
+    CDO<br>
     Senior Advisors<br>
     Interoperability
     </td>
@@ -510,7 +513,7 @@ Enterprise Architecture
   <tr>
     <td>Create a matrix-based resource pool model</td>
     <td>Create a model where specialized resources, Champions or SMEs, can be deployed in DevOps teams</td>
-    <Td>
+    <td>
     <b><i>TSDM Change Mgt team</i></b>
     </td>
     <td>
@@ -547,16 +550,16 @@ Enterprise Architecture
     <td>
 IT Security<br>
 Accessibility<br>
-Testing Services<Br>
-AI CoE<Br>
+Testing Services<br>
+AI CoE<br>
 IITB Compliance Unit
     </td>
   </tr>
-  <Tr>
+  <tr>
     <td>Produce DevOps ConOps guidelines</td>
     <td>Produce a DevOps ConOps guidelines, including release processes and standards, on releasing code from commit to production (e.g., pre-prod environment, blue-green model)</td>
     <td>
-    <B><i>CCoE</i></b>
+    <b><i>CCoE</i></b>
     </td>
     <td>
 IITB Senior Advisors<br>
@@ -565,14 +568,14 @@ BPMO<br>
 Cloud Ops
     </td>
   </tr>
-  <Tr>
+  <tr>
     <td>Provide means for DevOps teams to experiment with new tools</td>
     <td>Leverage the SAFER LAB, Virtual Desktop Image, and Technical Architecture standards to provide means for DevOps teams to install and try out new innovative tools for experimentation, with eventual rapid update in the Technical Bricks</td>
     <td>
     <b><i>IT Research &amp; Prototype</i></b>
     </td>
     <td>
-CCoE<Br>
+CCoE<br>
 Research &amp; Prototype<br>
 IT Security<br>
 IT Environment<br>
@@ -767,7 +770,7 @@ PwC Independent Study/Recommendation 2.4
   <td><b>Capacity Planning</b></td>
   <td>
 <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601">TB Policy on Service and Digital</a>/Supporting workforce capacity and capability<br>
-PwC Independent Study/Recommendation 2.2 <Br>
+PwC Independent Study/Recommendation 2.2 <br>
   </td>
 </tr>
 <tr>
@@ -809,7 +812,7 @@ PwC Independent Study/3.1
 <a href="https://wiki.gccollab.ca/Government_of_Canada_Architectural_Standards">GC Architecture Standards</a>/Technology Architecture<br>
 <a href="https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html#ToC15">GC DOSP</a>/Appendix A item #34<br>
 <a href="https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html#ToC15">GC DOSP</a>/Appendix A item #37<br>
-<a href="https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html#ToC15">GC DOSP</a>/Appendix A. item #69<Br>
+<a href="https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html#ToC15">GC DOSP</a>/Appendix A. item #69<br>
 <a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental IMIT Plan/19-20 Plans/IITB Moving Forward v2.docx">IITB Way Forward</a>/6e. Enhance app development<br>
 <a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental IMIT Plan/19-20 Plans/IITB Moving Forward v2.docx">IITB Way Forward</a>/6g. Modernize IM/IT testing regime<br>
 <a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental IMIT Plan/19-20 Plans/ESDC IT Plan 2019-22 - FINAL.pdf">IT Plan</a>/Section II/Foundational<br>
@@ -873,12 +876,14 @@ Organizing portfolios around development value streams enables visualizing the f
 
 **IT Solution, Application, Software, and Data**
 
-A standard definition is expected to be produced by EARB (see the [_Adopt, Build, Buy strategy’s coherent set of actions_](https://sara-sabr.github.io/ITStrategy/strategy-build-vs-buy.html#coherent-set-of-actions)). Until this is complete, the following definition and relationships are being used.
+A standard definition is expected to be produced by EARB (see the [_Adopt, Build, Buy strategy’s coherent set of actions_](https://sara-sabr.github.io/ITStrategy/strategy-build-vs-buy.html#coherent-set-of-actions)).
+Until this is complete, the following definition and relationships are being used.
 
 ![A UML diagram representing the relationships between the terms IT Solution, Application, Software, Infrastructure, Data, and IT Product. The digram shows that an IT Solution and an Application are part of the concept IT Product. And while an IT Solution is comprised of one ore more Applications, Applications can exist on their own without belonging to an IT Solution. An Application is made up of one or more Software components. An Application interacts with one or more Data Entities that are generalized from the Master Data. Software components may have dependencies between them. Software components are deployed to one or more Infrastructure. Both Software and Infrastructure make use of Configuration.]({{ site.baseurl }}/assets/images/itsolution-itproduct-model.png)
 *Figure 2 . Relationship Model between the different software elements*
 
-And _IT Solution_ is made up of one or more Application(s). It is essentially a grouping of Applications.
+And _IT Solution_ is made up of one or more Application(s).
+It is essentially a grouping of Applications.
 
 An _Application_ is part of the [Application Portfolio Management Program (APM](https://www.gcpedia.gc.ca/wiki/OCIO_Application_Portfolio_Management)) and is made up of one or more software (more commonly referred to as software components).
 An Application also makes use of, or produces, Data by interfacing it with its software components.
@@ -1052,7 +1057,8 @@ In short, government departments are unable to adequately frame problems into ma
 
 A 2012 research, by McKinsey Digital in collaboration with the university of Oxford, on large IT Projects (greater than $15 million) suggests that 45% of them run over budget, 7% over time, and delivers 56% less value than predicted.
 Software projects run the highest risk of cost and schedule overruns.
-The research also founds that the longer a project is scheduled to last, the more likely it is that it will run over time and over budget. The research recommends four ways to improve project performance, two of which are building effective teams and using short delivery cycles.
+The research also founds that the longer a project is scheduled to last, the more likely it is that it will run over time and over budget.
+The research recommends four ways to improve project performance, two of which are building effective teams and using short delivery cycles.
 
 ## Inline references <!-- omit in toc -->
 
