@@ -11,7 +11,7 @@ This series of blog posts will explore the concept of "Working in the Open".
 In this second entry, we will attempt to explain how you can get started while respecting your duties as a public servant!
 <!--more-->
 
-In our [previous post]({{site.baseurl}}{% post_url 2019-11-19-working-in-the-open-part-1 %}), we explored what it meant to work in the open and why we should do so by default.
+In our [previous post]({{site.baseurl}}{% link _posts/en/2019-11-19-working-in-the-open-part-1.md %}), we explored what it meant to work in the open and why we should do so by default.
 Adding to our previous post's reasons to work in the open, we should mention that doing so is supported by the [Directive on Open Government](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=28108) and even the [GC Enterprise Architecture Framework](https://wiki.gccollab.ca/GC_Enterprise_Architecture/Framework) states that:
 
 > EA should "publish in the open all reusable common business capabilities, processes and enterprise solutions for others to develop and leverage cohesive horizontal enterprise services"
@@ -26,7 +26,7 @@ We may take a deeper dive in this other topic in an upcoming blog post._
 It's worth reminding ourselves that not everyone is mentally and emotionally ready to open up to the whole world.
 Various reasons exist and we should not judge.
 
-As mentioned in our [previous post]({{site.baseurl}}{% post_url 2019-11-19-working-in-the-open-part-1 %}), some organizations have taken the "Inner Source" road, opening up all workspaces to all their internal teams, to help folks slowly get comfortable with working in the open as well as reaping part of its benefits.
+As mentioned in our [previous post]({{site.baseurl}}{% link _posts/en/2019-11-19-working-in-the-open-part-1.md %}), some organizations have taken the "Inner Source" road, opening up all workspaces to all their internal teams, to help folks slowly get comfortable with working in the open as well as reaping part of its benefits.
 Doing so can help identify what works well and what challenges surface for your team and your organization.
 It can also help figure out what mechanisms of control could be added to ensure that the organization keeps a good hold on its information and how to better support its employees in adopting the best practices.
 

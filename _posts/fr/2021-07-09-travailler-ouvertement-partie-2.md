@@ -11,7 +11,7 @@ Cette série de billets explore le concept de "Travailler ouvertement".
 Dans ce deuxième article, nous allons tenter de vous expliquer comment vous pouvez vous lancer tout en respectant vos devoirs de fonctionnaire !
 <!--more-->
 
-Dans notre [billet précédent]({{site.baseurl}}{% post_url 2019-11-19-travailler-ouvertement-partie-1 %}), nous avons exploré ce que signifiait travailler ouvertement et pourquoi nous devrions le faire par défaut.
+Dans notre [billet précédent]({{site.baseurl}}{% link _posts/fr/2019-11-19-travailler-ouvertement-partie-1.md %}), nous avons exploré ce que signifiait travailler ouvertement et pourquoi nous devrions le faire par défaut.
 Pour compléter les raisons de travailler de façon ouverte évoquées dans notre précédent article, il est bon de mentionner que cette approche est soutenue par la [Directive sur le gouvernement ouvert](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=28108) et que même le [cadre d'architecture d'entreprise du GC](https://wiki.gccollab.ca/GC_Enterprise_Architecture/Framework) (en anglais) indique que:
 
 > les architectes d'entreprise devraient "publier ouvertement toutes les capacités, processus et solutions d'entreprise communs réutilisables pour que d'autres puissent développer et exploiter des services d'entreprise horizontaux cohérents" (traduction libre)
@@ -26,7 +26,7 @@ Nous pourrons approfondir cet autre sujet dans un prochain billet._
 Il est bon de se rappeler que tout le monde n'est pas prêt, mentalement et émotionnellement, à s'ouvrir au monde entier.
 Il existe diverses raisons et nous ne devons pas juger.
 
-Comme mentionné dans notre [précédent billet]({{site.baseurl}}{% post_url 2019-11-19-travailler-ouvertement-partie-1 %}), certaines organisations ont emprunté une approche graduelle, communément appelée "Inner Source", en ouvrant tous les espaces de travail à l'ensemble de leurs équipes internes, afin d'aider les gens à se familiariser progressivement avec le travail ouvert et à profiter d'une partie de ses avantages.
+Comme mentionné dans notre [précédent billet]({{site.baseurl}}{% link _posts/fr/2019-11-19-travailler-ouvertement-partie-1.md %}), certaines organisations ont emprunté une approche graduelle, communément appelée "Inner Source", en ouvrant tous les espaces de travail à l'ensemble de leurs équipes internes, afin d'aider les gens à se familiariser progressivement avec le travail ouvert et à profiter d'une partie de ses avantages.
 Cette démarche peut aider à identifier ce qui fonctionne bien et les défis qui se présentent à votre équipe et à votre organisation.
 Cela peut également aider à déterminer quels mécanismes de contrôle pourraient être ajoutés pour garantir que l'organisation garde une bonne maîtrise de ses informations et comment mieux aider ses employés à adopter les meilleures pratiques.
 
