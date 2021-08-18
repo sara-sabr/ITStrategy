@@ -6,7 +6,7 @@ lang: fr
 sections: Documents à l'appui
 version: 0.01
 date: "2020-09-23"
-permalink: /adopter-acheter-concevoir-explication.html
+permalink: /stratégie-adopter-acheter-concevoir-explication.html
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- the below cSpell statement says to ignore any text between HTML tags. E.g. it will ignore "th rowspan='2'" in this string: <th rowspan='2'> -->
@@ -20,9 +20,6 @@ permalink: /adopter-acheter-concevoir-explication.html
 - [Introduction](#introduction)
   - [Portée du présent document](#portée-du-présent-document)
   - [Cas d’utilisation](#cas-dutilisation)
-    - [Navigateur Web](#navigateur-web)
-    - [SaaS](#saas)
-    - [Système de gestion du versement de prestations multiples](#système-de-gestion-du-versement-de-prestations-multiples)
 
 ## Contexte
 
@@ -72,7 +69,7 @@ Adopter
 Adopter ^ Concevoir
 
 - Identique à « Adoption »
-- élaborer des intégrations personnalisées au moyen de l’IPA (à l’interne)
+- Plus, élaboration d'intégrations personnalisées au moyen d’interfaces de protocole d'application (communément appelées _API_ en anglais) (à l’interne)
 
 Adopter ^ Acheter
 
@@ -83,11 +80,11 @@ Adopter ^ Acheter
 Adopter ^ Acheter ^ Concevoir
 
 - Identique à « Adoption ^ Achat »
-- élaborer des intégrations personnalisées au moyen de l’IPA (à l’interne ou en faisant appel à un tiers)
+- Plus, élaboration d'intégrations personnalisées au moyen d’interfaces de protocole d'application (à l’interne ou en faisant appel à un tiers)
 
 #### Système de gestion du versement de prestations multiples
 
-\* Essentiel au mandat ou exigence susceptible de changer – le risque accru pour EDSC nous amène à atténuer encore plus le risque de verrouillage en suivant rigoureusement les procédures obligatoires sur les IPAs et l'évaluation de l'AE dans la Directive sur les services et le numérique.
+\* Essentiel au mandat ou exigence susceptible de changer – le risque accru pour EDSC nous amène à atténuer encore plus le risque de verrouillage en suivant rigoureusement les procédures obligatoires sur les interfaces de protocole d'application  et l'évaluation de l'AE dans la Directive sur les services et le numérique.
 
 Adopter ^ Concevoir
 

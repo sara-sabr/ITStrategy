@@ -8,7 +8,7 @@ sections: Stratégies
 datatable-ids: t001
 version: 0.07
 date: "2021-02-09"
-permalink: /adopter-acheter-et-concevoir.html
+permalink: /stratégie-adopter-acheter-et-concevoir.html
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- the below cSpell statement says to ignore any text between HTML tags. E.g. it will ignore "th rowspan='2'" in this string: <th rowspan='2'> -->
@@ -17,28 +17,28 @@ permalink: /adopter-acheter-et-concevoir.html
 ***Il s’agit d’une stratégie PROVISOIRE.***
 
 <div class="alert alert-info">
-  Cette stratégie est accompagnée du document suivant : <a href="strategy-build-vs-buy-explained.html" target="_blank">Explication</a> (Anglais).
+  Cette stratégie est accompagnée du document suivant : <a href="stratégie-adopter-acheter-concevoir-explication.html" target="_blank">Explication</a>.
 </div>
 
 <!-- markdownlint-disable MD001 -->
 ##### Table des matières <!-- omit in toc -->
 <!-- markdownlint-enable MD001 -->
-1. [Sommaire](#sommaire)
-2. [Introduction](#introduction)
-   1. [Objet](#objet)
-   2. [Intervenants ciblés](#intervenants-ciblés)
-3. [Politique d’orientation](#politique-dorientation)
-   1. [Gouvernance, conformité et rapports](#gouvernance-conformité-et-rapports)
-   2. [Finances](#finances)
-   3. [Juridique](#juridique)
-   4. [Architecture](#architecture)
-4. [L’ensemble cohérent de mesures](#lensemble-cohérent-de-mesures)
-5. [Mesurer la réussite de la stratégie](#mesurer-la-réussite-de-la-stratégie)
-6. [Annexe A – Analyse de rentabilisation (diagnostic)](#annexe-a--analyse-de-rentabilisation-diagnostic)
-7. [Annexe B – Matrice de traçabilité](#annexe-b--matrice-de-traçabilité)
-8. [Annexe C – Autres références utiles](#annexe-c--autres-références-utiles)
-9. [Annexe D – Définitions](#annexe-d--définitions)
-10. [Annexe E – Notes et journal des changements](#annexe-e--notes-et-journal-des-changements)
+- [Sommaire](#sommaire)
+- [Introduction](#introduction)
+  - [Objet](#objet)
+  - [Intervenants ciblés](#intervenants-ciblés)
+- [Politique d’orientation](#politique-dorientation)
+  - [Gouvernance, conformité et rapports](#gouvernance-conformité-et-rapports)
+  - [Finances](#finances)
+  - [Juridique](#juridique)
+  - [Architecture](#architecture)
+- [L’ensemble cohérent de mesures](#lensemble-cohérent-de-mesures)
+- [Mesurer la réussite de la stratégie](#mesurer-la-réussite-de-la-stratégie)
+- [Annexe A – Analyse de rentabilisation (diagnostic)](#annexe-a--analyse-de-rentabilisation-diagnostic)
+- [Annexe B – Matrice de traçabilité](#annexe-b--matrice-de-traçabilité)
+- [Annexe C – Autres références utiles](#annexe-c--autres-références-utiles)
+- [Annexe D – Définitions](#annexe-d--définitions)
+- [Annexe E – Notes et journal des changements](#annexe-e--notes-et-journal-des-changements)
 
 ## Sommaire
 
