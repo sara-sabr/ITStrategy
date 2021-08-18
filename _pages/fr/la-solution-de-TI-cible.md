@@ -72,7 +72,7 @@ Cette stratégie vise à communiquer une décision du DPI (qui n’a pas encore 
 
 Le présent **document stratégique** s’adresse aux intervenants qui participent à la détermination de la façon dont les solutions de TI seront livrées.
 Plus précisément, elle s’adresse aux intervenants qui participent à la définition des règles d’acquisition (que ce soit par voie de conception, d’achat, d’adoption ou de configuration), la prestation, l’opérationnalisation et la maintenance des solutions de TI (voir l’[Annexe D](#appendix-d---definitions) pour connaître la signification des termes).
-Cela comprend les intervenants de la DGIIT et ceux qui ne font pas partie de la DGIIT, comme la DGDPF, la DGVIGRE, le BDPD et SPC.
+Cela comprend les intervenants de la DGIIT et ceux qui ne font pas partie de la DGIIT, comme la DGDPF, la DGAIGRE, le BDPD et SPC.
 Vous dans l’[ensemble cohérent des mesures](#coherent-set-of-actions) une liste des intervenants qui devraient participer à la mise en œuvre de cette stratégie.
 
 Une fois mise en œuvre, la **politique d’orientation** ciblera les intervenants concernés lorsque des projets axés sur les TI seront conceptualisés et créés, que des solutions de TI seront conçues et que des produits de TI seront élaborés, livrés, mis en œuvre et mis à niveau.
@@ -217,372 +217,372 @@ Les mesures suivantes doivent être prises pour que le modèle de prestation de 
         <th>Collaborateur(s)</th>
     </tr>
     <tr>
-    <td rowspan="8"><b>Gouvernance</b></td>
-    <td>Examiner la chaîne de décision de la gouvernance des projets de TI</td>
-    <td>
-    Examiner le mandat des comités de gouvernance participant au CVGP du projet axé sur la TI et proposer des recommandations pour veiller au bon fonctionnement de l’état cible, p. ex. :<br>
-    <li>Délaisser les points de contrôle et miser sur la surveillance et la prise de correctifs</li>
-    <li>Permettre la prise de décisions automatique selon les conditions des balises (p. ex., petits changements aux produits de TI existants)</li>
-    </td>
-    <td><b><i>Gouvernance de la DGIIT</i></b></td>
-    <td>
-    CDGSP<br>
-    COGC<br>
-    CEA<br>
-    CEAI (peut-être)<br>
-    CEPP<br>
-    COPP<br>
-    CDPIN<br>
-    Stratégie de TI<br>
-    DGDPF-GIPA
-    </td>
+        <td rowspan="8"><b>Gouvernance</b></td>
+        <td>Examiner la chaîne de décision de la gouvernance des projets de TI</td>
+        <td>
+        Examiner le mandat des comités de gouvernance participant au CVGP du projet axé sur la TI et proposer des recommandations pour veiller au bon fonctionnement de l’état cible, p. ex. :<br>
+        <li>Délaisser les points de contrôle et miser sur la surveillance et la prise de correctifs</li>
+        <li>Permettre la prise de décisions automatique selon les conditions des balises (p. ex., petits changements aux produits de TI existants)</li>
+        </td>
+        <td><b><i>Gouvernance de la DGIIT</i></b></td>
+        <td>
+        CDGSP<br>
+        COGC<br>
+        CEA<br>
+        CEAI (peut-être)<br>
+        CEPP<br>
+        COPP<br>
+        CDPIN<br>
+        Stratégie de TI<br>
+        DGDPF-GIPA
+        </td>
     </tr>
     <tr>
-    <td>Ajuster le CVDL de la DGIIT</td>
-    <td>Ajuster le CVDL de la DGIIT afin de l’intégrer au nouveau cadre de gouvernance agile axé sur la TI.</td>
-    <td><b><i>BGPDG</i></b></td>
-    <td>Conseillers principaux</td>
+        <td>Ajuster le CVDL de la DGIIT</td>
+        <td>Ajuster le CVDL de la DGIIT afin de l’intégrer au nouveau cadre de gouvernance agile axé sur la TI.</td>
+        <td><b><i>BGPDG</i></b></td>
+        <td>Conseillers principaux</td>
     </tr>
-    <td>
-    <td>Produire une norme sur les conditions de réception des projets axés sur la TI</td>
-    <td>
-    Dresser une liste des conditions que les projets axés sur la TI doivent respecter avant qu’ils puissent être acceptés.<br>
-    <li>Les mesures des résultats opérationnels sont définies et approuvées par l’architecte en chef d’EDSC.</li>
-    <li>Le promoteur opérationnel s’engage à avoir au moins un expert en la matière pendant toute la durée du projet de TI.</li>
-    <li>Le parrain opérationnel s’engage à avoir au moins un expert en politiques pendant toute la durée du projet de TI.</li>
-    <li>Le parrain opérationnel s’engage à assurer la disponibilité d’un échantillon d’utilisateurs finaux tout au long du projet de TI.</li>
-    <li>Si les utilisateurs finaux sont des citoyens, il est recommandé de recourir à des groupes de discussion.</li>
-    <li>La DGIIT a désigné un seul responsable de la prestation de la solution de TI et de la transition aux opérations de mise en service.</li>
-    </td>
-    <td>
-    <b><i>GSTI</i></b>
-    </td>
-    <td>
-    BGPDG<br>
-    GRO<br>
-    Architecture d’entreprise<br>
-    Architecture opérationnelle<br>
-    DGDPF-GIPA<br>
-    BDPD
-    </td>
+    <tr>
+        <td>Produire une norme sur les conditions de réception des projets axés sur la TI</td>
+        <td>
+        Dresser une liste des conditions que les projets axés sur la TI doivent respecter avant qu’ils puissent être acceptés.<br>
+        <li>Les mesures des résultats opérationnels sont définies et approuvées par l’architecte en chef d’EDSC.</li>
+        <li>Le promoteur opérationnel s’engage à avoir au moins un expert en la matière pendant toute la durée du projet de TI.</li>
+        <li>Le parrain opérationnel s’engage à avoir au moins un expert en politiques pendant toute la durée du projet de TI.</li>
+        <li>Le parrain opérationnel s’engage à assurer la disponibilité d’un échantillon d’utilisateurs finaux tout au long du projet de TI.</li>
+        <li>Si les utilisateurs finaux sont des citoyens, il est recommandé de recourir à des groupes de discussion.</li>
+        <li>La DGIIT a désigné un seul responsable de la prestation de la solution de TI et de la transition aux opérations de mise en service.</li>
+        </td>
+        <td>
+        <b><i>GSTI</i></b>
+        </td>
+        <td>
+        BGPDG<br>
+        GRO<br>
+        Architecture d’entreprise<br>
+        Architecture opérationnelle<br>
+        DGDPF-GIPA<br>
+        BDPD
+        </td>
     </tr>
     <tr>
         <td>Produire un cadre de gouvernance agile pour les projets axés sur la TI.</td>
         <td>
         Produire un cadre normalisé pour régir les projets axés sur la TI conformément au modèle de prestation de la solution de TI cible. Un cadre normalisé est nécessaire pour réduire la confusion, assurer la cohérence entre les équipes et veiller à ce que la gouvernance demeure fluide, afin d’offrir une marge de manœuvre en matière de souplesse. On s’attend à ce que les chaînes de valeur du développement soient définies à même ce cadre, tout comme les IRC dont il faudra rendre compte.
-    <br><br>
-    Comme pour l’ébauche de l’expérience numérique et des données sur les clients (ENDC) de la MPA, <a href="https://014gc.sharepoint.com/:p:/r/sites/DECD/Shared%20Documents/Team%20-%20Digital%20Channel%20Strategy%20%26%20Oversight/Project%20Management%20Office/DECD%20Agile%20Governance.pptx?d=w831833ad477448d5bfa7662346319df6&amp;csf=1&amp;web=1&amp;e=CD3jWg">vous trouverez de plus amples renseignements sur la gouvernance agile en cliquant ici (anglais seulement)</a>.
-    </td>
-    <td>
-    <b><i>BGPDG</i></b>
-    </td>
-    <td>
-    Conseillers principaux<br>
-    Architecture d’entreprise<br>
-    GRO<br>
-    Gouvernance de la DGIIT<br>
-    DGDPF-GIPA
-    </td>
+        <br><br>
+        Comme pour l’ébauche de l’expérience numérique et des données sur les clients (ENDC) de la MPA, <a href="https://014gc.sharepoint.com/:p:/r/sites/DECD/Shared%20Documents/Team%20-%20Digital%20Channel%20Strategy%20%26%20Oversight/Project%20Management%20Office/DECD%20Agile%20Governance.pptx?d=w831833ad477448d5bfa7662346319df6&amp;csf=1&amp;web=1&amp;e=CD3jWg">vous trouverez de plus amples renseignements sur la gouvernance agile en cliquant ici (anglais seulement)</a>.
+        </td>
+        <td>
+        <b><i>BGPDG</i></b>
+        </td>
+        <td>
+        Conseillers principaux<br>
+        Architecture d’entreprise<br>
+        GRO<br>
+        Gouvernance de la DGIIT<br>
+        DGDPF-GIPA
+        </td>
     </tr>
     <tr>
-    <td>Produire un document d’orientation stratégique</td>
-    <td>Produire un document d’orientation à titre de document d’appui à la politique d’orientation du modèle de prestation de la solution de TI cible pour démontrer à quoi celle-ci ressemble et comment les équipes qui y participent peuvent s’y conformer.</td>
-    <td>
-    <b><i>Stratégie de TI</i></b>
-    </td>
-    <td>
-    BGPDG<br>
-    CEI<br>
-    Conseillers principaux<br>
-    GRO<br>
-    DGDPF-GIPA
-    </td>
+        <td>Produire un document d’orientation stratégique</td>
+        <td>Produire un document d’orientation à titre de document d’appui à la politique d’orientation du modèle de prestation de la solution de TI cible pour démontrer à quoi celle-ci ressemble et comment les équipes qui y participent peuvent s’y conformer.</td>
+        <td>
+        <b><i>Stratégie de TI</i></b>
+        </td>
+        <td>
+        BGPDG<br>
+        CEI<br>
+        Conseillers principaux<br>
+        GRO<br>
+        DGDPF-GIPA
+        </td>
     </tr>
     <tr>
-    <td>Produire des mesures de développement normalisées pour les équipes DevOps.</td>
-    <td>
-    Dresser une liste des mesures de développement minimales que les équipes DevOps doivent publier. L’objectif de ces mesures est de fournir un aperçu de la maturité du développement des équipes et des niveaux d’assurance de la qualité des produits de TI avant qu’ils soient mis en production, p. ex. :<br>
-    <li>Résultats des essais d’accessibilité</li>
-    <li>Résultats des essais d’intégration</li>
-    <li>Résultats des essais de sécurité</>
-    <li>Pistes de vérification du déploiement de production</li>
-    <li>Arriéré des produits de TI faisant partie de la cadence de l’équipe DevOps</li>
-    <li>Délai moyen d’examen des demandes de retrait</li>
-    <li>Résultats des essais de rendement</li>
-    </td>
-    <td><b><i>Équipe de gestion du changement (MPSC)</i></b></td>
-    <td>
-    Conseillers principaux<br>
-    STN<br>
-    Interopérabilité<br>
-    BGPDG<br>
-    Recherche et prototype<br>
-    CEI
-    </td>
+        <td>Produire des mesures de développement normalisées pour les équipes DevOps.</td>
+        <td>
+        Dresser une liste des mesures de développement minimales que les équipes DevOps doivent publier. L’objectif de ces mesures est de fournir un aperçu de la maturité du développement des équipes et des niveaux d’assurance de la qualité des produits de TI avant qu’ils soient mis en production, p. ex. :<br>
+        <li>Résultats des essais d’accessibilité</li>
+        <li>Résultats des essais d’intégration</li>
+        <li>Résultats des essais de sécurité</li>
+        <li>Pistes de vérification du déploiement de production</li>
+        <li>Arriéré des produits de TI faisant partie de la cadence de l’équipe DevOps</li>
+        <li>Délai moyen d’examen des demandes de retrait</li>
+        <li>Résultats des essais de rendement</li>
+        </td>
+        <td><b><i>Équipe de gestion du changement (MPSC)</i></b></td>
+        <td>
+        Conseillers principaux<br>
+        STN<br>
+        Interopérabilité<br>
+        BGPDG<br>
+        Recherche et prototype<br>
+        CEI
+        </td>
     </tr>
     <tr>
-    <td>Produire des mesures de production normalisées pour les produits de TI.</td>
-    <td>
-    Dresser une liste des mesures de production minimales que les produits de TI doivent publier. Ces mesures visent à fournir un aperçu de la santé et des comportements des produits de TI une fois en production. Ces données permettront de continuer d’améliorer les produits de TI, p. ex. :
-    <li>Statistiques sur la consommation d’IPA</li>
-    <li>Statistiques sur la disponibilité des produits de TI</li>
-    <li>Efficacité et efficience des décisions automatisées des produits de TI (s’il y a lieu)</li>
-    </td>
-    <td><b><i>Équipe de gestion du changement (MPSC)</i></b></td>
-    <td>
-    Conseillers principaux<br>
-    STN<br>
-    Interopérabilité<br>
-    BGPDG<br>
-    Recherche et prototype<br>
-    CEI
-    </td>
+        <td>Produire des mesures de production normalisées pour les produits de TI.</td>
+        <td>
+        Dresser une liste des mesures de production minimales que les produits de TI doivent publier. Ces mesures visent à fournir un aperçu de la santé et des comportements des produits de TI une fois en production. Ces données permettront de continuer d’améliorer les produits de TI, p. ex. :
+        <li>Statistiques sur la consommation d’IPA</li>
+        <li>Statistiques sur la disponibilité des produits de TI</li>
+        <li>Efficacité et efficience des décisions automatisées des produits de TI (s’il y a lieu)</li>
+        </td>
+        <td><b><i>Équipe de gestion du changement (MPSC)</i></b></td>
+        <td>
+        Conseillers principaux<br>
+        STN<br>
+        Interopérabilité<br>
+        BGPDG<br>
+        Recherche et prototype<br>
+        CEI
+        </td>
     </tr>
     <tr>
-    <td>Produire une définition normalisée pour le terme « équipe DevOps ».</td>
-    <td>Produire une définition normalisée énumérant les exigences minimales, les rôles et les responsabilités pour qu’une équipe puisse être qualifiée « d’équipe DevOps ». Cela permet de réduire la confusion et l’utilisation erronée du terme puisque la politique d’orientation accorde plus de pouvoirs à ces équipes.
-    <br><br>
-    <a href="{{ site.baseurl }}/assets/files/standard-devops-team-definition.docx">Ébauche (document principal sur Office 365 mis à la disposition du personnel d’EDSC, anglais seulement)</a>.
-    </td>
-    <td>
-    <b><i>Équipe de gestion du changement (MPSC)</i></b>
-    </td>
-    <td>
-    BGPDG<br>
-    CEI<br>
-    Conseillers principaux<br>
-    Recherche et prototype<br>
-    Interopérabilité<br>
-    STN
-    </td>
+        <td>Produire une définition normalisée pour le terme « équipe DevOps ».</td>
+        <td>Produire une définition normalisée énumérant les exigences minimales, les rôles et les responsabilités pour qu’une équipe puisse être qualifiée « d’équipe DevOps ». Cela permet de réduire la confusion et l’utilisation erronée du terme puisque la politique d’orientation accorde plus de pouvoirs à ces équipes.
+        <br><br>
+        <a href="{{ site.baseurl }}/assets/files/standard-devops-team-definition.docx">Ébauche (document principal sur Office 365 mis à la disposition du personnel d’EDSC, anglais seulement)</a>.
+        </td>
+        <td>
+        <b><i>Équipe de gestion du changement (MPSC)</i></b>
+        </td>
+        <td>
+        BGPDG<br>
+        CEI<br>
+        Conseillers principaux<br>
+        Recherche et prototype<br>
+        Interopérabilité<br>
+        STN
+        </td>
     </tr>
     <tr>
-    <td rowspan="5"><b>Conformité</b></td>
-    <td>Produire un processus d’EAS cible.</td>
-    <td>Produire un processus d’EAS cible qui favorise et encourage les capacités d’automatisation du développement et des opérations (DevOps), les résultats des essais, l’évolution des produits et l’établissement d’un pipeline DevOps fiable.</td>
-    <td>
-    <b><i>Sécurité des TI</i></b>
-    </td>
-    <td>
-    Unité de la conformité de la DGIIT<br>
-    Conseillers principaux
-    </td>
+        <td rowspan="5"><b>Conformité</b></td>
+        <td>Produire un processus d’EAS cible.</td>
+        <td>Produire un processus d’EAS cible qui favorise et encourage les capacités d’automatisation du développement et des opérations (DevOps), les résultats des essais, l’évolution des produits et l’établissement d’un pipeline DevOps fiable.</td>
+        <td>
+        <b><i>Sécurité des TI</i></b>
+        </td>
+        <td>
+        Unité de la conformité de la DGIIT<br>
+        Conseillers principaux
+        </td>
     </tr>
     <tr>
-    <td>Produire une méthodologie d’évaluation financière cible.</td>
-    <td>Produire une méthodologie d’évaluation financière cible qui favorise et encourage les capacités d’automatisation DevOps, les résultats des essais et l’évolution des produits.<br>
-    Les processus de vérification visés comprennent la vérification interne d’EDSC et non les entités de vérification externe.
-    </td>
-    <td>
-    <b><i>DGVIGRE</i></b>
-    </td>
-    <td>
-    Unité de la conformité de la DGIIT<br>
-    Conseillers principaux<br>
-    DGDPF-DIRCM
-    </td>
+        <td>Produire une méthodologie d’évaluation financière cible.</td>
+        <td>Produire une méthodologie d’évaluation financière cible qui favorise et encourage les capacités d’automatisation DevOps, les résultats des essais et l’évolution des produits.<br>
+        Les processus de vérification visés comprennent la vérification interne d’EDSC et non les entités de vérification externe.
+        </td>
+        <td>
+        <b><i>DGVIGRE</i></b>
+        </td>
+        <td>
+        Unité de la conformité de la DGIIT<br>
+        Conseillers principaux<br>
+        DGDPF-DIRCM
+        </td>
     </tr>
     <tr>
-    <td>Produire une méthodologie d’évaluation de l’accessibilité cible.</td>
-    <td>Produire une méthodologie d’évaluation de l’accessibilité cible qui favorise et encourage les capacités d’automatisation DevOps, les résultats des essais et l’évolution des produits.</td>
-    <td>
-    <b><i>Accessibilité</i></b>
-    </td>
-    <td>
-    BGPDG<br>
-    Conseillers principaux
-    </td>
+        <td>Produire une méthodologie d’évaluation de l’accessibilité cible.</td>
+        <td>Produire une méthodologie d’évaluation de l’accessibilité cible qui favorise et encourage les capacités d’automatisation DevOps, les résultats des essais et l’évolution des produits.</td>
+        <td>
+        <b><i>Accessibilité</i></b>
+        </td>
+        <td>
+        BGPDG<br>
+        Conseillers principaux
+        </td>
     </tr>
     <tr>
-    <td>Produire une méthodologie d’évaluation du SDA cible.</td>
-    <td>Produire une méthodologie d’évaluation du système décisionnel automatisé cible pour s’assurer que tout logiciel doté de fonctionnalités de prise de décisions automatisée est conforme à la Directive sur la prise de décisions automatisée, y compris les contrôles relatifs à la vie privée et juridiques qui peuvent être automatisés.</td>
-    <td><b><i>CEIA</i></b></td>
-    <td>
-    BDPD<br>
-    Division de la gestion de la protection des renseignements personnels<br>
-    Services juridiques
-    </td>
+        <td>Produire une méthodologie d’évaluation du SDA cible.</td>
+        <td>Produire une méthodologie d’évaluation du système décisionnel automatisé cible pour s’assurer que tout logiciel doté de fonctionnalités de prise de décisions automatisée est conforme à la Directive sur la prise de décisions automatisée, y compris les contrôles relatifs à la vie privée et juridiques qui peuvent être automatisés.</td>
+        <td><b><i>CEIA</i></b></td>
+        <td>
+        BDPD<br>
+        Division de la gestion de la protection des renseignements personnels<br>
+        Services juridiques
+        </td>
     </tr>
     <tr>
-    <td>Produire des directives et des normes sur les essais automatisés.</td>
-    <td>Guider les équipes DevOps dans le recours aux essais automatisés pour les différents types d’essais visés.
-    Élaborer des normes sur les seuils acceptables pour l’automatisation des versions des applications entre les environnements (jusqu’à l’étape de la production inclusivement).
-    </td>
-    <td>
-    <b><i>Équipe de gestion du changement (MPSC)</i></b>
-    </td>
-    <td>
-    Sécurité des TI<br>
-    Accessibilité<br>
-    Services d’essai<br>
-    Conseillers principaux
-    </td>
+        <td>Produire des directives et des normes sur les essais automatisés.</td>
+        <td>Guider les équipes DevOps dans le recours aux essais automatisés pour les différents types d’essais visés.
+        Élaborer des normes sur les seuils acceptables pour l’automatisation des versions des applications entre les environnements (jusqu’à l’étape de la production inclusivement).
+        </td>
+        <td>
+        <b><i>Équipe de gestion du changement (MPSC)</i></b>
+        </td>
+        <td>
+        Sécurité des TI<br>
+        Accessibilité<br>
+        Services d’essai<br>
+        Conseillers principaux
+        </td>
     </tr>
     <tr>
-    <td rowspan="5"><b>Architecture</b></td>
-    <td>Passer en revue les briques techniques</td>
-    <td>Revoir le processus de gestion des briques techniques pour permettre aux équipes des produits de TI d’adopter des combinaisons de technologies atypiques, en plus de recommander des normes émergentes. Évaluer les conditions et les responsabilités des intervenants en ce qui concerne les combinaisons de technologies atypiques, ainsi que lorsque les besoins d’approbation sont justifiés.</td>
-    <td>
-    <b><i>Architecture technique</i></b>
-    </td>
-    <td>
-    GTNT<br>
-    CEI<br>
-    COGC<br>
-    Stratégie de TI<br>
-    Conseillers principaux<br>
-    CEAI
-    </td>
+        <td rowspan="5"><b>Architecture</b></td>
+        <td>Passer en revue les briques techniques</td>
+        <td>Revoir le processus de gestion des briques techniques pour permettre aux équipes des produits de TI d’adopter des combinaisons de technologies atypiques, en plus de recommander des normes émergentes. Évaluer les conditions et les responsabilités des intervenants en ce qui concerne les combinaisons de technologies atypiques, ainsi que lorsque les besoins d’approbation sont justifiés.</td>
+        <td>
+        <b><i>Architecture technique</i></b>
+        </td>
+        <td>
+        GTNT<br>
+        CEI<br>
+        COGC<br>
+        Stratégie de TI<br>
+        Conseillers principaux<br>
+        CEAI
+        </td>
     </tr>
     <tr>
-    <td>Définir le processus d’approbation des IPA</td>
-    <td>Définir officiellement le processus d’approbation des IPA pour permettre aux équipes DevOps d’exposer la fonctionnalité et les données de leurs produits au moyen d’IPA sécurisées.
-    Fournir les normes auxquelles les équipes DevOps doivent se conformer lors de la diffusion d’IPA sécurisées, comme les formats d’échange de données, les modèles de données de référence, les contrôles de sécurité et les <a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32604">procédures obligatoires relatives aux évaluations d’IPA</a> (Directive sur les services et le numérique).
-    </td>
-    <td>
-    <b><i>Interopérabilité</i></b>
-    </td>
-    <td>
-    Architecture d’entreprise<br>
-    Architecture de solutions<br>
-    BDPD
-    </td>
+        <td>Définir le processus d’approbation des IPA</td>
+        <td>Définir officiellement le processus d’approbation des IPA pour permettre aux équipes DevOps d’exposer la fonctionnalité et les données de leurs produits au moyen d’IPA sécurisées.
+        Fournir les normes auxquelles les équipes DevOps doivent se conformer lors de la diffusion d’IPA sécurisées, comme les formats d’échange de données, les modèles de données de référence, les contrôles de sécurité et les <a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32604">procédures obligatoires relatives aux évaluations d’IPA</a> (Directive sur les services et le numérique).
+        </td>
+        <td>
+        <b><i>Interopérabilité</i></b>
+        </td>
+        <td>
+        Architecture d’entreprise<br>
+        Architecture de solutions<br>
+        BDPD
+        </td>
     </tr>
     <tr>
-    <td>Définir la vision de l’architecture cible pour les environnements existants.</td>
-    <td>
-    Définir la vision de l’architecture cible pour les environnements existants afin de faciliter la transition vers la MPA et le modèle de prestation de la solution de TI cible. La vision de l’architecture cible consiste à fournir une orientation et à établir des attentes raisonnables pour les équipes DevOps dans un environnement existant. Son contenu vise à fournir un aperçu conceptuel des architectures multicouches (présentation, intégration, systèmes/applications, informations/données, réseautage et sécurité) et des architectures de référence que les équipes de projet peuvent mettre en œuvre (voir les <a href="https://dzone.com/articles/monolith-to-microservices-using-the-strangler-patt">schémas en goulot d’étranglement (anglais seulement)</a>).
-    </td>
-    <td>
-    <b><i>Architecture d’entreprise</i></b>
-    </td>
-    <td>
-    Dette technique<br>
-    Architecture de solutions<br>
-    Architecture technique<br>
-    Avantages BSI et solutions de gestion des cas
-    </td>
+        <td>Définir la vision de l’architecture cible pour les environnements existants.</td>
+        <td>
+        Définir la vision de l’architecture cible pour les environnements existants afin de faciliter la transition vers la MPA et le modèle de prestation de la solution de TI cible. La vision de l’architecture cible consiste à fournir une orientation et à établir des attentes raisonnables pour les équipes DevOps dans un environnement existant. Son contenu vise à fournir un aperçu conceptuel des architectures multicouches (présentation, intégration, systèmes/applications, informations/données, réseautage et sécurité) et des architectures de référence que les équipes de projet peuvent mettre en œuvre (voir les <a href="https://dzone.com/articles/monolith-to-microservices-using-the-strangler-patt">schémas en goulot d’étranglement (anglais seulement)</a>).
+        </td>
+        <td>
+        <b><i>Architecture d’entreprise</i></b>
+        </td>
+        <td>
+        Dette technique<br>
+        Architecture de solutions<br>
+        Architecture technique<br>
+        Avantages BSI et solutions de gestion des cas
+        </td>
     </tr>
     <tr>
-    <td>Produire la liste normalisée des applications existantes d’EDSC</td>
-    <td>Produire une liste officielle des applications réputées « héritées » du portefeuille de la GPA. Cette liste normalisée est utilisée par l’énoncé de politique directeur de la 7<sup>e</sup> architecture.</td>
-    <td><b><i>Architecture d’entreprise</i></b></td>
-    <td>Dette technique</td>
+        <td>Produire la liste normalisée des applications existantes d’EDSC</td>
+        <td>Produire une liste officielle des applications réputées « héritées » du portefeuille de la GPA. Cette liste normalisée est utilisée par l’énoncé de politique directeur de la 7<sup>e</sup> architecture.</td>
+        <td><b><i>Architecture d’entreprise</i></b></td>
+        <td>Dette technique</td>
     </tr>
     <tr>
-    <td>Produire un document d’orientation de l’architecture de couplage libre.</td>
-    <td>
-    Produire un document d’orientation pour éclairer et guider les équipes d’architectes et DevOps dans l’élaboration de solutions de TI au moyen de principes d’architecture de couplage libre, qui assurent aux équipes DevOps une plus grande autonomie. Il existe deux éléments propres au couplage libre qu’il faudra aborder :<br>
-    <br>
-   1. Entre les composantes logicielles qui constituent une application (p. ex., adoption des principes propres aux <a href="https://www.martinfowler.com/microservices/">microservices (anglais seulement)</a> et à l’<a href="https://12factor.net/">application 12 facteurs (anglais seulement)</a>).<br>
-   2. Entre l’application et les données de l’organisation (p. ex., adoption de <a href="https://cloud.google.com/architecture/devops/devops-tech-database-change-management">pratiques de gestion des changements aux bases de données (anglais seulement)</a> pour les processus DevOps, instauration de <a href="https://www.gartner.com/document/3895919">couches d’accès aux données (anglais seulement)</a> aux équipes DevOps).<br>
-    <br>
-    Le document d’orientation devrait inclure des modèles d’architecture et de conception, des principes et des sources de bribes de code réutilisables qui permettront de satisfaire aux attentes en matière de gestion de données.</td>
-    <td>
-    <b><i>Architecture de solutions</i></b>
-    </td>
-    <td>
-    SDA<br>
-    BDPD<br>
-    Conseillers principaux<br>
-    Interopérabilité
-    </td>
+        <td>Produire un document d’orientation de l’architecture de couplage libre.</td>
+        <td>
+        Produire un document d’orientation pour éclairer et guider les équipes d’architectes et DevOps dans l’élaboration de solutions de TI au moyen de principes d’architecture de couplage libre, qui assurent aux équipes DevOps une plus grande autonomie. Il existe deux éléments propres au couplage libre qu’il faudra aborder :<br>
+        <br>
+    1. Entre les composantes logicielles qui constituent une application (p. ex., adoption des principes propres aux <a href="https://www.martinfowler.com/microservices/">microservices (anglais seulement)</a> et à l’<a href="https://12factor.net/">application 12 facteurs (anglais seulement)</a>).<br>
+    2. Entre l’application et les données de l’organisation (p. ex., adoption de <a href="https://cloud.google.com/architecture/devops/devops-tech-database-change-management">pratiques de gestion des changements aux bases de données (anglais seulement)</a> pour les processus DevOps, instauration de <a href="https://www.gartner.com/document/3895919">couches d’accès aux données (anglais seulement)</a> aux équipes DevOps).<br>
+        <br>
+        Le document d’orientation devrait inclure des modèles d’architecture et de conception, des principes et des sources de bribes de code réutilisables qui permettront de satisfaire aux attentes en matière de gestion de données.</td>
+        <td>
+        <b><i>Architecture de solutions</i></b>
+        </td>
+        <td>
+        SDA<br>
+        BDPD<br>
+        Conseillers principaux<br>
+        Interopérabilité
+        </td>
     </tr>
     <tr>
-    <td rowspan="3"><b>Gestion de produits</b></td>
-    <td>Produire un modèle de prêt d’équipe.</td>
-    <td>Collaborer avec le Centre des ressources pour offrir un autre moyen de déployer des ressources dans le cadre de projets, un moyen qui favorise les petites équipes multidisciplinaires dédiées et non les personnes, ainsi que créer des équipes habilitantes responsables d’accélérer la transition des autres équipes vers les processus DevOps (voir la définition d’« équipe DevOps » et les différents types d’équipes).</td>
-    <td>
-    <b><i>Centre de ressources</i></b>
-    </td>
-    <td>
-    Conseillers principaux<br>
-    STN<br>
-    Interopérabilité
-    </td>
+        <td rowspan="3"><b>Gestion de produits</b></td>
+        <td>Produire un modèle de prêt d’équipe.</td>
+        <td>Collaborer avec le Centre des ressources pour offrir un autre moyen de déployer des ressources dans le cadre de projets, un moyen qui favorise les petites équipes multidisciplinaires dédiées et non les personnes, ainsi que créer des équipes habilitantes responsables d’accélérer la transition des autres équipes vers les processus DevOps (voir la définition d’« équipe DevOps » et les différents types d’équipes).</td>
+        <td>
+        <b><i>Centre de ressources</i></b>
+        </td>
+        <td>
+        Conseillers principaux<br>
+        STN<br>
+        Interopérabilité
+        </td>
     </tr>
     <tr>
-    <td>Classifier les produits de TI et leurs responsables.</td>
-    <td>Classifier la liste officielle des produits de TI offerts et désigner un seul responsable pour chaque produit.</td>
-    <td><b><i>À DÉT.</i></b></td>
-    <td>
-    Dette technique (GPA)<br>
-    Architecture d’entreprise
-    </td>
+        <td>Classifier les produits de TI et leurs responsables.</td>
+        <td>Classifier la liste officielle des produits de TI offerts et désigner un seul responsable pour chaque produit.</td>
+        <td><b><i>À DÉT.</i></b></td>
+        <td>
+        Dette technique (GPA)<br>
+        Architecture d’entreprise
+        </td>
     </tr>
     <tr>
-    <td>Créer un modèle matriciel de bassin de ressources.</td>
-    <td>Créer un modèle permettant d’affecter des ressources spécialisées, des champions ou des experts aux équipes DevOps.</td>
-    <td>
-    <b><i>Équipe de gestion du changement (MPSC)</i></b>
-    </td>
-    <td>
-    Centre de ressources<br>
-    Sécurité des TI<br>
-    Accessibilité<br>
-    Services d’essai<br>
-    CEI
-    </td>
+        <td>Créer un modèle matriciel de bassin de ressources.</td>
+        <td>Créer un modèle permettant d’affecter des ressources spécialisées, des champions ou des experts aux équipes DevOps.</td>
+        <td>
+        <b><i>Équipe de gestion du changement (MPSC)</i></b>
+        </td>
+        <td>
+        Centre de ressources<br>
+        Sécurité des TI<br>
+        Accessibilité<br>
+        Services d’essai<br>
+        CEI
+        </td>
     </tr>
     <tr>
-    <td rowspan="4"><b>Développement et opérations (DevOps)</b></td>
-    <td>Obtenir l’approbation de SPC.</td>
-    <td>Collaborer avec SPC en vue d’obtenir son approbation pour permettre le déploiement direct dans l’environnement de production (modèle de déploiement sur les lieux).</td>
-    <td>
-    <b><i>Équipe de gestion du changement (MPSC)</i></b>
-    </td>
-    <td>
-    Sécurité des TI<br>
-    SPC
-    </td>
+        <td rowspan="4"><b>Développement et opérations (DevOps)</b></td>
+        <td>Obtenir l’approbation de SPC.</td>
+        <td>Collaborer avec SPC en vue d’obtenir son approbation pour permettre le déploiement direct dans l’environnement de production (modèle de déploiement sur les lieux).</td>
+        <td>
+        <b><i>Équipe de gestion du changement (MPSC)</i></b>
+        </td>
+        <td>
+        Sécurité des TI<br>
+        SPC
+        </td>
     </tr>
     <tr>
-    <td>Produire des critères normalisés de gestion des changements.</td>
-    <td>
-    Produire des critères normalisés de gestion des changements auxquels tous les pipelines doivent se conformer, à tout le moins, avant de pouvoir promouvoir automatiquement le code dans les environnements de préproduction et de production, p. ex. :<br>
-    <li>Axé sur les produits de TI (c.‑à‑d. GUI, IPA, prise de décisions automatisée)</li>
-    <li>Diffusions majeures ou mineures et niveaux d’approbation requis</li>
-    <li>Points de contrôle pour faire approuver la diffusion automatisée</li>
-    </td>
-    <td>
-    <b><i>Équipe de gestion du changement (MPSC)</i></b>
-    </td>
-    <td>
-    Sécurité des TI<br>
-    Accessibilité<br>
-    Services d’essai<br>
-    CEAI<br>
-    Unité de la conformité de la DGIIT
-    </td>
+        <td>Produire des critères normalisés de gestion des changements.</td>
+        <td>
+        Produire des critères normalisés de gestion des changements auxquels tous les pipelines doivent se conformer, à tout le moins, avant de pouvoir promouvoir automatiquement le code dans les environnements de préproduction et de production, p. ex. :<br>
+        <li>Axé sur les produits de TI (c.‑à‑d. GUI, IPA, prise de décisions automatisée)</li>
+        <li>Diffusions majeures ou mineures et niveaux d’approbation requis</li>
+        <li>Points de contrôle pour faire approuver la diffusion automatisée</li>
+        </td>
+        <td>
+        <b><i>Équipe de gestion du changement (MPSC)</i></b>
+        </td>
+        <td>
+        Sécurité des TI<br>
+        Accessibilité<br>
+        Services d’essai<br>
+        CEAI<br>
+        Unité de la conformité de la DGIIT
+        </td>
     </tr>
     <tr>
-    <td>Élaborer les lignes directrices ConOps-DevOps.</td>
-    <td>Élaborer des lignes directrices ConOps-DevOps, y compris des processus et des normes de diffusion, sur la diffusion du code de l’étape de l’engagement à celle de la production (p. ex., environnement de préproduction, modèle bleu-vert).</td>
-    <td>
-    <b><i>CEI</i></b>
-    </td>
-    <td>
-    Conseillers principaux de la DGIIT<br>
-    Sécurité des TI<br>
-    BGPDG<br>
-    Opérations infonuagiques
-    </td>
+        <td>Élaborer les lignes directrices ConOps-DevOps.</td>
+        <td>Élaborer des lignes directrices ConOps-DevOps, y compris des processus et des normes de diffusion, sur la diffusion du code de l’étape de l’engagement à celle de la production (p. ex., environnement de préproduction, modèle bleu-vert).</td>
+        <td>
+        <b><i>CEI</i></b>
+        </td>
+        <td>
+        Conseillers principaux de la DGIIT<br>
+        Sécurité des TI<br>
+        BGPDG<br>
+        Opérations infonuagiques
+        </td>
     </tr>
     <tr>
-    <td>Fournir aux équipes DevOps des moyens d’expérimenter de nouveaux outils.</td>
-    <td>Tirer parti du laboratoire SAFER, de l’image de bureau virtuel et des normes d’architecture technique pour offrir aux équipes DevOps des moyens d’installer et de mettre à l’essai de nouveaux outils novateurs à des fins d’expérimentation, en vue d’apporter éventuellement des mises à jour rapides aux briques techniques.</td>
-    <td>
-    <b><i>Recherche et prototype en matière de TI</i></b>
-    </td>
-    <td>
-    CEI<br>
-    Recherche et prototype<br>
-    Sécurité des TI<br>
-    Environnement de TI<br>
-    GTNT
-    </td>
+        <td>Fournir aux équipes DevOps des moyens d’expérimenter de nouveaux outils.</td>
+        <td>Tirer parti du laboratoire SAFER, de l’image de bureau virtuel et des normes d’architecture technique pour offrir aux équipes DevOps des moyens d’installer et de mettre à l’essai de nouveaux outils novateurs à des fins d’expérimentation, en vue d’apporter éventuellement des mises à jour rapides aux briques techniques.</td>
+        <td>
+        <b><i>Recherche et prototype en matière de TI</i></b>
+        </td>
+        <td>
+        CEI<br>
+        Recherche et prototype<br>
+        Sécurité des TI<br>
+        Environnement de TI<br>
+        GTNT
+        </td>
     </tr>
-    </table>
+</table>
 
 ## Mesurer la réussite de la stratégie
 
@@ -679,7 +679,7 @@ L’approche de mise en œuvre se fera de manière itérative, en vue d’attein
     - Sanction 1 - Projet axé sur la TI fonctionnant selon le nouveau modèle d’état cible
     - Créer temporairement (sur une durée de trois ans) une communauté d’excellence DevOps financée, qui agira à titre d’agent de changement et d’encadrement pour les équipes de TI existantes d’EDSC en vue de l’adoption des processus DevOps.
     - Désigner des « champions » par fonctions.
-    Ces champions offriront des services d’encadrement et de mentorat à d’autres équipes (c.‑à‑d. que ce sera le début des « équipes habilitantes » auxquelles fait référence le concept de topologie d’équipe (Team Topology)[^12](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html#fn:12)).
+    Ces champions offriront des services d’encadrement et de mentorat à d’autres équipes (c.‑à‑d. que ce sera le début des « équipes habilitantes » auxquelles fait référence le concept de topologie d’équipe (Team Topology)[^12]).
     - Sensibiliser les parties intéressées au fait que les administrateurs de systèmes doivent adopter le rôle d’ingénieurs de la fiabilité des sites.
 2. **Étape 2 : État de préparation de l’infrastructure et des systèmes existants**
     - Cerner deux projets axés sur la TI touchant des systèmes existants aux fins de mise à l’essai et les orienter en vue de leur permettre d’atteindre l’état cible (conformément à la vision de l’architecture cible pour les systèmes existants).
