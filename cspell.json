@@ -593,7 +593,8 @@
     "suringénierie",
     "taile",
     "insuffissant",
-    "montan"
+    "montan",
+    "DGAIGRE"
   ],
   "flagWords": [],
   "import": ["node_modules/@cspell/dict-fr-fr/cspell-ext.json"],
