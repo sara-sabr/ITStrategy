@@ -95,7 +95,7 @@ Open standards and OSS allows for incremental innovation, based on the sharing o
 Openness increases trust in public services.
 It helps to solve complex technology problems by getting others to contribute unexpected solutions.
 
-Being free to inspect and improve, open standards and OSS offers more options to increase the level of assurances that adequate security controls are applied.
+Being free to inspect and improve, open standards and OSS offers more options to increase the level of assurance that adequate security controls are applied.
 It allows for independent audits and code inspections, so the time and effort spent can be balanced according to need.
 This improves security, not just for us, but also for everyone.
 
@@ -113,12 +113,12 @@ It encourages us to explore opportunities for dedicated support services for ope
 We will make more and more use of open standards and OSS – in areas where it is practical, to areas where it makes sense and domains where it is strategic.
 
 It was the GC's involvement in the fields of aviation, telephony, and nuclear technologies that spurred innovation and new industries in our country.
-The Government is once again well positioned to rally the country into the growing field of open standards and OSS that employs tens of thousand of people across the country.
+The Government is once again well positioned to rally the country into the growing field of open standards and OSS that employs tens of thousands of people across the country.
 As a strong supporter of the GC's vision of open standards and OSS, ESDC can play a role in bringing this vision to fruition through the development and implementation of this strategy.
 
 ## 2. Vision
 
-> ESDC leverages the transformative, innovative, and collaborative power of open standards and OSS, encouraging the sharing and reuse of solutions, knowledge and expertise, to optimize service delivery to canadians.
+> ESDC leverages the transformative, innovative, and collaborative power of open standards and OSS, encouraging the sharing and reuse of solutions, knowledge and expertise, to optimize service delivery to Canadians.
 
 The title of this strategy, "Open First", is intended to change the mindset whereby the acquisition or development of digital solutions takes account of openness, sharing, reuse, security, privacy, legal and accessibility while achieving digital autonomy and transparency considerations.
 It also indicates a commitment to actively support standards organizations and developer communities.
@@ -144,11 +144,11 @@ The [Minister of Employment, Workforce Development and Disability Inclusion](htt
 
 ### Digital Nations Charter
 
-The [Digital Nations](https://www.canada.ca/en/government/system/digital-government/digital-nations.html) is a collaborative forum of the world's leading digital governments that uses technology to improve citizens services in Canada and globally.
+The [Digital Nations](https://www.canada.ca/en/government/system/digital-government/digital-nations.html) is a collaborative forum of the world's leading digital governments that uses technology to improve citizens’ services in Canada and globally.
 At the 2019 Digital Nations Ministerial Summit, the [Digital Nations Charter](https://www.canada.ca/en/government/system/digital-government/improving-digital-services/digital9charter.html) endorsed a mutual commitment to digital government service development and leadership.
 The commitment focuses on:
 
-- promoting interoperability of digital technologies, including by adopting a credible royalty free open standards policy;
+- promoting interoperability of digital technologies, including by adopting a credible royalty-free open standards policy;
 - creating future government systems, tradecraft, manuals and standards as open source and shareable between Participants;
 - promoting competition in digital markets, for all enterprises regardless of size, including in government procurement;
 - supporting a dynamic start-up/scale-up culture in the digital and technology sectors, and promote sustainable economic growth through open markets; and
@@ -212,7 +212,7 @@ The procedures stipulates the following:
 
 The [Directive on Open Government](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=28108) promotes information management practices that enable the proactive and ongoing release of government information, by
 
-- maximizing the release of GC open data (structured data) and open information (unstructured documents and multi-media assets) under an open and unrestrictive licence.
+- maximizing the release of GC open data (structured data) and open information (unstructured documents and multimedia assets) under an open and unrestrictive licence.
 
 #### Directive on Automated Decision-Making
 
@@ -270,12 +270,12 @@ TBS published Guides for [Using OSS](https://www.canada.ca/en/government/system/
 
 ### ESDC OSS Management Framework
 
-The [ESDC OSS Management Framework (internal link)](https://dialogue/grp/CO7397744/MasterLib/ESDC%20Open%20Source%20Management%20Framework%20v%201.2.docx), endorsed at ESDC EARB on March 16th 2021, provides guidance and sets direction around OSS product selection considerations and compliance obligations such as governance, code sharing, licensing and security to ESDC.
+The [ESDC OSS Management Framework (internal link)](https://dialogue/grp/CO7397744/MasterLib/ESDC%20Open%20Source%20Management%20Framework%20v%201.2.docx), endorsed at ESDC EARB on March 16, 2021, provides guidance and sets direction around OSS product selection considerations and compliance obligations such as governance, code sharing, licensing and security to ESDC.
 It also provides a list of recommendations, considerations and procedures for the adoption, management and promotion of OSS as the primary option for future and next iteration solutions of ESDC/IITB information systems.
-Some short term recommendations are:
+Some short-term recommendations are:
 
 - Define and focus on the preferred areas of adoption, consider OSS in every aspect of the IMIT ecosystem;
-- Implement a process for the sharing and re-use of developed OSS efforts within the department, GoC and OSS Community; and
+- Implement a process for the sharing and reuse of developed OSS efforts within the department, GoC and OSS Community; and
 - Establish an OSS Program Office to take on the responsibility and further define the process and reporting requirements.
 
 ### ESDC Adopt, Buy and Build Strategy
@@ -294,7 +294,7 @@ The [Target Solution Delivery Model](https://sara-sabr.github.io/ITStrategy/stra
 
 These days, open standards and OSS are everywhere.
 They have reshaped the landscape in the IT industry, are ubiquitous in manufacturing, and are an increasingly common instrument of public services.
-Governments across Canada (e.g.
+Governments across Canada (e.g.,
 [British-Colombia](https://www2.gov.bc.ca/assets/gov/government/services-for-government-and-broader-public-sector/information-technology-services/standards-files/1_02-v1_0-guidelines_on_the_use_of_open_source_software.pdf),
 [Québec](https://www.tresor.gouv.qc.ca/fileadmin/PDF/ressources_informationnelles/logiciels_libres/ll.pdf),
 [Montréal](http://ville.montreal.qc.ca/pls/portal/docs/PAGE/PRT_VDM_FR/MEDIA/DOCUMENTS/politique_materiel_libres_fr.pdf))
@@ -309,13 +309,13 @@ This strategy, its governing principles and its action plan will help us build a
 It will make ESDC and the GC part of the OSS community, an agile contributor and active participant by co-developing with other Canadian public administrations and encouraging the sharing and reuse of our solutions, knowledge and expertise.
 As a result, we will deliver services that enrich society and reduce costs.
 
-This strategy focuses on transformative and innovative aspects, and recognises open standards and OSS as catalysts for change.
+This strategy focuses on transformative and innovative aspects, and recognizes open standards and OSS as catalysts for change.
 In addition, it leverages initiatives in other GC departments/agencies to help shape the conditions for open standards, OSS and government innovation.
 This section sets out the key reasons and principles underlying the new strategy.
 
 ### Progress towards digital autonomy
 
-Change is constant at ESDC, and as a result, the acquisition and development of IT solutions must consider the flexibility needed to keep pace with legislative changes as well as emerging technologies to offer services that are alike commercial services (e.g. banks, social media, etc.) internally and to citizens.
+Change is constant at ESDC, and as a result, the acquisition and development of IT solutions must consider the flexibility needed to keep pace with legislative changes as well as emerging technologies to offer services that are alike commercial services (e.g., banks, social media, etc.) internally and to citizens.
 
 This is reflected within the Prime Minister's mandate letter to the Minister of Digital Government where an emphasis on the use of open standards and OSS is made:
 
@@ -325,12 +325,12 @@ Open standards and OSS have an impact on the digital autonomy of Canada.
 The [Mandatory procedures for EA assessments](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602) include designing for cloud mobility and developing exit strategies to avoid vendor lock-in.
 Open standards and OSS can give ESDC and the GC a chance to create and maintain an independent digital approach and stay in control of its processes, its information and its technology, because:
 
-- open standards and OSS are independent of companies and countries - minimises the risk of vendor lock-in and political or trade disputes;
+- open standards and OSS are independent of companies and countries - minimizes the risk of vendor lock-in and political or trade disputes;
 - open collaboration is the leading model and provides the most flexible platform for software development at the digital frontier, from cloud, blockchain, high-performance computing and artificial intelligence to the internet of things;
 - leveraging open standards and OSS, ESDC can devise an approach to cloud computing and software-as-a-service (SaaS) that balances advantages and risks;
 - being open and working in the open promotes trust in the ESDC and the GC;
-- open standards and OSS enables ESDC to invest in Canada's independent and competitive position in these technology areas - focus on an open, decentralised information society that supports Canadian actors and fiscal fairness; and
-- open standards and OSS makes decentralised, federated services possible for independent audit by allowing ESDC to build solutions that are in harmony with the commitment of the GC to govern in a positive, open and collaborative way as well as the [Values and Ethics Code for the Public Sector](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=25049): Respect for Democracy, Respect for People, Integrity, Stewardship and Excellence.
+- open standards and OSS enables ESDC to invest in Canada's independent and competitive position in these technology areas - focus on an open, decentralized information society that supports Canadian actors and fiscal fairness; and
+- open standards and OSS makes decentralized, federated services possible for independent audit by allowing ESDC to build solutions that are in harmony with the commitment of the GC to govern in a positive, open and collaborative way as well as the [Values and Ethics Code for the Public Sector](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=25049): Respect for Democracy, Respect for People, Integrity, Stewardship and Excellence.
 
 ### Implementing the Policy on Service and Digital
 
@@ -373,8 +373,8 @@ This aligns with industry best practices where companies have increasingly relea
 Any ancillary capabilities are built in the open to create a place where many can collaborate on commonly needed software solutions.
 
 Finally, this creates new opportunities for smaller companies to do business with the GC.
-For example, [studies from the CNLL](https://cnll.fr/news/etude-pac-logiciel-libre-2015-2020/) (Conseil National du Logiciel Libre) show that the market share for OSS related services in France has grown from 2.5 billion euros in 2012 to 4.5 billion euros in 2017 and was expected to approach 6 billion euros in 2020.
-This growth is in part due to the policies of the French Government that favor the use of open standards and OSS.
+For example, [studies from the CNLL](https://cnll.fr/news/etude-pac-logiciel-libre-2015-2020/) (Conseil National du Logiciel Libre) show that the market share for OSS-related services in France has grown from 2.5 billion euros in 2012 to 4.5 billion euros in 2017 and was expected to approach 6 billion euros in 2020.
+This growth is in part due to the policies of the French Government that favour the use of open standards and OSS.
 
 This strategy promotes the use of new commercial opportunities for Canadian open standards and OSS service providers to do business with the GC and business internationally.
 
@@ -427,7 +427,7 @@ Open standards and OSS are already being used across the GC and in some parts of
 We simply need to do more and continuously improve.
 
 The principles of this strategy will help us choose strategically between closely competing software solutions.
-They will allow ESDC to choose non-open technologies where required, while planning for for future open standards and OSS alternatives.
+They will allow ESDC to choose non-open technologies where required, while planning for future open standards and OSS alternatives.
 They give our developers the flexibility to gain expertise on the diversity of open standards and OSS platforms, and in return, empower ESDC to learn about innovative new solutions.
 
 The principles are consistent with "state of the art" GC policies (see [Build a world class public service](#build-a-world-class-public-service).
@@ -442,7 +442,7 @@ The following six principles govern this strategy:
 > Work in the open by default.
 
 The GC is an enthusiastic user of and contributor to OSS.
-This is reflected in its Digital Standards and Policy on Service and Digital, which encourages the IT community to tap into the growing potential of open standards and OSS as well as join forces with major commercial players and communities, and mobilise co-creation capacity to support departments in pioneering new solutions.
+This is reflected in its Digital Standards and Policy on Service and Digital, which encourages the IT community to tap into the growing potential of open standards and OSS as well as join forces with major commercial players and communities, and mobilize co-creation capacity to support departments in pioneering new solutions.
 
 The GC [Guide for using OSS](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/open-source-software/guide-for-using-open-source-software.html) provides recommendations how to: actively and fairly consider Open Source Software; verify OSS ownership or licence; evaluate support options; use OSS with or without modification.
 
@@ -459,7 +459,7 @@ Open standards and OSS offer practical tools and methods for teams to work toget
 In these teams, developers look at software code written by colleagues and try to insert new components.
 They combine parts, borrow tools and recipes, and build an extended collection of solutions to run digital government solutions.
 
-Inner source (the creation of working cultures based on open principles and share code within the organization) will be promoted, to bring teams closer to working in the open and encourage sharing and reuse within the organisation.
+Inner source (the creation of working cultures based on open principles and share code within the organization) will be promoted, to bring teams closer to working in the open and encourage sharing and reuse within the organization.
 This is a step towards opening up more projects as open source code and sharing them with the outside world.
 
 ### Share
@@ -489,7 +489,7 @@ In addition to sharing source code, ESDC should consider joining open standards 
 This could enable ESDC to influence to direction of work, which could also be leveraged by other public administrations.
 It could also provide opportunities to recruit talent.
 
-The GC [Guide for Contributing to OSS](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/open-source-software/guide-for-contributing-to-open-source-software.html) provides recommendations how to: verify OSS licence; verify contributing process and policies; additional approvals; contribute to the project; contribute through professional services; and publish contributions regardless of upstream acceptance.
+The GC [Guide for Contributing to OSS](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/open-source-software/guide-for-contributing-to-open-source-software.html) provides recommendations how to: verify OSS licence; verify contributing processes and policies; additional approvals; contribute to the project; contribute through professional services; and publish contributions regardless of upstream acceptance.
 
 ### Secure
 
@@ -515,7 +515,7 @@ There are also opportunities to learn and collaborate with the [EU-Free and Open
 
 Interoperability is of utmost importance to ESDC and the GC.
 The key to interoperability is the use of well-established open standards and specifications.
-To ensure our digital sovereignty and guarantee a level playing-field, for all future IT developments ESDC will promote open standards and specifications that are implemented and distributed through OSS, and include this in its corporate intake, project and governance approaches.
+To ensure our digital sovereignty and guarantee a level playing field, for all future IT developments ESDC will promote open standards and specifications that are implemented and distributed through OSS, and include this in its corporate intake, project and governance approaches.
 
 The [Mandatory procedures for EA assessments](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602) include designing for cloud mobility and developing exit strategies to avoid vendor lock-in.
 It is critical for ESDC to ensure that IT Solutions remain highly flexible and adaptable to protect ESDC from the impacts of future changes while also minimizing the risks of those changes.
@@ -579,7 +579,7 @@ Between 2018 and 2019 when TBS wrote the direction and guidance for open standar
 The framework was endorsed at ESDC EARB on March 16, 2021 with one of the main recommendations to establish an OSS Program Office (or CoE) to take on the responsibility and further define the process and reporting requirements.
 No further actions have been taken since then.
 
-Some teams in IITB are working in the open (DTS, IT Strategy, ..) and some OSS are part of technical bricks or available, but it's still a minority.
+Some teams in IITB are working in the open (DTS, IT Strategy, ...) and some OSS are part of technical bricks or available, but it's still a minority.
 
 ### The right balance
 
@@ -596,8 +596,8 @@ This strategy is firmly rooted in ESDC's and the GC policy context.
 For it to succeed, a proper enabling environment is required to guide, encourage and drive change across the organization.
 
 The strategy and the action plan are inextricably linked.
-**The pivotal point is the creation of an Open First CoE that has genuine organisational support, involving all branches within ESDC.**
-The CoE will act as facilitator for all activities outlined in the strategy and the action plan.
+**The pivotal point is the creation of an Open First CoE that has genuine organizational support, involving all branches within ESDC.**
+The CoE will act as a facilitator for all activities outlined in the strategy and the action plan.
 It will assist subject-matter experts, encourage the branches within ESDC and help balance internal focus and external activities.
 
 As domain leader for IT, IITB will be responsible for setting up and running the CoE.
@@ -612,10 +612,10 @@ Based on the TODO Group (professional open source program networking group at Th
 - owning and overseeing the execution of the strategy and action plan;
 - facilitating the effective use of open standards and OSS in commercial products and services;
 - ensuring high-quality and frequent releases of code to open standards and OSS communities;
-- engaging with open communities and seeing that the organisation contributes back to other projects effectively; and
+- engaging with open communities and seeing that the organization contributes back to other projects effectively; and
 - maintaining license compliance, reviews and oversight.
 
-The following roles are recommended as a first version of the Open First CoE with 3 full time employees (FTE):
+The following roles are recommended as a first version of the Open First CoE with 3 full-time employees (FTE):
 
 1. Program Manager and Compliance Officer - manager level, empowered at an executive-level position (reports to DG) with direct oversight and hands-on management of ESDC's interests in its Open First activities. The manager is responsible for leading the way inside ESDC toward its Open First goals and vision as well as ensuring open standards and OSS compliance.
 2. Legal Advisor - acts as the operations of the CoE to ensure compliance with laws, licensing agreements, and other legal details. The legal advisor is responsible for ensuring that ESDC can consume code internally and contribute back to projects with acceptable terms specific to open standards and OSS.
@@ -627,7 +627,7 @@ The CoE will is responsible for all activities in the action plan.
 
 The best way to lead is by example.
 This strategy will produce tangible evidence of the benefits of a working culture based on open principles.
-In addition, by simplifying the rules on sharing ESDC software and contributing to OSS projects, it will prove the value of open standards and OSS to the organisation and to society.
+In addition, by simplifying the rules on sharing ESDC software and contributing to OSS projects, it will prove the value of open standards and OSS to the organization and to society.
 
 These are the main actions:
 
@@ -639,8 +639,8 @@ These are the main actions:
 | Enable and create innovation with open standards and OSS labs | Drive innovation; encourage co-creation |
 | Develop skills and recruit expertise | Contribute to staff recruitment and retention |
 | Increase outreach to open standards and OSS communities | Encourage innovation; improve services |
-| Integrate open standards and OSS in internal IT governance and processes | Increase organisational efficiency; foster innovation |
-| Ensure security of open standards and OSS used or published by ESDC | Increase value of open standards and OSS to the organisation and society |
+| Integrate open standards and OSS in internal IT governance and processes | Increase organizational efficiency; foster innovation |
+| Ensure security of open standards and OSS used or published by ESDC | Increase value of open standards and OSS to the organization and society |
 | Seek and manage funding for open standards and OSS projects based on business needs | Wide collaboration; community building |
 | Manage change planning and communications | Transformation; open organization |
 
@@ -652,10 +652,10 @@ This will help prepare us to accept contributions to our own work from outside t
 We will make sure that the OSS reused by ESDC is free from security vulnerabilities.
 Similarly, we will include in our security testing all of the code that we make available as OSS.
 The open-source working methods and tools will be available to interested colleagues and we will help them try out innovative open-source solutions.
-We can focus on recruiting staff with proven open-source expertise and strengthen ties with open-source communities, by organising joint activities and finding practical ways to help projects achieve sustainability.
+We can focus on recruiting staff with proven open-source expertise and strengthen ties with open-source communities, by organizing joint activities and finding practical ways to help projects achieve sustainability.
 
 When selecting new IT solutions, we will put more emphasis on the role of open standards and OSS.
 By balancing immediate technology needs and future flexibility, we can take account of sovereignty, openness and long-term interests.
 
 To make sure these actions are executed in an organized, coordinated and scheduled manner, the strategy establishes a small CoE.
-It will liaise between projects, teams and subject-matter experts, and encourage the organisation on its path towards an open working culture.
+It will liaise between projects, teams and subject-matter experts, and encourage the organization on its path towards an open working culture.
