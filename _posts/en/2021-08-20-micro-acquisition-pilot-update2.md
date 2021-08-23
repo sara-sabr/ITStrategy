@@ -21,7 +21,8 @@ When we didn't get a lot of followers on our [Twitter account](https://twitter.c
 2. A lot of our target audience is not on Twitter.
 
 We now have a mailing list that anyone can subscribe to.
-Through the [mailing list](https://forms-formulaires.alpha.canada.ca/id/36) (and Twitter) we will be sharing when new opportunities are posted and/or updated. We also updated the text on the opportunities page to be more clear what information is available via the Twitter account and mailing list.
+Through the [mailing list](https://forms-formulaires.alpha.canada.ca/id/36) (and Twitter) we will be sharing when new opportunities are posted and/or updated.
+We also updated the text on the opportunities page to be more clear what information is available via the Twitter account and mailing list.
 
 ## Updated evaluation question
 
