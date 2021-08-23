@@ -25,7 +25,7 @@ Through the [mailing list](https://forms-formulaires.alpha.canada.ca/id/36) (and
 
 ## Updated evaluation question
 
-Our first opportunity was for a less well known language (Powershell).
+Our first opportunity was for a less well-known language (Powershell).
 We realized from the applications we received that there were people who likely could do the work but the phrasing of our evaluation criteria prevented us from giving them a pass because they didn't have experience specifically in Powershell.
 Where possible, future opportunities will see the evaluation criteria change from:
 > Please provide a short written statement demonstrating how you have the required skills in x
