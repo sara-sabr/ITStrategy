@@ -17,8 +17,8 @@ In preparation for the next opportunity we have made a few changes based on what
 
 When we didn't get a lot of followers on our [Twitter account](https://twitter.com/microbuysgc), we did some testing and realized 2 things:
 
-1. It wasn't clear what information would be found by following the Twitter account and
-2. A lot of our target audience is not on Twitter
+1. It wasn't clear what information would be found by following the Twitter account; and
+2. A lot of our target audience is not on Twitter.
 
 We now have a mailing list that anyone can subscribe to.
 Through the [mailing list](https://forms-formulaires.alpha.canada.ca/id/36) (and Twitter) we will be sharing when new opportunities are posted and/or updated. We also updated the text on the opportunities page to be more clear what information is available via the Twitter account and mailing list.
@@ -40,7 +40,7 @@ We've also added [example answers which would get a passing mark](https://micro-
 
 We are replacing our pdf application form with a form on [GC Forms](https://forms-formulaires.alpha.canada.ca/en/welcome-bienvenue).
 GC Forms is a CDS product and it is accessible, secure and has full authority to operate.
-GC Forms is a service - you tell CDS your need, they build your form, test it and then send you the link.
+GC Forms is a service – you tell CDS your need, they build your form, test it and then send you the link.
 
 IT IS GREAT.
 
