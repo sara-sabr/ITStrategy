@@ -133,7 +133,7 @@ The [Minister of Employment, Workforce Development and Disability Inclusion](htt
 ### Digital Standards
 
 The [GC's Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html) form the foundation of the government's shift to becoming more agile, open, and user-focused.
-In order to design digital services to better serve Canadians, the Standards leads teams to:
+In order to design digital services to better serve Canadians, the Standards lead teams to:
 
 > - Work in the open by default
 > - Use open standards and solutions
@@ -141,7 +141,7 @@ In order to design digital services to better serve Canadians, the Standards lea
 
 ### Mandatory procedures for EA assessment
 
-The [Mandatory Procedures for Enterprise Architecture Assessment](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602) (Appendix A of the [Directive on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601)) are used by departmental architecture review boards and the GC enterprise architecture review board (EARB) as an assessment framework to review digital initiatives, in order to ensure the GC acts as a single enterprise and is well-aligned to its digital direction.
+The [Mandatory Procedures for Enterprise Architecture Assessment](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602) (Appendix A of the [Directive on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601)) are used by departmental architecture review boards and the GC enterprise architecture review board (EARB) as an assessment framework to review digital initiatives, in order to ensure the GC acts as a single enterprise and is well aligned to its digital direction.
 The procedures stipulate the following:
 
 > - Data should only be purchased once and should align with international standards
@@ -166,7 +166,7 @@ Some short-term recommendations are:
 
 The [Digital Nations](https://www.canada.ca/en/government/system/digital-government/digital-nations.html) is a collaborative forum of the world's leading digital governments that uses technology to improve citizens’ services in Canada and globally.
 At the 2019 Digital Nations Ministerial Summit, the [Digital Nations Charter](https://www.canada.ca/en/government/system/digital-government/improving-digital-services/digital9charter.html) was endorsed as a mutual commitment to digital government service development and leadership.
-Some of the principles that the Participants have committed to working towards fulfilling:
+Some of the principles that the participants have committed to working towards fulfilling:
 
 > - Promote interoperability of digital technologies, including by adopting a credible royalty free open standards policy;
 > - Strive to create future government systems, tradecraft, manuals and standards as open source and shareable between Participants;
@@ -188,8 +188,7 @@ and around the worlds' leading nations (e.g.
 [UK](https://www.gov.uk/government/publications/open-standards-principles/open-standards-principles),
 [France](https://sill.etalab.gouv.fr/fr/software) (in French only),
 [Italy](https://docs.italia.it/italia/developers-italia/gl-acquisition-and-reuse-software-for-pa-docs/en/stabile/index.html),
-[USA](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2016/m_16_21.pdf), etc.)
-have adopted policies, directives or guidance on open standards and OSS.
+[USA](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2016/m_16_21.pdf), etc.) have adopted policies, directives or guidance on open standards and OSS.
 
 This strategy, its governing principles and its Action Plan will help build and deliver IT solutions and services, that leverage the innovative and collaborative power of open standards, OSS and working in the open.
 It will make ESDC and the GC part of the OSS community, an agile contributor and active participant by co-developing with other Canadian public administrations and encouraging the sharing and reuse of our solutions, knowledge and expertise.
@@ -312,7 +311,7 @@ They give our developers the flexibility to gain expertise on the diversity of o
 
 The principles are consistent with "state of the art" GC policies (see [Build a world class public service](#build-a-world-class-public-service).
 They are aligned with the [Mandatory Procedures for EA Assessment](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602) and the [Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html), in particular "Maximize reuse", "Work in the open by default" and "Use open standards and solutions".
-They also uphold the principles of the [ESDC OSS Framework](https://dialogue/grp/CO7397744/MasterLib/ESDC%20Open%20Source%20Management%20Framework%20v%201.2.docx), focussing on making them actionable.
+They also uphold the principles of the [ESDC OSS Framework](https://dialogue/grp/CO7397744/MasterLib/ESDC%20Open%20Source%20Management%20Framework%20v%201.2.docx), focusing on making them actionable.
 
 The following six principles govern this strategy:
 
@@ -468,7 +467,7 @@ He leads the way towards the Open First goals and vision, which include ensuring
 - **Change Agent & Developer Relations** (CS-02) – He spurs interest and enthusiasm within ESDC's developer community for open-oriented projects.
 He's also responsible for coordinating communications, growing open standards and OSS efforts while increasing teamwork among engineers.
 
-Moreover, ad-hoc legal services will be needed, to ensure compliance with laws, licensing agreements, and other legal details.
+Moreover, ad hoc legal services will be needed, to ensure compliance with laws, licensing agreements, and other legal details.
 
 The CoE will be responsible for all activities in the Action Plan.
 
@@ -499,7 +498,7 @@ Contributions to the tools that are core to our business will be much more easie
 This will help get the organization accustomed to accept external contributions.
 
 OSS components reused by ESDC will be properly maintained and made as secure as possible.
-Security testing will of course cover all of the code that we make available as OSS.
+Security testing will, of course, cover all of the code that we make available as OSS.
 Open working methods and tools will be actively promoted to employees and supported, including experimentation of innovative open source solutions.
 
 Organizing joint activities and finding practical ways for projects to achieve sustainability will facilitate recruitment of staff with open source expertise and strengthen ties with open source communities.
