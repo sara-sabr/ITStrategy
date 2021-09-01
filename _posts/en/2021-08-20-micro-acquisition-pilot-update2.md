@@ -36,9 +36,15 @@ to
 
 We've also added [example answers which would get a passing mark](https://micro-acquisition.alpha.canada.ca/en/user-guide.html#example-answers-that-would-get-a-passing-mark) to the User Guide.
 
+## Looking for the right opportunity for opportunity #2
+
+The first micro-acquisition opportunity required skills in Powershell. Powershell is somewhat of a niche language and limited the number of applications we received. When talking to supplier stakeholders like education and retraining organizations we heard that while they'd like to promote Micro-acquisition opportunities to their students, Powershell is not something that their students are learning.
+
+So we are being careful in choosing opportunity #2 to ensure that the skills required are those that are more commonly taught and known in the developer community. This is not to say we won't be doing any opportunities in niche languages in the future. Just that we will be making sure that we have a good mix of opportunities.
+
 ## Using GC Forms for the application form
 
-We are replacing our pdf application form with a form on [GC Forms](https://forms-formulaires.alpha.canada.ca/en/welcome-bienvenue).
+While we didn't have evidence of anyone having problems using the pdf application form, we have chosen to replace it with a form on [GC Forms](https://forms-formulaires.alpha.canada.ca/en/welcome-bienvenue).
 GC Forms is a new CDS product with a goal to "Help government-users quickly and easily publish simple, accessible, online forms that the public can use to apply for or access the services or benefits they need."
 GC Forms is a service – you tell CDS your need, they build your form, test it and then send you the link.
 GC Forms is accessible, secure and has full authority to operate.
