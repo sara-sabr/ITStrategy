@@ -25,10 +25,8 @@ th {
 img + em { display: inline-block; }
 </style>
 
- 
 Why do we create services?
 There are many answers to this question, but the one I like is: to offer customers a solution that costs them less than the cost of the problem.
-
 
 Services work  when people use them, and  if services work  well, more people use them.
 Users don’t generally realize how service delivery is changed in such a short amount of time because they have grown up with the improvements being put in place,  and have  adjusted to the new norm almost immediately.
@@ -67,8 +65,7 @@ According to the [Accessible Canada Act](https://www.canada.ca/en/employment-soc
 Another important area to consider in government is citizens must be served in the official language of their choice.
 By respecting the official language preferences of the Canadian public we must design services to be bilingual (see [Official languages in communications and services to the public](https://www.canada.ca/en/treasury-board-secretariat/services/values-ethics/official-languages/public-services.html)).
 To produce better quality results, the user interface design of our services must follow the front-end framework, [Web Experience Toolkit](https://wet-boew.github.io/wet-boew/index-en.html) led by the Government of Canada.
-It is a collaborative open-source framework that covers the accessibility, usability, and multilingual aspects  by  providing reusable templates that help us to create an early model/ sample prototype to test hypothesis. 
-
+It is a collaborative open-source framework that covers the accessibility, usability, and multilingual aspects  by  providing reusable templates that help us to create an early model/ sample prototype to test hypothesis.
 
 ### **Usability test**
 
@@ -77,14 +74,14 @@ The usability test plan is like a blueprint that contains information such as th
 
 To determine how well our design/product works, we performed usability testing with several users.
 This is a journey where results are not known in advance and can require time and dealing with ambiguity.
-But this journey is FUN! 
+But this journey is FUN!
 The main purpose of this process is to evaluate the ideas and solutions we came up with, and identify what is working and what is not.
 We tested our application and listened to our users to understand them.
 **Listening to users is a tricky thing.
 Users often don’t know what they want, and even if they do, the communication is likely to get misinterpreted somewhere between the user and the moderator.**
 To receive useful user feedback and correct information in the first place we had to make sure that while preparing the moderator script we considered what exactly we want to test and then did it accordingly.
 In this case, there is a big risk that the script will pre-program the user to give specific feedback that will not be objective.
-So, to design the best user experience, we mostly paid attention to what users do, not what they say, to avoid self-reported claims that are unreliable. 
+So, to design the best user experience, we mostly paid attention to what users do, not what they say, to avoid self-reported claims that are unreliable.
 
 In the case of [DevOps Self-Assessment tool](https://sara-sabr.github.io/auto-evaluation-devops-self-assessment/#/) we were testing usability issues of the website: layout issues, lack of feedback, confusing terminology, missing functionality (if the user can't perform a specific task due to a missing interface), missing navigation (if the user gets stuck on a screen during the test), and the content on specific screens.
 During the usability testing not only the functionality and the content of the tool but we were also asking users for general feedback on how useful they find the application, and how it can be improved.
@@ -92,14 +89,13 @@ We made sure the users know what the prototype and test are about; however, we d
 We let the user's experience in using the prototype speak for itself and observed their reactions.
 We reassured participants that during the session we are testing the prototype, not the user; we explained that there are no right or wrong answers to the questions asked, and any action made by them will help us to fill up the gaps that we missed during designing the application.
 We introduced the tasks, one at a time, and invited participants to "think out loud," including their concerns, opinions, and comments.
-We asked users to talk through their experiences, which was very important to consider while designing our product. 
+We asked users to talk through their experiences, which was very important to consider while designing our product.
 
 DevOps Self-Assessment usability testing during the COVID-19 pandemic was conducted remotely.
 Although the benefit of face-to-face contact was lost, we personally found it just as effective as traditional testing.
 Remote online testing provides access to a larger pool of potential testers, cuts out travel time, and makes participants more flexible.
 And most importantly, people complete tasks sitting in their home, (i.e., a natural environment), where they will be using our products.
-Thus, the usability insights we gained from the test are closer to the real world.  
-
+Thus, the usability insights we gained from the test are closer to the real world.
 
 ### **Collecting feedback and implementing**
 
@@ -115,14 +111,13 @@ Every user was different and was able to provide different types of valuable inf
 The main trick was to make a distinction between user preference/ desire and user needs.
 Implementing more of the user’s desire can complicate and increase the weight of the product so much that even users, who were prompted to use features, would not use the final product.
 It is very important to differentiate between them and not jump on each point of feedback.
-Some suggestions may not be beneficial to the product, and as a result, we needed to be strategic about what feedback to take action on.   
+Some suggestions may not be beneficial to the product, and as a result, we needed to be strategic about what feedback to take action on.
 
 To use the results, it was important to not exaggerate or add to what was seen or heard.
 To capture the results accurately, we mapped specific feedback to our research questions, identified which questions were answered and which questions were not answered, and what new questions may have come up.
-To do this, we prioritized the user feedback and comments received in a backlog before each iteration planning meeting to ensure that the prioritization is correct.  
+To do this, we prioritized the user feedback and comments received in a backlog before each iteration planning meeting to ensure that the prioritization is correct.
 
-
-### **User experience never ends** 
+### **User experience never ends**
 
 User experience does not stop here.
 All the effort spent planning, researching, and creating the product got us to the launch phase.
@@ -130,18 +125,6 @@ We need to invest time in post-launch production to ensure we created product us
 After the launch, the optimization phase begins.
 Once users get their hands on the product through data and user behavior, we might see that a lot of our initial assumptions are false or that the users use our product in  different ways.
 We are still monitoring user experience on  each of our products by asking users to share their feedback.
-And this is where another whole phase of user experience starts. 
+And this is where another whole phase of user experience starts.
 
 *Did I mention user experience is never-ending process?*
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
