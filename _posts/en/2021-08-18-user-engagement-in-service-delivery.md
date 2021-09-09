@@ -33,7 +33,7 @@ Users don’t generally realize how service delivery is changed in such a short 
 What has *not* changed is that when they *do* interact with service delivery, they want a great user experience.
 
 [Canada Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html) applies the mindset of providing public services to Canadians that are "simple to use".
-To design "user-focused" products, the user should be involved in every aspect of the research to optimize the time and effort put in to understand their needs and problems.
+To design "user-focused" products, the user should be involved in every aspect of the research to optimize the time and effort put into understanding their needs and problems.
 
 We  must design better products for citizens and public servant colleagues.
 *Why?* Because "we" demand it.
@@ -43,11 +43,11 @@ Because "we" want  a long-lasting,  well-structured relationships to make  users
 
 On the IT Strategy team, we designed and implemented several  products and luckily, we had a chance to involve users throughout the design process as well as test our prototypes before launching.
 Our first step was learning about users, their context, their objectives, and obstacles to inform our general direction.
-We created personas to help us get to know our customers, their behavior, goals, frustrations, to understand who we are designing for, and if it meets the needs of our target audience.  
+We created personas to help us get to know our customers, their behaviour, goals, frustrations, to understand who we are designing for, and if it meets the needs of our target audience.  
 
 This is what happened during the [DevOps Self-Assessment tool](https://sara-sabr.github.io/ITStrategy/devops-self-assessment.html) design sprint.
 Based on research we created fictional characters to help us to understand the user we are designing for.
-We discovered different types of users with their behavior patterns, goals, skills, attitudes, and background information, as well as the environment in which they operate to see where we can focus and improve while designing our application.
+We discovered different types of users with their behaviour patterns, goals, skills, attitudes, and background information, as well as the environment in which they operate to see where we can focus and improve while designing our application.
 The main user of the tool is a public servant in IITB looking to continuously improve and support the efforts of their peers.
 By understanding the expectations, concerns, and motivations of our target users, we came up with a design-focused solution.
 To design for a public servant while being public servants ourselves, it is so easy to create a self-referential product as if we are making the product only for us, when in fact the target audience may be quite unlike us.
@@ -63,14 +63,14 @@ With the feedback we received, we tried to iterate the overall experience for th
 In government, accessibility is an important part of the service design and should be considered throughout the whole process.
 According to the [Accessible Canada Act](https://www.canada.ca/en/employment-social-development/programs/accessible-canada.html), programs and service delivery is one of the key areas where the Government of Canada should focus its efforts.
 Another important area to consider in government is citizens must be served in the official language of their choice.
-By respecting the official language preferences of the Canadian public we must design services to be bilingual (see [Official languages in communications and services to the public](https://www.canada.ca/en/treasury-board-secretariat/services/values-ethics/official-languages/public-services.html)).
+By respecting the official language preferences of the Canadian public, we must design services to be bilingual (see [Official languages in communications and services to the public](https://www.canada.ca/en/treasury-board-secretariat/services/values-ethics/official-languages/public-services.html)).
 To produce better quality results, the user interface design of our services must follow the front-end framework, [Web Experience Toolkit](https://wet-boew.github.io/wet-boew/index-en.html) led by the Government of Canada.
-It is a collaborative open-source framework that covers the accessibility, usability, and multilingual aspects  by  providing reusable templates that help us to create an early model/ sample prototype to test hypothesis.
+It is a collaborative open-source framework that covers the accessibility, usability, and multilingual aspects  by  providing reusable templates that help us to create an early model/ sample prototype to test hypotheses.
 
 ### **Usability test**
 
 To understand how real users interact with our application(s), we focused on creating a usability test plan.
-The usability test plan is like a blueprint that contains information such as the methodology ( a brief introduction on how the test will be conducted), moderator script, (a script that a moderator follows, which consists of instructions, topics, and questions that will be used for all test sessions, to ensure consistency), task cases (a summary of what typical users might go through while using the product), and the schedule of the participants.  
+The usability test plan is like a blueprint that contains information such as the methodology ( a brief introduction on how the test will be conducted), moderator script (a script that a moderator follows, which consists of instructions, topics, and questions that will be used for all test sessions, to ensure consistency), task cases (a summary of what typical users might go through while using the product), and the schedule of the participants.  
 
 To determine how well our design/product works, we performed usability testing with several users.
 This is a journey where results are not known in advance and can require time and dealing with ambiguity.
@@ -94,7 +94,7 @@ We asked users to talk through their experiences, which was very important to co
 DevOps Self-Assessment usability testing during the COVID-19 pandemic was conducted remotely.
 Although the benefit of face-to-face contact was lost, we personally found it just as effective as traditional testing.
 Remote online testing provides access to a larger pool of potential testers, cuts out travel time, and makes participants more flexible.
-And most importantly, people complete tasks sitting in their home, (i.e., a natural environment), where they will be using our products.
+And most importantly, people complete tasks sitting in their home (i.e., a natural environment), where they will be using our products.
 Thus, the usability insights we gained from the test are closer to the real world.
 
 ### **Collecting feedback and implementing**
@@ -123,7 +123,7 @@ User experience does not stop here.
 All the effort spent planning, researching, and creating the product got us to the launch phase.
 We need to invest time in post-launch production to ensure we created product users benefit from.
 After the launch, the optimization phase begins.
-Once users get their hands on the product through data and user behavior, we might see that a lot of our initial assumptions are false or that the users use our product in  different ways.
+Once users get their hands on the product through data and user behaviour, we might see that a lot of our initial assumptions are false or that the users use our product in  different ways.
 We are still monitoring user experience on  each of our products by asking users to share their feedback.
 And this is where another whole phase of user experience starts.
 
