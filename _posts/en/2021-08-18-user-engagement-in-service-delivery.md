@@ -28,22 +28,22 @@ img + em { display: inline-block; }
 Why do we create services?
 There are many answers to this question, but the one I like is: to offer customers a solution that costs them less than the cost of the problem.
 
-Services work  when people use them, and  if services work  well, more people use them.
-Users don’t generally realize how service delivery is changed in such a short amount of time because they have grown up with the improvements being put in place,  and have  adjusted to the new norm almost immediately.
+Services work when people use them, and if services work well, more people use them.
+Users don’t generally realize how service delivery is changed in such a short amount of time because they have grown up with the improvements being put in place, and have adjusted to the new norm almost immediately.
 What has *not* changed is that when they *do* interact with service delivery, they want a great user experience.
 
 [Canada Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html) applies the mindset of providing public services to Canadians that are "simple to use".
 To design "user-focused" products, the user should be involved in every aspect of the research to optimize the time and effort put into understanding their needs and problems.
 
-We  must design better products for citizens and public servant colleagues.
+We must design better products for citizens and public servant colleagues.
 *Why?* Because "we" demand it.
-Because "we" want  a long-lasting,  well-structured relationships to make  users happy.
+Because "we" want a long-lasting, well-structured relationships to make users happy.
 
 ### **Creating personas**
 
-On the IT Strategy team, we designed and implemented several  products and luckily, we had a chance to involve users throughout the design process as well as test our prototypes before launching.
+On the IT Strategy team, we designed and implemented several products and luckily, we had a chance to involve users throughout the design process as well as test our prototypes before launching.
 Our first step was learning about users, their context, their objectives, and obstacles to inform our general direction.
-We created personas to help us get to know our customers, their behaviour, goals, frustrations, to understand who we are designing for, and if it meets the needs of our target audience.  
+We created personas to help us get to know our customers, their behaviour, goals, frustrations, to understand who we are designing for, and if it meets the needs of our target audience.
 
 This is what happened during the [DevOps Self-Assessment tool](https://sara-sabr.github.io/ITStrategy/devops-self-assessment.html) design sprint.
 Based on research we created fictional characters to help us to understand the user we are designing for.
@@ -51,11 +51,11 @@ We discovered different types of users with their behaviour patterns, goals, ski
 The main user of the tool is a public servant in IITB looking to continuously improve and support the efforts of their peers.
 By understanding the expectations, concerns, and motivations of our target users, we came up with a design-focused solution.
 To design for a public servant while being public servants ourselves, it is so easy to create a self-referential product as if we are making the product only for us, when in fact the target audience may be quite unlike us.
-We also created a mock-up which  was recently presented to a real  team of users in order to collect feedback for further improvement.  
+We also created a mock-up which was recently presented to a real team of users in order to collect feedback for further improvement.
 
 Thinking about the needs of our fictional - end user persona, we tried to shape the product strategy and create the best mock-up for *them*.
 It is worth mentioning that although user personas helped us to prioritize the features, it was not the only tool used for prioritization.
-We were constantly collecting feedback from  stakeholders to keep a proper balance between the needs of the business and the needs of the users in order to create a solution that would satisfy the two.
+We were constantly collecting feedback from stakeholders to keep a proper balance between the needs of the business and the needs of the users in order to create a solution that would satisfy the two.
 With the feedback we received, we tried to iterate the overall experience for the user.
 
 ### **Accessibility and multilingualism**
@@ -65,12 +65,12 @@ According to the [Accessible Canada Act](https://www.canada.ca/en/employment-soc
 Another important area to consider in government is citizens must be served in the official language of their choice.
 By respecting the official language preferences of the Canadian public, we must design services to be bilingual (see [Official languages in communications and services to the public](https://www.canada.ca/en/treasury-board-secretariat/services/values-ethics/official-languages/public-services.html)).
 To produce better quality results, the user interface design of our services must follow the front-end framework, [Web Experience Toolkit](https://wet-boew.github.io/wet-boew/index-en.html) led by the Government of Canada.
-It is a collaborative open-source framework that covers the accessibility, usability, and multilingual aspects  by  providing reusable templates that help us to create an early model/ sample prototype to test hypotheses.
+It is a collaborative open-source framework that covers the accessibility, usability, and multilingual aspects by providing reusable templates that help us to create an early model/ sample prototype to test hypotheses.
 
 ### **Usability test**
 
 To understand how real users interact with our application(s), we focused on creating a usability test plan.
-The usability test plan is like a blueprint that contains information such as the methodology ( a brief introduction on how the test will be conducted), moderator script (a script that a moderator follows, which consists of instructions, topics, and questions that will be used for all test sessions, to ensure consistency), task cases (a summary of what typical users might go through while using the product), and the schedule of the participants.  
+The usability test plan is like a blueprint that contains information such as the methodology ( a brief introduction on how the test will be conducted), moderator script (a script that a moderator follows, which consists of instructions, topics, and questions that will be used for all test sessions, to ensure consistency), task cases (a summary of what typical users might go through while using the product), and the schedule of the participants.
 
 To determine how well our design/product works, we performed usability testing with several users.
 This is a journey where results are not known in advance and can require time and dealing with ambiguity.
@@ -100,11 +100,11 @@ Thus, the usability insights we gained from the test are closer to the real worl
 ### **Collecting feedback and implementing**
 
 While collecting feedback, it is very important to not disrupt the user’s interaction with the prototype.
-We had to find a way to collect feedback in a way that  allowed us to freely observe what was happening.
+We had to find a way to collect feedback in a way that allowed us to freely observe what was happening.
 In this case, with the user's permission, we chose to use the screen recording feature in MS Teams and recorded each session.
 It was the easiest way to capture the user's thoughts and motions during the session.
 Digital video is an important outcome of usability testing sessions that clearly shows user interaction with elements on the screen.
-We have talked and tested our product with approximately 6-7 users, which was enough to understand what needs to be improved and considered before making changes to the product.  
+We have talked and tested our product with approximately 6-7 users, which was enough to understand what needs to be improved and considered before making changes to the product.
 
 During the usability testing, we received an overwhelming amount of user feedback.
 Every user was different and was able to provide different types of valuable information.
@@ -123,8 +123,8 @@ User experience does not stop here.
 All the effort spent planning, researching, and creating the product got us to the launch phase.
 We need to invest time in post-launch production to ensure we created product users benefit from.
 After the launch, the optimization phase begins.
-Once users get their hands on the product through data and user behaviour, we might see that a lot of our initial assumptions are false or that the users use our product in  different ways.
-We are still monitoring user experience on  each of our products by asking users to share their feedback.
+Once users get their hands on the product through data and user behaviour, we might see that a lot of our initial assumptions are false or that the users use our product in different ways.
+We are still monitoring user experience on each of our products by asking users to share their feedback.
 And this is where another whole phase of user experience starts.
 
 *Did I mention user experience is never-ending process?*
