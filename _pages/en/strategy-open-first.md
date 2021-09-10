@@ -659,7 +659,6 @@ For more information, review the [Commitments](#3-commitments) section of this s
 [^1]: Free Software is defined by four essential freedoms: to run the program, study how it works, modify it and redistribute it.
 Access to the source code is a precondition for these freedoms and not the end goal itself.
 
-
 ## Appendix E - ESDC Current State
 
 Since 2012, ESDC has been responsible for the largest collaborative OSS project led by the GC.
@@ -671,7 +670,8 @@ The framework was endorsed at ESDC EARB on March 16, 2021 with one of the main r
 No further actions have been taken since then.
 
 Some teams in IITB are working in the open (DTS, IT Strategy, ...) and some OSS solutions are part of technical bricks or directly available to end users, but it's still a minority.
-# Appendix E – Definition of open standards and open source software
+
+## Appendix E – Definition of open standards and open source software
 
 Open standards are a set of rules designed to do a specific job in technology, developed in a fully open manner.
 They refer to file formats, protocols and application interfaces that can be implemented by everyone (in open source and proprietary software alike).
@@ -711,4 +711,3 @@ Their inherent flexibility brings many benefits, for example:
 - Economic growth in Canada (and abroad)
 
 ## Appendix ? Resources
-
