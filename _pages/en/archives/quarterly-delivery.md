@@ -27,7 +27,7 @@ All new projects must deliver a functional product at the end of each quarter, a
 In modern IT literature organizations should be aiming to deliver software into production within minutes. In [*War And Peace And IT*](https://itrevolution.com/book/war-and-peace-and-it/) by [Mark Schwartz](https://itrevolution.com/faculty/mark-schwartz/), ex-CIO of US Citizenship and Immigration Services and currently a Strategist for Amazon Web Services, he writes that business or mission needs should be met in hours or days.
 It is in this spirit that IITB make it a top priority to deploy solutions to production quarterly, at the very least, as soon as possible, permitting us to achieve the long term aims.
 
-In the [DORA State of DevOps](http://cloudplatformonline.com/rs/248-TPC-286/images/DORA-State%20of%20DevOps.pdf) report on page 14 they define categories of performance as follows:
+In the [DORA State of DevOps 2018](https://services.google.com/fh/files/misc/state-of-devops-2018.pdf) report on page 14 they define categories of performance as follows:
 
 <table>
   <tr>
