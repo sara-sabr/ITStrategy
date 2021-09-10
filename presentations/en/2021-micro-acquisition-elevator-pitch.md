@@ -1,4 +1,4 @@
-<!--markdownlint-disable MD003 MD033 MD041 -->
+<!--markdownlint-disable MD003 MD033 MD041 MD036 -->
 
 <style>
 .reveal section img { background:none; border:none; box-shadow:none; }
