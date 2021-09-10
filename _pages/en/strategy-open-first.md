@@ -5,7 +5,7 @@ ref: open-first-strategy
 lang: en
 status: In Progress;primary
 sections: Strategies
-version: 0.01
+version: 0.02
 permalink: /open-first-strategy.html
 ---
 <!-- markdownlint-disable MD033 -->
@@ -16,16 +16,27 @@ permalink: /open-first-strategy.html
   This strategy was influenced by the <a class="alert-link" href="https://ec.europa.eu/info/departments/informatics/open-source-software-strategy_en">European Commission Open source software strategy 2020-2023</a>.
 </div>
 
-1. [Introduction](#1-introduction)
-2. [Vision](#2-vision)
-3. [Commitments](#3-commitments)
-4. [Goals and outcomes](#4-goals-and-outcomes)
-5. [Governing principles](#5-governing-principles)
-6. [Implementing the strategy](#6-implementing-the-strategy)
+- [Executive Summary](#executive-summary)
+- [1. Introduction](#1-introduction)
+- [2. Vision](#2-vision)
+- [3 Goals and Outcomes](#3-goals-and-outcomes)
+- [4. Governing Principles](#4-governing-principles)
+- [6. Implementing the Strategy](#6-implementing-the-strategy)
+- [Appendix A – Rationale](#appendix-a--rationale)
+- [Appendix B – Goals and Outcomes extended](#appendix-b--goals-and-outcomes-extended)
+- [Appendix C – Commitments](#appendix-c--commitments)
+- [Appendix D – GC Current State](#appendix-d--gc-current-state)
+- [Appendix E - ESDC Current State](#appendix-e---esdc-current-state)
+- [Appendix E – Definition of open standards and open source software](#appendix-e--definition-of-open-standards-and-open-source-software)
+- [Appendix ? Resources](#appendix--resources)
 
 ## Executive Summary
 
-TODO
+ESDC has a unique opportunity to take a leadership position in the GC to enact the Open First principles that can be found in the GC Digital Standards, the Policy on Service and Digital, as well as throughout its various commitments.
+
+To do so, working in the open, leveraging open standards and open source software must become a normalized and well understood practice throughout the organization.
+
+To meet these objectives, the IT Strategy team proposes the creation of a team of experts to help the organization transition towards a modern and open organization.
 
 ## 1. Introduction
 
@@ -65,7 +76,7 @@ Open standards and OSS can give ESDC and the GC a chance to create and maintain 
 
 ### Implementing the Policy on Service and Digital
 
-The Policy on Service and Digital makes it clear that working in the open and collaborative working methods will be the norm within the GC's IT community to foster the sharing of code, data and solutions.
+The Policy on Service and Digital makes it clear that working in the open and collaborative working methods will be the norm within the GC to foster the sharing of solutions, code, and data.
 The principal working methods encouraged by this strategy are open, inclusive and co-creative.
 
 With this strategy, ESDC is taking another step in realizing the vision outlined for the GC.
@@ -73,12 +84,6 @@ With this strategy, ESDC is taking another step in realizing the vision outlined
 ### Sharing and reuse benefits all
 
 Open standards and OSS make it easy to share and reuse solutions, as well as data, information and knowledge.
-This also aligns with the Policy on Service and Digital and the [Mandatory procedures for EA assessments](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602):
-
-- data and information are open by default as per the Directive on Open Government;
-- source code is released under an appropriate OSS licence;
-- existing solutions, components, and processes are leveraged and reused; and
-- code is shared publicly when appropriate, and when not, shared within the GC.
 
 Moreover, leveraging open standards and OSS enables ESDC to work in the open by default, including in software development and service design, creating opportunities for cross-jurisdictional cooperation for the improvement of services to Canadians.
 
@@ -94,12 +99,12 @@ Working in the open and sharing the GC's source code as information that others 
 It lowers costs for society and increases knowledge.
 
 The Directive on Open Government demonstrates the value of documents created by public organizations and encourage their reuse.
-Similarly, to data and information, source code constitutes a vast, diverse and valuable pool of resources that can benefit the knowledge society.
+Similarly to data and information, source code constitutes a vast, diverse and valuable pool of resources that can benefit the knowledge society.
 Sharing will help maximize the growth potential of the digital economy, as communicated in the Digital Standards Guidance for "Work in the open by default".
 
 > Working in the open has many benefits, such as: increasing the transparency of services, increasing trust in government, creating an ecosystem that promotes innovation, increasing collaboration within and external to government...
 
-The goal of this strategy is to enable ESDC to share open source code using a process comparable to the one for its open data and information.
+The goal of this strategy is to enable ESDC to work in the open as well as share open source code using a process comparable to the one for its open data and information.
 
 ### Build a world class public service
 
@@ -133,12 +138,8 @@ This strategy supports the GC's transformation by simplifying and streamlining p
 It will help to make collaborative working methods the default for ESDC's work internally and with others.
 
 It is important to stress that the principles and the Action Plan relate to existing work processes.
-Open standards and OSS are already being used across the GC and in some parts of ESDC there is an established OSS-like culture.
+Open standards and OSS are already being used across the GC and in some parts of ESDC there is an established working in the open culture.
 We simply need to do more and continuously improve.
-
-The principles of this strategy will help choose strategically between closely competing software solutions.
-They will allow ESDC to choose non-open technologies where required, while planning for future open standards and OSS alternatives.
-They give our developers the flexibility to gain expertise on the diversity of open standards and OSS platforms, and in return, empower ESDC to learn about innovative new solutions.
 
 The principles are consistent with "state of the art" GC policies (see [Build a world class public service](#build-a-world-class-public-service).
 They are aligned with the [Mandatory Procedures for EA Assessment](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602) and the [Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html), in particular "Maximize reuse", "Work in the open by default" and "Use open standards and solutions".
@@ -156,8 +157,8 @@ This is reflected in its Digital Standards and Policy on Service and Digital, wh
 
 ### Transform
 
-> Harness the working principles of open standards and OSS.
 > Innovate and co-create, share and reuse, and together build user-centric, data-driven public services.
+> Harness the working principles of open standards and OSS.
 
 We adopt a working culture based on the open principles of working in the open as well as sharing and reusing open standards and OSS.
 We nudge ESDC and its working methods forward by highlighting the crucial role of open standards and OSS and related best practices for co-creation and collaboration.
@@ -177,6 +178,7 @@ In addition, our developers will be encouraged to make contributions to relevant
 ### Contribute
 
 > Strive to be an active member of the diverse open standards and OSS ecosystem.
+> Work in the open and collaborate with peers.
 
 To be an active member of the diverse open standards and OSS ecosystem, we will continue to gain expertise to address product management and governance.
 ESDC will seek to become an active contributing member of key communities where it can add value, while balancing costs.
@@ -185,6 +187,8 @@ This will contribute to the viability of the ecosystem and facilitate product ma
 In addition to sharing source code, ESDC should consider joining open standards and OSS boards and committees to devise systematic methods for targeted funding work to improve security and find ways to help critical open standards and OSS projects become self-sustainable.
 This could enable ESDC to influence the direction of work, which could also be leveraged by other public administrations.
 It could also provide opportunities to recruit talent.
+
+To continuously improve its services to the Canadian public, ESDC should continue its efforts in cross-jurisdiction working groups, partnerships and domain specific collaboration.
 
 ### Secure
 
@@ -263,13 +267,13 @@ The proposed structure as a first version of the Open First CoE includes 4 resou
 In collaboration with the ESDC classification team, this proposal highlights a structure that will focus on Client Relations Management, Policy Analysis, Procurement and Software Legal Compliance, IT Security, Solution Development, Community Management, and Collaboration skills:
 
 - **Program Manager and Compliance Officer** (CS-04) – He is empowered at an executive-level position (reports to DG), with direct oversight and hands-on management of ESDC's Open First activities.
-He leads the way towards the Open First goals and vision, which include ensuring open standards and OSS compliance, and establishing partnerships with other groups within and outside IITB and ESDC.
+He leads the way towards the Open First goals and vision, which include ensuring open standards and OSS compliance, and establishing partnerships with other groups within and outside IITB and ESDC to support working in the open for everyone in the organization.
 - **Coordinator (Software Development)** (CS-03) – He is responsible for ensuring that ESDC can consume code internally and contribute back to projects with acceptable terms specific to open standards and OSS.
 - **Coordinator (Operations)** (CS-03) – His focus is on facilitating the integration of open source in the IT environment and enabling all ESDC employees and teams transitioning to working in the open by default.
 - **Change Agent & Developer Relations** (CS-02) – He spurs interest and enthusiasm within ESDC's developer community for open-oriented projects.
-He's also responsible for coordinating communications, growing open standards and OSS efforts while increasing teamwork among engineers.
+He's also responsible for coordinating communications, growing open standards and OSS efforts while increasing teamwork among engineers and other IT professionals.
 
-Moreover, ad hoc legal services will be needed, to ensure compliance with laws, licensing agreements, and other legal details.
+Moreover, ad hoc legal services will be needed, to ensure compliance with laws, licensing agreements, and other legal details, which will require the Open First CoE to continue and strengthen IITB's existing partnership with the Intellectual Property Center of Excellence (IP CoE).
 
 The CoE will be responsible for all activities in the Action Plan.
 
