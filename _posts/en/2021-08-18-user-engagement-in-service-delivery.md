@@ -4,8 +4,8 @@ title: "User Engagement in Service Delivery"
 ref: user-engagement-in-service-delivery
 lang: en
 author: "Elmina Iusifova, in collaboration with the IT Strategy team"
-date: "2021-09-01"
-last_modified: "2021-09-01"
+date: "2021-09-10"
+last_modified: "2021-09-10"
 excerpt_separator: <!--more-->
 ---
 <!-- markdownlint-disable MD033 -->
@@ -29,6 +29,7 @@ Why do we create services?
 There are many answers to this question, but the one I like is:
 
 > To offer customers a solution that costs them less than the cost of the problem.
+<!--more-->
 
 Services work when people use them, and when they work well, more people use them.
 Users don’t generally realize service delivery changing because they have grown up with the improvements being put in place, and have adjusted to the new norm in a natural way.
