@@ -41,7 +41,7 @@ We must design better products for citizens and public servant colleagues.
 *Why?* Because "we" demand it.
 Because a long-lasting, well-structured relationships is the secret ingredient to make users happy.
 
-### **Creating personas**
+### Creating personas
 
 In the IT Strategy team, we designed and implemented some products and luckily, we had a chance to involve users throughout the design process as well as test our prototypes before launching.
 Our first step was learning about users, their context, their objectives, and obstacles to inform our general direction.
@@ -60,7 +60,7 @@ It is worth mentioning that although user personas helped us to prioritize the f
 We were constantly collecting feedback from stakeholders to keep a proper balance between the needs of the business and the needs of the users, in order to create a solution that would satisfy both.
 With the feedback received, we tried to iterate the overall experience for the user.
 
-### **Accessibility and multilingualism**
+### Accessibility and multilingualism
 
 In government, accessibility is an important part of the service design and should be considered throughout the whole process.
 According to the [Accessible Canada Act](https://www.canada.ca/en/employment-social-development/programs/accessible-canada.html), programs and service delivery is one of the key areas where the Government of Canada should focus its efforts.
@@ -69,7 +69,7 @@ By respecting the official language preferences of the Canadian public, we must 
 To produce better quality results, the user interface design of our services must follow the [Web Experience Toolkit](https://wet-boew.github.io/wet-boew/index-en.html) framework led by the Government of Canada.
 It is a collaborative open source framework that covers the accessibility, usability, and multilingual aspects by providing reusable templates that help create an early model/sample prototype to test hypotheses.
 
-### **Usability test**
+### Usability test
 
 To understand how real users interact with our application(s), we focused on creating a usability test plan.
 The usability test plan is like a blueprint that contains information such as the methodology (a brief introduction on how the test will be conducted), moderator script (a script that a moderator follows, which consists of instructions, topics, and questions that will be used for all test sessions, to ensure consistency), task cases (a summary of what typical users might go through while using the product), and the schedule of the participants.
@@ -100,7 +100,7 @@ Remote online testing provides access to a larger pool of potential testers, cut
 And most importantly, people complete tasks sitting at their home (i.e., a natural environment), where they will be using our final products.
 Thus, the usability insights we gained from the tests were closer to the real world.
 
-### **Collecting feedback and implementing**
+### Collecting feedback and implementing
 
 While collecting feedback, it is very important to not disrupt the user’s interaction with the prototype.
 We had to find a way to collect feedback in a way that allowed us to freely observe what was happening.
@@ -120,7 +120,7 @@ To use the results, it was important to not exaggerate or add to what was seen o
 To capture the results accurately, we mapped specific feedback to our research questions, identified which questions were answered and which were not, and what new questions may have come up.
 To do this, we prioritized the user feedback and comments received in a backlog before each iteration's planning meeting, to ensure that the prioritization was correct.
 
-### **User experience never ends**
+### User experience never ends
 
 User experience does not stop here.
 All the effort spent planning, researching, and creating the product led us to the launch phase.
