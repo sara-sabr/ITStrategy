@@ -594,7 +594,9 @@
     "taile",
     "insuffissant",
     "montan",
-    "DGAIGRE"
+    "DGAIGRE",
+    "Elmina"`,
+    "Iusifova"
   ],
   "flagWords": [],
   "import": ["node_modules/@cspell/dict-fr-fr/cspell-ext.json"],
