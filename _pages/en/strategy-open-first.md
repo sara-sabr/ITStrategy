@@ -28,7 +28,6 @@ permalink: /open-first-strategy.html
 - [Appendix D – GC Current State](#appendix-d--gc-current-state)
 - [Appendix E - ESDC Current State](#appendix-e---esdc-current-state)
 - [Appendix E – Definition of open standards and open source software](#appendix-e--definition-of-open-standards-and-open-source-software)
-- [Appendix ? Resources](#appendix--resources)
 
 ## Executive Summary
 
@@ -713,5 +712,3 @@ Their inherent flexibility brings many benefits, for example:
 - Increased productivity and collaboration;
 - First-class IT talent and better job satisfaction; and
 - Economic growth in Canada (and abroad)
-
-## Appendix ? Resources
