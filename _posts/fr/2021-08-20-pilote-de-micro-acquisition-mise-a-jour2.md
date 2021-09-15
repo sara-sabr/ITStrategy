@@ -53,7 +53,7 @@ Les formulaires GC sont un nouveau produit du Service Numérique Canadien (SNC) 
 Les formulaires GC sont un service — vous dites au SNC ce dont vous avez besoin, ils conçoivent votre formulaire, le mettent à l’essai, puis vous envoient le lien.
 Les formulaires GC sont accessibles, sécuritaires et ont pleine autorité pour opérer.
 
-Nous sommes ravis de ce changement, car nous n’aurons plus à maintenir un formulaire PDF (ce qui était fastidieux, car nous n’avons pas Adobe Acrobat et nous exportions des PDF à partir de fichiers .odt) et l’expérience utilisateur pour les fournisseurs sera améliorée, puisque les formulaires n’autoriseront pas la soumission à moins que tous les champs obligatoires aient été remplis.
+Nous sommes ravis de ce changement, car nous n’aurons plus à maintenir un formulaire PDF (ce qui était fastidieux) et l’expérience utilisateur pour les fournisseurs sera améliorée, puisque les formulaires n’autoriseront pas la soumission à moins que tous les champs obligatoires aient été remplis.
 Cela signifie également que nous recevrons les informations relatives aux candidatures en tant que données structurées, afin que nous puissions automatiser le traitement des formulaires de candidature.
 
 Et vous avez peut-être remarqué (si vous avez cliqué sur le lien dans la section Ajout d’une liste de distribution ci-dessus) que nous utilisons également les formulaires GC comme moyen pour les personnes de s'inscrire à notre liste de diffusion.
