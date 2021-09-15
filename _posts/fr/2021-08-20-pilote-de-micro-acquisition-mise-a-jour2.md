@@ -5,7 +5,7 @@ ref: micro-acquisition-update2
 lang: fr
 author: "Rachel Muston, en collaboration avec l’équipe de stratégie de la technologie de l’information (TI) et les membres de l’équipe du projet pilote de micro-acquisition"
 date: "2021-08-20"
-excerpt: "Le pilote de micro-acquisition est en ligne ! Dans ce billet de blog, nous partageons ce que nous avons appris jusqu'à présent et comment nous nous ajustons et nous améliorons."
+excerpt: "Le pilote de micro-acquisition est en ligne ! Dans ce billet de blogue, nous partageons ce que nous avons appris jusqu'à présent et comment nous nous ajustons et nous améliorons."
 ---
 <!-- markdownlint-disable MD033 -->
 Depuis notre dernière mise à jour du statut, le site Web des micro-acquisitions [^1] a été mis en ligne et la première opportunité[^2] a été publiée !
@@ -22,11 +22,11 @@ Lorsque nous n’avons pas eu beaucoup d’abonnés à notre compte Twitter[^3],
 
 Nous avons maintenant une [liste de distribution](https://forms-formulaires.alpha.canada.ca/fr/id/36) à laquelle tout le monde peut s’abonner.
 Par l’entremise de la liste de distribution (et Twitter), nous partagerons lorsque de nouvelles opportunités sont publiées et/ou mises à jour.
-Nous avons également mis à jour le texte sur la page des opportunités afin d’être plus clair sur les informations disponibles par le biais du compte Twitter et de la liste de distribution.
+Nous avons également mis à jour le texte sur la page des opportunités afin d’être plus clairs sur les informations disponibles par le biais du compte Twitter et de la liste de distribution.
 
 ## Mise à jour des questions d’évaluation
 
-Nous avons réalisé, à partir des candidatures que nous avons reçues, qu’il y avait des personnes qui pourraient probablement effectuer le travail, mais la formulation de nos critères d’évaluation nous a empêché de leur donner une chance parce qu’ils n’avaient pas d’expérience spécifique dans Powershell.
+Nous avons réalisé, à partir des candidatures que nous avons reçues, qu’il y avait des personnes qui pourraient probablement effectuer le travail, mais la formulation de nos critères d’évaluation nous a empêchés de leur donner une chance parce qu’ils n’avaient pas d’expérience spécifique dans Powershell.
 Dans la mesure du possible, les futures opportunités verront les critères d’évaluation passer de :
 > Veuillez fournir une courte déclaration écrite démontrant comment vous possédez les compétences requises dans x.
 
