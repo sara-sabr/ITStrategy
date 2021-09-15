@@ -22,7 +22,7 @@ permalink: /open-first-strategy.html
 - [2. Vision](#2-vision)
 - [3 Goals and Outcomes](#3-goals-and-outcomes)
 - [4. Governing Principles](#4-governing-principles)
-- [6. Implementing the Strategy](#6-implementing-the-strategy)
+- [5. Implementing the Strategy](#5-implementing-the-strategy)
 - [Appendix A – Rationale](#appendix-a--rationale)
 - [Appendix B – Goals and Outcomes extended](#appendix-b--goals-and-outcomes-extended)
 - [Appendix C – Commitments](#appendix-c--commitments)
@@ -200,7 +200,7 @@ It is critical for ESDC to ensure that IT Solutions remain highly flexible and a
 
 In this context, the lack of open standards and OSS used poses a significant risk to the longevity of IT solutions and to the successful delivery of ESDC's mandate.
 
-## 6. Implementing the Strategy
+## 5. Implementing the Strategy
 
 The GC strives to be an active user of and contributor to open standards and OSS as reflected by the Digital Standards and the Policy on Service and Digital.
 This strategy will ensure that ESDC increases its use of OSS and open standards, and by doing so aligns with GC standards and policies.
