@@ -54,7 +54,7 @@ GC Forms is a service — you tell CDS your need, they build your form, test it 
 GC Forms is accessible, secure and has full authority to operate.
 
 We are excited about this change because we will no longer have to maintain a PDF form (which was tedious as we do not have Adobe Acrobat and were exporting PDFs from .odt files) and user experience for suppliers will be improved as the form will not allow submission unless all mandatory fields have been completed.
-It also means that we will receive application information as structured data so we can automate the processing of the application forms.
+It also means that we will receive application information as structured data, so that we can automate the processing of the application forms.
 
 And you might have noticed (if you clicked the link in the Added a Mailing List section above) that we are also using GC Forms as the means for folks to subscribe to our mailing list.
 
