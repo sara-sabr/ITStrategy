@@ -3,7 +3,7 @@ layout: post
 title: "La mobilisation des utilisateurs dans la prestation des services"
 ref: user-engagement-in-service-delivery
 lang: fr
-author: " Elmina Iusifova, en collaboration avec l’équipe de stratégie des TI"
+author: " Elmina Iusifova, en collaboration avec l’équipe de stratégie TI"
 date: "16-09-2021"
 last_modified: "16-09-2021"
 excerpt_separator: <!--more-->
@@ -31,32 +31,32 @@ Plusieurs réponses sont possibles, mais ma préférée est la suivante :
 > Offrir aux clients une solution qui leur coûte moins cher que le coût du problème.
 <!--more-->
 
-Les services fonctionnent lorsque les gens les utilisent et si les services fonctionnent bien, un plus grand nombre de personnes les utilisent.
-En général, les utilisateurs ne savent pas comment la prestation des services est modifiée si rapidement, parce qu’ils se sont habitués aux améliorations mises en place et se sont adaptés à la nouvelle norme presque immédiatement.
-Par contre, ce qui n’a *pas* changé, c’est que lorsqu’ils *interagissent* avec la prestation de services, ils veulent une expérience utilisateur exceptionnelle.
+Les services fonctionnent lorsque les gens les utilisent et s'ils fonctionnent bien, un plus grand nombre de personnes les utilisent.
+En général, les utilisateurs ne réalisent pas quand la prestation des services change, parce qu’ils se sont habitués aux améliorations mises en place et se sont adaptés à la nouvelle norme presque immédiatement.
+Par contre, ce qui n’a *pas* changé, c’est que lorsqu’ils *interagissent* avec un service, ils veulent une expérience utilisateur exceptionnelle.
 
 Les [Normes relatives au numérique du gouvernement Canada](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html) reposent sur l’objectif suivant : fournir aux Canadiens des services publics « faciles à utiliser ».
 Pour concevoir des produits « axés sur l’utilisateur », l'utilisateur doit participer à tous les aspects de la recherche afin d’optimiser le temps et les efforts consacrés à la compréhension de ses besoins et de ses problèmes.
 
 Nous devons concevoir de meilleurs produits pour les citoyens et les collègues de la fonction publique.
 *Pourquoi?* Parce que « nous » le réclamons.
-Parce que « nous » voulons des relations durables et bien pensées pour faire le bonheur des utilisateurs.
+Parce qu'une relation durable et bien structurée est l'ingrédient secret pour rendre les utilisateurs heureux.
 
 ### **Créer des personas**
 
-Nous, de l’équipe de stratégie des TI, avons conçu et mis en œuvre plusieurs produits.
-Heureusement, nous avons eu l’occasion de faire participer les utilisateurs tout au long du processus de conception et de tester nos prototypes avant le lancement.
-Notre première étape cherchait à en savoir le plus possible sur les utilisateurs : leur contexte, objectifs et obstacles afin d’éclairer notre orientation générale. Nous avons créé des personas pour nous aider à connaître nos clients, leur comportement, leurs objectifs et leurs frustrations, ainsi qu'à comprendre pour qui nous concevons un produit et si celui-ci répond aux besoins de notre public cible.
+Dans l’équipe de stratégie TI, nous avons conçu et mis en œuvre plusieurs produits et, heureusement, nous avons eu l’occasion de faire participer les utilisateurs tout au long du processus de conception et de tester nos prototypes avant le lancement.
+Notre première étape cherchait à en savoir le plus possible sur les utilisateurs : leur contexte, objectifs et obstacles afin d’éclairer notre orientation générale.
+Nous avons créé des personas pour nous aider à connaître nos utilisateurs, leur comportement, leurs objectifs et leurs frustrations, ainsi qu'à comprendre pour qui nous concevons un produit et si celui-ci répond aux besoins de notre public cible.
 
 C’est ce qui s’est produit pendant le sprint de conception de l’[outil d’auto-évaluation DevOps](https://sara-sabr.github.io/ITStrategy/devops-self-assessment.html).
-À partir de recherches, nous avons créé des personnages fictifs pour nous aider à comprendre l’utilisateur pour lequel nous concevons. Nous avons découvert différents types d’utilisateurs avec leurs modèles de comportement, objectifs, compétences, attitudes et antécédents, ainsi que l’environnement dans lequel ils évoluent.
-Cela nous permet de connaître les éléments exigeant notre attention et de nous améliorer pendant la conception de notre application.
-Le principal utilisateur de l’outil est un fonctionnaire de la DGIIT qui souhaite continuellement améliorer et soutenir les efforts de ses pairs. En comprenant les attentes, les préoccupations et les motivations de nos utilisateurs cibles, nous avons trouvé une solution axée sur la conception.
-Lorsque l’on conçoit un produit pour un fonctionnaire alors que l’on est soi-même un fonctionnaire, il est très facile de créer un produit autoréférentiel comme s’il est nous est uniquement destiné.
-Or, le public cible peut être très différent de nous.
+À partir de recherches, nous avons créé des personnages fictifs pour nous aider à comprendre l’utilisateur pour lequel nous concevons.
+Nous avons découvert différents types d’utilisateurs avec leurs modèles de comportement, objectifs, compétences, attitudes et antécédents, ainsi que l’environnement dans lequel ils évoluent. Cela nous a permis de connaître les éléments exigeant notre attention et de nous améliorer pendant la conception de notre application.
+Le principal utilisateur de l’outil est un fonctionnaire de la DGIIT qui souhaite continuellement s'améliorer et soutenir les efforts de ses pairs.
+En comprenant les attentes, les préoccupations et les motivations de nos utilisateurs cibles, nous avons mis au point une solution axée sur la conception.
+Lorsque l’on conçoit pour un fonctionnaire alors que l’on est soi-même un fonctionnaire, il est très facile de créer un produit autoréférentiel comme s'il nous était uniquement destiné. Or, le public cible peut être très différent de nous.
 Nous avons également créé une maquette qui a récemment été présentée à une véritable équipe d’utilisateurs afin de recueillir des commentaires et d’apporter d’autres améliorations.
 
-En pensant aux besoins de notre persona d’utilisateur final, nous avons tenté de façonner la stratégie de produits et de créer la meilleure maquette pour *ces personnes*.
+En pensant aux besoins de notre persona d’utilisateur final, nous avons tenté de façonner la stratégie de produits et de créer la meilleure maquette pour *lui/elle*.
 Fait à noter, même si les personas d’utilisateur nous ont aidés à prioriser les fonctions, ce n’était pas le seul outil utilisé pour établir les priorités.
 Nous recueillons constamment les commentaires des intervenants afin de maintenir un juste équilibre entre les besoins de l’organisation et ceux des utilisateurs afin de trouver une solution qui satisferait les deux.
 Avec les commentaires que nous avons reçus, nous avons tenté de répéter l’expérience globale pour l’utilisateur.

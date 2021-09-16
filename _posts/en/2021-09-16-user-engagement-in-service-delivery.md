@@ -40,7 +40,7 @@ To design "user-focused" products, the user should be involved in every aspect o
 
 We must design better products for citizens and public servant colleagues.
 *Why?* Because "we" demand it.
-Because a long-lasting, well-structured relationships is the secret ingredient to make users happy.
+Because a long-lasting, well-structured relationship is the secret ingredient to make users happy.
 
 ### Creating personas
 
