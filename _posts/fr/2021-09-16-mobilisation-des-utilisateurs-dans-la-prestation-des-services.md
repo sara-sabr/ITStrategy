@@ -9,7 +9,7 @@ last_modified: "16-09-2021"
 excerpt_separator: <!--more-->
 ---
 
-Pourquoi créons-nous des services? Plusieurs réponses sont possibles, mais ma préférée est la suivante : 
+Pourquoi créons-nous des services? Plusieurs réponses sont possibles, mais ma préférée est la suivante :
 
 > Offrir aux clients une solution qui leur coûte moins cher que le coût du problème.
 <!--more-->
