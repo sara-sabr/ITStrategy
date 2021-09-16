@@ -39,7 +39,7 @@ Lorsque l’on conçoit un produit pour un fonctionnaire alors que l’on est so
 Or, le public cible peut être très différent de nous.
 Nous avons également créé une maquette qui a récemment été présentée à une véritable équipe d’utilisateurs afin de recueillir des commentaires et d’apporter d’autres améliorations.
 
-En pensant aux besoins de notre personna d’utilisateur final, nous avons tenté de façonner la stratégie de produits et de créer la meilleure maquette pour *ces personnes*.
+En pensant aux besoins de notre persona d’utilisateur final, nous avons tenté de façonner la stratégie de produits et de créer la meilleure maquette pour *ces personnes*.
 Fait à noter, même si les personas d’utilisateur nous ont aidés à prioriser les fonctions, ce n’était pas le seul outil utilisé pour établir les priorités.
 Nous recueillons constamment les commentaires des intervenants afin de maintenir un juste équilibre entre les besoins de l’organisation et ceux des utilisateurs afin de trouver une solution qui satisferait les deux.
 Avec les commentaires que nous avons reçus, nous avons tenté de répéter l’expérience globale pour l’utilisateur.
@@ -56,7 +56,7 @@ Il s’agit d’un cadre collaboratif de source ouverte qui porte sur l’access
 ### **Essais de convivialité**
 
 Pour comprendre comment les véritables utilisateurs interagissent avec nos applications, nous avons mis l’accent sur la création d’un plan d’essais de convivialité.
-Ce plan s’apparente à un plan directeur qui contient des renseignements comme la méthodologie (une brève explication du déroulement de la mise à l’essai), le script de l’animateur (un script qu’un animateur suit et qui comprend des instructions, des sujets et des questions qui seront utilisés à chaque séance d’essai, afin d’assurer l’uniformité), des cas de tâches (un résumé de l’expérience que pourrait vivre les utilisateurs typiques en utilisant le produit) et le calendrier des participants.
+Ce plan s’apparente à un plan directeur qui contient des renseignements comme la méthodologie (une brève explication du déroulement de la mise à l’essai), le script de l’animateur (un script qu’un animateur suit et qui comprend des instructions, des sujets et des questions qui seront utilisés à chaque séance d’essai, afin d’assurer l’uniformité), des cas de tâches (un résumé de l’expérience que pourraient vivre les utilisateurs typiques en utilisant le produit) et le calendrier des participants.
 
 Pour évaluer le rendement de notre conception et de nos produits, nous avons effectué des essais de convivialité auprès de plusieurs utilisateurs.
 Il s’agit d’une démarche dans laquelle les résultats ne sont pas connus à l’avance et qui peut exiger du temps et susciter de l’ambiguïté. Mais cet exercice est AMUSANT 🙂!
