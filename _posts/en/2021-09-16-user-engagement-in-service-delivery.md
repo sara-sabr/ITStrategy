@@ -32,10 +32,10 @@ There are many answers to this question, but the one I like is:
 <!--more-->
 
 Services work when people use them, and when they work well, more people use them.
-Users don’t generally realize service delivery changing because they have grown up with the improvements being put in place, and have adjusted to the new norm in a natural way.
-What has *not* changed is that when they *do* interact with service delivery, they want a **great** user experience.
+Users don’t generally realize when service delivery is changing because they have grown up with the improvements being put in place, and have adjusted to the new norm in a natural way.
+What has *not* changed is that when they *do* interact with a service, they want a **great** user experience.
 
-[GC Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html) applies the mindset of providing public services to Canadians that are "simple to use".
+The [GC Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html) apply the mindset of providing public services to Canadians that are "simple to use".
 To design "user-focused" products, the user should be involved in every aspect of the research to optimize the time and effort put into understanding its needs and problems.
 
 We must design better products for citizens and public servant colleagues.
@@ -44,9 +44,9 @@ Because a long-lasting, well-structured relationships is the secret ingredient t
 
 ### Creating personas
 
-In the IT Strategy team, we designed and implemented some products and luckily, we had a chance to involve users throughout the design process as well as test our prototypes before launching.
+In the IT Strategy team, we designed and implemented some products and, luckily, we had a chance to involve users throughout the design process as well as test our prototypes before launching.
 Our first step was learning about users, their context, their objectives, and obstacles to inform our general direction.
-We created personas to help us get to know our customers, their behaviour, goals, frustrations, to understand who we are designing for, and if it meets the needs of our target audience.
+We created personas to help us get to know our users, their behaviours, goals, frustrations, to understand who we are designing for, and if it meets the needs of our target audience.
 
 This is what happened during the [DevOps Self-Assessment tool](https://sara-sabr.github.io/ITStrategy/devops-self-assessment.html) design sprint.
 Based on research, we created fictional characters to help us understand the users we are designing for.
@@ -56,7 +56,7 @@ By understanding the expectations, concerns, and motivations of our target users
 To design for a public servant while being public servants ourselves, it is so easy to create a self-referential product as if we are making the product only for us, when in fact the target audience may be quite unlike us.
 We also created a mock-up which was recently presented to a real group of users in order to collect feedback for further improvement.
 
-Thinking about the needs of our fictional – end user persona, we tried to shape the product strategy and create the best mock-up for *him*.
+Thinking about the needs of our fictional – end user persona, we tried to shape the product strategy and create the best mock-up for *him/her*.
 It is worth mentioning that although user personas helped us to prioritize the features, it was not the only tool used for prioritization.
 We were constantly collecting feedback from stakeholders to keep a proper balance between the needs of the business and the needs of the users, in order to create a solution that would satisfy both.
 With the feedback received, we tried to iterate the overall experience for the user.
