@@ -13,21 +13,7 @@ excerpt_separator: <!--more-->
 <!-- cSpell:ignoreRegExp /\<[^\>]+\>/ -->
 <!-- The img + em {} stylecheet selector is a hack to add caption to an image in markdown without using plugin: https://stackoverflow.com/questions/19331362/using-an-image-caption-in-markdown-jekyll -->
 
-<style>
-table, th, td {
-  border: 1px solid black;
-}
-
-th {
-  background-color: #ccccff;
-}
-
-img + em { display: inline-block; }
-</style>
-
-Pourquoi créons-nous des services?
-Plusieurs réponses sont possibles, mais ma préférée est la suivante : 
-
+Pourquoi créons-nous des services? Plusieurs réponses sont possibles, mais ma préférée est la suivante:
 > Offrir aux clients une solution qui leur coûte moins cher que le coût du problème.
 <!--more-->
 
@@ -42,7 +28,7 @@ Nous devons concevoir de meilleurs produits pour les citoyens et les collègues 
 *Pourquoi?* Parce que « nous » le réclamons.
 Parce qu'une relation durable et bien structurée est l'ingrédient secret pour rendre les utilisateurs heureux.
 
-### **Créer des personas**
+### Créer des personas
 
 Dans l’équipe de stratégie TI, nous avons conçu et mis en œuvre plusieurs produits et, heureusement, nous avons eu l’occasion de faire participer les utilisateurs tout au long du processus de conception et de tester nos prototypes avant le lancement.
 Notre première étape cherchait à en savoir le plus possible sur les utilisateurs : leur contexte, objectifs et obstacles afin d’éclairer notre orientation générale.
@@ -61,7 +47,7 @@ Fait à noter, même si les personas d’utilisateur nous ont aidés à priorise
 Nous recueillons constamment les commentaires des intervenants afin de maintenir un juste équilibre entre les besoins de l’organisation et ceux des utilisateurs afin de trouver une solution qui satisferait les deux.
 Avec les commentaires que nous avons reçus, nous avons tenté de répéter l’expérience globale pour l’utilisateur.
 
-### **Accessibilité et multilinguisme**
+### Accessibilité et multilinguisme
 
 L’accessibilité est une partie importante de la conception des services au gouvernement, et elle doit être prise en compte tout au long du processus.
 Selon la [*Loi canadienne sur l’accessibilité*](https://www.canada.ca/fr/emploi-developpement-social/programmes/canada-accessible.html), la prestation des programmes et des services est l’un des principaux domaines sur lesquels le gouvernement du Canada doit cibler ses efforts.
@@ -70,7 +56,7 @@ Afin de respecter les préférences du public canadien en matière de langues of
 Afin d’obtenir des résultats de meilleure qualité, la conception de l’interface utilisateur de nos services doit respecter le cadre initial de la [Boîte à outils de l’expérience Web](https://wet-boew.github.io/wet-boew/index-fr.html) dirigé par le gouvernement du Canada.
 Il s’agit d’un cadre collaboratif de source ouverte qui porte sur l’accessibilité, la convivialité et les aspects multilingues en fournissant des modèles réutilisables qui nous aident à créer un premier modèle/prototype d’échantillon pour tester des hypothèses.
 
-### **Essais de convivialité**
+### Essais de convivialité
 
 Pour comprendre comment les véritables utilisateurs interagissent avec nos applications, nous avons mis l’accent sur la création d’un plan d’essais de convivialité.
 Ce plan s’apparente à un plan directeur qui contient des renseignements comme la méthodologie (une brève explication du déroulement de la mise à l’essai), le script de l’animateur (un script qu’un animateur suit et qui comprend des instructions, des sujets et des questions qui seront utilisés à chaque séance d’essai, afin d’assurer l’uniformité), des cas de tâches (un résumé de l’expérience que pourraient vivre les utilisateurs typiques en utilisant le produit) et le calendrier des participants.
@@ -101,7 +87,7 @@ Les essais en ligne à distance donnent accès à un plus grand bassin de testeu
 Et surtout, les gens accomplissent des tâches à la maison (c.-à-d. un environnement naturel) où ils utiliseront nos produits.
 Par conséquent, les renseignements sur la convivialité que nous avons tirés de l’essai sont plus proches du monde réel.
 
-### **Collecte de commentaires et mise en œuvre**
+### Collecte de commentaires et mise en œuvre
 
 Pendant la collecte de commentaires, il est très important de ne pas perturber l’interaction de l’utilisateur avec le prototype.
 Nous devions trouver un moyen de recueillir les commentaires d’une manière qui nous permettait d’observer sans entraves ce qui se passait.
@@ -121,7 +107,7 @@ Pour utiliser les résultats, il importe de ne pas exagérer ou d’ajouter quel
 Afin de saisir les résultats avec exactitude, nous avons mis en correspondance les commentaires particuliers avec nos questions de recherche, déterminé quelles questions ont obtenu une réponse et celles sans réponse, de même que les nouvelles questions qui ont été posées.
 Pour ce faire, nous avons établi l’ordre de priorité des commentaires des utilisateurs reçus dans un carnet d’idées avant chaque réunion de planification de l’itération pour nous assurer que l’ordre de priorité est pertinent.
 
-### **L’expérience utilisateur ne se termine jamais**
+### L’expérience utilisateur ne se termine jamais
 
 L’expérience utilisateur ne s’arrête pas ici.
 Tous les efforts consacrés à la planification, à la recherche et à la création du produit nous ont permis de passer à la phase de lancement.
