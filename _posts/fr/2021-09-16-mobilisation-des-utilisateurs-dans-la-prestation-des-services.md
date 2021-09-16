@@ -8,8 +8,25 @@ date: "16-09-2021"
 last_modified: "16-09-2021"
 excerpt_separator: <!--more-->
 ---
+<!-- markdownlint-disable MD033 -->
+<!-- the below cSpell statement says to ignore any text between HTML tags. e.g., it will ignore "th rowspan='2'" in this string: <th rowspan='2'> -->
+<!-- cSpell:ignoreRegExp /\<[^\>]+\>/ -->
+<!-- The img + em {} stylecheet selector is a hack to add caption to an image in markdown without using plugin: https://stackoverflow.com/questions/19331362/using-an-image-caption-in-markdown-jekyll -->
 
-Pourquoi créons-nous des services? Plusieurs réponses sont possibles, mais ma préférée est la suivante : 
+<style>
+table, th, td {
+  border: 1px solid black;
+}
+
+th {
+  background-color: #ccccff;
+}
+
+img + em { display: inline-block; }
+</style>
+
+Pourquoi créons-nous des services?
+Plusieurs réponses sont possibles, mais ma préférée est la suivante : 
 
 > Offrir aux clients une solution qui leur coûte moins cher que le coût du problème.
 <!--more-->
@@ -59,8 +76,12 @@ Pour comprendre comment les véritables utilisateurs interagissent avec nos appl
 Ce plan s’apparente à un plan directeur qui contient des renseignements comme la méthodologie (une brève explication du déroulement de la mise à l’essai), le script de l’animateur (un script qu’un animateur suit et qui comprend des instructions, des sujets et des questions qui seront utilisés à chaque séance d’essai, afin d’assurer l’uniformité), des cas de tâches (un résumé de l’expérience que pourraient vivre les utilisateurs typiques en utilisant le produit) et le calendrier des participants.
 
 Pour évaluer le rendement de notre conception et de nos produits, nous avons effectué des essais de convivialité auprès de plusieurs utilisateurs.
-Il s’agit d’une démarche dans laquelle les résultats ne sont pas connus à l’avance et qui peut exiger du temps et susciter de l’ambiguïté. Mais cet exercice est AMUSANT 🙂!
-L’objectif principal de ce processus est d’évaluer les idées et les solutions que nous avons trouvées et de déterminer ce qui fonctionne et ce qui ne fonctionne pas. Nous avons testé notre application et écouté nos utilisateurs pour les comprendre.**Écouter les utilisateurs est une chose difficile. Souvent, les utilisateurs ne savent pas ce qu’ils veulent, et même s’ils le savent, la communication risque d’être mal interprétée par l’utilisateur et l’animateur.**
+Il s’agit d’une démarche dans laquelle les résultats ne sont pas connus à l’avance et qui peut exiger du temps et susciter de l’ambiguïté.
+Mais cet exercice est AMUSANT 🙂!
+L’objectif principal de ce processus est d’évaluer les idées et les solutions que nous avons trouvées et de déterminer ce qui fonctionne et ce qui ne fonctionne pas.
+Nous avons testé notre application et écouté nos utilisateurs pour les comprendre.
+**Écouter les utilisateurs est une chose difficile.
+Souvent, les utilisateurs ne savent pas ce qu’ils veulent, et même s’ils le savent, la communication risque d’être mal interprétée par l’utilisateur et l’animateur.**
 Pour recevoir des commentaires utiles des utilisateurs et corriger les renseignements, nous devions d’abord nous assurer, lors de la préparation du scénario de l’animateur, de tenir compte des éléments à tester, puis le faire comme convenu.
 Dans ce cas, il y avait un grand risque que le script oriente l’utilisateur pour qu’il donne une rétroaction particulière qui ne serait pas objective.
 Pour concevoir la meilleure expérience utilisateur, nous avons donc porté attention principalement à ce que les utilisateurs font, et non à ce qu’ils disent, afin d’éviter les affirmations qui ne sont pas fiables.
@@ -70,8 +91,7 @@ Au cours des essais, nous avons évalué non seulement la convivialité, mais la
 Nous nous sommes assurés que les utilisateurs connaissent la justification du prototype et de l’essai.
 Toutefois, nous avons évité d’expliquer en détail le fonctionnement du prototype, ou la façon dont il devrait résoudre les problèmes des utilisateurs.
 Nous avons laissé l’expérience d’utilisation du prototype par l’utilisateur parler d’elle-même et observé les réactions de celui-ci.
-Nous avons rassuré les participants qu’au cours de la séance, nous testons le prototype et non l’utilisateur.
-Nous avons expliqué qu’il n’y a pas de bonnes ou de mauvaises réponses aux questions posées et que toute mesure prise par eux nous aidera à combler les lacunes que nous avons manquées lors de la conception de l’application.
+Nous avons rassuré les participants qu’au cours de la séance, nous testons le prototype et non l’utilisateur. Nous avons expliqué qu’il n’y a pas de bonnes ou de mauvaises réponses aux questions posées et que toute mesure prise par eux nous aidera à combler les lacunes que nous avons manquées lors de la conception de l’application.
 Nous avons présenté les tâches une à la fois, et avons invité les participants à « réfléchir à haute voix », et notamment exprimer leurs préoccupations, opinions et commentaires.
 Nous avons demandé aux utilisateurs de parler de leurs expériences, ce qui a été crucial lors de conception de notre produit.
 
@@ -106,7 +126,9 @@ Pour ce faire, nous avons établi l’ordre de priorité des commentaires des ut
 L’expérience utilisateur ne s’arrête pas ici.
 Tous les efforts consacrés à la planification, à la recherche et à la création du produit nous ont permis de passer à la phase de lancement.
 Nous devons consacrer du temps à la production après le lancement pour nous assurer que nous créons des produits qui sont utiles aux utilisateurs.
-Après le lancement, la phase d’optimisation commence. Une fois que les utilisateurs auront mis la main sur le produit, nous pourrions constater – grâce aux données et au comportement des utilisateurs – que bon nombre de nos hypothèses initiales sont fausses ou que les utilisateurs utilisent notre produit de différentes façons.
-Nous continuons de surveiller l’expérience utilisateur de chacun de nos produits en demandant aux utilisateurs de nous faire part de leurs commentaires. C’est alors que commence une tout autre phase de l’expérience utilisateur.
+Après le lancement, la phase d’optimisation commence.
+Une fois que les utilisateurs auront mis la main sur le produit, nous pourrions constater – grâce aux données et au comportement des utilisateurs – que bon nombre de nos hypothèses initiales sont fausses ou que les utilisateurs utilisent notre produit de différentes façons.
+Nous continuons de surveiller l’expérience utilisateur de chacun de nos produits en demandant aux utilisateurs de nous faire part de leurs commentaires.
+C’est alors que commence une tout autre phase de l’expérience utilisateur.
 
 *Ai-je mentionné que l’expérience utilisateur est un processus sans fin?*
