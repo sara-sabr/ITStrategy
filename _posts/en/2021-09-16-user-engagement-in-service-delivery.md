@@ -4,8 +4,8 @@ title: "User Engagement in Service Delivery"
 ref: user-engagement-in-service-delivery
 lang: en
 author: "Elmina Iusifova, in collaboration with the IT Strategy team"
-date: "2021-09-10"
-last_modified: "2021-09-10"
+date: "2021-09-16"
+last_modified: "2021-09-16"
 excerpt_separator: <!--more-->
 ---
 <!-- markdownlint-disable MD033 -->
