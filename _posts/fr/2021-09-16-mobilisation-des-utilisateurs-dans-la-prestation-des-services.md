@@ -33,7 +33,7 @@ Plusieurs réponses sont possibles, mais ma préférée est la suivante :
 
 Les services fonctionnent lorsque les gens les utilisent et s'ils fonctionnent bien, un plus grand nombre de personnes les utilisent.
 En général, les utilisateurs ne réalisent pas quand la prestation des services change, parce qu’ils se sont habitués aux améliorations mises en place et se sont adaptés à la nouvelle norme presque immédiatement.
-Par contre, ce qui n’a *pas* changé, c’est que lorsqu’ils *interagissent* avec un service, ils veulent une expérience utilisateur **exceptionnelle**.
+Par contre, ce qui n’a *pas* changé, c’est que lorsqu'ils *interagissent* avec un service, ils veulent une expérience utilisateur **exceptionnelle**.
 
 Les [Normes relatives au numérique du gouvernement Canada](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html) reposent sur l’objectif suivant : fournir aux Canadiens des services publics « faciles à utiliser ».
 Pour concevoir des produits « axés sur l’utilisateur », l'utilisateur doit participer à tous les aspects de la recherche afin d’optimiser le temps et les efforts consacrés à la compréhension de ses besoins et de ses problèmes.
