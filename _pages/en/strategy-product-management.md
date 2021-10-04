@@ -459,7 +459,7 @@ Value Stream Mapping for software delivery is an implementation of the [IITB SDL
 
 ## Appendix F - IT's Financial Model
 
-IT's financial model needs adjustements as it moves towards product-based funding.
+IT's financial model needs adjustments as it moves towards product-based funding.
 In some cases, different work on a product may be financed by different programs (e.g. A Benefits business rules funded by Employment Insurance).
 
 <div style="display: block; width: inherit; text-align: center; line-height: 3;">
