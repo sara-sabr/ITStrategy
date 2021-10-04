@@ -469,7 +469,7 @@ In some cases, different work on a product may be financed by different programs
         style="max-width: 900px; height: inherit;"
         />
     </a>
-    <small>Figure 7. Value Stream Mapping for Software Delivery</small>
+    <small>Figure 8. IT Financial Model for Product Management</small>
 </div>
 
 ## Appendix G - Terms and Definitions
