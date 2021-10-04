@@ -36,11 +36,12 @@ _Note: This page will link to internal ESDC and Government of Canada (GC) Networ
   - [Workstreams](#workstreams)
 - [Appendix A - Product Architectural Boundaries](#appendix-a---product-architectural-boundaries)
 - [Appendix B - Level of Autonomy](#appendix-b---level-of-autonomy)
-- [Appendix C - Product Framework Overview](#appendix-c---product-framework-overview)
+- [Appendix C - Product Life Cycle Overview](#appendix-c---product-life-cycle-overview)
 - [Appendix D - Portfolio Management, a CFO's perspective](#appendix-d---portfolio-management-a-cfos-perspective)
 - [Appendix E - Value Stream Mapping](#appendix-e---value-stream-mapping)
-- [Appendix F - Terms and Definitions](#appendix-f---terms-and-definitions)
-- [Appendix G - Change Log](#appendix-g---change-log)
+- [Appendix F - IT's Financial Model](#appendix-f---its-financial-model)
+- [Appendix G - Terms and Definitions](#appendix-g---terms-and-definitions)
+- [Appendix H - Change Log](#appendix-h---change-log)
 - [Notes](#notes)
 
 ## Introduction
@@ -411,16 +412,16 @@ Quality Assurance ensures that the right stakeholders were involved throughout t
 
 _Note 4:_ Corporate services include Funding for Cyber Security Operation Centre (CSOC), IT Security Assessment, Cloud Operations, Architecture Review, Service Desk, Laptops, VPNs.
 
-## Appendix C - Product Framework Overview
+## Appendix C - Product Life Cycle Overview
 
 <div style="display: block; width: inherit; text-align: center; line-height: 3;">
-    <a href="/ITStrategy/assets/images/product-management-framework-overview.png" style="display: block">
-        <img src = "{{ site.baseurl }}/assets/images/product-management-framework-overview.png"
-        alt = "The overview of the framework is comprised of five elements, displayed from left to right and including a text block under each one. The first is the Digital Product, with a text block having three bullets: Approved Boundaries determine level of autonomy, Product Roadmapping involving architecture domains, Clear ownership for prioritization decisions and accountability. The second is Standard sets of metrics showing a smaller image of Figure 3 above. The third is Value Stream (people) showing images of small teams interacting with each other over the four stages of value stream : ideate, create, release, operate. The value stream text block includes four bullets: Network of cross-functional teams involved in the delivery and operation of the product, maps to the IITB SDLC, maps to ITIL v4 Value Chain, Self-Organized (free to use which ever management method). The fourth is Governance (represented by an image of a table with people around it), its text block includes four bullets: Prioritizes Product's backlog and distributes workload, Defines release management guardrails, engaged in product roadmapping (e.g. ARC, IT Security, Privacy), Provides new funding and expenditure authorities. The final element is Portfolio (represented by four bags of money), its text box includes three bullets: Provides funding sources to Value Stream, Strategic Alignment of funds (prioritization), evaluates product's business value."
+    <a href="/ITStrategy/assets/images/product_management_lifecycle.png" style="display: block">
+        <img src = "{{ site.baseurl }}/assets/images/product_management_lifecycle.png"
+        alt = "The overview of the lifecycle is comprised of five steps, displayed from left to right as columns that include Governance, Responsible for Product Artefacts, and Responsible for Supporting Activities. The first column, step 0, is the existing Stage 5 of a Project (project closure) it involves all artefacts that a project closure is expected to produce. The second column, step 1, is the start of the project to product status creation. It's governance is at the sponsor and DGPOC/MPIB level (depending on budget amount). The Product Manager is responsible to produce a series of artefacts at this step (product brief, multi-year budget, value stream map, cadence (schedule), architecture boundaries, product governance board, and sources of funds). The FMAs attest the financials that the Product Manager produced. Product Supporting Activities do not include anything. The 3rd column, step 2, is the Enterprise Alignment. Governed by the Sponsor and DGPOC/MPIB. The Product Manager is responsible to produce a series of artefacts at this step (step-based roadmap, multi-year budget, key product metrics, conceptual target architecture, architecture boundaries, benefits realization plan, IRBV Archiving Checklist). FMAs again attest the financials. Supporting Activities include EARB and SA&A reviews. The 4th column, step 3, is the continuous improvement steps. It involves a series of release (labled steps 3n and steps 3n+1). The Product Manager is responsible to produce a series of artefacts (Approval to Deploy, Acceptance Report, Product Workload Metrics). FMAs attesting the financials. The supporting activities for the product manager include Produce Costing Tool, Produce Release Schedule, Evaluate Architecture Boundaries, Release Management, Risks and mitigation. The supporting activities for the product owner involves Release Scope and the step-based product roadmap. The supporting acativities for the product team involves backlog grooming, and evaluating the previous release. Before the 4th column, there are two loop-backs. The first loop-backs is an arrow that goes back to Step 3. Indicating that the continuous improvement steps is a loop. But that bi-yearly updates are provided to governance. The 2nd loop-back is an arrow that goes back to step 2 (enterprise alignment), indicating that a greater review of the product roadmap is done. The final 4th column, step 4, is the Product decommission. Governed by the Sponsor and DGPOC/MPIB. The Product Manager is responsible to produce a series of artefacts (approval to decommission, product closure report, and IRBV Archiving Checklist). FMAs attest the financials."
         style="max-width: 900px; height: inherit;"
         />
     </a>
-    <small>Figure 5. Overview of the Proposed Product Management Framework</small>
+    <small>Figure 5. Overview of the Proposed Product Lifecycle</small>
 </div>
 
 ## Appendix D - Portfolio Management, a CFO's perspective
@@ -456,7 +457,22 @@ Value Stream Mapping for software delivery is an implementation of the [IITB SDL
     <small>Figure 7. Value Stream Mapping for Software Delivery</small>
 </div>
 
-## Appendix F - Terms and Definitions
+## Appendix F - IT's Financial Model
+
+IT's financial model needs adjustements as it moves towards product-based funding.
+In some cases, different work on a product may be financed by different programs (e.g. A Benefits business rules funded by Employment Insurance).
+
+<div style="display: block; width: inherit; text-align: center; line-height: 3;">
+    <a href="/ITStrategy/assets/images/product_financial_model_en.png" style="display: block">
+        <img src = "{{ site.baseurl }}/assets/images/product_financial_model_en.png"
+        alt = "The image is read left to right. It has a legend as follows: a blue cloud used to indicate indirect costs shared by more than one cost object, an orange rectangle used to indicat direct cost that is unequivocally attributed to a single cost object, and a purple diamond used to indicate source of funds that can pay for the product costs. The image starts with an icon saying 'FMAs documents'. Two orange arrows labeld 'Direct Costing' go from this 'FMAS documents' icon towards two new orange rectangle icons labled 'Product A' and 'Product B'. A third arrow, blue this time and labled 'Indirect Costing', go from the 'FMAs documents' icon to a blue cloud labeled 'Product Team Salary and Non-Salary'. The 'Product A' orange irectanble is linked to an orange cloud that contains 3 orange rectangles: Infrastructure (e.g. SSC and Cloud), Tech Stack s/w licences, and Labour (salary / non-salary). The 'Labour (salary / non-salary)' rectangle is tied with a gray icon that says 'CATS Codes'. This gray 'CATS codes' icon is linked to the blue cloud 'Product Team' icon with an arrow that says 'Allocation'. The blue cloud 'Product Team' icon is linked to a bigger blue cloud that contains 7 blue rectangle: Corp Licences (e.g. SaaS, s/w), Real Estate, Employee Benefits, Common Cloud Services, Common SSC Services, Equipment (e.g. laptops), Corporate Services (e.g. Arch and Security Assessments). The image ends with 3 purple diamond icons: Source i (e.g. TB sub i), Source ii (e.g. EI Program), Source iii (e.g. CRF). These 3 purple diamond icons have purple arrows towards the orange and blue clouds."
+        style="max-width: 900px; height: inherit;"
+        />
+    </a>
+    <small>Figure 7. Value Stream Mapping for Software Delivery</small>
+</div>
+
+## Appendix G - Terms and Definitions
 
 | Term     | Definition                             |
 | -------- | -------------------------------------- |
@@ -485,11 +501,12 @@ Value Stream Mapping for software delivery is an implementation of the [IITB SDL
 | TBS      | Treasury Board Secretariat |
 | TMB      | Transformation Management Branch |
 
-## Appendix G - Change Log
+## Appendix H - Change Log
 
 | Version | Date of Change | Change Description |
 |:------- | -------------- | --------------------------------------------- |
 | 0.01    | 2021-07-30     | First Draft, moved from working document to web page |
+| 0.02    | 2021-10-04     | Updates based on internal discussions |
 
 ## Notes
 
