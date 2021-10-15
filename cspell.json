@@ -596,7 +596,13 @@
     "montan",
     "DGAIGRE",
     "Elmina",
-    "Iusifova"
+    "Iusifova",
+    "timesheet",
+    "emojipng",
+    "pngegg",
+    "flyclipart",
+    "imgflip",
+    "GCPedia"
   ],
   "flagWords": [],
   "import": ["node_modules/@cspell/dict-fr-fr/cspell-ext.json"],
