@@ -4,8 +4,8 @@ title: "Implementing Product Management in the Federal Government"
 ref: product-management-part-2
 lang: en
 author: "Rémy Bernard, in collaboration with the IT Strategy team"
-date: "2021-10-05"
-last_modified: "2021-10-05"
+date: "2021-10-15"
+last_modified: "2021-10-15"
 excerpt_separator: <!--more-->
 ---
 <!-- markdownlint-disable MD033 -->
