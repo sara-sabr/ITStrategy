@@ -4,8 +4,8 @@ title: "La mise en oeuvre de la gestion de produit au gouvernement fédéral"
 ref: product-management-part-2
 lang: fr
 author: "Rémy Bernard, en collaboration avec l'équipe de Stratégie TI"
-date: "2021-10-05"
-last_modified: "2021-10-05"
+date: "2021-10-15"
+last_modified: "2021-10-15"
 excerpt_separator: <!--more-->
 ---
 <!-- markdownlint-disable MD033 -->
