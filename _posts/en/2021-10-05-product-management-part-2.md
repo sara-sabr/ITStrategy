@@ -49,7 +49,7 @@ While complex, the move towards digital service delivery also presents an opport
 <div style="display: block; width: inherit; text-align: center; line-height: 3;">
     <a href="/ITStrategy/assets/images/digital_feedback_loop.png" style="display: block">
         <img src = "{{ site.baseurl }}/assets/images/digital_feedback_loop.png"
-        alt = "alt text."
+        alt = "This image depicts a feedback process loop. The image shows three icons: Policy Makers, Technology and Canadians. Between each icon there is an arrow showing a relationship as follows: Policy Makers must use Technology to implement their policies, Technology is then used to deliver services to Canadians, and after interacting with a service, Canadians provide their feedback to Policy Makers"
         style="width: 800px; height: inherit;"
         />
     </a>
@@ -70,7 +70,7 @@ Program Officials’ incentives are results. While CIOs’ and CFOs’ are about
 <div style="display: block; width: inherit; text-align: center; line-height: 3;">
     <a href="/ITStrategy/assets/images/program_officials-cio-cfo_with_copyrights.png" style="display: block">
         <img src = "{{ site.baseurl }}/assets/images/program_officials-cio-cfo_with_copyrights.png"
-        alt = "alt text."
+        alt = "This image is a three by three table showing the different perspectives that each of the Program Official, CFO, and CIO have of each other."
         style="width: 800px; height: inherit;"
         />
     </a>
@@ -84,7 +84,7 @@ This conundrum can be understood by the typical iceberg visualization.
 <div style="display: block; width: inherit; text-align: center; line-height: 3;">
     <a href="/ITStrategy/assets/images/iceberg_program_internalsrvs.png" style="display: block">
         <img src = "{{ site.baseurl }}/assets/images/iceberg_program_internalsrvs.png"
-        alt = "alt text."
+        alt = "An iceberg is on the left, with its portion above the water surface saying 'Programs' and its portion under water saying 'Internal Services'. The portion saying 'Programs' points to the Policy on Results while the portion saying 'internal services' points to the mention ' L'image comprend un iceberg à gauche avec sa partie hors de l'eau disant 'Programmes' et sa partProjects are used to compete for limited resources'. The 'internal services' also has an image associated to it saying that only 15% of IITB's A-Base budget is dedicated to projects."
         style="width: 800px; height: inherit;"
         />
     </a>

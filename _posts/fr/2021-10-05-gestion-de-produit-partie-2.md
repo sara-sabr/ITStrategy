@@ -47,12 +47,12 @@ La complexité avec laquelle les programmes doivent composer s’est renforcée 
 
 Bien que difficile, la transition vers la prestation de services numériques constitue également une occasion favorable grâce à la [réinitialisation des politiques, de la prestation et de l’évaluation](https://honeygolightly.medium.com/asking-the-ultimate-awkward-question-a26bbb34ec61) (en anglais seulement).
 La prestation de services numériques permet aux programmes d’obtenir plus rapidement des données probantes pour mettre en lumière leurs améliorations.
-Cela nous oblige à ajuster nos méthodes de planification en passant d’une planification avancée et d’une exécution stricte du plan à une planification qui récompense le cycle empirique d’essai, d’observation et de correction.
+Cela nous oblige à ajuster nos méthodes de planification en passant d’une planification avancée et d’une exécution stricte du plan à une planification qui récompense le cycle empirique d’essai, d’observation et de correction.[^2]
 
 <div style="display: block; width: inherit; text-align: center; line-height: 3;">
     <a href="/ITStrategy/assets/images/digital_feedback_loop-fr.png" style="display: block">
         <img src = "{{ site.baseurl }}/assets/images/digital_feedback_loop-fr.png"
-        alt = "alt text."
+        alt = "Cette image représente une boucle de processus de rétroaction. L'image montre trois icônes : Décideurs politiques, Technologie et Canadiens. Entre chaque icône se trouve une flèche montrant une relation comme suit : Les décideurs politiques doivent utiliser la technologie pour mettre en œuvre leurs politiques, la technologie est ensuite utilisée pour fournir des services aux Canadiens, et après avoir interagi avec un service, les Canadiens fournissent leurs commentaires aux décideurs politiques."
         style="width: 800px; height: inherit;"
         />
     </a>
@@ -68,26 +68,26 @@ Bien que les services internes soient considérés comme étant de nature horizo
 Cela éloigne trop les TI des programmes.
 Nous percevons tous cet éloignement lorsque les responsables des programmes rivalisent pour obtenir l’attention des TI et les ressources limitées, ce que l’on appelle à l’heure actuelle des [soumissions de projets de type Gladiator]({{site.baseurl}}{% link _posts/fr/2021-05-18-problemes-financement-par-projet.md %}) (ou pire, des ententes conclues en cachette qui demandent trop de temps à notre précieux personnel et dont les décideurs ne sont pas au courant).
 
-Les avantages offerts par les responsables des programmes sont des résultats, alors que les DPI et les DPF s’intéressent à l’intégrité de l'entreprise, notamment à la priorisation des ressources ministérielles limitées.
+Les incitatifs des responsables des programmes sont des résultats, alors que les DPI et les DPF s’intéressent à l’intégrité de l'entreprise, notamment à la priorisation des ressources ministérielles limitées.
 
 <div style="display: block; width: inherit; text-align: center; line-height: 3;">
     <a href="/ITStrategy/assets/images/program_officials-cio-cfo_with_copyrights-fr.png" style="display: block">
         <img src = "{{ site.baseurl }}/assets/images/program_officials-cio-cfo_with_copyrights-fr.png"
-        alt = "alt text."
+        alt = "Cette image est un tableau trois par trois montrant les différentes perspectives que le responsable de programme, le directeur financier et le directeur informatique ont les uns des autres."
         style="width: 800px; height: inherit;"
         />
     </a>
 </div>
 <small>Figure 2. Relations entre les responsables de programme, le DPF et le DPI[^4]</small>
 
-Étant donné que chaque responsable est lié par un ensemble différent de règles (les politiques qu’il doit respecter, comme les [411 exigences applicables aux DPI]({{site.baseurl}}{% link _posts/fr/2021-06-02-stats-instruments-politiques-numerique %})), ses comportements et sa façon de voir les autres responsables diffèrent.
+Étant donné que chaque responsable est lié par un ensemble différent de règles (les politiques qu’il doit respecter, comme les [411 exigences applicables aux DPI]({{site.baseurl}}{% link _posts/fr/2021-06-02-stats-instruments-politiques-numerique.md %})), ses comportements et sa façon de voir les autres responsables diffèrent.
 
 Il est possible de mieux comprendre cette problématique en reprenant l’idée de la face immergée de l’iceberg.
 
 <div style="display: block; width: inherit; text-align: center; line-height: 3;">
     <a href="/ITStrategy/assets/images/iceberg_program_internalsrvs-fr.png" style="display: block">
-        <img src = "{{ site.baseurl }}/assets/images/iceberg_program_internalsrv-fr.png"
-        alt = "alt text."
+        <img src = "{{ site.baseurl }}/assets/images/iceberg_program_internalsrvs-fr.png"
+        alt = "L'image comprend un iceberg à gauche avec sa partie hors de l'eau disant 'Programmes' et sa partie sous l'eau disant 'services internes'. La partie Programme pointe vers la Politique sur les résultats. La partie services internes pointe à la mention 'Les projets ont l’habitude d’être en concurrence pour l’obtention des ressources limitées'. Les services internes a aussi une image associée disant que seulement 15% du budget Crédités Votés de la DGIIT sont attribués aux projets."
         style="width: 800px; height: inherit;"
         />
     </a>
@@ -113,7 +113,7 @@ Si vous êtes invité à trois réunions virtuelles simultanées, qui comptent t
 ## Adopter une méthode différente pour financer, prioriser et harmoniser le travail en tenant compte des calendriers des programmes
 
 Pour continuer d’améliorer le produit créé dans le cadre d’un projet, il faut des sources de financement durables (pour payer le personnel, par exemple).
-Transitionner à une gestion de produit réduit les frais généraux de gestion relatifs à la gestion et devrait inciter les responsables des programmes à demander un financement suffisant dans le cadre du renouvellement de leur programme pour soutenir le cycle de vie de leurs produits et planifier stratégiquement les améliorations nécessaires à apporter pendant une période donnée.
+Transitionner à une gestion de produit réduit les frais généraux de gestion et devrait inciter les responsables des programmes à demander un financement suffisant dans le cadre du renouvellement de leur programme pour soutenir le cycle de vie de leurs produits et planifier stratégiquement les améliorations nécessaires à apporter pendant une période donnée.
 
 Les [exigences de planification intégrée](https://gcconnex.gc.ca/discussion/view/72865810/dpsd-guide-1-0-for-integrated-planning-guide-pmsn-1-0-pour-le-plan-integre?language=en) de la récente Politique sur les services et le numérique favorisent cette méthode de réflexion (section 4.5 sur la détermination des applications essentielles à la mission dans le portefeuille de GPA).
 
@@ -148,7 +148,7 @@ Une stratégie de retrait doit être élaborée pour la fin du financement des p
 ***Établir le budget en fonction de portefeuilles de produits (équipes de la chaîne de valeur)***
 
 Les produits sont groupés en portefeuilles et gérés par des équipes spécialisées dans la chaîne de valeur.
-Les équipes sont responsables du développement et de l’exploitation des produits.
+Les équipes sont responsables du développement et de la maintenance des produits.
 
 La budgétisation ne se fait pas au niveau du produit, mais au niveau de l’équipe (qui gérera probablement plus d’un produit dans un portefeuille donné).
 La budgétisation est une entente conjointe des responsables de programme et du DPI qui permet de déterminer clairement les sources de financement qui appuieront les équipes de la chaîne de valeur.
