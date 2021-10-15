@@ -61,11 +61,11 @@ More concretely, we mean doing smaller, more frequent changes.
 
 Digital service delivery means using software.
 However, the current DRF format has a gap: it treats software (i.e. IT) as an “Internal Service”.
-Although Internal Services are understood to be horizontal in nature, they unfortunately be interpreted has a “back office function”[^3].
+Although Internal Services are understood to be horizontal in nature, they can unfortunately be interpreted has a “back office function”[^3].
 This disjoints “IT” too much from the Programs.
 We all feel this gap when Programs compete for IT’s attention and limited resources, currently only known to be done as [Gladiator-style project submissions]({{site.baseurl}}{% link _posts/en/2021-05-18-problems-of-project-based-funding.md %}) (or worst, under the table deals that eats up our precious staff’s time and is unseen by decision makers).
 
-Program Officials’ incentives are results. While CIOs’ and CFOs’ are more about integrity and prioritizing over limited departmental resources.
+Program Officials’ incentives are results. While CIOs’ and CFOs’ are about corporate integrity, including prioritizing over limited departmental resources.
 
 <div style="display: block; width: inherit; text-align: center; line-height: 3;">
     <a href="/ITStrategy/assets/images/program_officials-cio-cfo_with_copyrights.png" style="display: block">
@@ -94,14 +94,13 @@ This conundrum can be understood by the typical iceberg visualization.
 **If, in their periodic program renewal activities, Programs do not seek sufficient funding to sustain their digital operations, it affects their results**.
 And when TB funding requests are predictably answered with a reduced budget response, difficult prioritization decisions need to be made (e.g. number of employee laptops procured and maintained, labour costs to make changes to software systems).
 
-The current method to prioritize work is to bundle it as projects, and then compete these projects for the limited resources of the organization, or increase its capacity by hiring or contracting out.
-These projects are currently necessary to obtain new expenditure authorities from parliament[^5], but not if we already have the necessary sources of funds AND authorities.
+The current method to prioritize work is to bundle it as projects, and then compete these projects for the limited resources of the organization.
 This creates a lag for delivery.
 
 And to [get results](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=31300), delivery matters.
 
 ESDC [counts 50 programs](https://dialogue/grp/WG6278300/SitePages/Performance%20Information%20Profiles.aspx) grouped in 5 core responsibilities.
-For common IT services needed to deliver on those programs (e.g. software application development, pension system changes, benefit payment system changes), the competition is ***fierce***.
+For common IT services needed to deliver on those programs (e.g. software application development on the benefit payment system), the competition is ***fierce***.
 Multiple projects collide for IT commitments.
 The bigger the projects, the further in the future the commitments are sought.
 IT’s internal capacity spends a great deal of time managing this overhead and dealing with the inevitable changes that a complex environment like Digital Transformation brings.
@@ -111,11 +110,11 @@ If you’re being invited to three concurrent virtual meetings, all having 70+ p
 ## Towards a different method to fund, prioritize, and align work to Programs’ agenda
 
 Continuing to improve the resulting product that a project created requires sustainable sources of funds (e.g. to pay staff).
-The reduced management overhead in product management should incentivize Programs to seek sufficient funding in their program renewal to sustain their product’s life cycle, and strategically plan the improvements needed over a time horizon.
+Transitioning to product management post-project reduces management overhead and should incentivize Programs to seek sufficient funding in their program renewal to sustain their product’s life cycle, and strategically plan the improvements needed over a time horizon.
 
 The new Policy on Service and Digital’s [integrated planning requirements](https://gcconnex.gc.ca/discussion/view/72865810/dpsd-guide-1-0-for-integrated-planning-guide-pmsn-1-0-pour-le-plan-integre?language=en) promotes this method of thinking (section 4.5 on identifying mission critical applications from their respective APM portfolio).
 
-Product Management[^6] seeks the following tactical changes:
+Product Management[^5] seeks the following tactical changes:
 
   1. Reduce funding lag
   2. Budget portfolios of products (value stream teams)
@@ -130,9 +129,9 @@ The Investment intake process changes to consider this new type of funding model
 
 Criteria are established to guide investment decision makers on whether a particular investment proposal is ripe for this new funding model approach (similarly to [block funding](https://www.innovationpolicyplatform.org/www.innovationpolicyplatform.org/content/block-funding/index.html)). Some of these criteria could include:
 
-1. It is likely that the investment will remain a departmental priority for a minimum of three years[^7]
+1. It is likely that the investment will remain a departmental priority for a minimum of three years[^6]
 2. It involves a solution that requires regular iterations until maturity, retirement, or replacement is achieved (i.e. its requirements are expected to change based on user feedback)
-3. It can commit to deliver periodic business outcomes (in the form of production changes) that are tied to a Program’s performance indicator, typically using a cadence of less than 3 months[^8]
+3. It can commit to deliver periodic business outcomes (in the form of production changes) that are tied to a Program’s performance indicator, typically using a cadence of less than 3 months[^7]
 4. Has cross-functional team(s) from both Business and IT, for the development _and_ operation of the solution.
 5. Has established a yearly Business _and_ IT budget with sources of funds secured
 
@@ -167,12 +166,12 @@ A Product Lifecycle Process is cyclical. It has a start (creation) and an end (d
 
 The proposed product-type assurance is mapped to four [Product Lifecycle Process steps]({{site.baseurl}}/strategy-product-management.html#appendix-c---product-life-cycle-overview):
 
-  1. _Gate 1 – Intake_: the artefacts used to justify the product-based funding model (e.g. multi-yearly budget costing, the value stream teams involved, sources of funds, agreed schedule cadence, [Architecture Boundaries]({{site.baseurl}}/strategy-product-management.html#appendix-a---product-architectural-boundaries))
-  2. _Gate 2 – Review_: a periodic cycle in a product-based model  to review the product’s value and enterprise alignment (e.g. involves a [Product’s outcome-based roadmap]({{site.baseurl}}/strategy-product-management.html#product-roadmap-as-the-investment-plan), Yearly Budget Costing, Key Product Metrics focused on performance indicators change, [Architecture Boundaries]({{site.baseurl}}/strategy-product-management.html#appendix-a---product-architectural-boundaries)).
-  3. _Gate 3 – Continuous Improvements_: the series of releases the product undertakes. It includes approvals to deploy, acceptance reports, and product workload metrics.
-    a. _Gate 3 Updates_: during the continuous improvement step, Product teams perform periodic updates, such as bi-yearly, to corporate committees (e.g. investment board, enterprise architecture review board).
-    b._Gate 2 Reviews_: every X years, Product Teams are expected to go back to Gate 2 and perform product reviews. A review expects some changes (e.g. Architectural boundaries, product roadmap).
-  4. _Gate 4 – Decommission_: the end of life of the product.
+1. _Gate 1 – Intake_: the artefacts used to justify the product-based funding model (e.g. multi-yearly budget costing, the value stream teams involved, sources of funds, agreed schedule cadence, [Architecture Boundaries]({{site.baseurl}}/strategy-product-management.html#appendix-a---product-architectural-boundaries))
+2. _Gate 2 – Review_: a periodic cycle in a product-based model  to review the product’s value and enterprise alignment (e.g. involves a [Product’s outcome-based roadmap]({{site.baseurl}}/strategy-product-management.html#product-roadmap-as-the-investment-plan), Yearly Budget Costing, Key Product Metrics focused on performance indicators change, [Architecture Boundaries]({{site.baseurl}}/strategy-product-management.html#appendix-a---product-architectural-boundaries)).
+3. _Gate 3 – Continuous Improvements_: the series of releases the product undertakes. It includes approvals to deploy, acceptance reports, and product workload metrics.
+   - _Gate 3 Updates_: during the continuous improvement step, Product teams perform periodic updates, such as bi-yearly, to corporate committees (e.g. investment board, enterprise architecture review board).
+   - _Gate 2 Reviews_: every X years, Product Teams are expected to go back to Gate 2 and perform product reviews. A review expects some changes (e.g. Architectural boundaries, product roadmap).
+4. _Gate 4 – Decommission_: the end of life of the product.
 
 These gates represent assurance evidence only, and do not completely reflect the work that a Product team would do (such as [evaluating a previous release](https://014gc.sharepoint.com/sites/JobBankDataCentre/SitePages/In-depth-Analysis.aspx?OR=Teams-HL&CT=1631903451640) using data analytics to inform the product’s strategy and roadmap evolution).
 
@@ -223,7 +222,6 @@ This Product Roadmap would still require having a faster-than-usual cadence othe
 [^2]: Mark Schwartz, War & Peace & IT
 [^3]: See [GCPedia Internal Services portal](https://www.gcpedia.gc.ca/wiki/Internal_Services_Portal)
 [^4]: Images with non-commercial licences taken from emojipng.com, pngegg.com, flyclipart.com, imgflip.com
-[^5]: See Authorities in the [GCInfoBase Glossary](https://www.tbs-sct.gc.ca/ems-sgd/edb-bdd/index-eng.html#glossary)
-[^6]: We've interviewed different federal departments and the industry to get a good enough grasp of what “product management” means. We can confidently say that there are no standard meaning. If two people saying they know what product management is talk to each other, they will hear different things.
-[^7]: Different sources may be used: parliamentary budget, departmental plan, MAF, major events (e.g. pandemic crisis)
-[^8]: While there is no standards, this number was used based on interviews with existing federal government teams that operate in a "product" fashion and industry articles on the subject (e.g. Gartner)
+[^5]: We've interviewed different federal departments and the industry to get a good enough grasp of what “product management” means. We can confidently say that there are no standard meaning. If two people saying they know what product management is talk to each other, they will hear different things.
+[^6]: Different sources may be used: parliamentary budget, departmental plan, MAF, major events (e.g. pandemic crisis)
+[^7]: While there is no standards, this number was used based on interviews with existing federal government teams that operate in a "product" fashion and industry articles on the subject (e.g. Gartner)
