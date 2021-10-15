@@ -112,7 +112,7 @@ If you’re being invited to three concurrent virtual meetings, all having 70+ p
 Continuing to improve the resulting product that a project created requires sustainable sources of funds (e.g. to pay staff).
 Transitioning to product management post-project reduces management overhead and should incentivize Programs to seek sufficient funding in their program renewal to sustain their product’s life cycle, and strategically plan the improvements needed over a time horizon.
 
-The new Policy on Service and Digital’s [integrated planning requirements](https://gcconnex.gc.ca/discussion/view/72865810/dpsd-guide-1-0-for-integrated-planning-guide-pmsn-1-0-pour-le-plan-integre?language=en) promotes this method of thinking (section 4.5 on identifying mission critical applications from their respective APM portfolio).
+The new Policy on Service and Digital's [integrated planning requirements](https://gcconnex.gc.ca/discussion/view/72865810/dpsd-guide-1-0-for-integrated-planning-guide-pmsn-1-0-pour-le-plan-integre?language=en) promotes this method of thinking (section 4.5 on identifying mission critical applications from their respective APM portfolio).
 
 Product Management[^5] seeks the following tactical changes:
 

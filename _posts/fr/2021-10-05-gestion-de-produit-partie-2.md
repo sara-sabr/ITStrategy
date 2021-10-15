@@ -187,7 +187,7 @@ Si oui, c’est l’une des raisons.
 
 La méthode que nous utilisons actuellement pour calculer le travail est appliquée par projet (différents codes de feuille de temps sont créés par projet ou par activité opérationnelle à des fins de tenue à jour).
 Dans un modèle de financement fondé sur les produits, nous nous préoccupons des dépenses accumulées pendant la durée de vie d’un produit et de la provenance des autorisations relatives à ces dépenses.
-Cela a une incidence sur le travail des conseillers en gestion financière (CGF) lorsqu’ils attestent que les équipes des produits consomment et déclarent correctement l’information financière.
+Cela a une incidence sur le travail des conseillers en gestion financière (CGF) lorsqu'ils attestent que les équipes des produits consomment et déclarent correctement l’information financière.
 
 Le [modèle financier des TI est ajusté de la manière suivante]({{site.baseurl}}/strategy-product-management.html#appendix-f---its-financial-model) (en anglais seulement) :
 
