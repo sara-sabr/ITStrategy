@@ -84,7 +84,7 @@ This conundrum can be understood by the typical iceberg visualization.
 <div style="display: block; width: inherit; text-align: center; line-height: 3;">
     <a href="/ITStrategy/assets/images/iceberg_program_internalsrvs.png" style="display: block">
         <img src = "{{ site.baseurl }}/assets/images/iceberg_program_internalsrvs.png"
-        alt = "An iceberg is on the left, with its portion above the water surface saying 'Programs' and its portion under water saying 'Internal Services'. The portion saying 'Programs' points to the Policy on Results while the portion saying 'internal services' points to the mention ' L'image comprend un iceberg à gauche avec sa partie hors de l'eau disant 'Programmes' et sa partProjects are used to compete for limited resources'. The 'internal services' also has an image associated to it saying that only 15% of IITB's A-Base budget is dedicated to projects."
+        alt = "An iceberg is on the left, with its portion above the water surface saying 'Programs' and its portion under water saying 'Internal Services'. The portion saying 'Programs' points to the Policy on Results while the portion saying 'internal services' points to the mention 'Projects are used to compete for limited resources'. The 'internal services' also has an image associated to it saying that only 15% of IITB's A-Base budget is dedicated to projects."
         style="width: 800px; height: inherit;"
         />
     </a>
