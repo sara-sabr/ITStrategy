@@ -1,88 +1,119 @@
-<!--markdownlint-disable MD003 MD033 MD041 MD036 -->
+<!--markdownlint-disable MD001-->
+<!--markdownlint-disable MD026-->
+<!--markdownlint-disable MD029-->
+<!--markdownlint-disable MD033-->
+<!--markdownlint-disable MD035-->
+<!--markdownlint-disable MD036-->
+<!--markdownlint-disable MD041-->
 
-<style>
-.reveal section img { background:none; border:none; box-shadow:none; }
-</style>
+<div class="container">
 
-# Micro-Acquisition Pilot
+<div class="left-half">
+<h3>Pilote de micro-acquisition </h3>
 
-ESDC IT Strategy Team
+Présentation DGIIT en exposition
 
-Note:
+</div>
 
-- we are here today to talk to you about our procurement pilot and we will
-- but first we want to talk a little about what we believe as these beliefs are what are driving this pilot
+<div class="right-half">
+<h3>Micro-Acquisition Pilot</h3>
+
+IITB Showcase Presentation
+</div>
+</div>
 
 ---
 
+<div class="container">
+
+<div class="left-half">
+Il est difficile d’améliorer continuellement les systèmes et les processus sans interrompre leur fonctionnement
+</div>
+<div class="right-half">
 Continuously improving systems and processes while also keeping the lights on is hard
-
-Note:
-
-- productivity dip initially while learning
-- Every department is currently struggling with tech debt
+</div>
+</div>
 
 ---
 
+<div class="container">
+
+<div class="left-half">
+Il est essentiel d’apprendre de nouvelles choses pour suivre le rythme rapide des TI
+</div>
+<div class="right-half">
 Learning new things is essential to keep up with the fast pace of IT
-
-Note:
-
-- and so learning often takes  a back seat
-- But that's a problem because for us CS's (soon to be ITs) its important for us to keep up with the fast pace of IT.
-- The only constant with IT is change.
-- We are interested in teh different ways of learning - not just from taking a course, but from reverse engineering someone else's code.
-(and we know that learning often takes a back seat to operational activities)
+</div>
+</div>
 
 ---
 
+<div class="container">
+
+  <div class="left-half">
+  Le partage d’idées, de solutions et de codes entre les équipes, les directions générales et les services peut libérer du temps précieux
+  </div>
+  <div class="right-half">
 Sharing ideas, solutions and code across teams, branches and departments can free up valuable time
-
-Note:
-
-- reduce duplication - lets not do the same thing. Sharing our work... (add something here from open gov?)
-- participate in a community - you already have some approval to do this - It's part of the Public Service's Value and Ethics, ESDC's Code of Conduct, Directive on Open Government, Direction on enabling open access to web services, Directive on Service and Digital examples of acceptable network and device use, ESDC Network Use Directive.
-- OSS code is more secure
-- e.g. influencers network
+</div>
+</div>
 
 ---
 
+<div class="container">
+
+  <div class="left-half">
+  Les contrats de TI accordés toujours aux mêmes réduisent notre exposition à de nouvelles idées
+  </div>
+    <div class="right-half">
 IT contract dollars going to the same usual suspects reduces our exposure to new ideas
-
-Note:
-
-- We know who these usual suspects are....there are teh big players who win the multi-million dollar contracts and the small local players in the NCR who we see regularly on the smaller contracts.
-- Nothing against any of these companies.
-- But we believe the more variety and diversity of suppliers leads to a great variety and diversity of ideas.
+</div>
+</div>
 
 ---
 
+<div class="container">
+
+  <div class="left-half">
+  Il y a beaucoup d’entreprises de TI pour lesquelles un contrat de 10 000 $ est très important
+  </div>
+      <div class="right-half">
 There is a vast amount of IT talent out there for whom a $10K contract would mean a whole lot
-
-Note:
-
-- for example University students, single parents needing extra income, small scale freelancers
-- Maybe folks who are now unemployed or under employed due to covid.
-- ESDC's mandate of employment drives us in wanting to get GC contract dollars in the hands of these folks.
+</div>
+</div>
 
 ---
 
-**add image of lightbulb**
+<div class="container">
+
+  <div class="left-half">
+  Réglez tous les problèmes avec l’approvisionnement!
+  </div>
+    <div class="right-half">
 Fix everything with procurement!
-
-Note:
-
-- joking. This is a complex problem with multiple solutions contribution to moving us forward.
-- Outsourcing large IT solutions has a problematic track record
-- We are not pro-outsourcing all things.
-- Phoenix, canada.ca email examples of outsourcing gone wrong for many reasons
-- but we believe there is a strong benefit to outsourcing when keeping the lights on means that issues remain stuck in the backlog, or when having no time to learn new skills prevents moving towards modern approaches.
-- procurement could be one piece of the puzzle.
-- what if outsourcing small things could give you the breathing room to learn or bypass the productivity dip of making a change.
+</div>
+</div>
 
 ---
 
-Scope of the Micro-Acquisition pilot
+## Portée | Scope
+
+<div class="container">
+
+  <div class="left-half">
+<small>
+
+- acquisition de codes personnalisés non classifiés
+- autorisé comme source ouverte
+- < 10 000 $
+- aucune cote de sécurité requise
+- travail effectué en toute transparence
+- paiement par carte de crédit
+
+</small>
+</div>
+    <div class="right-half">
+<small>
 
 - procurement of custom unclassified code
 - licenced as open source
@@ -91,45 +122,135 @@ Scope of the Micro-Acquisition pilot
 - work done in the open
 - paid by credit card
 
-Note:
-
-- so we want to introduce you to the micro-acquisition pilot
-- this is a procurement option developed in partnership between IITB and CFOB
-- through this option you can procure custom unlassified code (think automation scripts, accessibility and bug fixes, small add/on modules, data analysis). The code that is delivered must be licenced as open source and the total value of the contract must be less than $10K including taxes. The work is all done on open repositories
-- suppliers face reduced barriers because they do not require a security clearance and qualification does not require business income in the millions nor proof of work of other contracts
+</small>
+</div>
+</div>
 
 ---
-
-<img src="./assets/images/MA-screen-en.png" width="40%" height="40%" alt="screen shot of the index page of the micro-acquisition website" />
 
 https://micro-acquisition.alpha.canada.ca/
 
+<div class="container">
+
+  <div class="left-half">
+  </div>
+      <div class="right-half">
+
+<img src="./assets/images/MA-screen-en.png" width="40%" height="40%" alt="screen shot of the index page of the micro-acquisition website" />
+</div>
+</div>
+
 ---
 
-We are reducing risk through:
+## Réduisons les risques | Reducing risk
+
+<div class="container">
+
+  <div class="left-half">
+
+- critères d’acceptation du code
+- tirer des leçons des autres
+- créer un partenariat avec la DGDPF
+
+</div>
+<div class="right-half">
 
 - code acceptance criteria
 - taking lessons from others who have done this
 - partnership with CFOB
 
-Note:
-
-- before we finish i want to talk briefly about how we are reducing risk
-- opportunity statement must include the tests we will be doing on the code to ensure it meets functional requirements as well as quality and security requirements
-- can't overstate the importance of having CFOB (in particular the procurement innovation team) as our partners in this. simply put they made all the key pieces happen like getting the legal framework in place as well as the payment by credit card. We are so glad to be working on this with them.
+</div>
+</div>
 
 ---
 
+<div class="container">
+
+  <div class="left-half">
+  Vous comptez afficher une opportunité?
+
+Communiquez avec nous à microacquisition@hrsdc-rhdcc.gc.ca
+  </div>
+  <div class="right-half">
 Think you might be interested in posting an opportunity?
 
 Contact us at: microacquisition@hrsdc-rhdcc.gc.ca
+</div>
+</div>
 
 --
 
-Also check out:
+## Liens | Links
 <small>
+<div class="container">
+
+  <div class="left-half">
+
+- Pour en savoir plus sur le projet pilote de microacquisition : https://sara-sabr.github.io/ITStrategy/pilote-de-micro-acquisition.html
+- Échange de ressources ouvert : https://code.ouvert.canada.ca/fr/index.html
+- Formulaires GC : https://forms-formulaires.alpha.canada.ca/fr/welcome-bienvenue
+- en anglais seulement
+- en anglais seulement
+
+</div>
+  <div class="right-half">
+
 - More info on the micro-acquisition pilot: https://sara-sabr.github.io/ITStrategy/micro-acquisition-pilot.html
 - The Open Resource Exchange: https://code.open.canada.ca/en/index.html
-- GC Forms: https://forms-formulaires.alpha.canada.ca/en/welcome-bienvenue
+- GC Forms: https://forms-formulaires.alpha.canada.ca/welcome-bienvenue
 - The BC Digital Marketplace: https://digital.gov.bc.ca/marketplace
-- The BC Developers Exchange: https://bcdevexchange.org/ </small>
+- The BC Developers Exchange: https://bcdevexchange.org/
+
+</div>
+</div>
+
+<style>
+
+  img.image-x-large {
+    height: 600px;
+  }
+
+  img.image-large {
+    height: 500px;
+  }
+
+  img.image-medium {
+    height: 435px;
+  }
+
+  img.image-small {
+    height: 365px;
+  }
+
+  .long-text li, .long-text p {
+    font-size: 30px;
+  }
+
+  /*Pattern styles*/
+  .container {
+    display: table;
+    width: 100%;
+  }
+
+  .left-half {
+    position: absolute;
+    left: -15px;
+    width: 50%;
+  }
+
+  .right-half {
+    background-color: rgba(147,161,161, 0.15);
+    position: absolute;
+    right: -15px;
+    width: 50%;
+  }
+
+  .shared-content {
+    padding-top: 150px;
+  }
+
+  .shared-content-thin {
+    padding-top: 50px;
+  }
+
+</style>
