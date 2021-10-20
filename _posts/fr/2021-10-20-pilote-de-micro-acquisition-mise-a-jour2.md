@@ -4,7 +4,7 @@ title:  "Pilote de micro-acquisition : mise à jour du statut 2"
 ref: micro-acquisition-update2
 lang: fr
 author: "Rachel Muston, en collaboration avec l’équipe de stratégie de la technologie de l’information (TI) et les membres de l’équipe du projet pilote de micro-acquisition"
-date: "2021-08-20"
+date: "2021-10-20"
 excerpt: "Le pilote de micro-acquisition est en ligne ! Dans ce billet de blogue, nous partageons ce que nous avons appris jusqu'à présent et comment nous nous ajustons et nous améliorons."
 ---
 <!-- markdownlint-disable MD033 -->
@@ -26,7 +26,7 @@ Nous avons également mis à jour le texte sur la page des opportunités afin d�
 
 ## Mise à jour des questions d’évaluation
 
-Nous avons réalisé, à partir des candidatures que nous avons reçues, qu’il y avait des personnes qui pourraient probablement effectuer le travail, mais la formulation de nos critères d’évaluation nous a empêchés de leur donner une chance parce qu’ils n’avaient pas d’expérience spécifique dans Powershell.
+Nous avons réalisé, à partir des candidatures que nous avons reçues pour la première opportunité, qu’il y avait des personnes qui pourraient probablement effectuer le travail, mais la formulation de nos critères d’évaluation nous a empêchés de leur donner une chance parce qu’ils n’avaient pas d’expérience spécifique dans Powershell.
 Dans la mesure du possible, les futures opportunités verront les critères d’évaluation passer de :
 > Veuillez fournir une courte déclaration écrite démontrant comment vous possédez les compétences requises dans x.
 

@@ -4,7 +4,7 @@ title:  "Micro-Acquisition Pilot: Status Update 2"
 ref: micro-acquisition-update2
 lang: en
 author: "Rachel Muston, in collaboration with the Information Technology (IT) Strategy team and Micro-Acquisition Pilot team members"
-date: "2021-08-20"
+date: "2021-10-20"
 excerpt: "The Micro-Acquisition pilot is live! In this blog post we share what we have learned so far and how we are adjusting and improving."
 ---
 <!-- markdownlint-disable MD033 -->
@@ -26,7 +26,7 @@ We also updated the text on the opportunities page to be clearer about what info
 
 ## Updated evaluation question
 
-We realized from the applications we received that there were people who likely could do the work but the phrasing of our evaluation criteria prevented us from giving them a pass because they didn't have experience specifically in Powershell.
+We realized from the applications we received for the first opportunity, that there were people who likely could do the work but the phrasing of our evaluation criteria prevented us from giving them a pass because they didn't have experience specifically in Powershell.
 Where possible, future opportunities will see the evaluation criteria change from:
 > Please provide a short written statement demonstrating how you have the required skills in x.
 
