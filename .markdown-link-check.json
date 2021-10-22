@@ -131,6 +131,9 @@
    },
    {
     "pattern": "https://www.pmi.org"
+  },
+  {
+    "pattern": "http://goodbadstrategy.com/"
   }
   ]
 }
