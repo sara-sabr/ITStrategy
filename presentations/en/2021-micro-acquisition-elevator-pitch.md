@@ -96,12 +96,9 @@ Fix everything with procurement!
 
 ---
 
-## Portée | Scope
-
 <div class="container">
 
   <div class="left-half">
-<small>
 
 - acquisition de codes personnalisés non classifiés
 - autorisé comme source ouverte
@@ -110,10 +107,8 @@ Fix everything with procurement!
 - travail effectué en toute transparence
 - paiement par carte de crédit
 
-</small>
 </div>
     <div class="right-half">
-<small>
 
 - procurement of custom unclassified code
 - licenced as open source
@@ -122,7 +117,6 @@ Fix everything with procurement!
 - work done in the open
 - paid by credit card
 
-</small>
 </div>
 </div>
 
@@ -133,20 +127,20 @@ https://micro-acquisition.alpha.canada.ca/
 <div class="container">
 
   <div class="left-half">
+  <img src="./assets/images/MA-ecran.png" width="40%" height="40%" alt="capture d'écran de la page d'index du site web de micro-acquisition" />
   </div>
       <div class="right-half">
 
-<img src="./assets/images/MA-screen-en.png" width="40%" height="40%" alt="screen shot of the index page of the micro-acquisition website" />
+<img src="./assets/images/MA-screen.png" width="40%" height="40%" alt="screen shot of the index page of the micro-acquisition website" />
 </div>
 </div>
 
 ---
 
-## Réduisons les risques | Reducing risk
-
 <div class="container">
 
   <div class="left-half">
+Nous réduisons les risques par:
 
 - critères d’acceptation du code
 - tirer des leçons des autres
@@ -154,6 +148,7 @@ https://micro-acquisition.alpha.canada.ca/
 
 </div>
 <div class="right-half">
+How we are reducing risk:
 
 - code acceptance criteria
 - taking lessons from others who have done this
