@@ -96,9 +96,11 @@ Fix everything with procurement!
 
 ---
 
+### Micro-acquisition
+
 <div class="container">
 
-  <div class="left-half">
+  <div class="left-half list-text">
 
 - acquisition de codes personnalisés non classifiés
 - autorisé comme source ouverte
@@ -108,7 +110,7 @@ Fix everything with procurement!
 - paiement par carte de crédit
 
 </div>
-    <div class="right-half">
+    <div class="right-half list-text">
 
 - procurement of custom unclassified code
 - licenced as open source
@@ -122,25 +124,26 @@ Fix everything with procurement!
 
 ---
 
-https://micro-acquisition.alpha.canada.ca/
+<small>https://micro-acquisition.alpha.canada.ca/</small>
 
 <div class="container">
 
   <div class="left-half">
-  <img src="./assets/images/MA-ecran.png" width="40%" height="40%" alt="capture d'écran de la page d'index du site web de micro-acquisition" />
+  <img src="./assets/images/MA-ecran.png" width="80%" height="80%" alt="capture d'écran de la page d'index du site web de micro-acquisition" />
   </div>
       <div class="right-half">
 
-<img src="./assets/images/MA-screen.png" width="40%" height="40%" alt="screen shot of the index page of the micro-acquisition website" />
+<img src="./assets/images/MA-screen.png" width="80%" height="80%" alt="screen shot of the index page of the micro-acquisition website" />
 </div>
 </div>
 
 ---
 
+### Réduire les risques | Reducing risks
+
 <div class="container">
 
   <div class="left-half">
-Nous réduisons les risques par:
 
 - critères d’acceptation du code
 - tirer des leçons des autres
@@ -148,7 +151,6 @@ Nous réduisons les risques par:
 
 </div>
 <div class="right-half">
-How we are reducing risk:
 
 - code acceptance criteria
 - taking lessons from others who have done this
@@ -175,11 +177,12 @@ Contact us at: microacquisition@hrsdc-rhdcc.gc.ca
 
 --
 
-## Liens | Links
-<small>
+### Liens | Links
+
 <div class="container">
 
   <div class="left-half">
+<small>
 
 - Pour en savoir plus sur le projet pilote de microacquisition : https://sara-sabr.github.io/ITStrategy/pilote-de-micro-acquisition.html
 - Échange de ressources ouvert : https://code.ouvert.canada.ca/fr/index.html
@@ -187,8 +190,10 @@ Contact us at: microacquisition@hrsdc-rhdcc.gc.ca
 - en anglais seulement
 - en anglais seulement
 
+</small>
 </div>
   <div class="right-half">
+<small>
 
 - More info on the micro-acquisition pilot: https://sara-sabr.github.io/ITStrategy/micro-acquisition-pilot.html
 - The Open Resource Exchange: https://code.open.canada.ca/en/index.html
@@ -196,6 +201,7 @@ Contact us at: microacquisition@hrsdc-rhdcc.gc.ca
 - The BC Digital Marketplace: https://digital.gov.bc.ca/marketplace
 - The BC Developers Exchange: https://bcdevexchange.org/
 
+</small>
 </div>
 </div>
 
@@ -221,6 +227,10 @@ Contact us at: microacquisition@hrsdc-rhdcc.gc.ca
     font-size: 30px;
   }
 
+  .list-text {
+    font-size: 30px;
+  }
+
   /*Pattern styles*/
   .container {
     display: table;
@@ -231,6 +241,8 @@ Contact us at: microacquisition@hrsdc-rhdcc.gc.ca
     position: absolute;
     left: -15px;
     width: 50%;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
   }
 
   .right-half {
@@ -238,6 +250,8 @@ Contact us at: microacquisition@hrsdc-rhdcc.gc.ca
     position: absolute;
     right: -15px;
     width: 50%;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
   }
 
   .shared-content {
