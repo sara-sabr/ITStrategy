@@ -84,18 +84,6 @@ There is a vast amount of IT talent out there for whom a $10K contract would mea
 
 ---
 
-<div class="container">
-
-  <div class="left-half">
-  Réglez tous les problèmes avec l’approvisionnement!
-  </div>
-    <div class="right-half">
-Fix everything with procurement!
-</div>
-</div>
-
----
-
 ### Micro-acquisition
 
 <div class="container">
