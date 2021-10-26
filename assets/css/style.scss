@@ -707,3 +707,51 @@ code {
 margin-right: 60px;
 text-align: justify;
 text-justify: inter-word; }
+
+/*============= Blogs =============*/
+img.image-x-large {
+  height: 600px;
+}
+
+img.image-large {
+  height: 500px;
+}
+
+img.image-medium {
+  height: 435px;
+}
+
+img.image-small {
+  height: 365px;
+}
+
+.long-text li, .long-text p {
+  font-size: 30px;
+}
+
+/*Pattern styles*/
+.container {
+  display: table;
+  width: 100%;
+}
+
+.left-half {
+  position: absolute;
+  left: -15px;
+  width: 50%;
+}
+
+.right-half {
+  background-color: rgba(147,161,161, 0.15);
+  position: absolute;
+  right: -15px;
+  width: 50%;
+}
+
+.shared-content {
+  padding-top: 150px;
+}
+
+.shared-content-thin {
+  padding-top: 50px;
+}
