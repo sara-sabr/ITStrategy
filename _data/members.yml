@@ -79,3 +79,14 @@
     en: Sports, reading, family
     fr: Sports, lecture, famille
   picture_path: assets/images/profile-phil.jpg
+  - name: Leigh Gardner
+  title: 
+    en: Analyst, IT Business Line Support Services
+    fr: Analyste, Services soutien secteur TI
+  email: leigh.s.gardner@hrsdc-rhdcc.gc.ca; 
+  github: LeighGardner
+  twitter: LeighSGardner
+  interests: 
+    en: Communications, Web Design, Business and Real Estate
+    fr: 
+  picture_path: assets/images/profile-leigh.jpg
