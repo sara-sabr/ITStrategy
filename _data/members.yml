@@ -92,13 +92,12 @@
   picture_path: assets/images/profile-leigh.png
 - name: James Santos
   title: 
-    en: 
-    fr: 
-  email:  
-  github: 
-  twitter: 
+    en: Technical Advisor
+    fr: Conseiller technique
+  email: james.santos@hrsdc-rhdcc.gc.ca
+  github: JSantosPS
   interests: 
-    en: 
+    en: Strategy, building strong relationships, soccer
     fr: 
   picture_path: assets/images/profile-james.png
 
