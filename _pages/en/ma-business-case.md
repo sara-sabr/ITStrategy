@@ -14,57 +14,51 @@ Proposal: A pilot to simplify micro-procurement of open source code at ESDC
 
 ## Contents
 
-[1.0 Business Need Definition 2](#business-need-definition)
+- [Contents](#contents)
+- [Business Need Definition](#business-need-definition)
+  - [Problem](#problem)
+  - [Proposal](#proposal)
+  - [Rationale/Background](#rationalebackground)
+  - [Consequence of Inaction](#consequence-of-inaction)
+- [Summary of Objectives](#summary-of-objectives)
+  - [Policy Alignment](#policy-alignment)
+  - [CFOB review](#cfob-review)
+  - [IITB review](#iitb-review)
+- [Rough order of magnitude](#rough-order-of-magnitude)
+  - [Cost of planning and technology delivery](#cost-of-planning-and-technology-delivery)
+  - [Cost of operation (1-year pilot)](#cost-of-operation-1-year-pilot)
+  - [Potential Source(s) of Funds](#potential-sources-of-funds)
+  - [ROM duration Range](#rom-duration-range)
+- [Stakeholders](#stakeholders)
+  - [Phase 1: Planning and Technology Delivery](#phase-1-planning-and-technology-delivery)
+  - [Phase 2: Pilot Operations](#phase-2-pilot-operations)
+- [Consultations/Collaboration](#consultationscollaboration)
+- [Benefits](#benefits)
+  - [Benefit 1: Increase the number of IITB teams that work in the open](#benefit-1-increase-the-number-of-iitb-teams-that-work-in-the-open)
+  - [Benefit 2: Increased re-use of code (Using open standards and solutions)](#benefit-2-increased-re-use-of-code-using-open-standards-and-solutions)
+  - [Benefit 3: Improve diversity in GC IT contracting](#benefit-3-improve-diversity-in-gc-it-contracting)
+  - [Benefit 4: Increase the knowledge of new software/tools by IITB employees](#benefit-4-increase-the-knowledge-of-new-softwaretools-by-iitb-employees)
+  - [Benefit 5: Reduced burden on ESDC Contracting Officers](#benefit-5-reduced-burden-on-esdc-contracting-officers)
+- [Measuring Success](#measuring-success)
+- [Risks](#risks)
+- [Communications](#communications)
+- [Annexes](#annexes)
+  - [Annex A: Proposed Design Elements](#annex-a-proposed-design-elements)
+    - [Opportunities](#opportunities)
+    - [Platform](#platform)
+    - [Reporting](#reporting)
+    - [Suppliers](#suppliers)
+    - [Documentation](#documentation)
+  - [Annex B: Proposed Process](#annex-b-proposed-process)
+    - [Contract process](#contract-process)
+    - [Completion of work and acceptance process](#completion-of-work-and-acceptance-process)
+    - [Payment process](#payment-process)
+  - [Annex C: Draft Opportunity template fields](#annex-c-draft-opportunity-template-fields)
+  - [Annex D: The GC Developers Exchange](#annex-d-the-gc-developers-exchange)
 
-[1.1 Problem 2](#problem)
+## Business Need Definition
 
-[1.2 Proposal 3](#proposal)
-
-[1.3 Rationale/Background 3](#rationalebackground)
-
-[1.4 Consequence of Inaction 5](#consequence-of-inaction)
-
-[1.5 Summary of Objectives 5](#summary-of-objectives)
-
-[1.6 Policy Alignment 5](#policy-alignment)
-
-[1.7 CFOB review 6](#cfob-review)
-
-[1.8 IITB review 6](#iitb-review)
-
-[2.0 Rough order of magnitude 7](#rough-order-of-magnitude)
-
-[2.1 Cost of planning and technology delivery 7](#cost-of-planning-and-technology-delivery)
-
-[2.2 Cost of operation (1-year pilot) 8](#cost-of-operation-1-year-pilot)
-
-[2.3 Potential Source(s) of Funds 9](#potential-sources-of-funds)
-
-[2.4 ROM duration Range 9](#rom-duration-range)
-
-[3.0 Stakeholders 9](#stakeholders)
-
-[4.0 Consultations/Collaboration 15](#consultationscollaboration)
-
-[5.0 Benefits 18](#benefits)
-
-[6.0 Measuring Success 20](#measuring-success)
-
-[7.0 Risks 20](#risks)
-
-[8.0 Communications 22](#communications)
-
-[Annex A: Proposed Design Elements 23](#annex-a-proposed-design-elements)
-
-[Annex B: Proposed Process 24](#annex-b-proposed-process)
-
-[Annex C: Draft Opportunity template fields 26](#annex-c-draft-opportunity-template-fields)
-
-[Annex D: The GC Developers Exchange 27](#annex-d-the-gc-developers-exchange)
-
-## 1.0 Business Need Definition
-
-### 1.1 Problem
+### Problem
 
 Many advancements have been made to modernize IT Procurement at ESDC, such as Capacity on Demand.
 However, when it comes to coding, development and working in the open, there are still procurement challenges that exist.
@@ -84,7 +78,7 @@ See [IITB’s Target IT Solution Delivery Model](https://sara-sabr.github.io/ITS
 
 Additionally, while micro-procurement contracts are low dollar value[3] and low risk, they take up a lot of time of procurement officers, whose expertise is needed for complex and high-risk procurements.
 
-### 1.2 Proposal
+### Proposal
 
 Put in place a pilot and platform at ESDC for micro-procurement of software.
 This pilot would be spearheaded by a partnership between IITB and CFOB and would run for one year
@@ -102,7 +96,7 @@ The procured code would simply be made available to the GC under an open source 
 If this pilot is deemed to be successful, a formal project could be initiated to scale up to a broader, more permanent service within ESDC (see more on this in section 6.0 Measuring Success).
 It is also possible that the micro-procurement of software could be scaled up to the GC level.
 
-### 1.3 Rationale/Background
+### Rationale/Background
 
 The connection between Procurement, IT and business transformation is noted in the Canadian Digital Operations Strategic Plan 2018-2022 which says that *“If modern technology is an essential enabler for digital government, procurement modernization is an equally essential enabler of modern technology.”*, and by Gartner who recently released their Procurement in 2020 and Beyond report. In this report they recommend shifting the ownership for low and mid-tier purchases away from corporate procurement teams so that those teams can focus primarily on strategic, high value, high-risk purchases[4].
 
@@ -127,7 +121,7 @@ Furthermore, it is [government policy](https://www.tbs-sct.gc.ca/pol/doc-eng.asp
 Acquisition Cards provide a convenient, less cumbersome way to buy and pay for low dollar value, low risk goods and services.
 They facilitate and simplify the procurement process for managers and employees, while streamlining the payment process for suppliers and departmental accounting units.
 
-### 1.4 Consequence of Inaction
+### Consequence of Inaction
 
 The consequences of not moving forward with this pilot include:
 
@@ -143,7 +137,7 @@ The consequences of not moving forward with this pilot include:
 
 6. Missed opportunities for quick wins
 
-## 1.5 Summary of Objectives
+## Summary of Objectives
 
 This 1-year pilot will gain empirical evidence in order to validate the following hypothesis:
 
@@ -154,7 +148,7 @@ If low dollar value[5] procurement of code was simplified for both ESDC teams an
 - Reduced workload burden on ESDC procurement officers by allowing them to focus on more complex procurements
 - Increased ESDC capabilities around agile including breaking work up into smaller chunks which drive high software delivery and organizational performance
 
-### 1.6 Policy Alignment
+### Policy Alignment
 
 At the GC level, this pilot is aligned with the [GC Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html), the [Digital Operations Strategic Plan (2018-22)](https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html), the [Minister of Digital Government’s mandate letter](https://pm.gc.ca/en/mandate-letters/2019/12/13/minister-digital-government-mandate-letter) and the [Digital Nations Charter](https://www.canada.ca/en/government/system/digital-government/improving-digital-services/digital9charter.html) (Canada is a signatory).
 
@@ -164,7 +158,7 @@ Details on alignment can be found in the Benefits section.
 Within ESDC, this pilot is aligned with ESDC’s Departmental Plan 2019-2020 intent to “continue to pursue innovation and experimentation to learn from the successes and failures that come from testing new and different approaches to policy development, program design, and service delivery”[6].
 There is also alignment with the practices related to procurement in ESDC’s OSS Management Framework.
 
-### 1.7 CFOB review
+### CFOB review
 
 The design of this pilot and related processes will be done to ensure alignment with Treasury Board’s [Directive on Payments](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32504) and ESDC’s [Acquisition Card Policy](http://iservice.prv/eng/finance/policies/ad/acqcard_policy.shtml).
 CFOB has reviewed contracting policy and acquisition card policy and has found no issues with the proposed approach of the micro-procurement pilot.
@@ -176,7 +170,7 @@ For the purposes of the pilot, none of the contract delivery locations will be i
 CFOB has reviewed the Policy on Decision Making in Limiting Contractor Liability in Crown Procurement Contracts and given the nature of open source software and the value of the requirements, the risk is determined to be low.
 Therefore, we will remain silent on the issue of indemnification of the Crown in resulting contract clauses.
 
-### 1.8 IITB review
+### IITB review
 
 The Micro-Acquisitions website where opportunities are posted will be thoroughly tested to ensure GC accessibility requirements are met.
 Any emails sent to suppliers will only include text or files which are accessible.
@@ -187,28 +181,75 @@ All code received from suppliers will be Quality Assurance tested using automate
 
 Suppliers will not need security clearance as all work was unclassified and virtual.
 
-## 2.0 Rough order of magnitude
+## Rough order of magnitude
 
-### 2.1 Cost of planning and technology delivery
+### Cost of planning and technology delivery
 
 The total estimated cost of planning and technology delivery is $96K\*.
 
 Costs for the planning and technology delivery include a non-salary cost of $15 for a domain registration as well as salary costs of approx. $96K from both the CFOB team and the IITB team (using existing FTEs). Details in the following table:
 
-| **Team**                                             | **Total employees** | **Total Estimated level of effort (days)** | **Estimated cost\*** | **Details**                                                   |
-|------------------------------------------------------|---------------------|--------------------------------------------|----------------------|---------------------------------------------------------------|
-| **Salary**                                           |                     |                                            |                      |                                                               |
-| CFOB: Procurement specialists                        | 3                   | 31                                         | $15K                 | Process design, IP experts, payment experts                   |
-| IITB: Technical team                                 | 3                   | 158                                        | $81K                 | Developers, designers, open source experts, UX, project lead. |
-| **Total Salary**                                     | **5**               | 178                                        | **$96K**             |                                                               |
-| **Non-Salary**                                       |                     |                                            |                      |                                                               |
-| IITB: Technical team                                 | N/A                 | N/A                                        | $0.015K              | Domain name registration                                      |
-| **Total Non-Salary**                                 | **N/A**             | **N/A**                                    | **$0.015K**          |                                                               |
-| **TOTAL COSTS FOR PLANNING AND TECHNOLOGY DELIVERY** |           |                                            | **$96K**                      |                                                               |
+<table>
+    <thead>
+        <th><strong>Team</strong></th>
+        <th><strong>Total employees</strong></th>
+        <th><strong>Total Estimated level of effort (days)</strong></th>
+        <th><strong>Estimated cost*</strong></th>
+        <th><strong>Details</strong></th>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan="5"><strong>Salary</strong></td>
+        </tr>
+        <tr>
+            <td>CFOB: Procurement specialists</td>
+            <td>3</td>
+            <td>31</td>
+            <td>$15K</td>
+            <td>Process design, IP experts, payment experts</td>
+        </tr>
+        <tr>
+            <td>IITB: Technical team</td>
+            <td>3</td>
+            <td>158</td>
+            <td>$81K</td>
+            <td>Developers, designers, open source experts, UX, project lead</td>
+        </tr>
+        <tr>
+            <td>Total Salary</td>
+            <td><strong>5</strong></td>
+            <td><strong>178</strong></td>
+            <td><strong>$96K</strong></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td colspan="5"><strong>Non-Salary</strong></td>
+        </tr>
+        <tr>
+            <td>IITB: Technical team</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>$0.015K</td>
+            <td>Domain name registration</td>
+        </tr>
+        <tr>
+            <td><strong>Total Non-Salary</strong></td>
+            <td><strong>N/A</strong></td>
+            <td><strong>N/A</strong></td>
+            <td><strong>$0.015K</strong></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td colspan="3"><strong>TOTAL COSTS FOR PLANNING AND TECHNOLOGY DELIVERY</strong></td>
+            <td><strong>$96K</strong></td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
 
 <small>* For salary costs, EBP and non-salary costs related to salary are not included</small>
 
-### 2.2 Cost of operation (1-year pilot)
+### Cost of operation (1-year pilot)
 
 The total estimated cost of operation for the 1-year pilot is $210K\*.
 
@@ -222,37 +263,83 @@ In addition, there will be auditing, and monitoring work and general procurement
 This work would be done by Chief Financial Officer Branch staff.
 Further details on the proposed Roles and Responsibilities can be found in Section 9.0. As such, ESDC SAL requirements for the operation of the micro-procurement pilot are as follows:
 
-| **Team**                                   | **Total employees** | **Level of effort (days)** | **Estimated cost\*** | **Details**                                                                                                                      |
-|--------------------------------------------|---------------------|----------------------------|----------------------|----------------------------------------------------------------------------------------------------------------------------------|
-| **Salary**                                 |                     |                            |                      |                                                                                                                                  |
-| CFOB: Procurement specialists              | 2                   | 7                          | $3K                  | Procurement innovation team (auditing and reporting, process refinement, answers to sticky procurement questions from suppliers) |
-| IITB: Technical team                       | 4                   | 305                        | $147K                | Developers, open source experts                                                                                                  |
-| **Total Salary**                           |                     |                            | **$150K**            |                                                                                                                                  |
-| **Non-Salary**                             |                     |                            |                      |                                                                                                                                  |
-| IITB: Technical team                       | N/A                 | N/A                        | $50K                 | Seed funding for procurements as well as to enable cost management (while waiting for budget transfers from other teams)         |
-| **Total non-Salary**                       | **N/A**             | **N/A**                    | **$50K**             |                                                                                                                                  |
-| **TOTAL COST OF OPERATION (ONE YEAR PILOT)** |         |                            |   **$200K**                    |                                                                                                                                   |
+<table>
+    <thead>
+        <th><strong>Team</strong></th>
+        <th><strong>Total employees</strong></th>
+        <th><strong>Level of effort (days)</strong></th>
+        <th><strong>Estimated cost</strong></th>
+        <th><strong>Details</strong></th>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan="5"><strong>Salary</strong></td>
+        </tr>
+        <tr>
+            <td>CFOB: Procurement specialists</td>
+            <td>2</td>
+            <td>7</td>
+            <td>$3K</td>
+            <td>Procurement innovation team (auditing and reporting, process refinement, answers to sticky procurement questions from suppliers)</td>
+        </tr>
+        <tr>
+            <td>IITB: Technical team</td>
+            <td>4</td>
+            <td>305</td>
+            <td>$147K</td>
+            <td>Developers, open source experts</td>
+        </tr>
+        <tr>
+            <td colspan="3"><strong>Total Salary</strong></td>
+            <td><strong>$150K</strong></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td colspan="5"><strong>Non-Salary</strong></td>
+        </tr>
+        <tr>
+            <td>IITB: Technical team</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>$50K</td>
+            <td>Seed funding for procurements as well as to enable cost management (while waiting for budget transfers from other teams)</td>
+        </tr>
+        <tr>
+            <td><strong>Total non-Salary</strong></td>
+            <td><strong>N/A</strong></td>
+            <td><strong>N/A</strong></td>
+            <td><strong>$50K</strong></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td colspan="3"><strong>TOTAL COST OF OPERATION (ONE YEAR PILOT)</strong></td>
+            <td><strong>$200K</strong></td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
 
 <small>* For salary costs, EBP and non-salary costs related to salary are not included</small>
 
 Further details of the activities and roles and responsibilities can be found in the Stakeholder section.
 
-### 2.3 Potential Source(s) of Funds
+### Potential Source(s) of Funds
 
 IITB-SABR and CFOB will leverage their existing employees to run the pilot.
 
 The $50K will be sourced through the P0 Business Case exercise however, it is not a mandatory expense to ensure the success of the Micro-Procurement pilot.
 
-### 2.4 ROM duration Range
+### ROM duration Range
 
 An estimated timeline for the planning and development phase as well as the one year the pilot is operational is as follows:
 
-| Planning and Technology Delivery | |  Pilot launch   |     |     |  Pilot Complete     |
-|----------------------------------|-----------------------------|-----|-----|-----|-----|
-| Q3                               | Q4                          | Q1  | Q2  | Q3  | Q4  |
-| **2020-21**                      |                |  **2021-22**     |     |     |     |
+**Q3 2020:** Planning and Technology Delivery
 
-## 3.0 Stakeholders
+**Q1 2021:** Pilot Launch
+
+**Q4 2021:** Pilot Complete
+
+## Stakeholders
 
 Stakeholders will be involved in both Phase 1: planning and technology delivery as well as Phase 2: pilot operations. The roles and involvement of stakeholders is outlined below.
 
@@ -269,58 +356,617 @@ I: Informed
 ### Phase 1: Planning and Technology Delivery
 
 <table>
-<thead>
-<tr class="header">
-<th></th>
-<th><blockquote><p><strong>IT</strong></p><p><strong>Strategy</strong></p><p><strong>Team </strong></p></blockquote></th>
-<th><blockquote><p><strong>CFOB Procurement</strong></p></blockquote><th>
-<th><blockquote><p><strong>Clients</strong></p></blockquote></th>
-<th><blockquote><p><strong>Suppliers</strong></p></blockquote></th><th><blockquote><p><strong>IITB</strong></p><p><strong>Procurement</strong></p><p><strong>Team</strong></p></blockquote></th>
-<th><blockquote><p><strong>OSME</strong></p><p><strong>(PSPC)</strong></p></blockquote></th>
-<th><blockquote><p><strong>IP</strong></p><p><strong>CoE</strong></p><p><strong>(ESDC)</strong></p></blockquote></th>
-<th><blockquote><p><strong>ESDC</strong></p><p><strong>OSS</strong></p><p><strong>Framework</strong></p><p><strong>Team</strong></p></blockquote></th>
-<th><blockquote><p><strong>Legal</strong></p><p><strong>(PSPC)</strong></p></blockquote></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Finalize and obtain approvals to go forward with the pilot</td>
-<td>A/R</td>
-<td>A/R</td>
-<td></td>
-<td></td>
-<td>C</td>
-<td>I</td>
-<td></td>
-<td>I</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>Produce procurement and payment processes</td>
-<td>R</td>
-<td>A/C*</td>
-<td></td>
-<td></td>
-<td>C</td>
-<td>C</td>
-<td></td>
-<td></td>
-<td>C</td>
-</tr>
-<tr class="odd"><td>Produce high-level system architecture</td><td>A/R</td><td>C</td><td></td><td></td><td>C</td><td></td><td></td><td></td><td></td></tr><tr class="even"><td>Design (technical components)</td><td>A/R</td><td>C</td><td></td><td></td><td></td><td>C</td><td></td><td></td><td></td></tr><tr class="odd"><td>Build (the technical components)</td><td>A/R</td><td>I</td><td></td><td></td><td>I</td><td></td><td></td><td></td><td></td></tr><tr class="even"><td>Testing</td><td>A/R</td><td>C</td><td>C</td><td>C?</td><td>C</td><td>C</td><td></td><td>I</td><td></td></tr><tr class="odd"><td>Complete SA&amp;A and obtain ATO (*only if required)</td><td>A/R</td><td>I</td><td></td><td></td><td>I</td><td></td><td></td><td></td><td></td></tr><tr class="even"><td>Produce procedures for suppliers</td><td>A/R</td><td>C</td><td></td><td></td><td>C</td><td>C</td><td></td><td></td><td></td></tr><tr class="odd"><td>Produce procedures for clients and ESDC procurement/financial personnel (checklists, FAQ, contract splitting)</td><td>A/R</td><td>C</td><td></td><td></td><td>C</td><td>C</td><td></td><td></td><td></td></tr><tr class="even"><td>Produce communication plan</td><td>A/R</td><td>C</td><td></td><td></td><td>I</td><td>C</td><td></td><td></td><td></td></tr><tr class="odd"><td>Write and get approval on process and contract terms and conditions</td><td>I</td><td>A/R</td><td></td><td></td><td></td><td>C</td><td></td><td></td><td>C**</td></tr><tr class="even"><td>Identify and/or add licence terms</td><td>A/R</td><td>C</td><td></td><td></td><td></td><td>C</td><td>C</td><td></td><td></td></tr><tr class="odd"><td>Communication activities</td><td>A/R</td><td>C</td><td>I</td><td>I</td><td>I</td><td>C</td><td></td><td>I</td><td></td></tr><tr class="even"><td>Produce audit and reporting process</td><td>C</td><td>A/R</td><td></td><td></td><td>C</td><td></td><td></td><td></td><td></td></tr></tbody></table>
+    <thead>
+        <tr class="header">
+            <th></th>
+            <th><strong>IT Strategy Team</strong></th>
+            <th><strong>CFOB Procurement</strong></th>
+            <th><strong>Clients</strong></th>
+            <th><strong>Suppliers</strong></th>
+            <th><strong>IITB Procurement Team</strong></th>
+            <th><strong>OSME (PSPC)</strong></th>
+            <th><strong>IP CoE (ESDC)</strong></th>
+            <th><strong>ESDC OSS Framework Team</strong></th>
+            <th><strong>Legal (PSPC)</strong></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr class="odd">
+            <td>Finalize and obtain approvals to go forward with the pilot</td>
+            <td>A/R</td>
+            <td>A/R</td>
+            <td></td>
+            <td></td>
+            <td>C</td>
+            <td>I</td>
+            <td></td>
+            <td>I</td>
+            <td></td>
+        </tr>
+        <tr class="even">
+            <td>Produce procurement and payment processes</td>
+            <td>R</td>
+            <td>A/C*</td>
+            <td></td>
+            <td></td>
+            <td>C</td>
+            <td>C</td>
+            <td></td>
+            <td></td>
+            <td>C</td>
+        </tr>
+        <tr class="odd">
+            <td>Produce high-level system architecture</td>
+            <td>A/R</td>
+            <td>C</td>
+            <td></td>
+            <td></td>
+            <td>C</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="even">
+            <td>Design (technical components)</td>
+            <td>A/R</td>
+            <td>C</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>C</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="odd">
+            <td>Build (the technical components)</td>
+            <td>A/R</td>
+            <td>I</td>
+            <td></td>
+            <td></td>
+            <td>I</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="even">
+            <td>Testing</td>
+            <td>A/R</td>
+            <td>C</td>
+            <td>C</td>
+            <td>C?</td>
+            <td>C</td>
+            <td>C</td>
+            <td></td>
+            <td>I</td>
+            <td></td>
+        </tr>
+        <tr class="odd">
+            <td>Complete SA&A and obtain ATO (*only if required)</td>
+            <td>A/R</td>
+            <td>I</td>
+            <td></td>
+            <td></td>
+            <td>I</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="even">
+            <td>Produce procedures for suppliers</td>
+            <td>A/R</td>
+            <td>C</td>
+            <td></td>
+            <td></td>
+            <td>C</td>
+            <td>C</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="odd">
+            <td>Produce procedures for clients and ESDC procurement/financial personnel (checklists, FAQ, contract splitting)</td>
+            <td>A/R</td>
+            <td>C</td>
+            <td></td>
+            <td></td>
+            <td>C</td>
+            <td>C</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="even">
+            <td>Produce communication plan</td>
+            <td>A/R</td>
+            <td>C</td>
+            <td></td>
+            <td></td>
+            <td>I</td>
+            <td>C</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="odd">
+            <td>Write and get approval on process and contract terms and conditions</td>
+            <td>I</td>
+            <td>A/R</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>C</td>
+            <td></td>
+            <td></td>
+            <td>C**</td>
+        </tr>
+        <tr class="even">
+            <td>Identify and/or add licence terms</td>
+            <td>A/R</td>
+            <td>C</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>C</td>
+            <td>C</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="odd">
+            <td>Communication activities</td>
+            <td>A/R</td>
+            <td>C</td>
+            <td>I</td>
+            <td>I</td>
+            <td>I</td>
+            <td>C</td>
+            <td></td>
+            <td>I</td>
+            <td></td>
+        </tr>
+        <tr class="even">
+            <td>Produce audit and reporting process</td>
+            <td>C</td>
+            <td>A/R</td>
+            <td></td>
+            <td></td>
+            <td>C</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
 
-\*For this item, the accounts payable team could also be included.
+<small>*For this item, the accounts payable team could also be included.</small>
 
-\*\*Might not need to go for full legal review if standard clauses are used.
+<small>**Might not need to go for full legal review if standard clauses are used.</small>
 
 ### Phase 2: Pilot Operations
 
-<table><thead><tr class="header"><th></th><th><blockquote><p><strong>IT</strong></p><p><strong>Strategy</strong><br />
-<strong>Team </strong></p></blockquote></th><th><blockquote><p><strong>CFOB Procurement </strong></p></blockquote></th><th><blockquote><p><strong>Clients</strong></p></blockquote></th><th><blockquote><p><strong>Suppliers</strong></p></blockquote></th><th><blockquote><p><strong>Branch</strong></p><p><strong>Financial</strong><br />
-<strong>Teams</strong></p></blockquote></th><th><blockquote><p><strong>OSME</strong></p><p><strong>(PSPC)</strong></p></blockquote></th><th><blockquote><p><strong>IP</strong></p><p><strong>CoE</strong></p><p><strong>(ESDC)</strong></p></blockquote></th><th><blockquote><p><strong>ESDC</strong></p><p><strong>OSS</strong></p><p><strong>Framework</strong><br />
-<strong>Team</strong></p></blockquote></th><th><blockquote><p><strong>Legal</strong></p><p><strong>(PSPC)</strong></p></blockquote></th></tr></thead><tbody><tr class="odd"><td>Pre-contractual phase</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr class="even"><td>Develop the opportunity text using template (problem to be solved, evaluation criteria, acceptance criteria, start date, contract value)</td><td>C</td><td>C</td><td>A/R</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr class="odd"><td>PIF created and signed by section 32 Mgr</td><td></td><td></td><td>A/R</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr class="even"><td>Opportunity text and PIF sent to Financial Team (FPS if in IITB)</td><td></td><td></td><td>A/R</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr class="odd"><td>Commit funds in SAP</td><td>I</td><td></td><td></td><td></td><td>A/R</td><td></td><td></td><td></td><td></td></tr><tr class="even"><td><blockquote><p>Contractual phase</p></blockquote></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr class="odd"><td>Prepare the translation of the opportunity text</td><td></td><td></td><td>A/R</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr class="even"><td>Post the opportunity on the Micro-procurement platform</td><td>R</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr class="odd"><td>Share the opportunity via social media and other channels</td><td>R</td><td></td><td>A/R</td><td>I</td><td>I</td><td>C</td><td></td><td></td><td></td></tr><tr class="even"><td>Manage the solicitation process (technical authority to answer technical questions)</td><td>R</td><td>C</td><td>A/R</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr class="odd"><td>Close the opportunity at the close date</td><td>A/R</td><td></td><td>I</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr class="even"><td>Evaluate proposals and document the evaluation</td><td>C</td><td>I</td><td>A/R</td><td></td><td>I</td><td></td><td></td><td></td><td></td></tr><tr class="odd"><td>Select the winning supplier</td><td>C</td><td>I</td><td>A/R</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr class="even"><td>Winning supplier is notified and they agree to the generic terms and conditions</td><td>I</td><td></td><td>A/R</td><td></td><td>I</td><td></td><td></td><td></td><td></td></tr><tr class="odd"><td>Post a notification announcing the winning supplier</td><td>R/C</td><td></td><td>A/R</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr class="even"><td>Debrief unsuccessful suppliers (as required)</td><td>I</td><td>I</td><td>A/R</td><td></td><td>I</td><td></td><td></td><td></td><td></td></tr><tr class="odd"><td>Contract Administration Phase</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr class="even"><td>Supplier works in the open on an open repository</td><td></td><td></td><td>A</td><td>R</td><td></td><td></td><td></td><td></td><td></td></tr><tr class="odd"><td>Monitor work of contractor (in open) respond to supplier questions and receive contract deliverables</td><td>I</td><td></td><td>A/R</td><td>I</td><td></td><td></td><td></td><td></td><td></td></tr><tr class="even"><td>Report any procurements problems to the contracting officer</td><td>I</td><td>C</td><td>A/R</td><td></td><td>I</td><td></td><td></td><td></td><td></td></tr><tr class="odd"><td>Resolve any contractual issues (if required)</td><td></td><td>C</td><td>A/R</td><td></td><td>I</td><td></td><td></td><td></td><td></td></tr><tr class="even"><td>Report any issues with supporting tools (website, GitHub etc.)</td><td>C</td><td></td><td>I</td><td>A/R</td><td></td><td></td><td></td><td></td><td></td></tr><tr class="odd"><td>Resolve any issues with supporting tools (website)</td><td>A/R</td><td></td><td>I</td><td>C</td><td></td><td></td><td></td><td></td><td></td></tr><tr class="even"><td>Supplier delivers the code (via a pull request on an open repository)</td><td>I</td><td></td><td>I</td><td>A/R</td><td></td><td></td><td></td><td></td><td></td></tr><tr class="odd"><td>Assess the delivered code against acceptance criteria</td><td>C</td><td></td><td>A/R</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr class="even"><td>Assess the delivered code against automated QA checks (e.g. security)</td><td>I</td><td></td><td>A/R</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr class="odd"><td>Determine that the goods and services received are in accordance with the contract</td><td>C</td><td></td><td>A/R</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr class="even"><td>Pull request is approved and merged</td><td>I</td><td></td><td>A/R</td><td>I</td><td></td><td></td><td></td><td></td><td></td></tr><tr class="odd"><td><blockquote><p>Post-Contractual Phase</p></blockquote></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr class="even"><td>Supplier sends invoice to FPS mailbox</td><td></td><td></td><td></td><td>A/R</td><td></td><td></td><td></td><td></td><td></td></tr><tr class="odd"><td>FPS team sends entrusted email for signature (section 34 approval)</td><td></td><td></td><td>R</td><td></td><td>A/R</td><td></td><td></td><td></td><td></td></tr><tr class="even"><td>Approved invoice is entered in SAP</td><td></td><td></td><td></td><td></td><td>A/R</td><td></td><td></td><td></td><td></td></tr><tr class="odd"><td>Supplier is contacted for payment info and card doc is created in SAP</td><td>I</td><td></td><td>I</td><td></td><td>A/R</td><td></td><td></td><td></td><td></td></tr><tr class="even"><td>Funds are delivered to supplier using credit card (by FPS credit card holders)</td><td>I</td><td></td><td>I</td><td></td><td>A/R</td><td></td><td></td><td></td><td></td></tr><tr class="odd"><td>Pilot mid-point and close out</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr class="even"><td>Audit of contracts issued via the micro-procurement pilot</td><td>C/I</td><td>A/R</td><td>C</td><td></td><td>I</td><td></td><td></td><td></td><td></td></tr><tr class="odd"><td>Mid-point and close-out pilot report (to assess against success criteria and lessons learned)</td><td>A/R</td><td>C</td><td>C</td><td>C</td><td>C</td><td>C</td><td></td><td>I</td><td></td></tr></tbody></table>
+<table>
+    <thead>
+        <tr class="header">
+            <th></th>
+            <th><strong>IT Strategy Team</strong></th>
+            <th><strong>CFOB Procurement</strong></th>
+            <th><strong>Clients</strong></th>
+            <th><strong>Suppliers</strong></th>
+            <th><strong>Branch Financial Teams</strong></th>
+            <th><strong>OSME (PSPC)</strong></th>
+            <th><strong>IP CoE (ESDC)</strong></th>
+            <th><strong>ESDC OSS Framework Team</strong></th>
+            <th><strong>Legal (PSPC)</strong></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr class="odd">
+            <td colspan="10"><strong>Pre-contractual phase</strong></td>
+        </tr>
+        <tr class="even">
+            <td>Develop the opportunity text using template (problem to be solved, evaluation criteria, acceptance criteria, start date, contract value)</td>
+            <td>C</td>
+            <td>C</td>
+            <td>A/R</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="odd">
+            <td>PIF created and signed by section 32 Mgr</td>
+            <td></td>
+            <td></td>
+            <td>A/R</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="even">
+            <td>Opportunity text and PIF sent to Financial Team (FPS if in IITB)</td>
+            <td></td>
+            <td></td>
+            <td>A/R</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="odd">
+            <td>Commit funds in SAP</td>
+            <td>I</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>A/R</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="even">
+            <td colspan="10"><strong>Contractual phase</strong></td>
+        </tr>
+        <tr class="odd">
+            <td>Prepare the translation of the opportunity text</td>
+            <td></td>
+            <td></td>
+            <td>A/R</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="even">
+            <td>Post the opportunity on the Micro-procurement platform</td>
+            <td>R</td>
+            <td></td>
+            <td>A</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="odd">
+            <td>Share the opportunity via social media and other channels</td>
+            <td>R</td>
+            <td></td>
+            <td>A/R</td>
+            <td>I</td>
+            <td>I</td>
+            <td>C</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="even">
+            <td>Manage the solicitation process (technical authority to answer technical questions)</td>
+            <td>R</td>
+            <td>C</td>
+            <td>A/R</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="odd">
+            <td>Close the opportunity at the close date</td>
+            <td>A/R</td>
+            <td></td>
+            <td>I</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="even">
+            <td>Evaluate proposals and document the evaluation</td>
+            <td>C</td>
+            <td>I</td>
+            <td>A/R</td>
+            <td></td>
+            <td>I</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="odd">
+            <td>Select the winning supplier</td>
+            <td>C</td>
+            <td>I</td>
+            <td>A/R</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="even">
+            <td>Winning supplier is notified and they agree to the generic terms and conditions</td>
+            <td>I</td>
+            <td></td>
+            <td>A/R</td>
+            <td></td>
+            <td>I</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="odd">
+            <td>Post a notification announcing the winning supplier</td>
+            <td>R/C</td>
+            <td></td>
+            <td>A/R</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="even">
+            <td>Debrief unsuccessful suppliers (as required)</td>
+            <td>I</td>
+            <td>I</td>
+            <td>A/R</td>
+            <td></td>
+            <td>I</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="odd">
+            <td colspan="10"><strong>Contract Administration Phase</strong></td>
+        </tr>
+        <tr class="even">
+            <td>Supplier works in the open on an open repository</td>
+            <td></td>
+            <td></td>
+            <td>A</td>
+            <td>R</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="odd">
+            <td>Monitor work of contractor (in open) respond to supplier questions and receive contract deliverables</td>
+            <td>I</td>
+            <td></td>
+            <td>A/R</td>
+            <td>I</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="even">
+            <td>Report any procurements problems to the contracting officer</td>
+            <td>I</td>
+            <td>C</td>
+            <td>A/R</td>
+            <td></td>
+            <td>I</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="odd">
+            <td>Resolve any contractual issues (if required)</td>
+            <td></td>
+            <td>C</td>
+            <td>A/R</td>
+            <td></td>
+            <td>I</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="even">
+            <td>Report any issues with supporting tools (website, GitHub etc.)</td>
+            <td>C</td>
+            <td></td>
+            <td>I</td>
+            <td>A/R</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="odd">
+            <td>Resolve any issues with supporting tools (website)</td>
+            <td>A/R</td>
+            <td></td>
+            <td>I</td>
+            <td>C</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="even">
+            <td>Supplier delivers the code (via a pull request on an open repository)</td>
+            <td>I</td>
+            <td></td>
+            <td>I</td>
+            <td>A/R</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="odd">
+            <td>Assess the delivered code against acceptance criteria</td>
+            <td>C</td>
+            <td></td>
+            <td>A/R</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="even">
+            <td>Assess the delivered code against automated QA checks (e.g. security)</td>
+            <td>I</td>
+            <td></td>
+            <td>A/R</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="odd">
+            <td>Determine that the goods and services received are in accordance with the contract</td>
+            <td>C</td>
+            <td></td>
+            <td>A/R</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="even">
+            <td>Pull request is approved and merged</td>
+            <td>I</td>
+            <td></td>
+            <td>A/R</td>
+            <td>I</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="odd">
+            <td colspan="10"><strong>Post-Contractual Phase</strong></td>
+        </tr>
+        <tr class="even">
+            <td>Supplier sends invoice to FPS mailbox</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>A/R</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="odd">
+            <td>FPS team sends entrusted email for signature (section 34 approval)</td>
+            <td></td>
+            <td></td>
+            <td>R</td>
+            <td></td>
+            <td>A/R</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="even">
+            <td>Approved invoice is entered in SAP</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>A/R</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="odd">
+            <td>Supplier is contacted for payment info and card doc is created in SAP</td>
+            <td>I</td>
+            <td></td>
+            <td>I</td>
+            <td></td>
+            <td>A/R</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="even">
+            <td>Funds are delivered to supplier using credit card (by FPS credit card holders)</td>
+            <td>I</td>
+            <td></td>
+            <td>I</td>
+            <td></td>
+            <td>A/R</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="odd">
+            <td colspan="10"><strong>Pilot mid-point and close out</strong></td>
+        </tr>
+        <tr class="even">
+            <td>Audit of contracts issued via the micro-procurement pilot</td>
+            <td>C/I</td>
+            <td>A/R</td>
+            <td>C</td>
+            <td></td>
+            <td>I</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="odd">
+            <td>Mid-point and close-out pilot report (to assess against success criteria and lessons learned)</td>
+            <td>A/R</td>
+            <td>C</td>
+            <td>C</td>
+            <td>C</td>
+            <td>C</td>
+            <td>C</td>
+            <td></td>
+            <td>I</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
 
-## 4.0 Consultations/Collaboration
+## Consultations/Collaboration
 
 This initiative is being co-sponsored by the Innovation Information and Technology Branch (IITB) and the Chief Financial Officer Branch (CFOB) at ESDC.
 IT modernization depends on procurement modernization. IT can’t work in an agile or DevOps way if procurement processes still follow waterfall.
@@ -331,9 +977,68 @@ Collaboration has also included discussions with other governments. As part of t
 
 Details of these collaborations (in addition to the collaboration between the IT strategy Team and the CFOB Procurement Innovation team) are as follows:
 
-<table><thead><tr class="header"><th><strong>Organization</strong></th><th><strong>Branch/Committee</strong></th><th><strong>Date of Consultation</strong></th><th><strong>Discussion and recommendation</strong></th></tr></thead><tbody><tr class="odd"><td>GC/TBS</td><td>Procurement policy team</td><td>July 8, 2020</td><td><blockquote><p>Procurement team advised there is nothing in the current policy suite prevents establishing micro-procurement for OSS.</p></blockquote></td></tr><tr class="even"><td>GC/PSPC/OSME</td><td><blockquote><p>Supplier engagement team</p></blockquote></td><td>July 15, 2020</td><td><blockquote><p>OMSE shared data from supplier surveys, offered to review the business case, and ultimately documentation and T&amp;Cs for understandability</p></blockquote></td></tr><tr class="odd"><td>GC/PSPC</td><td><blockquote><p>Contract simplification team</p></blockquote></td><td>June 9, 2020</td><td><blockquote><p>Supportive. Recommended connecting with Ariane Reza.</p></blockquote></td></tr><tr class="even"><td>GC/PSPC/OSME</td><td><blockquote><p>15 Day Expedited Payment Initiative</p></blockquote></td><td>June 25, 2020</td><td><blockquote><p>Supportive. Discussed whether the 15 day Expedited Payment initiative could be used for this initiative (if not using acquisition cards).</p></blockquote></td></tr><tr class="odd"><td>GC/TBS</td><td><blockquote><p>Canadian Digital Service</p></blockquote></td><td>ongoing</td><td><blockquote><p>CDS were originally looking to take on the GC Developers Exchange but have other priorities. They are supportive of ESDC moving this forward and have offered to support. Collaboration with CDS is ongoing.</p></blockquote></td></tr><tr class="even"><td>GC/TBS</td><td><blockquote><p>Talent Cloud team</p></blockquote></td><td>June 18, 2020</td><td><blockquote><p>TC team are supportive of this initiative. If our focus was on HR, there would be alignment and an opportunity to use their platform. Alignment does exist when it comes to facilitating Indigenous peoples’ participation. TC team are currently working on an Indigenous Portal. Agreement to stay connected.</p></blockquote></td></tr><tr class="odd"><td>GC/ESDC</td><td><blockquote><p>Electronic Procurement System project team</p></blockquote></td><td><blockquote><p>June 3, 2020</p></blockquote></td><td><blockquote><p>All procurements via the new EPS (when it goes live) will be those from PSPC standing offers and supply arrangements. EPS is therefore out of scope.</p></blockquote></td></tr><tr class="even"><td>BC government</td><td><blockquote><p>BC Developers Exchange team</p></blockquote></td><td><blockquote><p>Sept. 23, 2020</p></blockquote></td><td><blockquote><p>BC advised that their code for the Digital marketplace is open source and encouraged re-use of the code. They mentioned that the Yukon and QC governments are also interested in starting their own Digital marketplaces for code.</p></blockquote></td></tr></tbody></table>
+<table>
+    <thead>
+        <tr class="header">
+            <th><strong>Organization</strong></th>
+            <th><strong>Branch/Committee</strong></th>
+            <th><strong>Date of Consultation</strong></th>
+            <th><strong>Discussion and recommendation</strong></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr class="odd">
+            <td>GC/TBS</td>
+            <td>Procurement policy team</td>
+            <td>July 8, 2020</td>
+            <td>Procurement team advised there is nothing in the current policy suite prevents establishing micro-procurement for OSS.</td>
+        </tr>
+        <tr class="even">
+            <td>GC/PSPC/OSME</td>
+            <td>Supplier engagement team</td>
+            <td>July 15, 2020</td>
+            <td>OMSE shared data from supplier surveys, offered to review the business case, and ultimately documentation and T&amp;Cs for understandability</td>
+        </tr>
+        <tr class="odd">
+            <td>GC/PSPC</td>
+            <td>Contract simplification team</td>
+            <td>June 9, 2020</td>
+            <td>Supportive. Recommended connecting ADM</td>
+        </tr>
+        <tr class="even">
+            <td>GC/PSPC/OSME</td>
+            <td>15 Day Expedited Payment Initiative</td>
+            <td>June 25, 2020</td>
+            <td>Supportive. Discussed whether the 15 day Expedited Payment initiative could be used for this initiative (if not using acquisition cards).</td>
+        </tr>
+        <tr class="odd">
+            <td>GC/TBS</td>
+            <td>Canadian Digital Service</td>
+            <td>ongoing</td>
+            <td>CDS were originally looking to take on the GC Developers Exchange but have other priorities. They are supportive of ESDC moving this forward and have offered to support. Collaboration with CDS is ongoing.</td>
+        </tr>
+        <tr class="even">
+            <td>GC/TBS</td>
+            <td>Talent Cloud team</td>
+            <td>June 18, 2020</td>
+            <td>TC team are supportive of this initiative. If our focus was on HR, there would be alignment and an opportunity to use their platform. Alignment does exist when it comes to facilitating Indigenous peoples’ participation. TC team are currently working on an Indigenous Portal. Agreement to stay connected.</td>
+        </tr>
+        <tr class="odd">
+            <td>GC/ESDC</td>
+            <td>Electronic Procurement System project team</td>
+            <td>June 3, 2020</td>
+            <td>All procurements via the new EPS (when it goes live) will be those from PSPC standing offers and supply arrangements. EPS is therefore out of scope.</td>
+        </tr>
+        <tr class="even">
+            <td>BC government</td>
+            <td>BC Developers Exchange team</td>
+            <td>Sept. 23, 2020</td>
+            <td>BC advised that their code for the Digital marketplace is open source and encouraged re-use of the code. They mentioned that the Yukon and QC governments are also interested in starting their own Digital marketplaces for code.</td>
+        </tr>
+    </tbody>
+</table>
 
-## 5.0 Benefits
+## Benefits
 
 ### Benefit 1: Increase the number of IITB teams that work in the open
 
@@ -399,7 +1104,7 @@ Simplified process will be possible so that IITB employees can draft requirement
 
 Traditional contracting methods require the involvement of an ESDC Contracting Officer with Contracting Authority in order to put a contract in place. Developing a simplified process for sourcing open source code with a template approach will allow IITB employees to procure and pay for services without the involvement of ESDC procurement. Given that ESDC contracting officers are already inundated with contracting requests, particularly now due to Covid-19 and the safe re-opening of Service Canada Centres, having IITB employees able to carry out low dollar value, low complexity sourcing on their own will be advantageous to both CFOB procurement and IITB.
 
-## 6.0 Measuring Success
+## Measuring Success
 
 During the pilot, success will be measured and adjustments made.
 Some success metrics could include: number of opportunities posted, number of proposals received, number of contracts awarded, number of suppliers who apply, percentage of contracts awarded to suppliers who have never worked for the government, percentage of suppliers who are part of ‘diversity’ groups.
@@ -411,65 +1116,64 @@ A detailed performance measurement plan will be developed during the planning an
 If deemed to be successful at the end of year 1, the pilot would move from beta/alpha to a full product/service.
 With proven succes, a central agency may be interested in taking this on and this service could be expanded to other departments.
 
-## 7.0 Risks
+## Risks
 
 <table>
-<thead>
-    <tr class="header">
-    <th><strong>Risk</strong></th>
-    <th><strong>Proposed Mitigations</strong></th>
-    </tr>
-</thead>
-<tbody>
-    <tr class="odd">
-        <td>Contract Splitting</td>
-        <td>
-            <ol>
-                <li><p>The user documentation should include detailed guidance on what contract splitting is (e.g. intentional - purposely splitting a known larger contract into smaller pieces and awarding all pieces to the same contractor, and unintentional - needing a piece of code today and then needing another piece of code in a month and hiring the same contractor) and how to ensure These micro-procurement contracts are not misconstrued as contract splitting. Use existing contract splitting training for acquisition cards.</p></li>
-                <li><p>Auditing/monitoring of micro-procurement contracts</p></li>
-            </ol>
-        </td>
-    </tr>
-    <tr class="even">
-        <td>Concerns from PIPSC about outsourcing</td>
-        <td>
-            <ol>
-                <li><p>Follow standard procedures for procurement e.g. Include as part of each opportunity documentation, checkboxes saying that a) This is a standalone piece of work and b) There is no internal capacity</p></li>
-            </ol>
-        </td>
-    </tr>
-    <tr class="odd">
-        <td>Lack of use due to teams being unused to working in an agile way and creating small iterative work packages</td>
-        <td>
-            <ol>
-                <li><p>Develop training materials which go over the advantages of agile approaches and explain how to design requirements that are focused on outcomes.</p></li>
-                <li><p>Implementation/operational team to provide ongoing support to ESDC teams on how to do this (write opportunities, use GitHub etc.)</p></li>
-            </ol>
-        </td>
-    </tr>
-    <tr class="even">
-        <td>Code could be submitted that includes malware</td>
-        <td>
-            <ol>
-                <li><p>Automated security checks of the code will part of the code acceptance process (code will have to pass the security checks before the supplier can be paid)</p></li>
-                <li><p>Code review by IITB internal staff before being accepted</p></li>
-            </ol>
-        </td>
-    </tr>
-    <tr class="odd">
-        <td><p>Potential for increased risk of</p>
-            <p>favoritism and/or of communication with the suppliers/bidders during the process</p></td>
-        <td>
-            <ol>
-                <li><p>Ensure guidelines for communication during the solicitation process are included in the training materials</p></li>
-                <li><p>Develop unbiased and fair criteria for contractor selection</p></li>
-            </ol>
-        </td>
-    </tr>
-</tbody>
+    <thead>
+        <tr class="header">
+        <th><strong>Risk</strong></th>
+        <th><strong>Proposed Mitigations</strong></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr class="odd">
+            <td>Contract Splitting</td>
+            <td>
+                <ol>
+                    <li>The user documentation should include detailed guidance on what contract splitting is (e.g. intentional - purposely splitting a known larger contract into smaller pieces and awarding all pieces to the same contractor, and unintentional - needing a piece of code today and then needing another piece of code in a month and hiring the same contractor) and how to ensure These micro-procurement contracts are not misconstrued as contract splitting. Use existing contract splitting training for acquisition cards.</li>
+                    <li>Auditing/monitoring of micro-procurement contracts</li>
+                </ol>
+            </td>
+        </tr>
+        <tr class="even">
+            <td>Concerns from PIPSC about outsourcing</td>
+            <td>
+                <ol>
+                    <li>Follow standard procedures for procurement e.g. Include as part of each opportunity documentation, checkboxes saying that a) This is a standalone piece of work and b) There is no internal capacity</li>
+                </ol>
+            </td>
+        </tr>
+        <tr class="odd">
+            <td>Lack of use due to teams being unused to working in an agile way and creating small iterative work packages</td>
+            <td>
+                <ol>
+                    <li>Develop training materials which go over the advantages of agile approaches and explain how to design requirements that are focused on outcomes.</li>
+                    <li>Implementation/operational team to provide ongoing support to ESDC teams on how to do this (write opportunities, use GitHub etc.)</li>
+                </ol>
+            </td>
+        </tr>
+        <tr class="even">
+            <td>Code could be submitted that includes malware</td>
+            <td>
+                <ol>
+                    <li>Automated security checks of the code will part of the code acceptance process (code will have to pass the security checks before the supplier can be paid)</li>
+                    <li>Code review by IITB internal staff before being accepted</li>
+                </ol>
+            </td>
+        </tr>
+        <tr class="odd">
+            <td>Potential for increased risk of favoritism and/or of communication with the suppliers/bidders during the process</td>
+            <td>
+                <ol>
+                    <li>Ensure guidelines for communication during the solicitation process are included in the training materials</li>
+                    <li>Develop unbiased and fair criteria for contractor selection</li>
+                </ol>
+            </td>
+        </tr>
+    </tbody>
 </table>
 
-## 8.0 Communications
+## Communications
 
 Following approval of the pilot, a detailed communications plan will be developed.
 
