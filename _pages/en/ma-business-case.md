@@ -997,7 +997,7 @@ Details of these collaborations (in addition to the collaboration between the IT
             <td>GC/PSPC/OSME</td>
             <td>Supplier engagement team</td>
             <td>July 15, 2020</td>
-            <td>OMSE shared data from supplier surveys, offered to review the business case, and ultimately documentation and T&amp;Cs for understandability</td>
+            <td>OSME shared data from supplier surveys, offered to review the business case, and ultimately documentation and T&amp;Cs for understandability</td>
         </tr>
         <tr class="odd">
             <td>GC/PSPC</td>
@@ -1114,7 +1114,7 @@ Return on Investment calculations could also be included as a measure (e.g. time
 A detailed performance measurement plan will be developed during the planning and design phase of the pilot and the KPIs will be refined at that time (as such they may change from the ones mentioned above).
 
 If deemed to be successful at the end of year 1, the pilot would move from beta/alpha to a full product/service.
-With proven succes, a central agency may be interested in taking this on and this service could be expanded to other departments.
+With proven success, a central agency may be interested in taking this on and this service could be expanded to other departments.
 
 ## Risks
 
@@ -1162,7 +1162,7 @@ With proven succes, a central agency may be interested in taking this on and thi
             </td>
         </tr>
         <tr class="odd">
-            <td>Potential for increased risk of favoritism and/or of communication with the suppliers/bidders during the process</td>
+            <td>Potential for increased risk of favouritism and/or of communication with the suppliers/bidders during the process</td>
             <td>
                 <ol>
                     <li>Ensure guidelines for communication during the solicitation process are included in the training materials</li>

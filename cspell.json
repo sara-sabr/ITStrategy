@@ -602,7 +602,10 @@
     "pngegg",
     "flyclipart",
     "imgflip",
-    "GCPedia"
+    "GCPedia",
+    "CLCA",
+    "FTEs",
+    "PIPSC"
   ],
   "flagWords": [],
   "import": ["node_modules/@cspell/dict-fr-fr/cspell-ext.json"],
