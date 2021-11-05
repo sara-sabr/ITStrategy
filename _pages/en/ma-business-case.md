@@ -67,8 +67,8 @@ In the GC, procured code is often proprietary licensed and as a result reduces t
 
 Startups and freelancers with the latest technology expertise can face barriers in accessing GC contracts.
 Many small and medium enterprises find that standing offers and supply arrangements can be “
-cumbersome to use and difficult to qualify for". They also seem to "disproportionately favour suppliers located in the National Capital Region”[1].
-In a 2017 survey, 95% of Small and Medium Enterprises (SMEs) did not view the GC as a buyer[2].
+cumbersome to use and difficult to qualify for". They also seem to "disproportionately favour suppliers located in the National Capital Region”[^1].
+In a 2017 survey, 95% of Small and Medium Enterprises (SMEs) did not view the GC as a buyer[^2].
 Whereas large companies have teams of people whose sole job is to submit bids for GC contracts, many startups do not.
 Some of Canada’s top developer talent exists in those SMEs and ESDC is missing out on that developer talent.
 
@@ -76,7 +76,7 @@ As well, although procurement processes at ESDC are becoming streamlined, gettin
 In the world of open source software, where the code is freely available to anyone to fix and access immediately, and where IT is moving towards a DevOps/agile way of working (where changes to IT systems can, and should, be made daily.
 See [IITB’s Target IT Solution Delivery Model](https://sara-sabr.github.io/ITStrategy/strategy-target-solution-delivery-model.html) for more), it is necessary to have a procurement process that can move equally as fast.
 
-Additionally, while micro-procurement contracts are low dollar value[3] and low risk, they take up a lot of time of procurement officers, whose expertise is needed for complex and high-risk procurements.
+Additionally, while micro-procurement contracts are low dollar value[^3] and low risk, they take up a lot of time of procurement officers, whose expertise is needed for complex and high-risk procurements.
 
 ### Proposal
 
@@ -84,21 +84,21 @@ Put in place a pilot and platform at ESDC for micro-procurement of software.
 This pilot would be spearheaded by a partnership between IITB and CFOB and would run for one year
 All work would be unclassified, and the contracts would be for a set amount.
 The scope for the pilot is limited to ESDC only; only ESDC employees will be able to post opportunities.
-Details of the [Design Elements](#iy9hb8fq603) and the [Processes](#qsswas3cjc1u) can be found below.
+Details of the [Design Elements](#annex-a-proposed-design-elements) and the [Processes](#annex-b-proposed-process) can be found below.
 
-ESDC is a natural fit to run this pilot and will benefit greatly from it because of the strong link with the ESDC mandate to “*improve the standard of living and quality of life for all Canadians. We do this by promoting a labour force that is highly skilled. We also promote an efficient and inclusive labour market.*“ This initiative, in addition to benefiting ESDC, will also create new opportunities for SMEs throughout Canada.
+ESDC is a natural fit to run this pilot and will benefit greatly from it because of the strong link with the [ESDC mandate](https://www.canada.ca/en/employment-social-development.html) to “*improve the standard of living and quality of life for all Canadians. We do this by promoting a labour force that is highly skilled. We also promote an efficient and inclusive labour market.*“ This initiative, in addition to benefiting ESDC, will also create new opportunities for SMEs throughout Canada.
 
 At ESDC there are 54 OSS products known to be in use and at least 90 web applications at ESDC which contain OSS elements.
 **But this micro-procurement pilot is not only for products already using open source code**.
 Internal and proprietary products could make use of the micro-procurement pilot as well (e.g., for powershell scripts to deploy infrastructure).
 The procured code would simply be made available to the GC under an open source software licence that allows for code re-use.
 
-If this pilot is deemed to be successful, a formal project could be initiated to scale up to a broader, more permanent service within ESDC (see more on this in section 6.0 Measuring Success).
+If this pilot is deemed to be successful, a formal project could be initiated to scale up to a broader, more permanent service within ESDC (see more on this in [section Measuring Success](#measuring-success)).
 It is also possible that the micro-procurement of software could be scaled up to the GC level.
 
 ### Rationale/Background
 
-The connection between Procurement, IT and business transformation is noted in the Canadian Digital Operations Strategic Plan 2018-2022 which says that *“If modern technology is an essential enabler for digital government, procurement modernization is an equally essential enabler of modern technology.”*, and by Gartner who recently released their Procurement in 2020 and Beyond report. In this report they recommend shifting the ownership for low and mid-tier purchases away from corporate procurement teams so that those teams can focus primarily on strategic, high value, high-risk purchases[4].
+The connection between Procurement, IT and business transformation is noted in the [Canadian Digital Operations Strategic Plan 2018-2022](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-operations-strategic-plans/digital-operations-strategic-plan-2018-2022.html) which says that *“If modern technology is an essential enabler for digital government, procurement modernization is an equally essential enabler of modern technology.”*, and by Gartner who recently released their Procurement in 2020 and Beyond report. In this report they recommend shifting the ownership for low and mid-tier purchases away from corporate procurement teams so that those teams can focus primarily on strategic, high value, high-risk purchases[^4].
 
 The GC also has recommended changing the way low dollar value (LDV) procurements are done.
 The [2020 Red Tape Reduction Report](https://internal-red-tape-reduction-report.github.io/) recommended establishing “a fast track process for service contracts under $10,000”.
@@ -112,7 +112,7 @@ This program has since expanded in scope (to contracts up to $70K) and evolved i
 The US government has a [simplified process for all micro-purchases](https://acquisition.gov/content/part-13-simplified-acquisition-procedures#i1111868) which, among other things, encourages their Deputy Heads to delegate authority for micro-purchasing.
 Many groups within the US government have experimented with using this process to purchase open source code including the [IT Modernization CoE](https://digital.gov/2020/04/24/experimenting-with-micropurchase-threshold/), the [Department of Veterans’ Affairs](https://github.com/department-of-veterans-affairs/VA-Micropurchase-Repo), and [18F](https://github.com/18f/micropurchase-archive).
 
-In addition to having the precedent of the pilot GC Developers Exchange from 2017 (more in Annex D), the recommendations and guidance from the red tape reduction report and the Office of the Procurement Ombudsman, policy cover exists when it comes to LDV procurement.
+In addition to having the precedent of the pilot GC Developers Exchange from 2017 (more in [Annex D](#annex-d-the-gc-developers-exchange)), the recommendations and guidance from the red tape reduction report and the Office of the Procurement Ombudsman, policy cover exists when it comes to LDV procurement.
 
 The procurement policy team at Treasury Board Secretariat have advised that there is nothing in the current policy instruments that prevents establishing a simplified process for LDV purchases.
 In the Office of the Procurement Ombudsman’s LDV report, they advised that “The regulatory and policy framework for federal contracting allows federal organizations the flexibility to develop their own frameworks to govern LDV contracting.”
@@ -141,7 +141,7 @@ The consequences of not moving forward with this pilot include:
 
 This 1-year pilot will gain empirical evidence in order to validate the following hypothesis:
 
-If low dollar value[5] procurement of code was simplified for both ESDC teams and suppliers, would we achieve the following objectives:
+If low dollar value[^5] procurement of code was simplified for both ESDC teams and suppliers, would we achieve the following objectives:
 
 - Increased participation and access to developers who wouldn’t normally bid on GC IT contracts
 - Increased working in the open within ESDC
@@ -155,7 +155,7 @@ At the GC level, this pilot is aligned with the [GC Digital Standards](https://w
 This pilot is also aligned with Beyond2020 which includes ‘Agile’ as an area of focus and includes ‘Embrace uncertainty and learn through experimentation’ as an action item.
 Details on alignment can be found in the Benefits section.
 
-Within ESDC, this pilot is aligned with ESDC’s Departmental Plan 2019-2020 intent to “continue to pursue innovation and experimentation to learn from the successes and failures that come from testing new and different approaches to policy development, program design, and service delivery”[6].
+Within ESDC, this pilot is aligned with [ESDC’s Departmental Plan 2019-2020](https://www.canada.ca/en/employment-social-development/corporate/reports/departmental-plan/2019-2020.html) intent to “continue to pursue innovation and experimentation to learn from the successes and failures that come from testing new and different approaches to policy development, program design, and service delivery”[^6].
 There is also alignment with the practices related to procurement in ESDC’s OSS Management Framework.
 
 ### CFOB review
@@ -1043,7 +1043,7 @@ Details of these collaborations (in addition to the collaboration between the IT
 ### Benefit 1: Increase the number of IITB teams that work in the open
 
 **Aligns with:**  
-Policy and Directive on Service and Digital (Use open standards and open source software first, All source code must be released under an appropriate open source software license), Digital Standards (Work in the open by default), Directive on Open Government (Maximize the release of open data and open information)
+[Policy and Directive on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603) (Use open standards and open source software first, All source code must be released under an appropriate open source software license), [Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html) (Work in the open by default), Directive on Open Government (Maximize the release of open data and open information)
 
 **Assumptions:**
 
@@ -1058,7 +1058,7 @@ A core component of this initiative is the micro-procurement interface will be o
 
 ### Benefit 2: Increased re-use of code (Using open standards and solutions)
 
-**Aligns with:** GC Digital Standards, DOSP, Digital Nations Charter
+**Aligns with:** [GC Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html), [DOSP](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-operations-strategic-plans/digital-operations-strategic-plan-2021-2024.html), [Digital Nations Charter](https://www.canada.ca/en/government/system/digital-government/improving-digital-services/digital9charter.html)
 
 **Assumptions:**
 
@@ -1072,7 +1072,7 @@ Given that this pilot is focused around leveraging industry leading public sourc
 
 ### Benefit 3: Improve diversity in GC IT contracting
 
-**Aligns with:** Digital Nations Charter (open markets)
+**Aligns with:** [Digital Nations Charter (open markets)](https://www.canada.ca/en/government/system/digital-government/improving-digital-services/digital9charter.html)
 
 **Assumptions:**
 
@@ -1084,7 +1084,7 @@ As mentioned above 95% of SMEs surveyed in 2017 do not see the GC as a buyer. Th
 
 ### Benefit 4: Increase the knowledge of new software/tools by IITB employees
 
-**Aligns with:** Digital Standards (deliver better services)
+**Aligns with:** [Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html) (deliver better services)
 
 **Assumptions:** IITB employees will be encouraged to embrace open source solutions
 
@@ -1342,14 +1342,14 @@ The GCDevEx pilot created many lessons learned including:
 
 The GCDevEx pilot went offline after one year due to resourcing issues and after being unsuccessful in getting the PCO procurement folks onboard to develop a simplified process.
 
-[1] http://opo-boa.gc.ca/rapports-reports/2017-2018/index-eng.html
+[^1]: see http://opo-boa.gc.ca/rapports-reports/2017-2018/index-eng.html
 
-[2] https://www150.statcan.gc.ca/n1/daily-quotidien/181116/dq181116c-eng.htm
+[^2]: see https://www150.statcan.gc.ca/n1/daily-quotidien/181116/dq181116c-eng.htm
 
-[3] Low Dollar Value is defined within PSPC<span dir="rtl">’</span>s [Supply Manual](https://buyandsell.gc.ca/policy-and-guidelines/supply-manual/section/3/60) as contracts where the value is $25K or less for goods or $40K or less for services
+[^3]: Low Dollar Value is defined within PSPC<span dir="rtl">’</span>s [Supply Manual](https://buyandsell.gc.ca/policy-and-guidelines/supply-manual/section/3/60) as contracts where the value is $25K or less for goods or $40K or less for services
 
-[4] Gartner’s [Procurement in 2020 and Beyond](https://www.gartner.com/en/procurement-operations/trends/procurement-in-2020?) report
+[^4]: Gartner’s [Procurement in 2020 and Beyond](https://www.gartner.com/en/procurement-operations/trends/procurement-in-2020?) report
 
-[5] Low dollar value procurements are those that are &lt;$25K for goods or &lt;$40K for services
+[^5]: Low dollar value procurements are those that are &lt;$25K for goods or &lt;$40K for services
 
-[6] ESDC departmental plan 2019-2020, page 11: https://www.canada.ca/en/employment-social-development/corporate/reports/departmental-plan/2019-2020.html
+[^6]: ESDC departmental plan 2019-2020, page 11: https://www.canada.ca/en/employment-social-development/corporate/reports/departmental-plan/2019-2020.html
