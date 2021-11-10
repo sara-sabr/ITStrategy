@@ -6,10 +6,11 @@ ref: presentations
 permalink: /presentations.html
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- cSpell:ignore Powerpoint -->
 
 {%- include listPresentations.md -%}
 
-<!-- Presentations that are powerpoint or otherwise files in the assets/files folder -->
+<!-- Presentations that are PowerPoint or otherwise files in the assets/files folder -->
 <ul class="post-list">
     <li>
       <strong>
