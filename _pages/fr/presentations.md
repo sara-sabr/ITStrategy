@@ -7,3 +7,5 @@ permalink: /presentations-fr.html
 ---
 
 {%- include listPresentations.md -%}
+
+{%- include listPresentations-decks.md -%}
