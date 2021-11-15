@@ -136,3 +136,14 @@ footer:
 language:
   en: English
   fr: Français
+
+powerpoint:
+  product:
+    en: Working with Program Areas towards Product Management
+    fr: Travailler avec les secteurs de programmes vers la gestion de produit
+  english:
+    en: English presentation
+    fr: Présentation anglais
+  bilingual:
+    en: Bilingual presentation
+    fr: Présentation bilingue

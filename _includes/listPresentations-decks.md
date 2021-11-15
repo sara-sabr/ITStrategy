@@ -5,13 +5,9 @@
 <ul class="post-list">
     <li>
       <strong>
-      {%- if page.lang == "fr" -%}
-            Travailler avec les secteurs de programmes vers la gestion de produit
-      {%- else -%}
-            Working with Program Areas towards Product Management
-      {%- endif -%}
+      {{ site.data.i18n.general.powerpoint.product[page.lang] }}&nbsp;
          (
-             <a target="_blank" href="{{ site.baseurl }}/assets/files/Presentation-IITB Product Management-Overview-EN.pptx">English deck</a> / <a target="_blank" href="{{ site.baseurl }}/assets/files/Presentation-IITB Product Management-Overview-BILINGUE.pptx">Présentation bilingue</a>
+             <a href="{{ site.baseurl }}/assets/files/Presentation-IITB Product Management-Overview-EN.pptx">{{ site.data.i18n.general.powerpoint.english[page.lang] }}</a> / <a href="{{ site.baseurl }}/assets/files/Presentation-IITB Product Management-Overview-BILINGUE.pptx">{{ site.data.i18n.general.powerpoint.bilingual[page.lang] }}</a>
         )
       </strong>
     </li>
