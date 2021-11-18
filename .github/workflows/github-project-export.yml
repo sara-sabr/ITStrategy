@@ -52,7 +52,7 @@ jobs:
             });
             console.log("Export completed")
       - name: Create Pull Request
-        uses: gcharest/create-pull-request@v3.10.1
+        uses: sara-sabr/create-pull-request@v3.10.1
         with:
           branch: cpr-patch
           branch-suffix: short-commit-hash
