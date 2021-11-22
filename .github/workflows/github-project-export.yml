@@ -1,0 +1,59 @@
+name: GitHub Project Export
+on:
+  schedule:
+    - cron: '15 12 * * 1-5'
+jobs:
+  view-context:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Setup Date Variable
+        id: date
+        run: echo "::set-output name=RUN_DATE::$(date +'%Y-%m-%dT%H:%M:%S')"
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+      - name: Install Dependencies
+        uses: actions/setup-node@v2
+        with:
+          node-version: 14
+      - run: npm install fs-extra papaparse
+      - name: GitHub Project Extraction Script
+        uses: actions/github-script@v5
+        with:
+          script: |
+            const ghExport = require('.github/workflows/github-project-export.js')
+            const fs = require('fs-extra')
+            const Papa = require('papaparse')
+            const variables = {
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+            };
+            const ghExportData = await ghExport({github, context});
+            const dateStr = `${{ steps.date.outputs.RUN_DATE }}`
+            const outputFileName = `output/${variables.owner}-${variables.repo}-${dateStr}.csv`;
+            const outputCSV = Papa.unparse(ghExportData.exportData, {
+              quotes: false,
+              quoteChar: '"',
+              escapeChar: '"',
+              delimiter: ',',
+              header: true,
+              newline: '\r\n',
+              skipEmptyLines: false,
+              // Custom values
+              columns: ghExportData.csvHeaders,
+            });
+            fs.outputFile(outputFileName, outputCSV, { encoding: 'utf8' }, (err) => {
+              if (err) {
+                throw err;
+              }
+              console.group(`Printed output to ${outputFileName}`);
+              ghExportData.columns.forEach((column) => console.log(`${column.name}: ${column.numCards}`));
+              console.groupEnd();
+              console.log();
+            });
+            console.log("Export completed")
+      - name: Create Pull Request
+        uses: sara-sabr/create-pull-request@v3.10.1
+        with:
+          branch: cpr-patch
+          branch-suffix: short-commit-hash
+          delete-branch: true
