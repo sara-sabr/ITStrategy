@@ -9,8 +9,6 @@ last_modified: "2021-12-10"
 excerpt_separator: <!--more-->
 ---
 
-**Étude diagnostique de la DGIIT**
-
 >« Créer des liens bienveillants et solides entre les employés et leur travail, les clients, les dirigeants, les gestionnaires et l’organisation, afin d’obtenir des résultats pertinents pour tous les gens cités dans cette phrase. » - 
 >David Zinger – Auteur, formateur et conseiller.
 
