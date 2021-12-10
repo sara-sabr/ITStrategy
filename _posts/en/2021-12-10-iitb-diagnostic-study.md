@@ -20,7 +20,7 @@ While many of their findings may be valuable, we believe we have the necess
 Our goal was to get a more third dimension view and measurement of the branch's successes and impediments, get a deeper understanding of how director-level teams interact and feel.
 This time, we wanted to ask directors questions on various topics that would provide insight into how well we care for our employees, and in turn, how well we achieve results.
 
-**Introspection** 
+## Introspection
 
 Underlying and persistent organizational issues tend to lead to emotional exhaustion throughout an organization; however, recognizing the issue and seeking help can make a difference.
 Organizational issues can be a challenge and the first step to resolve them is to acknowledge where a problem is and identify the source.
@@ -31,7 +31,7 @@ Better communication helps give staff the support they need to improve their wel
 Clear communication is central to making the next unstable phase a success.
 With the goal of boosting communication identifying major blockers and areas of improvement in our branch, we sought to go interview the directors of the IITB and hear their stories. We talked with directors across IITB in a series of one-on-one interviews to better understand their day-to-day experience within the branch and their views of ESDC as a whole.  
 
-**Why conduct interviews rather than send out a survey?**
+## Why conduct interviews rather than send out a survey?
 
 Before we talk about how we prepared for the interviews, let me be honest with you: interviews aren’t the easiest route to take.
 Especially in our case, knowing how overwhelming the work environment of directors has always been.
@@ -39,7 +39,7 @@ First, we had the idea of sending a survey to the directors and making our
 We wanted to make interviewees feel more comfortable expressing their true feelings and opinions and to give us as interviewers the opportunity to dive into specific topics.
 Talking to people will always tell more than surveying, and survey fatigue was one of our concerns given the number of surveys and communications we are presented with in the branch.
 
-**What was the goal?**
+## What was the goal?
 
 We wanted to uncover directors' and their teams’ pain points, highlight success stories and innovative ideas.
 By doing so, we wanted to collect information that would inform how we can invest in our internal capabilities to improve IITB service delivery, and to develop upcoming plans and strategies.
@@ -52,7 +52,7 @@ For this reason, we chose to conduct this study using a bottom-up approach, inte
 We wanted directors to speak up and to be heard.
 In effect, this study was created by IITB for IITB.  
 
-**Interview preparation**
+## Interview preparation
 
 The interview questions have been designed in collaboration with HR, Public Opinion Research, and data from the Public Service Employee Survey (PSES) to follow ESDC’s ethical code.
 To prepare for this series of interviews, we have consulted with the departmental Values and Ethics team to ensure we meet all Values and Ethics requirements.
@@ -65,7 +65,7 @@ The intention of the discussion was to listen to each story and understand w
 Conducting the interviews in a non-confrontational way, where directors would be comfortable sharing their honest views with us was very important.
 Asking a director to be transparent and objective in their appraisal of the branch when they are stressed about a deadline, or weary of the interviewers (who in many cases were strangers to the directors), would not have been the right environment.
 
-**The interview processes**
+## The interview processes
 
 In each interview, we started off by going through the formalities.
 We clearly explained the purpose of the interview and the outcome of it–an anonymous “What We Heard” report, to be sent to directors for their review before being shared with senior management.
@@ -84,7 +84,7 @@ Not only did the directors answer all of the questions in a timely manner, b
 Our team tried to keep the discussion to a very friendly conversational tone, which allowed interviewees to open up quickly and provide us with valuable insight.
 Throughout the interview process directors spoke candidly and honestly with us, many indicating that they would not hesitate to speak publicly on these topics, suggesting that IITB has a positive feedback culture.
 
-**Main concerns**
+## Main concerns
 
 We heard about many positive and negative aspects of working in IITB; however, a few aspects stood out as being particularly impactful or common amongst directors within the branch.
 The most common aspects that were identified included human resource management challenges, ad hoc and emergency requests, constantly shifting priorities and unreasonable expectations from senior management, long working hours, endless back-to-back meetings, training budgeting issues, and information overload from numerous communication channels in the branch.The difficulties of using HR hiring process was the most heard piece of feedback and is one of the most complex issues to tackle in ESDC.
@@ -111,7 +111,7 @@ Addressing mental health at work is very common in many organizations, espe
 These steps are promoted by having mental health as a regular topic in the IITB newsletter and various communications,managers conduct regular check-ins with employees, and are provided with resources such as the Employee Assistance Program (EAP) for support.
 In addition, ongoing initiatives such as the “Stay Healthy Challenge” also encourage health and well-being in the workplace.
 
-**Conclusion**
+## Conclusion
 
 At the end of the interview sessions, we found ourselves with a massive number of notes and interesting impressions.
 The amount of information we received was positively overwhelming.

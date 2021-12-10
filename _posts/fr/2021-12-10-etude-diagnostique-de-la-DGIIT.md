@@ -20,7 +20,7 @@ Bien que bon nombre de leurs constatations puissent être utiles, nous croyons d
 Notre objectif était d’obtenir un point de vue et une mesure plus approfondis des réussites et des obstacles propres à la direction générale, et de mieux comprendre comment les équipes de directeurs interagissent et se sentent.
 Cette fois-ci, nous voulions poser aux directeurs des questions sur divers sujets qui nous permettraient de mieux saisir la mesure dans laquelle nous prenons soin de nos employés et, par le fait même, nous atteignons nos résultats.
 
-**Introspection**
+## Introspection
 
 Les problèmes organisationnels sous-jacents et persistants tendent à entraîner un épuisement émotionnel dans l’ensemble de l’organisation; toutefois, le fait de reconnaître le problème et demander de l’aide peut faire une différence.
 Les problèmes organisationnels peuvent représenter un défi et la première étape pour les résoudre consiste à les cerner et à en déterminer la source.
@@ -33,7 +33,7 @@ L’établissement d’une communication claire sera essentiel pour traverser la
 Dans le but de stimuler la communication, de cerner les principaux obstacles et les points à améliorer au sein de notre direction générale, nous avons tenté de nous entretenir avec les directeurs de la DGIIT pour entendre ce qu’ils avaient à dire.
 Nous avons discuté avec les directeurs de la DGIIT dans le cadre d’une série d’entrevues individuelles afin de mieux comprendre ce qu’ils vivent au jour le jour à la direction générale et de recueillir leurs points de vue sur EDSC dans son ensemble.
 
-**Pourquoi mener des entrevues plutôt que d’envoyer un sondage?**
+## Pourquoi mener des entrevues plutôt que d’envoyer un sondage?
 
 Avant de parler de la façon dont nous nous sommes préparés aux entrevues, permettez-moi d’être honnête avec vous : les entrevues ne sont pas la voie la plus facile à suivre.
 C’est surtout vrai dans notre cas, sachant à quel point l’environnement de travail des directeurs a toujours été des plus oppressant.
@@ -42,7 +42,7 @@ Nous voulions que les personnes interrogées se sentent plus à l’aise d’exp
 Il est plus facile de recueillir de l’information en parlant aux gens qu’en effectuant des sondages.
 En outre, nous craignions que la tenue d’un autre sondage suscite la lassitude des employés, compte tenu du nombre de sondages et de communications que nous recevons à la direction générale.
 
-**Quel était l’objectif?**
+## Quel était l’objectif?
 
 Nous voulions découvrir les points sensibles des directeurs et de leurs équipes et mettre en lumière les histoires de réussite et les idées novatrices.
 Ce faisant, nous voulions recueillir de l’information qui nous permettrait de déterminer comment investir dans nos capacités internes en vue d’améliorer la prestation des services de la DGIIT et élaborer des plans et des stratégies à venir.
@@ -53,7 +53,7 @@ C’est pourquoi nous avons choisi de mener cette étude en nous appuyant sur un
 Nous voulions que les directeurs puissent s’exprimer et se faire entendre.
 Dans les faits, cette étude a été créée par la DGIIT pour la DGIIT.
 
-**Préparation de l’entrevue**
+## Préparation de l’entrevue
 
 Les questions d’entrevue ont été conçues en collaboration avec les RH, la recherche sur l’opinion publique et les données du Sondage auprès des fonctionnaires fédéraux (SAFF) pour respecter le code d’éthique d’EDSC.
 Pour nous préparer à cette série d’entrevues, nous avons consulté l’équipe ministérielle des valeurs et de l’éthique afin de nous assurer de respecter toutes les exigences en matière de valeurs et d’éthique.
@@ -68,7 +68,7 @@ De plus, nous voulions que les entrevues se déroulent comme des conversations e
 Il était très important de mener les entrevues de manière à éviter les confrontations, de sorte que les directeurs soient à l’aise de nous parler de la manière la plus honnête possible.
 Le fait de demander à un directeur d’être transparent et objectif dans son évaluation de la direction générale quand il est stressé à cause d’une échéance ou fatigué de répondre aux questions des intervieweurs (qui, dans bien des cas, ne sont pas connus des directeurs) n’aurait pas été un environnement propice.
 
-**Processus d’entrevue**
+## Processus d’entrevue
 
 À chaque entrevue, nous avons commencé par les formalités. Nous avons clairement expliqué le but de l’entrevue et le résultat souhaité – la production d’un rapport anonyme de type « Ce que nous avons entendu », qui sera envoyé aux directeurs aux fins d’examen avant d’être transmis à la haute direction.
 L’entrevue comprenait 20 questions portant sur différents sujets, comme la présentation des équipes, le travail quotidien des directeurs, la culture au sein du ministère et la situation des directeurs à la direction générale, et se terminait par une section thématique sur l’impact du travail virtuel.
@@ -87,7 +87,7 @@ Non seulement les directeurs ont répondu à toutes les questions en temps oppor
 Notre équipe faisait le nécessaire pour que les discussions se déroulent sur un ton très amical, de sorte que les directeurs interviewés puissent se sentir à l’aise rapidement et nous fournir des renseignements utiles.
 Tout au long du processus d’entrevue, les directeurs ont été francs et honnêtes avec nous; bon nombre d’entre eux ont précisé qu’ils n’hésiteraient pas à parler publiquement de ces sujets, ce qui témoigne de la culture de rétroaction positive en vigueur à la DGIIT.
 
-**Principales préoccupations**
+## Principales préoccupations
 
 Nous avons recueilli des commentaires sur de nombreux aspects positifs et négatifs du travail à la DGIIT; toutefois, quelques-uns de ces aspects se sont révélés particulièrement importants ou communs chez les directeurs de la direction générale. Les aspects qui ont été le plus souvent cités comprenaient notamment : les défis en matière de gestion des ressources humaines; les demandes ponctuelles et urgentes; les priorités en constante évolution et les attentes déraisonnables de la haute direction; les longues heures de travail; les réunions consécutives interminables; les problèmes relatifs à la budgétisation de la formation; et la surcharge d’information provenant de nombreux canaux de communication au sein de la direction générale.
 
@@ -114,7 +114,7 @@ Tout au long des entrevues, il est clairement ressorti qu’il existe une corré
 Les problèmes de santé mentale au travail sont très courants dans de nombreux organismes, surtout dans l’après-pandémie. Heureusement, EDSC et notre direction générale prennent des mesures pour promouvoir des habitudes de travail plus saines. Nous faisons la promotion de ces mesures en abordant régulièrement le sujet de la santé mentale dans le bulletin de la DGIIT et diverses communications; en outre, les gestionnaires assurent un suivi régulier auprès des employés et ceux-ci peuvent compter sur des ressources comme le Programme d’aide aux employés (PAE) pour obtenir du soutien.
 De plus, des initiatives permanentes comme le défi « Rester en santé » favorisent également la santé et le bien-être en milieu de travail.
 
-**Conclusion**
+## Conclusion
 
 À la fin des entrevues, nous nous sommes retrouvés avec un nombre énorme de notes et de commentaires pertinents.
 Nous avons recueilli une quantité écrasante d’information.
