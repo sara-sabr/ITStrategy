@@ -97,7 +97,7 @@ Since the hiring process is not easy, directors recognize the importance of reta
 Lengthy administrative processes seen in IITB cause significant staffing delays, thus resulting in talent loss to other organizations.
 
 IITB needs to foster a culture of continuous learning, promote professional development, and support employee development to update and improve workforce skills that meet the pace of IM/IT change and evolution.
-[<u>Gartner TalentNeuron™</u>](https://www.gartner.com/en/human-resources/research/talentneuron) data shows that the total number of skills required for a single job is increasing by 10% year over year.
+[Gartner TalentNeuron™](https://www.gartner.com/en/human-resources/research/talentneuron) data shows that the total number of skills required for a single job is increasing by 10% year over year.
 Lack of resources for upskilling and reskilling employees is another impediment that is slowing down productivity during the day IITB employees.
 
 Managing employees in IITB branch (2,400 employees) in a large organization like ESDC (28,000 employees) is incredibly challenging and during our conversation with directors, they mentioned excessive, rigid, and redundant rules and regulations are a frequent prevention to action and decision-making.

@@ -100,7 +100,7 @@ Nous avons appris que le processus actuel comporte de nombreuses étapes redonda
 Comme le processus d’embauche n’est pas aisé, les directeurs reconnaissent l’importance de retenir leurs employés talentueux. Les longs processus administratifs de la DGIIT causent d’importants retards en matière dotation, ce qui entraîne une perte de talents au profit d’autres organisations.
 
  La DGIIT doit favoriser une culture d’apprentissage continu, promouvoir le perfectionnement professionnel et soutenir le perfectionnement des employés afin de mettre à jour et d’améliorer les compétences de l’effectif au rythme du changement et de l’évolution de la GI-TI.
-Les données de [<u>Gartner TalentNeuron™</u>](https://www.gartner.com/en/human-resources/research/talentneuron) montrent que le nombre total de compétences requises pour un seul emploi augmente de 10 % d’une année à l’autre.
+Les données de [Gartner TalentNeuron™](https://www.gartner.com/en/human-resources/research/talentneuron) montrent que le nombre total de compétences requises pour un seul emploi augmente de 10 % d’une année à l’autre.
 Le manque de ressources pour le perfectionnement et le recyclage des compétences des employés est un autre obstacle qui ralentit la productivité quotidienne des employés de la DGIIT.
 
 La gestion des employés de la DGIIT (2 400 employés) au sein d’une grande organisation comme EDSC (28 000 employés) est extrêmement difficile et, au cours de nos conversations avec les directeurs, il a été mentionné que les règles et règlements excessifs, rigides et redondants font souvent obstacle à la prise de mesures et de décisions.
