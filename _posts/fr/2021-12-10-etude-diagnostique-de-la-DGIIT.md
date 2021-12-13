@@ -9,7 +9,7 @@ last_modified: "2021-12-10"
 excerpt_separator: <!--more-->
 ---
 
->« Créer des liens bienveillants et solides entre les employés et leur travail, les clients, les dirigeants, les gestionnaires et l’organisation, afin d’obtenir des résultats pertinents pour tous les gens cités dans cette phrase. » - 
+>« Créer des liens bienveillants et solides entre les employés et leur travail, les clients, les dirigeants, les gestionnaires et l’organisation, afin d’obtenir des résultats pertinents pour tous les gens cités dans cette phrase. » -
 >David Zinger – Auteur, formateur et conseiller.
 
 Les organisations font régulièrement l’objet d’une évaluation pour déterminer leur efficacité.
@@ -33,7 +33,7 @@ L’établissement d’une communication claire sera essentiel pour traverser la
 Dans le but de stimuler la communication, de cerner les principaux obstacles et les points à améliorer au sein de notre direction générale, nous avons tenté de nous entretenir avec les directeurs de la DGIIT pour entendre ce qu’ils avaient à dire.
 Nous avons discuté avec les directeurs de la DGIIT dans le cadre d’une série d’entrevues individuelles afin de mieux comprendre ce qu’ils vivent au jour le jour à la direction générale et de recueillir leurs points de vue sur EDSC dans son ensemble.
 
-## Pourquoi mener des entrevues plutôt que d’envoyer un sondage?
+## Pourquoi mener des entrevues plutôt que d’envoyer un sondage
 
 Avant de parler de la façon dont nous nous sommes préparés aux entrevues, permettez-moi d’être honnête avec vous : les entrevues ne sont pas la voie la plus facile à suivre.
 C’est surtout vrai dans notre cas, sachant à quel point l’environnement de travail des directeurs a toujours été des plus oppressant.
@@ -42,7 +42,7 @@ Nous voulions que les personnes interrogées se sentent plus à l’aise d’exp
 Il est plus facile de recueillir de l’information en parlant aux gens qu’en effectuant des sondages.
 En outre, nous craignions que la tenue d’un autre sondage suscite la lassitude des employés, compte tenu du nombre de sondages et de communications que nous recevons à la direction générale.
 
-## Quel était l’objectif?
+## Quel était l’objectif
 
 Nous voulions découvrir les points sensibles des directeurs et de leurs équipes et mettre en lumière les histoires de réussite et les idées novatrices.
 Ce faisant, nous voulions recueillir de l’information qui nous permettrait de déterminer comment investir dans nos capacités internes en vue d’améliorer la prestation des services de la DGIIT et élaborer des plans et des stratégies à venir.

@@ -31,7 +31,7 @@ Better communication helps give staff the support they need to improve their wel
 Clear communication is central to making the next unstable phase a success.
 With the goal of boosting communication identifying major blockers and areas of improvement in our branch, we sought to go interview the directors of the IITB and hear their stories. We talked with directors across IITB in a series of one-on-one interviews to better understand their day-to-day experience within the branch and their views of ESDC as a whole.  
 
-## Why conduct interviews rather than send out a survey?
+## Why conduct interviews rather than send out a survey
 
 Before we talk about how we prepared for the interviews, let me be honest with you: interviews aren’t the easiest route to take.
 Especially in our case, knowing how overwhelming the work environment of directors has always been.
@@ -39,7 +39,7 @@ First, we had the idea of sending a survey to the directors and making our
 We wanted to make interviewees feel more comfortable expressing their true feelings and opinions and to give us as interviewers the opportunity to dive into specific topics.
 Talking to people will always tell more than surveying, and survey fatigue was one of our concerns given the number of surveys and communications we are presented with in the branch.
 
-## What was the goal?
+## What was the goal
 
 We wanted to uncover directors' and their teams’ pain points, highlight success stories and innovative ideas.
 By doing so, we wanted to collect information that would inform how we can invest in our internal capabilities to improve IITB service delivery, and to develop upcoming plans and strategies.
