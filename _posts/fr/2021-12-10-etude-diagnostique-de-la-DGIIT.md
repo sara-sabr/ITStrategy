@@ -15,6 +15,7 @@ excerpt_separator: <!--more-->
 Les organisations font régulièrement l’objet d’une évaluation pour déterminer leur efficacité.
 Cela comprend l’examen des niveaux de leadership, de communication, de responsabilisation, de prestation et de rendement.
 La prévention des erreurs, l’accroissement de l’efficacité et la quête d’amélioration constante sont au cœur des raisons pour lesquelles ces évaluations sont effectuées.
+
 Pour EDSC, ces évaluations sont souvent effectuées par des tiers, issus de l’extérieur du gouvernement.
 Bien que bon nombre de leurs constatations puissent être utiles, nous croyons disposer de l’expertise, de la confiance et du désir à long terme nécessaires pour favoriser une amélioration continue et procéder à des évaluations à l’interne.
 Notre objectif était d’obtenir un point de vue et une mesure plus approfondis des réussites et des obstacles propres à la direction générale, et de mieux comprendre comment les équipes de directeurs interagissent et se sentent.
@@ -30,7 +31,7 @@ Plus les problèmes organisationnels sont résolus rapidement, plus tôt nous se
 Les restrictions les plus sévères de la pandémie sont peut-être chose du passé, mais de nombreux employés se sentent de plus en plus isolés et épuisés mentalement.
 Une meilleure communication aide les employés à améliorer leur bien-être.
 L’établissement d’une communication claire sera essentiel pour traverser la prochaine phase d’instabilité.
-Dans le but de stimuler la communication, de cerner les principaux obstacles et les points à améliorer au sein de notre direction générale, nous avons tenté de nous entretenir avec les directeurs de la DGIIT pour entendre ce qu’ils avaient à dire.
+Dans le **but de stimuler la communication, de cerner les principaux obstacles et les points à améliorer au sein de notre direction générale**, nous avons tenté de nous entretenir avec les directeurs de la DGIIT pour entendre ce qu’ils avaient à dire.
 Nous avons discuté avec les directeurs de la DGIIT dans le cadre d’une série d’entrevues individuelles afin de mieux comprendre ce qu’ils vivent au jour le jour à la direction générale et de recueillir leurs points de vue sur EDSC dans son ensemble.
 
 ## Pourquoi mener des entrevues plutôt que d’envoyer un sondage
@@ -38,16 +39,18 @@ Nous avons discuté avec les directeurs de la DGIIT dans le cadre d’une série
 Avant de parler de la façon dont nous nous sommes préparés aux entrevues, permettez-moi d’être honnête avec vous : les entrevues ne sont pas la voie la plus facile à suivre.
 C’est surtout vrai dans notre cas, sachant à quel point l’environnement de travail des directeurs a toujours été des plus oppressant.
 Tout d’abord, nous avons eu l’idée d’envoyer un sondage aux directeurs et d’effectuer notre analyse au moyen des données recueillies, mais l’intention et le but de notre étude étaient différents de ce que représente un sondage.
+
 Nous voulions que les personnes interrogées se sentent plus à l’aise d’exprimer leurs véritables sentiments et opinions et nous donner l’occasion, en tant qu’intervieweurs, de nous pencher sur des sujets précis.
 Il est plus facile de recueillir de l’information en parlant aux gens qu’en effectuant des sondages.
 En outre, nous craignions que la tenue d’un autre sondage suscite la lassitude des employés, compte tenu du nombre de sondages et de communications que nous recevons à la direction générale.
 
 ## Quel était l’objectif
 
-Nous voulions découvrir les points sensibles des directeurs et de leurs équipes et mettre en lumière les histoires de réussite et les idées novatrices.
+Nous voulions **découvrir les points sensibles des directeurs et de leurs équipes et mettre en lumière les histoires de réussite et les idées novatrices**.
 Ce faisant, nous voulions recueillir de l’information qui nous permettrait de déterminer comment investir dans nos capacités internes en vue d’améliorer la prestation des services de la DGIIT et élaborer des plans et des stratégies à venir.
 Vous vous demandez peut-être « pourquoi nous faisons cela? », étant donné que d’autres rapports ont déjà été présentés, soit l’[étude de Price Waterhouse Coopers (PwC)](https://www.pwc.com/ca/fr/today-s-issues/upskilling/canadian-pulse-survey.html) menée en 2020 et le [rapport iScore de Gartner](https://www.gartner.com/en). Après avoir étudié ces deux rapports, lesquels s’appuyaient sur une approche descendante ‒ consistant à discuter avec les directeurs généraux et les cadres aux échelons supérieurs afin de comprendre les besoins stratégiques de l’organisation ‒ pour évaluer l’organisation, il demeurait nécessaire de mieux comprendre l’environnement opérationnel au sein de la DGIIT.
 En outre, il fallait développer les connaissances et les compétences internes de la DGIIT en matière de réalisation d’études internes.
+
 Nous croyons fermement qu’il incombe aux directeurs et à leurs équipes de livrer des services de TI qui permettent à EDSC de s’acquitter de son mandat d’améliorer la vie des Canadiens; ce sont eux qui comprennent les obstacles qui empêchent leurs équipes de fournir un rendement optimal et qui savent ce dont leurs équipes ont besoin pour bien fonctionner de manière constante.
 C’est pourquoi nous avons choisi de mener cette étude en nous appuyant sur une approche ascendante, en nous entretenant avec les directeurs et en recueillant les commentaires de leurs subalternes.
 Nous voulions que les directeurs puissent s’exprimer et se faire entendre.
@@ -91,7 +94,7 @@ Tout au long du processus d’entrevue, les directeurs ont été francs et honn�
 
 Nous avons recueilli des commentaires sur de nombreux aspects positifs et négatifs du travail à la DGIIT; toutefois, quelques-uns de ces aspects se sont révélés particulièrement importants ou communs chez les directeurs de la direction générale. Les aspects qui ont été le plus souvent cités comprenaient notamment : les défis en matière de gestion des ressources humaines; les demandes ponctuelles et urgentes; les priorités en constante évolution et les attentes déraisonnables de la haute direction; les longues heures de travail; les réunions consécutives interminables; les problèmes relatifs à la budgétisation de la formation; et la surcharge d’information provenant de nombreux canaux de communication au sein de la direction générale.
 
-Les difficultés relatives à l’utilisation du processus d’embauche des RH ont été l’élément de rétroaction le plus souvent cité et constituent l’un des problèmes les plus complexes à régler à EDSC.
+Les difficultés relatives à l’utilisation du **processus d’embauche des RH** ont été l’élément de rétroaction le plus souvent cité et constituent l’un des problèmes les plus complexes à régler à EDSC.
 Les gestionnaires responsables de l’embauche veulent embaucher le plus rapidement possible parce que les postes vacants entraînent des retards opérationnels et exercent une pression sur les membres de l’équipe.
 Bon nombre de directeurs souhaiteraient pouvoir attirer des candidats qualifiés, les embaucher rapidement, constituer une équipe dévouée et assurer une expérience viable pour les candidats.
 Dans le marché du travail actuel, l’embauche de candidats dans le secteur de l’informatique est devenue extrêmement concurrentielle.
