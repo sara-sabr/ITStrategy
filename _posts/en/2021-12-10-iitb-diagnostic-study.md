@@ -43,7 +43,7 @@ Talking to people will always tell more than surveying, and survey fatigue�
 
 We wanted to uncover directors' and their teams’ pain points, highlight success stories and innovative ideas.
 By doing so, we wanted to collect information that would inform how we can invest in our internal capabilities to improve IITB service delivery, and to develop upcoming plans and strategies.
-You might ask, ‘"why would you do this?”’ as other reports have been completed: [<u>Price Waterhouse Coopers (PwC) study</u>](https://www.pwc.com/ca/en/today-s-issues/upskilling/canadian-pulse-survey.html) conducted in 2020, [<u>the Gartner iScore report</u>](https://www.gartner.com/en).
+You might ask, ‘"why would you do this?”’ as other reports have been completed: [Price Waterhouse Coopers (PwC) study](https://www.pwc.com/ca/en/today-s-issues/upskilling/canadian-pulse-survey.html) conducted in 2020, [the Gartner iScore report](https://www.gartner.com/en).
 After studying both reports, each of which took a top-down approach to evaluate the organization, speaking with those at the director-general level and above to understand the organization's strategic needs, there remained a need to better understand the operational environment within IITB.
 In addition, there was a need to develop IITB’s internal knowledge and skills around conducting internal studies.
 
