@@ -48,7 +48,9 @@ En outre, nous craignions que la tenue d’un autre sondage suscite la lassitude
 
 Nous voulions **découvrir les points sensibles des directeurs et de leurs équipes et mettre en lumière les histoires de réussite et les idées novatrices**.
 Ce faisant, nous voulions recueillir de l’information qui nous permettrait de déterminer comment investir dans nos capacités internes en vue d’améliorer la prestation des services de la DGIIT et élaborer des plans et des stratégies à venir.
-Vous vous demandez peut-être « pourquoi nous faisons cela? », étant donné que d’autres rapports ont déjà été présentés, soit l’[étude de Price Waterhouse Coopers (PwC)](https://www.pwc.com/ca/fr/today-s-issues/upskilling/canadian-pulse-survey.html) menée en 2020 et le [rapport iScore de Gartner](https://www.gartner.com/en). Après avoir étudié ces deux rapports, lesquels s’appuyaient sur une approche descendante ‒ consistant à discuter avec les directeurs généraux et les cadres aux échelons supérieurs afin de comprendre les besoins stratégiques de l’organisation ‒ pour évaluer l’organisation, il demeurait nécessaire de mieux comprendre l’environnement opérationnel au sein de la DGIIT.
+Vous vous demandez peut-être « pourquoi nous faisons cela? », étant donné que d’autres rapports ont déjà été présentés, soit l’[étude de Price Waterhouse Coopers (PwC)](https://www.pwc.com/ca/fr/today-s-issues/upskilling/canadian-pulse-survey.html) menée en 2020 et le [rapport iScore de Gartner](https://www.gartner.com/en).
+
+Après avoir étudié ces deux rapports, lesquels s’appuyaient sur une approche descendante ‒ consistant à discuter avec les directeurs généraux et les cadres aux échelons supérieurs afin de comprendre les besoins stratégiques de l’organisation ‒ pour évaluer l’organisation, il demeurait nécessaire de mieux comprendre l’environnement opérationnel au sein de la DGIIT.
 En outre, il fallait développer les connaissances et les compétences internes de la DGIIT en matière de réalisation d’études internes.
 
 Nous croyons fermement qu’il incombe aux directeurs et à leurs équipes de livrer des services de TI qui permettent à EDSC de s’acquitter de son mandat d’améliorer la vie des Canadiens; ce sont eux qui comprennent les obstacles qui empêchent leurs équipes de fournir un rendement optimal et qui savent ce dont leurs équipes ont besoin pour bien fonctionner de manière constante.
@@ -67,6 +69,7 @@ Nous avions plusieurs objectifs en tête à l’égard des entrevues.
 Premièrement, nous voulions offrir aux directeurs un espace sécuritaire pour qu’ils se sentent à l’aise de nous parler.
 Lors de l’entrevue, nous avons assuré aux directeurs que tous les renseignements seraient recueillis de façon anonyme et qu’aucun nom ne serait consigné.
 Tous les renseignements permettant d’identifier un employé ou une équipe ont été généralisés de sorte qu’il était difficile de les retracer.
+
 De plus, nous voulions que les entrevues se déroulent comme des conversations et non comme des interrogatoires. Nous tenions à écouter les histoires de chacun et à comprendre ce qui fonctionne et ce qui ne fonctionne pas.
 Il était très important de mener les entrevues de manière à éviter les confrontations, de sorte que les directeurs soient à l’aise de nous parler de la manière la plus honnête possible.
 Le fait de demander à un directeur d’être transparent et objectif dans son évaluation de la direction générale quand il est stressé à cause d’une échéance ou fatigué de répondre aux questions des intervieweurs (qui, dans bien des cas, ne sont pas connus des directeurs) n’aurait pas été un environnement propice.
@@ -87,6 +90,7 @@ Cela nous a également permis de mieux comprendre comment les équipes de la DGI
 Au cours des entrevues, nous avons vécu plusieurs moments émotifs lorsque les directeurs décrivaient leurs expériences personnelles au sein de la direction générale.
 Comme intervieweurs, nous tentions de vivre les mêmes émotions qu’eux – qu’il s’agisse d’avoir un fou rire ou de ressentir leurs sentiments de frustration – et notre objectif était d’établir un lien de confiance avec eux.
 Non seulement les directeurs ont répondu à toutes les questions en temps opportun, mais les réponses fournies étaient très claires, pertinentes et amusantes.
+
 Notre équipe faisait le nécessaire pour que les discussions se déroulent sur un ton très amical, de sorte que les directeurs interviewés puissent se sentir à l’aise rapidement et nous fournir des renseignements utiles.
 Tout au long du processus d’entrevue, les directeurs ont été francs et honnêtes avec nous; bon nombre d’entre eux ont précisé qu’ils n’hésiteraient pas à parler publiquement de ces sujets, ce qui témoigne de la culture de rétroaction positive en vigueur à la DGIIT.
 
@@ -98,16 +102,18 @@ Les difficultés relatives à l’utilisation du **processus d’embauche des RH
 Les gestionnaires responsables de l’embauche veulent embaucher le plus rapidement possible parce que les postes vacants entraînent des retards opérationnels et exercent une pression sur les membres de l’équipe.
 Bon nombre de directeurs souhaiteraient pouvoir attirer des candidats qualifiés, les embaucher rapidement, constituer une équipe dévouée et assurer une expérience viable pour les candidats.
 Dans le marché du travail actuel, l’embauche de candidats dans le secteur de l’informatique est devenue extrêmement concurrentielle.
+
 À l’échelle régionale, EDSC est en concurrence avec d’autres ministères et municipalités. Nous devons aussi faire concurrence avec les gouvernements provinciaux à l’échelle nationale et avec les entreprises du secteur privé et les organisations multilatérales à l’échelle internationale.
 Nous avons appris que le processus actuel comporte de nombreuses étapes redondantes, des retards inutiles et des exigences rigoureuses qui empêchent l’embauche de candidats qualifiés.
 Comme le processus d’embauche n’est pas aisé, les directeurs reconnaissent l’importance de retenir leurs employés talentueux. Les longs processus administratifs de la DGIIT causent d’importants retards en matière dotation, ce qui entraîne une perte de talents au profit d’autres organisations.
 
- La DGIIT doit favoriser une culture d’apprentissage continu, promouvoir le perfectionnement professionnel et soutenir le perfectionnement des employés afin de mettre à jour et d’améliorer les compétences de l’effectif au rythme du changement et de l’évolution de la GI-TI.
+La DGIIT doit favoriser une culture d’apprentissage continu, promouvoir le perfectionnement professionnel et soutenir le perfectionnement des employés afin de mettre à jour et d’améliorer les compétences de l’effectif au rythme du changement et de l’évolution de la GI-TI.
 Les données de [Gartner TalentNeuron™](https://www.gartner.com/en/human-resources/research/talentneuron) montrent que le nombre total de compétences requises pour un seul emploi augmente de 10 % d’une année à l’autre.
 Le manque de ressources pour le perfectionnement et le recyclage des compétences des employés est un autre obstacle qui ralentit la productivité quotidienne des employés de la DGIIT.
 
 La gestion des employés de la DGIIT (2 400 employés) au sein d’une grande organisation comme EDSC (28 000 employés) est extrêmement difficile et, au cours de nos conversations avec les directeurs, il a été mentionné que les règles et règlements excessifs, rigides et redondants font souvent obstacle à la prise de mesures et de décisions.
 Lorsqu’il y a trop d’étapes et de niveaux d’approbation à franchir, il en résulte un processus et une structure de gouvernance trop complexes.
+
 Les directeurs ont ouvertement indiqué à quel point des tâches simples pouvaient s’avérer complexes en raison de la complexité du processus de demande/prise de mesures.
 De nombreux directeurs ont indiqué que les processus actuels et les niveaux d’approbation n’apportent aucune valeur supplémentaire et retardent plutôt l’exécution des activités opérationnelles.
 En diminuant le nombre de comités de gouvernance et en réduisant les niveaux d’approbation, nous pourrions favoriser un modèle de gouvernance plus efficace qui permettrait de remédier à ce problème.

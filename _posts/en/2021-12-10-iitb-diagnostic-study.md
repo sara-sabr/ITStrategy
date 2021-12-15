@@ -48,6 +48,7 @@ Talking to people will always tell more than surveying, and survey fatigue�
 We wanted **to uncover directors' and their teams’ pain points, highlight success stories and innovative ideas**.
 By doing so, we wanted to collect information that would inform how we can invest in our internal capabilities to improve IITB service delivery, and to develop upcoming plans and strategies.
 You might ask, ‘"why would you do this?”’ as other reports have been completed: [Price Waterhouse Coopers (PwC) study](https://www.pwc.com/ca/en/today-s-issues/upskilling/canadian-pulse-survey.html) conducted in 2020, [the Gartner iScore report](https://www.gartner.com/en).
+
 After studying both reports, each of which took a top-down approach to evaluate the organization, speaking with those at the director-general level and above to understand the organization's strategic needs, there remained a need to better understand the operational environment within IITB.
 In addition, there was a need to develop IITB’s internal knowledge and skills around conducting internal studies.
 
@@ -99,6 +100,7 @@ The most common aspects that were identified included human resource managemen
 The difficulties of using **HR hiring process** was the most heard piece of feedback and is one of the most complex issues to tackle in ESDC.
 Hiring managers want to hire as quickly as possible because vacant positions delay operations and put a strain on team members. Attracting qualified candidates, hiring promptly, building a dedicated team, and ensuring a viable candidate experience is what many directors would like to have.
 Hiring candidates in computer science has become extremely competitive in the current job market.
+
 ESDC is competing regionally with other departments and municipalities.
 Nationally with provincial governments, and internationally with private sector companies and multilateral organizations.
 We heard that the process today has many redundant steps, unnecessary delays, and stringent requirements that prevent qualified candidates from being hired.
