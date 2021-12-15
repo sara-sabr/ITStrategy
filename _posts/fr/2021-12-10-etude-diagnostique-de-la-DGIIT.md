@@ -112,7 +112,7 @@ Les données de [Gartner TalentNeuron™](https://www.gartner.com/en/human-reso
 Le manque de ressources pour le perfectionnement et le recyclage des compétences des employés est un autre obstacle qui ralentit la productivité quotidienne des employés de la DGIIT.
 
 La gestion des employés de la DGIIT (2 400 employés) au sein d’une grande organisation comme EDSC (28 000 employés) est extrêmement difficile et, au cours de nos conversations avec les directeurs, il a été mentionné que les règles et règlements excessifs, rigides et redondants font souvent obstacle à la prise de mesures et de décisions.
-Lorsqu’il y a trop d’étapes et de niveaux d’approbation à franchir, il en résulte un processus et une structure de gouvernance trop complexes.
+Quand il y a trop d’étapes et de niveaux d’approbation à franchir, il en résulte un processus et une structure de gouvernance trop complexes.
 
 Les directeurs ont ouvertement indiqué à quel point des tâches simples pouvaient s’avérer complexes en raison de la complexité du processus de demande/prise de mesures.
 De nombreux directeurs ont indiqué que les processus actuels et les niveaux d’approbation n’apportent aucune valeur supplémentaire et retardent plutôt l’exécution des activités opérationnelles.
