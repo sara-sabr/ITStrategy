@@ -8,7 +8,7 @@ jobs:
     steps:
       - name: Setup Date Variable
         id: date
-        run: echo "::set-output name=RUN_DATE::$(date +'%Y-%m-%dT%H:%M:%S')"
+        run: echo "::set-output name=RUN_DATE::$(date +'%Y-%m-%d')"
       - name: Checkout Repository
         uses: actions/checkout@v2
       - name: Install Dependencies
