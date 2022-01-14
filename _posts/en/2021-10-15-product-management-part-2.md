@@ -70,7 +70,7 @@ Program Officials’ incentives are results. While CIOs’ and CFOs’ are about
 <div style="display: block; width: inherit; text-align: center; line-height: 3;">
     <a href="/ITStrategy/assets/images/program_officials-cio-cfo_with_copyrights.png" style="display: block">
         <img src = "{{ site.baseurl }}/assets/images/program_officials-cio-cfo_with_copyrights.png"
-        alt = "This image is a three by three table showing the different perspectives that each of the Program Official, CFO, and CIO have of each other."
+        alt = "This image is a three by three table showing the different perspectives that each of the Program Official, CFO, and CIO have of each other. The first row shows that the Program Official sees themselves as Captain Canada, they see the CFO as a bag of money and the CIO as a tortoise. The second row shows that the CFO sees the Program Official as someone who spends a lot of money (image is of a hand holding shopping bags, a credit card and dollar bills in the air), they see themselves as the dragons from Dragons Den, and they see the CIO as a cowboy. The third row shows that the CIO sees the Program Official as a figure head (image is of the queen), the CFO as somone who creates red tape and the CIO as Neo from the Matrix."
         style="width: 800px; height: inherit;"
         />
     </a>
