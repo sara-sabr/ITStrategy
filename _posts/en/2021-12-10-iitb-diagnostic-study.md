@@ -18,11 +18,10 @@ Organizations routinely undergo assessment to determine effectiveness. This i
 Deterring errors, increasing efficiency and striving for constant improvement are at the core of why these assessments are conducted.
 
 For ESDC, these assessments are often conducted by third parties, outside of government.
-While many of their findings may be valuable, we believe we have the necessary expertise, confidence, and long-term desires to get ourselves involved with continuous improvements and perform internal assessment.
+While many of their findings may be valuable, we believe that within IITB we have the necessary expertise, confidence, and long-term desires to get ourselves involved with continuous improvements and perform internal assessment.
 
-So we initiated the IITB diagnostic study in 2021.
-From July to September we interviewed as many directors as we could with a goal to get a deeper understanding of successes as well as impediments facing IITB teams.
-We asked directors questions on various topics that would provide insight into how well we care for our employees, and in turn, how well we achieve results.
+So we initiated the first IITB diagnostic study in 2021.
+From July to September we talked with directors across IITB in a series of one-on-one interviews to better understand their day-to-day experience within the branch and their views of ESDC as a whole.  With a goal to improve communication and get a deeper understanding of successes as well as impediments facing IITB teams, we asked directors questions on various topics that would provide insight into how well we care for our employees, and in turn, how well we achieve results.
 
 ## Introspection
 
@@ -40,7 +39,7 @@ With the **goal of boosting communication identifying major blockers and areas 
 
 Before we talk about how we prepared for the interviews, let me be honest with you: interviews aren’t the easiest route to take.
 Especially in our case, knowing how overwhelming the work environment of directors has always been.
-First, we had the idea of sending a survey to the directors and making our analysis based on the data we collected from the survey, but the intent and goal of our study was different than what a survey would have provided.
+First, we had the idea of sending a survey to the directors and doing our analysis based on the data we collected from the survey, but the intent and goal of our study was different than what a survey would have provided.
 
 We wanted to make interviewees feel more comfortable expressing their true feelings and opinions and to give us as interviewers the opportunity to dive into specific topics.
 Talking to people will always tell more than surveying, and survey fatigue was one of our concerns given the number of surveys and communications we are presented with in the branch.
@@ -61,23 +60,23 @@ In effect, this study was created by IITB for IITB.  
 
 ## Interview preparation
 
-The interview questions have been designed in collaboration with HR, Public Opinion Research, and data from the Public Service Employee Survey (PSES) to follow ESDC’s ethical code.
-To prepare for this series of interviews, we have consulted with the departmental Values and Ethics team to ensure we meet all Values and Ethics requirements.
+The interview questions were designed in collaboration with HR, Public Opinion Research, and data from the Public Service Employee Survey (PSES).
+To prepare for this series of interviews, we consulted with the departmental Values and Ethics team to ensure we meet all Values and Ethics requirements.
 Before conducting the interviews, the questions were sent in advance to give directors time to reflect, ensure the best use of their time, and to allow them to prepare.
 
 We had several goals in mind when we approached the interviews.
 First, to provide a safe space for directors in order for them to feel comfortable talking to us.
 During the interview we assured the directors that all information would be collected anonymously, and no names would be recorded.
 Any information that may identify an employee or team was genericized so that it could not easily be traced. Additionally, we wanted to make the interviews feel like a conversation, rather than an interrogation.
-The intention of the discussion was to listen to each story and understand what is working, and what is not at work.
+The intention of the discussion was to listen to each story and understand what is working, and what is not.
 Conducting the interviews in a non-confrontational way, where directors would be comfortable sharing their honest views with us was very important.
 Asking a director to be transparent and objective in their appraisal of the branch when they are stressed about a deadline, or weary of the interviewers (who in many cases were strangers to the directors), would not have been the right environment.
 
 ## The interview processes
 
 In each interview, we started off by going through the formalities.
-We clearly explained the purpose of the interview and the outcome of it–an anonymous “What We Heard” report, to be sent to directors for their review before being shared with senior management.
-The interview contained 20 questions with different topics starting from team introduction, directors' daily work, the culture within the department, directors’ own position in the branch, and concluding with our thematic section on the impact of virtual work.
+We clearly explained the purpose of the interview and that the outcome would be an anonymous “What We Heard” report, to be sent to directors for their review before being shared with senior management.
+The interview contained 20 questions with different topics starting with team introduction, directors' daily work, the culture within the department, directors’ own position in the branch, and concluding with our thematic section on the impact of virtual work.
 People tend to talk a lot when a conversation gets going, and this is great!
 Knowing how busy the schedule of directors is, we tried to keep our discussion within 1 hour.
 We were very grateful to directors for taking time out of their busy schedules to share their observations and opinions with us.
@@ -85,7 +84,7 @@ This made each interview authentic and unique.
 
 The diagnostic study was on a volunteer basis and directors had a choice to participate or not.
 Out of 65 directors in IITB we had a chance to interview 39 over the course of 3 months.
-By meeting a lot of the directors for the first time gave us an opportunity to network and learn about new areas of the branch.
+Meeting a lot of the directors for the first time gave us an opportunity to network and learn about new areas of the branch.
 It also provided us with insight on how teams throughout IITB contribute to the department’s mandate.
 
 During the interviews, there were several emotional moments as directors described their personal experiences within the branch.
@@ -99,7 +98,7 @@ Throughout the interview process directors spoke candidly and honestly with us, 
 We heard about many positive and negative aspects of working in IITB; however, a few aspects stood out as being particularly impactful or common amongst directors within the branch.
 The most common aspects that were identified included human resource management challenges, ad hoc and emergency requests, constantly shifting priorities and unreasonable expectations from senior management, long working hours, endless back-to-back meetings, training budgeting issues, and information overload from numerous communication channels in the branch.
 
-The difficulties of using **HR hiring process** was the most heard piece of feedback and is one of the most complex issues to tackle in ESDC.
+Difficulties related to the **HR hiring process** was the most heard piece of feedback and is one of the most complex issues to tackle in ESDC.
 Hiring managers want to hire as quickly as possible because vacant positions delay operations and put a strain on team members. Attracting qualified candidates, hiring promptly, building a dedicated team, and ensuring a viable candidate experience is what many directors would like to have.
 Hiring candidates in computer science has become extremely competitive in the current job market.
 
@@ -114,15 +113,15 @@ IITB needs to foster a culture of continuous learning, promote professional de
 [Gartner TalentNeuron™](https://www.gartner.com/en/human-resources/research/talentneuron) data shows that the total number of skills required for a single job is increasing by 10% year over year.
 Lack of resources for upskilling and reskilling employees is another impediment that is slowing down productivity during the day IITB employees.
 
-Managing employees in IITB branch (2,400 employees) in a large organization like ESDC (28,000 employees) is incredibly challenging and during our conversation with directors, they mentioned excessive, rigid, and redundant rules and regulations are a frequent prevention to action and decision-making.
+Managing employees in IITB (2,400 employees) in a large organization like ESDC (28,000 employees) is incredibly challenging and during our conversation with directors, they mentioned excessive, rigid, and redundant rules and regulations are a frequent prevention to action and decision-making.
 When there are too many steps and levels of approval to go through, an overly complicated process and governance structure results. Directors openly commented about how complicated simple tasks seem to be because of the complexities involved in carrying out a request/action.
 Many directors indicated current processes and levels of approval do not add value and in fact delay business operations.
 By decreasing the number of governance committees and lessening the levels of approvals would give way to a more effective governance model that would remediate this problem.
 
 The challenges mentioned above lead to a concern for how directors and their employees are impacted.
 Throughout the interviews, it was clear that these challenges correlate with mental health and well-being, feelings of pressure and being overwhelmed or stressed at work.
-Addressing mental health at work is very common in many organizations, especially during the post-pandemic period. Fortunately, ESDC and our branch take steps to promote healthier work habits.
-These steps are promoted by having mental health as a regular topic in the IITB newsletter and various communications,managers conduct regular check-ins with employees, and are provided with resources such as the Employee Assistance Program (EAP) for support.
+Addressing mental health at work is very common in many organizations, especially during the post-pandemic period. Fortunately, ESDC and IITB is taking steps to promote healthier work habits.
+These steps are promoted by having mental health as a regular topic in the IITB newsletter and various communications, managers conduct regular check-ins with employees, and are provided with resources such as the Employee Assistance Program (EAP) for support.
 In addition, ongoing initiatives such as the “Stay Healthy Challenge” also encourage health and well-being in the workplace.
 
 ## Conclusion
