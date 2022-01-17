@@ -73,7 +73,7 @@ Les incitatifs des responsables des programmes sont des résultats, alors que le
 <div style="display: block; width: inherit; text-align: center; line-height: 3;">
     <a href="/ITStrategy/assets/images/program_officials-cio-cfo_with_copyrights-fr.png" style="display: block">
         <img src = "{{ site.baseurl }}/assets/images/program_officials-cio-cfo_with_copyrights-fr.png"
-        alt = "Cette image est un tableau trois par trois montrant les différentes perspectives que le responsable de programme, le directeur financier et le directeur informatique ont les uns des autres."
+        alt = "Cette image est un tableau trois par trois montrant les différentes perspectives que le responsable de programme, le DPF et le DPI ont les uns des autres. La première ligne montre que le responsable de programme se voit comme le capitaine Canada, le DPF comme un sac d'argent et le DPI comme une tortue. La deuxième rangée montre que le DPF voit le Responsable du programme comme quelqu'un qui dépense beaucoup d'argent (image d'une main tenant des sacs à provisions, une carte de crédit et des billets de banque en l'air), il se voit comme les dragons de l'émission dans l'oeil du drdagon, et il voit le DPI comme un cow-boy. La troisième rangée montre que le DPI voit le responsable de programme comme une figure de proue (image de la reine), le DPF comme quelqu'un qui crée de la paperasserie et le DPI comme Neo du film la Matrice."
         style="width: 800px; height: inherit;"
         />
     </a>
