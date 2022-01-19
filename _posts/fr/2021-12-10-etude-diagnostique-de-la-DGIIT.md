@@ -19,9 +19,8 @@ La prévention des erreurs, l’accroissement de l’efficacité et la quête d�
 Pour EDSC, ces évaluations sont souvent effectuées par des tiers, issus de l’extérieur du gouvernement.
 Bien que bon nombre de leurs constatations puissent être utiles, nous croyons qu'au sein de l'IITB, nous avons disposer de l’expertise, de la confiance et du désir à long terme nécessaires pour favoriser une amélioration continue et procéder à des évaluations à l’interne.
 
-Nous avons donc lancé l'étude de diagnostic de la DGIT en 2021.
-De juillet à septembre, nous avons interrogé autant de directeurs que possible dans le but de mieux comprendre les réussites ainsi que les obstacles auxquels sont confrontées les équipes de la DGIT.
-Nous avons posé aux directeurs des questions sur divers sujets qui nous permettraient de mieux saisir la mesure dans laquelle nous prenons soin de nos employés et, par le fait même, nous atteignons nos résultats.
+Notre objectif était d’obtenir un point de vue et une mesure plus approfondis des réussites et des obstacles propres à la direction générale, et de mieux comprendre comment les équipes de directeurs interagissent et se sentent.
+Cette fois-ci, nous voulions poser aux directeurs des questions sur divers sujets qui nous permettraient de mieux saisir la mesure dans laquelle nous prenons soin de nos employés et, par le fait même, nous atteignons nos résultats.
 
 ## Introspection
 

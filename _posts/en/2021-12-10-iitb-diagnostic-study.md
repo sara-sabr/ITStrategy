@@ -14,14 +14,14 @@ excerpt: "From July to September 2021, the IT Strategy team interviewed director
 >" Create caring and robust connections between every employee and their work, customers, leaders, managers, and the organization to achieve results that matter to everyone in this sentence.” -
 > David Zinger - Author, Coach & Consultant.
 
-Organizations routinely undergo assessment to determine effectiveness. This involves reviewing levels of leadership, communication, accountability, delivery, and performance.
+Organizations routinely undergo assessment to determine their effectiveness. This involves reviewing levels of leadership, communication, accountability, delivery, and performance.
 Deterring errors, increasing efficiency and striving for constant improvement are at the core of why these assessments are conducted.
 
 For ESDC, these assessments are often conducted by third parties, outside of government.
 While many of their findings may be valuable, we believe that within IITB we have the necessary expertise, confidence, and long-term desires to get ourselves involved with continuous improvements and perform internal assessment.
 
-So we initiated the first IITB diagnostic study in 2021.
-From July to September we talked with directors across IITB in a series of one-on-one interviews to better understand their day-to-day experience within the branch and their views of ESDC as a whole.  With a goal to improve communication and get a deeper understanding of successes as well as impediments facing IITB teams, we asked directors questions on various topics that would provide insight into how well we care for our employees, and in turn, how well we achieve results.
+Our goal was to get a more third dimension view and measurement of the branch's successes and impediments, get a deeper understanding of how director-level teams interact and feel. 
+This time, we wanted to ask directors questions on various topics that would provide insight into how well we care for our employees, and in turn, how well we achieve results.
 
 ## Introspection
 
