@@ -6,7 +6,7 @@ lang: en
 author: "Elmina Iusifova, in collaboration with the Information Technology (IT) Strategy team"
 date: "2021-12-10"
 last_modified: "2021-12-10"
-excerpt: "From July to September 2021, the IT Strategy team interviewed directors in the IITB organization. In this blog post we share what we learned and how we'll be using this valuable information."
+excerpt: "From July to September 2021, the IT Strategy team interviewed directors in the IITB organization. In this blog post we share how we prepared for the interviews and what we learned from directors."
 ---
 ---
 <!-- markdownlint-disable MD033 -->

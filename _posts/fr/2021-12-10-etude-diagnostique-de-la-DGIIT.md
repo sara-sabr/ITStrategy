@@ -6,7 +6,7 @@ lang: fr
 author: "Elmina Iusifova, en collaboration avec l'équipe de Stratégie TI"
 date: "2021-12-10"
 last_modified: "2021-12-10"
-excerpt: "De juillet à septembre 2021, l'équipe de la stratégie informatique a interrogé des directeurs de l'organisation de la DGIT. Dans ce billet de blog, nous partageons ce que nous avons appris et comment nous allons utiliser ces précieuses informations."
+excerpt: "De juillet à septembre 2021, l'équipe de la stratégie informatique a interrogé des directeurs de l'organisation de la DGIIT. Dans ce billet, nous expliquons comment nous avons préparé les entretiens et ce que nous avons appris des directeurs."
 ---
 
 >« Créer des liens bienveillants et solides entre les employés et leur travail, les clients, les dirigeants, les gestionnaires et l’organisation, afin d’obtenir des résultats pertinents pour tous les gens cités dans cette phrase. » -
