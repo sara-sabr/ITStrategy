@@ -20,7 +20,7 @@ Deterring errors, increasing efficiency and striving for constant improvement 
 For ESDC, these assessments are often conducted by third parties, outside of government.
 While many of their findings may be valuable, we believe that within IITB we have the necessary expertise, confidence, and long-term desires to get ourselves involved with continuous improvements and perform internal assessment.
 
-Our goal was to get a more third dimension view and measurement of the branch's successes and impediments, get a deeper understanding of how director-level teams interact and feel. 
+Our goal was to get a more third dimension view and measurement of the branch's successes and impediments, get a deeper understanding of how director-level teams interact and feel.
 This time, we wanted to ask directors questions on various topics that would provide insight into how well we care for our employees, and in turn, how well we achieve results.
 
 ## Introspection
