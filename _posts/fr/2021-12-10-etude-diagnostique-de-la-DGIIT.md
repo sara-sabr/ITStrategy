@@ -49,7 +49,7 @@ En outre, nous craignions que la tenue d’un autre sondage suscite la lassitude
 
 Nous voulions **découvrir les points sensibles des directeurs et de leurs équipes et mettre en lumière les histoires de réussite et les idées novatrices**.
 Ce faisant, nous voulions recueillir de l’information qui nous permettrait de déterminer comment investir dans nos capacités internes en vue d’améliorer la prestation des services de la DGIIT et élaborer des plans et des stratégies à venir.
-Vous vous demandez peut-être « pourquoi nous faisons cela? », étant donné que d’autres rapports ont déjà été présentés, soit l’[étude de Price Waterhouse Coopers (PwC)](https://www.pwc.com/ca/fr/today-s-issues/upskilling/canadian-pulse-survey.html) menée en 2020 et le [rapport iScore de Gartner](https://www.gartner.com/en).
+Vous vous demandez peut-être « pourquoi nous faisons cela? », étant deux autres rapports,étude de Price Waterhouse Coopers (PwC) et rapport iScore de Gartner, ont été rédigés par des entreprises tierces à EDSC pour aider à évaluer ses fonctions de GI/TI.
 
 Après avoir étudié ces deux rapports, lesquels s’appuyaient sur une approche descendante ‒ consistant à discuter avec les directeurs généraux et les cadres aux échelons supérieurs afin de comprendre les besoins stratégiques de l’organisation ‒ pour évaluer l’organisation, il demeurait nécessaire de mieux comprendre l’environnement opérationnel au sein de la DGIIT.
 En outre, il fallait développer les connaissances et les compétences internes de la DGIIT en matière de réalisation d’études internes.

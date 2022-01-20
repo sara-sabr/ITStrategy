@@ -48,7 +48,7 @@ Talking to people will always tell more than surveying, and survey fatigue�
 
 We wanted **to uncover directors' and their teams’ pain points, highlight success stories and innovative ideas**.
 By doing so, we wanted to collect information that would inform how we can invest in our internal capabilities to improve IITB service delivery, and to develop upcoming plans and strategies.
-You might ask, ‘"why would you do this?”’ as other reports have been completed: [Price Waterhouse Coopers (PwC) study](https://www.pwc.com/ca/en/today-s-issues/upskilling/canadian-pulse-survey.html) conducted in 2020, [the Gartner iScore report](https://www.gartner.com/en).
+You might ask, ‘"why would you do this?”’, as two other reports, Price Waterhouse Coopers (PwC) study and the Gartner iScore report, were written buy third party firms at ESDC to help assess its IM/IT functions.
 
 After studying both reports, each of which took a top-down approach to evaluate the organization, speaking with those at the director-general level and above to understand the organization's strategic needs, there remained a need to better understand the operational environment within IITB.
 In addition, there was a need to develop IITB’s internal knowledge and skills around conducting internal studies.
@@ -134,6 +134,7 @@ Our “What We Heard” report provides a comprehensive overview of what we hear
 Generally, directors in IITB were very positive and supportive of our initiative and welcomed the idea of conducting this study every year.
 Directors expressed gratitude for the opportunity to be heard.
 They were eager to see the results of the study and were hopeful that real change would be enacted as result of their input which is what we, the IT Strategy team, will use as evidence to inform our upcoming strategies.
+Senior Management have certainly demonstrated an interest in this study and plan to use it as a source of information.
 
 We are not just writing a simple report.
 We are writing a story to deliver a message from each team, of each director, to help decision-makers drive change in the organization accordingly.
