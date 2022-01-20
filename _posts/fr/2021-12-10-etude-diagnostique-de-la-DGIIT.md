@@ -135,6 +135,7 @@ En général, les directeurs de la DGIIT ont été très positifs et ont appuyé
 Ils ont affirmé être reconnaissants de pouvoir se faire entendre.
 Ils étaient impatients de voir les résultats de l’étude et espéraient que leurs commentaires donneraient lieu à de véritables changements.
 D’ailleurs, nous ‒ les membres de l’équipe de la stratégie des TI ‒ nous appuierons sur ces données pour orienter nos stratégies à venir.
+La haute direction a certainement manifesté un intérêt pour cette étude et compte s'en servir comme source d'information.
 
 Nous ne rédigeons pas qu’un simple rapport.
 Nous rédigeons une histoire pour transmettre les messages de chaque équipe et de chaque directeur, afin d’aider les décideurs à apporter les changements qui s’imposent au sein de l’organisation.
