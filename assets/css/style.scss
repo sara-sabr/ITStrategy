@@ -81,7 +81,7 @@ body {
 }
 
 #maincontent h1, #maincontent h2, #maincontent h3, #maincontent h4, #maincontent h5, #maincontent p, #maincontent blockquote, #maincontent .alert, #maincontent img, #maincontent dl, #maincontent ol, #maincontent ul, #maincontent details, #maincontent code, #maincontent .version, #maincontent .author {
-  max-width: 700px;
+  max-width: 768px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -429,7 +429,17 @@ h3.heading {
 }
 
 /* Devices under 768px (md) */
+/* #maincontent.author, higher up, set a max-width of 767px so now we have to set it to 100% for the blogs to display correctly */
 @media (max-width: 767.98px) {
+  #maincontent .author {
+    max-width: 100%;
+  }
+
+  #maincontent img {
+    width: 100%;
+    height: auto;
+  }
+
   .caption h1 {
     font-size: 2.7rem;
     letter-spacing: .15rem;
@@ -476,7 +486,17 @@ h3.heading {
 }
 
 /* Devices under 576px (sm) */
+/* #maincontent.author, higher up, set a max-width of 767px so now we have to set it to 100% for the blogs to display correctly */
 @media (max-width: 575.98px) {
+  #maincontent .author {
+    max-width: 100%;
+  }
+
+  #maincontent img {
+    width: 100%;
+    height: auto;
+  }
+
   .caption h1 {
     font-size: 1.9rem;
     letter-spacing: .1rem;
