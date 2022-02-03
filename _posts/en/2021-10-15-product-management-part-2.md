@@ -46,14 +46,11 @@ This complexity that Programs have to deal with has increased due the new [Polic
 
 While complex, the move towards digital service delivery also presents an opportunity by [resetting policy, delivery, and evaluation](https://honeygolightly.medium.com/asking-the-ultimate-awkward-question-a26bbb34ec61). With digital service delivery, Programs can more quickly obtain evidence to inform their improvements. This warrants us to adjust our planning methods by moving from advanced planning and rigid plan execution to one that rewards empirical cycle of trying, observing, and correcting[^2].
 
-<div style="display: block; width: inherit; text-align: center; line-height: 3;">
-    <a href="/ITStrategy/assets/images/digital_feedback_loop.png" style="display: block">
-        <img src = "{{ site.baseurl }}/assets/images/digital_feedback_loop.png"
-        alt = "This image depicts a feedback process loop. The image shows three icons: Policy Makers, Technology and Canadians. Between each icon there is an arrow showing a relationship as follows: Policy Makers must use Technology to implement their policies, Technology is then used to deliver services to Canadians, and after interacting with a service, Canadians provide their feedback to Policy Makers"
-        style="width: 800px; height: inherit;"
+<a href="{{ site.baseurl }}/assets/images/digital_feedback_loop.png">
+        <img src="{{ site.baseurl }}/assets/images/digital_feedback_loop.png"
+        alt="This image depicts a feedback process loop. The image shows three icons: Policy Makers, Technology and Canadians. Between each icon there is an arrow showing a relationship as follows: Policy Makers must use Technology to implement their policies, Technology is then used to deliver services to Canadians, and after interacting with a service, Canadians provide their feedback to Policy Makers"
         />
-    </a>
-</div>
+  </a>
 <small>Figure 1. Digital presents an opportunity to shorten the feedback loop between Policy Makers and Delivery</small>
 
 More concretely, we mean doing smaller, more frequent changes.
@@ -67,28 +64,22 @@ We all feel this gap when Programs compete for IT’s attention and limited reso
 
 Program Officials’ incentives are results. While CIOs’ and CFOs’ are about corporate integrity, including prioritizing over limited departmental resources.
 
-<div style="display: block; width: inherit; text-align: center; line-height: 3;">
-    <a href="/ITStrategy/assets/images/program_officials-cio-cfo_with_copyrights.png" style="display: block">
+<a href="{{ site.baseurl }}/assets/images/program_officials-cio-cfo_with_copyrights.png" style="display: block">
         <img src = "{{ site.baseurl }}/assets/images/program_officials-cio-cfo_with_copyrights.png"
         alt = "This image is a three by three table showing the different perspectives that each of the Program Official, CFO, and CIO have of each other. The first row shows that the Program Official sees themselves as Captain Canada, they see the CFO as a bag of money and the CIO as a tortoise. The second row shows that the CFO sees the Program Official as someone who spends a lot of money (image is of a hand holding shopping bags, a credit card and dollar bills in the air), they see themselves as the dragons from Dragons Den, and they see the CIO as a cowboy. The third row shows that the CIO sees the Program Official as a figure head (image is of the queen), the CFO as somone who creates red tape and the CIO as Neo from the Matrix."
-        style="width: 800px; height: inherit;"
         />
-    </a>
-</div>
+</a>
 <small>Figure 2. The relationships between Program Officials, the CFO, and the CIO[^4]</small>
 
 Because each officials are bound by a different set of rules (the Policies they are being held accountable to, like  [the 411 requirements for CIOs]({{site.baseurl}}{% link _posts/en/2021-06-02-stats-digial-policy-instruments.md %}), their behaviours and perspectives of each other understandably differs.
 
 This conundrum can be understood by the typical iceberg visualization.
 
-<div style="display: block; width: inherit; text-align: center; line-height: 3;">
-    <a href="/ITStrategy/assets/images/iceberg_program_internalsrvs.png" style="display: block">
+<a href="{{ site.baseurl }}/assets/images/iceberg_program_internalsrvs.png" style="display: block">
         <img src = "{{ site.baseurl }}/assets/images/iceberg_program_internalsrvs.png"
         alt = "An iceberg is on the left, with its portion above the water surface saying 'Programs' and its portion under water saying 'Internal Services'. The portion saying 'Programs' points to the Policy on Results while the portion saying 'internal services' points to the mention 'Projects are used to compete for limited resources'. The 'internal services' also has an image associated to it saying that only 15% of IITB's A-Base budget is dedicated to projects."
-        style="width: 800px; height: inherit;"
         />
-    </a>
-</div>
+</a>
 <small>Figure 3. Lots of stuff under the surface that Program Officials may not see (and don’t need to care about)</small>
 
 **If, in their periodic program renewal activities, Programs do not seek sufficient funding to sustain their digital operations, it affects their results**.
@@ -215,6 +206,8 @@ This Product Roadmap would still require having a faster-than-usual cadence othe
 - [The Problems with Project-Based funding for IT organizations]({{site.baseurl}}{% link _posts/en/2021-05-18-problems-of-project-based-funding.md %})
 - [CIOs and CFOs are essential in making digital transformation a reality]({{site.baseurl}}{% link _posts/en/2020-10-27-cio-digital-transformation.md %})
 - [We are inadvertently promoting risks in IT]({{site.baseurl}}{% link _posts/en/2019-12-20-why-we-are-promoting-risks.md %})
+
+-->
 
 ## Notes
 
