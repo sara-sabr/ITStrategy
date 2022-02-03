@@ -27,7 +27,7 @@ Note:
 - Les banques forment leurs banquiers à coder. Du Financial Times et Wall Street Journal.
   - e.g. Citigroup donne un cours de 3 jours à leurs banquiers pour qu'ils apprennent Python
   - e.g. JPMorgan Chase a un cours obligatoire sur Python pour ses 300 analystes
-  - Source: https://www.techrepublic.com/article/why-big-banks-are-requiring-workers-to-learn-coding/
+  - Source: (404) techrepublic.com/article/why-big-banks-are-requiring-workers-to-learn-coding/
 - Les voitures ont maintenant des centaines de millions de lignes de codes.
   - Source: https://www.technologyreview.com/s/508231/many-cars-have-a-hundred-million-lines-of-code/
 
