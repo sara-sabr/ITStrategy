@@ -466,6 +466,8 @@
     "stakeholder's",
     "analyze",
     "projectization",
+    "projectized",
+    "projectize",
     "upscale",
     "slideshare",
     "Gartner",
@@ -610,7 +612,9 @@
     "SAFF",
     "Lorsqu'il",
     "FTEs",
-    "PIPSC"
+    "PIPSC",
+    "DocUpload",
+    "PDMA"
   ],
   "flagWords": [],
   "import": ["node_modules/@cspell/dict-fr-fr/cspell-ext.json"],
