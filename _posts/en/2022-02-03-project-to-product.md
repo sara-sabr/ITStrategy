@@ -240,7 +240,8 @@ What this blog sought to do is share how we're striving to create the necessary 
 
 We are formalizing how such a transition can take place via a Pilot Framework (consisting of a Directive and an associated standard).
 The framework is currently in peer review internally as we want to use it for two Pilot projects: one with Job Bank and one with the [MyESDC mobile app](https://play.google.com/store/apps/details?id=com.esdc_emg&hl=en_US&gl=US).
-A draft version can be found here.
+
+A draft version of the framework can be found here.
 
 ## Notes
 
