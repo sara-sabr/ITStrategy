@@ -204,7 +204,7 @@ The Memorandum of Understanding is the agreement between the CIO (senior ADM of 
 Information to be added in the MOU and the template to use is as follows (adjusted from [TBS Guidelines on Service Agreements](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=25761)):
 
 <!-- markdownlint-disable -->
-<div style="border:1px solid black;">
+<div style="border:1px solid black; display: inline-block;">
     <p>Memorandum of Understanding</p>
     <p>Between Innovation, Information Technology Branch (IITB) and &lt;Branch A&gt;</p>
 
@@ -238,7 +238,7 @@ Information to be added in the MOU and the template to use is as follows (adjust
 Whereas &lt;Branch A&gt; has the authority, capacity, and expertise to deliver &lt;Service Name XYZ&gt; as part of &lt;Program name XYZ&gt; and IITB has the authority, capacity, and expertise to develop, operate, host, and assess software against the Information Management and Information Technology (IM/IT) regulations of the Treasury Board (TB) Directive on Service and Digital and the TB Directive on Security Management, therefore IITB agrees to provide &lt;Branch A&gt; with IT staff that will be dedicated to &lt;Branch A&gt;'s delivery of &lt;Service Name XYZ&gt;.
 </p>
 <p>
-&lt;Branch A&gt; will transfer an amount equal to &lt;$$$$$$&gt; on a yearly basis to IITB. This amount will be used to staff IT personnel and pay public cloud hosting fees (if necessary).
+&lt;Branch A&gt; will transfer an amount equal to &lt;&#36;&#36;&#36;&#36;&#36;&#36;&gt; on a yearly basis to IITB. This amount will be used to staff IT personnel and pay public cloud hosting fees (if necessary).
 </p>
 <p>IITB will be consulted to estimate the yearly IT Budget.</p>
 
