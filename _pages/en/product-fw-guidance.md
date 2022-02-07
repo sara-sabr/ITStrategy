@@ -75,20 +75,20 @@ Products can be tied to Service delivery, then to Programs the following way.
     <figcaption>Figure 1. The Product - Service relationship</figcaption>
 </figure>
 
-A service consumer doesn’t care about the costs and risks to operate the service.
+A service consumer doesn't care about the costs and risks to operate the service.
 But a service leverages products for its delivery. Managing the internal complexities to sustain these products AND how they affect the service level is where product management fits.
 Moving to digital means some of those products will be exposed to service consumer (e.g. a website).
 
 The words “Job Bank” can actually be understood to mean three separate things:
 
-- It’s a Program
-- It’s a free Service to job seekers and employers, ultimately measured using the Program’s [Performance Information Profile (PIP)](https://dialogue/grp/WG6278300/Program Inventory/Forms/AllItems.aspx?RootFolder=/grp/WG6278300/Program%20Inventory/Job%20Bank&FolderCTID=0x012000B9ED43B8F503194E9CF21B1ED35BB73E&View=%7b12E60D67-CC97-44CE-BBCA-B6E4EE0365E5%7d)
-- And it’s a [family of products](https://014gc.sharepoint.com/sites/JobBankProductManagement/SitePages/products.aspx), most notably ten of them making up its website exposed and consumed by clients as part of Job Bank’s service delivery (See [Appendix A](#appendix-a---business-view-of-job-banks-family-of-products) and [Appendix B](#appenix-b---it-view-of-job-banks-family-of-products-of-products)).
+- It's a Program
+- It's a free Service to job seekers and employers, ultimately measured using the Program's [Performance Information Profile (PIP)](https://dialogue/grp/WG6278300/Program Inventory/Forms/AllItems.aspx?RootFolder=/grp/WG6278300/Program%20Inventory/Job%20Bank&FolderCTID=0x012000B9ED43B8F503194E9CF21B1ED35BB73E&View=%7b12E60D67-CC97-44CE-BBCA-B6E4EE0365E5%7d)
+- And it's a [family of products](https://014gc.sharepoint.com/sites/JobBankProductManagement/SitePages/products.aspx), most notably ten of them making up its website exposed and consumed by clients as part of Job Bank's service delivery (See [Appendix A](#appendix-a---business-view-of-job-banks-family-of-products) and [Appendix B](#appenix-b---it-view-of-job-banks-family-of-products-of-products)).
 
 Interactions with the website has a direct impact on the Service performance AND gives rapid insights for improvements as interactions with software generates large amount of data.
 This is the new opportunity that Digital brings: the ability to quickly act on those insights, using evidence-based decision making.
 All with the objective to improve the results that Programs are being evaluated against via the [TB Policy on Results](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=31300).
-For example, Job Bank’s results being displayed [in GC’s InfoBase](https://www.tbs-sct.gc.ca/ems-sgd/edb-bdd/index-eng.html#infographic/program/HRSD-BGO05/results).
+For example, Job Bank's results being displayed [in GC's InfoBase](https://www.tbs-sct.gc.ca/ems-sgd/edb-bdd/index-eng.html#infographic/program/HRSD-BGO05/results).
 
 In the traditional Program-Corporate relationship, IT gets funding to “keep the lights on” and projects are used when Programs want to engage IT staff to make software changes. This can create unnecessary lag for much needed small improvements. 
 
@@ -132,20 +132,20 @@ A few things are necessary to enable such continuous improvements, which is the 
   <figcaption>Figure 4. Projects bringing work to Product Teams</figcaption>
 </figure>
 
-The different kinds of work affecting a particular product are requirements feeding that product’s backlog.
+The different kinds of work affecting a particular product are requirements feeding that product's backlog.
 Product Teams perform their own improvements and maintenance activities, while external Projects _bring_ work to them.
 
-To manage and coordinate all this demand, the **Product Manager** is used. As a strategic role she looks beyond a 6 month time horizon. The Product Manager uses the product’s roadmap as both a communication tool AND a negotiating one.
+To manage and coordinate all this demand, the **Product Manager** is used. As a strategic role she looks beyond a 6 month time horizon. The Product Manager uses the product's roadmap as both a communication tool AND a negotiating one.
 Collaborating with the different project managers on what is reasonable to do over a time horizon.
 The Product Manager also ensures the product team is well equipped to handle demands, such as performing financial, HR, and Architectural planning (e.g. **securing funding**).
 
 The **Product Owner** is a more tactical role.
 He looks within a 6 month time horizon.
 He works closely with the Product Manager and the product roadmap to scope releases and has ultimate authority to make decisions on the product.
-He works with the product team to elaborate more detailed requirements from the roadmap’s high level ones, and may engage other IT professionals when need be (e.g. IT Security).
+He works with the product team to elaborate more detailed requirements from the roadmap's high level ones, and may engage other IT professionals when need be (e.g. IT Security).
 
 In a cross-branch product team sponsored by a Branch, both the product manager and the product owner sits on the _Program_ side.
-Though it is expected they will have to work closely with IT Managers to fully understand the implications of risks, such as creeping technical debt and cyber security, has on their product’s livelihood as well as ensuring compliance to IM/IT Policies (e.g. IT Security’s software patching requirements).
+Though it is expected they will have to work closely with IT Managers to fully understand the implications of risks, such as creeping technical debt and cyber security, has on their product's livelihood as well as ensuring compliance to IM/IT Policies (e.g. IT Security's software patching requirements).
 
 Breaking down the main product that is Job Bank into its [10 “business product”](https://014gc.sharepoint.com/sites/JobBankProductManagement/SitePages/products.aspx), we expect such large Product to require a “Head of Product” overseeing all sub-products.
 In addition, those 10 Job Bank “business product” would each have a Product Manager and Owner assigned that sits on the Program side.
@@ -155,7 +155,7 @@ These more granular “internal IT products” may also be assigned Product Mana
 The **Product Team** is made up of cross-functionally skilled members, from _multiple_ branches.
 This is the space where Agile and DevSecOps fit in.
 The faster pace of release necessary to avoid clogging delivery promotes their adoption.
-Product teams must be well trained in Agile, otherwise chaos can creep in and negatively affect their performance, or worst, communicate to senior management that “Agile doesn’t work”.
+Product teams must be well trained in Agile, otherwise chaos can creep in and negatively affect their performance, or worst, communicate to senior management that “Agile doesn't work”.
 
 Other roles are necessary, such as the IT Security Champion one.
 This because the pace of change expected and the risks associated to even small software changes warrants security expertise to be embedded in the product team.
@@ -173,14 +173,14 @@ We also **_do not_** expect EARB and ARC to be involved in approving or endorsin
 This because EARB and ARC are focused on the enterprise and improving an existing product has negligible effects on the enterprise.
 EARB and ARC is involved in [Projects](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All Documents/Policy on Project and Programme Management.pdf).
 
-These conditions and the trust level provided to product teams can be managed through a Directive’s consequences of non-compliance.
-Such as, if non-compliant, adding layers of governance during the product team’s yearly funding cycle.
+These conditions and the trust level provided to product teams can be managed through a Directive's consequences of non-compliance.
+Such as, if non-compliant, adding layers of governance during the product team's yearly funding cycle.
 
-It’s worth noting that projectization is still needed to coordinate work across product teams and to bring workload to them.
+It's worth noting that projectization is still needed to coordinate work across product teams and to bring workload to them.
 
-To increase a product team’s capacity, existing funding pressure instruments are used.
-E.g. if a $2M/year product team can’t meet demand for a given year, departmental funding pressure can be used to increase it to $4M/year.
-For a cross-branch product team funded by a Program Official, this funding pressure should be done **_on the Program Official’s branch_**.
+To increase a product team's capacity, existing funding pressure instruments are used.
+E.g. if a $2M/year product team can't meet demand for a given year, departmental funding pressure can be used to increase it to $4M/year.
+For a cross-branch product team funded by a Program Official, this funding pressure should be done **_on the Program Official's branch_**.
 
 This dedicated cross-branch product team can still interact with other IITB teams. To explain this interaction, we use [team topologies concepts](https://teamtopologies.com/key-concepts).
 
@@ -205,10 +205,10 @@ Unless they can provide on-demand services, via APIs, their engagements may need
 **Specialized teams** provide significant expertise in some areas when need be.
 For example, relational database performance, advance data modeling, mathematics and calculations.
 These teams are typically first engaged as part of projects, then continue by providing services.
-E.g. setting up a Business Intelligence (BI) COTS product for the stream-aligned team then letting the stream-aligned team manage the BI’s reports.
+E.g. setting up a Business Intelligence (BI) COTS product for the stream-aligned team then letting the stream-aligned team manage the BI's reports.
 
 **Enabling teams** help other teams overcome obstacles.
-They coach and mentor them until they’ve gained sufficient expertise, at which point they step away. Enabling teams are essentially temporary in nature.
+They coach and mentor them until they've gained sufficient expertise, at which point they step away. Enabling teams are essentially temporary in nature.
 
 **Platform teams** provide compelling internal products and services to accelerate delivery by stream-aligned teams.
 One example for Job Bank is that it uses a DocUpload service that allows clients to upload documents, then performs anti-virus scans, and stores them securely.
@@ -219,49 +219,49 @@ Re-using such service enables the organizations to save time and money.
 ### Product Team Setup
 
 A new product is expected to be created after an investment project.
-Therefore, the transition from project to product should start no later than in the project’s closing stage (stage 5), preferably before hand so to give sufficient time for formalities to be established. See [ESDC’s Directive on Project Management](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Directive%20on%20Project%20Management.pdf) for reference.
+Therefore, the transition from project to product should start no later than in the project's closing stage (stage 5), preferably before hand so to give sufficient time for formalities to be established. See [ESDC's Directive on Project Management](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Directive%20on%20Project%20Management.pdf) for reference.
 
 This transition requires the Program Official (or a senior level official in an ESDC Branch) to find sufficient funding to sustain not only the “run” operations (i.e. maintenance work on the product), but also small and continuous improvements.
 The budget for such improvement includes both business and IT work.
 Estimating the budget should be informed by the following:
 
 - Number of _small_ software releases estimated to be performed each year. Small releases are typically for maintenance, bug fixes, and cyber security risk mitigation.
-- Number of _medium_ software releases estimated to be performed each year. Medium releases are typically for new product features that need a level of change management being performed from scoped within the product.
+- Number of _medium_ software releases estimated to be performed each year. Medium releases are typically for new product features that need a level of change management being performed and scoped within the product.
 - Number of _large_ software releases estimated to be performed each year. Drivers for large releases should come from outside projects impacting the product, such as legislation changes and transformational agenda.
 
-Such funding may be obtained via an agreement with the CIO in using the CIO’s budget, but is preferred to come directly from the Program funding source(s). Funding sources from the Program will require to add IT expenditure cost in the Program’s Treasury Board submission renewal using the estimated yearly budget mentioned above.
+Such funding may be obtained via an agreement with the CIO in using the CIO's budget, but is preferred to come directly from the Program funding source(s). Funding sources from the Program will require to add IT expenditure cost in the Program's Treasury Board submission renewal using the estimated yearly budget mentioned above.
 
 It is expected that such funding will require the Program Official to produce a compelling business case.
 It is recommended to anchor the business case in:
 
-- The Program’s Performance Information Profile’s expected outcomes,
-- ESDC’s Digital Service Transformation objectives
-- Situating the Program’s services (that the product team fits in) in [ESDC’s Service Target Operating Model](https://014gc.sharepoint.com/sites/TransformationEDSC-ESDC/SitePages/Service-Target-Operating-Model-(STOM).aspx)
-- A Branch’s Assistant Deputy Minister’s articulated goal(s)
+- The Program's Performance Information Profile's expected outcomes,
+- ESDC's Digital Service Transformation objectives
+- Situating the Program's services (that the product team fits in) in [ESDC's Service Target Operating Model](https://014gc.sharepoint.com/sites/TransformationEDSC-ESDC/SitePages/Service-Target-Operating-Model-(STOM).aspx)
+- A Branch's Assistant Deputy Minister's articulated goal(s)
 
 The [Business Architecture team](https://014gc.sharepoint.com/sites/TransformationEDSC-ESDC/SitePages/Business-Architecture.aspx) may be used to provide advice.
 
 It is **NOT** needed to go through EARB or ARC for endorsements.
 EARB and ARC will have been involved in projects bringing work to your product before they reach your backlog.
 
-The above refers to the following Directive’s requirements:
+The above refers to the following Directive's requirements:
 
-1. The Product Team’s yearly budget includes both IITB and Program area work
+1. The Product Team's yearly budget includes both IITB and Program area work
 2. The Product Team has source(s) of funds identified and secured
-3. Funds for the Product Team’s IT work are transferred to IITB on a yearly basis
+3. Funds for the Product Team's IT work are transferred to IITB on a yearly basis
 
 Corporate will want to have a view of how the product team is governed and structured to get assurance that a level of discipline is used by the product team to make decisions.
-Hence why documentation of the product team’s governance and cross-organizational chart are requirements.
+Hence why documentation of the product team's governance and cross-organizational chart are requirements.
 
 This arrangement between the Program area and the CIO in fund transfers and dedicated IT staff is to be formalized under a Memorandum of Understanding (MOU), identifying to which Program and/or Corporate Functions this arrangement is being tied to.
 
-Should funding pressures be needed to increase a product team’s capacity, those pressures are put on the Sponsoring Branch (not IITB).
+Should funding pressures be needed to increase a product team's capacity, those pressures are put on the Sponsoring Branch (not IITB).
 
-The location of the different repositories that the product uses to store its requirements needs to be known as projects seeking to bring workload to the product team will need to know where to add them. Hence why documenting and making available the product team’s requirements repository(ies).
+The location of the different repositories that the product uses to store its requirements needs to be known as projects seeking to bring workload to the product team will need to know where to add them. Hence why documenting and making available the product team's requirements repository(ies).
 
-IITB, as part of the [Directive on Service and Digital’s integrated planning requirements](https://gcconnex.gc.ca/discussion/view/72865810/dpsd-guide-1-0-for-integrated-planning-guide-pmsn-1-0-pour-le-plan-integre?language=en), need to document which applications from the [APM Inventory](https://dialogue/proj/ITCD-RMTI/APM-GPA/Site%20Pages%20Library/ActiveSolutions.aspx) is being worked on.
+IITB, as part of the [Directive on Service and Digital's integrated planning requirements](https://gcconnex.gc.ca/discussion/view/72865810/dpsd-guide-1-0-for-integrated-planning-guide-pmsn-1-0-pour-le-plan-integre?language=en), need to document which applications from the [APM Inventory](https://dialogue/proj/ITCD-RMTI/APM-GPA/Site%20Pages%20Library/ActiveSolutions.aspx) is being worked on.
 The APM inventory, known internally in IITB as the “Corporate Solutions Directory”, has a different representation of “products” than Programs do.
-This is fine, it’s the “IT view” of things.
+This is fine, it's the “IT view” of things.
 Hence why the requirement to identify the applications from the APM Inventory.
 
 Finally, all this information is asked to be documented in a place for easy access by Corporate and external project teams.
@@ -274,17 +274,17 @@ In investment projects, this assurance is done through gating process where proj
 Because some work between the cross-branch product team will not be projectized, and so will not require to be brought to those Corporate authorities, some level of assurance is needed that those responsibilities are still being upheld.
 
 It is expected that a product team will need to have high maturity in project management, _Agile_ methodologies, and _product_ management.
-This IITB Directive strives to provide as much flexibility to product teams on how they will organize internally by no prescribing any methodologies.
+This IITB Directive strives to provide as much flexibility to product teams on how they will organize internally by not prescribing any methodologies.
 Whether it be SCRUM, Kanban, or more traditional business-functional-technical specification, it does not matter to Corporate oversight.
 However, certain roles and their associated responsibilities are still expected regardless of which methodology is used.
 
-Section 5.2 of the IITB Directive lists the different roles that must be assigned to members of the product teams.
+[Section 5.2](product-fw-directive.html#roles-and-responsibilities) of the IITB Directive lists the different roles that must be assigned to members of the product teams.
 
 Depending on the scale of the product, a single person may fulfill more than one role.
 That person is still identified for each role so that external teams (such as project team) know who to contact for a particular topic.
 
 Although the roles of Head of Product, Product Manager, and Product Owner is expected to sit on the Program side, their activities are expected to heavily involve IT managers.
-The Product’s strategy, roadmap, and scope of releases all require being informed with IT considerations so to remain realistic, achievable, and sustainable (e.g. timely remediation of technical debt).
+The Product's strategy, roadmap, and scope of releases all require being informed with IT considerations so to remain realistic, achievable, and sustainable (e.g. timely remediation of technical debt).
 
 An optional dashboard for Product Managers and Owners to use in order to help quantify the types of work being managed, and so help with IT Manager communications, is the monthly workload distribution dashboard.
 
@@ -306,11 +306,11 @@ In this dashboard, there are four types of work:
 
 ### Oversight and Reporting
 
-Oversight and reporting provide Corporate authorities with some evidence that public funds are being spent on outcomes and that the product team “knows what it’s doing”.
+Oversight and reporting provide Corporate authorities with some evidence that public funds are being spent on outcomes and that the product team “knows what it's doing”.
 Striving to provide as much autonomy as possible to product teams while upholding the responsibilities mentioned above, a minimum of four artifacts are expected to be produced and, if being asked, provided to Corporate Authorities:
 
-1. The **Product’s Roadmap**. The Product Team may use more than one “view” of the product roadmap’s for its internal coordination and communication. For this Directive, Corporate will seek to have an executive level view of the milestones and outcomes expected to be obtained over a fiscal year.
-2. **Release Retrospectives**. Product Management seeks to continuously improve using evidence-based decision making. Every change release of a product needs to be evaluated against the desired outcomes that were sought in that release and analyzed on their successful or negative results. The timing of such retrospectives is left at the discretion of the product team (e.g. to retrospectives 2 months after a release so to give sufficient time for data to be generated).
+1. The **Product's Roadmap**. The Product Team may use more than one “view” of the product roadmap's for its internal coordination and communication. For this Directive, Corporate will seek to have an executive level view of the milestones and outcomes expected to be obtained over a fiscal year.
+2. **Release Retrospectives**. Product Management seeks to continuously improve using evidence-based decision making. Every change release of a product needs to be evaluated against the desired outcomes that were sought in that release and analyzed on their successful or negative results. The timing of such retrospectives is left at the discretion of the product team (e.g. do retrospectives 2 months after a release so to give sufficient time for data to be generated).
 3. **Software Delivery Performance Metrics**. The [DevOps Research and Assessment (DORA) Institute](https://www.devops-research.com/research.html), now bought by Google, researched the four key metrics that define high performing technology organizations. In addition to the above retrospectives on business outcomes, the product team should strive to continuously improve its software delivery capabilities. These DORA metrics are meant to show Corporate that the product team is making improvements in that regards and takes serious consideration on the effects that creeping technical debt, quality, and cyber security has on the health of their product(s).
 4. **A Risk Register**. Same as in project management, Corporate authorities needs to be assured that the product team understands the risks that change can have on their product and the organization. It is expected that product team will be disciplined in identifying risks to their operations and know how to handle them.
 
@@ -319,16 +319,16 @@ Striving to provide as much autonomy as possible to product teams while upholdin
 Consequences of non-compliance are used to motivate product teams to maintain a high level of integrity and performance necessary to retain the level of autonomy provided by the Directive.
 
 Governance authorities may, on occasion, request certain evidence from the project team that they are behaving according to the Directive.
-These may be in the form of an audit or an invitation to a corporate committee (e.g. invited to DGPOC in presenting their product’s roadmap and a summary of their recent retrospectives).
+These may be in the form of an audit or an invitation to a corporate committee (e.g. invited to DGPOC in presenting their product's roadmap and a summary of their recent retrospectives).
 
 Failure to comply with the Directive and associated Standard requirements will result consequences of gradual severity.
 
-As such, consequences vary from notification, to training, to adding layers of governance in a team’s yearly funding cycle, up to cancelling the agreement between IITB and the sponsoring Branch’s ADM
+As such, consequences vary from notification, to training, to adding layers of governance in a team's yearly funding cycle, up to cancelling the agreement between IITB and the sponsoring Branch's ADM
 
 As expertise in Agile methods and DevSecOps are expected to be required, IITB is investing in maturity assessment tooling and training, such as:
 
-- Maturity Assessment using [IITB’s SDLC & Product Delivery Guidebook](https://esdc-iitb-sdlc-pdg-staging.azurewebsites.net/)
-- Agile Training (e.g. using the Interoperability team’s services)
+- Maturity Assessment using [IITB's SDLC & Product Delivery Guidebook](https://esdc-iitb-sdlc-pdg-staging.azurewebsites.net/)
+- Agile Training (e.g. using the Interoperability team's services)
 - Product Management Training (e.g. using external firm services)
 
 ## Appendix A - Business View of Job Bank's Family of Products
