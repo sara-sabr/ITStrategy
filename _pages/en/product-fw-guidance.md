@@ -34,8 +34,8 @@ These are well documented already, such as on <a href="https://www.pmi.org/disci
   - [Roles and Responsibilities](#roles-and-responsibilities)
   - [Oversight and Reporting](#oversight-and-reporting)
   - [Consequences of Non-Compliance](#consequences-of-non-compliance)
-  - [Appendix A - Business View of Job Bank's Family of Products](#appendix-a---business-view-of-job-banks-family-of-products)
-  - [Appenix B - IT View of Job Bank's Family of Products of Products](#appenix-b---it-view-of-job-banks-family-of-products-of-products)
+- [Appendix A - Business View of Job Bank's Family of Products](#appendix-a---business-view-of-job-banks-family-of-products)
+- [Appendix B - IT View of Job Bank's Family of Products of Products](#appendix-b---it-view-of-job-banks-family-of-products-of-products)
 
 ## Introduction
 
@@ -82,7 +82,7 @@ Moving to digital means some of those products will be exposed to service consum
 The words “Job Bank” can actually be understood to mean three separate things:
 
 - It’s a Program
-- It’s a Service to job seekers and employers, ultimately measured using the Program’s [Performance Information Profile (PIP)](https://dialogue/grp/WG6278300/Program Inventory/Forms/AllItems.aspx?RootFolder=/grp/WG6278300/Program%20Inventory/Job%20Bank&FolderCTID=0x012000B9ED43B8F503194E9CF21B1ED35BB73E&View=%7b12E60D67-CC97-44CE-BBCA-B6E4EE0365E5%7d)
+- It’s a free Service to job seekers and employers, ultimately measured using the Program’s [Performance Information Profile (PIP)](https://dialogue/grp/WG6278300/Program Inventory/Forms/AllItems.aspx?RootFolder=/grp/WG6278300/Program%20Inventory/Job%20Bank&FolderCTID=0x012000B9ED43B8F503194E9CF21B1ED35BB73E&View=%7b12E60D67-CC97-44CE-BBCA-B6E4EE0365E5%7d)
 - And it’s a [family of products](https://014gc.sharepoint.com/sites/JobBankProductManagement/SitePages/products.aspx), most notably ten of them making up its website exposed and consumed by clients as part of Job Bank’s service delivery (See [Appendix A](#appendix-a---business-view-of-job-banks-family-of-products) and [Appendix B](#appenix-b---it-view-of-job-banks-family-of-products-of-products)).
 
 Interactions with the website has a direct impact on the Service performance AND gives rapid insights for improvements as interactions with software generates large amount of data.
@@ -331,7 +331,7 @@ As expertise in Agile methods and DevSecOps are expected to be required, IITB is
 - Agile Training (e.g. using the Interoperability team’s services)
 - Product Management Training (e.g. using external firm services)
 
-### Appendix A - Business View of Job Bank's Family of Products
+## Appendix A - Business View of Job Bank's Family of Products
 
 <figure>
 <a href="{{ site.baseurl }}/assets/images/job-bank-product-view-business.png">
@@ -341,7 +341,7 @@ As expertise in Agile methods and DevSecOps are expected to be required, IITB is
   </a>
 </figure>
 
-### Appenix B - IT View of Job Bank's Family of Products of Products
+## Appendix B - IT View of Job Bank's Family of Products of Products
 
 <figure>
 <a href="{{ site.baseurl }}/assets/images/job-bank-product-view-tech.png">
