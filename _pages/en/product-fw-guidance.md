@@ -90,7 +90,7 @@ This is the new opportunity that Digital brings: the ability to quickly act on t
 All with the objective to improve the results that Programs are being evaluated against via the [TB Policy on Results](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=31300).
 For example, Job Bank's results being displayed [in GC's InfoBase](https://www.tbs-sct.gc.ca/ems-sgd/edb-bdd/index-eng.html#infographic/program/HRSD-BGO05/results).
 
-In the traditional Program-Corporate relationship, IT gets funding to “keep the lights on” and projects are used when Programs want to engage IT staff to make software changes. This can create unnecessary lag for much needed small improvements. 
+In the traditional Program-Corporate relationship, IT gets funding to “keep the lights on” and projects are used when Programs want to engage IT staff to make software changes. This can create unnecessary lag for much needed small improvements.
 
 <figure>
 <a href="{{ site.baseurl }}/assets/images/seb-project-wall-iitb.png">
