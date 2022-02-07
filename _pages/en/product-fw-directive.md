@@ -10,7 +10,7 @@ permalink: /product-fw-directive.html
 <!-- markdownlint-disable MD033 -->
 
 <div class="alert alert-warning">
-    <p align="center"><strong>DISCLAMER</strong></p>
+    <p align="center"><strong>DISCLAIMER</strong></p>
     <p>
 This document <strong>does NOT</strong> attempt to explain all aspects of Product Management (such as vision setting, user research, and the different phases a product goes through in its life cycle).
 These are well documented already, such as on <a href="https://www.pmi.org/disciplined-agile/process/product-management">PMI.org</a> and <a href="https://community.pdma.org/knowledgehub/home">PDMA.org</a>.

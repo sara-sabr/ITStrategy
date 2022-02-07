@@ -51,7 +51,7 @@ The Framework consists of:
 
 - One [Directive]({{ site.baseurl }}/product-fw-directive.html)
 - It's associated [Standard]({{ site.baseurl }}/product-fw-standard.html)
-- A [Guidance document]({{ site.baseurl }}/product-fw-guidance.html) to help explain the rationale and offer help in understanding the Directive and Standards rule. This because the above documents strove to be succing and to the point as per the wisdom of [How to Write Rules that People Want to Follow](https://lewiseisen.com/book/).
+- A [Guidance document]({{ site.baseurl }}/product-fw-guidance.html) to help explain the rationale and offer help in understanding the Directive and Standards rule. This because the above documents strove to be succinct and to the point as per the wisdom of [How to Write Rules that People Want to Follow](https://lewiseisen.com/book/).
 
 ## Stage 2 - Evaluation
 

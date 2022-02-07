@@ -10,7 +10,7 @@ permalink: /product-fw-standard.html
 <!-- markdownlint-disable MD033 -->
 
 <div class="alert alert-warning">
-    <p align="center"><strong>DISCLAMER</strong></p>
+    <p align="center"><strong>DISCLAIMER</strong></p>
     <p>
 This document <strong>does NOT</strong> attempt to explain all aspects of Product Management (such as vision setting, user research, and the different phases a product goes through in its life cycle).
 These are well documented already, such as on <a href="https://www.pmi.org/disciplined-agile/process/product-management">PMI.org</a> and <a href="https://community.pdma.org/knowledgehub/home">PDMA.org</a>.
@@ -177,7 +177,7 @@ The Product Team Brief is a document, whether online or in Office format, that c
 |---------------------------------|--------------------------------------------|
 | Product Name                    | Name of the Product (e.g. Job Bank)        |
 | Cross-Organizational Structure  | See "Product Team Organizational Structure"|
-| Governancce Structure           | See "Product Team Governance Structure"    |
+| Governance Structure            | See "Product Team Governance Structure"    |
 | Requirements Repository(ies)    | The requirement repository location(s) that the Product Team uses.|
 | Service(s) enabled              | A list of services that the product(s) being managed by the product team enables. This could be taken from:<br/><br/>- [ESDC's Programs Inventory](https://dialogue/grp/WG6278300/SitePages/Home.aspx) (performance information profiles)<br/>- ESDC's [Service Target Operating Model (STOM)](https://014gc.sharepoint.com/sites/TransformationEDSC-ESDC/SitePages/fr/Service-Target-Operating-Model-(STOM).aspx)<br/>- [Departmental goals](https://www.canada.ca/en/employment-social-development/corporate/reports/departmental-plan.html)<br/>- Branch-specific objectives<br/><br/>The purpose of this information gives the raison d'être of the products, and therefore justifies the product team's existence|
 | APM applications                | List of APM applications the Product Team manages, from the [Corporate Solution Directory](https://dialogue/proj/ITCD-RMTI/APM-GPA/Site Pages Library/ActiveSolutions.aspx)|
