@@ -27,6 +27,23 @@ These are well documented already, such as on <a href="https://www.pmi.org/disci
 <!-- markdownlint-disable MD001 -->
 ##### Table of Content <!-- omit in toc -->
 <!-- markdownlint-enable MD001 -->
+- [Effective Date](#effective-date)
+- [Authorities](#authorities)
+- [Standards](#standards)
+  - [Head of Product Role](#head-of-product-role)
+  - [Product Manager Role](#product-manager-role)
+  - [Product Owner Role](#product-owner-role)
+  - [IT Security Champion Role](#it-security-champion-role)
+  - [Change Coordinator Role](#change-coordinator-role)
+  - [Product Support Manager Role](#product-support-manager-role)
+  - [Product Team Organizational Structure](#product-team-organizational-structure)
+  - [Product Team Governance Structure](#product-team-governance-structure)
+  - [Product Team Brief](#product-team-brief)
+  - [Product Roadmap Executive View](#product-roadmap-executive-view)
+  - [Release Impact Analysis](#release-impact-analysis)
+  - [Memorandum of Understanding (MOU)](#memorandum-of-understanding-mou)
+  - [Product Team's Software Performance Metrics](#product-teams-software-performance-metrics)
+  - [Risk Register](#risk-register)
 
 ## Effective Date
 
