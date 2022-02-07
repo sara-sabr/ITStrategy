@@ -179,7 +179,7 @@ The Product Team Brief is a document, whether online or in Office format, that c
 | Cross-Organizational Structure  | See "Product Team Organizational Structure"|
 | Governancce Structure           | See "Product Team Governance Structure"    |
 | Requirements Repository(ies)    | The requirement repository location(s) that the Product Team uses.|
-| Service(s) enabled              | A list of services that the product(s) being managed by the product team enables. This could be taken from:<br><br><ul><li>[ESDC's Programs Inventory](https://dialogue/grp/WG6278300/SitePages/Home.aspx) (performance information profiles)</li><li>ESDC's [Service Target Operating Model (STOM)](https://014gc.sharepoint.com/sites/TransformationEDSC-ESDC/SitePages/fr/Service-Target-Operating-Model-(STOM).aspx)</li><li>[Departmental goals](https://www.canada.ca/en/employment-social-development/corporate/reports/departmental-plan.html)</li><li>Branch-specific objectives</li></ul><br><br>The purpose of this information gives the raison d'être of the products, and therefore justifies the product team's existence|
+| Service(s) enabled              | A list of services that the product(s) being managed by the product team enables. This could be taken from:<br/><br/>- [ESDC's Programs Inventory](https://dialogue/grp/WG6278300/SitePages/Home.aspx) (performance information profiles)<br/>- ESDC's [Service Target Operating Model (STOM)](https://014gc.sharepoint.com/sites/TransformationEDSC-ESDC/SitePages/fr/Service-Target-Operating-Model-(STOM).aspx)<br/>- [Departmental goals](https://www.canada.ca/en/employment-social-development/corporate/reports/departmental-plan.html)<br/>- Branch-specific objectives<br/><br/>The purpose of this information gives the raison d'être of the products, and therefore justifies the product team's existence|
 | APM applications                | List of APM applications the Product Team manages, from the [Corporate Solution Directory](https://dialogue/proj/ITCD-RMTI/APM-GPA/Site Pages Library/ActiveSolutions.aspx)|
 | MOU Location                    | The location where the signed MOU resides (e.g. SharePoint site URL)|
 | Role – Head of Product          | Name of the person assigned with the role of Head of Product|
@@ -255,7 +255,7 @@ Information to be added in the MOU and the template to use is as follows (adjust
 Whereas &lt;Branch A&gt; has the authority, capacity, and expertise to deliver &lt;Service Name XYZ&gt; as part of &lt;Program name XYZ&gt; and IITB has the authority, capacity, and expertise to develop, operate, host, and assess software against the Information Management and Information Technology (IM/IT) regulations of the Treasury Board (TB) Directive on Service and Digital and the TB Directive on Security Management, therefore IITB agrees to provide &lt;Branch A&gt; with IT staff that will be dedicated to &lt;Branch A&gt;'s delivery of &lt;Service Name XYZ&gt;.
 </p>
 <p>
-&lt;Branch A&gt; will transfer an amount equal to &lt;&#36;&#36;&#36;&#36;&#36;&#36;&gt; on a yearly basis to IITB. This amount will be used to staff IT personnel and pay public cloud hosting fees (if necessary).
+&lt;Branch A&gt; will transfer an amount equal to &lt;$$$&gt; on a yearly basis to IITB. This amount will be used to staff IT personnel and pay public cloud hosting fees (if necessary).
 </p>
 <p>IITB will be consulted to estimate the yearly IT Budget.</p>
 
@@ -396,7 +396,7 @@ Each risks in the register contains, at minimum, the following element:
 
 | Information Element             | Description                                |
 |---------------------------------|--------------------------------------------|
-| Risk Statement                  | A written statement about the risk. Typically in the form of<br><i>Given that …. , there is a risk that …., which will lead to…</li>|
+| Risk Statement                  | A written statement about the risk. Typically in the form of<br><i>Given that …. , there is a risk that …., which will lead to…|
 | Likelihood                      | The probability that a risk may materialize. Typically using a scale such as:<br>1: very low probability<br>2: low probability<br>3: moderate probability<br>4: high probability<br>5: almost certain|
 | Impact                          | The effects that the risk will have on business operations, or performance indicators, if it materializes (e.g. financial impact, client satisfaction, media coverage, legal implications). Typically using a scale such as:<br>1: negligible<br>2: minor<br>3: moderate<br>4: severe<br>5: catastrophic|
 | Severity                        | Likelihood times impact. Typically shown in a two by two matrix such as:<br> <img src="{{ site.baseurl }}/assets/images/risk-severity-matrix.png" alt="A two by two matrix that have 25 boxes. The ones on the bottom left are green because the risk is low, the ones in the middle are yellow because the risk is medium, the ones on the top right are red because they represents high risk. There is a star in the middle representing where the severity in this example is">|
