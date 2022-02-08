@@ -729,6 +729,11 @@ text-align: justify;
 text-justify: inter-word; }
 
 /*============= Blogs =============*/
+figcaption {
+  font-size: smaller;
+  text-align: center;  
+}
+
 img.image-x-large {
   height: 600px;
 }
@@ -743,6 +748,12 @@ img.image-medium {
 
 img.image-small {
   height: 365px;
+}
+
+img.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .long-text li, .long-text p {

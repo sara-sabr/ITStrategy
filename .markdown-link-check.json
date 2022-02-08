@@ -135,5 +135,6 @@
   {
     "pattern": "http://goodbadstrategy.com/"
   }
-  ]
+  ],
+  "aliveStatusCodes": [200, 403]
 }
