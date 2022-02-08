@@ -92,7 +92,7 @@ The Product Manager performs the following activities:
 - Ensures the Product Team is equipped for success (e.g. procuring tools, training)
 - Understands the different phases of product delivery
 
-The above taken from [Product Development and Management Association](http://www.pdma.org/)'s Body of Knowledge second edition, from [280group](https://280group.com/what-is-product-management/roles/product-manager/), [GOV.uk's guidance](https://www.gov.uk/guidance/product-manager).
+The above taken from [Product Development and Management Association](https://www.pdma.org/page/npdp-bok-second-edition)'s Body of Knowledge second edition, from [280group](https://280group.com/what-is-product-management/roles/product-manager/), [GOV.uk's guidance](https://www.gov.uk/guidance/product-manager).
 
 ### Product Owner Role
 
