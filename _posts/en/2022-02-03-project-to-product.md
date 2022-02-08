@@ -58,7 +58,7 @@ This is how we tie Product to service and then to programs.
 
 A service consumer doesn't care about the costs and risks to operate the service, but a service uses products, which DO have a cost, for its delivery.
 Managing the internal complexities to sustain these products, and how they affect the service level is where product management fits.
-Moving to digital means some of those products will be exposed to the service consumer (e.g., a website).
+Moving to digital means some of those products will be exposed to service consumers (e.g., a website).
 
 The words “Job Bank” can be understood to mean three separate things:
 
@@ -101,7 +101,7 @@ This is where we want to differentiate improvements from projects.
   <figcaption>Figure 3. Three types of change and their funding coverage</figcaption>
 </figure>
 
-Funding RUN activities continue to be used for “keeping the lights on.”
+Funding for RUN activities continues to be used for “keeping the lights on.”
 
 Projects (they still exist in Product Management) are used to coordinate large change such as changing the enterprise through a transformation or needing to coordinate change over multiple products.
 
@@ -127,18 +127,18 @@ These changes come from multiple executives as the pension program is not tied t
 It can become unrealistic for IT alone to manage and coordinate this scale of commitments.
 Especially in dealing with territorial behaviours that projects may manifest (e.g., “I am TOP priority, this is MY budget, these are MY resources”).
 
-To manage all this demand, the **product manager** is used.
+To manage all this demand, **product managers** are used.
 It's a strategic role.
-She looks beyond a 6-month time horizon.
+They look beyond a 6-month time horizon.
 The product manager uses the product's roadmap as both a communication tool and a negotiating one.
 Collaborating with the different _project_ managers on what is reasonable to do over a time horizon.
 The product manager also ensures the product team is well equipped to handle demands, such as performing financial, HR, and architectural planning.
 In particular here: **securing funding**.
 
-The **product owner** is a more tactical role.
-He looks within a 6-month time horizon.
+**Product owners** are a more tactical role.
+They look within a 6-month time horizon.
 The product owner works closely with the product manager and the product roadmap to scope releases and has ultimate authority to make decisions on the product.
-He works with the product team to elaborate more detailed requirements from the roadmap's high-level ones, and may engage other IT professionals when need be (e.g., IT Security).
+They work with the product team to elaborate more detailed requirements from the roadmap's high-level ones, and may engage other IT professionals when need be (e.g., IT Security).
 
 We think both the product manager and the product owner need to sit on the _Program_ side due to their business decision-making aspect.
 Though it is expected they will have to work closely with IT Managers to fully understand the implications of risks, such as creeping technical debt and cyber security, has on their product's livelihood as well as ensuring compliance to IM/IT Policies (e.g. IT Security's software patching requirements).
