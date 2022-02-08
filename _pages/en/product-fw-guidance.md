@@ -16,7 +16,7 @@ This document <strong>does NOT</strong> attempt to explain all aspects of Produc
 These are well documented already, such as on <a href="https://www.pmi.org/disciplined-agile/process/product-management">PMI.org</a> and <a href="https://community.pdma.org/knowledgehub/home">PDMA.org</a>.
     </p>
     <p>
-    Instead, this documents seeks to provide structure to ESDC Programs and IITB in the <strong>transition</strong> from project to product, <strong>within a government context</strong>.
+    Instead, this documents seeks to provide structure to ESDC Programs and IITB in the <strong>transition</strong> from project to product, <strong>within a Canadian federal government context</strong>.
     In particular, the rationale and methods to <strong>cross-functional and cross-branch product teams</strong>.
     </p>
 </div>
@@ -115,13 +115,13 @@ This is where we want to differentiate improvements from projects and enable fun
   <figcaption>Figure 3. Three types of change and their funding coverage</figcaption>
 </figure>
 
-Funding RUN activities continue to be used for “keeping the lights on”.
+Funding for RUN activities continues to be used for “keeping the lights on”.
 
 Projects are used to coordinate large change, such as changing the enterprise through a transformation or needing to coordinate change over multiple products.  
 
 In between however, there is an opportunity to allow rapid, small, changes to software: enabling continuous improvements. Typically on existing business processes, to enhance user experience, and continuously address cyber security risks.
 
-A few things are necessary to enable such continuous improvements, which is the focus on this Directive and Standard.
+A few things are necessary to enable such continuous improvements, which is the focus of the [Directive](product-fw-directive.html) and [Standard](product-fw-standard.html).
 
 <figure>
 <a href="{{ site.baseurl }}/assets/images/product-roadmap-roles.png">
@@ -158,7 +158,7 @@ The faster pace of release necessary to avoid clogging delivery promotes their a
 Product teams must be well trained in Agile, otherwise chaos can creep in and negatively affect their performance, or worst, communicate to senior management that “Agile doesn't work”.
 
 Other roles are necessary, such as the IT Security Champion one.
-This because the pace of change expected and the risks associated to even small software changes warrants security expertise to be embedded in the product team.
+This is because the pace of change expected and the risks associated to even small software changes warrants security expertise to be embedded in the product team.
 This further promotes equipping product teams with the right tools and even warrants delegating certain architectural decisions to product teams as they are the ones suffering the consequences of some technology choice(s).
 
 Funding of cross-branch product team is expected to be as such:

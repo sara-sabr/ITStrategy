@@ -16,11 +16,11 @@ This document <strong>does NOT</strong> attempt to explain all aspects of Produc
 These are well documented already, such as on <a href="https://www.pmi.org/disciplined-agile/process/product-management">PMI.org</a> and <a href="https://community.pdma.org/knowledgehub/home">PDMA.org</a>.
     </p>
     <p>
-    Instead, this documents seeks to provide structure to ESDC Programs and IITB in the <strong>transition</strong> from project to product, <strong>within a government context</strong>.
+    Instead, this documents seeks to provide structure to ESDC Programs and IITB in the <strong>transition</strong> from project to product, <strong>within a Canadian federal government context</strong>.
     In particular, the methods to <strong>fund cross-functional and cross-branch product teams</strong>.
     </p>
     <p>
-    The Directive and Standard strive to be as succinct and to the point as possible, without repeating rules in existing policy instruments that teams are expected to comply with (such as Financial and Security). To help the reader understand the rationale behind them and provide guidance in implementing them, <a href="{{ site.baseurl }}/product-fw-guidance.html">this Guidance document has been written</a>.
+    The Directive and Standard strive to be as succinct and to the point as possible, without repeating rules in existing policy instruments that teams are expected to comply with (such as Financial and Security). To help the reader understand the rationale behind them and provide guidance in implementing them, <a href="{{ site.baseurl }}/product-fw-guidance.html">a Guidance document has been written</a>.
     </p>
 </div>
 
@@ -47,7 +47,7 @@ This directive **is effective between April 1st 2022 and March 31st 2023**.
 
 ## Authorities
 
-This directive is issued pursuant the authority indicated in the TB Policy on Service and Digital requirement 4.1.3.2 (Deputy Heads are responsible for) _Designating a departmental CIO responsible for leading the departmental IT, information, and data management functions_.
+This directive is issued pursuant to the authority indicated in the TB Policy on Service and Digital requirement 4.1.3.2 (Deputy Heads are responsible for) _Designating a departmental CIO responsible for leading the departmental IT, information, and data management functions_.
 
 The Chief Information Officer (CIO) has delegated to the Director General, Strategy, Architecture, and Business Relations (SABR) the authority to issue, amend, and rescind this **PILOT** directive.
 
@@ -102,7 +102,7 @@ This **PILOT** directive only applies to JobBank and MyESDC Mobile software-base
 
 ## Consequences of Non-Compliance
 
-Consequences of non-compliance is approached by gradually increasing the severity of the consequences over time, at the judgement of both IITB and the Sponsoring Branch, as follows:
+The approach for non-compliance will be one where the severity of the consequences are gradually increased over time, at the judgement of both IITB and the Sponsoring Branch, as follows:
 
 - Receiving a notification of non-compliance
 - Requiring to explain reasons of non-compliance at a gradual level of committee engagement:

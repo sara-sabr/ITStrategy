@@ -24,7 +24,7 @@ The two outcomes sought from this pilot are:
 
 The drivers for this pilot include:
 
-- Demands from LOBs (e.g. Job Bank, Benefits Delivery Modernization)
+- Demands from Lines of Businesses (e.g. Job Bank, Benefits Delivery Modernization)
 - GC's [Digital Operations Strategic Plan 2021/24](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-operations-strategic-plans/digital-operations-strategic-plan-2021-2024.html)
 - GC's [Cloud Adoption Strategy renewal](https://gccollab.ca/file/view/9635053/renewed-cloud-adoption-strategy-vision-measures-principles)
 - PM's [Mandate Letter](https://pm.gc.ca/en/mandate-letters/2021/12/16/minister-employment-workforce-development-and-disability-inclusion) (be agile)

@@ -16,11 +16,11 @@ This document <strong>does NOT</strong> attempt to explain all aspects of Produc
 These are well documented already, such as on <a href="https://www.pmi.org/disciplined-agile/process/product-management">PMI.org</a> and <a href="https://community.pdma.org/knowledgehub/home">PDMA.org</a>.
     </p>
     <p>
-    Instead, this documents seeks to provide structure to ESDC Programs and IITB in the <strong>transition</strong> from project to product, <strong>within a government context</strong>.
+    Instead, this documents seeks to provide structure to ESDC Programs and IITB in the <strong>transition</strong> from project to product, <strong>within a Canadian federal government context</strong>.
     In particular, the methods to <strong>fund cross-functional and cross-branch product teams</strong>.
     </p>
     <p>
-    The Directive and Standard strive to be as succinct and to the point as possible, without repeating rules in existing policy instruments that teams are expected to comply with (such as Financial and Security). To help the reader understand the rationale behind them and provide guidance in implementing them, <a href="{{ site.baseurl }}/product-fw-guidance.html">this Guidance document has been written</a>.
+    The Directive and Standard strive to be as succinct and to the point as possible, without repeating rules in existing policy instruments that teams are expected to comply with (such as Financial and Security). To help the reader understand the rationale behind them and provide guidance in implementing them, <a href="{{ site.baseurl }}/product-fw-guidance.html">a Guidance document has been written</a>.
     </p>
 </div>
 
