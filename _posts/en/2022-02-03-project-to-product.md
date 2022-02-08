@@ -39,7 +39,7 @@ In this blog, we [continue to extrapolate]({{ site.baseurl }}/2021/10/15/product
 We will follow how [Job Bank](https://www.jobbank.gc.ca/home)[^1] is transitioning from project to product by being provided with the necessary environmental structure to work in.
 We can tie this back to its [program desired outcomes](https://dialogue/grp/WG6278300/Program%20Inventory/Forms/AllItems.aspx?RootFolder=/grp/WG6278300/Program%20Inventory/Job%20Bank&FolderCTID=0x012000B9ED43B8F503194E9CF21B1ED35BB73E&View=%7b12E60D67-CC97-44CE-BBCA-B6E4EE0365E5%7d).
 
-Note: This blog will link to internal ESDC documents, which are unfortunately only accessible within ESDC corporate network.
+_Note: This blog will link to internal ESDC documents, which are unfortunately only accessible within ESDC corporate network._
 
 Employment and Social Development Canada (ESDC) is a [service department](https://www.tbs-sct.gc.ca/ems-sgd/edb-bdd/index-eng.html#infographic/dept/128/services), as are the large majority of Government of Canada departments.
 ESDC provides its services via [50 Programs](https://dialogue/grp/WG6278300/SitePages/Performance%20Information%20Profiles.aspx) to [improve the standard of living and quality of life for all Canadians](https://www.canada.ca/en/employment-social-development.html).
