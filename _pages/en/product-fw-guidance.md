@@ -135,14 +135,15 @@ A few things are necessary to enable such continuous improvements, which is the 
 The different kinds of work affecting a particular product are requirements feeding that product's backlog.
 Product Teams perform their own improvements and maintenance activities, while external Projects _bring_ work to them.
 
-To manage and coordinate all this demand, the **Product Manager** is used. As a strategic role she looks beyond a 6 month time horizon. The Product Manager uses the product's roadmap as both a communication tool AND a negotiating one.
-Collaborating with the different project managers on what is reasonable to do over a time horizon.
-The Product Manager also ensures the product team is well equipped to handle demands, such as performing financial, HR, and Architectural planning (e.g. **securing funding**).
+To manage and coordinate all this demand, **Product Managers** are used.
+As a strategic role they look beyond a 6 month time horizon. Product Managers use the product's roadmap as both a communication tool AND a negotiating one.
+Collaborating with the different _project_ managers on what is reasonable to do over a time horizon.
+A Product Manager also ensures the product team is well equipped to handle demands, such as performing financial, HR, and Architectural planning (e.g. **securing funding**).
 
-The **Product Owner** is a more tactical role.
-He looks within a 6 month time horizon.
-He works closely with the Product Manager and the product roadmap to scope releases and has ultimate authority to make decisions on the product.
-He works with the product team to elaborate more detailed requirements from the roadmap's high level ones, and may engage other IT professionals when need be (e.g. IT Security).
+**Product Owners** are a more tactical role.
+They look within a 6 month time horizon.
+They work closely with Product Managers and the product roadmap to scope releases and have ultimate authority to make decisions on the product.
+A Product Owner works with the product team to elaborate more detailed requirements from the roadmap's high level ones, and may engage other IT professionals when need be (e.g. IT Security).
 
 In a cross-branch product team sponsored by a Branch, both the product manager and the product owner sits on the _Program_ side.
 Though it is expected they will have to work closely with IT Managers to fully understand the implications of risks, such as creeping technical debt and cyber security, has on their product's livelihood as well as ensuring compliance to IM/IT Policies (e.g. IT Security's software patching requirements).
