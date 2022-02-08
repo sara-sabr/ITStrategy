@@ -90,7 +90,7 @@ If your job (and executive bonus) is on the line for function X, you'll of cours
 The Job Bank Program staff sits in the Skills and Employment Branch (SEB), while the IT staff sits in the Innovation, Information, and Technology Branch (IITB).
 The Job Bank Program team launches projects at IITB when they need IT staff to change the software used in the Job Bank Program delivery.
 
-This is where we want to differentiate improvements from projects.
+**This is where we want to differentiate improvements from projects.**
 
 <figure>
 <a href="{{ site.baseurl }}/assets/images/continuous-improvements-vs-projects.png">
