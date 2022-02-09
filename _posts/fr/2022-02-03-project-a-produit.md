@@ -190,7 +190,7 @@ Dans le cas d'une équipe regroupant plusieurs directions et financée par un re
 
 Cette équipe n'exerce toutefois pas ses activités en solitaire. Elle collabore avec d'autres équipes TI.
 
-Les [conceptes de la topologie des équipes](https://teamtopologies.com/key-concepts) sont utilisés pour expliquer ses interactions.
+Les [concepts de la topologie des équipes](https://teamtopologies.com/key-concepts) sont utilisés pour expliquer ses interactions.
 
 <figure>
 <a href="{{ site.baseurl }}/assets/images/job-bank-team-topologies-fr.png">

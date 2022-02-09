@@ -310,6 +310,7 @@
     "leverages",
     "leveraging",
     "lorsqu'elles",
+    "lorsqu'elle",
     "lorsqu'ils",
     "lorsqu'une",
     "maneuvers",
@@ -421,6 +422,7 @@
     "omnicanal",
     "autodirigé",
     "interfonctionnelles",
+    "interfonctionnels",
     "boufficiels",
     "pangouvernementale",
     "pangouvernementales",
@@ -618,7 +620,8 @@
     "AXELOS",
     "COGNOS",
     "Analyzes",
-    "SLF"
+    "SLF",
+    "DGCE"
   ],
   "flagWords": [],
   "import": ["node_modules/@cspell/dict-fr-fr/cspell-ext.json"],
