@@ -233,11 +233,9 @@ Mais nous nous disputerions ensuite sur les produits externes par rapport aux pr
 
 Le présent blogue visait à expliquer comment nous nous efforçons de créer l'espace nécessaire pour permettre aux gens d'interagir en équipe, même s'ils proviennent de différentes directions générales, ainsi que d'éviter les obstacles inutiles à la collaboration dont ils ont grandement besoin.
 
-Nous officialisons la façon dont une telle transition pourrait se faire au moyen d'un cadre pilote (comprenant une directive et un ensemble de normes).
+Nous officialisons la façon dont une telle transition pourrait se faire au moyen d'un [cadre pilote pour la gestion de produits]({{ site.baseurl }}/project-to-product.html#stage-1---the-pilot-framework) (anglais seulement, comprenant une directive et un ensemble de normes).
 
 Le cadre est actuellement en révision, car nous souhaitons l'utiliser pour deux projets pilotes : l'un avec le Guichet-Emplois, l'autre avec l'appli [MonEDSC](https://play.google.com/store/apps/details?id=com.esdc_emg&hl=fr&gl=CA).
-
-Une ébauche du cadre [se trouve ici]({{ site.baseurl }}/project-to-product.html#stage-1---the-pilot-framework) (anglais seulement).
 
 [^1]: Le [programme Guichet-Emplois](https://www.tbs-sct.gc.ca/ems-sgd/edb-bdd/index-fra.html#start) s'inscrit dans la Loi sur l'assurance-emploi et vise à offrir des services bilingues gratuits aux employeurs et aux chercheurs d'emploi afin d'atténuer la pression sur le programme d'assurance-emploi.
 [^2]: Ces politiques du CT illustrent la façon dont fonctionne une société fondée sur des règles comme notre démocratie. Si des gens décident d'ignorer les règles, ce pourrait être un signe d'un « gouvernement qui dérape ». Notre fonction publique a pour objectif de préserver l'intégrité et la responsabilité du gouvernement dans ces domaines.

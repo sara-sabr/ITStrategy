@@ -56,7 +56,7 @@ This is how we tie product to service and then to programs.
     <figcaption>Figure 1. The Product - Service relationship</figcaption>
 </figure>
 
-A service consumer doesn't care about the costs and risks to operate the service, but a service uses products, which DO have a cost, for its delivery.
+A service consumer doesn't care about the costs and risks to operate the service, but a service uses products, which _do_ have a cost, for its delivery.
 Managing the internal complexities to sustain these products, and how they affect the service level is where product management fits.
 Moving to digital means some of those products will be exposed to service consumers (e.g., a website).
 
@@ -239,10 +239,8 @@ But then we’d get into an argument about external vs internal products…
 
 What this blog sought to do is share how we're striving to create the necessary space for people to interact as one team, even if they may be from different branches, and avoid unnecessary hurdles for much needed collaboration to take place.
 
-We are formalizing how such a transition can take place via a Pilot Framework (consisting of a directive and an associated standard).
+We are formalizing how such a transition can take place via a [Pilot Product Management Framework]({{ site.baseurl }}/project-to-product.html#stage-1---the-pilot-framework) (consisting of a directive and an associated standard).
 The framework is currently in peer review internally as we want to use it for two Pilot projects: one with Job Bank and one with the [MyESDC mobile app](https://play.google.com/store/apps/details?id=com.esdc_emg&hl=en_US&gl=US).
-
-A draft version of the framework [can be found here]({{ site.baseurl }}/project-to-product.html#stage-1---the-pilot-framework).
 
 ## Notes
 
