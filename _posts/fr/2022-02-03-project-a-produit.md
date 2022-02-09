@@ -63,14 +63,14 @@ Le passage au numérique signifie que certains de ces produits seront exposés a
 Les mots « Guichet-Emplois » ramènent à trois choses distinctes :
 
 - un programme;
-- un service pour les chercheurs d'emploi et les employeurs, dont le rendement est mesuré au moyen du [profil d'information sur le rendement du programme (PIR)](https://dialogue/grp/WG6278300/Program%20Inventory/Forms/AllItems.aspx?RootFolder=/grp/WG6278300/Program%20Inventory/Job%20Bank&FolderCTID=0x012000B9ED43B8F503194E9CF21B1ED35BB73E&View=%7b12E60D67-CC97-44CE-BBCA-B6E4EE0365E5%7d);
-- une [famille de produits](https://014gc.sharepoint.com/sites/JobBankProductManagement/SitePages/products.aspx) – plus particulièrement les neuf produits qui forment le site Web du Guichet-Emplois, qui est exposé aux clients et consommé par eux dans le cadre de la prestation des services du Guichet-Emplois.
+- un service pour les chercheurs d'emploi et les employeurs, dont le rendement est ultimement mesuré au moyen du [profil d'information sur le rendement du programme (PIR)](https://dialogue/grp/WG6278300/Program%20Inventory/Forms/AllItems.aspx?RootFolder=/grp/WG6278300/Program%20Inventory/Job%20Bank&FolderCTID=0x012000B9ED43B8F503194E9CF21B1ED35BB73E&View=%7b12E60D67-CC97-44CE-BBCA-B6E4EE0365E5%7d);
+- une [famille de produits](https://014gc.sharepoint.com/sites/JobBankProductManagement/SitePages/products.aspx) – plus particulièrement les dix produits qui forment le site Web du Guichet-Emplois, qui est exposé aux clients et consommé par eux dans le cadre de la prestation des services du Guichet-Emplois.
 
 Les interactions avec le site Web ont une incidence directe sur le rendement du service (p. ex., la capacité de naviguer et de chercher des emplois pertinents, d'être correctement jumelé à un emploi) et donnent rapidement une rétroaction pour apporter des améliorations, car les interactions avec le logiciel génèrent de grandes quantités de données.
 C'est l'une des nouvelles possibilités qui s'offre à nous à l'ère du numérique : la capacité d'agir rapidement en se fondant sur cette rétroaction, en prenant des décisions axées sur des données probantes.
 Tout cela est fait dans le but d'[améliorer les résultats](https://www.tbs-sct.gc.ca/ems-sgd/edb-bdd/index-fra.html#start).
 
-Dans le cadre du lien qui unit habituellement les programmes et le ministère, les TI disposent à peine de suffisamment de fonds pour « faire tourner la roue » et les projets sont utilisés lorsque les programmes veulent mobiliser le personnel des TI pour apporter des modifications logicielles.
+Dans le cadre du lien qui unit habituellement les programmes et les services internes, les TI disposent à peine suffisamment de fonds pour « faire tourner la roue » et les projets sont utilisés lorsque les programmes veulent mobiliser le personnel des TI pour apporter des modifications logicielles.
 Cela peut créer un décalage inutile quand vient le temps d'apporter des améliorations mineures, mais indispensables.
 
 <figure>
@@ -123,7 +123,7 @@ Les différents types de travaux qui touchent un produit donné sont essentielle
 Les équipes de produits exécutent leurs propres activités d'amélioration et de maintenance, tandis que les projets externes leur _apportent_ du travail.
 
 Notre système de pensions constitue un bon exemple de cela.
-Il est **__bombardé_** de projets (qu'il s'agisse d'améliorations opérationnelles, du redressement de la dette technique, de correctifs logiciels, de mandats législatifs ou d'initiatives de transformation).
+Il est **_bombardé_** de projets (qu'il s'agisse d'améliorations opérationnelles, du redressement de la dette technique, de correctifs logiciels, de mandats législatifs ou d'initiatives de transformation).
 Ces changements proviennent de plusieurs cadres supérieurs, car le programme des pensions n'est pas lié à un seul fonctionnaire qui supervise son exécution.
 Il n'est pas réaliste de demander aux TI d'agir seules pour gérer et coordonner des engagements d'une telle ampleur.
 Surtout lorsqu'il s'agit de composer avec les comportements territoriaux que certains projets peuvent manifester (p. ex., « MA principale priorité, c'est MON budget, ce sont MES ressources »).
@@ -141,7 +141,7 @@ Ce rôle collabore avec l'équipe des produits pour élaborer des exigences plus
 Comme pour un gestionnaire de produit, nous pensons que le rôle de responsable de produit doit également être acquitté du côté du programme, compte tenu de l'aspect décisionnel qui en découle.
 
 L'**équipe de produit** est composée de membres interfonctionnels compétents, issus de _plusieurs_ directions.
-Il s'agit de l'espace où l'on peut intégrer les technologies Agiles et DevSecOps.
+Il s'agit de l'espace où l'on peut intégrer les méthodologies Agiles et DevSecOps.
 Le rythme plus rapide de diffusion nécessaire pour éviter d'obstruer le processus de prestation favorise leur adoption.
 Les équipes de produits doivent être bien formées sur les méthodologies Agiles, sinon le chaos risque de s'incruster et de nuire à leur rendement ou – pire encore – la haute direction pourrait en déduire que les « méthodologies Agiles ne fonctionnent pas ».
 La _discipline_ de la gestion de projet est encore activement utilisée ici, en particulier par le gestionnaire de produit, sans nécessairement être reconnue officiellement au niveau du ministère ou de la direction générale.
@@ -164,7 +164,7 @@ Voici comment nous proposons de financer les équipes regroupant des membres de 
 </figure>
 
 Un responsable de programme doit établir le budget et déterminer la source de financement des travaux de TI.
-Ce n'est pas un travail à faire au niveau organisationnel.
+Ce n'est pas un travail à faire par les services internes.
 Si un responsable de programme d'EDSC cherche à obtenir des fonds auprès du DPI, il est essentiellement en concurrence avec 49 autres programmes d'EDSC pour obtenir une part de ce budget limité.
 
 Un responsable du programme doit plutôt se rendre à la source.
@@ -213,7 +213,7 @@ Par exemple, le rendement des bases de données relationnelles, la modélisation
 
 Les **équipes habilitantes** aident les autres équipes à surmonter les obstacles.
 Elles les encadrent et les orientent jusqu'à ce qu'elles aient acquis une expertise suffisante, après quoi elles se retirent. Les équipes habilitantes sont éphémères de nature.
-L'exemple ci-haut est le bureau d'accessibilité
+L'exemple ci-haut est le bureau d'accessibilité.
 
 Les **équipes de plateforme** fournissent des produits et des services internes pertinents pour accélérer la prestation des services par les équipes axées sur un volet.
 Par exemple, le Guichet-Emplois utilise un service DocUpload qui permet aux clients de télécharger des documents, puis de les soumettre à une analyse antivirus et de les stocker en toute sécurité.
@@ -240,4 +240,4 @@ Le cadre est actuellement en révision, car nous souhaitons l'utiliser pour deux
 Une ébauche du cadre [se trouve ici]({{ site.baseurl }}/project-to-product.html#stage-1---the-pilot-framework) (anglais seulement).
 
 [^1]: Le [programme Guichet-Emplois](https://www.tbs-sct.gc.ca/ems-sgd/edb-bdd/index-fra.html#start) s'inscrit dans la Loi sur l'assurance-emploi et vise à offrir des services bilingues gratuits aux employeurs et aux chercheurs d'emploi afin d'atténuer la pression sur le programme d'assurance-emploi.
-[^2]: Ces politiques du CT illustrent la façon dont fonctionne une société fondée sur des règles comme notre démocratie. Quand les gens décident d'ignorer les règles, cela est le signe d'un « gouvernement qui dérape ». Notre fonction publique a pour objectif de préserver l'intégrité et la responsabilité du gouvernement dans ces domaines.
+[^2]: Ces politiques du CT illustrent la façon dont fonctionne une société fondée sur des règles comme notre démocratie. Si des gens décident d'ignorer les règles, ce pourrait être un signe d'un « gouvernement qui dérape ». Notre fonction publique a pour objectif de préserver l'intégrité et la responsabilité du gouvernement dans ces domaines.

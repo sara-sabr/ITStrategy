@@ -179,7 +179,7 @@ We see using Memorandums of Understanding (MOUs) between the CIO and the Sponsor
 We expect conditions over those funds, however.
 Such as spending them to generate outcomes, so … doing software releases rather than planning documents (those are for projects to do).
 
-We also _do not_ expect an Enterpriase Architecture Review Board (EARB) to be involved in approving or endorsing such funding.
+We also _do not_ expect an Enterprise Architecture Review Board (EARB) to be involved in approving or endorsing such funding.
 This is because EARB is focused on the enterprise and improving an existing product has negligible effects on the enterprise.
 EARB is involved in projects.
 
