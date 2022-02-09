@@ -45,7 +45,7 @@ Employment and Social Development Canada (ESDC) is a [service department](https:
 ESDC provides its services via [50 Programs](https://dialogue/grp/WG6278300/SitePages/Performance%20Information%20Profiles.aspx) to [improve the standard of living and quality of life for all Canadians](https://www.canada.ca/en/employment-social-development.html).
 One of those programs is Job Bank.
 
-This is how we tie Product to service and then to programs.
+This is how we tie product to service and then to programs.
 
 <figure>
 <a href="{{ site.baseurl }}/assets/images/product-service-mgt.png">
@@ -62,8 +62,8 @@ Moving to digital means some of those products will be exposed to service consum
 
 The words “Job Bank” can be understood to mean three separate things:
 
-- a Program;
-- a Service to job seekers and employers, ultimately measured using the Program’s [Performance Information Profile (PIP)](https://dialogue/grp/WG6278300/Program%20Inventory/Forms/AllItems.aspx?RootFolder=/grp/WG6278300/Program%20Inventory/Job%20Bank&FolderCTID=0x012000B9ED43B8F503194E9CF21B1ED35BB73E&View=%7b12E60D67-CC97-44CE-BBCA-B6E4EE0365E5%7d); and
+- a program;
+- a service to job seekers and employers, ultimately measured using the program’s [Performance Information Profile (PIP)](https://dialogue/grp/WG6278300/Program%20Inventory/Forms/AllItems.aspx?RootFolder=/grp/WG6278300/Program%20Inventory/Job%20Bank&FolderCTID=0x012000B9ED43B8F503194E9CF21B1ED35BB73E&View=%7b12E60D67-CC97-44CE-BBCA-B6E4EE0365E5%7d); and
 - a [family of products](https://014gc.sharepoint.com/sites/JobBankProductManagement/SitePages/products.aspx) - most notably ten of them making up its website, which is exposed to and consumed by clients as part of Job Bank’s service delivery.
 
 Interactions with the website have a direct impact on the service performance (e.g. ability to navigate and find information, being correctly matched to a relevant job, etc.), and gives rapid insights for improvements as interactions with software generates large amounts of data.
@@ -98,12 +98,12 @@ The Job Bank Program team launches projects at IITB when they need IT staff to c
         alt="The image contains three rectangles, each with a different saying. All three refer to a different kind of funding coverage. The one on the left has an image of a person running with the label Operate (run) maintain value. It is about operation and maintenance and refers to A-Base funding. The second rectangle on its right has an image of a spinning arrow going upwards with the label Enhance (Improve) Drive Value. The text under that image says Continuous Improvements, small growth and also refers to A-Base funding. The third rectangle on the right has an image of a light bulp with the label Innovate (Change) Create Value. The text in it says Innovate, Large Growth, Transform, Procurement and it refers B-Base funding."
         />
   </a>
-  <figcaption>Figure 3. Three types of change and their funding coverage</figcaption>
+  <figcaption>Figure 3. Three types of work and their funding coverage</figcaption>
 </figure>
 
 Funding for RUN activities continues to be used for “keeping the lights on.”
 
-Projects (they still exist in Product Management) are used to coordinate large change such as changing the enterprise through a transformation or needing to coordinate change over multiple products.
+Projects (which definitely still exist in Product Management) are used to coordinate large change such as changing the enterprise through a transformation or needing to coordinate change over multiple products.
 
 In the middle, though, there is an opportunity to allow rapid, small, changes to software, enabling continuous improvements. Typically, this would occur on existing business processes, to enhance user experience, and continuously address cyber security risks.
 
@@ -179,15 +179,15 @@ We see using Memorandums of Understanding (MOUs) between the CIO and the Sponsor
 We expect conditions over those funds, however.
 Such as spending them to generate outcomes, so … doing software releases rather than planning documents (those are for projects to do).
 
-We also _do not_ expect EARB to be involved in approving or endorsing such funding.
+We also _do not_ expect an Enterpriase Architecture Review Board (EARB) to be involved in approving or endorsing such funding.
 This is because EARB is focused on the enterprise and improving an existing product has negligible effects on the enterprise.
 EARB is involved in projects.
 
-These conditions and the trust level provided to product teams can be managed through a directive's consequences of non-compliance, such adding layers of governance during the product team's yearly funding cycle.
+These conditions and the trust level provided to product teams can be managed through a directive's consequences of non-compliance, such as adding layers of governance during the product team's yearly funding cycle.
 
 It's worth noting that projectization is still needed to coordinate work across product teams and to _bring_ workload to them.
 
-To increase a product team's capacity, existing funding pressure instruments are used (e.g., if a $2M/year product team can't meet demand for a given year, departmental funding pressure can be used to increase it to $4M/year).
+To increase a product team's capacity, existing funding pressure instruments are used (e.g., if a $2M/year product team can't meet demand for a given year, departmental funding pressures can be used to increase it to $4M/year).
 For a cross-branch product team funded by a program official, this funding pressure should be done to the program official's branch.
 
 This team doesn't operate on an isolated island, though. It collaborates with other IT teams.
@@ -205,7 +205,7 @@ This team doesn't operate on an isolated island, though. It collaborates with ot
 
 There are four types of teams that interact.
 The **stream-aligned** team is what the program official is funding.
-Its cloud credit and labour costs can be directly attributed to the program.
+Its cloud credits and labour costs can be directly attributed to the program.
 
 The other three types of teams cannot be directly attributed to a single program, their costs are essentially shared, making up the “IT Corporate Services” space.
 Their funding and sustainability require pooling funds into the CIO budget.
@@ -218,6 +218,7 @@ These teams are typically first engaged as part of projects, then continue by pr
 **Enabling teams** help other teams overcome obstacles.
 They coach and mentor them until they've gained sufficient expertise, at which point they step away.
 Enabling teams are temporary in nature.
+The example above is the Accessibility Office.
 
 **Platform teams** provide compelling internal products and services to accelerate delivery by stream-aligned teams.
 One example for Job Bank is that it uses a DocUpload service that allows clients to upload documents, which then performs anti-virus scans and stores them securely.
@@ -234,14 +235,14 @@ The Job Bank team is mature in applying product management philosophy, for examp
 
 Job Bank is also not just a single product, but a family of products.
 We could increase the level of granularity by breaking each product down to sub-products and to an atomic level: a software library.
-But then we’d get into an argument about external product vs internal products…
+But then we’d get into an argument about external vs internal products…
 
 What this blog sought to do is share how we're striving to create the necessary space for people to interact as one team, even if they may be from different branches, and avoid unnecessary hurdles for much needed collaboration to take place.
 
-We are formalizing how such a transition can take place via a Pilot Framework (consisting of a Directive and an associated standard).
+We are formalizing how such a transition can take place via a Pilot Framework (consisting of a directive and an associated standard).
 The framework is currently in peer review internally as we want to use it for two Pilot projects: one with Job Bank and one with the [MyESDC mobile app](https://play.google.com/store/apps/details?id=com.esdc_emg&hl=en_US&gl=US).
 
-A draft version of the framework can be found here.
+A draft version of the framework [can be found here]({{ site.baseurl }}/project-to-product.html#stage-1---the-pilot-framework).
 
 ## Notes
 
