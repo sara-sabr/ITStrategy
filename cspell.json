@@ -614,7 +614,11 @@
     "FTEs",
     "PIPSC",
     "DocUpload",
-    "PDMA"
+    "PDMA",
+    "AXELOS",
+    "COGNOS",
+    "Analyzes",
+    "SLF"
   ],
   "flagWords": [],
   "import": ["node_modules/@cspell/dict-fr-fr/cspell-ext.json"],
