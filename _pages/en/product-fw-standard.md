@@ -9,6 +9,8 @@ permalink: /product-fw-standard.html
 ---
 <!-- markdownlint-disable MD033 -->
 
+<div class="alert alert-info"><p align="center">DRAFT</p></div>
+
 <div class="alert alert-warning">
     <p align="center"><strong>DISCLAIMER</strong></p>
     <p>
