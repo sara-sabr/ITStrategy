@@ -212,7 +212,7 @@ In addition to this internal focus on an open working culture, the strategy and 
 
 With these internal and external activities, the strategy and Action Plan constitute practical instruments to help achieve the digital transformation of ESDC.
 
-### Recommendations <!-- omit in toc --> 
+### Recommendations <!-- omit in toc -->
 
 #### Open First Centre of Enablement (CoE) <!-- omit in toc -->
 
