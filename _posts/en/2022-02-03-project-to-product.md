@@ -58,7 +58,7 @@ This is how we tie product to service and then to programs.
 
 A service consumer doesn't care about the costs and risks to operate the service, but a service uses products, which _do_ have a cost, for its delivery.
 Managing the internal complexities to sustain these products, and how they affect the service level is where product management fits.
-Moving to digital means some of those products will be exposed to service consumers (e.g., a website).
+Moving to digital means some of those products will be exposed to service consumers (e.g., a website, a mobile app).
 
 The words “Job Bank” can be understood to mean three separate things:
 
@@ -208,6 +208,7 @@ The **stream-aligned** team is what the program official is funding.
 Its cloud credits and labour costs can be directly attributed to the program.
 
 The other three types of teams cannot be directly attributed to a single program, their costs are essentially shared, making up the “IT Corporate Services” space.
+Their members will most likely all be under the IT organization but there can be cases where they may also have members from more than one branch.
 Their funding and sustainability require pooling funds into the CIO budget.
 Unless they can provide on-demand services, such as via an API, their engagements may need to be projectized as stream-aligned teams would essentially be competing for their time commitments.
 

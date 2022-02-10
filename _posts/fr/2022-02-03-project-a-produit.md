@@ -58,7 +58,7 @@ C'est ainsi que nous relions le produit au service, puis aux programmes.
 
 Un consommateur de services ne se soucie pas des coûts et des risques liés à l'exploitation du service, mais un service utilise pour sa livraison des produits qui ONT un coût.
 La gestion des produits s'inscrit dans la gestion des complexités internes pour soutenir ces produits et leur incidence sur le niveau de service.
-Le passage au numérique signifie que certains de ces produits seront exposés au consommateur de services (p. ex., un site Web).
+Le passage au numérique signifie que certains de ces produits seront exposés au consommateur de services (p. ex., un site Web, une appli).
 
 Les mots « Guichet-Emplois » ramènent à trois choses distinctes :
 
@@ -205,6 +205,7 @@ Il existe quatre types d'équipes qui interagissent.
 L'équipe « **axée sur le volet** » est celle que le responsable de programme finance. Son crédit infonuagique et ses coûts de main-d'œuvre peuvent être directement affectés au programme.
 
 Les trois autres types d'équipes ne peuvent être directement affectés à un seul programme; leurs coûts sont essentiellement partagés, constituant l'espace des « services ministériels de TI ».
+Leurs membres relèveront très probablement de l'organisation TI, mais il peut arriver qu'une équipe ait des membres de plusieurs directions générales.
 Leur financement et leur viabilité nécessitent la mise en commun des fonds dans le budget du DPI.
 À moins qu'elles puissent fournir des services sur demande, par exemple au moyen d'une IPA, leurs engagements devront peut-être être affectés à des projets, car les équipes axées sur les volets se disputeront essentiellement leur temps.
 
