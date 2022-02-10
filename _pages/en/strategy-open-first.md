@@ -21,14 +21,52 @@ permalink: /open-first-strategy.html
 - [1. Introduction](#1-introduction)
 - [2. Vision](#2-vision)
 - [3 Goals and Outcomes](#3-goals-and-outcomes)
+  - [Progress towards digital autonomy](#progress-towards-digital-autonomy)
+  - [Implementing the Policy on Service and Digital](#implementing-the-policy-on-service-and-digital)
+  - [Sharing and reuse benefits all](#sharing-and-reuse-benefits-all)
+  - [Contribute to the knowledge society](#contribute-to-the-knowledge-society)
+  - [Build a world class public service](#build-a-world-class-public-service)
 - [4. Governing Principles](#4-governing-principles)
+  - [Open First](#open-first)
+  - [Transform](#transform)
+  - [Share](#share)
+  - [Contribute](#contribute)
+  - [Secure](#secure)
+  - [Stay in control](#stay-in-control)
 - [5. Implementing the Strategy](#5-implementing-the-strategy)
+  - [The right balance](#the-right-balance)
+  - [Recommendations](#recommendations)
+    - [Open First Centre of Enablement (CoE)](#open-first-centre-of-enablement-coe)
+    - [Action Plan and Impact](#action-plan-and-impact)
 - [Appendix A – Rationale](#appendix-a--rationale)
 - [Appendix B – Goals and Outcomes extended](#appendix-b--goals-and-outcomes-extended)
+  - [Progress towards digital autonomy](#progress-towards-digital-autonomy-1)
+  - [Implementing the Policy on Service and Digital](#implementing-the-policy-on-service-and-digital-1)
+  - [Sharing and reuse benefits all](#sharing-and-reuse-benefits-all-1)
+  - [Contribute to the knowledge society](#contribute-to-the-knowledge-society-1)
+  - [Build a world class public service](#build-a-world-class-public-service-1)
 - [Appendix C – Commitments](#appendix-c--commitments)
+  - [Mandate Letters](#mandate-letters)
+  - [Digital Standards](#digital-standards)
+  - [Mandatory procedures for EA assessment](#mandatory-procedures-for-ea-assessment)
+  - [ESDC OSS Management Framework](#esdc-oss-management-framework)
+  - [Digital Nations Charter](#digital-nations-charter)
+  - [Directive on Open Government](#directive-on-open-government)
+  - [Open Government Partnership](#open-government-partnership)
+    - [2018-2020 National Action Plan on Open Government](#2018-2020-national-action-plan-on-open-government)
+  - [Policy on Service and Digital](#policy-on-service-and-digital)
+    - [Directive on Automated Decision-Making](#directive-on-automated-decision-making)
+    - [Standard on Metadata](#standard-on-metadata)
+    - [Standard on Web Interoperability](#standard-on-web-interoperability)
+  - [Digital Operations Strategic Plan: 2018-2022](#digital-operations-strategic-plan-2018-2022)
+  - [Open First Whitepaper](#open-first-whitepaper)
+  - [OSS Guides](#oss-guides)
+  - [ESDC Adopt, Buy and Build Strategy](#esdc-adopt-buy-and-build-strategy)
+  - [ESDC Target Solution Delivery Model](#esdc-target-solution-delivery-model)
 - [Appendix D – GC Current State](#appendix-d--gc-current-state)
 - [Appendix E - ESDC Current State](#appendix-e---esdc-current-state)
 - [Appendix E – Definition of open standards and open source software](#appendix-e--definition-of-open-standards-and-open-source-software)
+  - [Benefits of using open standards and OSS for ESDC and the GC](#benefits-of-using-open-standards-and-oss-for-esdc-and-the-gc)
 
 ## Executive Summary
 
@@ -330,7 +368,7 @@ and around the worlds' leading nations (e.g.
 [UK](https://www.gov.uk/government/publications/open-standards-principles/open-standards-principles),
 [France](https://sill.etalab.gouv.fr/fr/software) (in French only),
 [Italy](https://docs.italia.it/italia/developers-italia/gl-acquisition-and-reuse-software-for-pa-docs/en/stabile/index.html),
-[USA](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2016/m_16_21.pdf), etc.) have adopted policies, directives or guidance on open standards and OSS.
+USA (404 <!--- www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2016/m_16_21.pdf --->), etc.) have adopted policies, directives or guidance on open standards and OSS.
 
 This strategy, its governing principles and its Action Plan will help build and deliver IT solutions and services, that leverage the innovative and collaborative power of open standards, OSS and working in the open.
 It will make ESDC and the GC part of the OSS community, an agile contributor and active participant by co-developing with other Canadian public administrations and encouraging the sharing and reuse of our solutions, knowledge and expertise.
