@@ -212,6 +212,7 @@ Cette feuille de route du produit nécessiterait toujours une cadence plus rapid
 
 ## Autres blogues portant sur ce sujet
 
+- [Transitionner vers la gestion des produits en suivant le Guichet emplois]({{site.baseurl}}{% link _posts/fr/2022-02-03-project-a-produit.md %})
 - [Les problèmes du financement par projet pour les organisations TI]({{site.baseurl}}{% link _posts/fr/2021-05-18-problemes-financement-par-projet.md %})
 - [Les DPIs et DPFs sont essentiels pour faire de la transformation numérique une réalité]({{site.baseurl}}{% link _posts/fr/2020-10-27-transformation-numerique-dpi.md %})
 - [Nous encourageons par inadvertance les risques dans les TI]({{site.baseurl}}{% link _posts/fr/2019-12-20-pourquoi-nous-favorisons-les-risques.md %})
