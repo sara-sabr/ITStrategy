@@ -193,7 +193,7 @@ Indirect and Direct costs are paid by different sources of funds (that need to b
 
 Expanding further the product management concept, we would seek to ensure that any investment touching a particular “product” (e.g. a Pension System) be considered as an investment using product-based funding.
 
-This would bring stability to the Pension System teams (including Program Areas) by having them commit to only one plan: their _product roadmap_.
+This would bring stability to the Pension System teams (including Program Areas) by having them commit to only one plan: their *product roadmap*.
 
 Any investments (e.g. projects) seeking to make changes to the Pension System would, in fact, seek to make changes to its product roadmap.
 Those projects would compete between themselves not on the availability of IT, **but on which changes are needed NOW and which are needed LATER**.
@@ -203,11 +203,10 @@ This Product Roadmap would still require having a faster-than-usual cadence othe
 
 ## Other blogs on this topic
 
+- [Transitioning to Product Management by following Job Bank]({{site.baseurl}}{% link _posts/en/2022-02-03-project-to-product.md %})
 - [The Problems with Project-Based funding for IT organizations]({{site.baseurl}}{% link _posts/en/2021-05-18-problems-of-project-based-funding.md %})
 - [CIOs and CFOs are essential in making digital transformation a reality]({{site.baseurl}}{% link _posts/en/2020-10-27-cio-digital-transformation.md %})
 - [We are inadvertently promoting risks in IT]({{site.baseurl}}{% link _posts/en/2019-12-20-why-we-are-promoting-risks.md %})
-
--->
 
 ## Notes
 
