@@ -17,7 +17,7 @@ permalink: /product-event-day.html
 {%- for pres in site.static_files -%}
     {%- if pres.path contains 'assets/files/event-day-files' -%}
         <li><a href="{{ site.baseurl }}{{ pres.path }}">
-            {{ pres.path | replace_first: "assets/files/event-day-files/", "" }}
+            {{ pres.path | replace_first: "/assets/files/event-day-files/", "" }}
         </a></li>
     {%- endif -%}
 {%- endfor -%}
