@@ -9,6 +9,10 @@ permalink: /product-event-day.html
 ---
 <!-- markdownlint-disable MD033 -->
 
+<a href="{{ site.baseurl }}/assets/files/all-files-of-event-day.zip">DOWNLOAD ALL FILES (.zip)</a>
+<br>
+<br>
+
 <ul>
 {%- for pres in site.static_files -%}
     {%- if pres.path contains 'assets/files/event-day-files' -%}
