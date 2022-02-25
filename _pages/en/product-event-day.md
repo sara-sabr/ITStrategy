@@ -9,6 +9,8 @@ permalink: /product-event-day.html
 ---
 <!-- markdownlint-disable MD033 -->
 
-| English Document                                         | Document en français                                     |
-|----------------------------------------------------------|----------------------------------------------------------|
-| [test]({{ site.baseurl }}/assets/images/67-working-days.png)| en français |
+{%- for pres in site.static_files -%}
+    {%- if pres.path contains 'presentations/fr' -%}
+- {{ pres.path }}<br>
+    {%- endif -%}
+{%- endfor -%}
