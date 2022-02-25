@@ -36,6 +36,7 @@ These are well documented already, such as on <a href="https://www.pmi.org/disci
   - [Roles and Responsibilities](#roles-and-responsibilities)
   - [Oversight and Reporting](#oversight-and-reporting)
   - [Consequences of Non-Compliance](#consequences-of-non-compliance)
+- [When Formal Projects Are Used](#when-formal-projects-are-used)
 - [Appendix A - Business View of Job Bank's Family of Products](#appendix-a---business-view-of-job-banks-family-of-products)
 - [Appendix B - IT View of Job Bank's Family of Products of Products](#appendix-b---it-view-of-job-banks-family-of-products-of-products)
 
@@ -77,8 +78,7 @@ Products can be tied to Service delivery, then to Programs the following way.
     <figcaption>Figure 1. The Product - Service relationship</figcaption>
 </figure>
 
-A service consumer doesn't care about the costs and risks to operate the service.
-But a service leverages products for its delivery. Managing the internal complexities to sustain these products AND how they affect the service level is where product management fits.
+A service leverages products for its delivery. Managing the internal complexities to sustain these products AND how they affect the service level is where product management fits.
 Moving to digital means some of those products will be exposed to service consumer (e.g. a website).
 
 The words “Job Bank” can actually be understood to mean three separate things:
@@ -103,7 +103,7 @@ In the traditional Program-Corporate relationship, IT gets funding to “keep th
   <figcaption>Figure 2. Projects are used to orchestrate change</figcaption>
 </figure>
 
-In the digital world a departmental product “team”, like Job Bank, should embed both business and IT staff.
+In an ideal digital world a departmental product “team”, like Job Bank, should embed both business and IT staff.
 However, because Treasury Board Policies regulating Programs and Corporate put different persons in charge of IT and Program functions, these two separate persons will naturally want the staff responsible for their function in their respective org charts.
 
 This is where we want to differentiate improvements from projects and enable funding teams with cross-branch memberships.
@@ -289,6 +289,15 @@ That person is still identified for each role so that external teams (such as pr
 Although the roles of Head of Product, Product Manager, and Product Owner is expected to sit on the Program side, their activities are expected to heavily involve IT managers.
 The Product's strategy, roadmap, and scope of releases all require being informed with IT considerations so to remain realistic, achievable, and sustainable (e.g. timely remediation of technical debt).
 
+A Head of Product is believed to be executive level due to the oversight and responsibilities expected of it, though it is not a requirement to be one.
+
+Sources used to define the responsibilities of roles are as follows:
+
+- **Product Manager**: from [Product Development and Management Association’s Body of Knowledge second edition](https://www.pdma.org/?), from [280group](https://280group.com/what-is-product-management/roles/product-manager/), [GOV.uk’s guidance](https://www.gov.uk/guidance/product-manager).
+- **Product Owner**: from [Info-Tech Research Group](https://www.infotech.com/research/it-product-owner)
+- **IT Security Champion**: from [SLF’s January 2021 presentation](https://014gc.sharepoint.com/:p:/r/sites/DGIIT-Gouvernance-IITB-Governance/SLFFCS/DevSecOps SLF-EN.pptx?d=wc4a2579808df446eab5b3b5b3ceedb5f&csf=1&web=1&e=VVS26e) (modified last point)
+- **Change Coordinator**: from [Info-Tech Research Group](https://www.infotech.com/research/change-manager)
+
 An optional dashboard for Product Managers and Owners to use in order to help quantify the types of work being managed, and so help with IT Manager communications, is the monthly workload distribution dashboard.
 
 <figure>
@@ -315,7 +324,8 @@ Striving to provide as much autonomy as possible to product teams while upholdin
 1. The **Product's Roadmap**. The Product Team may use more than one “view” of the product roadmap's for its internal coordination and communication. For this Directive, Corporate will seek to have an executive level view of the milestones and outcomes expected to be obtained over a fiscal year.
 2. **Release Retrospectives**. Product Management seeks to continuously improve using evidence-based decision making. Every change release of a product needs to be evaluated against the desired outcomes that were sought in that release and analyzed on their successful or negative results. The timing of such retrospectives is left at the discretion of the product team (e.g. do retrospectives 2 months after a release so to give sufficient time for data to be generated).
 3. **Software Delivery Performance Metrics**. The [DevOps Research and Assessment (DORA) Institute](https://www.devops-research.com/research.html), now bought by Google, researched the four key metrics that define high performing technology organizations. In addition to the above retrospectives on business outcomes, the product team should strive to continuously improve its software delivery capabilities. These DORA metrics are meant to show Corporate that the product team is making improvements in that regards and takes serious consideration on the effects that creeping technical debt, quality, and cyber security has on the health of their product(s).
-4. **A Risk Register**. Same as in project management, Corporate authorities needs to be assured that the product team understands the risks that change can have on their product and the organization. It is expected that product team will be disciplined in identifying risks to their operations and know how to handle them.
+4. **A Risk Register**. Same as in project management, Corporate authorities needs to be assured that the product team understands the risks that change can have on their product and the organization. It is expected that product team will be disciplined in identifying risks to their operations and know how to handle them. A typical source of risk is the “Threats” identify after performing SWOT analyses.
+5. **Endorsement of the Product Roadmap**. In order to ensure that the product team accounts for IT’s interests, which affects the CIO’s accountability such as software patching, technical debt remediation, and cyber security risks, the Head of Product is asked to have their Product Roadmap endorsed at PPRC as part of the product team’s yearly funding cycle.
 
 ### Consequences of Non-Compliance
 
@@ -333,6 +343,14 @@ As expertise in Agile methods and DevSecOps are expected to be required, IITB is
 - Maturity Assessment using [IITB's SDLC & Product Delivery Guidebook](https://esdc-iitb-sdlc-pdg-staging.azurewebsites.net/)
 - Agile Training (e.g. using the Interoperability team's services)
 - Product Management Training (e.g. using external firm services)
+
+## When Formal Projects Are Used
+
+This section will provide guidance on when formal projects are used…. Soon to develop…
+
+**Projects**: is defined by the Treasury Board as “an activity or series of activities that has a beginning and an end. A project is required to produce defined outputs and realize specific outcomes in support of a public policy objective, within a clear schedule and resource plan. A project is undertaken within specific time, cost, and performance parameters.” (source: [PPPM](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All Documents/Policy on Project and Programme Management.pdf))
+
+**Formal Projects**: projects to be formalized at corporate committees (e.g. Investment Projects, Lite Projects, Branch Initiatives)
 
 ## Appendix A - Business View of Job Bank's Family of Products
 
