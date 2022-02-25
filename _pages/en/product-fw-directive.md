@@ -51,7 +51,7 @@ This directive **is effective between April 1st 2022 and March 31st 2023**.
 
 This directive is issued pursuant to the authority indicated in the TB Policy on Service and Digital requirement 4.1.3.2 (Deputy Heads are responsible for) _Designating a departmental CIO responsible for leading the departmental IT, information, and data management functions_.
 
-**Aproval Aurhority:** ESDC Chief Information Officer
+**Approval Authority:** ESDC Chief Information Officer
 
 The Director General, Strategy, Architecture, and Business Relations (SABR) has the authority to issue, amend, and rescind this **pilot** directive.
 
