@@ -87,4 +87,14 @@
     en: Strategy, building strong relationships, soccer
     fr: La stratégie, gestion des relations, soccer
   picture_path: assets/images/profile-james.png
+  - name: Paul Tomka
+  title: 
+    en: Technical Advisor
+    fr: Conseiller technique
+  email: paul.tomka@hrsdc-rhdcc.gc.ca
+  github: https://github.com/paul-tomka
+  interests: 
+    en: Sports, travel, technology
+    fr: Sports, voyager, technologie
+  picture_path: assets/images/profile-paul.png
 
