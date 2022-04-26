@@ -661,7 +661,7 @@ We feel we achieved these things with the micro-acquisition pilot.
 The challenges we faced around finding clients ultimately came down to trying to change culture while also implementing a new procurement option.
 
 Having a culture where in-house development is encouraged (rather than done by exception), where teams doing that development are already comfortable with licensing their code with open source and have supports in place to do so, and, where teams are working in agile ways with backlogs of sprint-sized coding issues, will provide the best chance of finding clients quickly.
-This is not the culture currently at SSC and so the pilot struggled in this area.
+This is not the culture currently at ESDC and so the pilot struggled in this area.
 
 Lastly, definitely give the PIPSC union reps a heads up if embarking on this sort of procurement option.
 Alleviate the fears they will have that this is about increasing outsourcing and ensure they know that this is about redistributing existing contracting dollars and helping to build up development skills of GC IT teams.
@@ -683,12 +683,12 @@ ESDC’s willingness to embark on an experimental pilot like this speaks to the 
     <thead>
         <tr class="header">
             <th><strong>Procurement process (by way of sole source)</strong></th>
-            <th><strong>Approx elapsed time (days)</strong></th>
+            <th><strong>Est. time req'd (elapsed time in days)</strong></th>
             <th><strong>Micro-procurement pilot process (by way of acquisition cards)</strong></th>
-            <th><strong>Approx elapsed time (days)</strong></th>
-            <th><strong>Opportunity #1 elapsed time (days)</strong></th>
+            <th><strong>Est. time req'd (elapsed time in days)</strong></th>
+            <th><strong>Actual time (elapsed time in days)</strong></th>
             <th><strong>Difference from projected time</strong></th>
-            <th><strong>Opportunity #1 actual time (days)</strong></th>
+            <th><strong>Actual time (working time in days)</strong></th>
         </tr>
     </thead>
     <tbody>
