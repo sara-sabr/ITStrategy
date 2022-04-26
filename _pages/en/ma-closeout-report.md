@@ -11,7 +11,7 @@ permalink: /ma-closeout-report.html
 
 The Micro-acquisition pilot ran from June 2021 to May 2022. It was led by ESDC in a partnership between IITB and CFOB.
 
-Driven by the results of the red tape reduction report, the Gartner Procurement 2020 report, and the knowledge that while Digital Standards require open first working in the open by default[1], very little code developed in ESDC was being licensed as open source and shared openly, we felt there was an opportunity to use procurement as a lever.
+Driven by the results of the red tape reduction report, the Gartner Procurement 2020 report, and the knowledge that while Digital Standards require open first working in the open by default[^1], very little code developed in ESDC was being licensed as open source and shared openly, we felt there was an opportunity to use procurement as a lever.
 
 We also felt strongly that there is a lot of coding talent that remains untapped by the Federal Public Service and that by simplifying low dollar value procurement of code, we could not only increase access to that talent but enable distribution of GC contract dollars to those who might normally face barriers.
 
@@ -32,57 +32,48 @@ This report documents both our results and our lessons learned with the goal to 
 
 ## Table of Contents
 
-[1.0 About this document](#about-this-document)
+1. [About this document](#about-this-document)
+   1. [Document Purpose](#document-purpose)
+   2. [Intended Audience](#intended-audience)
 
-[1.1 Document Purpose](#document-purpose)
+2. [Project Description](#project-description)
+   1. [Background and planning](#background-and-planning)
+   2. [Build and operations](#build-and-operations)
+   3. [Pilot Objectives](#pilot-objectives)
 
-[1.1 Intended Audience](#intended-audience)
+3. [Expected Results](#expected-results)
 
-[2.0 Project Description](#project-description)
+   1. [What we achieved](#what-we-achieved)
 
-[2.1 Background and planning](#background-and-planning)
+4. [Approach for Lessons Learned](#approach-for-lessons-learned)
+5. [Lessons Learned](#lessons-learned)
+   1. [What went well](#what-went-well)
+   2. [What did not go well](#what-did-not-go-well)
+   3. [General lessons learned](#general-lessons-learned)
 
-[2.2 Build and operations](#build-and-operations)
+6. [Conclusion](#conclusion)
 
-[2.3 Pilot Objectives](#pilot-objectives)
+[Annex A - Side-by-side comparison of estimated time required for sole source and estimated and actual time for micro-procurement](#annex-a---side-by-side-comparison-of-estimated-time-required-for-sole-source-and-estimated-time-and-actual-time-for-micro-procurement)
 
-[3.0 Expected Results](#_Toc1018665992)
+[Annex B - our path through the lite project process](#annex-b---our-path-through-the-lite-project-process)
 
-[3.1 What we achieved](#what-we-achieved)
+[Annex C - procurement options comparison chart](#annex-c---procurement-options-comparison-chart)
 
-[4.0 Approach for Lessons Learned](#approach-for-lessons-learned)
+## About this document
 
-[5.0 Lessons Learned](#lessons-learned)
-
-[5.1 What went well](#what-went-well)
-
-[5.2 What did not go well](#what-did-not-go-well)
-
-[5.3 General lessons learned](#general-lessons-learned)
-
-[Conclusion](#conclusion)
-
-[Annex A – Authorization and Approvals](#_Toc596800306)
-
-[Annex B: Side-by-side comparison of estimated time required for sole source, estimated time required for micro-procurement, and actual time for micro-procurement](#annex-a-side-by-side-comparison-of-estimated-time-required-for-sole-source-estimated-time-required-for-micro-procurement-and-actual-time-for-micro-procurement)
-
-[Annex C: our path through the lite project process](#annex-b-our-path-through-the-lite-project-process)
-
-## 1.0 About this document
-
-### 1.1 Document Purpose
+### Document Purpose
 
 This document combines both a results report and a lessons learned report.
 It draws on both positive and negative experiences from the micro-acquisition pilot.
 It serves to provide future project teams with information that can increase project efficiency and effectiveness by building on the experiences from past projects.
 
-### 1.1 Intended Audience
+### Intended Audience
 
 This report is used by various stakeholders, as well as anyone who might be thinking of doing a similar pilot in the future.
 
-## 2.0 Project Description
+## Project Description
 
-### 2.1 Background and planning
+### Background and planning
 
 The micro-acquisition pilot was launched as a partnership between IITB and CFOB in June 2021 after a year of planning and design.
 
@@ -109,7 +100,7 @@ Additional consultations were done with the procurement policy team at TBS, the 
 
 Further details regarding the context and background for doing this pilot can be found in the [business case](https://sara-sabr.github.io/ITStrategy/ma-business-case.html) and in our blog series – [better tech through micro-procurement](https://sara-sabr.github.io/ITStrategy/2020/08/12/better-tech-through-microprocurement-p1.html).
 
-### 2.2 Build and operations
+### Build and operations
 
 The website for the pilot was built in-house by the IT Strategy team using GitHub pages, and WET templates.
 The website was hosted for free on [alpha.canada.ca](https://alpha.canada.ca/en/index.html).
@@ -123,7 +114,7 @@ The ESDC client chose to not re-run the opportunity to find new suppliers.
 During the pilot many meetings were held with potential clients.
 A [communications plan](https://014gc.sharepoint.com/:w:/r/sites/IITB-ITStrategy/Shared%20Documents/STRATEGIES%20AND%20INITIATIVES/Micro-Acquisition%20pilot/Change%20Management/Comms%20plan.docx?d=wffa1ee6366144067b91fb10b4b92ed2b&csf=1&web=1&e=bbk2sx) was developed and reviewed by the IITB Communications and Change Management team. This plan guided both our internal and external communications.
 
-### 2.3 Pilot Objectives
+### Pilot Objectives
 
 The objectives of the pilot were to run a one-year experimental pilot where:
 
@@ -137,7 +128,7 @@ The objectives of the pilot were to run a one-year experimental pilot where:
 
 * Payment is made by credit card/PayPal
 
-## 3.0 Expected Results
+## Expected Results
 
 The expected results that were identified during the pilot planning process included:
 
@@ -154,7 +145,7 @@ The expected results that were identified during the pilot planning process incl
 The section below will review whether we achieved these results using the metrics and targets identified during the planning phase.
 Where results were not achieved, an explanation is provided.
 
-### 3.1 What we achieved
+### What we achieved
 
 **Is this a service that people want?**
 
@@ -379,18 +370,18 @@ Where results were not achieved, an explanation is provided.
     </tbody>
 </table>
 
-## 4.0 Approach for Lessons Learned
+## Approach for Lessons Learned
 
 A lessons learned workshop was not conducted.
 Instead, lessons learned were collected via client survey, by soliciting comments on this document and through one-on-one conversations with those involved with the pilot.
 
-## 5.0 Lessons Learned
+## Lessons Learned
 
-### 5.1 What went well
+### What went well
 
 #### Partnering with CFOB
 
-One of the main lessons learned from the GC Developers Exchange pilot[2] from 2017-18 was the need to involve and achieve buy-in from the Procurement/Financial team.
+One of the main lessons learned from the GC Developers Exchange pilot[^2] from 2017-18 was the need to involve and achieve buy-in from the Procurement/Financial team.
 As such, from the beginning, the IT Strategy team sought to have CFOB as a partner in the micro-acquisition pilot.
 After connecting with the procurement innovation team, a partnership was secured with CFOB through the executive director of that team (Robert MacGillivary).
 Roles and responsibilities were agreed upon by both IITB and CFOB and both teams dedicated resources to the pilot.
@@ -418,7 +409,7 @@ These same names do not appear in the list of subscribers for the mailing list.
 
 While most subscribers to the mailing list did so using Gmail or similar addresses, there were subscriptions from 7 different university email accounts (individuals with email addresses from: Carleton, Laurentian, Memorial, Mount Royal, Trent, Waterloo and Windsor), indicating that we had begun to tap into a segment of our target supplier base (likely thanks to our posting on the student employment page on Canada.ca.
 
-<img src="media/image1.png" style="width:3.31818in;height:1.52083in" />
+<img src="assets/images/student-employment.png" alt="this image is a screenshot of the Student Employment page on Canada.ca as of April 26 2022. It shows links for things like 'Getting a work permit', 'Job Bank', 'Government co-op placements and internships' as well as the link to the Micro-acquisition pilot 'Find coding contracts in the government'"/>
 
 Figure 1: screenshot of the Student Employment page on Canada.ca as of March 14, 2022.
 
@@ -437,7 +428,7 @@ Further details around barriers to automating the processing of the micro-acquis
 During planning, the pilot team placed significant emphasis on stakeholder engagement to ensure that we not only had buy-in but were designing and building something with the input of those who had the expertise we did not.
 
 The process design sessions, which included participants from IITB (IT Strategy and FPS), CFOB, and the Office of Small and Medium Enterprises (OSME) raised many things we had not thought of.
-The micro-acquisition processes evolved thanks to the comments we gathered in those sessions and as a result, we encountered only one unexpected process challenge[3] during the one opportunity that was run.
+The micro-acquisition processes evolved thanks to the comments we gathered in those sessions and as a result, we encountered only one unexpected process challenge[^3] during the one opportunity that was run.
 Even though that opportunity ended up in non-delivery, this was a scenario we had already thought through in those sessions and we were prepared for.
 
 At ESDC the IT shop (IITB) has their own financial team and it was essential to bring them on board early in the process to understand their needs and to ensure we were aligned with their processes.
@@ -482,7 +473,7 @@ Some of these improvements included:
 
 * Added example text of an application that would get a passing mark to the user guide for suppliers
 
-### 5.2 What did not go well
+### What did not go well
 
 #### Lack of clients
 
@@ -538,7 +529,7 @@ Launching the pilot site only a week before the first opportunity was posted, re
 
 During planning, many discussions were had on the pilot team about how far in advance we could launch the site and communicate about the pilot before the first opportunity is posted.
 We consulted with the Office of Small and Medium Enterprise at PSPC on this who expressed concern about promoting the site to their network with no opportunities on it.
-As a result, we planned to launch the website two weeks[4] before the first opportunity would be posted to allow for a small amount of time to start getting the word out but not too much time that potential suppliers lose interest.
+As a result, we planned to launch the website two weeks[^4] before the first opportunity would be posted to allow for a small amount of time to start getting the word out but not too much time that potential suppliers lose interest.
 
 In hindsight, knowing that many people have continued going to the site for months and continued to sign up for the mailing list despite there being no open opportunities, we could have launched the site a month or two before the first opportunity and had a staggered external promotions approach building up to the first opportunity.
 The link to the Micro-acquisitions pilot page (and mailing list) could have been added to the student employment page on Canada.ca as soon as the site was live, we could have tweeted a few weeks in advance of the first opportunity and OSME could have promoted to their networks a few days before the first opportunity was posted.
@@ -551,7 +542,7 @@ Using the Micro-Acquisition pilot presented a change to the current way of doing
 Managing the change with the IITB Financial team was easy as the change was minimal.
 Procurement by credit card is done regularly in the GC and processes are clearly defined.
 Since purchasing code using credit card represented a change, the IITB financial team required the CFOB Executive Sponsor to provide a written note to say that purchasing code via the Micro-Acquisition pilot was a valid procurement option.
-From a Prosci[5] (change management) point of view, this written approval provided the Desire for Financial teams to support the change. and because the processes already existed for credit card purchases the Knowledge, and Ability were there also.
+From a Prosci[^5] (change management) point of view, this written approval provided the Desire for Financial teams to support the change. and because the processes already existed for credit card purchases the Knowledge, and Ability were there also.
 
 Moving towards open source, on the other hand, represented a substantial change at ESDC.
 Very few teams were using open source, there is a ‘Buy what you can, build what you must’ principle in place and there exists in ESDC and most of the GC, a general fear of open source – about doing it wrong and opening up liability, and of showing our work and worrying about what folks will think about the quality of our code.
@@ -610,7 +601,7 @@ The primary way suppliers received the survey was as part of the email to say th
 
 #### Soft/full launch communications
 
-Knowing that many public servants are interested in simplified Low Dollar Value (LDV) procurement[6] there was concern that our small pilot team would be overwhelmed with requests from clients for micro-acquisition.
+Knowing that many public servants are interested in simplified Low Dollar Value (LDV) procurement[^6] there was concern that our small pilot team would be overwhelmed with requests from clients for micro-acquisition.
 To reduce this risk, we looked at best practices in industry and it was decided that the pilot launch should be done in two phases with a soft launch/full launch approach.
 
 We had our soft launch in June 2021, where we launched the website, posted our first opportunity, and communicated externally to suppliers (e.g., on Twitter) but did not do any internal comms to promote the pilot.
@@ -622,14 +613,14 @@ As noted above, the demand from clients turned out to be low and doing internal 
 
 #### No broadcast internal comms beyond IITB
 
-Our initial focus for communications was within IITB however since the scope of the pilot included other teams in ESDC with sanctioned IT functions such as the Benefits Delivery Modernization (BDM) team, the Communications Plan included outreach[7] to broader audiences in ESDC (if we did not find enough clients within IITB).
+Our initial focus for communications was within IITB however since the scope of the pilot included other teams in ESDC with sanctioned IT functions such as the Benefits Delivery Modernization (BDM) team, the Communications Plan included outreach[^7] to broader audiences in ESDC (if we did not find enough clients within IITB).
 
 By the time the pilot team realized this broader outreach would be required, the union challenges prevented further internal communications.
 
 While we continued to reach out to individual teams outside of IITB who we thought might benefit from the pilot (such as a few within BDM, the Chief Data Office, Principle Publisher), we were limited to those teams known to the pilot team.
 Not doing broadcast internal comms beyond IITB might have hindered our ability to get the word out about the pilot and to find clients.
 
-### 5.3 General lessons learned
+### General lessons learned
 
 Anecdotally, it is known that most people apply to things at the last minute.
 Whether it be job or contract applications. This was certainly found to be true for the one opportunity that was posted for micro-acquisition.
@@ -677,7 +668,7 @@ As documented in this report, the team learned a great deal over the course of t
 We feel glad to have participated in the magic that can happen when branches collaborate, and to have proved that yes, we can in the GC (within certain constraints) pay for code using credit card and PayPal!
 ESDC’s willingness to embark on an experimental pilot like this speaks to the department’s genuine desire for transformation and continuous improvement.
 
-## Annex A : Side-by-side comparison of estimated time required for sole source, estimated time required for micro-procurement, and actual time for micro-procurement
+## Annex A - Side-by-side comparison of estimated time required for sole source and estimated time and actual time for micro-procurement
 
 <table>
     <thead>
@@ -969,11 +960,11 @@ ESDC’s willingness to embark on an experimental pilot like this speaks to the 
     </tbody>
 </table>
 
-## Annex B: our path through the lite project process
+## Annex B - our path through the lite project process
 
 Available on request
 
-## Annex C: Procurement options comparison chart
+## Annex C - Procurement options comparison chart
 
 |                                                     | **Micro-Acquisition** | **Sole Source** | **Capacity on Demand** |
 |-----------------------------------------------------|-----------------------|-----------------|------------------------|
@@ -982,16 +973,18 @@ Available on request
 | Client limited to small pool of resources they know | No                    | Yes             | No                     |
 | Small companies/freelancers can apply               | Yes                   | Yes             | No                     |
 
-[1] “Make all non-sensitive data, information, and new code developed in delivery of services open to the outside world for sharing and reuse under an open licence”
+## Inline references <!-- omit in toc -->
 
-[2] The GC Developers Exchange was a pilot procurement vehicle for open source code. It was led by PCO and
+[^1]: “Make all non-sensitive data, information, and new code developed in delivery of services open to the outside world for sharing and reuse under an open licence”
 
-[3] we hadn’t included the need for the client rationale for each pass or fail they assigned to suppliers who applied.
+[^2]: The GC Developers Exchange was a pilot procurement vehicle for open source code launched in 2017. It was led by PCO and TBS.
 
-[4] development delays meant that the micro-acquisition website was launched only one week before.
+[^3]: we hadn’t included the need for the client rationale for each pass or fail they assigned to suppliers who applied.
 
-[5] The Prosci change management framework uses the ADKAR ® Model to define outcomes required in individuals for change to be successful – Awareness, Desire, Knowledge, Ability and Reinforcement
+[^4]: development delays meant that the micro-acquisition website was launched only one week before.
 
-[6] https://internal-red-tape-reduction-report.github.io/chapter-3/\#the-problem-low-return-on-investment-on-low-dollar-value-service-contracts
+[^5]: The Prosci change management framework uses the ADKAR ® Model to define outcomes required in individuals for change to be successful – Awareness, Desire, Knowledge, Ability and Reinforcement
 
-[7] planned communications items included: an article in the departmental newsletter “Intersection” and tweeting from the CIO’s twitter account
+[^6]: Red Tape Reduction Report [Chapter-3 The problem with low return on investment on low dollar value service contracts](https://internal-red-tape-reduction-report.github.io/chapter-3/\#the-problem-low-return-on-investment-on-low-dollar-value-service-contracts)
+
+[^7]: planned communications items included: an article in the departmental newsletter “Intersection” and tweeting from the CIO’s twitter account
