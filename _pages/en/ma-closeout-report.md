@@ -378,7 +378,7 @@ When the pilot launched, we did not initially have a mailing list.
 Instead, there were two Twitter accounts (French and English) that suppliers could follow to find out about new opportunities; however, user feedback revealed that many people in our target audience (e.g., students) were not on Twitter.
 
 So, we quickly set up an email mailing list using GC Forms as the sign-up mechanism.
-At the time of pilot closeout there were 217 subscribers. This is more than the combined number of people who are following the English and French Twitter accounts (159).
+At the time of pilot closeout there were 226 subscribers. This is more than the combined number of people who are following the English and French Twitter accounts (159).
 
 The number of mailing list subscribers steadily increased over the course of the pilot, whereas the Twitter account gained a lot of followers initially but did not gradually gain new followers.
 We suspect that many of our Twitter follows were from people already in our extended networks and not necessarily in supplier groups.
