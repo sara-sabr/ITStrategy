@@ -622,7 +622,14 @@
     "Analyzes",
     "SLF",
     "DGCE",
-    "Termium"
+    "Termium",
+    "Closeout",
+    "Strapi",
+    "webpart",
+    "mandatories",
+    "Laurentian",
+    "Prosci",
+    "ADKAR"
   ],
   "flagWords": [],
   "import": ["node_modules/@cspell/dict-fr-fr/cspell-ext.json"],

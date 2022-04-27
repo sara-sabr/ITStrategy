@@ -67,13 +67,10 @@ The micro-acquisition pilot was launched as a partnership between IITB and CFOB 
 The pilot provided a means for ESDC to purchase code licensed as open source, within constraints (purchase had to be under $10K, all work had to be unclassified and done on open repositories).
 The pilot was launched to address:
 
-* Barriers which resulted in reduced access to IT talent
-
-* Excessive time spent formalizing small contracts (for both IT and procurement employees)
-
-* Provide a means to get ad hoc development work – for agile/dev ops development
-
-* Limited use of open source at ESDC
+- Barriers which resulted in reduced access to IT talent
+- Excessive time spent formalizing small contracts (for both IT and procurement employees)
+- Provide a means to get ad hoc development work – for agile/dev ops development
+- Limited use of open source at ESDC
 
 The pilot consisted of:
 
@@ -105,29 +102,21 @@ A [communications plan](https://014gc.sharepoint.com/:w:/r/sites/IITB-ITStrategy
 
 The objectives of the pilot were to run a one-year experimental pilot where:
 
-* Opportunities for micro-acquisitions are widely publicized to suppliers and barriers to entry (such as years of experience, needing to pre-qualify, security clearance) are removed/reduced
-
-* Guardrails are put in place so that teams can complete the micro-acquisitions without needing the support of procurement officers
-
-* All code procured via micro-acquisition is shared on open repositories and made visible to the GC and the public to enable re-use
-
-* IT teams are able to make purchases to address short-term capacity requirements and bring new knowledge into the IT organization
-
-* Payment is made by credit card/PayPal
+- Opportunities for micro-acquisitions are widely publicized to suppliers and barriers to entry (such as years of experience, needing to pre-qualify, security clearance) are removed/reduced
+- Guardrails are put in place so that teams can complete the micro-acquisitions without needing the support of procurement officers
+- All code procured via micro-acquisition is shared on open repositories and made visible to the GC and the public to enable re-use
+- IT teams are able to make purchases to address short-term capacity requirements and bring new knowledge into the IT organization
+- Payment is made by credit card/PayPal
 
 ## 3. Expected Results
 
 The expected results that were identified during the pilot planning process included:
 
-* Increased participation and access to developers who would not normally bid on GC IT contracts
-
-* Increased working in the open by ESDC
-
-* Reduced workload burden on ESDC procurement officers by allowing them to focus on more complex procurements
-
-* Increased ESDC capabilities around agile, including breaking work up into smaller chunks which drive high software delivery and organizational performance
-
-* Increased speed of payment of suppliers
+- Increased participation and access to developers who would not normally bid on GC IT contracts
+- Increased working in the open by ESDC
+- Reduced workload burden on ESDC procurement officers by allowing them to focus on more complex procurements
+- Increased ESDC capabilities around agile, including breaking work up into smaller chunks which drive high software delivery and organizational performance
+- Increased speed of payment of suppliers
 
 The section below will review whether we achieved these results using the metrics and targets identified during the planning phase.
 Where results were not achieved, an explanation is provided.
@@ -436,14 +425,12 @@ Participants included potential clients from ESDC as well as team members from O
 
 The testing uncovered several issues that we were able to address before launch, which included:
 
-* Removing a section of the website called *How this works*.
+- Removing a section of the website called *How this works*.
 The content in this section was very client focused (about how things work within ESDC – how to commit funds etc.).
 This was confusing for those who tested from a “supplier's” perspective.
 Upon further reflection, it made sense to make the website supplier-focused and keep the documentation for ESDC clients on an internal SharePoint site instead.
-
-* Simplifying the *Opportunities* page by removing the filter header (to be added back in if we ended up with a lot of opportunities) and moving the *Closed opportunities* in to an expandable table below (with a default to unexpanded).
-
-* Testers expressing confusion around the terms *Proposal evaluation criteria and Acceptance criteria* and the order these sections appear in the opportunity statement. Based on feedback, we changed ‘Evaluation criteria’ to ‘Application evaluation’ and ‘Acceptance criteria’ to ‘Work acceptance criteria’.
+- Simplifying the *Opportunities* page by removing the filter header (to be added back in if we ended up with a lot of opportunities) and moving the *Closed opportunities* in to an expandable table below (with a default to unexpanded).
+- Testers expressing confusion around the terms *Proposal evaluation criteria and Acceptance criteria* and the order these sections appear in the opportunity statement. Based on feedback, we changed ‘Evaluation criteria’ to ‘Application evaluation’ and ‘Acceptance criteria’ to ‘Work acceptance criteria’.
 We also adjusted the order so that Work acceptance criteria appears first.
 
 #### Continuously improving <!-- omit in toc -->
@@ -452,13 +439,10 @@ Committing to continuously improving throughout the pilot meant that the element
 We were able to launch quickly with the minimum requirements and then continued to improve as we gathered feedback and lessons learned.
 Some of these improvements included:
 
-* Changing the evaluation question to allow suppliers who had worked on similar projects/languages to apply by demonstrating the similarity between their experience(s) and the requirements. This change was made following the first opportunity.
-
-* Changing the eligibility criteria to include permanent residents following feedback that they should be included
-
-* Adjusted the code for the website when we realized that the opportunity cards were not displaying properly on mobile devices
-
-* Added example text of an application that would get a passing mark to the user guide for suppliers
+- Changing the evaluation question to allow suppliers who had worked on similar projects/languages to apply by demonstrating the similarity between their experience(s) and the requirements. This change was made following the first opportunity.
+- Changing the eligibility criteria to include permanent residents following feedback that they should be included
+- Adjusted the code for the website when we realized that the opportunity cards were not displaying properly on mobile devices
+- Added example text of an application that would get a passing mark to the user guide for suppliers
 
 ### 5.2 What did not go well
 
@@ -661,9 +645,9 @@ ESDC’s willingness to embark on an experimental pilot like this speaks to the 
     <thead>
         <tr class="header">
             <th><strong>Procurement process (by way of sole source)</strong></th>
-            <th><strong>Est. time req'd (elapsed time in days)</strong></th>
+            <th><strong>Est. time required (elapsed time in days)</strong></th>
             <th><strong>Micro-procurement pilot process (by way of acquisition cards)</strong></th>
-            <th><strong>Est. time req'd (elapsed time in days)</strong></th>
+            <th><strong>Est. time required (elapsed time in days)</strong></th>
             <th><strong>Actual time (elapsed time in days)</strong></th>
             <th><strong>Difference from projected time</strong></th>
             <th><strong>Actual time (working time in days)</strong></th>
@@ -710,7 +694,7 @@ ESDC’s willingness to embark on an experimental pilot like this speaks to the 
             <td>0.5</td>
         </tr>
         <tr>
-            <td>ESDC client meets/connects with supplier(s), choosed supplier and collects supplier information.</td>
+            <td>ESDC client meets/connects with supplier(s), choose supplier and collects supplier information.</td>
             <td>4</td>
             <td>N/A</td>
             <td>0</td>
