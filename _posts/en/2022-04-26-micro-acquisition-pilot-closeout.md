@@ -20,7 +20,7 @@ Expertise and authority are needed from both the IT branch and the Chief Financi
 Your payment team will likely require CFOB approval in writing in order to start paying for code with a credit card.
 
 In order to get this approval, CFOB will need to agree that you can use a credit card for a purchase that involves Intellectual Property. Credit card purchases in the GC have an invoice, not a contract so you need to have a different way of getting agreement from all parties as to what happens with the IP with a purchase of code. At ESDC there was already a process for using one page IP agreements for certain credit card purchases.
-CFOB worked with us to draft a one page IP agreement to use for all purchases for the Micro-Acquisition pilot.
+CFOB worked with us to draft a [one page IP agreement](https://github.com/canada-ca/micro-acquisition/blob/main/_pages/en/terms.md) to use for all purchases for the Micro-Acquisition pilot.
 
 You will also need CFOB approval if you want to use a payment gateway such as PayPal (useful if your target audience includes freelancers and students as most will not have point of sale systems).
 Here too we were lucky as ESDC CFOB already had a process in place for allowing payment by PayPal and we simply had to write a justification in order to get a blanket approval to use PayPal for all Micro-Acquisition payments.
