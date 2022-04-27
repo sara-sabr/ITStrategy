@@ -25,7 +25,7 @@ CFOB worked with us to draft a [one page IP agreement](https://github.com/canada
 You will also need CFOB approval if you want to use a payment gateway such as PayPal (useful if your target audience includes freelancers and students as most will not have point of sale systems).
 Here too we were lucky as ESDC CFOB already had a process in place for allowing payment by PayPal and we simply had to write a justification in order to get a blanket approval to use PayPal for all Micro-Acquisition payments.
 
-Having IT (and design) expertise on the team will mean that you will be able to build, in-house, the website where you will post opportunities.
+Having IT (development and design) expertise on the team will mean that you will be able to build, in-house, the website where you will post opportunities.
 This is not essential but it will save some time and it will be easier for you to continuously improve the site as you go. We built our site on GitHub, it was hosted on GitHub pages and we used a domain from the Alpha.canada.ca project.
 All for free.
 Thanks to UX expertise on the team we were able to ensure the website design met user needs which we validated with UX testing prior to launch.
