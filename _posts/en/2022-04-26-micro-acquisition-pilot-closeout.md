@@ -106,7 +106,7 @@ We'd love to hear what you are planning, answer questions and share our experien
 Without a doubt we could not have undertaken this work without the partnership with the folks in the procurement innovation team at ESDC.
 We specifically want to thank Cassandra Andruchow and Jacqueline Marcipont for coming on this journey with us.
 
-We are also very grateful to the IITB financial team who helped ensure funds could be reserved using this new procurement option, and who agreed to be the credit card holders for the pilot.
+We are also very grateful to the IITB Forecasting and Procurement Support team who helped ensure funds could be reserved using this new procurement option, and who agreed to be the credit card holders for the pilot.
 
 We are endlessly grateful to all the suppliers who signed up for the mailing list and demonstrated that there is a demand from suppliers for this type of procurement.
 
