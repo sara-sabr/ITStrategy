@@ -31,6 +31,8 @@ The lessons learned from experiments like this are of equal value to meeting suc
 We learned a lot over the course of this pilot.
 This report documents both our results and our lessons learned with the goal to help anyone else who might want to do a similar initiative in the GC.
 
+[Download the report in docx format]({{ site.baseurl }}/assets/files/Report.docx).
+
 **Table of Content**
 
 - [1. About this document](#1-about-this-document)
