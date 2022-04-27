@@ -960,4 +960,4 @@ Available on request
 
 [^6]: Red Tape Reduction Report [Chapter-3 The problem with low return on investment on low dollar value service contracts](https://internal-red-tape-reduction-report.github.io/chapter-3/\#the-problem-low-return-on-investment-on-low-dollar-value-service-contracts)
 
-[^7]: planned communications items included: an article in the departmental newsletter “Intersection” and tweeting from the CIO’s twitter account
+[^7]: planned communications items included: an article in the departmental newsletter “Intersection” and tweeting from the CIO's twitter account
