@@ -1,0 +1,355 @@
+Title,Column,Labels,Assignees,Initiative,Milestone
+Blog post page: make cards same width and length,Backlog,Website,,,Team's own Continuous Improvement and Administration
+Independent Assessment transition approach,Backlog,,,,Z [pending] Transition to High Performing Org
+Automate generation of PDF and docx for markdown pages,Backlog,Future release,,,Team's own Continuous Improvement and Administration
+Send Proposed OCMC Presentation to Director,Backlog,Enabling,,,Z [pending] Automate software onboarding
+Evolution of Application Catalogue,Backlog,,,,Z [pending] Automate software onboarding
+"Present books ""The Architecture of Open Source Applications"" to ARC",Backlog,,,,
+Blog - What is Agora OSS?,Backlog,Blog,,,
+"Evaluation framework for innovation ",Backlog,"Strategies, Idea, Outreach, Grassroots Program",,,
+Comms Strategy To Promote Opening Up of Existing Docs,Backlog,,,,
+Blog - Create Working in the Open post with maths on Why?,Backlog,Blog,,,
+Blog - Blitz Meetings,Backlog,Blog,,,
+"Blog - business rules are broken, not the system",Backlog,Blog,,,
+Develop measurable performance indicators for PwC recommendations,Backlog,,,,Z [pending] Transition to High Performing Org
+Get buy-in from S/W onboarding process owner (Enterprise Ops),Backlog,,,,Z [pending] Automate software onboarding
+Guide for writing blog posts,Backlog,Website,,,
+PROPOSAL - Presentation that visualizes Loose Coupling Architecture,Backlog,,,,
+Create guidance on proper metrics for a given team,Backlog,Future release,,,Z [pending] Transition to High Performing Org
+Blog - Postmortem: what we learned,Backlog,Blog,,,
+Align with PwC recomendations,Backlog,,,,Z [pending] Transition to High Performing Org
+Blog - loose coupling for the non-techie,Backlog,Blog,,,
+Git and GitHub 101,Backlog,Training,,,Team's own Continuous Improvement and Administration
+Analysis - Project Forecast vs Actuals,Backlog,Initiative: Product Management,remyb2canada,,Z [Pending] Investigation - Budget (priorities vs focus)
+Peer Review - Pilot IITB Procedures for Product Mgt,Backlog,Initiative: Product Management,remyb2canada,,Product Mgt - Produce Framework
+Advance Booking for Governance Endorsement,Backlog,Initiative: Product Management,remyb2canada,,Product Mgt - Produce Framework
+Produce one pager (placemat) of Framework,Backlog,Initiative: Product Management,remyb2canada,,Product Mgt - Produce Framework
+Book - The Delicate Art of Bureaucracy,Backlog,Initiative: Product Management,remyb2canada,,Product Mgt - Do Research
+Find potential GC departments willing to participate in a pilot,Backlog,Initiative: Software Assessment,,,Z [pending] Software Assessment Sharing pilot: Operations
+Present Strategy and pilot proposal to OCMC?,Backlog,Initiative: Software Assessment,,,Software Assessment Sharing pilot: Planning
+Launch pilot phase 1,Backlog,Initiative: Software Assessment,,,Software Assessment Sharing pilot: Planning
+Present pilot findings to governance committees,Backlog,Initiative: Software Assessment,gabrielcossette,,Z [pending] Software Assessment Sharing pilot: Closeout
+Update Team's Communication Strategy,Backlog,Communications,"ElminaIusifova, LeighGardner",,Team's own Continuous Improvement and Administration
+Book - Value Stream Mapping,Backlog,Initiative: Product Management,remyb2canada,,Product Mgt - Do Research
+Grassroots - e-Docket v2 (o365),Backlog,Grassroots Program,,,Z [Pending[ - Ongoing advice and unplanned work
+Presentation on OSS at IITB Showcase,Backlog,Strategies,,,Z [Pending] Open First Strategy
+Grassroot - Use ODF by default with M365,Backlog,Grassroots Program,smellems,,Z [Pending[ - Ongoing advice and unplanned work
+Upload ICCS OSS WG material to Github repo,Backlog,"Open Source, Joint Council",gcharest,,Z [Pending[ - Ongoing advice and unplanned work
+Fact Finding - Where does IITB spends its funds,Backlog,Initiative: Product Management,remyb2canada,,Z [Pending] Investigation - Budget (priorities vs focus)
+get in touch with Interop on how they did SA&A with agile,Backlog,Initiative: Product Management,remyb2canada,,Product Mgt - Do Research
+Get Salary distribution towards essential services,Backlog,Initiative: Product Management,remyb2canada,,Z [Pending] Investigation - Budget (priorities vs focus)
+Get must spends,Backlog,Initiative: Product Management,remyb2canada,,Z [Pending] Investigation - Budget (priorities vs focus)
+Get list of critical applications,Backlog,Initiative: Product Management,remyb2canada,,Z [Pending] Investigation - Budget (priorities vs focus)
+Fix the depreciation warnings,Backlog,,,,Team's own Continuous Improvement and Administration
+Consultation with IITB,Backlog,Strategies,,,Z [Pending] Open First Strategy
+Periodic meetings with DG / Exec-Dir (like before) - less proxies for comms,Backlog,,,,Z [Pending[ - Ongoing advice and unplanned work
+Presentation to CIOEC,Backlog,Strategies,,,Z [Pending] Open First Strategy
+Presentation to ESDC EARB,Backlog,Strategies,,,Z [Pending] Open First Strategy
+Draft Open First Strategy presentation,Backlog,Strategies,,,Z [Pending] Open First Strategy
+Check in with TBS (and share knowledge),Backlog,,,,
+"One Pager - ""Why Open First""",Backlog,,gabrielcossette,,Z [Pending] Open First Strategy
+Collaborate with DevOps CoE on transformation approach,Backlog,,philipe-girard,,Z [Pending[ - Ongoing advice and unplanned work
+Perform first round of consultations,Backlog,Strategies,,,Z [Pending] Open First Strategy
+SSC GC Enterprise Services potential partnership,Backlog,"Strategies, Outreach",remyb2canada,,Z [Pending[ - Ongoing advice and unplanned work
+Issue Blog Posts - Previous/Next buttons behaviour,Backlog,Bug,,,Team's own Continuous Improvement and Administration
+Draft Pilot IITB Standard on Financial Coding for Product Management,Backlog,Initiative: Product Management,remyb2canada,,Product Mgt - Produce Framework
+Peer Review - Pilot IITB Standard on Financial Coding for Product Management,Backlog,Initiative: Product Management,remyb2canada,,Product Mgt - Produce Framework
+MW to read,Backlog,Idea,remyb2canada,,Team's own Continuous Improvement and Administration
+Find out tech stack for Job Bank - cyber security focused,Backlog,Initiative: Product Management,remyb2canada,,Product Mgt - Produce Framework
+Governance endorsement,Backlog,Initiative: Product Management,remyb2canada,,Product Mgt - Produce Framework
+PSPC - Phoenix split history,Backlog,Initiative: Product Management,remyb2canada,,Product Mgt - Do Research
+PSPC - buyandsell approach,Backlog,Initiative: Product Management,remyb2canada,,Product Mgt - Do Research
+Internal Services Portal - contact SSPB,Backlog,Initiative: Product Management,,,Organizational Performance Measurement
+Product Adoption Plan,Backlog,Initiative: Product Management,remyb2canada,,Product Mgt - Produce Framework
+Technical Standards and Security,Backlog,"Governance, Initiative: Product Management",remyb2canada,,
+fix mobile rendering,Backlog,Accessibility,,,Team's own Continuous Improvement and Administration
+Fix mobile device issue for each blog post,Backlog,Bug,,,Team's own Continuous Improvement and Administration
+Comms plan for the software assessment sharing pilot,Backlog,Initiative: Software Assessment,,,Software Assessment Sharing pilot: Planning
+Identify software used for performance measurement,Backlog,,philipe-girard,,Organizational Performance Measurement
+Contact YESS for FY 2022-23 and workshop,Backlog,Initiative: Product Management,remyb2canada,,Product Mgt - Produce Framework
+Blog post about the pilot,Backlog,Initiative: Software Assessment,,,Z [pending] Software Assessment Sharing pilot: Operations
+Closeout report,Backlog,Initiative: Software Assessment,,,Z [pending] Software Assessment Sharing pilot: Closeout
+Create 'Lessons Learned' document to prep for 2022 study,Backlog,Initiative: IITB Diagnostic Study,,,IITB Diagnostic Study 2022
+Funding Model pitch to CIO,Backlog,Initiative: Product Management,remyb2canada,,Product Mgt - Produce Framework
+Upload ESDC artefacts,Backlog,Initiative: Software Assessment,,,Z [pending] Software Assessment Sharing pilot: Operations
+Respond to questions in ESDC and other departments,Backlog,Initiative: Software Assessment,,,Z [pending] Software Assessment Sharing pilot: Operations
+Promotions work for the pilot - comms,Backlog,Initiative: Software Assessment,,,Z [pending] Software Assessment Sharing pilot: Operations
+Tech support for the repository,Backlog,Initiative: Software Assessment,,,Z [pending] Software Assessment Sharing pilot: Operations
+Draft blog post and other comms pieces for launch,Backlog,Initiative: Software Assessment,,,Software Assessment Sharing pilot: Planning
+Prepare written guidance for the repository,Backlog,Initiative: Software Assessment,,,Software Assessment Sharing pilot: Planning
+Choose and setup/finalize the repository,Backlog,Initiative: Software Assessment,,,Software Assessment Sharing pilot: Planning
+Clean up member list and permissions,Backlog,,,,Team's own Continuous Improvement and Administration
+Connect with ESDC legal team to create participant consent form and confidentiality agreement for Women and Leadership study,Backlog,Initiative: Women and Leadership in IM/IT,LeighGardner,,
+Discuss HR revamp with Leigh,Backlog,,philipe-girard,,IITB Diagnostic Study
+GC Agility Product Management Deck,Backlog,Initiative: Product Management,remyb2canada,,Product Mgt - Communications and Awareness Raising
+Present at GC Agility,Backlog,Initiative: Product Management,remyb2canada,,Product Mgt - Communications and Awareness Raising
+Present at SLF,Backlog,Initiative: Product Management,remyb2canada,,Product Mgt - Communications and Awareness Raising
+Set up a meeting with the pillars to chat about Legal's response,Backlog,Initiative: Software Assessment,RachelMuston,,Software Assessment Sharing pilot: Planning
+Brainstorm with the team for how to include security documents,Backlog,Initiative: Software Assessment,RachelMuston,,Software Assessment Sharing pilot: Planning
+Make a request for Interactive Fact Finding Service (IFFS) through NSD,To do,,ElminaIusifova,,"UX Assessment and Framework  "
+Get approval to proceed with UX Assessment and Framework,To do,,ElminaIusifova,,"UX Assessment and Framework  "
+Prepare survey questions to assess the level of UX maturity,To do,,ElminaIusifova,,"UX Assessment and Framework  "
+Add Paul Tomka to IT Strategy website,To do,,ElminaIusifova,,Team's own Continuous Improvement and Administration
+Create interview schedule and timeline for Women and Leadership in IM/IT Study,To do,Initiative: Women and Leadership in IM/IT,LeighGardner,,Study on Women and Leadership in IM/IT
+Create interview package for participants in Women and Leadership in IM/IT Study,To do,Initiative: Women and Leadership in IM/IT,LeighGardner,,Study on Women and Leadership in IM/IT
+Find private sector participants for Women and Leadership in IM/IT Study,To do,Initiative: Women and Leadership in IM/IT,LeighGardner,,Study on Women and Leadership in IM/IT
+Schedule consultation with EA directors on fit of EA teams within product mgt,To do,Initiative: Product Management,remyb2canada,,Product Mgt - Produce Framework
+Financing software improvement explanation,To do,Initiative: Product Management,remyb2canada,,Product Mgt - Produce Framework
+Book status update meeting with EPMO,To do,Initiative: Product Management,remyb2canada,,Product Mgt - Produce Framework
+Book status update meeting with Job Bank,To do,Initiative: Product Management,remyb2canada,,Product Mgt - Produce Framework
+Schedule meeting with BDM,To do,Initiative: Product Management,remyb2canada,,Product Mgt - Produce Framework
+Get feedback from BDM architects,To do,Initiative: Product Management,remyb2canada,,Product Mgt - Produce Framework
+Peer Review - Pilot IITB Directive and Standards,To do,Initiative: Product Management,remyb2canada,,Product Mgt - Produce Framework
+JC OSS - Setup Github Pages site,To do,"Open Source, Joint Council",gcharest,,Z [Pending[ - Ongoing advice and unplanned work
+Conversation with DG for next year's focus,To do,,,,Z [Pending[ - Ongoing advice and unplanned work
+"JC OSS - Refactor Learning Material ""story""",To do,"Open Source, Joint Council",gcharest,,Z [Pending[ - Ongoing advice and unplanned work
+Research - public sector organization success stories in using OSS for large systems,To do,Strategies,,,Z [Pending] Open First Strategy
+FY 2021-2023 Workplan and New Strategy Service,To do,Idea,philipe-girard,,Team's own Continuous Improvement and Administration
+Draft Pilot IITB Procedures on Product Management,To do,Initiative: Product Management,remyb2canada,,
+Engage PPOC - PPRC on their role in Product Management,To do,Initiative: Product Management,remyb2canada,,Product Mgt - Produce Framework
+Investigate HR implication to product management roles,To do,Initiative: Product Management,remyb2canada,,Product Mgt - Produce Framework
+Job Bank - SEB-IITB agreement,To do,Initiative: Product Management,remyb2canada,,Product Mgt - Setup Job Bank
+Update IT Strategy onboarding document,To do,documentation,,,Team's own Continuous Improvement and Administration
+Book - PDMA's Product Development and Management BoK,To do,Initiative: Product Management,remyb2canada,,Product Mgt - Do Research
+Seek alignment with Resource Centre,To do,Initiative: Product Management,remyb2canada,,Product Mgt - Produce Framework
+Check with Business Arch on fit within EA,To do,Initiative: Product Management,remyb2canada,,Product Mgt - Produce Framework
+Change the auto-response message on the micro-acquisitions email account,To do,Initiative: Micro-acquisition,RachelMuston,,Micro-acquisitions pilot: Closeout
+Collect feedback and survey expertise suggestions from Research & Prototyping on interview questions,In progress,Initiative: Women and Leadership in IM/IT,LeighGardner,,Study on Women and Leadership in IM/IT
+Working in the Open Strategy (2-pager),In progress,Strategies,,,Z [Pending] Open First Strategy
+MA package for others to take and re-use,In progress,Initiative: Micro-acquisition,,,
+Research and Planning,In progress,,RachelMuston,,Organizational Performance Measurement
+"Prepare work plan, interview questions and interview logistics",In progress,Initiative: Women and Leadership in IM/IT,LeighGardner,,Study on Women and Leadership in IM/IT
+Create communications/email messages for Women and Leadership in IM/IT Study,In progress,Initiative: Women and Leadership in IM/IT,LeighGardner,,Study on Women and Leadership in IM/IT
+Create Excel spreadsheet to log responses for Women and Leadership in IM/IT Study,In progress,Initiative: Women and Leadership in IM/IT,LeighGardner,,Study on Women and Leadership in IM/IT
+Find IITB participants for Women and Leadership in IM/IT Study,In progress,Initiative: Women and Leadership in IM/IT,LeighGardner,,Study on Women and Leadership in IM/IT
+Create SMO business case,In progress,Initiative: Strategy-mgmt-office,"JSantosPS, paul-tomka",,SMO - Strategy Management Office
+Verify if there are any legal/procurement issues with openly sharing the software assessments,In progress,Initiative: Software Assessment,RachelMuston,,Software Assessment Sharing pilot: Planning
+Investigate the possible copyright issue with the assessments from security,In progress,"Initiative: Software Assessment, legal",RachelMuston,,Software Assessment Sharing pilot: Planning
+Learn more about the protected level of security assessments,In progress,Initiative: Software Assessment,,,Software Assessment Sharing pilot: Planning
+Find a partner from TMB for UX research in IITB,In progress,,ElminaIusifova,,"UX Assessment and Framework  "
+Update the micro-acquisition website,In progress,Initiative: Micro-acquisition,RachelMuston,,Micro-acquisitions pilot: Closeout
+update the 'readme' text on the MA repo,In progress,Initiative: Micro-acquisition,RachelMuston,,Micro-acquisitions pilot: Closeout
+MA report - merge on May 5th,In progress,Initiative: Micro-acquisition,RachelMuston,,Micro-acquisitions pilot: Closeout
+SLF Deck,In progress,Initiative: Product Management,remyb2canada,,Product Mgt - Communications and Awareness Raising
+Closeout blog - merge on May 5,In progress,Initiative: Micro-acquisition,RachelMuston,,Micro-acquisitions pilot: Closeout
+Removing Rachel from about us - to merge on May 16,In progress,Website,RachelMuston,,Team's own Continuous Improvement and Administration
+Get approval to proceed with Women and Leadership Study & Interview questions,Reviewing / Pending,Initiative: Women and Leadership in IM/IT,LeighGardner,,
+Develop UX proposal,Reviewing / Pending,,ElminaIusifova,,"UX Assessment and Framework  "
+Business Case - Open First Center of Enablement,Reviewing / Pending,"Strategies, In Consultation",gcharest,,Z [Pending] Open First Strategy
+Proposal Deck,Reviewing / Pending,,"RachelMuston, philipe-girard",,Organizational Performance Measurement
+message to the mailing list subscribers,Reviewing / Pending,Initiative: Micro-acquisition,,,Micro-acquisitions pilot: Closeout
+Close out tweet,Reviewing / Pending,Initiative: Micro-acquisition,,,Micro-acquisitions pilot: Closeout
+Closeout blog post,Reviewing / Pending,Initiative: Micro-acquisition,,,Micro-acquisitions pilot: Closeout
+Closeout report,Reviewing / Pending,Initiative: Micro-acquisition,RachelMuston,,Micro-acquisitions pilot: Closeout
+Develop Concept Briefing,Reviewing / Pending,Initiative: IT Delegation,"ElminaIusifova, philipe-girard, LeighGardner, JSantosPS",,Concept Briefing - IT Delegation of Authority/MOU
+Update the IT Strategy Initiatives page,Reviewing / Pending,"Website, Initiative: Micro-acquisition",RachelMuston,,Micro-acquisitions pilot: Closeout
+Remove MA link from the student employment page on Canada.ca,Done Enough,Initiative: Micro-acquisition,RachelMuston,,Micro-acquisitions pilot: Closeout
+Consult Report,Done Enough,Initiative: IITB Diagnostic Study,"philipe-girard, JSantosPS",,IITB Diagnostic Study
+IIN - Measuring Success,Done Enough,Quarter 3,remyb2canada,,Team's own Continuous Improvement and Administration
+Add guidance on the fit of formal projects within Product Management,Done Enough,Initiative: Product Management,remyb2canada,,Product Mgt - Produce Framework
+"MA - update the User guide to reference GC Forms ",Done Enough,Initiative: Micro-acquisition,RachelMuston,,Micro-acquisitions pilot: Closeout
+Get in contact with TA and chat bot example,Done Enough,Initiative: Product Management,remyb2canada,,Product Mgt - Produce Framework
+Add guidance on the fit of EA within the Product Management framework,Done Enough,Initiative: Product Management,remyb2canada,,Product Mgt - Produce Framework
+Address EA comments,Done Enough,Initiative: Product Management,remyb2canada,,Product Mgt - Produce Framework
+Comment on Job Bank MPIB deck,Done Enough,Initiative: Product Management,remyb2canada,,Product Mgt - Communications and Awareness Raising
+Checkin with BRM on the IT Costing Tool,Done Enough,Initiative: Product Management,remyb2canada,,Product Mgt - Produce Framework
+Presentation to EDS,Done Enough,Initiative: Product Management,remyb2canada,,Product Mgt - Communications and Awareness Raising
+Reach out to SSC,Done Enough,Initiative: Women and Leadership in IM/IT,LeighGardner,,Study on Women and Leadership in IM/IT
+Research on Public Service Survey,Done Enough,Initiative: Women and Leadership in IM/IT,LeighGardner,,Study on Women and Leadership in IM/IT
+Find a tool to conduct a survey for measuring the level of UX maturity in IITB,Done Enough,,ElminaIusifova,,"UX Assessment and Framework  "
+Meet with Jonathan Jones from IFFS to discuss the survey tool,Done Enough,,ElminaIusifova,,"UX Assessment and Framework  "
+Draft an email for stakeholders for partnership,Done Enough,,ElminaIusifova,,"UX Assessment and Framework  "
+Engage with Vendor Management Office to understand better,Done Enough,Initiative: Product Management,remyb2canada,,Product Mgt - Produce Framework
+Shorten the content on IT Strategy SP site,Done Enough,Communications,ElminaIusifova,,SharePoint Configuration
+Send an email to all the working level folks - kick start,Done Enough,Initiative: Software Assessment,,,Software Assessment Sharing pilot: Planning
+Hold meeting with EA for their contributions,Done Enough,Initiative: Product Management,remyb2canada,,Product Mgt - Produce Framework
+Look at EA's Strategy and roadmap to link to the Product Management Framework,Done Enough,Initiative: Product Management,remyb2canada,,Product Mgt - Produce Framework
+Confirm if possible to share SA&As and TRAs with other departments.,Done Enough,"documentation, Open Source, Strategies, toil, Outreach, Initiative: Software Assessment",,,Software Assessment Sharing pilot: Planning
+PPMP - WG actions,Done Enough,Initiative: Product Management,remyb2canada,,Product Mgt - Produce Framework
+Investigate The Open Group DPBoKP,Done Enough,Initiative: Product Management,remyb2canada,,Product Mgt - Do Research
+PPMP (Project and Progarmme Management Practice) modernization feedback,Done Enough,Initiative: Product Management,remyb2canada,,Product Mgt - Produce Framework
+Move software assessment files to the new sharepoint site,Done Enough,Initiative: Software Assessment,RachelMuston,,Team's own Continuous Improvement and Administration
+Meet with the directors of the pillars,Done Enough,Initiative: Software Assessment,RachelMuston,,Software Assessment Sharing pilot: Planning
+find/document ESDC clients of Micro-procurement,Done Enough,Initiative: Micro-acquisition,RachelMuston,,Micro-acquisitions pilot: Communications
+CS-02 Process Next Steps,Done Enough,Initiative: HR Process,philipe-girard,,IM/IT Strategy and Planning HR Process
+Présentation en anglais et français,Done Enough,Initiative: Product Management,remyb2canada,,Product Mgt - Produce Framework
+SABR extended mgt committee,Done Enough,Initiative: Product Management,remyb2canada,,Product Mgt - Produce Framework
+Make IT Strategy SP site bilingual,Done Enough,Administration,ElminaIusifova,,
+Research stats about women in IT in ESDC,Done Enough,,ElminaIusifova,,Study on Women and Leadership in IM/IT
+Develop concept briefing for Women and Leadership in IM/IT Study,Done Enough,Initiative: Women and Leadership in IM/IT,LeighGardner,,Study on Women and Leadership in IM/IT
+Book meeting with Finance,Done Enough,Initiative: Product Management,remyb2canada,,Product Mgt - Produce Framework
+Publish updates to IT Strategy site,Done Enough,Initiative: Product Management,remyb2canada,,Product Mgt - Produce Framework
+Updates to the Product Mgt Framework after 1st peer review,Done Enough,Initiative: Product Management,,,Product Mgt - Produce Framework
+PM CoP deck,Done Enough,Initiative: Product Management,remyb2canada,,Product Mgt - Produce Framework
+Add team calendar to a new Sharepoint,Done Enough,,,,Team's own Continuous Improvement and Administration
+HRSB round 2,Done Enough,Initiative: Product Management,remyb2canada,,Product Mgt - Produce Framework
+Broadcast at IIN,Done Enough,Initiative: Product Management,remyb2canada,,Product Mgt - TMD's Product Management Event Day
+Move TSDM and Product Mgt sharepoint to new sharepoint,Done Enough,Communications,remyb2canada,,SharePoint Configuration
+Speech for IITB,Done Enough,Initiative: Product Management,remyb2canada,,Product Mgt - TMD's Product Management Event Day
+New Dashboard,Done Enough,,LeighGardner,,Team's own Continuous Improvement and Administration
+Get feedback from Gartner,Done Enough,,,,Software Assessment Sharing pilot: Planning
+Testing GCExchange,Done Enough,Initiative: Software Assessment,RachelMuston,,Software Assessment Sharing pilot: Planning
+"Look at who else is doing this (in the GC, other govs, best practices)",Done Enough,Initiative: Software Assessment,RachelMuston,,Software Assessment Sharing pilot: Planning
+Document existing software assessment process in ESDC,Done Enough,Initiative: Software Assessment,RachelMuston,,Software Assessment Sharing pilot: Planning
+Write deck to be used for buy-in,Done Enough,Initiative: Software Assessment,RachelMuston,,Software Assessment Sharing pilot: Planning
+Hire New CS-03,Done Enough,,philipe-girard,,IM/IT Strategy and Planning HR Process
+Prepare Summary Deck of the WWH Report,Done Enough,,"ElminaIusifova, philipe-girard, LeighGardner, JSantosPS",,IITB Diagnostic Study
+"Training - cost, vendors etc.",Done Enough,,"RachelMuston, philipe-girard",,Organizational Performance Measurement
+Research Phase,Done Enough,Initiative: IT Delegation,,,Concept Briefing - IT Delegation of Authority/MOU
+Playbook for MS Teams Webinar,Done Enough,Initiative: Product Management,remyb2canada,,Product Mgt - TMD's Product Management Event Day
+Help TMD (previously TMOR) with Product Management day event 2022,Done Enough,Initiative: Product Management,remyb2canada,,Product Mgt - TMD's Product Management Event Day
+Check in with Unions/HR on LDV procurement (GCDevEx),Done Enough,"Outreach, Initiative: Micro-acquisition, On Hold",,,Micro-acquisitions pilot: Communications
+Connect with the office of the procurement ombudsman,Done Enough,"Communications, Initiative: Micro-acquisition, On Hold",,,Micro-acquisitions pilot: Communications
+Investigate other governments,Done Enough,Initiative: Product Management,remyb2canada,,Product Mgt - Scan current state
+MA - prepare comms to go in IITB news in Feb,Done Enough,Initiative: Micro-acquisition,,,Micro-acquisitions pilot: Communications
+Develop the monitoring process,Done Enough,"Initiative: Micro-acquisition, On Hold",,,Micro-acquisitions pilot: Operations and Continuous Improvement
+"MA - Automate additions and subtractions from the mailing list excel file ",Done Enough,"Initiative: Micro-acquisition, On Hold",,,Micro-acquisitions pilot: Communications
+Triage process for micro-acquisition requests,Done Enough,"Initiative: Micro-acquisition, On Hold",,,Micro-acquisitions pilot: Operations and Continuous Improvement
+Decide on service levels,Done Enough,Initiative: Micro-acquisition,,,Micro-acquisitions pilot: Operations and Continuous Improvement
+MA - community chat - where? how?,Done Enough,Initiative: Micro-acquisition,,,Micro-acquisitions pilot: Communications
+MA - opportunity statement for opportunity #2,Done Enough,"Initiative: Micro-acquisition, On Hold",,,Micro-acquisitions pilot: Operations and Continuous Improvement
+Ping the IITB Showcase folks again about getting the Q&A questions from our session,Done Enough,Initiative: Micro-acquisition,,,Micro-acquisitions pilot: Operations and Continuous Improvement
+MA - review french text for winning supplier email,Done Enough,Initiative: Micro-acquisition,"gabrielcossette, RachelMuston, philipe-girard",,Micro-acquisitions pilot: Operations and Continuous Improvement
+deck for non-IITB,Done Enough,Initiative: Product Management,remyb2canada,,Product Mgt - Produce Framework
+"Connect with Nava, Rebecca (TBS) on product management",Done Enough,Initiative: Product Management,remyb2canada,,Product Mgt - Scan current state
+comment on delegation paper,Done Enough,Initiative: Product Management,remyb2canada,,Concept Briefing - IT Delegation of Authority/MOU
+Budget for and get non-salary source of funds for Product Mgt Workshops,Done Enough,Initiative: Product Management,remyb2canada,,Product Mgt - Produce Framework
+Create a mockup of Sharepoint page,Done Enough,,ElminaIusifova,,SharePoint Configuration
+MA - plan for Martin to present at SLF?,Done Enough,Initiative: Micro-acquisition,,,Micro-acquisition pilot: Fall launch
+"Publish ""What we heard"" report",Done Enough,"Quarter 2, Initiative: IITB Diagnostic Study","ElminaIusifova, LeighGardner, JSantosPS",,IITB Diagnostic Study
+MA - brainstorm on external comms activities related to the fall launch,Done Enough,Initiative: Micro-acquisition,,,Micro-acquisition pilot: Fall launch
+Process Director comments,Done Enough,Initiative: IITB Diagnostic Study,"ElminaIusifova, LeighGardner, JSantosPS",,IITB Diagnostic Study
+Create Presentation Deck,Done Enough,Initiative: IITB Diagnostic Study,"ElminaIusifova, philipe-girard, LeighGardner, JSantosPS",,
+Create comment sheets for peer review,Done Enough,Initiative: Product Management,remyb2canada,,Product Mgt - Produce Framework
+Draft Pilot IITB Directive,Done Enough,Initiative: Product Management,remyb2canada,,Product Mgt - Produce Framework
+Draft Pilot IITB Standard on Product Management,Done Enough,Initiative: Product Management,remyb2canada,,Product Mgt - Produce Framework
+Blog - Product Management's Job Bank use case,Done Enough,Initiative: Product Management,remyb2canada,,Product Mgt - Produce Framework
+Take a course on Financial Delegation in GC Campus,Done Enough,Initiative: IT Delegation,ElminaIusifova,,Concept Briefing - IT Delegation of Authority/MOU
+Project to product Framework,Done Enough,Initiative: Product Management,,,Product Mgt - Produce Framework
+Prepare pilot,Done Enough,,,,Software Assessment Sharing pilot: Planning
+Present initial pilot findings to Accessibility and Security teams,Done Enough,,gabrielcossette,,Software Assessment Sharing pilot: Planning
+Get feedback from ARC,Done Enough,,,,Software Assessment Sharing pilot: Planning
+Update draft Strategy,Done Enough,,,,Software Assessment Sharing pilot: Planning
+Scope the Work - Propose to Daniel Desforges,Done Enough,Initiative: Software Assessment,"RachelMuston, philipe-girard",,Software Assessment Sharing pilot: Planning
+Finalize mockups of file exchange format and GCcode collaboration space,Done Enough,,,,Software Assessment Sharing pilot: Planning
+Refine SW Assessment file exchange format,Done Enough,,,,Software Assessment Sharing pilot: Planning
+Peer Review - Pilot IITB Standard on Product Mgt,Done Enough,Initiative: Product Management,remyb2canada,,Product Mgt - Produce Framework
+Produce peer review kick-off presentation deck,Done Enough,Initiative: Product Management,remyb2canada,,Product Mgt - Produce Framework
+Peer Review Deck for Arch,Done Enough,Initiative: Product Management,remyb2canada,,Product Mgt - Produce Framework
+Address Job Bank's deck change,Done Enough,Initiative: Product Management,remyb2canada,,Product Mgt - Produce Framework
+Produce deck for CIOEC,Done Enough,Initiative: Product Management,remyb2canada,,Product Mgt - Produce Framework
+Connect with the Compliance Unit on Risks Reporting,Done Enough,Initiative: Product Management,remyb2canada,,Product Mgt - Produce Framework
+Get FINTRACT CIOC presented strategy on product management,Done Enough,Initiative: Product Management,remyb2canada,,Product Mgt - Scan current state
+Find someone to support the tech aspect of Zoon,Done Enough,Initiative: Product Management,remyb2canada,,Product Mgt - TMD's Product Management Event Day
+Blog on IITB Diagnostic Study,Done Enough,"Blog, Initiative: IITB Diagnostic Study","RachelMuston, ElminaIusifova",,IITB Diagnostic Study
+Blog IITB Diagnostic Study,Done Enough,Blog,ElminaIusifova,,IITB Diagnostic Study
+Investigate how applications get formally added to the APM inventory (CSD),Done Enough,Initiative: Product Management,remyb2canada,,Product Mgt - Produce Framework
+Investigate taxonomy for Products,Done Enough,Initiative: Product Management,remyb2canada,,Product Mgt - Produce Framework
+Info-Tech workshop with Job Bank,Done Enough,Initiative: Product Management,remyb2canada,,Product Mgt - Do Research
+remove time from the RUN_DATE variable,Done Enough,,,,
+Research on IT organization performance measurement,Done Enough,,RachelMuston,,Team's own Continuous Improvement and Administration
+Conduct Workshops (Product Mgt/Directive),Done Enough,Initiative: Product Management,remyb2canada,,Product Mgt - Produce Framework
+Update status of Strategies on Website,Done Enough,Website,,,Team's own Continuous Improvement and Administration
+Prep for Sharepoint site migrations,Done Enough,,remyb2canada,,Team's own Continuous Improvement and Administration
+PROPOSAL - new milestone on micro-missions to other IT teams within IITB,Done Enough,,,,Team's own Continuous Improvement and Administration
+Blog - We are not in the software business,Done Enough,Blog,gcharest,,Team's own Continuous Improvement and Administration
+Research app sustainability models,Done Enough,Initiative: Product Management,remyb2canada,,Product Mgt - Scan current state
+Investigate the Results Portal and Internal Services Portal,Done Enough,Initiative: Product Management,remyb2canada,,Product Mgt - Produce Framework
+Interview feedback for CS-03s,Done Enough,Initiative: HR Process,,,IM/IT Strategy and Planning HR Process
+Plan Team Recruitment based on Workplan,Done Enough,Initiative: HR Process,philipe-girard,,IM/IT Strategy and Planning HR Process
+"Assess Next Steps - Exam, Interviews, etc",Done Enough,Initiative: HR Process,philipe-girard,,IM/IT Strategy and Planning HR Process
+Review CS-02 Candidates,Done Enough,Initiative: HR Process,philipe-girard,,IM/IT Strategy and Planning HR Process
+Create Poster and Launch on Jobs.gc.ca,Done Enough,Initiative: HR Process,philipe-girard,,IM/IT Strategy and Planning HR Process
+Wrap up report on Assessment tool,Done Enough,Assessment tool,"ElminaIusifova, philipe-girard",,Assessment tool 3 - Launch & Communications
+Present findings to stakeholders,Done Enough,Initiative: Governance Study,philipe-girard,,Governance Study 4 - Implementation Phase
+Get feedback from Director and DG,Done Enough,,gabrielcossette,,Software Assessment Sharing pilot: Planning
+Broadcast Product Management initiative,Done Enough,Initiative: Product Management,remyb2canada,,Product Mgt - Do Peer Reviews
+Job Bank - Proc Plan,Done Enough,Initiative: Product Management,remyb2canada,,Product Mgt - Setup Job Bank
+MA - update the text on the website FAQ related to public servants working as suppliers,Done Enough,Initiative: Micro-acquisition,RachelMuston,,Micro-acquisitions pilot: Operations and Continuous Improvement
+Meet PSPC on their Product Management journey,Done Enough,Initiative: Product Management,remyb2canada,,Product Mgt - Do Research
+PMIS course,Done Enough,Initiative: Product Management,remyb2canada,,Product Mgt - Produce Framework
+Synch with TMOR's product management work,Done Enough,Initiative: Product Management,remyb2canada,,Product Mgt - Produce Framework
+Get buy-in from non-IITB stakeholders (business case),Done Enough,Initiative: Product Management,remyb2canada,,Product Mgt - Do Peer Reviews
+Prepare first workshop brainstorming activity,Done Enough,Initiative: Product Management,remyb2canada,,Product Mgt - Produce Framework
+Team review of report structure and content,Done Enough,Initiative: IITB Diagnostic Study,,,IITB Diagnostic Study
+Create strategies (recommendations),Done Enough,"Quarter 1, Quarter 2, Initiative: IITB Diagnostic Study",,,IITB Diagnostic Study
+MA - Review the speaking notes for the exec directors presentation,Done Enough,Initiative: Micro-acquisition,RachelMuston,,Micro-acquisitions pilot: Operations and Continuous Improvement
+Secure Division Representatives as BI project members,Done Enough,Initiative: Product Management,remyb2canada,,Product Mgt - Produce Framework
+create the sensitive document library for MA and move files over,Done Enough,Initiative: Micro-acquisition,RachelMuston,,Team's own Continuous Improvement and Administration
+GitHub project export,Done Enough,toil,,,
+Present BI to PPRC,Done Enough,Initiative: Product Management,remyb2canada,,Product Mgt - Create Branch Inititaive
+Schedule Kick-Off Meeting,Done Enough,Initiative: Product Management,remyb2canada,,Product Mgt - Produce Framework
+Synch with Pension System Team on product mgt advancement,Done Enough,Initiative: Product Management,remyb2canada,,Product Mgt - Produce Framework
+Create Peer Review Process Document,Done Enough,Initiative: Product Management,remyb2canada,,Product Mgt - Produce Framework
+Create document to share findings,Done Enough,Initiative: Governance Study,gcharest,,Governance Study 3 - Recommendation Phase
+MA - GC Forms - Application form,Done Enough,Initiative: Micro-acquisition,RachelMuston,,Micro-acquisitions pilot: Operations and Continuous Improvement
+Put the micro-acquisition business case on our website,Done Enough,Initiative: Micro-acquisition,,,Micro-acquisitions pilot: Communications
+Micro-acquistion business case,Done Enough,Initiative: Micro-acquisition,RachelMuston,,Micro-acquisitions pilot: Communications
+Identify possible elements of governance for asynchronous decision making,Done Enough,Initiative: Governance Study,,,Governance Study 3 - Recommendation Phase
+Create Kick-Off Presentation,Done Enough,Initiative: Product Management,remyb2canada,,Product Mgt - Produce Framework
+Prepare for PPRC,Done Enough,Initiative: Product Management,remyb2canada,,Product Mgt - Create Branch Inititaive
+Present to IITB DGComm,Done Enough,Initiative: Product Management,remyb2canada,,Product Mgt - Create Branch Inititaive
+Present BI to PPOC,Done Enough,Initiative: Product Management,remyb2canada,,Product Mgt - Create Branch Inititaive
+"James and Leigh added ",Done Enough,Website,ElminaIusifova,,
+Add Leigh and James to IT Strategy website,Done Enough,Website,ElminaIusifova,,
+MA - Present at the DECD weekly show and tell?,Done Enough,Initiative: Micro-acquisition,RachelMuston,,Micro-acquisition pilot: Fall launch
+Decide whether to restrict eligibility to under-represented groups and/or freelancers and small businesses,Done Enough,Initiative: Micro-acquisition,,,Micro-acquisitions pilot: Operations and Continuous Improvement
+Finalize minimum code Acceptance Criteria for all Micro-Acquisitions,Done Enough,Initiative: Micro-acquisition,RachelMuston,,Micro-acquisitions pilot: Operations and Continuous Improvement
+MA - think through division of workload,Done Enough,Initiative: Micro-acquisition,"RachelMuston, philipe-girard",,Micro-acquisitions pilot: Operations and Continuous Improvement
+Plan for and hold launch event,Done Enough,"Communications, Initiative: Micro-acquisition",,,Micro-acquisition pilot: Fall launch
+Create Risk Register,Done Enough,Initiative: Product Management,remyb2canada,,Product Mgt - Create Branch Inititaive
+Address EA assessment,Done Enough,Initiative: Product Management,remyb2canada,,Product Mgt - Create Branch Inititaive
+Renew Luc Vienneau Casual Contract,Done Enough,Initiative: HR Process,philipe-girard,,IM/IT Strategy and Planning HR Process
+Mid-Year Reviews,Done Enough,,philipe-girard,,Team's own Continuous Improvement and Administration
+TAC Presentation,Done Enough,Initiative: Product Management,remyb2canada,,Product Mgt - Do Peer Reviews
+modified english version of product-management strategy,Done Enough,Initiative: Product Management,,,Product Mgt - Produce Framework
+Transition to Product Management intake criteria (EPMO),Done Enough,Initiative: Product Management,remyb2canada,,Product Mgt - Produce Framework
+SAP blueprint of product management,Done Enough,Initiative: Product Management,remyb2canada,,Product Mgt - Do Research
+2 Pager - Amazon Style,Done Enough,Strategies,,,Z [Pending] Open First Strategy
+MA - Review Translation of IITB Showcase presentation,Done Enough,Initiative: Micro-acquisition,"RachelMuston, remyb2canada",,Micro-acquisitions pilot: Communications
+Test new consultation column,Done Enough,,"gcharest, LeighGardner",,Team's own Continuous Improvement and Administration
+Blog - Product Management Part 2,Done Enough,"Blog, Initiative: Product Management",remyb2canada,,Product Mgt - Do Peer Reviews
+Fix number of sections,Done Enough,,,,Z [Pending] Open First Strategy
+Exploration - Map Product Management framework elements with existing PM/Portfolio methods,Done Enough,Initiative: Product Management,remyb2canada,,Product Mgt - Produce Framework
+User Engagement in Service Delivery blog,Done Enough,Blog,ElminaIusifova,,
+Restructure strategy,Done Enough,Strategies,gcharest,,Z [Pending] Open First Strategy
+Setup consultation tracker,Done Enough,Strategies,gcharest,,Z [Pending] Open First Strategy
+Produce Branch Initiative Charter/Plan,Done Enough,Initiative: Product Management,remyb2canada,,Product Mgt - Create Branch Inititaive
+MA - prepare presentation for IITB influencers network,Done Enough,Initiative: Micro-acquisition,RachelMuston,,Micro-acquisition pilot: Fall launch
+MA - schedule presentation at IITB Influencers network,Done Enough,Initiative: Micro-acquisition,RachelMuston,,Micro-acquisition pilot: Fall launch
+MA - IITB newsletter item,Done Enough,Initiative: Micro-acquisition,"RachelMuston, remyb2canada",,Micro-acquisition pilot: Fall launch
+MA - Prepare presentation for IITB Showcase (Oct 29),Done Enough,Initiative: Micro-acquisition,"RachelMuston, philipe-girard",,Micro-acquisition pilot: Fall launch
+"Add governance modernization framework reference ",Done Enough,Initiative: Governance Study,gcharest,,Governance Study 1 - Research Phase
+JC OSS - August Session Prep,Done Enough,"Open Source, Joint Council",gcharest,,Z [Pending[ - Ongoing advice and unplanned work
+Create and Consult CS-02 SOMC,Done Enough,Initiative: HR Process,philipe-girard,,IM/IT Strategy and Planning HR Process
+Review CS-02 Process requirements,Done Enough,Initiative: HR Process,philipe-girard,,IM/IT Strategy and Planning HR Process
+Present to EPMO our perspective on Product Mgt,Done Enough,Initiative: Product Management,remyb2canada,,Product Mgt - Produce Business Case
+JC OSS - Meet ICCS regarding OSS governance models,Done Enough,"Open Source, Joint Council",gcharest,,Z [Pending[ - Ongoing advice and unplanned work
+Blog post - micro-acquisition-pilot-update2.md,Done Enough,"Blog, Initiative: Micro-acquisition",RachelMuston,,Micro-acquisitions pilot: Communications
+Review Open First Strategy,Done Enough,Strategies,gabrielcossette,,Z [Pending] Open First Strategy
+"Provide EPMO on suggested metrics for identifying ""product status""",Done Enough,Initiative: Product Management,remyb2canada,,Product Mgt - Create Branch Inititaive
+"adjustments to adopt, build, buy outstanding feedback",Done Enough,Website,,,Team's own Continuous Improvement and Administration
+TSDM fr,Done Enough,Website,ElminaIusifova,,
+improved pandoc instructions,Done Enough,,RachelMuston,,Team's own Continuous Improvement and Administration
+French version of the TSDM supporting document - areas of concern/outstanding feedback,Done Enough,,RachelMuston,,Team's own Continuous Improvement and Administration
+MA - Review of the translated screens for how to get a GitHub account,Done Enough,Initiative: Micro-acquisition,"gabrielcossette, RachelMuston",,Micro-acquisitions pilot: Operations and Continuous Improvement
+MA - Review the french survey to suppliers text,Done Enough,Initiative: Micro-acquisition,"gabrielcossette, RachelMuston, philipe-girard",,Micro-acquisitions pilot: Operations and Continuous Improvement
+MA - Review of updated and simplified MA process documents,Done Enough,Initiative: Micro-acquisition,RachelMuston,,Micro-acquisitions pilot: Operations and Continuous Improvement
+MA - Accessibility review - round 2,Done Enough,Initiative: Micro-acquisition,RachelMuston,,Micro-acquisitions pilot: Operations and Continuous Improvement
+MA - add link to mailing list form to the MA website,Done Enough,Initiative: Micro-acquisition,LeighGardner,,Micro-acquisitions pilot: Communications
+MA - get text on the Student employment page about the MA pilot,Done Enough,Initiative: Micro-acquisition,LeighGardner,,Micro-acquisitions pilot: Communications
+MA - update those with admin rights on the MA repo,Done Enough,Initiative: Micro-acquisition,RachelMuston,,Micro-acquisitions pilot: Operations and Continuous Improvement
+MA - Auto-response messages from our generic mailbox to Notify is a problem,Done Enough,Initiative: Micro-acquisition,RachelMuston,,Micro-acquisitions pilot: Operations and Continuous Improvement
+Reach out to JobBank (SEB and IITB),Done Enough,Initiative: Product Management,remyb2canada,,Product Mgt - Do Peer Reviews
+Explore APM+ for potential new M.A. opportunity,Done Enough,Initiative: Micro-acquisition,remyb2canada,,Micro-acquisitions pilot: Operations and Continuous Improvement
+Contributions to existing OSS repo,Done Enough,,"gcharest, smellems, RachelMuston",,Micro-acquisitions pilot: Operations and Continuous Improvement
+Follow up with interviewees,Done Enough,Initiative: IITB Diagnostic Study,LeighGardner,,IITB Diagnostic Study
+Bug fix in fr About us page,Done Enough,,RachelMuston,,Team's own Continuous Improvement and Administration
+Connect with someone responsible for a Program's Architecture,Done Enough,Initiative: Product Management,remyb2canada,,Product Mgt - Do Research
+Find who is ESDC's official responsible for service,Done Enough,Initiative: Product Management,remyb2canada,,Product Mgt - Do Research
+Publish product management strategy on the site,Done Enough,Initiative: Product Management,remyb2canada,,Product Mgt - Produce Business Case
+Contact MyESDC app,Done Enough,Initiative: Product Management,remyb2canada,,Product Mgt - Scan current state
+Product mgt defs,Done Enough,Initiative: Product Management,,,Product Mgt - Do Research
+MA - prepare deck for exec directors meeting,Done Enough,Initiative: Micro-acquisition,RachelMuston,,Micro-acquisitions pilot: Communications
+Present to Executive Director Committee,Done Enough,Initiative: Product Management,remyb2canada,,Product Mgt - Create Branch Inititaive
+Retain HR Logistics Services from FPS,Done Enough,Initiative: HR Process,philipe-girard,,IM/IT Strategy and Planning HR Process
