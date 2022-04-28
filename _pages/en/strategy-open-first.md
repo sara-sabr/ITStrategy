@@ -415,7 +415,7 @@ The goal of this strategy is to enable ESDC to share open source code using a pr
 ### Build a world class public service <!-- omit in toc -->
 
 Open standards and OSS are about co-creation and building public services that connect seamlessly across organizational silos and borders.
-That is why it is a component in most of the actions in the [Interoperability solutions for public administrations, businesses and citizens](https://ec.europa.eu/isa2/isa2_en) (ISA2) European Commission programme.
+That is why it is a component in most of the actions in the Interoperability solutions for public administrations, businesses and citizens (ISA2) (previously at: //ec.europa.eu/isa2/isa2_en) European Commission programme.
 Building a responsible open Canada is something we can only do ourselves and the best way is to do it together.
 
 A [Study on OSS governance at the European Commission](https://op.europa.eu/en/publication-detail/-/publication/1aa67278-5464-11ea-aece-01aa75ed71a1) shows that their OSS strategy is in line with the best practices from public services and private companies.
@@ -662,7 +662,7 @@ Some teams in IITB are working in the open (DTS, IT Strategy, ...) and some OSS 
 Open standards are a set of rules designed to do a specific job in technology, developed in a fully open manner.
 They refer to file formats, protocols and application interfaces that can be implemented by everyone (in open source and proprietary software alike).
 
-Inspired by France's _[Référentiel Général d'Interopérabilité](https://www.numerique.gouv.fr/publications/interoperabilite/)_ (General Guidelines for Interoperability), the Quebec government's _[Cadre Commun d'Interopérabilité](https://www.tresor.gouv.qc.ca/ressources-informationnelles/architecture-dentreprise-gouvernementale/standards-et-normes/cadre-commun-dinteroperabilite/)_ (Common interoperability framework), the [European Interoperability Framework](https://ec.europa.eu/isa2/eif_en) and the British Cabinet Office's [Open Standards Principles](https://www.gov.uk/government/publications/open-standards-principles/open-standards-principles), the following criteria define open standards:
+Inspired by France's _[Référentiel Général d'Interopérabilité](https://www.numerique.gouv.fr/publications/interoperabilite/)_ (General Guidelines for Interoperability), the Quebec government's _[Cadre Commun d'Interopérabilité](https://www.tresor.gouv.qc.ca/ressources-informationnelles/architecture-dentreprise-gouvernementale/standards-et-normes/cadre-commun-dinteroperabilite/)_ (Common interoperability framework), the European Interoperability Framework (previously at: //ec.europa.eu/isa2/eif_en) and the British Cabinet Office's [Open Standards Principles](https://www.gov.uk/government/publications/open-standards-principles/open-standards-principles), the following criteria define open standards:
 
 - Development process is open and transparent to all interested parties and cannot be controlled by any single person or entity with any vested interests;
 - They are platform independent, vendor neutral and usable in multiple implementations;
