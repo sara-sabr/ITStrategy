@@ -16,7 +16,8 @@ Driven by the results of the red tape reduction report, the Gartner Procurement 
 
 We also felt strongly that there is a lot of coding talent that remains untapped by the Federal Public Service and that by simplifying low dollar value procurement of code, we could not only increase access to that talent but enable distribution of GC contract dollars to those who might normally face barriers.
 
-We worked to understand those barriers and smash them along the way – can we pay for code using PayPal to get money into coders hands fast and not require them to wait 30 days or have a point-of-sale system? Heck yes we can!
+We worked to understand those barriers and smash them along the way – can we pay for code using PayPal to get money into coders hands fast and not require them to wait 30 days or have a point-of-sale system?
+Heck yes we can!
 
 We also feel proud and glad of the partnership forged between IITB and CFOB as part of this pilot proving not only that we can but that we must work together across branches when designing any type of service or system.
 
@@ -33,7 +34,7 @@ This report documents both our results and our lessons learned with the goal to 
 
 [Download the report in odt format]({{ site.baseurl }}/assets/files/Close-out-report.odt).
 
-**Table of Content**
+**Table of Contents**
 
 - [1. About this document](#1-about-this-document)
 - [2. Project Description](#2-project-description)
@@ -98,7 +99,8 @@ As the other applicants for that opportunity had not passed the mandatory criter
 The ESDC client chose to not re-run the opportunity to find new suppliers.
 
 During the pilot many meetings were held with potential clients.
-A [communications plan](https://014gc.sharepoint.com/:w:/r/sites/IITB-ITStrategy/Shared%20Documents/STRATEGIES%20AND%20INITIATIVES/Micro-Acquisition%20pilot/Change%20Management/Comms%20plan.docx?d=wffa1ee6366144067b91fb10b4b92ed2b&csf=1&web=1&e=bbk2sx) was developed and reviewed by the IITB Communications and Change Management team. This plan guided both our internal and external communications.
+A [communications plan](https://014gc.sharepoint.com/:w:/r/sites/IITB-ITStrategy/Shared%20Documents/STRATEGIES%20AND%20INITIATIVES/Micro-Acquisition%20pilot/Change%20Management/Comms%20plan.docx?d=wffa1ee6366144067b91fb10b4b92ed2b&csf=1&web=1&e=bbk2sx) was developed and reviewed by the IITB Communications and Change Management team.
+This plan guided both our internal and external communications.
 
 ### 2.3 Pilot Objectives <!-- omit in toc -->
 
@@ -321,8 +323,7 @@ Where results were not achieved, an explanation is provided.
             <td>It is difficult to assess this metric as there were zero opportunities that went through the entire process. Additionally, had more opportunities been completed, it is assumed that the number of hours saved per procurement would increase. There were a few slowdowns on the first opportunity due to learning and adjusting on the fly. For more see annex A.</td>
         </tr>
         <tr class="odd">
-            <td>
-            <strong>Increased ESDC capabilities around agile, including breaking work up into smaller chunks which drive high software delivery and organizational performance</strong></td>
+            <td><strong>Increased ESDC capabilities around agile, including breaking work up into smaller chunks which drive high software delivery and organizational performance</strong></td>
             <td></td>
             <td></td>
             <td></td>
@@ -510,7 +511,8 @@ Doing this would have allowed more time for suppliers to find out about the pilo
 
 #### Change Management <!-- omit in toc -->
 
-Using the Micro-Acquisition pilot presented a change to the current way of doing things for teams at ESDC. It was a change in terms of procurement - being allowed to purchase code via credit card, and it was a change for most IT teams i- using open-source code.
+Using the Micro-Acquisition pilot presented a change to the current way of doing things for teams at ESDC.
+It was a change in terms of procurement - being allowed to purchase code via credit card, and it was a change for most IT teams i- using open-source code.
 
 Managing the change with the IITB Financial team was easy as the change was minimal.
 Procurement by credit card is done regularly in the GC and processes are clearly defined.
@@ -560,7 +562,7 @@ Our lesson learned here is that only those who have a full and complete understa
 
 The detailed path of the Micro-Acquisition pilot through the lite project process can be found in Annex B.
 
-The IT Strategy team at ESDC released a [Governance Study](https://014gc.sharepoint.com/:w:/s/IITB-ITStrategy/EfB4xdWM5zdAkuSNiYubhF8B9mg4-clkMPGz6sN2EawaSg?e=ecq3JC) in 2022 which indicates that the challenges we faced with IT governance and approvals were not unique to the micro-acquisition pilot.
+The IT Strategy team at ESDC released a Governance Study in 2022 which indicates that the challenges we faced with IT governance and approvals were not unique to the micro-acquisition pilot.
 
 #### Feedback from suppliers <!-- omit in toc -->
 
