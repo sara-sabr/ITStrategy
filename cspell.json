@@ -626,7 +626,9 @@
     "yous",
     "closeout",
     "Andruchow",
-    "Marcipont"
+    "Marcipont",
+    "IPFPC",
+    "EMOAM"
   ],
   "flagWords": [],
   "import": ["node_modules/@cspell/dict-fr-fr/cspell-ext.json"],
