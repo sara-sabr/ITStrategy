@@ -25,11 +25,13 @@ Au bout du compte, de nombreux paramètres ciblés de réussite du projet pilote
 Or, nous n’avons affiché qu’une occasion et, bien qu’un fournisseur ait été sélectionné, celle-ci a été résiliée pour cause de non-livraison et aucun paiement n’a été effectué.
 
 Les initiatives porteuses de changement sont laborieuses.
-Nous avons fait face à plusieurs obstacles lorsqu’il a fallu trouver des clients qui avaient besoin d’un travail de codage par petits lots à EDSC. Nous n’avons pas réussi à mettre nos cadres responsables sur la voie du succès.
-Nous nous sommes heurtés aux réticences des représentants syndicaux d’EDSC lorsqu’ils ont pris connaissance du projet à mi-chemin.
+Nous avons fait face à plusieurs obstacles lorsqu’il a fallu trouver des clients qui avaient besoin d’un travail de codage par petits lots à EDSC. Nous n’avons pas déployé suffisamment d'efforts dans la gestion du changement.
+Nous nous sommes heurtés aux réticences des représentants syndicaux d’EDSC lorsqu’ils ont pris connaissance du pilote à mi-chemin.
 
 Cela dit, il ne faudrait pas en déduire qu’une telle intervention n’en valait pas la peine.
-Les leçons tirées de telles expériences valent tout autant que l’atteinte des paramètres de réussite.
+Bien que nous n'ayons pas trouvé de clients pour le micro-procurement de code à l'ESDC, nous avons reçu un certain nombre de demandes d'autres ministères, ce qui nous fait penser que cette initiative pourrait être couronnée de succès ailleurs.
+
+En fin de compte, les leçons tirées de telles expériences valent tout autant que l’atteinte des paramètres de réussite.
 Durant le Projet pilote, nous avons beaucoup appris. Vous trouverez dans les pages suivantes de la documentation, tant sur les résultats obtenus que les leçons tirées, pour venir en aide à d’autres qui voudront peut-être mener une initiative semblable au GC.
 
 [Télécharger le rapport en format odt]({{ site.baseurl }}/assets/files/Close-out-report.odt).
@@ -379,7 +381,7 @@ D’entrée de jeu, au stade du lancement du Projet pilote, nous ne disposions p
 Nous avions plutôt deux comptes Twitter (l’un en français et l’autre en anglais) que les fournisseurs pouvaient suivre pour découvrir de nouvelles occasions; toutefois, les commentaires des utilisateurs nous ont appris qu’un grand nombre de nos destinataires (p. ex., les étudiants) n’avaient pas de compte Twitter.
 
 Nous avons donc rapidement mis sur pied une liste d’envoi par courriel à laquelle les formulaires du GC permettaient de s’abonner.
-Au stade de la clôture du Projet pilote, il y avait 217 abonnés. Ce nombre surpasse le total de personnes qui suivent les comptes Twitter en anglais et en français (158).
+Au stade de la clôture du Projet pilote, il y avait 226 abonnés. Ce nombre surpasse le total de personnes qui suivent les comptes Twitter en anglais et en français (158).
 
 Le nombre d’abonnés aux listes d’envoi n’a cessé d’augmenter tout au long du Projet pilote, tandis qu’il y a eu au départ de nombreux abonnés aux comptes Twitter, mais que leur croissance ne s’est pas maintenue.
 Nous sommes portés à croire que de nombreuses personnes qui nous suivaient sur Twitter se trouvaient déjà dans nos réseaux étendus, sans forcément faire partie des groupes de fournisseurs.
@@ -418,7 +420,7 @@ Puisque nous n’étions pas en communication directe avec les fournisseurs, ces
 
 Nous avons obtenu une grande quantité de renseignements de la part de ceux qui étaient déjà passés par là, comme l’équipe de BC Developers Exchange/BC Digital Marketplace qui nous a généreusement fait part des leçons qu’elle a tirées.
 
-Nous avons également parlé à l’équipe d’approvisionnement du SNC, qui avait songé à faire quelque chose de semblable, à l’équipe de la politique d’approvisionnement du SCT, à l’équipe d’approvisionnement de SPC qui s’investit dans le [TechNation Digital Marketplace (en anglais seulement)](https://technationcanada.ca/en/digital-marketplace/) ainsi qu’à d’autres équipes de SPAC, comme l’équipe de simplification de l’approvisionnement et l’équipe de paiement dans les 15 jours.
+Nous avons également parlé à l’équipe d’approvisionnement du SNC, qui avait songé à faire quelque chose de semblable, à l’équipe de la politique d’approvisionnement du SCT, à l’équipe d’approvisionnement de Services partagés Canada qui s’investit dans le [TechNation Digital Marketplace (en anglais seulement)](https://technationcanada.ca/en/digital-marketplace/) ainsi qu’à d’autres équipes de SPAC, comme l’équipe de simplification de l’approvisionnement et l’équipe de paiement dans les 15 jours.
 
 #### Mise à l’essai de l’expérience utilisateur <!-- omit in toc -->
 
@@ -467,7 +469,7 @@ Il ressort d’éléments de faits empiriques que peu d’équipes à EDSC font 
 Les équipes qui travaillent avec souplesse et dont l’arriéré consiste en des lots de travail clairement définis et de taille sprint s’intéresseront davantage au microapprovisionnement du code, car la mise au point de l’énoncé d’occasion sera à leurs yeux un exercice rapide et facile.
 Voilà un élément important, parce que dans un contrat d’une valeur de 10 k$, le fournisseur ne peut pas consacrer beaucoup de temps à la définition des besoins de la clientèle.
 Il est important de définir clairement les travaux afin que le fournisseur puisse se pencher sur le codage sans tarder.
-Les équipes qui ne travaillent pas avec souplesse (ce qui est le cas de nombreuses équipes à la DGIIT) auront peine à composer avec ce type d’approvisionnement : elles se sentiront plus à l’aise dans le recours aux possibilités d’approvisionnement qu’elles connaissent bien, comme le fournisseur unique lorsqu’il y a majoration de la limite monétaire (et donc de la période d’exécution) permettant d’inclure la définition des travaux dans les activités contractuelles.
+Les équipes qui ne travaillent pas avec souplesse auront peine à composer avec ce type d’approvisionnement : elles se sentiront plus à l’aise dans le recours aux possibilités d’approvisionnement qu’elles connaissent bien, comme le fournisseur unique lorsqu’il y a majoration de la limite monétaire (et donc de la période d’exécution) permettant d’inclure la définition des travaux dans les activités contractuelles.
 
 Selon toute vraisemblance, l’absence d’un bureau de programmes de source ouverte qui aurait pu appuyer les utilisateurs et les créateurs des codes de source ouverte à EDSC y est également pour quelque chose.
 Pour passer aux codes de source ouverte, il faut réorienter la réflexion sur des aspects tels que la maintenance et connaître les licences et les règles relatives à l’ouverture du code et au travail en mode ouvert.
@@ -494,7 +496,7 @@ De plus, puisque la valeur attendue en dollars de la passation de contrats liée
 Or, nous nous étions trompés...
 
 Dès que nous avons lancé le Projet pilote et amorcé les communications à l’interne, nous avons immédiatement eu vent de l’inquiétude des représentants syndicaux de l’IPFPC à EDSC comme quoi ils n’avaient pas été consultés.
-Par suite des réunions à huis clos entre la haute direction et ces représentants syndicaux, les communications à l’interne liées au Projet pilote ont pris fin.
+À la suite de réunions à huis clos entre la haute direction et les représentants syndicaux, le directeur de la stratégie informatique a décidé de limiter les communications jusqu'à ce que les problèmes soient résolus.
 L’interruption des communications à l’interne a nui à la capacité de l’équipe du Projet pilote de trouver des clients en vue du Projet pilote sur la microacquisition.
 
 #### Ne pas constituer une base de fournisseurs avant la tenue de la première occasion <!-- omit in toc -->

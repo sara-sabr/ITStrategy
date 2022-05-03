@@ -25,10 +25,12 @@ Ultimately this pilot did not meet many of its target success metrics. We though
 In the end we only posted one opportunity and while a supplier was selected, the opportunity was terminated for non-delivery and no payment was made.
 
 Change initiatives are hard.
-We faced several challenges finding clients who had the need to procure small chunks of coding work at ESDC, we failed to set our executive sponsors up for success and faced push back from ESDC union reps when they learned about it midway through the project.
+We faced several challenges finding clients who had the need to procure small chunks of coding work at ESDC, we didn't put enough effort into change management and we faced push back from ESDC union reps when they learned about it midway through the pilot.
 
 But that is not to say this was not a worthwhile effort.
-The lessons learned from experiments like this are of equal value to meeting success metrics.
+While we didn't find clients for micro-procurement of code at ESDC, we did get a number of requests from other departments which makes us think that this initiative could be successful elsewhere.
+
+Ultimately the lessons learned from experiments like this are of equal value to meeting success metrics.
 We learned a lot over the course of this pilot.
 This report documents both our results and our lessons learned with the goal to help anyone else who might want to do a similar initiative in the GC.
 
@@ -467,7 +469,7 @@ Anecdotal evidence indicates that there are few teams at ESDC working in an agil
 Teams that are working in an agile way with a backlog of sprint-sized, clearly defined chunks of work will be more interested in micro-procurement of code as developing the opportunity statement will be a quick and easy exercise for them.
 This is important because there is not time in a $10K contract for the supplier to spend a lot of time working with the client to define needs.
 The work must be clearly defined so that a supplier can begin coding work immediately.
-Teams that are not working in an agile way (like many of the teams in IITB) will find this type of procurement a challenge and will be more comfortable using familiar procurement options like sole source where there is a higher dollar limit (and so more time) to include defining the work as part of the contract activities.
+Teams that are not working in an agile way will find this type of procurement a challenge and will be more comfortable using familiar procurement options like sole source where there is a higher dollar limit (and so more time) to include defining the work as part of the contract activities.
 
 The lack of an Open Source Program Office providing support to those using and creating open-source code at ESDC, likely also played a role.
 Moving towards open-source code takes a shift in thinking around things such as maintenance and requires knowledge of licensing and the rules around opening up code and working in the open.
@@ -494,7 +496,7 @@ Also, since the anticipated dollar value of the contracting associated with the 
 This proved to be a mistake.
 
 Once we launched the pilot and began communicating internally, we immediately heard concerns from the PIPSC union reps at ESDC that they had not been consulted.
-In-camera meetings between senior management and those union reps resulted in the termination of internal communications related to the pilot.
+Following in-camera meetings between senior management and union reps, the Director of IT Strategy decided to minimize further communications until the issues were addressed.
 This termination of internal comms had an impact on the pilot team’s ability to find clients for the micro-acquisition pilot.
 
 #### Not building up the supplier base before running the first opportunity <!-- omit in toc -->
