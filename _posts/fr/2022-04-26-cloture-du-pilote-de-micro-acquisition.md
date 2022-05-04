@@ -10,15 +10,15 @@ excerpt: "Ce billet vise à vous informer que le projet pilote de micro-acquisit
 
 C'est officiel, le projet pilote de micro-acquisition est maintenant fermé.
 À la lumière des leçons que nous en avons tirées, nous souhaitons vous faire connaître les principaux éléments qui, à notre avis, sont nécessaires pour réussir une initiative d'approvisionnement comme celle-ci.
-Si vous songez à mettre sur pied une initiative d'approvisionnement semblable, ce blogue vous convient!
+Si vous songez à mettre sur pied une initiative d'approvisionnement semblable, ce blogue est pour vous!
 
 ## Les cinq éléments requis pour réussir une initiative de micro-approvisionnement en codage au gouvernement du Canada
 
 ### Établir un partenariat entre la TI et la Direction générale du dirigeant principal des finances
 
-La Direction générale de la TI et la Direction générale du dirigeant principal des finances (DGDPF) ont besoin d'expertise et d'autorité pour une initiative de micro-approvisionnement liée au code.
+L'expertise et l'autorité de la Direction générale de la TI et la Direction générale du dirigeant principal des finances (DGDPF) sont requis pour une initiative de micro-approvisionnement liée au code.
 
-Votre équipe de paiement devra probablement obtenir l'approbation écrite de la DGDPF pour commencer à payer un code avec une carte de crédit.  
+Votre équipe de paiement devra probablement obtenir l'approbation écrite de la DGDPF pour commencer à payer pour du code avec une carte de crédit.  
 
 Pour obtenir cette approbation, la DGDPF devra convenir que vous pouvez utiliser une carte de crédit pour un achat concernant une propriété intellectuelle (PI).
 Les achats par carte de crédit au gouvernement du Canada s'accompagnent d'une facture et non d'un contrat.
@@ -30,7 +30,8 @@ Vous devrez également obtenir l'approbation de la DGDPF si vous souhaitez utili
 Ici aussi, nous avons été chanceux, car la DGDPF d'EDSC disposait déjà d'un processus permettant de payer par PayPal; nous avons simplement dû rédiger une justification en vue d'obtenir une approbation générale pour utiliser PayPal pour tous les paiements de micro-acquisition.
 
 En disposant d'une expertise en TI (développement et conception) au sein de l'équipe, vous serez en mesure de créer, à l'interne, le site Web où vous afficherez des offres d'emploi.
-Ce n'est pas essentiel, mais cela vous fera gagner du temps et vous permettra d'améliorer facilement le site au fur et à mesure. Nous avons construit notre site sur GitHub, qui était hébergé sur les pages de GitHub, et avons utilisé un domaine du projet [alpha.canada.ca](https://alpha.canada.ca/). Le tout gratuitement.
+Ce n'est pas essentiel, mais cela vous fera gagner du temps et vous permettra d'améliorer facilement le site au fur et à mesure.
+Nous avons construit notre site sur GitHub, qui était hébergé sur GitHub Pages, et avons utilisé un domaine du projet [alpha.canada.ca](https://alpha.canada.ca/). Le tout gratuitement.
 Grâce à l'expertise en matière d'expérience utilisateur (EU) au sein de l'équipe, nous avons pu nous assurer que la conception du site Web répondait aux besoins des utilisateurs, ce que nous avons vérifié au moyen d'essais d'EU avant le lancement.
 
 L'expertise en TI au sein de l'équipe vous permettra également de répondre aux questions techniques qui seront soulevées lors des approbations et des rencontres avec les clients.
@@ -55,7 +56,7 @@ Si oui, communiquez avec lui. Le BPME offre une formation aux petits fournisseur
 Il connaît très bien les défis auxquels font face les fournisseurs pour obtenir des contrats du gouvernement du Canada, et nous a fourni beaucoup de conseils pour nous assurer que nous ne créions pas, par inadvertance, des obstacles pour les fournisseurs.
 
 Communiquez avec les membres du personnel du [Service numérique canadien (SNC)](https://numerique.canada.ca/).
-Non seulement certains d'entre eux possèdent une expertise et une expérience considérables en matière de sources ouvertes, mais ils gèrent aussi certains produits que vous pourriez vouloir intégrer à votre initiative.
+Non seulement certains d'entre eux possèdent une expertise et une expérience considérables en matière de logiciels libres, mais ils gèrent aussi certains produits que vous pourriez vouloir intégrer à votre initiative.
 Dans le cadre de notre projet pilote, nous avons utilisé l'application Notification du Service numérique canadien (SNC) et les formulaires du gouvernement du Canada.
 Nous avons établi une relation de soutien mutuel dans le cadre de laquelle le SNC a élaboré nos formulaires et en a testé gratuitement l'accessibilité en ligne. Puis, nous avons participé à des séances de rétroaction des utilisateurs pour ces produits.
 
@@ -101,8 +102,7 @@ Aussi, faire en sorte les premières offres d'emploi exige des ensembles de comp
 Envisagez-vous de mener une initiative d'approvisionnement semblable?
 Parfait!
 Nous avons ajouté de nombreux documents pilotes au [dépôt de micro-acquisition (en anglais seulement)](https://github.com/canada-ca/micro-acquisition/tree/main/assets) (p. ex. les messages de l'application Notification que nous avons utilisés, nos documents sur les processus, l'analyse de rentabilisation, notre plan de communication et nos documents de communication).
-Tout ce qui s'y trouve fait l'objet d'une licence délivrée par l'Équipe chargée de la mise en œuvre et de l'analyse monétaire (EMOAM).
-Veuillez donc prendre les artéfacts, les modifier et les utiliser!
+Tout ce qui s'y trouve est sous licence MIT, alors n'hésitez pas à prendre les artefacts, à les modifier et à les utiliser!
 Souhaitez-vous nous parler de ce projet pilote? Veuillez communiquer avec nous.
 Nous aimerions savoir ce que vous avez prévu, répondre à vos questions et vous faire part de nos expériences.
 
@@ -123,5 +123,5 @@ Nous n'avons pas atteint nos objectifs ni atteint les paramètres de réussite d
 Nous n'avons affiché qu'une occasion (sur les 10 visées).
 Mais en ce qui concerne les projets pilotes, l'avantage n'est pas seulement d'atteindre les objectifs, mais aussi d'apprendre.
 Comme nous l'avons décrit ici et dans notre rapport de clôture détaillé (lien), l'équipe a beaucoup appris au cours de ce projet pilote.
-Nous nous sentons vraiment heureux d'avoir participé à la magie qui peut se produire lorsque les directions générales collaborent, et d'avoir prouvé que, oui, au gouvernement du Canada, nous pouvons payer des codes à faible coût en utilisant les cartes de crédit et PayPal!
+Nous nous sentons vraiment heureux d'avoir participé à la magie qui peut se produire lorsque les directions générales collaborent, et d'avoir prouvé que, oui, au gouvernement du Canada, nous pouvons payer pour du code à faible coût en utilisant les cartes de crédit et PayPal!
 Merci à EDSC d'être prêt à entreprendre un projet pilote expérimental comme celui-ci!
