@@ -629,7 +629,13 @@
     "mandatories",
     "Laurentian",
     "Prosci",
-    "ADKAR"
+    "ADKAR",
+    "IPFPC",
+    "FLPA",
+    "CORPP",
+    "projetisation",
+    "prélancement",
+    "coparrainait"
   ],
   "flagWords": [],
   "import": ["node_modules/@cspell/dict-fr-fr/cspell-ext.json"],

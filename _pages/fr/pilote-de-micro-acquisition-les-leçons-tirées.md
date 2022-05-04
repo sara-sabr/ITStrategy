@@ -4,13 +4,13 @@ title: Pilote de micro-acquisition - les résultats et les leçons tirées
 ref: ma-closeout-report
 lang: fr
 date: "2022-04-14"
-permalink: /pilote-de-micro-acquisition-les-lecons-tirees.html
+permalink: /pilote-de-micro-acquisition-les-leçons-tirées.html
 ---
 <!-- markdownlint-disable MD033 -->
 <!--markdownlint-disable MD036-->
 ## Synthèse <!-- omit in toc -->
 
-Le Projet pilote sur la microacquisition s’est déroulé de juin 2021 à mai 2022. EDSC l’a dirigé dans le cadre d’un partenariat entre la DGIIT et la DGDPF.
+Le Projet pilote sur la micro-acquisition s’est déroulé de juin 2021 à mai 2022. EDSC l’a dirigé dans le cadre d’un partenariat entre la DGIIT et la DGDPF.
 
 Compte tenu des résultats du Rapport sur la réduction de la paperasse, du rapport Gartner sur l’approvisionnement paru en 2020 et du fait que les normes numériques nécessitent en premier lieu le travail en mode ouvert par défaut[^1], très peu de codes élaborés à EDSC étaient autorisés en vertu d’une licence de source ouverte et échangés ouvertement; nous estimions donc qu’il y avait là une occasion de recourir à l’approvisionnement comme levier.
 
@@ -21,12 +21,12 @@ Certainement que nous le pouvons!
 
 De plus, nous tirons fierté et satisfaction du partenariat établi entre la DGIIT et la DGDPF dans le cadre de ce projet pilote, ce qui montre que la collaboration entre directions générales à la conception des services ou systèmes, quels qu’ils soient, est possible, mais surtout nécessaire.
 
-Au bout du compte, de nombreux paramètres ciblés de réussite du projet pilote n’ont pas été atteints. Nous pensions pouvoir procéder à 10 approvisionnements par microacquisition.
+Au bout du compte, de nombreux paramètres ciblés de réussite du projet pilote n’ont pas été atteints. Nous pensions pouvoir procéder à 10 approvisionnements par micro-acquisition.
 Or, nous n’avons affiché qu’une occasion et, bien qu’un fournisseur ait été sélectionné, celle-ci a été résiliée pour cause de non-livraison et aucun paiement n’a été effectué.
 
 Les initiatives porteuses de changement sont laborieuses.
-Nous avons fait face à plusieurs obstacles lorsqu’il a fallu trouver des clients qui avaient besoin d’un travail de codage par petits lots à EDSC. Nous n’avons pas déployé suffisamment d'efforts dans la gestion du changement.
-Nous nous sommes heurtés aux réticences des représentants syndicaux d’EDSC lorsqu’ils ont pris connaissance du pilote à mi-chemin.
+Nous avons fait face à plusieurs obstacles lorsqu'il a fallu trouver des clients qui avaient besoin d’un travail de codage par petits lots à EDSC. Nous n’avons pas déployé suffisamment d'efforts dans la gestion du changement.
+Nous nous sommes heurtés aux réticences des représentants syndicaux d’EDSC lorsqu'ils ont pris connaissance du pilote à mi-chemin.
 
 Cela dit, il ne faudrait pas en déduire qu’une telle intervention n’en valait pas la peine.
 Bien que nous n'ayons pas trouvé de clients pour le micro-procurement de code à l'ESDC, nous avons reçu un certain nombre de demandes d'autres ministères, ce qui nous fait penser que cette initiative pourrait être couronnée de succès ailleurs.
@@ -45,7 +45,7 @@ Durant le Projet pilote, nous avons beaucoup appris. Vous trouverez dans les pag
   - [5.2 Ce qui n’a pas bien fonctionné](#52-ce-qui-na-pas-bien-fonctionné)
   - [5.3 Leçons générales tirées](#53-leçons-générales-tirées)
 - [6. Conclusion](#6-conclusion)
-- [Annexe A : Comparaison juxtaposée de la période estimative requise dans l’approvisionnement par fournisseur unique et le microapprovisionnement et de la période réelle requise dans le microapprovisionnement](#annexea-comparaison-juxtaposée-de-la-période-estimative-requise-dans-lapprovisionnement-par-fournisseur-unique-et-le-microapprovisionnement-et-de-la-période-réelle-requise-dans-le-microapprovisionnement)
+- [Annexe A : Comparaison juxtaposée de la période estimative requise dans l’approvisionnement par fournisseur unique et le micro-approvisionnement et de la période réelle requise dans le micro-approvisionnement](#annexea-comparaison-juxtaposée-de-la-période-estimative-requise-dans-lapprovisionnement-par-fournisseur-unique-et-le-micro-approvisionnement-et-de-la-période-réelle-requise-dans-le-micro-approvisionnement)
 - [Annexe B : Notre cheminement dans le processus de projet allégé](#annexe-b-notre-cheminement-dans-le-processus-de-projet-allégé)
 - [Annexe C : Tableau comparatif des possibilités d’approvisionnement](#annexec-tableau-comparatif-des-possibilités-dapprovisionnement)
 
@@ -54,7 +54,7 @@ Durant le Projet pilote, nous avons beaucoup appris. Vous trouverez dans les pag
 ### 1.1 But <!-- omit in toc -->
 
 Le document rend compte à la fois des résultats et des leçons tirées.
-Il s’appuie sur les expériences positives et négatives vécues au cours du projet pilote sur la microacquisition.
+Il s’appuie sur les expériences positives et négatives vécues au cours du projet pilote sur la micro-acquisition.
 Les futures équipes de projets peuvent s’en servir pour en apprendre sur les expériences vécues lors de projets antérieurs, ce qui pourra accroître la pertinence et la performance de leurs projets.
 
 ### 1.2 Destinataires <!-- omit in toc -->
@@ -65,7 +65,7 @@ Le document est destiné à l’usage de diverses parties prenantes, ainsi qu’
 
 ### 2.1 Contexte et planification <!-- omit in toc -->
 
-C’est en juin 2021, dans le cadre d’un partenariat entre la DGIIT et la DGDPF, que le Projet pilote sur la microacquisition a été lancé après une année de planification et de conception.
+C’est en juin 2021, dans le cadre d’un partenariat entre la DGIIT et la DGDPF, que le Projet pilote sur la micro-acquisition a été lancé après une année de planification et de conception.
 
 Ce projet a donné à EDSC les moyens d’acheter un code en vertu d’une licence de source ouverte, moyennant certains paramètres (coûts inférieurs à 10 k$; travail non classifié et à effectuer dans des dépôts ouverts).
 Le Projet pilote a été lancé pour rectifier ce qui suit :
@@ -81,7 +81,7 @@ Le Projet pilote a consisté en ce qui suit :
 
 2. Un [site Web](https://micro-acquisition.alpha.canada.ca/) pour faire part des occasions et trouver des talents
 
-Au stade du processus de conception, les parties prenantes (la Direction générale du dirigeant principal des finances; le Bureau des petites et moyennes entreprises à SPAC) ont mis au point, au fil de plusieurs séances, les processus de microacquisition à partir de personas et de cas d’utilisation.
+Au stade du processus de conception, les parties prenantes (la Direction générale du dirigeant principal des finances; le Bureau des petites et moyennes entreprises à SPAC) ont mis au point, au fil de plusieurs séances, les processus de micro-acquisition à partir de personas et de cas d’utilisation.
 
 D’autres consultations ont été menées auprès de l’équipe de la politique d’approvisionnement au SCT, de l’équipe des finances de la DGIIT, du Centre d’expertise sur la propriété intellectuelle (EDSC), de l’équipe de la protection des renseignements personnels d’EDSC et de l’organisme BC Developers Exchange.
 
@@ -106,9 +106,9 @@ Celui-ci a permis d’orienter nos communications, tant à l’interne qu’à l
 
 Les objectifs du Projet pilote consistaient à mener un projet pilote expérimental d’un an dans le cadre duquel :
 
-- les occasions liées aux microacquisitions font l’objet d’une vaste diffusion auprès des fournisseurs, pendant que les obstacles à l’accès (comme le nombre d’années d’expérience, le besoin d’une préqualification, l’attestation de sécurité) sont supprimés ou allégés;
-- des balises sont mises en place afin que les équipes puissent réaliser des microacquisitions sans avoir besoin de l’appui des agents d’approvisionnement;
-- les codes obtenus par des microacquisitions sont communiqués dans des dépôts ouverts, après quoi le GC et la population y ont accès pour être en mesure de les réutiliser;
+- les occasions liées aux micro-acquisitions font l’objet d’une vaste diffusion auprès des fournisseurs, pendant que les obstacles à l’accès (comme le nombre d’années d’expérience, le besoin d’une préqualification, l’attestation de sécurité) sont supprimés ou allégés;
+- des balises sont mises en place afin que les équipes puissent réaliser des micro-acquisitions sans avoir besoin de l’appui des agents d’approvisionnement;
+- les codes obtenus par des micro-acquisitions sont communiqués dans des dépôts ouverts, après quoi le GC et la population y ont accès pour être en mesure de les réutiliser;
 - les équipes de TI peuvent effectuer des achats pour combler des besoins de capacité à court terme et enrichir les connaissances de l’organisation de TI;
 - le paiement se fait au moyen d’une carte de crédit ou de PayPal.
 
@@ -158,13 +158,13 @@ S’ils ne sont pas atteints, une justification est présentée.
             <td>Une seule occasion a été affichée, d’où l’impossibilité d’évaluer le nombre de fournisseurs uniques pour chaque occasion.</td>
         </tr>
         <tr class="even">
-            <td>N<sup>bre</sup> d’abonnés aux comptes Twitter liés à la microacquisition</td>
+            <td>N<sup>bre</sup> d’abonnés aux comptes Twitter liés à la micro-acquisition</td>
             <td>&gt; 100</td>
             <td><p>MicroBuysGC : <strong>143</strong></p><p>MicroAchatsGC : <strong>15</strong></p></td>
             <td></td>
         </tr>
         <tr class="odd">
-            <td>Nombre de gazouillis retransmis à propos de la microacquisition?</td>
+            <td>Nombre de gazouillis retransmis à propos de la micro-acquisition?</td>
             <td>&gt; 1 gazouillis retransmis pour chaque occasion</td>
             <td>MicroBuysGC : <strong>22</strong> gazouillis retransmis à propos du lancement, <strong>18</strong> gazouillis retransmis à propos de la première occasion</td>
             <td></td>
@@ -182,10 +182,10 @@ S’ils ne sont pas atteints, une justification est présentée.
             <td></td>
         </tr>
         <tr class="even">
-            <td>% de demandes d’occasions qui satisfont aux critères de microacquisition</td>
+            <td>% de demandes d’occasions qui satisfont aux critères de micro-acquisition</td>
             <td>Aucune cible</td>
             <td><strong>50 %</strong></td>
-            <td>Des trois (3) demandes qui ne satisfaisaient pas aux critères de microacquisition, 2 provenaient d’un autre ministère (le SCT) et une ne se rapportait pas au code.</td>
+            <td>Des trois (3) demandes qui ne satisfaisaient pas aux critères de micro-acquisition, 2 provenaient d’un autre ministère (le SCT) et une ne se rapportait pas au code.</td>
         </tr>
         <tr class="odd">
             <td>N<sup>bre</sup> de demandes approuvées (celles qui peuvent aller de l’avant et sont affichées en ligne)</td>
@@ -215,10 +215,10 @@ S’ils ne sont pas atteints, une justification est présentée.
             <td>% de la clientèle qui aurait de nouveau recours à ce moyen d’approvisionnement</td>
             <td>80 %</td>
             <td><strong>0 %</strong></td>
-            <td>En ce qui concerne le client qui a affiché une occasion, il a indiqué qu’il n’aurait plus recours au Projet pilote sur le microapprovisionnement</td>
+            <td>En ce qui concerne le client qui a affiché une occasion, il a indiqué qu’il n’aurait plus recours au Projet pilote sur le micro-approvisionnement</td>
         </tr>
         <tr class="even">
-            <td>% de fournisseurs qui soumissionneraient à une autre occasion de microacquisition</td>
+            <td>% de fournisseurs qui soumissionneraient à une autre occasion de micro-acquisition</td>
             <td>70 %</td>
             <td><strong>s.o.</strong></td>
             <td>Aucun fournisseur n’a choisi de remplir la fiche de commentaires facultative, de sorte que ces données ne sont pas accessibles.</td>
@@ -230,7 +230,7 @@ S’ils ne sont pas atteints, une justification est présentée.
             <td></td>
         </tr>
         <tr class="even">
-            <td>Valeur totale en dollars des achats de microacquisitions</td>
+            <td>Valeur totale en dollars des achats de micro-acquisitions</td>
             <td>Aucune cible</td>
             <td>6 500 $</td>
             <td></td>
@@ -293,19 +293,19 @@ S’ils ne sont pas atteints, une justification est présentée.
             <td></td>
         </tr>
         <tr class="even">
-            <td>N<sup>bre</sup> de nouveaux dépôts d’EDSC (liés aux contrats de microacquisition)?</td>
+            <td>N<sup>bre</sup> de nouveaux dépôts d’EDSC (liés aux contrats de micro-acquisition)?</td>
             <td>&gt; 5</td>
             <td><strong>0</strong></td>
             <td></td>
         </tr>
         <tr class="odd">
-            <td>N<sup>bre</sup> de nouvelles entrées dans l’ÉRO attribuables aux contrats de microacquisition?</td>
+            <td>N<sup>bre</sup> de nouvelles entrées dans l’ÉRO attribuables aux contrats de micro-acquisition?</td>
             <td>10</td>
             <td><strong>0</strong></td>
             <td></td>
         </tr>
         <tr class="even">
-            <td>N<sup>bre</sup> de fois que le code acheté par microacquisition est bifurqué</td>
+            <td>N<sup>bre</sup> de fois que le code acheté par micro-acquisition est bifurqué</td>
             <td>&gt; 1</td>
             <td><strong>0</strong></td>
             <td></td>
@@ -361,12 +361,12 @@ On a plutôt recueilli les leçons tirées à l’aide d’un questionnaire aupr
 #### Partenariat avec la DGDPF <!-- omit in toc -->
 
 Parmi les principales leçons tirées du projet pilote d’échange de développeurs du GC[^2] en 2017-2018, il y a eu le besoin de faire participer l’équipe de l’approvisionnement et des finances et d’obtenir son adhésion au projet.
-À ce titre, l’équipe de la stratégie de TI a cherché d’entrée de jeu à travailler en partenariat avec la DGDPF dans le cadre du projet pilote sur la microacquisition.
+À ce titre, l’équipe de la stratégie de TI a cherché d’entrée de jeu à travailler en partenariat avec la DGDPF dans le cadre du projet pilote sur la micro-acquisition.
 Après avoir joint l’équipe d’innovation en approvisionnement, on a conclu un partenariat avec la DGDPF par l’intermédiaire du directeur général de cette équipe-là (Robert MacGillivary).
 La DGIIT et la DGDPF ont convenu des rôles et responsabilités, puis les deux équipes ont consacré des ressources au projet pilote.
 
 Non seulement le partenariat a donné de la crédibilité à l’initiative (car la question la plus fréquemment posée au départ était : « Qu’en pense la DGDPF? »), mais il nous a permis de mener à bien des éléments de la planification, ce qui nous aurait été impossible autrement.
-L’équipe de la DGDPF a rédigé notre contrat générique qui a servi dans toutes les microacquisitions, elle a confirmé que nous pouvions recourir aux cartes d’achat et à PayPal pour effectuer le paiement, et elle nous a aidés à concevoir le processus d’évaluation en nous conseillant d’utiliser seulement les éléments obligatoires et de peaufiner les critères d’évaluation.
+L’équipe de la DGDPF a rédigé notre contrat générique qui a servi dans toutes les micro-acquisitions, elle a confirmé que nous pouvions recourir aux cartes d’achat et à PayPal pour effectuer le paiement, et elle nous a aidés à concevoir le processus d’évaluation en nous conseillant d’utiliser seulement les éléments obligatoires et de peaufiner les critères d’évaluation.
 Grâce à sa participation au processus de conception, nous avions de l’assurance au stade du lancement et son apport à l’évaluation des fournisseurs lors de la première occasion nous a permis de solutionner rapidement nos questions et soucis.
 
 L’équipe de la DGDPF a joué un rôle essentiel dans l’élimination des obstacles, son approbation a mené à l’adhésion d’autres équipes et elle a porté le Projet pilote au niveau du DPF pour garantir son appui.
@@ -400,14 +400,14 @@ Par ricochet, l’équipe de la stratégie de TI n’était plus tenue d’actua
 L’équipe de la stratégie de TI a également pu recevoir les renseignements contenus dans les formulaires sous forme de données structurées, ce qui est propice à l’automatisation du traitement des formulaires.
 
 Remarque : L’obtention de données structurées nous aurait permis de procéder à l’automatisation, mais nous en avons été empêchés en raison des politiques mises en place par EDSC relativement au déploiement d’O365 et de l’application Power Automate.
-Des précisions sur les obstacles à l’automatisation du traitement des données dans les formulaires de microacquisition figurent dans le [site SharePoint de la stratégie des TI](https://014gc.sharepoint.com/:f:/r/sites/IITB-ITStrategy/Shared%20Documents/STRATEGIES%20AND%20INITIATIVES/Micro-Acquisition%20pilot/Build%20and%20planning/Design/GCForms/Automation?csf=1&web=1&e=SlWVO2).
+Des précisions sur les obstacles à l’automatisation du traitement des données dans les formulaires de micro-acquisition figurent dans le [site SharePoint de la stratégie des TI](https://014gc.sharepoint.com/:f:/r/sites/IITB-ITStrategy/Shared%20Documents/STRATEGIES%20AND%20INITIATIVES/Micro-Acquisition%20pilot/Build%20and%20planning/Design/GCForms/Automation?csf=1&web=1&e=SlWVO2).
 
 **Mise à contribution des parties prenantes**
 
 Au stade de la planification, l’équipe du Projet pilote a prêté une attention soutenue à la mise à contribution des parties prenantes : il s’agissait ici de pouvoir compter sur leur adhésion de même que concevoir et édifier quelque chose à partir de l’apport de personnes fortes d’un savoir-faire que nous n’avions pas.
 
 Les séances de conception des processus, au cours desquelles il y avait des participants de la DGIIT (Stratégie de TI et Équipe responsable du soutien financier et des achats), de la DGDPF et du Bureau des petites et moyennes entreprises (BPME), ont suscité de nombreuses questions auxquelles nous n’avions pas songé.
-Les processus de microacquisition ont évolué grâce aux commentaires que nous avons recueillis lors de ces séances, si bien que nous nous sommes heurtés à un seul obstacle inattendu dans ces processus[^3] lors de la seule occasion mise en œuvre.
+Les processus de micro-acquisition ont évolué grâce aux commentaires que nous avons recueillis lors de ces séances, si bien que nous nous sommes heurtés à un seul obstacle inattendu dans ces processus[^3] lors de la seule occasion mise en œuvre.
 Même si l’occasion s’est soldée par la non-livraison, nous avions déjà examiné ce scénario en détail pendant les séances et nous y étions préparés.
 
 À EDSC, les services de TI (DGIIT) comptent sur leur propre équipe financière : il nous était essentiel de la mettre à contribution dès le début du processus pour concevoir ses besoins et nous assurer d’être en phase avec ses processus.
@@ -451,7 +451,7 @@ Voici certaines de ces améliorations :
 
 #### Clientèle insuffisante <!-- omit in toc -->
 
-Au stade de l’examen de la demande du Projet pilote sur la microacquisition, nous avons appris dans le cadre du code source ouvert d’EDSC qu’il y avait 54 produits de logiciels de source ouverte utilisés à EDSC et qu’au moins 90 applications Web d’EDSC comportent des éléments de logiciels de source ouverte.
+Au stade de l’examen de la demande du Projet pilote sur la micro-acquisition, nous avons appris dans le cadre du code source ouvert d’EDSC qu’il y avait 54 produits de logiciels de source ouverte utilisés à EDSC et qu’au moins 90 applications Web d’EDSC comportent des éléments de logiciels de source ouverte.
 Nous étions également au courant de quatre cas de [code source ouvert publiés en provenance d’EDSC](https://code.ouvert.canada.ca/fr/codes-source-ouverts.html).
 Certes, il s’agissait là d’un recours relativement faible aux logiciels de source ouverte, mais nous savions qu’au moyen du Projet pilote, les clients qui ne se servaient pas encore de ces logiciels pourraient se procurer des modules de code source ouvert qui pourraient être importés vers les systèmes actuels fondés sur un code de propriété exclusive.
 Forts de ce savoir, nous avions l’assurance de trouver des clients à EDSC.
@@ -464,20 +464,20 @@ Ce principe s’est traduit par la dépendance envers le secteur commercial rela
 
 La demande insuffisante est peut-être également liée aux méthodes de travail que nous employons à EDSC.
 Il ressort d’éléments de faits empiriques que peu d’équipes à EDSC font montre de souplesse au travail dans les sprints.
-Les équipes qui travaillent avec souplesse et dont l’arriéré consiste en des lots de travail clairement définis et de taille sprint s’intéresseront davantage au microapprovisionnement du code, car la mise au point de l’énoncé d’occasion sera à leurs yeux un exercice rapide et facile.
+Les équipes qui travaillent avec souplesse et dont l’arriéré consiste en des lots de travail clairement définis et de taille sprint s’intéresseront davantage au micro-approvisionnement du code, car la mise au point de l’énoncé d’occasion sera à leurs yeux un exercice rapide et facile.
 Voilà un élément important, parce que dans un contrat d’une valeur de 10 k$, le fournisseur ne peut pas consacrer beaucoup de temps à la définition des besoins de la clientèle.
 Il est important de définir clairement les travaux afin que le fournisseur puisse se pencher sur le codage sans tarder.
-Les équipes qui ne travaillent pas avec souplesse auront peine à composer avec ce type d’approvisionnement : elles se sentiront plus à l’aise dans le recours aux possibilités d’approvisionnement qu’elles connaissent bien, comme le fournisseur unique lorsqu’il y a majoration de la limite monétaire (et donc de la période d’exécution) permettant d’inclure la définition des travaux dans les activités contractuelles.
+Les équipes qui ne travaillent pas avec souplesse auront peine à composer avec ce type d’approvisionnement : elles se sentiront plus à l’aise dans le recours aux possibilités d’approvisionnement qu’elles connaissent bien, comme le fournisseur unique lorsqu'il y a majoration de la limite monétaire (et donc de la période d’exécution) permettant d’inclure la définition des travaux dans les activités contractuelles.
 
 Selon toute vraisemblance, l’absence d’un bureau de programmes de source ouverte qui aurait pu appuyer les utilisateurs et les créateurs des codes de source ouverte à EDSC y est également pour quelque chose.
 Pour passer aux codes de source ouverte, il faut réorienter la réflexion sur des aspects tels que la maintenance et connaître les licences et les règles relatives à l’ouverture du code et au travail en mode ouvert.
 La présence d’un bureau de programmes de source ouverte montre que la haute direction appuie le recours aux sources ouvertes et fournit un endroit où on peut poser des questions et obtenir du soutien (ce qui apaise l’incertitude et les craintes).
 Bien qu’on en ait recommandé la création dans le cadre du code source ouvert d’EDSC, un tel bureau n’est toujours pas institué à EDSC.
 
-En outre, en ce qui touche le recours aux sources ouvertes à EDSC, les travaux relatifs au Projet pilote sur la microacquisition devaient se dérouler dans les dépôts ouverts (en vertu d’une licence de source ouverte), ce qui aurait dispensé les fournisseurs de l’obligation d’obtenir une attestation de sécurité du GC.
+En outre, en ce qui touche le recours aux sources ouvertes à EDSC, les travaux relatifs au Projet pilote sur la micro-acquisition devaient se dérouler dans les dépôts ouverts (en vertu d’une licence de source ouverte), ce qui aurait dispensé les fournisseurs de l’obligation d’obtenir une attestation de sécurité du GC.
 Il s’agissait de l’un des moyens par lesquels nous avions aplani les obstacles aux fournisseurs dans le cadre du Projet pilote.
-Toutefois, en ce qui touche les équipes qui ne travaillent pas déjà à des dépôts ouverts, il faudrait s’efforcer de faire passer suffisamment de renseignements et de codes en mode ouvert pour permettre au fournisseur de microacquisition de travailler à l’extérieur du réseau d’EDSC.
-La période d’exécution requise à cet égard ainsi que l’incertitude liée aux règles quant aux méthodes à cette fin ont vraisemblablement eu pour effet de miner la volonté de recourir au Projet pilote sur la microacquisition.
+Toutefois, en ce qui touche les équipes qui ne travaillent pas déjà à des dépôts ouverts, il faudrait s’efforcer de faire passer suffisamment de renseignements et de codes en mode ouvert pour permettre au fournisseur de micro-acquisition de travailler à l’extérieur du réseau d’EDSC.
+La période d’exécution requise à cet égard ainsi que l’incertitude liée aux règles quant aux méthodes à cette fin ont vraisemblablement eu pour effet de miner la volonté de recourir au Projet pilote sur la micro-acquisition.
 
 Enfin, le ressourcement a peut-être joué un rôle dans l’insuffisance de la clientèle.
 Lorsque nous avons commencé à nous poser des questions sur les raisons pour lesquelles nous n’avions peut-être pas perçu la demande, les éléments de faits empiriques nous ont indiqué que les équipes d’EDSC qui effectuent des travaux de développement disposaient des ressources nécessaires pour effectuer leurs travaux de codage, tandis que celles qui ne comptaient pas de développeurs dans leur effectif ignoraient que l’obtention d’un code pouvait se révéler utile (p. ex., en matière d’automatisation) et ne disposaient pas des ressources pour se servir du code après l’avoir obtenu.
@@ -487,7 +487,7 @@ Toutefois, compte tenu des difficultés susmentionnées, nous n’avons pu trouv
 
 #### Ne pas mettre à contribution le syndicat <!-- omit in toc -->
 
-Notre arriéré a posé problème tout au long du Projet pilote et empêché les entretiens avec les représentants syndicaux au stade de la planification, de sorte que nous avons décidé d’attendre l’achèvement du Projet pilote avant de soumettre le concept de microacquisition au syndicat.
+Notre arriéré a posé problème tout au long du Projet pilote et empêché les entretiens avec les représentants syndicaux au stade de la planification, de sorte que nous avons décidé d’attendre l’achèvement du Projet pilote avant de soumettre le concept de micro-acquisition au syndicat.
 Il nous a semblé prématuré de soumettre un concept à l’Institut professionnel de la fonction publique du Canada (IPFPC) avant de savoir si le Projet pilote allait réussir et se poursuivre.
 De plus, puisque la valeur attendue en dollars de la passation de contrats liée au Projet pilote était faible (cible de 10 occasions à 10 k$ chacune au maximum pour un total de 100 k$ au maximum), nous sommes partis du principe que le syndicat ne s’en soucierait pas outre mesure.
 
@@ -495,7 +495,7 @@ Or, nous nous étions trompés...
 
 Dès que nous avons lancé le Projet pilote et amorcé les communications à l’interne, nous avons immédiatement eu vent de l’inquiétude des représentants syndicaux de l’IPFPC à EDSC comme quoi ils n’avaient pas été consultés.
 À la suite de réunions à huis clos entre la haute direction et les représentants syndicaux, le directeur de la stratégie informatique a décidé de limiter les communications jusqu'à ce que les problèmes soient résolus.
-L’interruption des communications à l’interne a nui à la capacité de l’équipe du Projet pilote de trouver des clients en vue du Projet pilote sur la microacquisition.
+L’interruption des communications à l’interne a nui à la capacité de l’équipe du Projet pilote de trouver des clients en vue du Projet pilote sur la micro-acquisition.
 
 #### Ne pas constituer une base de fournisseurs avant la tenue de la première occasion <!-- omit in toc -->
 
@@ -506,27 +506,28 @@ Nous avons consulté le Bureau des petites et moyennes entreprises de SPAC à ce
 Nous avions donc prévu de lancer le site Web deux semaines[^4] avant l’affichage de la première occasion afin de prévoir du temps pour faire connaître le Projet pilote, mais pas trop, sans quoi les fournisseurs potentiels s’en seraient peu à peu désintéressés.
 
 Avec le recul, si nous avions su que de nombreuses personnes continueraient de consulter le site pendant des mois et de s’inscrire à la liste d’envoi malgré l’absence d’occasions de source ouverte, nous aurions saisi la possibilité de lancer le site un mois ou deux avant la première occasion et d’adopter une campagne de promotion externe échelonnée jusqu’à la première occasion.
-Le lien vers la page Web du Projet pilote sur la microacquisition (et la liste d’envoi) aurait pu être ajouté à la page Emplois pour les étudiants au www.canada.ca dès la mise en ligne du site, nous aurions pu en parler sur Twitter quelques semaines avant la première occasion et le BPME aurait pu en faire la promotion dans ses réseaux quelques jours avant l’affichage de la première occasion.
+Le lien vers la page Web du Projet pilote sur la micro-acquisition (et la liste d’envoi) aurait pu être ajouté à la page Emplois pour les étudiants au www.canada.ca dès la mise en ligne du site, nous aurions pu en parler sur Twitter quelques semaines avant la première occasion et le BPME aurait pu en faire la promotion dans ses réseaux quelques jours avant l’affichage de la première occasion.
 Les fournisseurs auraient eu ainsi davantage de temps pour en apprendre au sujet du Projet pilote avant l’affichage de la première occasion.
 
 #### Gestion du changement <!-- omit in toc -->
 
-Le recours au Projet pilote sur la microacquisition constituait un changement par rapport aux méthodes de travail actuelles des équipes à EDSC.
+Le recours au Projet pilote sur la micro-acquisition constituait un changement par rapport aux méthodes de travail actuelles des équipes à EDSC.
 Il s’agissait d’un changement, tant en matière d’approvisionnement (avoir l’autorisation d’acheter un code par carte de crédit) que chez la plupart des équipes de TI (recourir à un code de source ouverte).
 
 La gestion du changement auprès de l’équipe des finances de la DGIIT s’est révélée facile, car il s’agissait d’un changement minime. L’approvisionnement par carte de crédit est une pratique courante au GC et les processus s’y rapportant sont clairement définis.
-Étant donné que le code d’achat au moyen d’une carte de crédit représentait un changement, l’équipe des finances de la DGIIT a exigé que le cadre responsable de la DGDPF fournisse une note écrite comme quoi le code d’achat par le truchement du Projet pilote sur la microacquisition constituait une possibilité d’approvisionnement valide.
+Étant donné que le code d’achat au moyen d’une carte de crédit représentait un changement, l’équipe des finances de la DGIIT a exigé que le cadre responsable de la DGDPF fournisse une note écrite comme quoi le code d’achat par le truchement du Projet pilote sur la micro-acquisition constituait une possibilité d’approvisionnement valide.
 Selon le cadre Prosci[^5] (gestion du changement), l’approbation écrite marquait la volonté des équipes des finances d’appuyer le changement.
 De plus, puisque les processus d’achat par carte de crédit étaient déjà en place, les connaissances et les capacités s’y trouvaient aussi.
 
 Toutefois, chez EDSC, le passage à la source ouverte représentait un changement considérable.
 En effet, très peu d’équipes se servaient alors de la source ouverte, le principe « Achetons ce que nous pouvons acheter et créons ce que nous devons créer » prévaut et, tant chez EDSC que dans l’ensemble du GC, la source ouverte suscite globalement des appréhensions : on craint de commettre des erreurs et d’en être tenu responsable, ou de savoir ce qu’on dira de la qualité du code une fois achevé le travail à cette fin.
-Dans nos communications internes, nous avons tenu compte de l’élément « prise de conscience » selon le cadre Prosci, mais il aurait fallu traiter les éléments « désir », « connaissance » et « aptitude » pour que la clientèle du Projet pilote sur la microacquisition se sente à l’aise de passer au code d’achat en vertu d’une licence de source ouverte.
+Dans nos communications internes, nous avons tenu compte de l’élément « prise de conscience » selon le cadre Prosci, mais il aurait fallu traiter les éléments « désir », « connaissance » et « aptitude » pour que la clientèle du Projet pilote sur la micro-acquisition se sente à l’aise de passer au code d’achat en vertu d’une licence de source ouverte.
 
 L’un des moyens par lesquels on traite ces éléments dans le cadre Prosci passe par le rôle que joue le cadre responsable.
 Selon le cadre Prosci, les cadres responsables doivent « participer activement et visiblement tout au long du processus, établir des coalitions et communiquer directement ».
-Toutefois, pour qu’ils y parviennent, l’équipe du projet a la responsabilité de les accompagner dans ce processus; elle doit les tenir bien au fait du projet et leur transmettre des messages névralgiques à employer lorsqu’ils en parlent.
-L’équipe du Projet pilote sur la microacquisition constate que nous avons manqué à nos responsabilités à cet égard.
+Toutefois, pour qu’ils y parviennent, l’équipe du projet a la responsabilité de les accompagner dans ce processus; elle doit les tenir bien au fait du projet et leur transmettre des messages névralgiques à employer lorsqu'
+ils en parlent.
+L’équipe du Projet pilote sur la micro-acquisition constate que nous avons manqué à nos responsabilités à cet égard.
 
 De plus, compte tenu de l’ampleur du changement requis à EDSC, il est possible que le parrainage à l’échelle de la direction du volet TI du partenariat avec la DGDPF n’ait pas suffi sur le plan hiérarchique.
 Si un cadre responsable avait déclaré officiellement que le code d’approvisionnement en vertu d’une licence de source ouverte est autorisé et appuyé, peut-être que l’élément « désir » aurait été comblé (comme ce fut le cas à l’échelle des finances).
@@ -553,17 +554,17 @@ La deuxième difficulté à laquelle nous nous sommes heurtés, c’est la réun
 Conformément au processus du Comité, le Bureau de gestion des projets de la Direction générale expose à celui-ci tous les projets.
 Cette étape s’est révélée éprouvante pour nous, car la personne qui donnait l’exposé en notre nom connaissait très peu le Projet pilote.
 De plus, elle a commis quelques inexactitudes et omis quelques points très névralgiques (p. ex., que la DGDPF était partenaire et coparrainait le projet pilote).
-L’équipe du Projet pilote sur la microacquisition a assisté à la réunion pour répondre aux questions, mais au stade de la période des questions et réponses, le mal était déjà fait.
+L’équipe du Projet pilote sur la micro-acquisition a assisté à la réunion pour répondre aux questions, mais au stade de la période des questions et réponses, le mal était déjà fait.
 C’est ainsi que, malgré l’approbation du Projet pilote par l’adjoint de direction et le fait que celui-ci ne nécessitait qu’un investissement en fonds salariaux, le CORPP ne l’a pas approuvé et a renvoyé l’adoption de la décision au comité à l’échelon hiérarchique supérieur suivant.
 
-Sachant que cette mesure causerait encore plus de retards, l’équipe du Projet pilote a demandé et obtenu l’approbation du DG du groupe SARA pour aller de l’avant avec le Projet pilote sur la microacquisition (et retirer celui-ci du processus de projet allégé).
+Sachant que cette mesure causerait encore plus de retards, l’équipe du Projet pilote a demandé et obtenu l’approbation du DG du groupe SARA pour aller de l’avant avec le Projet pilote sur la micro-acquisition (et retirer celui-ci du processus de projet allégé).
 
 Malgré tout, les retards ont entraîné une diminution du temps requis pour mener à bien les éléments de mise en service et constitué un fardeau pour l’équipe de développement.
 La leçon que nous en tirons, c’est que les seules personnes qui devraient exposer le projet chaque fois qu’une approbation est requise sont celles qui en possèdent une conception complète et approfondie.
 
-La progression détaillée du Projet pilote sur la microacquisition dans le cadre du processus de projet allégé se trouve à l’annexe B.
+La progression détaillée du Projet pilote sur la micro-acquisition dans le cadre du processus de projet allégé se trouve à l’annexe B.
 
-L’équipe de la stratégie de TI d’EDSC a publié une étude sur la gouvernance en 2022 qui montre que les difficultés auxquelles nous nous sommes heurtés en matière de gouvernance et d’approbation des TI n’étaient pas exclusives au Projet pilote sur la microacquisition.
+L’équipe de la stratégie de TI d’EDSC a publié une étude sur la gouvernance en 2022 qui montre que les difficultés auxquelles nous nous sommes heurtés en matière de gouvernance et d’approbation des TI n’étaient pas exclusives au Projet pilote sur la micro-acquisition.
 
 #### Commentaires des fournisseurs <!-- omit in toc -->
 
@@ -577,7 +578,7 @@ Le principal mode de transmission de cette fiche aux fournisseurs passait par le
 
 #### Communications relatives au prélancement et au lancement complet <!-- omit in toc -->
 
-Sachant que de nombreux fonctionnaires s’intéressent à l’approvisionnement simplifié de faible valeur[^6], nous étions inquiets du risque que notre équipe restreinte dans le cadre du Projet pilote soit submergée de demandes de la clientèle relatives à la microacquisition.
+Sachant que de nombreux fonctionnaires s’intéressent à l’approvisionnement simplifié de faible valeur[^6], nous étions inquiets du risque que notre équipe restreinte dans le cadre du Projet pilote soit submergée de demandes de la clientèle relatives à la micro-acquisition.
 Afin de minimiser ce risque, nous avons examiné les pratiques exemplaires sectorielles pour ensuite déterminer qu’il serait opportun de lancer le Projet pilote en deux phases au moyen d’une campagne de prélancement et de lancement complet.
 
 Notre campagne de prélancement s’est déroulée en juin 2021 : nous avons alors lancé le site Web, affiché notre première occasion et communiqué à l’externe aux fournisseurs (p. ex., sur Twitter), sans toutefois communiquer à l’interne pour promouvoir le Projet pilote.
@@ -601,7 +602,7 @@ L’absence de communications internes diffusées au-delà de la DGIIT a peut-ê
 ### 5.3 Leçons générales tirées
 
 Il ressort de données empiriques que la plupart des gens présentent leurs demandes à la dernière minute.
-Il peut s’agir de demandes d’emploi ou contractuelles. Cette réalité s’est certainement avérée dans le cas de l’occasion affichée en lien avec la microacquisition. Après avoir constaté une semaine avant la date limite que nous n’avions toujours pas reçu de demande relative à la première occasion, nous avons repoussé d’une semaine la date limite.
+Il peut s’agir de demandes d’emploi ou contractuelles. Cette réalité s’est certainement avérée dans le cas de l’occasion affichée en lien avec la micro-acquisition. Après avoir constaté une semaine avant la date limite que nous n’avions toujours pas reçu de demande relative à la première occasion, nous avons repoussé d’une semaine la date limite.
 Toutefois, encore là, 75 % des demandes ont été reçues dans les dernières heures avant la fermeture de l’occasion. Nous en avons tiré la leçon suivante : il ne faut pas s’inquiéter si, à la date limite, personne n’a encore présenté de demande!
 
 Parce qu’une seule occasion a été affichée au cours du Projet pilote et qu’aucune occasion n’est passée par le processus de paiement, nous n’avons pu mettre à l’essai de nombreux éléments du Projet pilote.
@@ -610,20 +611,20 @@ Nous ne saurions donc établir avec certitude, par exemple, que le processus de 
 De nombreuses équipes à EDSC souhaitaient utiliser le Projet pilote à des fins de dotation plutôt que d’approvisionnement.
 Nous n’avons pu satisfaire à cette demande, car il s’agissait d’un projet pilote axé tout particulièrement sur l’approvisionnement et selon les règles en la matière; toutefois, de telles demandes révèlent que les possibilités d’embauche rapides et simples répondent à un besoin à EDSC.
 
-Pendant le Projet pilote, le SCT et le Service numérique canadien ont demandé à l’équipe du Projet pilote l’affichage d’occasions de microacquisition dans le site Web.
-Chacune de ces demandes répondait aux critères de microacquisition (hormis le fait de provenir d’une équipe à l’extérieur d’EDSC). Nous en avons conclu que l’approvisionnement de faible valeur répond bel et bien à un besoin au GC.
+Pendant le Projet pilote, le SCT et le Service numérique canadien ont demandé à l’équipe du Projet pilote l’affichage d’occasions de micro-acquisition dans le site Web.
+Chacune de ces demandes répondait aux critères de micro-acquisition (hormis le fait de provenir d’une équipe à l’extérieur d’EDSC). Nous en avons conclu que l’approvisionnement de faible valeur répond bel et bien à un besoin au GC.
 
-Durant le Projet pilote, nous nous sommes demandé pourquoi cette possibilité d’approvisionnement est nécessaire lorsqu’il est possible de recourir au fournisseur unique.
-Pour répondre à cette question, nous avons créé un tableau où sont présentés les bienfaits de diverses possibilités d’approvisionnement, dont la microacquisition.
+Durant le Projet pilote, nous nous sommes demandé pourquoi cette possibilité d’approvisionnement est nécessaire lorsqu'il est possible de recourir au fournisseur unique.
+Pour répondre à cette question, nous avons créé un tableau où sont présentés les bienfaits de diverses possibilités d’approvisionnement, dont la micro-acquisition.
 Ce tableau a beaucoup servi lors des communications du Projet pilote. Il se trouve à l’annexe C.
 
 ## 6. Conclusion
 
-Pour que le microapprovisionnement du code soit une réussite, il faut mettre en place de nombreux éléments.
+Pour que le micro-approvisionnement du code soit une réussite, il faut mettre en place de nombreux éléments.
 Bien entendu, il est essentiel d’obtenir l’appui des équipes de l’approvisionnement et des finances pour s’y retrouver dans les règles et obtenir l’approbation en vue d’une nouvelle possibilité d’approvisionnement.
 Il est également fondamental de connaître les fournisseurs qui constituent les destinataires cibles et de veiller à ce que leurs besoins soient comblés.
 De plus, il est primordial de disposer d’un lieu d’affichage des occasions qui fournit des renseignements clairs aux fournisseurs et favorise la mise en œuvre de changements rapides.
-Nous estimons avoir satisfait à ces impératifs dans le cadre du Projet pilote sur la microacquisition.
+Nous estimons avoir satisfait à ces impératifs dans le cadre du Projet pilote sur la micro-acquisition.
 
 Au bout du compte, les difficultés éprouvées dans la recherche de clients ont tenu essentiellement à nos tentatives de changer la culture organisationnelle, parallèlement à la mise en œuvre d’une nouvelle possibilité d’approvisionnement.
 
@@ -633,24 +634,24 @@ Or, une telle culture organisationnelle ne rayonne pas actuellement à SPC, d’
 Enfin, les personnes qui s’investissent dans une possibilité d’approvisionnement de ce genre doivent nécessairement prévenir les représentants syndicaux de l’IPFPC.
 Il importe d’apaiser leurs craintes quant à une intensification de la sous-traitance et de voir à les renseigner sur la nature du projet, à savoir la redistribution des fonds contractuels pour permettre d’édifier les compétences des équipes de TI du GC en matière de développement.
 
-Nous sommes d’avis qu’un autre ministère pourra réussir dans l’approvisionnement de faible valeur d’un code en vertu d’une licence de source ouverte parce que certains ministères sont imprégnés de la culture organisationnelle décrite ci-dessus (ou déjà en voie de l’adopter), que d’autres ministères nous ont demandé s’ils pouvaient se servir de notre projet pilote sur le microapprovisionnement et qu’un processus simplifié d’approvisionnement de faible valeur est bénéfique, tant aux secteurs d’activité qu’aux équipes d’approvisionnement.
+Nous sommes d’avis qu’un autre ministère pourra réussir dans l’approvisionnement de faible valeur d’un code en vertu d’une licence de source ouverte parce que certains ministères sont imprégnés de la culture organisationnelle décrite ci-dessus (ou déjà en voie de l’adopter), que d’autres ministères nous ont demandé s’ils pouvaient se servir de notre projet pilote sur le micro-approvisionnement et qu’un processus simplifié d’approvisionnement de faible valeur est bénéfique, tant aux secteurs d’activité qu’aux équipes d’approvisionnement.
 
 À ce titre, nous avons travaillé en mode ouvert dans le cadre du Projet pilote afin de donner à un autre ministère qui le souhaitera les moyens de tirer parti de ce travail.
-Les documents pertinents liés au Projet pilote sont téléversés dans le [dépôt de microacquisitions](https://github.com/canada-ca/micro-acquisition) sur GitHub : ils constituent une « trousse » à laquelle pourront recourir les autres ministères qui choisissent de mettre en œuvre une initiative semblable.
-À l’interne, la documentation relative au Projet pilote (dont celle qui comporte des renseignements personnels confidentiels) est stockée dans le site SharePoint de la stratégie des TI (https://014gc.sharepoint.com/sites/IITB-ITStrategy/) dans le [dossier du projet pilote sur la microacquisition](https://014gc.sharepoint.com/sites/IITB-ITStrategy/Shared%20Documents/Forms/AllItems.aspx?newTargetListUrl=%2Fsites%2FIITB%2DITStrategy%2FShared%20Documents&viewpath=%2Fsites%2FIITB%2DITStrategy%2FShared%20Documents%2FForms%2FAllItems%2Easpx&id=%2Fsites%2FIITB%2DITStrategy%2FShared%20Documents%2FSTRATEGIES%20AND%20INITIATIVES%2FMicro%2DAcquisition%20pilot&viewid=d33d4b65%2Df5f8%2D4604%2Daa42%2D5f0a6b952413) du dossier Stratégies et initiatives.
+Les documents pertinents liés au Projet pilote sont téléversés dans le [dépôt de micro-acquisitions](https://github.com/canada-ca/micro-acquisition) sur GitHub : ils constituent une « trousse » à laquelle pourront recourir les autres ministères qui choisissent de mettre en œuvre une initiative semblable.
+À l’interne, la documentation relative au Projet pilote (dont celle qui comporte des renseignements personnels confidentiels) est stockée dans le site SharePoint de la stratégie des TI (https://014gc.sharepoint.com/sites/IITB-ITStrategy/) dans le [dossier du projet pilote sur la micro-acquisition](https://014gc.sharepoint.com/sites/IITB-ITStrategy/Shared%20Documents/Forms/AllItems.aspx?newTargetListUrl=%2Fsites%2FIITB%2DITStrategy%2FShared%20Documents&viewpath=%2Fsites%2FIITB%2DITStrategy%2FShared%20Documents%2FForms%2FAllItems%2Easpx&id=%2Fsites%2FIITB%2DITStrategy%2FShared%20Documents%2FSTRATEGIES%20AND%20INITIATIVES%2FMicro%2DAcquisition%20pilot&viewid=d33d4b65%2Df5f8%2D4604%2Daa42%2D5f0a6b952413) du dossier Stratégies et initiatives.
 
 Les bienfaits des projets pilotes se rapportent tant à leur réussite qu’à l’apprentissage qui en est tiré.
 Comme le présent document le relate, l’équipe a beaucoup appris tout au long du Projet pilote.
 Nous avons joué un rôle dans l’effet prodigieux qui peut découler de la collaboration des directions générales et nous avons prouvé qu’il est bel et bien possible au GC (moyennant certaines contraintes) de payer le code au moyen d’une carte de crédit et de PayPal, ce dont nous nous réjouissons! Par son consentement à entreprendre un tel projet pilote expérimental, EDSC témoigne d’une volonté authentique de transformation et d’amélioration constante.
 
-## Annexe A : Comparaison juxtaposée de la période estimative requise dans l’approvisionnement par fournisseur unique et le microapprovisionnement et de la période réelle requise dans le microapprovisionnement
+## Annexe A : Comparaison juxtaposée de la période estimative requise dans l’approvisionnement par fournisseur unique et le micro-approvisionnement et de la période réelle requise dans le micro-approvisionnement
 
 <table>
     <thead>
         <tr class="header">
             <th><strong>Processus d’approvisionnement (par fournisseur unique)</strong></th>
             <th><strong>Période écoulée approx. (en jours)</strong></th>
-            <th><strong>Processus pilote de microapprovisionnement (par cartes d’achat)</strong></th>
+            <th><strong>Processus pilote de micro-approvisionnement (par cartes d’achat)</strong></th>
             <th><strong>Période écoulée approx. (en jours)</strong></th>
             <th><strong>Période écoulée actuelle (en jours)</strong></th>
             <th><strong>Différence par rapport à la période attendue</strong></th>
@@ -673,7 +674,7 @@ Nous avons joué un rôle dans l’effet prodigieux qui peut découler de la col
         <tr>
             <td>Le client d’EDSC rédige l’EDT</td>
             <td>1</td>
-            <td>Le client de la DGIIT rédige le libellé de l’occasion de microapprovisionnement (de concert avec la Stratégie de TI)</td>
+            <td>Le client de la DGIIT rédige le libellé de l’occasion de micro-approvisionnement (de concert avec la Stratégie de TI)</td>
             <td>2</td>
             <td>23</td>
             <td>21</td>
@@ -718,7 +719,7 @@ Nous avons joué un rôle dans l’effet prodigieux qui peut découler de la col
         <tr>                                     |
             <td>Le client d’EDSC envoie l’EDT et la justification du recours à un fournisseur unique à l’équipe d’approvisionnement de la FPF (DGIIT) avec le FRP signé</td>
             <td>1</td>
-            <td>Le client de la DGIIT envoie le libellé de l’occasion de microapprovisionnement à l’équipe d’approvisionnement de la FPF (DGIIT) avec le FRP signé</td>
+            <td>Le client de la DGIIT envoie le libellé de l’occasion de micro-approvisionnement à l’équipe d’approvisionnement de la FPF (DGIIT) avec le FRP signé</td>
             <td>1</td>
             <td>0.5</td>
             <td>-0.5</td>
@@ -941,7 +942,7 @@ Accessible sur demande.
 
 ## Annexe C : Tableau comparatif des possibilités d’approvisionnement
 
-|                                                                   | **Microacquisition**      | **Fournisseur unique** | **Capacité sur demande** |
+|                                                                   | **micro-acquisition**      | **Fournisseur unique** | **Capacité sur demande** |
 |-------------------------------------------------------------------|---------------------------|------------------------|--------------------------|
 | Traitement par l’approvisionnement?                               | Non                       | Oui                    | Oui                      |
 | Paiement par                                                      | Carte de crédit ou PayPal | Dépôt direct           | Dépôt direct             |
