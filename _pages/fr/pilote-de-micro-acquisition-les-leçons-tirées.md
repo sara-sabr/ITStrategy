@@ -388,7 +388,7 @@ Il appert que ces mêmes personnes ne font pas partie des abonnés à la liste d
 
 Le plus souvent, l’abonnement à la liste d’envoi s’est fait à l’aide de Gmail ou d’adresses courriel du même ordre, mais des abonnements étaient liés à 7 comptes courriel distincts d’universités (à savoir ceux des universités Carleton, Laurentian, Memorial, Mount Royal, Trent, Waterloo et Windsor), ce qui montre que nous avons commencé à mettre à profit un segment de la base de fournisseurs que nous ciblons (vraisemblablement grâce à notre affichage dans la page Emplois pour les étudiants au www.canada.ca).
 
-<img src="assets/images/emplois-pour-les-etudiants.png" alt="Cette image est une capture d'écran de la page 'Student Employment' sur Canada.ca en date du 26 avril 2022. On y trouve des liens comme 'Obtenir un permis de travail', 'Guichet-Emplois', 'Placements COOP et stages internes au gouvernement du Canada', ainsi que le lien vers le projet pilote de micro-acquisition 'Trouver des contrats de codage dans le gouvernement'.'"/>
+<img src="assets/images/emplois-pour-les-étudiants.png" alt="Cette image est une capture d'écran de la page 'Student Employment' sur Canada.ca en date du 26 avril 2022. On y trouve des liens comme 'Obtenir un permis de travail', 'Guichet-Emplois', 'Placements COOP et stages internes au gouvernement du Canada', ainsi que le lien vers le projet pilote de micro-acquisition 'Trouver des contrats de codage dans le gouvernement'.'"/>
 
 Figure 1 : Saisie d’écran de la page Emploi pour les étudiants au www.canada.ca (consultée le 14 mars 2022).
 
