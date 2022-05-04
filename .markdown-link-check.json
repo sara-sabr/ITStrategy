@@ -134,6 +134,9 @@
   },
   {
     "pattern": "http://goodbadstrategy.com/"
+  },
+  {
+    "pattern": "https://twitter.com"
   }
   ],
   "aliveStatusCodes": [200, 403]
