@@ -34,8 +34,6 @@ Bien que nous n'ayons pas trouvé de clients pour le micro-procurement de code �
 En fin de compte, les leçons tirées de telles expériences valent tout autant que l’atteinte des paramètres de réussite.
 Durant le Projet pilote, nous avons beaucoup appris. Vous trouverez dans les pages suivantes de la documentation, tant sur les résultats obtenus que les leçons tirées, pour venir en aide à d’autres qui voudront peut-être mener une initiative semblable au GC.
 
-[Télécharger le rapport en format odt]({{ site.baseurl }}/assets/files/Close-out-report.odt).
-
 **Table des matières**
 
 - [1. Nature du document](#1-nature-du-document)

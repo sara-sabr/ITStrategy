@@ -34,8 +34,6 @@ Ultimately the lessons learned from experiments like this are of equal value to 
 We learned a lot over the course of this pilot.
 This report documents both our results and our lessons learned with the goal to help anyone else who might want to do a similar initiative in the GC.
 
-[Download the report in odt format]({{ site.baseurl }}/assets/files/Close-out-report.odt).
-
 **Table of Contents**
 
 - [1. About this document](#1-about-this-document)
