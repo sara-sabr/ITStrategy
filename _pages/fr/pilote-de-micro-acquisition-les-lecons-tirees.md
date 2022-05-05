@@ -418,7 +418,7 @@ Puisque nous n'étions pas en communication directe avec les fournisseurs, ces r
 
 Nous avons obtenu une grande quantité de renseignements de la part de ceux qui étaient déjà passés par là, comme l'équipe de [BC Developers Exchange](https://bcdevexchange.org/) / [BC Digital Marketplace](https://digital.gov.bc.ca/marketplace) qui nous a généreusement fait part des leçons qu'elle a tirées.
 
-Nous avons également parlé à [l'équipe d'approvisionnement du SNC](https://numerique.canada.ca/encadrement-et-conseil/), qui avait songé à faire quelque chose de semblable, à l'équipe de la politique d'approvisionnement du SCT, à l'équipe d'approvisionnement de Services partagés Canada qui s'investit dans le [TechNation Digital Marketplace (en anglais seulement)](https://technationcanada.ca/en/digital-marketplace/) ainsi qu'à d'autres équipes de SPAC, comme l'équipe de simplification de l'approvisionnement et l'équipe de paiement dans les 15 jours.
+Nous avons également parlé à l'équipe d'approvisionnement du SNC, qui avait songé à faire quelque chose de semblable, à l'équipe de la politique d'approvisionnement du SCT, à l'équipe d'approvisionnement de Services partagés Canada qui s'investit dans le [TechNation Digital Marketplace (en anglais seulement)](https://technationcanada.ca/en/digital-marketplace/) ainsi qu'à d'autres équipes de SPAC, comme l'équipe de simplification de l'approvisionnement et l'équipe de paiement dans les 15 jours.
 
 #### Mise à l'essai de l'expérience utilisateur <!-- omit in toc -->
 
