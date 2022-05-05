@@ -8,8 +8,9 @@ sections: Pilots
 permalink: /micro-acquisition-pilot.html
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD037 -->
 <div class="alert alert-warning">
-   <p>The Micro-Acquisition pilot is now closed. You can read about our lessons learned in this blog post (link) and this <a href="{{ site.baseurl }}{% link _pages/en/ma-closeout-report.md %}">close-out report</a>.</p>
+   <p>The Micro-Acquisition pilot is now closed. You can read about our lessons learned in this <a href="{{ site.baseurl }}{% link _posts/en/2022-05-05-micro-acquisition-pilot-closeout.md %}">blog post</a> and this <a href="{{ site.baseurl }}{% link _pages/en/ma-closeout-report.md %}">close-out report</a>.</p>
 </div>
 
 ## Problem Statement  
@@ -59,3 +60,4 @@ Run a one-year experimental pilot for purchases of $10K or less for custom code 
 - Blog post ["Micro-Acquisition Pilot: Status Update 1"](https://sara-sabr.github.io/ITStrategy/2021/01/05/micro-acquisition-pilot-update1.html)
 - Blog post "Better tech through micro-procurement" [Part one](2020/08/12/better-tech-through-microprocurement-p1.html) and [Part two](https://sara-sabr.github.io/ITStrategy/2020/12/18/better-tech-through-micro-procurementpt2.html)
 - [Close-out Report]({{ site.baseurl }}/ma-closeout-report.html)
+- Blog post ["Closing out the Micro-acquisition pilot"](https://sara-sabr.github.io/ITStrategy/2022/05/05/micro-acquisition-pilot-closeout.html)
