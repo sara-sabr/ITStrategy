@@ -14,9 +14,9 @@ Si vous songez à mettre sur pied une initiative d'approvisionnement semblable, 
 
 ## Les cinq éléments requis pour réussir une initiative de micro-approvisionnement en codage au gouvernement du Canada
 
-### Établir un partenariat entre la TI et la Direction générale du dirigeant principal des finances
+### Établir un partenariat entre la TI et la Direction générale de la dirigeante principale des finances
 
-L'expertise et l'autorité de la Direction générale de la TI et la Direction générale du dirigeant principal des finances (DGDPF) sont requis pour une initiative de micro-approvisionnement liée au code.
+L'expertise et l'autorité de la Direction générale de la TI et la Direction générale de la dirigeante principale des finances (DGDPF) sont requis pour une initiative de micro-approvisionnement liée au code.
 
 Votre équipe de paiement devra probablement obtenir l'approbation écrite de la DGDPF pour commencer à payer pour du code avec une carte de crédit.  
 
@@ -45,11 +45,11 @@ La relation la plus importante (comme nous l'avons dit) est entre la TI et la DG
 Votre réseau de relations devra être plus vaste que cela pour lancer votre initiative d'approvisionnement en TI.
 
 Établissez rapidement une relation avec l'Institut professionnel de la fonction publique du Canada (IPFPC). Rencontrez le représentant syndical de votre ministère ou présentez-vous au comité auquel votre représentant syndical participe dans votre ministère.
-Pour l'IPFPC, TI plus approvisionnement rime avec impartition, et si quelque chose ressemble à de l'impartition, ils veulent en savoir plus et être consultés à ce sujet.
+Pour l'IPFPC, [TI + approvisionnement = impartition], et si quelque chose ressemble à de l'impartition, ils veulent en savoir plus et être consultés à ce sujet.
 Même si votre projet pilote est modeste et entraîne une faible dépense de fonds contractuels, n'attendez pas pour leur parler.
 
 Si vous n'êtes pas déjà au courant de tout ce qui touche la « politique d'approvisionnement », établissez des relations avec les experts en politiques – au sein de votre équipe de la DGDPF, mais aussi au Secrétariat du Conseil du Trésor (SCT) et à Services publics et Approvisionnement Canada (SPAC).
-Rencontrez des personnes qui mènent des initiatives similaires ou connexes, comme l'équipe d'échange de développeurs de la C.-B., le paiement en 15 jours de SPAC, le marché numérique de Services partagés Canada ou TechNation, les initiatives d'approvisionnement et d'emploi en TI autochtones (à EDSC et à SPAC) pour rechercher des synergies et partager les leçons apprises.
+Rencontrez des personnes qui mènent des initiatives similaires ou connexes, comme [l'équipe d'échange de développeurs de la C.-B.](https://bcdevexchange.org/), le paiement en 15 jours de SPAC, le marché numérique de Services partagés Canada ou [TechNation](https://technationcanada.ca/en/digital-marketplace/), les initiatives d'approvisionnement et d'emploi en TI autochtones (à EDSC et à SPAC) pour rechercher des synergies et partager les leçons apprises.
 
 Renseignez-vous sur le travail accompli par le [Bureau des petites et moyennes entreprises (BPME)](https://achatsetventes.gc.ca/bureau-des-petites-et-moyennes-entreprises-devient-soutien-en-approvisionnement-canada) et voyez si votre initiative vous permet de vous entraider.
 Si oui, communiquez avec lui. Le BPME offre une formation aux petits fournisseurs sur la façon de présenter une demande de marché gouvernemental.
@@ -57,7 +57,7 @@ Il connaît très bien les défis auxquels font face les fournisseurs pour obten
 
 Communiquez avec les membres du personnel du [Service numérique canadien (SNC)](https://numerique.canada.ca/).
 Non seulement certains d'entre eux possèdent une expertise et une expérience considérables en matière de logiciels libres, mais ils gèrent aussi certains produits que vous pourriez vouloir intégrer à votre initiative.
-Dans le cadre de notre projet pilote, nous avons utilisé l'application Notification du Service numérique canadien (SNC) et les formulaires du gouvernement du Canada.
+Dans le cadre de notre projet pilote, nous avons utilisé [l'application Notification](https://notification.canada.ca/) du Service numérique canadien (SNC) et les [formulaires du gouvernement du Canada](https://digital.canada.ca/product-suite/).
 Nous avons établi une relation de soutien mutuel dans le cadre de laquelle le SNC a élaboré nos formulaires et en a testé gratuitement l'accessibilité en ligne. Puis, nous avons participé à des séances de rétroaction des utilisateurs pour ces produits.
 
 ### Avoir une culture de travail de développement agile à l'interne et de soutien pour les logiciels libres
