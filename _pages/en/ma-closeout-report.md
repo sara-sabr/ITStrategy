@@ -400,7 +400,7 @@ It also meant that the IT Strategy team no longer had to maintain the PDF applic
 It also meant that the IT Strategy team received form information as structured data which would allow for automating the processing of the forms.
 
 Note: While having structured data would have allowed us to automate, we were unable to due to policies in place related to the ESDC rollout of O365 and power automate.
-Further details around barriers to automating the processing of the micro-acquisition form data can be found on the [IT strategy sharepoint site](https://014gc.sharepoint.com/:f:/r/sites/IITB-ITStrategy/Shared%20Documents/STRATEGIES%20AND%20INITIATIVES/Micro-Acquisition%20pilot/Build%20and%20planning/Design/GCForms/Automation?csf=1&web=1&e=SlWVO2).
+Further details around barriers to automating the processing of the micro-acquisition form data can be found on the [IT strategy sharepoint site (internal link)](https://014gc.sharepoint.com/:f:/r/sites/IITB-ITStrategy/Shared%20Documents/STRATEGIES%20AND%20INITIATIVES/Micro-Acquisition%20pilot/Build%20and%20planning/Design/GCForms/Automation?csf=1&web=1&e=SlWVO2).
 
 #### Stakeholder engagement <!-- omit in toc -->
 
@@ -636,7 +636,7 @@ We believe that another department might be successful with low dollar value pro
 
 As such, we have worked in the open on this pilot to enable another department to leverage this work if they choose.
 All useful documents related to this pilot have been added to the [micro-acquisition repository](https://github.com/canada-ca/micro-acquisition) on GitHub to create a ‘package’ that other departments could use if they choose to implement a similar initiative.
-Internally, all documentation related to this pilot (including documentation that contains personal info that cannot be shared) is stored on the IT Strategy SharePoint site (https://014gc.sharepoint.com/sites/IITB-ITStrategy/) in the [Micro-acquisition pilot folder](https://014gc.sharepoint.com/sites/IITB-ITStrategy/Shared%20Documents/Forms/AllItems.aspx?newTargetListUrl=%2Fsites%2FIITB%2DITStrategy%2FShared%20Documents&viewpath=%2Fsites%2FIITB%2DITStrategy%2FShared%20Documents%2FForms%2FAllItems%2Easpx&id=%2Fsites%2FIITB%2DITStrategy%2FShared%20Documents%2FSTRATEGIES%20AND%20INITIATIVES%2FMicro%2DAcquisition%20pilot&viewid=d33d4b65%2Df5f8%2D4604%2Daa42%2D5f0a6b952413) within the Strategies and Initiatives folder.
+Internally, all documentation related to this pilot (including documentation that contains personal info that cannot be shared) is stored on the IT Strategy SharePoint site (https://014gc.sharepoint.com/sites/IITB-ITStrategy/) in the [Micro-acquisition pilot folder (internal link)](https://014gc.sharepoint.com/sites/IITB-ITStrategy/Shared%20Documents/Forms/AllItems.aspx?newTargetListUrl=%2Fsites%2FIITB%2DITStrategy%2FShared%20Documents&viewpath=%2Fsites%2FIITB%2DITStrategy%2FShared%20Documents%2FForms%2FAllItems%2Easpx&id=%2Fsites%2FIITB%2DITStrategy%2FShared%20Documents%2FSTRATEGIES%20AND%20INITIATIVES%2FMicro%2DAcquisition%20pilot&viewid=d33d4b65%2Df5f8%2D4604%2Daa42%2D5f0a6b952413) within the Strategies and Initiatives folder.
 
 When it comes to pilots, the benefit is not only success but what is learned.
 As documented in this report, the team learned a great deal over the course of this pilot.
