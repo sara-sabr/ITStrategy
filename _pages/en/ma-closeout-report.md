@@ -12,7 +12,7 @@ permalink: /ma-closeout-report.html
 
 The Micro-acquisition pilot ran from June 2021 to May 2022. It was led by ESDC in a partnership between the Innovation, Information and Technology Branch (IITB) and the Chief Financial Officer Branch (CFOB).
 
-Driven by the results of the [red tape reduction report](https://internal-red-tape-reduction-report.github.io/), the [Gartner Procurement 2020 report](https://www.gartner.com/en/procurement-operations/trends/procurement-in-2020?), and the knowledge that while Digital Standards require open first working in the open by default[^1], very little code developed in ESDC was being licensed as open source and shared openly, we felt there was an opportunity to use procurement as a lever.
+Driven by the results of the [red tape reduction report](https://internal-red-tape-reduction-report.github.io/), the Gartner Procurement 2020 report, and the knowledge that while Digital Standards require open first working in the open by default[^1], very little code developed in ESDC was being licensed as open source and shared openly, we felt there was an opportunity to use procurement as a lever.
 
 We also felt strongly that there is a lot of coding talent that remains untapped by the Federal Public Service[^2] and that by simplifying low dollar value procurement of code, we could not only increase access to that talent but enable distribution of GC contract dollars to those who might normally face barriers[^3].
 
