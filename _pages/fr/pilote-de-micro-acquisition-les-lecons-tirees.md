@@ -459,7 +459,7 @@ Forts de ce savoir, nous avions l'assurance de trouver des clients à EDSC.
 Or, nous nous sommes rendu compte que trouver des clients serait moins facile que nous l'aurions cru.
 
 La demande insuffisante peut s'expliquer en partie par les politiques.
-Depuis de nombreuses années, un principe prévaut chez EDSC : [« Achetons ce que nous pouvons acheter et créons ce que nous devons créer »](https://edsc.prv/en/iitb/corporate/doc/IITBBusinessModel_f.pdf).
+Depuis de nombreuses années, un principe prévaut chez EDSC : [« Achetons ce que nous pouvons acheter et créons ce que nous devons créer » (lien interne)](https://edsc.prv/en/iitb/corporate/doc/IITBBusinessModel_f.pdf).
 Ce principe s'est traduit par la dépendance envers le secteur commercial relativement à l'exécution de travaux de codage ainsi que l'amoindrissement du mandat et des compétences de la DGIIT en ce qui touche la réalisation de travaux de développement et l'adoption de logiciels ou codes de source ouverte.
 
 La demande insuffisante est peut-être également liée aux méthodes de travail que nous employons à EDSC.

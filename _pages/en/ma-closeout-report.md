@@ -459,7 +459,7 @@ With that knowledge we felt confident we would find clients at ESDC.
 But we quickly realized that it would not be as easy to find clients as we might have thought.
 
 Part of the reason for the lack of demand could be policy related.
-ESDC has for many years had a principle of [“buy what we can, build what we must”](https://esdc.prv/en/iitb/corporate/doc/IITBBusinessModel.pdf) in place.
+ESDC has for many years had a principle of [“buy what we can, build what we must” (internal link)](https://esdc.prv/en/iitb/corporate/doc/IITBBusinessModel.pdf) in place.
 This principle has resulted in reliance on the commercial industry for coding work and a reduced mandate and skills within IITB to do development work and adopt open-source software/code.
 
 Another reason for the lack of demand could be related to the way we work at ESDC.
