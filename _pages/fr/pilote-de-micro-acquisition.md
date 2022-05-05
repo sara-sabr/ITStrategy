@@ -8,8 +8,9 @@ sections: Pilotes
 permalink: /pilote-de-micro-acquisition.html
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD037 -->
 <div class="alert alert-warning">
-   <p>Le projet pilote de micro-acquisition est maintenant terminé. Vous pouvez lire les leçons apprises dans ce billet de blog (lien) et dans ce <a href="{{ site.baseurl }}{% link _pages/fr/pilote-de-micro-acquisition-les-lecons-tirees.md %}">rapport de clôture</a>.</p>
+   <p>Le projet pilote de micro-acquisition est maintenant terminé. Vous pouvez lire les leçons apprises dans ce <a href="{{ site.baseurl }}{% link _posts/fr/2022-05-05-cloture-du-pilote-de-micro-acquisition.md %}">billet de blog</a> et dans ce <a href="{{ site.baseurl }}{% link _pages/fr/pilote-de-micro-acquisition-les-lecons-tirees.md %}">rapport de clôture</a>.</p>
 </div>
 
 ## Énoncé du problème  
@@ -47,3 +48,4 @@ Mener un projet pilote expérimental d'un an pour des achats de 10 000 dollars o
 - Billet de blogue [<< Pilote de micro-acquisition : mise à jour du statut 1 >>](https://sara-sabr.github.io/ITStrategy/2021/01/05/pilote-de-micro-acquisition-mise-a-jour1.html)
 - Billet de blog << Meilleure technologie grâce au micro-approvisionnement >> [première partie](2020/08/12/meilleure-technologie-grace-au-micro-approvisionnement-partie-1.html) et [deuxième partie](https://sara-sabr.github.io/ITStrategy/2020/12/18/meilleure-technologie-grace-au-micro-approvisionnement-partie-2.html)
 - [Rapport de clôture]({{ site.baseurl }}/pilote-de-micro-acquisition-les-leçons-tirées.html)
+- Billet de blogue [<< Clôture du projet pilote de micro-acquisition >>](https://sara-sabr.github.io/ITStrategy/2022/05/05/cloture-du-pilote-de-micro-acquisition.html)
