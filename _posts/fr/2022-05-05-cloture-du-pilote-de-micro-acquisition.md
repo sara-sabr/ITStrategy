@@ -122,6 +122,6 @@ Soyons honnêtes!
 Nous n'avons pas atteint nos objectifs ni atteint les paramètres de réussite du projet pilote.
 Nous n'avons affiché qu'une occasion (sur les 10 visées).
 Mais en ce qui concerne les projets pilotes, l'avantage n'est pas seulement d'atteindre les objectifs, mais aussi d'apprendre.
-Comme nous l'avons décrit ici et dans notre rapport de clôture détaillé (lien), l'équipe a beaucoup appris au cours de ce projet pilote.
+Comme nous l'avons décrit ici et dans notre [rapport de clôture détaillé]({{ site.baseurl }}/pilote-de-micro-acquisition-les-lecons-tirees.html), l'équipe a beaucoup appris au cours de ce projet pilote.
 Nous nous sentons vraiment heureux d'avoir participé à la magie qui peut se produire lorsque les directions générales collaborent, et d'avoir prouvé que, oui, au gouvernement du Canada, nous pouvons payer pour du code à faible coût en utilisant les cartes de crédit et PayPal!
 Merci à EDSC d'être prêt à entreprendre un projet pilote expérimental comme celui-ci!

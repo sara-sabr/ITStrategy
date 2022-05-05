@@ -117,5 +117,5 @@ Of course we also need to thank folks at PSPC and CDS for their help and guidanc
 Let’s be honest....we didn’t come close to meeting our targets and success metrics for the pilot.
 We only posted one opportunity (out of a targeted 10).
 But when it comes to pilots, the benefit isn’t only about meeting targets but also what is learned.
-As we’ve described here and in our detailed close out report (link), the team learned a great deal over the course of this pilot. We feel really glad to have participated in the magic that can happen when branches collaborate, and to have proved that heck yes, we can in the GC pay for code at low dollar values using credit card and PayPal!
+As we’ve described here and in our detailed [close out report]({{ site.baseurl }}/ma-closeout-report.html), the team learned a great deal over the course of this pilot. We feel really glad to have participated in the magic that can happen when branches collaborate, and to have proved that heck yes, we can in the GC pay for code at low dollar values using credit card and PayPal!
 Thank you to ESDC for being willing to embark on an experimental pilot like this!
