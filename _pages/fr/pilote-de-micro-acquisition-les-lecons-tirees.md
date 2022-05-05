@@ -953,9 +953,9 @@ Accessible sur demande.
 
 [^1]: « Rendre accessibles à l'extérieur l'ensemble des données et des informations non sensibles ainsi que les nouveaux codes élaborés dans le cadre de la prestation des services aux fins d'échange et de réutilisation sous licence ouverte. »
 
-[^2]: A good example of this is the [GCDevOps League](https://gcdevops.github.io/home.html)
+[^2]: Un bon exemple est la [ligue GCDevOps (anglais seulement)](https://gcdevops.github.io/home.html)
 
-[^3]: As mentioned in the [Office of the Procurement Ombudsman annual report 2017-2018](https://opo-boa.gc.ca/rapports-reports/2017-2018/index-eng.html) and a [2017 survey of Small and Medium Enterprises (SMEs)](https://www150.statcan.gc.ca/n1/daily-quotidien/181116/dq181116c-eng.htm)
+[^3]: Comme mentionné dans le [Rapport annuel 2017-2018 Bureau de l'ombudsman de l'approvisionnement](https://opo-boa.gc.ca/rapports-reports/2017-2018/index-fra.html) et [l'enquête sur le financement et la croissance des petites et moyennes entreprises de 2017](https://www150.statcan.gc.ca/n1/daily-quotidien/181116/dq181116c-fra.htm)
 
 [^4]: Le projet pilote d'échange de développeurs du GC a servi de moyen pilote d'approvisionnement du code de source ouverte, sous la direction du BCP.
 
