@@ -451,7 +451,7 @@ Some of these improvements included:
 
 #### Lack of clients <!-- omit in toc -->
 
-In looking at demand for the micro-acquisition pilot, we knew from the [ESDC Open Source Framework, internal link](https://014gc.sharepoint.com/:p:/r/sites/CO7397744/_layouts/15/Doc.aspx?sourcedoc=%7B1640C683-D51D-40A2-AC4F-8BB536881C2E%7D&file=Open%20Source%20Framework%20-%20EARB%20Presentation-Final.pptx&action=edit&mobileredirect=true&DefaultItemOpen=1) that there were 54 OSS products known to be in use at ESDC and at least 90 web applications at ESDC which contain OSS elements.
+In looking at demand for the micro-acquisition pilot, we knew from the [ESDC Open Source Framework ( internal link)](https://014gc.sharepoint.com/:p:/r/sites/CO7397744/_layouts/15/Doc.aspx?sourcedoc=%7B1640C683-D51D-40A2-AC4F-8BB536881C2E%7D&file=Open%20Source%20Framework%20-%20EARB%20Presentation-Final.pptx&action=edit&mobileredirect=true&DefaultItemOpen=1) that there were 54 OSS products known to be in use at ESDC and at least 90 web applications at ESDC which contain OSS elements.
 We also knew of four instances of [published open-source code from ESDC](https://code.open.canada.ca/en/open-source-codes.html).
 While this was a fairly low usage of OSS, we knew that through the pilot clients who were not currently using OSS would be able to procure open-source code modules that could be imported into existing systems built on proprietary code.
 With that knowledge we felt confident we would find clients at ESDC.
