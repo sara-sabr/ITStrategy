@@ -14,7 +14,7 @@ The Micro-acquisition pilot ran from June 2021 to May 2022. It was led by ESDC i
 
 Driven by the results of the [red tape reduction report](https://internal-red-tape-reduction-report.github.io/), the Gartner Procurement 2020 report, and the knowledge that while Digital Standards require open first working in the open by default[^1], very little code developed in ESDC was being licensed as open source and shared openly, we felt there was an opportunity to use procurement as a lever.
 
-We also felt strongly that there is a lot of coding talent that remains untapped by the Federal Public Service[^2] and that by simplifying low dollar value procurement of code, we could not only increase access to that talent but enable distribution of GC contract dollars to those who might normally face barriers[^3].
+We also felt strongly that there is a lot of coding talent that remains untapped by the Federal Public Service and that by simplifying low dollar value procurement of code, we could not only increase access to that talent but enable distribution of GC contract dollars to those who might normally face barriers[^2].
 
 We worked to understand those barriers and smash them along the way – can we pay for code using PayPal to get money into coders hands fast and not require them to wait 30 days or have a point-of-sale system?
 Heck yes we can!
@@ -360,7 +360,7 @@ Instead, lessons learned were collected via client survey, by soliciting comment
 
 #### Partnering with CFOB <!-- omit in toc -->
 
-One of the main lessons learned from the GC Developers Exchange pilot[^4] from 2017-18 was the need to involve and achieve buy-in from the Procurement/Financial team.
+One of the main lessons learned from the GC Developers Exchange pilot[^3] from 2017-18 was the need to involve and achieve buy-in from the Procurement/Financial team.
 As such, from the beginning, the IT Strategy team sought to have CFOB as a partner in the micro-acquisition pilot.
 After connecting with the procurement innovation team, a partnership was secured with CFOB through the executive director of that team (Robert MacGillivary).
 Roles and responsibilities were agreed upon by both IITB and CFOB and both teams dedicated resources to the pilot.
@@ -407,7 +407,7 @@ Further details around barriers to automating the processing of the micro-acquis
 During planning, the pilot team placed significant emphasis on stakeholder engagement to ensure that we not only had buy-in but were designing and building something with the input of those who had the expertise we did not.
 
 The process design sessions, which included participants from IITB (IT Strategy and FPS), CFOB, and the Office of Small and Medium Enterprises (OSME) raised many things we had not thought of.
-The micro-acquisition processes evolved thanks to the comments we gathered in those sessions and as a result, we encountered only one unexpected process challenge[^5] during the one opportunity that was run.
+The micro-acquisition processes evolved thanks to the comments we gathered in those sessions and as a result, we encountered only one unexpected process challenge[^4] during the one opportunity that was run.
 Even though that opportunity ended up in non-delivery, this was a scenario we had already thought through in those sessions and we were prepared for.
 
 At ESDC the IT shop (IITB) has their own financial team and it was essential to bring them on board early in the process to understand their needs and to ensure we were aligned with their processes.
@@ -503,7 +503,7 @@ Launching the pilot site only a week before the first opportunity was posted, re
 
 During planning, many discussions were had on the pilot team about how far in advance we could launch the site and communicate about the pilot before the first opportunity is posted.
 We consulted with the Office of Small and Medium Enterprise at PSPC on this who expressed concern about promoting the site to their network with no opportunities on it.
-As a result, we planned to launch the website two weeks[^6] before the first opportunity would be posted to allow for a small amount of time to start getting the word out but not too much time that potential suppliers lose interest.
+As a result, we planned to launch the website two weeks[^5] before the first opportunity would be posted to allow for a small amount of time to start getting the word out but not too much time that potential suppliers lose interest.
 
 In hindsight, knowing that many people have continued going to the site for months and continued to sign up for the mailing list despite there being no open opportunities, we could have launched the site a month or two before the first opportunity and had a staggered external promotions approach building up to the first opportunity.
 The link to the Micro-acquisitions pilot page (and mailing list) could have been added to the student employment page on Canada.ca as soon as the site was live, we could have tweeted a few weeks in advance of the first opportunity and OSME could have promoted to their networks a few days before the first opportunity was posted.
@@ -517,7 +517,7 @@ It was a change in terms of procurement - being allowed to purchase code via cre
 Managing the change with the IITB Financial team was easy as the change was minimal.
 Procurement by credit card is done regularly in the GC and processes are clearly defined.
 Since purchasing code using credit card represented a change, the IITB financial team required the CFOB Executive Sponsor to provide a written note to say that purchasing code via the Micro-Acquisition pilot was a valid procurement option.
-From a Prosci[^7] (change management) point of view, this written approval provided the Desire for Financial teams to support the change. and because the processes already existed for credit card purchases the Knowledge, and Ability were there also.
+From a Prosci[^6] (change management) point of view, this written approval provided the Desire for Financial teams to support the change. and because the processes already existed for credit card purchases the Knowledge, and Ability were there also.
 
 Moving towards open source, on the other hand, represented a substantial change at ESDC.
 Very few teams were using open source, there is a ‘Buy what you can, build what you must’ principle in place and there exists in ESDC and most of the GC, a general fear of open source – about doing it wrong and opening up liability, and of showing our work and worrying about what folks will think about the quality of our code.
@@ -576,7 +576,7 @@ The primary way suppliers received the survey was as part of the email to say th
 
 #### Soft/full launch communications <!-- omit in toc -->
 
-Knowing that many public servants are interested in simplified Low Dollar Value (LDV) procurement[^8] there was concern that our small pilot team would be overwhelmed with requests from clients for micro-acquisition.
+Knowing that many public servants are interested in simplified Low Dollar Value (LDV) procurement[^7] there was concern that our small pilot team would be overwhelmed with requests from clients for micro-acquisition.
 To reduce this risk, we looked at best practices in industry and it was decided that the pilot launch should be done in two phases with a soft launch/full launch approach.
 
 We had our soft launch in June 2021, where we launched the website, posted our first opportunity, and communicated externally to suppliers (e.g., on Twitter) but did not do any internal comms to promote the pilot.
@@ -588,7 +588,7 @@ As noted above, the demand from clients turned out to be low and doing internal 
 
 #### No broadcast internal comms beyond IITB <!-- omit in toc -->
 
-Our initial focus for communications was within IITB however since the scope of the pilot included other teams in ESDC with sanctioned IT functions such as the Benefits Delivery Modernization (BDM) team, the Communications Plan included outreach[^9] to broader audiences in ESDC (if we did not find enough clients within IITB).
+Our initial focus for communications was within IITB however since the scope of the pilot included other teams in ESDC with sanctioned IT functions such as the Benefits Delivery Modernization (BDM) team, the Communications Plan included outreach[^8] to broader audiences in ESDC (if we did not find enough clients within IITB).
 
 By the time the pilot team realized this broader outreach would be required, the union challenges prevented further internal communications.
 
@@ -952,18 +952,16 @@ Available on request
 
 [^1]: “Make all non-sensitive data, information, and new code developed in delivery of services open to the outside world for sharing and reuse under an open licence”
 
-[^2]: A good example of this is the [GCDevOps League](https://gcdevops.github.io/home.html)
+[^2]: As mentioned in the [Office of the Procurement Ombudsman annual report 2017-2018](https://opo-boa.gc.ca/rapports-reports/2017-2018/index-eng.html) and a [2017 survey of Small and Medium Enterprises (SMEs)](https://www150.statcan.gc.ca/n1/daily-quotidien/181116/dq181116c-eng.htm)
 
-[^3]: As mentioned in the [Office of the Procurement Ombudsman annual report 2017-2018](https://opo-boa.gc.ca/rapports-reports/2017-2018/index-eng.html) and a [2017 survey of Small and Medium Enterprises (SMEs)](https://www150.statcan.gc.ca/n1/daily-quotidien/181116/dq181116c-eng.htm)
+[^3]: The GC Developers Exchange was a pilot procurement vehicle for open source code launched in 2017. It was led by PCO and TBS.
 
-[^4]: The GC Developers Exchange was a pilot procurement vehicle for open source code launched in 2017. It was led by PCO and TBS.
+[^4]: we hadn’t included the need for the client rationale for each pass or fail they assigned to suppliers who applied.
 
-[^5]: we hadn’t included the need for the client rationale for each pass or fail they assigned to suppliers who applied.
+[^5]: development delays meant that the micro-acquisition website was launched only one week before.
 
-[^6]: development delays meant that the micro-acquisition website was launched only one week before.
+[^6]: The Prosci change management framework uses the ADKAR ® Model to define outcomes required in individuals for change to be successful – Awareness, Desire, Knowledge, Ability and Reinforcement
 
-[^7]: The Prosci change management framework uses the ADKAR ® Model to define outcomes required in individuals for change to be successful – Awareness, Desire, Knowledge, Ability and Reinforcement
+[^7]: Red Tape Reduction Report [Chapter-3 The problem with low return on investment on low dollar value service contracts](https://internal-red-tape-reduction-report.github.io/chapter-3/\#the-problem-low-return-on-investment-on-low-dollar-value-service-contracts)
 
-[^8]: Red Tape Reduction Report [Chapter-3 The problem with low return on investment on low dollar value service contracts](https://internal-red-tape-reduction-report.github.io/chapter-3/\#the-problem-low-return-on-investment-on-low-dollar-value-service-contracts)
-
-[^9]: planned communications items included: an article in the departmental newsletter “Intersection” and tweeting from the CIO's twitter account
+[^8]: planned communications items included: an article in the departmental newsletter “Intersection” and tweeting from the CIO's twitter account

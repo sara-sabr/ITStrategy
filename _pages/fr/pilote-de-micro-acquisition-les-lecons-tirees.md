@@ -14,7 +14,7 @@ Le Projet pilote sur la micro-acquisition s'est déroulé de juin 2021 à mai 
 
 Compte tenu des résultats du [Rapport sur la réduction de la paperasse (anglais)](https://internal-red-tape-reduction-report.github.io/), du rapport Gartner sur l'approvisionnement paru en 2020 et du fait que les normes numériques nécessitent en premier lieu le travail en mode ouvert par défaut[^1], très peu de codes élaborés à EDSC étaient autorisés en vertu d'une licence de source ouverte et échangés ouvertement; nous estimions donc qu'il y avait là une occasion de recourir à l'approvisionnement comme levier.
 
-Nous étions également convaincus qu'il y a une abondance de talents en codage qui demeurent inexploités par la fonction publique fédérale[^2] et que la simplification de l'acquisition de codes de faible valeur nous donnerait un accès élargi à ces talents, tout en permettant la répartition des fonds contractuels du GC à ceux qui risquent habituellement de se buter à des obstacles[^3].
+Nous étions également convaincus qu'il y a une abondance de talents en codage qui demeurent inexploités par la fonction publique fédérale et que la simplification de l'acquisition de codes de faible valeur nous donnerait un accès élargi à ces talents, tout en permettant la répartition des fonds contractuels du GC à ceux qui risquent habituellement de se buter à des obstacles[^2].
 
 Nous nous sommes efforcés de comprendre ces obstacles et de les surmonter en cours de route : pouvons-nous payer un code à l'aide de PayPal pour verser rapidement les fonds aux codeurs sans les contraindre à attendre 30 jours ou à recourir à un système de point de vente?
 Certainement que nous le pouvons!
@@ -360,7 +360,7 @@ On a plutôt recueilli les leçons tirées à l'aide d'un questionnaire auprès 
 
 #### Partenariat avec la DGDPF <!-- omit in toc -->
 
-Parmi les principales leçons tirées du projet pilote d'échange de développeurs du GC[^4] en 2017-2018, il y a eu le besoin de faire participer l'équipe de l'approvisionnement et des finances et d'obtenir son adhésion au projet.
+Parmi les principales leçons tirées du projet pilote d'échange de développeurs du GC[^3] en 2017-2018, il y a eu le besoin de faire participer l'équipe de l'approvisionnement et des finances et d'obtenir son adhésion au projet.
 À ce titre, l'équipe de la stratégie de TI a cherché d'entrée de jeu à travailler en partenariat avec la DGDPF dans le cadre du projet pilote sur la micro-acquisition.
 Après avoir joint l'équipe d'innovation en approvisionnement, on a conclu un partenariat avec la DGDPF par l'intermédiaire du directeur général de cette équipe-là (Robert MacGillivary).
 La DGIIT et la DGDPF ont convenu des rôles et responsabilités, puis les deux équipes ont consacré des ressources au projet pilote.
@@ -407,7 +407,7 @@ Des précisions sur les obstacles à l'automatisation du traitement des données
 Au stade de la planification, l'équipe du Projet pilote a prêté une attention soutenue à la mise à contribution des parties prenantes : il s'agissait ici de pouvoir compter sur leur adhésion de même que concevoir et édifier quelque chose à partir de l'apport de personnes fortes d'un savoir-faire que nous n'avions pas.
 
 Les séances de conception des processus, au cours desquelles il y avait des participants de la DGIIT (Stratégie de TI et Équipe responsable du soutien financier et des achats), de la DGDPF et du Bureau des petites et moyennes entreprises (BPME), ont suscité de nombreuses questions auxquelles nous n'avions pas songé.
-Les processus de micro-acquisition ont évolué grâce aux commentaires que nous avons recueillis lors de ces séances, si bien que nous nous sommes heurtés à un seul obstacle inattendu dans ces processus[^5] lors de la seule occasion mise en œuvre.
+Les processus de micro-acquisition ont évolué grâce aux commentaires que nous avons recueillis lors de ces séances, si bien que nous nous sommes heurtés à un seul obstacle inattendu dans ces processus[^4] lors de la seule occasion mise en œuvre.
 Même si l'occasion s'est soldée par la non-livraison, nous avions déjà examiné ce scénario en détail pendant les séances et nous y étions préparés.
 
 À EDSC, les services de TI (DGIIT) comptent sur leur propre équipe financière : il nous était essentiel de la mettre à contribution dès le début du processus pour concevoir ses besoins et nous assurer d'être en phase avec ses processus.
@@ -503,7 +503,7 @@ Le lancement du site Web du Projet pilote une semaine seulement avant l'affichag
 
 Au stade de la planification, il y a eu de nombreux débats au sein de l'équipe du Projet pilote sur la période à laquelle il fallait lancer d'avance le site Web et la communication au sujet du Projet pilote avant l'affichage de la première occasion.
 Nous avons consulté le Bureau des petites et moyennes entreprises de SPAC à ce sujet, lequel craignait de promouvoir le site Web auprès de son réseau sans que des occasions s'y trouvent.
-Nous avions donc prévu de lancer le site Web deux semaines[^6] avant l'affichage de la première occasion afin de prévoir du temps pour faire connaître le Projet pilote, mais pas trop, sans quoi les fournisseurs potentiels s'en seraient peu à peu désintéressés.
+Nous avions donc prévu de lancer le site Web deux semaines[^5] avant l'affichage de la première occasion afin de prévoir du temps pour faire connaître le Projet pilote, mais pas trop, sans quoi les fournisseurs potentiels s'en seraient peu à peu désintéressés.
 
 Avec le recul, si nous avions su que de nombreuses personnes continueraient de consulter le site pendant des mois et de s'inscrire à la liste d'envoi malgré l'absence d'occasions de source ouverte, nous aurions saisi la possibilité de lancer le site un mois ou deux avant la première occasion et d'adopter une campagne de promotion externe échelonnée jusqu'à la première occasion.
 Le lien vers la page Web du Projet pilote sur la micro-acquisition (et la liste d'envoi) aurait pu être ajouté à la page Emplois pour les étudiants au www.canada.ca dès la mise en ligne du site, nous aurions pu en parler sur Twitter quelques semaines avant la première occasion et le BPME aurait pu en faire la promotion dans ses réseaux quelques jours avant l'affichage de la première occasion.
@@ -516,7 +516,7 @@ Il s'agissait d'un changement, tant en matière d'approvisionnement (avoir l'aut
 
 La gestion du changement auprès de l'équipe des finances de la DGIIT s'est révélée facile, car il s'agissait d'un changement minime. L'approvisionnement par carte de crédit est une pratique courante au GC et les processus s'y rapportant sont clairement définis.
 Étant donné que le code d'achat au moyen d'une carte de crédit représentait un changement, l'équipe des finances de la DGIIT a exigé que le cadre responsable de la DGDPF fournisse une note écrite comme quoi le code d'achat par le truchement du Projet pilote sur la micro-acquisition constituait une possibilité d'approvisionnement valide.
-Selon le cadre Prosci[^7] (gestion du changement), l'approbation écrite marquait la volonté des équipes des finances d'appuyer le changement.
+Selon le cadre Prosci[^6] (gestion du changement), l'approbation écrite marquait la volonté des équipes des finances d'appuyer le changement.
 De plus, puisque les processus d'achat par carte de crédit étaient déjà en place, les connaissances et les capacités s'y trouvaient aussi.
 
 Toutefois, chez EDSC, le passage à la source ouverte représentait un changement considérable.
@@ -578,7 +578,7 @@ Le principal mode de transmission de cette fiche aux fournisseurs passait par le
 
 #### Communications relatives au prélancement et au lancement complet <!-- omit in toc -->
 
-Sachant que de nombreux fonctionnaires s'intéressent à l'approvisionnement simplifié de faible valeur[^8], nous étions inquiets du risque que notre équipe restreinte dans le cadre du Projet pilote soit submergée de demandes de la clientèle relatives à la micro-acquisition.
+Sachant que de nombreux fonctionnaires s'intéressent à l'approvisionnement simplifié de faible valeur[^7], nous étions inquiets du risque que notre équipe restreinte dans le cadre du Projet pilote soit submergée de demandes de la clientèle relatives à la micro-acquisition.
 Afin de minimiser ce risque, nous avons examiné les pratiques exemplaires sectorielles pour ensuite déterminer qu'il serait opportun de lancer le Projet pilote en deux phases au moyen d'une campagne de prélancement et de lancement complet.
 
 Notre campagne de prélancement s'est déroulée en juin 2021 : nous avons alors lancé le site Web, affiché notre première occasion et communiqué à l'externe aux fournisseurs (p. ex., sur Twitter), sans toutefois communiquer à l'interne pour promouvoir le Projet pilote.
@@ -592,7 +592,7 @@ Comme il a été mentionné précédemment, la demande de la clientèle s'est r�
 #### Aucune communication interne diffusée au-delà de la DGIIT <!-- omit in toc -->
 
 D'entrée de jeu, nos communications étaient axées sur la DGIIT.
-Toutefois, puisque la portée du Projet pilote englobait d'autres équipes à EDSC investies de fonctions de TI approuvées, comme l'équipe de la modernisation du versement des prestations (MVP), le plan de communications comportait un rayonnement[^9] auprès de vastes destinataires à EDSC (au cas où la clientèle de la DGIIT n'aurait pas suffi).
+Toutefois, puisque la portée du Projet pilote englobait d'autres équipes à EDSC investies de fonctions de TI approuvées, comme l'équipe de la modernisation du versement des prestations (MVP), le plan de communications comportait un rayonnement[^8] auprès de vastes destinataires à EDSC (au cas où la clientèle de la DGIIT n'aurait pas suffi).
 
 Au stade où l'équipe du projet Pilote a pris conscience de la nécessité d'élargir le rayonnement, les contestations syndicales ont empêché d'autres communications internes.
 
@@ -953,18 +953,16 @@ Accessible sur demande.
 
 [^1]: « Rendre accessibles à l'extérieur l'ensemble des données et des informations non sensibles ainsi que les nouveaux codes élaborés dans le cadre de la prestation des services aux fins d'échange et de réutilisation sous licence ouverte. »
 
-[^2]: Un bon exemple est la [ligue GCDevOps (anglais seulement)](https://gcdevops.github.io/home.html)
+[^2]: Comme mentionné dans le [Rapport annuel 2017-2018 Bureau de l'ombudsman de l'approvisionnement](https://opo-boa.gc.ca/rapports-reports/2017-2018/index-fra.html) et [l'enquête sur le financement et la croissance des petites et moyennes entreprises de 2017](https://www150.statcan.gc.ca/n1/daily-quotidien/181116/dq181116c-fra.htm)
 
-[^3]: Comme mentionné dans le [Rapport annuel 2017-2018 Bureau de l'ombudsman de l'approvisionnement](https://opo-boa.gc.ca/rapports-reports/2017-2018/index-fra.html) et [l'enquête sur le financement et la croissance des petites et moyennes entreprises de 2017](https://www150.statcan.gc.ca/n1/daily-quotidien/181116/dq181116c-fra.htm)
+[^3]: Le projet pilote d'échange de développeurs du GC a servi de moyen pilote d'approvisionnement du code de source ouverte, sous la direction du BCP.
 
-[^4]: Le projet pilote d'échange de développeurs du GC a servi de moyen pilote d'approvisionnement du code de source ouverte, sous la direction du BCP.
+[^4]: Nous n'avions pas inclus la nécessité d'une justification du client pour chaque réussite ou échec attribuable aux fournisseurs ayant présenté une demande.
 
-[^5]: Nous n'avions pas inclus la nécessité d'une justification du client pour chaque réussite ou échec attribuable aux fournisseurs ayant présenté une demande.
+[^5]: À cause des retards dans le développement, ledit site Web n'a été lancé qu'une semaine d'avance.
 
-[^6]: À cause des retards dans le développement, ledit site Web n'a été lancé qu'une semaine d'avance.
+[^6]: Le cadre de gestion du changement de Prosci s'appuie sur le modèle ADKAR® afin de définir les résultats requis chez les particuliers pour réussir le changement : prise de conscience; désir; connaissance; aptitude; renforcement
 
-[^7]: Le cadre de gestion du changement de Prosci s'appuie sur le modèle ADKAR® afin de définir les résultats requis chez les particuliers pour réussir le changement : prise de conscience; désir; connaissance; aptitude; renforcement
+[^7]: Rapport sur la réduction des formalités administratives [Chapitre-3 Le problème du faible retour sur investissement des contrats de service à faible valeur monétaire (en anglais seulement)](https://internal-red-tape-reduction-report.github.io/chapter-3/\#the-problem-low-return-on-investment-on-low-dollar-value-service-contracts)
 
-[^8]: Rapport sur la réduction des formalités administratives [Chapitre-3 Le problème du faible retour sur investissement des contrats de service à faible valeur monétaire (en anglais seulement)](https://internal-red-tape-reduction-report.github.io/chapter-3/\#the-problem-low-return-on-investment-on-low-dollar-value-service-contracts)
-
-[^9]: Les éléments prévus de communication étaient un article dans le bulletin ministériel « Intersection » ainsi que des gazouillis à partir du compte Twitter du DPI
+[^8]: Les éléments prévus de communication étaient un article dans le bulletin ministériel « Intersection » ainsi que des gazouillis à partir du compte Twitter du DPI
