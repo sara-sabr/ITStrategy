@@ -3,13 +3,13 @@ layout: default
 title: Pilote de micro-acquisition
 ref: Micro-acquisition
 lang: fr
-status: Travaux en cours;primary
+status: Terminé;primary
 sections: Pilotes
 permalink: /pilote-de-micro-acquisition.html
 ---
 <!-- markdownlint-disable MD033 -->
-<div class="alert alert-success">
-   <p>Le pilote de micro-acquisition est désormais en ligne! Le pilote se déroulera jusqu'à la fin du mois de juin 2022. Visitez <a href="https://micro-acquisition.alpha.canada.ca/fr/index.html">le site web de Micro-Acquisition</a> pour voir les opportunités, le guide d'utilisation et la foire aux questions.</p>
+<div class="alert alert-warning">
+   <p>Le projet pilote de micro-acquisition est maintenant terminé. Vous pouvez lire les leçons apprises dans ce billet de blog (lien) et dans ce <a href="{{ site.baseurl }}{% link _pages/fr/pilote-de-micro-acquisition-les-lecons-tirees.md %}">rapport de clôture</a>.</p>
 </div>
 
 ## Énoncé du problème  
@@ -46,3 +46,4 @@ Mener un projet pilote expérimental d'un an pour des achats de 10 000 dollars o
 - Analyse de rentabilisation [à venir]
 - Billet de blogue [<< Pilote de micro-acquisition : mise à jour du statut 1 >>](https://sara-sabr.github.io/ITStrategy/2021/01/05/pilote-de-micro-acquisition-mise-a-jour1.html)
 - Billet de blog << Meilleure technologie grâce au micro-approvisionnement >> [première partie](2020/08/12/meilleure-technologie-grace-au-micro-approvisionnement-partie-1.html) et [deuxième partie](https://sara-sabr.github.io/ITStrategy/2020/12/18/meilleure-technologie-grace-au-micro-approvisionnement-partie-2.html)
+- [Rapport de clôture]({{ site.baseurl }}/pilote-de-micro-acquisition-les-leçons-tirées.html)

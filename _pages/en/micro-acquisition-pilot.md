@@ -3,13 +3,13 @@ layout: default
 title: Micro-Acquisition Pilot
 ref: Micro-acquisition
 lang: en
-status: In Progress;primary
+status: Closed;primary
 sections: Pilots
 permalink: /micro-acquisition-pilot.html
 ---
 <!-- markdownlint-disable MD033 -->
-<div class="alert alert-success">
-   <p>The Micro-Acquisition pilot is now live! The pilot will run until the end of June 2022. Visit the <a href="https://micro-acquisition.alpha.canada.ca/en/index.html">Micro-Acquisition website</a> to see opportunities, the user guide and frequently asked questions.</p>
+<div class="alert alert-warning">
+   <p>The Micro-Acquisition pilot is now closed. You can read about our lessons learned in this blog post (link) and this <a href="{{ site.baseurl }}{% link _pages/en/ma-closeout-report.md %}">close-out report</a>.</p>
 </div>
 
 ## Problem Statement  
@@ -58,3 +58,4 @@ Run a one-year experimental pilot for purchases of $10K or less for custom code 
 - [Business case]({{ site.baseurl }}/ma-business-case.html)
 - Blog post ["Micro-Acquisition Pilot: Status Update 1"](https://sara-sabr.github.io/ITStrategy/2021/01/05/micro-acquisition-pilot-update1.html)
 - Blog post "Better tech through micro-procurement" [Part one](2020/08/12/better-tech-through-microprocurement-p1.html) and [Part two](https://sara-sabr.github.io/ITStrategy/2020/12/18/better-tech-through-micro-procurementpt2.html)
+- [Close-out Report]({{ site.baseurl }}/ma-closeout-report.html)
