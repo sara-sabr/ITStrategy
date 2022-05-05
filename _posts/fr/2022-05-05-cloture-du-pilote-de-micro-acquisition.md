@@ -4,7 +4,7 @@ title:  "Clôture du projet pilote de micro-acquisition"
 ref: micro-acquisition-closeout
 lang: fr
 author: "Rachel Muston, en collaboration avec l'équipe de stratégie de la technologie de l'information (TI) et les membres de l'équipe du projet pilote de micro-acquisition"
-date: "2022-04-26"
+date: "2022-05-05"
 excerpt: "Ce billet vise à vous informer que le projet pilote de micro-acquisition est maintenant terminé. Nous vous fournissons également une liste des cinq principaux facteurs de réussite d'une initiative comme celle-ci, fondée sur nos leçons apprises. Même si nous n'avons pas atteint tout ce que nous espérions, nous avons beaucoup appris!"
 ---
 

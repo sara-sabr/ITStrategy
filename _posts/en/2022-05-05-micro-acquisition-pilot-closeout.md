@@ -4,7 +4,7 @@ title:  "Closing out the Micro-Acquisition pilot"
 ref: micro-acquisition-closeout
 lang: en
 author: "Rachel Muston, in collaboration with the Information Technology (IT) Strategy team and Micro-Acquisition Pilot team members"
-date: "2022-04-26"
+date: "2022-05-05"
 excerpt: "In this post we share that the micro-acquisition pilot is now closed and provide a top 5 list of success factors for an initiative like this based on our lessons learned. While we did not achieve everything we hoped we would, we learned a lot!"
 ---
 
