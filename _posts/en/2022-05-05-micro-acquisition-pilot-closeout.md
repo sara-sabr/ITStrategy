@@ -19,19 +19,19 @@ Expertise and authority are needed from both the IT branch and the Chief Financi
 
 Your payment team will likely require CFOB approval in writing in order to start paying for code with a credit card.
 
-In order to get this approval, CFOB will need to agree that you can use a credit card for a purchase that involves Intellectual Property. Credit card purchases in the GC have an invoice, not a contract so you need to have a different way of getting agreement from all parties as to what happens with the IP with a purchase of code. At ESDC there was already a process for using one page IP agreements for certain credit card purchases.
+In order to get this approval, CFOB will need to agree that you can use a credit card for a purchase that involves Intellectual Property (IP). Credit card purchases in the GC have an invoice, not a contract so you need to have a different way of getting agreement from all parties as to what happens with the IP with a purchase of code. At ESDC there was already a process for using one page IP agreements for certain credit card purchases.
 CFOB worked with us to draft a [one page IP agreement](https://github.com/canada-ca/micro-acquisition/blob/main/_pages/en/terms.md) to use for all purchases for the Micro-Acquisition pilot.
 
 You will also need CFOB approval if you want to use a payment gateway such as PayPal (useful if your target audience includes freelancers and students as most will not have point of sale systems).
 Here too we were lucky as ESDC CFOB already had a process in place for allowing payment by PayPal and we simply had to write a justification in order to get a blanket approval to use PayPal for all Micro-Acquisition payments.
 
 Having IT (development and design) expertise on the team will mean that you will be able to build, in-house, the website where you will post opportunities.
-This is not essential but it will save some time and it will be easier for you to continuously improve the site as you go. We built our site on GitHub, it was hosted on GitHub pages and we used a domain from the Alpha.canada.ca project.
+This is not essential but it will save some time and it will be easier for you to continuously improve the site as you go. We built our site on GitHub, it was hosted on GitHub pages and we used a domain from the [alpha.canada.ca](https://alpha.canada.ca/) project.
 All for free.
 Thanks to UX expertise on the team we were able to ensure the website design met user needs which we validated with UX testing prior to launch.
 
 Having IT expertise on the team will also ensure that you are able to answer the technical questions that will come up during approvals and in meetings with clients.
-Having some OSS experts on the team was essential for us. They attended meetings with potential clients, answered questions about licensing, reviewed code acceptance criteria and were available as part of the code review process if requested by the client.
+Having some Open Source Software (OSS) experts on the team was essential for us. They attended meetings with potential clients, answered questions about licensing, reviewed code acceptance criteria and were available as part of the code review process if requested by the client.
 
 ### Take the time to build relationships
 
@@ -43,16 +43,16 @@ For PIPSC, [IT + procurement = outsourcing] and if something sounds like outsour
 Even if you are doing a small pilot with a small outlay of contract dollars, don’t wait to talk to them.
 
 If you aren’t already up to speed on all things ‘procurement policy’, build relationships with the policy experts – on your CFOB team but also at Treasury Board Secretariat (TBS), and Public Services and Procurement Canada (PSPC).
-Meet with folks doing similar/related initiatives like the BC Developer Exchange team, PSPC's 15 day to pay, Shared Services Canada/TechNation’s Digital Marketplace, Indigenous IT procurement and employment initiatives (at ESDC and PSPC) to look for synergies and share lessons learned.
+Meet with folks doing similar/related initiatives like the [BC Developer Exchange](https://bcdevexchange.org/) team, PSPC's 15 day to pay, Shared Services Canada/[TechNation’s Digital Marketplace](https://technationcanada.ca/en/digital-marketplace/), Indigenous IT procurement and employment initiatives (at ESDC and PSPC) to look for synergies and share lessons learned.
 
-Learn about the work that the Office of Small and Medium Enterprise (OSME) does and see if your initiative provides a way to help one another.
+Learn about the work that the [Office of Small and Medium Enterprise (OSME)](https://buyandsell.gc.ca/office-of-small-and-medium-enterprises-now-procurement-assistance-canada) does and see if your initiative provides a way to help one another.
 If yes, reach out to them.
 OSME provides training to small suppliers on how to apply for government contracts.
 They know very well the challenges that suppliers face getting GC contracts and provided us lots of guidance to ensure we weren’t inadvertently creating barriers to suppliers.
 
-Connect with the folks at Canadian Digital Service (CDS).
+Connect with the folks at [Canadian Digital Service (CDS)](https://digital.canada.ca/).
 Not only are there humans there with significant open source expertise and experience, they also manage some products you might want to integrate into your initiative.
-We used CDS’ GC Notify and GC Forms as part of our pilot.
+We used CDS’ [GC Notify](https://notification.canada.ca/) and [GC Forms](https://digital.canada.ca/product-suite/) as part of our pilot.
 We created a mutually supportive relationship where CDS built and accessibility tested our web forms for free and we participated in user feedback sessions for these products.
 
 ### Have a culture of in-house agile development work and support for OSS
