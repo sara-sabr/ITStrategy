@@ -638,7 +638,9 @@
     "coparrainait",
     "BOEW",
     "précontractuelle",
-    "postcontractuelle"
+    "postcontractuelle",
+    "lecons",
+    "tirees"
   ],
   "flagWords": [],
   "import": ["node_modules/@cspell/dict-fr-fr/cspell-ext.json"],
