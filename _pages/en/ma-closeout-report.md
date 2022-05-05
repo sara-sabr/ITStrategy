@@ -89,7 +89,7 @@ Further details regarding the context and background for doing this pilot can be
 
 ### 2.2 Build and operations <!-- omit in toc -->
 
-The website for the pilot was built in-house by the IT Strategy team using GitHub pages, and WET templates.
+The website for the pilot was built in-house by the IT Strategy team using GitHub pages, and [WET templates](https://wet-boew.github.io/wet-boew/index-en.html).
 The website was hosted for free on [alpha.canada.ca](https://alpha.canada.ca/en/index.html).
 
 During the pilot, only one opportunity was posted on the pilot website.

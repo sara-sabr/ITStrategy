@@ -9,7 +9,7 @@ permalink: /pilote-de-micro-acquisition.html
 ---
 <!-- markdownlint-disable MD033 -->
 <div class="alert alert-warning">
-   <p>Le projet pilote de micro-acquisition est maintenant terminé. Vous pouvez lire les leçons apprises dans ce billet de blog (lien) et dans ce <a href="{{ site.baseurl }}{% link _pages/fr/pilote-de-micro-acquisition-les-leçons-tirées.md %}">rapport de clôture</a>.</p>
+   <p>Le projet pilote de micro-acquisition est maintenant terminé. Vous pouvez lire les leçons apprises dans ce billet de blog (lien) et dans ce <a href="{{ site.baseurl }}{% link _pages/fr/pilote-de-micro-acquisition-les-lecons-tirees.md %}">rapport de clôture</a>.</p>
 </div>
 
 ## Énoncé du problème  
