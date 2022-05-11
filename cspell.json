@@ -647,7 +647,14 @@
     "postcontractuelle",
     "lecons",
     "tirees",
-    "cloture"
+    "cloture",
+    "standups",
+    "Cognos",
+    "reqs",
+    "homeserver",
+    "l'ÉRO",
+    "desmos",
+    "microservices"
   ],
   "flagWords": [],
   "import": ["node_modules/@cspell/dict-fr-fr/cspell-ext.json"],
@@ -661,6 +668,11 @@
     "css"
   ],
   "ignoreRegExpList": [
-    "]\\(([^\\)]+)\\)"
+    "]\\(([^\\)]+)\\)",
+    "(href)(.*)",
+    "(ref)(.*)",
+    "(permalink)(.*)",
+    "({%)(.*)",
+    "({{)(.*)"
   ]
 }

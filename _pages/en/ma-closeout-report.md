@@ -400,7 +400,7 @@ It also meant that the IT Strategy team no longer had to maintain the PDF applic
 It also meant that the IT Strategy team received form information as structured data which would allow for automating the processing of the forms.
 
 Note: While having structured data would have allowed us to automate, we were unable to due to policies in place related to the ESDC rollout of O365 and power automate.
-Further details around barriers to automating the processing of the micro-acquisition form data can be found on the [IT strategy sharepoint site (internal link)](https://014gc.sharepoint.com/:f:/r/sites/IITB-ITStrategy/Shared%20Documents/STRATEGIES%20AND%20INITIATIVES/Micro-Acquisition%20pilot/Build%20and%20planning/Design/GCForms/Automation?csf=1&web=1&e=SlWVO2).
+Further details around barriers to automating the processing of the micro-acquisition form data can be found on the [IT strategy Sharepoint site (internal link)](https://014gc.sharepoint.com/:f:/r/sites/IITB-ITStrategy/Shared%20Documents/STRATEGIES%20AND%20INITIATIVES/Micro-Acquisition%20pilot/Build%20and%20planning/Design/GCForms/Automation?csf=1&web=1&e=SlWVO2).
 
 #### Stakeholder engagement <!-- omit in toc -->
 
