@@ -6,7 +6,7 @@ var markdownLinkCheck = require('markdown-link-check');
 var fs = require("fs");
 var glob = require("glob");
 var path = require("path");
-var chalk = require("chalk");
+var chalk = import("chalk");
 
 
 var files = glob.sync("**/*.md", {ignore: ["_includes/**/*.md", "node_modules/**/*.md", "_site/**/*.md"]})
