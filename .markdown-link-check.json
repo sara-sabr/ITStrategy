@@ -137,6 +137,9 @@
   },
   {
     "pattern": "https://twitter.com"
+  },
+  {
+    "pattern": "https://opensource.com"
   }
   ],
   "aliveStatusCodes": [200, 403]
