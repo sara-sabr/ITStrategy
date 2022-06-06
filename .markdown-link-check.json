@@ -139,7 +139,7 @@
     "pattern": "https://twitter.com"
   },
   {
-    "pattern": "https://opensource.com"
+    "pattern": "https://opensource.org"
   }
   ],
   "aliveStatusCodes": [200, 403]
