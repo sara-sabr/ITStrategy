@@ -20,7 +20,7 @@ Lorsque nous n’avons pas eu beaucoup d’abonnés à notre compte Twitter[^3],
 1. Il n’était pas clair quelles informations seraient trouvées en suivant le compte Twitter;
 2. Une grande partie de notre public cible n’est pas sur Twitter.
 
-Nous avons maintenant une [liste de distribution](https://forms-formulaires.alpha.canada.ca/fr/id/36) à laquelle tout le monde peut s’abonner.
+Nous avons maintenant une liste de distribution à laquelle tout le monde peut s’abonner.
 Par l’entremise de la liste de distribution (et Twitter), nous partagerons lorsque de nouvelles opportunités sont publiées et/ou mises à jour.
 Nous avons également mis à jour le texte sur la page des opportunités afin d’être plus clairs sur les informations disponibles par le biais du compte Twitter et de la liste de distribution.
 
