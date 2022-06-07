@@ -34,7 +34,7 @@
     "chalk": "^4.1.2",
     "cspell": "^5.21.1",
     "editorconfig-checker": "^4.0.2",
-    "glob": "^7.1.7",
+    "glob": "^8.0.3",
     "license-compatibility-checker": "^0.3.5",
     "licensee": "^8.2.0",
     "markdown-link-check": "^3.8.7",
