@@ -20,7 +20,7 @@ When we didn't get a lot of followers on our Twitter account[^3], we did some te
 1. It wasn't clear what information would be found by following the Twitter account; and
 2. A lot of our target audience is not on Twitter.
 
-We now have a [mailing list](https://forms-formulaires.alpha.canada.ca/id/36) that anyone can subscribe to.
+We now have a mailing list that anyone can subscribe to.
 Through the mailing list (and Twitter), we will be sharing when new opportunities are posted and/or updated.
 We also updated the text on the opportunities page to be clearer about what information is available via the Twitter account and mailing list.
 
