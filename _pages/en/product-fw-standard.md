@@ -349,7 +349,7 @@ The report includes a list of non-compliance incidents, each containing the foll
 
 ## Appendix A. Memorandum of Understanding Template
 
-Adjusted from [TBS Guidelines on Service Agreements](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=25761)):
+Adjusted from [TBS Guidelines on Service Agreements](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=25761):
 
 [Please see here]({{ site.baseurl }}/assets/files/product-mgt-fw/TEMPLATE%20-%20MOU.docx)
 
