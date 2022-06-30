@@ -529,4 +529,4 @@ The intent of this pilot framework in providing sustainable funding to product t
 
 **Non-Gated projects**: Lite Projects (for IT-enabled projects with oversight at PPOC) and Branch Initiatives (for non IT-enabled projects with oversight in Branch's own governance).
 
-[^1] See [Appendix C](#appendix-c---definitions) on official definitions and the different kinds of projects that exist
+[^1]: See [Appendix C](#appendix-c---definitions) on official definitions and the different kinds of projects that exist
