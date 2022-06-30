@@ -9,7 +9,7 @@ permalink: /product-fw-guidance.html
 ---
 <!-- markdownlint-disable MD033 -->
 
-<div class="alert alert-info" style="text-align: center;">This is a <strong>DRAFT</strong> document</div>
+<div class="alert alert-info" style="text-align: center;">This is a <strong>DRAFT (v0.4)</strong> document</div>
 
 <div class="alert alert-warning">
     <p align="center"><strong>DISCLAIMER</strong></p>
@@ -36,17 +36,28 @@ These are well documented already, such as on <a href="https://www.pmi.org/disci
   - [Roles and Responsibilities](#roles-and-responsibilities)
   - [Oversight and Reporting](#oversight-and-reporting)
   - [Consequences of Non-Compliance](#consequences-of-non-compliance)
-- [When Formal Projects Are Used](#when-formal-projects-are-used)
+- [Governance](#governance)
+  - [Governance Overview](#governance-overview)
+  - [Outcome-Based Funding of Multi-Disciplinary Product Teams](#outcome-based-funding-of-multi-disciplinary-product-teams)
+  - [When Projects Are Used](#when-projects-are-used)
+- [Role of Enterprise Architecture in Relation to Product Management](#role-of-enterprise-architecture-in-relation-to-product-management)
+  - [Organizational-level business and technology roadmaps](#organizational-level-business-and-technology-roadmaps)
+  - [Architecture services](#architecture-services)
+  - [Socialtechnical Architectures](#socialtechnical-architectures)
+  - [Common platforms to reduce cognitive loads and accelerate service delivery](#common-platforms-to-reduce-cognitive-loads-and-accelerate-service-delivery)
+  - [Application Portfolio Management (APM)](#application-portfolio-management-apm)
+- [Phase 2 of the IITB Way Forward](#phase-2-of-the-iitb-way-forward)
 - [Appendix A - Business View of Job Bank's Family of Products](#appendix-a---business-view-of-job-banks-family-of-products)
 - [Appendix B - IT View of Job Bank's Family of Products of Products](#appendix-b---it-view-of-job-banks-family-of-products-of-products)
+- [Appendix C - Definitions](#appendix-c---definitions)
 
 ## Introduction
 
 ### Document Purpose
 
-To provide guidance in implementing the [PILOT IITB Directive on Product Management](product-fw-directive.html) and its associated [Standard](product-fw-standard.html).
+To provide guidance in implementing the [Pilot IITB Directive on Product Management](product-fw-directive.html) and its associated Standards.
 
-The Directive and Standard strive to be succinct. Any context, explications, and situational awareness for the reader has been moved to this document.
+The Directive, Standard, and Procedures strive to be succinct. Any context, explications, and situational awareness for the reader has been moved to this document.
 
 ### References
 
@@ -54,6 +65,7 @@ This document provides guidance on the following documents:
 
 - **[Pilot IITB Directive on Product Management](product-fw-directive.html)**
 - **[Pilot IITB Standards on Product Management](product-fw-standard.html)**
+- **[Pilot IITB Procedures on Product Management](product-fw-procedures.html)**
 
 ### Enquiries
 
@@ -293,9 +305,9 @@ A Head of Product is believed to be executive level due to the oversight and res
 
 Sources used to define the responsibilities of roles are as follows:
 
-- **Product Manager**: from [Product Development and Management Association’s Body of Knowledge second edition](https://www.pdma.org/?), from [280group](https://280group.com/what-is-product-management/roles/product-manager/), [GOV.uk’s guidance](https://www.gov.uk/guidance/product-manager).
-- **Product Owner**: from [Info-Tech Research Group](https://www.infotech.com/research/it-product-owner)
-- **IT Security Champion**: from [SLF’s January 2021 presentation](https://014gc.sharepoint.com/:p:/r/sites/DGIIT-Gouvernance-IITB-Governance/SLFFCS/DevSecOps SLF-EN.pptx?d=wc4a2579808df446eab5b3b5b3ceedb5f&csf=1&web=1&e=VVS26e) (modified last point)
+- **Product Manager**: from [Product Development and Management Association's Body of Knowledge second edition](https://www.pdma.org/?), from [280group](https://280group.com/what-is-product-management/roles/product-manager/), [GOV.uk's guidance](https://www.gov.uk/guidance/product-manager).
+- **Product Owner**: from [Info-Tech Research Group](https://www.infotech.com/research/it-product-owner) and [Gartner](https://www.gartner.com/document/4010508)
+- **IT Security Champion**: from [SLF's January 2021 presentation](https://014gc.sharepoint.com/:p:/r/sites/DGIIT-Gouvernance-IITB-Governance/SLFFCS/DevSecOps SLF-EN.pptx?d=wc4a2579808df446eab5b3b5b3ceedb5f&csf=1&web=1&e=VVS26e) (modified last point)
 - **Change Coordinator**: from [Info-Tech Research Group](https://www.infotech.com/research/change-manager)
 
 An optional dashboard for Product Managers and Owners to use in order to help quantify the types of work being managed, and so help with IT Manager communications, is the monthly workload distribution dashboard.
@@ -324,8 +336,8 @@ Striving to provide as much autonomy as possible to product teams while upholdin
 1. The **Product's Roadmap**. The Product Team may use more than one “view” of the product roadmap's for its internal coordination and communication. For this Directive, Corporate will seek to have an executive level view of the milestones and outcomes expected to be obtained over a fiscal year.
 2. **Release Retrospectives**. Product Management seeks to continuously improve using evidence-based decision making. Every change release of a product needs to be evaluated against the desired outcomes that were sought in that release and analyzed on their successful or negative results. The timing of such retrospectives is left at the discretion of the product team (e.g. do retrospectives 2 months after a release so to give sufficient time for data to be generated).
 3. **Software Delivery Performance Metrics**. The [DevOps Research and Assessment (DORA) Institute](https://www.devops-research.com/research.html), now bought by Google, researched the four key metrics that define high performing technology organizations. In addition to the above retrospectives on business outcomes, the product team should strive to continuously improve its software delivery capabilities. These DORA metrics are meant to show Corporate that the product team is making improvements in that regards and takes serious consideration on the effects that creeping technical debt, quality, and cyber security has on the health of their product(s).
-4. **A Risk Register**. Same as in project management, Corporate authorities needs to be assured that the product team understands the risks that change can have on their product and the organization. It is expected that product team will be disciplined in identifying risks to their operations and know how to handle them. A typical source of risk is the “Threats” identify after performing SWOT analyses.
-5. **Endorsement of the Product Roadmap**. In order to ensure that the product team accounts for IT’s interests, which affects the CIO’s accountability such as software patching, technical debt remediation, and cyber security risks, the Head of Product is asked to have their Product Roadmap endorsed at PPRC as part of the product team’s yearly funding cycle.
+4. **A Risk Register**. Same as in project management, Corporate authorities needs to be assured that the product team understands the risks that change can have on their product and the organization. It is expected that product team will be disciplined in identifying risks to their operations and know how to handle them. A typical source of risk is the “Threats” identify after performing SWOT analyses. The [ESDC Guide to Risk Management](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Guide%20to%20Risk%20Management.pdf) may be leveraged.
+5. **Endorsement of the Product Roadmap**. In order to ensure that the product team accounts for IT's interests, which affects the CIO's accountability such as software patching, technical debt remediation, and cyber security risks, the Head of Product is asked to have their Product Roadmap endorsed at PPRC as part of the product team's yearly funding cycle.
 
 ### Consequences of Non-Compliance
 
@@ -344,13 +356,150 @@ As expertise in Agile methods and DevSecOps are expected to be required, IITB is
 - Agile Training (e.g. using the Interoperability team's services)
 - Product Management Training (e.g. using external firm services)
 
-## When Formal Projects Are Used
+## Governance
 
-This section will provide guidance on when formal projects are used…. Soon to develop…
+This section helps situate product teams work within the [greater corporate governance landscape](https://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/SitePages/Governance.aspx).
 
-**Projects**: is defined by the Treasury Board as “an activity or series of activities that has a beginning and an end. A project is required to produce defined outputs and realize specific outcomes in support of a public policy objective, within a clear schedule and resource plan. A project is undertaken within specific time, cost, and performance parameters.” (source: [PPPM](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All Documents/Policy on Project and Programme Management.pdf))
+The pilot product management framework leverages existing governance bodies (e.g. PPRC) and instruments (e.g. release management), it does not replace them.
 
-**Formal Projects**: projects to be formalized at corporate committees (e.g. Investment Projects, Lite Projects, Branch Initiatives)
+### Governance Overview
+
+<figure>
+<a href="{{ site.baseurl }}/assets/images/product-mgt-fw/governance-overview.png">
+        <img class="center" src="{{ site.baseurl }}/assets/images/product-mgt-fw/governance-overview.png"
+        alt="This image depicts the different corporate committees involved in the Product Management domain. A cloud labeled Funding Approval ??? represents uncertainty as to which committee is to approve funding for the product team. The Project Portfolio Operations Committee (PPOC) reports to the Project Portfolio Review Committee (PPRC). PPRC may seek advice from the Architecture Review Committee (ARC). The Change Advisory Board (CAB) reports to the Operations and Change Management Committee (OCMC)."
+        />
+  </a>
+    <figcaption>Figure 7. Governance Overview</figcaption>
+</figure>
+
+| Governance Body | Role within Product Management |
+|-----------------|------------------------------------------------------------------------|
+| PPRC            | Oversees the spending of IT-related funds and approves the yearly product roadmap. May seek recommendations from ARC on product roadmap-related outcomes. |
+| PPOC            | Tracks spending of IT funds towards the product roadmap. Tracks non-compliances incident. Reports information to PPRC|
+| ARC             | Provides advice and recommendations to PPRC on alignment of the product roadmap's to the departmental direction and standards |
+| CAB             |Provides advice and recommendations to PPRC on alignment of the product roadmap's to the departmental direction and standards. Oversees changes to the IT infrastructure. Establishes the release management process that product teams are to use.|
+| ???             | Approves the multi-year funding envelop for a product team. Funding that will be for both operational activities (e.g. support and maintenance) as well as some “grow” type activities (e.g. improvements).|
+
+### Outcome-Based Funding of Multi-Disciplinary Product Teams
+
+The approach to fund multi-disciplinary teams leverages existing ESDC corporate instruments, such as investment projects and funding pressures, and seeks to capitalize on the benefits of loose coupling architectures (see next section on the role of Enterprise Architecture).
+
+The goals of this approach are as follows:
+
+1. Position the funding responsibility on the Sponsoring Branch (not IITB)
+2. Leverage existing fund pressure instruments to increase product team capacity
+3. Establish dedicated IT personnel for a Sponsoring Branch
+
+Funding of product teams come in two methods, both of which use outcomes to justify funding:
+
+1. As part of the base funding envelop provided at the team's creation
+2. As part of funding pressures due to increase in demands for the product team (typically coming from investment projects)
+
+The base funding envelop is set as part of the MOU between IITB and the Sponsoring Branch.
+
+A new multi-disciplinary team will be created as part of an investment project. This because the justification for their existence requires a product to be created (see definition of “product” in the Directive and the guidance above on the use of projects in product management). It is the responsibility of the investment project to accurately determine the size of the team that will not only operate the product but perform continuous improvements on it over the years. As per the Directive's requirement, key information for the creation of the product team is:
+
+1. Secured sources of funds that will be used to sustain its costs over the years
+2. A complete budget (both business and IT costs)
+3. The Sponsoring Branch
+
+As part of this transition from project team to product team, the amount of IT personnel to make members of the new product team to fund will be identified. The Sponsoring Branch will transfer the funds necessary to support IT personnel to IITB. IITB will hire the IT personnel.
+
+When new demands is brought to the product team (such as from non-gated projects, or from investment projects), the team's Product Manager assess whether sufficient capacity exists for the team to supply that demand. Should capacity needs increasing, the funding pressure, even for IT work, is placed on the Sponsoring Branch. The Sponsoring Branch will negotiate with its financial advisors on options to available to it (such as negotiating with the Investment Project Sponsor to use their approved sources of funds).
+
+The Sponsoring Branch also performs its prioritization of demands on their Sponsored multi-disciplinary product teams. For example, if the Sponsoring Branch only has a $4M budget to sustain two multi-disciplinary product teams and cannot increase its capacity, it will need to decide on which priorities can its two sponsored teams can focus on.
+
+### When Projects Are Used
+
+Projects[^1] are used as part of product management.
+This section will provide guidance on when “formal projects” are used and their purpose (i.e. work formalized at corporate committees for oversight, such as investment projects and non-gated projects like Lite Projets).
+
+**Investment Projects** are a response to a policy objective. They provide the necessary oversight for sound stewardship of public funds, ensure success focused on benefits, and alignment to departmental and government level priorities. As such, Investment Projects are expected to adjust ESDC products visions and roadmaps to align to such priorities, and are most likely the instigator of new products and their associated teams.
+
+Investment Projects are governed by DGPOC and MPIB which grants permissions to use funds (contrary to popular belief DGPOC and MPIB does not give money). Investment Projects are therefore instruments that product teams can use to increase their capacity when demands surpass their ability to supply it. Project Sponsors should therefore involve Product Managers early on in the project planning phase to negotiate with them how their permissions to use funds can be used to meet project objectives.
+
+**Non-Gated projects** such as the Lite Project may be used to coordinate work across product teams and compete for prioritization of work. These are expected to be leveraged when work requires the coordination with members outside of the product team. When a product team requires the involvement of another team (e.g. Job Bank product team requires the involvement of the Data Analytics Services team), this triggers two things:
+
+1. Increase in demand for the DAS team, prompting them to do funding pressures should they not be able to supply this demand
+2. Prioritization of work for the DAS team, that is which of their demands from their backlog must they accomplish at a given time.
+
+Both these triggers leverage projects since funding pressure and portfolio prioritization decisions require projects.
+
+## Role of Enterprise Architecture in Relation to Product Management
+
+This section does not attempt to describe what Enterprise Architecture is. This section focuses on how Enterprise Architecture and product teams benefit from each other.
+
+Both the Enterprise Architecture function and the product teams provide insights to each other and so personnel in both areas must work closely together.
+
+### Organizational-level business and technology roadmaps
+
+Enterprise architecture provides the organization-level business and technology roadmaps to product management which is an input into evolving the vision and roadmaps for a given product, identifying new potential features, and aligning to the greater departmental-level direction.
+
+This information produced by the Enterprise Architecture function acts as input to the product team by:
+
+1. Supporting a product's purpose, in relation to the departmental mandate and Program objectives
+2. Informing a product's ever changing roadmap in terms of new features and compliance gap remediation
+3. Justifying investment decisions into the product
+
+Product teams also provide inputs to the Enterprise Architecture function by providing their product roadmaps to inform evolving enterprise architecture in relation to:
+
+1. Emerging technological standards (product teams have a level of autonomy to acquire new technical stacks as long as it doesn't increase its cognitive load and conforms with IM/IT security and accessibility policies).
+2. Limitations of current technology standards (e.g. explanations why certain standards are limiting product team performance or their ability to conform with policies).
+3. Capability gaps that the enterprise may want to invest in in order to reduce cognitive load to product teams (e.g. investing in a common service)
+
+### Architecture services
+
+Enterprise Architecture provide services to product teams to share insights and expert advice. Such services are expected to be sought by the Product Manager and the IT Manager when informing their product roadmap.
+Example of services include:
+
+1. Providing expert advice on specialized topics (e.g. chatbots, public cloud architectures, migration pathways, new policies that the product team may not be aware of)
+2. Identifying opportunities for re-use (e.g. a new common service available to product team via an API)
+3. Mitigating organizational risks (e.g. cyber security, privacy, ethics)
+4. Ensuring quality and consistency of architectural artefacts making it easier to share information and move between teams.
+
+### Socialtechnical Architectures
+
+Enterprise Architecture is involved in Projects, which act as responses to policy objectives. When projects require creating new or modifying existing digital solutions (that is, solutions that leverage software), Enterprise Architecture acts to ensure digital solutions are architected not only to align to departmental directions, but also to enable product teams to focus on value creation and provide them with the autonomy they seek.
+
+The industry trend is to refer to this as [socialtechnical architectures](https://esilva.net/sociotechnical/sociotechnical-architecture_traits-and-strategies.html).
+
+When digital solutions are built from loosely coupled, highly cohesive components it is easier to spread work across smaller teams. This reduces overall risk and organizational complexity, which in turn reduces time-to-delivery and enables teams to more quickly address cyber security vulnerabilities. The following [cell-based reference architecture from WSO2 Inc.](https://github.com/wso2/reference-architecture/blob/master/reference-architecture-cell-based.md#introduction) explains adapting Enterprise Architecture to capitalize on this opportunity.
+
+Enterprise Architecture works on behalf of product teams to ensure departmental investments will benefit the personnel that will operate the solutions.
+
+### Common platforms to reduce cognitive loads and accelerate service delivery
+
+Enterprise Architecture directs the organization to invest in common platforms as a means to not only save costs but also reduce cognitive load to product teams.
+
+Common infrastructure enables continuous delivery by value streams. When there is a common technical infrastructure to delivery teams to deploy into it is easier to deploy. The easier it is to deploy, the more often it makes sense to deploy.
+
+### Application Portfolio Management (APM)
+
+The APM function within Enterprise Architecture acts as a business intelligence by providing the organization with health indicators of its application portfolios.
+
+As Products involves one or more applications from the APM inventory (e.g. Job Bank involves two main ones), Product Teams are required to keep their APM inventory up to date.
+
+The Enterprise Architecture function leverages the APM information to map the organization application capabilities (e.g. how the “Identity and Access Management” application capability is being used by a particular Product Team).
+
+The Business Architecture side of the Enterprise Architecture spans wider than the Product Team's scope. As Products are used to enable certain business capabilities, it is expected that the mapping of a given product to a particular Business Capability will occur as part of a Project. Improvements of an existing product is unlikely to involve creating new or competing with existing business capabilities due to the limited funding envelop that a product team will have, and with PPRC's oversight of the investment.
+
+## Phase 2 of the IITB Way Forward
+
+In 2021, IITB re-organized itself as part of the [Phase 2 of its IITB Way Forward plan](https://esdc.prv/en/iitb/corporate/cio_priorities/messages/2021/2021_03_29.shtml). This re-org was informed from a [2020 independent study](https://014gc.sharepoint.com/:p:/r/sites/IITB-ITStrategy/Shared%20Documents/General/PWC%20TOM%20and%20Phase%202%20of%20the%20IITB%20Way%20Forward/SLF%20IITB%20Independent%20Review%20-%20Executive%20Presentation%20-%20February%202021%20-%20En.pptx?d=w4c2542ffec7b4406a15e03a5d15496ff&csf=1&web=1&e=dWZdcf), mandated by the CIO and conducted by the PricewaterhouseCoopers firm.
+
+The re-org is based on a product management model that follows a portfolio centric delivery environment supported by common services.
+
+The intent of this pilot framework in providing sustainable funding to product teams for certain continuous improvement activities, and the guidance provided using team topologies concepts, aligns to the IITB Way Forward plan.
+
+<figure>
+<a href="{{ site.baseurl }}/assets/images/product-mg-fw/iitb-way-forward-tom.png">
+        <img class="center" src="{{ site.baseurl }}/assets/images/product-mgt-fw/iitb-way-forward-tom.png"
+        alt="This image depicts IITB's Target Operating Model. It is based on a portfolio centric delivery environment supported by common services. It contains high level capabilities that each contain sub-level capabilities. From left to right we have IITB clients (business portfolios, supporting portfolios, employee end-user, and non-employee end-user). IITB Channels (formal and informal). IITB Services (standard, non-standard). The right half of the image is split into three main rows. Top row are capabilities Strategy and Leadership, Branch Planning and Corporate Services. Middle row is a rolodex labeled Business Program/Line of Business (LOB) Portfolio Management that is hooked to the right on a Hub Capabilities. The last row includes Digital Risk and Resilience, Technology Delivery and Operations."
+        />
+  </a>
+    <figcaption>Figure 8. IITB Way Forward Target Operating Model</figcaption>
+</figure>
 
 ## Appendix A - Business View of Job Bank's Family of Products
 
@@ -371,3 +520,13 @@ This section will provide guidance on when formal projects are used…. Soon to 
         />
   </a>
 </figure>
+
+## Appendix C - Definitions
+
+**Projects**: is defined by the Treasury Board as “an activity or series of activities that has a beginning and an end. A project is required to produce defined outputs and realize specific outcomes in support of a public policy objective, within a clear schedule and resource plan. A project is undertaken within specific time, cost, and performance parameters.” (source: [PPPM](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Policy%20on%20Project%20and%20Programme%20Management.pdf))
+
+**Investment Projects**: As per the [ESDC Policy on Project and Programme Management](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Policy%20on%20Project%20and%20Programme%20Management.pdf), section 8.2, these are the “gated projects” used by ESDC with oversight at either DGPOC or MPIB.
+
+**Non-Gated projects**: Lite Projects (for IT-enabled projects with oversight at PPOC) and Branch Initiatives (for non IT-enabled projects with oversight in Branch's own governance).
+
+[^1] See [Appendix C](#appendix-c---definitions) on official definitions and the different kinds of projects that exist
