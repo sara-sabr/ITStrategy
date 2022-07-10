@@ -446,38 +446,40 @@ This section links this strategy to GC and ESDC legislations, policies, directiv
 
 Mandate letters outline the objectives that each minister seeks to accomplish, as well as pressing challenges to be addressed in their role.
 
-The [Minister of Digital Government](https://pm.gc.ca/en/mandate-letters/2019/12/13/minister-digital-government-mandate-letter) mandate letter outlined the following top priority:
+The [President of the Treasury Board](https://pm.gc.ca/en/mandate-letters/2021/12/16/president-treasury-board-mandate-letter) mandate letter outlined the following top priority:
 
-> Encourage the use and development of open source products and open data, allowing for experimentation within existing policy directives and building an inventory of validated and secure applications that can be used by government to share knowledge and expertise to support innovation.
+> - [...] emphasis on increasing the number of public servants with modern digital skills;
+> - [...] ensure that full consideration is given to leveraging digital delivery approaches throughout the development of major projects;
+> - [...] update and replace outdated IT systems and modernize the way government delivers benefits and services;
+> - [...] champion for Digital Standards, utilize more agile, open and user-focused methods when designing services;
+> - Further expanding open data initiatives and making more data available digitally.
 
-The [Minister of Employment, Workforce Development and Disability Inclusion](https://pm.gc.ca/en/mandate-letters/2019/12/13/minister-employment-workforce-development-and-disability-inclusion) and the [Minister of Families, Children and Social Development](https://pm.gc.ca/en/mandate-letters/2019/12/13/minister-families-children-and-social-development-mandate-letter) mandate letters outlined the following top priorities:
+The [Minister of Employment, Workforce Development and Disability Inclusion](https://pm.gc.ca/en/mandate-letters/2021/12/16/minister-employment-workforce-development-and-disability-inclusion) and the [Minister of Families, Children and Social Development](https://pm.gc.ca/en/mandate-letters/2021/12/16/minister-families-children-and-social-development-mandate-letter) mandate letters outlined the following top priorities:
 
-> - [...] commitment to govern in a positive, open and collaborative way.
-> - [...] continue to raise the bar on openness, effectiveness and transparency in government.
-> - This means a government that is open by default.
-> - [...] better digital capacity and services for Canadians.
+> *Open and Accountable Government* sets out these core principles and the standards of conduct expected of you and your office.
 
 ### Digital Standards <!-- omit in toc -->
 
 The [GC's Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html) form the foundation of the government's shift to becoming more agile, open, and user-focused.
 In order to design digital services to better serve Canadians, the Standards lead teams to:
 
-> - Work in the open by default
-> - Use open standards and solutions
-> - Collaborate widely
+> - Work in the open by default - Share evidence, research and decision making openly
+> - Use open standards and solutions - Leverage open standards and embrace leading practices, including the use of open source software
+> - Collaborate widely - Identify and create partnerships which help deliver value to users
 
-### Mandatory procedures for EA assessment <!-- omit in toc -->
+## Enterprise Architecture Framework <!-- omit in toc -->
 
-The [Mandatory Procedures for Enterprise Architecture Assessment](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602) (Appendix A of the [Directive on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601)) are used by departmental architecture review boards and the GC enterprise architecture review board (EARB) as an assessment framework to review digital initiatives, in order to ensure the GC acts as a single enterprise and is well aligned to its digital direction.
-The procedures stipulate the following:
+The [GC's Enterprise Architecture Framework](https://www.canada.ca/en/government/system/digital-government/policies-standards/government-canada-enterprise-architecture-framework.html) is the criteria used by the GC enterprise architecture review board (EARB) and departmental architecture review boards when reviewing digital initiatives to ensure their alignment with enterprise architectures across business, information, application, technology and security domains to support strategic outcomes.
+The framework stipulate the following:
 
-> - Data should only be purchased once and should align with international standards
-> - Data should be shared openly by default as per the Directive on Open Government
-> - Where possible, use open standards and open source software first
-> - All source code must be released under an appropriate open source software license
-> - Share code publicly when appropriate, and when not, share within the Government of Canada
-> - Design for cloud mobility and develop an exit strategy to avoid vendor lock-in
-> - Model business processes using Business Process Management Notation (BPMN) to identify common enterprise processes
+> - Reuse common business capabilities, processes and enterprise solutions from across government and private sector
+> - Publish in the open all reusable common business capabilities, processes and enterprise solutions for others to develop and leverage cohesive horizontal enterprise services
+> - Ensure data are managed to enable interoperability, reuse and sharing to the greatest extent possible within and across departments to avoid duplication and maximize utility
+> - Share data openly by default; adhere to existing enterprise and international standards, including on data quality and ethics
+> - Ensure data formatting aligns to existing enterprise and international standards on interoperability; where none exist, develop data standards in the open with key subject matter experts
+> - Use open source solutions hosted in public cloud; select existing solutions that can be reused over custom built; contribute all improvements back to the communities
+> - Design systems as highly modular and loosely coupled services
+> - Design for cloud mobility and develop an exit strategy to avoid vendor lock‑in
 
 ### ESDC OSS Management Framework <!-- omit in toc -->
 
@@ -492,7 +494,7 @@ Some short-term recommendations are:
 ### Digital Nations Charter <!-- omit in toc -->
 
 The [Digital Nations](https://www.canada.ca/en/government/system/digital-government/digital-nations.html) is a collaborative forum of the world's leading digital governments that uses technology to improve citizens’ services in Canada and globally.
-At the 2019 Digital Nations Ministerial Summit, the [Digital Nations Charter](https://www.canada.ca/en/government/system/digital-government/improving-digital-services/digital9charter.html) was endorsed as a mutual commitment to digital government service development and leadership.
+At the 2019 Digital Nations Ministerial Summit, the [Digital Nations Charter](https://www.canada.ca/en/government/system/digital-government/improving-digital-services/digital-nations-charter.html) was endorsed as a mutual commitment to digital government service development and leadership.
 Some of the principles that the participants have committed to working towards fulfilling:
 
 > - Promote interoperability of digital technologies, including by adopting a credible royalty free open standards policy;
@@ -509,10 +511,9 @@ The [Directive on Open Government](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id
 
 ### Open Government Partnership <!-- omit in toc -->
 
-The [Open Government Partnership](https://www.opengovpartnership.org/members/canada/) (OGP) is a global multilateral initiative with the core objective of securing solid commitments from governments to promote transparency, empower citizens, fight corruption, and harness new technologies to strengthen governance, in partnership with civil society and the private sector.
+Open government is about making government more accessible to everyone and ensuring that government coding, datasets and information are available to use. Since joining in 2012, Canada has been an active member, and co-chair (2017 to 2020), of the [Open Government Partnership](https://www.opengovpartnership.org/members/canada/) (OGP).
 
-Canada has been an active OGP member since 2012; its accomplishments in open government have been recognized on a global scale.
-In March 2017, Canada was elected to the Steering Committee of the OGP for a 3-year term.
+Canada has taken an international leadership role in this area in order to empower civil society, share ideas about accountability and transparency, and model anti‑corruption measures. The OGP is also an opportunity for us to learn from leading countries in the open government space.
 
 #### 2018-2020 National Action Plan on Open Government <!-- omit in toc -->
 
@@ -525,15 +526,18 @@ These are some commitments:
 > - [...] provide a plan for greater openness in federal science and research activities
 > - prioritize open source code in developing digital solutions
 
+ESDC is identified as a lead department in the plan.
+
 ### Policy on Service and Digital <!-- omit in toc -->
 
 The [Policy on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603) and its supporting instruments serve as an integrated set of rules that set out how GC organizations manage service delivery, information and data, information technology, and cyber security in the digital era.
 These rules include areas of responsibility for the CIO of Canada and deputy heads across the GC.
 
-> - The CIO of Canada is responsible for: [...] Establishing [guidance](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/open-source-software.html) to support innovative practices and technologies, including open-source and open-standard applications, and agile application development.
+> - The CIO of Canada is responsible for: [...] Establishing guidance to support innovative practices and technologies, including open-source and open-standard applications, and agile application development.
 > - Deputy heads are responsible for: [...]
->   - Maximizing the release of departmental information and data as an open resource, discoverable through the Government of Canada open government portal...
->   - Providing authorized users of the departmental electronic network and of departmental devices with open access to the Internet, including Government of Canada and external Web 2.0 tools and services that enhance productivity, communication and open collaboration...
+>   - Maximizing the release of departmental information and data as an open resource, discoverable through the GC open government portal designated by the Treasury Board of Canada Secretariat, while respecting information security, privacy, and legal considerations.
+>   - Prioritizing departmental information and data to be added to the GC open government portal, informed by public demand.
+>   - Providing authorized users of the departmental electronic network and of departmental devices with open access to the Internet, including Government of Canada and external Web 2.0 tools and services that enhance productivity, communication and open collaboration.
 
 #### Directive on Automated Decision-Making <!-- omit in toc -->
 
