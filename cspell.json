@@ -647,7 +647,9 @@
     "postcontractuelle",
     "lecons",
     "tirees",
-    "cloture"
+    "cloture",
+    "Socialtechnical",
+    "PricewaterhouseCoopers"
   ],
   "flagWords": [],
   "import": ["node_modules/@cspell/dict-fr-fr/cspell-ext.json"],

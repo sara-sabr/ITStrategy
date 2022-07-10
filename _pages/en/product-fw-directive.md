@@ -9,7 +9,7 @@ permalink: /product-fw-directive.html
 ---
 <!-- markdownlint-disable MD033 -->
 
-<div class="alert alert-info" style="text-align: center;">This is a <strong>DRAFT</strong> document</div>
+<div class="alert alert-info" style="text-align: center;">This is a <strong>DRAFT (v0.4)</strong> document</div>
 
 <div class="alert alert-warning">
     <p align="center"><strong>DISCLAIMER</strong></p>
@@ -59,16 +59,17 @@ The Director General, Strategy, Architecture, and Business Relations (SABR) has 
 
 **_Application_**
 
-This **pilot** directive applies to all ESDC personnel accountable or responsible for the JobBank and MyESDC (whether it be designing, improving, or operating them).
+This **pilot** directive applies to all ESDC personnel accountable or responsible for the JobBank (whether it be designing, improving, or operating them).
 
 **_Exception_**
 
-Software-based products other than Job Bank and MyESDC.
+Software-based products other than Job Bank.
 
 ## Objectives
 
-1. ESDC Program Areas and IITB are provided with clear direction and consistency in applying Product Management.
-2. Set mandatory requirements for the funding of product teams that will manage software-based products by the Innovation, Information and Technology Branch (IITB) and a Sponsoring Branch.
+1. ESDC Program Areas and IITB are provided with clear direction and consistency in enabling Product Management for software-based products by differentiating ongoing software enhancements from projects during a product's lifecycle.
+2. Set mandatory requirements for the funding of dedicated product teams that will manage software-based products by the Innovation, Information and Technology Branch (IITB) and a Sponsoring Branch.
+3. Set expectations for product teams in terms of responsibilities and their fit within the greater enterprise landscape.
 
 ## Requirements
 
@@ -81,7 +82,7 @@ Software-based products other than Job Bank and MyESDC.
 5. The Product Team's internal governance structure is documented as per the [IITB Standard on Product Management](product-fw-standard.html#product-team-governance-structure)
 6. The location(s) of the Product Team's requirement repository are kept up to date
 7. The description of the service(s) that the Product Team enables are kept up to date
-8. The inventory of applications from the Corporate Solution Directory (APM) that the product team manages as products is kept up to date
+8. The inventory of applications from the Corporate Solution Directory (APM Program) that the product team manages as products is kept up to date
 9. Information about the product team is documented as per the [IITB Standard on Product Management](product-fw-standard.html#product-team-brief)
 10. The agreement between IITB and the Sponsoring Branch is formalized in a Memorandum of Understanding (MOU) as per the [IITB Standard on Product Management](product-fw-standard.html#memorandum-of-understanding-mou)
 11. Funding pressures for the Product Team is on the Sponsoring Branch
@@ -89,12 +90,13 @@ Software-based products other than Job Bank and MyESDC.
 ### Roles and Responsibilities
 
 1. The Product Team has the following roles assigned:
-    - A single Head of Product, as per the [IITB Standard on Product Management](product-fw-standard.html#head-of-product-role)
-    - One or more Product Manager, as per the [IITB Standard on Product Management](product-fw-standard.html#product-manager-role)
-    - One or more Product Owner role, as per the [IITB Standard on Product Management](product-fw-standard.html#product-owner-role)
-    - One or more IT Security Champion, as per the [IITB Standard on Product Management](product-fw-standard.html#it-security-champion-role)
-    - One or more Change Coordinator, as per the [IITB Standard on Product Management](product-fw-standard.html#change-coordinator-role)
-    - One or more Product Support Manager, as per the [IITB Standard on Product Management](product-fw-standard.html#product-support-manager-role)
+    - A single **Head of Product**, as per the [IITB Standard on Product Management](product-fw-standard.html#head-of-product-role)
+    - One or more **Product Manager**, as per the [IITB Standard on Product Management](product-fw-standard.html#product-manager-role)
+    - One or more **Product Owner**, as per the [IITB Standard on Product Management](product-fw-standard.html#product-owner-role)
+    - One or more **IT Security Champion**, as per the [IITB Standard on Product Management](product-fw-standard.html#it-security-champion-role)
+    - One or more **Change Coordinator**, as per the [IITB Standard on Product Management](product-fw-standard.html#change-coordinator-role)
+    - One or more **Product Support Manager**, as per the [IITB Standard on Product Management](product-fw-standard.html#product-support-manager-role)
+    - One or more **IT Manager**, as per the [IITB Standard on Product Management](product-fw-standard.html#it-manager-role)
 
 ### Oversight and Reporting
 
@@ -106,7 +108,7 @@ Software-based products other than Job Bank and MyESDC.
 
 ## Consequences of Non-Compliance
 
-The approach for non-compliance will be one where the severity of the consequences are gradually increased over time, at the judgement of both IITB and the Sponsoring Branch, as follows:
+Consequences of non-compliance is approached by gradually increasing the severity of the consequences over time, at the judgement of both IITB and the Sponsoring Branch, as follows:
 
 - Receiving a notification of non-compliance
 - Requiring to explain reasons of non-compliance at a gradual level of committee engagement:
@@ -115,7 +117,6 @@ The approach for non-compliance will be one where the severity of the consequenc
   - At Corporate Management Committee (CMC) for a third time explanation
 - Requiring the product team members to go on product management and Agile training, at the sponsoring Branch's costs
 - Requiring to have the Product's Roadmap endorsed by the Architecture Review Committee (ARC) as part of the product team's yearly funding renewal
-- Requiring to have the Product's Roadmap endorsed by PPRC as part of the product team's yearly funding renewal
 - Cancellation of the MOU between the Sponsoring Branch and the CIO in funding cross-branch product teams
 
 PPOC produces a non-compliance report as per [IITB Standard on Product Management](product-fw-standard.html#non-compliance-report).
@@ -150,6 +151,7 @@ PPRC decides the consequences of a non-compliance.
 **IITB Supporting Documents**
 
 - [Pilot IITB Procedures on Product Management](product-fw-procedures.html)
+- [Pilot IITB Guidance on Product Management](product-fw-guidance.html)
 
 **TBS Guidance**
 
@@ -158,10 +160,28 @@ PPRC decides the consequences of a non-compliance.
 <!-- markdownlint-enable MD036 -->
 ## Appendix A. Definitions
 
+**“Enhancement”**: refers to adding features as new requirements or process improvements to enhance an existing solution in terms of performance, appearance, function, operation, platform, and usability.
+
+(source: draft definition from Project and Programme Management Practice Working Group, subject to change as it is being peer reviewed, will ultimately be added as part of the Policy on Project and Programme Management)
+
+**“Initiative”**: is an organisation's response to meet a Government's committed priority, solve a problem, and/or introduce an improvement in the way the organisation functions or delivers programs and services to clients.  
+
+It can range from, for example, minor updates to operational procedures, a key acquisition, or the implementation of a new tool; legislative, regulatory and policy changes that introduce or modify how and to whom programs are delivered; as well as projects and programmes that fundamentally alter the way the department delivers benefits and services.  
+
+Initiatives are designed to help the organisation achieve its target performance. These are outside of the organisation's day-to-day operational activities that are implemented with the goal of achieving specific and measurable outcomes.
+
+(source: draft definition from Project and Programme Management Practice Working Group, subject to change as it is being peer reviewed, will ultimately be added as part of the Policy on Project and Programme Management)
+
 **“Product”**: A business output that is the result of a project used for continuous improvement on an existing solution or service, the value of which is realized and delivered as part of ESDC's Program mandate, and which services external or internal stakeholders, and delivers or improves business capabilities or client experience.
 
-(source: draft definition from Project and Programme Management Practice Working Group)
+(source: [draft definition](https://014gc.sharepoint.com/:w:/r/sites/BU6579694/_layouts/15/Doc.aspx?sourcedoc=%7B6571F90D-409A-4998-827A-3307FCFBE3F5%7D&file=2-01PL-182E-Project%20and%20Programme%20Management%20Policy%20on-v1.0.docx&action=default&mobileredirect=true) from Project and Programme Management Practice Working Group, subject to change as it is being peer reviewed, will ultimately be added as part of the Policy on Project and Programme Management)
 
 **“Sponsoring Branch”**: A Program or Corporate area other than IITB that is seeking to get into an agreement with IITB to sponsor a cross-branch product team that includes IT Staff.
 
 **“Pilot”**: A project that serves as a model for subsequent projects (source: [Termium Plus](https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-eng.html?lang=eng&i=1&srchtxt=pilot&codom2nd_wet=AE#resultrecs))
+
+**“Product Management”**: is defined by ESDC as the process of applying a continuous improvement mindset and practices to design, develop, and deliver value-added business and/or IT capabilities aligned to departmental priorities and objectives to clients (external, such as a Canadian citizen or organization; internal, such as a federal employee or department).
+
+(source: [draft update to the PPPM](https://014gc.sharepoint.com/:w:/r/sites/BU6579694/_layouts/15/Doc.aspx?sourcedoc=%7B6571F90D-409A-4998-827A-3307FCFBE3F5%7D&file=2-01PL-182E-Project%20and%20Programme%20Management%20Policy%20on-v1.0.docx&action=default&mobileredirect=true))
+
+**“Product Team”**: A grouping of individuals (a team) that are responsible for a product's development and operations. The team is cross-branch, meaning its members comes from more than one branch (e.g. specific individuals from both IITB and SEB form a single team). The team is cross-functional, meaning it embeds multiple functions that may traditionally be segregated in an organization (such as software development, testing, and operation, marketing, policy making).
