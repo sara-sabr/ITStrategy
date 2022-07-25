@@ -649,7 +649,8 @@
     "tirees",
     "cloture",
     "Socialtechnical",
-    "PricewaterhouseCoopers"
+    "PricewaterhouseCoopers",
+    "ECRP"
   ],
   "flagWords": [],
   "import": ["node_modules/@cspell/dict-fr-fr/cspell-ext.json"],
