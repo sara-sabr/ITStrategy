@@ -72,8 +72,8 @@ Using those 6 types of activities, it should then be possible to forecast a budg
 If we map those activities over a product's life span, we can expect them to fluctuate over time.
 
 <figure>
-<a href="{{ site.baseurl }}/assets/images/funding-software-from-cradle-to-grage.png">
-        <img class="center" src="{{ site.baseurl }}/assets/images/funding-software-from-cradle-to-grage.png"
+<a href="{{ site.baseurl }}/assets/images/funding-software-from-cradle-to-grave.png">
+        <img class="center" src="{{ site.baseurl }}/assets/images/funding-software-from-cradle-to-grave.png"
         alt="The image visualizes the different activities mentioned over the progress of time. At the product Lifecycle depicted in three phase: Creation, Operation and Improvements, and Decommission. Under each phase are small squares representing years (Year n, Year n+1, etc.). Above the Lifecycle are activities colour coded. Each size of the activities vary over time, with green (features) being dominant at the creation phase, then diminishing over time, and making way to other activities like improvements, sustainability, maintenance. There is a line horizontally above those set of activities representing the team capacity. When activities pass above that line, it highlights that the team's capacity is not sufficient."
         />
   </a>
