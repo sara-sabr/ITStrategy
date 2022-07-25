@@ -100,7 +100,7 @@ However, passing the [TB mandated gates](https://www.tbs-sct.canada.ca/pol/doc-e
   <figcaption>Figure 3. Passing Decision Gates in an Investment Project</figcaption>
 </figure>
 
-At ESDC, an “investment project” is the term used for gated projects. [Major Projects](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Project%20Life%20Cycle%20-%20Major.pdf) (typically, projects above $5M), have 5 decision gates in their lifecycle.
+At ESDC, an “investment project” is the term used for gated projects. [Major Projects](https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Project%20Life%20Cycle%20-%20Major.pdf) (typically, projects above $5M), have 6 decision gates in their lifecycle.
 
 Feature-related work _should_ be done during stages  1 and 2. This includes performing discovery work such as user research, sandbox experimentation, prototyping, and even alpha releases. This means engaging product developers, not just Enterprise Architecture, to better understand what we're getting ourselves into.
 
