@@ -65,7 +65,7 @@ We can categorize those activities as follows:
 
 **Support**: bug fixing, outage remediation, disaster recovery, help desk support, and documentation.
 
-**Infrastructure**: public cloud subscriptions, SSC   managed servers, COTS proprietary licences.
+**Infrastructure**: public cloud subscriptions, Shared Services Canada (SSC) managed servers, COTS proprietary licences.
 
 Using those 6 types of activities, it should then be possible to forecast a budget to not only create but to _maintain a product's value_ over its life span. For example, by extrapolating a reasonable budget using the number of servers employed, the different components, cloud services, and technical stacks making up the software product, vendor roadmaps if commercial software is used, size of the end-user base, etc.
 
