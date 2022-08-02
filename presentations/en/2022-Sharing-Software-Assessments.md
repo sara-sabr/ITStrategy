@@ -1,4 +1,5 @@
 <!--markdownlint-disable MD033-->
+<!--markdownlint-disable MD001-->
 
 # Sharing Software Assessments
 
@@ -30,18 +31,19 @@ IT Strategy - Aug 2022
 ---
 
 ## What does it look like?
+
 #### One year pilot
 
-- Create community on GCexchange (GC only)
-- ESDC shares its assessments during the pilot
+- Community on GCexchange (GC only)
+- ESDC shares its assessments
 - Other departments share assessments
-- Discussions about software assessment in the GC
+- Discussions about software assessment
 
 --
 
 ## GCexchange
 
-M365 tenant accessible to all of GC (new GCtools)
+M365 tenant accessible to all of GC
 
 - Sharepoint site
 - Documents
@@ -54,8 +56,8 @@ M365 tenant accessible to all of GC (new GCtools)
 ## Who is working on this?
 
 - **IT Strategy team**
-  - Setup and maintain the GCexchange group
-  - Assis with uploading documents as required
+  - Setup and maintain GCexchange group
+  - Assis with uploading documents
   - Onboard other departments
 - **Pillars** (provide documents to share)
   - Technical Architecture
@@ -82,7 +84,7 @@ Documents reviewed were Unclassified
 
 ## Current Status
 
-- Group created on GCexchange (link)
+- Group created on GCexchange
 - 30 members from 9 departments
 - Only ESDC has shared assessments
 
@@ -100,7 +102,7 @@ Documents reviewed were Unclassified
 ### Accessibility
 
 - Unclassified information on Intranet Website
-- Process in place to export documents monthly
+- Process in place to export documents monthly for the pilot
 - IT Strategy uploading files
 - No assessments shared (start: early Sept)
 
@@ -128,3 +130,9 @@ Documents reviewed were Unclassified
 - Document process for uploading files
 - Onboard other departments
 - Promote sharing of software assessments
+
+---
+
+## Links
+
+- [Software Assessments on GCexchange](https://gcxgce.sharepoint.com/teams/1000219)
