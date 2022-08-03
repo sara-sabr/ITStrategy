@@ -32,7 +32,7 @@ IT Strategy - Aug 2022
 
 ## What does it look like?
 
-#### One year pilot
+### One year pilot
 
 - Community on GCexchange (GC only)
 - ESDC shares its assessments
@@ -47,7 +47,7 @@ M365 tenant accessible to all of GC
 
 - Sharepoint site
 - Documents
-- Teams discussions
+- Discussions (Teams)
 
 > **Unclassified information only**
 
@@ -57,7 +57,7 @@ M365 tenant accessible to all of GC
 
 - **IT Strategy team**
   - Setup and maintain GCexchange group
-  - Assis with uploading documents
+  - Assist with uploading documents
   - Onboard other departments
 - **Pillars** (provide documents to share)
   - Technical Architecture
@@ -102,7 +102,7 @@ Documents reviewed were Unclassified
 ### Accessibility
 
 - Unclassified information on Intranet Website
-- Process in place to export documents monthly for the pilot
+- Process in place to export documents monthly
 - IT Strategy uploading files
 - No assessments shared (start: early Sept)
 
@@ -119,7 +119,7 @@ Documents reviewed were Unclassified
 
 ### Privacy
 
-- Not part of pilot
+- Not part of pilot.. for now
 - Assessments too ESDC specific
 
 ---
