@@ -78,7 +78,8 @@ M365 tenant accessible to all of GC
 
 ## Regional Security Office
 
-Documents reviewed were Unclassified
+- Documents reviewed were Unclassified
+- Teams are responsible for classification
 
 ---
 
