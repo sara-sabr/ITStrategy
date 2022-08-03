@@ -27,16 +27,16 @@ IT Strategy - Aug 2022
 - Open Government and Digital Standards
   - Maximizing the release of GC information
   - Work in the open by default
+  - Collaborate widely
 
 ---
 
 ## What does it look like?
 
-### One year pilot
+### One year pilot - Unclassified Only
 
 - Community on GCexchange (GC only)
-- ESDC shares its assessments
-- Other departments share assessments
+- Departments share their assessments
 - Discussions about software assessment
 
 --
@@ -56,8 +56,8 @@ M365 tenant accessible to all of GC
 ## Who is working on this?
 
 - **IT Strategy team**
+  - Coordinate with assessment teams (pillars)
   - Setup and maintain GCexchange group
-  - Assist with uploading documents
   - Onboard other departments
 - **Pillars** (provide documents to share)
   - Technical Architecture
@@ -71,15 +71,20 @@ M365 tenant accessible to all of GC
 
 ### No Issues with sharing
 
-- Informational purposes only
-- No blanket recommendation for all GC
+- This is for informational purposes only; and
+- it is not a blanket assessment for all GC departments.
+
+> from ESDC Legal Counsel
 
 ---
 
-## Regional Security Office
+## Document Classification
 
-- Documents reviewed were Unclassified
-- Teams are responsible for classification
+### Regional Security Office (RSO)
+
+- Assessments reviewed are Unclassified
+
+> Assessment teams are responsible for classification
 
 ---
 
@@ -88,6 +93,10 @@ M365 tenant accessible to all of GC
 - Group created on GCexchange
 - 30 members from 9 departments
 - Only ESDC has shared assessments
+- Interest and positive feedback
+
+> "We are a small team, others sharing their security assessments would benefit us."
+> - Canadian Space Agency
 
 --
 
@@ -111,8 +120,10 @@ M365 tenant accessible to all of GC
 
 ### Security
 
+Only High Level Assessments (HLAs) will be shared as part of the pilot.
+
 - Most HLAs are still "Protected"
-- Would prefer not to share
+- Working to confirm classification for HLAs
 - IT Strategy uploading files
 - 2 Unclassified assessments shared
 
