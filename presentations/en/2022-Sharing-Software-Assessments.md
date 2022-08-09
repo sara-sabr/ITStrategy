@@ -15,7 +15,7 @@ IT Strategy - Aug 2022
 - What does it look like?
 - Who is working on this?
 - Legal Advice
-- Regional Security Office
+- Document Classification
 - Current Status
 
 ---
@@ -82,9 +82,9 @@ M365 tenant accessible to all of GC
 
 ### Regional Security Office (RSO)
 
-- Assessments reviewed are Unclassified
+- Assessment documents reviewed are Unclassified
 
-> Assessment teams are responsible for classification
+> Assessment teams are responsible for document classification
 
 ---
 
@@ -96,7 +96,7 @@ M365 tenant accessible to all of GC
 - Interest and positive feedback
 
 > "We are a small team, others sharing their security assessments would benefit us."
-> - Canadian Space Agency
+> – Canadian Space Agency
 
 --
 
