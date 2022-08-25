@@ -152,4 +152,4 @@ Espérons que ce blogue trouve écho auprès des fonctionnaires qui s'efforcent 
 
 [^2]: VEC = Vulnérabilités et expositions courantes
 
-[^3]: Inspiré des deux documents de Transports Canada [Comment nous travaillons](https://www.gcpedia.gc.ca/wiki/AgileCentreOfExcellence/HowWeWork(enanglaisseulement)) et [Équipe de l'expérience numérique et des données clients (DECD)](https://014gc.sharepoint.com/sites/DECD/SitePages/service-design-playbook.aspx(enanglaisseulement)) du programme de modernisation de la prestation des activités (MPA).
+[^3]: Inspiré des deux documents de Transports Canada [Comment nous travaillons](https://www.gcpedia.gc.ca/wiki/AgileCentreOfExcellence/HowWeWork?lang=fr) et [Équipe de l'expérience numérique et des données clients (DECD)](https://014gc.sharepoint.com/sites/DECD/SitePages/service-design-playbook.aspx) du programme de modernisation de la prestation des activités (MPA).
