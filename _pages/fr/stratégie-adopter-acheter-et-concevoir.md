@@ -3,7 +3,7 @@ layout: default
 title: "Adopter, acheter et concevoir"
 ref: build-vs-buy
 lang: fr
-status: Travaux en cours;primary
+status: Terminé;success
 sections: Stratégies
 datatable-ids: t001
 version: 0.07
