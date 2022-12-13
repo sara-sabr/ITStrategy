@@ -49,14 +49,10 @@ Bien que difficile, la transition vers la prestation de services numériques con
 La prestation de services numériques permet aux programmes d’obtenir plus rapidement des données probantes pour mettre en lumière leurs améliorations.
 Cela nous oblige à ajuster nos méthodes de planification en passant d’une planification avancée et d’une exécution stricte du plan à une planification qui récompense le cycle empirique d’essai, d’observation et de correction.[^2]
 
-<div style="display: block; width: inherit; text-align: center; line-height: 3;">
-    <a href="/ITStrategy/assets/images/digital_feedback_loop-fr.png" style="display: block">
-        <img src = "{{ site.baseurl }}/assets/images/digital_feedback_loop-fr.png"
-        alt = "Cette image représente une boucle de processus de rétroaction. L'image montre trois icônes : Décideurs politiques, Technologie et Canadiens. Entre chaque icône se trouve une flèche montrant une relation comme suit : Les décideurs politiques doivent utiliser la technologie pour mettre en œuvre leurs politiques, la technologie est ensuite utilisée pour fournir des services aux Canadiens, et après avoir interagi avec un service, les Canadiens fournissent leurs commentaires aux décideurs politiques."
-        style="width: 800px; height: inherit;"
-        />
-    </a>
-</div>
+<a href="/ITStrategy/assets/images/digital_feedback_loop-fr.png" style="display: block">
+    <img src = "{{ site.baseurl }}/assets/images/digital_feedback_loop-fr.png"
+    alt = "Cette image représente une boucle de processus de rétroaction. L'image montre trois icônes : Décideurs politiques, Technologie et Canadiens. Entre chaque icône se trouve une flèche montrant une relation comme suit : Les décideurs politiques doivent utiliser la technologie pour mettre en œuvre leurs politiques, la technologie est ensuite utilisée pour fournir des services aux Canadiens, et après avoir interagi avec un service, les Canadiens fournissent leurs commentaires aux décideurs politiques."/>
+</a>
 <small>Figure 1. Le numérique permet de raccourcir la boucle de rétroaction entre les responsables de l’élaboration des politiques et les organismes de prestation</small>
 
 Plus concrètement, nous entendons procéder à des changements plus petits et plus fréquents.
@@ -70,28 +66,20 @@ Nous percevons tous cet éloignement lorsque les responsables des programmes riv
 
 Les incitatifs des responsables des programmes sont des résultats, alors que les DPI et les DPF s’intéressent à l’intégrité de l'entreprise, notamment à la priorisation des ressources ministérielles limitées.
 
-<div style="display: block; width: inherit; text-align: center; line-height: 3;">
-    <a href="/ITStrategy/assets/images/program_officials-cio-cfo_with_copyrights-fr.png" style="display: block">
-        <img src = "{{ site.baseurl }}/assets/images/program_officials-cio-cfo_with_copyrights-fr.png"
-        alt = "Cette image est un tableau trois par trois montrant les différentes perspectives que le responsable de programme, le DPF et le DPI ont les uns des autres. La première ligne montre que le responsable de programme se voit comme le capitaine Canada, le DPF comme un sac d'argent et le DPI comme une tortue. La deuxième rangée montre que le DPF voit le Responsable du programme comme quelqu'un qui dépense beaucoup d'argent (image d'une main tenant des sacs à provisions, une carte de crédit et des billets de banque en l'air), il se voit comme les dragons de l'émission dans l'oeil du drdagon, et il voit le DPI comme un cow-boy. La troisième rangée montre que le DPI voit le responsable de programme comme une figure de proue (image de la reine), le DPF comme quelqu'un qui crée de la paperasserie et le DPI comme Neo du film la Matrice."
-        style="width: 800px; height: inherit;"
-        />
-    </a>
-</div>
+<a href="/ITStrategy/assets/images/program_officials-cio-cfo_with_copyrights-fr.png" style="display: block">
+    <img src = "{{ site.baseurl }}/assets/images/program_officials-cio-cfo_with_copyrights-fr.png"
+    alt = "Cette image est un tableau trois par trois montrant les différentes perspectives que le responsable de programme, le DPF et le DPI ont les uns des autres. La première ligne montre que le responsable de programme se voit comme le capitaine Canada, le DPF comme un sac d'argent et le DPI comme une tortue. La deuxième rangée montre que le DPF voit le Responsable du programme comme quelqu'un qui dépense beaucoup d'argent (image d'une main tenant des sacs à provisions, une carte de crédit et des billets de banque en l'air), il se voit comme les dragons de l'émission dans l'oeil du drdagon, et il voit le DPI comme un cow-boy. La troisième rangée montre que le DPI voit le responsable de programme comme une figure de proue (image de la reine), le DPF comme quelqu'un qui crée de la paperasserie et le DPI comme Neo du film la Matrice."/>
+</a>
 <small>Figure 2. Relations entre les responsables de programme, le DPF et le DPI[^4]</small>
 
 Étant donné que chaque responsable est lié par un ensemble différent de règles (les politiques qu’il doit respecter, comme les [411 exigences applicables aux DPI]({{site.baseurl}}{% link _posts/fr/2021-06-02-stats-instruments-politiques-numerique.md %})), ses comportements et sa façon de voir les autres responsables diffèrent.
 
 Il est possible de mieux comprendre cette problématique en reprenant l’idée de la face immergée de l’iceberg.
 
-<div style="display: block; width: inherit; text-align: center; line-height: 3;">
-    <a href="/ITStrategy/assets/images/iceberg_program_internalsrvs-fr.png" style="display: block">
-        <img src = "{{ site.baseurl }}/assets/images/iceberg_program_internalsrvs-fr.png"
-        alt = "L'image comprend un iceberg à gauche avec sa partie hors de l'eau disant 'Programmes' et sa partie sous l'eau disant 'services internes'. La partie Programme pointe vers la Politique sur les résultats. La partie services internes pointe à la mention 'Les projets ont l’habitude d’être en concurrence pour l’obtention des ressources limitées'. Les services internes a aussi une image associée disant que seulement 15% du budget Crédités Votés de la DGIIT sont attribués aux projets."
-        style="width: 800px; height: inherit;"
-        />
-    </a>
-</div>
+<a href="/ITStrategy/assets/images/iceberg_program_internalsrvs-fr.png" style="display: block">
+    <img src = "{{ site.baseurl }}/assets/images/iceberg_program_internalsrvs-fr.png"
+    alt = "L'image comprend un iceberg à gauche avec sa partie hors de l'eau disant 'Programmes' et sa partie sous l'eau disant 'services internes'. La partie Programme pointe vers la Politique sur les résultats. La partie services internes pointe à la mention 'Les projets ont l’habitude d’être en concurrence pour l’obtention des ressources limitées'. Les services internes a aussi une image associée disant que seulement 15% du budget Crédités Votés de la DGIIT sont attribués aux projets."/>
+</a>
 <small>Figure 3. Beaucoup de choses se cachent sous la surface, et il se peut que les responsables de programme ne les voient pas (et qu’ils n’aient pas à s’en soucier)</small>
 
 **Si, dans le cadre de leurs activités périodiques de renouvellement de programme, les responsables des programmes ne cherchent pas à obtenir un financement suffisant pour appuyer leurs activités numériques, cela influe sur les résultats**.

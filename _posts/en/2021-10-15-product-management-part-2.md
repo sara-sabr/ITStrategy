@@ -46,7 +46,7 @@ This complexity that Programs have to deal with has increased due the new [Polic
 
 While complex, the move towards digital service delivery also presents an opportunity by [resetting policy, delivery, and evaluation](https://honeygolightly.medium.com/asking-the-ultimate-awkward-question-a26bbb34ec61). With digital service delivery, Programs can more quickly obtain evidence to inform their improvements. This warrants us to adjust our planning methods by moving from advanced planning and rigid plan execution to one that rewards empirical cycle of trying, observing, and correcting[^2].
 
-<a href="{{ site.baseurl }}/assets/images/digital_feedback_loop.png">
+<a href="{{ site.baseurl }}/assets/images/digital_feedback_loop.png" style="display: block">
         <img src="{{ site.baseurl }}/assets/images/digital_feedback_loop.png"
         alt="This image depicts a feedback process loop. The image shows three icons: Policy Makers, Technology and Canadians. Between each icon there is an arrow showing a relationship as follows: Policy Makers must use Technology to implement their policies, Technology is then used to deliver services to Canadians, and after interacting with a service, Canadians provide their feedback to Policy Makers"
         />
