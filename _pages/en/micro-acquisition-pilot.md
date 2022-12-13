@@ -3,7 +3,7 @@ layout: default
 title: Micro-Acquisition Pilot
 ref: Micro-acquisition
 lang: en
-status: Closed;primary
+status: Closed;success
 sections: Pilots
 permalink: /micro-acquisition-pilot.html
 ---
