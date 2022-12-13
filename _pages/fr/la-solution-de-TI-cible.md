@@ -3,7 +3,7 @@ layout: default
 title: "Modèle de prestation de la solution de TI cible"
 ref: target-solution-delivery-model
 lang: fr
-status: Travaux en cours;primary
+status: Terminé;success
 sections: Stratégies
 permalink: /la-solution-de-TI-cible.html
 ---

@@ -3,7 +3,7 @@ layout: default
 title: Auto-évaluation DevOps
 ref: devops-self-assessment
 lang: fr
-status: In Progress;primary
+status: Terminé;success
 sections: Pilotes
 permalink: /auto-evaluation-devops.html
 ---

@@ -3,7 +3,7 @@ layout: default
 title: DevOps Self Assessment
 ref: devops-self-assessment
 lang: en
-status: In Progress;primary
+status: Done;success
 sections: Pilots
 permalink: /devops-self-assessment.html
 ---
