@@ -56,7 +56,6 @@ The problem happens when you have a large amount of advance planning, bundling o
 An IT team responsible for a product is in a constant struggle to re-adjust its work based on changing demands in addition to providing long-term costing estimates to these individual projects.
 This product team will spend a great deal of energy on planning expectations of work with other peer IT teams[^5] to be able to fulfil commitments it made to all these projects.
 
-
 <a href="/ITStrategy/assets/images/project-planning-effect-on-product-teams-en.png" style="display: block">
     <img src = "{{ site.baseurl }}/assets/images/project-planning-effect-on-product-teams-en.png"
     alt = "This image has a silhouette of a senior leader in the top left. To the right of the senior leader silhouette there are 8 icons displayed in a vertical line representing 8 different projects. There are three arrows going from the vertical line of project icons towards a sideways profile of a head. The top of the head is opened as if on a hinge and to the right of the head there are 4 icons arranged in a vertical line of a person carrying a heavy box. There are coloured circles going from them to inside the open head. Underneath the open head are the words 'Product team'. Underneath the 4 icons to the right of the head are the words 'Value stream teams'."/>
