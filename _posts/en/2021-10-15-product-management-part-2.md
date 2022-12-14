@@ -155,10 +155,10 @@ A product-based funding model still has gates, but its process is different. Inv
 
 A Product Lifecycle Process is cyclical. It has a start (creation) and an end (decommission), but its middle is a series of periodic continuous improvements.
 
-The proposed product-type assurance is mapped to four [Product Lifecycle Process steps]({{site.baseurl}}/strategy-product-management.html#appendix-c---product-life-cycle-overview):
+The proposed product-type assurance is mapped to four [Product Lifecycle Process steps]({{ site.baseurl }}/strategy-product-management.html#appendix-c---product-life-cycle-overview):
 
-1. _Gate 1 – Intake_: the artefacts used to justify the product-based funding model (e.g. multi-yearly budget costing, the value stream teams involved, sources of funds, agreed schedule cadence, [Architecture Boundaries]({{site.baseurl}}/strategy-product-management.html#appendix-a---product-architectural-boundaries))
-2. _Gate 2 – Review_: a periodic cycle in a product-based model  to review the product’s value and enterprise alignment (e.g. involves a [Product’s outcome-based roadmap]({{site.baseurl}}/strategy-product-management.html#product-roadmap-as-the-investment-plan), Yearly Budget Costing, Key Product Metrics focused on performance indicators change, [Architecture Boundaries]({{site.baseurl}}/strategy-product-management.html#appendix-a---product-architectural-boundaries)).
+1. _Gate 1 – Intake_: the artefacts used to justify the product-based funding model (e.g. multi-yearly budget costing, the value stream teams involved, sources of funds, agreed schedule cadence, [Architecture Boundaries]({{ site.baseurl }}/strategy-product-management.html#appendix-a---product-architectural-boundaries))
+2. _Gate 2 – Review_: a periodic cycle in a product-based model  to review the product’s value and enterprise alignment (e.g. involves a [Product’s outcome-based roadmap]({{ site.baseurl }}/strategy-product-management.html#product-roadmap-as-the-investment-plan), Yearly Budget Costing, Key Product Metrics focused on performance indicators change, [Architecture Boundaries]({{ site.baseurl }}/strategy-product-management.html#appendix-a---product-architectural-boundaries)).
 3. _Gate 3 – Continuous Improvements_: the series of releases the product undertakes. It includes approvals to deploy, acceptance reports, and product workload metrics.
    - _Gate 3 Updates_: during the continuous improvement step, Product teams perform periodic updates, such as bi-yearly, to corporate committees (e.g. investment board, enterprise architecture review board).
    - _Gate 2 Reviews_: every X years, Product Teams are expected to go back to Gate 2 and perform product reviews. A review expects some changes (e.g. Architectural boundaries, product roadmap).
@@ -178,7 +178,7 @@ The current method we use to compute work is by project (different timesheet cod
 In a product-based funding model, we concern ourselves with the aggregated expenses on the life span of a product, and where the authorities for those expenses came from.
 This affects Financial Management Advisors (FMAs) work when performing attestations that Product Teams are consuming and reporting financial information correctly.
 
-[IT’s financial model is adjusted as follows]({{site.baseurl}}/strategy-product-management.html#appendix-f---its-financial-model):
+[IT’s financial model is adjusted as follows]({{ site.baseurl }}/strategy-product-management.html#appendix-f---its-financial-model):
 
   1. _Indirect costing_
      - Represents the Product Team’s multi-year budget (salary and non-salary).

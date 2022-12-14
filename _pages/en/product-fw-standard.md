@@ -67,7 +67,7 @@ These are well documented already, such as on <a href="https://www.pmi.org/disci
 
 ## Effective Date
 
-This is a **pilot** Standard, associated with the [Pilot IITB Directive on Product Management](product-fw-directive.html)'s effective date.
+This is a **pilot** Standard, associated with the [Pilot IITB Directive on Product Management]({{ site.baseurl }}/product-fw-directive.html)'s effective date.
 
 ## Authorities
 

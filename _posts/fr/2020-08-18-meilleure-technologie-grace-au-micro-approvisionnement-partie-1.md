@@ -86,7 +86,7 @@ D'autres gouvernements se sont également penchés sur cette question.
 Le gouvernement de la Colombie-Britannique a connu beaucoup de succès avec le programme « Coder avec nous » [BCDevExchange](https://bcdevexchange.org) \[en anglais\].
 Depuis, la portée de ce programme a été élargie (jusqu'à 70 000 $ pour les contrats) et est devenue la plateforme [Digital Marketplace](https://digital.gov.bc.ca/marketplace) \[en anglais\].
 
-Le gouvernement américain a mis en place un processus [simplifié pour tous les micro-achats](https://acquisition.gov/content/part-13-simplified-acquisition-procedures#i1111868) \[en anglais\] qui, entre autres, encourage notamment les administrateurs généraux à déléguer les pouvoirs de micro-achat.
+Le gouvernement américain a mis en place un processus [simplifié pour tous les micro-achats](https://www.acquisition.gov/far/part-13) \[en anglais\] qui, entre autres, encourage notamment les administrateurs généraux à déléguer les pouvoirs de micro-achat.
 De nombreux groupes au sein du gouvernement américain ont fait l'expérience de l'utilisation de ce processus dans le but d'acheter du code source libre, y compris le [IT Modernization CoE](https://digital.gov/2020/04/24/experimenting-with-micropurchase-threshold/) \[en anglais\], le [Ministère des Anciens Combattants](https://github.com/department-of-veterans-affairs/VA-Micropurchase-Repo) \[en anglais\], et [18F](https://github.com/18f/micropurchase-archive) \[en anglais\].
 
 Le GC s'est également lancé timidement dans le micro-approvisionnement de code source libre avec le lancement en 2017 du projet pilote [Carrefour des programmeurs du GC](https://github.com/canada-ca/devex) \[en anglais\] par le Bureau du Conseil privé (en partenariat avec le SCT et SPAC).

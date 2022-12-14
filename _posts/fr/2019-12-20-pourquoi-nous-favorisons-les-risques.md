@@ -130,7 +130,7 @@ Pour remédier aux problèmes mentionnés ci-dessus, nous proposons ce qui suit 
    Ils ont besoin d'une source de financement stable et d'équipes dédiées pour permettre une correction et une évolution de la dette technique en temps opportun.
    Les équipes devraient être composées non seulement de développeurs, mais aussi d'experts en sécurité, en opérations, en tests et en politiques, qui travaillent avec les utilisateurs _réels_;
 5. Utiliser des garde-fous architecturaux au lieu de barrières, où l'architecture d'entreprise agit comme une discipline de surveillance en faisant des recommandations pour la correction de la trajectoire afin d'aligner les produits individuels vers l'état d'architecture d'entreprise cible; et
-6. Adopter la philosophie du logiciel libre qui consiste à [travailler](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html) [ouvertement]({{site.baseurl}}/fr/2019-11-19-travailler-ouvertement-partie-1.md) et à partager votre travail afin de réaliser des économies d'échelle, d'éviter de longues batailles d'approvisionnement, de limiter le verrouillage envers des fournisseurs et d'augmenter les possibilités de réutilisation de votre travail.
+6. Adopter la philosophie du logiciel libre qui consiste à [travailler](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html) [ouvertement]({{ site.baseurl }}/2019-11-19-travailler-ouvertement-partie-1.md) et à partager votre travail afin de réaliser des économies d'échelle, d'éviter de longues batailles d'approvisionnement, de limiter le verrouillage envers des fournisseurs et d'augmenter les possibilités de réutilisation de votre travail.
 
 ## Références
 

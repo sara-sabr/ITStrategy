@@ -109,7 +109,7 @@ Private industry has been doing low dollar value purchases of code, including [b
 The BC government has had a great deal of success with the [BCDevExchange](https://bcdevexchange.org/) ‘Code with Us’ program.
 This program has since expanded in scope (to contracts up to $70K) and evolved into the [Digital Marketplace](https://digital.gov.bc.ca/marketplace) platform.
 
-The US government has a [simplified process for all micro-purchases](https://acquisition.gov/content/part-13-simplified-acquisition-procedures#i1111868) which, among other things, encourages their Deputy Heads to delegate authority for micro-purchasing.
+The US government has a [simplified process for all micro-purchases](https://www.acquisition.gov/far/part-13) which, among other things, encourages their Deputy Heads to delegate authority for micro-purchasing.
 Many groups within the US government have experimented with using this process to purchase open source code including the [IT Modernization CoE](https://digital.gov/2020/04/24/experimenting-with-micropurchase-threshold/), the [Department of Veterans’ Affairs](https://github.com/department-of-veterans-affairs/VA-Micropurchase-Repo), and [18F](https://github.com/18f/micropurchase-archive).
 
 In addition to having the precedent of the pilot GC Developers Exchange from 2017 (more in [Annex D](#annex-d-the-gc-developers-exchange)), the recommendations and guidance from the red tape reduction report and the Office of the Procurement Ombudsman, policy cover exists when it comes to LDV procurement.

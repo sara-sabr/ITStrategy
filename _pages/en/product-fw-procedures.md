@@ -45,11 +45,11 @@ These are **pilot** Procedures, as part of the [2021-IITB-37 Branch Initiative](
 
 ## Authorities
 
-This standard is issued pursuant the authority indicated in the [Pilot IITB Directive on Product Management](product-fw-directive.html).
+This standard is issued pursuant the authority indicated in the [Pilot IITB Directive on Product Management]({{ site.baseurl }}/product-fw-directive.html).
 
 ## Procedures
 
-The following procedures are used pursuant the [Pilot IITB Directive on Product Management](product-fw-directive.html).
+The following procedures are used pursuant the [Pilot IITB Directive on Product Management]({{ site.baseurl }}/product-fw-directive.html).
 
 ### Establishing and Approving the MOU
 

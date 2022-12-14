@@ -23,7 +23,7 @@ permalink: /stratégie-adopter-acheter-concevoir-explication.html
 
 ## Contexte
 
-Le présent document se veut un complément à la [Stratégie de Adopter, acheter et concevoir](adopter-acheter-et-concevoir.html).
+Le présent document se veut un complément à la [Stratégie de Adopter, acheter et concevoir]({{ site.baseurl }}/adopter-acheter-et-concevoir.html).
 
 ## Introduction
 

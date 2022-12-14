@@ -723,7 +723,7 @@ L’infonuagique a commercialisé l’infrastructure de TI, ce qui permet à EDS
 
 De plus, le GC s’éloigne des [solutions monolithiques (anglais seulement)](https://medium.com/koderlabs/introduction-to-monolithic-architecture-and-microservices-architecture-b211a5955c63) (vaste base de codes regroupant de nombreuses capacités, mais qui cause des goulots d’étranglement et des points de défaillance uniques dans l’écosystème des TI lorsque les nombreuses équipes de TI qui participent aux travaux entrent en collision)[^15].
 
-La [Directive sur la gestion de projets et programmes du CT](tbs-sct.gc.ca/pol/doc-fra.aspx?id=32594) laisse place à l’approche ci-dessus :
+La [Directive sur la gestion de projets et programmes du CT](https://www.tbs-sct.canada.ca/pol/doc-fra.aspx?id=32594) laisse place à l’approche ci-dessus :
 
 - [Le promoteur de projet est responsable de :] 4.2.5 Maintenir des relations efficaces avec les intervenants externes clés, notamment avec les ministères concernés et les fournisseurs de services communs.
 - [Le promoteur de projet est responsable de :] 4.2.8 Appliquer, selon le cas, des méthodes et des principes incrémentiels, itératifs, souples et axés sur les utilisateurs pour la planification, la définition et la mise en œuvre du projet.

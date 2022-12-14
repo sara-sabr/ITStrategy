@@ -9,7 +9,7 @@ permalink: /target-solution-delivery-model-strategy-explained.html
 <!--markdownlint-disable MD026-->
 <!--markdownlint-disable MD036-->
 
-**The Strategy:** [see here for the strategy](strategy-target-solution-delivery-model.html) that this areas of concern document refers to
+**The Strategy:** [see here for the strategy]({{ site.baseurl }}/strategy-target-solution-delivery-model.html) that this areas of concern document refers to
 
 **Change Log**
 

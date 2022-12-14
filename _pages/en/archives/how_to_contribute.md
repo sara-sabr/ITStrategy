@@ -33,7 +33,7 @@ Anyone can send informal feedback to the IT Strategy team.
 Informal feedback is not meant to be official positions from lines of businesses or buy-in.
 Instead, it is an opportunity for fellow colleagues to add their professional perspective to the IT Strategy team's work.
 
-Their perspective provides valuable feedback to a team who's [mandate](mandate.html) regards setting the IT direction of the organisation, diagnosing key organisational problems, and recommending course of actions to resolve them.
+Their perspective provides valuable feedback to a team who's [mandate]({{ site.baseurl }}/mandate.html) regards setting the IT direction of the organisation, diagnosing key organisational problems, and recommending course of actions to resolve them.
 
 This differs from traditional peer review cycles of:
 

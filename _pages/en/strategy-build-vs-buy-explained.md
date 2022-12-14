@@ -26,7 +26,7 @@ permalink: /strategy-build-vs-buy-explained.html
 
 ## Context
 
-This document is complementary content for the [Adopt, Build, Buy Strategy](strategy-build-vs-buy.html).
+This document is complementary content for the [Adopt, Build, Buy Strategy]({{ site.baseurl }}/strategy-build-vs-buy.html).
 
 ## Introduction
 
