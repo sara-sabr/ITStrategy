@@ -33,7 +33,7 @@ N'importe qui peut envoyer de la rétroaction informelle à l'équipe de la stra
 La rétroaction informelle n'est pas censée être une position officielle de la part des secteurs d'activité ou de l'adhésion.
 Il s'agit plutôt d'une occasion pour les collègues d'ajouter leur point de vue au travail de l'équipe de la stratégie TI.
 
-Leur point de vue fournit une rétroaction précieuse à une équipe dont le [mandat](mandat.html) consiste à établir l'orientation de l'organisation en matière de TI, à diagnostiquer les principaux problèmes organisationnels et à recommander des mesures à prendre pour les résoudre.
+Leur point de vue fournit une rétroaction précieuse à une équipe dont le [mandat]({{ site.baseurl }}/mandat.html) consiste à établir l'orientation de l'organisation en matière de TI, à diagnostiquer les principaux problèmes organisationnels et à recommander des mesures à prendre pour les résoudre.
 
 Cela diffère des cycles traditionnels d'examen par les pairs de :
 

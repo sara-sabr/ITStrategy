@@ -39,7 +39,7 @@ On April 1, 2020, [Treasury Board's (TB) Policy on Service and Digital](https://
 The Policy supports the [mandate of the Minister for Digital Government](https://pm.gc.ca/en/mandate-letters/2019/12/13/minister-digital-government-mandate-letter) and is guided by a commitment to the guiding principles and best practices of the [Government of Canada Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html).
 
 As the Policy's requirements target Deputy Heads, we look at its associated [Directive](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601) for requirements targeting the senior officials designated to be responsible for leading particular functions (i.e., IM/IT, Service, and Cyber Security).
-Here are some statistics the IT Strategy team did ([link to source data](/assets/files/Policy_on_service_and_digital_analysis.xlsx)):
+Here are some statistics the IT Strategy team did ([link to source data]({{ site.baseurl }}/assets/files/Policy_on_service_and_digital_analysis.xlsx)):
 
 <table>
   <tr>

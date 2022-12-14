@@ -1,16 +1,37 @@
 {
   "ignorePatterns": [
+   {
+     "pattern": "^mailto"
+   },
+  {
+    "pattern": "^#"
+  },
+  {
+    "pattern": "^{{ site.baseurl }}"
+  },
+  {
+    "pattern": "^./"
+  },
+  {
+    "pattern": "^../../.."
+  },
+  {
+    "pattern": "^/ITStrategy"
+  },
+  {
+    "pattern": "^{{ page.url | relative_url }}"
+  },
+  {
+    "pattern": "^assets"
+  },
     {
       "pattern": "http://esdc.prv"
     },
     {
-      "pattern": "https://esdc.prv"
-    },
-    {
-      "pattern": "https://www.pmi.org/disciplined-agile"
-    },
-    {
       "pattern": "http://edsc.prv"
+    },
+    {
+      "pattern": "https://esdc.prv"
     },
     {
       "pattern": "https://edsc.prv"
@@ -31,116 +52,36 @@
       "pattern": "https://014gc.sharepoint.com"
     },
     {
+      "pattern": "https://014gc-my.sharepoint.com"
+    },
+    {
       "pattern": "https://gcconnex.gc.ca"
     },
     {
-      "pattern": "www.gcpedia.gc.ca"
+      "pattern": "http://www.gcpedia.gc.ca"
     },
     {
-      "pattern": "http://localhost"
-    },
-    {
-      "pattern": "mailto"
-    },
-    {
-      "pattern": "#"
+      "pattern": "https://www.gcpedia.gc.ca"
     },
     {
       "pattern": "https://gccode.ssc-spc.gc.ca"
     },
     {
-      "pattern": "https://www.trello.com"
-    },
-    {
-      "pattern": "https://www.youtube.com"
-    },
-    {
-      "pattern": "https://vimeo.com"
-    },
-    {
-      "pattern": "https://gpp-ppm.service.gc.ca"
-    },
-    {
-      "pattern": "https://esdc.sabacloud.com"
-    },
-    {
-      "pattern": "https://www.canva.com"
-    },
-    {
-      "pattern": "https://meet.jit.si"
-    },
-    {
-      "pattern": "https://framavox.org"
-    },
-    {
-      "pattern": "https://open.canada.ca"
-    },
-    {
-      "pattern": "https://www.pcloud.com"
-    },
-    {
-      "pattern": "https://pm.gc.ca/"
-    },
-    {
       "pattern": "http://srmis-sigdi-iagent.prv"      
     },
-    {
-      "pattern": "https://www.linkedin.com/in/boris-lublinsky-b6a4a"
-    },
-    {
-      "pattern": "https://www.tpsgc-pwgsc.gc.ca/app-acq/cral-sarc/lgcl-ctgr-eng.html"
-    },
-    {
-      "pattern": "https://www.surveymonkey.com"
-    },
-    {
-      "pattern": "https://labs.play-with-docker.com"
-    },
-   {
-      "pattern": "https://www.tpsgc-pwgsc.gc.ca/app-acq/ma-bb/appagile-proagile-fra.html"
-   },
-   {
-     "pattern": "https://www.tpsgc-pwgsc.gc.ca/app-acq/ma-bb/simpcont-simpcont-fra.html"
-   },
-   {
-     "pattern": "https://www.tpsgc-pwgsc.gc.ca/app-acq/pme-sme/index-fra.html"
-   },
-   {
-     "pattern": "https://www.tpsgc-pwgsc.gc.ca/app-acq/ma-bb/appagile-proagile-eng.html"
-   },
-   {
-     "pattern": "https://www.tpsgc-pwgsc.gc.ca/app-acq/ma-bb/simpcont-simpcont-eng.html"
-   },
-   {
-     "pattern": "https://www.tpsgc-pwgsc.gc.ca/app-acq/pme-sme/index-eng.html"
-   },
-   {
-     "pattern": "https://www.udemy.com"
-   },
    {
      "pattern": "http://blogs-blogues.prv"
    },
    {
-     "pattern": "https://wiki.gccollab.ca"
+     "pattern": "https://esdc.sabacloud.com"
    },
    {
-     "pattern": "https://gccollab.ca"
+     "pattern": "https://gpp-ppm.service.gc.ca"
    },
    {
-     "pattern": "http://opo-boa.gc.ca"
-   },
-   {
-    "pattern": "https://www.pmi.org"
-  },
-  {
-    "pattern": "http://goodbadstrategy.com/"
-  },
-  {
-    "pattern": "https://twitter.com"
-  },
-  {
-    "pattern": "https://opensource.org"
-  }
+     "pattern": "http://localhost"
+   }
   ],
-  "aliveStatusCodes": [200, 403]
+  "timeout": "30s",
+  "aliveStatusCodes": [200, 206, 403]
 }

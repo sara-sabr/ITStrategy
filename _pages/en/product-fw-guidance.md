@@ -55,7 +55,7 @@ These are well documented already, such as on <a href="https://www.pmi.org/disci
 
 ### Document Purpose
 
-To provide guidance in implementing the [Pilot IITB Directive on Product Management](product-fw-directive.html) and its associated Standards.
+To provide guidance in implementing the [Pilot IITB Directive on Product Management]({{ site.baseurl }}/product-fw-directive.html) and its associated Standards.
 
 The Directive, Standard, and Procedures strive to be succinct. Any context, explications, and situational awareness for the reader has been moved to this document.
 
@@ -63,9 +63,9 @@ The Directive, Standard, and Procedures strive to be succinct. Any context, expl
 
 This document provides guidance on the following documents:
 
-- **[Pilot IITB Directive on Product Management](product-fw-directive.html)**
-- **[Pilot IITB Standards on Product Management](product-fw-standard.html)**
-- **[Pilot IITB Procedures on Product Management](product-fw-procedures.html)**
+- **[Pilot IITB Directive on Product Management]({{ site.baseurl }}/product-fw-directive.html)**
+- **[Pilot IITB Standards on Product Management]({{ site.baseurl }}/product-fw-standard.html)**
+- **[Pilot IITB Procedures on Product Management]({{ site.baseurl }}/product-fw-procedures.html)**
 
 ### Enquiries
 
@@ -135,7 +135,7 @@ Projects are used to coordinate large change, such as changing the enterprise th
 
 In between however, there is an opportunity to allow rapid, small, changes to software: enabling continuous improvements. Typically on existing business processes, to enhance user experience, and continuously address cyber security risks.
 
-A few things are necessary to enable such continuous improvements, which is the focus of the [Directive](product-fw-directive.html) and [Standard](product-fw-standard.html).
+A few things are necessary to enable such continuous improvements, which is the focus of the [Directive]({{ site.baseurl }}/product-fw-directive.html) and [Standard]({{ site.baseurl }}/product-fw-standard.html).
 
 <figure>
 <a href="{{ site.baseurl }}/assets/images/product-roadmap-roles.png">
@@ -293,7 +293,7 @@ This IITB Directive strives to provide as much flexibility to product teams on h
 Whether it be SCRUM, Kanban, or more traditional business-functional-technical specification, it does not matter to Corporate oversight.
 However, certain roles and their associated responsibilities are still expected regardless of which methodology is used.
 
-[Section 5.2](product-fw-directive.html#roles-and-responsibilities) of the IITB Directive lists the different roles that must be assigned to members of the product teams.
+[Section 5.2]({{ site.baseurl }}/product-fw-directive.html#roles-and-responsibilities) of the IITB Directive lists the different roles that must be assigned to members of the product teams.
 
 Depending on the scale of the product, a single person may fulfill more than one role.
 That person is still identified for each role so that external teams (such as project team) know who to contact for a particular topic.

@@ -40,7 +40,7 @@ Elle sert "_d'ensemble intégré de règles qui décrit la façon dont les organ
 La politique soutient le [mandat de la ministre du Gouvernement numérique](https://pm.gc.ca/fr/lettres-de-mandat/2019/12/13/lettre-de-mandat-de-la-ministre-du-gouvernement-numerique) et est guidée par un engagement envers les principes directeurs et pratiques exemplaires des [Normes numériques du gouvernement du Canada](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html).
 
 Comme les exigences de la politique visent les administrateurs généraux, nous examinons la [directive](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32601) qui y est associée pour les exigences visant les agents responsables de mener les fonctions particulières (c.-à-d. la GI/TI, le service et la cybersécurité).
-Voici quelques statistiques réalisées par l'équipe de la stratégie TI ([lien vers les données sources](/assets/files/Policy_on_service_and_digital_analysis.xlsx)) :
+Voici quelques statistiques réalisées par l'équipe de la stratégie TI ([lien vers les données sources]({{ site.baseurl }}/assets/files/Policy_on_service_and_digital_analysis.xlsx)) :
 
 <table>
   <tr>

@@ -21,7 +21,7 @@ th {
 }
 </style>
 
-**The Strategy:** [see here for the strategy](strategy-target-solution-delivery-model.html) that the feedback refers to.
+**The Strategy:** [see here for the strategy]({{ site.baseurl }}/strategy-target-solution-delivery-model.html) that the feedback refers to.
 
 This document will be updated throughout the elaboration of the above strategy.
 
