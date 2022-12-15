@@ -4,7 +4,6 @@
   "description": "A repo to maintain our documentation around IT Strategy",
   "main": "index.js",
   "scripts": {
-    "link-check": "node link-check.js",
     "link-check-pages": "find ./_pages -name \\*.md -print0 | xargs -0 -n1 markdown-link-check -q -c .markdown-link-check.json",
     "link-check-posts": "find ./_posts -name \\*.md -print0 | xargs -0 -n1 markdown-link-check -q -c .markdown-link-check.json",
     "lint": "markdownlint -i node_modules -i _site -i _includes \"**/*.md\"",
@@ -33,19 +32,13 @@
   "homepage": "https://github.com/sara-sabr/ITStrategy#readme",
   "devDependencies": {
     "@cspell/dict-fr-fr": "^2.1.1",
-    "chalk": "^4.1.2",
     "cspell": "^6.17.0",
     "editorconfig-checker": "^4.0.2",
-    "glob": "^8.0.3",
-    "license-compatibility-checker": "^0.3.5",
+    "license-compatibility-checker": "^0.3.0",
     "licensee": "^10.0.0",
     "markdown-link-check": "^3.10.3",
     "markdownlint-cli": "^0.32.2",
-    "site-validator-cli": "^1.3.5",
+    "site-validator-cli": "^1.3.3",
     "yaml": "^2.1.3"
-  },
-  "dependencies": {
-    "fs-extra": "^10.0.0",
-    "papaparse": "^5.3.1"
   }
 }
