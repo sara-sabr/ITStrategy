@@ -841,7 +841,7 @@ PwC Independent Study/3.2
 - [Scale Agile Framework (SAFe)](https://www.scaledagileframework.com/)
 - [Disciplined Agile (DA)](https://www.pmi.org/disciplined-agile)
 - [Large-Scale Scrum](https://less.works/)
-- [Good Strategy, Bad Strategy](http://goodbadstrategy.com/)
+- Good Strategy, Bad Strategy (Book)
 - [How to write rules that people want to follow](https://www.chapters.indigo.ca/en-ca/books/how-to-write-rules-that/9781988749020-item.html)
 
 ## Appendix D - Definitions
