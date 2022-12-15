@@ -114,7 +114,7 @@ Stakeholders are expected to still comply with existing policy instruments inclu
   - ESDC Information Management Policy (being drafted)
   - ESDC [Procurement Policies](http://iservice.prv/eng/finance/purchasing/policy.shtml)
   - ESDC Security Policy (being drafted)
-  - ESDC [Target Solution Delivery Model](strategy-target-solution-delivery-model.html) Strategy (draft in consultation)
+  - ESDC [Target Solution Delivery Model]({{ site.baseurl }}/strategy-target-solution-delivery-model.html) Strategy (draft in consultation)
   - ESDC Data Strategy
 
 ### Governance, Compliance, and Reporting

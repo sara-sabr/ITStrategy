@@ -71,7 +71,7 @@ This is a **pilot** Standard, associated with the [Pilot IITB Directive on Produ
 
 ## Authorities
 
-This standard is issued pursuant the authority indicated in the [Pilot IITB Directive on Product Management](product-fw-directive.html).
+This standard is issued pursuant the authority indicated in the [Pilot IITB Directive on Product Management]({{ site.baseurl }}/product-fw-directive.html).
 
 ## Standards
 

@@ -47,7 +47,7 @@ The expected outcomes of this quarterly strategy are:
 To operationalize this strategy, the following set of actions will be undertaken been taken:
 
 1. (completed) Creation of a new CATS code for teams to record their times (**14644**) in addition to existing ones
-2. (completed) Creation of a [Learning Resource Directory](references-en.html#q1-strategy---continuous-improvement-and-learning) to help employees find recommended avenues for learning
+2. (completed) Creation of a [Learning Resource Directory]({{ site.baseurl }}/references-en.html#q1-strategy---continuous-improvement-and-learning) to help employees find recommended avenues for learning
 3. (completed) Provide [examples of improvements and learning activities](#appendix-a---examples-of-activities)
 4. (in progress) Creation of an intuitive tool for staff to share anecdotal success & failure stories to share knowledge
 5. (do do) Creation of a [Tool for crowd sourcing learning](https://github.com/sara-sabr/ITStrategy/milestone/45)
