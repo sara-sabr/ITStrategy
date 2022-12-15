@@ -650,7 +650,17 @@
     "cloture",
     "Socialtechnical",
     "PricewaterhouseCoopers",
-    "ECRP"
+    "ECRP",
+    "iitb",
+    "esdc",
+    "sharepoint",
+    "homeserver",
+    "standups",
+    "desmos",
+    "l'ÉRO",
+    "reqs",
+    "Cognos",
+    "pres"
   ],
   "flagWords": [],
   "import": ["node_modules/@cspell/dict-fr-fr/cspell-ext.json"],
@@ -664,6 +674,6 @@
     "css"
   ],
   "ignoreRegExpList": [
-    "]\\(([^\\)]+)\\)"
+    "/\\[([^\\[]+)\\](\\(.*\\))/gm"
   ]
 }
