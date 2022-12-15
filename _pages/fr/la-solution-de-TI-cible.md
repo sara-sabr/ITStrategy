@@ -757,7 +757,7 @@ La matrice de traçabilité suivante est utilisée pour démontrer l’harmonisa
 <a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/plans-strategiques-operations-numeriques-gouvernement-canada/plan-strategique-operations-numerique-2018-2022.html">PSON du GC</a>/Chapitre 6 (Gouvernance numérique)<br>
 <a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32603">Politique sur les services et le numérique du CT</a>/4.2 Service axé sur le client<br>
 <a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32601">Directive sur les services et le numérique du CT</a>/Gestion stratégique de la TI<br>
-<a href="tbs-sct.gc.ca/pol/doc-fra.aspx?id=32594">Directive sur la gestion de projets et programmes du CT</a>/4.2.6, 4.2.8, 4.2.18<br>
+<a href="https://tbs-sct.gc.ca/pol/doc-fra.aspx?id=32594">Directive sur la gestion de projets et programmes du CT</a>/4.2.6, 4.2.8, 4.2.18<br>
 <a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx">Voie à suivre pour la DGIIT (anglais seulement)</a>/1. Ajuster leadership de la DGIIT<br>
 <a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx">Voie à suivre pour la DGIIT (anglais seulement)</a>/6a. Renforcer les services de GI-TI<br>
 <a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx">Voie à suivre pour la DGIIT (anglais seulement)</a>/6f. Officialiser le cadre de gestion des exigences<br>
