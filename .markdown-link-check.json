@@ -80,6 +80,9 @@
    },
    {
      "pattern": "http://localhost"
+   },
+   {
+     "pattern": "https://opensource.org/licenses/alphabetical"
    }
   ],
   "timeout": "30s",
