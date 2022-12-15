@@ -111,7 +111,7 @@ The Product Team Governance Structure uses [Appendix C. Product Team Governance 
 | Information Element    | Description |
 |------------------------|------------------------------------------------------------------------|
 | Committees             | Any committees part of the Product Governance and their associated Terms of Reference. |
-| Standard Roles         | The roles required by the [Pilot IITB Directive on Product Management](product-fw-directive.html).|
+| Standard Roles         | The roles required by the [Pilot IITB Directive on Product Management]({{ site.baseurl }}/product-fw-directive.html).|
 | Sub-Product Group(s)   | (optional) The grouping of products into groups, if being used (e.g. if the Product actually comprises of more than one sub-product) |
 | Working Groups         | (optional) any working groups being part of the Governance structure|
 

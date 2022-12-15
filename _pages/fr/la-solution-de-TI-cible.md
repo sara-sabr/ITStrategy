@@ -841,7 +841,7 @@ La matrice de traçabilité suivante est utilisée pour démontrer l’harmonisa
 - [SAFe (Scaled Agile Framework) (anglais seulement)](https://www.scaledagileframework.com/)
 - [Disciplined Agile (DA) (anglais seulement)](https://www.pmi.org/disciplined-agile)
 - [Large-Scale Scrum (anglais seulement)](https://less.works/)
-- [Good Strategy, Bad Strategy (anglais seulement)](http://goodbadstrategy.com/)
+- Good Strategy, Bad Strategy (livre, anglais seulement)
 - [How to write rules that people want to follow (anglais seulement)](https://www.chapters.indigo.ca/en-ca/books/how-to-write-rules-that/9781988749020-item.html)
 
 ## Annexe D – Définitions
@@ -854,7 +854,7 @@ Une équipe DevOps correspond à la [définition normalisée suivante de la DGII
 
 Une copie de la version Office 365 est [disponible ici (anglais seulement)](https://sara-sabr.github.io/ITStrategy/assets/files/standard-devops-team-definition.docx).
 
-**[Système de contrôle des versions décentralisé (DVCS)](canada.ca/fr/emploi-developpement-social/services/travailleurs-etrangers/fraude.html)**
+**[Système de contrôle des versions décentralisé (DVCS)](https://www.atlassian.com/blog/software-teams/version-control-centralized-dvcs)**
 
 Les systèmes de contrôle des versions centralisés reposent sur l’idée qu’il n’y a qu’une seule copie « centrale » d’un projet de logiciel quelque part (probablement hébergée sur un serveur) et que les développeurs modifient le code directement sur cette copie centrale.
 
