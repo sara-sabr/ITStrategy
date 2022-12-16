@@ -3,7 +3,7 @@ layout: default
 title: "Implementing Product Management"
 ref: strategy-product-mgt
 lang: en
-status: Done;success
+status: In Progress;primary
 sections: Strategies
 datatable-ids: t001
 version: 0.1
