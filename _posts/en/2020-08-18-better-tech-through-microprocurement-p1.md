@@ -84,7 +84,7 @@ Other governments have been working on this as well.
 The BC government has had a great deal of success with the [BCDevExchange](https://bcdevexchange.org/) 'Code with Us' program.
 This program has since expanded in scope (to contracts up to $70K) and evolved into the [Digital Marketplace](https://digital.gov.bc.ca/marketplace) platform.
 
-The US gov has a [simplified process for all micro-purchases](https://acquisition.gov/content/part-13-simplified-acquisition-procedures#i1111868) which, among other things, encourages their Deputy Heads to delegate authority for micro-purchasing.
+The US gov has a [simplified process for all micro-purchases](https://www.acquisition.gov/far/part-13) which, among other things, encourages their Deputy Heads to delegate authority for micro-purchasing.
 Many groups within the US government have experimented with using this process to purchase open source code including the [IT Modernization CoE](https://digital.gov/2020/04/24/experimenting-with-micropurchase-threshold/), the [Department of Veterans' Affairs](https://github.com/department-of-veterans-affairs/VA-Micropurchase-Repo), and [18F](https://github.com/18f/micropurchase-archive).
 
 The GC has also dipped its toe into micro-procurement for open source code with the 2017 launch of the pilot [GC Developers Exchange](https://github.com/canada-ca/devex) by Privy Council Office (in partnership with TBS and PSPC).

@@ -45,7 +45,7 @@ Mener un projet pilote expérimental d'un an pour des achats de 10 000 dollars o
 
 - [Présentation]({{ site.baseurl }}/presentation.html?markdown=en/2020-Micro-Acquisition-Pilot.md) [en anglais]
 - Analyse de rentabilisation [à venir]
-- Billet de blogue [<< Pilote de micro-acquisition : mise à jour du statut 1 >>](https://sara-sabr.github.io/ITStrategy/2021/01/05/pilote-de-micro-acquisition-mise-a-jour1.html)
-- Billet de blog << Meilleure technologie grâce au micro-approvisionnement >> [première partie](2020/08/12/meilleure-technologie-grace-au-micro-approvisionnement-partie-1.html) et [deuxième partie](https://sara-sabr.github.io/ITStrategy/2020/12/18/meilleure-technologie-grace-au-micro-approvisionnement-partie-2.html)
+- Billet de blogue [<< Pilote de micro-acquisition : mise à jour du statut 1 >>]({{ site.baseurl }}/2021/01/05/pilote-de-micro-acquisition-mise-a-jour1.html)
+- Billet de blog << Meilleure technologie grâce au micro-approvisionnement >> [première partie]({{ site.baseurl }}/2020/08/12/meilleure-technologie-grace-au-micro-approvisionnement-partie-1.html) et [deuxième partie]({{ site.baseurl }}/2020/12/18/meilleure-technologie-grace-au-micro-approvisionnement-partie-2.html)
 - [Rapport de clôture]({{ site.baseurl }}/pilote-de-micro-acquisition-les-leçons-tirées.html)
-- Billet de blogue [<< Clôture du projet pilote de micro-acquisition >>](https://sara-sabr.github.io/ITStrategy/2022/05/05/cloture-du-pilote-de-micro-acquisition.html)
+- Billet de blogue [<< Clôture du projet pilote de micro-acquisition >>]({{ site.baseurl }}/2022/05/05/cloture-du-pilote-de-micro-acquisition.html)

@@ -17,7 +17,7 @@ permalink: /stratégie-adopter-acheter-et-concevoir.html
 ***Il s’agit d’une stratégie PROVISOIRE.***
 
 <div class="alert alert-info">
-  Cette stratégie est accompagnée du document suivant : <a href="stratégie-adopter-acheter-concevoir-explication.html" target="_blank">Explication</a>.
+  Cette stratégie est accompagnée du document suivant : <a href="{{ site.baseurl }}/stratégie-adopter-acheter-concevoir-explication.html" target="_blank">Explication</a>.
 </div>
 
 <!-- markdownlint-disable MD001 -->
@@ -57,7 +57,7 @@ Mais en combinant tous ces services et accords supplémentaires aux droits d’u
 La souplesse, l’interopérabilité et le couplage libre des solutions de TI sont nécessaires parce que, une fois acquise, la technologie doit être intégrée à l’environnement de TI de l’organisation, configurée en fonction des besoins des utilisateurs d’une manière qui satisfait aux exigences de conformité et de réglementation, et continuellement mise à jour au moyen de correctifs et de nouvelles versions, etc.
 En plus d’assurer la maintenance de la technologie elle-même, l’organisation qui en fait l’acquisition doit veiller à ce que ses utilisateurs actuels et nouveaux reçoivent une formation continue, à ce que ses processus soient bien adaptés aux nouvelles fonctionnalités et méthodes de travail de la technologie, à avoir accès à un bassin suffisant d’employés compétents et dévoués pour assurer la maintenance de la technologie, et à se conformer aux règlements et aux politiques applicables tout au long du cycle de vie de la solution de TI.
 
-Par conséquent, EDSC doit absolument s’assurer que les solutions de TI complexes ou essentielles à la mission demeurent très souples et adaptables afin de se protéger contre les répercussions des changements futurs tout en minimisant les risques de ces changements, en adoptant des architectures à couplage libre et des blocs de travail de plus petite taille (voir [le Modèle de prestation de la solution cible](strategy-target-solution-delivery-model.html) (Anglais) pour connaître les façons proposées d’appuyer une telle approche).
+Par conséquent, EDSC doit absolument s’assurer que les solutions de TI complexes ou essentielles à la mission demeurent très souples et adaptables afin de se protéger contre les répercussions des changements futurs tout en minimisant les risques de ces changements, en adoptant des architectures à couplage libre et des blocs de travail de plus petite taille (voir [le Modèle de prestation de la solution cible]({{ site.baseurl }}/strategy-target-solution-delivery-model.html) (Anglais) pour connaître les façons proposées d’appuyer une telle approche).
 
 Cette stratégie propose de faire en sorte que tous les intervenants d’EDSC comprennent que les solutions de TI sont complexes et que les décisions d’investissement doivent être prises en tenant compte de la souplesse, de l’interchangeabilité et de l’interopérabilité tout au **long du cycle de vie** d’une solution de TI, et non seulement à l’étape initiale.
 

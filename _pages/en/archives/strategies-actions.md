@@ -17,7 +17,7 @@ This document is intended to provide an overview of of the cultural, process, an
 ## Approach
 
 The IT Strategy team will not create a 5 or 10 year plan to transform the organization.
-For details on the objectives, see [Medium Term](it-picture-medium-term.html) and [Long Term](it-picture-long-term.html) IT Pictures.
+For details on the objectives, see [Medium Term]({{ site.baseurl }}/it-picture-medium-term.html) and [Long Term]({{ site.baseurl }}/it-picture-long-term.html) IT Pictures.
 Based on [DevOps Research and Assessment (DORA)](https://cloud.google.com/devops/) and the latest State of DevOps report, we want to focus on capabilities that enable high performing IT organizations.
 This also aligns with GC IT Policy and Direction around [Digital government](https://www.canada.ca/en/government/system/digital-government.html).
 
@@ -26,7 +26,7 @@ Following these actions will be mandatory as part of Management and team leads p
 Strategies will be reviewed and updated quarterly based on progress and effectiveness.
 Below is a list of strategies and actions that could be used as quarterly strategies.
 
-The first quarterly strategy for Q1 (2020-04 to 2020-06) will be (Draft) [20% of time to learn, automate and improve](https://sara-sabr.github.io/ITStrategy/strategy-learning-automating-improving.html).
+The first quarterly strategy for Q1 (2020-04 to 2020-06) will be (Draft) [20% of time to learn, automate and improve]({{ site.baseurl }}/strategy-learning-automating-improving.html).
 
 ## Goals
 
@@ -88,14 +88,14 @@ Consult [Appendix A](#appendix-A---Details-of-GC-Information-Technology-Directio
   - _Temporary hiring of talent with programming skills (e.g. Co-op students, Casuals, [Talent Cloud](https://talent.canada.ca))_
   - _Reorganize IT teams, starting with staff that are looking for a new challenge_
 - **IT teams and other groups must have access to modern tooling, such as SaaS (Internet), mobile and desktop tools**
-  - _[Unblock access to specific SaaS for IITB employees](web-services-access.html)_
+  - _[Unblock access to specific SaaS for IITB employees]({{ site.baseurl }}/web-services-access.html)_
   - _Review the criteria and value add for technology bricks for SaaS_
   - _Invest in bandwidth, DLP and document classification tool to enable more open access to Internet_
   - _Communications that employees can use SaaS on ESDC network for unclassified information_
   - _Add all approved software to Application Catalogue (e.g. paying ones)_
   - _Automate parts of the software assessment and approval process_
   - _Share software certifications with other departments_
-- **[Hiring favours candidates who demonstrate adaptability, curiosity, and strong ethics](enable-learning.html)**
+- **[Hiring favours candidates who demonstrate adaptability, curiosity, and strong ethics]({{ site.baseurl }}/enable-learning.html)**
   - _Work with HR to adapt hiring processes (e.g. interview questions)_
 - Build multidisciplinary teams capable of delivering services from start to end of life
 - Encourages collaboration and fosters a culture of flexibility, mobility and well-being

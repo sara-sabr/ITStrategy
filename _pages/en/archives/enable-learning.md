@@ -116,7 +116,7 @@ As for recommended strategies, they list...
 7. Hire more short-term workers
 8. Target minorities' talent
 
-Lastly, another article written by [HBR Ascend](https://hbrascend.org/topics/what-will-smart-mean-in-the-ai-age/) reads
+Lastly, another article written by [HBR Ascend - What will smart mean in the AI age?] (No longer available) reads
 
 > "What is needed is a new definition of being smart, one that promotes higher levels of human thinking and emotional engagement. The new smart will be determined not by what or how you know but by the quality of your thinking, listening, relating, collaborating, and learning."
 

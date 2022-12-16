@@ -115,7 +115,7 @@ Les tests de sécurité sont intégrés au processus de test automatisé et iden
 De plus, l'approche de la Protection de la vie privée dès la conception est prise en compte tout au long du processus de génie logiciel.
 
 Les équipes doivent connaître leurs propres processus et procédures afin de bien comprendre leurs lacunes potentielles.
-En mettant en œuvre une [culture de service](service-culture.html), chaque équipe est responsable de fournir des services numériques à ses clients (portails et processus automatisés plutôt que des boîtes aux lettres génériques), ce qui signifie qu'elle doit interagir avec les processus et les procédures des équipes alignées du volet.
+En mettant en œuvre une [culture de service]({{ site.baseurl }}/service-culture.html), chaque équipe est responsable de fournir des services numériques à ses clients (portails et processus automatisés plutôt que des boîtes aux lettres génériques), ce qui signifie qu'elle doit interagir avec les processus et les procédures des équipes alignées du volet.
 La sécurité doit coder et utiliser des solutions de contrôle de version publique ou pangouvernementale.
 L'architecture d'entreprise doit coder et utiliser des solutions de contrôle de version à l'échelle publique ou gouvernementale.
 Les testeurs doivent coder et utiliser des solutions de contrôle de version publiques ou gouvernementales.
@@ -138,7 +138,7 @@ Les mesures de rendement des secteurs d'activité servent de repères et la resp
 
 ### À l'échelle du GC
 
-En tirant parti de la [Perspective des TI à moyen terme - 2025](perspectives-ti-moyen-terme.html), le [Plan stratégique des opérations numériques Calendrier 2018-2022](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/plan-strategique-operations-numerique-2018-2022.htm) et la [Politique sur les services et le numérique](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32603), la prestation numérique des services et des avantages du GC sont automatisés et intégrés à la vie des Canadiens.
+En tirant parti de la [Perspective des TI à moyen terme - 2025]({{ site.baseurl }}/perspectives-ti-moyen-terme.html), le [Plan stratégique des opérations numériques Calendrier 2018-2022](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/plan-strategique-operations-numerique-2018-2022.htm) et la [Politique sur les services et le numérique](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32603), la prestation numérique des services et des avantages du GC sont automatisés et intégrés à la vie des Canadiens.
 La plupart des Canadiens utilisent une identité numérique fiable pour obtenir leurs services directement du GC ou des nombreux partenaires qui ont intégré les services du GC à leur offre.
 
 Les ministères et organismes du GC sont des organisations agiles, modernes, ouvertes et très performantes.
@@ -149,7 +149,7 @@ La MVP a mis en place une plateforme consolidée des avantages qui s’aligne su
 
 ### TI au sein d'EDSC
 
-La [transformation](https://cloud.google.com/solutions/devops/devops-culture-transform) d'amélioration continue de la Stratégie de TI d’EDSC s’est poursuivie (consultez la [Perspective des TI à moyen terme - 2025](perspectives-ti-moyen-terme.html)) afin d’améliorer les capacités et de suivre les recommandations de DevOps Research and Assessment (DORA) et du [Rapport annuel sur l’état de DevOps]((https://cloud.google.com/devops/)).
+La [transformation](https://cloud.google.com/solutions/devops/devops-culture-transform) d'amélioration continue de la Stratégie de TI d’EDSC s’est poursuivie (consultez la [Perspective des TI à moyen terme - 2025]({{ site.baseurl }}/perspectives-ti-moyen-terme.html)) afin d’améliorer les capacités et de suivre les recommandations de DevOps Research and Assessment (DORA) et du [Rapport annuel sur l’état de DevOps](https://cloud.google.com/devops/).
 
 La prestation des TI est rapide, fiable et sécurisée en ce qui concerne les applications (la livraison de logiciels, les opérations) et l’infrastructure (les dispositifs utilisateurs, les services, les réseaux).
 Comme toujours, l’objectif est d’augmenter continuellement la fréquence de la prestation des services tout en réduisant les délais, le temps de rétablissement des services en cas panne ainsi que le taux de défaillance.

@@ -71,7 +71,7 @@ All ESDC personnel involved in the management of IT Products is expected to adhe
 Moving to the digital age requires improving IT's responsiveness.
 
 To improve IT's responsiveness, we must find ways to reduce risks associated with its use.
-This strategy proposes equipping ESDC with a set of **modern and supported Version Control Systems**, for use by all software-related projects, and in direct support with [GC Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html), [ESDC Open Source Software (OSS) Management Framework (internal)](https://dialogue/grp/TAWS-ATST/Collaboration%20Architecture%20Services/Projects/Artificial%20Intelligence%20and%20Open%20Source/OSS/ESDC%20Open%20Source%20Management%20Framework%20v%201.1.docx) and <a href="strategy-target-solution-delivery-model.html">ESDC Target IT Solution Delivery Model strategy (in consultation)</a>.
+This strategy proposes equipping ESDC with a set of **modern and supported Version Control Systems**, for use by all software-related projects, and in direct support with [GC Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html), [ESDC Open Source Software (OSS) Management Framework (internal)](https://dialogue/grp/TAWS-ATST/Collaboration%20Architecture%20Services/Projects/Artificial%20Intelligence%20and%20Open%20Source/OSS/ESDC%20Open%20Source%20Management%20Framework%20v%201.1.docx) and <a href="{{ site.baseurl }}/strategy-target-solution-delivery-model.html">ESDC Target IT Solution Delivery Model strategy (in consultation)</a>.
 The benefits for the organization are numerous:
 
 #### Benefits <!-- omit in toc -->

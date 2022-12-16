@@ -17,7 +17,7 @@ permalink: /strategy-build-vs-buy.html
 ***This is a DRAFT strategy.***
 
 <div class="alert alert-info">
-  This strategy is accompanied by the following document: <a href="strategy-build-vs-buy-explained.html" target="_blank">Explanation</a>.
+  This strategy is accompanied by the following document: <a href="{{ site.baseurl }}/strategy-build-vs-buy-explained.html" target="_blank">Explanation</a>.
 </div>
 
 <!-- markdownlint-disable MD001 -->
@@ -57,7 +57,7 @@ But by conflating all these extra services and agreements together with the righ
 Flexibility, interoperability and loose coupling of IT solutions are necessary because, once acquired, the technology needs to be integrated in the organization's IT environment, configured to the needs of the users in a way that meets compliance and regulatory requirements, and continuously updated with patches and newest releases, etc.
 In addition to maintaining the technology itself, the acquiring organization needs to ensure its new and existing users are continuously trained, that its processes are properly adapted to the new capabilities and ways of working of the technology, that it has access to a sufficient pool of knowledgeable and dedicated personnel to maintain the technology, and that compliance to regulations and policies is maintained throughout the lifecycle of the IT Solution.
 
-As such, it is critical for ESDC to ensure that core-to-mandate or complex IT Solutions remain highly flexible and adaptable to protect ESDC from the impacts of future changes while also minimizing the risks of those changes by adopting loosely coupled architectures and smaller sized work packages (see [Target Solution Delivery Model](strategy-target-solution-delivery-model.html) for proposed ways to support such an approach).
+As such, it is critical for ESDC to ensure that core-to-mandate or complex IT Solutions remain highly flexible and adaptable to protect ESDC from the impacts of future changes while also minimizing the risks of those changes by adopting loosely coupled architectures and smaller sized work packages (see [Target Solution Delivery Model]({{ site.baseurl }}/strategy-target-solution-delivery-model.html) for proposed ways to support such an approach).
 
 This strategy proposes moving ESDC to the point where all stakeholders understand that IT Solutions are complex and investment decisions have to be taken with flexibility, interchangeability, and interoperability in mind **throughout the entire lifecycle** of an IT Solution, not only at the initial stage.
 
@@ -114,7 +114,7 @@ Stakeholders are expected to still comply with existing policy instruments inclu
   - ESDC Information Management Policy (being drafted)
   - ESDC [Procurement Policies](http://iservice.prv/eng/finance/purchasing/policy.shtml)
   - ESDC Security Policy (being drafted)
-  - ESDC [Target Solution Delivery Model](strategy-target-solution-delivery-model.html) Strategy (draft in consultation)
+  - ESDC [Target Solution Delivery Model]({{ site.baseurl }}/strategy-target-solution-delivery-model.html) Strategy (draft in consultation)
   - ESDC Data Strategy
 
 ### Governance, Compliance, and Reporting

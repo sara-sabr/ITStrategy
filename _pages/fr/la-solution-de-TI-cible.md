@@ -723,7 +723,7 @@ L’infonuagique a commercialisé l’infrastructure de TI, ce qui permet à EDS
 
 De plus, le GC s’éloigne des [solutions monolithiques (anglais seulement)](https://medium.com/koderlabs/introduction-to-monolithic-architecture-and-microservices-architecture-b211a5955c63) (vaste base de codes regroupant de nombreuses capacités, mais qui cause des goulots d’étranglement et des points de défaillance uniques dans l’écosystème des TI lorsque les nombreuses équipes de TI qui participent aux travaux entrent en collision)[^15].
 
-La [Directive sur la gestion de projets et programmes du CT](tbs-sct.gc.ca/pol/doc-fra.aspx?id=32594) laisse place à l’approche ci-dessus :
+La [Directive sur la gestion de projets et programmes du CT](https://www.tbs-sct.canada.ca/pol/doc-fra.aspx?id=32594) laisse place à l’approche ci-dessus :
 
 - [Le promoteur de projet est responsable de :] 4.2.5 Maintenir des relations efficaces avec les intervenants externes clés, notamment avec les ministères concernés et les fournisseurs de services communs.
 - [Le promoteur de projet est responsable de :] 4.2.8 Appliquer, selon le cas, des méthodes et des principes incrémentiels, itératifs, souples et axés sur les utilisateurs pour la planification, la définition et la mise en œuvre du projet.
@@ -757,7 +757,7 @@ La matrice de traçabilité suivante est utilisée pour démontrer l’harmonisa
 <a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/plans-strategiques-operations-numeriques-gouvernement-canada/plan-strategique-operations-numerique-2018-2022.html">PSON du GC</a>/Chapitre 6 (Gouvernance numérique)<br>
 <a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32603">Politique sur les services et le numérique du CT</a>/4.2 Service axé sur le client<br>
 <a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32601">Directive sur les services et le numérique du CT</a>/Gestion stratégique de la TI<br>
-<a href="tbs-sct.gc.ca/pol/doc-fra.aspx?id=32594">Directive sur la gestion de projets et programmes du CT</a>/4.2.6, 4.2.8, 4.2.18<br>
+<a href="https://tbs-sct.gc.ca/pol/doc-fra.aspx?id=32594">Directive sur la gestion de projets et programmes du CT</a>/4.2.6, 4.2.8, 4.2.18<br>
 <a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx">Voie à suivre pour la DGIIT (anglais seulement)</a>/1. Ajuster leadership de la DGIIT<br>
 <a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx">Voie à suivre pour la DGIIT (anglais seulement)</a>/6a. Renforcer les services de GI-TI<br>
 <a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx">Voie à suivre pour la DGIIT (anglais seulement)</a>/6f. Officialiser le cadre de gestion des exigences<br>
@@ -841,7 +841,7 @@ La matrice de traçabilité suivante est utilisée pour démontrer l’harmonisa
 - [SAFe (Scaled Agile Framework) (anglais seulement)](https://www.scaledagileframework.com/)
 - [Disciplined Agile (DA) (anglais seulement)](https://www.pmi.org/disciplined-agile)
 - [Large-Scale Scrum (anglais seulement)](https://less.works/)
-- [Good Strategy, Bad Strategy (anglais seulement)](http://goodbadstrategy.com/)
+- Good Strategy, Bad Strategy (livre, anglais seulement)
 - [How to write rules that people want to follow (anglais seulement)](https://www.chapters.indigo.ca/en-ca/books/how-to-write-rules-that/9781988749020-item.html)
 
 ## Annexe D – Définitions
@@ -854,7 +854,7 @@ Une équipe DevOps correspond à la [définition normalisée suivante de la DGII
 
 Une copie de la version Office 365 est [disponible ici (anglais seulement)](https://sara-sabr.github.io/ITStrategy/assets/files/standard-devops-team-definition.docx).
 
-**[Système de contrôle des versions décentralisé (DVCS)](canada.ca/fr/emploi-developpement-social/services/travailleurs-etrangers/fraude.html)**
+**[Système de contrôle des versions décentralisé (DVCS)](https://www.atlassian.com/blog/software-teams/version-control-centralized-dvcs)**
 
 Les systèmes de contrôle des versions centralisés reposent sur l’idée qu’il n’y a qu’une seule copie « centrale » d’un projet de logiciel quelque part (probablement hébergée sur un serveur) et que les développeurs modifient le code directement sur cette copie centrale.
 

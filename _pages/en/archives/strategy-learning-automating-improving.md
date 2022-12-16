@@ -19,7 +19,7 @@ The following actions apply for the 1st quarter of the 2020-2021 fiscal year (Ap
 
 ## Alignment with ESDC IT Strategy
 
-This Strategy aligns with the [ESDC IT Strategy approach](esdc-it-strategy.html) and provides the means to enable the following 2 [Strategy Map](strategy-summary.html) capabilities:
+This Strategy aligns with the [ESDC IT Strategy approach]({{ site.baseurl }}/esdc-it-strategy.html) and provides the means to enable the following 2 [Strategy Map]({{ site.baseurl }}/strategy-summary.html) capabilities:
 
 1. Learning Culture
 2. Continuous Improvement
@@ -47,7 +47,7 @@ The expected outcomes of this quarterly strategy are:
 To operationalize this strategy, the following set of actions will be undertaken been taken:
 
 1. (completed) Creation of a new CATS code for teams to record their times (**14644**) in addition to existing ones
-2. (completed) Creation of a [Learning Resource Directory](references-en.html#q1-strategy---continuous-improvement-and-learning) to help employees find recommended avenues for learning
+2. (completed) Creation of a [Learning Resource Directory]({{ site.baseurl }}/references-en.html#q1-strategy---continuous-improvement-and-learning) to help employees find recommended avenues for learning
 3. (completed) Provide [examples of improvements and learning activities](#appendix-a---examples-of-activities)
 4. (in progress) Creation of an intuitive tool for staff to share anecdotal success & failure stories to share knowledge
 5. (do do) Creation of a [Tool for crowd sourcing learning](https://github.com/sara-sabr/ITStrategy/milestone/45)
@@ -80,7 +80,7 @@ AND/OR
 
 The results of employee/team reporting will be shared via a [Report](http://dialogue/grp/BU6810070/Shared%20Documents/cont%20improvement%20and%20learning%20-%20April%201st%202019%20to%20Feb%2029%202020_report.xlsx) (link is internal to ESDC).
 
-This strategy will be reviewed and updated quarterly based on effectiveness and current progress towards the [Medium Term IT Picture - 2025](https://sara-sabr.github.io/ITStrategy/it-picture-medium-term.html) as well as following the [Strategy Map](https://sara-sabr.github.io/ITStrategy/strategy-summary.html) (layering on the strategies).
+This strategy will be reviewed and updated quarterly based on effectiveness and current progress towards the [Medium Term IT Picture - 2025](h{{ site.baseurl }}/it-picture-medium-term.html) as well as following the [Strategy Map]({{ site.baseurl }}/strategy-summary.html) (layering on the strategies).
 
 ## Appendix A - Examples of activities
 
@@ -121,4 +121,4 @@ This strategy will be reviewed and updated quarterly based on effectiveness and 
 
 ## Appendix B - Additional References
 
-For more books, reports and articles supporting this strategy, you can consult our [References]({{ site.baseurl }}/references-en.html#q1-strategy---continuous-improvement-and-learning).
+For more books, reports and articles supporting this strategy, you can consult our [References]({{ site.baseurl }}/references-en.html).

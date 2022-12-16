@@ -310,7 +310,7 @@ The filename should include the full date and the title:
 `2019-07-23-blog-title.md`
 
 If you are working on a draft, you can save it in the in the corresponding subfolder `en` or `fr` in the `_drafts` folder.
-Jekyll provides some neat features to render drafts on the locally generated website (see the [Drafts section](#drafts) for more details).
+Jekyll provides some neat features to render drafts on the locally generated website.
 
 Otherwise, you can save it directly in the corresponding subfolder `en` or `fr` in the `_posts` folder.
 It is recommended to have your blog posts translated and put in their respective folders.

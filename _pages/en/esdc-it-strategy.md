@@ -50,7 +50,7 @@ But a complex and uncertain world rewards an empirical cycle of trying, observin
 ## ESDC IT Strategy Logic Model
 
 ESDC's IT Strategy is not about trying to predict the future as it accepts that the future is highly complex and unpredictable.
-Instead, the [core of ESDC's IT Strategy](mandate.html) focuses on reducing the risks associated with IT and increasing business agility.
+Instead, the [core of ESDC's IT Strategy]({{ site.baseurl }}/mandate.html) focuses on reducing the risks associated with IT and increasing business agility.
 It will do so by:
 
 - moving to a shared accountability amongst software stakeholders (which includes "the business")
@@ -162,7 +162,7 @@ The business vs IT paradigm is replaced with a team partnership paradigm.
 
 ### Strategy Map
 
-The above outcomes will make use of this [Strategy Map diagram](strategy-summary.html) to guide technology teams towards the short, medium, and long-term outcomes.
+The above outcomes will make use of this [Strategy Map diagram]({{ site.baseurl }}/strategy-summary.html) to guide technology teams towards the short, medium, and long-term outcomes.
 The strategy map accepts that individual teams may be at different maturity levels and so accepts that teams may have different starting points.
 The content in this Strategy map is guided by the [DevOps Research and Assessment (DORA)](https://cloud.google.com/devops) 21 capabilities.
 
@@ -176,5 +176,5 @@ Efforts and outcomes produced by [activities of all IT teams](http://dialogue/gr
 
 Descriptions of the above outcomes from adopting this IT Strategy are described in the following two pictures:
 
-- [Medium Term (~5 years)](it-picture-medium-term.html)
-- [Long Term (>10 years)](it-picture-long-term.html)
+- [Medium Term (~5 years)]({{ site.baseurl }}/it-picture-medium-term.html)
+- [Long Term (>10 years)]({{ site.baseurl }}/it-picture-long-term.html)

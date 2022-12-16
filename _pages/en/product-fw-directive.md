@@ -75,35 +75,35 @@ Software-based products other than Job Bank.
 
 ### Product Team Setup
 
-1. The Product Team's complete yearly budget includes software development work, as per the [IITB Standard on Product Management](product-fw-standard.html#software-development-work)
+1. The Product Team's complete yearly budget includes software development work, as per the [IITB Standard on Product Management]({{ site.baseurl }}/product-fw-standard.html#software-development-work)
 2. The Product Team identifies and secures source(s) of funds for the duration of the agreement
 3. Funds for the Product Team's software development work are transferred to IITB on a yearly basis
-4. The Product Team's cross-organizational structure is documented as per the [IITB Standard on Product Management](product-fw-standard.html#product-team-organizational-structure)
-5. The Product Team's internal governance structure is documented as per the [IITB Standard on Product Management](product-fw-standard.html#product-team-governance-structure)
+4. The Product Team's cross-organizational structure is documented as per the [IITB Standard on Product Management]({{ site.baseurl }}/product-fw-standard.html#product-team-organizational-structure)
+5. The Product Team's internal governance structure is documented as per the [IITB Standard on Product Management]({{ site.baseurl }}/product-fw-standard.html#product-team-governance-structure)
 6. The location(s) of the Product Team's requirement repository are kept up to date
 7. The description of the service(s) that the Product Team enables are kept up to date
 8. The inventory of applications from the Corporate Solution Directory (APM Program) that the product team manages as products is kept up to date
-9. Information about the product team is documented as per the [IITB Standard on Product Management](product-fw-standard.html#product-team-brief)
-10. The agreement between IITB and the Sponsoring Branch is formalized in a Memorandum of Understanding (MOU) as per the [IITB Standard on Product Management](product-fw-standard.html#memorandum-of-understanding-mou)
+9. Information about the product team is documented as per the [IITB Standard on Product Management]({{ site.baseurl }}/product-fw-standard.html#product-team-brief)
+10. The agreement between IITB and the Sponsoring Branch is formalized in a Memorandum of Understanding (MOU) as per the [IITB Standard on Product Management]({{ site.baseurl }}/product-fw-standard.html#memorandum-of-understanding-mou)
 11. Funding pressures for the Product Team is on the Sponsoring Branch
 
 ### Roles and Responsibilities
 
 1. The Product Team has the following roles assigned:
-    - A single **Head of Product**, as per the [IITB Standard on Product Management](product-fw-standard.html#head-of-product-role)
-    - One or more **Product Manager**, as per the [IITB Standard on Product Management](product-fw-standard.html#product-manager-role)
-    - One or more **Product Owner**, as per the [IITB Standard on Product Management](product-fw-standard.html#product-owner-role)
-    - One or more **IT Security Champion**, as per the [IITB Standard on Product Management](product-fw-standard.html#it-security-champion-role)
-    - One or more **Change Coordinator**, as per the [IITB Standard on Product Management](product-fw-standard.html#change-coordinator-role)
-    - One or more **Product Support Manager**, as per the [IITB Standard on Product Management](product-fw-standard.html#product-support-manager-role)
-    - One or more **IT Manager**, as per the [IITB Standard on Product Management](product-fw-standard.html#it-manager-role)
+    - A single **Head of Product**, as per the [IITB Standard on Product Management]({{ site.baseurl }}/product-fw-standard.html#head-of-product-role)
+    - One or more **Product Manager**, as per the [IITB Standard on Product Management]({{ site.baseurl }}/product-fw-standard.html#product-manager-role)
+    - One or more **Product Owner**, as per the [IITB Standard on Product Management]({{ site.baseurl }}/product-fw-standard.html#product-owner-role)
+    - One or more **IT Security Champion**, as per the [IITB Standard on Product Management]({{ site.baseurl }}/product-fw-standard.html#it-security-champion-role)
+    - One or more **Change Coordinator**, as per the [IITB Standard on Product Management]({{ site.baseurl }}/product-fw-standard.html#change-coordinator-role)
+    - One or more **Product Support Manager**, as per the [IITB Standard on Product Management]({{ site.baseurl }}/product-fw-standard.html#product-support-manager-role)
+    - One or more **IT Manager**, as per the [IITB Standard on Product Management]({{ site.baseurl }}/product-fw-standard.html#it-manager-role)
 
 ### Oversight and Reporting
 
-1. The Product Team produces, at minimum, one yearly product roadmap as per the [IITB Standard on Product Management](product-fw-standard.html#product-roadmap-executive-view)
-2. The Product Team produces retrospectives of each product releases as per the [IITB Standard on Product Management](product-fw-standard.html#release-impact-analysis)
-3. The Product Team produces software delivery performance metrics as per the [IITB Standard on Product Management](product-fw-standard.html#product-teams-software-performance-metrics)
-4. The Product Team maintains an up to date risk register as per the [IITB Standard on Product Management](product-fw-standard.html#risk-register)
+1. The Product Team produces, at minimum, one yearly product roadmap as per the [IITB Standard on Product Management]({{ site.baseurl }}/product-fw-standard.html#product-roadmap-executive-view)
+2. The Product Team produces retrospectives of each product releases as per the [IITB Standard on Product Management]({{ site.baseurl }}/product-fw-standard.html#release-impact-analysis)
+3. The Product Team produces software delivery performance metrics as per the [IITB Standard on Product Management]({{ site.baseurl }}/product-fw-standard.html#product-teams-software-performance-metrics)
+4. The Product Team maintains an up to date risk register as per the [IITB Standard on Product Management]({{ site.baseurl }}/product-fw-standard.html#risk-register)
 5. The yearly product roadmap is endorsed by IITB's Project Portfolio Review Committee (PPRC) as part of the Product Team's yearly funding cycle
 
 ## Consequences of Non-Compliance
@@ -119,7 +119,7 @@ Consequences of non-compliance is approached by gradually increasing the severit
 - Requiring to have the Product's Roadmap endorsed by the Architecture Review Committee (ARC) as part of the product team's yearly funding renewal
 - Cancellation of the MOU between the Sponsoring Branch and the CIO in funding cross-branch product teams
 
-PPOC produces a non-compliance report as per [IITB Standard on Product Management](product-fw-standard.html#non-compliance-report).
+PPOC produces a non-compliance report as per [IITB Standard on Product Management]({{ site.baseurl }}/product-fw-standard.html#non-compliance-report).
 
 PPRC decides the consequences of a non-compliance.
 
@@ -146,12 +146,12 @@ PPRC decides the consequences of a non-compliance.
 
 **IITB Standards**
 
-- [Pilot IITB Standard on Product Management](product-fw-directive.html)
+- [Pilot IITB Standard on Product Management]({{ site.baseurl }}/product-fw-directive.html)
 
 **IITB Supporting Documents**
 
-- [Pilot IITB Procedures on Product Management](product-fw-procedures.html)
-- [Pilot IITB Guidance on Product Management](product-fw-guidance.html)
+- [Pilot IITB Procedures on Product Management]({{ site.baseurl }}/product-fw-procedures.html)
+- [Pilot IITB Guidance on Product Management]({{ site.baseurl }}/product-fw-guidance.html)
 
 **TBS Guidance**
 

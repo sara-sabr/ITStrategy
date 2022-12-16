@@ -115,7 +115,7 @@ Security tests are built into the automated testing process and identify common 
 Also, the Privacy by design approach is taken into account throughout the whole engineering process.
 
 Teams must experience their own processes and procedures to properly appreciate their potential shortcomings.
-By implementing a [service culture](service-culture.html) each team is responsible for providing digital services to their clients (portals and automated processes rather than generic mailboxes), meaning they must interact with the processes and procedures of the stream aligned teams.
+By implementing a [service culture]({{ site.baseurl }}/service-culture.html) each team is responsible for providing digital services to their clients (portals and automated processes rather than generic mailboxes), meaning they must interact with the processes and procedures of the stream aligned teams.
 Security must code and use public or government wide version control solutions.
 Enterprise Architecture must code and use public or government wide version control solutions.
 Testers must code and use public or government wide version control solutions.
@@ -138,7 +138,7 @@ Business line performance metrics are used as benchmarks and the accountability 
 
 ### GC Wide
 
-Building on the [Medium Term IT Picture - 2025](it-picture-medium-term.html), the [Digital Operations Strategic Plan: 2018-2022 Timeline](https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html#ToC15) and the [Policy on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603), digital delivery of services and benefits from the GC are automated and integrated in the lives of Canadians.
+Building on the Medium Term IT Picture, the [Digital Operations Strategic Plan: 2018-2022 Timeline](https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html#ToC15) and the [Policy on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603), digital delivery of services and benefits from the GC are automated and integrated in the lives of Canadians.
 Most Canadians use a trusted digital identity to get their services directly from the GC or with many partners that have integrated GC services into their offerings.
 
 Departments and agencies of the GC are agile, modern, open and high performing organizations.
@@ -149,7 +149,7 @@ BDM has delivered a consolidated benefits platform that is aligned with the wide
 
 ### IT within ESDC
 
-The ESDC IT Strategy continuous improvement [transformation](https://cloud.google.com/solutions/devops/devops-culture-transform) has continued (See [Medium Term IT Picture - 2025](it-picture-medium-term.html)) to improve the capabilities and follow recommendations from the DevOps Research and Assessment (DORA) and the annual [State of DevOps Report](https://cloud.google.com/devops/).
+The ESDC IT Strategy continuous improvement [transformation](https://cloud.google.com/solutions/devops/devops-culture-transform) has continued to improve the capabilities and follow recommendations from the DevOps Research and Assessment (DORA) and the annual [State of DevOps Report](https://cloud.google.com/devops/).
 
 IT delivery is fast, reliable and secure for applications (software delivery, operations) and for infrastructure (user devices, services, networks).
 The goal is still to continuously increase frequency of delivery while reducing the lead time, the time to restore service when an incident occurs and the rate of failure.

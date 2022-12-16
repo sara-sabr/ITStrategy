@@ -35,7 +35,7 @@ Favoriser la valeur stratégique des TI au sein de EDSC en réduisant leurs risq
 
 Notre vision est de mettre en oeuvre des changements de toutes sortes sur demande, rapidement, en toute sécurité et de manière durable, afin que les Canadiens puissent bénéficier de manière transparente des services du gouvernement fédéral grâce aux technologies modernes.
 Transformation d'amélioration continue et "gouvernement en tant que service" à l'échelle du GC, sur la base des [Normes numériques du GC](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html) et de la [Directive sur les services et le numérique](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32601).
-Voir [Vision des technologies de l'information](vision-moyen-long-terme.html).
+Voir [Vision des technologies de l'information]({{ site.baseurl }}/vision-moyen-long-terme.html).
 
 ## Principes directeurs de l'équipe
 

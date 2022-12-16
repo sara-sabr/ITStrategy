@@ -24,7 +24,7 @@ img + em { display: inline-block; }
 </style>
 
 <div class="alert alert-warning">
-  <strong>This is a DRAFT strategy</strong>. It is currently in the peer review process. As <a href="target-solution-delivery-model-strategy-areas-of-concerns.html">feedback comes in</a> the strategy will be updated accordingly.
+  <strong>This is a DRAFT strategy</strong>. It is currently in the peer review process. As <a href="{{ site.baseurl }}/target-solution-delivery-model-strategy-areas-of-concerns.html">feedback comes in</a> the strategy will be updated accordingly.
 </div>
 
 _Note 1: Its authoritative source and latest version of this Strategy is on [ESDC's internal network](https://014gc.sharepoint.com/sites/TargetITSolutionDeliveryModel)_
@@ -841,7 +841,7 @@ PwC Independent Study/3.2
 - [Scale Agile Framework (SAFe)](https://www.scaledagileframework.com/)
 - [Disciplined Agile (DA)](https://www.pmi.org/disciplined-agile)
 - [Large-Scale Scrum](https://less.works/)
-- [Good Strategy, Bad Strategy](http://goodbadstrategy.com/)
+- Good Strategy, Bad Strategy (Book)
 - [How to write rules that people want to follow](https://www.chapters.indigo.ca/en-ca/books/how-to-write-rules-that/9781988749020-item.html)
 
 ## Appendix D - Definitions
