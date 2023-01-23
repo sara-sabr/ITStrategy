@@ -56,14 +56,10 @@ The problem happens when you have a large amount of advance planning, bundling o
 An IT team responsible for a product is in a constant struggle to re-adjust its work based on changing demands in addition to providing long-term costing estimates to these individual projects.
 This product team will spend a great deal of energy on planning expectations of work with other peer IT teams[^5] to be able to fulfil commitments it made to all these projects.
 
-<div style="display: block; width: inherit; text-align: center; line-height: 3;">
-    <a href="/ITStrategy/assets/images/project-planning-effect-on-product-teams-en.png" style="display: block">
-        <img src = "{{ site.baseurl }}/assets/images/project-planning-effect-on-product-teams-en.png"
-        alt = "This image has a silhouette of a senior leader in the top left. To the right of the senior leader silhouette there are 8 icons displayed in a vertical line representing 8 different projects. There are three arrows going from the vertical line of project icons towards a sideways profile of a head. The top of the head is opened as if on a hinge and to the right of the head there are 4 icons arranged in a vertical line of a person carrying a heavy box. There are coloured circles going from them to inside the open head. Underneath the open head are the words 'Product team'. Underneath the 4 icons to the right of the head are the words 'Value stream teams'."
-        style="width: 800px; height: inherit;"
-        />
-    </a>
-</div>
+<a href="/ITStrategy/assets/images/project-planning-effect-on-product-teams-en.png" style="display: block">
+    <img src = "{{ site.baseurl }}/assets/images/project-planning-effect-on-product-teams-en.png"
+    alt = "This image has a silhouette of a senior leader in the top left. To the right of the senior leader silhouette there are 8 icons displayed in a vertical line representing 8 different projects. There are three arrows going from the vertical line of project icons towards a sideways profile of a head. The top of the head is opened as if on a hinge and to the right of the head there are 4 icons arranged in a vertical line of a person carrying a heavy box. There are coloured circles going from them to inside the open head. Underneath the open head are the words 'Product team'. Underneath the 4 icons to the right of the head are the words 'Value stream teams'."/>
+</a>
 <small>Figure 1. Multiple projects hitting the product team, requiring them to coordinate with the other teams involved in the value stream</small>
 
 When re-prioritization at the organization level occurs, a large-scale shift in demands occurs.
@@ -72,14 +68,10 @@ This usually results in A-Base funding re-allocation to fulfill pre-made commitm
 This leaves the IT organizations dipping into funds it currently has: either from existing program funding or with [annual updates](https://www.oag-bvg.gc.ca/internet/English/parl_oag_200611_00_e_14968.html#ch0hd3d).
 The IT organization’s A-Base, funding its salary workforce meant to keep the lights on (operations), is then heavily involved in carrying the work until funding gets adjusted, HR processes for hiring new positions completes, and Procurement processes for acquiring services finishes.
 
-<div style="display: block; width: inherit; text-align: center; line-height: 3;">
-    <a href="/ITStrategy/assets/images/project-reprioritization-effects-en.png" style="display: block">
-        <img src = "{{ site.baseurl }}/assets/images/project-reprioritization-effects-en.png"
-        alt = "This image depicts the effects of re-prioritization has on IT teams. It shows a clock-like circle image with, at each 7.5 min interval, a different image. At the noon position, it's the re-prioritization activity. At the 7.5 min, an image shows planning is re-done, at 15min, an image shows that funds are in transit and not yet available, at 22.5 min, an image shows 2 people carrying heavy boxes, at 30 min, an image shows that hiring process has started, at 37.5 min, an image shows the funds have arrived, at 45 min, an image shows a group of people with the saying 'specialized people hired', and at 52.5 min an image shows a person with a series of book with the saying 'learning curve'."
-        style="width: 800px; height: inherit;"
-        />
-    </a>
-</div>
+<a href="/ITStrategy/assets/images/project-reprioritization-effects-en.png" style="display: block">
+    <img src="{{ site.baseurl }}/assets/images/project-reprioritization-effects-en.png"
+    alt="This image depicts the effects of re-prioritization has on IT teams. It shows a clock-like circle image with, at each 7.5 min interval, a different image. At the noon position, it's the re-prioritization activity. At the 7.5 min, an image shows planning is re-done, at 15min, an image shows that funds are in transit and not yet available, at 22.5 min, an image shows 2 people carrying heavy boxes, at 30 min, an image shows that hiring process has started, at 37.5 min, an image shows the funds have arrived, at 45 min, an image shows a group of people with the saying 'specialized people hired', and at 52.5 min an image shows a person with a series of book with the saying 'learning curve'."/>
+</a>
 <small>Figure 2. Re-prioritization of projects will require A-Base funded teams to take the load until new project funds are made available to increase internal capacity</small>
 
 Additionally, it's worth noting that this advance planning effort is done using internal capacity and ends up partially wasted[^6].

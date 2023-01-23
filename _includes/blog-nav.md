@@ -4,18 +4,18 @@
   {%- for post in posts -%}
     {%- if post.title == page.title -%}
 
-      {%- unless forloop.first -%}
-        <p class="nav-item" style="flex: 1 1 0; width: 45%; padding-right: 0.5em;">
-        <a class="text-dark nav-link" title="{{ prev.title }}" href="{{ site.baseurl }}{{ prev.url }}" rel="prev">&#8672;&nbsp;{{ site.data.i18n.general.blogs.previous[page.lang] }}</a>
-        </p>
-      {%- endunless -%}
-
+      <p class="nav-item" style="flex: 1 1 0; width: 45%; padding-left: 0.5em;">
       {%- unless forloop.last -%}
         {%- assign next = posts[forloop.index] -%}
-        <p class="nav-item" style="flex: 1 1 0; width: 45%; padding-left: 0.5em; text-align: right">
-        <a class="text-dark nav-link" title="{{ next.title }}" href="{{ site.baseurl }}{{ next.url }}">{{ site.data.i18n.general.blogs.next[page.lang] }}&nbsp;&#8674;</a>
-        </p>
+        <a class="text-dark nav-link" title="{{ next.title }}" href="{{ site.baseurl }}{{ next.url }}">&#8672;&nbsp;{{ site.data.i18n.general.blogs.previous[page.lang] }}</a>
       {%- endunless -%}
+      </p>
+
+      <p class="nav-item" style="flex: 1 1 0; width: 45%; padding-right: 0.5em; text-align: right">
+      {%- unless forloop.first -%}
+        <a class="text-dark nav-link" title="{{ prev.title }}" href="{{ site.baseurl }}{{ prev.url }}" rel="prev">{{ site.data.i18n.general.blogs.next[page.lang] }}&nbsp;&#8674;</a>
+      {%- endunless -%}
+      </p>
 
     {%- endif -%}
     {%- assign prev = post -%}

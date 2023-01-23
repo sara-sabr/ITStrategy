@@ -8,32 +8,8 @@
   linkedin: elminaiusifova
   interests: 
     en: User Experience Design, User Interface Design, Communication, Front-end Development
-    fr: Conception de l’expérience utilisateur, Design d'interface, Communication, Développement d'applications client
+    fr: Conception de l'expérience utilisateur, Design d'interface, Communication, Développement d'applications client
   picture_path: assets/images/profile-elmina.jpg
-- name: Gabriel Cossette
-  title: 
-    en: Senior Advisor
-    fr: Conseiller principal
-  email: gabriel.cossette@hrsdc-rhdcc.gc.ca
-  twitter: gabrielcossette
-  github: gabrielcossette
-  linkedin: gabrielcossette
-  interests: 
-    en: Open Source Software, Ethical Computing, Architecture, Web, Community
-    fr: Logiciel libre, Informatique éthique, Architecture, Web, Communauté
-  picture_path: assets/images/profile-gabriel.png
-- name: Guillaume Charest
-  title: 
-    en: Senior Advisor
-    fr: Conseiller principal
-  email: guillaume.charest@hrsdc-rhdcc.gc.ca
-  twitter: guillcharest
-  github: gcharest
-  linkedin: guillaumecharest
-  interests: 
-    en: Open Source Software, Accessibility, Inclusion, Community
-    fr: Logiciels libres, Accessibilité, Inclusion, Communauté
-  picture_path: assets/images/profile-guillaume.png
 - name: Rémy Bernard
   title: 
     en: Senior Advisor
@@ -57,16 +33,6 @@
     en: Free (open source) software, DevOps, enterprise architecture
     fr: Logiciels libres, DevOps, architecture d'entreprise
   picture_path: assets/images/profile-sebastien.jpg
-- name: Philipe Girard
-  title: 
-    en: Manager
-    fr: Gestionnaire
-  email: philipe.girard@hrsdc-rhdcc.gc.ca
-  github: philipe-girard
-  interests: 
-    en: Sports, reading, family
-    fr: Sports, lecture, famille
-  picture_path: assets/images/profile-phil.jpg
 - name: Leigh Gardner
   title: 
     en: Analyst, IT Business Line Support Services
@@ -87,15 +53,12 @@
     en: Strategy, building strong relationships, soccer
     fr: La stratégie, gestion des relations, soccer
   picture_path: assets/images/profile-james.png
-- name: Paul Tomka
+- name: Paul Lalonde
   title: 
-    en: Technical Advisor
-    fr: Conseiller technique
-  email: paul.tomka@hrsdc-rhdcc.gc.ca
-  github: https://github.com/paul-tomka
-  linkedin: paul-tomka-cbap-cspo-912183133
+    en: Manager
+    fr: Gestionnaire
+  email: paul.lalonde@hrsdc-rhdcc.gc.ca
   interests: 
-    en: Sports, travel, technology
-    fr: Sports, voyager, technologie
+    en: ...
+    fr: ...
   picture_path: assets/images/profile-paul.jpg
-
