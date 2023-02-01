@@ -118,7 +118,7 @@ Dans un modèle de financement fondé sur les produits, l’échelle des changem
 
 Le processus d’apport des investissements change pour tenir compte de ce nouveau type de modèle de financement, qui est fondé sur les produits.
 
-Des critères sont établis pour aider les décideurs en matière d’investissement à déterminer si une proposition d’investissement particulière est mûre pour cette nouvelle approche du modèle de financement (similaire au [financement global](https://www.innovationpolicyplatform.org/content/block-funding/index.html) – texte en anglais seulement). Voici quelques-uns de ces critères :
+Des critères sont établis pour aider les décideurs en matière d’investissement à déterminer si une proposition d’investissement particulière est mûre pour cette nouvelle approche du modèle de financement (similaire au financement global). Voici quelques-uns de ces critères :
 
 1. Il est probable que l’investissement demeurera une priorité ministérielle pendant au moins trois ans.[^6]
 2. La proposition d’investissement sous-entend la mise en place d’une solution qui nécessite des itérations régulières jusqu’à la maturité, au retrait ou au remplacement (autrement dit, ses exigences devraient évoluer en fonction de la rétroaction des utilisateurs)
