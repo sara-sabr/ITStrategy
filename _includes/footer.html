@@ -42,6 +42,16 @@
           href="http://esdc.prv/{{ page.lang }}/index.shtml">{{ site.data.i18n.general.nav.esdcIntranet[page.lang] }}</a>
       </li>
 
+      {%- assign pages=site.pages | where:"ref", "privacy-disclaimer" | sort: 'lang' -%}
+      {%- for my_page in pages -%}
+      {% if my_page.lang == page.lang %}
+      <li class="list-inline-item">
+        <a class="text-muted"
+          href="{{ my_page.url | prepend: site.baseurl }}">{{ site.data.i18n.general.nav.privacyDisclaimer[my_page.lang] }}</a>
+      </li>
+      {%- endif -%}
+      {%- endfor -%}
+
     </ul>
     <p>{{ site.data.i18n.general.footer.copyright[page.lang] }}</p>
   </div>

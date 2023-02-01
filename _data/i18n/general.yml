@@ -68,6 +68,9 @@ nav:
   esdcIntranet:
     en: ESDC Intranet
     fr: Intranet EDSC
+  privacyDisclaimer:
+    en: Privacy Disclaimer
+    fr: Clause de confidentialité
 
 blogs:
   writtenBy:
