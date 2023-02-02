@@ -48,7 +48,7 @@ Just that we will be making sure that we have a good mix of opportunities.
 
 ## Using GC Forms for the application form
 
-While we didn’t have evidence of anyone having problems using the PDF application form, we have chosen to replace it with a form on [GC Forms](https://forms-formulaires.alpha.canada.ca/en/welcome-bienvenue).
+While we didn’t have evidence of anyone having problems using the PDF application form, we have chosen to replace it with a form on [GC Forms](https://forms-formulaires.alpha.canada.ca/fr/form-builder).
 GC Forms is a new Canadian Digital Service (CDS) product with a goal to “Help government-users quickly and easily publish simple, accessible, online forms that the public can use to apply for or access the services or benefits they need.”
 GC Forms is a service — you tell CDS your need, they build your form, test it and then send you the link.
 GC Forms is accessible, secure and has full authority to operate.

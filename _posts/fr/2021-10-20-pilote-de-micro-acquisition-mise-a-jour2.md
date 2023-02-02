@@ -48,7 +48,7 @@ Cela signifie simplement que nous nous assurerons que nous avons un bon équilib
 
 ## Utilisations des formulaires GC pour le formulaire de candidature
 
-Bien que nous n’ayons pas eu la preuve que quelqu’un ait eu des problèmes à utiliser le formulaire de candidature en format PDF, nous avons choisi de le remplacer par un formulaire des [formulaires GC](https://forms-formulaires.alpha.canada.ca/fr/welcome-bienvenue).
+Bien que nous n’ayons pas eu la preuve que quelqu’un ait eu des problèmes à utiliser le formulaire de candidature en format PDF, nous avons choisi de le remplacer par un formulaire des [formulaires GC](https://forms-formulaires.alpha.canada.ca/fr/form-builder).
 Les formulaires GC sont un nouveau produit du Service Numérique Canadien (SNC) ayant l’objectif suivant : « Aider les utilisateurs du gouvernement à publier rapidement et facilement des formulaires en ligne simples et accessibles que le public peut utiliser pour demander ou accéder aux services ou prestations dont il a besoin. »
 Les formulaires GC sont un service — vous dites au SNC ce dont vous avez besoin, ils conçoivent votre formulaire, le mettent à l’essai, puis vous envoient le lien.
 Les formulaires GC sont accessibles, sécuritaires et ont pleine autorité pour opérer.
