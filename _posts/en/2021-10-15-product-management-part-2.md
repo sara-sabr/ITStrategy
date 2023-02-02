@@ -118,7 +118,7 @@ In a product-based funding model, the sizes of the changes are purposefully kept
 
 The Investment intake process changes to consider this new type of funding model: product-based.
 
-Criteria are established to guide investment decision makers on whether a particular investment proposal is ripe for this new funding model approach (similarly to [block funding](https://www.innovationpolicyplatform.org/www.innovationpolicyplatform.org/content/block-funding/index.html)). Some of these criteria could include:
+Criteria are established to guide investment decision makers on whether a particular investment proposal is ripe for this new funding model approach (similarly to block funding). Some of these criteria could include:
 
 1. It is likely that the investment will remain a departmental priority for a minimum of three years[^6]
 2. It involves a solution that requires regular iterations until maturity, retirement, or replacement is achieved (i.e. its requirements are expected to change based on user feedback)
