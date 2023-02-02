@@ -660,7 +660,8 @@
     "l'ÉRO",
     "reqs",
     "Cognos",
-    "pres"
+    "pres",
+    "confidentialite"
   ],
   "flagWords": [],
   "import": ["node_modules/@cspell/dict-fr-fr/cspell-ext.json"],
