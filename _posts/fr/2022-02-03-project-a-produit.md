@@ -48,14 +48,15 @@ L'un de ces programmes est le Guichet-Emplois.
 C'est ainsi que nous relions le produit au service, puis aux programmes.
 
 <figure>
-<a href="{{ site.baseurl }}/assets/images/product-service-mgt-fr.png">
-        <img class="center" src="{{ site.baseurl }}/assets/images/product-service-mgt-fr.png"
-        alt="Cette image illustre la relation entre la gestion des produits et la gestion des services. L'image montre deux rectangles : l'un intitulé 'Gestion des produits' avec le texte 'Gérer les complexités internes pour assurer la mise à niveau des produits nécessaires à la prestation des services.' et l'autre intitulé 'Gestion des services' avec le texte 'Facilite les résultats que les clients veulent obtenir, sans qu'ils aient à gérer des coûts et des risques précis.'. Une flèche pointe du rectangle 'Gestion des produits' vers le rectangle 'Gestion des services' intitulé 'Permet' et portant le texte 'Les services sont fondés sur un ou plusieurs produits'. Cette image a été modifiée à partir de © αβ2ϲ et © AXELOS Limited 2019."
+<a href="{{ site.baseurl }}/assets/images/programmes-services-produits.png">
+        <img class="center" src="{{ site.baseurl }}/assets/images/programmes-services-produits.png"
+        alt="Cette image illustre la relation entre les programmes, les services, et les produits. L'image montre trois rectangles : l'un intitulé 'Programmes' avec une image du drapeau canadien et la mention 'Guichet-Emplois'. Ce rectangle a une flèche se dirigeant vers le bas avec mention 'Fournis' et allant à un deuxième rectangle intitulé 'Services'. Ce deuxième rectangle a une image d'une main et la mention 'Guichet-Emplois'. Ce deuxième rectangle a une flèche avec mention 'Basée sur' et allant à un troisième rectangle intitulé 'Produits'. Ce troisième rectangle a a une image d'une loupe et la mention 'Guichet-Emplois'."
         />
   </a>
-    <figcaption>Figure 1. Lien entre un produit et un service</figcaption>
+    <figcaption>Figure 1. Lien entre un programme, un service, et un produit</figcaption>
 </figure>
 
+Les programmes fournissent des services.
 Un consommateur de services ne se soucie pas des coûts et des risques liés à l'exploitation du service, mais un service utilise pour sa livraison des produits qui ONT un coût.
 La gestion des produits s'inscrit dans la gestion des complexités internes pour soutenir ces produits et leur incidence sur le niveau de service.
 Le passage au numérique signifie que certains de ces produits seront exposés au consommateur de services (p. ex., un site Web, une appli).
@@ -63,8 +64,8 @@ Le passage au numérique signifie que certains de ces produits seront exposés a
 Les mots « Guichet-Emplois » ramènent à trois choses distinctes :
 
 - un programme;
-- un service pour les chercheurs d'emploi et les employeurs, dont le rendement est ultimement mesuré au moyen du [profil d'information sur le rendement du programme (PIR)](https://dialogue/grp/WG6278300/Program%20Inventory/Forms/AllItems.aspx?RootFolder=/grp/WG6278300/Program%20Inventory/Job%20Bank&FolderCTID=0x012000B9ED43B8F503194E9CF21B1ED35BB73E&View=%7b12E60D67-CC97-44CE-BBCA-B6E4EE0365E5%7d);
-- une [famille de produits](https://014gc.sharepoint.com/sites/JobBankProductManagement/SitePages/products.aspx) – plus particulièrement les dix produits qui forment le site Web du Guichet-Emplois, qui est exposé aux clients et consommé par eux dans le cadre de la prestation des services du Guichet-Emplois.
+- [des services](https://www.tbs-sct.canada.ca/ems-sgd/edb-bdd/index-fra.html#infographic/program/HRSD-BGO05/services) pour les chercheurs d'emploi et les employeurs, dont le rendement est ultimement mesuré au moyen du [profil d'information sur le rendement du programme (PIR)](https://dialogue/grp/WG6278300/Program%20Inventory/Forms/AllItems.aspx?RootFolder=/grp/WG6278300/Program%20Inventory/Job%20Bank&FolderCTID=0x012000B9ED43B8F503194E9CF21B1ED35BB73E&View=%7b12E60D67-CC97-44CE-BBCA-B6E4EE0365E5%7d);
+- une [famille de produits](https://014gc.sharepoint.com/sites/JobBankProductManagement/SitePages/products.aspx) – plus particulièrement les onze produits qui forment le site Web du Guichet-Emplois, qui est exposé aux clients et consommé par eux dans le cadre de la prestation des services du Guichet-Emplois.
 
 Les interactions avec le site Web ont une incidence directe sur le rendement du service (p. ex., la capacité de naviguer et de chercher des emplois pertinents, d'être correctement jumelé à un emploi) et donnent rapidement une rétroaction pour apporter des améliorations, car les interactions avec le logiciel génèrent de grandes quantités de données.
 C'est l'une des nouvelles possibilités qui s'offre à nous à l'ère du numérique : la capacité d'agir rapidement en se fondant sur cette rétroaction, en prenant des décisions axées sur des données probantes.
