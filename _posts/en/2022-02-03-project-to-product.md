@@ -48,14 +48,15 @@ One of those programs is Job Bank.
 This is how we tie product to service and then to programs.
 
 <figure>
-<a href="{{ site.baseurl }}/assets/images/product-service-mgt.png">
-        <img class="center" src="{{ site.baseurl }}/assets/images/product-service-mgt.png"
-        alt="This image depicts a the relationship between product management and service management. The image shows two rectangles: one labeled 'Product mgt' with the text Managing internal complexities to upkeep product(s) necessary for service delivery; and the other labeled 'Service mgt' with the text Facilitates outcomes that clients want to achieve, without them having to manage specific costs and risks. There's an arrow pointing from the Product mgt rectangle to the Service mgt rectangle labled 'Enables' and with the text Services are based on one or more products. This image was altered from © αβ2ϲ and © AXELOS Limited 2019."
+<a href="{{ site.baseurl }}/assets/images/programs-services-products.png">
+        <img class="center" src="{{ site.baseurl }}/assets/images/programs-services-products.png"
+        alt="This image depicts a the relationship between programs, services, and products. The image shows three rectangles: one labled 'Programs' with an image of the canadian flag and the text 'Job Bank'. That rectangle has an arrow pointing downward labled 'Provide' and going to a second rectangle labled 'Services'. This second rectangle has an image of a hand and the text 'Job Bank'. This second rectangle has an wrrow pointing downward labled 'Leverages' and going to a third rectanble labled 'Products'. This third rectangle has an image of a magnifying glass and the text 'Job Bank'."
         />
   </a>
-    <figcaption>Figure 1. The Product - Service relationship</figcaption>
+    <figcaption>Figure 1. The Program - Service - Product relationship</figcaption>
 </figure>
 
+Programs provide services.
 A service consumer doesn't care about the costs and risks to operate the service, but a service uses products, which _do_ have a cost, for its delivery.
 Managing the internal complexities to sustain these products, and how they affect the service level is where product management fits.
 Moving to digital means some of those products will be exposed to service consumers (e.g., a website, a mobile app).
@@ -63,8 +64,8 @@ Moving to digital means some of those products will be exposed to service consum
 The words “Job Bank” can be understood to mean three separate things:
 
 - a program;
-- a service to job seekers and employers, ultimately measured using the program’s [Performance Information Profile (PIP)](https://dialogue/grp/WG6278300/Program%20Inventory/Forms/AllItems.aspx?RootFolder=/grp/WG6278300/Program%20Inventory/Job%20Bank&FolderCTID=0x012000B9ED43B8F503194E9CF21B1ED35BB73E&View=%7b12E60D67-CC97-44CE-BBCA-B6E4EE0365E5%7d); and
-- a [family of products](https://014gc.sharepoint.com/sites/JobBankProductManagement/SitePages/products.aspx) - most notably ten of them making up its website, which is exposed to and consumed by clients as part of Job Bank’s service delivery.
+- [services](https://www.tbs-sct.canada.ca/ems-sgd/edb-bdd/index-eng.html#infographic/program/HRSD-BGO05/services) to job seekers and employers, ultimately measured using the program’s [Performance Information Profile (PIP)](https://dialogue/grp/WG6278300/Program%20Inventory/Forms/AllItems.aspx?RootFolder=/grp/WG6278300/Program%20Inventory/Job%20Bank&FolderCTID=0x012000B9ED43B8F503194E9CF21B1ED35BB73E&View=%7b12E60D67-CC97-44CE-BBCA-B6E4EE0365E5%7d); and
+- a [family of products](https://014gc.sharepoint.com/sites/JobBankProductManagement/SitePages/products.aspx) - most notably eleven of them making up its website, which is exposed to and consumed by clients as part of Job Bank’s service delivery.
 
 Interactions with the website have a direct impact on the service performance (e.g. ability to navigate and find information, being correctly matched to a relevant job, etc.), and gives rapid insights for improvements as interactions with software generates large amounts of data.
 This is the new opportunity that digital brings: the ability to quickly act on those insights, using evidence-based decision-making.
