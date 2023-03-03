@@ -9,9 +9,11 @@ date: "2023-03-01"
 permalink: /web-services-access.html
 ---
 
+<!-- markdownlint-disable MD033 -->
+
 *This report summarizes the keys findings on challenges, successes and personal experiences of women occupying leadership roles in Information Management/Information Technology (IM/IT).*
 
-*The full What We Heard Report and question-by-question analysis can be made available upon request EDSC.DGIIT.StrategieTI-ITStrategy.IITB.ESDC@hrsdc-rhdcc.gc.ca*
+The full What We Heard Report and question-by-question analysis can be made available upon request <a href="mailto:EDSC.DGIIT.StrategieTI-ITStrategy.IITB.ESDC@hrsdc-rhdcc.gc.ca">EDSC.DGIIT.StrategieTI-ITStrategy.IITB.ESDC@hrsdc-rhdcc.gc.ca</a>
 
 **This research was endorsed by:**
 Dinesh Mohan, Director General of Strategy, Architecture and Business Relations and Susan Donovan-Brown, Director General of Business Operations Sustainability and Leader of Women in IT Network (WIT) in the Innovation, Information and Technology Branch (IITB).
@@ -37,33 +39,33 @@ Dinesh Mohan, Director General of Strategy, Architecture and Business Relations 
 
 ## Executive summary
 
-Over the course of 2022, the IT Strategy team undertook a study to further understand the challenges, successes and personal experiences of women occupying leadership roles, in the Information Management/Information Technology (IM/IT) workplace. 
+Over the course of 2022, the IT Strategy team undertook a study to further understand the challenges, successes and personal experiences of women occupying leadership roles, in the Information Management/Information Technology (IM/IT) workplace.
 This report summarizes what we heard from women leaders in both the public and private sector in IM/IT.
 In total, twenty participants were interviewed: ten from various private sector companies (e.g., Deloitte, Amazon, IBM and more) and ten from the public service, specifically within Employment and Social Development Canada (ESDC).
 
-The purpose of this study is to collect information to inform the development of strategies and initiatives to support women in IM/IT and improve gender diversity. 
+The purpose of this study is to collect information to inform the development of strategies and initiatives to support women in IM/IT and improve gender diversity.
 This report aims to reflect the ideas and perspectives raised by participants throughout the study.
 
 Engagement with participants took place through a series of one-on-one interviews to collect responses to thirty questions surrounding:
 
 1. Background (e.g., education, age range, years of experience to become an executive);
 2. Workplace environment and experience;
-3. Leadership; and 
+3. Leadership; and
 4. Advice and guidance for women in IM/IT.
 
-Participant responses provided insightful information on personal experiences of working in a male-dominated field and becoming a leader in IM/IT. 
+Participant responses provided insightful information on personal experiences of working in a male-dominated field and becoming a leader in IM/IT.
 Overall, the information collected is consistent with current data, statistics, and literature on women in IM/IT, demonstrating that more work can be done to increase the representation of women in IM/IT and improve workplace experiences in this domain.
 
-This report details all aspects of the study including the methodology, supporting literature, statistics, and participant responses. 
+This report details all aspects of the study including the methodology, supporting literature, statistics, and participant responses.
 It also includes a comparison of public and private sector responses, a list of areas for improvement and next steps as well as a five-pillar strategy on how ESDC can better support women in IM/IT and improve gender diversity.
 
 ## Context
 
-This report provides a summary of the findings from a series of one-on-one interviews with twenty female leaders in Information Management/Information Technology (IM/IT). 
+This report provides a summary of the findings from a series of one-on-one interviews with twenty female leaders in Information Management/Information Technology (IM/IT).
 It outlines the challenges, successes, and personal experiences of working in a male-dominated field.
 
 The findings set the direction for the development of strategies, initiatives, and activities to support women working in a male-dominated field and improve diversity in the workplace.
-Information and data from this report can be used by teams throughout ESDC to better understand challenges, successes, and personal experiences of women in IM/IT. 
+Information and data from this report can be used by teams throughout ESDC to better understand challenges, successes, and personal experiences of women in IM/IT.
 This information will also help those who are interested in knowing how to support women in IM/IT and develop meaningful strategies/initiatives that will improve work environments for women as well as others.
 
 ### Goals and objectives
@@ -71,19 +73,19 @@ This information will also help those who are interested in knowing how to suppo
 The goal is to use the information collected to:
 
 - find ways to support women in a male-dominated work environment, and improve diversity overall;
-- develop strategies and/or initiatives to recruit, retain and carve out succession pathways for women in IM/IT; 
+- develop strategies and/or initiatives to recruit, retain and carve out succession pathways for women in IM/IT;
 - raise awareness to some of the challenges faced by women in the workplace, and specifically in IM/IT; and
-- look at ways to improve gender distribution in IM/IT. 
+- look at ways to improve gender distribution in IM/IT.
 
-The objective of this study is to collect information on challenges, successes, and personal experiences of women in leadership roles in IM/IT. 
+The objective of this study is to collect information on challenges, successes, and personal experiences of women in leadership roles in IM/IT.
 In short, the study will collect information on:
 
 - role models and mentors in IM/IT;
 - day-to-day work experience in a male-dominated field, IM/IT;
 - career growth and professional development;
 - salary and pay (e.g., bonuses);
-- public sector (ESDC-IITB) and private sector (industry); 
-- work-life balance; and 
+- public sector (ESDC-IITB) and private sector (industry);
+- work-life balance; and
 - leadership.
 
 ### Endorsement and consultations
@@ -94,7 +96,7 @@ The following divisions were consulted to prepare this study:
 
 - ESDC Values & Ethics (V&E) - confirmed this study aligns with ESDC’s code of conduct and V&E principles
 - ESDC & IITB Information Management - recommended the information collected throughout this study be stored in ESDC’s corporate repository (SharePoint) with a retention period of 10 years
-- ESDC Privacy Management Division - reviewed and provided guidance on conducting research and sharing information 
+- ESDC Privacy Management Division - reviewed and provided guidance on conducting research and sharing information
 - ESDC Social Policy Division - provided instruction on research ethics and conducting studies with humans
 
 ### Methodology
@@ -152,6 +154,7 @@ The table below outlines the research, timeline, and participant breakdown of th
 **Woman**: a person whose reported gender is female (including cisgender, a person whose reported gender identity aligns with their sex assigned at birth)
 
 **Executives**:
+
 - **Internal participant - Public Sector (ESDC)**: EX-02 level and above
 - **External participant - Private Sector (various private sector companies)**: V-level management (Vice Presidents (VPs) and Senior Vice Presidents (SVPs) who report to C-level management); and/or C-suite Executives or Partners: Chief Information Officer (CIO), Chief Data Officer (CDO) etc.
 
@@ -165,8 +168,10 @@ The table below outlines the research, timeline, and participant breakdown of th
 
 #### **Response scales (Likert scales)**
 
-**Scale 1 - Level of Agreement**
 <table>
+<tr>
+<td colspan="5"><strong>Scale 1 - Level of Agreement</strong></td>
+</tr>
 <tr>
 <td>Strongly disagree</td>
 <td>Disagree</td>
@@ -183,8 +188,10 @@ The table below outlines the research, timeline, and participant breakdown of th
 </tr>
 </table>
 
-**Scale 2 - Frequency**
 <table>
+<tr>
+<td colspan="5"><strong>Scale 2 - Frequency</strong></td>
+</tr>
 <tr>
 <td>Never</td>
 <td>Rarely</td>
@@ -201,8 +208,10 @@ The table below outlines the research, timeline, and participant breakdown of th
 </tr>
 </table>
 
-**Scale 3 - Level of Frequency**
 <table>
+<tr>
+<td colspan="5"><strong>Scale 3 - Level of Frequency</strong></td>
+</tr>
 <tr>
 <td>Never</td>
 <td>Almost never</td>
@@ -222,7 +231,7 @@ The table below outlines the research, timeline, and participant breakdown of th
 #### **Participants**
 
 This study focused on a particular group of people: women in leadership roles, in IM/IT; therefore, only those who identified as a “woman” and occupied a leadership role participated.
-More specifically, a “leadership role” was defined as occupying a position in either of the executive echelons outlined above in **Table 2**. 
+More specifically, a “leadership role” was defined as occupying a position in either of the executive echelons outlined above in **Table 2**.
 In total, twenty participants were interviewed; ten internal and ten external participants.
 
 Internal participants were canvassed according to IITB’s organizational chart, and where participation in IITB was limited, one participant was canvassed in the Strategic and Service Policy Branch (SSPB).
@@ -248,25 +257,26 @@ Answers were then used to outline areas for improvement and to develop a compreh
 - Women in the workplace 2022 (Mckinsey)
 - Wanted: More Women in Tech (McKinsey)
 - Task Force on Women in the Economy
-- Gender Equity in Canada’s Tech Ecosystem 
+- Gender Equity in Canada’s Tech Ecosystem
 - Building an inclusive world: Canada’s Feminist International Assistance Policy
 - What’s up with gender and technology in the public service?
-As of 2019, the public service only has 25% women working in the Computer Science (CS) field. 
+
+As of 2019, the public service only has 25% women working in the Computer Science (CS) field.
 
 ### Global statistics, research, and background on Women in Technology (from Chic Geek)
 
-- Women are underrepresented in technology, holding less than 25% of computing roles - something that hasn’t changed in the past ten years. 
-- In Canada, women represent 47% of the total workforce, but only represent 28% - 31% of the Information and - - Communication Technology workforce. 
+- Women are underrepresented in technology, holding less than 25% of computing roles - something that hasn’t changed in the past ten years.
+- In Canada, women represent 47% of the total workforce, but only represent 28% - 31% of the Information and - - Communication Technology workforce.
 - It’s estimated that 1 million women are leaving technology roles and if we could reduce attrition by just one-quarter, it would keep 220,000 women in science, engineering, and technology roles.
-- Attrition spikes among women ages 35-40 as 52% of mid-career technical women leave their companies. 
-This is called the Fight-or-Flight Moment and research shows that women are twice as likely to leave as their male counterparts. 
-- The cost of turnover in technical roles averages $144,000 USD per employee for full replacement costs which includes lost productivity, recruiting costs, salary, etc. 
-- The diversity women bring to the table creates more innovate, productive teams and drive bottom line results. 
-- But why are women leaving tech? Some assume that women are leaving to start families and are seeking more work-life balance. Chic Geek’s research shows that’s not the case. Women are dedicated to their careers, passionate about making an impact in their work. The number one reason women are leaving is because they can’t see a path to advancement. 
-- A study conducted by Indeed found that the biggest reason women leave their technology jobs is attributed to lack of career growth. This was echoed in our own research where lack of career visibility came up over and over again as a barrier for women in technology. 
-- Isolation is another reason women are leaving technology. When a woman is the only woman on a team or at a site, it makes it difficult to find support or sponsorship. 
-- A study by LeanIn.Org and McKinsey & Company found that for engineers, 40% of women in senior and technical roles are “only’s,” which are defined as the only woman on their team or in the room. When women are “only’s” they are 1.5x more likely to consider leaving a profession because biases are more pronounced. 
-- It’s critical for women invest in building their networks because up to 85% of jobs and open positions are filled by networking. 
+- Attrition spikes among women ages 35-40 as 52% of mid-career technical women leave their companies.
+This is called the Fight-or-Flight Moment and research shows that women are twice as likely to leave as their male counterparts.
+- The cost of turnover in technical roles averages $144,000 USD per employee for full replacement costs which includes lost productivity, recruiting costs, salary, etc.
+- The diversity women bring to the table creates more innovate, productive teams and drive bottom line results.
+- But why are women leaving tech? Some assume that women are leaving to start families and are seeking more work-life balance. Chic Geek’s research shows that’s not the case. Women are dedicated to their careers, passionate about making an impact in their work. The number one reason women are leaving is because they can’t see a path to advancement.
+- A study conducted by Indeed found that the biggest reason women leave their technology jobs is attributed to lack of career growth. This was echoed in our own research where lack of career visibility came up over and over again as a barrier for women in technology.
+- Isolation is another reason women are leaving technology. When a woman is the only woman on a team or at a site, it makes it difficult to find support or sponsorship.
+- A study by LeanIn.Org and McKinsey & Company found that for engineers, 40% of women in senior and technical roles are “only’s,” which are defined as the only woman on their team or in the room. When women are “only’s” they are 1.5x more likely to consider leaving a profession because biases are more pronounced.
+- It’s critical for women invest in building their networks because up to 85% of jobs and open positions are filled by networking.
 
 ### Government of Canada and Employment and Social Development Canada Statistics
 
@@ -280,9 +290,10 @@ Public service representation of women in IT category
 - Representation of women is lowest at the IT-04 and IT-05 levels
 
 #### **Employment and Social Development Canada - Innovation, Information and Technology Branch**
+
 *Data provided by ESDC Workforce and Workplace Analytics (2023)
 
-**Employee level**
+##### **Employee level**
 
 Innovation, Information and Technology Branch (IITB) representation of women in the IT category
 
@@ -333,6 +344,7 @@ Innovation, Information and Technology Branch (IITB) representation of women in 
 </tr>
 <tr>
 <td>IT 04</td>
+<td>74</td>
 <td>3.3%</td>
 <td>200</td>
 <td>8.8%</td>
@@ -359,13 +371,13 @@ Innovation, Information and Technology Branch (IITB) representation of women in 
 </tr>
 </table>
 
-**Executive level**
+##### **Executive level**
 
 IITB executive representation
 
 *Groups less than 6 are suppressed for privacy restrictions
 
-- Women remain underrepresented at the EX-02 level. Other levels have not been disclosed. 
+- Women remain underrepresented at the EX-02 level. Other levels have not been disclosed.
 
 <table>
 <tr>
@@ -424,6 +436,7 @@ The following section distills some of the key similarities and differences betw
 ### Similarities
 
 #### **Workplace environment and experience**
+
 In reviewing responses to questions 61, 72 and 83, internal and external participants shared several similarities.
 Many described their work environments as being male dominated upon joining, but when they joined, they felt welcomed and respected.
 
@@ -442,6 +455,7 @@ In general, both internal and external participants felt as though they were pai
 
 Responses to leadership questions throughout this study were similar and consistent across participants.
 Many shared the same views and opinions of what it means to be a leader, and what qualities and leader must possess. The most mentioned qualities and abilities included:
+
 - strong listening skills;
 - setting a vision and goal;
 - organizing and empowering people; and
@@ -508,12 +522,13 @@ References to this literature and statistics can be found above in Section 1 of 
 We heard several examples throughout the interviews where participants experienced imposter syndrome; feeling disadvantaged or discriminated against; feeling isolated or excluded from male “teams” or “cliques;” feeling as though they must out-perform and overachieve to been seen as competent.
 These findings demonstrate that although some progress for women working in IM/IT has been made, there are still several areas, biases, and cultures to change.
 Based on the information gathered during this study, we believe the following areas require improvement:
+
 1. Education programs, co-ops, and work placements for women in IM/IT
 2. Recruitment and retention of women in IM/IT (at all levels)
 3. Clear succession pathways for women seeking management and executive roles
 4. Mentorship, sponsorship, networking, and support
 5. Engagement and support from male counterparts and leaders (men as allies)
-6. Systemic and unconscious bias 
+6. Systemic and unconscious bias
 7. Numerical representation of women in IM/IT roles and leadership positions
 8. Cultural shifts within work environments
 
@@ -555,7 +570,7 @@ The proposed strategy includes a series of activities to take place over the 202
       <li>Take your kids to work day planning (showcase IT jobs to future workers in the fall)</li>
       <li>Federal Student Work Exchange Program (FSWEP), Co-op and new graduate programs for jobs in IT (emphasis on marketing to women)</li>
       <li>Mentoring groups and sessions (formal and informal)</li>
-    </ul>    
+    </ul>
     <p>Review statistics and actively work toward increasing the number of women in the IT category</p>
   </td>
   <td>Apr. 1 - Jun. 30</td>
