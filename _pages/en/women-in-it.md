@@ -32,8 +32,8 @@ Dinesh Mohan, Director General of Strategy, Architecture and Business Relations 
 - [Literature and statistics](#literature-and-statistics)
 - [Government of Canada and Employment and Social Development Canada Statistics](#government-of-canada-and-employment-and-social-development-canada-statistics)
 - [Public vs private sector comparison](#public-vs-private-sector-comparison)
-    - [Similarities](#similarities)
-    - [Differences](#differences)
+  - [Similarities](#similarities)
+  - [Differences](#differences)
 - [Areas for improvement and next steps](#areas-for-improvement-and-next-steps)
 - [Closing remarks](#closing-remarks)
 
@@ -251,7 +251,6 @@ Answers were then used to outline areas for improvement and to develop a compreh
 
 **Literature sources, studies and statistics reviewed for this study included, but were not limited to:**
 
-
 - [The Facts about Women and Leadership in Canada](https://canadianwomen.org/the-facts/women-and-leadership-in-canada/#:~:text=Frequently-,asked,-questions%20about%20Women) Women make up just over half of the Canadian population yet continue to be underrepresented in political and professional leadership positions.
 - [Women in tech World](https://womenintechworld.com/) 25% of Canada’s tech industry is women, and of that, only 13% are sitting in executive level positions. Even fewer (5%) hold the title of CEO.
 - [Chic Geek Women in Technology](https://thechicgeek.ca/)
@@ -262,7 +261,7 @@ Answers were then used to outline areas for improvement and to develop a compreh
 - [Building an inclusive world: Canada’s Feminist International Assistance Policy](https://www.international.gc.ca/world-monde/issues_development-enjeux_developpement/priorities-priorites/policy-politique.aspx?lang=eng#4)
 - [What’s up with gender and technology in the public service?](https://www.canada.ca/en/privy-council/services/blueprint-2020/blog/whats-up-with-gender-technology-public-service.html)
 
-As of 2019, the public service only has 25% women working in the Computer Science (CS) field. 
+As of 2019, the public service only has 25% women working in the Computer Science (CS) field.
 
 ### Global statistics, research, and background on Women in Technology (from Chic Geek)
 
