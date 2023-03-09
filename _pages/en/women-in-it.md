@@ -135,7 +135,7 @@ The table below outlines the research, timeline, and participant breakdown of th
   <th>Timeline</th>
 </tr>
 <tr>
-  <td>*Review of literature, studies, statistics, and programs for women in IM/IT</td>
+  <td>Review of literature, studies, statistics, and programs for women in IM/IT</td>
   <td>Various articles, statistics, and studies</td>
   <td>March 2022-April 2022</td>
 </tr>
@@ -303,7 +303,7 @@ This is called the Fight-or-Flight Moment and research shows that women are twic
 
 #### **Government of Canada - Federal Public Service**
 
-*Data provided by Treasury Board Secretariat (2022)
+Data provided by Treasury Board Secretariat (2022)
 
 Public service representation of women in IT category
 
@@ -312,7 +312,7 @@ Public service representation of women in IT category
 
 #### **Employment and Social Development Canada - Innovation, Information and Technology Branch**
 
-*Data provided by ESDC Workforce and Workplace Analytics (2023)
+Data provided by ESDC Workforce and Workplace Analytics (2023)
 
 ##### **Employee level**
 
@@ -396,7 +396,7 @@ Innovation, Information and Technology Branch (IITB) representation of women in 
 
 IITB executive representation
 
-*Groups less than 6 are suppressed for privacy restrictions
+Groups less than 6 are suppressed for privacy restrictions
 
 - Women remain underrepresented at the EX-02 level. Other levels have not been disclosed.
 
