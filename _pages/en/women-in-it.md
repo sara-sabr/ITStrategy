@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Women and Leadership in IM/IT. Summary - What We Heard Report
-ref: web-services-access
+ref: women-leadership-im-it-what-we-heard
 lang: en
 status: Done;success
 sections: Studies
 date: "2023-03-01"
-permalink: /web-services-access.html
+permalink: /women-leadership-im-it-what-we-heard.html
 ---
 
 <!-- markdownlint-disable MD033 -->
