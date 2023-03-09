@@ -661,7 +661,17 @@
     "reqs",
     "Cognos",
     "pres",
-    "confidentialite"
+    "confidentialite",
+    "underrepresented",
+    "microaggressions",
+    "distills",
+    "Timeframe",
+    "Dinesh",
+    "Deloitte",
+    "Likert",
+    "FSWEP",
+    "elmina",
+    "iusifova"
   ],
   "flagWords": [],
   "import": ["node_modules/@cspell/dict-fr-fr/cspell-ext.json"],
