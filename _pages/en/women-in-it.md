@@ -22,19 +22,40 @@ Dinesh Mohan, Director General of Strategy, Architecture and Business Relations 
 
 ## Table of Content <!-- omit in toc -->
 
-- [Executive Summary](#executive-summary)
+- [Executive summary](#executive-summary)
 - [Context](#context)
   - [Goals and objectives](#goals-and-objectives)
   - [Endorsement and consultations](#endorsement-and-consultations)
   - [Methodology](#methodology)
-    - [Participants](#participants)
-    - [Answer Analysis](#answer-analysis)
+    - [**Table 1 - Research, timeline, and participant breakdown**](#table-1---research-timeline-and-participant-breakdown)
+    - [**Table 2 - Definitions**](#table-2---definitions)
+    - [**Response scales (Likert scales)**](#response-scales-likert-scales)
+    - [**Participants**](#participants)
+    - [**Answer analysis**](#answer-analysis)
 - [Literature and statistics](#literature-and-statistics)
-- [Government of Canada and Employment and Social Development Canada Statistics](#government-of-canada-and-employment-and-social-development-canada-statistics)
+  - [Canadian literature, studies, and statistics](#canadian-literature-studies-and-statistics)
+  - [Global statistics, research, and background on Women in Technology (from Chic Geek)](#global-statistics-research-and-background-on-women-in-technology-from-chic-geek)
+  - [Government of Canada and Employment and Social Development Canada Statistics](#government-of-canada-and-employment-and-social-development-canada-statistics)
+    - [**Government of Canada - Federal Public Service**](#government-of-canada---federal-public-service)
+    - [**Employment and Social Development Canada - Innovation, Information and Technology Branch**](#employment-and-social-development-canada---innovation-information-and-technology-branch)
+      - [**Employee level**](#employee-level)
+      - [**Executive level**](#executive-level)
 - [Public vs private sector comparison](#public-vs-private-sector-comparison)
   - [Similarities](#similarities)
+    - [**Workplace environment and experience**](#workplace-environment-and-experience)
+    - [**Equal pay**](#equal-pay)
+    - [**Leadership**](#leadership)
+    - [**Vacation**](#vacation)
+    - [**Mental health**](#mental-health)
+    - [**Career development and succession**](#career-development-and-succession)
   - [Differences](#differences)
+    - [**Education level and educational background**](#education-level-and-educational-background)
+    - [**IM/IT (or STEM) influence**](#imit-or-stem-influence)
+    - [**Salary and bonus**](#salary-and-bonus)
+    - [**Children and career impact**](#children-and-career-impact)
 - [Areas for improvement and next steps](#areas-for-improvement-and-next-steps)
+  - [Areas for improvement](#areas-for-improvement)
+  - [Next steps](#next-steps)
 - [Closing remarks](#closing-remarks)
 
 ## Executive summary
@@ -186,9 +207,9 @@ The table below outlines the research, timeline, and participant breakdown of th
 <td>4</td>
 <td>5</td>
 </tr>
-</table>
-
-<table>
+<tr>
+<td colspan="5">&nbsp;</td>
+</tr>
 <tr>
 <td colspan="5"><strong>Scale 2 - Frequency</strong></td>
 </tr>
@@ -206,9 +227,9 @@ The table below outlines the research, timeline, and participant breakdown of th
 <td>4</td>
 <td>5</td>
 </tr>
-</table>
-
-<table>
+<tr>
+<td colspan="5">&nbsp;</td>
+</tr>
 <tr>
 <td colspan="5"><strong>Scale 3 - Level of Frequency</strong></td>
 </tr>
