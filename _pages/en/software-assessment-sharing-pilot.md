@@ -15,7 +15,7 @@ permalink: /software-assessment-sharing-pilot.html
 - [Feedback](#feedback)
 - [Next Steps](#next-steps)
 
-The GC being one legal entity means that departments, agencies and other GC organizations should (must) share documents and collaborate widely to help each other.
+The Government of Canada (GC) being one legal entity means that departments, agencies and other GC organizations should (must) share documents and collaborate widely to help each other.
 GCxchange is a new platform available to all GC departments and agencies.
 Through a one year pilot, the IT Strategy team at ESDC created a repository for [Software Assessments](https://gcxgce.sharepoint.com/teams/1000219) so that they can be shared across the GC.
 
@@ -25,7 +25,7 @@ GC departments are individually assessing and certifying their software assets.
 This way of working leads to the following issues:
 
 - **Duplication of Efforts** - the same software product is assessed more than once by different public servants
-- **Scarcity of Labour** - the skillsets needed to complete an assessment (architecture, accessibility, security, and privacy domains) is not broadly available which can affect a department's ability to complete an assessment in a timely and quality fashion
+- **Scarcity of Labour** - the skills needed to complete an assessment (architecture, accessibility, security, and privacy domains) is not broadly available which can affect a department's ability to complete an assessment in a timely and quality fashion
 - **Inconsistency**: an assessment from one department may be different than another one, causing confusion.
 - **Employee Satisfaction** - It can be less motivating for assessors and their teams to work in isolation and make an impact only to a single department. Consequently, this leads to less learning opportunities
 - **Users’ Security and Productivity** - Bugs/issues/workarounds and security vulnerabilities are only known by the department(s) who discovered it
@@ -53,7 +53,7 @@ This pilot supports both the "Work in the open by default" and "Collaborate wide
 The [Directive on Open Government](https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=28108) also calls for "Maximizing the release of GC information".
 In this case we are looking to maximize the internal release (between departments) of information.
 
-Finnaly, [Canada's Digital Ambition 2022](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-operations-strategic-plans/canada-digital-ambition.html#toc4) defines digital for the GC as:
+Finally, [Canada's Digital Ambition 2022](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-operations-strategic-plans/canada-digital-ambition.html#toc4) defines digital for the GC as:
 
 > The GC is an open and service-oriented organization that operates and delivers programs and services to people and businesses in simple, modern and effective ways that are optimized for digital and available anytime, anywhere and from any device.
 > Digitally, the GC must **operate as one** to benefit the people of Canada.
@@ -65,7 +65,7 @@ Sharing documents created in one department for the benefit of the others should
 
 ## GCxchange Group
 
-GCxchange is an instance of Sharepoint/Teams making a good platform to create a shared document library and space to dicsuss software assessments in the GC.
+GCxchange is an instance of Sharepoint/Teams making a good platform to create a shared document library and space to discuss software assessments in the GC.
 The [Software Assessments GCexchange group](https://gcxgce.sharepoint.com/teams/1000219) is accessible to most of GC departments already.
 GC Employees can see what documents have been shared and participate in discussions about software assessments.
 
@@ -99,17 +99,17 @@ However, in order to not prejudice future procurement processes we must confirm 
 - if a particular vendor has a highly restrictive NDA, confirm with legal.
 
 Legal confirmed that there are no issues with ESDC sharing assessments, since this is internal to GC, for informational purposes only and it is not a blanket assessment for all GC departments to follow.
-This applies wether the documents are Unclassified, Protected or Classified.
-The diference would be the process to share these documents.
+This applies whether the documents are Unclassified, Protected or Classified.
+The difference would be the process to share these documents.
 
-For the pilot, we are only looking to share Unclassified information, since that is what is curently supported on GCxchange.
+For the pilot, we are only looking to share Unclassified information, since that is what is currently supported on GCxchange.
 
-### Fear of Being Embarrased
+### Fear of Being Embarrassed
 
 Through the pilot, some internal teams expressed concerns around usefulness of sharing information between departments, of fear of causing embarrassment, and questioning the document classification of those assessments as well as the legal aspects of sharing.
 
 The pilot was able to demonstrate that other departments, especially smaller ones that do not have the same capacity as ESDC, were pleased to have ESDC's assessments shared, that no embarrassment occurred, and that only Unclassified documents were shared with the legal cover from ESDC's Legal Services.
-Even with the limited number of assessments shared so far, the feedback has been overwhelmingly positive from the community.
+Even with a limited number of assessments shared, the feedback has been overwhelmingly positive from the wider GC community.
 
 ## Feedback
 
@@ -119,10 +119,10 @@ Close to 100 GC employees joined after only a few posts on GCconnex, GCcollab, L
 The Open Government teams at TBS reached out to invite us to the Open Government Working Group to present the pilot.
 The team working on the Data Strategy Renewal (also at TBS) offered to feature the pilot in a "vignette".
 
-There were many comments that this is a very good idea, congratulating us on the initiave, hoping more departments got on board and forwarding this to there collegues.
+There were many comments that this is a very good idea, congratulating us on the initiative, hoping more departments got on board and forwarding this to there colleagues.
 
-Something that came up alot is that most departments don't have the same software assessment teams that ESDC has (architecture, accessibility, security and privacy), with diferent teams responsible for diferent parts of the assessments and intake process.
-Usually all assessments will be done by small cross functionnal teams, that would really benefit from being able to refernece assessments done by larger departments with dedicated or specilized teams.
+Most departments don't have the same software assessment teams that ESDC has (architecture, accessibility, security and privacy), with different teams responsible for different parts of the assessments and intake process.
+Usually all assessments will be done by small cross functional teams, that would really benefit from being able to reference assessments done by larger departments with dedicated or specialized teams.
 
 We also got many questions about specific software to see if others had assessed it and how its being used in other departments.
 We tried to get the answers from the teams at ESDC or start the conversation on Teams on GCxchange.
@@ -132,7 +132,7 @@ The process is currently being reviewed, but we still met with their Architectur
 
 ## Next Steps
 
-Dispite having confirmed that the GC is one legal entity and that software assessments are generally Unclassified, that will still be the biggest challenge to continue sharing and to get others to start sharing and [working in the open](https://sara-sabr.github.io/ITStrategy/2019/11/19/working-in-the-open-part-1.html).
+Despite having confirmed that the GC is one legal entity and that software assessments are generally Unclassified, that will still be the biggest challenge to continue sharing and to get others to start sharing and [working in the open](https://sara-sabr.github.io/ITStrategy/2019/11/19/working-in-the-open-part-1.html).
 The culture of silos and not wanting to show your work outside your team is a real fear that teams have.
 
 The pilot aims to keep promoting collaboration between departments by sharing more software assessments from the ESDC teams and onboarding other departments to start sharing.

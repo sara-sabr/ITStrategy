@@ -671,7 +671,8 @@
     "Likert",
     "FSWEP",
     "elmina",
-    "iusifova"
+    "iusifova",
+    "GCxchange"
   ],
   "flagWords": [],
   "import": ["node_modules/@cspell/dict-fr-fr/cspell-ext.json"],
