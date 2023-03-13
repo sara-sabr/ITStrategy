@@ -11,7 +11,7 @@ permalink: /software-assessment-sharing-pilot.html
 - [Problem Statement](#problem-statement)
 - [Expected Results](#opportunity-and-expected-results)
 - [GCxchange Group](#gcxchange-group)
-- [Sharing ESDC Software Assessments](#sharing-esdc-software-assessments)
+- [Sharing ESDC Software Assessments](#sharing-software-assessments)
 - [Feedback](#feedback)
 - [Next Steps](#next-steps)
 
@@ -36,12 +36,12 @@ The pilot aims to reduce the workload required for software assessments across t
 It will also bring together the software assessment community in the GC and increase collaboration between departments.
 Other impacts include:
 
-- Less duplication and costs 
-- Assessors can dedicate their time to high-value work 
-- Higher quality of assessments 
-- Higher employee satisfaction 
-- Better security and productivity for end users 
-- Reduced risks (by awareness of other departments using the same application) 
+- Less duplication and costs
+- Assessors can dedicate their time to high-value work
+- Higher quality of assessments
+- Higher employee satisfaction
+- Better security and productivity for end users
+- Reduced risks (by awareness of other departments using the same application)
 - Detailed audit trail (version control)
 - Enhanced evidence-informed decision-making
 
@@ -71,14 +71,13 @@ GC Employees can see what documents have been shared and participate in discussi
 
 Note: **Only Unclassified information can be shared on GCxchange** and that is the scope of documents to share as part of the pilot.
 
-## Sharing ESDC Software Assessments
-## Sharing Software Assessments - our journey and findings
+## Sharing Software Assessments
 
 This section highlight how ESDC is sharing software assessment and what concerns are currently being addressed to enable the sharing of those documents.
 
 Before software can be used at ESDC, it must be assessed for architecture, accessibility, security and privacy.
 The teams responsible for software assessments at ESDC agreed to participate in the pilot by sharing templates and the assessments they produce during the software intake process.
-The concerns regarding sensitivity of some software assessments are being worked on with the respective teams in order to ensure only unclassified documents are being shared on GCExchange.
+The concerns regarding sensitivity of some software assessments are being worked on with the respective teams in order to ensure only unclassified documents are being shared on GCxchange.
 
 ### Document Classification
 
@@ -88,14 +87,14 @@ Highlighting the need to have better standards in place to enable information sh
 
 The ESDC Regional Security Office (RSO) reviewed some sample assessment documents from architecture, accessibility and security, and found that they were Unclassified.
 The RSO also reminded teams that classification of documents is still the responsibility of each team creating then.
- 
+
 ### Legal Questions
 
 As a starting position, the Government of Canada is one legal entity, hence sharing information between departments is generally not a problem.
 However, in order to not prejudice future procurement processes we must confirm the following before sharing:
 
 - The documents shared are for information purposes only - that is, to provide additional information for departments to consider when applying their own assessments for software usage;
-- the information is shared only inside the GC; 
+- the information is shared only inside the GC;
 - the results of the shared audits do not disqualify a vendor from solicitation with other departments - that is, applying a blanket negative recommendation for all of GC would have important legal risks; and
 - if a particular vendor has a highly restrictive NDA, confirm with legal.
 
