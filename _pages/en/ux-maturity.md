@@ -55,12 +55,13 @@ In recent years, the surge of online platforms, applications, programs and servi
 As such, it is critical for departments to develop programs and services that provide Canadians with an intuitive digital experience.
 To do this, the GC has highlighted the importance of UX within its policies and plans, so that departments deliver products and solutions that meet users’ needs and provide services that are alike that of commercial service offerings (e.g., social media, online shopping, online banking etc.).
 By doing so, each department realizes the benefits of advancing the breadth of their services by understanding users’ needs and serving more Canadians across the country.
+
 The following Standards, Policies, Plans, and National Commitments set the overarching vision for UX across the GC:
 
-1. The Digital Nations Charter 2020  commits Canada to working toward core principles of digital development with a focus on user needs.
-2. The Government of Canada Digital Standards that concentrates in particular, designing with users, iterate and improve frequently, and build in accessibility from the start.
-3. Policy and Service and Digital articulates how GC organizations manage service delivery in the digital era by involving users directly and continuously improve their products and services throughout their lifecycle.  
-4. Canada’s Digital Ambition 2022  promotes priorities and activities which will help departments move toward the digital delivery of programs and services that users need.
+1. [The Digital Nations Charter 2020](https://www.canada.ca/en/government/system/digital-government/improving-digital-services/digital-nations-charter.html)  commits Canada to working toward core principles of digital development with a focus on user needs.
+2. [The Government of Canada Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html) that concentrates in particular, designing with users, iterate and improve frequently, and build in accessibility from the start.
+3. [Policy and Service and Digital](https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32603) articulates how GC organizations manage service delivery in the digital era by involving users directly and continuously improve their products and services throughout their lifecycle.  
+4. [Canada’s Digital Ambition 2022](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-operations-strategic-plans/canada-digital-ambition.html) promotes priorities and activities which will help departments move toward the digital delivery of programs and services that users need.
 
 These GC policies centered around “user needs” and “design with users” provide IITB an opportunity to improve its user engagement abilities.
 
@@ -89,35 +90,50 @@ Upon collection of survey results, these groups were consulted again to come up 
 ### Survey creation and data storage
 
 To create the survey IT Strategy collaborated with the Interactive Fact-finding Service (IFFS) team using an internally developed IFFS tool within IITB.
-All results have been stored on the IT Strategy’s SharePoint site, in the following document Data Analysis.
+All results have been stored on the IT Strategy’s SharePoint site.
 
 ### Metrics and methodology
 
-The survey was developed based on Nielsen Norman maturity model that incorporates new norms and adapts to the evaluation of current industry. The survey questions covered different aspects of UX which were based on 4 main factors (1 to 4) and 12 subfactors (a to l).
+The survey was developed based on [Nielsen Norman maturity model](https://www.nngroup.com/articles/factors-ux-maturity/) that incorporates new norms and adapts to the evaluation of current industry. The survey questions covered different aspects of UX which were based on 4 main factors (1 to 4) and 12 subfactors (a to l).
+
 1. Strategy
-a. vision;
-b. planning and prioritization;
-c. budget;
+
+    a. vision;
+
+    b. planning and prioritization;
+
+    c. budget;
+
 
 2. Culture
-d. awareness;
-e. appreciation and support;
-f. competency;
-g. adaptability;
+
+    d. awareness;
+
+    e. appreciation and support;
+
+    f. competency;
+
+    g. adaptability;
 
 3. Process
-h. methods;
-i. collaboration;
-j. consistency;
+
+    h. methods;
+
+    i. collaboration;
+
+    j. consistency;
 
 4. Outcomes
-k. impact of the design;
-l. measurement.
+
+    k. impact of the design;
+
+    l. measurement.
 
 ## Research
 
-The IT Strategy team conducted an online survey containing 13 questions to be answered within a two-week period between October 24 and November 10, 2022. The survey took about 15 minutes to complete and focused on four UX factors: 1. Strategy; 2. Culture; 3. Process 4. Outcomes, which are outlined in  The UX Maturity model of Nielsen Norman Group. The survey also contained a section that asked participants to provide feedback on how UX is conducted within their team and division.
-Once completed, the survey populated a score on a scale from 1-5 for each question and subfactor. To determine which of the 6 stages of UX Maturity model of Nielsen Norman Group IITB currently occupies the scores with decimals were rounded to the nearest number, which means that scores with digit more than 0.5 were rounded up; whereas scores with digit of 0.5 or less were rounded down. From there, the scores for each subfactor were calculated for each IITB division and then used to populate an overall score for the branch. In order to convert the scale from 1-5 to 1-6, the survey results were multiplied by 1.2.
+The IT Strategy team conducted an online survey containing 13 questions to be answered within a two-week period between October 24 and November 10, 2022. The survey took about 15 minutes to complete and focused on four UX factors: 1. Strategy; 2. Culture; 3. Process 4. Outcomes, which are outlined in  [The UX Maturity model of Nielsen Norman Group](https://www.nngroup.com/articles/factors-ux-maturity/). The survey also contained a section that asked participants to provide feedback on how UX is conducted within their team and division.
+
+Once completed, the survey populated a score on a scale from 1-5 for each question and subfactor. To determine which of the [6 stages of UX Maturity model of Nielsen Norman Group](https://www.nngroup.com/articles/ux-maturity-model/#:~:text=The%20UX%2DMaturity,centered%E2%80%93design%20outcomes.) IITB currently occupies the scores with decimals were rounded to the nearest number, which means that scores with digit more than 0.5 were rounded up; whereas scores with digit of 0.5 or less were rounded down. From there, the scores for each subfactor were calculated for each IITB division and then used to populate an overall score for the branch. In order to convert the scale from 1-5 to 1-6, the survey results were multiplied by 1.2.
 
 ### Levels and scoring
 
@@ -142,7 +158,7 @@ This figure describes each stage of UX maturity from 1. Absent to 6. User-driven
 <figure>
 <a href="{{ site.baseurl }}assets/images/maturity-levels.png">
         <img class="center" src="{{ site.baseurl }}assets/images/maturity-levels.png"
-        alt=""
+        alt="This figure describes each stage of UX maturity from 1. Absent to 6. User-driven"
         />
   </a>
     <figcaption>Figure 1. 6 Stages of UX Maturity</figcaption>
@@ -174,6 +190,7 @@ Quick wins are prioritized over long-term investments.
 IITB’s score for budget is 2.8 (~3)/6, **emergent**.
 This means when it comes to getting the work done, UX budget and team members are spread thinly among multiple teams.
 The strategy factor focuses on the strategy that includes high-level decisions and planning that contributes to the success of UX work before it begins and the availability of UX resources.
+
 Overall, for the main factor of strategy, the branch level is 3.3 (~3)/6, which is emergent. Most teams scored around level 3/6 for the Strategy factor, which is emergent level.
 
 
@@ -192,6 +209,7 @@ This means there might be some support for UX from some leaders, but most are st
 Especially for the less tangible aspects of UX (discovery research, qualitative testing, etc.), there is widespread lack of respect.
 
 - **Subfactor c. Competency** assesses whether the organization has dedicated UX-roles, a breadth of skills in UX teams, and pertinent hiring practices.
+
 IITB’s score for competency is 3.0 (~3)/6, **emergent**.
 This means the limited UX staff are isolated, and their skillsets are often incomplete.
 The organization lacks understanding of the multifaceted benefits of a user-centered design process.
@@ -224,9 +242,10 @@ Most teams communicate frequently in Agile ceremonies, such as stand-ups and ret
 IITB’s score for consistency is 3.0 (~3)/6, **emergent**.
 This means that the design process and outputs are inconsistent, due to isolated UX staff serving conflicting needs and priorities across the organization.
 UX is part of the development process, but only at specific times, not from beginning to end.  UX processes are still occasionally seen as a detriment to project schedules and team creativity.
-The process factor includes all UX work that occurs (research, design, content creation, etc.) within an organization.
-Overall, for the main factor of process the branch level is at 3.5 (~3)/6, which is emergent.
-Most teams scored around level 3/6 for the process factor, which is emergent level.
+
+The **process factor** includes all UX work that occurs (research, design, content creation, etc.) within an organization.
+Overall, for the main factor of process the branch level is at 3.5 (~3)/6, which is **emergent**.
+Most teams scored around level 3/6 for the process factor, which is **emergent level**.
 
 
 4.**Outcomes factor**
@@ -251,7 +270,7 @@ Overall, for the outcomes factor, the branch level is 3.75 (~4)/6, which is **st
 
 ## Level of UX Maturity in IITB
 
-According to Nielsen Norman group, when UX maturity is level 3, emergent, the organization sees more UX work happening across teams, but efforts are generally low-budget, unstable, and do not align to any organization-wide strategy.
+According to [Nielsen Norman group](https://www.nngroup.com/articles/ux-maturity-stage-3/), when UX maturity is level 3, emergent, the organization sees more UX work happening across teams, but efforts are generally low-budget, unstable, and do not align to any organization-wide strategy.
 A limited number of UX-specific roles exists, and they are left to function without centralized UX resources and frameworks.
 Understanding of UX value varies across teams and user-centered methods are applied inconsistently.
 Although some teams prioritizing UX may see the benefits and results of their efforts, most leaders still need convincing. For the most part, UX is still seen as “nice to have” and it is often the first to go when tradeoffs must be made.
@@ -261,21 +280,22 @@ IITB’s level of maturity is based on 4 main factors in average scores at level
 
 ### Advantages and disadvantages of being at level 3, emergent
 
-According to Nielsen Norman group:
+According to [Nielsen Norman group](https://www.nngroup.com/articles/ux-maturity-stage-3/):
 
-The advantage of being at stage 3 is that user-centric methods and approaches do exist, but it lacks cohesion and integration.
+**The advantage** of being at stage 3 is that user-centric methods and approaches do exist, but it lacks cohesion and integration.
 UX work might be involved in some projects and processes, but it is not consistently well-executed and incorporated into strategy and planning.
 Some individual teams might realize the value of UX, and some leaders may even support and advocate for UX but since investment is low there are skill gaps that need to be addressed.
-The disadvantage and risk of being at stage 3 is complacency.
+
+**The disadvantage** and risk of being at stage 3 is complacency.
 The organization might feel satisfied with this level thinking “we do enough UX now” and get stuck at stage 3.
 UX must be functional to have true impact, but if an organization is still seeking proof of UX value, it will be difficult to convince leadership that not only does UX work need to be done, but additional resources must be invested for more tangible actions.
 
 
 ## Recommendations
 
-#### How to level up
+### How to level up
 
-From the Nielsen Norman Maturity model to level up from level 3, emergent1, to level 4, structured2, the organization needs to focus on the:
+From the [Nielsen Norman Maturity model](https://www.nngroup.com/articles/ux-maturity-stage-3/#:~:text=How%20to%20Level%20Up%20to%20Stage%204) to level up from level 3, emergent1, to level 4, structured 2, the organization needs to focus on the:
 
 - **process** factor of UX maturity by applying and supporting UX work that occurs (research, design, content creation, etc.) within an organization.
 
@@ -287,7 +307,7 @@ Here are some activities that the organization needs to consider concentrating:
 
 - Provide professional development programs to upskill existing UX staff
 - Create UX training and education for crossfunctional roles (especially teams without regular UX support)
-- Establish centralized UX resources such as design systems and research repositories
+- Establish centralized UX resources such as [design systems](https://www.nngroup.com/articles/design-systems-101/) and [research repositories](https://www.nngroup.com/articles/research-repositories/)
 - Create unifying design principles that connect UX work across teams
 - Document and share standardized design process and support methods across teams
 - Enhance collaboration and communication opportunities among UX staff members by instituting a regular UX-meeting cadence
