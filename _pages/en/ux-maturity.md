@@ -11,7 +11,7 @@ permalink: /iitb-ux-maturity-assessment.html
 
 <!-- markdownlint-disable MD033 -->
 
-*This report identifies areas of improvement of user experience (UX) processes and the role UX plays in Innovation, Information and Technology Branch (IITB)*
+> **This report identifies areas of improvement of user experience (UX) processes and the role UX plays in Innovation, Information and Technology Branch (IITB)**
 
 **Assessment and report completed by** *Elmina Iusifova & Leigh Gardner*
 
@@ -22,8 +22,6 @@ permalink: /iitb-ux-maturity-assessment.html
 - [Research](#research)
 - [Analysis](#analysis)
 - [Recommendations](#recommendations)
-
-
 
 ## Context
 
@@ -36,7 +34,6 @@ The assessment measures IITB’s desire and ability to successfully deliver user
 Up until now, there was a limited amount of knowledge and information on UX within IITB.
 It was unclear what guidance and processes were followed for UX during the product development lifecycle (including digital products and applications), and if value was provided to the success of a project or return on investment.
 As a result, this may have excluded some of the main UX practices and process throughout the development lifecycle.
-
 
 ### What is UX?
 
@@ -69,7 +66,7 @@ These GC policies centered around “user needs” and “design with users” p
 
 The goal of this assessment is to get a better understanding of IITB’s UX practices and processes, and determine IITB’s level of UX maturity.
 To measure this, the IT Strategy team developed an assessment with two objectives.
-The first objective was to measure IITB’s level of UX maturity to determine quality and consistency in research and design processes, recourses, tools and operations; to understand how widely UX is used in product development and service delivery.
+The first objective was to measure IITB’s level of UX maturity to determine quality and consistency in research and design processes, resources, tools and operations; to understand how widely UX is used in product development and service delivery.
 The assessment identified areas for improvement to strengthen UX processes and develop a capacity to successfully deliver user-centric products/services.
 The second objective was to provide guidance and recommendations on how to improve the level of UX maturity in IITB and align with GC policies.
 
@@ -82,7 +79,7 @@ This research focused on teams throughout the IITB who have a product, service o
 Before conducting the assessment, IT Strategy consulted with the groups below to generate ideas on preparing a survey to measure IITB’s level of UX maturity.
 
 - Youth Digital Gateway, Digital Experience and Client Data team, and the Accelerator Hub team from Transformational Management Branch (TMB);
-- CX Centre of Expertise, under the Strategic Directions Directorate in Citizen Service Branch (CSB), Service Canada; and 
+- CX Centre of Expertise, under the Strategic Directions Directorate in Citizen Service Branch (CSB), Service Canada; and
 - Transformation Management Directorate under the Transformation Management Branch (now with the Strategic and Service Policy Branch)
 
 Upon collection of survey results, these groups were consulted again to come up with solutions and recommendations for IITB to advance its level of UX maturity.
@@ -103,7 +100,6 @@ The survey was developed based on [Nielsen Norman maturity model](https://www.nn
     b. planning and prioritization;
 
     c. budget;
-
 
 2. Culture
 
@@ -164,8 +160,6 @@ This figure describes each stage of UX maturity from 1. Absent to 6. User-driven
     <figcaption>Figure 1. 6 Stages of UX Maturity</figcaption>
 </figure>
 
-       
-
 ## Analysis
 
 The following section describes each factor, subfactor and overall score for IITB.
@@ -193,7 +187,6 @@ The strategy factor focuses on the strategy that includes high-level decisions a
 
 Overall, for the main factor of strategy, the branch level is 3.3 (~3)/6, which is emergent. Most teams scored around level 3/6 for the Strategy factor, which is emergent level.
 
-
 2.**Culture factor**
 
 This section summarizes IITB’s UX awareness, appreciation and support, competency, and adaptability.
@@ -211,7 +204,7 @@ Especially for the less tangible aspects of UX (discovery research, qualitative 
 - **Subfactor c. Competency** assesses whether the organization has dedicated UX-roles, a breadth of skills in UX teams, and pertinent hiring practices.
 
 IITB’s score for competency is 3.0 (~3)/6, **emergent**.
-This means the limited UX staff are isolated, and their skillsets are often incomplete.
+This means the limited UX staff are isolated, and their skill sets are often incomplete.
 The organization lacks understanding of the multifaceted benefits of a user-centered design process.
 
 - **Subfactor d. Adaptability** addresses whether the organization is willing to advance best practices and adjust approaches to improve, and logistically able to adapt to changing needs.
@@ -220,7 +213,6 @@ IITB’s score for adaptability is 4.3 (~4)/6, **structured**.
 This means that  some (but not all) teams at the organization desire and plan to repeat, grow, and improve UX work.
 
 **The culture factor** focuses on UX literacy and UX culture. It circulates ideas that contribute to the organization’s understanding of the purpose and value of UX. Overall, for the main factor of culture, the branch level is 3.7 (~4)/6, which is **structured**. Most teams scored around level 4/6 for the culture factor, which is **structured level**.
-
 
 3.**Process factor**
 
@@ -247,7 +239,6 @@ The **process factor** includes all UX work that occurs (research, design, conte
 Overall, for the main factor of process the branch level is at 3.5 (~3)/6, which is **emergent**.
 Most teams scored around level 3/6 for the process factor, which is **emergent level**.
 
-
 4.**Outcomes factor**
 
 This section assesses the impact of design and existing user-centric metrics.
@@ -267,16 +258,14 @@ Most of the time, UX metrics do not align with an organization-wide strategy and
 **The outcomes factor** highlights the result of UX research and design if there is any in the organization.
 Overall, for the outcomes factor, the branch level is 3.75 (~4)/6, which is **structured**. Most teams scored around level 4/6 for the outcomes factor, which is structured level.
 
-
 ## Level of UX Maturity in IITB
 
 According to [Nielsen Norman group](https://www.nngroup.com/articles/ux-maturity-stage-3/), when UX maturity is level 3, emergent, the organization sees more UX work happening across teams, but efforts are generally low-budget, unstable, and do not align to any organization-wide strategy.
 A limited number of UX-specific roles exists, and they are left to function without centralized UX resources and frameworks.
 Understanding of UX value varies across teams and user-centered methods are applied inconsistently.
-Although some teams prioritizing UX may see the benefits and results of their efforts, most leaders still need convincing. For the most part, UX is still seen as “nice to have” and it is often the first to go when tradeoffs must be made.
+Although some teams prioritizing UX may see the benefits and results of their efforts, most leaders still need convincing. For the most part, UX is still seen as “nice to have” and it is often the first to go when trade-offs must be made.
 Based on results received, each division’s level of UX maturity scores an average of level 3.5 (~3)/6.
 IITB’s level of maturity is based on 4 main factors in average scores at level 3.5 (~3)/6 as well.
-
 
 ### Advantages and disadvantages of being at level 3, emergent
 
@@ -289,7 +278,6 @@ Some individual teams might realize the value of UX, and some leaders may even s
 **The disadvantage** and risk of being at stage 3 is complacency.
 The organization might feel satisfied with this level thinking “we do enough UX now” and get stuck at stage 3.
 UX must be functional to have true impact, but if an organization is still seeking proof of UX value, it will be difficult to convince leadership that not only does UX work need to be done, but additional resources must be invested for more tangible actions.
-
 
 ## Recommendations
 
@@ -306,7 +294,7 @@ From the [Nielsen Norman Maturity model](https://www.nngroup.com/articles/ux-mat
 Here are some activities that the organization needs to consider concentrating:
 
 - Provide professional development programs to upskill existing UX staff
-- Create UX training and education for crossfunctional roles (especially teams without regular UX support)
+- Create UX training and education for cross-functional roles (especially teams without regular UX support)
 - Establish centralized UX resources such as [design systems](https://www.nngroup.com/articles/design-systems-101/) and [research repositories](https://www.nngroup.com/articles/research-repositories/)
 - Create unifying design principles that connect UX work across teams
 - Document and share standardized design process and support methods across teams
