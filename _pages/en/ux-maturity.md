@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Innovation, Information and Technology Branch User Experience Maturity Assessment
+title: IITB User Experience Maturity Assessment
 ref: iitb-ux-maturity-assessment
 lang: en
 status: Done;success
@@ -152,8 +152,8 @@ The factors and their subfactors produce a level of UX maturity from absent to u
 This figure describes each stage of UX maturity from 1. Absent to 6. User-driven.
 
 <figure>
-<a href="{{ site.baseurl }}assets/images/maturity-levels.png">
-        <img class="center" src="{{ site.baseurl }}assets/images/maturity-levels.png"
+<a href="{{ site.baseurl }}/assets/images/maturity-levels.png">
+        <img class="center" src="{{ site.baseurl }}/assets/images/maturity-levels.png"
         alt="This figure describes each stage of UX maturity from 1. Absent to 6. User-driven"
         />
   </a>
@@ -164,7 +164,7 @@ This figure describes each stage of UX maturity from 1. Absent to 6. User-driven
 
 The following section describes each factor, subfactor and overall score for IITB.
 
-1.**Strategy factor**
+### **Strategy factor**
 
 This section outlines the branch level for UX vision, planning, and prioritization and budget.
 
@@ -187,7 +187,7 @@ The strategy factor focuses on the strategy that includes high-level decisions a
 
 Overall, for the main factor of strategy, the branch level is 3.3 (~3)/6, which is emergent. Most teams scored around level 3/6 for the Strategy factor, which is emergent level.
 
-2.**Culture factor**
+### **Culture factor**
 
 This section summarizes IITB’s UX awareness, appreciation and support, competency, and adaptability.
 
@@ -214,7 +214,7 @@ This means that  some (but not all) teams at the organization desire and plan to
 
 **The culture factor** focuses on UX literacy and UX culture. It circulates ideas that contribute to the organization’s understanding of the purpose and value of UX. Overall, for the main factor of culture, the branch level is 3.7 (~4)/6, which is **structured**. Most teams scored around level 4/6 for the culture factor, which is **structured level**.
 
-3.**Process factor**
+### **Process factor**
 
 This section measures frequency of use of IITB’s UX methods, collaboration and consistency.
 
@@ -239,7 +239,7 @@ The **process factor** includes all UX work that occurs (research, design, conte
 Overall, for the main factor of process the branch level is at 3.5 (~3)/6, which is **emergent**.
 Most teams scored around level 3/6 for the process factor, which is **emergent level**.
 
-4.**Outcomes factor**
+### **Outcomes factor**
 
 This section assesses the impact of design and existing user-centric metrics.
 
@@ -304,72 +304,72 @@ Here are some activities that the organization needs to consider concentrating:
 Here are some proposed recommendations for IITB to consider that can help to leverage mentioned above activities:
 
 <table>
-<tr>
-<td>Recommendations</td>
-<td>Activity</td>
-<td>Approx. timeline</td>
-</tr>
-<tr>
-<td>1. Build User Experience (UX) working group</td>
-<td>1.1. Measure. Start with a kick-off workshop to measure the IITB team's attitude towards UX concepts and approaches.
-This way, an indication of the employee's familiarity and openness to UX processes can be established, which can help tailor the UX approach.</td>
-<td>Summer 2023</td>
-</tr>
-<tr>
-<td></td>
-<td>1.2. Investigate. Investigate and provide a reusable set of UX disciplines/practices that teams can leverage.</td>
-<td>Summer 2023</td>
-</tr>
-<tr>
-<td></td>
-<td>1.3. Collaborate. Enhance collaboration and communication opportunities among employees who have UX work experience across teams and divisions, encourage sharing knowledge and experience by instituting a regular UX-meeting cadence.</td>
-<td>Summer 2023</td>
-</tr>
-<tr>
-<td></td>
-<td>1.4. Educate. Create UX training and education for cross functional roles (especially teams without regular UX support).
-Provide professional development programs to upskill existing staff in teams where UX is essential.
-Importance of education to create common ground and foster awareness of correct ways to implement UX design.
-An employee who is very new to UX could initially be educated in UX concepts and techniques.Simultaneously, there are other possibilities which come along the way, such as the accessibility and consistency of features.
-Educate leaders.
-Create a widely supported user-centered mindset in the organization by educating leaders in design thinking, who then will further educate their staff and thus implement design thinking in multiple projects and initiatives.</td>
-<td>Fall 2023</td>
-</tr>
-<tr>
-<td>2. Create UX Centre of Excellence</td>
-<td>2.1.Create. Create UX Centre of Excellence to ensure effective execution of projects and elements involving UX for IITB teams and assess whether sufficient UX was done during project management lifecycle.
-UX Center of Excellence will make proposals to IT teams with an outline or plan that relies on in-depth research and investigation.
-It will be up to UX Governance to articulate a problem-solution relationship in a proposal and offer the route to overcoming the problem in the best way possible.
-A change can be anything from tweaking the position of user interface elements or user research on product or service delivery.</td>
-<td>2024</td>
-</tr>
-<tr>
-<td></td>
-<td>2.2. Make UX process transparent.
-Make UX process always transparent by visualizing the design process steps and project roles in a visual roadmap, or by mapping all design components in a design system.
-A design system combines all design components, such as style guides and rules, and thus serves as a guide on how an organization conducts its design processes.</td>
-<td>2024</td>
-</tr>
-<tr>
-<td></td>
-<td>2.3. Document and share.
-Document and share standardized design process and supporting methods across teams if they exist. Create unifying design principles that connect UX work across teams.
-Standardizing design-quality metrics and benchmarking UX in order to track and communicate and improvements over time.
-To help teams become more ‘UX mature’, it is necessary to guide them along the way.
-The findings of the assessment indicate that concepts such as design sprints and minimum viable product (MVPs) are often very new and vague for low UX Maturity teams.
-Therefore, it is relatively easy for teams to form their own interpretations of UX concepts and communicate them at cross purposes.
-Creating common ground and a shared understanding of each other's expectations and roles is crucial to create a broad UX support base.</td>
-<td>2024</td>
-</tr>
-<tr>
-<td></td>
-<td>2.4. Be present and approachable in the organization.
-Being approachable UX enables employees to experience a low threshold to collaborate, learn more about UX, or ask for a UX practitioner's perspective on their work.
-To make UX design widely accessible, UX practitioners could be present in relevant meetings and give themes for design sprints or feedback sessions.</td>
-<td>2024</td>
-<tr>
-<td></td>
-<td>2.5. Hire more UX expertise. Hire more UX experts/consultants to specific UX roles to design and develop exceptional user experience that engage and enable the people we serve where needed.</td>
-<td>2024</td>
-</tr>
+  <tr>
+    <td><strong>Recommendations</strong></td>
+    <td><strong>Activity</strong></td>
+    <td><strong>Approx. timeline</strong></td>
+  </tr>
+  <tr>
+    <td>1. Build User Experience (UX) working group</td>
+    <td>1.1. Measure. Start with a kick-off workshop to measure the IITB team's attitude towards UX concepts and approaches.
+    This way, an indication of the employee's familiarity and openness to UX processes can be established, which can help tailor the UX approach.</td>
+    <td>Summer 2023</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>1.2. Investigate. Investigate and provide a reusable set of UX disciplines/practices that teams can leverage.</td>
+    <td>Summer 2023</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>1.3. Collaborate. Enhance collaboration and communication opportunities among employees who have UX work experience across teams and divisions, encourage sharing knowledge and experience by instituting a regular UX-meeting cadence.</td>
+    <td>Summer 2023</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>1.4. Educate. Create UX training and education for cross functional roles (especially teams without regular UX support).
+    Provide professional development programs to upskill existing staff in teams where UX is essential.
+    Importance of education to create common ground and foster awareness of correct ways to implement UX design.
+    An employee who is very new to UX could initially be educated in UX concepts and techniques.Simultaneously, there are other possibilities which come along the way, such as the accessibility and consistency of features.
+    Educate leaders.
+    Create a widely supported user-centered mindset in the organization by educating leaders in design thinking, who then will further educate their staff and thus implement design thinking in multiple projects and initiatives.</td>
+    <td>Fall 2023</td>
+  </tr>
+  <tr>
+    <td>2. Create UX Centre of Excellence</td>
+    <td>2.1.Create. Create UX Centre of Excellence to ensure effective execution of projects and elements involving UX for IITB teams and assess whether sufficient UX was done during project management lifecycle.
+    UX Center of Excellence will make proposals to IT teams with an outline or plan that relies on in-depth research and investigation.
+    It will be up to UX Governance to articulate a problem-solution relationship in a proposal and offer the route to overcoming the problem in the best way possible.
+    A change can be anything from tweaking the position of user interface elements or user research on product or service delivery.</td>
+    <td>2024</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>2.2. Make UX process transparent.
+    Make UX process always transparent by visualizing the design process steps and project roles in a visual roadmap, or by mapping all design components in a design system.
+    A design system combines all design components, such as style guides and rules, and thus serves as a guide on how an organization conducts its design processes.</td>
+    <td>2024</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>2.3. Document and share.
+    Document and share standardized design process and supporting methods across teams if they exist. Create unifying design principles that connect UX work across teams.
+    Standardizing design-quality metrics and benchmarking UX in order to track and communicate and improvements over time.
+    To help teams become more ‘UX mature’, it is necessary to guide them along the way.
+    The findings of the assessment indicate that concepts such as design sprints and minimum viable product (MVPs) are often very new and vague for low UX Maturity teams.
+    Therefore, it is relatively easy for teams to form their own interpretations of UX concepts and communicate them at cross purposes.
+    Creating common ground and a shared understanding of each other's expectations and roles is crucial to create a broad UX support base.</td>
+    <td>2024</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>2.4. Be present and approachable in the organization.
+    Being approachable UX enables employees to experience a low threshold to collaborate, learn more about UX, or ask for a UX practitioner's perspective on their work.
+    To make UX design widely accessible, UX practitioners could be present in relevant meetings and give themes for design sprints or feedback sessions.</td>
+    <td>2024</td>
+  <tr>
+    <td>&nbsp;</td>
+    <td>2.5. Hire more UX expertise. Hire more UX experts/consultants to specific UX roles to design and develop exceptional user experience that engage and enable the people we serve where needed.</td>
+    <td>2024</td>
+  </tr>
 </table>
