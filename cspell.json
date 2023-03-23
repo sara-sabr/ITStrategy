@@ -673,7 +673,8 @@
     "elmina",
     "iusifova",
     "IFFS",
-    "GCxchange"
+    "GCxchange",
+    "nomarkdown"
   ],
   "flagWords": [],
   "import": ["node_modules/@cspell/dict-fr-fr/cspell-ext.json"],
