@@ -152,12 +152,11 @@ The factors and their subfactors produce a level of UX maturity from absent to u
 This figure describes each stage of UX maturity from 1. Absent to 6. User-driven.
 
 <figure>
-<a href="{{ site.baseurl }}/assets/images/maturity-levels.png">
-        <img class="center" src="{{ site.baseurl }}/assets/images/maturity-levels.png"
-        alt="This figure describes each stage of UX maturity from 1. Absent to 6. User-driven"
-        />
+  <a href="{{ site.baseurl }}/assets/images/maturity-levels.png">
+    <img class="center" src="{{ site.baseurl }}/assets/images/maturity-levels.png"
+    alt="This figure describes each stage of UX maturity from 1. Absent to 6. User-driven" />
   </a>
-    <figcaption>Figure 1. 6 Stages of UX Maturity</figcaption>
+  <figcaption>Figure 1. 6 Stages of UX Maturity</figcaption>
 </figure>
 
 ## Analysis
@@ -303,6 +302,7 @@ Here are some activities that the organization needs to consider concentrating:
 
 Here are some proposed recommendations for IITB to consider that can help to leverage mentioned above activities:
 
+{::nomarkdown}
 <table>
   <tr>
     <td><strong>Recommendations</strong></td>
@@ -373,3 +373,4 @@ Here are some proposed recommendations for IITB to consider that can help to lev
     <td>2024</td>
   </tr>
 </table>
+{:/}
