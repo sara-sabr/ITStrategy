@@ -672,7 +672,9 @@
     "FSWEP",
     "elmina",
     "iusifova",
-    "GCxchange"
+    "IFFS",
+    "GCxchange",
+    "nomarkdown"
   ],
   "flagWords": [],
   "import": ["node_modules/@cspell/dict-fr-fr/cspell-ext.json"],
