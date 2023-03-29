@@ -199,8 +199,8 @@
     - col:
       data:
         list: false
-        fr: 59
-        en: 59
+        fr: 64
+        en: 64
     - col:
       data:
         list: false
@@ -484,18 +484,13 @@
     - col:
       data:
         list: false
-        fr: 
-        en: 
+        fr: 15
+        en: 15
     - col:
       data:
         list: false
-        fr: 30
-        en: 30
-    - col:
-      data:
-        list: false
-        fr: 
-        en:
+        fr: 12
+        en: 12
     - col:
       data:
         list: false
@@ -505,7 +500,7 @@
       data:
         list: false
         fr: 
-        en: 
+        en:
     - col:
       data:
         list: false
@@ -526,6 +521,11 @@
         list: false
         fr: 
         en: 
+    - col:
+      data:
+        list: false
+        fr: 3
+        en: 3
   - row:
     headers: false
     cols:
@@ -938,8 +938,8 @@
     - col:
       data:
         list: false
-        fr: <a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32675">Norme sur les profils des utilisateurs et des points de travail pour la technologie de l’information</a>
-        en: <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32675">Standard on IT User and Workpoint Profiles</a>
+        fr: <a href="https://www.tbs-sct.canada.ca/pol/doc-fra.aspx?id=32710">Norme sur les profils des utilisateurs et des points de travail pour la technologie de l’information (TI)</a>
+        en: <a href="https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32710">Standard on Information Technology User and Workpoint Profiles</a>
     - col:
       data:
         list: false
@@ -996,8 +996,8 @@
     - col:
       data:
         list: false
-        fr: <a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32674">Norme sur les dispositions relatives à la technologie de l’information</a>
-        en: <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32674">Standard on IT Provisions</a>
+        fr: <a href="https://www.tbs-sct.canada.ca/pol/doc-fra.aspx?id=32711">Norme sur les dispositions relatives à la technologie de l’information (TI)</a>
+        en: <a href="https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32711">Standard on Information Technology Provisions</a>
     - col:
       data:
         list: false
@@ -1011,8 +1011,8 @@
     - col:
       data:
         list: false
-        fr: 57
-        en: 57
+        fr: 42
+        en: 42
     - col:
       data:
         list: false
@@ -1170,122 +1170,6 @@
     - col:
       data:
         list: false
-        fr: <a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=27600">Norme sur la gestion du courriel</a>
-        en: <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=27600">Standard on Email Management</a>
-    - col:
-      data:
-        list: false
-        fr: 8
-        en: 8
-    - col:
-      data:
-        list: false
-        fr: 
-        en: 
-    - col:
-      data:
-        list: false
-        fr: 19
-        en: 19
-    - col:
-      data:
-        list: false
-        fr: 
-        en: 
-    - col:
-      data:
-        list: false
-        fr: 
-        en: 
-    - col:
-      data:
-        list: false
-        fr: 
-        en: 
-    - col:
-      data:
-        list: false
-        fr: 
-        en: 
-    - col:
-      data:
-        list: false
-        fr: 
-        en: 
-    - col:
-      data:
-        list: false
-        fr: 1
-        en: 1
-    - col:
-      data:
-        list: false
-        fr: 
-        en: 
-  - row:
-    headers: false
-    cols:
-    - col:
-      data:
-        list: false
-        fr: <a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=18910">Norme pour les (SGEDD)</a>
-        en: <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=18910">Standard on EDRMS</a>
-    - col:
-      data:
-        list: false
-        fr: 
-        en: 
-    - col:
-      data:
-        list: false
-        fr: 
-        en: 
-    - col:
-      data:
-        list: false
-        fr: 6
-        en: 6
-    - col:
-      data:
-        list: false
-        fr: 
-        en: 
-    - col:
-      data:
-        list: false
-        fr: 
-        en: 
-    - col:
-      data:
-        list: false
-        fr: 
-        en: 
-    - col:
-      data:
-        list: false
-        fr: 
-        en: 
-    - col:
-      data:
-        list: false
-        fr: 
-        en: 
-    - col:
-      data:
-        list: false
-        fr: 
-        en: 
-    - col:
-      data:
-        list: false
-        fr: 
-        en: 
-  - row:
-    headers: false
-    cols:
-    - col:
-      data:
-        list: false
         fr: <a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=28108">Émission obligatoire de l'information gouvernementale</a>
         en: <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=28108">Mandatory Release of Government Information</a>
     - col:
@@ -1338,64 +1222,6 @@
         list: false
         fr: 
         en: 
-  - row:
-    headers: false
-    cols:
-    - col:
-      data:
-        list: false
-        fr: <a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32604">Procédures obligatoires sur les interfaces de programmation d’applications</a>
-        en: <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32604">Mandatory Procedures on API</a>
-    - col:
-      data:
-        list: false
-        fr: 
-        en: 
-    - col:
-      data:
-        list: false
-        fr: 
-        en: 
-    - col:
-      data:
-        list: false
-        fr: 71
-        en: 71
-    - col:
-      data:
-        list: false
-        fr: 
-        en: 
-    - col:
-      data:
-        list: false
-        fr: 
-        en: 
-    - col:
-      data:
-        list: false
-        fr: 
-        en: 
-    - col:
-      data:
-        list: false
-        fr: 10
-        en: 10
-    - col:
-      data:
-        list: false
-        fr: 
-        en: 
-    - col:
-      data:
-        list: false
-        fr: 
-        en: 
-    - col:
-      data:
-        list: false
-        fr: 
-        en:  
   - row:
     headers: false
     cols:
@@ -1576,8 +1402,8 @@
     - col:
       data:
         list: false
-        fr: <a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32607">Procédures obligatoires pour les avis liés à la protection des renseignements personnels et à la surveillance liées à l’utilisation des dispositifs et des réseaux</a>
-        en: <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32607">Mandatory Procedures for Privacy and Monitoring of Network and Device Use Information</a>
+        fr: <a href="https://www.tbs-sct.canada.ca/pol/doc-fra.aspx?id=32709">Procédures obligatoires pour les avis liés à la protection des renseignements personnels et à la surveillance liées à l’utilisation des dispositifs et des réseaux</a>
+        en: <a href="https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32709">Mandatory Procedures for Privacy and Monitoring of Network and Device Use Information Notices</a>
     - col:
       data:
         list: false
@@ -1611,8 +1437,8 @@
     - col:
       data:
         list: false
-        fr: 8
-        en: 8
+        fr: 6
+        en: 6
     - col:
       data:
         list: false
@@ -1750,8 +1576,8 @@
     - col:
       data:
         list: false
-        fr: <a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32602">Procédures obligatoires pour l’évaluation de l’architecture intégrée</a>
-        en: <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602">Mandatory Procedures for EA Assessment</a>
+        fr: <a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32592">Exigences par niveau d’incidence</a>
+        en: <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32592">AIA Appendix C - Impact Level Requirements</a>
     - col:
       data:
         list: false
@@ -1760,18 +1586,114 @@
     - col:
       data:
         list: false
-        fr: 18
-        en: 18
-    - col:
-      data:
-        list: false
-        fr: 48
-        en: 48
+        fr: 7
+        en: 7
     - col:
       data:
         list: false
         fr: 
         en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en:
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: <a href="https://www.tbs-sct.canada.ca/pol/doc-fra.aspx?id=32712">Norme sur la restriction de l’utilisation des services de la TI intégrée</a>
+        en: <a href="https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32712">Standard on Enterprise Information Technology Service Usage Restrictions</a>
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 13
+        en: 13
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en:        
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: <a href="https://www.tbs-sct.canada.ca/pol/doc-fra.aspx?id=32713">Norme sur les configurations courantes des services de la TI intégrée</a>
+        en: <a href="https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32713">Standard on Enterprise Information Technology Service Common Configurations</a>
     - col:
       data:
         list: false
@@ -1802,14 +1724,34 @@
         list: false
         fr: 
         en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en:        
   - row:
     headers: false
     cols:
     - col:
       data:
         list: false
-        fr: <a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32592">Exigences par niveau d’incidence</a>
-        en: <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32592">AIA Appendix C - Impact Level Requirements</a>
+        fr: <a href="https://www.tbs-sct.canada.ca/pol/doc-fra.aspx?id=32714">Norme sur la technologie de l’information à risque</a>
+        en: <a href="https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32714">Standard on At-Risk Information Technology</a>
     - col:
       data:
         list: false
@@ -1859,7 +1801,645 @@
       data:
         list: false
         fr: 
-        en:
+        en:        
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: <a href="https://www.tbs-sct.canada.ca/pol/doc-fra.aspx?id=32715">Norme intérimaire sur les solutions de planification des ressources organisationnelles</a>
+        en: <a href="https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32715">Interim Standard on Enterprise Resource Planning Solutions</a>
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 5
+        en: 5
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en:        
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: <a href="https://www.tbs-sct.canada.ca/pol/doc-fra.aspx?id=32716">Norme sur les systèmes qui gèrent l’information et les données</a>
+        en: <a href="https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32716">Standard on Systems that Manage Information and Data</a>
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 7
+        en: 7
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: <a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/politiques-normes/configurations-courantes-services-ti-integree.html">Exigences de configuration de la gestion des points d’extrémité</a>
+        en: <a href="https://www.canada.ca/en/government/system/digital-government/policies-standards/enterprise-it-service-common-configurations.html#user">Endpoint Management Configuration Requirements</a>
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 23
+        en: 23
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: <a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/politiques-normes/configurations-courantes-services-ti-integree.html">Exigences en matière de configuration pour les services de gestion des courriels</a>
+        en: <a href="https://www.canada.ca/en/government/system/digital-government/policies-standards/enterprise-it-service-common-configurations.html#user">Email Management Services Configuration Requirements</a>
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: <a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/politiques-normes/configurations-courantes-services-ti-integree.html">Exigences de configuration relatives à la gestion des comptes</a>
+        en: <a href="https://www.canada.ca/en/government/system/digital-government/policies-standards/enterprise-it-service-common-configurations.html#user">Account Management Configuration Requirements</a>
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 29
+        en: 29
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: <a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/politiques-normes/configurations-courantes-services-ti-integree.html">Exigences de configuration de l’accès à distance</a>
+        en: <a href="https://www.canada.ca/en/government/system/digital-government/policies-standards/enterprise-it-service-common-configurations.html#user">Remote Access Configuration Requirements</a>
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 8
+        en: 8
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: <a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/politiques-normes/configurations-courantes-services-ti-integree.html">Exigences relatives aux supports de stockage de données portatifs</a>
+        en: <a href="https://www.canada.ca/en/government/system/digital-government/policies-standards/enterprise-it-service-common-configurations.html#user">Portable Data Storage Requirements</a>
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 10
+        en: 10
+    - col:
+      data:
+        list: false
+        fr: 37
+        en: 37
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: <a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/politiques-normes/configurations-courantes-services-ti-integree.html">Configurations de services sur le lieu de travail</a>
+        en: <a href="https://www.canada.ca/en/government/system/digital-government/policies-standards/enterprise-it-service-common-configurations.html#user">Workplace Service Configuration Requirements</a>
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 1
+        en: 1
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: <a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/politiques-normes/configurations-courantes-services-ti-integree.html">Exigences de configuration de la gestion des sites Web et des services</a>
+        en: <a href="https://www.canada.ca/en/government/system/digital-government/policies-standards/enterprise-it-service-common-configurations.html#user">Web Sites and Services Management Configuration Requirements</a>
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 8
+        en: 8
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 15
+        en: 15
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: <a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/politiques-normes/configurations-courantes-services-ti-integree.html">Exigences relatives à a configuration pour la gestion des services de système de noms de domaine (DNS)</a>
+        en: <a href="https://www.canada.ca/en/government/system/digital-government/policies-standards/enterprise-it-service-common-configurations.html#user">Domain Name System (DNS) Services Management Configuration Requirements</a>
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 2
+        en: 2
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+  - row:
+    headers: false
+    cols:
+    - col:
+      data:
+        list: false
+        fr: <a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/politiques-normes/configurations-courantes-services-ti-integree.html">Exigences de configuration relatives à la gestion du système</a>
+        en: <a href="https://www.canada.ca/en/government/system/digital-government/policies-standards/enterprise-it-service-common-configurations.html#user">System Management Configuration Requirements</a>
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 7
+        en: 7
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
+    - col:
+      data:
+        list: false
+        fr: 
+        en: 
   - row:
     headers: false
     cols:
@@ -1871,18 +2451,18 @@
     - col:
       data:
         list: false
+        fr: <strong>14</strong>
+        en: <strong>14</strong>
+    - col:
+      data:
+        list: false
         fr: <strong>22</strong>
         en: <strong>22</strong>
     - col:
       data:
         list: false
-        fr: <strong>18</strong>
-        en: <strong>18</strong>
-    - col:
-      data:
-        list: false
-        fr: <strong>411</strong>
-        en: <strong>411</strong>
+        fr: <strong>303</strong>
+        en: <strong>303</strong>
     - col:
       data:
         list: false
@@ -1896,13 +2476,13 @@
     - col:
       data:
         list: false
-        fr: <strong>118</strong>
-        en: <strong>118</strong>
+        fr: <strong>128</strong>
+        en: <strong>128</strong>
     - col:
       data:
         list: false
-        fr: <strong>98</strong>
-        en: <strong>98</strong>
+        fr: <strong>177</strong>
+        en: <strong>177</strong>
     - col:
       data:
         list: false
@@ -1911,10 +2491,10 @@
     - col:
       data:
         list: false
-        fr: <strong>3</strong>
-        en: <strong>3</strong>
+        fr: <strong>2</strong>
+        en: <strong>2</strong>
     - col:
       data:
         list: false
-        fr: <strong>7</strong>
-        en: <strong>7</strong>                                                
+        fr: <strong>10</strong>
+        en: <strong>10</strong>                                                
