@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A CIO is accountable for 303 requirements"
+title: "The CIO and DOCS are accountable for 480 requirements"
 ref: stats-digital-policy-instruments
 lang: en
 author: "Rémy Bernard, in collaboration with the IT Strategy team"
@@ -104,15 +104,15 @@ Number of requirements by type of policy instrument (see [Notes](#notes) for acr
   <tr>
     <td>Directive</td>
     <td>8</td>
-    <td>15</td>
-    <td>90</td>
+    <td>&nbsp;</td>
+    <td>103</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>29</td>
     <td>17</td>
     <td>&nbsp;</td>
     <td>2</td>
-    <td>10</td>
+    <td>7</td>
   </tr>
   <tr>
     <td>Standard</td>
