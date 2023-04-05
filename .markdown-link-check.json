@@ -83,6 +83,9 @@
    },
    {
      "pattern": "https://opensource.org/licenses/alphabetical"
+   },
+   {
+     "pattern": "https://gcxgce.sharepoint.com/"
    }
   ],
   "timeout": "30s",
