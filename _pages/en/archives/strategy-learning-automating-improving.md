@@ -113,7 +113,7 @@ This strategy will be reviewed and updated quarterly based on effectiveness and 
 - Find/become a mentor/coach
 - Join groups and participate in discussions on [GCconnex](https://gcconnex.gc.ca/) and [GCcollab](https://gccollab.ca/), as well as external communities
 - Take part in Service Canada staff training
-- Register for training/events [offered by ESDC](https://esdc.sabacloud.com/) and through [GCcampus](https://idp.csps-efpc.gc.ca/)
+- Register for training/events [offered by ESDC](https://esdc.sabacloud.com/) and through [GCcampus](https://www.csps-efpc.gc.ca/)
 - Start/attend meetups regarding technologies relevant to your work
 - Learn more methodologies - Many free audiobook samples can be found on [ITRevolution's SoundCloud](https://soundcloud.com/itrevolution/sets)
 - Reach out to your [Security Champion network](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/SLF%20Forum%20Documents/Security%20Champions%20SLF-EN.pptx) to learn about security

@@ -12,7 +12,11 @@ Les actions suivantes s'appliquent pour le 1er trimestre de l'année fiscale 202
 Les stratégies et les actions seront révisées et mises à jour trimestriellement en fonction de l'efficacité et des progrès actuels vers le[portrait de l'informatique à moyen terme - 2025](https://sara-sabr.github.io/ITStrategy/it-picture-medium-term.html) (Anglais) ainsi qu'en suivant la [Carte de stratégies](https://sara-sabr.github.io/ITStrategy/sommaire-strategie.html) (superposition aux stratégies).
 
 - [Objectifs](#objectifs)
+  - [S'aligner sur la direction informatique du GC](#saligner-sur-la-direction-informatique-du-gc)
 - [Actions](#actions)
+  - [Utiliser jusqu'à 20 % du temps de l'équipe pour s'améliorer et apprendre](#utiliser-jusquà-20--du-temps-de-léquipe-pour-saméliorer-et-apprendre)
+    - [Améliorer](#améliorer)
+    - [Apprendre](#apprendre)
 - [Résultats](#résultats)
 
 ### Objectifs
@@ -76,7 +80,7 @@ Codes CATS :
 - Trouver/devenir un mentor/entraîneur
 - Rejoindre les groupes et participer aux discussions sur [GCconnex](https://gcconnex.gc.ca) et [GCcollab](https://gccollab.ca), ainsi que les communautés externes
 - Participer à la formation du personnel de Service Canada
-- S'inscrire à une formation/événement [proposé par EDSC](https://esdc.sabacloud.com) et par l'intermédiaire de [GCcampus](https://idp.csps-efpc.gc.ca)
+- S'inscrire à une formation/événement [proposé par EDSC](https://esdc.sabacloud.com) et par l'intermédiaire de [GCcampus](https://www.csps-efpc.gc.ca)
 - Organiser/assister à des réunions concernant les technologies pertinentes pour votre travail
 - Découvrir les méthodologies - De nombreux échantillons de livres audio gratuits sont disponibles sur [ITRevolution's SoundCloud](https://soundcloud.com/itrevolution/sets) (Anglais)
 - Contacter votre [réseau de champions de la sécurité](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/SLF%20Forum%20Documents/Les%20champions%20de%20la%20s%C3%A9curit%C3%A9%20FCS-FR.pptx) pour en savoir plus sur la sécurité
