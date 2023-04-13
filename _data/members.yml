@@ -1,3 +1,13 @@
+- name: Philipe Girard
+  title: 
+    en: Manager
+    fr: Gestionnaire
+  email: philipe.girard@hrsdc-rhdcc.gc.ca
+  github: philipe-girard
+  interests: 
+    en: Sports, reading, family
+    fr: Sports, lecture, famille
+  picture_path: assets/images/profile-phil.jpg
 - name: Elmina Iusifova
   title: 
     en: Programmer Analyst
@@ -53,12 +63,3 @@
     en: Strategy, building strong relationships, soccer
     fr: La stratégie, gestion des relations, soccer
   picture_path: assets/images/profile-james.png
-- name: Paul Lalonde
-  title: 
-    en: Manager
-    fr: Gestionnaire
-  email: paul.lalonde@hrsdc-rhdcc.gc.ca
-  interests: 
-    en: ...
-    fr: ...
-  picture_path: assets/images/profile-paul.jpg
