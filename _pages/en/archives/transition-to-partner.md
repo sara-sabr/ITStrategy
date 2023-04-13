@@ -74,7 +74,7 @@ The choice of protocol for that interface is up to the development and operation
 3. APIs must be build with the Developer Experience (DX) in mind and follow [Appendix D - Mandatory Procedures for Application Programming Interfaces of the Directive on Management of IT](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249)
 4. APIs to be hosted on the API store must be vetted by the IITB Interoperability team for quality assurance
 5. COTS selection must provide integration capabilities through one or more SOA compatible components. COTS that make use of Open Standards must be considered first to avoid vendor lock-in
-6. Legacy application's integration must be establish through legacy wrapper APIs. This [includes mainframes](https://www.ibm.com/blogs/cloud-computing/2018/09/19/microservices-apis-mainframe-applications/)
+6. Legacy application's integration must be establish through legacy wrapper APIs including mainframes.
 
 ## 4. Implement DevOps
 
