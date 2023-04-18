@@ -10,15 +10,15 @@
   picture_path: assets/images/profile-phil.jpg
 - name: Elmina Iusifova
   title: 
-    en: Programmer Analyst
-    fr: Analyste programmeuse
+    en: Technical Advisor
+    fr: Conseiller technique
   email: elmina.iusifova@hrsdc-rhdcc.gc.ca
   twitter: Elmina65935561
   github: ElminaIusifova
   linkedin: elminaiusifova
   interests: 
-    en: User Experience Design, User Interface Design, Communication, Front-end Development
-    fr: Conception de l'expérience utilisateur, Design d'interface, Communication, Développement d'applications client
+    en: User Experience Design, User Interface Design, Communication
+    fr: Conception de l'expérience utilisateur, Design d'interface, Communication
   picture_path: assets/images/profile-elmina.jpg
 - name: Rémy Bernard
   title: 
@@ -43,16 +43,6 @@
     en: Free (open source) software, DevOps, enterprise architecture
     fr: Logiciels libres, DevOps, architecture d'entreprise
   picture_path: assets/images/profile-sebastien.jpg
-- name: Leigh Gardner
-  title: 
-    en: Analyst, IT Business Line Support Services
-    fr: Analyste, Services soutien secteur TI
-  email: leigh.s.gardner@hrsdc-rhdcc.gc.ca; 
-  github: LeighGardner
-  interests: 
-    en: Communications, Web Design, Business and Real Estate
-    fr: Communications, Conception de sites web, Affaires et immobilier
-  picture_path: assets/images/profile-leigh.png
 - name: James Santos
   title: 
     en: Technical Advisor
