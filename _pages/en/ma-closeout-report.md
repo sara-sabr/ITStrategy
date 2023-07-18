@@ -416,7 +416,7 @@ This team (the FPS team) proved to be great allies and not only helped us unders
 Throughout planning, design, and build, OSME were instrumental in helping us understand what suppliers need and what we needed to understand about suppliers.
 Since we did not have a direct line to suppliers, this intel was extremely valuable.
 
-We gained a vast amount of information from those who had done this before such as the [BC Developers Exchange](https://bcdevexchange.org/) / [BC Digital Marketplace](https://digital.gov.bc.ca/marketplace) team who were generous in sharing their lessons learned.
+We gained a vast amount of information from those who had done this before such as the [BC Developers Exchange](https://github.com/bcgov/bcdevexchange) / [BC Digital Marketplace](https://digital.gov.bc.ca/marketplace) team who were generous in sharing their lessons learned.
 
 We also talked to the CDS procurement team who had been thinking of doing something similar, the Procurement policy team at TBS, the procurement team at Shared Services Canada who are involved in the [TechNation Digital Marketplace](https://technationcanada.ca/en/digital-marketplace/), and other teams at PSPC such as the procurement simplification team and the 15-day payment team.
 
