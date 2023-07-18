@@ -993,7 +993,7 @@ See point 3 below
 
 **2) 2016 and 2019 House of Commons Questions (projects of more than $1M)**
 
-Thanks to an Ottawa Civic Tech (ottawacivictech.ca/) project, a [dataset on large government IT projects](https://large-government-of-canada-it-projects.github.io/)[^21] was released with responses collected from two written questions in the House of Commons, from June 2016 and May 2019.
+Thanks to an Ottawa Civic Tech project, a [dataset on large government IT projects](https://large-government-of-canada-it-projects.github.io/)[^21] was released with responses collected from two written questions in the House of Commons, from June 2016 and May 2019.
 Each question asked federal government departments to report ongoing or planned IT projects over $1M.
 
 We find that:
