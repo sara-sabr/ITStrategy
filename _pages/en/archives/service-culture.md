@@ -31,7 +31,7 @@ Ideally, each context switch in the value stream should be as automated as possi
 
 #### Shift Quality Left
 
-When automation is leveraged and new processes are created there need be a focus on reducing [Context Switches](https://itrevolution.com/context-switches-in-software-engineering/) and shifting quality left. Often when one talks abut [shifting quality left](https://dzone.com/articles/how-shift-left-testing-works) one speaks of testing. Thus, below we have opted to include a reference that discusses infosec shifting left.
+When automation is leveraged and new processes are created there need be a focus on reducing [Context Switches](https://itrevolution.com/context-switches-in-software-engineering/) and shifting quality left. Often when one talks abut shifting quality left (dzone.com/articles/how-shift-left-testing-works) one speaks of testing. Thus, below we have opted to include a reference that discusses infosec shifting left.
 
 In [Accelerate](https://itrevolution.com/book/accelerate/), written by [
 Nicole Forsgren](https://itrevolution.com/faculty/nicole-forsgren/), [Jez Humble](https://itrevolution.com/faculty/jaz-humble/), and [Gene Kim](https://itrevolution.com/faculty/gene-kim/), on page 70 it reads

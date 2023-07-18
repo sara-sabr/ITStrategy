@@ -10,9 +10,35 @@ permalink: /strategy-communications.html
 
 - [Purpose](#purpose)
 - [Objectives](#objectives)
-- [Stakeholders and Key Messages](#stakeholders-and-key-messages)
+- [Stakeholders, and Key Messages](#stakeholders-and-key-messages)
 - [Operational Approach](#operational-approach)
 - [Communications Methods](#communications-methods)
+- [CIO](#cio)
+- [CIO Executive Committee](#cio-executive-committee)
+- [SABR DGO](#sabr-dgo)
+- [IT Strategy Director](#it-strategy-director)
+- [IITB Governance Committees](#iitb-governance-committees)
+  - [Workforce Management Committee](#workforce-management-committee)
+  - [DG Committee](#dg-committee)
+  - [Cloud Implementation Project Steering Committee (CIPSC)](#cloud-implementation-project-steering-committee-cipsc)
+  - [Project Portfolio Review Committee (PPRC)](#project-portfolio-review-committee-pprc)
+  - [Change Advisory Board (CAB)](#change-advisory-board-cab)
+  - [Architecture Review Committee (ARC)](#architecture-review-committee-arc)
+  - [Project Portfolio Operations Committee (PPOC)](#project-portfolio-operations-committee-ppoc)
+  - [Technical Debt Advisory Committee (TDAC)](#technical-debt-advisory-committee-tdac)
+  - [National Union Management Committee (NUMCC)](#national-union-management-committee-numcc)
+  - [Enterprise Architecture Review Board (EARB)](#enterprise-architecture-review-board-earb)
+- [IITB Forums](#iitb-forums)
+- [Subject Matter Experts (SMEs) Teams](#subject-matter-experts-smes-teams)
+- [Peer Review](#peer-review)
+- [Briefing Note](#briefing-note)
+- [Public Sector Communities](#public-sector-communities)
+- [Corporate Messages (Emails)](#corporate-messages-emails)
+- [Newsletters](#newsletters)
+- [Professional Networks](#professional-networks)
+- [Blogs](#blogs)
+- [Social Media](#social-media)
+- [Custom Metrics](#custom-metrics)
 - [Evaluation](#evaluation)
 
 ## Purpose
@@ -272,11 +298,13 @@ Activities include Brainstorming sessions :
 
 ## Social Media
 
-- Linkedin
+<!--
 - [GCDevopsLeague](https://twitter.com/GCDevOpsLeague1) Twitter
 - [ESDC CIO](https://twitter.com/PWLittlefield) Twitter
 - [SABR DGO](https://twitter.com/SkinnerDenis) Twitter
 - [ESDC Innovation Lab](https://twitter.com/ESDCInnoLab_ENG) Twitter
+-->
+- Linkedin
 - [ESDC Innovation Network](https://gccollab.ca/groups/profile/2851590/enesdc-innovation-networkfr)
 Innovation Network is a consultative body that provides a forum to share, discuss, develop and advance innovative projects and initiatives within the department. The Network seeks to share information on ongoing innovative projects and identify opportunities for advancing innovation within the department.
 
