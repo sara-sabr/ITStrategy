@@ -89,6 +89,9 @@
    },
    {
       "pattern": "https://twitter.com/"
+   },
+   {
+      "pattern": "https://talent.canada.ca"
    }
   ],
   "timeout": "30s",
