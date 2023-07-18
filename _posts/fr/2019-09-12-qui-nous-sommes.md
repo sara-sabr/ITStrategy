@@ -19,7 +19,7 @@ Cela ne fait que quelques mois maintenant, mais comme vous pouvez le constater s
 
 L'équipe Stratégie TI rêve grand, voir le [Cycle de vie du développement humain](../../../human-development-life-cycle.html).
 Nous travaillons sans relâche pour réaliser nos rêves en pratiquant ce que nous prêchons, c'est pourquoi nous avons inclus *Montrer l’exemple* dans notre [Mandat](../../../mandat.html).
-Nous sommes passionnés par la puissance de la collaboration, c'est pourquoi l'équipe Stratégie TI joue un rôle de premier plan dans les communautés [Agora - Logiciels libre](https://gcconnex.gc.ca/groups/profile/23631661/agora-open-source-software-focus-group-groupe-discussion-logiciels-libres-agora) (interne pour le moment, mais prochainement ouvert aux participants externes) et la [Ligue DevOps GC](https://twitter.com/hashtag/gcdevopsleague).
+Nous sommes passionnés par la puissance de la collaboration, c'est pourquoi l'équipe Stratégie TI joue un rôle de premier plan dans les communautés [Agora - Logiciels libre](https://gcconnex.gc.ca/groups/profile/23631661/agora-open-source-software-focus-group-groupe-discussion-logiciels-libres-agora) (interne pour le moment, mais prochainement ouvert aux participants externes) et la Ligue DevOps GC @gcdevopsleague.
 Nous [travaillons ouvertement](https://github.com/sara-sabr/ITStrategy) aussi.
 Nous n'insisterons jamais assez auprès de tous nos amis du GC, nous sommes des centaines de milliers.
 Nous vous assurons que, quels que soient les problèmes, embûches et obstacles que vous rencontrez (techniques ou non), il y en a d'autres qui travaillent ou ont travaillé sur les mêmes choses.

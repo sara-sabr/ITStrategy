@@ -86,6 +86,9 @@
    },
    {
      "pattern": "https://gcxgce.sharepoint.com/"
+   },
+   {
+      "pattern": "https://twitter.com/"
    }
   ],
   "timeout": "30s",

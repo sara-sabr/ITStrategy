@@ -203,7 +203,6 @@ To support the adoption of the new [Policy on Service and Digital](https://www.t
 | Facebook | https://www.facebook.com |  |
 | Librem One | https://social.librem.one |  |
 | Linkedin | https://www.linkedin.com |  |
-| Twitter | https://twitter.com |  |
 | Mastodon | https://mastodon.online |  |
 | ... |  |  |
 
