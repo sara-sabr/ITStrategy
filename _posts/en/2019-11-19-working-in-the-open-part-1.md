@@ -126,7 +126,7 @@ In the government context, with our funding model, this becomes extremely powerf
 This tweet from Vivian Nobrega, Open Source Advocate at Treasury Board of Canada Secretariat, sums it all very well:
 
 <!--markdownlint-disable MD033-->
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The most practical sustainable solution in the [Westminster] Model is making all projects #opensource by default resulting in a decentralization of power over projects, and transitioning to a service-oriented funding model to ensure these projects remain non-legacy.#FWD50 <a href="https://t.co/MhzoojcUsm">https://t.co/MhzoojcUsm</a></p>&mdash; Vivian Nobrega (@ShadeWyrm) November 8, 2019</blockquote>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The most practical sustainable solution in the [Westminster] Model is making all projects #opensource by default resulting in a decentralization of power over projects, and transitioning to a service-oriented funding model to ensure these projects remain non-legacy.#FWD50 </p>&mdash; Vivian Nobrega (@ShadeWyrm) November 8, 2019</blockquote>
 <!--markdownlint-enable MD033-->
 
 ### Early Feedback Loop
