@@ -141,16 +141,20 @@ The process is currently being reviewed, but we still met with their Architectur
 
 ## Next Steps
 
-We have noticed a level of reticence from teams to [work in the open](https://sara-sabr.github.io/ITStrategy/2019/11/19/working-in-the-open-part-1.html) that originates from two main questions:
+We have noticed a level of reticence from teams to [work in the open](https://sara-sabr.github.io/ITStrategy/2019/11/19/working-in-the-open-part-1.html) that originates from three main questions:
 
 1) Is it ok to share information between departments?
 2) What is the level of classification of that information?
+3) Is the information shared of relevance to others?
 
 We have confirmed with our legal services that the GC is one legal entity and, as such, software assessments can be shared between departments for information purposes and that it is not a blanket assessment for all GC departments to follow.
 
 We have obtained reassurance from ESDC's RSO that a sample of assessments were Unclassified.
 However, because the responsibility of accurately classifying information still lies with teams that produce the information, we are seeing a need to further provide guidance to them so they can feel confident in sharing their work with other teams.
 This Information Management guidance is needed to change a general culture that has an unfortunate results of seeking to control access to information that would otherwise be made readily available without barriers.
+
+Because there are no standards on software assessments where individual departments make up their own assessment processes, there were doubts as to whether information from department X would be relevant to department Y.
+We are eager to know if departments used the information shared as a means to promote standardization of software assessments.
 
 The pilot aimed to promote collaboration between departments and demonstrate through behaviours [the intent behind the GC Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html) by sharing software assessments from ESDC teams and onboarding other departments to start sharing.
 
