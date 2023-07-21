@@ -115,7 +115,7 @@ For the pilot, we are only sharing Unclassified information, since that is what 
 
 ### Fear of Being Embarrassed
 
-Through the pilot, some teams expressed concerns around usefulness of sharing information between departments, fear of causing embarrassment to themselves of their department, and questioning the document classification of those assessments as well as the legal aspects of sharing.
+Through the pilot, some teams expressed concerns around usefulness of sharing information between departments, fear of causing embarrassment to themselves or their department, and questioning the document classification of those assessments as well as the legal aspects of sharing.
 
 The pilot was able to demonstrate that other departments, especially smaller ones that do not have the same capacity as ESDC, were pleased to have ESDC's assessments shared, that no embarrassment occurred, and that only Unclassified documents were shared with the legal cover from ESDC's Legal Services.
 Even with a limited number of assessments shared, the feedback has been overwhelmingly positive from the wider GC community.
@@ -126,7 +126,7 @@ When launching the GCxchange group, initial documents from architecture, accessi
 Close to 100 GC employees joined after only a few posts on GCconnex, GCcollab, LinkedIn and Twitter.
 
 The Open Government teams at TBS reached out to invite us to the Open Government Working Group to present the pilot.
-The team working on the Data Strategy Renewal (also at TBS) offered to feature the pilot in a "vignette".
+Another team at TBS also contacted us to featured the pilot in the latest [2023–2026 Data Strategy for the Federal Public Service](https://www.canada.ca/en/treasury-board-secretariat/corporate/reports/2023-2026-data-strategy.html#toc-7.4) under "Mission 4. Empowering the public service – 4.3 Ensure that public servants are equipped with the appropriate tools to support their work" as a way that organizations are piloting new approaches to improve efficiencies.
 
 There were many comments that this is a very good idea, congratulating us on the initiative, hoping more departments got on board and forwarding this to there colleagues.
 
