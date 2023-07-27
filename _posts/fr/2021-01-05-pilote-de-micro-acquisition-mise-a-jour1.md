@@ -51,7 +51,7 @@ L'équipe de la DGDPF a informé le dirigeant principal des finances (DPF).
 
 ### BCDevExchange
 
-- Nous collaborons avec l'équipe du [BCDevExchange](https://bcdevexchange.org) *en anglais* dans le but de mettre au point un « processus d'évaluation des soumissions », qui soit à la fois équitable pour les fournisseurs et non onéreux pour les clients d'EDSC.
+- Nous collaborons avec l'équipe du [BCDevExchange](https://github.com/bcgov/bcdevexchange) *en anglais* dans le but de mettre au point un « processus d'évaluation des soumissions », qui soit à la fois équitable pour les fournisseurs et non onéreux pour les clients d'EDSC.
 Elle nous a mise en garde de ne pas adopter une approche basée sur les prix, ce qui correspond aux recherches que nous avons effectuées concernant l'expérience des États-Unis en matière de micro-achats (qui mène les grandes entreprises à faire des offres à 1 dollar visant à empêcher les petites entreprises de gagner).
 Nous envisageons également de suivre l'exemple du BCDevExchange et d’établir une évaluation anonyme des soumissions.
 
