@@ -1,29 +1,7 @@
-- name: Philipe Girard
+- name: Rémy Bernard
   title: 
     en: Manager
     fr: Gestionnaire
-  email: philipe.girard@hrsdc-rhdcc.gc.ca
-  github: philipe-girard
-  interests: 
-    en: Sports, reading, family
-    fr: Sports, lecture, famille
-  picture_path: assets/images/profile-phil.jpg
-- name: Elmina Iusifova
-  title: 
-    en: Technical Advisor
-    fr: Conseillère technique
-  email: elmina.iusifova@hrsdc-rhdcc.gc.ca
-  twitter: Elmina65935561
-  github: ElminaIusifova
-  linkedin: elminaiusifova
-  interests: 
-    en: User Experience Design, User Interface Design, Communication
-    fr: Conception de l'expérience utilisateur, Design d'interface, Communication
-  picture_path: assets/images/profile-elmina.jpg
-- name: Rémy Bernard
-  title: 
-    en: Senior Advisor
-    fr: Conseiller principal
   email: remy.bernard@hrsdc-rhdcc.gc.ca
   twitter: remyb2
   github: remyb2canada
