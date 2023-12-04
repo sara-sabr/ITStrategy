@@ -11,23 +11,14 @@
   <meta name="description"
     content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.data.i18n.general.head.description[page.lang] }}{% endif %}">
 
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-152866056-1"></script>
+  <!-- Google tag (gtag.js)  2023-02-01 NEW GOOGLE ANALYTICS 4 (migrating from Universal Analytics)-->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-VZ3JFL3LDQ"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
-    function gtag() { dataLayer.push(arguments); }
+    function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
-    gtag('config', 'UA-152866056-1', { 'anonymize_ip': true });
+    gtag('config', 'G-VZ3JFL3LDQ');
   </script>
-
-  <!-- Google tag (gtag.js)  2023-02-01 NEW GOOGLE ANALYTICS 4 (migrating from Universal Analytics)-->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-VZ3JFL3LDQ"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'G-VZ3JFL3LDQ');
-</script>
 
   <link rel="stylesheet" href="/ITStrategy/assets/css/style.css">
   <link rel="icon" type="image/ico" href="/ITStrategy/assets/images/favicon.ico">

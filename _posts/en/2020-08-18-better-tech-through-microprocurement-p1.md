@@ -20,7 +20,7 @@ In 2016, the total spent by the GC on goods and services was ≈$16 billion.
 From an IT point of view, this spending can include big-ticket items like new data centres and new national applications costing tens of millions of dollars, but can also include low dollar value items like paying someone to build a small prototype or hiring a consultant to complete a gap analysis.
 
 To ensure that purchasing is working well across the GC, procurement teams are working hard on modernization efforts including the
-development of an [electronic procurement system](https://www.tpsgc-pwgsc.gc.ca/app-acq/ma-bb/solae-epsol-eng.html), enabling [agile procurement](https://www.tpsgc-pwgsc.gc.ca/app-acq/ma-bb/appagile-proagile-eng.html), [social procurement pilots](https://buyandsell.gc.ca/procurement-data/tender-notice/PW-18-00828087) and [contract language simplification](https://www.tpsgc-pwgsc.gc.ca/app-acq/ma-bb/simpcont-simpcont-eng.html).
+development of an electronic procurement system, enabling [agile procurement](https://www.tpsgc-pwgsc.gc.ca/app-acq/ma-bb/appagile-proagile-eng.html), [social procurement pilots](https://buyandsell.gc.ca/procurement-data/tender-notice/PW-18-00828087) and [contract language simplification](https://www.tpsgc-pwgsc.gc.ca/app-acq/ma-bb/simpcont-simpcont-eng.html).
 Interestingly, Low Dollar Value (LDV) procurements don't seem to make the list for procurement modernization priorities.
 This could be because these procurements are low risk and generally don't make headline news.
 However, for this same reason they provide the perfect opportunity for procurement and IT experimentation.
@@ -81,7 +81,7 @@ We need to work together.
 
 Private industry has been doing low dollar value purchases of code, including [bug bounty initiatives](https://www.itworldcanada.com/article/bug-bounty-programs-growing-stronger/413203), for some time.
 Other governments have been working on this as well.
-The BC government has had a great deal of success with the [BCDevExchange](https://bcdevexchange.org/) 'Code with Us' program.
+The BC government has had a great deal of success with the [BCDevExchange](https://github.com/bcgov/bcdevexchange) 'Code with Us' program.
 This program has since expanded in scope (to contracts up to $70K) and evolved into the [Digital Marketplace](https://digital.gov.bc.ca/marketplace) platform.
 
 The US gov has a [simplified process for all micro-purchases](https://www.acquisition.gov/far/part-13) which, among other things, encourages their Deputy Heads to delegate authority for micro-purchasing.

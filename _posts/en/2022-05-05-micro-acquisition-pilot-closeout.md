@@ -43,7 +43,7 @@ For PIPSC, [IT + procurement = outsourcing] and if something sounds like outsour
 Even if you are doing a small pilot with a small outlay of contract dollars, don’t wait to talk to them.
 
 If you aren’t already up to speed on all things ‘procurement policy’, build relationships with the policy experts – on your CFOB team but also at Treasury Board Secretariat (TBS), and Public Services and Procurement Canada (PSPC).
-Meet with folks doing similar/related initiatives like the [BC Developers Exchange](https://bcdevexchange.org/) team, PSPC's 15 day to pay, Shared Services Canada/[TechNation’s Digital Marketplace](https://technationcanada.ca/en/digital-marketplace/), Indigenous IT procurement and employment initiatives (at ESDC and PSPC) to look for synergies and share lessons learned.
+Meet with folks doing similar/related initiatives like the [BC Developers Exchange](https://github.com/bcgov/bcdevexchange) team, PSPC's 15 day to pay, Shared Services Canada/[TechNation’s Digital Marketplace](https://technationcanada.ca/en/digital-marketplace/), Indigenous IT procurement and employment initiatives (at ESDC and PSPC) to look for synergies and share lessons learned.
 
 Learn about the work that the [Procurement Assistance Canada](https://buyandsell.gc.ca/office-of-small-and-medium-enterprises-now-procurement-assistance-canada) (formerly Office of Small and Medium Enterprise (OSME)) does and see if your initiative provides a way to help one another.
 If yes, reach out to them.
