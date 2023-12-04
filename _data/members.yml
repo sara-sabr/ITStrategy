@@ -1,25 +1,3 @@
-- name: Philipe Girard
-  title: 
-    en: Manager
-    fr: Gestionnaire
-  email: philipe.girard@hrsdc-rhdcc.gc.ca
-  github: philipe-girard
-  interests: 
-    en: Sports, reading, family
-    fr: Sports, lecture, famille
-  picture_path: assets/images/profile-phil.jpg
-- name: Elmina Iusifova
-  title: 
-    en: Technical Advisor
-    fr: Conseillère technique
-  email: elmina.iusifova@hrsdc-rhdcc.gc.ca
-  twitter: Elmina65935561
-  github: ElminaIusifova
-  linkedin: elminaiusifova
-  interests: 
-    en: User Experience Design, User Interface Design, Communication
-    fr: Conception de l'expérience utilisateur, Design d'interface, Communication
-  picture_path: assets/images/profile-elmina.jpg
 - name: Rémy Bernard
   title: 
     en: Senior Advisor
@@ -45,19 +23,12 @@
   picture_path: assets/images/profile-sebastien.jpg
 - name: Rachel Muston
   title: 
-<<<<<<< Updated upstream
-    en: Technical Advisor
-    fr: Conseiller technique
-  email: james.santos@hrsdc-rhdcc.gc.ca
-  github: JSantosPS
-=======
     en: Advisor
     fr: Conseiller
   email: rachel.muston@hrsdc-rhdcc.gc.ca
   github: rachelmuston
   linkedin: rachel-muston-a1b52829
->>>>>>> Stashed changes
   interests: 
     en: Procurement, Working in the open and open source software, Accessibility
-    fr: Approvisionnement, Travailler ouvertement et logiciels libres, Accessibilité
+    fr: Approvisionnement, travailler ouvertement et logiciels libres, accessibilité
   picture_path: assets/images/profile-rachel.png
