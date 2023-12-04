@@ -43,13 +43,21 @@
     en: Free (open source) software, DevOps, enterprise architecture
     fr: Logiciels libres, DevOps, architecture d'entreprise
   picture_path: assets/images/profile-sebastien.jpg
-- name: James Santos
+- name: Rachel Muston
   title: 
+<<<<<<< Updated upstream
     en: Technical Advisor
     fr: Conseiller technique
   email: james.santos@hrsdc-rhdcc.gc.ca
   github: JSantosPS
+=======
+    en: Advisor
+    fr: Conseiller
+  email: rachel.muston@hrsdc-rhdcc.gc.ca
+  github: rachelmuston
+  linkedin: rachel-muston-a1b52829
+>>>>>>> Stashed changes
   interests: 
-    en: Strategy, building strong relationships, soccer
-    fr: La stratégie, gestion des relations, soccer
-  picture_path: assets/images/profile-james.png
+    en: Procurement, Working in the open and open source software, Accessibility
+    fr: Approvisionnement, Travailler ouvertement et logiciels libres, Accessibilité
+  picture_path: assets/images/profile-rachel.png
