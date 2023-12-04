@@ -50,7 +50,7 @@ Run a one-year experimental pilot for purchases of $10K or less for custom code 
   - a short legal document to address Intellectual Property rights for purchases made via the Micro-Acquisition pilot
 - We are working with colleagues in IITB to establish and document procedures to verify the quality of the code that is purchased via Micro-Acquisition (including the automation of testing using OSS tools/CLI).
 - We are developing and testing the draft Micro-Acquisition process with our stakeholders (CFOB procurement, CFOB acquisition card team, IITB finance team and the Office of Small and Medium Enterprise at PSPC)
-- We are taking lessons learned from others who have done similar micro-procurement initiatives (the [BC Developers Exchange](https://bcdevexchange.org/)/[BC Digital Marketplace](https://digital.gov.bc.ca/marketplace), US government, Industry, the [GCDevelopers Exchange](https://github.com/canada-ca/devex))
+- We are taking lessons learned from others who have done similar micro-procurement initiatives (the [BC Developers Exchange](https://github.com/bcgov/bcdevexchange)/[BC Digital Marketplace](https://digital.gov.bc.ca/marketplace), US government, Industry, the [GCDevelopers Exchange](https://github.com/canada-ca/devex))
 - We will be requiring that all code that is purchased via micro-acquisition is documented on the [Open Resource Exchange](https://code.open.canada.ca/en/index.html) so that it is findable and to facilitate code re-use.
 
 ## Additional Materials  

@@ -51,7 +51,7 @@ We will continue to provide updates as the project progresses.
 
 ### BCDevExchange
 
-- We are working with the [BCDevExchange](https://bcdevexchange.org) team to help us develop a "bid evaluation process" which is both fair to suppliers and not onerous on ESDC clients.
+- We are working with the [BCDevExchange](https://github.com/bcgov/bcdevexchange) team to help us develop a "bid evaluation process" which is both fair to suppliers and not onerous on ESDC clients.
 
 They have cautioned us against going priced-based and this matches the research we have done re: the US' experience in micro-purchasing (leads to $1 bids from larger companies to eliminate smaller companies from winning).
 We are also looking to follow the lead of the BCDevExchange and establish anonymous bid evaluation.

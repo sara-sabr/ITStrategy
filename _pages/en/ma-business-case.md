@@ -106,7 +106,7 @@ And the Office of the Procurement Ombudsman identified that there is a high risk
 
 Private industry has been doing low dollar value purchases of code, including [bug bounty initiatives](https://www.itworldcanada.com/article/bug-bounty-programs-growing-stronger/413203) (where developers are encouraged to find bugs in software and are paid to fix them).
 
-The BC government has had a great deal of success with the [BCDevExchange](https://bcdevexchange.org/) ‘Code with Us’ program.
+The BC government has had a great deal of success with the [BCDevExchange](https://github.com/bcgov/bcdevexchange) ‘Code with Us’ program.
 This program has since expanded in scope (to contracts up to $70K) and evolved into the [Digital Marketplace](https://digital.gov.bc.ca/marketplace) platform.
 
 The US government has a [simplified process for all micro-purchases](https://www.acquisition.gov/far/part-13) which, among other things, encourages their Deputy Heads to delegate authority for micro-purchasing.

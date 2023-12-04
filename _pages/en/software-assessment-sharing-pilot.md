@@ -8,10 +8,14 @@ sections: Pilots
 permalink: /software-assessment-sharing-pilot.html
 ---
 
-- [Problem Statement](#problem-statement)
-- [Expected Results](#opportunity-and-expected-results)
+- [Problem Statement](#problem-statement)
+- [Opportunity and Expected Results](#opportunity-and-expected-results)
+  - [Align with Canada's Digital Ambition](#align-with-canadas-digital-ambition)
 - [GCxchange Group](#gcxchange-group)
-- [Sharing ESDC Software Assessments](#sharing-software-assessments)
+- [Sharing Software Assessments](#sharing-software-assessments)
+  - [Document Classification](#document-classification)
+  - [Legal Questions](#legal-questions)
+  - [Fear of Being Embarrassed](#fear-of-being-embarrassed)
 - [Feedback](#feedback)
 - [Next Steps](#next-steps)
 
@@ -111,7 +115,7 @@ For the pilot, we are only sharing Unclassified information, since that is what 
 
 ### Fear of Being Embarrassed
 
-Through the pilot, some teams expressed concerns around usefulness of sharing information between departments, fear of causing embarrassment to themselves of their department, and questioning the document classification of those assessments as well as the legal aspects of sharing.
+Through the pilot, some teams expressed concerns around usefulness of sharing information between departments, fear of causing embarrassment to themselves or their department, and questioning the document classification of those assessments as well as the legal aspects of sharing.
 
 The pilot was able to demonstrate that other departments, especially smaller ones that do not have the same capacity as ESDC, were pleased to have ESDC's assessments shared, that no embarrassment occurred, and that only Unclassified documents were shared with the legal cover from ESDC's Legal Services.
 Even with a limited number of assessments shared, the feedback has been overwhelmingly positive from the wider GC community.
@@ -122,7 +126,7 @@ When launching the GCxchange group, initial documents from architecture, accessi
 Close to 100 GC employees joined after only a few posts on GCconnex, GCcollab, LinkedIn and Twitter.
 
 The Open Government teams at TBS reached out to invite us to the Open Government Working Group to present the pilot.
-The team working on the Data Strategy Renewal (also at TBS) offered to feature the pilot in a "vignette".
+Another team at TBS also contacted us to featured the pilot in the latest [2023–2026 Data Strategy for the Federal Public Service](https://www.canada.ca/en/treasury-board-secretariat/corporate/reports/2023-2026-data-strategy.html#toc-7.4) under "Mission 4. Empowering the public service – 4.3 Ensure that public servants are equipped with the appropriate tools to support their work" as a way that organizations are piloting new approaches to improve efficiencies.
 
 There were many comments that this is a very good idea, congratulating us on the initiative, hoping more departments got on board and forwarding this to there colleagues.
 
@@ -137,9 +141,23 @@ The process is currently being reviewed, but we still met with their Architectur
 
 ## Next Steps
 
-Despite having confirmed that the GC is one legal entity and that software assessments are generally Unclassified, that will still be the biggest challenge to continue sharing and to get others to start sharing and [working in the open](https://sara-sabr.github.io/ITStrategy/2019/11/19/working-in-the-open-part-1.html).
-The culture of silos and not wanting to show your work outside your team is a real fear that teams have.
+We have noticed a level of reticence from teams to [work in the open](https://sara-sabr.github.io/ITStrategy/2019/11/19/working-in-the-open-part-1.html) that originates from three main questions:
 
-The pilot aims to keep promoting collaboration between departments by sharing more software assessments from the ESDC teams and onboarding other departments to start sharing.
-Getting some of the larger departments (CRA, DND, SSC, ..) to start sharing would be great for collaboration in the GC in general and would allow ESDC to continue to participate after the end of the pilot, since we would not be the only departments sharing documents.
-This would provide much needed expertise and information for smaller departments and agencies to use for their assessment processes.
+1) Is it ok to share information between departments?
+2) What is the level of classification of that information?
+3) Is the information shared of relevance to others?
+
+We have confirmed with our legal services that the GC is one legal entity and, as such, software assessments can be shared between departments for information purposes and that it is not a blanket assessment for all GC departments to follow.
+
+We have obtained reassurance from ESDC's RSO that a sample of assessments were Unclassified.
+However, because the responsibility of accurately classifying information still lies with teams that produce the information, we are seeing a need to further provide guidance to them so they can feel confident in sharing their work with other teams.
+This Information Management guidance is needed to change a general culture that has an unfortunate results of seeking to control access to information that would otherwise be made readily available without barriers.
+
+Because there are no standards on software assessments where individual departments make up their own assessment processes, there were doubts as to whether information from department X would be relevant to department Y.
+We are eager to know if departments used the information shared as a means to promote standardization of software assessments.
+
+The pilot aimed to promote collaboration between departments and demonstrate through behaviours [the intent behind the GC Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html) by sharing software assessments from ESDC teams and onboarding other departments to start sharing.
+
+ESDC would benefit from having some of the larger departments (CRA, DND, SSC, ..) share their software assessments on the [GCExchange group](https://gcxgce.sharepoint.com/teams/1000219) to continue this collaborative efforts post-pilot and promote success to ESDC senior management needed to keep supporting this initiative.
+
+Continuing this cross-departmental collaboration will provide much needed expertise and information for smaller departments and agencies to use for their own assessment processes.

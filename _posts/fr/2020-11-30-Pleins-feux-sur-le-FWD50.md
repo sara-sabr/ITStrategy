@@ -19,7 +19,7 @@ Lors de chaque séance, les participants avaient accès à une fenêtre de clava
 Les utilisateurs pouvaient également « étiqueter » un présentateur pour lui demander de réseauter plus tard.
 
 À l’extérieur de la plateforme principale, les participants pouvaient, par l’entremise de leur avatar, accéder à des salles virtuelles en petits groupes pour rencontrer des amis et faire de nouvelles connaissances, donnant lieu à des conversations spontanées comme s’ils étaient face-à-face.
-Les services utilisés pour créer ces salles virtuelles étaient [Kumospace](https://www.kumospace.com/) et [Wonder](https://www.wonder.me/).
+Les services utilisés pour créer ces salles virtuelles étaient [Kumospace](https://www.kumospace.com/) et Wonder.
 
 L’[équipe FWD50](https://fwd50.com/fr/a-propos/#team) a été très honnête dès le départ en avertissant les participants qu’il y aurait probablement des pépins en cours de route, mais en dépit d’un ou deux légers problèmes, la conférence s’est très bien déroulée.
 

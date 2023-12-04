@@ -19,7 +19,7 @@ Le gouvernement du Canada (GC) achète beaucoup de biens et de services.
 En 2016, le GC a dépensé environ 16 milliards de dollars en biens et services.
 Du point de vue de la TI, ces dépenses peuvent comprendre des articles coûteux comme de nouveaux centres de données et de nouvelles applications nationales qui coûtent des dizaines de millions de dollars, mais également des articles de faible valeur, comme le fait de payer quelqu'un pour construire un petit prototype en quelques jours, ou d'embaucher un consultant pour réaliser une analyse de l'écart.
 
-Afin de s'assurer que l'approvisionnement fonctionne bien à l'échelle du GC, les équipes d'approvisionnement travaillent sans relâche aux efforts de modernisation, y compris à l'élaboration d'un [système d'approvisionnement électronique](https://www.tpsgc-pwgsc.gc.ca/app-acq/ma-bb/solae-epsol-fra.html), à la mise en œuvre d'un [approvisionnement agile](https://www.tpsgc-pwgsc.gc.ca/app-acq/ma-bb/appagile-proagile-fra.html), de [projets pilotes sur l'approvisionnement social](https://achatsetventes.gc.ca/donnees-sur-l-approvisionnement/appels-d-offres/PW-18-00828087) et de la [simplification du libellé des contrats](https://www.tpsgc-pwgsc.gc.ca/app-acq/ma-bb/simpcont-simpcont-fra.html).
+Afin de s'assurer que l'approvisionnement fonctionne bien à l'échelle du GC, les équipes d'approvisionnement travaillent sans relâche aux efforts de modernisation, y compris à l'élaboration d'un système d'approvisionnement électronique, à la mise en œuvre d'un [approvisionnement agile](https://www.tpsgc-pwgsc.gc.ca/app-acq/ma-bb/appagile-proagile-fra.html), de [projets pilotes sur l'approvisionnement social](https://achatsetventes.gc.ca/donnees-sur-l-approvisionnement/appels-d-offres/PW-18-00828087) et de la [simplification du libellé des contrats](https://www.tpsgc-pwgsc.gc.ca/app-acq/ma-bb/simpcont-simpcont-fra.html).
 Fait intéressant, les approvisionnements de faible valeur ne semblent pas figurer dans la liste des priorités de modernisation des approvisionnements.
 Cela pourrait être dû au fait que ces approvisionnements présentent un faible risque et ne font généralement pas les manchettes.
 Toutefois, pour la même raison, ils offrent l'occasion parfaite d'expérimenter dans l'approvisionnement et la TI.
@@ -83,7 +83,7 @@ Si cela existait, seriez-vous plus susceptible d'envisager d'utiliser des soluti
 
 L'industrie privée effectue depuis un certain temps des achats de faible valeur de code, y compris des [initiatives de *bug bounty* (littéralement des chasses aux bogues](https://www.itworldcanada.com/article/bug-bounty-programs-growing-stronger/413203) \[en anglais\].
 D'autres gouvernements se sont également penchés sur cette question.
-Le gouvernement de la Colombie-Britannique a connu beaucoup de succès avec le programme « Coder avec nous » [BCDevExchange](https://bcdevexchange.org) \[en anglais\].
+Le gouvernement de la Colombie-Britannique a connu beaucoup de succès avec le programme « Coder avec nous » [BCDevExchange](https://github.com/bcgov/bcdevexchange) \[en anglais\].
 Depuis, la portée de ce programme a été élargie (jusqu'à 70 000 $ pour les contrats) et est devenue la plateforme [Digital Marketplace](https://digital.gov.bc.ca/marketplace) \[en anglais\].
 
 Le gouvernement américain a mis en place un processus [simplifié pour tous les micro-achats](https://www.acquisition.gov/far/part-13) \[en anglais\] qui, entre autres, encourage notamment les administrateurs généraux à déléguer les pouvoirs de micro-achat.
