@@ -95,6 +95,12 @@
    },
    {
       "pattern": "https://linkedin.com"
+   },
+   {
+      "pattern": "https://www.microsoft.com/en-ca/microsoft-365/onedrive/online-cloud-storage"
+   },
+   {
+     "pattern": "https://www.microsoft.com/en-ca/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook"
    }
   ],
   "timeout": "30s",
