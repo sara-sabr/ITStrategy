@@ -18,7 +18,7 @@ C'est important car cela nous aide à entrer en contact avec d'autres personnes 
 Travailler de manière ouverte fait partie de notre culture, encadre notre façon de penser et s'aligne sur les normes numériques du gouvernement.
 Nous gérons notre travail de manière agile dans des sprints d'un mois en utilisant un tableau kanban et nous avons des stand-up, des sessions de planification de sprint et des rétrospectives régulières.
 
-Enfin, grâce à de nombreuses activités de consolidation d'équipe, nous avons créé un sentiment de confiance entre les coéquipier(ères)s qui nous permet d'apporter toute la puissance de nos compétences, de nos personnalités et de qui nous sommes au travail.
+Enfin, grâce à de nombreuses activités de consolidation d'équipe, nous avons créé un sentiment de confiance entre les coéquipier(ère)s qui nous permet d'apporter toute la puissance de nos compétences, de nos personnalités et de qui nous sommes au travail.
 
 ## L'équipe
 
