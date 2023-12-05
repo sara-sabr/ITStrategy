@@ -230,7 +230,7 @@ This will allow it to set priorities, measure outcomes and report on progress.
 IITB will make an annual budget request for the CoE and the Action Plan, to be reviewed and approved through the normal budgetary procedures.
 Using the existing corporate IT governance structures, IITB will report on, monitor and review the Action Plan, and deliver a mid-term review of progress and implementation of the strategy.
 
-Based on the [TODO](https://todogroup.org) group (professional open source program networking group at [The Linux Foundation](https://www.linuxfoundation.org)) guide on [How to create an open source program](https://todogroup.org/guides/create-program/) the responsibilities of the Open First CoE will include:
+Based on the [TODO](https://todogroup.org) group (professional open source program networking group at [The Linux Foundation](https://www.linuxfoundation.org)) guide on How to create an open source program (https://todogroup.org/guides/create-program/) the responsibilities of the Open First CoE will include:
 
 - clearly communicating the Open First strategy within and outside ESDC;
 - owning and overseeing the execution of the strategy and Action Plan;
@@ -666,7 +666,7 @@ Some teams in IITB are working in the open (DTS, IT Strategy, ...) and some OSS 
 Open standards are a set of rules designed to do a specific job in technology, developed in a fully open manner.
 They refer to file formats, protocols and application interfaces that can be implemented by everyone (in open source and proprietary software alike).
 
-Inspired by France's _[Référentiel Général d'Interopérabilité](https://www.numerique.gouv.fr/publications/interoperabilite/)_ (General Guidelines for Interoperability), the Quebec government's _[Cadre Commun d'Interopérabilité](https://www.tresor.gouv.qc.ca/ressources-informationnelles/architecture-dentreprise-gouvernementale/standards-et-normes/cadre-commun-dinteroperabilite/)_ (Common interoperability framework), the European Interoperability Framework (previously at: //ec.europa.eu/isa2/eif_en) and the British Cabinet Office's [Open Standards Principles](https://www.gov.uk/government/publications/open-standards-principles/open-standards-principles), the following criteria define open standards:
+Inspired by France's _[Référentiel Général d'Interopérabilité](https://www.numerique.gouv.fr/publications/interoperabilite/)_ (General Guidelines for Interoperability), the Quebec government's _Cadre Commun d'Interopérabilité (tresor.gouv.qc.ca/ressources-informationnelles/architecture-dentreprise-gouvernementale/standards-et-normes/cadre-commun-dinteroperabilite/)_ (Common interoperability framework), the European Interoperability Framework (previously at: //ec.europa.eu/isa2/eif_en) and the British Cabinet Office's [Open Standards Principles](https://www.gov.uk/government/publications/open-standards-principles/open-standards-principles), the following criteria define open standards:
 
 - Development process is open and transparent to all interested parties and cannot be controlled by any single person or entity with any vested interests;
 - They are platform independent, vendor neutral and usable in multiple implementations;
