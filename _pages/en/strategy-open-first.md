@@ -230,7 +230,7 @@ This will allow it to set priorities, measure outcomes and report on progress.
 IITB will make an annual budget request for the CoE and the Action Plan, to be reviewed and approved through the normal budgetary procedures.
 Using the existing corporate IT governance structures, IITB will report on, monitor and review the Action Plan, and deliver a mid-term review of progress and implementation of the strategy.
 
-Based on the [TODO](https://todogroup.org) group (professional open source program networking group at [The Linux Foundation](https://www.linuxfoundation.org)) guide on How to create an open source program (https://todogroup.org/guides/create-program/) the responsibilities of the Open First CoE will include:
+Based on the [TODO](https://todogroup.org) group (professional open source program networking group at [The Linux Foundation](https://www.linuxfoundation.org)) guide on How to create an open source program (todogroup.org/guides/create-program/) the responsibilities of the Open First CoE will include:
 
 - clearly communicating the Open First strategy within and outside ESDC;
 - owning and overseeing the execution of the strategy and Action Plan;
