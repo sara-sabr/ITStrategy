@@ -103,6 +103,6 @@
      "pattern": "https://www.microsoft.com/en-ca/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook"
    }
   ],
-  "timeout": "30s",
+  "timeout": "45s",
   "aliveStatusCodes": [200, 206, 403]
 }
