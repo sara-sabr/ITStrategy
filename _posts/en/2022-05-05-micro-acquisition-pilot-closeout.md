@@ -52,7 +52,7 @@ They know very well the challenges that suppliers face getting GC contracts and 
 
 Connect with the folks at [Canadian Digital Service (CDS)](https://digital.canada.ca/).
 Not only are there humans there with significant open source expertise and experience, they also manage some products you might want to integrate into your initiative.
-We used CDS’ [GC Notify](https://notification.canada.ca/) and [GC Forms](https://digital.canada.ca/product-suite/) as part of our pilot.
+We used CDS’ [GC Notify](https://notification.canada.ca/) and [GC Forms](https://articles.alpha.canada.ca/forms-formulaires/) as part of our pilot.
 We created a mutually supportive relationship where CDS built and accessibility tested our web forms for free and we participated in user feedback sessions for these products.
 
 ### Have a culture of in-house agile development work and support for OSS
