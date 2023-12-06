@@ -177,7 +177,7 @@ If you run the test and an issue is raised, you can use the following command to
 
 The tests that we have configured above in our local directory to ensure we have a tidy and secure workspace can now be leveraged to confirm that whenever we want to contribute to the project, everyone can fix their bugs before pushing submitting a PR.
 
-GitLab has [CI integration](https://about.gitlab.com/product/continuous-integration/) directly available in its platform and GitHub has a marketplace with services such as [CI Travis](https://travis-ci.com/), which is a free service for open source projects.
+GitLab has [CI integration](https://docs.gitlab.com/ee/topics/build_your_application.html) directly available in its platform and GitHub has a marketplace with services such as [CI Travis](https://travis-ci.com/), which is a free service for open source projects.
 
 There are many services you can leverage but really, the important aspect is that you can as many tests as part of your development process, not just when you reach a project gate.
 This in turn makes it possible to increase the quality of your code but also accelerate your rate of deployments since you know that each line changed can trigger the entire codebase review.

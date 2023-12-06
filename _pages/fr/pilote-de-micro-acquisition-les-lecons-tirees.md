@@ -394,7 +394,7 @@ Figure 1 : Saisie d'écran de la page Emploi pour les étudiants au www.canada
 
 #### Utilisation des formulaires du GC <!-- omit in toc -->
 
-La création du formulaire d'abonnement à la liste d'envoi, de la fiche de commentaires et du formulaire de demande s'est faite à l'aide du [service GC Formulaires](https://numerique.canada.ca/suite-de-produits/) du Service numérique canadien (SNC).
+La création du formulaire d'abonnement à la liste d'envoi, de la fiche de commentaires et du formulaire de demande s'est faite à l'aide du [service GC Formulaires](https://articles.alpha.canada.ca/forms-formulaires/fr/) du Service numérique canadien (SNC).
 Le recours à ce service a permis d'alléger la tâche de l'équipe de la stratégie de TI : l'équipe du SNC a conçu les formulaires du GC pour nous.
 Par ricochet, l'équipe de la stratégie de TI n'était plus tenue d'actualiser le formulaire de demande en format PDF (ce qui était une corvée), pendant que l'expérience utilisateur de ceux qui formulent des commentaires, s'abonnent à la liste d'envoi ou affichent des offres d'emploi s'en est trouvée améliorée parce que les formulaires étaient accessibles et qu'il était impossible de les soumettre sans remplir tous les champs obligatoires.
 L'équipe de la stratégie de TI a également pu recevoir les renseignements contenus dans les formulaires sous forme de données structurées, ce qui est propice à l'automatisation du traitement des formulaires.

@@ -14,14 +14,13 @@ The primary strategic goal of this transformation is to enable more rapid delive
 
 This goal will be achieved through the establishment and execution of the following **7 key strategic initiatives**:
 
-1. [A Strategy to transition IITB to an ESDC partner](#a-strategy-to-transition-iitb-to-an-esdc-partner)
-   1. [1. Create an Enterprise Information Modeling](#1-create-an-enterprise-information-modeling)
-   2. [2. Move towards a Cloud Native organization](#2-move-towards-a-cloud-native-organization)
-   3. [3. Invest in an Integration Layer (API-first approach)](#3-invest-in-an-integration-layer-api-first-approach)
-   4. [4. Implement DevOps](#4-implement-devops)
-   5. [5. Shift to Agile Project Management](#5-shift-to-agile-project-management)
-   6. [6. Adopt a Bi-Modal Governance and Delivery](#6-adopt-a-bi-modal-governance-and-delivery)
-   7. [7. Transition to Working in the Open by Default](#7-transition-to-working-in-the-open-by-default)
+- [1. Create an Enterprise Information Modeling](#1-create-an-enterprise-information-modeling)
+- [2. Move towards a Cloud Native organization](#2-move-towards-a-cloud-native-organization)
+- [3. Invest in an Integration Layer (API-first approach)](#3-invest-in-an-integration-layer-api-first-approach)
+- [4. Implement DevOps](#4-implement-devops)
+- [5. Shift to Agile Project Management](#5-shift-to-agile-project-management)
+- [6. Adopt a Bi-Modal Governance and Delivery](#6-adopt-a-bi-modal-governance-and-delivery)
+- [7. Transition to Working in the Open by Default](#7-transition-to-working-in-the-open-by-default)
 
 ## 1. Create an Enterprise Information Modeling
 
@@ -37,7 +36,7 @@ It's a reference, with business terms, that development teams will use to quickl
 
 Any privacy concerns will be treated separately, outside of the Enterprise Information Model.
 
-This aligns with key Government of Canada initiatives such as the Data Strategy, the [Digital Exchange Platform](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwjMo6T5gavjAhXkUN8KHchmBCkQFjAAegQIARAC&url=https%3A%2F%2Fciostrategycouncil.com%2Fwp-content%2Fuploads%2F2019%2F02%2FCanadas-Digital-Backbone-EN-Teresa.pdf&usg=AOvVaw0zdHuX2nso41PyGuBT-n6q), and the [API Store](https://api.canada.ca/en/homepage).
+This aligns with key Government of Canada initiatives such as the Data Strategy, the [Digital Exchange Platform](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwjMo6T5gavjAhXkUN8KHchmBCkQFjAAegQIARAC&url=https%3A%2F%2Fciostrategycouncil.com%2Fwp-content%2Fuploads%2F2019%2F02%2FCanadas-Digital-Backbone-EN-Teresa.pdf&usg=AOvVaw0zdHuX2nso41PyGuBT-n6q), and the API Store (api.canada.ca/en/homepage).
 
 The Enterprise Information Model is part of a broader undertaking by either IITB's Information Architecture directorate, or the SSPB's Chief Data Office (CDO).
 
