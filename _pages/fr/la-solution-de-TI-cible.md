@@ -993,7 +993,7 @@ Voir le point 3 ci-dessous.
 
 **2) Questions à la Chambre des communes de 2016 et 2019 (projets de plus de 1 M$)**
 
-Grâce à un projet d’[Ottawa Civic Tech (anglais seulement)](https://ottawacivictech.ca/), un [ensemble de données sur les grands projets de TI du gouvernement (anglais seulement)](https://large-government-of-canada-it-projects.github.io/)[^21] a été publié et les réponses à deux questions qui ont été posées à la Chambre des communes, en juin 2016 et en mai 2019, ont été consignées.
+Grâce à un projet d’Ottawa Civic Tech, un [ensemble de données sur les grands projets de TI du gouvernement (anglais seulement)](https://large-government-of-canada-it-projects.github.io/)[^21] a été publié et les réponses à deux questions qui ont été posées à la Chambre des communes, en juin 2016 et en mai 2019, ont été consignées.
 Chaque question demandait aux ministères fédéraux de faire rapport sur les projets de TI, en cours ou prévus, d’une valeur supérieure à 1 M$.
 
 Nous avons fait les constatations suivantes :

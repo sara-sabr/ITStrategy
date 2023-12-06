@@ -394,7 +394,7 @@ Figure 1: screenshot of the Student Employment page on Canada.ca as of March 14,
 
 #### Using GC Forms <!-- omit in toc -->
 
-The mailing list subscription form, the feedback form and the application form were all built using the [GC Forms service](https://digital.canada.ca/product-suite/) from Canadian Digital Service (CDS).
+The mailing list subscription form, the feedback form and the application form were all built using the [GC Forms service](https://articles.alpha.canada.ca/forms-formulaires/) from Canadian Digital Service (CDS).
 Using this service reduced the effort on the build team in IT Strategy as the team at CDS built the GC Forms for us.
 It also meant that the IT Strategy team no longer had to maintain the PDF application form (which was tedious) and user experience for anyone submitting feedback, subscribing to the mailing list, or applying to opportunities, was improved as the forms were accessible and did not allow submission unless all mandatory fields had been completed.
 It also meant that the IT Strategy team received form information as structured data which would allow for automating the processing of the forms.
@@ -416,7 +416,7 @@ This team (the FPS team) proved to be great allies and not only helped us unders
 Throughout planning, design, and build, OSME were instrumental in helping us understand what suppliers need and what we needed to understand about suppliers.
 Since we did not have a direct line to suppliers, this intel was extremely valuable.
 
-We gained a vast amount of information from those who had done this before such as the [BC Developers Exchange](https://bcdevexchange.org/) / [BC Digital Marketplace](https://digital.gov.bc.ca/marketplace) team who were generous in sharing their lessons learned.
+We gained a vast amount of information from those who had done this before such as the [BC Developers Exchange](https://github.com/bcgov/bcdevexchange) / [BC Digital Marketplace](https://digital.gov.bc.ca/marketplace) team who were generous in sharing their lessons learned.
 
 We also talked to the CDS procurement team who had been thinking of doing something similar, the Procurement policy team at TBS, the procurement team at Shared Services Canada who are involved in the [TechNation Digital Marketplace](https://technationcanada.ca/en/digital-marketplace/), and other teams at PSPC such as the procurement simplification team and the 15-day payment team.
 

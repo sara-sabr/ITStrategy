@@ -394,7 +394,7 @@ Figure 1 : Saisie d'écran de la page Emploi pour les étudiants au www.canada
 
 #### Utilisation des formulaires du GC <!-- omit in toc -->
 
-La création du formulaire d'abonnement à la liste d'envoi, de la fiche de commentaires et du formulaire de demande s'est faite à l'aide du [service GC Formulaires](https://numerique.canada.ca/suite-de-produits/) du Service numérique canadien (SNC).
+La création du formulaire d'abonnement à la liste d'envoi, de la fiche de commentaires et du formulaire de demande s'est faite à l'aide du [service GC Formulaires](https://articles.alpha.canada.ca/forms-formulaires/fr/) du Service numérique canadien (SNC).
 Le recours à ce service a permis d'alléger la tâche de l'équipe de la stratégie de TI : l'équipe du SNC a conçu les formulaires du GC pour nous.
 Par ricochet, l'équipe de la stratégie de TI n'était plus tenue d'actualiser le formulaire de demande en format PDF (ce qui était une corvée), pendant que l'expérience utilisateur de ceux qui formulent des commentaires, s'abonnent à la liste d'envoi ou affichent des offres d'emploi s'en est trouvée améliorée parce que les formulaires étaient accessibles et qu'il était impossible de les soumettre sans remplir tous les champs obligatoires.
 L'équipe de la stratégie de TI a également pu recevoir les renseignements contenus dans les formulaires sous forme de données structurées, ce qui est propice à l'automatisation du traitement des formulaires.
@@ -416,7 +416,7 @@ Cette équipe (l'Équipe responsable du soutien financier et des achats) s'est a
 Tout au long de la planification, de la conception et de l'édification, le BPME a joué un rôle décisif pour nous permettre d'interpréter les besoins des fournisseurs et nous éclairer sur ce qu'il nous fallait comprendre à propos des fournisseurs.
 Puisque nous n'étions pas en communication directe avec les fournisseurs, ces renseignements ont été très utiles.
 
-Nous avons obtenu une grande quantité de renseignements de la part de ceux qui étaient déjà passés par là, comme l'équipe de [BC Developers Exchange](https://bcdevexchange.org/) / [BC Digital Marketplace](https://digital.gov.bc.ca/marketplace) qui nous a généreusement fait part des leçons qu'elle a tirées.
+Nous avons obtenu une grande quantité de renseignements de la part de ceux qui étaient déjà passés par là, comme l'équipe de [BC Developers Exchange](https://github.com/bcgov/bcdevexchange) / [BC Digital Marketplace](https://digital.gov.bc.ca/marketplace) qui nous a généreusement fait part des leçons qu'elle a tirées.
 
 Nous avons également parlé à l'équipe d'approvisionnement du SNC, qui avait songé à faire quelque chose de semblable, à l'équipe de la politique d'approvisionnement du SCT, à l'équipe d'approvisionnement de Services partagés Canada qui s'investit dans le [TechNation Digital Marketplace (en anglais seulement)](https://technationcanada.ca/en/digital-marketplace/) ainsi qu'à d'autres équipes de SPAC, comme l'équipe de simplification de l'approvisionnement et l'équipe de paiement dans les 15 jours.
 

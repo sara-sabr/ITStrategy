@@ -9,7 +9,7 @@ excerpt: "Le FWD50 a été très différent cette année. Mais il y avait encore
 ---
 <!--markdownlint-disable MD033-->
 Le [FWD50](https://fwd50.com/) a été très différent cette année.
-Du 3 au 9 novembre, les participants et les présentateurs se sont joints à la conférence virtuellement, troquant le magnifique [Pavillon Aberdeen](https://ottawa.ca/fr/lansdowne#h3) pour leur divan et leur bureau depuis leur domicile.
+Du 3 au 9 novembre, les participants et les présentateurs se sont joints à la conférence virtuellement, troquant le magnifique Pavillon Aberdeen pour leur divan et leur bureau depuis leur domicile.
 Pour recréer le niveau d’énergie que l’on retrouve lors d’un rassemblement en personne, les organisateurs ont utilisé la plateforme virtuelle [Grip](https://grip.events/), qui permettait aux utilisateurs de consulter le programme des activités, d’établir leur horaire et de créer des occasions de réseautage impromptues pour maximiser leur temps pendant cet événement de quatre jours.
 
 Chaque séance était assortie d’une chaîne [Vimeo](https://vimeo.com) où les participants pouvaient visionner la vidéo avec sous-titrage et les ateliers utilisaient des salles [Zoom](https://zoom.us/) distinctes pour favoriser l’interactivité avec les participants.
@@ -19,7 +19,7 @@ Lors de chaque séance, les participants avaient accès à une fenêtre de clava
 Les utilisateurs pouvaient également « étiqueter » un présentateur pour lui demander de réseauter plus tard.
 
 À l’extérieur de la plateforme principale, les participants pouvaient, par l’entremise de leur avatar, accéder à des salles virtuelles en petits groupes pour rencontrer des amis et faire de nouvelles connaissances, donnant lieu à des conversations spontanées comme s’ils étaient face-à-face.
-Les services utilisés pour créer ces salles virtuelles étaient [Kumospace](https://www.kumospace.com/) et [Wonder](https://www.wonder.me/).
+Les services utilisés pour créer ces salles virtuelles étaient [Kumospace](https://www.kumospace.com/) et Wonder.
 
 L’[équipe FWD50](https://fwd50.com/fr/a-propos/#team) a été très honnête dès le départ en avertissant les participants qu’il y aurait probablement des pépins en cours de route, mais en dépit d’un ou deux légers problèmes, la conférence s’est très bien déroulée.
 

@@ -67,4 +67,4 @@ Stay tuned for the second opportunity!
 
 [^1]: Micro-Acquisition website [https://micro-acquisition.alpha.canada.ca/en/index.html](https://micro-acquisition.alpha.canada.ca/en/index.html)
 [^2]: First Micro-Acquisition opportunity [https://micro-acquisition.alpha.canada.ca/2021/06/23/building-custom-Azure-marketplace-policies.html](https://micro-acquisition.alpha.canada.ca/2021/06/23/building-custom-Azure-marketplace-policies.html)
-[^3]: Micro-acquisition Twitter account [https://twitter.com/microbuysgc](https://twitter.com/microbuysgc)
+[^3]: [Micro-acquisition Twitter account](https://twitter.com/microbuysgc)

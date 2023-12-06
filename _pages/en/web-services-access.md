@@ -90,7 +90,7 @@ To support the adoption of the new [Policy on Service and Digital](https://www.t
 | Fastmail | https://www.fastmail.com |  |
 | Google Mail | https://mail.google.com |  |
 | Mailbox.org | https://mailbox.org |  |
-| Outlook | https://outlook.live.com | Personal accounts |
+| Outlook | https://www.microsoft.com/en-ca/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook| Personal accounts |
 | Yahoo Mail | https://mail.yahoo.com |  |
 | ... |  |  |
 
@@ -102,7 +102,7 @@ To support the adoption of the new [Policy on Service and Digital](https://www.t
 | ----------- |:-------------:| ------:|
 | Dropbox | https://www.dropbox.com |  |
 | Google Drive | https://drive.google.com |  |
-| OneDrive | https://onedrive.live.com | Personal accounts |
+| OneDrive | https://www.microsoft.com/en-ca/microsoft-365/onedrive/online-cloud-storage| Personal accounts |
 | pCloud | https://www.pcloud.com |  |
 | ... |  |  |
 
@@ -203,7 +203,6 @@ To support the adoption of the new [Policy on Service and Digital](https://www.t
 | Facebook | https://www.facebook.com |  |
 | Librem One | https://social.librem.one |  |
 | Linkedin | https://www.linkedin.com |  |
-| Twitter | https://twitter.com |  |
 | Mastodon | https://mastodon.online |  |
 | ... |  |  |
 
