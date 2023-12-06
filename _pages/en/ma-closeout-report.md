@@ -394,7 +394,7 @@ Figure 1: screenshot of the Student Employment page on Canada.ca as of March 14,
 
 #### Using GC Forms <!-- omit in toc -->
 
-The mailing list subscription form, the feedback form and the application form were all built using the [GC Forms service](https://digital.canada.ca/product-suite/) from Canadian Digital Service (CDS).
+The mailing list subscription form, the feedback form and the application form were all built using the [GC Forms service](https://articles.alpha.canada.ca/forms-formulaires/) from Canadian Digital Service (CDS).
 Using this service reduced the effort on the build team in IT Strategy as the team at CDS built the GC Forms for us.
 It also meant that the IT Strategy team no longer had to maintain the PDF application form (which was tedious) and user experience for anyone submitting feedback, subscribing to the mailing list, or applying to opportunities, was improved as the forms were accessible and did not allow submission unless all mandatory fields had been completed.
 It also meant that the IT Strategy team received form information as structured data which would allow for automating the processing of the forms.

@@ -95,8 +95,17 @@
    },
    {
       "pattern": "https://linkedin.com"
+   },
+   {
+      "pattern": "https://www.microsoft.com/en-ca/microsoft-365/onedrive/online-cloud-storage"
+   },
+   {
+     "pattern": "https://www.microsoft.com/en-ca/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook"
+   },
+   {
+     "pattern": "https://www.tresor.gouv.qc.ca/fileadmin/PDF/ressources_informationnelles/logiciels_libres/ll.pdf"
    }
   ],
-  "timeout": "30s",
+  "timeout": "20s",
   "aliveStatusCodes": [200, 206, 403]
 }

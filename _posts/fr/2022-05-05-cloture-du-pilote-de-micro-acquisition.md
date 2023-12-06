@@ -57,7 +57,7 @@ Il connaît très bien les défis auxquels font face les fournisseurs pour obten
 
 Communiquez avec les membres du personnel du [Service numérique canadien (SNC)](https://numerique.canada.ca/).
 Non seulement certains d'entre eux possèdent une expertise et une expérience considérables en matière de logiciels libres, mais ils gèrent aussi certains produits que vous pourriez vouloir intégrer à votre initiative.
-Dans le cadre de notre projet pilote, nous avons utilisé [l'application Notification](https://notification.canada.ca/) du Service numérique canadien (SNC) et les [formulaires du gouvernement du Canada](https://digital.canada.ca/product-suite/).
+Dans le cadre de notre projet pilote, nous avons utilisé [l'application Notification](https://notification.canada.ca/) du Service numérique canadien (SNC) et les [formulaires du gouvernement du Canada](https://articles.alpha.canada.ca/forms-formulaires/fr/).
 Nous avons établi une relation de soutien mutuel dans le cadre de laquelle le SNC a élaboré nos formulaires et en a testé gratuitement l'accessibilité en ligne. Puis, nous avons participé à des séances de rétroaction des utilisateurs pour ces produits.
 
 ### Avoir une culture de travail de développement agile à l'interne et de soutien pour les logiciels libres
