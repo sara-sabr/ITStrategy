@@ -36,9 +36,9 @@ img + em { display: inline-block; }
   <strong>This is a DRAFT strategy</strong>.
 </div>
 
-_Note 1: Its authoritative source and latest version of this Strategy is on [ESDC's internal network](https://014gc.sharepoint.com/:w:/r/sites/IITB-ITStrategy/Shared%20Documents/STRATEGIES%[…]x?d=w842db61d7a504adaa1b95732601cdc69&csf=1&web=1&e=gkkLNF)_
+_Note 1: The authoritative source (and latest version) of this Strategy is on [ESDC's internal network](https://014gc.sharepoint.com/:w:/r/sites/IITB-ITStrategy/Shared%20Documents/STRATEGIES%[…]x?d=w842db61d7a504adaa1b95732601cdc69&csf=1&web=1&e=gkkLNF)_
 
-_Note 2: This page will link to internal ESDC documents, which are unfortunately only accessible within ESDC corporate network._
+_Note 2: Some of the links within this strategy are accessible only within the ESDC corporate network. These links are marked (ESDC only)._
 
 ## Situational Awareness
 
@@ -69,12 +69,12 @@ If Programs meet their service standards[^6] and Canadians are happy with its de
 
 ESDC is equipped with multiple strategic functions. It's the combination of those strategic functions that make up "Digital":
 
-- **Service Strategy** (a mandate of SSPB) and **Identity Management** (a mandate of ISB) are being transformed as part of the [BDM Programme's Business Change Authority](https://014gc.sharepoint.com/sites/BDM-MVP/SitePages/fr/Home.aspx)
+- **Service Strategy** (a mandate of SSPB) and **Identity Management** (a mandate of ISB) are being transformed as part of the [BDM Programme's Business Change Authority](https://014gc.sharepoint.com/sites/BDM-MVP/SitePages/fr/Home.aspx)(ESDC only)
 - **Data** is the mandate of the Chief Data Officer (CDO) who has produced
-[ESDC's Data Strategy](https://014gc.sharepoint.com/sites/CDO)
+[ESDC's Data Strategy](https://014gc.sharepoint.com/sites/CDO) (ESDC only)
 - **Information** is the mandate of the Chief Information Officer (CIO), delegated to the DG of Business Solutions and Information Management (BSIM), who has produced ESDC's [Information Management
-Strategy](https://iservice.prv/eng/imit/ims/clients/index.shtml)
-- **Cyber Security** is the mandate of the Designated Official for Cyber Security, the DG of Enterprise Operations, who has established a [Cyber Security Program](https://dialogue.spprod.service.gc.ca/grp/ITSA-ASTI/SitePages/Home.aspx)
+Strategy](https://iservice.prv/eng/imit/ims/clients/index.shtml)(ESDC only)
+- **Cyber Security** is the mandate of the Designated Official for Cyber Security, the DG of Enterprise Operations, who has established a [Cyber Security Program](https://dialogue.spprod.service.gc.ca/grp/ITSA-ASTI/SitePages/Home.aspx)(ESDC only)
 - **Information Technology** is the mandate of the CIO, delegated to the DG of Strategy, Architecture, and Business Relations (SABR). This document serves as the Strategy for Information Technology.
 
 This highly complex and distributed environment [requires different levers](https://apolitical.co/solution-articles/en/why-is-government-failing-in-the-digital-age-this-answer-will-not-shock-you): it is not about asking for more money for technology investments using committees to oversee approval and compliance, but rather investment in a skilled public service; fit-for-purpose governance and policies; explicit support for empowered, multidisciplinary teams that work together in lockstep, from policy to implementation and iteration.
@@ -126,7 +126,7 @@ B\) _Degree of Data and Information literacy_ (data source: Data and IM Strategi
 ***3\) Modernize IITB's software delivery capabilities***
 
 This goal directly points to Foundational Capabilities identified in the [IITB Strategic
-Priorities](https://014gc.sharepoint.com/sites/IITB-DGIIT-Gov-New-Nouveau/SitePages/IITB's-Strategic-Priorities-One-Pager.aspx).
+Priorities](https://014gc.sharepoint.com/sites/IITB-DGIIT-Gov-New-Nouveau/SitePages/IITB's-Strategic-Priorities-One-Pager.aspx)(ESDC only).
 In particular "higher velocity and quality through the adoption of modern ways of working" and "maturing cloud services capabilities".
 
 Technology is no longer a "package" that you purchase at a store and install.
@@ -164,7 +164,7 @@ This set of actions needs sufficient buy-in at a sufficient level of authority t
   </tr>
   <tr>
     <td>
-    <p>Inspired by the <a href="https://cloud.cio.gov/strategy/#workforce">US Cloud Smart</a> and <a href="https://014gc.sharepoint.com/sites/CDO/SitePages/FR/Home.aspx">ESDC Data</a> Strategies, the Technology Literacy Program seeks to empower IITB employees and executives to better understand modern software and perform competency management.
+    <p>Inspired by the <a href="https://cloud.cio.gov/strategy/#workforce">US Cloud Smart</a> and <a href="https://014gc.sharepoint.com/sites/CDO/SitePages/FR/Home.aspx">ESDC Data</a> Strategies (ESDC only), the Technology Literacy Program seeks to empower IITB employees and executives to better understand modern software and perform competency management.
     It is to establish foundational courses and skills needed to manage modern software effectively, securely, that benefits Canadians, and necessary to <a href="https://derisking-guide.18f.gov/">deliver successful technology projects</a>.</p>
     <p>Acknowledging the government's current financial constraints, the Literacy Program will seek to leverage existing materials and services such as:</p>
     <ul>
@@ -186,7 +186,7 @@ This set of actions needs sufficient buy-in at a sufficient level of authority t
 This investment is not driven by the IT organization but by the business needs.
 Technologies hardware component may deteriorate over time but their software components need to constantly be worked on.
 Temporary Projects become one of the many sources of requirements that inform a software product's roadmap over its life cycle.
-Product Management <a href="https://014gc.sharepoint.com/:p:/r/sites/IITB-ITStrategy/Shared%20Documents/STRATEGIES%20AND%20INITIATIVES/Product%20Management/Presentations/Pilot%20Product%20Management%20Oversight%20Framework-EMC-v4-EN.pptx?d=w94fa7388e6db445ca550d4e191c65a72&csf=1&web=1&e=WYUJvd">mitigates the risk of application obsolescence</a> by keeping them relevant and, as such, ensures ESDC Program services maintains pace of relevance with Canadian expectations.</p>
+Product Management <a href="https://014gc.sharepoint.com/:p:/r/sites/IITB-ITStrategy/Shared%20Documents/STRATEGIES%20AND%20INITIATIVES/Product%20Management/Presentations/Pilot%20Product%20Management%20Oversight%20Framework-EMC-v4-EN.pptx?d=w94fa7388e6db445ca550d4e191c65a72&csf=1&web=1&e=WYUJvd">mitigates the risk of application obsolescence</a> (ESDC only) by keeping them relevant and, as such, ensures ESDC Program services maintains pace of relevance with Canadian expectations.</p>
 
 <p>Adopting Product Management requires a different instrument to formalize multi-disciplinary teams outside of temporary projects between “The Business” and IT to enable the sustainment and continuously improvements of APM applications used in Programs service delivery.</p>
 
@@ -223,7 +223,7 @@ Product Management <a href="https://014gc.sharepoint.com/:p:/r/sites/IITB-ITStra
 <p><i>Adopting</i> commercially adopted open-source software and <a href="https://derisking-guide.18f.gov/state-field-guide/budgeting-tech/#procure-services-not-software">leveraging industry services</a> to help ESDC integrate and adapt them to Program needs must be seriously evaluated before going to market.</p>
 
 <p>Procuring commercial software is one option out of many.
-Adopting commercially adopted open-source software to help ESDC in <a href="https://sara-sabr.github.io/ITStrategy/open-first-strategy.html">ensuring its technology sovereignty</a> and comply with the <a href="https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32601">Directive on Service and Digital</a> requirement 4.4.3.12. ESDC already has an <a href="https://014gc.sharepoint.com/:w:/r/sites/CO7397744/MasterLib/ESDC%20Open%20Source%20Management%20Framework%20v%201.2.docx?d=w71619962ea18494a9d8fbd9e0bcecff7&csf=1&web=1&e=9lngyn">Open Source Software (OSS) Management Framework</a> that sets direction and guidance around OSS product selection considerations and compliance.</p>
+Adopting commercially adopted open-source software to help ESDC in <a href="https://sara-sabr.github.io/ITStrategy/open-first-strategy.html">ensuring its technology sovereignty</a> and comply with the <a href="https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32601">Directive on Service and Digital</a> requirement 4.4.3.12. ESDC already has an <a href="https://014gc.sharepoint.com/:w:/r/sites/CO7397744/MasterLib/ESDC%20Open%20Source%20Management%20Framework%20v%201.2.docx?d=w71619962ea18494a9d8fbd9e0bcecff7&csf=1&web=1&e=9lngyn">Open Source Software (OSS) Management Framework</a> (ESDC only) that sets direction and guidance around OSS product selection considerations and compliance.</p>
 
 <p>Educating IITB executives on the differences between adopting (when a licence grants us the rights) and acquiring (when we purchase the rights to use a licence) software becomes essential.</p>
 
@@ -266,7 +266,7 @@ The recommendations seek to make it easier for IT personnel to find information,
     </td>
   </tr>
   <tr>
-    <td class="action-header"><strong>7. Invest in IT personnels</strong></td>
+    <td class="action-header"><strong>7. Invest in IT personnel</strong></td>
     <td rowspan="2">(removed)</td>
   </tr>
   <tr>
@@ -298,7 +298,7 @@ Consultants may be leveraged to temporarily access new knowledge, but it cannot 
 <li id="ref-10" role="doc-endnote"><a href="https://www5.psc-cfp.gc.ca/dsad-dsda/time-to-staff/index-en.html">Source</a></li>
 <li id="ref-11" role="doc-endnote">Source: Data from ESDC and OCHRO</li>
 <li id="ref-12" role="doc-endnote"><a href="https://hranalytics-analytiquerh.tbs-sct.gc.ca/Classification/Home/ClassificationReports?GoCTemplateCulture=en-CA#ReportSectionTopDiv">Source</a></li>
-<li id="ref-13" role="doc-endnote">See <a href="https://014gc.sharepoint.com/:p:/r/sites/TechnicalDebt-Evergreening/Shared%20Documents/IT%20Evergreening/IT%20Evergreening%20Framework%20-%20Goals%20and%20Strategy/IT%20Evergreening%20-%20Strategy.pptx?d=w60b995bd1cd042628787b687d2205343&csf=1&web=1&e=mUziDY">IT Evergreening draft Strategy</a>, goals 8 and 9</li>
+<li id="ref-13" role="doc-endnote">See <a href="https://014gc.sharepoint.com/:p:/r/sites/TechnicalDebt-Evergreening/Shared%20Documents/IT%20Evergreening/IT%20Evergreening%20Framework%20-%20Goals%20and%20Strategy/IT%20Evergreening%20-%20Strategy.pptx?d=w60b995bd1cd042628787b687d2205343&csf=1&web=1&e=mUziDY">IT Evergreening draft Strategy</a> (ESDC only), goals 8 and 9</li>
 </ol>
     </td>
   </tr>
@@ -328,10 +328,10 @@ Consultants may be leveraged to temporarily access new knowledge, but it cannot 
 ## References <!-- omit in toc -->
 
 [^1]: Count of Programs in the [2022-23 Departmental Plan](https://www.canada.ca/en/employment-social-development/corporate/reports/departmental-plan/2022-2023.html#h2.7.3)
-[^2]: Count of Program Services in [Business Architecture's Repository](http://mlapesd5113v-qrs-srq.intra.dmz/EAMaster/?oid=001b0a82-d8f4-4f5b-b5fe-1462d43cd199&cid=d6f40a9d-a87c-41ae-83f1-4f63e120afc5)
+[^2]: Count of Program Services in [Business Architecture's Repository](http://mlapesd5113v-qrs-srq.intra.dmz/EAMaster/?oid=001b0a82-d8f4-4f5b-b5fe-1462d43cd199&cid=d6f40a9d-a87c-41ae-83f1-4f63e120afc5) (ESDC only)
 [^3]: [APM Assessment Dashboard](https://reportingservicesmtl.service.gc.ca/Reports16/report/GPA-APM/APM%20Assessment%20Dashboard)
-[^4]: [Workforce Demographic Profile 2023 Q4](https://pvt-pov.service.gc.ca/Reports/powerbi/NCR%20HRSB%20SDMS%20%E2%80%93%20PACS/Workforce%20Analysis%20Products%20-Produits%20Analyse%20Effectif/ESDC%20Profile%20%20%20%20-%20%20%20Profil%20EDSC/2022-2023/Q4/Profile%20ESDC%20(English)%202022-2023%20Q4) and count of Branches in [ESDC's Intranet](https://esdc.prv/en/index.shtml)
-[^5]: [PMIS Project Centre](https://gpp-ppm.service.gc.ca/sites/pwa/Projects.aspx) 2023-10-20 snapshot (less than 100% completed)
+[^4]: [Workforce Demographic Profile 2023 Q4](https://pvt-pov.service.gc.ca/Reports/powerbi/NCR%20HRSB%20SDMS%20%E2%80%93%20PACS/Workforce%20Analysis%20Products%20-Produits%20Analyse%20Effectif/ESDC%20Profile%20%20%20%20-%20%20%20Profil%20EDSC/2022-2023/Q4/Profile%20ESDC%20(English)%202022-2023%20Q4) (ESDC only) and count of Branches in [ESDC's Intranet](https://esdc.prv/en/index.shtml) (ESDC only)
+[^5]: [PMIS Project Centre](https://gpp-ppm.service.gc.ca/sites/pwa/Projects.aspx) (ESDC only) 2023-10-20 snapshot (less than 100% completed)
 [^6]: Refer to [TBS Directive on Service and Digital](https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32601) requirement 4.2.1
 [^7]: May change based on the lessons learned of IITB's Pilot Product Management Framework
 [^8]: From [DORA's key metrics](https://cloud.google.com/devops/state-of-devops) of software delivery performance.
