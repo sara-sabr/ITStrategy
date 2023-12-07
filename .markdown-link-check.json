@@ -43,6 +43,9 @@
       "pattern": "http://iservice.prv"
     },
     {
+      "pattern": "https://iservice.prv"
+    },
+    {
       "pattern": "http://dialogue"
     },
     {
@@ -104,6 +107,18 @@
    },
    {
      "pattern": "https://www.tresor.gouv.qc.ca/fileadmin/PDF/ressources_informationnelles/logiciels_libres/ll.pdf"
+   },
+   {
+     "pattern": "http://mlapesd5113v-qrs-srq.intra.dmz"
+   },
+   {
+     "pattern": "https://hranalytics-analytiquerh.tbs-sct.gc.ca"
+   },
+   {
+     "pattern": "https://reportingservicesmtl.service.gc.ca"
+   },
+   {
+     "pattern": "https://pvt-pov.service.gc.ca"
    }
   ],
   "timeout": "20s",
