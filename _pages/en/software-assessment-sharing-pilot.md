@@ -34,7 +34,7 @@ Each of these teams participated in the pilot planning process and shared valuab
 During discussions with the teams involved in software assessment (both inside and outside ESDC), many questioned whether ESDC could legally share the software assessment documents.
 As such the IT Strategy team sought advice from ESDC Legal counsel and the Regional Security Office (RSO).
 The RSO reviewed some sample assessment documents from architecture, accessibility and security and found that the documents reviewed were Unclassified.
-Following the review, Legal confirmed that the GC is one legal entity, and so sharing software assessments between departments was allowed with the caveat that a disclaimer be put on the GCXchange page where the documents were to be hosted.
+Following the review, Legal confirmed that the GC is one legal entity, and so sharing software assessments between departments was allowed with the caveat that a disclaimer be put on the GCxchange page where the documents were to be hosted.
 
 #### Sharing platform
 
@@ -42,12 +42,12 @@ When considering what platform would be best for sharing software assessment doc
 
 The ability to restrict access to the software assessment documents was later added as a criteria when owners of the software assessment documents at ESDC advised that they would only want the documents to be available to Government of Canada employees---------------------REF1.
 
-GCXchange was chosen as the platform that would best meet the above requirements---------------------REF2 and the [Software Assessments group](https://gcxgce.sharepoint.com/teams/1000219) page was developed on this platform for the pilot.
+GCxchange was chosen as the platform that would best meet the above requirements---------------------REF2 and the [Software Assessments group](https://gcxgce.sharepoint.com/teams/1000219) page was developed on this platform for the pilot.
 Within this group a document library was created that would only be accessible by group members.
 And membership of the group would only be allowed to GC employees.
 
 Through this Group page, members could see what documents have been shared by others, participate in discussions about software assessments and share their software assessment documents.
-Only unclassified content can be posted on GCXchange due to security limitations of the platform that existed at the time of the pilot.
+Only unclassified content can be posted on GCxchange due to security limitations of the platform that existed at the time of the pilot.
 
 ## Pilot Implementation and Results
 
@@ -64,7 +64,7 @@ ESDC shared 127 software assessment documents for 100 different software tools i
 
 ESDC helped to demonstrate the value of the pilot by being the first to add their documents and this resulted in 140 members from 42 departments joining the group over the course of the pilot.
 
-However, it should be noted that despite this interest, only one document was shared by another department (Canadian Food Inspection Agency (CFIA)) on the GCXchange group page during the pilot.
+However, it should be noted that despite this interest, only one document was shared by another department (Canadian Food Inspection Agency (CFIA)) on the GCxchange group page during the pilot.
 
 ### Kudos received about the pilot
 
@@ -82,7 +82,7 @@ This pilot sparked collaboration and experimentation that went beyond just softw
 
 Early in the pilot we spoke with the SSC Accessibility, Accommodation and Adaptive Computer Technology (AAACT) team who were working on their own pilot for sharing accessibility assessments in ACR format across the GC.
 We agreed that our pilot (the accessibility assessment part) could also lead into theirs since our timelines did not overlap and they would be launching after the end of our pilot.
-They are now planning to use GCXchange for sharing and collaboration instead of building their own solution.
+They are now planning to use GCxchange for sharing and collaboration instead of building their own solution.
 
 Another team that we connected with at the end of our pilot was the GC Data Community team from CSPS.
 They were tasked with implementing Mission 4.3 from the [2023–2026 Data Strategy for the Federal Public Service](https://www.canada.ca/en/treasury-board-secretariat/corporate/reports/2023-2026-data-strategy.html#toc-7.4), where our pilot was featured.
@@ -95,7 +95,7 @@ The connections made during the pilot have been used to help ESDC's ITAM and SAM
 
 ## Lessons Learned
 
-A survey was sent to all members of the GCXchange group and members of the teams doing software assessments at ESDC.
+A survey was sent to all members of the GCxchange group and members of the teams doing software assessments at ESDC.
 Responses were received from 10 members (7 departments) and from three of the ESDC software assessment teams.
 The lessons learned are informed by their answers to the survey as well as observations from the IT Strategy team over the course of the pilot.
 
@@ -109,18 +109,18 @@ Participating departments and agencies mentioned that assessments are typically 
 
 ### The Pilot confirmed appetite for collaboration on software assessments and related questions within the GC
 
-As soon as the GCXchange group went live and promoted on GCconnex, GCcollab and LinkedIn, the IT Strategy team received positive feedback about the pilot from across the GC.
+As soon as the GCxchange group went live and promoted on GCconnex, GCcollab and LinkedIn, the IT Strategy team received positive feedback about the pilot from across the GC.
 
 As mentioned above, during the pilot, 140 people joined the group from 42 departments further indicating the interest in having a place for those doing this work across the GC to collaborate.
 
-Throughout the pilot, there were 13 requests through the GCXchange Teams channel to see if specific software had already been assessed by another department or to ask what is being used in other departments.
+Throughout the pilot, there were 13 requests through the GCxchange Teams channel to see if specific software had already been assessed by another department or to ask what is being used in other departments.
 Similar questions were also received by email to the IT Strategy team who then tried to make the connections to the right teams to get the answers.
 
 One example of this is a question received from NRCan asking about ESDC's use of the recording feature in Teams and if ESDC had done a security/privacy assessment on that feature in order to align with ATIP requirements.
 The IT Strategy team connected NRCan with ESDC's Security and Privacy teams who were able to respond.
 Privacy also shared a privacy checklist that others can reuse.
 
-Teams from DFO got in touch after seeing the GCXchange group page to learn more about ESDC's software intake process.
+Teams from DFO got in touch after seeing the GCxchange group page to learn more about ESDC's software intake process.
 Documentation about this process was shared back with them.
 
 ### The GC has legal cover to share software assessments between departments
@@ -145,7 +145,7 @@ Through the pilot, some teams expressed concerns around causing embarrassment to
 The pilot demonstrated that other departments, especially smaller ones that do not have the same capacity as ESDC, were pleased to have ESDC's assessments shared in their current formats and that ESDC's Legal Services gave cover for Unclassified information to be shared with other departments and agencies.
 Even with a limited number of assessments shared, the feedback has been overwhelmingly positive from the wider GC community.
 
-For the pilot only Unclassified information could be shared as GCXchange does not support higher level of information categorization.
+For the pilot only Unclassified information could be shared as GCxchange does not support higher level of information categorization.
 Unclassified information is information that could be made available to the public (for example, through the Open Government Portal) without expectation of causing an injury to people or businesses.
 
 From the start, the onus of assigning the right information categorization is on the information's owner, author or originator.
@@ -162,7 +162,7 @@ As well as the tools available on the Intranet, the Corporate Communications tea
 
 When documents are not categorized it leads to confusion about if it can be shared or not.
 If information is categorized as Unclassified it should mean that it could be shared publicly.
-For the pilot we found that some information that could have been shared was not categorized and that teams were not always comfortable sharing Unclassified information, even if only internally to the GC on GCXchange.
+For the pilot we found that some information that could have been shared was not categorized and that teams were not always comfortable sharing Unclassified information, even if only internally to the GC on GCxchange.
 
 On the other hand, over-categorizing information imposes higher restrictions and levels of protection that hinder information from getting where it needs to be.
 For the pilot we found that some teams create all their documents categorized as Protected by default.
@@ -180,7 +180,7 @@ There is a need to have better standards in place for categorization to better e
 Because there are no standards on software assessments for the GC, departments develop their own assessment criteria.
 When we spoke with departments to request their participation in the pilot and share their software assessments, many doubted that information from their assessments would be relevant to other departments due to them all being done differently.
 
-When surveyed at the end of the pilot, some GCXchange group members indicated that they did not find the documents useful because they found the content irrelevant or unclear.
+When surveyed at the end of the pilot, some GCxchange group members indicated that they did not find the documents useful because they found the content irrelevant or unclear.
 If assessments were done in a standardized way across the GC this issue would likely have been minimized.
 
 The need for standard assessment criteria has already been identified by the accessibility community.
@@ -191,16 +191,16 @@ It would be useful to follow the outcome of this project as other areas involved
 Pilot participants noted that standardization would be useful and gave specific examples of possible standards to adopt such as the Open Security Controls Assessment Language (OSCAL) being developed by the National Institute of Standards and Technology (NIST) for security assessments.
 It was also noted that software assessments should include criteria from the [Appendix J: Standard on Systems that Manage Information and Data](https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32716) part of the [Directive on Service and Digital](https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32601).
 
-During the pilot, participants from DFO requested that ESDC share information about their software assessment process (this had not previously been shared as it was only the assessment documents that were shared on the GCXchange page).
+During the pilot, participants from DFO requested that ESDC share information about their software assessment process (this had not previously been shared as it was only the assessment documents that were shared on the GCxchange page).
 ESDC could contribute to the GC's standard software assessment evaluation criteria by joining whoever is leading this work and sharing ESDC's standard and related processes whether current or in development.
 By doing so, IITB could help shape a set of standard criteria and templates for software assessments in the GC.
 
-Additionally, some pilot participants noted that it would be useful to organize the software assessment documents on GCXchange by software rather than by assessment team.
+Additionally, some pilot participants noted that it would be useful to organize the software assessment documents on GCxchange by software rather than by assessment team.
 In this vein it was also felt that an overall assessment of each software (that includes information from all teams involved) would be useful.
 ESDC is in the process of developing an overall assessment that will span the software assessment teams.
 
 To enable adherence to any standard criteria, templates or process that are developed, they could be centrally located.
-This could be done by storing the standard documents on the GCXchange page or ensuring links to those are available on the GCXchange page (e.g.to the accessibility templates which will likely be stored elsewhere).
+This could be done by storing the standard documents on the GCxchange page or ensuring links to those are available on the GCxchange page (e.g.to the accessibility templates which will likely be stored elsewhere).
 
 Until the GC identifies the authority to define such standard, working in the open while reviewing our software approval process to be more service oriented and less compliance focused, would help the whole GC be better at assessing solutions.
 Continuing to share ESDC software assessments, like was done during the pilot, could have a similar effect of becoming a de facto standard for smaller departments and agencies that reuse the information to make their own decisions.
@@ -232,7 +232,7 @@ The initial response from other departments joining as well as the connections m
 ESDC maintains two repositories of software: the Definitive Media Library (DML) and, like all departments, the Application Portfolio Management (APM).
 For the APM, TBS highlighted the lack of visibility across departments, agencies, or corporations due to the lack of consistent APM solution in the [Draft Application Portfolio Management (APM) Modernization CONOPS](https://gcxgce.sharepoint.com/teams/0318/Shared%20Documents/APM%20Modernization/Departmental_WorkShop_Jan2023/TBS_APM_CONOPS_GCxchangedistribution.pdf).
 
-ESDC would benefit from having some of the larger departments (e.g., CRA, DND, SSC) share their software assessments information on the GCXchange group to continue these collaborative efforts post-pilot and promote success to ESDC senior management, which is needed to continue supporting this initiative.
+ESDC would benefit from having some of the larger departments (e.g., CRA, DND, SSC) share their software assessments information on the GCxchange group to continue these collaborative efforts post-pilot and promote success to ESDC senior management, which is needed to continue supporting this initiative.
 Continuing this cross-departmental collaboration will provide much needed expertise and information for smaller departments and agencies to use for their own assessment processes.
 
 Finally, organizations sharing their software catalog with other departments along with contacts for each would enable more collaboration within the GC.
@@ -257,9 +257,9 @@ The objectives of the pilot were to increase efficiency across the software asse
 
 The pilot's objectives were partly met.
 
-The GCXchange group clearly filled a collaboration gap.
+The GCxchange group clearly filled a collaboration gap.
 Prior to the pilot there wasn't a place for those working on software assessments across the GC to ask questions and share information.
-The implementation of this sharing space was a clear success in increasing collaboration and even though the pilot is officially over, the GCXchange group will continue.
+The implementation of this sharing space was a clear success in increasing collaboration and even though the pilot is officially over, the GCxchange group will continue.
 
 While the objectives of improving the quality of software assessments and the efficiency of software assessment were not met during the timeframe of the pilot, they could be met in the future if the above recommendations are implemented.
 Collaboration will also improve with the implementation of the above recommendations as the ability to collaborate is greatly influenced by the standardization of information and the reassurance on personnel to share across departments.
