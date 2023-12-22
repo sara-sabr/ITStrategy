@@ -16,7 +16,7 @@ Les ministères et agences du gouvernement du Canada (GC) évaluent et certifien
 
 L'équipe chargée de la stratégie de la TI à Emploi et Développement social Canada (EDSC) a proposé une initiative pilote pour résoudre ce problème qui permettrait aux employés du GC effectuant des évaluations de logiciels de partager leurs évaluations des logiciels entre eux.
 
-### Description du projet pilote 
+### Description du projet pilote
 
 Le but du projet pilote était de réduire le temps nécessaire aux employés du gouvernement fédéral d'obtenir une réponse à leurs demandes de logiciels.
 Les objectifs du projet pilote étaient d'accroître l'efficacité du processus d'évaluation des logiciels et d'améliorer la qualité des évaluations des logiciels dans l'ensemble du GC et d'accroître la collaboration entre les ministères en réunissant la communauté d'évaluation des logiciels du GC.
@@ -24,7 +24,7 @@ Les objectifs du projet pilote étaient d'accroître l'efficacité du processus 
 Il est également conforme aux [Normes relatives au numérique du GC](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html) « Travailler ouvertement par défaut » et « Collaborer largement », ainsi qu'à la [Directive sur le gouvernement ouvert](https://www.tbs-sct.canada.ca/pol/doc-fra.aspx?id=28108) « Maximiser la communication de l'information du GC ».
 Enfin, l'[Ambition numérique du Canada 2022](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/plans-strategiques-operations-numeriques-gouvernement-canada/ambition-numerique-canada.html) stipule que « Sur le plan numérique, le GC doit fonctionner de façon uniforme au profit de la population canadienne dans son ensemble ».
 
-### Planification du projet pilote 
+### Planification du projet pilote
 
 À EDSC, quatre équipes (architecture, accessibilité, sécurité et respect de la vie privée) participent au processus d'évaluation des logiciels.
 Chacune de ces équipes a participé au processus de planification du projet pilote et a partagé des informations précieuses sur le processus actuel d'évaluation des logiciels à EDSC.
@@ -49,11 +49,11 @@ De plus, seuls les employés du GC seraient autorisés à devenir membres du gro
 Grâce à cette page du groupe, les membres peuvent voir quels documents ont été partagés par d'autres, participer à des discussions sur les évaluations des logiciels et partager leurs documents d'évaluation des logiciels.
 Seul le contenu non classifié peut être publié sur GCXchange en raison des limites de sécurité de la plateforme qui existaient au moment du projet pilote.
 
-## Mise en oeuvre et résultats du projet pilote 
+## Mise en oeuvre et résultats du projet pilote
 
 Le projet pilote a été lancé en août 2022 et a duré un an.
 
-EDSC a partagé 127 documents d'évaluation de logiciels pour 100 outils logiciels différents dans la bibliothèque de documents du Groupe d'évaluations des logiciels au cours du projet pilote, comme suit : 
+EDSC a partagé 127 documents d'évaluation de logiciels pour 100 outils logiciels différents dans la bibliothèque de documents du Groupe d'évaluations des logiciels au cours du projet pilote, comme suit :
 
 | Équipe d'évaluation des logiciels à EDSC | Nombre de documents partagés |
 | ---------------------------------------- | ---------------------------- |
@@ -66,7 +66,7 @@ EDSC a contribué à démontrer la valeur du projet pilote en étant le premier 
 
 Toutefois, il convient de noter que malgré cet intérêt, un seul document a été partagé par un autre ministère (l'Agence canadienne d'inspection des aliments (ACIA)) sur la page du groupe GCXchange au cours du projet pilote.
 
-### Commentaires élogieux sur le projet pilote 
+### Commentaires élogieux sur le projet pilote
 
 Le Secrétariat du Conseil du Trésor du Canada (SCT), le ministère de la Défense nationale (MDN) et de nombreux petits ministères ou agences ont fait part de leurs réactions positives.
 
@@ -76,7 +76,7 @@ Le SCT a invité l'équipe de stratégie de la TI à présenter le projet pilote
 
 Le dirigeant principal de l'information d'EDSC a mentionné le projet pilote dans son allocution d'ouverture du Forum des cadres supérieurs (FCS), novembre 2022 : « C'est une bonne initiative qui est remarquée au GC et j'encourage toutes les équipes qui y participent à poursuivre le partage avec d'autres ministères pour ce projet pilote et à contribuer à la vaste communauté d'évaluation des logiciels du GC. » [traduction]
 
-### Effets d'entraînement et collaboration 
+### Effets d'entraînement et collaboration
 
 Ce projet pilote a suscité une collaboration et une expérimentation qui ont dépassé les simples évaluations de logiciels.
 
@@ -93,13 +93,13 @@ Ils espèrent ainsi atteindre des objectifs similaires à ceux du projet pilote 
 
 Les connexions établies au cours du projet pilote ont été utilisées pour aider les équipes de Gestion des biens de technologie de l'information (GBTI) et du Modèle d'analyse de sensibilité (MAS) d'EDSC à se comparer à d'autres ministères.
 
-## Leçons apprises 
+## Leçons apprises
 
 Un sondage a été envoyé à tous les membres du groupe GCXchange et aux membres des équipes chargées des évaluations des logiciels à EDSC.
 Des réponses ont été reçues de 10 membres (7 ministères) et de trois des équipes d'évaluation des logiciels d'EDSC.
 Les leçons apprises s'appuient sur leurs réponses au sondage ainsi que sur les observations de l'équipe chargée de la stratégie de la TI au cours du projet pilote.
 
-### L'absence de critères d'évaluation normalisés entre les ministères et les agences entrave la collaboration 
+### L'absence de critères d'évaluation normalisés entre les ministères et les agences entrave la collaboration
 
 Il n'existe pas de processus normalisé au sein du GC ni d'informations attendues sur ce que doit contenir une évaluation de logiciels.
 Alors que les ministères et les agences doivent trouver leurs propres solutions, le processus d'évaluation et de réception des logiciels d'EDSC a été qualifié de mature et de référence à exploiter.
@@ -107,7 +107,7 @@ L'équipe de Pêches et Océans Canada (MPO) a demandé à ce que nous partagion
 La plupart des ministères n'ont pas la même capacité ni la même structure qu'EDSC pour effectuer des évaluations de logiciels.
 Les ministères et agences participants ont indiqué que les évaluations sont généralement réalisées par de petites équipes interfonctionnelles, qui auraient tout intérêt à pouvoir se reporter à des évaluations réalisées par des services plus importants dotés d'équipes spécialisées.
 
-### Le Projet pilote a confirmé l'intérêt d'une collaboration sur les évaluations des logiciels et les questions connexes au sein du GC 
+### Le Projet pilote a confirmé l'intérêt d'une collaboration sur les évaluations des logiciels et les questions connexes au sein du GC
 
 Dès que le groupe GCXchange a été mis en place et promu sur GCconnex, GCcollab et LinkedIn, l'équipe de Stratégie de la TI a reçu des commentaires positifs sur le projet pilote de la part de l'ensemble du GC.
 
@@ -122,22 +122,20 @@ L'équipe du respect de la vie privée a également partagé une liste de contr�
 
 Les équipes du MPO ont pris contact après avoir vu la page du groupe GCXchange pour en savoir plus sur le processus de réception des logiciels d'EDSC La documentation relative à ce processus leur a été communiquée.
 
-### Le GC a les moyens juridiques de partager les évaluations de logiciels entre les ministères 
+### Le GC a les moyens juridiques de partager les évaluations de logiciels entre les ministères
 
 Au départ, les équipes d'évaluation des logiciels et de gestion se sont beaucoup inquiétées de la légalité du partage de ce type d'évaluation.
 Certaines questions ont été soulevées, notamment celle de savoir si le partage de ces documents enfreindrait les règles d'approvisionnement ou si la Direction générale de l'innovation, de l'information et de la technologie (DGIIT) avait l'autorisation de réaliser ce projet pilote.
 
 Comme indiqué ci-dessus dans la section relative à la planification, le service juridique a conclu que le GC étant une entité juridique unique, les ministères et les agences peuvent partager des documents et collaborer largement afin de s'entraider.
 Le conseiller juridique d'EDSC a recommandé qu'un avis soit placé sur le site indiquant que les informations étaient fournies À TITRE INFORMATIF UNIQUEMENT.
-Il a examiné le texte que nous avons utilisé pour cet avis et a fourni la liste de contrôle suivante que les équipes d'EDSC doivent utiliser avant de partager les informations : 
+Il a examiné le texte que nous avons utilisé pour cet avis et a fourni la liste de contrôle suivante que les équipes d'EDSC doivent utiliser avant de partager les informations :
 
-- les documents sont partagés à titre informatif seulement, c'est-à-dire pour fournir de l'information supplémentaire que les ministères peuvent prendre en compte pour procéder à leurs propres évaluations de logiciels; 
-
-- les résultats des vérifications partagées n'excluent pas un fournisseur de faire des demandes auprès d'autres ministères; la demande d'une recommandation négative globale à l'ensemble du GC comporterait d'importants risques juridiques; 
-
+- les documents sont partagés à titre informatif seulement, c'est-à-dire pour fournir de l'information supplémentaire que les ministères peuvent prendre en compte pour procéder à leurs propres évaluations de logiciels;
+- les résultats des vérifications partagées n'excluent pas un fournisseur de faire des demandes auprès d'autres ministères; la demande d'une recommandation négative globale à l'ensemble du GC comporterait d'importants risques juridiques;
 - si un fournisseur a conclu une entente de non-divulgation très restrictive, confirmer si l'entente définit les représentants autorisés des parties concernées et procéder à une évaluation supplémentaire des renseignements exclusifs inclus dans ces évaluations.
 
-### Les documents d'évaluation sont souvent non classés ou classés de manière excessive 
+### Les documents d'évaluation sont souvent non classés ou classés de manière excessive
 
 Les documents d'évaluation des logiciels n'ont parfois pas été classés ou l'ont été de manière excessive, ce qui a nui à la capacité de collaborer largement.
 
@@ -175,9 +173,9 @@ La classification des informations relatives à l'évaluation des logiciels n'es
 Des orientations supplémentaires sont nécessaires pour l'évaluation des logiciels, avec l'assurance de ne pas trop classifier les informations.
 Il est nécessaire de mettre en place de meilleures normes de classification afin de faciliter le partage d'informations au sein d'EDSC, de l'ensemble du GC et par l'intermédiaire du Portail du gouvernement ouvert.
 
-## Recommandations 
+## Recommandations
 
-### Établissement des critères d'évaluations standard pour l'évaluation des logiciels du GC 
+### Établissement des critères d'évaluations standard pour l'évaluation des logiciels du GC
 
 Comme il n'existe pas de normes sur l'évaluation des logiciels pour le GC, les ministères élaborent leurs propres critères d'évaluation.
 Lorsque nous avons contacté les ministères pour leur demander de participer au projet pilote et de partager leurs évaluations de logiciels, beaucoup d'entre eux ont douté que les informations tirées de leurs évaluations soient pertinentes pour d'autres ministères, étant donné qu'elles sont toutes effectuées différemment.
@@ -207,7 +205,7 @@ Cela pourrait se faire en stockant les documents standard sur la page GCXchange 
 Jusqu'à ce que le GC identifie l'autorité nécessaire pour définir une telle norme, travailler de manière ouverte tout en révisant notre processus d'approbation des logiciels pour qu'il soit davantage axé sur les services et moins sur la conformité aiderait l'ensemble du GC à mieux évaluer les solutions.
 La poursuite du partage des évaluations des logiciels d'EDSC, comme cela a été fait pendant le projet pilote, pourrait avoir un effet similaire en devenant une norme de facto pour les petits ministères et agences qui réutilisent les informations pour prendre leurs propres décisions.
 
-### Proposer des orientations sur la classification de l'information pour les documents d'évaluations des logiciels 
+### Proposer des orientations sur la classification de l'information pour les documents d'évaluations des logiciels
 
 Nous avons obtenu l'assurance du BRS d'EDSC qu'un échantillon d'évaluations était non classifié.
 Toutefois, étant donné que la responsabilité de classer les informations avec précision incombe aux équipes qui les produisent, nous constatons qu'il est nécessaire de fournir davantage de conseils et d'assurances afin qu'elles puissent partager en toute confiance leur travail avec d'autres équipes en dehors d'EDSC.
@@ -218,7 +216,7 @@ EDSC n'automatise pas actuellement la classification des documents lorsqu'ils so
 Lorsque les informations ne sont pas marquées, il peut en résulter une certaine confusion quant à leur partage au sein du GC ou sur le Portail du gouvernement ouvert.
 Lorsque les informations sont marquées de manière incorrecte, cela peut involontairement créer des obstacles à l'accès rapide aux informations en cas de demandes d'accès à l'information et protection des renseignements personnels (AIPRP).
 
-### Utiliser des critères d'évaluation standard pour l'évaluation des logiciels dans le cadre de demandes de propositions (DP) 
+### Utiliser des critères d'évaluation standard pour l'évaluation des logiciels dans le cadre de demandes de propositions (DP)
 
 Le processus de réception et d'évaluation des logiciels à EDSC implique de nombreuses équipes qui examinent les différents aspects de l'adoption de certains logiciels dans le ministère.
 Par exemple, l'accessibilité est une condition essentielle pour que les solutions soient approuvées pour un usage interne et externe.
@@ -226,7 +224,7 @@ Mais souvent, il ne s'agit pas d'une exigence ou une exception sera accordée lo
 
 EDSC devrait veiller à ce que les DP comportent des exigences similaires à celles du processus de réception et d'évaluation des logiciels.
 
-### Favoriser la collaboration 
+### Favoriser la collaboration
 
 Le projet pilote visait à promouvoir la collaboration entre les ministères et à démontrer, par des comportements, l'intention qui sous-tend les normes numériques du GC (travailler de manière ouverte et collaborer largement) en partageant les évaluations de logiciels des équipes d'EDSC et en incitant d'autres ministères à commencer à partager.
 La réponse initiale d'autres ministères, les liens établis et les discussions qui ont eu lieu montrent qu'il existe un besoin de collaboration entre les équipes chargées de la réception et de l'évaluation des logiciels dans l'ensemble du GC.
@@ -241,10 +239,10 @@ Enfin, les organisations qui partagent leur catalogue de logiciels avec d'autres
 C'est l'idée à l'origine de l'[Échange de ressources ouvert (ERO)](https://code.ouvert.canada.ca/fr/index.html) qui vise à créer une liste des logiciels libres publiés et utilisés au sein du GC, ainsi que les coordonnées de ceux qui les maintiennent.
 L'un des critères du [Cadre d'architecture intégrée du GC](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/politiques-normes/cadre-architecture-integree-gouvernement-canada.html) est que les ministères enregistrent les logiciels libres qu'ils utilisent auprès de l'ERO.
 
-EDSC devrait : 
+EDSC devrait :
 
-- Continuer à partager les documents non classifiés dans le format actuel dans lequel les équipes les produisent (ex. : Documents de la [matrice d'évaluation de risques](https://014gc.sharepoint.com/sites/SoftwareRequests/Risk%20Assessment%20Matrix%20Library/Forms/AllItems.aspx)); 
-- Dresser la liste des logiciels dans son [Catalogue d'applications](http://srmis-sigdi-iagent.prv/AppPortal/en/Home/Index/2) et des [Données MD](https://014gc.sharepoint.com/sites/BU6207468/Lists/DML%20Products/AllItems.aspx) à la disposition des autres ministères, ainsi que les évaluations connexes; 
+- Continuer à partager les documents non classifiés dans le format actuel dans lequel les équipes les produisent (ex. : Documents de la [matrice d'évaluation de risques](https://014gc.sharepoint.com/sites/SoftwareRequests/Risk%20Assessment%20Matrix%20Library/Forms/AllItems.aspx));
+- Dresser la liste des logiciels dans son [Catalogue d'applications](http://srmis-sigdi-iagent.prv/AppPortal/en/Home/Index/2) et des [Données MD](https://014gc.sharepoint.com/sites/BU6207468/Lists/DML%20Products/AllItems.aspx) à la disposition des autres ministères, ainsi que les évaluations connexes;
 - Ajouter tous les logiciels libres utilisés à EDSC à l'ERO avec un contact pertinent pour obtenir plus d'informations.
 
 La communauté a besoin d'être encouragée.
@@ -253,7 +251,7 @@ La stratégie de la TI a permis de renforcer la communauté en mettant les gens 
 Jusqu'à ce que la communauté soit établie et autonome, il sera important de poursuivre ce travail.
 Les équipes d'évaluation des logiciels doivent participer à la communauté en partageant des documents, en lançant des discussions et en y contribuant.
 
-## Conclusion 
+## Conclusion
 
 Les objectifs du projet pilote étaient d'accroître l'efficacité du processus d'évaluation des logiciels et d'améliorer la qualité des évaluations de logiciels dans l'ensemble du GC et d'accroître la collaboration entre les ministères en réunissant la communauté d'évaluation des logiciels du GC.
 
@@ -266,4 +264,4 @@ La mise en place de cet espace de partage a été un franc succès en matière d
 Bien que les objectifs d'amélioration de la qualité et de l'efficacité de l'évaluation des logiciels n'aient pas été atteints pendant la durée du projet pilote, ils pourraient l'être à l'avenir si les recommandations ci-dessus sont mises en œuvre.
 La collaboration s'améliorera également avec la mise en œuvre des recommandations ci-dessus, car la capacité à collaborer est fortement influencée par la normalisation des informations et la réassurance au personnel de partager dans l'ensemble des ministères.
 
-Nous encourageons EDSC à continuer de diriger les ministères et les agences dans le partage et la collaboration, même si le projet pilote est terminé.
+Nous encourageons EDSC à continuer de diriger les ministères et les agences dans le partage et la collaboration, même si le projet pilote est terminé!
