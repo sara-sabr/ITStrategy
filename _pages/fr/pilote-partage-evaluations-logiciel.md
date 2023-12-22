@@ -34,20 +34,20 @@ Chacune de ces équipes a participé au processus de planification du projet pil
 Au cours des discussions avec les équipes impliquées dans l'évaluation des logiciels (tant à l'intérieur qu'à l'extérieur d'EDSC), beaucoup se sont demandé si l'EDSC pouvait légalement partager les documents d'évaluation des logiciels.
 L'équipe chargée de la stratégie de la TI a donc demandé l'avis du conseiller juridique d'EDSC et du Bureau régional de la sécurité (BRS).
 Le BRS a examiné un échantillon de documents d'évaluation concernant l'architecture, l'accessibilité et la sécurité et a constaté que les documents examinés n'étaient pas classifiés.
-À la suite de cet examen, le service juridique a confirmé que le GC était une entité juridique unique et que le partage des évaluations des logiciels entre les ministères était donc autorisé, à condition qu'un avis de non-responsabilité figure sur la page de GCXchange où les documents devaient être hébergés.
+À la suite de cet examen, le service juridique a confirmé que le GC était une entité juridique unique et que le partage des évaluations des logiciels entre les ministères était donc autorisé, à condition qu'un avis de non-responsabilité figure sur la page de GCxchange où les documents devaient être hébergés.
 
 #### Plateforme de partage
 
 Lorsqu'il s'est agi de déterminer quelle serait la meilleure plateforme pour le partage des documents d'évaluation des logiciels entre les ministères, trois critères principaux ont été retenus : il devait s'agir d'une plateforme à laquelle les employés de l'ensemble du GC auraient accès et elle devait répondre à la fois aux exigences linguistiques et d'accessibilité du GC.
 
-La possibilité de restreindre l'accès aux documents d'évaluation des logiciels a été ajoutée ultérieurement comme critère lorsque les propriétaires des documents d'évaluation des logiciels à EDSCD ont indiqué qu'ils souhaitaient que les documents ne soient accessibles qu'aux employés du gouvernement du Canada---------------------REF1.
+La possibilité de restreindre l'accès aux documents d'évaluation des logiciels a été ajoutée ultérieurement comme critère lorsque les propriétaires des documents d'évaluation des logiciels à EDSC ont indiqué qu'ils souhaitaient que les documents ne soient accessibles qu'aux employés du gouvernement du Canada---------------------REF1.
 
-GCXchange a été choisie comme la plateforme qui répondrait le mieux aux exigences susmentionnées---------------------REF2 et la page du [Groupe d'évaluations des logiciels](https://gcxgce.sharepoint.com/teams/1000219) a été développée sur cette plateforme pour le projet pilote.
+GCxchange a été choisie comme la plateforme qui répondrait le mieux aux exigences susmentionnées---------------------REF2 et la page du [Groupe d'évaluations des logiciels](https://gcxgce.sharepoint.com/teams/1000219) a été développée sur cette plateforme pour le projet pilote.
 Au sein de ce groupe, une bibliothèque de documents a été créée, dont l'accès est réservé aux membres du groupe.
 De plus, seuls les employés du GC seraient autorisés à devenir membres du groupe.
 
 Grâce à cette page du groupe, les membres peuvent voir quels documents ont été partagés par d'autres, participer à des discussions sur les évaluations des logiciels et partager leurs documents d'évaluation des logiciels.
-Seul le contenu non classifié peut être publié sur GCXchange en raison des limites de sécurité de la plateforme qui existaient au moment du projet pilote.
+Seul le contenu non classifié peut être publié sur GCxchange en raison des limites de sécurité de la plateforme qui existaient au moment du projet pilote.
 
 ## Mise en oeuvre et résultats du projet pilote
 
@@ -64,7 +64,7 @@ EDSC a partagé 127 documents d'évaluation de logiciels pour 100 outils log
 
 EDSC a contribué à démontrer la valeur du projet pilote en étant le premier à ajouter ses documents, ce qui a permis à 140 membres de 42 ministères de se joindre au groupe au cours du projet pilote.
 
-Toutefois, il convient de noter que malgré cet intérêt, un seul document a été partagé par un autre ministère (l'Agence canadienne d'inspection des aliments (ACIA)) sur la page du groupe GCXchange au cours du projet pilote.
+Toutefois, il convient de noter que malgré cet intérêt, un seul document a été partagé par un autre ministère (l'Agence canadienne d'inspection des aliments (ACIA)) sur la page du groupe GCxchange au cours du projet pilote.
 
 ### Commentaires élogieux sur le projet pilote
 
@@ -82,7 +82,7 @@ Ce projet pilote a suscité une collaboration et une expérimentation qui ont d�
 
 Au début du projet pilote, nous nous sommes entretenus avec l'équipe d'accessibilité, d'adaptation et de technologie informatique adaptée (AATIA) des Services partagés Canada (SPC), qui travaillait sur son propre projet pilote de partage des évaluations d'accessibilité dans le format du Rapport des coûts des activités (RCA) dans l'ensemble du GC.
 Nous avons convenu que notre projet pilote (la partie relative à l'évaluation de l'accessibilité) pourrait également s'inscrire dans le sien puisque nos calendriers ne se chevauchent pas et qu'ils seront lancés après la fin de notre projet pilote.
-Ils prévoient maintenant d'utiliser GCXchange pour le partage et la collaboration au lieu de créer leur propre solution.
+Ils prévoient maintenant d'utiliser GCxchange pour le partage et la collaboration au lieu de créer leur propre solution.
 
 Une autre équipe avec laquelle nous nous sommes connectés à la fin de notre projet pilote est l'équipe de la Communauté des données du GC de l'École de la fonction publique du Canada (EFPC).
 Ils ont été chargés de mettre en œuvre la mission 4.3 de la [Stratégie relative aux données de 2023-2026 pour la fonction publique fédérale](https://www.canada.ca/fr/secretariat-conseil-tresor/organisation/rapports/strategie-relative-aux-donnees-2023-2026.html), dans laquelle notre projet pilote était présenté.
@@ -95,7 +95,7 @@ Les connexions établies au cours du projet pilote ont été utilisées pour aid
 
 ## Leçons apprises
 
-Un sondage a été envoyé à tous les membres du groupe GCXchange et aux membres des équipes chargées des évaluations des logiciels à EDSC.
+Un sondage a été envoyé à tous les membres du groupe GCxchange et aux membres des équipes chargées des évaluations des logiciels à EDSC.
 Des réponses ont été reçues de 10 membres (7 ministères) et de trois des équipes d'évaluation des logiciels d'EDSC.
 Les leçons apprises s'appuient sur leurs réponses au sondage ainsi que sur les observations de l'équipe chargée de la stratégie de la TI au cours du projet pilote.
 
@@ -109,18 +109,18 @@ Les ministères et agences participants ont indiqué que les évaluations sont g
 
 ### Le Projet pilote a confirmé l'intérêt d'une collaboration sur les évaluations des logiciels et les questions connexes au sein du GC
 
-Dès que le groupe GCXchange a été mis en place et promu sur GCconnex, GCcollab et LinkedIn, l'équipe de Stratégie de la TI a reçu des commentaires positifs sur le projet pilote de la part de l'ensemble du GC.
+Dès que le groupe GCxchange a été mis en place et promu sur GCconnex, GCcollab et LinkedIn, l'équipe de Stratégie de la TI a reçu des commentaires positifs sur le projet pilote de la part de l'ensemble du GC.
 
 Comme indiqué plus haut, 140 personnes de 42 ministères ont rejoint le groupe au cours du projet pilote, ce qui témoigne de l'intérêt de disposer d'un lieu de collaboration pour les personnes qui effectuent ce travail au sein du GC.
 
-Tout au long du projet pilote, 13 demandes ont été formulées par l'intermédiaire du canal GCXchange Teams pour savoir si un logiciel spécifique avait déjà été évalué par un autre ministère ou pour savoir ce qui était utilisé dans d'autres ministères.
+Tout au long du projet pilote, 13 demandes ont été formulées par l'intermédiaire du canal GCxchange Teams pour savoir si un logiciel spécifique avait déjà été évalué par un autre ministère ou pour savoir ce qui était utilisé dans d'autres ministères.
 Des questions similaires ont également été envoyées par courriel à l'équipe chargée de la Stratégie de la TI, qui a ensuite essayé de se mettre en rapport avec les équipes appropriées pour obtenir les réponses.
 
 Par exemple, RNCan a posé une question sur l'utilisation par EDSC de la fonction d'enregistrement dans Teams et a demandé si EDSC avait procédé à une évaluation de la sécurité et du respect de la vie privée de cette fonction afin de s'aligner sur les exigences d'accès à l'information et protection des renseignements personnels (AIPRP).
 L'équipe chargée de la Stratégie de la TI a mis RNCan en contact avec les équipes d'EDSC chargées de la sécurité et du respect de la vie privée, qui ont été en mesure de réagir.
 L'équipe du respect de la vie privée a également partagé une liste de contrôle sur le respect de la vie privée que d'autres peuvent réutiliser.
 
-Les équipes du MPO ont pris contact après avoir vu la page du groupe GCXchange pour en savoir plus sur le processus de réception des logiciels d'EDSC La documentation relative à ce processus leur a été communiquée.
+Les équipes du MPO ont pris contact après avoir vu la page du groupe GCxchange pour en savoir plus sur le processus de réception des logiciels d'EDSC La documentation relative à ce processus leur a été communiquée.
 
 ### Le GC a les moyens juridiques de partager les évaluations de logiciels entre les ministères
 
@@ -145,7 +145,7 @@ Tout au long du projet pilote, certaines équipes ont exprimé leur crainte de s
 Le projet pilote a démontré que d'autres ministères, en particulier les plus petits qui n'ont pas la même capacité qu'EDSC, étaient satisfaits de voir les évaluations d'EDSC partagées dans leurs formats actuels et que les services juridiques d'EDSC couvraient le partage d'informations non classifiées avec d'autres ministères et agences.
 Même avec un nombre limité d'évaluations partagées, le retour d'information a été extrêmement positif de la part de l'ensemble de la communauté du GC.
 
-Dans le cadre du projet pilote, seules des informations non classifiées ont pu être échangées, car GCXchange ne permet pas de classifier les informations à un niveau plus élevé.
+Dans le cadre du projet pilote, seules des informations non classifiées ont pu être échangées, car GCxchange ne permet pas de classifier les informations à un niveau plus élevé.
 Les informations non classifiées sont des informations qui pourraient être mises à la disposition du public (par exemple, par l'intermédiaire du Portail de gouvernement ouvert) sans risquer de porter préjudice à des personnes ou à des entreprises.
 
 Dès le départ, c'est au propriétaire, à l'auteur ou au créateur de l'information qu'il incombe d'attribuer la bonne classification d'information.
@@ -162,7 +162,7 @@ Outre les outils disponibles sur l'intranet, l'équipe de Communications minist�
 
 Lorsque les documents ne sont pas classés, il est difficile de savoir s'ils peuvent être partagés ou non.
 Si une information est classée comme non classifiée, cela signifie qu'elle peut être partagée publiquement.
-Dans le cadre du projet pilote, nous avons constaté que certaines informations qui auraient pu être partagées n'étaient pas classées et que les équipes n'étaient pas toujours à l'aise pour partager des informations non classifiées, ne serait-ce qu'en interne avec le GC sur GCXchange.
+Dans le cadre du projet pilote, nous avons constaté que certaines informations qui auraient pu être partagées n'étaient pas classées et que les équipes n'étaient pas toujours à l'aise pour partager des informations non classifiées, ne serait-ce qu'en interne avec le GC sur GCxchange.
 
 D'autre part, la classification excessive des informations impose des restrictions et des niveaux de protection plus élevés qui empêchent l'information d'arriver là où elle doit être.
 Dans le cadre du projet pilote, nous avons constaté que certaines équipes créent tous leurs documents en les classant par défaut comme « Protégé ».
@@ -180,7 +180,7 @@ Il est nécessaire de mettre en place de meilleures normes de classification afi
 Comme il n'existe pas de normes sur l'évaluation des logiciels pour le GC, les ministères élaborent leurs propres critères d'évaluation.
 Lorsque nous avons contacté les ministères pour leur demander de participer au projet pilote et de partager leurs évaluations de logiciels, beaucoup d'entre eux ont douté que les informations tirées de leurs évaluations soient pertinentes pour d'autres ministères, étant donné qu'elles sont toutes effectuées différemment.
 
-Lorsqu'ils ont été interrogés à la fin du projet pilote, certains membres du groupe GCXchange ont indiqué qu'ils n'avaient pas trouvé les documents utiles parce que leur contenu n'était pas pertinent ou pas clair.
+Lorsqu'ils ont été interrogés à la fin du projet pilote, certains membres du groupe GCxchange ont indiqué qu'ils n'avaient pas trouvé les documents utiles parce que leur contenu n'était pas pertinent ou pas clair.
 Si les évaluations étaient effectuées de manière normalisée dans l'ensemble du GC, ce problème aurait probablement été minimisé.
 
 Le besoin de critères d'évaluations standard a déjà été identifié par la communauté de l'accessibilité.
@@ -191,16 +191,16 @@ Il serait utile de suivre les résultats de ce projet, car d'autres domaines imp
 Les participants au projet pilote ont noté que la normalisation serait utile et ont donné des exemples spécifiques de normes possibles à adopter, comme le Security Controls Assessment Language (OSCAL, langage ouvert d'évaluation des contrôles de sécurité) développé par le National Institute of Standards and Technology (NIST) pour les évaluations de sécurité.
 On a noté également que les évaluations des logiciels devraient inclure les critères de l'[annexe J : Norme sur les systèmes de gestion de l'information et des données](https://www.tbs-sct.canada.ca/pol/doc-fra.aspx?id=32716) faisant partie de la Directive sur les services et le numérique.
 
-Au cours du projet pilote, les participants du MPO ont demandé à EDSC de partager des informations sur leur processus d'évaluation des logiciels (ces informations n'avaient pas été partagées auparavant, car seuls les documents d'évaluation avaient été partagés sur la page GCXchange).
+Au cours du projet pilote, les participants du MPO ont demandé à EDSC de partager des informations sur leur processus d'évaluation des logiciels (ces informations n'avaient pas été partagées auparavant, car seuls les documents d'évaluation avaient été partagés sur la page GCxchange).
 EDSC pourrait contribuer aux critères d'évaluation standard pour l'évaluation des logiciels du GC en se joignant à ceux qui dirigent ce travail et en partageant la norme d'EDSC et les processus connexes, qu'ils soient actuels ou en cours d'élaboration.
 Ce faisant, la DGIIT pourrait contribuer à l'élaboration d'un ensemble de critères et de modèles standard pour l'évaluation des logiciels au sein du GC.
 
-En outre, certains participants au projet pilote ont indiqué qu'il serait utile d'organiser les documents d'évaluation des logiciels sur GCXchange par logiciel plutôt que par équipe d'évaluation.
+En outre, certains participants au projet pilote ont indiqué qu'il serait utile d'organiser les documents d'évaluation des logiciels sur GCxchange par logiciel plutôt que par équipe d'évaluation.
 Dans le même ordre d'idées, il a également été jugé utile de procéder à une évaluation globale de chaque logiciel (comprenant des informations provenant de toutes les équipes impliquées).
 EDSC est en train d'élaborer une évaluation globale qui englobera les équipes d'évaluation des logiciels.
 
 Pour permettre l'adhésion à tout critère, modèle ou processus standard développés, ils pourraient être centralisés.
-Cela pourrait se faire en stockant les documents standard sur la page GCXchange ou en veillant à ce que des liens vers ces documents soient disponibles sur la page GCXchange (p. ex. vers les modèles d'accessibilité qui seront probablement stockés ailleurs).
+Cela pourrait se faire en stockant les documents standard sur la page GCxchange ou en veillant à ce que des liens vers ces documents soient disponibles sur la page GCxchange (p. ex. vers les modèles d'accessibilité qui seront probablement stockés ailleurs).
 
 Jusqu'à ce que le GC identifie l'autorité nécessaire pour définir une telle norme, travailler de manière ouverte tout en révisant notre processus d'approbation des logiciels pour qu'il soit davantage axé sur les services et moins sur la conformité aiderait l'ensemble du GC à mieux évaluer les solutions.
 La poursuite du partage des évaluations des logiciels d'EDSC, comme cela a été fait pendant le projet pilote, pourrait avoir un effet similaire en devenant une norme de facto pour les petits ministères et agences qui réutilisent les informations pour prendre leurs propres décisions.
@@ -232,7 +232,7 @@ La réponse initiale d'autres ministères, les liens établis et les discussions
 EDSC gère deux référentiels de logiciels : la Médiathèque définitive (MD) et, comme tous les ministères, la Gestion du portefeuille des applications (GPA).
 En ce qui concerne la GPA, le SCT a souligné le manque de visibilité dans les ministères, les agences ou les entreprises en raison de l'absence de solution cohérente de GPA dans le [projet de Concept d'opération (CONOPS) de modernisation de la gestion du portefeuille des applications (GPA)](https://gcxgce.sharepoint.com/teams/0318/Shared%20Documents/APM%20Modernization/Departmental_WorkShop_Jan2023/TBS_APM_CONOPS_GCxchangedistribution.pdf).
 
-EDSC gagnerait à ce que certains des plus grands ministères (p. ex. l'Agence du revenu du Canada (ARC), le MDN, les SPC) partagent les informations relatives aux évaluations de leurs logiciels sur le groupe GCXchange afin de poursuivre ces efforts de collaboration après le projet pilote et de promouvoir le succès auprès de la haute direction d'EDSC, ce qui est nécessaire pour continuer à soutenir cette initiative.
+EDSC gagnerait à ce que certains des plus grands ministères (p. ex. l'Agence du revenu du Canada (ARC), le MDN, les SPC) partagent les informations relatives aux évaluations de leurs logiciels sur le groupe GCxchange afin de poursuivre ces efforts de collaboration après le projet pilote et de promouvoir le succès auprès de la haute direction d'EDSC, ce qui est nécessaire pour continuer à soutenir cette initiative.
 La poursuite de cette collaboration interministérielle fournira l'expertise et les informations dont les petits ministères et agences ont besoin pour leurs propres processus d'évaluation.
 
 Enfin, les organisations qui partagent leur catalogue de logiciels avec d'autres ministères, ainsi que les contacts pour chacun d'entre eux, permettraient une plus grande collaboration au sein du GC.
@@ -257,9 +257,9 @@ Les objectifs du projet pilote étaient d'accroître l'efficacité du processus 
 
 Les objectifs du projet pilote ont été partiellement atteints.
 
-Le groupe GCXchange a clairement comblé une lacune en matière de collaboration.
+Le groupe GCxchange a clairement comblé une lacune en matière de collaboration.
 Avant le projet pilote, il n'existait pas d'endroit où les personnes travaillant sur l'évaluation des logiciels dans l'ensemble du GC pouvaient poser des questions et partager des informations.
-La mise en place de cet espace de partage a été un franc succès en matière de renforcement de la collaboration et, bien que le projet pilote soit officiellement terminé, le groupe GCXchange poursuivra ses activités.
+La mise en place de cet espace de partage a été un franc succès en matière de renforcement de la collaboration et, bien que le projet pilote soit officiellement terminé, le groupe GCxchange poursuivra ses activités.
 
 Bien que les objectifs d'amélioration de la qualité et de l'efficacité de l'évaluation des logiciels n'aient pas été atteints pendant la durée du projet pilote, ils pourraient l'être à l'avenir si les recommandations ci-dessus sont mises en œuvre.
 La collaboration s'améliorera également avec la mise en œuvre des recommandations ci-dessus, car la capacité à collaborer est fortement influencée par la normalisation des informations et la réassurance au personnel de partager dans l'ensemble des ministères.
