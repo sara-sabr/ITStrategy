@@ -40,9 +40,9 @@ Following the review, Legal confirmed that the GC is one legal entity, and so sh
 
 When considering what platform would be best for sharing software assessment documents across departments, there were initially 3 main criteria: it had to be a platform that employees across the GC had access to, and it had to meet both GC language requirements and accessibility requirements.
 
-The ability to restrict access to the software assessment documents was later added as a criteria when owners of the software assessment documents at ESDC advised that they would only want the documents to be available to Government of Canada employees---------------------REF1.
+The ability to restrict access to the software assessment documents was later added as a criteria when owners of the software assessment documents at ESDC advised that they would only want the documents to be available to Government of Canada employees.
 
-GCxchange was chosen as the platform that would best meet the above requirements---------------------REF2 and the [Software Assessments group](https://gcxgce.sharepoint.com/teams/1000219) page was developed on this platform for the pilot.
+GCxchange was chosen as the platform that would best meet the above requirements and the [Software Assessments group](https://gcxgce.sharepoint.com/teams/1000219) page was developed on this platform for the pilot.
 Within this group a document library was created that would only be accessible by group members.
 And membership of the group would only be allowed to GC employees.
 
@@ -59,8 +59,8 @@ ESDC shared 127 software assessment documents for 100 different software tools i
 | -------------------------------- | -------------------------- |
 | Technology Architecture          | 53                         |
 | Accessibility                    | 71                         |
-| Accessibility                    | 2---------------------REF3                          |
-| Accessibility                    | 1---------------------REF4                          |
+| Security                         | 2                          |
+| Privacy                          | 1                          |
 
 ESDC helped to demonstrate the value of the pilot by being the first to add their documents and this resulted in 140 members from 42 departments joining the group over the course of the pilot.
 
