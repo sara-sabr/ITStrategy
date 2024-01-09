@@ -40,9 +40,9 @@ Le BRS a examiné un échantillon de documents d'évaluation concernant l'archit
 
 Lorsqu'il s'est agi de déterminer quelle serait la meilleure plateforme pour le partage des documents d'évaluation des logiciels entre les ministères, trois critères principaux ont été retenus : il devait s'agir d'une plateforme à laquelle les employés de l'ensemble du GC auraient accès et elle devait répondre à la fois aux exigences linguistiques et d'accessibilité du GC.
 
-La possibilité de restreindre l'accès aux documents d'évaluation des logiciels a été ajoutée ultérieurement comme critère lorsque les propriétaires des documents d'évaluation des logiciels à EDSC ont indiqué qu'ils souhaitaient que les documents ne soient accessibles qu'aux employés du gouvernement du Canada---------------------REF1.
+La possibilité de restreindre l'accès aux documents d'évaluation des logiciels a été ajoutée ultérieurement comme critère lorsque les propriétaires des documents d'évaluation des logiciels à EDSC ont indiqué qu'ils souhaitaient que les documents ne soient accessibles qu'aux employés du gouvernement du Canada.
 
-GCxchange a été choisie comme la plateforme qui répondrait le mieux aux exigences susmentionnées---------------------REF2 et la page du [Groupe d'évaluations des logiciels](https://gcxgce.sharepoint.com/teams/1000219) a été développée sur cette plateforme pour le projet pilote.
+GCxchange a été choisie comme la plateforme qui répondrait le mieux aux exigences susmentionnées et la page du [Groupe d'évaluations des logiciels](https://gcxgce.sharepoint.com/teams/1000219) a été développée sur cette plateforme pour le projet pilote.
 Au sein de ce groupe, une bibliothèque de documents a été créée, dont l'accès est réservé aux membres du groupe.
 De plus, seuls les employés du GC seraient autorisés à devenir membres du groupe.
 
@@ -59,8 +59,8 @@ EDSC a partagé 127 documents d'évaluation de logiciels pour 100 outils log
 | ---------------------------------------- | ---------------------------- |
 | Architecture de la technologie           | 53                           |
 | Accessibilité                            | 71                           |
-| Sécurité                                 | 2---------------------REF3                            |
-| Respect de la vie privée                 | 1---------------------REF4                            |
+| Sécurité                                 | 2                            |
+| Respect de la vie privée                 | 1                            |
 
 EDSC a contribué à démontrer la valeur du projet pilote en étant le premier à ajouter ses documents, ce qui a permis à 140 membres de 42 ministères de se joindre au groupe au cours du projet pilote.
 
