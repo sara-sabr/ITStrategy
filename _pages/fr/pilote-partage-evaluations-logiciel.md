@@ -149,16 +149,16 @@ Dans le cadre du projet pilote, seules des informations non classifiées ont pu 
 Les informations non classifiées sont des informations qui pourraient être mises à la disposition du public (par exemple, par l'intermédiaire du Portail de gouvernement ouvert) sans risquer de porter préjudice à des personnes ou à des entreprises.
 
 Dès le départ, c'est au propriétaire, à l'auteur ou au créateur de l'information qu'il incombe d'attribuer la bonne classification d'information.
-Les équipes de sécurité de l'information d'EDSC ont mis à disposition sur l'intranet des outils permettant de [Déterminer si vos informations sont classifiées](https://iservice.prv/eng/is/security/categorization/info-cat-tool-form.shtml) (confidentiel, secret ou très secret) et [Déterminer si vos informations sont protégées](https://iservice.prv/eng/is/security/categorization/protected-assessment.shtml) (non classifiées, Protégé A, Protégé B ou Protégé C).
+Les équipes de sécurité de l'information d'EDSC ont mis à disposition sur l'intranet des outils permettant de [Déterminer si vos informations sont classifiées](https://iservice.prv/eng/is/security/categorization/info-cat-tool-form.shtml)(EDSC seulement) (confidentiel, secret ou très secret) et [Déterminer si vos informations sont protégées](https://iservice.prv/eng/is/security/categorization/protected-assessment.shtml)(EDSC seulement) (non classifiées, Protégé A, Protégé B ou Protégé C).
 Les outils guident les employés sur la manière de traiter les différentes classifications d'informations.
 Toutes les données et informations doivent être marquées du niveau de classification correct.
 
 Outre les outils disponibles sur l'intranet, l'équipe de Communications ministérielles de la Direction générale des affaires publiques et des relations avec les intervenants a rédigé une série de blogues en quatre parties sur la classification de l'information, qui souligne l'importance du processus et de son application cohérente.
 
-- [Classez-vous correctement les informations sensibles?](https://esdc.prv/en/news/corporate/2022/08/01.shtml)
-- [Évaluation du préjudice et de l'impact de l'information](https://esdc.prv/en/news/corporate/2022/09/13.shtml)
-- [Informations sur le déclassement](https://esdc.prv/en/news/corporate/2022/09/20.shtml)
-- [Déclassification des informations](https://esdc.prv/en/news/corporate/2022/09/27.shtml)
+- [Classez-vous correctement les informations sensibles?](https://esdc.prv/en/news/corporate/2022/08/01.shtml)(EDSC seulement)
+- [Évaluation du préjudice et de l'impact de l'information](https://esdc.prv/en/news/corporate/2022/09/13.shtml)(EDSC seulement)
+- [Informations sur le déclassement](https://esdc.prv/en/news/corporate/2022/09/20.shtml)(EDSC seulement)
+- [Déclassification des informations](https://esdc.prv/en/news/corporate/2022/09/27.shtml)(EDSC seulement)
 
 Lorsque les documents ne sont pas classés, il est difficile de savoir s'ils peuvent être partagés ou non.
 Si une information est classée comme non classifiée, cela signifie qu'elle peut être partagée publiquement.
@@ -209,7 +209,7 @@ La poursuite du partage des évaluations des logiciels d'EDSC, comme cela a ét�
 
 Nous avons obtenu l'assurance du BRS d'EDSC qu'un échantillon d'évaluations était non classifié.
 Toutefois, étant donné que la responsabilité de classer les informations avec précision incombe aux équipes qui les produisent, nous constatons qu'il est nécessaire de fournir davantage de conseils et d'assurances afin qu'elles puissent partager en toute confiance leur travail avec d'autres équipes en dehors d'EDSC.
-Cela contribuerait également à la mise en œuvre de la [Stratégie relative à l'information d'EDSC de 2023-2026](https://014gc.sharepoint.com/:b:/r/sites/GCDocs/Strategic%20Direction/IM%20Strategy%20and%20Plan/Information%20Strategy%202023-2026/Information%20Strategy%20refresh/Strategy%20refresh%20documents/Final%20artefacts%2023-25%20Strategy%20refresh/English%20versions/ESDC%27s%20Information%20Strategy%2023-26%20ENG.pdf?csf=1&web=1&e=n6ZLQf), qui vise à supprimer les obstacles à l'accès à l'information en faisant en sorte que les employés d'EDSC adoptent une culture de l'information « ouverte par conception, fermée par exception ».
+Cela contribuerait également à la mise en œuvre de la [Stratégie relative à l'information d'EDSC de 2023-2026](https://014gc.sharepoint.com/:b:/r/sites/GCDocs/Strategic%20Direction/IM%20Strategy%20and%20Plan/Information%20Strategy%202023-2026/Information%20Strategy%20refresh/Strategy%20refresh%20documents/Final%20artefacts%2023-25%20Strategy%20refresh/English%20versions/ESDC%27s%20Information%20Strategy%2023-26%20ENG.pdf?csf=1&web=1&e=n6ZLQf)(EDSC seulement), qui vise à supprimer les obstacles à l'accès à l'information en faisant en sorte que les employés d'EDSC adoptent une culture de l'information « ouverte par conception, fermée par exception ».
 
 Toutes les données et informations doivent être clairement identifiées comme étant non classifiées ou protégées et l'accès doit être géré en conséquence.
 EDSC n'automatise pas actuellement la classification des documents lorsqu'ils sont créés, comme le font certains autres ministères.
@@ -241,8 +241,8 @@ L'un des critères du [Cadre d'architecture intégrée du GC](https://www.canada
 
 EDSC devrait :
 
-- Continuer à partager les documents non classifiés dans le format actuel dans lequel les équipes les produisent (ex. : Documents de la [matrice d'évaluation de risques](https://014gc.sharepoint.com/sites/SoftwareRequests/Risk%20Assessment%20Matrix%20Library/Forms/AllItems.aspx));
-- Dresser la liste des logiciels dans son [Catalogue d'applications](http://srmis-sigdi-iagent.prv/AppPortal/en/Home/Index/2) et des [Données MD](https://014gc.sharepoint.com/sites/BU6207468/Lists/DML%20Products/AllItems.aspx) à la disposition des autres ministères, ainsi que les évaluations connexes;
+- Continuer à partager les documents non classifiés dans le format actuel dans lequel les équipes les produisent (ex. : Documents de la [matrice d'évaluation de risques](https://014gc.sharepoint.com/sites/SoftwareRequests/Risk%20Assessment%20Matrix%20Library/Forms/AllItems.aspx))(EDSC seulement);
+- Dresser la liste des logiciels dans son [Catalogue d'applications](http://srmis-sigdi-iagent.prv/AppPortal/en/Home/Index/2)(EDSC seulement) et des [Données MD](https://014gc.sharepoint.com/sites/BU6207468/Lists/DML%20Products/AllItems.aspx)(EDSC seulement) à la disposition des autres ministères, ainsi que les évaluations connexes;
 - Ajouter tous les logiciels libres utilisés à EDSC à l'ERO avec un contact pertinent pour obtenir plus d'informations.
 
 La communauté a besoin d'être encouragée.
