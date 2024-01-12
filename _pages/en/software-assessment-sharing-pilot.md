@@ -149,16 +149,16 @@ For the pilot only Unclassified information could be shared as GCxchange does no
 Unclassified information is information that could be made available to the public (for example, through the Open Government Portal) without expectation of causing an injury to people or businesses.
 
 From the start, the onus of assigning the right information categorization is on the information's owner, author or originator.
-ESDC Information Security teams have made tools available on the Intranet to [Determine if your information is Classified](https://iservice.prv/eng/is/security/categorization/info-cat-tool-form.shtml) (Confidential, Secret or Top Secret) and [Determine if your information is Protected](https://iservice.prv/eng/is/security/categorization/protected-assessment.shtml) (Unclassified, Protected A, Protected B or Protected C).
+ESDC Information Security teams have made tools available on the Intranet to [Determine if your information is Classified](https://iservice.prv/eng/is/security/categorization/info-cat-tool-form.shtml)(ESDC only) (Confidential, Secret or Top Secret) and [Determine if your information is Protected](https://iservice.prv/eng/is/security/categorization/protected-assessment.shtml)(ESDC only) (Unclassified, Protected A, Protected B or Protected C).
 The tools guide employees on how to handle different categories of information.
 All data and information must be marked with the correct categorization level.
 
 As well as the tools available on the Intranet, the Corporate Communications team from the Public Affairs and Stakeholder Relations Branch wrote a 4-part blog series on Information Categorization, that highlights the importance of the process and doing it consistently.
 
-- [Are you correctly categorizing sensitive information?](https://esdc.prv/en/news/corporate/2022/08/01.shtml)
-- [Assessing the injury and impact of information](https://esdc.prv/en/news/corporate/2022/09/13.shtml)
-- [Downgrading information](https://esdc.prv/en/news/corporate/2022/09/20.shtml)
-- [Declassification of information](https://esdc.prv/en/news/corporate/2022/09/27.shtml)
+- [Are you correctly categorizing sensitive information?](https://esdc.prv/en/news/corporate/2022/08/01.shtml) (ESDC only)
+- [Assessing the injury and impact of information](https://esdc.prv/en/news/corporate/2022/09/13.shtml) (ESDC only)
+- [Downgrading information](https://esdc.prv/en/news/corporate/2022/09/20.shtml) (ESDC only)
+- [Declassification of information](https://esdc.prv/en/news/corporate/2022/09/27.shtml) (ESDC only)
 
 When documents are not categorized it leads to confusion about if it can be shared or not.
 If information is categorized as Unclassified it should mean that it could be shared publicly.
@@ -209,7 +209,7 @@ Continuing to share ESDC software assessments, like was done during the pilot, c
 
 We have obtained reassurance from ESDC's RSO that a sample of assessments were Unclassified.
 However, because the responsibility of accurately categorizing information lies with teams that produce the information, we are seeing a need to further provide guidance and assurance to confidently share their work with other teams outside ESDC.
-This would also help with implementation of [ESDC's Information Strategy 23-26](https://014gc.sharepoint.com/:b:/r/sites/GCDocs/Strategic%20Direction/IM%20Strategy%20and%20Plan/Information%20Strategy%202023-2026/Information%20Strategy%20refresh/Strategy%20refresh%20documents/Final%20artefacts%2023-25%20Strategy%20refresh/English%20versions/ESDC%27s%20Information%20Strategy%2023-26%20ENG.pdf?csf=1&web=1&e=n6ZLQf) that seeks to remove barriers to accessing information by having ESDC employees embrace an “open by design, closed by exception” information culture.
+This would also help with implementation of [ESDC's Information Strategy 23-26](https://014gc.sharepoint.com/:b:/r/sites/GCDocs/Strategic%20Direction/IM%20Strategy%20and%20Plan/Information%20Strategy%202023-2026/Information%20Strategy%20refresh/Strategy%20refresh%20documents/Final%20artefacts%2023-25%20Strategy%20refresh/English%20versions/ESDC%27s%20Information%20Strategy%2023-26%20ENG.pdf?csf=1&web=1&e=n6ZLQf) (ESDC only) that seeks to remove barriers to accessing information by having ESDC employees embrace an “open by design, closed by exception” information culture.
 
 All data and information should be clearly marked as either Unclassified or Protected and access managed accordingly.
 ESDC does not currently automate the categorization of documents when they are created like some other departments do.
@@ -241,8 +241,8 @@ One of the criteria in the [GC Enterprise Architecture Framework](https://www.ca
 
 ESDC should:
 
-- Continue to share Unclassified documents in the current format that teams are producing them (ex.: [Risk Assessment Matrix](https://014gc.sharepoint.com/sites/SoftwareRequests/Risk%20Assessment%20Matrix%20Library/Forms/AllItems.aspx) documents);
-- Make the list of software in its [Application Catalogue](http://srmis-sigdi-iagent.prv/AppPortal/en/Home/Index/2) and [Definitive Media Library (DML)](https://014gc.sharepoint.com/sites/BU6207468/Lists/DML%20Products/AllItems.aspx) data available to other departments along with related assessments;
+- Continue to share Unclassified documents in the current format that teams are producing them (ex.: [Risk Assessment Matrix](https://014gc.sharepoint.com/sites/SoftwareRequests/Risk%20Assessment%20Matrix%20Library/Forms/AllItems.aspx) (ESDC only) documents);
+- Make the list of software in its [Application Catalogue](http://srmis-sigdi-iagent.prv/AppPortal/en/Home/Index/2) (ESDC only) and [Definitive Media Library (DML)](https://014gc.sharepoint.com/sites/BU6207468/Lists/DML%20Products/AllItems.aspx) (ESDC only) data available to other departments along with related assessments;
 - Add all OSS being used at ESDC to the ORE with a relevant contact to get more information.
 
 Community needs fostering.
