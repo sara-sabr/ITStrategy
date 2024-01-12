@@ -40,9 +40,9 @@ Le BRS a examiné un échantillon de documents d'évaluation concernant l'archit
 
 Lorsqu'il s'est agi de déterminer quelle serait la meilleure plateforme pour le partage des documents d'évaluation des logiciels entre les ministères, trois critères principaux ont été retenus : il devait s'agir d'une plateforme à laquelle les employés de l'ensemble du GC auraient accès et elle devait répondre à la fois aux exigences linguistiques et d'accessibilité du GC.
 
-La possibilité de restreindre l'accès aux documents d'évaluation des logiciels a été ajoutée ultérieurement comme critère lorsque les propriétaires des documents d'évaluation des logiciels à EDSC ont indiqué qu'ils souhaitaient que les documents ne soient accessibles qu'aux employés du gouvernement du Canada.
+La possibilité de restreindre l'accès aux documents d'évaluation des logiciels a été ajoutée ultérieurement comme critère lorsque les propriétaires des documents d'évaluation des logiciels à EDSC ont indiqué qu'ils souhaitaient que les documents ne soient accessibles qu'aux employés du gouvernement du Canada[^1].
 
-GCxchange a été choisie comme la plateforme qui répondrait le mieux aux exigences susmentionnées et la page du [Groupe d'évaluations des logiciels](https://gcxgce.sharepoint.com/teams/1000219) a été développée sur cette plateforme pour le projet pilote.
+GCxchange a été choisie comme la plateforme qui répondrait le mieux aux exigences susmentionnées[^2] et la page du [Groupe d'évaluations des logiciels](https://gcxgce.sharepoint.com/teams/1000219) a été développée sur cette plateforme pour le projet pilote.
 Au sein de ce groupe, une bibliothèque de documents a été créée, dont l'accès est réservé aux membres du groupe.
 De plus, seuls les employés du GC seraient autorisés à devenir membres du groupe.
 
@@ -59,8 +59,8 @@ EDSC a partagé 127 documents d'évaluation de logiciels pour 100 outils log
 | ---------------------------------------- | ---------------------------- |
 | Architecture de la technologie           | 53                           |
 | Accessibilité                            | 71                           |
-| Sécurité                                 | 2                            |
-| Respect de la vie privée                 | 1                            |
+| Sécurité                                 | 2 [^3]                           |
+| Respect de la vie privée                 | 1 [^4]                           |
 
 EDSC a contribué à démontrer la valeur du projet pilote en étant le premier à ajouter ses documents, ce qui a permis à 140 membres de 42 ministères de se joindre au groupe au cours du projet pilote.
 
@@ -265,3 +265,10 @@ Bien que les objectifs d'amélioration de la qualité et de l'efficacité de l'�
 La collaboration s'améliorera également avec la mise en œuvre des recommandations ci-dessus, car la capacité à collaborer est fortement influencée par la normalisation des informations et la réassurance au personnel de partager dans l'ensemble des ministères.
 
 Nous encourageons EDSC à continuer de diriger les ministères et les agences dans le partage et la collaboration, même si le projet pilote est terminé!
+
+## Références en ligne <!-- omit in toc -->
+
+[^1]: À l’époque, GCXchange avait des plans à long terme pour permettre l’utilisation par des utilisateurs non-GC.
+[^2]: À l’époque, GCXchange ne répondait pas complètement à toutes les exigences du GC en matière d’accessibilité, cependant l’équipe de GCXchange travaillait avec Microsoft pour améliorer continuellement l’accessibilité.
+[^3]: L’équipe de sécurité n’a pu partager que les deux documents d’évaluation de logiciels dont elle disposait lesquels n’étaient pas classifiés. Tous leurs autres documents d’évaluation de logiciels ont été classifiés comme protégés par défaut et n’ont pas pu être publiés sur GCXchange.
+[^4]: Dès le début du projet pilote, il a été déterminé que les évaluations du respect de la vie privée étaient très spécifiques aux ministères et qu’elles n’étaient pas aussi utiles à partager que les documents des autres équipes.

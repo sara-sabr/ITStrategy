@@ -40,9 +40,9 @@ Following the review, Legal confirmed that the GC is one legal entity, and so sh
 
 When considering what platform would be best for sharing software assessment documents across departments, there were initially 3 main criteria: it had to be a platform that employees across the GC had access to, and it had to meet both GC language requirements and accessibility requirements.
 
-The ability to restrict access to the software assessment documents was later added as a criteria when owners of the software assessment documents at ESDC advised that they would only want the documents to be available to Government of Canada employees.
+The ability to restrict access to the software assessment documents was later added as a criteria when owners of the software assessment documents at ESDC advised that they would only want the documents to be available to Government of Canada employees[^1].
 
-GCxchange was chosen as the platform that would best meet the above requirements and the [Software Assessments group](https://gcxgce.sharepoint.com/teams/1000219) page was developed on this platform for the pilot.
+GCxchange was chosen as the platform that would best meet the above requirements[^2] and the [Software Assessments group](https://gcxgce.sharepoint.com/teams/1000219) page was developed on this platform for the pilot.
 Within this group a document library was created that would only be accessible by group members.
 And membership of the group would only be allowed to GC employees.
 
@@ -59,8 +59,8 @@ ESDC shared 127 software assessment documents for 100 different software tools i
 | -------------------------------- | -------------------------- |
 | Technology Architecture          | 53                         |
 | Accessibility                    | 71                         |
-| Security                         | 2                          |
-| Privacy                          | 1                          |
+| Security                         | 2[^3]                     |
+| Privacy                          | 1[^4]                     |
 
 ESDC helped to demonstrate the value of the pilot by being the first to add their documents and this resulted in 140 members from 42 departments joining the group over the course of the pilot.
 
@@ -265,3 +265,10 @@ While the objectives of improving the quality of software assessments and the ef
 Collaboration will also improve with the implementation of the above recommendations as the ability to collaborate is greatly influenced by the standardization of information and the reassurance on personnel to share across departments.
 
 We encourage ESDC to continue leading departments and agencies in sharing and collaborating, even if pilot is over!
+
+## Inline references
+
+[^1]: At the time, GCXchange had long term plans to enable use by non-GC users
+[^2]: At the time, GCXchange did not completely meet all GC accessibility requirements, however the GCXchange team was working with Microsoft to continually improve accessibility
+[^3]: The security team were only able to share the two software assessment documents that they had that were unclassified. All of their other software assessment documents were classified as protected by default and could not be posted on GCXchange.
+[^4]: Early on in the pilot it was determined that privacy assessments were very departmentally specific and not as useful to share as the documents from the other teams.
