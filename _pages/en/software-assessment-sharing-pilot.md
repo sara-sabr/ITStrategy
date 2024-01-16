@@ -268,7 +268,7 @@ We encourage ESDC to continue leading departments and agencies in sharing and co
 
 ## Inline references
 
-[^1]: At the time, GCXchange had long term plans to enable use by non-GC users
-[^2]: At the time, GCXchange did not completely meet all GC accessibility requirements, however the GCXchange team was working with Microsoft to continually improve accessibility
-[^3]: The security team were only able to share the two software assessment documents that they had that were unclassified. All of their other software assessment documents were classified as protected by default and could not be posted on GCXchange.
+[^1]: At the time, GCxchange had long term plans to enable use by non-GC users
+[^2]: At the time, GCxchange did not completely meet all GC accessibility requirements, however the GCxchange team was working with Microsoft to continually improve accessibility
+[^3]: The security team were only able to share the two software assessment documents that they had that were unclassified. All of their other software assessment documents were classified as protected by default and could not be posted on GCxchange.
 [^4]: Early on in the pilot it was determined that privacy assessments were very departmentally specific and not as useful to share as the documents from the other teams.

@@ -268,7 +268,7 @@ Nous encourageons EDSC à continuer de diriger les ministères et les agences da
 
 ## Références en ligne <!-- omit in toc -->
 
-[^1]: À l’époque, GCXchange avait des plans à long terme pour permettre l’utilisation par des utilisateurs non-GC.
-[^2]: À l’époque, GCXchange ne répondait pas complètement à toutes les exigences du GC en matière d’accessibilité, cependant l’équipe de GCXchange travaillait avec Microsoft pour améliorer continuellement l’accessibilité.
-[^3]: L’équipe de sécurité n’a pu partager que les deux documents d’évaluation de logiciels dont elle disposait lesquels n’étaient pas classifiés. Tous leurs autres documents d’évaluation de logiciels ont été classifiés comme protégés par défaut et n’ont pas pu être publiés sur GCXchange.
+[^1]: À l’époque, GCxchange avait des plans à long terme pour permettre l’utilisation par des utilisateurs non-GC.
+[^2]: À l’époque, GCxchange ne répondait pas complètement à toutes les exigences du GC en matière d’accessibilité, cependant l’équipe de GCxchange travaillait avec Microsoft pour améliorer continuellement l’accessibilité.
+[^3]: L’équipe de sécurité n’a pu partager que les deux documents d’évaluation de logiciels dont elle disposait lesquels n’étaient pas classifiés. Tous leurs autres documents d’évaluation de logiciels ont été classifiés comme protégés par défaut et n’ont pas pu être publiés sur GCxchange.
 [^4]: Dès le début du projet pilote, il a été déterminé que les évaluations du respect de la vie privée étaient très spécifiques aux ministères et qu’elles n’étaient pas aussi utiles à partager que les documents des autres équipes.
