@@ -24,4 +24,5 @@ Enfin, grâce à de nombreuses activités de consolidation d'équipe, nous avons
 
 {% include listTeamMembers.md %}
 
-<p class="font-size: small"><a href="https://www.freepik.com/free-vector/avatars-circles-glyph-style_77972574.htm#query=anonymous%20profile&position=0&from_view=keyword&track=ais&uuid=eb7d2fee-d36c-4245-9e7c-2115f17ab9dc">Image de juicy_fish</a> sur Freepik</p>
+<!-- markdownlint-disable MD033 -->
+<sup>[Image de juicy_fish](https://www.freepik.com/free-vector/avatars-circles-glyph-style_77972574.htm#query=anonymous%20profile&position=0&from_view=keyword&track=ais&uuid=eb7d2fee-d36c-4245-9e7c-2115f17ab9dc) sur Freepik</sup>
