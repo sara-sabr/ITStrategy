@@ -693,7 +693,8 @@
     "AATIA",
     "Portigal",
     "ATIP",
-    "etude"
+    "etude",
+    "standishgroup"
   ],
   "flagWords": [],
   "import": ["node_modules/@cspell/dict-fr-fr/cspell-ext.json"],
