@@ -4,7 +4,7 @@ title:  "Réalisation d'une étude diagnostique de l'organisation informatique"
 ref: diagnostic-study-materials
 lang: fr
 author: "Rachel Muston, en collaboration avec l'équipe de stratégie de la technologie de l'information (TI)"
-date: "2024-01-16"
+date: "2024-02-14"
 excerpt: "Dans ce billet de blog, nous partageons le processus et les documents de base que nous avons utilisés (y compris le questionnaire, les courriels et le script) pour mener l'étude diagnostique de l'organisation informatique du CESD que nous avons réalisée en 2023. (8 minutes de lecture)"
 ---
 <!-- markdownlint-disable MD033 -->

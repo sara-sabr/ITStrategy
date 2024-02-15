@@ -4,7 +4,7 @@ title:  "Doing an IT Organization Diagnostic Study"
 ref: diagnostic-study-materials
 lang: en
 author: "Rachel Muston, in collaboration with the Information Technology (IT) Strategy team"
-date: "2024-01-16"
+date: "2024-02-14"
 excerpt: "In this blog post we share the process and background materials we used (including questionnaire, emails, and script) to conduct the Diagnostic Study of ESDC’s IT Organization we did in 2023. (8 min read)"
 ---
 <!-- markdownlint-disable MD033 -->
