@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Etude diagnostique de la DGIIT
+title: Étude diagnostique de la DGIIT
 ref: diagnostic-study
 lang: fr
 status: Done;success
@@ -16,7 +16,7 @@ Depuis 2021, l'équipe chargée de la stratégie informatique réalise tous les 
 Les objectifs de l'étude sont:
 
 1. Relever les obstacles et mettre en évidence les réussites au sein de la DGIIT afin de mieux servir les clients
-2. Faire remonter les commentairs et les idées des cadres pour que la haute direction les examine et prenne les mesures qui s'imposent
+2. Faire remonter les commentaires et les idées des cadres pour que la haute direction les examine et prenne les mesures qui s'imposent
 
 ## De quoi s'agit-il
 
@@ -32,7 +32,7 @@ Les objectifs de l'étude sont:
 
 ## Qui a participé
 
-- Tous les directerus et directeurs exécutifs de la DGIIT ont été invités à participer.
+- Tous les directeurs et directeurs exécutifs de la DGIIT ont été invités à participer.
 - Pour l'étude de 2023, 33 directeurs et 13 directeurs exécutifs de toutes les divisions de la DGIIT ont participé, soit 47 % du budget de la DGIIT pour l'année financière écoulée.
 
 ## Pour plus d'informations
@@ -41,4 +41,4 @@ Les objectifs de l'étude sont:
 - voir (et réutiliser) les documents d'accompagnement que nous avons créés :
   - <a href="{{ site.baseurl }}{% link assets/files/courriel-d-invitation.md %}" title="courriel d'invitation"> courriel d'invitation</a>
   - <a href="{{ site.baseurl }}{% link assets/files/dossier-d-entretien.md %}" title="dossier d'entretien"> dossier d'entretien (pour les participants)</a>
-  - <a href="{{ site.baseurl }}{% link assets/files/guide-pratique.md %}" title="guide pratique"> guide practique (pour les enquêteurs)</a>
+  - <a href="{{ site.baseurl }}{% link assets/files/guide-pratique.md %}" title="guide pratique"> guide pratique (pour les enquêteurs)</a>

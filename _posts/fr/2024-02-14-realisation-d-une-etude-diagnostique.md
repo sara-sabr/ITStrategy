@@ -5,7 +5,7 @@ ref: diagnostic-study-materials
 lang: fr
 author: "Rachel Muston, en collaboration avec l'équipe de stratégie de la technologie de l'information (TI)"
 date: "2024-02-14"
-excerpt: "Dans ce billet de blog, nous partageons le processus et les documents de base que nous avons utilisés (y compris le questionnaire, les courriels et le script) pour mener l'étude diagnostique de l'organisation informatique du CESD que nous avons réalisée en 2023. (8 minutes de lecture)"
+excerpt: "Dans ce billet de blog, nous partageons le processus et les documents de base que nous avons utilisés (y compris le questionnaire, les courriels et le script) pour mener l'étude diagnostique de l'organisation informatique du DGIIT que nous avons réalisée en 2023. (8 minutes de lecture)"
 ---
 <!-- markdownlint-disable MD033 -->
 
@@ -75,7 +75,7 @@ Tous les directeurs et directeurs exécutifs qui se sont inscrits ont reçu une 
 
 Les participants ont été encouragés à lire le dossier d'entretien à l'avance et à prendre le temps de la réflexion, à dialoguer avec les membres de leur équipe pour recueillir leur point de vue et à veiller à ce que leur temps soit utilisé au mieux pendant l'entretien.
 
-Les membres de notre équipe chargés des entretiens se sont préparés à ces derniers en examinant notre <a href="{{ site.baseurl }}{% link assets/files/guide-pratique.md %}" title="guide pratique"> guide practique et notre script d'entretien</a> et en s'y familiarisant.
+Les membres de notre équipe chargés des entretiens se sont préparés à ces derniers en examinant notre <a href="{{ site.baseurl }}{% link assets/files/guide-pratique.md %}" title="guide pratique"> guide pratique et notre script d'entretien</a> et en s'y familiarisant.
 
 Le script a permis de s'assurer que des éléments clés tels que le consentement étaient traités de manière cohérente, que les enquêteurs n'orientaient pas les participants par inadvertance (en raison de leurs propres préjugés) et qu'ils donnaient aux enquêteurs des exemples de messages-guides et d'informations générales pour des questions spécifiques en cas de besoin.
 
@@ -107,7 +107,7 @@ Les notes ont été enregistrées dans une bibliothèque de documents privée su
 
 ## Rapportage et clôture
 
-Une fois tous les entretiens réalisés, l'équipe s'est réunie pour analyser toutes les notes d'entretien et codévelopper les thèmes afin d'organiser le contenu du rapport "Ce que nous avons entendu".
+Une fois tous les entretiens réalisés, l'équipe s'est réunie pour analyser toutes les notes d'entretien et codéveloppement les thèmes afin d'organiser le contenu du rapport "Ce que nous avons entendu".
 Pour protéger l'anonymat, toutes les citations incluses dans le rapport ont été faites sans attribution et les données ont été remontées jusqu'au niveau de la branche.
 
 Le rapport comprend les sections suivantes
