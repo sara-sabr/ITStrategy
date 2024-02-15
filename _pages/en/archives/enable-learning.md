@@ -97,7 +97,7 @@ The emphasis on these types of skills is echoed by many, for example, HBR Ascend
 - Creative Thinking
 - People Skills
 
-Further, [According to the World Economic Forum (WEF)](http://www3.weforum.org/docs/WEF_Future_of_Jobs.pdf) they predict that the demand for Social Skills will be the fastest growing. Further, they list key skills for 2020 as
+Further, according to the World Economic Forum (WEF)(weforum.org/docs/WEF_Future_of_Jobs.pdf) they predict that the demand for Social Skills will be the fastest growing. Further, they list key skills for 2020 as:
 
 - Creativity
 - Active Learning
