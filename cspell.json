@@ -677,7 +677,9 @@
     "nomarkdown",
     "lockstep",
     "playbooks",
-    "OCHRO"
+    "OCHRO",
+    "Portigal",
+    "ATIP"
   ],
   "flagWords": [],
   "import": ["node_modules/@cspell/dict-fr-fr/cspell-ext.json"],
