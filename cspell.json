@@ -694,7 +694,8 @@
     "Portigal",
     "ATIP",
     "etude",
-    "standishgroup"
+    "standishgroup",
+    "regrouppé"
   ],
   "flagWords": [],
   "import": ["node_modules/@cspell/dict-fr-fr/cspell-ext.json"],
