@@ -9,7 +9,7 @@ excerpt: "In this blog post we share the process and background materials we use
 ---
 <!-- markdownlint-disable MD033 -->
 
-“The core content of a strategy is a diagnosis of the situation at hand” – Richard P. Rumelt, Good Strategy/Bad Strategy: The difference and why it matters
+> “The core content of a strategy is a diagnosis of the situation at hand” – Richard P. Rumelt, Good Strategy/Bad Strategy: The difference and why it matters
 
 In 2023 the IT Strategy team revisited the [IT Organization diagnostic study we did in 2021](2021-12-10-iitb-diagnostic-study.md).
 We re-interviewed executives within our IT organization (IITB) to see what had changed in the two years since, documented our findings and reported back to our senior management.
@@ -29,8 +29,10 @@ While we cannot share the details of the report, we thought it might be useful t
 
 For the 2023 study we interviewed 54% of IITB executives (directors and executive directors).
 We ensured that we had participation from executives in each Division in IITB.
-Each interview took approximately 1 hour. It took 2 months to conduct all the interviews.
-For our organizational study we focused on cultural and took a human-oriented approach emphasizing barriers to collaboration and empowerment. We were inspired by the Open Source "movement" and research done by the DevOps Research and Assessment (DORA) institute.
+Each interview took approximately 1 hour.
+It took 2 months to conduct all the interviews.
+For our organizational study we focused on cultural and took a human-oriented approach emphasizing barriers to collaboration and empowerment.
+We were inspired by the Open Source "movement" and research done by the DevOps Research and Assessment (DORA) institute.
 
 ## Planning
 
@@ -40,7 +42,8 @@ Since we wanted to compare results between the 2021 and 2023 studies, we only ma
 The total number of interview questions remained constant at 20.
 
 As with the 2021 study, we cross referenced planned questions against the Public Service Employee Survey (PSES) and removed any questions where there was duplication.
-We also connected with our HR team, ESDC Values and Ethics, and Public Opinion Research to get their feedback and cover for our approach. the questions we planned to ask. We learned form these teams and made adjustments where required.
+We also connected with our HR team, ESDC Values and Ethics, and Public Opinion Research to get their feedback and cover for our approach. the questions we planned to ask.
+We learned form these teams and made adjustments where required.
 
 ## Communications
 
@@ -55,15 +58,17 @@ To maximize participation, a reminder email was sent by the IT Strategy team 6 w
 
 ## Scheduling the interviews
 
-Our team sent <a href="{{ site.baseurl }}{% link assets/files/invitation-email.md %}" title="individual emails"> individual emails</a> to each Executive to invite them to participate.
+Our team sent <a href="{{ site.baseurl }}{% link assets/files/invitation-email.md %}" title="individual emails"> individual emails</a>to each Executive to invite them to participate.
 Invitees were informed that this was their opportunity to be heard, and that the findings of the report will be used to inform plans and strategies for the Branch.
 
 Executives self-registered to participate and identified the times they were available using a calendar in a SharePoint site we created for this purpose.
 During self-registration, participants advised if they wanted to be interviewed in English or French.
 
-Using SharePoint this way was new for 2023. For the 2021 study those who wanted to participate had to email us with their availability and did not know in real time what dates and times were available.
+Using SharePoint this way was new for 2023.
+For the 2021 study those who wanted to participate had to email us with their availability and did not know in real time what dates and times were available.
 
-All directors and executive directors self-registered were sent an MS Teams calendar invite that included the <a href="{{ site.baseurl }}{% link assets/files/interview-package.md %}" title="interview package"> interview package</a>. This package included:
+All directors and executive directors self-registered were sent an invitation that included the <a href="{{ site.baseurl }}{% link assets/files/interview-package.md %}" title="interview package"> interview package</a>.
+This package included:
 
 - Why we are doing the diagnostic study
 - What’s in it for you
@@ -91,13 +96,13 @@ Some of this guidance includes (and draws heavily on the work of Steve Portigal 
 - Ask the shortest question you can without directing answers.
 - Silence is ok.  Count to 5 before you say something.
 - Give your interviewee plenty of ways to succeed
-- They might ask you questions back to you.
-  Try to always bring it back to them....it’s not about you.
+- They might ask you questions back to you. Try to always bring it back to them....it’s not about you.
 
 ## During the interview
 
 To ensure the interviewer could give their full attention to the director being interviewed, a second team member attended each interview as the note-taker.
-The anonymity of the participants was paramount in ensuring we received participants open and honest feedback. No interview sessions, names, or easily identifiable information were recorded in the notes.
+The anonymity of the participants was paramount in ensuring we received participants open and honest feedback.
+No interview sessions, names, or easily identifiable information were recorded in the notes.
 
 ## Following each interview
 
@@ -107,7 +112,7 @@ The notes were saved in a private document library on SharePoint that only the i
 
 ## Reporting and Closeout
 
-Once all the interviews had been conducted, the team met to analyze all the interview notes and co-develop the themes to organize the content of the What We Heard Report.
+Once all the interviews had been conducted, the team met to analyze all the interview notes and identify the themes to organize the content of the What We Heard Report.
 To protect anonymity, any quotes included in the report were without attribution and data was rolled up to the branch level.
 
 The report included the following sections:
@@ -124,7 +129,8 @@ In the Strategic Actions section the report we outlined possible new actions as 
 
 The draft of this report was first shared with all directors who were interviewed to ensure we had accurately captured their comments and to provide an opportunity for adjustments.
 The What We Heard Report was then used to develop a summary presentation which was presented to three executive forums: first to the DG committee, then CIO Executive Committee, then to our Senior Leaders Forum (all IT executives and managers).
-We also completed a post-mortem for the 2023 study. In our post-mortems we discuss:
+We also completed a post-mortem for the 2023 study.
+In our post-mortems we discuss:
 
 - What went well
 - What did not go well
@@ -136,4 +142,4 @@ To address this, changes will be made to future interview questions.
 In addition, we will be reviewing the relevance and usefulness of some questions (e.g. questions relating functions and team size).
 
 Senior executives and participants have told us that they found that the results of the 2021 and 2023 IT organization diagnostic studies to be really insightful and we plan to complete the study again in 2025.
-If your team is thinking of doing something similar, don’t hesitate to reach out to us at EDSC.DGIIT.StrategieTI-ITStrategy.IITB.ESDC@hrsdc-rhdcc.gc.ca.
+If your team is thinking of doing something similar, don’t hesitate to reach out to us at [EDSC.DGIIT.StrategieTI-ITStrategy.IITB.ESDC@hrsdc-rhdcc.gc.ca](mailto:EDSC.DGIIT.StrategieTI-ITStrategy.IITB.ESDC@hrsdc-rhdcc.gc.ca).
