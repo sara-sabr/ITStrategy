@@ -58,7 +58,7 @@ To maximize participation, a reminder email was sent by the IT Strategy team 6 w
 
 ## Scheduling the interviews
 
-Our team sent <a href="{{ site.baseurl }}{% link assets/files/invitation-email.md %}" title="individual emails"> individual emails</a>to each Executive to invite them to participate.
+Our team sent <a href="{{ site.baseurl }}{% link assets/files/invitation-email.md %}" title="individual emails">individual emails</a> to each Executive to invite them to participate.
 Invitees were informed that this was their opportunity to be heard, and that the findings of the report will be used to inform plans and strategies for the Branch.
 
 Executives self-registered to participate and identified the times they were available using a calendar in a SharePoint site we created for this purpose.
@@ -67,7 +67,7 @@ During self-registration, participants advised if they wanted to be interviewed 
 Using SharePoint this way was new for 2023.
 For the 2021 study those who wanted to participate had to email us with their availability and did not know in real time what dates and times were available.
 
-All directors and executive directors self-registered were sent an invitation that included the <a href="{{ site.baseurl }}{% link assets/files/interview-package.md %}" title="interview package"> interview package</a>.
+All directors and executive directors self-registered were sent an invitation that included the <a href="{{ site.baseurl }}{% link assets/files/interview-package.md %}" title="interview package">interview package</a>.
 This package included:
 
 - Why we are doing the diagnostic study
@@ -80,7 +80,7 @@ This package included:
 
 Participants were encouraged to review the interview package in advance and take some time for reflection, to engage with their team members to collect their perspective, and to ensure the best use of their time during the interview.
 
-Our team members conducting the interviews prepared for the interviews by reviewing and getting comfortable with our <a href="{{ site.baseurl }}{% link assets/files/field-guide.md %}" title="field guide"> field guide and interview script </a>.
+Our team members conducting the interviews prepared for the interviews by reviewing and getting comfortable with our <a href="{{ site.baseurl }}{% link assets/files/field-guide.md %}" title="field guide">field guide and interview script</a>.
 
 The script used so that key items like consent were done consistently, that interviewers did not inadvertently steer participants (due to their own biases), and gave interviewers examples of prompts and background information for specific questions should they be needed.
 
