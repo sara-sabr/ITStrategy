@@ -5,6 +5,7 @@ ref: interview-questions
 lang: fr
 permalink: /assets/files/questions-d-entrevue.html
 ---
+<!-- markdownlint-disable MD033 -->
 
 ## Questions d'entrevue
 

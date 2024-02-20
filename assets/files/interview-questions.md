@@ -5,6 +5,7 @@ ref: interview-questions
 lang: en
 permalink: /assets/files/interview-questions.html
 ---
+<!-- markdownlint-disable MD033 -->
 
 ## Interview Questions
 
