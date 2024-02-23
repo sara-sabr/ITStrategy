@@ -1080,7 +1080,7 @@ On y recommande quatre façons d’améliorer le rendement des projets, y compri
 [^16]: Voir l’[Architecture intégrée cible des services et du numérique du SCT](https://gccollab.ca/discussion/view/6671557/enservice-digital-target-enterprise-architecture-and-updates-to-the-enterprise-architecture-frameworkfrarchitecture-intu00e9gru00e9e-cible-des-services-et-du-numu00e9rique-et-mises-u00e0-jour-du-cadre-du2019architecture-intu00e9gru00e9e), qui tend vers les micro-services comme moyen de mieux gérer la dette technique.
 [^17]: [Voie à suivre pour la DGIIT (anglais seulement)](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx)
 [^18]: Cette définition a été reformulée et s’inspire de la [définition normalisée des produits de The Open Group (anglais seulement)](https://pubs.opengroup.org/architecture/o-aa-standard/#Product).
-[^19]: [À propos du Standish Group (anglais seulement)](https://standishgroup.com/about)
+[^19]: À propos du Standish Group (anglais seulement)(standishgroup.com/about)
 [^20]: [Why we love modular contracting (anglais seulement)](https://18f.gsa.gov/2019/04/09/why-we-love-modular-contracting/), par 18F
 [^21]: [Grands projets de TI du gouvernement du Canada (anglais seulement)](https://large-government-of-canada-it-projects.github.io/)
 [^22]: [Rapport de novembre 2006 de la vérificatrice générale du Canada](https://www.oag-bvg.gc.ca/internet/Francais/parl_oag_200611_03_f_14971.html)

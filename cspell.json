@@ -690,7 +690,12 @@
     "GBTI",
     "AIPRP",
     "l'ERO",
-    "AATIA"
+    "AATIA",
+    "Portigal",
+    "ATIP",
+    "etude",
+    "standishgroup",
+    "regrouppé"
   ],
   "flagWords": [],
   "import": ["node_modules/@cspell/dict-fr-fr/cspell-ext.json"],

@@ -1080,7 +1080,7 @@ The research recommends four ways to improve project performance, two of which a
 [^16]: See [TBS Service and Digital Target Enterprise Architecture](https://gccollab.ca/discussion/view/6671557/enservice-digital-target-enterprise-architecture-and-updates-to-the-enterprise-architecture-frameworkfrarchitecture-intu00e9gru00e9e-cible-des-services-et-du-numu00e9rique-et-mises-u00e0-jour-du-cadre-du2019architecture-intu00e9gru00e9e), moving towards micro-services as a means to better manage technical debt
 [^17]: [IITB Way Forward](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx)
 [^18]: This definition is reworded from [The Open Group’s Product standard definition](https://pubs.opengroup.org/architecture/o-aa-standard/#Product).
-[^19]: [About the Standish Group](https://standishgroup.com/about)
+[^19]: About the Standish Group (standishgroup.com/about)
 [^20]: [Why we love modular contracting](https://18f.gsa.gov/2019/04/09/why-we-love-modular-contracting/), by 18f
 [^21]: [Large Government of Canada IT projects](https://large-government-of-canada-it-projects.github.io/)
 [^22]: [2006 November Report of the Auditor General of Canada](https://www.oag-bvg.gc.ca/internet/English/parl_oag_200611_03_e_14971.html)
