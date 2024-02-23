@@ -29,7 +29,7 @@ The purpose of this exercise is to review how we can invest in internal capabili
 At the end of this interview exercise, the IT Strategy team will produce a “What we heard” report synthesizing the interview answers and keeping anonymity of the interviewees.
 The decision on how to publish this report will be decided only once it is written.
 
-Each of the 36 IITB directors targeted for these interview exercises have received an interview package containing the 15 questions you will be asking them, as well as some details about why the IT Strategy team is undertaking this exercise.
+Each of the 80 IITB directors and executive directors targeted for these interview exercises have received an interview package containing the 20 questions you will be asking them, as well as some details about why the IT Strategy team is undertaking this exercise.
 The interview package was sent to them at least 2 weeks in advance to give them some time for reflection, engage with their team members to collect their perspective, and ensure the best use of their time.
 
 There are 6 types of questions:

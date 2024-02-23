@@ -22,14 +22,14 @@ Cette section est destinée à être lue AVANT de mener les entrevues, afin de v
 
 ### Contexte
 
-L'équipe de la stratégie TI organise des entretiens avec tous les directeurs et directeurs exécutif de la DGIIT afin de comprendre leur expérience quotidienne au sein de la branche et EDSC dans son ensemble.
-Nous utiliserons les informations recueillies pour guider et informer le développement des stratégies et des plans à venir.
-Le but de cet exercice est d'examiner comment nous pouvons investir dans les capacités internes pour améliorer la prestation de services de notre Direction générale.
+L'équipe de la stratégie TI organise des entretiens avec tous les directeurs et directeurs exécutifs de la DGIIT afin de comprendre leur expérience quotidienne au sein de la DGIIT.
+Nous utiliserons les informations recueillies pour guider et informer le développement de stratégies et de plans à venir.
+Le but de cet exercice est d'examiner comment nous pouvons investir dans les capacités internes pour améliorer la prestation de services de la DGIIT.
 
-À la fin de cette période d’entrevues, l’équipe de la stratégie des TI produira un rapport « Ce que nous avons entendu » synthétiser les réponses à l’entrevue et garder l’anonymat des personnes interrogées.
-La décision touchant la publication ce rapport ne sera prise qu’après sa rédaction.
+À la fin de cette période d’entrevues, l’équipe de la stratégie TI produira un rapport « Ce que nous avons entendu » qui synthétisera les réponses et gardera l’anonymat des personnes interrogées.
+La décision touchant la publication de ce rapport ne sera prise qu’après sa rédaction.
 
-Chacun des 36 directeurs de la DGIIT ciblés pour ces exercices d’entrevue a reçu une trousse d’entrevue contenant les 15 questions que vous leur poserez, ainsi que quelques détails sur les raisons pour lesquelles l’équipe de la stratégie des TI entreprend cet exercice.
+Chacun des 80 directeurs et directeurs exécutifs de la DGIIT ciblés pour ces exercices d’entrevue a reçu une trousse d’entrevue contenant les 20 questions que vous leur poserez, ainsi que quelques détails sur les raisons pour lesquelles l’équipe de la stratégie TI entreprend cet exercice.
 La trousse d’entrevue leur a été envoyée au moins deux semaines à l’avance pour leur donner le temps de réfléchir et de discuter avec les membres de leur équipe afin de recueillir leur point de vue et d’assurer la meilleure utilisation de leur temps.
 
 Il y a six catégories de questions :
@@ -73,7 +73,7 @@ Cette section est destinée à être lue AVANT de mener les entrevues, afin de v
 
 - Asseyez-vous de façon à ce que la personne que vous interviewez puisse vous voir sans bouger la tête (ceci s’applique également au preneur de notes).
 
-- Rappel : ils sont les experts et c'est vous qui êtes les débutants. Ne leur faites pas la morale.
+- Rappel : ils sont les experts et c'est vous qui sont les débutants. Ne leur faites pas la morale.
 
 - L'objectif est qu'on puisse établir un rapport au cours de l'entrevue.
 
@@ -81,14 +81,14 @@ Cette section est destinée à être lue AVANT de mener les entrevues, afin de v
 
 - Filez avec le vent. Il est correct de ne pas s’en tenir strictement à l’ordre des questions ;
 
-- Il est permis de poser des questions d’approfondissement/ ou de suivi (les questions de suivi n’ont pas à être les mêmes pour tout le monde). Psr ex. :
+- Il est permis de poser des questions d’approfondissement/ ou de suivi (les questions de suivi n’ont pas à être les mêmes pour tout le monde). Par ex. :
   - Posez des questions à partir d’indices émotionnels : « Pourquoi riez-vous quand vous mentionnez le système x ? »
   
   - Demandez pourquoi : « J'ai essayé de faire adopter ce format à ma patronne, mais elle ne veut pas le faire... » ; « Pourquoi pensez-vous qu'elle ne l'a pas fait ? »
   
   - Posez des questions exploratoires délicates : « Vous avez mentionné une situation difficile qui a changé votre utilisation. Pouvez-vous me dire quelle était cette situation ? »
   
-  - Posez des questions touchant les expressions singuliers. « Pourquoi l’appelez-vous la grotte aux chauve-souris ? »
+  - Posez des questions touchant des expressions singulières. « Pourquoi l’appelez-vous la grotte aux chauve-souris ? »
   
 - Exemples de questions approfondies : *Interviewing users : How to uncover compelling insights par Steve Portigal*.
   
@@ -132,7 +132,7 @@ Une fois que toutes les entrevues seront terminées, nous élaborerons un rappor
 Ce document ne contiendra pas de noms ou de commentaires normatifs qui pourraient accidentellement mettre en évidence une équipe particulière.
 La décision sur la façon dont le rapport sera publié à la DGIIT ne sera prise seulement que lorsque le rapport sera terminé.
 
-Comme nous n’enregistrons aucun nom, si une demande de protection des renseignements personnels est reçue dans le cadre de cet exercice, la réponse sera Néant.
+Comme nous n’enregistrons aucun nom, si une demande de protection des renseignements personnels est reçue dans le cadre de cet exercice, la réponse sera "zéro".
 Pour les mêmes raisons, bien que cet exercice soit compatible avec l’AIPRP, puisqu’il n’y a pas de noms dans nos notes, il n’y aurait pas de noms dans la réponse de l’AIPRP.
 
 En nous préparant pour cette série d’entrevues, nous avons consulté l’équipe ministérielle des Valeurs et de l’éthique pour nous assurer de respecter toutes nos exigences en matière de valeurs et d’éthique.

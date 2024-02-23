@@ -5,14 +5,14 @@ ref: diagnostic-study-materials
 lang: en
 author: "Rachel Muston, in collaboration with the Information Technology (IT) Strategy team"
 date: "2024-02-14"
-excerpt: "In this blog post we share the process and background materials we used (including questionnaire, emails, and script) to conduct the Diagnostic Study of ESDC’s IT Organization we did in 2023. (8 min read)"
+excerpt: "In this blog post we share the process and background materials we used (including questionnaire, emails, and script) to conduct the Diagnostic Study of ESDC’s IM/IT Organization we did in 2023. (8 min read)"
 ---
 <!-- markdownlint-disable MD033 -->
 
 > “The core content of a strategy is a diagnosis of the situation at hand” – Richard P. Rumelt, Good Strategy/Bad Strategy: The difference and why it matters
 
-In 2023 the IT Strategy team revisited the [IT Organization diagnostic study we did in 2021](2021-12-10-iitb-diagnostic-study.md).
-We re-interviewed executives within our IT organization (IITB) to see what had changed in the two years since, documented our findings and reported back to our senior management.
+In 2023 the IT Strategy team revisited the [IM/IT Organization diagnostic study we did in 2021](2021-12-10-iitb-diagnostic-study.md).
+We re-interviewed executives within our IM/IT organization (called IITB) to see what had changed in the two years since, documented our findings and reported back to our senior management, as well as presenting the results to the Senior Leadership Forum (made up of close to 100 executives and their managers).
 While we cannot share the details of the report, we thought it might be useful to share our process and planning documents so that other teams thinking of doing similar studies of their IT organizations might reuse this work.
 
 ## tl;dr
@@ -32,7 +32,7 @@ We ensured that we had participation from executives in each Division in IITB.
 Each interview took approximately 1 hour.
 It took 2 months to conduct all the interviews.
 For our organizational study we focused on cultural and took a human-oriented approach emphasizing barriers to collaboration and empowerment.
-We were inspired by the Open Source "movement" and research done by the DevOps Research and Assessment (DORA) institute.
+We were inspired by the Open Source "movement" and research done by the [DevOps Research and Assessment (DORA) institute](https://dora.dev/).
 
 ## Planning
 
@@ -41,7 +41,7 @@ We reviewed the post-mortem document from the 2021 study as well as participant 
 Since we wanted to compare results between the 2021 and 2023 studies, we only made a few changes to the questions (e.g. questions related to the pandemic were replaced by questions on the Common Hybrid Work Model).
 The total number of interview questions remained constant at 20.
 
-As with the 2021 study, we cross referenced planned questions against the Public Service Employee Survey (PSES) and removed any questions where there was duplication.
+As with the 2021 study, we cross referenced planned questions against the [Public Service Employee Survey (PSES)](https://www.canada.ca/en/treasury-board-secretariat/services/innovation/public-service-employee-survey.html) and removed any questions where there was duplication.
 We also connected with our HR team, ESDC Values and Ethics, and Public Opinion Research to get their feedback and cover for our approach. the questions we planned to ask.
 We learned form these teams and made adjustments where required.
 
