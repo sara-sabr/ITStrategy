@@ -12,7 +12,7 @@ excerpt: "Dans ce billet, nous partageons le processus et la documentation que n
 > "Le contenu essentiel d'une stratégie est un diagnostic de la situation actuelle" - Richard P. Rumelt, Good Strategy/Bad Strategy : La différence et son importance
 
 En 2023, l'équipe de la stratégie TI a réexaminé [l'étude diagnostique de la DGIIT réalisée en 2021](2021-12-10-etude-diagnostique-de-la-DGIIT.md).
-Nous avons réinterrogé les cadres de l'organisation responsable de la gestion de l'information et des technologies u ministère (la DGIIT) pour voir ce qui avait changé au cours des deux dernières années, nous avons documenté nos conclusions, publié un rapport, et avons présenté le tout au forum des cadres supérieurs de la DGIIT (comprenants près de 100 exécutifs et de leurs gestionnaire).
+Nous avons réinterrogé les cadres de l'organisation responsable de la gestion de l'information et des technologies du ministère (la DGIIT) pour voir ce qui avait changé au cours des deux dernières années, nous avons documenté nos conclusions, publié un rapport, et avons présenté le tout au forum des cadres supérieurs de la DGIIT (comprenant près de 100 exécutifs et de leurs gestionnaire).
 Bien que nous ne puissions pas partager les détails du rapport, nous avons pensé qu'il pourrait être utile de partager notre processus et nos documents de planification afin que d'autres équipes envisageant de réaliser des études similaires sur leurs organisations informatiques puissent réutiliser ce travail.
 
 ## tl;dr
@@ -43,7 +43,7 @@ Le nombre total de questions est resté constant (20).
 
 Comme pour l'étude 2021, nous avons comparé les questions prévues avec celles du [Sondage auprès des fonctionnaires fédéraux (SAFF)](https://www.canada.ca/fr/secretariat-conseil-tresor/services/innovation/sondage-fonctionnaires-federaux.html) afin qu'elles ne soient pas reposées.
 Nous avons également contacté notre équipe des ressources humaines, le service Valeurs et éthique d'EDSC et le service Recherche sur l'opinion publique afin d'obtenir leurs commentaires et leur soutien pour notre approche.
-Nous avons utilisé les renseignments de ces équipes et avons fait les ajustements nécessaires.
+Nous avons utilisé les renseignements de ces équipes et avons fait les ajustements nécessaires.
 
 ## Communications
 
