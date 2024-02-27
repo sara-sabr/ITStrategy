@@ -64,9 +64,6 @@ Les invités ont été informés qu'il s'agissait d'une occasion d'être entendu
 Les cadres se sont inscrits eux-mêmes pour participer et ont indiqué les heures auxquelles ils étaient disponibles en utilisant un calendrier sur un site SharePoint que nous avons créé à cet effet.
 Lors de leur inscription, les participants ont indiqué s'ils souhaitaient être interrogés en anglais ou en français.
 
-L'utilisation de SharePoint de cette manière était une nouveauté pour 2023.
-Pour l'étude 2021, les personnes qui souhaitaient participer devaient nous envoyer un courriel pour nous indiquer leurs disponibilités et ne savaient pas en temps réel quelles dates et heures étaient disponibles.
-
 Tous les directeurs et directeurs exécutifs qui se sont inscrits ont reçu une invitation qui comprenait le <a href="{{ site.baseurl }}{% link assets/files/dossier-d-entretien.md %}" title="dossier d'entretien"> dossier d'entretien</a>.
 Ce dossier comprenait les éléments suivants:
 

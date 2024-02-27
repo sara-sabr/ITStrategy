@@ -31,7 +31,7 @@ For the 2023 study we interviewed 54% of IITB executives (directors and executiv
 We ensured that we had participation from executives in each Division in IITB.
 Each interview took approximately 1 hour.
 It took 2 months to conduct all the interviews.
-For our organizational study we focused on cultural and took a human-oriented approach emphasizing barriers to collaboration and empowerment.
+For our organizational study we focused on culture and took a human-oriented approach emphasizing barriers to collaboration and empowerment.
 We were inspired by the Open Source "movement" and research done by the [DevOps Research and Assessment (DORA) institute](https://dora.dev/).
 
 ## Planning
@@ -42,15 +42,15 @@ Since we wanted to compare results between the 2021 and 2023 studies, we only ma
 The total number of interview questions remained constant at 20.
 
 As with the 2021 study, we cross referenced planned questions against the [Public Service Employee Survey (PSES)](https://www.canada.ca/en/treasury-board-secretariat/services/innovation/public-service-employee-survey.html) and removed any questions where there was duplication.
-We also connected with our HR team, ESDC Values and Ethics, and Public Opinion Research to get their feedback and cover for our approach. the questions we planned to ask.
-We learned form these teams and made adjustments where required.
+We also connected with our HR team, ESDC Values and Ethics, and Public Opinion Research to get their feedback and cover for our approach.
+We learned from these teams and made adjustments where required.
 
 ## Communications
 
 We communicated our plans for starting the 2023 study to the Branch DG level committee.
 We did so to get their support to allow their staff time to participate.
 Having validation on our approach from other teams (such as Values and Ethics) reassured DGs that their staff would be in safe hands.
-It should be noted that we did not communicate the study to DGs to get them to force their staff to participate as for ethical research, participation should always be voluntary.
+It should be noted that we did not communicate the study to DGs to get them to force their staff to participate, as for ethical research, participation should always be voluntary.
 
 We then sent an email from our Executive Director to all Executives (executive directors and directors) to advise that the second iteration of the diagnostic study was about to begin and to expect an email from the IT Strategy Team with more information.
 
@@ -63,9 +63,6 @@ Invitees were informed that this was their opportunity to be heard, and that the
 
 Executives self-registered to participate and identified the times they were available using a calendar in a SharePoint site we created for this purpose.
 During self-registration, participants advised if they wanted to be interviewed in English or French.
-
-Using SharePoint this way was new for 2023.
-For the 2021 study those who wanted to participate had to email us with their availability and did not know in real time what dates and times were available.
 
 All directors and executive directors self-registered were sent an invitation that included the <a href="{{ site.baseurl }}{% link assets/files/interview-package.md %}" title="interview package">interview package</a>.
 This package included:
@@ -82,7 +79,7 @@ Participants were encouraged to review the interview package in advance and take
 
 Our team members conducting the interviews prepared for the interviews by reviewing and getting comfortable with our <a href="{{ site.baseurl }}{% link assets/files/field-guide.md %}" title="field guide">field guide and interview script</a>.
 
-The script used so that key items like consent were done consistently, that interviewers did not inadvertently steer participants (due to their own biases), and gave interviewers examples of prompts and background information for specific questions should they be needed.
+The script was used so that key items like consent were done consistently, that interviewers did not inadvertently steer participants (due to their own biases), and gave interviewers examples of prompts and background information for specific questions should they be needed.
 
 The field guide contains general guidance on conducting user interviews.
 Some of this guidance includes (and draws heavily on the work of Steve Portigal from his book Interviewing users: How to uncover compelling insights):
@@ -108,7 +105,7 @@ No interview sessions, names, or easily identifiable information were recorded i
 
 At the end of each interview the interviewer and the note-taker would meet for 30 mins to debrief on what they had heard.
 This also provided a chance to review the interview notes and ensure that both agreed on what was captured.
-The notes were saved in a private document library on SharePoint that only the interviewers and note takers had access to.
+The notes were saved in a private document library on SharePoint that only the interviewers and note-takers had access to.
 
 ## Reporting and Closeout
 
@@ -125,9 +122,9 @@ The report included the following sections:
 
 The IT Organization Culture section specifically highlighted analysis of the diagnostic study results against the Westrum model recommended by the DevOps Research and Assessment (DORA) institute.
 
-In the Strategic Actions section the report we outlined possible new actions as well as also highlighted some actions already underway (that participants might not have known about) which could address certain challenges raised by participants.
+In the Strategic Actions section of the report we outlined possible new actions as well as also highlighted some actions already underway (that participants might not have known about) which could address certain challenges raised by participants.
 
-The draft of this report was first shared with all directors who were interviewed to ensure we had accurately captured their comments and to provide an opportunity for adjustments.
+The draft of this report was first shared with all participants to ensure we had accurately captured their comments and to provide an opportunity for adjustments.
 The What We Heard Report was then used to develop a summary presentation which was presented to three executive forums: first to the DG committee, then CIO Executive Committee, then to our Senior Leaders Forum (all IT executives and managers).
 We also completed a post-mortem for the 2023 study.
 In our post-mortems we discuss:
@@ -139,7 +136,7 @@ In our post-mortems we discuss:
 During the 2023 post-mortem, we realized that some of the interview questions focused too heavily on IT work and did not do justice to IITB’s diverse workforce (e.g. such as AS and EC).
 As such, we felt we may have missed important and relevant factors that could have been used to inform IT strategies.
 To address this, changes will be made to future interview questions.
-In addition, we will be reviewing the relevance and usefulness of some questions (e.g. questions relating functions and team size).
+In addition, we will be reviewing the relevance and usefulness of some questions (e.g. questions relating to functions and team size).
 
 Senior executives and participants have told us that they found that the results of the 2021 and 2023 IT organization diagnostic studies to be really insightful and we plan to complete the study again in 2025.
 If your team is thinking of doing something similar, don’t hesitate to reach out to us at [EDSC.DGIIT.StrategieTI-ITStrategy.IITB.ESDC@hrsdc-rhdcc.gc.ca](mailto:EDSC.DGIIT.StrategieTI-ITStrategy.IITB.ESDC@hrsdc-rhdcc.gc.ca).
