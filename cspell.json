@@ -695,7 +695,10 @@
     "ATIP",
     "etude",
     "standishgroup",
-    "regrouppé"
+    "regrouppé",
+    "enonegc",
+    "ungcfrungc",
+    "gouv"
   ],
   "flagWords": [],
   "import": ["node_modules/@cspell/dict-fr-fr/cspell-ext.json"],

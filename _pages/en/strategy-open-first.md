@@ -328,7 +328,7 @@ Governments across Canada (e.g.,
 [Montréal](http://ville.montreal.qc.ca/pls/portal/docs/PAGE/PRT_VDM_FR/MEDIA/DOCUMENTS/politique_materiel_libres_fr.pdf) (in French only)
 and around the worlds' leading nations (e.g.
 [UK](https://www.gov.uk/government/publications/open-standards-principles/open-standards-principles),
-[France](https://sill.etalab.gouv.fr/fr/software) (in French only),
+France (sill.etalab.gouv.fr/fr/software) (in French only),
 [Italy](https://docs.italia.it/italia/developers-italia/gl-acquisition-and-reuse-software-for-pa-docs/en/stabile/index.html),
 [USA](404 <!--- https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2016/m_16_21.pdf --->), etc.) have adopted policies, directives or guidance on open standards and OSS.
 

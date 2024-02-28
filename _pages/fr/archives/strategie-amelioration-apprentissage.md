@@ -78,7 +78,7 @@ Codes CATS :
 - Explorer les possibilités de la science des données avec le bureau du chef des données de EDSC (CDO)
 - Prévoir un moment récurrent pour partager les connaissances avec les collègues de votre équipe (petit, 5 à 10 personnes)
 - Trouver/devenir un mentor/entraîneur
-- Rejoindre les groupes et participer aux discussions sur [GCconnex](https://gcconnex.gc.ca) et [GCcollab](https://gccollab.ca), ainsi que les communautés externes
+- Rejoindre les groupes et participer aux discussions sur [GCconnex](https://gcconnex.gc.ca) et GCcollab, ainsi que les communautés externes
 - Participer à la formation du personnel de Service Canada
 - S'inscrire à une formation/événement [proposé par EDSC](https://esdc.sabacloud.com) et par l'intermédiaire de [GCcampus](https://www.csps-efpc.gc.ca)
 - Organiser/assister à des réunions concernant les technologies pertinentes pour votre travail
