@@ -18,7 +18,7 @@ The use of technology in service delivery is reiterated as part of the [Treasury
 
 In supporting departments towards the transition to Digital Government, TB Secretariat (TBS) established a set of [10 Digital Standards](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603) and a [Digital Operations Strategic Plan](https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html) that contains 79 actions.
 Due to ESDC's citizen-focus mandate, it is heavily engaged in those digital operation actions.
-For example, the [OneGC vision and Omni Channel Digital Strategy](https://gccollab.ca/groups/profile/154708/enonegc-ungcfrungc) contains 14 cluster groups where ESDC either leads or is an active participant in each one.
+For example, the OneGC vision and Omni Channel Digital Strategy (enonegc-ungcfrungc group on GCCollab) contains 14 cluster groups where ESDC either leads or is an active participant in each one.
 
 Internally within ESDC, the Innovation, Information and Technology Branch (IITB) established the [IITB Way Forward](http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/Documents/Departmental%20IMIT%20Plan/19-20%20Plans/IITB%20Moving%20Forward%20v2.docx), containing 26 service improvement and modernization activities to improve its Information Management/Information Technology (IM/IT) service offerings.
 
