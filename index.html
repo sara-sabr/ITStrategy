@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en" dir="ltr">
+
+  <head><title>Information Technology Strategy Team - Équipe de la Stratégie des Technologies de l'information</title><meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description"
+    content="">
+
+  <!-- Google tag (gtag.js)  2023-02-01 NEW GOOGLE ANALYTICS 4 (migrating from Universal Analytics)-->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-VZ3JFL3LDQ"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-VZ3JFL3LDQ');
+  </script>
+
+  <link rel="stylesheet" href="/ITStrategy/assets/css/style.css">
+  <link rel="icon" type="image/ico" href="/ITStrategy/assets/images/favicon.ico">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/a11y-dark.min.css">
+
+  <!-- Google Fonts https://fonts.google.com/ -->
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:300,400,700&display=swap">
+
+  <!-- DataTables https://datatables.net/ -->
+  <link rel="stylesheet" type="text/css"
+    href="https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.19/css/dataTables.bootstrap4.min.css">
+
+  <!-- Mathjax Support -->
+  <script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@2/MathJax.js?config=TeX-MML-AM_CHTML">
+  </script>
+
+</head>
+
+
+  <body vocab="http://schema.org/" typeof="WebPage">
+
+    <!-- Start Landing Page Image -->
+    <div class="landing">
+      <div class="home-wrap">
+        <div class="home-inner"></div>
+      </div>
+    </div>
+    <!-- End Landing Page Image -->
+    <main class="caption">
+      <section class="text-center selection-container" >
+  <article class="selection">
+    <h1 class="font-weight-bold" style="font-size: large; letter-spacing: .1rem;">
+      Welcome to <span class="text-splash">Information Technology Strategy Team</span> team workspace
+    </h1>
+    <hr class = "selection-divider" />
+    <button onclick="selectLanguage()" class="btn rounded-3 selection-button">English</button>
+  </article>
+
+  <article class = "selection">
+    <h1 class="font-weight-bold" style="font-size: large; letter-spacing: 0rem;">Bienvenue sur l'espace de travail de l'équipe <span
+      class="text-splash">Équipe de la Stratégie des Technologies de l'information</span>
+    </h1>
+    <hr class = "selection-divider" />
+    <button onclick="selectLanguage()" class="btn rounded-3 selection-button">Français</button>
+  </article>
+</section>
+    </main>
+
+    <script>
+    function selectLanguage(e){  
+      e = e || window.event;
+      var src;
+      if (! (e.target || e.srcElement) ){
+        src = e
+      }
+      else{
+        src = e.target || e.srcElement;
+      }
+
+      var selectedLanguage = src.innerText.trim()
+
+    
+      if (selectedLanguage === "English"){
+        localStorage.setItem(
+          "language", "English"
+        )
+
+        
+        if (src.attributes.hasOwnProperty("href") && src.attributes.href.value !== ""){
+            window.location.replace(
+                src.attributes.href.value
+            )
+        }
+        else {
+            window.location.replace(
+                "./home.html"
+            )
+
+        }
+      }
+
+      else if ( selectedLanguage === "Français" ){
+        localStorage.setItem(
+          "language", "Français"
+        )
+
+        if (src.attributes.hasOwnProperty("href") && src.attributes.href.value !== ""){
+            window.location.replace(
+                src.attributes.href.value
+            )
+        }
+        else {
+            window.location.replace(
+                "./accueil.html"
+            )
+
+        }
+    
+      }
+    }  
+</script>
+    
+    <script>
+    (function(){
+      // get language setting from localstorage if it exists
+      var localStorageLang = localStorage.getItem("language")
+      if (localStorageLang && localStorageLang === "English"){
+        window.location.replace(
+          "./home.html"
+        )
+      }
+      else if (localStorageLang && localStorageLang === "Français"){
+        window.location.replace(
+          "./accueil.html"
+        )
+      }
+  
+      console.log("No langauge found")
+    })();
+    </script>
+  </body>
+</html>
