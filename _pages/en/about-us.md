@@ -23,3 +23,6 @@ Finally, through many team-building activities we have built a sense of trust am
 ## The Team
 
 {% include listTeamMembers.md %}
+
+<!-- markdownlint-disable MD033 -->
+<sup>[Image by juicy_fish](https://www.freepik.com/free-vector/avatars-circles-glyph-style_77972574.htm#query=anonymous%20profile&position=0&from_view=keyword&track=ais&uuid=eb7d2fee-d36c-4245-9e7c-2115f17ab9dc) on Freepik</sup>
