@@ -7,7 +7,7 @@
     "link-check-pages": "find ./_pages -name \\*.md -print0 | xargs -0 -n1 markdown-link-check -q -c .markdown-link-check.json",
     "link-check-posts": "find ./_posts -name \\*.md -print0 | xargs -0 -n1 markdown-link-check -q -c .markdown-link-check.json",
     "lint": "markdownlint -i node_modules -i _site -i _includes \"**/*.md\"",
-    "lint-editorconfig": "editorconfig-checker -disable-indentation -disable-insert-final-newline",
+    "lint-editorconfig": "editorconfig-checker -exclude node_modules -disable-indentation -disable-insert-final-newline",
     "spellcheck": "cspell \"_pages/en/*.md\" \"_pages/fr/*.md\" \"_posts/en/*.md\" \"_posts/fr/*.md\" \"wip-tec/en/*.md\" \"wip-tec/fr/*.md\"",
     "open-licences": "licensee --errors-only",
     "licence-compatibility": "license-compatibility-checker",
@@ -34,7 +34,7 @@
   "devDependencies": {
     "@cspell/dict-fr-fr": "^2.1.1",
     "cspell": "^6.17.0",
-    "editorconfig-checker": "^4.0.2",
+    "editorconfig-checker": "^5.1.4",
     "license-compatibility-checker": "^0.3.0",
     "licensee": "^10.0.0",
     "markdown-link-check": "^3.10.3",
