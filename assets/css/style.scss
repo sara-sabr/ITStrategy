@@ -812,6 +812,10 @@ footer .list-inline {
     flex-direction: column;
   }
 
+  .list-inline-item {
+    padding-right: 0em;
+  }
+
   .list-inline-item:not(:last-child) {
     border-right: none;
   }
