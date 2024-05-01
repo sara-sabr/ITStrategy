@@ -466,6 +466,11 @@ footer .list-inline {
   .list-inline-item:not(:last-child):after {
     content: none;
   }
+
+  #maincontent img {
+    width: 100%;
+    height: auto;
+  }
 }
 
 /* Devices under 768px (md) */
@@ -804,6 +809,17 @@ img.center {
 .container {
   display: table;
   width: 100%;
+}
+
+@media (max-width: 1174px) {
+  .container {
+    display: block;
+  }
+
+  table {
+    display: block;
+    overflow-x: scroll;
+  }
 }
 
 .left-half {
