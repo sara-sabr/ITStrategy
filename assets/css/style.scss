@@ -403,6 +403,26 @@ h3.heading {
   padding-bottom: .4rem;
 }
 
+/*============= Footer =============*/
+footer .list-inline {
+  display: flex;
+  justify-content: flex-start;
+  padding-bottom: 3%;
+}
+
+.list-inline-item:not(:last-child) {
+  margin-right: 0px;
+}
+
+.list-inline-item:not(:last-child):after {
+  content: "\2022";
+  margin-left: .7em;
+}
+
+.list-inline-item {
+  padding-right: .7em;
+}
+
 /*============= MEDIA QUERIES =============*/
 /* Devices under 992px (lg) */
 @media (max-width: 991.98px) {
@@ -425,6 +445,26 @@ h3.heading {
   .clients img {
     max-width: 50%;
     margin: 0 auto;
+  }
+
+  footer .list-inline {
+    flex-direction: column;
+  }
+
+  .list-inline-item {
+    padding-right: 0em;
+  }
+
+  .list-inline-item:not(:last-child) {
+    border-right: none;
+  }
+
+  .list-inline-item:not(:first-child) {
+    padding-left: 0%;
+  }
+
+  .list-inline-item:not(:last-child):after {
+    content: none;
   }
 }
 
@@ -785,46 +825,4 @@ img.center {
 
 .shared-content-thin {
   padding-top: 50px;
-}
-
-/*============= Footer =============*/
-footer .list-inline {
-  display: flex;
-  justify-content: flex-start;
-  padding-bottom: 3%;
-}
-
-.list-inline-item:not(:last-child) {
-  margin-right: 0px;
-}
-
-.list-inline-item:not(:last-child):after {
-  content: "\2022";
-  margin-left: .7em;
-}
-
-.list-inline-item {
-  padding-right: .7em;
-}
-
-@media screen and (max-width: 993px) {
-  footer .list-inline {
-    flex-direction: column;
-  }
-
-  .list-inline-item {
-    padding-right: 0em;
-  }
-
-  .list-inline-item:not(:last-child) {
-    border-right: none;
-  }
-
-  .list-inline-item:not(:first-child) {
-    padding-left: 0%;
-  }
-
-  .list-inline-item:not(:last-child):after {
-    content: none;
-  }
 }
