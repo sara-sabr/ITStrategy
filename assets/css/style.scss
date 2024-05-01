@@ -786,3 +786,41 @@ img.center {
 .shared-content-thin {
   padding-top: 50px;
 }
+
+/*============= Footer =============*/
+footer .list-inline {
+  display: flex;
+  justify-content: flex-start;
+  padding-bottom: 3%;
+}
+
+.list-inline-item:not(:last-child) {
+  margin-right: 0px;
+}
+
+.list-inline-item:not(:last-child):after {
+  content: "\2022";
+  margin-left: .7em;
+}
+
+.list-inline-item {
+  padding-right: .7em;
+}
+
+@media screen and (max-width: 993px) {
+  footer .list-inline {
+    flex-direction: column;
+  }
+
+  .list-inline-item:not(:last-child) {
+    border-right: none;
+  }
+
+  .list-inline-item:not(:first-child) {
+    padding-left: 0%;
+  }
+
+  .list-inline-item:not(:last-child):after {
+    content: none;
+  }
+}
