@@ -107,7 +107,7 @@ This would enable us to build capacity in-house and embed modern tools and pract
 Further, contributions to GC open source projects, or open source projects being leveraged by the GC, has the potential to be leveraged as a recruitment tool.
 
 Micro-procurement could also improve diversity in GC IT contracting.
-The [data](https://www.ic.gc.ca/eic/site/061.nsf/vwapj/SFGSME-EFCPME_2017_eng_public.pdf/$file/SFGSME-EFCPME_2017_eng_public.pdf) from the [2017 Survey on Financing and Growth for Small and Medium Enterprises](https://www150.statcan.gc.ca/n1/daily-quotidien/181116/dq181116c-eng.htm) show that 95% of Small and Medium Enterprises (SMEs) surveyed did not sell to the federal government.
+The data (ic.gc.ca/eic/site/061.nsf/vwapj/SFGSME-EFCPME_2017_eng_public.pdf/$file/SFGSME-EFCPME_2017_eng_public.pdf) from the [2017 Survey on Financing and Growth for Small and Medium Enterprises](https://www150.statcan.gc.ca/n1/daily-quotidien/181116/dq181116c-eng.htm) show that 95% of Small and Medium Enterprises (SMEs) surveyed did not sell to the federal government.
 Luckily the [Office of Small and Medium Enterprise](https://www.tpsgc-pwgsc.gc.ca/app-acq/pme-sme/index-eng.html) at PSPC advocates for and encourages SME participation in GC procurement (including running regular [webinars](https://buyandsell.gc.ca/event-calendar) to help SMEs navigate the various procurement processes).
 But GC procurement processes are complex and [suppliers have told](http://opo-boa.gc.ca/rapports-reports/2017-2018/index-eng.html) the Office of the Procurement Ombudsman that supply arrangements and standing offers "can sometimes be cumbersome to use and difficult to qualify for.
 They also seem to disproportionately favour suppliers located in the National Capital Region".
