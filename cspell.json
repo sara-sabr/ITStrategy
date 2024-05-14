@@ -698,7 +698,12 @@
     "regrouppé",
     "enonegc",
     "ungcfrungc",
-    "gouv"
+    "gouv",
+    "vwapj",
+    "SFGSME",
+    "EFCPME",
+    "SFGSME",
+    "EFCPME"
   ],
   "flagWords": [],
   "import": ["node_modules/@cspell/dict-fr-fr/cspell-ext.json"],
