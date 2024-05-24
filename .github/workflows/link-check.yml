@@ -13,4 +13,5 @@ jobs:
       uses: actions/setup-node@v4
       with:
         node-version: '14.x'
-    - run: npm weekly-link-check
+    - run: npm ci
+    - run: npm run weekly-link-check
