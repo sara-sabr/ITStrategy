@@ -12,14 +12,21 @@ jobs:
   test:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v4
+    - name: Checkout pull request branch
+      uses: actions/checkout@v4
+      with:
+        ref: ${{ github.head_ref }}
+        
     - name: Use Node.js
       uses: actions/setup-node@v4
       with:
         node-version: '14.x'
-    - run: npm ci
-    - run: npm test
-
+    
+    - name: Run tests
+      run: |
+        npm ci
+        npm test
+    
     - name: Set up Git
       run: |
         git config --global user.name 'github-actions[bot]'
@@ -27,11 +34,7 @@ jobs:
 
     - name: Commit changes
       run: |
+        git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
         git add .
         git commit -m "Automated commit from GitHub Actions for weekly deadlink check" || echo "No changes to commit"
-
-    - name: Push changes
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      run: |
-        git push origin main || echo "No changes to push"
+        git push || echo "No changes to push"
