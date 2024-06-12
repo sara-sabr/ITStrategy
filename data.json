@@ -1,27 +1,12 @@
 {
     "https://hub.docker.com/editions/community/docker-ce-desktop-windowshttps://hub.docker.com/editions/community/docker-ce-desktop-windows": {
         "initial_date": "2024-06-01",
-        "latest_date": "2024-06-11",
-        "broken": true
-    },
-    "https://www.ic.gc.ca/eic/site/061.nsf/vwapj/SFGSME-EFCPME_2017_eng_public.pdf/$file/SFGSME-EFCPME_2017_eng_public.pdf": {
-        "initial_date": "2024-06-03",
-        "latest_date": "2024-06-11",
+        "latest_date": "2024-06-12",
         "broken": true
     },
     "http://www.oag-bvg.gc.ca/internet/English/parl_oag_201004_01_e_33714.html": {
         "initial_date": "2024-06-11",
-        "latest_date": "2024-06-11",
-        "broken": false
-    },
-    "https://www.digitalthinktankictc.com/ictc-admin/resources/admin/ict001genderreportdesignfnl-2.pdf": {
-        "initial_date": "2024-06-11",
-        "latest_date": "2024-06-11",
-        "broken": false
-    },
-    "https://joinup.ec.europa.eu/collection/eu-fossa-2": {
-        "initial_date": "2024-06-11",
-        "latest_date": "2024-06-11",
+        "latest_date": "2024-06-12",
         "broken": false
     }
 }
