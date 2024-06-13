@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html class="no-js" lang="fr" dir="ltr">
+
+  <head><title>Pilote de micro-acquisition : mise à jour du statut 2 - Équipe de la Stratégie des Technologies de l'information</title><meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description"
+    content="Le pilote de micro-acquisition est en ligne ! Dans ce billet de blogue, nous partageons ce que nous avons appris jusqu'à présent et comment nous nous ajuston...">
+
+  <!-- Google tag (gtag.js)  2023-02-01 NEW GOOGLE ANALYTICS 4 (migrating from Universal Analytics)-->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-VZ3JFL3LDQ"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-VZ3JFL3LDQ');
+  </script>
+
+  <link rel="stylesheet" href="/ITStrategy/assets/css/style.css">
+  <link rel="icon" type="image/ico" href="/ITStrategy/assets/images/favicon.ico">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/a11y-dark.min.css">
+
+  <!-- Google Fonts https://fonts.google.com/ -->
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:300,400,700&display=swap">
+
+  <!-- DataTables https://datatables.net/ -->
+  <link rel="stylesheet" type="text/css"
+    href="https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.19/css/dataTables.bootstrap4.min.css">
+
+  <!-- Mathjax Support -->
+  <script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@2/MathJax.js?config=TeX-MML-AM_CHTML">
+  </script>
+
+</head>
+
+
+  <body vocab="http://schema.org/" typeof="WebPage">
+
+    <script>
+    if(/MSIE \d|Trident.*rv:/.test(navigator.userAgent)) {
+      alert("Nous recommandons d'utiliser Edge, Firefox et autres navigateurs modernes au lieu d'Internet Explorer. Nous allons maintenant ouvrir ce site dans Edge pour une expérience optimale.")
+      window.location = 'microsoft-edge:' + window.location;
+      setTimeout(function() {
+        window.location = 'https://go.microsoft.com/fwlink/?linkid=2135547';
+      }, 500);
+    }
+  </script><header>
+  <a href="#maincontent" class="skiptocontent">Aller au contenu principal</a>
+  <nav class="navbar navbar-expand-md navbar-light fixed-top bg-light" id="topnavbar">
+    <div class="container-fluid">
+    <a aria-label="Home" class="navbar-brand" href="/ITStrategy/accueil.html"><span class="fas fa-home" aria-hidden="true"></span></a>
+
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#Menu1" aria-controls="Menu1" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="custom-toggler-icon"><i class="fas fa-bars"></i></span>
+    </button>
+
+      <div class="collapse navbar-collapse" id="Menu1">
+      <!-- Menu -->
+      <ul class="navbar-nav ml-auto">
+            <li class="nav-item"><a class="nav-link" lang="fr" hreflang="fr" href="/ITStrategy/a-propos-de-nous.html">À propos de nous</a></li><!--Mission--><li class="nav-item dropdown">
+
+    <a class="nav-link dropdown-toggle" href="#" id=navbarDropdownVision role="button" data-toggle="dropdown"
+        aria-haspopup="true" aria-expanded="false">
+        Mission
+    </a>
+    <div class="dropdown-menu" aria-labelledby="navbarDropdownVision">
+        <a class="dropdown-item" lang="fr" hreflang="fr"
+            href="/ITStrategy/mandat.html">Mandat</a>
+        <a class="dropdown-item" lang="fr" hreflang="fr"
+            href="/ITStrategy/vision-moyen-long-terme.html">Vision des technologies de l'information</a></div>
+</li>
+
+            <li class="nav-item"><a class="nav-link" lang="fr" hreflang="fr" href="/ITStrategy/strategies-fr.html">Stratégies</a></li>
+            <li class="nav-item"><a class="nav-link" lang="fr" hreflang="fr" href="/ITStrategy/initiatives-fr.html">Initiatives</a></li>
+            <li class="nav-item"><a class="nav-link" lang="fr" hreflang="fr" href="/ITStrategy/presentations-fr.html">Présentations</a></li>
+            <li class="nav-item"><a class="nav-link" lang="fr" hreflang="fr" href="/ITStrategy/ressources.html">Ressources</a></li>
+            <li class="nav-item"><a class="nav-link" lang="fr" hreflang="fr" href="/ITStrategy/nos-billets.html">Blogue</a></li></ul>
+
+      <!-- Language picker -->
+      <ul class="navbar-nav float-right">
+            <li class="nav-item lang-select-container" >
+                <button href="/ITStrategy/2021/10/20/micro-acquisition-pilot-update2.html" class= "lang-select" onclick="selectLanguage(this)">
+                  English
+                </button>
+            </li></ul>
+    </div>  <!--Menu1-->
+    </div> <!--container-->
+  </nav>
+</header>
+
+
+    <div class="container">
+    <main class="container">
+      <section class="jumbotron d-print-none">
+        <p class="site-title">Équipe de la Stratégie des Technologies de l'information</p>
+      </section><article id="maincontent"><div class="blog">
+    <nav>
+<div style="margin-top: 30px; display: flex; justify-content: space-between; flex-wrap: wrap;"><p class="nav-item" style="flex: 1 1 0; width: 45%; padding-left: 0.5em;"><a class="text-dark nav-link" title="La mise en oeuvre de la gestion de produit au gouvernement fédéral" href="/ITStrategy/2021/10/15/gestion-de-produit-partie-2.html">&#8672;&nbsp;Billet précédent</a></p>
+
+      <p class="nav-item" style="flex: 1 1 0; width: 45%; padding-right: 0.5em; text-align: right"><a class="text-dark nav-link" title="Étude diagnostique de la DGIIT" href="/ITStrategy/2021/12/10/etude-diagnostique-de-la-DGIIT.html" rel="prev">Prochain billet&nbsp;&#8674;</a></p></div>
+</nav>
+
+
+    <h1>Pilote de micro-acquisition : mise à jour du statut 2</h1>
+    <div class="author">2021-10-20 - Écrit par Rachel Muston, en collaboration avec l’équipe de stratégie de la technologie de l’information (TI) et les membres de l’équipe du projet pilote de micro-acquisition</div>
+
+    
+
+    
+
+    <!-- markdownlint-disable MD033 -->
+<p>Depuis notre dernière mise à jour du statut, le site Web des micro-acquisitions <sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup> a été mis en ligne et la première opportunité<sup id="fnref:2" role="doc-noteref"><a href="#fn:2" class="footnote" rel="footnote">2</a></sup> a été publiée !</p>
+
+<p>Dans le cadre du projet pilote de micro-acquisition, nous mettons à l’essai des hypothèses, nous apprenons et nous nous adaptons au fur et à mesure.
+En vue de la préparation à la prochaine opportunité, nous avons apporté quelques modifications sur la base de ce que nous avons appris de la première opportunité.</p>
+
+<h2 id="ajout-dune-liste-de-distribution">Ajout d’une liste de distribution</h2>
+
+<p>Lorsque nous n’avons pas eu beaucoup d’abonnés à notre compte Twitter<sup id="fnref:3" role="doc-noteref"><a href="#fn:3" class="footnote" rel="footnote">3</a></sup>, nous avons fait quelques mises à l’essai et nous avons réalisé 2 choses :</p>
+
+<ol>
+  <li>Il n’était pas clair quelles informations seraient trouvées en suivant le compte Twitter;</li>
+  <li>Une grande partie de notre public cible n’est pas sur Twitter.</li>
+</ol>
+
+<p>Nous avons maintenant une liste de distribution à laquelle tout le monde peut s’abonner.
+Par l’entremise de la liste de distribution (et Twitter), nous partagerons lorsque de nouvelles opportunités sont publiées et/ou mises à jour.
+Nous avons également mis à jour le texte sur la page des opportunités afin d’être plus clairs sur les informations disponibles par le biais du compte Twitter et de la liste de distribution.</p>
+
+<h2 id="mise-à-jour-des-questions-dévaluation">Mise à jour des questions d’évaluation</h2>
+
+<p>Nous avons réalisé, à partir des candidatures que nous avons reçues pour la première opportunité, qu’il y avait des personnes qui pourraient probablement effectuer le travail, mais la formulation de nos critères d’évaluation nous a empêchés de leur donner une chance parce qu’ils n’avaient pas d’expérience spécifique dans Powershell.
+Dans la mesure du possible, les futures opportunités verront les critères d’évaluation passer de :</p>
+<blockquote>
+  <p>Veuillez fournir une courte déclaration écrite démontrant comment vous possédez les compétences requises dans x.</p>
+</blockquote>
+
+<p>à</p>
+
+<blockquote>
+  <p>Veuillez fournir une courte déclaration écrite démontrant comment vous possédez les compétences requises dans x ou dans un langage similaire.</p>
+</blockquote>
+
+<p>Nous avons également ajouté des <a href="https://micro-acquisition.alpha.canada.ca/fr/guide-utilisateur.html#exemples-de-réponses-qui-obtiendraient-la-note-de-passage">exemples de réponses qui obtiendraient la note de passage</a> au guide de l’utilisateur.</p>
+
+<h2 id="à-la-recherche-de-la-bonne-opportunité-pour-lopportunité-no-2">À la recherche de la bonne opportunité pour l’opportunité no 2</h2>
+
+<p>La première opportunité de micro-acquisition nécessitait des compétences dans Powershell.
+Powershell est en quelque sorte un langage spécialisé et a limité le nombre de candidatures que nous avons reçues.
+En discutant avec les fournisseurs, comme les organismes d’éducation et de rééducation professionnelle, nous avons appris que, même s’ils souhaitaient promouvoir les opportunités de micro-acquisitions à leurs étudiants, Powershell n’est pas quelque chose que leurs étudiants apprennent.</p>
+
+<p>Donc nous sommes soucieux du choix de l’opportunité no 2 afin de veiller à ce que les compétences requises soient celles qui sont les plus communément enseignées et connues dans la communauté des développeurs.
+Cela ne veut pas dire que nous n’offrirons aucune opportunité ayant des langages spécialisés à l’avenir.
+Cela signifie simplement que nous nous assurerons que nous avons un bon équilibre dans les opportunités.</p>
+
+<h2 id="utilisations-des-formulaires-gc-pour-le-formulaire-de-candidature">Utilisations des formulaires GC pour le formulaire de candidature</h2>
+
+<p>Bien que nous n’ayons pas eu la preuve que quelqu’un ait eu des problèmes à utiliser le formulaire de candidature en format PDF, nous avons choisi de le remplacer par un formulaire des <a href="https://forms-formulaires.alpha.canada.ca/fr/form-builder">formulaires GC</a>.
+Les formulaires GC sont un nouveau produit du Service Numérique Canadien (SNC) ayant l’objectif suivant : « Aider les utilisateurs du gouvernement à publier rapidement et facilement des formulaires en ligne simples et accessibles que le public peut utiliser pour demander ou accéder aux services ou prestations dont il a besoin. »
+Les formulaires GC sont un service — vous dites au SNC ce dont vous avez besoin, ils conçoivent votre formulaire, le mettent à l’essai, puis vous envoient le lien.
+Les formulaires GC sont accessibles, sécuritaires et ont pleine autorité pour opérer.</p>
+
+<p>Nous sommes ravis de ce changement, car nous n’aurons plus à maintenir un formulaire PDF (ce qui était fastidieux) et l’expérience utilisateur pour les fournisseurs sera améliorée, puisque les formulaires n’autoriseront pas la soumission à moins que tous les champs obligatoires aient été remplis.
+Cela signifie également que nous recevrons les informations relatives aux candidatures en tant que données structurées, afin que nous puissions automatiser le traitement des formulaires de candidature.</p>
+
+<p>Et vous avez peut-être remarqué (si vous avez cliqué sur le lien dans la section Ajout d’une liste de distribution ci-dessus) que nous utilisons également les formulaires GC comme moyen pour les personnes de s’inscrire à notre liste de diffusion.</p>
+
+<p>C’est tout pour nos mises à jour pour le moment.
+Restez à l’affût pour la deuxième opportunité !</p>
+
+<hr />
+
+<h2 id="notes-de-bas-de-page">Notes de bas de page</h2>
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1" role="doc-endnote">
+      <p>Site Web des micro-acquisitions <a href="https://micro-acquisition.alpha.canada.ca/fr/index.html">https://micro-acquisition.alpha.canada.ca/fr/index.html</a> <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:2" role="doc-endnote">
+      <p>Première opportunité de micro-acquisition <a href="https://micro-acquisition.alpha.canada.ca/2021/06/23/elaboration-de-politiques-personnalisees-pour-azure-marketplace.html">https://micro-acquisition.alpha.canada.ca/2021/06/23/elaboration-de-politiques-personnalisees-pour-azure-marketplace.html</a> <a href="#fnref:2" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:3" role="doc-endnote">
+      <p>Compte Twitter des micro-acquisitions <a href="https://twitter.com/MicroAchatsGC">https://twitter.com/MicroAchatsGC</a> <a href="#fnref:3" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+
+
+    <nav>
+<div style="margin-top: 30px; display: flex; justify-content: space-between; flex-wrap: wrap;"><p class="nav-item" style="flex: 1 1 0; width: 45%; padding-left: 0.5em;"><a class="text-dark nav-link" title="La mise en oeuvre de la gestion de produit au gouvernement fédéral" href="/ITStrategy/2021/10/15/gestion-de-produit-partie-2.html">&#8672;&nbsp;Billet précédent</a></p>
+
+      <p class="nav-item" style="flex: 1 1 0; width: 45%; padding-right: 0.5em; text-align: right"><a class="text-dark nav-link" title="Étude diagnostique de la DGIIT" href="/ITStrategy/2021/12/10/etude-diagnostique-de-la-DGIIT.html" rel="prev">Prochain billet&nbsp;&#8674;</a></p></div>
+</nav>
+
+</div>
+
+      </article>
+    </main>
+    
+    
+<div class="container text-right">
+  <a class="text-muted" target="_blank"
+    href="https://github.com/sara-sabr/ITStrategy/tree/master/_posts/fr/2021-10-20-pilote-de-micro-acquisition-mise-a-jour2.md">Voir cette page dans GitHub</a>
+</div><footer class="pt-4 my-md-5 pt-md-5 border-top">
+  <div class="container">
+    <ul class="list-inline">
+      <li class="list-inline-item">
+        <a class="text-muted"
+          href="/ITStrategy/contactez-nous.html">Contactez nous</a>
+      </li>
+      <li class="list-inline-item">
+        <a class="text-muted"
+          href="/ITStrategy/archives-fr.html">Archives</a>
+      </li><li class="list-inline-item">
+        <a class="text-muted" target="_blank"
+          href="https://014gc.sharepoint.com/sites/IITBStrategy">Sharepoint</a>
+      </li>
+
+      <li class="list-inline-item">
+        <a class="text-muted" target="_blank"
+          href="http://esdc.prv/fr/index.shtml">Intranet EDSC</a>
+      </li>
+      <li class="list-inline-item">
+        <a class="text-muted"
+          href="/ITStrategy/close-confidentialite.html">Clause de confidentialité</a>
+      </li></ul>
+    <!-- <p>Droit d’auteur © Sa Majesté la Reine du chef du Canada, représentée par le ministre de Emploi et Développement social Canada, 2019-2020</p> -->
+  </div>
+</footer>
+
+<script>
+    function selectLanguage(e){  
+      e = e || window.event;
+      var src;
+      if (! (e.target || e.srcElement) ){
+        src = e
+      }
+      else{
+        src = e.target || e.srcElement;
+      }
+
+      var selectedLanguage = src.innerText.trim()
+
+    
+      if (selectedLanguage === "English"){
+        localStorage.setItem(
+          "language", "English"
+        )
+
+        
+        if (src.attributes.hasOwnProperty("href") && src.attributes.href.value !== ""){
+            window.location.replace(
+                src.attributes.href.value
+            )
+        }
+        else {
+            window.location.replace(
+                "./home.html"
+            )
+
+        }
+      }
+
+      else if ( selectedLanguage === "Français" ){
+        localStorage.setItem(
+          "language", "Français"
+        )
+
+        if (src.attributes.hasOwnProperty("href") && src.attributes.href.value !== ""){
+            window.location.replace(
+                src.attributes.href.value
+            )
+        }
+        else {
+            window.location.replace(
+                "./accueil.html"
+            )
+
+        }
+    
+      }
+    }  
+</script>
+
+<script src="https://code.jquery.com/jquery-3.4.1.slim.js"
+  integrity="sha256-BTlTdQO9/fascB1drekrDVkaKd9PkwBymMlHOiG+qLI=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+  integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+  integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/highlight.min.js"></script>
+
+<!-- Font Awesome https://fontawesome.com/  https://use.fontawesome.com/releases/v5.11.2/js/all.js -->
+<script src="https://use.fontawesome.com/releases/v5.11.2/js/all.js"></script>
+
+<!-- DataTables -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.19/js/jquery.dataTables.min.js"
+  integrity="sha256-t5ZQTZsbQi8NxszC10CseKjJ5QeMw5NINtOXQrESGSU=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.19/js/dataTables.bootstrap4.min.js"
+  integrity="sha256-hJ44ymhBmRPJKIaKRf3DSX5uiFEZ9xB/qx8cNbJvIMU=" crossorigin="anonymous"></script><script>
+  $("table").addClass("table");
+  $("blockquote").addClass("blockquote");
+  hljs.initHighlightingOnLoad();
+
+
+  var divs = $("div div.highlight");
+  var i;
+  for (i = 0; i < divs.length; i++) {
+    divs[i].setAttribute("tabindex", "0");
+  }
+
+/** Inspiration/source for accessible cards: 
+https://inclusive-components.design/cards/ 
+Author: Heydon Pickering
+Twitter: https://twitter.com/heydonworks
+*/
+
+  const cards = document.querySelectorAll('.card');
+  cards.forEach(card => {
+      card.style.cursor = 'pointer';
+  })
+  Array.prototype.forEach.call(cards, card => {
+    //Source code from Heydon Pickering
+    let down, up, link = card.querySelector('h2 a');
+    card.onmousedown = () => down = +new Date();
+    card.onmouseup = () => {
+      up = +new Date();
+      if ((up - down) < 200) {
+        link.click();
+      }
+    }
+    //Add conditional styling: if JS disabled, not applied
+    card.onmouseover = () => {
+      card.style.border = "1px solid black";
+    }
+    card.onmouseout = () => {
+      card.style.border = "1px solid rgba(0,0,0,.125)";
+    }
+  });
+
+  // Fix for text wrapping in menu
+  $(document).ready(function () {
+    $(document.body).css('padding-top', $('#topnavbar').height() - 25);
+    $(window).resize(function () {
+      $(document.body).css('padding-top', $('#topnavbar').height() - 25);
+    });
+
+  });
+</script>
+    </div>
+
+  </body>
+
+</html>

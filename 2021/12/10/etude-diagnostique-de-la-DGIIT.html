@@ -1,0 +1,411 @@
+<!DOCTYPE html>
+<html class="no-js" lang="fr" dir="ltr">
+
+  <head><title>Étude diagnostique de la DGIIT - Équipe de la Stratégie des Technologies de l'information</title><meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description"
+    content="De juillet à septembre 2021, l'équipe de la stratégie informatique a interrogé des directeurs de l'organisation de la DGIIT. Dans ce billet, nous expliquons ...">
+
+  <!-- Google tag (gtag.js)  2023-02-01 NEW GOOGLE ANALYTICS 4 (migrating from Universal Analytics)-->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-VZ3JFL3LDQ"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-VZ3JFL3LDQ');
+  </script>
+
+  <link rel="stylesheet" href="/ITStrategy/assets/css/style.css">
+  <link rel="icon" type="image/ico" href="/ITStrategy/assets/images/favicon.ico">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/a11y-dark.min.css">
+
+  <!-- Google Fonts https://fonts.google.com/ -->
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:300,400,700&display=swap">
+
+  <!-- DataTables https://datatables.net/ -->
+  <link rel="stylesheet" type="text/css"
+    href="https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.19/css/dataTables.bootstrap4.min.css">
+
+  <!-- Mathjax Support -->
+  <script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@2/MathJax.js?config=TeX-MML-AM_CHTML">
+  </script>
+
+</head>
+
+
+  <body vocab="http://schema.org/" typeof="WebPage">
+
+    <script>
+    if(/MSIE \d|Trident.*rv:/.test(navigator.userAgent)) {
+      alert("Nous recommandons d'utiliser Edge, Firefox et autres navigateurs modernes au lieu d'Internet Explorer. Nous allons maintenant ouvrir ce site dans Edge pour une expérience optimale.")
+      window.location = 'microsoft-edge:' + window.location;
+      setTimeout(function() {
+        window.location = 'https://go.microsoft.com/fwlink/?linkid=2135547';
+      }, 500);
+    }
+  </script><header>
+  <a href="#maincontent" class="skiptocontent">Aller au contenu principal</a>
+  <nav class="navbar navbar-expand-md navbar-light fixed-top bg-light" id="topnavbar">
+    <div class="container-fluid">
+    <a aria-label="Home" class="navbar-brand" href="/ITStrategy/accueil.html"><span class="fas fa-home" aria-hidden="true"></span></a>
+
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#Menu1" aria-controls="Menu1" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="custom-toggler-icon"><i class="fas fa-bars"></i></span>
+    </button>
+
+      <div class="collapse navbar-collapse" id="Menu1">
+      <!-- Menu -->
+      <ul class="navbar-nav ml-auto">
+            <li class="nav-item"><a class="nav-link" lang="fr" hreflang="fr" href="/ITStrategy/a-propos-de-nous.html">À propos de nous</a></li><!--Mission--><li class="nav-item dropdown">
+
+    <a class="nav-link dropdown-toggle" href="#" id=navbarDropdownVision role="button" data-toggle="dropdown"
+        aria-haspopup="true" aria-expanded="false">
+        Mission
+    </a>
+    <div class="dropdown-menu" aria-labelledby="navbarDropdownVision">
+        <a class="dropdown-item" lang="fr" hreflang="fr"
+            href="/ITStrategy/mandat.html">Mandat</a>
+        <a class="dropdown-item" lang="fr" hreflang="fr"
+            href="/ITStrategy/vision-moyen-long-terme.html">Vision des technologies de l'information</a></div>
+</li>
+
+            <li class="nav-item"><a class="nav-link" lang="fr" hreflang="fr" href="/ITStrategy/strategies-fr.html">Stratégies</a></li>
+            <li class="nav-item"><a class="nav-link" lang="fr" hreflang="fr" href="/ITStrategy/initiatives-fr.html">Initiatives</a></li>
+            <li class="nav-item"><a class="nav-link" lang="fr" hreflang="fr" href="/ITStrategy/presentations-fr.html">Présentations</a></li>
+            <li class="nav-item"><a class="nav-link" lang="fr" hreflang="fr" href="/ITStrategy/ressources.html">Ressources</a></li>
+            <li class="nav-item"><a class="nav-link" lang="fr" hreflang="fr" href="/ITStrategy/nos-billets.html">Blogue</a></li></ul>
+
+      <!-- Language picker -->
+      <ul class="navbar-nav float-right">
+            <li class="nav-item lang-select-container" >
+                <button href="/ITStrategy/2021/12/10/iitb-diagnostic-study.html" class= "lang-select" onclick="selectLanguage(this)">
+                  English
+                </button>
+            </li></ul>
+    </div>  <!--Menu1-->
+    </div> <!--container-->
+  </nav>
+</header>
+
+
+    <div class="container">
+    <main class="container">
+      <section class="jumbotron d-print-none">
+        <p class="site-title">Équipe de la Stratégie des Technologies de l'information</p>
+      </section><article id="maincontent"><div class="blog">
+    <nav>
+<div style="margin-top: 30px; display: flex; justify-content: space-between; flex-wrap: wrap;"><p class="nav-item" style="flex: 1 1 0; width: 45%; padding-left: 0.5em;"><a class="text-dark nav-link" title="Pilote de micro-acquisition : mise à jour du statut 2" href="/ITStrategy/2021/10/20/pilote-de-micro-acquisition-mise-a-jour2.html">&#8672;&nbsp;Billet précédent</a></p>
+
+      <p class="nav-item" style="flex: 1 1 0; width: 45%; padding-right: 0.5em; text-align: right"><a class="text-dark nav-link" title="Transitionner vers la gestion des produits en suivant le Guichet emplois" href="/ITStrategy/2022/02/04/project-a-produit.html" rel="prev">Prochain billet&nbsp;&#8674;</a></p></div>
+</nav>
+
+
+    <h1>Étude diagnostique de la DGIIT</h1>
+    <div class="author">2021-12-10 - Écrit par Elmina Iusifova, en collaboration avec l'équipe de Stratégie TI</div>
+
+    
+
+    
+        <p class="author font-italic">Dernière modification: 2021-12-10</p>
+    
+
+    <blockquote>
+  <p>« Créer des liens bienveillants et solides entre les employés et leur travail, les clients, les dirigeants, les gestionnaires et l’organisation, afin d’obtenir des résultats pertinents pour tous les gens cités dans cette phrase. » -
+David Zinger – Auteur, formateur et conseiller.</p>
+</blockquote>
+
+<p>Les organisations font régulièrement l’objet d’une évaluation pour déterminer leur efficacité.
+Cela comprend l’examen des niveaux de leadership, de communication, de responsabilisation, de prestation et de rendement.
+La prévention des erreurs, l’accroissement de l’efficacité et la quête d’amélioration constante sont au cœur des raisons pour lesquelles ces évaluations sont effectuées.</p>
+
+<p>Pour EDSC, ces évaluations sont souvent effectuées par des tiers, issus de l’extérieur du gouvernement.
+Bien que bon nombre de leurs constatations puissent être utiles, nous croyons qu’au sein de l’IITB, nous avons disposer de l’expertise, de la confiance et du désir à long terme nécessaires pour favoriser une amélioration continue et procéder à des évaluations à l’interne.</p>
+
+<p>Notre objectif était d’obtenir un point de vue et une mesure plus approfondis des réussites et des obstacles propres à la direction générale, et de mieux comprendre comment les équipes de directeurs interagissent et se sentent.
+Cette fois-ci, nous voulions poser aux directeurs des questions sur divers sujets qui nous permettraient de mieux saisir la mesure dans laquelle nous prenons soin de nos employés et, par le fait même, nous atteignons nos résultats.</p>
+
+<h2 id="introspection">Introspection</h2>
+
+<p>Les problèmes organisationnels sous-jacents et persistants tendent à entraîner un épuisement émotionnel dans l’ensemble de l’organisation; toutefois, le fait de reconnaître le problème et demander de l’aide peut faire une différence.
+Les problèmes organisationnels peuvent représenter un défi et la première étape pour les résoudre consiste à les cerner et à en déterminer la source.
+Il faudra peut-être du temps pour déterminer d’où proviennent ces problèmes, mais le fait de les cerner et de les résoudre est très avantageux pour l’organisation et les employés.
+Plus les problèmes organisationnels sont résolus rapidement, plus tôt nous serons en mesure de créer un espace de travail plus sain.</p>
+
+<p>Les restrictions les plus sévères de la pandémie sont peut-être chose du passé, mais de nombreux employés se sentent de plus en plus isolés et épuisés mentalement.
+Une meilleure communication aide les employés à améliorer leur bien-être.
+L’établissement d’une communication claire sera essentiel pour traverser la prochaine phase d’instabilité.
+Dans le <strong>but de stimuler la communication, de cerner les principaux obstacles et les points à améliorer au sein de notre direction générale</strong>, nous avons tenté de nous entretenir avec les directeurs de la DGIIT pour entendre ce qu’ils avaient à dire.
+Nous avons discuté avec les directeurs de la DGIIT dans le cadre d’une série d’entrevues individuelles afin de mieux comprendre ce qu’ils vivent au jour le jour à la direction générale et de recueillir leurs points de vue sur EDSC dans son ensemble.</p>
+
+<h2 id="pourquoi-mener-des-entrevues-plutôt-que-denvoyer-un-sondage">Pourquoi mener des entrevues plutôt que d’envoyer un sondage</h2>
+
+<p>Avant de parler de la façon dont nous nous sommes préparés aux entrevues, permettez-moi d’être honnête avec vous : les entrevues ne sont pas la voie la plus facile à suivre.
+C’est surtout vrai dans notre cas, sachant à quel point l’environnement de travail des directeurs a toujours été des plus oppressant.
+Tout d’abord, nous avons eu l’idée d’envoyer un sondage aux directeurs et d’effectuer notre analyse au moyen des données recueillies, mais l’intention et le but de notre étude étaient différents de ce que représente un sondage.</p>
+
+<p>Nous voulions que les personnes interrogées se sentent plus à l’aise d’exprimer leurs véritables sentiments et opinions et nous donner l’occasion, en tant qu’intervieweurs, de nous pencher sur des sujets précis.
+Il est plus facile de recueillir de l’information en parlant aux gens qu’en effectuant des sondages.
+En outre, nous craignions que la tenue d’un autre sondage suscite la lassitude des employés, compte tenu du nombre de sondages et de communications que nous recevons à la direction générale.</p>
+
+<h2 id="quel-était-lobjectif">Quel était l’objectif</h2>
+
+<p>Nous voulions <strong>découvrir les points sensibles des directeurs et de leurs équipes et mettre en lumière les histoires de réussite et les idées novatrices</strong>.
+Ce faisant, nous voulions recueillir de l’information qui nous permettrait de déterminer comment investir dans nos capacités internes en vue d’améliorer la prestation des services de la DGIIT et élaborer des plans et des stratégies à venir.
+Vous vous demandez peut-être « pourquoi nous faisons cela? », étant deux autres rapports,étude de Price Waterhouse Coopers (PwC) et rapport iScore de Gartner, ont été rédigés par des entreprises tierces à EDSC pour aider à évaluer ses fonctions de GI/TI.</p>
+
+<p>Après avoir étudié ces deux rapports, lesquels s’appuyaient sur une approche descendante ‒ consistant à discuter avec les directeurs généraux et les cadres aux échelons supérieurs afin de comprendre les besoins stratégiques de l’organisation ‒ pour évaluer l’organisation, il demeurait nécessaire de mieux comprendre l’environnement opérationnel au sein de la DGIIT.
+En outre, il fallait développer les connaissances et les compétences internes de la DGIIT en matière de réalisation d’études internes.</p>
+
+<p>Nous croyons fermement qu’il incombe aux directeurs et à leurs équipes de livrer des services de TI qui permettent à EDSC de s’acquitter de son mandat d’améliorer la vie des Canadiens; ce sont eux qui comprennent les obstacles qui empêchent leurs équipes de fournir un rendement optimal et qui savent ce dont leurs équipes ont besoin pour bien fonctionner de manière constante.
+C’est pourquoi nous avons choisi de mener cette étude en nous appuyant sur une approche ascendante, en nous entretenant avec les directeurs et en recueillant les commentaires de leurs subalternes.
+Nous voulions que les directeurs puissent s’exprimer et se faire entendre.
+Dans les faits, cette étude a été créée par la DGIIT pour la DGIIT.</p>
+
+<h2 id="préparation-de-lentrevue">Préparation de l’entrevue</h2>
+
+<p>Les questions d’entrevue ont été conçues en collaboration avec les RH, la recherche sur l’opinion publique et les données du Sondage auprès des fonctionnaires fédéraux (SAFF) pour respecter le code d’éthique d’EDSC.
+Pour nous préparer à cette série d’entrevues, nous avons consulté l’équipe ministérielle des valeurs et de l’éthique afin de nous assurer de respecter toutes les exigences en matière de valeurs et d’éthique.</p>
+
+<p>Avant de mener les entrevues, les questions ont été envoyées à l’avance afin de donner aux directeurs le temps de réfléchir, d’utiliser le mieux possible leur temps et de leur permettre de se préparer.</p>
+
+<p>Nous avions plusieurs objectifs en tête à l’égard des entrevues.
+Premièrement, nous voulions offrir aux directeurs un espace sécuritaire pour qu’ils se sentent à l’aise de nous parler.
+Lors de l’entrevue, nous avons assuré aux directeurs que tous les renseignements seraient recueillis de façon anonyme et qu’aucun nom ne serait consigné.
+Tous les renseignements permettant d’identifier un employé ou une équipe ont été généralisés de sorte qu’il était difficile de les retracer.</p>
+
+<p>De plus, nous voulions que les entrevues se déroulent comme des conversations et non comme des interrogatoires. Nous tenions à écouter les histoires de chacun et à comprendre ce qui fonctionne et ce qui ne fonctionne pas.
+Il était très important de mener les entrevues de manière à éviter les confrontations, de sorte que les directeurs soient à l’aise de nous parler de la manière la plus honnête possible.
+Le fait de demander à un directeur d’être transparent et objectif dans son évaluation de la direction générale quand il est stressé à cause d’une échéance ou fatigué de répondre aux questions des intervieweurs (qui, dans bien des cas, ne sont pas connus des directeurs) n’aurait pas été un environnement propice.</p>
+
+<h2 id="processus-dentrevue">Processus d’entrevue</h2>
+
+<p>À chaque entrevue, nous avons commencé par les formalités. Nous avons clairement expliqué le but de l’entrevue et le résultat souhaité – la production d’un rapport anonyme de type « Ce que nous avons entendu », qui sera envoyé aux directeurs aux fins d’examen avant d’être transmis à la haute direction.
+L’entrevue comprenait 20 questions portant sur différents sujets, comme la présentation des équipes, le travail quotidien des directeurs, la culture au sein du ministère et la situation des directeurs à la direction générale, et se terminait par une section thématique sur l’impact du travail virtuel.</p>
+
+<p>Les langues ont tendance à se délier au fil d’une conversation, ce qui est génial! Sachant à quel point l’horaire des directeurs est chargé, nous avons tenté de limiter à une heure la durée des séances de discussion.</p>
+
+<p>Nous sommes très reconnaissants envers les directeurs d’avoir pris le temps, malgré leur horaire chargé, de nous faire part de leurs observations et opinions.
+Ainsi, chaque entrevue était authentique et unique.
+L’étude diagnostique se faisait sur une base volontaire et les directeurs avaient le choix d’y participer ou non.
+Sur 65 directeurs de la DGIIT, nous avons eu l’occasion de nous entretenir avec 39 personnes sur une période de trois mois. Étant donné que nous rencontrions bon nombre de directeurs pour la première fois, cela nous a permis de réseauter et d’en apprendre davantage sur les nouveaux secteurs de la direction générale.
+Cela nous a également permis de mieux comprendre comment les équipes de la DGIIT contribuent au mandat du ministère.</p>
+
+<p>Au cours des entrevues, nous avons vécu plusieurs moments émotifs lorsque les directeurs décrivaient leurs expériences personnelles au sein de la direction générale.
+Comme intervieweurs, nous tentions de vivre les mêmes émotions qu’eux – qu’il s’agisse d’avoir un fou rire ou de ressentir leurs sentiments de frustration – et notre objectif était d’établir un lien de confiance avec eux.
+Non seulement les directeurs ont répondu à toutes les questions en temps opportun, mais les réponses fournies étaient très claires, pertinentes et amusantes.</p>
+
+<p>Notre équipe faisait le nécessaire pour que les discussions se déroulent sur un ton très amical, de sorte que les directeurs interviewés puissent se sentir à l’aise rapidement et nous fournir des renseignements utiles.
+Tout au long du processus d’entrevue, les directeurs ont été francs et honnêtes avec nous; bon nombre d’entre eux ont précisé qu’ils n’hésiteraient pas à parler publiquement de ces sujets, ce qui témoigne de la culture de rétroaction positive en vigueur à la DGIIT.</p>
+
+<h2 id="principales-préoccupations">Principales préoccupations</h2>
+
+<p>Nous avons recueilli des commentaires sur de nombreux aspects positifs et négatifs du travail à la DGIIT; toutefois, quelques-uns de ces aspects se sont révélés particulièrement importants ou communs chez les directeurs de la direction générale. Les aspects qui ont été le plus souvent cités comprenaient notamment : les défis en matière de gestion des ressources humaines; les demandes ponctuelles et urgentes; les priorités en constante évolution et les attentes déraisonnables de la haute direction; les longues heures de travail; les réunions consécutives interminables; les problèmes relatifs à la budgétisation de la formation; et la surcharge d’information provenant de nombreux canaux de communication au sein de la direction générale.</p>
+
+<p>Les difficultés relatives à l’utilisation du <strong>processus d’embauche des RH</strong> ont été l’élément de rétroaction le plus souvent cité et constituent l’un des problèmes les plus complexes à régler à EDSC.
+Les gestionnaires responsables de l’embauche veulent embaucher le plus rapidement possible parce que les postes vacants entraînent des retards opérationnels et exercent une pression sur les membres de l’équipe.
+Bon nombre de directeurs souhaiteraient pouvoir attirer des candidats qualifiés, les embaucher rapidement, constituer une équipe dévouée et assurer une expérience viable pour les candidats.
+Dans le marché du travail actuel, l’embauche de candidats dans le secteur de l’informatique est devenue extrêmement concurrentielle.</p>
+
+<p>À l’échelle régionale, EDSC est en concurrence avec d’autres ministères et municipalités. Nous devons aussi faire concurrence avec les gouvernements provinciaux à l’échelle nationale et avec les entreprises du secteur privé et les organisations multilatérales à l’échelle internationale.
+Nous avons appris que le processus actuel comporte de nombreuses étapes redondantes, des retards inutiles et des exigences rigoureuses qui empêchent l’embauche de candidats qualifiés.
+Comme le processus d’embauche n’est pas aisé, les directeurs reconnaissent l’importance de retenir leurs employés talentueux. Les longs processus administratifs de la DGIIT causent d’importants retards en matière dotation, ce qui entraîne une perte de talents au profit d’autres organisations.</p>
+
+<p>La DGIIT doit favoriser une culture d’apprentissage continu, promouvoir le perfectionnement professionnel et soutenir le perfectionnement des employés afin de mettre à jour et d’améliorer les compétences de l’effectif au rythme du changement et de l’évolution de la GI-TI.
+Les données de <a href="https://www.gartner.com/en/human-resources/research/talentneuron">Gartner TalentNeuron™</a> montrent que le nombre total de compétences requises pour un seul emploi augmente de 10 % d’une année à l’autre.
+Le manque de ressources pour le perfectionnement et le recyclage des compétences des employés est un autre obstacle qui ralentit la productivité quotidienne des employés de la DGIIT.</p>
+
+<p>La gestion des employés de la DGIIT (2 400 employés) au sein d’une grande organisation comme EDSC (28 000 employés) est extrêmement difficile et, au cours de nos conversations avec les directeurs, il a été mentionné que les règles et règlements excessifs, rigides et redondants font souvent obstacle à la prise de mesures et de décisions.
+Quand il y a trop d’étapes et de niveaux d’approbation à franchir, il en résulte un processus et une structure de gouvernance trop complexes.</p>
+
+<p>Les directeurs ont ouvertement indiqué à quel point des tâches simples pouvaient s’avérer complexes en raison de la complexité du processus de demande/prise de mesures.
+De nombreux directeurs ont indiqué que les processus actuels et les niveaux d’approbation n’apportent aucune valeur supplémentaire et retardent plutôt l’exécution des activités opérationnelles.
+En diminuant le nombre de comités de gouvernance et en réduisant les niveaux d’approbation, nous pourrions favoriser un modèle de gouvernance plus efficace qui permettrait de remédier à ce problème.</p>
+
+<p>Les défis susmentionnés suscitent des préoccupations quant à l’incidence que cela pourrait avoir sur les directeurs et leurs employés.
+Tout au long des entrevues, il est clairement ressorti qu’il existe une corrélation entre ces défis et la santé mentale et le bien-être des employés, le sentiment de pression et le fait de se sentir dépassé ou stressé au travail.
+Les problèmes de santé mentale au travail sont très courants dans de nombreux organismes, surtout dans l’après-pandémie. Heureusement, EDSC et notre direction générale prennent des mesures pour promouvoir des habitudes de travail plus saines. Nous faisons la promotion de ces mesures en abordant régulièrement le sujet de la santé mentale dans le bulletin de la DGIIT et diverses communications; en outre, les gestionnaires assurent un suivi régulier auprès des employés et ceux-ci peuvent compter sur des ressources comme le Programme d’aide aux employés (PAE) pour obtenir du soutien.
+De plus, des initiatives permanentes comme le défi « Rester en santé » favorisent également la santé et le bien-être en milieu de travail.</p>
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p>À la fin des entrevues, nous nous sommes retrouvés avec un nombre énorme de notes et de commentaires pertinents.
+Nous avons recueilli une quantité écrasante d’information.
+C’est sans surprise que l’analyse des renseignements recueillis et la réflexion qui en a découlé se sont avérées difficiles; toutefois, nous tenions absolument à prendre le temps d’aborder tous les points et les préoccupations soulevés par les personnes interrogées.
+Notre rapport « Ce que nous avons entendu » présente un aperçu complet de ce que nous avons entendu tout au long des entrevues. Il s’agit d’un document exhaustif qui fournit aux lecteurs une analyse détaillée de nos observations axée sur les commentaires recueillis auprès des directeurs.</p>
+
+<p>En général, les directeurs de la DGIIT ont été très positifs et ont appuyé notre initiative, et ils ont accueilli favorablement l’idée de mener cette étude chaque année.
+Ils ont affirmé être reconnaissants de pouvoir se faire entendre.
+Ils étaient impatients de voir les résultats de l’étude et espéraient que leurs commentaires donneraient lieu à de véritables changements.
+D’ailleurs, nous ‒ les membres de l’équipe de la stratégie des TI ‒ nous appuierons sur ces données pour orienter nos stratégies à venir.
+La haute direction a certainement manifesté un intérêt pour cette étude et compte s’en servir comme source d’information.</p>
+
+<p>Nous ne rédigeons pas qu’un simple rapport.
+Nous rédigeons une histoire pour transmettre les messages de chaque équipe et de chaque directeur, afin d’aider les décideurs à apporter les changements qui s’imposent au sein de l’organisation.</p>
+
+
+    <nav>
+<div style="margin-top: 30px; display: flex; justify-content: space-between; flex-wrap: wrap;"><p class="nav-item" style="flex: 1 1 0; width: 45%; padding-left: 0.5em;"><a class="text-dark nav-link" title="Pilote de micro-acquisition : mise à jour du statut 2" href="/ITStrategy/2021/10/20/pilote-de-micro-acquisition-mise-a-jour2.html">&#8672;&nbsp;Billet précédent</a></p>
+
+      <p class="nav-item" style="flex: 1 1 0; width: 45%; padding-right: 0.5em; text-align: right"><a class="text-dark nav-link" title="Transitionner vers la gestion des produits en suivant le Guichet emplois" href="/ITStrategy/2022/02/04/project-a-produit.html" rel="prev">Prochain billet&nbsp;&#8674;</a></p></div>
+</nav>
+
+</div>
+
+      </article>
+    </main>
+    
+    
+<div class="container text-right">
+  <a class="text-muted" target="_blank"
+    href="https://github.com/sara-sabr/ITStrategy/tree/master/_posts/fr/2021-12-10-etude-diagnostique-de-la-DGIIT.md">Voir cette page dans GitHub</a>
+</div><footer class="pt-4 my-md-5 pt-md-5 border-top">
+  <div class="container">
+    <ul class="list-inline">
+      <li class="list-inline-item">
+        <a class="text-muted"
+          href="/ITStrategy/contactez-nous.html">Contactez nous</a>
+      </li>
+      <li class="list-inline-item">
+        <a class="text-muted"
+          href="/ITStrategy/archives-fr.html">Archives</a>
+      </li><li class="list-inline-item">
+        <a class="text-muted" target="_blank"
+          href="https://014gc.sharepoint.com/sites/IITBStrategy">Sharepoint</a>
+      </li>
+
+      <li class="list-inline-item">
+        <a class="text-muted" target="_blank"
+          href="http://esdc.prv/fr/index.shtml">Intranet EDSC</a>
+      </li>
+      <li class="list-inline-item">
+        <a class="text-muted"
+          href="/ITStrategy/close-confidentialite.html">Clause de confidentialité</a>
+      </li></ul>
+    <!-- <p>Droit d’auteur © Sa Majesté la Reine du chef du Canada, représentée par le ministre de Emploi et Développement social Canada, 2019-2020</p> -->
+  </div>
+</footer>
+
+<script>
+    function selectLanguage(e){  
+      e = e || window.event;
+      var src;
+      if (! (e.target || e.srcElement) ){
+        src = e
+      }
+      else{
+        src = e.target || e.srcElement;
+      }
+
+      var selectedLanguage = src.innerText.trim()
+
+    
+      if (selectedLanguage === "English"){
+        localStorage.setItem(
+          "language", "English"
+        )
+
+        
+        if (src.attributes.hasOwnProperty("href") && src.attributes.href.value !== ""){
+            window.location.replace(
+                src.attributes.href.value
+            )
+        }
+        else {
+            window.location.replace(
+                "./home.html"
+            )
+
+        }
+      }
+
+      else if ( selectedLanguage === "Français" ){
+        localStorage.setItem(
+          "language", "Français"
+        )
+
+        if (src.attributes.hasOwnProperty("href") && src.attributes.href.value !== ""){
+            window.location.replace(
+                src.attributes.href.value
+            )
+        }
+        else {
+            window.location.replace(
+                "./accueil.html"
+            )
+
+        }
+    
+      }
+    }  
+</script>
+
+<script src="https://code.jquery.com/jquery-3.4.1.slim.js"
+  integrity="sha256-BTlTdQO9/fascB1drekrDVkaKd9PkwBymMlHOiG+qLI=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+  integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+  integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/highlight.min.js"></script>
+
+<!-- Font Awesome https://fontawesome.com/  https://use.fontawesome.com/releases/v5.11.2/js/all.js -->
+<script src="https://use.fontawesome.com/releases/v5.11.2/js/all.js"></script>
+
+<!-- DataTables -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.19/js/jquery.dataTables.min.js"
+  integrity="sha256-t5ZQTZsbQi8NxszC10CseKjJ5QeMw5NINtOXQrESGSU=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.19/js/dataTables.bootstrap4.min.js"
+  integrity="sha256-hJ44ymhBmRPJKIaKRf3DSX5uiFEZ9xB/qx8cNbJvIMU=" crossorigin="anonymous"></script><script>
+  $("table").addClass("table");
+  $("blockquote").addClass("blockquote");
+  hljs.initHighlightingOnLoad();
+
+
+  var divs = $("div div.highlight");
+  var i;
+  for (i = 0; i < divs.length; i++) {
+    divs[i].setAttribute("tabindex", "0");
+  }
+
+/** Inspiration/source for accessible cards: 
+https://inclusive-components.design/cards/ 
+Author: Heydon Pickering
+Twitter: https://twitter.com/heydonworks
+*/
+
+  const cards = document.querySelectorAll('.card');
+  cards.forEach(card => {
+      card.style.cursor = 'pointer';
+  })
+  Array.prototype.forEach.call(cards, card => {
+    //Source code from Heydon Pickering
+    let down, up, link = card.querySelector('h2 a');
+    card.onmousedown = () => down = +new Date();
+    card.onmouseup = () => {
+      up = +new Date();
+      if ((up - down) < 200) {
+        link.click();
+      }
+    }
+    //Add conditional styling: if JS disabled, not applied
+    card.onmouseover = () => {
+      card.style.border = "1px solid black";
+    }
+    card.onmouseout = () => {
+      card.style.border = "1px solid rgba(0,0,0,.125)";
+    }
+  });
+
+  // Fix for text wrapping in menu
+  $(document).ready(function () {
+    $(document.body).css('padding-top', $('#topnavbar').height() - 25);
+    $(window).resize(function () {
+      $(document.body).css('padding-top', $('#topnavbar').height() - 25);
+    });
+
+  });
+</script>
+    </div>
+
+  </body>
+
+</html>

@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html class="no-js" lang="" dir="ltr">
+
+  <head><meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.0.2/dist/reveal.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.0.2/dist/theme/moon.css">
+  <link rel="icon" type="image/ico" href="/ITStrategy/assets/images/favicon.ico">
+</head>
+
+
+  <body vocab="http://schema.org/" typeof="WebPage">
+
+    <div class="reveal">
+			<div class="slides">
+        <section id="markdown-slides" data-markdown="" 
+		 data-separator="^\n---\n$" 
+		 data-separator-vertical="^\n--\n$"
+		 data-separator-notes="^Note:">
+</section>
+
+<script>
+
+function getUrlVars() {
+    var vars = {};
+    var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m,key,value) {
+        vars[key] = value;
+    });
+    return vars;
+}
+
+function getUrlParam(parameter, defaultvalue){
+  var urlparameter = defaultvalue;
+  if(window.location.href.indexOf(parameter) > -1){
+    urlparameter = getUrlVars()[parameter];
+    }
+  return urlparameter;
+}
+
+var markdown = getUrlParam('markdown','.md').replace(/\.\./g, "0");
+
+// If there is a presentation, create a title element with the name of the presentation
+// Otherwise create title element with 404
+var title = document.createElement("title")
+if (markdown !== ".md"){
+  // remove en or fr prefix
+  title.innerText = markdown.replace(/(en|fr)\//g, "").replace(/.md/g, "")
+  
+}
+else {
+  title.innerText = "404 Not Found - Pas trouvé"
+  
+}
+
+// set language attribute for page based on lang prefix 
+if ( markdown.match("fr/")){
+    document.getElementsByTagName(
+      "html"
+    )[0].setAttribute("lang", "fr")
+}
+else{
+  document.getElementsByTagName("html")[0].setAttribute(
+    "lang", 
+    "en"
+  )
+}
+
+document.getElementsByTagName("head")[0].appendChild(title)
+document.getElementById("markdown-slides").setAttribute("data-markdown", "./presentations/" + markdown);
+
+if(/MSIE \d|Trident.*rv:/.test(navigator.userAgent)) {
+  if ( markdown.match("fr/")){
+    alert("Nous recommandons d'utiliser Edge, Firefox et autres navigateurs modernes au lieu d'Internet Explorer. Nous allons maintenant ouvrir ce site dans Edge pour une expérience optimale.")
+  }
+  else{
+    alert("We recommend to use Edge, Firefox and other modern browsers instead of Internet Explorer. We'll now open this website in Edge for an optimal experience.")  
+  }
+  window.location = 'microsoft-edge:' + window.location;
+  setTimeout(function() {
+    window.location = 'https://go.microsoft.com/fwlink/?linkid=2135547';
+  }, 500);
+}
+
+</script>
+
+			</div>
+		</div>
+
+    <script src="https://cdn.jsdelivr.net/npm/reveal.js@4.0.2/dist/reveal.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/reveal.js@4.0.2/plugin/markdown/markdown.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/reveal.js@4.0.2/plugin/notes/notes.js"></script>
+
+<script>
+(function (w) {
+
+w.URLSearchParams = w.URLSearchParams || function (searchString) {
+	var self = this;
+	self.searchString = searchString;
+	self.get = function (name) {
+		var results = new RegExp('[\?&]' + name + '=([^&#]*)').exec(self.searchString);
+		if (results == null) {
+			return null;
+		}
+		else {
+			return decodeURI(results[1]) || 0;
+		}
+	};
+}
+})(window)
+
+var params = new URLSearchParams(window.location.search);
+if (params.get("print-pdf") !== null)
+{
+	if (params.get("shownotes") !== null)
+  	{
+		Reveal.initialize(
+	  	{
+			pdfSeparateFragments: false,
+			showNotes: "separate-page",
+			plugins: [ RevealMarkdown ]
+	  	});
+  	} else
+	{
+		Reveal.initialize(
+	  	{
+			pdfSeparateFragments: false,
+			plugins: [ RevealMarkdown ]
+		});
+	}
+} else
+{
+	Reveal.initialize({plugins: [ RevealMarkdown, RevealNotes ]});
+}
+</script>
+
+  </body>
+
+</html>

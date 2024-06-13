@@ -1,0 +1,455 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en" dir="ltr">
+
+  <head><title>NPM Automation Exercise Instructions - Information Technology Strategy Team</title><meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description"
+    content="Working in the open! Our work in progress, list of reference material and presentations.">
+
+  <!-- Google tag (gtag.js)  2023-02-01 NEW GOOGLE ANALYTICS 4 (migrating from Universal Analytics)-->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-VZ3JFL3LDQ"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-VZ3JFL3LDQ');
+  </script>
+
+  <link rel="stylesheet" href="/ITStrategy/assets/css/style.css">
+  <link rel="icon" type="image/ico" href="/ITStrategy/assets/images/favicon.ico">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/a11y-dark.min.css">
+
+  <!-- Google Fonts https://fonts.google.com/ -->
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:300,400,700&display=swap">
+
+  <!-- DataTables https://datatables.net/ -->
+  <link rel="stylesheet" type="text/css"
+    href="https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.19/css/dataTables.bootstrap4.min.css">
+
+  <!-- Mathjax Support -->
+  <script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@2/MathJax.js?config=TeX-MML-AM_CHTML">
+  </script>
+
+</head>
+
+
+  <body vocab="http://schema.org/" typeof="WebPage">
+
+    <script>
+    if(/MSIE \d|Trident.*rv:/.test(navigator.userAgent)) {
+      alert("We recommend to use Edge, Firefox and other modern browsers instead of Internet Explorer. We'll now open this website in Edge for an optimal experience.")  
+      window.location = 'microsoft-edge:' + window.location;
+      setTimeout(function() {
+        window.location = 'https://go.microsoft.com/fwlink/?linkid=2135547';
+      }, 500);
+    }
+  </script><header>
+  <a href="#maincontent" class="skiptocontent">Skip to main content</a>
+  <nav class="navbar navbar-expand-md navbar-light fixed-top bg-light" id="topnavbar">
+    <div class="container-fluid">
+    <a aria-label="Home" class="navbar-brand" href="/ITStrategy/home.html"><span class="fas fa-home" aria-hidden="true"></span></a>
+
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#Menu1" aria-controls="Menu1" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="custom-toggler-icon"><i class="fas fa-bars"></i></span>
+    </button>
+
+      <div class="collapse navbar-collapse" id="Menu1">
+      <!-- Menu -->
+      <ul class="navbar-nav ml-auto">
+            <li class="nav-item"><a class="nav-link" lang="en" hreflang="en" href="/ITStrategy/about-us.html">About us</a></li><!--Mission--><li class="nav-item dropdown">
+
+    <a class="nav-link dropdown-toggle" href="#" id=navbarDropdownVision role="button" data-toggle="dropdown"
+        aria-haspopup="true" aria-expanded="false">
+        Mission
+    </a>
+    <div class="dropdown-menu" aria-labelledby="navbarDropdownVision">
+        <a class="dropdown-item" lang="en" hreflang="en"
+            href="/ITStrategy/mandate.html">Mandate</a>
+        <a class="dropdown-item" lang="en" hreflang="en"
+            href="/ITStrategy/vision-medium-long-term.html">Information Technology Vision</a>
+        <a class="dropdown-item" lang="en" hreflang="en"
+            href="/ITStrategy/esdc-it-strategy.html">Our Approach to Strategy</a>
+        <a class="dropdown-item" lang="en" hreflang="en"
+            href="/ITStrategy/strategy-communications.html">Communications Strategy</a></div>
+</li>
+
+            <li class="nav-item"><a class="nav-link" lang="en" hreflang="en" href="/ITStrategy/strategies.html">Strategies</a></li>
+            <li class="nav-item"><a class="nav-link" lang="en" hreflang="en" href="/ITStrategy/initiatives.html">Initiatives</a></li>
+            <li class="nav-item"><a class="nav-link" lang="en" hreflang="en" href="/ITStrategy/presentations.html">Presentations</a></li>
+            <li class="nav-item"><a class="nav-link" lang="en" hreflang="en" href="/ITStrategy/resources.html">Resources</a></li>
+            <li class="nav-item"><a class="nav-link" lang="en" hreflang="en" href="/ITStrategy/blog-posts.html">Blog</a></li></ul>
+
+      <!-- Language picker -->
+      <ul class="navbar-nav float-right"></ul>
+    </div>  <!--Menu1-->
+    </div> <!--container-->
+  </nav>
+</header>
+
+
+    <div class="container">
+    <main class="container">
+      <section class="jumbotron d-print-none">
+        <p class="site-title">Information Technology Strategy Team</p>
+      </section><article id="maincontent"><h1>NPM Automation Exercise Instructions</h1>
+        
+    
+
+<h2 id="initiate-npm">Initiate NPM</h2>
+
+<p>In order to use NPM scripts for automation, you will need to have the most recent Node.js LTS version installed. An alternative to this issue would be to leverage Docker once again!</p>
+
+<p>To initialize your local repository, run the following command in the folder where your project resides:</p>
+
+<p>Windows</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>docker run <span class="nt">-v</span> <span class="k">${</span><span class="nv">pwd</span><span class="k">}</span>:/usr/node/app <span class="nt">-w</span> /usr/node/app <span class="nt">-it</span> <span class="nt">--rm</span> node npm init
+</code></pre></div></div>
+
+<p>Linux/Mac</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>docker run <span class="nt">-v</span> <span class="si">$(</span><span class="nb">pwd</span><span class="si">)</span>:/usr/node/app <span class="nt">-w</span> /usr/node/app <span class="nt">-it</span> <span class="nt">--rm</span> node npm init
+</code></pre></div></div>
+
+<p>This command will prompt an utility that will walk you through initializing your project with a package.json file.</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>This utility will walk you through creating a package.json file.
+It only covers the most common items, and tries to guess sensible defaults.
+
+See <span class="sb">`</span>npm <span class="nb">help </span>json<span class="sb">`</span> <span class="k">for </span>definitive documentation on these fields and exactly what they <span class="k">do</span><span class="nb">.</span>
+
+Use <span class="sb">`</span>npm <span class="nb">install</span> &lt;pkg&gt;<span class="sb">`</span> afterwards to <span class="nb">install </span>a package and save it as a dependency <span class="k">in </span>the package.json file.
+
+Press ^C at any <span class="nb">time </span>to quit.
+package name: <span class="o">(</span>app<span class="o">)</span> mydir
+version: <span class="o">(</span>1.0.0<span class="o">)</span> 0.0.1
+description: a new project directory
+entry point: <span class="o">(</span>index.js<span class="o">)</span>
+<span class="nb">test command</span>: <span class="nb">test
+</span>git repository: n/a
+keywords: <span class="nb">test
+</span>author: Guillaume Charest
+license: <span class="o">(</span>ISC<span class="o">)</span> MIT
+About to write to /usr/node/app/package.json:
+
+<span class="o">{</span>
+  <span class="s2">"name"</span>: <span class="s2">"mydir"</span>,
+  <span class="s2">"version"</span>: <span class="s2">"0.0.1"</span>,
+  <span class="s2">"description"</span>: <span class="s2">"a new project directory"</span>,
+  <span class="s2">"main"</span>: <span class="s2">"index.js"</span>,
+  <span class="s2">"scripts"</span>: <span class="o">{</span>
+    <span class="s2">"test"</span>: <span class="s2">"echo </span><span class="se">\"</span><span class="s2">This is a test!</span><span class="se">\"</span><span class="s2">"</span>
+  <span class="o">}</span>,
+  <span class="s2">"repository"</span>: <span class="o">{</span>
+    <span class="s2">"type"</span>: <span class="s2">"git"</span>,
+    <span class="s2">"url"</span>: <span class="s2">"git+https://github.com/n/a.git"</span>
+  <span class="o">}</span>,
+  <span class="s2">"keywords"</span>: <span class="o">[</span>
+    <span class="s2">"test"</span>
+  <span class="o">]</span>,
+  <span class="s2">"author"</span>: <span class="s2">"Guillaume Charest"</span>,
+  <span class="s2">"license"</span>: <span class="s2">"MIT"</span>,
+  <span class="s2">"bugs"</span>: <span class="o">{</span>
+    <span class="s2">"url"</span>: <span class="s2">"https://github.com/n/a/issues"</span>
+  <span class="o">}</span>,
+  <span class="s2">"homepage"</span>: <span class="s2">"https://github.com/n/a#readme"</span>
+<span class="o">}</span>
+
+
+Is this OK? <span class="o">(</span><span class="nb">yes</span><span class="o">)</span>
+</code></pre></div></div>
+
+<p>Type <code class="language-plaintext highlighter-rouge">yes</code> and hit enter.</p>
+
+<p>You have successfully initialized your repo with NPM!</p>
+
+<p>Let’s add a few tests</p>
+
+<h2 id="adding-automation-tests">Adding Automation Tests</h2>
+
+<p>This section will show a few simple tests to give you an idea how easy it is to include them in your practice.</p>
+
+<h3 id="markdown-lint-test">Markdown Lint Test</h3>
+
+<p>Windows</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>docker run <span class="nt">-v</span> <span class="k">${</span><span class="nv">pwd</span><span class="k">}</span>:/usr/node/app <span class="nt">-w</span> /usr/node/app <span class="nt">-it</span> <span class="nt">--rm</span> node npm <span class="nb">install </span>markdown-cli
+</code></pre></div></div>
+
+<p>Linux/Mac</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>docker run <span class="nt">-v</span> <span class="si">$(</span><span class="nb">pwd</span><span class="si">)</span>:/usr/node/app <span class="nt">-w</span> /usr/node/app <span class="nt">-it</span> <span class="nt">--rm</span> node npm <span class="nb">install </span>markdown-cli
+</code></pre></div></div>
+
+<p>Open the <code class="language-plaintext highlighter-rouge">package.json</code> file with your editor and locate the <code class="language-plaintext highlighter-rouge">"scripts"</code>.</p>
+
+<p>It should look like this:</p>
+
+<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="w">  </span><span class="nl">"scripts"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
+    </span><span class="nl">"test"</span><span class="p">:</span><span class="w"> </span><span class="s2">"echo </span><span class="se">\"</span><span class="s2">This is a test!</span><span class="se">\"</span><span class="s2">"</span><span class="w">
+  </span><span class="p">}</span><span class="w">
+</span></code></pre></div></div>
+
+<p>Remember when we were asked to input a test command?
+That’s where it went.</p>
+
+<p>Add an entry for a new test named <code class="language-plaintext highlighter-rouge">lint</code> with the following command:</p>
+
+<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nl">"lint"</span><span class="p">:</span><span class="w"> </span><span class="s2">"markdownlint -i node_modules -i _site -i _includes </span><span class="se">\"</span><span class="s2">**/*.md</span><span class="se">\"</span><span class="s2">"</span><span class="w">
+</span></code></pre></div></div>
+
+<p>We include the following argument <code class="language-plaintext highlighter-rouge">-i</code> to ignore certain folders like the <code class="language-plaintext highlighter-rouge">node_modules</code> and generated <code class="language-plaintext highlighter-rouge">_site</code></p>
+
+<p>If you run the following docker npm test command, nothing really happens:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>docker run <span class="nt">-v</span> <span class="si">$(</span><span class="nb">pwd</span><span class="si">)</span>:/usr/node/app <span class="nt">-w</span> /usr/node/app <span class="nt">-it</span> <span class="nt">--rm</span> node npm <span class="nb">test</span>
+</code></pre></div></div>
+
+<p>You need to change the <code class="language-plaintext highlighter-rouge">echo</code> test by the following one:</p>
+
+<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nl">"test"</span><span class="p">:</span><span class="w"> </span><span class="s2">"npm run lint"</span><span class="w">
+</span></code></pre></div></div>
+
+<p>The final scripts should look like this:</p>
+
+<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="w">  </span><span class="nl">"scripts"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
+    </span><span class="nl">"lint"</span><span class="p">:</span><span class="w"> </span><span class="s2">"markdownlint -i node_modules -i _site -i _includes </span><span class="se">\"</span><span class="s2">**/*.md</span><span class="se">\"</span><span class="s2">"</span><span class="p">,</span><span class="w">
+    </span><span class="nl">"test"</span><span class="p">:</span><span class="w"> </span><span class="s2">"npm run lint"</span><span class="w">
+  </span><span class="p">}</span><span class="err">,</span><span class="w">
+</span></code></pre></div></div>
+
+<p>Run your test with the docker npm test command again.</p>
+
+<p>Windows</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>docker run <span class="nt">-v</span> <span class="k">${</span><span class="nv">pwd</span><span class="k">}</span>:/usr/node/app <span class="nt">-w</span> /usr/node/app <span class="nt">-it</span> <span class="nt">--rm</span> node npm <span class="nb">test</span>
+</code></pre></div></div>
+
+<p>Linux/Mac</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>docker run <span class="nt">-v</span> <span class="si">$(</span><span class="nb">pwd</span><span class="si">)</span>:/usr/node/app <span class="nt">-w</span> /usr/node/app <span class="nt">-it</span> <span class="nt">--rm</span> node npm <span class="nb">test</span>
+</code></pre></div></div>
+
+<h3 id="licence-tests">Licence Tests</h3>
+
+<p>With open source software, a few other interesting tests can be used:</p>
+
+<ul>
+  <li>license-compatibility-checker</li>
+  <li>licensee</li>
+</ul>
+
+<p>These tests will help you ensure that your dependencies have proper licences and that there are no conflicts.</p>
+
+<h3 id="npm-dependency-security-test">NPM Dependency Security Test</h3>
+
+<p>The following test is specific to NPM and is used to identify dependencies vulnerabilities.</p>
+
+<p><code class="language-plaintext highlighter-rouge">npm audit</code></p>
+
+<p>If you run the test and an issue is raised, you can use the following command to fix your dependencies.</p>
+
+<p><code class="language-plaintext highlighter-rouge">npm audit fix</code></p>
+
+<h2 id="continuous-integration">Continuous Integration</h2>
+
+<p>The tests that we have configured above in our local directory to ensure we have a tidy and secure workspace can now be leveraged to confirm that whenever we want to contribute to the project, everyone can fix their bugs before pushing submitting a PR.</p>
+
+<p>GitLab has <a href="https://docs.gitlab.com/ee/topics/build_your_application.html">CI integration</a> directly available in its platform and GitHub has a marketplace with services such as <a href="https://travis-ci.com/">CI Travis</a>, which is a free service for open source projects.</p>
+
+<p>There are many services you can leverage but really, the important aspect is that you can as many tests as part of your development process, not just when you reach a project gate.
+This in turn makes it possible to increase the quality of your code but also accelerate your rate of deployments since you know that each line changed can trigger the entire codebase review.</p>
+
+<h3 id="ci-travis">CI Travis</h3>
+
+<p>For the purpose of this course, since we’re going to use your GitHub account, we’ll leverage CI Travis.</p>
+
+<p>In order to grant access to your repository, you’ll need to visit <a href="https://travis-ci.com/">CI Travis website</a> and login with your GitHub account.</p>
+
+<p>Grant access to your account or to your project repo only if you prefer.</p>
+
+<p>Once the access is granted, you will need to add the <code class="language-plaintext highlighter-rouge">.travis.yml</code> file in the project root directory.</p>
+
+<p>The content of the file should be the following:</p>
+
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">language</span><span class="pi">:</span> <span class="s">node_js</span>
+
+<span class="na">node_js</span><span class="pi">:</span>
+<span class="pi">-</span> <span class="s2">"</span><span class="s">node"</span>
+</code></pre></div></div>
+
+<p>This file essentially provides CI Travis with the required information to run the tests and is required on your GitHub repository.
+It should not be added in the <code class="language-plaintext highlighter-rouge">.gitignore</code> file.</p>
+
+<p>For more details about the setup of CI Travis, you can visit this <a href="https://docs.travis-ci.com/user/tutorial/#to-get-started-with-travis-ci">link</a></p>
+
+<h2 id="resources">Resources</h2>
+
+<p>A few key links:</p>
+
+<p><a href="https://docs.npmjs.com/searching-for-and-choosing-packages-to-download">Instructions to search for packages</a></p>
+
+<p><a href="https://docs.npmjs.com/downloading-and-installing-packages-locally">Downloading and installing packages locally</a></p>
+
+<p><a href="https://docs.npmjs.com/updating-packages-downloaded-from-the-registry">Updating packages downloaded from the registry</a></p>
+
+<p><a href="https://docs.npmjs.com/using-npm-packages-in-your-projects">Using packages in your project</a></p>
+
+      </article>
+    </main>
+    
+    
+<div class="container text-right">
+  <a class="text-muted" target="_blank"
+    href="https://github.com/sara-sabr/ITStrategy/tree/master/_pages/en/others/exercises-automation-npm.md">View this page on GitHub</a>
+</div><footer class="pt-4 my-md-5 pt-md-5 border-top">
+  <div class="container">
+    <ul class="list-inline">
+      <li class="list-inline-item">
+        <a class="text-muted"
+          href="/ITStrategy/contact-us.html">Contact us</a>
+      </li>
+      <li class="list-inline-item">
+        <a class="text-muted"
+          href="/ITStrategy/archives.html">Archives</a>
+      </li><li class="list-inline-item">
+        <a class="text-muted" target="_blank"
+          href="https://014gc.sharepoint.com/sites/IITBStrategy">Sharepoint</a>
+      </li>
+
+      <li class="list-inline-item">
+        <a class="text-muted" target="_blank"
+          href="http://esdc.prv/en/index.shtml">ESDC Intranet</a>
+      </li>
+      <li class="list-inline-item">
+        <a class="text-muted"
+          href="/ITStrategy/privacy-disclaimer.html">Privacy Disclaimer</a>
+      </li></ul>
+    <!-- <p>Copyright © Her Majesty the Queen in Right of Canada, as represented by the Minister of Employment and Social Development Canada, 2019-2020.</p> -->
+  </div>
+</footer>
+
+<script>
+    function selectLanguage(e){  
+      e = e || window.event;
+      var src;
+      if (! (e.target || e.srcElement) ){
+        src = e
+      }
+      else{
+        src = e.target || e.srcElement;
+      }
+
+      var selectedLanguage = src.innerText.trim()
+
+    
+      if (selectedLanguage === "English"){
+        localStorage.setItem(
+          "language", "English"
+        )
+
+        
+        if (src.attributes.hasOwnProperty("href") && src.attributes.href.value !== ""){
+            window.location.replace(
+                src.attributes.href.value
+            )
+        }
+        else {
+            window.location.replace(
+                "./home.html"
+            )
+
+        }
+      }
+
+      else if ( selectedLanguage === "Français" ){
+        localStorage.setItem(
+          "language", "Français"
+        )
+
+        if (src.attributes.hasOwnProperty("href") && src.attributes.href.value !== ""){
+            window.location.replace(
+                src.attributes.href.value
+            )
+        }
+        else {
+            window.location.replace(
+                "./accueil.html"
+            )
+
+        }
+    
+      }
+    }  
+</script>
+
+<script src="https://code.jquery.com/jquery-3.4.1.slim.js"
+  integrity="sha256-BTlTdQO9/fascB1drekrDVkaKd9PkwBymMlHOiG+qLI=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+  integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+  integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/highlight.min.js"></script>
+
+<!-- Font Awesome https://fontawesome.com/  https://use.fontawesome.com/releases/v5.11.2/js/all.js -->
+<script src="https://use.fontawesome.com/releases/v5.11.2/js/all.js"></script>
+
+<!-- DataTables -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.19/js/jquery.dataTables.min.js"
+  integrity="sha256-t5ZQTZsbQi8NxszC10CseKjJ5QeMw5NINtOXQrESGSU=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.19/js/dataTables.bootstrap4.min.js"
+  integrity="sha256-hJ44ymhBmRPJKIaKRf3DSX5uiFEZ9xB/qx8cNbJvIMU=" crossorigin="anonymous"></script><script>
+  $("table").addClass("table");
+  $("blockquote").addClass("blockquote");
+  hljs.initHighlightingOnLoad();
+
+
+  var divs = $("div div.highlight");
+  var i;
+  for (i = 0; i < divs.length; i++) {
+    divs[i].setAttribute("tabindex", "0");
+  }
+
+/** Inspiration/source for accessible cards: 
+https://inclusive-components.design/cards/ 
+Author: Heydon Pickering
+Twitter: https://twitter.com/heydonworks
+*/
+
+  const cards = document.querySelectorAll('.card');
+  cards.forEach(card => {
+      card.style.cursor = 'pointer';
+  })
+  Array.prototype.forEach.call(cards, card => {
+    //Source code from Heydon Pickering
+    let down, up, link = card.querySelector('h2 a');
+    card.onmousedown = () => down = +new Date();
+    card.onmouseup = () => {
+      up = +new Date();
+      if ((up - down) < 200) {
+        link.click();
+      }
+    }
+    //Add conditional styling: if JS disabled, not applied
+    card.onmouseover = () => {
+      card.style.border = "1px solid black";
+    }
+    card.onmouseout = () => {
+      card.style.border = "1px solid rgba(0,0,0,.125)";
+    }
+  });
+
+  // Fix for text wrapping in menu
+  $(document).ready(function () {
+    $(document.body).css('padding-top', $('#topnavbar').height() - 25);
+    $(window).resize(function () {
+      $(document.body).css('padding-top', $('#topnavbar').height() - 25);
+    });
+
+  });
+</script>
+    </div>
+
+  </body>
+
+</html>

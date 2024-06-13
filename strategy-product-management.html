@@ -1,0 +1,973 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en" dir="ltr">
+
+  <head><title>Implementing Product Management - Information Technology Strategy Team</title><meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description"
+    content="Working in the open! Our work in progress, list of reference material and presentations.">
+
+  <!-- Google tag (gtag.js)  2023-02-01 NEW GOOGLE ANALYTICS 4 (migrating from Universal Analytics)-->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-VZ3JFL3LDQ"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-VZ3JFL3LDQ');
+  </script>
+
+  <link rel="stylesheet" href="/ITStrategy/assets/css/style.css">
+  <link rel="icon" type="image/ico" href="/ITStrategy/assets/images/favicon.ico">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/a11y-dark.min.css">
+
+  <!-- Google Fonts https://fonts.google.com/ -->
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:300,400,700&display=swap">
+
+  <!-- DataTables https://datatables.net/ -->
+  <link rel="stylesheet" type="text/css"
+    href="https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.19/css/dataTables.bootstrap4.min.css">
+
+  <!-- Mathjax Support -->
+  <script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@2/MathJax.js?config=TeX-MML-AM_CHTML">
+  </script>
+
+</head>
+
+
+  <body vocab="http://schema.org/" typeof="WebPage">
+
+    <script>
+    if(/MSIE \d|Trident.*rv:/.test(navigator.userAgent)) {
+      alert("We recommend to use Edge, Firefox and other modern browsers instead of Internet Explorer. We'll now open this website in Edge for an optimal experience.")  
+      window.location = 'microsoft-edge:' + window.location;
+      setTimeout(function() {
+        window.location = 'https://go.microsoft.com/fwlink/?linkid=2135547';
+      }, 500);
+    }
+  </script><header>
+  <a href="#maincontent" class="skiptocontent">Skip to main content</a>
+  <nav class="navbar navbar-expand-md navbar-light fixed-top bg-light" id="topnavbar">
+    <div class="container-fluid">
+    <a aria-label="Home" class="navbar-brand" href="/ITStrategy/home.html"><span class="fas fa-home" aria-hidden="true"></span></a>
+
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#Menu1" aria-controls="Menu1" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="custom-toggler-icon"><i class="fas fa-bars"></i></span>
+    </button>
+
+      <div class="collapse navbar-collapse" id="Menu1">
+      <!-- Menu -->
+      <ul class="navbar-nav ml-auto">
+            <li class="nav-item"><a class="nav-link" lang="en" hreflang="en" href="/ITStrategy/about-us.html">About us</a></li><!--Mission--><li class="nav-item dropdown">
+
+    <a class="nav-link dropdown-toggle" href="#" id=navbarDropdownVision role="button" data-toggle="dropdown"
+        aria-haspopup="true" aria-expanded="false">
+        Mission
+    </a>
+    <div class="dropdown-menu" aria-labelledby="navbarDropdownVision">
+        <a class="dropdown-item" lang="en" hreflang="en"
+            href="/ITStrategy/mandate.html">Mandate</a>
+        <a class="dropdown-item" lang="en" hreflang="en"
+            href="/ITStrategy/vision-medium-long-term.html">Information Technology Vision</a>
+        <a class="dropdown-item" lang="en" hreflang="en"
+            href="/ITStrategy/esdc-it-strategy.html">Our Approach to Strategy</a>
+        <a class="dropdown-item" lang="en" hreflang="en"
+            href="/ITStrategy/strategy-communications.html">Communications Strategy</a></div>
+</li>
+
+            <li class="nav-item"><a class="nav-link" lang="en" hreflang="en" href="/ITStrategy/strategies.html">Strategies</a></li>
+            <li class="nav-item"><a class="nav-link" lang="en" hreflang="en" href="/ITStrategy/initiatives.html">Initiatives</a></li>
+            <li class="nav-item"><a class="nav-link" lang="en" hreflang="en" href="/ITStrategy/presentations.html">Presentations</a></li>
+            <li class="nav-item"><a class="nav-link" lang="en" hreflang="en" href="/ITStrategy/resources.html">Resources</a></li>
+            <li class="nav-item"><a class="nav-link" lang="en" hreflang="en" href="/ITStrategy/blog-posts.html">Blog</a></li></ul>
+
+      <!-- Language picker -->
+      <ul class="navbar-nav float-right"></ul>
+    </div>  <!--Menu1-->
+    </div> <!--container-->
+  </nav>
+</header>
+
+
+    <div class="container">
+    <main class="container">
+      <section class="jumbotron d-print-none">
+        <p class="site-title">Information Technology Strategy Team</p>
+      </section><article id="maincontent"><h1>Implementing Product Management</h1>
+        
+    
+        <div class="version">
+        
+            Last modified: 2021-07-23
+        
+        
+            Document Version: 0.1
+        
+        </div>
+    
+
+<!-- markdownlint-disable MD033 -->
+<!-- the below cSpell statement says to ignore any text between HTML tags. E.g. it will ignore "th rowspan='2'" in this string: <th rowspan='2'> -->
+<!-- cSpell:ignoreRegExp /\<[^\>]+\>/ -->
+
+<p><strong><em>This is a DRAFT strategy.</em></strong></p>
+
+<p><em>Note: This page will link to internal ESDC and Government of Canada (GC) Network documents, which are unfortunately only accessible within ESDC or GC corporate network.</em></p>
+
+<!-- markdownlint-disable MD001 -->
+<h5 id="table-of-content-">Table of Content <!-- omit in toc --></h5>
+<!-- markdownlint-enable MD001 -->
+<ul>
+  <li><a href="#introduction">Introduction</a>
+    <ul>
+      <li><a href="#purpose">Purpose</a></li>
+      <li><a href="#expected-benefits">Expected Benefits</a></li>
+      <li><a href="#scope-and-target-audience">Scope and Target Audience</a></li>
+    </ul>
+  </li>
+  <li><a href="#definition-of-product">Definition of Product</a></li>
+  <li><a href="#why-we-need-this">Why We Need This</a></li>
+  <li><a href="#conceptual-product-management-framework">Conceptual Product Management Framework</a>
+    <ul>
+      <li><a href="#seeking-product-status">Seeking Product Status</a></li>
+      <li><a href="#product-roadmap-as-the-investment-plan">Product Roadmap as the Investment Plan</a></li>
+      <li><a href="#key-metrics-to-provide-assurances">Key Metrics to Provide Assurances</a></li>
+    </ul>
+  </li>
+  <li><a href="#phase-1-implementation">Phase 1 Implementation</a>
+    <ul>
+      <li><a href="#approach">Approach</a></li>
+      <li><a href="#workstreams">Workstreams</a></li>
+    </ul>
+  </li>
+  <li><a href="#appendix-a---product-architectural-boundaries">Appendix A - Product Architectural Boundaries</a></li>
+  <li><a href="#appendix-b---level-of-autonomy">Appendix B - Level of Autonomy</a></li>
+  <li><a href="#appendix-c---product-life-cycle-overview">Appendix C - Product Life Cycle Overview</a></li>
+  <li><a href="#appendix-d---portfolio-management-a-cfos-perspective">Appendix D - Portfolio Management, a CFO’s perspective</a></li>
+  <li><a href="#appendix-e---value-stream-mapping">Appendix E - Value Stream Mapping</a></li>
+  <li><a href="#appendix-f---its-financial-model">Appendix F - IT’s Financial Model</a></li>
+  <li><a href="#appendix-g---terms-and-definitions">Appendix G - Terms and Definitions</a></li>
+  <li><a href="#appendix-h---change-log">Appendix H - Change Log</a></li>
+  <li><a href="#notes">Notes</a></li>
+</ul>
+
+<h2 id="introduction">Introduction</h2>
+
+<h3 id="purpose">Purpose</h3>
+
+<p>To provide the ESDC with a new type of investment: <strong><em>Products</em></strong><sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup>.</p>
+
+<p>This is to raise awareness and provide incentives to ESDC Programs that they need to seek sufficient funding for their digital operations (rooted in the <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=31300">Policy on Results</a>)</p>
+
+<p>Phase 1 of the strategy is a 1.5-year Branch Initiative, salary based, to produce an MVP Framework<sup id="fnref:2" role="doc-noteref"><a href="#fn:2" class="footnote" rel="footnote">2</a></sup> and evaluate it against 2 product candidates.</p>
+
+<h3 id="expected-benefits">Expected Benefits</h3>
+
+<p>Benefits are not realized after a framework is produced, but rather after a series of change management activities have been completed to operationalize and use the framework.
+Phase 1’s goal is to inform this set of change management activities as a programme-like plan for a Phase 2.</p>
+
+<p>Once realized, we expect the following benefits to ESDC:</p>
+
+<ol>
+  <li>Increase service improvement cadence</li>
+  <li>Release internal IITB capacity towards innovation</li>
+  <li>Timely prevention of technical debt</li>
+</ol>
+
+<h3 id="scope-and-target-audience">Scope and Target Audience</h3>
+
+<p>The scope of this strategy remains within the authorities of the department
+(e.g., we are not seeking to change Treasury Board (TB) procedures or laws).</p>
+
+<p>The main Target Audience for Phase 1 is the Chief Financial Officer (CFO)<sup id="fnref:3" role="doc-noteref"><a href="#fn:3" class="footnote" rel="footnote">3</a></sup> and the Chief Information Officer (CIO)<sup id="fnref:4" role="doc-noteref"><a href="#fn:4" class="footnote" rel="footnote">4</a></sup> as the strategy seeks to make modifications in their respective domains.
+In addition, we are seeking contributions to teams involved in transformational change management for the greater awareness campaign.</p>
+
+<p>A complete list of the stakeholders are listed <a href="#workstreams">here</a>.</p>
+
+<h2 id="definition-of-product">Definition of Product</h2>
+
+<p>We need to use two different levels for a product definition<sup id="fnref:5" role="doc-noteref"><a href="#fn:5" class="footnote" rel="footnote">5</a></sup>:</p>
+
+<p><strong><em>Departmental Level</em></strong>: An offering, tangible or intangible, delivered to a Canadian as part of ESDC’s Program mandate.</p>
+
+<p>(e.g., a licence, a benefit, a passport, a digital ID, a Grant, a Job Offering)</p>
+
+<p><em>Note 1:</em> Departmental products aligned to the <a href="https://dialogue/grp/WG6278300/SitePages/Departmental%20Results%20Framework%20-%20Cadre%20ministériel%20des%20résultats.aspx">Departmental Results Framework (DRF)</a>, in particular within the Program Inventory within the DRF.</p>
+
+<p><strong><em>CIO Level</em></strong>: A software or hardware solution that is developed to improve a business capability (internal product) or improve a user experience (external product).</p>
+
+<p>(e.g., Job Bank, MySCA, Payment Management System)</p>
+
+<p><em>Note 1:</em> A software solution is one or more Applications as defined by the <a href="https://www.gcpedia.gc.ca/wiki/OCIO_Application_Portfolio_Management">Application Portfolio Management (APM) Program</a>).</p>
+
+<p><em>Note 2:</em> A software solution has clear <a href="#appendix-a---product-architectural-boundaries">Architectural Boundaries</a>.</p>
+
+<h2 id="why-we-need-this">Why We Need This</h2>
+
+<p>To meet <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=31300">Policy on Results</a> expectations, ESDC Programs require a Digital Infrastructure.
+This because Canadian expectations have changed, as codified in the new <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603">Policy on Service and Digital</a>.</p>
+
+<p>Today, “Digital” is still considered an internal service in a departmental Program Alignment Architecture.
+This gap affects programs’ ability to deliver and does not promote the needed <em>shared accountability</em> between Program Officials, the CIO, and the CFO.</p>
+
+<div style="display: block; width: inherit; text-align: center; line-height: 3;">
+    <a href="/ITStrategy/assets/images/paa-products-value-stream.png" style="display: block">
+        <img src="/ITStrategy/assets/images/paa-products-value-stream.png" alt="The image shows the link between the IT Branch's budget and the departmental program products. On the left size, we have 3 product images to represent a Program's product offering to canadians. In the middle of the image, a single product's value stream is shown (ideate, create, release, operate steps). Each value stream step is linked to a digital infrastructure image (showing demand for a digital infrastructure). The digital infrastructure image is comprised of a series of CIO level products. This demand for digital infrastructure is shown as an arrow towards a final image representing the IT Branch's budget. This final image shows the branch's total budget ($231.6M) and how it is split into two: A-Base and B-Base. Finally, the image shows that each A-Base and B-Base sources of funds have only 10% dedicated to projects, the other 90% is for RUN activities." style="max-width: 900px; height: inherit;" />
+    </a>
+    <small>Figure 1. Departmental products are tied to the Program Inventory. And the CIO-level products are used in their value streams.</small>
+</div>
+
+<p>A departmental product’s value stream expects to leverage a digital infrastructure, either for its internal staff or as a delivery method to Canadians.
+This digital infrastructure is no longer just a back office, but the <strong>face of government for Canadians</strong>.</p>
+
+<p>There are a few problems with our current mode of operations:</p>
+
+<ol>
+  <li>Program renewals do not include sufficient attention to the digital infrastructure it now needs to operate.
+Digital is not just an internal service offering, it’s a <em><a href="https://honeygolightly.medium.com/asking-the-ultimate-awkward-question-a26bbb34ec61">“reset of policy, delivery, and evaluation”</a></em>.</li>
+  <li>Programs demand for digital infrastructure keeps increasing while CIOs and CFOs keep needing to prioritize their limited A-Base resources, affecting Business and IT synergies.</li>
+  <li>This prioritization of limited resources is heavily dependent on timely funding allocation from programs to sustain the digital products it offers.
+Our current funding model does not allow rapid release of funds and the methods used to manage them (<a href="https://www.pmi.org/learning/library/understanding-difference-programs-versus-projects-6896?__cf_chl_captcha_tk__=c1224dbd65e78643d0456484bd199d5a79d2fd17-1624902677-0-AaoN7yeCB_TMnxYLJPT1WdqhcPQHnA558DylEslgDF0QMgV8yrXMgxjkk4oi8L_jmtnaKvoLR-y0yhsAGsYcH8jybaxrKQ2u58x25fLy9Hd2ROZkNTtPyWENTJej55zeEsQezu1xv5pNDHX4sT_Om79UHlcU2fnbtT7UOz0cYyjqmm4JvY3be4TzHLSQJgg_-tKadLJMsmdNN0XCTOEOQ2iPk9-Jc4YBYUjJIHc29HmzWvsndV9jCv5Jsb4Fv_kJGsSCKjJEm04KVrIZH0yIKd6jSFyujKNr_st0mgTT-GuEDIA89Dw_e6lXXdjTEXpFhy7hYtmR8QWdGf5wH58lXy55UBJp3TMDqyAKxqiYGDU8o0mC2nP4BFrj1aw_jqKs_CqDaiOr7xJvHPjwRinZkt7HgvhRGHENKRXA-89kHHrqF85z6PyUWTiW45n1Sw7c01vQj8ynGmklzh3EIBzb9v03aUyekIHTsEUJRYrPjqRaJf0J3p_Cw-rvsD9OskoTl4gUTiimGrFkLXqNNsFW4SalNEYD34ulJRPpK0lw0WnrcoiPoJmfsUEeqNskUTiRsYU_ci1G9-e_wxgGnj7aAFrb9aIZmb_4NlCCobz0AQelgQMLNVDyKVqVtarvhcMONnKxtAtRr85d92lt41DMDxgnY3ehmj7-6eqbNby-fXXivXlps-doXKwszyD-baMgiws7TSVZiwHLvM6yLI6BJCVolbUVsS59r0MdXzHiBz-I3lw9rnhsLvWSv6JB4-ksBUOI3qWtdsNe5rPR99LMWs8">projects and programmes</a>) <a href="/ITStrategy/2019/12/20/why-we-are-promoting-risks.html">promote risky behaviours</a>.</li>
+</ol>
+
+<p>The <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603">Policy on Service and Digital</a> requires <em>ALL ESDC SERVICES</em> to continuously be improved.</p>
+
+<p>Digital converges multiple domains together: Policy, User Experience (UX), Delivery, and Technology.
+The traditional investment methods to formalize this engagement are with Projects and Programmes.
+We seek to add a new method: Products.</p>
+
+<table>
+<tr>
+  <th>Method</th>
+  <th>What it's about</th>
+  <th>Its effects</th>
+</tr>
+<tr>
+  <td>Project</td>
+  <td>
+    <ul>
+      <li>Temporary set of activities</li>
+      <li>Plan based</li>
+      <li><strong>Done = solution delivered</strong></li>
+    </ul>
+  </td>
+  <td>
+    <ul>
+      <li>No incentive to strategically plan</li>
+      <li>Motivates overembellishment </li>
+      <li>Insufficient context for decision making</li>
+    </ul>
+  </td>
+</tr>
+<tr>
+  <td>Programme</td>
+  <td>
+    <ul>
+      <li>Wide ranging strategic activities</li>
+      <li>Series of projects</li>
+      <li><strong>Done = benefits realized</strong></li>
+    </ul>  
+  </td>
+  <td>
+    <ul>
+      <li>Transformational in nature</li>
+      <li>Long time horizon</li>
+      <li>Focuses on strategic delivery of value</li>
+    </ul>
+  </td>
+</tr>
+<tr>
+  <td>Product</td>
+  <td>
+    <ul>
+      <li>Periodic set of activities</li>
+      <li>Roadmap based</li>
+      <li><strong>Done = meets objective(s)</strong> (Note 1)</li>
+    </ul>
+  </td>
+  <td>
+    <ul>
+      <li>Seeks to maintain the <strong>same individuals</strong> (Note 2)</li>
+      <li>Grants the team(s) <strong>blanket approval</strong> of funding priority for objective in a time horizon (Note 3)</li>
+      <li>Provides <strong>ongoing value</strong> to end users (Note 4)</li>  
+    </ul>
+  </td>
+</tr>
+</table>
+
+<p>This new Product investment type is to give <em>sufficient incentive</em> to Programs in incorporating digital as part of their periodic funding envelope review.
+The incentive offers more autonomy to operate as long as a Product Team can provide <a href="#key-metrics-to-provide-assurances">sufficient assurances to Governance</a>.</p>
+
+<p><em>Note 1:</em> Programmes are typically used when there’s a <a href="https://www.pmi.org/learning/library/understanding-difference-programs-versus-projects-6896?__cf_chl_captcha_tk__=c1224dbd65e78643d0456484bd199d5a79d2fd17-1624902677-0-AaoN7yeCB_TMnxYLJPT1WdqhcPQHnA558DylEslgDF0QMgV8yrXMgxjkk4oi8L_jmtnaKvoLR-y0yhsAGsYcH8jybaxrKQ2u58x25fLy9Hd2ROZkNTtPyWENTJej55zeEsQezu1xv5pNDHX4sT_Om79UHlcU2fnbtT7UOz0cYyjqmm4JvY3be4TzHLSQJgg_-tKadLJMsmdNN0XCTOEOQ2iPk9-Jc4YBYUjJIHc29HmzWvsndV9jCv5Jsb4Fv_kJGsSCKjJEm04KVrIZH0yIKd6jSFyujKNr_st0mgTT-GuEDIA89Dw_e6lXXdjTEXpFhy7hYtmR8QWdGf5wH58lXy55UBJp3TMDqyAKxqiYGDU8o0mC2nP4BFrj1aw_jqKs_CqDaiOr7xJvHPjwRinZkt7HgvhRGHENKRXA-89kHHrqF85z6PyUWTiW45n1Sw7c01vQj8ynGmklzh3EIBzb9v03aUyekIHTsEUJRYrPjqRaJf0J3p_Cw-rvsD9OskoTl4gUTiimGrFkLXqNNsFW4SalNEYD34ulJRPpK0lw0WnrcoiPoJmfsUEeqNskUTiRsYU_ci1G9-e_wxgGnj7aAFrb9aIZmb_4NlCCobz0AQelgQMLNVDyKVqVtarvhcMONnKxtAtRr85d92lt41DMDxgnY3ehmj7-6eqbNby-fXXivXlps-doXKwszyD-baMgiws7TSVZiwHLvM6yLI6BJCVolbUVsS59r0MdXzHiBz-I3lw9rnhsLvWSv6JB4-ksBUOI3qWtdsNe5rPR99LMWs8">level of ambiguity to manage</a>.
+However, the lag in establishing a programme inhibits the rapid cadence that continuous improvement of a product seeks, especially on the User Experience side.
+When a product is used, data is generated which can be analyzed to inform continuous improvement activities.
+User Feedback is obtained and actioned.
+The improvements are often small enough that the effort to go through establishing a programme does not warrant it.</p>
+
+<p><em>Note 2:</em> Projectizing establishes a project team which is disbanded at the end of the project.
+The team members that obtained valuable corporate and product information move on to other activities.
+Even moving between Proofs of  Concepts, then Pilots, then Projects does not guarantee the same team members working on problems.
+This affects empathy to the end users, productivity, happiness, and ultimately pace of delivery.
+It is what psychologist Bruce Tuckman coined the <a href="https://www.mindtools.com/pages/article/newLDR_86.htm">forming, storming, norming, and performing lifecycle</a>.
+The product-type investment method focuses on the people being part of the value stream and seeks to maintain their cohesiveness.</p>
+
+<p><em>Note 3:</em> The department accepts to prioritize a product over a multi-year horizon by granting funding over more than one year.
+Teams do not have to go through committees year over year to re-seek prioritization and funding, therefore releasing internal capacity towards more meaningful work.
+There is an exit path for ESDC to still reallocate funding (its product team) elsewhere should priorities change without losing its investment.</p>
+
+<p><em>Note 4:</em> The Product investment type expects rapid cadence of delivery to end users.
+Planning stages do not last more than a few weeks so that changes in business operations (e.g., software release) are typically provided at least once per quarter.</p>
+
+<h2 id="conceptual-product-management-framework">Conceptual Product Management Framework</h2>
+
+<h3 id="seeking-product-status">Seeking Product Status</h3>
+
+<p>A Program area (represented by a Director General (DG) or an Associate Deputy Minister (ADM)) may request product status to the CFO and CIO.
+Having “product status” means obtaining blanket funding priority over a time horizon for the particular product.
+A product managed as such do not need to seek yearly funding and priority approval as it is provided on a multi-year horizon.</p>
+
+<ol>
+  <li>A Line of Business (LOB) ADM or DG presents a <em>Simplified</em> Business Case (the <a href="#product-roadmap-as-the-investment-plan">Product’s Roadmap</a>).
+    <ul>
+      <li>This Business Case is <em>NOT</em> your typical Business Case used to fund a project.</li>
+    </ul>
+  </li>
+  <li>The LOB ADM/DG, CIO, and CFO get into a Memorandum Of Understanding (MOU) by identifying:
+    <ul>
+      <li>source(s) of funds</li>
+      <li><a href="#appendix-c---level-of-autonomy">level of autonomy</a></li>
+      <li>expected budget</li>
+      <li>the <a href="#appendix-a---product-architectural-boundaries">Product’s Architectural Boundaries</a></li>
+      <li>the Product’s <a href="#appendix-e---value-stream-mapping">Value Stream</a></li>
+      <li>the Product’s internal governance structure</li>
+      <li>the time horizon sought for the blanket approval of priority and funding (in years)</li>
+    </ul>
+  </li>
+  <li>The Major Projects and Investment Board (MPIB)<sup id="fnref:6" role="doc-noteref"><a href="#fn:6" class="footnote" rel="footnote">6</a></sup> oversees investment arrangements and progress reporting
+    <ul>
+      <li>Includes TB submissions, review of product status, and reporting requirements</li>
+    </ul>
+  </li>
+</ol>
+
+<p><em>Note 1</em>: The LOB ADM/DG receives a known budget, but its funding distribution within her portfolio is managed by her.</p>
+
+<h3 id="product-roadmap-as-the-investment-plan">Product Roadmap as the Investment Plan</h3>
+
+<p>The Product’s roadmap acts as the Investment Plan for the time horizon and is the basis for accountability.</p>
+
+<div style="display: block; width: inherit; text-align: center; line-height: 3;">
+    <a href="/ITStrategy/assets/images/paa-products-value-stream.png" style="display: block">
+        <img src="/ITStrategy/assets/images/product-roadmap.png" alt="The image shows a road that, at its end, forks into two futures: Future A and Future B. On that road there are a series of Business Outcome flags. Each Business Outcome Flag includes a value and a cost (in sprints). One of the Business Outcome flag also has a 'must have by date' label. Under the road are time blocks: next three months, next three months, next six months, future." style="max-width: 900px; height: inherit;" />
+    </a>
+    <small>Figure 2. The Product's Roadmap as the Investment Plan.</small>
+</div>
+
+<p>Business Outcomes are mini-business cases (typically 1 pager) and the definition of success for that roadmap step.
+Business Outcome deliveries also act as decision gates in the investment plan.</p>
+
+<p>The blanket approval over the time horizon gives the product’s value stream stability.
+A budget may be augmented based on the desired Business Outcome(s) in the roadmap, at which point departmental governance needs to be engaged since budgets are a CFO domain.
+This budget ask is not based on historical spending levels but on future need.</p>
+
+<p>The Roadmap <strong>can and will be re-prioritized</strong>.
+New business outcomes may be added or shifted on its timeline due to experience gained with the product and to changes in departmental or portfolio priorities.</p>
+
+<p>The Roadmap is <strong>reality</strong> for the product team.
+Parallel projects feed the Product Roadmap’s backlog and their schedules are expected to be adjusted based on the changes in the product’s roadmap.
+This is because it is unrealistic for a product team to manage multiple commitments (e.g., Windows server upgrade, WLM, Accessibility Compliance Project, Technical Debt Programme, one or two Business Enhancements, Benefits Delivery Modernization, etc.).
+Instead, those commitments are part of the Product’s backlog and will be dealt with as part of the Product’s roadmap.
+Should reality changes (e.g., new priority affecting a product’s roadmap horizon), parallel projects absorb the change and adjust their schedules accordingly.
+Should those projects be sources of funds for a product, they are provided only when the Product business outcome plan includes requirements of such projects.</p>
+
+<p><em>Note 1:</em> It is expected that business outcomes are provided in short cadence (typically at least once per quarter).
+This so that the product-type investment is not held in a planning stage for too long and allows course correction within the time horizon.</p>
+
+<p><em>Note 2:</em> Work progress is tracked through <a href="#key-metrics-to-provide-assurances">different key metrics</a></p>
+
+<p><em>Note 3:</em> The short cadence requires moving towards Continuous Authority to Operate (ATOs)<sup id="fnref:7" role="doc-noteref"><a href="#fn:7" class="footnote" rel="footnote">7</a></sup> and Monitoring</p>
+
+<p><em>Note 4:</em> To accurately define business outcomes, LOBs are encouraged to partner with the Chief Data Officer (CDO) and the Business Architecture Alignment Office (BAAO).</p>
+
+<h3 id="key-metrics-to-provide-assurances">Key Metrics to Provide Assurances</h3>
+
+<p>In a product-type investment, governance changes from an entity where one goes to seek permission to do work, to one that observes and <em>may</em> interject <em>if necessary</em>.
+A product team has blanket authority to do work while providing departmental governance with information on their progress.</p>
+
+<p>Achieving a Business Outcome may not be a straight path.
+Product features are hypotheses that must be validated before we can claim victory.
+This may include a series of A/B testing, experiments, Proof of Concepts, using Analytics to interpret data and informing the next iteration of a product.</p>
+
+<p>In a project-type investment, a schedule is the assurance provided to governance on progress because the planning phase sought certainty before execution can start.
+In a product-type investment, the following three key metrics are the assurance, expected to be produced by the Product team.
+These metrics are consumed by the Product Team, the Business Sponsor, and Governance (DGPOC/MPIB).</p>
+
+<div style="display: block; width: inherit; text-align: center; line-height: 3;">
+    <a href="/ITStrategy/assets/images/product-key-metrics.png" style="display: block">
+        <img src="/ITStrategy/assets/images/product-key-metrics.png" alt="The image shows a grouping of 3 sub-image. The first one includes four squares corresponding to the diagnostic metrics: velocity, time to deliver (in days), load (in number of items), happiness (pourcentage of turn over and survey result). Each of the four squares also has a coloured arrow, either red or green to show whether that metric is improving or not. The second image is workload distribution. It shows a bar graphic of twleve bars, one for each month. Under the bar graphic is the legend for each work item: features, defects, risks, debt. The bar graphic has a colour for each of the work item. At the beginning, the bars show more features than the other work items. At the end of the graphic, the bars show more debt than other work items. The final image is the business results. This image includes three squares: one for value (showing number of claims and a APM+ value in percentage), one for costs (showing FTEs, infrastructure, and licence cost in dollars), one for Quality (showing number of incidents, escape defect ration in pourcentage, and APM+ condition." style="max-width: 900px; height: inherit;" />
+    </a>
+    <small>Figure 3. Three key metrics that Governance will use to measure progress.</small>
+</div>
+
+<ol>
+  <li><strong>Health Diagnostic</strong> metrics are provided to address potential velocity issues in the value stream (e.g., creeping technical debt, lack of personnel, conflict between teams affecting moral).</li>
+  <li><strong>Workload distribution</strong> are provided for transparency.
+There are four types of work:
+    <ol>
+      <li><em>Features</em>: What end users see.
+A new function or ability.</li>
+      <li><em>Defects</em>: What end users see.
+A broken function or ability.</li>
+      <li><em>Risks</em>: What end users DO NOT see.
+A compliance gap (e.g., cyber security, a11y).</li>
+      <li><em>Debt</em>: What end users DO NOT see.
+A technical/process/people debt (e.g., architecture refactoring, new API, investment in automation)</li>
+    </ol>
+  </li>
+  <li><strong>Business Results</strong> is what the organization ultimately cares about.
+In the commercial world, it would be tied to profit.
+But in the public sector world, it is tied to a Program’s mandate and <a href="https://www.tbs-sct.gc.ca/ems-sgd/edb-bdd/index-eng.html#orgs/dept/128/infograph/results">expected result</a>.
+The IT Branch can report on costs spent on the product as well in its <a href="https://www.gcpedia.gc.ca/wiki/OCIO_Application_Portfolio_Management">APM Assessment</a>.
+But ultimately, this metric is a business one and Program Officials are encouraged to partner with the CDO and the BAAO to help define them.</li>
+</ol>
+
+<p>In Figure 3, we can see that the workload distribution over a 12-month period shifted from focusing on new features, to fixing defects and addressing compliance risks, to remediating technical debt.</p>
+
+<p>In a product-type investment, the <strong>Product team decides</strong> this workload distribution.
+Greater departmental governance <em>may</em> intervene if necessary but the Product team uses its blanket authority to decide how best to distribute workload.</p>
+
+<h2 id="phase-1-implementation">Phase 1 Implementation</h2>
+
+<h3 id="approach">Approach</h3>
+
+<p>The strategy’s approach in implementing product management in the department is to iterate on the framework<sup id="fnref:8" role="doc-noteref"><a href="#fn:8" class="footnote" rel="footnote">8</a></sup> by periodically evaluating it with product candidates.</p>
+
+<p>These evaluations will inform the framework’s next iteration by providing it with empirical evidence of what works and doesn’t work.</p>
+
+<p>To formalize engagement between stakeholders, a Branch Initiative sponsored by the DG of SABR will be used.</p>
+
+<p><strong><em>Phase 1 Objectives (FY 21/22 and 22/23)</em></strong></p>
+
+<ul>
+  <li>Produce MVP framework and evaluate it against 2 product candidates (one from A-Base sources of funds, the other from B-Base sources)</li>
+  <li>Produce a programme-like activity plan (informing next round of activities and stakeholders to realize benefits)</li>
+</ul>
+
+<p><strong><em>Phase 2 Objectives (FY 23/24)</em></strong></p>
+
+<ul>
+  <li>TBD based on FY 22-23 programme-like activity plan</li>
+</ul>
+
+<div style="display: block; width: inherit; text-align: center; line-height: 3;">
+    <a href="/ITStrategy/assets/images/strategy-product-mgt-phase-1.png" style="display: block">
+        <img src="/ITStrategy/assets/images/strategy-product-mgt-phase-1.png" alt="The image is a timeline showing blocks of work over a 1.5 year period. On the left (starting Oct 2021) is the Start of the Branch Initiative with 'Product MVP Framework'. Near the middle  (starting Apr 2022) is the Start Framework Evaluation with 'Evaluate Product Candidates'. Within the 'Evaluate Product Candidates' is the start of 'Update Framework' that is followed by 'Producte Roadmap for Phase 2'. Closure of Phase 1 is timed with March 2023. At the bottom of the timeline are the dates for the beginning and end of the Branch Intiative: Oct 2021 (fiscal year 2021/2022), Apr 2022 (beginning of fiscal year 2022/2023), and Mar 2023 (end of fiscal year 2022/2023)." style="max-width: 900px; height: inherit;" />
+    </a>
+    <small>Figure 4. Phase 1 of the Strategy as a Branch Initiative.</small>
+</div>
+
+<h3 id="workstreams">Workstreams</h3>
+
+<p>The following workstreams will be worked on during Phase 1, each with their own OPI and contributors.</p>
+
+<p><strong>Objective:</strong> seek empirical evidence by evaluating 2 candidates to inform next steps<br />
+<strong>Expected Results:</strong> clearer list of activities to perform (programme-like plan) with a more accurate level of efforts</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Workstream</th>
+      <th>OPI</th>
+      <th>Contributors</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Investment Management</strong></td>
+      <td>CFOB EPMO</td>
+      <td>IITB BPMO, IITB RM, IITB BRM, IITB IT Strategy</td>
+    </tr>
+    <tr>
+      <td><strong>Financial Management</strong></td>
+      <td>IITB RM</td>
+      <td>IITB BPMO, CFOB FMAS</td>
+    </tr>
+    <tr>
+      <td><strong>People Management</strong></td>
+      <td>IITB HR</td>
+      <td>IITB RM, IITB SAs</td>
+    </tr>
+    <tr>
+      <td><strong>Governance</strong></td>
+      <td>IITB IT Strategy + CFOB EPMO</td>
+      <td>IITB BPMO, OCIO (Gov), IITB EA, IITB IM, IT Security (ATOs), IITB CM (Release Mgt)</td>
+    </tr>
+    <tr>
+      <td><strong>Outcome Measurement</strong></td>
+      <td>CFOB IPM (Note 1)</td>
+      <td>SSPB CDO (?), TMB BAAO (?)</td>
+    </tr>
+    <tr>
+      <td><strong>Portfolio Management</strong></td>
+      <td>IITB BPMO</td>
+      <td>IITB BRM, IITB RM, CFOB FMAS</td>
+    </tr>
+    <tr>
+      <td><strong>Change Management</strong></td>
+      <td>IITB CM&amp;C</td>
+      <td>IITB IT Strategy</td>
+    </tr>
+    <tr>
+      <td><strong>Coordination &amp; Mgt of FY 22/23 initiative</strong></td>
+      <td>IITB IT Strategy</td>
+      <td>IITB Resource Centre (?)</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><em>Note 1</em>: Potential link with <a href="https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Directive%20on%20Benefits%20Management.pdf">ESDC Directive on Benefits Management</a></p>
+
+<p><em>Note 2</em>: We seek one candidate funded with A-Base source and one candidate funded with B-Base source.</p>
+
+<h2 id="appendix-a---product-architectural-boundaries">Appendix A - Product Architectural Boundaries</h2>
+
+<p>A given Product has the following architectural boundaries, used by Enterprise Architecture to provide strategic advice:</p>
+
+<ul>
+  <li><strong><em>Business Alignment</em></strong>, to the <a href="https://dialogue/grp/EA-AE/SitePages/DBCM.aspx">Business Capability Model</a>.</li>
+  <li><strong><em>Information Profile</em></strong>, defined by the following attributes:
+    <ul>
+      <li>Privacy, manifested by a <a href="https://www.priv.gc.ca/en/privacy-topics/privacy-impact-assessments/gd_exp_202003/#toc4">Privacy Impact Assessment</a> (includes Retention and Disposition rules)</li>
+      <li>Security, manifested by a Statement of Sensitivity and a Statement of Acceptable Risk</li>
+      <li>Ethics, manifested by one or more <a href="https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/algorithmic-impact-assessment.html">Algorithmic Impact Assessment</a></li>
+    </ul>
+  </li>
+  <li><strong><em>Technology Standards</em></strong>, defined by the following attribute:
+    <ul>
+      <li>Unacceptable technical stacks (<a href="https://dialogue/grp/CO7397744/Lists/Standards%20Catalogue/AllItems.aspx">in containment or retirement</a>)</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="appendix-b---level-of-autonomy">Appendix B - Level of Autonomy</h2>
+
+<p>The level of autonomy is inspired by the <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32584">CFO’s financial delegation authority</a> and <a href="https://www.canada.ca/en/public-service-commission/services/appointment-framework/delegation-overview/appointment-delegation-accountability-instrument.html">Heads of HR delegation</a>.</p>
+
+<p>The Senior ADM of the IT Branch is both the CIO and the Departmental Official Responsible for Cyber Security (DOCS).
+This person is accountable to <a href="https://sara-sabr.github.io/ITStrategy/2021/06/02/stats-digial-policy-instruments.html">509 policy requirements</a>.
+In order to have sufficient assurance that policy requirements are met, CIOs and DOCS require IM/IT changes to pass through their central corporate release process, including architecture and security assessments.
+To further control these processes, IM/IT staff will be located under the CIO HR organization.</p>
+
+<p>A level of autonomy may be provided to product teams by delegating some authorities to them.
+As per the Financial and HR delegations, this is not a simple form to fill out.
+It is expected to require training and can have real consequences of non-compliance.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Policy / Corporate Area</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Privacy</td>
+      <td>The Business ADM takes on the liability of a privacy incident for her product.<br />Assurances involves performing a <a href="https://www.priv.gc.ca/en/privacy-topics/privacy-impact-assessments/gd_exp_202003/#toc4">Privacy Impact Assessment</a> and interacting with the <a href="https://esdc.prv/en/csb/privacy-management.shtml">Privacy Management Division</a></td>
+    </tr>
+    <tr>
+      <td>Cyber Security</td>
+      <td>The Business ADM takes on the liability of a cyber security incident for her product.<br />Assurances involves applying <a href="https://www.cyber.gc.ca/en/guidance/it-security-risk-management-lifecycle-approach-itsg-33">ITSG-33 controls</a> on the product proportional to the Statement of Sensitivity and Statement of Acceptable Risks exercises.</td>
+    </tr>
+    <tr>
+      <td>Ethics</td>
+      <td>The Business ADM takes on the liability of an ethics incident for her product.<br />Assurances involves producing an <a href="https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/algorithmic-impact-assessment.html">Algorithmic Impact Assessment</a> and meeting the <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32592">Directive on Automated Decision Making</a> requirements.</td>
+    </tr>
+    <tr>
+      <td>Production Release</td>
+      <td>The Business ADM takes on the liability of releasing her product in production by following ESDC’s <a href="https://014gc.sharepoint.com/:b:/r/sites/SDLCActionPlanTeam/Shared%20Documents/General/Software%20Development%20and%20Release%20Governance.pdf?csf=1&amp;web=1&amp;e=SdnmEy">Software Release Process</a> (as per ITSM).<br />The CIO may establish a “capped size” for releases (to protect limited network bandwidth on premise and greater ESDC reputation)</td>
+    </tr>
+    <tr>
+      <td>Corporate Services</td>
+      <td>The Business ADM funds its own IT corporate services to function, including production and incident management operations</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><em>Note 1:</em> A delegation of all areas would indicate more than one CIO and DOCS reporting to the Deputy Head.
+Highly unlikely.</p>
+
+<p><em>Note 2:</em> A delegation in one area grants a Business ADM the ability to embed personnel of that area under its HR Org structure.</p>
+
+<p><em>Note 3:</em> Production Release process maps to the <a href="https://014gc.sharepoint.com/:b:/r/sites/SDLCActionPlanTeam/Shared%20Documents/General/Software%20Development%20and%20Release%20Governance.pdf?csf=1&amp;web=1&amp;e=SdnmEy">IITB SDLC</a>.
+Quality Assurance ensures that the right stakeholders were involved throughout the s/w lifecycle before releasing to production.</p>
+
+<p><em>Note 4:</em> Corporate services include Funding for Cyber Security Operation Centre (CSOC), IT Security Assessment, Cloud Operations, Architecture Review, Service Desk, Laptops, VPNs.</p>
+
+<h2 id="appendix-c---product-life-cycle-overview">Appendix C - Product Life Cycle Overview</h2>
+
+<div style="display: block; width: inherit; text-align: center; line-height: 3;">
+    <a href="/ITStrategy/assets/images/product_management_lifecycle.png" style="display: block">
+        <img src="/ITStrategy/assets/images/product_management_lifecycle.png" alt="The overview of the lifecycle is comprised of five steps, displayed from left to right as columns that include Governance, Responsible for Product Artefacts, and Responsible for Supporting Activities. The first column, step 0, is the existing Stage 5 of a Project (project closure) it involves all artefacts that a project closure is expected to produce. The second column, step 1, is the start of the project to product status creation. It's governance is at the sponsor and DGPOC/MPIB level (depending on budget amount). The Product Manager is responsible to produce a series of artefacts at this step (product brief, multi-year budget, value stream map, cadence (schedule), architecture boundaries, product governance board, and sources of funds). The FMAs attest the financials that the Product Manager produced. Product Supporting Activities do not include anything. The 3rd column, step 2, is the Enterprise Alignment. Governed by the Sponsor and DGPOC/MPIB. The Product Manager is responsible to produce a series of artefacts at this step (step-based roadmap, multi-year budget, key product metrics, conceptual target architecture, architecture boundaries, benefits realization plan, IRBV Archiving Checklist). FMAs again attest the financials. Supporting Activities include EARB and SA&amp;A reviews. The 4th column, step 3, is the continuous improvement steps. It involves a series of release (labled steps 3n and steps 3n+1). The Product Manager is responsible to produce a series of artefacts (Approval to Deploy, Acceptance Report, Product Workload Metrics). FMAs attesting the financials. The supporting activities for the product manager include Produce Costing Tool, Produce Release Schedule, Evaluate Architecture Boundaries, Release Management, Risks and mitigation. The supporting activities for the product owner involves Release Scope and the step-based product roadmap. The supporting acativities for the product team involves backlog grooming, and evaluating the previous release. Before the 4th column, there are two loop-backs. The first loop-backs is an arrow that goes back to Step 3. Indicating that the continuous improvement steps is a loop. But that bi-yearly updates are provided to governance. The 2nd loop-back is an arrow that goes back to step 2 (enterprise alignment), indicating that a greater review of the product roadmap is done. The final 4th column, step 4, is the Product decommission. Governed by the Sponsor and DGPOC/MPIB. The Product Manager is responsible to produce a series of artefacts (approval to decommission, product closure report, and IRBV Archiving Checklist). FMAs attest the financials." style="max-width: 900px; height: inherit;" />
+    </a>
+    <small>Figure 5. Overview of the Proposed Product Lifecycle</small>
+</div>
+
+<h2 id="appendix-d---portfolio-management-a-cfos-perspective">Appendix D - Portfolio Management, a CFO’s perspective</h2>
+
+<p>The CFO allocates a budget to a portfolio based on departmental priorities, for a given time horizon (multi-year)
+Within the portfolio, the Program Official distributes her funds to products according to the portfolio’s own priorities.</p>
+
+<div style="display: block; width: inherit; text-align: center; line-height: 3;">
+    <a href="/ITStrategy/assets/images/product-management-cfo-perspective.png" style="display: block">
+        <img src="/ITStrategy/assets/images/product-management-cfo-perspective.png" alt="The image shows the relationships between the CFO, Program Officials, Teams, Roadmaps, and Stakeholders. On the left side is the CFO with a large bag of money, representing a program's portfolio budget. On the right of the CFO are three smaller bags of money (under a Program Official), representing funding for three products. The third smaller bag of money is bigger than the other two. On the right are teams. The two smaller bag of money have one team, the bigger bag of money (3rd product) has two teams. Next, on the right, are smaller version of figure 2 image (a product's roadmap that is a road forking at its end). Product number 3 (the bigger bag of money) has more than one roadmap. Finally, on the far right are images of Stakeholders." style="max-width: 900px; height: inherit;" />
+    </a>
+    <small>Figure 6. Budget and funding distribution within a portfolio</small>
+</div>
+
+<h2 id="appendix-e---value-stream-mapping">Appendix E - Value Stream Mapping</h2>
+
+<p>Value Stream Mapping are about the individuals, irrelevant of where they fit within the org structure, that are part of the product delivery and operation (a grouping of cross-functional teams).</p>
+
+<p>Handoffs greatly reduced if all individuals are under a single “Product Manager”</p>
+
+<p>Value Stream Mapping for software delivery is an implementation of the <a href="https://014gc.sharepoint.com/:b:/r/sites/SDLCActionPlanTeam/Shared%20Documents/General/Software%20Development%20and%20Release%20Governance.pdf?csf=1&amp;web=1&amp;e=SdnmEy">IITB SDLC</a></p>
+
+<div style="display: block; width: inherit; text-align: center; line-height: 3;">
+    <a href="/ITStrategy/assets/images/strategy-product-value-stream-mapping.png" style="display: block">
+        <img src="/ITStrategy/assets/images/strategy-product-value-stream-mapping.png" alt="The image includes three sub images. The first one is Value Stream (people) showing images of small teams interacting with each other over the four stages of value stream : ideate, create, release, operate. A downward arrow points to a second sub-image that is an overview of the IITB SDLC (a series of steps to deliver software, either waterfall, agile, or DevOps). The Value Stream sub-image has a second arrow that points to an org chart image. The org chart image has dark squares representing positions with some of the squares highlighted in red, representing the individuals that are part of the value stream." style="max-width: 900px; height: inherit;" />
+    </a>
+    <small>Figure 7. Value Stream Mapping for Software Delivery</small>
+</div>
+
+<h2 id="appendix-f---its-financial-model">Appendix F - IT’s Financial Model</h2>
+
+<p>IT’s financial model needs adjustments as it moves towards product-based funding.
+In some cases, different work on a product may be financed by different programs (e.g. A Benefits business rules funded by Employment Insurance).</p>
+
+<div style="display: block; width: inherit; text-align: center; line-height: 3;">
+    <a href="/ITStrategy/assets/images/product_financial_model_en.png" style="display: block">
+        <img src="/ITStrategy/assets/images/product_financial_model_en.png" alt="The image is read left to right. It has a legend as follows: a blue cloud used to indicate indirect costs shared by more than one cost object, an orange rectangle used to indicat direct cost that is unequivocally attributed to a single cost object, and a purple diamond used to indicate source of funds that can pay for the product costs. The image starts with an icon saying 'FMAs documents'. Two orange arrows labeld 'Direct Costing' go from this 'FMAS documents' icon towards two new orange rectangle icons labled 'Product A' and 'Product B'. A third arrow, blue this time and labled 'Indirect Costing', go from the 'FMAs documents' icon to a blue cloud labeled 'Product Team Salary and Non-Salary'. The 'Product A' orange irectanble is linked to an orange cloud that contains 3 orange rectangles: Infrastructure (e.g. SSC and Cloud), Tech Stack s/w licences, and Labour (salary / non-salary). The 'Labour (salary / non-salary)' rectangle is tied with a gray icon that says 'CATS Codes'. This gray 'CATS codes' icon is linked to the blue cloud 'Product Team' icon with an arrow that says 'Allocation'. The blue cloud 'Product Team' icon is linked to a bigger blue cloud that contains 7 blue rectangle: Corp Licences (e.g. SaaS, s/w), Real Estate, Employee Benefits, Common Cloud Services, Common SSC Services, Equipment (e.g. laptops), Corporate Services (e.g. Arch and Security Assessments). The image ends with 3 purple diamond icons: Source i (e.g. TB sub i), Source ii (e.g. EI Program), Source iii (e.g. CRF). These 3 purple diamond icons have purple arrows towards the orange and blue clouds." style="max-width: 900px; height: inherit;" />
+    </a>
+    <small>Figure 8. IT Financial Model for Product Management</small>
+</div>
+
+<h2 id="appendix-g---terms-and-definitions">Appendix G - Terms and Definitions</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Term</th>
+      <th>Definition</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>a11y</td>
+      <td>Accessibility</td>
+    </tr>
+    <tr>
+      <td>AIA</td>
+      <td><a href="https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/algorithmic-impact-assessment.html">Algorithmic Impact Assessment</a></td>
+    </tr>
+    <tr>
+      <td>APM</td>
+      <td><a href="https://www.gcpedia.gc.ca/wiki/OCIO_Application_Portfolio_Management">Application Portfolio Management</a></td>
+    </tr>
+    <tr>
+      <td>BAAO</td>
+      <td>Business Architecture Alignment Office</td>
+    </tr>
+    <tr>
+      <td>BPMO</td>
+      <td>Branch Project Management Office</td>
+    </tr>
+    <tr>
+      <td>BRM</td>
+      <td>Business Relations Management</td>
+    </tr>
+    <tr>
+      <td>CDO</td>
+      <td>Chief Data Office</td>
+    </tr>
+    <tr>
+      <td>CFOB</td>
+      <td>Chief Financial Officer Branch</td>
+    </tr>
+    <tr>
+      <td>DGPOC</td>
+      <td>Director General Project Oversight Committee</td>
+    </tr>
+    <tr>
+      <td>DRF</td>
+      <td>Departmental Results Framework</td>
+    </tr>
+    <tr>
+      <td>EPMO</td>
+      <td>Enterprise Project Management Office</td>
+    </tr>
+    <tr>
+      <td>FMAS</td>
+      <td>Financial Management and Advisory Services</td>
+    </tr>
+    <tr>
+      <td>IITB</td>
+      <td>Innovation and Information Technology Branch</td>
+    </tr>
+    <tr>
+      <td>IPM</td>
+      <td>Investment and Performance Management</td>
+    </tr>
+    <tr>
+      <td>MPIB</td>
+      <td>Major Project and Investment Board</td>
+    </tr>
+    <tr>
+      <td>OPI</td>
+      <td>Office of Primary Interest</td>
+    </tr>
+    <tr>
+      <td>PIA</td>
+      <td>Privacy Impact Assessment</td>
+    </tr>
+    <tr>
+      <td>RM</td>
+      <td>Resource Management</td>
+    </tr>
+    <tr>
+      <td>SAR</td>
+      <td>Statement of Acceptable Risk</td>
+    </tr>
+    <tr>
+      <td>SAs</td>
+      <td>Senior Advisors</td>
+    </tr>
+    <tr>
+      <td>SoS</td>
+      <td>Statement of Sensitivity</td>
+    </tr>
+    <tr>
+      <td>TB</td>
+      <td>Treasury Board</td>
+    </tr>
+    <tr>
+      <td>TBS</td>
+      <td>Treasury Board Secretariat</td>
+    </tr>
+    <tr>
+      <td>TMB</td>
+      <td>Transformation Management Branch</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="appendix-h---change-log">Appendix H - Change Log</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Version</th>
+      <th>Date of Change</th>
+      <th>Change Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">0.01</td>
+      <td>2021-07-30</td>
+      <td>First Draft, moved from working document to web page</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">0.02</td>
+      <td>2021-10-04</td>
+      <td>Updates based on internal discussions</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="notes">Notes</h2>
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1" role="doc-endnote">
+      <p>ESDC currently recognizes 3 types of investment: assets, acquired services, and projects (see <a href="https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Guide%20to%20Building%20a%20Business%20Case.pdf">ESDC’s Guide to building a Business Case</a>) <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:2" role="doc-endnote">
+      <p>Framework = a directive, a set of standards (e.g., reporting), and a set of procedures (e.g., manoeuvring governance) <a href="#fnref:2" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:3" role="doc-endnote">
+      <p>The main areas of the CFO’s domain expertise are Enterprise Project Management, Financial Management, and Investment Performance Management. <a href="#fnref:3" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:4" role="doc-endnote">
+      <p>The main areas of the CIO’s domain expertise are Project Management Office, Release Management (and ITSM), IT Security, and Enterprise Architecture. <a href="#fnref:4" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:5" role="doc-endnote">
+      <p>See <a href="/ITStrategy/strategy-product-mgt-definitions.html">this inventory</a> of 38 known definitions from industry and government. <a href="#fnref:5" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:6" role="doc-endnote">
+      <p><a href="https://dialogue/grp/PEC-CEP/Committee%20Terms%20of%20Reference/MPIB%20-%20Major%20Projects%20and%20Investments%20Board%20(2).pdf">MPIB</a> is a Tier 2 committee at ESDC chaired by the CFO. <a href="#fnref:6" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:7" role="doc-endnote">
+      <p>cATOs are inspired by the <a href="https://www.linkedin.com/feed/update/urn:li:share:6734861153765326848/">US Air Force’s Platform One team</a>, in the Chief Software Office. NIST and ITSG-33 do not have continuous types of controls. Will need to innovate while remaining in compliance. <a href="#fnref:7" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:8" role="doc-endnote">
+      <p>Framework = a directive, a set of standards (e.g., report requirements), and a set of procedures <a href="#fnref:8" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+
+      </article>
+    </main>
+    
+    
+<div class="container text-right">
+  <a class="text-muted" target="_blank"
+    href="https://github.com/sara-sabr/ITStrategy/tree/master/_pages/en/strategy-product-management.md">View this page on GitHub</a>
+</div><footer class="pt-4 my-md-5 pt-md-5 border-top">
+  <div class="container">
+    <ul class="list-inline">
+      <li class="list-inline-item">
+        <a class="text-muted"
+          href="/ITStrategy/contact-us.html">Contact us</a>
+      </li>
+      <li class="list-inline-item">
+        <a class="text-muted"
+          href="/ITStrategy/archives.html">Archives</a>
+      </li><li class="list-inline-item">
+        <a class="text-muted" target="_blank"
+          href="https://014gc.sharepoint.com/sites/IITBStrategy">Sharepoint</a>
+      </li>
+
+      <li class="list-inline-item">
+        <a class="text-muted" target="_blank"
+          href="http://esdc.prv/en/index.shtml">ESDC Intranet</a>
+      </li>
+      <li class="list-inline-item">
+        <a class="text-muted"
+          href="/ITStrategy/privacy-disclaimer.html">Privacy Disclaimer</a>
+      </li></ul>
+    <!-- <p>Copyright © Her Majesty the Queen in Right of Canada, as represented by the Minister of Employment and Social Development Canada, 2019-2020.</p> -->
+  </div>
+</footer>
+
+<script>
+    function selectLanguage(e){  
+      e = e || window.event;
+      var src;
+      if (! (e.target || e.srcElement) ){
+        src = e
+      }
+      else{
+        src = e.target || e.srcElement;
+      }
+
+      var selectedLanguage = src.innerText.trim()
+
+    
+      if (selectedLanguage === "English"){
+        localStorage.setItem(
+          "language", "English"
+        )
+
+        
+        if (src.attributes.hasOwnProperty("href") && src.attributes.href.value !== ""){
+            window.location.replace(
+                src.attributes.href.value
+            )
+        }
+        else {
+            window.location.replace(
+                "./home.html"
+            )
+
+        }
+      }
+
+      else if ( selectedLanguage === "Français" ){
+        localStorage.setItem(
+          "language", "Français"
+        )
+
+        if (src.attributes.hasOwnProperty("href") && src.attributes.href.value !== ""){
+            window.location.replace(
+                src.attributes.href.value
+            )
+        }
+        else {
+            window.location.replace(
+                "./accueil.html"
+            )
+
+        }
+    
+      }
+    }  
+</script>
+
+<script src="https://code.jquery.com/jquery-3.4.1.slim.js"
+  integrity="sha256-BTlTdQO9/fascB1drekrDVkaKd9PkwBymMlHOiG+qLI=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+  integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+  integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/highlight.min.js"></script>
+
+<!-- Font Awesome https://fontawesome.com/  https://use.fontawesome.com/releases/v5.11.2/js/all.js -->
+<script src="https://use.fontawesome.com/releases/v5.11.2/js/all.js"></script>
+
+<!-- DataTables -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.19/js/jquery.dataTables.min.js"
+  integrity="sha256-t5ZQTZsbQi8NxszC10CseKjJ5QeMw5NINtOXQrESGSU=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.19/js/dataTables.bootstrap4.min.js"
+  integrity="sha256-hJ44ymhBmRPJKIaKRf3DSX5uiFEZ9xB/qx8cNbJvIMU=" crossorigin="anonymous"></script><script src="/ITStrategy/assets/js/datatable.js"></script><script>
+  $("table").addClass("table");
+  $("blockquote").addClass("blockquote");
+  hljs.initHighlightingOnLoad();
+
+
+  var divs = $("div div.highlight");
+  var i;
+  for (i = 0; i < divs.length; i++) {
+    divs[i].setAttribute("tabindex", "0");
+  }
+
+/** Inspiration/source for accessible cards: 
+https://inclusive-components.design/cards/ 
+Author: Heydon Pickering
+Twitter: https://twitter.com/heydonworks
+*/
+
+  const cards = document.querySelectorAll('.card');
+  cards.forEach(card => {
+      card.style.cursor = 'pointer';
+  })
+  Array.prototype.forEach.call(cards, card => {
+    //Source code from Heydon Pickering
+    let down, up, link = card.querySelector('h2 a');
+    card.onmousedown = () => down = +new Date();
+    card.onmouseup = () => {
+      up = +new Date();
+      if ((up - down) < 200) {
+        link.click();
+      }
+    }
+    //Add conditional styling: if JS disabled, not applied
+    card.onmouseover = () => {
+      card.style.border = "1px solid black";
+    }
+    card.onmouseout = () => {
+      card.style.border = "1px solid rgba(0,0,0,.125)";
+    }
+  });
+
+  // Fix for text wrapping in menu
+  $(document).ready(function () {
+    $(document.body).css('padding-top', $('#topnavbar').height() - 25);
+    $(window).resize(function () {
+      $(document.body).css('padding-top', $('#topnavbar').height() - 25);
+    });
+
+  });
+</script>
+    </div>
+
+  </body>
+
+</html>

@@ -1,0 +1,359 @@
+<!DOCTYPE html>
+<html class="no-js" lang="fr" dir="ltr">
+
+  <head><title>Auto-évaluation DevOps - Équipe de la Stratégie des Technologies de l'information</title><meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description"
+    content="Travailler ouvertement! Nos travaux en cours, liste de documents de références et présentations.">
+
+  <!-- Google tag (gtag.js)  2023-02-01 NEW GOOGLE ANALYTICS 4 (migrating from Universal Analytics)-->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-VZ3JFL3LDQ"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-VZ3JFL3LDQ');
+  </script>
+
+  <link rel="stylesheet" href="/ITStrategy/assets/css/style.css">
+  <link rel="icon" type="image/ico" href="/ITStrategy/assets/images/favicon.ico">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/a11y-dark.min.css">
+
+  <!-- Google Fonts https://fonts.google.com/ -->
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:300,400,700&display=swap">
+
+  <!-- DataTables https://datatables.net/ -->
+  <link rel="stylesheet" type="text/css"
+    href="https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.19/css/dataTables.bootstrap4.min.css">
+
+  <!-- Mathjax Support -->
+  <script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@2/MathJax.js?config=TeX-MML-AM_CHTML">
+  </script>
+
+</head>
+
+
+  <body vocab="http://schema.org/" typeof="WebPage">
+
+    <script>
+    if(/MSIE \d|Trident.*rv:/.test(navigator.userAgent)) {
+      alert("Nous recommandons d'utiliser Edge, Firefox et autres navigateurs modernes au lieu d'Internet Explorer. Nous allons maintenant ouvrir ce site dans Edge pour une expérience optimale.")
+      window.location = 'microsoft-edge:' + window.location;
+      setTimeout(function() {
+        window.location = 'https://go.microsoft.com/fwlink/?linkid=2135547';
+      }, 500);
+    }
+  </script><header>
+  <a href="#maincontent" class="skiptocontent">Aller au contenu principal</a>
+  <nav class="navbar navbar-expand-md navbar-light fixed-top bg-light" id="topnavbar">
+    <div class="container-fluid">
+    <a aria-label="Home" class="navbar-brand" href="/ITStrategy/accueil.html"><span class="fas fa-home" aria-hidden="true"></span></a>
+
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#Menu1" aria-controls="Menu1" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="custom-toggler-icon"><i class="fas fa-bars"></i></span>
+    </button>
+
+      <div class="collapse navbar-collapse" id="Menu1">
+      <!-- Menu -->
+      <ul class="navbar-nav ml-auto">
+            <li class="nav-item"><a class="nav-link" lang="fr" hreflang="fr" href="/ITStrategy/a-propos-de-nous.html">À propos de nous</a></li><!--Mission--><li class="nav-item dropdown">
+
+    <a class="nav-link dropdown-toggle" href="#" id=navbarDropdownVision role="button" data-toggle="dropdown"
+        aria-haspopup="true" aria-expanded="false">
+        Mission
+    </a>
+    <div class="dropdown-menu" aria-labelledby="navbarDropdownVision">
+        <a class="dropdown-item" lang="fr" hreflang="fr"
+            href="/ITStrategy/mandat.html">Mandat</a>
+        <a class="dropdown-item" lang="fr" hreflang="fr"
+            href="/ITStrategy/vision-moyen-long-terme.html">Vision des technologies de l'information</a></div>
+</li>
+
+            <li class="nav-item"><a class="nav-link" lang="fr" hreflang="fr" href="/ITStrategy/strategies-fr.html">Stratégies</a></li>
+            <li class="nav-item"><a class="nav-link" lang="fr" hreflang="fr" href="/ITStrategy/initiatives-fr.html">Initiatives</a></li>
+            <li class="nav-item"><a class="nav-link" lang="fr" hreflang="fr" href="/ITStrategy/presentations-fr.html">Présentations</a></li>
+            <li class="nav-item"><a class="nav-link" lang="fr" hreflang="fr" href="/ITStrategy/ressources.html">Ressources</a></li>
+            <li class="nav-item"><a class="nav-link" lang="fr" hreflang="fr" href="/ITStrategy/nos-billets.html">Blogue</a></li></ul>
+
+      <!-- Language picker -->
+      <ul class="navbar-nav float-right">
+            <li class="nav-item lang-select-container" >
+                <button href="/ITStrategy/devops-self-assessment.html" class= "lang-select" onclick="selectLanguage(this)">
+                  English
+                </button>
+            </li></ul>
+    </div>  <!--Menu1-->
+    </div> <!--container-->
+  </nav>
+</header>
+
+
+    <div class="container">
+    <main class="container">
+      <section class="jumbotron d-print-none">
+        <p class="site-title">Équipe de la Stratégie des Technologies de l'information</p>
+      </section><article id="maincontent"><h1>Auto-évaluation DevOps</h1>
+        
+    
+
+<p>Le sondage suivant s’appuie sur le <a href="https://cloud.google.com/devops/state-of-devops/">Rapport sur l’état du DevOps</a> publié chaque année depuis 2014 par DevOps Research and Assessment (DORA).
+Le programme de recherche DevOps, qui existe depuis six ans, a permis de valider plusieurs capacités techniques, de processus, de mesure et culturelles afin d’accélérer la livraison de logiciels et le rendement organisationnel.
+Les questions du sondage serviront à mesurer et à appuyer l’<a href="https://cloud.google.com/architecture/devops/devops-culture-transform">amélioration continue</a> de ces capacités à la DGIIT et à EDSC.
+Les équipes sont priées de répondre au sondage tous les 6 (six) à 12 (douze) mois pour mesurer la réussite de leurs activités.
+L’équipe de la stratégie des TI recommande aux équipes de répondre à toutes les capacités pour déterminer la situation initiale et mesurer les progrès accomplis.</p>
+
+<p>Faites l’<a href="https://sara-sabr.github.io/auto-evaluation-devops-self-assessment/#/?lang=fr">Auto-évaluation DevOps</a> ou continuez à lire pour plus d’informations.</p>
+
+<h2 id="en-quoi-consiste-loutil-dauto-évaluation-devops">En quoi consiste l’outil d’auto-évaluation DevOps</h2>
+
+<p>L’outil d’auto-évaluation DevOps est un plan d’action qui permet d’examiner soigneusement le potentiel d’auto-amélioration, de mettre au jour les épreuves et possibilités de l’équipe par le truchement des capacités, de discerner les priorités et de suivre l’évolution des progrès.
+Il est convivial et ses résultats sont crédibles.
+Il permet d’examiner le rendement de l’équipe et de l’orienter vers l’atteinte du résultat espéré.
+Il favorise l’accélération du rendement technologique dans l’organisation.
+Il prend la forme d’un sondage qui permettra de mesurer le rendement de l’équipe, de concevoir ses points forts et de donner des recommandations sur les points à améliorer.
+Aucune donnée n’est recueillie au cours du processus et la confidentialité des réponses est protégée.
+L’outil d’auto-évaluation DevOps révélera les domaines dans lesquels les compétences de votre équipe sont en deçà du niveau requis pour atteindre ses objectifs.
+Les insuffisances qui ne sont pas comblées ont tendance à s’aggraver, ce qui occasionne tôt ou tard l’effondrement des équipes.
+Les recommandations présentées à chaque section permettront à votre équipe de combler ses insuffisances pour ensuite progresser et atteindre les objectifs requis.
+Après avoir comparé les compétences définies dans la première évaluation avec les résultats obtenus dans la deuxième, vous verrez dans quelle mesure le rendement de votre équipe a progressé.
+Il est possible de répéter ce processus jusqu’à l’atteinte des résultats souhaités dans le rendement de l’équipe.</p>
+
+<h3 id="en-quoi-consistent-le-problème-et-la-solution">En quoi consistent le problème et la solution</h3>
+
+<p>Pour surmonter les épreuves propres au milieu opérationnel actuel, les organisations doivent être à même de livrer des logiciels avec rapidité et stabilité.
+Cette faculté contribuera à améliorer le rendement de la technologie et des organisations.</p>
+
+<h3 id="à-qui-sadresse-loutil">À qui s’adresse l’outil</h3>
+
+<p>Aux équipes de la DGIIT qui cherchent constamment à s’améliorer et à appuyer les initiatives d’amélioration de leurs homologues.</p>
+
+<h3 id="quel-est-lobjectif-de-loutil-dauto-évaluation">Quel est l’objectif de l’outil d’auto-évaluation</h3>
+
+<p>Après avoir analysé les réponses, les équipes de la TI dans l’organisation peuvent constater si cette dernière avance dans la bonne direction.
+L’outil d’évaluation DevOps permet de concevoir clairement les points forts et les besoins à combler, d’exposer le niveau actuel de maturité et de définir un plan d’action quant aux améliorations à apporter.
+Pour obtenir de meilleurs résultats, servez-vous de la trajectoire ci-dessous, propice à l’intégration et à la livraison continues :
+<img src="assets/images/assessment_process_improvement.png" alt="Graphique composé de 4 cercles qui montre le processus du cycle d'évaluation.
+Il y a 4 cercles reliés par une flèche allant dans le sens des aiguilles d'une montre.
+Les titres des cercles sont: haut &quot;Assess&quot;; droit &quot;Analyze&quot;; bas &quot;Implement&quot;; gauche &quot;Improve&quot;." style="display:block;margin-left:auto;margin-right:auto" /></p>
+
+<h2 id="processus-de-loutil-dauto-évaluation-devops">Processus de l’outil d’auto-évaluation DevOps</h2>
+
+<p>Voici les étapes de notre processus :</p>
+
+<ul>
+  <li>Donner suite à l’invitation à répondre à un sondage;</li>
+  <li>Choisir un thème d’autoévaluation;</li>
+  <li>Répondre au sondage sur la section choisie;</li>
+  <li>Obtenir une cote (débutant, intermédiaire, avancé);</li>
+  <li>Lire les recommandations sur les moyens d’amélioration;</li>
+  <li>Mettre en œuvre les recommandations;</li>
+  <li>Revenir au sondage et y répondre de nouveau pour constater les progrès réalisés.</li>
+</ul>
+
+<p><img src="assets/images/assessment_tool_process.png" alt="Un graphique avec 11 éléments démontrant le flux du processus d'évaluation.
+Il se développe de gauche à droite.
+Le premier élément est une icône d'enveloppe avec le texte &quot;Les équipes informatiques reçoivent un lien pour profiter de l'outil d'évaluation&quot; connecté à un enquêteur remplissant une icône d'enquête avec le texte &quot;Prise d'enquête&quot; qui est connecté à côté d'une icône de papier avec des coches représentée comme une enquête avec le texte &quot;Notation basée sur les réponses&quot;.
+L'icône de l'enquête est reliée à 3 cercles.
+Les titres des cercles sont les suivants : en haut &quot;Élevé 90-100%&quot;, qui est relié à l'icône d'encouragement avec le texte &quot;Votre équipe se porte bien ! Continuez comme ça !&quot;; au milieu &quot;Moyen 50-89%&quot; qui est relié à l'icône avec une boîte et deux flèches au-dessus avec le texte &quot;Votre équipe peut s'améliorer&quot; ; en bas : &quot;Faible 0-49%&quot; qui est relié à une icône avec deux cases avec un espace entre et une flèche vers le bas au-dessus de l'espace avec le texte &quot;Combler les lacunes de performance de votre équipe avec de nouvelles opportunités d'apprentissage&quot;.
+Les deux derniers cercles avec le titre &quot;Faible&quot; et &quot;Moyen&quot; avec les icônes suivantes sont connectés à l'icône avec le papier et la loupe dessus.
+Cette icône contient le texte &quot;Recommandations sur où et comment améliorer&quot;.
+À la fin, les trois cercles avec les icônes suivantes sont connectés à une icône de disquette avec le texte &quot;Enregistrer les résultats&quot;.
+" style="display:block;margin-left:auto;margin-right:auto" /></p>
+
+<h2 id="questions">Questions</h2>
+
+<p>Les questions ont trait à la recherche sur les utilisateurs, au développement, à la mise à l’essai, à l’automatisation, au déploiement, à la gestion et au suivi; toutes ces étapes interviennent dans le cycle de développement des produits.
+Le sondage comporte 11 sections; pour répondre à chacune d’elles, il faudra environ de 10 à 15 minutes.
+L’utilisateur peut se soumettre à l’évaluation de la section de son choix et obtenir les résultats sur-le-champ.
+Prenez note que l’équipe de la stratégie des TI recommande aux équipes de répondre à toutes les sections pour déterminer la situation initiale et mesurer les progrès accomplis.</p>
+
+<h3 id="types-de-questions">Types de questions</h3>
+
+<p><strong>Êtes-vous d’accord avec…</strong> [1-7]</p>
+
+<ol>
+  <li>Tout à fait en désaccord</li>
+  <li>.</li>
+  <li>.</li>
+  <li>Ni d’accord ni en désaccord</li>
+  <li>.</li>
+  <li>.</li>
+  <li>Tout à fait d’accord</li>
+</ol>
+
+<h3 id="cotation">Cotation</h3>
+
+<p>À partir de chaque section du sondage, vous obtiendrez une cote qui vous permettra de savoir où votre équipe et vous en êtes et où vous pouvez en être dans le parcours DevOps.</p>
+
+<p>Moyenne des questions « Êtes-vous d’accord avec… »</p>
+
+<ul>
+  <li>Basse : 1-3</li>
+  <li>Intermédiaire : 4-5</li>
+  <li>Élevée : 6-7</li>
+</ul>
+
+<p>Après avoir répondu aux questions, vous aurez accès sur-le-champ aux résultats de l’évaluation dans la page, suivis des recommandations.</p>
+
+<h3 id="recommandations">Recommandations</h3>
+
+<p>Pour atteindre les objectifs d’une coopération et d’une collaboration judicieuses et d’un code sans erreur, des recommandations sont présentées dans chaque section sur les moyens par lesquels améliorer la situation et les mesures à prendre.</p>
+
+      </article>
+    </main>
+    
+    
+<div class="container text-right">
+  <a class="text-muted" target="_blank"
+    href="https://github.com/sara-sabr/ITStrategy/tree/master/_pages/fr/auto-evaluation-devops.md">Voir cette page dans GitHub</a>
+</div><footer class="pt-4 my-md-5 pt-md-5 border-top">
+  <div class="container">
+    <ul class="list-inline">
+      <li class="list-inline-item">
+        <a class="text-muted"
+          href="/ITStrategy/contactez-nous.html">Contactez nous</a>
+      </li>
+      <li class="list-inline-item">
+        <a class="text-muted"
+          href="/ITStrategy/archives-fr.html">Archives</a>
+      </li><li class="list-inline-item">
+        <a class="text-muted" target="_blank"
+          href="https://014gc.sharepoint.com/sites/IITBStrategy">Sharepoint</a>
+      </li>
+
+      <li class="list-inline-item">
+        <a class="text-muted" target="_blank"
+          href="http://esdc.prv/fr/index.shtml">Intranet EDSC</a>
+      </li>
+      <li class="list-inline-item">
+        <a class="text-muted"
+          href="/ITStrategy/close-confidentialite.html">Clause de confidentialité</a>
+      </li></ul>
+    <!-- <p>Droit d’auteur © Sa Majesté la Reine du chef du Canada, représentée par le ministre de Emploi et Développement social Canada, 2019-2020</p> -->
+  </div>
+</footer>
+
+<script>
+    function selectLanguage(e){  
+      e = e || window.event;
+      var src;
+      if (! (e.target || e.srcElement) ){
+        src = e
+      }
+      else{
+        src = e.target || e.srcElement;
+      }
+
+      var selectedLanguage = src.innerText.trim()
+
+    
+      if (selectedLanguage === "English"){
+        localStorage.setItem(
+          "language", "English"
+        )
+
+        
+        if (src.attributes.hasOwnProperty("href") && src.attributes.href.value !== ""){
+            window.location.replace(
+                src.attributes.href.value
+            )
+        }
+        else {
+            window.location.replace(
+                "./home.html"
+            )
+
+        }
+      }
+
+      else if ( selectedLanguage === "Français" ){
+        localStorage.setItem(
+          "language", "Français"
+        )
+
+        if (src.attributes.hasOwnProperty("href") && src.attributes.href.value !== ""){
+            window.location.replace(
+                src.attributes.href.value
+            )
+        }
+        else {
+            window.location.replace(
+                "./accueil.html"
+            )
+
+        }
+    
+      }
+    }  
+</script>
+
+<script src="https://code.jquery.com/jquery-3.4.1.slim.js"
+  integrity="sha256-BTlTdQO9/fascB1drekrDVkaKd9PkwBymMlHOiG+qLI=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+  integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+  integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/highlight.min.js"></script>
+
+<!-- Font Awesome https://fontawesome.com/  https://use.fontawesome.com/releases/v5.11.2/js/all.js -->
+<script src="https://use.fontawesome.com/releases/v5.11.2/js/all.js"></script>
+
+<!-- DataTables -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.19/js/jquery.dataTables.min.js"
+  integrity="sha256-t5ZQTZsbQi8NxszC10CseKjJ5QeMw5NINtOXQrESGSU=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.19/js/dataTables.bootstrap4.min.js"
+  integrity="sha256-hJ44ymhBmRPJKIaKRf3DSX5uiFEZ9xB/qx8cNbJvIMU=" crossorigin="anonymous"></script><script>
+  $("table").addClass("table");
+  $("blockquote").addClass("blockquote");
+  hljs.initHighlightingOnLoad();
+
+
+  var divs = $("div div.highlight");
+  var i;
+  for (i = 0; i < divs.length; i++) {
+    divs[i].setAttribute("tabindex", "0");
+  }
+
+/** Inspiration/source for accessible cards: 
+https://inclusive-components.design/cards/ 
+Author: Heydon Pickering
+Twitter: https://twitter.com/heydonworks
+*/
+
+  const cards = document.querySelectorAll('.card');
+  cards.forEach(card => {
+      card.style.cursor = 'pointer';
+  })
+  Array.prototype.forEach.call(cards, card => {
+    //Source code from Heydon Pickering
+    let down, up, link = card.querySelector('h2 a');
+    card.onmousedown = () => down = +new Date();
+    card.onmouseup = () => {
+      up = +new Date();
+      if ((up - down) < 200) {
+        link.click();
+      }
+    }
+    //Add conditional styling: if JS disabled, not applied
+    card.onmouseover = () => {
+      card.style.border = "1px solid black";
+    }
+    card.onmouseout = () => {
+      card.style.border = "1px solid rgba(0,0,0,.125)";
+    }
+  });
+
+  // Fix for text wrapping in menu
+  $(document).ready(function () {
+    $(document.body).css('padding-top', $('#topnavbar').height() - 25);
+    $(window).resize(function () {
+      $(document.body).css('padding-top', $('#topnavbar').height() - 25);
+    });
+
+  });
+</script>
+    </div>
+
+  </body>
+
+</html>

@@ -1,0 +1,523 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en" dir="ltr">
+
+  <head><title>Implementing Product Management in the Federal Government - Information Technology Strategy Team</title><meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description"
+    content="In this blog, we continue from previous ones in extrapolating how product management can be contextualized and implemented in the federal government. We will...">
+
+  <!-- Google tag (gtag.js)  2023-02-01 NEW GOOGLE ANALYTICS 4 (migrating from Universal Analytics)-->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-VZ3JFL3LDQ"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-VZ3JFL3LDQ');
+  </script>
+
+  <link rel="stylesheet" href="/ITStrategy/assets/css/style.css">
+  <link rel="icon" type="image/ico" href="/ITStrategy/assets/images/favicon.ico">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/a11y-dark.min.css">
+
+  <!-- Google Fonts https://fonts.google.com/ -->
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:300,400,700&display=swap">
+
+  <!-- DataTables https://datatables.net/ -->
+  <link rel="stylesheet" type="text/css"
+    href="https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.19/css/dataTables.bootstrap4.min.css">
+
+  <!-- Mathjax Support -->
+  <script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@2/MathJax.js?config=TeX-MML-AM_CHTML">
+  </script>
+
+</head>
+
+
+  <body vocab="http://schema.org/" typeof="WebPage">
+
+    <script>
+    if(/MSIE \d|Trident.*rv:/.test(navigator.userAgent)) {
+      alert("We recommend to use Edge, Firefox and other modern browsers instead of Internet Explorer. We'll now open this website in Edge for an optimal experience.")  
+      window.location = 'microsoft-edge:' + window.location;
+      setTimeout(function() {
+        window.location = 'https://go.microsoft.com/fwlink/?linkid=2135547';
+      }, 500);
+    }
+  </script><header>
+  <a href="#maincontent" class="skiptocontent">Skip to main content</a>
+  <nav class="navbar navbar-expand-md navbar-light fixed-top bg-light" id="topnavbar">
+    <div class="container-fluid">
+    <a aria-label="Home" class="navbar-brand" href="/ITStrategy/home.html"><span class="fas fa-home" aria-hidden="true"></span></a>
+
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#Menu1" aria-controls="Menu1" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="custom-toggler-icon"><i class="fas fa-bars"></i></span>
+    </button>
+
+      <div class="collapse navbar-collapse" id="Menu1">
+      <!-- Menu -->
+      <ul class="navbar-nav ml-auto">
+            <li class="nav-item"><a class="nav-link" lang="en" hreflang="en" href="/ITStrategy/about-us.html">About us</a></li><!--Mission--><li class="nav-item dropdown">
+
+    <a class="nav-link dropdown-toggle" href="#" id=navbarDropdownVision role="button" data-toggle="dropdown"
+        aria-haspopup="true" aria-expanded="false">
+        Mission
+    </a>
+    <div class="dropdown-menu" aria-labelledby="navbarDropdownVision">
+        <a class="dropdown-item" lang="en" hreflang="en"
+            href="/ITStrategy/mandate.html">Mandate</a>
+        <a class="dropdown-item" lang="en" hreflang="en"
+            href="/ITStrategy/vision-medium-long-term.html">Information Technology Vision</a>
+        <a class="dropdown-item" lang="en" hreflang="en"
+            href="/ITStrategy/esdc-it-strategy.html">Our Approach to Strategy</a>
+        <a class="dropdown-item" lang="en" hreflang="en"
+            href="/ITStrategy/strategy-communications.html">Communications Strategy</a></div>
+</li>
+
+            <li class="nav-item"><a class="nav-link" lang="en" hreflang="en" href="/ITStrategy/strategies.html">Strategies</a></li>
+            <li class="nav-item"><a class="nav-link" lang="en" hreflang="en" href="/ITStrategy/initiatives.html">Initiatives</a></li>
+            <li class="nav-item"><a class="nav-link" lang="en" hreflang="en" href="/ITStrategy/presentations.html">Presentations</a></li>
+            <li class="nav-item"><a class="nav-link" lang="en" hreflang="en" href="/ITStrategy/resources.html">Resources</a></li>
+            <li class="nav-item"><a class="nav-link" lang="en" hreflang="en" href="/ITStrategy/blog-posts.html">Blog</a></li></ul>
+
+      <!-- Language picker -->
+      <ul class="navbar-nav float-right">
+            <li class="nav-item lang-select-container" >
+                <button href="/ITStrategy/2021/10/15/gestion-de-produit-partie-2.html" class= "lang-select" onclick="selectLanguage(this)">
+                  Français
+                </button>
+            </li></ul>
+    </div>  <!--Menu1-->
+    </div> <!--container-->
+  </nav>
+</header>
+
+
+    <div class="container">
+    <main class="container">
+      <section class="jumbotron d-print-none">
+        <p class="site-title">Information Technology Strategy Team</p>
+      </section><article id="maincontent"><div class="blog">
+    <nav>
+<div style="margin-top: 30px; display: flex; justify-content: space-between; flex-wrap: wrap;"><p class="nav-item" style="flex: 1 1 0; width: 45%; padding-left: 0.5em;"><a class="text-dark nav-link" title="User Engagement in Service Delivery" href="/ITStrategy/2021/09/16/user-engagement-in-service-delivery.html">&#8672;&nbsp;Previous blog</a></p>
+
+      <p class="nav-item" style="flex: 1 1 0; width: 45%; padding-right: 0.5em; text-align: right"><a class="text-dark nav-link" title="Micro-Acquisition Pilot: Status Update 2" href="/ITStrategy/2021/10/20/micro-acquisition-pilot-update2.html" rel="prev">Next blog&nbsp;&#8674;</a></p></div>
+</nav>
+
+
+    <h1>Implementing Product Management in the Federal Government</h1>
+    <div class="author">2021-10-15 - Written by Rémy Bernard, in collaboration with the IT Strategy team</div>
+
+    
+
+    
+        <p class="author font-italic">Last modified: 2021-10-15</p>
+    
+
+    <!-- markdownlint-disable MD033 -->
+<!-- the below cSpell statement says to ignore any text between HTML tags. e.g., it will ignore "th rowspan='2'" in this string: <th rowspan='2'> -->
+<!-- cSpell:ignoreRegExp /\<[^\>]+\>/ -->
+<!-- The img + em {} stylecheet selector is a hack to add caption to an image in markdown without using plugin: https://stackoverflow.com/questions/19331362/using-an-image-caption-in-markdown-jekyll -->
+
+<style>
+table, th, td {
+  border: 1px solid black;
+}
+
+th {
+  background-color: #ccccff;
+}
+
+img + em { display: inline-block; }
+</style>
+
+<p>In this blog, we <a href="/ITStrategy/2021/05/18/problems-of-project-based-funding.html">continue from previous ones</a> in extrapolating how product management can be contextualized and implemented in the federal government. We will tie this all back to the <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=31300">Policy on Results</a>.</p>
+
+<!--more-->
+
+<p>Note: This blog will link to internal ESDC documents, which are unfortunately only accessible within ESDC corporate network.</p>
+
+<p>The Policy on Results sets out the fundamental requirements for Canadian federal departmental accountability for performance information and evaluation.
+It’s what requires departments to produce their Departmental Results Framework (DRF) containing an inventory of <a href="https://dialogue/grp/WG6278300/SitePages/Performance%20Information%20Profiles.aspx">Programs Information Profiles (PIP)</a>.
+Two key pieces of information contained in a PIP are the outcome(s) and performance indicator(s) used for public reporting in the <a href="https://www.tbs-sct.gc.ca/ems-sgd/edb-bdd/index-eng.html#orgs/dept/128/infograph/results">GC Info Base</a>.</p>
+
+<p>If we want to know what “products” a particular federal department produces, the clues would be in its PIPs.
+One of ESDC’s main products, we claim, is benefits.
+Services like Employment Insurance, Pension, and Old Age Security help Canadians navigate the eligibility and adjudication processes to get those benefits.
+With the new <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603">Policy on Service and Digital</a>, these important services are intended to be delivered through digital means first (i.e. online).</p>
+
+<p>PIP indicators are more social economic in nature than software delivery indicators (e.g. % of CPP contributors receiving benefit payments, number of persons with disabilities with enhanced employability, number of beneficiaries receiving education saving grants). Because Programs’ activities have a more abstract and indirect influence on their strategic objectives, programs use Logic Models to illustrate this “clear line of sight” between necessary enablers (e.g. activities like information outreach) and strategic objectives (e.g. seniors having basic level of income)<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup>.</p>
+
+<p>This complexity that Programs have to deal with has increased due the new <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603">Policy on Service and Digital</a>, which intends to reflect citizen expectations by “digitizing” government business operations.</p>
+
+<p>While complex, the move towards digital service delivery also presents an opportunity by <a href="https://honeygolightly.medium.com/asking-the-ultimate-awkward-question-a26bbb34ec61">resetting policy, delivery, and evaluation</a>. With digital service delivery, Programs can more quickly obtain evidence to inform their improvements. This warrants us to adjust our planning methods by moving from advanced planning and rigid plan execution to one that rewards empirical cycle of trying, observing, and correcting<sup id="fnref:2" role="doc-noteref"><a href="#fn:2" class="footnote" rel="footnote">2</a></sup>.</p>
+
+<p><a href="/ITStrategy/assets/images/digital_feedback_loop.png" style="display: block">
+        <img src="/ITStrategy/assets/images/digital_feedback_loop.png" alt="This image depicts a feedback process loop. The image shows three icons: Policy Makers, Technology and Canadians. Between each icon there is an arrow showing a relationship as follows: Policy Makers must use Technology to implement their policies, Technology is then used to deliver services to Canadians, and after interacting with a service, Canadians provide their feedback to Policy Makers" />
+  </a>
+<small>Figure 1. Digital presents an opportunity to shorten the feedback loop between Policy Makers and Delivery</small></p>
+
+<p>More concretely, we mean doing smaller, more frequent changes.
+<a href="https://www.linkedin.com/pulse/time-say-goodbye-nicolas-m-chaillan/">Moving at the pace of relevance</a>.</p>
+
+<p>Digital service delivery means using software.
+However, the current DRF format has a gap: it treats software (i.e. IT) as an “Internal Service”.
+Although Internal Services are understood to be horizontal in nature, they can unfortunately be interpreted has a “back office function”<sup id="fnref:3" role="doc-noteref"><a href="#fn:3" class="footnote" rel="footnote">3</a></sup>.
+This disjoints “IT” too much from the Programs.
+We all feel this gap when Programs compete for IT’s attention and limited resources, currently only known to be done as <a href="/ITStrategy/2021/05/18/problems-of-project-based-funding.html">Gladiator-style project submissions</a> (or worst, under the table deals that eats up our precious staff’s time and is unseen by decision makers).</p>
+
+<p>Program Officials’ incentives are results. While CIOs’ and CFOs’ are about corporate integrity, including prioritizing over limited departmental resources.</p>
+
+<p><a href="/ITStrategy/assets/images/program_officials-cio-cfo_with_copyrights.png" style="display: block">
+        <img src="/ITStrategy/assets/images/program_officials-cio-cfo_with_copyrights.png" alt="This image is a three by three table showing the different perspectives that each of the Program Official, CFO, and CIO have of each other. The first row shows that the Program Official sees themselves as Captain Canada, they see the CFO as a bag of money and the CIO as a tortoise. The second row shows that the CFO sees the Program Official as someone who spends a lot of money (image is of a hand holding shopping bags, a credit card and dollar bills in the air), they see themselves as the dragons from Dragons Den, and they see the CIO as a cowboy. The third row shows that the CIO sees the Program Official as a figure head (image is of the queen), the CFO as somone who creates red tape and the CIO as Neo from the Matrix." />
+</a>
+<small>Figure 2. The relationships between Program Officials, the CFO, and the CIO<sup id="fnref:4" role="doc-noteref"><a href="#fn:4" class="footnote" rel="footnote">4</a></sup></small></p>
+
+<p>Because each officials are bound by a different set of rules (the Policies they are being held accountable to, like  <a href="/ITStrategy/2021/06/02/stats-digial-policy-instruments.html">the 411 requirements for CIOs</a>, their behaviours and perspectives of each other understandably differs.</p>
+
+<p>This conundrum can be understood by the typical iceberg visualization.</p>
+
+<p><a href="/ITStrategy/assets/images/iceberg_program_internalsrvs.png" style="display: block">
+        <img src="/ITStrategy/assets/images/iceberg_program_internalsrvs.png" alt="An iceberg is on the left, with its portion above the water surface saying 'Programs' and its portion under water saying 'Internal Services'. The portion saying 'Programs' points to the Policy on Results while the portion saying 'internal services' points to the mention 'Projects are used to compete for limited resources'. The 'internal services' also has an image associated to it saying that only 15% of IITB's A-Base budget is dedicated to projects." />
+</a>
+<small>Figure 3. Lots of stuff under the surface that Program Officials may not see (and don’t need to care about)</small></p>
+
+<p><strong>If, in their periodic program renewal activities, Programs do not seek sufficient funding to sustain their digital operations, it affects their results</strong>.
+And when TB funding requests are predictably answered with a reduced budget response, difficult prioritization decisions need to be made (e.g. number of employee laptops procured and maintained, labour costs to make changes to software systems).</p>
+
+<p>The current method to prioritize work is to bundle it as projects, and then compete these projects for the limited resources of the organization.
+This creates a lag for delivery.</p>
+
+<p>And to <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=31300">get results</a>, delivery matters.</p>
+
+<p>ESDC <a href="https://dialogue/grp/WG6278300/SitePages/Performance%20Information%20Profiles.aspx">counts 50 programs</a> grouped in 5 core responsibilities.
+For common IT services needed to deliver on those programs (e.g. software application development on the benefit payment system), the competition is <strong><em>fierce</em></strong>.
+Multiple projects collide for IT commitments.
+The bigger the projects, the further in the future the commitments are sought.
+IT’s internal capacity spends a great deal of time managing this overhead and dealing with the inevitable changes that a complex environment like Digital Transformation brings.</p>
+
+<p>If you’re being invited to three concurrent virtual meetings, all having 70+ participants, it is a symptom of the organization struggling to maneuver in this complexity.</p>
+
+<h2 id="towards-a-different-method-to-fund-prioritize-and-align-work-to-programs-agenda">Towards a different method to fund, prioritize, and align work to Programs’ agenda</h2>
+
+<p>Continuing to improve the resulting product that a project created requires sustainable sources of funds (e.g. to pay staff).
+Transitioning to product management post-project reduces management overhead and should incentivize Programs to seek sufficient funding in their program renewal to sustain their product’s life cycle, and strategically plan the improvements needed over a time horizon.</p>
+
+<p>The new Policy on Service and Digital <a href="https://gcconnex.gc.ca/discussion/view/72865810/dpsd-guide-1-0-for-integrated-planning-guide-pmsn-1-0-pour-le-plan-integre?language=en">integrated planning requirements</a> promotes this method of thinking (section 4.5 on identifying mission critical applications from their respective APM portfolio).</p>
+
+<p>Product Management<sup id="fnref:5" role="doc-noteref"><a href="#fn:5" class="footnote" rel="footnote">5</a></sup> seeks the following tactical changes:</p>
+
+<ol>
+  <li>Reduce funding lag</li>
+  <li>Budget portfolios of products (value stream teams)</li>
+  <li>Provide new assurances for investment decision makers</li>
+  <li>Adjust IT’s financial model</li>
+</ol>
+
+<p><strong><em>Reduce Funding Lag</em></strong></p>
+
+<p>In a product-based funding model, the sizes of the changes are purposefully kept small to avoid an investment being stalled in a planning stage for too long (promoting the <a href="https://014gc.sharepoint.com/sites/CCoE2-DevOpsCOE">adoption of DevOps</a>, <a href="https://sara-sabr.github.io/ITStrategy/open-first-strategy.html">sharing software components</a>, and <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32602">interoperability</a> between solutions).</p>
+
+<p>The Investment intake process changes to consider this new type of funding model: product-based.</p>
+
+<p>Criteria are established to guide investment decision makers on whether a particular investment proposal is ripe for this new funding model approach (similarly to block funding). Some of these criteria could include:</p>
+
+<ol>
+  <li>It is likely that the investment will remain a departmental priority for a minimum of three years<sup id="fnref:6" role="doc-noteref"><a href="#fn:6" class="footnote" rel="footnote">6</a></sup></li>
+  <li>It involves a solution that requires regular iterations until maturity, retirement, or replacement is achieved (i.e. its requirements are expected to change based on user feedback)</li>
+  <li>It can commit to deliver periodic business outcomes (in the form of production changes) that are tied to a Program’s performance indicator, typically using a cadence of less than 3 months<sup id="fnref:7" role="doc-noteref"><a href="#fn:7" class="footnote" rel="footnote">7</a></sup></li>
+  <li>Has cross-functional team(s) from both Business and IT, for the development <em>and</em> operation of the solution.</li>
+  <li>Has established a yearly Business <em>and</em> IT budget with sources of funds secured</li>
+</ol>
+
+<p>These criteria also serve as terms and conditions for this investment.
+Consequences of non-compliance (e.g. inability to keep the agreed schedule cadence) may result in losing the product-based funding.</p>
+
+<p>Investment intake classification will need to provide funding priority over a multi-year horizon so that the product team does not have to use its internal capacity to re-ask permission year over year for funding.
+The time horizon should map to existing authorities provided (e.g. Treasury Board submission approvals, departmental plans).
+An exit strategy should be produced for when the product-funding ends (addressing things like team member reallocation to projects, or to sustain other products).</p>
+
+<p><strong><em>Budget portfolios of products (Value stream teams)</em></strong></p>
+
+<p>Products are grouped into portfolios and managed by dedicated value stream teams.
+Teams are responsible for both the development and operation of the products.</p>
+
+<p>Budgeting is not done at the product level, it’s done at the team level (who will most likely manage more than one product in the portfolio).
+Budgeting is a joint Program Official and CIO agreement, enabled by clearly identifying the sources of funds that will sustain the value stream teams.
+The Budget may come from Program sources of funds (e.g. Pension Program) and the CIO’s A-Base budget (sourced from the GC Consolidated Revenue Fund).</p>
+
+<p>The team budget helps create boundaries for the Program Official to make difficult prioritization decisions.
+Decisions that essentially dictate focus for the value stream teams within the portfolio of products they manage.
+Should the budget need to be increased, corporate governance is needed (i.e. financial pressures at the departmental level).</p>
+
+<p><strong><em>Provide new assurances for investment decision makers</em></strong></p>
+
+<p><a href="https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Directive%20on%20Project%20Assurance.pdf">Project assurances</a> are used by the investment decision makers to assess, using evidence, a project’s adherence to policies and practices.
+This evidence currently takes the form of <a href="https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Standard%20on%20Project%20Assurance.pdf">project gating artefacts</a> (e.g. business case, project charter, project management plan, requirements document).</p>
+
+<p>A product-based funding model still has gates, but its process is different. Investment decision makers will need other kinds of assurances that Product Teams are using public funds in a responsible manner.</p>
+
+<p>A Product Lifecycle Process is cyclical. It has a start (creation) and an end (decommission), but its middle is a series of periodic continuous improvements.</p>
+
+<p>The proposed product-type assurance is mapped to four <a href="/ITStrategy/strategy-product-management.html#appendix-c---product-life-cycle-overview">Product Lifecycle Process steps</a>:</p>
+
+<ol>
+  <li><em>Gate 1 – Intake</em>: the artefacts used to justify the product-based funding model (e.g. multi-yearly budget costing, the value stream teams involved, sources of funds, agreed schedule cadence, <a href="/ITStrategy/strategy-product-management.html#appendix-a---product-architectural-boundaries">Architecture Boundaries</a>)</li>
+  <li><em>Gate 2 – Review</em>: a periodic cycle in a product-based model  to review the product’s value and enterprise alignment (e.g. involves a <a href="/ITStrategy/strategy-product-management.html#product-roadmap-as-the-investment-plan">Product’s outcome-based roadmap</a>, Yearly Budget Costing, Key Product Metrics focused on performance indicators change, <a href="/ITStrategy/strategy-product-management.html#appendix-a---product-architectural-boundaries">Architecture Boundaries</a>).</li>
+  <li><em>Gate 3 – Continuous Improvements</em>: the series of releases the product undertakes. It includes approvals to deploy, acceptance reports, and product workload metrics.
+    <ul>
+      <li><em>Gate 3 Updates</em>: during the continuous improvement step, Product teams perform periodic updates, such as bi-yearly, to corporate committees (e.g. investment board, enterprise architecture review board).</li>
+      <li><em>Gate 2 Reviews</em>: every X years, Product Teams are expected to go back to Gate 2 and perform product reviews. A review expects some changes (e.g. Architectural boundaries, product roadmap).</li>
+    </ul>
+  </li>
+  <li><em>Gate 4 – Decommission</em>: the end of life of the product.</li>
+</ol>
+
+<p>These gates represent assurance evidence only, and do not completely reflect the work that a Product team would do (such as <a href="https://014gc.sharepoint.com/sites/JobBankDataCentre/SitePages/In-depth-Analysis.aspx?OR=Teams-HL&amp;CT=1631903451640">evaluating a previous release</a> using data analytics to inform the product’s strategy and roadmap evolution).</p>
+
+<p><strong><em>Adjust IT’s financial model</em></strong></p>
+
+<p>IT’s financial model is somewhat different than Programs because work that an IT practitioner does is not necessary tied to a <a href="https://www.tpsgc-pwgsc.gc.ca/recgen/pceaf-gwcoa/2122/tdm-toc-eng.html">single authority or program</a> (or even to a single product!).
+Therefore, different methods are used to show accountability to parliament when IT expenses, such as staff labour, are used.</p>
+
+<p>Do you use timesheet codes every month?
+If yes, that is one of the reasons why.</p>
+
+<p>The current method we use to compute work is by project (different timesheet codes are created by projects, or by operational activity for maintenance).
+In a product-based funding model, we concern ourselves with the aggregated expenses on the life span of a product, and where the authorities for those expenses came from.
+This affects Financial Management Advisors (FMAs) work when performing attestations that Product Teams are consuming and reporting financial information correctly.</p>
+
+<p><a href="/ITStrategy/strategy-product-management.html#appendix-f---its-financial-model">IT’s financial model is adjusted as follows</a>:</p>
+
+<ol>
+  <li><em>Indirect costing</em>
+    <ul>
+      <li>Represents the Product Team’s multi-year budget (salary and non-salary).</li>
+      <li>The budget has allocations in terms of different timesheet codes (see direct costing). The Product’s roadmap informs the timesheet codes creation for each outcome.</li>
+      <li>Indirect costing also includes common and corporate services that a Product Team may consume (e.g. employee benefits, common cloud services, equipment like laptops).</li>
+    </ul>
+  </li>
+  <li><em>Direct costing</em>
+    <ul>
+      <li>Represents the cost that is unequivocally attributed to a single cost object: the product (comprised of labour work, infrastructure like SSC and Public Cloud subscriptions, and technical stack software licences)</li>
+    </ul>
+  </li>
+</ol>
+
+<p>Indirect and Direct costs are paid by different sources of funds (that need to be secured by a joint CIO and Program Official agreement).</p>
+
+<h2 id="towards-an-even-greater-ambition">Towards an even greater ambition</h2>
+
+<p>Expanding further the product management concept, we would seek to ensure that any investment touching a particular “product” (e.g. a Pension System) be considered as an investment using product-based funding.</p>
+
+<p>This would bring stability to the Pension System teams (including Program Areas) by having them commit to only one plan: their <em>product roadmap</em>.</p>
+
+<p>Any investments (e.g. projects) seeking to make changes to the Pension System would, in fact, seek to make changes to its product roadmap.
+Those projects would compete between themselves not on the availability of IT, <strong>but on which changes are needed NOW and which are needed LATER</strong>.
+It brings the conversation out of IT and into the Program areas, moving the prioritization exercise to a strategic and tangible one by breaking down what is needed into smaller, more manageable changes.</p>
+
+<p>This Product Roadmap would still require having a faster-than-usual cadence otherwise it risks creating a bottleneck to backlog changes. Further promoting smaller, less risky changes for IT to handle.</p>
+
+<h2 id="other-blogs-on-this-topic">Other blogs on this topic</h2>
+
+<ul>
+  <li><a href="/ITStrategy/2022/02/04/project-to-product.html">Transitioning to Product Management by following Job Bank</a></li>
+  <li><a href="/ITStrategy/2021/05/18/problems-of-project-based-funding.html">The Problems with Project-Based funding for IT organizations</a></li>
+  <li><a href="/ITStrategy/2020/10/27/cio-digital-transformation.html">CIOs and CFOs are essential in making digital transformation a reality</a></li>
+  <li><a href="/ITStrategy/2019/12/20/why-we-are-promoting-risks.html">We are inadvertently promoting risks in IT</a></li>
+</ul>
+
+<h2 id="notes">Notes</h2>
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1" role="doc-endnote">
+      <p>Logic Models have similarities with Investment Logic Maps, recommended to be used by our <a href="https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Directive%20on%20Benefits%20Management.pdf">Directive on Benefits Management</a> as a means to comply with the <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32593">Policy on Planning and Management of Investment</a>. <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:2" role="doc-endnote">
+      <p>Mark Schwartz, War &amp; Peace &amp; IT <a href="#fnref:2" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:3" role="doc-endnote">
+      <p>See <a href="https://www.gcpedia.gc.ca/wiki/Internal_Services_Portal">GCPedia Internal Services portal</a> <a href="#fnref:3" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:4" role="doc-endnote">
+      <p>Images with non-commercial licences taken from emojipng.com, pngegg.com, flyclipart.com, imgflip.com <a href="#fnref:4" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:5" role="doc-endnote">
+      <p>We’ve interviewed different federal departments and the industry to get a good enough grasp of what “product management” means. We can confidently say that there are no standard meaning. If two people saying they know what product management is talk to each other, they will hear different things. <a href="#fnref:5" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:6" role="doc-endnote">
+      <p>Different sources may be used: parliamentary budget, departmental plan, MAF, major events (e.g. pandemic crisis) <a href="#fnref:6" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:7" role="doc-endnote">
+      <p>While there is no standards, this number was used based on interviews with existing federal government teams that operate in a “product” fashion and industry articles on the subject (e.g. Gartner) <a href="#fnref:7" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+
+
+    <nav>
+<div style="margin-top: 30px; display: flex; justify-content: space-between; flex-wrap: wrap;"><p class="nav-item" style="flex: 1 1 0; width: 45%; padding-left: 0.5em;"><a class="text-dark nav-link" title="User Engagement in Service Delivery" href="/ITStrategy/2021/09/16/user-engagement-in-service-delivery.html">&#8672;&nbsp;Previous blog</a></p>
+
+      <p class="nav-item" style="flex: 1 1 0; width: 45%; padding-right: 0.5em; text-align: right"><a class="text-dark nav-link" title="Micro-Acquisition Pilot: Status Update 2" href="/ITStrategy/2021/10/20/micro-acquisition-pilot-update2.html" rel="prev">Next blog&nbsp;&#8674;</a></p></div>
+</nav>
+
+</div>
+
+      </article>
+    </main>
+    
+    
+<div class="container text-right">
+  <a class="text-muted" target="_blank"
+    href="https://github.com/sara-sabr/ITStrategy/tree/master/_posts/en/2021-10-15-product-management-part-2.md">View this page on GitHub</a>
+</div><footer class="pt-4 my-md-5 pt-md-5 border-top">
+  <div class="container">
+    <ul class="list-inline">
+      <li class="list-inline-item">
+        <a class="text-muted"
+          href="/ITStrategy/contact-us.html">Contact us</a>
+      </li>
+      <li class="list-inline-item">
+        <a class="text-muted"
+          href="/ITStrategy/archives.html">Archives</a>
+      </li><li class="list-inline-item">
+        <a class="text-muted" target="_blank"
+          href="https://014gc.sharepoint.com/sites/IITBStrategy">Sharepoint</a>
+      </li>
+
+      <li class="list-inline-item">
+        <a class="text-muted" target="_blank"
+          href="http://esdc.prv/en/index.shtml">ESDC Intranet</a>
+      </li>
+      <li class="list-inline-item">
+        <a class="text-muted"
+          href="/ITStrategy/privacy-disclaimer.html">Privacy Disclaimer</a>
+      </li></ul>
+    <!-- <p>Copyright © Her Majesty the Queen in Right of Canada, as represented by the Minister of Employment and Social Development Canada, 2019-2020.</p> -->
+  </div>
+</footer>
+
+<script>
+    function selectLanguage(e){  
+      e = e || window.event;
+      var src;
+      if (! (e.target || e.srcElement) ){
+        src = e
+      }
+      else{
+        src = e.target || e.srcElement;
+      }
+
+      var selectedLanguage = src.innerText.trim()
+
+    
+      if (selectedLanguage === "English"){
+        localStorage.setItem(
+          "language", "English"
+        )
+
+        
+        if (src.attributes.hasOwnProperty("href") && src.attributes.href.value !== ""){
+            window.location.replace(
+                src.attributes.href.value
+            )
+        }
+        else {
+            window.location.replace(
+                "./home.html"
+            )
+
+        }
+      }
+
+      else if ( selectedLanguage === "Français" ){
+        localStorage.setItem(
+          "language", "Français"
+        )
+
+        if (src.attributes.hasOwnProperty("href") && src.attributes.href.value !== ""){
+            window.location.replace(
+                src.attributes.href.value
+            )
+        }
+        else {
+            window.location.replace(
+                "./accueil.html"
+            )
+
+        }
+    
+      }
+    }  
+</script>
+
+<script src="https://code.jquery.com/jquery-3.4.1.slim.js"
+  integrity="sha256-BTlTdQO9/fascB1drekrDVkaKd9PkwBymMlHOiG+qLI=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+  integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+  integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/highlight.min.js"></script>
+
+<!-- Font Awesome https://fontawesome.com/  https://use.fontawesome.com/releases/v5.11.2/js/all.js -->
+<script src="https://use.fontawesome.com/releases/v5.11.2/js/all.js"></script>
+
+<!-- DataTables -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.19/js/jquery.dataTables.min.js"
+  integrity="sha256-t5ZQTZsbQi8NxszC10CseKjJ5QeMw5NINtOXQrESGSU=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.19/js/dataTables.bootstrap4.min.js"
+  integrity="sha256-hJ44ymhBmRPJKIaKRf3DSX5uiFEZ9xB/qx8cNbJvIMU=" crossorigin="anonymous"></script><script>
+  $("table").addClass("table");
+  $("blockquote").addClass("blockquote");
+  hljs.initHighlightingOnLoad();
+
+
+  var divs = $("div div.highlight");
+  var i;
+  for (i = 0; i < divs.length; i++) {
+    divs[i].setAttribute("tabindex", "0");
+  }
+
+/** Inspiration/source for accessible cards: 
+https://inclusive-components.design/cards/ 
+Author: Heydon Pickering
+Twitter: https://twitter.com/heydonworks
+*/
+
+  const cards = document.querySelectorAll('.card');
+  cards.forEach(card => {
+      card.style.cursor = 'pointer';
+  })
+  Array.prototype.forEach.call(cards, card => {
+    //Source code from Heydon Pickering
+    let down, up, link = card.querySelector('h2 a');
+    card.onmousedown = () => down = +new Date();
+    card.onmouseup = () => {
+      up = +new Date();
+      if ((up - down) < 200) {
+        link.click();
+      }
+    }
+    //Add conditional styling: if JS disabled, not applied
+    card.onmouseover = () => {
+      card.style.border = "1px solid black";
+    }
+    card.onmouseout = () => {
+      card.style.border = "1px solid rgba(0,0,0,.125)";
+    }
+  });
+
+  // Fix for text wrapping in menu
+  $(document).ready(function () {
+    $(document.body).css('padding-top', $('#topnavbar').height() - 25);
+    $(window).resize(function () {
+      $(document.body).css('padding-top', $('#topnavbar').height() - 25);
+    });
+
+  });
+</script>
+    </div>
+
+  </body>
+
+</html>

@@ -1,0 +1,408 @@
+<!DOCTYPE html>
+<html class="no-js" lang="fr" dir="ltr">
+
+  <head><title>Meilleure technologie grâce au micro-approvisionnement : première partie - Équipe de la Stratégie des Technologies de l'information</title><meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description"
+    content="Le gouvernement du Canada (GC) achète beaucoup de biens et de services. En 2016, les dépenses totales du GC en biens et services se sont élevées à environ 16...">
+
+  <!-- Google tag (gtag.js)  2023-02-01 NEW GOOGLE ANALYTICS 4 (migrating from Universal Analytics)-->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-VZ3JFL3LDQ"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-VZ3JFL3LDQ');
+  </script>
+
+  <link rel="stylesheet" href="/ITStrategy/assets/css/style.css">
+  <link rel="icon" type="image/ico" href="/ITStrategy/assets/images/favicon.ico">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/a11y-dark.min.css">
+
+  <!-- Google Fonts https://fonts.google.com/ -->
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:300,400,700&display=swap">
+
+  <!-- DataTables https://datatables.net/ -->
+  <link rel="stylesheet" type="text/css"
+    href="https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.19/css/dataTables.bootstrap4.min.css">
+
+  <!-- Mathjax Support -->
+  <script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@2/MathJax.js?config=TeX-MML-AM_CHTML">
+  </script>
+
+</head>
+
+
+  <body vocab="http://schema.org/" typeof="WebPage">
+
+    <script>
+    if(/MSIE \d|Trident.*rv:/.test(navigator.userAgent)) {
+      alert("Nous recommandons d'utiliser Edge, Firefox et autres navigateurs modernes au lieu d'Internet Explorer. Nous allons maintenant ouvrir ce site dans Edge pour une expérience optimale.")
+      window.location = 'microsoft-edge:' + window.location;
+      setTimeout(function() {
+        window.location = 'https://go.microsoft.com/fwlink/?linkid=2135547';
+      }, 500);
+    }
+  </script><header>
+  <a href="#maincontent" class="skiptocontent">Aller au contenu principal</a>
+  <nav class="navbar navbar-expand-md navbar-light fixed-top bg-light" id="topnavbar">
+    <div class="container-fluid">
+    <a aria-label="Home" class="navbar-brand" href="/ITStrategy/accueil.html"><span class="fas fa-home" aria-hidden="true"></span></a>
+
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#Menu1" aria-controls="Menu1" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="custom-toggler-icon"><i class="fas fa-bars"></i></span>
+    </button>
+
+      <div class="collapse navbar-collapse" id="Menu1">
+      <!-- Menu -->
+      <ul class="navbar-nav ml-auto">
+            <li class="nav-item"><a class="nav-link" lang="fr" hreflang="fr" href="/ITStrategy/a-propos-de-nous.html">À propos de nous</a></li><!--Mission--><li class="nav-item dropdown">
+
+    <a class="nav-link dropdown-toggle" href="#" id=navbarDropdownVision role="button" data-toggle="dropdown"
+        aria-haspopup="true" aria-expanded="false">
+        Mission
+    </a>
+    <div class="dropdown-menu" aria-labelledby="navbarDropdownVision">
+        <a class="dropdown-item" lang="fr" hreflang="fr"
+            href="/ITStrategy/mandat.html">Mandat</a>
+        <a class="dropdown-item" lang="fr" hreflang="fr"
+            href="/ITStrategy/vision-moyen-long-terme.html">Vision des technologies de l'information</a></div>
+</li>
+
+            <li class="nav-item"><a class="nav-link" lang="fr" hreflang="fr" href="/ITStrategy/strategies-fr.html">Stratégies</a></li>
+            <li class="nav-item"><a class="nav-link" lang="fr" hreflang="fr" href="/ITStrategy/initiatives-fr.html">Initiatives</a></li>
+            <li class="nav-item"><a class="nav-link" lang="fr" hreflang="fr" href="/ITStrategy/presentations-fr.html">Présentations</a></li>
+            <li class="nav-item"><a class="nav-link" lang="fr" hreflang="fr" href="/ITStrategy/ressources.html">Ressources</a></li>
+            <li class="nav-item"><a class="nav-link" lang="fr" hreflang="fr" href="/ITStrategy/nos-billets.html">Blogue</a></li></ul>
+
+      <!-- Language picker -->
+      <ul class="navbar-nav float-right">
+            <li class="nav-item lang-select-container" >
+                <button href="/ITStrategy/2020/08/12/better-tech-through-microprocurement-p1.html" class= "lang-select" onclick="selectLanguage(this)">
+                  English
+                </button>
+            </li></ul>
+    </div>  <!--Menu1-->
+    </div> <!--container-->
+  </nav>
+</header>
+
+
+    <div class="container">
+    <main class="container">
+      <section class="jumbotron d-print-none">
+        <p class="site-title">Équipe de la Stratégie des Technologies de l'information</p>
+      </section><article id="maincontent"><div class="blog">
+    <nav>
+<div style="margin-top: 30px; display: flex; justify-content: space-between; flex-wrap: wrap;"><p class="nav-item" style="flex: 1 1 0; width: 45%; padding-left: 0.5em;"><a class="text-dark nav-link" title="Nous encourageons par inadvertance les risques dans les TI" href="/ITStrategy/2019/12/20/pourquoi-nous-favorisons-les-risques.html">&#8672;&nbsp;Billet précédent</a></p>
+
+      <p class="nav-item" style="flex: 1 1 0; width: 45%; padding-right: 0.5em; text-align: right"><a class="text-dark nav-link" title="Les DPIs et DPFs sont essentiels pour faire de la transformation numérique une réalité" href="/ITStrategy/2020/10/27/transformation-numerique-dpi.html" rel="prev">Prochain billet&nbsp;&#8674;</a></p></div>
+</nav>
+
+
+    <h1>Meilleure technologie grâce au micro-approvisionnement : première partie</h1>
+    <div class="author">2020-08-12 - Écrit par Rachel Muston, en collaboration avec l’équipe de la stratégie TI et les experts en approvisionnement d’EDSC, du SCT et de SPAC, ainsi que les experts en logiciel libre de SNC</div>
+
+    
+
+    
+
+    <!--markdownlint-disable MD033-->
+<p>Il s’agit de la première partie d’une série en deux parties portant sur le micro-approvisionnement pour le développement numérique.
+Dans cette première publication, nous examinerons le contexte, le lien entre la transformation de la TI et l’approvisionnement, ainsi que la façon dont le micro-approvisionnement, en plus de nous aider à accélérer le déploiement, pourrait accroître l’adoption de logiciels libres au GC, améliorer la diversité dans la passation de marchés de TI au GC et aider les employés de TI du GC à acquérir de nouvelles compétences en mettant en place des outils et des pratiques modernes.</p>
+
+<hr />
+
+<p>Le gouvernement du Canada (GC) achète beaucoup de biens et de services.
+En 2016, le GC a dépensé environ 16 milliards de dollars en biens et services.
+Du point de vue de la TI, ces dépenses peuvent comprendre des articles coûteux comme de nouveaux centres de données et de nouvelles applications nationales qui coûtent des dizaines de millions de dollars, mais également des articles de faible valeur, comme le fait de payer quelqu’un pour construire un petit prototype en quelques jours, ou d’embaucher un consultant pour réaliser une analyse de l’écart.</p>
+
+<p>Afin de s’assurer que l’approvisionnement fonctionne bien à l’échelle du GC, les équipes d’approvisionnement travaillent sans relâche aux efforts de modernisation, y compris à l’élaboration d’un système d’approvisionnement électronique, à la mise en œuvre d’un <a href="https://www.tpsgc-pwgsc.gc.ca/app-acq/ma-bb/appagile-proagile-fra.html">approvisionnement agile</a>, de <a href="https://achatsetventes.gc.ca/donnees-sur-l-approvisionnement/appels-d-offres/PW-18-00828087">projets pilotes sur l’approvisionnement social</a> et de la <a href="https://www.tpsgc-pwgsc.gc.ca/app-acq/ma-bb/simpcont-simpcont-fra.html">simplification du libellé des contrats</a>.
+Fait intéressant, les approvisionnements de faible valeur ne semblent pas figurer dans la liste des priorités de modernisation des approvisionnements.
+Cela pourrait être dû au fait que ces approvisionnements présentent un faible risque et ne font généralement pas les manchettes.
+Toutefois, pour la même raison, ils offrent l’occasion parfaite d’expérimenter dans l’approvisionnement et la TI.</p>
+
+<p class="tab">
+Imaginez que vous gérez un produit de TI et qu'un membre de l'équipe remarque un bogue mineur dans l'une des composantes libres.
+Résoudre le bogue améliorerait l'utilisation, mais l'équipe est au maximum de sa capacité.
+Que se passerait-il si vous pouviez afficher une occasion de corriger ce bogue pour 2 000 $, choisir une personne pour faire le travail et recevoir le code corrigé et testé dans un délai de quelques jours?
+</p>
+
+<p>Pour le GC, les achats de faible valeur sont définis dans le <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/guide-des-approvisionnements/section/3/60">Guide des approvisionnements</a> de SPAC comme des contrats dont la valeur est de 25 000 $ ou moins pour des biens, ou de 40 000 $ ou moins pour des services.
+La majorité des contrats en biens et services octroyés par le GC porte sur des articles de faible valeur.
+Le SCT signale que, en 2016, 92 % des contrats de biens et services étaient de moins de 25 000 $.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th> </th>
+      <th><strong>Nombre total de contrats</strong></th>
+      <th><strong>Valeur totale (G$)</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Contrats de moins de 25 000 $</td>
+      <td>302 240</td>
+      <td>1,1 $</td>
+    </tr>
+    <tr>
+      <td>Contrats de plus de 25 000 $</td>
+      <td>25 426</td>
+      <td>14,8 $</td>
+    </tr>
+    <tr>
+      <td><strong>Total</strong></td>
+      <td><strong>327 666</strong></td>
+      <td><strong>15,9 $</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<p><em>Tableau : Dépenses contractuelles en 2016 au titre des biens et des services.
+Pour en savoir plus, consultez le <a href="https://www.canada.ca/fr/secretariat-conseil-tresor/organisation/rapports/donnees-marches/rapport-acquisitions-2016.html">Rapport sur les acquisitions de 2016</a>.</em></p>
+
+<p>Toutefois, comme l’indique le <a href="https://internal-red-tape-reduction-report.github.io">Rapport sur la réduction de la paperasse de 2020</a> [en anglais], le travail de mise en place des contrats de faible valeur au GC <a href="https://internal-red-tape-reduction-report.github.io/img/022-2.jpg">prend beaucoup de temps et comporte beaucoup de points de contact</a> [en anglais].
+Il y a là une véritable opportunité.
+Avec 15 semaines du début à la fin et huit jours de « temps travaillé », le taux d’efficacité (soit le pourcentage de temps consacré aux tâches par rapport au temps total consacré au volet de travail) n’est que de 11 % pour un contrat de faible valeur moyen au GC (selon les ministères qui ont participé à l’élaboration du rapport).
+En outre, cela nécessite un bon nombre de personnes.
+En moyenne, 7 personnes incluant celles des services d’approvisionnement, du secteur d’activité et des fournisseurs participent à un achat de faible valeur.
+Plus de personnes = plus d’attente.
+En moyenne, il y a 67 jours ouvrables pendant le processus d’achat de faible valeur où personne ne travaille sur le dossier.</p>
+
+<p>Les équipes d’approvisionnement du GC continuent de faire face à des problèmes de capacité.
+Le fait que les agents d’approvisionnement s’occupent de transactions de faible valeur ne constitue pas une bonne utilisation de leur expertise.
+Nous devons transférer la responsabilité de ces approvisionnements à faible risque aux secteurs d’activité et simplifier le processus.
+Dans son rapport <a href="https://www.gartner.com/en/procurement-operations/trends/procurement-in-2020?">Approvisionnement en 2020 et au-delà</a> [en anglais], Gartner recommande cinq changements concernant l’approvisionnement numérique.
+L’un d’eux consiste à retirer la responsabilité des achats de niveaux faible et moyen des équipes d’approvisionnement des entreprises afin qu’elles puissent se concentrer principalement sur les achats stratégiques, de grande valeur et à risque élevé.
+Pour développer la confiance des secteurs d’activité afin qu’ils assument cette responsabilité sans crainte, il faudrait, dans la mesure du possible, simplifier et automatiser le processus.
+La simplification des processus d’approvisionnement du GC est depuis longtemps considérée comme un besoin, y compris la recommandation formulée dans le Rapport sur la réduction de la paperasse de 2020 visant à établir un processus accéléré pour les marchés de services de moins de 10 000 $.</p>
+
+<p>L’approvisionnement au GC est régi par un ensemble complexe de politiques et de procédures visant à protéger le gouvernement et les fournisseurs.
+La bonne nouvelle, c’est qu’il existe une marge de manœuvre stratégique en matière d’approvisionnement pour les contrats de faible valeur.
+Dans le cadre d’un effort visant à explorer les enjeux importants et récurrents en matière d’approvisionnement fédéral, le Bureau de l’ombudsman de l’approvisionnement a publié, en 2019, un rapport sur les <a href="http://opo-boa.gc.ca/documents/faiblevaleur-dollarvalue-fra.pdf">contrats de faible valeur</a>.
+Dans ce rapport, on indique que « le cadre réglementaire et politique de la passation de marchés fédéraux donne aux organisations fédérales la souplesse nécessaire pour élaborer leur propre cadre régissant la passation de CFV ».
+Nos entretiens avec des personnes qui travaillent à la <a href="https://www.gcpedia.gc.ca/wiki/Procurement_Policy_Division,_Treasury_Board_of_Canada_Secretariat/Policy_Suite_Reset">réinitialisation de la politique d’acquisition</a> [en anglais] (lien interne du GC) au SCT ont également confirmé que rien dans les instruments de politique actuels n’empêche d’établir un processus simplifié pour les achats de faible valeur.</p>
+
+<p>Même si un processus simplifié d’approvisionnement de faible valeur serait avantageux pour le GC en général, il serait particulièrement utile pour la TI.
+La modernisation des TI dépend de la modernisation de l’approvisionnement.
+On ne peut avancer sans l’autre.
+Nous ne pouvons pas travailler selon une approche agile ou DevOps si les processus d’approvisionnement suivent encore un modèle en cascade.
+<a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/plan-strategique-operations-numerique-2018-2022.html">Le Plan stratégique des opérations numériques de 2018 à 2022</a> souligne ce qui suit : « Si la technologie moderne est un facteur essentiel à la mise en place d’un gouvernement numérique, celle-ci dépend tout autant de la modernisation du processus d’approvisionnement ».
+Dans le même ordre d’idées, l’approvisionnement peut créer un processus d’approvisionnement agile, mais si les TI suivent toujours un modèle en cascade, nous n’avançons pas.</p>
+
+<p>Nous devons travailler ensemble.</p>
+
+<p class="tab">
+Au lieu de l'exemple ci-dessus concernant la découverte et la correction d'un bogue, imaginez que vous avez besoin d'une petite solution TI.
+Vous trouvez une application libre qui répond à vos besoins, mais qui ne répond pas aux exigences du GC en matière d'accessibilité.
+Et si vous pouviez payer rapidement et facilement quelqu'un pour régler les problèmes d'accessibilité afin de pouvoir choisir cette solution libre et aller de l'avant sans attendre?
+Si cela existait, seriez-vous plus susceptible d'envisager d'utiliser des solutions libres?
+</p>
+
+<p>L’industrie privée effectue depuis un certain temps des achats de faible valeur de code, y compris des <a href="https://www.itworldcanada.com/article/bug-bounty-programs-growing-stronger/413203">initiatives de <em>bug bounty</em> (littéralement des chasses aux bogues</a> [en anglais].
+D’autres gouvernements se sont également penchés sur cette question.
+Le gouvernement de la Colombie-Britannique a connu beaucoup de succès avec le programme « Coder avec nous » <a href="https://github.com/bcgov/bcdevexchange">BCDevExchange</a> [en anglais].
+Depuis, la portée de ce programme a été élargie (jusqu’à 70 000 $ pour les contrats) et est devenue la plateforme <a href="https://digital.gov.bc.ca/marketplace">Digital Marketplace</a> [en anglais].</p>
+
+<p>Le gouvernement américain a mis en place un processus <a href="https://www.acquisition.gov/far/part-13">simplifié pour tous les micro-achats</a> [en anglais] qui, entre autres, encourage notamment les administrateurs généraux à déléguer les pouvoirs de micro-achat.
+De nombreux groupes au sein du gouvernement américain ont fait l’expérience de l’utilisation de ce processus dans le but d’acheter du code source libre, y compris le <a href="https://digital.gov/2020/04/24/experimenting-with-micropurchase-threshold/">IT Modernization CoE</a> [en anglais], le <a href="https://github.com/department-of-veterans-affairs/VA-Micropurchase-Repo">Ministère des Anciens Combattants</a> [en anglais], et <a href="https://github.com/18f/micropurchase-archive">18F</a> [en anglais].</p>
+
+<p>Le GC s’est également lancé timidement dans le micro-approvisionnement de code source libre avec le lancement en 2017 du projet pilote <a href="https://github.com/canada-ca/devex">Carrefour des programmeurs du GC</a> [en anglais] par le Bureau du Conseil privé (en partenariat avec le SCT et SPAC).
+Tous les contrats attribués par l’entremise de CarrefourProgGC étaient d’une valeur de 10 000 $ et moins et portaient uniquement sur des travaux virtuels et non classifiés (ce qui éliminait la nécessité d’une vérification de la sécurité chez le fournisseur).
+Le projet pilote CarrefourProgGC a permis de cerner un grand nombre de <a href="https://github.com/canada-ca/devex/issues/51">leçons apprises</a>, mais a fini par être mis hors ligne, car il n’incluait pas de processus administratifs simplifiés d’approvisionnement et il a été difficile de trouver un nouveau responsable après l’achèvement du projet pilote par le BCP.</p>
+
+<p>À ce stade-ci, il est important de préciser que nos enquêtes sur les micro-acquisitions n’ont pas pour but d’accroître les achats ou l’impartition des TI, mais plutôt d’effectuer les achats d’une manière différente.
+Avec le processus simplifié qui accompagne le micro-approvisionnement, vous obtenez plus rapidement ce dont vous avez besoin.</p>
+
+<p>Mais il ne s’agit pas seulement de vitesse.</p>
+
+<p>Lorsqu’il est possible de procéder à l’acquisition de code source libre au moyen du micro-approvisionnement, celui-ci fournit une méthode de soutien ponctuelle et pourrait, par conséquent, accroître l’utilisation de logiciels libres au GC (dont l’utilisation constitue une <a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html">norme numérique</a> et nous permet d’harmoniser nos processus avec ceux de la <a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/ameliorer-services-numeriques/chartedigital9.html">Charte des Nations numériques</a>, dont le Canada est signataire).</p>
+
+<p>Mais il y a également d’autres avantages.</p>
+
+<p>Le micro-approvisionnement de code source libre pourrait aider les employés des TI du GC à acquérir de nouvelles compétences.
+L’acquisition stratégique de code source libre peut permettre d’apporter des connaissances aux équipes de TI qu’elles n’ont pas actuellement.
+D’autres personnes seraient chargées de résoudre des problèmes pour nous et lorsqu’elles nous remettent le code, nous apprenons d’elles d’une manière très semblable au principe « former le formateur ».
+Cela nous permettrait de renforcer la capacité interne et d’intégrer des outils et des pratiques modernes au GC.
+En outre, les contributions aux projets libres du GC, ou aux projets libres dont le GC tire parti, ont le potentiel d’être utilisées comme outil de recrutement.</p>
+
+<p>Le micro-approvisionnement pourrait également améliorer la diversité des marchés des TI du GC.
+Les données (ic.gc.ca/eic/site/061.nsf/vwapj/SFGSME-EFCPME_2017_eng_public.pdf/$file/SFGSME-EFCPME_2017_eng_public.pdf) de l’<a href="https://www150.statcan.gc.ca/n1/daily-quotidien/181116/dq181116c-fra.htm">l’Enquête sur le financement et la croissance des petites et moyennes entreprises dans sa version de 2017</a> montrent que 95 % des petites et moyennes entreprises (PME) sondées n’ont pas vendu au gouvernement fédéral.
+Heureusement, le <a href="https://www.tpsgc-pwgsc.gc.ca/app-acq/pme-sme/index-fra.html">Bureau des petites et moyennes entreprises</a> à SPAC préconise et encourage la participation des PME à l’approvisionnement du GC (y compris la tenue de <a href="https://achatsetventes.gc.ca/calendrier-des-evenements">webinaires</a> à fréquence régulière pour aider les PME à s’y retrouver dans les divers processus d’approvisionnement).
+Toutefois, les processus d’approvisionnement du GC sont complexes et <a href="http://opo-boa.gc.ca/rapports-reports/2017-2018/index-fra.html">les fournisseurs ont déclaré</a> au Bureau de l’ombudsman de l’approvisionnement que les offres à commandes et les arrangements en matière d’approvisionnement sont « parfois fastidieuse, et il est difficile de répondre aux critères d’admissibilité.
+Ces outils semblent également favoriser de façon disproportionnée les fournisseurs de la région de la capitale nationale ».
+Bien que nous n’ayons rien contre les entreprises de la RCN, l’équité dans la chaîne d’approvisionnement est extrêmement importante, et la recherche montre que lorsque des personnes de provenance plus diversifiée s’expriment, les <a href="https://hbr.org/2013/12/how-diversity-can-drive-innovation">possibilités d’innovation sont plus grandes</a> [en anglais].
+Avec un processus d’approvisionnement simplifié, du travail non classifié pouvant être effectué de n’importe où et un engagement ciblé auprès de groupes de fournisseurs sous-représentés (p. ex. des entreprises dirigées par des personnes handicapées ainsi que des entreprises appartenant à des Autochtones, des noirs, des membres de la communauté LGBTQ+, et à des femmes), le micro-approvisionnement pourrait ouvrir l’accès à des entreprises en démarrage, à des pigistes numériques, à des étudiants en informatique et à de nouveaux diplômés qui, normalement, ne songeraient pas à soumissionner pour des marchés de TI du GC, ou à travailler pour le gouvernement.</p>
+
+<p>La mise en place du micro-approvisionnement pour le développement numérique pourrait aider le gouvernement à adopter des solutions modernes, permettre des déploiements plus rapides, accroître l’utilisation de code source libre par le GC, aider nos employés des TI à perfectionner leurs compétences et améliorer la diversité des achats du GC.</p>
+
+<p>Qu’est-ce qui nous en empêche? Vous le saurez dans la deuxième partie!</p>
+
+
+    <nav>
+<div style="margin-top: 30px; display: flex; justify-content: space-between; flex-wrap: wrap;"><p class="nav-item" style="flex: 1 1 0; width: 45%; padding-left: 0.5em;"><a class="text-dark nav-link" title="Nous encourageons par inadvertance les risques dans les TI" href="/ITStrategy/2019/12/20/pourquoi-nous-favorisons-les-risques.html">&#8672;&nbsp;Billet précédent</a></p>
+
+      <p class="nav-item" style="flex: 1 1 0; width: 45%; padding-right: 0.5em; text-align: right"><a class="text-dark nav-link" title="Les DPIs et DPFs sont essentiels pour faire de la transformation numérique une réalité" href="/ITStrategy/2020/10/27/transformation-numerique-dpi.html" rel="prev">Prochain billet&nbsp;&#8674;</a></p></div>
+</nav>
+
+</div>
+
+      </article>
+    </main>
+    
+    
+<div class="container text-right">
+  <a class="text-muted" target="_blank"
+    href="https://github.com/sara-sabr/ITStrategy/tree/master/_posts/fr/2020-08-18-meilleure-technologie-grace-au-micro-approvisionnement-partie-1.md">Voir cette page dans GitHub</a>
+</div><footer class="pt-4 my-md-5 pt-md-5 border-top">
+  <div class="container">
+    <ul class="list-inline">
+      <li class="list-inline-item">
+        <a class="text-muted"
+          href="/ITStrategy/contactez-nous.html">Contactez nous</a>
+      </li>
+      <li class="list-inline-item">
+        <a class="text-muted"
+          href="/ITStrategy/archives-fr.html">Archives</a>
+      </li><li class="list-inline-item">
+        <a class="text-muted" target="_blank"
+          href="https://014gc.sharepoint.com/sites/IITBStrategy">Sharepoint</a>
+      </li>
+
+      <li class="list-inline-item">
+        <a class="text-muted" target="_blank"
+          href="http://esdc.prv/fr/index.shtml">Intranet EDSC</a>
+      </li>
+      <li class="list-inline-item">
+        <a class="text-muted"
+          href="/ITStrategy/close-confidentialite.html">Clause de confidentialité</a>
+      </li></ul>
+    <!-- <p>Droit d’auteur © Sa Majesté la Reine du chef du Canada, représentée par le ministre de Emploi et Développement social Canada, 2019-2020</p> -->
+  </div>
+</footer>
+
+<script>
+    function selectLanguage(e){  
+      e = e || window.event;
+      var src;
+      if (! (e.target || e.srcElement) ){
+        src = e
+      }
+      else{
+        src = e.target || e.srcElement;
+      }
+
+      var selectedLanguage = src.innerText.trim()
+
+    
+      if (selectedLanguage === "English"){
+        localStorage.setItem(
+          "language", "English"
+        )
+
+        
+        if (src.attributes.hasOwnProperty("href") && src.attributes.href.value !== ""){
+            window.location.replace(
+                src.attributes.href.value
+            )
+        }
+        else {
+            window.location.replace(
+                "./home.html"
+            )
+
+        }
+      }
+
+      else if ( selectedLanguage === "Français" ){
+        localStorage.setItem(
+          "language", "Français"
+        )
+
+        if (src.attributes.hasOwnProperty("href") && src.attributes.href.value !== ""){
+            window.location.replace(
+                src.attributes.href.value
+            )
+        }
+        else {
+            window.location.replace(
+                "./accueil.html"
+            )
+
+        }
+    
+      }
+    }  
+</script>
+
+<script src="https://code.jquery.com/jquery-3.4.1.slim.js"
+  integrity="sha256-BTlTdQO9/fascB1drekrDVkaKd9PkwBymMlHOiG+qLI=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+  integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+  integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/highlight.min.js"></script>
+
+<!-- Font Awesome https://fontawesome.com/  https://use.fontawesome.com/releases/v5.11.2/js/all.js -->
+<script src="https://use.fontawesome.com/releases/v5.11.2/js/all.js"></script>
+
+<!-- DataTables -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.19/js/jquery.dataTables.min.js"
+  integrity="sha256-t5ZQTZsbQi8NxszC10CseKjJ5QeMw5NINtOXQrESGSU=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.19/js/dataTables.bootstrap4.min.js"
+  integrity="sha256-hJ44ymhBmRPJKIaKRf3DSX5uiFEZ9xB/qx8cNbJvIMU=" crossorigin="anonymous"></script><script>
+  $("table").addClass("table");
+  $("blockquote").addClass("blockquote");
+  hljs.initHighlightingOnLoad();
+
+
+  var divs = $("div div.highlight");
+  var i;
+  for (i = 0; i < divs.length; i++) {
+    divs[i].setAttribute("tabindex", "0");
+  }
+
+/** Inspiration/source for accessible cards: 
+https://inclusive-components.design/cards/ 
+Author: Heydon Pickering
+Twitter: https://twitter.com/heydonworks
+*/
+
+  const cards = document.querySelectorAll('.card');
+  cards.forEach(card => {
+      card.style.cursor = 'pointer';
+  })
+  Array.prototype.forEach.call(cards, card => {
+    //Source code from Heydon Pickering
+    let down, up, link = card.querySelector('h2 a');
+    card.onmousedown = () => down = +new Date();
+    card.onmouseup = () => {
+      up = +new Date();
+      if ((up - down) < 200) {
+        link.click();
+      }
+    }
+    //Add conditional styling: if JS disabled, not applied
+    card.onmouseover = () => {
+      card.style.border = "1px solid black";
+    }
+    card.onmouseout = () => {
+      card.style.border = "1px solid rgba(0,0,0,.125)";
+    }
+  });
+
+  // Fix for text wrapping in menu
+  $(document).ready(function () {
+    $(document.body).css('padding-top', $('#topnavbar').height() - 25);
+    $(window).resize(function () {
+      $(document.body).css('padding-top', $('#topnavbar').height() - 25);
+    });
+
+  });
+</script>
+    </div>
+
+  </body>
+
+</html>

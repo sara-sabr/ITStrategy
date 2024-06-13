@@ -1,0 +1,12 @@
+{
+    "https://hub.docker.com/editions/community/docker-ce-desktop-windowshttps://hub.docker.com/editions/community/docker-ce-desktop-windows": {
+        "initial_date": "2024-06-01",
+        "latest_date": "2024-06-12",
+        "broken": true
+    },
+    "http://www.oag-bvg.gc.ca/internet/English/parl_oag_201004_01_e_33714.html": {
+        "initial_date": "2024-06-11",
+        "latest_date": "2024-06-12",
+        "broken": false
+    }
+}

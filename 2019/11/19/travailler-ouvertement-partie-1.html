@@ -1,0 +1,455 @@
+<!DOCTYPE html>
+<html class="no-js" lang="fr" dir="ltr">
+
+  <head><title>Travailler ouvertement: Partie 1 - Équipe de la Stratégie des Technologies de l'information</title><meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description"
+    content="Cette série de billets de blogue explorera le concept de “Travailler ouvertement”.Dans ce premier billet, nous tenterons d’expliquer ce que cela signifie et ...">
+
+  <!-- Google tag (gtag.js)  2023-02-01 NEW GOOGLE ANALYTICS 4 (migrating from Universal Analytics)-->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-VZ3JFL3LDQ"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-VZ3JFL3LDQ');
+  </script>
+
+  <link rel="stylesheet" href="/ITStrategy/assets/css/style.css">
+  <link rel="icon" type="image/ico" href="/ITStrategy/assets/images/favicon.ico">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/a11y-dark.min.css">
+
+  <!-- Google Fonts https://fonts.google.com/ -->
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:300,400,700&display=swap">
+
+  <!-- DataTables https://datatables.net/ -->
+  <link rel="stylesheet" type="text/css"
+    href="https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.19/css/dataTables.bootstrap4.min.css">
+
+  <!-- Mathjax Support -->
+  <script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@2/MathJax.js?config=TeX-MML-AM_CHTML">
+  </script>
+
+</head>
+
+
+  <body vocab="http://schema.org/" typeof="WebPage">
+
+    <script>
+    if(/MSIE \d|Trident.*rv:/.test(navigator.userAgent)) {
+      alert("Nous recommandons d'utiliser Edge, Firefox et autres navigateurs modernes au lieu d'Internet Explorer. Nous allons maintenant ouvrir ce site dans Edge pour une expérience optimale.")
+      window.location = 'microsoft-edge:' + window.location;
+      setTimeout(function() {
+        window.location = 'https://go.microsoft.com/fwlink/?linkid=2135547';
+      }, 500);
+    }
+  </script><header>
+  <a href="#maincontent" class="skiptocontent">Aller au contenu principal</a>
+  <nav class="navbar navbar-expand-md navbar-light fixed-top bg-light" id="topnavbar">
+    <div class="container-fluid">
+    <a aria-label="Home" class="navbar-brand" href="/ITStrategy/accueil.html"><span class="fas fa-home" aria-hidden="true"></span></a>
+
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#Menu1" aria-controls="Menu1" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="custom-toggler-icon"><i class="fas fa-bars"></i></span>
+    </button>
+
+      <div class="collapse navbar-collapse" id="Menu1">
+      <!-- Menu -->
+      <ul class="navbar-nav ml-auto">
+            <li class="nav-item"><a class="nav-link" lang="fr" hreflang="fr" href="/ITStrategy/a-propos-de-nous.html">À propos de nous</a></li><!--Mission--><li class="nav-item dropdown">
+
+    <a class="nav-link dropdown-toggle" href="#" id=navbarDropdownVision role="button" data-toggle="dropdown"
+        aria-haspopup="true" aria-expanded="false">
+        Mission
+    </a>
+    <div class="dropdown-menu" aria-labelledby="navbarDropdownVision">
+        <a class="dropdown-item" lang="fr" hreflang="fr"
+            href="/ITStrategy/mandat.html">Mandat</a>
+        <a class="dropdown-item" lang="fr" hreflang="fr"
+            href="/ITStrategy/vision-moyen-long-terme.html">Vision des technologies de l'information</a></div>
+</li>
+
+            <li class="nav-item"><a class="nav-link" lang="fr" hreflang="fr" href="/ITStrategy/strategies-fr.html">Stratégies</a></li>
+            <li class="nav-item"><a class="nav-link" lang="fr" hreflang="fr" href="/ITStrategy/initiatives-fr.html">Initiatives</a></li>
+            <li class="nav-item"><a class="nav-link" lang="fr" hreflang="fr" href="/ITStrategy/presentations-fr.html">Présentations</a></li>
+            <li class="nav-item"><a class="nav-link" lang="fr" hreflang="fr" href="/ITStrategy/ressources.html">Ressources</a></li>
+            <li class="nav-item"><a class="nav-link" lang="fr" hreflang="fr" href="/ITStrategy/nos-billets.html">Blogue</a></li></ul>
+
+      <!-- Language picker -->
+      <ul class="navbar-nav float-right">
+            <li class="nav-item lang-select-container" >
+                <button href="/ITStrategy/2019/11/19/working-in-the-open-part-1.html" class= "lang-select" onclick="selectLanguage(this)">
+                  English
+                </button>
+            </li></ul>
+    </div>  <!--Menu1-->
+    </div> <!--container-->
+  </nav>
+</header>
+
+
+    <div class="container">
+    <main class="container">
+      <section class="jumbotron d-print-none">
+        <p class="site-title">Équipe de la Stratégie des Technologies de l'information</p>
+      </section><article id="maincontent"><div class="blog">
+    <nav>
+<div style="margin-top: 30px; display: flex; justify-content: space-between; flex-wrap: wrap;"><p class="nav-item" style="flex: 1 1 0; width: 45%; padding-left: 0.5em;"><a class="text-dark nav-link" title="Pourquoi modifier les billets" href="/ITStrategy/2019/11/12/pourquoi-modifier-billets.html">&#8672;&nbsp;Billet précédent</a></p>
+
+      <p class="nav-item" style="flex: 1 1 0; width: 45%; padding-right: 0.5em; text-align: right"><a class="text-dark nav-link" title="Nous encourageons par inadvertance les risques dans les TI" href="/ITStrategy/2019/12/20/pourquoi-nous-favorisons-les-risques.html" rel="prev">Prochain billet&nbsp;&#8674;</a></p></div>
+</nav>
+
+
+    <h1>Travailler ouvertement: Partie 1</h1>
+    <div class="author">2019-11-19 - Écrit par Guillaume Charest, en collaboration avec l'équipe de Stratégie TI</div>
+
+    
+
+    
+
+    <p>Cette série de billets de blogue explorera le concept de “Travailler ouvertement”.
+Dans ce premier billet, nous tenterons d’expliquer ce que cela signifie et pourquoi nous devrions faire des efforts conscients pour travailler au grand jour par défaut, que vous soyez un développeur de logiciel ou non.
+<!--more--></p>
+
+<p>Depuis plus de 40 ans, les <a href="https://www.linkedin.com/pulse/20130419164101-1893586-open-source-is-eating-the-software-world/">logiciels libres</a> ont <a href="https://www.forbes.com/sites/adrianbridgwater/2015/04/24/if-software-is-eating-the-world-then-open-source-will-chew-it-up-and-swallow/#142e68c13902">lentement</a> <a href="https://medium.com/@yusufhussain/software-is-eating-the-world-open-source-is-eating-software-how-do-we-fill-the-skills-gap-717e9e9c4f38">pris</a> le <a href="https://techcrunch.com/2019/01/12/how-open-source-software-took-over-the-world/">dessus</a> sur le <a href="https://developer.ibm.com/blogs/how-open-source-software-is-eating-the-world/">monde</a> et sont maintenant présents dans tous les aspects de votre vie, même si vous ne le réalisez pas.
+Ils ont réussi cet exploit non pas en s’imposant aux gens, mais en étant <a href="https://open.canada.ca/en/content/open-default-and-modern-easy-use-formats"><strong>ouverts par défaut</strong></a>.</p>
+
+<h2 id="ce-que-cela-signifie">Ce que cela signifie</h2>
+
+<p>Avant de se plonger trop rapidement dans le <code class="language-plaintext highlighter-rouge">Pourquoi devrais-je travailler ouvertement</code>, commençons par discuter de <code class="language-plaintext highlighter-rouge">Qu'est-ce que cela signifie</code>.
+Dans sa forme la plus élémentaire, le fait de travailler ouvertement signifie que votre espace de travail, ou une partie de celui-ci, est public et participatif. <sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup></p>
+
+<h3 id="public">Public</h3>
+
+<p>En effet, cela signifie que votre travail est visible pour tous, tant pour vos collègues des autres ministères que pour nos citoyennes et nos citoyens.
+Cela signifie également que d’autres gouvernements à travers le monde peuvent l’examiner et s’inspirer de votre excellent travail.</p>
+
+<p>Bien sûr, certaines nuances s’appliquent (voir le terme “inner source” en anglais) car tout le monde n’est pas nécessairement prêt à faire le grand saut et à tout ouvrir, même si ça devrait être notre comportement par défaut basé sur notre <a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32603#cla4.3">Politique sur les services et le numérique</a>.
+Si votre équipe se trouve dans cette situation, elle est alors encouragée à au moins ouvrir son espace de travail à l’ensemble de sa propre organisation. Et même à l’ensemble des ministères du Gouvernement du Canada pour commencer.</p>
+
+<h3 id="participatif">Participatif</h3>
+
+<p>Il est à noter que par cette définition, votre espace de travail est non seulement découvrable et accessible à tout le monde qui souhaite le visiter, mais qu’il est également configuré pour <strong>permettre et encourager la collaboration à votre travail en soit</strong>.
+Cela signifie de partager vos ébauches et vos travaux en cours, vos activités et tâches prévues, vos notes et, oui, votre code source.</p>
+
+<p>Il ne s’agit pas seulement de présenter à tous son travail et de partager le fait que vous faites “quelque chose”.
+Il faut effectivement présenter son travail de façon à ce que d’autres puissent le découvrir, mais aussi clairement communiquer votre intention de travailler avec toutes les parties intéressées à contribuer, lorsqu’elles le désireront.
+Cela veut également dire que n’importe qui peut venir consulter votre espace de travail de leur propre gré et commencer à proposer des améliorations à votre travail, pas seulement lorsque vous partagez votre écran lors d’une réunion hebdomadaire d’équipe.</p>
+
+<p>Une étude sur les réseaux professionnels éducatifs distribués<sup id="fnref:2" role="doc-noteref"><a href="#fn:2" class="footnote" rel="footnote">2</a></sup> met en évidence 5 pratiques clés pour le succès du travail ouvert:</p>
+
+<ul>
+  <li>Raconter au public et établir le contexte</li>
+  <li>Favoriser la contribution de la communauté</li>
+  <li>Prototypage rapide de façon public</li>
+  <li>Réflexion et documentation publiques</li>
+  <li>Création de produits de travail réutilisables</li>
+</ul>
+
+<p>Il s’agit d’un ensemble de conditions critiques qui permettent aux projets de logiciels libres de réunir des milliers de personnes qui ne se connaissent peut-être même pas et de contribuer ensemble pour le bien de tout le monde.</p>
+
+<h3 id="culturel">Culturel</h3>
+
+<p>Il s’agit d’une approche très différente de celle à laquelle la plupart des employés et des employées, tant du secteur public que du secteur privé, sont habitués.
+Normalement, les gens travaillent sur un document ou une partie d’un projet pendant un certain temps.
+Ensuite, le document sera examiné par un groupe restreint de personnes, soit parce qu’elles sont déjà connues de l’équipe, soit parce que c’est le processus établi.
+Des modifications seront ensuite apportées au document en fonction des commentaires reçus et des séries de révisions subséquentes seront effectuées jusqu’à ce qu’une approbation finale soit obtenue.
+Ensuite, d’autres changements seront apportés.
+Parce qu’un document n’est jamais parfait.</p>
+
+<p>Lorsque vous travaillez ouvertement, les rétroactions peuvent être soumises en direct, à mesure que le document ou le code source évolue.
+Vous contrôlez toujours les changements apportés à votre travail.
+Pourtant, vous acceptez que vous ne sachiez pas tout et que d’autres personnes puissent en savoir plus que vous sur un sujet.
+Et c’est tout à fait normal parce que <strong>c’est la réalité</strong>.
+Cela demande de l’humilité et un désir d’être inclusif, accessible et d’apprendre continuellement.</p>
+
+<h2 id="pourquoi-travailler-ouvertement">Pourquoi travailler ouvertement</h2>
+
+<p>C’est très bien tout ça, mais pourquoi devriez-vous, en tant que fonctionnaire, vous préoccuper de travailler ouvertement ?</p>
+
+<h3 id="découvrabilité">Découvrabilité</h3>
+
+<p>Nous sommes plus de 250 000 employées et employés au gouvernement du Canada.
+Certains ministères comptent plus de 25 000 personnes à leur emploi.
+Les réseaux partagés, les intranets et les différentes plates-formes de collaboration sont très souvent fermés par défaut.
+Travailler ouvertement permet de rendre votre travail découvrable.</p>
+
+<p>Certains documents peuvent être confidentiels et devraient être protégés lorsque c’est le cas.
+Mais les espaces de travail eux-mêmes devraient être ouverts par défaut afin que nous puissions collectivement partager notre travail avec nos collègues.</p>
+
+<p>Pourtant, si vous avez déjà essayé de collaborer avec d’autres ministères ou même avec le secteur privé, vous savez que c’est un cauchemar technique qui finit habituellement par se faire par le biais de courriels contenant des versions de documents gérées manuellement.
+C’est très inefficace, sujet à erreurs et parfois tout simplement irréaliste.</p>
+
+<p>Certains diront peut-être que travailler ouvertement risque de créer une surabondance d’information.
+Encore une fois, notez que travailler ouvertement ne veut pas dire de s’imposer aux autres.
+C’est laisser aux personnes intéressées par votre travail la chance de découvrir et d’intervenir quand elles sont prêtes à le faire.</p>
+
+<h3 id="réduction-du-dédoublement-du-travail">Réduction du dédoublement du travail</h3>
+
+<p>L’approche traditionnelle de planification et d’établissement de priorités à long terme vise à minimiser les risques d’investissement que les organisations doivent prendre pour maintenir leurs services pour leurs utilisateurs.</p>
+
+<p>Ainsi, les organisations mettront en place de grands processus pour recueillir les besoins et les initiatives de l’ensemble de leurs diverses équipes.
+Chaque direction générale aura sa propre série de collecte d’information, de filtrage et d’établissement de priorités afin de présenter les demandes de projets aux comités supérieurs.
+Ensuite, lorsque toute la planification en silo est enfin « terminée », l’organisation les transmettra à un comité de parties prenantes, habituellement des cadres supérieurs, pour passer en revue les propositions restantes.
+Multipliez ceci par autant de ministères et d’organismes qu’il y a dans le gouvernement d’un pays…</p>
+
+<p>Cela semble probablement être une bonne façon de gérer de très grandes initiatives et de mettre en lumière des efforts semblables, mais cela crée une autre série d’étapes pour les ministères et les équipes afin d’offrir de la valeur aux citoyennes et aux citoyens dans l’espoir d’éviter la duplication du travail.
+Il s’agit d’un processus très bureaucratique qui exige beaucoup de temps et de contrôle centralisé.
+Et nous sommes toujours confrontés à une grande incertitude, car la technologie évolue rapidement et les besoins réels de l’entreprise peuvent également se transformer entretemps.
+Lorsque nous aurons terminé d’exploiter l’information, de prioriser les investissements et de nous préparer à commencer le travail, le contexte aura probablement déjà changé.
+(Nous plongerons dans ce dernier sujet dans une série différente de billets de blogue liés à la gestion de projet par rapport à la gestion de produit)</p>
+
+<p>En travaillant ouvertement par défaut, en publiant notre travail sous licence libre et en faisant la promotion de sa réutilisation dans l’ensemble du gouvernement, nous pourrions contribuer à accroître l’adoption de solutions déjà utilisées et en cours de développement entre les ministères.
+Sans la rigidité et les surcharges de travail requises par un organisme central, mais <strong>tout en respectant nos objectifs d’un gouvernement moderne et numérique</strong>.
+Parce qu’en fin de compte, nous devrions tous nous orienter vers les <a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html">Normes numériques</a>.</p>
+
+<p>En réalité, cela pourrait même créer des possibilités de collaboration naturelle avec d’autres parties intéressées comme les gouvernements provinciaux et municipaux et même le secteur privé, sans exiger de protocole d’entente ou de contrat.</p>
+
+<h3 id="économies-déchelle">Économies d’échelle</h3>
+
+<p>Dans une organisation où la reddition de comptes est essentielle, comme le gouvernement, nous avons tendance à accroître la surveillance et les moyens de contrôle des dépenses dans chaque ministère.
+C’est une façon responsable de gérer nos activités et nous devrions nous assurer que tous les dollars dépensés augmentent la valeur pour les citoyens.</p>
+
+<p>Mais en examinant notre travail collectif à travers des éléments individuels et en décomposant le travail en silos, nous perdons parfois de vue l’ensemble de la situation.</p>
+
+<p>Les développeurs et les développeuses de logiciels ont tendance à décomposer les problèmes en petites parties programmables.
+Ceux et celles qui sont plus expérimentés essaient de rendre ces pièces réutilisables.
+C’est là que la magie opère si vous travaillez ouvertement.</p>
+
+<p>Un logiciel que vous avez développé pour accomplir correctement une tâche est un bien immatériel.
+Ce n’est pas physique.
+Et en tant que tel, n’importe qui pourrait bénéficier d’y avoir accès.
+En le mettant à la disposition des autres, vous venez d’accroître la valeur de cette solution pour le reste du gouvernement (et, en fait, pour le monde entier).</p>
+
+<p>Mais, plus important encore, vous avez créé l’occasion pour les autres de venir travailler avec vous.
+Ce faisant, vous avez élargi le nombre de personnes pouvant contribuer à votre travail au-delà des limites physiques de votre équipe.
+Dans le contexte gouvernemental, avec notre modèle de financement, cela devient extrêmement puissant.</p>
+
+<p>Ce gazouilli de Vivian Nobrega, porte-parole en faveur des logiciels libres au Secrétariat du Conseil du Trésor du Canada, est un excellent résumé de cette réalité (anglais):</p>
+
+<!--markdownlint-disable MD033-->
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The most practical sustainable solution in the [Westminster] Model is making all projects #opensource by default resulting in a decentralization of power over projects, and transitioning to a service-oriented funding model to ensure these projects remain non-legacy.#FWD50 </p>&mdash; Vivian Nobrega (@ShadeWyrm) November 8, 2019</blockquote>
+<!--markdownlint-enable MD033-->
+
+<p>Traduction libre:</p>
+
+<blockquote>
+  <p>La solution la plus pratique et la plus durable dans un modèle de gouvernance de type Westminster est de publier nos projets sous licences libres par défaut, ce qui entraîne une décentralisation du pouvoir sur ceux-ci et une transition vers un modèle de financement axé sur les services pour s’assurer que ces projets restent modernes et actuels.</p>
+</blockquote>
+
+<h3 id="rétroaction-rapide">Rétroaction rapide</h3>
+
+<p>Une autre bonne raison de travailler ouvertement dès le début de votre projet, c’est que vous donnez l’occasion aux gens de vous faire part de leurs commentaires sur le champ.
+L’utilisation du modèle d’examen traditionnel est bien, mais le fait que les intervenants travaillent simultanément dans un document en temps réel n’est pas de la science-fiction.
+Cela peut se faire aujourd’hui avec les outils et les services auxquels nous avons actuellement accès.</p>
+
+<p>L’idée ici n’est pas que les autres changent votre travail directement sans que vous vous en rendiez compte.
+Vous êtes toujours la personne responsable de celui-ci, qu’il s’agisse d’un document de politique ou de code source.
+En fait, il s’agit simplement de donner aux gens une chance de vous conseiller dès que possible si quelque chose peut être amélioré.
+Il existe des moyens de le faire de façon itérative et d’accroître votre capacité à fournir des services plus rapides et de meilleure qualité à vos utilisateurs.</p>
+
+<p>Nous reparlerons un peu plus en détail de ces outils et services dans un prochain article.</p>
+
+<h3 id="qualité-du-travail">Qualité du travail</h3>
+
+<p>Un phénomène intéressant a été observé par le Ministère de la Justice du Royaume-Uni (voir ce [billet en anglais]https://mojdigital.blog.gov.uk/2017/02/21/why-we-code-in-the-open/)).
+Il semblerait en effet que les gens ont une tendance à écrire du code de meilleure qualité lorsqu’ils savent que des personnes à l’extérieur de leur équipe auront l’opportunité de le consulter.
+Il ne s’agit pas ici d’établir une culture de surveillance!
+L’objectif est plutôt d’accroître la collaboration et la transparence.
+Et il semblerait que les humains ont une tendance à faire plus attention à ce qu’ils écrivent lorsqu’ils savent que des personnes à l’extérieur de leur équipe pourront consulter leur travail.</p>
+
+<h2 id="quand">Quand</h2>
+
+<p>Alors, disons que vous êtes maintenant convaincues et convaincus.
+Vous voulez commencer à travailler ouvertement.
+Quand devriez-vous commencer?</p>
+
+<p>Aussitôt que possible!
+Maintenant!
+Ouvrez votre espace de travail, au moins à votre propre organisation.
+Commencez à vous familiariser avec l’idée que tous vos brouillons seront disponibles pour que vos collègues les consultent et commencent à travailler avec vous.</p>
+
+<p>Bien entendu, travailler ouvertement ne veut pas dire de commencer à partager des données confidentielles de nos citoyens, mais de plutôt partager <strong>notre façon</strong> de travailler.
+Le droit à la vie privée est critique pour tout le monde nous avons un devoir d’être sécure par défaut.
+Mais le concept d’ouverture n’est pas à l’opposé de la sécurité et de la vie privée et nous explorerons comment arriver à répondre à ces objectifs dans un prochain article.</p>
+
+<h2 id="références">Références</h2>
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1" role="doc-endnote">
+      <p>Mozilla Wiki. “Working Open”. Mozilla Wiki, 10 Nov. 2019, <a href="https://wiki.mozilla.org/Working_open">https://wiki.mozilla.org/Working_open</a>. <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:2" role="doc-endnote">
+      <p>Rafi Santo, Dixie Ching, Kylie Peppler, Christopher Hoadley. “Working in the Open: lessons from open source on building innovation networks in education”. Emerald Insight, 10 Nov. 2019, <a href="https://www.emerald.com/insight/content/doi/10.1108/OTH-05-2016-0025/full/html">https://www.emerald.com/insight/content/doi/10.1108/OTH-05-2016-0025/full/html</a>. <a href="#fnref:2" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+
+
+    <nav>
+<div style="margin-top: 30px; display: flex; justify-content: space-between; flex-wrap: wrap;"><p class="nav-item" style="flex: 1 1 0; width: 45%; padding-left: 0.5em;"><a class="text-dark nav-link" title="Pourquoi modifier les billets" href="/ITStrategy/2019/11/12/pourquoi-modifier-billets.html">&#8672;&nbsp;Billet précédent</a></p>
+
+      <p class="nav-item" style="flex: 1 1 0; width: 45%; padding-right: 0.5em; text-align: right"><a class="text-dark nav-link" title="Nous encourageons par inadvertance les risques dans les TI" href="/ITStrategy/2019/12/20/pourquoi-nous-favorisons-les-risques.html" rel="prev">Prochain billet&nbsp;&#8674;</a></p></div>
+</nav>
+
+</div>
+
+      </article>
+    </main>
+    
+    
+<div class="container text-right">
+  <a class="text-muted" target="_blank"
+    href="https://github.com/sara-sabr/ITStrategy/tree/master/_posts/fr/2019-11-19-travailler-ouvertement-partie-1.md">Voir cette page dans GitHub</a>
+</div><footer class="pt-4 my-md-5 pt-md-5 border-top">
+  <div class="container">
+    <ul class="list-inline">
+      <li class="list-inline-item">
+        <a class="text-muted"
+          href="/ITStrategy/contactez-nous.html">Contactez nous</a>
+      </li>
+      <li class="list-inline-item">
+        <a class="text-muted"
+          href="/ITStrategy/archives-fr.html">Archives</a>
+      </li><li class="list-inline-item">
+        <a class="text-muted" target="_blank"
+          href="https://014gc.sharepoint.com/sites/IITBStrategy">Sharepoint</a>
+      </li>
+
+      <li class="list-inline-item">
+        <a class="text-muted" target="_blank"
+          href="http://esdc.prv/fr/index.shtml">Intranet EDSC</a>
+      </li>
+      <li class="list-inline-item">
+        <a class="text-muted"
+          href="/ITStrategy/close-confidentialite.html">Clause de confidentialité</a>
+      </li></ul>
+    <!-- <p>Droit d’auteur © Sa Majesté la Reine du chef du Canada, représentée par le ministre de Emploi et Développement social Canada, 2019-2020</p> -->
+  </div>
+</footer>
+
+<script>
+    function selectLanguage(e){  
+      e = e || window.event;
+      var src;
+      if (! (e.target || e.srcElement) ){
+        src = e
+      }
+      else{
+        src = e.target || e.srcElement;
+      }
+
+      var selectedLanguage = src.innerText.trim()
+
+    
+      if (selectedLanguage === "English"){
+        localStorage.setItem(
+          "language", "English"
+        )
+
+        
+        if (src.attributes.hasOwnProperty("href") && src.attributes.href.value !== ""){
+            window.location.replace(
+                src.attributes.href.value
+            )
+        }
+        else {
+            window.location.replace(
+                "./home.html"
+            )
+
+        }
+      }
+
+      else if ( selectedLanguage === "Français" ){
+        localStorage.setItem(
+          "language", "Français"
+        )
+
+        if (src.attributes.hasOwnProperty("href") && src.attributes.href.value !== ""){
+            window.location.replace(
+                src.attributes.href.value
+            )
+        }
+        else {
+            window.location.replace(
+                "./accueil.html"
+            )
+
+        }
+    
+      }
+    }  
+</script>
+
+<script src="https://code.jquery.com/jquery-3.4.1.slim.js"
+  integrity="sha256-BTlTdQO9/fascB1drekrDVkaKd9PkwBymMlHOiG+qLI=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+  integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+  integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/highlight.min.js"></script>
+
+<!-- Font Awesome https://fontawesome.com/  https://use.fontawesome.com/releases/v5.11.2/js/all.js -->
+<script src="https://use.fontawesome.com/releases/v5.11.2/js/all.js"></script>
+
+<!-- DataTables -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.19/js/jquery.dataTables.min.js"
+  integrity="sha256-t5ZQTZsbQi8NxszC10CseKjJ5QeMw5NINtOXQrESGSU=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.19/js/dataTables.bootstrap4.min.js"
+  integrity="sha256-hJ44ymhBmRPJKIaKRf3DSX5uiFEZ9xB/qx8cNbJvIMU=" crossorigin="anonymous"></script><script>
+  $("table").addClass("table");
+  $("blockquote").addClass("blockquote");
+  hljs.initHighlightingOnLoad();
+
+
+  var divs = $("div div.highlight");
+  var i;
+  for (i = 0; i < divs.length; i++) {
+    divs[i].setAttribute("tabindex", "0");
+  }
+
+/** Inspiration/source for accessible cards: 
+https://inclusive-components.design/cards/ 
+Author: Heydon Pickering
+Twitter: https://twitter.com/heydonworks
+*/
+
+  const cards = document.querySelectorAll('.card');
+  cards.forEach(card => {
+      card.style.cursor = 'pointer';
+  })
+  Array.prototype.forEach.call(cards, card => {
+    //Source code from Heydon Pickering
+    let down, up, link = card.querySelector('h2 a');
+    card.onmousedown = () => down = +new Date();
+    card.onmouseup = () => {
+      up = +new Date();
+      if ((up - down) < 200) {
+        link.click();
+      }
+    }
+    //Add conditional styling: if JS disabled, not applied
+    card.onmouseover = () => {
+      card.style.border = "1px solid black";
+    }
+    card.onmouseout = () => {
+      card.style.border = "1px solid rgba(0,0,0,.125)";
+    }
+  });
+
+  // Fix for text wrapping in menu
+  $(document).ready(function () {
+    $(document.body).css('padding-top', $('#topnavbar').height() - 25);
+    $(window).resize(function () {
+      $(document.body).css('padding-top', $('#topnavbar').height() - 25);
+    });
+
+  });
+</script>
+    </div>
+
+  </body>
+
+</html>

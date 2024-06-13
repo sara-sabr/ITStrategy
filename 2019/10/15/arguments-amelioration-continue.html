@@ -1,0 +1,479 @@
+<!DOCTYPE html>
+<html class="no-js" lang="fr" dir="ltr">
+
+  <head><title>Arguments en faveur de l'amélioration continue - Équipe de la Stratégie des Technologies de l'information</title><meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description"
+    content="Dans le livre “The DevOps Handbook”, les auteurs démontrent que les équipes devraient consacrer au moins 20 % de leur temps à la réduction de la dette techni...">
+
+  <!-- Google tag (gtag.js)  2023-02-01 NEW GOOGLE ANALYTICS 4 (migrating from Universal Analytics)-->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-VZ3JFL3LDQ"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-VZ3JFL3LDQ');
+  </script>
+
+  <link rel="stylesheet" href="/ITStrategy/assets/css/style.css">
+  <link rel="icon" type="image/ico" href="/ITStrategy/assets/images/favicon.ico">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/a11y-dark.min.css">
+
+  <!-- Google Fonts https://fonts.google.com/ -->
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:300,400,700&display=swap">
+
+  <!-- DataTables https://datatables.net/ -->
+  <link rel="stylesheet" type="text/css"
+    href="https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.19/css/dataTables.bootstrap4.min.css">
+
+  <!-- Mathjax Support -->
+  <script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@2/MathJax.js?config=TeX-MML-AM_CHTML">
+  </script>
+
+</head>
+
+
+  <body vocab="http://schema.org/" typeof="WebPage">
+
+    <script>
+    if(/MSIE \d|Trident.*rv:/.test(navigator.userAgent)) {
+      alert("Nous recommandons d'utiliser Edge, Firefox et autres navigateurs modernes au lieu d'Internet Explorer. Nous allons maintenant ouvrir ce site dans Edge pour une expérience optimale.")
+      window.location = 'microsoft-edge:' + window.location;
+      setTimeout(function() {
+        window.location = 'https://go.microsoft.com/fwlink/?linkid=2135547';
+      }, 500);
+    }
+  </script><header>
+  <a href="#maincontent" class="skiptocontent">Aller au contenu principal</a>
+  <nav class="navbar navbar-expand-md navbar-light fixed-top bg-light" id="topnavbar">
+    <div class="container-fluid">
+    <a aria-label="Home" class="navbar-brand" href="/ITStrategy/accueil.html"><span class="fas fa-home" aria-hidden="true"></span></a>
+
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#Menu1" aria-controls="Menu1" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="custom-toggler-icon"><i class="fas fa-bars"></i></span>
+    </button>
+
+      <div class="collapse navbar-collapse" id="Menu1">
+      <!-- Menu -->
+      <ul class="navbar-nav ml-auto">
+            <li class="nav-item"><a class="nav-link" lang="fr" hreflang="fr" href="/ITStrategy/a-propos-de-nous.html">À propos de nous</a></li><!--Mission--><li class="nav-item dropdown">
+
+    <a class="nav-link dropdown-toggle" href="#" id=navbarDropdownVision role="button" data-toggle="dropdown"
+        aria-haspopup="true" aria-expanded="false">
+        Mission
+    </a>
+    <div class="dropdown-menu" aria-labelledby="navbarDropdownVision">
+        <a class="dropdown-item" lang="fr" hreflang="fr"
+            href="/ITStrategy/mandat.html">Mandat</a>
+        <a class="dropdown-item" lang="fr" hreflang="fr"
+            href="/ITStrategy/vision-moyen-long-terme.html">Vision des technologies de l'information</a></div>
+</li>
+
+            <li class="nav-item"><a class="nav-link" lang="fr" hreflang="fr" href="/ITStrategy/strategies-fr.html">Stratégies</a></li>
+            <li class="nav-item"><a class="nav-link" lang="fr" hreflang="fr" href="/ITStrategy/initiatives-fr.html">Initiatives</a></li>
+            <li class="nav-item"><a class="nav-link" lang="fr" hreflang="fr" href="/ITStrategy/presentations-fr.html">Présentations</a></li>
+            <li class="nav-item"><a class="nav-link" lang="fr" hreflang="fr" href="/ITStrategy/ressources.html">Ressources</a></li>
+            <li class="nav-item"><a class="nav-link" lang="fr" hreflang="fr" href="/ITStrategy/nos-billets.html">Blogue</a></li></ul>
+
+      <!-- Language picker -->
+      <ul class="navbar-nav float-right">
+            <li class="nav-item lang-select-container" >
+                <button href="/ITStrategy/2019/10/15/case-continuous-improvement.html" class= "lang-select" onclick="selectLanguage(this)">
+                  English
+                </button>
+            </li></ul>
+    </div>  <!--Menu1-->
+    </div> <!--container-->
+  </nav>
+</header>
+
+
+    <div class="container">
+    <main class="container">
+      <section class="jumbotron d-print-none">
+        <p class="site-title">Équipe de la Stratégie des Technologies de l'information</p>
+      </section><article id="maincontent"><div class="blog">
+    <nav>
+<div style="margin-top: 30px; display: flex; justify-content: space-between; flex-wrap: wrap;"><p class="nav-item" style="flex: 1 1 0; width: 45%; padding-left: 0.5em;"><a class="text-dark nav-link" title="Qui nous sommes" href="/ITStrategy/2019/09/12/qui-nous-sommes.html">&#8672;&nbsp;Billet précédent</a></p>
+
+      <p class="nav-item" style="flex: 1 1 0; width: 45%; padding-right: 0.5em; text-align: right"><a class="text-dark nav-link" title="Pourquoi modifier les billets" href="/ITStrategy/2019/11/12/pourquoi-modifier-billets.html" rel="prev">Prochain billet&nbsp;&#8674;</a></p></div>
+</nav>
+
+
+    <h1>Arguments en faveur de l'amélioration continue</h1>
+    <div class="author">2019-10-15 - Écrit par Jayson McIntosh, en collaboration avec l'équipe de Stratégie TI</div>
+
+    
+
+    
+        <p class="author font-italic">Dernière modification: 2019-11-19</p>
+    
+
+    <p>Dans le livre “<a href="https://itrevolution.com/book/the-devops-handbook/">The DevOps Handbook</a>”, les auteurs démontrent que les équipes devraient consacrer au moins 20 % de leur temps à la réduction de la dette technique.</p>
+
+<p><em>Note : Traduction non-officielle de l’anglais ci-dessous :</em></p>
+
+<blockquote>
+  <p>L’accord [entre les propriétaires de produits et] l’ingénierie se déroule comme suit : La gestion des produits prend 20 % de la capacité de l’équipe dès le départ et la donne à l’ingénierie pour qu’elle la dépense comme bon lui semble.
+<!--more--></p>
+</blockquote>
+
+<blockquote>
+  <p>Ils pourrons l’utiliser pour réécrire, réarchitecter ou refactoriser des parties problématiques du code… tout ce qu’ils croient nécessaire pour éviter d’avoir à venir dire un jour à l’équipe : “ Nous devons arrêter et réécrire [tout notre code] “.
+Si vous êtes en très mauvaise posture aujourd’hui, vous pourriez avoir besoin de 30 % de ces ressources ou même plus.
+Cependant, je deviens nerveux quand je trouve des équipes qui pensent qu’elles peuvent s’en sortir avec beaucoup moins que 20 %.</p>
+</blockquote>
+
+<p>Je vais résumer cela en suggérant que toutes les équipes devraient consacrer au moins 20 % de leur temps à améliorer leur façon de travailler.
+Dans le cas de l’équipe avec laquelle je travaille, nous rédigeons des documents et réalisons des preuves de concept pour démontrer l’efficacité des idées que nous proposons.
+Un jour après le travail, je discutais de la modélisation de notre équipe en tant qu’équipe facilitatrice, tirée de “<a href="https://itrevolution.com/book/team-topologies/">Team Topologies</a>”, avec un collègue.
+Dans le livre, ils recommandent qu’une équipe facilitatrice passe du temps à aider d’autres équipes à intégrer de nouvelles technologies ou trouver de meilleures façons de travailler.
+Mon collègue m’a mis au défi sur notre capacité à nous vendre en tant qu’équipe d’apprentissage.
+Les gens sont occupés, pourquoi voudraient-ils se ralentir en consacrant du temps loin de leurs priorités pour s’améliorer?
+Comment vendriez-vous cela à une équipe qui travaille déjà à 120 % de sa capacité?</p>
+
+<p>Bon nombre d’entre nous connaissent déjà, grâce au “<a href="https://itrevolution.com/book/the-phoenix-project/">Phoenix Project</a>”, la justification anecdotique de l’engagement de consacrer du temps à l’amélioration de notre processus.
+Si une personne s’est vraiment passionnée pour le “Phoenix Project”, elle peut investir du temps pour en apprendre davantage sur la magie de DevOps dans des livres comme <a href="https://itrevolution.com/book/the-devops-handbook/">The DevOps Handbook</a> (ce que je vous suggère de faire).
+Cependant, si vous êtes dans une position où vous avez besoin de faire rapidement une analyse de rentabilisation de l’amélioration continue, comment s’y prendre?
+C’est ce que je vais essayer de faire ici.
+Présenter un argument succinct en utilisant des mathématiques simples pour démontrer la valeur de l’amélioration continue.</p>
+
+<h2 id="trop-long-pas-lu-tldr">Trop long; pas lu (TLDR)</h2>
+
+<p>Le “trop long; pas lu” de cet article est que “continue”, en termes plus formels, signifie la capitalisation.
+Ou, selon votre jargon préféré, exponentiel.
+Si vous tracez le graphique de sortie avec l’axe Y comme “unités produites” et X comme temps, alors l’équipe qui s’améliore continuellement augmentera son rendement de façon exponentielle.
+Et étant donné une valeur arbitrairement grande n (ou lorsque n approche l’infini) alors exponentielle battra toujours linéaire. Étant donné que nos équipes existent pour une période arbitrairement longue (n), les équipes qui s’améliorent continuellement seront plus productives qu’une équipe qui ne le fait pas.</p>
+
+<p>Si ça sonnait un peu mathématique ou jargon, on va l’expliquer plus en détail ci-dessous.</p>
+
+<h2 id="arguments-en-faveur-de-lamélioration-continue">Arguments en faveur de l’amélioration continue</h2>
+
+<p><em>Cette démonstration a été réalisée en utilisant le site fantastique, <a href="https://www.desmos.com/calculator">desmos</a>.</em></p>
+
+<p>Si nous traçons f(x) = x nous obtiendrons une ligne comme suit</p>
+
+<p><img src="/ITStrategy/assets/images/graphx.PNG" alt="Cette image est celle d'un graphique linéaire. Elle a un axe x allant de 0 à 6 et un axe y allant de 0 à 6. Il y a une ligne droite rouge sur le graphique qui commence au point 0,0 et va jusqu'au point x=6, y=6" /></p>
+
+<p>Nous définissons l’axe des y (l’axe vertical) comme étant l’unité totale de la valeur d’affaires produite, et l’axe des x comme étant l’axe du temps.
+La ligne représente alors le total des unités de la valeur d’affaires produites sur une certaine unité de temps.<br />
+Pour les besoins de cet exemple, disons que chaque augmentation de x est d’un mois.</p>
+
+<p>Cette ligne suppose que, semaine après semaine, l’équipe continue à faire son travail “comme d’habitude”, ou la fameuse approche “nous l’avons toujours fait comme ça”.
+Avec cette approche, l’équipe produira (en moyenne) les mêmes unités de valeur d’affaires chaque semaine.
+Si vous travaillez plus de 100 % cette semaine, vous le serez aussi la semaine prochaine.</p>
+
+<p>Quelle est l’alternative?
+L’amélioration continue.</p>
+
+<p>Si nous continuons à améliorer nos processus et nos outils semaine après semaine, nous nous améliorerons continuellement, ce qui nous permettra de produire plus de valeur d’affaires sur une période donnée.
+Ceci devrait nous donner une courbe exponentielle, qui ressemble à ceci</p>
+
+<!-- markdownlint-disable MD033 -->
+<p>f(x) = x<sup>2</sup>
+<!-- markdownlint-enable MD033 --></p>
+
+<p><img src="/ITStrategy/assets/images/drawgraphx2.PNG" alt="Cette image est un graphique linéaire représentant la fonction f(x) = x^2.
+Il a un axe X allant de 0 à 4 et un axe Y allant de 0 à 8.
+Il y a une ligne rouge courbe sur le graphique qui commence à (0,0) et monte exponentiellement jusqu'à (2,83, 8)" /></p>
+
+<p>La chose la plus évidente que nous remarquons est que la fonction exponentielle croît beaucoup plus vite.
+On peut toutefois exposer le fait qu’il y a une perte initiale de productivité si l’on passe du temps à s’améliorer plutôt qu’à <em>faire son travail</em>, alors nous devons le prendre en compte.
+Pour ce faire, nous devons soustraire une valeur de <em>f(x)</em> pour tenir compte de la perte de productivité.
+Pour chaque incrément dans le temps, alors, nous perdrons un certain pourcentage de notre temps.
+Où x représente le temps, ceci peut être écrit comme suit</p>
+
+<p>x * [un certain pourcentage de perte de productivité]</p>
+
+<p>Ou, pour être plus succinct, nous pouvons remplacer [un certain pourcentage de perte de productivité] par <em>l</em>.
+Alors nous aurons</p>
+
+<!-- markdownlint-disable MD037 -->
+<p>x * <em>l</em>, où <em>l</em> est le temps passé par jour à s’améliorer.
+<!-- markdownlint-enable MD037 --></p>
+
+<p>Avec cet ajout, nous avons</p>
+
+<!-- markdownlint-disable MD033 -->
+<p>f(x) = x<sup>2</sup> - (x*l)
+<!-- markdownlint-enable MD033 --></p>
+
+<p>Que se passe-t-il lorsque nous traçons ce graphique?
+Supposons que nous avons consacré 20 % de notre journée à l’amélioration continue.
+Et qu’Ensuite, nous perdons 20 % de notre productivité par mois.</p>
+
+<p><img src="/ITStrategy/assets/images/graphx2minusxl.PNG" alt="Cette image est un graphique linéaire représentant la fonction f(x) = x2 - (x*l) avec un axe X allant de -2 à 2 et un axe Y allant de 0 à 6.25.
+Il y a une ligne rouge courbe sur le graphique qui commence à (0,0) et augmente exponentiellement jusqu'à environ (2.25, 6.25)" /></p>
+
+<p>Remarquez en bas que la courbe s’aplatit légèrement.
+Cette baisse de productivité est toujours présente puisque x (le temps) augmente.
+Cependant, <a href="https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:exponential-growth-decay/x2f8bb11595b61c86:exponential-vs-linear-growth/v/exponential-vs-linear-growth">un exposant battra toujours une progression linéaire (anglais)</a>.
+La prochaine étape évidente serait alors de tracer un graphique de notre façon de travailler “telle quelle” par rapport à notre méthode d’amélioration continue, et de voir combien de temps il faudrait pour qu’une équipe en amélioration continue soit plus productive que l’équipe qui continue à travailler de la même façon, jour après jour.
+Auparavant, cependant, dans notre calcul précédent, nous utilisions x^2, qui est une courbe qui croît très rapidement, et jusqu’à présent, nous n’avons pas justifié notre choix de la valeur arbitraire de 2.
+Une autre façon d’écrire cela aurait pu être</p>
+
+<!-- markdownlint-disable MD033 -->
+<p>x<sup>2</sup> = x<sup>1+1</sup>
+<!-- markdownlint-enable MD033 --></p>
+
+<p>Lorsque nous parlons de points de pourcentage, nous calculons à l’aide de points décimaux.
+Par conséquent, 1 = 1,0 = 100 %.
+Par conséquent, comme nous l’avons écrit précédemment, nous affirmons que notre productivité augmente de 100 % par jour! Si quelqu’un a trouvé un moyen de le faire, nous aimerions avoir de vos nouvelles!
+Malheureusement, si vous vivez dans le royaume des simples mortels comme moi, une augmentation de 100 % de la productivité par jour est probablement impossible à atteindre.</p>
+
+<p>Nous pouvons réécrire notre fonction d’augmentation de la productivité comme suit</p>
+
+<!-- markdownlint-disable MD033 -->
+<p>f(x) = x<sup>1+[le volume d’augmentation de productivité que nous prévoyons par mois consacré à l’amélioration continue]</sup>
+<!-- markdownlint-enable MD033 --></p>
+
+<p>C’est très long à dire, donc si nous fixons [le volume d’augmentation de productivité que nous prévoyons par mois consacré à l’amélioration continue] = r, alors nous avons</p>
+
+<!-- markdownlint-disable MD033 -->
+<p>x<sup>2</sup> = x<sup>1+r</sup>
+<!-- markdownlint-enable MD033 --></p>
+
+<p>Où r est un certain pourcentage d’augmentation de la productivité.</p>
+
+<p>D’accord.
+On y est presque!
+Notre fonction de cartographie de la productivité d’une équipe en amélioration continue est la suivante</p>
+
+<!-- markdownlint-disable MD033 -->
+<p>f(x) = x<sup>1+r</sup> - (x*l)
+<!-- markdownlint-enable MD033 --></p>
+
+<ul>
+  <li>Où <em>r</em> est égal au taux d’amélioration</li>
+  <li>Et <em>l</em> est égal au volume de temps consacré à l’amélioration continue</li>
+</ul>
+
+<p>Ensuite, nous allons choisir quelques valeurs qui font du sens.
+Comme nous l’avons mentionné, dans le “DevOps Handbook”, ils recommandent de consacrer 20 % de votre temps à la réduction de la dette technique ou à l’amélioration des processus.
+Donc, pour <em>l</em>, nous choisirons 20 %, soit 0,2</p>
+
+<p>Maintenant, combien d’amélioration attendons-nous de 20 % de notre temps consacré à l’amélioration?
+En tant qu’employé du gouvernement, je sais que dans certains cas, ce retour peut être gargantuesque.
+Par exemple, l’<a href="https://e-estonia.com/how-save-annually-820-years-of-work/">Estonie affirme économiser 820 années de temps de travail annuellement grâce à l’utilisation de services numériques automatisés (anglais)</a>.
+Pour notre exemple, cependant, comme nous le verrons, le taux d’amélioration n’est pas très important.
+Vous finirez toujours par devenir plus productif si vous vous améliorez continuellement pendant assez longtemps.
+D’accord, alors, choisissons 10 %, ce qui équivaut à 0,1.
+Nous supposons donc que pour un investissement de temps de 20 %, vous en gagnerez au moins la moitié en efficacité.
+Conservateur, au mieux. Notre fonction devient alors</p>
+
+<!-- markdownlint-disable MD033 -->
+<p>f(x) = x<sup>1+0.1</sup> - (x*.2)</p>
+
+<p>f(x) = x<sup>1.1</sup> - (x*.2)
+<!-- markdownlint-enable MD033 --></p>
+
+<p>Et si nous traçons ce graphique, nous obtenons la courbe suivante</p>
+
+<p><img src="/ITStrategy/assets/images/fullfunction.PNG" alt="Cette image est un graphique linéaire représentant la fonction f(x) = x^(1.1) - (x*.2) avec un axe X allant de -5 à 25 et un axe Y allant de 0 à 30.
+Il y a une ligne rouge droite sur le graphique qui commence à (0,0) et augmente exponentiellement jusqu'à environ (25, 29.5). Deux lignes se croisent sur le (5.2, 5.2)" /></p>
+
+<p>Super!
+Quelle est la prochaine étape?
+Disons que nous comparons cela à une équipe qui ne s’améliore pas continuellement et qui continue de faire les choses au jour le jour, “comme elle les a toujours faites”.</p>
+
+<p><img src="/ITStrategy/assets/images/comparecurves1.PNG" alt="Cette image est un graphique linéaire représentant la fonction f(x) = x^(1.1) - (x*.2) par rapport à la fonction f(x) = x.
+Il y a un axe X allant de 0 à 15 et un axe Y allant de 0 à 15.
+Il y a une ligne rouge sur le graphique qui commence à (0,0) et monte exponentiellement jusqu'à environ (14, 16).
+Il y a une ligne bleue sur le graphique qui commence à (0,0) et va directement à (15,15)" /></p>
+
+<p>Nous pouvons voir que la ligne rouge, qui représente l’équipe qui s’améliore continuellement pendant 20 % de sa journée pour un petit rendement de 10 % de productivité, sera plus productive dans environ 6 mois (ou 6,192 mois, pour être exact).
+Même si vous réduisez de moitié les gains de productivité (à 5 %, ou 0,05), vous constaterez quand même qu’avant 39 mois, l’équipe qui s’améliore continuellement finira inévitablement par dépasser l’équipe qui ne le fait pas.</p>
+
+<p>Nous avons démontré que même si le compromis entre le temps investi et le gain potentiel est faible, si l’on améliore continuellement son équipe, avec le temps, elle deviendra plus productive que l’équipe qui ne le fait pas.</p>
+
+<p>Imaginez si elle avait commencé à s’améliorer continuellement il y a plusieurs <strong>années</strong>, pensez à la productivité qu’elle aurait maintenant!
+Ne faites pas la même erreur que nos prédécesseurs.
+Commencez à vous améliorer sans cesse dès maintenant!
+Vos futurs membres d’équipe, vos futurs patrons et votre futur vous-même vous remercieront.</p>
+
+<p>Pour satisfaire le but de cet article, on peut s’arrêter ici.
+Si vous souhaitez jouer avec quelques nombres présentés dans ce billet avec desmos, cliquez <a href="https://www.desmos.com/calculator/bfk9p5ho7f">ici</a>.
+Si vous êtes intéressés par de plus amples détails, ci-dessous, nous allons parler de la façon de décider du compromis optimal entre les gains de productivité et le temps investi.</p>
+
+<h2 id="la-fin">La fin</h2>
+
+<p>Merci de m’avoir écouté!
+C’était ma tentative de passer d’une démarche simple à une plus complexe pour tenter de définir plus formellement et rigoureusement la logique qui supporte l’engagement d’amélioration continue.
+Dans la première partie de ce document <a href="#arguments-en-faveur-de-lamélioration-continue">Arguments en faveur de l’amélioration continue</a>, j’espérais fournir une présentation succincte et facile à utiliser pour que les gens commencent à s’améliorer continuellement sans avoir à lire tous les livres… bien qu’il serait préférable qu’ils le fassent.
+Il suffit de se rappeler un peu de nos vieux livres de maths.
+Le prochain billet s’adressera aux lecteurs plus engagés qui souhaitent explorer plus en profondeur les résultats souhaités de l’amélioration continue et ce que nous devrions prendre en considération à cet effet.
+Ce billet de blogue a été un plaisir à écrire.</p>
+
+<p>Merci de votre lecture!</p>
+
+<p><em>Mis à jour le 2019-11-19: L’auteur principal de l’article a été ajouté.</em></p>
+
+<p><em>Mis à jour le 2019-11-13: La section Plongée plus profonde a été déplacée vers un futur article pour raccourcir la longueur de celui-ci et la conclusion a été adaptée pour mieux représenter cette nouvelle structure.</em></p>
+
+
+    <nav>
+<div style="margin-top: 30px; display: flex; justify-content: space-between; flex-wrap: wrap;"><p class="nav-item" style="flex: 1 1 0; width: 45%; padding-left: 0.5em;"><a class="text-dark nav-link" title="Qui nous sommes" href="/ITStrategy/2019/09/12/qui-nous-sommes.html">&#8672;&nbsp;Billet précédent</a></p>
+
+      <p class="nav-item" style="flex: 1 1 0; width: 45%; padding-right: 0.5em; text-align: right"><a class="text-dark nav-link" title="Pourquoi modifier les billets" href="/ITStrategy/2019/11/12/pourquoi-modifier-billets.html" rel="prev">Prochain billet&nbsp;&#8674;</a></p></div>
+</nav>
+
+</div>
+
+      </article>
+    </main>
+    
+    
+<div class="container text-right">
+  <a class="text-muted" target="_blank"
+    href="https://github.com/sara-sabr/ITStrategy/tree/master/_posts/fr/2019-10-15-arguments-amelioration-continue.md">Voir cette page dans GitHub</a>
+</div><footer class="pt-4 my-md-5 pt-md-5 border-top">
+  <div class="container">
+    <ul class="list-inline">
+      <li class="list-inline-item">
+        <a class="text-muted"
+          href="/ITStrategy/contactez-nous.html">Contactez nous</a>
+      </li>
+      <li class="list-inline-item">
+        <a class="text-muted"
+          href="/ITStrategy/archives-fr.html">Archives</a>
+      </li><li class="list-inline-item">
+        <a class="text-muted" target="_blank"
+          href="https://014gc.sharepoint.com/sites/IITBStrategy">Sharepoint</a>
+      </li>
+
+      <li class="list-inline-item">
+        <a class="text-muted" target="_blank"
+          href="http://esdc.prv/fr/index.shtml">Intranet EDSC</a>
+      </li>
+      <li class="list-inline-item">
+        <a class="text-muted"
+          href="/ITStrategy/close-confidentialite.html">Clause de confidentialité</a>
+      </li></ul>
+    <!-- <p>Droit d’auteur © Sa Majesté la Reine du chef du Canada, représentée par le ministre de Emploi et Développement social Canada, 2019-2020</p> -->
+  </div>
+</footer>
+
+<script>
+    function selectLanguage(e){  
+      e = e || window.event;
+      var src;
+      if (! (e.target || e.srcElement) ){
+        src = e
+      }
+      else{
+        src = e.target || e.srcElement;
+      }
+
+      var selectedLanguage = src.innerText.trim()
+
+    
+      if (selectedLanguage === "English"){
+        localStorage.setItem(
+          "language", "English"
+        )
+
+        
+        if (src.attributes.hasOwnProperty("href") && src.attributes.href.value !== ""){
+            window.location.replace(
+                src.attributes.href.value
+            )
+        }
+        else {
+            window.location.replace(
+                "./home.html"
+            )
+
+        }
+      }
+
+      else if ( selectedLanguage === "Français" ){
+        localStorage.setItem(
+          "language", "Français"
+        )
+
+        if (src.attributes.hasOwnProperty("href") && src.attributes.href.value !== ""){
+            window.location.replace(
+                src.attributes.href.value
+            )
+        }
+        else {
+            window.location.replace(
+                "./accueil.html"
+            )
+
+        }
+    
+      }
+    }  
+</script>
+
+<script src="https://code.jquery.com/jquery-3.4.1.slim.js"
+  integrity="sha256-BTlTdQO9/fascB1drekrDVkaKd9PkwBymMlHOiG+qLI=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+  integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+  integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/highlight.min.js"></script>
+
+<!-- Font Awesome https://fontawesome.com/  https://use.fontawesome.com/releases/v5.11.2/js/all.js -->
+<script src="https://use.fontawesome.com/releases/v5.11.2/js/all.js"></script>
+
+<!-- DataTables -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.19/js/jquery.dataTables.min.js"
+  integrity="sha256-t5ZQTZsbQi8NxszC10CseKjJ5QeMw5NINtOXQrESGSU=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.19/js/dataTables.bootstrap4.min.js"
+  integrity="sha256-hJ44ymhBmRPJKIaKRf3DSX5uiFEZ9xB/qx8cNbJvIMU=" crossorigin="anonymous"></script><script>
+  $("table").addClass("table");
+  $("blockquote").addClass("blockquote");
+  hljs.initHighlightingOnLoad();
+
+
+  var divs = $("div div.highlight");
+  var i;
+  for (i = 0; i < divs.length; i++) {
+    divs[i].setAttribute("tabindex", "0");
+  }
+
+/** Inspiration/source for accessible cards: 
+https://inclusive-components.design/cards/ 
+Author: Heydon Pickering
+Twitter: https://twitter.com/heydonworks
+*/
+
+  const cards = document.querySelectorAll('.card');
+  cards.forEach(card => {
+      card.style.cursor = 'pointer';
+  })
+  Array.prototype.forEach.call(cards, card => {
+    //Source code from Heydon Pickering
+    let down, up, link = card.querySelector('h2 a');
+    card.onmousedown = () => down = +new Date();
+    card.onmouseup = () => {
+      up = +new Date();
+      if ((up - down) < 200) {
+        link.click();
+      }
+    }
+    //Add conditional styling: if JS disabled, not applied
+    card.onmouseover = () => {
+      card.style.border = "1px solid black";
+    }
+    card.onmouseout = () => {
+      card.style.border = "1px solid rgba(0,0,0,.125)";
+    }
+  });
+
+  // Fix for text wrapping in menu
+  $(document).ready(function () {
+    $(document.body).css('padding-top', $('#topnavbar').height() - 25);
+    $(window).resize(function () {
+      $(document.body).css('padding-top', $('#topnavbar').height() - 25);
+    });
+
+  });
+</script>
+    </div>
+
+  </body>
+
+</html>

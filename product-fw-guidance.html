@@ -1,0 +1,843 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en" dir="ltr">
+
+  <head><title>Pilot IITB Guidance on Product Management - Information Technology Strategy Team</title><meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description"
+    content="Working in the open! Our work in progress, list of reference material and presentations.">
+
+  <!-- Google tag (gtag.js)  2023-02-01 NEW GOOGLE ANALYTICS 4 (migrating from Universal Analytics)-->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-VZ3JFL3LDQ"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-VZ3JFL3LDQ');
+  </script>
+
+  <link rel="stylesheet" href="/ITStrategy/assets/css/style.css">
+  <link rel="icon" type="image/ico" href="/ITStrategy/assets/images/favicon.ico">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/a11y-dark.min.css">
+
+  <!-- Google Fonts https://fonts.google.com/ -->
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:300,400,700&display=swap">
+
+  <!-- DataTables https://datatables.net/ -->
+  <link rel="stylesheet" type="text/css"
+    href="https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.19/css/dataTables.bootstrap4.min.css">
+
+  <!-- Mathjax Support -->
+  <script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@2/MathJax.js?config=TeX-MML-AM_CHTML">
+  </script>
+
+</head>
+
+
+  <body vocab="http://schema.org/" typeof="WebPage">
+
+    <script>
+    if(/MSIE \d|Trident.*rv:/.test(navigator.userAgent)) {
+      alert("We recommend to use Edge, Firefox and other modern browsers instead of Internet Explorer. We'll now open this website in Edge for an optimal experience.")  
+      window.location = 'microsoft-edge:' + window.location;
+      setTimeout(function() {
+        window.location = 'https://go.microsoft.com/fwlink/?linkid=2135547';
+      }, 500);
+    }
+  </script><header>
+  <a href="#maincontent" class="skiptocontent">Skip to main content</a>
+  <nav class="navbar navbar-expand-md navbar-light fixed-top bg-light" id="topnavbar">
+    <div class="container-fluid">
+    <a aria-label="Home" class="navbar-brand" href="/ITStrategy/home.html"><span class="fas fa-home" aria-hidden="true"></span></a>
+
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#Menu1" aria-controls="Menu1" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="custom-toggler-icon"><i class="fas fa-bars"></i></span>
+    </button>
+
+      <div class="collapse navbar-collapse" id="Menu1">
+      <!-- Menu -->
+      <ul class="navbar-nav ml-auto">
+            <li class="nav-item"><a class="nav-link" lang="en" hreflang="en" href="/ITStrategy/about-us.html">About us</a></li><!--Mission--><li class="nav-item dropdown">
+
+    <a class="nav-link dropdown-toggle" href="#" id=navbarDropdownVision role="button" data-toggle="dropdown"
+        aria-haspopup="true" aria-expanded="false">
+        Mission
+    </a>
+    <div class="dropdown-menu" aria-labelledby="navbarDropdownVision">
+        <a class="dropdown-item" lang="en" hreflang="en"
+            href="/ITStrategy/mandate.html">Mandate</a>
+        <a class="dropdown-item" lang="en" hreflang="en"
+            href="/ITStrategy/vision-medium-long-term.html">Information Technology Vision</a>
+        <a class="dropdown-item" lang="en" hreflang="en"
+            href="/ITStrategy/esdc-it-strategy.html">Our Approach to Strategy</a>
+        <a class="dropdown-item" lang="en" hreflang="en"
+            href="/ITStrategy/strategy-communications.html">Communications Strategy</a></div>
+</li>
+
+            <li class="nav-item"><a class="nav-link" lang="en" hreflang="en" href="/ITStrategy/strategies.html">Strategies</a></li>
+            <li class="nav-item"><a class="nav-link" lang="en" hreflang="en" href="/ITStrategy/initiatives.html">Initiatives</a></li>
+            <li class="nav-item"><a class="nav-link" lang="en" hreflang="en" href="/ITStrategy/presentations.html">Presentations</a></li>
+            <li class="nav-item"><a class="nav-link" lang="en" hreflang="en" href="/ITStrategy/resources.html">Resources</a></li>
+            <li class="nav-item"><a class="nav-link" lang="en" hreflang="en" href="/ITStrategy/blog-posts.html">Blog</a></li></ul>
+
+      <!-- Language picker -->
+      <ul class="navbar-nav float-right"></ul>
+    </div>  <!--Menu1-->
+    </div> <!--container-->
+  </nav>
+</header>
+
+
+    <div class="container">
+    <main class="container">
+      <section class="jumbotron d-print-none">
+        <p class="site-title">Information Technology Strategy Team</p>
+      </section><article id="maincontent"><h1>Pilot IITB Guidance on Product Management</h1>
+        
+    
+        <div class="version">
+        
+            Last modified: 2022-02-04
+        
+        
+        </div>
+    
+
+<!-- markdownlint-disable MD033 -->
+
+<div class="alert alert-info" style="text-align: center;">This is a <strong>DRAFT (v0.4)</strong> document</div>
+
+<div class="alert alert-warning">
+    <p align="center"><strong>DISCLAIMER</strong></p>
+    <p>
+This document <strong>does NOT</strong> attempt to explain all aspects of Product Management (such as vision setting, user research, and the different phases a product goes through in its life cycle).
+These are well documented already, such as on <a href="https://www.pmi.org/disciplined-agile/process/product-management">PMI.org</a> and <a href="https://community.pdma.org/knowledgehub/home">PDMA.org</a>.
+    </p>
+    <p>
+    Instead, this documents seeks to provide structure to ESDC Programs and IITB in the <strong>transition</strong> from project to product, <strong>within a Canadian federal government context</strong>.
+    In particular, the rationale and methods to <strong>cross-functional and cross-branch product teams</strong>.
+    </p>
+</div>
+
+<!-- markdownlint-disable MD001 -->
+<h5 id="table-of-content-">Table of Content <!-- omit in toc --></h5>
+<!-- markdownlint-enable MD001 -->
+<ul>
+  <li><a href="#introduction">Introduction</a>
+    <ul>
+      <li><a href="#document-purpose">Document Purpose</a></li>
+      <li><a href="#references">References</a></li>
+      <li><a href="#enquiries">Enquiries</a></li>
+    </ul>
+  </li>
+  <li><a href="#narrative">Narrative</a></li>
+  <li><a href="#guidance-on-specific-directive-elements">Guidance on Specific Directive Elements</a>
+    <ul>
+      <li><a href="#product-team-setup">Product Team Setup</a></li>
+      <li><a href="#roles-and-responsibilities">Roles and Responsibilities</a></li>
+      <li><a href="#oversight-and-reporting">Oversight and Reporting</a></li>
+      <li><a href="#consequences-of-non-compliance">Consequences of Non-Compliance</a></li>
+    </ul>
+  </li>
+  <li><a href="#governance">Governance</a>
+    <ul>
+      <li><a href="#governance-overview">Governance Overview</a></li>
+      <li><a href="#outcome-based-funding-of-multi-disciplinary-product-teams">Outcome-Based Funding of Multi-Disciplinary Product Teams</a></li>
+      <li><a href="#when-projects-are-used">When Projects Are Used</a></li>
+    </ul>
+  </li>
+  <li><a href="#role-of-enterprise-architecture-in-relation-to-product-management">Role of Enterprise Architecture in Relation to Product Management</a>
+    <ul>
+      <li><a href="#organizational-level-business-and-technology-roadmaps">Organizational-level business and technology roadmaps</a></li>
+      <li><a href="#architecture-services">Architecture services</a></li>
+      <li><a href="#socialtechnical-architectures">Socialtechnical Architectures</a></li>
+      <li><a href="#common-platforms-to-reduce-cognitive-loads-and-accelerate-service-delivery">Common platforms to reduce cognitive loads and accelerate service delivery</a></li>
+      <li><a href="#application-portfolio-management-apm">Application Portfolio Management (APM)</a></li>
+    </ul>
+  </li>
+  <li><a href="#phase-2-of-the-iitb-way-forward">Phase 2 of the IITB Way Forward</a></li>
+  <li><a href="#appendix-a---business-view-of-job-banks-family-of-products">Appendix A - Business View of Job Bank’s Family of Products</a></li>
+  <li><a href="#appendix-b---it-view-of-job-banks-family-of-products-of-products">Appendix B - IT View of Job Bank’s Family of Products of Products</a></li>
+  <li><a href="#appendix-c---definitions">Appendix C - Definitions</a></li>
+</ul>
+
+<h2 id="introduction">Introduction</h2>
+
+<h3 id="document-purpose">Document Purpose</h3>
+
+<p>To provide guidance in implementing the <a href="/ITStrategy/product-fw-directive.html">Pilot IITB Directive on Product Management</a> and its associated Standards.</p>
+
+<p>The Directive, Standard, and Procedures strive to be succinct. Any context, explications, and situational awareness for the reader has been moved to this document.</p>
+
+<h3 id="references">References</h3>
+
+<p>This document provides guidance on the following documents:</p>
+
+<ul>
+  <li><strong><a href="/ITStrategy/product-fw-directive.html">Pilot IITB Directive on Product Management</a></strong></li>
+  <li><strong><a href="/ITStrategy/product-fw-standard.html">Pilot IITB Standards on Product Management</a></strong></li>
+  <li><strong><a href="/ITStrategy/product-fw-procedures.html">Pilot IITB Procedures on Product Management</a></strong></li>
+</ul>
+
+<h3 id="enquiries">Enquiries</h3>
+
+<p>Please direct enquiries about this Pilot directive to the IITB IT Strategy team.</p>
+
+<h2 id="narrative">Narrative</h2>
+
+<p>This section provides context and describes the causal relationship between the elements of the Directive (rules to follow), its associated Standard (more detailed rules such as formats and specific information required), and their expected outcomes.
+Job Bank is used as an example.</p>
+
+<p>Employment and Social Development Canada (ESDC) provides multiples services via its <a href="https://dialogue/grp/WG6278300/SitePages/Performance%20Information%20Profiles.aspx">50 Programs</a> to <a href="https://www.canada.ca/en/employment-social-development.html">improve the standard of living and quality of life for all Canadians</a>.
+One of those Programs is Job Bank.</p>
+
+<p>Products can be tied to Service delivery, then to Programs the following way.</p>
+
+<figure>
+<a href="/ITStrategy/assets/images/product-service-mgt.png">
+        <img class="center" src="/ITStrategy/assets/images/product-service-mgt.png" alt="This image depicts a the relationship between product management and service management. The image shows two rectangles: one labeled 'Product mgt' with the text Managing internal complexities to upkeep product(s) necessary for service delivery; and the other labeled 'Service mgt' with the text Facilitates outcomes that clients want to achieve, without them having to manage specific costs and risks. There's an arrow pointing from the Product mgt rectangle to the Service mgt rectangle labeled 'Enables' and with the text Services are based on one or more products. This image was altered from © αβ2ϲ and © AXELOS Limited 2019." />
+  </a>
+    <figcaption>Figure 1. The Product - Service relationship</figcaption>
+</figure>
+
+<p>A service leverages products for its delivery. Managing the internal complexities to sustain these products AND how they affect the service level is where product management fits.
+Moving to digital means some of those products will be exposed to service consumer (e.g. a website).</p>
+
+<p>The words “Job Bank” can actually be understood to mean three separate things:</p>
+
+<ul>
+  <li>It’s a Program</li>
+  <li>It’s a free Service to job seekers and employers, ultimately measured using the Program’s <a href="https://dialogue/grp/WG6278300/Program Inventory/Forms/AllItems.aspx?RootFolder=/grp/WG6278300/Program%20Inventory/Job%20Bank&amp;FolderCTID=0x012000B9ED43B8F503194E9CF21B1ED35BB73E&amp;View=%7b12E60D67-CC97-44CE-BBCA-B6E4EE0365E5%7d">Performance Information Profile (PIP)</a></li>
+  <li>And it’s a <a href="https://014gc.sharepoint.com/sites/JobBankProductManagement/SitePages/products.aspx">family of products</a>, most notably ten of them making up its website exposed and consumed by clients as part of Job Bank’s service delivery (See <a href="#appendix-a---business-view-of-job-banks-family-of-products">Appendix A</a> and <a href="#appenix-b---it-view-of-job-banks-family-of-products-of-products">Appendix B</a>).</li>
+</ul>
+
+<p>Interactions with the website has a direct impact on the Service performance AND gives rapid insights for improvements as interactions with software generates large amount of data.
+This is the new opportunity that Digital brings: the ability to quickly act on those insights, using evidence-based decision making.
+All with the objective to improve the results that Programs are being evaluated against via the <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=31300">TB Policy on Results</a>.
+For example, Job Bank’s results being displayed <a href="https://www.tbs-sct.gc.ca/ems-sgd/edb-bdd/index-eng.html#infographic/program/HRSD-BGO05/results">in GC’s InfoBase</a>.</p>
+
+<p>In the traditional Program-Corporate relationship, IT gets funding to “keep the lights on” and projects are used when Programs want to engage IT staff to make software changes. This can create unnecessary lag for much needed small improvements.</p>
+
+<figure>
+<a href="/ITStrategy/assets/images/seb-project-wall-iitb.png">
+        <img class="center" src="/ITStrategy/assets/images/seb-project-wall-iitb.png" alt="The image contains two org charts separated by a wall. The org chart on the left of the wall has the label SEB while the one on the right has the label IITB. Over the wall, an arrow goes from SEB org chart to IITB org chart with the text Projects = Change." />
+  </a>
+  <figcaption>Figure 2. Projects are used to orchestrate change</figcaption>
+</figure>
+
+<p>In an ideal digital world a departmental product “team”, like Job Bank, should embed both business and IT staff.
+However, because Treasury Board Policies regulating Programs and Corporate put different persons in charge of IT and Program functions, these two separate persons will naturally want the staff responsible for their function in their respective org charts.</p>
+
+<p>This is where we want to differentiate improvements from projects and enable funding teams with cross-branch memberships.</p>
+
+<figure>
+<a href="/ITStrategy/assets/images/continuous-improvements-vs-projects.png">
+        <img class="center" src="/ITStrategy/assets/images/continuous-improvements-vs-projects.png" alt="The image contains three rectangles, each with a different saying. All three refer to a different kind of funding coverage. The one on the left has an image of a person running with the label Operate (run) maintain value. It is about operation and maintenance and refers to A-Base funding. The second rectangle on its right has an image of a spinning arrow going upwards with the label Enhance (Improve) Drive Value. The text under that image says Continuous Improvements, small growth and also refers to A-Base funding. The third rectangle on the right has an image of a light bulb with the label Innovate (Change) Create Value. The text in it says Innovate, Large Growth, Transform, Procurement and it refers B-Base funding." />
+  </a>
+  <figcaption>Figure 3. Three types of change and their funding coverage</figcaption>
+</figure>
+
+<p>Funding for RUN activities continues to be used for “keeping the lights on”.</p>
+
+<p>Projects are used to coordinate large change, such as changing the enterprise through a transformation or needing to coordinate change over multiple products.</p>
+
+<p>In between however, there is an opportunity to allow rapid, small, changes to software: enabling continuous improvements. Typically on existing business processes, to enhance user experience, and continuously address cyber security risks.</p>
+
+<p>A few things are necessary to enable such continuous improvements, which is the focus of the <a href="/ITStrategy/product-fw-directive.html">Directive</a> and <a href="/ITStrategy/product-fw-standard.html">Standard</a>.</p>
+
+<figure>
+<a href="/ITStrategy/assets/images/product-roadmap-roles.png">
+        <img class="center" src="/ITStrategy/assets/images/product-roadmap-roles.png" alt="The Image has roughly three sections. The section on the left contains three icons of documents each labeled Projects, Improvements, and Maintenance. An arrow goes from them to the second section and is labeled Feed Requirements. The section section is labeled Job Bank, representing the Product Job Bank with its Backlog (which looks like a repository) and a time arrow going right, with sections saying 3 months, 6 months, and 12 months. At the end, the arrow forks into two possible future A and B. The third section is under the Job Bank section. It contains three icons: a Product Manager, a Product Owner, and a Product Team. The Product Manager icon has the text Strategic Role, Produces the Product Roadmap, Performs Corporate Planning (e.g. secure funding). The Product Owner icon has the text Tactical Role, Uses the Product Backlog to scope releases, Has authority to make decisions. The Product Team icon has the text Cross-functionally skilled, Cross-Branch membership, Both development and operations, May be 100% funded by the Program Official." />
+  </a>
+  <figcaption>Figure 4. Projects bringing work to Product Teams</figcaption>
+</figure>
+
+<p>The different kinds of work affecting a particular product are requirements feeding that product’s backlog.
+Product Teams perform their own improvements and maintenance activities, while external Projects <em>bring</em> work to them.</p>
+
+<p>To manage and coordinate all this demand, <strong>Product Managers</strong> are used.
+As a strategic role they look beyond a 6 month time horizon. Product Managers use the product’s roadmap as both a communication tool AND a negotiating one.
+Collaborating with the different <em>project</em> managers on what is reasonable to do over a time horizon.
+A Product Manager also ensures the product team is well equipped to handle demands, such as performing financial, HR, and Architectural planning (e.g. <strong>securing funding</strong>).</p>
+
+<p><strong>Product Owners</strong> are a more tactical role.
+They look within a 6 month time horizon.
+They work closely with Product Managers and the product roadmap to scope releases and have ultimate authority to make decisions on the product.
+A Product Owner works with the product team to elaborate more detailed requirements from the roadmap’s high level ones, and may engage other IT professionals when need be (e.g. IT Security).</p>
+
+<p>In a cross-branch product team sponsored by a Branch, both the product manager and the product owner sits on the <em>Program</em> side.
+Though it is expected they will have to work closely with IT Managers to fully understand the implications of risks, such as creeping technical debt and cyber security, has on their product’s livelihood as well as ensuring compliance to IM/IT Policies (e.g. IT Security’s software patching requirements).</p>
+
+<p>Breaking down the main product that is Job Bank into its <a href="https://014gc.sharepoint.com/sites/JobBankProductManagement/SitePages/products.aspx">10 “business product”</a>, we expect such large Product to require a “Head of Product” overseeing all sub-products.
+In addition, those 10 Job Bank “business product” would each have a Product Manager and Owner assigned that sits on the Program side.
+Those 10 products are further broken down into their IT elements (e.g. software code and libraries hosted on servers or in the public cloud).
+These more granular “internal IT products” may also be assigned Product Managers and Owners but would more realistically sit on the IT side.</p>
+
+<p>The <strong>Product Team</strong> is made up of cross-functionally skilled members, from <em>multiple</em> branches.
+This is the space where Agile and DevSecOps fit in.
+The faster pace of release necessary to avoid clogging delivery promotes their adoption.
+Product teams must be well trained in Agile, otherwise chaos can creep in and negatively affect their performance, or worst, communicate to senior management that “Agile doesn’t work”.</p>
+
+<p>Other roles are necessary, such as the IT Security Champion one.
+This is because the pace of change expected and the risks associated to even small software changes warrants security expertise to be embedded in the product team.
+This further promotes equipping product teams with the right tools and even warrants delegating certain architectural decisions to product teams as they are the ones suffering the consequences of some technology choice(s).</p>
+
+<p>Funding of cross-branch product team is expected to be as such:</p>
+
+<ul>
+  <li>The Program Official budgets and identifies his source of funds for IT work. For Job Bank, as an example, the source would be the <a href="https://www.canada.ca/en/employment-social-development/corporate/portfolio/ei-commission.html">Canadian Employment Insurance Commission</a>. So in its periodic Treasury Board submission renewals, Job Bank needs to identify sufficient funding not just for its Program staff, but also for IT work.</li>
+  <li>Once IT funding is secured as part of a TB submission, it is transferred to IITB and used to fund dedicated IT staff for that Program (staff that will remain in IITB).</li>
+  <li>A Memorandum of Understanding (MOUs) between the CIO and the Program Official is used to solidify this arrangements.</li>
+</ul>
+
+<p>We expect conditions over those funds as a means to provide Corporate (the CFO and the CIO) with sufficient assurance in the use of public funds and the responsibilities coming with software.</p>
+
+<p>We also <strong><em>do not</em></strong> expect EARB and ARC to be involved in approving or endorsing such funding.
+This because EARB and ARC are focused on the enterprise and improving an existing product has negligible effects on the enterprise.
+EARB and ARC is involved in <a href="https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All Documents/Policy on Project and Programme Management.pdf">Projects</a>.</p>
+
+<p>These conditions and the trust level provided to product teams can be managed through a Directive’s consequences of non-compliance.
+Such as, if non-compliant, adding layers of governance during the product team’s yearly funding cycle.</p>
+
+<p>It’s worth noting that projectization is still needed to coordinate work across product teams and to bring workload to them.</p>
+
+<p>To increase a product team’s capacity, existing funding pressure instruments are used.
+E.g. if a $2M/year product team can’t meet demand for a given year, departmental funding pressure can be used to increase it to $4M/year.
+For a cross-branch product team funded by a Program Official, this funding pressure should be done <strong><em>on the Program Official’s branch</em></strong>.</p>
+
+<p>This dedicated cross-branch product team can still interact with other IITB teams. To explain this interaction, we use <a href="https://teamtopologies.com/key-concepts">team topologies concepts</a>.</p>
+
+<figure>
+<a href="/ITStrategy/assets/images/job-bank-team-topologies.png">
+        <img class="center" src="/ITStrategy/assets/images/job-bank-team-topologies.png" alt="The image shows the four types of teams in the Team Topologies key concepts. The first one is a rectangle in yellow with the words Job Bank Team (e.g. Cloud Spoke, Labour). This yellow rectangle refers to a bubble with the words Direct Cost - Product Team (stream-aligned). On the left of the yellow rectangle, is a red hexagon with the word Analytics, representing the 2nd type of team.  This red hexagon refers to a bubble with the words Indirect (shared) cost - Specialized Teams. At the bottom of both the yellow rectangle and the red hexagon are 5 blue squares each labeled with different texts: Enterprise Services (e.g. DocUpload), Cloud Ops, Legacy Infra Ops, CSOC, Interop (e.g. NOC API). These 5 blue squares represent  the 3rd type of team and refers to a bubble with the words Indirect (shared) cost - Platform Teams. To the right side of the yellow rectangle and slightly over it is a purple rectangle with the words a11y (Accessibility) Office. It represents the 4th type of team and refers to a bubble with the text Indirect (shared) cost - Enabling Teams. Each of the 4 types of teams have lines connecting them, some are dotted, others are solid. The legend at the bottom of the image says dotted lines are X-as-a-Service (on-demand consumption, no projectization), and solid lines are Collaboration (indicative that projectization may be needed)." />
+  </a>
+  <figcaption>Figure 5. Team Topologies key concepts applied to Job Bank</figcaption>
+</figure>
+
+<p>There are four types of teams that interact.
+The “<strong>stream-aligned</strong>” team is what the Program Official is funding to create, for example, the Job Bank team.
+Its cloud credit (if using public cloud services) and labour costs can be directly attributed to the Program.</p>
+
+<p>The other three types of teams cannot be directly attributed to a single Program, their costs are essentially shared.
+Making up the “IT Corporate Services” space.
+Their funding and sustainability requires pooling funds into the CIO budget.
+Unless they can provide on-demand services, via APIs, their engagements may need to be projectized as stream-aligned teams would essentially be competing for their time commitments.</p>
+
+<p><strong>Specialized teams</strong> provide significant expertise in some areas when need be.
+For example, relational database performance, advance data modeling, mathematics and calculations.
+These teams are typically first engaged as part of projects, then continue by providing services.
+E.g. setting up a Business Intelligence (BI) COTS product for the stream-aligned team then letting the stream-aligned team manage the BI’s reports.</p>
+
+<p><strong>Enabling teams</strong> help other teams overcome obstacles.
+They coach and mentor them until they’ve gained sufficient expertise, at which point they step away. Enabling teams are essentially temporary in nature.</p>
+
+<p><strong>Platform teams</strong> provide compelling internal products and services to accelerate delivery by stream-aligned teams.
+One example for Job Bank is that it uses a DocUpload service that allows clients to upload documents, then performs anti-virus scans, and stores them securely.
+Re-using such service enables the organizations to save time and money.</p>
+
+<h2 id="guidance-on-specific-directive-elements">Guidance on Specific Directive Elements</h2>
+
+<h3 id="product-team-setup">Product Team Setup</h3>
+
+<p>A new product is expected to be created after an investment project.
+Therefore, the transition from project to product should start no later than in the project’s closing stage (stage 5), preferably before hand so to give sufficient time for formalities to be established. See <a href="https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Directive%20on%20Project%20Management.pdf">ESDC’s Directive on Project Management</a> for reference.</p>
+
+<p>This transition requires the Program Official (or a senior level official in an ESDC Branch) to find sufficient funding to sustain not only the “run” operations (i.e. maintenance work on the product), but also small and continuous improvements.
+The budget for such improvement includes both business and IT work.
+Estimating the budget should be informed by the following:</p>
+
+<ul>
+  <li>Number of <em>small</em> software releases estimated to be performed each year. Small releases are typically for maintenance, bug fixes, and cyber security risk mitigation.</li>
+  <li>Number of <em>medium</em> software releases estimated to be performed each year. Medium releases are typically for new product features that need a level of change management being performed and scoped within the product.</li>
+  <li>Number of <em>large</em> software releases estimated to be performed each year. Drivers for large releases should come from outside projects impacting the product, such as legislation changes and transformational agenda.</li>
+</ul>
+
+<p>Such funding may be obtained via an agreement with the CIO in using the CIO’s budget, but is preferred to come directly from the Program funding source(s). Funding sources from the Program will require to add IT expenditure cost in the Program’s Treasury Board submission renewal using the estimated yearly budget mentioned above.</p>
+
+<p>It is expected that such funding will require the Program Official to produce a compelling business case.
+It is recommended to anchor the business case in:</p>
+
+<ul>
+  <li>The Program’s Performance Information Profile’s expected outcomes,</li>
+  <li>ESDC’s Digital Service Transformation objectives</li>
+  <li>Situating the Program’s services (that the product team fits in) in <a href="https://014gc.sharepoint.com/sites/TransformationEDSC-ESDC/SitePages/Service-Target-Operating-Model-(STOM).aspx">ESDC’s Service Target Operating Model</a></li>
+  <li>A Branch’s Assistant Deputy Minister’s articulated goal(s)</li>
+</ul>
+
+<p>The <a href="https://014gc.sharepoint.com/sites/TransformationEDSC-ESDC/SitePages/Business-Architecture.aspx">Business Architecture team</a> may be used to provide advice.</p>
+
+<p>It is <strong>NOT</strong> needed to go through EARB or ARC for endorsements.
+EARB and ARC will have been involved in projects bringing work to your product before they reach your backlog.</p>
+
+<p>The above refers to the following Directive’s requirements:</p>
+
+<ol>
+  <li>The Product Team’s yearly budget includes both IITB and Program area work</li>
+  <li>The Product Team has source(s) of funds identified and secured</li>
+  <li>Funds for the Product Team’s IT work are transferred to IITB on a yearly basis</li>
+</ol>
+
+<p>Corporate will want to have a view of how the product team is governed and structured to get assurance that a level of discipline is used by the product team to make decisions.
+Hence why documentation of the product team’s governance and cross-organizational chart are requirements.</p>
+
+<p>This arrangement between the Program area and the CIO in fund transfers and dedicated IT staff is to be formalized under a Memorandum of Understanding (MOU), identifying to which Program and/or Corporate Functions this arrangement is being tied to.</p>
+
+<p>Should funding pressures be needed to increase a product team’s capacity, those pressures are put on the Sponsoring Branch (not IITB).</p>
+
+<p>The location of the different repositories that the product uses to store its requirements needs to be known as projects seeking to bring workload to the product team will need to know where to add them. Hence why documenting and making available the product team’s requirements repository(ies).</p>
+
+<p>IITB, as part of the <a href="https://gcconnex.gc.ca/discussion/view/72865810/dpsd-guide-1-0-for-integrated-planning-guide-pmsn-1-0-pour-le-plan-integre?language=en">Directive on Service and Digital integrated planning requirements</a>, need to document which applications from the <a href="https://dialogue/proj/ITCD-RMTI/APM-GPA/Site%20Pages%20Library/ActiveSolutions.aspx">APM Inventory</a> is being worked on.
+The APM inventory, known internally in IITB as the “Corporate Solutions Directory”, has a different representation of “products” than Programs do.
+This is fine, it’s the “IT view” of things.
+Hence why the requirement to identify the applications from the APM Inventory.</p>
+
+<p>Finally, all this information is asked to be documented in a place for easy access by Corporate and external project teams.</p>
+
+<h3 id="roles-and-responsibilities">Roles and Responsibilities</h3>
+
+<p>Different Corporate authorities are responsible to assure sound stewardship of public funds and the management of IM and IT.
+In investment projects, this assurance is done through gating process where project teams demonstrate they have done sufficient due diligence by producing certain project artefacts (e.g. outputs of analysis and formalizing agreements amongst stakeholders).</p>
+
+<p>Because some work between the cross-branch product team will not be projectized, and so will not require to be brought to those Corporate authorities, some level of assurance is needed that those responsibilities are still being upheld.</p>
+
+<p>It is expected that a product team will need to have high maturity in project management, <em>Agile</em> methodologies, and <em>product</em> management.
+This IITB Directive strives to provide as much flexibility to product teams on how they will organize internally by not prescribing any methodologies.
+Whether it be SCRUM, Kanban, or more traditional business-functional-technical specification, it does not matter to Corporate oversight.
+However, certain roles and their associated responsibilities are still expected regardless of which methodology is used.</p>
+
+<p><a href="/ITStrategy/product-fw-directive.html#roles-and-responsibilities">Section 5.2</a> of the IITB Directive lists the different roles that must be assigned to members of the product teams.</p>
+
+<p>Depending on the scale of the product, a single person may fulfill more than one role.
+That person is still identified for each role so that external teams (such as project team) know who to contact for a particular topic.</p>
+
+<p>Although the roles of Head of Product, Product Manager, and Product Owner is expected to sit on the Program side, their activities are expected to heavily involve IT managers.
+The Product’s strategy, roadmap, and scope of releases all require being informed with IT considerations so to remain realistic, achievable, and sustainable (e.g. timely remediation of technical debt).</p>
+
+<p>A Head of Product is believed to be executive level due to the oversight and responsibilities expected of it, though it is not a requirement to be one.</p>
+
+<p>Sources used to define the responsibilities of roles are as follows:</p>
+
+<ul>
+  <li><strong>Product Manager</strong>: from <a href="https://www.pdma.org/?">Product Development and Management Association’s Body of Knowledge second edition</a>, from <a href="https://280group.com/what-is-product-management/roles/product-manager/">280group</a>, <a href="https://www.gov.uk/guidance/product-manager">GOV.uk’s guidance</a>.</li>
+  <li><strong>Product Owner</strong>: from <a href="https://www.infotech.com/research/it-product-owner">Info-Tech Research Group</a> and <a href="https://www.gartner.com/document/4010508">Gartner</a></li>
+  <li><strong>IT Security Champion</strong>: from <a href="https://014gc.sharepoint.com/:p:/r/sites/DGIIT-Gouvernance-IITB-Governance/SLFFCS/DevSecOps SLF-EN.pptx?d=wc4a2579808df446eab5b3b5b3ceedb5f&amp;csf=1&amp;web=1&amp;e=VVS26e">SLF’s January 2021 presentation</a> (modified last point)</li>
+  <li><strong>Change Coordinator</strong>: from <a href="https://www.infotech.com/research/change-manager">Info-Tech Research Group</a></li>
+</ul>
+
+<p>An optional dashboard for Product Managers and Owners to use in order to help quantify the types of work being managed, and so help with IT Manager communications, is the monthly workload distribution dashboard.</p>
+
+<figure>
+<a href="/ITStrategy/assets/images/product-workload-distribution.png">
+        <img class="center" src="/ITStrategy/assets/images/product-workload-distribution.png" alt="The image displays in a graphical bar chart format the four types of work done on a software product. It has the title Workload Distribution (by month) and contains 12 bars of equal height (representing the twelve months of the year). Each bar is filled by 4 different colours, representing the four different types of work. The height of each colour in the bar represents the pourcentage of that work done in that month. The four types of work are (blue) features, (red) defects, (green) risks, and (purple) debt." />
+  </a>
+  <figcaption>Figure 6. Monthly Workload Distribution Dashboard</figcaption>
+</figure>
+
+<p>In this dashboard, there are four types of work:</p>
+
+<ol>
+  <li><strong>Features</strong>: Seen by end users. A new functionality or ability.</li>
+  <li><strong>Defects</strong>: Seen by end users. A broken functionality or ability.</li>
+  <li><strong>Risks</strong>: NOT seen by end users. A compliance gap (e.g. cyber security).</li>
+  <li><strong>Debts</strong>: NOT seen by end users. A technical, process, or people debt needing to address to improve throughput (e.g. architecture refactoring, new API, investment in automation).</li>
+</ol>
+
+<h3 id="oversight-and-reporting">Oversight and Reporting</h3>
+
+<p>Oversight and reporting provide Corporate authorities with some evidence that public funds are being spent on outcomes and that the product team “knows what it’s doing”.
+Striving to provide as much autonomy as possible to product teams while upholding the responsibilities mentioned above, a minimum of four artifacts are expected to be produced and, if being asked, provided to Corporate Authorities:</p>
+
+<ol>
+  <li>The <strong>Product’s Roadmap</strong>. The Product Team may use more than one “view” of the product roadmap’s for its internal coordination and communication. For this Directive, Corporate will seek to have an executive level view of the milestones and outcomes expected to be obtained over a fiscal year.</li>
+  <li><strong>Release Retrospectives</strong>. Product Management seeks to continuously improve using evidence-based decision making. Every change release of a product needs to be evaluated against the desired outcomes that were sought in that release and analyzed on their successful or negative results. The timing of such retrospectives is left at the discretion of the product team (e.g. do retrospectives 2 months after a release so to give sufficient time for data to be generated).</li>
+  <li><strong>Software Delivery Performance Metrics</strong>. The <a href="https://www.devops-research.com/research.html">DevOps Research and Assessment (DORA) Institute</a>, now bought by Google, researched the four key metrics that define high performing technology organizations. In addition to the above retrospectives on business outcomes, the product team should strive to continuously improve its software delivery capabilities. These DORA metrics are meant to show Corporate that the product team is making improvements in that regards and takes serious consideration on the effects that creeping technical debt, quality, and cyber security has on the health of their product(s).</li>
+  <li><strong>A Risk Register</strong>. Same as in project management, Corporate authorities needs to be assured that the product team understands the risks that change can have on their product and the organization. It is expected that product team will be disciplined in identifying risks to their operations and know how to handle them. A typical source of risk is the “Threats” identify after performing SWOT analyses. The <a href="https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Guide%20to%20Risk%20Management.pdf">ESDC Guide to Risk Management</a> may be leveraged.</li>
+  <li><strong>Endorsement of the Product Roadmap</strong>. In order to ensure that the product team accounts for IT’s interests, which affects the CIO’s accountability such as software patching, technical debt remediation, and cyber security risks, the Head of Product is asked to have their Product Roadmap endorsed at PPRC as part of the product team’s yearly funding cycle.</li>
+</ol>
+
+<h3 id="consequences-of-non-compliance">Consequences of Non-Compliance</h3>
+
+<p>Consequences of non-compliance are used to motivate product teams to maintain a high level of integrity and performance necessary to retain the level of autonomy provided by the Directive.</p>
+
+<p>Governance authorities may, on occasion, request certain evidence from the project team that they are behaving according to the Directive.
+These may be in the form of an audit or an invitation to a corporate committee (e.g. invited to DGPOC in presenting their product’s roadmap and a summary of their recent retrospectives).</p>
+
+<p>Failure to comply with the Directive and associated Standard requirements will result consequences of gradual severity.</p>
+
+<p>As such, consequences vary from notification, to training, to adding layers of governance in a team’s yearly funding cycle, up to cancelling the agreement between IITB and the sponsoring Branch’s ADM</p>
+
+<p>As expertise in Agile methods and DevSecOps are expected to be required, IITB is investing in maturity assessment tooling and training, such as:</p>
+
+<ul>
+  <li>Maturity Assessment using <a href="https://esdc-iitb-sdlc-pdg-staging.azurewebsites.net/">IITB’s SDLC &amp; Product Delivery Guidebook</a></li>
+  <li>Agile Training (e.g. using the Interoperability team’s services)</li>
+  <li>Product Management Training (e.g. using external firm services)</li>
+</ul>
+
+<h2 id="governance">Governance</h2>
+
+<p>This section helps situate product teams work within the <a href="https://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/SitePages/Governance.aspx">greater corporate governance landscape</a>.</p>
+
+<p>The pilot product management framework leverages existing governance bodies (e.g. PPRC) and instruments (e.g. release management), it does not replace them.</p>
+
+<h3 id="governance-overview">Governance Overview</h3>
+
+<figure>
+<a href="/ITStrategy/assets/images/product-mgt-fw/governance-overview.png">
+        <img class="center" src="/ITStrategy/assets/images/product-mgt-fw/governance-overview.png" alt="This image depicts the different corporate committees involved in the Product Management domain. A cloud labeled Funding Approval ??? represents uncertainty as to which committee is to approve funding for the product team. The Project Portfolio Operations Committee (PPOC) reports to the Project Portfolio Review Committee (PPRC). PPRC may seek advice from the Architecture Review Committee (ARC). The Change Advisory Board (CAB) reports to the Operations and Change Management Committee (OCMC)." />
+  </a>
+    <figcaption>Figure 7. Governance Overview</figcaption>
+</figure>
+
+<table>
+  <thead>
+    <tr>
+      <th>Governance Body</th>
+      <th>Role within Product Management</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>PPRC</td>
+      <td>Oversees the spending of IT-related funds and approves the yearly product roadmap. May seek recommendations from ARC on product roadmap-related outcomes.</td>
+    </tr>
+    <tr>
+      <td>PPOC</td>
+      <td>Tracks spending of IT funds towards the product roadmap. Tracks non-compliances incident. Reports information to PPRC</td>
+    </tr>
+    <tr>
+      <td>ARC</td>
+      <td>Provides advice and recommendations to PPRC on alignment of the product roadmap’s to the departmental direction and standards</td>
+    </tr>
+    <tr>
+      <td>CAB</td>
+      <td>Provides advice and recommendations to PPRC on alignment of the product roadmap’s to the departmental direction and standards. Oversees changes to the IT infrastructure. Establishes the release management process that product teams are to use.</td>
+    </tr>
+    <tr>
+      <td>???</td>
+      <td>Approves the multi-year funding envelop for a product team. Funding that will be for both operational activities (e.g. support and maintenance) as well as some “grow” type activities (e.g. improvements).</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="outcome-based-funding-of-multi-disciplinary-product-teams">Outcome-Based Funding of Multi-Disciplinary Product Teams</h3>
+
+<p>The approach to fund multi-disciplinary teams leverages existing ESDC corporate instruments, such as investment projects and funding pressures, and seeks to capitalize on the benefits of loose coupling architectures (see next section on the role of Enterprise Architecture).</p>
+
+<p>The goals of this approach are as follows:</p>
+
+<ol>
+  <li>Position the funding responsibility on the Sponsoring Branch (not IITB)</li>
+  <li>Leverage existing fund pressure instruments to increase product team capacity</li>
+  <li>Establish dedicated IT personnel for a Sponsoring Branch</li>
+</ol>
+
+<p>Funding of product teams come in two methods, both of which use outcomes to justify funding:</p>
+
+<ol>
+  <li>As part of the base funding envelop provided at the team’s creation</li>
+  <li>As part of funding pressures due to increase in demands for the product team (typically coming from investment projects)</li>
+</ol>
+
+<p>The base funding envelop is set as part of the MOU between IITB and the Sponsoring Branch.</p>
+
+<p>A new multi-disciplinary team will be created as part of an investment project. This because the justification for their existence requires a product to be created (see definition of “product” in the Directive and the guidance above on the use of projects in product management). It is the responsibility of the investment project to accurately determine the size of the team that will not only operate the product but perform continuous improvements on it over the years. As per the Directive’s requirement, key information for the creation of the product team is:</p>
+
+<ol>
+  <li>Secured sources of funds that will be used to sustain its costs over the years</li>
+  <li>A complete budget (both business and IT costs)</li>
+  <li>The Sponsoring Branch</li>
+</ol>
+
+<p>As part of this transition from project team to product team, the amount of IT personnel to make members of the new product team to fund will be identified. The Sponsoring Branch will transfer the funds necessary to support IT personnel to IITB. IITB will hire the IT personnel.</p>
+
+<p>When new demands is brought to the product team (such as from non-gated projects, or from investment projects), the team’s Product Manager assess whether sufficient capacity exists for the team to supply that demand. Should capacity needs increasing, the funding pressure, even for IT work, is placed on the Sponsoring Branch. The Sponsoring Branch will negotiate with its financial advisors on options to available to it (such as negotiating with the Investment Project Sponsor to use their approved sources of funds).</p>
+
+<p>The Sponsoring Branch also performs its prioritization of demands on their Sponsored multi-disciplinary product teams. For example, if the Sponsoring Branch only has a $4M budget to sustain two multi-disciplinary product teams and cannot increase its capacity, it will need to decide on which priorities can its two sponsored teams can focus on.</p>
+
+<h3 id="when-projects-are-used">When Projects Are Used</h3>
+
+<p>Projects<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup> are used as part of product management.
+This section will provide guidance on when “formal projects” are used and their purpose (i.e. work formalized at corporate committees for oversight, such as investment projects and non-gated projects like Lite Projets).</p>
+
+<p><strong>Investment Projects</strong> are a response to a policy objective. They provide the necessary oversight for sound stewardship of public funds, ensure success focused on benefits, and alignment to departmental and government level priorities. As such, Investment Projects are expected to adjust ESDC products visions and roadmaps to align to such priorities, and are most likely the instigator of new products and their associated teams.</p>
+
+<p>Investment Projects are governed by DGPOC and MPIB which grants permissions to use funds (contrary to popular belief DGPOC and MPIB does not give money). Investment Projects are therefore instruments that product teams can use to increase their capacity when demands surpass their ability to supply it. Project Sponsors should therefore involve Product Managers early on in the project planning phase to negotiate with them how their permissions to use funds can be used to meet project objectives.</p>
+
+<p><strong>Non-Gated projects</strong> such as the Lite Project may be used to coordinate work across product teams and compete for prioritization of work. These are expected to be leveraged when work requires the coordination with members outside of the product team. When a product team requires the involvement of another team (e.g. Job Bank product team requires the involvement of the Data Analytics Services team), this triggers two things:</p>
+
+<ol>
+  <li>Increase in demand for the DAS team, prompting them to do funding pressures should they not be able to supply this demand</li>
+  <li>Prioritization of work for the DAS team, that is which of their demands from their backlog must they accomplish at a given time.</li>
+</ol>
+
+<p>Both these triggers leverage projects since funding pressure and portfolio prioritization decisions require projects.</p>
+
+<h2 id="role-of-enterprise-architecture-in-relation-to-product-management">Role of Enterprise Architecture in Relation to Product Management</h2>
+
+<p>This section does not attempt to describe what Enterprise Architecture is. This section focuses on how Enterprise Architecture and product teams benefit from each other.</p>
+
+<p>Both the Enterprise Architecture function and the product teams provide insights to each other and so personnel in both areas must work closely together.</p>
+
+<h3 id="organizational-level-business-and-technology-roadmaps">Organizational-level business and technology roadmaps</h3>
+
+<p>Enterprise architecture provides the organization-level business and technology roadmaps to product management which is an input into evolving the vision and roadmaps for a given product, identifying new potential features, and aligning to the greater departmental-level direction.</p>
+
+<p>This information produced by the Enterprise Architecture function acts as input to the product team by:</p>
+
+<ol>
+  <li>Supporting a product’s purpose, in relation to the departmental mandate and Program objectives</li>
+  <li>Informing a product’s ever changing roadmap in terms of new features and compliance gap remediation</li>
+  <li>Justifying investment decisions into the product</li>
+</ol>
+
+<p>Product teams also provide inputs to the Enterprise Architecture function by providing their product roadmaps to inform evolving enterprise architecture in relation to:</p>
+
+<ol>
+  <li>Emerging technological standards (product teams have a level of autonomy to acquire new technical stacks as long as it doesn’t increase its cognitive load and conforms with IM/IT security and accessibility policies).</li>
+  <li>Limitations of current technology standards (e.g. explanations why certain standards are limiting product team performance or their ability to conform with policies).</li>
+  <li>Capability gaps that the enterprise may want to invest in in order to reduce cognitive load to product teams (e.g. investing in a common service)</li>
+</ol>
+
+<h3 id="architecture-services">Architecture services</h3>
+
+<p>Enterprise Architecture provide services to product teams to share insights and expert advice. Such services are expected to be sought by the Product Manager and the IT Manager when informing their product roadmap.
+Example of services include:</p>
+
+<ol>
+  <li>Providing expert advice on specialized topics (e.g. chatbots, public cloud architectures, migration pathways, new policies that the product team may not be aware of)</li>
+  <li>Identifying opportunities for re-use (e.g. a new common service available to product team via an API)</li>
+  <li>Mitigating organizational risks (e.g. cyber security, privacy, ethics)</li>
+  <li>Ensuring quality and consistency of architectural artefacts making it easier to share information and move between teams.</li>
+</ol>
+
+<h3 id="socialtechnical-architectures">Socialtechnical Architectures</h3>
+
+<p>Enterprise Architecture is involved in Projects, which act as responses to policy objectives. When projects require creating new or modifying existing digital solutions (that is, solutions that leverage software), Enterprise Architecture acts to ensure digital solutions are architected not only to align to departmental directions, but also to enable product teams to focus on value creation and provide them with the autonomy they seek.</p>
+
+<p>The industry trend is to refer to this as <a href="https://esilva.net/sociotechnical/sociotechnical-architecture_traits-and-strategies.html">socialtechnical architectures</a>.</p>
+
+<p>When digital solutions are built from loosely coupled, highly cohesive components it is easier to spread work across smaller teams. This reduces overall risk and organizational complexity, which in turn reduces time-to-delivery and enables teams to more quickly address cyber security vulnerabilities. The following <a href="https://github.com/wso2/reference-architecture/blob/master/reference-architecture-cell-based.md#introduction">cell-based reference architecture from WSO2 Inc.</a> explains adapting Enterprise Architecture to capitalize on this opportunity.</p>
+
+<p>Enterprise Architecture works on behalf of product teams to ensure departmental investments will benefit the personnel that will operate the solutions.</p>
+
+<h3 id="common-platforms-to-reduce-cognitive-loads-and-accelerate-service-delivery">Common platforms to reduce cognitive loads and accelerate service delivery</h3>
+
+<p>Enterprise Architecture directs the organization to invest in common platforms as a means to not only save costs but also reduce cognitive load to product teams.</p>
+
+<p>Common infrastructure enables continuous delivery by value streams. When there is a common technical infrastructure to delivery teams to deploy into it is easier to deploy. The easier it is to deploy, the more often it makes sense to deploy.</p>
+
+<h3 id="application-portfolio-management-apm">Application Portfolio Management (APM)</h3>
+
+<p>The APM function within Enterprise Architecture acts as a business intelligence by providing the organization with health indicators of its application portfolios.</p>
+
+<p>As Products involves one or more applications from the APM inventory (e.g. Job Bank involves two main ones), Product Teams are required to keep their APM inventory up to date.</p>
+
+<p>The Enterprise Architecture function leverages the APM information to map the organization application capabilities (e.g. how the “Identity and Access Management” application capability is being used by a particular Product Team).</p>
+
+<p>The Business Architecture side of the Enterprise Architecture spans wider than the Product Team’s scope. As Products are used to enable certain business capabilities, it is expected that the mapping of a given product to a particular Business Capability will occur as part of a Project. Improvements of an existing product is unlikely to involve creating new or competing with existing business capabilities due to the limited funding envelop that a product team will have, and with PPRC’s oversight of the investment.</p>
+
+<h2 id="phase-2-of-the-iitb-way-forward">Phase 2 of the IITB Way Forward</h2>
+
+<p>In 2021, IITB re-organized itself as part of the <a href="https://esdc.prv/en/iitb/corporate/cio_priorities/messages/2021/2021_03_29.shtml">Phase 2 of its IITB Way Forward plan</a>. This re-org was informed from a <a href="https://014gc.sharepoint.com/:p:/r/sites/IITB-ITStrategy/Shared%20Documents/General/PWC%20TOM%20and%20Phase%202%20of%20the%20IITB%20Way%20Forward/SLF%20IITB%20Independent%20Review%20-%20Executive%20Presentation%20-%20February%202021%20-%20En.pptx?d=w4c2542ffec7b4406a15e03a5d15496ff&amp;csf=1&amp;web=1&amp;e=dWZdcf">2020 independent study</a>, mandated by the CIO and conducted by the PricewaterhouseCoopers firm.</p>
+
+<p>The re-org is based on a product management model that follows a portfolio centric delivery environment supported by common services.</p>
+
+<p>The intent of this pilot framework in providing sustainable funding to product teams for certain continuous improvement activities, and the guidance provided using team topologies concepts, aligns to the IITB Way Forward plan.</p>
+
+<figure>
+<a href="/ITStrategy/assets/images/product-mg-fw/iitb-way-forward-tom.png">
+        <img class="center" src="/ITStrategy/assets/images/product-mgt-fw/iitb-way-forward-tom.png" alt="This image depicts IITB's Target Operating Model. It is based on a portfolio centric delivery environment supported by common services. It contains high level capabilities that each contain sub-level capabilities. From left to right we have IITB clients (business portfolios, supporting portfolios, employee end-user, and non-employee end-user). IITB Channels (formal and informal). IITB Services (standard, non-standard). The right half of the image is split into three main rows. Top row are capabilities Strategy and Leadership, Branch Planning and Corporate Services. Middle row is a rolodex labeled Business Program/Line of Business (LOB) Portfolio Management that is hooked to the right on a Hub Capabilities. The last row includes Digital Risk and Resilience, Technology Delivery and Operations." />
+  </a>
+    <figcaption>Figure 8. IITB Way Forward Target Operating Model</figcaption>
+</figure>
+
+<h2 id="appendix-a---business-view-of-job-banks-family-of-products">Appendix A - Business View of Job Bank’s Family of Products</h2>
+
+<figure>
+<a href="/ITStrategy/assets/images/job-bank-product-view-business.png">
+        <img class="center" src="/ITStrategy/assets/images/job-bank-product-view-business.png" alt="The image depicts the Job Bank Product Governance Framework, as seen from the business side. It is a series of rectangles, arranged from top to bottom, representing the different groups and individual products making up Job Bank, and how they are governed from an executive level down to working level. From top to bottom they are: 1st row is EX Bilateral Discussions between SEB and IITB. 2nd row has two parallel rectangles Weekly Release Scrum SEB and IITB, and Internal Product Management Scrum. 3rd row is one rectangle saying Job Bank SEB Steering Committee: Director, Managers, PG Leads, SMEs, Ad hoc guests; Secretariat. 4th row are three rectangles colour coded to represent categories, they are Labour Exchange (in blue), Training and Careers (in orange), and Labour Market Information (in green). 5th row are further breakdown of the categories. They are Job Seekers (in light blue), Employers (in red). Both Job Seekers and Employers fall under the Labour Exchange main category. Next is Carrer Explorers (in orange, under the Training and Careers main category), LMI consumers (in green, under the Labour Market Information main category). The next set of rows are the different products making up the four category groupings. They are (in blue, under Job Seekers): Job Seeker Dashboard, Job Search, Job Alerts, Job Match, Resume Builder, Jobs &amp; Activity Mgt, Mobile App. Then (in red, under Employers): Employer Dashboard, Employer Files, Job Postings, Applicants &amp; Matches, Message Centre. The next set is grouped under a Job Profile sub-category that spans both the Career Explorers and LMI Consumers categories. We have Field of Study, Career Quizzes, Skills &amp; Knowledge, Training Marketplace, Job Transition Tool (these are all under the spanned Job Profile sub-category but still under the Career Explorers main one). Then we have LMI Outlooks, LMI Wages, LMI Trends &amp; News, LMI Snapshot (these are all under the spanned Job Profile sub-category but still under the LMI Consumers main one). To the right of all these is a purple category called Partner / Stakeholder Resources with the following sub-elements: Internal Module, P/T Tools and Resources, Job Feeds and Widgets, Employment Groups. Under all these categories are horizontal rectangle that covers more than one category. They are User Accounts, Job Bank Support / Contact Us, Job Bank Resources / Content Pieces. Finally, there is a section at the bottom labeled Subject Matter Experts which lists 9 SMEs: Data, Feedback, UX, Project Mgt, Compliance, Content, Ops Support, Ops Policy (CAT), Privacy/Legal." />
+  </a>
+</figure>
+
+<h2 id="appendix-b---it-view-of-job-banks-family-of-products-of-products">Appendix B - IT View of Job Bank’s Family of Products of Products</h2>
+
+<figure>
+<a href="/ITStrategy/assets/images/job-bank-product-view-tech.png">
+        <img class="center" src="/ITStrategy/assets/images/job-bank-product-view-tech.png" alt="The image depicts the Job Bank List of Products, as seen from a technical side. On the left there's an arrow pointing downwards with the label Product Granularity. There's a legend of colours: yellow for business product, gray for IT products, and blue for Enterprise Services. At the top, we have a yellow box with the label Job Bank. This box is linked to three other ones underneath: Reporting (BI), Website, and Mobile App. Under the Website box are 10 smaller yellow boxes with labels: Employer, Career Planner, P/T Tools, Feeds, Job Seeker, Trend Analysis &amp; LMI, Employment Groups, Internal, Account Mgt, Support. The box Mobile App links to two smaller boxes under the Website: Job Seeker and Support. All of the yellow boxes (business products) link to a grouping of gray boxes (IT products) underneath them. The Reporting (BI) yellow box links to a grouping of two boxes labeled software code (ETL) and COTS (Cognos BI). The 10 smaller yellow boxes under the Website link to a grouping of 4 gray boxes labeled WET 4.0 (framework libraries), Java (framework libraries), OSS (framework libraries), software code. Each of those 4 gray boxes are also linked together. The Mobile App yellow box is linked to a grouping of two boxes labeled Flutter (framework libraries) and Software code. All the three groupings of gray boxes are linked to a blue rectangle at the bottom of the image labeled Enterprise Services. The blue rectangle contains 6 smaller blue boxes labeled DocUpload, Web / App Servers, Database, Interop (APIs, e.g. NOC), CSOC, and Hosting. Each of these 6 smaller blue boxes are linked to gray boxes, representing the IT products that these 6 services use. For DocUpload, there are three gray boxes labeled framework, software code, COTS (MetaDefender). For Web / App Servers, there are three gray boxes labeled Apache HTTPD, Apache Tomcat, SOLR. For Database, there is one gray box labeled Oracle. For Interop (APIs, e.g. NOC), there are three gray boxes with no labels. For CSOC, there are three boxes with no labels. For Hosting, there are two gray boxes with the labeled On Premise and Public Cloud. The On Premise box is linked to the Montreal DC location, while the Public Cloud box is linked to the Toronto location." />
+  </a>
+</figure>
+
+<h2 id="appendix-c---definitions">Appendix C - Definitions</h2>
+
+<p><strong>Projects</strong>: is defined by the Treasury Board as “an activity or series of activities that has a beginning and an end. A project is required to produce defined outputs and realize specific outcomes in support of a public policy objective, within a clear schedule and resource plan. A project is undertaken within specific time, cost, and performance parameters.” (source: <a href="https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Policy%20on%20Project%20and%20Programme%20Management.pdf">PPPM</a>)</p>
+
+<p><strong>Investment Projects</strong>: As per the <a href="https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Policy%20on%20Project%20and%20Programme%20Management.pdf">ESDC Policy on Project and Programme Management</a>, section 8.2, these are the “gated projects” used by ESDC with oversight at either DGPOC or MPIB.</p>
+
+<p><strong>Non-Gated projects</strong>: Lite Projects (for IT-enabled projects with oversight at PPOC) and Branch Initiatives (for non IT-enabled projects with oversight in Branch’s own governance).</p>
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1" role="doc-endnote">
+      <p>See <a href="#appendix-c---definitions">Appendix C</a> on official definitions and the different kinds of projects that exist <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+
+      </article>
+    </main>
+    
+    
+<div class="container text-right">
+  <a class="text-muted" target="_blank"
+    href="https://github.com/sara-sabr/ITStrategy/tree/master/_pages/en/product-fw-guidance.md">View this page on GitHub</a>
+</div><footer class="pt-4 my-md-5 pt-md-5 border-top">
+  <div class="container">
+    <ul class="list-inline">
+      <li class="list-inline-item">
+        <a class="text-muted"
+          href="/ITStrategy/contact-us.html">Contact us</a>
+      </li>
+      <li class="list-inline-item">
+        <a class="text-muted"
+          href="/ITStrategy/archives.html">Archives</a>
+      </li><li class="list-inline-item">
+        <a class="text-muted" target="_blank"
+          href="https://014gc.sharepoint.com/sites/IITBStrategy">Sharepoint</a>
+      </li>
+
+      <li class="list-inline-item">
+        <a class="text-muted" target="_blank"
+          href="http://esdc.prv/en/index.shtml">ESDC Intranet</a>
+      </li>
+      <li class="list-inline-item">
+        <a class="text-muted"
+          href="/ITStrategy/privacy-disclaimer.html">Privacy Disclaimer</a>
+      </li></ul>
+    <!-- <p>Copyright © Her Majesty the Queen in Right of Canada, as represented by the Minister of Employment and Social Development Canada, 2019-2020.</p> -->
+  </div>
+</footer>
+
+<script>
+    function selectLanguage(e){  
+      e = e || window.event;
+      var src;
+      if (! (e.target || e.srcElement) ){
+        src = e
+      }
+      else{
+        src = e.target || e.srcElement;
+      }
+
+      var selectedLanguage = src.innerText.trim()
+
+    
+      if (selectedLanguage === "English"){
+        localStorage.setItem(
+          "language", "English"
+        )
+
+        
+        if (src.attributes.hasOwnProperty("href") && src.attributes.href.value !== ""){
+            window.location.replace(
+                src.attributes.href.value
+            )
+        }
+        else {
+            window.location.replace(
+                "./home.html"
+            )
+
+        }
+      }
+
+      else if ( selectedLanguage === "Français" ){
+        localStorage.setItem(
+          "language", "Français"
+        )
+
+        if (src.attributes.hasOwnProperty("href") && src.attributes.href.value !== ""){
+            window.location.replace(
+                src.attributes.href.value
+            )
+        }
+        else {
+            window.location.replace(
+                "./accueil.html"
+            )
+
+        }
+    
+      }
+    }  
+</script>
+
+<script src="https://code.jquery.com/jquery-3.4.1.slim.js"
+  integrity="sha256-BTlTdQO9/fascB1drekrDVkaKd9PkwBymMlHOiG+qLI=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+  integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+  integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/highlight.min.js"></script>
+
+<!-- Font Awesome https://fontawesome.com/  https://use.fontawesome.com/releases/v5.11.2/js/all.js -->
+<script src="https://use.fontawesome.com/releases/v5.11.2/js/all.js"></script>
+
+<!-- DataTables -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.19/js/jquery.dataTables.min.js"
+  integrity="sha256-t5ZQTZsbQi8NxszC10CseKjJ5QeMw5NINtOXQrESGSU=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.19/js/dataTables.bootstrap4.min.js"
+  integrity="sha256-hJ44ymhBmRPJKIaKRf3DSX5uiFEZ9xB/qx8cNbJvIMU=" crossorigin="anonymous"></script><script>
+  $("table").addClass("table");
+  $("blockquote").addClass("blockquote");
+  hljs.initHighlightingOnLoad();
+
+
+  var divs = $("div div.highlight");
+  var i;
+  for (i = 0; i < divs.length; i++) {
+    divs[i].setAttribute("tabindex", "0");
+  }
+
+/** Inspiration/source for accessible cards: 
+https://inclusive-components.design/cards/ 
+Author: Heydon Pickering
+Twitter: https://twitter.com/heydonworks
+*/
+
+  const cards = document.querySelectorAll('.card');
+  cards.forEach(card => {
+      card.style.cursor = 'pointer';
+  })
+  Array.prototype.forEach.call(cards, card => {
+    //Source code from Heydon Pickering
+    let down, up, link = card.querySelector('h2 a');
+    card.onmousedown = () => down = +new Date();
+    card.onmouseup = () => {
+      up = +new Date();
+      if ((up - down) < 200) {
+        link.click();
+      }
+    }
+    //Add conditional styling: if JS disabled, not applied
+    card.onmouseover = () => {
+      card.style.border = "1px solid black";
+    }
+    card.onmouseout = () => {
+      card.style.border = "1px solid rgba(0,0,0,.125)";
+    }
+  });
+
+  // Fix for text wrapping in menu
+  $(document).ready(function () {
+    $(document.body).css('padding-top', $('#topnavbar').height() - 25);
+    $(window).resize(function () {
+      $(document.body).css('padding-top', $('#topnavbar').height() - 25);
+    });
+
+  });
+</script>
+    </div>
+
+  </body>
+
+</html>

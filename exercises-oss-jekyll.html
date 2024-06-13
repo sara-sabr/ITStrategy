@@ -1,0 +1,574 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en" dir="ltr">
+
+  <head><title>Jekyll Exercise Instructions - Information Technology Strategy Team</title><meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description"
+    content="Working in the open! Our work in progress, list of reference material and presentations.">
+
+  <!-- Google tag (gtag.js)  2023-02-01 NEW GOOGLE ANALYTICS 4 (migrating from Universal Analytics)-->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-VZ3JFL3LDQ"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-VZ3JFL3LDQ');
+  </script>
+
+  <link rel="stylesheet" href="/ITStrategy/assets/css/style.css">
+  <link rel="icon" type="image/ico" href="/ITStrategy/assets/images/favicon.ico">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/a11y-dark.min.css">
+
+  <!-- Google Fonts https://fonts.google.com/ -->
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:300,400,700&display=swap">
+
+  <!-- DataTables https://datatables.net/ -->
+  <link rel="stylesheet" type="text/css"
+    href="https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.19/css/dataTables.bootstrap4.min.css">
+
+  <!-- Mathjax Support -->
+  <script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@2/MathJax.js?config=TeX-MML-AM_CHTML">
+  </script>
+
+</head>
+
+
+  <body vocab="http://schema.org/" typeof="WebPage">
+
+    <script>
+    if(/MSIE \d|Trident.*rv:/.test(navigator.userAgent)) {
+      alert("We recommend to use Edge, Firefox and other modern browsers instead of Internet Explorer. We'll now open this website in Edge for an optimal experience.")  
+      window.location = 'microsoft-edge:' + window.location;
+      setTimeout(function() {
+        window.location = 'https://go.microsoft.com/fwlink/?linkid=2135547';
+      }, 500);
+    }
+  </script><header>
+  <a href="#maincontent" class="skiptocontent">Skip to main content</a>
+  <nav class="navbar navbar-expand-md navbar-light fixed-top bg-light" id="topnavbar">
+    <div class="container-fluid">
+    <a aria-label="Home" class="navbar-brand" href="/ITStrategy/home.html"><span class="fas fa-home" aria-hidden="true"></span></a>
+
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#Menu1" aria-controls="Menu1" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="custom-toggler-icon"><i class="fas fa-bars"></i></span>
+    </button>
+
+      <div class="collapse navbar-collapse" id="Menu1">
+      <!-- Menu -->
+      <ul class="navbar-nav ml-auto">
+            <li class="nav-item"><a class="nav-link" lang="en" hreflang="en" href="/ITStrategy/about-us.html">About us</a></li><!--Mission--><li class="nav-item dropdown">
+
+    <a class="nav-link dropdown-toggle" href="#" id=navbarDropdownVision role="button" data-toggle="dropdown"
+        aria-haspopup="true" aria-expanded="false">
+        Mission
+    </a>
+    <div class="dropdown-menu" aria-labelledby="navbarDropdownVision">
+        <a class="dropdown-item" lang="en" hreflang="en"
+            href="/ITStrategy/mandate.html">Mandate</a>
+        <a class="dropdown-item" lang="en" hreflang="en"
+            href="/ITStrategy/vision-medium-long-term.html">Information Technology Vision</a>
+        <a class="dropdown-item" lang="en" hreflang="en"
+            href="/ITStrategy/esdc-it-strategy.html">Our Approach to Strategy</a>
+        <a class="dropdown-item" lang="en" hreflang="en"
+            href="/ITStrategy/strategy-communications.html">Communications Strategy</a></div>
+</li>
+
+            <li class="nav-item"><a class="nav-link" lang="en" hreflang="en" href="/ITStrategy/strategies.html">Strategies</a></li>
+            <li class="nav-item"><a class="nav-link" lang="en" hreflang="en" href="/ITStrategy/initiatives.html">Initiatives</a></li>
+            <li class="nav-item"><a class="nav-link" lang="en" hreflang="en" href="/ITStrategy/presentations.html">Presentations</a></li>
+            <li class="nav-item"><a class="nav-link" lang="en" hreflang="en" href="/ITStrategy/resources.html">Resources</a></li>
+            <li class="nav-item"><a class="nav-link" lang="en" hreflang="en" href="/ITStrategy/blog-posts.html">Blog</a></li></ul>
+
+      <!-- Language picker -->
+      <ul class="navbar-nav float-right"></ul>
+    </div>  <!--Menu1-->
+    </div> <!--container-->
+  </nav>
+</header>
+
+
+    <div class="container">
+    <main class="container">
+      <section class="jumbotron d-print-none">
+        <p class="site-title">Information Technology Strategy Team</p>
+      </section><article id="maincontent"><h1>Jekyll Exercise Instructions</h1>
+        
+    
+
+<blockquote>
+  <p><em>(The exercise below is adapted from Davy De Waele’s <a href="https://ddewaele.github.io/running-jekyll-in-docker/">blog post</a> explaining how to run Jekyll in Docker. © 2018 Davy De Waele)</em></p>
+</blockquote>
+
+<ul>
+  <li><a href="#prerequisites">Prerequisites</a>
+    <ul>
+      <li><a href="#windows">Windows</a></li>
+      <li><a href="#linux">Linux</a></li>
+      <li><a href="#macos">macOS</a></li>
+    </ul>
+  </li>
+  <li><a href="#troubleshooting">Troubleshooting</a>
+    <ul>
+      <li><a href="#testing-docker">Testing Docker</a></li>
+      <li><a href="#windows-10">Windows 10</a>
+        <ul>
+          <li><a href="#invalid-reference-format">Invalid Reference Format</a></li>
+          <li><a href="#docker-not-running">Docker Not Running</a></li>
+          <li><a href="#docker-shared-drive">Docker Shared Drive</a></li>
+          <li><a href="#blog-posts-not-updating">Blog Posts Not Updating</a></li>
+        </ul>
+      </li>
+      <li><a href="#ubuntu-1804">Ubuntu 18.04</a>
+        <ul>
+          <li><a href="#docker-permission-denied">Docker permission denied</a></li>
+        </ul>
+      </li>
+      <li><a href="#macos-1">macOS</a></li>
+    </ul>
+  </li>
+  <li><a href="#steps">Steps</a>
+    <ul>
+      <li><a href="#1-create-your-project-folder">1. Create Your Project Folder</a></li>
+      <li><a href="#2-generate-jekyll-files">2. Generate Jekyll Files</a></li>
+      <li><a href="#3-build-the-site">3. Build The Site</a></li>
+      <li><a href="#4-run-the-site-locally">4. Run The Site Locally</a></li>
+      <li><a href="#5-create-a-blog-post">5. Create A Blog Post</a></li>
+      <li><a href="#6-remove-the-container">6. Remove the container</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="prerequisites">Prerequisites</h2>
+
+<h3 id="windows">Windows</h3>
+
+<ul>
+  <li>Windows 10 Pro
+    <ul>
+      <li>Hyper-V and Containers Windows features must be enabled.</li>
+    </ul>
+  </li>
+  <li><a href="https://hub.docker.com/editions/community/docker-ce-desktop-windowshttps://hub.docker.com/editions/community/docker-ce-desktop-windows">Docker CE for Windows Installed and Configured</a>
+    <ul>
+      <li>See the <a href="#troubleshooting">troubleshooting section</a> for help with Docker issues</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="linux">Linux</h3>
+
+<ul>
+  <li>Ubuntu 16.04 or above is recommended (Debian distros should work fine)</li>
+  <li><a href="https://docs.docker.com/install/linux/docker-ce/ubuntu/">Docker CE Installed and Configured</a>
+    <ul>
+      <li>See the <a href="#troubleshooting">troubleshooting section</a> for help with Docker issues</li>
+      <li>For installation, you can also use Snap:</li>
+    </ul>
+  </li>
+</ul>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">sudo </span>snap <span class="nb">install </span>docker
+</code></pre></div></div>
+
+<h3 id="macos">macOS</h3>
+
+<ul>
+  <li>mac OS 10.12 or newer</li>
+  <li><a href="https://docs.docker.com/docker-for-mac/install/#system-requirements">Hardware requirements</a></li>
+  <li><a href="https://docs.docker.com/docker-for-mac/install/">Docker CE Installed and Configured</a></li>
+</ul>
+
+<p><a href="#jekyll-exercise-instructions"><em>Back to top</em></a></p>
+
+<h2 id="troubleshooting">Troubleshooting</h2>
+
+<h3 id="testing-docker">Testing Docker</h3>
+
+<p>To test Docker on your machine, execute the following command in your terminal:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>docker run hello-world
+</code></pre></div></div>
+
+<p>If this doesn’t work, you will most likely need to look at the sections below to fix the issue.</p>
+
+<h3 id="windows-10">Windows 10</h3>
+
+<h4 id="invalid-reference-format">Invalid Reference Format</h4>
+
+<p>If you copied a command designed for Linux or macOS, you’ll probably run into an issue because Windows requires <code class="language-plaintext highlighter-rouge">{}</code> to call the <code class="language-plaintext highlighter-rouge">$PWD</code> variable.</p>
+
+<p>This would most likely give the following message error:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>C:<span class="se">\P</span>rogram Files<span class="se">\D</span>ocker<span class="se">\D</span>ocker<span class="se">\R</span>esources<span class="se">\b</span><span class="k">in</span><span class="se">\d</span>ocker.exe: invalid reference format.  
+</code></pre></div></div>
+
+<p>(<a href="https://github.com/OpenDroneMap/ODM/issues/591#issuecomment-377839741">Reference</a>)</p>
+
+<h4 id="docker-not-running">Docker Not Running</h4>
+
+<p>If you run into the following error message:</p>
+
+<p>C:\Program Files\Docker\Docker\Resources\bin\docker.exe: error during connect: Post http://%2F%2F.%2Fpipe%2Fdocker_engine/v1.40/containers/create: open //./pipe/docker_engine: Le fichier spécifié est introuvable. In the default daemon configuration on Windows, the docker client must be run elevated to connect. This error may also indicate that the docker daemon is not running.<br />
+See ‘C:\Program Files\Docker\Docker\Resources\bin\docker.exe run –help’.</p>
+
+<p>You most likely don’t have Docker running in the tray.</p>
+
+<p>Launch the Docker service.</p>
+
+<h4 id="docker-shared-drive">Docker Shared Drive</h4>
+
+<p>If you run into the following issue:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>C:<span class="se">\P</span>rogram Files<span class="se">\D</span>ocker<span class="se">\D</span>ocker<span class="se">\R</span>esources<span class="se">\b</span><span class="k">in</span><span class="se">\d</span>ocker.exe: Error response from daemon: Drive has not been shared.
+</code></pre></div></div>
+
+<p>That means your drive is most likely not shared in the Docker settings.</p>
+
+<p>To share a drive with Docker on Windows:</p>
+
+<ul>
+  <li>Click on the Docker icon and go to: <code class="language-plaintext highlighter-rouge">Settings --&gt; Shared Drives</code></li>
+  <li>Check whichever drive you will need to access with Docker.</li>
+  <li>Click on Apply</li>
+</ul>
+
+<h4 id="blog-posts-not-updating">Blog Posts Not Updating</h4>
+
+<p>On Windows, there may be some issues with the incremental build when running Docker</p>
+
+<p>Using the <code class="language-plaintext highlighter-rouge">--force_polling</code> switch at the end of the Docker command should normally fix the issue.</p>
+
+<p>(<a href="https://github.com/jekyll/jekyll/issues/2926#issuecomment-55558142">Reference</a>)</p>
+
+<h3 id="ubuntu-1804">Ubuntu 18.04</h3>
+
+<h4 id="docker-permission-denied">Docker permission denied</h4>
+
+<p>To avoid using Docker with <code class="language-plaintext highlighter-rouge">sudo</code>, follow the post install commands found <a href="https://docs.docker.com/install/linux/linux-postinstall/">here</a>.</p>
+
+<p>Log out and log in again.</p>
+
+<h3 id="macos-1">macOS</h3>
+
+<p>No issues known at the moment.
+You probably should use a Mac in all aspects of your life.
+/s</p>
+
+<p><a href="#jekyll-exercise-instructions"><em>Back to top</em></a></p>
+
+<h2 id="steps">Steps</h2>
+
+<h3 id="1-create-your-project-folder">1. Create Your Project Folder</h3>
+
+<p>In your preferred terminal, create a project folder.</p>
+
+<p>For example, you could do the following, changing <code class="language-plaintext highlighter-rouge">&lt;project name&gt;</code> to the name of your choice:</p>
+
+<p>Windows</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">mkdir</span> <span class="nt">-p</span> ~<span class="se">\D</span>ocuments<span class="se">\P</span>rojects<span class="se">\&lt;</span>project name&gt; <span class="p">;</span> <span class="nb">cd</span> ~<span class="se">\D</span>ocuments<span class="se">\P</span>rojects<span class="se">\&lt;</span>project name&gt;
+</code></pre></div></div>
+
+<p>Linux/Mac</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">mkdir</span> <span class="nt">-p</span> ~/Documents/Projects/&lt;project name&gt; <span class="p">;</span> <span class="nb">cd</span> ~/Documents/Projects/&lt;project name&gt;
+</code></pre></div></div>
+
+<blockquote>
+  <p>Note: In Windows, the backslash (<code class="language-plaintext highlighter-rouge">\</code>) is used to separate directories instead of the forward slash (<code class="language-plaintext highlighter-rouge">/</code>).
+In Mac and Unix systems, the forward slash is used.
+However, the command above should work for Windows too.</p>
+</blockquote>
+
+<p>This will create a folder <code class="language-plaintext highlighter-rouge">&lt;project name&gt;</code> in your user profile and move you to the folder.</p>
+
+<p>Example:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">mkdir</span> <span class="nt">-p</span> ~/Documents/Projects/mysite <span class="p">;</span> <span class="nb">cd</span> ~/Documents/Projects/mysite
+</code></pre></div></div>
+
+<h3 id="2-generate-jekyll-files">2. Generate Jekyll Files</h3>
+
+<p>In the terminal, run the following command to have a new Jekyll project structure created:</p>
+
+<p>Windows</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$JEKYLL_VERSION</span><span class="o">=</span>3.5
+
+docker run <span class="nt">--rm</span> <span class="nt">--volume</span><span class="o">=</span><span class="s2">"</span><span class="k">${</span><span class="nv">PWD</span><span class="k">}</span><span class="s2">:/srv/jekyll"</span> <span class="nt">-it</span> jekyll/jekyll:<span class="nv">$JEKYLL_VERSION</span> jekyll new <span class="nb">.</span>
+</code></pre></div></div>
+
+<p>Linux/Mac</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">export </span><span class="nv">JEKYLL_VERSION</span><span class="o">=</span>3.5
+
+docker run <span class="nt">--rm</span> <span class="nt">--volume</span><span class="o">=</span><span class="s2">"</span><span class="nv">$PWD</span><span class="s2">:/srv/jekyll"</span> <span class="nt">-it</span> jekyll/jekyll:JEKYLL_VERSION jekyll new <span class="nb">.</span>
+</code></pre></div></div>
+
+<p>If you type <code class="language-plaintext highlighter-rouge">ls</code> in the terminal, you should see the new files appear.</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Mode                LastWriteTime         Length Name
+<span class="nt">----</span>                <span class="nt">-------------</span>         <span class="nt">------</span> <span class="nt">----</span>
+d-----       2019-10-16     22:10                _posts
+<span class="nt">-a----</span>       2019-10-16     22:10             35 .gitignore
+<span class="nt">-a----</span>       2019-10-16     22:10            398 404.html
+<span class="nt">-a----</span>       2019-10-16     22:10            539 about.md
+<span class="nt">-a----</span>       2019-10-16     22:10            935 Gemfile
+<span class="nt">-a----</span>       2019-10-16     22:10           1388 Gemfile.lock
+<span class="nt">-a----</span>       2019-10-16     22:10            213 index.md
+<span class="nt">-a----</span>       2019-10-16     22:10           1651 _config.yml
+</code></pre></div></div>
+
+<blockquote>
+  <p>Notice that those files are on your drive, not in the Docker image or container.
+This means that you can modify the files directly from VS Code.</p>
+</blockquote>
+
+<h3 id="3-build-the-site">3. Build The Site</h3>
+
+<p>Execute the following command in the terminal to have the website files generated:</p>
+
+<p>Windows</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>docker run <span class="nt">--rm</span> <span class="nt">--volume</span><span class="o">=</span><span class="s2">"</span><span class="k">${</span><span class="nv">PWD</span><span class="k">}</span><span class="s2">:/srv/jekyll"</span> <span class="nt">-it</span> jekyll/jekyll:JEKYLL_VERSION jekyll build
+</code></pre></div></div>
+
+<p>Linux/Mac</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>docker run <span class="nt">--rm</span> <span class="nt">--volume</span><span class="o">=</span><span class="s2">"</span><span class="nv">$PWD</span><span class="s2">:/srv/jekyll"</span> <span class="nt">-it</span> jekyll/jekyll:JEKYLL_VERSION jekyll build
+</code></pre></div></div>
+
+<p>If you run the <code class="language-plaintext highlighter-rouge">ls</code> command again, you will notice a new folder has been created: <code class="language-plaintext highlighter-rouge">_site</code>.</p>
+
+<p>That folder now contains all the HTML and CSS required to deploy a fully functioning website.</p>
+
+<h3 id="4-run-the-site-locally">4. Run The Site Locally</h3>
+
+<p>Execute the following command in the terminal to have the site locally hosted, replacing <code class="language-plaintext highlighter-rouge">&lt;container name&gt;</code> by the name of your choice:</p>
+
+<p>Windows</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>docker run <span class="nt">--name</span> &lt;container name&gt; <span class="nt">--volume</span><span class="o">=</span><span class="s2">"</span><span class="k">${</span><span class="nv">PWD</span><span class="k">}</span><span class="s2">:/srv/jekyll"</span> <span class="nt">-p</span> 3000:4000 <span class="nt">-it</span> jekyll/jekyll:JEKYLL_VERSION jekyll serve <span class="nt">--watch</span> <span class="nt">--drafts</span> <span class="nt">--force_polling</span>
+</code></pre></div></div>
+
+<p>Linux/Mac</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>docker run <span class="nt">--name</span> &lt;container name&gt; <span class="nt">--volume</span><span class="o">=</span><span class="s2">"</span><span class="k">${</span><span class="nv">PWD</span><span class="k">}</span><span class="s2">:/srv/jekyll"</span> <span class="nt">-p</span> 3000:4000 <span class="nt">-it</span> jekyll/jekyll:JEKYLL_VERSION jekyll serve <span class="nt">--watch</span> <span class="nt">--drafts</span> <span class="nt">--force_polling</span>
+</code></pre></div></div>
+
+<p>You should be able to access the site at this URL: <a href="http://localhost:3000/">http://localhost:3000/</a></p>
+
+<h3 id="5-create-a-blog-post">5. Create A Blog Post</h3>
+
+<p>In the folder <code class="language-plaintext highlighter-rouge">_posts</code>, you can create a new blog post.</p>
+
+<p>Create a new markdown document with the following name format:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>yyyy-mm-dd-blog-title.md
+</code></pre></div></div>
+
+<p>In the document, you will need to have these lines at the top (although <code class="language-plaintext highlighter-rouge">categories</code> is optional).</p>
+
+<div class="language-text highlighter-rouge"><div class="highlight"><pre class="highlight"><code>---
+layout:
+title:
+date:
+categories:
+---
+</code></pre></div></div>
+
+<p>Example:</p>
+
+<p>Filename:</p>
+
+<div class="language-text highlighter-rouge"><div class="highlight"><pre class="highlight"><code>2019-10-17-my-new-blog-post.md
+</code></pre></div></div>
+
+<p>File content:</p>
+
+<div class="language-text highlighter-rouge"><div class="highlight"><pre class="highlight"><code>---
+layout: post
+title:  "My new blog post"
+date:   2019-10-15 14:37:24 -0400
+categories: jekyll update
+---
+
+You can add your content here.
+
+Liquid tags can also be used.
+
+## Jekyll Exercise Instructions
+
+
+
+</code></pre></div></div>
+
+<h3 id="6-remove-the-container">6. Remove the container</h3>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>docker <span class="nb">rm</span> <span class="nt">-f</span> &lt;container name&gt;
+</code></pre></div></div>
+
+<p>If you want to delete the project content, simply delete the folder.</p>
+
+<blockquote>
+  <p>Note: We’ll keep the project folder’s content for upcoming exercises</p>
+</blockquote>
+
+      </article>
+    </main>
+    
+    
+<div class="container text-right">
+  <a class="text-muted" target="_blank"
+    href="https://github.com/sara-sabr/ITStrategy/tree/master/_pages/en/others/exercises-oss-jekyll.md">View this page on GitHub</a>
+</div><footer class="pt-4 my-md-5 pt-md-5 border-top">
+  <div class="container">
+    <ul class="list-inline">
+      <li class="list-inline-item">
+        <a class="text-muted"
+          href="/ITStrategy/contact-us.html">Contact us</a>
+      </li>
+      <li class="list-inline-item">
+        <a class="text-muted"
+          href="/ITStrategy/archives.html">Archives</a>
+      </li><li class="list-inline-item">
+        <a class="text-muted" target="_blank"
+          href="https://014gc.sharepoint.com/sites/IITBStrategy">Sharepoint</a>
+      </li>
+
+      <li class="list-inline-item">
+        <a class="text-muted" target="_blank"
+          href="http://esdc.prv/en/index.shtml">ESDC Intranet</a>
+      </li>
+      <li class="list-inline-item">
+        <a class="text-muted"
+          href="/ITStrategy/privacy-disclaimer.html">Privacy Disclaimer</a>
+      </li></ul>
+    <!-- <p>Copyright © Her Majesty the Queen in Right of Canada, as represented by the Minister of Employment and Social Development Canada, 2019-2020.</p> -->
+  </div>
+</footer>
+
+<script>
+    function selectLanguage(e){  
+      e = e || window.event;
+      var src;
+      if (! (e.target || e.srcElement) ){
+        src = e
+      }
+      else{
+        src = e.target || e.srcElement;
+      }
+
+      var selectedLanguage = src.innerText.trim()
+
+    
+      if (selectedLanguage === "English"){
+        localStorage.setItem(
+          "language", "English"
+        )
+
+        
+        if (src.attributes.hasOwnProperty("href") && src.attributes.href.value !== ""){
+            window.location.replace(
+                src.attributes.href.value
+            )
+        }
+        else {
+            window.location.replace(
+                "./home.html"
+            )
+
+        }
+      }
+
+      else if ( selectedLanguage === "Français" ){
+        localStorage.setItem(
+          "language", "Français"
+        )
+
+        if (src.attributes.hasOwnProperty("href") && src.attributes.href.value !== ""){
+            window.location.replace(
+                src.attributes.href.value
+            )
+        }
+        else {
+            window.location.replace(
+                "./accueil.html"
+            )
+
+        }
+    
+      }
+    }  
+</script>
+
+<script src="https://code.jquery.com/jquery-3.4.1.slim.js"
+  integrity="sha256-BTlTdQO9/fascB1drekrDVkaKd9PkwBymMlHOiG+qLI=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+  integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+  integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/highlight.min.js"></script>
+
+<!-- Font Awesome https://fontawesome.com/  https://use.fontawesome.com/releases/v5.11.2/js/all.js -->
+<script src="https://use.fontawesome.com/releases/v5.11.2/js/all.js"></script>
+
+<!-- DataTables -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.19/js/jquery.dataTables.min.js"
+  integrity="sha256-t5ZQTZsbQi8NxszC10CseKjJ5QeMw5NINtOXQrESGSU=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.19/js/dataTables.bootstrap4.min.js"
+  integrity="sha256-hJ44ymhBmRPJKIaKRf3DSX5uiFEZ9xB/qx8cNbJvIMU=" crossorigin="anonymous"></script><script>
+  $("table").addClass("table");
+  $("blockquote").addClass("blockquote");
+  hljs.initHighlightingOnLoad();
+
+
+  var divs = $("div div.highlight");
+  var i;
+  for (i = 0; i < divs.length; i++) {
+    divs[i].setAttribute("tabindex", "0");
+  }
+
+/** Inspiration/source for accessible cards: 
+https://inclusive-components.design/cards/ 
+Author: Heydon Pickering
+Twitter: https://twitter.com/heydonworks
+*/
+
+  const cards = document.querySelectorAll('.card');
+  cards.forEach(card => {
+      card.style.cursor = 'pointer';
+  })
+  Array.prototype.forEach.call(cards, card => {
+    //Source code from Heydon Pickering
+    let down, up, link = card.querySelector('h2 a');
+    card.onmousedown = () => down = +new Date();
+    card.onmouseup = () => {
+      up = +new Date();
+      if ((up - down) < 200) {
+        link.click();
+      }
+    }
+    //Add conditional styling: if JS disabled, not applied
+    card.onmouseover = () => {
+      card.style.border = "1px solid black";
+    }
+    card.onmouseout = () => {
+      card.style.border = "1px solid rgba(0,0,0,.125)";
+    }
+  });
+
+  // Fix for text wrapping in menu
+  $(document).ready(function () {
+    $(document.body).css('padding-top', $('#topnavbar').height() - 25);
+    $(window).resize(function () {
+      $(document.body).css('padding-top', $('#topnavbar').height() - 25);
+    });
+
+  });
+</script>
+    </div>
+
+  </body>
+
+</html>

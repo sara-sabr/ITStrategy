@@ -1,0 +1,430 @@
+<!DOCTYPE html>
+<html class="no-js" lang="fr" dir="ltr">
+
+  <head><title>Nous encourageons par inadvertance les risques dans les TI - Équipe de la Stratégie des Technologies de l'information</title><meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description"
+    content="Dans ce blogue, nous prétendons que nos initiatives TI sont actuellement gérées d’une manière qui finit par favoriser les risques au lieu de les réduire, ce ...">
+
+  <!-- Google tag (gtag.js)  2023-02-01 NEW GOOGLE ANALYTICS 4 (migrating from Universal Analytics)-->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-VZ3JFL3LDQ"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-VZ3JFL3LDQ');
+  </script>
+
+  <link rel="stylesheet" href="/ITStrategy/assets/css/style.css">
+  <link rel="icon" type="image/ico" href="/ITStrategy/assets/images/favicon.ico">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/a11y-dark.min.css">
+
+  <!-- Google Fonts https://fonts.google.com/ -->
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:300,400,700&display=swap">
+
+  <!-- DataTables https://datatables.net/ -->
+  <link rel="stylesheet" type="text/css"
+    href="https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.19/css/dataTables.bootstrap4.min.css">
+
+  <!-- Mathjax Support -->
+  <script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@2/MathJax.js?config=TeX-MML-AM_CHTML">
+  </script>
+
+</head>
+
+
+  <body vocab="http://schema.org/" typeof="WebPage">
+
+    <script>
+    if(/MSIE \d|Trident.*rv:/.test(navigator.userAgent)) {
+      alert("Nous recommandons d'utiliser Edge, Firefox et autres navigateurs modernes au lieu d'Internet Explorer. Nous allons maintenant ouvrir ce site dans Edge pour une expérience optimale.")
+      window.location = 'microsoft-edge:' + window.location;
+      setTimeout(function() {
+        window.location = 'https://go.microsoft.com/fwlink/?linkid=2135547';
+      }, 500);
+    }
+  </script><header>
+  <a href="#maincontent" class="skiptocontent">Aller au contenu principal</a>
+  <nav class="navbar navbar-expand-md navbar-light fixed-top bg-light" id="topnavbar">
+    <div class="container-fluid">
+    <a aria-label="Home" class="navbar-brand" href="/ITStrategy/accueil.html"><span class="fas fa-home" aria-hidden="true"></span></a>
+
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#Menu1" aria-controls="Menu1" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="custom-toggler-icon"><i class="fas fa-bars"></i></span>
+    </button>
+
+      <div class="collapse navbar-collapse" id="Menu1">
+      <!-- Menu -->
+      <ul class="navbar-nav ml-auto">
+            <li class="nav-item"><a class="nav-link" lang="fr" hreflang="fr" href="/ITStrategy/a-propos-de-nous.html">À propos de nous</a></li><!--Mission--><li class="nav-item dropdown">
+
+    <a class="nav-link dropdown-toggle" href="#" id=navbarDropdownVision role="button" data-toggle="dropdown"
+        aria-haspopup="true" aria-expanded="false">
+        Mission
+    </a>
+    <div class="dropdown-menu" aria-labelledby="navbarDropdownVision">
+        <a class="dropdown-item" lang="fr" hreflang="fr"
+            href="/ITStrategy/mandat.html">Mandat</a>
+        <a class="dropdown-item" lang="fr" hreflang="fr"
+            href="/ITStrategy/vision-moyen-long-terme.html">Vision des technologies de l'information</a></div>
+</li>
+
+            <li class="nav-item"><a class="nav-link" lang="fr" hreflang="fr" href="/ITStrategy/strategies-fr.html">Stratégies</a></li>
+            <li class="nav-item"><a class="nav-link" lang="fr" hreflang="fr" href="/ITStrategy/initiatives-fr.html">Initiatives</a></li>
+            <li class="nav-item"><a class="nav-link" lang="fr" hreflang="fr" href="/ITStrategy/presentations-fr.html">Présentations</a></li>
+            <li class="nav-item"><a class="nav-link" lang="fr" hreflang="fr" href="/ITStrategy/ressources.html">Ressources</a></li>
+            <li class="nav-item"><a class="nav-link" lang="fr" hreflang="fr" href="/ITStrategy/nos-billets.html">Blogue</a></li></ul>
+
+      <!-- Language picker -->
+      <ul class="navbar-nav float-right">
+            <li class="nav-item lang-select-container" >
+                <button href="/ITStrategy/2019/12/20/why-we-are-promoting-risks.html" class= "lang-select" onclick="selectLanguage(this)">
+                  English
+                </button>
+            </li></ul>
+    </div>  <!--Menu1-->
+    </div> <!--container-->
+  </nav>
+</header>
+
+
+    <div class="container">
+    <main class="container">
+      <section class="jumbotron d-print-none">
+        <p class="site-title">Équipe de la Stratégie des Technologies de l'information</p>
+      </section><article id="maincontent"><div class="blog">
+    <nav>
+<div style="margin-top: 30px; display: flex; justify-content: space-between; flex-wrap: wrap;"><p class="nav-item" style="flex: 1 1 0; width: 45%; padding-left: 0.5em;"><a class="text-dark nav-link" title="Travailler ouvertement: Partie 1" href="/ITStrategy/2019/11/19/travailler-ouvertement-partie-1.html">&#8672;&nbsp;Billet précédent</a></p>
+
+      <p class="nav-item" style="flex: 1 1 0; width: 45%; padding-right: 0.5em; text-align: right"><a class="text-dark nav-link" title="Meilleure technologie grâce au micro-approvisionnement : première partie" href="/ITStrategy/2020/08/12/meilleure-technologie-grace-au-micro-approvisionnement-partie-1.html" rel="prev">Prochain billet&nbsp;&#8674;</a></p></div>
+</nav>
+
+
+    <h1>Nous encourageons par inadvertance les risques dans les TI</h1>
+    <div class="author">2019-12-20 - Écrit par Rémy Bernard, en collaboration avec l'équipe de Stratégie TI</div>
+
+    
+
+    
+
+    <p>Dans ce blogue, nous prétendons que nos initiatives TI sont actuellement gérées d’une manière qui finit par favoriser les risques au lieu de les réduire, ce qui entraîne des décisions d’investissement incorrectes, dilue notre empathie envers les utilisateurs finaux et, en fin de compte, réduit notre capacité de respecter notre responsabilité fiduciaire envers les fonds publics, comme l’exige la <a href="https://laws.justice.gc.ca/fra/lois/F-11/index.html">Loi sur la gestion des finances publiques</a></p>
+
+<!--more-->
+
+<p><em>Note : Ce blogue fera le lien vers des documents internes de EDSC, qui ne sont malheureusement accessibles qu’au sein du réseau de EDSC.</em></p>
+
+<h2 id="énoncé-du-problème">Énoncé du problème</h2>
+
+<p><strong>Avant toute chose, nous tenons à clarifier que la gouvernance des initiatives TI est nécessaire et nous ne proposons nullement qu’elle doit être supprimée.</strong></p>
+
+<p>Toutefois, les méthodes actuelles visent un haut niveau de prévisibilité en utilisant une planification avancée et une exécution rigide des plans.
+Cela peut fonctionner pour les actifs physiques comme la construction d’une maison, mais pas pour les actifs intangibles - comme les logiciels.
+De plus, la transition vers le gouvernement numérique crée un avenir très complexe et incertain, ce qui, selon certains, exige un moyen différent de régir les investissements en TI : un moyen qui récompense un cycle empirique d’essais, d’observations et de corrections. <sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup></p>
+
+<p>À EDSC, nous avons une <a href="https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Politique%20sur%20la%20gestion%20de%20projet%20et%20de%20programme.pdf">Politique sur la gestion de projet et de programme (PGPP)</a> qui est conforme à la <a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32593">Politique sur la planification et la gestion des investissements</a> du Secrétariat du Conseil du Trésor (SCT), dont l’un des objectifs est d’assurer la <em>responsabilisation et le succès du portefeuille de projets et de programmes en mettant <strong>l’accent sur les avantages des investissements</strong> dans les projets et les programmes.</em>
+Cette politique fait autorité en matière de gestion de tous les projets et programmes de EDSC.
+Le <a href="https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Cycle%20de%20vie%20projet.pdf">cadre du cycle de vie de projet</a> (CCVP) est utilisé pour guider la gestion de projets, en fonction de leur classification par taille (qui est basée sur le coût, le risque, la capacité et la complexité, bien qu’il soit juste de dire que la variable coût a plus de poids que les autres).</p>
+
+<p>Dans le CCVP, un projet TI est généralement censé produire entre 21 et 39 artefacts de gestion de projet, nécessiter entre 48 et 60 activités de gestion de projet, et impliquer 16 intervenants.
+Il faut noter que parmi les 16 intervenants, seulement 5 d’entre eux proviennent de la Direction de la TI (bien qu’en réalité, il s’agisse de beaucoup plus que cela, comme nous l’expliquerons plus tard).</p>
+
+<p>Nous soutenons que cette méthode de gestion des fonds pour les initiatives TI permet d’obtenir les résultats suivants :</p>
+
+<ul>
+  <li>favoriser les risques au lieu de les réduire ;</li>
+  <li>entraîner des décisions d’investissement incorrectes ;</li>
+  <li>diluer l’empathie envers l’utilisateur final (le citoyen); et</li>
+  <li>réduire notre capacité à assumer notre responsabilité fiduciaire à l’égard des fonds publics.</li>
+</ul>
+
+<h3 id="favoriser-les-risques-au-lieu-de-les-réduire">Favoriser les risques au lieu de les réduire</h3>
+
+<p>Ce lourd processus de gouvernance de projet, bien qu’il soit conçu comme un moyen de réduire les risques, finit par les promouvoir.
+Étant donné que faire de petits changements en TI ne justifie pas l’effort de passer par ce fardeau, on finit par attendre.
+Nous attendons d’avoir accumulé suffisamment de petits changements pour justifier l’effort d’obtenir la permission de les faire.
+Nous finissons par promouvoir, par inadvertance, le gonflement des fonctionnalités.</p>
+
+<p>Il <a href="https://sencanada.ca/content/sen/committee/421/NFFN/reports/NFFN_Ph%C3%A9nix_rapport32_WEB_f.pdf">est risqué</a> d’empiler de nombreux petits changements pour en faire de grands.</p>
+
+<p>De plus, le <strong>promoteur du projet</strong> doit s’engager à respecter la portée, les coûts et le calendrier au point de contrôle nº 3, avant l’exécution du projet (point de contrôle nº 4).
+Nous savons comment construire des maisons parce que nous le faisons depuis des siècles, les méthodes que nous utilisons n’ont pas beaucoup changé et nous ne nous attendons pas à ce que ces bâtiments changent beaucoup dans l’avenir, de sorte que nos estimations de coûts et de calendrier pour les maisons peuvent être assez précises.
+Mais dans le monde du logiciel, où la technologie évolue si rapidement, les systèmes sont de plus en plus intégrés et complexes, évoluant continuellement dans le temps, les coûts et le calendrier sont tout sauf des suppositions et il est très peu probable qu’ils soient précis.
+Cela signifie que vous pouvez vous attendre à ce que vos estimations initiales changent une fois le projet exécuté.</p>
+
+<p>La gouvernance de projet comprend un <a href="https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Guide%20de%20contrôle%20du%20changement.pdf">processus de contrôle du changement</a> qui exige que vous fournissiez des informations sur l’étendue des changements et, selon cette étendue, que vous demandiez différents types d’approbation de gouvernance avant d’être autorisé à changer.
+Obtenir des informations sur la portée du changement est également un travail.
+Il faut réengager les différentes équipes TI, les empêcher de faire ce qu’elles font actuellement et réévaluer le même type d’information que les estimations initiales du projet (portée, coûts et calendrier).
+Comme nous l’avons mentionné ci-dessus, l’effort que représente le processus de contrôle du changement doit être proportionnel à l’effort du changement en lui-même, sinon il s’accumule.
+Cet effort comprend également le passage par les instances de gouvernance et l’obligation d’expliquer pourquoi nous n’aurions pas pu prévoir un tel changement au départ; pourquoi nos estimations initiales n’étaient pas exactes.
+Expliquer pourquoi nous nous sommes trompés n’est pas amusant…</p>
+
+<p>Dans un sens, la gouvernance actuelle n’accueille pas le changement, ce qui contredit directement le <a href="https://agilemanifesto.org/iso/fr/manifesto.html">Manifeste pour le développement logiciel agile</a>: L’adaptation au changement avant le suivi d’un plan</p>
+
+<p>Enfin, comme le <strong>Promoteur du projet</strong> s’est déjà engagé à respecter une portée, des coûts et un calendrier fixes au point de contrôle nº 3, et comme le changement est en fait difficile à mettre en œuvre, nous finissons par nous en tenir au plan, en particulier à la portée et au calendrier.
+Il en résulte que la TI doit couper des travaux essentiels qui ne sont pas visibles pour le promoteur, comme les essais, l’assurance de la qualité, le rendement, la sécurité, la documentation, et plus particulièrement : <strong>la correction de la dette technique</strong>.
+Le projet peut être livré à temps et dans le respect du budget, mais les réductions sont telles que sa qualité en souffre et que l’équipe informatique finit par devoir absorber une grande partie de la dette.
+Une partie de cette dette sera articulée dans un plan de risque résiduel que la sécurité utilisera pour émettre son Autorisation d’exploitation intérimaire avec la promesse que le plan sera exécuté dans l’avenir.
+Ce qui, soyons honnêtes, s’avère peu probable parce que ce plan d’exigences non fonctionnelles peu attrayant sera en concurrence avec des plans attrayants et riches en nouvelles fonctionnalités qui attendent leur tour.</p>
+
+<h3 id="entraîner-des-décisions-dinvestissement-incorrectes">Entraîner des décisions d’investissement incorrectes</h3>
+
+<p>Dans le CCVP mentionné précédemment, <strong>Élaborer et tester la solution</strong> n’est qu’une activité de projet parmi la liste des 48 à 60, mais c’est la plus intensive, la raison pour laquelle tout ce projet a été financé, où nous passerons la plupart de notre temps, et fera participer au moins 12 autres intervenants juste au sein de la Direction de la TI (comme l’indique cette <a href="onenote:http://dialogue/grp/PR6893344/OneNote/AppDevSA/02-Development%20%28In%20Progress%29/Release%20Process.one#section-id={D2EC43C2-A283-4DC1-B0C1-E1063C0F3721}&amp;end">cartographie de processus</a> créée par nos Conseillers principaux).</p>
+
+<p>C’est dans cette activité <strong>Élaborer et tester la solution</strong> que nous finissons par découvrir de nombreux inconnus qui entravent notre capacité d’exécution (limites des compétences internes, limites de l’intégration des systèmes, dette technique, fonctionnalités de nouvelles technologies qui pourraient résoudre des problèmes mais qui ne font pas partie de nos standards actuels, vulnérabilités de sécurité, limites des logiciels propriétaires, etc).
+Aucune planification avancée ne peut complètement découvrir ces inconnues en raison du rythme rapide des changements technologiques et, plus important encore, des demandes croissantes des <strong>utilisateurs finaux</strong> qui ne sont validées que lorsque nous <strong>transférons la solution aux opérations</strong> et produisons le <strong>plan de réalisation des avantages</strong>. De plus, si le plan préapprouvé nécessite l’utilisation d’un logiciel propriétaire, les corrections de parcours impliqueront sûrement des activités d’approvisionnement qui représentent un travail et des investissements supplémentaires à obtenir.</p>
+
+<p>Ces <strong>demandes de l’utilisateur final</strong> sont ce que nous incluons dans les artefacts du projet <strong>Analyse de rentabilisation</strong> (en suivant les activités du projet “besoins d’affaires” et “établir l’harmonisation stratégique”).
+Mais qu’est-ce qu’une Analyse de rentabilisation ?
+Nous soutenons que ce n’est qu’une <strong>Hypothèse</strong>.
+Il s’agit essentiellement de demander à l’organisation des fonds et des ressources pour évaluer si des changements dans les systèmes TI, ou la construction de nouveaux systèmes, amélioreraient la prestation des services aux citoyens.
+Une telle <strong>hypothèse</strong> devrait être validée rapidement afin de réduire tout investissement d’argent ou d’efforts vers quelque chose qui finit par <a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html">ne pas améliorer la prestation de services</a>.</p>
+
+<p>Le cadre de gouvernance actuel ne permet pas au ministère d’arriver au stade du “transfert aux opérations” assez rapidement pour évaluer son hypothèse, car les projets TI sont trop gros.
+De plus, une fois son hypothèse évaluée, le projet se termine au lieu de permettre une correction de cap basée sur les commentaires des utilisateurs finaux.</p>
+
+<p>Dans un sens, le cadre actuel favorise les décisions d’investissement incorrectes parce qu’il permet aux grands projets de se dérouler pendant trop longtemps sans la boucle de rétroaction des utilisateurs finaux pour confirmer si de tels investissements en valent la peine.
+Cela va précisément à l’encontre de l’esprit du gouvernement numérique en <a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html">étant plus agile, ouvert et axé sur l’utilisateur</a>.</p>
+
+<h3 id="diluer-lempathie-envers-lutilisateur-final-le-citoyen">Diluer l’empathie envers l’utilisateur final (le citoyen)</h3>
+
+<p>Dans le CCVP mentionné ci-dessus, les changements apportés aux systèmes commencent par une proposition d’investissement de la part d’un propriétaire fonctionnel qui est donnée à un comité exécutif d’approbation. De là, elle suivra 5 étapes impliquant plus de 16 parties prenantes, et passera par <a href="http://dialogue/grp/IITB-DGIIT-Gov-New-Nouveau/SitePages/Governance.aspx">plusieurs comités</a> (selon l’ampleur de la demande). La ou les équipes TI travaillant sur le projet n’interviennent qu’à l’étape 4, après que 14 parties prenantes aient examiné la demande de l’utilisateur final, où elles devront interagir avec une <a href="onenote:http://dialogue/grp/PR6893344/OneNote/AppDevSA/02-Development%20%28In%20Progress%29/Release%20Process.one#section-id={D2EC43C2-A283-4DC1-B0C1-E1063C0F3721}&amp;end">douzaine d’autres équipes TI</a> pour chaque fonctionnalité demandée. Tout au long de ce processus, la ou les équipes TI devront également fournir des mises à jour périodiques sur l’état d’avancement du projet par rapport à la portée, les coûts, et le calendrier pré-engagés.</p>
+
+<p>Chaque point de contrôle entre les utilisateurs finaux et les équipes de produits TI travaillant sur la ou les fonctionnalités élargit l’écart entre eux. Bien que l’équipe chargée du produit TI puisse s’adresser à un utilisateur final à l’étape 4, ces points de contrôle créent une perspective qui décourage toute correction de trajectoire résultant des interactions avec l’utilisateur final. En effet, toute modification de la portée, du calendrier ou des coûts nécessite de passer par un <a href="https://gpp-ppm.service.gc.ca/sites/pwa/ESDCKnowledgeRepository/All%20Documents/Guide%20de%20contrôle%20du%20changement.pdf">processus de contrôle des changements</a> pour justifier la correction de trajectoire, ce qui ajoute du travail. Le résultat final sera qu’il sera peut-être plus facile pour les équipes de produits informatiques de s’en tenir à des exigences préétablies que d’interagir directement avec les utilisateurs finaux afin de rechercher la compréhension et l’empathie.</p>
+
+<p>La <a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html">norme numérique n°1 du gouvernement du Canada</a> est la conception avec les utilisateurs, mais le cadre actuel empêche les équipes informatiques d’interagir plus étroitement avec eux ou elles. De plus, comme nous l’avons dit plus haut, le projet TI doit être une hypothèse, qui DOIT être validée avec de vrais utilisateurs, ce que <a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32603">l’exigence 4.2.1.5 de la prochaine Politique sur les services et le numérique</a> exige essentiellement des administrateurs généraux, et non pas par le biais de procurations.</p>
+
+<p>En ajoutant les couches entre l’utilisateur final qui a lancé la proposition d’investissement et l’équipe ou les équipes TI censées y travailler, nous avons essentiellement dilué l’empathie à son égard.</p>
+
+<h3 id="responsabilité-fiduciaire-à-légard-des-fonds-publics">Responsabilité fiduciaire à l’égard des fonds publics</h3>
+
+<p>La Loi sur la gestion des finances publiques contient les deux articles suivants :</p>
+
+<p>alinéa <strong>7 (1) c)</strong></p>
+
+<blockquote>
+  <p>7 (1) Le Conseil du Trésor peut agir au nom du Conseil privé de la Reine pour le Canada à l’égard des questions suivantes</p>
+
+  <p>(c) la gestion financière, notamment les prévisions budgétaires, les dépenses, les engagements financiers, les comptes, le prix de fourniture de services ou d’usage d’installations, les locations, les permis ou licences, les baux, le produit de la cession de biens, ainsi que les méthodes employées par les ministères pour gérer, inscrire et comptabiliser leurs recettes ou leurs créances;</p>
+</blockquote>
+
+<p>alinéa <strong>16.4 (1)</strong></p>
+
+<blockquote>
+  <p>16.4 (1) Dans le cadre des attributions du ministre compétent — notamment en ce qui concerne la gestion et la direction du ministère — et de son obligation de rendre compte au Parlement, l’administrateur des comptes visé à la partie I de l’annexe VI est comptable devant les comités compétents du Sénat et de la Chambre des communes :
+a) des mesures prises pour que les ressources du ministère soient affectées de façon à réaliser les programmes de celui-ci, en conformité avec les règles et méthodes administratives applicables;</p>
+
+  <p>b) des mesures prises pour que le ministère soit doté de mécanismes de contrôle interne efficaces;</p>
+</blockquote>
+
+<p>Les trois points mentionnés ci-dessus dans ce blogue (promotion des risques, décisions d’investissement incorrectes et dilution de l’empathie envers l’utilisateur final) sont des arguments pour améliorer notre responsabilité fiduciaire envers les fonds publics dans le financement des projets informatiques.
+Nous devons trouver des méthodes qui offrent une façon beaucoup plus simple, rapide et agile de débloquer des fonds pour les projets numériques.
+<a href="https://www.itnews.com.au/news/federal-it-funding-shake-up-floated-by-services-australia-minister-534843">D’autres pays, comme l’Australie (article en anglais)</a> évaluent d’autres modes de financement pour soutenir la transformation numérique, comme</p>
+
+<blockquote>
+  <p>permettre aux organismes d’essayer des choses, d’apprendre et de mettre à l’échelle ou de partager leurs apprentissages avant que d’importantes sommes d’argent et de capital de réputation ne soient englouties dans des projets qui risquent de ne pas atteindre leurs objectifs.</p>
+</blockquote>
+
+<h2 id="recommandations">Recommandations</h2>
+
+<p>Pour remédier aux problèmes mentionnés ci-dessus, nous proposons ce qui suit :</p>
+
+<ol>
+  <li>Promouvoir les petits investissements en TI plutôt que les grands comme moyen de réduire l’impact des risques pour l’organisation;</li>
+  <li>Traiter chaque projet comme une hypothèse, qui doit être validée par les utilisateurs finaux le plus rapidement possible, ce qui nécessitera invariablement des corrections de trajectoire;</li>
+  <li>Mettre beaucoup plus l’accent sur la mesure des résultats que sur les livrables du projet.
+Cela favorise l’investissement dans <a href="http://dialogue/grp/EA-AE/SitePages/dvsmodel.aspx">l’Architecture d’affaires et la Chaîne de valeur ministérielle</a> en utilisant des mesures solides et fiables provenant des secteurs d’activité;</li>
+  <li>Traiter les logiciels comme des produits, et non comme des biens matériels.
+Ils ont besoin d’une source de financement stable et d’équipes dédiées pour permettre une correction et une évolution de la dette technique en temps opportun.
+Les équipes devraient être composées non seulement de développeurs, mais aussi d’experts en sécurité, en opérations, en tests et en politiques, qui travaillent avec les utilisateurs <em>réels</em>;</li>
+  <li>Utiliser des garde-fous architecturaux au lieu de barrières, où l’architecture d’entreprise agit comme une discipline de surveillance en faisant des recommandations pour la correction de la trajectoire afin d’aligner les produits individuels vers l’état d’architecture d’entreprise cible; et</li>
+  <li>Adopter la philosophie du logiciel libre qui consiste à <a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html">travailler</a> <a href="/ITStrategy/2019-11-19-travailler-ouvertement-partie-1.md">ouvertement</a> et à partager votre travail afin de réaliser des économies d’échelle, d’éviter de longues batailles d’approvisionnement, de limiter le verrouillage envers des fournisseurs et d’augmenter les possibilités de réutilisation de votre travail.</li>
+</ol>
+
+<h2 id="références">Références</h2>
+
+<h2 id="changements">Changements</h2>
+
+<p>2020-02-21: correction de liens brisés et ajout d’une section manquante</p>
+
+<p>2020-01-20:</p>
+
+<ol>
+  <li>Nous avons mis à jour le texte pour refléter le fait que même si nous avons généralement un ou une auteur par billet, l’analyse conduite représente la position de l’ensemble de l’équipe de stratégie TI.</li>
+  <li>Nous avons mis à jour le texte pour clarifier que l’équipe de stratégie TI crois que la gouvernance est requise pour assurer la conformité au vaste ensemble de lois et de règlements auxquels nous sommes tenus.
+  Nous comprenons que les organisations non gouvernementales ne sont peut-être pas assujetties à autant de règles, mais nous croyons qu’il existe des moyens solides et modernes de demeurer conformes tout en réduisant le risque de gestion des TI au sein du gouvernement.</li>
+</ol>
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1" role="doc-endnote">
+      <p>Mark Schwartz, <a href="https://itrevolution.com/war-and-peace-and-it/"><em>War and Peace and IT</em></a>, IT Revolution, 2019, page 30 <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+
+
+    <nav>
+<div style="margin-top: 30px; display: flex; justify-content: space-between; flex-wrap: wrap;"><p class="nav-item" style="flex: 1 1 0; width: 45%; padding-left: 0.5em;"><a class="text-dark nav-link" title="Travailler ouvertement: Partie 1" href="/ITStrategy/2019/11/19/travailler-ouvertement-partie-1.html">&#8672;&nbsp;Billet précédent</a></p>
+
+      <p class="nav-item" style="flex: 1 1 0; width: 45%; padding-right: 0.5em; text-align: right"><a class="text-dark nav-link" title="Meilleure technologie grâce au micro-approvisionnement : première partie" href="/ITStrategy/2020/08/12/meilleure-technologie-grace-au-micro-approvisionnement-partie-1.html" rel="prev">Prochain billet&nbsp;&#8674;</a></p></div>
+</nav>
+
+</div>
+
+      </article>
+    </main>
+    
+    
+<div class="container text-right">
+  <a class="text-muted" target="_blank"
+    href="https://github.com/sara-sabr/ITStrategy/tree/master/_posts/fr/2019-12-20-pourquoi-nous-favorisons-les-risques.md">Voir cette page dans GitHub</a>
+</div><footer class="pt-4 my-md-5 pt-md-5 border-top">
+  <div class="container">
+    <ul class="list-inline">
+      <li class="list-inline-item">
+        <a class="text-muted"
+          href="/ITStrategy/contactez-nous.html">Contactez nous</a>
+      </li>
+      <li class="list-inline-item">
+        <a class="text-muted"
+          href="/ITStrategy/archives-fr.html">Archives</a>
+      </li><li class="list-inline-item">
+        <a class="text-muted" target="_blank"
+          href="https://014gc.sharepoint.com/sites/IITBStrategy">Sharepoint</a>
+      </li>
+
+      <li class="list-inline-item">
+        <a class="text-muted" target="_blank"
+          href="http://esdc.prv/fr/index.shtml">Intranet EDSC</a>
+      </li>
+      <li class="list-inline-item">
+        <a class="text-muted"
+          href="/ITStrategy/close-confidentialite.html">Clause de confidentialité</a>
+      </li></ul>
+    <!-- <p>Droit d’auteur © Sa Majesté la Reine du chef du Canada, représentée par le ministre de Emploi et Développement social Canada, 2019-2020</p> -->
+  </div>
+</footer>
+
+<script>
+    function selectLanguage(e){  
+      e = e || window.event;
+      var src;
+      if (! (e.target || e.srcElement) ){
+        src = e
+      }
+      else{
+        src = e.target || e.srcElement;
+      }
+
+      var selectedLanguage = src.innerText.trim()
+
+    
+      if (selectedLanguage === "English"){
+        localStorage.setItem(
+          "language", "English"
+        )
+
+        
+        if (src.attributes.hasOwnProperty("href") && src.attributes.href.value !== ""){
+            window.location.replace(
+                src.attributes.href.value
+            )
+        }
+        else {
+            window.location.replace(
+                "./home.html"
+            )
+
+        }
+      }
+
+      else if ( selectedLanguage === "Français" ){
+        localStorage.setItem(
+          "language", "Français"
+        )
+
+        if (src.attributes.hasOwnProperty("href") && src.attributes.href.value !== ""){
+            window.location.replace(
+                src.attributes.href.value
+            )
+        }
+        else {
+            window.location.replace(
+                "./accueil.html"
+            )
+
+        }
+    
+      }
+    }  
+</script>
+
+<script src="https://code.jquery.com/jquery-3.4.1.slim.js"
+  integrity="sha256-BTlTdQO9/fascB1drekrDVkaKd9PkwBymMlHOiG+qLI=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+  integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+  integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/highlight.min.js"></script>
+
+<!-- Font Awesome https://fontawesome.com/  https://use.fontawesome.com/releases/v5.11.2/js/all.js -->
+<script src="https://use.fontawesome.com/releases/v5.11.2/js/all.js"></script>
+
+<!-- DataTables -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.19/js/jquery.dataTables.min.js"
+  integrity="sha256-t5ZQTZsbQi8NxszC10CseKjJ5QeMw5NINtOXQrESGSU=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.19/js/dataTables.bootstrap4.min.js"
+  integrity="sha256-hJ44ymhBmRPJKIaKRf3DSX5uiFEZ9xB/qx8cNbJvIMU=" crossorigin="anonymous"></script><script>
+  $("table").addClass("table");
+  $("blockquote").addClass("blockquote");
+  hljs.initHighlightingOnLoad();
+
+
+  var divs = $("div div.highlight");
+  var i;
+  for (i = 0; i < divs.length; i++) {
+    divs[i].setAttribute("tabindex", "0");
+  }
+
+/** Inspiration/source for accessible cards: 
+https://inclusive-components.design/cards/ 
+Author: Heydon Pickering
+Twitter: https://twitter.com/heydonworks
+*/
+
+  const cards = document.querySelectorAll('.card');
+  cards.forEach(card => {
+      card.style.cursor = 'pointer';
+  })
+  Array.prototype.forEach.call(cards, card => {
+    //Source code from Heydon Pickering
+    let down, up, link = card.querySelector('h2 a');
+    card.onmousedown = () => down = +new Date();
+    card.onmouseup = () => {
+      up = +new Date();
+      if ((up - down) < 200) {
+        link.click();
+      }
+    }
+    //Add conditional styling: if JS disabled, not applied
+    card.onmouseover = () => {
+      card.style.border = "1px solid black";
+    }
+    card.onmouseout = () => {
+      card.style.border = "1px solid rgba(0,0,0,.125)";
+    }
+  });
+
+  // Fix for text wrapping in menu
+  $(document).ready(function () {
+    $(document.body).css('padding-top', $('#topnavbar').height() - 25);
+    $(window).resize(function () {
+      $(document.body).css('padding-top', $('#topnavbar').height() - 25);
+    });
+
+  });
+</script>
+    </div>
+
+  </body>
+
+</html>

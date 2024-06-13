@@ -1,0 +1,834 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en" dir="ltr">
+
+  <head><title>Pilot IITB Standard on Product Management - Information Technology Strategy Team</title><meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description"
+    content="Working in the open! Our work in progress, list of reference material and presentations.">
+
+  <!-- Google tag (gtag.js)  2023-02-01 NEW GOOGLE ANALYTICS 4 (migrating from Universal Analytics)-->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-VZ3JFL3LDQ"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-VZ3JFL3LDQ');
+  </script>
+
+  <link rel="stylesheet" href="/ITStrategy/assets/css/style.css">
+  <link rel="icon" type="image/ico" href="/ITStrategy/assets/images/favicon.ico">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/a11y-dark.min.css">
+
+  <!-- Google Fonts https://fonts.google.com/ -->
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:300,400,700&display=swap">
+
+  <!-- DataTables https://datatables.net/ -->
+  <link rel="stylesheet" type="text/css"
+    href="https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.19/css/dataTables.bootstrap4.min.css">
+
+  <!-- Mathjax Support -->
+  <script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@2/MathJax.js?config=TeX-MML-AM_CHTML">
+  </script>
+
+</head>
+
+
+  <body vocab="http://schema.org/" typeof="WebPage">
+
+    <script>
+    if(/MSIE \d|Trident.*rv:/.test(navigator.userAgent)) {
+      alert("We recommend to use Edge, Firefox and other modern browsers instead of Internet Explorer. We'll now open this website in Edge for an optimal experience.")  
+      window.location = 'microsoft-edge:' + window.location;
+      setTimeout(function() {
+        window.location = 'https://go.microsoft.com/fwlink/?linkid=2135547';
+      }, 500);
+    }
+  </script><header>
+  <a href="#maincontent" class="skiptocontent">Skip to main content</a>
+  <nav class="navbar navbar-expand-md navbar-light fixed-top bg-light" id="topnavbar">
+    <div class="container-fluid">
+    <a aria-label="Home" class="navbar-brand" href="/ITStrategy/home.html"><span class="fas fa-home" aria-hidden="true"></span></a>
+
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#Menu1" aria-controls="Menu1" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="custom-toggler-icon"><i class="fas fa-bars"></i></span>
+    </button>
+
+      <div class="collapse navbar-collapse" id="Menu1">
+      <!-- Menu -->
+      <ul class="navbar-nav ml-auto">
+            <li class="nav-item"><a class="nav-link" lang="en" hreflang="en" href="/ITStrategy/about-us.html">About us</a></li><!--Mission--><li class="nav-item dropdown">
+
+    <a class="nav-link dropdown-toggle" href="#" id=navbarDropdownVision role="button" data-toggle="dropdown"
+        aria-haspopup="true" aria-expanded="false">
+        Mission
+    </a>
+    <div class="dropdown-menu" aria-labelledby="navbarDropdownVision">
+        <a class="dropdown-item" lang="en" hreflang="en"
+            href="/ITStrategy/mandate.html">Mandate</a>
+        <a class="dropdown-item" lang="en" hreflang="en"
+            href="/ITStrategy/vision-medium-long-term.html">Information Technology Vision</a>
+        <a class="dropdown-item" lang="en" hreflang="en"
+            href="/ITStrategy/esdc-it-strategy.html">Our Approach to Strategy</a>
+        <a class="dropdown-item" lang="en" hreflang="en"
+            href="/ITStrategy/strategy-communications.html">Communications Strategy</a></div>
+</li>
+
+            <li class="nav-item"><a class="nav-link" lang="en" hreflang="en" href="/ITStrategy/strategies.html">Strategies</a></li>
+            <li class="nav-item"><a class="nav-link" lang="en" hreflang="en" href="/ITStrategy/initiatives.html">Initiatives</a></li>
+            <li class="nav-item"><a class="nav-link" lang="en" hreflang="en" href="/ITStrategy/presentations.html">Presentations</a></li>
+            <li class="nav-item"><a class="nav-link" lang="en" hreflang="en" href="/ITStrategy/resources.html">Resources</a></li>
+            <li class="nav-item"><a class="nav-link" lang="en" hreflang="en" href="/ITStrategy/blog-posts.html">Blog</a></li></ul>
+
+      <!-- Language picker -->
+      <ul class="navbar-nav float-right"></ul>
+    </div>  <!--Menu1-->
+    </div> <!--container-->
+  </nav>
+</header>
+
+
+    <div class="container">
+    <main class="container">
+      <section class="jumbotron d-print-none">
+        <p class="site-title">Information Technology Strategy Team</p>
+      </section><article id="maincontent"><h1>Pilot IITB Standard on Product Management</h1>
+        
+    
+        <div class="version">
+        
+            Last modified: 2022-02-04
+        
+        
+        </div>
+    
+
+<!-- markdownlint-disable MD033 -->
+
+<style>
+    .heading4 {
+        font-weight: bold;
+        font-style: italic;
+    }
+</style>
+
+<div class="alert alert-info" style="text-align: center;">This is a <strong>DRAFT (v0.4)</strong> document</div>
+
+<div class="alert alert-warning">
+    <p align="center"><strong>DISCLAIMER</strong></p>
+    <p>
+This document <strong>does NOT</strong> attempt to explain all aspects of Product Management (such as vision setting, user research, and the different phases a product goes through in its life cycle).
+These are well documented already, such as on <a href="https://www.pmi.org/disciplined-agile/process/product-management">PMI.org</a> and <a href="https://community.pdma.org/knowledgehub/home">PDMA.org</a>.
+    </p>
+    <p>
+    Instead, this documents seeks to provide structure to ESDC Programs and IITB in the <strong>transition</strong> from project to product, <strong>within a Canadian federal government context</strong>.
+    In particular, the methods to <strong>fund cross-functional and cross-branch product teams</strong>.
+    </p>
+    <p>
+    The Directive and Standard strive to be as succinct and to the point as possible, without repeating rules in existing policy instruments that teams are expected to comply with (such as Financial and Security). To help the reader understand the rationale behind them and provide guidance in implementing them, <a href="/ITStrategy/product-fw-guidance.html">a Guidance document has been written</a>.
+    </p>
+</div>
+
+<!-- markdownlint-disable MD001 -->
+<h5 id="table-of-content-">Table of Content <!-- omit in toc --></h5>
+<!-- markdownlint-enable MD001 -->
+<ul>
+  <li><a href="#effective-date">Effective Date</a></li>
+  <li><a href="#authorities">Authorities</a></li>
+  <li><a href="#standards">Standards</a>
+    <ul>
+      <li><a href="#product-team-setup">Product Team Setup</a>
+        <ul>
+          <li><a href="#software-development-work">Software Development Work</a></li>
+          <li><a href="#product-team-organizational-structure">Product Team Organizational Structure</a></li>
+          <li><a href="#product-team-governance-structure">Product Team Governance Structure</a></li>
+          <li><a href="#product-team-brief">Product Team Brief</a></li>
+          <li><a href="#memorandum-of-understanding-mou">Memorandum of Understanding (MOU)</a></li>
+        </ul>
+      </li>
+      <li><a href="#roles-and-responsibilities">Roles and Responsibilities</a>
+        <ul>
+          <li><a href="#head-of-product-role">Head of Product Role</a></li>
+          <li><a href="#product-manager-role">Product Manager Role</a></li>
+          <li><a href="#product-owner-role">Product Owner Role</a></li>
+          <li><a href="#it-security-champion-role">IT Security Champion Role</a></li>
+          <li><a href="#change-coordinator-role">Change Coordinator Role</a></li>
+          <li><a href="#product-support-manager-role">Product Support Manager Role</a></li>
+          <li><a href="#it-manager">IT Manager</a></li>
+        </ul>
+      </li>
+      <li><a href="#oversight-and-reporting">Oversight and Reporting</a>
+        <ul>
+          <li><a href="#product-roadmap-executive-view">Product Roadmap Executive View</a></li>
+          <li><a href="#release-impact-analysis">Release Impact Analysis</a></li>
+          <li><a href="#product-teams-software-performance-metrics">Product Team’s Software Performance Metrics</a></li>
+          <li><a href="#risk-register">Risk Register</a></li>
+        </ul>
+      </li>
+      <li><a href="#consequences-of-non-compliance">Consequences of Non-Compliance</a>
+        <ul>
+          <li><a href="#non-compliance-report">Non-Compliance Report</a></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><a href="#appendix-a-memorandum-of-understanding-template">Appendix A. Memorandum of Understanding Template</a></li>
+  <li><a href="#appendix-b-product-team-organizational-structure-template">Appendix B. Product Team Organizational Structure Template</a></li>
+  <li><a href="#appendix-c-product-team-governance-structure-template">Appendix C. Product Team Governance Structure Template</a></li>
+  <li><a href="#appendix-d-product-roadmap-executive-view-template">Appendix D. Product Roadmap Executive View Template</a></li>
+</ul>
+
+<h2 id="effective-date">Effective Date</h2>
+
+<p>This is a <strong>pilot</strong> Standard, associated with the <a href="/ITStrategy/product-fw-directive.html">Pilot IITB Directive on Product Management</a>’s effective date.</p>
+
+<h2 id="authorities">Authorities</h2>
+
+<p>This standard is issued pursuant the authority indicated in the <a href="/ITStrategy/product-fw-directive.html">Pilot IITB Directive on Product Management</a>.</p>
+
+<h2 id="standards">Standards</h2>
+
+<h3 id="product-team-setup">Product Team Setup</h3>
+
+<h4 id="software-development-work">Software Development Work</h4>
+
+<p>Budgeting a cross-branch product team will require the Sponsoring Branch to also budget part of the IT work that can be directly attributed to the product. Indirect costs such as SSC hosting services are not included as they are pooled at the IITB level.</p>
+
+<p>Software Development work that a Sponsoring Branch budgets includes:</p>
+
+<ul>
+  <li>Software development labour (non salary and salary)</li>
+  <li>Operating and managing labour (e.g. software bug fixes, patching, incident response). This budget depends on the operating support hours</li>
+  <li>Public Cloud credits (if using public cloud services such as MS Azure to host software or use cloud providers software as a service)</li>
+  <li>Software licences specific to the product team’s (e.g. a specialized proprietary software that the product team will purchase)</li>
+  <li>Any specialize equipment, such as high performing laptops</li>
+</ul>
+
+<p>It is worth noting that indirect IT costs, such as relational databases, SSC virtual machines, IITB corporate services such as Document Upload, do not make up the software development work budget.</p>
+
+<h4 id="product-team-organizational-structure">Product Team Organizational Structure</h4>
+
+<p>The Product Team Organizational Structure represents the cross-branch Org Chart of the product team using <a href="#appendix-b-product-team-organizational-structure-template">Appendix B. Product Team Organizational Structure Template</a>, and contains the following information:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Information Element</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>HR position</td>
+      <td>The position number or name of each ESDC branches making up the Product Team.</td>
+    </tr>
+    <tr>
+      <td>Position relationships</td>
+      <td>The relationships between the HR positions. The relationships shows the hierarchy levels and the communication lines between the positions.</td>
+    </tr>
+    <tr>
+      <td>Name of person</td>
+      <td>Name of person holding the HR position (if non-vacant)</td>
+    </tr>
+    <tr>
+      <td>Home branch</td>
+      <td>The home branch for each HR positions</td>
+    </tr>
+  </tbody>
+</table>
+
+<h4 id="product-team-governance-structure">Product Team Governance Structure</h4>
+
+<p>The Product Team’s Governance Structure explains how decisions affecting the product are managed, how certain decisions may be delegated, and the relationships between the different roles.</p>
+
+<p>The Product Team Governance Structure uses <a href="#appendix-c-product-team-governance-structure-template">Appendix C. Product Team Governance Structure Template</a>, and contains the following information:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Information Element</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Committees</td>
+      <td>Any committees part of the Product Governance and their associated Terms of Reference.</td>
+    </tr>
+    <tr>
+      <td>Standard Roles</td>
+      <td>The roles required by the <a href="/ITStrategy/product-fw-directive.html">Pilot IITB Directive on Product Management</a>.</td>
+    </tr>
+    <tr>
+      <td>Sub-Product Group(s)</td>
+      <td>(optional) The grouping of products into groups, if being used (e.g. if the Product actually comprises of more than one sub-product)</td>
+    </tr>
+    <tr>
+      <td>Working Groups</td>
+      <td>(optional) any working groups being part of the Governance structure</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>An <a href="https://014gc.sharepoint.com/sites/JobBankProductManagement/SitePages/products.aspx">example currently used by Job Bank</a></p>
+
+<h4 id="product-team-brief">Product Team Brief</h4>
+
+<p>The Product Team Brief is a document, whether online or in Office format, that contains the following information:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Information Element</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Product Name</td>
+      <td>Name of the Product (e.g. Job Bank)</td>
+    </tr>
+    <tr>
+      <td>Cross-Organizational Structure</td>
+      <td>See <a href="#product-team-organizational-structure">Product Team Organizational Structure</a></td>
+    </tr>
+    <tr>
+      <td>Governance Structure</td>
+      <td>See <a href="#product-team-governance-structure">Product Team Governance Structure</a></td>
+    </tr>
+    <tr>
+      <td>Requirements Repository(ies)</td>
+      <td>The requirement repository location(s) that the Product Team uses.</td>
+    </tr>
+    <tr>
+      <td>Service(s) enabled</td>
+      <td>A list of services that the product(s) being managed by the product team enables. This could be taken from:<br /><br />- <a href="https://dialogue/grp/WG6278300/SitePages/Home.aspx">ESDC’s Programs Inventory</a> (performance information profiles)<br />- ESDC’s <a href="https://014gc.sharepoint.com/sites/TransformationEDSC-ESDC/SitePages/fr/Service-Target-Operating-Model-(STOM).aspx">Service Target Operating Model (STOM)</a><br />- <a href="https://www.canada.ca/en/employment-social-development/corporate/reports/departmental-plan.html">Departmental goals</a><br />- Branch-specific objectives<br /><br />The purpose of this information gives the raison d’être of the products, and therefore justifies the product team’s existence</td>
+    </tr>
+    <tr>
+      <td>APM applications</td>
+      <td>List of APM applications the Product Team manages, from the <a href="https://dialogue/proj/ITCD-RMTI/APM-GPA/Site%20Pages%20Library/ActiveSolutions.aspx">Corporate Solution Directory</a></td>
+    </tr>
+    <tr>
+      <td>MOU Location</td>
+      <td>The location where the signed MOU resides (e.g. SharePoint site URL)</td>
+    </tr>
+    <tr>
+      <td>Role – Head of Product</td>
+      <td>Name of the person assigned with the role of Head of Product</td>
+    </tr>
+    <tr>
+      <td>Role – Product Manager</td>
+      <td>Name of the person(s) with the role of Product Manager (more than one if more than one internal product is being managed)</td>
+    </tr>
+    <tr>
+      <td>Role – Product Owner</td>
+      <td>Name of the person(s) with the role of Product Owner (more than one if more than one internal product is being managed)</td>
+    </tr>
+    <tr>
+      <td>Role – IT Security Champion</td>
+      <td>Name of the person with the role of IT Security Champion</td>
+    </tr>
+    <tr>
+      <td>Role – Change Coordinator</td>
+      <td>Name of the person with the role of Change Coordinator</td>
+    </tr>
+    <tr>
+      <td>Role – Product Support Manager</td>
+      <td>Name of the person with the role of Product Support Manager</td>
+    </tr>
+    <tr>
+      <td>Role - IT Manager</td>
+      <td>Name of the person with the role of IT Manager on the IITB side</td>
+    </tr>
+  </tbody>
+</table>
+
+<h4 id="memorandum-of-understanding-mou">Memorandum of Understanding (MOU)</h4>
+
+<p>The Memorandum of Understanding is the agreement between the CIO (senior ADM of IITB) and other Branche(s) in transferring funds to assign dedicated IT Staff to a particular product team.</p>
+
+<p>Information to be added in the MOU using the template in <a href="#appendix-a-memorandum-of-understanding-template">Appendix A. Memorandum of Understanding Template.</a></p>
+
+<h3 id="roles-and-responsibilities">Roles and Responsibilities</h3>
+
+<p>The roles listed here are expected to be assigned to members of product teams.
+As sizes of products differ, one individual may be assigned more than one role.</p>
+
+<p>However the roles are assigned, their associated responsibilities are expected to be performed.</p>
+
+<h4 id="head-of-product-role">Head of Product Role</h4>
+
+<p>The Head of Product role serves as the person at the top of all other internal or smaller products making up the main Product the team is ultimately responsible for.</p>
+
+<p>The Head of Product performs the following activities:</p>
+
+<ul>
+  <li>Oversees all of the product-related work that the Product Team does</li>
+  <li>Coordinates with product managers and other product teams</li>
+  <li>Briefs senior management on the Product-related information</li>
+  <li>Performs the various departmental governance requirements</li>
+  <li>Secure yearly funding for the product team</li>
+  <li>Present updates at the IITB Project and Portfolio Review Committee (PPRC)</li>
+</ul>
+
+<h4 id="product-manager-role">Product Manager Role</h4>
+
+<p>The Product Manager role is a strategic role that usually focus their attention on activities that are scheduled beyond the next 3 to 6 months.</p>
+
+<p>The Product Manager performs the following activities:</p>
+
+<ul>
+  <li>Oversees all of the various activities concerning a given product</li>
+  <li>Ensures alignment of the Product to the Program’s goals and the department’s overall strategy.</li>
+  <li>Defines the product vision and strategy</li>
+  <li>Gathers, manages, and prioritizes client requirements</li>
+  <li>Works closely with IT Managers to vet the realistic and technical natures of the product’s strategy and roadmaps, such as including software patching requirements to mitigate cyber security risks</li>
+  <li>Works closely with the Product Owner and team members to ensure business needs and client satisfaction goals are met</li>
+  <li>Produces different types of Product Roadmaps depending on the audience</li>
+  <li>Negotiates with Project Managers on Product Team’s commitments</li>
+  <li>Performs various HR activities for the Product Team (e.g. staffing, coaching, mentoring)</li>
+  <li>Secures funding through business case(s) and through good pitch in government</li>
+  <li>Works with Financial Management Advisors (FMAs) in monitoring and controlling spending</li>
+  <li>Ensures the Product Team is equipped for success (e.g. procuring tools, training)</li>
+  <li>Understands the different phases of product delivery</li>
+</ul>
+
+<p>The Product Manager role reports to the Head of Product role, though those two roles may be the same person depending on the product’s size.</p>
+
+<h4 id="product-owner-role">Product Owner Role</h4>
+
+<p>The Product Owner is a tactical role that usually focus their attention on activities that are scheduled over the next 3 to 6 months.</p>
+
+<p>The Product Owner is the final authority for decisions regarding priority, business value, and functionality for the work done by the Product Team.</p>
+
+<p>The Product Owner does not have authority over funding allocation and cross-branch agreements.
+This is still left to the CFO and the PPRC.</p>
+
+<p>The Product Owner performs the following activities:</p>
+
+<ul>
+  <li>Responsible for interfacing and engaging with the business stakeholders of a given product</li>
+  <li>Acts as a fully integrated team member</li>
+  <li>Uses clear goals to communicate the internal release scope vision at the beginning of every release so that the team understands and is equipped to realize it</li>
+  <li>Makes business decisions and clearly communicates through requirements elaboration techniques (e.g. epics and user stories) so they are understood</li>
+  <li>Works closely with IT Managers in ensuring compliance with IM and IT quality standards (such as Accessibility)</li>
+  <li>Ensures compliance with IM/IT-related Treasury Board Directives such as Cyber Security software patching</li>
+  <li>Communicates status outside the team</li>
+</ul>
+
+<p>The Product Owner role reports to the Head of Product role, though those two roles may be the same person depending on the product’s size.</p>
+
+<h4 id="it-security-champion-role">IT Security Champion Role</h4>
+
+<p>The IT Security Champion performs the following activities:</p>
+
+<ul>
+  <li>Is the go-to-person for IT Security knowledge about the product</li>
+  <li>Understands the security tools</li>
+  <li>Implements security tools in the software delivery pipeline</li>
+  <li>Analyzes security test results</li>
+  <li>Mitigates identified risks in software-based products</li>
+  <li>Promotes and coaches the team members on security best practices</li>
+  <li>Acts as the central communication/coordination point between the solution team and IT Security groups</li>
+</ul>
+
+<h4 id="change-coordinator-role">Change Coordinator Role</h4>
+
+<p>The Change Coordinator ensures that all changes are managed in a controlled manner, including standard changes and emergency maintenance.</p>
+
+<p>The Change Coordinator performs the following activities:</p>
+
+<ul>
+  <li>Performs impact assessments</li>
+  <li>Seeks the necessary authorisations prior to the change (e.g. follows the IITB Release Process)</li>
+  <li>Ensures all stakeholders are aware of the upcoming product release</li>
+  <li>Documents the change</li>
+</ul>
+
+<p>It is expected that the Change Coordinator also works closely with the IT Security Champion in assuring the application of segregation of duties principle to software changes.</p>
+
+<h4 id="product-support-manager-role">Product Support Manager Role</h4>
+
+<p>The Product Support Manager is the go to person for any questions or issues relating to the product’s support.</p>
+
+<p>The Product Support Manager performs the following activities:</p>
+
+<ul>
+  <li>Establishes the product support process and procedures, both for internal support (within the department) and for external support (Canadians or other departments using the product, if applicable).</li>
+  <li>Is the first point of contact for issue resolution</li>
+  <li>Assesses the priority and severity of issues affecting the product</li>
+  <li>Prioritizes issue resolution based on priority and severity</li>
+  <li>Liaise with IITB’s Software Product Specialists, if need be, when Commercial Off-the-Shelf (COTS) software product are being used</li>
+  <li>Produces the Service Level Agreement</li>
+  <li>Produces the Operational Level Agreement</li>
+  <li>Provides feedback to the Product Team that can inform the Product Roadmap and Release Plans</li>
+</ul>
+
+<h4 id="it-manager">IT Manager</h4>
+
+<p>The IT Manager role works closely with the other manager roles, in particular the Product Manager, by alleviating some burden associated in managing technical personnel, liaising with Architecture teams, and managing administrative activities associated with IT-specific Corporate Governance.</p>
+
+<p>The IT Manager performs the following activities:</p>
+
+<ul>
+  <li>Provides assurances to the Product Manager that the product roadmaps adheres to Enterprise Architecture standards and aligns with the Enterprise Target State</li>
+  <li>Engages with Architecture services to gain insights used to inform the product’s roadmap</li>
+  <li>Owns information and technology architecture of the product</li>
+  <li>Engages with the Vendor Management Office to ensure proprietary software used as part of the Product meet the government IM/IT policies (e.g. accessibility).</li>
+  <li>Supports the IT Security Champion in ensuring the product developers are well equipped with security tools</li>
+  <li>Supports the Change Coordinator in ensuring change management activities are planned and performed in a timely fashion</li>
+  <li>Supports the Product Support Manager in ensuring the Service Level Agreement and Operational Level Agreement are adequately communicated and endorsed by IT Governance</li>
+</ul>
+
+<p>The IT Manager is expected to be an IT Governance-wizard, a career mentor, and have exceptional people skills.</p>
+
+<h3 id="oversight-and-reporting">Oversight and Reporting</h3>
+
+<h4 id="product-roadmap-executive-view">Product Roadmap Executive View</h4>
+
+<p>The Product Roadmap Executive View describes the vision, goals, and strategy to meet those goals.
+It supports the prioritization of initiatives and features, gets internal stakeholders in alignment, and communicates product updates to external stakeholders and clients.</p>
+
+<p>The Product Roadmap Executive View is the main artefact that Corporate Oversight will use to evaluate value for money when investing in a product team.</p>
+
+<p>The Product Roadmap Executive View uses the <a href="#appendix-c-product-roadmap-executive-view-template">Appendix D. Product Roadmap Executive View Template</a> and includes the following information:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Information Element</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Vision Statement</td>
+      <td>The vision statement represents the image of the future for the product. It is highly suspected that a product’s vision statement will tie back either to the Program’s desired outcomes as define in its Performance Information Profile, and/or a Program’s service delivery objectives</td>
+    </tr>
+    <tr>
+      <td>Goals</td>
+      <td>A list of goals the roadmap is striving to achieve in order to reach the vision state. To reach a goal, one or more outcomes may be required to obtained</td>
+    </tr>
+    <tr>
+      <td>Metrics</td>
+      <td>Lists the metrics that are used to determine progress towards a goal. The metrics are “business” related, not internal performance ones</td>
+    </tr>
+    <tr>
+      <td>View of the Fiscal Year</td>
+      <td>A fiscal year view, by quarters, of the product’s timespan</td>
+    </tr>
+    <tr>
+      <td>Milestones</td>
+      <td>Each milestone expected in the year (estimated month of release)</td>
+    </tr>
+    <tr>
+      <td>Outcomes sought</td>
+      <td>Brief summary of outcomes sought, and how they tie back to the service(s) or Program’s desired outcomes that the product enables</td>
+    </tr>
+    <tr>
+      <td>Estimated costs</td>
+      <td>The estimated costs of a milestone</td>
+    </tr>
+  </tbody>
+</table>
+
+<h4 id="release-impact-analysis">Release Impact Analysis</h4>
+
+<p>At every release, the Product Team does a retrospection after an adequate amount of time has passed to analyse the impact of that release towards its desired outcome(s).
+The retrospection includes the following information:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Information Element</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Release Number</td>
+      <td>The number identifying the release being analyzed</td>
+    </tr>
+    <tr>
+      <td>Release Date</td>
+      <td>The date the release being analyzed was brought into production</td>
+    </tr>
+    <tr>
+      <td>Analysis Date</td>
+      <td>Date the analysis was performed</td>
+    </tr>
+    <tr>
+      <td>Analysis</td>
+      <td>Analysis evaluating the expected outcome(s) of the Release, whether positive or negative, sustained by evidence. <br /> The analysis may also describe the impact if there was NO release.</td>
+    </tr>
+  </tbody>
+</table>
+
+<h4 id="product-teams-software-performance-metrics">Product Team’s Software Performance Metrics</h4>
+
+<p>The following software performance metrics are produced by the product team to measure the effectiveness that working under a cross-functional product team has over continuous product improvements.
+In particular, that the Product Manager and Product Owner take sufficient attention on the risks that creeping technical debt, team morale, and cyber security has on the overall quality and effectiveness of the product team.</p>
+
+<p>The metrics are compiled and made available each month.</p>
+
+<ul>
+  <li><strong>Deployment Frequency</strong>: How often the product team successfully releases to production</li>
+  <li><strong>Lead Time for Changes</strong>: The amount of time it takes a code commit to get into production (software pipeline delivery)</li>
+  <li><strong>Change Failure Rate</strong>: The percentage of deployments causing a failure in production</li>
+  <li><strong>Time to Restore Service</strong>: How long it takes the product team to recover from a failure in production</li>
+</ul>
+
+<p>Taken from the <a href="https://cloud.google.com/blog/products/devops-sre/using-the-four-keys-to-measure-your-devops-performance">DevOps Research and Assessment (DORA) Key Metrics</a>.</p>
+
+<h4 id="risk-register">Risk Register</h4>
+
+<p>A risk and issue register is a document that documents risks related to the product(s) and the mitigation plan for each.
+When a risk materializes, it changes itself into an issue that needs to be resolved.</p>
+
+<p>The Risk Register may be used as evidence that risk management is being performed by the product team.
+The Risk Register is available to auditors on demand.</p>
+
+<p>Each risks in the register contains, at minimum, the following element:</p>
+
+<p>The Product’s Risk Register does not repeat risks from a Branch Risk Register (BRR) or the IT Security Risk Register (that rolls up to the BRR).
+Instead, the Product’s Risk Register is to manage risks at the product level.
+Its content may be used to inform the grater BRR and IT Security Risk Register by rolling up multiple products’ risk registers.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Information Element</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Risk Statement</td>
+      <td>A written statement about the risk. Typically in the form of<br /><i>Given that …. , there is a risk that …., which will lead to…</i></td>
+    </tr>
+    <tr>
+      <td>Likelihood</td>
+      <td>The probability that a risk may materialize. Typically using a scale such as:<br />1: Low<br />2: Medium<br />3: High<br /></td>
+    </tr>
+    <tr>
+      <td>Impact</td>
+      <td>The effects that the risk will have on business operations, or performance indicators, if it materializes (e.g. financial impact, time lost, performance impact, client satisfaction, media coverage, legal implications). Typically using a scale such as:<br />1: Negligible<br />2: Moderate<br />3: Severe</td>
+    </tr>
+    <tr>
+      <td>Severity</td>
+      <td>Likelihood times impact. Typically shown in a two dimensional matrix such as:<br /> <img src="/ITStrategy/assets/images/risk-severity-matrix.png" alt="A two by two matrix that have 25 boxes. The ones on the bottom left are green because the risk is low, the ones in the middle are yellow because the risk is medium, the ones on the top right are red because they represents high risk. There is a star in the middle representing where the severity in this example is" /></td>
+    </tr>
+    <tr>
+      <td>Risk Response</td>
+      <td>The response to the risk. Typically one of:<br />• Monitor: Accept the current level of risk and continue to monitor it.<br />• Transfer: Transfer the risk or part of it to another branch or organization.<br />• Avoid: Stop the activity to avoid the possibility of risk.<br />• Mitigate: Plan and implement measures to reduce the risk or improve operations.</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="consequences-of-non-compliance">Consequences of Non-Compliance</h3>
+
+<h4 id="non-compliance-report">Non-Compliance Report</h4>
+
+<p>The report is used to keep track of non-compliance incidents and is shared with IITB and the Sponsoring Branch executives.
+The report is updated on a monthly basis.</p>
+
+<p>The report includes a list of non-compliance incidents, each containing the following information:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Information Element</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Non-compliance date</td>
+      <td>Date when the non-compliance infraction was first recorded</td>
+    </tr>
+    <tr>
+      <td>Non-compliance description</td>
+      <td>A description of the non-compliance</td>
+    </tr>
+    <tr>
+      <td>Status</td>
+      <td>The status regarding the resolution for the non-compliance</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="appendix-a-memorandum-of-understanding-template">Appendix A. Memorandum of Understanding Template</h2>
+
+<p>Adjusted from <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=25761">TBS Guidelines on Service Agreements</a>:</p>
+
+<p><a href="/ITStrategy/assets/files/product-mgt-fw/TEMPLATE%20-%20MOU.docx">Please see here</a></p>
+
+<h2 id="appendix-b-product-team-organizational-structure-template">Appendix B. Product Team Organizational Structure Template</h2>
+
+<p><a href="/ITStrategy/assets/files/product-mgt-fw/TEMPLATE%20-%20Organizational%20Structure.pptx">Please see here</a></p>
+
+<h2 id="appendix-c-product-team-governance-structure-template">Appendix C. Product Team Governance Structure Template</h2>
+
+<p><a href="/ITStrategy/assets/files/product-mgt-fw/TEMPLATE - Governance Structure.pptx">Please see here</a></p>
+
+<h2 id="appendix-d-product-roadmap-executive-view-template">Appendix D. Product Roadmap Executive View Template</h2>
+
+<p><a href="/ITStrategy/assets/files/product-mgt-fw/TEMPLATE - Product Roadmap - Executive View.pptx">Please see here</a></p>
+
+      </article>
+    </main>
+    
+    
+<div class="container text-right">
+  <a class="text-muted" target="_blank"
+    href="https://github.com/sara-sabr/ITStrategy/tree/master/_pages/en/product-fw-standard.md">View this page on GitHub</a>
+</div><footer class="pt-4 my-md-5 pt-md-5 border-top">
+  <div class="container">
+    <ul class="list-inline">
+      <li class="list-inline-item">
+        <a class="text-muted"
+          href="/ITStrategy/contact-us.html">Contact us</a>
+      </li>
+      <li class="list-inline-item">
+        <a class="text-muted"
+          href="/ITStrategy/archives.html">Archives</a>
+      </li><li class="list-inline-item">
+        <a class="text-muted" target="_blank"
+          href="https://014gc.sharepoint.com/sites/IITBStrategy">Sharepoint</a>
+      </li>
+
+      <li class="list-inline-item">
+        <a class="text-muted" target="_blank"
+          href="http://esdc.prv/en/index.shtml">ESDC Intranet</a>
+      </li>
+      <li class="list-inline-item">
+        <a class="text-muted"
+          href="/ITStrategy/privacy-disclaimer.html">Privacy Disclaimer</a>
+      </li></ul>
+    <!-- <p>Copyright © Her Majesty the Queen in Right of Canada, as represented by the Minister of Employment and Social Development Canada, 2019-2020.</p> -->
+  </div>
+</footer>
+
+<script>
+    function selectLanguage(e){  
+      e = e || window.event;
+      var src;
+      if (! (e.target || e.srcElement) ){
+        src = e
+      }
+      else{
+        src = e.target || e.srcElement;
+      }
+
+      var selectedLanguage = src.innerText.trim()
+
+    
+      if (selectedLanguage === "English"){
+        localStorage.setItem(
+          "language", "English"
+        )
+
+        
+        if (src.attributes.hasOwnProperty("href") && src.attributes.href.value !== ""){
+            window.location.replace(
+                src.attributes.href.value
+            )
+        }
+        else {
+            window.location.replace(
+                "./home.html"
+            )
+
+        }
+      }
+
+      else if ( selectedLanguage === "Français" ){
+        localStorage.setItem(
+          "language", "Français"
+        )
+
+        if (src.attributes.hasOwnProperty("href") && src.attributes.href.value !== ""){
+            window.location.replace(
+                src.attributes.href.value
+            )
+        }
+        else {
+            window.location.replace(
+                "./accueil.html"
+            )
+
+        }
+    
+      }
+    }  
+</script>
+
+<script src="https://code.jquery.com/jquery-3.4.1.slim.js"
+  integrity="sha256-BTlTdQO9/fascB1drekrDVkaKd9PkwBymMlHOiG+qLI=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+  integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+  integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/highlight.min.js"></script>
+
+<!-- Font Awesome https://fontawesome.com/  https://use.fontawesome.com/releases/v5.11.2/js/all.js -->
+<script src="https://use.fontawesome.com/releases/v5.11.2/js/all.js"></script>
+
+<!-- DataTables -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.19/js/jquery.dataTables.min.js"
+  integrity="sha256-t5ZQTZsbQi8NxszC10CseKjJ5QeMw5NINtOXQrESGSU=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.19/js/dataTables.bootstrap4.min.js"
+  integrity="sha256-hJ44ymhBmRPJKIaKRf3DSX5uiFEZ9xB/qx8cNbJvIMU=" crossorigin="anonymous"></script><script>
+  $("table").addClass("table");
+  $("blockquote").addClass("blockquote");
+  hljs.initHighlightingOnLoad();
+
+
+  var divs = $("div div.highlight");
+  var i;
+  for (i = 0; i < divs.length; i++) {
+    divs[i].setAttribute("tabindex", "0");
+  }
+
+/** Inspiration/source for accessible cards: 
+https://inclusive-components.design/cards/ 
+Author: Heydon Pickering
+Twitter: https://twitter.com/heydonworks
+*/
+
+  const cards = document.querySelectorAll('.card');
+  cards.forEach(card => {
+      card.style.cursor = 'pointer';
+  })
+  Array.prototype.forEach.call(cards, card => {
+    //Source code from Heydon Pickering
+    let down, up, link = card.querySelector('h2 a');
+    card.onmousedown = () => down = +new Date();
+    card.onmouseup = () => {
+      up = +new Date();
+      if ((up - down) < 200) {
+        link.click();
+      }
+    }
+    //Add conditional styling: if JS disabled, not applied
+    card.onmouseover = () => {
+      card.style.border = "1px solid black";
+    }
+    card.onmouseout = () => {
+      card.style.border = "1px solid rgba(0,0,0,.125)";
+    }
+  });
+
+  // Fix for text wrapping in menu
+  $(document).ready(function () {
+    $(document.body).css('padding-top', $('#topnavbar').height() - 25);
+    $(window).resize(function () {
+      $(document.body).css('padding-top', $('#topnavbar').height() - 25);
+    });
+
+  });
+</script>
+    </div>
+
+  </body>
+
+</html>

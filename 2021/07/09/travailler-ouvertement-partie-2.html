@@ -1,0 +1,458 @@
+<!DOCTYPE html>
+<html class="no-js" lang="fr" dir="ltr">
+
+  <head><title>Travailler ouvertement: Partie 2 - Équipe de la Stratégie des Technologies de l'information</title><meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description"
+    content="Cette série de billets explore le concept de “Travailler ouvertement”.Dans ce deuxième article, nous allons tenter de vous expliquer comment vous pouvez vous...">
+
+  <!-- Google tag (gtag.js)  2023-02-01 NEW GOOGLE ANALYTICS 4 (migrating from Universal Analytics)-->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-VZ3JFL3LDQ"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-VZ3JFL3LDQ');
+  </script>
+
+  <link rel="stylesheet" href="/ITStrategy/assets/css/style.css">
+  <link rel="icon" type="image/ico" href="/ITStrategy/assets/images/favicon.ico">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/a11y-dark.min.css">
+
+  <!-- Google Fonts https://fonts.google.com/ -->
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:300,400,700&display=swap">
+
+  <!-- DataTables https://datatables.net/ -->
+  <link rel="stylesheet" type="text/css"
+    href="https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.19/css/dataTables.bootstrap4.min.css">
+
+  <!-- Mathjax Support -->
+  <script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@2/MathJax.js?config=TeX-MML-AM_CHTML">
+  </script>
+
+</head>
+
+
+  <body vocab="http://schema.org/" typeof="WebPage">
+
+    <script>
+    if(/MSIE \d|Trident.*rv:/.test(navigator.userAgent)) {
+      alert("Nous recommandons d'utiliser Edge, Firefox et autres navigateurs modernes au lieu d'Internet Explorer. Nous allons maintenant ouvrir ce site dans Edge pour une expérience optimale.")
+      window.location = 'microsoft-edge:' + window.location;
+      setTimeout(function() {
+        window.location = 'https://go.microsoft.com/fwlink/?linkid=2135547';
+      }, 500);
+    }
+  </script><header>
+  <a href="#maincontent" class="skiptocontent">Aller au contenu principal</a>
+  <nav class="navbar navbar-expand-md navbar-light fixed-top bg-light" id="topnavbar">
+    <div class="container-fluid">
+    <a aria-label="Home" class="navbar-brand" href="/ITStrategy/accueil.html"><span class="fas fa-home" aria-hidden="true"></span></a>
+
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#Menu1" aria-controls="Menu1" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="custom-toggler-icon"><i class="fas fa-bars"></i></span>
+    </button>
+
+      <div class="collapse navbar-collapse" id="Menu1">
+      <!-- Menu -->
+      <ul class="navbar-nav ml-auto">
+            <li class="nav-item"><a class="nav-link" lang="fr" hreflang="fr" href="/ITStrategy/a-propos-de-nous.html">À propos de nous</a></li><!--Mission--><li class="nav-item dropdown">
+
+    <a class="nav-link dropdown-toggle" href="#" id=navbarDropdownVision role="button" data-toggle="dropdown"
+        aria-haspopup="true" aria-expanded="false">
+        Mission
+    </a>
+    <div class="dropdown-menu" aria-labelledby="navbarDropdownVision">
+        <a class="dropdown-item" lang="fr" hreflang="fr"
+            href="/ITStrategy/mandat.html">Mandat</a>
+        <a class="dropdown-item" lang="fr" hreflang="fr"
+            href="/ITStrategy/vision-moyen-long-terme.html">Vision des technologies de l'information</a></div>
+</li>
+
+            <li class="nav-item"><a class="nav-link" lang="fr" hreflang="fr" href="/ITStrategy/strategies-fr.html">Stratégies</a></li>
+            <li class="nav-item"><a class="nav-link" lang="fr" hreflang="fr" href="/ITStrategy/initiatives-fr.html">Initiatives</a></li>
+            <li class="nav-item"><a class="nav-link" lang="fr" hreflang="fr" href="/ITStrategy/presentations-fr.html">Présentations</a></li>
+            <li class="nav-item"><a class="nav-link" lang="fr" hreflang="fr" href="/ITStrategy/ressources.html">Ressources</a></li>
+            <li class="nav-item"><a class="nav-link" lang="fr" hreflang="fr" href="/ITStrategy/nos-billets.html">Blogue</a></li></ul>
+
+      <!-- Language picker -->
+      <ul class="navbar-nav float-right">
+            <li class="nav-item lang-select-container" >
+                <button href="/ITStrategy/2021/07/09/working-in-the-open-part-2.html" class= "lang-select" onclick="selectLanguage(this)">
+                  English
+                </button>
+            </li></ul>
+    </div>  <!--Menu1-->
+    </div> <!--container-->
+  </nav>
+</header>
+
+
+    <div class="container">
+    <main class="container">
+      <section class="jumbotron d-print-none">
+        <p class="site-title">Équipe de la Stratégie des Technologies de l'information</p>
+      </section><article id="maincontent"><div class="blog">
+    <nav>
+<div style="margin-top: 30px; display: flex; justify-content: space-between; flex-wrap: wrap;"><p class="nav-item" style="flex: 1 1 0; width: 45%; padding-left: 0.5em;"><a class="text-dark nav-link" title="Les DPI et ARCS sont responsables de 480 exigences" href="/ITStrategy/2021/06/02/stats-instruments-politiques-numerique.html">&#8672;&nbsp;Billet précédent</a></p>
+
+      <p class="nav-item" style="flex: 1 1 0; width: 45%; padding-right: 0.5em; text-align: right"><a class="text-dark nav-link" title="La mobilisation des utilisateurs dans la prestation des services" href="/ITStrategy/2021/09/16/mobilisation-des-utilisateurs-dans-la-prestation-des-services.html" rel="prev">Prochain billet&nbsp;&#8674;</a></p></div>
+</nav>
+
+
+    <h1>Travailler ouvertement: Partie 2</h1>
+    <div class="author">2021-07-09 - Écrit par Guillaume Charest, en collaboration avec l'équipe de Stratégie TI</div>
+
+    
+
+    
+
+    <p>Cette série de billets explore le concept de “Travailler ouvertement”.
+Dans ce deuxième article, nous allons tenter de vous expliquer comment vous pouvez vous lancer tout en respectant vos devoirs de fonctionnaire !
+<!--more--></p>
+
+<p>Dans notre <a href="/ITStrategy/2019/11/19/travailler-ouvertement-partie-1.html">billet précédent</a>, nous avons exploré ce que signifiait travailler ouvertement et pourquoi nous devrions le faire par défaut.
+Pour compléter les raisons de travailler de façon ouverte évoquées dans notre précédent article, il est bon de mentionner que cette approche est soutenue par la <a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=28108">Directive sur le gouvernement ouvert</a> et que même le <a href="https://wiki.gccollab.ca/GC_Enterprise_Architecture/Framework">cadre d’architecture d’entreprise du GC</a> (en anglais) indique que:</p>
+
+<blockquote>
+  <p>les architectes d’entreprise devraient “publier ouvertement toutes les capacités, processus et solutions d’entreprise communs réutilisables pour que d’autres puissent développer et exploiter des services d’entreprise horizontaux cohérents” (traduction libre)</p>
+</blockquote>
+
+<p>Cette fois, nous allons examiner comment nous pouvons parvenir à travailler ouvertement tout en veillant à respecter les meilleures pratiques en matière de sécurité et de confidentialité.</p>
+
+<p><em>Note: Ce billet portera davantage sur le travail quotidien que sur le développement de logiciels.
+Nous pourrons approfondir cet autre sujet dans un prochain billet.</em></p>
+
+<h2 id="travailler-ouvertement-à-linterne">Travailler ouvertement à l’interne</h2>
+
+<p>Il est bon de se rappeler que tout le monde n’est pas prêt, mentalement et émotionnellement, à s’ouvrir au monde entier.
+Il existe diverses raisons et nous ne devons pas juger.</p>
+
+<p>Comme mentionné dans notre <a href="/ITStrategy/2019/11/19/travailler-ouvertement-partie-1.html">précédent billet</a>, certaines organisations ont emprunté une approche graduelle, communément appelée “Inner Source”, en ouvrant tous les espaces de travail à l’ensemble de leurs équipes internes, afin d’aider les gens à se familiariser progressivement avec le travail ouvert et à profiter d’une partie de ses avantages.
+Cette démarche peut aider à identifier ce qui fonctionne bien et les défis qui se présentent à votre équipe et à votre organisation.
+Cela peut également aider à déterminer quels mécanismes de contrôle pourraient être ajoutés pour garantir que l’organisation garde une bonne maîtrise de ses informations et comment mieux aider ses employés à adopter les meilleures pratiques.</p>
+
+<p>Si votre équipe n’est pas tout à fait prête à travailler de façon ouverte, essayez d’ouvrir lentement votre espace de travail au reste de l’organisation, par défaut.
+N’attendez pas que “cette présentation soit prête” pour permettre aux autres de la découvrir.
+Vous savez que vous n’y arriverez jamais !</p>
+
+<p>Si votre équipe est prête à travailler ouvertement, publiquement, il est important de se rappeler que le travail créé par les employés du gouvernement du Canada est également soumis au droit d’auteur.
+Dans notre cas, nous devons identifier de manière appropriée que notre travail appartient au gouvernement du Canada.
+La section <a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/innovations-gouvernementales-numeriques/logiciels-libres/guide-pour-la-publication-du-code-source-libre.html#toc04-5">Droits d’auteur</a> du <a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/innovations-gouvernementales-numeriques/logiciels-libres/guide-pour-la-publication-du-code-source-libre.html">Guide pour la publication du code source libre</a> indique ce qui suit:</p>
+
+<blockquote>
+  <p>Selon l’article des <a href="https://www.canada.ca/fr/patrimoine-canadien/services/demandes-droit-auteur-couronne.html">Demandes de droit d’auteur de la Couronne</a> trouvé sur Canada.ca, la structure suivante devrait être appliquée pour l’avis de droit d’auteur du gouvernement du Canada.</p>
+
+  <p><em><strong>Droit d’auteur (c) Sa Majesté la Reine du chef du Canada, représentée par la ministre de (nom légal du ministère), (année de publication).</strong></em></p>
+
+  <p>Remplacer le (nom légal du ministère) et (année de publication) avec l’information appropriée.</p>
+</blockquote>
+
+<h2 id="préparer-votre-environnement-de-travail">Préparer votre environnement de travail</h2>
+
+<p>Votre espace de travail virtuel peut être constitué d’une variété d’outils et de plateformes.</p>
+
+<p>Les développeurs de logiciels et les informaticiens peuvent utiliser des plateformes de codage social telles que Gitlab, Github, GCcode, etc. pour collaborer largement avec des personnes du monde entier sur le code source.</p>
+
+<p>Au gouvernement du Canada, la plupart des ministères utilisent maintenant Microsoft 365 à divers degrés, ce qui peut inclure Teams, une plateforme de collaboration qui relie plusieurs produits et capacités.</p>
+
+<p>Que vous utilisiez la plateforme de collaboration de l’entreprise ou un logiciel tiers en tant que service pour travailler ouvertement, il y a un certain nombre de choses à garder à l’esprit.</p>
+
+<h3 id="rester-en-contrôle">Rester en contrôle</h3>
+
+<p>Votre espace de travail est un lieu très important : il contient votre travail et vous avez la responsabilité de veiller à ce qu’il soit correctement sécurisé et contrôlé.
+Toutefois, cela ne signifie pas que vous ne pouvez pas l’ouvrir de manière sécurisée.</p>
+
+<p>Une bonne gestion des accès est nécessaire pour pouvoir séparer les deux principaux types d’utilisateurs : les membres de votre équipe et les contributeurs externes.
+Ces derniers peuvent être des personnes de votre organisation ou du public.</p>
+
+<p>Il peut y avoir d’autres types de rôles disponibles en fonction des plates-formes, mais ce sont les principales catégories auxquelles nous pensons lorsque nous travaillons ouvertement.</p>
+
+<p>Selon la plateforme que vous utilisez, divers contrôles peuvent être proposés pour vous permettre de partager ouvertement vos documents et votre travail tout en gardant le contrôle de son contenu.</p>
+
+<p>Dans SharePoint, une plateforme le plus souvent disponible en tant que “Inner Source” uniquement, une équipe peut ouvrir son espace de travail par défaut à ses collègues et créer des dossiers spécifiques avec un accès plus restreint pour travailler en privé sur des documents uniquement lorsque cela est absolument nécessaire.</p>
+
+<p>Avec la plupart des plateformes de collaboration, qu’il s’agisse de SharePoint, Google Docs, etc., il existe généralement diverses options permettant aux contributeurs externes de consulter vos documents et d’ajouter des commentaires, mais les empêchant d’apporter des modifications directement au contenu.
+De plus, ces plateformes offrent généralement une fonctionnalité qui permet au propriétaire des documents de revenir sur les modifications apportées par quelqu’un d’autre, garantissant ainsi que seules les modifications approuvées restent sur vos versions officielles qui seront conservées à des fins de gestion de l’information.</p>
+
+<h3 id="assurer-la-vie-privée">Assurer la vie privée</h3>
+
+<p>Les fonctionnaires qui travaillent avec les données des citoyens doivent faire très attention à la confidentialité de ces données et ne jamais les partager publiquement.
+Travailler ouvertement par défaut n’est pas un concept qui s’applique lorsqu’on travaille sur les dossiers et les données d’un citoyen.</p>
+
+<p>Mais cela ne signifie pas que même ces équipes ne peuvent pas travailler ouvertement à l’amélioration de leurs processus et partager la façon dont elles ont surmonté leurs difficultés.
+En tant que fonctionnaires, nous devons nous efforcer en permanence d’améliorer nos processus, de rechercher de nouvelles façons de résoudre les problèmes et de partager les résultats de nos recherches, pour autant qu’ils ne soient pas classifiés.</p>
+
+<h3 id="gérer-les-secrets">Gérer les secrets</h3>
+
+<p>Dans le développement de logiciels, certaines parties du code final peuvent être un secret d’entreprise, comme une clé privée d’une ressource informatique, des mots de passe, etc.</p>
+
+<p>Ces éléments ne doivent jamais être inclus dans le code source public lui-même, mais être gérés séparément.</p>
+
+<p>Étant donné que le code source d’un logiciel est essentiellement un texte structuré qui peut être compris par un ordinateur, le même concept de retrait des parties secrètes peut être appliqué à d’autres types de documents.</p>
+
+<p>Cela signifie que lorsqu’une petite partie de votre travail ne doit pas être partagée publiquement, vous pouvez l’exclure et la stocker dans un endroit sécurisé au lieu de verrouiller l’ensemble du document.</p>
+
+<p>De cette façon, le matériel non classifié peut toujours être mis à la disposition du public et faire l’objet d’un travail collectif, tandis que les parties qui doivent être sécurisées ne peuvent être modifiées séparément que par les personnes autorisées.</p>
+
+<h3 id="gérer-les-fuites-dinformations">Gérer les fuites d’informations</h3>
+
+<p>Dans le développement de logiciels, nous nous attendons à ce qu’il y ait un problème de sécurité à un moment donné, tout en continuant à nous efforcer de minimiser cette éventualité.</p>
+
+<p>En mettant en place un processus de remédiation, nous nous assurons que, même s’il devait y avoir une fuite, des mesures appropriées sont en place pour y remédier le plus rapidement possible.
+Et nous nous assurons que chacun sait comment exécuter le processus, s’il n’est pas entièrement automatisé.</p>
+
+<p>Pour les documents texte et les présentations traditionnels, la réduction de la quantité de données spécifiques utilisées peut contribuer à minimiser les risques de fuites.
+Cependant, quelqu’un pourrait taper par inadvertance un mot de passe ou des informations personnelles dans un document.</p>
+
+<p>Si tel était le cas, puisque ce n’est pas lié à du développement logiciel et que l’automatisation de la remédiation n’est peut-être pas aussi facile ou même possible, il serait important que chaque membre de votre équipe connaisse la directive ministérielle sur les atteintes à la vie privée et sache exactement quoi faire et qui contacter.</p>
+
+<h2 id="ouvrir-dès-le-début">Ouvrir dès le début</h2>
+
+<p>Travailler ouvertement, c’est en partie accepter que l’on ne sait pas ce que les autres peuvent apporter ou quand ils peuvent intervenir pour aider.
+En rendant vos documents ouverts dès leur création, vous vous placez dès le départ dans un état d’esprit où vous vous attendez à ce que les autres les lisent et éventuellement participent quand cela a un sens pour eux, et non seulement lorsque vous prévoyez une révision formelle.
+D’une certaine manière, vous changez la façon dont vous percevez votre propre travail.</p>
+
+<p>C’est une réaction normale de penser que l’on peut faire mieux avant d’avoir une rétroaction, c’est pourquoi vous pouvez être tenté d’attendre jusqu’à ce que “ce soit assez bon pour être partagé”.
+Mais cette attitude peut vous conduire à attendre très tard dans le processus de création et vous risquez de ne jamais vous ouvrir, pour diverses raisons.</p>
+
+<p>Par exemple, vous devrez peut-être revenir en arrière et revoir le document pour vous assurer que vous n’avez pas inconsciemment ajouté des informations sensibles ou classifiées, ce qui représente un surcroît de travail et de retard.
+Ou encore, vous pouvez vous sentir moins réceptif aux commentaires à mesure que vous vous rapprochez de la version finale d’un document, car vous avez passé tellement de temps à rassembler vos idées et à peaufiner vos mots.</p>
+
+<p>Comme nous l’avons expliqué dans notre précédent billet, travailler ouvertement est une approche participative qui inclut une réflexion et une documentation publiques.
+Le processus lui-même est aussi important que le document final.</p>
+
+<h3 id="être-humble-et-ouvert-desprit">Être humble et ouvert d’esprit</h3>
+
+<p>Travailler ouvertement peut donner l’impression que vous vous exposez aux critiques et au jugement des autres.</p>
+
+<p>Mais n’oubliez pas que personne ne sait tout.
+L’ouverture est une occasion pour vous et votre équipe de partager ce sur quoi vous travaillez et de permettre des expériences de collaboration uniques avec vos collègues et les citoyens.</p>
+
+<p>Cette approche est ce qui a rendu les projets de logiciels libres si puissants et adoptés dans le monde entier.
+C’est également un bon moyen de s’aligner sur la directive sur le gouvernement ouvert mentionnée précédemment.</p>
+
+<p>Bien entendu, le processus de révision officiel peut toujours avoir lieu pour chaque révision majeure de vos documents.
+Vous devez simplement vous assurer qu’entre ces versions, le processus de création est ouvert et permet à des personnes de tous horizons de contribuer.</p>
+
+<h2 id="gérer-la-communauté">Gérer la communauté</h2>
+
+<p>Un argument parfois utilisé pour éviter de travailler de manière ouverte est que la gestion de la communauté peut finir par représenter plus de travail que ce que vous obtenez en retour.
+Ou que le fait de recevoir des contributions externes avant qu’une certaine version soit suffisamment mature vous ralentirait.</p>
+
+<p>D’après notre expérience, un processus de rétroaction continue et à petite échelle est beaucoup moins exigeant sur le plan cognitif, car les contributions sont généralement plus petites et peuvent être plus facilement intégrées dans le flux de travail.
+Cela permet également d’identifier les problèmes à un stade précoce afin que des discussions parallèles puissent avoir lieu sur ces points précis.
+Enfin, l’examen et l’intégration continus des commentaires permettent de minimiser les perturbations de l’ensemble de l’effort de création.</p>
+
+<p>Comme indiqué précédemment, cette approche doit être participative.
+Cela signifie que vous devez préparer le terrain, expliquer ce que vous essayez d’accomplir et accueillir les contributions de tout le monde.</p>
+
+<p>Et encouragez les personnes extérieures à faire des commentaires.
+Assurez-vous de leur répondre, soit en reconnaissant simplement que vous avez lu leurs contributions, soit en leur faisant savoir ce qui sera fait.</p>
+
+<p>Puisque nous nous conformons à un code de valeurs et d’éthique, définissez clairement ce qui est toléré et ce qui ne l’est pas.
+Faites comprendre à votre équipe qu’il s’agit d’une démarche bénéfique et aidez les nouveaux venus à se sentir à l’aise avec le processus.</p>
+
+<p>Vous serez peut-être surpris de voir qui finira par contribuer !
+Soyez accueillant, ouvert d’esprit et inclusif.
+Tout le monde n’a pas les mêmes antécédents et les mêmes expériences de vie.
+Nous pouvons apprendre de chacun et progresser ensemble !</p>
+
+<p>Travaillez-vous ouvertement ? Envoyez-nous un <a href="mailto:&quot;EDSC.DGIIT.StrategieTI-ITStrategy.IITB.ESDC@hrsdc-rhdcc.gc.ca&quot;">courriel</a> et laissez-nous savoir ce qui fonctionne pour vous!</p>
+
+<h2 id="autres-lectures">Autres lectures</h2>
+
+<p>Travailler ouvertement est une chose à laquelle nous devrions tous nous efforcer de nous habituer.
+En tant que fonctionnaires, c’est une occasion unique de changer notre état d’esprit et de nous rapprocher des personnes pour lesquelles nous travaillons, ainsi que d’augmenter les chances de réutiliser des idées et des solutions existantes au lieu de partir de zéro.</p>
+
+<p>En ce qui concerne la réutilisabilité, qui devrait probablement faire l’objet d’un article à part entière, il est important de réaliser que les différentes juridictions ont des besoins et des défis très similaires, mais que nous travaillons de manière isolée par défaut, étant donné nos différents niveaux de responsabilités, de mandats et de législations.
+Quelques exemples pourraient concerner la connexion à un compte gouvernemental (ou <a href="https://www.canada.ca/fr/gouvernement/ouvrir-session-dossier-compte-en-ligne.html">plusieurs</a> !), la création de formulaires web, l’affichage de contenu web de manière accessible, etc.</p>
+
+<p>Il existe de nombreux articles et recherches explorant ce sujet, voici donc quelques liens si vous êtes intéressés.
+Il va sans dire que les administrations publiques en général sont prêtes à réutiliser des solutions et des idées pour améliorer la qualité de leurs services aux citoyens !
+Il est essentiel de travailler de manière ouverte pour permettre la découverte de ces solutions réutilisables !</p>
+
+<ul>
+  <li><a href="https://www.oreilly.com/tim/gov2/">Government 2.0</a>(en anglais) est une liste d’essais et d’interviews de Tim O’Reilly, qui est connu pour avoir inventé le terme “Government as a platform”.</li>
+  <li><a href="https://jaimieboyd.medium.com/common-components-for-digitalbc-99e0cc2befb4">Common Components for #DigitalBC</a> (en anglais), un billet de blog de Jaime Boyd, DSI de la Colombie-Britannique, sur les modules réutilisables, utilisés ensemble ou séparément.</li>
+  <li><a href="https://digital.gov.bc.ca/common-components">Re-use existing common components to create your product or service.</a> Le catalogue numérique des composantes communes de la Colombie-Britannique.</li>
+  <li><a href="https://www.themandarin.com.au/118672-government-as-a-platform-the-foundation-for-digital-government-and-gov-2-0/">Government as a Platform: the foundation for Digital Government and Gov 2.0</a> (en anglais) est un essai de Pia Andrews, qui présente sa vision d’un gouvernement numérique, un gouvernement en tant que plateforme.
+Elle explore également le modèle API pour les gouvernements ainsi que les concepts de composantes réutilisables à travers les services.
+Pia travaille actuellement au sein de EDSC pour naviguer dans les complexités de la modernisation de nos services aux citoyens.</li>
+  <li><a href="https://medium.com/digitalhks/a-working-definition-of-government-as-a-platform-1fa6ff2f8e8d">A working definition of Government as a Platform</a> (en anglais), est un essai de Richard Pope présentant la manière dont les gouvernements peuvent devenir des plateformes à partir desquelles les services aux citoyens peuvent être conçus en réutilisant des composantes et des services.</li>
+  <li><a href="https://policyoptions.irpp.org/fr/magazines/february-2019/lessons-estonia-digital-government/">Lessons from Estonia on digital government</a> (en anglais) est un essai de David Eaves sur la façon dont le Canada pourrait s’inspirer du parcours de l’Estonie en tirant parti d’éléments de construction communs pour les services numériques, même si nous tenons compte de la complexité liée aux systèmes et politiques hérités que le Canada doit gérer.</li>
+  <li><a href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/web-experience-toolkit.html">Boîte à outils de l’expérience Web</a> est une initiative du gouvernement du Canada qui  “comprend différents composants réutilisables et prêts-à-utiliser pour la conception et la mise à jour de sites Web innovateurs qui sont à la fois accessibles, utilisables et interopérables.
+Ces composants réutilisables sont des logiciels libres et gratuits mis à la disposition des ministères et des collectivités Web externes.”
+C’est un excellent exemple de la manière dont une équipe a pu travailler au grand jour au bénéfice du gouvernement dans son ensemble mais aussi de la société elle-même.</li>
+  <li><a href="https://wiki.gccollab.ca/GC_Service_%26_Digital_Target_Enterprise_Architecture">GC Service &amp; Digital Target Enterprise Architecture</a> (en anglais)</li>
+  <li><a href="https://www.govinfo.gov/content/pkg/GOVPUB-C13-dca04f7b7fc21321e39de88b35b2f1d3/pdf/GOVPUB-C13-dca04f7b7fc21321e39de88b35b2f1d3.pdf">1988 National Bureau of Standards’ Management Guide to
+Software Reuse</a> (en anglais, PDF 2.2 MB)</li>
+</ul>
+
+
+    <nav>
+<div style="margin-top: 30px; display: flex; justify-content: space-between; flex-wrap: wrap;"><p class="nav-item" style="flex: 1 1 0; width: 45%; padding-left: 0.5em;"><a class="text-dark nav-link" title="Les DPI et ARCS sont responsables de 480 exigences" href="/ITStrategy/2021/06/02/stats-instruments-politiques-numerique.html">&#8672;&nbsp;Billet précédent</a></p>
+
+      <p class="nav-item" style="flex: 1 1 0; width: 45%; padding-right: 0.5em; text-align: right"><a class="text-dark nav-link" title="La mobilisation des utilisateurs dans la prestation des services" href="/ITStrategy/2021/09/16/mobilisation-des-utilisateurs-dans-la-prestation-des-services.html" rel="prev">Prochain billet&nbsp;&#8674;</a></p></div>
+</nav>
+
+</div>
+
+      </article>
+    </main>
+    
+    
+<div class="container text-right">
+  <a class="text-muted" target="_blank"
+    href="https://github.com/sara-sabr/ITStrategy/tree/master/_posts/fr/2021-07-09-travailler-ouvertement-partie-2.md">Voir cette page dans GitHub</a>
+</div><footer class="pt-4 my-md-5 pt-md-5 border-top">
+  <div class="container">
+    <ul class="list-inline">
+      <li class="list-inline-item">
+        <a class="text-muted"
+          href="/ITStrategy/contactez-nous.html">Contactez nous</a>
+      </li>
+      <li class="list-inline-item">
+        <a class="text-muted"
+          href="/ITStrategy/archives-fr.html">Archives</a>
+      </li><li class="list-inline-item">
+        <a class="text-muted" target="_blank"
+          href="https://014gc.sharepoint.com/sites/IITBStrategy">Sharepoint</a>
+      </li>
+
+      <li class="list-inline-item">
+        <a class="text-muted" target="_blank"
+          href="http://esdc.prv/fr/index.shtml">Intranet EDSC</a>
+      </li>
+      <li class="list-inline-item">
+        <a class="text-muted"
+          href="/ITStrategy/close-confidentialite.html">Clause de confidentialité</a>
+      </li></ul>
+    <!-- <p>Droit d’auteur © Sa Majesté la Reine du chef du Canada, représentée par le ministre de Emploi et Développement social Canada, 2019-2020</p> -->
+  </div>
+</footer>
+
+<script>
+    function selectLanguage(e){  
+      e = e || window.event;
+      var src;
+      if (! (e.target || e.srcElement) ){
+        src = e
+      }
+      else{
+        src = e.target || e.srcElement;
+      }
+
+      var selectedLanguage = src.innerText.trim()
+
+    
+      if (selectedLanguage === "English"){
+        localStorage.setItem(
+          "language", "English"
+        )
+
+        
+        if (src.attributes.hasOwnProperty("href") && src.attributes.href.value !== ""){
+            window.location.replace(
+                src.attributes.href.value
+            )
+        }
+        else {
+            window.location.replace(
+                "./home.html"
+            )
+
+        }
+      }
+
+      else if ( selectedLanguage === "Français" ){
+        localStorage.setItem(
+          "language", "Français"
+        )
+
+        if (src.attributes.hasOwnProperty("href") && src.attributes.href.value !== ""){
+            window.location.replace(
+                src.attributes.href.value
+            )
+        }
+        else {
+            window.location.replace(
+                "./accueil.html"
+            )
+
+        }
+    
+      }
+    }  
+</script>
+
+<script src="https://code.jquery.com/jquery-3.4.1.slim.js"
+  integrity="sha256-BTlTdQO9/fascB1drekrDVkaKd9PkwBymMlHOiG+qLI=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+  integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+  integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/highlight.min.js"></script>
+
+<!-- Font Awesome https://fontawesome.com/  https://use.fontawesome.com/releases/v5.11.2/js/all.js -->
+<script src="https://use.fontawesome.com/releases/v5.11.2/js/all.js"></script>
+
+<!-- DataTables -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.19/js/jquery.dataTables.min.js"
+  integrity="sha256-t5ZQTZsbQi8NxszC10CseKjJ5QeMw5NINtOXQrESGSU=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.19/js/dataTables.bootstrap4.min.js"
+  integrity="sha256-hJ44ymhBmRPJKIaKRf3DSX5uiFEZ9xB/qx8cNbJvIMU=" crossorigin="anonymous"></script><script>
+  $("table").addClass("table");
+  $("blockquote").addClass("blockquote");
+  hljs.initHighlightingOnLoad();
+
+
+  var divs = $("div div.highlight");
+  var i;
+  for (i = 0; i < divs.length; i++) {
+    divs[i].setAttribute("tabindex", "0");
+  }
+
+/** Inspiration/source for accessible cards: 
+https://inclusive-components.design/cards/ 
+Author: Heydon Pickering
+Twitter: https://twitter.com/heydonworks
+*/
+
+  const cards = document.querySelectorAll('.card');
+  cards.forEach(card => {
+      card.style.cursor = 'pointer';
+  })
+  Array.prototype.forEach.call(cards, card => {
+    //Source code from Heydon Pickering
+    let down, up, link = card.querySelector('h2 a');
+    card.onmousedown = () => down = +new Date();
+    card.onmouseup = () => {
+      up = +new Date();
+      if ((up - down) < 200) {
+        link.click();
+      }
+    }
+    //Add conditional styling: if JS disabled, not applied
+    card.onmouseover = () => {
+      card.style.border = "1px solid black";
+    }
+    card.onmouseout = () => {
+      card.style.border = "1px solid rgba(0,0,0,.125)";
+    }
+  });
+
+  // Fix for text wrapping in menu
+  $(document).ready(function () {
+    $(document.body).css('padding-top', $('#topnavbar').height() - 25);
+    $(window).resize(function () {
+      $(document.body).css('padding-top', $('#topnavbar').height() - 25);
+    });
+
+  });
+</script>
+    </div>
+
+  </body>
+
+</html>
