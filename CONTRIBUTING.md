@@ -148,6 +148,12 @@ Content requiring the exception
 
 The [link-check](https://github.com/tcort/link-check) test scans the markdown document for URLs and will test if it is alive.
 
+#### Markdown Link Checker
+
+The [markdown-link-check](https://github.com/sara-sabr/markdown-link-check) will indicate any broken links through a warning message in GiHhub action.
+
+See [https://github.com/sara-sabr/markdown-link-check](https://github.com/sara-sabr/markdown-link-check) for more details or to make changes to the code.
+
 #### Spelling Checker
 
 This test runs the specified markdown files against a specified dictionary.
