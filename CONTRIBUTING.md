@@ -152,7 +152,7 @@ The [link-check](https://github.com/tcort/link-check) test scans the markdown do
 
 The [markdown-link-check](https://github.com/sara-sabr/markdown-link-check) will indicate any broken links through a warning message in GiHhub action.
 
-See CONTRIBUTING.md in [https://github.com/sara-sabr/markdown-link-check](https://github.com/sara-sabr/markdown-link-check) for more details.
+See [CONTRIBUTING.md](https://github.com/sara-sabr/markdown-link-check/blob/master/CONTRIBUTING.md) in [https://github.com/sara-sabr/markdown-link-check](https://github.com/sara-sabr/markdown-link-check) for more details.
 
 #### Spelling Checker
 
