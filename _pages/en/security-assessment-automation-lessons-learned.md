@@ -7,8 +7,8 @@ sections: Pilots
 status: Closed;success
 permalink: /security-assessment-automation-lessons-learned.html
 ---
-
-# Executive Summary
+<!-- markdownlint-disable MD033 -->
+## Executive Summary
 
 This Lessons Learned Report for the Security Assessment & Authorization (SA&A) Automation Proof of Concept (PoC) presents the results of an experiment aimed at evaluating the effectiveness of Large Language Models (LLMs). In collaboration with the IT Strategy team, the Artificial Intelligence (AI) Centre of Excellence (COE), and the Canadian Digital Service (CDS), the PoC focused on achieving the following objectives:
 
@@ -22,19 +22,19 @@ The selected LLM solution for the PoC was AskSage and the application used to te
 
 The lessons learned from the PoC are:
 
-1.  **There is a need to balance automation and manual assessments**: The experiment showed that LLMs can speed up Security Assessments and reduce manual work, but accuracy requires mature information stewardship and a balanced approach between automation and human judgment. AskSage addressed relevant security controls but lacked specific references or evidence. Enhancing the assessment involves verifying sources, providing explicit document references, understanding context, and collaborating with experts.
+1. **There is a need to balance automation and manual assessments**: The experiment showed that LLMs can speed up Security Assessments and reduce manual work, but accuracy requires mature information stewardship and a balanced approach between automation and human judgment. AskSage addressed relevant security controls but lacked specific references or evidence. Enhancing the assessment involves verifying sources, providing explicit document references, understanding context, and collaborating with experts.
 
-2.  **The accuracy rate for this PoC was 55% amongst the 72 National Institute of Standards and Technology (NIST) Controls that were assessed**, Regular LLM updates, that include iterative training of the LLM on Government of Canada evolving security control profiles, departmental polices and solution’s specific evidence, are crucial for accuracy.
+2. **The accuracy rate for this PoC was 55% amongst the 72 National Institute of Standards and Technology (NIST) Controls that were assessed**, Regular LLM updates, that include iterative training of the LLM on Government of Canada evolving security control profiles, departmental polices and solution’s specific evidence, are crucial for accuracy.
 
-3.  **Leveraging reusable IT solution components reduces time to complete SA&As**: The experiment highlighted the security and efficiency benefits of actively re-using IT solution components as part of a solution’s architecture. This approach streamlines assessments and enhances security.
+3. **Leveraging reusable IT solution components reduces time to complete SA&As**: The experiment highlighted the security and efficiency benefits of actively re-using IT solution components as part of a solution’s architecture. This approach streamlines assessments and enhances security.
 
-4.  **LLM tools are rapidly evolving and improving:** LLM tools, including AskSage, constantly improve and evolve. AskSage has added functionality like direct Word document injection and image recognition during the PoC. Staying up to date with new capabilities and deprecated features requires monitoring the platforms' product roadmap, terms and conditions, and practicing effective risk management.
+4. **LLM tools are rapidly evolving and improving:** LLM tools, including AskSage, constantly improve and evolve. AskSage has added functionality like direct Word document injection and image recognition during the PoC. Staying up to date with new capabilities and deprecated features requires monitoring the platforms' product roadmap, terms and conditions, and practising effective risk management.
 
-5.  **Knowledge of how to use an LLM correctly (including prompt writing and scripting) is essential.** Knowledge of how to use an LLM effectively is essential for running and testing the AskSage tool. It required knowledge in APIs, scripting languages, and the ability to write effective prompts. Without our limited staff knowledge in these areas, the successful execution of the PoC would not have been possible.
+5. **Knowledge of how to use an LLM correctly (including prompt writing and scripting) is essential.** Knowledge of how to use an LLM effectively is essential for running and testing the AskSage tool. It required knowledge in APIs, scripting languages, and the ability to write effective prompts. Without our limited staff knowledge in these areas, the successful execution of the PoC would not have been possible.
 
-6.  **Challenges exist in IITB in running** **experimentations.** Some of the challenges that the PoC experienced that may hold other teams back from running experimentations included: difficulty in paying for a temporary SaaS solution, difficulty in finding personnel with time to participate in the activities of the PoC, and the additional work related to the requirement to run the PoC as a project.
+6. **Challenges exist in IITB in running** **experimentations.** Some of the challenges that the PoC experienced that may hold other teams back from running experimentations included: difficulty in paying for a temporary SaaS solution, difficulty in finding personnel with time to participate in the activities of the PoC, and the additional work related to the requirement to run the PoC as a project.
 
-# Introduction 
+## Introduction
 
 Security Assessments and Authorizations (SA&As) play a crucial role in ensuring the reliability and compliance of IT solutions. SA&As are completed before the launch of an IT solution, following significant modifications, or during periodic reviews.
 
@@ -42,7 +42,7 @@ The SA&A process usually involves a series of steps. These include categorizing 
 
 Currently, SA&As are conducted late in the development cycle, typically after significant updates to IT solutions. This is counter to a "Security by Design" approach and contributes to a growing backlog of IT security compliance requests, slowing down the release process and often pushing IT solutions to production with unresolved security risks. Addressing risks earlier would not only enhance overall security posture and compliance but also allow teams to receive early, rapid feedback, enabling them to quickly address vulnerabilities.
 
-Innovations in technology, such as Large Language Models (LLMs) (a type of Generative AI), have the potential to automate these reviews, streamlining the process, minimizing manual labor, cutting costs, and allowing IT Security Analysts to concentrate on other critical and more complicated tasks.
+Innovations in technology, such as Large Language Models (LLMs) (a type of Generative AI), have the potential to automate these reviews, streamlining the process, minimizing manual labour, cutting costs, and allowing IT Security Analysts to concentrate on other critical and more complicated tasks.
 
 It is possible that LLMs could even increase the productivity of security practitioners and security assessors by mapping and documenting security control evidence to each applicable security control and providing the appropriate description of the implementation of the security control for evaluation purposes. Success would depend on the accuracy of the documentation or evidence that is compiled by project teams for each security control. Given that some evidence is image based with screen captures of system settings, the LLM would need to understand images.
 
@@ -50,7 +50,7 @@ LLMs learn from a vast amount of text data. They can understand and generate tex
 
 To interact with LLMs more effectively and give them more context to respond to, techniques such as [Retrieval-Augmented Generation (RAG)](https://www.youtube.com/watch?si=WKpqlBiJ4uZ-H7Ih&v=T-D1OfcDW1M&feature=youtu.be) and vector databases can be used. RAG is a technique that improves the accuracy of generative AI models by pulling in facts from specific sources. Vector databases, on the other hand, store data as high-dimensional vectors. This facilitates quick similarity-based searches, which help LLM’s to deal with more extensive information sequences.
 
-# PoC Description 
+## PoC Description
 
 The purpose of this PoC was to assess an LLM for automating specific tasks within security assessments with a focus on evaluating the effectiveness and accuracy of LLM-based automation.
 
@@ -70,7 +70,7 @@ The stakeholders involved in the PoC were:
 
 | Branch/Directorate | Team |
 |----|----|
-| IIITB/ SABR | IT Strategy |
+| IITB/ SABR | IT Strategy |
 | IITB/SABR | Research & Prototype (R&P) |
 | IITB/ECS | Cloud CoE |
 | IITB/EDS | AI CoE |
@@ -82,78 +82,83 @@ Table 1: Stakeholders by branch/division
 
 The roles and responsibilities of the stakeholders for the pilot were as follows:
 
-| **Activity ** | **IT Strategy** | **R&P** |  | **Cloud CoE** |  | **AI CoE** |  | **IT Security** |  | **SDLC Advisor** | **CDS** |  |
+| **Activity** | **IT Strategy** | **R&P** |  | **Cloud CoE** |  | **AI CoE** |  | **IT Security** |  | **SDLC Advisor** | **CDS** |  |
 |----|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Perform Project Management (beginning to end)** ** | A/R |  |  |  |  |  | I |  | C | C |  | C |
-| Produce PoC report** ** | A/R |  | I |  | I |  | C |  | C | C |  | C |
-| Produce the NIST 800-171 document for the SDLC & Product Delivery Guidebook** ** | A |  |  |  |  |  | I |  | C | R |  |  |
-| Interface with AskSage** ** | A/R |  | I |  | I |  | C |  | C |  |  | R |
-| Capture and Store AskSage-generated documentation** ** | A/R |  |  |  |  |  | C |  | I |  |  | R |
-| Evaluate AskSage-generated documentation’s quality** ** | A |  | I |  | I |  | I |  | R | C |  |  |
-| Conduct the current SA&A process with SDLC** ** | I |  |  |  |  |  |  |  | A/R | C |  |  |
-| Produce the current SA&A process documentation** ** | I |  |  |  |  |  |  |  | A/R | C |  |  |
+| Perform Project Management (beginning to end) | A/R |  |  |  |  |  | I |  | C | C |  | C |
+| Produce PoC report | A/R |  | I |  | I |  | C |  | C | C |  | C |
+| Produce the NIST 800-171 document for the SDLC & Product Delivery Guidebook | A |  |  |  |  |  | I |  | C | R |  |  |
+| Interface with AskSage | A/R |  | I |  | I |  | C |  | C |  |  | R |
+| Capture and Store AskSage-generated documentation | A/R |  |  |  |  |  | C |  | I |  |  | R |
+| Evaluate AskSage-generated documentation’s quality | A |  | I |  | I |  | I |  | R | C |  |  |
+| Conduct the current SA&A process with SDLC | I |  |  |  |  |  |  |  | A/R | C |  |  |
+| Produce the current SA&A process documentation | I |  |  |  |  |  |  |  | A/R | C |  |  |
 
-Table 2: RACI for the SA&A Automation PoC (R) Responsible, (A) Accountable, (C) Contributes, (I) Informed 
+Table 2: RACI for the SA&A Automation PoC (R) Responsible, (A) Accountable, (C) Contributes, (I) Informed
 
-**Evaluation Criteria**
+### Evaluation Criteria
 
 The following evaluation criteria were developed to measure the success of the PoC:
 
 <table>
-<colgroup>
-<col style="width: 22%" />
-<col style="width: 27%" />
-<col style="width: 50%" />
-</colgroup>
-<thead>
-<tr>
-<th>Criteria Measured</th>
-<th>Data Source(s) Consulted</th>
-<th>Measurement Method </th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Time to completion </td>
-<td>MS Project Plans </td>
-<td>Completion Date – Start Date </td>
-</tr>
-<tr>
-<td>Quality </td>
-<td>SA&amp;A Documents </td>
-<td><p>Count of completed documents. </p>
-<p>Evaluation by IT Security Advisor </p></td>
-</tr>
-<tr>
-<td>Costs </td>
-<td><p>MS Project Plans </p>
-<p>Salary Levels </p>
-<p>SaaS Invoice </p></td>
-<td><p>For each personnel involved, time * salary </p>
-<p>SaaS Invoice statement </p></td>
-</tr>
-<tr>
-<td>Complexity </td>
-<td>IT Security Advisors, Managers </td>
-<td>High level evaluation on level of efforts to operationalize a GPT-type service (e.g. information stewardship, procedures) </td>
-</tr>
-<tr>
-<td>SA&amp;A process overall time savings </td>
-<td>IT Security Advisors </td>
-<td>High level evaluation on level of efforts believed to be saved by IT Security Assessors due to the consistency of documentation. </td>
-</tr>
-</tbody>
+    <colgroup>
+    <col style="width: 22%" />
+    <col style="width: 27%" />
+    <col style="width: 50%" />
+    </colgroup>
+    <thead>
+        <tr>
+            <th>Criteria Measured</th>
+            <th>Data Source(s) Consulted</th>
+            <th>Measurement Method </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Time to completion </td>
+            <td>MS Project Plans </td>
+            <td>Completion Date – Start Date </td>
+        </tr>
+        <tr>
+            <td>Quality </td>
+            <td>SA&amp;A Documents </td>
+            <td>
+                <p>Count of completed documents. </p>
+                <p>Evaluation by IT Security Advisor </p>
+            </td>
+        </tr>
+        <tr>
+            <td>Costs </td>
+            <td>
+                <p>MS Project Plans </p>
+                <p>Salary Levels </p>
+                <p>SaaS Invoice </p></td>
+            <td>
+                <p>For each personnel involved, time * salary </p>
+                <p>SaaS Invoice statement </p>
+                </td>
+        </tr>
+        <tr>
+            <td>Complexity </td>
+            <td>IT Security Advisors, Managers </td>
+            <td>High level evaluation on level of efforts to operationalize a GPT-type service (e.g. information stewardship, procedures) </td>
+        </tr>
+        <tr>
+            <td>SA&amp;A process overall time savings </td>
+            <td>IT Security Advisors </td>
+            <td>High level evaluation on level of efforts believed to be saved by IT Security Assessors due to the consistency of documentation. </td>
+        </tr>
+    </tbody>
 </table>
 
 Table 3: Evaluation criteria for the PoC
 
-# Methodology 
+## Methodology
 
 For this proof of concept, the PoC sponsor selected the “ESDC SLDC & Product Delivery Guidebook” as the application to test the LLM tool. The SDLC & Product Delivery Guidebook is a custom web application hosted on the ESDC Azure Cloud, maintained by the SDLC & Product Delivery Guidebook solution team.
 
 A total of 73 IT Security Controls, based on the [ITSG-33 Annex 3](https://www.cyber.gc.ca/en/guidance/annex-3a-security-control-catalogue-itsg-33), were in scope for this exercise. ITSG-33 Annex 3 recommends specific IT Security controls that are based on the [NIST SP 800-53A Rev4](https://csrc.nist.gov/pubs/sp/800/53/a/r4/upd1/final) recommendations.
 
-**AskSage**
+### AskSage
 
 The LLM tool used for this PoC was [AskSage](https://www.asksage.ai/), a new commercial service offering founded by Nicolas Chaillan, the former Chief Software Officer of the U.S (United States) Air Force and the previous lead of the Enterprise in the U.S. Air Force. in the U.S. Air Force.
 
@@ -165,29 +170,29 @@ A three-month subscription was purchased for the AskSage platform, which include
 
 These tokens, serving as credits, enable users to utilize Ask Sage’s services. The tokens were evenly distributed among three users: the Canadian Digital Service (CDS), the Artificial Intelligence Centre of Excellence (AI CoE), and the IT Strategy team, ensuring each had sufficient tokens for effective use of the platform during the subscription period.
 
-**Inputs to AskSage**
+### Inputs to AskSage
 
 The SDLC & Product Delivery Guidebook solution team provided two essential documents for this pilot. From these two documents, the IT Strategy team created a third one called “security context” that was necessary to interact with the Ask Sage interface, as described below.
 
-1.  SDLC Guidebook Security Concept of Operations (ConOps) This document, authored by the solution team, serves as a reference for system administrators and security professionals to understand and manage the system’s configuration effectively, making it a crucial piece of information for maintaining and enhancing the security posture of an organization’s software infrastructure. It explains how the solution operates, where it is installed, and how it is configured.
+1. SDLC Guidebook Security Concept of Operations (ConOps) This document, authored by the solution team, serves as a reference for system administrators and security professionals to understand and manage the system’s configuration effectively, making it a crucial piece of information for maintaining and enhancing the security posture of an organization’s software infrastructure. It explains how the solution operates, where it is installed, and how it is configured.
 
-2.  SDLC Guidebook SA&A Evidence document: This document contains responses related to the security controls that were requested by IT Security for the SDLC Guidebook solution. As the SDLC Guidebook solution previously passed a traditional IT Security Assessment where IT Security Analysts requested security-related information from the SDLC Guidebook Solution team. Those questions and answers have been documented in this SDLC Guidebook SA&A Evidence document.
+2. SDLC Guidebook SA&A Evidence document: This document contains responses related to the security controls that were requested by IT Security for the SDLC Guidebook solution. As the SDLC Guidebook solution previously passed a traditional IT Security Assessment where IT Security Analysts requested security-related information from the SDLC Guidebook Solution team. Those questions and answers have been documented in this SDLC Guidebook SA&A Evidence document.
 
-3.  Security Context document: The IT Strategy team extracted the answers or implementation details from the SDLC Guidebook Evidence document that contains the information related to the security controls required by IT Security. The security context document is a plain text file.
+3. Security Context document: The IT Strategy team extracted the answers or implementation details from the SDLC Guidebook Evidence document that contains the information related to the security controls required by IT Security. The security context document is a plain text file.
 
-**The Scenarios**
+### The Scenarios
 
 **Scenarios Overview:** The IT Strategy team designed four scenarios to learn how to use the tool and evaluate AskSage’s performance under varying conditions (ranging from no training data to more extensive training data). This approach enabled testing of the capabilities and limitations of AskSage in different contexts, providing valuable insights for optimization.
 
-1.  **Large Prompts:** This method involved the use of comprehensive prompts, containing Security Context, Control Details, and an Action Prompt, to extract implementation details. Despite its effectiveness, this approach proved to be the least cost-efficient due to the high token usage it necessitated.
+1. **Large Prompts:** This method involved the use of comprehensive prompts, containing Security Context, Control Details, and an Action Prompt, to extract implementation details. Despite its effectiveness, this approach proved to be the least cost-efficient due to the high token usage it necessitated.
 
-2.  **Smaller Prompt after Training:** This method involved an initial training phase on Security Context details, then using a more concise prompt for extraction. The objective of this approach was to streamline the extraction process.
+2. **Smaller Prompt after Training:** This method involved an initial training phase on Security Context details, then using a more concise prompt for extraction. The objective of this approach was to streamline the extraction process.
 
-3.  **Training with SDLC Guidebook ConOps:** In this scenario, AskSage was trained using the SDLC Guidebook Security Concept of Operations (ConOps) to generate a new dataset. The goal was to expand AskSage’s understanding and enhance the accuracy of its outputs.
+3. **Training with SDLC Guidebook ConOps:** In this scenario, AskSage was trained using the SDLC Guidebook Security Concept of Operations (ConOps) to generate a new dataset. The goal was to expand AskSage’s understanding and enhance the accuracy of its outputs.
 
-4.  **Use of Both Datasets:** This approach involved prompting AskSage to use both datasets to generate implementation details for each control. However, due to token limitations, this task could not be completed.
+4. **Use of Both Datasets:** This approach involved prompting AskSage to use both datasets to generate implementation details for each control. However, due to token limitations, this task could not be completed.
 
-**Scenario 1: Implementation Details Extraction Using Large Prompts**
+#### Scenario 1: Implementation Details Extraction Using Large Prompts
 
 In this scenario, large prompts were input, which included the Security Context, Control Details, and an Action Prompt. The goal was to determine AskSage’s ability to extract implementation details for each control under these conditions.
 
@@ -236,9 +241,9 @@ In this scenario, large prompts were input, which included the Security Context,
 
 Table 4: Scenario 1 details
 
-**Scenario 2: Use Smaller Prompt after training AskSage on Security Context details**
+#### Scenario 2: Use Smaller Prompt after training AskSage on Security Context details
 
-In this scenario, a smaller prompt was used after training AskSage on the Security Context details (implementation answers found in the SDLC Guidebook SA&A Evidence document). The aim was to assess AskSage's ability to extract implementation details for each control using a more concise prompt, following the initial training phase. 
+In this scenario, a smaller prompt was used after training AskSage on the Security Context details (implementation answers found in the SDLC Guidebook SA&A Evidence document). The aim was to assess AskSage's ability to extract implementation details for each control using a more concise prompt, following the initial training phase.
 
 <table>
 <colgroup>
@@ -288,7 +293,7 @@ In this scenario, a smaller prompt was used after training AskSage on the Securi
 
 Table 5: Scenario 2 details
 
-**Scenario 3 - Training with SDLC Guidebook ConOps** 
+#### Scenario 3 - Training with SDLC Guidebook ConOps
 
 AskSage was trained with the SDLC Guidebook’s Security Concept of Operations (ConOps) document to create a new dataset. The goal was to use a standard document that Solution Architects produce as part of a Solution design to enhance AskSage’s understanding and output accuracy.
 
@@ -339,7 +344,7 @@ The difference between this scenario and Scenario 2 is that, in Scenario 2, the 
 
 Table 6: Scenario 3 details
 
-**Scenario 4 - Using Both Datasets.** 
+#### Scenario 4 - Using Both Datasets
 
 AskSage was instructed to use both datasets (SDLC Guidebook Security Concept of Operations document, and the (ConOps) and the SDLC Guidebook SA&A Evidence document) that we injected to generate implementation details for each control. However, due to token limitations, the scenario could not be completed fully.
 
@@ -389,13 +394,13 @@ AskSage was instructed to use both datasets (SDLC Guidebook Security Concept of 
 
 Table 7: Scenario 4 details
 
-**Outputs from AskSage**
+### Outputs from AskSage
 
 Detailed outputs for each security control can be found in the above tables (separate excel file for each scenario). The IT Security team did an assessment of the detailed outputs from scenario 3 and determined that the tool provided some relevant answers to security controls but did not provide concrete evidence or specific references (like document sections or URLs) to support its assessment. Due to resourcing/contracting constraints, the IT Security team were not able to assess the other scenarios and so a comparative analysis of the quality of the outputs from the 4 scenarios was not completed.
 
-# Lessons Learned 
+## Lessons Learned
 
-## Evaluation criteria results 
+### Evaluation criteria results
 
 <table>
 <colgroup>
@@ -496,11 +501,9 @@ The LLM can be broken down into two essential sets of evidence. First, there are
 
 Guidance on the SA&A process including the benefits of using re-usable components and gathering the required information on those re-usable components to complete a security assessment would be beneficial.
 
-### 
+### LLM tools are rapidly evolving and improving
 
-### LLM tools are rapidly evolving and improving 
-
-LLM tools, like AskSage, constantly improve and evolve. AskSage has added functionality like direct Word document injection and image recognition during the PoC. Staying up to date with new capabilities and deprecated features requires monitoring the platforms' product roadmap, terms and conditions, and practicing effective risk management.
+LLM tools, like AskSage, constantly improve and evolve. AskSage has added functionality like direct Word document injection and image recognition during the PoC. Staying up to date with new capabilities and deprecated features requires monitoring the platforms' product roadmap, terms and conditions, and practising effective risk management.
 
 ### Knowledge of how to use an LLM correctly (including prompt writing and knowledge of scripting) is essential
 
@@ -520,23 +523,23 @@ Token consumption = Approximately 2M tokens were used, and 1M left unused, \$100
 
 Starting and executing the PoC proved challenging due to the following reasons:
 
-**1. Paying for a temporary SaaS subscription for experimentation**
+#### 1. Paying for a temporary SaaS subscription for experimentation
 
 Purchasing a SaaS subscription, even temporarily, required following the software intake process designed for production use of software. The PoC challenged the use of this process because the software intake process is designed to assess software for production use, and that situation is to use a software for experimentation, that using the process for a temporary \$1000 USD subscription would go against the ESDC Code of Conduct, specifically: Stewardship of public money, Integrity to meet the spirit of the law, and Excellence to manage work to achieve best results for Canadians.
 
 Purchasing software still requires a section 32 financial authority so the PoC team had to find someone willing to exercise their section 32 financial authority using a departmental acquisition card. An agreement was reached with a promise from the PoC team to only use \$1000 USD over 3 months.
 
-**2. Finding personnel to use Ask Sage (hands-on experimentation)**
+#### 2. Finding personnel to use Ask Sage (hands-on experimentation)
 
 We found that, although there are many teams showing a desire to experiment, few have the capacity to take time and learn, interact with, configure, and try out new tools. Though we knocked on 3 doors to find others to test the LLM tool, the bulk of the work had to be done by a member of the IT Strategy team who luckily had software development expertise and a keen interest in learning modern software.
 
-**3. Having to managing the PoC as a project created additional work**
+#### 3. Having to managing the PoC as a project created additional work
 
 Coming up with an idea is easy. Getting it to “done” is also work. The IT Strategy team’s manager acted as a project manager to perform stakeholder management, scope management, schedule management, cost management, resource management, risks, and issues management. Such work was essential in setting expectations between already overwhelmed teams like IT Security and building trust.
 
 An important part of the success for this PoC was the relationship established between IT Strategy and IT Security. This relationship was built by starting with scoping the PoC, establishing early the common goals behind it, and establishing roles and responsibilities such as “who does the management, who does the work, who reviews the work, who approves the work.”
 
-# Conclusion 
+## Conclusion
 
 The PoC revealed that while automating the SA&A process (using an LLM tool) has the potential to enhance the assessment process, human reviews conducted by IT Security Analysts remain essential for ensuring accuracy. This is a standard risk management practice in the deployment of responsible AI and is instrumental in training AI systems, as the feedback from human reviews can be leveraged to further enhance and refine the performance of the AI.
 
