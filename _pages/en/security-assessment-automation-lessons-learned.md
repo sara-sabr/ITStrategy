@@ -8,7 +8,7 @@ status: Closed;success
 permalink: /security-assessment-automation-lessons-learned.html
 ---
 <!-- markdownlint-disable MD033 -->
-## Executive Summary
+## 1 Executive Summary
 
 This Lessons Learned Report for the Security Assessment & Authorization (SA&A) Automation Proof of Concept (PoC) presents the results of an experiment aimed at evaluating the effectiveness of Large Language Models (LLMs). In collaboration with the IT Strategy team, the Artificial Intelligence (AI) Centre of Excellence (COE), and the Canadian Digital Service (CDS), the PoC focused on achieving the following objectives:
 
@@ -34,7 +34,7 @@ The lessons learned from the PoC are:
 
 6. **Challenges exist in IITB in running** **experimentations.** Some of the challenges that the PoC experienced that may hold other teams back from running experimentations included: difficulty in paying for a temporary SaaS solution, difficulty in finding personnel with time to participate in the activities of the PoC, and the additional work related to the requirement to run the PoC as a project.
 
-## Introduction
+## 2 Introduction
 
 Security Assessments and Authorizations (SA&As) play a crucial role in ensuring the reliability and compliance of IT solutions. SA&As are completed before the launch of an IT solution, following significant modifications, or during periodic reviews.
 
@@ -50,7 +50,7 @@ LLMs learn from a vast amount of text data. They can understand and generate tex
 
 To interact with LLMs more effectively and give them more context to respond to, techniques such as [Retrieval-Augmented Generation (RAG)](https://www.youtube.com/watch?si=WKpqlBiJ4uZ-H7Ih&v=T-D1OfcDW1M&feature=youtu.be) and vector databases can be used. RAG is a technique that improves the accuracy of generative AI models by pulling in facts from specific sources. Vector databases, on the other hand, store data as high-dimensional vectors. This facilitates quick similarity-based searches, which help LLM’s to deal with more extensive information sequences.
 
-## PoC Description
+## 3 PoC Description
 
 The purpose of this PoC was to assess an LLM for automating specific tasks within security assessments with a focus on evaluating the effectiveness and accuracy of LLM-based automation.
 
@@ -152,7 +152,7 @@ The following evaluation criteria were developed to measure the success of the P
 
 Table 3: Evaluation criteria for the PoC
 
-## Methodology
+## 4 Methodology
 
 For this proof of concept, the PoC sponsor selected the “ESDC SLDC & Product Delivery Guidebook” as the application to test the LLM tool. The SDLC & Product Delivery Guidebook is a custom web application hosted on the ESDC Azure Cloud, maintained by the SDLC & Product Delivery Guidebook solution team.
 
@@ -398,9 +398,9 @@ Table 7: Scenario 4 details
 
 Detailed outputs for each security control can be found in the above tables (separate excel file for each scenario). The IT Security team did an assessment of the detailed outputs from scenario 3 and determined that the tool provided some relevant answers to security controls but did not provide concrete evidence or specific references (like document sections or URLs) to support its assessment. Due to resourcing/contracting constraints, the IT Security team were not able to assess the other scenarios and so a comparative analysis of the quality of the outputs from the 4 scenarios was not completed.
 
-## Lessons Learned
+## 5 Lessons Learned
 
-### Evaluation criteria results
+### 5.1 Evaluation criteria results
 
 <table>
 <colgroup>
@@ -475,9 +475,9 @@ Detailed outputs for each security control can be found in the above tables (sep
 
 Table 8: Evaluation criteria results
 
-## Lessons Learned
+### 5.2 Lessons Learned
 
-### There is a need to balance automation and manual assessments
+#### 5.2.1 There is a need to balance automation and manual assessments
 
 While LLMs can speed up assessments and reduce manual effort, achieving accurate results requires mature information stewardship and manual intervention. Regarding information stewardship, through this PoC the team learned that:
 
@@ -489,7 +489,7 @@ In addition to information stewardship, one must bear in mind that the applicati
 
 For now, striking a balance between automated and manual assessments is crucial. LLMs can assist, but human judgement remains essential.
 
-### Leveraging reusable IT solution components and data reduces time to complete SA&As
+#### 5.2.2 Leveraging reusable IT solution components and data reduces time to complete SA&As
 
 While outside the scope of the PoC, the team realized during the process that including reusable components within an application can lead to a more secure and efficient SA&A process and help streamline assessments and enhance overall security.
 
@@ -501,11 +501,11 @@ The LLM can be broken down into two essential sets of evidence. First, there are
 
 Guidance on the SA&A process including the benefits of using re-usable components and gathering the required information on those re-usable components to complete a security assessment would be beneficial.
 
-### LLM tools are rapidly evolving and improving
+#### 5.2.3 LLM tools are rapidly evolving and improving
 
 LLM tools, like AskSage, constantly improve and evolve. AskSage has added functionality like direct Word document injection and image recognition during the PoC. Staying up to date with new capabilities and deprecated features requires monitoring the platforms' product roadmap, terms and conditions, and practising effective risk management.
 
-### Knowledge of how to use an LLM correctly (including prompt writing and knowledge of scripting) is essential
+#### 5.2.4 Knowledge of how to use an LLM correctly (including prompt writing and knowledge of scripting) is essential
 
 The most common LLM people know is OpenAI’s ChatGPT. It provides a user interface where you can interact with it using chat-like prompts. Prompt engineering is an emerging skill needed to correctly interact with generative AI tools by writing clear instructions as LLMs cannot read minds. In the PoC, the team had to learn how to write effective prompts to get answers that were needed.
 
@@ -519,27 +519,27 @@ However, behind the scenes, training data may have augmented the prompt without 
 
 Token consumption = Approximately 2M tokens were used, and 1M left unused, \$1000 spent on all tokens.
 
-### Challenges exist in IITB in running experimentations
+#### 5.2.5 Challenges exist in IITB in running experimentations
 
 Starting and executing the PoC proved challenging due to the following reasons:
 
-#### 1. Paying for a temporary SaaS subscription for experimentation
+##### 1. Paying for a temporary SaaS subscription for experimentation
 
 Purchasing a SaaS subscription, even temporarily, required following the software intake process designed for production use of software. The PoC challenged the use of this process because the software intake process is designed to assess software for production use, and that situation is to use a software for experimentation, that using the process for a temporary \$1000 USD subscription would go against the ESDC Code of Conduct, specifically: Stewardship of public money, Integrity to meet the spirit of the law, and Excellence to manage work to achieve best results for Canadians.
 
 Purchasing software still requires a section 32 financial authority so the PoC team had to find someone willing to exercise their section 32 financial authority using a departmental acquisition card. An agreement was reached with a promise from the PoC team to only use \$1000 USD over 3 months.
 
-#### 2. Finding personnel to use Ask Sage (hands-on experimentation)
+##### 2. Finding personnel to use Ask Sage (hands-on experimentation)
 
 We found that, although there are many teams showing a desire to experiment, few have the capacity to take time and learn, interact with, configure, and try out new tools. Though we knocked on 3 doors to find others to test the LLM tool, the bulk of the work had to be done by a member of the IT Strategy team who luckily had software development expertise and a keen interest in learning modern software.
 
-#### 3. Having to managing the PoC as a project created additional work
+##### 3. Having to managing the PoC as a project created additional work
 
 Coming up with an idea is easy. Getting it to “done” is also work. The IT Strategy team’s manager acted as a project manager to perform stakeholder management, scope management, schedule management, cost management, resource management, risks, and issues management. Such work was essential in setting expectations between already overwhelmed teams like IT Security and building trust.
 
 An important part of the success for this PoC was the relationship established between IT Strategy and IT Security. This relationship was built by starting with scoping the PoC, establishing early the common goals behind it, and establishing roles and responsibilities such as “who does the management, who does the work, who reviews the work, who approves the work.”
 
-## Conclusion
+## 6 Conclusion
 
 The PoC revealed that while automating the SA&A process (using an LLM tool) has the potential to enhance the assessment process, human reviews conducted by IT Security Analysts remain essential for ensuring accuracy. This is a standard risk management practice in the deployment of responsible AI and is instrumental in training AI systems, as the feedback from human reviews can be leveraged to further enhance and refine the performance of the AI.
 
