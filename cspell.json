@@ -701,7 +701,12 @@
     "gouv",
     "vwapj",
     "SFGSME",
-    "EFCPME"
+    "EFCPME",
+    "CITS",
+    "RACI",
+    "SLDC",
+    "itsg",
+    "conops"
   ],
   "flagWords": [],
   "import": ["node_modules/@cspell/dict-fr-fr/cspell-ext.json"],
